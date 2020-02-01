@@ -1,0 +1,8 @@
+---
+api: projects
+topic: "AI in Robotics"
+page: 2
+permalink: /:path/page2/
+title: "Projects about AI in Robotics"
+path: "_projects/"
+---

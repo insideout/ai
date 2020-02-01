@@ -1,0 +1,5 @@
+---
+api: people
+page: 1
+permalink: /:path/page1/
+---

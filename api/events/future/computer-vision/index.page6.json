@@ -1,0 +1,9 @@
+---
+api: events
+topic: "Computer Vision"
+page: 6
+permalink: /:path/page6/
+time_range: future
+title: "Computer Vision Events"
+path: "_events/"
+---

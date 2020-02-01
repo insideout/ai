@@ -1,0 +1,5 @@
+---
+api: projects
+page: 1
+permalink: /:path/page1/
+---

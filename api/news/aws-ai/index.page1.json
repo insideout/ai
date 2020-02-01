@@ -1,0 +1,8 @@
+---
+api: news
+topic: "AWS AI"
+page: 1
+permalink: /:path/page1/
+title: "AWS AI News"
+path: "_posts/"
+---

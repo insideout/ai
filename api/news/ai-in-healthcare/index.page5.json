@@ -1,0 +1,8 @@
+---
+api: news
+topic: "AI in Healthcare"
+page: 5
+permalink: /:path/page5/
+title: "News about AI in Healthcare"
+path: "_posts/"
+---

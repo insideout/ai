@@ -1,0 +1,6 @@
+---
+api: events
+page: 1
+permalink: /:path/page1/
+time_range: past
+---

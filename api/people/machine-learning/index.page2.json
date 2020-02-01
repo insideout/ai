@@ -1,0 +1,8 @@
+---
+api: people
+topic: "Machine Learning"
+page: 2
+permalink: /:path/page2/
+title: "Machine Learning Influencers"
+path: "_people/"
+---

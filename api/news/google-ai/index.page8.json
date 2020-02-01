@@ -1,0 +1,8 @@
+---
+api: news
+topic: "Google AI"
+page: 8
+permalink: /:path/page8/
+title: "Google AI News"
+path: "_posts/"
+---

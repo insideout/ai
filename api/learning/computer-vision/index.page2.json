@@ -1,0 +1,8 @@
+---
+api: learning
+topic: "Computer Vision"
+page: 2
+permalink: /:path/page2/
+title: "Computer Vision Learning Resources"
+path: "_learning/"
+---

@@ -1,0 +1,8 @@
+---
+api: news
+topic: "AI in Finance"
+page: 5
+permalink: /:path/page5/
+title: "News about AI in Finance"
+path: "_posts/"
+---

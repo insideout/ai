@@ -1,0 +1,8 @@
+---
+api: learning
+topic: "AWS AI"
+page: 1
+permalink: /:path/page1/
+title: "AWS AI Learning Resources"
+path: "_learning/"
+---

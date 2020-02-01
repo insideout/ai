@@ -1,0 +1,8 @@
+---
+api: news
+topic: "AI in Robotics"
+page: 9
+permalink: /:path/page9/
+title: "News about AI in Robotics"
+path: "_posts/"
+---

@@ -1,0 +1,8 @@
+---
+api: projects
+topic: "AI in Autos"
+page: 3
+permalink: /:path/page3/
+title: "Projects about AI in Autos"
+path: "_projects/"
+---

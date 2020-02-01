@@ -1,0 +1,8 @@
+---
+api: news
+topic: "Microsoft AI"
+page: 4
+permalink: /:path/page4/
+title: "Microsoft AI News"
+path: "_posts/"
+---

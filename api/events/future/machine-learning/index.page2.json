@@ -1,0 +1,9 @@
+---
+api: events
+topic: "Machine Learning"
+page: 2
+permalink: /:path/page2/
+time_range: future
+title: "Machine Learning Events"
+path: "_events/"
+---

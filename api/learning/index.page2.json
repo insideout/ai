@@ -1,0 +1,7 @@
+---
+api: learning
+page: 2
+permalink: /:path/page2/
+title: "AI Learning Resources"
+path: "_learning/"
+---

@@ -1,0 +1,8 @@
+---
+api: news
+topic: "AI in Autos"
+page: 8
+permalink: /:path/page8/
+title: "News about AI in Autos"
+path: "_posts/"
+---

@@ -1,0 +1,8 @@
+---
+api: companies
+topic: "AI in Autos"
+page: 2
+permalink: /:path/page2/
+title: "Companies building AI in Autos"
+path: "_companies/"
+---

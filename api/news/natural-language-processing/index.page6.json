@@ -1,0 +1,8 @@
+---
+api: news
+topic: "Natural Language Processing"
+page: 6
+permalink: /:path/page6/
+title: "Natural Language Processing News"
+path: "_posts/"
+---

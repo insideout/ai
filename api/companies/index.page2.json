@@ -1,0 +1,5 @@
+---
+api: companies
+page: 2
+permalink: /:path/page2/
+---

@@ -1,0 +1,8 @@
+---
+api: news
+topic: "AI Ethics"
+page: 4
+permalink: /:path/page4/
+title: "AI Ethics News"
+path: "_posts/"
+---

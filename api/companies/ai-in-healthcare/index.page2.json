@@ -1,0 +1,8 @@
+---
+api: companies
+topic: "AI in Healthcare"
+page: 2
+permalink: /:path/page2/
+title: "Companies building AI in Healthcare"
+path: "_companies/"
+---

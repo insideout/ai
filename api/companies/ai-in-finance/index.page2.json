@@ -1,0 +1,8 @@
+---
+api: companies
+topic: "AI in Finance"
+page: 2
+permalink: /:path/page2/
+title: "Companies building AI in Finance"
+path: "_companies/"
+---

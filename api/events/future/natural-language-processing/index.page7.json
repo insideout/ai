@@ -1,0 +1,9 @@
+---
+api: events
+topic: "Natural Language Processing"
+page: 7
+permalink: /:path/page7/
+time_range: future
+title: "NLP Events"
+path: "_events/"
+---

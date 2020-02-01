@@ -1,0 +1,8 @@
+---
+api: news
+topic: "Facebook AI"
+page: 1
+permalink: /:path/page1/
+title: "Facebook AI News"
+path: "_posts/"
+---

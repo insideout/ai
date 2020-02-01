@@ -1,0 +1,8 @@
+---
+api: people
+topic: "Computer Vision"
+page: 2
+permalink: /:path/page2/
+title: "Computer Vision Influencers"
+path: "_people/"
+---
