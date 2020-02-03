@@ -23,14 +23,9 @@ permalink: /:year/:month/:day/:title/
 # Default settings of posts
 default_post_settings: &default_post_settings
   layout: post
-  permalink: /web/:categories/:year/:month/:day/:title/
+  permalink: /api/:categories/:year/:month/:day/:title/
   deleted: false
-  has_sidebar: true
-  read_time: true
-  share: true
   related: true
-  comments:
-    enabled: true
 
 pagination:
   page_size: 20
@@ -44,11 +39,8 @@ pagination:
 default_learning_settings: &default_learning_settings
   layout: post
   category: learning
-  permalink: /web/learning/:path/
+  permalink: /api/learning/:path/
   deleted: false
-  has_sidebar: false
-  comments:
-    enabled: false
 
 
 #----------------------------------------------------------------------------------
@@ -59,11 +51,8 @@ default_learning_settings: &default_learning_settings
 default_project_settings: &default_project_settings
   layout: post
   category: project
-  permalink: /web/projects/:path/
+  permalink: /api/projects/:path/
   deleted: false
-  has_sidebar: false
-  comments:
-    enabled: false
 
 
 #----------------------------------------------------------------------------------
@@ -74,11 +63,8 @@ default_project_settings: &default_project_settings
 default_company_settings: &default_company_settings
   layout: post
   category: company
-  permalink: /web/companies/:path/
+  permalink: /api/companies/:path/
   deleted: false
-  has_sidebar: false
-  comments:
-    enabled: false
 
 
 #----------------------------------------------------------------------------------
@@ -89,12 +75,9 @@ default_company_settings: &default_company_settings
 default_people_settings: &default_people_settings
   layout: post
   category: people
-  permalink: /web/people/:path/
+  permalink: /api/people/:path/
   type: profile
   deleted: false
-  has_sidebar: false
-  comments:
-    enabled: false
 
 
 #----------------------------------------------------------------------------------
@@ -105,11 +88,8 @@ default_people_settings: &default_people_settings
 default_event_settings: &default_event_settings
   layout: post
   category: event
-  permalink: /web/events/:path/
+  permalink: /api/events/:path/
   deleted: false
-  has_sidebar: false
-  comments:
-    enabled: false
 
 
 #----------------------------------------------------------------------------------
@@ -120,11 +100,8 @@ default_event_settings: &default_event_settings
 default_newsletter_settings: &default_newsletter_settings
   layout: post
   category: newsletter
-  permalink: /web/newsletters/:path/
+  permalink: /api/newsletters/:path/
   deleted: false
-  has_sidebar: false
-  comments:
-    enabled: false
 
 
 #----------------------------------------------------------------------------------
@@ -135,9 +112,6 @@ default_newsletter_settings: &default_newsletter_settings
 default_taxonomy_settings: &default_taxonomy_settings
   layout: archive
   permalink: /:path/
-  has_sidebar: true
-  comments:
-    enabled: false
 
 taxonomies:
   category:
@@ -214,8 +188,8 @@ defaults:
   - scope:
       path: "_learning/collections"
     values:
-      layout: api
-      api: learning
+      layout: collection
+      category: learning
       permalink: /api/learning/collections/:title/index.json
       type: collection
       support_paging: false
@@ -234,8 +208,8 @@ defaults:
   - scope:
       path: "_companies/collections"
     values:
-      layout: api
-      api: companies
+      layout: collection
+      category: company
       permalink: /api/companies/collections/:title/index.json
       type: collection
       support_paging: false
@@ -248,8 +222,8 @@ defaults:
   - scope:
       path: "_people/collections"
     values:
-      layout: api
-      api: people
+      layout: collection
+      category: people
       permalink: /api/people/collections/:title/index.json
       type: collection
       support_paging: false
@@ -262,8 +236,8 @@ defaults:
   - scope:
       path: "_events/collections"
     values:
-      layout: api
-      api: events
+      layout: collection
+      category: event
       permalink: /api/events/collections/:title/index.json
       type: collection
       support_paging: false
@@ -301,7 +275,7 @@ defaults:
   - scope:
       path: "api/*/*"
     values:
-      layout: api
+      layout: collection
       permalink: /:path/index.json
       support_paging: true
 

@@ -1,5 +1,5 @@
 ---
-api: companies
+category: company
 page: 5
 permalink: /:path/page5/
 title: "AI Companies"

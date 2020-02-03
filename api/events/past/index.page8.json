@@ -1,5 +1,5 @@
 ---
-api: events
+category: event
 page: 8
 permalink: /:path/page8/
 time_range: past

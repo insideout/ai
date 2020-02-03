@@ -1,5 +1,5 @@
 ---
-api: projects
+category: project
 page: 5
 permalink: /:path/page5/
 title: "AI Projects"

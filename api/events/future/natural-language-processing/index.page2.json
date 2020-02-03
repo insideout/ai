@@ -1,5 +1,5 @@
 ---
-api: events
+category: event
 topic: "Natural Language Processing"
 page: 2
 permalink: /:path/page2/

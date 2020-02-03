@@ -6,47 +6,52 @@
     {% else -%}
         {% assign page_size = site.pagination.page_size | default: 15 -%}
         {% assign current_page = page.page | default: 1 -%}
-        {% assign for_offset = current_page | minus: 1 | times:page_size -%}
+        {% assign for_offset = current_page | minus:1 | times:page_size -%}
     {% endif -%}
     {% assign for_count = 0 -%}
-    "title": {{ page.title | default: "People" | jsonify }},
+    "title": {{ page.title | default: "Companies" | jsonify }},
     "path": {{ page.path | jsonify }},
     "page": {{ current_page }},
     "value": [
         {% if page.items -%}
             {% comment -%}Waiting for jekyll 4 in GitHub Pages to support item.path=... or item.path=...{% endcomment -%}
-            {% assign people = "" | split: ',' -%}
+            {% assign companies = "" | split: ',' -%}
             {% for item_id in page.items -%}
-                {% assign item_path = item_id | prepend: "_people/" | append: ".md" -%}
-                {% assign p = site.people | where: "path", item_path | first -%}
-                {% if p -%}
-                    {% assign people = people | push: p -%}
+                {% assign item_path = item_id | prepend: "_companies/" | append: ".md" -%}
+                {% assign company = site.companies | where: "path", item_path | first -%}
+                {% if company -%}
+                    {% assign companies = companies | push: company -%}
                 {% endif -%}
             {% endfor -%}
         {% else -%}
             {% if page.query -%}
-                {% assign people_where_exp = page.query -%}
+                {% assign companies_where_exp = page.query -%}
             {% else -%}
-                {% capture people_where_exp %}item.topics contains '{{ page.topic | default: site.topic }}'{% endcapture -%}
+                {% capture companies_where_exp %}item.topics contains '{{ page.topic | default: site.topic }}'{% endcapture -%}
             {% endif -%}
-            {% assign people = site.people | where_exp: "item", people_where_exp -%}
-            {% assign people = people | sort: "heat" | reverse -%}
+            {% assign companies = site.companies | where_exp: "item", companies_where_exp -%}
+            {% assign companies = companies | sort: "heat" | reverse -%}
         {% endif -%}
-        {% for item in people limit:page_size offset:for_offset -%}
+        {% for item in companies limit:page_size offset:for_offset -%}
         {
             {% if forloop.last -%}
                 {% assign for_count = forloop.length -%}
             {% endif -%}
             "path": {{ item.path | jsonify }},
             "type": {{ item.type | jsonify }},
-            "url": "{{ item.url | absolute_url }}",
+            "sourceUrl": "{{ item.url | absolute_url }}",
             "heat": {{ item.heat | default: 0 }},
             {% if item.type == "profile" -%}
             "name": {{ item.name | jsonify }},
-            "bio": {{ item.bio | strip_html | normalize_whitespace | strip | jsonify }},
-            "location": {{ item.location | jsonify }},
+            "overview": {{ item.overview | strip_html | normalize_whitespace | strip | jsonify }},
             {% if item.website -%}
             "website": "{{ item.website | absolute_url }}",
+            {% endif -%}
+            {% if item.linkedin -%}
+            "linkedin": {
+                "url": "{{ item.linkedin.url | absolute_url }}",
+                "followers": {{ item.linkedin.followers }}
+            },
             {% endif -%}
             {% if item.twitter -%}
             "twitter": {
@@ -55,39 +60,32 @@
                 "followers": {{ item.twitter.followers | default: 0 }}
             },
             {% endif -%}
-            {% if item.linkedin -%}
-            "linkedin": {
-                "url": "{{ item.linkedin.url | absolute_url }}"
+            {% if item.crunchbase -%}
+            "crunchbase": {
+                "url": "{{ item.crunchbase.url | absolute_url }}"
             },
             {% endif -%}
-            {% if item.googleScholar -%}
-            "googleScholar": {
-                "url": "{{ item.googleScholar.url | absolute_url }}",
-                "citations": {{ item.googleScholar.citations | default: 0 }}
-            },
+            "size": "{{ item.size }}",
+            {% if item.yearFounded > 1500 -%}
+            "yearFounded": {{ item.yearFounded }},
             {% endif -%}
-            {% if item.wikipedia -%}
-            "wikipedia": {
-                "url": "{{ item.wikipedia.url | absolute_url }}"
-            },
-            {% endif -%}
+            "locations": {{ item.locations | jsonify }},
             {% elsif item.type == "collection" -%}
             "title": {{ item.title | jsonify }},
             "excerpt": {{ item.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
-            "size": {{ item.items | size }},
             "topItems": [
             {% assign items_count = 0 -%}
             {% if item.items -%}
                 {% assign child_items = "" | split: ',' -%}
                 {% for child_item_id in item.items -%}
-                    {% assign child_item_path = child_item_id | prepend: "_people/" | append: ".md" -%}
-                    {% assign child_item = site.people | where: "path", child_item_path | first -%}
+                    {% assign child_item_path = child_item_id | prepend: "_companies/" | append: ".md" -%}
+                    {% assign child_item = site.companies | where: "path", child_item_path | first -%}
                     {% if child_item -%}
                         {% assign child_items = child_items | push: child_item -%}
                     {% endif -%}
                 {% endfor -%}
             {% else -%}
-                {% assign child_items = site.people | where_exp: "item", item.query -%}
+                {% assign child_items = site.companies | where_exp: "item", item.query -%}
             {% endif -%}
             {% for child_item in child_items -%}
                 {% if child_item.type == "profile" -%}
@@ -96,9 +94,9 @@
                     "path": {{ child_item.path | jsonify }},
                     "type": {{ child_item.type | jsonify }},
                     "name": {{ child_item.name | jsonify }},
-                    "url": "{{ child_item.url | absolute_url }}",
-                    "bio": {{ child_item.bio | strip_html | normalize_whitespace | strip | jsonify }},
-                    "location": {{ child_item.location | jsonify }},
+                    "sourceUrl": "{{ child_item.url | absolute_url }}",
+                    "overview": {{ child_item.overview | strip_html | normalize_whitespace | strip | jsonify }},
+                    "locations": {{ child_item.locations | jsonify }},
                     "heat": {{ child_item.heat | default: 0 }},
                     "images": [
                         {% for image in child_item.images -%}
@@ -120,6 +118,7 @@
                 {% endif -%}
             {% endfor %}
             ],
+            "size": {{ child_items | size }},
             {% endif -%}
             "images": [
                 {% for image in item.images -%}

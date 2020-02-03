@@ -22,7 +22,7 @@
             "title": {{ post.title | jsonify }},
             "type": {{ post.type | jsonify }},
             "heat": {{ post.heat }},
-            "api": "{{ post.url | absolute_url }}",
+            "sourceUrl": "{{ post.url | absolute_url }}",
             "webUrl": "{{ post.webUrl | absolute_url }}",
             {% if post.ampUrl -%}
             "ampWebUrl": "{{ post.ampWebUrl | absolute_url }}",

@@ -16,7 +16,7 @@
             "path": {{ newsletter.path | jsonify }},
             "title": {{ newsletter.title | jsonify }},
             "type": {{ newsletter.type | jsonify }},
-            "url": "{{ newsletter.url | absolute_url }}",
+            "sourceUrl": "{{ newsletter.url | absolute_url }}",
             "excerpt": {{ newsletter.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
             "publishedDateTime": {{ newsletter.publishedDateTime | jsonify }},
             "images": [

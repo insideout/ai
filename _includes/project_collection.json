@@ -18,7 +18,7 @@
             "name": {{ project.name | jsonify }},
             "excerpt": {{ project.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
             "type": {{ project.type | jsonify }},
-            "url": "{{ project.url | absolute_url }}",
+            "sourceUrl": "{{ project.url | absolute_url }}",
             "website": "{{ project.website | absolute_url }}",
             {% if project.demo -%}
             "demo": {

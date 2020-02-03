@@ -1,5 +1,5 @@
 ---
-api: events
+category: event
 time_range: future
 title: "AI Events"
 path: "_events/"

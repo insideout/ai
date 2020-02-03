@@ -1,0 +1,2 @@
+{% capture post_template -%}{{ page.category }}.json{% endcapture -%}
+{% include {{ post_template }} %}
