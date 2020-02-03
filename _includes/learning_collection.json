@@ -41,7 +41,11 @@
             "title": {{ item.title | jsonify }},
             "type": {{ item.type | jsonify }},
             "sourceUrl": "{{ item.url | absolute_url }}",
+            {% if item.type == "collection" -%}
+            "webUrl": "{{ site.webUrl }}{{ item.path | replace: '_learning/','/learning?id=' | replace: '.md','' }}",
+            {% else -%}
             "webUrl": "{{ item.webUrl | absolute_url }}",
+            {% endif -%}
             "excerpt": {{ item.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
             "publishedDateTime": {{ item.publishedDateTime | jsonify }},
             "updatedDateTime": {{ item.updatedDateTime | jsonify }},
@@ -73,7 +77,11 @@
                     "title": {{ child_item.title | jsonify }},
                     "excerpt": {{ child_item.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
                     "sourceUrl": "{{ child_item.url | absolute_url }}",
+                    {% if child_item.type == "collection" -%}
+                    "webUrl": "{{ site.webUrl }}{{ child_item.path | replace: '_learning/','/learning?id=' | replace: '.md','' }}",
+                    {% else -%}
                     "webUrl": "{{ child_item.webUrl | absolute_url }}",
+                    {% endif -%}
                     "heat": {{ child_item.heat | default: 0 }},
                     "images": [
                         {% for image in child_item.images -%}
