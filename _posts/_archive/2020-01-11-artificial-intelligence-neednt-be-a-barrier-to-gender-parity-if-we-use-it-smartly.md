@@ -3,7 +3,7 @@ category: news
 title: "Artificial intelligence needn’t be a barrier to gender parity – if we use it smartly"
 excerpt: "The role of artificial intelligence in achieving renewable energy and sustainable targets ... The benefits of AI in sustainability are manifold: it can support the deployment of self-driving vehicles to transform transportation systems, or better manage food purchasing to reduce wastage. Smart grid technology aligns energy production ..."
 publishedDateTime: 2020-01-11T16:18:00Z
-sourceUrl: "https://www.gulftoday.ae/opinion/2020/01/11/artificial-intelligence-neednt-be-a-barrier-to-gender-parity-if-we-use-it-smartly"
+webUrl: "https://www.gulftoday.ae/opinion/2020/01/11/artificial-intelligence-neednt-be-a-barrier-to-gender-parity-if-we-use-it-smartly"
 type: article
 quality: 32
 heat: 32

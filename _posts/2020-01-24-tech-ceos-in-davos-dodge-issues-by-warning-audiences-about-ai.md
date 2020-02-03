@@ -3,7 +3,7 @@ category: news
 title: "Tech CEOs in Davos dodge issues by warning audiences about AI"
 excerpt: "In July, Facebook agreed to pay US regulators US$5 billion to resolve the Cambridge Analytica ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence ..."
 publishedDateTime: 2020-01-24T20:52:00Z
-sourceUrl: "https://www.scmp.com/tech/big-tech/article/3047592/tech-ceos-davos-dodge-issues-warning-audiences-about-ai"
+webUrl: "https://www.scmp.com/tech/big-tech/article/3047592/tech-ceos-davos-dodge-issues-warning-audiences-about-ai"
 type: article
 quality: 21
 heat: 21

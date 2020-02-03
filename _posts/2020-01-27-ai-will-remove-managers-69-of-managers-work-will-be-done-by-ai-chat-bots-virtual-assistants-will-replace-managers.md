@@ -3,9 +3,9 @@ category: news
 title: "AI Will Remove Managers? 69% Of Manager’s Work Will Be Done By AI; Chat Bots, Virtual Assistants Will Replace Managers?"
 excerpt: "Organizations should start employing people who are disabled ... Poitevin said, “Restaurants are piloting AI robotics technology that enables paralyzed employees to control robotic waiters remotely. With technologies like braille-readers and virtual reality, organizations are more open to opportunities to employ a diverse workforce.”"
 publishedDateTime: 2020-01-27T12:54:00Z
-sourceUrl: "https://trak.in/tags/business/2020/01/27/ai-will-remove-managers-69-of-managers-work-will-be-done-by-ai-chat-bots-virtual-assistants-will-replace-managers/"
-ampUrl: "https://trak.in/tags/business/2020/01/27/ai-will-remove-managers-69-of-managers-work-will-be-done-by-ai-chat-bots-virtual-assistants-will-replace-managers/amp/"
-cdnAmpUrl: "https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2020/01/27/ai-will-remove-managers-69-of-managers-work-will-be-done-by-ai-chat-bots-virtual-assistants-will-replace-managers/amp/"
+webUrl: "https://trak.in/tags/business/2020/01/27/ai-will-remove-managers-69-of-managers-work-will-be-done-by-ai-chat-bots-virtual-assistants-will-replace-managers/"
+ampWebUrl: "https://trak.in/tags/business/2020/01/27/ai-will-remove-managers-69-of-managers-work-will-be-done-by-ai-chat-bots-virtual-assistants-will-replace-managers/amp/"
+cdnAmpWebUrl: "https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2020/01/27/ai-will-remove-managers-69-of-managers-work-will-be-done-by-ai-chat-bots-virtual-assistants-will-replace-managers/amp/"
 type: article
 quality: 35
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "AI robot will replace managers by 2024"
     excerpt: "In the coming times, new technologies such as Artificial Intelligence (AI) can make everyday tasks easier ... It further states that restaurants are implementing AI robotics technology so that paralyzed employees can also control robotic waiters from remote locations. Due to technologies like Braille readers and virtual reality, institutions ..."
     publishedDateTime: 2020-01-26T06:22:00Z
-    sourceUrl: "https://english.newstracklive.com/news/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html"
-    ampUrl: "https://english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html"
-    cdnAmpUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html"
+    webUrl: "https://english.newstracklive.com/news/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html"
     type: article
     provider:
       name: News Track
@@ -44,9 +44,9 @@ related:
   - title: "This robot will replace managers by 2024, jobs are in danger"
     excerpt: "In the coming times, new technologies such as Artificial Intelligence (AI) can make everyday tasks easier ... It further states that restaurants are implementing AI robotics technology so that paralyzed employees can also control robotic waiters from remote locations. Due to technologies like Braille readers and virtual reality, institutions ..."
     publishedDateTime: 2020-01-25T05:14:00Z
-    sourceUrl: "https://english.newstracklive.com/news/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065108-1.html"
-    ampUrl: "https://english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065108-1.html"
-    cdnAmpUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065108-1.html"
+    webUrl: "https://english.newstracklive.com/news/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065108-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065108-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065108-1.html"
     type: article
     provider:
       name: News Track
@@ -59,7 +59,7 @@ related:
   - title: "Can robots replace human traders?"
     excerpt: "The potential use of artificial intelligence to replace human traders has obvious cost benefits. But can a robot really outperform a human? Robots struggle in day trading New technology has enabled us to effectively teach artificial intelligence the rules of trading. But it is noticeable that no investment bank in the world has replaced all of ..."
     publishedDateTime: 2020-01-29T01:34:00Z
-    sourceUrl: "https://www.easier.com/139411-can-robots-replace-human-traders.html"
+    webUrl: "https://www.easier.com/139411-can-robots-replace-human-traders.html"
     type: article
     provider:
       name: Easier
@@ -68,9 +68,9 @@ related:
   - title: "Artificial Intelligence: 69% of routine work currently done by managers will be completely automated by 2024, says Gartner"
     excerpt: "By 2024, artificial intelligence (AI) and emerging technologies such as virtual personal assistants and chatbots will replace almost 69 per cent of the manager’s workload, predicts research and advisory firm Gartner, Inc. Such technologies are rapidly making headway into the workplace, Gartner said. “The role of manager will see a complete ..."
     publishedDateTime: 2020-01-23T08:39:00Z
-    sourceUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-69-of-routine-work-currently-done-by-managers-will-be-completely-automated-by-2024-says-gartner/1832651/"
-    ampUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-69-of-routine-work-currently-done-by-managers-will-be-completely-automated-by-2024-says-gartner/1832651/lite/"
-    cdnAmpUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-69-of-routine-work-currently-done-by-managers-will-be-completely-automated-by-2024-says-gartner/1832651/lite/"
+    webUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-69-of-routine-work-currently-done-by-managers-will-be-completely-automated-by-2024-says-gartner/1832651/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-69-of-routine-work-currently-done-by-managers-will-be-completely-automated-by-2024-says-gartner/1832651/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-69-of-routine-work-currently-done-by-managers-will-be-completely-automated-by-2024-says-gartner/1832651/lite/"
     type: article
     provider:
       name: The Financial Express

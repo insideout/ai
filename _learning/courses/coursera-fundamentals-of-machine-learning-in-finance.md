@@ -1,7 +1,7 @@
 ---
 title: "Fundamentals of Machine Learning in Finance"
 excerpt: "Learn Fundamentals of Machine Learning in Finance from New York University Tandon School of Engineering. The course aims at helping students to be able to solve practical ML-amenable problems that they may encounter in real life that include: (1) ..."
-sourceUrl: https://www.coursera.org/learn/fundamentals-machine-learning-in-finance
+webUrl: https://www.coursera.org/learn/fundamentals-machine-learning-in-finance
 type: course
 price: Free+
 length: 16 hours

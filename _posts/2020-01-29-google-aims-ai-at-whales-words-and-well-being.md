@@ -3,7 +3,7 @@ category: news
 title: "Google aims AI at whales, words and well-being"
 excerpt: "\"We trained a deep neural network that automatically and immediately detects orcas and sends alerts ... \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai said, while stressing that Google wants \"to offer our expertise, experience, and tools as we grapple with the inevitable tensions and trade-offs.\""
 publishedDateTime: 2020-01-29T02:37:00Z
-sourceUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/google-aims-ai-at-whales-words-and-well-being/73718759"
+webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/google-aims-ai-at-whales-words-and-well-being/73718759"
 type: article
 quality: 19
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "Google Aims AI At Whales, Words And Well-being"
     excerpt: "Google on Tuesday provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers. The internet giant unveiled projects on AI work teams a week after Google chief executive Sundar Pichai urged a \"proportional approach\" to regulating the technology."
     publishedDateTime: 2020-01-28T20:47:00Z
-    sourceUrl: "https://www.ibtimes.com/google-aims-ai-whales-words-well-being-2911505"
+    webUrl: "https://www.ibtimes.com/google-aims-ai-whales-words-well-being-2911505"
     type: article
     provider:
       name: International Business Times
@@ -34,7 +34,7 @@ related:
   - title: "Google aims AI at whales, language and well-being"
     excerpt: "Google on Tuesday provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers ... managers,” Google said. Another AI team showed how Google translation software that already lets ..."
     publishedDateTime: 2020-01-30T04:17:00Z
-    sourceUrl: "https://www.phnompenhpost.com/lifestyle/google-aims-ai-whales-language-and-well-being"
+    webUrl: "https://www.phnompenhpost.com/lifestyle/google-aims-ai-whales-language-and-well-being"
     type: article
     provider:
       name: The Phnom Penh Post
@@ -47,7 +47,7 @@ related:
   - title: "‘Bioacoustics’: Google aims AI at whales, words and well-being"
     excerpt: "Google on Tuesday provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers. The internet giant unveiled ... sends alerts to Canadian harbor managers,” Google said. Another AI team showed how Google translation software that already lets smartphones serve as interpreters ..."
     publishedDateTime: 2020-01-28T21:55:00Z
-    sourceUrl: "https://www.rawstory.com/2020/01/bioacoustics-google-aims-ai-at-whales-words-and-well-being/"
+    webUrl: "https://www.rawstory.com/2020/01/bioacoustics-google-aims-ai-at-whales-words-and-well-being/"
     type: article
     provider:
       name: The Raw Story
@@ -56,7 +56,7 @@ related:
   - title: "Google aims AI at whales and words"
     excerpt: "SAN FRANCISCO: Google on Tuesday provided a look at efforts to put artificial intelligence to use for good, from protecting whales to breaking language barriers ... orcas and sends alerts to Canadian harbor managers,\" Google said. Another AI team showed how Google translation software that already lets smartphones serve as interpreters is ..."
     publishedDateTime: 2020-01-30T04:30:00Z
-    sourceUrl: "https://www.bangkokpost.com/tech/1846539/google-aims-ai-at-whales-and-words"
+    webUrl: "https://www.bangkokpost.com/tech/1846539/google-aims-ai-at-whales-and-words"
     type: article
     provider:
       name: Bangkok Post

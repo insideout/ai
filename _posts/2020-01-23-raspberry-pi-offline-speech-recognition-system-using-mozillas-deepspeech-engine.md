@@ -3,7 +3,7 @@ category: news
 title: "Raspberry Pi offline speech recognition system using Mozilla’s Deepspeech Engine"
 excerpt: "Raspberry Pi enthusiasts interested in setting up off-line speech recognition on their Raspberry Pi 4 mini PC may be interested in a project published to the Hackster.io website this week by member Dmitry Maslov. The project is based on Mozilla’s Deepspeech Engine 0.6.1 and is equipped with a re-speaker and offers a service “faster than ..."
 publishedDateTime: 2020-01-23T14:35:00Z
-sourceUrl: "https://www.geeky-gadgets.com/raspberry-pi-offline-speech-recognition-system-using-mozillas-deepspeech-engine-23-01-2020/"
+webUrl: "https://www.geeky-gadgets.com/raspberry-pi-offline-speech-recognition-system-using-mozillas-deepspeech-engine-23-01-2020/"
 type: article
 quality: 34
 heat: 34

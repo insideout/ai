@@ -3,7 +3,7 @@ category: news
 title: "The skills of tomorrow need to be taught today. Are you ready?"
 excerpt: "Fast-growing skills in the consumer goods industry include artificial intelligence skills like algorithms and Natural Language Processing, cybersecurity, and soft skills like goal setting. Download the eBook to find out the top 10 skills by other key industries. 3. Learning & development teams are starting to reskill the workforce Organizations ..."
 publishedDateTime: 2020-01-29T14:35:00Z
-sourceUrl: "https://www.hrdive.com/spons/the-skills-of-tomorrow-need-to-be-taught-today-are-you-ready/570965/"
+webUrl: "https://www.hrdive.com/spons/the-skills-of-tomorrow-need-to-be-taught-today-are-you-ready/570965/"
 type: article
 quality: 24
 heat: 24

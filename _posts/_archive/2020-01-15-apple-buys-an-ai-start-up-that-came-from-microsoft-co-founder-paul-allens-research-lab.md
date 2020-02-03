@@ -3,9 +3,9 @@ category: news
 title: "Apple buys an A.I. start-up that came from Microsoft co-founder Paul Allen's research lab"
 excerpt: "The company has previously used acquisitions to expand its bench of AI talent, as have other technology companies like Alphabet, Facebook and ... Intelligence, a research lab created by Microsoft ..."
 publishedDateTime: 2020-01-15T00:00:00Z
-sourceUrl: "https://www.cnbc.com/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html"
-ampUrl: "https://www.cnbc.com/amp/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html"
-cdnAmpUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html"
+webUrl: "https://www.cnbc.com/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html"
 type: article
 quality: 65
 heat: -1
@@ -33,7 +33,7 @@ related:
   - title: "Apple Buys Another Artificial Intelligence Start-Up"
     excerpt: "CEO Tim Cook confirmed last year that the tech titan tends to buy smaller companies every two to three weeks. Apple's latest acquisition is all about low-power edge-based artificial intelligence (AI). Here's what investors need to know. Apple chip exec Sri Santhanam detailing the A13 Bionic's machine-learning capabilities in September."
     publishedDateTime: 2020-01-17T13:12:00Z
-    sourceUrl: "https://www.fool.com/investing/2020/01/17/apple-buys-another-artificial-intelligence-start-u.aspx"
+    webUrl: "https://www.fool.com/investing/2020/01/17/apple-buys-another-artificial-intelligence-start-u.aspx"
     type: article
     provider:
       name: The Motley Fool
@@ -46,7 +46,7 @@ related:
   - title: "Apple News: Why The Tech Giant Bought Another Artificial Intelligence Start-Up"
     excerpt: "acquisition that investors have caught wind of ( Spectral Edge, to bolster the company's computational photography). CEO Tim Cook confirmed last year that the tech titan tends to buy smaller companies every two to three weeks."
     publishedDateTime: 2020-01-18T12:10:00Z
-    sourceUrl: "https://www.ibtimes.com/apple-news-why-tech-giant-bought-another-artificial-intelligence-start-2904861"
+    webUrl: "https://www.ibtimes.com/apple-news-why-tech-giant-bought-another-artificial-intelligence-start-2904861"
     type: article
     provider:
       name: International Business Times

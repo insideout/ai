@@ -3,7 +3,7 @@ category: news
 title: "Machine Learning Perceptron Classification Using C#"
 excerpt: "For example, the Azure ML.NET library has a perceptron classifier ... Many of the newer Microsoft technologies, such as the ML.NET code library, specifically target .NET Core so it makes sense to develop most new C# machine learning code in that environment. I entered \"Perceptron\" as the Project Name, specified C:\\VSM on my local machine ..."
 publishedDateTime: 2020-01-07T23:25:00Z
-sourceUrl: https://visualstudiomagazine.com/articles/2020/01/07/perceptron-classification.aspx
+webUrl: https://visualstudiomagazine.com/articles/2020/01/07/perceptron-classification.aspx
 type: article
 quality: 24
 heat: 24

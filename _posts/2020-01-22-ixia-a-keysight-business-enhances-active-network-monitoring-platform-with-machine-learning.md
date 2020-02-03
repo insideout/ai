@@ -3,7 +3,7 @@ category: news
 title: "Ixia, a Keysight Business, Enhances Active Network Monitoring Platform with Machine Learning"
 excerpt: "\"Keysight's Hawkeye utilizes the power of machine learning to help network operations teams make sense of their increasingly complex networks,\" said Recep Ozdag, vice president and general manager of visibility at Keysight's Network Applications & Security Group (formerly Ixia Solutions Group). \"Network operations teams struggle to correlate ..."
 publishedDateTime: 2020-01-22T19:18:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/2020/01/22/9085605.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2020/01/22/9085605.htm"
 type: article
 quality: 8
 heat: 8

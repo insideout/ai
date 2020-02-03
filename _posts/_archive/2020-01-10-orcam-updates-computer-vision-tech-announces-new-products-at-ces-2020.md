@@ -3,7 +3,7 @@ category: news
 title: "OrCam Updates Computer Vision Tech, Announces New Products at CES 2020"
 excerpt: "OrCam has announced an update to its most popular device, and will be unveiling a series of new products at CES 2020 this year in Las Vegas. On the update front, OrCam’s most popular product — the OrCam MyEye 2, a small device that users clip onto ..."
 publishedDateTime: 2020-01-10T00:00:00Z
-sourceUrl: "https://findbiometrics.com/orcam-updates-computer-vision-tech-announces-new-products-ces-2020-011002/"
+webUrl: "https://findbiometrics.com/orcam-updates-computer-vision-tech-announces-new-products-ces-2020-011002/"
 type: article
 quality: 39
 heat: 39

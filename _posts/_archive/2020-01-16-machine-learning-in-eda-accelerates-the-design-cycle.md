@@ -3,7 +3,7 @@ category: news
 title: "Machine learning in EDA accelerates the design cycle"
 excerpt: "Artificial intelligence (AI) and machine learning (ML) come in many shapes, but whatever the intelligence looks like, it is all results-focused. If there is a clear “right way” and “wrong way” to do something, AI needs to demonstrate an ability to follow the “right way.” More pertinently, systems that employ AI must work out how to ..."
 publishedDateTime: 2020-01-16T20:35:00Z
-sourceUrl: "https://www.edn.com/machine-learning-in-eda-accelerates-the-design-cycle/"
+webUrl: "https://www.edn.com/machine-learning-in-eda-accelerates-the-design-cycle/"
 type: article
 quality: 19
 heat: 19

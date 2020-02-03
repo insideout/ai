@@ -3,7 +3,7 @@ category: news
 title: "StyleGAN2 - Official TensorFlow Implementation with practical improvements"
 excerpt: "tensorflow_version 1.x import tensorflow as tf # Download the code !git clone https://github.com/skyflynil/stylegan2.git %cd stylegan2 !nvcc test_nvcc.cu -o test_nvcc -run print('Tensorflow version: {}'.format(tf.__version__) ) !nvidia-smi -L print('GPU Identified at: {}'.format(tf.test.gpu_device_name())) Tar your raw data and upload to google ..."
 publishedDateTime: 2020-01-26T09:38:00Z
-sourceUrl: "https://github.com/pbaylies/stylegan2"
+webUrl: "https://github.com/pbaylies/stylegan2"
 type: article
 quality: 37
 heat: 37

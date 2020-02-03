@@ -1,7 +1,7 @@
 ---
 title: "Neural Networks and Deep Learning"
 excerpt: "Learn Neural Networks and Deep Learning from deeplearning.ai. If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new ..."
-sourceUrl: https://www.coursera.org/learn/neural-networks-deep-learning
+webUrl: https://www.coursera.org/learn/neural-networks-deep-learning
 type: course
 price: Free+
 length: 18 hours

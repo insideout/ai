@@ -3,7 +3,7 @@ category: news
 title: "Combining deep learning with token selection for patient phenotyping from electronic health records"
 excerpt: "For this reason, in this paper we study deep learning neural networks in combination with natural language processing to analyze text data from clinical discharge summaries. We provide a detail analysis of patient phenotyping, i.e., the automatic prediction of ten patient disorders, by investigating the influence of network architectures ..."
 publishedDateTime: 2020-01-29T11:52:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-020-58178-1"
+webUrl: "https://www.nature.com/articles/s41598-020-58178-1"
 type: article
 quality: 27
 heat: -1
@@ -28,9 +28,9 @@ related:
   - title: "CMU's exec director for machine learning, health joins tech company board"
     excerpt: "He's joining the board of directors for a company that turns clinician-patient conversation into medical documentation in real-time."
     publishedDateTime: 2020-01-24T16:18:00Z
-    sourceUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/24/cmus-exec-director-for-machine-learning-health.html"
-    ampUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/24/cmus-exec-director-for-machine-learning-health.amp.html"
-    cdnAmpUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/24/cmus-exec-director-for-machine-learning-health.amp.html"
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/24/cmus-exec-director-for-machine-learning-health.html"
+    ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/24/cmus-exec-director-for-machine-learning-health.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/24/cmus-exec-director-for-machine-learning-health.amp.html"
     type: article
     provider:
       name: The Business Journals

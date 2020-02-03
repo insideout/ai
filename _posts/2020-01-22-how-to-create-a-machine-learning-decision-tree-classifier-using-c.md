@@ -3,7 +3,7 @@ category: news
 title: "How to Create a Machine Learning Decision Tree Classifier Using C#"
 excerpt: "After earlier explaining how to compute disorder and split data in his exploration of machine learning decision tree classifiers, resident data scientist Dr. James McCaffrey of Microsoft Research now shows how to use the splitting and disorder code to ..."
 publishedDateTime: 2020-01-22T16:17:00Z
-sourceUrl: "https://visualstudiomagazine.com/articles/2020/01/21/decision-tree-classifier.aspx"
+webUrl: "https://visualstudiomagazine.com/articles/2020/01/21/decision-tree-classifier.aspx"
 type: article
 quality: 39
 heat: 39

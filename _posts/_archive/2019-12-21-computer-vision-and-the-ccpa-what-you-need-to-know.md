@@ -3,7 +3,7 @@ category: news
 title: "Computer Vision and the CCPA: What You Need to Know"
 excerpt: "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ..."
 publishedDateTime: 2019-12-21T00:09:00Z
-sourceUrl: https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601?source=topic_page---------2------------------1
+webUrl: https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601?source=topic_page---------2------------------1
 type: article
 quality: 69
 heat: 69

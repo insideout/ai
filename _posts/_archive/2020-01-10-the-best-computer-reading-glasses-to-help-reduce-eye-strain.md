@@ -3,9 +3,9 @@ category: news
 title: "The best computer reading glasses to help reduce eye strain"
 excerpt: "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to ..."
 publishedDateTime: 2020-01-10T07:01:00Z
-sourceUrl: "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/"
-ampUrl: "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp"
-cdnAmpUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp"
+webUrl: "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/"
+ampWebUrl: "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp"
 type: article
 quality: 89
 heat: 89

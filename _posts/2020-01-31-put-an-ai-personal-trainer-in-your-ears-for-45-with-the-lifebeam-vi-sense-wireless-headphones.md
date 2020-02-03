@@ -3,7 +3,7 @@ category: news
 title: "Put an AI personal trainer in your ears for $45 with the LifeBeam Vi Sense Wireless Headphones"
 excerpt: "Getting a personal trainer is an expensive proposition -- I know, because I've done it. If you think the time is right for an affordable AI personal trainer that can learn about you and customize workouts to your needs and abilities, well, you might be right. Back in 2016, the Vi hit Kickstarter and collected almost $1.7 million to make a set ..."
 publishedDateTime: 2020-01-31T22:07:00Z
-sourceUrl: "https://www.cnet.com/news/put-an-ai-personal-trainer-in-your-ears-for-45-with-the-lifebeam-vi-sense-wireless-headphones/"
+webUrl: "https://www.cnet.com/news/put-an-ai-personal-trainer-in-your-ears-for-45-with-the-lifebeam-vi-sense-wireless-headphones/"
 type: article
 quality: 35
 heat: 35

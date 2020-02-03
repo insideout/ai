@@ -3,7 +3,7 @@ category: news
 title: "Determining What Really Needs To Be Secured In A Chip"
 excerpt: "SE: Chips are getting much more complex, in part because we’ve run out of steam with Moore’s Law and in part because we are seeing so many new architectures with AI. Is it possible to secure all of those pieces? And is it even necessary? Ancajas: The more complexity in systems, the more assets that need to be protected. It’s not ..."
 publishedDateTime: 2020-01-20T08:07:00Z
-sourceUrl: "https://semiengineering.com/determining-what-really-needs-to-be-secured-in-a-chip/"
+webUrl: "https://semiengineering.com/determining-what-really-needs-to-be-secured-in-a-chip/"
 type: article
 quality: 39
 heat: 39

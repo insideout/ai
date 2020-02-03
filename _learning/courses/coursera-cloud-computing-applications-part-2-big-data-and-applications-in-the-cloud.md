@@ -1,7 +1,7 @@
 ---
 title: "Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud"
 excerpt: "Learn Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud from University of Illinois at Urbana-Champaign. Welcome to the Cloud Computing Applications course, the second part of a two-course series designed to give you a ..."
-sourceUrl: https://www.coursera.org/learn/cloud-applications-part2
+webUrl: https://www.coursera.org/learn/cloud-applications-part2
 type: course
 price: Free+
 length: 15 hours

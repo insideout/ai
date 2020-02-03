@@ -3,9 +3,9 @@ category: news
 title: "Google's artificial intelligence detects breast cancer more accurately than doctors, study finds"
 excerpt: "Artificial intelligence using Google's DeepMind algorithm may be better at spotting abnormalities on mammograms than human doctors, according to a new study published in Nature. Researchers from ..."
 publishedDateTime: 2020-01-02T17:04:00Z
-sourceUrl: "https://www.phillyvoice.com/google-deepmind-artificial-intelligence-breast-cancer-doctors-mammograms/"
-ampUrl: "https://www.phillyvoice.com/google-deepmind-artificial-intelligence-breast-cancer-doctors-mammograms/amp/"
-cdnAmpUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/google-deepmind-artificial-intelligence-breast-cancer-doctors-mammograms/amp/"
+webUrl: "https://www.phillyvoice.com/google-deepmind-artificial-intelligence-breast-cancer-doctors-mammograms/"
+ampWebUrl: "https://www.phillyvoice.com/google-deepmind-artificial-intelligence-breast-cancer-doctors-mammograms/amp/"
+cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/google-deepmind-artificial-intelligence-breast-cancer-doctors-mammograms/amp/"
 type: article
 quality: 46
 heat: 46

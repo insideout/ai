@@ -3,7 +3,7 @@ category: news
 title: "Grilling the answers: How businesses need to show how AI decides"
 excerpt: "In a study based on interviews with 4,400 consumers, Capgemini found that their views on ethics and AI threaten both company reputation and the bottom line – 41% said they would complain in case ..."
 publishedDateTime: 2020-01-09T13:10:00Z
-sourceUrl: "https://www.computerweekly.com/feature/Grilling-the-answers-how-businesses-need-to-show-how-AI-decides"
+webUrl: "https://www.computerweekly.com/feature/Grilling-the-answers-how-businesses-need-to-show-how-AI-decides"
 type: article
 quality: 19
 heat: 19

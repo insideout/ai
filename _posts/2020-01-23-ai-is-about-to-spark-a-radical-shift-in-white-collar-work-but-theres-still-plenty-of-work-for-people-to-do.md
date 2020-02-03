@@ -3,7 +3,7 @@ category: news
 title: "AI Is About to Spark a Radical Shift in White Collar Work. But There's Still 'Plenty of Work for People to Do'"
 excerpt: "Knowledge work that involves repetitive tasks or large amounts of data, such as lawyers’ often arduous document discovery process, is particularly ripe for disruption from AI, experts say. Tasks that require human-to-human interaction or some element of creativity are likely to be safer. “Pattern recognition in general is something that the ..."
 publishedDateTime: 2020-01-23T22:17:00Z
-sourceUrl: "https://time.com/5769005/ai-white-collar-work/"
+webUrl: "https://time.com/5769005/ai-white-collar-work/"
 type: article
 quality: 47
 heat: 47

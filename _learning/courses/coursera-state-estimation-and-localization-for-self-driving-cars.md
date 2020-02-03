@@ -1,7 +1,7 @@
 ---
 title: "State Estimation and Localization for Self-Driving Cars"
 excerpt: "Learn State Estimation and Localization for Self-Driving Cars from University of Toronto. Welcome to State Estimation and Localization for Self-Driving Cars, the second course in University of Toronto’s Self-Driving Cars Specialization. We ..."
-sourceUrl: https://www.coursera.org/learn/state-estimation-localization-self-driving-cars
+webUrl: https://www.coursera.org/learn/state-estimation-localization-self-driving-cars
 type: course
 price: Free+
 length: 24 hours

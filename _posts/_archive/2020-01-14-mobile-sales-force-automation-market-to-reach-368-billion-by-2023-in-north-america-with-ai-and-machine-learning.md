@@ -3,7 +3,7 @@ category: news
 title: "Mobile Sales Force Automation Market to Reach $3.68 Billion by 2023 in North America with AI and Machine Learning"
 excerpt: "/PRNewswire/ -- Booming customer demand for industry-specific solutions, monetization of professional services, and greater use of machine learning"
 publishedDateTime: 2020-01-14T14:25:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/mobile-sales-force-automation-market-to-reach-3-68-billion-by-2023-in-north-america-with-ai-and-machine-learning-300986675.html"
+webUrl: "https://www.prnewswire.com/news-releases/mobile-sales-force-automation-market-to-reach-3-68-billion-by-2023-in-north-america-with-ai-and-machine-learning-300986675.html"
 type: article
 quality: 33
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "Amazon signals big ambitions for automobiles with expanded presence at CES"
     excerpt: "A future mobility demo used the Alexa Auto SDK and AWS Machine Learning services to create an in-vehicle assistant. Driver profiles are stored in the cloud and Amazon Rekognition is used to load the driver profile via facial recognition. Machine learning is used to watch for repeated behaviors, like finding the nearest coffee shop each morning."
     publishedDateTime: 2020-01-10T17:55:00Z
-    sourceUrl: "https://www.geekwire.com/2020/amazon-signals-big-ambitions-automobiles-expanded-presence-ces/"
+    webUrl: "https://www.geekwire.com/2020/amazon-signals-big-ambitions-automobiles-expanded-presence-ces/"
     type: article
     provider:
       name: GeekWire

@@ -3,7 +3,7 @@ category: news
 title: "The Global Automotive Detection and Ranging Sensor Market is Expected to Reach US $46,821.5 Million by 2024"
 excerpt: "and 3600 object recognition technologies are driving the demand for the automotive radar market. Development of long-range radar with high frequency, development of Lidar with non-moving parts ..."
 publishedDateTime: 2019-12-31T21:46:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/the-global-automotive-detection-and-ranging-sensor-market-is-expected-to-reach-us-46-821-5-million-by-2024--300980093.html"
+webUrl: "https://www.prnewswire.com/news-releases/the-global-automotive-detection-and-ranging-sensor-market-is-expected-to-reach-us-46-821-5-million-by-2024--300980093.html"
 type: article
 quality: 0
 heat: 0

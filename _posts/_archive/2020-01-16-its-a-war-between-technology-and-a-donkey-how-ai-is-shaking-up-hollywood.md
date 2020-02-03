@@ -3,9 +3,9 @@ category: news
 title: "'It's a war between technology and a donkey' – how AI is shaking up Hollywood"
 excerpt: "Hollywood used to run on hunches. Now, data analytics is far more effective than humans at predicting hits and eliminating flops. Is this a brave new world – or the death knell of creativity?"
 publishedDateTime: 2020-01-16T15:00:00Z
-sourceUrl: "https://www.theguardian.com/film/2020/jan/16/its-a-war-between-technology-and-a-donkey-how-ai-is-shaking-up-hollywood"
-ampUrl: "https://amp.theguardian.com/film/2020/jan/16/its-a-war-between-technology-and-a-donkey-how-ai-is-shaking-up-hollywood"
-cdnAmpUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/jan/16/its-a-war-between-technology-and-a-donkey-how-ai-is-shaking-up-hollywood"
+webUrl: "https://www.theguardian.com/film/2020/jan/16/its-a-war-between-technology-and-a-donkey-how-ai-is-shaking-up-hollywood"
+ampWebUrl: "https://amp.theguardian.com/film/2020/jan/16/its-a-war-between-technology-and-a-donkey-how-ai-is-shaking-up-hollywood"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/jan/16/its-a-war-between-technology-and-a-donkey-how-ai-is-shaking-up-hollywood"
 type: article
 quality: 54
 heat: 54

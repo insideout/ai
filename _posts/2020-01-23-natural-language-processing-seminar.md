@@ -3,7 +3,7 @@ category: news
 title: "Natural Language Processing Seminar"
 excerpt: "The Master of Information Management and Systems (MIMS) program educates information professionals to provide leadership for an information-driven world. The Master of Information and Data Science (MIDS) is an online degree preparing data science professionals to solve real-world problems. The Master of Information and Cybersecurity (MICS) is ..."
 publishedDateTime: 2020-01-23T18:37:00Z
-sourceUrl: "https://www.ischool.berkeley.edu/events/nlp"
+webUrl: "https://www.ischool.berkeley.edu/events/nlp"
 type: article
 quality: 39
 heat: 39

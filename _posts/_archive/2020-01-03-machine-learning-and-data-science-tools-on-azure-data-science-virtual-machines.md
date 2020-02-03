@@ -3,7 +3,7 @@ category: news
 title: "Machine learning and data science tools on Azure Data Science Virtual Machines"
 excerpt: "Azure Data Science Virtual Machines (DSVMs) have a rich set of tools and libraries for machine learning available in popular languages, such as Python, R, and Julia. Here are some of the machine-learning tools and libraries on DSVMs. Azure Machine Learning ..."
 publishedDateTime: 2020-01-03T22:42:00Z
-sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-tools-data-science
+webUrl: https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-tools-data-science
 type: article
 quality: 35
 heat: 35

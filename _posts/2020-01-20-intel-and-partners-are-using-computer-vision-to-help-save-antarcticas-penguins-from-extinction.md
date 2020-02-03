@@ -3,9 +3,9 @@ category: news
 title: "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction"
 excerpt: "The AI model was cascaded and two-stage in design ... Intel Xeon Scalable processors were used to train the model within a virtual environment on Microsoft’s Azure cloud platform, which was then benchmarked using Intel’s Optimization for PyTorch toolkit. From this benchmarking exercise and other open source tools and libraries, Gramener ..."
 publishedDateTime: 2020-01-20T16:00:00Z
-sourceUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/"
-ampUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
+webUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/"
+ampWebUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
 type: article
 quality: 79
 heat: 89
@@ -34,9 +34,9 @@ related:
   - title: "Counting Antarctic penguins with AI"
     excerpt: "In order to study penguin populations, researchers first need to accurately count them. A new crowd counting solution from Intel AI Builder member and data science company Gramener could enable researchers to use computer vision to count penguin populations faster and more accurately. \"Today, on Penguin Awareness Day, it's important to ..."
     publishedDateTime: 2020-01-21T13:40:00Z
-    sourceUrl: "https://phys.org/news/2020-01-antarctic-penguins-ai.html"
-    ampUrl: "https://phys.org/news/2020-01-antarctic-penguins-ai.amp"
-    cdnAmpUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-antarctic-penguins-ai.amp"
+    webUrl: "https://phys.org/news/2020-01-antarctic-penguins-ai.html"
+    ampWebUrl: "https://phys.org/news/2020-01-antarctic-penguins-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-antarctic-penguins-ai.amp"
     type: article
     provider:
       name: Phys.org

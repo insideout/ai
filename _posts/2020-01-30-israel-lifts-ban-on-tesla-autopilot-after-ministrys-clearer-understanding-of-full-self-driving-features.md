@@ -3,9 +3,9 @@ category: news
 title: "Israel lifts ban on Tesla Autopilot after Ministry's clearer understanding of Full Self-Driving features"
 excerpt: "Tesla’s Autopilot and Full Self-Driving suite has been given the green light for use in Israel by the country’s Ministry of Transport and Road Safety unit. The decision comes on the heels of the Ministry’s decision from earlier this month to ban the use of Tesla’s driving-assist feature. Members of the Ministry initially banned Tesla ..."
 publishedDateTime: 2020-01-30T08:06:00Z
-sourceUrl: "https://www.teslarati.com/tesla-autopilot-fsd-israel-approval/"
-ampUrl: "https://www.teslarati.com/tesla-autopilot-fsd-israel-approval/amp/"
-cdnAmpUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-autopilot-fsd-israel-approval/amp/"
+webUrl: "https://www.teslarati.com/tesla-autopilot-fsd-israel-approval/"
+ampWebUrl: "https://www.teslarati.com/tesla-autopilot-fsd-israel-approval/amp/"
+cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-autopilot-fsd-israel-approval/amp/"
 type: article
 quality: 42
 heat: 42

@@ -3,7 +3,7 @@ category: news
 title: "Machines help scientists spot new patterns in Alzheimer’s, cancer and more"
 excerpt: "Deep learning, a more complex method, may be the most discussed machine-learning algorithm because of its spectacular success. Deep-learning models are improving language translation, automatic image identification (and image modifications, the so-called ..."
 publishedDateTime: 2020-01-13T19:17:00Z
-sourceUrl: "https://www.uab.edu/reporter/research/discoveries-innovations/item/8973-machines-help-scientists-spot-new-patterns-in-alzheimer-s-cancer-and-more"
+webUrl: "https://www.uab.edu/reporter/research/discoveries-innovations/item/8973-machines-help-scientists-spot-new-patterns-in-alzheimer-s-cancer-and-more"
 type: article
 quality: 22
 heat: 22

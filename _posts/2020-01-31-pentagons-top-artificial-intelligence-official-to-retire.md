@@ -3,7 +3,7 @@ category: news
 title: "Pentagon’s top artificial intelligence official to retire"
 excerpt: "The Pentagon plans to announce Jan. 31 that Lt. Gen. Jack Shanahan, the Department of Defense’s top artificial intelligence official, will retire from the Air Force this summer, C4ISRNET has learned. Shanahan has served as the first director of the Pentagon’s Joint Artificial Intelligence Center, an effort to accelerate the Pentagon’s ..."
 publishedDateTime: 2020-01-31T03:07:00Z
-sourceUrl: "https://www.defensenews.com/artificial-intelligence/2020/01/31/pentagons-top-artificial-intelligence-official-to-retire/"
+webUrl: "https://www.defensenews.com/artificial-intelligence/2020/01/31/pentagons-top-artificial-intelligence-official-to-retire/"
 type: article
 quality: 37
 heat: 37

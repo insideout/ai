@@ -3,7 +3,7 @@ category: news
 title: "Here's how a robot could teach your kid to code (VIDEO)"
 excerpt: "The Pepper robots have been around for about five years and are more often seen in customer service roles, such as in doctors’ offices, greeting the public. They have sensors, microphones and a gyroscope, but also a degree of artificial intelligence ..."
 publishedDateTime: 2020-01-30T17:26:00Z
-sourceUrl: "https://www.newwestrecord.ca/here-s-how-a-robot-could-teach-your-kid-to-code-video-1.24064253"
+webUrl: "https://www.newwestrecord.ca/here-s-how-a-robot-could-teach-your-kid-to-code-video-1.24064253"
 type: article
 quality: 39
 heat: 39

@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence Could Help Scientists Predict Where And When Toxic Algae Will Bloom"
 excerpt: "The researchers trained the neural network to learn from those thousands of data points ... and it's going to take a variety of tools, and this type of artificial intelligence is a valuable part of that arsenal.\" Back at the Portland wharf, shellfish dealer George Parr says the research sounds pretty promising. \"Forewarned is fore-armed ..."
 publishedDateTime: 2020-01-20T12:27:00Z
-sourceUrl: "https://www.wbur.org/earthwhile/2020/01/20/artificial-intelligence-can-help-predict-toxic-algae"
+webUrl: "https://www.wbur.org/earthwhile/2020/01/20/artificial-intelligence-can-help-predict-toxic-algae"
 type: article
 quality: 31
 heat: 31

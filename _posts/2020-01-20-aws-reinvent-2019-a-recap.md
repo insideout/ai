@@ -3,7 +3,7 @@ category: news
 title: "AWS re:Invent 2019 — A Recap"
 excerpt: "Amazon Rekognition Custom Labels: a new feature of Amazon Rekognition that enables customers to build their own machine learning (ML) based image analysis capabilities to detect unique objects and ..."
 publishedDateTime: 2020-01-20T21:00:00Z
-sourceUrl: "https://medium.com/faun/aws-re-invent-2019-a-recap-a8d62978c82a"
+webUrl: "https://medium.com/faun/aws-re-invent-2019-a-recap-a8d62978c82a"
 type: article
 quality: 69
 heat: 69

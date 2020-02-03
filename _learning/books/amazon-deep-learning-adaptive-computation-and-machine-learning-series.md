@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning (Adaptive Computation and Machine Learning series)"
 excerpt: "An introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry, and research perspectives."
-sourceUrl: https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/
+webUrl: https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/
 type: book
 price: $25.20
 length: 

@@ -3,9 +3,9 @@ category: news
 title: "7 skills your marketing team needs for successful AI implementation"
 excerpt: "Also, when implementing AI, you'll need to spend some time preparing your specialists who will work with AI-improved processes. This is a difficult point because it’s connected with ethics, the basic values of your company, and your readiness to apply the results of AI. Implementing AI might be considered a step toward establishing a data ..."
 publishedDateTime: 2020-01-30T09:06:00Z
-sourceUrl: "https://www.smartinsights.com/managing-digital-marketing/managing-marketing-technology/7-skills-your-marketing-team-needs-ai-implementation/"
-ampUrl: "https://www.smartinsights.com/managing-digital-marketing/managing-marketing-technology/7-skills-your-marketing-team-needs-ai-implementation/amp/"
-cdnAmpUrl: "https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/managing-digital-marketing/managing-marketing-technology/7-skills-your-marketing-team-needs-ai-implementation/amp/"
+webUrl: "https://www.smartinsights.com/managing-digital-marketing/managing-marketing-technology/7-skills-your-marketing-team-needs-ai-implementation/"
+ampWebUrl: "https://www.smartinsights.com/managing-digital-marketing/managing-marketing-technology/7-skills-your-marketing-team-needs-ai-implementation/amp/"
+cdnAmpWebUrl: "https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/managing-digital-marketing/managing-marketing-technology/7-skills-your-marketing-team-needs-ai-implementation/amp/"
 type: article
 quality: 59
 heat: 69
@@ -29,7 +29,7 @@ related:
   - title: "Survey: Manufacturing Companies Struggle with Artificial Intelligence Implementation"
     excerpt: "While manufacturing companies see the value in implementing artificial intelligence (AI) solutions, many are struggling to deliver clear results and are reevaluating their strategy, according to a new report. The report was commissioned by Plutoshift, a provider of automated performance monitoring for industrial workflows. The findings revealed ..."
     publishedDateTime: 2020-01-28T14:05:00Z
-    sourceUrl: "https://www.watertechonline.com/process-water/article/14075076/manufacturing-companies-struggling-with-artificial-intelligence-implementation"
+    webUrl: "https://www.watertechonline.com/process-water/article/14075076/manufacturing-companies-struggling-with-artificial-intelligence-implementation"
     type: article
     provider:
       name: Watertechonline.com

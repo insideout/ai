@@ -3,7 +3,7 @@ category: news
 title: "Viewpoint: Physics Insights from Neural Networks"
 excerpt: "A neural network is a computational tool whose operation is loosely modeled on that of the human brain. The network typically consists of multiple layers of connected artificial neurons, which carry out calculations. The connections between neurons are weighted and those weights—which can number in the millions to billions—form the tunable ..."
 publishedDateTime: 2020-01-08T16:08:00Z
-sourceUrl: https://physics.aps.org/articles/v13/2
+webUrl: https://physics.aps.org/articles/v13/2
 type: article
 quality: 39
 heat: 39

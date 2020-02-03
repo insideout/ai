@@ -3,9 +3,9 @@ category: news
 title: "That California Story About A Daughter In The Backseat With A Sign Saying ‘Not My Mom’ Stirs Valuable Lessons For AI Self-Driving Cars"
 excerpt: "The phrase “Not My Mom” created quite a commotion the other day. Here’s the 411 about it. A recent news story indicated that a girl in the backseat of a moving car displayed a hand-scrawled sign that said “Not My Mom,"
 publishedDateTime: 2020-02-01T16:41:00Z
-sourceUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/01/that-california-story-about-a-daughter-in-the-backseat-with-a-sign-saying-not-my-mom-stirs-valuable-lessons-for-ai-self-driving-cars/"
-ampUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/01/that-california-story-about-a-daughter-in-the-backseat-with-a-sign-saying-not-my-mom-stirs-valuable-lessons-for-ai-self-driving-cars/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/01/that-california-story-about-a-daughter-in-the-backseat-with-a-sign-saying-not-my-mom-stirs-valuable-lessons-for-ai-self-driving-cars/amp/"
+webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/01/that-california-story-about-a-daughter-in-the-backseat-with-a-sign-saying-not-my-mom-stirs-valuable-lessons-for-ai-self-driving-cars/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/01/that-california-story-about-a-daughter-in-the-backseat-with-a-sign-saying-not-my-mom-stirs-valuable-lessons-for-ai-self-driving-cars/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/01/that-california-story-about-a-daughter-in-the-backseat-with-a-sign-saying-not-my-mom-stirs-valuable-lessons-for-ai-self-driving-cars/amp/"
 type: article
 quality: 57
 heat: 57

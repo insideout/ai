@@ -3,9 +3,9 @@ category: news
 title: "Artificial Intelligence, blockchain to help address agriculture issues: PM Modi"
 excerpt: "We have allowed 100% FDI in the sector and also encouraged food value chain development through Pradhan Mantri Kisan Sampada Yojana,” said Modi and also emphasis on using latest technology like Artificial Intelligence, Blockchain, Drone, among others, to address various problems related to agriculture and related activities. WhatsApp may soon ..."
 publishedDateTime: 2020-01-29T05:41:00Z
-sourceUrl: "https://www.financialexpress.com/industry/artificial-intelligence-blockchain-to-help-address-agriculture-issues-pm-modi/1838242/"
-ampUrl: "https://www.financialexpress.com/industry/artificial-intelligence-blockchain-to-help-address-agriculture-issues-pm-modi/1838242/lite/"
-cdnAmpUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/artificial-intelligence-blockchain-to-help-address-agriculture-issues-pm-modi/1838242/lite/"
+webUrl: "https://www.financialexpress.com/industry/artificial-intelligence-blockchain-to-help-address-agriculture-issues-pm-modi/1838242/"
+ampWebUrl: "https://www.financialexpress.com/industry/artificial-intelligence-blockchain-to-help-address-agriculture-issues-pm-modi/1838242/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/artificial-intelligence-blockchain-to-help-address-agriculture-issues-pm-modi/1838242/lite/"
 type: article
 quality: 48
 heat: 48

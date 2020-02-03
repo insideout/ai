@@ -3,7 +3,7 @@ category: news
 title: "Here's how 9 execs at Wall Street giants like Goldman Sachs, BlackRock, and JPMorgan are thinking about the future of fintech"
 excerpt: "Wall Street players largely dismissed the notion of rivalry. There was a lot of talk about partnerships, and some said they've been the true fintechs all along."
 publishedDateTime: 2020-01-30T07:05:00Z
-sourceUrl: "https://www.businessinsider.com/goldman-jpmorgan-blackrock-citi-define-fintech-2020-1"
+webUrl: "https://www.businessinsider.com/goldman-jpmorgan-blackrock-citi-define-fintech-2020-1"
 type: article
 quality: 27
 heat: 27

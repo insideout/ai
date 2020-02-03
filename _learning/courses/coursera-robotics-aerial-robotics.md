@@ -1,7 +1,7 @@
 ---
 title: "Robotics: Aerial Robotics"
 excerpt: "Learn Robotics: Aerial Robotics from University of Pennsylvania. How can we create agile micro aerial vehicles that are able to operate autonomously in cluttered indoor and outdoor environments?  You will gain an introduction to the mechanics of ..."
-sourceUrl: https://www.coursera.org/learn/robotics-flight
+webUrl: https://www.coursera.org/learn/robotics-flight
 type: course
 price: Free+
 length: 25 hours

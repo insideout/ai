@@ -1,7 +1,7 @@
 ---
 title: "Autonomy: The Quest to Build the Driverless Car―And How It Will Reshape Our World"
 excerpt: "An automotive and tech world insider investigates the quest to develop and perfect the driverless car—an innovation that promises to be the most disruptive change to our way of life since the smartphone"
-sourceUrl: https://www.amazon.com/Autonomy-Quest-Driverless-Car-Reshape/dp/0062661124/
+webUrl: https://www.amazon.com/Autonomy-Quest-Driverless-Car-Reshape/dp/0062661124/
 type: book
 price: $13.98
 length: 

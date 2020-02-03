@@ -3,7 +3,7 @@ category: news
 title: "NeurIPS competition tackles climate data challenges"
 excerpt: "The Earth’s climate is a highly complex, dynamic system. It is difficult to understand and predict how different climate variables interact. Finding causal relations in climate research today relies mostly on expensive and time-consuming model simulations. Fortunately, with the explosion in the availability"
 publishedDateTime: 2020-01-21T19:09:25Z
-sourceUrl: "https://aws.amazon.com/blogs/machine-learning/neurips-competition-tackles-climate-data-challenges/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/neurips-competition-tackles-climate-data-challenges/"
 type: article
 quality: 74
 heat: 74

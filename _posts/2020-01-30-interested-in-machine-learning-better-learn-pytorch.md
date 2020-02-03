@@ -3,9 +3,9 @@ category: news
 title: "Interested in machine learning? Better learn PyTorch"
 excerpt: "Building on the rampant popularity of Python was always going to be a good idea for the Facebook-born PyTorch, an open source machine learning framework. Just how good of an idea, however, few could have guessed. That’s because no matter how many things you get right when launching an open source project (great docs, solid technical ..."
 publishedDateTime: 2020-01-30T19:44:00Z
-sourceUrl: "https://www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.html"
-ampUrl: "https://www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html"
-cdnAmpUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html"
+webUrl: "https://www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.html"
+ampWebUrl: "https://www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html"
+cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html"
 type: article
 quality: 89
 heat: 89

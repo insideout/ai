@@ -3,9 +3,9 @@ category: news
 title: "This robotics company's $263 million funding round points toward growth in Pittsburgh"
 excerpt: "Berkshire Grey, which creates robotics and artificial intelligence for retail, and ecommerce fulfillment operations, has a research and development office on Pittsburgh's North Side. The company said in a news release that the funding will go towards global expansion, acquisitions and team growth, and Pete Blair, vice president of marketing for ..."
 publishedDateTime: 2020-01-21T18:45:00Z
-sourceUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.html"
-ampUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.amp.html"
-cdnAmpUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.amp.html"
+webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.html"
+ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.amp.html"
 type: article
 quality: 67
 heat: 67

@@ -3,7 +3,7 @@ category: news
 title: "Here are the metrics AI startup Gupshup used to raise $50 million to help businesses send better, more fun text messages to customers"
 excerpt: "Gupshup uses AI to help businesses organize and jazz up their text messages. Here are the metrics the startup used to raise $50 million."
 publishedDateTime: 2020-01-09T22:01:00Z
-sourceUrl: "https://www.businessinsider.com/gupshup-ai-startup-manage-text-messages-pitch-deck-2020-1"
+webUrl: "https://www.businessinsider.com/gupshup-ai-startup-manage-text-messages-pitch-deck-2020-1"
 type: article
 quality: 36
 heat: 36

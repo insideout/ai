@@ -3,9 +3,9 @@ category: news
 title: "Self-driving shuttles in downtown Grand Rapids make updates as demand increases"
 excerpt: "The AVGR adds new disability-accessible vehicles and route updates. It anticipates to hit 50,000 riders in six months."
 publishedDateTime: 2020-01-28T23:57:00Z
-sourceUrl: "https://www.wzzm13.com/article/money/cars/self-driving-shuttles-progress/69-40c381b1-186a-4dfd-b686-b3b82767830a"
-ampUrl: "https://www.wzzm13.com/amp/article/money/cars/self-driving-shuttles-progress/69-40c381b1-186a-4dfd-b686-b3b82767830a"
-cdnAmpUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/money/cars/self-driving-shuttles-progress/69-40c381b1-186a-4dfd-b686-b3b82767830a"
+webUrl: "https://www.wzzm13.com/article/money/cars/self-driving-shuttles-progress/69-40c381b1-186a-4dfd-b686-b3b82767830a"
+ampWebUrl: "https://www.wzzm13.com/amp/article/money/cars/self-driving-shuttles-progress/69-40c381b1-186a-4dfd-b686-b3b82767830a"
+cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/money/cars/self-driving-shuttles-progress/69-40c381b1-186a-4dfd-b686-b3b82767830a"
 type: article
 quality: 40
 heat: 40

@@ -3,7 +3,7 @@ category: news
 title: "U.S. Navy Heads for the Cloud"
 excerpt: "AWS created its own “secret region” to support government needs across the ... most importantly, must support the future needs of artificial intelligence and machine learning programs. The current steps by the Navy meet these requirements and promise substantial return on investment. Current Steps Forward by the Navy The DON has pursued ..."
 publishedDateTime: 2020-01-21T19:38:00Z
-sourceUrl: "https://maritime-executive.com/editorials/u-s-navy-heads-for-the-cloud"
+webUrl: "https://maritime-executive.com/editorials/u-s-navy-heads-for-the-cloud"
 type: article
 quality: 24
 heat: 24

@@ -1,7 +1,7 @@
 ---
 title: "Applied Predictive Modeling"
 excerpt: "Applied Predictive Modeling covers the overall predictive modeling process, beginning with the crucial steps of data preprocessing, data splitting and foundations of model tuning.  The text then provides intuitive explanations of numerous common and modern regression and classification techniques, always with an emphasis on illustrating and solving real data problems.  Addressing practical concerns extends beyond model fitting to topics such as handling class imbalance, selecting predictors, and pinpointing causes of poor model performance―all of which are problems that occur frequently in practice."
-sourceUrl: https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485/
+webUrl: https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485/
 type: book
 price: $33.43
 length: 

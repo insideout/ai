@@ -3,9 +3,9 @@ category: news
 title: "Looking for an affordable phone? Wait for Qualcomm’s new mid-range chipsets"
 excerpt: "Combined with an improved Adreno 618 GPU, users can expect a significant leap in day-to-day as well as gaming performance over the Snapdragon 712. Imaging is one of the key focus areas for Qualcomm and the 720G gets a Spectra 350L ISP that enables image capture at up to 192MP as well as HEIF support. There are improvements in the AI engine as ..."
 publishedDateTime: 2020-01-21T08:44:00Z
-sourceUrl: "https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/"
-ampUrl: "https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/"
-cdnAmpUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/"
+webUrl: "https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/"
+ampWebUrl: "https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/"
+cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/"
 type: article
 quality: 102
 heat: 112
@@ -33,7 +33,7 @@ related:
   - title: "Qualcomm’s three new phone chips skip 5G for a good reason"
     excerpt: "That focus on India is also evident in some of the features these new chips are touting. Specifically ... Also shipping on the 720G is Qualcomm’s 5th-gen AI engine and the X15 LTE modem, which supports 3-carrier aggregation, 4×4 MIMO and download speeds of up to 800Mbps. The processor also supports Wi-Fi 6 and Bluetooth 5.1, and it ..."
     publishedDateTime: 2020-01-21T14:33:00Z
-    sourceUrl: "https://www.slashgear.com/qualcomms-three-new-phone-chips-skip-5g-for-a-good-reason-21607303/"
+    webUrl: "https://www.slashgear.com/qualcomms-three-new-phone-chips-skip-5g-for-a-good-reason-21607303/"
     type: article
     provider:
       name: SlashGear

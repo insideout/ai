@@ -3,9 +3,9 @@ category: news
 title: "Three big AI projects in medicine to watch in 2020"
 excerpt: "Google didn’t exactly come out of 2019 smelling of roses when it comes to patient data privacy. Alongside the clamor in the UK following the news that the tech conglomerate had finally fully absorbed DeepMind, an AI company criticized for its historic handling of sensitive NHS data, its US-based cloud computing deal Project Nightingale found ..."
 publishedDateTime: 2020-01-24T14:12:00Z
-sourceUrl: "https://www.news-medical.net/news/20200124/Three-big-AI-projects-in-medicine-to-watch-in-2020.aspx"
-ampUrl: "https://www.news-medical.net/amp/news/20200124/Three-big-AI-projects-in-medicine-to-watch-in-2020.aspx"
-cdnAmpUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200124/Three-big-AI-projects-in-medicine-to-watch-in-2020.aspx"
+webUrl: "https://www.news-medical.net/news/20200124/Three-big-AI-projects-in-medicine-to-watch-in-2020.aspx"
+ampWebUrl: "https://www.news-medical.net/amp/news/20200124/Three-big-AI-projects-in-medicine-to-watch-in-2020.aspx"
+cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200124/Three-big-AI-projects-in-medicine-to-watch-in-2020.aspx"
 type: article
 quality: 59
 heat: 59

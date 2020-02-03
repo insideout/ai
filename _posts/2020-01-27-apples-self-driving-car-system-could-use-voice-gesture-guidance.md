@@ -3,9 +3,9 @@ category: news
 title: "Apple's self-driving car system could use voice, gesture guidance"
 excerpt: "Interacting with a future self-driving car could be a lot like working with some future interpretation of Apple iOS with voice, gesture and touch-enabled commands at your disposal. It's the overarching view gathered after reading through an Apple patent application filed last August and published last week for a self-driving car voice and ..."
 publishedDateTime: 2020-01-27T20:49:00Z
-sourceUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-system-voice-gesture-guidance/"
-ampUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
-cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
+webUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-system-voice-gesture-guidance/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
 type: article
 quality: 74
 heat: 84
@@ -33,9 +33,9 @@ related:
   - title: "Air taxis, Hyperloop, self-driving cars: What your commute could look like in 2030"
     excerpt: "Experts say self-driving features will reach an inflection point over the next several years, though vehicles aren't expected to be able to do all the driving. \"More and more vehicles will have standard equipment with basic automation like lane-keeping assist, automated braking and left-hand turn assistance,\" Rickert said. \"Those things ..."
     publishedDateTime: 2020-01-21T09:19:00Z
-    sourceUrl: "https://www.usatoday.com/story/money/cars/2020/01/21/air-taxis-evs-and-hyperloop-how-transportation-evolve-2030/2794123001/"
-    ampUrl: "https://amp.usatoday.com/amp/2794123001"
-    cdnAmpUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2794123001"
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/01/21/air-taxis-evs-and-hyperloop-how-transportation-evolve-2030/2794123001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/2794123001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2794123001"
     type: article
     provider:
       name: USA Today

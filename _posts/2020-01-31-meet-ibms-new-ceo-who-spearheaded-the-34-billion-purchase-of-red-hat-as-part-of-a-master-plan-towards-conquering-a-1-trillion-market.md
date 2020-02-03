@@ -3,7 +3,7 @@ category: news
 title: "Meet IBM's new ceo, who spearheaded the $34 billion purchase of Red Hat as part of a master plan towards conquering a $1 trillion market"
 excerpt: "IBM's new CEO, Arvind Krishna, is a 29-year veteran who has been leading the company's bid to conquer the $1 trillion hybrid cloud market."
 publishedDateTime: 2020-01-31T00:56:00Z
-sourceUrl: "https://www.businessinsider.com/ibms-new-ceo-arvind-krishna-hybrid-cloud-market-2020-1"
+webUrl: "https://www.businessinsider.com/ibms-new-ceo-arvind-krishna-hybrid-cloud-market-2020-1"
 type: article
 quality: 1
 heat: 1

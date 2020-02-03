@@ -3,9 +3,9 @@ category: news
 title: "Meet the new face-detection algorithm that will change image search"
 excerpt: "Current facial-recognition technology is based primarily on the work of Paul Viola and Michael Jones, who achieved a major breakthrough in 2001 when they developed an algorithm that could detect ..."
 publishedDateTime: 2015-02-17T14:27:00Z
-sourceUrl: https://www.dailydot.com/debug/face-detection-algorithm-image-search/
-ampUrl: https://www.dailydot.com/debug/face-detection-algorithm-image-search/?amp
-cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-detection-algorithm-image-search/?amp
+webUrl: https://www.dailydot.com/debug/face-detection-algorithm-image-search/
+ampWebUrl: https://www.dailydot.com/debug/face-detection-algorithm-image-search/?amp
+cdnAmpWebUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-detection-algorithm-image-search/?amp
 type: article
 quality: 142
 heat: 142

@@ -3,9 +3,9 @@ category: news
 title: "The transformation role of APIs in healthcare"
 excerpt: "As the industry seeks to offer patient-centric healthcare, its key growth drivers—including affordable insurance, telemedicine, remote diagnostics, and medical tourism—are often accelerated by digital transformation (DX) technologies. These technologies include cloud computing, IoT, artificial intelligence, mobility, and analytics ..."
 publishedDateTime: 2020-01-20T03:30:00Z
-sourceUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408"
-ampUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408"
-cdnAmpUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408"
+webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408"
 type: article
 quality: 39
 heat: 39
@@ -23,7 +23,7 @@ related:
   - title: "Forbes 30 Under 30 Recognizes Alumni for Innovations in Healthcare"
     excerpt: "Lauded for their early achievements in medicine and artificial intelligence ... learning in order to aid in decision making in the healthcare industry. Having a physician look over medical ..."
     publishedDateTime: 2020-01-24T21:06:00Z
-    sourceUrl: "https://cornellsun.com/2020/01/24/forbes-30-under-30-recognizes-alumni-for-innovations-in-healthcare/"
+    webUrl: "https://cornellsun.com/2020/01/24/forbes-30-under-30-recognizes-alumni-for-innovations-in-healthcare/"
     type: article
     provider:
       name: Cornell Daily Sun

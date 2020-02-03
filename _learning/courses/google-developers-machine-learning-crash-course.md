@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Crash Course with TensorFlow APIs"
 excerpt: "Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises."
-sourceUrl: https://developers.google.com/machine-learning/crash-course/
+webUrl: https://developers.google.com/machine-learning/crash-course/
 type: course
 price: Free
 length: 15 hours

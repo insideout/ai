@@ -3,9 +3,9 @@ category: news
 title: "Global analytics leader Evalueserve onboards Amber, an AI engagement bot by HR-tech startup inFeedo"
 excerpt: "NEW DELHI, Feb. 2, 2020 /PRNewswire-PRWeb/ -- Evalueserve, a global leader in analytics consulting today announced their global partnership with HR-tech startup, inFeedo, which works with global giants ranging from Puma to PepsiCo."
 publishedDateTime: 2020-02-02T07:00:00Z
-sourceUrl: "https://www.benzinga.com/pressreleases/20/02/n15233387/global-analytics-leader-evalueserve-onboards-amber-an-ai-engagement-bot-by-hr-tech-startup-infeedo"
-ampUrl: "https://amp.benzinga.com/amp/content/15233387"
-cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15233387"
+webUrl: "https://www.benzinga.com/pressreleases/20/02/n15233387/global-analytics-leader-evalueserve-onboards-amber-an-ai-engagement-bot-by-hr-tech-startup-infeedo"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15233387"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15233387"
 type: article
 quality: 23
 heat: 23

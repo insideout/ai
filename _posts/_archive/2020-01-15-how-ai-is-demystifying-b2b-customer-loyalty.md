@@ -3,7 +3,7 @@ category: news
 title: "How AI is Demystifying B2B Customer Loyalty"
 excerpt: "Each of the leading four cloud MLaaS platforms (Amazon Machine Learning Services, Azure, Google Cloud AI, and IBM Watson) allow for fast model training that can greatly accelerate the time it takes to get to actual results. Machine learning and AI can’t reveal everything there is to know about customer loyalty, but they can demystify what ..."
 publishedDateTime: 2020-01-15T16:11:00Z
-sourceUrl: "https://insidebigdata.com/2020/01/14/how-ai-is-demystifying-b2b-customer-loyalty/"
+webUrl: "https://insidebigdata.com/2020/01/14/how-ai-is-demystifying-b2b-customer-loyalty/"
 type: article
 quality: 19
 heat: 19

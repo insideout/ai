@@ -3,7 +3,7 @@ category: news
 title: "Woven City: Toyota’s ‘living laboratory’ for autonomous cars & robots"
 excerpt: "Many executives naively group AI into its own category with SmartCity inventions as a niche use case ... Hidden behind an out-of-place Delta Airlines lounge, I discovered a robotics startup already fulfilling aspects of the Woven City. Vancouver-based A&K Robotics displayed a proprietary autonomous mobility solution serving the ballooning ..."
 publishedDateTime: 2020-01-13T17:38:00Z
-sourceUrl: "https://www.therobotreport.com/toyota-woven-city-living-laboratory-robots/"
+webUrl: "https://www.therobotreport.com/toyota-woven-city-living-laboratory-robots/"
 type: article
 quality: 69
 heat: 69

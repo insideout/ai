@@ -3,7 +3,7 @@ category: news
 title: "Vulkan 1.2 GPU Acceleration Spec Released by Khronos Group"
 excerpt: "Currently, five GPU vendors have certified conformant Vulkan 1.2 implementations that have been ... Automotive Embedded Systems, the Power Page, Industrial AI & Machine Learning, and other publications. As an experienced technical journalist, editor, and reporter with an aptitude for identifying key technologies, products, and market trends ..."
 publishedDateTime: 2020-01-23T19:17:00Z
-sourceUrl: "https://www.embedded-computing.com/news/vulkan-1-2-gpu-acceleration-spec-released-by-khronos-group"
+webUrl: "https://www.embedded-computing.com/news/vulkan-1-2-gpu-acceleration-spec-released-by-khronos-group"
 type: article
 quality: 39
 heat: 39

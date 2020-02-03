@@ -3,7 +3,7 @@ category: news
 title: "How Nigeria Can Earn Forex From Robotics, AI ― Expert - Politics - Nairaland"
 excerpt: "Training Nigeria’s youth in robotics and artificial intelligence (AI) will eventually give Nigeria forex earnings. This is because companies in the Western world have a demand for affordable robotics and AI products and Nigeria is in a good position to provide such. This is the position of Dr Olusola Ayoola, a robotics and AI expert ..."
 publishedDateTime: 2020-01-16T23:36:00Z
-sourceUrl: "https://www.nairaland.com/5635671/how-nigeria-earn-forex-robotics"
+webUrl: "https://www.nairaland.com/5635671/how-nigeria-earn-forex-robotics"
 type: article
 quality: 66
 heat: 66

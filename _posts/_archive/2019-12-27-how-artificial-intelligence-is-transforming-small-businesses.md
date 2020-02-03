@@ -3,9 +3,9 @@ category: news
 title: "How Artificial Intelligence Is Transforming Small Businesses"
 excerpt: "30% of businesses will use AI in at least one of their sales processes by 2020 Artificial intelligence, or AI, is here to stay, and it’s everywhere. Consider the fact that only 33% of consumers think they’re using AI-powered technology, but ..."
 publishedDateTime: 2019-12-27T05:33:00Z
-sourceUrl: https://inc42.com/resources/how-artificial-intelligence-is-transforming-small-businesses/
-ampUrl: https://inc42.com/resources/how-artificial-intelligence-is-transforming-small-businesses/amp/
-cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/how-artificial-intelligence-is-transforming-small-businesses/amp/
+webUrl: https://inc42.com/resources/how-artificial-intelligence-is-transforming-small-businesses/
+ampWebUrl: https://inc42.com/resources/how-artificial-intelligence-is-transforming-small-businesses/amp/
+cdnAmpWebUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/how-artificial-intelligence-is-transforming-small-businesses/amp/
 type: article
 quality: 57
 heat: 57

@@ -3,7 +3,7 @@ category: news
 title: "Brain Corp. Claims Record Sales As Robotics Takes Off"
 excerpt: "San Diego-based artificial intelligence software developer Brain Corp says it is saw \"record sales and revenue growth\" in 2019, on strong retailer demand for autonomous, mobile robots. The company said that its saw a more thn 300 percent increase in its revenues last year due to a \"surge\" in interest in floor care machines that are powered by ..."
 publishedDateTime: 2020-01-23T14:37:00Z
-sourceUrl: "https://socaltech.com/brain_corp_claims_record_sales_as_robotics_takes_off/s-0079426.html"
+webUrl: "https://socaltech.com/brain_corp_claims_record_sales_as_robotics_takes_off/s-0079426.html"
 type: article
 quality: 49
 heat: 49
@@ -21,7 +21,7 @@ related:
   - title: "Brain Corp achieves ‘record sales growth’ in 2019 amid strong demand for autonomous mobile robots"
     excerpt: "Brain Corp, a San Diego-based robotics and artificial intelligence company, says it achieved “record sales and revenue growth in 2019” as retailers increasingly turn to robotic solutions to reduce costs and enhance in-store experiences. Brain Corp achieved more than a 300 percent increase in revenue last year, fueled by a surge in interest ..."
     publishedDateTime: 2020-01-23T14:15:00Z
-    sourceUrl: "https://roboticsandautomationnews.com/2020/01/23/brain-corp-achieves-record-sales-growth-in-2019-amid-strong-demand-for-autonomous-mobile-robots/28946/"
+    webUrl: "https://roboticsandautomationnews.com/2020/01/23/brain-corp-achieves-record-sales-growth-in-2019-amid-strong-demand-for-autonomous-mobile-robots/28946/"
     type: article
     provider:
       name: Robotics & Automation News

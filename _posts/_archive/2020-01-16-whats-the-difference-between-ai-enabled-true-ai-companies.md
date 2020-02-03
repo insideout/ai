@@ -3,7 +3,7 @@ category: news
 title: "What’s The Difference Between AI-Enabled & True AI Companies?"
 excerpt: "In this article, we analyse the difference. True AI Companies Are Leading Research And Driving Innovation True AI companies integrate artificial intelligence innovation to improve their offerings in services ranging from like natural language processing, chatbot development, recommendation engines, algorithms, hardware infrastructure and much more."
 publishedDateTime: 2020-01-16T07:11:00Z
-sourceUrl: "https://analyticsindiamag.com/whats-the-difference-between-true-ai-ai-enabled-companies/"
+webUrl: "https://analyticsindiamag.com/whats-the-difference-between-true-ai-ai-enabled-companies/"
 type: article
 quality: 41
 heat: 41

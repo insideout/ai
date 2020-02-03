@@ -3,7 +3,7 @@ category: news
 title: "Threat Actors Can No Longer Hide: Cobwebs Technologies, World's Most Advanced Open Source Web Intelligence Company Opens Office in U.S."
 excerpt: "Designed by intelligence experts with operational experience in the field, Cobwebs is a machine learning (ML) and artificial intelligence (AI) powered web intelligence and investigation platform with strong Natural Language Processing capabilities. It extracts targeted intelligence from Big Data and automatically generates intelligent insights."
 publishedDateTime: 2020-01-22T15:45:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-threat-actors-no-longer-hide-cobwebs-technologies-worlds-/2020/01/22/9085449.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-threat-actors-no-longer-hide-cobwebs-technologies-worlds-/2020/01/22/9085449.htm"
 type: article
 quality: 0
 heat: 0

@@ -3,7 +3,7 @@ category: news
 title: "Optimizing automotive dashboards for efficient rendering"
 excerpt: "To address the issue, the GPU is likely to be over-specified, requiring far more horsepower than would ... guiding the evolution of PowerVR’s Graphics Processing Units (GPUs) and advances in AI technologies. This included leading the customer engineering team, which was responsible for delivering and supporting all Imagination’s technology ..."
 publishedDateTime: 2020-01-21T18:09:00Z
-sourceUrl: "https://www.embedded.com/optimizing-automotive-dashboards-for-efficient-rendering/"
+webUrl: "https://www.embedded.com/optimizing-automotive-dashboards-for-efficient-rendering/"
 type: article
 quality: 24
 heat: 24

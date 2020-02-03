@@ -3,7 +3,7 @@ category: news
 title: "Embedded Vision Alliance expands scope, rebrands as Edge AI and Vision Alliance"
 excerpt: "The Embedded Vision Alliance is expanding to encompass the full range of edge AI technology and applications, including its traditional domain of computer vision and visual AI. According to the alliance, to better reflect its new scope it will be changing its name to the Edge AI and Vision Alliance. For the alliance, it defines edge AI as AI ..."
 publishedDateTime: 2020-01-29T17:01:00Z
-sourceUrl: "https://www.controldesign.com/industrynews/2020/embedded-vision-alliance-expands-scope-rebrands-as-edge-ai-and-vision-alliance/"
+webUrl: "https://www.controldesign.com/industrynews/2020/embedded-vision-alliance-expands-scope-rebrands-as-edge-ai-and-vision-alliance/"
 type: article
 quality: 17
 heat: 17

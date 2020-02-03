@@ -2,7 +2,7 @@
 title: "Creating Machine Learning Models"
 excerpt: "This course covers the important types of machine learning algorithms, solution techniques based on the specifics of the problem you are trying to solve, as well as the classic machine learning workflow.
 "
-sourceUrl: https://www.pluralsight.com/courses/creating-machine-learning-models
+webUrl: https://www.pluralsight.com/courses/creating-machine-learning-models
 type: course
 price: $$
 length: 2h 43m

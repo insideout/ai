@@ -3,9 +3,9 @@ category: news
 title: "Intel Xe: One GPU Architecture To Rule Them All (Page 2)"
 excerpt: "Intel using its new Xe GPU architecture on Tiger Lake CPUs means there's a huge ... We can't escape the \"massive\" improvement in AI performance as well, with Tiger Lake shaping up to be quite the release from Intel later in 2020."
 publishedDateTime: 2020-01-09T17:10:00Z
-sourceUrl: https://www.tweaktown.com/articles/9312/intel-xe-one-gpu-architecture-rule/index2.html
-ampUrl: https://www.tweaktown.com/articles/9312/intel-xe-one-gpu-architecture-rule/amp.html
-cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9312/intel-xe-one-gpu-architecture-rule/amp.html
+webUrl: https://www.tweaktown.com/articles/9312/intel-xe-one-gpu-architecture-rule/index2.html
+ampWebUrl: https://www.tweaktown.com/articles/9312/intel-xe-one-gpu-architecture-rule/amp.html
+cdnAmpWebUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9312/intel-xe-one-gpu-architecture-rule/amp.html
 type: article
 quality: 59
 heat: 59

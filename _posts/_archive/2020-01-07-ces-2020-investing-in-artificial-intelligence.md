@@ -3,7 +3,7 @@ category: news
 title: "CES 2020: Investing In Artificial Intelligence"
 excerpt: "I have been following IBM for more than 20 years now and only owned the stock once from just after the financial crisis to early 2014. The stock has been in a steady chop down since late 2014. The company itself has seemed burdened by legacy and frankly been rather boring. I'm not bored anymore. Watson, their famous AI, is already solving ..."
 publishedDateTime: 2020-01-07T17:59:00Z
-sourceUrl: https://seekingalpha.com/article/4315618-ces-2020-investing-in-artificial-intelligence
+webUrl: https://seekingalpha.com/article/4315618-ces-2020-investing-in-artificial-intelligence
 type: article
 quality: 21
 heat: -1
@@ -22,9 +22,9 @@ related:
   - title: "Mark Cuban Talks Investing in AI and Regulating Big Tech at Variety’s CES Summit"
     excerpt: "One important reason why he believes that is because the behemoths are “doing the research that’s keeping our country competitive with other countries in terms of AI.” If Facebook ..."
     publishedDateTime: 2020-01-09T01:49:00Z
-    sourceUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/
-    ampUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
-    cdnAmpUrl: https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
+    webUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/
+    ampWebUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
+    cdnAmpWebUrl: https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
     type: article
     provider:
       name: Variety

@@ -3,7 +3,7 @@ category: news
 title: "New School of Design degree program focuses on using robotics in architecture"
 excerpt: "The Weitzman School will have one of the few architectural programs in the nation to use robots and artificial intelligence in design. Credit: Mona Lee Penn’s Stuart Weitzman School of Design will offer a new masters degree program this fall that specializes in using robotics for architecture and design. The new program is known as Master of ..."
 publishedDateTime: 2020-01-30T03:06:00Z
-sourceUrl: "https://www.thedp.com/article/2020/01/weitzman-new-program-robotics-design"
+webUrl: "https://www.thedp.com/article/2020/01/weitzman-new-program-robotics-design"
 type: article
 quality: 31
 heat: 31

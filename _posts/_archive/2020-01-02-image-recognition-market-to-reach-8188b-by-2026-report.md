@@ -3,7 +3,7 @@ category: news
 title: "Image Recognition Market to Reach $81.88B by 2026: Report"
 excerpt: "Biometric facial recognition is, of course, one form of AI-driven image recognition. Other technologies in this field include object recognition, pattern recognition, optical character recognition, and barcode recognition. Leading companies highlighted in ..."
 publishedDateTime: 2020-01-02T00:00:00Z
-sourceUrl: "https://findbiometrics.com/image-recognition-market-to-reach-81-88b-by-2026-report-701021/"
+webUrl: "https://findbiometrics.com/image-recognition-market-to-reach-81-88b-by-2026-report-701021/"
 type: article
 quality: 24
 heat: 24

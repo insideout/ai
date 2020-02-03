@@ -3,7 +3,7 @@ category: news
 title: "Gone Today, Hair Tomorrow—Follica Raises Funds to Begin Human Trial of Baldness Treatment"
 excerpt: "A proof of concept study involving 15 to 20 patients (Follica has no shortage of volunteers, as several hundred people sent in e-mails when word of Cotsarelis’s work reached the public ..."
 publishedDateTime: 2020-01-04T00:00:00Z
-sourceUrl: "https://xconomy.com/boston/2008/01/04/gone-today-hair-tomorrow-follica-raises-funds-to-begin-human-trial-of-baldness-treatment/2/"
+webUrl: "https://xconomy.com/boston/2008/01/04/gone-today-hair-tomorrow-follica-raises-funds-to-begin-human-trial-of-baldness-treatment/2/"
 type: article
 quality: 128
 heat: 128

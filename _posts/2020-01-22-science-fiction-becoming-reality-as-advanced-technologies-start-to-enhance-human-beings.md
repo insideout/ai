@@ -3,7 +3,7 @@ category: news
 title: "Science fiction becoming ‘reality’ as advanced technologies start to enhance human beings"
 excerpt: "They will be capable of accurately interpreting, storing, actioning and sharing thoughts and emotions.” Along with BCIs and mind-controlled robotic arms, here’s a list of the key technologies Mabbott writes are likely to contribute to human augmentation including: An army of Cybermen Exoskeletons will also become commonplace, with the ..."
 publishedDateTime: 2020-01-22T01:28:00Z
-sourceUrl: "https://www.itwire.com/strategy/science-fiction-becoming-‘reality’-as-advanced-technologies-start-to-enhance-human-beings.html"
+webUrl: "https://www.itwire.com/strategy/science-fiction-becoming-‘reality’-as-advanced-technologies-start-to-enhance-human-beings.html"
 type: article
 quality: 15
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Opera performance featuring robot conducting human orchestra coming to Sharjah"
     excerpt: "An opera performance featuring a robot conducting a human orchestra will be coming to Sharjah this weekend. Scary Beauty, which has previously been shown in Toyko in Japan and Adelaide in Australia, shows music being created in real time with human musicians and artificial intelligence. It is the first time the performance has been shown in the ..."
     publishedDateTime: 2020-01-27T07:31:00Z
-    sourceUrl: "https://www.timeoutabudhabi.com/culture/431071-opera-performance-featuring-robot-conducting-human-orchestra-coming-to-sharjah"
-    ampUrl: "https://amp.timeoutabudhabi.com/amp/article_listing/toad/culture/431071-opera-performance-featuring-robot-conducting-human-orchestra-coming-to-sharjah"
-    cdnAmpUrl: "https://amp-timeoutabudhabi-com.cdn.ampproject.org/c/s/amp.timeoutabudhabi.com/amp/article_listing/toad/culture/431071-opera-performance-featuring-robot-conducting-human-orchestra-coming-to-sharjah"
+    webUrl: "https://www.timeoutabudhabi.com/culture/431071-opera-performance-featuring-robot-conducting-human-orchestra-coming-to-sharjah"
+    ampWebUrl: "https://amp.timeoutabudhabi.com/amp/article_listing/toad/culture/431071-opera-performance-featuring-robot-conducting-human-orchestra-coming-to-sharjah"
+    cdnAmpWebUrl: "https://amp-timeoutabudhabi-com.cdn.ampproject.org/c/s/amp.timeoutabudhabi.com/amp/article_listing/toad/culture/431071-opera-performance-featuring-robot-conducting-human-orchestra-coming-to-sharjah"
     type: article
     provider:
       name: timeoutabudhabi.com

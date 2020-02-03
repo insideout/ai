@@ -3,7 +3,7 @@ category: news
 title: "Is AI judging your personality?"
 excerpt: "The company may be using software to judge whether you're trustworthy enough to rent a house based on what you post on Facebook, Twitter and Instagram ... Trooly created an AI-based tool designed to \"predict trustworthy relationships and interactions ..."
 publishedDateTime: 2020-01-10T21:08:00Z
-sourceUrl: "https://www.idginsiderpro.com/article/3513505/is-ai-judging-your-personality.html"
+webUrl: "https://www.idginsiderpro.com/article/3513505/is-ai-judging-your-personality.html"
 type: article
 quality: 39
 heat: 39

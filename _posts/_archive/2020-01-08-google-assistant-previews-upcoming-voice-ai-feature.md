@@ -3,9 +3,9 @@ category: news
 title: "Google Assistant Previews Upcoming Voice AI Feature"
 excerpt: "At last year’s CES, Google introduced the availability of Interpreter Mode to translate nearly 30 languages. As of December 2019, Interpreter Mode was available in 44 languages and could interpret in 15-second bursts of conversation. Through a collaboration with industry partners Volara and Sonifi, Google said at CES 2020 that Interpreter ..."
 publishedDateTime: 2020-01-08T04:38:00Z
-sourceUrl: https://www.pymnts.com/innovation/2020/google-assistant-previews-upcoming-voice-ai-feature/
-ampUrl: https://www.pymnts.com/innovation/2020/google-assistant-previews-upcoming-voice-ai-feature/amp/
-cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/google-assistant-previews-upcoming-voice-ai-feature/amp/
+webUrl: https://www.pymnts.com/innovation/2020/google-assistant-previews-upcoming-voice-ai-feature/
+ampWebUrl: https://www.pymnts.com/innovation/2020/google-assistant-previews-upcoming-voice-ai-feature/amp/
+cdnAmpWebUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/google-assistant-previews-upcoming-voice-ai-feature/amp/
 type: article
 quality: 39
 heat: -1
@@ -23,9 +23,9 @@ related:
   - title: "American Airlines will use Google Assistant as an AI translator"
     excerpt: "Interpreter Mode can currently translate 29 different languages in real-time; those languages are the following: Arabic, French, German, Japanese, Russian, Spanish, and Vietnamese. Engadget has also said that according to American Airlines Interpreter Mode will only be used if a multilingual team member isn't present to assist travelers."
     publishedDateTime: 2020-01-08T19:50:00Z
-    sourceUrl: https://www.tweaktown.com/news/69836/american-airlines-use-google-assistant-ai-translator/index.html
-    ampUrl: https://www.tweaktown.com/news/69836/american-airlines-use-google-assistant-ai-translator/amp.html
-    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/69836/american-airlines-use-google-assistant-ai-translator/amp.html
+    webUrl: https://www.tweaktown.com/news/69836/american-airlines-use-google-assistant-ai-translator/index.html
+    ampWebUrl: https://www.tweaktown.com/news/69836/american-airlines-use-google-assistant-ai-translator/amp.html
+    cdnAmpWebUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/69836/american-airlines-use-google-assistant-ai-translator/amp.html
     type: article
     provider:
       name: TweakTown

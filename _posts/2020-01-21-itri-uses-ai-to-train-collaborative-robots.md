@@ -3,7 +3,7 @@ category: news
 title: "ITRI uses AI to train collaborative robots"
 excerpt: "Computational Intelligence Technology Center under government-sponsored Industrial Technology Research Institute (ITRI) has developed an AI-based deep learning solution for use in training ... Besides, tactile sensing is applied to training of robotic arms. Mechavision, a startup business spun off from ITRI in 2017, has cooperated with Japan ..."
 publishedDateTime: 2020-01-21T08:06:00Z
-sourceUrl: "https://www.digitimes.com/news/a20200121PD212.html"
+webUrl: "https://www.digitimes.com/news/a20200121PD212.html"
 type: article
 quality: 54
 heat: 64
@@ -27,7 +27,7 @@ related:
   - title: "Dentons includes AI and robotic automation in training contract…"
     excerpt: "Twitter demands AI firm stops using user images for law app A technology firm whose products are used by law enforcement organizations around the world has been told to stop using images from Twitter. The BBC reports that Clearview’s database contains around 3 billion images ‘scraped’ from Facebook ... after-the-fact research tool."
     publishedDateTime: 2020-01-23T18:21:00Z
-    sourceUrl: "https://www.australasianlawyer.com.au/news/dentons-includes-ai-and-robotic-automation-in-training-contract-269631.aspx"
+    webUrl: "https://www.australasianlawyer.com.au/news/dentons-includes-ai-and-robotic-automation-in-training-contract-269631.aspx"
     type: article
     provider:
       name: australasianlawyer.com.au

@@ -3,7 +3,7 @@ category: news
 title: "DGIST startup 'N-Side' invited to CES, the world's largest IT trade show"
 excerpt: "DGIST startup N-Side will participate in the world's largest trade show 'CES 2020' in Las ... U.S. CES is the world's gathering place for all those who thrive on the business of breakthrough technologies such as AI or blockchain. CES 2020 will be attended by prominent global IT companies including Google, Amazon, Samsung Electronics, LG ..."
 publishedDateTime: 2020-01-13T14:27:00Z
-sourceUrl: "https://www.eurekalert.org/pub_releases/2020-01/dgi-ds011220.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-01/dgi-ds011220.php"
 type: article
 quality: 23
 heat: 23

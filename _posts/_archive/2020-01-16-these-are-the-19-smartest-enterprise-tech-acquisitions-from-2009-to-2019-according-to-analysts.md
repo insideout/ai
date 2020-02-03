@@ -3,7 +3,7 @@ category: news
 title: "These are the 19 smartest enterprise tech acquisitions from 2009 to 2019, according to analysts"
 excerpt: "The list ranges from Dell's $67 billion acquisition of EMC and its major subsidiary VMware to a big Google deal in artificial intelligence."
 publishedDateTime: 2020-01-16T02:10:00Z
-sourceUrl: "https://www.businessinsider.com/smartest-enterprise-acquisitions-past-decade-wall-street-analysts-2020-1?IR=T"
+webUrl: "https://www.businessinsider.com/smartest-enterprise-acquisitions-past-decade-wall-street-analysts-2020-1?IR=T"
 type: article
 quality: 42
 heat: 42

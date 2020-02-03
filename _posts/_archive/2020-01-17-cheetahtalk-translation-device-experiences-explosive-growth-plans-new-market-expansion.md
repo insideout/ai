@@ -3,9 +3,9 @@ category: news
 title: "CheetahTALK Translation Device Experiences Explosive Growth, Plans New Market Expansion"
 excerpt: "CheetahTALK is powered by AI technology from Microsoft Azure Cognitive Services, with machine translation and Neural Text-to-Speech capabilities, as well as Automatic Speech Recognition from OrionStar. The palm-sized device translates 42 popular languages including English, Spanish, French, Italian, Chinese, Japanese, Germany and Portuguese ..."
 publishedDateTime: 2020-01-17T23:00:00Z
-sourceUrl: "https://markets.businessinsider.com/news/stocks/cheetahtalk-translation-device-experiences-explosive-growth-plans-new-market-expansion-1028827301"
-ampUrl: "https://markets.businessinsider.com/amp/news/cheetahtalk-translation-device-experiences-explosive-growth-plans-new-market-expansion-1028827301"
-cdnAmpUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cheetahtalk-translation-device-experiences-explosive-growth-plans-new-market-expansion-1028827301"
+webUrl: "https://markets.businessinsider.com/news/stocks/cheetahtalk-translation-device-experiences-explosive-growth-plans-new-market-expansion-1028827301"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/cheetahtalk-translation-device-experiences-explosive-growth-plans-new-market-expansion-1028827301"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cheetahtalk-translation-device-experiences-explosive-growth-plans-new-market-expansion-1028827301"
 type: article
 quality: 46
 heat: 46
@@ -27,7 +27,7 @@ related:
   - title: "CheetahTALK Translation Device Experiences Explosive Growth, Plans New Market Expansion"
     excerpt: "After only a few weeks on Amazon, CheetahTALK became the best seller in the foreign language translator category ... CheetahTALK is powered by AI technology from Microsoft Azure Cognitive Services, with machine translation and Neural Text-to-Speech capabilities, as well as Automatic Speech Recognition from OrionStar. The palm-sized device ..."
     publishedDateTime: 2020-01-18T00:07:00Z
-    sourceUrl: "https://www.tmcnet.com/usubmit/-cheetahtalk-translation-device-experiences-explosive-growth-plans-new-/2020/01/17/9083479.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-cheetahtalk-translation-device-experiences-explosive-growth-plans-new-/2020/01/17/9083479.htm"
     type: article
     provider:
       name: TMCnet

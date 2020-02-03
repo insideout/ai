@@ -3,7 +3,7 @@ category: news
 title: "Brainshark and TopOPPS Form Partnership to Combine Sales Readiness with AI-Driven Sales Pipeline and Forecast Management"
 excerpt: "/PRNewswire/ -- Brainshark, Inc., the industry's only data-driven sales readiness platform, and TopOPPS, a leading provider of artificial"
 publishedDateTime: 2020-01-21T13:00:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/brainshark-and-topopps-form-partnership-to-combine-sales-readiness-with-ai-driven-sales-pipeline-and-forecast-management-300989749.html"
+webUrl: "https://www.prnewswire.com/news-releases/brainshark-and-topopps-form-partnership-to-combine-sales-readiness-with-ai-driven-sales-pipeline-and-forecast-management-300989749.html"
 type: article
 quality: 12
 heat: 12

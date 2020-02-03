@@ -3,9 +3,9 @@ category: news
 title: "Patent Dominance: Top 5 Companies Leading the Charge"
 excerpt: "P atents are considered one of the best representations of a company’s inventive activity. Patenting an innovation is a crucial step to secure and convert research and development (R&D) efforts into potential economic gains."
 publishedDateTime: 2020-01-17T16:11:00Z
-sourceUrl: "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17"
-ampUrl: "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp"
-cdnAmpUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp"
+webUrl: "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17"
+ampWebUrl: "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp"
 type: article
 quality: 74
 heat: 84
@@ -29,9 +29,9 @@ related:
   - title: "The Top 10 chatbot companies reviewed"
     excerpt: "They respond to customer queries by offering effective solutions and chatbots have the ability to be programmed with Artificial Intelligence (AI) and Natural Language Processing (NLP) in order to collect vital data and shopping insights. These are used on consequent visits so that they can continue to enhance the customer’s shopping experience."
     publishedDateTime: 2020-01-24T11:26:00Z
-    sourceUrl: "https://augustafreepress.com/the-top-10-chatbot-companies-reviewed/"
-    ampUrl: "https://augustafreepress.com/the-top-10-chatbot-companies-reviewed/amp/"
-    cdnAmpUrl: "https://augustafreepress-com.cdn.ampproject.org/c/s/augustafreepress.com/the-top-10-chatbot-companies-reviewed/amp/"
+    webUrl: "https://augustafreepress.com/the-top-10-chatbot-companies-reviewed/"
+    ampWebUrl: "https://augustafreepress.com/the-top-10-chatbot-companies-reviewed/amp/"
+    cdnAmpWebUrl: "https://augustafreepress-com.cdn.ampproject.org/c/s/augustafreepress.com/the-top-10-chatbot-companies-reviewed/amp/"
     type: article
     provider:
       name: Augusta Free Press

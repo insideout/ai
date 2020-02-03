@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning for Data Analysis"
 excerpt: "Learn Machine Learning for Data Analysis from Wesleyan University. Are you interested in predicting future outcomes using your data? This course helps you do just that! Machine learning is the process of developing, testing, and applying ..."
-sourceUrl: https://www.coursera.org/learn/machine-learning-data-analysis
+webUrl: https://www.coursera.org/learn/machine-learning-data-analysis
 type: course
 price: Free+
 length: 12 hours

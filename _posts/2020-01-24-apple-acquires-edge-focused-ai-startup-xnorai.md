@@ -3,7 +3,7 @@ category: news
 title: "Apple Acquires Edge-Focused AI Startup Xnor.ai"
 excerpt: "Apple has acquired Xnor.ai, a Seattle-based startup that builds AI models that run on edge devices, for approximately $200 million. GeekWire first reported the story, based on information from \"sources with knowledge of the deal.\" Because XNor.ai's technology focuses on running AI models on low-resource edge devices without sending data to the ..."
 publishedDateTime: 2020-01-24T14:07:00Z
-sourceUrl: "https://www.infoq.com/news/2020/01/apple-acquires-xnor-ai/"
+webUrl: "https://www.infoq.com/news/2020/01/apple-acquires-xnor-ai/"
 type: article
 quality: 37
 heat: -1
@@ -26,9 +26,9 @@ related:
   - title: "Apple Saved This Startup’s AI Technology from Being Used for Evil"
     excerpt: "Earlier this month, it was revealed that Apple had acquired Xnor.ai, a startup company that specialized in “edge-based” artificial intelligence, which had cracked a method of making complex machine learning algorithms work on relatively low-power hardware. While Xnor.ai was best known for powering facial and pet recognition technology in ..."
     publishedDateTime: 2020-01-29T14:51:00Z
-    sourceUrl: "https://www.idropnews.com/news/apple-saved-this-startups-ai-technology-from-being-used-for-evil/128210/"
-    ampUrl: "https://www.idropnews.com/news/apple-saved-this-startups-ai-technology-from-being-used-for-evil/128210/amp/"
-    cdnAmpUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/apple-saved-this-startups-ai-technology-from-being-used-for-evil/128210/amp/"
+    webUrl: "https://www.idropnews.com/news/apple-saved-this-startups-ai-technology-from-being-used-for-evil/128210/"
+    ampWebUrl: "https://www.idropnews.com/news/apple-saved-this-startups-ai-technology-from-being-used-for-evil/128210/amp/"
+    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/apple-saved-this-startups-ai-technology-from-being-used-for-evil/128210/amp/"
     type: article
     provider:
       name: iDrop News

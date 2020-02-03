@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence application with Android using Microsoft cognitive services."
 excerpt: "I am going to show you a small tutorial for creating an AI (Artificial Intelligence) application with Android using the API of Microsoft cognitive services. The API of Microsoft cognitive services allows you to recognize computer text, faces, describe ..."
 publishedDateTime: 2020-01-06T07:22:00Z
-sourceUrl: https://medium.com/@jorgearturorangel99/artificial-intelligence-application-with-android-using-microsoft-cognitive-services-f03b51f5015d
+webUrl: https://medium.com/@jorgearturorangel99/artificial-intelligence-application-with-android-using-microsoft-cognitive-services-f03b51f5015d
 type: article
 quality: 92
 heat: 122
@@ -31,9 +31,9 @@ related:
   - title: "Irish AI firm announces new collaboration with Microsoft"
     excerpt: "Headquartered in Cork, the company develops video and AI technology that retailers use to protect their stock from theft ... Their artificial intelligence and computer vision technology uses Microsoft Azure IoT Central. They said the collaboration will enable more retailers around the world to rapidly understand the events that are unknowingly ..."
     publishedDateTime: 2020-01-10T10:38:00Z
-    sourceUrl: https://www.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
-    ampUrl: https://amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
-    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    webUrl: https://www.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    ampWebUrl: https://amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    cdnAmpWebUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
     type: article
     provider:
       name: Irish Examiner
@@ -42,7 +42,7 @@ related:
   - title: "A CES conversation with Microsoft's Tara Prakriya"
     excerpt: "We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they represent new workloads, new opportunities for ..."
     publishedDateTime: 2020-01-09T16:24:00Z
-    sourceUrl: https://www.autonews.com/ces/ces-conversation-microsofts-tara-prakriya
+    webUrl: https://www.autonews.com/ces/ces-conversation-microsofts-tara-prakriya
     type: article
     provider:
       name: Automotive News
@@ -55,7 +55,7 @@ related:
   - title: "Cognitive Services Market Witness an Outstanding Growth during 2019-2026 | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
     excerpt: "The toolkit helps to generate experience-based business values from disorganized information. Some of the key players of Cognitive Services Market: IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software, Qualcomm Technologies, Inc. Get Sample Copy of this Report @ https://www.verifiedmarketresearch.com/download-sample/?"
     publishedDateTime: 2020-01-08T18:46:00Z
-    sourceUrl: https://www.openpr.com/news/1892139/cognitive-services-market-witness-an-outstanding-growth-during
+    webUrl: https://www.openpr.com/news/1892139/cognitive-services-market-witness-an-outstanding-growth-during
     type: article
     provider:
       name: openpr.com

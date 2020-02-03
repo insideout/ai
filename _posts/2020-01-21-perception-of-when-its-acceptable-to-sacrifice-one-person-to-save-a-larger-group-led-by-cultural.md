@@ -3,7 +3,7 @@ category: news
 title: "Perception of when its acceptable to sacrifice one person to save a larger group led by cultural"
 excerpt: "The results could have serious implications for the development of Artificial Intelligence, such as driverless cars, and the future of ethical programming. The study is published in Proceedings of the National Academy of Sciences. Dr Edmond Awad, from Exeter’s Business School said: “Sacrificial dilemmas provide a useful tool to study and ..."
 publishedDateTime: 2020-01-21T14:09:00Z
-sourceUrl: "https://www.miragenews.com/perception-of-when-its-acceptable-to-sacrifice-one-person-to-save-a-larger-group-led-by-cultural/"
+webUrl: "https://www.miragenews.com/perception-of-when-its-acceptable-to-sacrifice-one-person-to-save-a-larger-group-led-by-cultural/"
 type: article
 quality: 11
 heat: 11

@@ -3,7 +3,7 @@ category: news
 title: "Stocks discussed: (OTC PINK:GTCH) (NasdaqGS:MSFT) (NYSE:BKR) (NasdaqGS:NVDA) (NYSE:PFE) (NYSE:IBM) (NasdaqGS:NUAN)"
 excerpt: "Its core technologies - such as machine learning, deep learning, natural language processing (NLP) and computer vision - have enabled AI to penetrate and become indispensable in everything from autonomous vehicles, virtual assistants, energy, voice and text translation, retail, healthcare and more. And this is all happening fast. A report from ..."
 publishedDateTime: 2020-01-23T14:34:00Z
-sourceUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/01231AIEye-Healthcare-Meidcal.asp"
+webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/01231AIEye-Healthcare-Meidcal.asp"
 type: article
 quality: 4
 heat: 4

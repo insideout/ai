@@ -3,7 +3,7 @@ category: news
 title: "iFlytek Eyes Chinese Market with Improved Voice Recognition Platform"
 excerpt: "The Chinese startup iFlytek is hoping to introduce its voice recognition platform at a national scale within the next two to three years. The company leverages AI and big data to identify users based on unique vocal traits, and is now claiming to have made ..."
 publishedDateTime: 2020-01-03T00:00:00Z
-sourceUrl: "https://findbiometrics.com/biometrics-news-iflytek-eyes-chinese-market-improved-voice-recognition-platform-010303/"
+webUrl: "https://findbiometrics.com/biometrics-news-iflytek-eyes-chinese-market-improved-voice-recognition-platform-010303/"
 type: article
 quality: 24
 heat: 24

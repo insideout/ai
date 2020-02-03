@@ -3,7 +3,7 @@ category: news
 title: "ServiceNow Buys Passage AI To Boost Bot Language Skills"
 excerpt: "‘Their deep learning technology, which they use to bring on board a language and understand the intent, was very scalable ... It was a slam dunk for us to bring them on board,’ Debu Chatterjee, senior director, AI Engineering, with ServiceNow tells CRN. By O’Ryan Johnson January 28, 2020, 01:42 PM EST Demand from ServiceNow customers to ..."
 publishedDateTime: 2020-01-28T18:53:00Z
-sourceUrl: "https://www.crn.com/news/channel-programs/servicenow-buys-passage-ai-to-boost-bot-language-skills"
+webUrl: "https://www.crn.com/news/channel-programs/servicenow-buys-passage-ai-to-boost-bot-language-skills"
 type: article
 quality: 37
 heat: -1
@@ -26,7 +26,7 @@ related:
   - title: "ServiceNow acquires Passage AI to advance deep learning AI capabilities"
     excerpt: "based conversational AI platform company. The transaction will advance ServiceNow’s deep learning AI capabilities and will accelerate its vision of supporting all major languages across the company’s Now Platform and products, including ServiceNow ..."
     publishedDateTime: 2020-01-31T01:05:00Z
-    sourceUrl: "https://www.helpnetsecurity.com/2020/01/31/servicenow-passage-ai/"
+    webUrl: "https://www.helpnetsecurity.com/2020/01/31/servicenow-passage-ai/"
     type: article
     provider:
       name: Help Net Security
@@ -39,7 +39,7 @@ related:
   - title: "Amazon Web Services Announces 13 New Machine Learning Services and Capabilities, Including a Custom Chip for Machine Learning"
     excerpt: "Before it's here, it's on the Bloomberg Terminal."
     publishedDateTime: 2020-01-25T12:19:00Z
-    sourceUrl: "https://www.bloomberg.com/press-releases/2018-11-28/amazon-web-services-announces-13-new-machine-learning-services-and-capabilities-including-a-custom-chip-for-machine-learning"
+    webUrl: "https://www.bloomberg.com/press-releases/2018-11-28/amazon-web-services-announces-13-new-machine-learning-services-and-capabilities-including-a-custom-chip-for-machine-learning"
     type: article
     provider:
       name: Bloomberg

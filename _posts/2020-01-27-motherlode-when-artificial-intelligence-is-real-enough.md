@@ -3,7 +3,7 @@ category: news
 title: "Motherlode: When artificial intelligence is real enough"
 excerpt: "Even if the prompt was exactly what I intended to say. I would not let the artificial intelligence terrorists win. Ari, 25, laughed at me. \"Those things are generated to mimic what you do say,\" he explained. I told him there was no way I used that many exclamation marks. Every kid at the table for dinner that day started laughing. Apparently ..."
 publishedDateTime: 2020-01-27T11:34:00Z
-sourceUrl: "https://www.thespec.com/news-story/9831652-motherlode-when-artificial-intelligence-is-real-enough/"
+webUrl: "https://www.thespec.com/news-story/9831652-motherlode-when-artificial-intelligence-is-real-enough/"
 type: article
 quality: 37
 heat: 37

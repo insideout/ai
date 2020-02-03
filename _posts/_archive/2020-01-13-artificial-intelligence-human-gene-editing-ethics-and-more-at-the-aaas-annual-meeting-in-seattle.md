@@ -3,7 +3,7 @@ category: news
 title: "Artificial intelligence, human gene-editing ethics and more at the AAAS Annual Meeting in Seattle"
 excerpt: "SEATTLE, Wash. -- The growing use of artificial intelligence in society, how math can help address political gerrymandering, the ethics of human gene-editing, and the spread of infectious disease among ocean organisms will be discussed at the 2020 American Association for the Advancement of Science (AAAS) Annual Meeting, the world's largest ..."
 publishedDateTime: 2020-01-13T15:02:00Z
-sourceUrl: "https://www.eurekalert.org/pub_releases/2020-01/aaft-aih011320.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-01/aaft-aih011320.php"
 type: article
 quality: 43
 heat: 43

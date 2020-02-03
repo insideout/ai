@@ -3,7 +3,7 @@ category: news
 title: "Scientists used stem cells to create a new life-form: Organic robots"
 excerpt: "They’re neither a traditional robot nor a known species of animal. It’s a new class of artifact: a living, programmable organism. Xenobots are made using an artificial intelligence system that ..."
 publishedDateTime: 2020-01-16T01:33:00Z
-sourceUrl: "https://thenextweb.com/artificial-intelligence/2020/01/15/scientists-used-stem-cells-to-create-a-new-life-form-organic-robots/"
+webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/15/scientists-used-stem-cells-to-create-a-new-life-form-organic-robots/"
 type: article
 quality: 69
 heat: 69

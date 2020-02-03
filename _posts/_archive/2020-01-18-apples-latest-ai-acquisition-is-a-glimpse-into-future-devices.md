@@ -3,9 +3,9 @@ category: news
 title: "Apple’s Latest AI Acquisition Is A Glimpse Into Future Devices"
 excerpt: "Apple's latest startup purchase is one of many, but it also gives us a glimpse into the company’s thinking when it comes to future devices."
 publishedDateTime: 2020-01-18T16:46:00Z
-sourceUrl: "https://www.forbes.com/sites/jaymcgregor/2020/01/18/apples-latest-ai-acquisition-is-a-glimpse-into-future-devices/"
-ampUrl: "https://www.forbes.com/sites/jaymcgregor/2020/01/18/apples-latest-ai-acquisition-is-a-glimpse-into-future-devices/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2020/01/18/apples-latest-ai-acquisition-is-a-glimpse-into-future-devices/amp/"
+webUrl: "https://www.forbes.com/sites/jaymcgregor/2020/01/18/apples-latest-ai-acquisition-is-a-glimpse-into-future-devices/"
+ampWebUrl: "https://www.forbes.com/sites/jaymcgregor/2020/01/18/apples-latest-ai-acquisition-is-a-glimpse-into-future-devices/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2020/01/18/apples-latest-ai-acquisition-is-a-glimpse-into-future-devices/amp/"
 type: article
 quality: 91
 heat: 91

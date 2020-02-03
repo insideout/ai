@@ -3,9 +3,9 @@ category: news
 title: "Want To Lease A Lidar? Luminar Has Novel Subscription Plan For Its New Self-Driving Car Perception System"
 excerpt: "The upstart lidar maker is expanding beyond hardware with the addition of much-needed commercial software and a computing system that makes its technology plug-and-play capable for autonomous vehicle developers."
 publishedDateTime: 2020-01-09T22:14:00Z
-sourceUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/09/want-to-lease-a-lidar-luminar-has-novel-subscription-plan-for-its-new-self-driving-car-perception-system/"
-ampUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/09/want-to-lease-a-lidar-luminar-has-novel-subscription-plan-for-its-new-self-driving-car-perception-system/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/09/want-to-lease-a-lidar-luminar-has-novel-subscription-plan-for-its-new-self-driving-car-perception-system/amp/"
+webUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/09/want-to-lease-a-lidar-luminar-has-novel-subscription-plan-for-its-new-self-driving-car-perception-system/"
+ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/09/want-to-lease-a-lidar-luminar-has-novel-subscription-plan-for-its-new-self-driving-car-perception-system/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/09/want-to-lease-a-lidar-luminar-has-novel-subscription-plan-for-its-new-self-driving-car-perception-system/amp/"
 type: article
 quality: 57
 heat: 57

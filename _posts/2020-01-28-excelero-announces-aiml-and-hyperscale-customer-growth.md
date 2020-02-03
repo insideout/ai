@@ -3,7 +3,7 @@ category: news
 title: "Excelero Announces AI/ML and Hyperscale Customer Growth"
 excerpt: "New customers secured during January 2020 continue the trend. Excelero’s strong 2019 affirms the appeal of NVMesh as high-performance GPU storage to serve AI/ML and hyperscale applications. With 270% growth in enterprise AI deployments in the past four years, and 154% growth in 2019 alone (Tractica, 2019), data center operators are re ..."
 publishedDateTime: 2020-01-28T16:31:00Z
-sourceUrl: "https://www.hpcwire.com/off-the-wire/excelero-announces-ai-ml-and-hyperscale-customer-growth/"
+webUrl: "https://www.hpcwire.com/off-the-wire/excelero-announces-ai-ml-and-hyperscale-customer-growth/"
 type: article
 quality: 39
 heat: 39

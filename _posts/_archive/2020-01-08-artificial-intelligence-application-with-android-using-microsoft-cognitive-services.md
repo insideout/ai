@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence application with Android using Microsoft cognitive services."
 excerpt: "I am going to show you a small tutorial for creating an AI (Artificial Intelligence) application with Android using the API of Microsoft cognitive services. The API of Microsoft cognitive services ..."
 publishedDateTime: 2020-01-08T04:41:00Z
-sourceUrl: "https://medium.com/@jorgearturorangel99/artificial-intelligence-application-with-android-using-microsoft-cognitive-services-f03b51f5015d"
+webUrl: "https://medium.com/@jorgearturorangel99/artificial-intelligence-application-with-android-using-microsoft-cognitive-services-f03b51f5015d"
 type: article
 quality: 92
 heat: 92

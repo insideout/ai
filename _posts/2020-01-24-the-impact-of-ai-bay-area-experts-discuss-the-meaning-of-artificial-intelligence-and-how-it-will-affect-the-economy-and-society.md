@@ -3,7 +3,7 @@ category: news
 title: "The impact of AI: Bay Area experts discuss the meaning of Artificial Intelligence and how it will affect the economy and society"
 excerpt: "At a Dec. 9 forum hosted by the San Francisco Business Times, three panelists discussed how businesses can leverage AI to drive innovation, the impact AI will have on the economy and on society, and the meaning of artificial intelligence itself."
 publishedDateTime: 2020-01-24T15:04:00Z
-sourceUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/01/24/the-impact-of-ai-bay-area-experts-discuss-the.html"
+webUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/01/24/the-impact-of-ai-bay-area-experts-discuss-the.html"
 type: article
 quality: 127
 heat: 127

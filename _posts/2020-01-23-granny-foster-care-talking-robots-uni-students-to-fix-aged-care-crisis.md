@@ -3,7 +3,7 @@ category: news
 title: "Granny foster care, talking robots, uni students to fix aged care crisis"
 excerpt: "“People can’t wander out, but can at least wander up and down the main street and be tracked.’’ Professor Maeder said chatbots – artificial intelligence on a computer or robot – would give elderly people a way of communicating “if you can’t get a human on the line’’. “If people are feeling anxious you could use a chatbot ..."
 publishedDateTime: 2020-01-23T19:46:00Z
-sourceUrl: "https://www.dailytelegraph.com.au/news/queensland/granny-foster-care-talking-robots-uni-students-to-fix-aged-care-crisis/news-story/8a01e214af17c11be27efa6620880a28"
+webUrl: "https://www.dailytelegraph.com.au/news/queensland/granny-foster-care-talking-robots-uni-students-to-fix-aged-care-crisis/news-story/8a01e214af17c11be27efa6620880a28"
 type: article
 quality: 18
 heat: 18

@@ -3,7 +3,7 @@ category: news
 title: "Chinese AI companies stress social responsibility"
 excerpt: "\"Today we are applying AI technology to fields such as education and health ... he said during an introduction of the company’s latest products, which included a real-time translator with support for 60 languages, a smart education companion and a language learning portal to teach Chinese to students of all levels. Although it was a 2019 ..."
 publishedDateTime: 2020-01-14T23:02:00Z
-sourceUrl: "https://www.thestar.com.my/tech/tech-news/2020/01/15/chinese-ai-companies-stress-social-responsibility"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2020/01/15/chinese-ai-companies-stress-social-responsibility"
 type: article
 quality: 39
 heat: 39

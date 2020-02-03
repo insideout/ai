@@ -3,7 +3,7 @@ category: news
 title: "The 2020 Mercedes-Benz GLB gets good infotainment, but don’t get the AI"
 excerpt: "Aside from the laggy throttle, the annoying AI voice command wakefulness and the meager (optional) third row legroom, the GLB250's driving character and interior packaging are up to standards set by their still-excellent sedans."
 publishedDateTime: 2020-01-31T15:55:00Z
-sourceUrl: "https://arstechnica.com/cars/2020/01/the-2020-mercedes-benz-glb-gets-good-infotainment-but-dont-get-the-ai/"
+webUrl: "https://arstechnica.com/cars/2020/01/the-2020-mercedes-benz-glb-gets-good-infotainment-but-dont-get-the-ai/"
 type: article
 quality: 47
 heat: 47

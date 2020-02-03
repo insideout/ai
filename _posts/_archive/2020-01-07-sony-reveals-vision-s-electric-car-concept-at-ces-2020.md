@@ -3,9 +3,9 @@ category: news
 title: "Sony reveals Vision-S electric car concept at CES 2020"
 excerpt: "Sony revealed a driverless, electric concept sedan ... as well as on-board software regulated using Sony's artificial intelligence, telecommunication and cloud technologies."
 publishedDateTime: 2020-01-07T15:27:00Z
-sourceUrl: "https://www.dezeen.com/2020/01/07/sony-vision-s-electric-car-ces-2020/"
-ampUrl: "https://www.dezeen.com/2020/01/07/sony-vision-s-electric-car-ces-2020/amp/"
-cdnAmpUrl: "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/01/07/sony-vision-s-electric-car-ces-2020/amp/"
+webUrl: "https://www.dezeen.com/2020/01/07/sony-vision-s-electric-car-ces-2020/"
+ampWebUrl: "https://www.dezeen.com/2020/01/07/sony-vision-s-electric-car-ces-2020/amp/"
+cdnAmpWebUrl: "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/01/07/sony-vision-s-electric-car-ces-2020/amp/"
 type: article
 quality: 44
 heat: 44

@@ -3,7 +3,7 @@ category: news
 title: "EyeTech Launches EyeOn, the Ultra-Compact Eye-Tracking Tablet Platform, Powered by Health AI, with FPGA for an Enhanced, Personalized User Experience"
 excerpt: "EyeTech Digital Systems, a global leader of Health AI, announces the launch of EyeOn ... All eye tracking is processed on a dedicated FPGA chip that can be tuned and dynamically adapted to each user for optimal performance. “We designed the EyeOn platform for individuals who primarily use eye gaze to control their AAC devices, using our ..."
 publishedDateTime: 2020-01-31T04:01:00Z
-sourceUrl: "https://www.financialbuzz.com/eyetech-launches-eyeon-the-ultra-compact-eye-tracking-tablet-platform-powered-by-health-ai-with-fpga-for-an-enhanced-personalized-user-experience/"
+webUrl: "https://www.financialbuzz.com/eyetech-launches-eyeon-the-ultra-compact-eye-tracking-tablet-platform-powered-by-health-ai-with-fpga-for-an-enhanced-personalized-user-experience/"
 type: article
 quality: 0
 heat: 0

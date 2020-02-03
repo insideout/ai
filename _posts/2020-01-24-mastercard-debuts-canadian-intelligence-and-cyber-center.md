@@ -3,9 +3,9 @@ category: news
 title: "Mastercard Debuts Canadian Intelligence And Cyber Center"
 excerpt: "Mastercard has launched a new center called the Intelligence and Cyber Centre in Vancouver, Canada, focused on speeding innovation in artificial intelligence (AI), cybersecurity and Internet of Things (IoT), according to a release. The Vancouver center, which will create 380 jobs, is going to be one of six planned spaces for the financial ..."
 publishedDateTime: 2020-01-24T01:36:00Z
-sourceUrl: "https://www.pymnts.com/mastercard/2020/mastercard-canadian-intelligence-cyber-center/"
-ampUrl: "https://www.pymnts.com/mastercard/2020/mastercard-canadian-intelligence-cyber-center/amp/"
-cdnAmpUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/mastercard/2020/mastercard-canadian-intelligence-cyber-center/amp/"
+webUrl: "https://www.pymnts.com/mastercard/2020/mastercard-canadian-intelligence-cyber-center/"
+ampWebUrl: "https://www.pymnts.com/mastercard/2020/mastercard-canadian-intelligence-cyber-center/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/mastercard/2020/mastercard-canadian-intelligence-cyber-center/amp/"
 type: article
 quality: 22
 heat: -1
@@ -22,7 +22,7 @@ related:
   - title: "Sci-Fi Novelist William Gibson on the Invention of the Term \"Cyberspace\" and How AI Could be Truly Intelligent"
     excerpt: "The sci-fi novelist on inventing the term cyberspace, the surprising way AI could be truly intelligent and the ending he regrets In the same way Hunter S. Thompson and Pablo Picasso gave us gonzo journalism and Cubism, you’ve been credited with creating cyberpunk and inventing the term cyberspace. How do you plead? I remember early in my ..."
     publishedDateTime: 2020-01-23T11:44:00Z
-    sourceUrl: "https://time.com/5770124/author-william-gibson-new-book-interview/"
+    webUrl: "https://time.com/5770124/author-william-gibson-new-book-interview/"
     type: article
     provider:
       name: Time

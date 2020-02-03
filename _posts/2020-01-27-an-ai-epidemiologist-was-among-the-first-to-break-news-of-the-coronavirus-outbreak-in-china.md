@@ -3,7 +3,7 @@ category: news
 title: "An AI epidemiologist was among the first to break news of the coronavirus outbreak in China"
 excerpt: "Eventually, a report is generated and is sent to BlueDot's clients. The founder and CEO of BlueDot, Kamran Khan, explained his motivations for using an AI-based system at BlueDot for the purpose: “We know that governments may not be relied upon to provide information in a timely fashion. We can pick up news of possible outbreaks, little ..."
 publishedDateTime: 2020-01-27T04:32:00Z
-sourceUrl: "https://www.neowin.net/news/an-ai-epidemiologist-first-broke-news-of-the-impending-coronavirus-outbreak-in-china"
+webUrl: "https://www.neowin.net/news/an-ai-epidemiologist-first-broke-news-of-the-impending-coronavirus-outbreak-in-china"
 type: article
 quality: 57
 heat: -1
@@ -30,7 +30,7 @@ related:
   - title: "In coronavirus response, AI is becoming a useful tool in a global outbreak, data experts say"
     excerpt: "A version of this story appeared in STAT ... expert epidemiologists. But for the first time in a global outbreak, it is becoming a useful tool in efforts to monitor and respond to the crisis, according to health data specialists. In prior outbreaks, AI ..."
     publishedDateTime: 2020-01-29T14:02:00Z
-    sourceUrl: "https://www.statnews.com/2020/01/29/coronavirus-response-artificial-intelligence-becoming-useful/"
+    webUrl: "https://www.statnews.com/2020/01/29/coronavirus-response-artificial-intelligence-becoming-useful/"
     type: article
     provider:
       name: STAT

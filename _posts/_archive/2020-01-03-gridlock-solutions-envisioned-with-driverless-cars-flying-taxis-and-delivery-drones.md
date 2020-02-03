@@ -3,9 +3,9 @@ category: news
 title: "Gridlock solutions envisioned with driverless cars, flying taxis, and delivery drones"
 excerpt: "“The challenge is that AV and AI (artificial intelligence) is complicated to implement in urban environments,” said Bernard Schmidt of the authority’s AV division. “There is human bias in programming the computers. If I only provide a picture of a ..."
 publishedDateTime: 2020-01-03T23:26:00Z
-sourceUrl: https://www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones
-ampUrl: https://www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones/amp
-cdnAmpUrl: https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones/amp
+webUrl: https://www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones
+ampWebUrl: https://www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones/amp
+cdnAmpWebUrl: https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones/amp
 type: article
 quality: 52
 heat: 52

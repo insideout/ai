@@ -3,7 +3,7 @@ category: news
 title: "Azure Australia wins new privacy protection"
 excerpt: "Microsoft Azure has been certified as a data processor for the new international standard ... “Modern business is driven by digital transformation, including the ability to deeply understand data and unlock the power of big data analytics and AI,” the blog post read. “But before customers – and regulators – will allow you to leverage ..."
 publishedDateTime: 2020-01-14T22:34:00Z
-sourceUrl: "https://www.crn.com.au/news/azure-scores-iso-iec-27701-privacy-standard-certification-536497"
+webUrl: "https://www.crn.com.au/news/azure-scores-iso-iec-27701-privacy-standard-certification-536497"
 type: article
 quality: 39
 heat: 39

@@ -3,9 +3,9 @@ category: news
 title: "The Secret to Building AI? Quantify."
 excerpt: "If you want to build an AI company, you should define the “goal” of your AI and have a quantitative means to progress toward that goal."
 publishedDateTime: 2020-01-14T15:03:00Z
-sourceUrl: "https://www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/"
-ampUrl: "https://www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/amp/"
+webUrl: "https://www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/"
+ampWebUrl: "https://www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/amp/"
 type: article
 quality: 89
 heat: 89

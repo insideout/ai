@@ -3,7 +3,7 @@ category: news
 title: "Gift to will allow MIT researchers to use artificial intelligence in a biomedical device"
 excerpt: "Device developed within the Department of Civil and Environmental Engineering has the potential to replace damaged organs with lab-grown ones. Researchers in the MIT Department of Civil and Environmental Engineering (CEE) have received a gift to advance ..."
 publishedDateTime: 2020-01-29T16:00:00Z
-sourceUrl: "https://www.miragenews.com/gift-to-will-allow-mit-researchers-to-use-artificial-intelligence-in-a-biomedical-device/"
+webUrl: "https://www.miragenews.com/gift-to-will-allow-mit-researchers-to-use-artificial-intelligence-in-a-biomedical-device/"
 type: article
 quality: 28
 heat: -1
@@ -26,9 +26,9 @@ related:
   - title: "Researchers use AI to deblur human faces in photos"
     excerpt: "In search of a solution, scientists at the Inception Institue of Artificial Intelligence in the United Arab Emirates, the Beijing Institute of Technology, and Stony Brook University developed an AI system that removes blur from images in post-production. They note in a paper that it’s human-aware, meaning it’s able to deblur human faces ..."
     publishedDateTime: 2020-01-22T17:59:00Z
-    sourceUrl: "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/"
-    ampUrl: "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/"
-    cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/"
+    webUrl: "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/"
+    ampWebUrl: "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/"
     type: article
     provider:
       name: VentureBeat

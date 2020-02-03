@@ -1,7 +1,7 @@
 ---
 title: "Numsense! Data Science for the Layman: No Math Added"
 excerpt: "This book has been written in layman's terms as a gentle introduction to data science and its algorithms. Each algorithm has its own dedicated chapter that explains how it works, and shows an example of a real-world application. To help you grasp key concepts, we stick to intuitive explanations and visuals. "
-sourceUrl: https://www.amazon.com/Numsense-Data-Science-Layman-Added-ebook/dp/B01N29ZEM6/
+webUrl: https://www.amazon.com/Numsense-Data-Science-Layman-Added-ebook/dp/B01N29ZEM6/
 type: book
 price: $27.54
 length: 

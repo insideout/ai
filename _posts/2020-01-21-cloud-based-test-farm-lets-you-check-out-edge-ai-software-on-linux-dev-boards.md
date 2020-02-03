@@ -3,7 +3,7 @@ category: news
 title: "Cloud-based test farm lets you check out edge AI software on Linux dev boards"
 excerpt: "A venture-backed startup called FØCAL has launched a cloud-based test farm of the same name designed for hardware/software codesign of Linux-based edge AI and computer vision applications. The test farm offers testing on common Linux hacker boards for a flat price of $0.10 an hour FØCAL allows hardware vendors to “expose their products to ..."
 publishedDateTime: 2020-01-21T14:00:00Z
-sourceUrl: "https://www.linuxtoday.com/high_performance/cloud-based-test-farm-lets-you-check-out-edge-ai-software-on-linux-dev-boards.html"
+webUrl: "https://www.linuxtoday.com/high_performance/cloud-based-test-farm-lets-you-check-out-edge-ai-software-on-linux-dev-boards.html"
 type: article
 quality: 14
 heat: 14

@@ -1,7 +1,7 @@
 ---
 title: "Translate speech in real time with Azure Cognitive Services"
 excerpt: "Learn how to translate speech and convert it to text through real-time transcription with the Speech Translation API in Azure Cognitive Services."
-sourceUrl: https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/
 type: course
 price: 
 length: 0:42

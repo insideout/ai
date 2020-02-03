@@ -3,7 +3,7 @@ category: news
 title: "A machine learning based prediction system for the Indian Ocean Dipole"
 excerpt: "Owing to its large impacts, previous studies have addressed the predictability of the IOD using state of the art coupled climate models. Here, for the first-time, we predict the IOD using machine learning techniques, in particular artificial neural networks (ANNs). The IOD forecasts are generated for May to November from February-April conditions."
 publishedDateTime: 2020-01-14T11:24:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-019-57162-8"
+webUrl: "https://www.nature.com/articles/s41598-019-57162-8"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Indian Ocean Dipole can be better predicted thru machine learning, say researchers"
     excerpt: "Researchers in Japan and The Netherlands have, for the first time, used machine learning techniques, in particular artificial neural networks (ANNs), to predict the Indian Ocean Dipole (IOD), a positive phase of which has affected weather and climate in India and Australia in a spectacular fashion so far in 2019-20. The IOD has both positive ..."
     publishedDateTime: 2020-01-19T09:25:00Z
-    sourceUrl: "https://www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece"
-    ampUrl: "https://www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece/amp/"
-    cdnAmpUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece/amp/"
+    webUrl: "https://www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece/amp/"
     type: article
     provider:
       name: Business Line

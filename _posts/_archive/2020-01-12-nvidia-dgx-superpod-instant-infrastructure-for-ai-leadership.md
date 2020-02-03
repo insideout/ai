@@ -3,7 +3,7 @@ category: news
 title: "NVIDIA DGX SuperPOD: Instant Infrastructure for AI Leadership"
 excerpt: "and NVIDIA GPU Cloud optimized software. The design also includes mechanical, power, and cooling options for both compute room air handler and rear door heat exchanger facilities. Meeting the massive demands of emerging large-scale AI initiatives requires ..."
 publishedDateTime: 2020-01-12T15:24:00Z
-sourceUrl: "https://insidehpc.com/2020/01/nvidia-dgx-superpod-instant-infrastructure-for-ai-leadership/"
+webUrl: "https://insidehpc.com/2020/01/nvidia-dgx-superpod-instant-infrastructure-for-ai-leadership/"
 type: article
 quality: 39
 heat: 39

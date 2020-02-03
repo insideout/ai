@@ -3,9 +3,9 @@ category: news
 title: "Climate Change: AI, Machine Learning Join The Fight"
 excerpt: "The system was developed by California-based Conservation Metrics and uses AI and ML. The system can identify the low-frequency rumbling sounds made by elephants to communicate with each other amid sounds made by other animals. Microsoft's Azure solutions are enabled by Conservation Metrics to process months of sound data in a few weeks."
 publishedDateTime: 2020-02-02T05:00:00Z
-sourceUrl: "https://www.gizbot.com/news/climate-change-ai-machine-learning-join-the-fight-065413.html"
-ampUrl: "https://www.gizbot.com/amphtml/news/climate-change-ai-machine-learning-join-the-fight-065413.html"
-cdnAmpUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/climate-change-ai-machine-learning-join-the-fight-065413.html"
+webUrl: "https://www.gizbot.com/news/climate-change-ai-machine-learning-join-the-fight-065413.html"
+ampWebUrl: "https://www.gizbot.com/amphtml/news/climate-change-ai-machine-learning-join-the-fight-065413.html"
+cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/climate-change-ai-machine-learning-join-the-fight-065413.html"
 type: article
 quality: 59
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "Artificial intelligence, machine learning chip in to fight climate change, protect environment"
     excerpt: "While cutting down global emissions and switching to renewable sources of energy will help in the long run, emerging technologies such as artificial intelligence (AI) and its various branches, along with internet of things (IoT), can help in the conservation of plants, animals and birds by providing more accurate climate predictions."
     publishedDateTime: 2020-01-30T16:08:00Z
-    sourceUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-ml-chip-in-to-fight-climate-change-protect-environment-11580399748370.html"
-    ampUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-ml-chip-in-to-fight-climate-change-protect-environment/amp-11580399748370.html"
-    cdnAmpUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-ml-chip-in-to-fight-climate-change-protect-environment/amp-11580399748370.html"
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-ml-chip-in-to-fight-climate-change-protect-environment-11580399748370.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-ml-chip-in-to-fight-climate-change-protect-environment/amp-11580399748370.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-ml-chip-in-to-fight-climate-change-protect-environment/amp-11580399748370.html"
     type: article
     provider:
       name: Mint

@@ -3,7 +3,7 @@ category: news
 title: "Here's what might save us from cyberterrorists, biohackers, and sentient robots."
 excerpt: "In this smart community slated for Toronto’s industrial waterfront, robots deliver the mail, AI uses sensor data to manage everything ... In fact, many of the most powerful technologies we’ll have at our disposal—artificial intelligence, nanotechnology, biotechnology—are only starting to come online. So yes, the threats we face might ..."
 publishedDateTime: 2020-01-31T16:39:00Z
-sourceUrl: "https://www.linkedin.com/pulse/heres-what-might-save-us-from-cyberterrorists-robots-diamandis"
+webUrl: "https://www.linkedin.com/pulse/heres-what-might-save-us-from-cyberterrorists-robots-diamandis"
 type: article
 quality: 34
 heat: 34

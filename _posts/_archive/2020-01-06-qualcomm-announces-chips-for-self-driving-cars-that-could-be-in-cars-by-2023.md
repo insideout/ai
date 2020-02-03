@@ -3,9 +3,9 @@ category: news
 title: "Qualcomm announces chips for self-driving cars that could be in cars by 2023"
 excerpt: "The system will support features like lane-keeping as well as the development of full self-driving applications like robo-taxis. Qualcomm silicon is the processor at the heart of millions of ..."
 publishedDateTime: 2020-01-06T19:57:00Z
-sourceUrl: "https://www.cnbc.com/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html"
-ampUrl: "https://www.cnbc.com/amp/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html"
-cdnAmpUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html"
+webUrl: "https://www.cnbc.com/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html"
 type: article
 quality: 71
 heat: -1
@@ -33,9 +33,9 @@ related:
   - title: "Riding in a self-driving car is the best way to end CES 2020"
     excerpt: "That term \"self-driving\" is used way too freely. No matter what your best friend or some guy on Twitter or a dancing CEO tells you, there are no self-driving cars for sale today. We have advanced ..."
     publishedDateTime: 2020-01-10T21:51:00Z
-    sourceUrl: "https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/"
-    ampUrl: "https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
-    cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
+    webUrl: "https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
     type: article
     provider:
       name: CNET
@@ -48,9 +48,9 @@ related:
   - title: "Self-driving car development is booming, but don't expect the government to regulate it"
     excerpt: "The DOT and NHTSA under Elaine Chao plan to let self-driving car developers regulate themselves. Transportation Secretary Elaine Chao outlined her agency's plan for self-driving car regulations ..."
     publishedDateTime: 2020-01-08T01:13:00Z
-    sourceUrl: "https://www.cnet.com/roadshow/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
-    ampUrl: "https://www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
-    cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
+    webUrl: "https://www.cnet.com/roadshow/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
     type: article
     provider:
       name: CNET
@@ -63,7 +63,7 @@ related:
   - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
     excerpt: "The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo has obtained 120 such ..."
     publishedDateTime: 2020-01-10T05:50:00Z
-    sourceUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
+    webUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
     type: article
     provider:
       name: Steel News
@@ -76,7 +76,7 @@ related:
   - title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
     excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their ..."
     publishedDateTime: 2020-01-09T17:06:00Z
-    sourceUrl: "https://www.extremetech.com/electronics/304053-for-self-driving-cars-lidar-amps-up-at-ces-2020"
+    webUrl: "https://www.extremetech.com/electronics/304053-for-self-driving-cars-lidar-amps-up-at-ces-2020"
     type: article
     provider:
       name: ExtremeTech
@@ -89,7 +89,7 @@ related:
   - title: "Behind the Scenes With Aptiv’s Self-Driving Car Nerve Center at CES 2020"
     excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading ..."
     publishedDateTime: 2020-01-07T18:24:00Z
-    sourceUrl: "https://www.extremetech.com/extreme/304158-behind-the-scenes-wtih-aptivs-self-driving-car-nerve-center-at-ces-2020"
+    webUrl: "https://www.extremetech.com/extreme/304158-behind-the-scenes-wtih-aptivs-self-driving-car-nerve-center-at-ces-2020"
     type: article
     provider:
       name: ExtremeTech

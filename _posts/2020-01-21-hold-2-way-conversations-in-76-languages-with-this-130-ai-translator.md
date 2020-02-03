@@ -3,7 +3,7 @@ category: news
 title: "Hold 2-way conversations in 76 languages with this $130 AI translator"
 excerpt: "The Mesay 3.0 PRO is a two-way global translator that uses AI to translate 76 different languages in real-time. All you have to do is speak in your native language and the Mesay will translate your speech into the language of your conversing partner, and vice versa. It also features a 2.4-inch HD display that transcribes your speech into text."
 publishedDateTime: 2020-01-21T15:35:00Z
-sourceUrl: "https://www.macworld.com/article/3513858/hold-2-way-conversations-in-76-languages-with-this-130-ai-translator.html"
+webUrl: "https://www.macworld.com/article/3513858/hold-2-way-conversations-in-76-languages-with-this-130-ai-translator.html"
 type: article
 quality: 69
 heat: 69

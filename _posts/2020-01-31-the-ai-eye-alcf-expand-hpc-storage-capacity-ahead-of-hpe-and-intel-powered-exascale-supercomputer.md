@@ -3,7 +3,7 @@ category: news
 title: "The AI Eye: ALCF Expand HPC Storage Capacity Ahead of HPE and Intel Powered Exascale Supercomputer"
 excerpt: "Point Roberts, WA and Vancouver, BC - January 31, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
 publishedDateTime: 2020-01-31T17:51:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/the-ai-eye-alcf-expand-hpc-storage-capacity-ahead-of-hpe-and-intel-powered-exascale-supercomputer-2020-01-31"
+webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-alcf-expand-hpc-storage-capacity-ahead-of-hpe-and-intel-powered-exascale-supercomputer-2020-01-31"
 type: article
 quality: 55
 heat: 55

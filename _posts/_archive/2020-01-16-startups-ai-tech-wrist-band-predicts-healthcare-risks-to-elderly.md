@@ -3,7 +3,7 @@ category: news
 title: "Startup’s AI tech wrist-band predicts healthcare risks to elderly"
 excerpt: "Ramat Gan-based start-up Owlytics Healthcare has joined forces with Halma, a global group of lifesaving technology companies, to help senior citizens access its wristband healthcare monitoring device. Owlytics specializes in wearable-based analytics technology for the medical sector. The AI-based technology provides “remote patient-monitoring ..."
 publishedDateTime: 2020-01-16T00:27:00Z
-sourceUrl: "https://www.jpost.com/Israel-News/Startups-AI-tech-wrist-band-predicts-healthcare-risks-to-elderly-614273"
+webUrl: "https://www.jpost.com/Israel-News/Startups-AI-tech-wrist-band-predicts-healthcare-risks-to-elderly-614273"
 type: article
 quality: 37
 heat: 37

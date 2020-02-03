@@ -3,7 +3,7 @@ category: news
 title: "Facebook Open Sources Polygames- A Framework To Train AI Bots With Self Play"
 excerpt: "Polygames is a new open source AI research framework for training agents to master strategy games through ... Polygames provides a library of included games, as well as a single-file API to implement your own game. The Facebook AI team demonstrated the effectiveness of Polygames as a training tool with strong model performances in various ..."
 publishedDateTime: 2020-02-01T18:48:00Z
-sourceUrl: "https://analyticsindiamag.com/facebook-open-sources-polygames-a-framework-to-train-ai-bots-with-self-play/"
+webUrl: "https://analyticsindiamag.com/facebook-open-sources-polygames-a-framework-to-train-ai-bots-with-self-play/"
 type: article
 quality: 36
 heat: 36

@@ -3,7 +3,7 @@ category: news
 title: "“Weird games”: students and AI face off in today’s ultracompetitive job market"
 excerpt: "Share on Facebook Share on Twitter Share via Email Share on Pinterest Share on LinkedIn ... But her concerns are common at a time when artificial intelligence (AI) is becoming ever more widespread in recruiting. AI – broadly, the ability of computers to perform tasks normally requiring human intelligence – is increasingly becoming the ..."
 publishedDateTime: 2020-01-27T19:43:00Z
-sourceUrl: "https://www.varsity.co.uk/news/18519"
+webUrl: "https://www.varsity.co.uk/news/18519"
 type: article
 quality: 35
 heat: 35

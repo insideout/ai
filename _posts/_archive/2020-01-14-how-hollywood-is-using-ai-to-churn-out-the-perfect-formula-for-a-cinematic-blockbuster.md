@@ -3,7 +3,7 @@ category: news
 title: "How Hollywood Is Using AI To Churn Out The Perfect Formula For A Cinematic Blockbuster"
 excerpt: "Dubbing is another considerable aspect of Bollywood that is believed to be achieved better with AI. In the hopes of pushing movies to a broader reach, Eros Now has collaborated with Microsoft to use its Azure platform — AI speech translation engine, for dubbing Hindi movies into different languages. When asked, Rishika Lulla Singh ..."
 publishedDateTime: 2020-01-14T12:05:00Z
-sourceUrl: "https://analyticsindiamag.com/how-hollywood-is-using-ai-to-churn-out-the-perfect-formula-for-a-cinematic-blockbuster/"
+webUrl: "https://analyticsindiamag.com/how-hollywood-is-using-ai-to-churn-out-the-perfect-formula-for-a-cinematic-blockbuster/"
 type: article
 quality: 11
 heat: 11

@@ -3,7 +3,7 @@ category: news
 title: "Utah police look to artificial intelligence for assistance"
 excerpt: "PROVO, Utah (AP) — A Utah city police department is considering a partnership with an artificial intelligence company in an effort to help the law enforcement agency work more efficiently. The Springville police may work with technology firm Banjo to help improve the response time to emergencies, The Daily Herald reported. The Park City ..."
 publishedDateTime: 2020-01-15T00:01:00Z
-sourceUrl: "https://apnews.com/1527edac0dba99b17ff22bfe14ee133d"
+webUrl: "https://apnews.com/1527edac0dba99b17ff22bfe14ee133d"
 type: article
 quality: 37
 heat: 37

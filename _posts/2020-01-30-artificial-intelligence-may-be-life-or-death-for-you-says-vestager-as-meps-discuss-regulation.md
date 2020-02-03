@@ -3,7 +3,7 @@ category: news
 title: "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation"
 excerpt: "A debate on the future of artificial intelligence (AI ... revolutionising areas like voice recognition and translation. In healthcare it's expected to allow huge leaps in drug development. But facial recognition is an AI technology that is much less ..."
 publishedDateTime: 2020-01-30T13:36:00Z
-sourceUrl: "https://www.euronews.com/2020/01/30/artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regula"
+webUrl: "https://www.euronews.com/2020/01/30/artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regula"
 type: article
 quality: 126
 heat: 126

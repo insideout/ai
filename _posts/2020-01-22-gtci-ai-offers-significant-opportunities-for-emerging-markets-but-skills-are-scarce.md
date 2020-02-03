@@ -3,9 +3,9 @@ category: news
 title: "GTCI: AI offers significant opportunities for emerging markets, but skills are scarce"
 excerpt: "Will the proliferation of AI and machine learning reinforce the worldwide digital divide? It’s one of the questions the Global Talent Competitiveness Index (GTCI) and Global Cities Talent Competitiveness Index (GCTCI) seek to answer by benchmarking the ability of countries and cities to compete for talent. An answer has historically proven ..."
 publishedDateTime: 2020-01-22T11:30:00Z
-sourceUrl: "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/"
-ampUrl: "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/"
+webUrl: "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/"
+ampWebUrl: "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/"
 type: article
 quality: 80
 heat: 90
@@ -32,7 +32,7 @@ related:
   - title: "Edge AI Hardware Market : Emerging Trends, Regional Segmentation, Opportunities, Growth and Forecast to 2026"
     excerpt: "The smartphones segment is dominating the market in 2018 in 2018. Dedicated AI chip or AI processors were one of the major developments in the smartphone technology last year. Growing demand for real-time speech and voice recognition and analysis, as well as technical advancements in smartphone image recognition is driving the market for AI ..."
     publishedDateTime: 2020-01-22T06:23:00Z
-    sourceUrl: "https://www.techworld.com.au/mediareleases/37790/edge-ai-hardware-market-emerging-trends-regional/"
+    webUrl: "https://www.techworld.com.au/mediareleases/37790/edge-ai-hardware-market-emerging-trends-regional/"
     type: article
     provider:
       name: Australian Techworld

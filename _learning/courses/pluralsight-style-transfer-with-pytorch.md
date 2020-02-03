@@ -3,7 +3,7 @@ title: "Style Transfer with PyTorch"
 excerpt: "This course covers the important aspects of neural style transfer, a technique for transforming images, and discusses Generative Adversarial Networks in order to efficiently create realistic images and videos.
 
 "
-sourceUrl: https://www.pluralsight.com/courses/style-transfer-pytorch
+webUrl: https://www.pluralsight.com/courses/style-transfer-pytorch
 type: course
 price: $$
 length: 1h 49m

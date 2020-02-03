@@ -3,7 +3,7 @@ category: news
 title: "China’s FinTech funding activity declined 7x at $4.9 billion while India doubled"
 excerpt: "“The Indian FinTech ecosystem has effectively imbibed emerging technologies and has significantly benefited from supporting regulatory policies in the country. Further, owing to IoT, AI, and Blockchain technologies constantly evolving the start-up space, the Indian FinTech industry is operating on a futuristic perspective and thus is also ..."
 publishedDateTime: 2020-01-17T08:19:00Z
-sourceUrl: "https://ibsintelligence.com/ibs-journal/ibs-news/china-fintech-funding-decline-massive-seven-times-india-doubles/"
+webUrl: "https://ibsintelligence.com/ibs-journal/ibs-news/china-fintech-funding-decline-massive-seven-times-india-doubles/"
 type: article
 quality: 19
 heat: 19

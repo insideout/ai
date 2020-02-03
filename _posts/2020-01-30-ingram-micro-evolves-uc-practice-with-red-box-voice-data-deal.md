@@ -3,7 +3,7 @@ category: news
 title: "Ingram Micro Evolves UC Practice with Red Box Voice Data Deal"
 excerpt: "Seamless integration with leading automatic speech recognition (ASR) tools, combined with an open API philosophy, ensures customers have complete sovereignty over both structured and unstructured voice data sets to leverage within their tools and ..."
 publishedDateTime: 2020-01-30T20:51:00Z
-sourceUrl: "https://www.channelpartnersonline.com/2020/01/30/ingram-micro-evolves-uc-practice-with-red-box-voice-data-deal/"
+webUrl: "https://www.channelpartnersonline.com/2020/01/30/ingram-micro-evolves-uc-practice-with-red-box-voice-data-deal/"
 type: article
 quality: 4
 heat: 4

@@ -3,9 +3,9 @@ category: news
 title: "Is Baidu Stock a Buy?"
 excerpt: "For instance, there is the company's \"open-source autonomous vehicle technology platform\" Apollo. Baidu claims to have over 135 partners that support its self-driving cars initiative, and while we are still in the early stages of the autonomous cars revolution, Baidu is looking to maintain an edge in this potentially lucrative market with a ..."
 publishedDateTime: 2020-01-08T19:33:00Z
-sourceUrl: "https://www.fool.com/investing/2020/01/08/is-baidu-stock-a-buy.aspx"
-ampUrl: "https://www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx"
-cdnAmpUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx"
+webUrl: "https://www.fool.com/investing/2020/01/08/is-baidu-stock-a-buy.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx"
 type: article
 quality: 89
 heat: 89

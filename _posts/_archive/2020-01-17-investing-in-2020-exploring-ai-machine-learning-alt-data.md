@@ -3,9 +3,9 @@ category: news
 title: "Investing in 2020: Exploring AI, Machine Learning, & Alt Data"
 excerpt: "Connecting “data, workflows and financial models into a single integrated system” Patel believes ... an AI-based identity verification service provider. “Using machine learning algorithms, investment data can be optimized to enhance portfolio management, as well as operational efficiency. It leads to better reporting, higher accuracy ..."
 publishedDateTime: 2020-01-17T10:10:00Z
-sourceUrl: "https://www.financemagnates.com/cryptocurrency/news/investing-in-2020-exploring-ai-machine-learning-alt-data/"
-ampUrl: "https://www.financemagnates.com/cryptocurrency/news/investing-in-2020-exploring-ai-machine-learning-alt-data/amp/"
-cdnAmpUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/investing-in-2020-exploring-ai-machine-learning-alt-data/amp/"
+webUrl: "https://www.financemagnates.com/cryptocurrency/news/investing-in-2020-exploring-ai-machine-learning-alt-data/"
+ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/investing-in-2020-exploring-ai-machine-learning-alt-data/amp/"
+cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/investing-in-2020-exploring-ai-machine-learning-alt-data/amp/"
 type: article
 quality: 59
 heat: 69
@@ -29,7 +29,7 @@ related:
   - title: "Vietnam’s schools begin using AI in teaching"
     excerpt: "Many education establishments in Vietnam have been utilizing AI in school management and teaching, and have had encouraging initial achievements. FPT is the Vietnamese largest IT group in Vietnam. It's FPT University pioneered utilizing AI in its teaching methods and business. According to Dang Hoang Vu, FPT’s Chief Scientist, AI is no longer ..."
     publishedDateTime: 2020-01-20T07:41:00Z
-    sourceUrl: "https://vietnamnet.vn/en/society/vietnam-s-schools-begin-using-ai-in-teaching-609624.html"
+    webUrl: "https://vietnamnet.vn/en/society/vietnam-s-schools-begin-using-ai-in-teaching-609624.html"
     type: article
     provider:
       name: Vietnamnet

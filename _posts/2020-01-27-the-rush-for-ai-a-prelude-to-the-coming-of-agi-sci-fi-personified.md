@@ -3,7 +3,7 @@ category: news
 title: "The rush for AI a prelude to the coming of AGI: Sci-Fi personified"
 excerpt: "An new era of artificial intelligence (AI) is on the horizon that will dwarf our fascination with the ... made a $1 billion investment in the San Francisco–based startup OpenAI. OpenAI was founded in 2015 by, among others, Altman and Elon Musk, the billionaire founder of Tesla. The Mission of OpenAI is to develop artificial general ..."
 publishedDateTime: 2020-01-27T05:09:00Z
-sourceUrl: "https://www.ameinfo.com/industry/technology/the-rush-for-ai-a-prelude-to-the-coming-of-agi-sci-fi-person"
+webUrl: "https://www.ameinfo.com/industry/technology/the-rush-for-ai-a-prelude-to-the-coming-of-agi-sci-fi-person"
 type: article
 quality: 19
 heat: 19

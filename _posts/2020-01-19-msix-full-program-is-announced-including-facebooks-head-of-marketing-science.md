@@ -3,7 +3,7 @@ category: news
 title: "MSIX full program is announced, including Facebook’s head of marketing science"
 excerpt: "Facebook’s head of marketing science for Australia and New Zealand ... Also confirmed is founder and creative technologist of Artech Exploration, Damien Madden, who will discuss the AI of art and creativity. Utilising new research, Madden will demonstrate how changing audience behaviour patterns have given rise to a new future where the ..."
 publishedDateTime: 2020-01-19T23:36:00Z
-sourceUrl: "https://mumbrella.com.au/msix-full-program-is-announced-including-facebooks-head-of-marketing-science-613711"
+webUrl: "https://mumbrella.com.au/msix-full-program-is-announced-including-facebooks-head-of-marketing-science-613711"
 type: article
 quality: 20
 heat: 20

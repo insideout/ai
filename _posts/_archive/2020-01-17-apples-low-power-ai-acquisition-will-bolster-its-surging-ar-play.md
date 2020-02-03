@@ -3,7 +3,7 @@ category: news
 title: "Apple's low-power AI acquisition will bolster its surging AR play"
 excerpt: "Apple acquired Xnor.ai, and the startup's low-power, edge-based AI tools will allow Apple to add AI features to power-constrained devices."
 publishedDateTime: 2020-01-17T15:07:00Z
-sourceUrl: "https://www.businessinsider.com/apple-artificial-intelligence-startup-xnorai-augmented-reality-2020-1"
+webUrl: "https://www.businessinsider.com/apple-artificial-intelligence-startup-xnorai-augmented-reality-2020-1"
 type: article
 quality: 67
 heat: 67

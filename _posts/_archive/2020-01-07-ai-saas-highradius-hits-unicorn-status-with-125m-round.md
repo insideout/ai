@@ -3,9 +3,9 @@ category: news
 title: "AI SaaS HighRadius Hits Unicorn Status With $125M Round"
 excerpt: "Artificial intelligence (AI)-powered FinTech Software as a Service (SaaS) firm HighRadius raised $125 million in a Series B growth funding round, giving it a unicorn valuation, the company announced on Tuesday (Jan. 7). The funding was led by ICONIQ Capital, with participation from existing investors Susquehanna Growth Equity and Citi Ventures."
 publishedDateTime: 2020-01-07T19:04:00Z
-sourceUrl: https://www.pymnts.com/news/investment-tracker/2020/highradius-hits-unicorn-status-with-125m-funding/
-ampUrl: https://www.pymnts.com/news/investment-tracker/2020/highradius-hits-unicorn-status-with-125m-funding/amp/
-cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/highradius-hits-unicorn-status-with-125m-funding/amp/
+webUrl: https://www.pymnts.com/news/investment-tracker/2020/highradius-hits-unicorn-status-with-125m-funding/
+ampWebUrl: https://www.pymnts.com/news/investment-tracker/2020/highradius-hits-unicorn-status-with-125m-funding/amp/
+cdnAmpWebUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/highradius-hits-unicorn-status-with-125m-funding/amp/
 type: article
 quality: 39
 heat: 39

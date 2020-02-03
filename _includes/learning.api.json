@@ -41,7 +41,7 @@
             "title": {{ item.title | jsonify }},
             "type": {{ item.type | jsonify }},
             "url": "{{ item.url | absolute_url }}",
-            "sourceUrl": "{{ item.sourceUrl | absolute_url }}",
+            "webUrl": "{{ item.webUrl | absolute_url }}",
             "excerpt": {{ item.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
             "publishedDateTime": {{ item.publishedDateTime | jsonify }},
             "updatedDateTime": {{ item.updatedDateTime | jsonify }},
@@ -73,7 +73,7 @@
                     "title": {{ child_item.title | jsonify }},
                     "excerpt": {{ child_item.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
                     "url": "{{ child_item.url | absolute_url }}",
-                    "sourceUrl": "{{ child_item.sourceUrl | absolute_url }}",
+                    "webUrl": "{{ child_item.webUrl | absolute_url }}",
                     "heat": {{ child_item.heat | default: 0 }},
                     "images": [
                         {% for image in child_item.images -%}

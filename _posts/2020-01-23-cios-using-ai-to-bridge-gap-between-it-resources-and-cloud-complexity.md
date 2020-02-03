@@ -3,7 +3,7 @@ category: news
 title: "CIOs using AI to bridge gap between IT resources and cloud complexity"
 excerpt: "CIO responses in the research indicate that, on average, IT and cloud operations teams receive nearly ... As a result, CIOs are increasingly looking to AI and automation as they seek to maintain control and close the gap between constrained IT resources and the rising scale and complexity of the enterprise cloud. Traditional monitoring tools ..."
 publishedDateTime: 2020-01-23T05:06:00Z
-sourceUrl: "https://www.helpnetsecurity.com/2020/01/23/enterprise-cloud-gap/"
+webUrl: "https://www.helpnetsecurity.com/2020/01/23/enterprise-cloud-gap/"
 type: article
 quality: 19
 heat: 19

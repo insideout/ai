@@ -3,7 +3,7 @@ category: news
 title: "STC launches self-driving 5G bus with Ericsson for staff and visitors at Riyadh complex"
 excerpt: "Saudi operator STC has launched the country’s first 5G-supported, self-driving bus at the King Abdulaziz Telecommunication Complex in Riyadh, reports Mubasher. The bus was launched in collaboration with Ericsson and will help transport employees and visitors at the telecom complex. This service is the first of its kind in the country and the ..."
 publishedDateTime: 2020-01-31T09:44:00Z
-sourceUrl: "https://www.telecompaper.com/news/stc-launches-self-driving-5g-bus-with-ericsson-for-staff-and-visitors-at-riyadh-complex--1324770"
+webUrl: "https://www.telecompaper.com/news/stc-launches-self-driving-5g-bus-with-ericsson-for-staff-and-visitors-at-riyadh-complex--1324770"
 type: article
 quality: 0
 heat: -1
@@ -21,9 +21,9 @@ related:
   - title: "Saudi STC launches region's first self-driving 5G bus"
     excerpt: "Riyadh – Mubasher: Saudi Telecom Company (stc) has launched the region’s first 5G-supported self-driving bus at the King Abdulaziz Telecommunication Complex in Riyadh. The bus, launched in collaboration with Ericsson, will help smooth the movement of the employees and visitors in the telecom complex, in a service that is the first of its ..."
     publishedDateTime: 2020-01-29T10:25:00Z
-    sourceUrl: "https://www.zawya.com/mena/en/business/story/Saudi_STC_launches_regions_first_selfdriving_5G_bus-SNG_165703088/"
-    ampUrl: "https://www.zawya.com/mena/en/story/amp/SNG_165703088/"
-    cdnAmpUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_165703088/"
+    webUrl: "https://www.zawya.com/mena/en/business/story/Saudi_STC_launches_regions_first_selfdriving_5G_bus-SNG_165703088/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_165703088/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_165703088/"
     type: article
     provider:
       name: Zawya

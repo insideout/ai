@@ -3,9 +3,9 @@ category: news
 title: "Samsung and GE are on track to solve the pain of menu planning"
 excerpt: "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. I spent 15 minutes trying out the newest version of the Samsung Family Hub smart fridge at Samsung's CES booth this year. It was just me, the fridge, and version 5.0 of the software that runs the 21-inch touchscreen ..."
 publishedDateTime: 2020-01-24T13:07:00Z
-sourceUrl: "https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
-ampUrl: "https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
-cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
+webUrl: "https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
 type: article
 quality: 89
 heat: -1
@@ -33,9 +33,9 @@ related:
   - title: "Samsung and GE are cooking up the kitchen smarts I've been waiting for"
     excerpt: "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. I spent 15 minutes trying out the newest version of the Samsung Family Hub smart fridge at Samsung's CES booth this year. It was just me, the fridge, and version 5.0 of the software that runs the 21-inch touchscreen ..."
     publishedDateTime: 2020-01-24T15:23:00Z
-    sourceUrl: "https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
-    ampUrl: "https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
-    cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
+    webUrl: "https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
     type: article
     provider:
       name: CNET
@@ -48,9 +48,9 @@ related:
   - title: "How Apple’s Xnor.ai acquisition could bring the Siri boost we’ve been waiting for"
     excerpt: "the A13 Bionic chip already has a powerful Neural Engine, but Edge Ai could bring it to the next level. But Xnor.ai’s Edge AI engine could be the thing that brings everything together. It’s unlikely that we’ll see any fruits from Apple’s purchase in the iPhone 12 or even the iPhone 13, but Apple’s incredible silicon advancements ..."
     publishedDateTime: 2020-01-21T11:45:00Z
-    sourceUrl: "https://www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.html"
-    ampUrl: "https://www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.amp.html"
-    cdnAmpUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.amp.html"
+    webUrl: "https://www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.html"
+    ampWebUrl: "https://www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.amp.html"
+    cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.amp.html"
     type: article
     provider:
       name: Macworld
@@ -63,9 +63,9 @@ related:
   - title: "From Host Analytics to Planful - CEO Grant Halloran on the Planful rebranding, and why continuous planning is a change worth pushing for"
     excerpt: "Behind the name change, I see potent questions on how financial planning is changing ... One looming question is the role of machine learning and AI. I expect we'll hear a lot more about this at Planful's next user events. But for now, Halloran said: Where we're going in the future is bringing machine learning, so you can actually allow ..."
     publishedDateTime: 2020-01-24T09:57:00Z
-    sourceUrl: "https://diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change"
-    ampUrl: "https://diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change?amp"
-    cdnAmpUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change?amp"
+    webUrl: "https://diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change"
+    ampWebUrl: "https://diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change?amp"
     type: article
     provider:
       name: Diginomica

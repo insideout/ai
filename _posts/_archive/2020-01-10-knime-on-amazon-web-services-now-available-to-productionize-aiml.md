@@ -3,7 +3,7 @@ category: news
 title: "KNIME on Amazon Web Services Now Available to Productionize AI/ML"
 excerpt: "ZURICH & AUSTIN, Texas--(BUSINESS WIRE)--KNIME, a unified software platform for creating and productionizing data science, today announced the availability of KNIME on AWS, its commercial offering ..."
 publishedDateTime: 2020-01-10T14:56:00Z
-sourceUrl: "https://www.businesswire.com/news/home/20200110005076/en/KNIME-Amazon-Web-Services-Productionize-AIML"
+webUrl: "https://www.businesswire.com/news/home/20200110005076/en/KNIME-Amazon-Web-Services-Productionize-AIML"
 type: article
 quality: 54
 heat: 54

@@ -3,7 +3,7 @@ category: news
 title: "Groq AI Chip Benchmarks Leading Performance on ResNet-50 Inference"
 excerpt: "Today AI chip startup Groq announced that their new processor has achieved 21,700 inferences per second (IPS) for ResNet-50 v2 inference. Groq’s level of inference performance exceeds that of other commercially available neural network architectures, with throughput that more than doubles the ResNet-50 score of the incumbent GPU-based ..."
 publishedDateTime: 2020-01-08T15:29:00Z
-sourceUrl: https://insidehpc.com/2020/01/groq-ai-chip-benchmarks-leading-performance-on-resnet-50-inference/
+webUrl: https://insidehpc.com/2020/01/groq-ai-chip-benchmarks-leading-performance-on-resnet-50-inference/
 type: article
 quality: 54
 heat: 54

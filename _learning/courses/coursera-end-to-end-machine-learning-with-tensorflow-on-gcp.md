@@ -1,7 +1,7 @@
 ---
 title: "End-to-End Machine Learning with TensorFlow on GCP"
 excerpt: "Learn End-to-End Machine Learning with TensorFlow on GCP from Google Cloud. In the first course of this specialization, we will recap what was covered in the  Machine Learning with TensorFlow on Google Cloud Platform Specialization ..."
-sourceUrl: https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp
+webUrl: https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp
 type: course
 price: Free+
 length: 11 hours

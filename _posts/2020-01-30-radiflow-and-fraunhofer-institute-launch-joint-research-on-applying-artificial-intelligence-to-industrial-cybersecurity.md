@@ -3,7 +3,7 @@ category: news
 title: "Radiflow and Fraunhofer Institute Launch Joint Research on Applying Artificial Intelligence to Industrial Cybersecurity"
 excerpt: "/PRNewswire/ -- Radiflow, a leading provider of cybersecurity solutions for industrial automation networks, and the Fraunhofer Institute of Optronics,"
 publishedDateTime: 2020-01-30T06:45:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/radiflow-and-fraunhofer-institute-launch-joint-research-on-applying-artificial-intelligence-to-industrial-cybersecurity-300995919.html"
+webUrl: "https://www.prnewswire.com/news-releases/radiflow-and-fraunhofer-institute-launch-joint-research-on-applying-artificial-intelligence-to-industrial-cybersecurity-300995919.html"
 type: article
 quality: 13
 heat: -1
@@ -26,7 +26,7 @@ related:
   - title: "Radiflow and Fraunhofer develop ML and AI methods for industrial cybersecurity"
     excerpt: "For this research project, Radiflow and Fraunhofer IOSB will collaborate on developing machine learning methods and artificial intelligence techniques for allowing the autonomous detection of non-compliant and anomalous behaviors on industrial automation networks. This applied research will involve evaluating graph-based and semantic approaches ..."
     publishedDateTime: 2020-02-03T02:05:00Z
-    sourceUrl: "https://www.helpnetsecurity.com/2020/02/03/radiflow-fraunhofer/"
+    webUrl: "https://www.helpnetsecurity.com/2020/02/03/radiflow-fraunhofer/"
     type: article
     provider:
       name: Help Net Security

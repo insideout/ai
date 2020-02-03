@@ -3,9 +3,9 @@ category: news
 title: "Prevedere to Present Its ERIN Predictive Analytics Cloud, Powered by Microsoft Azure, at Microsoft Showcase during NRF 2020"
 excerpt: "The ERIN Predictive Analytics Cloud leverages the power of Azure Machine Learning to rapidly analyze and deliver insights from vast volumes of data streamed daily from hundreds of global sources."
 publishedDateTime: 2020-01-13T13:05:00Z
-sourceUrl: "https://markets.businessinsider.com/news/stocks/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725"
-ampUrl: "https://markets.businessinsider.com/amp/news/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725"
-cdnAmpUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725"
+webUrl: "https://markets.businessinsider.com/news/stocks/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725"
 type: article
 quality: 58
 heat: 58

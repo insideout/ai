@@ -3,7 +3,7 @@ category: news
 title: "Budget should spur AI use in economy: IT sector"
 excerpt: "\"The budget should announce a fund like Singapore's Temasek that will invest only in early-stage Indian AI start-ups and lower long-term capital gain's tax for investing in AI-based firms,\" digital intelligence firm Germin8 founder chief executive Ranjit Nair told IANS. With the US and China racing ahead of India in AI research, AI ..."
 publishedDateTime: 2020-02-01T02:55:00Z
-sourceUrl: "https://www.newkerala.com/news/2020/16271.htm"
+webUrl: "https://www.newkerala.com/news/2020/16271.htm"
 type: article
 quality: 17
 heat: 17

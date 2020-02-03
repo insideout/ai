@@ -3,9 +3,9 @@ category: news
 title: "Canon wants to ease pain of culling photos in Lightroom with this A.I. plug-in"
 excerpt: "That’s the concept behind Canon’s upcoming Photo Culling Plugin, a Lightroom add-on that uses the Canon Computer Vision A.I. Engine to sort through all those photos. The plug-in smartly doesn ..."
 publishedDateTime: 2020-01-09T19:06:00Z
-sourceUrl: "https://www.digitaltrends.com/photography/canon-photo-culling-plugin-ces-2020/"
-ampUrl: "https://www.digitaltrends.com/photography/canon-photo-culling-plugin-ces-2020/?amp"
-cdnAmpUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/photography/canon-photo-culling-plugin-ces-2020/?amp"
+webUrl: "https://www.digitaltrends.com/photography/canon-photo-culling-plugin-ces-2020/"
+ampWebUrl: "https://www.digitaltrends.com/photography/canon-photo-culling-plugin-ces-2020/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/photography/canon-photo-culling-plugin-ces-2020/?amp"
 type: article
 quality: 85
 heat: 85

@@ -3,7 +3,7 @@ category: news
 title: "ACT-IAC Releases New Artificial Intelligence Playbook"
 excerpt: "FAIRFAX, Va., Jan. 22, 2020 /PRNewswire/ -- The American Council for Technology and Industry Advisory Council (ACT-IAC), the premier public-private partnership dedicated to advancing government through the application of information technology, today officially announced the release of the \"Artificial Intelligence (AI) Playbook for the U.S ..."
 publishedDateTime: 2020-01-22T11:26:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-act-iac-releases-new-artificial-intelligence-playbook-/2020/01/22/9085041.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-act-iac-releases-new-artificial-intelligence-playbook-/2020/01/22/9085041.htm"
 type: article
 quality: 37
 heat: 37

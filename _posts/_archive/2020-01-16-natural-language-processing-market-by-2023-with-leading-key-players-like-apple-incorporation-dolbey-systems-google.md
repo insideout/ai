@@ -3,7 +3,7 @@ category: news
 title: "Natural Language Processing Market by 2023 with Leading Key Players like Apple Incorporation, Dolbey Systems, Google"
 excerpt: "The Big Market Research has recently added a new survey report to their vivid and dynamic database. They have formulated this report by taking into consideration all the key aspects that tend to have an impact on the global Natural Language Processing Market share,"
 publishedDateTime: 2020-01-16T15:35:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-by-2023-with-leading-key-players-like-apple-incorporation-dolbey-systems-google-2020-01-16"
+webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-by-2023-with-leading-key-players-like-apple-incorporation-dolbey-systems-google-2020-01-16"
 type: article
 quality: 46
 heat: 46
@@ -31,7 +31,7 @@ related:
   - title: "Self-driving car market 2018-2023 and top key players are Microsoft, Apple, IBM, Cisco"
     excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
     publishedDateTime: 2020-01-17T14:36:00Z
-    sourceUrl: "https://www.openpr.com/news/1899937/self-driving-car-market-2018-2023-and-top-key-players"
+    webUrl: "https://www.openpr.com/news/1899937/self-driving-car-market-2018-2023-and-top-key-players"
     type: article
     provider:
       name: openpr.com

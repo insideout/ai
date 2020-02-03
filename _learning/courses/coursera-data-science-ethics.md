@@ -1,7 +1,7 @@
 ---
 title: "Data Science Ethics"
 excerpt: "Learn Data Science Ethics from University of Michigan. What are the ethical considerations regarding the privacy and control of consumer information and big data, especially in the aftermath of recent large-scale data breaches?  This course ..."
-sourceUrl: https://www.coursera.org/learn/data-science-ethics
+webUrl: https://www.coursera.org/learn/data-science-ethics
 type: course
 price: Free+
 length: 16 hours

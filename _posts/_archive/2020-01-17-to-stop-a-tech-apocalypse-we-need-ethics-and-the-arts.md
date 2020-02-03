@@ -3,7 +3,7 @@ category: news
 title: "To stop a tech apocalypse we need ethics and the arts"
 excerpt: "However, as the likes of driverless cars and robot therapists emerge ... arts and social sciences to examine key issues arising from artificial intelligence. According to the chair of the ACOLA board, Hugh Bradlow, the report aims to ensure that “the well-being of society” is placed “at the centre of any development.”"
 publishedDateTime: 2020-01-17T01:16:00Z
-sourceUrl: "https://www.thesundaily.my/style-life/all-the-buzz/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts-CI1903141"
+webUrl: "https://www.thesundaily.my/style-life/all-the-buzz/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts-CI1903141"
 type: article
 quality: 4
 heat: 4

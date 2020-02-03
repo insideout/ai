@@ -3,9 +3,9 @@ category: news
 title: "What Does Fairness in AI Mean?"
 excerpt: "A closer look at how bias can creep into AI systems, and the push toward more fair and equitable AI outcomes. It’s not every day that the musings of a 4-year-old echo the conversations of the world’s leading technologists—but that’s precisely the situation in which I recently found myself while driving my daughter home from day care."
 publishedDateTime: 2020-01-17T03:17:00Z
-sourceUrl: "https://www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/"
-ampUrl: "https://www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/amp/"
+webUrl: "https://www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/"
+ampWebUrl: "https://www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/amp/"
 type: article
 quality: 87
 heat: 87

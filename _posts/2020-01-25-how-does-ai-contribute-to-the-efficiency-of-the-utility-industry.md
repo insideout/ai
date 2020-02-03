@@ -3,7 +3,7 @@ category: news
 title: "How Does AI Contribute to the Efficiency of the Utility Industry?"
 excerpt: "AI also maps the ideal layout for new energy farms and storage spaces as the enterprise scales. Hence, utility companies should start deploying AI as soon as possible. It will not only empower the companies to reduce costs but also expand access to renewable power and preserve the natural environment."
 publishedDateTime: 2020-01-25T03:33:00Z
-sourceUrl: "https://www.cioreview.com/news/how-does-ai-contribute-to-the-efficiency-of-the-utility-industry-nid-31102-cid-41.html"
+webUrl: "https://www.cioreview.com/news/how-does-ai-contribute-to-the-efficiency-of-the-utility-industry-nid-31102-cid-41.html"
 type: article
 quality: 37
 heat: 37

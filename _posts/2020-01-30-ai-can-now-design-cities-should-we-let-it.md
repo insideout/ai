@@ -3,7 +3,7 @@ category: news
 title: "AI can now design cities. Should we let it?"
 excerpt: "Less than a decade later, artificial intelligence is taking this idea so much further. FaceLift is a new AI system developed by Nokia Bell Labs Cambridge that allows scientists and urban planners to use a crowd’s aggregated sensibility to actually redesign the look of city streets. FaceLift AI can take any Google Street View scene and ..."
 publishedDateTime: 2020-01-30T13:00:00Z
-sourceUrl: "https://www.fastcompany.com/90455358/ai-can-now-design-cities-should-we-let-it"
+webUrl: "https://www.fastcompany.com/90455358/ai-can-now-design-cities-should-we-let-it"
 type: article
 quality: 37
 heat: 37

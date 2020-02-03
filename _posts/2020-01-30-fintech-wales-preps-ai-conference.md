@@ -3,7 +3,7 @@ category: news
 title: "FinTech Wales preps AI conference"
 excerpt: "FinTech Wales is hosting its first ever mini conference looking into the world of Artificial Intelligence application in FinTech. The ‘AI for FinTech event’ will discuss the opportunities, challenges and constraints related to AI usage for FinTech and the financial services. Held at Cardiff Business School on Tuesday 25th February ..."
 publishedDateTime: 2020-01-30T15:27:00Z
-sourceUrl: "https://www.finextra.com/pressarticle/81311/fintech-wales-preps-ai-conference"
+webUrl: "https://www.finextra.com/pressarticle/81311/fintech-wales-preps-ai-conference"
 type: article
 quality: 21
 heat: 21

@@ -3,7 +3,7 @@ category: news
 title: "Backplane Systems Technology presents Neousys’ Nuvo-7166GC series rugged GPU computing edge AI platform"
 excerpt: "Backplane Systems Technology is proud to present Neousys’ Nuvo-7166GC Series ruggedized GPU computing platform. Nuvo-7166GC is a ruggedized AI inference platform that features two PCIe slots that supports an NVIDIA Tesla T4 inference accelerator to provide 8.1 TFLOPS in FP32 and 130 TOPs in INT8 for real-time inference based on trained neural ..."
 publishedDateTime: 2020-01-31T10:07:00Z
-sourceUrl: "https://www.manmonthly.com.au/product/backplane-systems-technology-presents-neousys-nuvo-7166gc-series-rugged-gpu-computing-edge-ai-platform/"
+webUrl: "https://www.manmonthly.com.au/product/backplane-systems-technology-presents-neousys-nuvo-7166gc-series-rugged-gpu-computing-edge-ai-platform/"
 type: article
 quality: 38
 heat: 38

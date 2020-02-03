@@ -3,7 +3,7 @@ category: news
 title: "14 questions you always wanted to be able to ask your horse"
 excerpt: "We’re waiting for the day that someone invents a ‘horse to human’ translation machine — and we know exactly what we’re going to ask. 1. Just exactly what is so scary about rustling leaves? We’ve just passed two tractors, a barking dog ..."
 publishedDateTime: 2020-01-16T11:24:00Z
-sourceUrl: "https://www.horseandhound.co.uk/features/14-questions-always-wanted-able-ask-horse-704882"
+webUrl: "https://www.horseandhound.co.uk/features/14-questions-always-wanted-able-ask-horse-704882"
 type: article
 quality: 4
 heat: 4

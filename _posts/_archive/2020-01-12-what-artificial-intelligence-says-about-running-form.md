@@ -3,7 +3,7 @@ category: news
 title: "What Artificial Intelligence Says About Running Form"
 excerpt: "They ran the data from 3D gait analysis of a bunch of runners, some injured and some healthy, through a form of artificial intelligence called unsupervised machine learning ... (I wrote a few years ago about some related research that used a similar approach to distinguish between recreational and competitive runners.) The cluster analysis ..."
 publishedDateTime: 2020-01-12T10:10:00Z
-sourceUrl: "https://www.outsideonline.com/2407822/artificial-intelligence-running-form-study"
+webUrl: "https://www.outsideonline.com/2407822/artificial-intelligence-running-form-study"
 type: article
 quality: 19
 heat: 19

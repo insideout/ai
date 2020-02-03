@@ -3,9 +3,9 @@ category: news
 title: "In Japan, University of Tokyo fires AI professor over ‘will not hire Chinese’ tweet"
 excerpt: "To prevent a repeat of the incident, the IIIS will implement new measures such as deepening dialogue between the faculty and students as well as setting up a code of ethics, said its head Noboru Koshizuka in a statement. Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you ..."
 publishedDateTime: 2020-01-16T15:36:00Z
-sourceUrl: "https://www.scmp.com/week-asia/politics/article/3046421/japan-university-tokyo-fires-ai-professor-over-will-not-hire"
-ampUrl: "https://amp.scmp.com/week-asia/politics/article/3046421/japan-university-tokyo-fires-ai-professor-over-will-not-hire"
-cdnAmpUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/week-asia/politics/article/3046421/japan-university-tokyo-fires-ai-professor-over-will-not-hire"
+webUrl: "https://www.scmp.com/week-asia/politics/article/3046421/japan-university-tokyo-fires-ai-professor-over-will-not-hire"
+ampWebUrl: "https://amp.scmp.com/week-asia/politics/article/3046421/japan-university-tokyo-fires-ai-professor-over-will-not-hire"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/week-asia/politics/article/3046421/japan-university-tokyo-fires-ai-professor-over-will-not-hire"
 type: article
 quality: 33
 heat: 33

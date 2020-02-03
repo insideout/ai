@@ -3,7 +3,7 @@ category: news
 title: "Skanska in Research Project to Curb CO2 Emissions Through Artificial Intelligence"
 excerpt: "/PRNewswire/ -- Skanska is partnering with Volvo Construction Equipment, research organization SINTEF and construction software company Ditio to"
 publishedDateTime: 2020-01-31T06:42:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/skanska-in-research-project-to-curb-co2-emissions-through-artificial-intelligence-300996747.html"
+webUrl: "https://www.prnewswire.com/news-releases/skanska-in-research-project-to-curb-co2-emissions-through-artificial-intelligence-300996747.html"
 type: article
 quality: 32
 heat: 32

@@ -3,9 +3,9 @@ category: news
 title: "BBVA USA December Recap: Austin tower, search capabilities and holiday cheer"
 excerpt: "HOUSTON, Jan. 17, 2020 /PRNewswire/ -- In December, Ryan Companies, along with Page and BBVA USA, announced their plans to build a 60-story, 770-foot-tall multi-use tower in downtown Austin. BBVA currently conducts business operations on the site and expects to continue in a new 4,"
 publishedDateTime: 2020-01-17T21:00:00Z
-sourceUrl: "https://www.benzinga.com/pressreleases/20/01/n15146518/bbva-usa-december-recap-austin-tower-search-capabilities-and-holiday-cheer"
-ampUrl: "https://amp.benzinga.com/amp/content/15146518"
-cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15146518"
+webUrl: "https://www.benzinga.com/pressreleases/20/01/n15146518/bbva-usa-december-recap-austin-tower-search-capabilities-and-holiday-cheer"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15146518"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15146518"
 type: article
 quality: 41
 heat: 41

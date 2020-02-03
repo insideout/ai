@@ -3,7 +3,7 @@ category: news
 title: "Google Launches IBM Power Systems as a Cloud Service"
 excerpt: "It gets to add a new potential source of enterprise customers for its cloud, which has struggled to take substantial market share away from Amazon Web Services and Microsoft Azure, neither of which has a Power ... and new advancements in areas like artificial intelligence, machine learning, and analytics.\" From the GCP side, users will be ..."
 publishedDateTime: 2020-01-15T14:32:00Z
-sourceUrl: "https://www.datacenterknowledge.com/google-alphabet/google-launches-ibm-power-systems-cloud-service"
+webUrl: "https://www.datacenterknowledge.com/google-alphabet/google-launches-ibm-power-systems-cloud-service"
 type: article
 quality: 24
 heat: 24

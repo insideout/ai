@@ -3,7 +3,7 @@ category: news
 title: "Pfizer Taps Insilico Medicine to Use AI for Drug Target Discovery"
 excerpt: "Insilico Medicine on Tuesday announced that it has entered a research collaboration with Pfizer, which Insilico CEO Alex Zhavoronkov says has “one of the most advanced AI teams internally both in target identification ... Pfizer, not new to applying such advanced analytics, also has worked with IBM Watson and Concerto HealthAI."
 publishedDateTime: 2020-01-14T17:17:00Z
-sourceUrl: "https://xconomy.com/national/2020/01/14/pfizer-taps-insilico-medicine-to-use-ai-for-drug-target-discovery/"
+webUrl: "https://xconomy.com/national/2020/01/14/pfizer-taps-insilico-medicine-to-use-ai-for-drug-target-discovery/"
 type: article
 quality: 39
 heat: 39

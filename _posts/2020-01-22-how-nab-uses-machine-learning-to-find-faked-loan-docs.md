@@ -3,7 +3,7 @@ category: news
 title: "How NAB uses machine learning to find faked loan docs"
 excerpt: "NAB has finally revealed the nature of a fraud-related machine learning use case, with the algorithm being used to detect people that file fake documentation in support of loan applications. Chief data officer Glenda Crisp first disclosed the fraud-related use case at AWS Summit in Sydney back in May, but largely declined to discuss it."
 publishedDateTime: 2020-01-22T20:34:00Z
-sourceUrl: "https://www.itnews.com.au/news/nab-uses-machine-learning-to-find-faked-loan-docs-535184"
+webUrl: "https://www.itnews.com.au/news/nab-uses-machine-learning-to-find-faked-loan-docs-535184"
 type: article
 quality: 39
 heat: 39

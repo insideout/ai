@@ -3,9 +3,9 @@ category: news
 title: "Berkshire Grey raises $263 million for industrial robots"
 excerpt: "The company, which combines AI and robotics to automate omnichannel fulfillment for retailers ... CEO Tom Wagner says the fresh capital will fuel the startup’s global expansion, acquisitions, and team growth. “With our intelligent robotic automation, our clients see faster and more efficient supply chain operations that enable them to ..."
 publishedDateTime: 2020-01-21T14:30:00Z
-sourceUrl: "https://venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/"
-ampUrl: "https://venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/amp/"
+webUrl: "https://venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/"
+ampWebUrl: "https://venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/amp/"
 type: article
 quality: 104
 heat: -1
@@ -33,9 +33,9 @@ related:
   - title: "DARPA-backed Soft Robotics raises $23 million for autonomous grippers and sorters"
     excerpt: "As for the SuperPick, it’s a robot-agnostic solution comprising a vision system and AI engine that reports real-time metrics ... Sign up for Funding Weekly to start your week with VB's top funding stories."
     publishedDateTime: 2020-01-20T18:39:00Z
-    sourceUrl: "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/"
-    ampUrl: "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/"
-    cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/"
+    webUrl: "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/"
+    ampWebUrl: "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/"
     type: article
     provider:
       name: VentureBeat

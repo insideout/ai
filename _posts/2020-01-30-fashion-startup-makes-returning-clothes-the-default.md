@@ -3,7 +3,7 @@ category: news
 title: "Fashion Startup Makes Returning Clothes the Default"
 excerpt: "An online fashion startup is hoping to make e-commerce smarter by shipping customers clothes that they haven’t paid for, then encouraging them to try on the items at home and have a Facebook-like social network vote on what to buy and what to return."
 publishedDateTime: 2020-01-30T11:18:00Z
-sourceUrl: "https://www.wsj.com/articles/fashion-startup-makes-returning-clothes-the-default-11580380202"
+webUrl: "https://www.wsj.com/articles/fashion-startup-makes-returning-clothes-the-default-11580380202"
 type: article
 quality: 52
 heat: 52

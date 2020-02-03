@@ -3,9 +3,9 @@ category: news
 title: "Why some cities, states and lawmakers want to curb facial recognition technology"
 excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of ..."
 publishedDateTime: 2019-12-18T00:03:00Z
-sourceUrl: https://www.usatoday.com/story/tech/2019/12/17/face-recognition-ban-some-cities-states-and-lawmakers-push-one/2680483001/
-ampUrl: https://amp.usatoday.com/amp/2680483001
-cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2680483001
+webUrl: https://www.usatoday.com/story/tech/2019/12/17/face-recognition-ban-some-cities-states-and-lawmakers-push-one/2680483001/
+ampWebUrl: https://amp.usatoday.com/amp/2680483001
+cdnAmpWebUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2680483001
 type: article
 quality: 54
 heat: 64
@@ -29,9 +29,9 @@ related:
   - title: "Why some cities and states balk at face recognition tech"
     excerpt: "SPRINGFIELD, Mass. -- Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the ..."
     publishedDateTime: 2019-12-17T19:40:00Z
-    sourceUrl: https://abcnews.go.com/Business/wireStory/cities-states-balk-face-recognition-tech-67783126
-    ampUrl: https://abcnews.go.com/amp/Business/wireStory/cities-states-balk-face-recognition-tech-67783126
-    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/cities-states-balk-face-recognition-tech-67783126
+    webUrl: https://abcnews.go.com/Business/wireStory/cities-states-balk-face-recognition-tech-67783126
+    ampWebUrl: https://abcnews.go.com/amp/Business/wireStory/cities-states-balk-face-recognition-tech-67783126
+    cdnAmpWebUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/cities-states-balk-face-recognition-tech-67783126
     type: article
     provider:
       name: ABC News

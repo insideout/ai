@@ -3,7 +3,7 @@ category: news
 title: "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks"
 excerpt: "However, previous research in visually-grounded language understanding have been mostly task-specific. Researchers from the Facebook AI Research, Georgia Institute of Technology, and Oregon State University found that the skills required for different V&L ..."
 publishedDateTime: 2019-12-19T00:00:00Z
-sourceUrl: https://medium.com/syncedreview/12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks-e4553d91599d
+webUrl: https://medium.com/syncedreview/12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks-e4553d91599d
 type: article
 quality: 65
 heat: 65

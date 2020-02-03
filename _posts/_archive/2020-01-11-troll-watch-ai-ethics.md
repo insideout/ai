@@ -3,7 +3,7 @@ category: news
 title: "Troll Watch: AI Ethics"
 excerpt: "It's just too important. So you are seeing sort of a bigger kind of push to establish a framework for AI ethics and AI laws. But every company is different, right? And every company has their own ..."
 publishedDateTime: 2020-01-11T22:50:00Z
-sourceUrl: "https://www.keranews.org/post/troll-watch-ai-ethics"
+webUrl: "https://www.keranews.org/post/troll-watch-ai-ethics"
 type: article
 quality: 34
 heat: 34

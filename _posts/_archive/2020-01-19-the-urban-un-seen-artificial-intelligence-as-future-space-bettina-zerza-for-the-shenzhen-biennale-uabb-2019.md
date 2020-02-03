@@ -3,7 +3,7 @@ category: news
 title: "The Urban (Un) Seen “Artificial Intelligence as Future Space” / Bettina Zerza for the Shenzhen Biennale (UABB) 2019"
 excerpt: "Ahead of the 2019 Shenzhen Biennale of Urbanism\\Architecture (UABB), titled \"Urban Interactions,\" ArchDaily is working with the curators of the \"Eyes of the City\" section at the Biennial to stimulate a discussion on how new technologies – and Artificial Intelligence in particular – might impact architecture and urban life. Here you can read ..."
 publishedDateTime: 2020-01-19T09:13:00Z
-sourceUrl: "https://www.archdaily.com/932037/the-urban-un-seen-artificial-intelligence-as-future-space-bettina-zerza-for-the-shenzhen-biennale-uabb-2019/"
+webUrl: "https://www.archdaily.com/932037/the-urban-un-seen-artificial-intelligence-as-future-space-bettina-zerza-for-the-shenzhen-biennale-uabb-2019/"
 type: article
 quality: 15
 heat: 15

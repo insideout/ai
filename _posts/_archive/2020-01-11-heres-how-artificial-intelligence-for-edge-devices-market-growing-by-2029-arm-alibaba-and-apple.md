@@ -3,7 +3,7 @@ category: news
 title: "Here’s How Artificial Intelligence for Edge Devices Market Growing by 2029 | Arm, Alibaba and Apple"
 excerpt: "Artificial Intelligence for Edge Devices Market is growing due to the increasing demand forAutomotive, Consumer and Enterprise Robotics, Drones, Head-Mounted Displays, Smart Speakers, Mobile Phones, PCs/Tablets, Security Cameras will fuel the growth of the market. The prime purpose of the report is to present a comprehensive assessment of the ..."
 publishedDateTime: 2020-01-11T05:50:00Z
-sourceUrl: "https://apnews.com/Wired Release/5a2e4d5ef832bc8b19dee0737e049865"
+webUrl: "https://apnews.com/Wired Release/5a2e4d5ef832bc8b19dee0737e049865"
 type: article
 quality: 25
 heat: 25

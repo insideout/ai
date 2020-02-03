@@ -3,7 +3,7 @@ category: news
 title: "Podcast: A Codebase for Deep Learning Supercomputers to Fight Cancer"
 excerpt: "The Exascale Deep Learning–Enabled Precision Medicine for Cancer (CANDLE) project is directed at developing pre-clinical response models, predicting mechanisms of RAS/RAF–driven cancers, and developing treatment strategies. CANDLE is a partnership of Argonne (ANL), Lawrence Livermore, Los Alamos, and Oak Ridge (ORNL) National Laboratories ..."
 publishedDateTime: 2020-01-22T16:41:00Z
-sourceUrl: "https://insidehpc.com/2020/01/podcast-a-codebase-for-deep-learning-supercomputers-to-fight-cancer/"
+webUrl: "https://insidehpc.com/2020/01/podcast-a-codebase-for-deep-learning-supercomputers-to-fight-cancer/"
 type: article
 quality: 39
 heat: 39

@@ -3,9 +3,9 @@ category: news
 title: "VoiceFoundry Announces its Consultant Listing on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
 excerpt: "TULSA, Okla., Jan. 16, 2020 /PRNewswire-PRWeb/ -- VoiceFoundry, a global provider of enterprise, cloud-based contact center solutions leveraging Amazon Web Services (AWS) and an authorized Amazon Connect reseller partner,"
 publishedDateTime: 2020-01-16T14:00:00Z
-sourceUrl: "https://www.benzinga.com/pressreleases/20/01/n15135196/voicefoundry-announces-its-consultant-listing-on-salesforce-appexchange-the-worlds-leading-enterpr"
-ampUrl: "https://amp.benzinga.com/amp/content/15135196"
-cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15135196"
+webUrl: "https://www.benzinga.com/pressreleases/20/01/n15135196/voicefoundry-announces-its-consultant-listing-on-salesforce-appexchange-the-worlds-leading-enterpr"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15135196"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15135196"
 type: article
 quality: 0
 heat: 0

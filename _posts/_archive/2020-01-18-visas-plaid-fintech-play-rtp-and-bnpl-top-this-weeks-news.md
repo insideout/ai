@@ -3,9 +3,9 @@ category: news
 title: "Visa’s Plaid FinTech Play, RTP And BNPL Top This Week’s News"
 excerpt: "Visa’s $5.3B FinTech Play, Wrapped In Plaid Visa said it will buy Plaid — a company that ... that retailers can utilize to offer the increased convenience and flexibility these customers are already expecting. How AI Helps Marketplaces Fight Off-Platform Fraud Participants in the sharing economy have to be sure they are purchasing ..."
 publishedDateTime: 2020-01-18T01:35:00Z
-sourceUrl: "https://www.pymnts.com/news/2020/visas-plaid-fintech-play-rtp-and-bnpl-top-this-weeks-news/"
-ampUrl: "https://www.pymnts.com/news/2020/visas-plaid-fintech-play-rtp-and-bnpl-top-this-weeks-news/amp/"
-cdnAmpUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2020/visas-plaid-fintech-play-rtp-and-bnpl-top-this-weeks-news/amp/"
+webUrl: "https://www.pymnts.com/news/2020/visas-plaid-fintech-play-rtp-and-bnpl-top-this-weeks-news/"
+ampWebUrl: "https://www.pymnts.com/news/2020/visas-plaid-fintech-play-rtp-and-bnpl-top-this-weeks-news/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2020/visas-plaid-fintech-play-rtp-and-bnpl-top-this-weeks-news/amp/"
 type: article
 quality: 39
 heat: 39

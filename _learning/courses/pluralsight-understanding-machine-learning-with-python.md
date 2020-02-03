@@ -1,7 +1,7 @@
 ---
 title: "Understanding Machine Learning with Python"
 excerpt: "Use your data to predict future events with the help of machine learning. This course will walk you through creating a machine learning prediction solution and will introduce Python, the scikit-learn library, and the Jupyter Notebook environment."
-sourceUrl: https://www.pluralsight.com/courses/python-understanding-machine-learning
+webUrl: https://www.pluralsight.com/courses/python-understanding-machine-learning
 type: course
 price: $$
 length: 1h 53m

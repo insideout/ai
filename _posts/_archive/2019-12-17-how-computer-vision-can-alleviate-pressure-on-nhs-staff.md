@@ -3,7 +3,7 @@ category: news
 title: "How computer vision can alleviate pressure on NHS staff"
 excerpt: "Paul Davis, VP for UK and Northern Europe at Scandit explores how computer vision and augmented reality are improving patient care and removing the need for the NHS to commit to largescale technology investments. This is a companion discussion topic for ..."
 publishedDateTime: 2019-12-17T15:22:00Z
-sourceUrl: https://businesscomputingworld.co.uk/t/how-computer-vision-can-alleviate-pressure-on-nhs-staff/209028
+webUrl: https://businesscomputingworld.co.uk/t/how-computer-vision-can-alleviate-pressure-on-nhs-staff/209028
 type: article
 quality: 39
 heat: 39

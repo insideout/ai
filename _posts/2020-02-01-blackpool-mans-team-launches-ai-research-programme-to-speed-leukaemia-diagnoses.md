@@ -3,7 +3,7 @@ category: news
 title: "Blackpool man's team launches AI research programme to speed leukaemia diagnoses"
 excerpt: "Adam Milton-Barker is apart of a world wide team of scientists and computer experts who have founded the Peter Moss Leukaemia Artificial Intelligence Research Association ... Adam said: “I reached out to a Facebook group where the project came to the attention of a professor at Kansas State University in the USA, Ho Leung Ng, who was also ..."
 publishedDateTime: 2020-02-01T06:47:00Z
-sourceUrl: "https://www.blackpoolgazette.co.uk/business/blackpool-mans-team-launches-ai-research-programme-speed-leukaemia-diagnoses-1381399"
+webUrl: "https://www.blackpoolgazette.co.uk/business/blackpool-mans-team-launches-ai-research-programme-speed-leukaemia-diagnoses-1381399"
 type: article
 quality: 14
 heat: 14

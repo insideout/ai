@@ -1,7 +1,7 @@
 ---
 title: "Data Science in Stratified Healthcare and Precision Medicine"
 excerpt: "Learn Data Science in Stratified Healthcare and Precision Medicine from The University of Edinburgh. An increasing volume of data is becoming available in biomedicine and healthcare, from genomic data, to electronic patient records and data ..."
-sourceUrl: https://www.coursera.org/learn/datascimed
+webUrl: https://www.coursera.org/learn/datascimed
 type: course
 price: Free+
 length: 18 hours

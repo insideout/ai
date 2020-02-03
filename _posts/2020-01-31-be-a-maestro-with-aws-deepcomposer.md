@@ -3,7 +3,7 @@ category: news
 title: "Be A Maestro with AWS DeepComposer"
 excerpt: "Not so much with Amazon Web Service’s new AI (Artificial Intelligence) service focused on creating musical pieces with a keyboard! DeepComposer is the latest in a series of Machine Learning focused services that AWS has introduced since it’s announcement of DeepLens at Re:Invent 2017. The new music based AI is a 32 key, 2 octave keyboard ..."
 publishedDateTime: 2020-01-31T07:34:00Z
-sourceUrl: "https://techent.tv/2020/01/31/be-a-maestro-with-aws-deepcomposer/"
+webUrl: "https://techent.tv/2020/01/31/be-a-maestro-with-aws-deepcomposer/"
 type: article
 quality: 39
 heat: 39

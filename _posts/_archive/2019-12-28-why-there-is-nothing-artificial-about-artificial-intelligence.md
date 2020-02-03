@@ -3,7 +3,7 @@ category: news
 title: "Why there is nothing artificial about Artificial Intelligence"
 excerpt: "Artificial intelligence (AI) is not a new technology but has been around for the past 60 years. With the growth of data rising in the computing ecosystem and talent growth, it is nearly everywhere in the form of chatbots, internet search engines ..."
 publishedDateTime: 2019-12-28T04:10:00Z
-sourceUrl: https://gulfbusiness.com/nothing-artificial-artificial-intelligence/
+webUrl: https://gulfbusiness.com/nothing-artificial-artificial-intelligence/
 type: article
 quality: 37
 heat: -1
@@ -26,7 +26,7 @@ related:
   - title: "Inverse design of porous materials using artificial neural networks"
     excerpt: "These authors contribute equally to this work. See allHide authors and affiliations Generating optimal nanomaterials using artificial neural networks can potentially lead to a notable revolution in future materials design. Although progress has been made in creating small and simple molecules, complex materials such as crystalline porous ..."
     publishedDateTime: 2020-01-03T19:06:00Z
-    sourceUrl: https://advances.sciencemag.org/content/6/1/eaax9324.full
+    webUrl: https://advances.sciencemag.org/content/6/1/eaax9324.full
     type: article
     provider:
       name: Science | AAAS

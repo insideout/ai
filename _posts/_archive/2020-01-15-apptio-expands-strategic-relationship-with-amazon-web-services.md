@@ -3,7 +3,7 @@ category: news
 title: "Apptio Expands Strategic Relationship with Amazon Web Services"
 excerpt: "BELLEVUE, Wash., Jan. 15, 2020 /PRNewswire/ -- Apptio, Inc., a leading provider of Software-as-a-Service (SaaS) solutions to help organizations analyze, plan, and optimize technology investments, announced that it has selected Amazon Web Services,"
 publishedDateTime: 2020-01-15T13:00:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/apptio-expands-strategic-relationship-with-amazon-web-services-300987130.html"
+webUrl: "https://www.prnewswire.com/news-releases/apptio-expands-strategic-relationship-with-amazon-web-services-300987130.html"
 type: article
 quality: 39
 heat: 39

@@ -3,7 +3,7 @@ category: news
 title: "Facebook claims AI navigation milestone after models achieve 99.99% accuracy"
 excerpt: "a model development contest Facebook launched last year to advance research into autonomous navigation. The previous top-performing AI achieved an accuracy of 92%. Beyond reducing wrong turns to nearly zero, “our agent also shows the ability to make intelligent choices, such as picking the correct fork in the road,” the researchers wrote."
 publishedDateTime: 2020-01-21T23:19:00Z
-sourceUrl: "https://siliconangle.com/2020/01/21/facebook-claims-ai-navigation-milestone-models-achieves-99-99-accuracy/"
+webUrl: "https://siliconangle.com/2020/01/21/facebook-claims-ai-navigation-milestone-models-achieves-99-99-accuracy/"
 type: article
 quality: 36
 heat: 36

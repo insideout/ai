@@ -3,7 +3,7 @@ category: news
 title: "A Seattle Startup Puts Its Pizza Making Robot to the Test at CES 2020"
 excerpt: "Robots are already cooking up burgers in San Francisco and making coffee drinks at airports. Now, a Seattle company named Picnic is showing off its pizza-making robot. At CES 2020 in Las Vegas, we ..."
 publishedDateTime: 2020-01-15T17:48:00Z
-sourceUrl: "https://ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/"
+webUrl: "https://ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/"
 type: article
 quality: 19
 heat: 19

@@ -3,7 +3,7 @@ category: news
 title: "International Business Machines: Doing Better Than You Think"
 excerpt: "Cloud & Cognitive Services continues to generate positive ... Granted, the cloud growth rate does not match that of Amazon (AMZN), Microsoft (MSFT), or Google (GOOG). But still, in Q4 2019 ..."
 publishedDateTime: 2020-01-23T23:04:00Z
-sourceUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-you-think"
+webUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-you-think"
 type: article
 quality: 4
 heat: 4

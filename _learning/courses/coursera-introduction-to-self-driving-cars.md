@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Self-Driving Cars"
 excerpt: "Learn Introduction to Self-Driving Cars from University of Toronto. Welcome to Introduction to Self-Driving Cars, the first course in University of Toronto’s Self-Driving Cars Specialization.   This course will introduce you to the terminology, ..."
-sourceUrl: https://www.coursera.org/learn/intro-self-driving-cars
+webUrl: https://www.coursera.org/learn/intro-self-driving-cars
 type: course
 price: Free+
 length: 26 hours

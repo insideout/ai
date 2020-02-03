@@ -3,7 +3,7 @@ category: news
 title: "AI, 5G help fight coronavirus epidemic in China"
 excerpt: "As China continues to battle an outbreak of the deadly novel coronavirus, some of the cutting-edge technologies from artificial intelligence (AI) and 5G came in handy in the nationwide fight to contain the virus-caused crisis. On Saturday, the Provincial Center for Disease Control and Prevention (CDC) in East China's Zhejiang Province announced ..."
 publishedDateTime: 2020-02-02T12:49:00Z
-sourceUrl: "https://www.globaltimes.cn/content/1178260.shtml"
+webUrl: "https://www.globaltimes.cn/content/1178260.shtml"
 type: article
 quality: 37
 heat: 37

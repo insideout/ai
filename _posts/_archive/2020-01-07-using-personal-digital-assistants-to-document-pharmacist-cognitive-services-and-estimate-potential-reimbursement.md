@@ -3,7 +3,7 @@ category: news
 title: "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement"
 excerpt: "Paper forms were used before September 2001 to document pharmacists' cognitive services. A database of ... Data were exported into Microsoft Excel 2000 for graphing. CliniTrend for Windows NT ..."
 publishedDateTime: 2020-01-07T00:00:00Z
-sourceUrl: https://www.medscape.com/viewarticle/453038_2
+webUrl: https://www.medscape.com/viewarticle/453038_2
 type: article
 quality: 0
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "New nevo.ai Features Extend Virtual Assistant Capabilities to Bring Intelligent Services, Virtual Agent, and More"
     excerpt: "Universal Electronics Inc. (UEI) UEIC, the worldwide leader in universal control and sensing technologies for the smart home, today announced that it will"
     publishedDateTime: 2020-01-07T16:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/new-nevoai-features-extend-virtual-assistant-capabilities-to-bring-intelligent-services-virtual-agent-and-more-2020-01-07
+    webUrl: https://www.marketwatch.com/press-release/new-nevoai-features-extend-virtual-assistant-capabilities-to-bring-intelligent-services-virtual-agent-and-more-2020-01-07
     type: article
     provider:
       name: MarketWatch

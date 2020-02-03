@@ -3,9 +3,9 @@ category: news
 title: "Google Says Yes To No-Code, Acquires AppSheet"
 excerpt: "and some of its innovations fail to ever gain enough traction to survive (such as Google Wave, Google Answers and Google +)."
 publishedDateTime: 2020-01-17T17:01:00Z
-sourceUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/"
-ampUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/"
+webUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/"
+ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/"
 type: article
 quality: 74
 heat: 74

@@ -3,7 +3,7 @@ category: news
 title: "Latest release: Automotive Artificial Intelligence Market Will Hit Big Revenues In Future | Alphabet, Microsoft Corporation, IBM Corporation"
 excerpt: "Advance Market Analytics released the research report of Global Automotive Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Automotive Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
 publishedDateTime: 2020-01-20T16:33:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/latest-release-automotive-artificial-intelligence-market-will-hit-big-revenues-in-future-alphabet-microsoft-corporation-ibm-corporation-2020-01-20"
+webUrl: "https://www.marketwatch.com/press-release/latest-release-automotive-artificial-intelligence-market-will-hit-big-revenues-in-future-alphabet-microsoft-corporation-ibm-corporation-2020-01-20"
 type: article
 quality: 32
 heat: 32
@@ -30,7 +30,7 @@ related:
   - title: "Neural Network Software Market Is Booming Globally with Top key vendors Google, International Business Machines, Microsoft"
     excerpt: "Neural Network software is used to simulate, research, develop, and apply artificial neural networks, software concepts adapted from biological neural networks, and in some cases, a wider array of adaptive systems such as artificial intelligence and machine learning. Apart from this, the research report offers the vital key segmentation of the ..."
     publishedDateTime: 2020-01-20T10:19:00Z
-    sourceUrl: "https://www.openpr.com/news/1900816/neural-network-software-market-is-booming-globally-with-top-key"
+    webUrl: "https://www.openpr.com/news/1900816/neural-network-software-market-is-booming-globally-with-top-key"
     type: article
     provider:
       name: openpr.com

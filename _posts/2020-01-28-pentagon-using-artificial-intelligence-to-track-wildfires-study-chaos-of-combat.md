@@ -3,7 +3,7 @@ category: news
 title: "Pentagon using artificial intelligence to track wildfires, study chaos of combat"
 excerpt: "One year ago, Air Force Lt. Gen. John N.T. “Jack” Shanahan became the first director of a new Pentagon office created to act as a clearinghouse for all of the U.S. military’s work on artificial intelligence. Among a raft of near-term projects the office has taken up is one deploying computer vision technology to track and combat wildfires."
 publishedDateTime: 2020-01-28T11:03:00Z
-sourceUrl: "https://www.rollcall.com/news/congress/pentagon-using-artificial-intelligence-to-fight-wildfires-and-study-chaos-of-combat"
+webUrl: "https://www.rollcall.com/news/congress/pentagon-using-artificial-intelligence-to-fight-wildfires-and-study-chaos-of-combat"
 type: article
 quality: 32
 heat: 32

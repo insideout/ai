@@ -3,7 +3,7 @@ category: news
 title: "Cujo AI Taps Aviatrix for Cloud-Native Networking Software"
 excerpt: "To ensure business agility, CUJO AI's infrastructure is 100 percent in the cloud, capitalizing on Amazon Web Service, Google Cloud Platform and Microsoft Azure. As such, the company needed cloud-native networking software that would embrace and extend the native constructs of public clouds to provide the simplicity and automation of the cloud ..."
 publishedDateTime: 2020-01-16T00:27:00Z
-sourceUrl: "https://www.lightreading.com/cloud/cujo-ai-taps-aviatrix-for-cloud-native-networking-software-/d/d-id/756831"
+webUrl: "https://www.lightreading.com/cloud/cujo-ai-taps-aviatrix-for-cloud-native-networking-software-/d/d-id/756831"
 type: article
 quality: 39
 heat: 39

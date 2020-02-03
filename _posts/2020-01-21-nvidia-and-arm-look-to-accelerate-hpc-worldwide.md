@@ -3,7 +3,7 @@ category: news
 title: "NVIDIA and Arm look to accelerate HPC Worldwide"
 excerpt: "Additionally, a wide range of HPC software companies have used NVIDIA CUDA-X libraries to build GPU-enabled management and monitoring tools that run on Arm-based servers. There is a renaissance in high performance computing,” said NVIDIA CEO Jensen Huang. “Breakthroughs in machine learning and AI are redefining scientific methods and ..."
 publishedDateTime: 2020-01-21T16:47:00Z
-sourceUrl: "https://insidehpc.com/2020/01/nvidia-and-arm-look-to-accelerate-hpc-worldwide/"
+webUrl: "https://insidehpc.com/2020/01/nvidia-and-arm-look-to-accelerate-hpc-worldwide/"
 type: article
 quality: 4
 heat: 4

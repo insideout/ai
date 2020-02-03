@@ -3,7 +3,7 @@ category: news
 title: "Global Artificial Intelligence (AI) Chips Market Intelligence Report for Comprehensive Information 2017-2025"
 excerpt: "The report offers a holistic overview of the Artificial Intelligence (AI) Chips market with the help of application segments(Electronics, Automotive, Consumer Goods) and geographical regions(United States, Europe, China, Japan, Southeast Asia, India ..."
 publishedDateTime: 2020-01-15T22:12:00Z
-sourceUrl: "https://www.openpr.com/news/1897062/global-artificial-intelligence-ai-chips-market-intelligence"
+webUrl: "https://www.openpr.com/news/1897062/global-artificial-intelligence-ai-chips-market-intelligence"
 type: article
 quality: 30
 heat: 30
@@ -21,7 +21,7 @@ related:
   - title: "Unexpected Growth Seen in Natural Language Processing Market Comprehensive Evaluation of the Market via in-Depth Qualitative Insights by 2027"
     excerpt: "is expected to drive the growth of the natural language processing market. Increasing investments in the healthcare sectors, rising placement of the cloud-based, and web business applications with growing machine-to-machine technologies are additionally fueling the growth of the natural language processing market. The “Global Natural Language ..."
     publishedDateTime: 2020-01-20T20:23:00Z
-    sourceUrl: "https://www.openpr.com/news/1901741/unexpected-growth-seen-in-natural-language-processing-market"
+    webUrl: "https://www.openpr.com/news/1901741/unexpected-growth-seen-in-natural-language-processing-market"
     type: article
     provider:
       name: openpr.com

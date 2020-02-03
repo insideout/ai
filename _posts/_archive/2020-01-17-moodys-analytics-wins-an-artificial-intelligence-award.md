@@ -3,7 +3,7 @@ category: news
 title: "Moody’s Analytics Wins an Artificial Intelligence Award"
 excerpt: "Moody’s Analytics, a global provider of financial intelligence, has won the Best Financial Services AI Solution category at the 2019 Artificial Intelligence Awards. We won this award for the QUIQspread™ solution,"
 publishedDateTime: 2020-01-17T12:00:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/moodys-analytics-wins-an-artificial-intelligence-award-2020-01-17"
+webUrl: "https://www.marketwatch.com/press-release/moodys-analytics-wins-an-artificial-intelligence-award-2020-01-17"
 type: article
 quality: 67
 heat: 67

@@ -3,7 +3,7 @@ category: news
 title: "Study: Artificial Intelligence Can Improve MRI Detection of ADHD"
 excerpt: "Some studies suggest that a disrupted or interrupted connectome is linked to ADHD. Most research so far has involved the “single-channel deep neural network” (scDNN) model, where artificial intelligence helps a computer construct connectomes based on one parcellation. In this study, scientists developed a “multichannel deep neural network ..."
 publishedDateTime: 2020-01-14T17:18:00Z
-sourceUrl: "https://www.additudemag.com/adhd-mri-brain-scans-improved-diagnosis/"
+webUrl: "https://www.additudemag.com/adhd-mri-brain-scans-improved-diagnosis/"
 type: article
 quality: 39
 heat: 39

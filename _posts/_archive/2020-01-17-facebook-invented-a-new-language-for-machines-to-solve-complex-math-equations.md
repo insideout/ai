@@ -3,9 +3,9 @@ category: news
 title: "Facebook Invented a New Language for Machines to Solve Complex Math Equations"
 excerpt: "Similar to diagramming a sentence, the program turns equations into a tree that can be read by a computer like any other language. There’s already an extensive amount of research in machine translation, so the Facebook AI team simply used a popular translation model to map problems to solutions. “Our solution was an entirely new approach ..."
 publishedDateTime: 2020-01-17T06:06:00Z
-sourceUrl: "https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
-ampUrl: "https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
-cdnAmpUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
+webUrl: "https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
+ampWebUrl: "https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
 type: article
 quality: 73
 heat: 93
@@ -34,7 +34,7 @@ related:
   - title: "Facebook taught its AI to speak math"
     excerpt: "Facebook managed this by not treating the equation like a math problem but rather like a language problem. Specifically the research team approached the issue using neural machine translation (NMT). In short, they taught an AI to speak math. The result was a system capable of solving equations in a fraction of the time that algebra-based ..."
     publishedDateTime: 2020-01-14T16:00:00Z
-    sourceUrl: "https://www.engadget.com/2020/01/14/facebook-taught-its-ai-to-speak-math/"
+    webUrl: "https://www.engadget.com/2020/01/14/facebook-taught-its-ai-to-speak-math/"
     type: article
     provider:
       name: Engadget
@@ -43,7 +43,7 @@ related:
   - title: "Facebook Invented a New Language for Machines to Solve Complex Math Equations"
     excerpt: "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ..."
     publishedDateTime: 2020-01-16T01:33:00Z
-    sourceUrl: "https://www.vice.com/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
+    webUrl: "https://www.vice.com/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
     type: article
     provider:
       name: VICE

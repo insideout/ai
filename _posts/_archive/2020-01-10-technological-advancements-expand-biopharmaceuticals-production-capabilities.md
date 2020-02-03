@@ -3,9 +3,9 @@ category: news
 title: "Technological Advancements Expand Biopharmaceuticals' Production Capabilities"
 excerpt: "NEW YORK, Jan. 10, 2020 /PRNewswire/ -- The biopharmaceutical industry is driven by multiple factors, all while rapidly evolving in the digital era. The need to engineer drugs to treat emerging diseases,"
 publishedDateTime: 2020-01-10T13:00:00Z
-sourceUrl: "https://www.benzinga.com/pressreleases/20/01/n15104468/technological-advancements-expand-biopharmaceuticals-production-capabilities"
-ampUrl: "https://amp.benzinga.com/amp/content/15104468"
-cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15104468"
+webUrl: "https://www.benzinga.com/pressreleases/20/01/n15104468/technological-advancements-expand-biopharmaceuticals-production-capabilities"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15104468"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15104468"
 type: article
 quality: 21
 heat: -1
@@ -23,7 +23,7 @@ related:
   - title: "Novel Enzyme Technologies for Pharmaceutical Applications"
     excerpt: "/PRNewswire/ -- The current study discusses the novel enzyme technologies for enzyme discovery and improvement such as directed mutagenesis,"
     publishedDateTime: 2020-01-14T16:15:00Z
-    sourceUrl: "https://www.prnewswire.com/news-releases/novel-enzyme-technologies-for-pharmaceutical-applications-300986483.html"
+    webUrl: "https://www.prnewswire.com/news-releases/novel-enzyme-technologies-for-pharmaceutical-applications-300986483.html"
     type: article
     provider:
       name: PR Newswire

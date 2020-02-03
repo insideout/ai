@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence in Social Media Market Augmented Expansion to Be Registered by 2020-2029"
 excerpt: "A recent market research analysis titled, Artificial Intelligence in Social Media Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence in Social Media market covering industry surroundings,"
 publishedDateTime: 2020-01-16T08:05:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-augmented-expansion-to-be-registered-by-2020-2029-2020-01-16"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-augmented-expansion-to-be-registered-by-2020-2029-2020-01-16"
 type: article
 quality: 56
 heat: 56

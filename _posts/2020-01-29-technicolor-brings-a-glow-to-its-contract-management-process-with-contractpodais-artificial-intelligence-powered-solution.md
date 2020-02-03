@@ -3,7 +3,7 @@ category: news
 title: "Technicolor Brings a Glow to Its Contract Management Process with ContractPodAi’s Artificial Intelligence-Powered Solution"
 excerpt: "NEW YORK--(BUSINESS WIRE)--ContractPodAi®, the award-winning provider of AI-powered contract lifecycle management software, today announced that Technicolor, a worldwide technology leader in the media and entertainment sector, has rolled out ContractPodAi across the entire company to support its document management. ContractPodAi provides a ..."
 publishedDateTime: 2020-01-29T14:38:00Z
-sourceUrl: "https://www.businesswire.com/news/home/20200129005108/en/Technicolor-Brings-Glow-Contract-Management-Process-ContractPodAi’s"
+webUrl: "https://www.businesswire.com/news/home/20200129005108/en/Technicolor-Brings-Glow-Contract-Management-Process-ContractPodAi’s"
 type: article
 quality: 26
 heat: 26

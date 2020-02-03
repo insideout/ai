@@ -3,7 +3,7 @@ category: news
 title: "Deep transfer learning has now been used to classify galaxies with expert-level accuracy"
 excerpt: "Last year in September, researchers used deep learning to probe into dark matter in an industry first. Now, the same technique has been used to study galaxies. In the paper titled \"Deep Learning at Scale for the Construction of Galaxy Catalogs in the Dark ..."
 publishedDateTime: 2020-02-01T07:56:00Z
-sourceUrl: "https://www.neowin.net/news/deep-transfer-learning-has-now-been-used-to-classify-galaxies-with-expert-level-accuracy"
+webUrl: "https://www.neowin.net/news/deep-transfer-learning-has-now-been-used-to-classify-galaxies-with-expert-level-accuracy"
 type: article
 quality: 45
 heat: 45

@@ -3,7 +3,7 @@ category: news
 title: "Google Translator Toolkit Discontinued – What’s Next?"
 excerpt: "With its website translation capabilities and although post-editing of machine translation was possible, many sites stuck with Google’s auto translation, which tends to work fine with “big” languages but has poorer results with languages spoken by smaller populations. As Google’s tool faded out, users have several options to go forward ..."
 publishedDateTime: 2020-01-13T12:55:00Z
-sourceUrl: "https://slator.com/press-releases/google-translator-toolkit-discontinued-whats-next/"
+webUrl: "https://slator.com/press-releases/google-translator-toolkit-discontinued-whats-next/"
 type: article
 quality: 24
 heat: 24

@@ -1,7 +1,7 @@
 ---
 title: "Foundations of PyTorch"
 excerpt: "This course covers many aspects of building deep learning models in PyTorch, including neurons and neural networks, and how PyTorch uses differential calculus to train such models and create dynamic computation graphs in deep learning."
-sourceUrl: https://www.pluralsight.com/courses/foundations-pytorch
+webUrl: https://www.pluralsight.com/courses/foundations-pytorch
 type: course
 price: $$
 length: 2h 51m

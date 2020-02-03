@@ -3,7 +3,7 @@ category: news
 title: "New Algorithm to make AI less biased"
 excerpt: "A researcher from Queen’s University Belfast has developed an innovative new algorithm that will help make artificial intelligence (AI) fairer and less biased when processing data. Companies often use AI technologies to sift through huge amounts of data in situations such as an oversubscribed job vacancy or in policing when there is a large ..."
 publishedDateTime: 2020-02-02T16:15:00Z
-sourceUrl: "https://insidehpc.com/2020/02/new-algorithm-to-make-ai-less-biased/"
+webUrl: "https://insidehpc.com/2020/02/new-algorithm-to-make-ai-less-biased/"
 type: article
 quality: 37
 heat: 37

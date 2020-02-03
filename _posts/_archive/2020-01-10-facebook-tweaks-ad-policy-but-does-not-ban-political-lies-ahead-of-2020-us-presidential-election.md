@@ -3,7 +3,7 @@ category: news
 title: "Facebook tweaks ad policy but does not ban political lies ahead of 2020 US presidential election"
 excerpt: "Facebook announced limited changes on Thursday ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand ..."
 publishedDateTime: 2020-01-10T02:29:00Z
-sourceUrl: "https://www.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us"
+webUrl: "https://www.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us"
 type: article
 quality: 0
 heat: 0

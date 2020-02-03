@@ -3,9 +3,9 @@ category: news
 title: "IITian Arvind Krishna to be new IBM CEO, replacing Ginni Rometty"
 excerpt: "She divested unprofitable businesses and bet big on an AI data-analytics tool called Watson. Yet the efforts were stymied by the emergence of a new competitor in the delivery of computing over the internet: Amazon.com Inc. During one particularly painful several-year stretch, IBM’s sales declined for 17 quarters in a row. For its part ..."
 publishedDateTime: 2020-01-31T01:33:00Z
-sourceUrl: "https://www.livemint.com/companies/people/iitian-arvind-krishna-to-be-new-ibm-ceo-replacing-ginni-rometty-11580433012738.html"
-ampUrl: "https://www.livemint.com/companies/people/iitian-arvind-krishna-to-be-new-ibm-ceo-replacing-ginni-rometty/amp-11580433012738.html"
-cdnAmpUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/iitian-arvind-krishna-to-be-new-ibm-ceo-replacing-ginni-rometty/amp-11580433012738.html"
+webUrl: "https://www.livemint.com/companies/people/iitian-arvind-krishna-to-be-new-ibm-ceo-replacing-ginni-rometty-11580433012738.html"
+ampWebUrl: "https://www.livemint.com/companies/people/iitian-arvind-krishna-to-be-new-ibm-ceo-replacing-ginni-rometty/amp-11580433012738.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/iitian-arvind-krishna-to-be-new-ibm-ceo-replacing-ginni-rometty/amp-11580433012738.html"
 type: article
 quality: 44
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "IBM Is Replacing Ginni Rometty After 8 Years of Rocky Results"
     excerpt: "Apart from company founder Thomas Watson, who retired at the sprightly age of 82 ... As much as I appreciated Rometty's ideas, I'm excited to see Arvind Krishna's artificial intelligence focus and Jim Whitehurst's open-source mentality steering IBM into the next decade."
     publishedDateTime: 2020-01-31T14:12:00Z
-    sourceUrl: "https://www.fool.com/investing/2020/01/31/ibm-is-replacing-ginny-rometty-after-8-years-of-ro.aspx"
-    ampUrl: "https://www.fool.com/amp/investing/2020/01/31/ibm-is-replacing-ginny-rometty-after-8-years-of-ro.aspx"
-    cdnAmpUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/31/ibm-is-replacing-ginny-rometty-after-8-years-of-ro.aspx"
+    webUrl: "https://www.fool.com/investing/2020/01/31/ibm-is-replacing-ginny-rometty-after-8-years-of-ro.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/01/31/ibm-is-replacing-ginny-rometty-after-8-years-of-ro.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/31/ibm-is-replacing-ginny-rometty-after-8-years-of-ro.aspx"
     type: article
     provider:
       name: The Motley Fool

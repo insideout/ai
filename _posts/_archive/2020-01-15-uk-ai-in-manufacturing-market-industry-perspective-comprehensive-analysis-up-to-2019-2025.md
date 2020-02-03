@@ -3,7 +3,7 @@ category: news
 title: "UK AI in Manufacturing Market Industry Perspective, Comprehensive Analysis Up To 2019-2025"
 excerpt: "UK AI in manufacturing market is estimated to grow at a CAGR of 32.3% during the forecast period. UK is the 3rd largest economy after Germany and France in Europe. According to the government of UK (gov."
 publishedDateTime: 2020-01-15T10:28:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-industry-perspective-comprehensive-analysis-up-to-2019-2025-2020-01-15"
+webUrl: "https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-industry-perspective-comprehensive-analysis-up-to-2019-2025-2020-01-15"
 type: article
 quality: 59
 heat: -1
@@ -31,7 +31,7 @@ related:
   - title: "2020 Trending: Deep Learning AI Market to give boost to retail, healthcare, automotive, BSFI and telecom Industries"
     excerpt: "The Deep Learning AI marketis poised to grow at an excess of 30% CAGR during the forecast period from 2019-2023.In terms of investments in the field of artificial intelligence & deep learning, the U.S."
     publishedDateTime: 2020-01-16T04:57:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries-2020-01-16"
+    webUrl: "https://www.marketwatch.com/press-release/2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries-2020-01-16"
     type: article
     provider:
       name: MarketWatch
@@ -44,7 +44,7 @@ related:
   - title: "AI in Retail and e-Commerce Market - Industry Insights By Growth, Emerging Trends And Forecast By 2025"
     excerpt: "Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2025 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
     publishedDateTime: 2020-01-16T08:26:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/ai-in-retail-and-e-commerce-market---industry-insights-by-growth-emerging-trends-and-forecast-by-2025-2020-01-16"
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-retail-and-e-commerce-market---industry-insights-by-growth-emerging-trends-and-forecast-by-2025-2020-01-16"
     type: article
     provider:
       name: MarketWatch

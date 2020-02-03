@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Amazon Lex"
 excerpt: "The creation of an interactive and intelligent application is helped by the use of automatic speech recognition (ASR) and natural language understanding (NLU). In Getting Started with Amazon Lex, you will be introduced to the skills required to leverage Amazon Lex to build these user interactions for the applications you create. First, you will learn how to define the intents that the ChatBot will fulfill for the user. Next, you will explore how to create the slots that will gather the required information from your user. Finally, you will discover how to implement Lambda functions that process the information gathered by your ChatBot to complete the desire of your users. When you are finished with this course, you will be prepared to create simple informational bots using Amazon Lex."
-sourceUrl: https://www.pluralsight.com/courses/getting-started-amazon-lex
+webUrl: https://www.pluralsight.com/courses/getting-started-amazon-lex
 type: course
 price: $$
 length: 1h 57m

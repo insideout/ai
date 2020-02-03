@@ -3,9 +3,9 @@ category: news
 title: "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture"
 excerpt: "As a \"first-look\" of the processor, the CES 2020 presentation offered a general overview for the chips, which will have optimizations for the CPU, AI accelerators, and the GPU to achieve \"double ..."
 publishedDateTime: 2020-01-07T13:15:00Z
-sourceUrl: https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture
-ampUrl: https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/
-cdnAmpUrl: https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/
+webUrl: https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture
+ampWebUrl: https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/
+cdnAmpWebUrl: https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/
 type: article
 quality: 59
 heat: 69
@@ -29,9 +29,9 @@ related:
   - title: "Intel Xe: One GPU Architecture To Rule Them All (Page 2)"
     excerpt: "Intel using its new Xe GPU architecture on Tiger Lake CPUs means there's a huge ... We can't escape the \"massive\" improvement in AI performance as well, with Tiger Lake shaping up to be quite the release from Intel later in 2020."
     publishedDateTime: 2020-01-09T17:10:00Z
-    sourceUrl: https://www.tweaktown.com/articles/9312/intel-xe-one-gpu-architecture-rule/index2.html
-    ampUrl: https://www.tweaktown.com/articles/9312/intel-xe-one-gpu-architecture-rule/amp.html
-    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9312/intel-xe-one-gpu-architecture-rule/amp.html
+    webUrl: https://www.tweaktown.com/articles/9312/intel-xe-one-gpu-architecture-rule/index2.html
+    ampWebUrl: https://www.tweaktown.com/articles/9312/intel-xe-one-gpu-architecture-rule/amp.html
+    cdnAmpWebUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9312/intel-xe-one-gpu-architecture-rule/amp.html
     type: article
     provider:
       name: TweakTown

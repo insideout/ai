@@ -3,9 +3,9 @@ category: news
 title: "Opinion | Machine learning reveals computers as bad students"
 excerpt: "Artificial intelligence (AI) is deeply linked with machine learning (ML). In fact, almost all of AI today is simply ML—in other words, an attempt to get a computer to make itself more efficient at its task without the need for human intervention. As an investor in deep-tech and science companies, I have had the occasion to see several ..."
 publishedDateTime: 2020-01-20T17:00:00Z
-sourceUrl: "https://www.livemint.com/opinion/columns/machine-learning-reveals-computers-as-bad-students-11579538784401.html"
-ampUrl: "https://www.livemint.com/opinion/columns/machine-learning-reveals-computers-as-bad-students/amp-11579538784401.html"
-cdnAmpUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/machine-learning-reveals-computers-as-bad-students/amp-11579538784401.html"
+webUrl: "https://www.livemint.com/opinion/columns/machine-learning-reveals-computers-as-bad-students-11579538784401.html"
+ampWebUrl: "https://www.livemint.com/opinion/columns/machine-learning-reveals-computers-as-bad-students/amp-11579538784401.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/machine-learning-reveals-computers-as-bad-students/amp-11579538784401.html"
 type: article
 quality: 59
 heat: 59

@@ -3,7 +3,7 @@ category: news
 title: "Huntington Hospital 1st in Los Angeles to Adopt Viz LVO Platform for Artificial Intelligence Powered Stroke Care"
 excerpt: "Viz.ai, is the leader in applied artificial intelligence in healthcare. Viz.ai's mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care. Viz.ai's flagship product, Viz LVO, leverages advanced deep learning to communicate time ..."
 publishedDateTime: 2020-01-22T23:07:00Z
-sourceUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/huntington-hospital-st-in-los-angeles-to-adopt-viz-lvo/article_07c888e0-3fd2-5e1b-9461-21f884c66d45.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/huntington-hospital-st-in-los-angeles-to-adopt-viz-lvo/article_07c888e0-3fd2-5e1b-9461-21f884c66d45.html"
 type: article
 quality: 18
 heat: 18

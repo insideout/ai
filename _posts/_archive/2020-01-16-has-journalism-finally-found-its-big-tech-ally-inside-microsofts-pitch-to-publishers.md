@@ -3,7 +3,7 @@ category: news
 title: "Has journalism finally found its big tech ally? Inside Microsoft's pitch to publishers"
 excerpt: "Potentially, IDA’s machine learning and cognitive technology could help investigative journalists ... We feel there is a duty to inform the users of our products and services with high-quality content.” Bennett points out that Microsoft president Brad Smith cited the safeguarding of journalism as one of his three primary challenges for ..."
 publishedDateTime: 2020-01-16T11:38:00Z
-sourceUrl: "https://www.thedrum.com/opinion/2020/01/16/has-journalism-finally-found-its-big-tech-ally-inside-microsofts-pitch-publishers"
+webUrl: "https://www.thedrum.com/opinion/2020/01/16/has-journalism-finally-found-its-big-tech-ally-inside-microsofts-pitch-publishers"
 type: article
 quality: 31
 heat: 31

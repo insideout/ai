@@ -3,7 +3,7 @@ category: news
 title: "Facebook says the pro-Trump Epoch Times used artificial intelligence to create fake people and push conspiracies"
 excerpt: "“What’s new here is that this is purportedly a U.S.-based media company leveraging foreign actors posing as Americans to push political content. We’ve seen it a lot with state actors in the past.” —"
 publishedDateTime: 2019-12-23T00:00:00Z
-sourceUrl: https://www.niemanlab.org/reading/facebook-says-the-pro-trump-epoch-times-used-artificial-intelligence-to-create-fake-people-and-push-conspiracies/
+webUrl: https://www.niemanlab.org/reading/facebook-says-the-pro-trump-epoch-times-used-artificial-intelligence-to-create-fake-people-and-push-conspiracies/
 type: article
 quality: 0
 heat: 0

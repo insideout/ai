@@ -3,7 +3,7 @@ category: news
 title: "How do we create AI in Arabic? [Podcast]"
 excerpt: "... intelligence (AI) tool is no easy feat. But now, after several years of research and engineering, the region has its own assistant: Salma. We spoke to Hussein Al-Natsheh, chief AI officer at Mawdoo3, about the company’s experience in building Salma, the need for more research and development and attracting talent back to the region."
 publishedDateTime: 2020-01-27T00:54:00Z
-sourceUrl: "https://www.wamda.com/2020/01/create-ai-arabic-podcast"
+webUrl: "https://www.wamda.com/2020/01/create-ai-arabic-podcast"
 type: article
 quality: 39
 heat: 39

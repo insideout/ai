@@ -3,7 +3,7 @@ category: news
 title: "First entirely AI developed drug green lit for clinical trial"
 excerpt: "The drug candidate was created through the joint research of Japanese pharma company Sumitomo Dainippon Pharma and Exscientia, with the latter providing the Centaur Chemist AI platform for discovery. Andrew Hopkins, CEO of Exscientia, stated: \"We believe that this entry of DSP-1181, created using AI, into clinical studies is a key milestone in ..."
 publishedDateTime: 2020-01-30T16:33:00Z
-sourceUrl: "https://www.outsourcing-pharma.com/Article/2020/01/30/AI-developed-drug-goes-to-trial"
+webUrl: "https://www.outsourcing-pharma.com/Article/2020/01/30/AI-developed-drug-goes-to-trial"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Drug designed by AI to enter human trials for first time"
     excerpt: "Exscientia's system automatically analyses patients' genetic data and finds molecules that could be used in new medication Credit: Andriy Onufriyenko The first drug designed entirely using artificial intelligence is entering clinical human trials ... Rock Health for The Financial Times earlier this month suggested that AI, machine learning ..."
     publishedDateTime: 2020-01-30T16:28:00Z
-    sourceUrl: "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/"
-    ampUrl: "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/"
-    cdnAmpUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/"
+    webUrl: "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/"
     type: article
     provider:
       name: The Daily Telegraph
@@ -42,7 +42,7 @@ related:
   - title: "Now AI - The First Snowboard Binding Designed by Artificial Intelligence"
     excerpt: "Now Bindings have teamed up with Addit-ion to produce the world's first rideable snowboarding binding designed by Artificial Intelligence. It may look straight out of sci-fi but we're told this thing is 25% lighter than a regular binding and built to charge fast. Get a first look above. ___ Since the magazine first started in 1995, Whitelines ..."
     publishedDateTime: 2020-01-31T15:22:00Z
-    sourceUrl: "https://www.aol.co.uk/video/view/now-ai-the-first-snowboard-binding-designed-by-artificial-intelligence/5e343f9c27f25f1c0840da29/"
+    webUrl: "https://www.aol.co.uk/video/view/now-ai-the-first-snowboard-binding-designed-by-artificial-intelligence/5e343f9c27f25f1c0840da29/"
     type: article
     provider:
       name: AOL.co.uk
@@ -55,9 +55,9 @@ related:
   - title: "Medicine created by artificial intelligence to treat obesessive-compulsive disorder first time"
     excerpt: "It has been created by a British start-up called Exscientia and Japanese pharmaceutical firm called Sumitomo Dainippon Pharma. Artificial intelligence has invented a drug molecule that will be used to treat patients who have obsessive-compulsive disorder (OCD) for the first time. It has been created by a British start-up called Exscientia and ..."
     publishedDateTime: 2020-01-31T08:41:00Z
-    sourceUrl: "https://www.wionews.com/world/latest-world-news-medicine-created-by-artificial-intelligence-to-treat-obesessive-compulsive-disorder-first-time-277753"
-    ampUrl: "https://www.wionews.com/world/latest-world-news-medicine-created-by-artificial-intelligence-to-treat-obesessive-compulsive-disorder-first-time-277753/amp"
-    cdnAmpUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/latest-world-news-medicine-created-by-artificial-intelligence-to-treat-obesessive-compulsive-disorder-first-time-277753/amp"
+    webUrl: "https://www.wionews.com/world/latest-world-news-medicine-created-by-artificial-intelligence-to-treat-obesessive-compulsive-disorder-first-time-277753"
+    ampWebUrl: "https://www.wionews.com/world/latest-world-news-medicine-created-by-artificial-intelligence-to-treat-obesessive-compulsive-disorder-first-time-277753/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/latest-world-news-medicine-created-by-artificial-intelligence-to-treat-obesessive-compulsive-disorder-first-time-277753/amp"
     type: article
     provider:
       name: WION
@@ -70,7 +70,7 @@ related:
   - title: "Artificial intelligence-created medicine to be used on humans for first time"
     excerpt: "A drug molecule \"invented\" by artificial intelligence (AI) will be used in human trials in a world first for machine learning in medicine. It was created by British start-up Exscientia and Japanese pharmaceutical firm Sumitomo Dainippon Pharma. The drug will be used to treat patients who have obsessive-compulsive disorder (OCD). Typically ..."
     publishedDateTime: 2020-01-30T17:40:00Z
-    sourceUrl: "https://www.bbc.co.uk/news/technology-51315462"
+    webUrl: "https://www.bbc.co.uk/news/technology-51315462"
     type: article
     provider:
       name: BBC
@@ -83,7 +83,7 @@ related:
   - title: "AI-designed drug to enter human clinical trial for first time"
     excerpt: "The new compound, which has been designed to treat patients with obsessive-compulsive disorder, was developed by Oxford-based AI start-up Exscientia in collaboration with the Japanese pharmaceutical firm Sumitomo Dainippon Pharma. In a sharp acceleration of the typical path to drug development, which can take about four and a half years ..."
     publishedDateTime: 2020-01-30T04:00:00Z
-    sourceUrl: "https://www.ft.com/content/fe55190e-42bf-11ea-a43a-c4b328d9061c"
+    webUrl: "https://www.ft.com/content/fe55190e-42bf-11ea-a43a-c4b328d9061c"
     type: article
     provider:
       name: The Financial Times

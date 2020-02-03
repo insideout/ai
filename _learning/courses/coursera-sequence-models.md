@@ -1,7 +1,7 @@
 ---
 title: "Sequence Models"
 excerpt: "Learn Sequence Models from deeplearning.ai. This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this ..."
-sourceUrl: https://www.coursera.org/learn/nlp-sequence-models
+webUrl: https://www.coursera.org/learn/nlp-sequence-models
 type: course
 price: Free+
 length: 17 hours

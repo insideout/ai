@@ -3,9 +3,9 @@ category: news
 title: "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025"
 excerpt: "“Grand View Research, Inc. – Market Research And Consulting.” Artificial Intelligence in Healthcare Market Size, Share, & Trends Analysis By Component"
 publishedDateTime: 2020-01-09T08:35:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15096479/upcoming-innovations-in-artificial-intelligence-in-healthcare-thriving-medical-attention-by-2025
-ampUrl: https://amp.benzinga.com/amp/content/15096479
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096479
+webUrl: https://www.benzinga.com/pressreleases/20/01/ab15096479/upcoming-innovations-in-artificial-intelligence-in-healthcare-thriving-medical-attention-by-2025
+ampWebUrl: https://amp.benzinga.com/amp/content/15096479
+cdnAmpWebUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096479
 type: article
 quality: 61
 heat: 61

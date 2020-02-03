@@ -3,7 +3,7 @@ category: news
 title: "Why big pharma sees a remedy in data and AI"
 excerpt: "The Twenty First Century Cures Act, which endorsed the use of real-world evidence in drug approvals, was passed just over three years ago. Medical applications for data and AI have rapidly become attractive to investors. Calculations for the Financial Times by Rock Health, a US venture fund focusing on digital health, suggest that in the five ..."
 publishedDateTime: 2020-01-26T05:00:00Z
-sourceUrl: "https://www.ft.com/content/4743d76c-af9b-11e9-8030-530adfa879c2"
+webUrl: "https://www.ft.com/content/4743d76c-af9b-11e9-8030-530adfa879c2"
 type: article
 quality: 17
 heat: 17

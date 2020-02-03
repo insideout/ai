@@ -1,7 +1,7 @@
 ---
 title: "Applied AI with DeepLearning"
 excerpt: "Learn Applied AI with DeepLearning from IBM. >>> By enrolling in this course you agree to the End User License Agreement as set out in the FAQ.  Once enrolled you can access the license in the Resources area <<<  This course, Applied Artificial ..."
-sourceUrl: https://www.coursera.org/learn/ai
+webUrl: https://www.coursera.org/learn/ai
 type: course
 price: Free+
 length: 18 hours

@@ -1,7 +1,7 @@
 ---
 title: "Applied Social Network Analysis in Python"
 excerpt: "Learn Applied Social Network Analysis in Python from University of Michigan. This course will introduce the learner to network analysis through tutorials using the NetworkX library. The course begins with an understanding of what network analysis ..."
-sourceUrl: https://www.coursera.org/learn/python-social-network-analysis
+webUrl: https://www.coursera.org/learn/python-social-network-analysis
 type: course
 price: Free+
 length: 16 hours

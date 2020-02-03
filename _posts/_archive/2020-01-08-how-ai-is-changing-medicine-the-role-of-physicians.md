@@ -3,7 +3,7 @@ category: news
 title: "How AI is changing medicine, the role of physicians"
 excerpt: "\"The field of applying AI on healthcare data is developing rapidly, mostly as a follow-up to the explosion of new and highly efficient AI methods used in other fields such as image and voice recognition and natural language processing,\" said ... decision for them will help everyone translate volumes of data into rational action plans,\" said ..."
 publishedDateTime: 2020-01-08T21:39:00Z
-sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/how-ai-is-changing-medicine-the-role-of-physicians.html
+webUrl: https://www.beckershospitalreview.com/artificial-intelligence/how-ai-is-changing-medicine-the-role-of-physicians.html
 type: article
 quality: 39
 heat: 39

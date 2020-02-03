@@ -3,7 +3,7 @@ category: news
 title: "Houston Astros Playbook Now Includes Major Lessons on Ethics and Corporate Governance"
 excerpt: "Six months on the job, Peter Anderson, Carnival's first chief ethics and compliance officer ... and the resources available to help you navigate this brave new world. Discover how artificial intelligence (AI) enhances corporate legal departments. Learn its array of applications, how it helps to reduce costs and automate low-level tasks to ..."
 publishedDateTime: 2020-01-16T01:59:00Z
-sourceUrl: "https://www.law.com/corpcounsel/2020/01/14/houston-astros-playbook-now-includes-major-lessons-on-ethics-and-corporate-governance/"
+webUrl: "https://www.law.com/corpcounsel/2020/01/14/houston-astros-playbook-now-includes-major-lessons-on-ethics-and-corporate-governance/"
 type: article
 quality: 32
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "AI, Ethics and Corporate Behavior"
     excerpt: "Bertrand Bodson, Chief Digital Officer, Novartis; Allen Blue, Vice President of Product Management and cofounder, LinkedIn; Gillian Tans, Chairwoman, Booking.com and Mark Foster, Senior Vice President,"
     publishedDateTime: 2020-01-22T16:26:00Z
-    sourceUrl: "https://www.bloomberg.com/news/videos/2020-01-22/ai-ethics-and-corporate-behavior-video"
+    webUrl: "https://www.bloomberg.com/news/videos/2020-01-22/ai-ethics-and-corporate-behavior-video"
     type: article
     provider:
       name: Bloomberg

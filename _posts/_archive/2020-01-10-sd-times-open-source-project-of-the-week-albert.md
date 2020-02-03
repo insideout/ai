@@ -3,7 +3,7 @@ category: news
 title: "SD Times Open-Source Project of the Week: ALBERT"
 excerpt: "Google is releasing the project as an open-source implementation on TensorFlow. The open-source version of ALBERT contains several ready-to-use pre-trained language representation models. “The success of ALBERT demonstrates the importance of identifying the aspects of a model that give rise to powerful contextual representations. By focusing ..."
 publishedDateTime: 2020-01-10T14:10:00Z
-sourceUrl: "https://sdtimes.com/open-source/sd-times-open-source-project-of-the-week-albert/"
+webUrl: "https://sdtimes.com/open-source/sd-times-open-source-project-of-the-week-albert/"
 type: article
 quality: 54
 heat: 54

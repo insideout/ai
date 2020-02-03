@@ -3,7 +3,7 @@ category: news
 title: "Senate Bill Aims to Funnel Billions More to AI, Quantum R&D Efforts"
 excerpt: "A bill introduced in the Senate this week aims to steer tens of billions of new funding toward civilian Federal government research and development efforts involving “industries of the future” including artificial intelligence (AI) and quantum information science ... of those Federal investments in R&D “with complimentary investments ..."
 publishedDateTime: 2020-01-16T14:35:00Z
-sourceUrl: "https://www.meritalk.com/articles/senate-bill-aims-to-funnel-billions-more-to-ai-quantum-rd-efforts/"
+webUrl: "https://www.meritalk.com/articles/senate-bill-aims-to-funnel-billions-more-to-ai-quantum-rd-efforts/"
 type: article
 quality: 137
 heat: 137

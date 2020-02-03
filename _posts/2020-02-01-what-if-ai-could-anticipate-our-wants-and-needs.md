@@ -3,9 +3,9 @@ category: news
 title: "What If AI Could Anticipate Our Wants and Needs?"
 excerpt: "The lines of code that animate these machines will inevitably lack nuance, forget to spell out caveats, and end up giving AI systems goals and incentives that don’t align with our true preferences. A now-classic thought experiment illustrating this problem was posed by the Oxford philosopher Nick Bostrom in 2003. Bostrom imagined a ..."
 publishedDateTime: 2020-02-01T13:16:00Z
-sourceUrl: "https://www.theatlantic.com/technology/archive/2020/02/real-danger-artificial-intelligence/605914/"
-ampUrl: "https://amp.theatlantic.com/amp/article/605914/"
-cdnAmpUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/605914/"
+webUrl: "https://www.theatlantic.com/technology/archive/2020/02/real-danger-artificial-intelligence/605914/"
+ampWebUrl: "https://amp.theatlantic.com/amp/article/605914/"
+cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/605914/"
 type: article
 quality: 87
 heat: 87

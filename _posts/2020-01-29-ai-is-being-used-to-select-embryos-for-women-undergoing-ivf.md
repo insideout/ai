@@ -3,9 +3,9 @@ category: news
 title: "AI is being used to select embryos for women undergoing IVF"
 excerpt: "The AI algorithm, called Ivy, analyses time-lapse videos of embryos as they are incubated after being fertilised, and identifies which ones have the highest likelihood of successful development. It was developed by Harrison.ai, a tech firm in Sydney ..."
 publishedDateTime: 2020-01-29T11:26:00Z
-sourceUrl: "https://www.newscientist.com/article/2231591-ai-is-being-used-to-select-embryos-for-women-undergoing-ivf/"
-ampUrl: "https://www.newscientist.com/article/2231591-ai-is-being-used-to-select-embryos-for-women-undergoing-ivf/amp/"
-cdnAmpUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2231591-ai-is-being-used-to-select-embryos-for-women-undergoing-ivf/amp/"
+webUrl: "https://www.newscientist.com/article/2231591-ai-is-being-used-to-select-embryos-for-women-undergoing-ivf/"
+ampWebUrl: "https://www.newscientist.com/article/2231591-ai-is-being-used-to-select-embryos-for-women-undergoing-ivf/amp/"
+cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2231591-ai-is-being-used-to-select-embryos-for-women-undergoing-ivf/amp/"
 type: article
 quality: 57
 heat: 57

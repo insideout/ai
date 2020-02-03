@@ -3,7 +3,7 @@ category: news
 title: "Blog: How artificial intelligence is altering the landscape of liability for the healthcare industry"
 excerpt: "The Post events team works alongside the brand's editorial staff and industry advisors to produce content around key issues affecting the insurance industry. Don't miss out - follow our events."
 publishedDateTime: 2020-01-17T06:11:00Z
-sourceUrl: "https://www.postonline.co.uk/technology/4569101/blog-how-artificial-intelligence-is-altering-the-landscape-of-liability-for-the-healthcare-industry"
+webUrl: "https://www.postonline.co.uk/technology/4569101/blog-how-artificial-intelligence-is-altering-the-landscape-of-liability-for-the-healthcare-industry"
 type: article
 quality: 39
 heat: 39
@@ -27,7 +27,7 @@ related:
   - title: "Can high-tech capitalism fix the healthcare industry?"
     excerpt: "Theoretically, this is where artificial intelligence can step in. Lots of startups and large tech companies are working on software that will make sense of all the various data inputs. The idea is that AI will analyze patient data and offer suggestions for diagnosis or treatment. But Madara warned that healthcare providers should be sure to ..."
     publishedDateTime: 2020-01-22T12:00:00Z
-    sourceUrl: "https://www.fastcompany.com/90452923/dont-count-on-tech-to-cure-healthcares-many-ills?partner=feedburner"
+    webUrl: "https://www.fastcompany.com/90452923/dont-count-on-tech-to-cure-healthcares-many-ills?partner=feedburner"
     type: article
     provider:
       name: Fast Company

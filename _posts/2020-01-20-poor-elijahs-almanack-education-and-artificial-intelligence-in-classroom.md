@@ -3,7 +3,7 @@ category: news
 title: "Poor Elijah’s Almanack: Education and artificial intelligence in classroom"
 excerpt: "“Experimenting” is the right word. Some teachers propose test-driving robots for chores like taking attendance and grading. Others worry, however, about data insecurity, invalid grades, and the implicit gender biases of artificial intelligence programmers, most of whom are male. Of these concerns, I’m particularly uneasy about placing any ..."
 publishedDateTime: 2020-01-20T21:52:00Z
-sourceUrl: "https://www.ncadvertiser.com/opinion/article/Poor-Elijah-s-Almanack-You-may-hang-up-now-14989909.php"
+webUrl: "https://www.ncadvertiser.com/opinion/article/Poor-Elijah-s-Almanack-You-may-hang-up-now-14989909.php"
 type: article
 quality: 37
 heat: 37

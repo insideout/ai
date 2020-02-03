@@ -3,9 +3,9 @@ category: news
 title: "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI"
 excerpt: "Most exciting of all is that the tiny eighteen-person team has some very novel takes on deep learning forms of AI, the product of seasoned vets in machine learning technology and products. This is no me-too chat bot service, it would appear. Founders include Bindu Reddy, who was previously head of \"AI Verticals\" for Amazon's AWS. The company ..."
 publishedDateTime: 2020-01-28T17:28:00Z
-sourceUrl: "https://www.zdnet.com/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
-ampUrl: "https://www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
+webUrl: "https://www.zdnet.com/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/"
 type: article
 quality: 98
 heat: 108
@@ -36,9 +36,9 @@ related:
   - title: "Paramount Resources LTD Forms Strategic Partnership with Novi Labs to Integrate Machine Learning into Well Planning Workflows"
     excerpt: "Novi's well planning technology leverages highly scalable machine learning algorithms, and a wide variety of economic inputs to automate predictions for planned or producing wells. This gives well planning and engineering teams unprecedented capabilities to model capital allocation and select the ideal parameters that produce optimal production ..."
     publishedDateTime: 2020-01-28T14:00:00Z
-    sourceUrl: "https://markets.businessinsider.com/news/stocks/paramount-resources-ltd-forms-strategic-partnership-with-novi-labs-to-integrate-machine-learning-into-well-planning-workflows-1028851306"
-    ampUrl: "https://markets.businessinsider.com/amp/news/paramount-resources-ltd-forms-strategic-partnership-with-novi-labs-to-integrate-machine-learning-into-well-planning-workflows-1028851306"
-    cdnAmpUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/paramount-resources-ltd-forms-strategic-partnership-with-novi-labs-to-integrate-machine-learning-into-well-planning-workflows-1028851306"
+    webUrl: "https://markets.businessinsider.com/news/stocks/paramount-resources-ltd-forms-strategic-partnership-with-novi-labs-to-integrate-machine-learning-into-well-planning-workflows-1028851306"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/paramount-resources-ltd-forms-strategic-partnership-with-novi-labs-to-integrate-machine-learning-into-well-planning-workflows-1028851306"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/paramount-resources-ltd-forms-strategic-partnership-with-novi-labs-to-integrate-machine-learning-into-well-planning-workflows-1028851306"
     type: article
     provider:
       name: Business Insider

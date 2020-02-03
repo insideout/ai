@@ -3,7 +3,7 @@ category: news
 title: "The defining moments of IBM Watson last decade"
 excerpt: "Unveiled to the world just under a decade ago, today, IBM Watson is being used by millions of people in thousands of different ways to unlock the value of data in new and profound ways. Across countless industries, Watson is helping businesses around the world harness their data, increase productivity,"
 publishedDateTime: 2020-01-16T19:18:53Z
-sourceUrl: "https://www.ibm.com/blogs/watson/2020/01/the-defining-moments-of-ibm-watson-last-decade/"
+webUrl: "https://www.ibm.com/blogs/watson/2020/01/the-defining-moments-of-ibm-watson-last-decade/"
 type: article
 quality: 117
 heat: 117

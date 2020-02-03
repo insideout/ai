@@ -3,9 +3,9 @@ category: news
 title: "How Software Developers Sparked Management Transformation"
 excerpt: "20 Years Ago, The IT Department Was Often The Firm’s Worst Performing Unit. Now The Rest Of The Firm Can’t Keep Up"
 publishedDateTime: 2020-01-19T23:59:00Z
-sourceUrl: "https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/"
-ampUrl: "https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/"
+webUrl: "https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/"
+ampWebUrl: "https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/"
 type: article
 quality: 72
 heat: 72

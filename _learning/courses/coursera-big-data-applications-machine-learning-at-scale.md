@@ -1,7 +1,7 @@
 ---
 title: "Big Data Applications: Machine Learning at Scale"
 excerpt: "Learn Big Data Applications: Machine Learning at Scale from Yandex. Machine learning is transforming the world around us. To become successful, you’d better know what kinds of problems can be solved with machine learning, and how they can be ..."
-sourceUrl: https://www.coursera.org/learn/machine-learning-applications-big-data
+webUrl: https://www.coursera.org/learn/machine-learning-applications-big-data
 type: course
 price: Free+
 length: 77 hours

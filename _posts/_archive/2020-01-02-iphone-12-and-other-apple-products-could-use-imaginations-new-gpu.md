@@ -3,9 +3,9 @@ category: news
 title: "iPhone 12 and other Apple products could use Imagination's new GPU"
 excerpt: "One partnership, between Apple and GPU maker Imagination Technologies ... as well as products that relate to the AI and automotive sectors, which may help Apple expand its product range. The ending of Apple and Imagination’s prior agreement (as reported ..."
 publishedDateTime: 2020-01-02T12:39:00Z
-sourceUrl: https://www.tomsguide.com/news/iphone-12-and-other-apple-products-could-use-imaginations-new-gpu
-ampUrl: https://www.tomsguide.com/amp/news/iphone-12-and-other-apple-products-could-use-imaginations-new-gpu
-cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/iphone-12-and-other-apple-products-could-use-imaginations-new-gpu
+webUrl: https://www.tomsguide.com/news/iphone-12-and-other-apple-products-could-use-imaginations-new-gpu
+ampWebUrl: https://www.tomsguide.com/amp/news/iphone-12-and-other-apple-products-could-use-imaginations-new-gpu
+cdnAmpWebUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/iphone-12-and-other-apple-products-could-use-imaginations-new-gpu
 type: article
 quality: 59
 heat: 59

@@ -3,7 +3,7 @@ category: news
 title: "A bioinspired analogous nerve towards artificial intelligence"
 excerpt: "Like the functions of biological sensory nerves, the proposed APT nerve had the potential to target human-machine interaction based on artificial intelligence, such as user identification, feedback control of prosthesis, and intelligent action of a robot. Figure 4a illustrates a basic process flow combined with algorithmic analysis of ..."
 publishedDateTime: 2020-01-14T10:25:00Z
-sourceUrl: "https://www.nature.com/articles/s41467-019-14214-x"
+webUrl: "https://www.nature.com/articles/s41467-019-14214-x"
 type: article
 quality: 41
 heat: 41

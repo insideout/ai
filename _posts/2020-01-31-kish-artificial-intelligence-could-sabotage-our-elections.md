@@ -3,9 +3,9 @@ category: news
 title: "Kish: Artificial intelligence could sabotage our elections"
 excerpt: "I still do but it’s not a certainty for the more recent or future recordings. That’s because a Canada-based company is a leader in artificial intelligence and can replicate and create human voices using just 60 seconds listening to a sample audio. The company, founded by three students from the University of Montreal, is Lyrebird ..."
 publishedDateTime: 2020-01-31T17:39:00Z
-sourceUrl: "https://www.macombdaily.com/opinion/kish-artificial-intelligence-could-sabotage-our-elections/article_5b99426a-4398-11ea-b346-0b4c2889f522.html"
-ampUrl: "https://www.macombdaily.com/opinion/kish-artificial-intelligence-could-sabotage-our-elections/article_5b99426a-4398-11ea-b346-0b4c2889f522.amp.html"
-cdnAmpUrl: "https://www-macombdaily-com.cdn.ampproject.org/c/s/www.macombdaily.com/opinion/kish-artificial-intelligence-could-sabotage-our-elections/article_5b99426a-4398-11ea-b346-0b4c2889f522.amp.html"
+webUrl: "https://www.macombdaily.com/opinion/kish-artificial-intelligence-could-sabotage-our-elections/article_5b99426a-4398-11ea-b346-0b4c2889f522.html"
+ampWebUrl: "https://www.macombdaily.com/opinion/kish-artificial-intelligence-could-sabotage-our-elections/article_5b99426a-4398-11ea-b346-0b4c2889f522.amp.html"
+cdnAmpWebUrl: "https://www-macombdaily-com.cdn.ampproject.org/c/s/www.macombdaily.com/opinion/kish-artificial-intelligence-could-sabotage-our-elections/article_5b99426a-4398-11ea-b346-0b4c2889f522.amp.html"
 type: article
 quality: 59
 heat: 59

@@ -3,9 +3,9 @@ category: news
 title: "Canelo and Boxing Trainer React To Winning Best Fighter and Trainer of 2019"
 excerpt: "The Mexican fighting machine ended the year by moving up to 175 lbs and defeating feared puncher ... Here is what Canelo has had to say (Spanish to English translation): “It is an honor to receive the BWAA fighter prize of the year but it represents an even greater pride to do it by your side @caneloteam. Many thanks to all who voted; Let ..."
 publishedDateTime: 2020-01-18T11:22:00Z
-sourceUrl: "https://www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/"
-ampUrl: "https://www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/amp/"
-cdnAmpUrl: "https://www-boxingnewsandviews-com.cdn.ampproject.org/c/s/www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/amp/"
+webUrl: "https://www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/"
+ampWebUrl: "https://www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/amp/"
+cdnAmpWebUrl: "https://www-boxingnewsandviews-com.cdn.ampproject.org/c/s/www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/amp/"
 type: article
 quality: 57
 heat: 57

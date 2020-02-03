@@ -3,7 +3,7 @@ category: news
 title: "Bobble AI appoints London-based Lemon Advisors UK as the Advisory Partner for Global Expansion"
 excerpt: "With the help of LAUK, Bobble AI is offering a fully customized white labeled Keyboard SDK, easily integrated into the existing mobile applications. All consumer-facing used-cases of a mobile app are replicated into the keyboard frontend, thus making them easily accessible to users. Any business sector, including Banks, Fintech, Telcos ..."
 publishedDateTime: 2020-01-13T10:39:00Z
-sourceUrl: "https://www.businesswire.com/news/home/20200113005433/en/Bobble-AI-appoints-London-based-Lemon-Advisors-UK"
+webUrl: "https://www.businesswire.com/news/home/20200113005433/en/Bobble-AI-appoints-London-based-Lemon-Advisors-UK"
 type: article
 quality: 27
 heat: 27

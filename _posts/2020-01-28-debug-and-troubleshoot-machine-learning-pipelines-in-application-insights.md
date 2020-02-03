@@ -3,7 +3,7 @@ category: news
 title: "Debug and troubleshoot machine learning pipelines in Application Insights"
 excerpt: "This section is an introduction specific to using OpenCensus from an Azure Machine Learning pipeline. For a detailed tutorial, see OpenCensus Azure Monitor Exporters Add a PythonScriptStep to your Azure ML Pipeline. Configure your RunConfiguration with the dependency on opencensus-ext-azure. Configure the APPLICATIONINSIGHTS_CONNECTION_STRING ..."
 publishedDateTime: 2020-01-28T22:49:00Z
-sourceUrl: "https://docs.microsoft.com/en-us/azure/machine-learning/how-to-debug-pipelines-application-insights"
+webUrl: "https://docs.microsoft.com/en-us/azure/machine-learning/how-to-debug-pipelines-application-insights"
 type: article
 quality: 40
 heat: 40

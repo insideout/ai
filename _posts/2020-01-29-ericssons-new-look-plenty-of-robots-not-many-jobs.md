@@ -3,7 +3,7 @@ category: news
 title: "Ericsson's New Look: Plenty of Robots, Not Many Jobs"
 excerpt: "Peter Laurin, the head of that division, has attributed those cuts partly to investments in artificial intelligence. Automation is now hollowing out Ericsson's factories, and it means the Swedish network equipment maker will be able to rely on a much smaller manufacturing workforce in future, the company's networks boss has told Light Reading."
 publishedDateTime: 2020-01-29T08:41:00Z
-sourceUrl: "https://www.lightreading.com/automation/ericssons-new-look-plenty-of-robots-not-many-jobs/d/d-id/757137"
+webUrl: "https://www.lightreading.com/automation/ericssons-new-look-plenty-of-robots-not-many-jobs/d/d-id/757137"
 type: article
 quality: 39
 heat: 39

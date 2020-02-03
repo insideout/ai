@@ -3,7 +3,7 @@ category: news
 title: "Why artificial intelligence will not abolish work"
 excerpt: "The diffusion of AI across the economy has raised the possibility -- and for many, the fear -- that machines will eventually replace human work. The machines will not only perform an ever-larger share of mechanical operations, as we have been observing since the first Industrial Revolution but will also coordinate work by establishing direct ..."
 publishedDateTime: 2020-01-27T16:00:00Z
-sourceUrl: "https://www.dhakatribune.com/opinion/op-ed/2020/01/27/why-artificial-intelligence-will-not-abolish-work"
+webUrl: "https://www.dhakatribune.com/opinion/op-ed/2020/01/27/why-artificial-intelligence-will-not-abolish-work"
 type: article
 quality: 37
 heat: 37

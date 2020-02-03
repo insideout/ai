@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence in Healthcare Market to Witness Steady Growth Based on Rising Significance of Big Data in Healthcare"
 excerpt: "Before it's here, it's on the Bloomberg Terminal."
 publishedDateTime: 2020-01-21T10:44:00Z
-sourceUrl: "https://www.bloomberg.com/press-releases/2020-01-21/artificial-intelligence-in-healthcare-market-to-witness-steady-growth-based-on-rising-significance-of-big-data-in-healthcare"
+webUrl: "https://www.bloomberg.com/press-releases/2020-01-21/artificial-intelligence-in-healthcare-market-to-witness-steady-growth-based-on-rising-significance-of-big-data-in-healthcare"
 type: article
 quality: 37
 heat: 37

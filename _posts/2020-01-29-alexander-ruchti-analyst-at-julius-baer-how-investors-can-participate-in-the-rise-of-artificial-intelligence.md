@@ -3,9 +3,9 @@ category: news
 title: "Alexander Ruchti, Analyst at Julius Baer: How investors can participate in the rise of artificial intelligence"
 excerpt: "Often the first thing that comes to people’s minds when thinking about artificial intelligence are bi-pedal machines that think/talk/act in the same way that humans do. This is very unlikely to happen even in the next decade. The AI revolution will not materialise through flashy futuristic concepts like self-aware walking robots. The AI ..."
 publishedDateTime: 2020-01-29T18:22:00Z
-sourceUrl: "https://www.arabianbusiness.com/comment/437896-alexander-ruchti-analyst-at-julius-baer-how-investors-can-participate-in-the-rise-of-artificial-intelligence"
-ampUrl: "https://amp.arabianbusiness.com/amp/article_listing/aben/comment/437896-alexander-ruchti-analyst-at-julius-baer-how-investors-can-participate-in-the-rise-of-artificial-intelligence"
-cdnAmpUrl: "https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/comment/437896-alexander-ruchti-analyst-at-julius-baer-how-investors-can-participate-in-the-rise-of-artificial-intelligence"
+webUrl: "https://www.arabianbusiness.com/comment/437896-alexander-ruchti-analyst-at-julius-baer-how-investors-can-participate-in-the-rise-of-artificial-intelligence"
+ampWebUrl: "https://amp.arabianbusiness.com/amp/article_listing/aben/comment/437896-alexander-ruchti-analyst-at-julius-baer-how-investors-can-participate-in-the-rise-of-artificial-intelligence"
+cdnAmpWebUrl: "https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/comment/437896-alexander-ruchti-analyst-at-julius-baer-how-investors-can-participate-in-the-rise-of-artificial-intelligence"
 type: article
 quality: 39
 heat: 39

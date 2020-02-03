@@ -3,7 +3,7 @@ category: news
 title: "Behind the Scenes With Aptiv’s Self-Driving Car Nerve Center at CES 2020"
 excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading ..."
 publishedDateTime: 2020-01-07T18:24:00Z
-sourceUrl: "https://www.extremetech.com/extreme/304158-behind-the-scenes-wtih-aptivs-self-driving-car-nerve-center-at-ces-2020"
+webUrl: "https://www.extremetech.com/extreme/304158-behind-the-scenes-wtih-aptivs-self-driving-car-nerve-center-at-ces-2020"
 type: article
 quality: 23
 heat: 23

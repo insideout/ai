@@ -3,7 +3,7 @@ category: news
 title: "How the Application of Neuroscience in Design Can Separate Us from Artificial Intelligence"
 excerpt: "But what is it that makes us respond this way? Why do some spaces appeal to our senses better than others? And in an era of artificial intelligence, how can designers tap into those sciences to design spaces that help us continue to develop our humanistic traits and skills? Frederick Marks, president of the Academy of Neuroscience for Architect ..."
 publishedDateTime: 2020-01-22T17:15:00Z
-sourceUrl: "https://www.interiordesign.net/articles/17530-how-the-application-of-neuroscience-in-design-can-separate-us-from-artificial-intelligence/"
+webUrl: "https://www.interiordesign.net/articles/17530-how-the-application-of-neuroscience-in-design-can-separate-us-from-artificial-intelligence/"
 type: article
 quality: 27
 heat: 27

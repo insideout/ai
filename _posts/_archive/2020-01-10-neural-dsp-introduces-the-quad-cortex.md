@@ -3,7 +3,7 @@ category: news
 title: "Neural DSP Introduces the Quad Cortex"
 excerpt: "Neural Capture is powered by a unique neural network architecture that is capable of autonomously analyzing, learning, and replicating an amplifier's sound and dynamic response akin to human perception. \"Quad Cortex is the first device of its kind equipped with biomimetic artificial intelligence technology. Users can capture their favorite rigs ..."
 publishedDateTime: 2020-01-10T17:45:00Z
-sourceUrl: "https://www.premierguitar.com/articles/29838-neural-dsp-introduces-the-quad-cortex"
+webUrl: "https://www.premierguitar.com/articles/29838-neural-dsp-introduces-the-quad-cortex"
 type: article
 quality: 24
 heat: 24

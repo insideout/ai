@@ -3,7 +3,7 @@ category: news
 title: "German Wearable AI Market will experience a noticeable growth during the forecast period 2019-2025: Orion Market Reports"
 excerpt: "German Wearable AI market is estimated to grow significantly at a CAGR of more than 30% during the forecast period. The presence of well-established and start-up companies including Wandlebots, 8sense,"
 publishedDateTime: 2020-01-20T11:40:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/german-wearable-ai-market-will-experience-a-noticeable-growth-during-the-forecast-period-2019-2025-orion-market-reports-2020-01-20"
+webUrl: "https://www.marketwatch.com/press-release/german-wearable-ai-market-will-experience-a-noticeable-growth-during-the-forecast-period-2019-2025-orion-market-reports-2020-01-20"
 type: article
 quality: 44
 heat: 44
@@ -31,7 +31,7 @@ related:
   - title: "Artificial Intelligence Chip Market to Witness Robust Expansion Throughout the Forecast Period 2017–2023 | AMD, Google, Intel"
     excerpt: "Artificial intelligence eliminates or minimizes the risk to human life in many applications ... Further, the emergence of quantum computing and increase in implementation of AI chips in robotics drive the market growth to a considerable extent. The emergence of autonomous robotics—robots that develop and control themselves autonomously ..."
     publishedDateTime: 2020-01-22T10:50:00Z
-    sourceUrl: "https://www.cmo.com.au/mediareleases/37808/artificial-intelligence-chip-market-to-witness/"
+    webUrl: "https://www.cmo.com.au/mediareleases/37808/artificial-intelligence-chip-market-to-witness/"
     type: article
     provider:
       name: cmo.com.au

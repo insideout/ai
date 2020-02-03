@@ -3,9 +3,9 @@ category: news
 title: "Skymind Global Ventures launches $800M fund and London office to back AI startups"
 excerpt: "Skymind Global Ventures (SGV) appeared last year in Asia/US as a vehicle for the previous founders of a YC-backed open-source AI platform to invest in companies that used the platform. Today it announces the launch of an $800 million fund to back promising new AI companies and academic research. It will consequently be opening a London office ..."
 publishedDateTime: 2020-01-31T09:34:00Z
-sourceUrl: "https://techcrunch.com/2020/01/31/skymind-global-ventures-launches-800m-fund-and-london-office-to-back-ai-startups/"
-ampUrl: "https://techcrunch.com/2020/01/31/skymind-global-ventures-launches-800m-fund-and-london-office-to-back-ai-startups/amp/"
-cdnAmpUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/31/skymind-global-ventures-launches-800m-fund-and-london-office-to-back-ai-startups/amp/"
+webUrl: "https://techcrunch.com/2020/01/31/skymind-global-ventures-launches-800m-fund-and-london-office-to-back-ai-startups/"
+ampWebUrl: "https://techcrunch.com/2020/01/31/skymind-global-ventures-launches-800m-fund-and-london-office-to-back-ai-startups/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/31/skymind-global-ventures-launches-800m-fund-and-london-office-to-back-ai-startups/amp/"
 type: article
 quality: 82
 heat: -1
@@ -32,9 +32,9 @@ related:
   - title: "Berlin venture studio Merantix raises $27M fund to concentrate on AI startups"
     excerpt: "Berlin-based Merantix, a venture studio which specifically concentrates on building ‘AI companies’, says it has raised a new €25M fund ($27M). Anchor investors include Trusted Insight, the Robert Wood Johnson Foundation, the W.K. Kellogg Foundation, as well as further family offices from Europe. Co-founder Adrian Locher said in a ..."
     publishedDateTime: 2020-01-27T14:54:00Z
-    sourceUrl: "https://techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/"
-    ampUrl: "https://techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/amp/"
-    cdnAmpUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/amp/"
+    webUrl: "https://techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/"
+    ampWebUrl: "https://techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/amp/"
     type: article
     provider:
       name: TechCrunch

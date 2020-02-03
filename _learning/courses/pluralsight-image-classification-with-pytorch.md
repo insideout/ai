@@ -1,7 +1,7 @@
 ---
 title: "Image Classification with PyTorch"
 excerpt: "This course covers the parts of building enterprise-grade image classification systems like image pre-processing, picking between CNNs and DNNs, calculating output dimensions of CNNs, and leveraging pre-trained models using PyTorch transfer learning."
-sourceUrl: https://www.pluralsight.com/courses/image-classification-pytorch
+webUrl: https://www.pluralsight.com/courses/image-classification-pytorch
 type: course
 price: $$
 length: 3h 4m

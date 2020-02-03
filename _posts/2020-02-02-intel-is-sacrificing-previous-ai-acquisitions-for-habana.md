@@ -3,9 +3,9 @@ category: news
 title: "Intel is sacrificing previous AI acquisitions for Habana"
 excerpt: "The big picture: Intel is keen to break new ground in the AI space, but playing hard and fast often results in casualties. Today that’s Nervana, an AI chip startup that Intel acquired in 2016 for roundabouts $400 million. Existing agreements will be honored, but from now on, all AI research efforts will be directed by Habana Labs. Intel ..."
 publishedDateTime: 2020-02-02T16:30:00Z
-sourceUrl: "https://www.techspot.com/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html"
-ampUrl: "https://www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html"
-cdnAmpUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html"
+webUrl: "https://www.techspot.com/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html"
+ampWebUrl: "https://www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html"
 type: article
 quality: 89
 heat: -1
@@ -33,9 +33,9 @@ related:
   - title: "Intel Lays Out Strategy For AI: It’s Habana"
     excerpt: "Last month, Intel announced that it would acquire Israeli AI chip startup Habana Labs for $2B. At the time, I opined that this probably spelled the end for chips from the 2016 Nervana acquisition. Intel planned to bring out both the inference and the training versions of Nervana’s second attempt to out-perform NVIDIA by the end of 2019."
     publishedDateTime: 2020-01-31T18:55:00Z
-    sourceUrl: "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/"
-    ampUrl: "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/"
-    cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/"
+    webUrl: "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/"
     type: article
     provider:
       name: Forbes

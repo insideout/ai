@@ -3,9 +3,9 @@ category: news
 title: "Robots, chemical science to disrupt traditional waste industry"
 excerpt: "But all that may be about to change. Necessity is the mother of invention and around the world, start-ups are turning to chemical science, physics, AI, robotics and computer vision to realise solutions that could forever change the way the world digests waste. In Israel, UBQ sorts, grinds, chops, shreds and then cleans rotting food such as ..."
 publishedDateTime: 2020-01-24T10:40:00Z
-sourceUrl: "https://www.heraldsun.com.au/business/robots-chemical-science-to-disrupt-traditional-waste-industry/news-story/45ec185347328f23e8da9d92402318a0"
-ampUrl: "https://amp.heraldsun.com.au/business/robots-chemical-science-to-disrupt-traditional-waste-industry/news-story/45ec185347328f23e8da9d92402318a0"
-cdnAmpUrl: "https://amp-heraldsun-com-au.cdn.ampproject.org/c/s/amp.heraldsun.com.au/business/robots-chemical-science-to-disrupt-traditional-waste-industry/news-story/45ec185347328f23e8da9d92402318a0"
+webUrl: "https://www.heraldsun.com.au/business/robots-chemical-science-to-disrupt-traditional-waste-industry/news-story/45ec185347328f23e8da9d92402318a0"
+ampWebUrl: "https://amp.heraldsun.com.au/business/robots-chemical-science-to-disrupt-traditional-waste-industry/news-story/45ec185347328f23e8da9d92402318a0"
+cdnAmpWebUrl: "https://amp-heraldsun-com-au.cdn.ampproject.org/c/s/amp.heraldsun.com.au/business/robots-chemical-science-to-disrupt-traditional-waste-industry/news-story/45ec185347328f23e8da9d92402318a0"
 type: article
 quality: 39
 heat: 39

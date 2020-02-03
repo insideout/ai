@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence Adds to Resume for Image Analysis"
 excerpt: "Deep neural networks in radiology evolve by training on a large set of input parameters representing ... 294(2): 273-274. Source Reference: Chang PJ “Moving artificial intelligence from feasible to real: Time to drill for gas and build roads” Radiology 2020; 294(2): 432-433."
 publishedDateTime: 2020-01-24T23:06:00Z
-sourceUrl: "https://www.medpagetoday.com/radiology/diagnosticradiology/84536"
+webUrl: "https://www.medpagetoday.com/radiology/diagnosticradiology/84536"
 type: article
 quality: 39
 heat: 39

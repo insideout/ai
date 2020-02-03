@@ -3,7 +3,7 @@ category: news
 title: "Help Computer Vision Researchers, Get A 3d Model Of Your Living Room"
 excerpt: "A much more difficult test of computer vision lies in your living room. Finding a way around a coffee table and not knocking over a lamp present a huge challenge for any autonomous robot. Researchers at the Royal Institute of Technology in Sweden are ..."
 publishedDateTime: 2019-12-23T00:00:00Z
-sourceUrl: https://hackaday.com/2012/09/03/help-computer-vision-researchers-get-a-3d-model-of-your-living-room/
+webUrl: https://hackaday.com/2012/09/03/help-computer-vision-researchers-get-a-3d-model-of-your-living-room/
 type: article
 quality: 39
 heat: 39

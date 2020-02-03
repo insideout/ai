@@ -3,7 +3,7 @@ category: news
 title: "Mattel to launch 'sustainable plastic building blocks' | Former chancellor joins fintech firm | Scottish firms share green AI grant"
 excerpt: "Former chancellor Philip Hammond has joined UK fintech firm OakNorth to aid its growth plans ... Six companies are to share £170,000 of government funding to help tackle the global climate emergency using artificial intelligence (AI). The applicants have been chosen to develop AI-enabled technology through the Can Do Innovation Challenge ..."
 publishedDateTime: 2020-01-27T21:37:00Z
-sourceUrl: "https://www.heraldscotland.com/business_hq/18190718.mattel-launch-sustainable-plastic-building-blocks-former-chancellor-joins-fintech-firm-scottish-firms-share-green-ai-grant/"
+webUrl: "https://www.heraldscotland.com/business_hq/18190718.mattel-launch-sustainable-plastic-building-blocks-former-chancellor-joins-fintech-firm-scottish-firms-share-green-ai-grant/"
 type: article
 quality: 9
 heat: 9

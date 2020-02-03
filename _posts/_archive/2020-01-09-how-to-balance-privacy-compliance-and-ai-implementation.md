@@ -3,7 +3,7 @@ category: news
 title: "How to Balance Privacy Compliance and AI Implementation"
 excerpt: "Businesses may wish to publish AI or Data Usage Ethics Principles, as many companies (e.g., Microsoft) have done. These principles often go beyond what AI use is legally complaint and impose obligations related to ethics (what is the right thing to do with data and what are the customer expectations). In addition, policymakers have expressed ..."
 publishedDateTime: 2020-01-09T17:10:00Z
-sourceUrl: https://www.law.com/corpcounsel/2020/01/09/how-to-balance-privacy-compliance-and-ai-implementation/
+webUrl: https://www.law.com/corpcounsel/2020/01/09/how-to-balance-privacy-compliance-and-ai-implementation/
 type: article
 quality: 39
 heat: 39

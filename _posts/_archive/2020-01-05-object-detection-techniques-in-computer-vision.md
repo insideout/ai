@@ -3,7 +3,7 @@ category: news
 title: "Object Detection Techniques in Computer Vision"
 excerpt: "The SIFT method does not provide real-time object recognition due to expensive computation in feature detection and keypoint descriptor generation. SURF algorithms have detection techniques ..."
 publishedDateTime: 2020-01-05T19:42:00Z
-sourceUrl: "https://medium.com/swlh/object-detection-techniques-in-computer-vision-7c169771fb15"
+webUrl: "https://medium.com/swlh/object-detection-techniques-in-computer-vision-7c169771fb15"
 type: article
 quality: 69
 heat: 69

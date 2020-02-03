@@ -3,9 +3,9 @@ category: news
 title: "Stop & Shop's Marty the Robot turns 1"
 excerpt: "The store designed the robot to search for spills and potential hazards, and adds an element of artificial intelligence to the shopping experience. He calls to mind prophecies from decades ago that robots would start insinuating themselves into everyday life. In Isaac Asimov’s “I, Robot,” the bots start out like Marty helping out ..."
 publishedDateTime: 2020-01-31T11:25:00Z
-sourceUrl: "https://plymouth.wickedlocal.com/news/20200131/stop-amp-shops-marty-robot-turns-1"
-ampUrl: "https://plymouth.wickedlocal.com/news/20200131/stop-amp-shops-marty-robot-turns-1?template=ampart"
-cdnAmpUrl: "https://plymouth-wickedlocal-com.cdn.ampproject.org/c/s/plymouth.wickedlocal.com/news/20200131/stop-amp-shops-marty-robot-turns-1?template=ampart"
+webUrl: "https://plymouth.wickedlocal.com/news/20200131/stop-amp-shops-marty-robot-turns-1"
+ampWebUrl: "https://plymouth.wickedlocal.com/news/20200131/stop-amp-shops-marty-robot-turns-1?template=ampart"
+cdnAmpWebUrl: "https://plymouth-wickedlocal-com.cdn.ampproject.org/c/s/plymouth.wickedlocal.com/news/20200131/stop-amp-shops-marty-robot-turns-1?template=ampart"
 type: article
 quality: 59
 heat: 59

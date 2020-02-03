@@ -3,7 +3,7 @@ category: news
 title: "ESG Technical Validation: Predict and Optimize Business Outcomes with IBM Decision Optimization for Watson Studio and IBM Cloud Pak for Data"
 excerpt: "ESG recently completed testing of IBM Decision Optimization for Watson Studio, which is designed to enable organizations to accelerate the value they can extract from AI more easily. Testing examined how IBM Watson Studio with Decision Optimization collects data, organizes an analytics foundation, and analyzes insights at scale—with a focus ..."
 publishedDateTime: 2020-01-03T01:08:00Z
-sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-esg-technical-validation-predict-and-optimize-business-outcomes-ds-os-us.aspx?tc=page0
+webUrl: https://adtmag.com/whitepapers/2019/12/ibm-esg-technical-validation-predict-and-optimize-business-outcomes-ds-os-us.aspx?tc=page0
 type: article
 quality: 0
 heat: -1
@@ -21,9 +21,9 @@ related:
   - title: "IBM’s Watson Uses AI to Optimize Commercial Creative"
     excerpt: "IBM launched a new product, Advertising Accelerator with Watson, which uses artificial intelligence to predict which creative elements will result in the highest engagement and conversion for a targeted audience. IBM said the product, introduced at CES In ..."
     publishedDateTime: 2020-01-07T12:00:00Z
-    sourceUrl: https://www.broadcastingcable.com/news/ibms-watson-uses-ai-to-optimize-commercial-creative
-    ampUrl: https://www.broadcastingcable.com/.amp/news/ibms-watson-uses-ai-to-optimize-commercial-creative
-    cdnAmpUrl: https://www-broadcastingcable-com.cdn.ampproject.org/c/s/www.broadcastingcable.com/.amp/news/ibms-watson-uses-ai-to-optimize-commercial-creative
+    webUrl: https://www.broadcastingcable.com/news/ibms-watson-uses-ai-to-optimize-commercial-creative
+    ampWebUrl: https://www.broadcastingcable.com/.amp/news/ibms-watson-uses-ai-to-optimize-commercial-creative
+    cdnAmpWebUrl: https://www-broadcastingcable-com.cdn.ampproject.org/c/s/www.broadcastingcable.com/.amp/news/ibms-watson-uses-ai-to-optimize-commercial-creative
     type: article
     provider:
       name: Broadcasting & Cable
@@ -36,7 +36,7 @@ related:
   - title: "IBM Watson AI to Combine Segmentation and Dynamic Creative in New Beta Offering"
     excerpt: "“And similar to what we’ve done with weather and weather insights, we wanted brands to use AI to uncover insights about their business, and [Advertising] Accelerator [with Watson] is the next step.” Creative optimization and analytics by IBM's Advertising Accelerator with WatsonIBM"
     publishedDateTime: 2020-01-07T19:17:00Z
-    sourceUrl: https://www.dmnews.com/marketing-channels/article/21108865/ibm-watson-ai-to-combine-segmentation-and-dynamic-creative-in-new-beta-offering
+    webUrl: https://www.dmnews.com/marketing-channels/article/21108865/ibm-watson-ai-to-combine-segmentation-and-dynamic-creative-in-new-beta-offering
     type: article
     provider:
       name: Direct Marketing News
@@ -49,7 +49,7 @@ related:
   - title: "IBM launches creative assessment tool"
     excerpt: "IBM's Advertising Accelerator utilizes Watson’s AI in order to help advertisers better understand the creative preferences of an audience segment, and stop attempting outreach to unresponsive audiences in the process. Ad targeting enables marketers to identify core customers, who are often overserved with..."
     publishedDateTime: 2020-01-07T22:30:00Z
-    sourceUrl: https://www.campaignasia.com/article/ibm-launches-creative-assessment-tool/456463
+    webUrl: https://www.campaignasia.com/article/ibm-launches-creative-assessment-tool/456463
     type: article
     provider:
       name: campaignasia.com

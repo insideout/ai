@@ -3,9 +3,9 @@ category: news
 title: "What it’s like to ride in a self-driving Lyft"
 excerpt: "At CES, the consumer electronics trade show in Las Vegas this week, I hit the jackpot: getting picked up in a self-driving Lyft. A few days ago, when I arrived in the city and opened the Lyft app ..."
 publishedDateTime: 2020-01-09T14:38:00Z
-sourceUrl: "https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/"
-ampUrl: "https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/"
-cdnAmpUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/"
+webUrl: "https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/"
+ampWebUrl: "https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/"
+cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/"
 type: article
 quality: 74
 heat: 84
@@ -33,7 +33,7 @@ related:
   - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
     excerpt: "The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo has obtained 120 such ..."
     publishedDateTime: 2020-01-10T05:50:00Z
-    sourceUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
+    webUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
     type: article
     provider:
       name: Steel News

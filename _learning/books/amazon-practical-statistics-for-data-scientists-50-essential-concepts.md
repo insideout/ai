@@ -1,7 +1,7 @@
 ---
 title: "Practical Statistics for Data Scientists: 50 Essential Concepts"
 excerpt: "Statistical methods are a key part of data science, yet very few data scientists have any formal statistics training. Courses and books on basic statistics rarely cover the topic from a data science perspective. This practical guide explains how to apply various statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what's important and what's not."
-sourceUrl: https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/
+webUrl: https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/
 type: book
 price: $28.40
 length: 

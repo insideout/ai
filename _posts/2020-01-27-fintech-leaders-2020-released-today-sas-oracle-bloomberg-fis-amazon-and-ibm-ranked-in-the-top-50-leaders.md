@@ -3,7 +3,7 @@ category: news
 title: "FinTech Leaders 2020 Released Today - SAS, Oracle, Bloomberg, FIS, Amazon, and IBM ranked in the Top 50 Leaders!"
 excerpt: "CeFPro anticipates that 2020 will bring increased transformation, evolution and innovation – FinTech Leaders provides an insight into the status of the industry, from the leading opportunities in advanced analytics and AI, to investment priorities of security, payments and regtech, while embracing enhanced customer experience and the key ..."
 publishedDateTime: 2020-01-27T12:10:00Z
-sourceUrl: "https://pressat.co.uk/releases/fintech-leaders-2020-released-today-sas-oracle-bloomberg-fis-amazon-and-ibm-ranked-in-the-top-50-leaders-41d8eaceb62724612e84131c61abe449/"
+webUrl: "https://pressat.co.uk/releases/fintech-leaders-2020-released-today-sas-oracle-bloomberg-fis-amazon-and-ibm-ranked-in-the-top-50-leaders-41d8eaceb62724612e84131c61abe449/"
 type: article
 quality: 0
 heat: 0

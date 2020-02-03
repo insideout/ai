@@ -3,7 +3,7 @@ category: news
 title: "Covariant launches from stealth to bring universal AI to robots"
 excerpt: "/PRNewswire/ -- Covariant, a leading AI Robotics company, launched from stealth today to announce that its artificial intelligence has been deployed and"
 publishedDateTime: 2020-01-29T10:05:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/covariant-launches-from-stealth-to-bring-universal-ai-to-robots-300995185.html"
+webUrl: "https://www.prnewswire.com/news-releases/covariant-launches-from-stealth-to-bring-universal-ai-to-robots-300995185.html"
 type: article
 quality: 54
 heat: 54

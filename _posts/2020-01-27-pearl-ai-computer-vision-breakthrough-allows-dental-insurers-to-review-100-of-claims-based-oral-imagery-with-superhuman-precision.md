@@ -3,7 +3,7 @@ category: news
 title: "Pearl AI Computer Vision Breakthrough Allows Dental Insurers To Review 100% Of Claims-based Oral Imagery With Superhuman Precision"
 excerpt: "/PRNewswire/ -- Pearl today announced two new breakthrough software products in the application of artificial intelligence and computer vision to"
 publishedDateTime: 2020-01-27T14:07:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/pearl-ai-computer-vision-breakthrough-allows-dental-insurers-to-review-100-of-claims-based-oral-imagery-with-superhuman-precision-300992762.html"
+webUrl: "https://www.prnewswire.com/news-releases/pearl-ai-computer-vision-breakthrough-allows-dental-insurers-to-review-100-of-claims-based-oral-imagery-with-superhuman-precision-300992762.html"
 type: article
 quality: 24
 heat: 24

@@ -1,7 +1,7 @@
 ---
 title: "Sequences, Time Series and Prediction"
 excerpt: "Learn Sequences, Time Series and Prediction from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This Specialization will teach you ..."
-sourceUrl: https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
+webUrl: https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
 type: course
 price: Free+
 length: 8 hours

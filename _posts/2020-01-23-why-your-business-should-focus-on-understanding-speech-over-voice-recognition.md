@@ -3,9 +3,9 @@ category: news
 title: "Why your business should focus on understanding speech over voice recognition"
 excerpt: "If you have ever had to repeat “yes” six times to your automated telephone banking assistant, you’d be forgiven for thinking that automatic speech recognition (ASR) has a long way yet to go."
 publishedDateTime: 2020-01-23T10:44:00Z
-sourceUrl: "https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/"
-ampUrl: "https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/"
-cdnAmpUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/"
+webUrl: "https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/"
+ampWebUrl: "https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/"
 type: article
 quality: 71
 heat: 81
@@ -33,7 +33,7 @@ related:
   - title: "what3words Voice API features Speechmatics automatic speech recognition technology"
     excerpt: "what3words has entered a partnership with automated speech recognition software provider Speechmatics for users to enter their what3words address by voice in their own language, the company announced. Under the partnership, the what3words Voice API leverages machine learning and automatic speech recognition from Speechmatics to deliver an API ..."
     publishedDateTime: 2020-01-20T19:06:00Z
-    sourceUrl: "https://www.biometricupdate.com/202001/what3words-voice-api-features-speechmatics-automatic-speech-recognition-technology"
+    webUrl: "https://www.biometricupdate.com/202001/what3words-voice-api-features-speechmatics-automatic-speech-recognition-technology"
     type: article
     provider:
       name: Biometric Companies

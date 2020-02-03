@@ -3,7 +3,7 @@ category: news
 title: "Discrimination By Artificial Intelligence In A Commercial Electronic Health Record—A Case Study"
 excerpt: "When artificial intelligence (AI) is built into electronic health record (EHR) software, who is responsible for the consequences? Does responsibility lie exclusively with the hospital or health system that uses the vendor’s software, or is responsibility shared with the EHR vendor? What role should regulators, such as the Food and Drug ..."
 publishedDateTime: 2020-01-31T15:09:00Z
-sourceUrl: "https://www.healthaffairs.org/do/10.1377/hblog20200128.626576/full/"
+webUrl: "https://www.healthaffairs.org/do/10.1377/hblog20200128.626576/full/"
 type: article
 quality: 9
 heat: 9

@@ -3,7 +3,7 @@ category: news
 title: "Cloud Services Survey Reveals Critical Need for AI-Driven Continuous Optimization"
 excerpt: "/PRNewswire/ -- Opsani today announced the results of a year-long survey of hundreds of enterprises running cloud services that revealed a critical need"
 publishedDateTime: 2020-01-23T14:00:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/cloud-services-survey-reveals-critical-need-for-ai-driven-continuous-optimization-300992032.html"
+webUrl: "https://www.prnewswire.com/news-releases/cloud-services-survey-reveals-critical-need-for-ai-driven-continuous-optimization-300992032.html"
 type: article
 quality: 14
 heat: 14

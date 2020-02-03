@@ -3,7 +3,7 @@ category: news
 title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
 excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
 publishedDateTime: 2020-01-17T22:05:00Z
-sourceUrl: "https://www.commercialintegrator.com/podcast/facial-detection-episode-88/"
+webUrl: "https://www.commercialintegrator.com/podcast/facial-detection-episode-88/"
 type: article
 quality: 30
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "Smashing Security #162: Robocalls, health hacks, and facial recognition fears"
     excerpt: "A hospital gets hacked because of an ex-employee’s grudge, robocalls are on the rise, and we share a scary story about the future of facial recognition. All this and much more is discussed in the latest edition of the award-winning “Smashing Security” podcast by computer security veterans Graham Cluley and Carole Theriault, joined this ..."
     publishedDateTime: 2020-01-23T09:05:00Z
-    sourceUrl: "https://www.grahamcluley.com/smashing-security-162-robocalls-health-hacks-and-facial-recognition-fears/"
+    webUrl: "https://www.grahamcluley.com/smashing-security-162-robocalls-health-hacks-and-facial-recognition-fears/"
     type: article
     provider:
       name: Graham Cluley

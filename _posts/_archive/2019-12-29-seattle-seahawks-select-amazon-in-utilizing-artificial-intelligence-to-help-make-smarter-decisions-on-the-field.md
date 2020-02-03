@@ -3,7 +3,7 @@ category: news
 title: "Seattle Seahawks Select Amazon In Utilizing Artificial Intelligence To Help Make Smarter Decisions On The Field"
 excerpt: "The Seattle Seahawks will now be utilizing Amazon Web Services in bringing artificial intelligence and machine learning to their game preparation in hopes to make more efficient on the field decisions “As our official cloud provider, AWS will enable the ..."
 publishedDateTime: 2019-12-29T00:00:00Z
-sourceUrl: https://medium.com/futrsprtpodcast/seattle-seahawks-select-amazon-in-utilizing-artificial-intelligence-to-help-make-smarter-decisions-122ec0ac99f4
+webUrl: https://medium.com/futrsprtpodcast/seattle-seahawks-select-amazon-in-utilizing-artificial-intelligence-to-help-make-smarter-decisions-122ec0ac99f4
 type: article
 quality: 49
 heat: 49

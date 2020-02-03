@@ -3,7 +3,7 @@ category: news
 title: "New Promise for Those Who Suffer from Face Blindness"
 excerpt: "Face- and object-recognition tests were completed before and after the training period. Compared with those in a control condition (children who played only the traditional version of Guess Who?"
 publishedDateTime: 2019-12-26T13:01:00Z
-sourceUrl: https://www.scientificamerican.com/article/new-promise-for-those-who-suffer-from-face-blindness/
+webUrl: https://www.scientificamerican.com/article/new-promise-for-those-who-suffer-from-face-blindness/
 type: article
 quality: 24
 heat: 24

@@ -3,7 +3,7 @@ category: news
 title: "Report: Speed up drug development with artificial intelligence"
 excerpt: "The first part of the report, prepared by the National Academy of Medicine, is titled “Artificial Intelligence in Healthcare: the Hope, the Hype, the Promise, the Peril.” The second part, prepared by the GAO, is called “Artificial Intelligence in Health Care: Benefits and Challenges of Machine Learning in Drug Development.” The report ..."
 publishedDateTime: 2020-01-22T22:04:00Z
-sourceUrl: "https://www.rollcall.com/news/report-speed-drug-development-artificial-intelligence"
+webUrl: "https://www.rollcall.com/news/report-speed-drug-development-artificial-intelligence"
 type: article
 quality: 39
 heat: 39

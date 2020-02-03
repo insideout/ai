@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to Practical Deep Learning"
 excerpt: "Learn An Introduction to Practical Deep Learning from Intel. This course provides an introduction to Deep Learning, a field that aims to harness the enormous amounts of data that we are surrounded by with artificial neural networks, allowing for ..."
-sourceUrl: https://www.coursera.org/learn/intro-practical-deep-learning
+webUrl: https://www.coursera.org/learn/intro-practical-deep-learning
 type: course
 price: Free+
 length: 12 hours

@@ -3,7 +3,7 @@ category: news
 title: "Speech Analytics Market Witness a Robust Growth during 2019-2025 | Clarabridge, Nice Systems, Callminer, Avaya, Verint Systems"
 excerpt: "Speech analytics has an incorporation of big data analytics and predictive analytics as it offers an automatic voice recognition feature and helps in developing fundamental strategies and processes for a better performance. Audio mining and other aspects are taken into consideration to reach out to the unsatisfied customers and provide them ..."
 publishedDateTime: 2020-01-17T14:55:00Z
-sourceUrl: "https://www.openpr.com/news/1899979/speech-analytics-market-witness-a-robust-growth-during"
+webUrl: "https://www.openpr.com/news/1899979/speech-analytics-market-witness-a-robust-growth-during"
 type: article
 quality: 0
 heat: 0

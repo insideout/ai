@@ -3,9 +3,9 @@ category: news
 title: "How to design AI that eliminates disability bias"
 excerpt: "As AI is introduced into gadgets and services, stories of algorithmic discrimination have exposed the tendency of machine learning to magnify the prejudices that skew human decision-making against women and ethnic minorities, which machines were supposed to avoid. Equally rife, but less discussed, are AI’s repercussions for those with ..."
 publishedDateTime: 2020-01-27T04:00:00Z
-sourceUrl: "https://www.ft.com/content/f5bd21da-33b8-11ea-a329-0bcf87a328f2"
-ampUrl: "https://amp.ft.com/content/f5bd21da-33b8-11ea-a329-0bcf87a328f2"
-cdnAmpUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f5bd21da-33b8-11ea-a329-0bcf87a328f2"
+webUrl: "https://www.ft.com/content/f5bd21da-33b8-11ea-a329-0bcf87a328f2"
+ampWebUrl: "https://amp.ft.com/content/f5bd21da-33b8-11ea-a329-0bcf87a328f2"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f5bd21da-33b8-11ea-a329-0bcf87a328f2"
 type: article
 quality: 57
 heat: 57

@@ -3,7 +3,7 @@ category: news
 title: "NEON artificial humans at CES behave, converse, and sympathize just like real people"
 excerpt: "called the woven city, the hydrogen-powered ecosystem will be used to test and develop driverless vehicles, robotics, smart home technology and artificial intelligence. called the woven city, the hydrogen-powered ecosystem will be used to test and develop driverless vehicles, robotics, smart home technology and artificial intelligence."
 publishedDateTime: 2020-01-09T09:40:00Z
-sourceUrl: "https://www.designboom.com/technology/neon-artificial-human-ces-01-08-2020/?player=video"
+webUrl: "https://www.designboom.com/technology/neon-artificial-human-ces-01-08-2020/?player=video"
 type: article
 quality: 17
 heat: 17

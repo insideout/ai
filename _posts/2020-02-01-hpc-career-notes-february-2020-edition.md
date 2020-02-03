@@ -3,7 +3,7 @@ category: news
 title: "HPC Career Notes: February 2020 Edition"
 excerpt: "By applying machine learning, Neural Analytics’ Lucid Robotic System can enable physicians to ... Microsoft added Andrew Jones as part of the Azure HPC engineering & product team. Jones brings over 20 years of experience as a researcher and end-user. He also has a background in software developer, service provider and manager, procurement ..."
 publishedDateTime: 2020-02-01T16:04:00Z
-sourceUrl: "https://www.hpcwire.com/2020/02/01/hpc-career-notes-february-2020-edition/"
+webUrl: "https://www.hpcwire.com/2020/02/01/hpc-career-notes-february-2020-edition/"
 type: article
 quality: 24
 heat: 24

@@ -3,9 +3,9 @@ category: news
 title: "Microsoft Translator adds support for Irish Language"
 excerpt: "Peter Kavanagh, Green Party Irish Language Spokesperson and Co-founder of Pop Up Gaeltacht. Users can now find Irish language on all Microsoft Translator?apps,?add-ins,?Office,?Translator for Bing, and through the?Azure Cognitive Services?Translator API?for businesses and developers. With the Irish language support in Microsoft Translator ..."
 publishedDateTime: 2020-01-26T06:51:00Z
-sourceUrl: "https://mspoweruser.com/microsoft-translator-adds-support-for-irish-language/"
-ampUrl: "https://mspoweruser.com/microsoft-translator-adds-support-for-irish-language/amp/"
-cdnAmpUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-translator-adds-support-for-irish-language/amp/"
+webUrl: "https://mspoweruser.com/microsoft-translator-adds-support-for-irish-language/"
+ampWebUrl: "https://mspoweruser.com/microsoft-translator-adds-support-for-irish-language/amp/"
+cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-translator-adds-support-for-irish-language/amp/"
 type: article
 quality: 59
 heat: 59

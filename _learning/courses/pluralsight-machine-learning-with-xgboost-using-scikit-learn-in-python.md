@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning with XGBoost Using scikit-learn in Python"
 excerpt: "XGBoost is the most winning supervised machine learning approach in competitive modeling on structured datasets. This course will teach you the basics of XGBoost, including basic syntax, functions, and implementing the model in the real world. "
-sourceUrl: https://www.pluralsight.com/courses/xgboost-python-scikit-learn-machine-learning
+webUrl: https://www.pluralsight.com/courses/xgboost-python-scikit-learn-machine-learning
 type: course
 price: $$
 length: 1h 33m

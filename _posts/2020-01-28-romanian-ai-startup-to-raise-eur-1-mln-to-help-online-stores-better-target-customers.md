@@ -3,7 +3,7 @@ category: news
 title: "Romanian AI startup to raise EUR 1 mln to help online stores better target customers"
 excerpt: "Romanian startup MorphL, which has participated in an acceleration process with Techstars ... continue product development because it is a market where we have extremely many possibilities for development both in terms of AI and integration with other platforms,\" Borodescu stated. Essentially, MorphL provides online stores tools to optimise ..."
 publishedDateTime: 2020-01-28T06:12:00Z
-sourceUrl: "https://www.romania-insider.com/MorphL-talks-money-expansion-jan-2020"
+webUrl: "https://www.romania-insider.com/MorphL-talks-money-expansion-jan-2020"
 type: article
 quality: 30
 heat: 30

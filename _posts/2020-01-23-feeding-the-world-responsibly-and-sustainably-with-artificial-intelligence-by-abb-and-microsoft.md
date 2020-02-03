@@ -3,7 +3,7 @@ category: news
 title: "Feeding the world responsibly and sustainably with Artificial Intelligence by ABB and Microsoft"
 excerpt: "Through an artificial intelligence (AI) for salmon analytics pilot, ABB and Microsoft co-created a solution with NRS to produce quality food in a safer and more environmentally responsible way. The pilot showed that NRS can increase the efficiency and safety of its workers, who now aren’t required to be at open sea as often as before."
 publishedDateTime: 2020-01-23T13:52:00Z
-sourceUrl: "https://news.microsoft.com/de-ch/2020/01/22/feeding-the-world-responsibly-and-sustainably-with-artificial-intelligence-by-abb-and-microsoft/"
+webUrl: "https://news.microsoft.com/de-ch/2020/01/22/feeding-the-world-responsibly-and-sustainably-with-artificial-intelligence-by-abb-and-microsoft/"
 type: article
 quality: 40
 heat: 40

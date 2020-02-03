@@ -3,7 +3,7 @@ category: news
 title: "Tactile Telerobot brings human-like dexterity to robots"
 excerpt: "The dexterity of the Tactile Telerobot, which is available to “early access customers,” is rivaled only by OpenAI’s Dactyl Hand, which stunned the robotics world this past October with its agility in solving a Rubik’s cube one-handed. The demonstration promoted the use of artificial intelligence (AI) over mechanics in accomplishing an ..."
 publishedDateTime: 2020-01-29T15:49:00Z
-sourceUrl: "https://www.therobotreport.com/tactile-telerobot-human-like-dexterity-robots/"
+webUrl: "https://www.therobotreport.com/tactile-telerobot-human-like-dexterity-robots/"
 type: article
 quality: 49
 heat: 49

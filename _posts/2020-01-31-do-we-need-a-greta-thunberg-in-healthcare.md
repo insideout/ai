@@ -3,7 +3,7 @@ category: news
 title: "Do we need a Greta Thunberg in healthcare?"
 excerpt: "as well as artificial intelligence and other new technologies that may be game-changers if constructed properly. Just as climate change cannot be solved by the energy industry alone, health assurance cannot be solved by the healthcare delivery industry alone. At Davos, I served as a distinguished fellow of the World Economic Forum, charged with ..."
 publishedDateTime: 2020-01-31T15:51:00Z
-sourceUrl: "https://www.modernhealthcare.com/opinion-editorial/do-we-need-greta-thunberg-healthcare"
+webUrl: "https://www.modernhealthcare.com/opinion-editorial/do-we-need-greta-thunberg-healthcare"
 type: article
 quality: 39
 heat: 39

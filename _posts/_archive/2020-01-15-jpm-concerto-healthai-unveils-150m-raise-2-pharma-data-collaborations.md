@@ -3,7 +3,7 @@ category: news
 title: "JPM: Concerto HealthAI unveils $150M raise, 2 pharma data collaborations"
 excerpt: "That includes an expansion of its precision oncology collaboration with Pfizer to renal cell carcinoma and prostate cancer as well as a new, multi-disease artificial intelligence project with Johnson & Johnson ... as well as its expansions into additional therapy areas and commercial patient solutions, the company said."
 publishedDateTime: 2020-01-15T23:50:00Z
-sourceUrl: "https://www.fiercebiotech.com/medtech/jpm-concerto-healthai-unveils-150m-raise-two-pharma-data-collaborations"
+webUrl: "https://www.fiercebiotech.com/medtech/jpm-concerto-healthai-unveils-150m-raise-two-pharma-data-collaborations"
 type: article
 quality: 38
 heat: 38
@@ -27,7 +27,7 @@ related:
   - title: "JPM: Concerto HealthAI unveils $150M raise, t2 pharma data collaborations"
     excerpt: "That includes an expansion of its precision oncology collaboration with Pfizer to renal cell carcinoma and prostate cancer as well as a new, multi-disease artificial intelligence project ... expansions into additional therapy areas and commercial patient ..."
     publishedDateTime: 2020-01-15T23:50:00Z
-    sourceUrl: "https://www.fiercebiotech.com/medtech/jpm-concerto-healthai-unveils-150m-raise-two-pharma-data-collaborations"
+    webUrl: "https://www.fiercebiotech.com/medtech/jpm-concerto-healthai-unveils-150m-raise-two-pharma-data-collaborations"
     type: article
     provider:
       name: FierceBiotech

@@ -3,7 +3,7 @@ category: news
 title: "When Algorithms Make Art: Immersive Art Installation Exhibits Machine-Learning"
 excerpt: "An immersive art installation in New York City has visitors captivated. The team behind the popular attraction? It’s part human and part machine-learning algorithms. VOA’s Tina Trinh looks at what happens when artificial intelligence becomes part of the creative process"
 publishedDateTime: 2020-01-21T15:14:00Z
-sourceUrl: "https://www.voanews.com/episode/when-algorithms-make-art-immersive-art-installation-exhibits-machine-learning-4163451"
+webUrl: "https://www.voanews.com/episode/when-algorithms-make-art-immersive-art-installation-exhibits-machine-learning-4163451"
 type: article
 quality: 20
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "How to select algorithms for Azure Machine Learning"
     excerpt: "Specifically, what is the business question you want to answer by learning from your past data? What are the requirements of your data science scenario? Specifically, what is the accuracy, training time, linearity, number of parameters, and number of features your solution supports? Along with guidance in the Azure Machine Learning Algorithm ..."
     publishedDateTime: 2020-01-22T23:52:00Z
-    sourceUrl: "https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms"
+    webUrl: "https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms"
     type: article
     provider:
       name: Microsoft

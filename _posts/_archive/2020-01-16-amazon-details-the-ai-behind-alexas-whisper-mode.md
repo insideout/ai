@@ -3,9 +3,9 @@ category: news
 title: "Amazon details the AI behind Alexa’s Whisper Mode"
 excerpt: "In October 2018, months after a brief reveal, Amazon brought Whisper Mode to select third- and first-party Alexa devices. It expanded the feature to all locales in November 2019, such that all smart and smart home appliances powered by Alexa — the company’s virtual assistant — now respond to whispered speech by whispering back. Amazon was ..."
 publishedDateTime: 2020-01-16T18:10:00Z
-sourceUrl: "https://venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/"
-ampUrl: "https://venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/amp/"
+webUrl: "https://venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/"
+ampWebUrl: "https://venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/amp/"
 type: article
 quality: 87
 heat: 87

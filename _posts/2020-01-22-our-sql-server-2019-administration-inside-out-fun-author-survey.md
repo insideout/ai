@@ -3,7 +3,7 @@ category: news
 title: "Our SQL Server 2019 Administration Inside Out Fun Author Survey"
 excerpt: "For net new chapters (for example, our entirely new final chapter on Big Data and Machine Learning features of SQL Server 2019 ... and used the opportunity to convert some of my SSMS work into Azure data studio notebooks where I could. William Assaf: At home, with the same exactly three-wide screen setup as the last book."
 publishedDateTime: 2020-01-22T22:52:00Z
-sourceUrl: "https://www.sqlservercentral.com/blogs/our-sql-server-2019-administration-inside-out-fun-author-survey"
+webUrl: "https://www.sqlservercentral.com/blogs/our-sql-server-2019-administration-inside-out-fun-author-survey"
 type: article
 quality: 24
 heat: 24

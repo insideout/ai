@@ -3,7 +3,7 @@ category: news
 title: "95% Of The Last 22 Lyft SA Articles Were Bearish Or Neutral: Why I'm Bullish"
 excerpt: "To summarize, it has to do with unparalleled innovation, automation, the internet, logistics, powerful new software, a highly educated workforce, the cloud, artificial intelligence, scale ... Lyft is already experimenting picking up riders with Waymo (Google) driverless cars in Las Vegas and Phoenix. 10. Insurance rates coming down - Management ..."
 publishedDateTime: 2020-01-23T20:37:00Z
-sourceUrl: "https://seekingalpha.com/article/4318630-95-of-last-22-lyft-sa-articles-bearish-neutral-why-bullish"
+webUrl: "https://seekingalpha.com/article/4318630-95-of-last-22-lyft-sa-articles-bearish-neutral-why-bullish"
 type: article
 quality: 21
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "95% Of The Last 22 Lyft SA Articles Were Bearish Or Neutral: Yet Lyft Is Part Of A Duopoly Raising Prices"
     excerpt: "To summarize, it has to do with unparalleled innovation, automation, the internet, logistics, powerful new software, a highly educated workforce, the cloud, artificial intelligence, scale ... Lyft is already experimenting picking up riders with Waymo (Google) driverless cars in Las Vegas and Phoenix. 10. Insurance rates coming down - Management ..."
     publishedDateTime: 2020-01-23T18:34:00Z
-    sourceUrl: "https://seekingalpha.com/article/4318630-95-of-last-22-lyft-sa-articles-bearish-neutral-yet-lyft-is-part-of-duopoly-raising-prices"
+    webUrl: "https://seekingalpha.com/article/4318630-95-of-last-22-lyft-sa-articles-bearish-neutral-yet-lyft-is-part-of-duopoly-raising-prices"
     type: article
     provider:
       name: Seeking Alpha

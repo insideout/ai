@@ -3,9 +3,9 @@ category: news
 title: "U.S. to outline strong support for self-driving cars at CES"
 excerpt: "LAS VEGAS (Reuters) - The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at the annual CES tech conference."
 publishedDateTime: 2020-01-08T21:43:00Z
-sourceUrl: "https://www.reuters.com/article/us-tech-ces-selfdriving-idUSKBN1Z72I1"
-ampUrl: "https://mobile.reuters.com/article/amp/idUSKBN1Z72I1"
-cdnAmpUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z72I1"
+webUrl: "https://www.reuters.com/article/us-tech-ces-selfdriving-idUSKBN1Z72I1"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1Z72I1"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z72I1"
 type: article
 quality: 74
 heat: -1
@@ -33,9 +33,9 @@ related:
   - title: "LIDAR sensors aren’t just for self-driving cars anymore"
     excerpt: "Most people will recognize a self-driving car based on the whirling sensor perched on the roof. LIDAR, which stands for Light Detection and Ranging, uses laser pulses to build a 3D model of the ..."
     publishedDateTime: 2020-01-07T19:18:00Z
-    sourceUrl: "https://www.theverge.com/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020"
-    ampUrl: "https://www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020"
-    cdnAmpUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020"
+    webUrl: "https://www.theverge.com/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020"
     type: article
     provider:
       name: The Verge
@@ -48,9 +48,9 @@ related:
   - title: "Qualcomm announces chips for self-driving cars that could be in cars by 2023"
     excerpt: "The system will support features like lane-keeping as well as the development of full self-driving applications like robo-taxis. Qualcomm silicon is the processor at the heart of millions of ..."
     publishedDateTime: 2020-01-06T19:57:00Z
-    sourceUrl: "https://www.cnbc.com/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html"
-    ampUrl: "https://www.cnbc.com/amp/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html"
-    cdnAmpUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html"
+    webUrl: "https://www.cnbc.com/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html"
     type: article
     provider:
       name: CNBC
@@ -63,7 +63,7 @@ related:
   - title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
     excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their ..."
     publishedDateTime: 2020-01-09T17:06:00Z
-    sourceUrl: "https://www.extremetech.com/electronics/304053-for-self-driving-cars-lidar-amps-up-at-ces-2020"
+    webUrl: "https://www.extremetech.com/electronics/304053-for-self-driving-cars-lidar-amps-up-at-ces-2020"
     type: article
     provider:
       name: ExtremeTech

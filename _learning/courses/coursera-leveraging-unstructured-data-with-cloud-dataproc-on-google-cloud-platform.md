@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform"
 excerpt: "Learn Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform from Google Cloud. This 1-week, accelerated course builds upon previous courses in the Data Engineering on Google Cloud Platform specialization. Through a combination ..."
-sourceUrl: https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp
+webUrl: https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp
 type: course
 price: Free+
 length: 9 hours

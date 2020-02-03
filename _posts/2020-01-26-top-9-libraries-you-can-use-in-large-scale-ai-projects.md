@@ -3,7 +3,7 @@ category: news
 title: "Top 9 Libraries You Can Use In Large-Scale AI Projects"
 excerpt: "Built in the labs of Berkeley AI, Tune was built to address the shortcomings of ad-hoc experiment execution ... MXNet is portable and lightweight, scaling effectively to multiple GPUs and multiple machines. The NVIDIA cuBLAS library is a fast GPU-accelerated implementation. Using cuBLAS APIs, users can speed up your applications by deploying ..."
 publishedDateTime: 2020-01-26T05:03:00Z
-sourceUrl: "https://analyticsindiamag.com/top-libraries-large-scale-data-science-ai-spark-dask-ray-tune-ml/"
+webUrl: "https://analyticsindiamag.com/top-libraries-large-scale-data-science-ai-spark-dask-ray-tune-ml/"
 type: article
 quality: 39
 heat: 39

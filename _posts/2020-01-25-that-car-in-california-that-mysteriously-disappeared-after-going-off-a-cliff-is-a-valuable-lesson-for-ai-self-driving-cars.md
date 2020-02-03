@@ -3,9 +3,9 @@ category: news
 title: "That Car In California That Mysteriously Disappeared After Going Off A Cliff Is A Valuable Lesson For AI Self-Driving Cars"
 excerpt: "Lessons learned for self-driving cars due to a conventional car that went off a cliff and disappeared altogether."
 publishedDateTime: 2020-01-25T15:26:00Z
-sourceUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/"
-ampUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/"
+webUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/"
 type: article
 quality: 63
 heat: 63

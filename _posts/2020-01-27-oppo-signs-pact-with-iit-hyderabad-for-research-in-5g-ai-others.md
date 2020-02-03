@@ -3,9 +3,9 @@ category: news
 title: "OPPO signs pact with IIT Hyderabad for research in 5G, AI, others"
 excerpt: "It envisages joint research and development for multiple projects over a period of two years for the development of new technologies in areas specific to camera and image processing, battery, networks (5G), system performance and Artificial Intelligence, among other areas, the release said. Can Facebook have your data and yet not have it?"
 publishedDateTime: 2020-01-27T07:39:00Z
-sourceUrl: "https://www.financialexpress.com/industry/technology/oppo-signs-pact-with-iit-hyderabad-for-research-in-5g-ai-others/1836084/"
-ampUrl: "https://www.financialexpress.com/industry/technology/oppo-signs-pact-with-iit-hyderabad-for-research-in-5g-ai-others/1836084/lite/"
-cdnAmpUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/oppo-signs-pact-with-iit-hyderabad-for-research-in-5g-ai-others/1836084/lite/"
+webUrl: "https://www.financialexpress.com/industry/technology/oppo-signs-pact-with-iit-hyderabad-for-research-in-5g-ai-others/1836084/"
+ampWebUrl: "https://www.financialexpress.com/industry/technology/oppo-signs-pact-with-iit-hyderabad-for-research-in-5g-ai-others/1836084/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/oppo-signs-pact-with-iit-hyderabad-for-research-in-5g-ai-others/1836084/lite/"
 type: article
 quality: 39
 heat: 39

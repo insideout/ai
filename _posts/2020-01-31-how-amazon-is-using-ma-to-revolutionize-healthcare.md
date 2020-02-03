@@ -3,7 +3,7 @@ category: news
 title: "How Amazon is using M&A to revolutionize healthcare"
 excerpt: "Artificial intelligence in healthcare saw about $4 billion in funding across 367 deals in 2019, according to data and research firm CB Insights. Shortly after Amazon announced its purchase of Health Navigator, the company launched Transcribe Medical, a medical transcription service that captures conversations between doctors and patients and ..."
 publishedDateTime: 2020-01-31T20:15:00Z
-sourceUrl: "https://www.themiddlemarket.com/news/how-amazon-is-using-m-a-to-revolutionize-healthcare"
+webUrl: "https://www.themiddlemarket.com/news/how-amazon-is-using-m-a-to-revolutionize-healthcare"
 type: article
 quality: 39
 heat: 39

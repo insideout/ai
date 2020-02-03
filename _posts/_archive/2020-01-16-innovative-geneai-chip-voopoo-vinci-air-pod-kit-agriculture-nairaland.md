@@ -3,7 +3,7 @@ category: news
 title: "Innovative GENE.AI Chip: Voopoo Vinci Air Pod Kit - Agriculture - Nairaland"
 excerpt: "Voopoo Vinci Air Pod System Kit powered by 900mAh built-in battery. It's the new version for Vinci. Voopoo VINCI AIR Pod System Kit features automatic and manual dual start mode. It's owned two air inlets, two ignition methods. This pod kit also adopts inward-looking screen to display the real-time parameters."
 publishedDateTime: 2020-01-16T06:02:00Z
-sourceUrl: "https://www.nairaland.com/5634066/innovative-gene.ai-chip-voopoo-vinci"
+webUrl: "https://www.nairaland.com/5634066/innovative-gene.ai-chip-voopoo-vinci"
 type: article
 quality: 52
 heat: 52

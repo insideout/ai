@@ -3,9 +3,9 @@ category: news
 title: "Facebook defies China headwinds with new ad sales push"
 excerpt: "Facebook is setting up a new engineering ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights ..."
 publishedDateTime: 2020-01-07T12:35:00Z
-sourceUrl: https://www.scmp.com/tech/big-tech/article/3045061/facebook-defies-china-headwinds-new-ad-sales-push
-ampUrl: https://amp.scmp.com/tech/big-tech/article/3045061/facebook-defies-china-headwinds-new-ad-sales-push
-cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3045061/facebook-defies-china-headwinds-new-ad-sales-push
+webUrl: https://www.scmp.com/tech/big-tech/article/3045061/facebook-defies-china-headwinds-new-ad-sales-push
+ampWebUrl: https://amp.scmp.com/tech/big-tech/article/3045061/facebook-defies-china-headwinds-new-ad-sales-push
+cdnAmpWebUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3045061/facebook-defies-china-headwinds-new-ad-sales-push
 type: article
 quality: 24
 heat: 24

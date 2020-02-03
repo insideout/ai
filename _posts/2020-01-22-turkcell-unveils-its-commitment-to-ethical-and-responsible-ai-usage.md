@@ -3,7 +3,7 @@ category: news
 title: "Turkcell unveils its commitment to ethical and responsible AI usage"
 excerpt: "The initiative aims to make the company one of the key global contributors to AI ethics and also the first in the country to announce concrete AI principles. Turkcell CMO, Omer Barbaros Yis, said: “AI should be raised like children and we commit to teach better as responsible parents. Today we share our principles and our commitment to help ..."
 publishedDateTime: 2020-01-22T00:10:00Z
-sourceUrl: "https://www.telecomstechnews.com/news/2020/jan/21/turkcell-unveils-its-commitment-ethical-and-responsible-ai-usage/"
+webUrl: "https://www.telecomstechnews.com/news/2020/jan/21/turkcell-unveils-its-commitment-ethical-and-responsible-ai-usage/"
 type: article
 quality: 54
 heat: 54

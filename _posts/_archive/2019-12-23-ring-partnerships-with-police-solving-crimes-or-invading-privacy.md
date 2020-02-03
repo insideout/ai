@@ -3,7 +3,7 @@ category: news
 title: "Ring partnerships with police: Solving crimes or invading privacy?"
 excerpt: "A 2016 promotional video for Amazon Rekognition says it delivers \"high quality person tracking.\" It's a concept the ACLU finds extremely disturbing. \"Facial recognition has the potential to ..."
 publishedDateTime: 2019-12-23T06:55:00Z
-sourceUrl: https://www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy
+webUrl: https://www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy
 type: article
 quality: 4
 heat: 4

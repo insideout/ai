@@ -3,7 +3,7 @@ category: news
 title: "Unsupervised Deep Image Fusion With Structure Tensor Representations"
 excerpt: "However, applying them to image fusion has remained challenging due to the lack of the labelled data for supervised learning. This paper introduces a deep image fusion network (DIF-Net), an unsupervised deep learning framework for image fusion. The DIF-Net parameterizes the entire processes of image fusion, comprising of feature extraction ..."
 publishedDateTime: 2020-01-31T00:44:00Z
-sourceUrl: "https://ieeexplore.ieee.org/document/8962327"
+webUrl: "https://ieeexplore.ieee.org/document/8962327"
 type: article
 quality: 4
 heat: 4

@@ -3,9 +3,9 @@ category: news
 title: "Brits would push a fat man off a bridge to save lives, says Exeter boffins"
 excerpt: "The innovative new research could have serious implications for the development of Artificial Intelligence, such as driverless cars, and the future of ethical programming. Most people in the UK would push a fat man off a bridge to stop a train killing a group of people on the track, a study by boffins at Exeter University has found. Researchers ..."
 publishedDateTime: 2020-01-21T17:27:00Z
-sourceUrl: "https://www.devonlive.com/news/devon-news/brits-would-push-fat-man-3763073"
-ampUrl: "https://www.devonlive.com/news/devon-news/brits-would-push-fat-man-3763073.amp"
-cdnAmpUrl: "https://www-devonlive-com.cdn.ampproject.org/c/s/www.devonlive.com/news/devon-news/brits-would-push-fat-man-3763073.amp"
+webUrl: "https://www.devonlive.com/news/devon-news/brits-would-push-fat-man-3763073"
+ampWebUrl: "https://www.devonlive.com/news/devon-news/brits-would-push-fat-man-3763073.amp"
+cdnAmpWebUrl: "https://www-devonlive-com.cdn.ampproject.org/c/s/www.devonlive.com/news/devon-news/brits-would-push-fat-man-3763073.amp"
 type: article
 quality: 42
 heat: 42

@@ -3,7 +3,7 @@ category: news
 title: "Facebook recommends rules for independent oversight board which could overrule Zuckerberg"
 excerpt: "Facebook, which has recently come under fire over its decision not to fact-check politicians’ ads, also said that the types of content that the board can review will later increase to include ads, Groups and Pages. Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you ..."
 publishedDateTime: 2020-01-29T02:12:00Z
-sourceUrl: "https://www.scmp.com/tech/big-tech/article/3047987/facebook-recommends-rules-independent-oversight-board-which-could"
+webUrl: "https://www.scmp.com/tech/big-tech/article/3047987/facebook-recommends-rules-independent-oversight-board-which-could"
 type: article
 quality: 0
 heat: 0

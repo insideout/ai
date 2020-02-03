@@ -3,7 +3,7 @@ category: news
 title: "Sales of semiconductors performing AI functions set to triple by 2025, says IHS"
 excerpt: "The processor segment will expand slightly faster, growing to US$68.5 billion in 2025, up from US$22.2 billion in 2019. AI chips are used widely in various markets, including automotive, communication, computers, consumer electronics, industrial and healthcare. The largest single market for memory devices in AI applications is the computer ..."
 publishedDateTime: 2020-01-30T02:42:00Z
-sourceUrl: "https://www.digitimes.com/news/a20200130PR200.html"
+webUrl: "https://www.digitimes.com/news/a20200130PR200.html"
 type: article
 quality: 15
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "Semiconductors with AI functions to triple revenue by 2025"
     excerpt: "Chips that are used for artificial intelligence (AI) applications are set for massive growth in the next five years as use of the technology expands across a variety of markets, according to new research from IHS Markit. Memory and processing semiconductors with AI functions will grow to $128.9 billion in 2025, three times the $42.8 billion ..."
     publishedDateTime: 2020-01-30T13:13:00Z
-    sourceUrl: "https://electronics360.globalspec.com/article/14617/semiconductors-with-ai-functions-to-triple-revenue-by-2025"
+    webUrl: "https://electronics360.globalspec.com/article/14617/semiconductors-with-ai-functions-to-triple-revenue-by-2025"
     type: article
     provider:
       name: Engineering360 News

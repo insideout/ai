@@ -3,9 +3,9 @@ category: news
 title: "Facial and voice recognition in cars sounds like a privacy nightmare"
 excerpt: "Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data ..."
 publishedDateTime: 2020-01-09T16:01:00Z
-sourceUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
-ampUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
-cdnAmpUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
+webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
+ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
 type: article
 quality: 74
 heat: 94
@@ -29,7 +29,7 @@ related:
   - title: "Speech recognition and voice commands for your site"
     excerpt: "Many of the smart devices we use every day support speech recognition technology. We use the voice to search for information, buy goods, even manage other devices. The tech giants use voice search ..."
     publishedDateTime: 2020-01-04T10:34:00Z
-    sourceUrl: "https://medium.com/voice-tech-podcast/speech-recognition-and-voice-commands-for-your-site-e1931d60ba03"
+    webUrl: "https://medium.com/voice-tech-podcast/speech-recognition-and-voice-commands-for-your-site-e1931d60ba03"
     type: article
     provider:
       name: Medium
@@ -42,9 +42,9 @@ related:
   - title: "What is Voice Recognition"
     excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
     publishedDateTime: 2020-01-11T11:41:00Z
-    sourceUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
-    ampUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
-    cdnAmpUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
+    webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
+    ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
+    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
     type: article
     provider:
       name: TWCN Tech News

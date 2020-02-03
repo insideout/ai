@@ -3,7 +3,7 @@ category: news
 title: "5 Open-Source Startups That Are Making It Big In 2020"
 excerpt: "For one, Facebook and Google have hosted their deep learning frameworks PyTorch and Tensorflow to expedite its developments. Such initiatives have not only helped the firms that host their projects but also assist various technology community. Over the years, open-source has witnessed massive success in some projects, enabling the hosts to make ..."
 publishedDateTime: 2020-01-30T11:47:00Z
-sourceUrl: "https://analyticsindiamag.com/5-open-source-startups-that-are-making-it-big-in-2020/"
+webUrl: "https://analyticsindiamag.com/5-open-source-startups-that-are-making-it-big-in-2020/"
 type: article
 quality: 24
 heat: 24

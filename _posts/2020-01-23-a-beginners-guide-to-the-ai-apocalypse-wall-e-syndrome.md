@@ -3,7 +3,7 @@ category: news
 title: "A beginner’s guide to the AI apocalypse: Wall-E syndrome"
 excerpt: "Without our current AI – Google Search and Amazon Alexa, and so on – we might start to feel a little unwise or uneducated. “Google it” has forever changed our society. But does that mean ..."
 publishedDateTime: 2020-01-23T21:51:00Z
-sourceUrl: "https://thenextweb.com/artificial-intelligence/2020/01/23/a-beginners-guide-to-the-ai-apocalypse-wall-e-syndrome/"
+webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/23/a-beginners-guide-to-the-ai-apocalypse-wall-e-syndrome/"
 type: article
 quality: 167
 heat: 167

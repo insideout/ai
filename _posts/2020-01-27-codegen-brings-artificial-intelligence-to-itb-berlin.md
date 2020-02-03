@@ -3,7 +3,7 @@ category: news
 title: "CodeGen brings Artificial Intelligence to ITB Berlin"
 excerpt: "Leading global travel technology provider, CodeGen, will be showcasing its popular suite of artificial intelligence powered tools at ITB Berlin (4 – 8 March). As specialists in digital transformation, CodeGen’s range of next generation end-to-end software solutions and reservation systems help travel companies to boost revenue and develop a ..."
 publishedDateTime: 2020-01-27T14:21:00Z
-sourceUrl: "https://www.incentivetravel.co.uk/news/shows/47844-codegen-brings-artificial-intelligence-to-itb-berlin?tmpl=component"
+webUrl: "https://www.incentivetravel.co.uk/news/shows/47844-codegen-brings-artificial-intelligence-to-itb-berlin?tmpl=component"
 type: article
 quality: 17
 heat: 17

@@ -3,7 +3,7 @@ category: news
 title: "3 Stocks for the Next Decade"
 excerpt: "Related subthemes include the \"Internet of Things,\" machine learning, and artificial intelligence. Networks and Computer Systems ... Alphabet's autonomous car technology business, Waymo, is a good example: Based on various studies, it may tap into a market valued in the tens of billions of dollars within the next 10-15 years.\""
 publishedDateTime: 2020-01-01T12:28:00Z
-sourceUrl: https://www.morningstar.com/articles/960376/3-stocks-for-the-next-decade
+webUrl: https://www.morningstar.com/articles/960376/3-stocks-for-the-next-decade
 type: article
 quality: 24
 heat: 24

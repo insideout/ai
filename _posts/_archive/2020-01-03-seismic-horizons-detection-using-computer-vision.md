@@ -3,7 +3,7 @@ category: news
 title: "Seismic horizons detection using computer vision"
 excerpt: "The complexity of seismic data interpretation and analysis is mainly connected with the fact that for each task requires an individual approach, since each dataset is unique. Manual processing requires significant labor costs, and the result often contains ..."
 publishedDateTime: 2020-01-03T19:34:00Z
-sourceUrl: https://medium.com/seismic-data-analysis-using-ai/seismic-data-analysis-using-ai-3ce18a18fbb?source=---------2------------------
+webUrl: https://medium.com/seismic-data-analysis-using-ai/seismic-data-analysis-using-ai-3ce18a18fbb?source=---------2------------------
 type: article
 quality: 69
 heat: 69

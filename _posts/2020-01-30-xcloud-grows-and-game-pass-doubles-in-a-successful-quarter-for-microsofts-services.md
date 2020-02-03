@@ -3,9 +3,9 @@ category: news
 title: "xCloud grows and Game Pass doubles in a successful quarter for Microsoft's services"
 excerpt: "Microsoft's celebratory earnings call was driven by the strength of their Azure cloud services, which continued to expand in new if slightly terrifying ways into machine learning and analytics AI, and adoption of the tech by partners like the US Department of Defense and management software giant SAP. But Nadella took a moment to celebrate a ..."
 publishedDateTime: 2020-01-30T12:20:00Z
-sourceUrl: "https://www.trueachievements.com/n40523/xbox-game-pass-subscribers-doubled"
-ampUrl: "https://amp.trueachievements.com/n40523/xbox-game-pass-subscribers-doubled"
-cdnAmpUrl: "https://amp-trueachievements-com.cdn.ampproject.org/c/s/amp.trueachievements.com/n40523/xbox-game-pass-subscribers-doubled"
+webUrl: "https://www.trueachievements.com/n40523/xbox-game-pass-subscribers-doubled"
+ampWebUrl: "https://amp.trueachievements.com/n40523/xbox-game-pass-subscribers-doubled"
+cdnAmpWebUrl: "https://amp-trueachievements-com.cdn.ampproject.org/c/s/amp.trueachievements.com/n40523/xbox-game-pass-subscribers-doubled"
 type: article
 quality: 53
 heat: 53

@@ -3,7 +3,7 @@ category: news
 title: "Basic principle of visual inspection machine: visual comparison"
 excerpt: "Visual inspection allows for improvement of production process. We offer solutions in domain of object recognition, defect detection and process control. All existing elements have an idea that is considered as fundamental, and that allows the development and growth of these based on it. Each science was created under a premise that surrounds a ..."
 publishedDateTime: 2020-01-20T13:35:00Z
-sourceUrl: "https://www.roboticstomorrow.com/news/2020/01/20/basic-principle-of-visual-inspection-machine-visual-comparison/14686/"
+webUrl: "https://www.roboticstomorrow.com/news/2020/01/20/basic-principle-of-visual-inspection-machine-visual-comparison/14686/"
 type: article
 quality: 4
 heat: 4

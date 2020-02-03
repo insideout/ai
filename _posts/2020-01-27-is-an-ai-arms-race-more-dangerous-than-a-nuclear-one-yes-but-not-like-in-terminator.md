@@ -3,9 +3,9 @@ category: news
 title: "Is an AI arms race more dangerous than a nuclear one? Yes, but not like in ‘Terminator'"
 excerpt: "Algorithms developed by start-ups that are good at searching through holiday photos ... they are there to allow even more endless wars The second area is in the conduct of future wars. Militarised AI, like more intelligent ground and aerial robots that can support or work alongside troops, means military engagement requires fewer human soldiers ..."
 publishedDateTime: 2020-01-27T15:29:00Z
-sourceUrl: "https://www.rt.com/op-ed/479301-ai-nuclear-arms-race/"
-ampUrl: "https://www.rt.com/op-ed/479301-ai-nuclear-arms-race/amp/"
-cdnAmpUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/op-ed/479301-ai-nuclear-arms-race/amp/"
+webUrl: "https://www.rt.com/op-ed/479301-ai-nuclear-arms-race/"
+ampWebUrl: "https://www.rt.com/op-ed/479301-ai-nuclear-arms-race/amp/"
+cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/op-ed/479301-ai-nuclear-arms-race/amp/"
 type: article
 quality: 53
 heat: 53

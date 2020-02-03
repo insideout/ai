@@ -3,7 +3,7 @@ category: news
 title: "Intel and Softbank Beware. Open Source Is Coming to the Chip Business"
 excerpt: "After revolutionizing software, the open-source movement is threatening to do same to the chip industry. Big technology companies have begun dabbling with RISC-V, which replaces proprietary know-how in a key part of the chip design process with a free standard that anyone can use."
 publishedDateTime: 2020-01-22T14:00:00Z
-sourceUrl: "https://www.bloomberg.com/news/articles/2020-01-22/open-source-transformed-software-the-chip-industry-is-next"
+webUrl: "https://www.bloomberg.com/news/articles/2020-01-22/open-source-transformed-software-the-chip-industry-is-next"
 type: article
 quality: 49
 heat: 49

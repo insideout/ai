@@ -3,7 +3,7 @@ category: news
 title: "The AI Eye: Healthcare and Medical Just One Prominent Segment in Rapidly Growing and Broadening AI Market"
 excerpt: "Its core technologies - such as machine learning, deep learning, natural language processing (NLP) and computer vision - have enabled AI to penetrate and become indispensable in everything from autonomous vehicles, virtual assistants, energy, voice and text translation, retail, healthcare and more. And this is all happening fast. A report from ..."
 publishedDateTime: 2020-01-23T13:26:00Z
-sourceUrl: "https://www.finanznachrichten.de/nachrichten-2020-01/48675186-the-ai-eye-healthcare-and-medical-just-one-prominent-segment-in-rapidly-growing-and-broadening-ai-market-296.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2020-01/48675186-the-ai-eye-healthcare-and-medical-just-one-prominent-segment-in-rapidly-growing-and-broadening-ai-market-296.htm"
 type: article
 quality: 2
 heat: 2

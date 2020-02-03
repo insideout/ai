@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Artificial Intelligence (AI)"
 excerpt: "Learn Introduction to Artificial Intelligence (AI) from IBM. In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and ..."
-sourceUrl: https://www.coursera.org/learn/introduction-to-ai
+webUrl: https://www.coursera.org/learn/introduction-to-ai
 type: course
 price: Free+
 length: 9 hours

@@ -3,7 +3,7 @@ category: news
 title: "Maxeler Technologies Licenses Healthcare Technologies"
 excerpt: "The AI-driven prescription predictive models suggest effective medications that minimize adverse effects. Many artificial intelligence-based efforts focus on the aforementioned problem but do so using “black box” approaches which solve the problem, but fail to provide interpretability. Since prescribing physicians are hesitant to rely on ..."
 publishedDateTime: 2020-01-25T08:05:00Z
-sourceUrl: "https://www.pr.com/press-release/804084"
+webUrl: "https://www.pr.com/press-release/804084"
 type: article
 quality: 19
 heat: 19

@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning Instances and Frameworks on AWS"
 excerpt: "Deep learning enables a new level of data analysis, but configuring custom compute resources to gain these insights can be extremely difficult. In this course, Deep Learning Instances and Frameworks on AWS, you will gain the ability to launch deep learning instances on EC2 and ECS. First, you will learn the types of Deep Learning AMIs provided by AWS. Next, you will analyze how to leverage popular deep learning frameworks on these instances. Finally, you will review how to manage and scale your deep learning activities on these instances. When you are finished with this course, you will be able to launch and utilize custom deep learning instances and leverage popular deep learning frameworks."
-sourceUrl: https://www.pluralsight.com/courses/aws-ami-deep-learning-instances-frameworks
+webUrl: https://www.pluralsight.com/courses/aws-ami-deep-learning-instances-frameworks
 type: course
 price: $$
 length: 1h 23m

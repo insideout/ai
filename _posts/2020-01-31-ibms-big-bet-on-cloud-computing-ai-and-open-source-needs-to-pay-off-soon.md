@@ -3,9 +3,9 @@ category: news
 title: "IBM's big bet on cloud computing, AI and open source needs to pay off soon"
 excerpt: "the company's stock price dropped over 25% and while the company has been keen to trumpet its artificial intelligence work (in the form of IBM Watson) and its reinvention as a cloud company (thanks to Red Hat) there is still plenty of work to do if IBM is to every approach its former glories. Sure, the latest earnings published by IBM earlier ..."
 publishedDateTime: 2020-01-31T17:39:00Z
-sourceUrl: "https://www.zdnet.com/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/"
-ampUrl: "https://www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/"
+webUrl: "https://www.zdnet.com/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/"
 type: article
 quality: 87
 heat: -1
@@ -33,9 +33,9 @@ related:
   - title: "IBM's big bet on cloud computing, AI and open source"
     excerpt: "the company's stock price dropped over 25% and while the company has been keen to trumpet its artificial intelligence work (in the form of IBM Watson) and its reinvention as a cloud company (thanks to Red Hat) there is still plenty of work to do if IBM is to every approach its former glories. Sure, the latest earnings published by IBM earlier ..."
     publishedDateTime: 2020-01-31T17:39:00Z
-    sourceUrl: "https://www.zdnet.com/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/"
-    ampUrl: "https://www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/"
-    cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/"
+    webUrl: "https://www.zdnet.com/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/"
     type: article
     provider:
       name: ZDNet

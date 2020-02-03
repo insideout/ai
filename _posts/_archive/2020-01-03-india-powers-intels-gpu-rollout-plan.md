@@ -3,9 +3,9 @@ category: news
 title: "India powers Intel’s GPU rollout plan"
 excerpt: "Raja Koduri, Senior Vice-President, talks about the scope of GPUs in exascale computing, AI and real-time data analytics Intel’s Xe generation of GPU (Graphics Processing Unit), which targets both data centres and PC gaming, has been the talk of the town ..."
 publishedDateTime: 2020-01-03T13:26:00Z
-sourceUrl: https://www.thehindubusinessline.com/info-tech/intels-india-team-pushes-ahead-with-gpu-roll-out-plan/article30469419.ece
-ampUrl: https://www.thehindubusinessline.com/info-tech/intels-india-team-pushes-ahead-with-gpu-roll-out-plan/article30469419.ece/amp/
-cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/intels-india-team-pushes-ahead-with-gpu-roll-out-plan/article30469419.ece/amp/
+webUrl: https://www.thehindubusinessline.com/info-tech/intels-india-team-pushes-ahead-with-gpu-roll-out-plan/article30469419.ece
+ampWebUrl: https://www.thehindubusinessline.com/info-tech/intels-india-team-pushes-ahead-with-gpu-roll-out-plan/article30469419.ece/amp/
+cdnAmpWebUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/intels-india-team-pushes-ahead-with-gpu-roll-out-plan/article30469419.ece/amp/
 type: article
 quality: 59
 heat: 59

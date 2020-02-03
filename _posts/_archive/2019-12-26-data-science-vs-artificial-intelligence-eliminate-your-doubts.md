@@ -3,7 +3,7 @@ category: news
 title: "Data Science vs Artificial Intelligence — Eliminate your Doubts"
 excerpt: "While Data Science makes use of Artificial Intelligence in its operations, it does not completely represent AI. In this article, we will understand the concept of Data Science vs Artificial ..."
 publishedDateTime: 2019-12-26T00:00:00Z
-sourceUrl: https://medium.com/quick-code/data-science-vs-artificial-intelligence-eliminate-your-doubts-912b3b2c805
+webUrl: https://medium.com/quick-code/data-science-vs-artificial-intelligence-eliminate-your-doubts-912b3b2c805
 type: article
 quality: 167
 heat: 167

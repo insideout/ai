@@ -3,7 +3,7 @@ category: news
 title: "Sketch2Code at Microsoft AI Lab"
 excerpt: "Computer Vision is a discipline inside artificial intelligence that gives an application the capability to see and understand what it is seeing. Using Microsoft Cognitive Services, we can train Custom Computer Vision with millions of images and enable object detection for a wide range of types of objects. In this case, we trained the model to ..."
 publishedDateTime: 2020-01-03T09:33:00Z
-sourceUrl: https://www.microsoft.com/en-us/ai/ai-lab-sketch2code
+webUrl: https://www.microsoft.com/en-us/ai/ai-lab-sketch2code
 type: article
 quality: 34
 heat: 34

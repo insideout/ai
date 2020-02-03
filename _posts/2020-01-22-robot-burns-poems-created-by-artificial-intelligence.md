@@ -3,9 +3,9 @@ category: news
 title: "‘Robot Burns’ poems created by artificial intelligence"
 excerpt: "But now a student at the University of Glasgow has used a “Robot Burns” artificial intelligence (AI) poem generator programme to create almost “instant works” by Robert Burns, in honour of a fellow student, Chris, who took his own life on Burns Day, on 25 January 2016. Perry Gibson, who is studying for a PhD in computing science ..."
 publishedDateTime: 2020-01-22T06:52:00Z
-sourceUrl: "https://www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792"
-ampUrl: "https://www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792/amp"
-cdnAmpUrl: "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792/amp"
+webUrl: "https://www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792"
+ampWebUrl: "https://www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792/amp"
+cdnAmpWebUrl: "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792/amp"
 type: article
 quality: 74
 heat: 74

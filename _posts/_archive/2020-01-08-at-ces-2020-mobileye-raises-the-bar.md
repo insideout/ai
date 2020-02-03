@@ -3,7 +3,7 @@ category: news
 title: "At CES 2020, Mobileye Raises the Bar"
 excerpt: "More: All Mobileye and Intel News from CES 2020 | Mobileye News | Mobileye’s Computer Vision (Event Replay) | Autonomous Driving at Intel During his annual CES address, Shashua provided an under ..."
 publishedDateTime: 2020-01-08T22:24:00Z
-sourceUrl: "https://www.businesswire.com/news/home/20200108005870/en/CES-2020-Mobileye-Raises-Bar"
+webUrl: "https://www.businesswire.com/news/home/20200108005870/en/CES-2020-Mobileye-Raises-Bar"
 type: article
 quality: 39
 heat: 39

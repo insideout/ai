@@ -3,7 +3,7 @@ category: news
 title: "Israel launches its first AI-powered flu vaccination campaign"
 excerpt: "Israel is running its first AI-powered flu vaccination campaign. Medial EarlySign and Maccabi Healthcare are running the program, according to EarlySign, whose senior leadership spoke to The Jerusalem Post last week. The company’s machine learning-based ..."
 publishedDateTime: 2020-01-20T16:00:00Z
-sourceUrl: "https://www.jpost.com/HEALTH-SCIENCE/Israel-launches-its-first-AI-powered-flu-vaccination-campaign-614722"
+webUrl: "https://www.jpost.com/HEALTH-SCIENCE/Israel-launches-its-first-AI-powered-flu-vaccination-campaign-614722"
 type: article
 quality: 37
 heat: 37

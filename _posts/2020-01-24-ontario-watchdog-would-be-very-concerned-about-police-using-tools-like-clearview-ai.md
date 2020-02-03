@@ -3,9 +3,9 @@ category: news
 title: "Ontario watchdog would be ‘very concerned’ about police using tools like Clearview AI"
 excerpt: "Clearview AI’s website includes a testimonial from an unnamed person the company claims is ... consists of a one-to-one comparison between the photo of the traveller taken at the kiosk to the photograph stored on the chip in the travellers’ ePassport,” the spokesperson said. Vito Pilieci, a spokesperson for the privacy commissioner ..."
 publishedDateTime: 2020-01-24T11:00:00Z
-sourceUrl: "https://globalnews.ca/news/6442933/canada-police-facial-recognition/"
-ampUrl: "https://globalnews.ca/news/6442933/canada-police-facial-recognition/amp/"
-cdnAmpUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6442933/canada-police-facial-recognition/amp/"
+webUrl: "https://globalnews.ca/news/6442933/canada-police-facial-recognition/"
+ampWebUrl: "https://globalnews.ca/news/6442933/canada-police-facial-recognition/amp/"
+cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6442933/canada-police-facial-recognition/amp/"
 type: article
 quality: 32
 heat: 32

@@ -3,7 +3,7 @@ category: news
 title: "This AI researcher is trying to ward off a reproducibility crisis"
 excerpt: "Spurred by her frustration with difficulties recreating results from other research teams, Pineau, a machine-learning scientist at McGill University and Facebook in Montreal, Canada, is now spearheading a movement to get AI researchers to open up their ..."
 publishedDateTime: 2019-12-19T00:00:00Z
-sourceUrl: https://www.nature.com/articles/d41586-019-03895-5
+webUrl: https://www.nature.com/articles/d41586-019-03895-5
 type: article
 quality: 39
 heat: 39

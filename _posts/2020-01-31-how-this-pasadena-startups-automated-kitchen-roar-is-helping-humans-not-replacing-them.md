@@ -3,7 +3,7 @@ category: news
 title: "How This Pasadena Startup’s Automated Kitchen ROAR Is Helping Humans, Not Replacing Them"
 excerpt: "Ever since artificial intelligence has made an entry into the daily ... And recently, a Pasadena California based startup introduced a new product after their famous, burger-flipping arm, Flippy. On January 28th 2020, Miso introduced their Robot On A Rail (ROAR) which they described as the next generation cost-efficient kitchen assistant."
 publishedDateTime: 2020-01-31T04:39:00Z
-sourceUrl: "https://analyticsindiamag.com/how-this-pasadena-startups-automated-kitchen-roar-helping-humans-not-replacing-them/"
+webUrl: "https://analyticsindiamag.com/how-this-pasadena-startups-automated-kitchen-roar-helping-humans-not-replacing-them/"
 type: article
 quality: 15
 heat: 15

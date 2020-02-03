@@ -3,7 +3,7 @@ category: news
 title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
 excerpt: "Google-owned DeepMind has already worked with NHS organisations to develop AI to read eye scans and spot neck cancer. Over the past two years, researchers from Cancer Research UK Imperial College ..."
 publishedDateTime: 2020-01-01T18:04:00Z
-sourceUrl: "https://www.wired.co.uk/article/deepmind-google-ai-breast-cancer"
+webUrl: "https://www.wired.co.uk/article/deepmind-google-ai-breast-cancer"
 type: article
 quality: 54
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
     excerpt: "Google-owned DeepMind has already used AI to read eye scans and spot neck cancer. Artificial Intelligence (AI) powered by Google's DeepMind algorithm may be more accurate at spotting breast cancer ..."
     publishedDateTime: 2020-01-02T13:14:00Z
-    sourceUrl: "https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
-    ampUrl: "https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
-    cdnAmpUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
+    webUrl: "https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
     type: article
     provider:
       name: CNBC
@@ -42,7 +42,7 @@ related:
   - title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. Google Health and DeepMind have created an AI tool capable of spotting breast cancer with as much accuracy as a human ..."
     publishedDateTime: 2020-01-02T10:52:00Z
-    sourceUrl: "https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1"
+    webUrl: "https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1"
     type: article
     provider:
       name: Business Insider

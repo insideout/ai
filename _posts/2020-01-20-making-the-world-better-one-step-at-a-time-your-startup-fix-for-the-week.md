@@ -3,9 +3,9 @@ category: news
 title: "Making the world better, one step at a time - your startup fix for the week"
 excerpt: "For more inspiration, we have a few startup stories to boost your Monday. Zeta is an umbrella platform that provides full-stack, cloud-native, API first services, including a digital core and payment engine for issuance of credit, debit, and prepaid products. Oxford graduate Ashish Airon is today the Co-founder of a profitable AI startup called ..."
 publishedDateTime: 2020-01-20T00:57:00Z
-sourceUrl: "https://yourstory.com/2020/01/indian-startup-wren-zeta-shaadidost-rapidor-grocurv"
-ampUrl: "https://yourstory.com/2020/01/indian-startup-wren-zeta-shaadidost-rapidor-grocurv/amp"
-cdnAmpUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/indian-startup-wren-zeta-shaadidost-rapidor-grocurv/amp"
+webUrl: "https://yourstory.com/2020/01/indian-startup-wren-zeta-shaadidost-rapidor-grocurv"
+ampWebUrl: "https://yourstory.com/2020/01/indian-startup-wren-zeta-shaadidost-rapidor-grocurv/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/indian-startup-wren-zeta-shaadidost-rapidor-grocurv/amp"
 type: article
 quality: 40
 heat: -1
@@ -28,9 +28,9 @@ related:
   - title: "Solving for others - your startup fix for the week"
     excerpt: "Founded in 2003, LLamasoft is now rolling out Llama.ai, its pure AI-play decision-making product to optimise its existing supply chain solutions. At present, the startup has 750 employees across the globe. Ikea may have chosen Hyderabad to start its retail operations, but it has been working with Indian artisans for nearly four decades."
     publishedDateTime: 2020-01-27T00:41:00Z
-    sourceUrl: "https://yourstory.com/2020/01/startup-shoes-on-loose-elior-industree-caterspoint"
-    ampUrl: "https://yourstory.com/2020/01/startup-shoes-on-loose-elior-industree-caterspoint/amp"
-    cdnAmpUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/startup-shoes-on-loose-elior-industree-caterspoint/amp"
+    webUrl: "https://yourstory.com/2020/01/startup-shoes-on-loose-elior-industree-caterspoint"
+    ampWebUrl: "https://yourstory.com/2020/01/startup-shoes-on-loose-elior-industree-caterspoint/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/startup-shoes-on-loose-elior-industree-caterspoint/amp"
     type: article
     provider:
       name: Your Story

@@ -3,7 +3,7 @@ category: news
 title: "Israel’s Rafael uses augmented reality, artificial intelligence to revolutionize urban-warfare capabilities"
 excerpt: "briefPutin pardons Naama Issachar, who’s set to fly back from Russia with Netanyahu “I’ve been waiting for this moment for almost a year,” said her mother, Yaffa Issachar. “It’s been a long journey that I wouldn’t wish on anyone.”"
 publishedDateTime: 2020-01-30T16:52:00Z
-sourceUrl: "https://www.jns.org/israels-rafael-uses-augmented-reality-and-artificial-intelligence-to-revolutionize-urban-warfare-capabilities/"
+webUrl: "https://www.jns.org/israels-rafael-uses-augmented-reality-and-artificial-intelligence-to-revolutionize-urban-warfare-capabilities/"
 type: article
 quality: 19
 heat: 19

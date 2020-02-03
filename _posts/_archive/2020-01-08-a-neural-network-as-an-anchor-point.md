@@ -3,9 +3,9 @@ category: news
 title: "A neural network as an anchor point"
 excerpt: "But so far, nobody has come up with a way to resolve this elemental dilemma,\" Renner says. At first, the idea that artificial intelligence might be able to help seems surprising. After all, neural networks—the key element of artificial intelligence—effectively operate like a black box. You can teach them to recognize faces on photos ..."
 publishedDateTime: 2020-01-08T14:09:00Z
-sourceUrl: "https://phys.org/news/2020-01-neural-network-anchor.html"
-ampUrl: "https://phys.org/news/2020-01-neural-network-anchor.amp"
-cdnAmpUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-neural-network-anchor.amp"
+webUrl: "https://phys.org/news/2020-01-neural-network-anchor.html"
+ampWebUrl: "https://phys.org/news/2020-01-neural-network-anchor.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-neural-network-anchor.amp"
 type: article
 quality: 39
 heat: 39

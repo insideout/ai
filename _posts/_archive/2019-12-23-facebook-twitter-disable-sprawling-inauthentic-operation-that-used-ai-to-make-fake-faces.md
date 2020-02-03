@@ -3,7 +3,7 @@ category: news
 title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
 excerpt: "The use of AI to trick social media companies ... and the Atlantic Council's Digital Forensic Research Lab - which were given access to Facebook data in advance of the takedown announced Friday ..."
 publishedDateTime: 2019-12-23T17:48:00Z
-sourceUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic
+webUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic
 type: article
 quality: 10
 heat: 10

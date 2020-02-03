@@ -3,7 +3,7 @@ category: news
 title: "Meet the 11 power players of Amazon Web Services who helped build it into the biggest cloud business in the world"
 excerpt: "Amazon Web Services has nearly half of the public cloud market share, well ahead of Microsoft and Google. These 11 executives are leading the charge."
 publishedDateTime: 2020-01-08T18:06:00Z
-sourceUrl: https://www.businessinsider.com/11-executives-power-players-amazon-web-services-2020-1
+webUrl: https://www.businessinsider.com/11-executives-power-players-amazon-web-services-2020-1
 type: article
 quality: 48
 heat: 48

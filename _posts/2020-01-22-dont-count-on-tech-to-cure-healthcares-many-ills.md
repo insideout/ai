@@ -3,7 +3,7 @@ category: news
 title: "Don’t count on tech to cure healthcare’s many ills"
 excerpt: "Theoretically, this is where artificial intelligence can step in. Lots of startups and large tech companies are working on software that will make sense of all the various data inputs. The idea is that AI will analyze patient data and offer suggestions for diagnosis or treatment. But Madara warned that healthcare providers should be sure to ..."
 publishedDateTime: 2020-01-22T12:00:00Z
-sourceUrl: "https://www.fastcompany.com/90452923/dont-count-on-tech-to-cure-healthcares-many-ills"
+webUrl: "https://www.fastcompany.com/90452923/dont-count-on-tech-to-cure-healthcares-many-ills"
 type: article
 quality: 39
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "Can high-tech capitalism fix the healthcare industry?"
     excerpt: "Theoretically, this is where artificial intelligence can step in. Lots of startups and large tech companies are working on software that will make sense of all the various data inputs. The idea is that AI will analyze patient data and offer suggestions for diagnosis or treatment. But Madara warned that healthcare providers should be sure to ..."
     publishedDateTime: 2020-01-22T12:00:00Z
-    sourceUrl: "https://www.fastcompany.com/90452923/dont-count-on-tech-to-cure-healthcares-many-ills?partner=feedburner"
+    webUrl: "https://www.fastcompany.com/90452923/dont-count-on-tech-to-cure-healthcares-many-ills?partner=feedburner"
     type: article
     provider:
       name: Fast Company
@@ -40,7 +40,7 @@ related:
   - title: "9 Technology Megatrends For Healthcare In 2020"
     excerpt: "Without the use of high-powered data analytics, artificial intelligence and the internet of things, much of this data would simply sit unused and 2020 megatrends would be nothing more than ideas on a blackboard. These are the healthcare technology megatrends for 2020. Healthcare Consumerism Continues Apace A few years ago, healthcare ..."
     publishedDateTime: 2020-01-27T19:36:00Z
-    sourceUrl: "https://www.healthitoutcomes.com/doc/technology-megatrends-for-healthcare-in-0001"
+    webUrl: "https://www.healthitoutcomes.com/doc/technology-megatrends-for-healthcare-in-0001"
     type: article
     provider:
       name: HealthITOUTCOMES

@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence In Medicine Market 2025 | IBM, Zebra Medical Vision Ltd, Sense.Ly Inc."
 excerpt: "Artificial Intelligence In Medicine Market \"The artificial intelligence in medicine market was valued at USD"
 publishedDateTime: 2020-01-24T09:37:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-2025-ibm-zebra-medical-vision-ltd-sensely-inc-2020-01-24"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-2025-ibm-zebra-medical-vision-ltd-sensely-inc-2020-01-24"
 type: article
 quality: 57
 heat: 57

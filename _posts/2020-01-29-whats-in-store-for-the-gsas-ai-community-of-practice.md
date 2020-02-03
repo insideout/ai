@@ -3,7 +3,7 @@ category: news
 title: "What’s in store for the GSA’s AI community of practice?"
 excerpt: "Speaking at GSA’s “AI in Federal Procurement” event Jan. 29 ... Identify gaps and find solutions: Workforce, ethics, security, privacy are all issues that Babitch identified as gaps the community of practice will seek to fill. The community of practice will host quarterly sessions, along with more webinars, seminars, workshops and ..."
 publishedDateTime: 2020-01-29T22:12:00Z
-sourceUrl: "https://www.federaltimes.com/home/2020/01/29/whats-in-store-for-the-gsas-ai-community-of-practice/"
+webUrl: "https://www.federaltimes.com/home/2020/01/29/whats-in-store-for-the-gsas-ai-community-of-practice/"
 type: article
 quality: 39
 heat: 39

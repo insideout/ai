@@ -3,9 +3,9 @@ category: news
 title: "VW's all-electric ID Buzz van is a platform for self-driving efforts - Electrek"
 excerpt: "The ID Buzz still seems almost too cool (and far away) to be true. But at CES 2020, the new chief of VW self-driving told Electrek that the Buzz is also the basis of VW’s first self-driving vehicles for limited commercial use by 2022. That’s a good sign that the ultimate electric hipster van is on track. “The ID Buzz will be our first L4 ..."
 publishedDateTime: 2020-01-12T16:28:00Z
-sourceUrl: "https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/"
-ampUrl: "https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/"
-cdnAmpUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/"
+webUrl: "https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/"
+ampWebUrl: "https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/"
+cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/"
 type: article
 quality: 70
 heat: -1
@@ -33,9 +33,9 @@ related:
   - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
     excerpt: "Damon Motorcycles unveiled its new electric motorcycle today at CES in Las Vegas, calling it “the world’s smartest, safest, and most powerful electric motorcycle.” My first thought: it can’t be both the most powerful and the safest."
     publishedDateTime: 2020-01-07T17:42:00Z
-    sourceUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/"
-    ampUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
-    cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
     type: article
     provider:
       name: Forbes

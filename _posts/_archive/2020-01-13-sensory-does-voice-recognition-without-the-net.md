@@ -3,7 +3,7 @@ category: news
 title: "Sensory Does Voice Recognition Without the ‘Net"
 excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed."
 publishedDateTime: 2020-01-13T17:23:00Z
-sourceUrl: "https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net"
+webUrl: "https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net"
 type: article
 quality: 24
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "How to Set Up HomePod Multi-User Voice Recognition"
     excerpt: "To test out out the voice recognition further, you can get users to try asking different questions that relate specifically to them, like what their upcoming calendar events are. If everything works, ‌Siri‌ will reply with their respective name and the answer to their query. The neat thing about ‌HomePod‌ multi-user support is that it ..."
     publishedDateTime: 2020-01-20T16:03:00Z
-    sourceUrl: "https://www.macrumors.com/how-to/how-to-set-up-homepod-multi-user-voice-recognition/"
-    ampUrl: "https://www.macrumors.com/how-to/how-to-set-up-homepod-multi-user-voice-recognition/amp/"
-    cdnAmpUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/how-to/how-to-set-up-homepod-multi-user-voice-recognition/amp/"
+    webUrl: "https://www.macrumors.com/how-to/how-to-set-up-homepod-multi-user-voice-recognition/"
+    ampWebUrl: "https://www.macrumors.com/how-to/how-to-set-up-homepod-multi-user-voice-recognition/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/how-to/how-to-set-up-homepod-multi-user-voice-recognition/amp/"
     type: article
     provider:
       name: MacRumors

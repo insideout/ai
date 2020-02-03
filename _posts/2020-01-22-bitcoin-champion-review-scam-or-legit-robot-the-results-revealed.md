@@ -3,7 +3,7 @@ category: news
 title: "Bitcoin Champion Review: Scam or legit Robot? The Results Revealed!"
 excerpt: "The artificial intelligence robots improve the alleged accuracy while blockchain ensures a ... Here are tips to help you get the most out of this robot. Start small – A deposit of $250 is the best amount to start with as a beginner. Starting small will allow you the peace of mind to observe market trends and determine the best time to run ..."
 publishedDateTime: 2020-01-22T19:28:00Z
-sourceUrl: "https://insidebitcoins.com/bitcoin-robot/bitcoin-champion"
+webUrl: "https://insidebitcoins.com/bitcoin-robot/bitcoin-champion"
 type: article
 quality: 39
 heat: 39

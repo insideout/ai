@@ -3,7 +3,7 @@ category: news
 title: "Birds & Oceans & Wildfires, Oh My! How Machine Learning Is Changing Climate Research"
 excerpt: "This is a companion discussion topic for the original entry at https://cleantechnica.com/2020/01/25/birds-oceans-wildfires-oh-my-how-machine-learning-is-changing-climate-research/"
 publishedDateTime: 2020-01-26T00:00:00Z
-sourceUrl: "https://businesscomputingworld.co.uk/t/birds-oceans-wildfires-oh-my-how-machine-learning-is-changing-climate-research/244790"
+webUrl: "https://businesscomputingworld.co.uk/t/birds-oceans-wildfires-oh-my-how-machine-learning-is-changing-climate-research/244790"
 type: article
 quality: 32
 heat: 32

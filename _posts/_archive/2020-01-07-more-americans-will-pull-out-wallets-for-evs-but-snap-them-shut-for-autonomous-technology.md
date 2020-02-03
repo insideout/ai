@@ -3,9 +3,9 @@ category: news
 title: "More Americans Will Pull Out Wallets for EVs, but Snap Them Shut for Autonomous Technology"
 excerpt: "At a time when the full self-driving package in a Tesla costs $7000, 58 percent of people surveyed said they would be unwilling to pay more than $500 for autonomous technology. Since 2018 ..."
 publishedDateTime: 2020-01-07T20:31:00Z
-sourceUrl: "https://www.caranddriver.com/news/a30432893/americans-resist-autonomous-cars-like-evs/"
-ampUrl: "https://www.caranddriver.com/news/amp30432893/americans-resist-autonomous-cars-like-evs/"
-cdnAmpUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30432893/americans-resist-autonomous-cars-like-evs/"
+webUrl: "https://www.caranddriver.com/news/a30432893/americans-resist-autonomous-cars-like-evs/"
+ampWebUrl: "https://www.caranddriver.com/news/amp30432893/americans-resist-autonomous-cars-like-evs/"
+cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30432893/americans-resist-autonomous-cars-like-evs/"
 type: article
 quality: 34
 heat: 34

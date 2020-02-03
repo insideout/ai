@@ -3,7 +3,7 @@ category: news
 title: "Deep Dive: How This Bangalore Startup Gamifies Quizzes & Uses AI/ML To Understand Learning Patterns"
 excerpt: "Last year, the platform launched an in-house product known as W.A.V.E uses AI (Artificial Intelligence) and ML (Machine Learning) to personalise teaching and learning for each and every child and is designed to make live classes extremely interactive, engaging and fun. Some of the interesting features are such as It enables Teachers to run Live ..."
 publishedDateTime: 2020-01-27T05:03:00Z
-sourceUrl: "https://analyticsindiamag.com/deep-dive-how-this-bangalore-startup-gamifies-quizzes-uses-ai-ml-to-understand-learning-patterns/"
+webUrl: "https://analyticsindiamag.com/deep-dive-how-this-bangalore-startup-gamifies-quizzes-uses-ai-ml-to-understand-learning-patterns/"
 type: article
 quality: 3
 heat: 3

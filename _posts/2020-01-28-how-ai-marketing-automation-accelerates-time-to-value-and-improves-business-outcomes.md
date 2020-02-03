@@ -3,7 +3,7 @@ category: news
 title: "How AI Marketing Automation Accelerates Time to Value and Improves Business Outcomes"
 excerpt: "So it is ubercritical to roll out a customer experience that wastes no one’s time, neither your customers’ time nor your own. This whitepaper takes a look at how AI and automation are shaping the future of marketing and how platforms with built-in, e-commerce knowledge, and turnkey solutions reduce time to value (TTV) and improve business ..."
 publishedDateTime: 2020-01-28T15:07:00Z
-sourceUrl: "https://www.infoworld.com/resources/197398/how-ai-marketing-automation-accelerates-time-to-value-and-improves-business-outcomes"
+webUrl: "https://www.infoworld.com/resources/197398/how-ai-marketing-automation-accelerates-time-to-value-and-improves-business-outcomes"
 type: article
 quality: 60
 heat: 60

@@ -3,9 +3,9 @@ category: news
 title: "Artificial Intelligence to Improve Resolution of Brain Magnetic Resonance Imaging"
 excerpt: "This new model manages to increase image quality from low resolution to high resolution without distorting the patients' brain structures, using a deep learning artificial neural network—a model that is based on the functioning of the human brain—that \"learns\" this process. \"Deep learning is based on very large neural networks, and so is ..."
 publishedDateTime: 2020-01-21T15:18:00Z
-sourceUrl: "https://www.labmanager.com/news/2020/01/artificial-intelligence-to-improve-resolution-of-brain-magnetic-resonance-imaging"
-ampUrl: "https://www.labmanager.com/news/2020/01/artificial-intelligence-to-improve-resolution-of-brain-magnetic-resonance-imaging/amp"
-cdnAmpUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/2020/01/artificial-intelligence-to-improve-resolution-of-brain-magnetic-resonance-imaging/amp"
+webUrl: "https://www.labmanager.com/news/2020/01/artificial-intelligence-to-improve-resolution-of-brain-magnetic-resonance-imaging"
+ampWebUrl: "https://www.labmanager.com/news/2020/01/artificial-intelligence-to-improve-resolution-of-brain-magnetic-resonance-imaging/amp"
+cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/2020/01/artificial-intelligence-to-improve-resolution-of-brain-magnetic-resonance-imaging/amp"
 type: article
 quality: 49
 heat: 49
@@ -23,7 +23,7 @@ related:
   - title: "Brain magnetic resonance imaging enhanced through artificial intelligence: Study"
     excerpt: "This new model manages to increase image quality from low resolution to high resolution without distorting the patients' brain structures, using a deep learning artificial neural network -a model that is based on the functioning of the human brain- that \"learns\" this process. The study was published in the scientific journal Neurocomputing."
     publishedDateTime: 2020-01-20T10:19:00Z
-    sourceUrl: "https://www.newkerala.com/news/2020/9710.htm"
+    webUrl: "https://www.newkerala.com/news/2020/9710.htm"
     type: article
     provider:
       name: New Kerala

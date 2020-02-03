@@ -1,7 +1,7 @@
 ---
 title: "Combining and Shaping Data"
 excerpt: "This course covers both conceptual and practical aspects of pulling together from different data sources, with different schemas and orientations, into a cohesive whole using Excel, Python, and various tools available on the Azure cloud platform."
-sourceUrl: https://www.pluralsight.com/courses/combining-shaping-data
+webUrl: https://www.pluralsight.com/courses/combining-shaping-data
 type: course
 price: $$
 length: 3h 28m

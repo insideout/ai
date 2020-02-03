@@ -3,7 +3,7 @@ category: news
 title: "Can financial service incumbents bridge the technology gap?"
 excerpt: "Almost all large companies and especially traditional financial service companies can clearly not follow this pace. Apart from some smaller new players and some smaller (often marketing stunts) projects in larger financial institutions, the dominant technology used to process financial transactions still dates from the 90’s and even those ..."
 publishedDateTime: 2020-01-07T19:09:00Z
-sourceUrl: https://www.finextra.com/blogposting/18304/can-financial-service-incumbents-bridge-the-technology-gap
+webUrl: https://www.finextra.com/blogposting/18304/can-financial-service-incumbents-bridge-the-technology-gap
 type: article
 quality: 4
 heat: 4

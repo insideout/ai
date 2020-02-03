@@ -3,7 +3,7 @@ category: news
 title: "Ai-Chan Carrier attends the \"Timmy Failure: Mistakes Were Made\" premiere in Los Angeles"
 excerpt: "Cast member Ai-Chan Carrier attends the premiere of the motion picture dramatic fantasy \"Timmy Failure: Mistakes Were Made\" at the El Capitan Theatre in the Hollywood section of Los Angeles on Thursday, January 30, 2020. Storyline: Based on the best-selling book of the same name, the film follows the hilarious exploits of quirky, deadpan hero ..."
 publishedDateTime: 2020-02-01T00:28:00Z
-sourceUrl: "https://www.upi.com/News_Photos/view/upi/9f65d7e2ff55c8c2db387e3c9adaa035/Ai-Chan-Carrier-attends-the-Timmy-Failure-Mistakes-Were-Made-premiere-in-Los-Angeles/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/9f65d7e2ff55c8c2db387e3c9adaa035/Ai-Chan-Carrier-attends-the-Timmy-Failure-Mistakes-Were-Made-premiere-in-Los-Angeles/"
 type: article
 quality: 29
 heat: 29

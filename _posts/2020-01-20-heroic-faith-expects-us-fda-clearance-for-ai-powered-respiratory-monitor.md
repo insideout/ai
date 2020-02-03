@@ -3,7 +3,7 @@ category: news
 title: "Heroic-Faith expects US FDA clearance for AI-powered respiratory monitor"
 excerpt: "Heroic-Faith Medical Science expects its AI-powered respiratory monitor to receive US FDA clearance this year, according to Taiwan-based startup. Heroic-Faith said the AI-powered continuous respiratory monitor can perform the breathing sounds auscultation precisely, using Taiwan's cutting-edge noise-cancelling technology, but also count ..."
 publishedDateTime: 2020-01-20T03:34:00Z
-sourceUrl: "https://www.digitimes.com/news/a20200120VL202.html"
+webUrl: "https://www.digitimes.com/news/a20200120VL202.html"
 type: article
 quality: 36
 heat: 36

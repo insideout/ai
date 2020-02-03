@@ -3,9 +3,9 @@ category: news
 title: "AWS finds growth in Australia amid maturing cloud market"
 excerpt: "Speaking to Computer Weekly at AWS Re:invent 2019 in Las Vegas, Paul Migliorini ... Amid the maturing cloud landscape, Migliorini singled out a few areas of growth, notably new artificial intelligence (AI) services and use case specific offerings such as Amazon Connect, a contact centre service which has seen “huge success in Australia ..."
 publishedDateTime: 2020-01-09T10:49:00Z
-sourceUrl: https://www.computerweekly.com/news/252476477/AWS-finds-growth-in-Australia-amid-maturing-cloud-market
-ampUrl: https://www.computerweekly.com/news/252476477/AWS-finds-growth-in-Australia-amid-maturing-cloud-market?amp=1
-cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252476477/AWS-finds-growth-in-Australia-amid-maturing-cloud-market?amp=1
+webUrl: https://www.computerweekly.com/news/252476477/AWS-finds-growth-in-Australia-amid-maturing-cloud-market
+ampWebUrl: https://www.computerweekly.com/news/252476477/AWS-finds-growth-in-Australia-amid-maturing-cloud-market?amp=1
+cdnAmpWebUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252476477/AWS-finds-growth-in-Australia-amid-maturing-cloud-market?amp=1
 type: article
 quality: 59
 heat: 59

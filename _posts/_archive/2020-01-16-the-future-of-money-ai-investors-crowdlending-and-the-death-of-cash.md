@@ -3,9 +3,9 @@ category: news
 title: "The Future of Money: AI Investors, Crowdlending, and the Death of Cash"
 excerpt: "And AI is inserting itself into almost every aspect of the financial world. “Fintech” describes the convergence of technology and financial services. First colonized by networks and apps, it was then radicalized by AI and blockchain, and now underpins a global wealth redistribution mechanism. Today, we’ll discuss the ways in which AI ..."
 publishedDateTime: 2020-01-16T14:00:00Z
-sourceUrl: "https://singularityhub.com/2020/01/16/the-future-of-money-ai-investors-crowdlending-and-the-death-of-cash/"
-ampUrl: "https://singularityhub.com/2020/01/16/the-future-of-money-ai-investors-crowdlending-and-the-death-of-cash/amp/"
-cdnAmpUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/16/the-future-of-money-ai-investors-crowdlending-and-the-death-of-cash/amp/"
+webUrl: "https://singularityhub.com/2020/01/16/the-future-of-money-ai-investors-crowdlending-and-the-death-of-cash/"
+ampWebUrl: "https://singularityhub.com/2020/01/16/the-future-of-money-ai-investors-crowdlending-and-the-death-of-cash/amp/"
+cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/16/the-future-of-money-ai-investors-crowdlending-and-the-death-of-cash/amp/"
 type: article
 quality: 59
 heat: 59

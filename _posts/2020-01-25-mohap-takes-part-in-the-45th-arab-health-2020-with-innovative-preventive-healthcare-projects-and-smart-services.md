@@ -3,9 +3,9 @@ category: news
 title: "MoHAP takes part in the 45th Arab Health 2020 with innovative preventive healthcare projects and smart services"
 excerpt: "With a focus on preventive healthcare and round-the-clock smart services with no human intervention to bolster the sustainable development and knowledge economy, MoHAP is introducing a number of innovative projects based on next-generation technologies including; the Fourth Industrial Revolution, Artificial Intelligence (AI), and exploring ..."
 publishedDateTime: 2020-01-25T06:56:00Z
-sourceUrl: "https://www.zawya.com/mena/en/press-releases/story/MoHAP_takes_part_in_the_45th_Arab_Health_2020_with_innovative_preventive_healthcare_projects_and_smart_services-ZAWYA20200125061827/"
-ampUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200125061827/"
-cdnAmpUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200125061827/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/MoHAP_takes_part_in_the_45th_Arab_Health_2020_with_innovative_preventive_healthcare_projects_and_smart_services-ZAWYA20200125061827/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200125061827/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200125061827/"
 type: article
 quality: 39
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "MoHAP showcases latest updates of its Smart Healthcare Center \"PaCE\" at Arab Health 2020"
     excerpt: "“MoHAP takes pride in the key role of PaCE in integrating the AI by 100% into health services, in line with the UAE Strategy for Artificial Intelligence and the UAE Centennial 2071, in addition to attracting future treatment protocols. This comes as part of MoHAP’s strategy to provide comprehensive, innovative, and fair healthcare services ..."
     publishedDateTime: 2020-01-29T10:46:00Z
-    sourceUrl: "https://www.zawya.com/mena/en/press-releases/story/MoHAP_showcases_latest_updates_of_its_Smart_Healthcare_Center_PaCE_at_Arab_Health_2020-ZAWYA20200129102522/"
-    ampUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200129102522/"
-    cdnAmpUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200129102522/"
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/MoHAP_showcases_latest_updates_of_its_Smart_Healthcare_Center_PaCE_at_Arab_Health_2020-ZAWYA20200129102522/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200129102522/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200129102522/"
     type: article
     provider:
       name: Zawya

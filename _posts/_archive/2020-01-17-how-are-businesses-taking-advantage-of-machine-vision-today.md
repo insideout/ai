@@ -3,9 +3,9 @@ category: news
 title: "How Are Businesses Taking Advantage of Machine Vision Today?"
 excerpt: "It’s easy to confuse machine vision with computer vision. Not only do the terms sound a lot alike, but they are closely related. There are, however, important distinctions between the two."
 publishedDateTime: 2020-01-17T16:55:00Z
-sourceUrl: "https://themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/"
-ampUrl: "https://themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/"
-cdnAmpUrl: "https://themoderatevoice-com.cdn.ampproject.org/c/s/themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/"
+webUrl: "https://themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/"
+ampWebUrl: "https://themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/"
+cdnAmpWebUrl: "https://themoderatevoice-com.cdn.ampproject.org/c/s/themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/"
 type: article
 quality: 44
 heat: 44

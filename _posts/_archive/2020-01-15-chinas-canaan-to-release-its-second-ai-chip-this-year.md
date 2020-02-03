@@ -3,7 +3,7 @@ category: news
 title: "China's Canaan to Release Its Second AI Chip This Year"
 excerpt: "Hence the push into AI chips. These are chips that are technologically advanced enough to perform machine learning tasks, eliminating the need for human control. Canaan's first-generation AI chip, the Kendryte K210, was released in September 2018. After overcoming a few technical setbacks, it is now being used in such application scenarios as ..."
 publishedDateTime: 2020-01-15T20:39:00Z
-sourceUrl: "https://yicaiglobal.com/news/china-canaan-to-release-its-second-ai-chip-this-year"
+webUrl: "https://yicaiglobal.com/news/china-canaan-to-release-its-second-ai-chip-this-year"
 type: article
 quality: 54
 heat: 54

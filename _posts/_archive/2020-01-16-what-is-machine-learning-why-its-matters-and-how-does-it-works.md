@@ -3,7 +3,7 @@ category: news
 title: "What is Machine Learning? Why its Matters and how does it works?"
 excerpt: "Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. The process of learning begins with ..."
 publishedDateTime: 2020-01-16T00:26:00Z
-sourceUrl: "https://medium.com/swlh/what-is-machine-learning-why-its-matters-and-how-does-it-works-846055a676d4"
+webUrl: "https://medium.com/swlh/what-is-machine-learning-why-its-matters-and-how-does-it-works-846055a676d4"
 type: article
 quality: 69
 heat: 79
@@ -31,7 +31,7 @@ related:
   - title: "GBT Is Expanding Its Autonomous Machines (Robotics) Research"
     excerpt: "and Artificial Intelligence (AI) enabled networking and tracking technologies, including its GopherInsight™ wireless mesh network technology platform and its Avant! AI, for both mobile and fixed solutions, announced that it is expanding its autonomous machines research, working on the development of a dynamic simulation program for robots."
     publishedDateTime: 2020-01-21T12:11:00Z
-    sourceUrl: "https://www.tmcnet.com/usubmit/-gbt-expanding-its-autonomous-machines-robotics-research-/2020/01/21/9084095.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-gbt-expanding-its-autonomous-machines-robotics-research-/2020/01/21/9084095.htm"
     type: article
     provider:
       name: TMCnet

@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence: A Modern Approach: The Application in Healthcare, Industry and More: The Fascinating Topic of Machine Learning and Prediction Machines: The Complexity Explained for Beginners"
 excerpt: "Artificial intelligence is a word that carries with it heavy connotations. Although artificial intelligence is nothing more than the capacity for logic and understanding that machines can exhibit, in the minds of most people artificial intelligence is almost a Pandora’s box that, when opened, will eventually signal the human race’s doom..The idea that machines pose an existential threat to human beings"
-sourceUrl: https://www.amazon.com/Artificial-intelligence-modern-approach-application/dp/1082457264
+webUrl: https://www.amazon.com/Artificial-intelligence-modern-approach-application/dp/1082457264
 type: book
 price: $0.00
 length: 

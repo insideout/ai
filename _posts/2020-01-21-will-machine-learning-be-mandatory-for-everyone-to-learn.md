@@ -3,7 +3,7 @@ category: news
 title: "Will machine learning be mandatory for everyone to learn?"
 excerpt: "The significant contribution for the same is made through the 40% ad revenue earned by the website. While machine learning is considered as a mandatory skill in the future, Rishab Bhatt shared his thoughts and said, “If you want to make an app where two people can text, you can do so without machine learning. But if you want the app to ..."
 publishedDateTime: 2020-01-21T05:33:00Z
-sourceUrl: "https://www.asianage.com/in-focus/210120/will-machine-learning-be-mandatory-for-everyone-to-learn.html"
+webUrl: "https://www.asianage.com/in-focus/210120/will-machine-learning-be-mandatory-for-everyone-to-learn.html"
 type: article
 quality: 19
 heat: 19

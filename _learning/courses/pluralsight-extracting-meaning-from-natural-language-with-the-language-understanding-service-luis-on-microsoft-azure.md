@@ -1,7 +1,7 @@
 ---
 title: "Extracting Meaning from Natural Language with the Language Understanding Service (LUIS) on Microsoft Azure"
 excerpt: "Extracting Meaning from Natural Language with LUIS will allow you to build apps and bots that are capable to understanding natural human language and being able to act on those commands."
-sourceUrl: https://www.pluralsight.com/courses/microsoft-azure-luis-extracting-meaning-natural-language
+webUrl: https://www.pluralsight.com/courses/microsoft-azure-luis-extracting-meaning-natural-language
 type: course
 price: $$
 length: 42m

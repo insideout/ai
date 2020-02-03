@@ -3,7 +3,7 @@ category: news
 title: "Going high-tech with IBM and AI at the Grammys"
 excerpt: "Artificial intelligence will be the best new accessory at the Grammys in Los Angeles this year, thanks to IBM Watson. The real truth about deepfakes and how to stop them 3:44 Stopping the brain drain: Why universities need to hold onto machine-learning professors 1:01 How to get started as a data scientist 2:11 AI is vital for business but it's ..."
 publishedDateTime: 2020-01-24T18:54:00Z
-sourceUrl: "https://www.techrepublic.com/videos/going-high-tech-with-ibm-and-ai-at-the-grammys/"
+webUrl: "https://www.techrepublic.com/videos/going-high-tech-with-ibm-and-ai-at-the-grammys/"
 type: article
 quality: 69
 heat: -1
@@ -31,9 +31,9 @@ related:
   - title: "Grammys go high-tech with IBM and artificial intelligence"
     excerpt: "Along with Versace and Jean Paul Gaultier, artificial intelligence and Natural Language Processing will be important accessories on the 62nd Annual Grammys' red carpet. IBM will enhance the red carpet livestream with Grammy Insights with Watson this Sunday at the Staples Center in Los Angeles. The team at IBM took over 18 million documents and ..."
     publishedDateTime: 2020-01-23T20:17:00Z
-    sourceUrl: "https://www.techrepublic.com/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
-    ampUrl: "https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
-    cdnAmpUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
+    webUrl: "https://www.techrepublic.com/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
     type: article
     provider:
       name: TechRepublic
@@ -46,9 +46,9 @@ related:
   - title: "The Grammys go high-tech with IBM and artificial intelligence"
     excerpt: "Along with Versace and Jean Paul Gaultier, artificial intelligence and Natural Language Processing will be important accessories on the 62nd Annual Grammys' red carpet. IBM will enhance the red carpet livestream with Grammy Insights with Watson this Sunday at the Staples Center in Los Angeles. The team at IBM took over 18 million documents and ..."
     publishedDateTime: 2020-01-23T20:17:00Z
-    sourceUrl: "https://www.techrepublic.com/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
-    ampUrl: "https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
-    cdnAmpUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
+    webUrl: "https://www.techrepublic.com/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
     type: article
     provider:
       name: TechRepublic
@@ -61,7 +61,7 @@ related:
   - title: "IBM Plays Up Grammys Technology"
     excerpt: "As the official AI partner of the Grammys, IBM Watson is serving fans the right insights at the right time during the red carpet via “Grammy Insights with Watson.” IBM analyzed over 18 million articles, blogs and bios to serve up bite-sized info right when each artist appears. The real-time insights on the hundreds of Grammy nominees and ..."
     publishedDateTime: 2020-01-29T11:44:00Z
-    sourceUrl: "https://www.mediapost.com/publications/article/346199/ibm-plays-up-grammys-technology.html"
+    webUrl: "https://www.mediapost.com/publications/article/346199/ibm-plays-up-grammys-technology.html"
     type: article
     provider:
       name: MediaPost

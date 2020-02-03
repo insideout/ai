@@ -3,7 +3,7 @@ category: news
 title: "Aetna, a CVS Health Company"
 excerpt: "PROJECT DESCRIPTION: Complex healthcare provider contracts have traditionally required significant human involvement for claims processing: Reading free-form comments, calculating pricing and updating claims can take weeks or months. Aetna's auto-adjudication app leverages AI with natural language processing and unstructured text parsing to ..."
 publishedDateTime: 2020-01-20T23:34:00Z
-sourceUrl: "https://www.cio.com/cio/detail/4/183804/1"
+webUrl: "https://www.cio.com/cio/detail/4/183804/1"
 type: article
 quality: 24
 heat: 24

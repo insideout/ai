@@ -3,7 +3,7 @@ category: news
 title: "Magna scaling back Lyft partnership as fully self-driving systems look further off"
 excerpt: "TORONTO — Magna International Inc. is scaling back its partnership with Lyft Inc. to co-develop self-driving technology as it focuses research and development spending on more near-term prospects. It was only about two years ago that the Aurora, Ont.,-based auto parts giant struck an ambitious partnership with ride-hailing firm Lyft to ..."
 publishedDateTime: 2020-02-02T09:34:00Z
-sourceUrl: "https://www.newsoptimist.ca/magna-scaling-back-lyft-partnership-as-fully-self-driving-systems-look-further-off-1.24054007"
+webUrl: "https://www.newsoptimist.ca/magna-scaling-back-lyft-partnership-as-fully-self-driving-systems-look-further-off-1.24054007"
 type: article
 quality: 18
 heat: 18

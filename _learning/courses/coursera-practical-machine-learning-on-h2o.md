@@ -1,7 +1,7 @@
 ---
 title: "Practical Machine Learning on H2O"
 excerpt: "Learn Practical Machine Learning on H2O from H2O. In this course, we will learn all the core techniques needed to make effective use of H2O. Even if you have no prior experience of machine learning, even if your math is weak, by the end of this ..."
-sourceUrl: https://www.coursera.org/learn/machine-learning-h2o
+webUrl: https://www.coursera.org/learn/machine-learning-h2o
 type: course
 price: Free+
 length: 31 hours

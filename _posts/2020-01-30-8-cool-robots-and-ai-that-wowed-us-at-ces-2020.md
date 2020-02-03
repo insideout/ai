@@ -3,7 +3,7 @@ category: news
 title: "8 Cool Robots And AI That Wowed Us At CES 2020"
 excerpt: "That's a taste of some of the robots and artificial intelligence solutions we saw while at CES 2020 in Las Vegas earlier this month. There was also a delivery robot with a digital cat face, a modular drone that can double as an AI camera and a programmable toy that looks like it came out of the Transformers cartoon show. There was even a ..."
 publishedDateTime: 2020-01-30T15:15:00Z
-sourceUrl: "https://www.crn.com/slide-shows/mobility/8-cool-robots-and-ai-that-wowed-us-at-ces-2020"
+webUrl: "https://www.crn.com/slide-shows/mobility/8-cool-robots-and-ai-that-wowed-us-at-ces-2020"
 type: article
 quality: 34
 heat: 34

@@ -3,9 +3,9 @@ category: news
 title: "AI Helps Credit Unions Connect With Gen Z"
 excerpt: "The fintech organizations will tie two of their products together ... Islandia, N.Y.-based Teledata Communications, Inc., a provider of a complete consumer loan origination platform, announced development of an AI-powered, natural language rules engine that leverages machine learning to create and maintain risk-based rules and lending policies."
 publishedDateTime: 2020-01-16T22:40:00Z
-sourceUrl: "https://www.cutimes.com/2020/01/15/ai-helps-credit-unions-connect-with-gen-z/"
-ampUrl: "https://www.cutimes.com/2020/01/15/ai-helps-credit-unions-connect-with-gen-z/?amp=1"
-cdnAmpUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2020/01/15/ai-helps-credit-unions-connect-with-gen-z/?amp=1"
+webUrl: "https://www.cutimes.com/2020/01/15/ai-helps-credit-unions-connect-with-gen-z/"
+ampWebUrl: "https://www.cutimes.com/2020/01/15/ai-helps-credit-unions-connect-with-gen-z/?amp=1"
+cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2020/01/15/ai-helps-credit-unions-connect-with-gen-z/?amp=1"
 type: article
 quality: 59
 heat: 59

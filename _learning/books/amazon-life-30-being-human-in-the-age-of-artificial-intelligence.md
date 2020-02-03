@@ -1,7 +1,7 @@
 ---
 title: "Life 3.0: Being Human in the Age of Artificial Intelligence"
 excerpt: "How will artificial intelligence affect crime, war, justice, jobs, society, and our very sense of being human? The rise of AI has the potential to transform our future more than any other technology - and there's nobody better qualified or situated to explore that future than Max Tegmark, an MIT professor who's helped mainstream research on how to keep AI beneficial."
-sourceUrl: https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/B0742JQF31/
+webUrl: https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/B0742JQF31/
 type: book
 price: $17.00
 length: 

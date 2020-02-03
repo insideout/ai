@@ -3,9 +3,9 @@ category: news
 title: "iHeartMedia laid off hundreds of radio DJs. Executives blame AI. DJs blame the executives."
 excerpt: "And that’s the worst part: They don’t care.” The dominant player in U.S. radio, which owns the online music service iHeartRadio and more than 850 local stations across the United States, has called AI the muscle it needs to fend off rivals, recapture listeners and emerge from bankruptcy. The company, which now uses software to schedule ..."
 publishedDateTime: 2020-01-31T12:12:00Z
-sourceUrl: "https://www.washingtonpost.com/technology/2020/01/31/iheartmedia-radio-artificial-intelligence-djs/"
-ampUrl: "https://www.washingtonpost.com/technology/2020/01/31/iheartmedia-radio-artificial-intelligence-djs/?outputType=amp"
-cdnAmpUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/01/31/iheartmedia-radio-artificial-intelligence-djs/?outputType=amp"
+webUrl: "https://www.washingtonpost.com/technology/2020/01/31/iheartmedia-radio-artificial-intelligence-djs/"
+ampWebUrl: "https://www.washingtonpost.com/technology/2020/01/31/iheartmedia-radio-artificial-intelligence-djs/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/01/31/iheartmedia-radio-artificial-intelligence-djs/?outputType=amp"
 type: article
 quality: 47
 heat: 47

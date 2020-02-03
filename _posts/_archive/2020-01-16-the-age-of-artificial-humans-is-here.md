@@ -3,9 +3,9 @@ category: news
 title: "The age of artificial humans is here"
 excerpt: "or more intelligent than human beings falls under the brand of artificial general intelligence (AGI). In fact, Cross referred to Soul Machines as an “AGI research\" company instead of an AI research firm. AGI is pretty much every world-dominating robot or AI you have seen in movies, like, say, The Terminator or Avengers: Age of Ultron."
 publishedDateTime: 2020-01-16T15:57:00Z
-sourceUrl: "https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here-11579187404431.html"
-ampUrl: "https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html"
-cdnAmpUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html"
+webUrl: "https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here-11579187404431.html"
+ampWebUrl: "https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html"
 type: article
 quality: 44
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "Being human in the age of Artificial Intelligence"
     excerpt: "A future where AI will be everywhere and in everything is coming sooner than we think and we need to be prepared like boy scouts advise us to."
     publishedDateTime: 2020-01-19T10:08:00Z
-    sourceUrl: "https://www.deccanherald.com/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html"
-    ampUrl: "https://www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html"
-    cdnAmpUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html"
+    webUrl: "https://www.deccanherald.com/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html"
+    ampWebUrl: "https://www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html"
+    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html"
     type: article
     provider:
       name: Deccan Herald

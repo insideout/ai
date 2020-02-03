@@ -3,7 +3,7 @@ category: news
 title: "In the News: Mobileye’s Autonomous Industry Leadership"
 excerpt: "Now “vidar” is a thing (Axios): “Mobileye CEO Amnon Shashua introduced auto industry followers at CES to new terminology this week: ‘Vidar’ is a computer vision system he claims can match expensive laser-based lidar solutions using only camera ..."
 publishedDateTime: 2020-01-07T00:00:00Z
-sourceUrl: "https://newsroom.intel.com/news/in-the-news-mobileyes-autonomous-industry-leadership/"
+webUrl: "https://newsroom.intel.com/news/in-the-news-mobileyes-autonomous-industry-leadership/"
 type: article
 quality: 24
 heat: 24

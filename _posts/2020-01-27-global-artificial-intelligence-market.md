@@ -3,7 +3,7 @@ category: news
 title: "Global Artificial Intelligence Market"
 excerpt: "Artificial Intelligence Market report is an extensive analysis of all available companies with their growth factors, research & methodology, Artificial Intelligence Market Dynamics, Business Overview, Sales, Revenue, Artificial Intelligence Market Share and Competition with other Manufacturers."
 publishedDateTime: 2020-01-27T17:36:00Z
-sourceUrl: "https://www.openpr.com/news/1909875/global-artificial-intelligence-market-analysis-data-of-leading"
+webUrl: "https://www.openpr.com/news/1909875/global-artificial-intelligence-market-analysis-data-of-leading"
 type: article
 quality: 25
 heat: -1
@@ -24,7 +24,7 @@ related:
   - title: "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential"
     excerpt: "Unlock new opportunities in Artificial Intelligence (AI) in Agriculture Market; the latest release from HTF MI highlights the key market trends significant to the growth prospects, Let us know if any specific players or list of players needs to consider to ..."
     publishedDateTime: 2020-01-28T09:58:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential-2020-01-28"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential-2020-01-28"
     type: article
     provider:
       name: MarketWatch

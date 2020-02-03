@@ -3,7 +3,7 @@ category: news
 title: "Former Intel and Google exec Diane Bryant tells a heartbreaking story of why she took a CEO job at a startup that hopes to save lives"
 excerpt: "Bryant's new startup quickly diagnoses strokes. She recalls how a colleague famously suffered a stroke and the doctor didn't believe him."
 publishedDateTime: 2020-01-22T16:24:00Z
-sourceUrl: "https://www.businessinsider.com/diane-bryant-neural-analytics-ceo-google-intel-2020-1"
+webUrl: "https://www.businessinsider.com/diane-bryant-neural-analytics-ceo-google-intel-2020-1"
 type: article
 quality: 23
 heat: 23

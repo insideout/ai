@@ -3,9 +3,9 @@ category: news
 title: "Amazon Doubles Down on Ring Partnerships With Law Enforcement"
 excerpt: "In other cases, municipalities may be utilizing other technology—such as Amazon’s Rekognition product—to extract data even if the security cameras themselves aren’t the most sophisticated. When asked whether Amazon had considered applying facial recognition software technology to Ring cameras, Limp pointed out that Amazon hasn’t ..."
 publishedDateTime: 2020-01-07T20:02:00Z
-sourceUrl: https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/
-ampUrl: https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp
-cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp
+webUrl: https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/
+ampWebUrl: https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp
+cdnAmpWebUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp
 type: article
 quality: 74
 heat: 94
@@ -33,9 +33,9 @@ related:
   - title: "Amazon fires four smart-doorbell firm Ring employees for snooping on customers' video feeds without permission"
     excerpt: "This, it claims, is to maintain its AWS infrastructure. Ring also failed to rule out the possibility of adding Amazon's controversial Rekognition facial recognition technology to its products. Instead of clarifying if it would implement this feature in future models,it named rivals that offer facial recognition technology in their products."
     publishedDateTime: 2020-01-09T09:27:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7868219/Amazons-Ring-fired-four-members-staff-snooping-customers.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7868219/amp/Amazons-Ring-fired-four-members-staff-snooping-customers.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7868219/amp/Amazons-Ring-fired-four-members-staff-snooping-customers.html
+    webUrl: https://www.dailymail.co.uk/sciencetech/article-7868219/Amazons-Ring-fired-four-members-staff-snooping-customers.html
+    ampWebUrl: https://www.dailymail.co.uk/sciencetech/article-7868219/amp/Amazons-Ring-fired-four-members-staff-snooping-customers.html
+    cdnAmpWebUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7868219/amp/Amazons-Ring-fired-four-members-staff-snooping-customers.html
     type: article
     provider:
       name: Mail Online
@@ -48,7 +48,7 @@ related:
   - title: "Voice Recognition Used by Law Enforcement"
     excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
     publishedDateTime: 2020-01-12T08:00:00Z
-    sourceUrl: https://i-hls.com/archives/98105
+    webUrl: https://i-hls.com/archives/98105
     type: article
     provider:
       name: AUS&R

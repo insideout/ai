@@ -3,7 +3,7 @@ category: news
 title: "The App That Lets People Search You via Your Face Is Real and TERRIFYING"
 excerpt: "an entrepreneur who before getting into facial recognition, made an app where you could paste Donald Trump’s hair onto pictures. That, along with his other ventures, failed, but he ended up working with Richard Schwartz, a former aide to Rudy Giuliani when he was mayor to found Clearview. What does Clearview AI do? It uses facial recognition ..."
 publishedDateTime: 2020-01-22T19:30:00Z
-sourceUrl: "https://www.themarysue.com/clearview-ai-facial-recognition-app-terrifying/"
+webUrl: "https://www.themarysue.com/clearview-ai-facial-recognition-app-terrifying/"
 type: article
 quality: 3
 heat: 3

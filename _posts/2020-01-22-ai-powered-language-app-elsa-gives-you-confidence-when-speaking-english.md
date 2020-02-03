@@ -3,7 +3,7 @@ category: news
 title: "AI-powered language app ELSA gives you confidence when speaking English"
 excerpt: "In other words, ELSA provides AI-powered one-on-one instruction for English-language learners. The startup is headquartered in San Francisco and has offices in Portugal, India, and Vietnam. So far, it has raised US$12 million from investors in Silicon Valley and Asia, including Gradient Ventures, which is Google’s AI-focused fund. According ..."
 publishedDateTime: 2020-01-22T05:12:00Z
-sourceUrl: "https://www.techinasia.com/elsa-speaking-english"
+webUrl: "https://www.techinasia.com/elsa-speaking-english"
 type: article
 quality: 47
 heat: 47

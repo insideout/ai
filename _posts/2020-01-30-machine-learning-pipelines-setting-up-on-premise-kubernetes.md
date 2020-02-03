@@ -3,7 +3,7 @@ category: news
 title: "Machine Learning Pipelines: Setting Up On-premise Kubernetes"
 excerpt: "When most people think about machine learning, they imagine engineers and data scientists tweaking network architectures, loss functions, and tuning hyper-parameters, coupled with the constant retraining until the results are satisfactory. Indeed, training machine learning models takes a lot of hard work. A tremendous amount of time and ..."
 publishedDateTime: 2020-01-30T09:55:00Z
-sourceUrl: "https://www.sitepoint.com/setting-up-on-premise-kubernetes/"
+webUrl: "https://www.sitepoint.com/setting-up-on-premise-kubernetes/"
 type: article
 quality: 39
 heat: 39

@@ -3,9 +3,9 @@ category: news
 title: "AI's impact on UN goals for climate, development and global stability is analyzed for first time"
 excerpt: "They were joined by Max Tegmark, professor at Massachusetts Institute of Technology (MIT) and author of the bestselling book Life 3.0, as well as Virginia Dignum, professor of AI Ethics at Umeå University, among other authors. \"AI is already changing everyone's lives in different ways,\" says Fuso-Nerini. \"This analysis provides the basis for a ..."
 publishedDateTime: 2020-01-13T15:03:00Z
-sourceUrl: "https://phys.org/news/2020-01-ai-impact-goals-climate-global.html"
-ampUrl: "https://phys.org/news/2020-01-ai-impact-goals-climate-global.amp"
-cdnAmpUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-ai-impact-goals-climate-global.amp"
+webUrl: "https://phys.org/news/2020-01-ai-impact-goals-climate-global.html"
+ampWebUrl: "https://phys.org/news/2020-01-ai-impact-goals-climate-global.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-ai-impact-goals-climate-global.amp"
 type: article
 quality: 26
 heat: 26

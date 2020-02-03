@@ -3,7 +3,7 @@ category: news
 title: "Mastercard invests in online and offline identity startup Trust Stamp"
 excerpt: "Mastercard has made a strategic investment in AI-generated identity authentication company Trust Stamp. Trust Stamp is a graduate of the 2018 Mastercard Start Path accelerator programme. The two companies introduced their first collaboration with a secure non-PII authentication network for both online and offline environments at the June 2019 ..."
 publishedDateTime: 2020-01-31T10:50:00Z
-sourceUrl: "https://www.finextra.com/newsarticle/35205/mastercard-invests-in-online-and-offline-identity-startup-trust-stamp"
+webUrl: "https://www.finextra.com/newsarticle/35205/mastercard-invests-in-online-and-offline-identity-startup-trust-stamp"
 type: article
 quality: 2
 heat: -1
@@ -20,9 +20,9 @@ related:
   - title: "Mastercard Invests in AI-Based Startup Trust Stamp"
     excerpt: "Meanwhile, the payments giant is intensely getting involved in modern technologies including AI and blockchain. It was a part of the Facebook-led Libra Association but pulled out from the consortium to save itself from regulatory backlash. The company also tied with R3 last year to develop a blockchain-based cross-border payments system."
     publishedDateTime: 2020-01-31T12:13:00Z
-    sourceUrl: "https://www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/"
-    ampUrl: "https://www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/amp/"
-    cdnAmpUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/amp/"
+    webUrl: "https://www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/mastercard-invests-in-ai-based-startup-trust-stamp/amp/"
     type: article
     provider:
       name: Finance Magnates
@@ -35,7 +35,7 @@ related:
   - title: "Purdue U invests $500K in university-affiliated AI startup"
     excerpt: "West Lafayette, Ind.-based Purdue University's medical technology investment fund allotted $500,000 to PhysIQ, a healthcare startup founded by a Purdue alumnus, according to a Jan. 29 news release. PhysIQ uses artificial intelligence to analyze real-time physiological data gathered by wearable sensors. Because it not only identifies patients in ..."
     publishedDateTime: 2020-01-29T21:51:00Z
-    sourceUrl: "https://www.beckershospitalreview.com/innovation/purdue-u-invests-500k-in-university-affiliated-ai-startup.html"
+    webUrl: "https://www.beckershospitalreview.com/innovation/purdue-u-invests-500k-in-university-affiliated-ai-startup.html"
     type: article
     provider:
       name: Becker's Hospital Review
@@ -48,7 +48,7 @@ related:
   - title: "Infront Lab invests in AI-based video tracking and analytics startup Videocites"
     excerpt: "This investment is a continuation of Infront Lab’s work with some of the world’s most exciting technology start-ups which has provided huge benefits to our clients.” Videocites CEO Eyal Arad on the firm’s Video-AI search engine: “Videocites ..."
     publishedDateTime: 2020-01-28T17:58:00Z
-    sourceUrl: "https://news.europawire.eu/infront-lab-invests-in-ai-based-video-tracking-and-analytics-startup-videocites-304958/eu-press-release/2020/01/28/"
+    webUrl: "https://news.europawire.eu/infront-lab-invests-in-ai-based-video-tracking-and-analytics-startup-videocites-304958/eu-press-release/2020/01/28/"
     type: article
     provider:
       name: EuropaWire

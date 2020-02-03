@@ -1,7 +1,7 @@
 ---
 title: "Building Regression Models with scikit-learn"
 excerpt: "This course covers important techniques such as ordinary least squares regression, moving on to lasso, ridge, and Elastic Net, and advanced techniques such as Support Vector Regression and Stochastic Gradient Descent Regression."
-sourceUrl: https://www.pluralsight.com/courses/building-regression-models-scikit-learn
+webUrl: https://www.pluralsight.com/courses/building-regression-models-scikit-learn
 type: course
 price: $$
 length: 2h 42m

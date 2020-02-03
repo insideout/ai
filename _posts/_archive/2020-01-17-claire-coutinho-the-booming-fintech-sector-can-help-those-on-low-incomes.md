@@ -3,7 +3,7 @@ category: news
 title: "Claire Coutinho: The booming FinTech sector can help those on low incomes"
 excerpt: "Allowing FinTech firms to participate could allow customers to benefit from innovative saving tools, such as “rounding up” their everyday transactions and putting the difference in a savings account. Other tools include using AI to predict future financial commitments and the optimum amount for low income customers to save each month."
 publishedDateTime: 2020-01-17T08:52:00Z
-sourceUrl: "https://www.conservativehome.com/thinktankcentral/2020/01/claire-coutinho-our-booming-fintech-sector-can-help-those-on-low-incomes.html"
+webUrl: "https://www.conservativehome.com/thinktankcentral/2020/01/claire-coutinho-our-booming-fintech-sector-can-help-those-on-low-incomes.html"
 type: article
 quality: 18
 heat: 18

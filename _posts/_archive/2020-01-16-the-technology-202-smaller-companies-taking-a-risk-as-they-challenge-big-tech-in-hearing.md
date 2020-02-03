@@ -3,7 +3,7 @@ category: news
 title: "The Technology 202: Smaller companies taking a risk as they challenge Big Tech in hearing"
 excerpt: "For instance, Amazon declined to voluntarily allow the National Institute of Standards and Technology to evaluate its Rekognition algorithm's error rates. (Amazon CEO Jeff Bezos owns The Washington Post). \"We’re left in a position where we have to trust these companies, but we don’t have the options to say no or scrutinize the claims they ..."
 publishedDateTime: 2020-01-16T14:25:00Z
-sourceUrl: "https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/16/the-technology-202-smaller-companies-taking-a-risk-as-they-challenge-big-tech-in-hearing/5e1f447e602ff16e78f418f8/"
+webUrl: "https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/16/the-technology-202-smaller-companies-taking-a-risk-as-they-challenge-big-tech-in-hearing/5e1f447e602ff16e78f418f8/"
 type: article
 quality: 15
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "How AI Technology Will Change The Way We Treat Advertising In 2020"
     excerpt: "Very soon, marketing personalization strategies will largely depend on smart automation technologies to make each customer part of a fascinating branding experience."
     publishedDateTime: 2020-01-16T18:27:00Z
-    sourceUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/"
-    ampUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/"
-    cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/"
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/"
     type: article
     provider:
       name: Forbes
@@ -42,7 +42,7 @@ related:
   - title: "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026"
     excerpt: "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,"
     publishedDateTime: 2020-01-17T08:54:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17"
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17"
     type: article
     provider:
       name: MarketWatch
@@ -55,9 +55,9 @@ related:
   - title: "Cognitive Computing Technology Market 2020 – 2023: Business Trends, Emerging Technologies, Size, Global Segments and industry Profit Growth"
     excerpt: "The study indicates that by technology segment, natural language processing is the most prominent technology used in the cognitive computing industry owing to its integral capacity to process natural language interactions. At present, automated reasoning and information recovery technologies have limited applications thereby, restricting the ..."
     publishedDateTime: 2020-01-22T11:20:00Z
-    sourceUrl: "https://www.benzinga.com/pressreleases/20/01/ab15161098/cognitive-computing-technology-market-2020-2023-business-trends-emerging-technologies-size-global"
-    ampUrl: "https://amp.benzinga.com/amp/content/15161098"
-    cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15161098"
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15161098/cognitive-computing-technology-market-2020-2023-business-trends-emerging-technologies-size-global"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15161098"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15161098"
     type: article
     provider:
       name: Benzinga.com
@@ -70,9 +70,9 @@ related:
   - title: "Image Recognition Market is Striving in Worldwide with Top Key Players 2020 | IBM Corporation, Imagga Technologies Ltd., Amazon Web Services, Inc"
     excerpt: "Growing popularity of media cloud services and increasing pace of technological advancements in facial recognition technology drive the growth of the global image recognition market. Moreover, surge in the number of mobile devices equipped with cameras and rise in demand for security applications and products laden with image recognition features supplement the market growth."
     publishedDateTime: 2020-01-17T03:12:00Z
-    sourceUrl: "https://www.benzinga.com/press-releases/20/01/wr15140449/image-recognition-market-is-striving-in-worldwide-with-top-key-players-2020-ibm-corporation-imag"
-    ampUrl: "https://amp.benzinga.com/amp/content/15140449"
-    cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15140449"
+    webUrl: "https://www.benzinga.com/press-releases/20/01/wr15140449/image-recognition-market-is-striving-in-worldwide-with-top-key-players-2020-ibm-corporation-imag"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15140449"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15140449"
     type: article
     provider:
       name: Benzinga.com

@@ -3,7 +3,7 @@ category: news
 title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
 excerpt: "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS ..."
 publishedDateTime: 2020-01-13T15:29:00Z
-sourceUrl: "https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/"
+webUrl: "https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/"
 type: article
 quality: 51
 heat: 61
@@ -27,7 +27,7 @@ related:
   - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
     excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game ..."
     publishedDateTime: 2020-01-13T13:28:00Z
-    sourceUrl: "https://www.oaoa.com/news/business/article_bff64e43-c5a2-5acc-8ac2-6ada0e8d7d11.html"
+    webUrl: "https://www.oaoa.com/news/business/article_bff64e43-c5a2-5acc-8ac2-6ada0e8d7d11.html"
     type: article
     provider:
       name: Odessa American

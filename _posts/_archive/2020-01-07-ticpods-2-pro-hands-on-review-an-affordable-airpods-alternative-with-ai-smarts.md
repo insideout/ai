@@ -3,7 +3,7 @@ category: news
 title: "TicPods 2 Pro hands-on review: An affordable AirPods alternative with AI smarts"
 excerpt: "The TicPods 2 Pro also offer language translation, but my attempts to use it have failed. Mobvoi isn’t going to woo any AirPods buyers with TicPods 2 Pro, but I appreciate the company’s creativity. The touch controls, which you can also find in the cheaper TicPods 2, are actually useful, while the head gestures are negligible. The charging ..."
 publishedDateTime: 2020-01-07T17:12:00Z
-sourceUrl: https://www.tomsguide.com/reviews/ticpods-2-pro
+webUrl: https://www.tomsguide.com/reviews/ticpods-2-pro
 type: article
 quality: 35
 heat: 35

@@ -3,9 +3,9 @@ category: news
 title: "Lawmakers introduce bill to bolster artificial intelligence, quantum computing"
 excerpt: "Key senators on Tuesday introduced a bill to bolster U.S."
 publishedDateTime: 2020-01-14T23:28:00Z
-sourceUrl: "https://thehill.com/policy/technology/478273-lawmakers-introduce-bill-to-bolster-artificial-intelligence-quantum"
-ampUrl: "https://thehill.com/policy/technology/478273-lawmakers-introduce-bill-to-bolster-artificial-intelligence-quantum?amp"
-cdnAmpUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/478273-lawmakers-introduce-bill-to-bolster-artificial-intelligence-quantum?amp"
+webUrl: "https://thehill.com/policy/technology/478273-lawmakers-introduce-bill-to-bolster-artificial-intelligence-quantum"
+ampWebUrl: "https://thehill.com/policy/technology/478273-lawmakers-introduce-bill-to-bolster-artificial-intelligence-quantum?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/478273-lawmakers-introduce-bill-to-bolster-artificial-intelligence-quantum?amp"
 type: article
 quality: 55
 heat: 55

@@ -3,9 +3,9 @@ category: news
 title: "Tailoring A Computer Vision System: The Art Of Balance"
 excerpt: "A successful computer vision model is a combination of the right platform with proper settings, trained with the appropriate dataset by a well-qualified engineering team."
 publishedDateTime: 2020-01-23T15:47:00Z
-sourceUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/tailoring-a-computer-vision-system-the-art-of-balance/"
-ampUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/tailoring-a-computer-vision-system-the-art-of-balance/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/23/tailoring-a-computer-vision-system-the-art-of-balance/amp/"
+webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/tailoring-a-computer-vision-system-the-art-of-balance/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/tailoring-a-computer-vision-system-the-art-of-balance/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/23/tailoring-a-computer-vision-system-the-art-of-balance/amp/"
 type: article
 quality: 104
 heat: 114
@@ -33,7 +33,7 @@ related:
   - title: "EVENT BASED VISION SYSTEM"
     excerpt: "The latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
     publishedDateTime: 2020-01-21T16:06:00Z
-    sourceUrl: "https://www.openpr.com/news/1902123/event-based-vision-system"
+    webUrl: "https://www.openpr.com/news/1902123/event-based-vision-system"
     type: article
     provider:
       name: openpr.com

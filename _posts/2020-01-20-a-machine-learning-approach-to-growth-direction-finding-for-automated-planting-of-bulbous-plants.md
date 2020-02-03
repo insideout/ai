@@ -3,7 +3,7 @@ category: news
 title: "A Machine Learning Approach to Growth Direction Finding for Automated Planting of Bulbous Plants"
 excerpt: "The framework takes as input three x-ray images of the bulb and extracts shape, edge, and texture features from each image. These features are then fed into a machine learning regression algorithm in order to predict the 2D projection of the bulb’s growth direction. Using the x-ray system’s geometry, these 2D estimates are then mapped to ..."
 publishedDateTime: 2020-01-20T10:12:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-019-57405-8"
+webUrl: "https://www.nature.com/articles/s41598-019-57405-8"
 type: article
 quality: 26
 heat: 26

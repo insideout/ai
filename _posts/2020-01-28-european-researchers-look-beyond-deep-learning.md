@@ -3,7 +3,7 @@ category: news
 title: "European researchers look beyond deep learning"
 excerpt: "Since then, deep learning has powered its way through a series of benchmarks. In the field of natural language processing (NLP), the team behind the GLUE benchmark suite has produced a more stringent version called SuperGLUE because systems that have adopted a second layer of deep learning were so successful at beating the original."
 publishedDateTime: 2020-01-28T16:56:00Z
-sourceUrl: "https://eandt.theiet.org/content/articles/2020/01/claire-network-looks-beyond-limits-of-deep-learning/"
+webUrl: "https://eandt.theiet.org/content/articles/2020/01/claire-network-looks-beyond-limits-of-deep-learning/"
 type: article
 quality: 24
 heat: 24
@@ -27,7 +27,7 @@ related:
   - title: "Researchers Leverage Machine Learning to Improve Forecasting Tools"
     excerpt: "NOAA and cooperative institute researchers are leveraging machine learning techniques and high-resolution weather models in an effort to improve these tools. “We hope our research will provide forecasters with more information on when they should ..."
     publishedDateTime: 2020-01-30T03:41:00Z
-    sourceUrl: "https://www.weathernationtv.com/news/researchers-leverage-machine-learning-to-improve-forecasting-tools/"
+    webUrl: "https://www.weathernationtv.com/news/researchers-leverage-machine-learning-to-improve-forecasting-tools/"
     type: article
     provider:
       name: WeatherNation TV

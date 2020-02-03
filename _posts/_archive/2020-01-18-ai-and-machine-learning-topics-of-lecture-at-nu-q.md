@@ -3,7 +3,7 @@ category: news
 title: "AI and machine learning topics of lecture at NU-Q"
 excerpt: "Artificial intelligence continues to reshape all aspects of everyday life. From driverless cars and supermarkets with no cashiers to factory automation and e-learning, the rollout of machine-driven data and automated processes are redefining how the world operates, especially across the media industry. Senior explained that machine learning is ..."
 publishedDateTime: 2020-01-18T22:31:00Z
-sourceUrl: "https://www.gulf-times.com/story/653656/AI-and-machine-learning-topics-of-lecture-at-NU-Q"
+webUrl: "https://www.gulf-times.com/story/653656/AI-and-machine-learning-topics-of-lecture-at-NU-Q"
 type: article
 quality: 56
 heat: 56

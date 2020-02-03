@@ -3,7 +3,7 @@ category: news
 title: "The Future of the U.S. and China: Fadi Chehadé on Artificial Intelligence"
 excerpt: "SAN FRANCISCO, January 15, 2020 — Chairman of Chehadé and Company Fadi Chehadé delivers remarks on the increasing importance of artificial intelligence in global affairs. (14 min., 10 sec.)"
 publishedDateTime: 2020-01-28T21:23:00Z
-sourceUrl: "https://asiasociety.org/video/future-us-and-china-fadi-chehade-artificial-intelligence"
+webUrl: "https://asiasociety.org/video/future-us-and-china-fadi-chehade-artificial-intelligence"
 type: article
 quality: 36
 heat: 36

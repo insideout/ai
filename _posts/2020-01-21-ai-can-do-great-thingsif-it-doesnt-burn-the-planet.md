@@ -3,9 +3,9 @@ category: news
 title: "AI Can Do Great Things—If It Doesn't Burn the Planet"
 excerpt: "The effort may have consumed about 2.8 gigawatt-hours of electricity, estimates Evan Sparks, CEO of Determined AI, a startup that provides software to help companies manage AI projects. That’s roughly equal to the output of three nuclear power plants for an hour. A spokesperson for OpenAI questioned the calculation, noting that it makes ..."
 publishedDateTime: 2020-01-21T07:00:00Z
-sourceUrl: "https://www.wired.com/story/ai-great-things-burn-planet/"
-ampUrl: "https://www.wired.com/story/ai-great-things-burn-planet/amp"
-cdnAmpUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-great-things-burn-planet/amp"
+webUrl: "https://www.wired.com/story/ai-great-things-burn-planet/"
+ampWebUrl: "https://www.wired.com/story/ai-great-things-burn-planet/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-great-things-burn-planet/amp"
 type: article
 quality: 89
 heat: 89

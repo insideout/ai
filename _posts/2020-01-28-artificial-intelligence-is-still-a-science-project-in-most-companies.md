@@ -3,9 +3,9 @@ category: news
 title: "Artificial Intelligence Is Still A Science Project In Most Companies"
 excerpt: "Will AI remain in the labs while the industry moves on to the next technology trend, or will it become the revolutionary force some are predicting?"
 publishedDateTime: 2020-01-28T17:22:00Z
-sourceUrl: "https://www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/"
-ampUrl: "https://www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/amp/"
+webUrl: "https://www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/"
+ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/amp/"
 type: article
 quality: 87
 heat: 87

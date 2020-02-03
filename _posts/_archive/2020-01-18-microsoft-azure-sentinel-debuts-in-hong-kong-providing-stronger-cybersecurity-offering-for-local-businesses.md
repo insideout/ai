@@ -3,7 +3,7 @@ category: news
 title: "Microsoft Azure Sentinel Debuts in Hong Kong Providing Stronger Cybersecurity Offering for Local Businesses"
 excerpt: "The latest SIEM and SOAR tool combines the power of Azure and AI to reduce alert fatigue by 90 percent January 16, 2020, Hong Kong –– Security can be a never-ending saga — a chronicle of increasingly sophisticated attacks, volumes of alerts, and long resolution timeframes where today’s Security Information and Event Management (SIEM ..."
 publishedDateTime: 2020-01-18T15:26:00Z
-sourceUrl: "https://news.microsoft.com/en-hk/2020/01/16/microsoft-azure-sentinel-debuts-in-hong-kong-providing-stronger-cybersecurity-offering-for-local-businesses/"
+webUrl: "https://news.microsoft.com/en-hk/2020/01/16/microsoft-azure-sentinel-debuts-in-hong-kong-providing-stronger-cybersecurity-offering-for-local-businesses/"
 type: article
 quality: 36
 heat: -1
@@ -31,7 +31,7 @@ related:
   - title: "Training in cybersecurity a ‘hot topic’ in Australia"
     excerpt: "We’re currently seeing significant growth in cloud related training, especially Microsoft Azure and AWS. Cyber Security is also a hot topic at the moment ... We have software testing, courses that focus on securing the cloud, irrespective of vendor. Artificial Intelligence and Machine Learning coming soon, as well as recently introduced ..."
     publishedDateTime: 2020-01-20T15:14:00Z
-    sourceUrl: "https://itwire.com/security/training-in-cybersecurity-a-‘hot-topic’-in-australia.html"
+    webUrl: "https://itwire.com/security/training-in-cybersecurity-a-‘hot-topic’-in-australia.html"
     type: article
     provider:
       name: ITWire
@@ -44,7 +44,7 @@ related:
   - title: "How Automation and Artificial Intelligence Can Boost Cybersecurity"
     excerpt: "And while there are many tools available to stop them, there is a lot of space for improvement. Especially if you take automation into account. Machine learning and artificial intelligence are playing a significant role in cybersecurity. Automation tools can prevent, detect, and deal with tons of cyber threats way more efficiently and faster ..."
     publishedDateTime: 2020-01-20T22:45:00Z
-    sourceUrl: "https://roboticsandautomationnews.com/2020/01/20/how-automation-and-artificial-intelligence-can-boost-cybersecurity/28824/"
+    webUrl: "https://roboticsandautomationnews.com/2020/01/20/how-automation-and-artificial-intelligence-can-boost-cybersecurity/28824/"
     type: article
     provider:
       name: Robotics & Automation News

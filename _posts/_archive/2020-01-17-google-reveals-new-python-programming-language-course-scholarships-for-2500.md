@@ -3,9 +3,9 @@ category: news
 title: "Google reveals new Python programming language course: Scholarships for 2,500"
 excerpt: "Python has become one of the most programming languages due to the boom in data science and machine learning and the relative ease of learning the language ... which also introduces learners to the various tools for building AI applications in Microsoft's Azure cloud."
 publishedDateTime: 2020-01-17T12:27:00Z
-sourceUrl: "https://www.zdnet.com/article/google-reveals-new-python-programming-language-course-scholarships-for-2500/"
-ampUrl: "https://www.zdnet.com/google-amp/article/google-reveals-new-python-programming-language-course-scholarships-for-2500/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-reveals-new-python-programming-language-course-scholarships-for-2500/"
+webUrl: "https://www.zdnet.com/article/google-reveals-new-python-programming-language-course-scholarships-for-2500/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/google-reveals-new-python-programming-language-course-scholarships-for-2500/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-reveals-new-python-programming-language-course-scholarships-for-2500/"
 type: article
 quality: 51
 heat: 51

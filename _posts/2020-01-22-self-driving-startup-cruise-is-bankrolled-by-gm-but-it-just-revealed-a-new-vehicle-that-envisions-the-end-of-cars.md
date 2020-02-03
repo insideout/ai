@@ -3,7 +3,7 @@ category: news
 title: "Self-driving startup Cruise is bankrolled by GM, but it just revealed a new vehicle that envisions the end of cars"
 excerpt: "The Origin is the fifth-generation Cruise vehicle, is production ready, and could form the basis of a shared-mobility service."
 publishedDateTime: 2020-01-22T05:38:00Z
-sourceUrl: "https://www.businessinsider.com/self-driving-startup-cruise-unveils-origin-vehicle-end-of-cars-2020-1"
+webUrl: "https://www.businessinsider.com/self-driving-startup-cruise-unveils-origin-vehicle-end-of-cars-2020-1"
 type: article
 quality: 32
 heat: 32

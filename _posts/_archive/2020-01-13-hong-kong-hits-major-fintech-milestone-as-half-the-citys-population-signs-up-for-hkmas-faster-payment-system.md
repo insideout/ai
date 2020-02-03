@@ -3,9 +3,9 @@ category: news
 title: "Hong Kong hits major fintech milestone as half the city’s population signs up for HKMA’s Faster Payment System"
 excerpt: "“The Faster Payment System is an important move for the city to develop its fintech. The system has been very popular with the Hong Kong public ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry ..."
 publishedDateTime: 2020-01-13T11:11:00Z
-sourceUrl: "https://www.scmp.com/business/banking-finance/article/3045893/hong-kong-hits-major-fintech-milestone-half-citys"
-ampUrl: "https://amp.scmp.com/business/banking-finance/article/3045893/hong-kong-hits-major-fintech-milestone-half-citys"
-cdnAmpUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3045893/hong-kong-hits-major-fintech-milestone-half-citys"
+webUrl: "https://www.scmp.com/business/banking-finance/article/3045893/hong-kong-hits-major-fintech-milestone-half-citys"
+ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3045893/hong-kong-hits-major-fintech-milestone-half-citys"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3045893/hong-kong-hits-major-fintech-milestone-half-citys"
 type: article
 quality: 4
 heat: 4

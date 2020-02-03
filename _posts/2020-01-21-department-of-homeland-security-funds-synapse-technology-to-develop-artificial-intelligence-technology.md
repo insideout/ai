@@ -3,9 +3,9 @@ category: news
 title: "Department of Homeland Security Funds Synapse Technology to Develop Artificial Intelligence Technology"
 excerpt: "PALO ALTO, Calif., Jan. 21, 2020 /PRNewswire-PRWeb/ -- Artificial intelligence security and defense company Synapse Technology Corporation today announced that the Department of Homeland Security (DHS) Science and Technology Directorate (S&T) awarded the company a contract to develop artificial intelligence algorithms for computed tomography (CT) machines at airports across the United States."
 publishedDateTime: 2020-01-21T11:15:00Z
-sourceUrl: "https://www.benzinga.com/pressreleases/20/01/n15152696/department-of-homeland-security-funds-synapse-technology-to-develop-artificial-intelligence-techno"
-ampUrl: "https://amp.benzinga.com/amp/content/15152696"
-cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152696"
+webUrl: "https://www.benzinga.com/pressreleases/20/01/n15152696/department-of-homeland-security-funds-synapse-technology-to-develop-artificial-intelligence-techno"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15152696"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152696"
 type: article
 quality: 21
 heat: 21

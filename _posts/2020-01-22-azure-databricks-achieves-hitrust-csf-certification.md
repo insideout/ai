@@ -3,7 +3,7 @@ category: news
 title: "Azure Databricks Achieves HITRUST CSF® Certification"
 excerpt: "This certification validates security and compliance requirements with Azure Databricks for data analytics and AI across a wide variety of industry use cases. From personalized medicine and preventive healthcare to therapy discovery and highly tailored ..."
 publishedDateTime: 2020-01-22T16:29:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-azure-databricks-achieves-hitrust-csfreg-certification-/2020/01/22/9085505.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-azure-databricks-achieves-hitrust-csfreg-certification-/2020/01/22/9085505.htm"
 type: article
 quality: 39
 heat: 39

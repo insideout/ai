@@ -3,7 +3,7 @@ category: news
 title: "May AI boss you? More UAE employees comfortable working with robots"
 excerpt: "An unbiased approach to salary increases, promotions, and hiring are some of the reasons why artificial intelligence-enabled robots will make good managers in the workforce, a new study has discovered. Results from the second annual AI at Work study, conducted by Oracle and Future Workplace, revealed that the use of AI is becoming more ..."
 publishedDateTime: 2020-01-17T18:46:00Z
-sourceUrl: "https://www.khaleejtimes.com/business/local/may-ai-boss-you-more-uae-employees-comfortable-working-with-robots"
+webUrl: "https://www.khaleejtimes.com/business/local/may-ai-boss-you-more-uae-employees-comfortable-working-with-robots"
 type: article
 quality: 54
 heat: 54

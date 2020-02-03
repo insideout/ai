@@ -3,7 +3,7 @@ category: news
 title: "Toronto startup Nudge.ai is shutting down"
 excerpt: "Nudge.ai, the Toronto-based startup that developed a revenue intelligence platform, announced to its users on Monday that the company is shutting down. In a letter to sent to customers and obtained by BetaKit, Nudge co-founders Paul Teshima and Steven Woods explained that “the Nudge service is going away,” stating that “we were not able ..."
 publishedDateTime: 2020-01-20T22:09:00Z
-sourceUrl: "https://betakit.com/toronto-startup-nudge-ai-is-shutting-down/"
+webUrl: "https://betakit.com/toronto-startup-nudge-ai-is-shutting-down/"
 type: article
 quality: 37
 heat: 37

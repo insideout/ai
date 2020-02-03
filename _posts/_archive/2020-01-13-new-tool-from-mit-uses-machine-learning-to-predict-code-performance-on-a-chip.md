@@ -3,7 +3,7 @@ category: news
 title: "New Tool from MIT Uses Machine Learning to Predict Code Performance on a Chip"
 excerpt: "Now, MIT has highlighted a new tool by its researchers that uses machine learning to more accurately, easily and quickly predict code performance on computer chips. In essence, the new automated pipeline – called “Ithemal” – trains itself on labeled snippets of code (“basic blocks”) and uses that training to predict how long it will ..."
 publishedDateTime: 2020-01-13T20:11:00Z
-sourceUrl: "https://www.hpcwire.com/2020/01/13/new-tool-from-mit-uses-machine-learning-to-predict-code-performance-on-a-chip/"
+webUrl: "https://www.hpcwire.com/2020/01/13/new-tool-from-mit-uses-machine-learning-to-predict-code-performance-on-a-chip/"
 type: article
 quality: 36
 heat: 36

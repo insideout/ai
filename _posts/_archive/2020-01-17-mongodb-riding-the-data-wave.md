@@ -3,7 +3,7 @@ category: news
 title: "MongoDB: Riding The Data Wave"
 excerpt: "Unstructured data analytics tools are designed to analyze information that doesn't have a pre-defined model and include tools like natural language processing. Table 1: Structured Data Versus Unstructured Data (source: Adapted by author from igneous) Unstructured data is typically stored in NoSQL databases which can take a variety of forms ..."
 publishedDateTime: 2020-01-17T22:18:00Z
-sourceUrl: "https://seekingalpha.com/article/4317681-mongodb-riding-data-wave"
+webUrl: "https://seekingalpha.com/article/4317681-mongodb-riding-data-wave"
 type: article
 quality: 4
 heat: 4

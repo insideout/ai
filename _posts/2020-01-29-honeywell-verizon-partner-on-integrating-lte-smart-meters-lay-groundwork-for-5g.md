@@ -3,9 +3,9 @@ category: news
 title: "Honeywell, Verizon partner on integrating LTE, smart meters, lay groundwork for 5G"
 excerpt: "Must read: Microsoft's Azure Quantum employs Honeywell quantum hardware Honeywell lands Abu Dhabi ... but the two companies in a statement said they will investigate how 5G could be used to bring more automation, machine learning, and analytics to industrial settings."
 publishedDateTime: 2020-01-29T13:30:00Z
-sourceUrl: "https://www.zdnet.com/article/honeywell-verizon-partner-on-integrating-lte-smart-meters-lay-groundwork-for-5g/"
-ampUrl: "https://www.zdnet.com/google-amp/article/honeywell-verizon-partner-on-integrating-lte-smart-meters-lay-groundwork-for-5g/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-verizon-partner-on-integrating-lte-smart-meters-lay-groundwork-for-5g/"
+webUrl: "https://www.zdnet.com/article/honeywell-verizon-partner-on-integrating-lte-smart-meters-lay-groundwork-for-5g/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/honeywell-verizon-partner-on-integrating-lte-smart-meters-lay-groundwork-for-5g/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-verizon-partner-on-integrating-lte-smart-meters-lay-groundwork-for-5g/"
 type: article
 quality: 68
 heat: 68

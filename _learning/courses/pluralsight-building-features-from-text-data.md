@@ -1,7 +1,7 @@
 ---
 title: "Building Features from Text Data"
 excerpt: "This course covers aspects of extracting information from text documents and constructing classification models including feature vectorization, locality-sensitive hashing, stopword removal, lemmatization, and more from natural language processing. "
-sourceUrl: https://www.pluralsight.com/courses/building-features-text-data
+webUrl: https://www.pluralsight.com/courses/building-features-text-data
 type: course
 price: $$
 length: 2h 36m

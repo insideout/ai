@@ -3,9 +3,9 @@ category: news
 title: "Facebook bans deceptive deepfakes and some misleadingly modified media"
 excerpt: "Hence the new policy bans deepfake content that involves the use of AI technologies ... to produce more research and open source tools to detect deepfakes”. While says Facebook has been working ..."
 publishedDateTime: 2020-01-07T11:11:00Z
-sourceUrl: https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/
-ampUrl: https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/
+webUrl: https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/
+ampWebUrl: https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/
+cdnAmpWebUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/
 type: article
 quality: 74
 heat: 84
@@ -33,9 +33,9 @@ related:
   - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
     excerpt: "Facebook and other tech companies are sponsoring a \"Deepfake Detection Challenge\" to encourage AI researchers to develop new ways to ... Nearly two-thirds of Americans recently surveyed by Pew Research said altered images and videos caused a great deal ..."
     publishedDateTime: 2020-01-08T22:44:00Z
-    sourceUrl: https://www.usatoday.com/story/tech/2020/01/08/deepfakes-facebook-youtube-donald-trump-election/2836428001/
-    ampUrl: https://amp.usatoday.com/amp/2836428001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2836428001
+    webUrl: https://www.usatoday.com/story/tech/2020/01/08/deepfakes-facebook-youtube-donald-trump-election/2836428001/
+    ampWebUrl: https://amp.usatoday.com/amp/2836428001
+    cdnAmpWebUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2836428001
     type: article
     provider:
       name: USA Today

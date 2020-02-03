@@ -3,9 +3,9 @@ category: news
 title: "20 Tech Metatrends to Look out for in the 2020s"
 excerpt: "This metatrend is driven by the convergence of various biotechnologies (CRISPR, gene therapy), genome sequencing, and artificial intelligence. (1) A360 Executive Mastermind: If you’re an exponentially and abundance-minded entrepreneur who would like ..."
 publishedDateTime: 2020-01-10T15:03:00Z
-sourceUrl: "https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/"
-ampUrl: "https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/"
-cdnAmpUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/"
+webUrl: "https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/"
+ampWebUrl: "https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/"
+cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/"
 type: article
 quality: 44
 heat: -1
@@ -29,7 +29,7 @@ related:
   - title: "The Top 3 Tech Stocks to Watch in 2020"
     excerpt: "From Google to Apple, every big-name tech company is putting forth resources to make its next breakthrough. We hear about a lot of products on the news, such as self-driving cars and robot nannies, but where exactly should we be putting our money?"
     publishedDateTime: 2020-01-10T13:34:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/the-top-3-tech-stocks-to-watch-in-2020-2020-01-10"
+    webUrl: "https://www.marketwatch.com/press-release/the-top-3-tech-stocks-to-watch-in-2020-2020-01-10"
     type: article
     provider:
       name: MarketWatch
@@ -42,7 +42,7 @@ related:
   - title: "Artificial Intelligence Stocks to Watch in 2020"
     excerpt: "The artificial intelligence market was valued at $23.94 billion in 2018 ... But it is now far from just a gaming company.It’s graphics processing unit (GPU) chip technology powers much of the gaming industry but also self-driving cars, cloud computing, big data, and more. These GPU chips are able to process massive amounts of data."
     publishedDateTime: 2020-01-12T14:08:00Z
-    sourceUrl: "https://www.abc-7.com/story/41551663/artificial-intelligence-stocks-to-watch-in-2020"
+    webUrl: "https://www.abc-7.com/story/41551663/artificial-intelligence-stocks-to-watch-in-2020"
     type: article
     provider:
       name: ABC7

@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Deep Learning"
 excerpt: "Learn Introduction to Deep Learning from National Research University Higher School of Economics. The goal of this course is to give learners basic understanding of modern neural networks and their applications in computer vision and natural ..."
-sourceUrl: https://www.coursera.org/learn/intro-to-deep-learning
+webUrl: https://www.coursera.org/learn/intro-to-deep-learning
 type: course
 price: Free+
 length: 36 hours

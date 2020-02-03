@@ -3,9 +3,9 @@ category: news
 title: "Five things creating buzz at CES, including weird TVs, robots that refill toilet paper and cyber cats"
 excerpt: "The annual event had more than 175,000 attendees last year and 4,500 companies exhibiting all manner of cool, strange, silly and cutting-edge gadgets, including dozens of TVs, a robot made for cuddling and a flying ... Also, Bosch announced a car visor powered by artificial intelligence that blocks out the sun by beaming a shadow directly ..."
 publishedDateTime: 2020-01-28T02:40:00Z
-sourceUrl: "https://vancouversun.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/c975d97f-4643-4725-8b5d-d483c0fffa59"
-ampUrl: "https://vancouversun.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/c975d97f-4643-4725-8b5d-d483c0fffa59/amp"
-cdnAmpUrl: "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/c975d97f-4643-4725-8b5d-d483c0fffa59/amp"
+webUrl: "https://vancouversun.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/c975d97f-4643-4725-8b5d-d483c0fffa59"
+ampWebUrl: "https://vancouversun.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/c975d97f-4643-4725-8b5d-d483c0fffa59/amp"
+cdnAmpWebUrl: "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/c975d97f-4643-4725-8b5d-d483c0fffa59/amp"
 type: article
 quality: 44
 heat: 44

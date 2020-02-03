@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning with Python"
 excerpt: "Deep Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google AI researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples."
-sourceUrl: https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/
+webUrl: https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/
 type: book
 price: $22.00
 length: 

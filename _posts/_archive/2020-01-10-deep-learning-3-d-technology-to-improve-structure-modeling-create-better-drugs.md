@@ -3,9 +3,9 @@ category: news
 title: "Deep learning, 3-D technology to improve structure modeling, create better drugs"
 excerpt: "Proteins are often called the working molecules of the human body. A typical body has more than 20,000 different types of proteins, each of which are involved in many functions essential to human ..."
 publishedDateTime: 2020-01-10T08:28:00Z
-sourceUrl: "https://phys.org/news/2020-01-deep-d-technology-drugs.html"
-ampUrl: "https://phys.org/news/2020-01-deep-d-technology-drugs.amp"
-cdnAmpUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-deep-d-technology-drugs.amp"
+webUrl: "https://phys.org/news/2020-01-deep-d-technology-drugs.html"
+ampWebUrl: "https://phys.org/news/2020-01-deep-d-technology-drugs.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-deep-d-technology-drugs.amp"
 type: article
 quality: 34
 heat: 34

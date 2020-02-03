@@ -3,7 +3,7 @@ category: news
 title: "Elastic Cloud on Kubernetes 1.0 is now available"
 excerpt: "Support for advanced topologies through features like dedicated master and machine learning nodes and hot-warm-cold deployments lets users optimize ... including Google Kubernetes Engine, Red Hat OpenShift, Azure Kubernetes Service, Amazon Kubernetes Service, and vanilla Kubernetes. It’s also super simple to get started."
 publishedDateTime: 2020-01-16T07:37:00Z
-sourceUrl: "https://www.helpnetsecurity.com/2020/01/16/elastic-cloud-on-kubernetes-1-0/"
+webUrl: "https://www.helpnetsecurity.com/2020/01/16/elastic-cloud-on-kubernetes-1-0/"
 type: article
 quality: 39
 heat: 39
@@ -27,7 +27,7 @@ related:
   - title: "Groq Hardware Now Available on Nimbix Cloud for AI Workloads"
     excerpt: "The Groq processor is designed specifically for the performance requirements of computer vision, machine learning and other AI-related workloads, and is the first architecture in the world capable of 1 PetaOp/s performance on a single chip. Nimbix is the ..."
     publishedDateTime: 2020-01-17T17:46:00Z
-    sourceUrl: "https://insidehpc.com/2020/01/groq-hardware-now-available-on-nimbix-cloud-for-ai-workloads/"
+    webUrl: "https://insidehpc.com/2020/01/groq-hardware-now-available-on-nimbix-cloud-for-ai-workloads/"
     type: article
     provider:
       name: insideHPC

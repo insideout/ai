@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning"
 excerpt: "Learn Machine Learning from Stanford University. Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, ..."
-sourceUrl: https://www.coursera.org/learn/machine-learning
+webUrl: https://www.coursera.org/learn/machine-learning
 type: course
 price: Free+
 length: 56 hours

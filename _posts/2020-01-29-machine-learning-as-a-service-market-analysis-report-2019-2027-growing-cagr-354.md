@@ -3,7 +3,7 @@ category: news
 title: "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%"
 excerpt: "The overall machine learning as a service market worldwide was valued at US$ 1,117.9 Mn in 2018 and is set to grow with a CAGR of 35.4% during the forecast period. Rapid technological advancements and the growing adoption of cloud-based technologies worldwide are primarily driven by the Machine Learning As A Service market."
 publishedDateTime: 2020-01-29T15:18:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354-2020-01-29"
+webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354-2020-01-29"
 type: article
 quality: 62
 heat: 62

@@ -3,7 +3,7 @@ category: news
 title: "VA’s Artificial Intelligence Director Details AI Institute’s Early Efforts"
 excerpt: "Treasury Wants Better Information on Financial Entities’ Cybersecurity Practices CISA Says Agencies Have 10 Days to Patch NSA-Spotted Microsoft Vulnerability What Do You Think About Artificial Intelligence? The Pentagon’s AI Center Wants to Know. The Veterans Affairs Department’s nascent National Artificial Intelligence Institute is ..."
 publishedDateTime: 2020-01-22T21:50:00Z
-sourceUrl: "https://www.nextgov.com/emerging-tech/2020/01/vas-artificial-intelligence-director-details-ai-institutes-early-efforts/162585/"
+webUrl: "https://www.nextgov.com/emerging-tech/2020/01/vas-artificial-intelligence-director-details-ai-institutes-early-efforts/162585/"
 type: article
 quality: 50
 heat: 50

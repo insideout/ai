@@ -3,7 +3,7 @@ category: news
 title: "Maccabi Healthcare Services Teams Up With EarlySign on Israel's First AI-powered Flu Vaccination Campaign"
 excerpt: "/PRNewswire/ -- Medial EarlySign (earlysign.com), a leader in machine learning-based solutions to aid in the early detection and prevention of"
 publishedDateTime: 2020-01-13T12:30:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/maccabi-healthcare-services-teams-up-with-earlysign-on-israels-first-ai-powered-flu-vaccination-campaign-300985490.html"
+webUrl: "https://www.prnewswire.com/news-releases/maccabi-healthcare-services-teams-up-with-earlysign-on-israels-first-ai-powered-flu-vaccination-campaign-300985490.html"
 type: article
 quality: 22
 heat: 22

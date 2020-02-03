@@ -3,7 +3,7 @@ category: news
 title: "CROSSMARK 2020 Vision Focuses on Artificial Intelligence Advancements"
 excerpt: "/PRNewswire/ -- Through disruptive technologies and digital innovations, CROSSMARK, a privately owned, global sales and marketing services company, is eager"
 publishedDateTime: 2020-01-16T12:38:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/crossmark-2020-vision-focuses-on-artificial-intelligence-advancements-300987958.html"
+webUrl: "https://www.prnewswire.com/news-releases/crossmark-2020-vision-focuses-on-artificial-intelligence-advancements-300987958.html"
 type: article
 quality: 17
 heat: 17

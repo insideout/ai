@@ -3,7 +3,7 @@ category: news
 title: "For AI to succeed, ‘computer says no’ needs to die"
 excerpt: "We have already seen an example of this with the challenge to the UK government’s visa application algorithm mounted by Foxglove, a lobbying group that promotes ethics in the technology sector. I foresee organizations introducing AI governance, or a standardized level of transparency that will outline the factors and pipeline showing how an ..."
 publishedDateTime: 2020-01-30T15:31:00Z
-sourceUrl: "https://thenextweb.com/podium/2020/01/30/for-ai-to-succeed-computer-says-no-needs-to-die/"
+webUrl: "https://thenextweb.com/podium/2020/01/30/for-ai-to-succeed-computer-says-no-needs-to-die/"
 type: article
 quality: 49
 heat: 49

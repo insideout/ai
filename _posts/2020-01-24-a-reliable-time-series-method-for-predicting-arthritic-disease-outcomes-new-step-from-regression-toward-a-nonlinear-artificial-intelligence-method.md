@@ -3,9 +3,9 @@ category: news
 title: "A reliable time-series method for predicting arthritic disease outcomes: New step from regression toward a nonlinear artificial intelligence method."
 excerpt: "Objectives of this study were to verify, with an artificial intelligence-based nonlinear approach, if the estimation of ITS data could be facilitated, in addition to providing a computationally explicit equation. Dataset were from a study of Hawley et al. (2018) in which they evaluated the impact of UK National Institute for Health and Care ..."
 publishedDateTime: 2020-01-24T14:05:00Z
-sourceUrl: "https://www.physiciansweekly.com/a-reliable-time-series-method-for-predicting-arthritic-disease-outcomes-new-step-from-regression-toward-a-nonlinear-artificial-intelligence-method/"
-ampUrl: "https://www.physiciansweekly.com/a-reliable-time-series-method-for-predicting-arthritic-disease-outcomes-new-step-from-regression-toward-a-nonlinear-artificial-intelligence-method/amp/"
-cdnAmpUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/a-reliable-time-series-method-for-predicting-arthritic-disease-outcomes-new-step-from-regression-toward-a-nonlinear-artificial-intelligence-method/amp/"
+webUrl: "https://www.physiciansweekly.com/a-reliable-time-series-method-for-predicting-arthritic-disease-outcomes-new-step-from-regression-toward-a-nonlinear-artificial-intelligence-method/"
+ampWebUrl: "https://www.physiciansweekly.com/a-reliable-time-series-method-for-predicting-arthritic-disease-outcomes-new-step-from-regression-toward-a-nonlinear-artificial-intelligence-method/amp/"
+cdnAmpWebUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/a-reliable-time-series-method-for-predicting-arthritic-disease-outcomes-new-step-from-regression-toward-a-nonlinear-artificial-intelligence-method/amp/"
 type: article
 quality: 18
 heat: 18

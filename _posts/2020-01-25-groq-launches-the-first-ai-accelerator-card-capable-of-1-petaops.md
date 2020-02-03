@@ -3,9 +3,9 @@ category: news
 title: "Groq launches the first AI accelerator card capable of 1 PetaOPS"
 excerpt: "Why it matters: Groq is the hundredth startup to take a shot at making an AI accelerator card, the second to market, and the first to have a product reach the 1 quadrillion operations per second threshold. That’s quadruple the performance of Nvidia’s most powerful card. The Groq Tensor Streaming Processor (TSP) demands 300W per core ..."
 publishedDateTime: 2020-01-25T17:19:00Z
-sourceUrl: "https://www.techspot.com/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html"
-ampUrl: "https://www.techspot.com/amp/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html"
-cdnAmpUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html"
+webUrl: "https://www.techspot.com/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html"
+ampWebUrl: "https://www.techspot.com/amp/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html"
 type: article
 quality: 87
 heat: 87

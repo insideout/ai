@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Computer Vision"
 excerpt: "This course provides an introduction to computer vision including fundamentals of image formation, camera imaging geometry, feature detection and matching, multiview geometry including stereo, motion estimation and tracking, and classification. We’ll develop basic methods for applications that include finding known models in images, depth recovery from stereo, camera calibration, image stabilization, automated alignment (e.g. panoramas), tracking, and action recognition. We focus less on the machine learning aspect of CV as that is really classification theory best learned in an ML course."
-sourceUrl: https://classroom.udacity.com/courses/ud810
+webUrl: https://classroom.udacity.com/courses/ud810
 type: course
 price: Free
 length: 4 Months

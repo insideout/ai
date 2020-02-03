@@ -1,7 +1,7 @@
 ---
 title: "Modern Robotics, Course 2:  Robot Kinematics"
 excerpt: "Learn Modern Robotics, Course 2:  Robot Kinematics from Northwestern University. Do you want to know how robots work?  Are you interested in robotics as a career?  Are you willing to invest the effort to learn fundamental mathematical modeling ..."
-sourceUrl: https://www.coursera.org/learn/modernrobotics-course2
+webUrl: https://www.coursera.org/learn/modernrobotics-course2
 type: course
 price: Free+
 length: 18 hours

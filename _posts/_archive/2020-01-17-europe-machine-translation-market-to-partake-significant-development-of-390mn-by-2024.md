@@ -3,7 +3,7 @@ category: news
 title: "Europe Machine Translation Market to Partake Significant Development of $390mn by 2024"
 excerpt: "The Europe Machine Translation Market is predicted to hike at 15% CAGR to 2024, according to a 2019 Graphical Research report. The governments of EU economies are one of the major stakeholders in the Europe machine translation market. The European Commission (EC) introduced online eTranslation services for civil workers in November 2017."
 publishedDateTime: 2020-01-17T05:32:00Z
-sourceUrl: "https://www.cmo.com.au/mediareleases/37623/europe-machine-translation-market-to-partake/"
+webUrl: "https://www.cmo.com.au/mediareleases/37623/europe-machine-translation-market-to-partake/"
 type: article
 quality: 31
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "European Union to restrict the development of artificial intelligence"
     excerpt: "These rules will restrict artificial intelligence developers and ensure that these modern technologies are developed in an ethical way. The competent authority of the European Union plans to implement these new regulations in “high-risk sectors”. They include health care, transportation, and other fields. Member states in the European ..."
     publishedDateTime: 2020-01-17T13:58:00Z
-    sourceUrl: "https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/"
-    ampUrl: "https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/"
-    cdnAmpUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/"
+    webUrl: "https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/"
+    ampWebUrl: "https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/"
     type: article
     provider:
       name: GizChina
@@ -42,7 +42,7 @@ related:
   - title: "$7.5 million grant will fund development of socially savvy artificial intelligence teammates"
     excerpt: "University of Arizona researchers have been awarded $7.5 million to create an artificial intelligence agent that can understand social cues and human interactions, and use that information to help teams achieve their goals. The grant comes from the Defense Advanced Research Projects Agency and is part of DARPA's Artificial Social Intelligence ..."
     publishedDateTime: 2020-01-17T15:10:00Z
-    sourceUrl: "https://www.eurekalert.org/pub_releases/2020-01/uoa-gw011620.php"
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uoa-gw011620.php"
     type: article
     provider:
       name: EurekAlert!

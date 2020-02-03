@@ -3,7 +3,7 @@ category: news
 title: "Towards an Ethics of Artificial Intelligence"
 excerpt: "Establishing Global Dialogue on the Ethics of Artificial Intelligence: the Role of UNESCO The world must ensure that new technologies, especially those based on AI, are used for the good of our ..."
 publishedDateTime: 2019-12-30T06:03:00Z
-sourceUrl: "https://www.un.org/en/chronicle/article/towards-ethics-artificial-intelligence"
+webUrl: "https://www.un.org/en/chronicle/article/towards-ethics-artificial-intelligence"
 type: article
 quality: 34
 heat: 34

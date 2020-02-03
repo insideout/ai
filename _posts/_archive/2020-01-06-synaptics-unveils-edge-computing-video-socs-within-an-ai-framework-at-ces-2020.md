@@ -3,9 +3,9 @@ category: news
 title: "Synaptics unveils edge computing video SoCs within an AI framework at CES 2020"
 excerpt: "An integrated MIPI-CSI camera serial interface along with an advanced image signal processing engine provides the camera input for edge-based computer vision inferencing, the company said."
 publishedDateTime: 2020-01-06T22:38:00Z
-sourceUrl: "https://www.techrepublic.com/article/synaptics-unveils-edge-computing-video-socs-within-an-ai-framework-at-ces-2020/"
-ampUrl: "https://www.techrepublic.com/google-amp/article/synaptics-unveils-edge-computing-video-socs-within-an-ai-framework-at-ces-2020/"
-cdnAmpUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/synaptics-unveils-edge-computing-video-socs-within-an-ai-framework-at-ces-2020/"
+webUrl: "https://www.techrepublic.com/article/synaptics-unveils-edge-computing-video-socs-within-an-ai-framework-at-ces-2020/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/synaptics-unveils-edge-computing-video-socs-within-an-ai-framework-at-ces-2020/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/synaptics-unveils-edge-computing-video-socs-within-an-ai-framework-at-ces-2020/"
 type: article
 quality: 85
 heat: 85

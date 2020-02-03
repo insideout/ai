@@ -1,7 +1,7 @@
 ---
 title: "Our Final Invention: Artificial Intelligence and the End of the Human Era"
 excerpt: "In as little as a decade, artificial intelligence could match and then surpass human intelligence. Corporations and government agencies around the world are pouring billions into achieving AI's Holy Grail―human-level intelligence. Once AI has attained it, scientists argue, it will have survival drives much like our own. We may be forced to compete with a rival more cunning, more powerful, and more alien than we can imagine."
-sourceUrl: https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/1250058783/
+webUrl: https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/1250058783/
 type: book
 price: $10.88
 length: 

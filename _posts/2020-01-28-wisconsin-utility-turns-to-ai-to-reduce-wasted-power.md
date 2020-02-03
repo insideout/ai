@@ -3,9 +3,9 @@ category: news
 title: "Wisconsin Utility Turns to AI to Reduce Wasted Power"
 excerpt: "(TNS) — David Devereaux-Weber uses the Sense home energy monitor app to show the spike in electricity use when turning on the coffee maker in his Madison home. The coffee maker uses about 1 kilowatt of electricity, represented by the largest red circle on the tablet. David Devereaux-Weber installed a Sense home-energy monitor to find ..."
 publishedDateTime: 2020-01-28T19:22:00Z
-sourceUrl: "https://www.govtech.com/computing/Wisconsin-Utility-Turns-to-AI-to-Reduce-Wasted-Power.html"
-ampUrl: "https://www.govtech.com/computing/Wisconsin-Utility-Turns-to-AI-to-Reduce-Wasted-Power.html?AMP"
-cdnAmpUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/Wisconsin-Utility-Turns-to-AI-to-Reduce-Wasted-Power.html?AMP"
+webUrl: "https://www.govtech.com/computing/Wisconsin-Utility-Turns-to-AI-to-Reduce-Wasted-Power.html"
+ampWebUrl: "https://www.govtech.com/computing/Wisconsin-Utility-Turns-to-AI-to-Reduce-Wasted-Power.html?AMP"
+cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/Wisconsin-Utility-Turns-to-AI-to-Reduce-Wasted-Power.html?AMP"
 type: article
 quality: 57
 heat: 57

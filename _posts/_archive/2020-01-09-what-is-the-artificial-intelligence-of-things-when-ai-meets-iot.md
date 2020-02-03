@@ -3,7 +3,7 @@ category: news
 title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
 excerpt: "Artificial intelligence is when a system can complete a set of tasks or learn from data ... and then an AI system to make decisions about the data the internet of things devices are gathering. Autonomous Delivery Robots Similar to how AIoT is used with autonomous vehicles, autonomous delivery robots are another example of AIoT in action."
 publishedDateTime: 2020-01-09T22:57:00Z
-sourceUrl: "https://www.linkedin.com/pulse/what-artificial-intelligence-things-when-ai-meets-iot-bernard-marr"
+webUrl: "https://www.linkedin.com/pulse/what-artificial-intelligence-things-when-ai-meets-iot-bernard-marr"
 type: article
 quality: 54
 heat: 54

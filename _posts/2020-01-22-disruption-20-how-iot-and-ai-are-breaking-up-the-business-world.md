@@ -3,9 +3,9 @@ category: news
 title: "Disruption 2.0: How IoT And AI Are Breaking Up The Business World"
 excerpt: "Once again, businesses are under attack. We are in the midst of \"Disruption 2.0,\" and this time, the attack comes from within. Previously, in the age of Disruption 1.0, startups were spearheading the battle against established businesses."
 publishedDateTime: 2020-01-22T19:48:00Z
-sourceUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/"
-ampUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/"
+webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/"
+ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/"
 type: article
 quality: 87
 heat: 97
@@ -32,9 +32,9 @@ related:
   - title: "Artificial Intelligence Is Transforming The Way Businesses Work, And How"
     excerpt: "Artificial Intelligence is making major benchmarks in the transportation sector. It includes self-driving cars, radars, intelligent search to find routes and space for parking, and more. A new market research report by P&S Market Research stated global AI in the transportation market would reach $3.5 billion by 2023. AI in transportation seems ..."
     publishedDateTime: 2020-01-24T00:37:00Z
-    sourceUrl: "https://www.youthkiawaaz.com/2020/01/unwrapping-artificial-intelligence-how-it-takes-differnet-industries-to-next-level/"
-    ampUrl: "https://www.youthkiawaaz.com/2020/01/unwrapping-artificial-intelligence-how-it-takes-differnet-industries-to-next-level/amp/"
-    cdnAmpUrl: "https://www-youthkiawaaz-com.cdn.ampproject.org/c/s/www.youthkiawaaz.com/2020/01/unwrapping-artificial-intelligence-how-it-takes-differnet-industries-to-next-level/amp/"
+    webUrl: "https://www.youthkiawaaz.com/2020/01/unwrapping-artificial-intelligence-how-it-takes-differnet-industries-to-next-level/"
+    ampWebUrl: "https://www.youthkiawaaz.com/2020/01/unwrapping-artificial-intelligence-how-it-takes-differnet-industries-to-next-level/amp/"
+    cdnAmpWebUrl: "https://www-youthkiawaaz-com.cdn.ampproject.org/c/s/www.youthkiawaaz.com/2020/01/unwrapping-artificial-intelligence-how-it-takes-differnet-industries-to-next-level/amp/"
     type: article
     provider:
       name: Youth Ki Awaaz

@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020"
 excerpt: "HTF MI newly added the Global Artificial Intelligence Platform Market Study that gives meticulous investigation of current scenario of the Market size, share, demand, growth, trends, and forecast in the coming years."
 publishedDateTime: 2020-01-16T17:03:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020-2020-01-16"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020-2020-01-16"
 type: article
 quality: 66
 heat: 76
@@ -30,7 +30,7 @@ related:
   - title: "Artificial Intelligence In Medical Imaging Market 2019 Disclosing Latest Trends and Advancement Outlook 2025"
     excerpt: "The Artificial Intelligence In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Medical Imaging Market\"."
     publishedDateTime: 2020-01-20T20:22:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2019-disclosing-latest-trends-and-advancement-outlook-2025-2020-01-20"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2019-disclosing-latest-trends-and-advancement-outlook-2025-2020-01-20"
     type: article
     provider:
       name: MarketWatch

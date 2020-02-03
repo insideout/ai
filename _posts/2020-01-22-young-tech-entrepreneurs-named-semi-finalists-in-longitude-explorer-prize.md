@@ -3,7 +3,7 @@ category: news
 title: "Young tech entrepreneurs named semi-finalists in Longitude Explorer Prize"
 excerpt: "such as Artificial Intelligence (AI), to create innovative solutions to some of the greatest challenges of our time - including climate change, ageing populations and sustainable transport. Other ideas include a bin that scans people’s rubbish informing them of what could be recycled, an AI therapy dog designed by autistic children for ..."
 publishedDateTime: 2020-01-22T12:32:00Z
-sourceUrl: "https://bdaily.co.uk/articles/2020/01/22/young-tech-entrepreneurs-named-semi-finalists-in-longitude-explorer-prize"
+webUrl: "https://bdaily.co.uk/articles/2020/01/22/young-tech-entrepreneurs-named-semi-finalists-in-longitude-explorer-prize"
 type: article
 quality: 23
 heat: 23

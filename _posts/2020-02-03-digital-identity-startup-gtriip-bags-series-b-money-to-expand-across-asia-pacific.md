@@ -3,7 +3,7 @@ category: news
 title: "Digital identity startup Gtriip bags series B money to expand across Asia Pacific"
 excerpt: "It uses AI and machine learning tech to automatically verify photo IDs and owners. The startup’s customer hotels in Singapore are enabled with its e-visitor authentication system, which reduces guest check-in time at the front desk by 70% and improves productivity, it said. “Gtriip envisions and believes in a future where people can travel ..."
 publishedDateTime: 2020-02-03T03:42:00Z
-sourceUrl: "https://www.techinasia.com/gtriip-funding-apac"
+webUrl: "https://www.techinasia.com/gtriip-funding-apac"
 type: article
 quality: 27
 heat: 27

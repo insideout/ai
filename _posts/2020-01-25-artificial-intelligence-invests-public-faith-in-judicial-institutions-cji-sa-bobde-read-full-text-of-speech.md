@@ -3,9 +3,9 @@ category: news
 title: "Artificial Intelligence Invests Public Faith In Judicial Institutions: CJI SA Bobde [Read Full Text Of Speech]"
 excerpt: "Speaking at the 79 th Foundation Day of the Income Tax Appellate Tribunal yesterday, CJI SA Bobde laid stress upon the significance of using Technology and Artificial Intelligence in judicial functioning. He told that the Artificial Intelligence systems proposed to be employed in courts possess reading speeds of one million characters per second."
 publishedDateTime: 2020-01-25T13:42:00Z
-sourceUrl: "https://www.livelaw.in/top-stories/artificial-intelligence-invests-public-faith-in-judicial-institutions-cji-sa-bobde-152016"
-ampUrl: "https://www.livelaw.in/amp/top-stories/artificial-intelligence-invests-public-faith-in-judicial-institutions-cji-sa-bobde-152016"
-cdnAmpUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/top-stories/artificial-intelligence-invests-public-faith-in-judicial-institutions-cji-sa-bobde-152016"
+webUrl: "https://www.livelaw.in/top-stories/artificial-intelligence-invests-public-faith-in-judicial-institutions-cji-sa-bobde-152016"
+ampWebUrl: "https://www.livelaw.in/amp/top-stories/artificial-intelligence-invests-public-faith-in-judicial-institutions-cji-sa-bobde-152016"
+cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/top-stories/artificial-intelligence-invests-public-faith-in-judicial-institutions-cji-sa-bobde-152016"
 type: article
 quality: 32
 heat: 32

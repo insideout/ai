@@ -3,9 +3,9 @@ category: news
 title: "Top 3 Tech-Driven Trends That Will Shape The Fintech Industry In 2020"
 excerpt: "At an exciting time like this, let us take a closer look at the major tech-driven trends that will dominate the fintech industry in 2020. Artificial intelligence (AI) is a truly transformative ..."
 publishedDateTime: 2020-02-01T01:47:00Z
-sourceUrl: "https://inc42.com/resources/top-3-tech-driven-trends-that-will-shape-the-fintech-industry-in-2020/"
-ampUrl: "https://inc42.com/resources/top-3-tech-driven-trends-that-will-shape-the-fintech-industry-in-2020/?amp"
-cdnAmpUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/top-3-tech-driven-trends-that-will-shape-the-fintech-industry-in-2020/?amp"
+webUrl: "https://inc42.com/resources/top-3-tech-driven-trends-that-will-shape-the-fintech-industry-in-2020/"
+ampWebUrl: "https://inc42.com/resources/top-3-tech-driven-trends-that-will-shape-the-fintech-industry-in-2020/?amp"
+cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/top-3-tech-driven-trends-that-will-shape-the-fintech-industry-in-2020/?amp"
 type: article
 quality: 44
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec"
     excerpt: "Alfieri, one of Business Insider's 2019 Rising Stars of Wall Street, lays out the biggest themes to watch for fintech in 2020."
     publishedDateTime: 2020-01-29T19:56:00Z
-    sourceUrl: "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1"
-    ampUrl: "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp"
-    cdnAmpUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp"
+    webUrl: "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1"
+    ampWebUrl: "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp"
     type: article
     provider:
       name: Business Insider
@@ -44,7 +44,7 @@ related:
   - title: "Rajesh Goenka of RP tech India Explains the Top Technology Trends to Watch in 2020"
     excerpt: "Research states that technologies such as AI, Automatic Speech Recognition (ASR), Machine Learning, Natural Language Processing (NLP)will further boost the industry-wide adoption of voice assistant solutions. This emerging business stream also offers enormous growth prospects to start-ups, smart equipment manufacturers, technology distributors ..."
     publishedDateTime: 2020-01-28T05:40:00Z
-    sourceUrl: "https://www.tmcnet.com/usubmit/2020/01/28/9087576.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2020/01/28/9087576.htm"
     type: article
     provider:
       name: TMCnet

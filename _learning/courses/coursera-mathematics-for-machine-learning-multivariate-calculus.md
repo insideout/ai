@@ -1,7 +1,7 @@
 ---
 title: "Mathematics for Machine Learning: Multivariate Calculus"
 excerpt: "Learn Mathematics for Machine Learning: Multivariate Calculus from Imperial College London. This course offers a brief introduction to the multivariate calculus required to build many common machine learning techniques. We start at the very ..."
-sourceUrl: https://www.coursera.org/learn/multivariate-calculus-machine-learning
+webUrl: https://www.coursera.org/learn/multivariate-calculus-machine-learning
 type: course
 price: Free+
 length: 22 hours

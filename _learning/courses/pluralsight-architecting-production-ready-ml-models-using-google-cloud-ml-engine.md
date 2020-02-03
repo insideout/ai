@@ -1,7 +1,7 @@
 ---
 title: "Architecting Production-ready ML Models Using Google Cloud ML Engine"
 excerpt: "This course covers Cloud ML Engine, a powerful service that supports distributed training and evaluation for models built in TensorFlow, Scikit-learn and XGBoost. "
-sourceUrl: https://www.pluralsight.com/courses/google-ml-engine-architecting-production-ready-models
+webUrl: https://www.pluralsight.com/courses/google-ml-engine-architecting-production-ready-models
 type: course
 price: $$
 length: 2h 12m

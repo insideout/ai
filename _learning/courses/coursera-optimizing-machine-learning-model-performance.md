@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Machine Learning Model Performance"
 excerpt: "Learn Optimizing Machine Learning Model Performance from Alberta Machine Intelligence Institute. This course is all about data and how it is critical to the success of your applied machine learning model. Completing this course will give learners ..."
-sourceUrl: https://www.coursera.org/learn/optimize-machine-learning-model-performance
+webUrl: https://www.coursera.org/learn/optimize-machine-learning-model-performance
 type: course
 price: Free+
 length: 

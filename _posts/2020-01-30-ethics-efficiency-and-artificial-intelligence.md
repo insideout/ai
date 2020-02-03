@@ -3,7 +3,7 @@ category: news
 title: "Ethics, efficiency, and artificial intelligence"
 excerpt: "As AI systems continue to approach — or exceed — human-level performance in various ... But until we do, society needs to recognize and grapple with the ethics and trade-offs. Talal Rahwan is an associate professor at New York University Abu Dhabi. Jacob Crandall is an associate professor at Brigham Young University. Fatimah Ishowo-Oloko ..."
 publishedDateTime: 2020-01-30T08:39:00Z
-sourceUrl: "https://www.bostonglobe.com/2020/01/30/opinion/ethics-efficiency-artificial-intelligence/"
+webUrl: "https://www.bostonglobe.com/2020/01/30/opinion/ethics-efficiency-artificial-intelligence/"
 type: article
 quality: 36
 heat: 36

@@ -3,7 +3,7 @@ category: news
 title: "Deep Graph Library, part 2 — Training on Amazon SageMaker"
 excerpt: "Well, as DGL is available on Amazon SageMaker, I’ll show you in this post how to quickly and easily adapt your DGL code for SageMaker. As you probably guessed, we’re going to use script mode ..."
 publishedDateTime: 2020-01-28T09:58:00Z
-sourceUrl: "https://medium.com/@julsimon/deep-graph-library-part-2-training-on-amazon-sagemaker-54d318dfc814"
+webUrl: "https://medium.com/@julsimon/deep-graph-library-part-2-training-on-amazon-sagemaker-54d318dfc814"
 type: article
 quality: 84
 heat: 84

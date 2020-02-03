@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Applied Machine Learning"
 excerpt: "Learn Introduction to Applied Machine Learning from Alberta Machine Intelligence Institute. This course is for professionals who have heard the buzz around machine learning and want to apply machine learning to data analysis and automation. ..."
-sourceUrl: https://www.coursera.org/learn/machine-learning-applied
+webUrl: https://www.coursera.org/learn/machine-learning-applied
 type: course
 price: Free+
 length: 8 hours

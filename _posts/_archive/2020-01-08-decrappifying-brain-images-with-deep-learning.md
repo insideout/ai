@@ -3,7 +3,7 @@ category: news
 title: "Decrappifying brain images with deep learning"
 excerpt: "They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing the resolution of microscope images, a process called ..."
 publishedDateTime: 2020-01-08T17:19:00Z
-sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uota-dbi010820.php
+webUrl: https://www.eurekalert.org/pub_releases/2020-01/uota-dbi010820.php
 type: article
 quality: 54
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "New approach using deep learning could speed up brain image microscopy by 16 times"
     excerpt: "They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing the resolution of microscope images, a process called ..."
     publishedDateTime: 2020-01-08T23:21:00Z
-    sourceUrl: https://www.news-medical.net/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    webUrl: https://www.news-medical.net/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    ampWebUrl: https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    cdnAmpWebUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
     type: article
     provider:
       name: News Medical

@@ -3,9 +3,9 @@ category: news
 title: "Here's how Compass uses artificial intelligence to support its agents"
 excerpt: "'The vast majority of what we do will disappear into the regular tools agents use every day,' Compass CTO Joseph Sirosh said on stage at ICNY “The vast majority of what we do will disappear into the regular tools agents use every day,"
 publishedDateTime: 2020-01-29T21:04:00Z
-sourceUrl: "https://www.inman.com/2020/01/29/heres-how-compass-uses-artificial-intelligence-to-support-its-agents/"
-ampUrl: "https://www.inman.com/2020/01/29/heres-how-compass-uses-artificial-intelligence-to-support-its-agents/amp/"
-cdnAmpUrl: "https://www-inman-com.cdn.ampproject.org/c/s/www.inman.com/2020/01/29/heres-how-compass-uses-artificial-intelligence-to-support-its-agents/amp/"
+webUrl: "https://www.inman.com/2020/01/29/heres-how-compass-uses-artificial-intelligence-to-support-its-agents/"
+ampWebUrl: "https://www.inman.com/2020/01/29/heres-how-compass-uses-artificial-intelligence-to-support-its-agents/amp/"
+cdnAmpWebUrl: "https://www-inman-com.cdn.ampproject.org/c/s/www.inman.com/2020/01/29/heres-how-compass-uses-artificial-intelligence-to-support-its-agents/amp/"
 type: article
 quality: 57
 heat: 57

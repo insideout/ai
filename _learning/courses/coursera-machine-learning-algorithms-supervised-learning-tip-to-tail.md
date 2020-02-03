@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Algorithms: Supervised Learning Tip to Tail"
 excerpt: "Learn Machine Learning Algorithms: Supervised Learning Tip to Tail from Alberta Machine Intelligence Institute. This course takes you from understanding the fundamentals of a machine learning project. Learners will understand and implement ..."
-sourceUrl: https://www.coursera.org/learn/machine-learning-classification-algorithms
+webUrl: https://www.coursera.org/learn/machine-learning-classification-algorithms
 type: course
 price: Free+
 length: 11 hours

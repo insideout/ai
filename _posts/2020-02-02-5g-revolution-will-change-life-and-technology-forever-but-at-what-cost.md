@@ -3,9 +3,9 @@ category: news
 title: "5G revolution will change life and technology forever… but at what cost?"
 excerpt: "With artificial intelligence doing everything from checking in hotel guests to running robot ... We are creative and can adapt as we need to, so I think most people will embrace and enjoy the huge changes. DRIVERLESS cars will become a reality with the “oxygen” of 5G. A super-fast, stable data network means cars will be able to “talk ..."
 publishedDateTime: 2020-02-02T00:35:00Z
-sourceUrl: "https://www.thesun.ie/tech/5053775/5g-revolution-will-change-life-and-technology-forever-but-at-what-cost/"
-ampUrl: "https://www.thesun.ie/tech/5053775/5g-revolution-will-change-life-and-technology-forever-but-at-what-cost/amp/"
-cdnAmpUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/5053775/5g-revolution-will-change-life-and-technology-forever-but-at-what-cost/amp/"
+webUrl: "https://www.thesun.ie/tech/5053775/5g-revolution-will-change-life-and-technology-forever-but-at-what-cost/"
+ampWebUrl: "https://www.thesun.ie/tech/5053775/5g-revolution-will-change-life-and-technology-forever-but-at-what-cost/amp/"
+cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/5053775/5g-revolution-will-change-life-and-technology-forever-but-at-what-cost/amp/"
 type: article
 quality: 43
 heat: 43

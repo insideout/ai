@@ -1,7 +1,7 @@
 ---
 title: "Building Your First PyTorch Solution"
 excerpt: "This course covers the important practical aspects of installing PyTorch from scratch on a variety of different platforms and getting going with classification and regression models. "
-sourceUrl: https://www.pluralsight.com/courses/building-your-first-pytorch-solution
+webUrl: https://www.pluralsight.com/courses/building-your-first-pytorch-solution
 type: course
 price: $$
 length: 2h 24m

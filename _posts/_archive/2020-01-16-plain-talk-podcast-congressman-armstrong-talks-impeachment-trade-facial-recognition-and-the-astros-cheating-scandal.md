@@ -3,7 +3,7 @@ category: news
 title: "Plain Talk Podcast: Congressman Armstrong talks impeachment, trade, facial recognition, and the Astros cheating scandal"
 excerpt: "We rely on advertising to deliver quality local news to the communities we serve. Please disable your ad blocker and refresh the page or subscribe to a digital membership and support our journalism efforts."
 publishedDateTime: 2020-01-16T18:19:00Z
-sourceUrl: "https://www.inforum.com/opinion/4868033-Plain-Talk-Podcast-Congressman-Armstrong-talks-impeachment-trade-facial-recognition-and-the-Astros-cheating-scandal"
+webUrl: "https://www.inforum.com/opinion/4868033-Plain-Talk-Podcast-Congressman-Armstrong-talks-impeachment-trade-facial-recognition-and-the-Astros-cheating-scandal"
 type: article
 quality: 30
 heat: 30

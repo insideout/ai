@@ -3,9 +3,9 @@ category: news
 title: "Apple iPhone 12 Camera May Have AI-Based Image Recognition, Bokeh Effect In Videos: Report"
 excerpt: "The company has acquired XNOR.ai, which has been listed by Forbes as one of the most promising AI companies of 2019."
 publishedDateTime: 2020-01-16T11:22:00Z
-sourceUrl: "https://www.ibtimes.com/apple-iphone-12-camera-may-have-ai-based-image-recognition-bokeh-effect-videos-report-2903533"
-ampUrl: "https://www.ibtimes.com/apple-iphone-12-camera-may-have-ai-based-image-recognition-bokeh-effect-videos-report-2903533?amp=1"
-cdnAmpUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/apple-iphone-12-camera-may-have-ai-based-image-recognition-bokeh-effect-videos-report-2903533?amp=1"
+webUrl: "https://www.ibtimes.com/apple-iphone-12-camera-may-have-ai-based-image-recognition-bokeh-effect-videos-report-2903533"
+ampWebUrl: "https://www.ibtimes.com/apple-iphone-12-camera-may-have-ai-based-image-recognition-bokeh-effect-videos-report-2903533?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/apple-iphone-12-camera-may-have-ai-based-image-recognition-bokeh-effect-videos-report-2903533?amp=1"
 type: article
 quality: 51
 heat: 51

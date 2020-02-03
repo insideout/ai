@@ -3,7 +3,7 @@ category: news
 title: "Canadian company releases guide on teaching basics of artificial intelligence"
 excerpt: "A Canadian science and technology company named Actua has released an AI Education Handbook that guides teachers on how to teach the basics of artificial intelligence to elementary and high school students. “AI is an emerging technology that will be a priority for job markets,” said Caitlin Quarrington, the Senior Manager of Education at ..."
 publishedDateTime: 2020-01-29T19:54:00Z
-sourceUrl: "https://www.rcinet.ca/en/2020/01/29/canadian-company-releases-guide-on-teaching-basics-of-artificial-intelligence/"
+webUrl: "https://www.rcinet.ca/en/2020/01/29/canadian-company-releases-guide-on-teaching-basics-of-artificial-intelligence/"
 type: article
 quality: 36
 heat: 36

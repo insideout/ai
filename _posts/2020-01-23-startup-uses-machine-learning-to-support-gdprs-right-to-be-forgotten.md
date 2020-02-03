@@ -3,9 +3,9 @@ category: news
 title: "Startup uses machine learning to support GDPR’s right to be forgotten"
 excerpt: "Machine learning startup Mine is using the technology to help internet users see the full extent of their digital footprint and exercise their right to be forgotten under the European Union’s General Data Protection Regulation (GDPR). The right to be forgotten was enshrined in law for the first time when the GDPR came into effect at the end ..."
 publishedDateTime: 2020-01-23T11:14:00Z
-sourceUrl: "https://www.computerweekly.com/feature/Startup-uses-machine-learning-to-leverage-GDPRs-right-to-be-forgotten"
-ampUrl: "https://www.computerweekly.com/feature/Startup-uses-machine-learning-to-leverage-GDPRs-right-to-be-forgotten?amp=1"
-cdnAmpUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Startup-uses-machine-learning-to-leverage-GDPRs-right-to-be-forgotten?amp=1"
+webUrl: "https://www.computerweekly.com/feature/Startup-uses-machine-learning-to-leverage-GDPRs-right-to-be-forgotten"
+ampWebUrl: "https://www.computerweekly.com/feature/Startup-uses-machine-learning-to-leverage-GDPRs-right-to-be-forgotten?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Startup-uses-machine-learning-to-leverage-GDPRs-right-to-be-forgotten?amp=1"
 type: article
 quality: 39
 heat: 39

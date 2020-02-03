@@ -3,9 +3,9 @@ category: news
 title: "Fund managers must embrace AI disruption"
 excerpt: "If there is one industry that would greatly benefit from the genuine adoption of artificial intelligence (AI), it is investment management. Investing, in its simplest form, is about predicting the future — the future value of a company, index, currency, country, or relationship. Investment predictions are made like all predictions ..."
 publishedDateTime: 2020-01-15T05:00:00Z
-sourceUrl: "https://www.ft.com/content/e58a767a-fbe8-4461-8cdf-cfc0f8a80de9"
-ampUrl: "https://amp.ft.com/content/e58a767a-fbe8-4461-8cdf-cfc0f8a80de9"
-cdnAmpUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e58a767a-fbe8-4461-8cdf-cfc0f8a80de9"
+webUrl: "https://www.ft.com/content/e58a767a-fbe8-4461-8cdf-cfc0f8a80de9"
+ampWebUrl: "https://amp.ft.com/content/e58a767a-fbe8-4461-8cdf-cfc0f8a80de9"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e58a767a-fbe8-4461-8cdf-cfc0f8a80de9"
 type: article
 quality: 57
 heat: 57

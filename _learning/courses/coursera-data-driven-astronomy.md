@@ -1,7 +1,7 @@
 ---
 title: "Data-driven Astronomy"
 excerpt: "Learn Data-driven Astronomy from The University of Sydney. Science is undergoing a data explosion, and astronomy is leading the way. Modern telescopes produce terabytes of data per observation, and the simulations required to model our observable ..."
-sourceUrl: https://www.coursera.org/learn/data-driven-astronomy
+webUrl: https://www.coursera.org/learn/data-driven-astronomy
 type: course
 price: Free+
 length: 22 hours

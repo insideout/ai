@@ -3,9 +3,9 @@ category: news
 title: "Pizza robots, underwater scooters thrill at Consumer Electronics Show"
 excerpt: "The annual gadget fest in Las Vegas started this week with \"CES Unveiled,\" an event highlighted by several new robotic and artificial intelligence technology ... take it out when it’s done and slice it up. Picnic, the startup behind the robot, said it’s also assembling pizzas at T-Mobile Park in Seattle, where the company is based."
 publishedDateTime: 2020-01-10T03:03:00Z
-sourceUrl: "https://thewest.com.au/news/world/pizza-robots-underwater-scooters-thrill-at-consumer-electronics-show-ng-b881429758z"
-ampUrl: "https://thewest.com.au/news/world/pizza-robots-underwater-scooters-thrill-at-consumer-electronics-show-ng-b881429758z.amp"
-cdnAmpUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/news/world/pizza-robots-underwater-scooters-thrill-at-consumer-electronics-show-ng-b881429758z.amp"
+webUrl: "https://thewest.com.au/news/world/pizza-robots-underwater-scooters-thrill-at-consumer-electronics-show-ng-b881429758z"
+ampWebUrl: "https://thewest.com.au/news/world/pizza-robots-underwater-scooters-thrill-at-consumer-electronics-show-ng-b881429758z.amp"
+cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/news/world/pizza-robots-underwater-scooters-thrill-at-consumer-electronics-show-ng-b881429758z.amp"
 type: article
 quality: 59
 heat: 59

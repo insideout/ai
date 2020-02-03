@@ -3,9 +3,9 @@ category: news
 title: "Researchers: Are we on the cusp of an ‘AI winter’?"
 excerpt: "some researchers believe it would be wrong to call this new phase an AI winter. Robot Wars judge Noel Sharkey, who is also a professor of AI and robotics at Sheffield University, told the BBC that he likes the term \"AI autumn\" - and several others agree."
 publishedDateTime: 2020-01-12T00:22:00Z
-sourceUrl: "https://www.bbc.com/news/technology-51064369"
-ampUrl: "https://www.bbc.com/news/amp/technology-51064369"
-cdnAmpUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51064369"
+webUrl: "https://www.bbc.com/news/technology-51064369"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-51064369"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51064369"
 type: article
 quality: 187
 heat: 187

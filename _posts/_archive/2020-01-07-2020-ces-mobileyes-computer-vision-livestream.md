@@ -3,7 +3,7 @@ category: news
 title: "2020 CES: Mobileye’s Computer Vision (Livestream)"
 excerpt: "Intel (NASDAQ: INTC), a leader in the semiconductor industry, is shaping the data-centric future with computing and communications technology that is the foundation of the world’s innovations. The company’s engineering expertise is helping address the ..."
 publishedDateTime: 2020-01-07T17:35:00Z
-sourceUrl: https://newsroom.intel.com/news/2020-ces-mobileye-news-livestream-replay/
+webUrl: https://newsroom.intel.com/news/2020-ces-mobileye-news-livestream-replay/
 type: article
 quality: 39
 heat: 39

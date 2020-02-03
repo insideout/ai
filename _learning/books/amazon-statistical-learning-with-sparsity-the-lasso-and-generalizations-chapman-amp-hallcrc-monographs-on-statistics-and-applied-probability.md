@@ -1,7 +1,7 @@
 ---
 title: "Statistical Learning with Sparsity: The Lasso and Generalizations (Chapman & Hall/CRC Monographs on Statistics and Applied Probability)"
 excerpt: "A sparse statistical model has only a small number of nonzero parameters or weights; therefore, it is much easier to estimate and interpret than a dense model. Statistical Learning with Sparsity: The Lasso and Generalizations presents methods that exploit sparsity to help recover the underlying signal in a set of data."
-sourceUrl: https://www.amazon.com/Statistical-Learning-Sparsity-Generalizations-Probability/dp/1498712169/
+webUrl: https://www.amazon.com/Statistical-Learning-Sparsity-Generalizations-Probability/dp/1498712169/
 type: book
 price: $83.05
 length: 

@@ -3,7 +3,7 @@ category: news
 title: "Using Azure to Understand Azure"
 excerpt: "Azure Machine Learning (AML) is a great example. Over the years, my team has developed a portfolio of production models, spanning everything from behavioral clustering to anomaly detection."
 publishedDateTime: 2020-01-15T17:32:00Z
-sourceUrl: "https://medium.com/data-science-at-microsoft/using-azure-to-understand-azure-1c8f5dc60a0a"
+webUrl: "https://medium.com/data-science-at-microsoft/using-azure-to-understand-azure-1c8f5dc60a0a"
 type: article
 quality: 69
 heat: 79
@@ -31,9 +31,9 @@ related:
   - title: "How Mumbai-based Taglr is using AI to understand ecommerce behaviour and aggregate a marketplace for users"
     excerpt: "Anirudha says, “What differentiates us is the quality of the experience, the focus on relevant products and localisation by using an artificial intelligence (AI) engine to understand India's shopping trends.\" Because of the large volumes of data and consumer behaviour insights, the team relied on a machine learning engine to be a part of the ..."
     publishedDateTime: 2020-01-20T00:28:00Z
-    sourceUrl: "https://yourstory.com/2020/01/mumbai-taglr-ecommerce-marketplace-ai"
-    ampUrl: "https://yourstory.com/2020/01/mumbai-taglr-ecommerce-marketplace-ai/amp"
-    cdnAmpUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/mumbai-taglr-ecommerce-marketplace-ai/amp"
+    webUrl: "https://yourstory.com/2020/01/mumbai-taglr-ecommerce-marketplace-ai"
+    ampWebUrl: "https://yourstory.com/2020/01/mumbai-taglr-ecommerce-marketplace-ai/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/mumbai-taglr-ecommerce-marketplace-ai/amp"
     type: article
     provider:
       name: Your Story

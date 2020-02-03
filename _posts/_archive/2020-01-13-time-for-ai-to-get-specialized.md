@@ -3,7 +3,7 @@ category: news
 title: "Time for AI to get specialized?"
 excerpt: "Mere days after the AI Summit, it announced that America’s first exascale system, Aurora, would house the company’s new Ponte Vecchio GPU. Described as the 'workhorse' for HPC and AI convergence, Ponte Vecchio is a powerful GPU designed to take on more ..."
 publishedDateTime: 2020-01-13T16:26:00Z
-sourceUrl: "https://www.datacenterdynamics.com/analysis/time-ai-get-specialized/"
+webUrl: "https://www.datacenterdynamics.com/analysis/time-ai-get-specialized/"
 type: article
 quality: 39
 heat: 39

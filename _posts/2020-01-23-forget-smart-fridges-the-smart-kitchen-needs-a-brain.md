@@ -3,9 +3,9 @@ category: news
 title: "Forget smart fridges, the smart kitchen needs a brain"
 excerpt: "Progression like that might happen faster than you'd expect. LG recently announced a new AI chip focused on object recognition, and Amazon won a patent for a fridge that can sense spoiled food, but neither one has made it to market yet. There's a bit of the loop still left to close when it comes to recommending recipes with only the ..."
 publishedDateTime: 2020-01-23T13:46:00Z
-sourceUrl: "https://www.cnet.com/news/what-the-smart-kitchen-still-needs/"
-ampUrl: "https://www.cnet.com/google-amp/news/what-the-smart-kitchen-still-needs/"
-cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/what-the-smart-kitchen-still-needs/"
+webUrl: "https://www.cnet.com/news/what-the-smart-kitchen-still-needs/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/what-the-smart-kitchen-still-needs/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/what-the-smart-kitchen-still-needs/"
 type: article
 quality: 89
 heat: 89

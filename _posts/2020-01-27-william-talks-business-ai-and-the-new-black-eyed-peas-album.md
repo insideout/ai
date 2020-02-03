@@ -3,9 +3,9 @@ category: news
 title: "Will.i.am talks business, AI and the new Black Eyed Peas album"
 excerpt: "“I’m really optimistic about this new decade,” he says. He believes artificial intelligence will be the key technology in music. Indeed, an AI-powered will.i.am avatar already exists, designed by tech company Soul Machines. “Your digital avatar or doppelgänger, equipped with machine-learning and natural language, will be able to do ..."
 publishedDateTime: 2020-01-27T05:00:00Z
-sourceUrl: "https://www.ft.com/content/73f7063e-3e94-11ea-a01a-bae547046735"
-ampUrl: "https://amp.ft.com/content/73f7063e-3e94-11ea-a01a-bae547046735"
-cdnAmpUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/73f7063e-3e94-11ea-a01a-bae547046735"
+webUrl: "https://www.ft.com/content/73f7063e-3e94-11ea-a01a-bae547046735"
+ampWebUrl: "https://amp.ft.com/content/73f7063e-3e94-11ea-a01a-bae547046735"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/73f7063e-3e94-11ea-a01a-bae547046735"
 type: article
 quality: 57
 heat: 57

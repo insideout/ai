@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence Software Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
 excerpt: "Kenneth Research provides an extensive study by our analysts which offers forecast assessment by correlating the historical data with key market dynamics. The Artificial Intelligence Software Market further includes trends and opportunities that are highlighted,"
 publishedDateTime: 2020-01-16T04:57:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-2020-01-16"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-2020-01-16"
 type: article
 quality: 49
 heat: 49
@@ -30,7 +30,7 @@ related:
   - title: "Global Smart Robots Market 2020-2024| Evolving Opportunities with ABB Ltd. and Amazon.com Inc.| Technavio"
     excerpt: "As a result, companies are increasingly adopting smart robots, such as collaborative robots and professional robots, which are equipped with advanced technologies, such as artificial intelligence (AI), machine learning (ML), and analytics. Collaboative robots can perform tasks such as order pick and place, packaging and palletizing, machine ..."
     publishedDateTime: 2020-01-18T01:22:00Z
-    sourceUrl: "https://www.tmcnet.com/usubmit/-global-smart-robots-market-2020-2024-evolving-opportunities-/2020/01/17/9083484.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-global-smart-robots-market-2020-2024-evolving-opportunities-/2020/01/17/9083484.htm"
     type: article
     provider:
       name: TMCnet

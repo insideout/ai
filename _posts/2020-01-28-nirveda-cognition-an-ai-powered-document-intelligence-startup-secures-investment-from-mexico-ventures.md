@@ -3,7 +3,7 @@ category: news
 title: "Nirveda Cognition, an AI-Powered Document Intelligence Startup, Secures Investment from Mexico Ventures"
 excerpt: "/PRNewswire/ -- Nirveda Cognition, a Cerracap Ventures incubated, artificial intelligence company building an enterprise document intelligence and"
 publishedDateTime: 2020-01-28T18:45:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/nirveda-cognition-an-ai-powered-document-intelligence-startup-secures-investment-from-mexico-ventures-300994756.html"
+webUrl: "https://www.prnewswire.com/news-releases/nirveda-cognition-an-ai-powered-document-intelligence-startup-secures-investment-from-mexico-ventures-300994756.html"
 type: article
 quality: 21
 heat: 21

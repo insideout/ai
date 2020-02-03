@@ -3,7 +3,7 @@ category: news
 title: "Intel previews the first Xe-based discrete GPU"
 excerpt: "Looking at its event schedule you can see a selection of conferences about AI and automotive type projects. However, we did see the Ghost Canyon NUC, Comet Lake-H processors, and a Tiger Lake processors tease yesterday. The iconic chipmaker has now ..."
 publishedDateTime: 2020-01-07T13:42:00Z
-sourceUrl: https://www.hexus.net/tech/news/graphics/138533-intel-previews-first-xe-based-discrete-gpu/
+webUrl: https://www.hexus.net/tech/news/graphics/138533-intel-previews-first-xe-based-discrete-gpu/
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Intel's first discrete GPU is built for developers"
     excerpt: "It also promised \"double digit\" CPU performance increases with Tiger Lake, and \"massive\" AI improvements. Apart from that, it again revealed no additional performance data. As we've already noted in our AMD vs. Intel CES 2020 explainer, AMD has unveiled very specific products and plans, while Intel has just announced upcoming products and been ..."
     publishedDateTime: 2020-01-09T16:00:00Z
-    sourceUrl: https://www.engadget.com/2020/01/09/intel-xe-d1g-software-development-vehicle/
-    ampUrl: https://www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
+    webUrl: https://www.engadget.com/2020/01/09/intel-xe-d1g-software-development-vehicle/
+    ampWebUrl: https://www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
+    cdnAmpWebUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
     type: article
     provider:
       name: Engadget

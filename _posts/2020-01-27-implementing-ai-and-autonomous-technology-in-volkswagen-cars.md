@@ -3,7 +3,7 @@ category: news
 title: "Implementing AI and Autonomous Technology In Volkswagen Cars"
 excerpt: "The state of being oblivious of the term Artificial Intelligence implies one’s remoteness from the happening sphere ... and technology has rocketed to the extent where the industry has taken the side seat by enjoying the driverless ride. Volkswagen is a name that has conquered the hearts of many motor freaks, which is now on the verge ..."
 publishedDateTime: 2020-01-27T16:48:00Z
-sourceUrl: "https://superbike-news.co.uk/implementing-ai-and-autonomous-technology-in-volkswagen-cars/"
+webUrl: "https://superbike-news.co.uk/implementing-ai-and-autonomous-technology-in-volkswagen-cars/"
 type: article
 quality: 39
 heat: 39

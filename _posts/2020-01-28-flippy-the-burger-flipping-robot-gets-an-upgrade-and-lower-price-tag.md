@@ -3,9 +3,9 @@ category: news
 title: "Flippy the Burger-Flipping Robot Gets an Upgrade and Lower Price Tag"
 excerpt: "Today, Miso Robotics—the California company that introduced Flippy back in 2017—announced ... “The team has continued to make breakthroughs in the artificial intelligence software that powers Flippy,” Miso continues. “This has resulted in software that has greatly expanded the food categories that Flippy can cook [to] over a dozen ..."
 publishedDateTime: 2020-01-28T19:47:00Z
-sourceUrl: "https://www.foodandwine.com/news/flippy-burger-robot-upgrade-lower-cost"
-ampUrl: "https://www.foodandwine.com/news/flippy-burger-robot-upgrade-lower-cost?amp=true"
-cdnAmpUrl: "https://www-foodandwine-com.cdn.ampproject.org/c/s/www.foodandwine.com/news/flippy-burger-robot-upgrade-lower-cost?amp=true"
+webUrl: "https://www.foodandwine.com/news/flippy-burger-robot-upgrade-lower-cost"
+ampWebUrl: "https://www.foodandwine.com/news/flippy-burger-robot-upgrade-lower-cost?amp=true"
+cdnAmpWebUrl: "https://www-foodandwine-com.cdn.ampproject.org/c/s/www.foodandwine.com/news/flippy-burger-robot-upgrade-lower-cost?amp=true"
 type: article
 quality: 59
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "Burger flipping robot now stands on its head"
     excerpt: "Flippy is a lightweight industrial robotic arm with a spatula for an end effector bundled with a sensor suite and smart AI that helps it get better the more it cooks ... This month, Zume, previously the hottest fast food automation startup on the block with a valuation in the billions as of late 2019, announced it was changing focus from ..."
     publishedDateTime: 2020-01-29T12:00:00Z
-    sourceUrl: "https://www.zdnet.com/article/burger-flipping-robot-now-stands-on-its-head/"
-    ampUrl: "https://www.zdnet.com/google-amp/article/burger-flipping-robot-now-stands-on-its-head/"
-    cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/burger-flipping-robot-now-stands-on-its-head/"
+    webUrl: "https://www.zdnet.com/article/burger-flipping-robot-now-stands-on-its-head/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/burger-flipping-robot-now-stands-on-its-head/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/burger-flipping-robot-now-stands-on-its-head/"
     type: article
     provider:
       name: ZDNet

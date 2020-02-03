@@ -3,7 +3,7 @@ category: news
 title: "Ridgefield Happenings: Scott House tours, artificial intelligence talk, and decluttering workshop"
 excerpt: "The first speaker in the series is Dr. Murray Campbell who will discuss “What is AI?” at the library on Wednesday, Jan. 29, at 7 p.m. Campbell is a distinguished research staff member at the IBM T. J. Watson Research Center, where he is a manager in the IBM Research AI organization. He received his bachelor of science and master of science ..."
 publishedDateTime: 2020-01-21T18:08:00Z
-sourceUrl: "https://www.theridgefieldpress.com/entertainment/article/Ridgefield-Happenings-Scott-House-tours-14992189.php"
+webUrl: "https://www.theridgefieldpress.com/entertainment/article/Ridgefield-Happenings-Scott-House-tours-14992189.php"
 type: article
 quality: 26
 heat: 26

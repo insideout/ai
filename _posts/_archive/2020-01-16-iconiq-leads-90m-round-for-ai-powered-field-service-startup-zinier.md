@@ -3,7 +3,7 @@ category: news
 title: "Iconiq leads $90M round for AI-powered field service startup Zinier"
 excerpt: "The San Francisco startup this morning announced that it has clinched a $90 million funding round ... ISAC provides features for handling core tasks such as scheduling repairs and dispatching technicians, plus an AI-powered automation layer that optimizes the flow of work. The platform suggests specific actions that field service teams ..."
 publishedDateTime: 2020-01-16T00:36:00Z
-sourceUrl: "https://siliconangle.com/2020/01/15/iconiq-leads-90m-round-ai-powered-field-service-startup-zinier/"
+webUrl: "https://siliconangle.com/2020/01/15/iconiq-leads-90m-round-ai-powered-field-service-startup-zinier/"
 type: article
 quality: 37
 heat: 37

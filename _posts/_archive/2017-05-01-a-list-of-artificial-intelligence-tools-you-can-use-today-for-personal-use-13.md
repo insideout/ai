@@ -3,7 +3,7 @@ category: news
 title: "A list of artificial intelligence tools you can use today — for personal use (1/3)"
 excerpt: "Artificial Intelligence and the fourth industrial revolution has made some considerable progress over the last couple of years. Most of this current progress that is usable has been developed for ..."
 publishedDateTime: 2017-05-01T00:00:00Z
-sourceUrl: https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f
+webUrl: https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f
 type: article
 quality: 161
 heat: 161

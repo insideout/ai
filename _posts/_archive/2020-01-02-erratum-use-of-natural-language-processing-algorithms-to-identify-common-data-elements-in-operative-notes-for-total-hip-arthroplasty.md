@@ -3,7 +3,7 @@ category: news
 title: "Erratum: Use of Natural Language Processing Algorithms to Identify Common Data Elements in Operative Notes for Total Hip Arthroplasty"
 excerpt: "In the article entitled “Use of Natural Language Processing Algorithms to Identify Common Data Elements in Operative Notes for Total Hip Arthroplasty” (J Bone ..."
 publishedDateTime: 2020-01-02T00:00:00Z
-sourceUrl: "https://pdfs.journals.lww.com/jbjsjournal/2020/01020/Erratum__Use_of_Natural_Language_Processing.16.pdf?token=method|ExpireAbsolute;source|Journals;ttl|1578208015202;payload|mY8D3u1TCCsNvP5E421JYK6N6XICDamxByyYpaNzk7FKjTaa1Yz22MivkHZqjGP4kdS2v0J76WGAnHACH69s21Csk0OpQi3YbjEMdSoz2UhVybFqQxA7lKwSUlA502zQZr96TQRwhVlocEp/sJ586aVbcBFlltKNKo+tbuMfL73hiPqJliudqs17cHeLcLbV/CqjlP3IO0jGHlHQtJWcICDdAyGJMnpi6RlbEJaRheGeh5z5uvqz3FLHgPKVXJzd3q8SQSgPZSBPpzHLmT+Eu42o4ZOK9pRe98o8r2WngcJaHo/GzDSel2uE5PL37s11;hash|7oGA3lKgvCUiAWCymGEguQ=="
+webUrl: "https://pdfs.journals.lww.com/jbjsjournal/2020/01020/Erratum__Use_of_Natural_Language_Processing.16.pdf?token=method|ExpireAbsolute;source|Journals;ttl|1578208015202;payload|mY8D3u1TCCsNvP5E421JYK6N6XICDamxByyYpaNzk7FKjTaa1Yz22MivkHZqjGP4kdS2v0J76WGAnHACH69s21Csk0OpQi3YbjEMdSoz2UhVybFqQxA7lKwSUlA502zQZr96TQRwhVlocEp/sJ586aVbcBFlltKNKo+tbuMfL73hiPqJliudqs17cHeLcLbV/CqjlP3IO0jGHlHQtJWcICDdAyGJMnpi6RlbEJaRheGeh5z5uvqz3FLHgPKVXJzd3q8SQSgPZSBPpzHLmT+Eu42o4ZOK9pRe98o8r2WngcJaHo/GzDSel2uE5PL37s11;hash|7oGA3lKgvCUiAWCymGEguQ=="
 type: article
 quality: 8
 heat: 8

@@ -3,7 +3,7 @@ category: news
 title: "Computer Vision Software Engineer (C++/Python)"
 excerpt: "reinforcement learning areas to solve challenging problems Maintain and optimise algorithms of the existing system framework related to computer vision Collaborate with team members from the level of ideation phase to the level of production Develop unit ..."
 publishedDateTime: 2020-01-11T00:00:00Z
-sourceUrl: "https://www.efinancialcareers.com/jobs-Singapore-Singapore-Computer_Vision_Software_Engineer_CPython.id06990829"
+webUrl: "https://www.efinancialcareers.com/jobs-Singapore-Singapore-Computer_Vision_Software_Engineer_CPython.id06990829"
 type: article
 quality: 19
 heat: 19

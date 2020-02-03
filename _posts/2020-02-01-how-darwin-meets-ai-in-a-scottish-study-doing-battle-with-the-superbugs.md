@@ -3,7 +3,7 @@ category: news
 title: "How Darwin meets AI in a Scottish study doing battle with the superbugs"
 excerpt: "Antibiotic resistance is billed as the greatest global threat to humanity in the 21st century. Now, the battle against superbugs is being waged in Scottish computer laboratories, with ground-breaking experiments using artificial intelligence and the theories of Charles Darwin. The tests are tackling a menace that is exacting a high price in ..."
 publishedDateTime: 2020-02-01T11:01:00Z
-sourceUrl: "https://www.thetimes.co.uk/article/how-darwin-meets-ai-in-a-scottish-study-doing-battle-with-the-superbugs-wb6mk0dsp"
+webUrl: "https://www.thetimes.co.uk/article/how-darwin-meets-ai-in-a-scottish-study-doing-battle-with-the-superbugs-wb6mk0dsp"
 type: article
 quality: 37
 heat: 37

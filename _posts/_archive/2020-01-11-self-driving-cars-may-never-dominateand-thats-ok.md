@@ -3,9 +3,9 @@ category: news
 title: "Self-driving cars may never dominate…and that’s OK"
 excerpt: "While none of these hurdles are insurmountable, it’s worth asking the question: what happens if we only see limited, specific applications of self-driving cars? If AVs prove not to be viable ..."
 publishedDateTime: 2020-01-11T00:15:00Z
-sourceUrl: "https://www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/"
-ampUrl: "https://www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/amp/"
+webUrl: "https://www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/"
+ampWebUrl: "https://www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/amp/"
 type: article
 quality: 74
 heat: 94
@@ -33,7 +33,7 @@ related:
   - title: "Intel’s Mobileye has a plan to dominate self-driving—and it might work"
     excerpt: "A lot of media coverage of self-driving technology has focused on a handful of big companies with well-known brands: Google, Uber, Tesla, and GM. But there's another company working on self ..."
     publishedDateTime: 2020-01-10T16:12:00Z
-    sourceUrl: "https://arstechnica.com/cars/2020/01/intels-mobileye-has-a-plan-to-dominate-self-driving-and-it-might-work/"
+    webUrl: "https://arstechnica.com/cars/2020/01/intels-mobileye-has-a-plan-to-dominate-self-driving-and-it-might-work/"
     type: article
     provider:
       name: Ars Technica
@@ -42,7 +42,7 @@ related:
   - title: "Self-driving car market 2018-2023 and top key players are Microsoft, Apple, IBM, Cisco"
     excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
     publishedDateTime: 2020-01-17T14:36:00Z
-    sourceUrl: "https://www.openpr.com/news/1899937/self-driving-car-market-2018-2023-and-top-key-players"
+    webUrl: "https://www.openpr.com/news/1899937/self-driving-car-market-2018-2023-and-top-key-players"
     type: article
     provider:
       name: openpr.com

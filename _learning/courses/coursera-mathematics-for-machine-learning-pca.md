@@ -1,7 +1,7 @@
 ---
 title: "Mathematics for Machine Learning: PCA"
 excerpt: "Learn Mathematics for Machine Learning: PCA from Imperial College London. This intermediate-level course introduces the mathematical foundations to derive Principal Component Analysis (PCA), a fundamental dimensionality reduction technique. We'll ..."
-sourceUrl: https://www.coursera.org/learn/pca-machine-learning
+webUrl: https://www.coursera.org/learn/pca-machine-learning
 type: course
 price: Free+
 length: 18 hours

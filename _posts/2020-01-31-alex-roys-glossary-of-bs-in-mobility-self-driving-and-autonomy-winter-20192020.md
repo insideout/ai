@@ -3,7 +3,7 @@ category: news
 title: "Alex Roy's Glossary of BS in Mobility, Self-Driving and Autonomy (Winter 2019/2020)"
 excerpt: "The most obvious culprits are the Tesla fans who refer to Tesla Autopilot—without a doubt the best driver-assistance system available today—as self-driving or autonomous. It isn't. The concept of autonomy is totally binary: a vehicle is either capable of driving itself without human supervision, or it isn't. If it requires any human ..."
 publishedDateTime: 2020-01-31T14:09:00Z
-sourceUrl: "https://www.thedrive.com/opinion/27540/alex-roys-glossary-of-bs-in-mobility-self-driving-and-autonomy-winter-2019-2020"
+webUrl: "https://www.thedrive.com/opinion/27540/alex-roys-glossary-of-bs-in-mobility-self-driving-and-autonomy-winter-2019-2020"
 type: article
 quality: 18
 heat: 18

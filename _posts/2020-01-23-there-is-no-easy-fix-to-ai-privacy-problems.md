@@ -3,7 +3,7 @@ category: news
 title: "There is no easy fix to AI privacy problems"
 excerpt: "For now, there is no perfect solution on the horizon. It currently takes the expertise of and committed partnerships between privacy, legal, AI developers, and ethics professionals to evaluate individual use-cases to determine the best course of action. Even then, most of the focus is placed only on current concerns and not on applying a more ..."
 publishedDateTime: 2020-01-23T06:34:00Z
-sourceUrl: "https://www.helpnetsecurity.com/2020/01/23/ai-privacy-problems/"
+webUrl: "https://www.helpnetsecurity.com/2020/01/23/ai-privacy-problems/"
 type: article
 quality: 39
 heat: 39

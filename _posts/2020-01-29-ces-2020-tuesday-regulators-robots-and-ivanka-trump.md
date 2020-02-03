@@ -3,7 +3,7 @@ category: news
 title: "CES 2020 Tuesday: Regulators, Robots, And Ivanka Trump"
 excerpt: "CES 2020 is moving ahead without a breakout technological issue, focusing more on the continuing rollout of 5G and the increasing role of artificial intelligence and robotics in everyday life. Unlike in past years when each convention was dominated by a particular new technology, this year's event is without a unifying theme (other than the ..."
 publishedDateTime: 2020-01-29T19:33:00Z
-sourceUrl: "https://www.allaccess.com/net-news/archive/story/192629/ces-2020-tuesday-regulators-robots-and-ivanka-trum"
+webUrl: "https://www.allaccess.com/net-news/archive/story/192629/ces-2020-tuesday-regulators-robots-and-ivanka-trum"
 type: article
 quality: 39
 heat: 39

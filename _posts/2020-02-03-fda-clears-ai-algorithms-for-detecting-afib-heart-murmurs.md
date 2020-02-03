@@ -3,7 +3,7 @@ category: news
 title: "FDA clears AI algorithms for detecting AFib, heart murmurs"
 excerpt: "According to Connor Landgraf, Eko’s co-founder and CEO, the company’s AI software puts the “ears of a cardiologist” in a clinician’s stethoscope by accurately analyzing electrocardiogram and heart phonocardiogram (heart sound) data."
 publishedDateTime: 2020-02-03T03:22:00Z
-sourceUrl: "https://www.healthdatamanagement.com/news/fda-clears-ai-algorithms-for-detecting-afib-heart-murmurs"
+webUrl: "https://www.healthdatamanagement.com/news/fda-clears-ai-algorithms-for-detecting-afib-heart-murmurs"
 type: article
 quality: 37
 heat: 37

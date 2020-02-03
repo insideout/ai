@@ -3,7 +3,7 @@ category: news
 title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
 excerpt: "Fortune Business Insights (FBI) has released a new report that predicts that the global market for Natural Language Processing (NLP) technology will reach $80.68 billion by 2026. That number reflects a CAGR of 32.4 percent, based on a 2018 market valuation of $8.61 billion. FBI credits the anticipated growth to big data, and the need to turn ..."
 publishedDateTime: 2020-01-10T20:05:00Z
-sourceUrl: "https://mobileidworld.com/fbi-forecasts-major-growth-global-natural-language-processing-market-011003/"
+webUrl: "https://mobileidworld.com/fbi-forecasts-major-growth-global-natural-language-processing-market-011003/"
 type: article
 quality: 37
 heat: 37
@@ -27,7 +27,7 @@ related:
   - title: "Global Artificial Intelligence (AI) Chips Market Intelligence Report for Comprehensive Information 2017-2025"
     excerpt: "The report offers a holistic overview of the Artificial Intelligence (AI) Chips market with the help of application segments(Electronics, Automotive, Consumer Goods) and geographical regions(United States, Europe, China, Japan, Southeast Asia, India ..."
     publishedDateTime: 2020-01-15T22:12:00Z
-    sourceUrl: "https://www.openpr.com/news/1897062/global-artificial-intelligence-ai-chips-market-intelligence"
+    webUrl: "https://www.openpr.com/news/1897062/global-artificial-intelligence-ai-chips-market-intelligence"
     type: article
     provider:
       name: openpr.com

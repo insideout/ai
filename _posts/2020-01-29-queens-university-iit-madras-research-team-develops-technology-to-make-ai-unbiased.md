@@ -3,9 +3,9 @@ category: news
 title: "Queen's University, IIT Madras Research Team Develops Technology To Make AI Unbiased"
 excerpt: "IIT Madras students have contributed to research on algorithm to make Artificial intelligence (AI) fairer and less biased when processing data. The students were part of a team which was led by a Queen's University, Belfast Researcher. The research was led by Dr. Deepak Padmanabhan who is a researcher at Queen's University and an adjunct ..."
 publishedDateTime: 2020-01-29T08:57:00Z
-sourceUrl: "https://www.ndtv.com/education/iit-madras-queens-university-research-team-develops-technology-to-make-ai-unbiased-2171500"
-ampUrl: "https://www.ndtv.com/education/iit-madras-queens-university-research-team-develops-technology-to-make-ai-unbiased-2171500?amp=1&akamai-rum=off"
-cdnAmpUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/iit-madras-queens-university-research-team-develops-technology-to-make-ai-unbiased-2171500?amp=1&akamai-rum=off"
+webUrl: "https://www.ndtv.com/education/iit-madras-queens-university-research-team-develops-technology-to-make-ai-unbiased-2171500"
+ampWebUrl: "https://www.ndtv.com/education/iit-madras-queens-university-research-team-develops-technology-to-make-ai-unbiased-2171500?amp=1&akamai-rum=off"
+cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/iit-madras-queens-university-research-team-develops-technology-to-make-ai-unbiased-2171500?amp=1&akamai-rum=off"
 type: article
 quality: 52
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "IIT Madras and Queen's University Belfast develop technology to make Artificial Intelligence fairer"
     excerpt: "Get real-time alerts and all the news on your phone with the all-new India Today app. Download from"
     publishedDateTime: 2020-01-31T12:17:00Z
-    sourceUrl: "https://www.indiatoday.in/education-today/news/story/iit-madras-and-queen-s-university-belfast-develop-technology-to-make-artificial-intelligence-fairer-1642031-2020-01-31"
-    ampUrl: "https://www.indiatoday.in/amp/education-today/news/story/iit-madras-and-queen-s-university-belfast-develop-technology-to-make-artificial-intelligence-fairer-1642031-2020-01-31"
-    cdnAmpUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/iit-madras-and-queen-s-university-belfast-develop-technology-to-make-artificial-intelligence-fairer-1642031-2020-01-31"
+    webUrl: "https://www.indiatoday.in/education-today/news/story/iit-madras-and-queen-s-university-belfast-develop-technology-to-make-artificial-intelligence-fairer-1642031-2020-01-31"
+    ampWebUrl: "https://www.indiatoday.in/amp/education-today/news/story/iit-madras-and-queen-s-university-belfast-develop-technology-to-make-artificial-intelligence-fairer-1642031-2020-01-31"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/iit-madras-and-queen-s-university-belfast-develop-technology-to-make-artificial-intelligence-fairer-1642031-2020-01-31"
     type: article
     provider:
       name: India Today

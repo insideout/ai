@@ -3,7 +3,7 @@ category: news
 title: "NLP Year in Review — 2019"
 excerpt: "Researchers from Facebook AI also recently published a method based on an all-attention layer for improving the efficiency of a Transformer language model. More work from this research group ..."
 publishedDateTime: 2020-01-02T13:10:00Z
-sourceUrl: "https://medium.com/dair-ai/nlp-year-in-review-2019-fb8d523bcb19"
+webUrl: "https://medium.com/dair-ai/nlp-year-in-review-2019-fb8d523bcb19"
 type: article
 quality: 54
 heat: 54

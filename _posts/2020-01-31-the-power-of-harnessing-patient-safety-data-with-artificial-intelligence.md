@@ -3,7 +3,7 @@ category: news
 title: "The Power of Harnessing Patient Safety Data with Artificial Intelligence"
 excerpt: "As artificial intelligence (AI) and machine learning (ML) continue expanding into health care, its full potential remains unknown. Health care organizations are beginning to use AI and ML to improve clinical decision-making, enhance patient engagement and make health care providers more efficient and productive. The development of an AI system ..."
 publishedDateTime: 2020-01-31T16:40:00Z
-sourceUrl: "https://www.aha.org/sponsored-executive-dialogues/2020-01-31-power-harnessing-patient-safety-data-artificial"
+webUrl: "https://www.aha.org/sponsored-executive-dialogues/2020-01-31-power-harnessing-patient-safety-data-artificial"
 type: article
 quality: 38
 heat: 38

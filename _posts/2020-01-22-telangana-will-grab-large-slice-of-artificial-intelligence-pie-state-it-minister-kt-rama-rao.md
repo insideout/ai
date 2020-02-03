@@ -3,9 +3,9 @@ category: news
 title: "Telangana will grab large slice of Artificial Intelligence pie: State IT Minister KT Rama Rao"
 excerpt: "HYDERABAD: Underscoring the importance of Artificial Intelligence (AI) in businesses, IT and Industries Minister KT Rama Rao has asserted that it would be used in all sectors. Participating in a panel discussion on ‘Empowering AI Leadership’ at the World Economic Forum in Davos on Tuesday, Rao said: \"No business can stay insulated from the ..."
 publishedDateTime: 2020-01-22T04:13:00Z
-sourceUrl: "https://www.newindianexpress.com/states/telangana/2020/jan/22/telangana-will-grab-large-slice-of-artificial-intelligence-pie-state-it-minister-kt-rama-rao-2092857.html"
-ampUrl: "https://www.newindianexpress.com/states/telangana/2020/jan/22/telangana-will-grab-large-slice-of-artificial-intelligence-pie-state-it-minister-kt-rama-rao-2092857.amp"
-cdnAmpUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/22/telangana-will-grab-large-slice-of-artificial-intelligence-pie-state-it-minister-kt-rama-rao-2092857.amp"
+webUrl: "https://www.newindianexpress.com/states/telangana/2020/jan/22/telangana-will-grab-large-slice-of-artificial-intelligence-pie-state-it-minister-kt-rama-rao-2092857.html"
+ampWebUrl: "https://www.newindianexpress.com/states/telangana/2020/jan/22/telangana-will-grab-large-slice-of-artificial-intelligence-pie-state-it-minister-kt-rama-rao-2092857.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/22/telangana-will-grab-large-slice-of-artificial-intelligence-pie-state-it-minister-kt-rama-rao-2092857.amp"
 type: article
 quality: 46
 heat: 46

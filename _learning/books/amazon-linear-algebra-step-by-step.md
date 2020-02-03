@@ -1,7 +1,7 @@
 ---
 title: "Linear Algebra: Step by Step"
 excerpt: "Linear algebra is a fundamental area of mathematics, and is arguably the most powerful mathematical tool ever developed. It is a core topic of study within fields as diverse as: business, economics, engineering, physics, computer science, ecology, sociology, demography and genetics."
-sourceUrl: https://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh-ebook/dp/B016WNBNGI/
+webUrl: https://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh-ebook/dp/B016WNBNGI/
 type: book
 price: $37.72
 length: 

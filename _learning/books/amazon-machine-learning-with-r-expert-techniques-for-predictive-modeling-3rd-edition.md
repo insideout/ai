@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition"
 excerpt: "Third edition of the bestselling, widely acclaimed R machine learning book, updated and improved for R 3.6 and beyond"
-sourceUrl: https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1788295862/
+webUrl: https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1788295862/
 type: book
 price: $35.99
 length: 

@@ -3,7 +3,7 @@ category: news
 title: "Blue Prism Adds Conversational AI, Automated Machine Learning and Integration with Citrix to its Digital Workforce"
 excerpt: "The latest capabilities on the DX include dealing with conversational AI (working with chatbots), adding automated machine learning as well as new integrations with Citrix. With just a few clicks users can drag and drop these new capabilities into Blue Prism's Digital Workforce—no coding required. \"Blue Prism's vision of providing a Digital ..."
 publishedDateTime: 2020-01-29T13:06:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/blue-prism-adds-conversational-ai-automated-machine-learning-and-integration-with-citrix-to-its-digital-workforce-300994967.html"
+webUrl: "https://www.prnewswire.com/news-releases/blue-prism-adds-conversational-ai-automated-machine-learning-and-integration-with-citrix-to-its-digital-workforce-300994967.html"
 type: article
 quality: 32
 heat: 32

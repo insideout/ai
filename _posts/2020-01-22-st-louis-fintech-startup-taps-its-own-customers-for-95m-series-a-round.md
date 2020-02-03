@@ -3,9 +3,9 @@ category: news
 title: "St. Louis fintech startup taps its own customers for $9.5M Series A round"
 excerpt: "This startup said it's hiring for positions in both its St. Louis and New York offices after raising $9.5 million."
 publishedDateTime: 2020-01-22T18:45:00Z
-sourceUrl: "https://www.bizjournals.com/stlouis/news/2020/01/22/st-louis-fintech-startup-taps-its-own-customers.html"
-ampUrl: "https://www.bizjournals.com/stlouis/news/2020/01/22/st-louis-fintech-startup-taps-its-own-customers.amp.html"
-cdnAmpUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/stlouis/news/2020/01/22/st-louis-fintech-startup-taps-its-own-customers.amp.html"
+webUrl: "https://www.bizjournals.com/stlouis/news/2020/01/22/st-louis-fintech-startup-taps-its-own-customers.html"
+ampWebUrl: "https://www.bizjournals.com/stlouis/news/2020/01/22/st-louis-fintech-startup-taps-its-own-customers.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/stlouis/news/2020/01/22/st-louis-fintech-startup-taps-its-own-customers.amp.html"
 type: article
 quality: 43
 heat: 43

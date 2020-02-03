@@ -3,9 +3,9 @@ category: news
 title: "Tinder Asks ‘Does This Bother You’?"
 excerpt: "If the answer is yes, Tinder will direct them to its report form. The new feature is available in 11 countries and nine languages currently, with plans to eventually expand to every language and country where the app is used. Major social media platforms like Facebook and Google have enlisted AI for years to help flag and remove violating content."
 publishedDateTime: 2020-01-27T08:00:00Z
-sourceUrl: "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/"
-ampUrl: "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp"
-cdnAmpUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp"
+webUrl: "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/"
+ampWebUrl: "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp"
 type: article
 quality: 172
 heat: 172

@@ -3,7 +3,7 @@ category: news
 title: "Top Artificial Intelligence Funding in December 2019"
 excerpt: "Amid this, funding works as a fuel on which a business runs and excels. When it comes to technologies like omnipresent AI or artificial intelligence, the pressure naturally increases to thrive in the market where big techs like Google, Microsoft, and significant others are operating. To rise amid this pressure, funding becomes even more vital ..."
 publishedDateTime: 2020-01-25T13:02:00Z
-sourceUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-funding-december-2019/"
+webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-funding-december-2019/"
 type: article
 quality: 41
 heat: 41

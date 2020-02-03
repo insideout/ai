@@ -3,9 +3,9 @@ category: news
 title: "ON Semiconductor & Pony.ai Team Up to Boost Machine Vision"
 excerpt: "ON Semiconductor ON announced its partnership with Pony.ai — a leading autonomous driving technology company — to develop next-generation image sensing and processing technologies for machine vision."
 publishedDateTime: 2020-01-07T14:06:00Z
-sourceUrl: https://www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07
-ampUrl: https://www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07?amp
-cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07?amp
+webUrl: https://www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07
+ampWebUrl: https://www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07?amp
+cdnAmpWebUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07?amp
 type: article
 quality: 89
 heat: 99
@@ -29,7 +29,7 @@ related:
   - title: "New Vision-Based Safety Solution Boosts Fleet and Safety Management"
     excerpt: "NetraDyne is a software organization, creating solutions to real world problems using computer vision and deep learning technologies. The company leverages global technology centers to push the boundaries of intelligent connectivity. NetraDyne's exceptional team of scientists are developing essential intellectual property in the fields of edge ..."
     publishedDateTime: 2020-01-08T04:42:00Z
-    sourceUrl: https://www.cioapplications.com/news/new-visionbased-safety-solution-boosts-fleet-and-safety-management-nid-5529.html
+    webUrl: https://www.cioapplications.com/news/new-visionbased-safety-solution-boosts-fleet-and-safety-management-nid-5529.html
     type: article
     provider:
       name: CIO Applications

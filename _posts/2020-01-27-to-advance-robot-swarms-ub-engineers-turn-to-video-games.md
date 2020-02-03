@@ -3,9 +3,9 @@ category: news
 title: "To advance robot swarms, UB engineers turn to video games"
 excerpt: "The key to improving robot swarm technology may lie within video games. That’s according to a research team from UB’s Artificial Intelligence Institute, which received a $316,000 federal grant to study the decisions people make — as well as biometric information such as their brain waves and eye movements — while gaming. Researchers ..."
 publishedDateTime: 2020-01-27T13:45:00Z
-sourceUrl: "https://scienceblog.com/513730/to-advance-robot-swarms-ub-engineers-turn-to-video-games/"
-ampUrl: "https://scienceblog.com/513730/to-advance-robot-swarms-ub-engineers-turn-to-video-games/amp/"
-cdnAmpUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/513730/to-advance-robot-swarms-ub-engineers-turn-to-video-games/amp/"
+webUrl: "https://scienceblog.com/513730/to-advance-robot-swarms-ub-engineers-turn-to-video-games/"
+ampWebUrl: "https://scienceblog.com/513730/to-advance-robot-swarms-ub-engineers-turn-to-video-games/amp/"
+cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/513730/to-advance-robot-swarms-ub-engineers-turn-to-video-games/amp/"
 type: article
 quality: 59
 heat: 59

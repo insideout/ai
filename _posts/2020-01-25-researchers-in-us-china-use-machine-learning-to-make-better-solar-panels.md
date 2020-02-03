@@ -3,7 +3,7 @@ category: news
 title: "Researchers In US & China Use Machine Learning To Make Better Solar Panels"
 excerpt: "This is a companion discussion topic for the original entry at https://cleantechnica.com/2020/01/25/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/"
 publishedDateTime: 2020-01-25T21:56:00Z
-sourceUrl: "https://businesscomputingworld.co.uk/t/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/244767"
+webUrl: "https://businesscomputingworld.co.uk/t/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/244767"
 type: article
 quality: 137
 heat: 137

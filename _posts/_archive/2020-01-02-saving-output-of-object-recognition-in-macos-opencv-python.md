@@ -3,7 +3,7 @@ category: news
 title: "Saving output of object recognition in macOS — OpenCV Python"
 excerpt: "This post is important to those of you who have successfully worked on your object detection task. I did some research on the process of saving the output of object detection on OpenCV in Python ..."
 publishedDateTime: 2020-01-02T06:01:00Z
-sourceUrl: "https://medium.com/@venkatesh.chandra_75550/saving-output-of-object-recognition-in-macos-opencv-python-5914bb5d9ca8"
+webUrl: "https://medium.com/@venkatesh.chandra_75550/saving-output-of-object-recognition-in-macos-opencv-python-5914bb5d9ca8"
 type: article
 quality: 69
 heat: 69

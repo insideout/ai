@@ -3,7 +3,7 @@ category: news
 title: "ReadSpeaker Launches VoiceLab to Unleash Branded Voice Solutions"
 excerpt: "And with the voice and speech recognition technology industry expected to become a $1.46B market by 2024, brands must ensure their voice solutions are highly customized so as to set them apart from the competition. The ReadSpeaker VoiceLab addresses mounting demand for custom, digital voices by offering flexible pathways that allow any brand ..."
 publishedDateTime: 2020-01-13T13:51:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-readspeaker-launches-voicelab-unleash-branded-voice-solutions-/2020/01/13/9080242.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-readspeaker-launches-voicelab-unleash-branded-voice-solutions-/2020/01/13/9080242.htm"
 type: article
 quality: 24
 heat: 24

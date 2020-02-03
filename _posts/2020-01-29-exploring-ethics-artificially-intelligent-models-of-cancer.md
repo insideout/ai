@@ -3,7 +3,7 @@ category: news
 title: "Exploring Ethics: Artificially Intelligent Models of Cancer"
 excerpt: "A major ambition of artificial intelligence lies in translating patient data to successful therapies. Machine learning models face particular challenges in biomedicine, however, including handling of extreme data heterogeneity and lack of mechanistic insight into predictions. Here, we argue for “visible” approaches that guide model ..."
 publishedDateTime: 2020-01-29T18:35:00Z
-sourceUrl: "https://www.sandiegoreader.com/events/2020/feb/05/exploring-ethics-artificially-intel/"
+webUrl: "https://www.sandiegoreader.com/events/2020/feb/05/exploring-ethics-artificially-intel/"
 type: article
 quality: 39
 heat: 39

@@ -3,9 +3,9 @@ category: news
 title: "Free AI developer app: IBM's new tool can label objects in videos for you"
 excerpt: "The new auto-labeling tool is part of IBM's push to stay relevant to developers building AI products using the Google-built open-source TensorFlow framework in the IBM Cloud. IBM hopes its auto-labeling tool attracts developers looking to save effort and time when developing new AI applications with TensorFlow. IBM estimates it takes 200 to ..."
 publishedDateTime: 2020-01-30T14:00:00Z
-sourceUrl: "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
-ampUrl: "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
+webUrl: "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
 type: article
 quality: 90
 heat: -1
@@ -34,7 +34,7 @@ related:
   - title: "IBM’s new AI-powered tool will automatically label images for developers"
     excerpt: "Developers building machine learning or object detection models have to manually label hundreds to thousands of images to train them. To make the task easier, IBM has introduced a new auto-labeling tool. The new feature is available for everyone through Cloud Annotations GUI, IBM’s online tool for labeling images. If you’re a developer ..."
     publishedDateTime: 2020-01-30T14:09:00Z
-    sourceUrl: "https://thenextweb.com/artificial-intelligence/2020/01/30/ibms-new-ai-powered-tool-will-automatically-label-images-for-developers/"
+    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/30/ibms-new-ai-powered-tool-will-automatically-label-images-for-developers/"
     type: article
     provider:
       name: The Next Web
@@ -47,9 +47,9 @@ related:
   - title: "IBM releases annotation tool that taps AI to label images"
     excerpt: "Data labeling is an arduous — but necessary — part of the AI model training process. Currently, it takes around 200-500 samples of annotated images for a model to learn to detect a single object. Fortunately, freely available tools help automate the most monotonous sub-tasks, and one of these was recently published by IBM on GitHub."
     publishedDateTime: 2020-01-30T14:00:00Z
-    sourceUrl: "https://venturebeat.com/2020/01/30/ibm-releases-annotation-tool-that-taps-ai-to-label-images/"
-    ampUrl: "https://venturebeat.com/2020/01/30/ibm-releases-annotation-tool-that-taps-ai-to-label-images/amp/"
-    cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/ibm-releases-annotation-tool-that-taps-ai-to-label-images/amp/"
+    webUrl: "https://venturebeat.com/2020/01/30/ibm-releases-annotation-tool-that-taps-ai-to-label-images/"
+    ampWebUrl: "https://venturebeat.com/2020/01/30/ibm-releases-annotation-tool-that-taps-ai-to-label-images/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/ibm-releases-annotation-tool-that-taps-ai-to-label-images/amp/"
     type: article
     provider:
       name: VentureBeat

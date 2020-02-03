@@ -3,7 +3,7 @@ category: news
 title: "What’s next for fleet video tech?"
 excerpt: "Nussbaum Transportation has been pilot testing computer vision, which is one of the next big things in fleet camera technology. “You can start measuring habits with that beyond just the camera ..."
 publishedDateTime: 2020-01-17T14:47:00Z
-sourceUrl: "https://www.fleetowner.com/technology/article/21120774/whats-next-for-fleet-and-trucking-video-technology"
+webUrl: "https://www.fleetowner.com/technology/article/21120774/whats-next-for-fleet-and-trucking-video-technology"
 type: article
 quality: 4
 heat: 4

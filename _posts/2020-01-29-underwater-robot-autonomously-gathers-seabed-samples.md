@@ -3,9 +3,9 @@ category: news
 title: "Underwater robot autonomously gathers seabed samples"
 excerpt: "That's why researchers have now enabled one to autonomously gather samples from the ocean floor. Led by associate scientist Rich Camilli, a team at Woods Hole Oceanographic Institution (WHOI) recently developed artificial intelligence-based automated planning software that's designed to work with ROVs. Last month, that technology was put to use ..."
 publishedDateTime: 2020-01-29T22:05:00Z
-sourceUrl: "https://newatlas.com/marine/underwater-robot-autonomous-samples/"
-ampUrl: "https://newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true"
-cdnAmpUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true"
+webUrl: "https://newatlas.com/marine/underwater-robot-autonomous-samples/"
+ampWebUrl: "https://newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true"
+cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true"
 type: article
 quality: 89
 heat: 89

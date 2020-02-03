@@ -3,9 +3,9 @@ category: news
 title: "Aussie Startup Ruins Privacy"
 excerpt: "An Australian startup has developed an app that can identify your name and address with a single photo. It's already being used by U.S. law enforcement despite a lack of regulation and independent testing. Until now, Clearview AI wasn't a household name. But a report by the New York Times over the weekend revealed it has been used by hundreds ..."
 publishedDateTime: 2020-01-20T00:58:00Z
-sourceUrl: "https://www.gizmodo.com.au/2020/01/facial-recognition-app-clearview-ai/"
-ampUrl: "https://www.gizmodo.com.au/2020/01/facial-recognition-app-clearview-ai/amp"
-cdnAmpUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/01/facial-recognition-app-clearview-ai/amp"
+webUrl: "https://www.gizmodo.com.au/2020/01/facial-recognition-app-clearview-ai/"
+ampWebUrl: "https://www.gizmodo.com.au/2020/01/facial-recognition-app-clearview-ai/amp"
+cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/01/facial-recognition-app-clearview-ai/amp"
 type: article
 quality: 42
 heat: 42

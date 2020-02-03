@@ -3,7 +3,7 @@ category: news
 title: "Microsoft unveils new Azure Service, Genesys Engage"
 excerpt: "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft’s Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" Microsoft has ..."
 publishedDateTime: 2020-01-23T17:52:00Z
-sourceUrl: "https://www.neowin.net/news/microsoft-unveils-new-azure-service-genesys-engage"
+webUrl: "https://www.neowin.net/news/microsoft-unveils-new-azure-service-genesys-engage"
 type: article
 quality: 84
 heat: 134
@@ -31,9 +31,9 @@ related:
   - title: "HCL Technologies unveils a dedicated Microsoft Business Unit"
     excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, loT, and Al/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
     publishedDateTime: 2020-01-22T09:20:00Z
-    sourceUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html"
-    ampUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html"
-    cdnAmpUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html"
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html"
     type: article
     provider:
       name: India Infoline
@@ -46,7 +46,7 @@ related:
   - title: "Microsoft And Genesys Expand Azure Partnership"
     excerpt: "“By running the Genesys customer experience solution on this dependable cloud environment, enterprises will be able to maximize their investment in Microsoft Azure through simplified management and maintenance requirements, centralized IT expertise, reduced costs, and more.” Through cloud and artificial intelligence (AI), enterprise ..."
     publishedDateTime: 2020-01-23T20:15:00Z
-    sourceUrl: "https://winbuzzer.com/2020/01/23/microsoft-and-genesys-expand-azure-partnership-xcxwbn/"
+    webUrl: "https://winbuzzer.com/2020/01/23/microsoft-and-genesys-expand-azure-partnership-xcxwbn/"
     type: article
     provider:
       name: winbuzzer.com
@@ -59,7 +59,7 @@ related:
   - title: "Genesys Engage call center software coming to Microsoft Azure"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services ![|320x210](upload://l8VPxe2KNadH6qDHIMwvoo2OX3S.png)Genesys is a leading provider of call center solutions. The company delivers more than 70 billion customer interactions per year for ..."
     publishedDateTime: 2020-01-26T21:00:00Z
-    sourceUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
+    webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
     type: article
     provider:
       name: BCW
@@ -72,7 +72,7 @@ related:
   - title: "How Genesys is personalizing the customer experience with Engage, Azure and AI"
     excerpt: "on Microsoft Azure. According to the two companies, this combination will provide a secure cloud environment to help companies more easily leverage AI to address customer needs on any channel. Headquartered in Daly City, California, Genesys has more than 5,000 employees in nearly 60 offices worldwide. Every year, the company supports more than ..."
     publishedDateTime: 2020-01-23T15:21:00Z
-    sourceUrl: "https://news.microsoft.com/transform/how-genesys-is-personalizing-the-customer-experience-with-engage-azure-and-ai/"
+    webUrl: "https://news.microsoft.com/transform/how-genesys-is-personalizing-the-customer-experience-with-engage-azure-and-ai/"
     type: article
     provider:
       name: Microsoft
@@ -85,7 +85,7 @@ related:
   - title: "Microsoft Sees Azure Sales Surge 62 Percent"
     excerpt: "“we are seeing rapid adoption across a comprehensive portfolio of AI tools, infrastructure and services.” He said that there are 6 billion transactions on Azure Cognitive services each month, 7 billion documents processed daily with Azure cognitive search. There are a further 2 billion predictions a month using Azure machine learning ..."
     publishedDateTime: 2020-01-30T04:21:00Z
-    sourceUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
+    webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
     type: article
     provider:
       name: pymnts.com

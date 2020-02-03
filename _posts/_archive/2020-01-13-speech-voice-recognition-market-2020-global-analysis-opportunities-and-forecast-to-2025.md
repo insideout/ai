@@ -3,7 +3,7 @@ category: news
 title: "Speech & Voice Recognition Market 2020 Global Analysis, Opportunities And Forecast To 2025"
 excerpt: "Jan 13, 2020 (AB Digital via COMTEX) -- Speech & Voice Recognition Industry Description Speech recognition technology is a high technology that enables machines to transform speech signals into ..."
 publishedDateTime: 2020-01-13T05:49:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-01-13?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-01-13?mod=mw_quote_news"
 type: article
 quality: 44
 heat: -1
@@ -31,7 +31,7 @@ related:
   - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
     excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
     publishedDateTime: 2020-01-07T13:21:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-30"
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-30"
     type: article
     provider:
       name: MarketWatch
@@ -44,7 +44,7 @@ related:
   - title: "Cloud Natural Language Processing (NLP) Research Analysis Report by Size, Share, Trends and Growth Forecast, 2018-2025"
     excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Cloud Natural Language Processing (NLP) Market“ By Type (Rule-Based, Statistical, and Hybrid), By Deployment ..."
     publishedDateTime: 2020-01-13T13:40:00Z
-    sourceUrl: "https://www.openpr.com/news/1894966/cloud-natural-language-processing-nlp-research-analysis"
+    webUrl: "https://www.openpr.com/news/1894966/cloud-natural-language-processing-nlp-research-analysis"
     type: article
     provider:
       name: openpr.com

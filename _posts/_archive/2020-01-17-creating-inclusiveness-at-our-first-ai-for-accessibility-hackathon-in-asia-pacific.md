@@ -3,7 +3,7 @@ category: news
 title: "Creating inclusiveness at our first AI for Accessibility Hackathon in Asia Pacific"
 excerpt: "identifying opportunities to use AI to build a more inclusive and accessible world around us. Their solutions were developed on Microsoft Azure and used Power Apps to create solutions that tackle problems faced by the community every day. Team Grab from Singapore on their communication solution for people with autism Problem statements on ..."
 publishedDateTime: 2020-01-17T01:17:00Z
-sourceUrl: "https://news.microsoft.com/apac/2020/01/17/creating-inclusiveness-at-our-first-ai-for-accessibility-hackathon-in-asia-pacific/"
+webUrl: "https://news.microsoft.com/apac/2020/01/17/creating-inclusiveness-at-our-first-ai-for-accessibility-hackathon-in-asia-pacific/"
 type: article
 quality: 33
 heat: 33

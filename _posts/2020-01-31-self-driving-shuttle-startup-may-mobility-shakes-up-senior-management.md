@@ -3,7 +3,7 @@ category: news
 title: "Self-driving shuttle startup May Mobility shakes up senior management"
 excerpt: "Self-driving shuttle company May Mobility has revamped its senior management team. COO Alisyn Malek will leave her position with the company at the end of this week, but will retain an advisory role. Her departure follows the exit of former chief technology officer Steve Vozar, who left last week. Both are co-founders of the company."
 publishedDateTime: 2020-01-31T10:28:00Z
-sourceUrl: "https://www.autonews.com/mobility-report/self-driving-shuttle-startup-may-mobility-shakes-senior-management"
+webUrl: "https://www.autonews.com/mobility-report/self-driving-shuttle-startup-may-mobility-shakes-senior-management"
 type: article
 quality: 24
 heat: 24

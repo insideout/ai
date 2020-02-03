@@ -3,7 +3,7 @@ category: news
 title: "IBM Watson AI to Combine Segmentation and Dynamic Creative in New Beta Offering"
 excerpt: "“And similar to what we’ve done with weather and weather insights, we wanted brands to use AI to uncover insights about their business, and [Advertising] Accelerator [with Watson] is the next step.” Creative optimization and analytics by IBM's Advertising Accelerator with WatsonIBM"
 publishedDateTime: 2020-01-07T19:17:00Z
-sourceUrl: https://www.dmnews.com/marketing-channels/article/21108865/ibm-watson-ai-to-combine-segmentation-and-dynamic-creative-in-new-beta-offering
+webUrl: https://www.dmnews.com/marketing-channels/article/21108865/ibm-watson-ai-to-combine-segmentation-and-dynamic-creative-in-new-beta-offering
 type: article
 quality: 50
 heat: 50

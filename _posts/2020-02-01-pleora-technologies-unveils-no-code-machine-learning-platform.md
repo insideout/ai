@@ -3,7 +3,7 @@ category: news
 title: "Pleora Technologies unveils \"no code\" machine learning platform"
 excerpt: "The new embedded AI Gateway from Pleora Technologies is designed to simplify the deployment of advanced machine learning capabilities and improve the reliability and lower the cost of visual quality inspection. The AI Gateway offers plug-in machine learning skills for classification, sorting, and defect detection, and the ability to train and ..."
 publishedDateTime: 2020-02-01T02:28:00Z
-sourceUrl: "https://www.vision-systems.com/boards-software/article/14092829/machine-learning-ai-gateway-platform-introduced-by-pleora-technologies"
+webUrl: "https://www.vision-systems.com/boards-software/article/14092829/machine-learning-ai-gateway-platform-introduced-by-pleora-technologies"
 type: article
 quality: 39
 heat: 39

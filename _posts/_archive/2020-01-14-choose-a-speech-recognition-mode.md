@@ -3,7 +3,7 @@ category: news
 title: "Choose a speech recognition mode"
 excerpt: "This method will detect a recognized utterance from the input starting at the beginning of detected speech until the next pause. Usually, a pause marks the end of a sentence or line-of-thought. At the end of one recognized utterance, the service stops processing audio from that request. The maximum limit for recognition is a sentence duration ..."
 publishedDateTime: 2020-01-14T23:12:00Z
-sourceUrl: "https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-choose-recognition-mode"
+webUrl: "https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-choose-recognition-mode"
 type: article
 quality: 39
 heat: -1
@@ -31,9 +31,9 @@ related:
   - title: "Facebook releases low-latency online speech recognition framework"
     excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in cloud or embedded edge environments. Wav2letter@anywhere is based on neural net-based language models wav2letter and wav2letter++, which upon its ..."
     publishedDateTime: 2020-01-13T17:30:00Z
-    sourceUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
-    ampUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
-    cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
+    webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
+    ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
     type: article
     provider:
       name: VentureBeat
@@ -46,7 +46,7 @@ related:
   - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
     excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. This is a companion discussion topic for the original entry at https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
     publishedDateTime: 2020-01-17T00:25:00Z
-    sourceUrl: "https://businesscomputingworld.co.uk/t/facebook-s-online-speech-recognition-framework-becomes-widely-available/235598"
+    webUrl: "https://businesscomputingworld.co.uk/t/facebook-s-online-speech-recognition-framework-becomes-widely-available/235598"
     type: article
     provider:
       name: BCW
@@ -59,7 +59,7 @@ related:
   - title: "Facebook Releases Open Source Speech Recognition Platform"
     excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. “The system has almost three times the throughput of a well-tuned hybrid ASR baseline while also having lower latency and a better word error rate,” wrote a ..."
     publishedDateTime: 2020-01-16T01:03:00Z
-    sourceUrl: "https://mobileidworld.com/facebook-releases-open-source-speech-recognition-platform-011505/"
+    webUrl: "https://mobileidworld.com/facebook-releases-open-source-speech-recognition-platform-011505/"
     type: article
     provider:
       name: Mobile ID News
@@ -72,7 +72,7 @@ related:
   - title: "Facebook Releases Open Source Speech Recognition Platform"
     excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market."
     publishedDateTime: 2020-01-17T21:08:00Z
-    sourceUrl: "https://businesscomputingworld.co.uk/t/facebook-releases-open-source-speech-recognition-platform/236679"
+    webUrl: "https://businesscomputingworld.co.uk/t/facebook-releases-open-source-speech-recognition-platform/236679"
     type: article
     provider:
       name: BCW
@@ -85,7 +85,7 @@ related:
   - title: "what3words and Speechmatics launch speech recognition and post-processing API"
     excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any application or service, to have it return the what3words address and corresponding GPS ..."
     publishedDateTime: 2020-01-13T10:53:00Z
-    sourceUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
+    webUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
     type: article
     provider:
       name: Pepsi
@@ -98,7 +98,7 @@ related:
   - title: "Speech and Voice Recognition Market"
     excerpt: "The advent of advanced technologies in diverse industries such as healthcare, banking, medicine, and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition Market Size, Share and Global Trend By Component (Solution ..."
     publishedDateTime: 2020-01-16T03:46:00Z
-    sourceUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
+    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
     type: article
     provider:
       name: openpr.com

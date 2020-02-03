@@ -3,9 +3,9 @@ category: news
 title: "Apple acquires Xnor.ai in bid to out-AI Google"
 excerpt: "Xnor.ai's technology should give Apple edge computing capabilities that align with the company’s recent assertions about protecting user data — a controversy that convinced Apple to attend CES after a 28-year hiatus. And while the iPhone's A12 Bionic chip supports machine learning to a degree, the Xnor.ai purchase suggests that Apple's ..."
 publishedDateTime: 2020-01-16T18:30:00Z
-sourceUrl: "https://www.tomsguide.com/news/apple-acquires-xnorai-in-bid-to-out-ai-google"
-ampUrl: "https://www.tomsguide.com/amp/news/apple-acquires-xnorai-in-bid-to-out-ai-google"
-cdnAmpUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/apple-acquires-xnorai-in-bid-to-out-ai-google"
+webUrl: "https://www.tomsguide.com/news/apple-acquires-xnorai-in-bid-to-out-ai-google"
+ampWebUrl: "https://www.tomsguide.com/amp/news/apple-acquires-xnorai-in-bid-to-out-ai-google"
+cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/apple-acquires-xnorai-in-bid-to-out-ai-google"
 type: article
 quality: 59
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "Google Says Yes To No-Code, Acquires AppSheet"
     excerpt: "and some of its innovations fail to ever gain enough traction to survive (such as Google Wave, Google Answers and Google +)."
     publishedDateTime: 2020-01-17T17:01:00Z
-    sourceUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/"
-    ampUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/"
-    cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/"
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/"
     type: article
     provider:
       name: Forbes

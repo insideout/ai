@@ -3,7 +3,7 @@ category: news
 title: "MC Hammer Talks Music, Cheetos, and Artificial Intelligence"
 excerpt: "We don’t know if it’s all going to be by suggestion,” Hammer said. The most likely scenario, according to the rapper, is that artificial intelligence will produce the hit singles of the future. “If machines can learn from machines, they could easily learn how to compose,” Hammer said. “They’re already doing it, but it’s going to ..."
 publishedDateTime: 2020-02-01T00:03:00Z
-sourceUrl: "https://cheddar.com/media/mc-hammer-talks-music-cheetos-and-artificial-intelligence"
+webUrl: "https://cheddar.com/media/mc-hammer-talks-music-cheetos-and-artificial-intelligence"
 type: article
 quality: 37
 heat: 37

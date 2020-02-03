@@ -3,9 +3,9 @@ category: news
 title: "Bahrain-based Invent ITS to launch first app to book medical appointments"
 excerpt: "The platform, which is powered by Amazon Web Services (AWS), will be launched at an event supported by Bahrain Economic ... being fully prepared to deal with the requirements of the digital economy, by adopting and employing artificial intelligence technologies in the production and service sectors. In this context, Mr Alhalwachi affirmed ..."
 publishedDateTime: 2020-01-23T10:13:00Z
-sourceUrl: "https://www.zawya.com/mena/en/business/story/Bahrainbased_Invent_ITS_to_launch_first_app_to_book_medical_appointments-SNG_165292262/"
-ampUrl: "https://www.zawya.com/mena/en/story/amp/SNG_165292262/"
-cdnAmpUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_165292262/"
+webUrl: "https://www.zawya.com/mena/en/business/story/Bahrainbased_Invent_ITS_to_launch_first_app_to_book_medical_appointments-SNG_165292262/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_165292262/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_165292262/"
 type: article
 quality: 58
 heat: 58

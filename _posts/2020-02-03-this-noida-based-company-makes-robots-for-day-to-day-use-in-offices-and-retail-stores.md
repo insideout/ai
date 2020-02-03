@@ -3,9 +3,9 @@ category: news
 title: "This Noida-based company makes robots for day-to-day use in offices and retail stores"
 excerpt: "The two met when they got a project to work on robots for China-based WASAI Robotic Technology and decided to merge their expertise to start Aspagteq Technology in 2014 with their ... Aspagteq Technology has developed three prototypes with technologies like Artificial Intelligence (AI), Internet of Things (IoT), BLE 5, face recognition ..."
 publishedDateTime: 2020-02-03T00:50:00Z
-sourceUrl: "https://yourstory.com/smbstory/noida-aspagateq-robots-offices-retail-education"
-ampUrl: "https://yourstory.com/smbstory/noida-aspagateq-robots-offices-retail-education/amp"
-cdnAmpUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/smbstory/noida-aspagateq-robots-offices-retail-education/amp"
+webUrl: "https://yourstory.com/smbstory/noida-aspagateq-robots-offices-retail-education"
+ampWebUrl: "https://yourstory.com/smbstory/noida-aspagateq-robots-offices-retail-education/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/smbstory/noida-aspagateq-robots-offices-retail-education/amp"
 type: article
 quality: 67
 heat: 67

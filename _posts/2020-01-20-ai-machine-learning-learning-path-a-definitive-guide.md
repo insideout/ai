@@ -3,7 +3,7 @@ category: news
 title: "AI & Machine Learning Learning Path: A Definitive Guide"
 excerpt: "In fact, AI technologies could increase labour productivity by 40% or more ... look at the science of applying machine learning algorithms to process large amounts of natural language data. You will learn the concepts of statistical machine translation and neural models, deep semantic similarity models (DSSM), neural knowledge base embedding ..."
 publishedDateTime: 2020-01-20T12:36:00Z
-sourceUrl: "https://analyticsindiamag.com/ai-ml-learning-path-definitive-guide/"
+webUrl: "https://analyticsindiamag.com/ai-ml-learning-path-definitive-guide/"
 type: article
 quality: 39
 heat: 39

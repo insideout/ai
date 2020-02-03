@@ -3,9 +3,9 @@ category: news
 title: "Mojo Vision demos wildly futuristic AR contact lens - 9to5Google"
 excerpt: "The company was founded in 2015 with prototypes arriving by 2017. Sometime during the 2020s, they hope to have a final feature set that includes a hi-res microLED display, fast wireless data, and battery power, as well as eye tracking and computer vision. The last two aspects would make for an eye-controlled UI, and fulfill that sci-fi vision ..."
 publishedDateTime: 2020-01-17T00:59:00Z
-sourceUrl: "https://9to5google.com/2020/01/16/mojo-ar-contact-lens/"
-ampUrl: "https://9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/"
-cdnAmpUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/"
+webUrl: "https://9to5google.com/2020/01/16/mojo-ar-contact-lens/"
+ampWebUrl: "https://9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/"
+cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/"
 type: article
 quality: 44
 heat: 44
@@ -29,7 +29,7 @@ related:
   - title: "AI contact lens being developed"
     excerpt: "Startup Mojo Vision has been developing an AR contact lens which really means people will have difficulty telling what is real or not. Mojo Vision is calling the technology Invisible Computing. Last week the company let selected media have a look at working prototypes, powered wirelessly, though plans for the next version include a battery on ..."
     publishedDateTime: 2020-01-17T10:40:00Z
-    sourceUrl: "https://www.fudzilla.com/news/ai/50136-ai-contact-lens-being-developed"
+    webUrl: "https://www.fudzilla.com/news/ai/50136-ai-contact-lens-being-developed"
     type: article
     provider:
       name: Fudzilla
@@ -42,7 +42,7 @@ related:
   - title: "Mojo Vision developing “smart” contact lens"
     excerpt: "Mojo Lens features a power-efficient image sensor that is optimized for computer vision, a custom wireless radio and motion sensors for eye-tracking and image stabilization. The device increases contrast, highlights edges, magnifies objects and zooms out ..."
     publishedDateTime: 2020-01-17T14:52:00Z
-    sourceUrl: "https://www.massdevice.com/mojo-vision-developing-smart-contact-lens/"
+    webUrl: "https://www.massdevice.com/mojo-vision-developing-smart-contact-lens/"
     type: article
     provider:
       name: MassDevice

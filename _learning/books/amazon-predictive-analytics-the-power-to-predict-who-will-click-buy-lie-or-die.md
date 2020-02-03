@@ -1,7 +1,7 @@
 ---
 title: "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die"
 excerpt: "An introduction for everyone. In this rich, fascinating — surprisingly accessible — introduction, leading expert Eric Siegel reveals how predictive analytics (aka machine learning) works, and how it affects everyone every day. Rather than a “how to” for hands-on techies, the book serves lay readers and experts alike by covering new case studies and the latest state-of-the-art techniques."
-sourceUrl: https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1119145678/
+webUrl: https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1119145678/
 type: book
 price: $19.99
 length: 

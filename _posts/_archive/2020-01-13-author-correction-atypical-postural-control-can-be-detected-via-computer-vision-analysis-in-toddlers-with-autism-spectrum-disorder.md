@@ -3,7 +3,7 @@ category: news
 title: "Author Correction: Atypical postural control can be detected via computer vision analysis in toddlers with autism spectrum disorder"
 excerpt: "This Article contains errors in the Methods section under subheading ‘Diagnostic Assessments’. “The mean ADOS-T score was 18.81 (SD = 4.20).”"
 publishedDateTime: 2020-01-13T23:34:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-020-57570-1"
+webUrl: "https://www.nature.com/articles/s41598-020-57570-1"
 type: article
 quality: 0
 heat: 0

@@ -3,7 +3,7 @@ category: news
 title: "Samsung to bolster network services with TeleWorld acquisition"
 excerpt: "Financial terms of the deal, announced today, have not been disclosed. Chantilly, Virginia-based TWS offers a range of network services including consulting ... Complex decision making requires intelligent automation, machine learning, and AI, all of which are fundamental for controlling and operating communications networks of the future."
 publishedDateTime: 2020-01-13T15:45:00Z
-sourceUrl: "https://www.fiercewireless.com/wireless/samsung-to-bolster-network-services-teleworld-acquisition"
+webUrl: "https://www.fiercewireless.com/wireless/samsung-to-bolster-network-services-teleworld-acquisition"
 type: article
 quality: 24
 heat: 24

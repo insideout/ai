@@ -3,7 +3,7 @@ category: news
 title: "Preventive Health Care: Key to Long Life"
 excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing, and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti ..."
 publishedDateTime: 2020-01-21T05:35:00Z
-sourceUrl: "https://www.medindia.net/news/preventive-health-care-key-to-long-life-192639-1.htm"
+webUrl: "https://www.medindia.net/news/preventive-health-care-key-to-long-life-192639-1.htm"
 type: article
 quality: 4
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "Experts: Preventive Health Care Is Key To Long Life"
     excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti Malhotra ..."
     publishedDateTime: 2020-01-21T00:25:00Z
-    sourceUrl: "https://www.worldhealth.net/news/experts-preventive-health-care-key-long-life/"
+    webUrl: "https://www.worldhealth.net/news/experts-preventive-health-care-key-long-life/"
     type: article
     provider:
       name: Worldhealth

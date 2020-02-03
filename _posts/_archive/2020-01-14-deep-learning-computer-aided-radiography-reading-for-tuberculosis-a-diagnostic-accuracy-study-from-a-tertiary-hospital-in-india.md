@@ -3,7 +3,7 @@ category: news
 title: "Deep learning, computer-aided radiography reading for tuberculosis: a diagnostic accuracy study from a tertiary hospital in India"
 excerpt: "Tuberculosis (TB) is the world’s leading infectious disease killer. Early and accurate detection of TB is essential to achieve global control of the disease. However, many high-burden countries continue to have large gaps in TB diagnosis. India has the ..."
 publishedDateTime: 2020-01-14T11:10:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-019-56589-3"
+webUrl: "https://www.nature.com/articles/s41598-019-56589-3"
 type: article
 quality: 25
 heat: 25

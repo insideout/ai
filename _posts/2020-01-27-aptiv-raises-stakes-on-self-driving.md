@@ -3,7 +3,7 @@ category: news
 title: "Aptiv raises stakes on self-driving"
 excerpt: "LAS VEGAS — The throngs of technology enthusiasts have gone home. The elaborate displays in the convention center have been dismantled. The self-driving technology demonstrations have largely ceased. But weeks after CES, Aptiv's autonomous vehicles — with their signature orange hubcaps — remain a fixture on the Las Vegas Strip."
 publishedDateTime: 2020-01-27T04:00:00Z
-sourceUrl: "https://www.autonews.com/mobility-report/aptiv-raises-stakes-self-driving"
+webUrl: "https://www.autonews.com/mobility-report/aptiv-raises-stakes-self-driving"
 type: article
 quality: 39
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "GM’s investors school Tesla’s on self-driving hype"
     excerpt: "Considering true self-driving remains a long way off, GM’s owners are more realistic. Cruise, the self-driving-car outfit majority-owned by General Motors, unveiled its prototype electric autonomous vehicle on Jan. 21. Called the Cruise Origin, it has no steering wheel or pedals. Chief Executive Dan Ammann said it was “a fully engineered ..."
     publishedDateTime: 2020-01-22T20:04:00Z
-    sourceUrl: "https://www.breakingviews.com/considered-view/gms-investors-school-teslas-on-self-driving-hype/"
+    webUrl: "https://www.breakingviews.com/considered-view/gms-investors-school-teslas-on-self-driving-hype/"
     type: article
     provider:
       name: Breakingviews

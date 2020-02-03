@@ -3,9 +3,9 @@ category: news
 title: "Ottapalam cops get smarter with Artificial Intelligence cameras atop vehicle"
 excerpt: "Ottapalam: Kerala Police is gearing up to face the manifold challenges on the law and order front. Amid move to widely install cameras with Artificial Intelligence in public places, first police vehicle in Palakkad district with surveillance cameras has been readied here. Four surveillance cameras have been fitted on to the official vehicle of ..."
 publishedDateTime: 2020-02-03T01:29:00Z
-sourceUrl: "https://english.manoramaonline.com/districts/palakkad/2020/02/03/ottapalam-police-artificiaal-intelligence-camera.html"
-ampUrl: "https://english.manoramaonline.com/districts/palakkad/2020/02/03/ottapalam-police-artificiaal-intelligence-camera.amp.html"
-cdnAmpUrl: "https://english-manoramaonline-com.cdn.ampproject.org/c/s/english.manoramaonline.com/districts/palakkad/2020/02/03/ottapalam-police-artificiaal-intelligence-camera.amp.html"
+webUrl: "https://english.manoramaonline.com/districts/palakkad/2020/02/03/ottapalam-police-artificiaal-intelligence-camera.html"
+ampWebUrl: "https://english.manoramaonline.com/districts/palakkad/2020/02/03/ottapalam-police-artificiaal-intelligence-camera.amp.html"
+cdnAmpWebUrl: "https://english-manoramaonline-com.cdn.ampproject.org/c/s/english.manoramaonline.com/districts/palakkad/2020/02/03/ottapalam-police-artificiaal-intelligence-camera.amp.html"
 type: article
 quality: 54
 heat: 54

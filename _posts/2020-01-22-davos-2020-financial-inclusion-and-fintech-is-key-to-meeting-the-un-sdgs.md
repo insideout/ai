@@ -3,7 +3,7 @@ category: news
 title: "Davos 2020: Financial inclusion and fintech is key to meeting the UN SDGs"
 excerpt: "“Fintech will also drive the significance of having sovereign digital identities for ... The solution: ensuring diversity within the developer teams who create algorithms, which will help avoid the discriminatory effects of AI on certain groups of people. “Financial services firms have always been heavy users of data and this is only ..."
 publishedDateTime: 2020-01-22T14:21:00Z
-sourceUrl: "https://www.finextra.com/newsarticle/35125/davos-2020-financial-inclusion-and-fintech-is-key-to-meeting-the-un-sdgs"
+webUrl: "https://www.finextra.com/newsarticle/35125/davos-2020-financial-inclusion-and-fintech-is-key-to-meeting-the-un-sdgs"
 type: article
 quality: 23
 heat: 23

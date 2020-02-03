@@ -3,7 +3,7 @@ category: news
 title: "Fractal Named Certified Retail Competency Partner by Amazon Web Services (AWS)"
 excerpt: "The AWS Retail Competency status differentiates ... Fractal is one of the most prominent players in the Artificial Intelligence space. Fractal's mission is to power every human decision in the ..."
 publishedDateTime: 2020-01-13T13:26:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/fractal-named-certified-retail-competency-partner-by-amazon-web-services-aws-300985633.html"
+webUrl: "https://www.prnewswire.com/news-releases/fractal-named-certified-retail-competency-partner-by-amazon-web-services-aws-300985633.html"
 type: article
 quality: 65
 heat: 65

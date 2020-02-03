@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning and AI Foundations: Recommendations"
 excerpt: "This project-based course shows programmers of all skill levels how to use machine learning to build programs that can make recommendations. In this course, Adam Geitgey walks you through a hands-on lab building a recommendation system that is able to suggest similar products to customers based on past products they have reviewed or purchased. The system can also identify which products are similar to each other."
-sourceUrl: https://www.linkedin.com/learning/machine-learning-and-ai-foundations-recommendations
+webUrl: https://www.linkedin.com/learning/machine-learning-and-ai-foundations-recommendations
 type: course
 price: $44.99
 length: 0:58

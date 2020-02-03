@@ -1,7 +1,7 @@
 ---
 title: "Designing and Implementing Solutions Using Google Cloud AutoML"
 excerpt: "Google Cloud AI offers a wide range of machine learning services. AutoML features cutting-edge technology which uses your training data to find the best model for your use case. In this course, you'll learn to build a custom machine learning model."
-sourceUrl: https://www.pluralsight.com/courses/google-cloud-automl-designing-implementing-solutions
+webUrl: https://www.pluralsight.com/courses/google-cloud-automl-designing-implementing-solutions
 type: course
 price: $$
 length: 1h 41m

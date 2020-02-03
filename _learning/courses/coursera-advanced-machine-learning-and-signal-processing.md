@@ -1,7 +1,7 @@
 ---
 title: "Advanced Machine Learning and Signal Processing"
 excerpt: "Learn Advanced Machine Learning and Signal Processing from IBM. >>> By enrolling in this course you agree to the End User License Agreement as set out in the FAQ.  Once enrolled you can access the license in the Resources area <<<  This course, ..."
-sourceUrl: https://www.coursera.org/learn/advanced-machine-learning-signal-processing
+webUrl: https://www.coursera.org/learn/advanced-machine-learning-signal-processing
 type: course
 price: Free+
 length: 16 hours

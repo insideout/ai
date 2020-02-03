@@ -3,7 +3,7 @@ category: news
 title: "Sonasoft (SSFT) Selected as Artificial Intelligence (AI) Solution to Power New AI Marketing Platform by Cognitive ROI"
 excerpt: "SAN JOSE, CA, Jan. 22, 2020 (GLOBE NEWSWIRE) -- via NEWMEDIAWIRE – Sonasoft Corp. (OTCQB: SSFT), a leader in innovative artificial intelligence (AI)"
 publishedDateTime: 2020-01-22T13:30:00Z
-sourceUrl: "https://www.globenewswire.com/news-release/2020/01/22/1973643/0/en/Sonasoft-SSFT-Selected-as-Artificial-Intelligence-AI-Solution-to-Power-New-AI-Marketing-Platform-by-Cognitive-ROI.html"
+webUrl: "https://www.globenewswire.com/news-release/2020/01/22/1973643/0/en/Sonasoft-SSFT-Selected-as-Artificial-Intelligence-AI-Solution-to-Power-New-AI-Marketing-Platform-by-Cognitive-ROI.html"
 type: article
 quality: 9
 heat: 9

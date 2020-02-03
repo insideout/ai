@@ -3,7 +3,7 @@ category: news
 title: "Democratizing the optimization of AI’s arcane neural networks"
 excerpt: "We’re only a few weeks into the new year, but already we’re seeing signs that automated machine learning modeling, sometimes known as autoML, is rising to a new plateau of sophistication. Specifically, it appears that a promising autoML approach known as “neural architecture search” will soon become part of data scientists’ core toolkits."
 publishedDateTime: 2020-01-16T12:19:00Z
-sourceUrl: "https://www.infoworld.com/article/3514568/democratizing-the-optimization-of-ais-arcane-neural-networks.html"
+webUrl: "https://www.infoworld.com/article/3514568/democratizing-the-optimization-of-ais-arcane-neural-networks.html"
 type: article
 quality: 84
 heat: 84

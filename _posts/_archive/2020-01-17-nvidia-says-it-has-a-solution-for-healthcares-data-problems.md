@@ -3,7 +3,7 @@ category: news
 title: "Nvidia says it has a solution for healthcare’s data problems"
 excerpt: "Healthcare leaders wouldn’t stop talking about one topic at the JP Morgan Healthcare Conference: artificial intelligence. At Boston Consulting Group’s annual look-ahead for 2020, audience members rated digital, analytics and innovation as the top strategic priority for healthcare companies, even above pricing, access and M&A. But ..."
 publishedDateTime: 2020-01-17T00:56:00Z
-sourceUrl: "https://medcitynews.com/2020/01/nvidia-says-it-has-a-solution-for-healthcares-data-problems/"
+webUrl: "https://medcitynews.com/2020/01/nvidia-says-it-has-a-solution-for-healthcares-data-problems/"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "What will Google’s healthcare expansion mean for UK data protection?"
     excerpt: "In just over a year, Google has launched a new Google Health subsidiary, which also absorbed the health unit of DeepMind – the UK-based artificial intelligence lab it acquired in 2014 – and splashed out £1.6 billion on wearable firm Fitbit, giving the search giant access to its trove of data collected from 28 million active users."
     publishedDateTime: 2020-01-10T12:31:00Z
-    sourceUrl: "https://www.techworld.com/data/what-will-googles-healthcare-expansion-mean-for-uk-data-protection-3780397/"
-    ampUrl: "https://www.techworld.com/data/what-will-googles-healthcare-expansion-mean-for-uk-data-protection-3780397/?amp"
-    cdnAmpUrl: "https://www-techworld-com.cdn.ampproject.org/c/s/www.techworld.com/data/what-will-googles-healthcare-expansion-mean-for-uk-data-protection-3780397/?amp"
+    webUrl: "https://www.techworld.com/data/what-will-googles-healthcare-expansion-mean-for-uk-data-protection-3780397/"
+    ampWebUrl: "https://www.techworld.com/data/what-will-googles-healthcare-expansion-mean-for-uk-data-protection-3780397/?amp"
+    cdnAmpWebUrl: "https://www-techworld-com.cdn.ampproject.org/c/s/www.techworld.com/data/what-will-googles-healthcare-expansion-mean-for-uk-data-protection-3780397/?amp"
     type: article
     provider:
       name: Techworld

@@ -3,7 +3,7 @@ category: news
 title: "Compound’s Mike Dempsey on virtual influencers and AI characters"
 excerpt: "In a series of three interviews, I’m exploring the startup opportunities in both of these spaces in greater depth. First, Michael Dempsey, a partner at VC firm Compound who has blogged extensively about digital characters, avatars and animation, offers his perspective as an investor hunting for startup opportunities within these spaces."
 publishedDateTime: 2020-01-18T18:11:00Z
-sourceUrl: "https://techcrunch.com/2020/01/18/compounds-mike-dempsey-on-virtual-influencers-and-ai-characters/"
+webUrl: "https://techcrunch.com/2020/01/18/compounds-mike-dempsey-on-virtual-influencers-and-ai-characters/"
 type: article
 quality: 67
 heat: 67

@@ -3,7 +3,7 @@ category: news
 title: "Microsoft promises to be carbon negative by 2030"
 excerpt: "\"Microsoft's expanding efforts to help fossil fuel companies drill more oil and gas with machine-learning and other AI technologies.\" Along with the other major cloud providers, Microsoft continues to pursue lucrative contracts with fossil fuel companies, with an Azure division dedicated to the sector. In the customer stories section of its ..."
 publishedDateTime: 2020-01-17T12:32:00Z
-sourceUrl: "https://www.datacenterdynamics.com/news/microsoft-promises-be-carbon-negative-2030/"
+webUrl: "https://www.datacenterdynamics.com/news/microsoft-promises-be-carbon-negative-2030/"
 type: article
 quality: 39
 heat: 39

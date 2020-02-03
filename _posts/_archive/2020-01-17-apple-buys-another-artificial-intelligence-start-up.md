@@ -3,7 +3,7 @@ category: news
 title: "Apple Buys Another Artificial Intelligence Start-Up"
 excerpt: "CEO Tim Cook confirmed last year that the tech titan tends to buy smaller companies every two to three weeks. Apple's latest acquisition is all about low-power edge-based artificial intelligence (AI). Here's what investors need to know. Apple chip exec Sri Santhanam detailing the A13 Bionic's machine-learning capabilities in September."
 publishedDateTime: 2020-01-17T13:12:00Z
-sourceUrl: "https://www.fool.com/investing/2020/01/17/apple-buys-another-artificial-intelligence-start-u.aspx"
+webUrl: "https://www.fool.com/investing/2020/01/17/apple-buys-another-artificial-intelligence-start-u.aspx"
 type: article
 quality: 67
 heat: 77
@@ -30,7 +30,7 @@ related:
   - title: "Apple News: Why The Tech Giant Bought Another Artificial Intelligence Start-Up"
     excerpt: "acquisition that investors have caught wind of ( Spectral Edge, to bolster the company's computational photography). CEO Tim Cook confirmed last year that the tech titan tends to buy smaller companies every two to three weeks."
     publishedDateTime: 2020-01-18T12:10:00Z
-    sourceUrl: "https://www.ibtimes.com/apple-news-why-tech-giant-bought-another-artificial-intelligence-start-2904861"
+    webUrl: "https://www.ibtimes.com/apple-news-why-tech-giant-bought-another-artificial-intelligence-start-2904861"
     type: article
     provider:
       name: International Business Times

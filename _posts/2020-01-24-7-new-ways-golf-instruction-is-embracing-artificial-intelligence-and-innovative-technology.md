@@ -3,9 +3,9 @@ category: news
 title: "7 new ways golf instruction is embracing artificial intelligence and innovative technology"
 excerpt: "ORLANDO -- Though golf has a tendency to move slower than most industries, the technology innovations we've seen this week beg to differ. Artificial intelligence and robotics have been terms perhaps thrown around in the past, implemented by only the biggest companies, but now we're actually seeing the results of intense research and development."
 publishedDateTime: 2020-01-24T01:02:00Z
-sourceUrl: "https://www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology"
-ampUrl: "https://www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology/amp"
-cdnAmpUrl: "https://www-golfdigest-com.cdn.ampproject.org/c/s/www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology/amp"
+webUrl: "https://www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology"
+ampWebUrl: "https://www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology/amp"
+cdnAmpWebUrl: "https://www-golfdigest-com.cdn.ampproject.org/c/s/www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology/amp"
 type: article
 quality: 49
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "This Entrepreneur Is Helping SMBs Embrace Technology"
     excerpt: "“We are an expert Azure managed services partner, driving the cloud transformation for over ... analysis services, artificial intelligence, bots and machine learning,” Richard said. Founded in 2012, G7CR Technologies counts brands such as Alibaba.com, Amazon, Digicert, Microsoft and Softlayer as its global technology partners."
     publishedDateTime: 2020-01-27T10:56:00Z
-    sourceUrl: "https://www.entrepreneur.com/article/345546"
-    ampUrl: "https://www.entrepreneur.com/amphtml/345546"
-    cdnAmpUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345546"
+    webUrl: "https://www.entrepreneur.com/article/345546"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/345546"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345546"
     type: article
     provider:
       name: Entrepreneur

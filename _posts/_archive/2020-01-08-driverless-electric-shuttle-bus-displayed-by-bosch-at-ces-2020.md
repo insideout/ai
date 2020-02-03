@@ -3,9 +3,9 @@ category: news
 title: "Driverless electric shuttle bus displayed by Bosch at CES 2020"
 excerpt: "They are trained with a wealth of information and vast databases of hundreds of thousands of clips which are processed using artificial intelligence to accurately identify people ... In November last year Apple revealed details of its driverless car system that uses lasers to detect pedestrians and cyclists from a distance."
 publishedDateTime: 2020-01-08T16:06:00Z
-sourceUrl: "https://www.dailymail.co.uk/sciencetech/article-7865097/Driverless-electric-shuttle-bus-displayed-Bosch-CES-2020.html"
-ampUrl: "https://www.dailymail.co.uk/sciencetech/article-7865097/amp/Driverless-electric-shuttle-bus-displayed-Bosch-CES-2020.html"
-cdnAmpUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7865097/amp/Driverless-electric-shuttle-bus-displayed-Bosch-CES-2020.html"
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-7865097/Driverless-electric-shuttle-bus-displayed-Bosch-CES-2020.html"
+ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7865097/amp/Driverless-electric-shuttle-bus-displayed-Bosch-CES-2020.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7865097/amp/Driverless-electric-shuttle-bus-displayed-Bosch-CES-2020.html"
 type: article
 quality: 59
 heat: 59

@@ -3,7 +3,7 @@ category: news
 title: "Using AI, people who are blind are able to find familiar faces in a room"
 excerpt: "Theo is now one of several members of the blind and low-vision community who are working with Regan, Grayson, researcher Cecily Morrison and her team on Project Tokyo, a multipronged research effort to create intelligent personal agent technology that uses artificial intelligence ... “To get the vision of Project Tokyo done, you have to ..."
 publishedDateTime: 2020-01-28T14:21:00Z
-sourceUrl: "https://news.microsoft.com/innovation-stories/project-tokyo/"
+webUrl: "https://news.microsoft.com/innovation-stories/project-tokyo/"
 type: article
 quality: 136
 heat: 136

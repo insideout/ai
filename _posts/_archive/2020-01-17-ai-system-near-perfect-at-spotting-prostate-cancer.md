@@ -3,9 +3,9 @@ category: news
 title: "AI system 'near perfect' at spotting prostate cancer"
 excerpt: "And it was on par with 23 \"world-leading\" pathologists in judging the severity of prostate tumors. No one is suggesting computers should replace doctors. But some researchers do think AI technology could improve the accuracy and efficiency of medical diagnoses. Typically, it works like this: Researchers develop an algorithm using \"deep learning ..."
 publishedDateTime: 2020-01-17T01:37:00Z
-sourceUrl: "https://www.upi.com/Health_News/2020/01/16/AI-system-near-perfect-at-spotting-prostate-cancer/1301579216032/"
-ampUrl: "https://www.upi.com/amp/Health_News/2020/01/16/AI-system-near-perfect-at-spotting-prostate-cancer/1301579216032/"
-cdnAmpUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/01/16/AI-system-near-perfect-at-spotting-prostate-cancer/1301579216032/"
+webUrl: "https://www.upi.com/Health_News/2020/01/16/AI-system-near-perfect-at-spotting-prostate-cancer/1301579216032/"
+ampWebUrl: "https://www.upi.com/amp/Health_News/2020/01/16/AI-system-near-perfect-at-spotting-prostate-cancer/1301579216032/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/01/16/AI-system-near-perfect-at-spotting-prostate-cancer/1301579216032/"
 type: article
 quality: 57
 heat: 57

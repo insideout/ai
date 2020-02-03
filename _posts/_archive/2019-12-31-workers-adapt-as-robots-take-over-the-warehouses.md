@@ -3,9 +3,9 @@ category: news
 title: "Workers adapt as robots take over the warehouses"
 excerpt: "Warehouses powered by robotics and AI software are leading ... CEO of San Francisco startup Kindred AI, which makes an artificially intelligent robotic arm that grasps and sorts items for ..."
 publishedDateTime: 2019-12-31T00:17:00Z
-sourceUrl: "https://www.timesunion.com/news/article/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php"
-ampUrl: "https://www.timesunion.com/news/amp/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php"
-cdnAmpUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php"
+webUrl: "https://www.timesunion.com/news/article/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php"
 type: article
 quality: 59
 heat: 59

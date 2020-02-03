@@ -3,9 +3,9 @@ category: news
 title: "Healthcare Ambitions Don’t Support NVDA Stock Prices Above $240"
 excerpt: "There, they reminded listeners that NVDA has been involved in healthcare for the past decade. They became particularly interested in the field after artificial intelligence detected mitosis (cell division crucial to cancer diagnostics) in a deep learning exercise in 2013. Nvidia has been building on its AI expertise within healthcare over the ..."
 publishedDateTime: 2020-01-29T19:36:00Z
-sourceUrl: "https://investorplace.com/2020/01/healthcare-ambitions-dont-support-nvda-stock-prices-above-240/"
-ampUrl: "https://investorplace.com/2020/01/healthcare-ambitions-dont-support-nvda-stock-prices-above-240/amp/"
-cdnAmpUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/healthcare-ambitions-dont-support-nvda-stock-prices-above-240/amp/"
+webUrl: "https://investorplace.com/2020/01/healthcare-ambitions-dont-support-nvda-stock-prices-above-240/"
+ampWebUrl: "https://investorplace.com/2020/01/healthcare-ambitions-dont-support-nvda-stock-prices-above-240/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/healthcare-ambitions-dont-support-nvda-stock-prices-above-240/amp/"
 type: article
 quality: 59
 heat: 59

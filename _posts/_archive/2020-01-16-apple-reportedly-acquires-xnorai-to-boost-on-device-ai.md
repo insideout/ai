@@ -3,7 +3,7 @@ category: news
 title: "Apple reportedly acquires Xnor.ai to boost on-device AI"
 excerpt: "Did you know that, according to CEO Tim Cook, Apple acquires a company every two to three weeks? It’s just added another startup to its long line of AI acquisitions. According to a report by GeekWire, the Cupertino-based company has made a deal with Xnor.ai, an edge-based AI startup, for $200 million. What is edge-based AI, you may ask?"
 publishedDateTime: 2020-01-16T06:15:00Z
-sourceUrl: "https://thenextweb.com/apple/2020/01/16/apple-reportedly-acquires-xnor-ai-to-boost-on-device-ai/"
+webUrl: "https://thenextweb.com/apple/2020/01/16/apple-reportedly-acquires-xnor-ai-to-boost-on-device-ai/"
 type: article
 quality: 67
 heat: 77
@@ -30,9 +30,9 @@ related:
   - title: "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is"
     excerpt: "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ..."
     publishedDateTime: 2020-01-16T16:33:00Z
-    sourceUrl: "https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained"
-    ampUrl: "https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained"
-    cdnAmpUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained"
+    webUrl: "https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained"
+    ampWebUrl: "https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained"
     type: article
     provider:
       name: TheStreet.com

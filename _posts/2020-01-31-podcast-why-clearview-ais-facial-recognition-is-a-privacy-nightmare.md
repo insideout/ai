@@ -3,7 +3,7 @@ category: news
 title: "Podcast: Why Clearview AI's facial recognition is a privacy nightmare"
 excerpt: "And we also chat about the DIY nature of Billy Eilish's Grammy wins. All of our fears around facial recognition technology are coming true thanks to a little known startup called ClearView AI. This week, Devindra and Cherlynn dive into how ClearView works, and what unchecked access to powerful facial recognition means for the future of privacy."
 publishedDateTime: 2020-01-31T12:30:00Z
-sourceUrl: "https://www.engadget.com/2020/01/31/podcast-clearview-ai-billie-eilish/"
+webUrl: "https://www.engadget.com/2020/01/31/podcast-clearview-ai-billie-eilish/"
 type: article
 quality: 84
 heat: 84

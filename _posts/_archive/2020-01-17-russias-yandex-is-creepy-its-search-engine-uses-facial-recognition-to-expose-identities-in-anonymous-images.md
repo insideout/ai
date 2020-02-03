@@ -3,9 +3,9 @@ category: news
 title: "Russia’s Yandex Is 'Creepy': Its Search Engine Uses Facial Recognition To Expose Identities In Anonymous Images"
 excerpt: "Yandex, the most popular search engine in Russia, is being accused of using machine learning and deep learning neural networks to provide facial recognition services to users. According to a Daily Mail report,"
 publishedDateTime: 2020-01-17T12:12:00Z
-sourceUrl: "https://www.ibtimes.com/russias-yandex-creepy-its-search-engine-uses-facial-recognition-expose-identities-2904470"
-ampUrl: "https://www.ibtimes.com/russias-yandex-creepy-its-search-engine-uses-facial-recognition-expose-identities-2904470?amp=1"
-cdnAmpUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/russias-yandex-creepy-its-search-engine-uses-facial-recognition-expose-identities-2904470?amp=1"
+webUrl: "https://www.ibtimes.com/russias-yandex-creepy-its-search-engine-uses-facial-recognition-expose-identities-2904470"
+ampWebUrl: "https://www.ibtimes.com/russias-yandex-creepy-its-search-engine-uses-facial-recognition-expose-identities-2904470?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/russias-yandex-creepy-its-search-engine-uses-facial-recognition-expose-identities-2904470?amp=1"
 type: article
 quality: 39
 heat: 39

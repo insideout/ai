@@ -3,7 +3,7 @@ category: news
 title: "Captivate 2017 TTS voice Issue"
 excerpt: "... an issue where our no matter what we change TTS voice to in Captivate the voice will default to the computer’s Text to Speech (Control panel>speech recognition). This presents a problem where we want to have different voices on different slides. We are desperate for some help on this as our IT company has said it is a Captivate issue."
 publishedDateTime: 2020-01-21T04:36:00Z
-sourceUrl: "https://elearning.adobe.com/2020/01/captivate-2017-tts-voice-issue/"
+webUrl: "https://elearning.adobe.com/2020/01/captivate-2017-tts-voice-issue/"
 type: article
 quality: 24
 heat: 24

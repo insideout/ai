@@ -3,9 +3,9 @@ category: news
 title: "Florida’s Proposed $50 Million Tax Break Has Uncertain Future"
 excerpt: "2020 The Orlando Sentinel (Orlando, Fla.). Distributed by Tribune Content Agency, LLC. New York’s Lockport City School District has facial and object recognition that it can no longer use after the state changed the rules. A school board trustee thinks the district should get a refund for the $1.4 million purchase. IRS Standardizes Free Tax ..."
 publishedDateTime: 2020-01-18T00:04:00Z
-sourceUrl: "https://www.governing.com/finance/Florida-Proposed-50-Million-Tax-Break-Uncertain-Future.html"
-ampUrl: "https://www.governing.com/finance/Florida-Proposed-50-Million-Tax-Break-Uncertain-Future.html?AMP"
-cdnAmpUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/finance/Florida-Proposed-50-Million-Tax-Break-Uncertain-Future.html?AMP"
+webUrl: "https://www.governing.com/finance/Florida-Proposed-50-Million-Tax-Break-Uncertain-Future.html"
+ampWebUrl: "https://www.governing.com/finance/Florida-Proposed-50-Million-Tax-Break-Uncertain-Future.html?AMP"
+cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/finance/Florida-Proposed-50-Million-Tax-Break-Uncertain-Future.html?AMP"
 type: article
 quality: 39
 heat: 39

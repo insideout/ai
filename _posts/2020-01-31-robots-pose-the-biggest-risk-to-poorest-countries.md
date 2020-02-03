@@ -3,7 +3,7 @@ category: news
 title: "Robots Pose the Biggest Risk to Poorest Countries"
 excerpt: "Consider the effect of new technologies. More jobs have been automated because of advances in computing, robotics, and artificial intelligence. One consequence has been the hollowing out of clerical jobs. Displaced employees end up competing for positions that might have been considered below their pay grade. That depresses wages more generally."
 publishedDateTime: 2020-01-31T11:10:00Z
-sourceUrl: "https://www.supplychainbrain.com/articles/30797-robots-pose-biggest-risk-to-the-poorest-countries"
+webUrl: "https://www.supplychainbrain.com/articles/30797-robots-pose-biggest-risk-to-the-poorest-countries"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Robots Pose Biggest Risk to the Poorest Countries"
     excerpt: "At the end of the 20th century, globalization narrowed the gap between rich and poor nations. But history shows that isn’t always the case. In the years following the fall of the Berlin Wall in 1989,"
     publishedDateTime: 2020-01-29T05:01:00Z
-    sourceUrl: "https://www.bloomberg.com/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries"
-    ampUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries"
-    cdnAmpUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries"
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries"
     type: article
     provider:
       name: Bloomberg
@@ -38,9 +38,9 @@ related:
   - title: "Rise of robots could see a new wave of migrants, from poorer to richer countries"
     excerpt: "Consider the effect of new technologies. More jobs have been automated because of advances in computing, robotics, and artificial intelligence. One consequence has been the hollowing out of clerical jobs. Displaced employees end up competing for positions that might have been considered below their pay grade. That depresses wages more generally."
     publishedDateTime: 2020-01-29T09:33:00Z
-    sourceUrl: "https://theprint.in/world/rise-of-robots-could-see-a-new-wave-of-migrants-from-poorer-to-richer-countries/355983/"
-    ampUrl: "https://theprint.in/world/rise-of-robots-could-see-a-new-wave-of-migrants-from-poorer-to-richer-countries/355983/?amp"
-    cdnAmpUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/rise-of-robots-could-see-a-new-wave-of-migrants-from-poorer-to-richer-countries/355983/?amp"
+    webUrl: "https://theprint.in/world/rise-of-robots-could-see-a-new-wave-of-migrants-from-poorer-to-richer-countries/355983/"
+    ampWebUrl: "https://theprint.in/world/rise-of-robots-could-see-a-new-wave-of-migrants-from-poorer-to-richer-countries/355983/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/rise-of-robots-could-see-a-new-wave-of-migrants-from-poorer-to-richer-countries/355983/?amp"
     type: article
     provider:
       name: ThePrint
@@ -53,7 +53,7 @@ related:
   - title: "Robots pose biggest Risk to the poorest countries"
     excerpt: "Consider the effect of new technologies. More jobs have been automated because of advances in computing, robotics, and artificial intelligence. One consequence has been the hollowing out of clerical jobs. Displaced employees end up competing for positions that might have been considered below their pay grade. That depresses wages more generally."
     publishedDateTime: 2020-02-01T10:09:00Z
-    sourceUrl: "https://www.iol.co.za/business-report/opinion/robots-pose-biggest-risk-to-the-poorest-countries-41659650"
+    webUrl: "https://www.iol.co.za/business-report/opinion/robots-pose-biggest-risk-to-the-poorest-countries-41659650"
     type: article
     provider:
       name: IOL News

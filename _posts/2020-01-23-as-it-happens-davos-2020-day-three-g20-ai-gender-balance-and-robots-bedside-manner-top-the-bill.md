@@ -3,7 +3,7 @@ category: news
 title: "AS IT HAPPENS: Davos 2020 day three – G20, AI, gender balance and robots' bedside manner top the bill"
 excerpt: "More than 4,000 children are known to have been separated from their parents before and during the official start of zero tolerance in spring 2018. Under the policy, border agents charged parents en masse with illegally crossing the US-Mexico border, then placed their children in government facilities, including some “tender-age shelters ..."
 publishedDateTime: 2020-01-23T13:37:00Z
-sourceUrl: "https://www.arabnews.com/node/1617031/world"
+webUrl: "https://www.arabnews.com/node/1617031/world"
 type: article
 quality: 39
 heat: 39

@@ -3,7 +3,7 @@ category: news
 title: "Two Paths Converge in the Cloud: Realizing Value from Legacy Migrations and Native Cloud Development"
 excerpt: "And more than two-thirds (68%) continue to characterize cloud’s expected impact as high or extreme over the coming decade, joined by such cloud-dependent, cloud-enabling, or cloud-friendly technologies as artificial intelligence (79%), machine ... TCS is today working with AWS – which runs 80% of all cloud containers currently in use ..."
 publishedDateTime: 2020-01-30T21:03:00Z
-sourceUrl: "https://www.cio.com/article/3518610/two-paths-converge-in-the-cloud-realizing-value-from-legacy-migrations-and-native-cloud-development.html"
+webUrl: "https://www.cio.com/article/3518610/two-paths-converge-in-the-cloud-realizing-value-from-legacy-migrations-and-native-cloud-development.html"
 type: article
 quality: 9
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Cloud-Native Cognitive Computing How to Get Ready For The Next Frontier in AI"
     excerpt: "Cognitive computing is a compute-intensive undertaking, which is of course why cognitive services are so closely linked to cloud-based environments. The leading providers in this field – Amazon AWS, Microsoft Azure, Google Cloud, and IBM Watson – are all cloud computing heavyweights. They offer highly modular services with capabilities such ..."
     publishedDateTime: 2020-01-24T13:44:00Z
-    sourceUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792"
-    ampUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
-    cdnAmpUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
+    webUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792"
+    ampWebUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
     type: article
     provider:
       name: Business 2 Community

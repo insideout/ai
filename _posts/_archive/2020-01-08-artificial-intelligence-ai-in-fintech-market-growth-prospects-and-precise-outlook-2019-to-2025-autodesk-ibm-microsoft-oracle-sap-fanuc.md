@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence (AI) In Fintech Market Growth Prospects and Precise Outlook 2019 to 2025 | Autodesk, IBM, Microsoft, Oracle, SAP, Fanuc"
 excerpt: "The latest market report on Artificial Intelligence (AI) In Fintech 2019 offers an in-depth analysis of this business vertical involving key information concerning industry deliverables, predominantly market tendencies,"
 publishedDateTime: 2020-01-08T14:56:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-growth-prospects-and-precise-outlook-2019-to-2025-autodesk-ibm-microsoft-oracle-sap-fanuc-2020-01-08
+webUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-growth-prospects-and-precise-outlook-2019-to-2025-autodesk-ibm-microsoft-oracle-sap-fanuc-2020-01-08
 type: article
 quality: 48
 heat: 48

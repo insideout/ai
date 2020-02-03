@@ -3,7 +3,7 @@ category: news
 title: "3 ASX shares for exposure to the artificial intelligence industry"
 excerpt: "AI is also used to provide 24/7 customer service via chatbots, to write news stories, and in self-driving cars. Here are 3 ASX shares involved in the AI sector. Appen provides data for use in machine learning and AI. It collects and labels images, text, speech, audio, and video data used to build and improve artificial intelligence systems at ..."
 publishedDateTime: 2020-01-15T15:43:00Z
-sourceUrl: "https://www.fool.com.au/2020/01/15/3-asx-shares-for-exposure-to-the-artificial-intelligence-industry/"
+webUrl: "https://www.fool.com.au/2020/01/15/3-asx-shares-for-exposure-to-the-artificial-intelligence-industry/"
 type: article
 quality: 39
 heat: 39

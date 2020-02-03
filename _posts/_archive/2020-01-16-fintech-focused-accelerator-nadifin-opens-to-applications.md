@@ -3,7 +3,7 @@ category: news
 title: "Fintech-focused accelerator NadiFin opens to applications"
 excerpt: "Applications for the next instalment of the fintech-focused accelerator known as NadiFin have opened ... NadiFin focuses exclusively on cutting-edge fintechs that use artificial intelligence (AI), machine learning, big data analytics, blockchain and other “deeptech” tools to create solutions for the financial services market and are ..."
 publishedDateTime: 2020-01-16T05:52:00Z
-sourceUrl: "https://www.irishtimes.com/business/technology/fintech-focused-accelerator-nadifin-opens-to-applications-1.4140626"
+webUrl: "https://www.irishtimes.com/business/technology/fintech-focused-accelerator-nadifin-opens-to-applications-1.4140626"
 type: article
 quality: 24
 heat: 24

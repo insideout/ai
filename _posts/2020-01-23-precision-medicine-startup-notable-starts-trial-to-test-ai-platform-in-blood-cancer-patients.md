@@ -3,7 +3,7 @@ category: news
 title: "Precision medicine startup Notable starts trial to test AI platform in blood cancer patients"
 excerpt: "A technology company uses artificial intelligence to assist in cancer drug development has launched a study that will collect data on up to 1,000 blood cancer patients over the course of a year. San Francisco-based Notable said Wednesday it had launched the study, titled ANSWer, which will collect de-identified specimens with matched clinical ..."
 publishedDateTime: 2020-01-23T21:23:00Z
-sourceUrl: "https://medcitynews.com/2020/01/precision-medicine-startup-notable-starts-trial-to-test-ai-platform-in-blood-cancer-patients/"
+webUrl: "https://medcitynews.com/2020/01/precision-medicine-startup-notable-starts-trial-to-test-ai-platform-in-blood-cancer-patients/"
 type: article
 quality: 26
 heat: 26

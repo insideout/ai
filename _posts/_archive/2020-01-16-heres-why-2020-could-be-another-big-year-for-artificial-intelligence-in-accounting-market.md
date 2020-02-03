@@ -3,7 +3,7 @@ category: news
 title: "Here's Why 2020 Could Be Another Big Year for Artificial Intelligence in Accounting Market"
 excerpt: "The study provides information on market trends and development, drivers, capacities, technologies, and on the changing dynamics of Global Artificial Intelligence in Accounting Market. As per study key players of this market are Microsoft (United States), AWS (United States), Xero (New Zealand), Intuit (United States), UiPath (United States ..."
 publishedDateTime: 2020-01-16T15:15:00Z
-sourceUrl: "https://www.openpr.com/news/1898534/here-s-why-2020-could-be-another-big-year-for-artificial"
+webUrl: "https://www.openpr.com/news/1898534/here-s-why-2020-could-be-another-big-year-for-artificial"
 type: article
 quality: 9
 heat: 9

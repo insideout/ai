@@ -3,7 +3,7 @@ category: news
 title: "A|I: The AI Times – Neon AI’s ethics problem"
 excerpt: "an AI-powered contract management platform that extracts key data from legal documents. The funding will also be used towards launching a new R&D office in Canada. Samsung, for its part, has said privacy, security and ethics are important when it comes to AI. Corvus expanded its footprint to all major U.S. regions recently, and in anticipation ..."
 publishedDateTime: 2020-01-17T11:10:00Z
-sourceUrl: "https://betakit.com/ai-the-ai-times-neon-ais-ethics-problem/"
+webUrl: "https://betakit.com/ai-the-ai-times-neon-ais-ethics-problem/"
 type: article
 quality: 54
 heat: 54

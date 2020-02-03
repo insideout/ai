@@ -3,7 +3,7 @@ category: news
 title: "Australian IBM partner Cortell sets up shop in New Zealand"
 excerpt: "The new unit, which will trade as CorPlan, is an exclusive IBM partner, focusing on the company's Cognos, Planning and Analytics powered by TM1, SPSS and Watson (AI and machine learning) lines of business. The focus on the New Zealand market is an extension of Cortell's Australian business, which has a number of customers on both sides of the ..."
 publishedDateTime: 2020-01-29T00:33:00Z
-sourceUrl: "https://www.arnnet.com.au/article/670575/australian-ibm-partner-cortell-sets-up-shop-new-zealand/"
+webUrl: "https://www.arnnet.com.au/article/670575/australian-ibm-partner-cortell-sets-up-shop-new-zealand/"
 type: article
 quality: 24
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "IBM partner Cortell sets up shop in New Zealand"
     excerpt: "The new unit, which will trade as CorPlan, is an exclusive IBM partner, focusing on the company's Cognos, Planning and Analytics powered by TM1, SPSS and Watson (AI and machine learning) lines of business. The focus on the New Zealand market is an extension of Cortell's Australian business, which has a number of customers on both sides of the ..."
     publishedDateTime: 2020-01-28T00:10:00Z
-    sourceUrl: "https://www.reseller.co.nz/article/670540/ibm-partner-cortell-sets-up-shop-new-zealand/"
+    webUrl: "https://www.reseller.co.nz/article/670540/ibm-partner-cortell-sets-up-shop-new-zealand/"
     type: article
     provider:
       name: Reseller News

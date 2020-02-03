@@ -1,7 +1,7 @@
 ---
 title: "Convolutional Neural Networks"
 excerpt: "Learn Convolutional Neural Networks from deeplearning.ai. This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, ..."
-sourceUrl: https://www.coursera.org/learn/convolutional-neural-networks
+webUrl: https://www.coursera.org/learn/convolutional-neural-networks
 type: course
 price: Free+
 length: 21 hours

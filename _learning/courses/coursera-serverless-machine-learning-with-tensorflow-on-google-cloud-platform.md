@@ -1,7 +1,7 @@
 ---
 title: "Serverless Machine Learning with Tensorflow on Google Cloud Platform"
 excerpt: "Learn Serverless Machine Learning with Tensorflow on Google Cloud Platform from Google Cloud. This one-week accelerated on-demand course provides participants a a hands-on introduction to designing and building machine learning models on Google ..."
-sourceUrl: https://www.coursera.org/learn/serverless-machine-learning-gcp
+webUrl: https://www.coursera.org/learn/serverless-machine-learning-gcp
 type: course
 price: Free+
 length: 12 hours

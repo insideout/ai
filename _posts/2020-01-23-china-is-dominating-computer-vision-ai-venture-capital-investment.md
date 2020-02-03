@@ -3,7 +3,7 @@ category: news
 title: "China is Dominating Computer Vision AI Venture Capital Investment"
 excerpt: "Our recent research shows that venture capital (VC) investment in computer vision technology firms has increased four-fold from 2016-2018 exceeding a total of $8 billion USD. We analyzed over 1400... This is a companion discussion topic for the original entry at https://blogs.gartner.com/anthony_bradley/2020/01/22/china-dominating-computer ..."
 publishedDateTime: 2020-01-23T01:57:00Z
-sourceUrl: "https://businesscomputingworld.co.uk/t/china-is-dominating-computer-vision-ai-venture-capital-investment/241708"
+webUrl: "https://businesscomputingworld.co.uk/t/china-is-dominating-computer-vision-ai-venture-capital-investment/241708"
 type: article
 quality: 54
 heat: 64
@@ -27,9 +27,9 @@ related:
   - title: "Venture Capital Accelerating and Shifting to AI and Other Breakthrough Technologies"
     excerpt: "He is the sole author and writer of nextbigfuture.com, the top online science blog. He is also involved in angel investing and raising funds for breakthrough technology startup companies. He gave the recent keynote presentation at Monte Jade event with a talk entitled the Future for You. He gave an annual update on molecular ..."
     publishedDateTime: 2020-01-19T13:47:00Z
-    sourceUrl: "https://www.nextbigfuture.com/2020/01/venture-capital-accelerating-and-shifting-to-ai-and-other-breakthrough-technologies.html"
-    ampUrl: "https://www.nextbigfuture.com/2020/01/venture-capital-accelerating-and-shifting-to-ai-and-other-breakthrough-technologies.html?amp"
-    cdnAmpUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/01/venture-capital-accelerating-and-shifting-to-ai-and-other-breakthrough-technologies.html?amp"
+    webUrl: "https://www.nextbigfuture.com/2020/01/venture-capital-accelerating-and-shifting-to-ai-and-other-breakthrough-technologies.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2020/01/venture-capital-accelerating-and-shifting-to-ai-and-other-breakthrough-technologies.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/01/venture-capital-accelerating-and-shifting-to-ai-and-other-breakthrough-technologies.html?amp"
     type: article
     provider:
       name: NextBigFuture

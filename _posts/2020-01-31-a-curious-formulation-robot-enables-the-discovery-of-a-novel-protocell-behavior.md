@@ -3,7 +3,7 @@ category: news
 title: "A curious formulation robot enables the discovery of a novel protocell behavior"
 excerpt: "CAs have been developed to replicate curiosity-driven learning in humans (14, 15) and make use of knowledge acquired from developmental psychology, neuroscience, artificial intelligence, and robotics (16 ... Histogram of the color change at the start and end of a dye release experiment. Fig. S26. Ratio of pixels dyed blue against time at ..."
 publishedDateTime: 2020-01-31T19:25:00Z
-sourceUrl: "https://advances.sciencemag.org/content/6/5/eaay4237"
+webUrl: "https://advances.sciencemag.org/content/6/5/eaay4237"
 type: article
 quality: 35
 heat: 35

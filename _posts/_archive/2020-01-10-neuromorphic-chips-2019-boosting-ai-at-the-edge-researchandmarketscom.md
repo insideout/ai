@@ -3,7 +3,7 @@ category: news
 title: "Neuromorphic Chips 2019 - Boosting AI at the Edge - ResearchAndMarkets.com"
 excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. The Report Includes: An overview of the global market for neuromorphic chip and discussion on its future market potential An understanding of the current state of neuromorphic computing and neuromorphic chip ..."
 publishedDateTime: 2020-01-10T14:57:00Z
-sourceUrl: "https://www.businesswire.com/news/home/20200110005396/en/Neuromorphic-Chips-2019---Boosting-AI-Edge"
+webUrl: "https://www.businesswire.com/news/home/20200110005396/en/Neuromorphic-Chips-2019---Boosting-AI-Edge"
 type: article
 quality: 52
 heat: 52

@@ -3,7 +3,7 @@ category: news
 title: "The benefits of facial recognition AI are being wildly overstated"
 excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans. Even China’s government has begun to question whether there’s enough benefit to the use of ubiquitous surveillance tech to justify the utter ..."
 publishedDateTime: 2020-01-13T20:44:00Z
-sourceUrl: "https://thenextweb.com/artificial-intelligence/2020/01/13/the-benefits-of-facial-recognition-ai-are-being-wildly-overstated/"
+webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/13/the-benefits-of-facial-recognition-ai-are-being-wildly-overstated/"
 type: article
 quality: 84
 heat: 84

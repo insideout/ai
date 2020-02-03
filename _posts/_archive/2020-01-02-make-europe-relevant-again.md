@@ -3,7 +3,7 @@ category: news
 title: "Make Europe Relevant Again"
 excerpt: "Economic change and technological advances (online platforms, artificial intelligence, automation, data monopolies ... Just as Facebook has Libra and Google has Waymo (self-driving cars), Chinese giants like Tencent and Alibaba have become pioneers in digital business solutions and payments, respectively. The existence of similar digital ..."
 publishedDateTime: 2020-01-02T19:15:00Z
-sourceUrl: https://www.thedailystar.net/opinion/project-syndicate/news/make-europe-relevant-again-1848676
+webUrl: https://www.thedailystar.net/opinion/project-syndicate/news/make-europe-relevant-again-1848676
 type: article
 quality: 39
 heat: 39

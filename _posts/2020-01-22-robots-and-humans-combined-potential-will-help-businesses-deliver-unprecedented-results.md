@@ -3,9 +3,9 @@ category: news
 title: "Robots and Humans: Combined potential will help businesses deliver unprecedented results"
 excerpt: "In addition to the industrial and professional robots, India is also one of the growing markets for software robots, including Robotic Process Automation (RPA), cognitive, and Artificial Intelligence (AI)-driven process ... unprecedented outcomes to their stakeholders. The start-up ecosystem for robots (industrial, professional services ..."
 publishedDateTime: 2020-01-22T11:10:00Z
-sourceUrl: "https://www.businesstoday.in/opinion/columns/robots-and-humans-help-businesses-organisations-deliver-unprecedented-results-ai-machine-learning/story/394410.html"
-ampUrl: "https://m.businesstoday.in/lite/story/robots-and-humans-help-businesses-organisations-deliver-unprecedented-results-ai-machine-learning/1/394410.html"
-cdnAmpUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/robots-and-humans-help-businesses-organisations-deliver-unprecedented-results-ai-machine-learning/1/394410.html"
+webUrl: "https://www.businesstoday.in/opinion/columns/robots-and-humans-help-businesses-organisations-deliver-unprecedented-results-ai-machine-learning/story/394410.html"
+ampWebUrl: "https://m.businesstoday.in/lite/story/robots-and-humans-help-businesses-organisations-deliver-unprecedented-results-ai-machine-learning/1/394410.html"
+cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/robots-and-humans-help-businesses-organisations-deliver-unprecedented-results-ai-machine-learning/1/394410.html"
 type: article
 quality: 50
 heat: 50

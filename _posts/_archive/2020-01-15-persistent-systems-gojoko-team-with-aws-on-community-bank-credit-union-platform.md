@@ -3,7 +3,7 @@ category: news
 title: "Persistent Systems, Gojoko team with AWS on community bank, credit union platform"
 excerpt: "services that use machine learning and artificial intelligence. \"Credit unions and challenger banks aren't in business to be technology experts, they're in business to provide value to their members and customers,\" Jaideep Dhok, general manager, banking, financial services and insurance at Persistent Systems, told Mobile Payments Today via ..."
 publishedDateTime: 2020-01-15T23:56:00Z
-sourceUrl: "https://www.mobilepaymentstoday.com/news/persistent-systems-gojoko-team-with-aws-on-community-bank-credit-union-platform/"
+webUrl: "https://www.mobilepaymentstoday.com/news/persistent-systems-gojoko-team-with-aws-on-community-bank-credit-union-platform/"
 type: article
 quality: 34
 heat: 34

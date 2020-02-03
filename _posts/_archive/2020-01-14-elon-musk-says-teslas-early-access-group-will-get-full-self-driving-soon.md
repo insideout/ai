@@ -3,7 +3,7 @@ category: news
 title: "Elon Musk says Tesla’s early access group will get Full Self Driving ‘soon’"
 excerpt: "Full Self Driving is an upcoming Tesla feature that currently exists in an unfinished form. According to Musk, the feature will eventually make it possible for a Tesla vehicle to drive itself from ..."
 publishedDateTime: 2020-01-14T23:24:00Z
-sourceUrl: "https://thenextweb.com/artificial-intelligence/2020/01/14/elon-musk-says-teslas-early-access-group-will-get-full-self-driving-soon/"
+webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/14/elon-musk-says-teslas-early-access-group-will-get-full-self-driving-soon/"
 type: article
 quality: 82
 heat: 82

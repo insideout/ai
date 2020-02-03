@@ -3,7 +3,7 @@ category: news
 title: "Tel Aviv start-up gets FDA approval for ‘stroke of genius’ AI package"
 excerpt: "Tel-Aviv based start-up Aidoc, a leading provider of Artificial Intelligence solutions for radiologists, received US Food and Drug Administration (FDA) clearance for its AI solution that spots strokes (Large-Vessel Occlusion) in the brain during head CTA scans. An LVO is the blockage of vessels in the brain, and according to Ariella Shoham ..."
 publishedDateTime: 2020-01-13T14:29:00Z
-sourceUrl: "https://www.jpost.com/HEALTH-SCIENCE/Tel-Aviv-start-up-gets-FDA-approval-for-AI-package-that-spots-strokes-614037"
+webUrl: "https://www.jpost.com/HEALTH-SCIENCE/Tel-Aviv-start-up-gets-FDA-approval-for-AI-package-that-spots-strokes-614037"
 type: article
 quality: 37
 heat: 37

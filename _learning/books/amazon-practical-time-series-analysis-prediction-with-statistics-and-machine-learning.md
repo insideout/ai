@@ -1,7 +1,7 @@
 ---
 title: "Practical Time Series Analysis: Prediction with Statistics and Machine Learning"
 excerpt: "Time series data analysis is increasingly important due to the massive production of such data through the internet of things, the digitalization of healthcare, and the rise of smart cities. As continuous monitoring and data collection become more common, the need for competent time series analysis with both statistical and machine learning techniques will increase."
-sourceUrl: https://www.amazon.com/Practical-Time-Analysis-Prediction-Statistics/dp/1492041653/
+webUrl: https://www.amazon.com/Practical-Time-Analysis-Prediction-Statistics/dp/1492041653/
 type: book
 price: $42.99
 length: 

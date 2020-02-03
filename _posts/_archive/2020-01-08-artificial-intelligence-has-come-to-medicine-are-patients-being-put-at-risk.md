@@ -3,9 +3,9 @@ category: news
 title: "Artificial intelligence has come to medicine. Are patients being put at risk?"
 excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford's Center for Biomedical Ethics. Systems developed in one hospital often flop when deployed in a different facility, Cho said. Software used in the care of millions of Americans has been shown to discriminate against minorities."
 publishedDateTime: 2020-01-08T18:14:00Z
-sourceUrl: https://medicalxpress.com/news/2020-01-artificial-intelligence-medicine-patients.html
-ampUrl: https://medicalxpress.com/news/2020-01-artificial-intelligence-medicine-patients.amp
-cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-intelligence-medicine-patients.amp
+webUrl: https://medicalxpress.com/news/2020-01-artificial-intelligence-medicine-patients.html
+ampWebUrl: https://medicalxpress.com/news/2020-01-artificial-intelligence-medicine-patients.amp
+cdnAmpWebUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-intelligence-medicine-patients.amp
 type: article
 quality: 36
 heat: 36

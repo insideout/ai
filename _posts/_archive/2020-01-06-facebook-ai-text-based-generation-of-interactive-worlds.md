@@ -3,7 +3,7 @@ category: news
 title: "Facebook AI | Text-Based Generation of Interactive Worlds"
 excerpt: "In an attempt to make the relationship between such game elements more natural, researchers from Facebook AI Research, French computer science research lab Loria, and University College London recently proposed a new machine learning method for ..."
 publishedDateTime: 2020-01-06T20:14:00Z
-sourceUrl: https://medium.com/syncedreview/facebook-ai-text-based-generation-of-interactive-worlds-36cce3790fe3
+webUrl: https://medium.com/syncedreview/facebook-ai-text-based-generation-of-interactive-worlds-36cce3790fe3
 type: article
 quality: 69
 heat: 69

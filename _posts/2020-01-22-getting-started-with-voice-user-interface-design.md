@@ -3,9 +3,9 @@ category: news
 title: "Getting Started With Voice User Interface Design"
 excerpt: "Improvements in speech recognition in recent years have pushed voice user interfaces into the contact center. But for voice interactions to truly provide better CX than staying with touchtone options, there are a few best practices to follow."
 publishedDateTime: 2020-01-22T18:20:00Z
-sourceUrl: "https://www.cmswire.com/digital-experience/getting-started-with-voice-user-interface-design/"
-ampUrl: "https://www.cmswire.com/digital-experience/getting-started-with-voice-user-interface-design/amp/"
-cdnAmpUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/getting-started-with-voice-user-interface-design/amp/"
+webUrl: "https://www.cmswire.com/digital-experience/getting-started-with-voice-user-interface-design/"
+ampWebUrl: "https://www.cmswire.com/digital-experience/getting-started-with-voice-user-interface-design/amp/"
+cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/getting-started-with-voice-user-interface-design/amp/"
 type: article
 quality: 44
 heat: 44

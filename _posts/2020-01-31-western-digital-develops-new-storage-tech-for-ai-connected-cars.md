@@ -3,9 +3,9 @@ category: news
 title: "Western Digital develops new storage tech for AI, connected cars"
 excerpt: "The company has commenced initial production of BiCS5 TLC in a 512-gigabit (Gb) chip and is currently shipping consumer products built on the new technology. Production of BiCS5 in meaningful commercial volumes is expected in the second half of calendar 2020. BiCS5 TLC and BiCS5 QLC will be available in a range of capacities, including 1.33 ..."
 publishedDateTime: 2020-01-31T14:16:00Z
-sourceUrl: "https://timesofindia.indiatimes.com/gadgets-news/western-digital-develops-new-storage-tech-for-ai-connected-cars/articleshow/73809857.cms"
-ampUrl: "https://m.timesofindia.com/gadgets-news/western-digital-develops-new-storage-tech-for-ai-connected-cars/amp_articleshow/73809857.cms"
-cdnAmpUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/western-digital-develops-new-storage-tech-for-ai-connected-cars/amp_articleshow/73809857.cms"
+webUrl: "https://timesofindia.indiatimes.com/gadgets-news/western-digital-develops-new-storage-tech-for-ai-connected-cars/articleshow/73809857.cms"
+ampWebUrl: "https://m.timesofindia.com/gadgets-news/western-digital-develops-new-storage-tech-for-ai-connected-cars/amp_articleshow/73809857.cms"
+cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/western-digital-develops-new-storage-tech-for-ai-connected-cars/amp_articleshow/73809857.cms"
 type: article
 quality: 59
 heat: 59

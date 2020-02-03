@@ -3,9 +3,9 @@ category: news
 title: "GM's Detroit-Hamtramck plant will build Cruise Origin self-driving shuttle"
 excerpt: "GM's Detroit-Hamtramck plant will build Cruise Origin self-driving shuttle The automaker will lay out plans Monday to build self-driving and electric vehicles at the plant that had been targeted for closure Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/24/gms-detroit-hamtramck ..."
 publishedDateTime: 2020-01-24T15:08:00Z
-sourceUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2020/01/24/gms-detroit-hamtramck-plant-build-cruise-origin-self-driving-shuttle/4546684002/"
-ampUrl: "https://amp.detroitnews.com/amp/4546684002"
-cdnAmpUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4546684002"
+webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2020/01/24/gms-detroit-hamtramck-plant-build-cruise-origin-self-driving-shuttle/4546684002/"
+ampWebUrl: "https://amp.detroitnews.com/amp/4546684002"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4546684002"
 type: article
 quality: 42
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
     excerpt: "GM's Cruise rolls out a self-driving shuttle developed with Honda The boxy Cruise Origin has no steering wheel or gas pedal in order to free up room for passengers Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
     publishedDateTime: 2020-01-22T06:49:00Z
-    sourceUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
-    ampUrl: "https://amp.detroitnews.com/amp/4530535002"
-    cdnAmpUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4530535002"
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/4530535002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4530535002"
     type: article
     provider:
       name: Detroit News

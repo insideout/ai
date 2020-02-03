@@ -1,7 +1,7 @@
 ---
 title: "Building Machine Learning Models in Python with scikit-learn"
 excerpt: "Scikit-learn is one of the most popular ML libraries in Python. Use libraries specialized regression models such as Lasso and Ridge to build and train your ML models."
-sourceUrl: https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models
+webUrl: https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models
 type: course
 price: $$
 length: 3h 13m

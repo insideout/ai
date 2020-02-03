@@ -3,7 +3,7 @@ category: news
 title: "Huawei has established its cloud and AI unit as a core business group"
 excerpt: "Huawei established a core cloud and artificial intelligence business group, signaling a focused effort to hone its AI and build up its cloud business."
 publishedDateTime: 2020-01-16T15:23:00Z
-sourceUrl: "https://www.businessinsider.com/huawei-creates-core-cloud-artificial-intelligence-unit-2020-1"
+webUrl: "https://www.businessinsider.com/huawei-creates-core-cloud-artificial-intelligence-unit-2020-1"
 type: article
 quality: 67
 heat: 77
@@ -30,7 +30,7 @@ related:
   - title: "Huawei revs up cloud, AI as core business"
     excerpt: "AI, computing, storage and IoT services. At the Huawei Analyst Conference held in April 2019, its managing director Wang Tao unveiled the firm's \"Cloud Only\" strategy, aiming to integrate all of its resources, from chips and datacenters to hardware, software and computing infrastructure, to make Huawei's cloud the only full-stack service in China."
     publishedDateTime: 2020-01-20T07:35:00Z
-    sourceUrl: "https://www.digitimes.com/news/a20200120PD201.html"
+    webUrl: "https://www.digitimes.com/news/a20200120PD201.html"
     type: article
     provider:
       name: Digi Times

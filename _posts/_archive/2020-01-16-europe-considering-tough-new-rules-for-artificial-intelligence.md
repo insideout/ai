@@ -3,7 +3,7 @@ category: news
 title: "Europe considering tough new rules for artificial intelligence"
 excerpt: "Bloomberg—The European Union is considering new legally binding requirements for developers of artificial intelligence in an effort to ensure modern technology is developed and used in an ethical way. The EU’s executive arm is set to propose the new rules apply to “high-risk sectors,” such as healthcare and transportation, and suggest ..."
 publishedDateTime: 2020-01-16T20:38:00Z
-sourceUrl: "https://www.healthdatamanagement.com/articles/europe-considering-tough-new-rules-for-artificial-intelligence"
+webUrl: "https://www.healthdatamanagement.com/articles/europe-considering-tough-new-rules-for-artificial-intelligence"
 type: article
 quality: 39
 heat: 39

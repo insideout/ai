@@ -3,9 +3,9 @@ category: news
 title: "Macworld speculates that Apple bought Xnor.ai to make Siri smarter"
 excerpt: "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ..."
 publishedDateTime: 2020-01-21T12:39:00Z
-sourceUrl: "https://9to5mac.com/2020/01/21/make-siri-smarter/"
-ampUrl: "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/"
-cdnAmpUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/"
+webUrl: "https://9to5mac.com/2020/01/21/make-siri-smarter/"
+ampWebUrl: "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/"
+cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/"
 type: article
 quality: 159
 heat: 179
@@ -29,9 +29,9 @@ related:
   - title: "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac"
     excerpt: "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ..."
     publishedDateTime: 2020-01-22T01:10:00Z
-    sourceUrl: "https://9to5mac.com/2020/01/21/make-siri-smarter/"
-    ampUrl: "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/"
-    cdnAmpUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/"
+    webUrl: "https://9to5mac.com/2020/01/21/make-siri-smarter/"
+    ampWebUrl: "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/"
     type: article
     provider:
       name: 9to5Mac
@@ -44,9 +44,9 @@ related:
   - title: "Apple Acquires Xnor.ai To Bolster AI At The Edge"
     excerpt: "Last week, Apple reportedly acquired Xnor.ai, a Seattle-based startup for $200 million. Xnor.ai is one of the few startups that’s focused on delivering AI capabilities at the edge. In 2019, It made it to the Forbes AI 50: America’s Most Promising Artificial Intelligence Companies."
     publishedDateTime: 2020-01-20T01:38:00Z
-    sourceUrl: "https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/"
-    ampUrl: "https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/"
-    cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/"
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/"
     type: article
     provider:
       name: Forbes

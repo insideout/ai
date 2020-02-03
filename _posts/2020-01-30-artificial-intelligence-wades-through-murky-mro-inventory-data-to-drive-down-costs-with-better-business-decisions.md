@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence Wades Through Murky MRO Inventory Data To Drive Down Costs with Better Business Decisions"
 excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
 publishedDateTime: 2020-01-30T15:52:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-wades-through-murky-mro-inventory-data-to-drive-down-costs-with-better-business-decisions-300996306.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-wades-through-murky-mro-inventory-data-to-drive-down-costs-with-better-business-decisions-300996306.html"
 type: article
 quality: 16
 heat: 16

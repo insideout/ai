@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Computer Vision with Watson and OpenCV"
 excerpt: "Learn Introduction to Computer Vision with Watson and OpenCV from IBM. Computer Vision is one of the most exciting fields in Machine Learning and AI. It has applications in many industries such as self-driving cars, robotics, augmented reality, ..."
-sourceUrl: https://www.coursera.org/learn/introduction-computer-vision-watson-opencv
+webUrl: https://www.coursera.org/learn/introduction-computer-vision-watson-opencv
 type: course
 price: Free+
 length: 14 hours

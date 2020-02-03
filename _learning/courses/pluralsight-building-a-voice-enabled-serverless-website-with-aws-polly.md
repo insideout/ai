@@ -1,7 +1,7 @@
 ---
 title: "Building a Voice-enabled Serverless Website with AWS Polly"
 excerpt: "With all the new technology trends like AI, Serverless, and DevOps, tieing everything together can be overwhelming. In this course, you'll not only demystify this process but also see how using voice can save you time and keep your users engaged."
-sourceUrl: https://www.pluralsight.com/courses/aws-comprehend-analyzing-text
+webUrl: https://www.pluralsight.com/courses/aws-comprehend-analyzing-text
 type: course
 price: $$
 length: 1h 46m

@@ -3,7 +3,7 @@ category: news
 title: "Robotics Are Making Iran's Military More Dangerous Than Ever"
 excerpt: "Key Point: How will Iranian acquisition of robotics and artificial intelligence technologies impact basic assumptions about Iranian behavior and alter the regional military balance? Recent ..."
 publishedDateTime: 2020-01-10T10:31:00Z
-sourceUrl: "https://nationalinterest.org/blog/buzz/robotics-are-making-irans-military-more-dangerous-ever-112426"
+webUrl: "https://nationalinterest.org/blog/buzz/robotics-are-making-irans-military-more-dangerous-ever-112426"
 type: article
 quality: 54
 heat: 54

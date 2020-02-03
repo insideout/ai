@@ -3,9 +3,9 @@ category: news
 title: "Will Deeptech's Fortunes Turn In 2020?"
 excerpt: "Smartphone-based cognitive behavioral therapy is showing promise for ... and setting up AIRAWAT (Artificial Intelligence Research, Analytics and knowledge Assimilation platform), a cloud computing ..."
 publishedDateTime: 2019-12-31T09:37:00Z
-sourceUrl: https://www.entrepreneur.com/article/344414
-ampUrl: https://www.entrepreneur.com/amphtml/344414
-cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344414
+webUrl: https://www.entrepreneur.com/article/344414
+ampWebUrl: https://www.entrepreneur.com/amphtml/344414
+cdnAmpWebUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344414
 type: article
 quality: 74
 heat: 74

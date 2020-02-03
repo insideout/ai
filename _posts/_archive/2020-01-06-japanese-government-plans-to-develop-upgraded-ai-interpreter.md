@@ -3,7 +3,7 @@ category: news
 title: "Japanese government plans to develop upgraded AI interpreter"
 excerpt: "by using AI technology that stores a large amount of text in each language. It aims to conclude consignment contracts with the National Institute of Information and Communications Technology, a research institute under the jurisdiction of the ministry, as well as translation companies and app producers, to promote the research. The ministry ..."
 publishedDateTime: 2020-01-06T14:08:00Z
-sourceUrl: https://www.sfchronicle.com/news/article/Japanese-government-plans-to-develop-upgraded-AI-14952533.php
+webUrl: https://www.sfchronicle.com/news/article/Japanese-government-plans-to-develop-upgraded-AI-14952533.php
 type: article
 quality: 19
 heat: 19

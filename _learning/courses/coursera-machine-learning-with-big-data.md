@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning With Big Data"
 excerpt: "Learn Machine Learning With Big Data from University of California San Diego. Want to make sense of the volumes of data you have collected?  Need to incorporate data-driven decisions into your process?  This course provides an overview of machine ..."
-sourceUrl: https://www.coursera.org/learn/big-data-machine-learning
+webUrl: https://www.coursera.org/learn/big-data-machine-learning
 type: course
 price: Free+
 length: 16 hours

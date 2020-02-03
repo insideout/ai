@@ -3,7 +3,7 @@ category: news
 title: "Rise of Robot Radiologists"
 excerpt: "The numerous researchers, start-up companies and scanner manufacturers designing AI programs hope they can improve the accuracy and timeliness of ... “There’s no reason you can’t build a robot that can explain itself,” she insists. But it is exponentially harder to build a transparent algorithm from scratch than to repurpose an existing ..."
 publishedDateTime: 2020-01-14T19:38:00Z
-sourceUrl: "https://www.scientificamerican.com/article/rise-of-robot-radiologists/"
+webUrl: "https://www.scientificamerican.com/article/rise-of-robot-radiologists/"
 type: article
 quality: 39
 heat: 39

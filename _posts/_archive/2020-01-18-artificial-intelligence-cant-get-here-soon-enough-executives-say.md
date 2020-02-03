@@ -3,9 +3,9 @@ category: news
 title: "Artificial Intelligence Can’t Get Here Soon Enough, Executives Say"
 excerpt: "Seven in ten executives across a range of industries wish their organizations would get more aggressive in adopting AI technology"
 publishedDateTime: 2020-01-18T05:35:00Z
-sourceUrl: "https://www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/"
-ampUrl: "https://www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/amp/"
+webUrl: "https://www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/"
+ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/amp/"
 type: article
 quality: 89
 heat: 89

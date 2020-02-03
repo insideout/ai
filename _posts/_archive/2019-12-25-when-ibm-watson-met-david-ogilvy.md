@@ -3,7 +3,7 @@ category: news
 title: "When IBM Watson 'met' David Ogilvy"
 excerpt: "Here we go back to our June 2016 issue, which was created with IBM Watson and was the first ever magazine edited with AI, to get a glimpse into some of the most interesting insights from the ..."
 publishedDateTime: 2019-12-25T00:00:00Z
-sourceUrl: https://www.thedrum.com/news/2019/12/25/when-ibm-watson-met-david-ogilvy
+webUrl: https://www.thedrum.com/news/2019/12/25/when-ibm-watson-met-david-ogilvy
 type: article
 quality: 39
 heat: 39

@@ -3,7 +3,7 @@ category: news
 title: "Health care needs AI. It also needs the human touch"
 excerpt: "We see the writing on the wall, yet it’s hard for us in our day-to-day clinical work to imagine a time when artificial intelligence will have a real impact on what we do. Your weekly guide to how tech is transforming health care and life sciences. Please enter a valid email address. Leave this field empty if you're human: It might be that ..."
 publishedDateTime: 2020-01-22T12:17:00Z
-sourceUrl: "https://www.statnews.com/2020/01/22/health-care-needs-ai-it-also-needs-human-touch/"
+webUrl: "https://www.statnews.com/2020/01/22/health-care-needs-ai-it-also-needs-human-touch/"
 type: article
 quality: 39
 heat: 39

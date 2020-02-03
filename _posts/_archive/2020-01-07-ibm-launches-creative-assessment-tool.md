@@ -3,7 +3,7 @@ category: news
 title: "IBM launches creative assessment tool"
 excerpt: "IBM's Advertising Accelerator utilizes Watson’s AI in order to help advertisers better understand the creative preferences of an audience segment, and stop attempting outreach to unresponsive audiences in the process. Ad targeting enables marketers to identify core customers, who are often overserved with..."
 publishedDateTime: 2020-01-07T22:30:00Z
-sourceUrl: https://www.campaignasia.com/article/ibm-launches-creative-assessment-tool/456463
+webUrl: https://www.campaignasia.com/article/ibm-launches-creative-assessment-tool/456463
 type: article
 quality: 24
 heat: 24

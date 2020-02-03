@@ -3,9 +3,9 @@ category: news
 title: "New federal self-driving car policy talks up government’s safety role but leaves industry in charge"
 excerpt: "Expectations for how soon self-driving cars might be widely deployed have cooled, especially after the Uber crash. The NTSB investigation revealed that the company’s system didn’t consider ..."
 publishedDateTime: 2020-01-08T23:08:00Z
-sourceUrl: "https://www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/"
-ampUrl: "https://www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/?amp=1"
-cdnAmpUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/?amp=1"
+webUrl: "https://www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/"
+ampWebUrl: "https://www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/?amp=1"
 type: article
 quality: 10
 heat: 10

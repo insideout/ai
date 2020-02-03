@@ -3,7 +3,7 @@ category: news
 title: "AWM Smart Shelf Showcases AWM Frictionless on Microsoft Azure at Retails Big Show"
 excerpt: "To take ease-of-use to the next level, using Azure Cognitive Services, shoppers will be able to be identified with ... The underlying technologies are built utilizing artificial intelligence, computer vision, machine learning, and application engineering to reinvent the retail space as it is known today. The ecosystem of solutions improves ..."
 publishedDateTime: 2020-01-12T16:34:00Z
-sourceUrl: "https://www.financialbuzz.com/awm-smart-shelf-showcases-awm-frictionless-on-microsoft-azure-at-retails-big-show/"
+webUrl: "https://www.financialbuzz.com/awm-smart-shelf-showcases-awm-frictionless-on-microsoft-azure-at-retails-big-show/"
 type: article
 quality: 44
 heat: 44

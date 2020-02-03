@@ -3,7 +3,7 @@ category: news
 title: "Splice Machine Readies New Edition Of Its Distributed SQL Data Platform"
 excerpt: "And it includes using advanced analytics and machine learning to develop predictive models and inject them directly into operational applications, Zweben said. Splice Machine is a scale-out SQL relational database that supports ACID (atomicity, consistency, isolation and durability) transactions, in-memory analytics and in-database machine ..."
 publishedDateTime: 2020-01-28T14:44:00Z
-sourceUrl: "https://www.crn.com/news/applications-os/splice-machine-readies-new-edition-of-its-distributed-sql-data-platform"
+webUrl: "https://www.crn.com/news/applications-os/splice-machine-readies-new-edition-of-its-distributed-sql-data-platform"
 type: article
 quality: 24
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "Stellar Cyber’s new app applies machine learning to firewall data to spot anomalies"
     excerpt: "It also leverages advanced machine learning and big data analytics in conjunction with other detections to fuse context into the data. This process in effect adds a second set of eyes uncovering additional cyberthreats and anomalies, from firewall misconfigurations to Command and Control (command & control) Domain Generation Algorithms (DGA ..."
     publishedDateTime: 2020-01-22T03:35:00Z
-    sourceUrl: "https://www.helpnetsecurity.com/2020/01/22/stellar-cyber-firewall-traffic-analysis-application/"
+    webUrl: "https://www.helpnetsecurity.com/2020/01/22/stellar-cyber-firewall-traffic-analysis-application/"
     type: article
     provider:
       name: Help Net Security

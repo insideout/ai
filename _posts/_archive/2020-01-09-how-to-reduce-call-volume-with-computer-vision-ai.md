@@ -3,7 +3,7 @@ category: news
 title: "How to reduce call volume with Computer Vision AI"
 excerpt: "Computer Vision AI refers to the processing and analysis of digital images and videos to automatically understand their meaning and context. It recognizes faces and expressions, helps self-driving cars read traffic signs and avoid pedestrians, and allows factory robots to monitor problems on production lines. It’s important to note that there ..."
 publishedDateTime: 2020-01-09T00:47:00Z
-sourceUrl: https://customerthink.com/how-to-reduce-call-volume-with-computer-vision-ai/
+webUrl: https://customerthink.com/how-to-reduce-call-volume-with-computer-vision-ai/
 type: article
 quality: 54
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "The best computer reading glasses to help reduce eye strain"
     excerpt: "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to go to an eye doctor. If you are already suffering from Presbyopia, these computer reading glasses can also assist with blurred vision caused by too ..."
     publishedDateTime: 2020-01-10T14:01:00Z
-    sourceUrl: https://www.digitaltrends.com/health-fitness/computer-reading-glasses/
-    ampUrl: https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp
+    webUrl: https://www.digitaltrends.com/health-fitness/computer-reading-glasses/
+    ampWebUrl: https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp
+    cdnAmpWebUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp
     type: article
     provider:
       name: Digital Trends
@@ -42,9 +42,9 @@ related:
   - title: "Now, computer classes for the vision-impaired"
     excerpt: "Through their mobile blind school, Tiffany, who is vision-impaired herself, is now providing computer training with the aim of getting people placed in IT companies. With the aim of empowering more visually-impaired people so that they can contribute to the society, Jyothirgamaya Foundation in association with Wecreatelives, an organisation ..."
     publishedDateTime: 2020-01-14T01:51:00Z
-    sourceUrl: https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jan/14/now-computer-classes-for-the-vision-impaired-2089132.html
-    ampUrl: https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jan/14/now-computer-classes-for-the-vision-impaired-2089132.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/thiruvananthapuram/2020/jan/14/now-computer-classes-for-the-vision-impaired-2089132.amp
+    webUrl: https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jan/14/now-computer-classes-for-the-vision-impaired-2089132.html
+    ampWebUrl: https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jan/14/now-computer-classes-for-the-vision-impaired-2089132.amp
+    cdnAmpWebUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/thiruvananthapuram/2020/jan/14/now-computer-classes-for-the-vision-impaired-2089132.amp
     type: article
     provider:
       name: The New Indian Express

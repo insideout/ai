@@ -3,9 +3,9 @@ category: news
 title: "Healthy gains: Microsoft, Google going big on medical research"
 excerpt: "Until then, Google’s DeepMind was being used only for such purposes. But Google’s paper changed the dynamics. Not only did the company realise the potential of artificial intelligence and machine learning in research, it also spurred others to try out new fields in AI development. That is one of the reasons that AI has grown to become one ..."
 publishedDateTime: 2020-02-02T19:51:00Z
-sourceUrl: "https://www.financialexpress.com/industry/technology/healthy-gains-microsoft-google-going-big-on-medical-research/1853104/"
-ampUrl: "https://www.financialexpress.com/industry/technology/healthy-gains-microsoft-google-going-big-on-medical-research/1853104/lite/"
-cdnAmpUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/healthy-gains-microsoft-google-going-big-on-medical-research/1853104/lite/"
+webUrl: "https://www.financialexpress.com/industry/technology/healthy-gains-microsoft-google-going-big-on-medical-research/1853104/"
+ampWebUrl: "https://www.financialexpress.com/industry/technology/healthy-gains-microsoft-google-going-big-on-medical-research/1853104/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/healthy-gains-microsoft-google-going-big-on-medical-research/1853104/lite/"
 type: article
 quality: 39
 heat: 39

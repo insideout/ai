@@ -3,7 +3,7 @@ category: news
 title: "'Sea Hunter': Meet the Submarine Killing Undersea Robot"
 excerpt: "Former deputy secretary of defense Robert Work, who is often credited as the architect of the Third Offset, repeatedly stated that exploiting advances in artificial intelligence and autonomy would be central to the strategy’s success. He also stressed the potential for machine and human collaboration. While this may not be exactly what he had ..."
 publishedDateTime: 2020-01-17T06:13:00Z
-sourceUrl: "https://nationalinterest.org/blog/buzz/sea-hunter-meet-submarine-killing-undersea-robot-114251"
+webUrl: "https://nationalinterest.org/blog/buzz/sea-hunter-meet-submarine-killing-undersea-robot-114251"
 type: article
 quality: 39
 heat: 39

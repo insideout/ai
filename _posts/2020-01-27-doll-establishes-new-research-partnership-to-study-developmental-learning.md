@@ -3,7 +3,7 @@ category: news
 title: "DOLL Establishes New Research Partnership to Study Developmental Learning"
 excerpt: "LEXINGTON, Mass., Jan. 27, 2020 /PRNewswire/ -- A new research and educational partnership with UCLy-ESQESE (Catholic University of Lyon) has been established to further the joint, machine learning for robotics, research goals of Dr. Paul Robertson, chief scientist at DOLL Inc. and Dr. Olivier Georgeon (UCLy-ESQESE) researcher at the Group of ..."
 publishedDateTime: 2020-01-27T13:42:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-doll-establishes-new-research-partnership-study-developmental-learning-/2020/01/27/9087190.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-doll-establishes-new-research-partnership-study-developmental-learning-/2020/01/27/9087190.htm"
 type: article
 quality: 23
 heat: 23

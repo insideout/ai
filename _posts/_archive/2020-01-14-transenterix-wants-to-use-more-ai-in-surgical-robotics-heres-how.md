@@ -3,7 +3,7 @@ category: news
 title: "TransEnterix wants to use more AI in surgical robotics: Here’s how"
 excerpt: "TransEnterix (NYSE:TRXC) has filed a 510(k) submission to add an artificial intelligence feature to its robot-assisted surgery system in ... “I think our hope is that people will start to say this scrappy little company that’s been around for a while and is still fighting— it’s having kind of a Phoenix-like rise with some really ..."
 publishedDateTime: 2020-01-14T14:53:00Z
-sourceUrl: "https://www.massdevice.com/transenterix-wants-to-use-more-ai-in-surgical-robotics-heres-how/"
+webUrl: "https://www.massdevice.com/transenterix-wants-to-use-more-ai-in-surgical-robotics-heres-how/"
 type: article
 quality: 69
 heat: 69

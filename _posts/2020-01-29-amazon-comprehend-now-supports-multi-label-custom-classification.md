@@ -3,7 +3,7 @@ category: news
 title: "Amazon Comprehend now supports multi-label custom classification"
 excerpt: "Amazon Comprehend is a fully managed natural language processing (NLP) service that enables text analytics to extract insights from the content of documents. Amazon Comprehend supports custom classification and enables you to build custom classifiers that are specific to your requirements, without the"
 publishedDateTime: 2020-01-29T21:18:00Z
-sourceUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-now-supports-multi-label-custom-classification/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-now-supports-multi-label-custom-classification/"
 type: article
 quality: 89
 heat: 89

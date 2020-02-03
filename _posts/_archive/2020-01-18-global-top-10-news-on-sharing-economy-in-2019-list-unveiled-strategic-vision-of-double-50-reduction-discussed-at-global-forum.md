@@ -3,7 +3,7 @@ category: news
 title: "Global TOP 10 News on Sharing Economy in 2019 List Unveiled, Strategic Vision of \"Double 50% Reduction\" Discussed at Global Forum"
 excerpt: "/PRNewswire/ -- On January 16, 2020, the \"Great Sharing, New Economy—Beijing Summit of Global Sharing Economy Forum\" was held at the China National"
 publishedDateTime: 2020-01-18T12:17:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/global-top-10-news-on-sharing-economy-in-2019-list-unveiled-strategic-vision-of-double-50-reduction-discussed-at-global-forum-300989250.html"
+webUrl: "https://www.prnewswire.com/news-releases/global-top-10-news-on-sharing-economy-in-2019-list-unveiled-strategic-vision-of-double-50-reduction-discussed-at-global-forum-300989250.html"
 type: article
 quality: 0
 heat: 0

@@ -3,7 +3,7 @@ category: news
 title: "Genomic Profiling for Precision Medicine: Interview with David Spetzler, Caris Life Sciences"
 excerpt: "Artificial intelligence techniques are well-suited to this task ... important step since it directly correlates to improvements in overall survival and can have a significant impact on the cost of their therapy. So, while these tests are readily available and recommended for routine use by NCCN, utilization is still a challenge."
 publishedDateTime: 2020-01-28T21:54:00Z
-sourceUrl: "https://www.medgadget.com/2020/01/genomic-profiling-for-precision-medicine-interview-with-david-spetzler-caris-life-sciences.html"
+webUrl: "https://www.medgadget.com/2020/01/genomic-profiling-for-precision-medicine-interview-with-david-spetzler-caris-life-sciences.html"
 type: article
 quality: 0
 heat: 0

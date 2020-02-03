@@ -3,7 +3,7 @@ category: news
 title: "Gianluca Mauro: Artificial Intelligence Is Ready, People Are Not"
 excerpt: "He does agree that it seems a quite impossible thing to achieve, as “even if a social network like Facebook were to go down, another one would simply take over.” When it comes to the classic AI threat suggesting that its expansion ... She traveled to China for environmental research on Climate Change completing a Masters in Physical ..."
 publishedDateTime: 2020-02-01T18:28:00Z
-sourceUrl: "https://italicsmag.com/2020/02/01/gianluca-mauro-artificial-intelligence-is-ready-people-are-not/"
+webUrl: "https://italicsmag.com/2020/02/01/gianluca-mauro-artificial-intelligence-is-ready-people-are-not/"
 type: article
 quality: 39
 heat: 39

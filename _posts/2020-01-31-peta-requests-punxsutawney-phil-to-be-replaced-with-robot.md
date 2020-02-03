@@ -3,9 +3,9 @@ category: news
 title: "PETA requests Punxsutawney Phil to be replaced with robot"
 excerpt: "The People for the Ethical Treatment of Animals (PETA) sent a letter to the Punxsutawney Groundhog Club requesting that the groundhog should be replaced with a robot. The letter signed by PETA President ... \"We even have the technology to create an animatronic groundhog with artificial intelligence (AI) that could actually predict the weather."
 publishedDateTime: 2020-01-31T04:04:00Z
-sourceUrl: "https://www.thedenverchannel.com/news/national/peta-requests-punxsutawney-phil-to-be-replaced-with-robot"
-ampUrl: "https://www.thedenverchannel.com/news/national/peta-requests-punxsutawney-phil-to-be-replaced-with-robot?_amp=true"
-cdnAmpUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/peta-requests-punxsutawney-phil-to-be-replaced-with-robot?_amp=true"
+webUrl: "https://www.thedenverchannel.com/news/national/peta-requests-punxsutawney-phil-to-be-replaced-with-robot"
+ampWebUrl: "https://www.thedenverchannel.com/news/national/peta-requests-punxsutawney-phil-to-be-replaced-with-robot?_amp=true"
+cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/peta-requests-punxsutawney-phil-to-be-replaced-with-robot?_amp=true"
 type: article
 quality: 59
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "Replace Punxsutawney Phil With Robot, Animal Rights Group Says"
     excerpt: "People for the Ethical Treatment of Animals are advocating a radical change in how Groundhog Day is celebrated."
     publishedDateTime: 2020-01-28T22:02:00Z
-    sourceUrl: "https://patch.com/pennsylvania/pittsburgh/replace-punxsutawney-phil-robot-animal-rights-group-says"
-    ampUrl: "https://patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says"
-    cdnAmpUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says"
+    webUrl: "https://patch.com/pennsylvania/pittsburgh/replace-punxsutawney-phil-robot-animal-rights-group-says"
+    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says"
     type: article
     provider:
       name: Patch
@@ -44,9 +44,9 @@ related:
   - title: "PETA calls for Punxsutawney Phil to be replaced with a robot"
     excerpt: "STATEN ISLAND, N.Y. -- It appears no one’s job is safe from the rise of the robot workforce, not even the nation’s most beloved groundhog ... that the Punxsutawney Groundhog Club replaces Phil with an animatronic groundhog with an artificial intelligence (AI) system that would allow it to accurately predict the coming weather."
     publishedDateTime: 2020-01-29T20:17:00Z
-    sourceUrl: "https://www.silive.com/news/2020/01/peta-calls-for-punxsutawney-phil-to-be-replaced-with-a-robot.html"
-    ampUrl: "https://www.silive.com/news/2020/01/peta-calls-for-punxsutawney-phil-to-be-replaced-with-a-robot.html?outputType=amp"
-    cdnAmpUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2020/01/peta-calls-for-punxsutawney-phil-to-be-replaced-with-a-robot.html?outputType=amp"
+    webUrl: "https://www.silive.com/news/2020/01/peta-calls-for-punxsutawney-phil-to-be-replaced-with-a-robot.html"
+    ampWebUrl: "https://www.silive.com/news/2020/01/peta-calls-for-punxsutawney-phil-to-be-replaced-with-a-robot.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2020/01/peta-calls-for-punxsutawney-phil-to-be-replaced-with-a-robot.html?outputType=amp"
     type: article
     provider:
       name: SILive
@@ -59,9 +59,9 @@ related:
   - title: "PETA requests Punxsutawney Phil to be replaced with robot due to ‘stress’"
     excerpt: "The People for the Ethical Treatment of Animals (PETA) sent a letter to the Punxsutawney Groundhog Club requesting that the groundhog should be replaced with a robot. The letter signed by PETA President ... “We even have the technology to create an animatronic groundhog with artificial intelligence (AI) that could actually predict the weather."
     publishedDateTime: 2020-01-31T15:23:00Z
-    sourceUrl: "https://wtvr.com/2020/01/31/peta-requests-punxsutawney-phil-to-be-replaced-with-robot-due-to-stress/"
-    ampUrl: "https://wtvr.com/2020/01/31/peta-requests-punxsutawney-phil-to-be-replaced-with-robot-due-to-stress/amp/"
-    cdnAmpUrl: "https://wtvr-com.cdn.ampproject.org/c/s/wtvr.com/2020/01/31/peta-requests-punxsutawney-phil-to-be-replaced-with-robot-due-to-stress/amp/"
+    webUrl: "https://wtvr.com/2020/01/31/peta-requests-punxsutawney-phil-to-be-replaced-with-robot-due-to-stress/"
+    ampWebUrl: "https://wtvr.com/2020/01/31/peta-requests-punxsutawney-phil-to-be-replaced-with-robot-due-to-stress/amp/"
+    cdnAmpWebUrl: "https://wtvr-com.cdn.ampproject.org/c/s/wtvr.com/2020/01/31/peta-requests-punxsutawney-phil-to-be-replaced-with-robot-due-to-stress/amp/"
     type: article
     provider:
       name: WTVR
@@ -74,9 +74,9 @@ related:
   - title: "PETA wants Punxsutawney Phil replaced with robot because news conference causes too much 'stress'"
     excerpt: "The electronic canine, whose name translates to 'companion' in Japanese, and which is also an abbreviation for 'artificial intelligence bot' interacts with humans and has the ability to learn. It was unclear whether the robot is smart enough to predict how long winter will last, a skill Phil is traditionally celebrated for every year on ..."
     publishedDateTime: 2020-01-29T19:24:00Z
-    sourceUrl: "https://www.dailymail.co.uk/news/article-7943799/PETA-wants-Punxsutawney-Phil-replaced-robot-news-conference-causes-stress.html"
-    ampUrl: "https://www.dailymail.co.uk/news/article-7943799/amp/PETA-wants-Punxsutawney-Phil-replaced-robot-news-conference-causes-stress.html"
-    cdnAmpUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7943799/amp/PETA-wants-Punxsutawney-Phil-replaced-robot-news-conference-causes-stress.html"
+    webUrl: "https://www.dailymail.co.uk/news/article-7943799/PETA-wants-Punxsutawney-Phil-replaced-robot-news-conference-causes-stress.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-7943799/amp/PETA-wants-Punxsutawney-Phil-replaced-robot-news-conference-causes-stress.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7943799/amp/PETA-wants-Punxsutawney-Phil-replaced-robot-news-conference-causes-stress.html"
     type: article
     provider:
       name: Mail Online

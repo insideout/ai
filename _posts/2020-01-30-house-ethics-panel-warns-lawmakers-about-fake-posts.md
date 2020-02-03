@@ -3,7 +3,7 @@ category: news
 title: "House ethics panel warns lawmakers about fake posts"
 excerpt: "WASHINGTON — The House Ethics Committee is warning lawmakers not to share doctored images or videos ... Disinformation experts are increasingly concerned about the emergence of “deep-fakes,” fake videos created using artificial intelligence and machine learning to make it appear something happened that didn’t. “Cheapfakes” like ..."
 publishedDateTime: 2020-01-30T06:00:00Z
-sourceUrl: "https://www.arkansasonline.com/news/2020/jan/30/house-ethics-panel-warns-lawmakers-about-fake-post/"
+webUrl: "https://www.arkansasonline.com/news/2020/jan/30/house-ethics-panel-warns-lawmakers-about-fake-post/"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "House ethics committee warns lawmakers against posting deepfakes"
     excerpt: "The House Ethics Committee is advising lawmakers against posting manipulated videos and photos on their social media accounts, warning they could face repercussions for tweets and Facebook posts that"
     publishedDateTime: 2020-01-29T21:06:00Z
-    sourceUrl: "https://thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes"
-    ampUrl: "https://thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes?amp"
-    cdnAmpUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes?amp"
+    webUrl: "https://thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes"
+    ampWebUrl: "https://thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes?amp"
     type: article
     provider:
       name: The Hill
@@ -42,9 +42,9 @@ related:
   - title: "Ethics panel warns House members not to share fake images"
     excerpt: "The House Ethics Committee is warning lawmakers not to share doctored images or videos that could “erode public trust, effect public discourse, or sway an election,\" guidance that comes during a proliferation of online misinformation in the run-up to the 2020 elections."
     publishedDateTime: 2020-01-29T21:24:00Z
-    sourceUrl: "https://www.ksat.com/news/politics/2020/01/29/ethics-panel-warns-house-members-not-to-share-fake-images/"
-    ampUrl: "https://www.ksat.com/news/politics/2020/01/29/ethics-panel-warns-house-members-not-to-share-fake-images/?outputType=amp"
-    cdnAmpUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/politics/2020/01/29/ethics-panel-warns-house-members-not-to-share-fake-images/?outputType=amp"
+    webUrl: "https://www.ksat.com/news/politics/2020/01/29/ethics-panel-warns-house-members-not-to-share-fake-images/"
+    ampWebUrl: "https://www.ksat.com/news/politics/2020/01/29/ethics-panel-warns-house-members-not-to-share-fake-images/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/politics/2020/01/29/ethics-panel-warns-house-members-not-to-share-fake-images/?outputType=amp"
     type: article
     provider:
       name: KSAT
@@ -57,9 +57,9 @@ related:
   - title: "House ethics panel warns lawmakers to not share fake images"
     excerpt: "WASHINGTON - The House Ethics Committee is warning lawmakers not to share doctored images or videos ... Disinformation experts are increasingly concerned about the emergence of \"deepfakes,\" fake videos created using artificial intelligence and machine learning to make it appear something happened that didn't. \"Cheapfakes\" like the doctored ..."
     publishedDateTime: 2020-01-29T21:46:00Z
-    sourceUrl: "https://www.fox10phoenix.com/news/house-ethics-panel-warns-lawmakers-to-not-share-fake-images"
-    ampUrl: "https://www.fox10phoenix.com/news/house-ethics-panel-warns-lawmakers-to-not-share-fake-images.amp"
-    cdnAmpUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/house-ethics-panel-warns-lawmakers-to-not-share-fake-images.amp"
+    webUrl: "https://www.fox10phoenix.com/news/house-ethics-panel-warns-lawmakers-to-not-share-fake-images"
+    ampWebUrl: "https://www.fox10phoenix.com/news/house-ethics-panel-warns-lawmakers-to-not-share-fake-images.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/house-ethics-panel-warns-lawmakers-to-not-share-fake-images.amp"
     type: article
     provider:
       name: FOX 10 Phoenix

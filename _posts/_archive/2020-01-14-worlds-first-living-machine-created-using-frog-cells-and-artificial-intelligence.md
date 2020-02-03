@@ -3,9 +3,9 @@ category: news
 title: "World's First 'Living Machine' Created Using Frog Cells and Artificial Intelligence"
 excerpt: "Related: The 6 Strangest Robots Ever Created \"They're neither a traditional robot nor a known species of animal,\" study co-author Joshua Bongard, a computer scientist and robotics expert at the University of Vermont, said in a statement. \"It's a new class of artifact: a living, programmable organism.\" Algorithms shaped the evolution of the ..."
 publishedDateTime: 2020-01-14T21:15:00Z
-sourceUrl: "https://www.livescience.com/frogbots-living-robots.html"
-ampUrl: "https://www.livescience.com/amp/frogbots-living-robots.html"
-cdnAmpUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/frogbots-living-robots.html"
+webUrl: "https://www.livescience.com/frogbots-living-robots.html"
+ampWebUrl: "https://www.livescience.com/amp/frogbots-living-robots.html"
+cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/frogbots-living-robots.html"
 type: article
 quality: 153
 heat: 173
@@ -29,7 +29,7 @@ related:
   - title: "World’s First “Living Machine” Created Using Frog Cells and Artificial Intelligence"
     excerpt: "“They’re neither a traditional robot nor a known species of animal,\" study co-author Joshua Bongard, a computer scientist and robotics expert at the University of Vermont, said in a statement. “It’s a new class of artifact: a living, programmable ..."
     publishedDateTime: 2020-01-16T00:32:00Z
-    sourceUrl: "https://www.scientificamerican.com/article/worlds-first-living-machine-created-using-frog-cells-and-artificial-intelligence/"
+    webUrl: "https://www.scientificamerican.com/article/worlds-first-living-machine-created-using-frog-cells-and-artificial-intelligence/"
     type: article
     provider:
       name: Scientific American
@@ -42,7 +42,7 @@ related:
   - title: "Meet the xenobot: World’s first living, self-healing robots created from frog stem cells"
     excerpt: "However, their lifespan can increase to several weeks in nutrient-rich environments. And although the supercomputer — a powerful piece of artificial intelligence — plays a big role in building these robots, it’s “unlikely” that the AI could have evil intentions. “At the moment though it is difficult to see how an AI could create ..."
     publishedDateTime: 2020-01-16T13:57:00Z
-    sourceUrl: "https://kfor.com/2020/01/16/meet-the-xenobot-worlds-first-living-self-healing-robots-created-from-frog-stem-cells/"
+    webUrl: "https://kfor.com/2020/01/16/meet-the-xenobot-worlds-first-living-self-healing-robots-created-from-frog-stem-cells/"
     type: article
     provider:
       name: Oklahoma's News

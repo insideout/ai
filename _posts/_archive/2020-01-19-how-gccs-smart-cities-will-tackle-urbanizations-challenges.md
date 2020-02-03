@@ -3,9 +3,9 @@ category: news
 title: "How GCC’s smart cities will tackle urbanization’s challenges"
 excerpt: "ABU DHABI: Use of data and artificial intelligence (AI) will be crucial in the transformation of the Arab world’s major urban hubs into digitally enabled smart cities. This was the consensus of experts who spoke at the Smart Cities Forum of the World ..."
 publishedDateTime: 2020-01-19T03:34:00Z
-sourceUrl: "https://www.zawya.com/mena/en/business/story/How_GCCs_smart_cities_will_tackle_urbanizations_challenges-SNG_164931212/"
-ampUrl: "https://www.zawya.com/mena/en/story/amp/SNG_164931212/"
-cdnAmpUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_164931212/"
+webUrl: "https://www.zawya.com/mena/en/business/story/How_GCCs_smart_cities_will_tackle_urbanizations_challenges-SNG_164931212/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_164931212/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_164931212/"
 type: article
 quality: 44
 heat: -1
@@ -29,7 +29,7 @@ related:
   - title: "NeurIPS competition tackles climate data challenges"
     excerpt: "The Earth’s climate is a highly complex, dynamic system. It is difficult to understand and predict how different climate variables interact. Finding causal relations in climate research today relies mostly on expensive and time-consuming model simulations. Fortunately, with the explosion in the availability"
     publishedDateTime: 2020-01-21T19:09:25Z
-    sourceUrl: "https://aws.amazon.com/blogs/machine-learning/neurips-competition-tackles-climate-data-challenges/"
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/neurips-competition-tackles-climate-data-challenges/"
     type: article
     provider:
       name: AWS

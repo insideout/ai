@@ -3,7 +3,7 @@ category: news
 title: "Here’s How Self-Driving Cars Need To Be Prepared To Deal With All Kinds Of Traffic Clogs"
 excerpt: "[Ed. Note: For reader’s interested in Dr. Eliot’s ongoing business analyses about the advent of self-driving cars, see his online Forbes column: https://forbes ..."
 publishedDateTime: 2020-01-11T00:21:00Z
-sourceUrl: "https://medium.com/@lance.eliot/heres-how-self-driving-cars-need-to-be-prepared-to-deal-with-all-kinds-of-traffic-clogs-b5569d38cc98"
+webUrl: "https://medium.com/@lance.eliot/heres-how-self-driving-cars-need-to-be-prepared-to-deal-with-all-kinds-of-traffic-clogs-b5569d38cc98"
 type: article
 quality: 45
 heat: 45

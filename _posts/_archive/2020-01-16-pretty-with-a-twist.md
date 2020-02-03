@@ -3,7 +3,7 @@ category: news
 title: "Pretty with a twist"
 excerpt: "This so-called chiral recognition is a process that can determine whether a molecule acts as medicine or poison. The inner walls of the obtained nanostructure cages offer sites that can direct guest molecules. The researchers observed such a process in some of the larger pores, where three of the same molecules assembled as a chiral object."
 publishedDateTime: 2020-01-16T16:23:00Z
-sourceUrl: "https://www.eurekalert.org/pub_releases/2020-01/tuom-pwa011620.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-01/tuom-pwa011620.php"
 type: article
 quality: 24
 heat: 24

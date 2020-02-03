@@ -3,9 +3,9 @@ category: news
 title: "Face Recognition Promises to Speed You Through PHL’s Gates. But Should You Use It?"
 excerpt: "That’s because on January 21st, the airport will install facial recognition technology at the A15, A16, and A17 gates. Passengers at those gates (served by American Airlines, British Airways, Lufthansa, and Qatar Airways) won’t have to present a passport when they board their flight exiting the country; instead, a facial recognition kiosk ..."
 publishedDateTime: 2020-01-17T19:46:00Z
-sourceUrl: "https://www.phillymag.com/news/2020/01/17/facial-recognition-phl-international/"
-ampUrl: "https://www.phillymag.com/news/2020/01/17/facial-recognition-phl-international/?amp=1"
-cdnAmpUrl: "https://www-phillymag-com.cdn.ampproject.org/c/s/www.phillymag.com/news/2020/01/17/facial-recognition-phl-international/?amp=1"
+webUrl: "https://www.phillymag.com/news/2020/01/17/facial-recognition-phl-international/"
+ampWebUrl: "https://www.phillymag.com/news/2020/01/17/facial-recognition-phl-international/?amp=1"
+cdnAmpWebUrl: "https://www-phillymag-com.cdn.ampproject.org/c/s/www.phillymag.com/news/2020/01/17/facial-recognition-phl-international/?amp=1"
 type: article
 quality: 53
 heat: 53

@@ -3,7 +3,7 @@ category: news
 title: "Iran Conflict Shows Why the US Needs Autonomous Lethal AI Weapons"
 excerpt: "Chillingly, unlike atomic weapons, the tools to construct lethal AI weapons are cheap and readily available to all. There is loud opposition to development of killer robots. Chicken Little headlines scream “We’re running out of time to stop killer robot weapons,” and, in all caps, “KILLER ROBOTS WILL START SLAUGHTERING PEOPLE IF THEY’ ..."
 publishedDateTime: 2020-01-28T18:00:00Z
-sourceUrl: "https://www.cnsnews.com/commentary/robert-j-marks-ii/iran-conflict-shows-why-us-needs-autonomous-lethal-ai-weapons"
+webUrl: "https://www.cnsnews.com/commentary/robert-j-marks-ii/iran-conflict-shows-why-us-needs-autonomous-lethal-ai-weapons"
 type: article
 quality: 39
 heat: 39

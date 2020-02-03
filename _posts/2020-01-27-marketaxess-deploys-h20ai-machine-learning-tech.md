@@ -3,7 +3,7 @@ category: news
 title: "MarketAxess deploys H20.ai machine learning tech"
 excerpt: "provides critical machine learning capabilities to MarketAxess, the operator of a leading electronic trading platform for fixed-income securities and the provider of market data and post-trade services for the global fixed-income markets. MarketAxess' Composite+, powered by H2O open source, delivers greater insight and price discovery in real ..."
 publishedDateTime: 2020-01-27T11:49:00Z
-sourceUrl: "https://www.finextra.com/pressarticle/81255/marketaxess-deploys-h20ai-machine-learning-tech"
+webUrl: "https://www.finextra.com/pressarticle/81255/marketaxess-deploys-h20ai-machine-learning-tech"
 type: article
 quality: 56
 heat: 66
@@ -28,7 +28,7 @@ related:
   - title: "MarketAxess deploys machine learning tech to bond algo pricing engine"
     excerpt: "MarketAxess has integrated artificial intelligence and machine learning technology to its algorithmic pricing engine for corporate bonds. The fixed income trading platform provider teamed up with AI specialist H20.ai to deploy its technology to power its Composite+ platform, which provides real-time price discovery for more than 24,000 corporat ..."
     publishedDateTime: 2020-01-27T11:00:00Z
-    sourceUrl: "https://www.thetradenews.com/marketaxess-deploys-machine-learning-tech-bond-algo-pricing-engine/"
+    webUrl: "https://www.thetradenews.com/marketaxess-deploys-machine-learning-tech-bond-algo-pricing-engine/"
     type: article
     provider:
       name: The TRADE

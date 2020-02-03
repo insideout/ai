@@ -3,9 +3,9 @@ category: news
 title: "DARPA Deploys Swarms of Autonomous Robots to Carry Out Urban Raid"
 excerpt: "In the not-so-distant future, hundreds of unmanned drones and on-the-ground rovers could swoop into an area of interest and spew crucial data to human military operators, researchers say."
 publishedDateTime: 2020-01-30T11:53:00Z
-sourceUrl: "https://www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834"
-ampUrl: "https://www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834?amp=1"
-cdnAmpUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834?amp=1"
+webUrl: "https://www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834"
+ampWebUrl: "https://www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834?amp=1"
 type: article
 quality: 104
 heat: 104

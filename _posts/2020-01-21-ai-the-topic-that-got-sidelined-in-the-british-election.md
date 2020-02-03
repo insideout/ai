@@ -3,9 +3,9 @@ category: news
 title: "AI: the topic that got sidelined in the British election"
 excerpt: "... Generation Artificial Intelligence Plan”, revealing its ambition to create an AI industry worth 1 trillion RM by 2030. Perhaps the most comprehensive of all, the plan involves a suite of initiatives that span R&D, talent development, regulations, ethics and security. Closer to home, France announced its own AI plan in 2018. Designed to ..."
 publishedDateTime: 2020-01-21T10:50:00Z
-sourceUrl: "https://www.techradar.com/nz/news/ai-the-topic-that-got-sidelined-in-the-british-election"
-ampUrl: "https://www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election"
-cdnAmpUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election"
+webUrl: "https://www.techradar.com/nz/news/ai-the-topic-that-got-sidelined-in-the-british-election"
+ampWebUrl: "https://www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election"
 type: article
 quality: 89
 heat: 89

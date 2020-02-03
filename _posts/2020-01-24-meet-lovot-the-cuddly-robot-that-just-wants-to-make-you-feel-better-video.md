@@ -3,9 +3,9 @@ category: news
 title: "Meet Lovot: The cuddly robot that just wants to make you feel better [video]"
 excerpt: "Lovot, an adorable robotic pet, has taken the world by storms since Japanese robotic startup, Groove X ... However, with the recent strides in artificial intelligence and robotics technology, we are edger closer and closer to science-fiction by creating ..."
 publishedDateTime: 2020-01-24T15:42:00Z
-sourceUrl: "https://www.thesouthafrican.com/tech/meet-lovot-the-cuddly-robot-that-just-wants-to-make-you-feel-better-video/"
-ampUrl: "https://www.thesouthafrican.com/tech/meet-lovot-the-cuddly-robot-that-just-wants-to-make-you-feel-better-video/amp/"
-cdnAmpUrl: "https://www-thesouthafrican-com.cdn.ampproject.org/c/s/www.thesouthafrican.com/tech/meet-lovot-the-cuddly-robot-that-just-wants-to-make-you-feel-better-video/amp/"
+webUrl: "https://www.thesouthafrican.com/tech/meet-lovot-the-cuddly-robot-that-just-wants-to-make-you-feel-better-video/"
+ampWebUrl: "https://www.thesouthafrican.com/tech/meet-lovot-the-cuddly-robot-that-just-wants-to-make-you-feel-better-video/amp/"
+cdnAmpWebUrl: "https://www-thesouthafrican-com.cdn.ampproject.org/c/s/www.thesouthafrican.com/tech/meet-lovot-the-cuddly-robot-that-just-wants-to-make-you-feel-better-video/amp/"
 type: article
 quality: 56
 heat: 56

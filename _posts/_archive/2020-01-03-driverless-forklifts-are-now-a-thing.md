@@ -3,7 +3,7 @@ category: news
 title: "Driverless forklifts are now a thing"
 excerpt: "Driverless forklifts and the dock of the future It may not be long before driverless ... Addressing such complexities will probably require artificial intelligence (AI) or machine learning, he adds. But until then? Eastabrook expects the loading process will be collaborative, with a human working with multiple pieces of automated equipment."
 publishedDateTime: 2020-01-03T23:18:00Z
-sourceUrl: https://www.dcvelocity.com/articles/20200106-driverless-forklifts-are-now-a-thing/
+webUrl: https://www.dcvelocity.com/articles/20200106-driverless-forklifts-are-now-a-thing/
 type: article
 quality: 39
 heat: 39

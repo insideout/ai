@@ -3,7 +3,7 @@ category: news
 title: "Google partner Servian builds AI tool for Fox Sports"
 excerpt: "Google partner Servian has revealed that it was behind “Monty”, an AI tool Fox Sports used to predict when wickets would fall during cricket matches, and has already delivered an upgrade to the tool. Monty was developed in 2019 and works by using historical data from previous matches as well as live data, such as player behaviour and pitch ..."
 publishedDateTime: 2020-01-20T01:37:00Z
-sourceUrl: "https://www.crn.com.au/news/google-partner-servian-builds-ai-tool-for-fox-sports-536734"
+webUrl: "https://www.crn.com.au/news/google-partner-servian-builds-ai-tool-for-fox-sports-536734"
 type: article
 quality: 37
 heat: 37

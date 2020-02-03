@@ -3,9 +3,9 @@ category: news
 title: "AI re-pricing software for hotels, flights could hurt deal-hungry consumers"
 excerpt: "Hotels and airlines are now using artificial intelligence software to re-price tickets and stays, sometimes dozens of times a day, the New York Times reports. Why it matters: More often not this is resulting in higher prices for consumers, as great deals are removed from travel websites and replaced by higher prices when the AI software notices ..."
 publishedDateTime: 2020-01-29T13:30:00Z
-sourceUrl: "https://www.axios.com/hotels-airlines-flights-stays-ai-repricing-4579978d-eb0d-4d79-893e-17c4dce2af05.html"
-ampUrl: "https://amp.axios.com/hotels-airlines-flights-stays-ai-repricing-4579978d-eb0d-4d79-893e-17c4dce2af05.html"
-cdnAmpUrl: "https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/hotels-airlines-flights-stays-ai-repricing-4579978d-eb0d-4d79-893e-17c4dce2af05.html"
+webUrl: "https://www.axios.com/hotels-airlines-flights-stays-ai-repricing-4579978d-eb0d-4d79-893e-17c4dce2af05.html"
+ampWebUrl: "https://amp.axios.com/hotels-airlines-flights-stays-ai-repricing-4579978d-eb0d-4d79-893e-17c4dce2af05.html"
+cdnAmpWebUrl: "https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/hotels-airlines-flights-stays-ai-repricing-4579978d-eb0d-4d79-893e-17c4dce2af05.html"
 type: article
 quality: 55
 heat: 55

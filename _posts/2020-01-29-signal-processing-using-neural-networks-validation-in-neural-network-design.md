@@ -3,7 +3,7 @@ category: news
 title: "Signal Processing Using Neural Networks: Validation in Neural Network Design"
 excerpt: "If you’re more interested than I am in neural-network V&V, you might want to start with this document. If you’re a true V&V zealot, you should consider the book Methods and Procedures for the Verification and Validation of Artificial Neural Networks; it’s 293 pages long and surely exceeds my knowledge of this topic by at least three ..."
 publishedDateTime: 2020-01-29T00:29:00Z
-sourceUrl: "https://www.allaboutcircuits.com/technical-articles/neural-network-signal-processing-validation-in-neural-network-design/"
+webUrl: "https://www.allaboutcircuits.com/technical-articles/neural-network-signal-processing-validation-in-neural-network-design/"
 type: article
 quality: 36
 heat: 36
@@ -27,7 +27,7 @@ related:
   - title: "A tasty social networking site using artificial intelligence"
     excerpt: "The website is a must-click for all lovers of Vietnamese food. - Photo baotintuc.vn Hatto.vn uses artificial intelligence to analyse images and content. It already has more than 360,000 recipes showcasing some of the best, and tasty, Vietnamese dishes. Its name comes from the Japanese word for heart, and is packed with recipes and great places ..."
     publishedDateTime: 2020-01-30T01:01:00Z
-    sourceUrl: "https://vietnamnet.vn/en/entertainment-sports/a-tasty-social-networking-site-using-artificial-intelligence-612309.html"
+    webUrl: "https://vietnamnet.vn/en/entertainment-sports/a-tasty-social-networking-site-using-artificial-intelligence-612309.html"
     type: article
     provider:
       name: Vietnamnet

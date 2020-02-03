@@ -3,9 +3,9 @@ category: news
 title: "Google looks ahead to the next decade of AI research"
 excerpt: "Google's already making strides on this front, with on-device translation services offered in 59 different languages. While Google and the industry at large have made significant strides in AI in the past few years, public awareness of the technology's potential drawbacks -- and corresponding regulation -- is only now beginning to catch up ..."
 publishedDateTime: 2020-01-29T20:00:00Z
-sourceUrl: "https://www.zdnet.com/article/google-looks-ahead-to-the-next-decade-of-ai-research/"
-ampUrl: "https://www.zdnet.com/google-amp/article/google-looks-ahead-to-the-next-decade-of-ai-research/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-looks-ahead-to-the-next-decade-of-ai-research/"
+webUrl: "https://www.zdnet.com/article/google-looks-ahead-to-the-next-decade-of-ai-research/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/google-looks-ahead-to-the-next-decade-of-ai-research/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-looks-ahead-to-the-next-decade-of-ai-research/"
 type: article
 quality: 89
 heat: 119
@@ -33,7 +33,7 @@ related:
   - title: "Google demos AI research in interactive textiles"
     excerpt: "Kevin Balke, a firmware engineer at Google, demonstrates the I/O Braid, a research project that could be used to develop products like interactive drawstrings on a sweatshirt or touch-sensitive headphone cords. Read more: https://zd.net/2RWOWVq"
     publishedDateTime: 2020-01-30T15:04:00Z
-    sourceUrl: "https://www.zdnet.com/video/google-demos-ai-research-in-interactive-textiles/"
+    webUrl: "https://www.zdnet.com/video/google-demos-ai-research-in-interactive-textiles/"
     type: article
     provider:
       name: ZDNet
@@ -46,7 +46,7 @@ related:
   - title: "Cognitive Computing In The Next Decade Of AI"
     excerpt: "Machine learning is now accessible to everyone, from students and industry engineers to domain experts and even consumers."
     publishedDateTime: 2020-01-28T13:47:00Z
-    sourceUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/28/cognitive-computing-in-the-next-decade-of-ai/"
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/28/cognitive-computing-in-the-next-decade-of-ai/"
     type: article
     provider:
       name: Forbes
@@ -55,9 +55,9 @@ related:
   - title: "Google demos near real-time translator that transcribes audio into different languages on the spot"
     excerpt: "Google is showing off a new feature in its Translate app that can create an almost ... is capable of translating text using a device's camera. AI and computer vision are capable of 'looking' at text placed in front of one's camera and then spitting the text back out in another language. Like Interpreter, the Lens tool has become a favorite ..."
     publishedDateTime: 2020-01-29T16:59:00Z
-    sourceUrl: "https://www.dailymail.co.uk/sciencetech/article-7943731/Google-demos-near-real-time-translator-transcribes-audio-different-languages-spot.html"
-    ampUrl: "https://www.dailymail.co.uk/sciencetech/article-7943731/amp/Google-demos-near-real-time-translator-transcribes-audio-different-languages-spot.html"
-    cdnAmpUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7943731/amp/Google-demos-near-real-time-translator-transcribes-audio-different-languages-spot.html"
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-7943731/Google-demos-near-real-time-translator-transcribes-audio-different-languages-spot.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7943731/amp/Google-demos-near-real-time-translator-transcribes-audio-different-languages-spot.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7943731/amp/Google-demos-near-real-time-translator-transcribes-audio-different-languages-spot.html"
     type: article
     provider:
       name: Mail Online

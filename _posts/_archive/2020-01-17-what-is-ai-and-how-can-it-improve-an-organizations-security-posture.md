@@ -3,7 +3,7 @@ category: news
 title: "What Is AI and How Can It Improve an Organization’s Security Posture?"
 excerpt: "and translation between languages.” Gartner states that “Artificial intelligence applies advanced analysis and logic-based techniques, including machine learning, to interpret events, support and automate decisions, and take actions.” To summarize, AI in cybersecurity refers to a set of capabilities similar to human abilities that allow ..."
 publishedDateTime: 2020-01-17T14:57:00Z
-sourceUrl: "https://securityintelligence.com/posts/what-is-ai-and-how-can-it-improve-an-organizations-security-posture/"
+webUrl: "https://securityintelligence.com/posts/what-is-ai-and-how-can-it-improve-an-organizations-security-posture/"
 type: article
 quality: 39
 heat: 39

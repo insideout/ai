@@ -3,7 +3,7 @@ category: news
 title: "New AI System Developed To Detect Potentially Hazardous Asteroids"
 excerpt: "A team of scientists from the Netherlands was able to develop a new system that can track asteroids that are in danger of causing major impact events on Earth. According to their scientists, their system is more effective than the one currently being used by NASA to track asteroids."
 publishedDateTime: 2020-01-22T03:05:00Z
-sourceUrl: "https://www.ibtimes.com/new-ai-system-developed-detect-potentially-hazardous-asteroids-2907051"
+webUrl: "https://www.ibtimes.com/new-ai-system-developed-detect-potentially-hazardous-asteroids-2907051"
 type: article
 quality: 37
 heat: -1
@@ -26,9 +26,9 @@ related:
   - title: "Socially savvy artificial intelligence to be developed at UA"
     excerpt: "Artificial intelligence is everywhere. Whether it’s Siri, Alexa or Google Assistant, people use AI agents on a daily basis to communicate, to remember things and to make everyday life more convenient. Now, University of Arizona researchers are looking to take AI to the next level. Like something from a science fiction movie, they are hoping ..."
     publishedDateTime: 2020-01-20T15:00:00Z
-    sourceUrl: "https://tucson.com/news/local/socially-savvy-artificial-intelligence-to-be-developed-at-ua/article_0f8879d4-3543-56ba-a7dd-12c18c0b3d7b.html"
-    ampUrl: "https://tucson.com/news/local/socially-savvy-artificial-intelligence-to-be-developed-at-ua/article_0f8879d4-3543-56ba-a7dd-12c18c0b3d7b.amp.html"
-    cdnAmpUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/local/socially-savvy-artificial-intelligence-to-be-developed-at-ua/article_0f8879d4-3543-56ba-a7dd-12c18c0b3d7b.amp.html"
+    webUrl: "https://tucson.com/news/local/socially-savvy-artificial-intelligence-to-be-developed-at-ua/article_0f8879d4-3543-56ba-a7dd-12c18c0b3d7b.html"
+    ampWebUrl: "https://tucson.com/news/local/socially-savvy-artificial-intelligence-to-be-developed-at-ua/article_0f8879d4-3543-56ba-a7dd-12c18c0b3d7b.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/local/socially-savvy-artificial-intelligence-to-be-developed-at-ua/article_0f8879d4-3543-56ba-a7dd-12c18c0b3d7b.amp.html"
     type: article
     provider:
       name: Arizona Daily Star

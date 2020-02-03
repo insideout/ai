@@ -3,7 +3,7 @@ category: news
 title: "Green Hills Software and StradVision Demonstrate Road-Ready Deep Learning Perception at CES 2020"
 excerpt: "/PRNewswire/ -- When the biggest stakeholders in the automotive and technology worlds converge in Las Vegas at CES 2020 from Jan. 7-10 to showcase the"
 publishedDateTime: 2020-01-09T13:05:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/green-hills-software-and-stradvision-demonstrate-road-ready-deep-learning-perception-at-ces-2020-300984103.html
+webUrl: https://www.prnewswire.com/news-releases/green-hills-software-and-stradvision-demonstrate-road-ready-deep-learning-perception-at-ces-2020-300984103.html
 type: article
 quality: 26
 heat: 26

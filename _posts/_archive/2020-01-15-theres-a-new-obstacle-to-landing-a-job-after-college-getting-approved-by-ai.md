@@ -3,9 +3,9 @@ category: news
 title: "There’s a new obstacle to landing a job after college: Getting approved by AI"
 excerpt: "“We uphold the highest levels of rigor and ethics as we work every day to increase fairness and objectivity in the hiring process,” the company said. To get a sense for what it’s actually like to be knowingly graded by a computer, I recently tried out a simulator that’s available online from Los Angeles-based startup Yobs, which uses ..."
 publishedDateTime: 2020-01-15T00:00:00Z
-sourceUrl: "https://wqad.com/2020/01/15/theres-a-new-obstacle-to-landing-a-job-after-college-getting-approved-by-ai/"
-ampUrl: "https://wqad.com/2020/01/15/theres-a-new-obstacle-to-landing-a-job-after-college-getting-approved-by-ai/amp/"
-cdnAmpUrl: "https://wqad-com.cdn.ampproject.org/c/s/wqad.com/2020/01/15/theres-a-new-obstacle-to-landing-a-job-after-college-getting-approved-by-ai/amp/"
+webUrl: "https://wqad.com/2020/01/15/theres-a-new-obstacle-to-landing-a-job-after-college-getting-approved-by-ai/"
+ampWebUrl: "https://wqad.com/2020/01/15/theres-a-new-obstacle-to-landing-a-job-after-college-getting-approved-by-ai/amp/"
+cdnAmpWebUrl: "https://wqad-com.cdn.ampproject.org/c/s/wqad.com/2020/01/15/theres-a-new-obstacle-to-landing-a-job-after-college-getting-approved-by-ai/amp/"
 type: article
 quality: 56
 heat: 56

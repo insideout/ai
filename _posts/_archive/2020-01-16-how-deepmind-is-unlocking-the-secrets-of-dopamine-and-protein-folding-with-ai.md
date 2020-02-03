@@ -3,9 +3,9 @@ category: news
 title: "How DeepMind is unlocking the secrets of dopamine and protein folding with AI"
 excerpt: "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition ..."
 publishedDateTime: 2020-01-16T00:23:00Z
-sourceUrl: "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/"
-ampUrl: "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/"
+webUrl: "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/"
+ampWebUrl: "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/"
 type: article
 quality: 101
 heat: 111
@@ -33,7 +33,7 @@ related:
   - title: "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique"
     excerpt: "An artificial intelligence learning technique has been used to make a breakthrough in understanding several previously unexplained features of the human brain Researchers at Google-owned DeepMind discovered that a recent development in computer science regarding reinforcement learning could be applied to how the brain’s dopamine system works."
     publishedDateTime: 2020-01-16T19:54:00Z
-    sourceUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html"
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html"
     type: article
     provider:
       name: Independent

@@ -3,9 +3,9 @@ category: news
 title: "Preferred Networks Releases Optuna v1.0, Open-source Hyperparameter Optimization Framework for Machine Learning"
 excerpt: "Main features of Optuna v1.0 include: Efficient hyperparameter tuning with state-of-the-art optimization algorithms Support for various machine learning libraries including PyTorch, TensorFlow ..."
 publishedDateTime: 2020-01-14T04:00:00Z
-sourceUrl: "https://markets.businessinsider.com/news/stocks/preferred-networks-releases-optuna-v1-0-open-source-hyperparameter-optimization-framework-for-machine-learning-1028814375"
-ampUrl: "https://markets.businessinsider.com/amp/news/preferred-networks-releases-optuna-v1-0-open-source-hyperparameter-optimization-framework-for-machine-learning-1028814375"
-cdnAmpUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/preferred-networks-releases-optuna-v1-0-open-source-hyperparameter-optimization-framework-for-machine-learning-1028814375"
+webUrl: "https://markets.businessinsider.com/news/stocks/preferred-networks-releases-optuna-v1-0-open-source-hyperparameter-optimization-framework-for-machine-learning-1028814375"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/preferred-networks-releases-optuna-v1-0-open-source-hyperparameter-optimization-framework-for-machine-learning-1028814375"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/preferred-networks-releases-optuna-v1-0-open-source-hyperparameter-optimization-framework-for-machine-learning-1028814375"
 type: article
 quality: 34
 heat: 34

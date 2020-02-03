@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence in Healthcare – Global Industry Size, Share, Opportunity, Trends & Forecast to 2030"
 excerpt: "In this Artificial Intelligence in Healthcare Market – Global Industry Analysis & Forecast to 2030 research report, the central factors driving the advancement of this industry were recorded and the business accessories and end overseers were indulgent."
 publishedDateTime: 2020-01-08T12:11:00Z
-sourceUrl: https://www.openpr.com/news/1891892/artificial-intelligence-in-healthcare-global-industry
+webUrl: https://www.openpr.com/news/1891892/artificial-intelligence-in-healthcare-global-industry
 type: article
 quality: 16
 heat: 16

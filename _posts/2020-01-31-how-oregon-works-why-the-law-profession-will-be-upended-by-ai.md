@@ -3,7 +3,7 @@ category: news
 title: "How Oregon Works: Why the law profession will be upended by AI"
 excerpt: "How do you see artificial intelligence and other automation trends affecting your industry? Technology is changing how we practice and how we work with clients on legal issues. One of the most costly aspects of engaging a lawyer is the cost of reviewing thousands of documents — whether it’s an M&A transaction in due diligence or it’s litigation — and AI technology now allows for the review of these documents in a much more efficient and cost-effective way."
 publishedDateTime: 2020-01-31T19:56:00Z
-sourceUrl: "https://www.bizjournals.com/portland/news/2020/01/31/how-oregon-works-why-the-law-profession-will-be.html"
+webUrl: "https://www.bizjournals.com/portland/news/2020/01/31/how-oregon-works-why-the-law-profession-will-be.html"
 type: article
 quality: 37
 heat: -1
@@ -26,7 +26,7 @@ related:
   - title: "How Oregon Works: AI evolution is changing work for humans and machines"
     excerpt: "The field of artificial intelligence has evolved as computing and storage prices have come down and the amount of data created by smart devices has gone up. Infrastructure from Google Cloud and Amazon Web Services and other tech giants mean more people now have access."
     publishedDateTime: 2020-01-30T22:09:00Z
-    sourceUrl: "https://www.bizjournals.com/portland/news/2020/01/30/how-oregon-works-ai-evolution-is-changing-work-for.html"
+    webUrl: "https://www.bizjournals.com/portland/news/2020/01/30/how-oregon-works-ai-evolution-is-changing-work-for.html"
     type: article
     provider:
       name: The Business Journals

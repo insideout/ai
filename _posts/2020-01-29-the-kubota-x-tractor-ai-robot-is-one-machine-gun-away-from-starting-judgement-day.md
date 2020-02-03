@@ -3,7 +3,7 @@ category: news
 title: "The Kubota X Tractor AI Robot Is One Machine Gun Away From Starting Judgement Day"
 excerpt: "A completely autonomous tractor fitted with artificial intelligence and an electric powertrain with in-wheel motors and a ... According to the Japanese company, their latest robot tractor concept can drive itself on uneven terrains thanks its crawlers and can alter its height depending on the conditions. If more traction is required, the ..."
 publishedDateTime: 2020-01-29T23:58:00Z
-sourceUrl: "https://www.carscoops.com/2020/01/the-kubota-x-tractor-ai-robot-is-one-machine-gun-away-from-starting-judgement-day/"
+webUrl: "https://www.carscoops.com/2020/01/the-kubota-x-tractor-ai-robot-is-one-machine-gun-away-from-starting-judgement-day/"
 type: article
 quality: 29
 heat: 29

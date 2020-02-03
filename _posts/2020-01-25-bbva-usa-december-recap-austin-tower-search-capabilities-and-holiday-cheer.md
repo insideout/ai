@@ -3,7 +3,7 @@ category: news
 title: "BBVA USA December Recap: Austin tower, search capabilities and holiday cheer"
 excerpt: "Last month, the bank also announced that it was one of a few companies that participated in the beta testing period for Yext Answers, a new natural language processing search engine that businesses can embed in their own websites and use to provide brand-verified answers. The search engine product – now available – is integrated into BBVA ..."
 publishedDateTime: 2020-01-25T08:33:00Z
-sourceUrl: "https://kdhnews.com/news/texas/bbva-usa-december-recap-austin-tower-search-capabilities-and-holiday/article_483e2160-4e87-51ef-9101-228312065df8.html"
+webUrl: "https://kdhnews.com/news/texas/bbva-usa-december-recap-austin-tower-search-capabilities-and-holiday/article_483e2160-4e87-51ef-9101-228312065df8.html"
 type: article
 quality: 1
 heat: 1

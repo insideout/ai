@@ -3,7 +3,7 @@ category: news
 title: "VMware Cloud on AWS implementation best practice: How to accelerate benefits with upfront planning"
 excerpt: "Another popular use case is leveraging AWS integrated apps to perform early predictive analytics, access artificial intelligence (AI), and utilise machine learning capabilities to develop unstructured and semi-structured data to yield actionable market and business analysis. VMware Cloud in AWS opens up integrations and reduces latency between ..."
 publishedDateTime: 2020-01-08T09:54:00Z
-sourceUrl: "https://www.cloudcomputing-news.net/news/2020/jan/08/vmware-cloud-aws-implementation-best-practice-how-accelerate-benefits-upfront-planning/"
+webUrl: "https://www.cloudcomputing-news.net/news/2020/jan/08/vmware-cloud-aws-implementation-best-practice-how-accelerate-benefits-upfront-planning/"
 type: article
 quality: 25
 heat: 25

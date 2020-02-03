@@ -3,9 +3,9 @@ category: news
 title: "We’re blowing it with self-driving car safety reporting, Cruise says"
 excerpt: "Next month, California’s Department of Motor Vehicles will release the latest batch of reports from companies testing self-driving vehicles in the state. But the reports offer, at best ..."
 publishedDateTime: 2020-01-17T13:01:00Z
-sourceUrl: "https://www.theverge.com/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car"
-ampUrl: "https://www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car"
-cdnAmpUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car"
+webUrl: "https://www.theverge.com/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car"
+ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car"
 type: article
 quality: 74
 heat: -1
@@ -33,9 +33,9 @@ related:
   - title: "Riding in a self-driving car is the best way to end CES 2020"
     excerpt: "That term \"self-driving\" is used way too freely. No matter what your best friend or some guy on Twitter or a dancing CEO tells you, there are no self-driving cars for sale today. We have advanced ..."
     publishedDateTime: 2020-01-10T21:51:00Z
-    sourceUrl: "https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/"
-    ampUrl: "https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
-    cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
+    webUrl: "https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
     type: article
     provider:
       name: CNET
@@ -48,9 +48,9 @@ related:
   - title: "Self-driving car development is booming, but don't expect the government to regulate it"
     excerpt: "The DOT and NHTSA under Elaine Chao plan to let self-driving car developers regulate themselves. Transportation Secretary Elaine Chao outlined her agency's plan for self-driving car regulations ..."
     publishedDateTime: 2020-01-08T01:13:00Z
-    sourceUrl: "https://www.cnet.com/roadshow/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
-    ampUrl: "https://www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
-    cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
+    webUrl: "https://www.cnet.com/roadshow/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
     type: article
     provider:
       name: CNET
@@ -63,7 +63,7 @@ related:
   - title: "Behind the Scenes With Aptiv’s Self-Driving Car Nerve Center at CES 2020"
     excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading ..."
     publishedDateTime: 2020-01-07T18:24:00Z
-    sourceUrl: "https://www.extremetech.com/extreme/304158-behind-the-scenes-wtih-aptivs-self-driving-car-nerve-center-at-ces-2020"
+    webUrl: "https://www.extremetech.com/extreme/304158-behind-the-scenes-wtih-aptivs-self-driving-car-nerve-center-at-ces-2020"
     type: article
     provider:
       name: ExtremeTech

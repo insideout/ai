@@ -3,7 +3,7 @@ category: news
 title: "Podcast: Spell startup looks to bring AI to the people"
 excerpt: "explained to AI Podcast host Noah Kravitz how he’s bringing compute power to those that don’t have easy access to GPU clusters. We want to empower and transform the global workforce by making deep learning and artificial intelligence accessible to everyone. We believe that as organizations and individuals can harness the power of machine ..."
 publishedDateTime: 2020-01-23T16:22:00Z
-sourceUrl: "https://insidehpc.com/2020/01/podcast-spell-startup-looks-to-bring-ai-to-the-people/"
+webUrl: "https://insidehpc.com/2020/01/podcast-spell-startup-looks-to-bring-ai-to-the-people/"
 type: article
 quality: 41
 heat: 41

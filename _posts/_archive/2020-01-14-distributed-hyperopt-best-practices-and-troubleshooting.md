@@ -3,7 +3,7 @@ category: news
 title: "Distributed Hyperopt Best Practices and Troubleshooting"
 excerpt: "Here are a few things that help you get the most out of using Hyperopt: Bayesian approaches can be much more efficient than grid search and random search. Hence, with the Hyperopt Tree of Parzen Estimators (TPE) algorithm, it is often possible to explore more hyperparameters and larger ranges. However, if you can use domain knowledge to ..."
 publishedDateTime: 2020-01-14T23:10:00Z
-sourceUrl: "https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/automl/hyperopt/hyperopt-best-practices"
+webUrl: "https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/automl/hyperopt/hyperopt-best-practices"
 type: article
 quality: 24
 heat: 24

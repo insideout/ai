@@ -3,9 +3,9 @@ category: news
 title: "Google brings cross-platform AI pipeline framework MediaPipe to the web"
 excerpt: "Basically, it’s a quick and dirty way to perform object detection, face detection, hand tracking, multi-hand tracking, hair segmentation, and other such tasks in a modular fashion, with popular machine learning frameworks like Google’s own TensorFlow and TensorFlow Lite. MediaPipe could previously be deployed to desktop, mobile devices ..."
 publishedDateTime: 2020-01-28T20:25:00Z
-sourceUrl: "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/"
-ampUrl: "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/"
+webUrl: "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/"
+ampWebUrl: "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/"
 type: article
 quality: 89
 heat: 89

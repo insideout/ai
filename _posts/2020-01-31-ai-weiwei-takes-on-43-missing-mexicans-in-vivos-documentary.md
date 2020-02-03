@@ -3,7 +3,7 @@ category: news
 title: "Ai Weiwei Takes On 43 Missing Mexicans In 'Vivos' Documentary"
 excerpt: "He's talking about Britain's decision to allow Huawei to build up to 35% of the country's 5G phone network. Why a major loss? Let's start with national security. David Adelman was on the National Security Council under President Obama. He now runs an Internet research project at MIT. DAVID ADELMAN: The administration's case goes like this."
 publishedDateTime: 2020-01-31T01:16:00Z
-sourceUrl: "https://www.kmuw.org/post/ai-weiwei-takes-43-missing-mexicans-vivos-documentary"
+webUrl: "https://www.kmuw.org/post/ai-weiwei-takes-43-missing-mexicans-vivos-documentary"
 type: article
 quality: 37
 heat: 37

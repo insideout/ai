@@ -3,7 +3,7 @@ category: news
 title: "Spies Like AI: The Future of Artificial Intelligence for the U.S. Intelligence Community"
 excerpt: "But concern is rising, in 2017, researchers at MIT showed how easy it was to fool neural networks with 3D-printed objects by just slightly changing the texture. It’s an issue that some in the intelligence community are beginning to talk about as well with the rise of new tools such as general adversarial networks. The National Institute of ..."
 publishedDateTime: 2020-01-28T15:00:00Z
-sourceUrl: "https://www.nextgov.com/emerging-tech/2020/01/spies-ai-future-artificial-intelligence-us-intelligence-community/162683/"
+webUrl: "https://www.nextgov.com/emerging-tech/2020/01/spies-ai-future-artificial-intelligence-us-intelligence-community/162683/"
 type: article
 quality: 47
 heat: -1
@@ -28,7 +28,7 @@ related:
   - title: "Building a business intelligence dashboard for your Amazon Lex bots"
     excerpt: "You’ve rolled out a conversational interface powered by Amazon Lex, with a goal of improving the user experience for your customers. Now you want to track how well it’s working. Are your customers finding it helpful? How are they using it? Do they like it enough to come back? How can you analyze their"
     publishedDateTime: 2020-01-28T22:55:31Z
-    sourceUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-business-intelligence-dashboard-for-your-amazon-lex-bots/"
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-business-intelligence-dashboard-for-your-amazon-lex-bots/"
     type: article
     provider:
       name: AWS
@@ -41,7 +41,7 @@ related:
   - title: "The Case for Integrating Dark Web Intelligence Into Your Daily Operations"
     excerpt: "With the assistance of artificial intelligence (AI) to manage and make sense of all these data points, you can certainly create a good defensive perimeter and take remediation steps if you identify gaps in your network. It’s the second, third and fourth clusters that may require some tailoring and additional resources. Certain service ..."
     publishedDateTime: 2020-01-30T14:06:00Z
-    sourceUrl: "https://securityintelligence.com/articles/the-case-for-integrating-dark-web-intelligence-into-your-daily-operations/"
+    webUrl: "https://securityintelligence.com/articles/the-case-for-integrating-dark-web-intelligence-into-your-daily-operations/"
     type: article
     provider:
       name: Hack
@@ -54,7 +54,7 @@ related:
   - title: "Talkdesk Wins 2020 Innovation Award From Business Intelligence Group"
     excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Talkdesk®, Inc., the cloud contact center for innovative enterprises, today announced it has been named a winner in the 2020 BIG Innovation Awards presented by the Business Intelligence Group. Talkdesk is recognized for Talkdesk iQ™, native artificial intelligence (AI) that is infused throughout the Talkdesk ..."
     publishedDateTime: 2020-01-22T18:50:00Z
-    sourceUrl: "https://www.businesswire.com/news/home/20200122005136/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200122005136/en/"
     type: article
     provider:
       name: Business Wire

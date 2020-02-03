@@ -1,7 +1,7 @@
 ---
 title: "Mathematics for Machine Learning: Linear Algebra"
 excerpt: "Learn Mathematics for Machine Learning: Linear Algebra from Imperial College London. In this course on Linear Algebra we look at what linear algebra is and how it relates to vectors and matrices. Then we look through what vectors and matrices are ..."
-sourceUrl: https://www.coursera.org/learn/linear-algebra-machine-learning
+webUrl: https://www.coursera.org/learn/linear-algebra-machine-learning
 type: course
 price: Free+
 length: 22 hours

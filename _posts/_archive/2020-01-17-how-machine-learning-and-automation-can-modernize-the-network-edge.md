@@ -3,7 +3,7 @@ category: news
 title: "How machine learning and automation can modernize the network edge"
 excerpt: "A data-rich, highly dynamic, dispersed infrastructure is the perfect environment for artificial intelligence, specifically machine learning. The great strength of machine learning is the ability to find meaningful patterns in massive amounts of data that far outstrip the capabilities of network operators. Machine learning-based tools can self ..."
 publishedDateTime: 2020-01-17T21:51:00Z
-sourceUrl: "https://siliconangle.com/2020/01/17/machine-learning-automation-can-modernize-network-edge/"
+webUrl: "https://siliconangle.com/2020/01/17/machine-learning-automation-can-modernize-network-edge/"
 type: article
 quality: 43
 heat: 43
@@ -29,7 +29,7 @@ related:
   - title: "How Automation and Artificial Intelligence Can Boost Cybersecurity"
     excerpt: "And while there are many tools available to stop them, there is a lot of space for improvement. Especially if you take automation into account. Machine learning and artificial intelligence are playing a significant role in cybersecurity. Automation tools can prevent, detect, and deal with tons of cyber threats way more efficiently and faster ..."
     publishedDateTime: 2020-01-20T22:45:00Z
-    sourceUrl: "https://roboticsandautomationnews.com/2020/01/20/how-automation-and-artificial-intelligence-can-boost-cybersecurity/28824/"
+    webUrl: "https://roboticsandautomationnews.com/2020/01/20/how-automation-and-artificial-intelligence-can-boost-cybersecurity/28824/"
     type: article
     provider:
       name: Robotics & Automation News

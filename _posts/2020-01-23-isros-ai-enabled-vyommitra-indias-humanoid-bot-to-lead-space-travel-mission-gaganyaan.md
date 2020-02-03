@@ -3,9 +3,9 @@ category: news
 title: "ISRO’s AI-enabled Vyommitra: India’s humanoid bot to lead space travel mission Gaganyaan"
 excerpt: "Artificial Intelligence (AI) tools shall be used inside the humanoid ... of series of electro-elastic linear and rotary actuators so as to emulate human functions. The head part houses microprocessor chips and various other sensor suites. The power supply of Vyommitra shall be from a source in astronauts chair and with some battery backup ..."
 publishedDateTime: 2020-01-23T11:54:00Z
-sourceUrl: "https://www.financialexpress.com/lifestyle/science/isro-gaganyaan-vyomamitra-vyomnauts-lady-robot-space-mission/1832947/"
-ampUrl: "https://www.financialexpress.com/lifestyle/science/isro-gaganyaan-vyomamitra-vyomnauts-lady-robot-space-mission/1832947/lite/"
-cdnAmpUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/science/isro-gaganyaan-vyomamitra-vyomnauts-lady-robot-space-mission/1832947/lite/"
+webUrl: "https://www.financialexpress.com/lifestyle/science/isro-gaganyaan-vyomamitra-vyomnauts-lady-robot-space-mission/1832947/"
+ampWebUrl: "https://www.financialexpress.com/lifestyle/science/isro-gaganyaan-vyomamitra-vyomnauts-lady-robot-space-mission/1832947/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/science/isro-gaganyaan-vyomamitra-vyomnauts-lady-robot-space-mission/1832947/lite/"
 type: article
 quality: 30
 heat: 30

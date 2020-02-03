@@ -3,9 +3,9 @@ category: news
 title: "NA Proactive news snapshot: Cultivar Holdings, Dyadic, Imagination Park, Genprex UPDATE"
 excerpt: "Cultivar's PredictMedix is an artificial intelligence-powered technology that uses facial and voice recognition ... a tumor suppressor gene and the active agent in Genprex’s Oncoprex immunogene therapy, is a potential target and biomarker for thyroid carcinoma. Published in the ‘International Journal of Molecular Sciences,’ the study ..."
 publishedDateTime: 2020-01-29T17:11:00Z
-sourceUrl: "https://www.proactiveinvestors.com/companies/news/911766/na-proactive-news-snapshot-cultivar-holdings-dyadic-imagination-park-genprex-update--911766.html"
-ampUrl: "https://www.proactiveinvestors.com/companies/amp/news/911766"
-cdnAmpUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/911766"
+webUrl: "https://www.proactiveinvestors.com/companies/news/911766/na-proactive-news-snapshot-cultivar-holdings-dyadic-imagination-park-genprex-update--911766.html"
+ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/911766"
+cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/911766"
 type: article
 quality: 36
 heat: 36

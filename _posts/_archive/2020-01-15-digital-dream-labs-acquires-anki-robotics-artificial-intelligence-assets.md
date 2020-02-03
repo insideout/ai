@@ -3,7 +3,7 @@ category: news
 title: "Digital Dream Labs Acquires Anki Robotics & Artificial Intelligence Assets"
 excerpt: "/PRNewswire/ -- Digital Dream Labs announced today it has acquired Anki Robotics and Artificial Intelligence assets without taking on any"
 publishedDateTime: 2020-01-15T18:46:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/digital-dream-labs-acquires-anki-robotics--artificial-intelligence-assets-300987766.html"
+webUrl: "https://www.prnewswire.com/news-releases/digital-dream-labs-acquires-anki-robotics--artificial-intelligence-assets-300987766.html"
 type: article
 quality: 67
 heat: 67

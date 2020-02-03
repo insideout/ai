@@ -3,7 +3,7 @@ category: news
 title: "Here Is How Artificial Intelligence Can Make Blogging More Productive"
 excerpt: "While marketers have been continually using the best possible strategies to improve the existing global blogging landscape, the inclusion of artificial intelligence has taken the ballgame to a whole different level. Moreover, blogging is one marketing activity that needs to be initiated flawlessly for massive returns and any deviation from the ..."
 publishedDateTime: 2020-01-20T17:10:00Z
-sourceUrl: "https://www.smartdatacollective.com/how-artificial-intelligence-can-make-blogging-more-productive/"
+webUrl: "https://www.smartdatacollective.com/how-artificial-intelligence-can-make-blogging-more-productive/"
 type: article
 quality: 37
 heat: 37

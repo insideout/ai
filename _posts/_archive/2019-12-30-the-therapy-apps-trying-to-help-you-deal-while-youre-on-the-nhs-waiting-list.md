@@ -3,9 +3,9 @@ category: news
 title: "The Therapy Apps Trying To Help You Deal While You’re On The NHS Waiting List"
 excerpt: "Mental health problems are on the rise, with some people in the UK having to wait for up to two years to receive therapeutic treatment. With many being forced to take matters into their own hands, therapy apps could help provide those in need with a cheap ..."
 publishedDateTime: 2019-12-30T00:00:00Z
-sourceUrl: https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence
-ampUrl: https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence
-cdnAmpUrl: https://www-refinery29-com.cdn.ampproject.org/c/s/www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence
+webUrl: https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence
+ampWebUrl: https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence
+cdnAmpWebUrl: https://www-refinery29-com.cdn.ampproject.org/c/s/www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence
 type: article
 quality: 71
 heat: 71

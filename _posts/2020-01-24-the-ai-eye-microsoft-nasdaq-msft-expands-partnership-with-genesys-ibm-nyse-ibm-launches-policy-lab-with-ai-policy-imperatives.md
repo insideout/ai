@@ -3,7 +3,7 @@ category: news
 title: "The AI Eye: Microsoft (Nasdaq: MSFT) Expands Partnership with Genesys, IBM (NYSE: IBM) Launches Policy Lab with AI Policy Imperatives"
 excerpt: "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft's Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" Designate a lead ..."
 publishedDateTime: 2020-01-24T18:26:00Z
-sourceUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/01241AIEye-MSFT-IBM.asp"
+webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/01241AIEye-MSFT-IBM.asp"
 type: article
 quality: 25
 heat: 25

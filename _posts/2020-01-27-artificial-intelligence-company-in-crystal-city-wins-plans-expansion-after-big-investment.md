@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence Company in Crystal City Wins Plans Expansion After Big Investment"
 excerpt: "Scoutbee, a tech company based in Crystal City, is looking to scale up after winning $60 million in a round of investment funding. The company builds software that links artificial intelligence (AI) technology and big data to create more efficient supply shipments. The technology can track trends and make predictions based on extensive data ..."
 publishedDateTime: 2020-01-27T17:04:00Z
-sourceUrl: "https://www.arlnow.com/2020/01/27/artificial-intelligence-company-in-crystal-city-wins-big-investment/"
+webUrl: "https://www.arlnow.com/2020/01/27/artificial-intelligence-company-in-crystal-city-wins-big-investment/"
 type: article
 quality: 28
 heat: -1
@@ -26,9 +26,9 @@ related:
   - title: "Tech firm, after $75M investment, plots global expansion"
     excerpt: "uses artificial intelligence and machine learning to analyze customer interactions via call centers and other channels. That analysis provides its more than 400 clients — which include some of the world’s largest brands, financial institutions and communications companies — with actionable recommendations for improving customer service ..."
     publishedDateTime: 2020-01-24T11:38:00Z
-    sourceUrl: "https://www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion"
-    ampUrl: "https://www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion?amp"
-    cdnAmpUrl: "https://www-businessobserverfl-com.cdn.ampproject.org/c/s/www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion?amp"
+    webUrl: "https://www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion"
+    ampWebUrl: "https://www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion?amp"
+    cdnAmpWebUrl: "https://www-businessobserverfl-com.cdn.ampproject.org/c/s/www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion?amp"
     type: article
     provider:
       name: Business Observer
@@ -41,7 +41,7 @@ related:
   - title: "AI-driven fintech set to expand team after securing £2.5m investment"
     excerpt: "An AI-driven software as a service (SaaS) business has secured multi-million pound investment to propel its expansion. London-based fintech FeedStock has raised £2.5m in a funding round led by Praetura Ventures. Founded in 2015 and is run by co-founders and joint managing directors Charlie Henderson and Lucas Wurfbain, FeedStock Based in ..."
     publishedDateTime: 2020-01-20T15:08:00Z
-    sourceUrl: "https://bdaily.co.uk/articles/2020/01/20/ai-driven-fintech-set-to-expand-team-after-securing-25m-investment"
+    webUrl: "https://bdaily.co.uk/articles/2020/01/20/ai-driven-fintech-set-to-expand-team-after-securing-25m-investment"
     type: article
     provider:
       name: Bdaily Business Network
@@ -54,7 +54,7 @@ related:
   - title: "Axel Maier joins welath investment AI startup MDOTM"
     excerpt: "His knowledge of the asset management industry will be key in speeding up the international expansion of the Fintech company, which - after the 2018 series A funding - managed a rapid expansion in Europe thanks to its cutting-edge investment solutions that use AI to adapt to the financial markets’ complexity and to the customization needs of ..."
     publishedDateTime: 2020-01-27T12:22:00Z
-    sourceUrl: "https://www.finextra.com/pressarticle/81256/axel-maier-joins-welath-investment-ai-startup-mdotm"
+    webUrl: "https://www.finextra.com/pressarticle/81256/axel-maier-joins-welath-investment-ai-startup-mdotm"
     type: article
     provider:
       name: Finextra

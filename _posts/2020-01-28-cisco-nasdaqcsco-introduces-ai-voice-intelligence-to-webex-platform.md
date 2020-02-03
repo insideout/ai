@@ -3,7 +3,7 @@ category: news
 title: "Cisco (Nasdaq:CSCO) Introduces AI Voice Intelligence to Webex Platform"
 excerpt: "The press release indicates that these developments were spurred by Cisco's recent acquisition of software company Voicea, which itself leverages AI-powered voice recognition to power AI assistants. Sri Srinivasan, Senior Vice President and General Manager, Team Collaboration at Cisco, explained: \"Voicea users have reported saving more than six ..."
 publishedDateTime: 2020-01-28T18:40:00Z
-sourceUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/01281AIEye-GOOG-ACN-IBM-CSCO.asp"
+webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/01281AIEye-GOOG-ACN-IBM-CSCO.asp"
 type: article
 quality: 39
 heat: 39

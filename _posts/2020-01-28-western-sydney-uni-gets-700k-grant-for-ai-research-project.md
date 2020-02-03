@@ -3,7 +3,7 @@ category: news
 title: "Western Sydney Uni gets $700K grant for AI research project"
 excerpt: "Do you want to leverage data governance as an enabler?Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics to the limits? With so much to keep on top of in such a rapidly changing technology space, collaboration is key to success."
 publishedDateTime: 2020-01-28T01:18:00Z
-sourceUrl: "https://itwire.com/strategy/western-sydney-uni-gets-$700k-grant-for-ai-research-project.html"
+webUrl: "https://itwire.com/strategy/western-sydney-uni-gets-$700k-grant-for-ai-research-project.html"
 type: article
 quality: 39
 heat: 39

@@ -3,9 +3,9 @@ category: news
 title: "AI and data analytics are a part of every loan sanctioned at Clix: Katerina Folkman, Head of AI and Analytics, Clix Capital"
 excerpt: "Data analytics is an integral part of everything Clix Capital does, says Katerina Folkman, head of AI and Analytics at the digital lending startup founded by Pramod Bhasin in 2016. The firm offers financing solutions across corporate finance, equipment finance and leasing, SME finance, consumer finance and housing finance, using technology to ..."
 publishedDateTime: 2020-01-21T19:51:00Z
-sourceUrl: "https://www.financialexpress.com/industry/ai-and-data-analytics-are-a-part-of-every-loan-sanctioned-at-clix-katerina-folkman-head-of-ai-and-analytics-clix-capital/1830788/"
-ampUrl: "https://www.financialexpress.com/industry/ai-and-data-analytics-are-a-part-of-every-loan-sanctioned-at-clix-katerina-folkman-head-of-ai-and-analytics-clix-capital/1830788/lite/"
-cdnAmpUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/ai-and-data-analytics-are-a-part-of-every-loan-sanctioned-at-clix-katerina-folkman-head-of-ai-and-analytics-clix-capital/1830788/lite/"
+webUrl: "https://www.financialexpress.com/industry/ai-and-data-analytics-are-a-part-of-every-loan-sanctioned-at-clix-katerina-folkman-head-of-ai-and-analytics-clix-capital/1830788/"
+ampWebUrl: "https://www.financialexpress.com/industry/ai-and-data-analytics-are-a-part-of-every-loan-sanctioned-at-clix-katerina-folkman-head-of-ai-and-analytics-clix-capital/1830788/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/ai-and-data-analytics-are-a-part-of-every-loan-sanctioned-at-clix-katerina-folkman-head-of-ai-and-analytics-clix-capital/1830788/lite/"
 type: article
 quality: 11
 heat: 11

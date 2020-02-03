@@ -3,7 +3,7 @@ category: news
 title: "Getting Started With AzureML Notebook VMs"
 excerpt: "TLDR; Azure Machine Learning (AML), a cloud-based environment you can use to train, deploy, automate, manage, and track ML models. In the following tutorial we will walk through how to set up an ..."
 publishedDateTime: 2019-12-24T00:00:00Z
-sourceUrl: https://medium.com/microsoftazure/getting-started-with-azureml-notebook-vms-f637b6e09ed4
+webUrl: https://medium.com/microsoftazure/getting-started-with-azureml-notebook-vms-f637b6e09ed4
 type: article
 quality: 69
 heat: 69

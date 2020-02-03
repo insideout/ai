@@ -3,7 +3,7 @@ category: news
 title: "Ontology-driven integrative analysis of omics data through Onassis"
 excerpt: "We introduce Onassis, an R package within the Bioconductor environment providing key functionalities of Natural Language Processing (NLP) tools. Leveraging biomedical ontologies, Onassis greatly simplifies the association of samples from large-scale repositories to their representation in terms of ontology-based annotations. Moreover ..."
 publishedDateTime: 2020-01-20T10:23:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-020-57716-1"
+webUrl: "https://www.nature.com/articles/s41598-020-57716-1"
 type: article
 quality: 24
 heat: 24

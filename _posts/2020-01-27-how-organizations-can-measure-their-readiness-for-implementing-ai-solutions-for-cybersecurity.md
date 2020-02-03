@@ -3,7 +3,7 @@ category: news
 title: "How Organizations Can Measure Their Readiness For Implementing AI Solutions For Cybersecurity"
 excerpt: "Technology today advances at the speed of light. New machines and inventions alight the horizon every day, and the brand new zenith in the age of technology is artificial intelligence (AI). Let’s see how enterprises today can measure their readiness for adoption and implementation of AI-based cybersecurity solutions. In simple terms ..."
 publishedDateTime: 2020-01-27T07:30:00Z
-sourceUrl: "https://www.entrepreneur.com/article/345540"
+webUrl: "https://www.entrepreneur.com/article/345540"
 type: article
 quality: 36
 heat: 36

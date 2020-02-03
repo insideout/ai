@@ -3,9 +3,9 @@ category: news
 title: "Novel artificial intelligence system reveals genes that drive tumor growth"
 excerpt: "By teaching the artificial intelligence system to link certain DNA mutations to altered functionality, a team led by Robert Hoehndorf from KAUST's Computational Bioscience Research Center showed that they could identify genes with a known causative role in cancer and pick out dozens of putative new ones for 20 different tumor types. The ..."
 publishedDateTime: 2020-01-21T17:48:00Z
-sourceUrl: "https://www.news-medical.net/news/20200121/Novel-artificial-intelligence-system-reveals-genes-that-drive-tumor-growth.aspx"
-ampUrl: "https://www.news-medical.net/amp/news/20200121/Novel-artificial-intelligence-system-reveals-genes-that-drive-tumor-growth.aspx"
-cdnAmpUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200121/Novel-artificial-intelligence-system-reveals-genes-that-drive-tumor-growth.aspx"
+webUrl: "https://www.news-medical.net/news/20200121/Novel-artificial-intelligence-system-reveals-genes-that-drive-tumor-growth.aspx"
+ampWebUrl: "https://www.news-medical.net/amp/news/20200121/Novel-artificial-intelligence-system-reveals-genes-that-drive-tumor-growth.aspx"
+cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200121/Novel-artificial-intelligence-system-reveals-genes-that-drive-tumor-growth.aspx"
 type: article
 quality: 55
 heat: 55

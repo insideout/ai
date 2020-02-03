@@ -3,7 +3,7 @@ category: news
 title: "Deep learning interpretation of echocardiograms"
 excerpt: "One common critique of deep learning models on medical imaging datasets is the “black-box” nature of the predictions and the inability to understand the models ability to identity relevant features. In addition to showing the predictive performance of our methods, we validate the model’s predictions by highlighting important biologically ..."
 publishedDateTime: 2020-01-24T13:08:00Z
-sourceUrl: "https://www.nature.com/articles/s41746-019-0216-8"
+webUrl: "https://www.nature.com/articles/s41746-019-0216-8"
 type: article
 quality: 39
 heat: 39
@@ -27,7 +27,7 @@ related:
   - title: "A Multi-Omics Interpretable Machine Learning Model Reveals Modes of Action of Small Molecules"
     excerpt: "We developed an approach for uncovering MoAs through an interpretable machine learning model of transcriptomics, epigenomics, metabolomics, and proteomics. Examining compounds with beneficial effects in models of Huntington’s Disease, we found common MoAs for compounds with unrelated structures, connectivity scores, and binding targets."
     publishedDateTime: 2020-01-22T10:51:00Z
-    sourceUrl: "https://www.nature.com/articles/s41598-020-57691-7"
+    webUrl: "https://www.nature.com/articles/s41598-020-57691-7"
     type: article
     provider:
       name: Nature

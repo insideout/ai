@@ -3,9 +3,9 @@ category: news
 title: "AI Startup Eightfold Hires First Finance Chief As it Eyes Expansion, Potential IPO"
 excerpt: "The Mountain View, Calif.-based startup last week named Celia Poon as its finance chief."
 publishedDateTime: 2020-01-22T23:47:00Z
-sourceUrl: "https://www.wsj.com/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520?mod=business_minor_pos13"
-ampUrl: "https://www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520"
-cdnAmpUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520"
+webUrl: "https://www.wsj.com/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520?mod=business_minor_pos13"
+ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520"
 type: article
 quality: 81
 heat: -1
@@ -32,9 +32,9 @@ related:
   - title: "AI Startup Eightfold Hires First Finance Chief As it Eyes Expansion, Potential IPO"
     excerpt: "The Mountain View, Calif.-based startup last week named Celia Poon as its finance chief."
     publishedDateTime: 2020-01-23T03:52:00Z
-    sourceUrl: "https://www.wsj.com/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520"
-    ampUrl: "https://www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520"
-    cdnAmpUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520"
+    webUrl: "https://www.wsj.com/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520"
     type: article
     provider:
       name: Wall Street Journal

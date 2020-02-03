@@ -3,9 +3,9 @@ category: news
 title: "Intel Stock May Not Be Trendy, But It’ll Work in 2020"
 excerpt: "to a force to be reckoned with today that is rapidly growing share in the most important niches of the CPU and GPU markets. At the same time, Nvidia has turned into an “AI everything” company, and is basically the go-to graphics suppliers for all of tomorrow’s most important markets. Investors like those narratives. That’s why ..."
 publishedDateTime: 2020-01-17T16:00:00Z
-sourceUrl: "https://investorplace.com/2020/01/intel-stock-may-not-be-trendy-but-itll-work-in-2020/?mod=mw_quote_news"
-ampUrl: "https://investorplace.com/2020/01/intel-stock-may-not-be-trendy-but-itll-work-in-2020/amp/"
-cdnAmpUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/intel-stock-may-not-be-trendy-but-itll-work-in-2020/amp/"
+webUrl: "https://investorplace.com/2020/01/intel-stock-may-not-be-trendy-but-itll-work-in-2020/?mod=mw_quote_news"
+ampWebUrl: "https://investorplace.com/2020/01/intel-stock-may-not-be-trendy-but-itll-work-in-2020/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/intel-stock-may-not-be-trendy-but-itll-work-in-2020/amp/"
 type: article
 quality: 44
 heat: 44

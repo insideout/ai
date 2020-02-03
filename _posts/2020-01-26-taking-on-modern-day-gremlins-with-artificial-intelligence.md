@@ -3,9 +3,9 @@ category: news
 title: "Taking on Modern Day Gremlins With Artificial Intelligence"
 excerpt: "With so much data to check and double-check, maybe artificial intelligence (AI) can help stop these “gremlins” from wreaking havoc online. Perhaps the most iconic World War II cartoon is the Warner Bros. episode “Falling Hare.” Bugs Bunny pooh-poohs the notion of gremlins committing sabotage on the Allied war effort, until those little ..."
 publishedDateTime: 2020-01-26T12:00:00Z
-sourceUrl: "https://observer.com/2020/01/anodot-artificial-intelligence-online-glitches/"
-ampUrl: "https://observer.com/2020/01/anodot-artificial-intelligence-online-glitches/amp/"
-cdnAmpUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/anodot-artificial-intelligence-online-glitches/amp/"
+webUrl: "https://observer.com/2020/01/anodot-artificial-intelligence-online-glitches/"
+ampWebUrl: "https://observer.com/2020/01/anodot-artificial-intelligence-online-glitches/amp/"
+cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/anodot-artificial-intelligence-online-glitches/amp/"
 type: article
 quality: 57
 heat: 57

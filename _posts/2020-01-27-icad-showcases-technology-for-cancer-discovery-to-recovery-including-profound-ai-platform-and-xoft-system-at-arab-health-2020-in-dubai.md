@@ -3,9 +3,9 @@ category: news
 title: "iCAD Showcases Technology for Cancer “Discovery to Recovery” including ProFound AI Platform and Xoft System at Arab Health 2020 in Dubai"
 excerpt: "(2018). Artificial Intelligence for Digital Breast Tomosynthesis – Reader Study Results. [White paper]. Accessed via https://www.icadmed.com/assets/dmm253-reader-studies-results-rev-a.pdf About iCAD, Inc. Headquartered in Nashua, NH, iCAD is a global medical technology leader providing innovative cancer detection and therapy solutions."
 publishedDateTime: 2020-01-27T12:00:00Z
-sourceUrl: "https://markets.businessinsider.com/news/stocks/icad-showcases-technology-for-cancer-discovery-to-recovery-including-profound-ai-platform-and-xoft-system-at-arab-health-2020-in-dubai-1028846356"
-ampUrl: "https://markets.businessinsider.com/amp/news/iCAD-Showcases-Technology-for-Cancer-Discovery-to-Recovery-including-ProFound-AI-Platform-and-Xoft-System-at-Arab-Health-2020-in-Dubai-1028846356"
-cdnAmpUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/iCAD-Showcases-Technology-for-Cancer-Discovery-to-Recovery-including-ProFound-AI-Platform-and-Xoft-System-at-Arab-Health-2020-in-Dubai-1028846356"
+webUrl: "https://markets.businessinsider.com/news/stocks/icad-showcases-technology-for-cancer-discovery-to-recovery-including-profound-ai-platform-and-xoft-system-at-arab-health-2020-in-dubai-1028846356"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/iCAD-Showcases-Technology-for-Cancer-Discovery-to-Recovery-including-ProFound-AI-Platform-and-Xoft-System-at-Arab-Health-2020-in-Dubai-1028846356"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/iCAD-Showcases-Technology-for-Cancer-Discovery-to-Recovery-including-ProFound-AI-Platform-and-Xoft-System-at-Arab-Health-2020-in-Dubai-1028846356"
 type: article
 quality: 36
 heat: 36

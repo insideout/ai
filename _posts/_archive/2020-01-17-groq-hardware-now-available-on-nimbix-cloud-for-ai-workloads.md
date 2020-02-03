@@ -3,7 +3,7 @@ category: news
 title: "Groq Hardware Now Available on Nimbix Cloud for AI Workloads"
 excerpt: "The Groq processor is designed specifically for the performance requirements of computer vision, machine learning and other AI-related workloads, and is the first architecture in the world capable of 1 PetaOp/s performance on a single chip. Nimbix is the ..."
 publishedDateTime: 2020-01-17T17:46:00Z
-sourceUrl: "https://insidehpc.com/2020/01/groq-hardware-now-available-on-nimbix-cloud-for-ai-workloads/"
+webUrl: "https://insidehpc.com/2020/01/groq-hardware-now-available-on-nimbix-cloud-for-ai-workloads/"
 type: article
 quality: 39
 heat: 39

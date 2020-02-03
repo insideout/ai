@@ -3,7 +3,7 @@ category: news
 title: "KKBox’s new Microsoft deal includes plans for AI music"
 excerpt: "So yes, KKBox will be migrating its service to Microsoft’s Azure cloud platform, but the press release for the deal outlined another aspect to the companies’ collaboration. “KKBox will leverage Microsoft AI technology to build an AI-assisted music arrangement system and an AI-assisted lyric generator,” it explained. “In addition ..."
 publishedDateTime: 2020-01-06T20:09:00Z
-sourceUrl: https://musically.com/2020/01/06/kkboxs-new-microsoft-deal-includes-plans-for-ai-music/
+webUrl: https://musically.com/2020/01/06/kkboxs-new-microsoft-deal-includes-plans-for-ai-music/
 type: article
 quality: 54
 heat: 54

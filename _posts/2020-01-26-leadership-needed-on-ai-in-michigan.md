@@ -3,7 +3,7 @@ category: news
 title: "Leadership needed on AI in Michigan"
 excerpt: "Simply put, AI is the ability a computer or machine has to think and learn, using data and algorithms that mimic human cognition in performing tasks more quickly and cheaply, with more guaranteed outcomes. Increasingly, AI will be used by entrepreneurs, businesses, governments, educational institutions and nonprofits to lead productivity and ..."
 publishedDateTime: 2020-01-26T04:02:00Z
-sourceUrl: "https://www.crainsdetroit.com/other-voices/leadership-needed-ai-michigan"
+webUrl: "https://www.crainsdetroit.com/other-voices/leadership-needed-ai-michigan"
 type: article
 quality: 37
 heat: 37

@@ -3,7 +3,7 @@ category: news
 title: "Automotive SoC Blends AI, PCIe, and Ethernet Switches"
 excerpt: "There are two sets of digital signal processors (DSPs), too, including two C7x DSPs and two C66x DSPs. The DSPs provide machine-learning (ML) support in addition to the CPUs and GPU. The chips can deliver 8 TOPS of ML performance. The GPU is designed to drive multiple screens in addition to large screens like the full-width displays that are ..."
 publishedDateTime: 2020-01-16T01:09:00Z
-sourceUrl: "https://www.electronicdesign.com/markets/automotive/article/21120574/automotive-soc-blends-ai-pcie-and-ethernet-switches"
+webUrl: "https://www.electronicdesign.com/markets/automotive/article/21120574/automotive-soc-blends-ai-pcie-and-ethernet-switches"
 type: article
 quality: 19
 heat: 19

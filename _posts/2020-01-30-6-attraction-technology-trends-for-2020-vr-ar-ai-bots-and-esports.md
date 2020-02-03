@@ -3,7 +3,7 @@ category: news
 title: "6 attraction technology trends for 2020: VR, AR, AI, bots and esports"
 excerpt: "Last year did not start well for robots. The Henn na chain of hotels in Japan ... An exhibition at the University of Oxford showcased art created by the world’s first ultra-realistic AI humanoid robot artist. Ai-Da uses a robotic arm and pencil to draw what she sees thanks to cameras in her eyeballs. AI algorithms, created by scientists ..."
 publishedDateTime: 2020-01-30T14:37:00Z
-sourceUrl: "https://blooloop.com/features/attraction-technology-trends-2020/"
+webUrl: "https://blooloop.com/features/attraction-technology-trends-2020/"
 type: article
 quality: 39
 heat: 39

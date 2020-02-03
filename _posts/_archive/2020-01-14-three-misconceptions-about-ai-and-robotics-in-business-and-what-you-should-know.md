@@ -3,9 +3,9 @@ category: news
 title: "Three Misconceptions About AI And Robotics In Business (And What You Should Know)"
 excerpt: "Robots can automate certain tasks and make certain processes more efficient, but at the end of the day, they are machines with hardware that wears down eventually."
 publishedDateTime: 2020-01-14T20:31:00Z
-sourceUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/14/three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know/"
-ampUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/14/three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/14/three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know/amp/"
+webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/14/three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know/"
+ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/14/three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/14/three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know/amp/"
 type: article
 quality: 116
 heat: 136
@@ -34,7 +34,7 @@ related:
   - title: "What you need to know about AI in 2020"
     excerpt: "‘Redeployment’ rather than ‘unemployment’ is what we should be thinking about. Debates over AI ethics will grow more fierce The spread of AI is commonly referred to as the newest industrial revolution. It has plenty of positive potential - for example, identifying images of missing children even as they age. But as AI continues to ..."
     publishedDateTime: 2020-01-17T05:40:00Z
-    sourceUrl: "https://www.bizcommunity.com/Article/196/726/199716.html"
+    webUrl: "https://www.bizcommunity.com/Article/196/726/199716.html"
     type: article
     provider:
       name: Bizcommunity
@@ -47,7 +47,7 @@ related:
   - title: "You should stop worrying about robots taking your job"
     excerpt: "Two 40-year old robots returned to the big screen this year ... Our fears about automation come down to three factors: machines will execute tasks more efficiently; machine learning will enable artificial intelligence (AI) to make complex decisions more effectively; and technology companies will sell software and algorithms to replace slow ..."
     publishedDateTime: 2020-01-20T06:11:00Z
-    sourceUrl: "https://www.wired.co.uk/article/robots-human-jobs"
+    webUrl: "https://www.wired.co.uk/article/robots-human-jobs"
     type: article
     provider:
       name: Wired UK

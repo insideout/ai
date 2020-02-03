@@ -3,7 +3,7 @@ category: news
 title: "Viewpoint: Problems with big tech entering healthcare"
 excerpt: "Amazon, Apple and Google are among the three companies that have made recent strides to enter the $3 trillion healthcare sector. Amazon is expanding its online pharmacy; Google is investing heavily in artificial intelligence and Apple is transforming its Apple Watch to include more medical features. While these initiatives may improve the ..."
 publishedDateTime: 2020-01-27T18:36:00Z
-sourceUrl: "https://www.beckershospitalreview.com/cybersecurity/viewpoint-problems-with-big-tech-entering-healthcare.html"
+webUrl: "https://www.beckershospitalreview.com/cybersecurity/viewpoint-problems-with-big-tech-entering-healthcare.html"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Nest is testing detecting HVAC problems with AI"
     excerpt: "Google today announced that it’s testing AI algorithms tailored to identify “unusual patterns” related to HVAC systems controlled by Nest, which can alert users to issues and put them in touch with a maintenance professional. Based on information like the thermostat’s historical data and current weather, Nest will learn to spot patterns ..."
     publishedDateTime: 2020-01-29T18:25:00Z
-    sourceUrl: "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/"
-    ampUrl: "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/"
-    cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/"
+    webUrl: "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/"
     type: article
     provider:
       name: VentureBeat
@@ -42,7 +42,7 @@ related:
   - title: "Concentric launches with a deep learning approach to fixing broken file permissions"
     excerpt: "Concentric Inc. launched today with $7.5 million in a Series A funding and an approach to document-level security that relies upon the artificial intelligence technique of deep learning to identify documents that are unprotected or inappropriately shared by analyzing their contents. The company, which was founded by an executive team with ..."
     publishedDateTime: 2020-01-29T22:08:00Z
-    sourceUrl: "https://siliconangle.com/2020/01/29/concentric-launches-stealth-deep-learning-approach-fixing-broken-file-permissions/"
+    webUrl: "https://siliconangle.com/2020/01/29/concentric-launches-stealth-deep-learning-approach-fixing-broken-file-permissions/"
     type: article
     provider:
       name: SiliconANGLE

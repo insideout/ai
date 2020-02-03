@@ -3,7 +3,7 @@ category: news
 title: "Catching sesame oil adulteration, with machine learning"
 excerpt: "Now, researchers from Yanshan University in China have developed a technique to speed up the testing of sesame oil samples based on a combination of 3D fluorescence spectroscopy and machine learning using AlexNet, a convolutional neural network or CNN. 3D fluorescence spectroscopy is already becoming a go-to technology for analysing oil samples ..."
 publishedDateTime: 2020-01-24T09:15:00Z
-sourceUrl: "https://www.securingindustry.com/food-and-beverage/catching-the-sesame-oil-counterfeiters-with-machine-learning/s104/a11243/"
+webUrl: "https://www.securingindustry.com/food-and-beverage/catching-the-sesame-oil-counterfeiters-with-machine-learning/s104/a11243/"
 type: article
 quality: 39
 heat: 39
@@ -27,7 +27,7 @@ related:
   - title: "Near Real-Time Wildfire Progression Monitoring with Sentinel-1 SAR Time Series and Deep Learning"
     excerpt: "In this communication, we investigated and demonstrated the potential of Sentinel-1 SAR time series with a deep learning framework for near real-time wildfire progression monitoring. The deep learning framework, based on a Convolutional Neural Network (CNN), is developed to detect burnt areas automatically using every new SAR image acquired ..."
     publishedDateTime: 2020-01-28T10:11:00Z
-    sourceUrl: "https://www.nature.com/articles/s41598-019-56967-x"
+    webUrl: "https://www.nature.com/articles/s41598-019-56967-x"
     type: article
     provider:
       name: Nature

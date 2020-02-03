@@ -3,9 +3,9 @@ category: news
 title: "Why TinyML is a giant opportunity"
 excerpt: "A vibrant TinyML community will lead to faster innovation as it increases awareness and adoption. We need more investments in open-source projects supporting TinyML (like the work Google is doing around TensorFlow for broader machine learning), since open source allows each contributor to build on top of the work of others to create thorough ..."
 publishedDateTime: 2020-01-11T22:22:00Z
-sourceUrl: "https://venturebeat.com/2020/01/11/why-tinyml-is-a-giant-opportunity/"
-ampUrl: "https://venturebeat.com/2020/01/11/why-tinyml-is-a-giant-opportunity/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/11/why-tinyml-is-a-giant-opportunity/amp/"
+webUrl: "https://venturebeat.com/2020/01/11/why-tinyml-is-a-giant-opportunity/"
+ampWebUrl: "https://venturebeat.com/2020/01/11/why-tinyml-is-a-giant-opportunity/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/11/why-tinyml-is-a-giant-opportunity/amp/"
 type: article
 quality: 74
 heat: 84
@@ -33,9 +33,9 @@ related:
   - title: "NRF 2020: For Retailers, Voice Recognition Is a Major Untapped Opportunity"
     excerpt: "Still, most retailers have struggled to harness voice recognition. That needs to change, Gauthier argued. People are increasingly demanding the ability to communicate digitally without using their hands, and retail brands that get in front of the trend will benefit greatly. “We learn to talk before we learn to type,” Gauthier said."
     publishedDateTime: 2020-01-16T21:46:00Z
-    sourceUrl: "https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity"
-    ampUrl: "https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp"
-    cdnAmpUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp"
+    webUrl: "https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity"
+    ampWebUrl: "https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp"
     type: article
     provider:
       name: BizTech

@@ -3,7 +3,7 @@ category: news
 title: "Raytheon building machine learning system that knows what it knows"
 excerpt: "CAMBRIDGE, Mass., Jan. 13, 2020 /PRNewswire/ -- Raytheon (NYSE: RTN) is developing a machine learning technology under a $6 million contract from the Defense Advanced Research Projects Agency for the Competency Aware Machine Learning program. Systems will ..."
 publishedDateTime: 2020-01-13T13:55:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/2020/01/13/9080276.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2020/01/13/9080276.htm"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Raytheon tapped for self-evaluating machine learning system"
     excerpt: "Jan. 13 (UPI) --Raytheon Co. announced on Monday it has begun work on a machine-learning technology allowing machines to teach machines through artificial intelligence use. The $6 million contract is one of four, valued at a total of $20.9 million, between the U.S. Defense Research Projects Agency and Raytheon BBN Technologies, SRI ..."
     publishedDateTime: 2020-01-13T18:50:00Z
-    sourceUrl: "https://www.upi.com/Defense-News/2020/01/13/Raytheon-tapped-for-self-evaluating-machine-learning-system/4541578937214/"
-    ampUrl: "https://www.upi.com/amp/Defense-News/2020/01/13/Raytheon-tapped-for-self-evaluating-machine-learning-system/4541578937214/"
-    cdnAmpUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/01/13/Raytheon-tapped-for-self-evaluating-machine-learning-system/4541578937214/"
+    webUrl: "https://www.upi.com/Defense-News/2020/01/13/Raytheon-tapped-for-self-evaluating-machine-learning-system/4541578937214/"
+    ampWebUrl: "https://www.upi.com/amp/Defense-News/2020/01/13/Raytheon-tapped-for-self-evaluating-machine-learning-system/4541578937214/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/01/13/Raytheon-tapped-for-self-evaluating-machine-learning-system/4541578937214/"
     type: article
     provider:
       name: UPI.com

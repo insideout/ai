@@ -3,7 +3,7 @@ category: news
 title: "Microsoft CEO talks sustainability, artificial intelligence, privacy and satisfying shareholders"
 excerpt: "Microsoft CEO Satya Nadella chats with CNBC's Jim Cramer about the software giant's plans to become carbon negative by 2030."
 publishedDateTime: 2020-01-16T23:40:00Z
-sourceUrl: "https://www.cnbc.com/video/2020/01/16/microsoft-ceo-talks-sustainability-ai-privacy-and-shareholders.html"
+webUrl: "https://www.cnbc.com/video/2020/01/16/microsoft-ceo-talks-sustainability-ai-privacy-and-shareholders.html"
 type: article
 quality: 69
 heat: 69

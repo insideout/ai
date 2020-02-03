@@ -3,7 +3,7 @@ category: news
 title: "Living Robots, Designed By Computer"
 excerpt: "Researchers have used artificial intelligence methods to design ‘living robots,’ made from two types of frog cells. The ‘xenobots,’ named for the Xenopus genus of frogs, can A 3D organism designed by an evolutionary algorithm and built out of living cells. Credit: Douglas Blackiston move, push objects, and potentially carry materials ..."
 publishedDateTime: 2020-01-17T05:39:00Z
-sourceUrl: "https://www.sciencefriday.com/segments/livingrobots/"
+webUrl: "https://www.sciencefriday.com/segments/livingrobots/"
 type: article
 quality: 39
 heat: 39
@@ -27,7 +27,7 @@ related:
   - title: "These tiny living robots could help science eavesdrop on cellular gossip"
     excerpt: "They’re designed by AI and made of frog cells. An entirely new being is swimming into the annals of science—a living robot designed by artificial intelligence. In a paper published earlier this week, computer scientists from the University of Vermont and biophysicists at Tufts University describe using AI to design a totally new organism ..."
     publishedDateTime: 2020-01-17T21:42:00Z
-    sourceUrl: "https://www.popsci.com/story/science/frog-cell-living-robot/"
+    webUrl: "https://www.popsci.com/story/science/frog-cell-living-robot/"
     type: article
     provider:
       name: Popular Science

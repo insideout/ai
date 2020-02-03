@@ -3,9 +3,9 @@ category: news
 title: "Image Recognition Market is Striving in Worldwide with Top Key Players 2020 | IBM Corporation, Imagga Technologies Ltd., Amazon Web Services, Inc"
 excerpt: "Growing popularity of media cloud services and increasing pace of technological advancements in facial recognition technology drive the growth of the global image recognition market. Moreover, surge in the number of mobile devices equipped with cameras and rise in demand for security applications and products laden with image recognition features supplement the market growth."
 publishedDateTime: 2020-01-17T03:12:00Z
-sourceUrl: "https://www.benzinga.com/press-releases/20/01/wr15140449/image-recognition-market-is-striving-in-worldwide-with-top-key-players-2020-ibm-corporation-imag"
-ampUrl: "https://amp.benzinga.com/amp/content/15140449"
-cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15140449"
+webUrl: "https://www.benzinga.com/press-releases/20/01/wr15140449/image-recognition-market-is-striving-in-worldwide-with-top-key-players-2020-ibm-corporation-imag"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15140449"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15140449"
 type: article
 quality: 0
 heat: -1
@@ -23,7 +23,7 @@ related:
   - title: "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook"
     excerpt: "The Global AI Technology Market Research Report Forecast 2020-2023 is a valuable source of insightful data for business strategists. It provides the AI Technology overview with growth analysis and historical & futuristic cost,"
     publishedDateTime: 2020-01-22T09:44:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook-2020-01-22"
+    webUrl: "https://www.marketwatch.com/press-release/top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook-2020-01-22"
     type: article
     provider:
       name: MarketWatch
@@ -36,7 +36,7 @@ related:
   - title: "Artificial Intelligence in Healthcare Market (PDF Report) 2020 – Leading Players IBM Corporation, Intel Corporation, Google"
     excerpt: "New York City, NY: Jan 28, 2020 – Published via (Wired Release) – The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for ..."
     publishedDateTime: 2020-01-28T07:41:00Z
-    sourceUrl: "https://www.pharmiweb.com/press-release/2020-01-28/artificial-intelligence-in-healthcare-market-pdf-report-2020-leading-players-ibm-corporation-in"
+    webUrl: "https://www.pharmiweb.com/press-release/2020-01-28/artificial-intelligence-in-healthcare-market-pdf-report-2020-leading-players-ibm-corporation-in"
     type: article
     provider:
       name: PharmiWeb
@@ -49,7 +49,7 @@ related:
   - title: "Artificial Intelligence in Medicine Market Advanced Technology and New Innovations by 2025 – InSilico Medicine, Globavir Biosciences"
     excerpt: "Market Growth Insight has announced the addition of the “Global Artificial Intelligence in Medicine Market Research Report 2018-2025” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. The global artificial intelligence (AI) in medicine market was valued ..."
     publishedDateTime: 2020-01-27T13:02:00Z
-    sourceUrl: "https://www.techworld.com.au/mediareleases/37938/artificial-intelligence-in-medicine-market/"
+    webUrl: "https://www.techworld.com.au/mediareleases/37938/artificial-intelligence-in-medicine-market/"
     type: article
     provider:
       name: Australian Techworld

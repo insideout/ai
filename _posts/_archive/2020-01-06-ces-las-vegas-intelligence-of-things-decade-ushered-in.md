@@ -3,7 +3,7 @@ category: news
 title: "CES Las Vegas: 'Intelligence of Things' decade ushered in"
 excerpt: "Steve Koenig, CTA vice president of Research And this is why artificial intelligence (AI) is now permeating almost every facet of our ... In 2017, the likes of Tesla, Uber and Waymo started to test and deploy self-driving vehicles. Where do you see the biggest advancement and the biggest obstacle in 2020 and beyond? At CES, we've been talking ..."
 publishedDateTime: 2020-01-06T07:19:00Z
-sourceUrl: https://www.dw.com/en/ces-las-vegas-intelligence-of-things-decade-ushered-in/a-51876775
+webUrl: https://www.dw.com/en/ces-las-vegas-intelligence-of-things-decade-ushered-in/a-51876775
 type: article
 quality: 24
 heat: 24

@@ -3,9 +3,9 @@ category: news
 title: "Indian Ocean Dipole can be better predicted thru machine learning, say researchers"
 excerpt: "Researchers in Japan and The Netherlands have, for the first time, used machine learning techniques, in particular artificial neural networks (ANNs), to predict the Indian Ocean Dipole (IOD), a positive phase of which has affected weather and climate in India and Australia in a spectacular fashion so far in 2019-20. The IOD has both positive ..."
 publishedDateTime: 2020-01-19T09:25:00Z
-sourceUrl: "https://www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece"
-ampUrl: "https://www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece/amp/"
-cdnAmpUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece/amp/"
+webUrl: "https://www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece/amp/"
 type: article
 quality: 53
 heat: 53

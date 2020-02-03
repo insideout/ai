@@ -3,7 +3,7 @@ category: news
 title: "NXP Debuts i.MX Applications Processor with Neural Processing Unit for Advanced Machine Learning"
 excerpt: "The i.MX 8M Plus combines NPU delivering 2.3 TOPS (Tera Operations Per Second) with a Quad-core Arm Cortex-A53 sub-system running at up to 2GHz, an independent real-time sub-system with an 800MHz Cortex-M7, a 800 MHz audio DSP for voice and natural language processing, dual camera Image Signal Processors (ISP), and a 3D GPU. With the ..."
 publishedDateTime: 2020-01-10T17:17:00Z
-sourceUrl: "https://www.embedded-computing.com/home-page/nxp-debuts-i-mx-applications-processor-with-neural-processing-unit-for-advanced-machine-learning"
+webUrl: "https://www.embedded-computing.com/home-page/nxp-debuts-i-mx-applications-processor-with-neural-processing-unit-for-advanced-machine-learning"
 type: article
 quality: 11
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "Multicore processor integrates neural processing unit"
     excerpt: "The i.MX 8M Plus combines a NPU delivering 2.3 tera operations per second (TOPS) with a Quad-core Arm Cortex-A53 sub-system running at up to 2 GHz, an independent real-time sub-system with an 800-MHz Cortex-M7, a 800-MHz audio DSP for voice and natural language processing, dual camera image signal processors (ISPs), and a 3D GPU for rich ..."
     publishedDateTime: 2020-01-13T14:59:00Z
-    sourceUrl: "https://www.embedded.com/multicore-processor-integrates-neural-processing-unit/"
+    webUrl: "https://www.embedded.com/multicore-processor-integrates-neural-processing-unit/"
     type: article
     provider:
       name: Embedded

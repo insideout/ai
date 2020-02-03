@@ -3,7 +3,7 @@ category: news
 title: "How Mesothelioma Patients Can Benefit From AI"
 excerpt: "The idea of artificial intelligence (AI) has been around since the 1950s but has been on a steadfast ... utilizing this technology to understand who would be most responsive to specific treatments. Immunotherapy, radiation therapy, and surgery are optimized when doctors can address cancer before it spreads to complicated and inoperable places."
 publishedDateTime: 2020-01-19T00:45:00Z
-sourceUrl: "https://www.worldhealth.net/news/how-mesothelioma-patients-can-benefit-ai/"
+webUrl: "https://www.worldhealth.net/news/how-mesothelioma-patients-can-benefit-ai/"
 type: article
 quality: 39
 heat: 39

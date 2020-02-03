@@ -3,7 +3,7 @@ category: news
 title: "Apple may have bought its way closer to bigger AI capabilities on iPhones"
 excerpt: "The move further solidifies the idea that significant artificial intelligence tasks — such as object recognition — are moving to mobile devices. The idea is to divvy up artificial intelligence functions and tasks between devices and cloud resources. Cloud computing, for all the business innovations it has enabled, can still impose delays ..."
 publishedDateTime: 2020-01-17T15:59:00Z
-sourceUrl: "https://www.biometricupdate.com/202001/apple-may-have-bought-its-way-closer-to-bigger-ai-capabilities-on-iphones"
+webUrl: "https://www.biometricupdate.com/202001/apple-may-have-bought-its-way-closer-to-bigger-ai-capabilities-on-iphones"
 type: article
 quality: 38
 heat: 38

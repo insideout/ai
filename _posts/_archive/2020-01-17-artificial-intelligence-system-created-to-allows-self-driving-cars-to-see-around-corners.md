@@ -3,9 +3,9 @@ category: news
 title: "Artificial Intelligence system created to allows self-driving cars to 'see' around corners"
 excerpt: "An artificial intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents, according to its developers. Researchers from Stanford University in the USA have created a system that bounces a laser beam off a wall to create an 'image' of objects hidden from view. The 'image' captured won't ..."
 publishedDateTime: 2020-01-17T09:32:00Z
-sourceUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
-ampUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
-cdnAmpUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
 type: article
 quality: 49
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "There's nowhere to hide anymore: This AI can see around corners"
     excerpt: "Hiding behind a wall might not be practical for much longer thanks to new technology that uses artificial intelligence to see and even read around corners. A team of researchers from Princeton, Stanford, Rice and Southern Methodist universities devised a system that uses powerful lasers similar to a laser pointer. The beam is bounced off a ..."
     publishedDateTime: 2020-01-22T05:11:00Z
-    sourceUrl: "https://www.cnet.com/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/"
-    ampUrl: "https://www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/"
-    cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/"
+    webUrl: "https://www.cnet.com/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/"
     type: article
     provider:
       name: CNET

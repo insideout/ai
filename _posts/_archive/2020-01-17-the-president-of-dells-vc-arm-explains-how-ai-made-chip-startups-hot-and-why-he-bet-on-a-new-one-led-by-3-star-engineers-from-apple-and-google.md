@@ -3,7 +3,7 @@ category: news
 title: "The president of Dell's VC arm explains how AI made chip startups hot, and why he bet on a new one led by 3 star engineers from Apple and Google"
 excerpt: "Dell Capital President Scott Darling said AI created opportunities for chip startups like Nuvia, which is led by three stars from Apple and Google."
 publishedDateTime: 2020-01-17T23:03:00Z
-sourceUrl: "https://www.businessinsider.com/dell-capital-scott-darling-ai-chip-startups-nuvia-2020-1"
+webUrl: "https://www.businessinsider.com/dell-capital-scott-darling-ai-chip-startups-nuvia-2020-1"
 type: article
 quality: 49
 heat: 49

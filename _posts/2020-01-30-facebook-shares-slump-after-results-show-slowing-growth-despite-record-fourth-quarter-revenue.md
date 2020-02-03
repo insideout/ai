@@ -3,9 +3,9 @@ category: news
 title: "Facebook shares slump after results show slowing growth, despite record fourth-quarter revenue"
 excerpt: "Facebook’s growth is slowing, adding pressure to a company facing more-restrictive ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence about ..."
 publishedDateTime: 2020-01-30T02:27:00Z
-sourceUrl: "https://www.scmp.com/tech/big-tech/article/3048160/facebook-shares-slump-after-results-show-slowing-growth-despite"
-ampUrl: "https://amp.scmp.com/tech/big-tech/article/3048160/facebook-shares-slump-after-results-show-slowing-growth-despite"
-cdnAmpUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3048160/facebook-shares-slump-after-results-show-slowing-growth-despite"
+webUrl: "https://www.scmp.com/tech/big-tech/article/3048160/facebook-shares-slump-after-results-show-slowing-growth-despite"
+ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3048160/facebook-shares-slump-after-results-show-slowing-growth-despite"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3048160/facebook-shares-slump-after-results-show-slowing-growth-despite"
 type: article
 quality: 12
 heat: 12

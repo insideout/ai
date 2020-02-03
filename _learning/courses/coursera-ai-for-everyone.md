@@ -1,7 +1,7 @@
 ---
 title: "AI For Everyone"
 excerpt: "Learn AI For Everyone from deeplearning.ai. AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take.   In this course, you ..."
-sourceUrl: https://www.coursera.org/learn/ai-for-everyone
+webUrl: https://www.coursera.org/learn/ai-for-everyone
 type: course
 price: Free+
 length: 9 hours

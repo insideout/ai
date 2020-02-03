@@ -3,7 +3,7 @@ category: news
 title: "Computer Vision Market Global Opportunities and Emerging Technologies By Google, Facebook, Microsoft, Nvidia, Mercedes-Benz , IBM, Autoliv"
 excerpt: "Data Bridge Market research has recently released expansive research titled “Global Computer Vision Market 2019” guarantees you will remain better informed than your competition. In this ..."
 publishedDateTime: 2020-01-10T00:00:00Z
-sourceUrl: "https://www.openpr.com/news/1894086/computer-vision-market-global-opportunities-and-emerging"
+webUrl: "https://www.openpr.com/news/1894086/computer-vision-market-global-opportunities-and-emerging"
 type: article
 quality: 0
 heat: 0

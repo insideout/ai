@@ -3,7 +3,7 @@ category: news
 title: "Real estate tech provider announces new AI-powered platform"
 excerpt: "Earlier this week, Lone Wolf Technologies inaugurated Lone Wolf Insights, which incorporates AI to translate brokerage data into plain language for strategic leaders. “The solution aggregates and performs complex calculations on back office data, turning essential information like company dollar, gross commission income (GCI), and year-over ..."
 publishedDateTime: 2020-01-30T12:37:00Z
-sourceUrl: "https://www.mortgagebrokernews.ca/news/technology/real-estate-tech-provider-announces-new-aipowered-platform-325636.aspx"
+webUrl: "https://www.mortgagebrokernews.ca/news/technology/real-estate-tech-provider-announces-new-aipowered-platform-325636.aspx"
 type: article
 quality: 39
 heat: 39

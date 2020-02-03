@@ -3,9 +3,9 @@ category: news
 title: "Google promises to protect privacy as it eyes opportunities in healthcare"
 excerpt: "CEO Sundar Pichai says artificial intelligence has the potential to improve health outcomes in the next five to 10 years."
 publishedDateTime: 2020-01-22T12:34:00Z
-sourceUrl: "https://www.bizjournals.com/sanjose/news/2020/01/22/google-promises-to-protect-privacy-as-it-eyes.html"
-ampUrl: "https://www.bizjournals.com/sanjose/news/2020/01/22/google-promises-to-protect-privacy-as-it-eyes.amp.html"
-cdnAmpUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/22/google-promises-to-protect-privacy-as-it-eyes.amp.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2020/01/22/google-promises-to-protect-privacy-as-it-eyes.html"
+ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/01/22/google-promises-to-protect-privacy-as-it-eyes.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/22/google-promises-to-protect-privacy-as-it-eyes.amp.html"
 type: article
 quality: 58
 heat: 58

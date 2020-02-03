@@ -3,7 +3,7 @@ category: news
 title: "The CIO of ServiceNow explains why businesses have a hard time wrapping their head around AI, and says the secret is making it 'explainable'"
 excerpt: "ServiceNow CIO Chris Bedi says enterprises sometimes have a hard time embracing AI which he says must be easy-to-understand and \"explainable.\""
 publishedDateTime: 2020-01-27T14:05:00Z
-sourceUrl: "https://www.businessinsider.com/servicenow-cio-ai-challenges-enterprise-explainable-2020-1?IR=T"
+webUrl: "https://www.businessinsider.com/servicenow-cio-ai-challenges-enterprise-explainable-2020-1?IR=T"
 type: article
 quality: 32
 heat: 32

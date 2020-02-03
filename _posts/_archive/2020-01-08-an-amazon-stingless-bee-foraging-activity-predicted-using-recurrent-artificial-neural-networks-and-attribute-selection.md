@@ -3,7 +3,7 @@ category: news
 title: "An Amazon stingless bee foraging activity predicted using recurrent artificial neural networks and attribute selection"
 excerpt: "It also may lead to better management and utilization of bees as pollinators. We address an investigation with Recurrent Neural Networks in the task of forecasting bees’ level of activity taking into account previous values of level of activity and environmental data such as temperature, solar irradiance and barometric pressure. We also show ..."
 publishedDateTime: 2020-01-08T10:13:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-019-56352-8"
+webUrl: "https://www.nature.com/articles/s41598-019-56352-8"
 type: article
 quality: 15
 heat: 15

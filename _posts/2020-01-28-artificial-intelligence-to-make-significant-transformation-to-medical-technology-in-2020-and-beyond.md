@@ -3,9 +3,9 @@ category: news
 title: "Artificial Intelligence to Make Significant Transformation to Medical Technology in 2020 and Beyond"
 excerpt: "Artificial Intelligence has been in development for decades already; however, it is only in last couple of years that we saw significant improvements, and what else can benefit from this technological advancement but one of the most critical factors in human development – Healthcare."
 publishedDateTime: 2020-01-28T00:15:00Z
-sourceUrl: "https://www.benzinga.com/pressreleases/20/01/ab15194678/artificial-intelligence-to-make-significant-transformation-to-medical-technology-in-2020-and-beyo"
-ampUrl: "https://amp.benzinga.com/amp/content/15194678"
-cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15194678"
+webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15194678/artificial-intelligence-to-make-significant-transformation-to-medical-technology-in-2020-and-beyo"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15194678"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15194678"
 type: article
 quality: 45
 heat: 45
@@ -29,9 +29,9 @@ related:
   - title: "Artificial Intelligence in Medical Imaging 2020 Global Market – Innovation, Technologies, Applications, Verticals, Strategies & Forecasts"
     excerpt: "“Artificial Intelligence in Medical Imaging Market” WiseGuyReports.Com Publish a New Market Research Report On –\" Artificial Intelligence in Medical Imaging"
     publishedDateTime: 2020-01-27T08:50:00Z
-    sourceUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186686/artificial-intelligence-in-medical-imaging-2020-global-market-innovation-technologies-application"
-    ampUrl: "https://amp.benzinga.com/amp/content/15186686"
-    cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186686"
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186686/artificial-intelligence-in-medical-imaging-2020-global-market-innovation-technologies-application"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15186686"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186686"
     type: article
     provider:
       name: Benzinga.com

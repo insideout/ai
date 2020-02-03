@@ -1,7 +1,7 @@
 ---
 title: "Doing Data Science with Python"
 excerpt: "This course shows you how to work on an end-to-end data science project including processing data, building &amp; evaluating machine learning model, and exposing the model as an API in a standardized approach using various Python libraries."
-sourceUrl: https://www.pluralsight.com/courses/python-data-science
+webUrl: https://www.pluralsight.com/courses/python-data-science
 type: course
 price: $$
 length: 6h 25m

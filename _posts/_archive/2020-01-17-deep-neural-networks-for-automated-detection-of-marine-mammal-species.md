@@ -3,7 +3,7 @@ category: news
 title: "Deep neural networks for automated detection of marine mammal species"
 excerpt: "We show that deep-learning architectures are capable of producing false-positive rates that are orders of magnitude lower than alternative algorithms while substantially increasing the ability to detect calls. We demonstrate that a deep neural network trained with recordings from a single geographic region recorded over a span of days is ..."
 publishedDateTime: 2020-01-17T10:35:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-020-57549-y"
+webUrl: "https://www.nature.com/articles/s41598-020-57549-y"
 type: article
 quality: 41
 heat: 41

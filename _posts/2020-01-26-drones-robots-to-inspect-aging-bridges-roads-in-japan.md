@@ -3,7 +3,7 @@ category: news
 title: "Drones, robots to inspect aging bridges, roads in Japan"
 excerpt: "In a room at a research and development facility operated by the Kawasaki city government for start-up companies ... filled with camera- and monitor-equipped robots of various shapes and sizes, they use computers to inscribe lines on photos of a cracked concrete wall, and teach an artificial intelligence program how to identify the spots ..."
 publishedDateTime: 2020-01-26T10:35:00Z
-sourceUrl: "https://technology.inquirer.net/95624/drones-robots-to-inspect-aging-bridges-roads-in-japan"
+webUrl: "https://technology.inquirer.net/95624/drones-robots-to-inspect-aging-bridges-roads-in-japan"
 type: article
 quality: 19
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "Nike launches robot-assisted warehouse in Japan"
     excerpt: "The Chiba center's 215 retrieval robots scoot around to bring stacked shelves of inventory to workstations. Staffers take shoes and clothing for each order so that others can pack them for shipping. Artificial intelligence is employed to assign more work to the speedy. The robots track their own locations via QR codes on the floor. Through ..."
     publishedDateTime: 2020-01-31T20:49:00Z
-    sourceUrl: "https://asia.nikkei.com/Business/Companies/Nike-launches-robot-assisted-warehouse-in-Japan"
+    webUrl: "https://asia.nikkei.com/Business/Companies/Nike-launches-robot-assisted-warehouse-in-Japan"
     type: article
     provider:
       name: NIKKEI

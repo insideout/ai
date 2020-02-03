@@ -3,7 +3,7 @@ category: news
 title: "Translation gadgets go mainstream at CES 2020"
 excerpt: "Luckily, several pocket-sized gadgets in several different form factors were introduced at CES 2020 to solve this problem, translating various languages into a person’s native tongue. One of these gadgets, the Lingolet One, was a CES Innovation Awards Honoree for its artificial intelligence (AI)-based translation capabilities that includes ..."
 publishedDateTime: 2020-01-10T15:17:00Z
-sourceUrl: "https://electronics360.globalspec.com/article/14537/translation-gadgets-go-mainstream-at-ces-2020"
+webUrl: "https://electronics360.globalspec.com/article/14537/translation-gadgets-go-mainstream-at-ces-2020"
 type: article
 quality: 39
 heat: 39

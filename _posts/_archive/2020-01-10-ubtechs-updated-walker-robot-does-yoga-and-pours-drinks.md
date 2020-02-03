@@ -3,9 +3,9 @@ category: news
 title: "Ubtech's updated Walker robot does 'yoga' and pours drinks"
 excerpt: "Walker's updated software is the result of continued AI training on its original hardware -- including the same optical sensors ... If you haven't already, it's about time you start saving up for your robot pal. Follow all the latest news from CES 2020 here!"
 publishedDateTime: 2020-01-10T18:00:00Z
-sourceUrl: "https://www.engadget.com/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/"
-ampUrl: "https://www.engadget.com/amp/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/"
-cdnAmpUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/"
+webUrl: "https://www.engadget.com/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/"
+ampWebUrl: "https://www.engadget.com/amp/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/"
 type: article
 quality: 89
 heat: 89

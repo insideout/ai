@@ -3,7 +3,7 @@ category: news
 title: "‘AI for Good’ talk pushes tech usage to mitigate humans’ environmental impact"
 excerpt: "“We need to start asking people and corporations, how can you drive an impact in a way that makes it about more than just you,” said Lucas Joppa, Microsoft’s chief environmental officer, at a Monday talk about leveraging artificial intelligence (AI) and machine learning to mitigate the impact of human activities on the planet. The ..."
 publishedDateTime: 2020-01-28T06:52:00Z
-sourceUrl: "https://www.stanforddaily.com/2020/01/27/ai-for-good-talk-pushes-tech-usage-to-mitigate-humans-environmental-impact/"
+webUrl: "https://www.stanforddaily.com/2020/01/27/ai-for-good-talk-pushes-tech-usage-to-mitigate-humans-environmental-impact/"
 type: article
 quality: 34
 heat: 34

@@ -3,7 +3,7 @@ category: news
 title: "Rights group says China is trying to silence critics abroad"
 excerpt: "He warned that if human rights aren’t defended, the world could face “a dystopian future in which no one is beyond the reach of Chinese censors” and a global rights system so weakened that ..."
 publishedDateTime: 2020-01-14T19:29:00Z
-sourceUrl: "https://kvia.com/news/us-world/2020/01/14/rights-group-says-china-is-trying-to-silence-critics-abroad/"
+webUrl: "https://kvia.com/news/us-world/2020/01/14/rights-group-says-china-is-trying-to-silence-critics-abroad/"
 type: article
 quality: 102
 heat: 102

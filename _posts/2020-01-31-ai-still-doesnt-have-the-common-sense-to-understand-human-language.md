@@ -3,9 +3,9 @@ category: news
 title: "AI still doesn’t have the common sense to understand human language"
 excerpt: "Until pretty recently, computers were hopeless at producing sentences that actually made sense. But the field of natural-language processing (NLP) has taken huge strides, and machines can now generate convincing passages with the push of a button. These advances have been driven by deep-learning techniques, which pick out statistical patterns ..."
 publishedDateTime: 2020-01-31T17:01:00Z
-sourceUrl: "https://www.technologyreview.com/s/615126/ai-common-sense-reads-human-language-ai2/"
-ampUrl: "https://www.technologyreview.com/s/615126/ai-common-sense-reads-human-language-ai2/amp/"
-cdnAmpUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615126/ai-common-sense-reads-human-language-ai2/amp/"
+webUrl: "https://www.technologyreview.com/s/615126/ai-common-sense-reads-human-language-ai2/"
+ampWebUrl: "https://www.technologyreview.com/s/615126/ai-common-sense-reads-human-language-ai2/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615126/ai-common-sense-reads-human-language-ai2/amp/"
 type: article
 quality: 59
 heat: 59

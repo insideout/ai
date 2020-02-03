@@ -3,7 +3,7 @@ category: news
 title: "How Automation and Artificial Intelligence Can Boost Cybersecurity"
 excerpt: "And while there are many tools available to stop them, there is a lot of space for improvement. Especially if you take automation into account. Machine learning and artificial intelligence are playing a significant role in cybersecurity. Automation tools can prevent, detect, and deal with tons of cyber threats way more efficiently and faster ..."
 publishedDateTime: 2020-01-20T22:45:00Z
-sourceUrl: "https://roboticsandautomationnews.com/2020/01/20/how-automation-and-artificial-intelligence-can-boost-cybersecurity/28824/"
+webUrl: "https://roboticsandautomationnews.com/2020/01/20/how-automation-and-artificial-intelligence-can-boost-cybersecurity/28824/"
 type: article
 quality: 17
 heat: -1
@@ -20,7 +20,7 @@ related:
   - title: "Training in cybersecurity a ‘hot topic’ in Australia"
     excerpt: "We’re currently seeing significant growth in cloud related training, especially Microsoft Azure and AWS. Cyber Security is also a hot topic at the moment ... We have software testing, courses that focus on securing the cloud, irrespective of vendor. Artificial Intelligence and Machine Learning coming soon, as well as recently introduced ..."
     publishedDateTime: 2020-01-20T15:14:00Z
-    sourceUrl: "https://itwire.com/security/training-in-cybersecurity-a-‘hot-topic’-in-australia.html"
+    webUrl: "https://itwire.com/security/training-in-cybersecurity-a-‘hot-topic’-in-australia.html"
     type: article
     provider:
       name: ITWire

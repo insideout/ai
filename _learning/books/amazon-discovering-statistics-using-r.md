@@ -1,7 +1,7 @@
 ---
 title: "Discovering Statistics Using R"
 excerpt: "The R version of Andy Field′s hugely popular Discovering Statistics Using SPSS takes students on a journey of statistical discovery using the freeware R. Like its sister textbook, Discovering Statistics Using R is written in an irreverent style and follows the same ground breaking structure and pedagogical approach. The core material is enhanced by a cast of characters to help the reader on their way, hundreds of examples, self assessment tests to consolidate knowledge, and additional website material for those wanting to learn more."
-sourceUrl: https://www.amazon.com/Discovering-Statistics-Using-Andy-Field/dp/1446200469/
+webUrl: https://www.amazon.com/Discovering-Statistics-Using-Andy-Field/dp/1446200469/
 type: book
 price: $34.99
 length: 

@@ -3,7 +3,7 @@ category: news
 title: "What Is Voice Con­trol and How to Use It on Your Mac"
 excerpt: "Voice Control is a macOS Catalina feature that allows you to control your Mac computer using simple voice commands that are propagated by the voice recognition technology. With this feature, you can issue commands to your Mac and dictate text into documents and emails. It’s designed to help people who don’t want to use a conventional mouse ..."
 publishedDateTime: 2020-01-31T17:18:00Z
-sourceUrl: "https://www.guidingtech.com/what-voice-control-how-to-use-on-your-mac/"
+webUrl: "https://www.guidingtech.com/what-voice-control-how-to-use-on-your-mac/"
 type: article
 quality: 24
 heat: 24

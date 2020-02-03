@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
 excerpt: "An extensive analysis of the Global Artificial Intelligence (AI) Chips market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins."
 publishedDateTime: 2020-01-06T19:47:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
+webUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
 type: article
 quality: 92
 heat: 112
@@ -31,7 +31,7 @@ related:
   - title: "Neural Network Software Market Is Thriving Worldwide with Google, Neurala, IBM Corporation, Microsoft Corporation"
     excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Neural Network Software Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Neural Network Software Market and factors such as driver,"
     publishedDateTime: 2020-01-08T13:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-is-thriving-worldwide-with-google-neurala-ibm-corporation-microsoft-corporation-2020-01-08
+    webUrl: https://www.marketwatch.com/press-release/neural-network-software-market-is-thriving-worldwide-with-google-neurala-ibm-corporation-microsoft-corporation-2020-01-08
     type: article
     provider:
       name: MarketWatch
@@ -44,7 +44,7 @@ related:
   - title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
     excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 7.5. Applied Materials Inc. 7.6. ARM Holdings 7.7. Baidu Inc. 7.8. Broadcom Ltd. 7.9. Google LLC 7.10. Graphcore Ltd. 7.11. Gyrfalcon Technology Inc. 7.12. HiSilicon (Shanghai ..."
     publishedDateTime: 2020-01-09T13:50:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chipsets-worldwide-market-study-2019-/2020/01/09/9079053.htm
+    webUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chipsets-worldwide-market-study-2019-/2020/01/09/9079053.htm
     type: article
     provider:
       name: TMCnet

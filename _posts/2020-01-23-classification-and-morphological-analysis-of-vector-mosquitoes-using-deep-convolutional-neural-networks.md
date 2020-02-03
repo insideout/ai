@@ -3,7 +3,7 @@ category: news
 title: "Classification and Morphological Analysis of Vector Mosquitoes using Deep Convolutional Neural Networks"
 excerpt: "In this study, we investigated the capability of state-of-the-art deep learning models in classifying mosquito species having high inter-species similarity and intra-species variations. Since no off-the-shelf dataset was available capturing the variability of typical field-captured mosquitoes, we constructed a dataset with about 3,600 images of ..."
 publishedDateTime: 2020-01-23T10:15:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-020-57875-1"
+webUrl: "https://www.nature.com/articles/s41598-020-57875-1"
 type: article
 quality: 23
 heat: 23
@@ -27,7 +27,7 @@ related:
   - title: "Identification of biological mechanisms underlying a multidimensional ASD phenotype using machine learning"
     excerpt: "To establish more precise genotype–phenotype correlations in ASD, we developed a novel machine-learning integrative approach, which seeks to delineate associations between patients’ clinical profiles and disrupted biological processes, inferred from their copy number variants (CNVs) that span brain genes. Clustering analysis of the relevant ..."
     publishedDateTime: 2020-01-28T16:43:00Z
-    sourceUrl: "https://www.nature.com/articles/s41398-020-0721-1"
+    webUrl: "https://www.nature.com/articles/s41398-020-0721-1"
     type: article
     provider:
       name: Nature

@@ -3,9 +3,9 @@ category: news
 title: "‘Don’t set it and forget it’: Artificial intelligence’s role in media buying is taking shape"
 excerpt: "The reality of artificial intelligence’s role in media buying may be turning out very different from the dream. Automation and AI could be used, so the theory went, for forecasting, analyzing data and ultimately improving campaign performance, so that marketers could change and reallocate budgets quickly. But despite advancements being made ..."
 publishedDateTime: 2020-01-16T04:01:00Z
-sourceUrl: "https://digiday.com/marketing/ai-used-media-buying-just-not-expected/"
-ampUrl: "https://digiday.com/marketing/ai-used-media-buying-just-not-expected/amp/"
-cdnAmpUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/marketing/ai-used-media-buying-just-not-expected/amp/"
+webUrl: "https://digiday.com/marketing/ai-used-media-buying-just-not-expected/"
+ampWebUrl: "https://digiday.com/marketing/ai-used-media-buying-just-not-expected/amp/"
+cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/marketing/ai-used-media-buying-just-not-expected/amp/"
 type: article
 quality: 46
 heat: 46

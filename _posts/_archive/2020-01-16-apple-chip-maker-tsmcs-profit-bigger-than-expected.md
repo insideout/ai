@@ -3,7 +3,7 @@ category: news
 title: "Apple chip maker TSMC’s profit bigger than expected"
 excerpt: "Apple’s main chip maker is banking that the roll-out of 5G-enabled smartphones in 2020 will ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence ..."
 publishedDateTime: 2020-01-16T11:33:00Z
-sourceUrl: "https://www.scmp.com/tech/gear/article/3046382/apple-chip-maker-tsmcs-profit-bigger-expected"
+webUrl: "https://www.scmp.com/tech/gear/article/3046382/apple-chip-maker-tsmcs-profit-bigger-expected"
 type: article
 quality: 39
 heat: 39

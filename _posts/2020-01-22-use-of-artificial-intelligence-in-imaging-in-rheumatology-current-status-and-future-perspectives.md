@@ -3,7 +3,7 @@ category: news
 title: "Use of artificial intelligence in imaging in rheumatology – current status and future perspectives"
 excerpt: "Deep learning is based on the concept of artificial neural networks, that mimic human learning capacity using mathematical representations of neurons and their interconnections. These neural networks exist already a couple of decades but obtained revolutionary results only in the past few years. AI has conquered many obstacles during its ..."
 publishedDateTime: 2020-01-22T04:28:00Z
-sourceUrl: "https://rmdopen.bmj.com/content/6/1/e001063"
+webUrl: "https://rmdopen.bmj.com/content/6/1/e001063"
 type: article
 quality: 5
 heat: 5

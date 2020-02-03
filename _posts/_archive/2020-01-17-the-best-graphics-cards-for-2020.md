@@ -3,7 +3,7 @@ category: news
 title: "The Best Graphics Cards for 2020"
 excerpt: "But know that the Titan Xp (older, around $1,200) and newer Titan RTX ($2,500) and Titan V ($2,999) cards are options for Powerball-winning gamers, machine-learning pioneers, AI developers, or folks involved in pro/academic GPU-bound calculation work. As for AMD's card classes, as 2020 dawns the company is stronger than it has been for some ..."
 publishedDateTime: 2020-01-17T19:38:00Z
-sourceUrl: "https://in.pcmag.com/graphics-cards/116077/the-best-graphics-cards"
+webUrl: "https://in.pcmag.com/graphics-cards/116077/the-best-graphics-cards"
 type: article
 quality: 54
 heat: 54

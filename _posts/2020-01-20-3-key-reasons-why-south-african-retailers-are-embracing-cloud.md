@@ -3,9 +3,9 @@ category: news
 title: "3 key reasons why South African retailers are embracing cloud"
 excerpt: "Using Microsoft Office 365 and Azure, the retail brand has reduced physical servers by a third and decreased ... There are some innovative e-commerce players out there who are using artificial intelligence (AI) and cloud to get recommendations right, says Acton. For example, recommendations \"on the fly\" move beyond a customer's purchase or ..."
 publishedDateTime: 2020-01-20T21:41:00Z
-sourceUrl: "https://www.cio.com/article/3514990/3-key-reasons-why-south-african-retailers-are-embracing-cloud.html"
-ampUrl: "https://www.cio.com/article/3514990/3-key-reasons-why-south-african-retailers-are-embracing-cloud.amp.html"
-cdnAmpUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3514990/3-key-reasons-why-south-african-retailers-are-embracing-cloud.amp.html"
+webUrl: "https://www.cio.com/article/3514990/3-key-reasons-why-south-african-retailers-are-embracing-cloud.html"
+ampWebUrl: "https://www.cio.com/article/3514990/3-key-reasons-why-south-african-retailers-are-embracing-cloud.amp.html"
+cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3514990/3-key-reasons-why-south-african-retailers-are-embracing-cloud.amp.html"
 type: article
 quality: 59
 heat: 59

@@ -3,7 +3,7 @@ category: news
 title: "AWS will ask court to pause work on JEDI during protest"
 excerpt: "AWS will file its official motion to delay work on Jan ... JEDI will have 14 early adopters, he said, including the Joint Artificial Intelligence Center, U.S. Transportation Command, U.S. Special Operations Command and the Navy — but he stopped ..."
 publishedDateTime: 2020-01-14T20:55:00Z
-sourceUrl: "https://www.fedscoop.com/aws-requesting-pause-jedi-work/"
+webUrl: "https://www.fedscoop.com/aws-requesting-pause-jedi-work/"
 type: article
 quality: 39
 heat: 39

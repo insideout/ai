@@ -1,7 +1,7 @@
 ---
 title: "Developing Applications with AWS Rekognition"
 excerpt: "AWS Rekognition provides powerful services for image and video processing. This course, Developing Applications with AWS Rekognition, will demonstrate how these features can be applied to your applications. First, you will cover topics like biometric access based on facial recognition and detection of unsafe content. Next, you will learn how to implement person tracking in security videos and metadata discovery for social media applications. Finally, you will see how other AWS services, like EC2 and Lambda, can work together with Rekognition to build complete applications. When you're finished with this course, you will be ready to use all of the features of Rekognition for image and video processing."
-sourceUrl: https://www.pluralsight.com/courses/aws-rekognition-developing-applications
+webUrl: https://www.pluralsight.com/courses/aws-rekognition-developing-applications
 type: course
 price: $$
 length: 1h 27m

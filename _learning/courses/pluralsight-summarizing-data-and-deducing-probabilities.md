@@ -1,7 +1,7 @@
 ---
 title: "Summarizing Data and Deducing Probabilities"
 excerpt: "This course covers the most important aspects of exploratory data analysis using different univariate, bivariate, and multivariate statistics from Excel and Python, including the use of Naive Bayes' classifiers and Seaborn to visualize relationships."
-sourceUrl: https://www.pluralsight.com/courses/summarizing-data-deducing-probabilities
+webUrl: https://www.pluralsight.com/courses/summarizing-data-deducing-probabilities
 type: course
 price: $$
 length: 2h 48m

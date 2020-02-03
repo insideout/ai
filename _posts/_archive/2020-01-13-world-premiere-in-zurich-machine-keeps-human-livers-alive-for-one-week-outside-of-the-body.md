@@ -3,7 +3,7 @@ category: news
 title: "World Premiere in Zurich: Machine keeps human livers alive for one week outside of the body"
 excerpt: "Our mission is to drive the translation of outstanding scientific discoveries into new therapies for patients and breakthrough innovations in the fields of Regenerative Medicine and Robotics. www.wysszurich.uzh.ch. The perfusion machine replaces the functions of various organs in order to keep the donor liver alive outside of the body."
 publishedDateTime: 2020-01-13T16:05:00Z
-sourceUrl: "https://idw-online.de/en/news729772"
+webUrl: "https://idw-online.de/en/news729772"
 type: article
 quality: 14
 heat: 14

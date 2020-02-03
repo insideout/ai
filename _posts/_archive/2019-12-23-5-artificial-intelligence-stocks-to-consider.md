@@ -3,7 +3,7 @@ category: news
 title: "5 Artificial Intelligence Stocks to Consider"
 excerpt: "The company’s Waymo unit could be worth as much as ... That puts it at the top of the heap among artificial intelligence stocks. Nvidia (NASDAQ:NVDA) is the pioneer of GPUs (Graphics Processing ..."
 publishedDateTime: 2019-12-23T15:02:00Z
-sourceUrl: https://investorplace.com/2019/12/5-artificial-intelligence-stocks-to-consider/
+webUrl: https://investorplace.com/2019/12/5-artificial-intelligence-stocks-to-consider/
 type: article
 quality: 19
 heat: 19

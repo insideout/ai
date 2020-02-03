@@ -3,9 +3,9 @@ category: news
 title: "Artificial intelligence works its way into supply chains"
 excerpt: "Adding artificial intelligence to supply chains is delivering tangible benefits for companies putting it in place. Recent research out of McKinsey finds 61% of executives report decreased costs and 53% report increased revenues as a direct result of introducing artificial intelligence into their supply chains. More than one-third report a ..."
 publishedDateTime: 2020-01-24T04:09:00Z
-sourceUrl: "https://www.zdnet.com/article/artificial-intelligence-works-its-way-into-supply-chains/"
-ampUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-works-its-way-into-supply-chains/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-works-its-way-into-supply-chains/"
+webUrl: "https://www.zdnet.com/article/artificial-intelligence-works-its-way-into-supply-chains/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-works-its-way-into-supply-chains/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-works-its-way-into-supply-chains/"
 type: article
 quality: 82
 heat: 92
@@ -26,9 +26,9 @@ related:
   - title: "IBM: accelerating digital in the supply chain"
     excerpt: "With artificial intelligence (AI) now playing a major part in the majority of supply chains globally, IBM Watson launched its IBM Sterling Supply Chain Suite last year. It is an open, integrated platform that easily connects to your supplier ecosystem, while implementing technologies such as AI and blockchain. The suite allows you to address ..."
     publishedDateTime: 2020-01-20T15:40:00Z
-    sourceUrl: "https://www.supplychaindigital.com/technology/ibm-accelerating-digital-supply-chain"
-    ampUrl: "https://www.supplychaindigital.com/technology/ibm-accelerating-digital-supply-chain?amp"
-    cdnAmpUrl: "https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/ibm-accelerating-digital-supply-chain?amp"
+    webUrl: "https://www.supplychaindigital.com/technology/ibm-accelerating-digital-supply-chain"
+    ampWebUrl: "https://www.supplychaindigital.com/technology/ibm-accelerating-digital-supply-chain?amp"
+    cdnAmpWebUrl: "https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/ibm-accelerating-digital-supply-chain?amp"
     type: article
     provider:
       name: Supply Chain Digital

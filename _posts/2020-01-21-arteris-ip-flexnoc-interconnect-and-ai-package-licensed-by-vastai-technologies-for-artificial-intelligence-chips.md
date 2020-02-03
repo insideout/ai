@@ -3,7 +3,7 @@ category: news
 title: "Arteris IP FlexNoC Interconnect and AI Package Licensed by Vastai Technologies for Artificial Intelligence Chips"
 excerpt: "“We are excited that Vastai Technologies is implementing our NoC IP as the dataflow backbone of their AI chips,” said K. Charles Janac, President and CEO of Arteris IP. “Arteris IP is the only IP company continually providing unique interconnect technologies that accelerate the development of these types of complex machine learning and ..."
 publishedDateTime: 2020-01-21T12:42:00Z
-sourceUrl: "https://www.design-reuse.com/news/47413/arteris-ip-flexnoc-interconnect-ai-package-vastai-artificial-intelligence.html"
+webUrl: "https://www.design-reuse.com/news/47413/arteris-ip-flexnoc-interconnect-ai-package-vastai-artificial-intelligence.html"
 type: article
 quality: 48
 heat: 48

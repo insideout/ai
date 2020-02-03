@@ -1,7 +1,7 @@
 ---
 title: "Code Free Data Science"
 excerpt: "Learn Code Free Data Science from University of California San Diego. The Code Free Data Science class is designed for learners seeking to gain or expand their knowledge in the area of Data Science.  Participants will receive the basic training ..."
-sourceUrl: https://www.coursera.org/learn/code-free-data-science
+webUrl: https://www.coursera.org/learn/code-free-data-science
 type: course
 price: Free+
 length: 17 hours

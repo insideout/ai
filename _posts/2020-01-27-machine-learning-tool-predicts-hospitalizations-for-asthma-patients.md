@@ -3,7 +3,7 @@ category: news
 title: "Machine Learning Tool Predicts Hospitalizations for Asthma Patients"
 excerpt: "January 27, 2020 - Using machine learning, researchers developed a more accurate model to predict hospital encounters for asthma patients, which could improve asthma outcomes and reduce care costs, according to a study published in JMIR Medical Informatics. Asthma affects 8.4 percent of the US population, researchers said, and leads to 2.1 ..."
 publishedDateTime: 2020-01-27T19:26:00Z
-sourceUrl: "https://healthitanalytics.com/news/machine-learning-tool-predicts-hospitalizations-for-asthma-patients"
+webUrl: "https://healthitanalytics.com/news/machine-learning-tool-predicts-hospitalizations-for-asthma-patients"
 type: article
 quality: 19
 heat: -1
@@ -21,9 +21,9 @@ related:
   - title: "Chinese hospitals start to use AI-powered robots to treat coronavirus patients"
     excerpt: "A Chinese hospital has started to use two robots powered by artificial intelligence and capable of disinfecting themselves to help treat coronavirus patients. The pair of droids began to deliver medicine and food to sufferers as well as collecting bed sheets and medical rubbish yesterday in the province of Guangdong, said the local health ..."
     publishedDateTime: 2020-01-30T18:29:00Z
-    sourceUrl: "https://www.dailymail.co.uk/news/article-7948181/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
-    ampUrl: "https://www.dailymail.co.uk/news/article-7948181/amp/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
-    cdnAmpUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7948181/amp/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
+    webUrl: "https://www.dailymail.co.uk/news/article-7948181/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-7948181/amp/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7948181/amp/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
     type: article
     provider:
       name: Mail Online

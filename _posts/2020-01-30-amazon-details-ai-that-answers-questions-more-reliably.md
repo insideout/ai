@@ -3,7 +3,7 @@ category: news
 title: "Amazon details AI that answers questions more reliably"
 excerpt: "The approach — Transfer and Adapt, or TANDA — was first proposed late last year but has since been refined. As the researchers explain, they used transfer learning — a technique where an AI model pretrained on a task (here, word sequence prediction) is fine-tuned on another (here, answer selection) — with an intermediate step between ..."
 publishedDateTime: 2020-01-30T15:15:00Z
-sourceUrl: "https://venturebeat.com/2020/01/30/amazon-details-ai-that-answers-questions-more-reliably/"
+webUrl: "https://venturebeat.com/2020/01/30/amazon-details-ai-that-answers-questions-more-reliably/"
 type: article
 quality: 49
 heat: 49

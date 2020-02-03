@@ -3,7 +3,7 @@ category: news
 title: "Kubota unveils radical autonomous electric tractor in Japan"
 excerpt: "With that problem in mind, the company recently unveiled a concept for helping those farmers out – a driverless tractor. Known as the X tractor (a play ... Utilizing a combination of GPS, onboard sensors such as cameras, and an artificial intelligence-based guidance system, it's able to autonomously make its way around both regular fields ..."
 publishedDateTime: 2020-01-28T01:53:00Z
-sourceUrl: "https://newatlas.com/automotive/kubota-autonomous-electric-tractor/"
+webUrl: "https://newatlas.com/automotive/kubota-autonomous-electric-tractor/"
 type: article
 quality: 34
 heat: 34
@@ -25,7 +25,7 @@ related:
   - title: "Kubota's autonomous electric tractor looks like next-gen Mars Rover"
     excerpt: "GPS technology and an artificial intelligence-based guidance system New Delhi: Agricultural machinery manufacturer Kubota has developed a driverless tractor that is fully electric. Known as X tractor, it has been designed as part of the company's Agrirobo automated technology program The company has now revealed much of the technical details of ..."
     publishedDateTime: 2020-01-30T04:32:00Z
-    sourceUrl: "https://auto.economictimes.indiatimes.com/news/automotive/farm-equipment/kubotas-autonomous-electric-tractor-looks-like-next-gen-mars-rover/73756707"
+    webUrl: "https://auto.economictimes.indiatimes.com/news/automotive/farm-equipment/kubotas-autonomous-electric-tractor-looks-like-next-gen-mars-rover/73756707"
     type: article
     provider:
       name: India Times

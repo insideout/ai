@@ -3,7 +3,7 @@ category: news
 title: "Finders, keepers: search and rescue robots evolve"
 excerpt: "As head of the talking robots group at DFKI, the German Research Centre for Artificial Intelligence, she’d been called at short notice to use her experimental robot technology to help in the wake of the earthquake, which devastated a line of hilltop towns and villages in central Italy, killing 295 people and leaving 4,000 homeless."
 publishedDateTime: 2020-01-22T16:20:00Z
-sourceUrl: "https://eandt.theiet.org/content/articles/2020/01/finders-keepers-search-and-rescue-robots-evolve/"
+webUrl: "https://eandt.theiet.org/content/articles/2020/01/finders-keepers-search-and-rescue-robots-evolve/"
 type: article
 quality: 39
 heat: 39

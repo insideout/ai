@@ -3,7 +3,7 @@ category: news
 title: "Speech services with sovereign clouds"
 excerpt: "Only US federal, state, local, and tribal governments and their partners have access to this dedicated instance with operations controlled by screened US citizens."
 publishedDateTime: 2020-01-18T22:46:00Z
-sourceUrl: "https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/sovereign-clouds"
+webUrl: "https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/sovereign-clouds"
 type: article
 quality: 24
 heat: 24

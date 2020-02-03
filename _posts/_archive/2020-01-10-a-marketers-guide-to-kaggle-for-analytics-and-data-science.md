@@ -3,9 +3,9 @@ category: news
 title: "A Marketer’s Guide to Kaggle for Analytics and Data Science"
 excerpt: "There’s also an integration with Google Sheets and a brand new one with Google AutoML (see the next section). I wouldn’t be surprised to see more integrations since Kaggle is now part of Google Cloud. 5. Machine learning with Kaggle: High-quality machine learning and AI with zero code. Integration with Google’s AutoML was announced in ..."
 publishedDateTime: 2020-01-10T17:20:00Z
-sourceUrl: "https://www.business2community.com/online-marketing/a-marketers-guide-to-kaggle-for-analytics-and-data-science-02274475"
-ampUrl: "https://www.business2community.com/online-marketing/a-marketers-guide-to-kaggle-for-analytics-and-data-science-02274475/amp"
-cdnAmpUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/online-marketing/a-marketers-guide-to-kaggle-for-analytics-and-data-science-02274475/amp"
+webUrl: "https://www.business2community.com/online-marketing/a-marketers-guide-to-kaggle-for-analytics-and-data-science-02274475"
+ampWebUrl: "https://www.business2community.com/online-marketing/a-marketers-guide-to-kaggle-for-analytics-and-data-science-02274475/amp"
+cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/online-marketing/a-marketers-guide-to-kaggle-for-analytics-and-data-science-02274475/amp"
 type: article
 quality: 24
 heat: 24

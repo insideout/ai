@@ -3,7 +3,7 @@ category: news
 title: "What In-House Counsel Need to Know About New Export Control on AI"
 excerpt: "“To the extent that the control addresses such software, then the major players in the area become much broader, including Waymo, Tesla, Sony and most automobile manufacturers,” Burns adde"
 publishedDateTime: 2020-01-09T19:51:00Z
-sourceUrl: "https://www.law.com/corpcounsel/2020/01/09/what-in-house-counsel-need-to-know-about-new-export-control-on-ai/"
+webUrl: "https://www.law.com/corpcounsel/2020/01/09/what-in-house-counsel-need-to-know-about-new-export-control-on-ai/"
 type: article
 quality: 39
 heat: 39

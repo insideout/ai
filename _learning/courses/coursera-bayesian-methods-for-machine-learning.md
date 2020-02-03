@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Methods for Machine Learning"
 excerpt: "Learn Bayesian Methods for Machine Learning from National Research University Higher School of Economics. People apply Bayesian methods in many areas: from game development to drug discovery. They give superpowers to many machine learning ..."
-sourceUrl: https://www.coursera.org/learn/bayesian-methods-in-machine-learning
+webUrl: https://www.coursera.org/learn/bayesian-methods-in-machine-learning
 type: course
 price: Free+
 length: 39 hours

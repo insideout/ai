@@ -3,7 +3,7 @@ category: news
 title: "Apple Arcade: ‘Doomsday Vault’ Review – Plants vs. AI Robots"
 excerpt: "Picture this: the climate has finally collapsed, there are some dangerous AI robots that will kill you if they see you ... Doomsday Vault is a puzzle game in which your main objective is to go through different levels to retrieve a seed so you can start planting them in your Vault. Each seed is an important plant from our world, and you ..."
 publishedDateTime: 2020-01-28T16:38:00Z
-sourceUrl: "https://toucharcade.com/2020/01/28/apple-arcade-doomsday-vault-review/"
+webUrl: "https://toucharcade.com/2020/01/28/apple-arcade-doomsday-vault-review/"
 type: article
 quality: 54
 heat: 54

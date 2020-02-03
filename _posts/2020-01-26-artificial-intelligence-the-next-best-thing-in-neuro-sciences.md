@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence: The Next Best Thing in Neuro Sciences"
 excerpt: "Artificial intelligence (AI) has changed the entire course of the world. From simple tasks to the things which are beyond the limitations of humanity, it can do it all. Where AI has done wonders in all most all fields of life, it is now all set to revolutionize medical sciences and industry. There are a number diagnosis and treatments which ..."
 publishedDateTime: 2020-01-26T12:08:00Z
-sourceUrl: "https://techlog360.com/artificial-intelligence-in-neuro-sciences/"
+webUrl: "https://techlog360.com/artificial-intelligence-in-neuro-sciences/"
 type: article
 quality: 37
 heat: -1
@@ -26,7 +26,7 @@ related:
   - title: "Powering the Next Revolution: Artificial Intelligence"
     excerpt: "Smart Cities around the globe are relying on an ever expanding deployment of IoT devices coupled with forthcoming 5G wireless infrastructure and edge computing to bring new levels of management, coordination, service and information to their citizenry. The complexity of the systems used to bring IoT, 5G, and edge computing together will be ..."
     publishedDateTime: 2020-01-21T14:32:00Z
-    sourceUrl: "https://www.computerworld.com/resources/197081/powering-the-next-revolution-artificial-intelligence"
+    webUrl: "https://www.computerworld.com/resources/197081/powering-the-next-revolution-artificial-intelligence"
     type: article
     provider:
       name: Computerworld

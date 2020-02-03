@@ -3,9 +3,9 @@ category: news
 title: "Why your palm could be safer than fingerprints or facial recognition"
 excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
 publishedDateTime: 2020-01-16T05:27:00Z
-sourceUrl: "https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition"
-ampUrl: "https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition"
-cdnAmpUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition"
+webUrl: "https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition"
+ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition"
 type: article
 quality: 39
 heat: 39
@@ -23,9 +23,9 @@ related:
   - title: "Facial-recognition algos vary wildly, US Congress told, as politicians try to come up with new laws on advanced tech"
     excerpt: "... in with a single cloud giant's toolset – or bring together best tools from a bunch of vendors Vid A recent US government report investigating the accuracy of facial recognition systems across different demographic groups has sparked fresh questions on how the technology should be regulated. The House Committee on Oversight and Reform ..."
     publishedDateTime: 2020-01-16T06:12:00Z
-    sourceUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/01/16/facial_recognition_congress/"
-    ampUrl: "https://www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/"
-    cdnAmpUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/"
+    webUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/01/16/facial_recognition_congress/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/"
     type: article
     provider:
       name: The Register

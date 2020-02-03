@@ -3,9 +3,9 @@ category: news
 title: "Children’s tech ideas compete for £25,000 prize"
 excerpt: "The Longitude Explorer Prize was launched last year by innovation charity Nesta to encourage children to develop artificial intelligence and technology ideas for good causes ... Other ideas include an app that detects online bullying, an AI therapy dog to help autistic children in social situations and a congestion reducing device for ..."
 publishedDateTime: 2020-01-23T14:40:00Z
-sourceUrl: "https://www.charitydigitalnews.co.uk/2020/01/23/childrens-tech-ideas-compete-for-25000-prize/"
-ampUrl: "https://www.charitydigitalnews.co.uk/2020/01/23/childrens-tech-ideas-compete-for-25000-prize/?amp_markup=1"
-cdnAmpUrl: "https://www-charitydigitalnews-co-uk.cdn.ampproject.org/c/s/www.charitydigitalnews.co.uk/2020/01/23/childrens-tech-ideas-compete-for-25000-prize/?amp_markup=1"
+webUrl: "https://www.charitydigitalnews.co.uk/2020/01/23/childrens-tech-ideas-compete-for-25000-prize/"
+ampWebUrl: "https://www.charitydigitalnews.co.uk/2020/01/23/childrens-tech-ideas-compete-for-25000-prize/?amp_markup=1"
+cdnAmpWebUrl: "https://www-charitydigitalnews-co-uk.cdn.ampproject.org/c/s/www.charitydigitalnews.co.uk/2020/01/23/childrens-tech-ideas-compete-for-25000-prize/?amp_markup=1"
 type: article
 quality: 44
 heat: 44

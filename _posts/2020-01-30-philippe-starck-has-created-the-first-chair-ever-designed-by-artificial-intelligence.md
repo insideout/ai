@@ -3,7 +3,7 @@ category: news
 title: "Philippe Starck Has Created the First Chair Ever Designed by Artificial Intelligence"
 excerpt: "French designer Philippe Starck has teamed up with a longstanding collaborator, Italian furniture company Kartell, to create the first chair to be designed using artificial intelligence, which is aptly named “A.I”. Image: Courtesy of kartell.com. Plastic furniture specialist Kartell embarked on a new direction when it adopted a development ..."
 publishedDateTime: 2020-01-30T11:45:00Z
-sourceUrl: "https://www.prestigeonline.com/th/pursuits/design-property/philippe-starck-artificial-intelligence-chair/"
+webUrl: "https://www.prestigeonline.com/th/pursuits/design-property/philippe-starck-artificial-intelligence-chair/"
 type: article
 quality: 45
 heat: 45

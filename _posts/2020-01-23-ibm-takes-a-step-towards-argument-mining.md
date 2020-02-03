@@ -3,7 +3,7 @@ category: news
 title: "IBM takes a step towards argument mining"
 excerpt: "... team has spent several years developing an AI that can do that. Last year IBM demonstrated its work-in-progress technology in a live debate against a world-champion human debater, the equivalent of Watson's Jeopardy! showdown. Such stunts provided a ..."
 publishedDateTime: 2020-01-23T11:22:00Z
-sourceUrl: "https://www.fudzilla.com/news/50177-ibm-takes-a-step-towards-argument-mining"
+webUrl: "https://www.fudzilla.com/news/50177-ibm-takes-a-step-towards-argument-mining"
 type: article
 quality: 24
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "A|I: The AI Times – Argument mining"
     excerpt: "The financial terms of the deal are not being disclosed, but Babylon confirmed that the NHS is not taking a stake in the startup as part of it. Montréal-based Element AI has launched its latest product, Access Governor, which was designed to help companies manage access to information. The algorithm lets robots find the shortest route in ..."
     publishedDateTime: 2020-01-30T11:21:00Z
-    sourceUrl: "https://betakit.com/ai-the-ai-times-argument-mining/"
+    webUrl: "https://betakit.com/ai-the-ai-times-argument-mining/"
     type: article
     provider:
       name: BetaKit

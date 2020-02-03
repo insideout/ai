@@ -3,9 +3,9 @@ category: news
 title: "Amazon fires four smart-doorbell firm Ring employees for snooping on customers' video feeds without permission"
 excerpt: "This, it claims, is to maintain its AWS infrastructure. Ring also failed to rule out the possibility of adding Amazon's controversial Rekognition facial recognition technology to its products. Instead of clarifying if it would implement this feature in future models,it named rivals that offer facial recognition technology in their products."
 publishedDateTime: 2020-01-09T09:27:00Z
-sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7868219/Amazons-Ring-fired-four-members-staff-snooping-customers.html
-ampUrl: https://www.dailymail.co.uk/sciencetech/article-7868219/amp/Amazons-Ring-fired-four-members-staff-snooping-customers.html
-cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7868219/amp/Amazons-Ring-fired-four-members-staff-snooping-customers.html
+webUrl: https://www.dailymail.co.uk/sciencetech/article-7868219/Amazons-Ring-fired-four-members-staff-snooping-customers.html
+ampWebUrl: https://www.dailymail.co.uk/sciencetech/article-7868219/amp/Amazons-Ring-fired-four-members-staff-snooping-customers.html
+cdnAmpWebUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7868219/amp/Amazons-Ring-fired-four-members-staff-snooping-customers.html
 type: article
 quality: 24
 heat: 24

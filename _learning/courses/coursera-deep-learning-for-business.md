@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning for Business"
 excerpt: "Learn Deep Learning for Business from Yonsei University. Your smartphone, smartwatch, and automobile (if it is a newer model) have AI (Artificial Intelligence) inside serving you every day. In the near future, more advanced “self-learning” ..."
-sourceUrl: https://www.coursera.org/learn/deep-learning-business
+webUrl: https://www.coursera.org/learn/deep-learning-business
 type: course
 price: Free+
 length: 8 hours

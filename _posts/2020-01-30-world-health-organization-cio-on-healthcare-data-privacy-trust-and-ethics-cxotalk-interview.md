@@ -3,9 +3,9 @@ category: news
 title: "World Health Organization CIO on healthcare data, privacy, trust, and ethics (CxOTalk interview)"
 excerpt: "As these different interests and perspectives come into play, and with the power of machine learning and artificial intelligence to lean on big data to address some of the critical diagnoses or treatment of diseases, we want to strike that balance to ensure that privacy, ethical consideration is addressed to allow data sharing or sharing of ..."
 publishedDateTime: 2020-01-30T19:24:00Z
-sourceUrl: "https://www.zdnet.com/article/world-health-organization-cio-on-healthcare-data-privacy-trust-and-ethics-cxotalk-interview/"
-ampUrl: "https://www.zdnet.com/google-amp/article/world-health-organization-cio-on-healthcare-data-privacy-trust-and-ethics-cxotalk-interview/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/world-health-organization-cio-on-healthcare-data-privacy-trust-and-ethics-cxotalk-interview/"
+webUrl: "https://www.zdnet.com/article/world-health-organization-cio-on-healthcare-data-privacy-trust-and-ethics-cxotalk-interview/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/world-health-organization-cio-on-healthcare-data-privacy-trust-and-ethics-cxotalk-interview/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/world-health-organization-cio-on-healthcare-data-privacy-trust-and-ethics-cxotalk-interview/"
 type: article
 quality: 56
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "Five Data Ethics Considerations for 2020"
     excerpt: "Data ethics, the right or wrong conduct related to handling data ... There is intense interest and focus on data processing because of the value that can be extracted and applied to areas such as artificial intelligence and automation. For the first time there are now trillion-dollar companies processing data to build assets and profits."
     publishedDateTime: 2020-01-30T22:03:00Z
-    sourceUrl: "https://www.eweek.com/it-management/five-data-ethics-considerations-for-2020"
+    webUrl: "https://www.eweek.com/it-management/five-data-ethics-considerations-for-2020"
     type: article
     provider:
       name: eWeek

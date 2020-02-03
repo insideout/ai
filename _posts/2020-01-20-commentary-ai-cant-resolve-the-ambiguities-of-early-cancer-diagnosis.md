@@ -3,9 +3,9 @@ category: news
 title: "Commentary: AI can’t resolve the ambiguities of early cancer diagnosis"
 excerpt: "Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms. But even the best artificial intelligence system can’t fix the uncertainties surrounding early cancer diagnosis. To understand why, it helps to have a sense of how AI systems learn."
 publishedDateTime: 2020-01-20T19:03:00Z
-sourceUrl: "https://www.statesman.com/opinion/20200119/commentary-ai-cant-resolve-ambiguities-of-early-cancer-diagnosis"
-ampUrl: "https://www.statesman.com/opinion/20200119/commentary-ai-cant-resolve-ambiguities-of-early-cancer-diagnosis?template=ampart"
-cdnAmpUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/opinion/20200119/commentary-ai-cant-resolve-ambiguities-of-early-cancer-diagnosis?template=ampart"
+webUrl: "https://www.statesman.com/opinion/20200119/commentary-ai-cant-resolve-ambiguities-of-early-cancer-diagnosis"
+ampWebUrl: "https://www.statesman.com/opinion/20200119/commentary-ai-cant-resolve-ambiguities-of-early-cancer-diagnosis?template=ampart"
+cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/opinion/20200119/commentary-ai-cant-resolve-ambiguities-of-early-cancer-diagnosis?template=ampart"
 type: article
 quality: 57
 heat: 67
@@ -28,7 +28,7 @@ related:
   - title: "Artificial Intelligence Diagnosing cancer with accuracy"
     excerpt: "The new year is opening with some intriguing news: The journal Nature reports that artificial intelligence is better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
     publishedDateTime: 2020-01-26T06:53:00Z
-    sourceUrl: "https://www.arkansasonline.com/news/2020/jan/26/artificial-intelligence-diagnosing-canc/?news-columnists"
+    webUrl: "https://www.arkansasonline.com/news/2020/jan/26/artificial-intelligence-diagnosing-canc/?news-columnists"
     type: article
     provider:
       name: Arkansas Democrat-Gazette

@@ -3,7 +3,7 @@ category: news
 title: "Precision Medicine and Artificial Intelligence: A Pilot Study on Deep Learning for Hypoglycemic Events Detection based on ECG"
 excerpt: "overcoming the intelligibility problem of deep-learning methods. These results advance the feasibility of a real-time, non-invasive hypoglycemia alarming system using short excerpts of ECG signal. The study presented in this paper aims at exploring the ..."
 publishedDateTime: 2020-01-13T10:10:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-019-56927-5"
+webUrl: "https://www.nature.com/articles/s41598-019-56927-5"
 type: article
 quality: 27
 heat: 27

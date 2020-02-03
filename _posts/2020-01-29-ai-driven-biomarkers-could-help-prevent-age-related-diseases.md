@@ -3,7 +3,7 @@ category: news
 title: "AI Driven Biomarkers Could Help Prevent Age-Related Diseases"
 excerpt: "AI will allow for enhanced precision in creating panels of actionable biomarkers obtained via digital wearable devices."
 publishedDateTime: 2020-01-29T04:25:00Z
-sourceUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/"
+webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/"
 type: article
 quality: 49
 heat: -1
@@ -25,9 +25,9 @@ related:
   - title: "AI Driven Biomarkers Of Aging"
     excerpt: "AI will allow for enhanced precision in creating panels of actionable biomarkers obtained via digital wearable devices."
     publishedDateTime: 2020-01-28T23:44:00Z
-    sourceUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/"
-    ampUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/"
-    cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/"
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/"
     type: article
     provider:
       name: Forbes

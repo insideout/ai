@@ -3,7 +3,7 @@ category: news
 title: "Opening the AI box: can deep learning predict cancer recurrence?"
 excerpt: "The deep-learning algorithm automatically annotates a 3D whole-mount pathology image and presents the discovered features in an understandable way. The patches with high probability of cancer recurrence are shown by colour and height. (Courtesy ..."
 publishedDateTime: 2020-01-29T10:13:00Z
-sourceUrl: "https://physicsworld.com/a/opening-the-ai-box-can-deep-learning-predict-cancer/"
+webUrl: "https://physicsworld.com/a/opening-the-ai-box-can-deep-learning-predict-cancer/"
 type: article
 quality: 54
 heat: 54

@@ -3,7 +3,7 @@ category: news
 title: "AI-enabled dock solution cuts down on driver time wasted"
 excerpt: "To find out what is really happening at the dock, Locix launched SmartDock, which seeks to cut the total amount of time a truck is at a shipper by adding inward and outward wireless cameras called HD Vision sensors hooked up to an artificial intelligence platform ... though an American Transportation Research Institute study reported ..."
 publishedDateTime: 2020-01-23T23:34:00Z
-sourceUrl: "https://www.trucker.com/news/article/21121196/aienabled-dock-solution-cuts-down-on-driver-time-wasted"
+webUrl: "https://www.trucker.com/news/article/21121196/aienabled-dock-solution-cuts-down-on-driver-time-wasted"
 type: article
 quality: 19
 heat: 19

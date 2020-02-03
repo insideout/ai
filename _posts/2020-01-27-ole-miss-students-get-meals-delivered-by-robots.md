@@ -3,9 +3,9 @@ category: news
 title: "Ole Miss students get meals delivered by robots"
 excerpt: "“We are excited about the expansion of our mobile ordering operation and the new opportunities this partnership creates.” The robots use a combination of sophisticated machine learning, artificial intelligence and sensors to travel on sidewalks and navigate around obstacles. The computer vision-based navigation helps the robots to map their ..."
 publishedDateTime: 2020-01-27T21:48:00Z
-sourceUrl: "https://www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots/"
-ampUrl: "https://www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots/amp/"
-cdnAmpUrl: "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots/amp/"
+webUrl: "https://www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots/"
+ampWebUrl: "https://www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots/amp/"
+cdnAmpWebUrl: "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/ole-miss-students-get-meals-delivered-by-robots/amp/"
 type: article
 quality: 59
 heat: 69
@@ -29,9 +29,9 @@ related:
   - title: "Ole Miss students, staff can order food delivered by robots"
     excerpt: "Its robots have traveled more than 350,000 miles and completed some 100,000 autonomous deliveries. The robots use a combination of sophisticated machine learning, artificial intelligence and sensors to travel on sidewalks and navigate around obstacles. The computer vision-based navigation helps the robots to map their environment to the nearest ..."
     publishedDateTime: 2020-01-30T19:31:00Z
-    sourceUrl: "https://www.gulflive.com/news/2020/01/ole-miss-students-staff-can-order-food-delivered-by-robots.html"
-    ampUrl: "https://www.gulflive.com/news/2020/01/ole-miss-students-staff-can-order-food-delivered-by-robots.html?outputType=amp"
-    cdnAmpUrl: "https://www-gulflive-com.cdn.ampproject.org/c/s/www.gulflive.com/news/2020/01/ole-miss-students-staff-can-order-food-delivered-by-robots.html?outputType=amp"
+    webUrl: "https://www.gulflive.com/news/2020/01/ole-miss-students-staff-can-order-food-delivered-by-robots.html"
+    ampWebUrl: "https://www.gulflive.com/news/2020/01/ole-miss-students-staff-can-order-food-delivered-by-robots.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-gulflive-com.cdn.ampproject.org/c/s/www.gulflive.com/news/2020/01/ole-miss-students-staff-can-order-food-delivered-by-robots.html?outputType=amp"
     type: article
     provider:
       name: Gulf Live

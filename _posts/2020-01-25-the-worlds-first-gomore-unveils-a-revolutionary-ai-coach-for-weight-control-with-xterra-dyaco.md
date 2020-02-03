@@ -3,7 +3,7 @@ category: news
 title: "The World's First | GoMore Unveils a Revolutionary AI Coach for Weight Control with XTERRA, Dyaco"
 excerpt: "MUNICH, Jan. 25, 2020 /PRNewswire/ -- GoMore will debut its bleeding edge AI Coach system alongside XTERRA, Dyaco group at 2020 ISPO Munich Exhibition at Messe München exhibition ground, Germany from Jan 26-29, 2020. The backbone of XTERRA's smarts to provide tailored exercise routines to consumers is GoMore's AI Coach System. By combining ..."
 publishedDateTime: 2020-01-25T11:07:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-worlds-first-gomore-unveils-revolutionary-ai-coach-weight-/2020/01/25/9086888.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-worlds-first-gomore-unveils-revolutionary-ai-coach-weight-/2020/01/25/9086888.htm"
 type: article
 quality: 24
 heat: 24

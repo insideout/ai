@@ -3,7 +3,7 @@ category: news
 title: "Search results for artificial intelligence"
 excerpt: "WHOI's robot, Nereid Under Ice (NUI), samples a patch of sediment from the mineral-rich floor of Kolumbo volcano off Santorini Island, Greece. This is the first known automated sample taken by a robot in the ocean."
 publishedDateTime: 2020-01-14T23:17:00Z
-sourceUrl: "https://phys.org/search/?search=artificial intelligence"
+webUrl: "https://phys.org/search/?search=artificial intelligence"
 type: article
 quality: 19
 heat: 19

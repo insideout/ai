@@ -3,9 +3,9 @@ category: news
 title: "China warned not to rush into creating digital currency to rival Facebook’s Libra, instead join global debate"
 excerpt: "A new theory appears to be emerging in China with regards how it should cope with the potential challenges from Facebook’s blockchain digital currency Libra ... for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry ..."
 publishedDateTime: 2020-01-26T12:30:00Z
-sourceUrl: "https://www.scmp.com/economy/global-economy/article/3047338/china-warned-not-rush-creating-digital-currency-rival"
-ampUrl: "https://amp.scmp.com/economy/global-economy/article/3047338/china-warned-not-rush-creating-digital-currency-rival"
-cdnAmpUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/global-economy/article/3047338/china-warned-not-rush-creating-digital-currency-rival"
+webUrl: "https://www.scmp.com/economy/global-economy/article/3047338/china-warned-not-rush-creating-digital-currency-rival"
+ampWebUrl: "https://amp.scmp.com/economy/global-economy/article/3047338/china-warned-not-rush-creating-digital-currency-rival"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/global-economy/article/3047338/china-warned-not-rush-creating-digital-currency-rival"
 type: article
 quality: 5
 heat: 5

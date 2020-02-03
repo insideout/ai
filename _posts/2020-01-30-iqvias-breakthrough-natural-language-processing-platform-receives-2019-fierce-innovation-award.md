@@ -3,9 +3,9 @@ category: news
 title: "IQVIA’s Breakthrough Natural Language Processing Platform Receives 2019 Fierce Innovation Award"
 excerpt: "\"Our teams are leveraging natural language processing, artificial intelligence and machine learning to drive healthcare breakthroughs ... healthcare stakeholders identify disease patterns and correlate with the precise treatment path and therapy needed for better outcomes. IQVIA’s insights and execution capabilities help biotech, medical ..."
 publishedDateTime: 2020-01-30T12:00:00Z
-sourceUrl: "https://markets.businessinsider.com/news/stocks/iqvia-s-breakthrough-natural-language-processing-platform-receives-2019-fierce-innovation-award-1028859376"
-ampUrl: "https://markets.businessinsider.com/amp/news/iqvia-s-breakthrough-natural-language-processing-platform-receives-2019-fierce-innovation-award-1028859376"
-cdnAmpUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/iqvia-s-breakthrough-natural-language-processing-platform-receives-2019-fierce-innovation-award-1028859376"
+webUrl: "https://markets.businessinsider.com/news/stocks/iqvia-s-breakthrough-natural-language-processing-platform-receives-2019-fierce-innovation-award-1028859376"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/iqvia-s-breakthrough-natural-language-processing-platform-receives-2019-fierce-innovation-award-1028859376"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/iqvia-s-breakthrough-natural-language-processing-platform-receives-2019-fierce-innovation-award-1028859376"
 type: article
 quality: 42
 heat: 42

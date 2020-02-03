@@ -3,7 +3,7 @@ category: news
 title: "Enterprise Artificial Intelligence Market Technology, Future Trends, Opportunities 2019 & Key Players Google Inc, Apple Inc., Amazon Web Services"
 excerpt: "The updated research report on ‘Global Enterprise Artificial Intelligence Market’ offers real-time information with ... This has driven the market of AI across the globe, owing to developments, such as self-driving cars, space exploration, accurate weather predictions, and others. Furthermore, AI is expected to affect healthcare ..."
 publishedDateTime: 2020-01-31T12:06:00Z
-sourceUrl: "https://www.cmo.com.au/mediareleases/38112/enterprise-artificial-intelligence-market/"
+webUrl: "https://www.cmo.com.au/mediareleases/38112/enterprise-artificial-intelligence-market/"
 type: article
 quality: 2
 heat: 2

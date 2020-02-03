@@ -3,7 +3,7 @@ category: news
 title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
 excerpt: "“In particular in the area of computational behavioral phenotyping, where the machine learning and computer vision challenges are very significant and not smaller than the privacy ones, combining our expertise and data with Microsoft’s capabilities in Azure and beyond are a perfect match.” Alexander Szalay is a Bloomberg Distinguished ..."
 publishedDateTime: 2020-01-28T17:16:00Z
-sourceUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
+webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
 type: article
 quality: 40
 heat: 40
@@ -31,7 +31,7 @@ related:
   - title: "Bei Yu Chosen as Microsoft Investigator Fellow"
     excerpt: "She uses machine learning and natural language processing techniques to improve information quality ... assure that everyone has fair access to relevant and accurate information. Azure cloud computing resources will not only enhance data storage and analysis for my research projects, but also provide the computing power to facilitate teaching ..."
     publishedDateTime: 2020-01-30T21:36:00Z
-    sourceUrl: "https://news.syr.edu/blog/2020/01/30/bei-yu-chosen-as-microsoft-investigator-fellow/"
+    webUrl: "https://news.syr.edu/blog/2020/01/30/bei-yu-chosen-as-microsoft-investigator-fellow/"
     type: article
     provider:
       name: Syracuse University News

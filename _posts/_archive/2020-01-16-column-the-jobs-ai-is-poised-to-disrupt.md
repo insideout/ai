@@ -3,9 +3,9 @@ category: news
 title: "Column: The jobs AI is poised to disrupt"
 excerpt: "Artificial Intelligence is pushing toward one particular aspect of human intelligence: prediction. And that could impact some high-skill, high-paying jobs."
 publishedDateTime: 2020-01-16T11:05:00Z
-sourceUrl: "https://www.bizjournals.com/triangle/news/2020/01/16/column-the-jobs-ai-is-poised-to-disrupt.html"
-ampUrl: "https://www.bizjournals.com/triangle/news/2020/01/16/column-the-jobs-ai-is-poised-to-disrupt.amp.html"
-cdnAmpUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/triangle/news/2020/01/16/column-the-jobs-ai-is-poised-to-disrupt.amp.html"
+webUrl: "https://www.bizjournals.com/triangle/news/2020/01/16/column-the-jobs-ai-is-poised-to-disrupt.html"
+ampWebUrl: "https://www.bizjournals.com/triangle/news/2020/01/16/column-the-jobs-ai-is-poised-to-disrupt.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/triangle/news/2020/01/16/column-the-jobs-ai-is-poised-to-disrupt.amp.html"
 type: article
 quality: 59
 heat: 59

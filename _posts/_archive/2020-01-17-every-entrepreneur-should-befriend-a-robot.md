@@ -3,9 +3,9 @@ category: news
 title: "Every Entrepreneur Should Befriend a Robot"
 excerpt: "For entrepreneurs just beginning their start-up journey, RPA is not usually a priority with product development ... Today, pragmatic Artificial Intelligence (AI) and natural language processing can enable robots to understand real world documents even if the document includes ‘noise’ (e.g. hard to read, poorly scanned etc)."
 publishedDateTime: 2020-01-17T12:43:00Z
-sourceUrl: "https://www.entrepreneur.com/article/345180"
-ampUrl: "https://www.entrepreneur.com/amphtml/345180"
-cdnAmpUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345180"
+webUrl: "https://www.entrepreneur.com/article/345180"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/345180"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345180"
 type: article
 quality: 89
 heat: 89

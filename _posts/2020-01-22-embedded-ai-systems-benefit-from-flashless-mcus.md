@@ -3,7 +3,7 @@ category: news
 title: "Embedded AI Systems Benefit from Flashless MCUs"
 excerpt: "One way to address these issues is through an external flash-memory architecture that provides high-throughput, low-power memory to enable AI applications in resource-constrained environments like embedded systems on the network edge. Read on to learn more about off-chip non-volatile memory and how external flash memory can meet the performance ..."
 publishedDateTime: 2020-01-22T19:22:00Z
-sourceUrl: "https://www.electronicdesign.com/industrial-automation/article/21121098/embedded-ai-systems-benefit-from-flashless-mcus"
+webUrl: "https://www.electronicdesign.com/industrial-automation/article/21121098/embedded-ai-systems-benefit-from-flashless-mcus"
 type: article
 quality: 19
 heat: 19

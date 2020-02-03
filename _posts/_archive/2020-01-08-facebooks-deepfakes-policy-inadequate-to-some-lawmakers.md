@@ -3,9 +3,9 @@ category: news
 title: "Facebook’s Deepfakes Policy ‘Inadequate’ to Some Lawmakers"
 excerpt: "Facebook Inc.’s new policy to address “deepfake” videos came under fire from some lawmakers and disinformation experts who say it fails to address other kinds of online manipulation. The criticism, in interviews,"
 publishedDateTime: 2020-01-08T20:23:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
-ampUrl: https://www.bloomberg.com/amp/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
-cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
+webUrl: https://www.bloomberg.com/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
+ampWebUrl: https://www.bloomberg.com/amp/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
+cdnAmpWebUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
 type: article
 quality: 54
 heat: 54

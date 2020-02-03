@@ -3,7 +3,7 @@ category: news
 title: "Turkcell Lays Out AI Principles"
 excerpt: "We are proud to become the first company to contribute to AI ethics in Turkey. The field will continuously expand and we will witness its transformative impacts in our daily lives,” he added. Speaking to the importance of AI applications being developed in Turkey and the advantages they offer to those developed abroad, Turkcell CIO Serkan ..."
 publishedDateTime: 2020-01-16T16:21:00Z
-sourceUrl: "https://mobileidworld.com/turkcell-lays-out-ai-principles-011601/"
+webUrl: "https://mobileidworld.com/turkcell-lays-out-ai-principles-011601/"
 type: article
 quality: 39
 heat: 39

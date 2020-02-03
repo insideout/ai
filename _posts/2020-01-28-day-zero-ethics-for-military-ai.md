@@ -3,7 +3,7 @@ category: news
 title: "Day Zero Ethics for Military AI"
 excerpt: "Only by considering legal and ethical principles long before Acquisition Milestone A will AI capabilities reflect enduring American principles. Ethical considerations should shape future system requirements, and developers should recognize both technical and ethical challenges. Incorporating ethics analysis could reshape development processes ..."
 publishedDateTime: 2020-01-28T08:48:00Z
-sourceUrl: "https://warontherocks.com/2020/01/day-zero-ethics-for-military-ai/"
+webUrl: "https://warontherocks.com/2020/01/day-zero-ethics-for-military-ai/"
 type: article
 quality: 54
 heat: 54

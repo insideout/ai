@@ -3,7 +3,7 @@ category: news
 title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
 excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
 publishedDateTime: 2020-01-15T17:37:00Z
-sourceUrl: "https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/"
+webUrl: "https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Congress moves toward facial recognition regulation"
     excerpt: "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ..."
     publishedDateTime: 2020-01-15T19:27:00Z
-    sourceUrl: "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/"
-    ampUrl: "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/"
-    cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/"
+    webUrl: "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/"
+    ampWebUrl: "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/"
     type: article
     provider:
       name: VentureBeat
@@ -42,9 +42,9 @@ related:
   - title: "EU mulls 5-year ban on facial recognition tech in public areas"
     excerpt: "BRUSSELS, Jan 16 (Reuters) - The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems ..."
     publishedDateTime: 2020-01-16T20:56:00Z
-    sourceUrl: "https://www.cnbc.com/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html"
-    ampUrl: "https://www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html"
-    cdnAmpUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html"
+    webUrl: "https://www.cnbc.com/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html"
     type: article
     provider:
       name: CNBC
@@ -57,9 +57,9 @@ related:
   - title: "EU mulls five-year ban on facial recognition tech in public areas"
     excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters."
     publishedDateTime: 2020-01-16T21:29:00Z
-    sourceUrl: "https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL?feedType=RSS&feedName=technologyNews"
-    ampUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL"
-    cdnAmpUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL"
+    webUrl: "https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL?feedType=RSS&feedName=technologyNews"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL"
     type: article
     provider:
       name: Reuters
@@ -72,9 +72,9 @@ related:
   - title: "The US Military Wants Long-Range in the Dark Facial Recognition"
     excerpt: "The military always likes to be at least one step ahead, so while we all get used to facial recognition unlocking our phones, the US military wants to detect the faces of individuals at long range and in the dark. As the OneZero blog reports, the US military is funding two contracts worth a combined value of $4.2 million. In return, the ..."
     publishedDateTime: 2020-01-16T16:46:00Z
-    sourceUrl: "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition"
-    ampUrl: "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1"
-    cdnAmpUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1"
+    webUrl: "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition"
+    ampWebUrl: "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1"
+    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1"
     type: article
     provider:
       name: PC Magazine
@@ -87,9 +87,9 @@ related:
   - title: "EU mulls 5-year ban on facial recognition tech in public spaces"
     excerpt: "(Reuters) — The European Union is considering banning facial recognition technology in public areas for up to five years to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive — set out in an 18-page white paper — comes amid a global debate about the systems driven by ..."
     publishedDateTime: 2020-01-17T14:21:00Z
-    sourceUrl: "https://venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/"
-    ampUrl: "https://venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/amp/"
-    cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/amp/"
+    webUrl: "https://venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/"
+    ampWebUrl: "https://venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/amp/"
     type: article
     provider:
       name: VentureBeat
@@ -102,9 +102,9 @@ related:
   - title: "EU mulls five-year ban on facial recognition tech in public areas"
     excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters."
     publishedDateTime: 2020-01-17T01:52:00Z
-    sourceUrl: "https://www.reuters.com/article/us-eu-ai-idUSKBN1ZF2QL"
-    ampUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL"
-    cdnAmpUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL"
+    webUrl: "https://www.reuters.com/article/us-eu-ai-idUSKBN1ZF2QL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL"
     type: article
     provider:
       name: Reuters
@@ -117,9 +117,9 @@ related:
   - title: "Europe might ban facial recognition in public spaces for up to 5 years"
     excerpt: "Facial recognition technology may soon be banned in the public spaces of the European Union. The European Commission is considering a temporary ban, lasting 3-5 years, on such technology in public spaces, for private and public organizations alike. This is according to a draft white paper on artificial intelligence, obtained by Euractiv and ..."
     publishedDateTime: 2020-01-17T14:41:00Z
-    sourceUrl: "https://mashable.com/article/eu-facial-recognition-ban/"
-    ampUrl: "https://mashable.com/article/eu-facial-recognition-ban.amp"
-    cdnAmpUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/eu-facial-recognition-ban.amp"
+    webUrl: "https://mashable.com/article/eu-facial-recognition-ban/"
+    ampWebUrl: "https://mashable.com/article/eu-facial-recognition-ban.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/eu-facial-recognition-ban.amp"
     type: article
     provider:
       name: Mashable
@@ -132,9 +132,9 @@ related:
   - title: "Google and Microsoft spar over EU plan to ban facial recognition"
     excerpt: "(Reuters) — The EU’s proposal for a temporary ban on facial recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said ..."
     publishedDateTime: 2020-01-21T05:10:00Z
-    sourceUrl: "https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/"
-    ampUrl: "https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/"
-    cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/"
+    webUrl: "https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/"
+    ampWebUrl: "https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/"
     type: article
     provider:
       name: VentureBeat
@@ -147,9 +147,9 @@ related:
   - title: "Google CEO backs temporary ban on facial recognition"
     excerpt: "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ..."
     publishedDateTime: 2020-01-21T17:22:00Z
-    sourceUrl: "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar"
-    ampUrl: "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp"
-    cdnAmpUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp"
+    webUrl: "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar"
+    ampWebUrl: "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp"
     type: article
     provider:
       name: Fox News
@@ -162,9 +162,9 @@ related:
   - title: "Google favors temporary facial recognition ban as Microsoft pushes back"
     excerpt: "The regulation of facial recognition is emerging as a key disagreement among the world’s biggest tech companies, with Alphabet and Google CEO Sundar Pichai suggesting a temporary ban, as recently suggested by the EU, might be welcome, while Microsoft’s chief legal officer Brad Smith cautions against such intervention. “I think it is ..."
     publishedDateTime: 2020-01-21T11:51:00Z
-    sourceUrl: "https://www.theverge.com/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith"
-    ampUrl: "https://www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith"
-    cdnAmpUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith"
+    webUrl: "https://www.theverge.com/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith"
     type: article
     provider:
       name: The Verge
@@ -177,9 +177,9 @@ related:
   - title: "Facial recognition's accuracy is the least of our worries, lawmakers say"
     excerpt: "One of the issues with facial recognition today is its high error rates with people of color and women. But lawmakers on Wednesday pointed to a broader concern as well: Facial recognition's effects on civil liberties and privacy. At the House Oversight Committee's third hearing on facial recognition, members of Congress looked to address the ..."
     publishedDateTime: 2020-01-16T00:34:00Z
-    sourceUrl: "https://www.cnet.com/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/"
-    ampUrl: "https://www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/"
-    cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/"
+    webUrl: "https://www.cnet.com/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/"
     type: article
     provider:
       name: CNET
@@ -192,9 +192,9 @@ related:
   - title: "From Washington state to Washington DC, lawmakers rush to regulate facial recognition"
     excerpt: "Amid the start of an impeachment trial; talk of mounting hostility with Iran; new trade deals with China, Canada, and Mexico; and the final presidential debate before the start of the Democratic presidential primary season, you might’ve missed it, but it was also a momentous week for facial recognition regulation. A bipartisan group in ..."
     publishedDateTime: 2020-01-19T21:09:00Z
-    sourceUrl: "https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/"
-    ampUrl: "https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/"
-    cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/"
+    webUrl: "https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/"
+    ampWebUrl: "https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/"
     type: article
     provider:
       name: VentureBeat
@@ -207,9 +207,9 @@ related:
   - title: "Microsoft disagrees with EU facial-recognition ban"
     excerpt: "Microsoft disagrees with the EU's plan to ban facial recognition, saying the only way to make the technology better is to use it. The European Commission is considering a five-year ban on facial recognition in public spaces in order to buy time to assess risks and develop legislation. The move comes as other public authorities, notably the ..."
     publishedDateTime: 2020-01-21T10:49:00Z
-    sourceUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban"
-    ampUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp"
-    cdnAmpUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp"
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp"
     type: article
     provider:
       name: IT Pro
@@ -222,9 +222,9 @@ related:
   - title: "Facial-Recognition Technology Doesn't Have to Destroy Privacy"
     excerpt: "Regulation moves at a snail's pace, so it's up to CEOs, executives, and employees to reject projects that put profit over privacy. Clearview AI facial-recognition tech is just the latest example of 'innovation' that could quickly get out of hand."
     publishedDateTime: 2020-01-22T16:09:00Z
-    sourceUrl: "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy"
-    ampUrl: "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true"
-    cdnAmpUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true"
+    webUrl: "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy"
+    ampWebUrl: "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true"
     type: article
     provider:
       name: PC Magazine
@@ -237,9 +237,9 @@ related:
   - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
     excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
     publishedDateTime: 2020-01-16T01:11:00Z
-    sourceUrl: "https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1/"
-    ampUrl: "https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1"
-    cdnAmpUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1"
+    webUrl: "https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1/"
+    ampWebUrl: "https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1"
+    cdnAmpWebUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1"
     type: article
     provider:
       name: Business Insider
@@ -252,7 +252,7 @@ related:
   - title: "Facial recognition tech to find the Holocaust's lost horrors"
     excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Francesca Lynagh reports."
     publishedDateTime: 2020-01-21T16:01:00Z
-    sourceUrl: "https://www.reuters.com/video/watch/idOVBX4GGOB"
+    webUrl: "https://www.reuters.com/video/watch/idOVBX4GGOB"
     type: article
     provider:
       name: Reuters
@@ -265,9 +265,9 @@ related:
   - title: "EU considers temporary ban on facial recognition in public spaces"
     excerpt: "European Union leaders are considering a ban on the use of facial recognition in public spaces for up to five years until safeguards to mitigate the technology's risks are in place, according to a draft document obtained by POLITICO. Building on Europe's existing tough privacy laws, a \"future regulatory framework could go further and include a ..."
     publishedDateTime: 2020-01-17T12:30:00Z
-    sourceUrl: "https://www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/"
-    ampUrl: "https://www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/amp/"
-    cdnAmpUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/amp/"
+    webUrl: "https://www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/"
+    ampWebUrl: "https://www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/amp/"
     type: article
     provider:
       name: POLITICO
@@ -280,9 +280,9 @@ related:
   - title: "EU eyes temporary ban on facial recognition in public places"
     excerpt: "Draft white paper suggest prohibition lasting three to five years is being considered"
     publishedDateTime: 2020-01-17T12:14:00Z
-    sourceUrl: "https://www.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places"
-    ampUrl: "https://amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places"
-    cdnAmpUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places"
+    webUrl: "https://www.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places"
     type: article
     provider:
       name: The Guardian
@@ -295,9 +295,9 @@ related:
   - title: "Facial recognition: EU considers ban of up to five years"
     excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
     publishedDateTime: 2020-01-17T13:46:00Z
-    sourceUrl: "https://www.bbc.co.uk/news/technology-51148501"
-    ampUrl: "https://www.bbc.co.uk/news/amp/technology-51148501"
-    cdnAmpUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501"
+    webUrl: "https://www.bbc.co.uk/news/technology-51148501"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51148501"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501"
     type: article
     provider:
       name: BBC
@@ -310,9 +310,9 @@ related:
   - title: "AI Is Promising but Needs Regulation, Says Alphabet CEO"
     excerpt: "Among the areas that AI has been touted as being used for are visual perception, speech recognition and language translation. Last year, several Bay Area cities, including Oakland, San Francisco, Berkeley and Alameda banned the use of facial recognition technology by law enforcement officers on the grounds that it could violate individuals ..."
     publishedDateTime: 2020-01-21T23:44:00Z
-    sourceUrl: "https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html"
-    ampUrl: "https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP"
-    cdnAmpUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP"
+    webUrl: "https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html"
+    ampWebUrl: "https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP"
     type: article
     provider:
       name: Governing
@@ -325,9 +325,9 @@ related:
   - title: "Google backs EU’s proposed facial recognition ban; Microsoft disagrees"
     excerpt: "A ban is like “using a meat cleaver instead of a scalpel to solve potential problems”, he said. Smith also focussed on the benefits of facial recognition technology, citing the example of its use in finding missing children. It is the government’s responsibility to understand how technology is being used, identifying problem areas before ..."
     publishedDateTime: 2020-01-21T13:41:00Z
-    sourceUrl: "https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece"
-    ampUrl: "https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/"
-    cdnAmpUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/"
+    webUrl: "https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/"
     type: article
     provider:
       name: Business Line
@@ -340,9 +340,9 @@ related:
   - title: "The EU is considering banning facial recognition in public for 5 years"
     excerpt: "p class=”dropcap”>In a bid to curb the misuse of facial recognition technology, the European Commission has revealed that it’s considering a ban on the use of facial recognition in public areas for up to 5 years. While the use of facial recognition is on the rise, the European regulators want time to draft rules to prevent the technology ..."
     publishedDateTime: 2020-01-21T09:02:00Z
-    sourceUrl: "https://www.xda-developers.com/eu-considering-banning-facial-recognition-public/"
-    ampUrl: "https://www.xda-developers.com/eu-considering-banning-facial-recognition-public/amp/"
-    cdnAmpUrl: "https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/eu-considering-banning-facial-recognition-public/amp/"
+    webUrl: "https://www.xda-developers.com/eu-considering-banning-facial-recognition-public/"
+    ampWebUrl: "https://www.xda-developers.com/eu-considering-banning-facial-recognition-public/amp/"
+    cdnAmpWebUrl: "https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/eu-considering-banning-facial-recognition-public/amp/"
     type: article
     provider:
       name: XDA Developers
@@ -355,9 +355,9 @@ related:
   - title: "US spends $4.5m on heat-based facial recognition that works at 1,600ft"
     excerpt: "According to a couple of new contracts posted on the federal spending database, the United States military is cashing in on developing a new form of facial recognition technology. If you assumed that the US military was already using facial recognition technology on the battlefield, then you would have been right. The current use of facial ..."
     publishedDateTime: 2020-01-21T08:12:00Z
-    sourceUrl: "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/index.html"
-    ampUrl: "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html"
-    cdnAmpUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html"
+    webUrl: "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html"
     type: article
     provider:
       name: TweakTown
@@ -370,7 +370,7 @@ related:
   - title: "Facial recognition tech tests tolerance of public in Britain"
     excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
     publishedDateTime: 2020-01-17T05:15:00Z
-    sourceUrl: "https://www.paducahsun.com/news/general/facial-recognition-tech-tests-tolerance-of-public-in-britain/article_8982dcc0-f9d9-50a2-a7f6-07973c09239c.html"
+    webUrl: "https://www.paducahsun.com/news/general/facial-recognition-tech-tests-tolerance-of-public-in-britain/article_8982dcc0-f9d9-50a2-a7f6-07973c09239c.html"
     type: article
     provider:
       name: Paducah Sun
@@ -383,7 +383,7 @@ related:
   - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
     excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
     publishedDateTime: 2020-01-15T16:41:00Z
-    sourceUrl: "https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1"
+    webUrl: "https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1"
     type: article
     provider:
       name: Business Insider
@@ -396,7 +396,7 @@ related:
   - title: "Maloney dives headfirst into facial recognition"
     excerpt: "Rep. Carolyn Maloney, the newly installed chair of the House Oversight and Reform Committee, signalled on Wednesday that Congress could soon introduce legislation to regulate the use of facial recognition technology. “Our committee is committed to ..."
     publishedDateTime: 2020-01-16T16:01:00Z
-    sourceUrl: "https://www.cityandstateny.com/articles/policy/technology/maloney-dives-headfirst-facial-recognition.html"
+    webUrl: "https://www.cityandstateny.com/articles/policy/technology/maloney-dives-headfirst-facial-recognition.html"
     type: article
     provider:
       name: City & State New York
@@ -409,7 +409,7 @@ related:
   - title: "Software Detects Backdoor Attacks on Facial Recognition"
     excerpt: "As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran ..."
     publishedDateTime: 2020-01-16T15:04:00Z
-    sourceUrl: "https://www.defensemedianetwork.com/stories/software-detects-backdoor-attacks-facial-recognition/"
+    webUrl: "https://www.defensemedianetwork.com/stories/software-detects-backdoor-attacks-facial-recognition/"
     type: article
     provider:
       name: defensemedianetwork.com
@@ -422,9 +422,9 @@ related:
   - title: "Why your palm could be safer than fingerprints or facial recognition"
     excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
     publishedDateTime: 2020-01-16T05:27:00Z
-    sourceUrl: "https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition"
-    ampUrl: "https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition"
-    cdnAmpUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition"
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition"
     type: article
     provider:
       name: South China Morning Post
@@ -433,7 +433,7 @@ related:
   - title: "EU considers five-year ban on public facial recognition tech"
     excerpt: "Facial recognition tech in the EU may be banned for up to five years in order to develop an ethical framework for its use. With a number of privacy and ethical concerns raised across the world by the roll-out of public facial recognition tech, the EU is considering a temporary ban on its use. According to Reuters, such a ban could last for up ..."
     publishedDateTime: 2020-01-17T10:49:00Z
-    sourceUrl: "https://www.siliconrepublic.com/machines/eu-facial-recognition-ban"
+    webUrl: "https://www.siliconrepublic.com/machines/eu-facial-recognition-ban"
     type: article
     provider:
       name: SiliconRepublic
@@ -446,7 +446,7 @@ related:
   - title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
     excerpt: "House lawmakers—and, according to those representatives, their constituents—are wary of facial recognition and are working on legislation that would halt its progress as Congress and federal regulators get their arms around how the technology is being ..."
     publishedDateTime: 2020-01-15T20:10:00Z
-    sourceUrl: "https://www.nextgov.com/emerging-tech/2020/01/lawmakers-working-legislation-pause-use-facial-recognition-technology/162470/"
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/01/lawmakers-working-legislation-pause-use-facial-recognition-technology/162470/"
     type: article
     provider:
       name: Nextgov
@@ -459,7 +459,7 @@ related:
   - title: "Researchers developing facial recognition wearable for emergency service workers"
     excerpt: "Researchers in the Department of Electrical and Computer Engineering at the University of New Mexico led by Professor Manel Martínez-Ramón are working on facial recognition-equipped wearable devices to help firefighters and emergency service workers with navigation, communication, and threat assessment, the university announced. The projects ..."
     publishedDateTime: 2020-01-16T21:22:00Z
-    sourceUrl: "https://www.biometricupdate.com/202001/researchers-developing-facial-recognition-wearable-for-emergency-service-workers"
+    webUrl: "https://www.biometricupdate.com/202001/researchers-developing-facial-recognition-wearable-for-emergency-service-workers"
     type: article
     provider:
       name: Biometric Companies
@@ -472,7 +472,7 @@ related:
   - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
     excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
     publishedDateTime: 2020-01-17T00:32:00Z
-    sourceUrl: "https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/"
+    webUrl: "https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/"
     type: article
     provider:
       name: Help Net Security
@@ -485,7 +485,7 @@ related:
   - title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
     excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
     publishedDateTime: 2020-01-17T22:05:00Z
-    sourceUrl: "https://www.commercialintegrator.com/podcast/facial-detection-episode-88/"
+    webUrl: "https://www.commercialintegrator.com/podcast/facial-detection-episode-88/"
     type: article
     provider:
       name: Commercial Integrator
@@ -498,7 +498,7 @@ related:
   - title: "Artificial Intelligence: AI Regulations, Policies, Privacy and Innovations"
     excerpt: "Artificial Intelligence (AI) technology promises to automate and reshape business, commerce and consumer activities worldwide. But AI also triggers concerns about privacy, bias, security and plenty more. Concerns about AI, facial recognition technology and privacy are running particularly high. As a result, the AI industry and governments ..."
     publishedDateTime: 2020-01-21T12:33:00Z
-    sourceUrl: "https://www.channele2e.com/technology/ai/artificial-intelligence-regulations-policies-privacy/"
+    webUrl: "https://www.channele2e.com/technology/ai/artificial-intelligence-regulations-policies-privacy/"
     type: article
     provider:
       name: ChannelE2E
@@ -507,7 +507,7 @@ related:
   - title: "Facial Recognition Hardware To Feature On Over 800m Mobiles By 2024, But Software Will Win Out"
     excerpt: "As the longest running biometric modality, fingerprint payments will take the lead in this market as standards coalesce around the technology more easily than for facial recognition payments.“Many consumers are now used to making fingerprint-based biometric payments, both for contactless and remote payments,” remarked research author James ..."
     publishedDateTime: 2020-01-16T17:01:00Z
-    sourceUrl: "https://www.vendingmarketwatch.com/technology/mobile-payment-systems/news/21121613/facial-recognition-hardware-to-feature-on-over-800m-mobiles-by-2024-but-software-will-win-out"
+    webUrl: "https://www.vendingmarketwatch.com/technology/mobile-payment-systems/news/21121613/facial-recognition-hardware-to-feature-on-over-800m-mobiles-by-2024-but-software-will-win-out"
     type: article
     provider:
       name: VendingMarketWatch
@@ -520,7 +520,7 @@ related:
   - title: "Automatic Content Recognition Market 2020 Region Wise Analysis of Top Players In Market By Its Types And Application By 2027"
     excerpt: "Automatic Content Recognition market research report analyzes adoption trends, key challenges, future growth potentials, Key Drivers, Economical Viewpoint, Restraints, Growth Prospects, market ecosystem,"
     publishedDateTime: 2020-01-21T08:38:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/automatic-content-recognition-market-2020-region-wise-analysis-of-top-players-in-market-by-its-types-and-application-by-2027-2020-01-21"
+    webUrl: "https://www.marketwatch.com/press-release/automatic-content-recognition-market-2020-region-wise-analysis-of-top-players-in-market-by-its-types-and-application-by-2027-2020-01-21"
     type: article
     provider:
       name: MarketWatch
@@ -533,7 +533,7 @@ related:
   - title: "Activists pressure colleges to abandon facial-recognition tech (EdScoop)"
     excerpt: "\"Promoted as a technology to create a safer and more secure world, facial-recognition software, which is capable of identifying a person from a digital image or a video frame, is beginning to pop up at colleges across the country — but digital rights ..."
     publishedDateTime: 2020-01-16T20:37:00Z
-    sourceUrl: "https://www.avnetwork.com/news/activists-pressure-colleges-to-abandon-facial-recognition-tech-edscoop"
+    webUrl: "https://www.avnetwork.com/news/activists-pressure-colleges-to-abandon-facial-recognition-tech-edscoop"
     type: article
     provider:
       name: AV Network
@@ -546,9 +546,9 @@ related:
   - title: "Facial-recognition algos vary wildly, US Congress told, as politicians try to come up with new laws on advanced tech"
     excerpt: "... in with a single cloud giant's toolset – or bring together best tools from a bunch of vendors Vid A recent US government report investigating the accuracy of facial recognition systems across different demographic groups has sparked fresh questions on how the technology should be regulated. The House Committee on Oversight and Reform ..."
     publishedDateTime: 2020-01-16T06:12:00Z
-    sourceUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/01/16/facial_recognition_congress/"
-    ampUrl: "https://www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/"
-    cdnAmpUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/"
+    webUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/01/16/facial_recognition_congress/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/"
     type: article
     provider:
       name: The Register
@@ -561,7 +561,7 @@ related:
   - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
     excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object ..."
     publishedDateTime: 2020-01-09T20:49:00Z
-    sourceUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
+    webUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
     type: article
     provider:
       name: Government Technology
@@ -570,7 +570,7 @@ related:
   - title: "Speech Recognition On An Arduino"
     excerpt: "Speech recognition is usually the purview of fairly high-powered computers chugging along at hundreds of Megahertz with megabytes of RAM. Bringing speech recognition to the low-power ..."
     publishedDateTime: 2020-01-15T00:00:00Z
-    sourceUrl: "https://hackaday.com/2012/09/22/speech-recognition-on-an-arduino/"
+    webUrl: "https://hackaday.com/2012/09/22/speech-recognition-on-an-arduino/"
     type: article
     provider:
       name: Hackaday
@@ -579,7 +579,7 @@ related:
   - title: "How Facial Recognition Market will Grow at Highest CAGR"
     excerpt: "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity theft. According to a study conducted by a California-based private research firm, Javelin Strategy, in 2017, 16.7 million Americans fell victim to identity theft crimes. Further, 1 million children in the US in 2017 were victims ..."
     publishedDateTime: 2020-01-17T10:28:00Z
-    sourceUrl: "https://www.openpr.com/news/1899358/how-facial-recognition-market-will-grow-at-highest-cagr"
+    webUrl: "https://www.openpr.com/news/1899358/how-facial-recognition-market-will-grow-at-highest-cagr"
     type: article
     provider:
       name: openpr.com
@@ -588,7 +588,7 @@ related:
   - title: "EU Considering Banning Face Recognition Technology In Public"
     excerpt: "The BBC is reporting that the EU is considering a five-year ban on facial recognition in public faces for up to five years. Regulators want to establish whether the technology is being misused and are considering new legislation to govern the technology."
     publishedDateTime: 2020-01-20T13:53:00Z
-    sourceUrl: "https://www.mediapost.com/publications/article/345888/eu-considering-banning-face-recognition-technology.html?edition=116895"
+    webUrl: "https://www.mediapost.com/publications/article/345888/eu-considering-banning-face-recognition-technology.html?edition=116895"
     type: article
     provider:
       name: MediaPost
@@ -597,7 +597,7 @@ related:
   - title: "What is Voice Recognition"
     excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
     publishedDateTime: 2020-01-11T11:43:00Z
-    sourceUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
+    webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
     type: article
     provider:
       name: TWCN Tech News

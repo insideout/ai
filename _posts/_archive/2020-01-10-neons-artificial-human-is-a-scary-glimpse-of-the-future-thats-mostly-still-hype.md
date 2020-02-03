@@ -3,9 +3,9 @@ category: news
 title: "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype"
 excerpt: "We've grown accustomed to asking virtual assistants like Siri and Alexa to do small tasks for us and provide basic information. But if the CEO of a Samsung-backed startup has his way, \"artificial humans\" will become your teachers,"
 publishedDateTime: 2020-01-10T14:32:00Z
-sourceUrl: "https://www.cnn.com/2020/01/10/tech/samsung-neon/index.html"
-ampUrl: "https://amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html"
-cdnAmpUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html"
+webUrl: "https://www.cnn.com/2020/01/10/tech/samsung-neon/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html"
 type: article
 quality: 67
 heat: 77
@@ -33,9 +33,9 @@ related:
   - title: "The age of artificial humans is here"
     excerpt: "or more intelligent than human beings falls under the brand of artificial general intelligence (AGI). In fact, Cross referred to Soul Machines as an “AGI research\" company instead of an AI research firm. AGI is pretty much every world-dominating robot or AI you have seen in movies, like, say, The Terminator or Avengers: Age of Ultron."
     publishedDateTime: 2020-01-16T15:57:00Z
-    sourceUrl: "https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here-11579187404431.html"
-    ampUrl: "https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html"
-    cdnAmpUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html"
+    webUrl: "https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here-11579187404431.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html"
     type: article
     provider:
       name: Mint

@@ -2,7 +2,7 @@
 title: "Using PyTorch in the Cloud: PyTorch Playbook"
 excerpt: "This course covers the important aspects of using PyTorch on Amazon Web Services (AWS), Microsoft Azure, and the Google Cloud Platform (GCP), including the use of cloud-hosted notebooks, deep learning VM instances with GPU support, and PyTorch estimators.
 "
-sourceUrl: https://www.pluralsight.com/courses/using-pytorch-in-the-cloud-playbook
+webUrl: https://www.pluralsight.com/courses/using-pytorch-in-the-cloud-playbook
 type: course
 price: $$
 length: 2h 21m

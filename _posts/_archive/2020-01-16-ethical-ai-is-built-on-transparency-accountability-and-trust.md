@@ -3,7 +3,7 @@ category: news
 title: "Ethical AI is Built On Transparency, Accountability and Trust"
 excerpt: "Dr. Steven Mintz explores the principles governing the ethical use of AI. Ethics are important, whether in our personal or professional lives. Most people believe that ethical behavior encompasses standards such as honesty, fairness, integrity ..."
 publishedDateTime: 2020-01-16T12:34:00Z
-sourceUrl: "https://www.corporatecomplianceinsights.com/ethical-use-artificial-intelligence/"
+webUrl: "https://www.corporatecomplianceinsights.com/ethical-use-artificial-intelligence/"
 type: article
 quality: 54
 heat: 54

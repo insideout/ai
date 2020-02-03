@@ -3,7 +3,7 @@ category: news
 title: "Alliant Energy study uses artificial intelligence to hunt down phantom power, target waste"
 excerpt: "Using off-the-shelf Sense home monitoring devices powered by artificial intelligence, the Madison-based utility determined most customers can cut their overall use by 9% just by tracking down and eliminating some of this phantom load. Alliant customers in the ongoing study discovered things like an attic fan, a baby monitor that fell behind a ..."
 publishedDateTime: 2020-01-27T11:00:00Z
-sourceUrl: "https://madison.com/wsj/news/local/environment/alliant-energy-study-uses-artificial-intelligence-to-hunt-down-phantom/article_ade50d09-0c36-5015-a5b7-a56fc92e2132.html"
+webUrl: "https://madison.com/wsj/news/local/environment/alliant-energy-study-uses-artificial-intelligence-to-hunt-down-phantom/article_ade50d09-0c36-5015-a5b7-a56fc92e2132.html"
 type: article
 quality: 27
 heat: 27

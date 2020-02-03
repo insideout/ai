@@ -3,7 +3,7 @@ category: news
 title: "Robot Court Reporters?, Impeachment Trial Nears, Inside Astros Cheating Scandal: The Morning Minute"
 excerpt: "It also opened a Pittsburgh office. SAY WHAT? Traditional court reporting services are becoming obsolete. Victoria Hudgins reports that AI-powered transcription platform Verbit has closed a $31 million round of funding. Verbit uses machine learning technology to transcribe and caption audio and video, while human transcribers correct any errors ..."
 publishedDateTime: 2020-01-16T11:09:00Z
-sourceUrl: "https://www.law.com/2020/01/16/robot-court-reporters-impeachment-trial-nears-inside-astros-cheating-scandal-the-morning-minute/"
+webUrl: "https://www.law.com/2020/01/16/robot-court-reporters-impeachment-trial-nears-inside-astros-cheating-scandal-the-morning-minute/"
 type: article
 quality: 25
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "Plain Talk Podcast: Congressman Armstrong talks impeachment, trade, facial recognition, and the Astros cheating scandal"
     excerpt: "We rely on advertising to deliver quality local news to the communities we serve. Please disable your ad blocker and refresh the page or subscribe to a digital membership and support our journalism efforts."
     publishedDateTime: 2020-01-16T18:19:00Z
-    sourceUrl: "https://www.inforum.com/opinion/4868033-Plain-Talk-Podcast-Congressman-Armstrong-talks-impeachment-trade-facial-recognition-and-the-Astros-cheating-scandal"
+    webUrl: "https://www.inforum.com/opinion/4868033-Plain-Talk-Podcast-Congressman-Armstrong-talks-impeachment-trade-facial-recognition-and-the-Astros-cheating-scandal"
     type: article
     provider:
       name: INFORUM

@@ -3,9 +3,9 @@ category: news
 title: "Apple Patents Self-Driving Car Technology That Functions Through Interactions"
 excerpt: "A recently published Apple patent reveals that the Cupertino tech giant is looking into a self-driving car technology that uses interactions to control the vehicle."
 publishedDateTime: 2020-01-30T01:59:00Z
-sourceUrl: "https://www.ibtimes.com/apple-patents-self-driving-car-technology-functions-through-interactions-2911435"
-ampUrl: "https://www.ibtimes.com/apple-patents-self-driving-car-technology-functions-through-interactions-2911435?amp=1"
-cdnAmpUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/apple-patents-self-driving-car-technology-functions-through-interactions-2911435?amp=1"
+webUrl: "https://www.ibtimes.com/apple-patents-self-driving-car-technology-functions-through-interactions-2911435"
+ampWebUrl: "https://www.ibtimes.com/apple-patents-self-driving-car-technology-functions-through-interactions-2911435?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/apple-patents-self-driving-car-technology-functions-through-interactions-2911435?amp=1"
 type: article
 quality: 41
 heat: 41

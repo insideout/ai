@@ -3,9 +3,9 @@ category: news
 title: "A Look Inside Augmented Analytics And Its Business Value In 2020"
 excerpt: "Here's what you need to know about augmented analytics -- and how to deploy the technology to support your business development goals."
 publishedDateTime: 2020-01-16T15:25:00Z
-sourceUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/"
-ampUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/"
+webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/"
+ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/"
 type: article
 quality: 74
 heat: 84
@@ -33,7 +33,7 @@ related:
   - title: "Varicent acquires Symon.AI to provide enhanced analytics to business users and data scientists"
     excerpt: "He will continue with his teaching and research alongside his duties at Varicent. “In my work across myriad brands and businesses, the Symon.AI technology stood out and compelled me to become involved with Varicent,” said Dr. Joel Shapiro, Chief Analytics Officer for Varicent. “With this technology Varicent now has the opportunity to ..."
     publishedDateTime: 2020-01-23T00:36:00Z
-    sourceUrl: "https://www.helpnetsecurity.com/2020/01/23/varicent-symon-ai/"
+    webUrl: "https://www.helpnetsecurity.com/2020/01/23/varicent-symon-ai/"
     type: article
     provider:
       name: Help Net Security

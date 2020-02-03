@@ -3,7 +3,7 @@ category: news
 title: "Tachyum Joins Open Compute Project as It Designs Reference Boards for Its Prodigy Chip"
 excerpt: "Tachyum’s Prodigy Universal Processor Chips unlock unprecedented performance ... companies operating large scale Artificial Intelligence (AI) systems, and enterprise companies operating private cloud. This unprecedented unification and economy of scale allow just a few reference designs to address multiple large and growing markets."
 publishedDateTime: 2020-01-28T12:00:00Z
-sourceUrl: "https://www.businesswire.com/news/home/20200128005284/en/Tachyum-Joins-Open-Compute-Project-Designs-Reference"
+webUrl: "https://www.businesswire.com/news/home/20200128005284/en/Tachyum-Joins-Open-Compute-Project-Designs-Reference"
 type: article
 quality: 11
 heat: 11

@@ -3,9 +3,9 @@ category: news
 title: "Baidu: Turnaround In Action"
 excerpt: "The app currently has a decent 189mil DAUs. Source: google images Baidu is also is a leading company in AI, with its self driving platform Apollo, its Open AI platform with over 1.5mil developers, and its DuerOS AI voice assistant device. It owns a large chunk of publicly listed Trip.com(TCOM) and iQiyi(IQ). It offers a series of products and ..."
 publishedDateTime: 2019-12-30T20:26:00Z
-sourceUrl: https://seekingalpha.com/article/4314590-baidu-turnaround-in-action
-ampUrl: https://seekingalpha.com/amp/article/4314590-baidu-turnaround-in-action
-cdnAmpUrl: https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4314590-baidu-turnaround-in-action
+webUrl: https://seekingalpha.com/article/4314590-baidu-turnaround-in-action
+ampWebUrl: https://seekingalpha.com/amp/article/4314590-baidu-turnaround-in-action
+cdnAmpWebUrl: https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4314590-baidu-turnaround-in-action
 type: article
 quality: 39
 heat: 39

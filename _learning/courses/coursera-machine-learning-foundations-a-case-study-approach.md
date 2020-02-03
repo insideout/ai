@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Foundations: A Case Study Approach"
 excerpt: "Learn Machine Learning Foundations: A Case Study Approach from University of Washington. Do you have data and wonder what it can tell you?  Do you need a deeper understanding of the core ways in which machine learning can improve your business?  ..."
-sourceUrl: https://www.coursera.org/learn/ml-foundations
+webUrl: https://www.coursera.org/learn/ml-foundations
 type: course
 price: Free+
 length: 24 hours

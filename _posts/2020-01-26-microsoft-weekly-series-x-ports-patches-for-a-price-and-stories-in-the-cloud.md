@@ -3,7 +3,7 @@ category: news
 title: "Microsoft Weekly: Series X ports, patches for a price, and stories in the cloud"
 excerpt: "In either video or written form, Microsoft is inviting folks to share technical content relating to interesting experiences with Azure. These can revolve around open source, apps, DevOps + infrastructure, Big Data and Distributed Systems, Machine Learning and Data Science, as well as research. Submitted stories will be vetted by a committee of ..."
 publishedDateTime: 2020-01-26T12:04:00Z
-sourceUrl: "https://www.neowin.net/news/microsoft-weekly-series-x-ports-patches-for-a-price-and-stories-in-the-cloud"
+webUrl: "https://www.neowin.net/news/microsoft-weekly-series-x-ports-patches-for-a-price-and-stories-in-the-cloud"
 type: article
 quality: 65
 heat: 65

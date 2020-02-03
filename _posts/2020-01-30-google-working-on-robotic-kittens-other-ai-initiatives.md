@@ -3,9 +3,9 @@ category: news
 title: "Google Working On Robotic Kittens, Other AI Initiatives"
 excerpt: "Among the artificial intelligence (AI) projects Google is developing are real-time language translation, anemia detection and robotic kittens, CNBC reported Wednesday (Jan. 29). The company hopes to launch those as well as a diverse array of other AI projects widely someday. Google’s parent company Alphabet and its CEO Sundar Pichai have ..."
 publishedDateTime: 2020-01-30T01:35:00Z
-sourceUrl: "https://www.pymnts.com/google/2020/google-working-on-robotic-kittens-other-ai-initiatives/"
-ampUrl: "https://www.pymnts.com/google/2020/google-working-on-robotic-kittens-other-ai-initiatives/amp/"
-cdnAmpUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/google/2020/google-working-on-robotic-kittens-other-ai-initiatives/amp/"
+webUrl: "https://www.pymnts.com/google/2020/google-working-on-robotic-kittens-other-ai-initiatives/"
+ampWebUrl: "https://www.pymnts.com/google/2020/google-working-on-robotic-kittens-other-ai-initiatives/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/google/2020/google-working-on-robotic-kittens-other-ai-initiatives/amp/"
 type: article
 quality: 39
 heat: 39

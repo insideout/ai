@@ -3,9 +3,9 @@ category: news
 title: "IBM Bookends AI With New Accelerated Power9 System"
 excerpt: "That, in a nutshell, is why the new Power Systems IC922 server, aimed at workloads that require heavy I/O, such as data storage and databases as well as inference performed on GPU, FPGA, and other ASIC accelerators, is coming to market more than two years after its brawnier Power Systems AC922 older sibling was first announced. The AC922 ..."
 publishedDateTime: 2020-01-28T21:21:00Z
-sourceUrl: "https://www.nextplatform.com/2020/01/28/ibm-bookends-ai-with-new-accelerated-power9-system/"
-ampUrl: "https://www.nextplatform.com/2020/01/28/ibm-bookends-ai-with-new-accelerated-power9-system/amp/"
-cdnAmpUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/28/ibm-bookends-ai-with-new-accelerated-power9-system/amp/"
+webUrl: "https://www.nextplatform.com/2020/01/28/ibm-bookends-ai-with-new-accelerated-power9-system/"
+ampWebUrl: "https://www.nextplatform.com/2020/01/28/ibm-bookends-ai-with-new-accelerated-power9-system/amp/"
+cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/28/ibm-bookends-ai-with-new-accelerated-power9-system/amp/"
 type: article
 quality: 59
 heat: 59

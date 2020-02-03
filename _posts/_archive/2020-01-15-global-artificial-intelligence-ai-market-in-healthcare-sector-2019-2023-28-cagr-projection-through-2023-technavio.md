@@ -3,7 +3,7 @@ category: news
 title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
 excerpt: "The global artificial intelligence (AI) market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features ..."
 publishedDateTime: 2020-01-15T20:29:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-healthcare-sector-2019-/2020/01/15/9081733.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-healthcare-sector-2019-/2020/01/15/9081733.htm"
 type: article
 quality: 44
 heat: 44

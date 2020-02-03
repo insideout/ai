@@ -3,7 +3,7 @@ category: news
 title: "Pleora Reduces Complexity of Deploying Machine Learning Artificial Intelligence for Quality Inspection"
 excerpt: "Pleora Technologies today introduced the vision industry's first artificial intelligence (AI) platform that simplifies the deployment of ... Venture Capital-as-a-Service (VCaaS) How to Make Autonomous Driving Safe 5 More Ways Robots Keep People Safe British Airways Deploys Drones For Inventory Counts At Its Air Cargo Company Robots on the ..."
 publishedDateTime: 2020-01-15T20:32:00Z
-sourceUrl: "https://www.roboticstomorrow.com/news/2020/01/15/pleora-reduces-complexity-of-deploying-machine-learning-artificial-intelligence-for-quality-inspection/14672/"
+webUrl: "https://www.roboticstomorrow.com/news/2020/01/15/pleora-reduces-complexity-of-deploying-machine-learning-artificial-intelligence-for-quality-inspection/14672/"
 type: article
 quality: 3
 heat: 3

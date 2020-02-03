@@ -3,7 +3,7 @@ category: news
 title: "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference"
 excerpt: "... the process of building a fully autonomous medical robotic system through the use of new technologies combining artificial intelligence, machine learning and proprietary software; is attending the 38th J.P. Morgan Healthcare Conference in San Francisco this week. The Company is represented by its CEO, Barry Cohen. Mr. Cohen has held ..."
 publishedDateTime: 2020-01-17T22:16:00Z
-sourceUrl: "https://apnews.com/Globe Newswire/712b21a98df35f1c4468b46f8c35c4c6"
+webUrl: "https://apnews.com/Globe Newswire/712b21a98df35f1c4468b46f8c35c4c6"
 type: article
 quality: 71
 heat: 71

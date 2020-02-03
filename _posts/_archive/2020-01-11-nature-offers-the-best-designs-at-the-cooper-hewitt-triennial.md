@@ -3,7 +3,7 @@ category: news
 title: "Nature Offers the Best Designs at the Cooper Hewitt Triennial"
 excerpt: "Alexandra Daisy Ginsberg, “The Substitute” (2019), CG animation and visualization of the extinct male northern white rhino created by The Mill, with behavior based on research by DeepMind The most indelible image in Nature — Cooper Hewitt Design Triennial with Cube Design Museum is of a CGI rhinoceros nosing around an empty virtual room ..."
 publishedDateTime: 2020-01-11T16:08:00Z
-sourceUrl: "https://hyperallergic.com/536099/nature-cooper-hewitt-design-triennial-with-cube-design-museum/"
+webUrl: "https://hyperallergic.com/536099/nature-cooper-hewitt-design-triennial-with-cube-design-museum/"
 type: article
 quality: 24
 heat: 24

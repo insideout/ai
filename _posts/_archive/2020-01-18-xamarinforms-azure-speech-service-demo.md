@@ -3,7 +3,7 @@ category: news
 title: "Xamarin.Forms - Azure Speech Service demo"
 excerpt: "Azure Speech Service, part of Azure Cognitive Services, allows you to add speech recognition to your mobile app. This sample demonstrates how to use Azure Speech Service to transcribe speech to text in a Xamarin.Forms app. For more information, see Speech recognition using Azure Speech Service."
 publishedDateTime: 2020-01-18T22:27:00Z
-sourceUrl: "https://docs.microsoft.com/en-us/samples/xamarin/xamarin-forms-samples/webservices-cognitivespeechservice/"
+webUrl: "https://docs.microsoft.com/en-us/samples/xamarin/xamarin-forms-samples/webservices-cognitivespeechservice/"
 type: article
 quality: 41
 heat: 41

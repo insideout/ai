@@ -3,9 +3,9 @@ category: news
 title: "In digital push, private sector will soon chip in to build data parks"
 excerpt: "The government will soon roll out a policy to allow the private sector to build data centre parks throughout the country in response to the way the world economic order is being overhauled by artificial intelligence (AI), internet of things (IoT), 3D printing, drones, DNA data storage and quantum computing. “Data is the new oil,\" the finance ..."
 publishedDateTime: 2020-02-01T19:10:00Z
-sourceUrl: "https://www.livemint.com/budget/news/in-digital-push-private-sector-will-soon-chip-in-to-build-data-parks-11580583788063.html"
-ampUrl: "https://www.livemint.com/budget/news/in-digital-push-private-sector-will-soon-chip-in-to-build-data-parks/amp-11580583788063.html"
-cdnAmpUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/budget/news/in-digital-push-private-sector-will-soon-chip-in-to-build-data-parks/amp-11580583788063.html"
+webUrl: "https://www.livemint.com/budget/news/in-digital-push-private-sector-will-soon-chip-in-to-build-data-parks-11580583788063.html"
+ampWebUrl: "https://www.livemint.com/budget/news/in-digital-push-private-sector-will-soon-chip-in-to-build-data-parks/amp-11580583788063.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/budget/news/in-digital-push-private-sector-will-soon-chip-in-to-build-data-parks/amp-11580583788063.html"
 type: article
 quality: 59
 heat: 59

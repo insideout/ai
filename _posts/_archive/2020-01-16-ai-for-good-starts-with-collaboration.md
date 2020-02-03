@@ -3,9 +3,9 @@ category: news
 title: "AI For Good Starts With Collaboration"
 excerpt: "In the age of innovation, we are focused on technologies such as artificial intelligence, virtual reality, augmented reality, and more. Often the application of these technologies comes as an afterthought once the technology has been developed."
 publishedDateTime: 2020-01-16T10:53:00Z
-sourceUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/"
-ampUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/"
+webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/"
+ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/"
 type: article
 quality: 87
 heat: 97
@@ -32,7 +32,7 @@ related:
   - title: "ITRI uses AI to train collaborative robots"
     excerpt: "Computational Intelligence Technology Center under government-sponsored Industrial Technology Research Institute (ITRI) has developed an AI-based deep learning solution for use in training ... Besides, tactile sensing is applied to training of robotic arms. Mechavision, a startup business spun off from ITRI in 2017, has cooperated with Japan ..."
     publishedDateTime: 2020-01-21T08:06:00Z
-    sourceUrl: "https://www.digitimes.com/news/a20200121PD212.html"
+    webUrl: "https://www.digitimes.com/news/a20200121PD212.html"
     type: article
     provider:
       name: Digi Times

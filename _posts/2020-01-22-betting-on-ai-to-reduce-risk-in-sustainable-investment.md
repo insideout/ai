@@ -3,7 +3,7 @@ category: news
 title: "Betting on AI to reduce risk in sustainable investment"
 excerpt: "UK startup Cervest was born out of the desire to accelerate ‘holistic adaptation decisions for all,’ that is, to translate complex data already in existence and generate proprietary data through machine learning. Using AI to understand climate data from satellite imagery and projections, Cervest is creating a dynamic map of the earth into ..."
 publishedDateTime: 2020-01-22T09:30:00Z
-sourceUrl: "https://www.finextra.com/newsarticle/35121/betting-on-ai-to-reduce-risk-in-sustainable-investment"
+webUrl: "https://www.finextra.com/newsarticle/35121/betting-on-ai-to-reduce-risk-in-sustainable-investment"
 type: article
 quality: 37
 heat: 37

@@ -3,7 +3,7 @@ category: news
 title: "These tiny living robots could help science eavesdrop on cellular gossip"
 excerpt: "They’re designed by AI and made of frog cells. An entirely new being is swimming into the annals of science—a living robot designed by artificial intelligence. In a paper published earlier this week, computer scientists from the University of Vermont and biophysicists at Tufts University describe using AI to design a totally new organism ..."
 publishedDateTime: 2020-01-17T21:42:00Z
-sourceUrl: "https://www.popsci.com/story/science/frog-cell-living-robot/"
+webUrl: "https://www.popsci.com/story/science/frog-cell-living-robot/"
 type: article
 quality: 38
 heat: 38

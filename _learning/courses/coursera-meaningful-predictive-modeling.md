@@ -1,7 +1,7 @@
 ---
 title: "Meaningful Predictive Modeling"
 excerpt: "Learn Meaningful Predictive Modeling from University of California San Diego. This course will help us to evaluate and compare the models we have developed in previous courses. So far we have developed techniques for regression and ..."
-sourceUrl: https://www.coursera.org/learn/meaningful-predictive-modeling
+webUrl: https://www.coursera.org/learn/meaningful-predictive-modeling
 type: course
 price: Free+
 length: 11 hours

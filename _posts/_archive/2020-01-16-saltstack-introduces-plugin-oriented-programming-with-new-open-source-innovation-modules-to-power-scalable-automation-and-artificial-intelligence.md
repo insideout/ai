@@ -3,7 +3,7 @@ category: news
 title: "SaltStack Introduces Plugin Oriented Programming with New Open-Source Innovation Modules to Power Scalable Automation and Artificial Intelligence"
 excerpt: "The Umbra plug-in system attaches infrastructure data streams to artificial intelligence / machine learning (AI/ML) programs for fully autonomous infrastructure automation and configuration management. Umbra guides users through the IT and security operations decisions too often made in the dark. After Umbra attaches to a data stream it ..."
 publishedDateTime: 2020-01-16T00:33:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/2020/01/15/9082022.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2020/01/15/9082022.htm"
 type: article
 quality: 0
 heat: 0

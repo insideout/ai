@@ -3,9 +3,9 @@ category: news
 title: "Why cancer-spotting AI needs to be handled with care"
 excerpt: "Just this month, Google generated a wave of headlines with a study showing that its AI systems can spot breast cancer in mammograms more accurately than doctors. But for many in health care, what studies like these demonstrate is not just the promise of AI, but also its potential threat. They say that for all of the obvious abilities of ..."
 publishedDateTime: 2020-01-27T13:00:00Z
-sourceUrl: "https://www.theverge.com/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy"
-ampUrl: "https://www.theverge.com/platform/amp/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy"
-cdnAmpUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy"
+webUrl: "https://www.theverge.com/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy"
+ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy"
 type: article
 quality: 87
 heat: -1
@@ -32,9 +32,9 @@ related:
   - title: "Google's AI Proves Better at Detecting Breast Cancer Than Doctors"
     excerpt: "In a Google-funded study, a team of independent researchers from various hospitals and universities, researchers from Google Health, and engineers from DeepMind (a Google-owned UK-based AI company) compared analyses of nearly 29,000 mammograms from UK and U.S.-sourced datasets. The study reports that they found 9.7% and 2.7% reductions in false ..."
     publishedDateTime: 2020-01-27T18:11:00Z
-    sourceUrl: "https://gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871"
-    ampUrl: "https://gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871/amp"
-    cdnAmpUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871/amp"
+    webUrl: "https://gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871"
+    ampWebUrl: "https://gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871/amp"
     type: article
     provider:
       name: Gizmodo

@@ -3,7 +3,7 @@ category: news
 title: "Intermittent cafeteria diet identifies fecal microbiome changes as a predictor of spatial recognition memory impairment in female rats"
 excerpt: "Body composition was analyzed at the end of week 7 by EchoMRI-900 (EchoMRI LLC, USA). Hippocampal-dependent spatial and perirhinal-dependent object recognition memory were assessed using the novel place recognition task (NPR) at 3 and 6 weeks, and novel object recognition task (NOR) at 4 weeks. The apparatus was a square arena (60 cm ..."
 publishedDateTime: 2020-01-27T15:48:00Z
-sourceUrl: "https://www.nature.com/articles/s41398-020-0734-9"
+webUrl: "https://www.nature.com/articles/s41398-020-0734-9"
 type: article
 quality: 7
 heat: 7

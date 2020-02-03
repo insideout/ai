@@ -3,7 +3,7 @@ category: news
 title: "Maloney dives headfirst into facial recognition"
 excerpt: "Rep. Carolyn Maloney, the newly installed chair of the House Oversight and Reform Committee, signalled on Wednesday that Congress could soon introduce legislation to regulate the use of facial recognition technology. “Our committee is committed to ..."
 publishedDateTime: 2020-01-16T16:01:00Z
-sourceUrl: "https://www.cityandstateny.com/articles/policy/technology/maloney-dives-headfirst-facial-recognition.html"
+webUrl: "https://www.cityandstateny.com/articles/policy/technology/maloney-dives-headfirst-facial-recognition.html"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "The US Military Wants Long-Range in the Dark Facial Recognition"
     excerpt: "The military always likes to be at least one step ahead, so while we all get used to facial recognition unlocking our phones, the US military wants to detect the faces of individuals at long range and in the dark. As the OneZero blog reports, the US military is funding two contracts worth a combined value of $4.2 million. In return, the ..."
     publishedDateTime: 2020-01-16T16:46:00Z
-    sourceUrl: "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition"
-    ampUrl: "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1"
-    cdnAmpUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1"
+    webUrl: "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition"
+    ampWebUrl: "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1"
+    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1"
     type: article
     provider:
       name: PC Magazine
@@ -42,9 +42,9 @@ related:
   - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
     excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object ..."
     publishedDateTime: 2020-01-09T20:49:00Z
-    sourceUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
-    ampUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
-    cdnAmpUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
+    webUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
+    ampWebUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
     type: article
     provider:
       name: Government Technology

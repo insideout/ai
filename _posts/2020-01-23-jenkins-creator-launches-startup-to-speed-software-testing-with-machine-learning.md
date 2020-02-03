@@ -3,7 +3,7 @@ category: news
 title: "Jenkins Creator Launches Startup To Speed Software Testing with Machine Learning"
 excerpt: "Kohsuke Kawaguchi, creator of the open source Jenkins continuous integration/continuous delivery (CI/CD) server, and Harpreet Singh, former head of the Bitbucket group at Atlassian, have launched a startup that's using machine learning (ML) to speed up the software testing process. Their new company, Launchable, which emerged from stealth mode ..."
 publishedDateTime: 2020-01-23T19:47:00Z
-sourceUrl: "https://adtmag.com/blogs/watersworks/2020/01/jenkins-creator-software-testing-machine-learning.aspx?oly_enc_id=6001H4504389E0K"
+webUrl: "https://adtmag.com/blogs/watersworks/2020/01/jenkins-creator-software-testing-machine-learning.aspx?oly_enc_id=6001H4504389E0K"
 type: article
 quality: 34
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Launchable applies machine learning to software testing"
     excerpt: "Startup Launchable, with Kohsuke Kawaguchi, creator of the Jenkins CI/CD platform, as a co-founder, is applying machine learning to software testing. The company’s technology predicts the likelihood of failure for each test given a change in the source code. Still in stealth mode, Launchable is positioned to offer “smarter” testing ..."
     publishedDateTime: 2020-01-27T16:29:00Z
-    sourceUrl: "https://www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.html"
-    ampUrl: "https://www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.amp.html"
-    cdnAmpUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.amp.html"
+    webUrl: "https://www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.html"
+    ampWebUrl: "https://www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.amp.html"
     type: article
     provider:
       name: InfoWorld

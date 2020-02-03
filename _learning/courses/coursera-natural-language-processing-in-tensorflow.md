@@ -1,7 +1,7 @@
 ---
 title: "Natural Language Processing in TensorFlow"
 excerpt: "Learn Natural Language Processing in TensorFlow from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This Specialization will teach you ..."
-sourceUrl: https://www.coursera.org/learn/natural-language-processing-tensorflow
+webUrl: https://www.coursera.org/learn/natural-language-processing-tensorflow
 type: course
 price: Free+
 length: 9 hours

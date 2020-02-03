@@ -3,7 +3,7 @@ category: news
 title: "Bidgely CARE Driving Utility Call Center Savings Through Artificial Intelligence"
 excerpt: "MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--The Bidgely CARE utility call center solution powered by artificial intelligence (AI) is delivering reduced average handling times (AHTs) for high bill calls from utility customers by nearly three minutes while also equipping customer service representatives (CSRs) with better program targeting and ..."
 publishedDateTime: 2020-01-30T12:27:00Z
-sourceUrl: "https://www.businesswire.com/news/home/20200130005240/en/Bidgely-CARE-Driving-Utility-Call-Center-Savings"
+webUrl: "https://www.businesswire.com/news/home/20200130005240/en/Bidgely-CARE-Driving-Utility-Call-Center-Savings"
 type: article
 quality: 32
 heat: 32

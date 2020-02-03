@@ -3,7 +3,7 @@ category: news
 title: "Why using AI to screen job applicants is almost always a bunch of crap"
 excerpt: "Anyone who believes that an AI startup has built an algorithm that can tell whether a person of color, for example, is “tenacious” or “a good team worker” based on a 3-5 minute video interview should email me right away. There’s a bridge in Brooklyn I’d like to sell them."
 publishedDateTime: 2020-01-17T22:11:00Z
-sourceUrl: "https://thenextweb.com/artificial-intelligence/2020/01/17/why-using-ai-to-screen-job-applicants-is-almost-always-a-bunch-of-crap/"
+webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/17/why-using-ai-to-screen-job-applicants-is-almost-always-a-bunch-of-crap/"
 type: article
 quality: 67
 heat: 67

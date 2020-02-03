@@ -3,9 +3,9 @@ category: news
 title: "How Machine Learning Will Lead to Better Maps"
 excerpt: "Madden's solution? Quit waiting around for Google and feed machine learning models a whole buffet of satellite images. It's faster, cheaper, and way easier to obtain satellite images than it is for a tech company to drive around grabbing street-view photos. The only problem: Roads can be occluded by buildings, trees, or even street signs."
 publishedDateTime: 2020-01-27T17:19:00Z
-sourceUrl: "https://www.popularmechanics.com/technology/a30647618/satellites-machine-learning-gps/"
-ampUrl: "https://www.popularmechanics.com/technology/amp30647618/satellites-machine-learning-gps/"
-cdnAmpUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30647618/satellites-machine-learning-gps/"
+webUrl: "https://www.popularmechanics.com/technology/a30647618/satellites-machine-learning-gps/"
+ampWebUrl: "https://www.popularmechanics.com/technology/amp30647618/satellites-machine-learning-gps/"
+cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30647618/satellites-machine-learning-gps/"
 type: article
 quality: 59
 heat: 69
@@ -29,7 +29,7 @@ related:
   - title: "Self-operating farm machinery may lead to new business model"
     excerpt: "AUSTIN, Texas — As agricultural equipment gains enough “artificial intelligence” to become fully autonomous, it’s likely to change the on-farm role of machinery, experts say. The cost and complexity of owning and maintaining driverless farm machinery may steer agriculture toward a fee-for-service model instead of growers buying ..."
     publishedDateTime: 2020-01-22T17:22:00Z
-    sourceUrl: "https://www.capitalpress.com/ag_sectors/research/self-operating-farm-machinery-may-lead-to-new-business-model/article_345e9f7c-3cec-11ea-b368-cf7703dd0c58.html"
+    webUrl: "https://www.capitalpress.com/ag_sectors/research/self-operating-farm-machinery-may-lead-to-new-business-model/article_345e9f7c-3cec-11ea-b368-cf7703dd0c58.html"
     type: article
     provider:
       name: Capital Press

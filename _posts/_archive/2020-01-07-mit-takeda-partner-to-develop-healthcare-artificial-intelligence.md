@@ -3,7 +3,7 @@ category: news
 title: "MIT, Takeda Partner to Develop Healthcare Artificial Intelligence"
 excerpt: "January 07, 2020 - MIT School of Engineering and Takeda Pharmaceuticals Company Limited have partnered to use artificial intelligence tools to benefit health and ... to learn from and engage with researchers from MIT and offer insights that will advance healthcare. “We are thrilled to create this collaboration with Takeda,” says Anantha ..."
 publishedDateTime: 2020-01-07T15:03:00Z
-sourceUrl: https://healthitanalytics.com/news/mit-takeda-partner-to-develop-healthcare-artificial-intelligence
+webUrl: https://healthitanalytics.com/news/mit-takeda-partner-to-develop-healthcare-artificial-intelligence
 type: article
 quality: 34
 heat: 34

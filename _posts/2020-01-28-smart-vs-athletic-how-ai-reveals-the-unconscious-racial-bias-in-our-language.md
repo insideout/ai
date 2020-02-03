@@ -3,7 +3,7 @@ category: news
 title: "“Smart” vs “Athletic”: how AI reveals the unconscious racial bias in our language"
 excerpt: "So how did they reach their result? Iyyer examined this all by using natural language processing algorithms and carried out a sentiment analysis—which is when contextual mining of text identifies and extracts subjective information in the source material. This means it examines the positive or negative words within a sentence describing ..."
 publishedDateTime: 2020-01-28T17:19:00Z
-sourceUrl: "https://www.prospectmagazine.co.uk/politics/sports-commentary-racial-bias-ai-data"
+webUrl: "https://www.prospectmagazine.co.uk/politics/sports-commentary-racial-bias-ai-data"
 type: article
 quality: 34
 heat: 34

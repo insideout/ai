@@ -3,9 +3,9 @@ category: news
 title: "Startup Boost! Microsoft helps startups in Tier 2 cities go global"
 excerpt: "More than 650 startups have benefited from the mentorship and guidance through technology workshops on Azure, Artificial Intelligence and Machine Learning. Microsoft for Startups, a comprehensive global programme designed to support startups as they build and scale their companies, is keen on empowering innovative entrepreneurs in the country."
 publishedDateTime: 2020-01-29T19:52:00Z
-sourceUrl: "https://www.financialexpress.com/industry/sme/startup-boost-microsoft-helps-startups-in-tier-2-cities-go-global/1839422/"
-ampUrl: "https://www.financialexpress.com/industry/sme/startup-boost-microsoft-helps-startups-in-tier-2-cities-go-global/1839422/lite/"
-cdnAmpUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/startup-boost-microsoft-helps-startups-in-tier-2-cities-go-global/1839422/lite/"
+webUrl: "https://www.financialexpress.com/industry/sme/startup-boost-microsoft-helps-startups-in-tier-2-cities-go-global/1839422/"
+ampWebUrl: "https://www.financialexpress.com/industry/sme/startup-boost-microsoft-helps-startups-in-tier-2-cities-go-global/1839422/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/startup-boost-microsoft-helps-startups-in-tier-2-cities-go-global/1839422/lite/"
 type: article
 quality: 39
 heat: 39

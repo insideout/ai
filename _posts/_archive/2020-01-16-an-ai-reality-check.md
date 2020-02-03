@@ -3,9 +3,9 @@ category: news
 title: "An AI reality check"
 excerpt: "We can see validation for this “data first” perspective in the actions of IBM’s Watson group. Watson is arguably the most prominent commercial AI platform, and was a critical pioneer in the market, with impressive technical capabilities. However, a new class of Open Source entrants, probably best characterised by H20.ai and TensorFlow ..."
 publishedDateTime: 2020-01-16T10:30:00Z
-sourceUrl: "https://www.itproportal.com/features/an-ai-reality-check/"
-ampUrl: "https://www.itproportal.com/amp/features/an-ai-reality-check/"
-cdnAmpUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/an-ai-reality-check/"
+webUrl: "https://www.itproportal.com/features/an-ai-reality-check/"
+ampWebUrl: "https://www.itproportal.com/amp/features/an-ai-reality-check/"
+cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/an-ai-reality-check/"
 type: article
 quality: 59
 heat: 59

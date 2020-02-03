@@ -3,9 +3,9 @@ category: news
 title: "VW: Fully self-driving cars may never happen"
 excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
 publishedDateTime: 2020-01-20T00:04:00Z
-sourceUrl: "https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
-ampUrl: "https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
-cdnAmpUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
+webUrl: "https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
+ampWebUrl: "https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
+cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
 type: article
 quality: 24
 heat: -1
@@ -23,9 +23,9 @@ related:
   - title: "Qualcomm’s self-driving car made me never want to touch a steering wheel again"
     excerpt: "A couple of days earlier at the giant Consumer Electronics Show, Qualcomm announced a new platform for self-driving cars called Snapdragon Ride — and to showcase its powers, Qualcomm gave me a ..."
     publishedDateTime: 2020-01-15T11:17:00Z
-    sourceUrl: "https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/"
-    ampUrl: "https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp"
-    cdnAmpUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp"
+    webUrl: "https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp"
     type: article
     provider:
       name: Digital Trends
@@ -38,9 +38,9 @@ related:
   - title: "Riding in a self-driving car is the best way to end CES 2020"
     excerpt: "That term \"self-driving\" is used way too freely. No matter what your best friend or some guy on Twitter or a dancing CEO tells you, there are no self-driving cars for sale today. We have advanced ..."
     publishedDateTime: 2020-01-10T21:51:00Z
-    sourceUrl: "https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/"
-    ampUrl: "https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
-    cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
+    webUrl: "https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
     type: article
     provider:
       name: CNET
@@ -53,7 +53,7 @@ related:
   - title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
     excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
     publishedDateTime: 2020-01-22T02:22:00Z
-    sourceUrl: "https://www.nytimes.com/reuters/2020/01/21/business/21reuters-autos-autonomous-cruise.html"
+    webUrl: "https://www.nytimes.com/reuters/2020/01/21/business/21reuters-autos-autonomous-cruise.html"
     type: article
     provider:
       name: New York Times
@@ -66,9 +66,9 @@ related:
   - title: "Qualcomm experiments with self-driving cars"
     excerpt: "SAN DIEGO -- San Diego-based Qualcomm is best known for its smartphone chips, but now they want to be the brains behind self-driving cars, too. FOX 5 Tech Expert Rich DeMuro took a ride in their experimental prototype."
     publishedDateTime: 2020-01-20T20:25:00Z
-    sourceUrl: "https://fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/"
-    ampUrl: "https://fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/amp/"
-    cdnAmpUrl: "https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/amp/"
+    webUrl: "https://fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/"
+    ampWebUrl: "https://fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/amp/"
     type: article
     provider:
       name: Fox 5 San Diego
@@ -81,9 +81,9 @@ related:
   - title: "I Took a Test Ride in Qualcomm’s Experimental Self-Driving Car on a Busy Freeway"
     excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test \"ride\" in their experimental vehicle! Qualcomm is a San Diego based company best known for its smartphone chips. Now, they want want to be the brains behind self driving cars, too. Recently I took a ride in their experimental prototype car ..."
     publishedDateTime: 2020-01-20T13:30:00Z
-    sourceUrl: "https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/"
-    ampUrl: "https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/"
-    cdnAmpUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/"
+    webUrl: "https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/"
+    ampWebUrl: "https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/"
     type: article
     provider:
       name: KTLA

@@ -3,9 +3,9 @@ category: news
 title: "Artificial intelligence firm TheIncLab expands to Tampa"
 excerpt: "TAMPA — A tech company that works to develop artificial intelligence-enabled systems that learn and collaborate with ... TheIncLab has signed up clients from several branches of the U.S. Department of Defense as well as from Fortune 500 companies in the health care, aerospace, manufacturing, consumer electronics and technology spaces."
 publishedDateTime: 2020-01-17T15:02:00Z
-sourceUrl: "https://www.tampabay.com/news/business/2020/01/17/artificial-intelligence-firm-theinclab-expands-to-tampa/"
-ampUrl: "https://www.tampabay.com/news/business/2020/01/17/artificial-intelligence-firm-theinclab-expands-to-tampa/?outputType=amp"
-cdnAmpUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2020/01/17/artificial-intelligence-firm-theinclab-expands-to-tampa/?outputType=amp"
+webUrl: "https://www.tampabay.com/news/business/2020/01/17/artificial-intelligence-firm-theinclab-expands-to-tampa/"
+ampWebUrl: "https://www.tampabay.com/news/business/2020/01/17/artificial-intelligence-firm-theinclab-expands-to-tampa/?outputType=amp"
+cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2020/01/17/artificial-intelligence-firm-theinclab-expands-to-tampa/?outputType=amp"
 type: article
 quality: 39
 heat: 39

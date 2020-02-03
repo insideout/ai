@@ -3,7 +3,7 @@ category: news
 title: "Qualcomm's latest chips will bring better cameras, AI to cheaper phones"
 excerpt: "Each system-on-chip features a Hexagon digital signal processor — the first time that's been included with one of the chip maker's 4 series chipsets for budget phones — which should mean better AI-powered experiences across a range of phones. Here's a closer look at what each new Snapdragon processor promises: Snapdragon 720G: Like the ..."
 publishedDateTime: 2020-01-21T07:03:00Z
-sourceUrl: "https://www.tomsguide.com/news/snapdragon-720g-snapdragon-662-snapdragon-460"
+webUrl: "https://www.tomsguide.com/news/snapdragon-720g-snapdragon-662-snapdragon-460"
 type: article
 quality: 54
 heat: 54

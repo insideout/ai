@@ -3,7 +3,7 @@ category: news
 title: "Intel To Lead The AI Revolution Over The Next Decade"
 excerpt: "It's still the early days of AI. AI is growing fast and will drive unprecedented demand for compute over the next decade. Intel grew AI revenue >20% YoY in 2019 to over $3.5 billion, with an over ..."
 publishedDateTime: 2020-01-14T22:03:00Z
-sourceUrl: "https://seekingalpha.com/article/4316857-intel-to-lead-ai-revolution-over-next-decade"
+webUrl: "https://seekingalpha.com/article/4316857-intel-to-lead-ai-revolution-over-next-decade"
 type: article
 quality: 19
 heat: 19

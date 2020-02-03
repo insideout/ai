@@ -3,9 +3,9 @@ category: news
 title: "Robot attack: Why journalism professor Nicholas Diakopoulos doesn’t fear the automation of newsrooms"
 excerpt: "But Nicholas Diakopoulous wants people to stop worrying. In a new book, “Automating the News: How Algorithms Are Rewriting the Media,” he argues that far from destroying jobs in journalism, artificial intelligence appears to be creating them. Digiday caught up with Diakopoulous, who oversees Northwestern University’s Computational ..."
 publishedDateTime: 2020-01-20T04:00:00Z
-sourceUrl: "https://digiday.com/media/robot-attack-journalism-professor-nicholas-diakopoulos-doesnt-fear-automation-newsrooms/"
-ampUrl: "https://digiday.com/media/robot-attack-journalism-professor-nicholas-diakopoulos-doesnt-fear-automation-newsrooms/amp/"
-cdnAmpUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/media/robot-attack-journalism-professor-nicholas-diakopoulos-doesnt-fear-automation-newsrooms/amp/"
+webUrl: "https://digiday.com/media/robot-attack-journalism-professor-nicholas-diakopoulos-doesnt-fear-automation-newsrooms/"
+ampWebUrl: "https://digiday.com/media/robot-attack-journalism-professor-nicholas-diakopoulos-doesnt-fear-automation-newsrooms/amp/"
+cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/media/robot-attack-journalism-professor-nicholas-diakopoulos-doesnt-fear-automation-newsrooms/amp/"
 type: article
 quality: 44
 heat: 44

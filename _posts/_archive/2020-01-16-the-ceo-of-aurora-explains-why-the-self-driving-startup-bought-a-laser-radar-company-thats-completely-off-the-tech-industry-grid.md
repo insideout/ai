@@ -3,7 +3,7 @@ category: news
 title: "The CEO of Aurora explains why the self-driving startup bought a laser-radar company that's completely off the tech-industry grid"
 excerpt: "It indicates a way to close an interaction, or dismiss a notification. \"There's not a whole lot of self-driving research up there.\" That was Chris Urmson's understated assessment of a tiny laser ..."
 publishedDateTime: 2020-01-16T14:39:00Z
-sourceUrl: "https://www.businessinsider.com/aurora-ceo-interview-self-driving-startup-acquisition-strategy-tech-industry-2020-1"
+webUrl: "https://www.businessinsider.com/aurora-ceo-interview-self-driving-startup-acquisition-strategy-tech-industry-2020-1"
 type: article
 quality: 20
 heat: 20

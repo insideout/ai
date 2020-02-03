@@ -3,7 +3,7 @@ category: news
 title: "Australian-based AI Company, Flamingo Ai, Granted Patent for Machine Learning Technology"
 excerpt: "The patent sets out the algorithms that Flamingo Ai uses for the semi-supervised machine learning engine to propagate answer weights around a question space. SYDNEY, 28 January 2020 - Flamingo Ai Limited (ASX: FGO), an Australian-based Artificial Intelligence (AI) company with operations in both Australia and the US, is pleased to announce the ..."
 publishedDateTime: 2020-01-28T00:24:00Z
-sourceUrl: "https://www.arnnet.com.au/mediareleases/37948/australian-based-ai-company-flamingo-ai-granted/"
+webUrl: "https://www.arnnet.com.au/mediareleases/37948/australian-based-ai-company-flamingo-ai-granted/"
 type: article
 quality: 25
 heat: 25

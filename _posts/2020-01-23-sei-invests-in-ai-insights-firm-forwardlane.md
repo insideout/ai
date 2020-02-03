@@ -3,7 +3,7 @@ category: news
 title: "SEI invests in AI insights firm ForwardLane"
 excerpt: "ForwardLane, the leader in providing AI driven intelligence to financial services professionals, is thrilled to announce SEI Venture's strategic investment into the company, to accelerate growth and the provision of powerful, personalized insights for ..."
 publishedDateTime: 2020-01-23T17:40:00Z
-sourceUrl: "https://www.finextra.com/pressarticle/81237/sei-invests-in-ai-insights-firm-forwardlane"
+webUrl: "https://www.finextra.com/pressarticle/81237/sei-invests-in-ai-insights-firm-forwardlane"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Infosys divests stake in Danish AI firm for $800,000"
     excerpt: "Infosys said it had completed the divestment of its shares in Unsilo A/S, a Danish artificial intelligence start-up focussed on advanced text analysis. On the minority investment made during 2016 in Unsilo A/S, Infosys said on January 28, 2020, it completed the divestment of its shares in Unsilo for a total consideration of almost $8,00,000 ..."
     publishedDateTime: 2020-01-28T16:45:00Z
-    sourceUrl: "https://www.thehindu.com/business/infosys-divests-stake-in-danish-ai-firm-for-800000/article30677396.ece"
-    ampUrl: "https://www.thehindu.com/business/infosys-divests-stake-in-danish-ai-firm-for-800000/article30677396.ece/amp/"
-    cdnAmpUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/infosys-divests-stake-in-danish-ai-firm-for-800000/article30677396.ece/amp/"
+    webUrl: "https://www.thehindu.com/business/infosys-divests-stake-in-danish-ai-firm-for-800000/article30677396.ece"
+    ampWebUrl: "https://www.thehindu.com/business/infosys-divests-stake-in-danish-ai-firm-for-800000/article30677396.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/infosys-divests-stake-in-danish-ai-firm-for-800000/article30677396.ece/amp/"
     type: article
     provider:
       name: The Hindu

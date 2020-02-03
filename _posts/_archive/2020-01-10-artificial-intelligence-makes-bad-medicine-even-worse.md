@@ -3,9 +3,9 @@ category: news
 title: "Artificial Intelligence Makes Bad Medicine Even Worse"
 excerpt: "Google researchers made headlines early this month for a study that claimed their artificial intelligence system could outperform human experts at finding breast cancers on mammograms. It sounded like a big win, and yet another example of how AI will soon transform health care: More cancers found! Fewer false positives! A better, cheaper way to ..."
 publishedDateTime: 2020-01-10T11:44:00Z
-sourceUrl: "https://www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/"
-ampUrl: "https://www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/amp"
-cdnAmpUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/amp"
+webUrl: "https://www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/"
+ampWebUrl: "https://www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/amp"
 type: article
 quality: 89
 heat: 89

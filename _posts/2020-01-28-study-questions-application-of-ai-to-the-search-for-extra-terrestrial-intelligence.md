@@ -3,9 +3,9 @@ category: news
 title: "Study questions application of AI to the search for extra-terrestrial intelligence"
 excerpt: "The result of this intriguing visual experiment, carried out by a Spanish neuropsychologist, calls into question the application of artificial intelligence to the search for extra-terrestrial intelligence (SETI). Ceres, although the largest object in the main asteroid belt, is a dwarf planet. It became famous a few years ago for one of its ..."
 publishedDateTime: 2020-01-28T18:43:00Z
-sourceUrl: "https://www.news-medical.net/news/20200128/Study-questions-application-of-AI-to-the-search-for-extra-terrestrial-intelligence.aspx"
-ampUrl: "https://www.news-medical.net/amp/news/20200128/Study-questions-application-of-AI-to-the-search-for-extra-terrestrial-intelligence.aspx"
-cdnAmpUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200128/Study-questions-application-of-AI-to-the-search-for-extra-terrestrial-intelligence.aspx"
+webUrl: "https://www.news-medical.net/news/20200128/Study-questions-application-of-AI-to-the-search-for-extra-terrestrial-intelligence.aspx"
+ampWebUrl: "https://www.news-medical.net/amp/news/20200128/Study-questions-application-of-AI-to-the-search-for-extra-terrestrial-intelligence.aspx"
+cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200128/Study-questions-application-of-AI-to-the-search-for-extra-terrestrial-intelligence.aspx"
 type: article
 quality: 51
 heat: 61
@@ -28,9 +28,9 @@ related:
   - title: "AI could deceive us as much as the human eye does in the search for extraterrestrials"
     excerpt: "This peculiarity has led them to propose a curious experiment: to compare how human beings and machines recognize planetary images. The ultimate goal was to analyse whether artificial intelligence (AI) can help discover 'technosignatures' of possible extra-terrestrial civilizations. \"We weren't alone in this, some people seemed to discern a ..."
     publishedDateTime: 2020-01-28T17:19:00Z
-    sourceUrl: "https://phys.org/news/2020-01-ai-human-eye-extraterrestrials.html"
-    ampUrl: "https://phys.org/news/2020-01-ai-human-eye-extraterrestrials.amp"
-    cdnAmpUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-ai-human-eye-extraterrestrials.amp"
+    webUrl: "https://phys.org/news/2020-01-ai-human-eye-extraterrestrials.html"
+    ampWebUrl: "https://phys.org/news/2020-01-ai-human-eye-extraterrestrials.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-ai-human-eye-extraterrestrials.amp"
     type: article
     provider:
       name: Phys.org

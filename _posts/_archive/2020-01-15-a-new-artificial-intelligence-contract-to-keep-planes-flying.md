@@ -3,7 +3,7 @@ category: news
 title: "A new artificial intelligence contract to keep planes flying"
 excerpt: "The Pentagon’s Silicon Valley outpost awarded a California-based artificial intelligence company a contract for software that predicts when military aircraft will need repairs — a tool that would make more aircraft available for missions and could potentially save billions of dollars in maintenance costs. The deal, announced Jan. 15 ..."
 publishedDateTime: 2020-01-15T20:48:00Z
-sourceUrl: "https://www.defensenews.com/artificial-intelligence/2020/01/15/a-new-artificial-intelligence-contract-to-keep-planes-flying/"
+webUrl: "https://www.defensenews.com/artificial-intelligence/2020/01/15/a-new-artificial-intelligence-contract-to-keep-planes-flying/"
 type: article
 quality: 37
 heat: 37

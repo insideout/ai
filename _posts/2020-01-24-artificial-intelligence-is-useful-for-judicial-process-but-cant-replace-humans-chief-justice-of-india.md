@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence Is Useful For Judicial Process But Can’t Replace Humans: Chief Justice Of India"
 excerpt: "Chief Justice of India SA Bobde underlined the need for artificial intelligence in the judicial system, especially in cases of repetitive nature and document management, to expedite the dispute resolution process. He, however, cautioned that AI cannot replace human discretion, which is necessary for a just decision making. Speaking at 79th ..."
 publishedDateTime: 2020-01-24T14:10:00Z
-sourceUrl: "https://www.bloombergquint.com/law-and-policy/ai-can-be-used-in-judicial-process-but-cannot-replace-human-discretion-cji"
+webUrl: "https://www.bloombergquint.com/law-and-policy/ai-can-be-used-in-judicial-process-but-cannot-replace-human-discretion-cji"
 type: article
 quality: 21
 heat: 21

@@ -3,7 +3,7 @@ category: news
 title: "Why English translation needs the native touch"
 excerpt: "Of course, more than one of these could be true in any given situation. One likely culprit is the use of machine translation rather than human translators. Anyone can put text into a free online translation program, while there are also proprietary ..."
 publishedDateTime: 2020-01-16T03:30:00Z
-sourceUrl: "https://www.japantimes.co.jp/community/2020/01/16/how-tos/translation-needs-native-touch/"
+webUrl: "https://www.japantimes.co.jp/community/2020/01/16/how-tos/translation-needs-native-touch/"
 type: article
 quality: 24
 heat: 24

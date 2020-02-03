@@ -1,7 +1,7 @@
 ---
 title: "Translating Languages on AWS with Amazon Translate"
 excerpt: "Translating text at scale is a challenge for many organizations that want to make themselves understood internationally. In this course, Translating Languages on AWS with Amazon Translate, you will gain the ability to leverage Amazon Translate and neural machine translation in your applications. First, you will learn the basic context and benefits of neural machine translation tools. Next, you will discover how to leverage Amazon Translate APIs to scale your translation capabilities. Finally, you will explore how to integrate Amazon Translate with other AWS services such as Amazon Polly and Amazon CloudWatch. When you’re finished with this course, you will have the skills and knowledge of Amazon Translate needed to develop, secure, and monitor your own Amazon Translation applications and remove the restriction of language barriers."
-sourceUrl: https://www.pluralsight.com/courses/aws-translate-text
+webUrl: https://www.pluralsight.com/courses/aws-translate-text
 type: course
 price: $$
 length: 2h 31m

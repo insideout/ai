@@ -3,9 +3,9 @@ category: news
 title: "Intel's first discrete GPU is built for developers"
 excerpt: "It also promised \"double digit\" CPU performance increases with Tiger Lake, and \"massive\" AI improvements. Apart from that, it again revealed no additional performance data. As we've already noted in our AMD vs. Intel CES 2020 explainer, AMD has unveiled very specific products and plans, while Intel has just announced upcoming products and been ..."
 publishedDateTime: 2020-01-09T16:00:00Z
-sourceUrl: https://www.engadget.com/2020/01/09/intel-xe-d1g-software-development-vehicle/
-ampUrl: https://www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
+webUrl: https://www.engadget.com/2020/01/09/intel-xe-d1g-software-development-vehicle/
+ampWebUrl: https://www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
+cdnAmpWebUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
 type: article
 quality: 89
 heat: 89

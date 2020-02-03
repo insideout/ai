@@ -3,9 +3,9 @@ category: news
 title: "ADVANCE.AI Consortium Seeks Singaporean Digital Banking License"
 excerpt: "Yet another business consortium vies for a lucrative, wholesale digital banking license, according to reports. Singapore’s FinTech firm ADVANCE.AI, Hong Kong’s financial services company Sheng Ye Capital and Singapore’s firm Phillip Capital are the most recent in a series of contenders for critical business permits in Singapore."
 publishedDateTime: 2020-01-07T09:48:00Z
-sourceUrl: https://www.pymnts.com/news/digital-banking/2020/advance-ai-consortium-seeks-singaporean-digital-banking-license/
-ampUrl: https://www.pymnts.com/news/digital-banking/2020/advance-ai-consortium-seeks-singaporean-digital-banking-license/amp/
-cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/digital-banking/2020/advance-ai-consortium-seeks-singaporean-digital-banking-license/amp/
+webUrl: https://www.pymnts.com/news/digital-banking/2020/advance-ai-consortium-seeks-singaporean-digital-banking-license/
+ampWebUrl: https://www.pymnts.com/news/digital-banking/2020/advance-ai-consortium-seeks-singaporean-digital-banking-license/amp/
+cdnAmpWebUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/digital-banking/2020/advance-ai-consortium-seeks-singaporean-digital-banking-license/amp/
 type: article
 quality: 54
 heat: 54

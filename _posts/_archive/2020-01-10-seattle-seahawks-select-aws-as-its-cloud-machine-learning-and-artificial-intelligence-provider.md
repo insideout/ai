@@ -3,7 +3,7 @@ category: news
 title: "Seattle Seahawks Select AWS as Its Cloud, Machine Learning, and Artificial Intelligence Provider"
 excerpt: "Before it's here, it's on the Bloomberg Terminal."
 publishedDateTime: 2020-01-10T08:37:00Z
-sourceUrl: "https://www.bloomberg.com/press-releases/2019-11-25/seattle-seahawks-select-aws-as-its-cloud-machine-learning-and-artificial-intelligence-provider"
+webUrl: "https://www.bloomberg.com/press-releases/2019-11-25/seattle-seahawks-select-aws-as-its-cloud-machine-learning-and-artificial-intelligence-provider"
 type: article
 quality: 51
 heat: 51

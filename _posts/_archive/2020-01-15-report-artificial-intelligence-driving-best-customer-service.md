@@ -3,7 +3,7 @@ category: news
 title: "Report: Artificial intelligence driving best customer service"
 excerpt: "Artificial intelligence (AI) is behind the success of high-performing customer service teams ... In addition, fewer than 30 per cent of organisations offer self-service, live chat, social messaging, in-app messaging, bots or peer-to-peer communities - all considered helpful tools in lifting CX. “This matters because it represents an ..."
 publishedDateTime: 2020-01-15T06:46:00Z
-sourceUrl: "https://www.cmo.com.au/article/670279/report-artificial-intelligence-driving-best-customer-service/"
+webUrl: "https://www.cmo.com.au/article/670279/report-artificial-intelligence-driving-best-customer-service/"
 type: article
 quality: 19
 heat: 19

@@ -3,7 +3,7 @@ category: news
 title: "German football league picks AWS to score with real-time data"
 excerpt: "Such smart real-time functions will be powered by Amazon SageMaker - a managed service that can build, train and deploy machine learning models - which will come up with its predictions and insights through analysing historical data from more than 10,000 Bundesliga games, as well as live match data. Other AWS machine learning systems will ..."
 publishedDateTime: 2020-01-14T16:11:00Z
-sourceUrl: "https://www.cloudpro.co.uk/saas/8366/german-football-league-picks-aws-to-score-with-real-time-data"
+webUrl: "https://www.cloudpro.co.uk/saas/8366/german-football-league-picks-aws-to-score-with-real-time-data"
 type: article
 quality: 39
 heat: 39
@@ -27,7 +27,7 @@ related:
   - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
     excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search historical footage and surface ..."
     publishedDateTime: 2020-01-13T15:17:00Z
-    sourceUrl: "https://www.telecompaper.com/news/bundesliga-picks-aws-to-deliver-real-time-statistics-personalised-match-footage--1322513"
+    webUrl: "https://www.telecompaper.com/news/bundesliga-picks-aws-to-deliver-real-time-statistics-personalised-match-footage--1322513"
     type: article
     provider:
       name: Telecompaper

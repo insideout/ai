@@ -3,9 +3,9 @@ category: news
 title: "Phoenix lab using artificial intelligence to stop Alzheimer's"
 excerpt: "PHOENIX — A Phoenix laboratory is trying to stop Alzheimer's disease by using artificial intelligence. Arizona has the fastest growing rate of Alzheimer's disease in the country. According to a 2018 report released by the Alzheimer's Association, in the next few years, the number of people living with the disease in Arizona is expected to ..."
 publishedDateTime: 2020-01-18T01:15:00Z
-sourceUrl: "https://www.abc15.com/news/region-phoenix-metro/central-phoenix/phoenix-lab-using-artificial-intelligence-to-stop-alzheimers"
-ampUrl: "https://www.abc15.com/news/region-phoenix-metro/central-phoenix/phoenix-lab-using-artificial-intelligence-to-stop-alzheimers?_amp=true"
-cdnAmpUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/region-phoenix-metro/central-phoenix/phoenix-lab-using-artificial-intelligence-to-stop-alzheimers?_amp=true"
+webUrl: "https://www.abc15.com/news/region-phoenix-metro/central-phoenix/phoenix-lab-using-artificial-intelligence-to-stop-alzheimers"
+ampWebUrl: "https://www.abc15.com/news/region-phoenix-metro/central-phoenix/phoenix-lab-using-artificial-intelligence-to-stop-alzheimers?_amp=true"
+cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/region-phoenix-metro/central-phoenix/phoenix-lab-using-artificial-intelligence-to-stop-alzheimers?_amp=true"
 type: article
 quality: 57
 heat: 57

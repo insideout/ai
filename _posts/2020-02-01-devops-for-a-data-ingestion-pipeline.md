@@ -3,7 +3,7 @@ category: news
 title: "DevOps for a data ingestion pipeline"
 excerpt: "This container serves as a data storage for the Azure Machine Learning service. Having the data prepared, the Data Factory pipeline invokes a training Machine Learning pipeline to train a model. In this specific example the data transformation is performed by a Python notebook, running on an Azure Databricks cluster. As with any software ..."
 publishedDateTime: 2020-02-01T23:59:00Z
-sourceUrl: "https://docs.microsoft.com/en-us/azure/machine-learning/how-to-cicd-data-ingestion"
+webUrl: "https://docs.microsoft.com/en-us/azure/machine-learning/how-to-cicd-data-ingestion"
 type: article
 quality: 24
 heat: 24

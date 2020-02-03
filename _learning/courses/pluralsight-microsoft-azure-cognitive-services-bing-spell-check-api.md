@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Azure Cognitive Services: Bing Spell Check API"
 excerpt: "Real time spelling and grammar correction that works across multiple languages can make your app stand out.  Bing Spell Check uses advanced machine learning to perform context-aware spell checking.  Find out how to use it in this course."
-sourceUrl: https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-bing-spell-check-api
+webUrl: https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-bing-spell-check-api
 type: course
 price: $$
 length: 1h 10m

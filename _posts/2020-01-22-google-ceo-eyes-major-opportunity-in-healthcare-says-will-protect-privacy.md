@@ -3,7 +3,7 @@ category: news
 title: "Google CEO eyes major opportunity in healthcare, says will protect privacy"
 excerpt: "Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes, and vowed that the technology giant will heed privacy concerns."
 publishedDateTime: 2020-01-22T19:20:00Z
-sourceUrl: "https://www.healthleadersmedia.com/innovation/google-ceo-eyes-major-opportunity-healthcare-says-will-protect-privacy"
+webUrl: "https://www.healthleadersmedia.com/innovation/google-ceo-eyes-major-opportunity-healthcare-says-will-protect-privacy"
 type: article
 quality: 37
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity"
     excerpt: "shared some upbeat thoughts on how AI and healthcare could intersect. \"Cancer [is] often missed and the difference in outcome is profound,\" he said, according to Reuters. \"In lung cancer, for example, five experts agree this way and five agree the other way. We know we can use artificial intelligence to make it better.\" Two years ago at ..."
     publishedDateTime: 2020-01-22T22:03:00Z
-    sourceUrl: "https://www.fool.com/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx"
-    ampUrl: "https://www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx"
-    cdnAmpUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx"
+    webUrl: "https://www.fool.com/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx"
     type: article
     provider:
       name: The Motley Fool
@@ -42,9 +42,9 @@ related:
   - title: "DAVOS-Google CEO eyes major opportunity in healthcare, says will protect privacy"
     excerpt: "DAVOS, Switzerland Jan 22- Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes,"
     publishedDateTime: 2020-01-22T11:45:00Z
-    sourceUrl: "https://www.cnbc.com/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html"
-    ampUrl: "https://www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html"
-    cdnAmpUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html"
+    webUrl: "https://www.cnbc.com/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html"
     type: article
     provider:
       name: CNBC
@@ -57,9 +57,9 @@ related:
   - title: "Google CEO eyes major opportunity in health care, says it will protect privacy"
     excerpt: "Sundar Pichai said health care offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes."
     publishedDateTime: 2020-01-22T14:33:00Z
-    sourceUrl: "https://www.cnbc.com/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html"
-    ampUrl: "https://www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html"
-    cdnAmpUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html"
+    webUrl: "https://www.cnbc.com/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html"
     type: article
     provider:
       name: CNBC
@@ -72,7 +72,7 @@ related:
   - title: "ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET"
     excerpt: "Artificial Intelligence In Healthcare Market has been provided in the latest report launched by SMI that primarily focuses on the World industry trends, demand, Share, Consumption and Growth with competitive analysis and Future Forecast 2020-2027. The report begins with a brief introduction regarding the major factors influencing the Artificial ..."
     publishedDateTime: 2020-01-28T08:01:00Z
-    sourceUrl: "https://www.openpr.com/news/1910427/artificial-intelligence-in-healthcare-market-is-set"
+    webUrl: "https://www.openpr.com/news/1910427/artificial-intelligence-in-healthcare-market-is-set"
     type: article
     provider:
       name: openpr.com
@@ -81,7 +81,7 @@ related:
   - title: "These 10 startups acquired by Alphabet reveal a health care play centered on surveillance"
     excerpt: "“Cancer [is] often missed and the difference in outcome is profound,” he said, adding, “We know we can use artificial intelligence to make it better ... early science breakthroughs and clinical trial results, and health care disruption in Silicon Valley and beyond. Containing new coronavirus may not be feasible, experts say ..."
     publishedDateTime: 2020-01-27T09:39:00Z
-    sourceUrl: "https://www.statnews.com/2020/01/27/alphabet-acquisitions-reveal-health-care-play-centered-on-surveillance/"
+    webUrl: "https://www.statnews.com/2020/01/27/alphabet-acquisitions-reveal-health-care-play-centered-on-surveillance/"
     type: article
     provider:
       name: STAT

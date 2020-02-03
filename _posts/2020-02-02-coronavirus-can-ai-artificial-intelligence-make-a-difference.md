@@ -3,9 +3,9 @@ category: news
 title: "Coronavirus: Can AI (Artificial Intelligence) Make A Difference?"
 excerpt: "The mysterious coronavirus is spreading at an alarming rate. There have been at least 305 deaths as more than 14,300 persons have been infected. On Thursday, the World Health Organization (WHO) declared the coronavirus a global emergency."
 publishedDateTime: 2020-02-02T16:51:00Z
-sourceUrl: "https://www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/"
-ampUrl: "https://www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/amp/"
+webUrl: "https://www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/"
+ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/amp/"
 type: article
 quality: 106
 heat: 116
@@ -34,9 +34,9 @@ related:
   - title: "AI Weekly: AI joins the fight against diseases like coronavirus"
     excerpt: "In light of the rising death toll from the coronavirus, which this week spread to the U.S. and was declared a health emergency by the World Health Organization (WHO), it’s worth looking at AI’s role in curbing the spread of other diseases. Algorithms have not only informed superior intervention and prevention strategies, they’ve helped ..."
     publishedDateTime: 2020-01-31T18:40:00Z
-    sourceUrl: "https://venturebeat.com/2020/01/31/ai-weekly-disease-coronavirus-prediction-spread/"
-    ampUrl: "https://venturebeat.com/2020/01/31/ai-weekly-disease-coronavirus-prediction-spread/amp/"
-    cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/31/ai-weekly-disease-coronavirus-prediction-spread/amp/"
+    webUrl: "https://venturebeat.com/2020/01/31/ai-weekly-disease-coronavirus-prediction-spread/"
+    ampWebUrl: "https://venturebeat.com/2020/01/31/ai-weekly-disease-coronavirus-prediction-spread/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/31/ai-weekly-disease-coronavirus-prediction-spread/amp/"
     type: article
     provider:
       name: VentureBeat

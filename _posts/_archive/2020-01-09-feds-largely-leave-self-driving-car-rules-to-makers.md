@@ -3,9 +3,9 @@ category: news
 title: "Feds largely leave self-driving-car rules to makers"
 excerpt: "The Trump administration on Wednesday announced its most recent round of guidelines for makers of autonomous vehicles, and they still rely on the industry to police itself despite calls for specific regulations. Transportation Secretary Elaine Chao announced the proposed guidelines in a speech at the CES gadget show in Las Vegas, saying in prep ..."
 publishedDateTime: 2020-01-09T12:34:00Z
-sourceUrl: https://www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers
-ampUrl: https://www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers?template=ampart
-cdnAmpUrl: https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers?template=ampart
+webUrl: https://www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers
+ampWebUrl: https://www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers?template=ampart
+cdnAmpWebUrl: https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers?template=ampart
 type: article
 quality: 44
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "The Trump Administration Wants to Regulate Artificial Intelligence"
     excerpt: "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based ... In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the ..."
     publishedDateTime: 2020-01-09T22:34:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/
-    ampUrl: https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    webUrl: https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/
+    ampWebUrl: https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    cdnAmpWebUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
     type: article
     provider:
       name: Popular Mechanics
@@ -44,7 +44,7 @@ related:
   - title: "The Technology 202: Trump administration's CES message: We're not interested in heavy AI regulation"
     excerpt: "LAS VEGAS — Trump administration officials this week promoted a light-touch approach to regulating self-driving cars and artificial intelligence at one of largest ... Not a regular subscriber? BITS: Facebook won't back down from its controversial policy ..."
     publishedDateTime: 2020-01-09T14:19:00Z
-    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/09/the-technology-202-trump-administration-s-ces-message-we-re-not-interested-in-heavy-ai-regulation/5e161c0688e0fa32a5149a35/
+    webUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/09/the-technology-202-trump-administration-s-ces-message-we-re-not-interested-in-heavy-ai-regulation/5e161c0688e0fa32a5149a35/
     type: article
     provider:
       name: Washington Post

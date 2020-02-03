@@ -3,7 +3,7 @@ category: news
 title: "Global Voice Assistant Market is Set to Reach USD 5,843.8 million by 2024, Observing a CAGR of 27.7% during 2019–2024: VynZ Research"
 excerpt: "Industry Insights by Component (Solutions, Services [Professional, Managed]), by Deployment (On-Premises, Cloud), by Vertical (BFSI, Retail and E-Commerce, Healthcare, Automotive, Others), by Technology (Natural Language Processing,"
 publishedDateTime: 2020-01-28T17:38:00Z
-sourceUrl: "https://www.globenewswire.com/news-release/2020/01/28/1976318/0/en/Global-Voice-Assistant-Market-is-Set-to-Reach-USD-5-843-8-million-by-2024-Observing-a-CAGR-of-27-7-during-2019-2024-VynZ-Research.html"
+webUrl: "https://www.globenewswire.com/news-release/2020/01/28/1976318/0/en/Global-Voice-Assistant-Market-is-Set-to-Reach-USD-5-843-8-million-by-2024-Observing-a-CAGR-of-27-7-during-2019-2024-VynZ-Research.html"
 type: article
 quality: 0
 heat: 0

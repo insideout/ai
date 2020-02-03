@@ -3,9 +3,9 @@ category: news
 title: "Scrappy company leapfrogs the pack with functioning robot taxis"
 excerpt: "His value proposition was that an evolving hardware stack that in early days consisted of nothing more visible spectrum cameras paired with the right AI would be enough for safe L4 autonomous driving ... Recently, AutoX announced a partnership with Fiat Chrysler (FCAU) to start rolling out the first \"Hardware Ready\" robotaxi for the Asia ..."
 publishedDateTime: 2020-01-21T12:00:00Z
-sourceUrl: "https://www.zdnet.com/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/"
-ampUrl: "https://www.zdnet.com/google-amp/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/"
+webUrl: "https://www.zdnet.com/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/"
 type: article
 quality: 89
 heat: 89

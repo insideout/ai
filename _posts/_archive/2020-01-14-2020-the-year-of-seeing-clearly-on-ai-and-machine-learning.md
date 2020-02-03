@@ -3,9 +3,9 @@ category: news
 title: "2020: The year of seeing clearly on AI and machine learning"
 excerpt: "Late last year, I complained to Richard Socher, chief scientist at Salesforce and head of its AI projects, about the term \"artificial intelligence\" and that we should use more accurate terms such as machine learning or smart machine systems, because \"AI\" creates unreasonably high expectations when the vast majority of applications are ..."
 publishedDateTime: 2020-01-14T18:04:00Z
-sourceUrl: "https://www.zdnet.com/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/"
-ampUrl: "https://www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/"
+webUrl: "https://www.zdnet.com/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/"
 type: article
 quality: 104
 heat: 114
@@ -33,9 +33,9 @@ related:
   - title: "2020: The Year Of Artificial Intelligence For Your Business"
     excerpt: "Close to 40% of businesses use artificial intelligence (AI). This number was estimated at 5% to 10%, but a survey by IBM showed that we grossly underestimated the scale of AI’s existence. Most importantly, this number is set to grow to 80% to 90% over the next 18-24 months. Furthermore, AI specialists are the number one job role for 2020."
     publishedDateTime: 2020-01-19T03:30:00Z
-    sourceUrl: "https://www.entrepreneur.com/article/345112"
-    ampUrl: "https://www.entrepreneur.com/amphtml/345112"
-    cdnAmpUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345112"
+    webUrl: "https://www.entrepreneur.com/article/345112"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/345112"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345112"
     type: article
     provider:
       name: Entrepreneur

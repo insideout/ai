@@ -3,7 +3,7 @@ category: news
 title: "Financial Technology (fintech) Market Is Booming Worldwide | Oscar Insurance Corporation, Credit Karma, Kabbage, Atom Bank, Onfido"
 excerpt: "industry market Significant advances associated with the fintech area are cryptography, Artificial Intelligence (AI), blockchain, biometrics and character the board, digital security, and robotic process automation (RPA). Noteworthy development will be seen in territories of AI and blockchain, drawing in significant ventures during the estimate ..."
 publishedDateTime: 2020-01-17T07:20:00Z
-sourceUrl: "https://www.openpr.com/news/1898935/financial-technology-fintech-market-is-booming-worldwide"
+webUrl: "https://www.openpr.com/news/1898935/financial-technology-fintech-market-is-booming-worldwide"
 type: article
 quality: 0
 heat: 0

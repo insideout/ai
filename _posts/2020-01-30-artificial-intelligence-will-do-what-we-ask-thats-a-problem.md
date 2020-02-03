@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence Will Do What We Ask. That’s a Problem."
 excerpt: "Super safe self-driving cars go too slow and brake so often that they make passengers ... decision-making and machine learning in the 1980s and ’90s and is the lead author of the widely used textbook Artificial Intelligence: A Modern Approach. In the past five years, he has become an influential voice on the alignment problem and a ubiquitous ..."
 publishedDateTime: 2020-01-30T17:24:00Z
-sourceUrl: "https://www.quantamagazine.org/artificial-intelligence-will-do-what-we-ask-thats-a-problem-20200130/"
+webUrl: "https://www.quantamagazine.org/artificial-intelligence-will-do-what-we-ask-thats-a-problem-20200130/"
 type: article
 quality: 41
 heat: 41

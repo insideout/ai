@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence in Retail Market to be Worth $ 7 BN by 2023 Due to Efficient and Low-Cost Models"
 excerpt: "Artificial Intelligence in Retail Market Artificial Intelligence (AI) is used in almost every business around the world or"
 publishedDateTime: 2020-01-31T07:31:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-be-worth-7-bn-by-2023-due-to-efficient-and-low-cost-models-2020-01-31"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-be-worth-7-bn-by-2023-due-to-efficient-and-low-cost-models-2020-01-31"
 type: article
 quality: 65
 heat: 65

@@ -1,7 +1,7 @@
 ---
 title: "What is Amazon SageMaker?"
 excerpt: "Amazon SageMaker enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. It removes the complexity that gets in the way of successfully implementing machine learning across use cases and industries—from running models for real-time fraud detection, to virtually analyzing biological impacts of potential drugs, to predicting stolen-base success in baseball."
-sourceUrl: https://aws.amazon.com/sagemaker/
+webUrl: https://aws.amazon.com/sagemaker/
 type: answer
 price: 
 length: 

@@ -3,7 +3,7 @@ category: news
 title: "Jumio and CIMB Bank PH Team up to Provide Filipinos Unmatched Digital Onboarding Experience With AI-Powered Identity Verification Technology"
 excerpt: "SINGAPORE--(BUSINESS WIRE)--Jumio, the leading provider of AI-powered end-to-end identity verification and authentication solutions, has partnered with CIMB Bank Philippines’ all-digital bank to provide a simple, hassle-free and convenient digital onboarding solution to Filipinos. In its first full year of formal operations, CIMB Bank ..."
 publishedDateTime: 2020-02-02T22:09:00Z
-sourceUrl: "https://www.businesswire.com/news/home/20200202005015/en/Jumio-CIMB-Bank-PH-Team-Provide-Filipinos"
+webUrl: "https://www.businesswire.com/news/home/20200202005015/en/Jumio-CIMB-Bank-PH-Team-Provide-Filipinos"
 type: article
 quality: 2
 heat: 2

@@ -3,7 +3,7 @@ category: news
 title: "RI Stop & Shop Worker Blasts Robot Birthday Bash — Calls on Company to Celebrate Customers and Staff"
 excerpt: "Jobs in these fields may be replaced with technology-driven by machine learning and artificial intelligence,\" found the report. Marty is a spill detection robot. This technology is just the beginning for Stop & Shop and other retailers. The company making some of the technology solutions, like Marty, says that retailers need technology to stay ..."
 publishedDateTime: 2020-01-28T22:49:00Z
-sourceUrl: "https://www.golocalprov.com/business/stop-shop-worker-blasts-robot-birthday-bash-calls-on-company-to-celebrate-c"
+webUrl: "https://www.golocalprov.com/business/stop-shop-worker-blasts-robot-birthday-bash-calls-on-company-to-celebrate-c"
 type: article
 quality: 24
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "Stop & Shop Worker Blasts Robot Birthday Bash — Calls on Company to Celebrate Customers and Staff"
     excerpt: "Jobs in these fields may be replaced with technology-driven by machine learning and artificial intelligence,\" found the report. Marty is a spill detection robot. This technology is just the beginning for Stop & Shop and other retailers. The company making some of the technology solutions, like Marty, says that retailers need technology to stay ..."
     publishedDateTime: 2020-01-27T13:03:00Z
-    sourceUrl: "https://www.golocalprov.com/business/stop-shop-worker-blasts-robot-birthday-bash-calls-on-company-to-celebrate-c"
+    webUrl: "https://www.golocalprov.com/business/stop-shop-worker-blasts-robot-birthday-bash-calls-on-company-to-celebrate-c"
     type: article
     provider:
       name: GoLocalProv

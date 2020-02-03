@@ -3,9 +3,9 @@ category: news
 title: "European envoy calls for Western unity against Chinese artificial intelligence"
 excerpt: "Western allies must coordinate against the tyrannical uses of artificial intelligence pioneered by the Chinese Communist Party, according to the European Union’s top envoy to the United States. “Who is going to be setting the standards for AI — people who don't like liberty and freedom or people who do?” Ambassador Stavros Lambrinidis ..."
 publishedDateTime: 2020-01-23T22:55:00Z
-sourceUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/european-envoy-calls-for-western-unity-against-chinese-artificial-intelligence"
-ampUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/european-envoy-calls-for-western-unity-against-chinese-artificial-intelligence?_amp=true"
-cdnAmpUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/defense-national-security/european-envoy-calls-for-western-unity-against-chinese-artificial-intelligence?_amp=true"
+webUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/european-envoy-calls-for-western-unity-against-chinese-artificial-intelligence"
+ampWebUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/european-envoy-calls-for-western-unity-against-chinese-artificial-intelligence?_amp=true"
+cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/defense-national-security/european-envoy-calls-for-western-unity-against-chinese-artificial-intelligence?_amp=true"
 type: article
 quality: 48
 heat: 48

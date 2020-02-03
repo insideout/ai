@@ -3,9 +3,9 @@ category: news
 title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
 excerpt: "(CNN) -- GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open."
 publishedDateTime: 2020-01-30T09:53:00Z
-sourceUrl: "https://www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.html"
-ampUrl: "https://www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.amp.html"
-cdnAmpUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.amp.html"
+webUrl: "https://www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.html"
+ampWebUrl: "https://www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.amp.html"
+cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.amp.html"
 type: article
 quality: 44
 heat: 44

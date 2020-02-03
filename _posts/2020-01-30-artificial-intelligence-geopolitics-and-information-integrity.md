@@ -3,9 +3,9 @@ category: news
 title: "Artificial intelligence, geopolitics, and information integrity"
 excerpt: "Much has been written, and rightly so, about the potential that artificial intelligence (AI) can be used to create and promote misinformation. But there is a less well-recognized but equally important application for AI in helping to detect misinformation and limit its spread. This dual role will be particularly important in geopolitics ..."
 publishedDateTime: 2020-01-30T04:01:00Z
-sourceUrl: "https://www.brookings.edu/research/artificial-intelligence-geopolitics-and-information-integrity/"
-ampUrl: "https://www.brookings.edu/research/artificial-intelligence-geopolitics-and-information-integrity/amp/"
-cdnAmpUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/artificial-intelligence-geopolitics-and-information-integrity/amp/"
+webUrl: "https://www.brookings.edu/research/artificial-intelligence-geopolitics-and-information-integrity/"
+ampWebUrl: "https://www.brookings.edu/research/artificial-intelligence-geopolitics-and-information-integrity/amp/"
+cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/artificial-intelligence-geopolitics-and-information-integrity/amp/"
 type: article
 quality: 59
 heat: 59

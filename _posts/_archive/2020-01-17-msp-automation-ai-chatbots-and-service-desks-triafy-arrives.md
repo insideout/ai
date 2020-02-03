@@ -3,7 +3,7 @@ category: news
 title: "MSP Automation, AI Chatbots and Service Desks: Triafy Arrives"
 excerpt: "The Tampa, Florida-based startup has built a ticket triage knowledge base for non-technical help desk ... We have built a ticket triage knowledge base for non-technical help desk dispatchers to use when they open new service tickets. We are using AI chatbot technology to guide dispatchers through the appropriate triage questions for the given ..."
 publishedDateTime: 2020-01-17T18:54:00Z
-sourceUrl: "https://www.channele2e.com/technology/ai/msp-chatbots-triafy-arrives/"
+webUrl: "https://www.channele2e.com/technology/ai/msp-chatbots-triafy-arrives/"
 type: article
 quality: 37
 heat: 37

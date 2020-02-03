@@ -3,9 +3,9 @@ category: news
 title: "BCCI’s New Rs 500 Crore Centre of Excellence to Have Hybrid Pitches, Improved Medical Facilities And Artificial Intelligence"
 excerpt: "The BCCI’s new Centre of Excellence (CoE) which it plans to replace the National Cricket Academy (NCA) in Bengaluru will have pitches mimicking those found in Australia, New Zealand and England, multiple grounds for hosting tournaments, improved medical facilities, artificial intelligence among other new facilities. The grand project will ..."
 publishedDateTime: 2020-01-30T02:58:00Z
-sourceUrl: "https://www.india.com/sports/cricket-bccis-new-rs-500-crore-centre-of-excellence-to-have-hybrid-pitches-improved-medical-facilities-and-artificial-intelligence-3925944/"
-ampUrl: "https://www.india.com/sports/cricket-bccis-new-rs-500-crore-centre-of-excellence-to-have-hybrid-pitches-improved-medical-facilities-and-artificial-intelligence-3925944/amp/"
-cdnAmpUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/sports/cricket-bccis-new-rs-500-crore-centre-of-excellence-to-have-hybrid-pitches-improved-medical-facilities-and-artificial-intelligence-3925944/amp/"
+webUrl: "https://www.india.com/sports/cricket-bccis-new-rs-500-crore-centre-of-excellence-to-have-hybrid-pitches-improved-medical-facilities-and-artificial-intelligence-3925944/"
+ampWebUrl: "https://www.india.com/sports/cricket-bccis-new-rs-500-crore-centre-of-excellence-to-have-hybrid-pitches-improved-medical-facilities-and-artificial-intelligence-3925944/amp/"
+cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/sports/cricket-bccis-new-rs-500-crore-centre-of-excellence-to-have-hybrid-pitches-improved-medical-facilities-and-artificial-intelligence-3925944/amp/"
 type: article
 quality: 30
 heat: 30

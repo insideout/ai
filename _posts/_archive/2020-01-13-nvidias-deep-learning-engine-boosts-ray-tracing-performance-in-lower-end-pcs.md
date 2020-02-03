@@ -3,7 +3,7 @@ category: news
 title: "Nvidia’s deep-learning engine boosts ray tracing performance in lower-end PCs"
 excerpt: "Or, the company is at least closer than they ever have been before. The secret? Deep-learning technology, powered by artificial intelligence and super computers, and run on Nvidia’s patented Tensor Cores within their new RTX graphics cards. This ..."
 publishedDateTime: 2020-01-13T20:20:00Z
-sourceUrl: "https://www.newegg.com/insider/nvidias-deep-learning-engine-boosts-ray-tracing-performance-in-lower-end-pcs/"
+webUrl: "https://www.newegg.com/insider/nvidias-deep-learning-engine-boosts-ray-tracing-performance-in-lower-end-pcs/"
 type: article
 quality: 21
 heat: 21

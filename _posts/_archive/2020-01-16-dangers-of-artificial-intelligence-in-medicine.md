@@ -3,9 +3,9 @@ category: news
 title: "Dangers of artificial intelligence in medicine"
 excerpt: "Health-care is an industry in need of AI assistance due to a shortage of doctors and physician burnout."
 publishedDateTime: 2020-01-16T23:00:00Z
-sourceUrl: "https://thehill.com/opinion/healthcare/478651-dangers-of-artificial-intelligence-in-medicine"
-ampUrl: "https://thehill.com/opinion/healthcare/478651-dangers-of-artificial-intelligence-in-medicine?amp"
-cdnAmpUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/healthcare/478651-dangers-of-artificial-intelligence-in-medicine?amp"
+webUrl: "https://thehill.com/opinion/healthcare/478651-dangers-of-artificial-intelligence-in-medicine"
+ampWebUrl: "https://thehill.com/opinion/healthcare/478651-dangers-of-artificial-intelligence-in-medicine?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/healthcare/478651-dangers-of-artificial-intelligence-in-medicine?amp"
 type: article
 quality: 59
 heat: 59

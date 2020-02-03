@@ -3,7 +3,7 @@ category: news
 title: "Machine learning for everyone: How to implement pose estimation in a browser using your webcam"
 excerpt: "The 20th century turned out to be an era of exponential growth in the field of machine learning. The 3000-year-old ancient game of ‘Go’ that computer scientists predicted will take another decade to crack was made possible by Google Brain teams AlphaGo AI, defeating multiple-time world champion Lee Sudol. And, by the way, this Chinese ..."
 publishedDateTime: 2020-02-01T09:06:00Z
-sourceUrl: "https://thenextweb.com/syndication/2020/02/01/machine-learning-for-everyone-how-to-implement-pose-estimation-in-a-browser-using-your-webcam/"
+webUrl: "https://thenextweb.com/syndication/2020/02/01/machine-learning-for-everyone-how-to-implement-pose-estimation-in-a-browser-using-your-webcam/"
 type: article
 quality: 57
 heat: 57

@@ -3,9 +3,9 @@ category: news
 title: "Google says new AI models allow for ‘nearly instantaneous’ weather forecasts"
 excerpt: "Google is the latest firm to get involved, and in a blog post this week shared new research that it says enables “nearly instantaneous” weather ... The company’s researchers trained their AI model on historical radar data collected between 2017 and 2019 in the contiguous US by the National Oceanic and Atmospheric Administration (NOAA)."
 publishedDateTime: 2020-01-14T11:02:00Z
-sourceUrl: "https://www.theverge.com/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research"
-ampUrl: "https://www.theverge.com/platform/amp/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research"
-cdnAmpUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research"
+webUrl: "https://www.theverge.com/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research"
+ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research"
 type: article
 quality: 186
 heat: 186

@@ -3,7 +3,7 @@ category: news
 title: "Wagner Logistics implements inVia Robotics software in its Kansas warehouse"
 excerpt: "inVia Robotics, a provider of warehouse robotics, has implemented its artificial intelligence-driven automation software in Wagner Logistics’ Edgerton, Kansas warehouse. inVia’s software includes the newly introduced inVia PickMate tool which it says “increases warehouse workers’ productivity and accuracy” by directing them to the ..."
 publishedDateTime: 2020-01-22T12:45:00Z
-sourceUrl: "https://roboticsandautomationnews.com/2020/01/22/wagner-logistics-implements-invia-robotics-software-in-its-kansas-warehouse/28906/"
+webUrl: "https://roboticsandautomationnews.com/2020/01/22/wagner-logistics-implements-invia-robotics-software-in-its-kansas-warehouse/28906/"
 type: article
 quality: 52
 heat: 52

@@ -3,7 +3,7 @@ category: news
 title: "Early Recognition of Burn- and Trauma-Related Acute Kidney Injury: A Pilot Comparison of Machine Learning Techniques"
 excerpt: "Severely burned and non-burned trauma patients are at risk for acute kidney injury (AKI). The study objective was to assess the theoretical performance of artificial intelligence (AI)/machine learning (ML) algorithms to augment AKI recognition using the novel biomarker, neutrophil gelatinase associated lipocalin (NGAL), combined with ..."
 publishedDateTime: 2020-01-14T10:12:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-019-57083-6"
+webUrl: "https://www.nature.com/articles/s41598-019-57083-6"
 type: article
 quality: 16
 heat: 16

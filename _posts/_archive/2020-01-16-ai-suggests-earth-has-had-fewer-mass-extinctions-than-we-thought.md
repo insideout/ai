@@ -3,9 +3,9 @@ category: news
 title: "AI suggests Earth has had fewer mass extinctions than we thought"
 excerpt: "The best record yet of how biodiversity changed in the distant past has been created with the help of machine learning and a supercomputer. Among other things, it confirms that one of the five great mass extinctions didn’t really happen. It was thought the oceans turned toxic around 375 million years ago, near the end of the Devonian period ..."
 publishedDateTime: 2020-01-16T19:52:00Z
-sourceUrl: "https://www.newscientist.com/article/2230345-ai-suggests-earth-has-had-fewer-mass-extinctions-than-we-thought/"
-ampUrl: "https://www.newscientist.com/article/2230345-ai-suggests-earth-has-had-fewer-mass-extinctions-than-we-thought/amp/"
-cdnAmpUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230345-ai-suggests-earth-has-had-fewer-mass-extinctions-than-we-thought/amp/"
+webUrl: "https://www.newscientist.com/article/2230345-ai-suggests-earth-has-had-fewer-mass-extinctions-than-we-thought/"
+ampWebUrl: "https://www.newscientist.com/article/2230345-ai-suggests-earth-has-had-fewer-mass-extinctions-than-we-thought/amp/"
+cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230345-ai-suggests-earth-has-had-fewer-mass-extinctions-than-we-thought/amp/"
 type: article
 quality: 37
 heat: 37

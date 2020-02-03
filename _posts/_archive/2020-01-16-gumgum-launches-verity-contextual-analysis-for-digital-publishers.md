@@ -3,7 +3,7 @@ category: news
 title: "GumGum Launches Verity Contextual Analysis for Digital Publishers"
 excerpt: "Built around GumGum's proprietary computer vision and natural language processing deep learning systems, Verity offers content-level insight into ad inventories by expanding available contextual categories and identifying brand suitability and safety concerns. \"Looking ahead to a cookieless future, we saw that publishers would need greater ..."
 publishedDateTime: 2020-01-16T16:01:00Z
-sourceUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=136100"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=136100"
 type: article
 quality: 24
 heat: 24

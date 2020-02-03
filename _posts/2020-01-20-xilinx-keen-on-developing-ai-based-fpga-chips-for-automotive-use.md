@@ -3,7 +3,7 @@ category: news
 title: "Xilinx keen on developing AI-based FPGA chips for automotive use"
 excerpt: "US FPGA chips specialist Xilinx will step up development of self-adaptive AI chips for automotive applications based on the emerging concepts of Mobility as a Service (MaaS) and Transportation as a Service (TaaS) for next-generation, autonomous vehicles, according to industry sources. Xilinx already shipped 170 million self-adaptive devices for ..."
 publishedDateTime: 2020-01-20T08:20:00Z
-sourceUrl: "https://www.digitimes.com/news/a20200120PD203.html"
+webUrl: "https://www.digitimes.com/news/a20200120PD203.html"
 type: article
 quality: 54
 heat: 54

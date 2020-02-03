@@ -3,7 +3,7 @@ category: news
 title: "Intel’s Mobileye has a plan to dominate self-driving—and it might work"
 excerpt: "A lot of media coverage of self-driving technology has focused on a handful of big companies with well-known brands: Google, Uber, Tesla, and GM. But there's another company working on self ..."
 publishedDateTime: 2020-01-10T16:12:00Z
-sourceUrl: "https://arstechnica.com/cars/2020/01/intels-mobileye-has-a-plan-to-dominate-self-driving-and-it-might-work/"
+webUrl: "https://arstechnica.com/cars/2020/01/intels-mobileye-has-a-plan-to-dominate-self-driving-and-it-might-work/"
 type: article
 quality: 34
 heat: 34

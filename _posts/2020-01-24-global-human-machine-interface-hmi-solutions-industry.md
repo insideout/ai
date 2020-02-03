@@ -3,9 +3,9 @@ category: news
 title: "Global Human Machine Interface (HMI) Solutions Industry"
 excerpt: "GUI will continue to dominate albeit in the midst of growing competition from improving Natural Language Processing (NLP) and voice based HMI. Beginning from simple punched cards, keypads, monitors, touchpads to the advanced panels of today, HMI has and continues to evolve towards the envisioned path of conversational HMI. The physical form ..."
 publishedDateTime: 2020-01-24T12:20:00Z
-sourceUrl: "https://markets.businessinsider.com/news/stocks/global-human-machine-interface-hmi-solutions-industry-1028842981"
-ampUrl: "https://markets.businessinsider.com/amp/news/global-human-machine-interface-hmi-solutions-industry-1028842981"
-cdnAmpUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-human-machine-interface-hmi-solutions-industry-1028842981"
+webUrl: "https://markets.businessinsider.com/news/stocks/global-human-machine-interface-hmi-solutions-industry-1028842981"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/global-human-machine-interface-hmi-solutions-industry-1028842981"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-human-machine-interface-hmi-solutions-industry-1028842981"
 type: article
 quality: 54
 heat: 54

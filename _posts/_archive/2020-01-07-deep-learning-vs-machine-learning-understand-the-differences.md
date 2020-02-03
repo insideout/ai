@@ -3,9 +3,9 @@ category: news
 title: "Deep learning vs. machine learning: Understand the differences"
 excerpt: "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep ..."
 publishedDateTime: 2020-01-07T18:37:00Z
-sourceUrl: "https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html"
-ampUrl: "https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html"
-cdnAmpUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html"
+webUrl: "https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html"
+ampWebUrl: "https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html"
+cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html"
 type: article
 quality: 104
 heat: 104

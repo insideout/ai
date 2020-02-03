@@ -3,7 +3,7 @@ category: news
 title: "Internet of Voice: The Next Big Thing to Generate Real Estate Leads"
 excerpt: "These applications integrate the latest AI (artificial intelligence) technologies, voice recognition system, and relevant search mechanics. Simply put, voice assistance can be termed as using your voice to ask a question using an intelligent technology (chatbot, voice recogniser, digital assistant) to get relevant results for your query."
 publishedDateTime: 2020-01-20T23:06:00Z
-sourceUrl: "https://realtybiznews.com/internet-of-voice-the-next-big-thing-to-generate-real-estate-leads/98757308/"
+webUrl: "https://realtybiznews.com/internet-of-voice-the-next-big-thing-to-generate-real-estate-leads/98757308/"
 type: article
 quality: 24
 heat: 24

@@ -3,7 +3,7 @@ category: news
 title: "Machine Learning and Network Analyses Reveal Disease Subtypes of Pancreatic Cancer and their Molecular Characteristics"
 excerpt: "We use machine learning algorithms to define sets of proteins, mRNAs, miRNAs and DNA methylation patterns that could serve as biomarkers to accurately differentiate between the two pancreatic cancer subtypes. Lastly, we confirm the biological relevance of the identified biomarkers by showing that these can be used together with pattern ..."
 publishedDateTime: 2020-01-27T10:12:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-020-58290-2"
+webUrl: "https://www.nature.com/articles/s41598-020-58290-2"
 type: article
 quality: 15
 heat: 15

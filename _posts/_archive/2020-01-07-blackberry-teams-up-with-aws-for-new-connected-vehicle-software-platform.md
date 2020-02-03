@@ -3,7 +3,7 @@ category: news
 title: "BlackBerry teams up with AWS for new connected vehicle software platform"
 excerpt: "The AWS-powered BlackBerry platform combines the two companies’ edge and cloud ... speed product development and ultimately to provide owners with leading cyber-security resources and predictive maintenance information via the latest artificial intelligence applications. “The result is enhanced VVIP treatment for our discerning luxury ..."
 publishedDateTime: 2020-01-07T09:29:00Z
-sourceUrl: https://www.helpnetsecurity.com/2020/01/07/blackberry-amazon-web-services/
+webUrl: https://www.helpnetsecurity.com/2020/01/07/blackberry-amazon-web-services/
 type: article
 quality: 38
 heat: 38

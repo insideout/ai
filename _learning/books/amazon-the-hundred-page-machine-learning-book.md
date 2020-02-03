@@ -1,7 +1,7 @@
 ---
 title: "The Hundred-Page Machine Learning Book"
 excerpt: "Everything you really need to know in Machine Learning in a hundred pages."
-sourceUrl: https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/
+webUrl: https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/
 type: book
 price: $31.03
 length: 

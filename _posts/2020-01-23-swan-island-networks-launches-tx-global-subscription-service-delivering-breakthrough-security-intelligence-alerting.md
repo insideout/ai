@@ -3,9 +3,9 @@ category: news
 title: "Swan Island Networks Launches TX Global Subscription Service Delivering Breakthrough Security Intelligence Alerting"
 excerpt: "​​​​​​Swan Island Networks, a leading SaaS security intelligence provider, today announced TX Global, a breakthrough global intelligence alerting service. The all-new TX Global alerting service is built on TX360™,"
 publishedDateTime: 2020-01-23T09:12:00Z
-sourceUrl: "https://www.goskagit.com/news/nation/swan-island-networks-launches-tx-global-subscription-service-delivering-breakthrough/article_37eb22c9-d691-55bc-a835-e04d7dd6823b.html"
-ampUrl: "https://www.goskagit.com/news/nation/swan-island-networks-launches-tx-global-subscription-service-delivering-breakthrough/article_37eb22c9-d691-55bc-a835-e04d7dd6823b.amp.html"
-cdnAmpUrl: "https://www-goskagit-com.cdn.ampproject.org/c/s/www.goskagit.com/news/nation/swan-island-networks-launches-tx-global-subscription-service-delivering-breakthrough/article_37eb22c9-d691-55bc-a835-e04d7dd6823b.amp.html"
+webUrl: "https://www.goskagit.com/news/nation/swan-island-networks-launches-tx-global-subscription-service-delivering-breakthrough/article_37eb22c9-d691-55bc-a835-e04d7dd6823b.html"
+ampWebUrl: "https://www.goskagit.com/news/nation/swan-island-networks-launches-tx-global-subscription-service-delivering-breakthrough/article_37eb22c9-d691-55bc-a835-e04d7dd6823b.amp.html"
+cdnAmpWebUrl: "https://www-goskagit-com.cdn.ampproject.org/c/s/www.goskagit.com/news/nation/swan-island-networks-launches-tx-global-subscription-service-delivering-breakthrough/article_37eb22c9-d691-55bc-a835-e04d7dd6823b.amp.html"
 type: article
 quality: 22
 heat: 22

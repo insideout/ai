@@ -3,9 +3,9 @@ category: news
 title: "Meena is Google’s attempt at making true conversational AI"
 excerpt: "Conversational AI is a catch-all term for natural language models for artificial intelligence that can interpret human words, speak to people, or carry out tasks or computation with natural language. But talk to any of the best-known AI assistants today — Alexa, Siri, Google Assistant — and they’re not exactly conversational. They can ..."
 publishedDateTime: 2020-01-28T21:47:00Z
-sourceUrl: "https://venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/"
-ampUrl: "https://venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/amp/"
+webUrl: "https://venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/"
+ampWebUrl: "https://venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/amp/"
 type: article
 quality: 87
 heat: 87

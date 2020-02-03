@@ -3,9 +3,9 @@ category: news
 title: "Why do we gender AI? Voice tech firms move to be more inclusive"
 excerpt: "“Something we learned early on about companies that started years ago with voice recognition is that they often took datasets that came from public radio,” said Katharina Borchert, Mozilla’s ..."
 publishedDateTime: 2020-01-11T12:05:00Z
-sourceUrl: "https://www.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive"
-ampUrl: "https://amp.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive"
-cdnAmpUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive"
+webUrl: "https://www.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive"
+ampWebUrl: "https://amp.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive"
 type: article
 quality: 59
 heat: 59

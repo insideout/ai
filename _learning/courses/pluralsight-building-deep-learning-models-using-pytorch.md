@@ -1,7 +1,7 @@
 ---
 title: "Building Deep Learning Models Using PyTorch"
 excerpt: "In this course, you will learn to work with PyTorch and all the libraries that it has to offer, from first principles - starting with Torch tensors, dynamic computation graphs, and the autograd library, to compute gradients."
-sourceUrl: https://www.pluralsight.com/courses/pytorch-building-deep-learning-models
+webUrl: https://www.pluralsight.com/courses/pytorch-building-deep-learning-models
 type: course
 price: $$
 length: 3h 18m

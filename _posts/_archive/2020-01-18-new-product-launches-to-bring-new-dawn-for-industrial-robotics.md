@@ -3,7 +3,7 @@ category: news
 title: "New product launches to bring new dawn for industrial robotics"
 excerpt: "The advancements in technologies have enabled manufacturers to utilize robots that are lightweight, perform multiple tasks, and improve efficiency. Moreover, they have been aiming for safety, reliability, and improved environment for workers. Emerging technologies such as artificial intelligence, machine learning, and others have been ..."
 publishedDateTime: 2020-01-18T12:00:00Z
-sourceUrl: "https://roboticsandautomationnews.com/2020/01/18/new-product-launches-to-bring-new-dawn-for-industrial-robotics/28717/"
+webUrl: "https://roboticsandautomationnews.com/2020/01/18/new-product-launches-to-bring-new-dawn-for-industrial-robotics/28717/"
 type: article
 quality: 54
 heat: 54

@@ -1,7 +1,7 @@
 ---
 title: "Python and Machine Learning for Asset Management"
 excerpt: "Learn Python and Machine Learning for Asset Management  from EDHEC Business School. This course will enable you mastering machine-learning approaches in the area of investment management. It has been designed by two thought leaders in their ..."
-sourceUrl: https://www.coursera.org/learn/python-machine-learning-for-investment-management
+webUrl: https://www.coursera.org/learn/python-machine-learning-for-investment-management
 type: course
 price: Free+
 length: 13 hours

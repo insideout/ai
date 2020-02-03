@@ -3,7 +3,7 @@ category: news
 title: "Mirror mirror on the wall, AutoML edge makes shopping magical"
 excerpt: "Machine learning can be complex and overwhelming. Luckily Google is on its way to democratize machine learning by providing Google AutoML, a Google Cloud tool to handle all the complexity of ..."
 publishedDateTime: 2020-01-11T11:41:00Z
-sourceUrl: "https://medium.com/incentro/mirror-mirror-on-the-wall-automl-edge-makes-shopping-magical-a0d6ef89974d"
+webUrl: "https://medium.com/incentro/mirror-mirror-on-the-wall-automl-edge-makes-shopping-magical-a0d6ef89974d"
 type: article
 quality: 69
 heat: 69

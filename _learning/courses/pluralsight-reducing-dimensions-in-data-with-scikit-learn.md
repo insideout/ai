@@ -1,7 +1,7 @@
 ---
 title: "Reducing Dimensions in Data with scikit-learn"
 excerpt: "This course covers a wide range of the important techniques of dimensionality reduction and feature selection available in scikit-learn, allowing model builders to optimize model performance by reducing overfitting, save on model training time and cost, and better visualize the results of machine learning models."
-sourceUrl: https://www.pluralsight.com/courses/reducing-dimensions-data-scikit-learn
+webUrl: https://www.pluralsight.com/courses/reducing-dimensions-data-scikit-learn
 type: course
 price: $$
 length: 2h 29m

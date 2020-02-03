@@ -3,7 +3,7 @@ category: news
 title: "18.S096 Special Subject in Mathematics: Applications of Scientific Machine Learning"
 excerpt: "Machine learning and scientific computing have previously lived in separate worlds, with one focusing on training neural networks for applications like image processing and the other solving partial differential equations defined in climate models. However, a recently emerging discipline, called scientific machine learning or physics-informed ..."
 publishedDateTime: 2020-01-15T00:17:00Z
-sourceUrl: "https://github.com/mitmath/18S096SciML"
+webUrl: "https://github.com/mitmath/18S096SciML"
 type: article
 quality: 33
 heat: 33

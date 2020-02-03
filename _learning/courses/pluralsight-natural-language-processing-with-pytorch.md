@@ -1,7 +1,7 @@
 ---
 title: "Natural Language Processing with PyTorch"
 excerpt: "This course covers the use of advanced neural network constructs and architectures, such as recurrent neural networks, word embeddings, and bidirectional RNNs, to solve complex word and language modeling problems using PyTorch. "
-sourceUrl: https://www.pluralsight.com/courses/natural-language-processing-pytorch
+webUrl: https://www.pluralsight.com/courses/natural-language-processing-pytorch
 type: course
 price: $$
 length: 2h 58m

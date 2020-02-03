@@ -3,9 +3,9 @@ category: news
 title: "The U.S. Has the Most Startups That Could Change the World"
 excerpt: "In 2020, the “game-changing” companies, defined as “pioneering technology with the potential to transform society and economies for the better,” will develop chips operating at the speed of light, quantum cryptography, and more transparency in artificial intelligence processes ... advanced neuromodulation therapy with wireless ..."
 publishedDateTime: 2020-01-26T01:05:00Z
-sourceUrl: "https://wtop.com/news/2020/01/the-u-s-has-the-most-startups-that-could-change-the-world/"
-ampUrl: "https://wtop.com/news/2020/01/the-u-s-has-the-most-startups-that-could-change-the-world/amp/"
-cdnAmpUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2020/01/the-u-s-has-the-most-startups-that-could-change-the-world/amp/"
+webUrl: "https://wtop.com/news/2020/01/the-u-s-has-the-most-startups-that-could-change-the-world/"
+ampWebUrl: "https://wtop.com/news/2020/01/the-u-s-has-the-most-startups-that-could-change-the-world/amp/"
+cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2020/01/the-u-s-has-the-most-startups-that-could-change-the-world/amp/"
 type: article
 quality: 24
 heat: 24

@@ -3,9 +3,9 @@ category: news
 title: "Agency from William Gibson splits the seams between AI and humans"
 excerpt: "It involves Bay Area tech startups and AR headsets, spinning a vibe that doesn't feel far off from the life I actually live right now covering emergent tech. There's a mysterious AI program: an assistant, a person, named Eunice. Someone. I don't want to give much more away. I'd prefer you let the book take you on this journey. Eunice meets and ..."
 publishedDateTime: 2020-01-22T13:30:00Z
-sourceUrl: "https://www.cnet.com/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/"
-ampUrl: "https://www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/"
-cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/"
+webUrl: "https://www.cnet.com/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/"
 type: article
 quality: 87
 heat: 87

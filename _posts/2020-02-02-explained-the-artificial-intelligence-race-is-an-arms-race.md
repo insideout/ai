@@ -3,7 +3,7 @@ category: news
 title: "Explained: The Artificial Intelligence Race is an Arms Race"
 excerpt: "Graham Allison alerts us to artificial intelligence being the epicenter of today’s superpower arms race. Drawing heavily on Kai-Fu Lee’s basic thesis, Allison draws the battlelines: the United States vs. China, across the domains of human talent, big data, and government commitment. Allison further points to the absence of controls ..."
 publishedDateTime: 2020-02-02T17:18:00Z
-sourceUrl: "https://nationalinterest.org/blog/buzz/explained-artificial-intelligence-race-arms-race-119326"
+webUrl: "https://nationalinterest.org/blog/buzz/explained-artificial-intelligence-race-arms-race-119326"
 type: article
 quality: 52
 heat: 52

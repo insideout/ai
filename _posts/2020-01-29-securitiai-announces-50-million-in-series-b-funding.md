@@ -3,7 +3,7 @@ category: news
 title: "Securiti.ai Announces $50 Million in Series B Funding"
 excerpt: "San Jose data and security startup Securiti.ai has announced $50 million in Series B funding led by General Catalyst and with participation from Mayfield. Launched in 2019, Securiti.ai reports that it has already raised $81 million in funding. CEO and founder Rehan Jalil has stated that the goal of the startup is to provide an operations ..."
 publishedDateTime: 2020-01-29T15:44:00Z
-sourceUrl: "https://mobileidworld.com/securiti-ai-announces-50-million-series-b-funding-012903/"
+webUrl: "https://mobileidworld.com/securiti-ai-announces-50-million-series-b-funding-012903/"
 type: article
 quality: 17
 heat: -1
@@ -20,9 +20,9 @@ related:
   - title: "Securiti.ai scores $50M Series B to modernize data governance"
     excerpt: "Securiti.ai, a San Jose startup, is working to bring a modern twist to data governance and security. Today the company announced a $50 million Series B led by General Catalyst with participation from Mayfield. The company, which only launched in 2018, reports it has already raised $81 million. What is attracting all of this investment in such a ..."
     publishedDateTime: 2020-01-28T17:11:00Z
-    sourceUrl: "https://techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/"
-    ampUrl: "https://techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/amp/"
-    cdnAmpUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/amp/"
+    webUrl: "https://techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/"
+    ampWebUrl: "https://techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/amp/"
     type: article
     provider:
       name: TechCrunch

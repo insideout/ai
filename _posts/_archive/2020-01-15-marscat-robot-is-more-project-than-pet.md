@@ -3,9 +3,9 @@ category: news
 title: "MarsCat robot is more project than pet"
 excerpt: "There's a growing fear that artificial intelligence combined with robotics will displace the value of humans in many contexts. But could these trends also apply to our traditional four-legged canine and feline companions? After its splash at CES 2020, I had an opportunity to get up close this week with two prototypes of the MarsCat robot ..."
 publishedDateTime: 2020-01-15T18:43:00Z
-sourceUrl: "https://www.zdnet.com/article/marscat-robot-is-more-project-than-pet/"
-ampUrl: "https://www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/"
+webUrl: "https://www.zdnet.com/article/marscat-robot-is-more-project-than-pet/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/"
 type: article
 quality: 69
 heat: 69

@@ -3,7 +3,7 @@ category: news
 title: "Best of theCUBE 2019 heralds five important tech topics worth following in 2020"
 excerpt: "Major providers of digital transformation services, such as Amazon Web Services Inc., are seeing growth of the enterprise ... senior vice president of cloud and cognitive software at IBM, during an interview in May. “We were clear that is where the world is going to go. We put our money where our mouth was.” The container orchestration ..."
 publishedDateTime: 2020-01-14T22:16:00Z
-sourceUrl: "https://siliconangle.com/2020/01/14/cube-videos-from-2019-herald-five-important-tech-topics-worth-following-in-2020-thecube/"
+webUrl: "https://siliconangle.com/2020/01/14/cube-videos-from-2019-herald-five-important-tech-topics-worth-following-in-2020-thecube/"
 type: article
 quality: 20
 heat: 20

@@ -3,9 +3,9 @@ category: news
 title: "Could an AI ‘human’ become your friend?"
 excerpt: "Putting a human-like AI in your home, one that learns your preferences for pizza, behaviors or finances, raises concerns about where intimate information could land."
 publishedDateTime: 2020-01-11T02:06:00Z
-sourceUrl: "https://www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/"
-ampUrl: "https://www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/amp/"
-cdnAmpUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/amp/"
+webUrl: "https://www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/"
+ampWebUrl: "https://www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/amp/"
 type: article
 quality: 59
 heat: 59

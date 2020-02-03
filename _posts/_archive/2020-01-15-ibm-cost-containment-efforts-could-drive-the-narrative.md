@@ -3,7 +3,7 @@ category: news
 title: "IBM: Cost Containment Efforts Could Drive The Narrative"
 excerpt: "The bright spot was Cloud & Cognitive Software, the segment that specifically included Red ... Whether it can win against the likes of Google (GOOG), (GOOGL), Amazon (AMZN) and Microsoft (MSFT) remains to be seen. Global Business Services (\"GBS\") revenue of $4.1 billion rose 1% on growth in consulting, while Global Technology Services (\"GTS ..."
 publishedDateTime: 2020-01-15T23:56:00Z
-sourceUrl: "https://seekingalpha.com/article/4317042-ibm-cost-containment-efforts-drive-narrative"
+webUrl: "https://seekingalpha.com/article/4317042-ibm-cost-containment-efforts-drive-narrative"
 type: article
 quality: 19
 heat: 19

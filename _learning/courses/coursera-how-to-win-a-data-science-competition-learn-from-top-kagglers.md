@@ -1,7 +1,7 @@
 ---
 title: "How to Win a Data Science Competition: Learn from Top Kagglers"
 excerpt: "Learn How to Win a Data Science Competition: Learn from Top Kagglers from National Research University Higher School of Economics. If you want to break into competitive data science, then this course is for you! Participating in predictive ..."
-sourceUrl: https://www.coursera.org/learn/competitive-data-science
+webUrl: https://www.coursera.org/learn/competitive-data-science
 type: course
 price: Free+
 length: 48 hours

@@ -3,7 +3,7 @@ category: news
 title: "SD Times news digest: Quantum Machines joins IBM Q network, Next.js 9.2, Splice Machine 3.0 now available"
 excerpt: "It offers exhaustive SQL support, high performance for all workloads, native machine learning AI capabilities, and unified deployment on-premise and on the cloud. “The Splice Machine platform offers a lower risk, lower-cost approach to moving off of platforms like Oracle and IBM DB2 because enterprises can get scale-out, data type ..."
 publishedDateTime: 2020-01-16T16:05:00Z
-sourceUrl: "https://sdtimes.com/sd-times-news-digest-quantum-machines-joins-ibm-q-network-next-js-9-2-splice-machine-3-0-now-available/"
+webUrl: "https://sdtimes.com/sd-times-news-digest-quantum-machines-joins-ibm-q-network-next-js-9-2-splice-machine-3-0-now-available/"
 type: article
 quality: 52
 heat: 52

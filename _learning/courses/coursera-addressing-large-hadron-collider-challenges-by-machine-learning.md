@@ -1,7 +1,7 @@
 ---
 title: "Addressing Large Hadron Collider Challenges by Machine Learning"
 excerpt: "Learn Addressing Large Hadron Collider Challenges by Machine Learning from National Research University Higher School of Economics. The Large Hadron Collider (LHC) is the largest data generation machine for the time being. It doesn’t produce the ..."
-sourceUrl: https://www.coursera.org/learn/hadron-collider-machine-learning
+webUrl: https://www.coursera.org/learn/hadron-collider-machine-learning
 type: course
 price: Free+
 length: 19 hours

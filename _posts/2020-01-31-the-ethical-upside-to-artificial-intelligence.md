@@ -3,7 +3,7 @@ category: news
 title: "The Ethical Upside to Artificial Intelligence"
 excerpt: "According to some, artificial intelligence (AI) is the new electricity. Like electricity, AI will transform every major industry and open new opportunities that were never possible. However, unlike electricity, the ethics surrounding the development and use of AI remain controversial, which is a significant element constraining AI’s full ..."
 publishedDateTime: 2020-01-31T05:03:00Z
-sourceUrl: "https://isnblog.ethz.ch/technology/the-ethical-upside-to-artificial-intelligence"
+webUrl: "https://isnblog.ethz.ch/technology/the-ethical-upside-to-artificial-intelligence"
 type: article
 quality: 34
 heat: 34

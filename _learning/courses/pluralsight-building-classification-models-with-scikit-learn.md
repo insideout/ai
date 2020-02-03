@@ -1,7 +1,7 @@
 ---
 title: "Building Classification Models with scikit-learn"
 excerpt: "This course covers several important techniques used to implement classification in scikit-learn, starting with logistic regression, moving on to Discriminant Analysis, Naive Bayes and the use of Decision Trees, and then even more advanced techniques such as Support Vector Classification and Stochastic Gradient Descent Classification."
-sourceUrl: https://www.pluralsight.com/courses/building-classification-models-scikit-learn
+webUrl: https://www.pluralsight.com/courses/building-classification-models-scikit-learn
 type: course
 price: $$
 length: 2h 33m

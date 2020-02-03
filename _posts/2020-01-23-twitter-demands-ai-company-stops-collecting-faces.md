@@ -3,9 +3,9 @@ category: news
 title: "Twitter demands AI company stops 'collecting faces'"
 excerpt: "Twitter has demanded an AI company stop taking images from its website. Clearview has already amassed more than three billion photographs from sites including Facebook and Twitter. They are used by the FBI and Department of Homeland Security and more than 600 other law-enforcement agencies around the world to identify suspects. In a cease-and ..."
 publishedDateTime: 2020-01-23T15:31:00Z
-sourceUrl: "https://www.bbc.com/news/technology-51220654"
-ampUrl: "https://www.bbc.com/news/amp/technology-51220654"
-cdnAmpUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51220654"
+webUrl: "https://www.bbc.com/news/technology-51220654"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-51220654"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51220654"
 type: article
 quality: 87
 heat: 87

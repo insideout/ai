@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence In Medical Imaging Market 2019 Disclosing Latest Trends and Advancement Outlook 2025"
 excerpt: "The Artificial Intelligence In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Medical Imaging Market\"."
 publishedDateTime: 2020-01-20T20:22:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2019-disclosing-latest-trends-and-advancement-outlook-2025-2020-01-20"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2019-disclosing-latest-trends-and-advancement-outlook-2025-2020-01-20"
 type: article
 quality: 48
 heat: 48
@@ -30,7 +30,7 @@ related:
   - title: "Edge Intelligence Market Up-to-Date Analysis of Market Trends and Technological Improvements 2019-2025"
     excerpt: "Mode=69 Top Leading Key Players: Microsoft, Qualcomm, Intel, Google, Alibaba, NVIDIA, Arm, Horizon Robotics, Baidu, Synopsys, Cambricon, MediaTek, Mythic, NXP. Artificial intelligence (AI) processing today is mostly done in a cloud-based data center. The majority of AI processing is dominated by training of deep learning models, which requires ..."
     publishedDateTime: 2020-01-27T11:12:00Z
-    sourceUrl: "https://www.openpr.com/news/1909151/edge-intelligence-market-up-to-date-analysis-of-market-trends"
+    webUrl: "https://www.openpr.com/news/1909151/edge-intelligence-market-up-to-date-analysis-of-market-trends"
     type: article
     provider:
       name: openpr.com

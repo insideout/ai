@@ -3,7 +3,7 @@ category: news
 title: "AI, Ethics and Corporate Behavior"
 excerpt: "Bertrand Bodson, Chief Digital Officer, Novartis; Allen Blue, Vice President of Product Management and cofounder, LinkedIn; Gillian Tans, Chairwoman, Booking.com and Mark Foster, Senior Vice President,"
 publishedDateTime: 2020-01-22T16:26:00Z
-sourceUrl: "https://www.bloomberg.com/news/videos/2020-01-22/ai-ethics-and-corporate-behavior-video"
+webUrl: "https://www.bloomberg.com/news/videos/2020-01-22/ai-ethics-and-corporate-behavior-video"
 type: article
 quality: 64
 heat: 64

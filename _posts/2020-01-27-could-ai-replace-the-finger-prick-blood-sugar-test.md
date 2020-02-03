@@ -3,7 +3,7 @@ category: news
 title: "Could AI replace the finger prick blood sugar test?"
 excerpt: "New research shows that artificial intelligence (AI) could someday replace invasive glucose testing. If the technology works, the switch would be particularly significant for individuals with diabetes. Share on Pinterest A new pilot study investigates whether AI might, one day, replace the finger prick test. Some recent reports in the media ..."
 publishedDateTime: 2020-01-27T09:28:00Z
-sourceUrl: "https://www.medicalnewstoday.com/articles/could-ai-replace-the-finger-prick-glucose-test"
+webUrl: "https://www.medicalnewstoday.com/articles/could-ai-replace-the-finger-prick-glucose-test"
 type: article
 quality: 37
 heat: 37

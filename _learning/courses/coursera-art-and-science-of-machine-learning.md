@@ -1,7 +1,7 @@
 ---
 title: "Art and Science of Machine Learning"
 excerpt: "Learn Art and Science of Machine Learning from Google Cloud. Welcome to the art and science of machine learning. In this data science course you will learn the essential skills of ML intuition, good judgment and experimentation to finely tune and ..."
-sourceUrl: https://www.coursera.org/learn/art-science-ml
+webUrl: https://www.coursera.org/learn/art-science-ml
 type: course
 price: Free+
 length: 8 hours

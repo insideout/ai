@@ -3,7 +3,7 @@ category: news
 title: "Boosting infrared spectroscopy, making complexity a descriptive science, artificial intelligence in medical physics"
 excerpt: "We also discuss some recent examples of how artificial intelligence is being used in medical physics and argue the case for standards defining the graphene content of commercial products."
 publishedDateTime: 2020-01-30T22:41:00Z
-sourceUrl: "https://physicsworld.com/a/boosting-infrared-spectroscopy-making-complexity-a-descriptive-science-artificial-intelligence-in-medical-physics/"
+webUrl: "https://physicsworld.com/a/boosting-infrared-spectroscopy-making-complexity-a-descriptive-science-artificial-intelligence-in-medical-physics/"
 type: article
 quality: 15
 heat: 15

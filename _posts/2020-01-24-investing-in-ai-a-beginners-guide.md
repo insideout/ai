@@ -3,9 +3,9 @@ category: news
 title: "Investing in AI: A Beginner's Guide"
 excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
 publishedDateTime: 2020-01-24T19:00:00Z
-sourceUrl: "https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx"
-ampUrl: "https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx"
-cdnAmpUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx"
+webUrl: "https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx"
 type: article
 quality: 91
 heat: 111
@@ -34,7 +34,7 @@ related:
   - title: "Dialing Into AI in 2020: Why Investing Now is Key"
     excerpt: "Autonomous vehicles, robot performed surgeries, even understanding human sentiment is not far ... AI in the Palm of Your Hand Apple’s $200 million acquisition of Xnor.ai, a Seattle startup specializing in low-power, edge-based artificial intelligence tools, is the most recent of many investments across the industry to indicate AI will ..."
     publishedDateTime: 2020-01-22T09:46:00Z
-    sourceUrl: "https://www.geekwire.com/sponsor-post/dialing-ai-2020-investing-now-key/"
+    webUrl: "https://www.geekwire.com/sponsor-post/dialing-ai-2020-investing-now-key/"
     type: article
     provider:
       name: GeekWire
@@ -47,9 +47,9 @@ related:
   - title: "How to invest in artificial intelligence"
     excerpt: "The next big thing is artificial intelligence, or AI, professional stock pickers say ... “AI applications can be found in virtually every industry today, from marketing to health care to finance,” Xiaomin Mou, IFC’s senior investment officer, wrote in a report. It's paving the road to driverless cars, making decisions such as what ..."
     publishedDateTime: 2020-01-27T11:11:00Z
-    sourceUrl: "https://www.usatoday.com/story/money/2020/01/27/artificial-intelligence-how-invest/4542467002/"
-    ampUrl: "https://amp.usatoday.com/amp/4542467002"
-    cdnAmpUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4542467002"
+    webUrl: "https://www.usatoday.com/story/money/2020/01/27/artificial-intelligence-how-invest/4542467002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4542467002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4542467002"
     type: article
     provider:
       name: USA Today

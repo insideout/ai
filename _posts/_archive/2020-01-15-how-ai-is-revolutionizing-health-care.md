@@ -3,9 +3,9 @@ category: news
 title: "How AI Is Revolutionizing Health Care"
 excerpt: "Being a relatively new technology in health care, AI still has a long way to go, but the progress is impressive."
 publishedDateTime: 2020-01-15T19:45:00Z
-sourceUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/"
-ampUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/"
+webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/"
 type: article
 quality: 89
 heat: 129
@@ -33,7 +33,7 @@ related:
   - title: "Blog: How artificial intelligence is altering the landscape of liability for the healthcare industry"
     excerpt: "The Post events team works alongside the brand's editorial staff and industry advisors to produce content around key issues affecting the insurance industry. Don't miss out - follow our events."
     publishedDateTime: 2020-01-17T06:11:00Z
-    sourceUrl: "https://www.postonline.co.uk/technology/4569101/blog-how-artificial-intelligence-is-altering-the-landscape-of-liability-for-the-healthcare-industry"
+    webUrl: "https://www.postonline.co.uk/technology/4569101/blog-how-artificial-intelligence-is-altering-the-landscape-of-liability-for-the-healthcare-industry"
     type: article
     provider:
       name: Insurance Post
@@ -46,7 +46,7 @@ related:
   - title: "Powering the Next Revolution: Artificial Intelligence"
     excerpt: "Smart Cities around the globe are relying on an ever expanding deployment of IoT devices coupled with forthcoming 5G wireless infrastructure and edge computing to bring new levels of management, coordination, service and information to their citizenry. The complexity of the systems used to bring IoT, 5G, and edge computing together will be ..."
     publishedDateTime: 2020-01-21T14:32:00Z
-    sourceUrl: "https://www.computerworld.com/resources/197081/powering-the-next-revolution-artificial-intelligence"
+    webUrl: "https://www.computerworld.com/resources/197081/powering-the-next-revolution-artificial-intelligence"
     type: article
     provider:
       name: Computerworld
@@ -59,7 +59,7 @@ related:
   - title: "Experts: Preventive Health Care Is Key To Long Life"
     excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti Malhotra ..."
     publishedDateTime: 2020-01-21T00:25:00Z
-    sourceUrl: "https://www.worldhealth.net/news/experts-preventive-health-care-key-long-life/"
+    webUrl: "https://www.worldhealth.net/news/experts-preventive-health-care-key-long-life/"
     type: article
     provider:
       name: Worldhealth
@@ -72,7 +72,7 @@ related:
   - title: "Preventive Health Care: Key to Long Life"
     excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing, and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti ..."
     publishedDateTime: 2020-01-21T05:35:00Z
-    sourceUrl: "https://www.medindia.net/news/preventive-health-care-key-to-long-life-192639-1.htm"
+    webUrl: "https://www.medindia.net/news/preventive-health-care-key-to-long-life-192639-1.htm"
     type: article
     provider:
       name: Medindia

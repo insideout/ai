@@ -3,9 +3,9 @@ category: news
 title: "Facebook Aims To Improve Safety, AvePoint Helping Orgs Get Off Slack and More News"
 excerpt: "We don’t know how bad the problem really is, as access to Facebook data for research has been heavily criticized by academics,” The announcement is not surprising after the Cambridge Analytica fallout, but Facebook’s AI team still seem to need humans to spot and help train better tools. “This all feels like a work-in-progress ..."
 publishedDateTime: 2020-01-21T13:38:00Z
-sourceUrl: "https://www.cmswire.com/digital-workplace/facebook-aims-to-improve-safety-avepoint-helping-orgs-get-off-slack-and-more-news/"
-ampUrl: "https://www.cmswire.com/digital-workplace/facebook-aims-to-improve-safety-avepoint-helping-orgs-get-off-slack-and-more-news/amp/"
-cdnAmpUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/facebook-aims-to-improve-safety-avepoint-helping-orgs-get-off-slack-and-more-news/amp/"
+webUrl: "https://www.cmswire.com/digital-workplace/facebook-aims-to-improve-safety-avepoint-helping-orgs-get-off-slack-and-more-news/"
+ampWebUrl: "https://www.cmswire.com/digital-workplace/facebook-aims-to-improve-safety-avepoint-helping-orgs-get-off-slack-and-more-news/amp/"
+cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/facebook-aims-to-improve-safety-avepoint-helping-orgs-get-off-slack-and-more-news/amp/"
 type: article
 quality: 53
 heat: 53

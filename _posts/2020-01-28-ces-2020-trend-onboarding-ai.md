@@ -3,9 +3,9 @@ category: news
 title: "CES 2020 Trend: Onboarding AI"
 excerpt: "Given that AI, and in particular its large subset, machine learning, will be joining your company soon, if it hasn't already, successfully onboarding AI will be critical to many firms. CES 2020 featured lots of smartwashed products: \"smart\" coffeemakers ..."
 publishedDateTime: 2020-01-28T14:00:00Z
-sourceUrl: "https://www.zdnet.com/article/ces-2020-trend-onboarding-ai/"
-ampUrl: "https://www.zdnet.com/google-amp/article/ces-2020-trend-onboarding-ai/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-trend-onboarding-ai/"
+webUrl: "https://www.zdnet.com/article/ces-2020-trend-onboarding-ai/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ces-2020-trend-onboarding-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-trend-onboarding-ai/"
 type: article
 quality: 69
 heat: 69

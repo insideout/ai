@@ -1,7 +1,7 @@
 ---
 title: "The Machine Learning Cheatsheet"
 excerpt: "A simple, concise, 5 page document about the most common machine learning algorithms, focusing on how they work."
-sourceUrl: https://remicnrd.github.io/the-machine-learning-cheatsheet/
+webUrl: https://remicnrd.github.io/the-machine-learning-cheatsheet/
 type: article
 price: 
 length: 

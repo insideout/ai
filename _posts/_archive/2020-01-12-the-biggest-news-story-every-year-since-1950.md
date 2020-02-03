@@ -3,9 +3,9 @@ category: news
 title: "The Biggest News Story Every Year Since 1950"
 excerpt: "Artificial intelligence and machine learning notch ... autonomous-car development company Waymo, and X, the company’s research and development division. In order to get Yugoslav forces out ..."
 publishedDateTime: 2020-01-12T17:01:00Z
-sourceUrl: "https://247wallst.com/special-report/2020/01/12/the-biggest-news-story-every-year-since-1950/7/"
-ampUrl: "https://247wallst.com/special-report/2020/01/12/the-biggest-news-story-every-year-since-1950/amp/"
-cdnAmpUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/special-report/2020/01/12/the-biggest-news-story-every-year-since-1950/amp/"
+webUrl: "https://247wallst.com/special-report/2020/01/12/the-biggest-news-story-every-year-since-1950/7/"
+ampWebUrl: "https://247wallst.com/special-report/2020/01/12/the-biggest-news-story-every-year-since-1950/amp/"
+cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/special-report/2020/01/12/the-biggest-news-story-every-year-since-1950/amp/"
 type: article
 quality: 44
 heat: 44

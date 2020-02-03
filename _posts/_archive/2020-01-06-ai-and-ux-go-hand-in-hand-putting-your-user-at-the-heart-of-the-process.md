@@ -3,7 +3,7 @@ category: news
 title: "AI and UX go hand-in-hand: putting your user at the heart of the process"
 excerpt: "Evaluate any risks. Human bias, for example, can be replicated and even amplified by AI. UX designers are primed for this sort of work. Framework – consider what software or frameworks you’ll use. You’ll want to ensure compatibility and support. We use Azure and AWS. Gap analysis – conduct an audit and gap analysis of data and existing ..."
 publishedDateTime: 2020-01-06T10:03:00Z
-sourceUrl: https://www.thedrum.com/opinion/2020/01/06/ai-and-ux-go-hand-hand-putting-your-user-the-heart-the-process
+webUrl: https://www.thedrum.com/opinion/2020/01/06/ai-and-ux-go-hand-hand-putting-your-user-the-heart-the-process
 type: article
 quality: 38
 heat: 38

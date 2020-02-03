@@ -3,9 +3,9 @@ category: news
 title: "Dubai Executive Council endorses Smart Dubai Department’s 'Ethical AI Guidelines’"
 excerpt: "Setting clear guidelines and principles on the ethical use of AI will prevent a fragmented approach to ethics,\" Dr Aisha added. Younus Al Nasser, Assistant Director-General of Smart Dubai Department and CEO of Smart Dubai Data, said, \"As more of our everyday tasks get automated, more AI-powered breakthroughs and services are in the pipeline."
 publishedDateTime: 2020-02-02T14:17:00Z
-sourceUrl: "https://www.zawya.com/uae/en/legal/story/Dubai_Executive_Council_endorses_Smart_Dubai_Departments_Ethical_AI_Guidelines-WAM20200202133037220/"
-ampUrl: "https://www.zawya.com/uae/en/story/amp/WAM20200202133037220/"
-cdnAmpUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/WAM20200202133037220/"
+webUrl: "https://www.zawya.com/uae/en/legal/story/Dubai_Executive_Council_endorses_Smart_Dubai_Departments_Ethical_AI_Guidelines-WAM20200202133037220/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/WAM20200202133037220/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/WAM20200202133037220/"
 type: article
 quality: 69
 heat: 69

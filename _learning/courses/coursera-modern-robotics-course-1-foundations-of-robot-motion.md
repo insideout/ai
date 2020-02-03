@@ -1,7 +1,7 @@
 ---
 title: "Modern Robotics, Course 1:  Foundations of Robot Motion"
 excerpt: "Learn Modern Robotics, Course 1:  Foundations of Robot Motion from Northwestern University. Do you want to know how robots work?  Are you interested in robotics as a career?  Are you willing to invest the effort to learn fundamental mathematical ..."
-sourceUrl: https://www.coursera.org/learn/modernrobotics-course1
+webUrl: https://www.coursera.org/learn/modernrobotics-course1
 type: course
 price: Free+
 length: 21 hours

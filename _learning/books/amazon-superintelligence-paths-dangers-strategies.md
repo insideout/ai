@@ -1,7 +1,7 @@
 ---
 title: "Superintelligence: Paths, Dangers, Strategies"
 excerpt: "Superintelligence asks the questions: What happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life."
-sourceUrl: https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/
+webUrl: https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/
 type: book
 price: $9.99
 length: 

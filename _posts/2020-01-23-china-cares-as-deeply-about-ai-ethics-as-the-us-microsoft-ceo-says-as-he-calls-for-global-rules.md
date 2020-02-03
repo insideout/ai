@@ -3,9 +3,9 @@ category: news
 title: "China cares as deeply about A.I. ethics as the US, Microsoft CEO says, as he calls for global rules"
 excerpt: "Microsoft CEO Satya Nadella said he believes \"China cares as deeply about AI ethics as the United States.\" Nadella called for global rules around the use of AI such as facial recognition. Nadella's comments come as the U.S. increases its scrutiny of Chinese AI firms, putting some of the country's major firms on a blacklist. China cares \"as ..."
 publishedDateTime: 2020-01-23T12:35:00Z
-sourceUrl: "https://www.cnbc.com/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html"
-ampUrl: "https://www.cnbc.com/amp/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html"
-cdnAmpUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html"
+webUrl: "https://www.cnbc.com/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html"
 type: article
 quality: 77
 heat: 77

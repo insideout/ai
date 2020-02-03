@@ -3,9 +3,9 @@ category: news
 title: "Prepare Your Business to Implement Artificial Intelligence [Infographic]"
 excerpt: "Getting ahead of the competition is much easier with the help of artificial intelligence (AI). 60% of business leaders desperately need a method for AI use; however, only half of their organizations actually have a plan set. It’s 2020- new year, new enterprise needs. The most important thing to do is just get started. Waiting to do so can ..."
 publishedDateTime: 2020-01-24T22:02:00Z
-sourceUrl: "https://www.business2community.com/infographics/prepare-your-business-to-implement-artificial-intelligence-infographic-02278373"
-ampUrl: "https://www.business2community.com/infographics/prepare-your-business-to-implement-artificial-intelligence-infographic-02278373/amp"
-cdnAmpUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/infographics/prepare-your-business-to-implement-artificial-intelligence-infographic-02278373/amp"
+webUrl: "https://www.business2community.com/infographics/prepare-your-business-to-implement-artificial-intelligence-infographic-02278373"
+ampWebUrl: "https://www.business2community.com/infographics/prepare-your-business-to-implement-artificial-intelligence-infographic-02278373/amp"
+cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/infographics/prepare-your-business-to-implement-artificial-intelligence-infographic-02278373/amp"
 type: article
 quality: 36
 heat: 36

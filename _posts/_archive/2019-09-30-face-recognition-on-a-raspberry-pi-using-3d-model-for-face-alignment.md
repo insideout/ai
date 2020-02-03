@@ -3,7 +3,7 @@ category: news
 title: "Face recognition on a Raspberry Pi using 3D model for face alignment"
 excerpt: "Many face detectors exist in the literature each having its advantages and disadvantages. Here we used the “Viola & Jones ... recognition task easier. For example we could use a 2D alignment ..."
 publishedDateTime: 2019-09-30T17:26:00Z
-sourceUrl: https://medium.com/@appstud/face-recognition-on-a-raspberry-pi-using-3d-model-for-face-alignment-4bdc38d50dd1
+webUrl: https://medium.com/@appstud/face-recognition-on-a-raspberry-pi-using-3d-model-for-face-alignment-4bdc38d50dd1
 type: article
 quality: 152
 heat: 152

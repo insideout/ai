@@ -3,9 +3,9 @@ category: news
 title: "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience"
 excerpt: "Under the terms of its deal with AWS, the Bundesliga will make use during the 2019-20 season and beyond of artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile ..."
 publishedDateTime: 2020-01-14T07:16:00Z
-sourceUrl: "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.html"
-ampUrl: "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html"
-cdnAmpUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html"
+webUrl: "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.html"
+ampWebUrl: "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html"
+cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html"
 type: article
 quality: 59
 heat: 69
@@ -29,7 +29,7 @@ related:
   - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
     excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Germany's Bundesliga has selected AWS as its official technology provider to deliver more in-depth ..."
     publishedDateTime: 2020-01-13T13:06:00Z
-    sourceUrl: "https://www.bakersfield.com/ap/news/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing/article_8772bcaf-e7a1-5653-b835-412d3267b044.html"
+    webUrl: "https://www.bakersfield.com/ap/news/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing/article_8772bcaf-e7a1-5653-b835-412d3267b044.html"
     type: article
     provider:
       name: The Bakersfield Californian

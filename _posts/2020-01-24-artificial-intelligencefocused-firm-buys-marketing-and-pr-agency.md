@@ -3,7 +3,7 @@ category: news
 title: "Artificial intelligence–focused firm buys marketing and PR agency"
 excerpt: "\"We have been watching Vectra since they came on the marketing landscape in 2017. Being able to combine our expertise and the artificial intelligence technology that Vectra brings is going to result in efficiencies and value that will knock it out of the park.\" Vectra Digital was named to the GrowFL Top 50 Florida Companies to Watch list in 2019."
 publishedDateTime: 2020-01-24T21:02:00Z
-sourceUrl: "https://www.businessobserverfl.com/article/artificial-intelligence-focused-firm-buys-marketing-and-pr-agency"
+webUrl: "https://www.businessobserverfl.com/article/artificial-intelligence-focused-firm-buys-marketing-and-pr-agency"
 type: article
 quality: 37
 heat: 37
@@ -26,7 +26,7 @@ related:
   - title: "Artificial intelligence-focused firm buys marketing and PR agency"
     excerpt: "\"We have been watching Vectra since they came on the marketing landscape in 2017. Being able to combine our expertise and the artificial intelligence technology that Vectra brings is going to result in efficiencies and value that will knock it out of the park.\" Vectra Digital was named to the GrowFL Top 50 Florida Companies to Watch list in 2019."
     publishedDateTime: 2020-01-27T18:52:00Z
-    sourceUrl: "https://www.businessobserverfl.com/article/artificial-intelligence-focused-firm-buys-marketing-and-pr-agency"
+    webUrl: "https://www.businessobserverfl.com/article/artificial-intelligence-focused-firm-buys-marketing-and-pr-agency"
     type: article
     provider:
       name: Business Observer

@@ -3,7 +3,7 @@ category: news
 title: "Not Just Voice: The Natural Language Revolution"
 excerpt: "What’s really at the heart of the movement changing customer interactions is Natural Language Processing (NLP). Considered a kind of AI, it includes, yes, the speech recognition that enables a voice assistant to respond to a talking human, but only if it understands the use of the words that it hears. Being able to interact in a natural way ..."
 publishedDateTime: 2020-01-07T11:06:00Z
-sourceUrl: "https://www.dmnews.com/marketing-channels/article/21108689/not-just-voice-the-natural-language-revolution"
+webUrl: "https://www.dmnews.com/marketing-channels/article/21108689/not-just-voice-the-natural-language-revolution"
 type: article
 quality: 24
 heat: 24

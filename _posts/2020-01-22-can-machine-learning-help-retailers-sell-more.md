@@ -3,7 +3,7 @@ category: news
 title: "Can machine learning help retailers sell more?"
 excerpt: "That’s where machine learning and augmented analytics comes into its own by offering retailers the ability to unite a huge variety of data, providing a full overview of activities and sales performance. Retailers save considerable time by automating data ingestion, melding sources such as live sales data, customer demographics, partners ..."
 publishedDateTime: 2020-01-22T16:05:00Z
-sourceUrl: "https://internetretailing.net/strategy-and-innovation/can-machine-learning-help-retailers-sell-more"
+webUrl: "https://internetretailing.net/strategy-and-innovation/can-machine-learning-help-retailers-sell-more"
 type: article
 quality: 34
 heat: 34

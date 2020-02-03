@@ -3,7 +3,7 @@ category: news
 title: "As Killer Robots Loom, Demands Grow to Keep Humans in Control of Use of Force"
 excerpt: "These countries are investing heavily in military applications of artificial intelligence (AI) with the goal of gaining a technological advantage ... They call efforts to regulate killer robots “premature” and reject concerns that such weapons will threaten the right to life and principles of human dignity, or that they would fail to ..."
 publishedDateTime: 2020-01-15T23:21:00Z
-sourceUrl: "https://www.hrw.org/world-report/2020/country-chapters/killer-robots-loom-in-2020"
+webUrl: "https://www.hrw.org/world-report/2020/country-chapters/killer-robots-loom-in-2020"
 type: article
 quality: 36
 heat: 36

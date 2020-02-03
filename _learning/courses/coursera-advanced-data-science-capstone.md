@@ -1,7 +1,7 @@
 ---
 title: "Advanced Data Science Capstone"
 excerpt: "Learn Advanced Data Science Capstone from IBM. This project completer has proven a deep understanding on massive parallel data processing, data exploration and visualization, advanced machine learning and deep learning and how to apply his ..."
-sourceUrl: https://www.coursera.org/learn/advanced-data-science-capstone
+webUrl: https://www.coursera.org/learn/advanced-data-science-capstone
 type: course
 price: Free+
 length: 10 hours

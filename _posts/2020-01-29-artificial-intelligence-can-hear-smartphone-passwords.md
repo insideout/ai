@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence can hear smartphone passwords"
 excerpt: "Researchers at Japanese Shizuoka University said that Artificial Intelligence could potentially be used to ‘hear’ smartphone passwords. They found that the sounds of a finger tapping on a screen is enough for AI to correctly guess the numbers entered."
 publishedDateTime: 2020-01-29T09:08:00Z
-sourceUrl: "https://www.gulf-times.com/story/654524/Artificial-Intelligence-can-hear-smartphone-passwo"
+webUrl: "https://www.gulf-times.com/story/654524/Artificial-Intelligence-can-hear-smartphone-passwo"
 type: article
 quality: 37
 heat: 37

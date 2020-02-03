@@ -3,9 +3,9 @@ category: news
 title: "Digital twins for personalized medicine - a critical assessment"
 excerpt: "Simulation models, a capacity for large-scale data and computing, especially edge computing, cloud computing and artificial intelligence are all necessary elements ... The ethical implications for therapy or preventative care are extreme. This is my summary of the promise of Digital Twins for humans: to go beyond gathering and analyzing ..."
 publishedDateTime: 2020-01-22T23:11:00Z
-sourceUrl: "https://diginomica.com/digital-twins-personalized-medicine-critical-assessment"
-ampUrl: "https://diginomica.com/digital-twins-personalized-medicine-critical-assessment?amp"
-cdnAmpUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/digital-twins-personalized-medicine-critical-assessment?amp"
+webUrl: "https://diginomica.com/digital-twins-personalized-medicine-critical-assessment"
+ampWebUrl: "https://diginomica.com/digital-twins-personalized-medicine-critical-assessment?amp"
+cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/digital-twins-personalized-medicine-critical-assessment?amp"
 type: article
 quality: 44
 heat: 44

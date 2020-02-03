@@ -3,7 +3,7 @@ category: news
 title: "This EV company is using AI and 3D printing to add lightness"
 excerpt: "On Tuesday, Arcimoto and XponentialWorks announced they've been working together on a project that should make future FUVs even more efficient, thanks to lightweight suspension parts created using AI generative design and 3D printing. \"Our mission to rightsize the footprint of daily mobility means a continued commitment to optimizing not just ..."
 publishedDateTime: 2020-01-21T14:00:00Z
-sourceUrl: "https://arstechnica.com/cars/2020/01/this-ev-company-is-using-ai-and-3d-printing-to-add-lightness/"
+webUrl: "https://arstechnica.com/cars/2020/01/this-ev-company-is-using-ai-and-3d-printing-to-add-lightness/"
 type: article
 quality: 47
 heat: 47

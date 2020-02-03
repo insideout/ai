@@ -3,9 +3,9 @@ category: news
 title: "Proprio Appoints Robotics and Computer Vision Pioneer Dr. Takeo Kanade to Advisory Board"
 excerpt: "One of the world's foremost researchers in computer vision and robotics, Dr. Kanade is the U.A. and Helen Whitaker Professor of Computer Science and Robotics at Carnegie Mellon University ..."
 publishedDateTime: 2020-01-09T12:00:00Z
-sourceUrl: "https://www.benzinga.com/pressreleases/20/01/n15099962/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade-to-advisory-board"
-ampUrl: "https://amp.benzinga.com/amp/content/15099962"
-cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15099962"
+webUrl: "https://www.benzinga.com/pressreleases/20/01/n15099962/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade-to-advisory-board"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15099962"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15099962"
 type: article
 quality: 30
 heat: 30

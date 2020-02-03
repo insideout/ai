@@ -1,7 +1,7 @@
 ---
 title: "Multiple View Geometry in Computer Vision"
 excerpt: "A basic problem in computer vision is to understand the structure of a real world scene. This book covers relevant geometric principles and how to represent objects algebraically so they can be computed and applied. Recent major developments in the theory and practice of scene reconstruction are described in detail in a unified framework. Richard Hartley and Andrew Zisserman provide comprehensive background material and explain how to apply the methods and implement the algorithms. "
-sourceUrl: https://www.amazon.com/Multiple-View-Geometry-Computer-Vision/dp/0521540518/
+webUrl: https://www.amazon.com/Multiple-View-Geometry-Computer-Vision/dp/0521540518/
 type: book
 price: $92.19
 length: 

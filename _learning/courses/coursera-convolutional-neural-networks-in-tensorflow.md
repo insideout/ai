@@ -1,7 +1,7 @@
 ---
 title: "Convolutional Neural Networks in TensorFlow"
 excerpt: "Learn Convolutional Neural Networks in TensorFlow from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This course is part of the ..."
-sourceUrl: https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
+webUrl: https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
 type: course
 price: Free+
 length: 7 hours

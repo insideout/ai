@@ -3,7 +3,7 @@ category: news
 title: "Machine learning can identify newly diagnosed patients with CLL at high risk of infection"
 excerpt: "CLL-TIM is an ensemble algorithm composed of 28 machine learning algorithms based on data from 4,149 patients with CLL. The model is capable of dealing with heterogeneous data, including the high rates of missing data to be expected in the real-world setting, with a precision of 72% and a recall of 75%. To address concerns regarding the use of ..."
 publishedDateTime: 2020-01-17T12:34:00Z
-sourceUrl: "https://www.nature.com/articles/s41467-019-14225-8?error=cookies_not_supported&code=7c4d235d-f663-4d39-835b-b0ff16612b19"
+webUrl: "https://www.nature.com/articles/s41467-019-14225-8?error=cookies_not_supported&code=7c4d235d-f663-4d39-835b-b0ff16612b19"
 type: article
 quality: 30
 heat: 30

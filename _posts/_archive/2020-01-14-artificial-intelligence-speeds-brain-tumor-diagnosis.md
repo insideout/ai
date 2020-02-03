@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence Speeds Brain Tumor Diagnosis"
 excerpt: "Caption: Artificial intelligence speeds diagnosis of brain tumors ... In this case, they used a special class of machine learning called deep neural networks, or deep learning. It’s inspired by the way neural networks in the human brain process information. In deep learning, computers look for patterns in large collections of data."
 publishedDateTime: 2020-01-14T14:07:00Z
-sourceUrl: "https://directorsblog.nih.gov/2020/01/14/artificial-intelligence-speeds-brain-tumor-diagnosis/"
+webUrl: "https://directorsblog.nih.gov/2020/01/14/artificial-intelligence-speeds-brain-tumor-diagnosis/"
 type: article
 quality: 54
 heat: 54

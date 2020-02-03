@@ -3,7 +3,7 @@ category: news
 title: "Philips intros 805/855 OLED TV range with AI-driven picture processing"
 excerpt: "It's also compatible with Amazon Alexa, too. The latest tech to be incorporated on the chip is improved AI functionality - most big TV makers are now using AI to improve picture quality and upscaling and as with others this is aided by a database of existing content to compare footage to. As well as the new OLED range, will also be a new ..."
 publishedDateTime: 2020-01-21T16:27:00Z
-sourceUrl: "https://www.pocket-lint.com/tv/news/philips/150819-philips-intros-805-855-oled-tv-range-with-new-picture-processing-engine"
+webUrl: "https://www.pocket-lint.com/tv/news/philips/150819-philips-intros-805-855-oled-tv-range-with-new-picture-processing-engine"
 type: article
 quality: 19
 heat: 19

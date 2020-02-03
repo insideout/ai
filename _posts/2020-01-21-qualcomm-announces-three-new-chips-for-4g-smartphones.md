@@ -3,9 +3,9 @@ category: news
 title: "Qualcomm announces three new chips for 4G smartphones"
 excerpt: "Expect it to see in higher-end smartphones, with features like on-device AI operations, and high-resolution displays of up to 2520 x 1080. The chip includes the X15 LTE modem, with support for ..."
 publishedDateTime: 2020-01-21T02:22:00Z
-sourceUrl: "https://pocketnow.com/qualcomm-announces-three-new-chips-for-4g-smartphones"
-ampUrl: "https://pocketnow.com/qualcomm-announces-three-new-chips-for-4g-smartphones/amp"
-cdnAmpUrl: "https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/qualcomm-announces-three-new-chips-for-4g-smartphones/amp"
+webUrl: "https://pocketnow.com/qualcomm-announces-three-new-chips-for-4g-smartphones"
+ampWebUrl: "https://pocketnow.com/qualcomm-announces-three-new-chips-for-4g-smartphones/amp"
+cdnAmpWebUrl: "https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/qualcomm-announces-three-new-chips-for-4g-smartphones/amp"
 type: article
 quality: 59
 heat: 59

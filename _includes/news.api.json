@@ -23,12 +23,12 @@
             "type": {{ post.type | jsonify }},
             "heat": {{ post.heat }},
             "api": "{{ post.url | absolute_url }}",
-            "sourceUrl": "{{ post.sourceUrl | absolute_url }}",
+            "webUrl": "{{ post.webUrl | absolute_url }}",
             {% if post.ampUrl -%}
-            "ampUrl": "{{ post.ampUrl | absolute_url }}",
+            "ampWebUrl": "{{ post.ampWebUrl | absolute_url }}",
             {% endif -%}
             {% if post.cdnAmpUrl -%}
-            "cdnAmpUrl": "{{ post.cdnAmpUrl | default: "" | absolute_url }}",
+            "cdnAmpWebUrl": "{{ post.cdnAmpWebUrl | default: "" | absolute_url }}",
             {% endif -%}
             "excerpt": {{ post.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
             "publishedDateTime": {{ post.publishedDateTime | jsonify }},

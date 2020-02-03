@@ -3,7 +3,7 @@ category: news
 title: "AI-analyzed blood test can predict the progression of neurodegenerative disease"
 excerpt: "A new study shows artificial intelligence (AI) analysis of blood samples can predict and explain disease progression, which could one day help doctors choose more appropriate and effective treatments for patients. Evaluating the effectiveness of therapies for neurodegenerative diseases is often difficult because each patient's progression is ..."
 publishedDateTime: 2020-01-31T01:10:00Z
-sourceUrl: "https://www.sciencedaily.com/releases/2020/01/200128080919.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/01/200128080919.htm"
 type: article
 quality: 43
 heat: -1
@@ -24,9 +24,9 @@ related:
   - title: "IBM uses AI to predict progress of Huntington's disease symptoms"
     excerpt: "It could help with patient care and, hopefully, treatment. IBM is using its AI-based health prediction skills to help tackle the challenge of Huntington's disease. The tech firm has teamed up with CHDI Foundation on an artificial intelligence model that can predict when patients will experience Huntington's symptoms and, crucially, determine ..."
     publishedDateTime: 2020-01-27T17:17:00Z
-    sourceUrl: "https://www.engadget.com/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/"
-    ampUrl: "https://www.engadget.com/amp/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/"
-    cdnAmpUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/"
+    webUrl: "https://www.engadget.com/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/"
     type: article
     provider:
       name: Engadget
@@ -39,9 +39,9 @@ related:
   - title: "Using AI and natural language processing to predict disease outbreaks earlier"
     excerpt: "One of the main areas of focus in such research is spotting possible outbreaks sooner. A new startup in Canada called BlueDot has applied AI and natural language processing to the problem and was one of the first to spot the outbreak of the Wuhan virus in China. The viral outbreak in China, known in the press as the coronavirus, was first ..."
     publishedDateTime: 2020-01-27T14:57:00Z
-    sourceUrl: "https://medicalxpress.com/news/2020-01-ai-natural-language-disease-outbreaks.html"
-    ampUrl: "https://medicalxpress.com/news/2020-01-ai-natural-language-disease-outbreaks.amp"
-    cdnAmpUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-natural-language-disease-outbreaks.amp"
+    webUrl: "https://medicalxpress.com/news/2020-01-ai-natural-language-disease-outbreaks.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-natural-language-disease-outbreaks.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-natural-language-disease-outbreaks.amp"
     type: article
     provider:
       name: Medical Xpress
@@ -50,9 +50,9 @@ related:
   - title: "New AI tool predicts disease progression and evolution in neurodegenerative disorders"
     excerpt: "Researchers at the Montreal Neurological Institute, Canada have found that testing blood using an artificial intelligence (AI) algorithm successfully predicted disease progression in neurodegenerative disorders, as well as identifying underlying molecular pathways that were predictive of disease evolution. The findings have important ..."
     publishedDateTime: 2020-01-28T14:45:00Z
-    sourceUrl: "https://www.news-medical.net/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx"
-    ampUrl: "https://www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx"
-    cdnAmpUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx"
+    webUrl: "https://www.news-medical.net/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx"
     type: article
     provider:
       name: News Medical
@@ -65,7 +65,7 @@ related:
   - title: "IBM study: AI could eventually predict Huntington's disease onset from one MRI"
     excerpt: "An artificial intelligence-based method of mapping the brain shows promise in addressing the wide variability in onset and advancement of Huntington's disease symptoms, a new IBM Research study suggests. The study was published in the journal Scientific Reports and conducted by researchers from IBM's T.J. Watson Research Center in Yorktown ..."
     publishedDateTime: 2020-01-28T14:08:00Z
-    sourceUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ibm-study-ai-could-eventually-predict-huntington-s-disease-onset-from-one-mri.html"
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ibm-study-ai-could-eventually-predict-huntington-s-disease-onset-from-one-mri.html"
     type: article
     provider:
       name: Becker's Hospital Review

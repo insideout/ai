@@ -3,9 +3,9 @@ category: news
 title: "The hunt for security flaws in self-driving cars steps up a gear"
 excerpt: "Last week, seven projects in the UK dedicated to developing tools that will improve cybersecurity in self-driving vehicles received a grand total of £1.2 million ($1.56 million), or about £171,500 ($222,847) each, to boost their research – a sum partly funded by the government's Centre for Connected and Autonomous Vehicles (CCAV)."
 publishedDateTime: 2020-01-29T11:43:00Z
-sourceUrl: "https://www.zdnet.com/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
-ampUrl: "https://www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
+webUrl: "https://www.zdnet.com/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
 type: article
 quality: 74
 heat: 94
@@ -33,9 +33,9 @@ related:
   - title: "£1.2m awarded to progress self-driving vehicle cyber security projects"
     excerpt: "Seven projects have received Government funding to support the development of connected and self-driving vehicle cyber security testing capabilities. Organisations from around the country are involved in the projects, including Honda Europe, University of Warwick, University of Bristol, IBM and the Millbrook and HORIBA MIRA testing grounds."
     publishedDateTime: 2020-01-29T16:26:00Z
-    sourceUrl: "https://www.fleetnews.co.uk/smart-transport/news/12m-awarded-to-progress-self-driving-vehicle-cyber-security-projects"
-    ampUrl: "https://www.fleetnews.co.uk/amp/smart-transport/news/12m-awarded-to-progress-self-driving-vehicle-cyber-security-projects"
-    cdnAmpUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/smart-transport/news/12m-awarded-to-progress-self-driving-vehicle-cyber-security-projects"
+    webUrl: "https://www.fleetnews.co.uk/smart-transport/news/12m-awarded-to-progress-self-driving-vehicle-cyber-security-projects"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/smart-transport/news/12m-awarded-to-progress-self-driving-vehicle-cyber-security-projects"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/smart-transport/news/12m-awarded-to-progress-self-driving-vehicle-cyber-security-projects"
     type: article
     provider:
       name: Fleet News
@@ -48,9 +48,9 @@ related:
   - title: "This self-driving car has no steering wheel or pedals"
     excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
     publishedDateTime: 2020-01-31T14:41:00Z
-    sourceUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.html"
-    ampUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
-    cdnAmpUrl: "https://www-mdjonline-com.cdn.ampproject.org/c/s/www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
+    webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.html"
+    ampWebUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
+    cdnAmpWebUrl: "https://www-mdjonline-com.cdn.ampproject.org/c/s/www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
     type: article
     provider:
       name: Marietta Daily Journal

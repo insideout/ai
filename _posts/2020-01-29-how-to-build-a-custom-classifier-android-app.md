@@ -3,7 +3,7 @@ category: news
 title: "How to Build a Custom Classifier Android App"
 excerpt: "This post will guide you through the process of building a classifier app for Android devices using Google’s Flutter and the AutoML Vision Edge service. “Flutter is Google’s UI toolkit for ..."
 publishedDateTime: 2020-01-29T23:52:00Z
-sourceUrl: "https://medium.com/better-programming/how-to-build-a-custom-classifier-android-app-452b68a89150"
+webUrl: "https://medium.com/better-programming/how-to-build-a-custom-classifier-android-app-452b68a89150"
 type: article
 quality: 54
 heat: 54

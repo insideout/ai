@@ -3,7 +3,7 @@ category: news
 title: "Introducing Spokestack—a First-of-its-Kind Service Enabling Custom Voice Assistants on Mobile Apps"
 excerpt: "Automatic Speech Recognition (ASR) and Voice Activity Detection (VAD) Easily add ASR and VAD to your app with one of our open source libraries. Spokestack ASR and VAD allow you to turn user utterances into text, which is the first step to responding to a user. Custom Wakeword Use your brand name or any keyword of your choice to put your app ..."
 publishedDateTime: 2020-01-13T23:55:00Z
-sourceUrl: "https://www.businesswire.com/news/home/20200113005954/en/Introducing-Spokestack—a-First-of-its-Kind-Service-Enabling-Custom-Voice"
+webUrl: "https://www.businesswire.com/news/home/20200113005954/en/Introducing-Spokestack—a-First-of-its-Kind-Service-Enabling-Custom-Voice"
 type: article
 quality: 10
 heat: 10

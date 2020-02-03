@@ -3,7 +3,7 @@ category: news
 title: "The first CFO of hot AI startup ThoughtSpot says an IPO is definitely part of their plan: 'This team wants the discipline of a public company'"
 excerpt: "ThoughtSpot's first CFO Mohit Daswani told Business Insider that the hot AI startup definitely plans to go public."
 publishedDateTime: 2020-01-23T17:38:00Z
-sourceUrl: "https://www.businessinsider.com/thoughtspot-first-cfo-ipo-plan-startup-2020-1"
+webUrl: "https://www.businessinsider.com/thoughtspot-first-cfo-ipo-plan-startup-2020-1"
 type: article
 quality: 31
 heat: 31

@@ -3,9 +3,9 @@ category: news
 title: "Commentary: Online dating has enough problems without adding fake AI-generated people"
 excerpt: "The dating sites hope this will enable them to project more diversity, while the AI startups are counting on dating sites to help normalize their disconcerting technology. Having AI-generated people lure us to dating sites might sound like one further slide into sci-fi dystopia. But it’s not that different from what’s already going on."
 publishedDateTime: 2020-01-20T14:03:00Z
-sourceUrl: "https://www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/"
-ampUrl: "https://www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/?amp=1"
-cdnAmpUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/?amp=1"
+webUrl: "https://www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/"
+ampWebUrl: "https://www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/?amp=1"
 type: article
 quality: 30
 heat: 30

@@ -1,7 +1,7 @@
 ---
 title: "The Driver in the Driverless Car: How Your Technology Choices Create the Future"
 excerpt: "Tech experts Vivek Wadhwa and Alex Salkever describe dozens of astonishing technological advances in this fascinating and thought-provoking book, which asks what kind of future lies ahead—Star Trek or Mad Max?"
-sourceUrl: https://www.amazon.com/Driver-Driverless-Car-Technology-Choices-ebook/dp/B07PM8QWP9/
+webUrl: https://www.amazon.com/Driver-Driverless-Car-Technology-Choices-ebook/dp/B07PM8QWP9/
 type: book
 price: $11.99
 length: 

@@ -3,9 +3,9 @@ category: news
 title: "Dewo uses AI to minimize digital distractions"
 excerpt: "A productivity-tracking tool that taps AI to create up-to-the-minute time sheets on employees’ behalves, Timely quickly found success, racking up thousands of paying customers across over 160 countries and attracting the attention of investors like Concentric, Investinor, 500 Startups, and SNÖ Ventures. (Memory raised $5 million in an ..."
 publishedDateTime: 2020-01-16T12:00:00Z
-sourceUrl: "https://venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/"
-ampUrl: "https://venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/amp/"
+webUrl: "https://venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/"
+ampWebUrl: "https://venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/amp/"
 type: article
 quality: 87
 heat: 87

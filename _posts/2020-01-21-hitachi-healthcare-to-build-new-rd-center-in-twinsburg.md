@@ -3,7 +3,7 @@ category: news
 title: "Hitachi Healthcare to build new R&D center in Twinsburg"
 excerpt: "The center will open sometime later this year, Hitachi added. The facility, which will be named the Hitachi Healthcare Innovation Center of Excellence, \"will leverage advancements in artificial intelligence and machine learning to bring about a new generation of imaging technology,\" the company said in announcing its plans. Hitachi Healthcare ..."
 publishedDateTime: 2020-01-21T15:55:00Z
-sourceUrl: "https://www.crainscleveland.com/health-care/hitachi-healthcare-build-new-rd-center-twinsburg"
+webUrl: "https://www.crainscleveland.com/health-care/hitachi-healthcare-build-new-rd-center-twinsburg"
 type: article
 quality: 39
 heat: 39

@@ -3,7 +3,7 @@ category: news
 title: "Google’s DeepMind Bests Lip-Reading Expert"
 excerpt: "But they really need to start. Google’s DeepMind, which is currently one of the world’s most advanced machine learning systems, has just racked up another incredible win, this time against ..."
 publishedDateTime: 2020-01-29T00:00:00Z
-sourceUrl: "https://www.geek.com/tech/googles-deepmind-bests-lip-reading-expert-1680877/"
+webUrl: "https://www.geek.com/tech/googles-deepmind-bests-lip-reading-expert-1680877/"
 type: article
 quality: 69
 heat: 69

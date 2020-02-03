@@ -3,7 +3,7 @@ category: news
 title: "AI in Fintech Market - Big Changes to Have Big Impact"
 excerpt: "Advance Market Analytics recently introduced AI in Fintech Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. AI in Fintech Market explores effective study on varied sections of Industry like opportunities,"
 publishedDateTime: 2020-01-16T10:49:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market---big-changes-to-have-big-impact-2020-01-16"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market---big-changes-to-have-big-impact-2020-01-16"
 type: article
 quality: 69
 heat: 79
@@ -31,7 +31,7 @@ related:
   - title: "Artificial Intelligence in Fashion Market to 2027…"
     excerpt: "research analysts, and key opinion leaders specializing in the artificial intelligence in fashion market. Some of the players present in artificial intelligence in fashion market are Adobe Inc., Amazon Web Services, Inc., Catchoom Technologies S.L., Facebook, Inc., Google LLC, Huawei Technologies Co., Ltd., IBM Corporation, Microsoft ..."
     publishedDateTime: 2020-01-20T07:06:00Z
-    sourceUrl: "https://www.pharmiweb.com/press-release/2020-01-20/artificial-intelligence-in-fashion-market-to-2027-europe-market-to-capitalize-on-rising-demand-fro"
+    webUrl: "https://www.pharmiweb.com/press-release/2020-01-20/artificial-intelligence-in-fashion-market-to-2027-europe-market-to-capitalize-on-rising-demand-fro"
     type: article
     provider:
       name: PharmiWeb

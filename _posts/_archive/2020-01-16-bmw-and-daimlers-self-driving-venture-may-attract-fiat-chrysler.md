@@ -3,7 +3,7 @@ category: news
 title: "BMW and Daimler's self-driving venture may attract Fiat Chrysler"
 excerpt: "BMW and Daimler's self-driving car venture may attract more partners, with Fiat Chrysler Automobiles NV a front-runner to get on board at a time when the German automakers are working to select suppliers by the end of the year. While many car-component makers are hesitant to put large sums toward the development of highly automated driving due ..."
 publishedDateTime: 2020-01-16T20:52:00Z
-sourceUrl: "https://www.stuff.co.nz/motoring/news/118793147/bmw-and-daimlers-selfdriving-venture-may-attract-fiat-chrysler"
+webUrl: "https://www.stuff.co.nz/motoring/news/118793147/bmw-and-daimlers-selfdriving-venture-may-attract-fiat-chrysler"
 type: article
 quality: 39
 heat: 39

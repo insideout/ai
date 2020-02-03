@@ -3,9 +3,9 @@ category: news
 title: "For people who stutter, the convenience of voice assistant technology remains out of reach"
 excerpt: "And in 2019, the company announced a research project called Project Euphonia, whose goal is to eventually create a recognition model that can understand people with speech disabilities across all ..."
 publishedDateTime: 2020-01-06T14:05:00Z
-sourceUrl: "https://www.usatoday.com/story/tech/2020/01/06/voice-assistants-remain-out-reach-people-who-stutter/2749115001/"
-ampUrl: "https://amp.usatoday.com/amp/2749115001"
-cdnAmpUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2749115001"
+webUrl: "https://www.usatoday.com/story/tech/2020/01/06/voice-assistants-remain-out-reach-people-who-stutter/2749115001/"
+ampWebUrl: "https://amp.usatoday.com/amp/2749115001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2749115001"
 type: article
 quality: 49
 heat: 49

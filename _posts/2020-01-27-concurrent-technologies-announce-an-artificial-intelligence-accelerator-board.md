@@ -3,7 +3,7 @@ category: news
 title: "Concurrent Technologies announce an Artificial Intelligence Accelerator Board"
 excerpt: "TR AEx/3sd-RCx is focussed around Inference at the Edge applications such as real-time object recognition and behaviour monitoring. It has been designed to work in parallel with Concurrent Technologies processor boards likeTR H4x/3sd-RCx and TR J4x/6sd-RCx that are in alignment with a proposed SOSA™ Technical Standard. The application of ..."
 publishedDateTime: 2020-01-27T15:04:00Z
-sourceUrl: "https://www.eejournal.com/industry_news/concurrent-technologies-announce-an-artificial-intelligence-accelerator-board/"
+webUrl: "https://www.eejournal.com/industry_news/concurrent-technologies-announce-an-artificial-intelligence-accelerator-board/"
 type: article
 quality: 36
 heat: 36
@@ -27,7 +27,7 @@ related:
   - title: "Noble.AI Bolsters Commitment to Accelerating the Advent of Science-Based AI by Announcing Scientific Advisory Board"
     excerpt: "SAN FRANCISCO, Jan. 30, 2020 /PRNewswire/ -- Noble.AI, whose artificial intelligence (AI) software enables engineers, scientists, and researchers to innovate and make discoveries faster, today announced the creation of a Scientific Advisory Board."
     publishedDateTime: 2020-01-30T19:23:00Z
-    sourceUrl: "https://www.prnewswire.com/news-releases/nobleai-bolsters-commitment-to-accelerating-the-advent-of-science-based-ai-by-announcing-scientific-advisory-board-300996496.html"
+    webUrl: "https://www.prnewswire.com/news-releases/nobleai-bolsters-commitment-to-accelerating-the-advent-of-science-based-ai-by-announcing-scientific-advisory-board-300996496.html"
     type: article
     provider:
       name: PR Newswire

@@ -3,7 +3,7 @@ category: news
 title: "House Intelligence Committee chairman praised Facebook policy on deepfakes"
 excerpt: "Bickert said Facebook’s “approach has several components, from investigating AI-generated content and deceptive behaviors ... which has spurred people from all over the world to produce more research and open source tools to detect deepfakes.”"
 publishedDateTime: 2020-01-16T00:38:00Z
-sourceUrl: "https://www.biometricupdate.com/202001/house-intelligence-committee-chairman-praised-facebook-policy-on-deepfakes"
+webUrl: "https://www.biometricupdate.com/202001/house-intelligence-committee-chairman-praised-facebook-policy-on-deepfakes"
 type: article
 quality: 37
 heat: 37

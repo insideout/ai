@@ -3,9 +3,9 @@ category: news
 title: "Launch your product at Transform 2020 — The AI event for enterprise decision makers"
 excerpt: "VentureBeat’s Tech Showcase is back at Transform 2020: Accelerating your business with AI, July 15-16 in San Francisco. We’re on the lookout for disruptive AI companies of all sizes that are ready to present their tech on the main stage. Those selected to present will do so in front of hundreds of industry decision makers. Every presenter ..."
 publishedDateTime: 2020-01-28T23:50:00Z
-sourceUrl: "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/"
-ampUrl: "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/"
+webUrl: "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/"
+ampWebUrl: "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/"
 type: article
 quality: 81
 heat: 81

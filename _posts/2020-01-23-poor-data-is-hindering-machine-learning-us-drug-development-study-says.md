@@ -3,7 +3,7 @@ category: news
 title: "Poor data is hindering machine learning, US drug development, study says"
 excerpt: "A lack of proper data is hurting the use of machine learning to develop drugs, which could put U.S. drugmakers at a competitive disadvantage compared to other countries, according to a report from the U.S. Government Accountability Office and the National Academy of Medicine. Machine learning is a type of artificial intelligence that involves ..."
 publishedDateTime: 2020-01-23T19:08:00Z
-sourceUrl: "https://www.beckershospitalreview.com/pharmacy/poor-data-is-hindering-machine-learning-us-drug-development-study-says.html"
+webUrl: "https://www.beckershospitalreview.com/pharmacy/poor-data-is-hindering-machine-learning-us-drug-development-study-says.html"
 type: article
 quality: 38
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "Data challenges hinder machine learning in drug development"
     excerpt: "While machine learning has the potential to identify new treatments, reduce failure rates in clinical trials and improve drug development, a lack of high-quality data is hindering the use of the technology. That’s among the findings of a new report ..."
     publishedDateTime: 2020-01-22T05:25:00Z
-    sourceUrl: "https://www.healthdatamanagement.com/news/data-challenges-hinder-machine-learning-in-drug-development"
+    webUrl: "https://www.healthdatamanagement.com/news/data-challenges-hinder-machine-learning-in-drug-development"
     type: article
     provider:
       name: Health Data Management
@@ -40,7 +40,7 @@ related:
   - title: "Machine Learning in Drug Development Requires Data Access, Standards"
     excerpt: "January 22, 2020 - Machine learning algorithms have the potential to accelerate and refine the drug development process, but the industry should expand data access and create consistent data standards to ensure drug companies can fully leverage these tools, according to a report from the Government Accountability Office (GAO). Drug companies ..."
     publishedDateTime: 2020-01-22T16:15:00Z
-    sourceUrl: "https://healthitanalytics.com/news/machine-learning-in-drug-development-requires-data-access-standards"
+    webUrl: "https://healthitanalytics.com/news/machine-learning-in-drug-development-requires-data-access-standards"
     type: article
     provider:
       name: Analytics

@@ -1,7 +1,7 @@
 ---
 title: "Feature Engineering"
 excerpt: "Learn Feature Engineering from Google Cloud. Want to know how you can improve the accuracy of your machine learning models? What about how to find which data columns make the most useful features? Welcome to Feature Engineering on Google Cloud ..."
-sourceUrl: https://www.coursera.org/learn/feature-engineering
+webUrl: https://www.coursera.org/learn/feature-engineering
 type: course
 price: Free+
 length: 11 hours

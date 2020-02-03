@@ -1,7 +1,7 @@
 ---
 title: "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services"
 excerpt: "Learn how to use the Speaker Recognition APIs to identify specific people through their voices."
-sourceUrl: https://docs.microsoft.com/en-us/learn/modules/recognize-voices-with-speaker-recognition/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/recognize-voices-with-speaker-recognition/
 type: course
 price: Free
 length: 0:52

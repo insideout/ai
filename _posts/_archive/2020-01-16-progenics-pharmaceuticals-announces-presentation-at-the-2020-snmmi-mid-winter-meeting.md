@@ -3,7 +3,7 @@ category: news
 title: "Progenics Pharmaceuticals Announces Presentation at the 2020 SNMMI Mid-Winter Meeting"
 excerpt: "Progenics Pharmaceuticals, Inc. PGNX, +0.74%, an oncology company developing innovative targeted medicines and artificial intelligence to find, fight and follow cancer, today announced that an abstract highlighting data from its PSMA AI program has been selected for a moderated poster presentation at the 2020 Society for Nuclear and Molecular Medicine (SNMMI) Mid-Winter Meeting,"
 publishedDateTime: 2020-01-16T13:10:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/progenics-pharmaceuticals-announces-presentation-at-the-2020-snmmi-mid-winter-meeting-2020-01-16"
+webUrl: "https://www.marketwatch.com/press-release/progenics-pharmaceuticals-announces-presentation-at-the-2020-snmmi-mid-winter-meeting-2020-01-16"
 type: article
 quality: 47
 heat: 47
@@ -31,7 +31,7 @@ related:
   - title: "Progenics Pharmaceuticals Provides Update on Reconstituted Board's Ongoing Strategic Review"
     excerpt: "NEW YORK, Jan. 21, 2020 (GLOBE NEWSWIRE) -- The Board of Directors of Progenics Pharmaceuticals, Inc. PGNX, -1.07%, an oncology company developing innovative targeted medicines and artificial intelligence to find,"
     publishedDateTime: 2020-01-21T20:16:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/progenics-pharmaceuticals-provides-update-on-reconstituted-boards-ongoing-strategic-review-2020-01-21-161841639"
+    webUrl: "https://www.marketwatch.com/press-release/progenics-pharmaceuticals-provides-update-on-reconstituted-boards-ongoing-strategic-review-2020-01-21-161841639"
     type: article
     provider:
       name: MarketWatch

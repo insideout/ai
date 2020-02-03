@@ -3,7 +3,7 @@ category: news
 title: "AtScale speeds up data accessibility with new release"
 excerpt: "AtScale’s platform serves as an abstraction layer for Hadoop clusters and other back-end data stores such as Snowflake, Google BigQuery, Amazon Redshift and Microsoft Azure SQL Data Warehouse ... The Adaptive Cache creates summary tables, and machine learning algorithms generate “smart aggregations” that anticipate future queries based ..."
 publishedDateTime: 2020-01-16T02:11:00Z
-sourceUrl: "https://siliconangle.com/2020/01/15/atscale-speeds-data-accessibility-new-release/"
+webUrl: "https://siliconangle.com/2020/01/15/atscale-speeds-data-accessibility-new-release/"
 type: article
 quality: 24
 heat: 24

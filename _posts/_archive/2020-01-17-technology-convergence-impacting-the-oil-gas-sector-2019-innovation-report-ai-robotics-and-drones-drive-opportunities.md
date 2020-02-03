@@ -3,7 +3,7 @@ category: news
 title: "Technology Convergence Impacting the Oil & Gas Sector, 2019 Innovation Report - AI, Robotics, and Drones Drive Opportunities"
 excerpt: "Technology convergence in oil and gas sector has witnessed adoption of several technologies such as artificial intelligence (AI), robotic process automation, Big Data analytics, advanced sensor technologies, autonomous robots and drones, which can enable effective inspection of oil rig sites, corrosion and leaks monitoring, enable predictive ..."
 publishedDateTime: 2020-01-17T20:33:00Z
-sourceUrl: "https://www.oilandgas360.com/technology-convergence-impacting-the-oil-gas-sector-2019-innovation-report-ai-robotics-and-drones-drive-opportunities/"
+webUrl: "https://www.oilandgas360.com/technology-convergence-impacting-the-oil-gas-sector-2019-innovation-report-ai-robotics-and-drones-drive-opportunities/"
 type: article
 quality: 42
 heat: 42
@@ -27,7 +27,7 @@ related:
   - title: "Global Smart Robots Market 2020-2024| Evolving Opportunities with ABB Ltd. and Amazon.com Inc.| Technavio"
     excerpt: "As a result, companies are increasingly adopting smart robots, such as collaborative robots and professional robots, which are equipped with advanced technologies, such as artificial intelligence (AI), machine learning (ML), and analytics. Collaboative robots can perform tasks such as order pick and place, packaging and palletizing, machine ..."
     publishedDateTime: 2020-01-18T01:22:00Z
-    sourceUrl: "https://www.tmcnet.com/usubmit/-global-smart-robots-market-2020-2024-evolving-opportunities-/2020/01/17/9083484.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-global-smart-robots-market-2020-2024-evolving-opportunities-/2020/01/17/9083484.htm"
     type: article
     provider:
       name: TMCnet

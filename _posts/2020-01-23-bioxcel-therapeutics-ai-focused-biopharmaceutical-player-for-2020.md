@@ -3,7 +3,7 @@ category: news
 title: "BioXcel Therapeutics: AI-Focused Biopharmaceutical Player For 2020"
 excerpt: "The parent company deployed algorithms, data analytics, big data, and artificial intelligence to support the clinical development of over 200 ... BioXcel Therapeutics' BXCL701 (talabostat) is a small-molecule therapy that works to activate the body's innate immune system. This mechanism of action can help improve response rates for immunotherapies."
 publishedDateTime: 2020-01-23T19:42:00Z
-sourceUrl: "https://seekingalpha.com/article/4318673-bioxcel-therapeutics-ai-focused-biopharmaceutical-player-for-2020"
+webUrl: "https://seekingalpha.com/article/4318673-bioxcel-therapeutics-ai-focused-biopharmaceutical-player-for-2020"
 type: article
 quality: 39
 heat: 39

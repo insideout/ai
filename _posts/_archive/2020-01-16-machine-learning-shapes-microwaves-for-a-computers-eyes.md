@@ -3,7 +3,7 @@ category: news
 title: "Machine learning shapes microwaves for a computer’s eyes"
 excerpt: "The machine-learning approach cuts out the middleman, skipping the step of creating an image for analysis by a human and instead analyzes the pure data directly. It also jointly determines optimal hardware settings that reveal the most important data while simultaneously discovering what the most important data actually is. In a proof-of ..."
 publishedDateTime: 2020-01-16T00:33:00Z
-sourceUrl: "https://www.controleng.com/articles/machine-learning-shapes-microwaves-for-a-computers-eyes/"
+webUrl: "https://www.controleng.com/articles/machine-learning-shapes-microwaves-for-a-computers-eyes/"
 type: article
 quality: 39
 heat: 39

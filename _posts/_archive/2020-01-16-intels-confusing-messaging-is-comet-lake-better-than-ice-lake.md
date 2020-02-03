@@ -3,7 +3,7 @@ category: news
 title: "Intel’s Confusing Messaging: Is Comet Lake Better Than Ice Lake?"
 excerpt: "With Intel now putting AVX-512 in its consumer processors, along with a stronger GPU and things like the Gaussian Neural Accelerator, actually identifying what uses these accelerators is quite hard, as there is no official list. Intel took the time to give us a number of examples. In this case, we’re seeing AI enhancements in the Adobe suite ..."
 publishedDateTime: 2020-01-16T13:00:00Z
-sourceUrl: "https://www.anandtech.com/show/15385/intels-confusing-messaging-is-comet-lake-better-than-ice-lake"
+webUrl: "https://www.anandtech.com/show/15385/intels-confusing-messaging-is-comet-lake-better-than-ice-lake"
 type: article
 quality: 4
 heat: 4

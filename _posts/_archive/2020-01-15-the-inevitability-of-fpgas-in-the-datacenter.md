@@ -3,9 +3,9 @@ category: news
 title: "The Inevitability Of FPGAs In The Datacenter"
 excerpt: "This, in a nutshell, is what the Vitis machine learning stack, which sits underneath the Caffe and TensorFlow machine learning frameworks and has libraries for running straight AI models or for adding FPGA-boosted AI oomph to workloads such as video ..."
 publishedDateTime: 2020-01-15T14:16:00Z
-sourceUrl: "https://www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/"
-ampUrl: "https://www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/amp/"
-cdnAmpUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/amp/"
+webUrl: "https://www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/"
+ampWebUrl: "https://www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/amp/"
+cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/amp/"
 type: article
 quality: 44
 heat: 44

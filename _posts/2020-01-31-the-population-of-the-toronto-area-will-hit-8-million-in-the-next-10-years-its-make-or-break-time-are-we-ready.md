@@ -3,9 +3,9 @@ category: news
 title: "The population of the Toronto area will hit 8 million in the next 10 years. It’s make or break time — are we ready?"
 excerpt: "And again after that. This time around, Toronto’s growth spurt is projected to unfold into an era of electric vehicles, artificial intelligence, advanced robotics and driverless everything. It promises to be a transformative decade, perhaps the most consequential 10 years the city has ever known. From transit to climate to housing to ..."
 publishedDateTime: 2020-01-31T10:13:00Z
-sourceUrl: "https://www.thestar.com/news/gta/2020/01/31/the-population-of-the-toronto-area-will-hit-8-million-in-the-next-10-years-its-make-or-break-time-are-we-ready.html"
-ampUrl: "https://www.thestar.com/amp/news/gta/2020/01/31/the-population-of-the-toronto-area-will-hit-8-million-in-the-next-10-years-its-make-or-break-time-are-we-ready.html"
-cdnAmpUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/01/31/the-population-of-the-toronto-area-will-hit-8-million-in-the-next-10-years-its-make-or-break-time-are-we-ready.html"
+webUrl: "https://www.thestar.com/news/gta/2020/01/31/the-population-of-the-toronto-area-will-hit-8-million-in-the-next-10-years-its-make-or-break-time-are-we-ready.html"
+ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/01/31/the-population-of-the-toronto-area-will-hit-8-million-in-the-next-10-years-its-make-or-break-time-are-we-ready.html"
+cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/01/31/the-population-of-the-toronto-area-will-hit-8-million-in-the-next-10-years-its-make-or-break-time-are-we-ready.html"
 type: article
 quality: 22
 heat: 22

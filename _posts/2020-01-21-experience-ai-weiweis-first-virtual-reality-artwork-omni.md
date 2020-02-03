@@ -3,9 +3,9 @@ category: news
 title: "Experience Ai Weiwei's first virtual reality artwork, Omni"
 excerpt: "Using the frontiers of technology to tell one of the most urgent stories of our time, Omni immerses you in a jungle full of lost elephants and a refugee camp in Bangladesh"
 publishedDateTime: 2020-01-21T13:30:00Z
-sourceUrl: "https://www.theguardian.com/artanddesign/2020/jan/21/experience-ai-weiwei-first-virtual-reality-artwork-omni"
-ampUrl: "https://amp.theguardian.com/artanddesign/2020/jan/21/experience-ai-weiwei-first-virtual-reality-artwork-omni"
-cdnAmpUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2020/jan/21/experience-ai-weiwei-first-virtual-reality-artwork-omni"
+webUrl: "https://www.theguardian.com/artanddesign/2020/jan/21/experience-ai-weiwei-first-virtual-reality-artwork-omni"
+ampWebUrl: "https://amp.theguardian.com/artanddesign/2020/jan/21/experience-ai-weiwei-first-virtual-reality-artwork-omni"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2020/jan/21/experience-ai-weiwei-first-virtual-reality-artwork-omni"
 type: article
 quality: 37
 heat: 37

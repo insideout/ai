@@ -3,9 +3,9 @@ category: news
 title: "Honor launches 9X with pop-up selfie camera, GPU Turbo 3.0 for gaming enthusiasts"
 excerpt: "A range of AI-powered photography features including handheld detection, light detection and video stabilisation are among the other features. Honor aims to target gaming enthusiasts with the 9X’s GPU Turbo 3.0 technology that can ..."
 publishedDateTime: 2020-01-14T17:57:00Z
-sourceUrl: "https://www.thehindubusinessline.com/info-tech/mobiles-tablets/honorlaunches-9x-with-pop-upselfiecameragpu-turbo-30-for-gaming-enthusiasts/article30567914.ece"
-ampUrl: "https://www.thehindubusinessline.com/info-tech/mobiles-tablets/honorlaunches-9x-with-pop-upselfiecameragpu-turbo-30-for-gaming-enthusiasts/article30567914.ece/amp/"
-cdnAmpUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/mobiles-tablets/honorlaunches-9x-with-pop-upselfiecameragpu-turbo-30-for-gaming-enthusiasts/article30567914.ece/amp/"
+webUrl: "https://www.thehindubusinessline.com/info-tech/mobiles-tablets/honorlaunches-9x-with-pop-upselfiecameragpu-turbo-30-for-gaming-enthusiasts/article30567914.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/info-tech/mobiles-tablets/honorlaunches-9x-with-pop-upselfiecameragpu-turbo-30-for-gaming-enthusiasts/article30567914.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/mobiles-tablets/honorlaunches-9x-with-pop-upselfiecameragpu-turbo-30-for-gaming-enthusiasts/article30567914.ece/amp/"
 type: article
 quality: 54
 heat: 54

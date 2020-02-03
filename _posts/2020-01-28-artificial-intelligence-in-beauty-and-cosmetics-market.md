@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence in Beauty and Cosmetics Market"
 excerpt: "Then allow the person to test and try on virtually everything from blushes and contouring to eyeshadows and winged eyeliner. Artificial intelligence apps can define skin-shades and brow shape that would work best for your face shape. Artificial Intelligence in Beauty and Cosmetics Market The Research Corporation report focuses Market Size ..."
 publishedDateTime: 2020-01-28T10:30:00Z
-sourceUrl: "https://www.openpr.com/news/1910717/why-artificial-intelligence-in-beauty-and-cosmetics-market-will"
+webUrl: "https://www.openpr.com/news/1910717/why-artificial-intelligence-in-beauty-and-cosmetics-market-will"
 type: article
 quality: 17
 heat: 17

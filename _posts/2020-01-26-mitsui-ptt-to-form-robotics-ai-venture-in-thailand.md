@@ -3,7 +3,7 @@ category: news
 title: "Mitsui, PTT to form robotics, AI venture in Thailand"
 excerpt: "Major Japanese trading house Mitsui & Co has teamed up with Thai state-backed oil firm PTT Public Co to launch a joint venture for artificial intelligence and robotics technologies in line with the Thai government's initiative to promote an innovation-based economy. Mitsui's Thai arm, Mitsui & Co (Thailand), and PTT will establish an equally ..."
 publishedDateTime: 2020-01-26T21:46:00Z
-sourceUrl: "https://japantoday.com/category/tech/mitsui-ptt-to-form-robotics-ai-venture-in-thailand-1"
+webUrl: "https://japantoday.com/category/tech/mitsui-ptt-to-form-robotics-ai-venture-in-thailand-1"
 type: article
 quality: 49
 heat: 49

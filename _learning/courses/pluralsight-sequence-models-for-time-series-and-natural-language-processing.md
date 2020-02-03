@@ -1,7 +1,7 @@
 ---
 title: "Sequence Models for Time Series and Natural Language Processing"
 excerpt: "In this course, we’ll learn how to make predictions on sequences of data. "
-sourceUrl: https://www.pluralsight.com/courses/sequence-models-time-series-natural-language-processing
+webUrl: https://www.pluralsight.com/courses/sequence-models-time-series-natural-language-processing
 type: course
 price: $$
 length: 4h 31m

@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning for All"
 excerpt: "Learn Machine Learning for All from University of London. Machine Learning, often called Artificial Intelligence or AI, is one of the most exciting areas of technology at the moment. We see daily news stories that herald new breakthroughs in ..."
-sourceUrl: https://www.coursera.org/learn/uol-machine-learning-for-all
+webUrl: https://www.coursera.org/learn/uol-machine-learning-for-all
 type: course
 price: Free+
 length: 13 hours

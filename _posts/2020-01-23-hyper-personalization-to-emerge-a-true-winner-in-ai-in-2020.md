@@ -3,9 +3,9 @@ category: news
 title: "Hyper-personalization to emerge a true winner in AI in 2020"
 excerpt: "The biggest wave we witnessed was the advent of artificial intelligence and machine learning. NLP & Conversational AI In the early 2010s, consumer natural language processing (NLP) allowed us to talk to our phones and control smart-home appliances reliably. Many people expected NLP to explode in other domains, but it never really materialized ..."
 publishedDateTime: 2020-01-23T03:30:00Z
-sourceUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/hyper-personalization-to-emerge-a-true-winner-in-ai-in-2020/73538914"
-ampUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/hyper-personalization-to-emerge-a-true-winner-in-ai-in-2020/73538914"
-cdnAmpUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/hyper-personalization-to-emerge-a-true-winner-in-ai-in-2020/73538914"
+webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/hyper-personalization-to-emerge-a-true-winner-in-ai-in-2020/73538914"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/hyper-personalization-to-emerge-a-true-winner-in-ai-in-2020/73538914"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/hyper-personalization-to-emerge-a-true-winner-in-ai-in-2020/73538914"
 type: article
 quality: 39
 heat: 39

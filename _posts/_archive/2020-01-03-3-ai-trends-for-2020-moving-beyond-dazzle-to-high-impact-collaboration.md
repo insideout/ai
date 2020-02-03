@@ -3,7 +3,7 @@ category: news
 title: "3 AI Trends for 2020: Moving Beyond Dazzle to High-Impact Collaboration"
 excerpt: "From the first artificial skin to driverless cars that navigate busy streets with ease, 2019 brought a dazzling array of artificial intelligence (AI) discovery. In 2020, the progress made toward AI-fueled collaboration will be as critical as AI innovation—especially in healthcare. This is a companion discussion topic for the original entry at ..."
 publishedDateTime: 2020-01-03T16:16:00Z
-sourceUrl: https://businesscomputingworld.co.uk/t/3-ai-trends-for-2020-moving-beyond-dazzle-to-high-impact-collaboration/220775
+webUrl: https://businesscomputingworld.co.uk/t/3-ai-trends-for-2020-moving-beyond-dazzle-to-high-impact-collaboration/220775
 type: article
 quality: 39
 heat: 39

@@ -3,7 +3,7 @@ category: news
 title: "Intelligent robot system at the TU Bergakademie Freiberg improves drinking water control in inland waters"
 excerpt: "The swimming robot of TU Freiberg, equipped with sensors, is supposed to drive completely autonomously on the water thanks to artificial intelligence and continuously measure various environmental parameters. In this way, the water quality of reservoirs and dams can be checked in real time at any time. Inland waters are of outstanding ..."
 publishedDateTime: 2020-01-29T08:26:00Z
-sourceUrl: "https://idw-online.de/de/news730643"
+webUrl: "https://idw-online.de/de/news730643"
 type: article
 quality: 22
 heat: 22

@@ -3,7 +3,7 @@ category: news
 title: "Opinion: Advances in AI and satellites can help us meet the SDGs"
 excerpt: "The strengths of AI — including automating routine tasks ... and companies open to sharing data must consider regulatory frameworks, data privacy, and ethics. Maxar shares satellite imagery and information to aid disaster response, including pre-event imagery, post-event imagery, and a crowdsourced damage assessment through its Open Data ..."
 publishedDateTime: 2020-01-16T11:06:00Z
-sourceUrl: "https://www.devex.com/news/sponsored/opinion-advances-in-ai-and-satellites-can-help-us-meet-the-sdgs-96366"
+webUrl: "https://www.devex.com/news/sponsored/opinion-advances-in-ai-and-satellites-can-help-us-meet-the-sdgs-96366"
 type: article
 quality: 39
 heat: 39

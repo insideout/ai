@@ -3,7 +3,7 @@ category: news
 title: "Hayden AI - An Artificial Intelligence Technology Company Providing Smart City Solutions"
 excerpt: "/PRNewswire/ -- Announcing Hayden AI Technologies, Inc. (\"Hayden AI\") – an artificial intelligence technology company and smart city solutions provider."
 publishedDateTime: 2020-01-28T12:55:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/hayden-ai--an-artificial-intelligence-technology-company-providing-smart-city-solutions-300993169.html"
+webUrl: "https://www.prnewswire.com/news-releases/hayden-ai--an-artificial-intelligence-technology-company-providing-smart-city-solutions-300993169.html"
 type: article
 quality: 43
 heat: 43
@@ -26,7 +26,7 @@ related:
   - title: "Hayden AI - An Artificial Intelligence Technology Company Providing Smart City Solutions to Transit Agencies"
     excerpt: "/PRNewswire/ -- Public transport forms the backbone of any urban mobility system, enabling cities to be more dynamic and competitive while creating more"
     publishedDateTime: 2020-01-29T12:55:00Z
-    sourceUrl: "https://www.prnewswire.com/news-releases/hayden-ai--an-artificial-intelligence-technology-company-providing-smart-city-solutions-to-transit-agencies-300993168.html"
+    webUrl: "https://www.prnewswire.com/news-releases/hayden-ai--an-artificial-intelligence-technology-company-providing-smart-city-solutions-to-transit-agencies-300993168.html"
     type: article
     provider:
       name: PR Newswire

@@ -1,7 +1,7 @@
 ---
 title: "Robotics: Perception"
 excerpt: "Learn Robotics: Perception from University of Pennsylvania. How can robots perceive the world and their own movements so that they accomplish navigation and manipulation tasks?  In this module, we will study how images and videos acquired by ..."
-sourceUrl: https://www.coursera.org/learn/robotics-perception
+webUrl: https://www.coursera.org/learn/robotics-perception
 type: course
 price: Free+
 length: 29 hours

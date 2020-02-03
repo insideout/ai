@@ -3,7 +3,7 @@ category: news
 title: "Hyperautomation: A Rule-Based Artificial Intelligence"
 excerpt: "/PRNewswire/ -- Report Includes: - Outlining details of hyperautomation technologies and applications Read the full"
 publishedDateTime: 2020-01-27T15:00:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/hyperautomation-a-rule-based-artificial-intelligence-300993356.html"
+webUrl: "https://www.prnewswire.com/news-releases/hyperautomation-a-rule-based-artificial-intelligence-300993356.html"
 type: article
 quality: 37
 heat: 37

@@ -3,7 +3,7 @@ category: news
 title: "Apple’s latest acquisition is Seattle AI start-up Xnor.ai"
 excerpt: "As the war to build the best smartphone camera rages on, Apple has purchased an AI start-up called Xnor.ai, in a move that has already had an impact on customers who have purchased Wyze cameras. Based in Seattle, Xnor.ai has developed technology that runs deep learning models on edge devices, such as phones IoT devices, cameras, drones and ..."
 publishedDateTime: 2020-01-16T13:29:00Z
-sourceUrl: "https://www.siliconrepublic.com/start-ups/apple-acquires-ai-startup-xnorai-iphone-camera"
+webUrl: "https://www.siliconrepublic.com/start-ups/apple-acquires-ai-startup-xnorai-iphone-camera"
 type: article
 quality: 19
 heat: -1
@@ -21,9 +21,9 @@ related:
   - title: "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is"
     excerpt: "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ..."
     publishedDateTime: 2020-01-16T16:33:00Z
-    sourceUrl: "https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained"
-    ampUrl: "https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained"
-    cdnAmpUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained"
+    webUrl: "https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained"
+    ampWebUrl: "https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained"
     type: article
     provider:
       name: TheStreet.com

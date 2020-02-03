@@ -3,9 +3,9 @@ category: news
 title: "Recruitment startup WorkIndia has redefined blue-collar hiring for Swiggy, Zomato, Ola, and others"
 excerpt: "The startup has even launched its candidate app in eight regional languages to facilitate easier consumption at the job-seeker’s end. It is also employing AI and ML algorithms to analyse user behaviour and display more accurate job listings. WorkIndia operates on a unique pay-per-hire model. As soon as a recruiter creates a post for a job ..."
 publishedDateTime: 2020-01-28T07:51:00Z
-sourceUrl: "https://yourstory.com/2020/01/recruitment-startup-workindia-blue-collar-jobs-swiggy-zomato"
-ampUrl: "https://yourstory.com/2020/01/recruitment-startup-workindia-blue-collar-jobs-swiggy-zomato/amp"
-cdnAmpUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/recruitment-startup-workindia-blue-collar-jobs-swiggy-zomato/amp"
+webUrl: "https://yourstory.com/2020/01/recruitment-startup-workindia-blue-collar-jobs-swiggy-zomato"
+ampWebUrl: "https://yourstory.com/2020/01/recruitment-startup-workindia-blue-collar-jobs-swiggy-zomato/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/recruitment-startup-workindia-blue-collar-jobs-swiggy-zomato/amp"
 type: article
 quality: 28
 heat: -1
@@ -28,9 +28,9 @@ related:
   - title: "How recruitment startup WorkIndia redefined blue-collar hiring for Swiggy, Zomato, Ola, and others"
     excerpt: "The startup has even launched its candidate app in eight regional languages to facilitate easier consumption at the job-seeker’s end. It is also employing AI and ML algorithms to analyse user ..."
     publishedDateTime: 2020-01-28T00:57:00Z
-    sourceUrl: "https://yourstory.com/2020/01/recruitment-startup-workindia-blue-collar-jobs-swiggy-zomato"
-    ampUrl: "https://yourstory.com/2020/01/recruitment-startup-workindia-blue-collar-jobs-swiggy-zomato/amp"
-    cdnAmpUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/recruitment-startup-workindia-blue-collar-jobs-swiggy-zomato/amp"
+    webUrl: "https://yourstory.com/2020/01/recruitment-startup-workindia-blue-collar-jobs-swiggy-zomato"
+    ampWebUrl: "https://yourstory.com/2020/01/recruitment-startup-workindia-blue-collar-jobs-swiggy-zomato/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/recruitment-startup-workindia-blue-collar-jobs-swiggy-zomato/amp"
     type: article
     provider:
       name: Your Story

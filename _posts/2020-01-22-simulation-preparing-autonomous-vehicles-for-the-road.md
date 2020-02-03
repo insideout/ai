@@ -3,9 +3,9 @@ category: news
 title: "Simulation: Preparing Autonomous Vehicles For The Road"
 excerpt: "Google, Apple, Baidu and automakers globally are currently working on their versions of the autonomous vehicle. Right now, the war to be the “first” to complete a fully autonomous vehicle is at full speed."
 publishedDateTime: 2020-01-22T14:36:00Z
-sourceUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/"
-ampUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/amp/"
+webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/amp/"
 type: article
 quality: 74
 heat: 74

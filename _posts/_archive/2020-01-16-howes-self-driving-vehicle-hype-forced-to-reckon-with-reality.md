@@ -3,9 +3,9 @@ category: news
 title: "Howes: Self-driving vehicle hype forced to reckon with reality"
 excerpt: "Howes: Self-driving vehicle hype forced to reckon with reality Next-gen auto industry won’t arrive sooner because its potential is oversold; not to investors or dreamers besotted with a Silicon Valley fairy-tale Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/columnists/daniel-howes/2020/01/16/self ..."
 publishedDateTime: 2020-01-16T04:48:00Z
-sourceUrl: "https://www.detroitnews.com/story/business/columnists/daniel-howes/2020/01/16/self-driving-vehicle-hype-reckoning-reality/4481239002/"
-ampUrl: "https://amp.detroitnews.com/amp/4481239002"
-cdnAmpUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4481239002"
+webUrl: "https://www.detroitnews.com/story/business/columnists/daniel-howes/2020/01/16/self-driving-vehicle-hype-reckoning-reality/4481239002/"
+ampWebUrl: "https://amp.detroitnews.com/amp/4481239002"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4481239002"
 type: article
 quality: 44
 heat: 44
@@ -29,7 +29,7 @@ related:
   - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
     excerpt: "The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo has obtained 120 such ..."
     publishedDateTime: 2020-01-10T05:50:00Z
-    sourceUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
+    webUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
     type: article
     provider:
       name: Steel News
@@ -38,7 +38,7 @@ related:
   - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
     excerpt: "Its foray into safety-autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Tesla and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
     publishedDateTime: 2020-01-09T18:30:00Z
-    sourceUrl: "https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech"
+    webUrl: "https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech"
     type: article
     provider:
       name: Transport Topics

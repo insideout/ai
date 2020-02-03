@@ -3,7 +3,7 @@ category: news
 title: "Using Applied Machine Learning to Predict Healthcare Utilization Based on Socioeconomic Determinants of Care"
 excerpt: "This study demonstrates that it is possible to generate a highly accurate model to predict inpatient and emergency department utilization using data on socioeconomic determinants of care."
 publishedDateTime: 2020-01-17T22:41:00Z
-sourceUrl: "https://www.ajmc.com/journals/issue/2020/2020-vol26-n1/using-applied-machine-learning-to-predict-healthcare-utilization-based-on-socioeconomic-determinants-of-care"
+webUrl: "https://www.ajmc.com/journals/issue/2020/2020-vol26-n1/using-applied-machine-learning-to-predict-healthcare-utilization-based-on-socioeconomic-determinants-of-care"
 type: article
 quality: 20
 heat: 20

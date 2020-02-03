@@ -3,7 +3,7 @@ category: news
 title: "The 10 most important skills you'll need to nail a high-paying job in 2020"
 excerpt: "New skills like learning blockchain, the technology that enables cryptocurrency, and affiliate marketing, made the list for the first time."
 publishedDateTime: 2020-01-16T13:37:00Z
-sourceUrl: "https://www.businessinsider.com/the-most-in-demand-job-skills-linkedin-hiring"
+webUrl: "https://www.businessinsider.com/the-most-in-demand-job-skills-linkedin-hiring"
 type: article
 quality: 67
 heat: 67

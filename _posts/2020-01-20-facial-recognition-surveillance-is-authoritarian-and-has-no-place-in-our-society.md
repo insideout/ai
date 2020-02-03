@@ -3,7 +3,7 @@ category: news
 title: "Facial recognition surveillance is authoritarian and has no place in our society"
 excerpt: "We shouldn’t have to change how we live our lives to protect ourselves from unwarranted surveillance (Photo: Steffi Loos/Getty) The fight to ban the use of facial recognition in public places is gaining momentum. Last week, it emerged the EU is considering halting the use of this authoritarian technology to allow for a proper assessment of ..."
 publishedDateTime: 2020-01-20T16:47:00Z
-sourceUrl: "https://inews.co.uk/opinion/facial-recognition-surveillance-is-authoritarian-and-has-no-place-in-our-society-1370329"
+webUrl: "https://inews.co.uk/opinion/facial-recognition-surveillance-is-authoritarian-and-has-no-place-in-our-society-1370329"
 type: article
 quality: 34
 heat: 34

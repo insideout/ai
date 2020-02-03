@@ -3,7 +3,7 @@ category: news
 title: "Healthcare Cognitive Computing Market Development Analysis 2019- IBM, Google, Microsoft"
 excerpt: "The New report includes a detailed study of Global Healthcare Cognitive Computing Market. It is the result of a comprehensive research carried out keeping in mind the different parameters and trends dominating the global Healthcare Cognitive Computing Market."
 publishedDateTime: 2020-01-15T08:36:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-development-analysis-2019--ibm-google-microsoft-2020-01-15"
+webUrl: "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-development-analysis-2019--ibm-google-microsoft-2020-01-15"
 type: article
 quality: 61
 heat: 81
@@ -31,7 +31,7 @@ related:
   - title: "Latest release: Automotive Artificial Intelligence Market Will Hit Big Revenues In Future | Alphabet, Microsoft Corporation, IBM Corporation"
     excerpt: "Advance Market Analytics released the research report of Global Automotive Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Automotive Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
     publishedDateTime: 2020-01-20T16:33:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/latest-release-automotive-artificial-intelligence-market-will-hit-big-revenues-in-future-alphabet-microsoft-corporation-ibm-corporation-2020-01-20"
+    webUrl: "https://www.marketwatch.com/press-release/latest-release-automotive-artificial-intelligence-market-will-hit-big-revenues-in-future-alphabet-microsoft-corporation-ibm-corporation-2020-01-20"
     type: article
     provider:
       name: MarketWatch
@@ -44,7 +44,7 @@ related:
   - title: "Artificial Intelligence in Education Market Is Booming Worldwide | Google, IBM, Pearson, Microsoft, AWS"
     excerpt: "Global Artificial Intelligence in Education Market research report for easy to understand detailed breakdown of market growth factors, advance technologies, industry drivers, challenges, regulatory policies, with qualitative research of key company profiles and strategies of players such as Amazon Web Services, Blackboard Inc., Blippar ..."
     publishedDateTime: 2020-01-20T15:56:00Z
-    sourceUrl: "https://www.openpr.com/news/1901623/artificial-intelligence-in-education-market-is-booming"
+    webUrl: "https://www.openpr.com/news/1901623/artificial-intelligence-in-education-market-is-booming"
     type: article
     provider:
       name: openpr.com

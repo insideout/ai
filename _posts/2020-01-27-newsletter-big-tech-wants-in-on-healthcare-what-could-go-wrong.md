@@ -3,7 +3,7 @@ category: news
 title: "Newsletter: Big Tech wants in on healthcare. What could go wrong?"
 excerpt: "First, Sundar Pichai, chief executive of Alphabet and its Google subsidiary, said at the World Economic Forum at Davos, Switzerland, that healthcare represents a huge opportunity to improve people’s lives using artificial intelligence — something that, not coincidentally, Google is heavily invested in. “Look at the potential here,” he said."
 publishedDateTime: 2020-01-27T13:24:00Z
-sourceUrl: "https://www.latimes.com/business/story/2020-01-27/newsletter-tech-healthcare"
+webUrl: "https://www.latimes.com/business/story/2020-01-27/newsletter-tech-healthcare"
 type: article
 quality: 39
 heat: 39

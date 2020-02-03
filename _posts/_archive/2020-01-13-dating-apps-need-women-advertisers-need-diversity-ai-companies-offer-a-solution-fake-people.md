@@ -3,9 +3,9 @@ category: news
 title: "Dating apps need women. Advertisers need diversity. AI companies offer a solution: fake people"
 excerpt: "Another company says it’s moving past AI-generated headshots and into the generation of full, fake human bodies as early as this month. The AI software used to create such faces is freely available and improving rapidly, allowing small startups to easily create fakes that are so convincing they can fool the human eye. The systems train on ..."
 publishedDateTime: 2020-01-13T14:31:00Z
-sourceUrl: "https://www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/"
-ampUrl: "https://www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/?amp=1"
-cdnAmpUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/?amp=1"
+webUrl: "https://www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/"
+ampWebUrl: "https://www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/?amp=1"
 type: article
 quality: 25
 heat: -1
@@ -22,9 +22,9 @@ related:
   - title: "Commentary: Online dating has enough problems without adding fake AI-generated people"
     excerpt: "The dating sites hope this will enable them to project more diversity, while the AI startups are counting on dating sites to help normalize their disconcerting technology. Having AI-generated people lure us to dating sites might sound like one further slide into sci-fi dystopia. But it’s not that different from what’s already going on."
     publishedDateTime: 2020-01-20T14:03:00Z
-    sourceUrl: "https://www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/"
-    ampUrl: "https://www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/?amp=1"
-    cdnAmpUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/?amp=1"
+    webUrl: "https://www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/fake-ai-people-wont-fix-online-dating/?amp=1"
     type: article
     provider:
       name: Seattle Times

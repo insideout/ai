@@ -3,7 +3,7 @@ category: news
 title: "AI Helps Spot Dental Fraud"
 excerpt: "Artificial-intelligence startup Pearl is using machine learning to analyze dental imagery, helping insurers pinpoint whether the same X-ray was used for more than one patient and whether a procedure was necessary."
 publishedDateTime: 2020-01-24T12:04:00Z
-sourceUrl: "https://www.wsj.com/articles/ai-helps-spot-dental-fraud-11579861801"
+webUrl: "https://www.wsj.com/articles/ai-helps-spot-dental-fraud-11579861801"
 type: article
 quality: 67
 heat: 67

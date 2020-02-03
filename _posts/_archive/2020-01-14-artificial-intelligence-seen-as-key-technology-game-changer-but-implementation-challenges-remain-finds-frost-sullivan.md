@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence seen as key technology game-changer but implementation challenges remain, finds Frost & Sullivan"
 excerpt: "/PRNewswire/ -- 2020 is shaping up as a watershed year for industries as the next wave of cognitive, automated, and immersive technologies change the way we"
 publishedDateTime: 2020-01-14T09:27:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-seen-as-key-technology-game-changer-but-implementation-challenges-remain-finds-frost--sullivan-300986425.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-seen-as-key-technology-game-changer-but-implementation-challenges-remain-finds-frost--sullivan-300986425.html"
 type: article
 quality: 29
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Frost & Sullivan: Value creation from artificial intelligence remains a priority"
     excerpt: "According to Wong, there is already a pervasive adoption of artificial intelligence across industries such as manufacturing, healthcare, retail, and the public sector. Early success in those industries is likely to further influence the examination of new applications of the technology to enhance competitiveness in today’s digital age."
     publishedDateTime: 2020-01-17T15:21:00Z
-    sourceUrl: "https://techwireasia.com/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/"
-    ampUrl: "https://techwireasia.com/amp/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/"
-    cdnAmpUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/"
+    webUrl: "https://techwireasia.com/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/"
+    ampWebUrl: "https://techwireasia.com/amp/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/"
     type: article
     provider:
       name: techwireasia.com

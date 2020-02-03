@@ -3,7 +3,7 @@ category: news
 title: "AI to help find causes of and reduce labour market gender and ethnic bias"
 excerpt: "Researchers will tackle the problem of gender and ethnic bias in recruitment and human resource management as part of a new £1m project. BIAS - Responsible AI for Labour Market Equality will look at how Artificial Intelligence can lead to unintentional bias in the processes of job advertising, hiring and professional networking, which are ..."
 publishedDateTime: 2020-01-28T15:36:00Z
-sourceUrl: "https://www.eurekalert.org/pub_releases/2020-01/lu-ath012820.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-01/lu-ath012820.php"
 type: article
 quality: 36
 heat: 36

@@ -3,7 +3,7 @@ category: news
 title: "Machine learning and AI in action | TECH(talk)"
 excerpt: "Artificial intelligence and machine learning are being used even more these days. Listen as InfoWorld’s Serdar Yegulalp and IDG TECHtalk hosts Juliet Beauchamp and Ken Mingis discuss how AI and ML are being used and answer viewers’ questions. You can listen to this podcast episode right now using the player at the top of this page."
 publishedDateTime: 2020-01-24T16:45:00Z
-sourceUrl: "https://www.computerworld.com/article/3516010/machine-learning-and-ai-in-action-techtalk.html"
+webUrl: "https://www.computerworld.com/article/3516010/machine-learning-and-ai-in-action-techtalk.html"
 type: article
 quality: 34
 heat: 34

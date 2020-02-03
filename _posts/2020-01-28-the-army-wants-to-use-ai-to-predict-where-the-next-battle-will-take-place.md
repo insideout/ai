@@ -3,9 +3,9 @@ category: news
 title: "The Army Wants To Use AI To Predict Where the Next Battle Will Take Place"
 excerpt: "The U.S. Army planes to use drones and AI to help keep tabs on the enemy. Drones will locate and identify enemy forces, then feed the data to an AI constructing a \"big picture\" of the battlefield. The AI will also interpret data to alert friendly commanders to possible enemy attacks. One of the most difficult of tasks on the modern battlefield ..."
 publishedDateTime: 2020-01-28T19:28:00Z
-sourceUrl: "https://www.popularmechanics.com/military/research/a30680246/ai-army/"
-ampUrl: "https://www.popularmechanics.com/military/research/amp30680246/ai-army/"
-cdnAmpUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/research/amp30680246/ai-army/"
+webUrl: "https://www.popularmechanics.com/military/research/a30680246/ai-army/"
+ampWebUrl: "https://www.popularmechanics.com/military/research/amp30680246/ai-army/"
+cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/research/amp30680246/ai-army/"
 type: article
 quality: 56
 heat: 56

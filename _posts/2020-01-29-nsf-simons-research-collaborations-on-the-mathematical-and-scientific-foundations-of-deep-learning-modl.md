@@ -3,7 +3,7 @@ category: news
 title: "NSF-Simons Research Collaborations on the Mathematical and Scientific Foundations of Deep Learning (MoDL)"
 excerpt: "Research activities will be focused on explicit topics involving some of the most challenging questions in the general area of Mathematical and Scientific Foundations of Deep Learning. Each collaboration will conduct training through research involvement of recent doctoral degree recipients, graduate students, and/or undergraduate students from ..."
 publishedDateTime: 2020-01-29T22:45:00Z
-sourceUrl: "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505750&org=NSF&sel_org=NSF&from=fund"
+webUrl: "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505750&org=NSF&sel_org=NSF&from=fund"
 type: article
 quality: 2
 heat: 2

@@ -3,7 +3,7 @@ category: news
 title: "Why Beauty Is Cashing In on At-Home Gadgets"
 excerpt: "Users upload photos to an app, which uses augmented reality and artificial intelligence from ModiFace, the beauty start-up L'Oréal acquired ... Adding electricity to any product adds elements of danger to consumers (Neutrogena had to recall its Light Therapy Acne Mask over the summer out of concern its blue light could cause eye injuries.)"
 publishedDateTime: 2020-01-17T12:55:00Z
-sourceUrl: "https://www.businessoffashion.com/articles/professional/skincare-beauty-gadgets-loreal-procter-and-gamble-nuface-led-mask"
+webUrl: "https://www.businessoffashion.com/articles/professional/skincare-beauty-gadgets-loreal-procter-and-gamble-nuface-led-mask"
 type: article
 quality: 4
 heat: 4

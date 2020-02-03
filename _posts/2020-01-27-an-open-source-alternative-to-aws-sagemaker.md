@@ -3,7 +3,7 @@ category: news
 title: "An Open Source Alternative to AWS SageMaker"
 excerpt: "“There’s the theoretical data science side, where people talk about neural networks and hidden layers and back propagation and PyTorch and Tensorflow. And then you have the actual system side of things, which is Kubernetes and Docker and Nvidia and running on GPUs and dealing with S3 and different AWS services. Both sides of the data ..."
 publishedDateTime: 2020-01-27T20:46:00Z
-sourceUrl: "https://www.datanami.com/2020/01/27/an-open-source-alternative-to-aws-sagemaker/"
+webUrl: "https://www.datanami.com/2020/01/27/an-open-source-alternative-to-aws-sagemaker/"
 type: article
 quality: 56
 heat: 56

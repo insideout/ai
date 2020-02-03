@@ -1,7 +1,7 @@
 ---
 title: "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data"
 excerpt: "Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the tidyverse, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible."
-sourceUrl: https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/
+webUrl: https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/
 type: book
 price: $38.79
 length: 

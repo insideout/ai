@@ -3,7 +3,7 @@ category: news
 title: "Facebook Releases Open Source Speech Recognition Platform"
 excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. “The system has almost three times the throughput of a well-tuned hybrid ASR baseline while also having lower latency and a better word error rate,” wrote a ..."
 publishedDateTime: 2020-01-16T01:03:00Z
-sourceUrl: "https://mobileidworld.com/facebook-releases-open-source-speech-recognition-platform-011505/"
+webUrl: "https://mobileidworld.com/facebook-releases-open-source-speech-recognition-platform-011505/"
 type: article
 quality: 41
 heat: -1
@@ -28,7 +28,7 @@ related:
   - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
     excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. This is a companion discussion topic for the original entry at https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
     publishedDateTime: 2020-01-17T00:25:00Z
-    sourceUrl: "https://businesscomputingworld.co.uk/t/facebook-s-online-speech-recognition-framework-becomes-widely-available/235598"
+    webUrl: "https://businesscomputingworld.co.uk/t/facebook-s-online-speech-recognition-framework-becomes-widely-available/235598"
     type: article
     provider:
       name: BCW
@@ -41,7 +41,7 @@ related:
   - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
     excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
     publishedDateTime: 2020-01-16T00:00:00Z
-    sourceUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
     type: article
     provider:
       name: SecuriMetrics HIIDE
@@ -54,7 +54,7 @@ related:
   - title: "Facebook releases low-latency online speech recognition framework"
     excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
     publishedDateTime: 2020-01-13T17:32:00Z
-    sourceUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
+    webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
     type: article
     provider:
       name: VentureBeat
@@ -63,7 +63,7 @@ related:
   - title: "Raspberry Pi offline speech recognition system using Mozilla’s Deepspeech Engine"
     excerpt: "Raspberry Pi enthusiasts interested in setting up off-line speech recognition on their Raspberry Pi 4 mini PC may be interested in a project published to the Hackster.io website this week by member Dmitry Maslov. The project is based on Mozilla’s Deepspeech Engine 0.6.1 and is equipped with a re-speaker and offers a service “faster than ..."
     publishedDateTime: 2020-01-23T14:35:00Z
-    sourceUrl: "https://www.geeky-gadgets.com/raspberry-pi-offline-speech-recognition-system-using-mozillas-deepspeech-engine-23-01-2020/"
+    webUrl: "https://www.geeky-gadgets.com/raspberry-pi-offline-speech-recognition-system-using-mozillas-deepspeech-engine-23-01-2020/"
     type: article
     provider:
       name: Geeky Gadgets

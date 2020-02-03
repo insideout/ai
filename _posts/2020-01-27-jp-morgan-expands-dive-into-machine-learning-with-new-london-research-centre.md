@@ -3,7 +3,7 @@ category: news
 title: "JP Morgan expands dive into machine learning with new London research centre"
 excerpt: "Professor at the Hong Kong University of Science and Technology, Chak Wong, has been hired by JP Morgan to lead the new team of machine learning engineers. JP Morgan is expanding its foray into machine learning and artificial intelligence (AI) with the launch of a new London-based research centre, as it explores how it can use the technology ..."
 publishedDateTime: 2020-01-27T16:28:00Z
-sourceUrl: "https://www.thetradenews.com/jp-morgan-expands-dive-machine-learning-new-london-research-centre/"
+webUrl: "https://www.thetradenews.com/jp-morgan-expands-dive-machine-learning-new-london-research-centre/"
 type: article
 quality: 36
 heat: 36

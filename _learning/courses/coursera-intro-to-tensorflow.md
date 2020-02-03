@@ -1,7 +1,7 @@
 ---
 title: "Intro to TensorFlow"
 excerpt: "Learn Intro to TensorFlow from Google Cloud. We introduce low-level TensorFlow and work our way through the necessary concepts and APIs so as to be able to write distributed machine learning models. Given a TensorFlow model, we explain how to ..."
-sourceUrl: https://www.coursera.org/learn/intro-tensorflow
+webUrl: https://www.coursera.org/learn/intro-tensorflow
 type: course
 price: Free+
 length: 10 hours

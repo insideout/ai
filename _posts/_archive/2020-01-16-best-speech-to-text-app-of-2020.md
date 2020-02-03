@@ -3,7 +3,7 @@ category: news
 title: "Best speech to text app of 2020"
 excerpt: "Others are downloadable software which is only as good as its latest update. Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Want your company or services to be added to this buyer’s guide? Please email your request to desire.athow@futurenet.com with the ..."
 publishedDateTime: 2020-01-16T13:02:00Z
-sourceUrl: "https://www.techradar.com/news/best-speech-to-text-app"
+webUrl: "https://www.techradar.com/news/best-speech-to-text-app"
 type: article
 quality: 54
 heat: 54

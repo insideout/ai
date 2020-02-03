@@ -3,7 +3,7 @@ category: news
 title: "Characterization of Central Visual Field Loss in End-stage Glaucoma by Unsupervised Artificial Intelligence"
 excerpt: "2 Donders Center for Medical Neuroscience, Radboud University Medical Center, Nijmegen, the Netherlands 3 Donders Institute for Brain, Cognition and Behaviour, Radboud University Nijmegen, Nijmegen, the Netherlands 4 Eye and Vision Research Institute ..."
 publishedDateTime: 2020-01-02T00:00:00Z
-sourceUrl: https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2757832
+webUrl: https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2757832
 type: article
 quality: 21
 heat: 21

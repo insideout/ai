@@ -3,7 +3,7 @@ category: news
 title: "The CEO of Mobileye explains why self-driving cars can't be too cautious"
 excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps."
 publishedDateTime: 2020-01-25T14:44:00Z
-sourceUrl: "https://www.businessinsider.com/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1"
+webUrl: "https://www.businessinsider.com/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1"
 type: article
 quality: 68
 heat: 78
@@ -31,7 +31,7 @@ related:
   - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious (INTC)"
     excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps. Mobileye CEO Amnon Shashua told Business Insider that autonomous vehicles (AVs) can't be too cautious. If AVs take too long to get to their destinations, people won't want to ride in them, Shashua said. To increase ..."
     publishedDateTime: 2020-01-25T13:45:00Z
-    sourceUrl: "https://markets.businessinsider.com/news/stocks/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1-1028844526"
+    webUrl: "https://markets.businessinsider.com/news/stocks/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1-1028844526"
     type: article
     provider:
       name: Business Insider

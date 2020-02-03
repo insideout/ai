@@ -3,7 +3,7 @@ category: news
 title: "QCon London ML Learning Paths: Gain Practical ML/AI Skills in Two-Days"
 excerpt: "Practical machine learning experience is in high demand within the software development industry. Boost your skills with two-day, hands-on Learning Paths that takes place directly after QCon London, held at The Queen Elizabeth II Conference Centre in London March 5-6. Nowadays, it can feel like every day there are important innovations ..."
 publishedDateTime: 2020-01-28T09:11:00Z
-sourceUrl: "https://www.infoq.com/news/2020/01/QCon-london-ml-learningpath-2020/"
+webUrl: "https://www.infoq.com/news/2020/01/QCon-london-ml-learningpath-2020/"
 type: article
 quality: 54
 heat: 54

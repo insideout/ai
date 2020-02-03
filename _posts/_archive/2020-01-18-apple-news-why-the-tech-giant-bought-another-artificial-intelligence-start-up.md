@@ -3,7 +3,7 @@ category: news
 title: "Apple News: Why The Tech Giant Bought Another Artificial Intelligence Start-Up"
 excerpt: "acquisition that investors have caught wind of ( Spectral Edge, to bolster the company's computational photography). CEO Tim Cook confirmed last year that the tech titan tends to buy smaller companies every two to three weeks."
 publishedDateTime: 2020-01-18T12:10:00Z
-sourceUrl: "https://www.ibtimes.com/apple-news-why-tech-giant-bought-another-artificial-intelligence-start-2904861"
+webUrl: "https://www.ibtimes.com/apple-news-why-tech-giant-bought-another-artificial-intelligence-start-2904861"
 type: article
 quality: 33
 heat: 33

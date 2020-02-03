@@ -3,9 +3,9 @@ category: news
 title: "AI Weekly: Meta analysis shows AI ethics principles emphasize human rights"
 excerpt: "One of the trends that came into sharp focus in 2019 was, ironically, a woeful lack of clarity around AI ethics. The AI field at large was paying attention to ethics, creating and applying frameworks for AI research, development, policy, and law, but there was no unified approach. The committees and groups, from every sort of organization ..."
 publishedDateTime: 2020-01-17T20:30:00Z
-sourceUrl: "https://venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/"
-ampUrl: "https://venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/amp/"
+webUrl: "https://venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/"
+ampWebUrl: "https://venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/amp/"
 type: article
 quality: 102
 heat: 112
@@ -33,7 +33,7 @@ related:
   - title: "Meta analysis shows AI ethics principles emphasize human rights"
     excerpt: "The AI field at large was paying attention to ethics, creating and applying frameworks for AI research, development, policy, and law, but there was no unified approach. A team of researchers from BKC recently released a white paper and visualization that mapped AI principles and guidelines to find consensus."
     publishedDateTime: 2020-01-21T19:45:00Z
-    sourceUrl: "https://cyber.harvard.edu/story/2020-01/meta-analysis-shows-ai-ethics-principles-emphasize-human-rights"
+    webUrl: "https://cyber.harvard.edu/story/2020-01/meta-analysis-shows-ai-ethics-principles-emphasize-human-rights"
     type: article
     provider:
       name: Harvard Medical School

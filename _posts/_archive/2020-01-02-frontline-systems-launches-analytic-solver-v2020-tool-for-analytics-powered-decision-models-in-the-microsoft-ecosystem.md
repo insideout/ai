@@ -3,9 +3,9 @@ category: news
 title: "Frontline Systems Launches Analytic Solver V2020: Tool for Analytics-Powered Decision Models in the Microsoft Ecosystem"
 excerpt: "New tool offers easy to use, comprehensive predictive and prescriptive analytics – machine learning ... in applications using Office 365, Azure and Microsoft's Power Platform."
 publishedDateTime: 2020-01-02T08:10:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/p15059493/frontline-systems-launches-analytic-solver-v2020-tool-for-analytics-powered-decision-models-in-the
-ampUrl: https://amp.benzinga.com/amp/content/15059493
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15059493
+webUrl: https://www.benzinga.com/pressreleases/20/01/p15059493/frontline-systems-launches-analytic-solver-v2020-tool-for-analytics-powered-decision-models-in-the
+ampWebUrl: https://amp.benzinga.com/amp/content/15059493
+cdnAmpWebUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15059493
 type: article
 quality: 15
 heat: 15

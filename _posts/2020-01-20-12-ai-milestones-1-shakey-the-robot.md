@@ -3,9 +3,9 @@ category: news
 title: "12 AI Milestones: 1. Shakey The Robot"
 excerpt: "from 1966 to 1972, SHAKEY was the world’s first mobile intelligent robot. According to the 2017 IEEE Milestone citation, it “could perceive its surroundings, infer implicit facts from explicit ones, create plans,"
 publishedDateTime: 2020-01-20T14:58:00Z
-sourceUrl: "https://www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/"
-ampUrl: "https://www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/amp/"
+webUrl: "https://www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/"
+ampWebUrl: "https://www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/amp/"
 type: article
 quality: 104
 heat: 104

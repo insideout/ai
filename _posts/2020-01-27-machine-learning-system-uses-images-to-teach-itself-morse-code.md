@@ -3,7 +3,7 @@ category: news
 title: "Machine Learning System Uses Images To Teach Itself Morse Code"
 excerpt: "The blog entry by the delightfully callsigned [Mauri Niininen (AG1LE)] reads like a scientific paper, with good reason: [Mauri] really seems to know a thing or two about machine learning. His method uses curated training data to build a model, namely Morse snippets and their translations, as is the usual approach with such systems. But things ..."
 publishedDateTime: 2020-01-27T16:05:00Z
-sourceUrl: "https://hackaday.com/2020/01/27/machine-learning-system-uses-images-to-teach-itself-morse-code/"
+webUrl: "https://hackaday.com/2020/01/27/machine-learning-system-uses-images-to-teach-itself-morse-code/"
 type: article
 quality: 139
 heat: 139

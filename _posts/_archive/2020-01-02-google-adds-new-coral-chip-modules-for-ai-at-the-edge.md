@@ -3,7 +3,7 @@ category: news
 title: "Google adds new Coral chip modules for AI at the edge"
 excerpt: "It also packs a single Edge TPU but in a much bigger module that comes with a central processing unit, graphics chip, memory and a preinstalled Linux distribution. The fact that it’s a self-contained solution reduces development times for hardware makers, providing the ability to bring AI devices to market faster. The new versions of the ..."
 publishedDateTime: 2020-01-02T21:13:00Z
-sourceUrl: https://siliconangle.com/2020/01/02/google-adds-new-coral-chip-modules-ai-edge/
+webUrl: https://siliconangle.com/2020/01/02/google-adds-new-coral-chip-modules-ai-edge/
 type: article
 quality: 54
 heat: 54

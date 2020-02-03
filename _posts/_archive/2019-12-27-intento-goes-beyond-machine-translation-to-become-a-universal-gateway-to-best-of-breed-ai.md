@@ -3,7 +3,7 @@ category: news
 title: "Intento Goes beyond Machine Translation to Become a Universal Gateway to Best of Breed AI"
 excerpt: "Before it's here, it's on the Bloomberg Terminal."
 publishedDateTime: 2019-12-27T00:50:00Z
-sourceUrl: https://www.bloomberg.com/press-releases/2019-04-18/intento-goes-beyond-machine-translation-to-become-a-universal-gateway-to-best-of-breed-ai
+webUrl: https://www.bloomberg.com/press-releases/2019-04-18/intento-goes-beyond-machine-translation-to-become-a-universal-gateway-to-best-of-breed-ai
 type: article
 quality: 55
 heat: 55

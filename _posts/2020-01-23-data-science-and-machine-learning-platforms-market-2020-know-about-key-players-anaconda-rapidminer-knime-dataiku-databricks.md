@@ -3,7 +3,7 @@ category: news
 title: "Data Science and Machine-Learning Platforms Market 2020: Know about Key Players - Anaconda, RapidMiner, KNIME, Dataiku, Databricks"
 excerpt: "Latest released 2020 version of market study on Global Data Science and Machine-Learning Platforms Market with 109+ market data Tables, Pie Chat, Graphs & Figures spread through Pages and easy to understand in depth analysis. \" Global Data Science and Machine-Learning Platforms Market by Type (, Open Source Data Integration Tools & Cloud-based ..."
 publishedDateTime: 2020-01-23T09:24:00Z
-sourceUrl: "https://www.openpr.com/news/1905466/data-science-and-machine-learning-platforms-market-2020-know"
+webUrl: "https://www.openpr.com/news/1905466/data-science-and-machine-learning-platforms-market-2020-know"
 type: article
 quality: 0
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "How to generate data for machine learning"
     excerpt: "The data that actually is potentially useful tends to require vast amounts of preprocessing before it can be used for machine learning, for example. As a consequence, in most data science teams, more than 90 percent of all time is spent on preprocessing the data before it can even be used for analytics or machine learning. In a paper that we ..."
     publishedDateTime: 2020-01-29T16:09:00Z
-    sourceUrl: "https://bits-chips.nl/artikel/how-to-generate-data-for-machine-learning/"
+    webUrl: "https://bits-chips.nl/artikel/how-to-generate-data-for-machine-learning/"
     type: article
     provider:
       name: Bits&Chips

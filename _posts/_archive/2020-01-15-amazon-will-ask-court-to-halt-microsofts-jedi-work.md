@@ -3,7 +3,7 @@ category: news
 title: "Amazon will ask court to halt Microsoft's JEDI work"
 excerpt: "Amazon Web Services took an expected step in the court battle over the Defense department's JEDI cloud computing contract. A judge will decide whether to grant an injunction by Feb. 11."
 publishedDateTime: 2020-01-15T21:28:00Z
-sourceUrl: "https://www.bizjournals.com/washington/news/2020/01/14/amazon-files-motion-to-halt-microsofts-jedi-work.html"
+webUrl: "https://www.bizjournals.com/washington/news/2020/01/14/amazon-files-motion-to-halt-microsofts-jedi-work.html"
 type: article
 quality: 4
 heat: 4

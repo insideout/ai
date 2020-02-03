@@ -3,9 +3,9 @@ category: news
 title: "Merkel’s coalition shoots down opposition bid to halt Germany’s ‘killer robots’ development"
 excerpt: "Merkel’s conservatives said they wanted to uphold existing international law but were open to the use of artificial intelligence “in the military ... Also on rt.com Make no mistake: Military robots are not there to preserve human life, they are there ..."
 publishedDateTime: 2020-02-01T08:49:00Z
-sourceUrl: "https://www.rt.com/news/479840-germany-merkel-killer-robots-motion/"
-ampUrl: "https://www.rt.com/news/479840-germany-merkel-killer-robots-motion/amp/"
-cdnAmpUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/479840-germany-merkel-killer-robots-motion/amp/"
+webUrl: "https://www.rt.com/news/479840-germany-merkel-killer-robots-motion/"
+ampWebUrl: "https://www.rt.com/news/479840-germany-merkel-killer-robots-motion/amp/"
+cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/479840-germany-merkel-killer-robots-motion/amp/"
 type: article
 quality: 49
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "Opposition bids to ban 'killer robots' foiled by Merkel's coalition"
     excerpt: "March 2019: Campaign to Stop Killer Robots at Berlin's Brandenburg Gate Coalition ... said it wanted existing international law upheld but was \"open for the use of artificial intelligence, also in the military area.\" Her coalition partners, the center ..."
     publishedDateTime: 2020-01-31T20:39:00Z
-    sourceUrl: "https://www.dw.com/en/opposition-bids-to-ban-killer-robots-foiled-by-merkels-coalition/a-52220360"
-    ampUrl: "https://amp.dw.com/en/opposition-bids-to-ban-killer-robots-foiled-by-merkels-coalition/a-52220360"
-    cdnAmpUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/opposition-bids-to-ban-killer-robots-foiled-by-merkels-coalition/a-52220360"
+    webUrl: "https://www.dw.com/en/opposition-bids-to-ban-killer-robots-foiled-by-merkels-coalition/a-52220360"
+    ampWebUrl: "https://amp.dw.com/en/opposition-bids-to-ban-killer-robots-foiled-by-merkels-coalition/a-52220360"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/opposition-bids-to-ban-killer-robots-foiled-by-merkels-coalition/a-52220360"
     type: article
     provider:
       name: Deutsche Welle

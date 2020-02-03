@@ -3,7 +3,7 @@ category: news
 title: "Facial recognition piloted throughout entire journey at KLIA"
 excerpt: "KLIA’s Single Token Journey concept relies on facial recognition to enable passengers to move through each airport checkpoint seamlessly. Kuala Lumpur International Airport (KLIA) has introduced a Single Token Journey concept, utilising facial recognition technology to provide passengers with one single identification verification which ..."
 publishedDateTime: 2020-01-30T12:00:00Z
-sourceUrl: "https://www.internationalairportreview.com/news/111201/facial-recognition-klia/"
+webUrl: "https://www.internationalairportreview.com/news/111201/facial-recognition-klia/"
 type: article
 quality: 39
 heat: 39

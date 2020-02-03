@@ -3,7 +3,7 @@ category: news
 title: "Kubota launches wacky driverless concept tractor"
 excerpt: "In celebration of its 130th birthday, Kubota has unveiled a driverless concept tractor that’s battery powered and uses artificial intelligence to operate autonomously. The four-track X Tractor concept was revealed at an event in Kyoto, Japan, last week and takes the firm’s vision of operator-free tractors a few steps on from the more ..."
 publishedDateTime: 2020-01-21T10:12:00Z
-sourceUrl: "https://www.fwi.co.uk/machinery/technology/kubota-launches-wacky-driverless-concept-tractor"
+webUrl: "https://www.fwi.co.uk/machinery/technology/kubota-launches-wacky-driverless-concept-tractor"
 type: article
 quality: 39
 heat: 39

@@ -3,9 +3,9 @@ category: news
 title: "Dive into AI and machine learning with this $40 training"
 excerpt: "With four courses and over 280 lessons, this bundle will introduce you to the exciting and lucrative world of machine learning and AI The interconnected worlds of machine learning and AI can be found at the heart of some of today's most exciting and important technologies—from quantum computing and Google algorithms to medical innovations and ..."
 publishedDateTime: 2020-01-19T14:00:00Z
-sourceUrl: "https://www.engadget.com/2020/01/19/ai-and-machine-learning-training/"
-ampUrl: "https://www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/"
-cdnAmpUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/"
+webUrl: "https://www.engadget.com/2020/01/19/ai-and-machine-learning-training/"
+ampWebUrl: "https://www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/"
 type: article
 quality: 104
 heat: 114
@@ -33,9 +33,9 @@ related:
   - title: "Accelerating Learning Through AI At Cerego And TechStyle"
     excerpt: "Cerego, an AI-based learning management system, helps fashion retailer TechStyle accelerate learning for call center agents."
     publishedDateTime: 2020-01-23T16:10:00Z
-    sourceUrl: "https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/"
-    ampUrl: "https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/"
-    cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/"
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/"
+    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/"
     type: article
     provider:
       name: Forbes

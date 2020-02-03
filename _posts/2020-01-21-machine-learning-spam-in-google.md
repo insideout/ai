@@ -3,9 +3,9 @@ category: news
 title: "Machine Learning Spam in Google"
 excerpt: "Spammers are taking advantage of Google Rich Results algorithms in order to place content at the top of Google search. Spammers are taking advantage of machine learning technologies to automatically create video content from web pages and vice versa. The same technology can be used to create text content from podcasts and podcast content from ..."
 publishedDateTime: 2020-01-21T10:40:00Z
-sourceUrl: "https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/"
-ampUrl: "https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/"
-cdnAmpUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/"
+webUrl: "https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/"
+ampWebUrl: "https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/"
+cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/"
 type: article
 quality: 159
 heat: 159

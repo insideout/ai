@@ -3,9 +3,9 @@ category: news
 title: "Is Artificial Intelligence key to the search for truth about alien life?"
 excerpt: "Even though we are yet to find a certain answer about the existence of alien life, several advanced Artificial Intelligence tools have been developed with a promise of finding the truth. However, scientists are now suggesting that these rovers and robots that we have relied on for years, might become the cause of inaccurate results. According ..."
 publishedDateTime: 2020-01-31T07:53:00Z
-sourceUrl: "https://www.ibtimes.co.uk/artificial-intelligence-key-search-truth-about-alien-life-1675184"
-ampUrl: "https://amp.ibtimes.co.uk/artificial-intelligence-key-search-truth-about-alien-life-1675184"
-cdnAmpUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/artificial-intelligence-key-search-truth-about-alien-life-1675184"
+webUrl: "https://www.ibtimes.co.uk/artificial-intelligence-key-search-truth-about-alien-life-1675184"
+ampWebUrl: "https://amp.ibtimes.co.uk/artificial-intelligence-key-search-truth-about-alien-life-1675184"
+cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/artificial-intelligence-key-search-truth-about-alien-life-1675184"
 type: article
 quality: 58
 heat: 58

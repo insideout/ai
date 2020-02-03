@@ -3,9 +3,9 @@ category: news
 title: "Apple Buys Startup That Makes AI Possible On Low-Rung Hardware"
 excerpt: "Apple Inc. (NASDAQ: AAPL) has acquired edge-based artificial intelligence startup Xnor.ai, GeekWire reported on Wednesday, citing sources close to the matter. What Happened"
 publishedDateTime: 2020-01-16T09:13:00Z
-sourceUrl: "https://www.benzinga.com/m-a/20/01/15132413/apple-buys-startup-that-makes-ai-possible-on-low-rung-hardware"
-ampUrl: "https://amp.benzinga.com/amp/content/15132413"
-cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15132413"
+webUrl: "https://www.benzinga.com/m-a/20/01/15132413/apple-buys-startup-that-makes-ai-possible-on-low-rung-hardware"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15132413"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15132413"
 type: article
 quality: 57
 heat: -1
@@ -28,9 +28,9 @@ related:
   - title: "Seattle AI startup drew interest from Amazon, Microsoft, Intel before selling to Apple"
     excerpt: "(GeekWire Photo / Taylor Soper) Apple wasn’t the only tech giant eyeing Xnor.ai. GeekWire broke the news on Wednesday that Apple acquired Seattle startup Xnor.ai, paying around $200 million for the three-year-old company that specializes in low-power, edge-based artificial intelligence tools. Exclusive: Apple acquires Xnor.ai, edge AI spin ..."
     publishedDateTime: 2020-01-16T18:37:00Z
-    sourceUrl: "https://www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/"
-    ampUrl: "https://www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/amp/"
-    cdnAmpUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/amp/"
+    webUrl: "https://www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/"
+    ampWebUrl: "https://www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/amp/"
     type: article
     provider:
       name: GeekWire
@@ -43,9 +43,9 @@ related:
   - title: "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia"
     excerpt: "This week on the GeekWire Podcast: Apple doubled down on artificial intelligence and boosted its presence in Seattle with the acquisition of Xnor.ai, an Allen Institute for Artificial Intelligence ... but it’s also an example of an ambitious startup selling to a tech giant before it has the chance to become one itself. So how should we ..."
     publishedDateTime: 2020-01-18T18:57:00Z
-    sourceUrl: "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/"
-    ampUrl: "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/"
-    cdnAmpUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/"
+    webUrl: "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/"
+    ampWebUrl: "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/"
     type: article
     provider:
       name: GeekWire

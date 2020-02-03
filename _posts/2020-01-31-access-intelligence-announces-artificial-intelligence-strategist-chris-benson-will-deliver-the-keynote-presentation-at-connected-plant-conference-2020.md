@@ -3,7 +3,7 @@ category: news
 title: "Access Intelligence Announces Artificial Intelligence Strategist Chris Benson Will Deliver the Keynote Presentation at Connected Plant Conference 2020"
 excerpt: "HOUSTON—Chris Benson, principal artificial intelligence strategist for global aerospace, defense, and security giant Lockheed Martin, will give the opening keynote presentation at the Connected Plant Conference 2020, which will take place February 25 to 27, 2020, at the Westin Peachtree Plaza in Atlanta, Georgia. Kicking off the event ..."
 publishedDateTime: 2020-01-31T11:13:00Z
-sourceUrl: "https://www.powermag.com/press-releases/access-intelligence-announces-artificial-intelligence-strategist-chris-benson-will-deliver-the-keynote-presentation-at-connected-plant-conference-2020/"
+webUrl: "https://www.powermag.com/press-releases/access-intelligence-announces-artificial-intelligence-strategist-chris-benson-will-deliver-the-keynote-presentation-at-connected-plant-conference-2020/"
 type: article
 quality: 1
 heat: -1
@@ -28,7 +28,7 @@ related:
   - title: "AI Strategist to deliver keynote at Connected Plant Conference 2020"
     excerpt: "Before he joined Lockheed Martin, where he oversees strategies related to AI and AI ethics, Benson was chief scientist for AI and ML at technology conglomerate Honeywell SPS, and before that, he was on the AI team at multinational professional services company Accenture. This year’s Connected Plant Conference, scheduled for February 25 to 27 ..."
     publishedDateTime: 2020-01-30T20:23:00Z
-    sourceUrl: "https://www.chemengonline.com/ai-strategist-to-deliver-keynote-at-connected-plant-conference-2020/"
+    webUrl: "https://www.chemengonline.com/ai-strategist-to-deliver-keynote-at-connected-plant-conference-2020/"
     type: article
     provider:
       name: The Magazine

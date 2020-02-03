@@ -3,7 +3,7 @@ category: news
 title: "Cruise says new self-driving van will save passengers $5,000 a year"
 excerpt: "Ammann said the company is in discussions with the National Highway Traffic Safety Administration about a waiver. And, while Cruise has a permit to test its autonomous vehicles on public roads in California, it does not have a license to charge people for rides in self-driving cars."
 publishedDateTime: 2020-01-22T10:42:00Z
-sourceUrl: "https://www.axios.com/cruise-electric-self-driving-van-4f3c9616-5613-4af7-bda3-d217a395da35.html"
+webUrl: "https://www.axios.com/cruise-electric-self-driving-van-4f3c9616-5613-4af7-bda3-d217a395da35.html"
 type: article
 quality: 24
 heat: 24

@@ -3,9 +3,9 @@ category: news
 title: "62nd Grammy winners predicted by artificial intelligence"
 excerpt: "If you've got coin on who'll win at the 62nd annual Grammys this Sunday, predictive tips are available, and it's not insider trading, it's artificial intelligence (AI). Last year, Boston-based data science company DataRobot successfully chose 2019's song of the year, Childish Gambino's \"This is America.\" This year, DataRobot hopes to revisit ..."
 publishedDateTime: 2020-01-24T20:03:00Z
-sourceUrl: "https://www.techrepublic.com/article/62nd-grammy-winners-predicted-by-artificial-intelligence/"
-ampUrl: "https://www.techrepublic.com/google-amp/article/62nd-grammy-winners-predicted-by-artificial-intelligence/"
-cdnAmpUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/62nd-grammy-winners-predicted-by-artificial-intelligence/"
+webUrl: "https://www.techrepublic.com/article/62nd-grammy-winners-predicted-by-artificial-intelligence/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/62nd-grammy-winners-predicted-by-artificial-intelligence/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/62nd-grammy-winners-predicted-by-artificial-intelligence/"
 type: article
 quality: 189
 heat: 199
@@ -33,9 +33,9 @@ related:
   - title: "AI accurately predicts Billie Eilish 'bad guy' Grammy win"
     excerpt: "Lil Nas X was nominated six times and walked away with two wins, according to CBS. Taylor Larkin, a data scientist with the company, used the DataRobot enterprise AI platform to predict the winners for song and record of the year. DataRobot leverages machine-learning models to learn from the past to predict the future. \"For Grammy ..."
     publishedDateTime: 2020-01-27T19:44:00Z
-    sourceUrl: "https://www.techrepublic.com/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/"
-    ampUrl: "https://www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/"
-    cdnAmpUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/"
+    webUrl: "https://www.techrepublic.com/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/"
     type: article
     provider:
       name: TechRepublic

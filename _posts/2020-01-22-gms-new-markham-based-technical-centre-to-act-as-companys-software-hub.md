@@ -3,9 +3,9 @@ category: news
 title: "GM’s new Markham-based Technical Centre to act as company’s software hub"
 excerpt: "MARKHAM, ONT. – A new Greater Toronto Area (GTA) facility opened by General Motors on Friday will play a crucial role in the company’s digital transformation efforts, a company executive has ..."
 publishedDateTime: 2020-01-22T00:00:00Z
-sourceUrl: "https://www.itworldcanada.com/article/gms-new-markham-based-technical-centre-to-act-as-companys-software-hub/400902"
-ampUrl: "https://www.itworldcanada.com/article/gms-new-markham-based-technical-centre-to-act-as-companys-software-hub/400902?amp=1"
-cdnAmpUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/gms-new-markham-based-technical-centre-to-act-as-companys-software-hub/400902?amp=1"
+webUrl: "https://www.itworldcanada.com/article/gms-new-markham-based-technical-centre-to-act-as-companys-software-hub/400902"
+ampWebUrl: "https://www.itworldcanada.com/article/gms-new-markham-based-technical-centre-to-act-as-companys-software-hub/400902?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/gms-new-markham-based-technical-centre-to-act-as-companys-software-hub/400902?amp=1"
 type: article
 quality: 43
 heat: 43

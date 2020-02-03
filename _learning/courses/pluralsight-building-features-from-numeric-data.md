@@ -1,7 +1,7 @@
 ---
 title: "Building Features from Numeric Data"
 excerpt: "This course exhaustively covers data preprocessing techniques and transforms available in scikit-learn, allowing the construction of highly optimized features that are scaled, normalized and transformed in mathematically sound ways to fully harness the power of machine learning techniques. "
-sourceUrl: https://www.pluralsight.com/courses/building-features-numeric-data
+webUrl: https://www.pluralsight.com/courses/building-features-numeric-data
 type: course
 price: $$
 length: 2h 25m

@@ -2,7 +2,7 @@
 title: "Building Neural Networks with scikit-learn"
 excerpt: "This course covers all the important aspects of support currently available in scikit-learn for the construction and training of neural networks, including the perceptron, MLPClassifier, and MLPRegressor, as well as Restricted Boltzmann Machines.
 "
-sourceUrl: https://www.pluralsight.com/courses/building-neural-networks-scikit-learn
+webUrl: https://www.pluralsight.com/courses/building-neural-networks-scikit-learn
 type: course
 price: $$
 length: 1h 55m

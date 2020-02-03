@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning with R, tidyverse, and mlr"
 excerpt: "Early access book that provides basics of machine learning and using R programming language."
-sourceUrl: https://www.manning.com/books/machine-learning-with-r-tidyverse-and-mlr
+webUrl: https://www.manning.com/books/machine-learning-with-r-tidyverse-and-mlr
 type: book
 price: Free+
 length: 

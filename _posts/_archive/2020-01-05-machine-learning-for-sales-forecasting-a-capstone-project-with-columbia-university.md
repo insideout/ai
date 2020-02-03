@@ -3,7 +3,7 @@ category: news
 title: "Machine Learning for Sales Forecasting: A Capstone Project with Columbia University"
 excerpt: "Two group of students built an end-to-end data science solution using Azure Machine Learning to accurately forecast sales. Azure Machine Learning is a cloud-based environment that you can use to ..."
 publishedDateTime: 2020-01-05T22:59:00Z
-sourceUrl: "https://medium.com/microsoftazure/machine-learning-for-sales-forecasting-a-capstone-project-in-with-columbia-university-cd75b99d1371"
+webUrl: "https://medium.com/microsoftazure/machine-learning-for-sales-forecasting-a-capstone-project-in-with-columbia-university-cd75b99d1371"
 type: article
 quality: 48
 heat: 48

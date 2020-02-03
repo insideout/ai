@@ -3,7 +3,7 @@ category: news
 title: "IBM proposes guidelines to battle AI bias"
 excerpt: "Among the recommendations are strategies to ensure algorithms based on historically biased data such as zip codes and mortgage rates do not discriminate against any group, a call for companies to appoint chief AI ethics officers and a request that they keep records of the data fed into algorithms to maintain transparency in AI-led decisions."
 publishedDateTime: 2020-01-21T20:13:00Z
-sourceUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ibm-proposes-guidelines-to-battle-ai-bias.html"
+webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ibm-proposes-guidelines-to-battle-ai-bias.html"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "GitHub now uses AI to recommend open issues in project repositories"
     excerpt: "The initial version, which launched in May 2019, surfaced recommendations based on labels applied to issues by project maintainers. But an updated release shipped last month incorporates an AI algorithm that Github says surfaces issues in about 70% of repositories recommended to users. Github says it’s the first deep-learning-enabled product ..."
     publishedDateTime: 2020-01-22T19:16:00Z
-    sourceUrl: "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/"
-    ampUrl: "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/"
-    cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/"
+    webUrl: "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/"
+    ampWebUrl: "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/"
     type: article
     provider:
       name: VentureBeat

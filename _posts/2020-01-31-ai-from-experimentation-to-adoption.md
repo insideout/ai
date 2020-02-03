@@ -3,9 +3,9 @@ category: news
 title: "AI: from experimentation to adoption"
 excerpt: "I see the excitement building with clients every day as they realize the potential of AI. Just last year we announced that SPF Private Clients, one of the UK’s leading financial services firms, has adopted IBM Watson and IBM Cloud to develop Ava, a new AI virtual Help-to-Buy mortgage adviser. Ava helps first time home buyers onto the property ..."
 publishedDateTime: 2020-01-31T11:07:00Z
-sourceUrl: "https://www.techradar.com/news/ai-from-experimentation-to-adoption"
-ampUrl: "https://www.techradar.com/amp/news/ai-from-experimentation-to-adoption"
-cdnAmpUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-from-experimentation-to-adoption"
+webUrl: "https://www.techradar.com/news/ai-from-experimentation-to-adoption"
+ampWebUrl: "https://www.techradar.com/amp/news/ai-from-experimentation-to-adoption"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-from-experimentation-to-adoption"
 type: article
 quality: 89
 heat: 99
@@ -33,9 +33,9 @@ related:
   - title: "Executives Report AI Investment Up, But Implementations Lag Expectations"
     excerpt: "Side face of AI robot by network form. Is there a lag between enthusiasm for investment in Artificial Intelligence (AI) capabilities and delivery of AI results? Apparently so. A 2019 Harvard Business Review article,"
     publishedDateTime: 2020-02-02T16:18:00Z
-    sourceUrl: "https://www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/"
-    ampUrl: "https://www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/amp/"
-    cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/amp/"
+    webUrl: "https://www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/"
+    ampWebUrl: "https://www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/amp/"
     type: article
     provider:
       name: Forbes

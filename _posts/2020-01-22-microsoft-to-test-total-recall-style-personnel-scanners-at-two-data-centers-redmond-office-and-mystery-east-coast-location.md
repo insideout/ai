@@ -3,9 +3,9 @@ category: news
 title: "Microsoft to test ‘Total Recall’-style personnel scanners at two data centers, Redmond office and mystery East Coast location"
 excerpt: "The device being tested will be an innovative walk-through scanner that uses millimeter-wave radiation and machine learning algorithms to detect weapons ... However, in April last year, Microsoft announced Azure Government Secret, cloud services built exclusively for US military and intelligence agencies for classified secret-level data."
 publishedDateTime: 2020-01-22T19:28:00Z
-sourceUrl: "https://www.geekwire.com/2020/microsoft-test-total-recall-style-personnel-scanners-two-data-centers-redmond-office-mystery-east-coast-location/"
-ampUrl: "https://www.geekwire.com/2020/microsoft-test-total-recall-style-personnel-scanners-two-data-centers-redmond-office-mystery-east-coast-location/amp/"
-cdnAmpUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-test-total-recall-style-personnel-scanners-two-data-centers-redmond-office-mystery-east-coast-location/amp/"
+webUrl: "https://www.geekwire.com/2020/microsoft-test-total-recall-style-personnel-scanners-two-data-centers-redmond-office-mystery-east-coast-location/"
+ampWebUrl: "https://www.geekwire.com/2020/microsoft-test-total-recall-style-personnel-scanners-two-data-centers-redmond-office-mystery-east-coast-location/amp/"
+cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-test-total-recall-style-personnel-scanners-two-data-centers-redmond-office-mystery-east-coast-location/amp/"
 type: article
 quality: 62
 heat: 72
@@ -33,7 +33,7 @@ related:
   - title: "Microsoft could test body scanners that combine millimeter-wave and machine learning"
     excerpt: "Microsoft could test out a new type of body scanner according to new FCC filings. The scanners use millimeter-wave radiation and machine learning to detect objects. The scanners only require two fixed panels to work. The FCC filings are for the Rohde & Schwarz Quick Personnel Security Scanner. Rohde & Schwarz explain the capabilities of the ..."
     publishedDateTime: 2020-01-22T18:10:00Z
-    sourceUrl: "https://www.windowscentral.com/microsoft-could-test-body-scanners-combine-millimeter-wave-and-machine-learning"
+    webUrl: "https://www.windowscentral.com/microsoft-could-test-body-scanners-combine-millimeter-wave-and-machine-learning"
     type: article
     provider:
       name: Windows Central

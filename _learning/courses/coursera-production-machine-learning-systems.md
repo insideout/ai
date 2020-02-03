@@ -1,7 +1,7 @@
 ---
 title: "Production Machine Learning Systems"
 excerpt: "Learn Production Machine Learning Systems from Google Cloud. In the second course of this specialization, we will dive into the components and best practices of a high-performing ML system in production environments.   Prerequisites: Basic SQL, ..."
-sourceUrl: https://www.coursera.org/learn/gcp-production-ml-systems
+webUrl: https://www.coursera.org/learn/gcp-production-ml-systems
 type: course
 price: Free+
 length: 8 hours

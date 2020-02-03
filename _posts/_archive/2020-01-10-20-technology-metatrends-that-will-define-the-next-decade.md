@@ -3,9 +3,9 @@ category: news
 title: "20 Technology Metatrends That Will Define the Next Decade"
 excerpt: "This metatrend is driven by the convergence of various biotechnologies (CRISPR, gene therapy), genome sequencing, and artificial intelligence. (1) A360 Executive Mastermind: If you’re an exponentially and abundance-minded entrepreneur who would like ..."
 publishedDateTime: 2020-01-10T14:00:00Z
-sourceUrl: "https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/"
-ampUrl: "https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/"
-cdnAmpUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/"
+webUrl: "https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/"
+ampWebUrl: "https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/"
+cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/"
 type: article
 quality: 44
 heat: 44

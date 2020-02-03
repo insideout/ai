@@ -3,7 +3,7 @@ category: news
 title: "Tesla Q4 2019 earnings call: 'Full Self-Driving', battery day and insurance discounts"
 excerpt: "Another Tesla quarterly earnings call has come and gone, and from it, we've learned a few things. Namely that there's still a ways to go until \"Full Self-Driving\" is realized and that Tesla owners will be able to take advantage of using their vehicles for Tesla ridesharing even before the robotaxi fleet gets off the ground. According to Elon ..."
 publishedDateTime: 2020-01-30T01:35:00Z
-sourceUrl: "https://www.cnet.com/roadshow/news/tesla-q4-2019-earnings-call-recap/"
+webUrl: "https://www.cnet.com/roadshow/news/tesla-q4-2019-earnings-call-recap/"
 type: article
 quality: 42
 heat: 42

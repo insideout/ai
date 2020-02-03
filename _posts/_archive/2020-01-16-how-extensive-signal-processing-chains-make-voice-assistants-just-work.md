@@ -3,7 +3,7 @@ category: news
 title: "How extensive signal processing chains make voice assistants ‘just work’"
 excerpt: "One of the main appeals of this kind of interface is it ‘just works’ – there’s no user interface to learn, and we can increasingly talk to a gadget in a natural language as if it were a person, and get a useful response. But to achieve this capability, there’s a huge amount of sophisticated processing going on. In this article ..."
 publishedDateTime: 2020-01-16T17:10:00Z
-sourceUrl: "https://www.embedded.com/how-extensive-signal-processing-chains-make-voice-assistants-just-work/"
+webUrl: "https://www.embedded.com/how-extensive-signal-processing-chains-make-voice-assistants-just-work/"
 type: article
 quality: 38
 heat: 38

@@ -3,7 +3,7 @@ category: news
 title: "Financial Services Firms Must Contribute More Software Repos, to Retain Staff and Stay Relevant"
 excerpt: "In short, why not contribute more? Google have followed up their deep learning package Tensorflow with TensorFlow Quant Finance. I repeat, that's Google doing that, not one of their Investment Bank counterparts though some good quant libraries are available in Github. Pythonista legend Wes McKinney was asked the following question at a recent ..."
 publishedDateTime: 2020-01-11T21:47:00Z
-sourceUrl: "https://www.finextra.com/blogposting/18315/financial-services-firms-must-contribute-more-software-repos-to-retain-staff-and-stay-relevant"
+webUrl: "https://www.finextra.com/blogposting/18315/financial-services-firms-must-contribute-more-software-repos-to-retain-staff-and-stay-relevant"
 type: article
 quality: 27
 heat: 27

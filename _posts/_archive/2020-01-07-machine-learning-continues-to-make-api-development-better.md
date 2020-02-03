@@ -3,7 +3,7 @@ category: news
 title: "Machine Learning Continues to Make API Development Better"
 excerpt: "Well, in future, by having access to API developers can have access to the underlying business logic and model as well. Already, Google built AutoML for image and text analysis which is leveraged by many third-party apps for the same purpose of image and text analysis. While Machine Learning based APIs triggered by specific use scenarios or ..."
 publishedDateTime: 2020-01-07T12:22:00Z
-sourceUrl: https://cloudtweaks.com/2020/01/how-apis-machine-learning-are-evolving/
+webUrl: https://cloudtweaks.com/2020/01/how-apis-machine-learning-are-evolving/
 type: article
 quality: 39
 heat: 39

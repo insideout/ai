@@ -3,7 +3,7 @@ category: news
 title: "ITV announces Sanjeevan Bala as its new Group Chief Data & AI Officer"
 excerpt: "Reporting to Rufus Radcliffe, Chief Marketing Officer and Director of Direct to Consumer, Sanjeevan, who joins in May 2020, will lead the transformation of ITV’s group-wide data and Ai strategy, evolving and consolidating ... Dunnhumby and a number of start-ups in Silicon Valley, where he was responsible for building a number of digital ..."
 publishedDateTime: 2020-02-01T21:57:00Z
-sourceUrl: "https://www.itv.com/presscentre/press-releases/itv-announces-sanjeevan-bala-its-new-group-chief-data-ai-officer"
+webUrl: "https://www.itv.com/presscentre/press-releases/itv-announces-sanjeevan-bala-its-new-group-chief-data-ai-officer"
 type: article
 quality: 37
 heat: 37

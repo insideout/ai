@@ -3,9 +3,9 @@ category: news
 title: "PETA Wants a Robot Groundhog to Predict the Weather"
 excerpt: "Instead of replacing the groundhog with a live one every few years, they suggest using “artificial intelligence” to create a new groundhog that can actually predict the weather (boring!) “An AI Phil would renew interest in Punxsutawney, generating a great deal of buzz, much like Sony’s robot dog ‘aibo,’ which walks, plays ..."
 publishedDateTime: 2020-01-30T16:45:00Z
-sourceUrl: "https://jezebel.com/peta-wants-a-robot-groundhog-to-predict-the-weather-1841352376"
-ampUrl: "https://jezebel.com/peta-wants-a-robot-groundhog-to-predict-the-weather-1841352376/amp"
-cdnAmpUrl: "https://jezebel-com.cdn.ampproject.org/c/s/jezebel.com/peta-wants-a-robot-groundhog-to-predict-the-weather-1841352376/amp"
+webUrl: "https://jezebel.com/peta-wants-a-robot-groundhog-to-predict-the-weather-1841352376"
+ampWebUrl: "https://jezebel.com/peta-wants-a-robot-groundhog-to-predict-the-weather-1841352376/amp"
+cdnAmpWebUrl: "https://jezebel-com.cdn.ampproject.org/c/s/jezebel.com/peta-wants-a-robot-groundhog-to-predict-the-weather-1841352376/amp"
 type: article
 quality: 59
 heat: 69
@@ -29,7 +29,7 @@ related:
   - title: "PETA Wants An AI Robot to Be the Star of Groundhog Day"
     excerpt: "What about Punxsutawney Phil, the groundhog we’ve all come to know and love?"
     publishedDateTime: 2020-01-30T19:03:00Z
-    sourceUrl: "https://weather.com/news/news/2020-01-30-peta-wants-a-robot-to-be-the-star-of-groundhog-day"
+    webUrl: "https://weather.com/news/news/2020-01-30-peta-wants-a-robot-to-be-the-star-of-groundhog-day"
     type: article
     provider:
       name: The Weather Channel

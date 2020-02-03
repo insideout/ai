@@ -1,7 +1,7 @@
 ---
 title: "MIT 6.S094: Deep Learning for Self-Driving Cars"
 excerpt: "This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car. It is open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application. "
-sourceUrl: https://selfdrivingcars.mit.edu/
+webUrl: https://selfdrivingcars.mit.edu/
 type: course
 price: Free
 length: 2 weeks

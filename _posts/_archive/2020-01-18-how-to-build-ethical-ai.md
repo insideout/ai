@@ -3,9 +3,9 @@ category: news
 title: "How to build ethical AI"
 excerpt: "There are serious ethical and societal issues we must confront quickly."
 publishedDateTime: 2020-01-18T14:00:00Z
-sourceUrl: "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence"
-ampUrl: "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp"
-cdnAmpUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp"
+webUrl: "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence"
+ampWebUrl: "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp"
 type: article
 quality: 74
 heat: 84
@@ -29,7 +29,7 @@ related:
   - title: "The Ethical Upside to Artificial Intelligence"
     excerpt: "According to some, artificial intelligence (AI) is the new electricity. Like electricity, AI will transform every major industry and open new opportunities that were never possible. However, unlike electricity, the ethics surrounding the development and use of AI remain controversial, which is a significant element constraining AI’s full ..."
     publishedDateTime: 2020-01-20T08:54:00Z
-    sourceUrl: "https://warontherocks.com/2020/01/the-ethical-upside-to-artificial-intelligence/"
+    webUrl: "https://warontherocks.com/2020/01/the-ethical-upside-to-artificial-intelligence/"
     type: article
     provider:
       name: War on the Rocks

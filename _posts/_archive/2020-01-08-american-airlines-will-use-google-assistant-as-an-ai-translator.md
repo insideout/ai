@@ -3,9 +3,9 @@ category: news
 title: "American Airlines will use Google Assistant as an AI translator"
 excerpt: "Interpreter Mode can currently translate 29 different languages in real-time; those languages are the following: Arabic, French, German, Japanese, Russian, Spanish, and Vietnamese. Engadget has also said that according to American Airlines Interpreter Mode will only be used if a multilingual team member isn't present to assist travelers."
 publishedDateTime: 2020-01-08T19:50:00Z
-sourceUrl: https://www.tweaktown.com/news/69836/american-airlines-use-google-assistant-ai-translator/index.html
-ampUrl: https://www.tweaktown.com/news/69836/american-airlines-use-google-assistant-ai-translator/amp.html
-cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/69836/american-airlines-use-google-assistant-ai-translator/amp.html
+webUrl: https://www.tweaktown.com/news/69836/american-airlines-use-google-assistant-ai-translator/index.html
+ampWebUrl: https://www.tweaktown.com/news/69836/american-airlines-use-google-assistant-ai-translator/amp.html
+cdnAmpWebUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/69836/american-airlines-use-google-assistant-ai-translator/amp.html
 type: article
 quality: 59
 heat: 59

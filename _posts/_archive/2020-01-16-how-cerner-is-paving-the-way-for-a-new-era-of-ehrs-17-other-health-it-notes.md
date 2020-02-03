@@ -3,7 +3,7 @@ category: news
 title: "How Cerner is paving the way for a new era of EHRs & 17 other health IT notes"
 excerpt: "5. A vulnerability in Microsoft's Windows 10 operating system could allow cybercriminals to breach or spy on computer networks if exploited. 6. Cerner CEO Brent Shafer said the EHR vendor will continue to transform its business strategy in 2020 by redefining its client experience and cementing its position as part of the new cognitive era in ..."
 publishedDateTime: 2020-01-16T17:58:00Z
-sourceUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/how-cerner-is-paving-the-way-for-a-new-era-of-ehrs-17-other-health-it-notes.html"
+webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/how-cerner-is-paving-the-way-for-a-new-era-of-ehrs-17-other-health-it-notes.html"
 type: article
 quality: 21
 heat: 21

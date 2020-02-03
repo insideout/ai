@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning: Classification"
 excerpt: "Learn Machine Learning: Classification from University of Washington. Case Studies: Analyzing Sentiment & Loan Default Prediction  In our case study on analyzing sentiment, you will create models that predict a class (positive/negative sentiment) ..."
-sourceUrl: https://www.coursera.org/learn/ml-classification
+webUrl: https://www.coursera.org/learn/ml-classification
 type: course
 price: Free+
 length: 42 hours

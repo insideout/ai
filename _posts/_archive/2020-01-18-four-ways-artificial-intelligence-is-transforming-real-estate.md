@@ -3,9 +3,9 @@ category: news
 title: "Four Ways Artificial Intelligence is Transforming Real Estate"
 excerpt: "It's not uncommon to use tech when buying or selling real estate, but according to many A.I. developers, we've only just scratched the surface. Paul Armstrong, CEO of Here|Forth, explains how A.I. will make buying and selling real estate smoother than ever before."
 publishedDateTime: 2020-01-18T05:01:00Z
-sourceUrl: "https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate"
-ampUrl: "https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp"
-cdnAmpUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp"
+webUrl: "https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate"
+ampWebUrl: "https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp"
+cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp"
 type: article
 quality: 57
 heat: 57

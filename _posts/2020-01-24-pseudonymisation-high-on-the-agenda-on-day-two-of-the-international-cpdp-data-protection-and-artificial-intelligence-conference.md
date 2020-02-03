@@ -3,7 +3,7 @@ category: news
 title: "Pseudonymisation high on the agenda on day two of the International CPDP Data Protection and Artificial Intelligence Conference"
 excerpt: "/PRNewswire/ -- An industry led discussion on the implementation of pseudonymisation as a technological safeguard alongside data protection legislation was"
 publishedDateTime: 2020-01-24T06:00:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/pseudonymisation-high-on-the-agenda-on-day-two-of-the-international-cpdp-data-protection-and-artificial-intelligence-conference-300992653.html"
+webUrl: "https://www.prnewswire.com/news-releases/pseudonymisation-high-on-the-agenda-on-day-two-of-the-international-cpdp-data-protection-and-artificial-intelligence-conference-300992653.html"
 type: article
 quality: 9
 heat: -1
@@ -26,9 +26,9 @@ related:
   - title: "Bahrain, Karnataka sign pact on cooperation in fintech, AI, cyber security"
     excerpt: "The Bahrain Economic Development Board (EDB) and Karnataka government on Thursday signed a pact to promote cooperation in AI, fintech and other emerging technologies. The Kingdom's investment promotion agency signed the memorandum of understanding (MoU) with the Department of Information Technology; Biotechnology; and Science & Technology of ..."
     publishedDateTime: 2020-01-24T03:34:00Z
-    sourceUrl: "https://www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-on-cooperation-in-fintech-ai-cyber-security-4853121.html"
-    ampUrl: "https://www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-on-cooperation-in-fintech-ai-cyber-security-4853121.html/amp"
-    cdnAmpUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-on-cooperation-in-fintech-ai-cyber-security-4853121.html/amp"
+    webUrl: "https://www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-on-cooperation-in-fintech-ai-cyber-security-4853121.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-on-cooperation-in-fintech-ai-cyber-security-4853121.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-on-cooperation-in-fintech-ai-cyber-security-4853121.html/amp"
     type: article
     provider:
       name: moneycontrol.com
@@ -41,7 +41,7 @@ related:
   - title: "Bahrain and Karnataka sign Memorandum of Understanding promoting cooperation in Fintech, AI, IoT and cyber-security"
     excerpt: "Build robust FinTech, Artificial Intelligence (AI), Internet of Things (IoT) and Cybersecurity ecosystems where startups and technology firms engage in external partnerships with corporates ..."
     publishedDateTime: 2020-01-24T11:26:00Z
-    sourceUrl: "https://news.webindia123.com/news/Articles/Business/20200124/3494590.html"
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20200124/3494590.html"
     type: article
     provider:
       name: Webindia 123

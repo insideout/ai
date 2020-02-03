@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence: Disrupting the Energy Sector for the Better"
 excerpt: "Artificial intelligence (AI) is quickly finding its way into every industry and sector. Today’s supercomputing semiconductor chips can execute thousands of calculations at once. And they do it at speeds of billions of times per second. This means energy, engineering, finance, healthcare, manufacturing, telecommunications and transportation ..."
 publishedDateTime: 2020-01-16T00:44:00Z
-sourceUrl: "https://investmentu.com/artificial-intelligence-disrupting-energy-sector/"
+webUrl: "https://investmentu.com/artificial-intelligence-disrupting-energy-sector/"
 type: article
 quality: 39
 heat: 39

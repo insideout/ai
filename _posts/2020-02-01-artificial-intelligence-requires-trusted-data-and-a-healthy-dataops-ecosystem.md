@@ -3,9 +3,9 @@ category: news
 title: "Artificial intelligence requires trusted data, and a healthy DataOps ecosystem"
 excerpt: "Such an uninhibited data flow is increasingly vital to enterprises seeking to become more data-driven and scale artificial intelligence and machine learning to the point where these technologies can have strategic impact. Awareness of DataOps is high. A recent survey of 300 companies by 451 Research finds 72 percent have active DataOps ..."
 publishedDateTime: 2020-02-01T16:50:00Z
-sourceUrl: "https://www.zdnet.com/article/artificial-intelligence-requires-trusted-data-and-a-healthy-dataops-ecosystem/"
-ampUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-requires-trusted-data-and-a-healthy-dataops-ecosystem/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-requires-trusted-data-and-a-healthy-dataops-ecosystem/"
+webUrl: "https://www.zdnet.com/article/artificial-intelligence-requires-trusted-data-and-a-healthy-dataops-ecosystem/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-requires-trusted-data-and-a-healthy-dataops-ecosystem/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-requires-trusted-data-and-a-healthy-dataops-ecosystem/"
 type: article
 quality: 63
 heat: 63

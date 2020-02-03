@@ -3,9 +3,9 @@ category: news
 title: "Regulators Begin to Accept Machine Learning to Improve AML but There Are Major Issues"
 excerpt: "This wide-ranging article identifies how regulators have slowly opened up to accept the use of machine learning models as a method of detecting AML activity, yet they remain concerned regarding the models’ lack of transparency. It reviews public comments made by key regulators regarding technology and the need to maintain balance between ..."
 publishedDateTime: 2020-01-27T18:03:00Z
-sourceUrl: "https://www.paymentsjournal.com/regulators-begin-to-accept-machine-learning-to-improve-aml-but-there-are-major-issues/"
-ampUrl: "https://www.paymentsjournal.com/regulators-begin-to-accept-machine-learning-to-improve-aml-but-there-are-major-issues/amp/"
-cdnAmpUrl: "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/regulators-begin-to-accept-machine-learning-to-improve-aml-but-there-are-major-issues/amp/"
+webUrl: "https://www.paymentsjournal.com/regulators-begin-to-accept-machine-learning-to-improve-aml-but-there-are-major-issues/"
+ampWebUrl: "https://www.paymentsjournal.com/regulators-begin-to-accept-machine-learning-to-improve-aml-but-there-are-major-issues/amp/"
+cdnAmpWebUrl: "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/regulators-begin-to-accept-machine-learning-to-improve-aml-but-there-are-major-issues/amp/"
 type: article
 quality: 69
 heat: 69

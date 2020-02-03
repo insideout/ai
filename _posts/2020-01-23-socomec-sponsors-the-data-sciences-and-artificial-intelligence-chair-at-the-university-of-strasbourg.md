@@ -3,7 +3,7 @@ category: news
 title: "Socomec Sponsors the 'Data Sciences and Artificial Intelligence' Chair At The University of Strasbourg"
 excerpt: "NewswireToday - /newswire/ - Benfeld, Bas-Rhin, France, 2020/01/23 - With sponsorship from Socomecand other Alsatian companies, the Télécom Physique Strasbourg school has recruited Thomas Lampert, an internationally-renowned researcher, for its new chair in \"Data Sciences and Artificial Intelligence\" - UniStra.fr / SOCOMEC. Socomec has made a ..."
 publishedDateTime: 2020-01-23T21:15:00Z
-sourceUrl: "https://www.newswiretoday.com/news/172197/Socomec-Sponsors-the-Data-Sciences-and-Artificial-Intelligence-Chair-At-The-University-of-Strasbourg/"
+webUrl: "https://www.newswiretoday.com/news/172197/Socomec-Sponsors-the-Data-Sciences-and-Artificial-Intelligence-Chair-At-The-University-of-Strasbourg/"
 type: article
 quality: 16
 heat: 16

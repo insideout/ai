@@ -3,9 +3,9 @@ category: news
 title: "Creative storytelling with subtitles: Is artificial intelligence up for the task"
 excerpt: "So, does it mean the world of subtitling will remain human-driven even with the advent of AI? It certainly will not, as machines start learning the nuances and growing intelligence. There are many areas where automation can help reduce manual effort and increase speed right away. Examples include time-code shifting, workflows for Quality Check ..."
 publishedDateTime: 2020-01-19T08:24:00Z
-sourceUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/creative-storytelling-with-subtitles-is-artificial-intelligence-up-for-the-task/73373836"
-ampUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/creative-storytelling-with-subtitles-is-artificial-intelligence-up-for-the-task/73373836"
-cdnAmpUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/creative-storytelling-with-subtitles-is-artificial-intelligence-up-for-the-task/73373836"
+webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/creative-storytelling-with-subtitles-is-artificial-intelligence-up-for-the-task/73373836"
+ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/creative-storytelling-with-subtitles-is-artificial-intelligence-up-for-the-task/73373836"
+cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/creative-storytelling-with-subtitles-is-artificial-intelligence-up-for-the-task/73373836"
 type: article
 quality: 32
 heat: 32

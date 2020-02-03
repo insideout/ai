@@ -3,7 +3,7 @@ category: news
 title: "Business Challenge 2020: Keeping Pace with the Rising Expectations for Artificial Intelligence"
 excerpt: "NEW YORK, Jan. 16, 2020 /PRNewswire/ -- In the next decade, artificial intelligence (AI ... noticeable differences in the pace of AI adoption across five industries (healthcare, financial services, transportation, technology and retail)."
 publishedDateTime: 2020-01-16T14:32:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/2020/01/16/9082753.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2020/01/16/9082753.htm"
 type: article
 quality: 27
 heat: 27

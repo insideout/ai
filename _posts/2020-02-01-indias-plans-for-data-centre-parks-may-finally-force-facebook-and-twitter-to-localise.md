@@ -3,9 +3,9 @@ category: news
 title: "India’s plans for data centre parks may finally force Facebook and Twitter to localise"
 excerpt: "The proposed policy directly takes on a highly-debated clause in India’s personal data protection bill, which suggests that data collected by foreign companies such as Facebook, TikTok ... for tech advancements by setting up a national portal for artificial intelligence (AI) research and development. “We appreciate the government’s ..."
 publishedDateTime: 2020-02-01T10:02:00Z
-sourceUrl: "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/"
-ampUrl: "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/"
-cdnAmpUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/"
+webUrl: "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/"
+ampWebUrl: "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/"
+cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/"
 type: article
 quality: 66
 heat: 67

@@ -3,7 +3,7 @@ category: news
 title: "Anomaly Detection: When Old Statistics School May Still Beat Super-Duper Machine Learning"
 excerpt: "One of the most suprising results of the \"Machine Learning for Jets\" (but really, for particle physics in general) workshop I attended in New York City two weeks ago was the outcome of a challenge that the organizers had proposed to the participants ..."
 publishedDateTime: 2020-01-26T00:00:00Z
-sourceUrl: "https://www.science20.com/tommaso_dorigo/anomaly_detection_when_old_statistics_school_may_still_beat_superduper_machine_learning-244714"
+webUrl: "https://www.science20.com/tommaso_dorigo/anomaly_detection_when_old_statistics_school_may_still_beat_superduper_machine_learning-244714"
 type: article
 quality: 30
 heat: 30

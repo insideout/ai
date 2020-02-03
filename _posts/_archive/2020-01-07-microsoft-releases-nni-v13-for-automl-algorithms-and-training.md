@@ -3,7 +3,7 @@ category: news
 title: "Microsoft Releases NNI V1.3 for AutoML Algorithms and Training"
 excerpt: "Automated machine learning (AutoML) aims to change that — making it easier to build and use ML models by running systematic processes on raw data and selecting models that pull the most relevant ..."
 publishedDateTime: 2020-01-07T15:55:00Z
-sourceUrl: "https://medium.com/syncedreview/microsoft-releases-nni-v1-3-for-automl-algorithms-and-training-9f6eb57476e0"
+webUrl: "https://medium.com/syncedreview/microsoft-releases-nni-v1-3-for-automl-algorithms-and-training-9f6eb57476e0"
 type: article
 quality: 84
 heat: 84

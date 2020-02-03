@@ -3,7 +3,7 @@ category: news
 title: "Temenos Infinity: Giving banks the ability to create AI-driven customer experiences"
 excerpt: "Smart AI-driven credit scoring of the applications with full explainability of the decisions ... Temenos Infinity is available on premise, as a SaaS offering, or in the cloud via Microsoft Azure, AWS and Google Cloud. Temenos Infinity can be deployed alongside any core banking system or pre-integrated with Temenos T24 Transact, the market ..."
 publishedDateTime: 2020-01-15T13:35:00Z
-sourceUrl: "https://www.helpnetsecurity.com/2020/01/15/temenos-infinity/"
+webUrl: "https://www.helpnetsecurity.com/2020/01/15/temenos-infinity/"
 type: article
 quality: 33
 heat: 33

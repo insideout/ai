@@ -3,7 +3,7 @@ category: news
 title: "ING spins out bond analytics fintech Katana"
 excerpt: "In the past few years, Katana managed to grow from an internal innovation project to a serious value proposition for bond investors. We attracted major clients who see the added value of this super smart AI-tool. I’m proud that with our support Katana grew out to a fully-grown fintech that is ready for an independent future.\""
 publishedDateTime: 2020-01-07T10:05:00Z
-sourceUrl: https://www.finextra.com/newsarticle/35018/ing-spins-out-bond-analytics-fintech-katana
+webUrl: https://www.finextra.com/newsarticle/35018/ing-spins-out-bond-analytics-fintech-katana
 type: article
 quality: 24
 heat: 24

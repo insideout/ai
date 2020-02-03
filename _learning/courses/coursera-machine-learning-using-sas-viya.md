@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Using SAS Viya"
 excerpt: "Learn Machine Learning Using SAS Viya from SAS. This course covers the theoretical foundation for different techniques associated with supervised machine learning models. In addition, a business case study is defined to guide participants through ..."
-sourceUrl: https://www.coursera.org/learn/machine-learning-sas
+webUrl: https://www.coursera.org/learn/machine-learning-sas
 type: course
 price: Free+
 length: 24 hours

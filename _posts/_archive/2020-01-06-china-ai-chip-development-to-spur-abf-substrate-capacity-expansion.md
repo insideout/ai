@@ -3,7 +3,7 @@ category: news
 title: "China AI chip development to spur ABF substrate capacity expansion"
 excerpt: "Taiwan IC substrate makers will have no time to lose in expanding their ABF substrate capacities as demand for such substrates will grow substantially in 2020 and beyond along with Chinese chipmakers revving up in-house development of high performance..."
 publishedDateTime: 2020-01-06T06:13:00Z
-sourceUrl: https://www.digitimes.com/news/a20200106PD201.html
+webUrl: https://www.digitimes.com/news/a20200106PD201.html
 type: article
 quality: 54
 heat: 54

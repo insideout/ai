@@ -3,9 +3,9 @@ category: news
 title: "How Fractal’s Trial Run uses AWS to power AI-based decision-making"
 excerpt: "Akhil Behl, VP, Artificial Intelligence and Machine Learning at Fractal and Shivendu Mishra ... the need of the hour was a partner who could ensure scalability and flexibility at the same time. When it comes to cloud service, AWS was on the top of their mind due to several reasons, including the fact that more than 90 percent of Fortune ..."
 publishedDateTime: 2020-01-18T03:52:00Z
-sourceUrl: "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making"
-ampUrl: "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp"
-cdnAmpUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp"
+webUrl: "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making"
+ampWebUrl: "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp"
 type: article
 quality: 74
 heat: 74

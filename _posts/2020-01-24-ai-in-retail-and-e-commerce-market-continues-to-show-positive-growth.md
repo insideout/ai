@@ -3,7 +3,7 @@ category: news
 title: "AI in Retail and e-Commerce Market Continues To Show Positive Growth"
 excerpt: "IBM, SAP, AWS, and Microsoft are the key players in the AI in retail and e-commerce market. In 2017, Godrej Interio, a leading furniture brand in India, collaborated with IBM and selected Watson Commerce for increasing customer engagement and experience. Kroger, one of the America's largest grocery store chain, and Microsoft partnered in ..."
 publishedDateTime: 2020-01-24T06:43:00Z
-sourceUrl: "https://www.openpr.com/news/1907036/ai-in-retail-and-e-commerce-market-continues-to-show-positive"
+webUrl: "https://www.openpr.com/news/1907036/ai-in-retail-and-e-commerce-market-continues-to-show-positive"
 type: article
 quality: 19
 heat: 19

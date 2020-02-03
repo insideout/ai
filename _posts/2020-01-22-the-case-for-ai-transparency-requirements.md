@@ -3,9 +3,9 @@ category: news
 title: "The case for AI transparency requirements"
 excerpt: "As AI technologies quickly and methodically climb out of the uncanny valley ... This is a boon for the applications that benefit society (e.g., automated closed-captioning and language translation), as those efforts stand to gain from the latest technology. It also informs as to why the errors and biases of these models can be so important ..."
 publishedDateTime: 2020-01-22T12:00:00Z
-sourceUrl: "https://www.brookings.edu/research/the-case-for-ai-transparency-requirements/"
-ampUrl: "https://www.brookings.edu/research/the-case-for-ai-transparency-requirements/amp/"
-cdnAmpUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/the-case-for-ai-transparency-requirements/amp/"
+webUrl: "https://www.brookings.edu/research/the-case-for-ai-transparency-requirements/"
+ampWebUrl: "https://www.brookings.edu/research/the-case-for-ai-transparency-requirements/amp/"
+cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/the-case-for-ai-transparency-requirements/amp/"
 type: article
 quality: 59
 heat: 59

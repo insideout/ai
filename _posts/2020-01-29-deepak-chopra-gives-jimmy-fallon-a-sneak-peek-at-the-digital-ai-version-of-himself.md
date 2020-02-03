@@ -3,9 +3,9 @@ category: news
 title: "Deepak Chopra gives Jimmy Fallon a sneak peek at the digital AI version of himself"
 excerpt: "Deepak Chopra's digital AI version of himself is almost in beta, and Jimmy Fallon got to take it for a quick spin. The author, who announced the 'Digital Deepak' project in December, gave Jimmy Fallon a sneak preview on The Tonight Show Tuesday, taking the host, The Roots, and the audience through a very swift meditation (it's only a few seconds)."
 publishedDateTime: 2020-01-29T11:59:00Z
-sourceUrl: "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon/"
-ampUrl: "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp"
-cdnAmpUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp"
+webUrl: "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon/"
+ampWebUrl: "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp"
 type: article
 quality: 81
 heat: 81

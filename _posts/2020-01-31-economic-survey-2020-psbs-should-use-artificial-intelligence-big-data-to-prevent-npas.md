@@ -3,9 +3,9 @@ category: news
 title: "Economic Survey 2020: PSBs should use artificial intelligence, big data to prevent NPAs"
 excerpt: "The Economic Survey 2020 has suggested that public sector banks (PSBs) can use a GTSN (goods and services tax network) type of network using big data and artificial intelligence for loan disbursements. This system has been advised as a mechanism to prevent defaults by large borrowers. Non-performing assets have been a cause of concern in the ..."
 publishedDateTime: 2020-01-31T10:00:00Z
-sourceUrl: "https://www.moneycontrol.com/news/business/economy/economic-survey-2020-psbs-should-use-artificial-intelligence-big-data-to-prevent-npas-4887361.html"
-ampUrl: "https://www.moneycontrol.com/news/business/economy/economic-survey-2020-psbs-should-use-artificial-intelligence-big-data-to-prevent-npas-4887361.html/amp"
-cdnAmpUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/economy/economic-survey-2020-psbs-should-use-artificial-intelligence-big-data-to-prevent-npas-4887361.html/amp"
+webUrl: "https://www.moneycontrol.com/news/business/economy/economic-survey-2020-psbs-should-use-artificial-intelligence-big-data-to-prevent-npas-4887361.html"
+ampWebUrl: "https://www.moneycontrol.com/news/business/economy/economic-survey-2020-psbs-should-use-artificial-intelligence-big-data-to-prevent-npas-4887361.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/economy/economic-survey-2020-psbs-should-use-artificial-intelligence-big-data-to-prevent-npas-4887361.html/amp"
 type: article
 quality: 49
 heat: 49

@@ -1,7 +1,7 @@
 ---
 title: "A Crash Course in Data Science"
 excerpt: "Learn A Crash Course in Data Science from Johns Hopkins University. By now you have definitely heard about data science and big data. In this one-week class, we will provide a crash course in what these terms mean and how they play a role in ..."
-sourceUrl: https://www.coursera.org/learn/data-science-course
+webUrl: https://www.coursera.org/learn/data-science-course
 type: course
 price: Free+
 length: 5 hours

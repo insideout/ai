@@ -3,7 +3,7 @@ category: news
 title: "The Road to Artificial Intelligence: An Ethical Minefield"
 excerpt: "Increasingly-rapid developments in the field of AI have offered society profound benefits but also produced complex ethical dilemmas. Many of the most nefarious issues are often overlooked, even in the engineering community. There also exists the meta-ethical question of who ought to be the ones making decisions concerning the encoding of ..."
 publishedDateTime: 2020-01-26T11:49:00Z
-sourceUrl: "https://www.infoq.com/articles/algorithmic-integrity-ethics/"
+webUrl: "https://www.infoq.com/articles/algorithmic-integrity-ethics/"
 type: article
 quality: 54
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "The Ethical Upside to Artificial Intelligence"
     excerpt: "According to some, artificial intelligence (AI) is the new electricity. Like electricity, AI will transform every major industry and open new opportunities that were never possible. However, unlike electricity, the ethics surrounding the development and use of AI remain controversial, which is a significant element constraining AI’s full ..."
     publishedDateTime: 2020-01-20T08:54:00Z
-    sourceUrl: "https://warontherocks.com/2020/01/the-ethical-upside-to-artificial-intelligence/"
+    webUrl: "https://warontherocks.com/2020/01/the-ethical-upside-to-artificial-intelligence/"
     type: article
     provider:
       name: War on the Rocks

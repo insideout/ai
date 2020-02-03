@@ -3,7 +3,7 @@ category: news
 title: "Looking to the Future of Knowledge Management: 2020 Insight"
 excerpt: "Knowledge management systems help companies accomplish that goal. Throughout all KM solutions and services, a wave of modern technologies, such as AI, machine learning, natural language processing, and others, are serving to enhance traditional capabilities. “Many consumers have become well-acquainted with AI-powered assistants such as Alexa ..."
 publishedDateTime: 2020-01-21T12:15:00Z
-sourceUrl: "https://www.kmworld.com/Articles/Editorial/Features/Looking-to-the-Future-of-Knowledge-Management-2020-Insight-135756.aspx"
+webUrl: "https://www.kmworld.com/Articles/Editorial/Features/Looking-to-the-Future-of-Knowledge-Management-2020-Insight-135756.aspx"
 type: article
 quality: 24
 heat: 24

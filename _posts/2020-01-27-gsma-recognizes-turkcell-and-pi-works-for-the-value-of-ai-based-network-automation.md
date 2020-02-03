@@ -3,7 +3,7 @@ category: news
 title: "GSMA Recognizes Turkcell and P.I. Works for the Value of AI Based Network Automation"
 excerpt: "P.I. Works and Turkcell have successfully shown that the AI based, service aware network automation delivered stronger improvements as compared to conventional automation solutions. The details of the deployed solutions and their benefits are provided in a joint white paper authored by GSMA, Turkcell and P.I. Works under GSMA’s Future ..."
 publishedDateTime: 2020-01-27T06:00:00Z
-sourceUrl: "https://www.businesswire.com/news/home/20200126005023/en/GSMA-Recognizes-Turkcell-P.I.-Works-AI-Based"
+webUrl: "https://www.businesswire.com/news/home/20200126005023/en/GSMA-Recognizes-Turkcell-P.I.-Works-AI-Based"
 type: article
 quality: 30
 heat: 30

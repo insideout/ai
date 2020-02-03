@@ -3,9 +3,9 @@ category: news
 title: "The Top 10 chatbot companies reviewed"
 excerpt: "They respond to customer queries by offering effective solutions and chatbots have the ability to be programmed with Artificial Intelligence (AI) and Natural Language Processing (NLP) in order to collect vital data and shopping insights. These are used on consequent visits so that they can continue to enhance the customer’s shopping experience."
 publishedDateTime: 2020-01-24T11:26:00Z
-sourceUrl: "https://augustafreepress.com/the-top-10-chatbot-companies-reviewed/"
-ampUrl: "https://augustafreepress.com/the-top-10-chatbot-companies-reviewed/amp/"
-cdnAmpUrl: "https://augustafreepress-com.cdn.ampproject.org/c/s/augustafreepress.com/the-top-10-chatbot-companies-reviewed/amp/"
+webUrl: "https://augustafreepress.com/the-top-10-chatbot-companies-reviewed/"
+ampWebUrl: "https://augustafreepress.com/the-top-10-chatbot-companies-reviewed/amp/"
+cdnAmpWebUrl: "https://augustafreepress-com.cdn.ampproject.org/c/s/augustafreepress.com/the-top-10-chatbot-companies-reviewed/amp/"
 type: article
 quality: 44
 heat: 44

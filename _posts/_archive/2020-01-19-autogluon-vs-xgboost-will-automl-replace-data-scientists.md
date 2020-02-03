@@ -3,7 +3,7 @@ category: news
 title: "AutoGluon vs. XGBoost — Will AutoML Replace Data Scientists?"
 excerpt: "Automatic Machine Learning (AutoML) has become a hot topic in the realm of machine learning recently. Many high-tech companies have introduced their AutoML toolkits to join the battle, including ..."
 publishedDateTime: 2020-01-19T01:40:00Z
-sourceUrl: "https://medium.com/@Askavia/autogluon-vs-xgboost-will-automl-replace-data-scientists-dc1220010102"
+webUrl: "https://medium.com/@Askavia/autogluon-vs-xgboost-will-automl-replace-data-scientists-dc1220010102"
 type: article
 quality: 69
 heat: 69

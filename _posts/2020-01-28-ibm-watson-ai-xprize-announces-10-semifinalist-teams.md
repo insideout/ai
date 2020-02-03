@@ -3,7 +3,7 @@ category: news
 title: "IBM Watson AI XPRIZE announces 10 semifinalist teams"
 excerpt: "The XPRIZE Foundation, which designs and runs competitions to “solve humanity’s grand challenges,” has announced the 10 semifinalist teams advancing in the IBM Watson AI XPRIZE. The four-competition is intended to demonstrate how people can collaborate with artificial intelligence to tackle pressing global problems. Sponsored by IBM ..."
 publishedDateTime: 2020-01-28T14:03:00Z
-sourceUrl: "https://www.therobotreport.com/ibm-watson-ai-xprize-announces-10-semifinalist-teams/"
+webUrl: "https://www.therobotreport.com/ibm-watson-ai-xprize-announces-10-semifinalist-teams/"
 type: article
 quality: 86
 heat: 116
@@ -28,7 +28,7 @@ related:
   - title: "LSU Researchers Enter Semifinals for the $5M IBM Watson AI XPRIZE"
     excerpt: "“Together, we can do more integral science and help each other move this whole project forward.” The IBM Watson AI XPRIZE is a global competition encouraging teams of researchers to develop powerful applications based on artificial intelligence and demonstrate how humans can collaborate with AIs to tackle some of the world’s greatest ..."
     publishedDateTime: 2020-01-29T19:55:00Z
-    sourceUrl: "https://www.hpcwire.com/off-the-wire/lsu-researchers-enter-semifinals-for-the-5m-ibm-watson-ai-xprize/"
+    webUrl: "https://www.hpcwire.com/off-the-wire/lsu-researchers-enter-semifinals-for-the-5m-ibm-watson-ai-xprize/"
     type: article
     provider:
       name: HPCwire
@@ -41,7 +41,7 @@ related:
   - title: "Aifred Health sole Canadian team among 10 semi-finalists of global IBM Watson competition"
     excerpt: "Montreal-based Aifred Health has been named one of the top 10 semi-finalists of the global IBM Watson AI XPrize. The startup is the final Canadian team remaining in the multi-year competition. “We have the chance to show the world what we can do.” “Being in this competition up until this level, and being a team that started with the ..."
     publishedDateTime: 2020-01-27T16:48:00Z
-    sourceUrl: "https://betakit.com/aifred-health-sole-canadian-team-among-10-semi-finalists-of-global-ibm-watson-competition/"
+    webUrl: "https://betakit.com/aifred-health-sole-canadian-team-among-10-semi-finalists-of-global-ibm-watson-competition/"
     type: article
     provider:
       name: BetaKit
@@ -54,7 +54,7 @@ related:
   - title: "SalesChoice Announces IBM Business Partner Relationship With IBM Watson Analytics for Relationship Analytic Integration"
     excerpt: "TORONTO, Ontario, Canada– As the leader in AI Predictive Sales and Marketing Cloud Solutions, SalesChoice Inc. is pleased to announce SalesChoice is an official IBM Business Partner and has integrated IBM Watson Analytics into SalesChoice’s AI Insight Application and SalesForce App Exchange Offerings to enable Relationship Analytics to ..."
     publishedDateTime: 2020-01-22T17:38:00Z
-    sourceUrl: "https://www.itbusiness.ca/press-release/saleschoice-announces-ibm-business-partner-relationship-with-ibm-watson-analytics-for-relationship-analytic-integration"
+    webUrl: "https://www.itbusiness.ca/press-release/saleschoice-announces-ibm-business-partner-relationship-with-ibm-watson-analytics-for-relationship-analytic-integration"
     type: article
     provider:
       name: IT Business

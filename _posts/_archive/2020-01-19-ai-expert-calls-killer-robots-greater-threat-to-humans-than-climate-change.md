@@ -3,7 +3,7 @@ category: news
 title: "AI Expert Calls 'killer Robots' Greater Threat To Humans Than Climate Change"
 excerpt: "An AI expert said that ‘killer robots’ will become a bigger threat to humans than the impending climate change and called for the need for a 'Greta Thunberg'. An Artificial Intelligence expert has claimed that ‘killer robots’ will become a greater threat to humans than the impending climate change. Referring to the teenage Swedish ..."
 publishedDateTime: 2020-01-19T09:30:00Z
-sourceUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/ai-expert-calls-killer-robots-greater-threat-to-humans-than-climate.html"
+webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/ai-expert-calls-killer-robots-greater-threat-to-humans-than-climate.html"
 type: article
 quality: 51
 heat: 51

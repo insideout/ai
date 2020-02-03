@@ -3,7 +3,7 @@ category: news
 title: "Open-source library provides explanation for machine learning through diverse counterfactuals"
 excerpt: "Consider a person who applies for a loan with a financial company, but their application is rejected by a machine learning algorithm used to determine who receives a loan from the company. How would you explain the decision made by the algorithm to this ..."
 publishedDateTime: 2020-01-28T20:55:00Z
-sourceUrl: "https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/"
+webUrl: "https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/"
 type: article
 quality: 28
 heat: 28

@@ -3,7 +3,7 @@ category: news
 title: "Is The Cloud Strategy Delivering For IBM?"
 excerpt: "Workday is committed to using Red Hat and IBM Cloud as a key component of its delivery infrastructure, and Box will use Red Hat to power its IT infrastructure and Watson as its preferred AI provider for intelligent business processes. Additionally, IBM and Box are working together to deliver joint solutions for governance, security, and AI ..."
 publishedDateTime: 2020-01-27T10:11:00Z
-sourceUrl: "https://seekingalpha.com/article/4319168-is-cloud-strategy-delivering-for-ibm"
+webUrl: "https://seekingalpha.com/article/4319168-is-cloud-strategy-delivering-for-ibm"
 type: article
 quality: 24
 heat: 24

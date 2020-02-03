@@ -3,7 +3,7 @@ category: news
 title: "Google researchers release audit framework to close AI accountability gap"
 excerpt: "The framework, intended to add a layer of quality assurance to businesses launching AI, translates into practice values often espoused in AI ethics principles and tackles an accountability gap authors say exists in corporate AI today. The work, titled “Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal ..."
 publishedDateTime: 2020-01-30T15:20:00Z
-sourceUrl: "https://venturebeat.com/2020/01/30/google-researchers-release-audit-framework-to-close-ai-accountability-gap/"
+webUrl: "https://venturebeat.com/2020/01/30/google-researchers-release-audit-framework-to-close-ai-accountability-gap/"
 type: article
 quality: 48
 heat: 48

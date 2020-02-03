@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence (AI) in Healthcare Market Size Hiting with 49.7% CAGR in Forecast 2019 to 2027"
 excerpt: "According to Acumen Research and Consulting, the worldwide Artificial Intelligence (AI) in Healthcare market expected to surpass USD 40.2 billion by 2026, increasing at a CAGR of 49.7% between 2019 and 2026."
 publishedDateTime: 2020-01-21T06:56:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-hiting-with-497-cagr-in-forecast-2019-to-2027-2020-01-21"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-hiting-with-497-cagr-in-forecast-2019-to-2027-2020-01-21"
 type: article
 quality: 83
 heat: -1
@@ -31,7 +31,7 @@ related:
   - title: "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025"
     excerpt: "Why is Artificial Intelligence disrupting the healthcare ... From life coaching to cognitive behavioural therapy to faith-based healing, therapy bots support users’ mental health and help ..."
     publishedDateTime: 2020-01-16T08:13:00Z
-    sourceUrl: "https://medium.com/@brand_minds/artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-36-1-billion-by-2025-1e2f70b0ca1?source=---------2------------------"
+    webUrl: "https://medium.com/@brand_minds/artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-36-1-billion-by-2025-1e2f70b0ca1?source=---------2------------------"
     type: article
     provider:
       name: Medium

@@ -3,7 +3,7 @@ category: news
 title: "PROTXX Launches Collaboration with Alberta Healthcare and Machine Learning Innovation Ecosystems"
 excerpt: "/PRNewswire/ -- Silicon Valley-based digital healthcare technology pioneer PROTXX, Inc. today announced a broad collaboration with Alberta-based"
 publishedDateTime: 2020-01-14T12:00:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/protxx-launches-collaboration-with-alberta-healthcare-and-machine-learning-innovation-ecosystems-300985235.html"
+webUrl: "https://www.prnewswire.com/news-releases/protxx-launches-collaboration-with-alberta-healthcare-and-machine-learning-innovation-ecosystems-300985235.html"
 type: article
 quality: 26
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "AI For Good Starts With Collaboration"
     excerpt: "In the age of innovation, we are focused on technologies such as artificial intelligence, virtual reality, augmented reality, and more. Often the application of these technologies comes as an afterthought once the technology has been developed."
     publishedDateTime: 2020-01-16T10:53:00Z
-    sourceUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/"
-    ampUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/"
-    cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/"
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/"
     type: article
     provider:
       name: Forbes
@@ -42,7 +42,7 @@ related:
   - title: "ITRI uses AI to train collaborative robots"
     excerpt: "Computational Intelligence Technology Center under government-sponsored Industrial Technology Research Institute (ITRI) has developed an AI-based deep learning solution for use in training ... Besides, tactile sensing is applied to training of robotic arms. Mechavision, a startup business spun off from ITRI in 2017, has cooperated with Japan ..."
     publishedDateTime: 2020-01-21T08:06:00Z
-    sourceUrl: "https://www.digitimes.com/news/a20200121PD212.html"
+    webUrl: "https://www.digitimes.com/news/a20200121PD212.html"
     type: article
     provider:
       name: Digi Times
@@ -55,7 +55,7 @@ related:
   - title: "Socionext Collaborates with Foxconn to Deliver Edge-AI Solutions for Retail, Manufacturing"
     excerpt: "It also supports the mainstream Caffe and TensorFlow AI development frameworks, so no additional learning time is required. In order to support additional computational off-loading of real-time ..."
     publishedDateTime: 2020-01-14T00:00:00Z
-    sourceUrl: "https://www.cxotoday.com/press-release/socionext-collaborates-with-foxconn-and-network-optix-to-deliver-intelligent-and-scalable-edge-ai-solutions-for-retail-and-manufacturing-markets/"
+    webUrl: "https://www.cxotoday.com/press-release/socionext-collaborates-with-foxconn-and-network-optix-to-deliver-intelligent-and-scalable-edge-ai-solutions-for-retail-and-manufacturing-markets/"
     type: article
     provider:
       name: CXO Today

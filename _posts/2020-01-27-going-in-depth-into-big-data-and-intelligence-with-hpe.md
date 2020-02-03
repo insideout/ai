@@ -3,7 +3,7 @@ category: news
 title: "Going in depth into big data and intelligence with HPE"
 excerpt: "Add some strategic acquisitions, such as BlueData and MapR, and the company is poised to capitalize on the new super powers of big data, artificial intelligence, and, of course, cloud computing. “It’s part of an entire workflow,” stated Patrick Osborne (pictured), vice president and general manager of big data, analytics and scale-out ..."
 publishedDateTime: 2020-01-27T23:33:00Z
-sourceUrl: "https://siliconangle.com/2020/01/27/going-in-depth-into-big-data-and-intelligence-with-hpe-cubeconversations/"
+webUrl: "https://siliconangle.com/2020/01/27/going-in-depth-into-big-data-and-intelligence-with-hpe-cubeconversations/"
 type: article
 quality: 22
 heat: -1
@@ -26,7 +26,7 @@ related:
   - title: "Fueling intelligent energy with IoT"
     excerpt: "At Microsoft, building a future that we can all thrive in is at the center of everything we do. On January 16, as part of the announcement that Microsoft will be carbon negative by 2030, we discussed how advances in human prosperity, as measured by GDP growth, are inextricably tied to the use of energy."
     publishedDateTime: 2020-01-27T08:00:19Z
-    sourceUrl: "https://azure.microsoft.com/blog/fueling-intelligent-energy-with-iot/"
+    webUrl: "https://azure.microsoft.com/blog/fueling-intelligent-energy-with-iot/"
     type: article
     provider:
       name: Microsoft
@@ -39,9 +39,9 @@ related:
   - title: "5G is fueling \"Intelligence of Things\" - Choice IoT Says Controlling Data Costs will be Essential"
     excerpt: "SYOSSET, N.Y., Jan. 27, 2020 /PRNewswire-PRWeb/ -- As industries worldwide spend billions to expand 5G networks and operate in the \"Intelligence of Things\" (the place in technology ... some form of coast-to-coast 5G coverage by the end of 2020. Sadana listed healthcare, hospitality, and transportation as a few of the many industries that ..."
     publishedDateTime: 2020-01-27T12:00:00Z
-    sourceUrl: "https://markets.businessinsider.com/news/stocks/5g-is-fueling-intelligence-of-things-choice-iot-says-controlling-data-costs-will-be-essential-1028846401"
-    ampUrl: "https://markets.businessinsider.com/amp/news/5g-is-fueling-intelligence-of-things-choice-iot-says-controlling-data-costs-will-be-essential-1028846401"
-    cdnAmpUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5g-is-fueling-intelligence-of-things-choice-iot-says-controlling-data-costs-will-be-essential-1028846401"
+    webUrl: "https://markets.businessinsider.com/news/stocks/5g-is-fueling-intelligence-of-things-choice-iot-says-controlling-data-costs-will-be-essential-1028846401"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/5g-is-fueling-intelligence-of-things-choice-iot-says-controlling-data-costs-will-be-essential-1028846401"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5g-is-fueling-intelligence-of-things-choice-iot-says-controlling-data-costs-will-be-essential-1028846401"
     type: article
     provider:
       name: Business Insider
@@ -50,7 +50,7 @@ related:
   - title: "Building AI-boosted Intelligent IP Networks"
     excerpt: "With embedded AI capabilities from the Ascend 310 AI chip, HiSecEngine USG12000 improves the threat detection performance by five times. By leveraging intelligent security event analysis and intelligent security policy optimization technologies, HiSecEngine USG12000 achieves service rollouts in minutes and implements service-driven policy ..."
     publishedDateTime: 2020-01-21T17:57:00Z
-    sourceUrl: "https://www.developingtelecoms.com/telecom-business/featured-articles/9113-building-ai-boosted-intelligent-ip-networks.html"
+    webUrl: "https://www.developingtelecoms.com/telecom-business/featured-articles/9113-building-ai-boosted-intelligent-ip-networks.html"
     type: article
     provider:
       name: developingtelecoms.com
@@ -63,7 +63,7 @@ related:
   - title: "Defense Supply Chain Summit: Leveraging the Intelligent Enterprise"
     excerpt: "machine learning (MI), artificial intelligence (AI), Internet of Things (IoT), security, and application development from 66 Availability Zones (AZs) across 21 geographic regions. Millions of active customers trust AWS—including the fastest-growing startups, largest enterprises, and leading government agencies—to power their infrastructure ..."
     publishedDateTime: 2020-01-30T21:14:00Z
-    sourceUrl: "https://www.govexec.com/feature/defense-supply-chain-summit/"
+    webUrl: "https://www.govexec.com/feature/defense-supply-chain-summit/"
     type: article
     provider:
       name: Government Executive

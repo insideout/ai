@@ -3,7 +3,7 @@ category: news
 title: "Driverless farm machinery may lead to new business model"
 excerpt: "AUSTIN, Texas — As agricultural equipment gains enough “artificial intelligence” to become fully autonomous, it’s likely to change the on-farm role of machinery, experts say. The cost and complexity of owning and maintaining driverless farm machinery may steer agriculture toward a fee-for-service model instead of growers buying ..."
 publishedDateTime: 2020-01-22T18:43:00Z
-sourceUrl: "https://www.capitalpress.com/ag_sectors/research/driverless-farm-machinery-may-lead-to-new-business-model/article_345e9f7c-3cec-11ea-b368-cf7703dd0c58.html"
+webUrl: "https://www.capitalpress.com/ag_sectors/research/driverless-farm-machinery-may-lead-to-new-business-model/article_345e9f7c-3cec-11ea-b368-cf7703dd0c58.html"
 type: article
 quality: 39
 heat: 39

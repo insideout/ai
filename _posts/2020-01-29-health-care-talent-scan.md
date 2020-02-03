@@ -3,7 +3,7 @@ category: news
 title: "Health Care Talent Scan"
 excerpt: "How hospitals are attracting, developing and retaining talent. The impact of artificial intelligence and automation on the health care workforce and HR operations. New staffing opportunities and challenges that come with new care models. Workforce overview: A by-the-numbers look at the state of health care hiring, and how supply and demand vary ..."
 publishedDateTime: 2020-01-29T15:44:00Z
-sourceUrl: "https://www.aha.org/guidesreports/2020-01-28-health-care-talent-scan"
+webUrl: "https://www.aha.org/guidesreports/2020-01-28-health-care-talent-scan"
 type: article
 quality: 4
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "Change Healthcare touts attachment capability"
     excerpt: "Change Healthcare estimates the increased provider efficiency, reduced errors and administrative improvements that will come about as a result of broader electronic claims use is over $200 million nationwide. The new solution also applies artificial intelligence to automate medical documentation review for risk adjustment and payment integrity ..."
     publishedDateTime: 2020-01-22T20:26:00Z
-    sourceUrl: "https://www.mcknights.com/news/products/change-healthcare-touts-attachment-capability/"
+    webUrl: "https://www.mcknights.com/news/products/change-healthcare-touts-attachment-capability/"
     type: article
     provider:
       name: McKnight's Long-Term Care News

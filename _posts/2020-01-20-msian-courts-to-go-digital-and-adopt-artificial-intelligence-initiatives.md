@@ -3,7 +3,7 @@ category: news
 title: "M'sian courts to go digital and adopt artificial intelligence initiatives"
 excerpt: "KUALA LUMPUR (Bernama): The country's courts are not only going digital but are also adopting artificial intelligence (AI) initiatives to ensure easy access to justice. Minister in the Prime Minister's Department Datuk Liew Vui Keong said the government was already pursuing an array of AI initiatives in digitalising the courts. This includes ..."
 publishedDateTime: 2020-01-20T14:57:00Z
-sourceUrl: "https://www.thestar.com.my/news/nation/2020/01/20/m039sian-courts-to-go-digital-and-adopt-artificial-intelligence-initiatives"
+webUrl: "https://www.thestar.com.my/news/nation/2020/01/20/m039sian-courts-to-go-digital-and-adopt-artificial-intelligence-initiatives"
 type: article
 quality: 36
 heat: 36

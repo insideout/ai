@@ -1,7 +1,7 @@
 ---
 title: "Designing and Implementing Solutions Using Google Machine Learning APIs"
 excerpt: "Most organizations wish to harness the power of machine learning (ML) to improve their products, but they may not always have the expertise available in-house. This course shows you how to harness the power of ML for use cases using API calls."
-sourceUrl: https://www.pluralsight.com/courses/google-machine-learning-apis-designing-implementing-solutions
+webUrl: https://www.pluralsight.com/courses/google-machine-learning-apis-designing-implementing-solutions
 type: course
 price: $$
 length: 1h 37m

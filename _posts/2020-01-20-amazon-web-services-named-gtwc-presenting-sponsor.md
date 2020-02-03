@@ -3,7 +3,7 @@ category: news
 title: "Amazon Web Services Named GTWC Presenting Sponsor"
 excerpt: "As part of the agreement, AWS has become the official cloud and machine learning provider for GT World Challenge. This will allow SRO to leverage the firm’s extensive suite of innovative cloud services, as well as its artificial Intelligence (AI) and machine learning (ML) capabilities, to provide an enhanced experience for teams, drivers ..."
 publishedDateTime: 2020-01-20T15:27:00Z
-sourceUrl: "https://sportscar365.com/sro/world-challenge-europe/amazon-web-services-named-gtwc-presenting-sponsor/"
+webUrl: "https://sportscar365.com/sro/world-challenge-europe/amazon-web-services-named-gtwc-presenting-sponsor/"
 type: article
 quality: 39
 heat: 39

@@ -3,7 +3,7 @@ category: news
 title: "Accenture’s FinTech Innovation Lab London includes 50% more female founders for 2020 cohort"
 excerpt: "Despite global investment in fintech dropping in 2019 ... wealth-management platforms, synthetic data, uses of AI, deep learning and more, working to solve a myriad of business and societal problems. The fintechs selected to participate in the 2020 ..."
 publishedDateTime: 2020-01-06T11:04:00Z
-sourceUrl: https://www.finextra.com/pressarticle/81039/accentures-fintech-innovation-lab-london-includes-50-more-female-founders-for-2020-cohort
+webUrl: https://www.finextra.com/pressarticle/81039/accentures-fintech-innovation-lab-london-includes-50-more-female-founders-for-2020-cohort
 type: article
 quality: 14
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "Accenture has revealed the eighth cohort of its FinTech Innovation Lab London"
     excerpt: "Accenture has welcomed the eighth cohort of its FinTech Innovation Lab London, but not every participant will be successful in the competitive space."
     publishedDateTime: 2020-01-07T14:30:00Z
-    sourceUrl: https://www.businessinsider.com/accenture-revealed-latest-cohort-of-its-fintech-accelerator-2020-1
+    webUrl: https://www.businessinsider.com/accenture-revealed-latest-cohort-of-its-fintech-accelerator-2020-1
     type: article
     provider:
       name: Business Insider

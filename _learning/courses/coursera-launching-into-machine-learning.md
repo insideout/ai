@@ -1,7 +1,7 @@
 ---
 title: "Launching into Machine Learning"
 excerpt: "Learn Launching into Machine Learning from Google Cloud. Starting from a history of machine learning, we discuss why neural networks today perform so well in a variety of data science problems. We then discuss how to set up a supervised learning ..."
-sourceUrl: https://www.coursera.org/learn/launching-machine-learning
+webUrl: https://www.coursera.org/learn/launching-machine-learning
 type: course
 price: Free+
 length: 7 hours

@@ -3,7 +3,7 @@ category: news
 title: "State CIOs: Achieving the promise of artificial intelligence"
 excerpt: "Based on responses from 45 states, “Delivering on Digital Government: Achieving the Promise of Artificial Intelligence,” shows that state CIOs are taking an eyes-open approach toward AI and organizational, cultural, ethical and technological concerns. Topping the list of challenges is the need to overcome the restrictions of legacy IT ..."
 publishedDateTime: 2020-01-29T15:51:00Z
-sourceUrl: "https://www.techwire.net/sponsored/state-cios-achieving-the-promise-of-artificial-intelligence.html"
+webUrl: "https://www.techwire.net/sponsored/state-cios-achieving-the-promise-of-artificial-intelligence.html"
 type: article
 quality: 19
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "Google AI chief: The promise of multi-modal learning"
     excerpt: "Google's Jeff Dean explains multi-modal learning and why it's the next big challenge for AI researchers. Read more: https://zd.net/2RWOWVq"
     publishedDateTime: 2020-01-30T13:57:00Z
-    sourceUrl: "https://www.zdnet.com/video/google-ai-chief-the-promise-of-multi-modal-learning/"
+    webUrl: "https://www.zdnet.com/video/google-ai-chief-the-promise-of-multi-modal-learning/"
     type: article
     provider:
       name: ZDNet

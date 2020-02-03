@@ -1,7 +1,7 @@
 ---
 title: "Control of Mobile Robots"
 excerpt: "Learn Control of Mobile Robots from Georgia Institute of Technology. Control of Mobile Robots is a course that focuses on the application of modern control theory to the problem of making robots move around in safe and effective ways. The ..."
-sourceUrl: https://www.coursera.org/learn/mobile-robot
+webUrl: https://www.coursera.org/learn/mobile-robot
 type: course
 price: Free+
 length: 21 hours

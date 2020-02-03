@@ -3,9 +3,9 @@ category: news
 title: "Artificial intelligence helps experts forecast icebergs"
 excerpt: "This year will see a relatively low number of icebergs drifting into busy shipping regions in the north-west Atlantic, according to a combination of control systems and artificial intelligence forecasting models developed by experts at the University of Sheffield. A recently published control systems model has been used to predict that between ..."
 publishedDateTime: 2020-01-28T14:26:00Z
-sourceUrl: "https://phys.org/news/2020-01-artificial-intelligence-experts-icebergs.html"
-ampUrl: "https://phys.org/news/2020-01-artificial-intelligence-experts-icebergs.amp"
-cdnAmpUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-artificial-intelligence-experts-icebergs.amp"
+webUrl: "https://phys.org/news/2020-01-artificial-intelligence-experts-icebergs.html"
+ampWebUrl: "https://phys.org/news/2020-01-artificial-intelligence-experts-icebergs.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-artificial-intelligence-experts-icebergs.amp"
 type: article
 quality: 37
 heat: 37

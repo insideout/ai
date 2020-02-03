@@ -3,9 +3,9 @@ category: news
 title: "More data center parks, develop AI talent: Union Budget 2020"
 excerpt: "The budget has also given a massive push to the digital economy recognizing how AI, IoT, 3D printing, drones, data storage ... This coupled with easy access to credit from banks & NBFCs should bring down credit costs in the medium term. For start-ups, considering the fact that in the initial years, one may not have adequate profit to avail ..."
 publishedDateTime: 2020-02-01T14:32:00Z
-sourceUrl: "https://www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/"
-ampUrl: "https://www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/amp/"
-cdnAmpUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/amp/"
+webUrl: "https://www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/"
+ampWebUrl: "https://www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/amp/"
+cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/amp/"
 type: article
 quality: 39
 heat: 39

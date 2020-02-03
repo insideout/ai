@@ -3,7 +3,7 @@ category: news
 title: "Advocacy Group Warns About Facial-Recognition Tech at Florida Universities"
 excerpt: "The U.S. Department of Homeland Security uses possibly illegal technology to scan the faces of departing travelers at Miami International Airport, and the Miami-Dade Police Department wants in on a facial-recognition database that studies have warned could yield false positives. There's no telling where the future of surveillance technology ..."
 publishedDateTime: 2020-01-31T15:00:00Z
-sourceUrl: "https://www.miaminewtimes.com/news/fight-for-the-future-warns-about-facial-recognition-on-florida-college-campuses-11473208"
+webUrl: "https://www.miaminewtimes.com/news/fight-for-the-future-warns-about-facial-recognition-on-florida-college-campuses-11473208"
 type: article
 quality: 22
 heat: 22

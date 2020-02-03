@@ -3,9 +3,9 @@ category: news
 title: "AI in insurance: Overhyped or underestimated?"
 excerpt: "This should come as no surprise to anyone following the developments in machine learning, natural language processing, computer visioning, chatbots, virtual assistants, and other related technologies. After a long and varied history of AI technologies (including the lengthy AI winter), we are now on the verge of the golden age of AI."
 publishedDateTime: 2020-01-21T10:56:00Z
-sourceUrl: "https://www.propertycasualty360.com/2020/01/21/ai-in-insurance-overhyped-or-underestimated/"
-ampUrl: "https://www.propertycasualty360.com/2020/01/21/ai-in-insurance-overhyped-or-underestimated/?amp=1"
-cdnAmpUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/01/21/ai-in-insurance-overhyped-or-underestimated/?amp=1"
+webUrl: "https://www.propertycasualty360.com/2020/01/21/ai-in-insurance-overhyped-or-underestimated/"
+ampWebUrl: "https://www.propertycasualty360.com/2020/01/21/ai-in-insurance-overhyped-or-underestimated/?amp=1"
+cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/01/21/ai-in-insurance-overhyped-or-underestimated/?amp=1"
 type: article
 quality: 59
 heat: 59

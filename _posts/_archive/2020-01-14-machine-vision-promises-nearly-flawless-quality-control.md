@@ -3,7 +3,7 @@ category: news
 title: "Machine Vision Promises Nearly Flawless Quality Control"
 excerpt: "With a large enough dataset, AI systems can learn nuances without being explicitly programmed. Blue River Technology in Sunnyvale, Calif., for example, couples computer vision and machine learning to create its See & Spray weed-control system. As tractors pull herbicide sprayers across cotton crops, cameras see each plant and determine whether ..."
 publishedDateTime: 2020-01-14T20:56:00Z
-sourceUrl: "https://www.industryweek.com/operations/article/21120473/machine-vision-promises-nearly-flawless-quality-control"
+webUrl: "https://www.industryweek.com/operations/article/21120473/machine-vision-promises-nearly-flawless-quality-control"
 type: article
 quality: 4
 heat: 4

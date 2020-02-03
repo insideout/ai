@@ -3,9 +3,9 @@ category: news
 title: "‘Emergence’ Episode 12 ‘Killshot Pt. 2’: How are we sure that Brooks is human and not an AI? And who is Lorreta?"
 excerpt: "Although Jo convinces herself that Brooks is a human, by placing Piper’s chip on his wrist, that alone wouldn’t prove his actual identity, as Emily’s code used to create the AIs isn’t the same as Helen’s. Therefore, it leaves us with another possibility of Brooks revealing himself to be an AI in ‘Killshot Pt. 2’. Or, it could also ..."
 publishedDateTime: 2020-01-25T06:36:00Z
-sourceUrl: "https://meaww.com/emergence-episode-12-killshot-pt-2-why-helen-save-brooks-more-to-him-than-meets-eye-ai-trap-abc-406243"
-ampUrl: "https://meaww.com/amp/emergence-episode-12-killshot-pt-2-why-helen-save-brooks-more-to-him-than-meets-eye-ai-trap-abc-406243"
-cdnAmpUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/emergence-episode-12-killshot-pt-2-why-helen-save-brooks-more-to-him-than-meets-eye-ai-trap-abc-406243"
+webUrl: "https://meaww.com/emergence-episode-12-killshot-pt-2-why-helen-save-brooks-more-to-him-than-meets-eye-ai-trap-abc-406243"
+ampWebUrl: "https://meaww.com/amp/emergence-episode-12-killshot-pt-2-why-helen-save-brooks-more-to-him-than-meets-eye-ai-trap-abc-406243"
+cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/emergence-episode-12-killshot-pt-2-why-helen-save-brooks-more-to-him-than-meets-eye-ai-trap-abc-406243"
 type: article
 quality: 38
 heat: 38

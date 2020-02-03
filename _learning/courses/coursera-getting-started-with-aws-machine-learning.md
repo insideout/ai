@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with AWS Machine Learning"
 excerpt: "Learn Getting Started with AWS Machine Learning from Amazon Web Services. Machine learning (ML) is one of the fastest growing areas in technology and a highly sought after skillset in today’s job market. The World Economic Forum states the growth ..."
-sourceUrl: https://www.coursera.org/learn/aws-machine-learning
+webUrl: https://www.coursera.org/learn/aws-machine-learning
 type: course
 price: Free+
 length: 10 hours

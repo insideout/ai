@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning and AI Foundations: Decision Trees"
 excerpt: "Many data science specialists are looking to pivot toward focusing on machine learning. This course covers the essentials of machine learning, including predictive analytics and working with decision trees. Explore several popular tree algorithms and learn how to use reverse engineering to identify specific variables. Demonstrations of using the IBM SPSS Modeler are included so you can understand how decisions trees work. This course is designed to give you a solid foundation on which to build more advanced data science skills."
-sourceUrl: https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees
+webUrl: https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees
 type: course
 price: $29.99
 length: 1:16

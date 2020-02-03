@@ -3,9 +3,9 @@ category: news
 title: "'Artificial humans' named Neon are stars of CES"
 excerpt: "Neon, the super-realistic digitally simulated avatar, has taken CES by storm. Build upon the Core R3 neural network, the Neon avatars can provide incredibly lifelike renderings of people to be used as AI assistants,"
 publishedDateTime: 2020-01-08T23:13:00Z
-sourceUrl: https://www.cnbc.com/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html
-ampUrl: https://www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html
-cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html
+webUrl: https://www.cnbc.com/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html
+ampWebUrl: https://www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html
+cdnAmpWebUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html
 type: article
 quality: 74
 heat: 94
@@ -33,9 +33,9 @@ related:
   - title: "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype"
     excerpt: "We've grown accustomed to asking virtual assistants like Siri and Alexa to do small tasks for us and provide basic information. But if the CEO of a Samsung-backed startup has his way, \"artificial humans\" will become your teachers,"
     publishedDateTime: 2020-01-10T14:32:00Z
-    sourceUrl: https://www.cnn.com/2020/01/10/tech/samsung-neon/index.html
-    ampUrl: https://amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html
-    cdnAmpUrl: https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html
+    webUrl: https://www.cnn.com/2020/01/10/tech/samsung-neon/index.html
+    ampWebUrl: https://amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html
+    cdnAmpWebUrl: https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html
     type: article
     provider:
       name: CNN
@@ -48,7 +48,7 @@ related:
   - title: "NEON artificial humans at CES behave, converse, and sympathize just like real people"
     excerpt: "called the woven city, the hydrogen-powered ecosystem will be used to test and develop driverless vehicles, robotics, smart home technology and artificial intelligence. called the woven city, the hydrogen-powered ecosystem will be used to test and develop ..."
     publishedDateTime: 2020-01-09T09:40:00Z
-    sourceUrl: https://www.designboom.com/technology/neon-artificial-human-ces-01-08-2020/?player=video
+    webUrl: https://www.designboom.com/technology/neon-artificial-human-ces-01-08-2020/?player=video
     type: article
     provider:
       name: Designboom

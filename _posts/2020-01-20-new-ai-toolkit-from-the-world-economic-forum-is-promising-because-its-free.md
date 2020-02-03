@@ -3,7 +3,7 @@ category: news
 title: "New AI toolkit from the World Economic Forum is promising because it’s free"
 excerpt: "The toolkit was designed to mimic how board committees and organisations typically approach ethics, policy and risk. Artificial intelligence promises to solve some of the most pressing issues faced by society, from ensuring fairer trade and reducing consumer waste, to predicting natural disasters and providing early diagnosis for cancer patients."
 publishedDateTime: 2020-01-20T08:57:00Z
-sourceUrl: "https://www.thenational.ae/business/comment/new-ai-toolkit-from-the-world-economic-forum-is-promising-because-it-s-free-1.966680"
+webUrl: "https://www.thenational.ae/business/comment/new-ai-toolkit-from-the-world-economic-forum-is-promising-because-it-s-free-1.966680"
 type: article
 quality: 39
 heat: -1
@@ -28,9 +28,9 @@ related:
   - title: "The World Economic Forum Jumps On the Artificial Intelligence Bandwagon"
     excerpt: "It’s great to see the WEF taking a strong look at AI and then presenting what looks like a very good, introductory, toolkit for boards of directors, but the need for strong ethical positions means that more is needed."
     publishedDateTime: 2020-01-20T14:19:00Z
-    sourceUrl: "https://www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/"
-    ampUrl: "https://www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/amp/"
-    cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/amp/"
+    webUrl: "https://www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/01/20/the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon/amp/"
     type: article
     provider:
       name: Forbes

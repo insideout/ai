@@ -3,7 +3,7 @@ category: news
 title: "Advanced cloud and AI tools power digital solutions for Microsoft customers"
 excerpt: "“Leveraging innovative technologies like artificial intelligence (AI), the Internet of Things (IoT) and machine learning built on Microsoft’s cloud, there were numerous examples this past quarter of initiatives our customers across multiple industries are pursuing.” Read the full post on the Official Microsoft Blog."
 publishedDateTime: 2020-01-28T19:32:00Z
-sourceUrl: "https://news.microsoft.com/transform/advanced-cloud-and-ai-tools-power-digital-solutions-for-microsoft-customers/"
+webUrl: "https://news.microsoft.com/transform/advanced-cloud-and-ai-tools-power-digital-solutions-for-microsoft-customers/"
 type: article
 quality: 35
 heat: 35

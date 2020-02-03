@@ -3,9 +3,9 @@ category: news
 title: "Xenobots are here: Tiny bio-robots inside your veins may heal you & will definitely be weaponized by West to take out ‘bad guys’"
 excerpt: "(Besides, meat grown from frog embryos cannot be the tastiest. Silly idea anyway.) So xenobots, in a nutshell, are a swarm of invisible genetically engineered semi-sentient robots designed by an artificial intelligence to live in the human body for days or weeks at a time, where they can survive without food and heal themselves if damaged."
 publishedDateTime: 2020-01-18T09:32:00Z
-sourceUrl: "https://www.rt.com/news/478530-biological-robots-designed-by-computer/"
-ampUrl: "https://www.rt.com/news/478530-biological-robots-designed-by-computer/amp/"
-cdnAmpUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/478530-biological-robots-designed-by-computer/amp/"
+webUrl: "https://www.rt.com/news/478530-biological-robots-designed-by-computer/"
+ampWebUrl: "https://www.rt.com/news/478530-biological-robots-designed-by-computer/amp/"
+cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/478530-biological-robots-designed-by-computer/amp/"
 type: article
 quality: 30
 heat: 30

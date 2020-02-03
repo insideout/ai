@@ -3,7 +3,7 @@ category: news
 title: "CES 2020, AI + Quantum Flow boosts Deep Learning speed 10x - 15x Faster - powered by pqlabs.ai"
 excerpt: "/PRNewswire/ -- PQ Labs Inc, unveiled QuantaFlow AI architecture in CES 2020 (South Hall #25858). The new architecture includes a classical RISC-V processor,"
 publishedDateTime: 2020-01-08T18:33:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/ces-2020-ai--quantum-flow-boosts-deep-learning-speed-10x---15x-faster---powered-by-pqlabsai-300983793.html
+webUrl: https://www.prnewswire.com/news-releases/ces-2020-ai--quantum-flow-boosts-deep-learning-speed-10x---15x-faster---powered-by-pqlabsai-300983793.html
 type: article
 quality: 42
 heat: 42

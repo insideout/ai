@@ -1,7 +1,7 @@
 ---
 title: "Human Compatible: Artificial Intelligence and the Problem of Control"
 excerpt: "A leading artificial intelligence researcher lays out a new approach to AI that will enable us to coexist successfully with increasingly intelligent machines"
-sourceUrl: https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/
+webUrl: https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/
 type: book
 price: $25.20
 length: 

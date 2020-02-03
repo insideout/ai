@@ -3,9 +3,9 @@ category: news
 title: "Enterprise hits and misses - WEF debates stakeholder capitalism and the future of AI, while a facial recognition startup catches heat"
 excerpt: "This week - we try to mock the WEF but find, once again, issues of substance to ponder. Stakeholder capitalism gets a once-over, as does AI ethics, facial recognition and federated machine learning. For the first time ever, I forego the whiffs section in favor of a tribute of sorts. Lead story - WEF debates stakeholder capitalism and AI - but ..."
 publishedDateTime: 2020-01-27T10:39:00Z
-sourceUrl: "https://diginomica.com/enterprise-hits-and-misses-wef-debates-stakeholder-capitalism-and-future-ai-while-facial"
-ampUrl: "https://diginomica.com/enterprise-hits-and-misses-wef-debates-stakeholder-capitalism-and-future-ai-while-facial?amp"
-cdnAmpUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-wef-debates-stakeholder-capitalism-and-future-ai-while-facial?amp"
+webUrl: "https://diginomica.com/enterprise-hits-and-misses-wef-debates-stakeholder-capitalism-and-future-ai-while-facial"
+ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-wef-debates-stakeholder-capitalism-and-future-ai-while-facial?amp"
+cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-wef-debates-stakeholder-capitalism-and-future-ai-while-facial?amp"
 type: article
 quality: 28
 heat: 28

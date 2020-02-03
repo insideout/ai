@@ -3,7 +3,7 @@ category: news
 title: "AdmitHub, an AI SMS Texting System, Has Proven Highly Successful at Boosting Student Success. It Also Targets Ads and Takes Ownership of Student Data."
 excerpt: "Using a two-way AI system, students can send SMS texts, web messages, and use Facebook Messenger to learn about details regarding admission ... “We have been able to verify not only that it works, but that it works very effectively,” Renick said. “And our research shows that, while it has helped students from all demographic groups ..."
 publishedDateTime: 2020-01-29T16:38:00Z
-sourceUrl: "https://news.elearninginside.com/admithub-an-ai-sms-texting-system-has-proven-highly-successful-at-boosting-student-success-it-also-targets-ads-and-takes-ownership-of-student-data/"
+webUrl: "https://news.elearninginside.com/admithub-an-ai-sms-texting-system-has-proven-highly-successful-at-boosting-student-success-it-also-targets-ads-and-takes-ownership-of-student-data/"
 type: article
 quality: 0
 heat: 0

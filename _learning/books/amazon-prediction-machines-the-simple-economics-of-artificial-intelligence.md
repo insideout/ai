@@ -1,7 +1,7 @@
 ---
 title: "Prediction Machines: The Simple Economics of Artificial Intelligence"
 excerpt: "Artificial intelligence does the seemingly impossible, magically bringing machines to life--driving cars, trading stocks, and teaching children. But facing the sea change that AI will bring can be paralyzing. How should companies set strategies, governments design policies, and people plan their lives for a world so different from what we know? In the face of such uncertainty, many analysts either cower in fear or predict an impossibly sunny future."
-sourceUrl: https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670/
+webUrl: https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670/
 type: book
 price: $18.39
 length: 

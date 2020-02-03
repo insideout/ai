@@ -3,9 +3,9 @@ category: news
 title: "Investors’ challenge: Sorting the real AI managers from the fake"
 excerpt: "But we have a way to go before genuine AI rises above the fakes. Chetan Pandya, who set up Kotak Securities’ institutional business, is now a fintech expert wearing multiple hats. Increasingly he sees machines, algorithms and quantitative models taking over the investing space. AI is a different ball game from quant-based models, however ..."
 publishedDateTime: 2020-01-19T14:49:00Z
-sourceUrl: "https://www.livemint.com/companies/start-ups/investors-challenge-sorting-the-real-ai-managers-from-the-fake-11579442375110.html"
-ampUrl: "https://www.livemint.com/companies/start-ups/investors-challenge-sorting-the-real-ai-managers-from-the-fake/amp-11579442375110.html"
-cdnAmpUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/investors-challenge-sorting-the-real-ai-managers-from-the-fake/amp-11579442375110.html"
+webUrl: "https://www.livemint.com/companies/start-ups/investors-challenge-sorting-the-real-ai-managers-from-the-fake-11579442375110.html"
+ampWebUrl: "https://www.livemint.com/companies/start-ups/investors-challenge-sorting-the-real-ai-managers-from-the-fake/amp-11579442375110.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/investors-challenge-sorting-the-real-ai-managers-from-the-fake/amp-11579442375110.html"
 type: article
 quality: 59
 heat: 59

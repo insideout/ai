@@ -3,9 +3,9 @@ category: news
 title: "AI Will Probably Trick Us Into Thinking We Found Aliens"
 excerpt: "After the neural net detected the triangular shape in the images, people in the study also began to see it, even though they hadn't previously. It's an example of how false positives from AI could trip up extraterrestrial studies. Because the strange patterns are so strikingly geometric, researchers from the University of Cadiz in Spain have ..."
 publishedDateTime: 2020-02-02T05:27:00Z
-sourceUrl: "https://www.popularmechanics.com/space/a30705013/ai-extraterrestrials/"
-ampUrl: "https://www.popularmechanics.com/space/amp30705013/ai-extraterrestrials/"
-cdnAmpUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/space/amp30705013/ai-extraterrestrials/"
+webUrl: "https://www.popularmechanics.com/space/a30705013/ai-extraterrestrials/"
+ampWebUrl: "https://www.popularmechanics.com/space/amp30705013/ai-extraterrestrials/"
+cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/space/amp30705013/ai-extraterrestrials/"
 type: article
 quality: 57
 heat: 57

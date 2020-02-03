@@ -3,7 +3,7 @@ category: news
 title: "One-Third of Orgs Use Artificial Intelligence in Medical Imaging"
 excerpt: "January 28, 2020 - One-third of hospitals and imaging centers report using artificial intelligence, machine learning, or deep learning to aid tasks associated with patient care imaging or business operations, according to a survey from Definitive Healthcare. Artificial intelligence has the potential to transform medical imaging, saving ..."
 publishedDateTime: 2020-01-28T19:49:00Z
-sourceUrl: "https://healthitanalytics.com/news/one-third-of-orgs-use-artificial-intelligence-in-medical-imaging"
+webUrl: "https://healthitanalytics.com/news/one-third-of-orgs-use-artificial-intelligence-in-medical-imaging"
 type: article
 quality: 19
 heat: 19

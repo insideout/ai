@@ -3,7 +3,7 @@ category: news
 title: "Global optimization of quantum dynamics with AlphaZero deep exploration"
 excerpt: "Here we implement a tabula rasa deep quantum exploration version of the Deepmind AlphaZero algorithm for systematically averting this limitation. AlphaZero employs a deep neural network in conjunction with deep lookahead in a guided tree search, which allows for predictive hidden-variable approximation of the quantum parameter landscape."
 publishedDateTime: 2020-01-14T10:25:00Z
-sourceUrl: "https://www.nature.com/articles/s41534-019-0241-0"
+webUrl: "https://www.nature.com/articles/s41534-019-0241-0"
 type: article
 quality: 24
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "From local explanations to global understanding with explainable AI for trees"
     excerpt: "Tree-based machine learning models such as random forests, decision trees and gradient boosted trees are popular nonlinear predictive models, yet comparatively little attention has been paid to explaining their predictions. Here we improve the interpretability of tree-based models through three main contributions. (1) A polynomial time ..."
     publishedDateTime: 2020-01-17T17:30:00Z
-    sourceUrl: "https://www.nature.com/articles/s42256-019-0138-9?code=4105b7e4-47fa-420a-b5b5-d25fef40b5f5&error=cookies_not_supported"
+    webUrl: "https://www.nature.com/articles/s42256-019-0138-9?code=4105b7e4-47fa-420a-b5b5-d25fef40b5f5&error=cookies_not_supported"
     type: article
     provider:
       name: Nature

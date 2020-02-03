@@ -3,7 +3,7 @@ category: news
 title: "Varian Medical Systems Inc (VAR) Q1 2020 Earnings Call Transcript"
 excerpt: "First, innovating in radiation therapy. Second, leveraging artificial intelligence, machine learning and cloud-based solutions. Third, growing emerging businesses geographies and technologies. And fourth, improving operational, financial and capital efficiency. First, let's review our progress on innovating in radiation therapy. We continue to ..."
 publishedDateTime: 2020-01-30T02:44:00Z
-sourceUrl: "https://www.fool.com/earnings/call-transcripts/2020/01/29/varian-medical-systems-inc-var-q1-2020-earnings-ca.aspx"
+webUrl: "https://www.fool.com/earnings/call-transcripts/2020/01/29/varian-medical-systems-inc-var-q1-2020-earnings-ca.aspx"
 type: article
 quality: 54
 heat: 54

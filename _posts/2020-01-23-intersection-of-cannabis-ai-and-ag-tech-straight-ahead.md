@@ -3,9 +3,9 @@ category: news
 title: "Intersection of Cannabis, AI, and Ag Tech Straight Ahead"
 excerpt: "Generally speaking, artificial intelligence (AI) enabled technologies are infiltrating every ... Currently his outfit, Bloomfield Robotics, is still in the capital raising stage of the startup cycle. They are working on and have commercialized on a small scale both a handheld sensing device that helps cannabis growers know precisely when ..."
 publishedDateTime: 2020-01-23T16:00:00Z
-sourceUrl: "https://www.greenhousegrower.com/crops/cannabis/intersection-of-cannabis-ai-and-ag-tech-straight-ahead/"
-ampUrl: "https://www.greenhousegrower.com/crops/cannabis/intersection-of-cannabis-ai-and-ag-tech-straight-ahead/?amp"
-cdnAmpUrl: "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/crops/cannabis/intersection-of-cannabis-ai-and-ag-tech-straight-ahead/?amp"
+webUrl: "https://www.greenhousegrower.com/crops/cannabis/intersection-of-cannabis-ai-and-ag-tech-straight-ahead/"
+ampWebUrl: "https://www.greenhousegrower.com/crops/cannabis/intersection-of-cannabis-ai-and-ag-tech-straight-ahead/?amp"
+cdnAmpWebUrl: "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/crops/cannabis/intersection-of-cannabis-ai-and-ag-tech-straight-ahead/?amp"
 type: article
 quality: 59
 heat: 59

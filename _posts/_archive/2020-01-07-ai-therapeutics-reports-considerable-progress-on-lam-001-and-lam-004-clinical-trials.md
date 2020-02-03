@@ -3,9 +3,9 @@ category: news
 title: "AI Therapeutics reports considerable progress on LAM-001 and LAM-004 clinical trials"
 excerpt: "AI Therapeutics is a clinical-stage biopharmaceutical company that has created an artificial intelligence-driven ... Drug Designations in the US for the therapy of LAM disease and PAH, as well ..."
 publishedDateTime: 2020-01-07T13:36:00Z
-sourceUrl: https://www.news-medical.net/news/20200107/AI-Therapeutics-reports-considerable-progress-on-LAM-001-and-LAM-004-clinical-trials.aspx
-ampUrl: https://www.news-medical.net/amp/news/20200107/AI-Therapeutics-reports-considerable-progress-on-LAM-001-and-LAM-004-clinical-trials.aspx
-cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200107/AI-Therapeutics-reports-considerable-progress-on-LAM-001-and-LAM-004-clinical-trials.aspx
+webUrl: https://www.news-medical.net/news/20200107/AI-Therapeutics-reports-considerable-progress-on-LAM-001-and-LAM-004-clinical-trials.aspx
+ampWebUrl: https://www.news-medical.net/amp/news/20200107/AI-Therapeutics-reports-considerable-progress-on-LAM-001-and-LAM-004-clinical-trials.aspx
+cdnAmpWebUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200107/AI-Therapeutics-reports-considerable-progress-on-LAM-001-and-LAM-004-clinical-trials.aspx
 type: article
 quality: 52
 heat: 52

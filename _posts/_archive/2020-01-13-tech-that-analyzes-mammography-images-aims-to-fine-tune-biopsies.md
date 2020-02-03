@@ -3,7 +3,7 @@ category: news
 title: "Tech that analyzes mammography images aims to fine-tune biopsies"
 excerpt: "This continues a trend toward using artificial intelligence and standard radiological images to facilitate diagnosis of abnormal tissue that could indicate the presence of cancer. For cancer patients, image analysis provides a non-invasive, low-risk approach to assessing tumor biology prior to therapy and an objective pathway for monitoring ..."
 publishedDateTime: 2020-01-13T19:56:00Z
-sourceUrl: "https://www.healthdatamanagement.com/news/tech-that-analyzes-mammography-images-aims-to-fine-tune-biopsies"
+webUrl: "https://www.healthdatamanagement.com/news/tech-that-analyzes-mammography-images-aims-to-fine-tune-biopsies"
 type: article
 quality: 39
 heat: 39

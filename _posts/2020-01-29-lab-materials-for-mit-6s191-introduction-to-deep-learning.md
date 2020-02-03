@@ -3,7 +3,7 @@ category: news
 title: "Lab Materials for MIT 6.S191: Introduction to Deep Learning"
 excerpt: "This repository contains all of the code and software labs for MIT 6.S191: Introduction to Deep Learning! All lecture slides and videos are available on the course website. The 2020 6.S191 labs will be run in Google's Colaboratory, a Jupyter notebook environment that runs entirely in the cloud, you don't need to download anything. To run these ..."
 publishedDateTime: 2020-01-29T08:31:00Z
-sourceUrl: "https://github.com/aamini/introtodeeplearning"
+webUrl: "https://github.com/aamini/introtodeeplearning"
 type: article
 quality: 39
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "A secure execution environment for conducting machine learning trials against confidential data."
     excerpt: "If nothing happens, download GitHub Desktop and try again. This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft ..."
     publishedDateTime: 2020-01-31T23:48:00Z
-    sourceUrl: "https://github.com/microsoft/einstein"
+    webUrl: "https://github.com/microsoft/einstein"
     type: article
     provider:
       name: GitHub

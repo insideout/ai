@@ -3,9 +3,9 @@ category: news
 title: "Researchers: Are we on the cusp of an ‘AI winter’?"
 excerpt: "The relevance of these advances was overhyped at times, says ex-DeepMinder Edward Grefenstette, who now works in the Facebook AI Research group as a research scientist. Image copyright Facebook Image caption Edward Grefenstette is a research scientist at Facebook in London “The field has come a very long way in the past decade, but we are ..."
 publishedDateTime: 2020-01-21T11:54:00Z
-sourceUrl: "https://www.entornointeligente.com/researchers-are-we-on-the-cusp-of-an-ai-winter/"
-ampUrl: "https://www.entornointeligente.com/researchers-are-we-on-the-cusp-of-an-ai-winter/amp/"
-cdnAmpUrl: "https://www-entornointeligente-com.cdn.ampproject.org/c/s/www.entornointeligente.com/researchers-are-we-on-the-cusp-of-an-ai-winter/amp/"
+webUrl: "https://www.entornointeligente.com/researchers-are-we-on-the-cusp-of-an-ai-winter/"
+ampWebUrl: "https://www.entornointeligente.com/researchers-are-we-on-the-cusp-of-an-ai-winter/amp/"
+cdnAmpWebUrl: "https://www-entornointeligente-com.cdn.ampproject.org/c/s/www.entornointeligente.com/researchers-are-we-on-the-cusp-of-an-ai-winter/amp/"
 type: article
 quality: 39
 heat: 39

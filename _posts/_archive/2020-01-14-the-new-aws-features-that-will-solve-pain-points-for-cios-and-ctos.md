@@ -3,7 +3,7 @@ category: news
 title: "The new AWS features that will solve pain points for CIOs and CTOs"
 excerpt: "Fortunately, artificial intelligence (AI) supports the need for effective business operations ... With the sixth-generation EC2 instances, which the AWS team has been developing with the specific intent of improving performance, however, the performance gap between cloud servers and on-prem servers is shrinking fast. Organisations that have ..."
 publishedDateTime: 2020-01-14T10:05:00Z
-sourceUrl: "https://www.information-age.com/new-aws-features-solve-pain-points-cios-ctos-123486886/"
+webUrl: "https://www.information-age.com/new-aws-features-solve-pain-points-cios-ctos-123486886/"
 type: article
 quality: 54
 heat: 54

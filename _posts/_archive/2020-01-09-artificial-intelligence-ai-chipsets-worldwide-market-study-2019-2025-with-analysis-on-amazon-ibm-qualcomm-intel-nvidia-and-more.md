@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
 excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 7.5. Applied Materials Inc. 7.6. ARM Holdings 7.7. Baidu Inc. 7.8. Broadcom Ltd. 7.9. Google LLC 7.10. Graphcore Ltd. 7.11. Gyrfalcon Technology Inc. 7.12. HiSilicon (Shanghai ..."
 publishedDateTime: 2020-01-09T13:50:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chipsets-worldwide-market-study-2019-/2020/01/09/9079053.htm
+webUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chipsets-worldwide-market-study-2019-/2020/01/09/9079053.htm
 type: article
 quality: 20
 heat: 20

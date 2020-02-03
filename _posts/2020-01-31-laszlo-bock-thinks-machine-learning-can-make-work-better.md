@@ -3,9 +3,9 @@ category: news
 title: "Laszlo Bock Thinks Machine Learning Can Make Work Better"
 excerpt: "A Google veteran’s new firm uses artificial intelligence to send employees ‘nudges’ to prod them toward changes likely to produce a happier workforce"
 publishedDateTime: 2020-01-31T17:51:00Z
-sourceUrl: "https://www.wsj.com/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585"
-ampUrl: "https://www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585"
-cdnAmpUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585"
+webUrl: "https://www.wsj.com/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585"
+ampWebUrl: "https://www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585"
 type: article
 quality: 89
 heat: 89

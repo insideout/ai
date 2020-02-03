@@ -3,9 +3,9 @@ category: news
 title: "LiveVox Acquires SpeechIQ, Adds AI-driven Speech Analytics To its Portfolio"
 excerpt: "Marketing Technology News: Pantheon Appoints Former Tableau CMO Elissa Fink to Its Board of Directors Powered by a proprietary speech recognition engine that very quickly and accurately transcribes calls, SpeechIQ offers numerous features, including the ability to redact calls, search by keyword lists, retrieve and listen to calls, create ..."
 publishedDateTime: 2020-01-29T13:20:00Z
-sourceUrl: "https://www.martechadvisor.com/news/customer-experience-2/livevox-acquires-speechiq-adds-aidriven-speech-analytics-to-its-portfolio/"
-ampUrl: "https://www.martechadvisor.com/news/customer-experience-2/livevox-acquires-speechiq-adds-aidriven-speech-analytics-to-its-portfolio/"
-cdnAmpUrl: "https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/customer-experience-2/livevox-acquires-speechiq-adds-aidriven-speech-analytics-to-its-portfolio/"
+webUrl: "https://www.martechadvisor.com/news/customer-experience-2/livevox-acquires-speechiq-adds-aidriven-speech-analytics-to-its-portfolio/"
+ampWebUrl: "https://www.martechadvisor.com/news/customer-experience-2/livevox-acquires-speechiq-adds-aidriven-speech-analytics-to-its-portfolio/"
+cdnAmpWebUrl: "https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/customer-experience-2/livevox-acquires-speechiq-adds-aidriven-speech-analytics-to-its-portfolio/"
 type: article
 quality: 57
 heat: 57

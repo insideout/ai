@@ -3,7 +3,7 @@ category: news
 title: "A top UiPath exec called its recent layoffs a 'natural part of the evolution.' Here's how the hot AI startup now plans to scale in 2020."
 excerpt: "Key to the company's growth will be finding real-world use cases of its platform that allows firms to automate mundane and repetitive computer tasks."
 publishedDateTime: 2020-01-24T14:52:00Z
-sourceUrl: "https://www.businessinsider.com/heres-how-hot-ai-startup-uipath-plans-grow-after-layoffs-2020-1"
+webUrl: "https://www.businessinsider.com/heres-how-hot-ai-startup-uipath-plans-grow-after-layoffs-2020-1"
 type: article
 quality: 34
 heat: 34

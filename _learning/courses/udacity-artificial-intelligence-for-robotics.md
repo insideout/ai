@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence for Robotics"
 excerpt: "Learn how to program all the major systems of a robotic car. Topics include planning, search, localization, tracking, and control."
-sourceUrl: https://classroom.udacity.com/courses/cs373
+webUrl: https://classroom.udacity.com/courses/cs373
 type: course
 price: Free
 length: 2 Months

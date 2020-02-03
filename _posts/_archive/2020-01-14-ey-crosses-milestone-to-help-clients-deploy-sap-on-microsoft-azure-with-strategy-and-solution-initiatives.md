@@ -3,7 +3,7 @@ category: news
 title: "EY crosses milestone to help clients deploy SAP on Microsoft Azure with strategy and solution initiatives"
 excerpt: "/PRNewswire/ -- More large enterprises seek to accelerate innovation and increase agility across their business by migrating their mission-critical"
 publishedDateTime: 2020-01-14T13:59:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/ey-crosses-milestone-to-help-clients-deploy-sap-on-microsoft-azure-with-strategy-and-solution-initiatives-300986661.html"
+webUrl: "https://www.prnewswire.com/news-releases/ey-crosses-milestone-to-help-clients-deploy-sap-on-microsoft-azure-with-strategy-and-solution-initiatives-300986661.html"
 type: article
 quality: 37
 heat: 37
@@ -27,7 +27,7 @@ related:
   - title: "Edith Cowan Uni reduces IT costs with migration to Microsoft Azure"
     excerpt: "According to Microsoft, Azure is already changing the way that ECU uses technology ... Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics ..."
     publishedDateTime: 2020-01-21T03:25:00Z
-    sourceUrl: "https://www.itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html"
+    webUrl: "https://www.itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html"
     type: article
     provider:
       name: ITWire

@@ -1,7 +1,7 @@
 ---
 title: "Foundations of Data Science: K-Means Clustering in Python"
 excerpt: "Learn Foundations of Data Science: K-Means Clustering in Python from University of London, Goldsmiths, University of London. Organisations all around the world are using data to predict behaviours and extract valuable real-world insights to ..."
-sourceUrl: https://www.coursera.org/learn/data-science-k-means-clustering-python
+webUrl: https://www.coursera.org/learn/data-science-k-means-clustering-python
 type: course
 price: Free+
 length: 26 hours

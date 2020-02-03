@@ -3,9 +3,9 @@ category: news
 title: "Datacultr reduces frauds in consumer lending with its Machine Learning platform"
 excerpt: "Datacultr, a leading Platform-as-a-Service(PaaS) player has helped reduce the risk of fraud ... the total amount in bank frauds rose 74% to Rs 71,543 cr in FY19. However, the rise of machine learning can prove to be a game-changer for these banks, Non-banking financial companies (NBFCs), and fintechs. With ML capabilities, Datacultr has been ..."
 publishedDateTime: 2020-01-23T04:10:00Z
-sourceUrl: "https://www.deccanchronicle.com/technology/in-other-news/230120/datacultr-reduces-frauds-in-consumer-lending-with-its-machine-learning.html"
-ampUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/230120/datacultr-reduces-frauds-in-consumer-lending-with-its-machine-learning.html"
-cdnAmpUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/230120/datacultr-reduces-frauds-in-consumer-lending-with-its-machine-learning.html"
+webUrl: "https://www.deccanchronicle.com/technology/in-other-news/230120/datacultr-reduces-frauds-in-consumer-lending-with-its-machine-learning.html"
+ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/230120/datacultr-reduces-frauds-in-consumer-lending-with-its-machine-learning.html"
+cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/230120/datacultr-reduces-frauds-in-consumer-lending-with-its-machine-learning.html"
 type: article
 quality: 40
 heat: 40

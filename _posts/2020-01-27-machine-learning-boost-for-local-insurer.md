@@ -3,7 +3,7 @@ category: news
 title: "Machine learning boost for local insurer"
 excerpt: "South African short-term insurance provider Admin Plus will now be able to tap into HYLA Mobile’s machine learning (ML) technology to determine whether a mobile device is functional and free of screen damage prior to insuring it. The US-based HYLA Mobile, which provides lifecycle management and diagnostic solutions for pre-owned smartphones ..."
 publishedDateTime: 2020-01-27T09:42:00Z
-sourceUrl: "https://www.itweb.co.za/content/KBpdgvpP54YvLEew"
+webUrl: "https://www.itweb.co.za/content/KBpdgvpP54YvLEew"
 type: article
 quality: 39
 heat: 39

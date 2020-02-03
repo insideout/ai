@@ -1,7 +1,7 @@
 ---
 title: "Guided Tour of Machine Learning in Finance"
 excerpt: "Learn Guided Tour of Machine Learning in Finance from New York University Tandon School of Engineering. This course aims at providing an introductory and broad overview of the field of ML with the focus on applications on Finance. Supervised ..."
-sourceUrl: https://www.coursera.org/learn/guided-tour-machine-learning-finance
+webUrl: https://www.coursera.org/learn/guided-tour-machine-learning-finance
 type: course
 price: Free+
 length: 21 hours

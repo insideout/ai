@@ -3,7 +3,7 @@ category: news
 title: "Xilinx SoC FPGA Powers Baidu’s Apollo Driverless Platform"
 excerpt: "Baidu’s Apollo is an ambitious, open-source platform designed to support self-driving vehicles. Apollo Enterprise, initially released at last year’s Consumer Electronics Show, targets highway autonomous driving, autonomous valet parking, and fully autonomous mini-buses. It includes an intelligent map data service platform and Baidu’s ..."
 publishedDateTime: 2020-01-02T19:15:00Z
-sourceUrl: "https://www.electronicdesign.com/markets/automotive/article/21119589/xilinx-soc-fpga-powers-baidus-apollo-driverless-platform"
+webUrl: "https://www.electronicdesign.com/markets/automotive/article/21119589/xilinx-soc-fpga-powers-baidus-apollo-driverless-platform"
 type: article
 quality: 34
 heat: 34

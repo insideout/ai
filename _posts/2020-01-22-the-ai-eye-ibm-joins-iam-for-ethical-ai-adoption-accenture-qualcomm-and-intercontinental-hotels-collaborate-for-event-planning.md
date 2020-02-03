@@ -3,7 +3,7 @@ category: news
 title: "The AI Eye: IBM Joins I.AM+ for Ethical AI Adoption, Accenture, Qualcomm and InterContinental Hotels Collaborate for Event Planning"
 excerpt: "Point Roberts, WA and Vancouver, BC - January 22, 2020 (Investorideas.com Newswire) Investorideas.com ( www.investorideas.com ), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
 publishedDateTime: 2020-01-22T17:24:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/the-ai-eye-ibm-joins-iam-for-ethical-ai-adoption-accenture-qualcomm-and-intercontinental-hotels-collaborate-for-event-planning-2020-01-22"
+webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-ibm-joins-iam-for-ethical-ai-adoption-accenture-qualcomm-and-intercontinental-hotels-collaborate-for-event-planning-2020-01-22"
 type: article
 quality: 39
 heat: -1
@@ -31,7 +31,7 @@ related:
   - title: "The AI Eye: Google GOOG Cloud to be Cloud Provider for Accenture ACN INTIENT, IBM IBM Adds AI to Intelligent Real Estate Solution"
     excerpt: "Point Roberts, WA and Vancouver, BC - January 28, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
     publishedDateTime: 2020-01-28T17:42:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/the-ai-eye-google-nasdaq-goog-cloud-to-be-cloud-provider-for-accenture-nyse-acn-intient-ibm-nyse-ibm-adds-ai-to-intelligent-real-estate-solution-2020-01-28"
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-google-nasdaq-goog-cloud-to-be-cloud-provider-for-accenture-nyse-acn-intient-ibm-nyse-ibm-adds-ai-to-intelligent-real-estate-solution-2020-01-28"
     type: article
     provider:
       name: MarketWatch

@@ -3,7 +3,7 @@ category: news
 title: "Know Which Speech Recognition Market Segments May Suffer as Consumer Confidence Takes a Hit"
 excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Speech Recognition Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Speech Recognition Market and factors such as driver,"
 publishedDateTime: 2020-01-11T09:48:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/know-which-speech-recognition-market-segments-may-suffer-as-consumer-confidence-takes-a-hit-2020-01-11"
+webUrl: "https://www.marketwatch.com/press-release/know-which-speech-recognition-market-segments-may-suffer-as-consumer-confidence-takes-a-hit-2020-01-11"
 type: article
 quality: 59
 heat: 59

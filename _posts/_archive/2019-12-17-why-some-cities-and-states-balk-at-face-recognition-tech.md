@@ -3,9 +3,9 @@ category: news
 title: "Why some cities and states balk at face recognition tech"
 excerpt: "SPRINGFIELD, Mass. -- Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the ..."
 publishedDateTime: 2019-12-17T19:40:00Z
-sourceUrl: https://abcnews.go.com/Business/wireStory/cities-states-balk-face-recognition-tech-67783126
-ampUrl: https://abcnews.go.com/amp/Business/wireStory/cities-states-balk-face-recognition-tech-67783126
-cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/cities-states-balk-face-recognition-tech-67783126
+webUrl: https://abcnews.go.com/Business/wireStory/cities-states-balk-face-recognition-tech-67783126
+ampWebUrl: https://abcnews.go.com/amp/Business/wireStory/cities-states-balk-face-recognition-tech-67783126
+cdnAmpWebUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/cities-states-balk-face-recognition-tech-67783126
 type: article
 quality: 39
 heat: 39

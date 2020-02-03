@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Natural Language Processing with Python"
 excerpt: "This course is all about taking raw text data and deriving insights and value from it--processing text data using standard techniques in Natural Language Processing and Machine Learning."
-sourceUrl: https://www.pluralsight.com/courses/python-natural-language-processing
+webUrl: https://www.pluralsight.com/courses/python-natural-language-processing
 type: course
 price: $$
 length: 1h 43m

@@ -3,9 +3,9 @@ category: news
 title: "An artificial neural connection allows a new cortical site to control hand movements"
 excerpt: "However, new research published by a group led by Yukio Nishimura, the project leader of the Neural Prosthesis Project, Tokyo Metropolitan Institute of Medical Science, showed that an artificial neural connection (ANC ... use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients ..."
 publishedDateTime: 2020-01-07T15:39:00Z
-sourceUrl: https://medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.html
-ampUrl: https://medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.amp
-cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.amp
+webUrl: https://medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.html
+ampWebUrl: https://medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.amp
+cdnAmpWebUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.amp
 type: article
 quality: 17
 heat: -1
@@ -23,9 +23,9 @@ related:
   - title: "Researchers impart new ability to control paralyzed hands via artificial neural connection"
     excerpt: "However, new research published by a group led by Yukio Nishimura, the project leader of the Neural Prosthesis Project, Tokyo Metropolitan Institute of Medical Science showed that an artificial neural connection (ANC ... use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients ..."
     publishedDateTime: 2020-01-07T19:59:00Z
-    sourceUrl: https://www.news-medical.net/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+    webUrl: https://www.news-medical.net/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+    ampWebUrl: https://www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+    cdnAmpWebUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
     type: article
     provider:
       name: News Medical

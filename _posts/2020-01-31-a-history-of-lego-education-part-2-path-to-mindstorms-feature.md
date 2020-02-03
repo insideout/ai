@@ -3,9 +3,9 @@ category: news
 title: "A History of LEGO Education, Part 2: Path to Mindstorms [Feature]"
 excerpt: "Part 2 picks up where we left off, covering the beginnings of LEGO’s programmable robots in the classroom and at home ... MIT’s professor of mathematics and education and co-founder of their Artificial Intelligence Laboratory. He earned notoriety for developing a solid and easy-to-learn programming language known as Logo."
 publishedDateTime: 2020-01-31T20:07:00Z
-sourceUrl: "https://www.brothers-brick.com/2020/01/31/a-history-of-lego-education-part-2-path-to-mindstorms-feature/"
-ampUrl: "https://www.brothers-brick.com/2020/01/31/a-history-of-lego-education-part-2-path-to-mindstorms-feature/amp/"
-cdnAmpUrl: "https://www-brothers--brick-com.cdn.ampproject.org/c/s/www.brothers-brick.com/2020/01/31/a-history-of-lego-education-part-2-path-to-mindstorms-feature/amp/"
+webUrl: "https://www.brothers-brick.com/2020/01/31/a-history-of-lego-education-part-2-path-to-mindstorms-feature/"
+ampWebUrl: "https://www.brothers-brick.com/2020/01/31/a-history-of-lego-education-part-2-path-to-mindstorms-feature/amp/"
+cdnAmpWebUrl: "https://www-brothers--brick-com.cdn.ampproject.org/c/s/www.brothers-brick.com/2020/01/31/a-history-of-lego-education-part-2-path-to-mindstorms-feature/amp/"
 type: article
 quality: 44
 heat: 44

@@ -3,7 +3,7 @@ category: news
 title: "AI to help monitor behavior"
 excerpt: "Could artificial intelligence improve educational and clinical decisions made by your child's teacher, or your mental-health professional or even your medical doctor? Yes, indeed, says a study by an UdeM psychoeducator and behaviour analyst published in Perspectives on Behavior Science. When working with persons who experience daily challenges ..."
 publishedDateTime: 2020-01-27T16:50:00Z
-sourceUrl: "https://www.eurekalert.org/pub_releases/2020-01/uom-ath012720.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uom-ath012720.php"
 type: article
 quality: 37
 heat: 37

@@ -3,7 +3,7 @@ category: news
 title: "RPA isn't having a renaissance, it's catalyzing broader White Collar automation and AI to top $16bn"
 excerpt: "In effect, it can be intelligently trained to analyze large amounts of data from software processes and translate them to triggers for new actions ... It includes cognitive (digital) assistants, AI Watson-type reasoning apps, Natural Language Processing, Machine Learning and Computer Vision. The Bottom-line: RPA has opened the gateway for ..."
 publishedDateTime: 2020-01-24T16:22:00Z
-sourceUrl: "https://www.horsesforsources.com/white-collar-automation-ai_012420"
+webUrl: "https://www.horsesforsources.com/white-collar-automation-ai_012420"
 type: article
 quality: 25
 heat: 25

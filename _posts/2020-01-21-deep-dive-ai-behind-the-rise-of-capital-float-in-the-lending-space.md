@@ -3,7 +3,7 @@ category: news
 title: "Deep Dive: AI Behind The Rise Of Capital Float In The Lending Space"
 excerpt: "Fintech companies are not revamping and adopting best practices for avoiding default ... which enables us to evaluate alternate data for new-to-credit customers,” mentions Rishyasringa. Capital Float extensively deploys AI and ML models to determine credit risk across all products. Its small-ticket loans are fully automated and are built ..."
 publishedDateTime: 2020-01-21T13:24:00Z
-sourceUrl: "https://analyticsindiamag.com/deep-dive-ai-behind-the-rise-of-capital-float-in-the-lending-space/"
+webUrl: "https://analyticsindiamag.com/deep-dive-ai-behind-the-rise-of-capital-float-in-the-lending-space/"
 type: article
 quality: 39
 heat: 39

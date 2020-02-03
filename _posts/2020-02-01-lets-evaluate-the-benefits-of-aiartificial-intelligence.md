@@ -3,7 +3,7 @@ category: news
 title: "Let’s Evaluate the benefits of AI(Artificial Intelligence)"
 excerpt: "Technology is an integral part of our lives. Because of that, it’s time to evaluate how we can better use the strengths of Computers and the use of “AI”(Artificial Intelligence). Technology has evolved beyond telling these machines what to do with the available data on a info, which it interprets and subsidizes our usage! Now machines can ..."
 publishedDateTime: 2020-02-01T12:02:00Z
-sourceUrl: "https://timesofindia.indiatimes.com/readersblog/generic-opinion/lets-evaluate-the-benefits-of-aiartificial-intelligence-9959/"
+webUrl: "https://timesofindia.indiatimes.com/readersblog/generic-opinion/lets-evaluate-the-benefits-of-aiartificial-intelligence-9959/"
 type: article
 quality: 52
 heat: 52

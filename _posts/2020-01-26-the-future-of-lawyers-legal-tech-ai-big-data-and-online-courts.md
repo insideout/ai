@@ -3,7 +3,7 @@ category: news
 title: "The Future of Lawyers: Legal Tech, AI, Big Data And Online Courts"
 excerpt: "In the future, is it conceivable that a firm would be charged with legal malpractice if they didn't use artificial intelligence (AI)? It certainly is. Today, artificial intelligence offers a solution to solve or at least make the access-to-justice issue better and completely transform our traditional legal system. Here's what you need to know ..."
 publishedDateTime: 2020-01-26T14:33:00Z
-sourceUrl: "https://www.linkedin.com/pulse/future-lawyers-legal-tech-ai-big-data-online-courts-bernard-marr"
+webUrl: "https://www.linkedin.com/pulse/future-lawyers-legal-tech-ai-big-data-online-courts-bernard-marr"
 type: article
 quality: 37
 heat: -1
@@ -30,9 +30,9 @@ related:
   - title: "Inside the future of online dating: AI swiping and concierge bots"
     excerpt: "Once it knows what you want, it can essentially use the apps for you. They’re posted on Github; here is the exact one that Winters used, but there are many more — such as the Bernie AI. These facts alone have led some people to wring their hands and mourn the ways of olde, like meeting through at church or through friends at work."
     publishedDateTime: 2020-01-31T16:53:00Z
-    sourceUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating/"
-    ampUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating.amp"
-    cdnAmpUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tinder-hack-bot-ai-dating.amp"
+    webUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating/"
+    ampWebUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tinder-hack-bot-ai-dating.amp"
     type: article
     provider:
       name: Mashable
@@ -45,9 +45,9 @@ related:
   - title: "Pros And Cons Of Artificial Intelligence"
     excerpt: "All things considered, the most buzz making things of 2020 in the innovation area are Artificial Intelligence or the extremely popular AI, Machine learning and the information science advancements. Yet, the most occurring of these three, the AI has been certainly taken into such huge numbers of possibilities while choosing to manufacture a ..."
     publishedDateTime: 2020-01-31T10:35:00Z
-    sourceUrl: "https://techbullion.com/pros-and-cons-of-artificial-intelligence/"
-    ampUrl: "https://techbullion.com/pros-and-cons-of-artificial-intelligence/amp/"
-    cdnAmpUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/pros-and-cons-of-artificial-intelligence/amp/"
+    webUrl: "https://techbullion.com/pros-and-cons-of-artificial-intelligence/"
+    ampWebUrl: "https://techbullion.com/pros-and-cons-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/pros-and-cons-of-artificial-intelligence/amp/"
     type: article
     provider:
       name: Impacts
@@ -60,9 +60,9 @@ related:
   - title: "How experts are using artificial intelligence to shape the future of fashion"
     excerpt: "Digital supermodels, virtual trial rooms and analytics could possibly change the way we shop in the future. In the age of artificial intelligence, analytics and big data—which collectively translate unstructured data to meaningful solutions, trends and patterns—how does the fashion industry keep up? For instance, excess stock arises from ..."
     publishedDateTime: 2020-01-27T13:05:00Z
-    sourceUrl: "https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion"
-    ampUrl: "https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp"
-    cdnAmpUrl: "https://www-vogue-in.cdn.ampproject.org/c/s/www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp"
+    webUrl: "https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion"
+    ampWebUrl: "https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp"
+    cdnAmpWebUrl: "https://www-vogue-in.cdn.ampproject.org/c/s/www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp"
     type: article
     provider:
       name: Vogue India
@@ -75,7 +75,7 @@ related:
   - title: "Machine Learning: Automating Businesses for the Future"
     excerpt: "Predictive analytics, artificial intelligence, and machine learning enhances the consumer-centric services and has changed the ways different business activities are performed. The most immediate way by which businesses utilize machine learning is for bettering their competitiveness by automating back-office processes. The majority of which is ..."
     publishedDateTime: 2020-01-25T03:33:00Z
-    sourceUrl: "https://www.cioreview.com/news/machine-learning-automating-businesses-for-the-future-nid-31096-cid-207.html"
+    webUrl: "https://www.cioreview.com/news/machine-learning-automating-businesses-for-the-future-nid-31096-cid-207.html"
     type: article
     provider:
       name: CIOReview
@@ -88,9 +88,9 @@ related:
   - title: "AI and Content Writing: How to Adapt to the Future"
     excerpt: "At first, this might conjure images of robot take-overs — but the reality is much simpler and much less scary. In fact, artificial intelligence is something we use everyday ... Public Relations agency known for turning companies and executives, including start-ups, into industry icons. Her company uses PR, inbound and content marketing ..."
     publishedDateTime: 2020-01-31T14:09:00Z
-    sourceUrl: "https://www.business2community.com/business-innovation/ai-and-content-writing-how-to-adapt-to-the-future-02279835"
-    ampUrl: "https://www.business2community.com/business-innovation/ai-and-content-writing-how-to-adapt-to-the-future-02279835/amp"
-    cdnAmpUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/ai-and-content-writing-how-to-adapt-to-the-future-02279835/amp"
+    webUrl: "https://www.business2community.com/business-innovation/ai-and-content-writing-how-to-adapt-to-the-future-02279835"
+    ampWebUrl: "https://www.business2community.com/business-innovation/ai-and-content-writing-how-to-adapt-to-the-future-02279835/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/ai-and-content-writing-how-to-adapt-to-the-future-02279835/amp"
     type: article
     provider:
       name: Business 2 Community

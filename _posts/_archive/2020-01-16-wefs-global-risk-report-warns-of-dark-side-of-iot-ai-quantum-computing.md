@@ -3,7 +3,7 @@ category: news
 title: "WEF's Global Risk Report warns of dark side of IoT, AI, quantum computing"
 excerpt: "World Economic Forum report once again lists cyberattacks as one of the top threats facing the world in 2020 - alongside climate change, extreme weather and natural disasters."
 publishedDateTime: 2020-01-16T21:16:00Z
-sourceUrl: "https://www.zdnet.com/video/the-dark-side-of-iot-ai-and-quantum-computing-hacking-data-breaches-and-existential-threat/"
+webUrl: "https://www.zdnet.com/video/the-dark-side-of-iot-ai-and-quantum-computing-hacking-data-breaches-and-existential-threat/"
 type: article
 quality: 66
 heat: 66

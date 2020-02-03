@@ -3,9 +3,9 @@ category: news
 title: "Exclusive: Here's how Tata's new AI-driven mutual fund plans beat the market and how it will react if a war breaks out"
 excerpt: "Some, like the $54 billion Pangora Asset Management Quant Fund, even use natural language processing (NLP) to keep tabs on traders to predict upcoming market trends. \"We have tried that, we didn’t get much of a lift from using that data. So, currently ..."
 publishedDateTime: 2020-01-21T07:12:00Z
-sourceUrl: "https://www.businessinsider.in/stock-market/news/exclusive-heres-how-tatas-new-mutual-fund-plans-to-use-ai-to-beat-the-market-and-how-it-will-react-if-a-war-breaks-out/articleshow/73476096.cms"
-ampUrl: "https://www.businessinsider.in/stock-market/news/exclusive-heres-how-tatas-new-mutual-fund-plans-to-use-ai-to-beat-the-market-and-how-it-will-react-if-a-war-breaks-out/amp_articleshow/73476096.cms"
-cdnAmpUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/stock-market/news/exclusive-heres-how-tatas-new-mutual-fund-plans-to-use-ai-to-beat-the-market-and-how-it-will-react-if-a-war-breaks-out/amp_articleshow/73476096.cms"
+webUrl: "https://www.businessinsider.in/stock-market/news/exclusive-heres-how-tatas-new-mutual-fund-plans-to-use-ai-to-beat-the-market-and-how-it-will-react-if-a-war-breaks-out/articleshow/73476096.cms"
+ampWebUrl: "https://www.businessinsider.in/stock-market/news/exclusive-heres-how-tatas-new-mutual-fund-plans-to-use-ai-to-beat-the-market-and-how-it-will-react-if-a-war-breaks-out/amp_articleshow/73476096.cms"
+cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/stock-market/news/exclusive-heres-how-tatas-new-mutual-fund-plans-to-use-ai-to-beat-the-market-and-how-it-will-react-if-a-war-breaks-out/amp_articleshow/73476096.cms"
 type: article
 quality: 35
 heat: 35

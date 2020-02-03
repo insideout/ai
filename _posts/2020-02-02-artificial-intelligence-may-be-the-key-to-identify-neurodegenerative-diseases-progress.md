@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence may be the key to identify neurodegenerative diseases' progress"
 excerpt: "Montreal (Quebec) [Canada], Feb 2 (ANI): Artificial intelligence (AI) algorithms show the potential to predict neurodegenerative diseases progression among humans. This amalgamation of computer science and medicine could potentially assist doctors to adopt ..."
 publishedDateTime: 2020-02-02T15:54:00Z
-sourceUrl: "https://www.aninews.in/news/science/artificial-intelligence-may-be-the-key-to-identify-neurodegenerative-diseases-progress20200202212253/"
+webUrl: "https://www.aninews.in/news/science/artificial-intelligence-may-be-the-key-to-identify-neurodegenerative-diseases-progress20200202212253/"
 type: article
 quality: 29
 heat: 29

@@ -3,7 +3,7 @@ category: news
 title: "OptraHEALTH Collaborates with Microsoft Azure to Serve Genomic Health Industry with the Launch of GeneFAX Pro"
 excerpt: "Opt-into our eNewsletter NOW! For the Latest Trending Financial News Topics in Cannabis, Tech, Biotechs, Precious Metals, Energy, Renewable Energy and much more! Please visit us on a daily basis to stay up to date with Latest Buzz in Financial and Economic News! www.financialbuzz.com Located on Wall Street in the heart of New York City’s ..."
 publishedDateTime: 2020-01-21T17:59:00Z
-sourceUrl: "https://www.financialbuzz.com/optrahealth-collaborates-with-microsoft-azure-to-serve-genomic-health-industry-with-the-launch-of-genefax-pro/"
+webUrl: "https://www.financialbuzz.com/optrahealth-collaborates-with-microsoft-azure-to-serve-genomic-health-industry-with-the-launch-of-genefax-pro/"
 type: article
 quality: 15
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "Edith Cowan Uni reduces IT costs with migration to Microsoft Azure"
     excerpt: "According to Microsoft, Azure is already changing the way that ECU uses technology ... Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics ..."
     publishedDateTime: 2020-01-21T03:25:00Z
-    sourceUrl: "https://www.itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html"
+    webUrl: "https://www.itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html"
     type: article
     provider:
       name: ITWire

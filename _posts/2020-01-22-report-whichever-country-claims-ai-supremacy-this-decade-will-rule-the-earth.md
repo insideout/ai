@@ -3,7 +3,7 @@ category: news
 title: "Report: Whichever country claims AI supremacy this decade will rule the Earth"
 excerpt: "Gill argues that AI, like steam power, electricity, and information systems technology ... This feature of Eastern rule is juxtaposed by a dead-in-the-water startup economy that’s holding China back in some major ways. Per Gill’s report: China has neither the entrepreneurial nimbleness of America nor the capable public finance systems ..."
 publishedDateTime: 2020-01-22T03:22:00Z
-sourceUrl: "https://thenextweb.com/artificial-intelligence/2020/01/21/report-whichever-country-claims-ai-supremacy-this-decade-will-rule-the-earth/"
+webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/21/report-whichever-country-claims-ai-supremacy-this-decade-will-rule-the-earth/"
 type: article
 quality: 64
 heat: 64

@@ -1,7 +1,7 @@
 ---
 title: "Building Your First scikit-learn Solution"
 excerpt: "This course covers both the why and how of using scikit-learn. You'll delve into scikit-learn’s niche in the ever-growing taxonomy of machine learning libraries, and important aspects of working with scikit-learn estimators and pipelines."
-sourceUrl: https://www.pluralsight.com/courses/building-first-scikit-learn-solution
+webUrl: https://www.pluralsight.com/courses/building-first-scikit-learn-solution
 type: course
 price: $$
 length: 2h 7m

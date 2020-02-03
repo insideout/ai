@@ -1,7 +1,7 @@
 ---
 title: "Build, Train, and Deploy Machine Learning Models with AWS SageMaker"
 excerpt: "A fully managed machine learning service is a great place to start if you want to quickly get machine learning into your applications. In this course, Build, Train, and Deploy Machine Learning Models with AWS SageMaker, you will gain the ability to create machine learning models in AWS SageMaker and to integrate them into your applications. First, you’ll learn the basics and how to set up SageMaker. Next, you’ll discover how to build, train, and deploy models applied to Image Classification for breast cancer detection and how to integrate them into a REST API. Finally, you will even discover how to manage security and scalability in AWS SageMaker. When you’re finished with this course, you will have a foundational understanding of AWS SageMaker that will help you immensely as you move forward to create your own machine-learning-enabled applications applied to different real-life scenarios."
-sourceUrl: https://www.pluralsight.com/courses/aws-sagemaker-machine-learning-models
+webUrl: https://www.pluralsight.com/courses/aws-sagemaker-machine-learning-models
 type: course
 price: $$
 length: 2h 40m

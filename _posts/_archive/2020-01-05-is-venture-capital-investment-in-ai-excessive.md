@@ -3,9 +3,9 @@ category: news
 title: "Is Venture Capital Investment In AI Excessive?"
 excerpt: "Not only are startups raising increasingly eye-opening amounts of money, but venture capital funds themselves are raising skyrocketing levels of new capital if they focus their portfolios on AI and related areas."
 publishedDateTime: 2020-01-05T17:49:00Z
-sourceUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/
-ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/
+webUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/
+ampWebUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/
+cdnAmpWebUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/
 type: article
 quality: 89
 heat: 99
@@ -33,7 +33,7 @@ related:
   - title: "CES 2020: Investing In Artificial Intelligence"
     excerpt: "I have been following IBM for more than 20 years now and only owned the stock once from just after the financial crisis to early 2014. The stock has been in a steady chop down since late 2014. The company itself has seemed burdened by legacy and frankly been rather boring. I'm not bored anymore. Watson, their famous AI, is already solving ..."
     publishedDateTime: 2020-01-07T17:59:00Z
-    sourceUrl: https://seekingalpha.com/article/4315618-ces-2020-investing-in-artificial-intelligence
+    webUrl: https://seekingalpha.com/article/4315618-ces-2020-investing-in-artificial-intelligence
     type: article
     provider:
       name: Seeking Alpha

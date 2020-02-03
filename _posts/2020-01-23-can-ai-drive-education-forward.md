@@ -3,9 +3,9 @@ category: news
 title: "Can AI Drive Education Forward?"
 excerpt: "Teachers are asked to incorporate more technology in the classroom but they are not necessarily given the time to learn and make the most out of it."
 publishedDateTime: 2020-01-23T15:46:00Z
-sourceUrl: "https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/"
-ampUrl: "https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/"
+webUrl: "https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/"
+ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/"
 type: article
 quality: 89
 heat: 89

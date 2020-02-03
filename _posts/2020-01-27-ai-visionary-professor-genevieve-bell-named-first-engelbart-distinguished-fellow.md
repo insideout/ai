@@ -3,7 +3,7 @@ category: news
 title: "AI ‘visionary’ Professor Genevieve Bell named first Engelbart Distinguished Fellow"
 excerpt: "Do you want to leverage data governance as an enabler?Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics to the limits? With so much to keep on top of in such a rapidly changing technology space, collaboration is key to success."
 publishedDateTime: 2020-01-27T16:20:00Z
-sourceUrl: "https://itwire.com/education/ai-‘visionary’-professor-genevieve-bell-named-first-engelbart-distinguished-fellow.html"
+webUrl: "https://itwire.com/education/ai-‘visionary’-professor-genevieve-bell-named-first-engelbart-distinguished-fellow.html"
 type: article
 quality: 33
 heat: 33

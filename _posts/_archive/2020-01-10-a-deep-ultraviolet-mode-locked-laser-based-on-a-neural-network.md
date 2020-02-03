@@ -3,7 +3,7 @@ category: news
 title: "A Deep Ultraviolet Mode-locked Laser Based on a Neural Network"
 excerpt: "The neural network helps us control the position of the crystal ... Other optimization technologies need large datasets. Thus, we choose the Artificial neuron network (ANN) as our optimization tool. Our ANN can perform real-time operations to give the optimal parameter solution in the current environment. We train the ANN each time because ..."
 publishedDateTime: 2020-01-10T11:18:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-019-56845-6"
+webUrl: "https://www.nature.com/articles/s41598-019-56845-6"
 type: article
 quality: 39
 heat: 39

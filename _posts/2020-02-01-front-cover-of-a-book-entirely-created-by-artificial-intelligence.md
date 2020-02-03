@@ -3,7 +3,7 @@ category: news
 title: "Front Cover of a Book Entirely Created by Artificial Intelligence"
 excerpt: "landmark in the story of AI with its February 2020 publication. The front cover of the book has been entirely created by Artificial Intelligence (AI) by selecting the winning cover design and overlaying the text. AI machines can’t be creative? Yes they can. A specific type of machine learning called Generative Adversarial Networks (GANs), can ..."
 publishedDateTime: 2020-02-01T06:15:00Z
-sourceUrl: "https://insidebigdata.com/2020/01/31/front-cover-of-a-book-entirely-created-by-artificial-intelligence/"
+webUrl: "https://insidebigdata.com/2020/01/31/front-cover-of-a-book-entirely-created-by-artificial-intelligence/"
 type: article
 quality: 37
 heat: 37

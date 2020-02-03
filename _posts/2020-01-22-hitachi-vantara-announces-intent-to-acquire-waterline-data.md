@@ -3,7 +3,7 @@ category: news
 title: "Hitachi Vantara Announces Intent To Acquire Waterline Data"
 excerpt: "Waterline Data delivers catalog technology enabled by machine learning (ML) that automates metadata discovery to solve modern data ... It can be applied on-premises or in the cloud to large volumes of data in Hadoop, SQL, Amazon Web Services (AWS), Microsoft Azure and Google Cloud environments. Waterline Data’s patented “fingerprinting ..."
 publishedDateTime: 2020-01-22T14:29:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-hitachi-vantara-announces-intent-acquire-waterline-data-/2020/01/22/9085292.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-hitachi-vantara-announces-intent-acquire-waterline-data-/2020/01/22/9085292.htm"
 type: article
 quality: 24
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Glenbriar Announces Termination of Agreement to Acquire Eleos Robotics Inc."
     excerpt: "VANCOUVER, BC / ACCESSWIRE / January 27, 2020 / Glenbriar Technologies Inc. (CSE:GTI) (the \"Company\") wishes to provide an update to its March 15, 2019 press release announcing an arms length agreement to acquire all of the shares of private BC-based Eleos Robotics Inc."
     publishedDateTime: 2020-01-27T23:20:00Z
-    sourceUrl: "https://www.benzinga.com/pressreleases/20/01/ac15194908/glenbriar-announces-termination-of-agreement-to-acquire-eleos-robotics-inc"
-    ampUrl: "https://amp.benzinga.com/amp/content/15194908"
-    cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15194908"
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ac15194908/glenbriar-announces-termination-of-agreement-to-acquire-eleos-robotics-inc"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15194908"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15194908"
     type: article
     provider:
       name: Benzinga.com

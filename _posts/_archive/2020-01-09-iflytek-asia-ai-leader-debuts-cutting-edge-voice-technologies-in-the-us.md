@@ -3,7 +3,7 @@ category: news
 title: "iFLYTEK, Asia AI Leader, Debuts Cutting-Edge Voice Technologies in the US"
 excerpt: "iFLYTEK is well known for its transformative product development and intellectual leadership in the AI marketplace. The following products were exhibited today for the first time in the US. Jarvisen – A new generation translator that enables effortless communication between 60 languages. This consumer product is powered by iFLYTEK voice ..."
 publishedDateTime: 2020-01-09T00:39:00Z
-sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/iflytek-asia-ai-leader-debuts-cutting-edge-voice-technologies-in/article_60853699-2a71-5856-b176-c55c733da348.html
+webUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/iflytek-asia-ai-leader-debuts-cutting-edge-voice-technologies-in/article_60853699-2a71-5856-b176-c55c733da348.html
 type: article
 quality: 18
 heat: 18

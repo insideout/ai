@@ -3,7 +3,7 @@ category: news
 title: "AI Start-up ExaWizards Launches \"Qontextual,\" FAQ Search Engine"
 excerpt: "TOKYO, Jan. 17, 2020 /PRNewswire/ -- ExaWizards Inc. (hereinafter, \"ExaWizards\"), a Tokyo-based firm specializing in development of AI-enabled services for industrial innovation and social problems solutions, launched \"Qontextual,\" a FAQ search engine, on Thursday, January 16, 2020. - Can be used for a wide range of purposes such as ..."
 publishedDateTime: 2020-01-18T00:24:00Z
-sourceUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-start-up-exawizards-launches-qontextual-faq-search-engine/article_7f3e52bd-3f26-570e-b91f-96df81e24a22.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-start-up-exawizards-launches-qontextual-faq-search-engine/article_7f3e52bd-3f26-570e-b91f-96df81e24a22.html"
 type: article
 quality: 37
 heat: 37

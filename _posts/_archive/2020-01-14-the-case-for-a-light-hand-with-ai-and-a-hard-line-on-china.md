@@ -3,9 +3,9 @@ category: news
 title: "The Case for a Light Hand With AI and a Hard Line on China"
 excerpt: "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity."
 publishedDateTime: 2020-01-14T15:00:00Z
-sourceUrl: "https://www.wired.com/story/light-hand-ai-hard-line-china/"
-ampUrl: "https://www.wired.com/story/light-hand-ai-hard-line-china/amp"
-cdnAmpUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp"
+webUrl: "https://www.wired.com/story/light-hand-ai-hard-line-china/"
+ampWebUrl: "https://www.wired.com/story/light-hand-ai-hard-line-china/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp"
 type: article
 quality: 87
 heat: 87

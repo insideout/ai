@@ -3,9 +3,9 @@ category: news
 title: "AI, analytics drive 4IR in the public sector"
 excerpt: "During his presentation, Schoonraad will engage the audience on the enabling environment for AI and analytics in government and point to use cases that South Africa should explore. He will also touch on ethics and the role of government in regulating its own and private-sector AI."
 publishedDateTime: 2020-01-17T11:28:00Z
-sourceUrl: "https://www.itweb.co.za/content/mYZRXv9PbaBqOgA8"
-ampUrl: "https://amp.itweb.co.za/content/mYZRXv9PbaBqOgA8"
-cdnAmpUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/mYZRXv9PbaBqOgA8"
+webUrl: "https://www.itweb.co.za/content/mYZRXv9PbaBqOgA8"
+ampWebUrl: "https://amp.itweb.co.za/content/mYZRXv9PbaBqOgA8"
+cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/mYZRXv9PbaBqOgA8"
 type: article
 quality: 59
 heat: 59

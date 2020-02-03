@@ -1,7 +1,7 @@
 ---
 title: "Get Answers in Context with Semantic Search in Microsoft 365: DEVintersection 2019"
 excerpt: "DEVintersection 2019 | Get Answers in Context with Semantic Search in Microsoft 365 | Bill Baer"
-sourceUrl: https://www.pluralsight.com/courses/devintersection-azureai-session-22
+webUrl: https://www.pluralsight.com/courses/devintersection-azureai-session-22
 type: course
 price: $$
 length: 48m

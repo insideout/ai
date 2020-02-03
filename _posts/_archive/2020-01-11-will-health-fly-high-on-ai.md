@@ -3,9 +3,9 @@ category: news
 title: "Will health fly high on AI?"
 excerpt: "Artificial Intelligence (AI) promises to uplift our ... be overcome by AI-guided therapy and monitoring? Can the much faster analytic speed of AI eliminate delays in diagnosis and treatment?"
 publishedDateTime: 2020-01-11T02:10:00Z
-sourceUrl: "https://www.newindianexpress.com/opinions/2020/jan/11/will-health-fly-high-on-ai-2088057.html"
-ampUrl: "https://www.newindianexpress.com/opinions/2020/jan/11/will-health-fly-high-on-ai-2088057.amp"
-cdnAmpUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/2020/jan/11/will-health-fly-high-on-ai-2088057.amp"
+webUrl: "https://www.newindianexpress.com/opinions/2020/jan/11/will-health-fly-high-on-ai-2088057.html"
+ampWebUrl: "https://www.newindianexpress.com/opinions/2020/jan/11/will-health-fly-high-on-ai-2088057.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/2020/jan/11/will-health-fly-high-on-ai-2088057.amp"
 type: article
 quality: 59
 heat: 59

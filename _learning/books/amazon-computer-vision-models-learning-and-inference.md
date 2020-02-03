@@ -1,7 +1,7 @@
 ---
 title: "Computer Vision: Models, Learning, and Inference"
 excerpt: "This modern treatment of computer vision focuses on learning and inference in probabilistic models as a unifying theme. It shows how to use training data to learn the relationships between the observed image data and the aspects of the world that we wish to estimate, such as the 3D structure or the object class, and how to exploit these relationships to make new inferences about the world from new image data. W"
-sourceUrl: https://www.amazon.com/Computer-Vision-Models-Learning-Inference/dp/1107011795/
+webUrl: https://www.amazon.com/Computer-Vision-Models-Learning-Inference/dp/1107011795/
 type: book
 price: $47.88
 length: 

@@ -3,7 +3,7 @@ category: news
 title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
 excerpt: "San Diego company hopes to have driver assist features like automated parking and highway auto-pilot in vehicles as soon as 2023"
 publishedDateTime: 2020-01-07T02:46:00Z
-sourceUrl: "https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars"
+webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars"
 type: article
 quality: 0
 heat: 0

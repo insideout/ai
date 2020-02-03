@@ -3,7 +3,7 @@ category: news
 title: "Comparison of different input modalities and network structures for deep learning-based seizure detection"
 excerpt: "The manual review of an electroencephalogram (EEG) for seizure detection is a laborious and error-prone process. Thus, automated seizure detection based on machine learning has been studied for decades. Recently, deep learning has been adopted in order to avoid manual feature extraction and selection. In the present study, we systematically ..."
 publishedDateTime: 2020-01-10T10:21:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-019-56958-y"
+webUrl: "https://www.nature.com/articles/s41598-019-56958-y"
 type: article
 quality: 22
 heat: 22

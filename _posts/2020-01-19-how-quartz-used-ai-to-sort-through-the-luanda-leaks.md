@@ -3,9 +3,9 @@ category: news
 title: "How Quartz used AI to sort through the Luanda Leaks"
 excerpt: "But they had a problem: That’s a heck of a lot of files. ICIJ partnered with Quartz’s AI Studio to find a solution. We built a system using artificial intelligence to “read” all the documents and help journalists from Quartz, ICIJ and other partner organizations find the kinds of documents they expected in the cache of leaks ..."
 publishedDateTime: 2020-01-19T18:00:00Z
-sourceUrl: "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/"
-ampUrl: "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/"
-cdnAmpUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/"
+webUrl: "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/"
+ampWebUrl: "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/"
+cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/"
 type: article
 quality: 87
 heat: 87

@@ -3,7 +3,7 @@ category: news
 title: "Netki Releases Updated Face-Matching Technology for OnboardID"
 excerpt: "This is in contrast to the findings of a recent NIST study, in which 189 different facial recognition algorithms were found to perform poorly when trying to identify people who weren't young, white and male. \"We wanted to ensure that Netki's algorithms were different than the others,\" said Dawn Newton, COO of Netki. \"That focus enabled us to ..."
 publishedDateTime: 2020-01-17T00:44:00Z
-sourceUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/netki-releases-updated-face-matching-technology-for-onboardid/article_e3c07c6a-0101-5b3f-ad11-a42c5aa8fa39.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/netki-releases-updated-face-matching-technology-for-onboardid/article_e3c07c6a-0101-5b3f-ad11-a42c5aa8fa39.html"
 type: article
 quality: 24
 heat: 24

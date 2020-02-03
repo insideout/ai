@@ -1,7 +1,7 @@
 ---
 title: "Overview of Advanced Methods of Reinforcement Learning in Finance"
 excerpt: "Learn Overview of Advanced Methods of Reinforcement Learning in Finance from New York University Tandon School of Engineering. In the last course of our specialization, Overview of Advanced Methods of Reinforcement Learning in Finance, we will ..."
-sourceUrl: https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance
+webUrl: https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance
 type: course
 price: Free+
 length: 15 hours

@@ -3,9 +3,9 @@ category: news
 title: "New York Institute of Finance and Google Cloud Launch A Machine Learning for Trading Specialization on Coursera"
 excerpt: "Three-course Specialization taught by renowned subject-matter experts equips learners with sought-after skills in finance and AI MOUNTAIN VIEW, Calif. (PRWEB) January 22,"
 publishedDateTime: 2020-01-22T16:00:00Z
-sourceUrl: "https://www.benzinga.com/pressreleases/20/01/p15164967/new-york-institute-of-finance-and-google-cloud-launch-a-machine-learning-for-trading-specializatio"
-ampUrl: "https://amp.benzinga.com/amp/content/15164967"
-cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15164967"
+webUrl: "https://www.benzinga.com/pressreleases/20/01/p15164967/new-york-institute-of-finance-and-google-cloud-launch-a-machine-learning-for-trading-specializatio"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15164967"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15164967"
 type: article
 quality: 21
 heat: 21

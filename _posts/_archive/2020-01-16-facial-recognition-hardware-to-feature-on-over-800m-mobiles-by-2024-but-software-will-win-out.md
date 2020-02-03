@@ -3,7 +3,7 @@ category: news
 title: "Facial Recognition Hardware To Feature On Over 800m Mobiles By 2024, But Software Will Win Out"
 excerpt: "As the longest running biometric modality, fingerprint payments will take the lead in this market as standards coalesce around the technology more easily than for facial recognition payments.“Many consumers are now used to making fingerprint-based biometric payments, both for contactless and remote payments,” remarked research author James ..."
 publishedDateTime: 2020-01-16T17:01:00Z
-sourceUrl: "https://www.vendingmarketwatch.com/technology/mobile-payment-systems/news/21121613/facial-recognition-hardware-to-feature-on-over-800m-mobiles-by-2024-but-software-will-win-out"
+webUrl: "https://www.vendingmarketwatch.com/technology/mobile-payment-systems/news/21121613/facial-recognition-hardware-to-feature-on-over-800m-mobiles-by-2024-but-software-will-win-out"
 type: article
 quality: 27
 heat: 27

@@ -3,9 +3,9 @@ category: news
 title: "This exhibition at the Philadelphia Museum of Art showcases incredible futuristic ideas"
 excerpt: "Yasin founded Petit Pli, available online, which aims to reduce wastage in the fashion industry. Neurodildo is a mind-controlled sex toy, designed by Brazilian electrical engineer Leonardo Mariano Gomes. Still in the testing phase, the ‘Neurodildo’ provides a vibrator for one partner that is remotely connected to an electroencephalogram ..."
 publishedDateTime: 2020-01-22T22:58:00Z
-sourceUrl: "https://www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/"
-ampUrl: "https://www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/amp/"
-cdnAmpUrl: "https://www-architecturaldigest-in.cdn.ampproject.org/c/s/www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/amp/"
+webUrl: "https://www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/"
+ampWebUrl: "https://www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/amp/"
+cdnAmpWebUrl: "https://www-architecturaldigest-in.cdn.ampproject.org/c/s/www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/amp/"
 type: article
 quality: 36
 heat: 36

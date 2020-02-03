@@ -1,7 +1,7 @@
 ---
 title: "Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images"
 excerpt: "If you want a basic understanding of computer vision’s underlying theory and algorithms, this hands-on introduction is the ideal place to start. You’ll learn techniques for object recognition, 3D reconstruction, stereo imaging, augmented reality, and other computer vision applications as you follow clear examples written in Python."
-sourceUrl: https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/
+webUrl: https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/
 type: book
 price: $38.66
 length: 

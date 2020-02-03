@@ -3,7 +3,7 @@ category: news
 title: "Xenobots: UVM scientists create living robots"
 excerpt: "It’s a living robot and, while just a fraction of a millimeter in width ... which they took from frog embryos, and assembled them using artificial intelligence into entirely new life-forms. They’re called xenobots, named for the African frog genus that donated the cells, and they can move toward a target, pick things up, and heal themselves."
 publishedDateTime: 2020-01-25T08:10:00Z
-sourceUrl: "https://www.rutlandherald.com/features/weekend_magazine/xenobots-uvm-scientists-create-living-robots/article_db9ffaed-d0bd-5427-a453-ac7b4a37ae63.html"
+webUrl: "https://www.rutlandherald.com/features/weekend_magazine/xenobots-uvm-scientists-create-living-robots/article_db9ffaed-d0bd-5427-a453-ac7b4a37ae63.html"
 type: article
 quality: 39
 heat: 39

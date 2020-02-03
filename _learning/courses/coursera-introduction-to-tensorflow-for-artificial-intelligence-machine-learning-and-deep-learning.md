@@ -1,7 +1,7 @@
 ---
 title: "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
 excerpt: "Learn Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools ..."
-sourceUrl: https://www.coursera.org/learn/introduction-tensorflow
+webUrl: https://www.coursera.org/learn/introduction-tensorflow
 type: course
 price: Free+
 length: 9 hours

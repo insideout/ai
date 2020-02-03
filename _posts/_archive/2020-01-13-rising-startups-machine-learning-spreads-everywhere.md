@@ -3,7 +3,7 @@ category: news
 title: "Rising startups: machine learning spreads everywhere"
 excerpt: "Finnomena offers investment products, financial advice, analysis tools ... The startups that make up its second cohort are the following: Izy.ai leverages mobile and machine learning technology to deliver concierge services that customize guest experience, digitize hotel services, and improve internal hotel productivity. 18."
 publishedDateTime: 2020-01-13T06:13:00Z
-sourceUrl: "https://www.techinasia.com/rising-startups-smarter-agriculture-education-logistics"
+webUrl: "https://www.techinasia.com/rising-startups-smarter-agriculture-education-logistics"
 type: article
 quality: 34
 heat: -1
@@ -25,9 +25,9 @@ related:
   - title: "The U.S. Leads in World-Changing Startups"
     excerpt: "A new report shows the U.S. dramatically leads with new companies focused on emerging technologies. The United States enters 2020 on a favorable technology setting, with 23 of 36 of what CB Insights labels \"game-changing\" tech startup companies this year being based in the country."
     publishedDateTime: 2020-01-14T20:00:00Z
-    sourceUrl: "https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world"
-    ampUrl: "https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp"
-    cdnAmpUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp"
+    webUrl: "https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world"
+    ampWebUrl: "https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
@@ -36,7 +36,7 @@ related:
   - title: "MedTech Revolutionary Innovations in Cosmetic & Aesthetic Procedures Changing Industry Dynamics - ResearchAndMarkets.com"
     excerpt: "The report also showcases emerging technologies such as artificial intelligence (AI), augmented reality (AR)/virtual reality (VR), shockwave therapy, and micro needling technology. The research service discusses the impact of these innovations, funding, drivers and challenges, and future growth opportunities. Key Topics Covered: 1.0 Executive ..."
     publishedDateTime: 2020-01-14T09:29:00Z
-    sourceUrl: "https://www.businesswire.com/news/home/20200114005377/en/MedTech-Revolutionary-Innovations-Cosmetic-Aesthetic-Procedures-Changing"
+    webUrl: "https://www.businesswire.com/news/home/20200114005377/en/MedTech-Revolutionary-Innovations-Cosmetic-Aesthetic-Procedures-Changing"
     type: article
     provider:
       name: Business Wire

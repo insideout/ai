@@ -3,7 +3,7 @@ category: news
 title: "Cognitive Services Platform Market Perceives A Fabulous Growth Prospects; Unleashed Market Insights Till 2023"
 excerpt: "Cognitive Services Platform Market In this rapidly changing world of technology, cognitive services platform market"
 publishedDateTime: 2020-01-27T11:54:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/cognitive-services-platform-market-perceives-a-fabulous-growth-prospects-unleashed-market-insights-till-2023-2020-01-27"
+webUrl: "https://www.marketwatch.com/press-release/cognitive-services-platform-market-perceives-a-fabulous-growth-prospects-unleashed-market-insights-till-2023-2020-01-27"
 type: article
 quality: 50
 heat: 50

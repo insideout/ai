@@ -3,7 +3,7 @@ category: news
 title: "The role of artificial intelligence in achieving the Sustainable Development Goals"
 excerpt: "The emergence of artificial intelligence (AI) and its progressively wider impact on many sectors requires an assessment of its effect on the achievement of the Sustainable Development Goals. Using a consensus-based expert elicitation process, we find that AI can enable the accomplishment of 134 targets across all the goals, but it may also ..."
 publishedDateTime: 2020-01-13T10:06:00Z
-sourceUrl: "https://www.nature.com/articles/s41467-019-14108-y"
+webUrl: "https://www.nature.com/articles/s41467-019-14108-y"
 type: article
 quality: 46
 heat: 46

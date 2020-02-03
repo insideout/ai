@@ -3,7 +3,7 @@ category: news
 title: "How Deepmind Restored Beauty To Chess - Gaming - Nairaland"
 excerpt: "ARTIFICIAL VS HUMAN INTELLIGENCE A few years ago, the A.I. company DeepMind set out to use games to hack human intelligence. They thought that if they could invent a better computing system, one that taught itself how to do things without human bias or preconceptions, they could “solve intelligence and then use it to solve a lot of other ..."
 publishedDateTime: 2020-01-12T11:53:00Z
-sourceUrl: "https://www.nairaland.com/5627097/how-deepmind-restored-beauty-chess"
+webUrl: "https://www.nairaland.com/5627097/how-deepmind-restored-beauty-chess"
 type: article
 quality: 54
 heat: 54

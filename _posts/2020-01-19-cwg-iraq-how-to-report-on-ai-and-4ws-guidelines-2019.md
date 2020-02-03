@@ -3,7 +3,7 @@ category: news
 title: "CWG (Iraq) – How to Report on AI and 4Ws Guidelines (2019)"
 excerpt: "This guideline is to assist AI focal points during their reporting period. With the constant turnover of staff, this guideline should also be able to provide a clear step by step for new AI focal points to ensure the reporting deadlines are met and the data quality of the reporting is with minimum to no errors. This guideline should be used by ..."
 publishedDateTime: 2020-01-19T15:42:00Z
-sourceUrl: "https://reliefweb.int/report/iraq/cwg-iraq-how-report-ai-and-4ws-guidelines-2019"
+webUrl: "https://reliefweb.int/report/iraq/cwg-iraq-how-report-ai-and-4ws-guidelines-2019"
 type: article
 quality: 37
 heat: 37

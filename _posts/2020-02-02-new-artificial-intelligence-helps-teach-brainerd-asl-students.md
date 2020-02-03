@@ -3,7 +3,7 @@ category: news
 title: "New artificial intelligence helps teach Brainerd ASL students"
 excerpt: "Students studying American Sign Language at Brainerd High School and Central Lakes College are learning the language in a whole new way, thanks to a pilot program at both the schools. SignAll, a Hungary-based business, developed an artificial intelligence ..."
 publishedDateTime: 2020-02-02T08:13:00Z
-sourceUrl: "https://www.brainerddispatch.com/news/education/4916701-New-artificial-intelligence-helps-teach-Brainerd-ASL-students"
+webUrl: "https://www.brainerddispatch.com/news/education/4916701-New-artificial-intelligence-helps-teach-Brainerd-ASL-students"
 type: article
 quality: 52
 heat: 52

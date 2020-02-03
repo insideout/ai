@@ -3,9 +3,9 @@ category: news
 title: "Andrew Yang calls for global ban on killer robots"
 excerpt: "Andrew Yang is just as freaked out about creepy robots poised taking over the world as anybody. “We should lead the world in a global ban on lethal autonomous weapons systems. Only humans should be making life or death decisions,” the Democratic presidential hopeful warned in a tweet about artificial intelligence on Thursday. We should lead ..."
 publishedDateTime: 2020-02-01T06:05:00Z
-sourceUrl: "https://nypost.com/2020/02/01/andrew-yang-calls-for-global-ban-on-killer-robots/"
-ampUrl: "https://nypost.com/2020/02/01/andrew-yang-calls-for-global-ban-on-killer-robots/amp/"
-cdnAmpUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/01/andrew-yang-calls-for-global-ban-on-killer-robots/amp/"
+webUrl: "https://nypost.com/2020/02/01/andrew-yang-calls-for-global-ban-on-killer-robots/"
+ampWebUrl: "https://nypost.com/2020/02/01/andrew-yang-calls-for-global-ban-on-killer-robots/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/01/andrew-yang-calls-for-global-ban-on-killer-robots/amp/"
 type: article
 quality: 59
 heat: 59

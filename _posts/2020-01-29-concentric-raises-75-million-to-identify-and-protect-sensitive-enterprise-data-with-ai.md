@@ -3,9 +3,9 @@ category: news
 title: "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI"
 excerpt: "Its marquee product taps AI and machine learning to uncover unstructured on-premises and cloud data, and Krishnan claims customers have already used it to find “millions” of inappropriately shared and unprotected documents accessible by thousands of employees. “Businesses understand the importance of protecting their critical assets ..."
 publishedDateTime: 2020-01-29T14:00:00Z
-sourceUrl: "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/"
-ampUrl: "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/"
+webUrl: "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/"
+ampWebUrl: "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/"
 type: article
 quality: 78
 heat: -1
@@ -32,9 +32,9 @@ related:
   - title: "Roambee raises $15.2 million to track physical assets with AI"
     excerpt: "The Santa Clara, California-based startup provides on-demand shipment and asset monitoring for companies in the logistics, transportation, finance, pharmaceutical, and automotive industries, with products that combine internet of things sensors and AI with robotic process automation to deliver insights and streamline operations. After raising a ..."
     publishedDateTime: 2020-01-28T12:30:00Z
-    sourceUrl: "https://venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/"
-    ampUrl: "https://venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/amp/"
-    cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/amp/"
+    webUrl: "https://venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/amp/"
     type: article
     provider:
       name: VentureBeat
@@ -47,9 +47,9 @@ related:
   - title: "Startup that tracks cell phone data for landlords raises $12M"
     excerpt: "A location-data startup that tracks tens of millions of cell phones and provides information to landlords and brokers has raised $12 million. The firm, Placer.ai, uses cell phone data to track pedestrian traffic in retail properties and provides feedback to building owners on the performance of retail assets and how many people visit them."
     publishedDateTime: 2020-01-22T12:00:00Z
-    sourceUrl: "https://therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/"
-    ampUrl: "https://therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/amp/"
-    cdnAmpUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/amp/"
+    webUrl: "https://therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/"
+    ampWebUrl: "https://therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/amp/"
+    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/amp/"
     type: article
     provider:
       name: The Real Deal

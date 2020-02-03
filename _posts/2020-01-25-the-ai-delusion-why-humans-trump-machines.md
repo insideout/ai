@@ -3,7 +3,7 @@ category: news
 title: "The AI delusion: why humans trump machines"
 excerpt: "Most AI systems used today—whether for language translation, playing chess, driving cars, face recognition or medical diagnosis—deploy a technique called machine learning. So-called “convolutional neural -networks,” a silicon-chip version of the highly-interconnected web of neurons in our brains, are trained to spot patterns in data."
 publishedDateTime: 2020-01-25T08:05:00Z
-sourceUrl: "https://www.prospectmagazine.co.uk/magazine/the-ai-delusion-why-humans-trump-machines-robots-artificial-intelligence-alpha-go-deepmind"
+webUrl: "https://www.prospectmagazine.co.uk/magazine/the-ai-delusion-why-humans-trump-machines-robots-artificial-intelligence-alpha-go-deepmind"
 type: article
 quality: 39
 heat: 39

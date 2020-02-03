@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning with Python"
 excerpt: "Learn Machine Learning with Python from IBM. This course dives into the basics of machine learning using an approachable, and well-known programming language, Python.  In this course, we will be reviewing two main components: First, you will be ..."
-sourceUrl: https://www.coursera.org/learn/machine-learning-with-python
+webUrl: https://www.coursera.org/learn/machine-learning-with-python
 type: course
 price: Free+
 length: 16 hours

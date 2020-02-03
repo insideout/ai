@@ -3,7 +3,7 @@ category: news
 title: "Major Brazilian Bank Tests Homomorphic Encryption on Financial Data"
 excerpt: "An entity performing computation may be legitimate but at the same time curious about your information: When you ask a cloud service how long it takes to get to work ... The first step was to use HE to encrypt transaction data, as well as the machine learning-based prediction model. Financial analysts usually pinpoint factors in someone's ..."
 publishedDateTime: 2020-01-10T19:47:00Z
-sourceUrl: "https://www.darkreading.com/threat-intelligence/major-brazilian-bank-tests-homomorphic-encryption-on-financial-data/d/d-id/1336779"
+webUrl: "https://www.darkreading.com/threat-intelligence/major-brazilian-bank-tests-homomorphic-encryption-on-financial-data/d/d-id/1336779"
 type: article
 quality: 39
 heat: 39

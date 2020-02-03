@@ -3,9 +3,9 @@ category: news
 title: "From chess to ping pong: How Pegasystems is capturing the Fortune 500"
 excerpt: "And Cisco is using the technology to centralise its business processes in a company-wide rules engine that will help it respond ... and refine and develop them until they meet the needs of the ..."
 publishedDateTime: 2013-07-04T16:36:00Z
-sourceUrl: https://www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500
-ampUrl: https://www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500?amp=1
-cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500?amp=1
+webUrl: https://www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500
+ampWebUrl: https://www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500?amp=1
+cdnAmpWebUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500?amp=1
 type: article
 quality: 142
 heat: 142

@@ -3,9 +3,9 @@ category: news
 title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
 excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning ..."
 publishedDateTime: 2020-01-15T10:02:00Z
-sourceUrl: "https://www.androidauthority.com/ultimate-deep-learning-1073754/"
-ampUrl: "https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/"
-cdnAmpUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/"
+webUrl: "https://www.androidauthority.com/ultimate-deep-learning-1073754/"
+ampWebUrl: "https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/"
+cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/"
 type: article
 quality: 89
 heat: 89

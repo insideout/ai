@@ -3,7 +3,7 @@ category: news
 title: "Framing Right Testing Strategy to Avoid Challenges of Unethical AI"
 excerpt: "Here are some key AI use cases that must be tested to ensure proper system functioning: • Testing standalone cognitive features such as NLP, speech recognition and optical character recognition (OCR). • Testing artificial intelligence platforms such as IBM Watson, Infosys NIA, Azure Machine Learning Studio, Microsoft Oxford ..."
 publishedDateTime: 2020-02-01T05:13:00Z
-sourceUrl: "https://www.analyticsinsight.net/framing-right-testing-strategy-avoid-challenges-unethical-ai/"
+webUrl: "https://www.analyticsinsight.net/framing-right-testing-strategy-avoid-challenges-unethical-ai/"
 type: article
 quality: 39
 heat: 39

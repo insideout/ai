@@ -1,7 +1,7 @@
 ---
 title: "Project Planning and Machine Learning"
 excerpt: "Learn Project Planning and Machine Learning from University of Colorado Boulder. This is part 2 of the specialization. In this course students will learn :   * How to staff, plan and execute a project   * How to build a bill of materials for a ..."
-sourceUrl: https://www.coursera.org/learn/industrial-iot-project-planning-machine-learning
+webUrl: https://www.coursera.org/learn/industrial-iot-project-planning-machine-learning
 type: course
 price: Free+
 length: 14 hours

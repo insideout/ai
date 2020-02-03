@@ -1,2 +1,2 @@
-{% capture api_template -%}templates/{{ page.api }}.api.json{% endcapture -%}
+{% capture api_template -%}{{ page.api }}.api.json{% endcapture -%}
 {% include {{ api_template }} %}

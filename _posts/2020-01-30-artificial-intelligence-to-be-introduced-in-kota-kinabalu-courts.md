@@ -3,7 +3,7 @@ category: news
 title: "Artificial intelligence to be introduced in Kota Kinabalu courts"
 excerpt: "KOTA KINABALU: Courts in Kota Kinabalu will be the first in the country to use data analysis by artificial intelligence applications in deciding on sentences, according to Minister in the Prime Minister’s Department Datuk Liew Vui Keong. He said an AI application would be used in a criminal case hearing on Feb 17. According to Liew the use of ..."
 publishedDateTime: 2020-01-30T08:53:00Z
-sourceUrl: "https://www.thesundaily.my/local/artificial-intelligence-to-be-introduced-in-kota-kinabalu-courts-MK1950718"
+webUrl: "https://www.thesundaily.my/local/artificial-intelligence-to-be-introduced-in-kota-kinabalu-courts-MK1950718"
 type: article
 quality: 37
 heat: 37

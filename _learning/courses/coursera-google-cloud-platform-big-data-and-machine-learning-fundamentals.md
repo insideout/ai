@@ -1,7 +1,7 @@
 ---
 title: "Google Cloud Platform Big Data and Machine Learning Fundamentals"
 excerpt: "Learn Google Cloud Platform Big Data and Machine Learning Fundamentals from Google Cloud. This 2-week accelerated on-demand course introduces participants to the Big Data and Machine Learning capabilities of Google Cloud Platform (GCP). It ..."
-sourceUrl: https://www.coursera.org/learn/gcp-big-data-ml-fundamentals
+webUrl: https://www.coursera.org/learn/gcp-big-data-ml-fundamentals
 type: course
 price: Free+
 length: 13 hours

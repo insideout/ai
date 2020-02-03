@@ -3,7 +3,7 @@ category: news
 title: "Which is the way to go forwards with AI?"
 excerpt: "Most people are familiar with a deep learning application that involved an explicit notion of modularity and subroutines, such as Neural Module Networks or Neural Programming Interpreters like, Google Translate (GT ... methods to train artificial intelligence agents (AI) to understand human language instructions. Marcus and Bengio agreed ..."
 publishedDateTime: 2020-01-26T15:03:00Z
-sourceUrl: "https://www.pressenza.com/2020/01/which-is-the-way-to-go-forwards-with-ai/"
+webUrl: "https://www.pressenza.com/2020/01/which-is-the-way-to-go-forwards-with-ai/"
 type: article
 quality: 39
 heat: 39

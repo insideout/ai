@@ -3,7 +3,7 @@ category: news
 title: "A CES conversation with Tara Prakriya, general manager or Microsoft Azure IoT mobility"
 excerpt: "A: Azure is organized like you would expect a hyperscale cloud, that is aspiring to be everyone's computer, to be. There are many specific areas, including storage, networking and all those pieces. We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they ..."
 publishedDateTime: 2020-01-09T14:54:00Z
-sourceUrl: https://www.autonews.com/ces/ces-conversation-tara-prakriya-general-manager-or-microsoft-azure-iot-mobility
+webUrl: https://www.autonews.com/ces/ces-conversation-tara-prakriya-general-manager-or-microsoft-azure-iot-mobility
 type: article
 quality: 46
 heat: 46

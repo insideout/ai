@@ -3,7 +3,7 @@ category: news
 title: "The AI which unerringly predicts Hollywood's hits and flops"
 excerpt: "But Black Swan, a UK artificial intelligence (AI) firm hired by Disney to predict successful films, thought John Carter looked like a flop – it was. “But no one listened,” says Steve King, Black Swan co-founder and chief executive. “People absolutely convince themselves... but the machines are always right – boringly always right.”"
 publishedDateTime: 2020-01-20T06:00:00Z
-sourceUrl: "https://www.telegraph.co.uk/technology/2020/01/20/ai-unerringly-predicts-hollywoods-hits-flops/"
+webUrl: "https://www.telegraph.co.uk/technology/2020/01/20/ai-unerringly-predicts-hollywoods-hits-flops/"
 type: article
 quality: 37
 heat: 37

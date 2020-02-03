@@ -3,7 +3,7 @@ category: news
 title: "What does personalisation 2.0 look like?"
 excerpt: "Over the last few years, huge advances in artificial intelligence (AI), machine and deep-learning ... If you’re sick or sad, machines could soon offer cold remedy adverts or retail therapy. “Empathy is king when re-imagining the experiences you would like your customers to witness,” says Robin Collyer, senior director of analytics ..."
 publishedDateTime: 2020-01-29T01:10:00Z
-sourceUrl: "https://www.raconteur.net/business-innovation/hyper-personalisation-frontiers"
+webUrl: "https://www.raconteur.net/business-innovation/hyper-personalisation-frontiers"
 type: article
 quality: 24
 heat: 24

@@ -3,9 +3,9 @@ category: news
 title: "Using artificial intelligence to design better mobile app user experience"
 excerpt: "Unlike a generic program, artificial intelligence will read and process the same data in a humane way. This will allow developers to make better and more informed conclusions which in turn can be used for making important decisions regarding the application. Thanks to AI, you can add personalized updates for every user using the phone system ..."
 publishedDateTime: 2020-01-23T14:05:00Z
-sourceUrl: "https://www.clickz.com/using-artificial-intelligence-to-design-better-mobile-app-user-experience/259694/"
-ampUrl: "https://www.clickz.com/using-artificial-intelligence-to-design-better-mobile-app-user-experience/259694/amp/"
-cdnAmpUrl: "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/using-artificial-intelligence-to-design-better-mobile-app-user-experience/259694/amp/"
+webUrl: "https://www.clickz.com/using-artificial-intelligence-to-design-better-mobile-app-user-experience/259694/"
+ampWebUrl: "https://www.clickz.com/using-artificial-intelligence-to-design-better-mobile-app-user-experience/259694/amp/"
+cdnAmpWebUrl: "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/using-artificial-intelligence-to-design-better-mobile-app-user-experience/259694/amp/"
 type: article
 quality: 36
 heat: 36

@@ -3,9 +3,9 @@ category: news
 title: "Self-driving car development is booming, but don't expect the government to regulate it"
 excerpt: "The DOT and NHTSA under Elaine Chao plan to let self-driving car developers regulate themselves. Transportation Secretary Elaine Chao outlined her agency's plan for self-driving car regulations ..."
 publishedDateTime: 2020-01-08T01:13:00Z
-sourceUrl: "https://www.cnet.com/roadshow/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
-ampUrl: "https://www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
-cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
+webUrl: "https://www.cnet.com/roadshow/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/"
 type: article
 quality: 66
 heat: 66

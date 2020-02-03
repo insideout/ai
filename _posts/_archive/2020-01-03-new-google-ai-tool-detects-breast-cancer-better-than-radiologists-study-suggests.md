@@ -3,7 +3,7 @@ category: news
 title: "New Google AI tool detects breast cancer better than radiologists, study suggests"
 excerpt: "(FOX NEWS) -- A new Google artificial intelligence model appears capable ... enabling earlier therapy for [a] more treatable disease.\" \"Despite the existence of screening programs worldwide ..."
 publishedDateTime: 2020-01-03T13:46:00Z
-sourceUrl: https://www.wdrb.com/news/national/new-google-ai-tool-detects-breast-cancer-better-than-radiologists/article_dd3d5f70-2e23-11ea-aa90-9f781f6eedd6.html
+webUrl: https://www.wdrb.com/news/national/new-google-ai-tool-detects-breast-cancer-better-than-radiologists/article_dd3d5f70-2e23-11ea-aa90-9f781f6eedd6.html
 type: article
 quality: 34
 heat: 34

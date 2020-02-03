@@ -3,9 +3,9 @@ category: news
 title: "Video: Search pioneer Mike Grehan on everything from the early days of SEO to AI’s role in paid and organic search"
 excerpt: "Sign up for our daily recaps of the ever-changing search marketing landscape. Gain new strategies and insights at the intersection of marketing, technology, and management. Our next conference will be held: It’s been 15 years since their first interview,"
 publishedDateTime: 2020-01-23T13:12:00Z
-sourceUrl: "https://searchengineland.com/video-search-pioneer-mike-grehan-on-everything-from-the-early-days-of-seo-to-ais-role-in-paid-and-organic-search-328040"
-ampUrl: "https://searchengineland.com/video-search-pioneer-mike-grehan-on-everything-from-the-early-days-of-seo-to-ais-role-in-paid-and-organic-search-328040/amp"
-cdnAmpUrl: "https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/video-search-pioneer-mike-grehan-on-everything-from-the-early-days-of-seo-to-ais-role-in-paid-and-organic-search-328040/amp"
+webUrl: "https://searchengineland.com/video-search-pioneer-mike-grehan-on-everything-from-the-early-days-of-seo-to-ais-role-in-paid-and-organic-search-328040"
+ampWebUrl: "https://searchengineland.com/video-search-pioneer-mike-grehan-on-everything-from-the-early-days-of-seo-to-ais-role-in-paid-and-organic-search-328040/amp"
+cdnAmpWebUrl: "https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/video-search-pioneer-mike-grehan-on-everything-from-the-early-days-of-seo-to-ais-role-in-paid-and-organic-search-328040/amp"
 type: article
 quality: 35
 heat: 35

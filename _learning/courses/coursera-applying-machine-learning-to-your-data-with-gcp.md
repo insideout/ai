@@ -1,7 +1,7 @@
 ---
 title: "Applying Machine Learning to your Data with GCP"
 excerpt: "Learn Applying Machine Learning to your Data with GCP from Google Cloud. In this module, we define what Machine Learning is and how it can benefit your business. You'll see a few demos of ML in action and learn key ML terms like instances, ..."
-sourceUrl: https://www.coursera.org/learn/data-insights-gcp-apply-ml
+webUrl: https://www.coursera.org/learn/data-insights-gcp-apply-ml
 type: course
 price: Free+
 length: 7 hours

@@ -3,7 +3,7 @@ category: news
 title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
 excerpt: "It indicates a way to close an interaction, or dismiss a notification. Google Health and DeepMind have created an AI tool capable of spotting breast cancer with as much accuracy as a human ..."
 publishedDateTime: 2020-01-02T10:47:00Z
-sourceUrl: "https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1"
+webUrl: "https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1"
 type: article
 quality: 71
 heat: 71

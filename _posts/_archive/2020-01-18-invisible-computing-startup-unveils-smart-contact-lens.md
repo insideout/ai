@@ -3,7 +3,7 @@ category: news
 title: "'Invisible computing' startup unveils smart contact lens"
 excerpt: "A startup focused on \"invisible computing\" has unveiled a smart contact lens which delivers an augmented reality display in a user's field of vision. The Mojo Vision contact lens offers a display with information and notifications, and allows the user to interact by focusing on certain points. The rigid contact lens, which the company has been ..."
 publishedDateTime: 2020-01-18T22:12:00Z
-sourceUrl: "https://japantoday.com/category/tech/%27invisible-computing%27-startup-unveils-smart-contact-lens"
+webUrl: "https://japantoday.com/category/tech/%27invisible-computing%27-startup-unveils-smart-contact-lens"
 type: article
 quality: 24
 heat: 24

@@ -3,7 +3,7 @@ category: news
 title: "Singapore engages Facebook and Grab to shape international AI order"
 excerpt: "SINGAPORE -- Technology companies, including social media giant Facebook and ride-hailing unicorn Grab ... and that more companies will back the proposals laid out in its AI governance framework. Su Lian Jye, principal analyst at technology analysis specialist ABI Research, praised the city-state's approach in garnering support from countries ..."
 publishedDateTime: 2020-01-22T11:19:00Z
-sourceUrl: "https://asia.nikkei.com/Business/Technology/Singapore-engages-Facebook-and-Grab-to-shape-international-AI-order"
+webUrl: "https://asia.nikkei.com/Business/Technology/Singapore-engages-Facebook-and-Grab-to-shape-international-AI-order"
 type: article
 quality: 39
 heat: 39

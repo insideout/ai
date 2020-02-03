@@ -3,7 +3,7 @@ category: news
 title: "Case Study: How This Glass Manufacturing Company Leveraged Azure IoT To Get Real-Time Visibility"
 excerpt: "Using Azure IoT Hub, Microsoft helped Piramal Glass in acquiring data from sensors on ... We are on-boarding best-of-breed AI companies and academia, to build a partner ecosystem that will develop various predictive and prescriptive AI and machine learning models,” said Shah. With the smart use of AI and ML, Piramal Glass has been able ..."
 publishedDateTime: 2020-01-12T16:25:00Z
-sourceUrl: "https://analyticsindiamag.com/case-study-how-this-glass-manufacturing-company-leveraged-azure-iot-to-get-real-time-visibility/"
+webUrl: "https://analyticsindiamag.com/case-study-how-this-glass-manufacturing-company-leveraged-azure-iot-to-get-real-time-visibility/"
 type: article
 quality: 26
 heat: 26

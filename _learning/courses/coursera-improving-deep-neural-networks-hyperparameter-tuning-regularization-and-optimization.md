@@ -1,7 +1,7 @@
 ---
 title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
 excerpt: "Learn Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization from deeplearning.ai. This course will teach you the \"magic\" of getting deep learning to work well. Rather than the deep learning process being a black ..."
-sourceUrl: https://www.coursera.org/learn/deep-neural-network
+webUrl: https://www.coursera.org/learn/deep-neural-network
 type: course
 price: Free+
 length: 15 hours

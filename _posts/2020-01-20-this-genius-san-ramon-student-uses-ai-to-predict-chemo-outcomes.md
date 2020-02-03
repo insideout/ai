@@ -3,9 +3,9 @@ category: news
 title: "This Genius San Ramon Student Uses AI To Predict Chemo Outcomes"
 excerpt: "After all, Yang was introduced to AI just a few years ago at a Stanford event to introduce freshman girls to AI. There she was introduced to experts working in all disciplines. She decided to hone in on the nexus of AI and medical imaging while working with the Simons Summer Research Program at Stony Brook University in New York. Her mentor ..."
 publishedDateTime: 2020-01-20T17:28:00Z
-sourceUrl: "https://patch.com/california/sanramon/genius-san-ramon-student-uses-ai-predict-chemo-outcomes"
-ampUrl: "https://patch.com/california/sanramon/amp/28532423/genius-san-ramon-student-uses-ai-predict-chemo-outcomes"
-cdnAmpUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/sanramon/amp/28532423/genius-san-ramon-student-uses-ai-predict-chemo-outcomes"
+webUrl: "https://patch.com/california/sanramon/genius-san-ramon-student-uses-ai-predict-chemo-outcomes"
+ampWebUrl: "https://patch.com/california/sanramon/amp/28532423/genius-san-ramon-student-uses-ai-predict-chemo-outcomes"
+cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/sanramon/amp/28532423/genius-san-ramon-student-uses-ai-predict-chemo-outcomes"
 type: article
 quality: 57
 heat: 57

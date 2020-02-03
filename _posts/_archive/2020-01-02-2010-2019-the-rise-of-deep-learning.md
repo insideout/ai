@@ -3,7 +3,7 @@ category: news
 title: "2010 – 2019: The rise of deep learning"
 excerpt: "In the next decade, all technology will be considered “AI technology.” And we can thank deep learning for that. Deep learning is a friendly facet of machine learning that lets AI sort through ..."
 publishedDateTime: 2020-01-02T16:04:00Z
-sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/02/2010-2019-the-rise-of-deep-learning/
+webUrl: https://thenextweb.com/artificial-intelligence/2020/01/02/2010-2019-the-rise-of-deep-learning/
 type: article
 quality: 69
 heat: 69

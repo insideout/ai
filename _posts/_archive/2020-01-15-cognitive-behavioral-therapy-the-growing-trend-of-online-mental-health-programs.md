@@ -3,9 +3,9 @@ category: news
 title: "Cognitive behavioral therapy & the growing trend of online mental health programs"
 excerpt: "Cognitive Behavioral Therapy (CBT) is among the most researched and effective approaches used ... Like many consumer-driven online services, cCBT uses artificial intelligence or AI, and interactive algorithms to approximate some of the same back-and-forth exchanges one might expect in face-to-face counseling. In this sense, AI assumes the ..."
 publishedDateTime: 2020-01-15T20:44:00Z
-sourceUrl: "https://www.benefitspro.com/2020/01/15/cognitive-behavioral-therapy-the-growing-trend-of-online-mental-health-programs/"
-ampUrl: "https://www.benefitspro.com/2020/01/15/cognitive-behavioral-therapy-the-growing-trend-of-online-mental-health-programs/?amp=1"
-cdnAmpUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2020/01/15/cognitive-behavioral-therapy-the-growing-trend-of-online-mental-health-programs/?amp=1"
+webUrl: "https://www.benefitspro.com/2020/01/15/cognitive-behavioral-therapy-the-growing-trend-of-online-mental-health-programs/"
+ampWebUrl: "https://www.benefitspro.com/2020/01/15/cognitive-behavioral-therapy-the-growing-trend-of-online-mental-health-programs/?amp=1"
+cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2020/01/15/cognitive-behavioral-therapy-the-growing-trend-of-online-mental-health-programs/?amp=1"
 type: article
 quality: 54
 heat: 54

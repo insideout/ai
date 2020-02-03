@@ -1,7 +1,7 @@
 ---
 title: "Business Application of Machine Learning and Artificial Intelligence in Healthcare"
 excerpt: "Learn Business Application of Machine Learning and Artificial Intelligence in Healthcare from Northeastern University . The future of healthcare is becoming dependent on our ability to integrate Machine Learning and Artificial Intelligence into ..."
-sourceUrl: https://www.coursera.org/learn/artificialintelligence-in-healthcare
+webUrl: https://www.coursera.org/learn/artificialintelligence-in-healthcare
 type: course
 price: Free+
 length: 13 hours

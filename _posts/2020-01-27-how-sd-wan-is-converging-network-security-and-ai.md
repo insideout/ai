@@ -3,7 +3,7 @@ category: news
 title: "How SD-WAN is Converging Network, Security and AI"
 excerpt: "We’re seeing SD-WAN move past the early years of connectivity, next-gen firewalls and secure internet breakouts. Now, it’s taking a deeper dive into cloud security and AI-based network automation. Download the authoritative guide: Data Center Guide: Optimizing Your Data Center Strategy SD-WANs (software-defined wide-area networks ..."
 publishedDateTime: 2020-01-27T22:36:00Z
-sourceUrl: "https://www.eweek.com/networking/how-sd-wan-is-converging-network-security-and-ai"
+webUrl: "https://www.eweek.com/networking/how-sd-wan-is-converging-network-security-and-ai"
 type: article
 quality: 67
 heat: 67

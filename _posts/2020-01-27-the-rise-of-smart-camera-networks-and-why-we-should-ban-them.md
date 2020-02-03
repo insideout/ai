@@ -3,7 +3,7 @@ category: news
 title: "The Rise of Smart Camera Networks, and Why We Should Ban Them"
 excerpt: "Behavior recognition includes video analytics capabilities like fight detection, emotion recognition, fall detection, loitering, dog walking, jaywalking, toll fare evasion, and even lie detection. Object recognition can recognize faces, animals, cars, weapons, fires, and other things, as well as human characteristics like gender, age ..."
 publishedDateTime: 2020-01-27T18:05:00Z
-sourceUrl: "https://theintercept.com/2020/01/27/surveillance-cctv-smart-camera-networks/"
+webUrl: "https://theintercept.com/2020/01/27/surveillance-cctv-smart-camera-networks/"
 type: article
 quality: 24
 heat: 24

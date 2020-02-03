@@ -3,7 +3,7 @@ category: news
 title: "EVERSANA and Noom announce strategic partnership to improve therapy adherence and patient engagement for complex therapies"
 excerpt: "Noom’s program is based on cognitive behavior therapy and focuses on increasing patient engagement and improving clinical outcomes by leveraging human coaches and artificial intelligence. “Despite a long road to diagnosis, adherence to therapy falls to ..."
 publishedDateTime: 2020-01-09T09:00:00Z
-sourceUrl: "https://www.pharmalive.com/eversana-and-noom-announce-strategic-partnership-to-improve-therapy-adherence-and-patient-engagement-for-complex-therapies/"
+webUrl: "https://www.pharmalive.com/eversana-and-noom-announce-strategic-partnership-to-improve-therapy-adherence-and-patient-engagement-for-complex-therapies/"
 type: article
 quality: 0
 heat: 0

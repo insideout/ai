@@ -3,9 +3,9 @@ category: news
 title: "What will happen when robots have taken all the jobs?"
 excerpt: "Nowadays people worry about how automation and so-called “artificial intelligence” are going to put people out of work ... But the new wave of self-driving cars, warehouse robots and the like, it is feared, might leave us no choice. Computer systems can now accomplish a lot of tasks that it was previously thought required uniquely human ..."
 publishedDateTime: 2020-01-26T10:00:00Z
-sourceUrl: "https://www.telegraph.co.uk/books/what-to-read/will-happen-robots-have-taken-jobs/"
-ampUrl: "https://www.telegraph.co.uk/books/what-to-read/will-happen-robots-have-taken-jobs/amp/"
-cdnAmpUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/books/what-to-read/will-happen-robots-have-taken-jobs/amp/"
+webUrl: "https://www.telegraph.co.uk/books/what-to-read/will-happen-robots-have-taken-jobs/"
+ampWebUrl: "https://www.telegraph.co.uk/books/what-to-read/will-happen-robots-have-taken-jobs/amp/"
+cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/books/what-to-read/will-happen-robots-have-taken-jobs/amp/"
 type: article
 quality: 59
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "Robots will eat your job"
     excerpt: "And it's not just the robots that we need to worry about. University of Chicago Booth School of Business professor Michael Gibbs, who researches this stuff and whom I called for some context, says the larger impact will come from artificial intelligence. \"Automation has been an issue for a long time,\" he says. \"In 1850 the United States ..."
     publishedDateTime: 2020-01-22T12:54:00Z
-    sourceUrl: "https://www.chicagoreader.com/chicago/passion-economy-adam-davidson-robots-labor/Content?oid=77218035"
-    ampUrl: "https://www.chicagoreader.com/chicago/passion-economy-adam-davidson-robots-labor/Content?oid=77218035&media=AMP+HTML"
-    cdnAmpUrl: "https://www-chicagoreader-com.cdn.ampproject.org/c/s/www.chicagoreader.com/chicago/passion-economy-adam-davidson-robots-labor/Content?oid=77218035&media=AMP+HTML"
+    webUrl: "https://www.chicagoreader.com/chicago/passion-economy-adam-davidson-robots-labor/Content?oid=77218035"
+    ampWebUrl: "https://www.chicagoreader.com/chicago/passion-economy-adam-davidson-robots-labor/Content?oid=77218035&media=AMP+HTML"
+    cdnAmpWebUrl: "https://www-chicagoreader-com.cdn.ampproject.org/c/s/www.chicagoreader.com/chicago/passion-economy-adam-davidson-robots-labor/Content?oid=77218035&media=AMP+HTML"
     type: article
     provider:
       name: Chicago Reader
@@ -44,7 +44,7 @@ related:
   - title: "You should stop worrying about robots taking your job"
     excerpt: "Two 40-year old robots returned to the big screen this year ... Our fears about automation come down to three factors: machines will execute tasks more efficiently; machine learning will enable artificial intelligence (AI) to make complex decisions more effectively; and technology companies will sell software and algorithms to replace slow ..."
     publishedDateTime: 2020-01-20T06:11:00Z
-    sourceUrl: "https://www.wired.co.uk/article/robots-human-jobs"
+    webUrl: "https://www.wired.co.uk/article/robots-human-jobs"
     type: article
     provider:
       name: Wired UK

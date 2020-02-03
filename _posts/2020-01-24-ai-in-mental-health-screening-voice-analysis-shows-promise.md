@@ -3,7 +3,7 @@ category: news
 title: "AI in mental health screening: Voice analysis shows promise"
 excerpt: "In their new study, the investigators wanted to see if they could successfully use interactive voice recognition technology to screen for changes in mental health. The results, they say, have been promising so far. The researchers worked with 47 people receiving care at a community-based mental health clinic. All participants lived with a ..."
 publishedDateTime: 2020-01-24T00:00:00Z
-sourceUrl: "https://www.medicalnewstoday.com/articles/using-voice-analysis-to-track-the-wellness-of-patients-with-mental-illness"
+webUrl: "https://www.medicalnewstoday.com/articles/using-voice-analysis-to-track-the-wellness-of-patients-with-mental-illness"
 type: article
 quality: 39
 heat: 39

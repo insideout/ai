@@ -3,7 +3,7 @@ category: news
 title: "Custom Entity Lookup cognitive skill (Preview)"
 excerpt: "You should still attach a Cognitive Services resource, however, to override the daily enrichment limit ... Each line represents a unique entity, as shown below: Bill Gates, BillG, William H. Gates Microsoft, MSFT Satya Nadella In this case, there are three entities that can be returned as entities found (Bill Gates, Satya Nadella, Microsoft ..."
 publishedDateTime: 2020-02-01T23:59:00Z
-sourceUrl: "https://docs.microsoft.com/en-us/azure/search/cognitive-search-skill-custom-entity-lookup"
+webUrl: "https://docs.microsoft.com/en-us/azure/search/cognitive-search-skill-custom-entity-lookup"
 type: article
 quality: 24
 heat: 24

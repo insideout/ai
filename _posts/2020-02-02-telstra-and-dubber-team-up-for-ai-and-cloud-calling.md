@@ -3,7 +3,7 @@ category: news
 title: "Telstra and Dubber team up for AI and cloud calling"
 excerpt: "“By providing call recording extensively on both unified communications and mobile networks, Telstra business customers of all sizes will be able to provide call recording, data capture, advanced analytics and AI throughout their entire organization,” Dubber CEO Steve McGovern said. “We believe this agreement with Telstra effectively ..."
 publishedDateTime: 2020-02-02T23:25:00Z
-sourceUrl: "https://www.arnnet.com.au/article/670683/telstra-dubber-team-up-ai-cloud-calling/"
+webUrl: "https://www.arnnet.com.au/article/670683/telstra-dubber-team-up-ai-cloud-calling/"
 type: article
 quality: 37
 heat: 37
@@ -26,7 +26,7 @@ related:
   - title: "Cloud9 and GreenKey team up for next generation voice trading"
     excerpt: "The innovative solution will incorporate Cloud9’s C9 Trader voice collaboration platform, GK’s speech recognition (ASR) and natural language processing (NLP) engine with IPC’s Connexus Cloud financial ecosystem. The new solutions will allow customers to “voice populate” desktop applications for trade tickets, exchange clearing portals ..."
     publishedDateTime: 2020-01-29T12:23:00Z
-    sourceUrl: "https://www.leaprate.com/financial-services/fintech/cloud9-and-greenkey-team-up-for-next-generation-voice-trading/"
+    webUrl: "https://www.leaprate.com/financial-services/fintech/cloud9-and-greenkey-team-up-for-next-generation-voice-trading/"
     type: article
     provider:
       name: Leaprate

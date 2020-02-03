@@ -3,7 +3,7 @@ category: news
 title: "Updates to Several Azure and Data & AI Certifications are Coming Soon"
 excerpt: "While this will certainly improve the overall assessment and certification experience, it also means that we are making significant changes to the exams associated with several certifications, especially in Azure and Data & AI. Because of the significant nature of these changes, we will be launching these exams with new exam numbers and as beta ..."
 publishedDateTime: 2020-02-02T22:45:00Z
-sourceUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/updates-to-several-azure-and-data-ai-certifications-are-coming-soon"
+webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/updates-to-several-azure-and-data-ai-certifications-are-coming-soon"
 type: article
 quality: 54
 heat: 54

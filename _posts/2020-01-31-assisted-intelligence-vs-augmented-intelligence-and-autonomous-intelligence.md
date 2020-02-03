@@ -3,9 +3,9 @@ category: news
 title: "Assisted Intelligence vs. Augmented Intelligence and Autonomous Intelligence"
 excerpt: "Among the models included under this umbrella are machine learning, natural language processing, image recognition and neural networks. The main difference between assisted and augmented intelligence is that augmented intelligence can combine existing data and information to suggest new solutions rather than simply identifying patterns and ..."
 publishedDateTime: 2020-01-31T18:05:00Z
-sourceUrl: "https://fedtechmagazine.com/article/2020/01/assisted-intelligence-vs-augmented-intelligence-and-autonomous-intelligence-perfcon"
-ampUrl: "https://fedtechmagazine.com/article/2020/01/assisted-intelligence-vs-augmented-intelligence-and-autonomous-intelligence-perfcon?amp"
-cdnAmpUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2020/01/assisted-intelligence-vs-augmented-intelligence-and-autonomous-intelligence-perfcon?amp"
+webUrl: "https://fedtechmagazine.com/article/2020/01/assisted-intelligence-vs-augmented-intelligence-and-autonomous-intelligence-perfcon"
+ampWebUrl: "https://fedtechmagazine.com/article/2020/01/assisted-intelligence-vs-augmented-intelligence-and-autonomous-intelligence-perfcon?amp"
+cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2020/01/assisted-intelligence-vs-augmented-intelligence-and-autonomous-intelligence-perfcon?amp"
 type: article
 quality: 43
 heat: 43

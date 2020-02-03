@@ -1,7 +1,7 @@
 ---
 title: "The Industries of the Future"
 excerpt: "The New York Times bestseller, from leading innovation expert Alec Ross, a “fascinating vision” (Forbes) of what’s next for the world and how to navigate the changes the future will bring."
-sourceUrl: https://www.amazon.com/Industries-Future-Alec-Ross/dp/1476753660/
+webUrl: https://www.amazon.com/Industries-Future-Alec-Ross/dp/1476753660/
 type: book
 price: $10.00
 length: 

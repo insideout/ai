@@ -1,7 +1,7 @@
 ---
 title: "Motion Planning for Self-Driving Cars"
 excerpt: "Learn Motion Planning for Self-Driving Cars from University of Toronto. Welcome to Motion Planning for Self-Driving Cars, the fourth course in University of Toronto’s Self-Driving Cars Specialization.  This course will introduce you to the main ..."
-sourceUrl: https://www.coursera.org/learn/motion-planning-self-driving-cars
+webUrl: https://www.coursera.org/learn/motion-planning-self-driving-cars
 type: course
 price: Free+
 length: 17 hours

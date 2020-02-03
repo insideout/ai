@@ -3,7 +3,7 @@ category: news
 title: "AlphaZero beat humans at Chess and StarCraft, now it’s working with quantum computers"
 excerpt: "A team of researchers from Aarhus University in Denmark let DeepMind‘s AlphaZero algorithm loose on a few quantum computing optimization problems and, much to everyone’s surprise, the AI was able to solve the problems without any outside expert knowledge. Not bad for a machine learning paradigm designed to win at games like Chess and StarCraft."
 publishedDateTime: 2020-01-16T22:10:00Z
-sourceUrl: "https://thenextweb.com/artificial-intelligence/2020/01/16/alphazero-beat-humans-at-chess-and-starcraft-now-its-working-with-quantum-computers/"
+webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/16/alphazero-beat-humans-at-chess-and-starcraft-now-its-working-with-quantum-computers/"
 type: article
 quality: 47
 heat: 47

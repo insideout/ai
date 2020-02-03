@@ -1,7 +1,7 @@
 ---
 title: "A ride in a Waymo driverless car"
 excerpt: "TechCrunch contributor Ed Niedemeyer gets a ride in Waymo's driverless Chrysler Pacifica minivan in the Phoenix suburb of Chandler. The company is starting to match members of its early rider program with driverless rides as it starts scaling up its robotaxi service."
-sourceUrl: https://www.youtube.com/watch?v=2hqTnmn51Fg
+webUrl: https://www.youtube.com/watch?v=2hqTnmn51Fg
 type: video
 price: 
 length: 

@@ -1,7 +1,7 @@
 ---
 title: "Foundations of mining non-structured medical data"
 excerpt: "Learn Foundations of mining non-structured medical data from EIT Digital . The goal of this course is to understand the foundations of Big Data and the data that is being generated in the health domain and how the use of technology would help to ..."
-sourceUrl: https://www.coursera.org/learn/mining-medical-data
+webUrl: https://www.coursera.org/learn/mining-medical-data
 type: course
 price: Free+
 length: 14 hours

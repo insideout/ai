@@ -3,7 +3,7 @@ category: news
 title: "Readers sound off on face recognition, Cuomo’s budget and Biden’s stutter"
 excerpt: "In the past, the criminal justice system relied on eyewitness memories, which were often not reliable at best. Now with DNA and facial recognition profiles, it’s almost impossible to convict the wrong suspect. Yet it also brings to mind the book “1984,” which was written to show the abuses that an unrestricted government can bring upon ..."
 publishedDateTime: 2020-01-30T08:00:00Z
-sourceUrl: "https://www.nydailynews.com/opinion/ny-letter-january-30-20200130-ng2fcp7wzjc6jpttdx5mdmhmti-story.html"
+webUrl: "https://www.nydailynews.com/opinion/ny-letter-january-30-20200130-ng2fcp7wzjc6jpttdx5mdmhmti-story.html"
 type: article
 quality: 18
 heat: 18

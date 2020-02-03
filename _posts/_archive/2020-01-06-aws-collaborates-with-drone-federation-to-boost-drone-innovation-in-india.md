@@ -3,7 +3,7 @@ category: news
 title: "AWS collaborates with Drone Federation to boost drone innovation in India"
 excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
 publishedDateTime: 2020-01-06T13:56:00Z
-sourceUrl: "https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html"
+webUrl: "https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html"
 type: article
 quality: 18
 heat: 18
@@ -21,7 +21,7 @@ related:
   - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
     excerpt: "and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and ..."
     publishedDateTime: 2020-01-06T12:34:00Z
-    sourceUrl: "https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services"
+    webUrl: "https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services"
     type: article
     provider:
       name: Your Story
@@ -30,7 +30,7 @@ related:
   - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
     excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
     publishedDateTime: 2020-01-03T14:43:00Z
-    sourceUrl: "https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/"
+    webUrl: "https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/"
     type: article
     provider:
       name: Electronic Engineering Journal

@@ -3,9 +3,9 @@ category: news
 title: "China – The First Artificial Intelligence Superpower"
 excerpt: "China combines a gigantic amount of data with talent, companies, research and capital to build the world's leading AI ecosystem."
 publishedDateTime: 2020-01-15T00:24:00Z
-sourceUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/"
-ampUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/amp/"
+webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/"
+ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/amp/"
 type: article
 quality: 87
 heat: 87

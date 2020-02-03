@@ -3,9 +3,9 @@ category: news
 title: "How is AI benefiting industries throughout Southeast Asia?"
 excerpt: "with the exception of a few digital native enterprises that have embedded analytics and AI into their business models from the start, only a handful have really deployed these technologies at scale throughout the enterprise. “There are many reasons for this, such as a lack of skilled resources, lack of data, lack of coordination between key ..."
 publishedDateTime: 2020-01-20T23:15:00Z
-sourceUrl: "https://www.cio.com/article/3311756/how-is-artificial-intelligence-benefiting-industries-throughout-southeast-asia.html"
-ampUrl: "https://www.cio.com/article/3311756/how-is-artificial-intelligence-benefiting-industries-throughout-southeast-asia.amp.html"
-cdnAmpUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3311756/how-is-artificial-intelligence-benefiting-industries-throughout-southeast-asia.amp.html"
+webUrl: "https://www.cio.com/article/3311756/how-is-artificial-intelligence-benefiting-industries-throughout-southeast-asia.html"
+ampWebUrl: "https://www.cio.com/article/3311756/how-is-artificial-intelligence-benefiting-industries-throughout-southeast-asia.amp.html"
+cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3311756/how-is-artificial-intelligence-benefiting-industries-throughout-southeast-asia.amp.html"
 type: article
 quality: 57
 heat: 67
@@ -28,7 +28,7 @@ related:
   - title: "Thought Leader Adam Lutostanski: Is There Too Much Artificial Intelligence In The Banking Industry?"
     excerpt: "In his debut Thought Leader conversation, he introduces himself and gives some background information. Adam and Steve Grzanich discuss artificial intelligence’s role in the banking industry and what Associated Bank does to set itself apart from others. They also touch on digital currencies being used around the world. Adam and Steve wrap ..."
     publishedDateTime: 2020-01-23T12:51:00Z
-    sourceUrl: "https://wgnradio.com/2020/01/23/thought-leader-adam-lutostanski-is-there-too-much-artificial-intelligence-in-the-banking-industry/"
+    webUrl: "https://wgnradio.com/2020/01/23/thought-leader-adam-lutostanski-is-there-too-much-artificial-intelligence-in-the-banking-industry/"
     type: article
     provider:
       name: WGN Radio

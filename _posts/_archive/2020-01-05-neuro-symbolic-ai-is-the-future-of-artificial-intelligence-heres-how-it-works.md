@@ -3,7 +3,7 @@ category: news
 title: "Neuro-symbolic A.I. is the future of artificial intelligence. Here’s how it works"
 excerpt: "And it needs to happen by reinventing artificial intelligence as we know it ... “I don’t know if Waymo and Tesla have images of traffic lights on fire in the datasets they use to train ..."
 publishedDateTime: 2020-01-05T11:01:00Z
-sourceUrl: "https://www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/"
+webUrl: "https://www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/"
 type: article
 quality: 64
 heat: 64

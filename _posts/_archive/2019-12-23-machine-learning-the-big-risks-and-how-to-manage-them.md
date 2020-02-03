@@ -3,7 +3,7 @@ category: news
 title: "Machine learning: the big risks and how to manage them"
 excerpt: "It creates a significant knowledge gap in the boardrooms of financial services firms and within policymaking institutions about the challenges and hazards posed by machine learning. Given the ..."
 publishedDateTime: 2019-12-23T10:24:00Z
-sourceUrl: https://www.ft.com/content/90ac19fe-2008-11ea-92da-f0c92e957a96
+webUrl: https://www.ft.com/content/90ac19fe-2008-11ea-92da-f0c92e957a96
 type: article
 quality: 4
 heat: 4

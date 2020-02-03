@@ -3,9 +3,9 @@ category: news
 title: "Verbit raises $31 million for human-in-the-loop AI transcription tech"
 excerpt: "The voice and speech recognition tech market is anticipated to be worth $31.82 billion by 2025, driven by new applications in the banking, health care, and automotive industries. And Tom Livne ..."
 publishedDateTime: 2020-01-15T17:27:00Z
-sourceUrl: "https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/"
-ampUrl: "https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/"
+webUrl: "https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/"
+ampWebUrl: "https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/"
 type: article
 quality: 89
 heat: 99
@@ -33,7 +33,7 @@ related:
   - title: "Verbit Raises $31 Million Series B to Add New Languages for Speech Recognition Product"
     excerpt: "Verbit, a Tel Aviv, Israel-based provider of classroom transcription and captioning services through speech recognition, has raised a $31 million Series B round. Growth equity firm Stripes led the round. Viola Ventures, Vertex Ventures, HV Ventures ..."
     publishedDateTime: 2020-01-15T00:00:00Z
-    sourceUrl: "https://www.edsurge.com/news/2020-01-15-verbit-raises-31-million-series-b-to-add-new-languages-for-speech-recognition-product"
+    webUrl: "https://www.edsurge.com/news/2020-01-15-verbit-raises-31-million-series-b-to-add-new-languages-for-speech-recognition-product"
     type: article
     provider:
       name: EdSurge

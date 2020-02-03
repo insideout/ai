@@ -3,7 +3,7 @@ category: news
 title: "Vectorspace AI Datasets are Now Available to Power Machine Learning (ML) and Artificial Intelligence (AI) Systems in Collaboration with Elastic"
 excerpt: "SAN FRANCISCO, Jan. 22, 2020 /PRNewswire/ -- Vectorspace AI (VXV) announces datasets that power data engineering, machine learning (ML) and artificial intelligence (AI) systems. Vectorspace AI alternative datasets are designed for predicting unique hidden relationships between objects including current and future price correlations between ..."
 publishedDateTime: 2020-01-22T16:49:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-vectorspace-ai-datasets-now-available-power-machine-learning-/2020/01/22/9085522.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-vectorspace-ai-datasets-now-available-power-machine-learning-/2020/01/22/9085522.htm"
 type: article
 quality: 48
 heat: 48

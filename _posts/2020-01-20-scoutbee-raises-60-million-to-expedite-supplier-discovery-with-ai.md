@@ -3,9 +3,9 @@ category: news
 title: "Scoutbee raises $60 million to expedite supplier discovery with AI"
 excerpt: "That’s why in 2015, four German entrepreneurs — Christian Heinrich, Fabian Heinrich, Gregor Stühler, and Lee Galbraith — founded Scoutbee, which develops and sells access to an AI-driven supplier discovery platform. After raising $12 million in June 2019 to lay the runway for future growth, the company this week closed a $60 million ..."
 publishedDateTime: 2020-01-20T13:00:00Z
-sourceUrl: "https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/"
-ampUrl: "https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/"
+webUrl: "https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/"
+ampWebUrl: "https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/"
 type: article
 quality: 87
 heat: 97
@@ -32,7 +32,7 @@ related:
   - title: "scoutbee raises $60M Series B investment in mission to transform industries with AI-driven supplier discovery"
     excerpt: "scoutbee enables the right purchasers and the right suppliers to connect - anywhere in the world. By leveraging AI and Big Data to generate deep insights and transparency, scoutbee drives more valuable and confident business relationships. Gregor Stűhler, Co-founder and Managing Director of scoutbee, said, \"The significant new funding ..."
     publishedDateTime: 2020-01-20T14:18:00Z
-    sourceUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scoutbee-raises-m-series-b-investment-in-mission-to-transform/article_8efd4ce4-eaab-5708-b078-036085739685.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scoutbee-raises-m-series-b-investment-in-mission-to-transform/article_8efd4ce4-eaab-5708-b078-036085739685.html"
     type: article
     provider:
       name: WFMZ-TV

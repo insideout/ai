@@ -3,7 +3,7 @@ category: news
 title: "AutoInsights: Leveraging a platforms approach"
 excerpt: "There is a constant stream of new technologies making its way into business. Today it is technologies like big data, artificial intelligence, natural language processing (NLP) and blockchain. Tomorrow it could be mixed reality and quantum computing."
 publishedDateTime: 2020-01-22T14:58:00Z
-sourceUrl: "https://www.information-age.com/autoinsights-leveraging-platforms-approach-123487190/"
+webUrl: "https://www.information-age.com/autoinsights-leveraging-platforms-approach-123487190/"
 type: article
 quality: 24
 heat: 24

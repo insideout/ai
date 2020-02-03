@@ -3,9 +3,9 @@ category: news
 title: "IBM’s debating AI just got a lot closer to being a useful tool"
 excerpt: "The company’s Project Debater team has been developing an AI that can build arguments for several years. Last year IBM demonstrated its work-in-progress technology in a live debate against a world-champion human debater, the equivalent of Watson’s Jeopardy! showdown. Such stunts are fun, and it provided a proof of concept. Now IBM is ..."
 publishedDateTime: 2020-01-21T18:08:00Z
-sourceUrl: "https://www.technologyreview.com/s/615074/ibms-debating-ai-just-got-a-lot-closer-to-being-a-useful-tool/"
-ampUrl: "https://www.technologyreview.com/s/615074/ibms-debating-ai-just-got-a-lot-closer-to-being-a-useful-tool/amp/"
-cdnAmpUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615074/ibms-debating-ai-just-got-a-lot-closer-to-being-a-useful-tool/amp/"
+webUrl: "https://www.technologyreview.com/s/615074/ibms-debating-ai-just-got-a-lot-closer-to-being-a-useful-tool/"
+ampWebUrl: "https://www.technologyreview.com/s/615074/ibms-debating-ai-just-got-a-lot-closer-to-being-a-useful-tool/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615074/ibms-debating-ai-just-got-a-lot-closer-to-being-a-useful-tool/amp/"
 type: article
 quality: 61
 heat: 61

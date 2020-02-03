@@ -3,9 +3,9 @@ category: news
 title: "Column: Artificial intelligence: Are we there yet?"
 excerpt: "Now, many years hence, it is time to revisit the poignancy of it all, fiction or real, science or philosophy. With the speed of technology racing faster than ever, is the line between human and artificial intelligence (AI) becoming more indiscernible? If every step of human learning and thinking can be explained in tactics, can a machine ..."
 publishedDateTime: 2020-01-22T09:38:00Z
-sourceUrl: "https://www.dispatch.com/opinion/20200122/column-artificial-intelligence-are-we-there-yet"
-ampUrl: "https://www.dispatch.com/opinion/20200122/column-artificial-intelligence-are-we-there-yet?template=ampart"
-cdnAmpUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/opinion/20200122/column-artificial-intelligence-are-we-there-yet?template=ampart"
+webUrl: "https://www.dispatch.com/opinion/20200122/column-artificial-intelligence-are-we-there-yet"
+ampWebUrl: "https://www.dispatch.com/opinion/20200122/column-artificial-intelligence-are-we-there-yet?template=ampart"
+cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/opinion/20200122/column-artificial-intelligence-are-we-there-yet?template=ampart"
 type: article
 quality: 57
 heat: 57

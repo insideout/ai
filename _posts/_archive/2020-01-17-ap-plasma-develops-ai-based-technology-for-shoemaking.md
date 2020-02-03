@@ -3,7 +3,7 @@ category: news
 title: "AP Plasma develops AI-based technology for shoemaking"
 excerpt: "Taiwanese startup AP Plasma has developed AI-base low-temperature air plasma technology for use in automated surface bonding of soles to shoes, according to company chairman and president Jango Chang. The automated surface bonding technology replaces traditional use of toxic glue in bonding and labor input, with average time taken in making a ..."
 publishedDateTime: 2020-01-17T06:38:00Z
-sourceUrl: "https://www.digitimes.com/news/a20200116PD214.html"
+webUrl: "https://www.digitimes.com/news/a20200116PD214.html"
 type: article
 quality: 37
 heat: -1
@@ -26,7 +26,7 @@ related:
   - title: "Xilinx keen on developing AI-based FPGA chips for automotive use"
     excerpt: "US FPGA chips specialist Xilinx will step up development of self-adaptive AI chips for automotive applications based on the emerging concepts of Mobility as a Service (MaaS) and Transportation as a Service (TaaS) for next-generation, autonomous vehicles, according to industry sources. Xilinx already shipped 170 million self-adaptive devices for ..."
     publishedDateTime: 2020-01-20T08:20:00Z
-    sourceUrl: "https://www.digitimes.com/news/a20200120PD203.html"
+    webUrl: "https://www.digitimes.com/news/a20200120PD203.html"
     type: article
     provider:
       name: Digi Times

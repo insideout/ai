@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence Foundations: Thinking Machines"
 excerpt: "This course will introduce you to some of the key concepts behind artificial intelligence, including the differences between \"strong\" and \"weak\" AI. You'll see how AI has created questions around what it means to be intelligent and how much trust we should put in machines. Instructor Doug Rose explains the different approaches to AI, including machine learning and deep learning, and the practical uses for new AI-enhanced technologies. Plus, learn how to integrate AI with other technology, such as big data, and avoid some common pitfalls associated with programming AI."
-sourceUrl: https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines
+webUrl: https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines
 type: course
 price: $24.99
 length: 

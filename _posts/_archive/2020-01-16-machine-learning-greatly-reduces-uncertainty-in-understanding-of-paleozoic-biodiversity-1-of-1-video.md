@@ -3,7 +3,7 @@ category: news
 title: "Machine Learning Greatly Reduces Uncertainty in Understanding of Paleozoic Biodiversity (1 of 1) (video)"
 excerpt: "Paleontologists use big data and supercomputers to recover marine paleobiodiversity. This material relates to a paper that appeared in the 17 Jan. issue of Science, published by AAAS. The paper, by J.-X. Fan at Nanjing University in Nanjing, China, and ..."
 publishedDateTime: 2020-01-16T21:45:00Z
-sourceUrl: "https://www.eurekalert.org/multimedia/pub/221816.php"
+webUrl: "https://www.eurekalert.org/multimedia/pub/221816.php"
 type: article
 quality: 37
 heat: 37

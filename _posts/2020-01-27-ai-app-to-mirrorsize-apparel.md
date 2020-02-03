@@ -3,9 +3,9 @@ category: news
 title: "AI app to ‘Mirrorsize’ apparel"
 excerpt: "US-based tech start-up, Mirrorsize that provides body measurement and apparel size recommendation solutions is planning to scale-up operations and go for its first round of fund-raising, post March this year. The company offers artificial intelligence or AI-enabled device agnostic body scanning so that users get “precise body measurements ..."
 publishedDateTime: 2020-01-27T12:45:00Z
-sourceUrl: "https://www.thehindubusinessline.com/info-tech/ai-app-to-mirrorsize-apparel/article30666278.ece"
-ampUrl: "https://www.thehindubusinessline.com/info-tech/ai-app-to-mirrorsize-apparel/article30666278.ece/amp/"
-cdnAmpUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-app-to-mirrorsize-apparel/article30666278.ece/amp/"
+webUrl: "https://www.thehindubusinessline.com/info-tech/ai-app-to-mirrorsize-apparel/article30666278.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-app-to-mirrorsize-apparel/article30666278.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-app-to-mirrorsize-apparel/article30666278.ece/amp/"
 type: article
 quality: 57
 heat: 57

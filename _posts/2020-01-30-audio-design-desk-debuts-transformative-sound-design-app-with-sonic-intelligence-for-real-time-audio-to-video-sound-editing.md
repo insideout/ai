@@ -3,7 +3,7 @@ category: news
 title: "Audio Design Desk Debuts Transformative Sound Design App with Sonic Intelligence for Real-time Audio to Video Sound Editing"
 excerpt: "Perhaps the most mind-blowing of all, add.app uses Artificial Intelligence (AI) and has built the foundation for Machine Learning (ML) to understand which sounds a user likes, and which sounds they reject so, over time, add.app will learn and adjust to its user’s taste. Audio Design Desk was first conceived by Gabriel Cowan, a multi-platinum ..."
 publishedDateTime: 2020-01-30T20:18:00Z
-sourceUrl: "https://www.broadcastingcable.com/post-type-the-wire/audio-design-desk"
+webUrl: "https://www.broadcastingcable.com/post-type-the-wire/audio-design-desk"
 type: article
 quality: 0
 heat: 0

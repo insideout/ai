@@ -3,7 +3,7 @@ category: news
 title: "Crypto Custodial Wallet Provider Trustology Partners With Vectorspace AI to Remove Barriers to Purchase for Its VXV Token"
 excerpt: "Trustology, a UK based FinTech company focused on providing high-end, insured custodial wallet solutions to secure and manage cryptoassets in real-time, today announced its partnership with Vectorspace AI to make it safer, faster and easier for token purchasers to send, receive and hold its VXV tokens using TrustVault. Use of TrustVault removes ..."
 publishedDateTime: 2020-01-31T16:31:00Z
-sourceUrl: "https://www.ksl.com/article/46711784/crypto-custodial-wallet-provider-trustology-partners-with-vectorspace-ai-to-remove-barriers-to-purchase-for-its-vxv-token"
+webUrl: "https://www.ksl.com/article/46711784/crypto-custodial-wallet-provider-trustology-partners-with-vectorspace-ai-to-remove-barriers-to-purchase-for-its-vxv-token"
 type: article
 quality: 14
 heat: 14

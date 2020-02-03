@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning: Clustering &amp; Retrieval"
 excerpt: "Learn Machine Learning: Clustering & Retrieval from University of Washington. Case Studies: Finding Similar Documents  A reader is interested in a specific news article and you want to find similar articles to recommend.  What is the right notion ..."
-sourceUrl: https://www.coursera.org/learn/ml-clustering-and-retrieval
+webUrl: https://www.coursera.org/learn/ml-clustering-and-retrieval
 type: course
 price: Free+
 length: 48 hours

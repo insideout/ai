@@ -3,9 +3,9 @@ category: news
 title: "Machine Learning Increases Diagnosticity in Psychometric Evaluation of Alexithymia in Fibromyalgia."
 excerpt: "Two groups of participants, patients with fibromyalgia ( = 38), healthy controls ( = 38) were administered the Toronto Alexithymia Scale and background tests. Machine learning models achieved an overall accuracy higher than 80% in detecting both patients with fibromyalgia and healthy controls. The parameter which alone has demonstrated maximum ..."
 publishedDateTime: 2020-01-31T13:46:00Z
-sourceUrl: "https://www.physiciansweekly.com/machine-learning-increases-diagnosticity-in-psychometric-evaluation-of-alexithymia-in-fibromyalgia/"
-ampUrl: "https://www.physiciansweekly.com/machine-learning-increases-diagnosticity-in-psychometric-evaluation-of-alexithymia-in-fibromyalgia/amp/"
-cdnAmpUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/machine-learning-increases-diagnosticity-in-psychometric-evaluation-of-alexithymia-in-fibromyalgia/amp/"
+webUrl: "https://www.physiciansweekly.com/machine-learning-increases-diagnosticity-in-psychometric-evaluation-of-alexithymia-in-fibromyalgia/"
+ampWebUrl: "https://www.physiciansweekly.com/machine-learning-increases-diagnosticity-in-psychometric-evaluation-of-alexithymia-in-fibromyalgia/amp/"
+cdnAmpWebUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/machine-learning-increases-diagnosticity-in-psychometric-evaluation-of-alexithymia-in-fibromyalgia/amp/"
 type: article
 quality: 45
 heat: 45

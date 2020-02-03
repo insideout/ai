@@ -3,9 +3,9 @@ category: news
 title: "IBM embeds new AI features into its TRIRIGA facilities management software"
 excerpt: "IBM is adding AI capabilities to its TRIRIGA real estate and facilities management software, the company announced Tuesday. The new intelligent features are meant to help real estate and facility managers optimize office space and improve the workplace experience. IBM estimates that up to 40% of commercial office space is underutilized."
 publishedDateTime: 2020-01-28T17:16:00Z
-sourceUrl: "https://www.zdnet.com/article/ibm-embeds-new-ai-features-into-its-tririga-facilities-management-software/"
-ampUrl: "https://www.zdnet.com/google-amp/article/ibm-embeds-new-ai-features-into-its-tririga-facilities-management-software/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-embeds-new-ai-features-into-its-tririga-facilities-management-software/"
+webUrl: "https://www.zdnet.com/article/ibm-embeds-new-ai-features-into-its-tririga-facilities-management-software/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-embeds-new-ai-features-into-its-tririga-facilities-management-software/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-embeds-new-ai-features-into-its-tririga-facilities-management-software/"
 type: article
 quality: 65
 heat: 65

@@ -3,7 +3,7 @@ category: news
 title: "Neural Architecture and AutoML Technology"
 excerpt: "However, the conventional ML process is human-dependent, and not all companies have the assets to put resources into an experienced data science team. AutoML might be the answer to such circumstances. AutoML focuses on automating each part of the machine learning (ML) work process to increase effectiveness and democratize machine learning so ..."
 publishedDateTime: 2020-01-24T18:37:00Z
-sourceUrl: "https://www.analyticsinsight.net/neural-architecture-and-automl-technology/"
+webUrl: "https://www.analyticsinsight.net/neural-architecture-and-automl-technology/"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Technologies of the future, but where are AI and ML headed to?"
     excerpt: "We can see driverless cars, hands-free devices that can turn on the lights ... The error rate is already drastically reducing.\" A subset of artificial intelligence, machine learning allows systems to make predictions and crucial business decisions, driven by data and pattern-based experiences. Without humans having to intervene, the algorithms ..."
     publishedDateTime: 2020-01-27T01:19:00Z
-    sourceUrl: "https://yourstory.com/2020/01/technologies-future-ai-ml-startups-machine-intelligence"
-    ampUrl: "https://yourstory.com/2020/01/technologies-future-ai-ml-startups-machine-intelligence/amp"
-    cdnAmpUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/technologies-future-ai-ml-startups-machine-intelligence/amp"
+    webUrl: "https://yourstory.com/2020/01/technologies-future-ai-ml-startups-machine-intelligence"
+    ampWebUrl: "https://yourstory.com/2020/01/technologies-future-ai-ml-startups-machine-intelligence/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/technologies-future-ai-ml-startups-machine-intelligence/amp"
     type: article
     provider:
       name: Your Story

@@ -3,7 +3,7 @@ category: news
 title: "ML in the Browser: Interactive Experiences with Tensorflow.js"
 excerpt: "Victor Dibia provides a friendly introduction to machine learning, covers concrete steps on how front-end developers can create their own ML models and deploy them as part of web applications."
 publishedDateTime: 2020-01-10T03:08:00Z
-sourceUrl: "https://www.infoq.com/presentations/ml-browser-tensorflow-js/"
+webUrl: "https://www.infoq.com/presentations/ml-browser-tensorflow-js/"
 type: article
 quality: 39
 heat: 39

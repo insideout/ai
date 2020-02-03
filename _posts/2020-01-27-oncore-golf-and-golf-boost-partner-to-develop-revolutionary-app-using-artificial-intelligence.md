@@ -3,7 +3,7 @@ category: news
 title: "OnCore Golf and Golf Boost Partner to Develop Revolutionary APP Using Artificial Intelligence"
 excerpt: "/PRNewswire/ -- OnCore Golf Technology, Inc., a technology-focused innovator in the golf industry, has established a multi-tier arrangement with Golf Boost,"
 publishedDateTime: 2020-01-27T10:00:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/oncore-golf-and-golf-boost-partner-to-develop-revolutionary-app-using-artificial-intelligence-300993232.html"
+webUrl: "https://www.prnewswire.com/news-releases/oncore-golf-and-golf-boost-partner-to-develop-revolutionary-app-using-artificial-intelligence-300993232.html"
 type: article
 quality: 26
 heat: 26

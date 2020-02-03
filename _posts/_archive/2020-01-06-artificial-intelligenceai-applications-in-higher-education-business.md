@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence(AI) applications in Higher Education Business"
 excerpt: "Artificial Intelligence/data science has become widespread phenomenon in recent times. Every industry and sector tries to apply AI in its domain to solve problems. The range of AI applications vary from very fancy applications like ‘driverless car’ to ..."
 publishedDateTime: 2020-01-06T07:08:00Z
-sourceUrl: https://www.cioapplications.com/cxoinsights/artificial-intelligenceai-applications-in-higher-education-business-nid-5508.html
+webUrl: https://www.cioapplications.com/cxoinsights/artificial-intelligenceai-applications-in-higher-education-business-nid-5508.html
 type: article
 quality: 54
 heat: 54

@@ -3,7 +3,7 @@ category: news
 title: "Driverless Trucks Coming Your Way?"
 excerpt: "The company is seeking to transform long-haul trucking by using AI (artificial intelligence) to create self-driving trucks ... Nevertheless, the fact that many companies are investing in driverless trucking technology and that TuSimple’s tests have been so successful give us reason to believe we may be seeing them sooner than we think."
 publishedDateTime: 2020-01-16T14:19:00Z
-sourceUrl: "https://www.jewishpress.com/sections/scitech/electronics-today/driverless-trucks-coming-your-way/2020/01/16/"
+webUrl: "https://www.jewishpress.com/sections/scitech/electronics-today/driverless-trucks-coming-your-way/2020/01/16/"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Don't want a robot stealing your job? Take a course on AI and machine learning."
     excerpt: "TL;DR: Jump into the world of AI with the Essential AI and Machine Learning Certification Training Bundle for $39.99, a 93% savings. From facial recognition to self-driving vehicles, machine learning is taking over modern life as we know it. It may not be the flying cars and world-dominating robots we envisioned 2020 would hold, but it's ..."
     publishedDateTime: 2020-01-16T19:44:00Z
-    sourceUrl: "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle/"
-    ampUrl: "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp"
-    cdnAmpUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp"
+    webUrl: "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle/"
+    ampWebUrl: "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp"
     type: article
     provider:
       name: Mashable

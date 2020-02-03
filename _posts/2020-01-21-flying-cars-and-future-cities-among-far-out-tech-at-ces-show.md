@@ -3,7 +3,7 @@ category: news
 title: "Flying cars and future cities among far-out tech at CES show"
 excerpt: "Ideas ranging from a city built just to test self-driving cars to Uber air taxis were on the table at the recent CES trade show in Las Vegas. How much of it will happen is anybody’s guess, but the show has become a popular spot for suppliers and automakers to play futurologist. Unlike past years, when breakthroughs like Ford’s Sync voice ..."
 publishedDateTime: 2020-01-21T16:43:00Z
-sourceUrl: "https://www.usatoday.com/story/money/cars/2020/01/21/ces-show-toyota-woven-city-ford-hyundai-uber/4528702002/"
+webUrl: "https://www.usatoday.com/story/money/cars/2020/01/21/ces-show-toyota-woven-city-ford-hyundai-uber/4528702002/"
 type: article
 quality: 4
 heat: 4

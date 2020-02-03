@@ -3,9 +3,9 @@ category: news
 title: "Artist Refik Anadol Turns Data Into Art, With Help From AI"
 excerpt: "The results, shown on giant screens or projected onto walls or entire buildings, use data points in a kind of AI pointillism. Anadol explains his creative process in a new WIRED video. It features works including Machine Hallucination, a 360-degree video installation made from 10 million photos of New York. Anadol used machine learning to group ..."
 publishedDateTime: 2020-01-16T13:03:00Z
-sourceUrl: "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/"
-ampUrl: "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp"
-cdnAmpUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp"
+webUrl: "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/"
+ampWebUrl: "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp"
 type: article
 quality: 87
 heat: 87

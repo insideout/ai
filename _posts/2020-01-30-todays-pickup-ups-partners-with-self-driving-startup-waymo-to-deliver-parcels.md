@@ -3,9 +3,9 @@ category: news
 title: "Today's Pickup: UPS Partners With Self-Driving Startup Waymo To Deliver Parcels"
 excerpt: "Good day, Autonomous driving startup Waymo has struck a partnership with UPS to commence parcel delivery on its self-driving Chrysler Pacifica minivans across the Phoenix"
 publishedDateTime: 2020-01-30T15:53:00Z
-sourceUrl: "https://www.benzinga.com/news/20/01/15218297/todays-pickup-ups-partners-with-self-driving-startup-waymo-to-deliver-parcels"
-ampUrl: "https://amp.benzinga.com/amp/content/15218297"
-cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15218297"
+webUrl: "https://www.benzinga.com/news/20/01/15218297/todays-pickup-ups-partners-with-self-driving-startup-waymo-to-deliver-parcels"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15218297"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15218297"
 type: article
 quality: 55
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "Waymo's autonomous cars become UPS' newest delivery drivers"
     excerpt: "UPS uses hundreds of planes and thousands of trucks to deliver about 20 million packages a day. In Phoenix, it'll start getting some help doing all that work from some self-driving minivans. The delivery giant said Wednesday that it teamed up with Waymo, the self-driving car company owned by Google parent Alphabet, to test out using Waymo's ..."
     publishedDateTime: 2020-01-29T21:12:00Z
-    sourceUrl: "https://www.cnet.com/roadshow/news/waymos-autonomous-cars-become-ups-newest-delivery-drivers/"
-    ampUrl: "https://www.cnet.com/google-amp/news/waymos-autonomous-cars-become-ups-newest-delivery-drivers/"
-    cdnAmpUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymos-autonomous-cars-become-ups-newest-delivery-drivers/"
+    webUrl: "https://www.cnet.com/roadshow/news/waymos-autonomous-cars-become-ups-newest-delivery-drivers/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/waymos-autonomous-cars-become-ups-newest-delivery-drivers/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymos-autonomous-cars-become-ups-newest-delivery-drivers/"
     type: article
     provider:
       name: CNET
@@ -44,9 +44,9 @@ related:
   - title: "UPS buying 10,000 electric delivery vans, will test Waymo self-driving vehicles next month"
     excerpt: "LOS ANGELES (Reuters) - United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages. The UPS/Arrival partnership includes a minority investment from the world’s ..."
     publishedDateTime: 2020-01-30T17:30:00Z
-    sourceUrl: "https://uk.reuters.com/article/us-ups-investment/ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month-idUKKBN1ZS2ZC"
-    ampUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
-    cdnAmpUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
+    webUrl: "https://uk.reuters.com/article/us-ups-investment/ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month-idUKKBN1ZS2ZC"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC"
     type: article
     provider:
       name: Reuters
@@ -59,9 +59,9 @@ related:
   - title: "Waymo strikes deal with UPS to deliver parcels with self-driving vehicles"
     excerpt: "Waymo, the self-driving technology developer, has announced that it’s partnering with UPS to start delivering parcels. Taking the opportunity to broaden its alliance with UPS, the company will start the beta test in Phoenix, AZ where its self-driving vehicles are already on the streets, much to the chagrin of the locals. Consumers aren’t ..."
     publishedDateTime: 2020-01-30T16:54:00Z
-    sourceUrl: "https://www.consumeraffairs.com/news/waymo-strikes-deal-with-ups-to-deliver-parcels-with-self-driving-vehicles-013020.html"
-    ampUrl: "https://www.consumeraffairs.com/amp/news/waymo-strikes-deal-with-ups-to-deliver-parcels-with-self-driving-vehicles-013020.html"
-    cdnAmpUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/waymo-strikes-deal-with-ups-to-deliver-parcels-with-self-driving-vehicles-013020.html"
+    webUrl: "https://www.consumeraffairs.com/news/waymo-strikes-deal-with-ups-to-deliver-parcels-with-self-driving-vehicles-013020.html"
+    ampWebUrl: "https://www.consumeraffairs.com/amp/news/waymo-strikes-deal-with-ups-to-deliver-parcels-with-self-driving-vehicles-013020.html"
+    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/waymo-strikes-deal-with-ups-to-deliver-parcels-with-self-driving-vehicles-013020.html"
     type: article
     provider:
       name: ConsumerAffairs
@@ -74,7 +74,7 @@ related:
   - title: "Waymo’s self-driving cars will carry packages for UPS in Phoenix"
     excerpt: "Waymo, Alphabet's self-driving company, is getting into the package-delivery business, the company announced in a Wednesday blog post. \"Our self-driving Chrysler Pacifica minivans will shuttle packages from UPS Stores in the Metro Phoenix area to the UPS Tempe hub,\" Chief Operating Officer Tekedra Mawakana writes. Initially, Waymo will have a ..."
     publishedDateTime: 2020-01-29T22:15:00Z
-    sourceUrl: "https://arstechnica.com/cars/2020/01/waymos-self-driving-cars-will-carry-packages-for-ups-in-phoenix/"
+    webUrl: "https://arstechnica.com/cars/2020/01/waymos-self-driving-cars-will-carry-packages-for-ups-in-phoenix/"
     type: article
     provider:
       name: Ars Technica
@@ -83,7 +83,7 @@ related:
   - title: "UPS orders 10,000 electric delivery trucks, plans test of self-driving vans"
     excerpt: "The technology allows the company to test later pickups at UPS stores. The move comes after Waymo, the self-driving unit of Google parent Alphabet, in 2018 launched a pilot program in Atlanta to use a self-driving truck for deliveries to Google’s data center, with drivers in the cabs to monitor systems and take control if needed. UPS has been ..."
     publishedDateTime: 2020-01-30T18:45:00Z
-    sourceUrl: "https://www.wsbtv.com/news/local/atlanta/ups-orders-10000-electric-delivery-trucks-plans-test-self-driving-vans/MYTOAPEMGRDB7GQCNGUNPUIPM4/"
+    webUrl: "https://www.wsbtv.com/news/local/atlanta/ups-orders-10000-electric-delivery-trucks-plans-test-self-driving-vans/MYTOAPEMGRDB7GQCNGUNPUIPM4/"
     type: article
     provider:
       name: WSB-TV
@@ -96,7 +96,7 @@ related:
   - title: "UPS orders 10,000 electric delivery trucks, plans test of self-driving vans"
     excerpt: "The technology allows the company to test later pickups at UPS stores. The move comes after Waymo, the self-driving unit of Google parent Alphabet Inc., in 2018 launched a pilot program in Atlanta to use a self-driving truck for deliveries to Google’s data center, with drivers in the cabs to monitor systems and take control if needed."
     publishedDateTime: 2020-01-31T18:50:00Z
-    sourceUrl: "https://www.courant.com/classified/automotive/sns-ups-orders-electric-delivery-trucks-self-driving-vans-20200131-o3uytm44cncgfmgebfdbjiceke-story.html"
+    webUrl: "https://www.courant.com/classified/automotive/sns-ups-orders-electric-delivery-trucks-self-driving-vans-20200131-o3uytm44cncgfmgebfdbjiceke-story.html"
     type: article
     provider:
       name: Hartford Courant

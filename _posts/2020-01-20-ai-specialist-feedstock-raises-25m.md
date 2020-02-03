@@ -3,7 +3,7 @@ category: news
 title: "AI specialist FeedStock raises £2.5m"
 excerpt: "FeedStock, a UK startup using AI to help financial services firms meet compliance requirements and hit commercial goals, has raised £2.5 million in a funding round led by Praetura Ventures. Founded in 2015, FeedStock is an AI-driven SaaS business that leverages the latest natural language processing technologies to help both the buy and sell-side."
 publishedDateTime: 2020-01-20T16:15:00Z
-sourceUrl: "https://www.finextra.com/newsarticle/35110/ai-specialist-feedstock-raises-25m"
+webUrl: "https://www.finextra.com/newsarticle/35110/ai-specialist-feedstock-raises-25m"
 type: article
 quality: 37
 heat: -1
@@ -26,9 +26,9 @@ related:
   - title: "AI SaaS Business FeedStock Raises £2.5 Million Through Latest Investment Round Led By Praetura Ventures"
     excerpt: "FeedStock, an AI-driven SaaS business that uses the latest natural language processing technologies to enable financial services companies to meet both their compliance requirements and commercial goals, announced on Monday it secured £2.5 million through its latest investment round, which was led by Praetura Ventures with participation from ..."
     publishedDateTime: 2020-01-20T19:38:00Z
-    sourceUrl: "https://www.crowdfundinsider.com/2020/01/156551-ai-saas-business-feedstock-raises-2-5-million-through-latest-investment-round-led-by-praetura-ventures/"
-    ampUrl: "https://www.crowdfundinsider.com/2020/01/156551-ai-saas-business-feedstock-raises-2-5-million-through-latest-investment-round-led-by-praetura-ventures/amp/"
-    cdnAmpUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156551-ai-saas-business-feedstock-raises-2-5-million-through-latest-investment-round-led-by-praetura-ventures/amp/"
+    webUrl: "https://www.crowdfundinsider.com/2020/01/156551-ai-saas-business-feedstock-raises-2-5-million-through-latest-investment-round-led-by-praetura-ventures/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/01/156551-ai-saas-business-feedstock-raises-2-5-million-through-latest-investment-round-led-by-praetura-ventures/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156551-ai-saas-business-feedstock-raises-2-5-million-through-latest-investment-round-led-by-praetura-ventures/amp/"
     type: article
     provider:
       name: Crowdfund Insider

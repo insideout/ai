@@ -3,9 +3,9 @@ category: news
 title: "Budget 2020: Take a look at reactions from Indian startup ecosystem stakeholders"
 excerpt: "Given the Entrepreneurial spirit in India, backed by governments support, the startup ecosystem across sectors especially Agriculture & Health care will generate lot of employment opportunities.\" Recognition of AI & ML as cutting edge streams, proposal to have full-fledged online degree programmes showcases the vision to position India as a ..."
 publishedDateTime: 2020-02-01T09:55:00Z
-sourceUrl: "https://yourstory.com/2020/02/budget-2020-reactions-startup-investors-entrepreneurs"
-ampUrl: "https://yourstory.com/2020/02/budget-2020-reactions-startup-investors-entrepreneurs/amp"
-cdnAmpUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/budget-2020-reactions-startup-investors-entrepreneurs/amp"
+webUrl: "https://yourstory.com/2020/02/budget-2020-reactions-startup-investors-entrepreneurs"
+ampWebUrl: "https://yourstory.com/2020/02/budget-2020-reactions-startup-investors-entrepreneurs/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/budget-2020-reactions-startup-investors-entrepreneurs/amp"
 type: article
 quality: 37
 heat: 37

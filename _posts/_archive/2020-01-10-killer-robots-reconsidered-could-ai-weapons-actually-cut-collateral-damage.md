@@ -3,7 +3,7 @@ category: news
 title: "Killer robots reconsidered: Could AI weapons actually cut collateral damage?"
 excerpt: "The US Defense Department’s 2018 AI strategy commits it to lead internationally in military ethics and AI safety, including by developing specific AI applications that would reduce the risk of civilian casualties. There’s no visible evidence yet of the Defense Department starting an initiative to meet this commitment, but other nations have ..."
 publishedDateTime: 2020-01-10T11:05:00Z
-sourceUrl: "https://thebulletin.org/2020/01/killer-robots-reconsidered-could-ai-weapons-actually-cut-collateral-damage/"
+webUrl: "https://thebulletin.org/2020/01/killer-robots-reconsidered-could-ai-weapons-actually-cut-collateral-damage/"
 type: article
 quality: 36
 heat: 36

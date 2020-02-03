@@ -3,7 +3,7 @@ category: news
 title: "Self Taught Neural Network"
 excerpt: "Halfway through creating a clone of the classic windows game Bang Bang I realized I need a interesting Artificial Intelligence to play against the player. So I thought about having the opponent cannon be controlled by a Neural Network and learn how to shoot during run time. I came up with this algorithm to train the Neural Network. 1 - Shoot it ..."
 publishedDateTime: 2020-01-05T17:46:00Z
-sourceUrl: https://github.com/victorqribeiro/bangBangML
+webUrl: https://github.com/victorqribeiro/bangBangML
 type: article
 quality: 39
 heat: 39

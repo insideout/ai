@@ -3,7 +3,7 @@ category: news
 title: "Octi launches a social network built around augmented reality"
 excerpt: "Octi has created a new social network that uses augmented reality to connect the act of seeing your friends in real life with ... Ultimately, he’s hoping to turn this into a WeChat-style platform for outside developers to build social tools and content. And because Octi works on iPhone 7 and above (with plans for an Android version later ..."
 publishedDateTime: 2020-01-22T14:42:00Z
-sourceUrl: "https://techcrunch.com/2020/01/22/octi-social-network-launch/"
+webUrl: "https://techcrunch.com/2020/01/22/octi-social-network-launch/"
 type: article
 quality: 132
 heat: 132

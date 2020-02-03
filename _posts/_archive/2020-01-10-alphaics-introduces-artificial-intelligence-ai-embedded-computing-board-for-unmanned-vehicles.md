@@ -3,7 +3,7 @@ category: news
 title: "AlphaICs introduces artificial intelligence (AI) embedded computing board for unmanned vehicles"
 excerpt: "is introducing the alphaEdge artificial intelligence (AI ... Intended applications include drones, robots, and driverless cars. It is powered by AlphaICs's proprietary Real AI Processor (RAP ..."
 publishedDateTime: 2020-01-10T00:00:00Z
-sourceUrl: "https://www.militaryaerospace.com/computers/article/16711512/alphaics-introduces-artificial-intelligence-ai-embedded-computing-board-for-unmanned-vehicles"
+webUrl: "https://www.militaryaerospace.com/computers/article/16711512/alphaics-introduces-artificial-intelligence-ai-embedded-computing-board-for-unmanned-vehicles"
 type: article
 quality: 22
 heat: 22

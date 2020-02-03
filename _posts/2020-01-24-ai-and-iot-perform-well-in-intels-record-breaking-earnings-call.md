@@ -3,7 +3,7 @@ category: news
 title: "AI and IoT perform well in Intel’s record-breaking earnings call"
 excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now 7 of the coolest science jobs in the world Thinking about a career in marketing? An analytical mind is helpful Intel’s recent acquisition of Habana Labs has strenghtened its AI portfolio for the data centre. The company saw its data-centric business grow ..."
 publishedDateTime: 2020-01-24T14:32:00Z
-sourceUrl: "https://www.siliconrepublic.com/machines/intel-ai-iot-earnings-q4-2019"
+webUrl: "https://www.siliconrepublic.com/machines/intel-ai-iot-earnings-q4-2019"
 type: article
 quality: 39
 heat: 39
@@ -27,7 +27,7 @@ related:
   - title: "Companies that are Positive and Transparent on Earnings Calls Tend to Outperform their Peers, According to New S&P Global Market Intelligence Analysis"
     excerpt: "/PRNewswire/ -- Firms that use a greater number positive words to describe their financials during an earnings call tend to outperform their peers' stock"
     publishedDateTime: 2020-01-31T13:00:00Z
-    sourceUrl: "https://www.prnewswire.com/news-releases/companies-that-are-positive-and-transparent-on-earnings-calls-tend-to-outperform-their-peers-according-to-new-sp-global-market-intelligence-analysis-300996667.html"
+    webUrl: "https://www.prnewswire.com/news-releases/companies-that-are-positive-and-transparent-on-earnings-calls-tend-to-outperform-their-peers-according-to-new-sp-global-market-intelligence-analysis-300996667.html"
     type: article
     provider:
       name: PR Newswire

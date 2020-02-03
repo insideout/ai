@@ -3,9 +3,9 @@ category: news
 title: "A New Method of Artificial Intelligence Inspired by the Functioning of the Human Brain"
 excerpt: "This result, described this week in the journal PLOS ONE, is the result of an extremely fruitful collaboration between neuroscientists and artificial intelligence researchers at the University of Liège developing intelligent algorithms: two PhD researchers, Nicolas Vecoven and Antoine Wehenkel, as well as two professors, Damien Ernst ..."
 publishedDateTime: 2020-01-30T19:38:00Z
-sourceUrl: "https://www.labmanager.com/news/a-new-method-of-artificial-intelligence-inspired-by-the-functioning-of-the-human-brain-21608"
-ampUrl: "https://www.labmanager.com/news/a-new-method-of-artificial-intelligence-inspired-by-the-functioning-of-the-human-brain-21608/amp"
-cdnAmpUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/a-new-method-of-artificial-intelligence-inspired-by-the-functioning-of-the-human-brain-21608/amp"
+webUrl: "https://www.labmanager.com/news/a-new-method-of-artificial-intelligence-inspired-by-the-functioning-of-the-human-brain-21608"
+ampWebUrl: "https://www.labmanager.com/news/a-new-method-of-artificial-intelligence-inspired-by-the-functioning-of-the-human-brain-21608/amp"
+cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/a-new-method-of-artificial-intelligence-inspired-by-the-functioning-of-the-human-brain-21608/amp"
 type: article
 quality: 64
 heat: 74
@@ -28,7 +28,7 @@ related:
   - title: "A new method of artificial intelligence inspired by the functioning of the human brain"
     excerpt: "This result, described this week in the journal PLOS ONE, is the result of an extremely fruitful collaboration between neuroscientists and artificial intelligence researchers at the University of Liège developing intelligent algorithms: two PhD researchers, Nicolas Vecoven and Antoine Wehenkel, as well as two professors, Damien Ernst ..."
     publishedDateTime: 2020-01-29T15:41:00Z
-    sourceUrl: "https://www.eurekalert.org/pub_releases/2020-01/uol-anm012720.php"
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uol-anm012720.php"
     type: article
     provider:
       name: EurekAlert!

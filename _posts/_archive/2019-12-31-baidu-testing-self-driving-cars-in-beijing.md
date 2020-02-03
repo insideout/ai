@@ -3,7 +3,7 @@ category: news
 title: "Baidu testing self-driving cars in Beijing"
 excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
 publishedDateTime: 2019-12-31T18:38:00Z
-sourceUrl: "https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing"
+webUrl: "https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing"
 type: article
 quality: 19
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "Baidu secures licenses to test self-driving cars in Beijing"
     excerpt: "Tech giant Baidu is slowly but surely progressing toward the launch of a commercial robot-taxi fleet in mainland China. This week, the company announced that it has secured licenses to test ..."
     publishedDateTime: 2019-12-31T16:58:00Z
-    sourceUrl: "https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/"
+    webUrl: "https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/"
     type: article
     provider:
       name: VentureBeat

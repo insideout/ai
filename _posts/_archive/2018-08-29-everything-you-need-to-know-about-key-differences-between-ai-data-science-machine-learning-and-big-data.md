@@ -3,7 +3,7 @@ category: news
 title: "Everything you need to know about key differences between AI, Data Science, Machine Learning and Big Data"
 excerpt: "“All right, but what’s the difference between data science and AI ... claims that: “Machine learning is a part of research on artificial intelligence, seeking to provide knowledge to ..."
 publishedDateTime: 2018-08-29T00:00:00Z
-sourceUrl: "https://medium.com/dlabs-pl/everything-you-need-to-know-about-key-differences-between-ai-data-science-machine-learning-and-4ad7ab0b516b"
+webUrl: "https://medium.com/dlabs-pl/everything-you-need-to-know-about-key-differences-between-ai-data-science-machine-learning-and-4ad7ab0b516b"
 type: article
 quality: 150
 heat: 150

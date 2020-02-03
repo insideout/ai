@@ -3,9 +3,9 @@ category: news
 title: "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?"
 excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ..."
 publishedDateTime: 2019-12-30T19:00:00Z
-sourceUrl: https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/
-ampUrl: https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/
-cdnAmpUrl: https://khn-org.cdn.ampproject.org/c/s/khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/
+webUrl: https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/
+ampWebUrl: https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/
+cdnAmpWebUrl: https://khn-org.cdn.ampproject.org/c/s/khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/
 type: article
 quality: 71
 heat: 71

@@ -3,7 +3,7 @@ category: news
 title: "Behringer DeepMind 12D Desktop 12-Voice Polyphonic Analog Synth Module Black"
 excerpt: "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging. Taxes are charged in the following regions either by the seller, per their tax policy, or by Reverb as a Marketplace ..."
 publishedDateTime: 2020-01-25T05:53:00Z
-sourceUrl: "https://reverb.com/item/31682871-behringer-deepmind-12d-desktop-12-voice-polyphonic-analog-synth-module-black"
+webUrl: "https://reverb.com/item/31682871-behringer-deepmind-12d-desktop-12-voice-polyphonic-analog-synth-module-black"
 type: article
 quality: 16
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "Behringer DeepMind 12 Like New"
     excerpt: "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging."
     publishedDateTime: 2020-01-29T01:33:00Z
-    sourceUrl: "https://reverb.com/item/31761877-behringer-deepmind-12-like-new"
+    webUrl: "https://reverb.com/item/31761877-behringer-deepmind-12-like-new"
     type: article
     provider:
       name: Reverb.com
@@ -30,7 +30,7 @@ related:
   - title: "Behringer DeepMind 12 Polyphonic Analog Synth w/3 banks of GEOSYNTH patches"
     excerpt: "I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a message."
     publishedDateTime: 2020-01-31T03:20:00Z
-    sourceUrl: "https://reverb.com/item/31816943-behringer-deepmind-12-polyphonic-analog-synth-w-3-banks-of-geosynth-patches"
+    webUrl: "https://reverb.com/item/31816943-behringer-deepmind-12-polyphonic-analog-synth-w-3-banks-of-geosynth-patches"
     type: article
     provider:
       name: Reverb.com
@@ -39,7 +39,7 @@ related:
   - title: "Behringer DeepMind 12 Polyphonic Analog Synth (Open to Trades, Bristol or Nearby)"
     excerpt: "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging. I will ship with tracking to ..."
     publishedDateTime: 2020-01-24T05:46:00Z
-    sourceUrl: "https://reverb.com/item/31558266-behringer-deepmind-12-polyphonic-analog-synth-open-to-trades-bristol-or-nearby"
+    webUrl: "https://reverb.com/item/31558266-behringer-deepmind-12-polyphonic-analog-synth-open-to-trades-bristol-or-nearby"
     type: article
     provider:
       name: Reverb.com

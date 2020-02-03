@@ -1,7 +1,7 @@
 ---
 title: "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions"
 excerpt: "Develop smart applications without spending days and weeks building machine-learning models. With this practical book, you’ll learn how to apply Automated Machine Learning, a process that uses machine learning to help people build machine learning models. Deepak Mukunthu, Parashar Shah, and Wee Hyong Tok provide a mix of technical depth, hands-on examples, and case studies that show how customers are solving real-world problems with this technology."
-sourceUrl: https://www.amazon.com/Practical-Automated-Machine-Learning-Azure/dp/149205559X/
+webUrl: https://www.amazon.com/Practical-Automated-Machine-Learning-Azure/dp/149205559X/
 type: book
 price: $44.65
 length: 

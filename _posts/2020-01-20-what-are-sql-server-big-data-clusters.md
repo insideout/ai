@@ -3,7 +3,7 @@ category: news
 title: "What are SQL Server Big Data Clusters?"
 excerpt: "You can use Spark as well as built-in AI tools in SQL Server, using R, Python, Scala, or Java. Management and monitoring are provided through a combination of command line tools, APIs, portals, and dynamic management views. You can use Azure Data Studio to perform a variety of tasks on the big data cluster. This is enabled by the new SQL Server ..."
 publishedDateTime: 2020-01-20T18:15:00Z
-sourceUrl: "https://docs.microsoft.com/en-us/sql/big-data-cluster/big-data-cluster-overview"
+webUrl: "https://docs.microsoft.com/en-us/sql/big-data-cluster/big-data-cluster-overview"
 type: article
 quality: 24
 heat: 24

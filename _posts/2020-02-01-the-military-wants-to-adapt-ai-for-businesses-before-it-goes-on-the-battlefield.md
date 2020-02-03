@@ -3,7 +3,7 @@ category: news
 title: "The Military Wants to Adapt AI for Businesses Before It Goes on the Battlefield"
 excerpt: "WASHINGTON – The Pentagon’s Silicon Valley outpost awarded C3.ai Inc. in Redwood City, Calif., a contract for software that predicts when military aircraft will need repairs. Defense News reports. Continue reading original article The Military & Aerospace Electronics take: 30 Jan. 2020 -- The artificial intelligence (AI) tool would make ..."
 publishedDateTime: 2020-02-01T15:41:00Z
-sourceUrl: "https://nationalinterest.org/blog/buzz/military-wants-adapt-ai-businesses-it-goes-battlefield-118751"
+webUrl: "https://nationalinterest.org/blog/buzz/military-wants-adapt-ai-businesses-it-goes-battlefield-118751"
 type: article
 quality: 33
 heat: 33
@@ -26,7 +26,7 @@ related:
   - title: "Predictive maintenance tool from C3.ai uses artificial intelligence AI to forecast aircraft maintenance"
     excerpt: "a contract for software that predicts when military aircraft will need repairs. Defense News reports. Continue reading original article The Military & Aerospace Electronics take: 30 Jan. 2020 --The artificial intelligence (AI) tool would make more aircraft available for missions and could potentially save billions of dollars in maintenance costs."
     publishedDateTime: 2020-01-30T12:34:00Z
-    sourceUrl: "https://www.militaryaerospace.com/computers/article/14092760/software-artificial-intelligence-ai-predictive-maintenance"
+    webUrl: "https://www.militaryaerospace.com/computers/article/14092760/software-artificial-intelligence-ai-predictive-maintenance"
     type: article
     provider:
       name: Military

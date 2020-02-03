@@ -3,7 +3,7 @@ category: news
 title: "ScoreSense® Leverages Machine Learning to Take Its Customer Experience to the Next Level"
 excerpt: "/PRNewswire/ -- To provide customers with the most personalized credit experience possible, One Technologies, LLC has partnered with data management"
 publishedDateTime: 2020-01-30T12:48:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/scoresense-leverages-machine-learning-to-take-its-customer-experience-to-the-next-level-300995934.html"
+webUrl: "https://www.prnewswire.com/news-releases/scoresense-leverages-machine-learning-to-take-its-customer-experience-to-the-next-level-300995934.html"
 type: article
 quality: 30
 heat: 30
@@ -27,7 +27,7 @@ related:
   - title: "Sproutt Life Insurance Leverages Its Own AI Index For A More Personalized Customer Experience"
     excerpt: "Finding and managing life insurance policies. Enter Sproutt, a startup striving to reimagine live insurance by leveraging its own AI-guided index and analytics-driven approach. The next-gen life insurance company work by rewarding clients for their quality of living, which it establishes using its Guided Artificial Intelligence Assessment (GAIA)."
     publishedDateTime: 2020-01-27T19:43:00Z
-    sourceUrl: "https://www.psfk.com/2020/01/sproutt-life-insurance-leverages-its-own-ai-index-for-a-more-personalized-customer-experience.html"
+    webUrl: "https://www.psfk.com/2020/01/sproutt-life-insurance-leverages-its-own-ai-index-for-a-more-personalized-customer-experience.html"
     type: article
     provider:
       name: PSFK

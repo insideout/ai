@@ -3,7 +3,7 @@ category: news
 title: "Bundesliga scores with AWS for insight into every live broadcast"
 excerpt: "Bundesliga will use AWS artificial intelligence, machine learning, analytics, compute, database, and storage services to deliver real-time statistics to predict future game outcomes, and recommend personalised match footage across mobile, online ..."
 publishedDateTime: 2020-01-14T00:00:00Z
-sourceUrl: "https://www.tvbeurope.com/technology/bundesliga-scores-with-aws-for-insight-into-every-live-broadcast"
+webUrl: "https://www.tvbeurope.com/technology/bundesliga-scores-with-aws-for-insight-into-every-live-broadcast"
 type: article
 quality: 39
 heat: 39

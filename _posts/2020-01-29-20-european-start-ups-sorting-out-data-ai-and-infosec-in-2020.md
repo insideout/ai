@@ -3,7 +3,7 @@ category: news
 title: "20 European start-ups sorting out data, AI and infosec in 2020"
 excerpt: "We have gathered 20 start-ups working in a wide range of areas related to AI, data and infosec, which we believe are well worth watching in 2020 and the decade ahead. From Dublin to Galway and from Poland to Romania, we have gathered 20 European start-ups that are definitely worth keeping an eye on if you’re interested in anything to do with ..."
 publishedDateTime: 2020-01-29T15:55:00Z
-sourceUrl: "https://www.siliconrepublic.com/start-ups/european-data-science-ai-infosec-startups"
+webUrl: "https://www.siliconrepublic.com/start-ups/european-data-science-ai-infosec-startups"
 type: article
 quality: 41
 heat: 41

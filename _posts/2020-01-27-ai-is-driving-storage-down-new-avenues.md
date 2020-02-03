@@ -3,9 +3,9 @@ category: news
 title: "AI Is Driving Storage Down New Avenues"
 excerpt: "After all, it’s been churning out HPC storage appliances since 1999. But AI and similarly data-intensive codes have thrust the issue of I/O latency to the forefront. Minimizing latency ensures that the system’s most expensive componentry, namely CPUs and GPUs, are kept busy and not sitting idle waiting for data to arrive. Our recent ..."
 publishedDateTime: 2020-01-27T15:37:00Z
-sourceUrl: "https://www.nextplatform.com/2020/01/27/ai-is-driving-storage-down-new-avenues/"
-ampUrl: "https://www.nextplatform.com/2020/01/27/ai-is-driving-storage-down-new-avenues/amp/"
-cdnAmpUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/27/ai-is-driving-storage-down-new-avenues/amp/"
+webUrl: "https://www.nextplatform.com/2020/01/27/ai-is-driving-storage-down-new-avenues/"
+ampWebUrl: "https://www.nextplatform.com/2020/01/27/ai-is-driving-storage-down-new-avenues/amp/"
+cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/27/ai-is-driving-storage-down-new-avenues/amp/"
 type: article
 quality: 57
 heat: 57

@@ -1,7 +1,7 @@
 ---
 title: "OpenCV with Python Blueprints"
 excerpt: "Design and develop advanced computer vision projects using OpenCV with Python"
-sourceUrl: https://www.amazon.com/OpenCV-Python-Blueprints-Michael-Beyeler/dp/1785282697/
+webUrl: https://www.amazon.com/OpenCV-Python-Blueprints-Michael-Beyeler/dp/1785282697/
 type: book
 price: $37.49
 length: 

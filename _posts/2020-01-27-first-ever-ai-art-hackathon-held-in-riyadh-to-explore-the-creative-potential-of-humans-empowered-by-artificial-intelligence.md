@@ -3,7 +3,7 @@ category: news
 title: "First Ever AI Art Hackathon Held in Riyadh to Explore the Creative Potential of Humans Empowered by Artificial Intelligence"
 excerpt: "/PRNewswire/ -- The first ever AI Art Hackathon reached the finale of its first round in Riyadh on Saturday 25th January, after a weekend of"
 publishedDateTime: 2020-01-27T12:00:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/first-ever-ai-art-hackathon-held-in-riyadh-to-explore-the-creative-potential-of-humans-empowered-by-artificial-intelligence-300993241.html"
+webUrl: "https://www.prnewswire.com/news-releases/first-ever-ai-art-hackathon-held-in-riyadh-to-explore-the-creative-potential-of-humans-empowered-by-artificial-intelligence-300993241.html"
 type: article
 quality: 26
 heat: 26

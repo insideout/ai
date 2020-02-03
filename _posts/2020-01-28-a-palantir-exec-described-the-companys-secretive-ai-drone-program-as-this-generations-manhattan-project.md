@@ -3,7 +3,7 @@ category: news
 title: "A Palantir exec described the company's secretive AI drone program as 'this generation's Manhattan Project'"
 excerpt: "Palantir believes that its work helping drones autonomously identify targets is as important as the race to develop nuclear weapons."
 publishedDateTime: 2020-01-28T21:38:00Z
-sourceUrl: "https://www.businessinsider.com/palantir-executive-compared-project-maven-to-manhattan-project-2020-1/"
+webUrl: "https://www.businessinsider.com/palantir-executive-compared-project-maven-to-manhattan-project-2020-1/"
 type: article
 quality: 29
 heat: 29

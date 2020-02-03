@@ -3,7 +3,7 @@ category: news
 title: "Out now: SportsPro Issue 108 - Artificial intelligence and venture capital"
 excerpt: "Artificial intelligence is quickly becoming the most influential technology of the 21st century, with exponential advances provoking intense speculation about its true potential. Sport and games are offering an invaluable proving ground for its capabilities, and AI-powered solutions are finding use in more and more parts of the industry."
 publishedDateTime: 2020-02-01T02:42:00Z
-sourceUrl: "https://www.sportspromedia.com/from-the-magazine/sportspro-issue-108-artificial-intelligence-venture-capital"
+webUrl: "https://www.sportspromedia.com/from-the-magazine/sportspro-issue-108-artificial-intelligence-venture-capital"
 type: article
 quality: 35
 heat: 35

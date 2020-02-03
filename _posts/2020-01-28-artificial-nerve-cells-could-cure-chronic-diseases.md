@@ -3,9 +3,9 @@ category: news
 title: "Artificial nerve cells could cure chronic diseases"
 excerpt: "Researchers in this field are already using such information to create biomedical devices delving into complicated neural networks. However, developing artificial neurons has been difficult due to the challenges of complex biology and hard-to-predict neuronal responses. A team of scientists supported by the EU-funded CResPace project has ..."
 publishedDateTime: 2020-01-28T14:52:00Z
-sourceUrl: "https://medicalxpress.com/news/2020-01-artificial-nerve-cells-chronic-diseases.html"
-ampUrl: "https://medicalxpress.com/news/2020-01-artificial-nerve-cells-chronic-diseases.amp"
-cdnAmpUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-nerve-cells-chronic-diseases.amp"
+webUrl: "https://medicalxpress.com/news/2020-01-artificial-nerve-cells-chronic-diseases.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-01-artificial-nerve-cells-chronic-diseases.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-nerve-cells-chronic-diseases.amp"
 type: article
 quality: 24
 heat: 24

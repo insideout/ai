@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with NLP Deep Learning Using PyTorch and fastai"
 excerpt: "This course will teach you how to start using fastai library and PyTorch to obtain near-state-of-the-art results with Deep Learning NLP for text classification. It will give you a theoretical background and show how to take models to production."
-sourceUrl: https://www.pluralsight.com/courses/getting-started-nlp-deep-learning-pytorch-fastai
+webUrl: https://www.pluralsight.com/courses/getting-started-nlp-deep-learning-pytorch-fastai
 type: course
 price: $$
 length: 2h 13m

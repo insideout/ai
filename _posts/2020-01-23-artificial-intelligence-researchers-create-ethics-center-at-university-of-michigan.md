@@ -3,9 +3,9 @@ category: news
 title: "Artificial intelligence researchers create ethics center at University of Michigan"
 excerpt: "ANN ARBOR, MI — Researchers at the University of Michigan have been exploring the need to set ethics standards and policies when it comes to the use of artificial intelligence, and they now have their own place to do so. The university has created a new Center of Ethics, Society and Computing (ESC) that will focus on AI, data usage ..."
 publishedDateTime: 2020-01-23T17:10:00Z
-sourceUrl: "https://www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-researchers-create-ethics-center-at-university-of-michigan.html"
-ampUrl: "https://www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-researchers-create-ethics-center-at-university-of-michigan.html?outputType=amp"
-cdnAmpUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-researchers-create-ethics-center-at-university-of-michigan.html?outputType=amp"
+webUrl: "https://www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-researchers-create-ethics-center-at-university-of-michigan.html"
+ampWebUrl: "https://www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-researchers-create-ethics-center-at-university-of-michigan.html?outputType=amp"
+cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-researchers-create-ethics-center-at-university-of-michigan.html?outputType=amp"
 type: article
 quality: 68
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "University of Michigan Showcases New AI Ethics Center"
     excerpt: "(TNS) — Researchers at the University of Michigan have been exploring the need to set ethics standards and policies when it comes to the use of artificial intelligence, and they now have their own place to do so. The university has created a new Center of Ethics, Society and Computing (ESC) that will focus on AI, data usage, augmented and ..."
     publishedDateTime: 2020-01-27T20:17:00Z
-    sourceUrl: "https://www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html"
-    ampUrl: "https://www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html?AMP"
-    cdnAmpUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html?AMP"
+    webUrl: "https://www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html"
+    ampWebUrl: "https://www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html?AMP"
     type: article
     provider:
       name: Government Technology
@@ -44,9 +44,9 @@ related:
   - title: "University to Help Society Wrap Their Minds Around Artificial Intelligence"
     excerpt: "The University of Michigan’s Center of Ethics, Society and Computing (ESC) will study ethical limitations and practices of artificial intelligence. “We’re looking ahead to difficult debates about the future path we are steering with technology in society.” (TNS) — Researchers at the University of Michigan have been exploring the need ..."
     publishedDateTime: 2020-01-24T23:35:00Z
-    sourceUrl: "https://www.governing.com/next/University-to-Help-Society-Wrap-Their-Minds-Around-Artificial-Intelligence.html"
-    ampUrl: "https://www.governing.com/next/University-to-Help-Society-Wrap-Their-Minds-Around-Artificial-Intelligence.html?AMP"
-    cdnAmpUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/University-to-Help-Society-Wrap-Their-Minds-Around-Artificial-Intelligence.html?AMP"
+    webUrl: "https://www.governing.com/next/University-to-Help-Society-Wrap-Their-Minds-Around-Artificial-Intelligence.html"
+    ampWebUrl: "https://www.governing.com/next/University-to-Help-Society-Wrap-Their-Minds-Around-Artificial-Intelligence.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/University-to-Help-Society-Wrap-Their-Minds-Around-Artificial-Intelligence.html?AMP"
     type: article
     provider:
       name: Governing

@@ -3,9 +3,9 @@ category: news
 title: "Review: WT2 Plus earbuds translate across 36 languages and 85 accents"
 excerpt: "Humanity has been striving for a real-life Babel fish in the form of translation technology, and the rise of deep learning in recent years has seen machine translation develop in leaps and bounds."
 publishedDateTime: 2020-01-16T02:38:00Z
-sourceUrl: "https://newatlas.com/mobile-technology/review-wt2-plus-earbuds-translation-35languages-85accents/"
-ampUrl: "https://newatlas.com/mobile-technology/review-wt2-plus-earbuds-translation-35languages-85accents/?amp=true"
-cdnAmpUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/review-wt2-plus-earbuds-translation-35languages-85accents/?amp=true"
+webUrl: "https://newatlas.com/mobile-technology/review-wt2-plus-earbuds-translation-35languages-85accents/"
+ampWebUrl: "https://newatlas.com/mobile-technology/review-wt2-plus-earbuds-translation-35languages-85accents/?amp=true"
+cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/review-wt2-plus-earbuds-translation-35languages-85accents/?amp=true"
 type: article
 quality: 74
 heat: 74

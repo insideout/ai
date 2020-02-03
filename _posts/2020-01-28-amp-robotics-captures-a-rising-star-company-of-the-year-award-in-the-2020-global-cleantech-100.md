@@ -3,7 +3,7 @@ category: news
 title: "AMP Robotics captures a 'Rising Star Company of the Year' Award in the 2020 Global Cleantech 100"
 excerpt: "AMP Robotics Corp. (\"AMP\"), a pioneer in artificial intelligence and robotics for the recycling industry, was named a Rising Star Company of the Year in the 2020 Global Cleantech 100 by Cleantech Group. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200128005205/en/ The 2020 Global ..."
 publishedDateTime: 2020-01-28T13:14:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-amp-robotics-captures-rising-star-company-the-year-/2020/01/28/9087898.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-amp-robotics-captures-rising-star-company-the-year-/2020/01/28/9087898.htm"
 type: article
 quality: 41
 heat: 41
@@ -27,7 +27,7 @@ related:
   - title: "AMP Robotics Captures a ‘Rising Star’ Company of the Year Award in the 2020 Global Cleantech 100"
     excerpt: "AMP Robotics Corp., a pioneer in artificial intelligence and robotics for the recycling industry, was named a Rising Star Company of the Year in the 2020 Global Cleantech 100 by Cleantech Group. The 2020 Global Cleantech 100 is the 11th edition of the respected annual guide to the leading companies and themes in sustainable innovation."
     publishedDateTime: 2020-01-29T01:55:00Z
-    sourceUrl: "https://wasteadvantagemag.com/amp-robotics-captures-a-rising-star-company-of-the-year-award-in-the-2020-global-cleantech-100/"
+    webUrl: "https://wasteadvantagemag.com/amp-robotics-captures-a-rising-star-company-of-the-year-award-in-the-2020-global-cleantech-100/"
     type: article
     provider:
       name: Waste Advantage Magazine

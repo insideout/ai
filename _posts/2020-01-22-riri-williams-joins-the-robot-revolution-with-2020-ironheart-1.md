@@ -3,9 +3,9 @@ category: news
 title: "Riri Williams Joins the Robot Revolution with '2020 Ironheart' #1"
 excerpt: "Written by Vita Ayala and Danny Lore with art by David Messina, the Arno Stark–funded crackdown on artificial intelligence is in full swing. That means that Riri Williams and N.A.T.A.L.I.E., the A.I. based on Riri’s deceased best friend, are in for a world of trouble. Can they weather the coming storm together, or will 2020 tear them apart?"
 publishedDateTime: 2020-01-22T18:38:00Z
-sourceUrl: "https://www.marvel.com/articles/comics/riri-williams-joins-the-robot-revolution-with-2020-ironheart-1"
-ampUrl: "https://www.marvel.com/amp/articles/comics/riri-williams-joins-the-robot-revolution-with-2020-ironheart-1"
-cdnAmpUrl: "https://www-marvel-com.cdn.ampproject.org/c/s/www.marvel.com/amp/articles/comics/riri-williams-joins-the-robot-revolution-with-2020-ironheart-1"
+webUrl: "https://www.marvel.com/articles/comics/riri-williams-joins-the-robot-revolution-with-2020-ironheart-1"
+ampWebUrl: "https://www.marvel.com/amp/articles/comics/riri-williams-joins-the-robot-revolution-with-2020-ironheart-1"
+cdnAmpWebUrl: "https://www-marvel-com.cdn.ampproject.org/c/s/www.marvel.com/amp/articles/comics/riri-williams-joins-the-robot-revolution-with-2020-ironheart-1"
 type: article
 quality: 59
 heat: 59

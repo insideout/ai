@@ -3,9 +3,9 @@ category: news
 title: "4 Strategic Steps for Responsible Multi-Cloud Adoption"
 excerpt: "The alternatives to this are Azure Templates, AWS Cloud Formation or Google’s GCP Deployment manager ... The question to ask yourself is: do you trust that vendor enough to be so dependent on it? While the use of machine learning and AI in multi-cloud strategies is still fairly nascent, it’s worth considering as part of a forward-thinking ..."
 publishedDateTime: 2020-01-16T15:38:00Z
-sourceUrl: "https://www.cmswire.com/information-management/4-strategic-steps-for-responsible-multi-cloud-adoption/"
-ampUrl: "https://www.cmswire.com/information-management/4-strategic-steps-for-responsible-multi-cloud-adoption/amp/"
-cdnAmpUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/4-strategic-steps-for-responsible-multi-cloud-adoption/amp/"
+webUrl: "https://www.cmswire.com/information-management/4-strategic-steps-for-responsible-multi-cloud-adoption/"
+ampWebUrl: "https://www.cmswire.com/information-management/4-strategic-steps-for-responsible-multi-cloud-adoption/amp/"
+cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/4-strategic-steps-for-responsible-multi-cloud-adoption/amp/"
 type: article
 quality: 44
 heat: 44

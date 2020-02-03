@@ -3,9 +3,9 @@ category: news
 title: "The 'Illinois Artificial Intelligence Video Interview Act' is a real law. Here's why it may be coming to a job application near year."
 excerpt: "CHICAGO — Illinois residents who made finding a new job one of their 2020 resolutions will have a better understanding of how employers use artificial intelligence to assess video interviews, under a new state law that is the first of its kind. The Illinois Artificial Intelligence Video Interview Act, which took effect Jan. 1, requires ..."
 publishedDateTime: 2020-01-26T11:00:00Z
-sourceUrl: "https://www.pantagraph.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_83b42244-8a7b-5a0e-8c4f-87578980362c.html"
-ampUrl: "https://www.pantagraph.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_83b42244-8a7b-5a0e-8c4f-87578980362c.amp.html"
-cdnAmpUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_83b42244-8a7b-5a0e-8c4f-87578980362c.amp.html"
+webUrl: "https://www.pantagraph.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_83b42244-8a7b-5a0e-8c4f-87578980362c.html"
+ampWebUrl: "https://www.pantagraph.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_83b42244-8a7b-5a0e-8c4f-87578980362c.amp.html"
+cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_83b42244-8a7b-5a0e-8c4f-87578980362c.amp.html"
 type: article
 quality: 26
 heat: 26
@@ -28,9 +28,9 @@ related:
   - title: "Now artificial intelligence is screening job seekers’ videos. A new Illinois law requires businesses to disclose their use of the technology."
     excerpt: "Illinois residents who made finding a new job one of their 2020 resolutions will have a better understanding of how employers use artificial intelligence to assess video interviews, under a new state law that is the first of its kind. The Illinois Artificial Intelligence Video Interview Act, which took effect Jan. 1, requires companies to ..."
     publishedDateTime: 2020-01-26T04:28:00Z
-    sourceUrl: "https://www.chicagotribune.com/business/ct-biz-illinois-law-limits-online-video-job-interviews-20200124-y2fuvlfzxzftnatx7olabgrule-story.html"
-    ampUrl: "https://www.chicagotribune.com/business/ct-biz-illinois-law-limits-online-video-job-interviews-20200124-y2fuvlfzxzftnatx7olabgrule-story.html?outputType=amp"
-    cdnAmpUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-illinois-law-limits-online-video-job-interviews-20200124-y2fuvlfzxzftnatx7olabgrule-story.html?outputType=amp"
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-illinois-law-limits-online-video-job-interviews-20200124-y2fuvlfzxzftnatx7olabgrule-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-illinois-law-limits-online-video-job-interviews-20200124-y2fuvlfzxzftnatx7olabgrule-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-illinois-law-limits-online-video-job-interviews-20200124-y2fuvlfzxzftnatx7olabgrule-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune

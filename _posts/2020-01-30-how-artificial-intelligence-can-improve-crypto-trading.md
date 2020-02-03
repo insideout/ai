@@ -3,7 +3,7 @@ category: news
 title: "How Artificial Intelligence Can Improve Crypto Trading"
 excerpt: "World Markets has combined artificial intelligence in its professional managed trading fund services. This company offers customers an AI-based trading system that reacts to every shift in the market, responding with structured market sell/buy orders that ensure far-superior results in trading. This fully-service global financial firm has a ..."
 publishedDateTime: 2020-01-30T13:38:00Z
-sourceUrl: "https://bitcoinist.com/how-artificial-intelligence-can-improve-crypto-trading/"
+webUrl: "https://bitcoinist.com/how-artificial-intelligence-can-improve-crypto-trading/"
 type: article
 quality: 37
 heat: 37

@@ -3,9 +3,9 @@ category: news
 title: "Apple’s latest AI acquisition leaves some Wyze cameras without people detection"
 excerpt: "Earlier today, Apple confirmed it purchased Seattle-based AI company Xnor.ai (via MacRumors). Acquisitions at Apple’s scale happen frequently, though rarely do they impact everyday people on the day of their announcement. This one is different. Cameras from fellow Seattle-based company Wyze, including the Wyze Cam V2 and Wyze Cam Pan ..."
 publishedDateTime: 2020-01-15T21:09:00Z
-sourceUrl: "https://www.theverge.com/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature"
-ampUrl: "https://www.theverge.com/platform/amp/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature"
-cdnAmpUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature"
+webUrl: "https://www.theverge.com/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature"
+ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature"
 type: article
 quality: 83
 heat: 113
@@ -32,9 +32,9 @@ related:
   - title: "Apple's Acquisition of AI Company Leaves Wyze Cameras Without People Detection"
     excerpt: "Apple's recent purchase of Seattle startup Xnor.ai, which specializes in on-device artificial intelligence, appears to have had a knock-on effect on home security cameras made by Wyze, another Seattle-based company. The Verge reports that the Wyze Cam V2 and Wyze Cam Pan rely on Xnor.ai's on-device people detection, but now that Apple owns the ..."
     publishedDateTime: 2020-01-16T11:05:00Z
-    sourceUrl: "https://www.macrumors.com/2020/01/16/wyze-cameras-lost-people-detection-apple-xnor/"
-    ampUrl: "https://www.macrumors.com/2020/01/16/wyze-cameras-lost-people-detection-apple-xnor/amp/"
-    cdnAmpUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/01/16/wyze-cameras-lost-people-detection-apple-xnor/amp/"
+    webUrl: "https://www.macrumors.com/2020/01/16/wyze-cameras-lost-people-detection-apple-xnor/"
+    ampWebUrl: "https://www.macrumors.com/2020/01/16/wyze-cameras-lost-people-detection-apple-xnor/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/01/16/wyze-cameras-lost-people-detection-apple-xnor/amp/"
     type: article
     provider:
       name: MacRumors
@@ -47,7 +47,7 @@ related:
   - title: "Apple’s latest acquisition is Seattle AI start-up Xnor.ai"
     excerpt: "As the war to build the best smartphone camera rages on, Apple has purchased an AI start-up called Xnor.ai, in a move that has already had an impact on customers who have purchased Wyze cameras. Based in Seattle, Xnor.ai has developed technology that runs deep learning models on edge devices, such as phones IoT devices, cameras, drones and ..."
     publishedDateTime: 2020-01-16T13:29:00Z
-    sourceUrl: "https://www.siliconrepublic.com/start-ups/apple-acquires-ai-startup-xnorai-iphone-camera"
+    webUrl: "https://www.siliconrepublic.com/start-ups/apple-acquires-ai-startup-xnorai-iphone-camera"
     type: article
     provider:
       name: SiliconRepublic
@@ -56,7 +56,7 @@ related:
   - title: "Apple Acquires a Company that Forbes described as one the most Promising Artificial Intelligence companies in America"
     excerpt: "A new report posted today claims that Apple has acquired Seattle based Xnor.ai, a spin-off from Paul Allen’s Allen Institute for Artificial Intelligence. XNOR.ai aimed at making state-of-the-art AI capabilities cheaper and more accessible. GeekWire notes in their exclusive report that \"The arrangement suggests that Xnor’s AI-enabled image ..."
     publishedDateTime: 2020-01-16T01:36:00Z
-    sourceUrl: "https://www.patentlyapple.com/patently-apple/2020/01/apple-acquires-a-company-that-forbes-described-as-one-the-most-promising-artificial-intelligence-companies-in-america.html"
+    webUrl: "https://www.patentlyapple.com/patently-apple/2020/01/apple-acquires-a-company-that-forbes-described-as-one-the-most-promising-artificial-intelligence-companies-in-america.html"
     type: article
     provider:
       name: Patently Apple

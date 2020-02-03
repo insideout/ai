@@ -3,7 +3,7 @@ category: news
 title: "Space-Tech , AVP map adaptation only takes 2 hours"
 excerpt: "Sixty-one per cent of the global brands released by Fortune will participate in CES 2020 to display new technologies, new products and new ecology including artificial intelligence, 5G, and technologies in ... in autonomous vehicles from China are appearing at CES. In 2019, Waymo's valuation was lowered by 40%; drive.ai announced the closure ..."
 publishedDateTime: 2020-01-09T02:44:00Z
-sourceUrl: https://www.finanznachrichten.de/nachrichten-2020-01/48563751-space-tech-avp-map-adaptation-only-takes-2-hours-200.htm
+webUrl: https://www.finanznachrichten.de/nachrichten-2020-01/48563751-space-tech-avp-map-adaptation-only-takes-2-hours-200.htm
 type: article
 quality: 24
 heat: 24

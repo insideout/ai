@@ -3,7 +3,7 @@ category: news
 title: "Azure Text Analytics client library samples for JavaScript"
 excerpt: "These sample programs show how to use the JavaScript client libraries for Azure Cognitive Services Text Analytics in some common scenarios. The samples are compatible with Node.js >= 8.0.0. You need an Azure subscription and an Azure Cognitive Services Instance to run these sample programs. Samples retrieve credentials to access the Cognitive ..."
 publishedDateTime: 2020-01-24T23:22:00Z
-sourceUrl: "https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-js/ai-text-analytics-javascript/"
+webUrl: "https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-js/ai-text-analytics-javascript/"
 type: article
 quality: 39
 heat: 39
@@ -31,7 +31,7 @@ related:
   - title: "Azure Text Analytics client library samples for TypeScript"
     excerpt: "These sample programs show how to use the TypeScript client libraries for Azure Cognitive Services Text Analytics in some common scenarios. The samples are compatible with Node.js >= 8.0.0. Before running the samples in Node, they must be compiled to JavaScript using the TypeScript compiler. For more information on TypeScript, see the ..."
     publishedDateTime: 2020-01-24T23:22:00Z
-    sourceUrl: "https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-js/ai-text-analytics-typescript/"
+    webUrl: "https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-js/ai-text-analytics-typescript/"
     type: article
     provider:
       name: Microsoft

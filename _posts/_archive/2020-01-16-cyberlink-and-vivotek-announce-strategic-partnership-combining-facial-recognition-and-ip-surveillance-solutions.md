@@ -3,7 +3,7 @@ category: news
 title: "CyberLink and VIVOTEK Announce Strategic Partnership Combining Facial Recognition and IP Surveillance Solutions"
 excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, announced a strategic partnership with VIVOTEK (3454.TW), the global leading IP surveillance solution provider, adding CyberLink's FaceMe® AI facial recognition engine to VIVOTEK's IP surveillance solutions. The new collaboration will be showcased in VIVOTEK's ..."
 publishedDateTime: 2020-01-16T18:39:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-cyberlink-vivotek-announce-strategic-partnership-combining-facial-recognition-/2020/01/16/9082949.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cyberlink-vivotek-announce-strategic-partnership-combining-facial-recognition-/2020/01/16/9082949.htm"
 type: article
 quality: 19
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "2019 Proved We Can Stop Face Recognition Surveillance"
     excerpt: "This piece originally appeared on Fast Company. In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest ..."
     publishedDateTime: 2020-01-17T18:26:00Z
-    sourceUrl: "https://www.aclu.org/news/privacy-technology/2019-was-the-year-we-proved-face-recognition-surveillance-isnt-inevitable/"
+    webUrl: "https://www.aclu.org/news/privacy-technology/2019-was-the-year-we-proved-face-recognition-surveillance-isnt-inevitable/"
     type: article
     provider:
       name: Aclu.org
@@ -40,7 +40,7 @@ related:
   - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
     excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
     publishedDateTime: 2020-01-17T00:32:00Z
-    sourceUrl: "https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/"
+    webUrl: "https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/"
     type: article
     provider:
       name: Help Net Security

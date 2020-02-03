@@ -3,7 +3,7 @@ category: news
 title: "Quickstart: Face client library for Go"
 excerpt: "A Multi-Service resource: Available through the Azure portal until you delete the resource. Use the same key and endpoint for your applications, across multiple Cognitive Services. Using your key and endpoint from the resource you created, create two environment variables for authentication: FACE_SUBSCRIPTION_KEY - The resource key for ..."
 publishedDateTime: 2020-02-01T23:59:00Z
-sourceUrl: "https://docs.microsoft.com/en-us/azure/cognitive-services/face/quickstarts/go-sdk"
+webUrl: "https://docs.microsoft.com/en-us/azure/cognitive-services/face/quickstarts/go-sdk"
 type: article
 quality: 24
 heat: 24

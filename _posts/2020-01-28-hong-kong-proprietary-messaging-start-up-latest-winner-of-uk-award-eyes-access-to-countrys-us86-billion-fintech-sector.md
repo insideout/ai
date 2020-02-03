@@ -3,9 +3,9 @@ category: news
 title: "Hong Kong proprietary messaging start-up latest winner of UK award, eyes access to country’s US$8.6 billion fintech sector"
 excerpt: "Shanghai hands out incentives to attract investment under fintech hub plan Fintech is one of the four areas of strength that the Hong Kong government has identified, alongside biotechnology, AI and smart city technology, with the idea that these sectors will attract more research and development input. Paul McComb, director general of trade and ..."
 publishedDateTime: 2020-01-28T02:17:00Z
-sourceUrl: "https://www.scmp.com/business/china-business/article/3047815/hong-kong-proprietary-messaging-start-latest-winner-uk"
-ampUrl: "https://amp.scmp.com/business/china-business/article/3047815/hong-kong-proprietary-messaging-start-latest-winner-uk"
-cdnAmpUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/china-business/article/3047815/hong-kong-proprietary-messaging-start-latest-winner-uk"
+webUrl: "https://www.scmp.com/business/china-business/article/3047815/hong-kong-proprietary-messaging-start-latest-winner-uk"
+ampWebUrl: "https://amp.scmp.com/business/china-business/article/3047815/hong-kong-proprietary-messaging-start-latest-winner-uk"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/china-business/article/3047815/hong-kong-proprietary-messaging-start-latest-winner-uk"
 type: article
 quality: 0
 heat: 0

@@ -3,7 +3,7 @@ category: news
 title: "Top Jobs In Autonomous Vehicle Industry & How You Can Land Them"
 excerpt: "With artificial intelligence (AI) driving the entire world towards a mobility ... This tech relies on a diverse set of sensors like LIDARs, cameras and radars. Companies like Waymo, Tata and others who are in the autonomous vehicle development industry ..."
 publishedDateTime: 2020-01-10T13:04:00Z
-sourceUrl: "https://analyticsindiamag.com/top-jobs-in-autonomous-vehicle-industry-how-you-can-land-them/"
+webUrl: "https://analyticsindiamag.com/top-jobs-in-autonomous-vehicle-industry-how-you-can-land-them/"
 type: article
 quality: 24
 heat: 24

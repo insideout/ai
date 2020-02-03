@@ -3,9 +3,9 @@ category: news
 title: "Helping FI’s Develop Their ‘FinTech Sense’"
 excerpt: "Owens noted that Elan aims to improve the customer experience by providing mobile functionality, geolocation, AI-based fraud protection and all forms of digital payments. “These are expensive to deliver, which is why we help customers provide these services and capabilities as part of the package,” he said. Of course, those digital ..."
 publishedDateTime: 2020-01-28T09:13:00Z
-sourceUrl: "https://www.pymnts.com/news/digital-banking/2020/helping-fis-develop-their-fintech-sense/"
-ampUrl: "https://www.pymnts.com/news/digital-banking/2020/helping-fis-develop-their-fintech-sense/amp/"
-cdnAmpUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/digital-banking/2020/helping-fis-develop-their-fintech-sense/amp/"
+webUrl: "https://www.pymnts.com/news/digital-banking/2020/helping-fis-develop-their-fintech-sense/"
+ampWebUrl: "https://www.pymnts.com/news/digital-banking/2020/helping-fis-develop-their-fintech-sense/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/digital-banking/2020/helping-fis-develop-their-fintech-sense/amp/"
 type: article
 quality: 24
 heat: 24

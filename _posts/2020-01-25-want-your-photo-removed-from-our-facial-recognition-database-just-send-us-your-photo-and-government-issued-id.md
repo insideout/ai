@@ -3,7 +3,7 @@ category: news
 title: "Want your photo removed from our facial recognition database? Just send us your photo and government-issued ID…"
 excerpt: "My hunch is that you wouldn’t be happy when you find out a company has been scooping up the personal photos you upload to Facebook or Twitter, and feeding them into its facial recognition database without your permission. But that’s precisely what a controversial firm you’ve probably never heard of called Clearview AI has been doing."
 publishedDateTime: 2020-01-25T08:25:00Z
-sourceUrl: "https://www.grahamcluley.com/clearview-ai-facial-recognition-database-twitter/"
+webUrl: "https://www.grahamcluley.com/clearview-ai-facial-recognition-database-twitter/"
 type: article
 quality: 19
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "US spends $4.5m on heat-based facial recognition that works at 1,600ft"
     excerpt: "According to a couple of new contracts posted on the federal spending database, the United States military is cashing in on developing a new form of facial recognition technology. If you assumed that the US military was already using facial recognition technology on the battlefield, then you would have been right. The current use of facial ..."
     publishedDateTime: 2020-01-21T08:12:00Z
-    sourceUrl: "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/index.html"
-    ampUrl: "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html"
-    cdnAmpUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html"
+    webUrl: "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html"
     type: article
     provider:
       name: TweakTown
@@ -42,9 +42,9 @@ related:
   - title: "Universal Studios' Secret Life Of Pets Attraction Will Use Facial Recognition To Turn Guests Into Stray Dogs"
     excerpt: "This morning Universal Studios Hollywood revealed some new details about the forthcoming The Secret Life of Pets: Off the Leash attraction, including the fact that it will use facial recognition technology as well as gesture tracking in order to turn those on the ride into unique stray dogs. What's most intriguing about the new attraction ..."
     publishedDateTime: 2020-01-22T18:53:00Z
-    sourceUrl: "https://www.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs?pv=related_list"
-    ampUrl: "https://amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs"
-    cdnAmpUrl: "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs"
+    webUrl: "https://www.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs?pv=related_list"
+    ampWebUrl: "https://amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs"
+    cdnAmpWebUrl: "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs"
     type: article
     provider:
       name: Cinema Blend

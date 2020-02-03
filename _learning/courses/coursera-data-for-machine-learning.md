@@ -1,7 +1,7 @@
 ---
 title: "Data for Machine Learning"
 excerpt: "Learn Data for Machine Learning from Alberta Machine Intelligence Institute. This course synthesizes everything your have learned in the applied machine learning specialization. You will now walk through a complete machine learning project to ..."
-sourceUrl: https://www.coursera.org/learn/data-machine-learning
+webUrl: https://www.coursera.org/learn/data-machine-learning
 type: course
 price: Free+
 length: 4 hours

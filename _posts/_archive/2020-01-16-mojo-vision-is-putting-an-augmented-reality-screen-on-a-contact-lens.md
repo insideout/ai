@@ -3,7 +3,7 @@ category: news
 title: "Mojo Vision is putting an augmented reality screen on a contact lens"
 excerpt: "The Mojo Lens incorporates a number of breakthroughs and proprietary technologies, including the smallest and densest dynamic display ever made, the world’s most power-efficient image sensor optimized for computer vision, a custom wireless radio, and motion sensors for eyetracking and image stabilization. The Mojo Lens includes the Mojo ..."
 publishedDateTime: 2020-01-16T13:00:00Z
-sourceUrl: "https://venturebeat.com/2020/01/16/mojo-vision-is-putting-an-augmented-reality-screen-on-a-contact-lens/"
+webUrl: "https://venturebeat.com/2020/01/16/mojo-vision-is-putting-an-augmented-reality-screen-on-a-contact-lens/"
 type: article
 quality: 34
 heat: 34

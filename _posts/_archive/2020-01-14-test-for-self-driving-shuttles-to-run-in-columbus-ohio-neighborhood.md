@@ -3,7 +3,7 @@ category: news
 title: "Test for Self-Driving Shuttles to Run in Columbus, Ohio, Neighborhood"
 excerpt: "Self-driving shuttles will do a circuit through a residential neighborhood in Ohio’s capital city as part of a year-long pilot program starting in late January. Three, 12-passenger, disabled-accessible electric shuttles will travel the 2.8-mile (4.5 kilometer) route in the Linden neighborhood of Columbus. The shuttles, which are autonomous ..."
 publishedDateTime: 2020-01-14T17:31:00Z
-sourceUrl: "https://www.insurancejournal.com/news/midwest/2020/01/14/554833.htm"
+webUrl: "https://www.insurancejournal.com/news/midwest/2020/01/14/554833.htm"
 type: article
 quality: 24
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "Test for self-driving shuttles to run in Ohio neighborhood"
     excerpt: "COLUMBUS, Ohio (AP) — Self-driving shuttles will do a circuit through a residential neighborhood in Ohio’s capital city as part of a year-long pilot program starting in late January. Three, 12-passenger, disabled-accessible electric shuttles will travel the 2.8-mile (4.5 kilometer) route in the Linden neighborhood of Columbus. The shuttles ..."
     publishedDateTime: 2020-01-13T06:41:00Z
-    sourceUrl: "https://apnews.com/5c84ac2eeae32a419babd224bf0b8168"
+    webUrl: "https://apnews.com/5c84ac2eeae32a419babd224bf0b8168"
     type: article
     provider:
       name: Associated Press News

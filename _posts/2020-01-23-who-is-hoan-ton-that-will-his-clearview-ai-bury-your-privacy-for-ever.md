@@ -3,9 +3,9 @@ category: news
 title: "Who is Hoan Ton-That? Will his Clearview AI bury your privacy for ever?"
 excerpt: "His nascent company, Clearview AI, is saying it has gathered as many as 3 billion photos from sites like Facebook, Youtube, Twitter ... not surveillance and that Clearview Ai is \"an after-the-fact research tool.\" Though the technology is only being used by law enforcement agencies now, commercialisation of its use can spell danger, privacy ..."
 publishedDateTime: 2020-01-23T10:07:00Z
-sourceUrl: "https://www.ibtimes.sg/who-hoan-ton-that-will-his-clearview-ai-bury-your-privacy-ever-38164"
-ampUrl: "https://amp.ibtimes.sg/who-hoan-ton-that-will-his-clearview-ai-bury-your-privacy-ever-38164"
-cdnAmpUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/who-hoan-ton-that-will-his-clearview-ai-bury-your-privacy-ever-38164"
+webUrl: "https://www.ibtimes.sg/who-hoan-ton-that-will-his-clearview-ai-bury-your-privacy-ever-38164"
+ampWebUrl: "https://amp.ibtimes.sg/who-hoan-ton-that-will-his-clearview-ai-bury-your-privacy-ever-38164"
+cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/who-hoan-ton-that-will-his-clearview-ai-bury-your-privacy-ever-38164"
 type: article
 quality: 59
 heat: 59

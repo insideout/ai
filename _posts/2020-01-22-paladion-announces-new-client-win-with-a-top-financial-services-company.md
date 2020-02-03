@@ -3,9 +3,9 @@ category: news
 title: "Paladion Announces New Client Win with a Top Financial Services Company"
 excerpt: "Paladion will deliver a fully-equipped Managed Detection and Response Service that provides high speed cyber defense using Artificial Intelligence and Machine Learning. RESTON,"
 publishedDateTime: 2020-01-22T07:00:00Z
-sourceUrl: "https://www.benzinga.com/pressreleases/20/01/p15160768/paladion-announces-new-client-win-with-a-top-financial-services-company"
-ampUrl: "https://amp.benzinga.com/amp/content/15160768"
-cdnAmpUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160768"
+webUrl: "https://www.benzinga.com/pressreleases/20/01/p15160768/paladion-announces-new-client-win-with-a-top-financial-services-company"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15160768"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160768"
 type: article
 quality: 24
 heat: 24

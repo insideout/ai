@@ -3,9 +3,9 @@ category: news
 title: "Facebook’s AI Research Chief Talks AR Glasses, AI, And Machine Learning"
 excerpt: "Facebook AI Research chief AI scientist Yann LeCun believes augmented reality glasses are an ideal challenge for machine learning (ML) practitioners — a “killer app” — because they involve a confluence of unsolved problems. Perfect AR glasses will ..."
 publishedDateTime: 2019-12-22T00:00:00Z
-sourceUrl: https://uploadvr.com/facebooks-ai-research-chief-ar-glasses-ai-machine-learning/
-ampUrl: https://uploadvr.com/facebooks-ai-research-chief-ar-glasses-ai-machine-learning/?amp
-cdnAmpUrl: https://uploadvr-com.cdn.ampproject.org/c/s/uploadvr.com/facebooks-ai-research-chief-ar-glasses-ai-machine-learning/?amp
+webUrl: https://uploadvr.com/facebooks-ai-research-chief-ar-glasses-ai-machine-learning/
+ampWebUrl: https://uploadvr.com/facebooks-ai-research-chief-ar-glasses-ai-machine-learning/?amp
+cdnAmpWebUrl: https://uploadvr-com.cdn.ampproject.org/c/s/uploadvr.com/facebooks-ai-research-chief-ar-glasses-ai-machine-learning/?amp
 type: article
 quality: 59
 heat: 59

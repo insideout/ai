@@ -3,7 +3,7 @@ category: news
 title: "Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach"
 excerpt: "This article, introduces to the multiple AutoML tools for a real life problem. Different than the other articles about AutoML, we will use multiple AutoML tool for the same project or multiple ..."
 publishedDateTime: 2019-12-22T00:00:00Z
-sourceUrl: https://medium.com/@sadievrenseker/real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach-96edcdc70932
+webUrl: https://medium.com/@sadievrenseker/real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach-96edcdc70932
 type: article
 quality: 63
 heat: 63

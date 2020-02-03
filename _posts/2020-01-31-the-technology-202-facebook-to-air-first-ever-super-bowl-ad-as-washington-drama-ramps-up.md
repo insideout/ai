@@ -3,7 +3,7 @@ category: news
 title: "The Technology 202: Facebook to air first-ever Super Bowl ad as Washington drama ramps up"
 excerpt: "Actor Sylvester Stallone and comedian Chris Rock will tout Facebook groups in the social network’s first-ever Super Bowl ... BYTES: Radio conglomerate iHeartMedia said its recent mass layoffs were necessary as it embraced artificial intelligence. But critics say company executives used the systems as a scapegoat to obfuscate the consequences ..."
 publishedDateTime: 2020-01-31T13:55:00Z
-sourceUrl: "https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/31/the-technology-202-facebook-to-air-first-ever-super-bowl-ad-as-washington-drama-ramps-up/5e331a40602ff1217babb6a4/"
+webUrl: "https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/31/the-technology-202-facebook-to-air-first-ever-super-bowl-ad-as-washington-drama-ramps-up/5e331a40602ff1217babb6a4/"
 type: article
 quality: 30
 heat: 30

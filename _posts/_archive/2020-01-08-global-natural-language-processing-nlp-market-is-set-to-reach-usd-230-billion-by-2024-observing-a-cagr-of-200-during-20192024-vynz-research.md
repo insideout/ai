@@ -3,7 +3,7 @@ category: news
 title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
 excerpt: "Sentiment Analysis Text Processing, Others), by Industry (BFSI, Healthcare, Retail and Ecommerce, Manufacturing, Media and Entertainment, Travel and Hospitality, IT & Telecommunication ..."
 publishedDateTime: 2020-01-08T18:09:00Z
-sourceUrl: "https://www.globenewswire.com/news-release/2020/01/08/1968053/0/en/Global-Natural-Language-Processing-NLP-Market-is-Set-to-Reach-USD-23-0-billion-by-2024-Observing-a-CAGR-of-20-0-during-2019-2024-VynZ-Research.html"
+webUrl: "https://www.globenewswire.com/news-release/2020/01/08/1968053/0/en/Global-Natural-Language-Processing-NLP-Market-is-Set-to-Reach-USD-23-0-billion-by-2024-Observing-a-CAGR-of-20-0-during-2019-2024-VynZ-Research.html"
 type: article
 quality: 0
 heat: 0

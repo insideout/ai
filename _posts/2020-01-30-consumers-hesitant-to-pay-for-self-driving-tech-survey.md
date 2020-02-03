@@ -3,7 +3,7 @@ category: news
 title: "Consumers Hesitant to Pay for Self-Driving Tech: Survey"
 excerpt: "Automakers and startups won't quickly recoup the $75 billion they're investing in the tech, the AlixPartners study found. Automotive companies and startups alike are investing big in “hands off the wheel” self-driving technology but consumers are hesitant to pay much for it, a new study finds. AlixPartners’ 2019 Global Autonomous Vehicle ..."
 publishedDateTime: 2020-01-30T16:34:00Z
-sourceUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21121733/consumers-hesitant-to-pay-for-selfdriving-tech-survey"
+webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21121733/consumers-hesitant-to-pay-for-selfdriving-tech-survey"
 type: article
 quality: 4
 heat: 4

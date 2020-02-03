@@ -3,7 +3,7 @@ category: news
 title: "Cognitive/Artificial Intelligence Systems Market 2020 Analytical Overview, Technological Innovations with Economic Indicators By 2029"
 excerpt: "Global News for Cognitive/Artificial Intelligence Systems Market Study 2020-2029, by Segment (Robotics, Consumer Electronics, Drones, Autonomous Cars, Others), Playing a Pivotal Role in Expanding by (Manufacturing,"
 publishedDateTime: 2020-01-17T06:14:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/cognitiveartificial-intelligence-systems-market-2020-analytical-overview-technological-innovations-with-economic-indicators-by-2029-2020-01-17"
+webUrl: "https://www.marketwatch.com/press-release/cognitiveartificial-intelligence-systems-market-2020-analytical-overview-technological-innovations-with-economic-indicators-by-2029-2020-01-17"
 type: article
 quality: 40
 heat: 40

@@ -3,9 +3,9 @@ category: news
 title: "Airtel Teams Up With Google Cloud To Take On Jio-Microsoft Partnership"
 excerpt: "In this partnership, Jio is also leveraging Microsoft’s speech and language cognitive services for its device ecosystem, providing support in 13 Indian languages, with the flexibility to add other languages. While both Google and Microsoft have entered into a partnership with Indian telcos, Amazon Web Services (AWS) is currently leading the ..."
 publishedDateTime: 2020-01-20T15:49:00Z
-sourceUrl: "https://inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/"
-ampUrl: "https://inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/amp/"
-cdnAmpUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/amp/"
+webUrl: "https://inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/"
+ampWebUrl: "https://inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/amp/"
+cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/amp/"
 type: article
 quality: 74
 heat: 84
@@ -29,7 +29,7 @@ related:
   - title: "Google Cloud and Bharti Airtel partner in echo of Azure and Jio telecoms deal"
     excerpt: "Citing machine learning and infrastructure capabilities ... According to reports, healthcare software provider Epic is opting to move ahead with AWS and Azure as its cloud providers, citing a lack of interest in Google Cloud among its customers. Healthcare, alongside retail and financial services, are the three primary industries Google ..."
     publishedDateTime: 2020-01-21T10:51:00Z
-    sourceUrl: "https://www.cloudcomputing-news.net/news/2020/jan/21/google-cloud-and-bharti-airtel-partner-echo-azure-and-jio-telecoms-deal/"
+    webUrl: "https://www.cloudcomputing-news.net/news/2020/jan/21/google-cloud-and-bharti-airtel-partner-echo-azure-and-jio-telecoms-deal/"
     type: article
     provider:
       name: Cloud Computing

@@ -1,7 +1,7 @@
 ---
 title: "How Google does Machine Learning"
 excerpt: "Learn How Google does Machine Learning from Google Cloud. What is machine learning, and what kinds of problems can it solve? Google thinks about machine learning slightly differently -- of being about logic, rather than just data. We talk about ..."
-sourceUrl: https://www.coursera.org/learn/google-machine-learning
+webUrl: https://www.coursera.org/learn/google-machine-learning
 type: course
 price: Free+
 length: 10 hours

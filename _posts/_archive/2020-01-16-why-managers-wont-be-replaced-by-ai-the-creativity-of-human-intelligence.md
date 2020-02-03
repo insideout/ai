@@ -3,7 +3,7 @@ category: news
 title: "Why Managers Won't Be Replaced by AI: The Creativity Of Human Intelligence"
 excerpt: "Today, around the world, across most industry sectors, front-line, midlevel and, yes, even executive-level managers spend 54% of their workdays on administrative coordination and control. In contrast,"
 publishedDateTime: 2020-01-16T13:08:00Z
-sourceUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/why-managers-wont-be-replaced-by-ai-the-creativity-of-human-intelligence/"
+webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/why-managers-wont-be-replaced-by-ai-the-creativity-of-human-intelligence/"
 type: article
 quality: 45
 heat: 45

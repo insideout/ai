@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence in Sports Market 2019 by Segment Forecasts 2026 | AIBrian Inc., Amazon Inc., Anodot, AOL Inc, etc."
 excerpt: "This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics. The report on Artificial Intelligence in Sports Market also gives the market players and fresh contenders a holistic view of the global market landscape."
 publishedDateTime: 2020-01-24T12:22:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-2019-by-segment-forecasts-2026-aibrian-inc-amazon-inc-anodot-aol-inc-etc-2020-01-24"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-2019-by-segment-forecasts-2026-aibrian-inc-amazon-inc-anodot-aol-inc-etc-2020-01-24"
 type: article
 quality: 56
 heat: 56

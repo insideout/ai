@@ -3,7 +3,7 @@ category: news
 title: "How a farm in remote Queensland became a high tech AI hub"
 excerpt: "Watching Juliet as the little robot autonomously sweeps up and down the harvested crop rows without a farmer or worker in sight, it’s easy to believe Bate when he describes robotics and artificial intelligence as the next big technological ... the world to have developed farm robots from start to commercial finish. The 11 rusty robot ..."
 publishedDateTime: 2020-01-17T13:41:00Z
-sourceUrl: "https://www.afr.com/technology/how-a-farm-in-remote-queensland-became-a-high-tech-ai-hub-20200116-p53s5f"
+webUrl: "https://www.afr.com/technology/how-a-farm-in-remote-queensland-became-a-high-tech-ai-hub-20200116-p53s5f"
 type: article
 quality: 39
 heat: 39

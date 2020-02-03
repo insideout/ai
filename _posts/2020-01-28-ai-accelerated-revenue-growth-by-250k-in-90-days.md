@@ -3,7 +3,7 @@ category: news
 title: "AI Accelerated Revenue Growth By $250K In 90 Days"
 excerpt: "City Beach chose the Emarsys Max AI Retail Solution and shifted to a predictive marketing approach – opening new revenue opportunities and use cases. AI helped the company deliver true 1-to-1 customer experiences while creating efficiencies for the CRM team."
 publishedDateTime: 2020-01-28T15:00:00Z
-sourceUrl: "https://www.computerworld.com/resources/197397/ai-accelerated-revenue-growth-by-250k-in-90-days"
+webUrl: "https://www.computerworld.com/resources/197397/ai-accelerated-revenue-growth-by-250k-in-90-days"
 type: article
 quality: 37
 heat: 37

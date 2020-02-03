@@ -3,9 +3,9 @@ category: news
 title: "Google CEO calls for regulation of artificial intelligence"
 excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
 publishedDateTime: 2020-01-29T16:49:00Z
-sourceUrl: "https://www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.html"
-ampUrl: "https://www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.amp.html"
-cdnAmpUrl: "https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.amp.html"
+webUrl: "https://www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.html"
+ampWebUrl: "https://www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.amp.html"
+cdnAmpWebUrl: "https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.amp.html"
 type: article
 quality: 57
 heat: -1
@@ -28,9 +28,9 @@ related:
   - title: "Assessing Google CEO Sundar Pichai's call for fair AI regulations"
     excerpt: "Google CEO Sundar Pichai and other AI researchers say limited regulation is needed to protect people from irresponsible use cases. Google CEO Sundar Pichai and other executives working on artificial intelligence are now calling for limited government regulation as the European Union mulls potential five-year bans of facial recognition software."
     publishedDateTime: 2020-01-29T16:55:00Z
-    sourceUrl: "https://www.techrepublic.com/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
-    ampUrl: "https://www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
-    cdnAmpUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
+    webUrl: "https://www.techrepublic.com/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
     type: article
     provider:
       name: TechRepublic
@@ -43,9 +43,9 @@ related:
   - title: "Google shows off far-flung AI research projects as calls for regulation mount"
     excerpt: "\"Right now, one of the problems in machine learning is we tend to tackle each problem separately,\" said head of Google AI Jeff Dean at Google's San Francisco offices Tuesday."
     publishedDateTime: 2020-01-29T18:16:00Z
-    sourceUrl: "https://www.cnbc.com/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
-    ampUrl: "https://www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
-    cdnAmpUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
+    webUrl: "https://www.cnbc.com/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
     type: article
     provider:
       name: CNBC
@@ -58,7 +58,7 @@ related:
   - title: "Electricity Can’t Hold a Candle to Artificial Intelligence in Significance, Says Alphabet CEO"
     excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. “AI is one of the most profound things we’re working on as humanity. It’s more profound than fire or electricity,” Alphabet Inc. CEO Sundar Pichai said in an interview at the World Economic Forum in Davos ..."
     publishedDateTime: 2020-01-29T01:16:00Z
-    sourceUrl: "https://www.insurancejournal.com/news/national/2020/01/28/556768.htm"
+    webUrl: "https://www.insurancejournal.com/news/national/2020/01/28/556768.htm"
     type: article
     provider:
       name: Insurance Journal

@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence Won’t Displace the Human Intelligence of Lawyers Anytime Soon"
 excerpt: "The Machine. By 2011, IBM’s “Watson” computer advanced to the point where it defeated two of Jeopardy’s most heralded past champions, Ken Jennings and Brad Rutter. Watson’s performance was truly remarkable and a buzz-worthy public manifestation of the power of artificial intelligence. IBM parlayed the buzz into the promotion of Watson ..."
 publishedDateTime: 2020-01-29T12:13:00Z
-sourceUrl: "https://www.law.com/legaltechnews/2020/01/29/artificial-intelligence-wont-displace-the-human-intelligence-of-lawyers-anytime-soon/"
+webUrl: "https://www.law.com/legaltechnews/2020/01/29/artificial-intelligence-wont-displace-the-human-intelligence-of-lawyers-anytime-soon/"
 type: article
 quality: 32
 heat: 32

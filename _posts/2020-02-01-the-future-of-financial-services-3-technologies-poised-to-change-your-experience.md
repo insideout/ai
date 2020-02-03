@@ -3,7 +3,7 @@ category: news
 title: "The Future of Financial Services: 3 Technologies Poised to Change Your Experience"
 excerpt: "But financial services companies today are already well on their way to changing this experience, and three technologies are key to this transformation: APIs, adaptive intelligence (AI)/machine learning, and blockchain. These key strategies involve leveraging large troughs of data so banks can become an integral part of the consumers’ journey ..."
 publishedDateTime: 2020-02-01T02:16:00Z
-sourceUrl: "https://www.finextra.com/blogposting/18394/the-future-of-financial-services-3-technologies-poised-to-change-your-experience"
+webUrl: "https://www.finextra.com/blogposting/18394/the-future-of-financial-services-3-technologies-poised-to-change-your-experience"
 type: article
 quality: 0
 heat: -1
@@ -21,9 +21,9 @@ related:
   - title: "The Evolving Shape Of Risk Facing Financial Services In 2020"
     excerpt: "For financial services executives, the risk environment is becoming more complex and this is compounded by the use of new technologies, including AI, blockchain and RPA. Only a small percentage of risk managers are fully capable of assessing the risks of these technologies within their businesses."
     publishedDateTime: 2020-01-28T15:33:00Z
-    sourceUrl: "https://www.forbes.com/sites/steveculp/2020/01/28/the-evolving-shape-of-risk-facing-financial-services-in-2020/"
-    ampUrl: "https://www.forbes.com/sites/steveculp/2020/01/28/the-evolving-shape-of-risk-facing-financial-services-in-2020/amp/"
-    cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveculp/2020/01/28/the-evolving-shape-of-risk-facing-financial-services-in-2020/amp/"
+    webUrl: "https://www.forbes.com/sites/steveculp/2020/01/28/the-evolving-shape-of-risk-facing-financial-services-in-2020/"
+    ampWebUrl: "https://www.forbes.com/sites/steveculp/2020/01/28/the-evolving-shape-of-risk-facing-financial-services-in-2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveculp/2020/01/28/the-evolving-shape-of-risk-facing-financial-services-in-2020/amp/"
     type: article
     provider:
       name: Forbes
@@ -36,9 +36,9 @@ related:
   - title: "Bringing culture to the boardroom: how financial services can embrace culture"
     excerpt: "New technologies like AI and machine learning are reshaping both capabilities and job roles ... Culture’s current position According to recent Hibob research, looking at how C-Suite regard workplace culture, the financial service (FS) sector is notably less likely to discuss it at board-level than most verticals. In fact, only 66% of FS ..."
     publishedDateTime: 2020-01-24T10:32:00Z
-    sourceUrl: "https://www.globalbankingandfinance.com/bringing-culture-to-the-boardroom-how-financial-services-can-embrace-culture/"
-    ampUrl: "https://www.globalbankingandfinance.com/bringing-culture-to-the-boardroom-how-financial-services-can-embrace-culture/"
-    cdnAmpUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/bringing-culture-to-the-boardroom-how-financial-services-can-embrace-culture/"
+    webUrl: "https://www.globalbankingandfinance.com/bringing-culture-to-the-boardroom-how-financial-services-can-embrace-culture/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/bringing-culture-to-the-boardroom-how-financial-services-can-embrace-culture/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/bringing-culture-to-the-boardroom-how-financial-services-can-embrace-culture/"
     type: article
     provider:
       name: List of Banks in Belarus
@@ -51,7 +51,7 @@ related:
   - title: "Is seeing still believing in the age of AI?"
     excerpt: "Leigh Dow is the CEO of 48 West Agency. Have a marketing challenge you need to solve? Contact her at leigh@48westagency.com. Digital reputation management means staying up to date even as things are constantly changing,"
     publishedDateTime: 2020-01-27T16:19:00Z
-    sourceUrl: "https://www.bizjournals.com/phoenix/news/2020/01/27/is-seeing-still-believing-in-the-age-of-ai.html"
+    webUrl: "https://www.bizjournals.com/phoenix/news/2020/01/27/is-seeing-still-believing-in-the-age-of-ai.html"
     type: article
     provider:
       name: The Business Journals
@@ -64,7 +64,7 @@ related:
   - title: "Avaloq shares insights on AI, robotics & automation, and its role in the future of financial services"
     excerpt: "According to new industry research by Avaloq, a Swiss FinTech, additional key developments include the increasing use of more ... But it is clear that even bigger changes are arriving, particularly with regards to AI, robotics and automation, which combined with design thinking methodology will enhance the overall customer experience."
     publishedDateTime: 2020-01-30T16:01:00Z
-    sourceUrl: "https://hubbis.com/news/avaloq-shares-insights-on-ai-robotics-automation-and-its-role-in-the-future-of-financial-services"
+    webUrl: "https://hubbis.com/news/avaloq-shares-insights-on-ai-robotics-automation-and-its-role-in-the-future-of-financial-services"
     type: article
     provider:
       name: Hubbis
@@ -77,7 +77,7 @@ related:
   - title: "Top Machine Learning Services in the Cloud"
     excerpt: "Machine Learning services in the cloud are a critical area of the modern computing landscape, providing a way for organizations to better analyze data and derive new insights. Accessing these service via the cloud tends to be efficient in terms of cost and staff hours. Machine Learning (often abbreviated as ML) is a subset of Artificial ..."
     publishedDateTime: 2020-01-29T23:24:00Z
-    sourceUrl: "https://www.linuxtoday.com/high_performance/top-machine-learning-services-in-the-cloud.html"
+    webUrl: "https://www.linuxtoday.com/high_performance/top-machine-learning-services-in-the-cloud.html"
     type: article
     provider:
       name: Linux Today

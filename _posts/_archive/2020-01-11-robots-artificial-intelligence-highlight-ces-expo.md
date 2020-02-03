@@ -3,9 +3,9 @@ category: news
 title: "Robots, artificial intelligence highlight CES expo"
 excerpt: "The annual gadget fest in Las Vegas started this week with \"CES Unveiled,\" an event highlighted by several new robotic and artificial intelligence technology, including one that acts as a pet."
 publishedDateTime: 2020-01-11T11:10:00Z
-sourceUrl: "https://qconline.com/robots-artificial-intelligence-highlight-ces-expo/video_114cec98-2844-5eff-bafb-33473b852da1.html"
-ampUrl: "https://qconline.com/robots-artificial-intelligence-highlight-ces-expo/video_114cec98-2844-5eff-bafb-33473b852da1.amp.html"
-cdnAmpUrl: "https://qconline-com.cdn.ampproject.org/c/s/qconline.com/robots-artificial-intelligence-highlight-ces-expo/video_114cec98-2844-5eff-bafb-33473b852da1.amp.html"
+webUrl: "https://qconline.com/robots-artificial-intelligence-highlight-ces-expo/video_114cec98-2844-5eff-bafb-33473b852da1.html"
+ampWebUrl: "https://qconline.com/robots-artificial-intelligence-highlight-ces-expo/video_114cec98-2844-5eff-bafb-33473b852da1.amp.html"
+cdnAmpWebUrl: "https://qconline-com.cdn.ampproject.org/c/s/qconline.com/robots-artificial-intelligence-highlight-ces-expo/video_114cec98-2844-5eff-bafb-33473b852da1.amp.html"
 type: article
 quality: 54
 heat: 54

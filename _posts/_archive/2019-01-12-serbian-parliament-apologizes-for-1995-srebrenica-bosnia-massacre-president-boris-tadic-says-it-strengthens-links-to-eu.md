@@ -3,7 +3,7 @@ category: news
 title: "Serbian Parliament apologizes for 1995 Srebrenica, Bosnia, massacre; President Boris Tadic says it strengthens links to EU"
 excerpt: "Rajko Kuzmanovic, the president of the Bosnian Serb ministate, said the declaration was \"unacceptable and counterproductive.\" Associated Press writers Jovana Gec in Belgrade, Irena Gajic in Banja Luka, Bosnia-Herzegovina contributed to this report."
 publishedDateTime: 2019-01-12T21:04:00Z
-sourceUrl: https://www.cleveland.com/world/2010/03/serbian_parliament_apologizes.html
+webUrl: https://www.cleveland.com/world/2010/03/serbian_parliament_apologizes.html
 type: article
 quality: 96
 heat: 96

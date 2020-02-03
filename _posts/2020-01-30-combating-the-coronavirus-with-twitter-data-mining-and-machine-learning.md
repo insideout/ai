@@ -3,7 +3,7 @@ category: news
 title: "Combating the coronavirus with Twitter, data mining, and machine learning"
 excerpt: "The coronavirus illness (nCoV) is now an international public health emergency, bigger than the SARS outbreak of 2003. Unlike SARS, this time around scientists have better genome sequencing, machine learning, and predictive analysis tools to understand and monitor the outbreak. During the SARS outbreak, it took five months for scientists to ..."
 publishedDateTime: 2020-01-30T13:58:00Z
-sourceUrl: "https://www.techrepublic.com/article/how-twitter-data-mining-and-machine-learning-can-combat-the-coronavirus/"
+webUrl: "https://www.techrepublic.com/article/how-twitter-data-mining-and-machine-learning-can-combat-the-coronavirus/"
 type: article
 quality: 48
 heat: 48

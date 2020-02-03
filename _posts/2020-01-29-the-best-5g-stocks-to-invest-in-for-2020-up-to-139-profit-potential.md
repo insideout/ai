@@ -3,9 +3,9 @@ category: news
 title: "The Best 5G Stocks to Invest in for 2020 – up to 139% Profit Potential"
 excerpt: "And 5G speeds are igniting entire new sectors like driverless autos and robot surgery ... But the biggest winners won't be the flash firms shooting rockets or designing some new form of artificial intelligence, they'll be the engine behind it all. That makes today's stock picks the surest path to profit in the 5G industry and the best 5G ..."
 publishedDateTime: 2020-01-29T18:52:00Z
-sourceUrl: "https://moneymorning.com/2020/01/29/the-best-5g-stocks-to-invest-in-for-2020-up-to-139-profit-potential/"
-ampUrl: "https://moneymorning.com/2020/01/29/the-best-5g-stocks-to-invest-in-for-2020-up-to-139-profit-potential/amp/"
-cdnAmpUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2020/01/29/the-best-5g-stocks-to-invest-in-for-2020-up-to-139-profit-potential/amp/"
+webUrl: "https://moneymorning.com/2020/01/29/the-best-5g-stocks-to-invest-in-for-2020-up-to-139-profit-potential/"
+ampWebUrl: "https://moneymorning.com/2020/01/29/the-best-5g-stocks-to-invest-in-for-2020-up-to-139-profit-potential/amp/"
+cdnAmpWebUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2020/01/29/the-best-5g-stocks-to-invest-in-for-2020-up-to-139-profit-potential/amp/"
 type: article
 quality: 44
 heat: 44

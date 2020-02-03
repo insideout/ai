@@ -3,7 +3,7 @@ category: news
 title: "Meta analysis shows AI ethics principles emphasize human rights"
 excerpt: "The AI field at large was paying attention to ethics, creating and applying frameworks for AI research, development, policy, and law, but there was no unified approach. A team of researchers from BKC recently released a white paper and visualization that mapped AI principles and guidelines to find consensus."
 publishedDateTime: 2020-01-21T19:45:00Z
-sourceUrl: "https://cyber.harvard.edu/story/2020-01/meta-analysis-shows-ai-ethics-principles-emphasize-human-rights"
+webUrl: "https://cyber.harvard.edu/story/2020-01/meta-analysis-shows-ai-ethics-principles-emphasize-human-rights"
 type: article
 quality: 36
 heat: -1
@@ -22,7 +22,7 @@ related:
   - title: "Emphasis on Human Rights: AI Ethics Principles"
     excerpt: "In order to secure human rights, this data must be treated equivalent to some other personal information. Indeed, even as the AI field keeps on refining and work out ethics draws near, a report out of Harvard University’s Berkman Klein Center tried to extricate consensus, if not clearness: The work, titled “Principled Artificial ..."
     publishedDateTime: 2020-01-24T23:01:00Z
-    sourceUrl: "https://www.analyticsinsight.net/emphasis-human-rights-ai-ethics-principles/"
+    webUrl: "https://www.analyticsinsight.net/emphasis-human-rights-ai-ethics-principles/"
     type: article
     provider:
       name: Analytics Insight

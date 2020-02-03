@@ -3,7 +3,7 @@ category: news
 title: "Huawei revs up cloud, AI as core business"
 excerpt: "AI, computing, storage and IoT services. At the Huawei Analyst Conference held in April 2019, its managing director Wang Tao unveiled the firm's \"Cloud Only\" strategy, aiming to integrate all of its resources, from chips and datacenters to hardware, software and computing infrastructure, to make Huawei's cloud the only full-stack service in China."
 publishedDateTime: 2020-01-20T07:35:00Z
-sourceUrl: "https://www.digitimes.com/news/a20200120PD201.html"
+webUrl: "https://www.digitimes.com/news/a20200120PD201.html"
 type: article
 quality: 39
 heat: 39

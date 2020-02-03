@@ -3,9 +3,9 @@ category: news
 title: "Send us your questions for Ai Weiwei"
 excerpt: "Something you want to ask the dissident Chinese artist, once imprisoned for his political art? Now’s your chance"
 publishedDateTime: 2020-01-30T14:37:00Z
-sourceUrl: "https://www.theguardian.com/artanddesign/2020/jan/30/send-us-your-questions-ai-weiwei-you-ask-interview-imperial-war-museum"
-ampUrl: "https://amp.theguardian.com/artanddesign/2020/jan/30/send-us-your-questions-ai-weiwei-you-ask-interview-imperial-war-museum"
-cdnAmpUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2020/jan/30/send-us-your-questions-ai-weiwei-you-ask-interview-imperial-war-museum"
+webUrl: "https://www.theguardian.com/artanddesign/2020/jan/30/send-us-your-questions-ai-weiwei-you-ask-interview-imperial-war-museum"
+ampWebUrl: "https://amp.theguardian.com/artanddesign/2020/jan/30/send-us-your-questions-ai-weiwei-you-ask-interview-imperial-war-museum"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2020/jan/30/send-us-your-questions-ai-weiwei-you-ask-interview-imperial-war-museum"
 type: article
 quality: 57
 heat: 57

@@ -3,9 +3,9 @@ category: news
 title: "AI does for security what APAC firms cannot"
 excerpt: "Artificial intelligence (AI) will increasingly play a critical role in helping Asia-Pacific businesses cope with a fast-evolving threat landscape as well as an attack surface that is fast expanding amidst a hyperconnected environment. Organisations today face several key issues brought on by the adoption of cloud, Internet of Things (IoT ..."
 publishedDateTime: 2020-01-20T09:03:00Z
-sourceUrl: "https://www.zdnet.com/article/ai-does-for-security-what-apac-firms-cannot/"
-ampUrl: "https://www.zdnet.com/google-amp/article/ai-does-for-security-what-apac-firms-cannot/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-does-for-security-what-apac-firms-cannot/"
+webUrl: "https://www.zdnet.com/article/ai-does-for-security-what-apac-firms-cannot/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-does-for-security-what-apac-firms-cannot/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-does-for-security-what-apac-firms-cannot/"
 type: article
 quality: 87
 heat: 87

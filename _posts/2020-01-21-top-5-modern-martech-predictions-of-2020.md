@@ -3,7 +3,7 @@ category: news
 title: "Top 5 Modern MarTech Predictions of 2020"
 excerpt: "Most recently at Microsoft, Yoli improved their central marketing organization’s digital marketing impacting their multibillion dollar enterprise businesses including Azure, O365, Surface ... With this in mind, I predict that AI-driven experiments will increase in 2020 as more companies simplify their MarTech stack and use predictive ..."
 publishedDateTime: 2020-01-21T14:05:00Z
-sourceUrl: "https://www.martechadvisor.com/articles/marketing-automation-2/top-5-modern-martech-predictions-of-2021/"
+webUrl: "https://www.martechadvisor.com/articles/marketing-automation-2/top-5-modern-martech-predictions-of-2021/"
 type: article
 quality: 4
 heat: 4

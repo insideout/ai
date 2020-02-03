@@ -3,7 +3,7 @@ category: news
 title: "Analyze sentiment using the ML.NET CLI"
 excerpt: "You provide your dataset and the machine learning task you want to implement, and the CLI uses the AutoML engine to create model generation and deployment source code, as well as the binary model. In this tutorial, you will do the following steps ..."
 publishedDateTime: 2020-01-04T22:45:00Z
-sourceUrl: https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/sentiment-analysis-cli
+webUrl: https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/sentiment-analysis-cli
 type: article
 quality: 39
 heat: 39

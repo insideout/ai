@@ -3,9 +3,9 @@ category: news
 title: "Robot tanks: On patrol but not allowed to shoot"
 excerpt: "\"We've had robotics for years, but the information revolution means it can navigate on its own.\" Machine learning, a subset of the Artificial Intelligence (AI) revolution, means software embedded in Titan recognises patterns. Data from its cameras and other sensors is matched to prior examples so it can navigate to a chosen destination."
 publishedDateTime: 2020-01-21T00:18:00Z
-sourceUrl: "https://www.bbc.com/news/business-50387954"
-ampUrl: "https://www.bbc.com/news/amp/business-50387954"
-cdnAmpUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-50387954"
+webUrl: "https://www.bbc.com/news/business-50387954"
+ampWebUrl: "https://www.bbc.com/news/amp/business-50387954"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-50387954"
 type: article
 quality: 89
 heat: 89

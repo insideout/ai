@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence and Cyber Security: modern concepts that ensure the safety of rail transportation"
 excerpt: "Participants discussed railway security and safety, the future of digital railways and the concept of the integration of security and safety elements, and the role of artificial intelligence and \"5G\" technology in the sector. Talal AlAnazi, director corporate HSE & industrial security at Maaden, spoke about security and safety in transportation ..."
 publishedDateTime: 2020-01-31T05:53:00Z
-sourceUrl: "https://www.arabianindustry.com/supply-chain/news/2020/jan/30/artificial-intelligence-and-cyber-security-modern-concepts-that-ensure-the-safety-of-rail-transportation-6315387/"
+webUrl: "https://www.arabianindustry.com/supply-chain/news/2020/jan/30/artificial-intelligence-and-cyber-security-modern-concepts-that-ensure-the-safety-of-rail-transportation-6315387/"
 type: article
 quality: 35
 heat: -1
@@ -26,9 +26,9 @@ related:
   - title: "Artificial Intelligence and Cyber Security: modern concepts that ensure the safety of rail transportation"
     excerpt: "Participants discussed railway security and safety, the future of digital railways and the concept of the integration of security and safety elements, and the role of artificial intelligence and \"5G\" technology in the sector. Talal AlAnazi, Director Corporate HSE & Industrial security at Maaden, spoke about security and safety in transportation ..."
     publishedDateTime: 2020-01-30T14:06:00Z
-    sourceUrl: "https://www.zawya.com/mena/en/press-releases/story/Artificial_Intelligence_and_Cyber_Security_modern_concepts_that_ensure_the_safety_of_rail_transportation-ZAWYA20200130131659/"
-    ampUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200130131659/"
-    cdnAmpUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200130131659/"
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Artificial_Intelligence_and_Cyber_Security_modern_concepts_that_ensure_the_safety_of_rail_transportation-ZAWYA20200130131659/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200130131659/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200130131659/"
     type: article
     provider:
       name: Zawya

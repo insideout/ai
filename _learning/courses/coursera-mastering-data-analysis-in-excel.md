@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Analysis in Excel"
 excerpt: "Learn Mastering Data Analysis in Excel from Duke University. Important: The focus of this course is on math - specifically, data-analysis concepts and methods - not on Excel for its own sake. We use Excel to do our calculations, and all math ..."
-sourceUrl: https://www.coursera.org/learn/analytics-excel
+webUrl: https://www.coursera.org/learn/analytics-excel
 type: course
 price: Free+
 length: 29 hours

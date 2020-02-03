@@ -3,7 +3,7 @@ category: news
 title: "Neongecko Introduces New Neon AI™ Script Engine™ with Scripts for \"Eliza Conversations\" and \"Audio Website Browsing\""
 excerpt: "Intended applications of this technology include personalized store greeters, conversational AI assistants, transcription, translation, and medical instruction reminders ... the classic person-centered therapist “ELIZA\" (demo video), to show the ease of natural language processing and scripting. Many additional examples of conversational ..."
 publishedDateTime: 2020-01-07T03:58:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200106006073/en/Neongecko-Introduces-New-Neon-AI™-Script-Engine™
+webUrl: https://www.businesswire.com/news/home/20200106006073/en/Neongecko-Introduces-New-Neon-AI™-Script-Engine™
 type: article
 quality: 0
 heat: 0

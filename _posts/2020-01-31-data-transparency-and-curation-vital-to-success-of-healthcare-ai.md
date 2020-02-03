@@ -3,7 +3,7 @@ category: news
 title: "Data Transparency and Curation Vital to Success of Healthcare AI"
 excerpt: "\"There aren't a lot of physicians saying, 'Bring me more AI,' \" said John Mattison, MD, emeritus CMIO and assistant medical director of Kaiser Permanente. \"Every physician is saying bring me a safer and more efficient way to deliver care.\" Mattison recalled his prolonged conversations with the original developers of IBM's Watson AI technology."
 publishedDateTime: 2020-01-31T12:39:00Z
-sourceUrl: "https://www.healthleadersmedia.com/innovation/data-transparency-and-curation-vital-success-healthcare-ai"
+webUrl: "https://www.healthleadersmedia.com/innovation/data-transparency-and-curation-vital-success-healthcare-ai"
 type: article
 quality: 39
 heat: 39

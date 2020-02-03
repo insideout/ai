@@ -3,9 +3,9 @@ category: news
 title: "I'm obsessed with 'The Circle' and its ridiculous voice assistant"
 excerpt: "But it's tough to ignore all the low-budget technology knowing that it's possible to up to ante. Do I expect Netflix to come back in Season 2 with voice recognition? Absolutely not. However, I do hope they find ways to make it less obvious that there is a literal human sitting in some production room trying to transcribe all the messages as ..."
 publishedDateTime: 2020-01-24T11:00:00Z
-sourceUrl: "https://mashable.com/article/the-circle-voice-assistant/"
-ampUrl: "https://mashable.com/article/the-circle-voice-assistant.amp"
-cdnAmpUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/the-circle-voice-assistant.amp"
+webUrl: "https://mashable.com/article/the-circle-voice-assistant/"
+ampWebUrl: "https://mashable.com/article/the-circle-voice-assistant.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/the-circle-voice-assistant.amp"
 type: article
 quality: 74
 heat: 74

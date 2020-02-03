@@ -3,7 +3,7 @@ category: news
 title: "iHeart jobs cull: Over 50 DJs and employees out as firm cites ‘significant investment’ in Artificial Intelligence"
 excerpt: "In a press release issued yesterday (January 14) iHeart confirmed a new structure for its Markets Group that it said would “modernize the company to take advantage of the significant investments [we have] made in technology and artificial intelligence ..."
 publishedDateTime: 2020-01-15T18:26:00Z
-sourceUrl: "https://www.musicbusinessworldwide.com/iheart-jobs-cull-over-50-djs-and-employees-out-as-firm-cites-significant-investment-in-artificial-intelligence/"
+webUrl: "https://www.musicbusinessworldwide.com/iheart-jobs-cull-over-50-djs-and-employees-out-as-firm-cites-significant-investment-in-artificial-intelligence/"
 type: article
 quality: 16
 heat: 16

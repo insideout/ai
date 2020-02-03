@@ -3,9 +3,9 @@ category: news
 title: "Rich countries should invest in LatAm to create AI talent"
 excerpt: "Uruguay, the second best-prepared country on the Insead ranking, has launched its public consultation on AI in April 2019 and spent the whole year working on the plan, which is just about ready. The report also mentions Chile's plan to address the infrastructure, priority areas and ethics, standards and regulations around AI. On Brazil ..."
 publishedDateTime: 2020-01-29T23:08:00Z
-sourceUrl: "https://www.zdnet.com/article/rich-countries-should-invest-in-latam-to-create-ai-talent/"
-ampUrl: "https://www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/"
+webUrl: "https://www.zdnet.com/article/rich-countries-should-invest-in-latam-to-create-ai-talent/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/"
 type: article
 quality: 89
 heat: 89

@@ -3,9 +3,9 @@ category: news
 title: "Artificial Intelligence and Schrödinger’s cat"
 excerpt: "Couple of days back, I had the pleasure of interacting with a set of politicians over the concept of Artificial Intelligence (AI) and I am happy to report that they knew what AI is, but also unhappy to report that their interest in knowing more about AI was mainly to see if it can help them win elections. I must admit that these new-fangled ..."
 publishedDateTime: 2020-01-19T13:46:00Z
-sourceUrl: "https://timesofindia.indiatimes.com/blogs/science-nomad/artificial-intelligence-and-schrodingers-cat/"
-ampUrl: "https://timesofindia.indiatimes.com/blogs/science-nomad/artificial-intelligence-and-schrodingers-cat/"
-cdnAmpUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/science-nomad/artificial-intelligence-and-schrodingers-cat/"
+webUrl: "https://timesofindia.indiatimes.com/blogs/science-nomad/artificial-intelligence-and-schrodingers-cat/"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/science-nomad/artificial-intelligence-and-schrodingers-cat/"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/science-nomad/artificial-intelligence-and-schrodingers-cat/"
 type: article
 quality: 37
 heat: 37

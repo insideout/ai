@@ -3,7 +3,7 @@ category: news
 title: "Facebook discovers new fakes that show evolution AI generated disinformation"
 excerpt: "And they said it was worrying to see it already being used in a coordinated effort on Facebook. While the technology used to create the fake profile photos was most likely a far cry from the sophisticated AI systems being created in labs at big tech ..."
 publishedDateTime: 2019-12-21T16:40:00Z
-sourceUrl: https://www.dhakatribune.com/world/north-america/2019/12/21/facebook-discovers-new-fakes-that-show-evolution-ai-generated-disinformation
+webUrl: https://www.dhakatribune.com/world/north-america/2019/12/21/facebook-discovers-new-fakes-that-show-evolution-ai-generated-disinformation
 type: article
 quality: 36
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
     excerpt: "Facebook and Twitter on Friday disabled a global network of hundreds of fake accounts that pushed pro-Trump messages and covered its tracks using inauthentic photos generated with the aid of artificial intelligence. The use of AI to trick social media ..."
     publishedDateTime: 2019-12-23T17:48:00Z
-    sourceUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic
-    ampUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
-    cdnAmpUrl: https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
+    webUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic
+    ampWebUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
+    cdnAmpWebUrl: https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
     type: article
     provider:
       name: Santa Rosa Press Democrat

@@ -3,7 +3,7 @@ category: news
 title: "What are Azure Machine Learning environments?"
 excerpt: "They are managed and versioned entities within your Azure Machine Learning workspace that enable reproducible, auditable, and portable machine learning workflows across different compute targets. You can use an environment object on your local compute to ..."
 publishedDateTime: 2020-01-07T22:57:00Z
-sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/concept-environments
+webUrl: https://docs.microsoft.com/en-us/azure/machine-learning/concept-environments
 type: article
 quality: 39
 heat: 39

@@ -3,9 +3,9 @@ category: news
 title: "NASA explores emotionally intelligent robots as human companions for long Mars journey"
 excerpt: "Throughout the sci-fi universe, you see droids and other sentient robots traveling with human companions and helping with a variety of tasks. Thanks to Stanley Kubrick, the thought of artificial intelligence in space can be a little unsettling. Astrobees are cube-shaped robots designed to help astronauts with tasks on station. Credit ..."
 publishedDateTime: 2020-01-22T12:06:00Z
-sourceUrl: "https://www.teslarati.com/nasa-cimon-robot-ai-astronaut-companion/"
-ampUrl: "https://www.teslarati.com/nasa-cimon-robot-ai-astronaut-companion/amp/"
-cdnAmpUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/nasa-cimon-robot-ai-astronaut-companion/amp/"
+webUrl: "https://www.teslarati.com/nasa-cimon-robot-ai-astronaut-companion/"
+ampWebUrl: "https://www.teslarati.com/nasa-cimon-robot-ai-astronaut-companion/amp/"
+cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/nasa-cimon-robot-ai-astronaut-companion/amp/"
 type: article
 quality: 51
 heat: 51

@@ -3,7 +3,7 @@ category: news
 title: "Planning for AI: Equip employees with the right skills and knowledge"
 excerpt: "AUTOMATION education in the workplace will boost career prospects this year, says a new report. The January report by market research company Forrester, commissioned by robotic process automation provider UiPath, was conducted to evaluate the impact of automation and how firms are enabling better planning and preparedness for the future while ..."
 publishedDateTime: 2020-02-03T04:48:00Z
-sourceUrl: "https://www.thestar.com.my/news/focus/2020/02/03/planning-for-ai-equip-employees-with-the-right-skills-and-knowledge"
+webUrl: "https://www.thestar.com.my/news/focus/2020/02/03/planning-for-ai-equip-employees-with-the-right-skills-and-knowledge"
 type: article
 quality: 37
 heat: 37

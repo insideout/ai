@@ -3,7 +3,7 @@ category: news
 title: "Latinos, Alzheimer's and Artificial Intelligence"
 excerpt: "Artificial Intelligence: A possibility A team of researchers led by UC Davis Health professor Brittany Dugger received a $3.8 million grant from the National Institute on Aging (NIA) to help define the neuropathology of Alzheimer's disease in Hispanic cohorts."
 publishedDateTime: 2020-01-28T15:54:00Z
-sourceUrl: "https://aldianews.com/articles/culture/health/latinos-alzheimers-and-artificial-intelligence/57478"
+webUrl: "https://aldianews.com/articles/culture/health/latinos-alzheimers-and-artificial-intelligence/57478"
 type: article
 quality: 37
 heat: 37

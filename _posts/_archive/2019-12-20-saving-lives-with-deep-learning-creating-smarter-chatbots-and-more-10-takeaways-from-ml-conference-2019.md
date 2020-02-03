@@ -3,7 +3,7 @@ category: news
 title: "Saving lives with deep learning, creating smarter chatbots and more: 10 takeaways from ML Conference 2019"
 excerpt: "How can we make chatbots smarter and provide machines with abilities such as ethical values or emotional intelligence—and how can deep learning help save lives? We’ve collected 10 takeaways to share some highlights of our Berlin conference. ML ..."
 publishedDateTime: 2019-12-20T11:32:00Z
-sourceUrl: https://jaxenter.com/ml-conference-2019-takeaways-165733.html
+webUrl: https://jaxenter.com/ml-conference-2019-takeaways-165733.html
 type: article
 quality: 37
 heat: 37

@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence Company PowerBrain.Shop® Launches New IoT Product"
 excerpt: "AI PowerBrains™ are standard-of-the-shelf B2B Artificial Intelligence (AI) software products specifically designed to meet ... Adding AI to Internet of Things (IoT) solutions, digitalization and industry 4.0 projects, public safety and robotics - easily and economically. Unparalleled in their flexibility, AI IoT PowerBrains™ run in a ..."
 publishedDateTime: 2020-02-01T11:06:00Z
-sourceUrl: "https://www.businessportal24.com/en/artificial-intelligence-company-powerbrain-shop-launches-new-iot-product.html"
+webUrl: "https://www.businessportal24.com/en/artificial-intelligence-company-powerbrain-shop-launches-new-iot-product.html"
 type: article
 quality: 33
 heat: 33

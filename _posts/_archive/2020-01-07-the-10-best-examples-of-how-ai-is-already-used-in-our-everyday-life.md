@@ -3,7 +3,7 @@ category: news
 title: "The 10 Best Examples Of How AI Is Already Used In Our Everyday Life"
 excerpt: "The car you drive to work might have driver-assist technology, and in places such as Mountain View, California, you can request a self-driving car through Google's sister company Waymo to drive you to and from work. There are many ways artificial intelligence is deployed in our banking system. It's highly involved in the security of our ..."
 publishedDateTime: 2020-01-07T22:48:00Z
-sourceUrl: https://www.linkedin.com/pulse/10-best-examples-how-ai-already-used-our-everyday-life-bernard-marr
+webUrl: https://www.linkedin.com/pulse/10-best-examples-how-ai-already-used-our-everyday-life-bernard-marr
 type: article
 quality: 39
 heat: 39

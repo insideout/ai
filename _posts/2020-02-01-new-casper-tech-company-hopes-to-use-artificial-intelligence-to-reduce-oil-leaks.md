@@ -3,9 +3,9 @@ category: news
 title: "New Casper tech company hopes to use artificial intelligence to reduce oil leaks"
 excerpt: "... Pipelines information technology department suggested using IBM's Watson, a computer-learning program that you may recognize as the robot that in 2011 beat Ken Jennings in a game of Jeopardy. Bridger began working with IBM to develop an artificial intelligence program to detect oil leaks about two years ago, under the umbrella of the True ..."
 publishedDateTime: 2020-02-01T21:00:00Z
-sourceUrl: "https://trib.com/news/local/casper/new-casper-tech-company-hopes-to-use-artificial-intelligence-to/article_99c71672-35d5-5ff6-94f9-e7b91f9ba303.html"
-ampUrl: "https://trib.com/news/local/casper/new-casper-tech-company-hopes-to-use-artificial-intelligence-to/article_99c71672-35d5-5ff6-94f9-e7b91f9ba303.amp.html"
-cdnAmpUrl: "https://trib-com.cdn.ampproject.org/c/s/trib.com/news/local/casper/new-casper-tech-company-hopes-to-use-artificial-intelligence-to/article_99c71672-35d5-5ff6-94f9-e7b91f9ba303.amp.html"
+webUrl: "https://trib.com/news/local/casper/new-casper-tech-company-hopes-to-use-artificial-intelligence-to/article_99c71672-35d5-5ff6-94f9-e7b91f9ba303.html"
+ampWebUrl: "https://trib.com/news/local/casper/new-casper-tech-company-hopes-to-use-artificial-intelligence-to/article_99c71672-35d5-5ff6-94f9-e7b91f9ba303.amp.html"
+cdnAmpWebUrl: "https://trib-com.cdn.ampproject.org/c/s/trib.com/news/local/casper/new-casper-tech-company-hopes-to-use-artificial-intelligence-to/article_99c71672-35d5-5ff6-94f9-e7b91f9ba303.amp.html"
 type: article
 quality: 56
 heat: 56

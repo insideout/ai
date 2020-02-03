@@ -3,7 +3,7 @@ category: news
 title: "Microway Highlights UMass Dartmouth Research Activities Since Supercomputing Cluster Installation"
 excerpt: "A subset of systems also feature NVIDIA V100 GPU Accelerators for GPU computing applications ... Inc. Microway builds solutions for the intersection of AI and HPC. These include clusters, servers, quiet workstations designed for bleeding-edge computational performance—that serve demanding users in the enterprise, government, and academia."
 publishedDateTime: 2020-01-16T18:02:00Z
-sourceUrl: "https://www.hpcwire.com/off-the-wire/microway-highlights-umass-dartmouth-research-activities-since-supercomputingcluster-installation/"
+webUrl: "https://www.hpcwire.com/off-the-wire/microway-highlights-umass-dartmouth-research-activities-since-supercomputingcluster-installation/"
 type: article
 quality: 11
 heat: 11

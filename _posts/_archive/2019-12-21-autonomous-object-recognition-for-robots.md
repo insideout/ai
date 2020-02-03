@@ -3,7 +3,7 @@ category: news
 title: "Autonomous Object Recognition for Robots"
 excerpt: "Reliable object detection and recognition is a difficult task for robots to achieve and, therefore, still remains a challenge when real-world environments are considered. Curiosity, often seen in humans and its primates, drives learning activities."
 publishedDateTime: 2019-12-21T02:20:00Z
-sourceUrl: https://www.ulster.ac.uk/doctoralcollege/find-a-phd/511643
+webUrl: https://www.ulster.ac.uk/doctoralcollege/find-a-phd/511643
 type: article
 quality: 39
 heat: 39

@@ -3,7 +3,7 @@ category: news
 title: "Why Google Assistant supports so many more languages than Siri, Alexa, Bixby, and Cortana"
 excerpt: "Why the lead? Naturally, some of the techniques underpinning Google’s natural language processing (NLP) remain closely guarded trade secrets. However, the Mountain View company’s publicly available research sheds some — albeit not much — light on why rivals like Amazon and Apple have yet to match its linguistic prowess. Adding language ..."
 publishedDateTime: 2020-01-29T14:55:00Z
-sourceUrl: "https://venturebeat.com/2020/01/29/google-assistant-siri-alexa-bixby-cortana/"
+webUrl: "https://venturebeat.com/2020/01/29/google-assistant-siri-alexa-bixby-cortana/"
 type: article
 quality: 25
 heat: 25

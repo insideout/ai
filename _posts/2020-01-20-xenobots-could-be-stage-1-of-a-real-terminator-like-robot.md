@@ -3,7 +3,7 @@ category: news
 title: "‘Xenobots’ Could be Stage-1 of a Real Terminator-Like Robot"
 excerpt: "Let’s start with first congratulating the group of scientists and researchers who made ... Remember, it’s experiments like these that gave birth to fully self-aware AI like Samsung’s Neon and even Sophia the AI robot. Also Read: Say Hello to Neon: The AI Video Bots That Have Human Emotions With Xenobot, you are seeing the next stage ..."
 publishedDateTime: 2020-01-20T07:05:00Z
-sourceUrl: "https://www.thequint.com/tech-and-auto/tech-news/xenobot-what-it-is-and-how-was-it-made"
+webUrl: "https://www.thequint.com/tech-and-auto/tech-news/xenobot-what-it-is-and-how-was-it-made"
 type: article
 quality: 39
 heat: 39

@@ -3,7 +3,7 @@ category: news
 title: "Two Sundance docs sound the alarm on the dangers of modern AI"
 excerpt: "Cautionary tales about AI were all over Sundance screens this year ... Maybe The Social Dilemma doesn't have all the answers, but it's a good start to figuring out the questions. His subjects are clearly knowledgeable and passionate about the issue ..."
 publishedDateTime: 2020-01-31T02:58:00Z
-sourceUrl: "https://sea.mashable.com/entertainment/8897/two-sundance-docs-sound-the-alarm-on-the-dangers-of-modern-ai"
+webUrl: "https://sea.mashable.com/entertainment/8897/two-sundance-docs-sound-the-alarm-on-the-dangers-of-modern-ai"
 type: article
 quality: 67
 heat: -1
@@ -26,9 +26,9 @@ related:
   - title: "Two Sundance docs sound the alarm on the dangers of modern AI"
     excerpt: "Cautionary tales about AI were all over Sundance screens this year, and not as sci-fi flights of fancy. Two new documentaries, The Social Dilemma and Coded Bias, dig into the pitfalls of artificial intelligence as it currently exists — manipulating our social-media feeds, determining our financial or professional futures, surveilling us on ..."
     publishedDateTime: 2020-01-30T13:35:00Z
-    sourceUrl: "https://mashable.com/article/coded-bias-social-dilemma-documentary-review/"
-    ampUrl: "https://mashable.com/article/coded-bias-social-dilemma-documentary-review.amp"
-    cdnAmpUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/coded-bias-social-dilemma-documentary-review.amp"
+    webUrl: "https://mashable.com/article/coded-bias-social-dilemma-documentary-review/"
+    ampWebUrl: "https://mashable.com/article/coded-bias-social-dilemma-documentary-review.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/coded-bias-social-dilemma-documentary-review.amp"
     type: article
     provider:
       name: Mashable

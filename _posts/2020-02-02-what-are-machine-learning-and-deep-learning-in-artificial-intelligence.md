@@ -3,9 +3,9 @@ category: news
 title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
 excerpt: "They say ML is a complete science in its own right and thus, need not be called with reference to Artificial Intelligence. AI thrives on data ... For example, if the machine is a self-driving vehicle, it has to create its own scenarios on road. There is no way a programmer can program every step as he or she can’t think of all the ..."
 publishedDateTime: 2020-02-02T22:16:00Z
-sourceUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence"
-ampUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
-cdnAmpUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
+webUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence"
+ampWebUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
+cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
 type: article
 quality: 91
 heat: 91

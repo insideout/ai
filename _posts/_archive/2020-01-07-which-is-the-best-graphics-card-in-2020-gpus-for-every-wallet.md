@@ -3,9 +3,9 @@ category: news
 title: "Which is the best graphics card in 2020? GPUs for every wallet…"
 excerpt: "With your GPU unlocked and some carefully fiddling with the frequencies ... even if it doesn’t have the same sort of AI or ray tracing chops. The entry-level is almost entirely dominated by the red team, however. The RX 570 is now at such a great ..."
 publishedDateTime: 2020-01-07T17:24:00Z
-sourceUrl: https://www.pcgamesn.com/best-graphics-card-2020
-ampUrl: https://www.pcgamesn.com/best-graphics-card-2020?amp
-cdnAmpUrl: https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/best-graphics-card-2020?amp
+webUrl: https://www.pcgamesn.com/best-graphics-card-2020
+ampWebUrl: https://www.pcgamesn.com/best-graphics-card-2020?amp
+cdnAmpWebUrl: https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/best-graphics-card-2020?amp
 type: article
 quality: 59
 heat: 59

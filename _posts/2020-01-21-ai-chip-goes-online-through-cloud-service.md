@@ -3,7 +3,7 @@ category: news
 title: "AI chip goes online through cloud service"
 excerpt: "While there are several startups building AI silicon for the data center, Groq now joins Graphcore as the only two with accelerators commercially available for customers to use as part of a cloud service. Graphcore previously announced its accelerators are available as part of Microsoft Azure. “Groq’s simplified processing architecture is ..."
 publishedDateTime: 2020-01-21T00:00:00Z
-sourceUrl: "https://www.embedded.com/ai-chip-goes-online-through-cloud-service/"
+webUrl: "https://www.embedded.com/ai-chip-goes-online-through-cloud-service/"
 type: article
 quality: 56
 heat: 56

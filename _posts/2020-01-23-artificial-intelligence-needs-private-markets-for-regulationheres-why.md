@@ -3,9 +3,9 @@ category: news
 title: "Artificial Intelligence Needs Private Markets for Regulation—Here’s Why"
 excerpt: "It seems the White House wants to ramp up America’s artificial intelligence (AI) dominance. Earlier this month, the U.S. Office of Management and Budget released its “Guidance for Regulation of Artificial Intelligence Applications,” for federal agencies to oversee AI’s development in a way that protects innovation without making the ..."
 publishedDateTime: 2020-01-23T10:30:00Z
-sourceUrl: "https://observer.com/2020/01/artificial-intelligence-regulation-private-markets/"
-ampUrl: "https://observer.com/2020/01/artificial-intelligence-regulation-private-markets/amp/"
-cdnAmpUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/artificial-intelligence-regulation-private-markets/amp/"
+webUrl: "https://observer.com/2020/01/artificial-intelligence-regulation-private-markets/"
+ampWebUrl: "https://observer.com/2020/01/artificial-intelligence-regulation-private-markets/amp/"
+cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/artificial-intelligence-regulation-private-markets/amp/"
 type: article
 quality: 57
 heat: 57

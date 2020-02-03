@@ -3,9 +3,9 @@ category: news
 title: "Facial-recognition algos vary wildly, US Congress told, as politicians try to come up with new laws on advanced tech"
 excerpt: "... in with a single cloud giant's toolset – or bring together best tools from a bunch of vendors Vid A recent US government report investigating the accuracy of facial recognition systems across different demographic groups has sparked fresh questions on how the technology should be regulated. The House Committee on Oversight and Reform ..."
 publishedDateTime: 2020-01-16T06:12:00Z
-sourceUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/01/16/facial_recognition_congress/"
-ampUrl: "https://www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/"
-cdnAmpUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/"
+webUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/01/16/facial_recognition_congress/"
+ampWebUrl: "https://www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/"
+cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/"
 type: article
 quality: 21
 heat: 21

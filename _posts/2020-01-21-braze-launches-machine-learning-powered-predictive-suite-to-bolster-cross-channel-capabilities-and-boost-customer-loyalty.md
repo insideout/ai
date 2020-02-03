@@ -3,7 +3,7 @@ category: news
 title: "Braze Launches Machine Learning-Powered Predictive Suite to Bolster Cross-Channel Capabilities and Boost Customer Loyalty"
 excerpt: "/PRNewswire/ -- Braze, the comprehensive customer engagement platform, today announced new features and product expansions to bolster"
 publishedDateTime: 2020-01-21T14:00:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/braze-launches-machine-learning-powered-predictive-suite-to-bolster-cross-channel-capabilities-and-boost-customer-loyalty-300988518.html"
+webUrl: "https://www.prnewswire.com/news-releases/braze-launches-machine-learning-powered-predictive-suite-to-bolster-cross-channel-capabilities-and-boost-customer-loyalty-300988518.html"
 type: article
 quality: 14
 heat: 14

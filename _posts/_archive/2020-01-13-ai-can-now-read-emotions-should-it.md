@@ -3,7 +3,7 @@ category: news
 title: "AI can now read emotions — should it?"
 excerpt: "As the AI Now report highlights: “Despite the increase in AI ethics content … ethical principles and statements rarely focus on how AI ethics can be implemented and whether they’re effective.” It notes that such AI ethics statements largely ignore questions of how, where, and who will put such guidelines into operation. In reality ..."
 publishedDateTime: 2020-01-13T15:41:00Z
-sourceUrl: "https://technical.ly/2020/01/13/artificial-intelligence-ai-can-now-read-emotions-should-it-ethics-machine-learning-hiring/"
+webUrl: "https://technical.ly/2020/01/13/artificial-intelligence-ai-can-now-read-emotions-should-it-ethics-machine-learning-hiring/"
 type: article
 quality: 39
 heat: 39

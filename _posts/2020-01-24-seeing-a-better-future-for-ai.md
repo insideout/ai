@@ -3,9 +3,9 @@ category: news
 title: "Seeing A Better Future For AI"
 excerpt: "I grew up during the 80s and 90s, the kind of kid who built his own computers late into the night and heard the dial-up modem’s tones as my personal anthem. During this time of great promise in mankind’s technological potential I remember watching early documentaries on artificial intelligence (AI)."
 publishedDateTime: 2020-01-24T19:50:00Z
-sourceUrl: "https://www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/"
-ampUrl: "https://www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/amp/"
+webUrl: "https://www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/"
+ampWebUrl: "https://www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/amp/"
 type: article
 quality: 87
 heat: 87

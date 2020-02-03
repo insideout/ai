@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Azure Cognitive Services: QnA Maker"
 excerpt: "Use QnA Maker and Azure Bot Service to create an FAQ chat bot that can answer questions using a natural language format. Deploy your bot to the web or other service like Slack, email, and text message. "
-sourceUrl: https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-qna-maker
+webUrl: https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-qna-maker
 type: course
 price: $$
 length: 36m

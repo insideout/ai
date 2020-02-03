@@ -1,7 +1,7 @@
 ---
 title: "Building Your First Machine Learning Solution"
 excerpt: "Machine learning is exciting, yet, it may sound more complicated than it is actually is. This course empowers you with the necessary theory and practice to become confident about how machine learning works by building a hands-on solution."
-sourceUrl: https://www.pluralsight.com/courses/building-machine-learning-solution
+webUrl: https://www.pluralsight.com/courses/building-machine-learning-solution
 type: course
 price: $$
 length: 2h 41m

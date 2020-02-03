@@ -3,7 +3,7 @@ category: news
 title: "What is artificial intelligence?"
 excerpt: "As such, calculators are not AI. It's important to understand that AI is an umbrella term covering quite a few technologies. Among these are machine learning, deep learning, natural language processing, speech recognition, the aforementioned image recognition, and robotics. These are all AI, but all AI is not, say, machine learning. To further ..."
 publishedDateTime: 2020-02-01T22:43:00Z
-sourceUrl: "https://www.journalofaccountancy.com/issues/2020/feb/what-is-artificial-intelligence.html"
+webUrl: "https://www.journalofaccountancy.com/issues/2020/feb/what-is-artificial-intelligence.html"
 type: article
 quality: 41
 heat: 41

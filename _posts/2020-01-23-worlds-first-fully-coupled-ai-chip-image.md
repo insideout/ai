@@ -3,7 +3,7 @@ category: news
 title: "World's First Fully Coupled AI Chip (image)"
 excerpt: "Scientists have developed the world's first fully coupled AI chip that can solve the traveling salesman problem for 22 cities instantly, something that would take about 1,200 years for a high-performance von Neumann CPU. Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing ..."
 publishedDateTime: 2020-01-23T15:04:00Z
-sourceUrl: "https://www.eurekalert.org/multimedia/pub/222379.php"
+webUrl: "https://www.eurekalert.org/multimedia/pub/222379.php"
 type: article
 quality: 54
 heat: 54

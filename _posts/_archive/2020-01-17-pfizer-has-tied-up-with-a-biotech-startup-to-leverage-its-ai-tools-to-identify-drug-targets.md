@@ -3,7 +3,7 @@ category: news
 title: "Pfizer has tied up with a biotech startup to leverage its AI tools to identify drug targets"
 excerpt: "Pfizer teamed up with AI biotech firm Insilico Medicine to leverage Insilico's technology to identify drug targets for a variety of diseases"
 publishedDateTime: 2020-01-17T17:25:00Z
-sourceUrl: "https://www.businessinsider.com/pfizer-insilico-medicine-partner-to-identify-drug-targets-2020-1"
+webUrl: "https://www.businessinsider.com/pfizer-insilico-medicine-partner-to-identify-drug-targets-2020-1"
 type: article
 quality: 59
 heat: 69
@@ -31,9 +31,9 @@ related:
   - title: "Karnataka Ties Up With Bahrain To Boost AI, Fintech Startup Ecosystem"
     excerpt: "BrandLabs is the brand marketing arm of Inc42 Media. With a team of journalists & analysts, and 4 years of extensive regional editorial expertise, we cover the country’s startups like no other. Want to start a campaign for your startup? Submit your startup here."
     publishedDateTime: 2020-01-24T14:17:00Z
-    sourceUrl: "https://inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/"
-    ampUrl: "https://inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/?amp"
-    cdnAmpUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/?amp"
+    webUrl: "https://inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/"
+    ampWebUrl: "https://inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/?amp"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/?amp"
     type: article
     provider:
       name: inc42.com

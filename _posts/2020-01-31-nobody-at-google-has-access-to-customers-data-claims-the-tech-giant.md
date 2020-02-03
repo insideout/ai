@@ -3,9 +3,9 @@ category: news
 title: "\"Nobody at Google has access to customer's data\" claims the tech giant"
 excerpt: "Today, AI is central to Google’s operations. Paving its way in the sector, Google acquired companies like DeepMind which has blurred the lines between human and artificial intelligence, demonstrating this with the popular AlphaGo program that beat the world champion in Go in 2016. In 2018, Google transformed its research division and renamed ..."
 publishedDateTime: 2020-01-31T11:03:00Z
-sourceUrl: "https://www.businessinsider.in/tech/google-claims-nobody-has-access-to-customers-data-for-ai/articleshow/73803618.cms"
-ampUrl: "https://www.businessinsider.in/tech/google-claims-nobody-has-access-to-customers-data-for-ai/amp_articleshow/73803618.cms"
-cdnAmpUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/google-claims-nobody-has-access-to-customers-data-for-ai/amp_articleshow/73803618.cms"
+webUrl: "https://www.businessinsider.in/tech/google-claims-nobody-has-access-to-customers-data-for-ai/articleshow/73803618.cms"
+ampWebUrl: "https://www.businessinsider.in/tech/google-claims-nobody-has-access-to-customers-data-for-ai/amp_articleshow/73803618.cms"
+cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/google-claims-nobody-has-access-to-customers-data-for-ai/amp_articleshow/73803618.cms"
 type: article
 quality: 59
 heat: 59

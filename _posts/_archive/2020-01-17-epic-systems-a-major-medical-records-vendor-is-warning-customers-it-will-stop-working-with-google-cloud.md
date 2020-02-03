@@ -3,9 +3,9 @@ category: news
 title: "Epic Systems, a major medical records vendor, is warning customers it will stop working with Google Cloud"
 excerpt: "Epic is phoning customers to explain that it's withdrawing support for Google Cloud, instead focusing on AWS and Microsoft Azure."
 publishedDateTime: 2020-01-17T20:22:00Z
-sourceUrl: "https://www.cnbc.com/2020/01/17/epic-systems-warns-customers-it-will-stop-supporting-google-cloud.html"
-ampUrl: "https://www.cnbc.com/amp/2020/01/17/epic-systems-warns-customers-it-will-stop-supporting-google-cloud.html"
-cdnAmpUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/17/epic-systems-warns-customers-it-will-stop-supporting-google-cloud.html"
+webUrl: "https://www.cnbc.com/2020/01/17/epic-systems-warns-customers-it-will-stop-supporting-google-cloud.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/01/17/epic-systems-warns-customers-it-will-stop-supporting-google-cloud.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/17/epic-systems-warns-customers-it-will-stop-supporting-google-cloud.html"
 type: article
 quality: 59
 heat: -1
@@ -34,9 +34,9 @@ related:
   - title: "Google hopes to draw more cloud customers by making A.I. easier to use"
     excerpt: "Google's first Cloud AutoML tool will be for recognizing objects in images. It follows Google's Cloud Machine Learning Engine service and the Cloud Vision application programming interface."
     publishedDateTime: 2020-01-17T17:25:00Z
-    sourceUrl: "https://www.cnbc.com/2018/01/17/google-launches-cloud-automl.html"
-    ampUrl: "https://www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html"
-    cdnAmpUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html"
+    webUrl: "https://www.cnbc.com/2018/01/17/google-launches-cloud-automl.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html"
     type: article
     provider:
       name: CNBC

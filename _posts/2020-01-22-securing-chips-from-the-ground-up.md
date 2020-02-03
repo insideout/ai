@@ -3,7 +3,7 @@ category: news
 title: "Securing Chips from the Ground Up"
 excerpt: "Most chips include features that are leveraged by software layers to implement security ... and an additional 2X increase in performance gains when optimized for Intel Xeon 9200 Platinum processors. AI applications can be very demanding and compute-intensive. How does Intel DL Boost address that issue? Intel DL Boost follows a long history ..."
 publishedDateTime: 2020-01-22T17:06:00Z
-sourceUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21121059/securing-chips-from-the-ground-up"
+webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21121059/securing-chips-from-the-ground-up"
 type: article
 quality: 21
 heat: 21

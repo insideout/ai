@@ -3,9 +3,9 @@ category: news
 title: "Facial recognition scanners at US airports under scrutiny as Philadelphia launches pilot program"
 excerpt: "PHILADELPHIA – A growing number of airports across the U.S. are using facial recognition scanners. Philadelphia International Airport (PHL) is the latest to roll out the technology. “So, this is an electronic way, basically, to verify identity,” said Jeni Best, a branch manager with U.S. Customs and Border Protection (CBP). At PHL ..."
 publishedDateTime: 2020-01-29T22:10:00Z
-sourceUrl: "https://www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny"
-ampUrl: "https://www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny.amp"
-cdnAmpUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny.amp"
+webUrl: "https://www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny"
+ampWebUrl: "https://www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny.amp"
 type: article
 quality: 91
 heat: 91

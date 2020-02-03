@@ -3,7 +3,7 @@ category: news
 title: "Detection of acute 3,4-methylenedioxymethamphetamine (MDMA) effects across protocols using automated natural language processing"
 excerpt: "Speech disorder in schizophrenia: Review of the literature and exploration of its relation to the uniquely human capacity for language. Schizophrenia Bull ... Wardle MC, De Wit H. MDMA alters emotional processing and facilitates positive social interaction. Psychopharmacology (Berlin). 2014;231:4219–29. Bedi G, Hyman D, De Wit H."
 publishedDateTime: 2020-01-24T18:55:00Z
-sourceUrl: "https://www.nature.com/articles/s41386-020-0620-4"
+webUrl: "https://www.nature.com/articles/s41386-020-0620-4"
 type: article
 quality: 0
 heat: 0

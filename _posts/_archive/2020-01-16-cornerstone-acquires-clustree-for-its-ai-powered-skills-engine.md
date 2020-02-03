@@ -3,9 +3,9 @@ category: news
 title: "Cornerstone acquires Clustree for its AI-powered skills engine"
 excerpt: "Cornerstone On Demand, which makes human capital management (HCM) software, on Thursday announced it is acquiring Clustree, a French technology company with an AI-powered skills engine and an extensive skills ontology. Cornerstone is paying $18.5 million in all cash, and the deal is expected to close this quarter. Cornerstone plans to ..."
 publishedDateTime: 2020-01-16T21:25:00Z
-sourceUrl: "https://www.zdnet.com/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/"
-ampUrl: "https://www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/"
+webUrl: "https://www.zdnet.com/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/"
 type: article
 quality: 67
 heat: 67

@@ -3,7 +3,7 @@ category: news
 title: "i.MX 8M Plus Features Dedicated Neural-Net Processing Unit"
 excerpt: "Real-time support is courtesy of an 800-MHz Cortex-M7 and a a high-performance 800-MHz Tensilica audio HiFi 4 DSP. The latter can handle voice and natural language processing chores and supports Immersiv3D audio with Dolby Atmos and DTS:X. The chip also manages streaming video—a dual-camera image signal pocessor (ISP) and 3D GPU handle ..."
 publishedDateTime: 2020-01-07T14:30:00Z
-sourceUrl: https://www.electronicdesign.com/technologies/iot/article/21119867/imx-8m-plus-features-dedicated-neuralnet-processing-unit
+webUrl: https://www.electronicdesign.com/technologies/iot/article/21119867/imx-8m-plus-features-dedicated-neuralnet-processing-unit
 type: article
 quality: 4
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "Multicore processor integrates neural processing unit"
     excerpt: "The i.MX 8M Plus combines a NPU delivering 2.3 tera operations per second (TOPS) with a Quad-core Arm Cortex-A53 sub-system running at up to 2 GHz, an independent real-time sub-system with an 800-MHz Cortex-M7, a 800-MHz audio DSP for voice and natural language processing, dual camera image signal processors (ISPs), and a 3D GPU for rich ..."
     publishedDateTime: 2020-01-13T14:59:00Z
-    sourceUrl: https://www.embedded.com/multicore-processor-integrates-neural-processing-unit/
+    webUrl: https://www.embedded.com/multicore-processor-integrates-neural-processing-unit/
     type: article
     provider:
       name: Embedded
@@ -34,7 +34,7 @@ related:
   - title: "NXP Debuts i.MX Applications Processor with Neural Processing Unit for Advanced Machine Learning"
     excerpt: "The i.MX 8M Plus combines NPU delivering 2.3 TOPS (Tera Operations Per Second) with a Quad-core Arm Cortex-A53 sub-system running at up to 2GHz, an independent real-time sub-system with an 800MHz Cortex-M7, a 800 MHz audio DSP for voice and natural language processing, dual camera Image Signal Processors (ISP), and a 3D GPU. With the ..."
     publishedDateTime: 2020-01-10T17:17:00Z
-    sourceUrl: https://www.embedded-computing.com/home-page/nxp-debuts-i-mx-applications-processor-with-neural-processing-unit-for-advanced-machine-learning
+    webUrl: https://www.embedded-computing.com/home-page/nxp-debuts-i-mx-applications-processor-with-neural-processing-unit-for-advanced-machine-learning
     type: article
     provider:
       name: Embedded Computing Design

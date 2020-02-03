@@ -1,7 +1,7 @@
 ---
 title: "Linear Algebra and Its Applications, 4th Edition"
 excerpt: "Linear algebra is relatively easy for students during the early stages of the course, when the material is presented in a familiar, concrete setting. But when abstract concepts are introduced, students often hit a brick wall. Instructors seem to agree that certain concepts (such as linear independence, spanning, subspace, vector space, and linear transformations), are not easily understood, and require time to assimilate. Since they are fundamental to the study of linear algebra, students' understanding of these concepts is vital to their mastery of the subject. David Lay introduces these concepts early in a familiar, concrete Rn setting, develops them gradually, and returns to them again and again throughout the text so that when discussed in the abstract, these concepts are more accessible."
-sourceUrl: https://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0321385179/
+webUrl: https://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0321385179/
 type: book
 price: $11.98
 length: 

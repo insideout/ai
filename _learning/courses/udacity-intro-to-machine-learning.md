@@ -1,7 +1,7 @@
 ---
 title: "Intro to Machine Learning"
 excerpt: "This class will teach you the end-to-end process of investigating data through a machine learning lens, and you'll apply what you've learned to a real-world data set."
-sourceUrl: https://classroom.udacity.com/courses/cs271
+webUrl: https://classroom.udacity.com/courses/cs271
 type: course
 price: Free
 length: 10 Weeks

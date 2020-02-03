@@ -1,7 +1,7 @@
 ---
 title: "Building Image Processing Applications Using scikit-image"
 excerpt: "In this course, you'll explore the scikit-image Python library which allows you to apply sophisticated image processing techniques to images and to quickly extract important insights or pre-process images for input to machine learning models."
-sourceUrl: https://www.pluralsight.com/courses/scikit-image-building-image-processing-applications
+webUrl: https://www.pluralsight.com/courses/scikit-image-building-image-processing-applications
 type: course
 price: $$
 length: 1h 49m

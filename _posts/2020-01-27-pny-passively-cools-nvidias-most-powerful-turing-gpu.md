@@ -3,9 +3,9 @@ category: news
 title: "PNY passively cools Nvidia’s most powerful Turing GPU"
 excerpt: "Packing the same 4,608 CUDA core GPU as the RTX 2080 Ti, the best graphics card for gaming, these RTX series Quadros offer some of the best AI and ray-tracing performance – now in a fanless, server-friendly package. These professional cards are built around the TU102 GPU, the same one found within the enthusiast-grade $1,200 RTX 2080 Ti."
 publishedDateTime: 2020-01-27T14:12:00Z
-sourceUrl: "https://www.pcgamesn.com/nvidia/pny-quadro-rtx-graphics-card"
-ampUrl: "https://www.pcgamesn.com/nvidia/pny-quadro-rtx-graphics-card?amp"
-cdnAmpUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/nvidia/pny-quadro-rtx-graphics-card?amp"
+webUrl: "https://www.pcgamesn.com/nvidia/pny-quadro-rtx-graphics-card"
+ampWebUrl: "https://www.pcgamesn.com/nvidia/pny-quadro-rtx-graphics-card?amp"
+cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/nvidia/pny-quadro-rtx-graphics-card?amp"
 type: article
 quality: 59
 heat: 59

@@ -3,7 +3,7 @@ category: news
 title: "Goldman Sachs on its way to dominating the fintech market"
 excerpt: "The startup uses AI and is in partnership with over 3000 merchants to build these profiles. While usually, the investment comes from venture capitals and private entities the banks are usually hesitant to invest in fintech. this is what sets Goldman Sachs apart and why Forbes named it as the “winner” of the 2019 fintech industry."
 publishedDateTime: 2020-01-21T08:30:00Z
-sourceUrl: "https://www.finextra.com/blogposting/18348/goldman-sachs-on-its-way-to-dominating-the-fintech-market"
+webUrl: "https://www.finextra.com/blogposting/18348/goldman-sachs-on-its-way-to-dominating-the-fintech-market"
 type: article
 quality: 4
 heat: -1
@@ -21,9 +21,9 @@ related:
   - title: "Flourish Ventures To Continue Its Investment Spree In India’s Fintech Space"
     excerpt: "Your browser is currently blocking notification. Impressed with the growth of India’s fintech space, Tilman Ehrbeck, managing partner at Flourish Ventures, said that the venture capital firm is looking to invest in sectors such as neo-banking, gig economy, embedded finance and insure-tech. Since its spin-off from Omidyar Network, the investme ..."
     publishedDateTime: 2020-01-21T14:35:00Z
-    sourceUrl: "https://inc42.com/buzz/flourish-ventures-to-continue-its-investment-spree-in-indias-fintech-space/"
-    ampUrl: "https://inc42.com/buzz/flourish-ventures-to-continue-its-investment-spree-in-indias-fintech-space/amp/"
-    cdnAmpUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/flourish-ventures-to-continue-its-investment-spree-in-indias-fintech-space/amp/"
+    webUrl: "https://inc42.com/buzz/flourish-ventures-to-continue-its-investment-spree-in-indias-fintech-space/"
+    ampWebUrl: "https://inc42.com/buzz/flourish-ventures-to-continue-its-investment-spree-in-indias-fintech-space/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/flourish-ventures-to-continue-its-investment-spree-in-indias-fintech-space/amp/"
     type: article
     provider:
       name: inc42.com
@@ -36,9 +36,9 @@ related:
   - title: "SEI Ventures Partners AI-Enhanced Intelligence Firm ForwardLane to Provide Insights to Financial Institutions"
     excerpt: "in order to support the growth and for the provision of AI-enhanced insights for wealth management firms, asset managers and commercial banking institutions. SixThirty Global Fintech Fund has reportedly joined SEI Ventures in the funding round, which is a follow-up to their initial investment round back in 2018. ForwardLane’s AI insight ..."
     publishedDateTime: 2020-01-24T21:43:00Z
-    sourceUrl: "https://www.crowdfundinsider.com/2020/01/156712-sei-ventures-partners-ai-enhanced-intelligence-firm-forwardlane-to-provide-insights-to-financial-institutions/"
-    ampUrl: "https://www.crowdfundinsider.com/2020/01/156712-sei-ventures-partners-ai-enhanced-intelligence-firm-forwardlane-to-provide-insights-to-financial-institutions/amp/"
-    cdnAmpUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156712-sei-ventures-partners-ai-enhanced-intelligence-firm-forwardlane-to-provide-insights-to-financial-institutions/amp/"
+    webUrl: "https://www.crowdfundinsider.com/2020/01/156712-sei-ventures-partners-ai-enhanced-intelligence-firm-forwardlane-to-provide-insights-to-financial-institutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/01/156712-sei-ventures-partners-ai-enhanced-intelligence-firm-forwardlane-to-provide-insights-to-financial-institutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156712-sei-ventures-partners-ai-enhanced-intelligence-firm-forwardlane-to-provide-insights-to-financial-institutions/amp/"
     type: article
     provider:
       name: Crowdfund Insider

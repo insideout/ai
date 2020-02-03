@@ -3,7 +3,7 @@ category: news
 title: "Scrum, kick, score: how Amazon’s cloud tech will provide the most in-depth Six Nations stats ever"
 excerpt: "AWS worked with Will Carling, the ex-England rugby captain and AWS ambassador ... Emerging technologies, such as augmented reality, virtual reality and artificial intelligence were name-checked as ways to ensure fans have a great experience and encourage them to interact with a team afterwards."
 publishedDateTime: 2020-01-31T13:35:00Z
-sourceUrl: "https://www.standard.co.uk/tech/six-nations-2020-amazon-web-services-stats-tech-rugby-a4350056.html"
+webUrl: "https://www.standard.co.uk/tech/six-nations-2020-amazon-web-services-stats-tech-rugby-a4350056.html"
 type: article
 quality: 11
 heat: 11

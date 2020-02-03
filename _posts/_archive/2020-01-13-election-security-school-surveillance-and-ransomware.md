@@ -3,9 +3,9 @@ category: news
 title: "Election Security, School Surveillance and Ransomware"
 excerpt: "Welcome to the Future of Security. Let’s get started: The election security picture continues to look unsettled. Last week, a study by the University of Michigan found that new voting machines in hundreds of districts lack adequate safeguards to protect ..."
 publishedDateTime: 2020-01-13T22:57:00Z
-sourceUrl: "https://www.governing.com/security/Election-Security-School-Surveillance-and-Ransomware.html"
-ampUrl: "https://www.governing.com/security/Election-Security-School-Surveillance-and-Ransomware.html?AMP"
-cdnAmpUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Election-Security-School-Surveillance-and-Ransomware.html?AMP"
+webUrl: "https://www.governing.com/security/Election-Security-School-Surveillance-and-Ransomware.html"
+ampWebUrl: "https://www.governing.com/security/Election-Security-School-Surveillance-and-Ransomware.html?AMP"
+cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Election-Security-School-Surveillance-and-Ransomware.html?AMP"
 type: article
 quality: 44
 heat: 44

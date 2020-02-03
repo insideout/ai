@@ -3,9 +3,9 @@ category: news
 title: "Robotic seal provides emotional support for Alzheimer's patients at Vancouver General Hospital"
 excerpt: "“He is a personal robot, or PARO, with artificial intelligence and because he is white ... While the therapeutic benefits of live-therapy animals have been well-researched, using real animals with dementia patients in clinical settings presents real challenges, particularly among the frail and elderly. But Caspar seems to be getting the ..."
 publishedDateTime: 2020-01-30T00:35:00Z
-sourceUrl: "https://vancouversun.com/news/robotic-seal-provides-emotional-support-for-alzheimers-patients-at-vancouver-general-hospital"
-ampUrl: "https://vancouversun.com/news/robotic-seal-provides-emotional-support-for-alzheimers-patients-at-vancouver-general-hospital/amp"
-cdnAmpUrl: "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/news/robotic-seal-provides-emotional-support-for-alzheimers-patients-at-vancouver-general-hospital/amp"
+webUrl: "https://vancouversun.com/news/robotic-seal-provides-emotional-support-for-alzheimers-patients-at-vancouver-general-hospital"
+ampWebUrl: "https://vancouversun.com/news/robotic-seal-provides-emotional-support-for-alzheimers-patients-at-vancouver-general-hospital/amp"
+cdnAmpWebUrl: "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/news/robotic-seal-provides-emotional-support-for-alzheimers-patients-at-vancouver-general-hospital/amp"
 type: article
 quality: 32
 heat: 32

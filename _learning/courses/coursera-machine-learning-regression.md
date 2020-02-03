@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning: Regression"
 excerpt: "Learn Machine Learning: Regression from University of Washington. Case Study - Predicting Housing Prices  In our first case study, predicting house prices, you will create models that predict a continuous value (price) from input features (square ..."
-sourceUrl: https://www.coursera.org/learn/ml-regression
+webUrl: https://www.coursera.org/learn/ml-regression
 type: course
 price: Free+
 length: 36 hours

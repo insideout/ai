@@ -3,7 +3,7 @@ category: news
 title: "SPS 2019 put a spotlight on industry trends and innovations"
 excerpt: "In addition to topics from the IT world, including machine learning, digital twins, cloud, and big data technologies ... The UC series IIoT Edge Gateways are the first Azure IoT Edge certified Arm-based computers. Integrating Azure IoT Edge with Moxa’s IIoT gateways is said to benefit users in a number of ways, including secure remote ..."
 publishedDateTime: 2020-01-27T09:36:00Z
-sourceUrl: "https://www.controlengeurope.com/article/176619/SPS-2019-put-a-spotlight-on-industry-trends-and-innovations.aspx"
+webUrl: "https://www.controlengeurope.com/article/176619/SPS-2019-put-a-spotlight-on-industry-trends-and-innovations.aspx"
 type: article
 quality: 4
 heat: 4

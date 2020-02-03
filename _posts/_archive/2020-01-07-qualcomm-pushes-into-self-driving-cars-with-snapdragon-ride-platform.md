@@ -3,7 +3,7 @@ category: news
 title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
 excerpt: "Semiconductor maker Qualcomm Inc. is making a play for the automotive sector with the launch of its first self-driving car platform. Announced at the Consumer Electronics Show today, Qualcomm’s ..."
 publishedDateTime: 2020-01-07T01:55:00Z
-sourceUrl: "https://siliconangle.com/2020/01/06/qualcomm-pushes-self-driving-cars-snapdragon-ride-platform/"
+webUrl: "https://siliconangle.com/2020/01/06/qualcomm-pushes-self-driving-cars-snapdragon-ride-platform/"
 type: article
 quality: 24
 heat: 24

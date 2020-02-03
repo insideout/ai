@@ -3,7 +3,7 @@ category: news
 title: "Former Go Champ Retires From Game: AI ‘Cannot Be Defeated’"
 excerpt: "The South Korean Go master gained global fame in 2016 as the only human to defeat DeepMind’s AlphaGo computer program. Now he’s bowing out of the sport due to the “invincibility” of AI Go ..."
 publishedDateTime: 2020-01-29T00:00:00Z
-sourceUrl: "https://www.geek.com/tech/former-go-champ-retires-from-game-ai-cannot-be-defeated-1812137/"
+webUrl: "https://www.geek.com/tech/former-go-champ-retires-from-game-ai-cannot-be-defeated-1812137/"
 type: article
 quality: 69
 heat: 69

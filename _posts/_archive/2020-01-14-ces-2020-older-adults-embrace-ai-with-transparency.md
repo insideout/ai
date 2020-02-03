@@ -3,7 +3,7 @@ category: news
 title: "CES 2020: Older adults embrace AI with transparency"
 excerpt: "Tonya Hall talks with Kari Olson, chief innovation and technology officer at Front Porch, about how older adults are beginning to understand and embrace AI."
 publishedDateTime: 2020-01-14T14:01:00Z
-sourceUrl: "https://www.zdnet.com/video/ces-2020-older-adults-embrace-ai-with-transparency/"
+webUrl: "https://www.zdnet.com/video/ces-2020-older-adults-embrace-ai-with-transparency/"
 type: article
 quality: 67
 heat: 67

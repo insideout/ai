@@ -3,7 +3,7 @@ category: news
 title: "BIOS IT will showcase its range of optimised HPC, AI & Cloud solutions at the Festival of Genomics"
 excerpt: "Gene Genie is an end-to-end ecosystem for Artificial Intelligence (AI) advancement in the healthcare industry. The solution combines leading GPU accelerator technology and intuitive scale-out storage in one platform for the analysis of Next Generation Sequencing (NGS) and medical image data. Gene Genie integrates and optimizes widely used ..."
 publishedDateTime: 2020-01-23T11:26:00Z
-sourceUrl: "https://pressreleases.responsesource.com/news/99051/bios-it-will-showcase-its-range-of-optimised-hpc-ai/"
+webUrl: "https://pressreleases.responsesource.com/news/99051/bios-it-will-showcase-its-range-of-optimised-hpc-ai/"
 type: article
 quality: 5
 heat: 5

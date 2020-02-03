@@ -3,9 +3,9 @@ category: news
 title: "ActiveCampaign raises $100 million to automate marketing campaigns with AI"
 excerpt: "In that period, its workforce grew from 65 to over 550 employees, almost 300 of which came aboard in the past year alone. As VandeBoom explained, ActiveCampaign’s automations are powered in part by AI and machine learning algorithms. They’re customized, with flows that inform hundreds of unique experiences generated dynamically for each person."
 publishedDateTime: 2020-01-28T11:30:00Z
-sourceUrl: "https://venturebeat.com/2020/01/28/activecampaign-raises-100-million-to-automate-marketing-campaigns-with-ai/"
-ampUrl: "https://venturebeat.com/2020/01/28/activecampaign-raises-100-million-to-automate-marketing-campaigns-with-ai/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/activecampaign-raises-100-million-to-automate-marketing-campaigns-with-ai/amp/"
+webUrl: "https://venturebeat.com/2020/01/28/activecampaign-raises-100-million-to-automate-marketing-campaigns-with-ai/"
+ampWebUrl: "https://venturebeat.com/2020/01/28/activecampaign-raises-100-million-to-automate-marketing-campaigns-with-ai/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/activecampaign-raises-100-million-to-automate-marketing-campaigns-with-ai/amp/"
 type: article
 quality: 85
 heat: -1
@@ -32,9 +32,9 @@ related:
   - title: "This Chicago software firm hired 300 people last year. It just raised $100 million and plans to hire more."
     excerpt: "Software firm ActiveCampaign raised $100 million in venture capital funding and plans to continue a hiring spree that added 300 people in the past year. “We’re not slowing down,” said CEO and founder Jason VandeBoom. The Chicago company makes software for targeted marketing and managing customer data. Demand for those types of tools is ..."
     publishedDateTime: 2020-01-28T11:37:00Z
-    sourceUrl: "https://www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html"
-    ampUrl: "https://www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html?outputType=amp"
-    cdnAmpUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html?outputType=amp"
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune

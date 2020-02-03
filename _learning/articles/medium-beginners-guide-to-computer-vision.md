@@ -1,7 +1,7 @@
 ---
 title: "Beginner’s Guide to Computer Vision"
 excerpt: "The phenomenon that makes machines such as computers or mobile phones see the surroundings is known as Computer Vision. Serious work on re-creating a human eye started way back in 50s and since then, we have come a long way. Computer vision has already made its way to our mobile phone via different e-commerce or camera apps."
-sourceUrl: https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720
+webUrl: https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720
 type: article
 price: Free
 length: 

@@ -3,7 +3,7 @@ category: news
 title: "Artificial intelligence firms handed cash windfall to tackle climate crisis"
 excerpt: "Now extra cash has been set aside to combat climate change – using the latest, cutting-edge artificial intelligence (AI). Six companies are to share £170,000 of Scottish Government funding to help tackle the climate emergency using AI. The applicants ..."
 publishedDateTime: 2020-01-28T05:38:00Z
-sourceUrl: "https://www.heraldscotland.com/news/18191113.artificial-intelligence-firms-handed-cash-windfall-tackle-climate-crisis/"
+webUrl: "https://www.heraldscotland.com/news/18191113.artificial-intelligence-firms-handed-cash-windfall-tackle-climate-crisis/"
 type: article
 quality: 35
 heat: 35

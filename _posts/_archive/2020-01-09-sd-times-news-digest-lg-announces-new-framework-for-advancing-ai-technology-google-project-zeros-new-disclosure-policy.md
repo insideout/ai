@@ -3,7 +3,7 @@ category: news
 title: "SD Times news digest: LG announces new framework for advancing AI technology, Google Project Zero’s new disclosure policy"
 excerpt: "Third, reasoning furthers AI that uses causality learning through ... Hub TimeXtender announced a new Discovery Hub that supports Azure Synapse analytics and SQL Server 2019."
 publishedDateTime: 2020-01-09T23:16:00Z
-sourceUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-lg-announces-new-framework-for-advancing-ai-technology-google-project-zeros-new-disclosure-policy-for-2020-and-avepoint-raises-200-million/"
+webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-lg-announces-new-framework-for-advancing-ai-technology-google-project-zeros-new-disclosure-policy-for-2020-and-avepoint-raises-200-million/"
 type: article
 quality: 44
 heat: 44

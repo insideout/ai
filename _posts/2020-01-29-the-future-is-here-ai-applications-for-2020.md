@@ -3,7 +3,7 @@ category: news
 title: "The future is here: AI applications for 2020"
 excerpt: "For example, Google published its research about an AI achievement that tracks 21 3D coordinates on a person’s hand ... Let us know in the comments below or on Twitter, or Facebook. You can also comment on our MeWe page by joining the MeWe social network. *We use revenue-generating affiliate links and may earn a commission for purchases ..."
 publishedDateTime: 2020-01-29T15:24:00Z
-sourceUrl: "https://techaeris.com/2020/01/29/the-future-is-here-ai-applications-for-2020/"
+webUrl: "https://techaeris.com/2020/01/29/the-future-is-here-ai-applications-for-2020/"
 type: article
 quality: 39
 heat: 39

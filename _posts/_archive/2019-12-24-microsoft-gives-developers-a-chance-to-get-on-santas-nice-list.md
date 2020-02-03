@@ -3,7 +3,7 @@ category: news
 title: "Microsoft Gives Developers A Chance To Get On Santa's 'Nice List'"
 excerpt: "The app relies on Xamarin.Forms, Microsoft Cognitive Services – Text Analytics and Azure Functions. Developers can find instructions on how to install the Azure components from GitHub repo."
 publishedDateTime: 2019-12-24T14:41:00Z
-sourceUrl: https://www.mediapost.com/publications/article/344956/microsoft-gives-developers-a-chance-to-get-on-sant.html
+webUrl: https://www.mediapost.com/publications/article/344956/microsoft-gives-developers-a-chance-to-get-on-sant.html
 type: article
 quality: 39
 heat: 39

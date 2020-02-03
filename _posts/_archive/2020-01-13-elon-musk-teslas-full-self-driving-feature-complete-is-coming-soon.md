@@ -3,9 +3,9 @@ category: news
 title: "Elon Musk: Tesla’s Full Self-Driving ‘feature-complete’ is coming ‘soon’"
 excerpt: "Tesla missed Elon Musk’s deadline to release what he calls Full Self-Driving “feature-complete” out “at least in the early access program” by the end of last year, but the CEO says that it is still coming ‘”soon.” Autopilot is currently meant for highway driving, and the new Smart Summon, which Tesla recently released in its V10 ..."
 publishedDateTime: 2020-01-13T14:09:00Z
-sourceUrl: "https://electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/"
-ampUrl: "https://electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/amp/"
-cdnAmpUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/amp/"
+webUrl: "https://electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/"
+ampWebUrl: "https://electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/amp/"
+cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/amp/"
 type: article
 quality: 88
 heat: -1
@@ -33,7 +33,7 @@ related:
   - title: "Elon Musk says Tesla’s early access group will get Full Self Driving ‘soon’"
     excerpt: "Full Self Driving is an upcoming Tesla feature that currently exists in an unfinished form. According to Musk, the feature will eventually make it possible for a Tesla vehicle to drive itself from ..."
     publishedDateTime: 2020-01-14T23:27:00Z
-    sourceUrl: "https://thenextweb.com/artificial-intelligence/2020/01/14/elon-musk-says-teslas-early-access-group-will-get-full-self-driving-soon/"
+    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/14/elon-musk-says-teslas-early-access-group-will-get-full-self-driving-soon/"
     type: article
     provider:
       name: The Next Web

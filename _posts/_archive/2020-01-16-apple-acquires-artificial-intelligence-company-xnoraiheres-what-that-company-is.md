@@ -3,9 +3,9 @@ category: news
 title: "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is"
 excerpt: "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ..."
 publishedDateTime: 2020-01-16T16:33:00Z
-sourceUrl: "https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained"
-ampUrl: "https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained"
-cdnAmpUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained"
+webUrl: "https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained"
+ampWebUrl: "https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained"
+cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained"
 type: article
 quality: 66
 heat: 66

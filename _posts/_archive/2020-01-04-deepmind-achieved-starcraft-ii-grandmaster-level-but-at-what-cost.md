@@ -3,7 +3,7 @@ category: news
 title: "DeepMind achieved StarCraft II GrandMaster Level, but at what cost?"
 excerpt: "Thanks to the advancement in deep learning and reinforcement learning, DeepMind achieved groundbreaking success first in Atari, then in Go, and finally in Starcraft II. One of the major benefits ..."
 publishedDateTime: 2020-01-04T22:45:00Z
-sourceUrl: "https://medium.com/swlh/deepmind-achieved-starcraft-ii-grandmaster-level-but-at-what-cost-32891dd990e4"
+webUrl: "https://medium.com/swlh/deepmind-achieved-starcraft-ii-grandmaster-level-but-at-what-cost-32891dd990e4"
 type: article
 quality: 69
 heat: 69

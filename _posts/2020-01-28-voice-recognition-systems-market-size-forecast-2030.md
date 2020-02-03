@@ -3,7 +3,7 @@ category: news
 title: "Voice Recognition Systems Market Size Forecast - 2030"
 excerpt: "[160 Pages Report] PMI's publication of the Voice Recognition Systems Market-Size, Share, Trends, forecast 2030 examines the market for Voice Recognition Systems and the considerations involved in implementation. The 66-page report reviews the growing ..."
 publishedDateTime: 2020-01-28T12:44:00Z
-sourceUrl: "https://www.openpr.com/news/1911316/voice-recognition-systems-market-size-forecast-2030"
+webUrl: "https://www.openpr.com/news/1911316/voice-recognition-systems-market-size-forecast-2030"
 type: article
 quality: 4
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "ID R&D Optimizes Voice Recognition Platform with Latest IDVoice Update"
     excerpt: "ID R&D has drastically reduced the computational footprint of its flagship voice recognition platform. The newly released IDVoice v2.11 lowers the size of the biometric engine from 40MB to less than 1MB, making the SDK much easier to install on a wide variety of edge and IoT devices. This is a companion discussion topic for the original entry ..."
     publishedDateTime: 2020-01-27T20:19:00Z
-    sourceUrl: "https://businesscomputingworld.co.uk/t/id-r-d-optimizes-voice-recognition-platform-with-latest-idvoice-update/246234"
+    webUrl: "https://businesscomputingworld.co.uk/t/id-r-d-optimizes-voice-recognition-platform-with-latest-idvoice-update/246234"
     type: article
     provider:
       name: BCW

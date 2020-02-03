@@ -3,9 +3,9 @@ category: news
 title: "AI Finds 'Square Structure' Inside 'Triangle' on Ceres, Failing Experiment to See If It Could Be Used to Find Aliens"
 excerpt: "In an experiment designed to see if artificial intelligence could be used to discover extraterrestrials, it detected an unusual \"square structure\" inside a \"triangle\" on Ceres, a dwarf planet that sits in the asteroid belt between Mars and Jupiter."
 publishedDateTime: 2020-01-30T15:10:00Z
-sourceUrl: "https://www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856"
-ampUrl: "https://www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856?amp=1"
-cdnAmpUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856?amp=1"
+webUrl: "https://www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856"
+ampWebUrl: "https://www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856?amp=1"
 type: article
 quality: 164
 heat: 164

@@ -3,7 +3,7 @@ category: news
 title: "Creating a more accessible world with Azure AI"
 excerpt: "At Microsoft, we are inspired by how artificial intelligence is transforming organizations of all sizes, empowering them to reimagine what’s possible. AI has immense potential to unlock solutions to some of society’s most pressing challenges. One challenge is that according to the World Health Association,"
 publishedDateTime: 2020-01-16T08:00:51Z
-sourceUrl: "https://azure.microsoft.com/blog/creating-a-more-accessible-world-with-azure-ai/"
+webUrl: "https://azure.microsoft.com/blog/creating-a-more-accessible-world-with-azure-ai/"
 type: article
 quality: 104
 heat: 114
@@ -31,7 +31,7 @@ related:
   - title: "Creating inclusiveness at our first AI for Accessibility Hackathon in Asia Pacific"
     excerpt: "identifying opportunities to use AI to build a more inclusive and accessible world around us. Their solutions were developed on Microsoft Azure and used Power Apps to create solutions that tackle problems faced by the community every day. Team Grab from Singapore on their communication solution for people with autism Problem statements on ..."
     publishedDateTime: 2020-01-17T01:17:00Z
-    sourceUrl: "https://news.microsoft.com/apac/2020/01/17/creating-inclusiveness-at-our-first-ai-for-accessibility-hackathon-in-asia-pacific/"
+    webUrl: "https://news.microsoft.com/apac/2020/01/17/creating-inclusiveness-at-our-first-ai-for-accessibility-hackathon-in-asia-pacific/"
     type: article
     provider:
       name: Microsoft

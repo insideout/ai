@@ -3,7 +3,7 @@ category: news
 title: "The legal industry finds ways to leverage AI"
 excerpt: "How far are we from seeing \"robot judges\"? ZDNet's Stephanie Condon discusses with Karen Roby. Read more: https://zd.net/3auO0jl"
 publishedDateTime: 2020-01-21T11:03:00Z
-sourceUrl: "https://www.zdnet.com/video/the-legal-industry-finds-ways-to-leverage-ai/"
+webUrl: "https://www.zdnet.com/video/the-legal-industry-finds-ways-to-leverage-ai/"
 type: article
 quality: 67
 heat: 77
@@ -30,7 +30,7 @@ related:
   - title: "AI Moves to Court: The Growing Footprints of AI in the Legal Industry"
     excerpt: "Reportedly, the app will translate Supreme Court judgments in over 9 regional languages. The discussion of AI is currently more robust in criminal courts than in civil courts. The technology has been proposed in order to supervise and recognize defendants ..."
     publishedDateTime: 2020-01-24T18:36:00Z
-    sourceUrl: "https://www.analyticsinsight.net/ai-moves-court-growing-footprint-ai-legal-industry/"
+    webUrl: "https://www.analyticsinsight.net/ai-moves-court-growing-footprint-ai-legal-industry/"
     type: article
     provider:
       name: Analytics Insight

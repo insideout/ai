@@ -3,9 +3,9 @@ category: news
 title: "A warehouse robot learns to sort out the tricky stuff"
 excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb through bin after bin of random stuff — from clothes and shoes to ..."
 publishedDateTime: 2020-02-02T00:08:00Z
-sourceUrl: "https://www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html"
-ampUrl: "https://www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
-cdnAmpUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
+webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html"
+ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
 type: article
 quality: 59
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "A Warehouse Robot Learns to Sort Out the Tricky Stuff"
     excerpt: "At a facility near Berlin, a new kind of robot is automating tasks that until recently had been out of the reach of machines. LUDWIGSFELDE, Germany — Inside a warehouse on the outskirts of Berlin, a long line of blue crates moved down a conveyor belt,"
     publishedDateTime: 2020-01-29T09:00:00Z
-    sourceUrl: "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.html"
-    ampUrl: "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html"
-    cdnAmpUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html"
+    webUrl: "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.html"
+    ampWebUrl: "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html"
     type: article
     provider:
       name: New York Times
@@ -44,7 +44,7 @@ related:
   - title: "AI Helps Warehouse Robots Pick Up New Tricks"
     excerpt: "Geoffrey Hinton and Yann Lecunn, who shared this year’s Turing Prize with Yoshua Bengio for their work on deep learning, are among the AI luminaries who have invested in Covariant.ai, a startup developing AI technology for warehouse bin-picking bots. Covariant.ai has developed a platform that consists of off-the-shelf robot arms equipped with ..."
     publishedDateTime: 2020-01-29T04:00:00Z
-    sourceUrl: "https://www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/"
+    webUrl: "https://www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/"
     type: article
     provider:
       name: Wired
@@ -57,9 +57,9 @@ related:
   - title: "Warehouse Robotics to Reach New Heights"
     excerpt: "But robotics has emerged as a possible game-changer to warehouse operations in industries ... The biggest challenge is the lack of awareness and a clear strategy and the dearth of data needed for main artificial intelligence (AI) and machine learning technology to work at their full potential. Systems that use AI need accurate data, or they ..."
     publishedDateTime: 2020-01-23T14:12:00Z
-    sourceUrl: "https://www.globest.com/2020/01/23/warehouse-robotics-to-reach-new-heights-296-213715/"
-    ampUrl: "https://www.globest.com/2020/01/23/warehouse-robotics-to-reach-new-heights-296-213715/?amp=1"
-    cdnAmpUrl: "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2020/01/23/warehouse-robotics-to-reach-new-heights-296-213715/?amp=1"
+    webUrl: "https://www.globest.com/2020/01/23/warehouse-robotics-to-reach-new-heights-296-213715/"
+    ampWebUrl: "https://www.globest.com/2020/01/23/warehouse-robotics-to-reach-new-heights-296-213715/?amp=1"
+    cdnAmpWebUrl: "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2020/01/23/warehouse-robotics-to-reach-new-heights-296-213715/?amp=1"
     type: article
     provider:
       name: GlobeSt.com
@@ -72,9 +72,9 @@ related:
   - title: "A warehouse robot learns to sort out the tricky stuff"
     excerpt: "Standing nearby at the Obeta warehouse, the California engineers who made the robot snapped pictures with their smartphones. They spent more than two years designing the system at a startup called Covariant.AI, building on their research at the University of California, Berkeley. Their technology is an indication that, in the coming years ..."
     publishedDateTime: 2020-02-01T15:25:00Z
-    sourceUrl: "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html"
-    ampUrl: "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
-    cdnAmpUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
+    webUrl: "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
     type: article
     provider:
       name: The Baltimore Sun
@@ -87,7 +87,7 @@ related:
   - title: "A warehouse robot learns to sort out the tricky stuff"
     excerpt: "At the facility near Berlin, the new kind of robot is automating tasks that until recently had been out of the reach of machines."
     publishedDateTime: 2020-01-30T12:48:00Z
-    sourceUrl: "https://www.bizjournals.com/buffalo/news/2020/01/30/a-warehouse-robot-learns-to-sort-out-the-tricky.html"
+    webUrl: "https://www.bizjournals.com/buffalo/news/2020/01/30/a-warehouse-robot-learns-to-sort-out-the-tricky.html"
     type: article
     provider:
       name: The Business Journals
@@ -100,7 +100,7 @@ related:
   - title: "New kind of robot learns on the job at warehouse in Germany"
     excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb bin after bin of random stuff -- from clothes and shoes to ..."
     publishedDateTime: 2020-02-02T06:00:00Z
-    sourceUrl: "https://www.arkansasonline.com/news/2020/feb/02/new-kind-of-robot-learns-on-the-job-at-/"
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/02/new-kind-of-robot-learns-on-the-job-at-/"
     type: article
     provider:
       name: Arkansas Democrat-Gazette

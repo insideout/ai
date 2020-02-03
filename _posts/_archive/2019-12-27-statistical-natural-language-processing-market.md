@@ -3,7 +3,7 @@ category: news
 title: "Statistical Natural Language Processing Market"
 excerpt: "The report on the global Statistical Natural Language Processing market is a complete overview of the market, covering various aspects product definition, segmentation based on various parameters ..."
 publishedDateTime: 2019-12-27T18:52:00Z
-sourceUrl: https://www.openpr.com/news/1886758/statistical-natural-language-processing-market-expecting-huge
+webUrl: https://www.openpr.com/news/1886758/statistical-natural-language-processing-market-expecting-huge
 type: article
 quality: 19
 heat: 19

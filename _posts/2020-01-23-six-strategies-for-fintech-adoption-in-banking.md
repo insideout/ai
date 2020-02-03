@@ -3,7 +3,7 @@ category: news
 title: "Six strategies for FinTech adoption in banking"
 excerpt: "FinTech introduces new conditions and requirements that are beyond the current competencies ... in the exercise of professional judgment in an era of machine learning and artificial intelligence (AI); and in the management of real-time transfers and payments across multiple channels and over wider geographical spread. It is interesting to ..."
 publishedDateTime: 2020-01-23T16:30:00Z
-sourceUrl: "https://www.complianceweek.com/financial-services/six-strategies-for-fintech-adoption-in-banking/28338.article"
+webUrl: "https://www.complianceweek.com/financial-services/six-strategies-for-fintech-adoption-in-banking/28338.article"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "5 ways Fintech is making Banking more accessible"
     excerpt: "But Fintech has a solution for that, too. Artificial intelligence (AI) facilitated the development of robo-advisors, who can communicate with consumers in real-time, offering financial advice and more. An example is a chatbot, which “talks to” the customer through online messaging. For now, most institutions that use robo-advisors have ..."
     publishedDateTime: 2020-01-28T17:20:00Z
-    sourceUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/"
-    ampUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
-    cdnAmpUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
+    webUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/"
+    ampWebUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
     type: article
     provider:
       name: Impacts
@@ -42,9 +42,9 @@ related:
   - title: "Social Trading Applications On Fintech Technology"
     excerpt: "What Is Next For Social Trading And The Business Sector? Though the future of social trading remains vastly unclear at this time, 2020 is set to be a big year for social trading and fintech technology in general. With the implementation of AI in a number of different fintech businesses, there is potential to increase customer service through an ..."
     publishedDateTime: 2020-01-28T10:11:00Z
-    sourceUrl: "https://www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html"
-    ampUrl: "https://www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html/amp"
-    cdnAmpUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html/amp"
+    webUrl: "https://www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html/amp"
     type: article
     provider:
       name: Android

@@ -3,9 +3,9 @@ category: news
 title: "Björk and Microsoft use AI to create music that changes with the sky"
 excerpt: "The Icelandic star is using Microsoft AI as part of Kórsafn (\"choral archives\"), a non-stop composition playing in the lobby of the Sister City hotel in New York City. The project plays selections from Björk's many choral arrangements (including new ones composed by the Hamrahlid Choir) based on what the AI sees in the sky through a rooftop ..."
 publishedDateTime: 2020-01-17T18:42:00Z
-sourceUrl: "https://www.engadget.com/2020/01/17/bjork-and-microsoft-ai-sky-music/"
-ampUrl: "https://www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/"
-cdnAmpUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/"
+webUrl: "https://www.engadget.com/2020/01/17/bjork-and-microsoft-ai-sky-music/"
+ampWebUrl: "https://www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/"
 type: article
 quality: 187
 heat: 197
@@ -32,9 +32,9 @@ related:
   - title: "Björk creates an AI composition that creates music that creates music to the weather"
     excerpt: "The AI will create dynamic new variations of Björk's original arrangements based on the changing weather patterns and position of the sun . Called ‘Kórsafn,’ which means ‘choir archive’ in Icelandic, the composition will be played continuously ..."
     publishedDateTime: 2020-01-17T22:41:00Z
-    sourceUrl: "https://www.dailymail.co.uk/sciencetech/article-7900725/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html"
-    ampUrl: "https://www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html"
-    cdnAmpUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html"
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-7900725/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html"
     type: article
     provider:
       name: Daily Mail

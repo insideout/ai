@@ -3,7 +3,7 @@ category: news
 title: "Sonasoft (SSFT) Provides 2019 Year in Review"
 excerpt: "The models produced by such a system are fine, but they aren’t always as robust as they should be, and in complex scenarios, they can break down. Google DeepMind offers an alternative approach, relying on complex deep learning algorithms to allow it to outperform humans in many tasks. However, DeepMind requires massive computing power that is ..."
 publishedDateTime: 2020-01-15T12:30:00Z
-sourceUrl: "https://markets.businessinsider.com/news/stocks/sonasoft-ssft-provides-2019-year-in-review-1028819433"
+webUrl: "https://markets.businessinsider.com/news/stocks/sonasoft-ssft-provides-2019-year-in-review-1028819433"
 type: article
 quality: 34
 heat: 34

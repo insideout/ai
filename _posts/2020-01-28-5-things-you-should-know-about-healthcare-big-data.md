@@ -3,9 +3,9 @@ category: news
 title: "5 Things You Should Know about Healthcare ‘Big Data’"
 excerpt: "We can use artificial intelligence (AI) technology to recognize patterns in vast and complex data sets that human brains would take centuries to discover and unwrap. This is not pie-in-the-sky for the far future. Big data in healthcare is expected to experience a phenomenal compound annual growth rate of 36% by 2025, with electronic health ..."
 publishedDateTime: 2020-01-28T09:07:00Z
-sourceUrl: "https://techbullion.com/5-things-you-should-know-about-healthcare-big-data/"
-ampUrl: "https://techbullion.com/5-things-you-should-know-about-healthcare-big-data/amp/"
-cdnAmpUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-things-you-should-know-about-healthcare-big-data/amp/"
+webUrl: "https://techbullion.com/5-things-you-should-know-about-healthcare-big-data/"
+ampWebUrl: "https://techbullion.com/5-things-you-should-know-about-healthcare-big-data/amp/"
+cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-things-you-should-know-about-healthcare-big-data/amp/"
 type: article
 quality: 59
 heat: 59

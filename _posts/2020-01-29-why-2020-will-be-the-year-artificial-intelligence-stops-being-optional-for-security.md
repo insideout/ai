@@ -3,7 +3,7 @@ category: news
 title: "Why 2020 Will Be the Year Artificial Intelligence Stops Being Optional for Security"
 excerpt: "Artificial intelligence (AI) isn’t new. What is new is the growing ubiquity of AI in large organizations. In fact, by the end of this year, I believe nearly every type of large organization will find AI-based cybersecurity tools indispensable. Artificial intelligence is many things to many people. One fairly neutral definition is that it’s ..."
 publishedDateTime: 2020-01-29T13:50:00Z
-sourceUrl: "https://securityintelligence.com/articles/why-2020-will-be-the-year-artificial-intelligence-stops-being-optional-for-security/"
+webUrl: "https://securityintelligence.com/articles/why-2020-will-be-the-year-artificial-intelligence-stops-being-optional-for-security/"
 type: article
 quality: 31
 heat: 31

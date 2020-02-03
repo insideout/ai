@@ -3,7 +3,7 @@ category: news
 title: "North America Self-driving Car Market revenue of USD 18.94 Bn by 2024"
 excerpt: "Middle East and Africa self-driving car market A self-driving car also known as the driverless car or an autonomous car, or robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers."
 publishedDateTime: 2020-01-28T13:28:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-revenue-of-usd-1894-bn-by-2024-2020-01-28"
+webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-revenue-of-usd-1894-bn-by-2024-2020-01-28"
 type: article
 quality: 54
 heat: 64
@@ -31,7 +31,7 @@ related:
   - title: "North America Self-driving Car Market Size, Future Outlook 2018-2023"
     excerpt: "North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers."
     publishedDateTime: 2020-01-28T13:28:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-size-future-outlook-2018-2023-2020-01-28"
+    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-size-future-outlook-2018-2023-2020-01-28"
     type: article
     provider:
       name: MarketWatch

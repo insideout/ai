@@ -3,7 +3,7 @@ category: news
 title: "Facebook's latest takedown has a twist -- AI-generated profile pictures"
 excerpt: "a group established to research disinformation, outlined how they identified the artificially created faces from the accounts removed by Facebook. Images generated using artificial intelligence ..."
 publishedDateTime: 2020-01-02T10:01:00Z
-sourceUrl: https://abcnews.go.com/US/facebooks-latest-takedown-twist-ai-generated-profile-pictures/story?id=67925292
+webUrl: https://abcnews.go.com/US/facebooks-latest-takedown-twist-ai-generated-profile-pictures/story?id=67925292
 type: article
 quality: 19
 heat: 19

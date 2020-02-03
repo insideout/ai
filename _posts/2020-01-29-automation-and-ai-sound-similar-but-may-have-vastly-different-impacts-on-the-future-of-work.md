@@ -3,9 +3,9 @@ category: news
 title: "Automation and AI sound similar, but may have vastly different impacts on the future of work"
 excerpt: "And what are some of the topline occupations exposed to AI’s effects, according to Brookings research? Market research analysts and marketing specialists (“planning and creative tasks,” “interfacing with people”), sales managers (“the management and development of people”), and personal financial advisors (“applying expertise to ..."
 publishedDateTime: 2020-01-29T20:20:00Z
-sourceUrl: "https://www.brookings.edu/blog/the-avenue/2020/01/29/automation-and-artificial-intelligence-sound-similar-but-may-have-vastly-different-impacts-on-the-future-of-work/"
-ampUrl: "https://www.brookings.edu/blog/the-avenue/2020/01/29/automation-and-artificial-intelligence-sound-similar-but-may-have-vastly-different-impacts-on-the-future-of-work/amp/"
-cdnAmpUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/the-avenue/2020/01/29/automation-and-artificial-intelligence-sound-similar-but-may-have-vastly-different-impacts-on-the-future-of-work/amp/"
+webUrl: "https://www.brookings.edu/blog/the-avenue/2020/01/29/automation-and-artificial-intelligence-sound-similar-but-may-have-vastly-different-impacts-on-the-future-of-work/"
+ampWebUrl: "https://www.brookings.edu/blog/the-avenue/2020/01/29/automation-and-artificial-intelligence-sound-similar-but-may-have-vastly-different-impacts-on-the-future-of-work/amp/"
+cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/the-avenue/2020/01/29/automation-and-artificial-intelligence-sound-similar-but-may-have-vastly-different-impacts-on-the-future-of-work/amp/"
 type: article
 quality: 48
 heat: 48

@@ -3,7 +3,7 @@ category: news
 title: "Experts in law, healthcare come together to discuss the changing field of bioethics"
 excerpt: "This year’s event, titled “Emerging Issues in Bioethics,” featured experts in law and healthcare from across the country who discussed a range of topics relevant to today’s advancements in medicine, such as gene editing and artificial intelligence. Sandra Soo-Jin Lee, keynote speaker and chief of the division of ethics at Columbia ..."
 publishedDateTime: 2020-01-29T05:47:00Z
-sourceUrl: "https://dailyfreepress.com/2020/01/29/experts-in-law-healthcare-come-together-to-discuss-the-changing-field-of-bioethics/"
+webUrl: "https://dailyfreepress.com/2020/01/29/experts-in-law-healthcare-come-together-to-discuss-the-changing-field-of-bioethics/"
 type: article
 quality: 33
 heat: 33

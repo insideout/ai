@@ -3,9 +3,9 @@ category: news
 title: "What’s in a name? The ‘deep learning’ debate"
 excerpt: "The history of the term deep learning shows that the use of it has been opportunistic at times but has had little to do in the way of advancing the science of artificial intelligence. Hence ..."
 publishedDateTime: 2019-12-28T18:55:00Z
-sourceUrl: https://www.zdnet.com/article/whats-in-a-name-the-deep-learning-debate/
-ampUrl: https://www.zdnet.com/google-amp/article/whats-in-a-name-the-deep-learning-debate/
-cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/whats-in-a-name-the-deep-learning-debate/
+webUrl: https://www.zdnet.com/article/whats-in-a-name-the-deep-learning-debate/
+ampWebUrl: https://www.zdnet.com/google-amp/article/whats-in-a-name-the-deep-learning-debate/
+cdnAmpWebUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/whats-in-a-name-the-deep-learning-debate/
 type: article
 quality: 89
 heat: 89

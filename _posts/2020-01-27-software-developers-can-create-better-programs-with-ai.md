@@ -3,9 +3,9 @@ category: news
 title: "Software developers can create better programs with AI"
 excerpt: "And despite the best efforts of programmers and other pros, finished applications can be hampered by bugs. One factor that can alleviate some of these obstacles is artificial intelligence (AI), according to a new report from Deloitte. SEE: Managing AI and ML in the enterprise 2019: Tech leaders expect more difficulty than previous IT projects ..."
 publishedDateTime: 2020-01-27T18:55:00Z
-sourceUrl: "https://www.techrepublic.com/article/software-developers-can-create-better-programs-with-ai/"
-ampUrl: "https://www.techrepublic.com/google-amp/article/software-developers-can-create-better-programs-with-ai/"
-cdnAmpUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/software-developers-can-create-better-programs-with-ai/"
+webUrl: "https://www.techrepublic.com/article/software-developers-can-create-better-programs-with-ai/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/software-developers-can-create-better-programs-with-ai/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/software-developers-can-create-better-programs-with-ai/"
 type: article
 quality: 87
 heat: 87

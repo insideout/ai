@@ -3,9 +3,9 @@ category: news
 title: "Coral is Google’s quiet initiative to enable AI without the cloud"
 excerpt: "Market analysts predict that more than 750 million edge AI chips and computers will be sold in 2020, rising to 1.5 billion by 2024. And while most of these will be installed in consumer devices like phones, a great deal are destined for enterprise customers in industries like automotive and health care. To meet customers’ needs Coral offers ..."
 publishedDateTime: 2020-01-14T15:23:00Z
-sourceUrl: "https://www.theverge.com/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud"
-ampUrl: "https://www.theverge.com/platform/amp/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud"
-cdnAmpUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud"
+webUrl: "https://www.theverge.com/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud"
+ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud"
 type: article
 quality: 191
 heat: 191

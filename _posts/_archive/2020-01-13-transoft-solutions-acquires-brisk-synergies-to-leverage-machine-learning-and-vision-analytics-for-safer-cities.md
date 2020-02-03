@@ -3,7 +3,7 @@ category: news
 title: "Transoft Solutions Acquires Brisk Synergies to Leverage Machine Learning and Vision Analytics for Safer Cities"
 excerpt: "\"Through our continuous investments in talent, and technology and innovation, we can help engineers, city planners, and transportation departments design and plan safer cities driven by machine learning and video analytics.\" \"We are very excited to be part of Transoft,\" said Charles Chung, CEO of Brisk Synergies who will join Transoft ..."
 publishedDateTime: 2020-01-13T17:11:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-transoft-solutions-acquires-brisk-synergies-leverage-machine-learning-/2020/01/13/9080494.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-transoft-solutions-acquires-brisk-synergies-leverage-machine-learning-/2020/01/13/9080494.htm"
 type: article
 quality: 19
 heat: 19

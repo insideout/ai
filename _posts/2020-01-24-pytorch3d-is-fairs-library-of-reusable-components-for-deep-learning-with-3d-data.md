@@ -3,7 +3,7 @@ category: news
 title: "PyTorch3d is FAIR's library of reusable components for deep learning with 3D data."
 excerpt: "Data structure for storing and manipulating triangle meshes Efficient operations on triangle meshes (projective transformations, graph convolution, sampling, loss functions) A differentiable mesh renderer PyTorch3d is designed to integrate smoothly with deep learning methods for predicting and manipulating 3D data. For this reason, all ..."
 publishedDateTime: 2020-01-24T01:54:00Z
-sourceUrl: "https://github.com/facebookresearch/pytorch3d"
+webUrl: "https://github.com/facebookresearch/pytorch3d"
 type: article
 quality: 48
 heat: 48

@@ -3,7 +3,7 @@ category: news
 title: "Proprio Appoints Robotics and Computer Vision Pioneer Dr. Takeo Kanade to Advisory Board"
 excerpt: "One of the world's foremost researchers in computer vision and robotics, Dr. Kanade is the U.A. and Helen Whitaker Professor of Computer Science and Robotics at Carnegie Mellon University ..."
 publishedDateTime: 2020-01-10T04:06:00Z
-sourceUrl: "https://www.goskagit.com/news/state/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade/article_aa0397dd-0bf2-5c5a-848e-6e24fb198e88.html"
+webUrl: "https://www.goskagit.com/news/state/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade/article_aa0397dd-0bf2-5c5a-848e-6e24fb198e88.html"
 type: article
 quality: 30
 heat: 30

@@ -3,7 +3,7 @@ category: news
 title: "Deep Learning Artificial Intelligence Leader Vyasa Analytics Selected for 2020 MassChallenge HealthTech Accelerator"
 excerpt: "Vyasa Analytics, an innovative provider of highly scalable deep-learning AI analytics software, has been selected to join the 2020 MassChallenge HealthTech program, a startup accelerator that matches later-stage digital health startups with industry experts to accelerate innovation and transform healthcare. Vyasa was selected to join this ..."
 publishedDateTime: 2020-01-23T14:45:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-deep-learning-artificial-intelligence-leader-vyasa-analytics-selected-/2020/01/23/9086094.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-deep-learning-artificial-intelligence-leader-vyasa-analytics-selected-/2020/01/23/9086094.htm"
 type: article
 quality: 34
 heat: -1
@@ -28,9 +28,9 @@ related:
   - title: "AI startup Senseforth.ai selected for OceanPro, Maersk’s startup accelerator"
     excerpt: "Bangalore, Karnataka, India - Business Wire India: Senseforth.ai, a leader in Conversational AI space, has been selected as part of cohort 3 of OceanPro, Maersk’s startup accelerator within the shipping and logistics industry. Maersk recently announced the launch of cohort 3, which focuses on Maersk’s e-commerce platforms, optimizing the ..."
     publishedDateTime: 2020-01-29T07:35:00Z
-    sourceUrl: "https://www.livemint.com/brand-post/ai-startup-senseforth-ai-selected-for-oceanpro-maersk-s-startup-accelerator-11580281683638.html"
-    ampUrl: "https://www.livemint.com/brand-post/ai-startup-senseforth-ai-selected-for-oceanpro-maersk-s-startup-accelerator/amp-11580281683638.html"
-    cdnAmpUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/ai-startup-senseforth-ai-selected-for-oceanpro-maersk-s-startup-accelerator/amp-11580281683638.html"
+    webUrl: "https://www.livemint.com/brand-post/ai-startup-senseforth-ai-selected-for-oceanpro-maersk-s-startup-accelerator-11580281683638.html"
+    ampWebUrl: "https://www.livemint.com/brand-post/ai-startup-senseforth-ai-selected-for-oceanpro-maersk-s-startup-accelerator/amp-11580281683638.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/ai-startup-senseforth-ai-selected-for-oceanpro-maersk-s-startup-accelerator/amp-11580281683638.html"
     type: article
     provider:
       name: Mint
@@ -43,7 +43,7 @@ related:
   - title: "AI Startup Senseforth.ai Selected for OceanPro, Maersk’s Startup Accelerator"
     excerpt: "BANGALORE, India--(BUSINESS WIRE)--Senseforth.ai, a leader in Conversational AI space, has been selected as part of cohort 3 of OceanPro, Maersk’s startup accelerator within the shipping and logistics industry. Maersk recently announced the launch of cohort 3, which focuses on Maersk’s e-commerce platforms, optimizing the brand experience ..."
     publishedDateTime: 2020-01-28T11:00:00Z
-    sourceUrl: "https://www.businesswire.com/news/home/20200128005392/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200128005392/en/"
     type: article
     provider:
       name: Business Wire

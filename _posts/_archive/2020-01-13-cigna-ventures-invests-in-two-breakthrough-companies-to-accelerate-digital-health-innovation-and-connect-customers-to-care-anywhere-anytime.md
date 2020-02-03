@@ -3,9 +3,9 @@ category: news
 title: "Cigna Ventures Invests in Two Breakthrough Companies to Accelerate Digital Health Innovation and Connect Customers to Care Anywhere, Anytime"
 excerpt: "The technology behind Buoy leverages artificial intelligence – powered by advanced ... programs that combine the convenience of digital therapy and the support of live coaching to reduce costs ..."
 publishedDateTime: 2020-01-13T13:05:00Z
-sourceUrl: "https://markets.businessinsider.com/news/stocks/cigna-ventures-invests-in-two-breakthrough-companies-to-accelerate-digital-health-innovation-and-connect-customers-to-care-anywhere-anytime-1028812735"
-ampUrl: "https://markets.businessinsider.com/amp/news/cigna-ventures-invests-in-two-breakthrough-companies-to-accelerate-digital-health-innovation-and-connect-customers-to-care-anywhere-anytime-1028812735"
-cdnAmpUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cigna-ventures-invests-in-two-breakthrough-companies-to-accelerate-digital-health-innovation-and-connect-customers-to-care-anywhere-anytime-1028812735"
+webUrl: "https://markets.businessinsider.com/news/stocks/cigna-ventures-invests-in-two-breakthrough-companies-to-accelerate-digital-health-innovation-and-connect-customers-to-care-anywhere-anytime-1028812735"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/cigna-ventures-invests-in-two-breakthrough-companies-to-accelerate-digital-health-innovation-and-connect-customers-to-care-anywhere-anytime-1028812735"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cigna-ventures-invests-in-two-breakthrough-companies-to-accelerate-digital-health-innovation-and-connect-customers-to-care-anywhere-anytime-1028812735"
 type: article
 quality: 19
 heat: 19

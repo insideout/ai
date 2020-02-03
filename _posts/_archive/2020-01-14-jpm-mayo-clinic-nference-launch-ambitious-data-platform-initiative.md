@@ -3,7 +3,7 @@ category: news
 title: "JPM: Mayo Clinic, nference launch ambitious data platform initiative"
 excerpt: "SAN FRANCISCO—Just a week after backing its $60 million series B round, the Mayo Clinic has tapped healthcare data analytics firm nference to build out an artificial-intelligence-powered ... patients with different therapy regimens."
 publishedDateTime: 2020-01-14T19:05:00Z
-sourceUrl: "https://www.fiercebiotech.com/medtech/mayo-clinic-nference-launch-ambitious-data-platform-initiative"
+webUrl: "https://www.fiercebiotech.com/medtech/mayo-clinic-nference-launch-ambitious-data-platform-initiative"
 type: article
 quality: 24
 heat: 24

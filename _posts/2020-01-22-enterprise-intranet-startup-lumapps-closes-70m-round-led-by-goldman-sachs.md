@@ -3,7 +3,7 @@ category: news
 title: "Enterprise intranet startup LumApps closes $70M round led by Goldman Sachs"
 excerpt: "One of the main items on LumApps’ agenda is incorporating artificial intelligence into its platform. The startup will build AI features to highlight important items for users prevent and sensitive data from accidentally being shared in a way that may violate security or privacy policies. LumApps has raised $100 million in funding to date."
 publishedDateTime: 2020-01-22T23:16:00Z
-sourceUrl: "https://siliconangle.com/2020/01/22/enterprise-intranet-startup-lumapps-closes-70m-round-led-goldman-sachs/"
+webUrl: "https://siliconangle.com/2020/01/22/enterprise-intranet-startup-lumapps-closes-70m-round-led-goldman-sachs/"
 type: article
 quality: 20
 heat: 20

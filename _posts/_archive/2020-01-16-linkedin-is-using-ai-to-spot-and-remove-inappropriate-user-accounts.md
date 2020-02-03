@@ -3,9 +3,9 @@ category: news
 title: "LinkedIn is using AI to spot and remove inappropriate user accounts"
 excerpt: "Social networks including Facebook, Twitter, and Pinterest tap AI and machine learning systems to detect and remove abusive content, as does LinkedIn. The Microsoft-owned platform — which has over 660 million users, 303 million of which are active monthly — today detailed its approach to handling profiles containing inappropriate content ..."
 publishedDateTime: 2020-01-16T20:24:00Z
-sourceUrl: "https://venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/"
-ampUrl: "https://venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/amp/"
+webUrl: "https://venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/"
+ampWebUrl: "https://venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/amp/"
 type: article
 quality: 91
 heat: 91

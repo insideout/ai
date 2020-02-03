@@ -3,9 +3,9 @@ category: news
 title: "First drug developed using machine learning enters clinical trials"
 excerpt: "What just happened? Of all the domains where machine learning is expected to be revolutionary, medicine is perhaps the most universal. In a major new milestone, a drug developed using machine learning is about to enter human trials. Before a new medicine ..."
 publishedDateTime: 2020-02-02T18:02:00Z
-sourceUrl: "https://www.techspot.com/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html"
-ampUrl: "https://www.techspot.com/amp/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html"
-cdnAmpUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html"
+webUrl: "https://www.techspot.com/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html"
+ampWebUrl: "https://www.techspot.com/amp/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html"
 type: article
 quality: 89
 heat: 99
@@ -33,7 +33,7 @@ related:
   - title: "1st AI-developed drug heads to clinical trials"
     excerpt: "It was discovered and developed by a machine learning algorithm from U.K.-based AI startup Exscientia, in partnership with Japanese pharmaceutical company Sumitomo Dainippon Pharma. \"The AI can learn faster than conventional approaches, so we had to make and test only 350 compounds, a fifth of the normal number of compound candidates ..."
     publishedDateTime: 2020-01-30T21:04:00Z
-    sourceUrl: "https://www.beckershospitalreview.com/artificial-intelligence/1st-ai-developed-drug-heads-to-clinical-trials.html"
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/1st-ai-developed-drug-heads-to-clinical-trials.html"
     type: article
     provider:
       name: Becker's Hospital Review

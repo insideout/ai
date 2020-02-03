@@ -3,9 +3,9 @@ category: news
 title: "Vision problems? Your electronics may be the issue"
 excerpt: "There’s a name for it: Computer Vision Syndrome (CVS.) “More people do spend time on screens and so I think that risk factor has gotten worse,” explains Dr. Craig See, of Cleveland Clinic’s Cole Eye Institute. “There’s no doubt that people are ..."
 publishedDateTime: 2020-01-16T05:32:00Z
-sourceUrl: "https://www.wkyc.com/article/news/health/electronic-devices-causing-vision-problems/95-787d0be3-0e82-486e-b78e-a07bc645f8d4"
-ampUrl: "https://www.wkyc.com/amp/article/news/health/electronic-devices-causing-vision-problems/95-787d0be3-0e82-486e-b78e-a07bc645f8d4"
-cdnAmpUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/health/electronic-devices-causing-vision-problems/95-787d0be3-0e82-486e-b78e-a07bc645f8d4"
+webUrl: "https://www.wkyc.com/article/news/health/electronic-devices-causing-vision-problems/95-787d0be3-0e82-486e-b78e-a07bc645f8d4"
+ampWebUrl: "https://www.wkyc.com/amp/article/news/health/electronic-devices-causing-vision-problems/95-787d0be3-0e82-486e-b78e-a07bc645f8d4"
+cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/health/electronic-devices-causing-vision-problems/95-787d0be3-0e82-486e-b78e-a07bc645f8d4"
 type: article
 quality: 44
 heat: 44

@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning in Finance"
 excerpt: "Learn Reinforcement Learning in Finance from New York University Tandon School of Engineering. This course aims at introducing the fundamental concepts of Reinforcement Learning (RL), and develop use cases for applications of RL for option ..."
-sourceUrl: https://www.coursera.org/learn/reinforcement-learning-in-finance
+webUrl: https://www.coursera.org/learn/reinforcement-learning-in-finance
 type: course
 price: Free+
 length: 21 hours

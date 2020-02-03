@@ -3,9 +3,9 @@ category: news
 title: "From darkness to light: In conversation with Ambassador of rural art Haku Shah"
 excerpt: "(Below, from left) Shah’s Kabir; Gandhi Recognition of his philosophy came when Shah was invited by art historian ... Shah sought and found the harmonious relationship between object, technique and concept. The catalogue quotes him saying, “Simply because an object is common in the social sense, it does not mean that it is ordinary, not ..."
 publishedDateTime: 2020-01-19T06:33:00Z
-sourceUrl: "https://www.newindianexpress.com/magazine/2020/jan/19/from-darkness-to-light-in-conversation-with-ambassador-of-rural-art-haku-shah-2090215.html"
-ampUrl: "https://www.newindianexpress.com/magazine/2020/jan/19/from-darkness-to-light-in-conversation-with-ambassador-of-rural-art-haku-shah-2090215.amp"
-cdnAmpUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/magazine/2020/jan/19/from-darkness-to-light-in-conversation-with-ambassador-of-rural-art-haku-shah-2090215.amp"
+webUrl: "https://www.newindianexpress.com/magazine/2020/jan/19/from-darkness-to-light-in-conversation-with-ambassador-of-rural-art-haku-shah-2090215.html"
+ampWebUrl: "https://www.newindianexpress.com/magazine/2020/jan/19/from-darkness-to-light-in-conversation-with-ambassador-of-rural-art-haku-shah-2090215.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/magazine/2020/jan/19/from-darkness-to-light-in-conversation-with-ambassador-of-rural-art-haku-shah-2090215.amp"
 type: article
 quality: 40
 heat: 40

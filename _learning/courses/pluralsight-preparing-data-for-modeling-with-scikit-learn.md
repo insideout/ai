@@ -2,7 +2,7 @@
 title: "Preparing Data for Modeling with scikit-learn"
 excerpt: "This course covers important steps in the pre-processing of data, including standardization, normalization, novelty and outlier detection, pre-processing image and text data, as well as explicit kernel approximations such as the RBF and Nystroem methods.
 "
-sourceUrl: https://www.pluralsight.com/courses/preparing-data-modeling-scikit-learn
+webUrl: https://www.pluralsight.com/courses/preparing-data-modeling-scikit-learn
 type: course
 price: $$
 length: 3h 40m

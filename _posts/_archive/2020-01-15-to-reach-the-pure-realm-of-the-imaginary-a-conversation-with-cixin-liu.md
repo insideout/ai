@@ -3,7 +3,7 @@ category: news
 title: "“To Reach the Pure Realm of the Imaginary:” A Conversation with Cixin Liu"
 excerpt: "Or are you excited about translation as a second life, as something gained ... That is a dark vision for technology and for science. It reminds me of “The Machine Stops,” by E. M. Forster. Do you know the story? Oh, yes. I see what you mean. Everyone lives underground inside a hexagonal chamber, like bees in a honeycomb."
 publishedDateTime: 2020-01-15T23:13:00Z
-sourceUrl: "https://daily.jstor.org/to-reach-the-pure-realm-of-the-imaginary-a-conversation-with-cixin-liu/"
+webUrl: "https://daily.jstor.org/to-reach-the-pure-realm-of-the-imaginary-a-conversation-with-cixin-liu/"
 type: article
 quality: 23
 heat: 23

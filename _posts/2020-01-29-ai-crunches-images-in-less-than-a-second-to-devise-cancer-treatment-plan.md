@@ -3,7 +3,7 @@ category: news
 title: "AI crunches images in less than a second to devise cancer treatment plan"
 excerpt: "This improves the efficiency dramatically,” Steve Jiang, PhD, director of UT Southwestern’s Medical Artificial Intelligence and Automation Lab, said in a Jan. 27 announcement. Jiang and colleagues noted that cancer patients can sometimes wait several days to a week to begin receiving radiation therapy. However, past studies have found that ..."
 publishedDateTime: 2020-01-29T22:12:00Z
-sourceUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/ai-images-cancer-treatment-plan"
+webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/ai-images-cancer-treatment-plan"
 type: article
 quality: 38
 heat: 38

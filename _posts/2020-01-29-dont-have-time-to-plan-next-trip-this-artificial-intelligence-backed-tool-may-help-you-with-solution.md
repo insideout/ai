@@ -3,9 +3,9 @@ category: news
 title: "Don’t have time to plan next trip? This artificial intelligence backed tool may help you with solution"
 excerpt: "Are you finding it difficult to spare time to plan your next visit? Don’t worry, this technological advancement would help you in creating the appropriately customised itinerary according to your preference. Are you finding it difficult to spare time to plan your next visit? Don’t worry, this technological advancement would help you in ..."
 publishedDateTime: 2020-01-29T13:53:00Z
-sourceUrl: "https://www.financialexpress.com/industry/dont-have-time-to-plan-next-trip-this-artificial-intelligence-backed-tool-may-help-you-with-solution/1839153/"
-ampUrl: "https://www.financialexpress.com/industry/dont-have-time-to-plan-next-trip-this-artificial-intelligence-backed-tool-may-help-you-with-solution/1839153/lite/"
-cdnAmpUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/dont-have-time-to-plan-next-trip-this-artificial-intelligence-backed-tool-may-help-you-with-solution/1839153/lite/"
+webUrl: "https://www.financialexpress.com/industry/dont-have-time-to-plan-next-trip-this-artificial-intelligence-backed-tool-may-help-you-with-solution/1839153/"
+ampWebUrl: "https://www.financialexpress.com/industry/dont-have-time-to-plan-next-trip-this-artificial-intelligence-backed-tool-may-help-you-with-solution/1839153/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/dont-have-time-to-plan-next-trip-this-artificial-intelligence-backed-tool-may-help-you-with-solution/1839153/lite/"
 type: article
 quality: 21
 heat: 21

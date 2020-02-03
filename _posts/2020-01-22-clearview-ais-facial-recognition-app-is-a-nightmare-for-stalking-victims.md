@@ -3,9 +3,9 @@ category: news
 title: "Clearview AI’s facial-recognition app is a nightmare for stalking victims"
 excerpt: "The latest example of Silicon Valley’s hubris is the facial-recognition app Clearview AI. The small startup’s app is so powerful that someone could walk up to you on the street, snap your photo, and quickly find out your name, address, and phone number ..."
 publishedDateTime: 2020-01-22T17:41:00Z
-sourceUrl: "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/"
-ampUrl: "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp"
-cdnAmpUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp"
+webUrl: "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/"
+ampWebUrl: "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp"
 type: article
 quality: 88
 heat: 88

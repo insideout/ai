@@ -3,9 +3,9 @@ category: news
 title: "Worried About Privacy at Home? There's an AI for That"
 excerpt: "so the AI can run on much slower chips. The trade-off is a less ambitious bot: A voice recognition AI for a coffee maker only needs to recognize about 200 words, all related to the task of brewing java. I don't need light switches that tell dad jokes."
 publishedDateTime: 2020-01-21T06:00:00Z
-sourceUrl: "https://www.wired.com/story/edge-ai-appliances-privacy-at-home/"
-ampUrl: "https://www.wired.com/story/edge-ai-appliances-privacy-at-home/amp"
-cdnAmpUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/edge-ai-appliances-privacy-at-home/amp"
+webUrl: "https://www.wired.com/story/edge-ai-appliances-privacy-at-home/"
+ampWebUrl: "https://www.wired.com/story/edge-ai-appliances-privacy-at-home/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/edge-ai-appliances-privacy-at-home/amp"
 type: article
 quality: 189
 heat: 189

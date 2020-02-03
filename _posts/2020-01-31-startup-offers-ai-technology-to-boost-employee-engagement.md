@@ -3,9 +3,9 @@ category: news
 title: "Startup offers AI technology to boost employee engagement"
 excerpt: "Describing it as similar to Alexa or Siri but geared toward human resources, Carolyn Peer said her company's product can help businesses measure and improve employee engagement and performance. Peer co-founded Humaxa in late 2017 after spending some two decades in the HR tech industry."
 publishedDateTime: 2020-01-31T20:01:00Z
-sourceUrl: "https://www.bizjournals.com/sacramento/news/2020/01/31/startup-offers-ai-technology-to-boost-employee.html"
-ampUrl: "https://www.bizjournals.com/sacramento/news/2020/01/31/startup-offers-ai-technology-to-boost-employee.amp.html"
-cdnAmpUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sacramento/news/2020/01/31/startup-offers-ai-technology-to-boost-employee.amp.html"
+webUrl: "https://www.bizjournals.com/sacramento/news/2020/01/31/startup-offers-ai-technology-to-boost-employee.html"
+ampWebUrl: "https://www.bizjournals.com/sacramento/news/2020/01/31/startup-offers-ai-technology-to-boost-employee.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sacramento/news/2020/01/31/startup-offers-ai-technology-to-boost-employee.amp.html"
 type: article
 quality: 57
 heat: 57

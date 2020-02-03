@@ -3,7 +3,7 @@ category: news
 title: "Evolution of circuits for machine learning"
 excerpt: "But by analysing the enormous digital data sets that are currently available, AI techniques such as machine learning can now teach computers to make sensible predictions. One of the most basic operations that machine-learning algorithms can carry out when provided with a large set of inputs (such as the age of a car and how many kilometres it ..."
 publishedDateTime: 2020-01-16T10:18:00Z
-sourceUrl: "https://www.nature.com/articles/d41586-020-00002-x"
+webUrl: "https://www.nature.com/articles/d41586-020-00002-x"
 type: article
 quality: 39
 heat: 39

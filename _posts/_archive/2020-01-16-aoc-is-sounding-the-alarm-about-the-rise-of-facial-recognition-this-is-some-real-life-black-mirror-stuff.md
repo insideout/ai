@@ -3,9 +3,9 @@ category: news
 title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
 excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
 publishedDateTime: 2020-01-16T01:11:00Z
-sourceUrl: "https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1/"
-ampUrl: "https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1"
-cdnAmpUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1"
+webUrl: "https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1/"
+ampWebUrl: "https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1"
+cdnAmpWebUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1"
 type: article
 quality: 70
 heat: 80
@@ -33,7 +33,7 @@ related:
   - title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
     excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
     publishedDateTime: 2020-01-17T22:05:00Z
-    sourceUrl: "https://www.commercialintegrator.com/podcast/facial-detection-episode-88/"
+    webUrl: "https://www.commercialintegrator.com/podcast/facial-detection-episode-88/"
     type: article
     provider:
       name: Commercial Integrator

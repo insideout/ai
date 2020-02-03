@@ -3,9 +3,9 @@ category: news
 title: "Amazon’s AI automatically dubs videos into other languages"
 excerpt: "In a paper published this week on the preprint server Arxiv.org, researchers from the tech giant detailed a novel “speech-to-speech” pipeline that taps AI to ... across languages and follows a “fluency-based” rather than a content-based criterion. It comprises several parts, including a Transformer-based machine translation bit trained ..."
 publishedDateTime: 2020-01-24T18:23:00Z
-sourceUrl: "https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/"
-ampUrl: "https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/"
+webUrl: "https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/"
+ampWebUrl: "https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/"
 type: article
 quality: 89
 heat: 89

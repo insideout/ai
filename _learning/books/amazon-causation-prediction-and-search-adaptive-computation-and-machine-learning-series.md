@@ -1,7 +1,7 @@
 ---
 title: "Causation, Prediction, and Search (Adaptive Computation and Machine Learning series)"
 excerpt: "The authors address the assumptions and methods that allow us to turn observations into causal knowledge, and use even incomplete causal knowledge in planning and prediction to influence and control our environment."
-sourceUrl: https://www.amazon.com/Causation-Prediction-Adaptive-Computation-Learning/dp/0262527928/
+webUrl: https://www.amazon.com/Causation-Prediction-Adaptive-Computation-Learning/dp/0262527928/
 type: book
 price: $70.00
 length: 

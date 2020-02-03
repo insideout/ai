@@ -3,9 +3,9 @@ category: news
 title: "Karnataka kids to use artificial intelligence labs"
 excerpt: "BENGALURU: Children in 10 schools across Karnataka will soon be able to use artificial intelligence to tackle some of the most pressing issues of our time such as climate change, mental illnesses and drug addiction. The Bengaluru-based 1M1B (1 Million for 1 Billion) a UN-accredited non-profit that works on social innovations and future skills ..."
 publishedDateTime: 2020-01-31T01:41:00Z
-sourceUrl: "https://www.newindianexpress.com/states/karnataka/2020/jan/31/karnataka-kids-to-use-artificial-intelligence-labs-2096972.html"
-ampUrl: "https://www.newindianexpress.com/states/karnataka/2020/jan/31/karnataka-kids-to-use-artificial-intelligence-labs-2096972.amp"
-cdnAmpUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/karnataka/2020/jan/31/karnataka-kids-to-use-artificial-intelligence-labs-2096972.amp"
+webUrl: "https://www.newindianexpress.com/states/karnataka/2020/jan/31/karnataka-kids-to-use-artificial-intelligence-labs-2096972.html"
+ampWebUrl: "https://www.newindianexpress.com/states/karnataka/2020/jan/31/karnataka-kids-to-use-artificial-intelligence-labs-2096972.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/karnataka/2020/jan/31/karnataka-kids-to-use-artificial-intelligence-labs-2096972.amp"
 type: article
 quality: 57
 heat: 57

@@ -1,7 +1,7 @@
 ---
 title: "Building Sentiment Analysis Systems in Python"
 excerpt: "Sentiment Analysis has become increasingly important as more opinions are expressed online, in unstructured form. This course covers rule-based and ML-based approaches to extracting sentiment from opinions, including VADER, Sentiwordnet, and more."
-sourceUrl: https://www.pluralsight.com/courses/building-sentiment-analysis-systems-python
+webUrl: https://www.pluralsight.com/courses/building-sentiment-analysis-systems-python
 type: course
 price: $$
 length: 2h 31m

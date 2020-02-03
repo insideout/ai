@@ -3,7 +3,7 @@ category: news
 title: "The Importance of Reliability Verification in AI/ML Processors"
 excerpt: "Figure 1. Block diagram for an ASIC AI chip design. These companies claim various benefits from the use of these ASICs, such as better performance, more operations per cycle, a simpler and more deterministic design compared to a CPU or GPU, area savings (due to the exclusion of complex constructs and mechanisms used in a CPU), lower power usage ..."
 publishedDateTime: 2020-01-21T13:46:00Z
-sourceUrl: "https://www.allaboutcircuits.com/industry-articles/importance-reliability-verification-in-ai-ml-chips-processors/"
+webUrl: "https://www.allaboutcircuits.com/industry-articles/importance-reliability-verification-in-ai-ml-chips-processors/"
 type: article
 quality: 39
 heat: 39

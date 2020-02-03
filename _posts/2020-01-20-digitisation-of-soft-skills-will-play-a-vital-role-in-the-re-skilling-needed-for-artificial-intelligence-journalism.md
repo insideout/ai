@@ -3,7 +3,7 @@ category: news
 title: "‘Digitisation of soft skills’ will play a vital role in the re-skilling needed for Artificial Intelligence journalism"
 excerpt: "Also, Artificial Intelligence journalism will provide us with an opportunity and challenge, to democratise the role of communicator — where, everyone and anyone, can transmit their messages to a global community. AI journalism media communicators cannot rely on the old ways to secure information, or ignore the new 4IR tools such as ..."
 publishedDateTime: 2020-01-20T17:18:00Z
-sourceUrl: "https://www.gulftoday.ae/opinion/2020/01/20/digitisation-of-soft-skills-will-play-a-vital-role"
+webUrl: "https://www.gulftoday.ae/opinion/2020/01/20/digitisation-of-soft-skills-will-play-a-vital-role"
 type: article
 quality: 16
 heat: 16

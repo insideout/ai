@@ -3,9 +3,9 @@ category: news
 title: "Killer robots must have human control, experts warn"
 excerpt: "Countries are rapidly developing 'killer robots' - machines with artificial intelligence that independently kill - but are moving at a snail's pace on agreeing global rules over their use in future wars, warn technology and human rights experts. From drones and missiles to tanks and submarines, semi-autonomous weapons systems have been used for ..."
 publishedDateTime: 2020-01-17T15:14:00Z
-sourceUrl: "https://www.dailymail.co.uk/news/article-7899479/Killer-robots-human-control-experts-warn.html"
-ampUrl: "https://www.dailymail.co.uk/news/article-7899479/amp/Killer-robots-human-control-experts-warn.html"
-cdnAmpUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7899479/amp/Killer-robots-human-control-experts-warn.html"
+webUrl: "https://www.dailymail.co.uk/news/article-7899479/Killer-robots-human-control-experts-warn.html"
+ampWebUrl: "https://www.dailymail.co.uk/news/article-7899479/amp/Killer-robots-human-control-experts-warn.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7899479/amp/Killer-robots-human-control-experts-warn.html"
 type: article
 quality: 59
 heat: -1
@@ -29,9 +29,9 @@ related:
   - title: "Nations dawdle on agreeing rules to control 'killer robots' in future wars"
     excerpt: "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,"
     publishedDateTime: 2020-01-17T15:45:00Z
-    sourceUrl: "https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151"
-    ampUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZG151"
-    cdnAmpUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151"
+    webUrl: "https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZG151"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151"
     type: article
     provider:
       name: Reuters
@@ -44,7 +44,7 @@ related:
   - title: "‘Rise of the killer robots: the future of war’"
     excerpt: "Sir , – Laura Nolan deserves great credit for protesting Google’s role in the development of the US military’s artificial intelligence project Maven and for lobbying for a United Nations treaty to ban autonomous weapons (Joe Humphreys, “Rise of the killer robots: The future of war”, January 16th). Ms Nolan says she thinks that with ..."
     publishedDateTime: 2020-01-20T00:30:00Z
-    sourceUrl: "https://www.irishtimes.com/opinion/letters/rise-of-the-killer-robots-the-future-of-war-1.4144365"
+    webUrl: "https://www.irishtimes.com/opinion/letters/rise-of-the-killer-robots-the-future-of-war-1.4144365"
     type: article
     provider:
       name: The Irish Times
@@ -57,7 +57,7 @@ related:
   - title: "Nations dawdle on agreeing rules to control ‘killer robots’ in future wars"
     excerpt: "NAIROBI: Countries are rapidly developing \"killer robots\" – machines with artificial intelligence (AI) that independently kill – but are moving at a snail's pace on agreeing global rules over their use in future wars, warn technology and human rights experts. From drones and missiles to tanks and submarines, semi-autonomous weapons systems ..."
     publishedDateTime: 2020-01-19T22:35:00Z
-    sourceUrl: "https://www.thestar.com.my/tech/tech-news/2020/01/20/nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars"
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/01/20/nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars"
     type: article
     provider:
       name: The Star

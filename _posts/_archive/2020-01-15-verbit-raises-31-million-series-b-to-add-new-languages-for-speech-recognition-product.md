@@ -3,7 +3,7 @@ category: news
 title: "Verbit Raises $31 Million Series B to Add New Languages for Speech Recognition Product"
 excerpt: "Verbit, a Tel Aviv, Israel-based provider of classroom transcription and captioning services through speech recognition, has raised a $31 million Series B round. Growth equity firm Stripes led the round. Viola Ventures, Vertex Ventures, HV Ventures ..."
 publishedDateTime: 2020-01-15T00:00:00Z
-sourceUrl: "https://www.edsurge.com/news/2020-01-15-verbit-raises-31-million-series-b-to-add-new-languages-for-speech-recognition-product"
+webUrl: "https://www.edsurge.com/news/2020-01-15-verbit-raises-31-million-series-b-to-add-new-languages-for-speech-recognition-product"
 type: article
 quality: 46
 heat: 46

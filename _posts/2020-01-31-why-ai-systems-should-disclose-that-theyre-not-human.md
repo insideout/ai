@@ -3,7 +3,7 @@ category: news
 title: "Why AI systems should disclose that they’re not human"
 excerpt: "We are nearing a new age of ubiquitous AI. Between your smartphone, computer, car, smart home, and social media, you might interact with some sort of automated, intelligent system dozens of times every day. For most of your interactions with AI, it will be obviously and intentionally clear that the text you read, the voice you hear, or the face ..."
 publishedDateTime: 2020-01-31T13:00:00Z
-sourceUrl: "https://www.fastcompany.com/90458448/why-ai-systems-should-disclose-that-theyre-not-human"
+webUrl: "https://www.fastcompany.com/90458448/why-ai-systems-should-disclose-that-theyre-not-human"
 type: article
 quality: 39
 heat: 39

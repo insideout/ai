@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with AI using IBM Watson"
 excerpt: "Learn Getting Started with AI using IBM Watson from IBM. In this course you will learn how to quickly and easily get started with Artificial Intelligence using IBM Watson. You will understand how Watson works, become familiar with its use cases ..."
-sourceUrl: https://www.coursera.org/learn/ai-with-ibm-watson
+webUrl: https://www.coursera.org/learn/ai-with-ibm-watson
 type: course
 price: Free+
 length: 8 hours

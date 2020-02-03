@@ -1,7 +1,7 @@
 ---
 title: "Visual Perception for Self-Driving Cars"
 excerpt: "Learn Visual Perception for Self-Driving Cars from University of Toronto. Welcome to Visual Perception for Self-Driving Cars, the third course in University of Toronto’s Self-Driving Cars Specialization.  This course will introduce you to the ..."
-sourceUrl: https://www.coursera.org/learn/visual-perception-self-driving-cars
+webUrl: https://www.coursera.org/learn/visual-perception-self-driving-cars
 type: course
 price: Free+
 length: 20 hours

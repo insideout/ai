@@ -1,7 +1,7 @@
 ---
 title: "The Book of Why: The New Science of Cause and Effect"
 excerpt: "A Turing Award-winning computer scientist and statistician shows how understanding causality has revolutionized science and will revolutionize artificial intelligence"
-sourceUrl: https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/
+webUrl: https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/
 type: book
 price: $19.16
 length: 

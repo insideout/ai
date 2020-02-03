@@ -1,7 +1,7 @@
 ---
 title: "AI Superpowers: China, Silicon Valley, and the New World Order"
 excerpt: "Dr. Kai-Fu Lee—one of the world’s most respected experts on AI and China—reveals that China has suddenly caught up to the US at an astonishingly rapid and unexpected pace."
-sourceUrl: https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/
+webUrl: https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/
 type: book
 price: $12.99
 length: 

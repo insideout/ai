@@ -3,7 +3,7 @@ category: news
 title: "Three Steps to Succeed with your Machine Learning Project"
 excerpt: "Success in digital transformation through the implementation of AI - and Machine Learning specifically - largely depends on good planning and timely management of expectations. Mistakes made at management level can have serious consequences. But is there a simple way to integrate Machine Learning into business processes, avoid pitfalls ..."
 publishedDateTime: 2020-01-29T13:27:00Z
-sourceUrl: "https://www.computerworld.com/resources/197372/three-steps-to-succeed-with-your-machine-learning-project"
+webUrl: "https://www.computerworld.com/resources/197372/three-steps-to-succeed-with-your-machine-learning-project"
 type: article
 quality: 39
 heat: 39
@@ -27,7 +27,7 @@ related:
   - title: "4 steps to getting practical about scaling AI for success"
     excerpt: "To mitigate this risk, we use an AI start-to-end roadmap with our clients to define an AI use case's route to live. It lays the path for how to multiply value from the use case through continuous engineering, optimization and the extension of the feature to new use cases. There’s even an argument that the POC will fall away entirely for ..."
     publishedDateTime: 2020-01-30T20:45:00Z
-    sourceUrl: "https://www.healthdatamanagement.com/opinion/4-steps-to-getting-practical-about-scaling-ai-for-success"
+    webUrl: "https://www.healthdatamanagement.com/opinion/4-steps-to-getting-practical-about-scaling-ai-for-success"
     type: article
     provider:
       name: Health Data Management

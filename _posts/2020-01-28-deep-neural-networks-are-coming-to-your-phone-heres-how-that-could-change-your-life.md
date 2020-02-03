@@ -3,7 +3,7 @@ category: news
 title: "Deep neural networks are coming to your phone. Here’s how that could change your life."
 excerpt: "How does Spotify choose songs for my “Discover Weekly” playlist? Why is Gmail’s spam filter so effective? The answer is a type of artificial intelligence known as deep neural networks. These networks are very good at recognizing and classifying data, but they tend to take a lot of computing power and memory to run—too much to work ..."
 publishedDateTime: 2020-01-28T21:35:00Z
-sourceUrl: "https://news.northeastern.edu/2020/01/28/deep-neural-networks-are-coming-to-your-phone-heres-how-that-could-change-your-life/"
+webUrl: "https://news.northeastern.edu/2020/01/28/deep-neural-networks-are-coming-to-your-phone-heres-how-that-could-change-your-life/"
 type: article
 quality: 31
 heat: 31

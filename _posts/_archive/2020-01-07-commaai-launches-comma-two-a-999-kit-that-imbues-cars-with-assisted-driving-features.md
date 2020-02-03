@@ -3,9 +3,9 @@ category: news
 title: "Comma.ai launches Comma Two, a $999 kit that imbues cars with assisted driving features"
 excerpt: "What hasn’t changed is that OpenPilot falls under the category of level 2 self-driving as defined by the Society of Automotive Engineers, meaning the human at the wheel must be driving and constantly supervising the automated features. That’s as opposed to level 4 systems from Waymo, Baidu, Uber, and others that allow drivers to turn their ..."
 publishedDateTime: 2020-01-07T21:18:00Z
-sourceUrl: https://venturebeat.com/2020/01/07/comma-ai-launches-comma-two-a-999-kit-that-imbues-cars-with-assisted-driving-features/
-ampUrl: https://venturebeat.com/2020/01/07/comma-ai-launches-comma-two-a-999-kit-that-imbues-cars-with-assisted-driving-features/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/comma-ai-launches-comma-two-a-999-kit-that-imbues-cars-with-assisted-driving-features/amp/
+webUrl: https://venturebeat.com/2020/01/07/comma-ai-launches-comma-two-a-999-kit-that-imbues-cars-with-assisted-driving-features/
+ampWebUrl: https://venturebeat.com/2020/01/07/comma-ai-launches-comma-two-a-999-kit-that-imbues-cars-with-assisted-driving-features/amp/
+cdnAmpWebUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/comma-ai-launches-comma-two-a-999-kit-that-imbues-cars-with-assisted-driving-features/amp/
 type: article
 quality: 81
 heat: -1
@@ -33,9 +33,9 @@ related:
   - title: "Comma Ai continues to impress with its aftermarket driver assistance tech"
     excerpt: "Now with more driver monitoring. Way back in 2016 I flew out to Las Vegas to check out Comma Ai's driver's assistance system crammed into an Acura. At the time, it was being developed as a self-driving add-on for vehicles. But times have changed and nearly every automaker and startup has since dialed down their autonomous expectations."
     publishedDateTime: 2020-01-13T19:00:00Z
-    sourceUrl: https://www.engadget.com/2020/01/13/comma-two-openpilot-hands-on/
-    ampUrl: https://www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/
+    webUrl: https://www.engadget.com/2020/01/13/comma-two-openpilot-hands-on/
+    ampWebUrl: https://www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/
+    cdnAmpWebUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/
     type: article
     provider:
       name: Engadget

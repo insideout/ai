@@ -1,7 +1,7 @@
 ---
 title: "Freight’s new autonomous journey"
 excerpt: "Are self-driving trucks on their way? In this keynote, Xiaodi Hou - President and CTO of TuSimple - is going to show us what the future of large scale logistics looks like."
-sourceUrl: https://vimeo.com/371374786
+webUrl: https://vimeo.com/371374786
 type: video
 price: 
 length: 

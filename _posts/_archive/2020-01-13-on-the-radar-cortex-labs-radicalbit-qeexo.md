@@ -3,7 +3,7 @@ category: news
 title: "On the Radar: Cortex Labs, RadicalBit, Qeexo"
 excerpt: "Cortex Labs helps organizations put machine learning models into production on the cloud, much like AWS SageMaker. Its software as a service (SaaS) offering raises the abstraction level on machine learning deployment, thereby reducing the need for data ..."
 publishedDateTime: 2020-01-13T00:00:00Z
-sourceUrl: "https://www.datanami.com/2020/01/13/on-the-radar-cortex-labs-radicalbit-qeexo/"
+webUrl: "https://www.datanami.com/2020/01/13/on-the-radar-cortex-labs-radicalbit-qeexo/"
 type: article
 quality: 24
 heat: 24

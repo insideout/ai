@@ -3,9 +3,9 @@ category: news
 title: "U.S. outlines strong support for self-driving cars at CES"
 excerpt: "LAS VEGAS: The Trump administration on Wednesday signaled strong support for self-driving vehicles as it released new guidance from federal agencies at the annual CES tech conference. U.S ..."
 publishedDateTime: 2020-01-09T10:31:00Z
-sourceUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/cars/u-s-outlines-strong-support-for-self-driving-cars-at-ces/73166646"
-ampUrl: "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/cars/u-s-outlines-strong-support-for-self-driving-cars-at-ces/73166646"
-cdnAmpUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/cars/u-s-outlines-strong-support-for-self-driving-cars-at-ces/73166646"
+webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/cars/u-s-outlines-strong-support-for-self-driving-cars-at-ces/73166646"
+ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/cars/u-s-outlines-strong-support-for-self-driving-cars-at-ces/73166646"
+cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/cars/u-s-outlines-strong-support-for-self-driving-cars-at-ces/73166646"
 type: article
 quality: 24
 heat: 24
@@ -23,7 +23,7 @@ related:
   - title: "Behind the Scenes With Aptiv’s Self-Driving Car Nerve Center at CES 2020"
     excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading ..."
     publishedDateTime: 2020-01-07T18:24:00Z
-    sourceUrl: "https://www.extremetech.com/extreme/304158-behind-the-scenes-wtih-aptivs-self-driving-car-nerve-center-at-ces-2020"
+    webUrl: "https://www.extremetech.com/extreme/304158-behind-the-scenes-wtih-aptivs-self-driving-car-nerve-center-at-ces-2020"
     type: article
     provider:
       name: ExtremeTech

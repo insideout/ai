@@ -3,9 +3,9 @@ category: news
 title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
 excerpt: "Google-owned DeepMind has already used AI to read eye scans and spot neck cancer. Artificial Intelligence (AI) powered by Google's DeepMind algorithm may be more accurate at spotting breast cancer ..."
 publishedDateTime: 2020-01-02T13:14:00Z
-sourceUrl: "https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
-ampUrl: "https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
-cdnAmpUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
+webUrl: "https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
 type: article
 quality: 89
 heat: 99
@@ -33,9 +33,9 @@ related:
   - title: "Google's AI is better at breast cancer screening than human experts, study claims"
     excerpt: "You may remember Google's DeepMind AI being really good at Go, but the company's also been putting it to work on a potentially life-saving mission — breast cancer screening. According to Google's new study, published in Nature, the company's AI model was able to spot breast cancer in mammograms with \"greater accuracy, fewer false positives ..."
     publishedDateTime: 2020-01-02T09:35:00Z
-    sourceUrl: "https://mashable.com/article/google-ai-breast-cancer/"
-    ampUrl: "https://mashable.com/article/google-ai-breast-cancer.amp"
-    cdnAmpUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-ai-breast-cancer.amp"
+    webUrl: "https://mashable.com/article/google-ai-breast-cancer/"
+    ampWebUrl: "https://mashable.com/article/google-ai-breast-cancer.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-ai-breast-cancer.amp"
     type: article
     provider:
       name: Mashable

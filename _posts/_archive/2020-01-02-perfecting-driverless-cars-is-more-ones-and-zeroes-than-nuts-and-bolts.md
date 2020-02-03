@@ -3,7 +3,7 @@ category: news
 title: "Perfecting Driverless Cars Is More Ones And Zeroes Than Nuts And Bolts"
 excerpt: "Driverless semi-trucks could be sharing Florida highways ... The ability to manage large fleets involves artificial intelligence and data — tools that are keys to a future of self-driving fleets. Often even before the first rain falls in a hurricane ..."
 publishedDateTime: 2020-01-02T18:35:00Z
-sourceUrl: https://www.wlrn.org/post/perfecting-driverless-cars-more-ones-and-zeroes-nuts-and-bolts
+webUrl: https://www.wlrn.org/post/perfecting-driverless-cars-more-ones-and-zeroes-nuts-and-bolts
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Gridlock solutions envisioned with driverless cars, flying taxis, and delivery drones"
     excerpt: "“The challenge is that AV and AI (artificial intelligence) is complicated to implement in urban environments,” said Bernard Schmidt of the authority’s AV division. “There is human bias in programming the computers. If I only provide a picture of a ..."
     publishedDateTime: 2020-01-03T23:26:00Z
-    sourceUrl: https://www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones
-    ampUrl: https://www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones/amp
-    cdnAmpUrl: https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones/amp
+    webUrl: https://www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones
+    ampWebUrl: https://www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones/amp
+    cdnAmpWebUrl: https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones/amp
     type: article
     provider:
       name: Boston.com

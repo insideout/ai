@@ -3,7 +3,7 @@ category: news
 title: "AI to change VN education in the future: experts"
 excerpt: "The ‘virtual teacher’ used in teaching geography has surprised many teachers with its high effectiveness. The tool to build a ‘virtual teacher’ is from IBM Watson. This is software using AI developed by IBM so as to give answers to questions in natural languages. One doesn’t have to have deep knowledge about programming to be able to ..."
 publishedDateTime: 2020-02-02T07:51:00Z
-sourceUrl: "https://vietnamnet.vn/en/society/ai-to-change-education-in-the-future-experts-612523.html"
+webUrl: "https://vietnamnet.vn/en/society/ai-to-change-education-in-the-future-experts-612523.html"
 type: article
 quality: 39
 heat: 39

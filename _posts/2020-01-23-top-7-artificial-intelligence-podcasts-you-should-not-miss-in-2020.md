@@ -3,7 +3,7 @@ category: news
 title: "Top 7 Artificial Intelligence Podcasts You Should Not Miss In 2020"
 excerpt: "Hosted by Lex Fridman’s podcast covers a broader range of use cases of AI right from robotics to neuroscience and physics ... in transforming human experiences and creating new business models which had never existed before. Artificial Intelligence In Industry, From Daniel Fraggella Started in 2017, the Artificial Intelligence In Industry ..."
 publishedDateTime: 2020-01-23T04:35:00Z
-sourceUrl: "https://analyticsindiamag.com/top-7-artificial-intelligence-podcasts-you-should-not-miss-in-2020/"
+webUrl: "https://analyticsindiamag.com/top-7-artificial-intelligence-podcasts-you-should-not-miss-in-2020/"
 type: article
 quality: 39
 heat: 39

@@ -3,7 +3,7 @@ category: news
 title: "The Four Components of Trusted Artificial Intelligence"
 excerpt: "Trust and transparency are at the forefront of conversations related to artificial intelligence(AI) these days. While we intuitively understand the idea of trusting AI agents, we are still trying to figure out the specific mechanics to translate trust and transparency into programmatic constructs. After all, what does trust means in the context ..."
 publishedDateTime: 2020-01-30T14:44:00Z
-sourceUrl: "https://towardsdatascience.com/the-four-components-of-trusted-artificial-intelligence-14a1e36562ea"
+webUrl: "https://towardsdatascience.com/the-four-components-of-trusted-artificial-intelligence-14a1e36562ea"
 type: article
 quality: 39
 heat: 39

@@ -3,7 +3,7 @@ category: news
 title: "Uber Creates Generative Teaching Networks to Better Train Deep Neural Networks"
 excerpt: "The generator and the learner networks are trained with meta-learning via nested optimization that consists of inner and outer training loops. In the GTN model, the generator produces completely new artificial data that a never-seen-before learner neural network (with a randomly sampled architecture and weight initialization) trains on for a ..."
 publishedDateTime: 2020-01-06T14:33:00Z
-sourceUrl: https://towardsdatascience.com/uber-creates-generative-teaching-networks-to-better-train-deep-neural-networks-cab818a735fd
+webUrl: https://towardsdatascience.com/uber-creates-generative-teaching-networks-to-better-train-deep-neural-networks-cab818a735fd
 type: article
 quality: 50
 heat: 50

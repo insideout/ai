@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning in Computer Vision"
 excerpt: "Learn Deep Learning in Computer Vision from National Research University Higher School of Economics. Deep learning added a huge boost to the already rapidly developing field of computer vision. With deep learning, a lot of new applications of ..."
-sourceUrl: https://www.coursera.org/learn/deep-learning-in-computer-vision
+webUrl: https://www.coursera.org/learn/deep-learning-in-computer-vision
 type: course
 price: Free+
 length: 25 hours

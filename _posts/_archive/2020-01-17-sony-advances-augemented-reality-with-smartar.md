@@ -3,7 +3,7 @@ category: news
 title: "Sony advances augemented reality with SmartAR"
 excerpt: "SmartAR, as Sony refers to it, is capable of identifying and tracking objects at a high rate of speed using a hybrid technology which combines advanced object recognition with matching and image tracking technology. Probably the most impressive part of SmartAR is in its ability to identify 3D structures that not only allows for virtual images ..."
 publishedDateTime: 2020-01-17T22:53:00Z
-sourceUrl: "https://www.geek.com/news/sony-advances-augemented-reality-with-smartar-1382377/"
+webUrl: "https://www.geek.com/news/sony-advances-augemented-reality-with-smartar-1382377/"
 type: article
 quality: 54
 heat: 54

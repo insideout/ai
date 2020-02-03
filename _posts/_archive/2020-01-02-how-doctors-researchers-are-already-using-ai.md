@@ -3,7 +3,7 @@ category: news
 title: "How Doctors, Researchers Are Already Using AI"
 excerpt: "Jan. 2, 2020 -- As you've seen, artificial intelligence holds great promise for change in the health care field. In many ways it already is creating that change. Here are some examples of AI's impact today. An Israeli company called Zebra Medical Vision ..."
 publishedDateTime: 2020-01-02T16:23:00Z
-sourceUrl: https://www.webmd.com/special-reports/artificial-intelligence/20200102/how-doctors-researchers-are-already-using-ai
+webUrl: https://www.webmd.com/special-reports/artificial-intelligence/20200102/how-doctors-researchers-are-already-using-ai
 type: article
 quality: 39
 heat: 39

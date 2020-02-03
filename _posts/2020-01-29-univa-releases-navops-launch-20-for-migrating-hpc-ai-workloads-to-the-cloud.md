@@ -3,7 +3,7 @@ category: news
 title: "Univa Releases Navops Launch 2.0 for Migrating HPC & AI Workloads to the Cloud"
 excerpt: "Navops Launch can deploy and manage hybrid and dedicated HPC clusters for thousands of applications, including AI, machine learning, life sciences ... Google Cloud Platform and Microsoft Azure. Automation applets help organizations automate decisions based on real-time cloud and workload-related metrics to scale and manage multi-cloud ..."
 publishedDateTime: 2020-01-29T14:54:00Z
-sourceUrl: "https://insidehpc.com/2020/01/univa-releases-navops-launch-2-0-for-migrating-hpc-ai-workloads-to-the-cloud/"
+webUrl: "https://insidehpc.com/2020/01/univa-releases-navops-launch-2-0-for-migrating-hpc-ai-workloads-to-the-cloud/"
 type: article
 quality: 35
 heat: 35

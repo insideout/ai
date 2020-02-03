@@ -3,7 +3,7 @@ category: news
 title: "AI and drone startup Clobotics bags $10m to expand to Singapore"
 excerpt: "Shanghai- and Seattle-headquartered computer vision technology company Clobotics has raised US$10 million in its pre-series B+ round from Tiger Investment, 36Kr reported on Wednesday. The new funds will be channeled toward research and development as well as the company’s expansion to Singapore. Clobotics closed its US$22 million pre-series B ..."
 publishedDateTime: 2020-01-17T01:54:00Z
-sourceUrl: "https://www.techinasia.com/clobotics-bags-10m-expand-singapore"
+webUrl: "https://www.techinasia.com/clobotics-bags-10m-expand-singapore"
 type: article
 quality: 47
 heat: 47

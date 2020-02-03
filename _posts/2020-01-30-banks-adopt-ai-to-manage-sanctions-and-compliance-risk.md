@@ -3,7 +3,7 @@ category: news
 title: "Banks adopt AI to manage sanctions and compliance risk"
 excerpt: "Bankers at one US bank’s trade finance team say they have met with regulators to discuss how AI can be used to track the movement of goods, for example, by using technology to highlight red flags such as an auto supplier selling food that could suggest some form of fraud or money laundering. There are some thorny exceptions to this system in ..."
 publishedDateTime: 2020-01-30T04:30:00Z
-sourceUrl: "https://www.ft.com/content/98e82234-16a8-11ea-b869-0971bffac109"
+webUrl: "https://www.ft.com/content/98e82234-16a8-11ea-b869-0971bffac109"
 type: article
 quality: 17
 heat: -1
@@ -20,7 +20,7 @@ related:
   - title: "AI takes the pain out of regulatory compliance"
     excerpt: "“In simple terms, a bank needs to ensure it complies with about 15 regulator rule books and regulations such as MIFID II [Markets in Financial Instruments Directive] and GDPR [General Data Protection Regulation] so they don’t get fined,” explains former banker Alex Martin, who spent 20 years working in the fintech industry in ..."
     publishedDateTime: 2020-01-30T06:04:00Z
-    sourceUrl: "https://www.irishtimes.com/business/innovation/ai-takes-the-pain-out-of-regulatory-compliance-1.4154190"
+    webUrl: "https://www.irishtimes.com/business/innovation/ai-takes-the-pain-out-of-regulatory-compliance-1.4154190"
     type: article
     provider:
       name: The Irish Times

@@ -3,7 +3,7 @@ category: news
 title: "Mobility And Innovation: The Deployment Of The 'Olli' Self-Driving Shuttle Starts In Turin"
 excerpt: "/PRNewswire/ -- Olli, a self-driving, electric, 3D-printed shuttle, is an innovative product developed for urban mobility and designed with"
 publishedDateTime: 2020-01-16T13:00:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/mobility-and-innovation-the-deployment-of-the-olli-self-driving-shuttle-starts-in-turin-300987784.html"
+webUrl: "https://www.prnewswire.com/news-releases/mobility-and-innovation-the-deployment-of-the-olli-self-driving-shuttle-starts-in-turin-300987784.html"
 type: article
 quality: 14
 heat: 14

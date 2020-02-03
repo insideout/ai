@@ -3,9 +3,9 @@ category: news
 title: "SenseTime’s AI generates realistic deepfake videos"
 excerpt: "Typically only a scarce number of videos are available to train an AI system, and any method has to cope with large audio-video variations among subjects and the absence of knowledge about scene geometry, materials, lighting, and dynamics, To overcome these challenges, the team’s approach uses the expression parameter space, or the values ..."
 publishedDateTime: 2020-01-17T16:55:00Z
-sourceUrl: "https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/"
-ampUrl: "https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/"
-cdnAmpUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/"
+webUrl: "https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/"
+ampWebUrl: "https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/"
 type: article
 quality: 187
 heat: 187

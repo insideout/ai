@@ -3,7 +3,7 @@ category: news
 title: "AWS Cloud Journey — Analyzing to Deploying Models with Amazon SageMaker (Ep. 1)"
 excerpt: "So, stay tuned for those content in the future. “Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine ..."
 publishedDateTime: 2020-01-02T23:01:00Z
-sourceUrl: "https://medium.com/@kyleake/aws-cloud-journey-analyzing-to-deploying-models-with-amazon-sagemaker-ep-1-61a4b636d618"
+webUrl: "https://medium.com/@kyleake/aws-cloud-journey-analyzing-to-deploying-models-with-amazon-sagemaker-ep-1-61a4b636d618"
 type: article
 quality: 80
 heat: 90
@@ -31,7 +31,7 @@ related:
   - title: "Machine Learning with Amazon SageMaker"
     excerpt: "Luckily — there is! And that is why start talking about AWS SageMaker. This Amazon cloud service was created with only one idea in mind: to put machine learning into the hands of every developer ..."
     publishedDateTime: 2020-01-07T11:53:00Z
-    sourceUrl: "https://medium.com/webstep/machine-learning-with-aws-sagemaker-e846c2070e02"
+    webUrl: "https://medium.com/webstep/machine-learning-with-aws-sagemaker-e846c2070e02"
     type: article
     provider:
       name: Medium

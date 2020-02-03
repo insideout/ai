@@ -3,7 +3,7 @@ category: news
 title: "AI and shopping: Every customer can be a VIP"
 excerpt: "If they do, Trakomatic’s video analytics, AI-powered facial recognition, and intelligent sensors all on the Microsoft Azure cloud do the rest. Consider how it works for a few retail stores in Singapore. Trakomatic’s AI recognizes a VIP as soon as they enter the mall. The solution then sends customers a personalized message like an SMS ..."
 publishedDateTime: 2020-01-13T20:24:00Z
-sourceUrl: "https://news.microsoft.com/apac/features/ai-and-shopping-every-customer-can-be-a-vip/"
+webUrl: "https://news.microsoft.com/apac/features/ai-and-shopping-every-customer-can-be-a-vip/"
 type: article
 quality: 39
 heat: 39

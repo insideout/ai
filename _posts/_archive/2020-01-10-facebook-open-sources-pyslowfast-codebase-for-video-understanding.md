@@ -3,7 +3,7 @@ category: news
 title: "Facebook Open-Sources PySlowFast Codebase for Video Understanding"
 excerpt: "Facebook AI Research (FAIR) has been contributing heavily to video understanding research in recent years. At October’s ICCV 2019 the team unveiled a Python-based codebase, PySlowFast."
 publishedDateTime: 2020-01-10T16:30:00Z
-sourceUrl: "https://medium.com/syncedreview/facebook-open-sources-pyslowfast-codebase-for-video-understanding-89200ff35267"
+webUrl: "https://medium.com/syncedreview/facebook-open-sources-pyslowfast-codebase-for-video-understanding-89200ff35267"
 type: article
 quality: 54
 heat: 54

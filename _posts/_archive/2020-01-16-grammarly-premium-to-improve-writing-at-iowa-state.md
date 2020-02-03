@@ -3,7 +3,7 @@ category: news
 title: "Grammarly Premium to improve writing at Iowa State"
 excerpt: "Grammarly is a technology company that develops a digital writing tool using artificial intelligence and natural language processing to strengthen writing, according to the Grammarly app. In the past, students and faculty on campus have only had access to the free version of Grammarly until a recent pilot project, started in 2018, offered the ..."
 publishedDateTime: 2020-01-16T02:14:00Z
-sourceUrl: "https://www.iowastatedaily.com/news/grammarly-premium-coming-to-iowa-state-university-jim-ranalli-pilot-project-grammar-spelling-puncuation-castle-tools-writing-technology-english/article_b62b38e6-37b8-11ea-88bf-2bbc48fa1d54.html"
+webUrl: "https://www.iowastatedaily.com/news/grammarly-premium-coming-to-iowa-state-university-jim-ranalli-pilot-project-grammar-spelling-puncuation-castle-tools-writing-technology-english/article_b62b38e6-37b8-11ea-88bf-2bbc48fa1d54.html"
 type: article
 quality: 24
 heat: 24

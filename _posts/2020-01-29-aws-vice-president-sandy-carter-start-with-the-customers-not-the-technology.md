@@ -3,7 +3,7 @@ category: news
 title: "AWS Vice President Sandy Carter: Start With the Customers, Not the Technology"
 excerpt: "AWS has been the official cloud and machine learning partner of the NFL’s Next Gen Stats since 2017, helping the league boost the accuracy and speed of its data collection. In December 2019, Amazon and the NFL announced that they would use data and analytics alongside artificial intelligence and machine learning to build Digital Athlete ..."
 publishedDateTime: 2020-01-29T08:25:00Z
-sourceUrl: "https://www.sporttechie.com/aws-vice-president-sandy-carter-amazon-web-services-nflpa-pitch-day"
+webUrl: "https://www.sporttechie.com/aws-vice-president-sandy-carter-amazon-web-services-nflpa-pitch-day"
 type: article
 quality: 36
 heat: 36

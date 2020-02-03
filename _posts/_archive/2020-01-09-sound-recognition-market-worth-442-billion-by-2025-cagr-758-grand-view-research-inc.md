@@ -3,7 +3,7 @@ category: news
 title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
 excerpt: "such as music recognition and speech recognition among others. Increasing adoption across applications such as for monitoring and surveillance system for automatic alarm detection and rising use in smart safety solutions are the factors expected to drive the market growth. Other factors, such as increasing adoption of advanced technologies ..."
 publishedDateTime: 2020-01-09T10:10:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/2020/01/09/9078820.htm
+webUrl: https://www.tmcnet.com/usubmit/2020/01/09/9078820.htm
 type: article
 quality: 13
 heat: 13
@@ -27,7 +27,7 @@ related:
   - title: "Voice Recognition Used by Law Enforcement"
     excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
     publishedDateTime: 2020-01-12T08:00:00Z
-    sourceUrl: https://i-hls.com/archives/98105
+    webUrl: https://i-hls.com/archives/98105
     type: article
     provider:
       name: AUS&R

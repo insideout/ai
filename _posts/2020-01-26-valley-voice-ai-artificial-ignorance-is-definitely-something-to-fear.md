@@ -3,9 +3,9 @@ category: news
 title: "Valley Voice: AI — 'Artificial Ignorance' — is definitely something to fear"
 excerpt: "Valley Voice: AI — 'Artificial Ignorance' — is definitely something to fear Stewart Weiner sees far too many refusing to acknowledge what's right before their very eyes. Check out this story on desertsun.com: https://www.desertsun.com/story/opinion/contributors/valley-voice/2020/01/26/ai-artificial-ignorance-definitely-something-fear ..."
 publishedDateTime: 2020-01-26T13:33:00Z
-sourceUrl: "https://www.desertsun.com/story/opinion/contributors/valley-voice/2020/01/26/ai-artificial-ignorance-definitely-something-fear-stewart-weiner-valley-voice/4570475002/"
-ampUrl: "https://amp.desertsun.com/amp/4570475002"
-cdnAmpUrl: "https://amp-desertsun-com.cdn.ampproject.org/c/s/amp.desertsun.com/amp/4570475002"
+webUrl: "https://www.desertsun.com/story/opinion/contributors/valley-voice/2020/01/26/ai-artificial-ignorance-definitely-something-fear-stewart-weiner-valley-voice/4570475002/"
+ampWebUrl: "https://amp.desertsun.com/amp/4570475002"
+cdnAmpWebUrl: "https://amp-desertsun-com.cdn.ampproject.org/c/s/amp.desertsun.com/amp/4570475002"
 type: article
 quality: 55
 heat: 55

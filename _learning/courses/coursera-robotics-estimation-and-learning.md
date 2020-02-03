@@ -1,7 +1,7 @@
 ---
 title: "Robotics: Estimation and Learning"
 excerpt: "Learn Robotics: Estimation and Learning from University of Pennsylvania. How can robots determine their state and properties of the surrounding environment from noisy sensor measurements in time?  In this module you will learn how to get robots ..."
-sourceUrl: https://www.coursera.org/learn/robotics-learning
+webUrl: https://www.coursera.org/learn/robotics-learning
 type: course
 price: Free+
 length: 12 hours

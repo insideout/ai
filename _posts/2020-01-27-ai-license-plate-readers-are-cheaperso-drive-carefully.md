@@ -3,9 +3,9 @@ category: news
 title: "AI License Plate Readers Are Cheaper—So Drive Carefully"
 excerpt: "Conventional ALPRs are also getting a boost from AI. Canada’s Genetec, a leading supplier of surveillance and security technology, recently announced a new ALPR camera for use on police vehicles that includes an Intel chip designed to power image-processing neural networks. Genetec says that will make the device better at reading plates at ..."
 publishedDateTime: 2020-01-27T08:00:00Z
-sourceUrl: "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/"
-ampUrl: "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp"
-cdnAmpUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp"
+webUrl: "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/"
+ampWebUrl: "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp"
 type: article
 quality: 91
 heat: 91

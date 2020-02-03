@@ -3,7 +3,7 @@ category: news
 title: "Are self-driving cars a solution for transit? A Providence test shows their promise and challenges"
 excerpt: "“You won’t see them on the road for many, many years to come, because they don’t visualize what’s ahead as well as human drivers do.” She predicted completely self-driving vans will arrive in 2021, in Jacksonville, Fla., replacing a worn-out monorail corridor. As AVs develop, there may be an interim phase of driverless cars that halt ..."
 publishedDateTime: 2020-02-01T05:09:00Z
-sourceUrl: "https://www.theday.com/article/20200201/BIZ07/200209995"
+webUrl: "https://www.theday.com/article/20200201/BIZ07/200209995"
 type: article
 quality: 10
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done"
     excerpt: "When you get behind the wheel of a car, it is a solemn duty and one that holds you responsible for what the car ends up doing. While driving, if you suddenly realize that you are about to ram into another car,"
     publishedDateTime: 2020-01-30T14:33:00Z
-    sourceUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/"
-    ampUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/"
-    cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/"
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/"
     type: article
     provider:
       name: Forbes
@@ -42,7 +42,7 @@ related:
   - title: "You Don't Really Need 5G, Your Self-Driving Car Does"
     excerpt: "Self-driving cars or autonomous vehicles (AVs) are the killer app for 5G wireless internet. Right now, AVs are Clint Eastwood style lone gunslingers, roving the highways in search of a free lane. They see the world through camera lenses and LIDAR (similar to radar, but using lasers instead of radio waves). When they encounter other AVs ..."
     publishedDateTime: 2020-01-25T12:58:00Z
-    sourceUrl: "https://nationalinterest.org/blog/buzz/you-dont-really-need-5g-your-self-driving-car-does-117286"
+    webUrl: "https://nationalinterest.org/blog/buzz/you-dont-really-need-5g-your-self-driving-car-does-117286"
     type: article
     provider:
       name: The National Interest

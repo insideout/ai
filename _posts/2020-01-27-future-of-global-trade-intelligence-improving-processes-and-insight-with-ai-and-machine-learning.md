@@ -3,7 +3,7 @@ category: news
 title: "Future of Global Trade Intelligence: Improving processes and insight with AI and Machine Learning"
 excerpt: "Artificial Intelligence has been called “the new oil” since it has become a resource for businesses to streamline processes. AI can help make sense of data by mining and processing large amounts of information. It can also free resources to focus on more strategic tasks and minimize errors. Sectors such as cross-border trade are ideal for ..."
 publishedDateTime: 2020-01-27T15:38:00Z
-sourceUrl: "https://www.logisticsmgmt.com/article/future_of_global_trade_intelligence_improving_processes_and_insight_with_ai"
+webUrl: "https://www.logisticsmgmt.com/article/future_of_global_trade_intelligence_improving_processes_and_insight_with_ai"
 type: article
 quality: 41
 heat: 41

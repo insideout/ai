@@ -3,9 +3,9 @@ category: news
 title: "AI in the court: Are robot judges next?"
 excerpt: "Los Angeles is now working on a Jury Chat Bot project that will leverage true AI, Snorri Ogata, CIO of the LA Superior Court, told ZDNet. It's being built on top of the Microsoft Cognitive Services platform, leveraging features like natural language understanding, QnA maker (to build \"FAQ on steroids,\" as Ogata put it) and translation services."
 publishedDateTime: 2020-01-22T11:00:00Z
-sourceUrl: "https://www.zdnet.com/article/ai-in-the-court-are-robot-judges-next/"
-ampUrl: "https://www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/"
+webUrl: "https://www.zdnet.com/article/ai-in-the-court-are-robot-judges-next/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/"
 type: article
 quality: 106
 heat: 106

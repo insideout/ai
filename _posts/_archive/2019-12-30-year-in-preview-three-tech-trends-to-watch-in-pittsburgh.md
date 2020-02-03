@@ -3,9 +3,9 @@ category: news
 title: "Year in Preview: Three tech trends to watch in Pittsburgh"
 excerpt: "Julia Mericle, who covers technology for the Pittsburgh Business Times, explores three tech trends that will impact the Pittsburgh region in 2020. As autonomous vehicle companies forge ahead, some of the looming self-imposed deadlines are approaching quickly,"
 publishedDateTime: 2019-12-30T19:49:00Z
-sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/30/year-in-preview-three-tech-trends-to-watch-in.html
-ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/30/year-in-preview-three-tech-trends-to-watch-in.amp.html
-cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/30/year-in-preview-three-tech-trends-to-watch-in.amp.html
+webUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/30/year-in-preview-three-tech-trends-to-watch-in.html
+ampWebUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/30/year-in-preview-three-tech-trends-to-watch-in.amp.html
+cdnAmpWebUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/30/year-in-preview-three-tech-trends-to-watch-in.amp.html
 type: article
 quality: 44
 heat: 44

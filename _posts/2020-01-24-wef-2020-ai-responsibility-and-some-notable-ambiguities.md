@@ -3,9 +3,9 @@ category: news
 title: "WEF 2020 - AI, responsibility and some notable ambiguities"
 excerpt: "The title of one panel event at the World Economic Forum (WEF) gathering in Davos this week - ‘How to Implement Responsible AI' - was notable for two things. Firstly, omitting the word ‘ethical’ when ethics has long been the focus of such discussions; and secondly, for being ambiguous. Was the WEF suggesting that AI should itself ..."
 publishedDateTime: 2020-01-24T11:23:00Z
-sourceUrl: "https://diginomica.com/wef-2020-ai-responsibility-and-some-notable-ambiguities"
-ampUrl: "https://diginomica.com/wef-2020-ai-responsibility-and-some-notable-ambiguities?amp"
-cdnAmpUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/wef-2020-ai-responsibility-and-some-notable-ambiguities?amp"
+webUrl: "https://diginomica.com/wef-2020-ai-responsibility-and-some-notable-ambiguities"
+ampWebUrl: "https://diginomica.com/wef-2020-ai-responsibility-and-some-notable-ambiguities?amp"
+cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/wef-2020-ai-responsibility-and-some-notable-ambiguities?amp"
 type: article
 quality: 59
 heat: 59

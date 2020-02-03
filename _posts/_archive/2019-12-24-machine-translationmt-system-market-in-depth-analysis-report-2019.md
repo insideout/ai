@@ -3,7 +3,7 @@ category: news
 title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
 excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and ..."
 publishedDateTime: 2019-12-24T11:15:00Z
-sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
+webUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
 type: article
 quality: 19
 heat: 19

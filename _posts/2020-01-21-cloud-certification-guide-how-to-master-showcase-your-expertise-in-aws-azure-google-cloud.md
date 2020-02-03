@@ -3,7 +3,7 @@ category: news
 title: "Cloud Certification Guide: How to Master & Showcase Your Expertise in AWS, Azure, & Google Cloud"
 excerpt: "Azure AI Engineer Associate Intended for individuals that use Machine Learning, Knowledge Mining, and Cognitive Services to architect and implement Microsoft AI solutions – this involves natural language processing, computer vision, speech, agents and bots. Azure Administrator Associate Individuals must demonstrate their ability to implement ..."
 publishedDateTime: 2020-01-21T05:13:00Z
-sourceUrl: "https://www.business2community.com/cloud-computing/cloud-certification-guide-how-to-master-showcase-your-expertise-in-aws-azure-google-cloud-02276717"
+webUrl: "https://www.business2community.com/cloud-computing/cloud-certification-guide-how-to-master-showcase-your-expertise-in-aws-azure-google-cloud-02276717"
 type: article
 quality: 6
 heat: 6

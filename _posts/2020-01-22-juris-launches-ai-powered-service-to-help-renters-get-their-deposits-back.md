@@ -3,7 +3,7 @@ category: news
 title: "Juris Launches AI-Powered Service To Help Renters Get Their Deposits Back"
 excerpt: "A new, Los Angeles-based startup, Juris, said this morning that it has launched a new, artificial intelligence-powered service to help renters get their security deposits back. According to Juris, its new service, DepositLetter, uses AI-tools to help people recover illegally withheld security deposits on behalf of renters. The company says the ..."
 publishedDateTime: 2020-01-22T14:34:00Z
-sourceUrl: "https://www.socaltech.com/juris_launches_ai_powered_service_to_help_renters_get_their_deposits_back/s-0079417.html"
+webUrl: "https://www.socaltech.com/juris_launches_ai_powered_service_to_help_renters_get_their_deposits_back/s-0079417.html"
 type: article
 quality: 16
 heat: -1
@@ -20,9 +20,9 @@ related:
   - title: "How AI-powered language tests can help identify the right talent to hire"
     excerpt: "“It fascinates me that when you start to look at the literature around what are the skills that are going to be needed for the world going forward, they are the very things that the English language teaching (ELT) world has been teaching all along, they’re no different. I guess it’s rebranding.” Actually, artificial intelligence ..."
     publishedDateTime: 2020-01-21T15:32:00Z
-    sourceUrl: "https://www.arabianbusiness.com/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire"
-    ampUrl: "https://amp.arabianbusiness.com/amp/article_listing/aben/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire"
-    cdnAmpUrl: "https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire"
+    webUrl: "https://www.arabianbusiness.com/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire"
+    ampWebUrl: "https://amp.arabianbusiness.com/amp/article_listing/aben/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire"
+    cdnAmpWebUrl: "https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire"
     type: article
     provider:
       name: Arabian Business

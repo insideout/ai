@@ -3,9 +3,9 @@ category: news
 title: "SkyWay: UAE's driverless pods, cable car project takes shape"
 excerpt: "The unicars, which run on batteries and a “dynamo system”, also have artificial intelligence capabilities that ensure the safety of passengers. The unicars are able to autonomously detect a problem, can “talk” to each other, and find solutions to rectify a problem. “For instance, if one of the driverless pods stops midway on the ..."
 publishedDateTime: 2020-01-26T07:51:00Z
-sourceUrl: "https://www.arabianbusiness.com/construction/438559-skyway-uaes-driverless-pods-cable-car-project-takes-shape"
-ampUrl: "https://amp.arabianbusiness.com/amp/article_listing/aben/construction/438559-skyway-uaes-driverless-pods-cable-car-project-takes-shape"
-cdnAmpUrl: "https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/construction/438559-skyway-uaes-driverless-pods-cable-car-project-takes-shape"
+webUrl: "https://www.arabianbusiness.com/construction/438559-skyway-uaes-driverless-pods-cable-car-project-takes-shape"
+ampWebUrl: "https://amp.arabianbusiness.com/amp/article_listing/aben/construction/438559-skyway-uaes-driverless-pods-cable-car-project-takes-shape"
+cdnAmpWebUrl: "https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/construction/438559-skyway-uaes-driverless-pods-cable-car-project-takes-shape"
 type: article
 quality: 59
 heat: 59

@@ -1,7 +1,7 @@
 ---
 title: "Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving (Chapman & Hall/CRC The R Series)"
 excerpt: "The book illustrates the details involved in solving real computational problems encountered in data analysis. It reveals the dynamic and iterative process by which data analysts approach a problem and reason about different ways of implementing solutions."
-sourceUrl: https://www.amazon.com/Data-Science-Approach-Computational-Reasoning/dp/1482234815/
+webUrl: https://www.amazon.com/Data-Science-Approach-Computational-Reasoning/dp/1482234815/
 type: book
 price: $63.16
 length: 

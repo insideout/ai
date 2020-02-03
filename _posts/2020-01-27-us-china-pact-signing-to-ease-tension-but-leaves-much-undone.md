@@ -3,9 +3,9 @@ category: news
 title: "US-China pact signing to ease tension but leaves much undone"
 excerpt: "And skeptics say a satisfactory resolution may be next to impossible given China’s ambitions to become the global leader in such advanced technologies as driverless cars and artificial intelligence. “The signing of the Phase 1 deal would represent a welcome, even if modest, de-escalation of trade hostilities between China and the U.S ..."
 publishedDateTime: 2020-01-27T01:24:00Z
-sourceUrl: "https://wtop.com/business-finance/2020/01/us-china-pact-signing-to-ease-tension-but-leave-much-undone/"
-ampUrl: "https://wtop.com/business-finance/2020/01/us-china-pact-signing-to-ease-tension-but-leave-much-undone/amp/"
-cdnAmpUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/business-finance/2020/01/us-china-pact-signing-to-ease-tension-but-leave-much-undone/amp/"
+webUrl: "https://wtop.com/business-finance/2020/01/us-china-pact-signing-to-ease-tension-but-leave-much-undone/"
+ampWebUrl: "https://wtop.com/business-finance/2020/01/us-china-pact-signing-to-ease-tension-but-leave-much-undone/amp/"
+cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/business-finance/2020/01/us-china-pact-signing-to-ease-tension-but-leave-much-undone/amp/"
 type: article
 quality: 44
 heat: 44

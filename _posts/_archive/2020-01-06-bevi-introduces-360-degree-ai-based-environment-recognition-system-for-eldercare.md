@@ -3,7 +3,7 @@ category: news
 title: "BeVi introduces 360-degree AI-based environment recognition system for eldercare"
 excerpt: "The aim is to enable simultaneous computation of multiple neural networks for activity recognition, object detection, object segmentation and speech processing so that CarePLUS can run like a powerful computer. With 360-degree AI-based environment recognition and voice interaction, CarePLUS can have a clear picture of the indoor surroundings ..."
 publishedDateTime: 2020-01-06T02:13:00Z
-sourceUrl: https://www.digitimes.com/news/a20200106PD200.html
+webUrl: https://www.digitimes.com/news/a20200106PD200.html
 type: article
 quality: 34
 heat: 34
@@ -27,7 +27,7 @@ related:
   - title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
     excerpt: "The speech technology start-up will be highlighted for its Multi-Wake Word and Intent Recognition technology, in addition to announcing a new partnership with COMMAX Inc."
     publishedDateTime: 2020-01-06T14:04:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966557/0/en/Fluent-ai-Named-CES-2020-Innovation-Honoree-for-its-Advancements-in-Voice-Recognition-Technology.html
+    webUrl: https://www.globenewswire.com/news-release/2020/01/06/1966557/0/en/Fluent-ai-Named-CES-2020-Innovation-Honoree-for-its-Advancements-in-Voice-Recognition-Technology.html
     type: article
     provider:
       name: GlobeNewswire

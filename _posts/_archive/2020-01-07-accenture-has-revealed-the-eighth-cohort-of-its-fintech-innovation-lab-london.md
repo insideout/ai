@@ -3,7 +3,7 @@ category: news
 title: "Accenture has revealed the eighth cohort of its FinTech Innovation Lab London"
 excerpt: "Accenture has welcomed the eighth cohort of its FinTech Innovation Lab London, but not every participant will be successful in the competitive space."
 publishedDateTime: 2020-01-07T14:30:00Z
-sourceUrl: https://www.businessinsider.com/accenture-revealed-latest-cohort-of-its-fintech-accelerator-2020-1
+webUrl: https://www.businessinsider.com/accenture-revealed-latest-cohort-of-its-fintech-accelerator-2020-1
 type: article
 quality: 51
 heat: 51

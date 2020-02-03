@@ -3,7 +3,7 @@ category: news
 title: "Marketers discuss content marketing programs that helped lift brands"
 excerpt: "IBM created the AI category and has been defining it now for at least five years. “Smart” is most often used as an adjective. IBM made it a noun with its Let’s Put Smart to Work campaign. It details Watson’s transformative power across many ..."
 publishedDateTime: 2020-01-17T14:29:00Z
-sourceUrl: "https://www.mmm-online.com/home/channel/sponsored/marketers-discuss-content-marketing-programs-that-helped-lift-brands/"
+webUrl: "https://www.mmm-online.com/home/channel/sponsored/marketers-discuss-content-marketing-programs-that-helped-lift-brands/"
 type: article
 quality: 24
 heat: 24

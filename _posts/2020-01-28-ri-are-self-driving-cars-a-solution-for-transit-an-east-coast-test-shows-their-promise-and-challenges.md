@@ -3,7 +3,7 @@ category: news
 title: "RI: Are self-driving cars a solution for transit? An East Coast test shows their promise and challenges"
 excerpt: "In the Seattle area, a collection of companies is joining in AV research. Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Carmera, based in Seattle, San Francisco and New York, uses data from video streams to help cars \"see\" what's nearby. Gov. Jay Inslee chose Kirkland ..."
 publishedDateTime: 2020-01-28T12:18:00Z
-sourceUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/news/21123065/ri-are-selfdriving-cars-a-solution-for-transit-an-east-coast-test-shows-their-promise-and-challenges"
+webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/news/21123065/ri-are-selfdriving-cars-a-solution-for-transit-an-east-coast-test-shows-their-promise-and-challenges"
 type: article
 quality: 8
 heat: 8

@@ -3,7 +3,7 @@ category: news
 title: "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions"
 excerpt: "Amazon Polly turns text into lifelike speech, which allows you to create voice-enabled applications. AWS is excited to announce the general availability of all standard voices in the Middle East (Bahrain) and Asia Pacific (Hong Kong) Regions. Customers in these Regions can now synthesize over 60 standard"
 publishedDateTime: 2020-01-15T20:32:30Z
-sourceUrl: "https://aws.amazon.com/blogs/machine-learning/standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions/"
 type: article
 quality: 97
 heat: 97

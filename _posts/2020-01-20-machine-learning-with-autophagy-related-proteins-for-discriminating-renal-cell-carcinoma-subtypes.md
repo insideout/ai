@@ -3,7 +3,7 @@ category: news
 title: "Machine learning with autophagy-related proteins for discriminating renal cell carcinoma subtypes"
 excerpt: "Machine learning techniques have been previously applied for classification of tumors based largely on morphological features of tumor cells recognized in H&E images. Here, we tested the possibility of using numeric data acquired from software-based quantification of certain marker proteins, i.e. key autophagy proteins (ATGs), obtained from ..."
 publishedDateTime: 2020-01-20T10:16:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-020-57670-y"
+webUrl: "https://www.nature.com/articles/s41598-020-57670-y"
 type: article
 quality: 26
 heat: 26

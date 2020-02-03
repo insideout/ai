@@ -3,7 +3,7 @@ category: news
 title: "AR, VR, and AI startups win Verizon’s $1 million Built on 5G Challenge"
 excerpt: "The company will use 5G to let users access VR content in real time, and improve performance in shared multi-user settings. LexSet won third place with a project that trains advanced computer vision AI systems using synthetic image data generated from 3D content. The company plans to use Verizon 5G to innovate in edge computing-based mixed ..."
 publishedDateTime: 2020-01-29T15:03:00Z
-sourceUrl: "https://venturebeat.com/2020/01/29/ar-vr-and-ai-startups-win-verizons-1-million-built-on-5g-challenge/"
+webUrl: "https://venturebeat.com/2020/01/29/ar-vr-and-ai-startups-win-verizons-1-million-built-on-5g-challenge/"
 type: article
 quality: 47
 heat: 47

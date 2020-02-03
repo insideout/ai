@@ -3,7 +3,7 @@ category: news
 title: "Case Study: Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2020-2025"
 excerpt: "HTF MI presents an in-depth overview of the Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Study, detailing the latest product / industry coverage and market forecasts,"
 publishedDateTime: 2020-01-29T13:19:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/case-study-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-2025-2020-01-29"
+webUrl: "https://www.marketwatch.com/press-release/case-study-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-2025-2020-01-29"
 type: article
 quality: 57
 heat: 57

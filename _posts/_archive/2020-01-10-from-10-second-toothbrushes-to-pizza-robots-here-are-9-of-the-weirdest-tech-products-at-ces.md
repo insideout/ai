@@ -3,7 +3,7 @@ category: news
 title: "From 10-second toothbrushes to pizza robots: Here are 9 of the weirdest tech products at CES"
 excerpt: "The carry-on is equipped with AI, self-driving and computer vision technology ... If it is more than 6 feet away from its user, it will alert them via a smart band on their wrist. Jennie, a cuddly robot puppy created by robotics startup Tombot, is designed for Alzheimer and dementia patients, or others who could use some companionship but ..."
 publishedDateTime: 2020-01-10T22:49:00Z
-sourceUrl: "https://www.ksl.com/article/46702570/from-10-second-toothbrushes-to-pizza-robots-here-are-9-of-the-weirdest-tech-products-at-ces"
+webUrl: "https://www.ksl.com/article/46702570/from-10-second-toothbrushes-to-pizza-robots-here-are-9-of-the-weirdest-tech-products-at-ces"
 type: article
 quality: 28
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "From 10-second toothbrushes to pizza robots, here are 9 weird tech products"
     excerpt: "The carry-on is equipped with AI, self-driving and computer vision technology ... If it is more than 6 feet away from its user, it will alert them via a smart band on their wrist. Jennie, a cuddly robot puppy created by robotics startup Tombot, is designed for Alzheimer and dementia patients, or others who could use some companionship but ..."
     publishedDateTime: 2020-01-10T16:06:00Z
-    sourceUrl: "https://www.ksl.com/article/46702570/from-10-second-toothbrushes-to-pizza-robots-here-are-9-weird-tech-products"
+    webUrl: "https://www.ksl.com/article/46702570/from-10-second-toothbrushes-to-pizza-robots-here-are-9-weird-tech-products"
     type: article
     provider:
       name: KSL

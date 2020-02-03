@@ -3,9 +3,9 @@ category: news
 title: "Waymo self-driving vehicles cover 20 million miles on public roads"
 excerpt: "(Reuters) - Waymo, the self-driving unit of Alphabet Inc (GOOGL.O), said its vehicles had covered more than 20 million miles (32.2 million km) on public roads since its creation in 2009."
 publishedDateTime: 2020-01-07T15:12:00Z
-sourceUrl: "https://www.reuters.com/article/us-autonomous-waymo-idUSKBN1Z61RX"
-ampUrl: "https://mobile.reuters.com/article/amp/idUSKBN1Z61RX"
-cdnAmpUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z61RX"
+webUrl: "https://www.reuters.com/article/us-autonomous-waymo-idUSKBN1Z61RX"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1Z61RX"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z61RX"
 type: article
 quality: 89
 heat: 99
@@ -33,7 +33,7 @@ related:
   - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
     excerpt: "The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo has obtained 120 such ..."
     publishedDateTime: 2020-01-10T05:50:00Z
-    sourceUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
+    webUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
     type: article
     provider:
       name: Steel News

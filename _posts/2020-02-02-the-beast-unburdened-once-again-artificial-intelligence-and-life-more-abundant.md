@@ -3,9 +3,9 @@ category: news
 title: "The Beast Unburdened Once Again: Artificial Intelligence and Life More Abundant"
 excerpt: "As the name implies, Artificial Intelligence is non-human or machine intelligence. It is the equivalent of breathing life and intelligence into machines in a way that makes them capable of obeying instructions or undertaking independent missions requiring human intelligence . Not to be confused with Robotics or Robotic Engineering which is a ..."
 publishedDateTime: 2020-02-02T02:00:00Z
-sourceUrl: "https://thenationonlineng.net/the-beast-unburdened-once-again-artificial-intelligence-and-life-more-abundant/"
-ampUrl: "https://thenationonlineng.net/the-beast-unburdened-once-again-artificial-intelligence-and-life-more-abundant/amp/"
-cdnAmpUrl: "https://thenationonlineng-net.cdn.ampproject.org/c/s/thenationonlineng.net/the-beast-unburdened-once-again-artificial-intelligence-and-life-more-abundant/amp/"
+webUrl: "https://thenationonlineng.net/the-beast-unburdened-once-again-artificial-intelligence-and-life-more-abundant/"
+ampWebUrl: "https://thenationonlineng.net/the-beast-unburdened-once-again-artificial-intelligence-and-life-more-abundant/amp/"
+cdnAmpWebUrl: "https://thenationonlineng-net.cdn.ampproject.org/c/s/thenationonlineng.net/the-beast-unburdened-once-again-artificial-intelligence-and-life-more-abundant/amp/"
 type: article
 quality: 50
 heat: 50

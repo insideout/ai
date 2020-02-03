@@ -3,9 +3,9 @@ category: news
 title: "Artificial Intelligence, The Real Estate Industry And The Realtor"
 excerpt: "FALLS CHURCH, Va., Jan. 20, 2020 /PRNewswire-PRWeb/ -- The Artificial Intelligence revolution has begun. Although it is still in its infancy, AI is already facilitating self-driving cars and voice-activated home systems that set alarms and thermostats on their own. The technology may come off as intimidating to many in the real estate industry ..."
 publishedDateTime: 2020-01-20T13:00:00Z
-sourceUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259"
-ampUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259"
-cdnAmpUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259"
 type: article
 quality: 69
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "8 misleading AI myths — and the realities behind them"
     excerpt: "The fact is, much of the fear around AI comes from overactive imaginations that machines will mimic our own bad behavior. Skynet aside, there are some rational questions and answers to be had. So let’s break down the myths and realities around AI and all of its offshoots, like machine learning and deep learning. This is the single greatest ..."
     publishedDateTime: 2020-01-27T11:02:00Z
-    sourceUrl: "https://www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.html"
-    ampUrl: "https://www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.amp.html"
-    cdnAmpUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.amp.html"
+    webUrl: "https://www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.html"
+    ampWebUrl: "https://www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.amp.html"
     type: article
     provider:
       name: InfoWorld

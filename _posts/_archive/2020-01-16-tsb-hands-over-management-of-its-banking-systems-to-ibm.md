@@ -3,9 +3,9 @@ category: news
 title: "TSB hands over management of its banking systems to IBM"
 excerpt: "In the wake of its disastrous IT migration in 2018, which left millions of customers without access to banking services for days, UK bank TSB is making a raft of moves to sure up its IT capability, including an expanded partnership with the vendor IBM. Announced yesterday ... enabled technology like artificial intelligence to give customers ..."
 publishedDateTime: 2020-01-16T09:14:00Z
-sourceUrl: "https://www.computerworld.com/article/3514331/tsb-hands-over-management-of-its-banking-systems-to-ibm.html"
-ampUrl: "https://www.computerworld.com/article/3514331/tsb-hands-over-management-of-its-banking-systems-to-ibm.amp.html"
-cdnAmpUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3514331/tsb-hands-over-management-of-its-banking-systems-to-ibm.amp.html"
+webUrl: "https://www.computerworld.com/article/3514331/tsb-hands-over-management-of-its-banking-systems-to-ibm.html"
+ampWebUrl: "https://www.computerworld.com/article/3514331/tsb-hands-over-management-of-its-banking-systems-to-ibm.amp.html"
+cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3514331/tsb-hands-over-management-of-its-banking-systems-to-ibm.amp.html"
 type: article
 quality: 44
 heat: 44

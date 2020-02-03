@@ -3,9 +3,9 @@ category: news
 title: "India to begin teaching teens how to build their OWN AI using DIY kits"
 excerpt: "Tech start-up CYRAN developed the ‘BUDDHI AI DIY Kit’, with ‘Buddhi’ standing for “Build, Understand, Design, Deploy Human-like Intelligence.” It also means ‘brain’ or ‘mind’ in Hindi. The pack includes an AI handbook, DIY AI projects, lessons, exercises, presentations, and videos while making use of both proprietary ..."
 publishedDateTime: 2020-01-27T17:01:00Z
-sourceUrl: "https://www.rt.com/news/479304-india-teach-ai-diy-kits/"
-ampUrl: "https://www.rt.com/news/479304-india-teach-ai-diy-kits/amp/"
-cdnAmpUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/479304-india-teach-ai-diy-kits/amp/"
+webUrl: "https://www.rt.com/news/479304-india-teach-ai-diy-kits/"
+ampWebUrl: "https://www.rt.com/news/479304-india-teach-ai-diy-kits/amp/"
+cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/479304-india-teach-ai-diy-kits/amp/"
 type: article
 quality: 57
 heat: 57

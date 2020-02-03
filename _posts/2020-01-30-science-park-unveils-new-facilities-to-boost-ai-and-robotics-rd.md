@@ -3,7 +3,7 @@ category: news
 title: "Science Park unveils new facilities to boost AI and robotics R&D"
 excerpt: "From now on, artificial intelligence and robotics (AIR) developers are able to use the state-of-the-art facilities provided by the Hong Kong Science and Technology Parks Corporation (HKSTP) to develop proof-of-concept (PoC) projects and fabricate functional prototypes. On January 20, HKSTP unveiled the AI PLUG and Robotics Catalysing Centre ..."
 publishedDateTime: 2020-01-30T02:27:00Z
-sourceUrl: "https://www.scmp.com/presented/tech/topics/ai-plug-and-robotics-catalysing-centre/article/3048053/science-park-unveils"
+webUrl: "https://www.scmp.com/presented/tech/topics/ai-plug-and-robotics-catalysing-centre/article/3048053/science-park-unveils"
 type: article
 quality: 71
 heat: 71

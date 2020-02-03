@@ -1,7 +1,7 @@
 ---
 title: "Building AI Applications with Watson APIs"
 excerpt: "Learn Building AI Applications with Watson APIs from IBM. A learner will be able to write an application that leverages multiple Watson AI services (Discovery, Speech to Text, Assistant, and Text to Speech). By the end of the course, they’ll ..."
-sourceUrl: https://www.coursera.org/learn/building-ai-applications
+webUrl: https://www.coursera.org/learn/building-ai-applications
 type: course
 price: Free+
 length: 11 hours

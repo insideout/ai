@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence Is Transforming the Legal Industry"
 excerpt: "Artificial intelligence (AI) is adding efficiencies and transforming businesses everywhere, and legal practices are no exception. General counsels who are hiring lawyers need to understand that this technology is available now, so they can make sure their lawyers are leveraging the latest technology tools. AI can increase speed, increase ..."
 publishedDateTime: 2020-01-31T17:34:00Z
-sourceUrl: "https://www.law.com/thelegalintelligencer/2020/01/31/artificial-intelligence-is-transforming-the-legal-industry/"
+webUrl: "https://www.law.com/thelegalintelligencer/2020/01/31/artificial-intelligence-is-transforming-the-legal-industry/"
 type: article
 quality: 37
 heat: -1
@@ -26,7 +26,7 @@ related:
   - title: "This Woman Is Changing The Therapy Industry With VR And AI"
     excerpt: "In the US, it is estimated that the wait time for a physical therapy appointment is close to 30 days. When you finally arrive at the appointment, you will often see patients queued up to visit with a handful of physical therapists."
     publishedDateTime: 2020-01-30T08:51:00Z
-    sourceUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/30/this-woman-is-changing-the-therapy-industry-with-vr-and-ai/"
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/30/this-woman-is-changing-the-therapy-industry-with-vr-and-ai/"
     type: article
     provider:
       name: Forbes

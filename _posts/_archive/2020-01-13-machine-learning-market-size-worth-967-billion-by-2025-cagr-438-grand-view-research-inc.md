@@ -3,7 +3,7 @@ category: news
 title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
 excerpt: "/PRNewswire/ -- The global machine learning market size is expected to reach USD 96.7 billion by 2025, according to a new report by Grand View Research,"
 publishedDateTime: 2020-01-13T08:05:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/machine-learning-market-size-worth-96-7-billion-by-2025--cagr-43-8-grand-view-research-inc-300985428.html"
+webUrl: "https://www.prnewswire.com/news-releases/machine-learning-market-size-worth-96-7-billion-by-2025--cagr-43-8-grand-view-research-inc-300985428.html"
 type: article
 quality: 26
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "At 30.0% CAGR, Deep Learning Chip Market Size, Growth Forecast will reach 21.31 Bn USD by 2027"
     excerpt: "Market Study Report Provides A Detailed Overview Of Deep Learning Chip Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Deep Learning Chip Market In Conjunction With The Geographical Landscape,"
     publishedDateTime: 2020-01-13T12:50:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/at-300-cagr-deep-learning-chip-market-size-growth-forecast-will-reach-2131-bn-usd-by-2027-2020-01-13"
+    webUrl: "https://www.marketwatch.com/press-release/at-300-cagr-deep-learning-chip-market-size-growth-forecast-will-reach-2131-bn-usd-by-2027-2020-01-13"
     type: article
     provider:
       name: MarketWatch

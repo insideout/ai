@@ -3,7 +3,7 @@ category: news
 title: "A Camera With Computer Vision"
 excerpt: "Computer vision is a tricky thing to stuff into a small package, but last year’s Hackaday Prize had an especially interesting project make it into the 50 top finalists. The OpenMV is a tiny camera module with a powerful microcontroller that will detect ..."
 publishedDateTime: 2020-01-08T00:00:00Z
-sourceUrl: https://hackaday.com/2015/01/28/a-camera-with-computer-vision/
+webUrl: https://hackaday.com/2015/01/28/a-camera-with-computer-vision/
 type: article
 quality: 39
 heat: 39

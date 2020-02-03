@@ -3,7 +3,7 @@ category: news
 title: "2019: prosperous year for Vietnam’s e-commerce, fintech firms"
 excerpt: "With the additional capital, Sendo said it would expand business and make further investment in technology, including AI and machine learning. Tiki received $75 million In March 2019, Tiki, a marketplace successfully raised funds worth $75 million in a funding round led by Northstar Group. This is an investment fund with the value of $2 billion ..."
 publishedDateTime: 2020-01-25T09:07:00Z
-sourceUrl: "https://vietnamnet.vn/en/business/2019-prosperous-year-for-vietnam-s-e-commerce-fintech-firms-611252.html"
+webUrl: "https://vietnamnet.vn/en/business/2019-prosperous-year-for-vietnam-s-e-commerce-fintech-firms-611252.html"
 type: article
 quality: 24
 heat: 24

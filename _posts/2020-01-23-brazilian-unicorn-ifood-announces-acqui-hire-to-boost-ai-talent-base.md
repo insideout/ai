@@ -3,9 +3,9 @@ category: news
 title: "Brazilian unicorn iFood announces acqui-hire to boost AI talent base"
 excerpt: "Brazilian food delivery startup iFood announced the acqui-hire of Hekima, an artificial intelligence (AI), data science and big data company to boost the skills needed for its data-driven business strategy. As a result of the deal will see more than 100 professionals at Hekima, which is based in the city of Belo Horizonte, in the Brazilian ..."
 publishedDateTime: 2020-01-23T17:36:00Z
-sourceUrl: "https://www.zdnet.com/article/brazilian-unicorn-ifood-announces-acqui-hire-to-boost-ai-talent-base/"
-ampUrl: "https://www.zdnet.com/google-amp/article/brazilian-unicorn-ifood-announces-acqui-hire-to-boost-ai-talent-base/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-unicorn-ifood-announces-acqui-hire-to-boost-ai-talent-base/"
+webUrl: "https://www.zdnet.com/article/brazilian-unicorn-ifood-announces-acqui-hire-to-boost-ai-talent-base/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/brazilian-unicorn-ifood-announces-acqui-hire-to-boost-ai-talent-base/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-unicorn-ifood-announces-acqui-hire-to-boost-ai-talent-base/"
 type: article
 quality: 67
 heat: 67

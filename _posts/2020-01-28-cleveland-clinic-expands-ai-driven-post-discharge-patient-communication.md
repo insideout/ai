@@ -3,7 +3,7 @@ category: news
 title: "Cleveland Clinic expands AI-driven post-discharge patient communication"
 excerpt: "Cleveland Clinic will expand its existing collaboration with Gyant, a patient engagement software startup, to improve post-discharge communication across several ... According to the Jan. 28 news release, adding the AI platform to Cleveland Clinic's existing post-discharge phone communications has resulted in a 39 percent increase in patient ..."
 publishedDateTime: 2020-01-28T15:57:00Z
-sourceUrl: "https://www.beckershospitalreview.com/consumerism/cleveland-clinic-expands-ai-driven-post-discharge-patient-communication.html"
+webUrl: "https://www.beckershospitalreview.com/consumerism/cleveland-clinic-expands-ai-driven-post-discharge-patient-communication.html"
 type: article
 quality: 37
 heat: 37

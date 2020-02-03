@@ -3,7 +3,7 @@ category: news
 title: "Two more school districts choose Anoto’s education platform KAIT to deliver AI-based individualized education"
 excerpt: "today announces that it has continued to expand its customer base for KAIT and added a large school district in Florida and another school district in Utah in January. Combined, the new school districts are comprised of 301 schools and 238,"
 publishedDateTime: 2020-01-27T07:00:00Z
-sourceUrl: "https://www.globenewswire.com/news-release/2020/01/27/1975196/0/en/Two-more-school-districts-choose-Anoto-s-education-platform-KAIT-to-deliver-AI-based-individualized-education.html"
+webUrl: "https://www.globenewswire.com/news-release/2020/01/27/1975196/0/en/Two-more-school-districts-choose-Anoto-s-education-platform-KAIT-to-deliver-AI-based-individualized-education.html"
 type: article
 quality: 0
 heat: 0

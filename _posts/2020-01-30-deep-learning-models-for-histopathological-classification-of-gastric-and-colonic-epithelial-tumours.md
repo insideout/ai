@@ -3,7 +3,7 @@ category: news
 title: "Deep Learning Models for Histopathological Classification of Gastric and Colonic Epithelial Tumours"
 excerpt: "In 2018, there were 1,033,701 new cases and 782,685 deaths due to stomach cancer, and 1,096,601 new cases and 551,269 deaths due to colon cancer. Here, we propose deep learning models to classify epithelial tumours (adenocarcinoma and adenoma) of stomach and colon for supporting routine histopathological diagnoses by surgical pathologists."
 publishedDateTime: 2020-01-30T10:40:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-020-58467-9"
+webUrl: "https://www.nature.com/articles/s41598-020-58467-9"
 type: article
 quality: 25
 heat: 25

@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Machine Learning"
 excerpt: "Learn Introduction to Machine Learning from Duke University. This course will provide you a foundational understanding of machine learning models (logistic regression, multilayer perceptrons, convolutional neural networks, natural language ..."
-sourceUrl: https://www.coursera.org/learn/machine-learning-duke
+webUrl: https://www.coursera.org/learn/machine-learning-duke
 type: course
 price: Free+
 length: 15 hours

@@ -3,7 +3,7 @@ category: news
 title: "USARAD Holdings announces a successful collaboration with Siemens-Healthineers on Artificial Intelligence projects"
 excerpt: "\"It is clear that AI is transforming our industry in a radical way. By leveraging deep learning and artificial intelligence technologies USARAD is well positioned to continue its global leading position and will accelerate its quest to affordably bring high quality healthcare around the world,\" explained Michael Yuz, M.D. MBA, CEO and founder ..."
 publishedDateTime: 2020-01-16T12:00:00Z
-sourceUrl: "https://www.finanzen.ch/nachrichten/aktien/usarad-holdings-announces-a-successful-collaboration-with-siemens-healthineers-on-artificial-intelligence-projects-1028822833"
+webUrl: "https://www.finanzen.ch/nachrichten/aktien/usarad-holdings-announces-a-successful-collaboration-with-siemens-healthineers-on-artificial-intelligence-projects-1028822833"
 type: article
 quality: 0
 heat: 0

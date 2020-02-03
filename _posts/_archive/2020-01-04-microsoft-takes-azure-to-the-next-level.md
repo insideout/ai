@@ -3,7 +3,7 @@ category: news
 title: "Microsoft takes Azure to the next level"
 excerpt: "Microsoft first developed its cloud computing ... new capabilities for Azure Cognitive Services, Azure Digital Twins, and general availability of Azure IoT Central. Azure came to blockchain ..."
 publishedDateTime: 2020-01-04T00:00:00Z
-sourceUrl: "https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/"
+webUrl: "https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/"
 type: article
 quality: 84
 heat: 84

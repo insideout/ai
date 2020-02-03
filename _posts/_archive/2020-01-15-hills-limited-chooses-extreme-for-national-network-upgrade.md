@@ -3,7 +3,7 @@ category: news
 title: "Hills Limited Chooses Extreme for National Network Upgrade"
 excerpt: "/PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today announced Hills Limited, an Australian company with"
 publishedDateTime: 2020-01-15T11:05:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/hills-limited-chooses-extreme-for-national-network-upgrade-300986508.html"
+webUrl: "https://www.prnewswire.com/news-releases/hills-limited-chooses-extreme-for-national-network-upgrade-300986508.html"
 type: article
 quality: 24
 heat: 24

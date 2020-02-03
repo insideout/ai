@@ -3,9 +3,9 @@ category: news
 title: "Lockport, N.Y., Schools Embrace Facial Recognition Software"
 excerpt: "(TNS) — Lockport City School District announced Thursday that it has begun using its controversial facial and object recognition surveillance system. The announcement on the district website ..."
 publishedDateTime: 2020-01-03T20:29:00Z
-sourceUrl: "https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html"
-ampUrl: "https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP"
-cdnAmpUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP"
+webUrl: "https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html"
+ampWebUrl: "https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP"
+cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP"
 type: article
 quality: 59
 heat: 69
@@ -29,9 +29,9 @@ related:
   - title: "School district’s launch of facial recognition program sparks outcry"
     excerpt: "The Associated Press reports that Lockport Central School District activated its object and facial recognition system, called AEGIS, last week. The district recently said that the technology will ..."
     publishedDateTime: 2020-01-06T18:32:00Z
-    sourceUrl: "https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/"
-    ampUrl: "https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp"
-    cdnAmpUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp"
+    webUrl: "https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/"
+    ampWebUrl: "https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp"
     type: article
     provider:
       name: The Daily Dot

@@ -1,7 +1,7 @@
 ---
 title: "Applied Machine Learning in Python"
 excerpt: "Learn Applied Machine Learning in Python from University of Michigan. This course will introduce the learner to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. The course will ..."
-sourceUrl: https://www.coursera.org/learn/python-machine-learning
+webUrl: https://www.coursera.org/learn/python-machine-learning
 type: course
 price: Free+
 length: 24 hours

@@ -3,7 +3,7 @@ category: news
 title: "SEI Ventures and ForwardLane Partner to Scale AI Insights for Financial Service Professionals"
 excerpt: "/PRNewswire/ -- ForwardLane, the leader in providing AI driven intelligence to financial services professionals, is thrilled to announce SEI"
 publishedDateTime: 2020-01-23T11:00:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/sei-ventures-and-forwardlane-partner-to-scale-ai-insights-for-financial-service-professionals-300991802.html"
+webUrl: "https://www.prnewswire.com/news-releases/sei-ventures-and-forwardlane-partner-to-scale-ai-insights-for-financial-service-professionals-300991802.html"
 type: article
 quality: 28
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "ForwardLane & SEI Ventures to boost the delivery of AI Insights"
     excerpt: "to accelerate the growth and for the provision of AI insights for wealth managers, asset managers and commercial banks. SixThirty Global Fintech Fund joined SEI Ventures in the investment round as a follow-on to their first investment in 2018. ForwardLane’s AI insight platform makes use of its proprietary NLP with enterprise data aggregation ..."
     publishedDateTime: 2020-01-23T12:42:00Z
-    sourceUrl: "https://ibsintelligence.com/ibs-journal/ibs-news/forwardlane-sei-ventures-to-boost-the-delivery-of-ai-insights/"
+    webUrl: "https://ibsintelligence.com/ibs-journal/ibs-news/forwardlane-sei-ventures-to-boost-the-delivery-of-ai-insights/"
     type: article
     provider:
       name: IBS

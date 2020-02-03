@@ -3,9 +3,9 @@ category: news
 title: "How AI Is Improving Omnichannel CyberSecurity In 2020"
 excerpt: "42% of digital businesses that consider themselves technologically advanced are finding fraud is restraining their ability to grow and adopt new digital innovation strategies."
 publishedDateTime: 2020-01-24T14:12:00Z
-sourceUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/24/how-ai-is-improving-omnichannel-cybersecurity-in-2020/"
-ampUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/24/how-ai-is-improving-omnichannel-cybersecurity-in-2020/amp/"
-cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/24/how-ai-is-improving-omnichannel-cybersecurity-in-2020/amp/"
+webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/24/how-ai-is-improving-omnichannel-cybersecurity-in-2020/"
+ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/24/how-ai-is-improving-omnichannel-cybersecurity-in-2020/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/24/how-ai-is-improving-omnichannel-cybersecurity-in-2020/amp/"
 type: article
 quality: 87
 heat: -1
@@ -32,9 +32,9 @@ related:
   - title: "How Artificial Intelligence Is Improving The Pharma Supply Chain"
     excerpt: "When coupled with machine learning and predictive analytics, the AI transformation goes much deeper than smarter search functions."
     publishedDateTime: 2020-01-31T13:08:00Z
-    sourceUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/"
-    ampUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/"
-    cdnAmpUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/"
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/"
     type: article
     provider:
       name: Forbes

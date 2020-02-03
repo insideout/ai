@@ -3,7 +3,7 @@ category: news
 title: "Towards ethical and socio-legal governance in AI"
 excerpt: "Many high-level ethics guidelines for AI have been produced in the past few years. It is time to work towards concrete policies within the context of existing moral, legal and cultural values, say Andreas Theodorou and Virginia Dignum. Tubella, A. A., Theodorou, A., Dignum, F. & Dignum, V. In Proc. Twenty-Eighth International Joint Conference ..."
 publishedDateTime: 2020-01-17T17:30:00Z
-sourceUrl: "https://www.nature.com/articles/s42256-019-0136-y"
+webUrl: "https://www.nature.com/articles/s42256-019-0136-y"
 type: article
 quality: 34
 heat: 34

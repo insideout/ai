@@ -3,7 +3,7 @@ category: news
 title: "NFL Big Data Bowl: Running Backs and Molecular Physics Collide at The Zoo"
 excerpt: "Gordeev and Singer, both 31, had won a previous challenge on the Google-owned Kaggle data science platform related to natural language processing that proved helpful, as did their review of a contest they didn’t enter on . . . um . . . [checks notes] . . . scalar coupling in molecular physics. “Another one which we didn’t participate in ..."
 publishedDateTime: 2020-01-31T02:23:00Z
-sourceUrl: "https://www.sporttechie.com/nfl-big-data-bowl-winners"
+webUrl: "https://www.sporttechie.com/nfl-big-data-bowl-winners"
 type: article
 quality: 23
 heat: 23

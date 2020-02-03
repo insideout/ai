@@ -3,7 +3,7 @@ category: news
 title: "Internal short circuit detection in Li-ion batteries using supervised machine learning"
 excerpt: "A novel method that can detect the Internal short circuit in real time based on an advanced machine leaning approach, is proposed. Based on an equivalent electric circuit model, a set of features encompassing the physics of Li-ion cell with short circuit fault are identified and extracted from each charge-discharge cycle. The training feature ..."
 publishedDateTime: 2020-01-28T10:33:00Z
-sourceUrl: "https://www.nature.com/articles/s41598-020-58021-7"
+webUrl: "https://www.nature.com/articles/s41598-020-58021-7"
 type: article
 quality: 31
 heat: 31
@@ -27,7 +27,7 @@ related:
   - title: "International Business Machines Doing Better Thank You Think"
     excerpt: "Cloud & Cognitive Services continues to generate positive sales growth on a year-over-year basis albeit at a single-digit rate. This is good and the underlying cloud growth rate is double-digit for the past two quarters on the strength of the Red hat acquisition. Granted, the cloud growth rate does not match that of Amazon (AMZN), Microsoft ..."
     publishedDateTime: 2020-01-23T20:54:00Z
-    sourceUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-thank-you-think"
+    webUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-thank-you-think"
     type: article
     provider:
       name: Seeking Alpha

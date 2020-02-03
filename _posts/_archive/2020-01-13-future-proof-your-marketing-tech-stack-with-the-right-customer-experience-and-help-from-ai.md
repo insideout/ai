@@ -3,7 +3,7 @@ category: news
 title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
 excerpt: "In 2019, this was certainly the case when marketing cloud Acoustic emerged as the rebranded spinoff of IBM Watson Marketing. On day one ... and is valuable for the customer and easy to manage for the marketers.\" Where does AI fit in? “AI is essentially pattern recognition,” Guadagno explained. “It’s something that humans can’t ..."
 publishedDateTime: 2020-01-13T22:12:00Z
-sourceUrl: "https://www.dmnews.com/customer-experience/article/21109830/futureproof-your-marketing-tech-stack-with-the-right-customer-experience-and-help-from-ai"
+webUrl: "https://www.dmnews.com/customer-experience/article/21109830/futureproof-your-marketing-tech-stack-with-the-right-customer-experience-and-help-from-ai"
 type: article
 quality: 28
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
     excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning ..."
     publishedDateTime: 2020-01-15T10:02:00Z
-    sourceUrl: "https://www.androidauthority.com/ultimate-deep-learning-1073754/"
-    ampUrl: "https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/"
-    cdnAmpUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/"
+    webUrl: "https://www.androidauthority.com/ultimate-deep-learning-1073754/"
+    ampWebUrl: "https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/"
+    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/"
     type: article
     provider:
       name: Android Authority

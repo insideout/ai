@@ -3,9 +3,9 @@ category: news
 title: "Waymo’s autonomous cars have driven 20 million miles on public roads"
 excerpt: "The updated metric puts Waymo far ahead of rivals like Yandex and Baidu, whose cars had driven around 1 million miles as of October and July, respectively. In late 2017, the cofounder of Cruise, GM’s self-driving unit, told investors it was on the verge of putting 1 million miles on its autonomous test cars per month. Of course, it’s worth ..."
 publishedDateTime: 2020-01-07T03:28:00Z
-sourceUrl: https://venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/
-ampUrl: https://venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/amp/
+webUrl: https://venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/
+ampWebUrl: https://venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/amp/
+cdnAmpWebUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/amp/
 type: article
 quality: 89
 heat: 89

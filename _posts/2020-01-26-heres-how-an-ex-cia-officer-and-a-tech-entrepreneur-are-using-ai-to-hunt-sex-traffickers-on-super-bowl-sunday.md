@@ -3,7 +3,7 @@ category: news
 title: "Here's how an ex-CIA officer and a tech entrepreneur are using AI to hunt sex traffickers on Super Bowl Sunday"
 excerpt: "Computer vision startup XIX and Deliver Fund, a nonprofit started by an ex-CIA agent, is using AI to hunt sex traffickers."
 publishedDateTime: 2020-01-26T14:19:00Z
-sourceUrl: "https://www.businessinsider.com/deliver-fund-xix-entrepreneur-ai-fight-sex-trafficking-2020-1"
+webUrl: "https://www.businessinsider.com/deliver-fund-xix-entrepreneur-ai-fight-sex-trafficking-2020-1"
 type: article
 quality: 47
 heat: 47

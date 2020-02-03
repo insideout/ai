@@ -3,7 +3,7 @@ category: news
 title: "Can AI Save Our Oceans? Let’s Start With The Data."
 excerpt: "Coral is the ocean’s life system and without it, we will soon also have an ocean without life. In spite of the terrible news, there are some glimmers of light and hope spots that we can point to, especially in the areas of AI for the benefit of the ocean. This will be the first in a series of articles that puts a spotlight on the top ..."
 publishedDateTime: 2020-01-16T19:25:00Z
-sourceUrl: "https://medium.com/swlh/can-ai-save-our-oceans-lets-start-with-the-data-ccd0dc91f302"
+webUrl: "https://medium.com/swlh/can-ai-save-our-oceans-lets-start-with-the-data-ccd0dc91f302"
 type: article
 quality: 67
 heat: 67

@@ -3,9 +3,9 @@ category: news
 title: "How machine learning can secure corporate data in the Cloud"
 excerpt: "As organisations move growing volumes of data to the cloud, cyber security strategies need to be augmented with next-generation machine learning technologies in order to boost threat-protection capabilities. The shift to digitalisation and the increased use of cloud applications have raised cyber security stakes significantly by making it ..."
 publishedDateTime: 2020-01-27T22:44:00Z
-sourceUrl: "https://www.csoonline.com/article/3516425/how-machine-learning-can-secure-corporate-data-in-the-cloud.html"
-ampUrl: "https://www.csoonline.com/article/3516425/how-machine-learning-can-secure-corporate-data-in-the-cloud.amp.html"
-cdnAmpUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3516425/how-machine-learning-can-secure-corporate-data-in-the-cloud.amp.html"
+webUrl: "https://www.csoonline.com/article/3516425/how-machine-learning-can-secure-corporate-data-in-the-cloud.html"
+ampWebUrl: "https://www.csoonline.com/article/3516425/how-machine-learning-can-secure-corporate-data-in-the-cloud.amp.html"
+cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3516425/how-machine-learning-can-secure-corporate-data-in-the-cloud.amp.html"
 type: article
 quality: 59
 heat: 69
@@ -29,7 +29,7 @@ related:
   - title: "How Twitter, data mining, and machine learning can combat the coronavirus"
     excerpt: "The coronavirus illness (nCoV) is now bigger than the SARS outbreak of 2003. Unlike SARS, this time around scientists have better genome sequencing, machine learning, and predictive analysis tools to understand and monitor the outbreak. During the SARS outbreak, it took five months for scientists to sequence the virus's genome. However ..."
     publishedDateTime: 2020-01-30T13:58:00Z
-    sourceUrl: "https://www.techrepublic.com/article/how-twitter-data-mining-and-machine-learning-can-combat-the-coronavirus/"
+    webUrl: "https://www.techrepublic.com/article/how-twitter-data-mining-and-machine-learning-can-combat-the-coronavirus/"
     type: article
     provider:
       name: TechRepublic

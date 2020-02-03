@@ -3,7 +3,7 @@ category: news
 title: "AMD’s third shoe finally drops at CES 2020—7nm Zen 2 mobile CPUs"
 excerpt: "The uber-popular Tensorflow platform targets CUDA architecture specifically, so no matter how many FPS your Radeon card gets compared to its nearest Intel counterpart when gaming, it's a poor choice if you've got an itch to do some hard-core deep-learning work on your system. AMD also had a slide declaring itself the only manufacturer of both ..."
 publishedDateTime: 2020-01-08T12:44:00Z
-sourceUrl: https://arstechnica.com/gadgets/2020/01/amds-third-shoe-finally-drops-at-ces-2020-7nm-zen-2-mobile-cpus/
+webUrl: https://arstechnica.com/gadgets/2020/01/amds-third-shoe-finally-drops-at-ces-2020-7nm-zen-2-mobile-cpus/
 type: article
 quality: 54
 heat: 54

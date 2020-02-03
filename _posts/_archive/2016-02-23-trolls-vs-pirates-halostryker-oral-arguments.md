@@ -3,7 +3,7 @@ category: news
 title: "Trolls vs Pirates: Halo/Stryker Oral Arguments"
 excerpt: "Wall’s approach was to highlight the general nature of the the statute ... MR. WALL: [W]e and the PTO and many of Respondents’ amici recognize, the system as it currently stands is out of balance. And we have tried, and I believe we have succeeded ..."
 publishedDateTime: 2016-02-23T16:17:00Z
-sourceUrl: "https://patentlyo.com/patent/2016/02/pirates-halostryker-arguments.html"
+webUrl: "https://patentlyo.com/patent/2016/02/pirates-halostryker-arguments.html"
 type: article
 quality: 102
 heat: 102

@@ -3,9 +3,9 @@ category: news
 title: "Björk creates an AI composition that creates music that creates music to the weather"
 excerpt: "The AI will create dynamic new variations of Björk's original arrangements based on the changing weather patterns and position of the sun . Called ‘Kórsafn,’ which means ‘choir archive’ in Icelandic, the composition will be played continuously ..."
 publishedDateTime: 2020-01-17T22:41:00Z
-sourceUrl: "https://www.dailymail.co.uk/sciencetech/article-7900725/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html"
-ampUrl: "https://www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html"
-cdnAmpUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html"
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-7900725/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html"
+ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html"
 type: article
 quality: 150
 heat: 160
@@ -28,7 +28,7 @@ related:
   - title: "AI-generated Björk hotel lobby soundscape made me hear the weather"
     excerpt: "I'm in that hotel lobby, listening. There's a pattern to the music. It's connected to a camera on the roof, gazing at moving clouds and birds. The composition is AI-driven. The best part is, it's invisible and it works. I stay and listen for an hour. Björk created a new AI-generated experimental ambient musical piece in collaboration with ..."
     publishedDateTime: 2020-01-24T20:55:00Z
-    sourceUrl: "https://www.cnet.com/news/ai-generated-bjork-hotel-lobby-soundscape-made-me-hear-the-weather/"
+    webUrl: "https://www.cnet.com/news/ai-generated-bjork-hotel-lobby-soundscape-made-me-hear-the-weather/"
     type: article
     provider:
       name: CNET

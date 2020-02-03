@@ -3,7 +3,7 @@ category: news
 title: "Data for Machine Learning Get’s a New Lease on Language"
 excerpt: "San Francisco, CA – Venga has released its third solution in its rapidly growing suite of products for Natural Language Processing (NLP) Data Collection. The new addition to the family is InVimage – a cloud-based solution for annotating text within images. With each annotation, we automatically capture the X and Y coordinates, OCR (Optical ..."
 publishedDateTime: 2020-01-09T00:59:00Z
-sourceUrl: https://slator.com/press-releases/data-for-machine-learning-gets-a-new-lease-on-language/
+webUrl: https://slator.com/press-releases/data-for-machine-learning-gets-a-new-lease-on-language/
 type: article
 quality: 24
 heat: 24

@@ -3,7 +3,7 @@ category: news
 title: "Every business can use - and afford - artificial intelligence"
 excerpt: "Gartner's hype cycle for artificial intelligence (AI ... only available through expensive and nuanced breakthroughs such as self-driving vehicles. It's a perception that professionals encounter, and counter, every day. \"A lot of businesses think AI ..."
 publishedDateTime: 2020-01-15T19:30:00Z
-sourceUrl: "https://www.itweb.co.za/content/4r1ly7RoeXeMpmda"
+webUrl: "https://www.itweb.co.za/content/4r1ly7RoeXeMpmda"
 type: article
 quality: 39
 heat: 39

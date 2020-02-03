@@ -3,7 +3,7 @@ category: news
 title: "Longer Looks: Wilderness Therapy, How AI Caught The Start Of A Pandemic, And Pregnancy Meds"
 excerpt: "But a Canadian health monitoring platform had beaten them both to the punch, sending word of the outbreak to its customers on December 31. BlueDot uses an AI-driven algorithm that scours foreign-language news reports, animal and plant disease networks, and official proclamations to give its clients advance warning to avoid danger zones like Wuhan."
 publishedDateTime: 2020-01-31T12:38:00Z
-sourceUrl: "https://khn.org/morning-breakout/longer-looks-wilderness-therapy-how-ai-caught-the-start-of-a-pandemic-and-pregnancy-meds/"
+webUrl: "https://khn.org/morning-breakout/longer-looks-wilderness-therapy-how-ai-caught-the-start-of-a-pandemic-and-pregnancy-meds/"
 type: article
 quality: 27
 heat: 27

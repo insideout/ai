@@ -3,9 +3,9 @@ category: news
 title: "Apple, Broadcom strike chip-supply deals worth U$15 billion for devices released through mid-2023"
 excerpt: "The San Jose, California-based chip maker said it entered into two multi-year pacts “for the supply of a ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective ..."
 publishedDateTime: 2020-01-24T02:47:00Z
-sourceUrl: "https://www.scmp.com/tech/big-tech/article/3047469/apple-broadcom-strike-chip-supply-deals-worth-u15-billion-devices"
-ampUrl: "https://amp.scmp.com/tech/big-tech/article/3047469/apple-broadcom-strike-chip-supply-deals-worth-u15-billion-devices"
-cdnAmpUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3047469/apple-broadcom-strike-chip-supply-deals-worth-u15-billion-devices"
+webUrl: "https://www.scmp.com/tech/big-tech/article/3047469/apple-broadcom-strike-chip-supply-deals-worth-u15-billion-devices"
+ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3047469/apple-broadcom-strike-chip-supply-deals-worth-u15-billion-devices"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3047469/apple-broadcom-strike-chip-supply-deals-worth-u15-billion-devices"
 type: article
 quality: 26
 heat: 26

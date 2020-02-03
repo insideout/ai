@@ -3,7 +3,7 @@ category: news
 title: "SoftBank-backed AI startup CloudMinds slashing workforce"
 excerpt: "TOKYO (Reuters) – SoftBank-backed cloud robotics and artificial intelligence startup CloudMinds is slashing its global workforce as it burns through cash after repeated attempts to list on the stock market, people familiar with the matter said."
 publishedDateTime: 2020-01-27T05:10:00Z
-sourceUrl: "https://www.nyoooz.com/features/technology/softbankbacked-ai-startup-cloudminds-slashing-workforce.html/3168/"
+webUrl: "https://www.nyoooz.com/features/technology/softbankbacked-ai-startup-cloudminds-slashing-workforce.html/3168/"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "SoftBank-backed Chinese AI startup said to be closing co-HQ in Santa Clara"
     excerpt: "The SoftBank-backed Chinese AI startup is said to be closing its co-HQ in Santa Clara and cutting jobs, making it the latest company in the SoftBank portfolio to lay off employees."
     publishedDateTime: 2020-01-27T16:36:00Z
-    sourceUrl: "https://www.bizjournals.com/sanjose/news/2020/01/27/cloudminds-job-cuts-santa-clara-hq-softbank.html"
-    ampUrl: "https://www.bizjournals.com/sanjose/news/2020/01/27/cloudminds-job-cuts-santa-clara-hq-softbank.amp.html"
-    cdnAmpUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/27/cloudminds-job-cuts-santa-clara-hq-softbank.amp.html"
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/01/27/cloudminds-job-cuts-santa-clara-hq-softbank.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/01/27/cloudminds-job-cuts-santa-clara-hq-softbank.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/27/cloudminds-job-cuts-santa-clara-hq-softbank.amp.html"
     type: article
     provider:
       name: The Business Journals

@@ -3,7 +3,7 @@ category: news
 title: "New Project at Jefferson Lab Aims to Use Machine Learning to Improve Up-Time of Particle Accelerators"
 excerpt: "Now, accelerator scientists are turning to machine learning in hopes that they can more quickly recover CEBAF from faults and one day even prevent them. Image courtesy of Jefferson Lab. Anna Shabalina is a Jefferson Lab staff member and principal investigator on the project, which has been funded by the Laboratory Directed Research ..."
 publishedDateTime: 2020-01-30T13:35:00Z
-sourceUrl: "https://www.hpcwire.com/off-the-wire/new-project-at-jefferson-lab-aims-to-use-machine-learning-to-improve-up-time-of-particle-accelerators/"
+webUrl: "https://www.hpcwire.com/off-the-wire/new-project-at-jefferson-lab-aims-to-use-machine-learning-to-improve-up-time-of-particle-accelerators/"
 type: article
 quality: 39
 heat: 39

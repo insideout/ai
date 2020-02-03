@@ -3,9 +3,9 @@ category: news
 title: "Dallas AI startup lands seed round with focus on affordable housing"
 excerpt: "This Dallas software company aimed at finding housing for everyone is hoping its tech can spur change across the country."
 publishedDateTime: 2020-01-16T19:54:00Z
-sourceUrl: "https://www.bizjournals.com/dallas/news/2020/01/16/boodskapper.html"
-ampUrl: "https://www.bizjournals.com/dallas/news/2020/01/16/boodskapper.amp.html"
-cdnAmpUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2020/01/16/boodskapper.amp.html"
+webUrl: "https://www.bizjournals.com/dallas/news/2020/01/16/boodskapper.html"
+ampWebUrl: "https://www.bizjournals.com/dallas/news/2020/01/16/boodskapper.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2020/01/16/boodskapper.amp.html"
 type: article
 quality: 57
 heat: 57

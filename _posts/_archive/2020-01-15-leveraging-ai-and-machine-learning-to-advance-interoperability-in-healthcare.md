@@ -3,7 +3,7 @@ category: news
 title: "Leveraging AI and Machine Learning to Advance Interoperability in Healthcare"
 excerpt: "Without syntactic and semantic interoperability, that diagnosis runs the risk of getting lost in translation when shared digitally with multiple health providers ... Coupled with other unstructured data, Cerner uses the data to power machine learning models and algorithms that help with earlier detection of congestive heart failure."
 publishedDateTime: 2020-01-15T19:00:00Z
-sourceUrl: "https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/"
+webUrl: "https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/"
 type: article
 quality: 53
 heat: 53

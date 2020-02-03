@@ -3,7 +3,7 @@ category: news
 title: "Yogi Closes $2.3M Seed Financing to Expand Its Deep Learning Customer Feedback Analytics Platform"
 excerpt: "NEW YORK--(BUSINESS WIRE)--Yogi, a customer feedback analytics platform deploying deep learning for actionable product insights, announced today that it has raised $2.3M in seed funding, with RTP Ventures leading, and Felton Group LLC, the family office of Jaffray Woodriff, participating in the capital raise. Existing investors Entrepreneurs ..."
 publishedDateTime: 2020-01-27T15:23:00Z
-sourceUrl: "https://www.businesswire.com/news/home/20200127005161/en/Yogi-Closes-2.3M-Seed-Financing-Expand-Deep"
+webUrl: "https://www.businesswire.com/news/home/20200127005161/en/Yogi-Closes-2.3M-Seed-Financing-Expand-Deep"
 type: article
 quality: 26
 heat: 26

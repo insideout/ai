@@ -3,9 +3,9 @@ category: news
 title: "New dog in town? A K9 robot for construction and more"
 excerpt: "\"What we wanted to do was find a way of bringing intelligence into the real world, so [we're] aiming to build a robotics body for the artificial intelligence revolution that we've all seen coming,\" said Dr. Charles Galambos, CTO and co-founder at React Robotics. \"DogBot is about opening the way to robots that really understand the world and ..."
 publishedDateTime: 2020-01-28T12:00:00Z
-sourceUrl: "https://www.zdnet.com/article/new-dog-in-town-a-k9-robot-for-construction-and-more/"
-ampUrl: "https://www.zdnet.com/google-amp/article/new-dog-in-town-a-k9-robot-for-construction-and-more/"
-cdnAmpUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-dog-in-town-a-k9-robot-for-construction-and-more/"
+webUrl: "https://www.zdnet.com/article/new-dog-in-town-a-k9-robot-for-construction-and-more/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/new-dog-in-town-a-k9-robot-for-construction-and-more/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-dog-in-town-a-k9-robot-for-construction-and-more/"
 type: article
 quality: 89
 heat: 99
@@ -33,7 +33,7 @@ related:
   - title: "8 start-ups transforming the construction industry"
     excerpt: "Built Robotics is a Silicon Valley construction start-up, with a Silicon Valley level of ambition. The company wants to build the robots that will build the world, by upgrading off-the-shelf heavy equipment with AI guidance systems. The start-up wants to take the construction equipment we already recognise and enable it to operate fully ..."
     publishedDateTime: 2020-01-23T08:48:00Z
-    sourceUrl: "https://www.siliconrepublic.com/start-ups/construction-startups-ireland-europe-us"
+    webUrl: "https://www.siliconrepublic.com/start-ups/construction-startups-ireland-europe-us"
     type: article
     provider:
       name: SiliconRepublic

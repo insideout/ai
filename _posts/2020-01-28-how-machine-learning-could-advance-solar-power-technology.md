@@ -3,7 +3,7 @@ category: news
 title: "How machine learning could advance solar power technology"
 excerpt: "This experimentation is the key to creating a healthy proposition for machine learning to become a part of renewable energy. At the University of Central Florida, a number of researchers are focusing on perovskite solar panels. Featuring a combination of inorganic and organic factors, this set has seen up to 28 per cent in increased efficiency ..."
 publishedDateTime: 2020-01-28T04:29:00Z
-sourceUrl: "https://www.energymatters.com.au/renewable-news/how-machine-learning-could-advance-solar-power-technology/"
+webUrl: "https://www.energymatters.com.au/renewable-news/how-machine-learning-could-advance-solar-power-technology/"
 type: article
 quality: 39
 heat: 39

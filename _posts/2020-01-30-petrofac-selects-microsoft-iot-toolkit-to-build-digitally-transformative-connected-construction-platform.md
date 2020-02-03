@@ -3,7 +3,7 @@ category: news
 title: "Petrofac selects Microsoft IoT toolkit to build digitally transformative Connected Construction platform"
 excerpt: "With the options to run SaaS or PaaS deployment models, solutions builders can deliver real edge intelligence to field operatives that allows better, data-driven decisions through machine learning and advanced analytics. Azure IoT Edge moves cloud analytics and custom business logic to devices for organisations that prioritise business insights ..."
 publishedDateTime: 2020-01-30T17:06:00Z
-sourceUrl: "https://news.microsoft.com/en-xm/2020/01/30/petrofac-selects-microsoft-iot-toolkit-to-build-digitally-transformative-connected-construction-platform/"
+webUrl: "https://news.microsoft.com/en-xm/2020/01/30/petrofac-selects-microsoft-iot-toolkit-to-build-digitally-transformative-connected-construction-platform/"
 type: article
 quality: 22
 heat: -1
@@ -31,9 +31,9 @@ related:
   - title: "Petrofac Selects Microsoft IoT Toolkit To Build Digitally Transformative Connected Construction Platform"
     excerpt: "With the options to run SaaS or PaaS deployment models, solutions builders can deliver real edge intelligence to field operatives that allows better, data-driven decisions through machine learning and advanced analytics. Azure IoT Edge moves cloud analytics and custom business logic to devices for organisations that prioritise business insights ..."
     publishedDateTime: 2020-01-29T12:49:00Z
-    sourceUrl: "https://www.albawaba.com/business/pr/petrofac-selects-microsoft-iot-toolkit-build-digitally-transformative-connected"
-    ampUrl: "https://www.albawaba.com/amp/business/pr/petrofac-selects-microsoft-iot-toolkit-build-digitally-transformative-connected"
-    cdnAmpUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/petrofac-selects-microsoft-iot-toolkit-build-digitally-transformative-connected"
+    webUrl: "https://www.albawaba.com/business/pr/petrofac-selects-microsoft-iot-toolkit-build-digitally-transformative-connected"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/petrofac-selects-microsoft-iot-toolkit-build-digitally-transformative-connected"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/petrofac-selects-microsoft-iot-toolkit-build-digitally-transformative-connected"
     type: article
     provider:
       name: Al Bawaba News

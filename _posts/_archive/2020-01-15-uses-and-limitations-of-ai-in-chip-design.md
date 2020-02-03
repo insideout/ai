@@ -3,7 +3,7 @@ category: news
 title: "Uses And Limitations Of AI In Chip Design"
 excerpt: "From there, formal will give valuable input to the whole system verification. SE: One of the problems with those chips, particularly the ones used for safety, is that the AI running on those systems are basically opaque. Is there any progress in understanding what can go wrong with those algorithms? Brinkmann: The machine learning guys are ..."
 publishedDateTime: 2020-01-15T18:46:00Z
-sourceUrl: "https://semiengineering.com/uses-and-limitations-of-ai-in-chip-design/"
+webUrl: "https://semiengineering.com/uses-and-limitations-of-ai-in-chip-design/"
 type: article
 quality: 54
 heat: 54

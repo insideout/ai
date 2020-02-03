@@ -3,9 +3,9 @@ category: news
 title: "Apple is Quietly Expanding its Artificial Intelligence Ecosystem"
 excerpt: "Apple (NASDAQ:AAPL) recently acquired Xnor.ai, a Seattle-based start-up that develops low-power, edge-based artificial intelligence tools. Apple didn't disclose the terms of the deal, but GeekWire claimed that the deal was worth about $200 million. Apple reportedly paid a similar amount for Turi, another Seattle-based company that specializes ..."
 publishedDateTime: 2020-01-23T17:41:00Z
-sourceUrl: "https://www.fool.com/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx"
-ampUrl: "https://www.fool.com/amp/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx"
-cdnAmpUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx"
+webUrl: "https://www.fool.com/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx"
 type: article
 quality: 89
 heat: 99
@@ -33,7 +33,7 @@ related:
   - title: "Apple Is Quietly Expanding Its Artificial Intelligence Ecosystem"
     excerpt: "recently acquired Xnor.ai, a Seattle-based start-up that develops low-power, edge-based artificial intelligence tools. Apple didn't disclose the terms of the deal, but GeekWire claimed that the deal was worth about $200 million."
     publishedDateTime: 2020-01-24T10:30:00Z
-    sourceUrl: "https://www.ibtimes.com/apple-quietly-expanding-its-artificial-intelligence-ecosystem-2908660"
+    webUrl: "https://www.ibtimes.com/apple-quietly-expanding-its-artificial-intelligence-ecosystem-2908660"
     type: article
     provider:
       name: International Business Times

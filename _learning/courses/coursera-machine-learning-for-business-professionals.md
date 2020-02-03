@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning for Business Professionals"
 excerpt: "Learn Machine Learning for Business Professionals from Google Cloud. This course is intended to be an introduction to machine learning for non-technical business professionals. There is a lot of hype around machine learning and many people are ..."
-sourceUrl: https://www.coursera.org/learn/machine-learning-business-professionals
+webUrl: https://www.coursera.org/learn/machine-learning-business-professionals
 type: course
 price: Free+
 length: 17 hours

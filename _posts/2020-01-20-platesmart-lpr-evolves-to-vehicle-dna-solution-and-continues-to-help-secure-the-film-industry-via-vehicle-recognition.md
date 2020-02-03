@@ -3,7 +3,7 @@ category: news
 title: "PlateSmart LPR Evolves to Vehicle DNA Solution and Continues to Help Secure the Film Industry via Vehicle Recognition"
 excerpt: "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in security technology. FORWARD LOOKING STATEMENTS: This press release may contain forward-looking ..."
 publishedDateTime: 2020-01-20T20:16:00Z
-sourceUrl: "https://www.newswiretoday.com/news/172163/PlateSmart-LPR-Evolves-to-Vehicle-DNA-Solution-and-Continues-to-Help-Secure-the-Film-Industry-via-Vehicle-Recognition/"
+webUrl: "https://www.newswiretoday.com/news/172163/PlateSmart-LPR-Evolves-to-Vehicle-DNA-Solution-and-Continues-to-Help-Secure-the-Film-Industry-via-Vehicle-Recognition/"
 type: article
 quality: 0
 heat: 0

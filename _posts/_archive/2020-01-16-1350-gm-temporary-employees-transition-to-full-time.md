@@ -3,7 +3,7 @@ category: news
 title: "1,350 GM Temporary Employees Transition to Full-Time"
 excerpt: "Ford may not be as far along as Google's Waymo or General Motors' Cruise in their autonomous ... that learning back into the manufacturing environment and into the artificial intelligence [area].” Bailo finds it interesting that Ford's plan is to use ..."
 publishedDateTime: 2020-01-16T01:41:00Z
-sourceUrl: "https://www.industryweek.com/talent/labor-employment-policy/article/21120615/1350-gm-temporary-employees-transition-to-fulltime"
+webUrl: "https://www.industryweek.com/talent/labor-employment-policy/article/21120615/1350-gm-temporary-employees-transition-to-fulltime"
 type: article
 quality: 4
 heat: 4

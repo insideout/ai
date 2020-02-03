@@ -3,7 +3,7 @@ category: news
 title: "Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations"
 excerpt: "We address this problem by developing hidden fluid mechanics (HFM), a physics-informed deep learning framework capable of encoding the Navier-Stokes equations into the neural networks, while being agnostic to the geometry or the initial and boundary conditions. We demonstrate HFM for several physical and biomedical problems by extracting ..."
 publishedDateTime: 2020-01-30T22:12:00Z
-sourceUrl: "https://science.sciencemag.org/content/early/2020/01/29/science.aaw4741.full"
+webUrl: "https://science.sciencemag.org/content/early/2020/01/29/science.aaw4741.full"
 type: article
 quality: 0
 heat: 0

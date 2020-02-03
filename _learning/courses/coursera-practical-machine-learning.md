@@ -1,7 +1,7 @@
 ---
 title: "Practical Machine Learning"
 excerpt: "Learn Practical Machine Learning from Johns Hopkins University. One of the most common tasks performed by data scientists and data analysts are prediction and machine learning. This course will cover the basic components of building and applying ..."
-sourceUrl: https://www.coursera.org/learn/practical-machine-learning
+webUrl: https://www.coursera.org/learn/practical-machine-learning
 type: course
 price: Free+
 length: 14 hours

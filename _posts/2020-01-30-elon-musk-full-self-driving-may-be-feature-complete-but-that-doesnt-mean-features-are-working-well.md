@@ -3,7 +3,7 @@ category: news
 title: "Elon Musk: Full Self Driving May Be 'Feature Complete' But That 'Doesn't Mean Features Are Working Well'"
 excerpt: "During Tesla’s earnings call Wednesday evening Elon Musk mentioned that Full Self Driving tech is probably going to be released by the end of this year, and that the company may allow certain customers early access to a “feature complete” version of the software. Musk went on to clarify that this means the car will have some chance of ..."
 publishedDateTime: 2020-01-30T23:20:00Z
-sourceUrl: "https://www.gizmodo.com.au/2020/01/elon-musk-full-self-driving-may-be-feature-complete-but-that-doesnt-mean-features-are-working-well/"
+webUrl: "https://www.gizmodo.com.au/2020/01/elon-musk-full-self-driving-may-be-feature-complete-but-that-doesnt-mean-features-are-working-well/"
 type: article
 quality: 22
 heat: 22

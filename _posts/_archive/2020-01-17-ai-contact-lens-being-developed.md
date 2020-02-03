@@ -3,7 +3,7 @@ category: news
 title: "AI contact lens being developed"
 excerpt: "Startup Mojo Vision has been developing an AR contact lens which really means people will have difficulty telling what is real or not. Mojo Vision is calling the technology Invisible Computing. Last week the company let selected media have a look at working prototypes, powered wirelessly, though plans for the next version include a battery on ..."
 publishedDateTime: 2020-01-17T10:40:00Z
-sourceUrl: "https://www.fudzilla.com/news/ai/50136-ai-contact-lens-being-developed"
+webUrl: "https://www.fudzilla.com/news/ai/50136-ai-contact-lens-being-developed"
 type: article
 quality: 37
 heat: 37
@@ -26,7 +26,7 @@ related:
   - title: "Mojo Vision developing “smart” contact lens"
     excerpt: "Mojo Lens features a power-efficient image sensor that is optimized for computer vision, a custom wireless radio and motion sensors for eye-tracking and image stabilization. The device increases contrast, highlights edges, magnifies objects and zooms out ..."
     publishedDateTime: 2020-01-17T14:52:00Z
-    sourceUrl: "https://www.massdevice.com/mojo-vision-developing-smart-contact-lens/"
+    webUrl: "https://www.massdevice.com/mojo-vision-developing-smart-contact-lens/"
     type: article
     provider:
       name: MassDevice
@@ -39,7 +39,7 @@ related:
   - title: "'Invisible computing' startup unveils smart contact lens"
     excerpt: "A startup focused on \"invisible computing\" has unveiled a smart contact lens which delivers an augmented reality display in a user's field of vision. The Mojo Vision contact lens offers a display with information and notifications, and allows the user to interact by focusing on certain points. The rigid contact lens, which the company has been ..."
     publishedDateTime: 2020-01-18T22:12:00Z
-    sourceUrl: "https://japantoday.com/category/tech/%27invisible-computing%27-startup-unveils-smart-contact-lens"
+    webUrl: "https://japantoday.com/category/tech/%27invisible-computing%27-startup-unveils-smart-contact-lens"
     type: article
     provider:
       name: Japan Today

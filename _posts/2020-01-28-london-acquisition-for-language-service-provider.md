@@ -3,7 +3,7 @@ category: news
 title: "London acquisition for language service provider"
 excerpt: "The deal is set to broaden Wolfestone Group’s service offerings, which encompass: translation ... The language and multimedia industries continue to grow, and new opportunities are always arising. We will soon be deploying new AI technology which is ..."
 publishedDateTime: 2020-01-28T08:56:00Z
-sourceUrl: "https://www.insidermedia.com/news/wales/london-acquisition-for-language-service-provider"
+webUrl: "https://www.insidermedia.com/news/wales/london-acquisition-for-language-service-provider"
 type: article
 quality: 24
 heat: 24

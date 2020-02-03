@@ -3,7 +3,7 @@ category: news
 title: "What can AI do to fight global warming?"
 excerpt: "Tiernan Rays tells Karen Roby that some of the brightest minds in AI last month gathered in Vancouver to propose technology to fight global warming. Despite the brilliance of the inventions, other factors such as policy will be necessary to reduce carbon emissions swiftly. Read more: https://zd.net/373YMLj"
 publishedDateTime: 2020-01-17T20:54:00Z
-sourceUrl: "https://www.zdnet.com/video/what-can-ai-do-to-fight-global-warming/"
+webUrl: "https://www.zdnet.com/video/what-can-ai-do-to-fight-global-warming/"
 type: article
 quality: 67
 heat: 67

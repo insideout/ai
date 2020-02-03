@@ -3,9 +3,9 @@ category: news
 title: "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose"
 excerpt: "German supplier Bosch is notably moving full speed ahead with its quest to make driverless cars a reality. Kay Stepper, Bosch’s senior vice president of automated driving, sat down with Digital Trends to talk about the state of autonomous driving in 2020, and what’s next for the artificial intelligence technology that powers the prototypes ..."
 publishedDateTime: 2020-01-17T16:46:00Z
-sourceUrl: "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/"
-ampUrl: "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp"
-cdnAmpUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp"
+webUrl: "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/"
+ampWebUrl: "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp"
 type: article
 quality: 72
 heat: 72

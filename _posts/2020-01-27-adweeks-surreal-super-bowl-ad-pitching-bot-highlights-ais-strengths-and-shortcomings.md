@@ -3,9 +3,9 @@ category: news
 title: "Adweek’s Surreal Super Bowl Ad-Pitching Bot Highlights AI’s Strengths and Shortcomings"
 excerpt: "While text-generating AI in its current form is probably ill-suited for creative projects beyond novelty gags, like Adweek’s recently launched Super Bowl Bot and its surreal ad concept pitches, even these projects show glimmers of impressive complexity or genuine cleverness that hint at the growing, inventive power of AI. “We are elbows ..."
 publishedDateTime: 2020-01-27T23:13:00Z
-sourceUrl: "https://www.adweek.com/digital/adweeks-surreal-super-bowl-ad-pitching-bot-highlights-ais-strengths-and-shortcomings/"
-ampUrl: "https://www.adweek.com/digital/adweeks-surreal-super-bowl-ad-pitching-bot-highlights-ais-strengths-and-shortcomings/amp/"
-cdnAmpUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/adweeks-surreal-super-bowl-ad-pitching-bot-highlights-ais-strengths-and-shortcomings/amp/"
+webUrl: "https://www.adweek.com/digital/adweeks-surreal-super-bowl-ad-pitching-bot-highlights-ais-strengths-and-shortcomings/"
+ampWebUrl: "https://www.adweek.com/digital/adweeks-surreal-super-bowl-ad-pitching-bot-highlights-ais-strengths-and-shortcomings/amp/"
+cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/adweeks-surreal-super-bowl-ad-pitching-bot-highlights-ais-strengths-and-shortcomings/amp/"
 type: article
 quality: 49
 heat: -1
@@ -28,7 +28,7 @@ related:
   - title: "Here’s What We Learned by Teaching an AI to Write Super Bowl Ads"
     excerpt: "Super Bowl ads, the bot’s creators decided to touch base on how it’s going, what we’ve all learned and where this project seems to hint that AI is headed, at least in the realm of creativity. Here’s the conversation between Adweek emerging tech reporter Patrick Kulp and creative and innovation editor David Griner: David Griner ..."
     publishedDateTime: 2020-01-24T13:47:00Z
-    sourceUrl: "https://www.adweek.com/creativity/heres-what-we-learned-by-teaching-an-ai-to-write-super-bowl-ads/"
+    webUrl: "https://www.adweek.com/creativity/heres-what-we-learned-by-teaching-an-ai-to-write-super-bowl-ads/"
     type: article
     provider:
       name: Adweek
@@ -37,7 +37,7 @@ related:
   - title: "Machine Learning Market to Observe A Superlative CAGR of 42.08 % By 2024"
     excerpt: "Machine Learning Market Research Report- Forecast till 2023 Market Highlights The elevated emphasis on AI is creating several opportunities for the progress of the machine learning market. Reports that convey interpretations into the information and communication technology industry has been offered by Market Research Future,"
     publishedDateTime: 2020-01-23T10:08:00Z
-    sourceUrl: "https://www.marketwatch.com/press-release/machine-learning-market-to-observe-a-superlative-cagr-of-4208-by-2024-2020-01-23"
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-to-observe-a-superlative-cagr-of-4208-by-2024-2020-01-23"
     type: article
     provider:
       name: MarketWatch

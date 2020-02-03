@@ -3,7 +3,7 @@ category: news
 title: "Media3 Adds Full Suite of AI Cognitive Services"
 excerpt: "/PRNewswire/ -- Building on its partnership with Microsoft, Media3 announced that a full suite of AI Cognitive Services is now available with all of"
 publishedDateTime: 2020-01-28T12:38:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/media3-adds-full-suite-of-ai-cognitive-services-300993605.html"
+webUrl: "https://www.prnewswire.com/news-releases/media3-adds-full-suite-of-ai-cognitive-services-300993605.html"
 type: article
 quality: 34
 heat: 34

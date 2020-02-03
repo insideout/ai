@@ -3,9 +3,9 @@ category: news
 title: "Overfunding: Ag-Tech Startup Small Robot Quickly Secures £700,000 Through Latest Crowdcube Funding Round"
 excerpt: "As previously reported, Small Robot has transitioned from prototype to commercial service, using an autonomous robot and their AI software to deliver a weed map to paying customers. “Imagine a world in which we could use swarms of lightweight ..."
 publishedDateTime: 2020-01-18T02:04:00Z
-sourceUrl: "https://www.crowdfundinsider.com/2020/01/156490-overfunding-ag-tech-startup-small-robot-quickly-secures-700000-through-latest-crowdcube-funding-round/"
-ampUrl: "https://www.crowdfundinsider.com/2020/01/156490-overfunding-ag-tech-startup-small-robot-quickly-secures-700000-through-latest-crowdcube-funding-round/amp/"
-cdnAmpUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156490-overfunding-ag-tech-startup-small-robot-quickly-secures-700000-through-latest-crowdcube-funding-round/amp/"
+webUrl: "https://www.crowdfundinsider.com/2020/01/156490-overfunding-ag-tech-startup-small-robot-quickly-secures-700000-through-latest-crowdcube-funding-round/"
+ampWebUrl: "https://www.crowdfundinsider.com/2020/01/156490-overfunding-ag-tech-startup-small-robot-quickly-secures-700000-through-latest-crowdcube-funding-round/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156490-overfunding-ag-tech-startup-small-robot-quickly-secures-700000-through-latest-crowdcube-funding-round/amp/"
 type: article
 quality: 42
 heat: 42

@@ -3,7 +3,7 @@ category: news
 title: "Voice Recognition Used by Law Enforcement"
 excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
 publishedDateTime: 2020-01-12T08:00:00Z
-sourceUrl: "https://i-hls.com/archives/98105"
+webUrl: "https://i-hls.com/archives/98105"
 type: article
 quality: 4
 heat: -1
@@ -21,9 +21,9 @@ related:
   - title: "What is Voice Recognition"
     excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
     publishedDateTime: 2020-01-11T11:43:00Z
-    sourceUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
-    ampUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
-    cdnAmpUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
+    webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
+    ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
+    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
     type: article
     provider:
       name: TWCN Tech News
@@ -36,7 +36,7 @@ related:
   - title: "Sensory Does Voice Recognition Without the ‘Net"
     excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
     publishedDateTime: 2020-01-13T17:25:00Z
-    sourceUrl: "https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net"
+    webUrl: "https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net"
     type: article
     provider:
       name: Embedded Computing Design
@@ -49,9 +49,9 @@ related:
   - title: "Down Syndrome Group Partnering With L.I. College To Improve Google’s Voice Recognition Technology"
     excerpt: "They’re people with speech differences and they’re helping improve the technology of voice recognition, CBS2’s Carolyn Gusoff reported Tuesday. Voice recognition saves time and enriches life. But what if your smart device isn’t smart enough to recognize you? “They don’t answer what I say to Siri,” Jake Lunney said, adding when ..."
     publishedDateTime: 2020-01-15T00:01:00Z
-    sourceUrl: "https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/"
-    ampUrl: "https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/"
-    cdnAmpUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/"
+    webUrl: "https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/"
+    ampWebUrl: "https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/"
+    cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/"
     type: article
     provider:
       name: CBS Boston / WBZ

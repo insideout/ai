@@ -3,9 +3,9 @@ category: news
 title: "Don't want a robot stealing your job? Take a course on AI and machine learning."
 excerpt: "TL;DR: Jump into the world of AI with the Essential AI and Machine Learning Certification Training Bundle for $39.99, a 93% savings. From facial recognition to self-driving vehicles, machine learning is taking over modern life as we know it. It may not be the flying cars and world-dominating robots we envisioned 2020 would hold, but it's ..."
 publishedDateTime: 2020-01-16T19:44:00Z
-sourceUrl: "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle/"
-ampUrl: "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp"
-cdnAmpUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp"
+webUrl: "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle/"
+ampWebUrl: "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp"
 type: article
 quality: 121
 heat: 121

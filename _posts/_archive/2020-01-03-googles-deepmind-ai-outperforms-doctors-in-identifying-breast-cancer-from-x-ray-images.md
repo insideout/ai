@@ -3,7 +3,7 @@ category: news
 title: "Google's DeepMind AI outperforms doctors in identifying breast cancer from X-ray images"
 excerpt: "Researchers from Imperial College London and Google Health this week published new research that shows DeepMind's medical AI system can outperform doctors on identifying breast cancer from X-ray ..."
 publishedDateTime: 2020-01-03T14:31:00Z
-sourceUrl: "https://www.businessinsider.com/google-deepmind-outperforms-doctors-identifying-breast-cancer-2020-1"
+webUrl: "https://www.businessinsider.com/google-deepmind-outperforms-doctors-identifying-breast-cancer-2020-1"
 type: article
 quality: 56
 heat: 76
@@ -25,7 +25,7 @@ related:
   - title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. Google Health and DeepMind have created an AI tool capable of spotting breast cancer with as much accuracy as a human ..."
     publishedDateTime: 2020-01-02T10:52:00Z
-    sourceUrl: "https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1"
+    webUrl: "https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1"
     type: article
     provider:
       name: Business Insider
@@ -34,7 +34,7 @@ related:
   - title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
     excerpt: "Google-owned DeepMind has already used AI to read eye scans and spot neck cancer. Artificial Intelligence (AI) powered by Google's DeepMind algorithm may be more accurate at spotting breast cancer ..."
     publishedDateTime: 2020-01-02T13:14:00Z
-    sourceUrl: "https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
+    webUrl: "https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html"
     type: article
     provider:
       name: CNBC

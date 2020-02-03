@@ -3,7 +3,7 @@ category: news
 title: "Scientists invent robot that climbs surfaces like Spider-Man"
 excerpt: "A pair of researchers from Zhejiang University in China have developed a device that allows humans or robots to scale walls like the Amazing Spider-Man. Researchers Xin Li and Kaige Shi developed a novel vaccuum suction unit capable of gripping rough, uneven surfaces. Until recently, if you wanted to suction-cup your way up a wall it’d have ..."
 publishedDateTime: 2020-01-20T22:10:00Z
-sourceUrl: "https://thenextweb.com/artificial-intelligence/2020/01/20/scientists-invent-robot-that-climbs-surfaces-like-spider-man/"
+webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/20/scientists-invent-robot-that-climbs-surfaces-like-spider-man/"
 type: article
 quality: 69
 heat: 69

@@ -3,7 +3,7 @@ category: news
 title: "Royaltie.AI Kicks Off the GEM Program to Support Aspiring Entrepreneurs"
 excerpt: "\"The GEM Program allows us to help aspiring entrepreneurs who we believe have an actionable vision to start or progress a small business but lack the financial means or support to achieve it,\" said Justin Belobaba, Founder & CEO, Royaltie.AI. \"Small business owners are capable of amazing things when they have access to the right tools and the ..."
 publishedDateTime: 2020-01-31T16:40:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-royaltieai-kicks-off-gem-program-support-aspiring-entrepreneurs-/2020/01/31/9090369.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-royaltieai-kicks-off-gem-program-support-aspiring-entrepreneurs-/2020/01/31/9090369.htm"
 type: article
 quality: 37
 heat: 37

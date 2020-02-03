@@ -3,7 +3,7 @@ category: news
 title: "Apply: Facebook AI Research (FAIR) Residency Program 2020"
 excerpt: "The Facebook AI Research (FAIR) Residency Program is seeking applications from people who have a strong technical background and are passionate about AI research. Application Deadline: 31st January 2020 at 5:00 pm PST. Eligible Countries: International To ..."
 publishedDateTime: 2020-01-11T06:16:00Z
-sourceUrl: "https://www.nairaland.com/5615368/apply-facebook-ai-research-fair"
+webUrl: "https://www.nairaland.com/5615368/apply-facebook-ai-research-fair"
 type: article
 quality: 19
 heat: 19

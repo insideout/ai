@@ -3,9 +3,9 @@ category: news
 title: "Top 5 Industries to be Affected by Artificial intelligence in 2020"
 excerpt: "In the upcoming years, the robot-assisted surgeries will be helping US healthcare industries to save approximately $40 million every year. The vice president of Intel AI stated that very soon the agriculture industry will be completely transformed by Artificial Intelligence and the AI tools will be helping farmers to get most of the profit from ..."
 publishedDateTime: 2020-01-14T08:27:00Z
-sourceUrl: "https://yourstory.com/mystory/top-five-industries-affected-artificial-intelliegnce"
-ampUrl: "https://yourstory.com/mystory/top-five-industries-affected-artificial-intelliegnce/amp"
-cdnAmpUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/top-five-industries-affected-artificial-intelliegnce/amp"
+webUrl: "https://yourstory.com/mystory/top-five-industries-affected-artificial-intelliegnce"
+ampWebUrl: "https://yourstory.com/mystory/top-five-industries-affected-artificial-intelliegnce/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/top-five-industries-affected-artificial-intelliegnce/amp"
 type: article
 quality: 41
 heat: 41

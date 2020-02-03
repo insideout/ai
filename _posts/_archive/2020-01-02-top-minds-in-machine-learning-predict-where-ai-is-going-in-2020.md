@@ -3,7 +3,7 @@ category: news
 title: "Top minds in machine learning predict where AI is going in 2020"
 excerpt: "If you’re interested in taking a look back, last year we spoke with people like Facebook AI Research chief scientist Yann LeCun, Landing.ai founder Andrew Ng, and Accenture global responsible AI ..."
 publishedDateTime: 2020-01-02T14:16:00Z
-sourceUrl: "https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/"
+webUrl: "https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/"
 type: article
 quality: 49
 heat: 49

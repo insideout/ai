@@ -3,9 +3,9 @@ category: news
 title: "The most talked about moment from the SAG Awards? Brad Pitt and Jennifer Aniston meeting face-to-face"
 excerpt: "Officials launch an investigation and call for small hotels in the basements of residential buildings to be banned. Tech chief acknowledges \"nefarious\" risks in face-recognition and other programs that can beat humans to the punch. Global communications firm Edelman has spent 20 years tracking which institutions consumers trust. The stunt was ..."
 publishedDateTime: 2020-01-20T15:17:00Z
-sourceUrl: "https://www.cbsnews.com/news/jennifer-anniston-brad-pitt-sag-awards-interaction-sparks-rumors-marriage-viral-photographs-acceptance-speech/"
-ampUrl: "https://www.cbsnews.com/amp/news/jennifer-anniston-brad-pitt-sag-awards-interaction-sparks-rumors-marriage-viral-photographs-acceptance-speech/"
-cdnAmpUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jennifer-anniston-brad-pitt-sag-awards-interaction-sparks-rumors-marriage-viral-photographs-acceptance-speech/"
+webUrl: "https://www.cbsnews.com/news/jennifer-anniston-brad-pitt-sag-awards-interaction-sparks-rumors-marriage-viral-photographs-acceptance-speech/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/jennifer-anniston-brad-pitt-sag-awards-interaction-sparks-rumors-marriage-viral-photographs-acceptance-speech/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jennifer-anniston-brad-pitt-sag-awards-interaction-sparks-rumors-marriage-viral-photographs-acceptance-speech/"
 type: article
 quality: 29
 heat: 29

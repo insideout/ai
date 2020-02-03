@@ -1,7 +1,7 @@
 ---
 title: "Scalable Machine Learning on Big Data using Apache Spark"
 excerpt: "Learn Scalable Machine Learning on Big Data using Apache Spark from IBM. This course will empower you with the skills to scale data science and machine learning (ML) tasks on Big Data sets using Apache Spark. Most real world machine learning work ..."
-sourceUrl: https://www.coursera.org/learn/machine-learning-big-data-apache-spark
+webUrl: https://www.coursera.org/learn/machine-learning-big-data-apache-spark
 type: course
 price: Free+
 length: 10 hours

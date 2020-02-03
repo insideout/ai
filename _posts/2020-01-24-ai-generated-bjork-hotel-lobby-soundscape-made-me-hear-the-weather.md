@@ -3,7 +3,7 @@ category: news
 title: "AI-generated Björk hotel lobby soundscape made me hear the weather"
 excerpt: "I'm in that hotel lobby, listening. There's a pattern to the music. It's connected to a camera on the roof, gazing at moving clouds and birds. The composition is AI-driven. The best part is, it's invisible and it works. I stay and listen for an hour. Björk created a new AI-generated experimental ambient musical piece in collaboration with ..."
 publishedDateTime: 2020-01-24T20:55:00Z
-sourceUrl: "https://www.cnet.com/news/ai-generated-bjork-hotel-lobby-soundscape-made-me-hear-the-weather/"
+webUrl: "https://www.cnet.com/news/ai-generated-bjork-hotel-lobby-soundscape-made-me-hear-the-weather/"
 type: article
 quality: 47
 heat: -1
@@ -24,9 +24,9 @@ related:
   - title: "Bjork and an AI collaborated on an eerie soundtrack for a hotel lobby"
     excerpt: "But of course, it's not supernatural. It's Microsoft's AI at work, using feedback from a camera installed on the hotel's roof to determine which of Bjork's selected works to play. Kórsafn translates to \"choral archives,\" and fittingly it features snippets drawn from the musician's favorite arrangements of her career, performed by Iceland's ..."
     publishedDateTime: 2020-01-23T19:15:00Z
-    sourceUrl: "https://www.engadget.com/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/"
-    ampUrl: "https://www.engadget.com/amp/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/"
-    cdnAmpUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/"
+    webUrl: "https://www.engadget.com/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/"
     type: article
     provider:
       name: Engadget

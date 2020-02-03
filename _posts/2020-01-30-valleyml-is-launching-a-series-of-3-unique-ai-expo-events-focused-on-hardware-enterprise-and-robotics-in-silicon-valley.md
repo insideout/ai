@@ -3,7 +3,7 @@ category: news
 title: "ValleyML is launching a series of 3 unique AI Expo events focused on Hardware, Enterprise and Robotics in Silicon Valley"
 excerpt: "SANTA CLARA, Calif., Jan. 30, 2020 /PRNewswire/ -- ValleyML is the most active and important community of ML & AI Companies and Start-ups, Data Practitioners, Executives and Researchers in the Silicon Valley. The goal is Advancing AI to Empower People. ValleyML sponsors include UL, MINDBODY Inc., Ambient Scientific Inc., SEMI, Intel ..."
 publishedDateTime: 2020-01-30T16:32:00Z
-sourceUrl: "https://www.tmcnet.com/usubmit/-valleyml-launching-series-3-unique-ai-expo-events-/2020/01/30/9089829.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-valleyml-launching-series-3-unique-ai-expo-events-/2020/01/30/9089829.htm"
 type: article
 quality: 44
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Why Silicon Valley is obsessed with robots delivering pizza"
     excerpt: "A robot that bakes the well-loved meal was a big hit at the Consumer Electronics ... Here’s a second reason for caution: Despite heady media claims that pizza is now being made by artificial intelligence (and a similar suggestion from the company itself), Picnic’s device doesn’t quite earn that encomium. I tend to agree with Melanie ..."
     publishedDateTime: 2020-01-28T07:24:00Z
-    sourceUrl: "https://theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/"
-    ampUrl: "https://theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/?amp"
-    cdnAmpUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/?amp"
+    webUrl: "https://theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/"
+    ampWebUrl: "https://theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/?amp"
     type: article
     provider:
       name: ThePrint
@@ -42,7 +42,7 @@ related:
   - title: "Could robots whip up the perfect pizza?"
     excerpt: "The developer, a Seattle-based startup called Picnic, insists that pizza is only the beginning ... Here’s a second reason for caution: Despite heady claims that pizza is now being made by artificial intelligence, Picnic’s robot, though quite ingenious, isn’t artificially intelligent just yet. It has a vision system that reads the ..."
     publishedDateTime: 2020-02-01T09:00:00Z
-    sourceUrl: "https://www.japantimes.co.jp/opinion/2020/02/01/commentary/world-commentary/robots-whip-perfect-pizza/"
+    webUrl: "https://www.japantimes.co.jp/opinion/2020/02/01/commentary/world-commentary/robots-whip-perfect-pizza/"
     type: article
     provider:
       name: The Japan Times

@@ -3,9 +3,9 @@ category: news
 title: "Fantasy football insights with Watson for Week 17"
 excerpt: "IBM Insights uses Watson AI to analyze thousands of fantasy articles, blogs, websites and podcasts and provide support data to assist with fantasy football decisions. Watson outputs an estimated ..."
 publishedDateTime: 2019-12-27T22:10:00Z
-sourceUrl: https://www.espn.com/fantasy/football/story/_/page/insights191227/fantasy-football-insights-watson-week-17
-ampUrl: https://www.espn.com/fantasy/football/story/_/page/insights191227/fantasy-football-insights-watson-week-17?platform=amp
-cdnAmpUrl: https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/football/story/_/page/insights191227/fantasy-football-insights-watson-week-17?platform=amp
+webUrl: https://www.espn.com/fantasy/football/story/_/page/insights191227/fantasy-football-insights-watson-week-17
+ampWebUrl: https://www.espn.com/fantasy/football/story/_/page/insights191227/fantasy-football-insights-watson-week-17?platform=amp
+cdnAmpWebUrl: https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/football/story/_/page/insights191227/fantasy-football-insights-watson-week-17?platform=amp
 type: article
 quality: 59
 heat: 59

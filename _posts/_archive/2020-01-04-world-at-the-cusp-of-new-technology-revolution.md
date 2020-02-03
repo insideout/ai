@@ -3,9 +3,9 @@ category: news
 title: "World at the cusp of new technology revolution"
 excerpt: "Steadily Artificial Intelligence (AI) is evolving as a useful replacement in service sector ... AI-monitored autonomous driving is another important aspect which is being increasingly experimented in developed countries. Google sister company Waymo has successfully completed the trial of autonomous taxis in California last year."
 publishedDateTime: 2020-01-04T16:20:00Z
-sourceUrl: https://www.thehansindia.com/featured/sunday-hans/world-at-the-cusp-of-new-technology-revolution-595097
-ampUrl: https://www.thehansindia.com/amp/featured/sunday-hans/world-at-the-cusp-of-new-technology-revolution-595097
-cdnAmpUrl: https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/featured/sunday-hans/world-at-the-cusp-of-new-technology-revolution-595097
+webUrl: https://www.thehansindia.com/featured/sunday-hans/world-at-the-cusp-of-new-technology-revolution-595097
+ampWebUrl: https://www.thehansindia.com/amp/featured/sunday-hans/world-at-the-cusp-of-new-technology-revolution-595097
+cdnAmpWebUrl: https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/featured/sunday-hans/world-at-the-cusp-of-new-technology-revolution-595097
 type: article
 quality: 24
 heat: 24

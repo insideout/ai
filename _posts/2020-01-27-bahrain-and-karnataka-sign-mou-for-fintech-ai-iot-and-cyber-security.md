@@ -3,7 +3,7 @@ category: news
 title: "Bahrain and Karnataka sign MoU for FinTech, AI, IoT and Cyber-Security"
 excerpt: "The Bahrain Economic Development Board (EDB) and the Government of Karnataka’s Department of Information Technology, Biotechnology, and Science & Technology have signed a Memorandum of Understanding (MoU) to promote cooperation in AI, FinTech and other areas of emerging technologies while fostering innovation and startup growth. The agreement ..."
 publishedDateTime: 2020-01-27T11:22:00Z
-sourceUrl: "https://ibsintelligence.com/ibs-journal/ibs-news/bahrain-and-karnataka-sign-mou-for-fintech-ai-iot-and-cyber-security/"
+webUrl: "https://ibsintelligence.com/ibs-journal/ibs-news/bahrain-and-karnataka-sign-mou-for-fintech-ai-iot-and-cyber-security/"
 type: article
 quality: 39
 heat: -1
@@ -27,9 +27,9 @@ related:
   - title: "Karnataka Ties Up With Bahrain To Boost AI, Fintech Startup Ecosystem"
     excerpt: "BrandLabs is the brand marketing arm of Inc42 Media. With a team of journalists & analysts, and 4 years of extensive regional editorial expertise, we cover the country’s startups like no other. Want to start a campaign for your startup? Submit your startup here."
     publishedDateTime: 2020-01-24T14:17:00Z
-    sourceUrl: "https://inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/"
-    ampUrl: "https://inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/?amp"
-    cdnAmpUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/?amp"
+    webUrl: "https://inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/"
+    ampWebUrl: "https://inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/?amp"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/karnataka-ties-up-with-bahrain-to-boost-ai-and-fintech-startup-ecosystem/?amp"
     type: article
     provider:
       name: inc42.com

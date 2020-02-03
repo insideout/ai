@@ -3,9 +3,9 @@ category: news
 title: "Ag-Tech Startup Small Robot Is Seeking £700,000 on Crowdcube to Continue Development of Autonomous Robot & AI Software"
 excerpt: "using an autonomous robot and their AI software to deliver a weed map to paying customers. “Imagine a world in which we could use swarms of lightweight, smart machines to replace tractors and ..."
 publishedDateTime: 2020-01-13T22:40:00Z
-sourceUrl: "https://www.crowdfundinsider.com/2020/01/156291-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software/"
-ampUrl: "https://www.crowdfundinsider.com/2020/01/156291-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software/amp/"
-cdnAmpUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156291-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software/amp/"
+webUrl: "https://www.crowdfundinsider.com/2020/01/156291-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software/"
+ampWebUrl: "https://www.crowdfundinsider.com/2020/01/156291-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156291-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software/amp/"
 type: article
 quality: 50
 heat: 60
@@ -29,9 +29,9 @@ related:
   - title: "Overfunding: Ag-Tech Startup Small Robot Quickly Secures £700,000 Through Latest Crowdcube Funding Round"
     excerpt: "As previously reported, Small Robot has transitioned from prototype to commercial service, using an autonomous robot and their AI software to deliver a weed map to paying customers. “Imagine a world in which we could use swarms of lightweight ..."
     publishedDateTime: 2020-01-18T02:04:00Z
-    sourceUrl: "https://www.crowdfundinsider.com/2020/01/156490-overfunding-ag-tech-startup-small-robot-quickly-secures-700000-through-latest-crowdcube-funding-round/"
-    ampUrl: "https://www.crowdfundinsider.com/2020/01/156490-overfunding-ag-tech-startup-small-robot-quickly-secures-700000-through-latest-crowdcube-funding-round/amp/"
-    cdnAmpUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156490-overfunding-ag-tech-startup-small-robot-quickly-secures-700000-through-latest-crowdcube-funding-round/amp/"
+    webUrl: "https://www.crowdfundinsider.com/2020/01/156490-overfunding-ag-tech-startup-small-robot-quickly-secures-700000-through-latest-crowdcube-funding-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/01/156490-overfunding-ag-tech-startup-small-robot-quickly-secures-700000-through-latest-crowdcube-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156490-overfunding-ag-tech-startup-small-robot-quickly-secures-700000-through-latest-crowdcube-funding-round/amp/"
     type: article
     provider:
       name: Crowdfund Insider

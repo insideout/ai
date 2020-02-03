@@ -3,7 +3,7 @@ category: news
 title: "A US government study confirms most face recognition systems are racist"
 excerpt: "Almost 200 face recognition algorithms—a majority in the industry—had worse performance on nonwhite faces, according to a landmark study. What they tested: The US National Institute of Standards and Technology (NIST) tested every algorithm on two of ..."
 publishedDateTime: 2019-12-20T15:47:00Z
-sourceUrl: https://www.technologyreview.com/f/614986/ai-face-recognition-racist-us-government-nist-study/
+webUrl: https://www.technologyreview.com/f/614986/ai-face-recognition-racist-us-government-nist-study/
 type: article
 quality: 39
 heat: 39

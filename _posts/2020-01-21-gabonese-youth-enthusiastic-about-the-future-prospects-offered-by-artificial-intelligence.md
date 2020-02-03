@@ -3,7 +3,7 @@ category: news
 title: "Gabonese youth enthusiastic about the future prospects offered by Artificial Intelligence"
 excerpt: "Computers and robots are now capable of learning, self-improvement and even decision-making – evidently, through an algorithm lacking individual consciousness. Nevertheless, this feat provokes ethical questions. During the two days of the workshop, the participants analyzed the impact of artificial intelligence, as well as the ethical aspects."
 publishedDateTime: 2020-01-21T19:15:00Z
-sourceUrl: "https://indiaeducationdiary.in/gabonese-youth-enthusiastic-about-the-future-prospects-offered-by-artificial-intelligence/"
+webUrl: "https://indiaeducationdiary.in/gabonese-youth-enthusiastic-about-the-future-prospects-offered-by-artificial-intelligence/"
 type: article
 quality: 10
 heat: 10

@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence and Machine Learning for Natural Sciences"
 excerpt: "We are in particular interested in graph convolutional neural networks or generative methods such as GANs ... The candidate will be paid according to TV-L E13 (100%). The position is funded by the Artificial Intelligence program of Baden Württemberg („Künstliche Intelligenz Baden-Württemberg“ (KI-BW).)"
 publishedDateTime: 2020-01-17T21:18:00Z
-sourceUrl: "https://www.findaphd.com/phds/project/artificial-intelligence-and-machine-learning-for-natural-sciences/?p118384"
+webUrl: "https://www.findaphd.com/phds/project/artificial-intelligence-and-machine-learning-for-natural-sciences/?p118384"
 type: article
 quality: 34
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "The battle for ethical AI at the world’s biggest machine-learning conference"
     excerpt: "The study claimed to be able to generate faces — including aspects of a person’s age, gender and ethnicity — on the basis of voices. Machine-learning scientists criticized it on Twitter as being transphobic and pseudoscientific. One solution could be to introduce ethical review at conferences. NeurIPS 2019 included for the first time a ..."
     publishedDateTime: 2020-01-24T18:10:00Z
-    sourceUrl: "https://www.nature.com/articles/d41586-020-00160-y"
+    webUrl: "https://www.nature.com/articles/d41586-020-00160-y"
     type: article
     provider:
       name: Nature
@@ -34,7 +34,7 @@ related:
   - title: "CI/CD for Machine Learning"
     excerpt: "Damon Edwards takes a look at the techniques that high-performing operations organizations are using to finally transform how they identify, mobilize, and respond to incidents."
     publishedDateTime: 2020-01-28T01:33:00Z
-    sourceUrl: "https://www.infoq.com/presentations/ci-cd-ml/?itm_source=infoq&itm_medium=videos_homepage&itm_campaign=videos_row1"
+    webUrl: "https://www.infoq.com/presentations/ci-cd-ml/?itm_source=infoq&itm_medium=videos_homepage&itm_campaign=videos_row1"
     type: article
     provider:
       name: InfoQ

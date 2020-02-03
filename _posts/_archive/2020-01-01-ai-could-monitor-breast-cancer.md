@@ -3,9 +3,9 @@ category: news
 title: "AI could monitor breast cancer"
 excerpt: "The application of Artificial Intelligence (AI ... and improve the management decisions on whether or not to administer therapy, perform a surgical intervention, etc. Overall, then, this ..."
 publishedDateTime: 2020-01-01T00:42:00Z
-sourceUrl: "https://www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.html"
-ampUrl: "https://www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.amp"
-cdnAmpUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.amp"
+webUrl: "https://www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.html"
+ampWebUrl: "https://www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.amp"
 type: article
 quality: 59
 heat: -1
@@ -29,7 +29,7 @@ related:
   - title: "Breast Cancer Risk: Artificial Intelligence Offers Promise"
     excerpt: "For example: Women who take menopausal hormone therapy, or so-called hormonal ... You can look forward to an increasingly use of artificial intelligence (AI) in the clinical realm, both for ..."
     publishedDateTime: 2020-01-04T22:40:00Z
-    sourceUrl: "https://medium.com/swlh/breast-cancer-risk-artificial-intelligence-offers-promise-7c9a8e4a379"
+    webUrl: "https://medium.com/swlh/breast-cancer-risk-artificial-intelligence-offers-promise-7c9a8e4a379"
     type: article
     provider:
       name: Medium

@@ -3,7 +3,7 @@ category: news
 title: "Aussie entrepreneur launches “disturbing and unethical” facial recognition tech in Silicon Valley"
 excerpt: "Founded by Hoan Ton-That, Clearview AI is a secretive Silicon Valley startup that has been reportedly operating in stealth mode for some time. It’s facial recognition app allows users to take a picture of a person and upload it, to access public photos of that person, and the sites on which they appear (think Facebook and YouTube)."
 publishedDateTime: 2020-01-22T05:11:00Z
-sourceUrl: "https://www.smartcompany.com.au/startupsmart/news/aussie-clearview-ai/"
+webUrl: "https://www.smartcompany.com.au/startupsmart/news/aussie-clearview-ai/"
 type: article
 quality: 26
 heat: 26

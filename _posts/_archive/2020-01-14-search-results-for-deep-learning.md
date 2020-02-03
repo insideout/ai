@@ -3,7 +3,7 @@ category: news
 title: "Search results for deep learning"
 excerpt: "Like a long-distance food delivery app with no apparent highway, fungi that associate with shallow-rooted shrubs in the tundra are accessing deep stores of nitrogen being released by thawing permafrost. The findings by Northern ..."
 publishedDateTime: 2020-01-14T23:17:00Z
-sourceUrl: "https://phys.org/search/?search=deep learning"
+webUrl: "https://phys.org/search/?search=deep learning"
 type: article
 quality: 19
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "Yale researchers identify fossils using machine learning"
     excerpt: "In recent years, machine learning has risen in popularity as an exciting frontier in data science. This type of statistical technique can be leveraged to gain insight in all sorts of applications, from suggesting the perfect song on Spotify to predicting the weather. The newest application? Classifying plankton fossils. Recently, a Yale-led ..."
     publishedDateTime: 2020-01-14T05:42:00Z
-    sourceUrl: "https://yaledailynews.com/blog/2020/01/14/yale-researchers-identify-fossils-using-machine-learning/"
+    webUrl: "https://yaledailynews.com/blog/2020/01/14/yale-researchers-identify-fossils-using-machine-learning/"
     type: article
     provider:
       name: Yale Daily News

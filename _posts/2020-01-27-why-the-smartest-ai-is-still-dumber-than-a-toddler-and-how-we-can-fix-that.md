@@ -3,7 +3,7 @@ category: news
 title: "Why the smartest AI is still dumber than a toddler — and how we can fix that"
 excerpt: "It belongs on a fantasy ‘Mt. Rushmore of technologies’ alongside electricity, steam engines, and the internet. But, in it’s current incarnation, AI isn’t very smart. In fact, even now in 2020, AI is still dumber than a baby. Most AI experts – those with boots on the ground in the researcher and developer communities – believe the ..."
 publishedDateTime: 2020-01-27T23:44:00Z
-sourceUrl: "https://thenextweb.com/artificial-intelligence/2020/01/27/why-the-smartest-ai-is-still-dumber-than-a-toddler-and-how-we-can-fix-that/"
+webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/27/why-the-smartest-ai-is-still-dumber-than-a-toddler-and-how-we-can-fix-that/"
 type: article
 quality: 64
 heat: 64

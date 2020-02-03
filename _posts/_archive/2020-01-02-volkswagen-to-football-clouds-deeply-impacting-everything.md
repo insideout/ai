@@ -3,9 +3,9 @@ category: news
 title: "Volkswagen to football, cloud’s deeply impacting everything"
 excerpt: "Jassy announced the Graviton 2 processor, a powerful data centre chip that takes on Intel and AMD, and over 20 new features and services, including six new capabilities to Amazon SageMaker including Amazon SageMaker Studio that unifies all the tools needed ..."
 publishedDateTime: 2020-01-02T02:36:00Z
-sourceUrl: https://timesofindia.indiatimes.com/business/india-business/volkswagen-to-football-clouds-deeply-impacting-everything/articleshow/73056214.cms
-ampUrl: https://m.timesofindia.com/business/india-business/volkswagen-to-football-clouds-deeply-impacting-everything/amp_articleshow/73056214.cms
-cdnAmpUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/volkswagen-to-football-clouds-deeply-impacting-everything/amp_articleshow/73056214.cms
+webUrl: https://timesofindia.indiatimes.com/business/india-business/volkswagen-to-football-clouds-deeply-impacting-everything/articleshow/73056214.cms
+ampWebUrl: https://m.timesofindia.com/business/india-business/volkswagen-to-football-clouds-deeply-impacting-everything/amp_articleshow/73056214.cms
+cdnAmpWebUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/volkswagen-to-football-clouds-deeply-impacting-everything/amp_articleshow/73056214.cms
 type: article
 quality: 44
 heat: 44

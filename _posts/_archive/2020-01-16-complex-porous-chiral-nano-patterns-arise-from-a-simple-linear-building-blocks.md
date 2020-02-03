@@ -3,9 +3,9 @@ category: news
 title: "Complex, porous, chiral nano-patterns arise from a simple linear building blocks"
 excerpt: "this object is in motion, like a music box ballerina, leading to a blurred image. In their future work, the team hopes to steer these kinds of phenomena for chiral recognition and artificial nano ..."
 publishedDateTime: 2020-01-16T18:07:00Z
-sourceUrl: "https://phys.org/news/2020-01-complex-porous-chiral-nano-patterns-simple.html"
-ampUrl: "https://phys.org/news/2020-01-complex-porous-chiral-nano-patterns-simple.amp"
-cdnAmpUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-complex-porous-chiral-nano-patterns-simple.amp"
+webUrl: "https://phys.org/news/2020-01-complex-porous-chiral-nano-patterns-simple.html"
+ampWebUrl: "https://phys.org/news/2020-01-complex-porous-chiral-nano-patterns-simple.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-complex-porous-chiral-nano-patterns-simple.amp"
 type: article
 quality: 19
 heat: 19

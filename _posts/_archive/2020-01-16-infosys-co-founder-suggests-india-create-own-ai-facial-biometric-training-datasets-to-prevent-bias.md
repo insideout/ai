@@ -3,7 +3,7 @@ category: news
 title: "Infosys co-founder suggests India create own AI facial biometric training datasets to prevent bias"
 excerpt: "For India to successfully roll out facial recognition across the country, it needs to create its own databases for AI and machine learning technologies, Infosys co-founder Kris Gopalakrishnan says, according to The Economic Times. Before rushing with wide implementation, India should consider test pilots to train algorithms with facial images ..."
 publishedDateTime: 2020-01-16T17:44:00Z
-sourceUrl: "https://www.biometricupdate.com/202001/infosys-co-founder-suggests-india-create-own-ai-facial-biometric-training-datasets-to-prevent-bias"
+webUrl: "https://www.biometricupdate.com/202001/infosys-co-founder-suggests-india-create-own-ai-facial-biometric-training-datasets-to-prevent-bias"
 type: article
 quality: 25
 heat: 25

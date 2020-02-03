@@ -3,9 +3,9 @@ category: news
 title: "How Watson AI allows IBM's Advertising Accelerator to do three key things"
 excerpt: "TechRepublic's Teena Maddox talked to Dave Neway, head of marketing at IBM Watson Advertising, at CES 2020 about how Watson can take advertising to the next level with artificial intelligence (AI). The following is an edited transcript of their conversation. Dave Neway: We had a major product announcement this week. On Tuesday, I'm very proud ..."
 publishedDateTime: 2020-01-11T17:08:00Z
-sourceUrl: "https://www.techrepublic.com/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/"
-ampUrl: "https://www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/"
-cdnAmpUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/"
+webUrl: "https://www.techrepublic.com/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/"
 type: article
 quality: 103
 heat: 113
@@ -33,7 +33,7 @@ related:
   - title: "IBM Is Launching An Advertising Accelerator With Watson"
     excerpt: "IBM recently announced it is launching an Advertising Accelerator with Watson, which is a first-to-market offering that leverages artificial intelligence to predict the optimal combination of creative elements to help drive high engagement and conversion for a given audience Recently, IBM announced the launch of an Advertising Accelerator with ..."
     publishedDateTime: 2020-01-14T21:34:00Z
-    sourceUrl: "https://pulse2.com/ibm-ad-accelerator-with-watson/"
+    webUrl: "https://pulse2.com/ibm-ad-accelerator-with-watson/"
     type: article
     provider:
       name: Pulse 2.0

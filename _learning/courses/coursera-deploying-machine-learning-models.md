@@ -1,7 +1,7 @@
 ---
 title: "Deploying Machine Learning Models"
 excerpt: "Learn Deploying Machine Learning Models from University of California San Diego. In this course we will learn about Recommender Systems (which we will study for the Capstone project), and also look at deployment issues for data products. By the ..."
-sourceUrl: https://www.coursera.org/learn/deploying-machine-learning-models
+webUrl: https://www.coursera.org/learn/deploying-machine-learning-models
 type: course
 price: Free+
 length: 13 hours

@@ -3,7 +3,7 @@ category: news
 title: "Alteryx: Intuitive Data Analytics Solution Driven By Industry Tailwinds"
 excerpt: "Open Source Software There are a wide range of open source tools available for data analytics including R, Python, Pytorch and TensorFlow. These tools are less intuitive and require a basic knowledge of programming which limits their widespread adoption. It is possible that these tools will be made easier to use over time increasing their ..."
 publishedDateTime: 2020-01-14T17:11:00Z
-sourceUrl: "https://seekingalpha.com/article/4316758-alteryx-intuitive-data-analytics-solution-driven-industry-tailwinds"
+webUrl: "https://seekingalpha.com/article/4316758-alteryx-intuitive-data-analytics-solution-driven-industry-tailwinds"
 type: article
 quality: 19
 heat: 19

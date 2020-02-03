@@ -3,7 +3,7 @@ category: news
 title: "Artificial intelligence: How to measure the ‘I’ in AI"
 excerpt: "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ..."
 publishedDateTime: 2020-01-12T09:07:00Z
-sourceUrl: "https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/"
+webUrl: "https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/"
 type: article
 quality: 86
 heat: 86

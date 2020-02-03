@@ -3,7 +3,7 @@ category: news
 title: "CES 2020: Ambarella Showcases CV2, CV22 and CV25 Demos"
 excerpt: "CV22 Dev Board The company showcased more partnerships with various companies bringing using the CV2 and CV22 platforms, including a collaboration with AWS’s SageMaker Neo platform to help train ML models in the cloud and to deploy them into edge devices using the Ambarella CV SoCs. CV22 Dev Board Alongside a partnership with AnyVision to ..."
 publishedDateTime: 2020-01-16T18:00:00Z
-sourceUrl: "https://www.anandtech.com/show/15408/ces-2020-ambarella-showcases-cv2-cv22-and-cv25"
+webUrl: "https://www.anandtech.com/show/15408/ces-2020-ambarella-showcases-cv2-cv22-and-cv25"
 type: article
 quality: 26
 heat: 26

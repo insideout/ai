@@ -3,7 +3,7 @@ category: news
 title: "GSA officials rethink ATO process, workforce reskilling to field AI tools faster"
 excerpt: "At an upcoming meeting of the AI Community of Practice on Feb. 12, Babitch said officials will work on identifying “practice areas” where the agencies should focus most of their automation efforts. Possible practice areas, Babitch said, include ethics, AI tools and techniques, and privacy and security. Once identified, he said the community ..."
 publishedDateTime: 2020-01-30T21:05:00Z
-sourceUrl: "https://federalnewsnetwork.com/artificial-intelligence/2020/01/gsa-officials-rethink-ato-process-workforce-reskilling-to-field-ai-tools-faster/"
+webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2020/01/gsa-officials-rethink-ato-process-workforce-reskilling-to-field-ai-tools-faster/"
 type: article
 quality: 34
 heat: 34

@@ -3,9 +3,9 @@ category: news
 title: "Punxsutawney Phil should be replaced with AI groundhog, says PETA"
 excerpt: "Instead, says the organization, Punxsutawney Phil should be replaced with an animatronic groundhog that uses AI to actually predict the weather. “Times change. Traditions evolve. It’s long overdue for Phil to be retired,” PETA president and founder Ingrid Newkirk, wrote in a letter to the The Punxsutawney Groundhog Club. “By creating an ..."
 publishedDateTime: 2020-01-30T10:37:00Z
-sourceUrl: "https://www.theverge.com/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta"
-ampUrl: "https://www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta"
-cdnAmpUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta"
+webUrl: "https://www.theverge.com/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta"
+ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta"
 type: article
 quality: 89
 heat: -1
@@ -33,9 +33,9 @@ related:
   - title: "No more Punxsutawney Phil? It’s ‘long overdue’ for an AI groundhog instead, PETA says."
     excerpt: "It would renew interest in the event and allow the groundhog to dig, burrow, and forage in peace. “By creating an AI Phil, you could keep Punxsutawney at the center of Groundhog Day but in a much more progressive way,” she wrote. “Talk about taking your town’s annual tradition in a fresh and innovative direction!” While at least nine ..."
     publishedDateTime: 2020-01-29T12:32:00Z
-    sourceUrl: "https://www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/"
-    ampUrl: "https://www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/?outputType=amp"
-    cdnAmpUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/?outputType=amp"
+    webUrl: "https://www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -48,9 +48,9 @@ related:
   - title: "PETA is calling on Punxsutawney Phil to retire and be replaced with an AI groundhog"
     excerpt: "(CNN)The robots are coming for Punxsutawney Phil's job, too. People for the Ethical Treatment of Animals is calling on the keepers of the weather-forecasting groundhog to let him retire -- and to be replaced by an animatronic groundhog."
     publishedDateTime: 2020-01-29T01:12:00Z
-    sourceUrl: "https://www.cnn.com/2020/01/28/us/peta-punxsutawney-phil-ai-groundhog-trnd"
-    ampUrl: "https://amp.cnn.com/cnn/2020/01/28/us/peta-punxsutawney-phil-ai-groundhog-trnd/index.html"
-    cdnAmpUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/28/us/peta-punxsutawney-phil-ai-groundhog-trnd/index.html"
+    webUrl: "https://www.cnn.com/2020/01/28/us/peta-punxsutawney-phil-ai-groundhog-trnd"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/01/28/us/peta-punxsutawney-phil-ai-groundhog-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/28/us/peta-punxsutawney-phil-ai-groundhog-trnd/index.html"
     type: article
     provider:
       name: CNN
@@ -63,9 +63,9 @@ related:
   - title: "Groundhog Day star Punxsutawney Phil should retire and be replaced by a robot, PETA says"
     excerpt: "Newkirk suggests an \"animatronic groundhog\" with artificial intelligence could replace Phil. The techno-savvy \"Phil\" would actually be able to predict the weather, she says. \"An AI Phil would renew interest in Punxsutawney, generating a great deal of buzz, much like Sony's robot dog 'aibo,' which walks, plays, misbehaves, and responds to ..."
     publishedDateTime: 2020-01-30T09:41:00Z
-    sourceUrl: "https://www.foxnews.com/lifestyle/groundhog-day-star-punxsutawney-phil-may-retire-and-be-replaced-with-a-robot-after-peta-campaign"
-    ampUrl: "https://www.foxnews.com/lifestyle/groundhog-day-star-punxsutawney-phil-may-retire-and-be-replaced-with-a-robot-after-peta-campaign.amp"
-    cdnAmpUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/groundhog-day-star-punxsutawney-phil-may-retire-and-be-replaced-with-a-robot-after-peta-campaign.amp"
+    webUrl: "https://www.foxnews.com/lifestyle/groundhog-day-star-punxsutawney-phil-may-retire-and-be-replaced-with-a-robot-after-peta-campaign"
+    ampWebUrl: "https://www.foxnews.com/lifestyle/groundhog-day-star-punxsutawney-phil-may-retire-and-be-replaced-with-a-robot-after-peta-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/groundhog-day-star-punxsutawney-phil-may-retire-and-be-replaced-with-a-robot-after-peta-campaign.amp"
     type: article
     provider:
       name: Fox News
@@ -78,9 +78,9 @@ related:
   - title: "PETA calls for robot Punxsutawney Phil with AI to predict weather"
     excerpt: "In the letter, Newkirk suggests that usage of artificial intelligence (AI), could actually make the yearly tradition more interesting and \"renew interest in Punxsutawney, generating a great deal of buzz, much like Sony's robot dog 'aibo,' which walks, plays, misbehaves, and responds to commands.\" In the letter, the president of PETA asks Deeley ..."
     publishedDateTime: 2020-01-29T04:52:00Z
-    sourceUrl: "https://www.wusa9.com/article/news/nation-world/peta-calls-for-animatronic-punxsutawney-phil/507-dfa18f16-67c7-4405-96ab-82e200ec9b0a"
-    ampUrl: "https://www.wusa9.com/amp/article/news/nation-world/peta-calls-for-animatronic-punxsutawney-phil/507-dfa18f16-67c7-4405-96ab-82e200ec9b0a"
-    cdnAmpUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/nation-world/peta-calls-for-animatronic-punxsutawney-phil/507-dfa18f16-67c7-4405-96ab-82e200ec9b0a"
+    webUrl: "https://www.wusa9.com/article/news/nation-world/peta-calls-for-animatronic-punxsutawney-phil/507-dfa18f16-67c7-4405-96ab-82e200ec9b0a"
+    ampWebUrl: "https://www.wusa9.com/amp/article/news/nation-world/peta-calls-for-animatronic-punxsutawney-phil/507-dfa18f16-67c7-4405-96ab-82e200ec9b0a"
+    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/nation-world/peta-calls-for-animatronic-punxsutawney-phil/507-dfa18f16-67c7-4405-96ab-82e200ec9b0a"
     type: article
     provider:
       name: WUSA9
@@ -93,9 +93,9 @@ related:
   - title: "PETA Demands Groundhog Day's Punxsutawney Phil Be Replaced by AI Robot"
     excerpt: "The organization suggests \"an animatronic groundhog with artificial intelligence\" to predict the end of winter. PETA is calling for Punxsutawney Phil to be retired and replaced by a robot ahead of Groundhogs Day on Sunday. The animal rights organization wrote a letter to the Punxsutawney Groundhog Club urging the the small town in Pennsylvania ..."
     publishedDateTime: 2020-01-30T16:42:00Z
-    sourceUrl: "https://toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/"
-    ampUrl: "https://amp.toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/"
-    cdnAmpUrl: "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/"
+    webUrl: "https://toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/"
+    ampWebUrl: "https://amp.toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/"
+    cdnAmpWebUrl: "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/"
     type: article
     provider:
       name: TooFab
@@ -108,7 +108,7 @@ related:
   - title: "PETA wants to replace Punxsutawney Phil with an animatronic AI"
     excerpt: "When we imagine the future of artificial intelligence, we tend to think of the technology making most human jobs obsolete. But if PETA has its way, an AI could also take over for the world's most famous groundhog, Punxsutawney Phil. In a letter signed by PETA founder and president Ingrid Newkirk, the organization calls on the Punxsutawney ..."
     publishedDateTime: 2020-01-30T18:41:00Z
-    sourceUrl: "https://www.engadget.com/2020/01/30/peta-replace-punxsutawney-phil-with-ai/"
+    webUrl: "https://www.engadget.com/2020/01/30/peta-replace-punxsutawney-phil-with-ai/"
     type: article
     provider:
       name: Engadget
@@ -121,9 +121,9 @@ related:
   - title: "PETA calls for Punxsutawney Phil to retire, be replaced with AI robot for Groundhog Day"
     excerpt: "PETA suggested that instead of live animals, the Punxsutawney Groundhog Club use “technologically advanced electromechanical devices such as animatronics” with artificial intelligence could reliably predict the weather. “An AI Phil would renew interest in Punxsutawney, generating a great deal of buzz, much like Sony’s robot dog ‘aibo ..."
     publishedDateTime: 2020-01-30T06:37:00Z
-    sourceUrl: "https://www.fox4news.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day"
-    ampUrl: "https://www.fox4news.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day.amp"
-    cdnAmpUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day.amp"
+    webUrl: "https://www.fox4news.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day"
+    ampWebUrl: "https://www.fox4news.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day.amp"
     type: article
     provider:
       name: KDFW
@@ -136,9 +136,9 @@ related:
   - title: "PETA calls for Punxsutawney Phil to retire from Groundhog's Day, be replaced with AI robot"
     excerpt: "this week called for Punxsutawney Phil to be retired from his annual Groundhog’s Day tradition and be replaced with an artificially intelligent robot that could actually predict the weather."
     publishedDateTime: 2020-01-30T16:44:00Z
-    sourceUrl: "https://thehill.com/blogs/blog-briefing-room/news/480684-peta-calls-for-punxsutawney-phil-to-retire-from-groundhogs-day"
-    ampUrl: "https://thehill.com/blogs/blog-briefing-room/news/480684-peta-calls-for-punxsutawney-phil-to-retire-from-groundhogs-day?amp"
-    cdnAmpUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/480684-peta-calls-for-punxsutawney-phil-to-retire-from-groundhogs-day?amp"
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/480684-peta-calls-for-punxsutawney-phil-to-retire-from-groundhogs-day"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/480684-peta-calls-for-punxsutawney-phil-to-retire-from-groundhogs-day?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/480684-peta-calls-for-punxsutawney-phil-to-retire-from-groundhogs-day?amp"
     type: article
     provider:
       name: The Hill
@@ -151,9 +151,9 @@ related:
   - title: "PETA calling for groundhog 'Punxsutawney Phil' to be replaced by robot"
     excerpt: "Instead, the animal rights group suggests using an animatronic groundhog with artificial intelligence that could actually predict the weather. This way, they say you could keep Punxsutawney at the center of Groundhog Day in a more progressive way."
     publishedDateTime: 2020-01-29T13:30:00Z
-    sourceUrl: "https://www.abcactionnews.com/news/national/peta-calling-for-groundhog-punxsutawney-phil-to-be-replaced-by-robot"
-    ampUrl: "https://www.abcactionnews.com/news/national/peta-calling-for-groundhog-punxsutawney-phil-to-be-replaced-by-robot?_amp=true"
-    cdnAmpUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/peta-calling-for-groundhog-punxsutawney-phil-to-be-replaced-by-robot?_amp=true"
+    webUrl: "https://www.abcactionnews.com/news/national/peta-calling-for-groundhog-punxsutawney-phil-to-be-replaced-by-robot"
+    ampWebUrl: "https://www.abcactionnews.com/news/national/peta-calling-for-groundhog-punxsutawney-phil-to-be-replaced-by-robot?_amp=true"
+    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/peta-calling-for-groundhog-punxsutawney-phil-to-be-replaced-by-robot?_amp=true"
     type: article
     provider:
       name: ABC Action News
@@ -166,9 +166,9 @@ related:
   - title: "PETA Wants Punxsutawney Phil To Be Replaced With Robot Groundhog"
     excerpt: "PETA suggests that instead, the Punxsutawney Groundhog Club get hip to existing technologies and create a groundhog with artificial intelligence that could reliably predict the weather. “An AI Phil would renew interest in Punxsutawney, generating a great deal of buzz, much like Sony’s robot dog ‘aibo,’ which walks, plays, misbehaves ..."
     publishedDateTime: 2020-01-29T23:15:00Z
-    sourceUrl: "https://philadelphia.cbslocal.com/2020/01/29/peta-wants-punxsutawney-phil-to-be-replaced-with-robot-groundhog/"
-    ampUrl: "https://philadelphia.cbslocal.com/2020/01/29/peta-wants-punxsutawney-phil-to-be-replaced-with-robot-groundhog/amp/"
-    cdnAmpUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/29/peta-wants-punxsutawney-phil-to-be-replaced-with-robot-groundhog/amp/"
+    webUrl: "https://philadelphia.cbslocal.com/2020/01/29/peta-wants-punxsutawney-phil-to-be-replaced-with-robot-groundhog/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/01/29/peta-wants-punxsutawney-phil-to-be-replaced-with-robot-groundhog/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/29/peta-wants-punxsutawney-phil-to-be-replaced-with-robot-groundhog/amp/"
     type: article
     provider:
       name: CBS Boston / WBZ
@@ -181,9 +181,9 @@ related:
   - title: "PETA is calling on Punxsutawney Phil to retire and be replaced with robot"
     excerpt: "PETA suggests that instead, the Punxsutawney Groundhog Club get hip to existing technologies and create a groundhog with artificial intelligence that could reliably predict the weather. “An AI Phil would renew interest in Punxsutawney, generating a great deal of buzz, much like Sony’s robot dog ‘aibo,’ which walks, plays, misbehaves ..."
     publishedDateTime: 2020-01-29T18:16:00Z
-    sourceUrl: "https://wgntv.com/2020/01/29/peta-is-calling-on-punxsutawney-phil-to-retire-and-be-replaced-with-robot/"
-    ampUrl: "https://wgntv.com/2020/01/29/peta-is-calling-on-punxsutawney-phil-to-retire-and-be-replaced-with-robot/amp/"
-    cdnAmpUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/01/29/peta-is-calling-on-punxsutawney-phil-to-retire-and-be-replaced-with-robot/amp/"
+    webUrl: "https://wgntv.com/2020/01/29/peta-is-calling-on-punxsutawney-phil-to-retire-and-be-replaced-with-robot/"
+    ampWebUrl: "https://wgntv.com/2020/01/29/peta-is-calling-on-punxsutawney-phil-to-retire-and-be-replaced-with-robot/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/01/29/peta-is-calling-on-punxsutawney-phil-to-retire-and-be-replaced-with-robot/amp/"
     type: article
     provider:
       name: WGN-TV
@@ -196,9 +196,9 @@ related:
   - title: "Put Punxsutawney Phil out to pasture and get a robot groundhog instead, PETA says"
     excerpt: "But if Phil can’t see his shadow, the superstition says that spring will come early. PETA suggests the club send Phil off to “a reputable animal sanctuary” and replace him with an animatronic groundhog robot armed with artificial intelligence. Artificial intelligence, PETA says, would create a groundhog “that could actually predict the ..."
     publishedDateTime: 2020-01-29T00:53:00Z
-    sourceUrl: "https://www.newsobserver.com/news/nation-world/national/article239741963.html"
-    ampUrl: "https://amp.newsobserver.com/news/nation-world/national/article239741963.html"
-    cdnAmpUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article239741963.html"
+    webUrl: "https://www.newsobserver.com/news/nation-world/national/article239741963.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/nation-world/national/article239741963.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article239741963.html"
     type: article
     provider:
       name: Raleigh News & Observer
@@ -211,9 +211,9 @@ related:
   - title: "Groundhog Club responds to PETA's request to replace Punxsutawney Phil with a robot"
     excerpt: "(Meredith/CNN) -- Animal rights group PETA wants to use a robot instead of a live groundhog to predict the weather on Groundhog ... PETA suggests that instead, the Punxsutawney Groundhog Club get hip to existing technologies and create a groundhog with artificial intelligence that could reliably predict the weather. \"By creating an AI Phil ..."
     publishedDateTime: 2020-01-31T13:50:00Z
-    sourceUrl: "https://www.cbs46.com/groundhog-club-responds-to-peta-s-request-to-replace-punxsutawney/article_0c00a7e6-4d20-5e02-8da6-d6efc32433f4.html"
-    ampUrl: "https://www.cbs46.com/groundhog-club-responds-to-peta-s-request-to-replace-punxsutawney/article_0c00a7e6-4d20-5e02-8da6-d6efc32433f4.amp.html"
-    cdnAmpUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/groundhog-club-responds-to-peta-s-request-to-replace-punxsutawney/article_0c00a7e6-4d20-5e02-8da6-d6efc32433f4.amp.html"
+    webUrl: "https://www.cbs46.com/groundhog-club-responds-to-peta-s-request-to-replace-punxsutawney/article_0c00a7e6-4d20-5e02-8da6-d6efc32433f4.html"
+    ampWebUrl: "https://www.cbs46.com/groundhog-club-responds-to-peta-s-request-to-replace-punxsutawney/article_0c00a7e6-4d20-5e02-8da6-d6efc32433f4.amp.html"
+    cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/groundhog-club-responds-to-peta-s-request-to-replace-punxsutawney/article_0c00a7e6-4d20-5e02-8da6-d6efc32433f4.amp.html"
     type: article
     provider:
       name: CBS Atlanta
@@ -226,9 +226,9 @@ related:
   - title: "A robot rodent instead of Groundhog Day’s Phil? Club organizers reply to PETA's request"
     excerpt: "It's mere days before Groundhog Day, and PETA is calling upon the Punxsutawney Groundhog Club to stop using a live groundhog and begin using a robot to predict the weather instead ... in an animatronic rodent that would predict the weather using artificial intelligence. But despite PETA's best efforts, it looks like the Groundhog Club ..."
     publishedDateTime: 2020-01-31T00:11:00Z
-    sourceUrl: "https://www.usatoday.com/story/news/nation/2020/01/30/groundhog-day-2020-peta-wants-a-robot-to-replace-punxsutawney-phil/2858910001/"
-    ampUrl: "https://amp.usatoday.com/amp/2858910001"
-    cdnAmpUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2858910001"
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/01/30/groundhog-day-2020-peta-wants-a-robot-to-replace-punxsutawney-phil/2858910001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/2858910001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2858910001"
     type: article
     provider:
       name: USA Today
@@ -241,9 +241,9 @@ related:
   - title: "PETA Calls for Punxsutawney Phil to Be Replaced By Robot Groundhog for Groundhog Day Duties"
     excerpt: "The group is proposing that instead of a live groundhog, the animal should be swapped out for an animatronic version that would be equipped with artificial intelligence capable of more accurately predicting the weather. Such technology already exists, Crary says, pointing to such creatures as Aibo, a robot dog. RELATED: 5 Burning (Burrowing?)"
     publishedDateTime: 2020-01-30T23:13:00Z
-    sourceUrl: "https://people.com/pets/peta-robot-groundhog-replace-punxsutawney-phil-groundhog-day/"
-    ampUrl: "https://people.com/pets/peta-robot-groundhog-replace-punxsutawney-phil-groundhog-day/amp/"
-    cdnAmpUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/pets/peta-robot-groundhog-replace-punxsutawney-phil-groundhog-day/amp/"
+    webUrl: "https://people.com/pets/peta-robot-groundhog-replace-punxsutawney-phil-groundhog-day/"
+    ampWebUrl: "https://people.com/pets/peta-robot-groundhog-replace-punxsutawney-phil-groundhog-day/amp/"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/pets/peta-robot-groundhog-replace-punxsutawney-phil-groundhog-day/amp/"
     type: article
     provider:
       name: People
@@ -256,7 +256,7 @@ related:
   - title: "PETA Wants Punxsutawney Phil Replaced With AI Groundhog"
     excerpt: "John Griffiths and Groundhog Phil (Photo by Christina Horsten/picture alliance via Getty Images) Animal rights organization PETA (People for the Ethical Treatment of Animals) wants the famed groundhog Punxsutawney Phil, who is used each year to predict the ..."
     publishedDateTime: 2020-01-30T15:04:00Z
-    sourceUrl: "https://www.pcmag.com/news/peta-wants-punxsutawney-phil-replaced-with-ai-groundhog"
+    webUrl: "https://www.pcmag.com/news/peta-wants-punxsutawney-phil-replaced-with-ai-groundhog"
     type: article
     provider:
       name: PC Magazine
@@ -265,7 +265,7 @@ related:
   - title: "No more Punxsutawney Phil? PETA says an AI groundhog is 'long overdue'"
     excerpt: "For well over a century, the weather-predicting ritual on Feb. 2 has remained more or less the same: In the forests of western Pennsylvania, a group of bearded men in black top hats and suits lifts one very famous groundhog from a stump,"
     publishedDateTime: 2020-01-29T20:35:00Z
-    sourceUrl: "https://www.chron.com/news/article/No-more-Punxsutawney-Phil-PETA-says-an-AI-15012971.php"
+    webUrl: "https://www.chron.com/news/article/No-more-Punxsutawney-Phil-PETA-says-an-AI-15012971.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -278,7 +278,7 @@ related:
   - title: "PETA calls for Punxsutawney Phil to retire, be replaced with AI robot for Groundhog Day"
     excerpt: "PETA suggested that instead of live animals, the Punxsutawney Groundhog Club use “technologically advanced electromechanical devices such as animatronics” with artificial intelligence could reliably predict the weather. “An AI Phil would renew interest in Punxsutawney, generating a great deal of buzz, much like Sony’s robot dog ‘aibo ..."
     publishedDateTime: 2020-01-29T23:54:00Z
-    sourceUrl: "https://www.fox7austin.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day"
+    webUrl: "https://www.fox7austin.com/news/peta-calls-for-punxsutawney-phil-to-retire-be-replaced-with-ai-robot-for-groundhog-day"
     type: article
     provider:
       name: FOX 7 Austin KTBC

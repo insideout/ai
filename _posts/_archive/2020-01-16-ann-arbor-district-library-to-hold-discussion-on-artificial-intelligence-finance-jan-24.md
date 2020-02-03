@@ -3,9 +3,9 @@ category: news
 title: "Ann Arbor District Library to hold discussion on artificial intelligence, finance Jan. 24"
 excerpt: "ANN ARBOR, Mich. – On Jan. 24, the interwoven future of artificial intelligence and finance will be discussed at the downtown branch of the Ann Arbor District Library. As the effects of artificial intelligence become more prevalent in financial markets, services and systems, the need to understand current and future impacts continues to grow."
 publishedDateTime: 2020-01-16T01:35:00Z
-sourceUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2020/01/15/ann-arbor-district-library-to-hold-discussion-on-artificial-intelligence-finance-jan-24/"
-ampUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2020/01/15/ann-arbor-district-library-to-hold-discussion-on-artificial-intelligence-finance-jan-24/?outputType=amp"
-cdnAmpUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/all-about-ann-arbor/2020/01/15/ann-arbor-district-library-to-hold-discussion-on-artificial-intelligence-finance-jan-24/?outputType=amp"
+webUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2020/01/15/ann-arbor-district-library-to-hold-discussion-on-artificial-intelligence-finance-jan-24/"
+ampWebUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2020/01/15/ann-arbor-district-library-to-hold-discussion-on-artificial-intelligence-finance-jan-24/?outputType=amp"
+cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/all-about-ann-arbor/2020/01/15/ann-arbor-district-library-to-hold-discussion-on-artificial-intelligence-finance-jan-24/?outputType=amp"
 type: article
 quality: 48
 heat: 48

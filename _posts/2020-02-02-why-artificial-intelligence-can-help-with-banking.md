@@ -3,9 +3,9 @@ category: news
 title: "Why Artificial Intelligence Can Help With Banking"
 excerpt: "The rise of Artificial Intelligence (AI) is being strongly felt as the years pass. AI has become to be one of the most sought-after technologies in digital marketing today as it transforms workflows, among others, that make businesses more efficient today. In the banking industry, most banks are aware of the potential benefits that AI can bring."
 publishedDateTime: 2020-02-02T08:32:00Z
-sourceUrl: "https://techbullion.com/why-artificial-intelligence-can-help-with-banking/"
-ampUrl: "https://techbullion.com/why-artificial-intelligence-can-help-with-banking/amp/"
-cdnAmpUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-artificial-intelligence-can-help-with-banking/amp/"
+webUrl: "https://techbullion.com/why-artificial-intelligence-can-help-with-banking/"
+ampWebUrl: "https://techbullion.com/why-artificial-intelligence-can-help-with-banking/amp/"
+cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-artificial-intelligence-can-help-with-banking/amp/"
 type: article
 quality: 57
 heat: 57

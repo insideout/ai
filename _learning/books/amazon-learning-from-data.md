@@ -1,7 +1,7 @@
 ---
 title: "Learning From Data"
 excerpt: "This book, together with specially prepared online material freely accessible to our readers, provides a complete introduction to Machine Learning, the technology that enables computational systems to adaptively improve their performance with experience accumulated from the observed data."
-sourceUrl: https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/
+webUrl: https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/
 type: book
 price: $28.00
 length: 

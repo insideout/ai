@@ -1,7 +1,7 @@
 ---
 title: "Code: The Hidden Language of Computer Hardware and Software"
 excerpt: "What do flashlights, the British invasion, black cats, and seesaws have to do with computers? In CODE, they show us the ingenious ways we manipulate language and invent new means of communicating with each other. And through CODE, we see how this ingenuity and our very human compulsion to communicate have driven the technological innovations of the past two centuries. Using everyday objects and familiar language systems such as Braille and Morse code, author Charles Petzold weaves an illuminating narrative for anyone who’s ever wondered about the secret inner life of computers and other smart machines."
-sourceUrl: https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/
+webUrl: https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/
 type: book
 price: $21.68
 length: 

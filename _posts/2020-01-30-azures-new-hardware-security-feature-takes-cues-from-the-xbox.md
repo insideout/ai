@@ -3,7 +3,7 @@ category: news
 title: "Azure’s New Hardware Security Feature Takes Cues from the Xbox"
 excerpt: "Machine learning unlocks a universe of new possibilities – in medical research ... In November, Microsoft announced it was bringing confidential computing to Kubernetes clusters in Azure. Related: Microsoft Security Splash: What It Means for the Tech Giant Its open-source Open Enclave SDK lets you create trusted execution environments ..."
 publishedDateTime: 2020-01-30T18:24:00Z
-sourceUrl: "https://www.datacenterknowledge.com/microsoft/azure-s-new-hardware-security-feature-takes-cues-xbox"
+webUrl: "https://www.datacenterknowledge.com/microsoft/azure-s-new-hardware-security-feature-takes-cues-xbox"
 type: article
 quality: 39
 heat: 39

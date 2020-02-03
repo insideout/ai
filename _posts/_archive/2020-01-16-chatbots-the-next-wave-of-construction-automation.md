@@ -3,7 +3,7 @@ category: news
 title: "Chatbots: The Next Wave of Construction Automation"
 excerpt: "Thanks to advances in natural language processing, bots today can identify valuable information from everyday speech. Natural language processing is extremely powerful. Last year, Google released a voice assistant that is indistinguishable from a human. In this video, you can see the bot booking an appointment for a haircut with a real person ..."
 publishedDateTime: 2020-01-16T01:41:00Z
-sourceUrl: "https://www.contractormag.com/technology/article/21120618/chatbots-the-next-wave-of-construction-automation"
+webUrl: "https://www.contractormag.com/technology/article/21120618/chatbots-the-next-wave-of-construction-automation"
 type: article
 quality: 4
 heat: -1
@@ -21,7 +21,7 @@ related:
   - title: "MSP Automation, AI Chatbots and Service Desks: Triafy Arrives"
     excerpt: "The Tampa, Florida-based startup has built a ticket triage knowledge base for non-technical help desk ... We have built a ticket triage knowledge base for non-technical help desk dispatchers to use when they open new service tickets. We are using AI chatbot technology to guide dispatchers through the appropriate triage questions for the given ..."
     publishedDateTime: 2020-01-17T18:54:00Z
-    sourceUrl: "https://www.channele2e.com/technology/ai/msp-chatbots-triafy-arrives/"
+    webUrl: "https://www.channele2e.com/technology/ai/msp-chatbots-triafy-arrives/"
     type: article
     provider:
       name: ChannelE2E

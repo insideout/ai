@@ -3,7 +3,7 @@ category: news
 title: "Aquant raises $30M to support growth, drive AI innovation, and accelerate global expansion"
 excerpt: "Peter Sobiloff, Managing Director at Insight Partners, will join the company’s board of directors. Aquant will use this capital to support its rapid growth, drive the continuous innovation of its AI platform, accelerate global expansion, and grow its engineering, client services, and go-to-market teams. “The expectations from customers of ..."
 publishedDateTime: 2020-02-03T00:52:00Z
-sourceUrl: "https://www.helpnetsecurity.com/2020/02/03/aquant-series-b/"
+webUrl: "https://www.helpnetsecurity.com/2020/02/03/aquant-series-b/"
 type: article
 quality: 27
 heat: 27

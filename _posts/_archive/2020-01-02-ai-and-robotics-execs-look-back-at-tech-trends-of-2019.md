@@ -3,7 +3,7 @@ category: news
 title: "AI and robotics execs look back at tech trends of 2019"
 excerpt: "Some aspects of robotics and artificial intelligence are advancing rapidly; others, not so much. What should AI and robotics developers recall as they prepare for a new year? Sudhir Jha, senior vice president and head of Brighterion Inc., Max Versace ..."
 publishedDateTime: 2020-01-02T14:23:00Z
-sourceUrl: https://ctovision.com/ai-and-robotics-execs-look-back-at-tech-trends-of-2019/
+webUrl: https://ctovision.com/ai-and-robotics-execs-look-back-at-tech-trends-of-2019/
 type: article
 quality: 69
 heat: 69

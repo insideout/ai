@@ -3,7 +3,7 @@ category: news
 title: "Computer Vision Technologies Market Revenue, Gross Profit, Sales Price 2019-2026"
 excerpt: "The global computer vision technologies market is highly fragmented and the major players have used various strategies such as new product launches, expansions, agreements, joint ventures, partnerships,"
 publishedDateTime: 2020-01-27T06:43:00Z
-sourceUrl: "https://www.marketwatch.com/press-release/computer-vision-technologies-market-revenue-gross-profit-sales-price-2019-2026-2020-01-27"
+webUrl: "https://www.marketwatch.com/press-release/computer-vision-technologies-market-revenue-gross-profit-sales-price-2019-2026-2020-01-27"
 type: article
 quality: 44
 heat: 44

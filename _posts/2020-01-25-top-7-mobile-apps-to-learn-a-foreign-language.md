@@ -3,7 +3,7 @@ category: news
 title: "Top 7 Mobile Apps to Learn a Foreign Language"
 excerpt: "We can find language teacher app with AI mechanisms or with native speaker tutors ... check the pronunciation by repeating the sentences, translate and create own examples by writing them down. You can choose one of 23 languages and learn them at your own pace. What is more, the App itself is brilliantly designed, so you receive not only ..."
 publishedDateTime: 2020-01-25T12:32:00Z
-sourceUrl: "https://techlog360.com/mobile-apps-to-learn-foreign-language/"
+webUrl: "https://techlog360.com/mobile-apps-to-learn-foreign-language/"
 type: article
 quality: 24
 heat: 24

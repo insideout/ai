@@ -3,7 +3,7 @@ category: news
 title: "Anonos CEO to speak at the 13th International CPDP Data Protection and Artificial Intelligence Conference in Brussels"
 excerpt: "/PRNewswire/ -- Gary LaFever, Co-founder, CEO and General Counsel of data privacy and enablement technology provider, Anonos, will be hosting a panel at"
 publishedDateTime: 2020-01-22T06:00:00Z
-sourceUrl: "https://www.prnewswire.com/news-releases/anonos-ceo-to-speak-at-the-13th-international-cpdp-data-protection-and-artificial-intelligence-conference-in-brussels-300990894.html"
+webUrl: "https://www.prnewswire.com/news-releases/anonos-ceo-to-speak-at-the-13th-international-cpdp-data-protection-and-artificial-intelligence-conference-in-brussels-300990894.html"
 type: article
 quality: 14
 heat: 14

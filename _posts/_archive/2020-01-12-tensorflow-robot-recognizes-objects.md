@@ -3,7 +3,7 @@ category: news
 title: "TensorFlow Robot Recognizes Objects"
 excerpt: "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ..."
 publishedDateTime: 2020-01-12T00:00:00Z
-sourceUrl: "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/"
+webUrl: "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/"
 type: article
 quality: 39
 heat: 39

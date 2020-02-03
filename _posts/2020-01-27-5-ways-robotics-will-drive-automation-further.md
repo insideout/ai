@@ -3,7 +3,7 @@ category: news
 title: "5 Ways Robotics Will Drive Automation Further"
 excerpt: "If these predictions come true, more businesses will be building AI components into their products because they'll realize that doing so is necessary to remain competitive. Consequently, customers will start to see that purchasing an industrial robot with AI capability is a budget-pleasing option to drive new productivity. Industrial robotics ..."
 publishedDateTime: 2020-01-27T20:57:00Z
-sourceUrl: "https://www.americanmachinist.com/automation-and-robotics/article/21121441/5-ways-robotics-will-drive-automation-further-manufacturing-trends"
+webUrl: "https://www.americanmachinist.com/automation-and-robotics/article/21121441/5-ways-robotics-will-drive-automation-further-manufacturing-trends"
 type: article
 quality: 34
 heat: 34

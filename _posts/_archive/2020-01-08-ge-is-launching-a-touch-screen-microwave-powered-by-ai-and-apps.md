@@ -3,9 +3,9 @@ category: news
 title: "GE Is Launching A Touch Screen Microwave Powered By AI And Apps"
 excerpt: "The company says it offers computer vision aided cooking, and is capable of providing numerous amounts of information based on what you're trying to make. Not sure what to cook for dinner?"
 publishedDateTime: 2020-01-08T18:48:00Z
-sourceUrl: "https://www.androidheadlines.com/2020/01/ge-is-launching-a-touch-screen-microwave-powered-by-ai-and-apps.html"
-ampUrl: "https://www.androidheadlines.com/2020/01/ge-is-launching-a-touch-screen-microwave-powered-by-ai-and-apps.html/amp"
-cdnAmpUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/ge-is-launching-a-touch-screen-microwave-powered-by-ai-and-apps.html/amp"
+webUrl: "https://www.androidheadlines.com/2020/01/ge-is-launching-a-touch-screen-microwave-powered-by-ai-and-apps.html"
+ampWebUrl: "https://www.androidheadlines.com/2020/01/ge-is-launching-a-touch-screen-microwave-powered-by-ai-and-apps.html/amp"
+cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/ge-is-launching-a-touch-screen-microwave-powered-by-ai-and-apps.html/amp"
 type: article
 quality: 59
 heat: 59

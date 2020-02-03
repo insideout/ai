@@ -3,9 +3,9 @@ category: news
 title: "Udacity launches new course called Intro to Machine Learning with TensorFlow"
 excerpt: "The Udacity course, Intro to Machine Learning with TensorFlow, includes areas like manipulating data, supervised and unsupervised learning, and deep learning Udacity announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow. The next-generation program in machine learning (ML) introduces learners to the ..."
 publishedDateTime: 2020-01-24T11:47:00Z
-sourceUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/"
-ampUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
-cdnAmpUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
+webUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/"
+ampWebUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
+cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
 type: article
 quality: 36
 heat: -1
@@ -23,9 +23,9 @@ related:
   - title: "Udacity launches new Intro to Machine Learning with TensorFlow Nanodegree program"
     excerpt: "Silicon-valley based global lifelong learning platform Udacity recently announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow. The next-generation program in machine learning (ML) introduces learners to the fundamentals of Machine Learning in a way that is effective and engaging at the same time."
     publishedDateTime: 2020-01-25T04:27:00Z
-    sourceUrl: "https://www.deccanchronicle.com/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
-    ampUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
-    cdnAmpUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
+    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
     type: article
     provider:
       name: Deccan Chronicle
@@ -38,7 +38,7 @@ related:
   - title: "Concentric launches with a deep learning approach to fixing broken file permissions"
     excerpt: "To combat this significant threat, Concentric is the first company to leverage deep learning capabilities to identify and autonomously quantify risk by developing an accurate and detailed semantic understanding of all data. The company uses these insights to efficiently and effectively protect business-critical data and meet security ..."
     publishedDateTime: 2020-01-31T02:25:00Z
-    sourceUrl: "https://www.helpnetsecurity.com/2020/01/31/concentric-semantic-intelligence/"
+    webUrl: "https://www.helpnetsecurity.com/2020/01/31/concentric-semantic-intelligence/"
     type: article
     provider:
       name: Help Net Security
@@ -51,7 +51,7 @@ related:
   - title: "Learning Platform Udacity launches Intro to Machine Learning with TensorFlow Nanodegree program"
     excerpt: "Learning platform Udacity has launched a new Nanodegree program : Intro to Machine Learning with TensorFlow. The Nanodegree program incorporates advanced areas such as manipulating data, supervised & unsupervised learning, along with deep learning."
     publishedDateTime: 2020-01-25T04:45:00Z
-    sourceUrl: "https://techstory.in/learning-platform-udacity-launches-intro-to-machine-learning-with-tensorflow-nanodegree-program-2020/"
+    webUrl: "https://techstory.in/learning-platform-udacity-launches-intro-to-machine-learning-with-tensorflow-nanodegree-program-2020/"
     type: article
     provider:
       name: tech
@@ -64,7 +64,7 @@ related:
   - title: "New Udacity Nanodegree programme offers hands-on ML training"
     excerpt: "US-based learning platform Udacity has launched a new Nanodegree programme titled 'Intro to Machine Learning with TensorFlow' that offers practitioner-level skills in new-generation Machine Learning (ML) through hands-on projects. Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ML models powered by ..."
     publishedDateTime: 2020-01-25T14:31:00Z
-    sourceUrl: "https://news.webindia123.com/news/Articles/Science/20200125/3495220.html"
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200125/3495220.html"
     type: article
     provider:
       name: Webindia 123

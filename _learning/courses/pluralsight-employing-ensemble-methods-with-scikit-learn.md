@@ -2,7 +2,7 @@
 title: "Employing Ensemble Methods with scikit-learn"
 excerpt: "This course covers the theoretical and practical aspects of building ensemble learning solutions in scikit-learn; from random forests built using bagging and pasting to adaptive and gradient boosting and model stacking and hyperparameter tuning.
 "
-sourceUrl: https://www.pluralsight.com/courses/employing-ensemble-methods-scikit-learn
+webUrl: https://www.pluralsight.com/courses/employing-ensemble-methods-scikit-learn
 type: course
 price: $$
 length: 2h 14m

@@ -3,7 +3,7 @@ category: news
 title: "7 books to read right now if you want to become the ultimate authority on artificial intelligence"
 excerpt: "The picks cover the basics of the technology, along with accompanying issues like the organizational challenges facing companies that adopt AI."
 publishedDateTime: 2020-01-22T13:42:00Z
-sourceUrl: "https://www.businessinsider.com/the-7-books-read-right-now-become-an-ai-expert"
+webUrl: "https://www.businessinsider.com/the-7-books-read-right-now-become-an-ai-expert"
 type: article
 quality: 54
 heat: 54
