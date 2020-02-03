@@ -98,6 +98,7 @@
                     "type": {{ child_item.type | jsonify }},
                     "name": {{ child_item.name | jsonify }},
                     "sourceUrl": "{{ child_item.url | absolute_url }}",
+                    "webUrl": "{{ site.webUrl }}{{ child_item.id | replace: '/api/people/','/web/people?id=' }}",
                     "bio": {{ child_item.bio | strip_html | normalize_whitespace | strip | jsonify }},
                     "location": {{ child_item.location | jsonify }},
                     "heat": {{ child_item.heat | default: 0 }},

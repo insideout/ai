@@ -96,6 +96,7 @@
                     "type": {{ child_item.type | jsonify }},
                     "name": {{ child_item.name | jsonify }},
                     "sourceUrl": "{{ child_item.url | absolute_url }}",
+                    "webUrl": "{{ site.webUrl }}{{ child_item.id | replace: '/api/companies/','/web/companies?id=' }}",
                     "overview": {{ child_item.overview | strip_html | normalize_whitespace | strip | jsonify }},
                     "locations": {{ child_item.locations | jsonify }},
                     "heat": {{ child_item.heat | default: 0 }},

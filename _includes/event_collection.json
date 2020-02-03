@@ -90,6 +90,7 @@
                     "path": {{ child_item.path | jsonify }},
                     "type": {{ child_item.type | jsonify }},
                     "sourceUrl": "{{ child_item.url | absolute_url }}",
+                    "webUrl": "{{ site.webUrl }}{{ child_item.id | replace: '/api/events/','/web/events?id=' }}",
                     "heat": {{ child_item.heat | default: 0 }},
                     "name": {{ child_item.name | jsonify }},
                     "excerpt": {{ child_item.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
