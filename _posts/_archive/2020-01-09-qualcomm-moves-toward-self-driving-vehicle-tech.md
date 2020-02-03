@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-09T18:30:00Z
 webUrl: "https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     height: 246
     title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
 
-secured: "WuN85mB/2mEuMhRwDCnEDhh0O/COAt7LOnuA1nUr0V783tlmZv6sJ25AKX81+b5+glOZQ+7a5SpsMKVgS/fTdAU4boOAhCoKqbe4E55fX1qCIYPAv+qVH5Qa/fFnKfl4E2K7Am8iN3/fXgV0YH4IRYvI8QIejH8u9gOyEYY+Ku8OVOufO1AZYEUGb6blwqz+TgEuC1+6Coe7/w0hqM7pJIS2qwKla2heE9/KHQio5kp0hZtcuMN5CKd9ABWuTeQZAImx0q801QeNaCQj24No5M7/8kSrg/VmUf3y0cI/z3nLLNaw0BRHKP0aDNDCBgSc;PQrF3NA9zrXER3HLP9BAww=="
+related:
+  - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
+    excerpt: "The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo has obtained 120 such ..."
+    publishedDateTime: 2020-01-10T05:50:00Z
+    webUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
+    type: article
+    provider:
+      name: Steel News
+      domain: steelguru.com
+    quality: 39
+    images:
+      - url: "https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg"
+        width: 1200
+        height: 800
+
+secured: "8RX8KVvbxla/F72oWOmZ4uyQb7VaF24XiD1+mRkbYbUW7bpac+UkDw5DSy8SR2yaqfzgfcH6hsxUG2hP6FjO4CTpcQ08S1z6dZHJ89p3YLVtVuYGhbYvFv3vIDB1ukXJZr99tcN+kdJ7gDmeKbrK07Xue3kflcO/4fFDaQCvvjyTwHjxs9cDVhmbJA4CkLIl6bNdjY3nYnlKjIHExhw/fKmLksJRX5ur3bSFQx6t0jrc0POQQrPIVxRLtzQJSvh6/lBLv+389ctBq2l942/+BX9fErzxdckS5NIhbMvJsz/vhgkvBuKoDvBsD4FHXhn7;mdILnLhGIxkLAHEgBJTC5Q=="
 ---
 

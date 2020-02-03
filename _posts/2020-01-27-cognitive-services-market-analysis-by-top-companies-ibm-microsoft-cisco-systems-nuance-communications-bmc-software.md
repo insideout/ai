@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-27T11:13:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-analysis-by-top-companies-ibm-microsoft-cisco-systems-nuance-communications-bmc-software-2020-01-27"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,37 +28,80 @@ images:
     title: "Cognitive Services Market Analysis by Top Companies | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
 
 related:
-  - title: "Artificial Intelligence Market Analysis by Top Companies | Alphabet (Google), Apple Baidu, IBM, IPsoft, Microsoft Corporation"
-    excerpt: "New Jersey, United States, - The report on the Artificial Intelligence Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
-    publishedDateTime: 2020-01-27T10:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-by-top-companies-alphabet-google-apple-baidu-ibm-ipsoft-microsoft-corporation-2020-01-27"
+  - title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
+    excerpt: "ReportsWeb Adds \"Global COGNITIVE SERVICES Market\" offers an up-to-date analysis of the Market with regards to the innovations, current competitive landscape and latest trends and drivers, to provide new predictions for the forecast period."
+    publishedDateTime: 2020-02-03T11:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Software Market"
-    excerpt: "Artificial Intelligence (AI) Software Market research Report is a valuable supply of perceptive information for business strategists. This Artificial Intelligence (AI) Software Market study provides comprehensive data which enhances the understanding, scope and application of this report. A thorough study of the competitive landscape of the ..."
-    publishedDateTime: 2020-01-29T13:52:00Z
-    webUrl: "https://www.openpr.com/news/1913073/artificial-intelligence-ai-software-market-with-complete"
+  - title: "Artificial Intelligence In Accounting Market 2020 Global Insights and Technology Advancement - Microsoft, AWS, Intuit, IBM, Google, Deloitte"
+    excerpt: "Global �??Artificial Intelligence In Accounting Market Report 2020-2026 provides insightful data about business strategies, qualitative and quantitative analysis of Global Market. The report also calls for market - driven results deriving feasibility studies for client needs."
+    publishedDateTime: 2020-01-31T05:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2020-global-insights-and-technology-advancement---microsoft-aws-intuit-ibm-google-deloitte-2020-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Image Recognition Market 2020- Qualcomm, NEC, Google, LTU Technologies, Catchoom Technologies"
+    excerpt: "Excellence Market Research has recently published a very complete analysis of the Image Recognition market based on comprehensive secondary and primary research. The report titled \"Global Image Recognition Market 2020 Industry Research Report\" offers the most precise analysis of the Image Recognition industry for the last five years and forecast until 2025."
+    publishedDateTime: 2020-01-31T08:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-image-recognition-market-2020--qualcomm-nec-google-ltu-technologies-catchoom-technologies-2020-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Speech and Voice Recognition Technologies Market Top Key Vendors- Microsoft Corporation, Alphabet Inc."
+    excerpt: "Zion Market Research published a new 110+ pages industry research “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition,"
+    publishedDateTime: 2020-02-03T12:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technologies-market-top-key-vendors--microsoft-corporation-alphabet-inc-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Image Recognition Market to Register Unwavering Growth During to 2025 | IBM, Imagga Technologies, AWS"
+    excerpt: "It uses a technology that detects places, people, items, buildings, logos, and various variables in image with the help of artificial intelligence. Companies are using huge digital data to bring better and niftier facilities to customers. Image recognition is used to perform several machine-based visual tasks, which include performing image ..."
+    publishedDateTime: 2020-02-03T12:24:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 24
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
+  - title: "Artificial Intelligence as a Service Market to Drive Amazing Growth by 2025 | IBM Corp., Google, Amazon Web services"
+    excerpt: "Zion Market Research published a new 110+ pages industry research \"Global Artificial Intelligence As A Service Market Is Set For A Rapid Growth And Is Expected To Reach Around USD 14.71 Billion Globally by 2024\" is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term ..."
+    publishedDateTime: 2020-01-28T06:47:00Z
+    webUrl: "https://www.openpr.com/news/1910327/artificial-intelligence-as-a-service-market-to-drive-amazing"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 32
-  - title: "Artificial Intelligence in Education Market Is Booming Worldwide | Google, IBM, Pearson, Microsoft, AWS"
-    excerpt: "Global Artificial Intelligence in Education Market research report for easy to understand detailed breakdown of market growth factors, advance technologies, industry drivers, challenges, regulatory policies, with qualitative research of key company profiles and strategies of players such as Amazon Web Services, Blackboard Inc., Blippar ..."
-    publishedDateTime: 2020-01-20T15:56:00Z
-    webUrl: "https://www.openpr.com/news/1901623/artificial-intelligence-in-education-market-is-booming"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 20
+    quality: 0
 
 secured: "d9U4nNNMZo4sQ1QnX5P7EUVJ2v1ox4hr8bZrqlbEzSGTAqfqJtw0/PeNa/Ey+soZtdaLOZ6//q9F+KffjaWnDiP8ASK+n+TX5h+SPLuz0GTNycNlB3CiJGEM1RBd3qXftZlIL6vbum9IyklaTmopCD8DMZzc1hflGvRwAi3fG8PemCAdnCXCnYBNWlxICliJoubbWLI/mcVxj5J788AyEXQGc7p3DHNN1suO6QsYuNtDqQU98GpH0dCHqD+yMXc+n6BFLQ9ArK4PPMvc5ZPFK0EMc5Q3pq/M2F/8E9+YBt3GeaWLc71YbKW8rBcryjmW;y5s/N4V9cvLanV3BIaO3Rg=="
 ---

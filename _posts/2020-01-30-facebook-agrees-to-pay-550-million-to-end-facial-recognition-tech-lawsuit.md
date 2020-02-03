@@ -45,6 +45,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1074319518-e1579876576621.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Russia's use of facial recognition challenged in court"
+    excerpt: "Russia's increasing use of facial recognition technology is being challenged by a civil rights activist in court. Mayor of Moscow Sergei Sobyanin said earlier this month that live facial recognition cameras were operating \"on a mass scale\" in the city. This, argues Alyona Popova, poses a threat to privacy and human rights. She is being ..."
+    publishedDateTime: 2020-01-31T11:39:00Z
+    webUrl: "https://www.bbc.com/news/technology-51324841"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-51324841"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51324841"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 189
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1772/production/_110720060_moscowcameras.gif"
+        width: 1024
+        height: 576
   - title: "Moscow rolls out live facial recognition system with an app to alert police"
     excerpt: "Moscow is the latest major city to introduce live facial recognition cameras to its streets, with Mayor Sergei Sobyanin announcing that the technology is operating “on a mass scale” earlier this month, according to a report from Russian business paper Vedomosti. It follows news earlier this week that London is integrating live facial ..."
     publishedDateTime: 2020-01-30T16:13:00Z
@@ -326,21 +341,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e323b18a854780006afebe7%2F0x0.jpg"
         width: 1200
         height: 784
-  - title: "Russia's use of facial recognition challenged in court"
-    excerpt: "Russia's increasing use of facial recognition technology is being challenged by a civil rights activist in court. Mayor of Moscow Sergei Sobyanin said earlier this month that live facial recognition cameras were operating \"on a mass scale\" in the city. This, argues Alyona Popova, poses a threat to privacy and human rights. She is being ..."
-    publishedDateTime: 2020-01-31T11:39:00Z
-    webUrl: "https://www.bbc.com/news/technology-51324841"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-51324841"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51324841"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1772/production/_110720060_moscowcameras.gif"
-        width: 1024
-        height: 576
   - title: "AI Weekly: Calls for facial recognition moratorium highlight need for protection from surveillance tech"
     excerpt: "The debate over whether to ban or place moratoriums on the use of facial recognition started last year in cities like San Francisco, but the debate reignited this week when Alphabet and Google CEO Sundar Pichai said he’s open to a moratorium on facial recognition. “It [facial recognition regulation] can be immediate, but maybe there’s a ..."
     publishedDateTime: 2020-01-24T21:02:00Z

@@ -41,6 +41,30 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
         width: 1200
         height: 630
+  - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
+    excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
+    publishedDateTime: 2020-02-03T07:00:00Z
+    webUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/"
+    ampWebUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
+        width: 2400
+        height: 1600
+  - title: "The Key To Tesla's Future Is Full Self-Driving"
+    excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
+    publishedDateTime: 2020-02-03T17:07:00Z
+    webUrl: "https://seekingalpha.com/article/4320979-key-to-teslas-future-is-full-self-driving"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "eqOWoeQoZ5SJwhtby7+aXqCVWlIbZe1Q/I/SPtbciw23wjby9mQs9zwLrkXvqkqHSUQDJ+BuN+EKGNxRtf4R2VhRO/P4l416ZUMUr3IuY0H1pyD6vnKO84vS98pBhqpC5n5/g9Z5GdROxKe+K9HKc/SwmeF4iBcRvxvSpMMqbSoI22bQXqxxdIBGxUrnw8v/MZVeeAba3NENSJUzAHjYsQOZV0sgzv8V4BivcVJxfqsiUATtA5rauwOn38XOxv26ENjamy89oYpVzrHCFK/ICHkbJj1XnPCh8H+i7cszr5HmeCJSKzWAlPIskwlPDl3ZOT43+94gczHJ1clKBbhbiXpEEBD2ISoQbt5TAjJGY722vUn+6+dHkjP4GqUFBJVtEih9FKGu3iP5vTrjvwAXnw8uq/YJW95krleNFQAmqGqohGhdoJQN8whVkju4JMG8R7fRi91Z0f+r3YvFa8m80Q==;hAIYt74RjbYnUkoWH3nWBA=="
 ---

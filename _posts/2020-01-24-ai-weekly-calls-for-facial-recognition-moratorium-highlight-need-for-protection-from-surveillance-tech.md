@@ -45,6 +45,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1074319518-e1579876576621.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Russia's use of facial recognition challenged in court"
+    excerpt: "Russia's increasing use of facial recognition technology is being challenged by a civil rights activist in court. Mayor of Moscow Sergei Sobyanin said earlier this month that live facial recognition cameras were operating \"on a mass scale\" in the city. This, argues Alyona Popova, poses a threat to privacy and human rights. She is being ..."
+    publishedDateTime: 2020-01-31T11:39:00Z
+    webUrl: "https://www.bbc.com/news/technology-51324841"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-51324841"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51324841"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 189
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1772/production/_110720060_moscowcameras.gif"
+        width: 1024
+        height: 576
   - title: "Facebook agrees to pay $550 million to end facial recognition tech lawsuit"
     excerpt: "Facebook has agreed to pay $550 million to settle claims in Illinois that the company violated local laws on facial recognition technologies. The results of the lawsuit were made public on Wednesday and have been described as the \"largest cash settlement ever resolving a privacy-related lawsuit.\" Launched by law firms Edelson, Robbins Geller ..."
     publishedDateTime: 2020-01-30T12:16:00Z
@@ -341,21 +356,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e323b18a854780006afebe7%2F0x0.jpg"
         width: 1200
         height: 784
-  - title: "Russia's use of facial recognition challenged in court"
-    excerpt: "Russia's increasing use of facial recognition technology is being challenged by a civil rights activist in court. Mayor of Moscow Sergei Sobyanin said earlier this month that live facial recognition cameras were operating \"on a mass scale\" in the city. This, argues Alyona Popova, poses a threat to privacy and human rights. She is being ..."
-    publishedDateTime: 2020-01-31T11:39:00Z
-    webUrl: "https://www.bbc.com/news/technology-51324841"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-51324841"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51324841"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1772/production/_110720060_moscowcameras.gif"
-        width: 1024
-        height: 576
   - title: "Despite privacy concerns, facial recognition cameras to be rolled out in London"
     excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
     publishedDateTime: 2020-01-24T19:57:00Z

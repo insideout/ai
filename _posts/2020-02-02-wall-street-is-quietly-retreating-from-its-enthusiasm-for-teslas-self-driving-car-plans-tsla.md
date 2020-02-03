@@ -35,6 +35,21 @@ related:
       - url: "https://i.insider.com/5e32d55a24306a7e802e8322?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "Tesla's Video Shows What Full Self-Driving Autopilot Sees"
+    excerpt: "Tesla's Autopilot plans are aggressive to say the least. CEO Elon Musk has noted that the company's current-generation vehicles already have the hardware for Full Self-Driving (FSD). The limiting factor, according to Musk, is the software. Clearly, the CEO wants self-driving, so to make it a reality, the Autopilot team is now recruiting via the ..."
+    publishedDateTime: 2020-02-03T17:11:00Z
+    webUrl: "https://www.caranddriver.com/news/a30733506/tesla-autopilot-full-self-driving-video/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp30733506/tesla-autopilot-full-self-driving-video/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30733506/tesla-autopilot-full-self-driving-video/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/algorithms-1580508501.jpeg?crop=1.00xw:0.802xh;0,0.120xh&resize=1200:*"
+        width: 800
+        height: 401
   - title: "An engineering student is helping envision a self-driving future for people with disabilities"
     excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around. The Ohio State University engineering student had opted for a rolling walker over the wheelchair she sometimes uses, but nonetheless she was late."
     publishedDateTime: 2020-01-31T13:10:00Z

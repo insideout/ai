@@ -39,19 +39,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Image Recognition Market 2020- Qualcomm, NEC, Google, LTU Technologies, Catchoom Technologies"
-    excerpt: "Excellence Market Research has recently published a very complete analysis of the Image Recognition market based on comprehensive secondary and primary research. The report titled \"Global Image Recognition Market 2020 Industry Research Report\" offers the most precise analysis of the Image Recognition industry for the last five years and forecast until 2025."
-    publishedDateTime: 2020-01-31T08:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-image-recognition-market-2020--qualcomm-nec-google-ltu-technologies-catchoom-technologies-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "3qZUfsgwg0Hs5NukJDftXJi2XrsWa6AOa8SDIbdNZRembSwKdyDzeBGv0665khxYa6w9w6HCqIz2YFnhkddOpvbfUBzJMs18BLbR1KSw2MiGBHDoZEvKS/6Io64qm71DE8IL81taG9+YHs+yvHTiJjPdJdeQXF2ciqDd+An76dIAEKm4/CFploDbkKLp2jydUL91MXrydIXsHx0ZuLRssX79SCzI+1aermqOpUtJ52iByJsHkXu4ydhHqjO3C9x7VKKjteRtqTAV5BwE9OMdFuGtfvXGrVMxyPVeU2GxE+fMMfWtaCY1C05YdrqpjtjyDnhbSD0Ke0/BENCafa9aQQLy2sOVrjiHupE3/Rabyn+NBnPRc8PIn8tBmpvTx+OUFNtR6eWxnoYesjehWBhu1v4YJHLBxLTqeeM12i0QBYT27Q8cEHELC2w5Hc+CXmF0odYOefLcQ5RhnESzRf+DsHkxIXbAu4zqtcTCnZYdDBM=;MqbYKoelqIsi7urYL77eyA=="
 ---

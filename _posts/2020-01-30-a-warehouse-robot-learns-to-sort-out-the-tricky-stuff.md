@@ -97,6 +97,21 @@ related:
       - url: "https://www.orlandosentinel.com/resizer/vOhux2I__6gXE0qci_MqDEieaGE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2K2V6T2WDZEBZOZHHO523HBDOU.jpg"
         width: 1200
         height: 900
+  - title: "A warehouse robot learns to sort out the tricky stuff"
+    excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb through bin after bin of random stuff — clothes, shoes ..."
+    publishedDateTime: 2020-02-03T13:31:00Z
+    webUrl: "https://www.seattletimes.com/business/a-warehouse-robot-learns-to-sort-out-the-tricky-stuff/"
+    ampWebUrl: "https://www.seattletimes.com/business/a-warehouse-robot-learns-to-sort-out-the-tricky-stuff/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/a-warehouse-robot-learns-to-sort-out-the-tricky-stuff/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 59
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/01/b708d2f7-0d57-45a4-a611-2452c073d53b-300x225.jpg"
+        width: 300
+        height: 225
   - title: "New kind of robot learns on the job at warehouse in Germany"
     excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb bin after bin of random stuff -- from clothes and shoes to ..."
     publishedDateTime: 2020-02-02T06:00:00Z

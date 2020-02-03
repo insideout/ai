@@ -59,13 +59,17 @@ related:
         height: 630
   - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
     excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers customized reports on specific category. Artificial Intelligence uses various computer functions ..."
-    publishedDateTime: 2020-01-22T11:05:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
+    publishedDateTime: 2020-01-22T11:06:00Z
+    webUrl: "https://www.techworld.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 12
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 32
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
   - title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
     excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
     publishedDateTime: 2020-01-20T12:39:00Z

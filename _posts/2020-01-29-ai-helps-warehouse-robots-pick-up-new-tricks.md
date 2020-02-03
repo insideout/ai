@@ -89,6 +89,21 @@ related:
         width: 1200
         height: 900
   - title: "A warehouse robot learns to sort out the tricky stuff"
+    excerpt: "While it may not seem like much, this component-sorting robot is a major advance in artificial intelligence and the ability of machines to perform human labor. As millions of products move through warehouses run by Amazon, Walmart and other retailers, low-wage workers must comb through bin after bin of random stuff — clothes, shoes ..."
+    publishedDateTime: 2020-02-03T13:31:00Z
+    webUrl: "https://www.seattletimes.com/business/a-warehouse-robot-learns-to-sort-out-the-tricky-stuff/"
+    ampWebUrl: "https://www.seattletimes.com/business/a-warehouse-robot-learns-to-sort-out-the-tricky-stuff/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/a-warehouse-robot-learns-to-sort-out-the-tricky-stuff/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 59
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/01/b708d2f7-0d57-45a4-a611-2452c073d53b-300x225.jpg"
+        width: 300
+        height: 225
+  - title: "A warehouse robot learns to sort out the tricky stuff"
     excerpt: "At the facility near Berlin, the new kind of robot is automating tasks that until recently had been out of the reach of machines."
     publishedDateTime: 2020-01-30T12:48:00Z
     webUrl: "https://www.bizjournals.com/buffalo/news/2020/01/30/a-warehouse-robot-learns-to-sort-out-the-tricky.html"

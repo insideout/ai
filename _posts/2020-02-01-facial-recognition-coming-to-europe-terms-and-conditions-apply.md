@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recogn
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
 type: article
 quality: 69
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -156,6 +156,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
+  - title: "Minnesota Legislature begins considering facial-recognition technology regulations"
+    excerpt: "A joint legislative committee has taken the first small steps toward considering what a handful of cities and states around the country have already done — regulating or banning the use of facial recognition software by business and government. It was such a small step considered by a subcommittee of the relatively obscure Legislative ..."
+    publishedDateTime: 2020-02-03T14:21:00Z
+    webUrl: "https://www.minnpost.com/state-government/2020/02/minnesota-legislature-begins-considering-facial-recognition-technology-regulations/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 18
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
+        width: 640
+        height: 461
   - title: "Cactus Communications announces acquisition of UNSILO, a Danish tech solutions company"
     excerpt: "Cactus Communications, a global scientific communications company, announced that it has acquired UNSILO, a Denmark-based Artificial Intelligence (AI) and Natural Language Processing (NLP) company that specializes in text analytics, linguistics, and data science. UNSILO, co-founded by Mads Rydahl and Thomas Laursen, provides AI tools and ..."
     publishedDateTime: 2020-01-28T11:36:00Z

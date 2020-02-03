@@ -8,7 +8,7 @@ ampWebUrl: "https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voi
 cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,23 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "WvPkFpy2K4Xn/ann0jwXtXNUn06S4hkMnNoPoO3KlSDRi6eAdnckOwwplj024nKghUo7EgN2P2/6/rawvG4pt86ci2DaNVVHvYGs5p7UxjkB6HuvlbLunaBgRWGym6PqIXGbm5j8Ix+114lxlpbs9joJo73BRnwm/7eQwGRxf14/1Lg5sUfARsCOK4fTkjpiAP4G0Y1TWc/k52Pnv8T+ya5sym9xnw30rigqSvNkCfw+zpfq4nuN4oScSChD1/S/Zgm7+rF/Kbocdm/qTD0tpVyxTUAQH5ectzauIfaSJtYnEiwiDNDTTnWKi6WZ+sMm;/iCp/KgfhgVmyn31zm8Isw=="
+related:
+  - title: "What is Voice Recognition"
+    excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
+    publishedDateTime: 2020-01-11T11:41:00Z
+    webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
+    ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
+    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 44
+    images:
+      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
+        width: 600
+        height: 271
+
+secured: "7qo0p/WiYSi6MXMuSQfn/gK0xr+q6YvkAX0ZQpSRfuMFKQ3cu1jJ//xn16Xh2rn+c9i0V70YfJlc8pD7rQTctx/bHbCQP471VGeySdtquw27uR6wkUUb3mlaFDGnws0/Y8d8fZACKiT+sPub3t6eVHLpo9syASdn605uM/IqLiLTb6OA44Fn3aWq77NmLUEorLkJBqVAGXNt/LKGEOUF0ARB66nozMvyNlIXrTvOI23KPqGmGABQFtwrb8WKB7WZQrC7+k/klR6IhV1AuSN70peq8FI5hYUND8XM9DjNPJsU6SMcWDaSfdwPywws8aep;m7tu06lUBUhV1v/MjJg/zA=="
 ---
 

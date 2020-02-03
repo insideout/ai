@@ -158,6 +158,17 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107"
         width: 863
         height: 545
+  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
   - title: "Sundar Pichai offers a cryptic warning against over-regulating AI"
     excerpt: "He discusses his love for technology dating back to his childhood before immediately moving on to all the good that Google‘s doing: Just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in ..."
     publishedDateTime: 2020-01-20T20:51:00Z

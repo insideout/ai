@@ -167,6 +167,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
+  - title: "Minnesota Legislature begins considering facial-recognition technology regulations"
+    excerpt: "A joint legislative committee has taken the first small steps toward considering what a handful of cities and states around the country have already done — regulating or banning the use of facial recognition software by business and government. It was such a small step considered by a subcommittee of the relatively obscure Legislative ..."
+    publishedDateTime: 2020-02-03T14:21:00Z
+    webUrl: "https://www.minnpost.com/state-government/2020/02/minnesota-legislature-begins-considering-facial-recognition-technology-regulations/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 18
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
+        width: 640
+        height: 461
   - title: "How smart kiosks are using facial recognition and predictive sales algorithms to bring a dose of humanity and hospitality to restaurant tech"
     excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience. \"Our ultimate goal for the software is to create the most hospitable experience possible in a digital ..."
     publishedDateTime: 2020-01-28T21:42:00Z

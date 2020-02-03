@@ -186,6 +186,32 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Cloud Natural Language Processing Market: Global Industry Trends, Share, Size and 2024 Future Opportunities"
+    excerpt: "Global Cloud Natural Language Processing Market reports provide in-depth analysis of Top Players, Geography, End users, Applications, Competitor analysis, Revenue, Price, Gross Margin, Market Share, Import-Export data,"
+    publishedDateTime: 2020-02-03T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-global-industry-trends-share-size-and-2024-future-opportunities-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Healthcare Natural Language Processing (NLP) Market: Global Industry Analysis, Opportunity and Forecast 2019 to 2024"
+    excerpt: "The report provides an exhaustive calculation of the Healthcare Natural Language Processing (NLP) comprising of industry chain structure, market drivers, opportunities, future roadmap, industry news analysis,"
+    publishedDateTime: 2020-02-03T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-global-industry-analysis-opportunity-and-forecast-2019-to-2024-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Machine Learning Market 2019 CAGR, Production, Revenue, Industry Share, Rising Trends and Manufacturers Growth Outlook 2025"
     excerpt: "Machine Learning Market research reports focus on size, share, growth, manufacturers and forecasts by 2025. Machine Learning Market research reports focus on size, share, growth, manufacturers and forecasts by 2025."
     publishedDateTime: 2020-01-31T12:09:00Z
@@ -381,6 +407,15 @@ related:
     excerpt: "Orion Market Reports Recently published report on titled \"Artificial intelligence AI in BFSI Market - Global Industry Trends, Market Size, Competitive Analysis and Forecast - 2019 to 2025\", studies the global markets for Artificial intelligence AI in BFSI in terms of product type, technology type, application type, end-user and regional ..."
     publishedDateTime: 2020-01-31T13:50:00Z
     webUrl: "https://www.openpr.com/news/1915939/artificial-intelligence-in-bfsi-market-industry-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Continuous Positive Airway Pressure (CPAP) Humidifiers Market Growth Prospects, Trends and Forecast up to 2027"
+    excerpt: "Continuous positive airway pressure (CPAP) humidifiers are vital accessories in sleep apnea therapy. Using a humidifier a patient can alleviate symptoms ... However, new developments in medical device technology such as development of CPAP hot humidifiers and artificial intelligence allow to image the new future of devices at higher level ..."
+    publishedDateTime: 2020-02-03T12:52:00Z
+    webUrl: "https://www.openpr.com/news/1916850/continuous-positive-airway-pressure-cpap-humidifiers-market"
     type: article
     provider:
       name: openpr.com

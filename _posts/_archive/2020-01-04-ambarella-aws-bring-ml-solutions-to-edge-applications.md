@@ -25,6 +25,6 @@ images:
     height: 512
     title: "Ambarella & AWS Bring ML Solutions to Edge Applications"
 
-secured: "+yvlMRpJ82NgPT4QveW37N/JUamTNjUkUMKVkLlmcRnln28m5aBaAaId7cd1V9GjXrv+bwXHFMOk6GvorLH2HPYMaO3xkk6ftq01ZNZi10e16B/LQiwIT/sbDWlwPT8UQOunAcLrC5vnfbSNiKTWVPWrMNf/AKDh2PiMI1YaZ5U29UbYTI8U7DFzeBKPjzTucCIkeAQLX+hopeyDzAfsIMyMvsSiPXyxphQOEYOrFbrGzK8Uut3Hs7Vu01eqq2fdbpDMCs7m1Mm5OxWGnNKDkLIcKQB+FA33xJMloPlf+ZJPfQfNWTqyrBNR+Ie0MSsM;rqUGjnWZ9Q2ys9P6NzFSmQ=="
+secured: "4SzWbMrDaCQ7r7kGAxm9hpvdy1yvU10oLpQiiFu5qj0SA4zj68+gxGA6MaKMlmxIQPq8KLHlcOERqy4WLKVumjP0MbGZ2WWnZ3I2wGNKSfuAIUPOuwT+qfLB3i7lmKkDNuqS4pkA3jL1uwRT8m4mNarhfk4XETCK0BMT4qBtsYeJGwoap2fu+ISG6QmneOhr/lkwP2K8SKfkII/sjirNWtCxeJSR+48mObN52YBfkk6gDV73fITMei4/ZVlam3rRX3SNJAzzMNHSDcEaRbg8yUx6ZtKOSEquj4JO1WQLHHkYTFjfu2PYQRixtmuIuH6t;KAnMBbjogB6iPHLyh6kL6Q=="
 ---
 

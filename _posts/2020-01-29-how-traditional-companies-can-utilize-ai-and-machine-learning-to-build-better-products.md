@@ -40,6 +40,19 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
+    excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
+    publishedDateTime: 2020-01-31T15:06:00Z
+    webUrl: "https://www.businessinsider.com/developer-technologies-digital-transformation-tech-companies-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+    images:
+      - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
+        width: 1024
+        height: 512
   - title: "How companies can embrace AI as a catalyst for creativity"
     excerpt: "Combined with a lack of understanding of the technology, employers don’t have the internal structure and personnel needed to launch the power of AI into their business model, says Augustine Walker, senior director of product management for Veritone, an AI solutions provider. “There isn't a lot of focus on what tools are out there so that I ..."
     publishedDateTime: 2020-01-27T11:14:00Z
@@ -53,15 +66,6 @@ related:
       - url: "https://sourcemedia.brightspotcdn.com/dims4/default/280a84a/2147483647/strip/true/crop/3319x1742+0+235/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F84%2F99%2F45d868ad4c9e98dac6b31095bb62%2F348774751.jpg"
         width: 1200
         height: 630
-  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
-    excerpt: "\"The combination of containers and Kubernetes enables faster, more agile app development and facilitates more collaborative cross-team app design and development across organizations,\" Melanie Posey, research vice president at ... developers to easily work with other popular AI frameworks, like Facebook's PyTorch and Google's TensorFlow."
-    publishedDateTime: 2020-01-31T14:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/developer-technologies-digital-transformation-tech-companies-2020-1-1028863737"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
 
 secured: "HFzF3MBhAr50k3edD/rftDRW9p62isFgVAkGAH2a9bQvw48NUWIRtTDSNZMm30HEcgxlKrP73Ukm/LrUUo+vvaxtE81mwDPHZDJ9jUCMjHbvVZwRWRI0xQuDp0RYmy/0ZtE275dERy17du+m3+FEQCoMPTh2xGHpQrXuIogUzNJg4sJOdJKEe97FRDDEnA6yKqD4W76zeVPNOMIylOTfdk6P/uSg09z7SG6rH9s+Jms59yw1rt5qucFUWlDEnKx/2y18nWRmUZpFlBIHZvtJYMsPO5T5hPNg4GL/KQMxT+4hjYuy/tspV5lCkBbyC3XjNGVHzreWEcBOrVxZYtuzlp6le4ePnOfHuXAPqJwPrEP5hj/67R1IGbHGun/5CFiCcLONvTrl62j5pYmYBUMplEVcEon12hVeyLaIG2+s1jeE45D0S4eEM1fdShVuLRhH2D32Gimg0XBIT9s/y/x8BStDm7DeXBSWIf9nP9mQmuc=;tRHlz3M2DY8/oHa0n+cgtg=="
 ---

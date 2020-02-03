@@ -24,36 +24,21 @@ images:
     title: "Rajesh Goenka of RP tech India Explains the Top Technology Trends to Watch in 2020"
 
 related:
-  - title: "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec"
-    excerpt: "Alfieri, one of Business Insider's 2019 Rising Stars of Wall Street, lays out the biggest themes to watch for fintech in 2020."
-    publishedDateTime: 2020-01-29T19:56:00Z
-    webUrl: "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1"
-    ampWebUrl: "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp"
+  - title: "3 Top Artificial Intelligence Stocks to Watch in February"
+    excerpt: "Though artificial intelligence (AI) has been a hot topic among technologists for quite some time, it's only in recent years that semiconductor, software, and cloud capabilities have gotten to the point where companies are now deploying AI on a wider basis."
+    publishedDateTime: 2020-02-03T13:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 89
     images:
-      - url: "https://i.insider.com/5de57a1efd9db2771d15a925?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-  - title: "Top 3 Tech-Driven Trends That Will Shape The Fintech Industry In 2020"
-    excerpt: "At an exciting time like this, let us take a closer look at the major tech-driven trends that will dominate the fintech industry in 2020. Artificial intelligence (AI) is a truly transformative ..."
-    publishedDateTime: 2020-02-01T01:47:00Z
-    webUrl: "https://inc42.com/resources/top-3-tech-driven-trends-that-will-shape-the-fintech-industry-in-2020/"
-    ampWebUrl: "https://inc42.com/resources/top-3-tech-driven-trends-that-will-shape-the-fintech-industry-in-2020/?amp"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/top-3-tech-driven-trends-that-will-shape-the-fintech-industry-in-2020/?amp"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 44
-    images:
-      - url: "https://i2.wp.com/cdn.inc42.com/wp-content/uploads/2020/01/Untitled-design-2020-01-28T225043.569.jpg?fit=1200%2C628&#038;ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
+        width: 1024
+        height: 512
 
 secured: "dfappNWszhdm/fwiP0Xwp+tKio6UAAjDTjldWoz21YklMQJMRdp6Hnv4zcrn/pSQKWE5DUYWFwvr2Jt9JhNL4OsuIR05bFJ8c5l017A3EnlfAZMNTpgHfm87yccNG+lr0Ln2GhVJeD9UsUZRJHTaT64kQPhMgFlV4ehTkRo0oQwWimjh1DoOrF6H/joGELjqPn8CnxY+sFgltNBQIZFpaiMGMDPXL3MM+5ndDrpCBdK9I9JN09Ih6gQCEbPr6bHSD00YcJCGKEY+JbPY5bIpc2Rcu3Kmjn387LSMh7V24YjWrAYUOip9jctDOj2WgIMaLJgVetnUTvZy5dXJ7cK/9eJI+vUlr1sv+k6MR/TicsIDfAiR6nJm2mV9kdxjDfHxVyQGFpOSSPcYhconTG80Dee5cieKEPtCCU/UpMJBflF0vXQrg7BcWG+ANGdQpE/ZplP+6PDrt3P9K+RJIYGA7iyhgw5o+crC0vC6I2RE77w=;3OMtlY22r5Pm1gnqF4EoEg=="
 ---

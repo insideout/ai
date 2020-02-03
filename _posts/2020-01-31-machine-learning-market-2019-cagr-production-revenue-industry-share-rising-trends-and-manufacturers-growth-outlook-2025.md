@@ -197,6 +197,32 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Cloud Natural Language Processing Market: Global Industry Trends, Share, Size and 2024 Future Opportunities"
+    excerpt: "Global Cloud Natural Language Processing Market reports provide in-depth analysis of Top Players, Geography, End users, Applications, Competitor analysis, Revenue, Price, Gross Margin, Market Share, Import-Export data,"
+    publishedDateTime: 2020-02-03T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-global-industry-trends-share-size-and-2024-future-opportunities-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Healthcare Natural Language Processing (NLP) Market: Global Industry Analysis, Opportunity and Forecast 2019 to 2024"
+    excerpt: "The report provides an exhaustive calculation of the Healthcare Natural Language Processing (NLP) comprising of industry chain structure, market drivers, opportunities, future roadmap, industry news analysis,"
+    publishedDateTime: 2020-02-03T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-global-industry-analysis-opportunity-and-forecast-2019-to-2024-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Self-Driving Cars Market 2019 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
     excerpt: "A new market research report by Big Market Research on Self-Driving Cars market reveals that the market is estimated to grow with a substantial growth rate from 2019-2026. This report is a valuable document for major players and the new entrants to scrutinize the market in detail."
     publishedDateTime: 2020-01-28T09:14:00Z
@@ -388,6 +414,15 @@ related:
     excerpt: "Global \"Artificial Intelligence in Medicine\" Market report 2020 intends to give inside and out data about Artificial Intelligence in Medicine industry with market outlook, trends, business strategies and future prospects of industry. It includes the present market status with some changing size and trends that can affect the market growth rate."
     publishedDateTime: 2020-01-31T11:30:00Z
     webUrl: "https://www.openpr.com/news/1915648/global-artificial-intelligence-in-medicine-market-size-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Continuous Positive Airway Pressure (CPAP) Humidifiers Market Growth Prospects, Trends and Forecast up to 2027"
+    excerpt: "Continuous positive airway pressure (CPAP) humidifiers are vital accessories in sleep apnea therapy. Using a humidifier a patient can alleviate symptoms ... However, new developments in medical device technology such as development of CPAP hot humidifiers and artificial intelligence allow to image the new future of devices at higher level ..."
+    publishedDateTime: 2020-02-03T12:52:00Z
+    webUrl: "https://www.openpr.com/news/1916850/continuous-positive-airway-pressure-cpap-humidifiers-market"
     type: article
     provider:
       name: openpr.com

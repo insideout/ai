@@ -89,15 +89,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/10/11/73/18915015/7/375x250.jpg"
         width: 375
         height: 249
-  - title: "Miso Robotics Reimagines Kitchen Automation with Robotic Kitchen Assistant on a Rail"
-    excerpt: "In my mind, that validated the software platform approach we took in designing Flippy's brain,\" noted Dr. Ryan Sinnet, CTO of Miso Robotics. While the next generation of the product has been taking shape, the team has continued to make breakthroughs in the artificial intelligence software that powers Flippy. This has resulted in software that ..."
-    publishedDateTime: 2020-01-28T13:24:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2020/01/28/miso-robotics-reimagines-kitchen-automation-with-robotic-kitchen-assistant-on-a-rail/14722/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 42
 
 secured: "ccPoRaiLOXYNsBdIaXhsdjqhhWCDk0Y58mSWI1EZgzE2DZ+5Q4wIrX+t/X9lz7PHo0NyNQCU4d2CTtwVKYZjwpPHWHaFrui1VaAXwkqXncMHLOUOxKewLtHHiyevlmfX20HnuRSBEruiE1JsdlUS2mJP/snHLQhOM9n/q41iAsC05Pt+RkgX4vifO23pRATDiUK04ax+YFbjQy2gFYf8d4UzP0dlLXzzxGdyNKTVDIl7+PeLuIy6HF3rQfvrEg67MtQ3xA0bi9RdZckorWm3Tev+v0TgOvjDqFho5WyOMCa3mR656ZtRDv31LNnepb7Zj0QZcpiGHzpNNlZGrzBeiCEjKirAknt4IgO0DSoyBQl5Vscpj6wBndVzvb/jIWH5mOawCtoWNR9Cuc3NWIdsujUIt3JXcINZ7yaitYS/A/4zw6BUM8VTVaTLJrNeIEbqEGBfu277ZcZTpwh0KaiUZYaPrP8k8Lx7zIpvcaMBsx4=;Axt7EzKsBrT9uH5UtGQO4A=="
 ---

@@ -18,43 +18,30 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "A startup that teaches coding to six year olds raises ₹7 crore in seed funding"
-    excerpt: "Its SmartTech programme ropes in children as young as six years — helping them build skills and confidence to create tech products via coding, robotics, smart devices and AI. \"After-school-education for the K6 segment in India has been highly fragmented. At the same time, the rise of the middle class allows parents in urban India to start ..."
-    publishedDateTime: 2020-01-28T05:48:00Z
-    webUrl: "https://www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/articleshow/73687943.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/amp_articleshow/73687943.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/amp_articleshow/73687943.cms"
+  - title: "Construction startup Scaled Robotics raises a €2M seed round"
+    excerpt: "This morning, the small Barcelona-based construction startup announced that it has raised a €2 million seed investment ... both investors who share our vision of changing the industry through a combination of robotics and artificial intelligence.”"
+    publishedDateTime: 2020-02-03T15:16:00Z
+    webUrl: "https://techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/"
+    ampWebUrl: "https://techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/"
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 53
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
     images:
-      - url: "https://www.businessinsider.in/thumb/73688111.cms?height=275&width=412"
-        width: 412
-        height: 275
-  - title: "Incubate Fund India leads seed funding in ed-tech startup WizKlub"
-    excerpt: "Founded by Amit Bansal in February 2018, Bengaluru-based WizKlub develops artificial intelligence-based programmes for children between ... the SmartTech programme is aimed at imparting technological know-how through coding, robotics and smart devices. WizKlub says the startup is active through more than 150 centres in Bengaluru, and that ..."
-    publishedDateTime: 2020-01-28T08:46:00Z
-    webUrl: "https://www.vccircle.com/incubate-fund-india-leads-seed-funding-in-ed-tech-startup-wizklub"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-03-at-10.09.42-AM.png?w=1024"
+        width: 1024
+        height: 655
+  - title: "Miso Robotics Reimagines Kitchen Automation with Robotic Kitchen Assistant on a Rail"
+    excerpt: "In my mind, that validated the software platform approach we took in designing Flippy's brain,\" noted Dr. Ryan Sinnet, CTO of Miso Robotics. While the next generation of the product has been taking shape, the team has continued to make breakthroughs in the artificial intelligence software that powers Flippy. This has resulted in software that ..."
+    publishedDateTime: 2020-01-28T13:24:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2020/01/28/miso-robotics-reimagines-kitchen-automation-with-robotic-kitchen-assistant-on-a-rail/14722/"
     type: article
     provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 24
-    images:
-      - url: "https://assets.vccircle.com/uploads/2018/09/Seedfunding.jpg"
-        width: 810
-        height: 508
-  - title: "Ibibo founder’s fintech startup INDwealth pulls in Series C funding"
-    excerpt: "The company operates a financial advisory platform that uses AI and machine learning to allow users to manage their investments, liabilities, future cash flows and taxation. VCCircle has reached out to INDwealth on the details of the investment and will update this report accordingly. The Series C round comes after the fintech startup secured $ ..."
-    publishedDateTime: 2020-01-27T07:44:00Z
-    webUrl: "https://www.vccircle.com/ibibo-founder-s-fintech-startup-indwealth-pulls-in-series-c-funding"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 4
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 42
 
 secured: "Ok8OlBUW7TRZuNCnH90AD/upo1SHZF+XXQ4pt2ORBB0d+FUFSlubx1UVFWOMVXq6eqEgGztev08iIzfCDgcgXaMWVLTNnPL6wOEoalqcRKyBLyStSFghU7I2XnYFgLpdOXXGt+dR6YVSlglqoskr6zkVsvvizt3lXt+03tALE2XLtXFMX39VQgtpI3EAQBVTZSocCm0kV0AKZiVc025E8v2ca0XUHyG/sG1Zrh7zrmapXYhhQP3VbVEQrr1c4Qm0HPzREyuTNG8GhfPzJze/QlL9Ww/wwKVwnE0k1pzlCHSf4yQEwPUf345f+I7LOaaW;4W4XCvpvqYze0RZhDj/Ojg=="
 ---

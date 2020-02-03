@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-02T08:58:00Z
 webUrl: "https://www.businessinsider.com/tesla-self-driving-tech-wall-street-getting-bored-waymo-cruise-2020-1"
 type: article
 quality: 60
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans"
 
 related:
+  - title: "Tesla's Video Shows What Full Self-Driving Autopilot Sees"
+    excerpt: "Tesla's Autopilot plans are aggressive to say the least. CEO Elon Musk has noted that the company's current-generation vehicles already have the hardware for Full Self-Driving (FSD). The limiting factor, according to Musk, is the software. Clearly, the CEO wants self-driving, so to make it a reality, the Autopilot team is now recruiting via the ..."
+    publishedDateTime: 2020-02-03T17:11:00Z
+    webUrl: "https://www.caranddriver.com/news/a30733506/tesla-autopilot-full-self-driving-video/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp30733506/tesla-autopilot-full-self-driving-video/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30733506/tesla-autopilot-full-self-driving-video/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/algorithms-1580508501.jpeg?crop=1.00xw:0.802xh;0,0.120xh&resize=1200:*"
+        width: 800
+        height: 401
   - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans (TSLA)"
     excerpt: "Tesla's business is now good. But it's an electric-car business, and the transportation-of-the-future narrative has shifted to self-driving cars. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead. Visit Business Insider's homepage for more stories. The year 2019 was a pivot in the story about the future ..."
     publishedDateTime: 2020-02-02T13:30:00Z
@@ -62,6 +77,6 @@ related:
       domain: sfgate.com
     quality: 0
 
-secured: "PrpqG3eo11DVhF+0JBHpIM/ylIwfB5YVFmv8TTw3ZJaLsf+1QmT/wdBSnD1A2Bjj2558EHLvQckbYlhqJvkbjA8MpaUWyTAtKs3gPOwoggnfAYh+bTfk4KB/rYQjod9bO7YWC9+4g8S1W3rjsjWPMkeAJyCYPbPxfdYPrEHO3FgF9dCbj40NKgspbsZZIJc36PF/7RA2r3e5txKrP7IqJw/fjw81DNdaJJ9jv2YL37KaK0gO6aAiiZvdDYWXwsYIIEjVUJEZ+qluqbNISPUsNtt0EoIBRctffztYXBjfq2OhfADj1R4NSFzYNrKmIJHbq8yG6YS7R/2UM4IoUqUKsQJBCGy2BWhJ4eCZSvA2GviPKuOXlJ5pf1FUYNxKxpn52dci4/1U9NuLnswnKNnX2Qf4pQlb6tRBnJu9iivaFDgNOgnrUDK9IEEiSsk/ZxKs4HoQ5LuwfaksifmD/IxxSGFsWHw/SDfrdEcakxNO7co=;gji/V4oLG2vCv0M4cu56vg=="
+secured: "cT50NOeZZgd0Y2RR3C+f/C/tdGvgSgHEsKBp62Q74Pmifi6Rc6DA57RUgCrVWL1aiPYFVFFWmIJIAD7K9txMfmx701fih92IBBWuvdRrr9dFoZJlX7WpA5kppQo5Akw2LDGPwmU3kp21fLuidBvUM6t1RCSEDjWyM4lT5TAvdY2ClepzS1Pfns23hDTUiqVNIVCC2tm+uB5MFTvJTRW8YziDVG5LNqd9LSHOksuRhEh/J9y8+E/Rm0Jv2G6H22U3FHbnmg7IyDsuxX5v2+rCVwpqO6DjpL8zpPOAk0hOG8N5xzLYQy7UiYsjJHbt6PVsDiyubzT3dRpPJR9qEZD5eaGYWER+rFe+lYkD5awfehtzN/R7r8oxDyUX1pwhV02jCInqasC3DOvAMxRpA3RFbDa0fTLC59cB92WQCXmD5r53+BkdEYjsnBsxibM5Rmf4oaFVAK6zy7cGooyUsRDIdUpIxdZqmjQKDWmkOemo0wU=;YBmaWB7pg8+w8aM4hy7Ulg=="
 ---
 

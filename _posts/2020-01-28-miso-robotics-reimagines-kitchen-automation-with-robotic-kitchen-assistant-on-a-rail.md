@@ -18,85 +18,29 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Miso Robotics unveils its next-gen robot kitchen assistant"
-    excerpt: "This might seem like cause for alarm, but Miso Robotics, a startup developing automation products for fast-food and quick-service ... On the software side, it benefits from improvements to Miso AI (Miso’s eponymous cloud-based platform) that expand the number of cookable food categories to over a dozen, including chicken tenders, chicken ..."
-    publishedDateTime: 2020-01-28T11:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/28/miso-robotics-unveils-its-next-gen-robot-kitchen-assistant/"
-    ampWebUrl: "https://venturebeat.com/2020/01/28/miso-robotics-unveils-its-next-gen-robot-kitchen-assistant/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/miso-robotics-unveils-its-next-gen-robot-kitchen-assistant/amp/"
+  - title: "Construction startup Scaled Robotics raises a €2M seed round"
+    excerpt: "This morning, the small Barcelona-based construction startup announced that it has raised a €2 million seed investment ... both investors who share our vision of changing the industry through a combination of robotics and artificial intelligence.”"
+    publishedDateTime: 2020-02-03T15:16:00Z
+    webUrl: "https://techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/"
+    ampWebUrl: "https://techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE-1-e1579804235265.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Miso Robotics puts Flippy on a rail for new kitchen concept"
-    excerpt: "Miso Robotics ... team was also working with the AI algorithm to understand the differences in cooking times for different food types and adapt accordingly so orders and food can be ready at the same time. For example, if one “steak” is ordered medium, and one is ordered medium-well, the system knows to start the medium-well item first ..."
-    publishedDateTime: 2020-01-28T11:04:00Z
-    webUrl: "https://www.therobotreport.com/miso-robotics-puts-flippy-on-a-rail-for-new-kitchen-concept/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 99
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE.png"
-        width: 1425
-        height: 887
-  - title: "Boulder’s Misty Robotics has made it easier to turn its robots into front-desk workers"
-    excerpt: "Boulder’s Misty Robotics earlier this month unveiled its Misty as a Concierge application ... on the autism spectrum At a time of high anxiety over how self-driving cars and other forms of automation and artificial intelligence could soon do away with masses of human jobs around the globe, Enwall isn’t afraid to discuss the impact bots ..."
-    publishedDateTime: 2020-01-30T13:04:00Z
-    webUrl: "https://www.denverpost.com/2020/01/30/boulder-misty-robotics-workers-ces-tech/"
-    ampWebUrl: "https://www.denverpost.com/2020/01/30/boulder-misty-robotics-workers-ces-tech/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/01/30/boulder-misty-robotics-workers-ces-tech/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 66
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/01/Misty-II-robot.jpeg?w=1024&h=682"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-03-at-10.09.42-AM.png?w=1024"
         width: 1024
-        height: 682
-  - title: "Flippy, the robotic fry cook by Miso Robotics, gets makeover aimed at widespread restaurant industry adoption"
-    excerpt: "Powered by artificial intelligence, Flippy automatically adjusts its fry settings based on what products are in the frying basket. Under the new rail system, Flippy can work with several baskets at the same time. “Having a robot that can move along to different stations really opens up a world of possibilities,” Sinnet said. Flippy has ..."
-    publishedDateTime: 2020-01-28T11:39:00Z
-    webUrl: "https://www.nrn.com/news/flippy-robotic-fry-cook-miso-robotics-gets-makeover-aimed-widespread-restaurant-industry"
+        height: 655
+  - title: "Cognitive skills startup WizKlub raises INR 7 Cr in seed round"
+    excerpt: "The WizKlub SmartTech Program, a first-of-its-kind for children as young as 6 years, builds lifelong skills and confidence to create tech products by application of coding, robotics, smart devices and AI. The startup has 150+ centers in Bengaluru and has progressed 3000+ children through its programs. The company also offers HOTS and SmartTech ..."
+    publishedDateTime: 2020-01-28T06:43:00Z
+    webUrl: "https://indiaeducationdiary.in/cognitive-skills-startup-wizklub-raises-inr-7-cr-in-seed-round/"
     type: article
     provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 50
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/FlippyROAR_IMAGE.png"
-        width: 1425
-        height: 887
-  - title: "Cruise unveils next-generation, self-driving robot taxi"
-    excerpt: "While a couple of years ago many predicted that mass robo-car deployment would happen by 2020, most have pulled way back on that prediction. A fatal accident in 2018 in which a self-driving Uber struck and killed a pedestrian in Tempe, Ariz., drastically changed the public’s perception of the futuristic technology while underscoring its ..."
-    publishedDateTime: 2020-01-22T03:34:00Z
-    webUrl: "https://www.sfchronicle.com/business/article/Cruise-unveils-next-generation-self-driving-14993733.php"
-    ampWebUrl: "https://www.sfchronicle.com/business/amp/Cruise-unveils-next-generation-self-driving-14993733.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Cruise-unveils-next-generation-self-driving-14993733.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/10/11/73/18915015/7/375x250.jpg"
-        width: 375
-        height: 249
-  - title: "Flippy kitchen robot updated to have zero footprint"
-    excerpt: "Miso Robotics is redesigning its Flippy kitchen robot. The Pasadena, California-based startup has unveiled its Miso Robot on a Rail (ROAR) — a new approach to the robot that can grill burgers and fry up chicken tenders and tater tots."
-    publishedDateTime: 2020-01-28T10:50:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/news/2020/01/28/flippy-kitchen-robot-updated-to-have-zero.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: India Education Diary
+      domain: indiaeducationdiary.in
     quality: 19
 
 secured: "MluwZleQZr7hm/0+o8vpAc+ca8l0hoC6g5cTGa1y0IHoj0gRBUNSzUkjElgedJ2xOd+MWfcDEUd82++mDRg0K33XswFoijPHeMmtISPEjIYlbrvYoNKe/cDpibWz+g8GmqpPnValDMn8w2BX3j9Z3LCPlB2Ah39pEEyzAN0LCTcMaEk1qR2nK1byuBYbM0sYVLtRbgURdd3F1S22lqXvxaFrf7I8v/+BXeDh9HLWdOnHzAU45Iihexn0Hkws8deq726HFVVIxvnRPdZBJdP7AAmnANRhsp1XjGCDDE0T13EBRaZ8GXB5EBhGaDaSlnQX;O5jgmvii2VVdvG2sEgx4Cg=="

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailydot.com/layer8/school-districts-launch-of-facial-re
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -26,22 +26,22 @@ images:
     title: "School district’s launch of facial recognition program sparks outcry"
 
 related:
-  - title: "Lockport, N.Y., Schools Embrace Facial Recognition Software"
-    excerpt: "(TNS) — Lockport City School District announced Thursday that it has begun using its controversial facial and object recognition surveillance system. The announcement on the district website ..."
-    publishedDateTime: 2020-01-03T20:29:00Z
-    webUrl: "https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html"
-    ampWebUrl: "https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP"
+  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
+    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object ..."
+    publishedDateTime: 2020-01-09T20:49:00Z
+    webUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
+    ampWebUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
     type: article
     provider:
       name: Government Technology
       domain: govtech.com
     quality: 59
     images:
-      - url: "https://media2.govtech.com/images/massachusetts-capitol.jpg"
-        width: 770
-        height: 513
+      - url: "https://media2.govtech.com/images/shutterstock_1112561213.jpg"
+        width: 940
+        height: 627
 
-secured: "LtcBsDfPh+hakIkx+v5YPgW69Cp4u97aUrP3fo8ziFxC1IH+0Wwnxx6vaq9r7VCN8NtlZSv/U+2unJz4LU0eEhjvefWuAM43djvxMKYLn3Bzk2OY0GIU2Gw0n6Loh56xLCq5w2HVvWCVEllprTnW1JE9qem6BsBQOtO1Mh8isLkbWVQ2f+Vb+vjjg4PcLkt3SZAbUQXn9xHvTC0M3XQANSEYEw4Rjmc9jiTAo0R3RMWBcVy+TVlmWt2f7j9zTczd0Z4bEAaL2lYG8tH7yT+7Ubf7sP0W46V2VvTmHbfBgjXTXTbZz7oK/Qex6qUJPcMd;4NQn2cFvSONrPw+AqWcquA=="
+secured: "OYUJNAlgBKY95vZI8mHWiPEw8KNd/p/HFUmz0y7rTjmqodGylGohWRU5I3niKLBWcWd2a1IjHNfUa6fxhbRuD2277f+tYrZvHV1duFNma0AUNH0nFs3NzyfFOGtkUqrqbCsYB+3qPUFFPxSbYKaJsHkFAA3Zmb2sGypGmEIYYzOkgu/dm3Clf9SbuXpY6n8pyqWG5/m+kDyuOt7m+MOgLl8Xlb6/UmQLRCGKjurEHHf4MeZ91cLy9a2N4rhnMz3kGzmX6LIYho/6hNxfywupr6gkFfUsqNE1/YrvhVyg3HDFNNW1IH77JbGKtWIBl3H7;HPaNihBcA+EPp4cjlhWWEA=="
 ---
 

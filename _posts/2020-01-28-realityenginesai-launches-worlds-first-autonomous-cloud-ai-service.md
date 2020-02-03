@@ -53,6 +53,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
+  - title: "vScaler® launches its AI Reference Architecture"
+    excerpt: "high performance RDMA fabric from Mellanox®, the platform provides a significant decrease in GPU-GPU communication latency and completely offloads the CPU. The AI optimised Architecture includes vScaler Cloud Storage, which centralizes all I/O and places active files on the fastest tier (Flash/NVMe) but also leverages the cost benefits of an ..."
+    publishedDateTime: 2020-02-03T11:55:00Z
+    webUrl: "https://pressreleases.responsesource.com/news/99098/vscaler-launches-its-ai-reference-architecture/"
+    type: article
+    provider:
+      name: responsesource.com
+      domain: responsesource.com
+    quality: 19
   - title: "RealityEngines.AI comes out of stealth and launches the world's first completely autonomous AI service to address common enterprise use-cases"
     excerpt: "/PRNewswire/ -- RealityEngines.AI, a San Francisco-based AI and machine learning research startup, is coming out of stealth and launches the world's"
     publishedDateTime: 2020-01-28T16:47:00Z

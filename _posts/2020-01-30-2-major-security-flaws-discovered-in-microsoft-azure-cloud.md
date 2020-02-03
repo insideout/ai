@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techshout.com/security/2020/30/2-major-security-flaws-di
 cdnAmpWebUrl: "https://www-techshout-com.cdn.ampproject.org/c/s/www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "2 Major Security Flaws Discovered In Microsoft Azure Cloud"
 
 related:
+  - title: "Microsoft Azure cloud migration: 3 success stories"
+    excerpt: "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes and data type compatibility between legacy warehouse platforms and SQL Server, Thadani say"
+    publishedDateTime: 2020-02-03T11:03:00Z
+    webUrl: "https://www.itworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html"
+    ampWebUrl: "https://www.itworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
+    cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
+    type: article
+    provider:
+      name: ITworld
+      domain: itworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2017/11/cloudmigrationpath-100743295-large.jpg"
+        width: 1200
+        height: 771
   - title: "Two major security flaws detected in Microsoft Azure Cloud, reveals report"
     excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
     publishedDateTime: 2020-01-30T13:45:00Z

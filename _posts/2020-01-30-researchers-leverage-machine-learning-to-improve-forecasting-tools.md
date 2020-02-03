@@ -31,6 +31,15 @@ related:
       - url: "https://eandt.theiet.org/media/3017/dreamstime_l_22720244.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131552209930000000"
         width: 1200
         height: 450
+  - title: "DIII-D Researchers Use Machine Learning to Steer Fusion Plasmas Near Operational Limits"
+    excerpt: "San Diego, Feb. 03, 2020 (GLOBE NEWSWIRE) -- Researchers at the DIII-D National Fusion Facility achieved a scientific first this month when they used machine learning calculations to automatically prevent fusion plasma disruptions in real time,"
+    publishedDateTime: 2020-02-03T17:25:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978927/0/en/DIII-D-Researchers-Use-Machine-Learning-to-Steer-Fusion-Plasmas-Near-Operational-Limits.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 11
 
 secured: "bfvbh9F6vEET1THLPrNYWWbPdFIcLUcUw+5w+QAUk57DaMiToX1Ylt1/TgzBBvsnqMIkGP3Hacga+U31iPiObZtRQUk9XcHDZV5Osz944CdocLPfWk1LF87xNYsCnJvxMIPTEpCdzzxYz2Y6HNaDea0elYDtHkpnGvfQPG+wCzx87iJfkMhGgisuRo+dVGZz4LiYXAxEUCyY0fEB3nDlX7unHNeaqNs19IazfTlNIqCvHMULrySFhib/oUScYyWT4D5t+pcZ3wAIs4QSDU7B8fSrTZYQsdYv8z4IQZo11AW/cowH//8Ym0lma/wlVleWe7awuR6b5oY1REMSuZFcRIr9Fbe7Aww2ZgQAxyIm3iGBSl3+bjgNyEEL4hfnbPRKpFuStJUEWJFxdS2ESvldQ5mCugdkap6ePax7CPOywggd2Wl/ouwSBYOmvA9iyM4URu0vqGvV9+NTudbodWZDR66ymW9G+sGrD6h5YrPGueI=;3Xdsit89/cMGpV+CwUE/5g=="
 ---

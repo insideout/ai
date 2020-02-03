@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/steveculp/2020/01/28/the-evolving-shape
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveculp/2020/01/28/the-evolving-shape-of-risk-facing-financial-services-in-2020/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -58,6 +58,19 @@ related:
       - url: "https://s3.amazonaws.com/acbj-community-wpengine-prod/uploads/2020/01/GettyImages-691048293.jpg"
         width: 509
         height: 339
+  - title: "Coming soon: The promise of artificial intelligence in servicing"
+    excerpt: "When loans transfer to servicing, the smooth digital process is suddenly transformed into a rough, paper-heavy and confusing process. But AI is slowly starting to change that."
+    publishedDateTime: 2020-02-03T05:12:00Z
+    webUrl: "https://www.housingwire.com/articles/coming-soon-the-promise-of-artificial-intelligence-in-servicing/"
+    type: article
+    provider:
+      name: HousingWire
+      domain: housingwire.com
+    quality: 37
+    images:
+      - url: "https://www.housingwire.com/wp-content/uploads/2020/01/F1-header.png"
+        width: 1010
+        height: 599
   - title: "Avaloq shares insights on AI, robotics & automation, and its role in the future of financial services"
     excerpt: "According to new industry research by Avaloq, a Swiss FinTech, additional key developments include the increasing use of more ... But it is clear that even bigger changes are arriving, particularly with regards to AI, robotics and automation, which combined with design thinking methodology will enhance the overall customer experience."
     publishedDateTime: 2020-01-30T16:01:00Z
@@ -79,6 +92,15 @@ related:
     provider:
       name: Linux Today
       domain: linuxtoday.com
+    quality: 19
+  - title: "The Evolving Data Center, Part 2: AI in 2020"
+    excerpt: "Prediction #1: In 2020, we will see a proliferation of customized AI chips hitting the market. As a result, almost every vertical will begin to tap into the power of AI/ML. Billions of dollars have been spent over the past few years to develop AI chips ..."
+    publishedDateTime: 2020-02-03T18:31:00Z
+    webUrl: "https://www.networkworld.com/article/3518821/the-evolving-data-center-part-2-ai-in-2020.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
     quality: 19
   - title: "The Future of Financial Services: 3 Technologies Poised to Change Your Experience"
     excerpt: "But financial services companies today are already well on their way to changing this experience, and three technologies are key to this transformation: APIs, adaptive intelligence (AI)/machine learning, and blockchain. These key strategies involve leveraging large troughs of data so banks can become an integral part of the consumers’ journey ..."

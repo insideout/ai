@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/victoria-to-use-ai-to-detect-heart-attack
 ampWebUrl: "https://www.zdnet.com/google-amp/article/victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls/"
 type: article
-quality: 87
-heat: 97
+quality: 187
+heat: 197
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
       domain: heraldsun.com.au
     quality: 22
 
-secured: "aC9GfUFX+BCbxSCYUeupmVSECpuSY1ETfp5QJsJfVBCC91zeXnK4fTE7ysIa0exjvyAH9ZsbpMzZCXz9GKpIAdj+r/CiDDo1oDQJYdL60g8mh30kKFRLqJHVfFN0IhhSdXv7qYKVTtWgB3LX0GhsCdZpcvvIzdmtdgELHF2fC2fuhAbllDCEslkNlNCtOy4Iod2XAtG8go/BwmpDwM7SHNVsbXGoZ47svgDZn2/hqvMfuH/XzzGG2zwGlXOtt5cvVXyoKY67SaotznfOYHxr+z5uXD6omw/QkkDGUbBcsXSuc93qwQF4xVhm9wuRnJWd;m/MyQW57E3xMes8LlLejpQ=="
+secured: "f09NNVvSxRvxDPCnmLs2oQD8RcmN8VR4hLquFD2QAjv+hJmHHqIDuHtCaFIwi43DbNAG9JVoiXVGsY7Mi2yCLIyGL7rySv56clnRKIYtNbJdsAAkDcuS5aC5WEobVqymr+lPvRECtTg7CFGD44uR5PAY45hFEkLaVcBN0lOWu91/AsUd7fJsprKCoUCJS/D8gZAufr86yggSa+2LV3vOZKjsA15nOW8Yw7XqHZuAMNjGNXbDqhXNw3MGXCqFX7e3alLmw2yMo1dGUSPOgA8Pc7xIbAtly+N0KgjzKHrsMus813X8Ke6Cva7jUSAe3NqcR2FBGuGoWorGsqZMNqmah0AcuNVgLlUlj96YUrXba9LHefydzz5kFk1+3XrIVoRSmjnVm2LpOEIJtC3R8z3cd9HMLv5GQYX5IKKfCIgbILyqKT1QzAFooDbHwooXQeJjdrK7WjNgvvJiw5VEkLR/eid7pzaYauDgb2mL/s3P03/5e6t5nHqVsjCN70kHGWYZ;7URXy0C2/ffMw0vq+1H1Qg=="
 ---
 

@@ -35,17 +35,13 @@ related:
         height: 365
   - title: "AI can detect low-glucose levels via ECG without fingerprick test"
     excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-13T16:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php"
+    publishedDateTime: 2020-01-13T16:53:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/01/200113111156.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg"
-        width: 720
-        height: 302
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "UMm/dYy7KNk2iaRdlpyRvUNwtwDxqpasX3gY5Hqs9yLwRS3uciSaDl1RwU1U20B+kFb/iLy/n16mZVH84VqATTzw82qq38+rdLCEAx6xbz7+iuf3QHShjLPEI1sLOAvWkSdPtTihqAGB7t8BNihaV/+dk7kUgT/z15NjnqqOXc6fS2EhrPUrOHrDqeBNtT1jl3AyCU75SZoZZy19X8T0TF1IhTFM0OG6O+x1usUcQVid6PVjUIoLktF0drOM4vUFI8D7fDXWWVLySYcVi0N2glkguNSGkZAMOWDehp/0tyqdMKRzsv509nt8crOiO1mk51rqhyx6/wKuSTyh2SeQC7/buoYpDIuBiXQCdgHMqVUJEtoC86b4A08nQLDkJwiaxKM0iBtG6TJct94szumzSYkS6YmJpSm3LNICxSae41mx5Ypv62vV1hUnoRQQnqk3b7vrApFSwEiSS8DhbyTysw==;Ihq52X2RXrTS69xHCqkTFg=="
 ---

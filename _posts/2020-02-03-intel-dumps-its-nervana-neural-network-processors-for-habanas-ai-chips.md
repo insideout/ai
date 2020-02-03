@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T01:25:00Z
 webUrl: "https://siliconangle.com/2020/02/02/intel-dumps-nervana-neural-network-processors-habanas-ai-chips/"
 type: article
 quality: 71
-heat: 101
+heat: 114
 published: true
 
 provider:
@@ -25,6 +25,21 @@ images:
     title: "Intel dumps its Nervana neural network processors for Habana’s AI chips"
 
 related:
+  - title: "Intel drops AI products from Nervana, shifts focus to Habana"
+    excerpt: "Why it matters: The move comes amid continued competition from Nvidia and others and follows Intel's purchase in December of Habana Labs, another startup in the AI chip space. An Intel representative told Axios the company wants to focus on a single ..."
+    publishedDateTime: 2020-02-03T15:29:00Z
+    webUrl: "https://www.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html"
+    ampWebUrl: "https://amp.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html"
+    cdnAmpWebUrl: "https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 59
+    images:
+      - url: "https://images.axios.com/9bRgEba5i8Rs-Tcjytj9Iudko0s=/0x0:2954x1662/1920x1080/2020/02/03/1580742164538.jpg"
+        width: 1920
+        height: 1080
   - title: "Two startups enter, one leaves: Intel kills off much-delayed Nervana AI training chip, pushes on with Habana"
     excerpt: "The burglary charges have been dropped China's Winnti hackers (apparently): Forget the money, let's get political and start targeting Hong Kong students for protest info Intel has axed Nervana's in-development NNP-T AI training chip, code-named Spring Crest, to go full-steam ahead with Habana's technology. The decision is, no doubt, a blow for ..."
     publishedDateTime: 2020-01-31T23:32:00Z
@@ -40,19 +55,19 @@ related:
       - url: "https://regmedia.co.uk/2020/01/31/fire_money.jpg"
         width: 1000
         height: 759
-  - title: "Intel reportedly dropping Nervana in favour of Habana Labs for AI chips"
-    excerpt: "Intel has been looking to pin its flag in the AI market for years now, with efforts to create AI chips kicking off with the purchase of Nervana in 2016 and extending to a huge $2 billion acquisition of Israeli firm, Habana Labs. While Intel only just announced new Nervana Neural Network processors a few months ago, it looks like the company’s ..."
-    publishedDateTime: 2020-02-02T19:00:00Z
-    webUrl: "https://www.kitguru.net/components/cpu/matthew-wilson/intel-reportedly-dropping-nervana-in-favour-of-habana-labs-for-ai-chips/"
+  - title: "Intel kills off Nervana's NNP-T chip in favor of Habana processors"
+    excerpt: "The move comes after Intel spent $2 billion on acquiring Habana Labs, a start-up that makes more powerful chips. All development has ceased on the NNP-T AI training chip, while the NNP-I inference chip will be delivered to previously committed customers ..."
+    publishedDateTime: 2020-02-03T11:43:00Z
+    webUrl: "https://www.datacenterdynamics.com/news/intel-kills-nervanas-nnp-t-chip-favor-habana-processors/"
     type: article
     provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 54
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
     images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/02/Habana-732x330.jpg"
-        width: 732
-        height: 330
+      - url: "https://media.datacenterdynamics.com/media/images/IntelLog.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
   - title: "Intel Axes Nervana AI Chips In Favor Of Habana Labs"
     excerpt: "faster to our customers,' Intel says of its decision to move forward with Habana Labs' AI chips in place of Nervana. By Dylan Martin January 31, 2020, 05:11 PM EST Intel said it is ending work on its Nervana neural network processors in favor of the artificial intelligence chips it gained with its recent $2 billion acquisition of Habana Labs."
     publishedDateTime: 2020-01-31T22:25:00Z
@@ -63,6 +78,6 @@ related:
       domain: crn.com
     quality: 34
 
-secured: "hjBnckwEsqjxkAha72Klztplz0Vtc1yhSmFSUg4FK+HbdLmJWEo2n5WTEq8/OAe4cjDwF9KJLyFQfbl4FnS7nOitDHmjCr+V507ts1gwFDsTyijeujZgA/cd/u+slSF5n8QomRpMsrPSdXTS/TcVOiMpDTox5efZ85KzkVImb4/6qN0B8kMtW82SxCr/hQ7Czyo5T1fQuJH9Vf+gbCIXoLOnK72GEFLHP3WXqeCwoQt91rwW2cDPipnX6lpXzW7n9bicplQldtIYuBROvuRqFW26l5MlNeESA1iI2+zT2ls9YoUjO1rKwjxz0MqfQRAainWjHGAJzt6nxLUw5SLXxhWUN1saERYWZ9wBm/d9TMFi2g4AhGBBGnCd8xbpPMCcokg3yooSCIvgTkHeh81wSxxRo8ab6+PFOIFxO4pJtta747yv5ABCl0e3s0VSCrmy31t/Mnps12C7dtxOYt7+rNEd/W2pg/nnGUzC/XRHlVk=;HQTE9ErCFOEqqqc0pRO6Sw=="
+secured: "2/OidJjuEetXBFitys+uN5GVaq+miuExBuKq6y9EI+uBhgo/aTe3cVbliBHW9D1EZ3Hice7PhaKjfOdlGCQpJuMYhpGwMWd7Yuk8NzB5IsKoAdXk530ggcdVSl+x79IYd+QPIu+rNSt62hk7gC17y6J0AJL6+S4To8d8c7P/tDNnmmJTJPLv7qxQY4qTwwYSUuGM8YvASqtSjy8Yp0pwIrcZUDL2M6pr2/buD+SDC27W/XTWfqLP82+uHBhyK42Gb4SKqs9s//AkpxaOcVcodEpFi2YAwK7R8bqNulBUb9Pw3c1QoCBBbITE+B8SXMKXit9drMziKDEaMVLW939jp1qwuYxAVPun9+fAxf1Ge0qdLnZskheteI7uuWIuF1HYCH3EK+kRCP7MBeY7xPb/gav8xo3KwRxGTwuTRPWO8UgOY5NA+DbpAYtJ+Vs5Ma6BnvRPmUHfIyvVBlkc0mSl816uzajDwqoYnHuNVf8VJpU=;oHMYT/dWRifZ5ZY+7xrlbQ=="
 ---
 

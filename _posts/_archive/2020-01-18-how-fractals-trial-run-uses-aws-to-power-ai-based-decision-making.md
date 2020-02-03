@@ -1,8 +1,8 @@
 ---
 category: news
 title: "How Fractal’s Trial Run uses AWS to power AI-based decision-making"
-excerpt: "Akhil Behl, VP, Artificial Intelligence and Machine Learning at Fractal and Shivendu Mishra ... the need of the hour was a partner who could ensure scalability and flexibility at the same time. When it comes to cloud service, AWS was on the top of their mind due to several reasons, including the fact that more than 90 percent of Fortune ..."
-publishedDateTime: 2020-01-18T03:52:00Z
+excerpt: "Akhil Behl, VP, Artificial Intelligence and Machine Learning at ... When it comes to cloud service, AWS was on the top of their mind due to several reasons, including the fact that more than ..."
+publishedDateTime: 2020-01-18T03:46:00Z
 webUrl: "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making"
 ampWebUrl: "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp"
@@ -25,6 +25,6 @@ images:
     height: 400
     title: "How Fractal’s Trial Run uses AWS to power AI-based decision-making"
 
-secured: "mhM6rcOwwj7WXhcMXuwoe7iDWJS16f/7ixjk+Os9428WNLXZsRN9Gl8+H3UwFKQbIjuwsMpANhKDDvqkClN3EBtSHEpaMgrcYRMv3qiHPCxrLtaGfLojwEMk692jMF8dwuKpzkj90qM5e6fBGfNMso888cAfvOduhzfNm3Oxx/5/0KTf4O3lnicigs5Hq/hYSZuxEc8sWAipdroejTFGh7CTGmgpMOgb8XJU8WWYNJ+/F+kVYPNdvZzgC/IJJiQTPVWAkqaOKeDHi6jAKM9yLSOeCB33Wj2udL5TPT3l0R1OSqNR10hVb72YrcA9U1+8;6+lgN6mkkkMYRYurmYKUZw=="
+secured: "jmN4gurZo1q72YWBmKu2jVzBzCPuF7OCqjl8NmSDWeCWDv2NzhwNdW44em/+Vf0X1o44X2DBnQwEh+FUlzfWxezaB/lgKVKQbCVpGAwfEP0o/txa7Pk/wAPpeXDQBkI0v4F8oZJvkU7geDIA+vr7ubUj5sZZUpdkGwS0fX0/6QvionmZsmbybVsNUejwEX98ziMRIA4i21feWYx7EUDaD3VQUcXwcfU032Re7nnWLXQgA0jk8tTXgYuUDre3tVTMDfVajx2OHaULcKAgYS/fPj5krWx1GO+H5sw8zlDRibq/UrDxX1PLYf4p4HlF1Bat;02hqYKTWLOu/Zk1/fL7Hsw=="
 ---
 

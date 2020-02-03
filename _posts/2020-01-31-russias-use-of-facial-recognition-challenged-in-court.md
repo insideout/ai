@@ -7,7 +7,7 @@ webUrl: "https://www.bbc.com/news/technology-51324841"
 ampWebUrl: "https://www.bbc.com/news/amp/technology-51324841"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51324841"
 type: article
-quality: 89
+quality: 189
 heat: -1
 published: false
 
@@ -1390,6 +1390,6 @@ related:
       domain: dailybruin.com
     quality: 10
 
-secured: "xrMDA1kgHPUTZV/Vs+ElGYE6PVmY0TQrhUbcuI8OSmzRCYDYfnZsL/hnx00zleYdR9yBbOHexdnMPC+AvbRy1Yx0xWi9Fa4e1zZ6OmCr8lNM50TXKaNMlbEE9Uin6IlMuVNQnglofR0wgeZ+A5BGAvwEbl5B0DuoBjrGbAP4OCMxiyO1tWVbWubyL19ucvz3fInHbaAN+0ihOvtN7fLRtp9KoldWeYp//bvOBArqnro5KjgvW1RVcFqkyE7VojS1A72nqh7pXaM9n8PgBY9rcRDp8/oAbav0O+UdKa0LHArnC9vJrLj//nD+rOfE1toBSgK0IjmiNqwS0CMwEWRloqz5FOO5d8QhVzXxKzB1WOcxifGINHWa1l68XXW0iOwLCOlnSaroQ2nkINH0vsk1TaVGnnUri85xp+97T72Kat80BJJS325Jpq/iow2NHgMVb5cswdOo5ppGaWXmdWHMKuzu6a2xkR+DG+MRMLkBseg=;0mDGhxKMySPrZ5DwCab4yw=="
+secured: "W1uW+REp5vJQANd4itnz1wDyWgvUJVOShqx8lwXOL5HLX0qHEwdoHkR1q86TZH5ux68k1nBxJ71JjGZ09yRVzTXoma7Gfv2ApJQvjpvegIYrky7citRrsCD/CA/OwPln35rVdowvuY8gYW67NoQOtXGral6EJCrP4ksWGcukpkyNhfmUNs4c0ofrrmo6NeCshcymdqVXN9WgPYnvBhE8a6Pp/DdRWUw64DBtVoXVLxcq7+nEBHHRylrga8iqbW8SNwPvDsZmiIFTgPxVFBIh7UqchvEIHCAUn8GBqRQDsDNjVqo3kjbrsNipnNis1jhDhTHU21Jt0KAm5H2mDolItIuZLAthvig3t1wWELkyL7B5VGR3/8HGAA2sayCpiKeZDgkoHCfCG0IfVaafTK459HJERKGf23Nfh8EhhpD0HKn3DV8rdiLoanhAd09Wq8mOIvuZNJ0IZvIVZmOL9V0wZvS155QOCn/HpIyjUFRqpEJrlWtx32UR39nMv/uuTKrz;tyevmt69LjmAy9WeGtouiA=="
 ---
 

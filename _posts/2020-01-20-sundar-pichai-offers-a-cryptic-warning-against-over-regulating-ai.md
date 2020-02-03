@@ -175,6 +175,17 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107"
         width: 863
         height: 545
+  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
   - title: "Sundar Pichai says AI should be regulated, asks governments to step up"
     excerpt: "Alphabet and Google CEO Sundar Pichai wrote an op-ed in the Financial Times today outlining the need for regulating AI. Pichai highlighted that deepfakes and “repressive uses of facial ..."
     publishedDateTime: 2020-01-20T09:04:00Z

@@ -7,9 +7,9 @@ webUrl: "https://futurism.com/the-byte/hyper-intelligent-ai-hive-mind-claims-pre
 ampWebUrl: "https://futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 157
+heat: 157
+published: true
 
 provider:
   name: Futurism
@@ -24,6 +24,6 @@ images:
     height: 315
     title: "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner"
 
-secured: "CDUqso/xOvxoo5du+KSsqWpXvnWK6U44z2n+RzuJxaQaiaE21C+9/JKaQ+AvclGRpwT7KdQIdS3PoFfE1Zi8XAc3pc+gwAWPIhKGgEuuUzjOg+pKxDqjre32Mi+33IG63U/8ge2UEM1tqcilCLQCRTVssIOie44L6haO2mppxQyS54pHQH8OChvB6FjTwFJ7AJxhFCIQD3saAXKrlh6/w59WIr4PymXEccjkcf4V8HiZ3SUp3KvvWg8QCvhfY30SFG4nBnT/t/hcDF4HBFiIF/HLoYkNXvYg3y+TWG6Tm2jB6KYbW1ARENni+YXhrD/C;KGo378WD1Q+hh4++dbIseg=="
+secured: "GWQjUdORPr9T1+1c8yqy4hFw1Xc29TM08pjnYeJrh+LdDn5B7fQb467iN+kkwaV+51v8lkpM2pXi/4b7+mPEi1afxAWQR+FpfYPwvsUXMH5fJgQFGVW4ePmKKSrXz5nyxBzXjomTozaa9UNVZ7XDFPgM23VTlYJRV4/B9256paRCzZHqR1SuDmKolx/Y2q0jiREUpuVQoxvazSRwxAfgzTF4WpgvWJ7fEiRHM1CC3zFuQ7bHc1fZ10a4Vv1249TJTNuv5MKZhq9divonjA+8vUQKLwCDk/L3JyjWuTvyTETxIB3dsZHLsWnHtmSqxxU4U82MRCwWS84JU4F77+cAv1rzifWzRLGHtkvtFXIkmds=;WQtf78gw7pzak05OzMWQUA=="
 ---
 

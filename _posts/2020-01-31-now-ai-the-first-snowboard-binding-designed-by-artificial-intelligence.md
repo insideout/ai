@@ -38,6 +38,21 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/Spark/facebook/artificial-intelligence_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg"
         width: 1960
         height: 1225
+  - title: "AI-Formulated Medicine to Be Tested on Humans for the First Time"
+    excerpt: "A drug designed entirely by artificial intelligence is about to enter clinical human trials for the first time. The drug, which is intended to treat obsessive-compulsive disorder, was discovered using AI systems from Oxford-based biotech company Exscientia. While it would usually take around four and a half years to get a drug to this stage of ..."
+    publishedDateTime: 2020-02-03T16:56:00Z
+    webUrl: "https://www.entrepreneur.com/article/345841"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/345841"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345841"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200203164812-opioid.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
   - title: "Medicine created by artificial intelligence to treat obesessive-compulsive disorder first time"
     excerpt: "It has been created by a British start-up called Exscientia and Japanese pharmaceutical firm called Sumitomo Dainippon Pharma. Artificial intelligence has invented a drug molecule that will be used to treat patients who have obsessive-compulsive disorder (OCD) for the first time. It has been created by a British start-up called Exscientia and ..."
     publishedDateTime: 2020-01-31T08:41:00Z

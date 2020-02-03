@@ -2,20 +2,26 @@
 category: news
 title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
 excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers customized reports on specific category. Artificial Intelligence uses various computer functions ..."
-publishedDateTime: 2020-01-22T11:05:00Z
-webUrl: "https://www.arnnet.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
+publishedDateTime: 2020-01-22T11:06:00Z
+webUrl: "https://www.techworld.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Australian Techworld
+  domain: techworld.com.au
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+    width: 300
+    height: 300
+    title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
@@ -94,6 +100,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "ewuy6A/QHcSDvLu9OuFVe4GHv68IIyuqoLvKuNz+Vh2ZjYVWSoJGCXTXkqP8mL2uAsseuC3iiGKZZZP7Vq6xbGH03wQL6msuFDzOgHxNrJo9CKEQ6s+4pB0GW40SnmfTqUX4MLrf97N9urwVRjjBwgg3dqY3LNgnZHERDF3m9wmYFdyxHFr/lH57qor2+9N30r5hjo7XcitwiFLLFd82caQ/E7xeUlBk8dkvLVcE3ouFIH0LNa/Nf6yaksZUYurIXdSjW8OHucNIkf38bWuqX4r/6e7VMXarZYzD7capEsEDjffozbBsV4DB61Ac+X1C;nOH4HGPlYPt5mM/Bk7n49g=="
+secured: "LVn3QAQrWN7ND5De1KqmUoWWXxu9VtvMCkhSYoFKpF2XNsRyat06IYBrUfHHPYxPSvJM2ao7H6BRJ7OLPdGRe9SG8AAhOqhLVaLtZo7VmvOdpe6GhPJwGrumlVV93ds9JYI9UAt8oPdWIIJsRIzeGe7kSDbh4g+fgSuxw5zyEw1c9fJuFdbwpRXTZiQKxjHKWHV2w86IoAdke4E5PugHPWb+QQ3KbPq24Y1WxREGE6IEznfse2KMrs0TgxR+mqQIJsrR85mkR8G+sz3nSbTw3SIvSq8rEIZ5ZhdOYVf5GJoXtiJFOOd1CMKDJ4X0fTF1;BEWlIpnWv9seSslF+hgPDw=="
 ---
 

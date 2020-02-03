@@ -61,6 +61,19 @@ related:
       - url: "https://s3.amazonaws.com/acbj-community-wpengine-prod/uploads/2020/01/GettyImages-691048293.jpg"
         width: 509
         height: 339
+  - title: "Coming soon: The promise of artificial intelligence in servicing"
+    excerpt: "When loans transfer to servicing, the smooth digital process is suddenly transformed into a rough, paper-heavy and confusing process. But AI is slowly starting to change that."
+    publishedDateTime: 2020-02-03T05:12:00Z
+    webUrl: "https://www.housingwire.com/articles/coming-soon-the-promise-of-artificial-intelligence-in-servicing/"
+    type: article
+    provider:
+      name: HousingWire
+      domain: housingwire.com
+    quality: 37
+    images:
+      - url: "https://www.housingwire.com/wp-content/uploads/2020/01/F1-header.png"
+        width: 1010
+        height: 599
   - title: "Avaloq shares insights on AI, robotics & automation, and its role in the future of financial services"
     excerpt: "According to new industry research by Avaloq, a Swiss FinTech, additional key developments include the increasing use of more ... But it is clear that even bigger changes are arriving, particularly with regards to AI, robotics and automation, which combined with design thinking methodology will enhance the overall customer experience."
     publishedDateTime: 2020-01-30T16:01:00Z
@@ -82,6 +95,15 @@ related:
     provider:
       name: Linux Today
       domain: linuxtoday.com
+    quality: 19
+  - title: "The Evolving Data Center, Part 2: AI in 2020"
+    excerpt: "Prediction #1: In 2020, we will see a proliferation of customized AI chips hitting the market. As a result, almost every vertical will begin to tap into the power of AI/ML. Billions of dollars have been spent over the past few years to develop AI chips ..."
+    publishedDateTime: 2020-02-03T18:31:00Z
+    webUrl: "https://www.networkworld.com/article/3518821/the-evolving-data-center-part-2-ai-in-2020.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
     quality: 19
 
 secured: "XHcxO5XcgqSzH8n0VT8RkniiN2uC9zGlLBougosW+1eW7U1xsjk8tg/yYC2L6vMvC3mtli7R6X1x131XpailQBrBVbm/wPxMn5cbe7I49d8ERzzlQVPfSdM2592XND40dLkzxaPfUr4AOLaXI5fjZzg0h+jFfYOv6QL/tG61MjhN4tD+16gmaP0hfk2zNdCngCdvfaakcGXc143IDjaHU+iMd8JtrXP3ecp4RJZyABtOU5mze+tQQOs1ixstnM0tohnl70ZEz/kKDP835ElI3YIguvb2RNWKPIbog2q27z2/cJ1uOWqGTfB63HOZp2RZIQCxf+ZtkOqHqt7gl3oDW/oHiMleimjg8xHxLYcoeVF5NUzDfUCZsyeUxQPFlK9kixfT8wxiBEVE3FFqtVTC+9kO28eEmjA8dmuDFOgaoBD/2VXCPk0GC7yex+WqZvGcyrMMpJvKEHomRDsxAbw5Nw59SSAs30e1etCLBFm+4CU=;2iBQ6p4sFSE9wgba+dwtaw=="

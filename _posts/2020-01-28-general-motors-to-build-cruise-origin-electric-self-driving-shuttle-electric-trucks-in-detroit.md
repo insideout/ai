@@ -135,6 +135,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x544/https://specials-images.forbesimg.com/imageserve/5e27bb58a854780006af293b/960x0.jpg?fit=scale"
         width: 711
         height: 544
+  - title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
+    excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
+    publishedDateTime: 2020-01-22T02:22:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/01/21/business/21reuters-autos-autonomous-cruise.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 48
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
   - title: "Spoiler Alert: Three Key Ways That The New And Electrifying GM-Backed Cruise Self-Driving Car Minivan Might Have Some Heartburn"
     excerpt: "At a grand spectacle in San Francisco last night, the GM-backed Cruise that aims to bring forth autonomous vehicles with true self-driving capabilities had an unveiling of their newest creation (said to have been devised via engineers from GM,"
     publishedDateTime: 2020-01-22T15:51:00Z

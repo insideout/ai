@@ -28,17 +28,13 @@ images:
 related:
   - title: "AI can detect low-glucose levels via ECG without fingerprick test"
     excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-13T16:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php"
+    publishedDateTime: 2020-01-13T16:53:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/01/200113111156.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg"
-        width: 720
-        height: 302
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "NO Fingerprick: AI can detect low-glucose levels via ECG beats"
     excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
     publishedDateTime: 2020-01-21T08:28:00Z
@@ -49,6 +45,6 @@ related:
       domain: medicaldialogues.in
     quality: 19
 
-secured: "gNK983zIiPdLEQVaJVWqK33wbb4Of92gCNd4KfWZuMEJiPmWgJJPZvf1rqR+G4ExTyk0sI5eAF+BUxRIxsunclrheOthyzK/7bTZgGwNb74YNv0J55YaqhBYRJcHPj1iORRAhA1UUmRFFu1oySo96JCtQosd0D8aId9f1Ac9fTLB4/vfN9sCD3W+tQ+JyFTtLwjukFOYymrA2q2QnG2bGYLTg2L2NCH9kX7LoReJS0mSNU/EOsO9AEjrAoUW93/TI82LNcK2VVe7VeKFFygVHOEI+W2+MQQ9NUYQ+x/QWmtRaGb5QjwMI98OQN1znR1v;Kw61VKK6g980JAkb/y9tyQ=="
+secured: "hK0RKnELkXoglR2TAeizKsU+XeOkAz3HzPSuxLHDt0UbsOeDeFabynVNkQJgD9vHv7QePyUqbJZCitGfBc8m90IqneoKzcmg53ALK/DNRlHYhlB+nE5QBHmH9XQ19v7991GeeTG8qDb/E/P+XC/T+fnCYBa5g62NBJ4IPjr+Lo+kmLcTIOqhiHj08Cg/g8iAaZrKIbuFFJnbB6ad15NrpL6Sxre/HDoQfKyfboD+0Xovtx+EN4EsIgOlxil61FrV4T3snVBM2bwdLDzw5pC6m1QrHZ3NoA8sUJxC1BDGotnf7/GzlFG1nmLToiYZDLmk;2aFblEztnJlb8nV1enkldQ=="
 ---
 

@@ -33,6 +33,15 @@ related:
       name: WeatherNation TV
       domain: weathernationtv.com
     quality: 19
+  - title: "DIII-D Researchers Use Machine Learning to Steer Fusion Plasmas Near Operational Limits"
+    excerpt: "San Diego, Feb. 03, 2020 (GLOBE NEWSWIRE) -- Researchers at the DIII-D National Fusion Facility achieved a scientific first this month when they used machine learning calculations to automatically prevent fusion plasma disruptions in real time,"
+    publishedDateTime: 2020-02-03T17:25:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978927/0/en/DIII-D-Researchers-Use-Machine-Learning-to-Steer-Fusion-Plasmas-Near-Operational-Limits.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 11
 
 secured: "40o1y4AKiWDL3mcUSyb4bKZo1FfpbBZZ9askSYuS9c8l0Pa1ea4ufV20KVrvJUrI0uD60goFiuORCNT+RTJ4E8mUdjY/rkTqJooD5+s4uqd8fH/pb3dkpSJgHYLLY3GzkUgSJPYqWm4tIuNPqSXWt52rGcqMN6D4cUMfQScbJO84bJ8TapMLBeguuCrdwCpoRIUPDpXVtEBe1IHfx84tUJJI/9zJbKj2zeukADIVaSthrINnOcJwqtc1mZe24X8c9HC7KJYbLNydX7mnVJilEcblKiLafz8vHrTFk8s0itm78VLS4lG1lM8l4+AD3NNA;ZdRZfJXxrbsm7OZ3mU/dXQ=="
 ---

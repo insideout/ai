@@ -82,6 +82,19 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/tyre-1714669_1920_62.jpg"
         width: 1920
         height: 1078
+  - title: "Waymo to begin self-driving deliveries for UPS in Arizona"
+    excerpt: "Waymo, the self-driving wing of Google, and package delivery giant UPS are partnering in a pilot project to use Waymo’s self-driving Chrysler Pacifica minivans to shuttle packages from UPS Store locations to local UPS sorting facilities in the metro area of Phoenix, Arizona. The goal is to explore how autonomous vehicles can improve the ..."
+    publishedDateTime: 2020-02-03T13:31:00Z
+    webUrl: "https://electronics360.globalspec.com/article/14634/waymo-to-begin-self-driving-deliveries-for-ups-in-arizona"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/634/14634/WaymoUPSPartnership_Still.jpg"
+        width: 752
+        height: 423
   - title: "UPS orders 10,000 electric delivery trucks, plans test of self-driving vans"
     excerpt: "The technology allows the company to test later pickups at UPS stores. The move comes after Waymo, the self-driving unit of Google parent Alphabet, in 2018 launched a pilot program in Atlanta to use a self-driving truck for deliveries to Google’s data center, with drivers in the cabs to monitor systems and take control if needed. UPS has been ..."
     publishedDateTime: 2020-01-30T18:45:00Z

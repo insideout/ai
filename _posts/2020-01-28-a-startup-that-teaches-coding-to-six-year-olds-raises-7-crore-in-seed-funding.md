@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.in/business/startups/news/wizklub-a-star
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/amp_articleshow/73687943.cms"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       - url: "https://assets.vccircle.com/uploads/2018/09/Seedfunding.jpg"
         width: 810
         height: 508
-  - title: "Cognitive skills startup WizKlub raises INR 7 Cr in seed round"
-    excerpt: "The WizKlub SmartTech Program, a first-of-its-kind for children as young as 6 years, builds lifelong skills and confidence to create tech products by application of coding, robotics, smart devices and AI. The startup has 150+ centers in Bengaluru and has progressed 3000+ children through its programs. The company also offers HOTS and SmartTech ..."
-    publishedDateTime: 2020-01-28T06:43:00Z
-    webUrl: "https://indiaeducationdiary.in/cognitive-skills-startup-wizklub-raises-inr-7-cr-in-seed-round/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 19
   - title: "Ibibo founder’s fintech startup INDwealth pulls in Series C funding"
     excerpt: "The company operates a financial advisory platform that uses AI and machine learning to allow users to manage their investments, liabilities, future cash flows and taxation. VCCircle has reached out to INDwealth on the details of the investment and will update this report accordingly. The Series C round comes after the fintech startup secured $ ..."
     publishedDateTime: 2020-01-27T07:44:00Z

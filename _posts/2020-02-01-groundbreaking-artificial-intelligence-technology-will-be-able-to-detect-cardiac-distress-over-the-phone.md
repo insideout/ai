@@ -30,7 +30,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 187
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2013/11/14/c13adafe-5fde-41cb-99d0-859c455db5d5/Melbourne_credit_Kevin_Poh.jpg"
         width: 2048

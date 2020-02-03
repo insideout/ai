@@ -62,6 +62,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
+  - title: "vScaler® launches its AI Reference Architecture"
+    excerpt: "high performance RDMA fabric from Mellanox®, the platform provides a significant decrease in GPU-GPU communication latency and completely offloads the CPU. The AI optimised Architecture includes vScaler Cloud Storage, which centralizes all I/O and places active files on the fastest tier (Flash/NVMe) but also leverages the cost benefits of an ..."
+    publishedDateTime: 2020-02-03T11:55:00Z
+    webUrl: "https://pressreleases.responsesource.com/news/99098/vscaler-launches-its-ai-reference-architecture/"
+    type: article
+    provider:
+      name: responsesource.com
+      domain: responsesource.com
+    quality: 19
 
 secured: "n8/LYULmPgbb6JW6CtCJ0YxCURWuoONeA9qdL+HXTCnNLsQoxdQSLyXHBrgpbp3VsE+F2obBirhOunnhrxD7T4MMv45DYNQ2mycxFu0KWCmcTOK9/byq2cHWtLX21gkFYFLSbxrxupR7Ch/GiEVwQWstrr6TjOzqUpHzqG/pR/I4bLmhBL35tiGwE5AytPtBqZlLu1qIMeChMHX2A3bxSy3nULqbzxlSayf32p37JW3qY0jKLW7BB2qi9h3v+Vd1eyKsRgR86QHVAaKexQpJH/t4NA6iucR7JazWmJeaZeitEXwQ69IDH6epYqNiFMSl;l6Wx8x5iQsu+2Oe0CiIDKw=="
 ---

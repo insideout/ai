@@ -26,64 +26,32 @@ images:
     title: "Qualcomm experiments with self-driving cars"
 
 related:
-  - title: "Qualcomm’s self-driving car made me never want to touch a steering wheel again"
-    excerpt: "A couple of days earlier at the giant Consumer Electronics Show, Qualcomm announced a new platform for self-driving cars called Snapdragon Ride — and to showcase its powers, Qualcomm gave me a ..."
-    publishedDateTime: 2020-01-15T11:17:00Z
-    webUrl: "https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp"
+  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious"
+    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps."
+    publishedDateTime: 2020-01-25T14:44:00Z
+    webUrl: "https://www.businessinsider.com/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 85
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
     images:
-      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020-2-1200x630-c-ar1.91.jpg"
+      - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
         width: 1200
-        height: 628
-  - title: "Riding in a self-driving car is the best way to end CES 2020"
-    excerpt: "That term \"self-driving\" is used way too freely. No matter what your best friend or some guy on Twitter or a dancing CEO tells you, there are no self-driving cars for sale today. We have advanced ..."
-    publishedDateTime: 2020-01-10T21:51:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/"
+        height: 600
+  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious (INTC)"
+    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps. Mobileye CEO Amnon Shashua told Business Insider that autonomous vehicles (AVs) can't be too cautious. If AVs take too long to get to their destinations, people won't want to ride in them, Shashua said. To increase ..."
+    publishedDateTime: 2020-01-25T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1-1028844526"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
     images:
-      - url: "https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg"
-        width: 1200
-        height: 630
-  - title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
-    excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
-    publishedDateTime: 2020-01-22T02:22:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/01/21/business/21reuters-autos-autonomous-cruise.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 48
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-  - title: "I Took a Test Ride in Qualcomm’s Experimental Self-Driving Car on a Busy Freeway"
-    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test \"ride\" in their experimental vehicle! Qualcomm is a San Diego based company best known for its smartphone chips. Now, they want want to be the brains behind self driving cars, too. Recently I took a ride in their experimental prototype car ..."
-    publishedDateTime: 2020-01-20T13:30:00Z
-    webUrl: "https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/"
-    ampWebUrl: "https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 39
-    images:
-      - url: "https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 900
+      - url: "https://images.markets.businessinsider.com/image/5e2b293624306a2d955068f4-2333/mobileye-2020-ces-shashua-5.jpg"
+        width: 1024
+        height: 768
   - title: "VW: Fully self-driving cars may never happen"
     excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
     publishedDateTime: 2020-01-20T00:04:00Z

@@ -20,9 +20,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/30/TELEMMGLPICT000223034118_trans_NvBQzQNjv4BqVxrhgN-br4lNnNPM1CYbw4_65aqurZx-epBgrXjkhMI.jpeg"
-    width: 778
-    height: 486
+  - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/03/wallpaper-panels_trans_NvBQzQNjv4BqEo7ukXPj3dSVEb29e9SgADGlvRPkLrU2fMgxYfCf0eU.PNG"
+    width: 779
+    height: 487
     title: "The AI that allows self-driving cars to ‘see’ around corners"
 
 related:
@@ -42,6 +42,6 @@ related:
         width: 756
         height: 567
 
-secured: "kKg5GG/V0v6c1J4T0z54Jk9uvCxdiPdibt9PLVGwgZUTu7HE+PCL/wMTbBifekxnARO0jaWzJi/hZNrMVZItCeK7Tkqdu2p4AaaHxQDxukoEDto26qCJxpOKFOPUhSku8Ptgh+hBib0h/9DyvFY8GroVj21hKUrs3aDcpfVxSsLhjj7nws+jdmnBV1yK3/zZ92f2AyPFwdfkmWbFFck9bFLk3zorUtcQ7TQiVNMRYLM3hs10jOcvtRXHpEtjCEokcRqVT+NBe289WpMTvG9TF1cIzgvUX8R68I4jZ1tIw9FGnPwJ1ifMd6wEJ3PI+J50;d6X7Ta3qD0DLu9kgXc2YRQ=="
+secured: "99h8BpKFskhns5DoHS8yIJFYx+JGj658Mk8GHKJfraT8Rdd6eKLFu+hfwI0eWVGiKUq8vkiFl0RfIqeglAuwi6Kc1m6JrYcRT9JqWZptYYgdfx7EKfks2+8sI5blONxTPpC8HyCEGs0e+SKsrBJtDocVzNkY/+Wqpg3ERY9hANDPIv80q4iJyc9R3W/WOvwu09dLyVg0sBq82G/U8nqUUEQ2VxQ/IUyxhTyH/NLvqNwbSnmZJX7jicVaFmIe50mmYpbV6sqpVXCKJVltz3q5rZmjkOsunsVTdGUDsEnO7skFdqhTZrSYuZZ0MrihV+r3;34XIG88P3to6T2vhw8gSKA=="
 ---
 

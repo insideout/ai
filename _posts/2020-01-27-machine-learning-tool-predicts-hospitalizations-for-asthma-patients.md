@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-27T19:26:00Z
 webUrl: "https://healthitanalytics.com/news/machine-learning-tool-predicts-hospitalizations-for-asthma-patients"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -16,23 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-related:
-  - title: "Chinese hospitals start to use AI-powered robots to treat coronavirus patients"
-    excerpt: "A Chinese hospital has started to use two robots powered by artificial intelligence and capable of disinfecting themselves to help treat coronavirus patients. The pair of droids began to deliver medicine and food to sufferers as well as collecting bed sheets and medical rubbish yesterday in the province of Guangdong, said the local health ..."
-    publishedDateTime: 2020-01-30T18:29:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7948181/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-7948181/amp/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7948181/amp/Chinese-hospitals-start-use-AI-powered-robots-treat-coronavirus-patients.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 70
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/01/30/17/24093280-0-image-a-92_1580406667591.jpg"
-        width: 636
-        height: 382
 
 secured: "OS42oQE3jL9Ck/wPIBrCOD7Hi5NdGxffavshz2wwujcJW1dRrof0aAeFp96YajdxigQzFZv8CRedF5cb2g4Jj+CCSG0d8o5Te74E9XtVqJC1nM/24MEk02nbskRVatMlf0UiGDfnLOioG6LG18IOQjUMXPPefcWh0wog01jptv+T6UOnx2ZAk90DbXsSsd/qK+qFDq2EWkj/sX1AxD0E0toS0B+VSZWGmAoBzBntyu0hOcuafubC8iYKJLMApuHxycFd195iwX/UgfVhesjbzH/eoz80huWzooGhEWatdywHfRROcQN/BEozTNWml0q1N/HR7uq2io4bDM8i35+78YTprWYH4yOiNZtDSuALQcCuEr06I4YWblikB9lJeqDy276Pc8WAlLH2Hl5LPRXX8gEVCtqIP1E9BiEmwe65xbVZlcMLX1NFACMiBPzCgkFXjWWVUb2exAGJ59W5t/1wR45HnTar4FqMEeYy/uuyGp0=;AUdjDTqoBSveN4fxujZpMQ=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/83827-first-drug-developed-using-m
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html"
 type: article
 quality: 89
-heat: 99
+heat: 101
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         width: 400
         height: 300
 
-secured: "MMXz4JXy4D2y5dJCeTMuDi5iCjxpOu8W52wj/hulYDnlTaKuMf1gAgfVvmcqGd85JRngbsYLR5r4lZO/oh4JfZQjzc/a2BC2EW1cYfl3kLLSXV9gmj8DsvECKeOBwJAd1mJjaRp1jMqSkGRidM1wD+pBmpfgXGR+cNhSCSOOutZZoxtVQLGBDz5Jxz9HlDi0nowLNc2DTd/MJfITQ9yJE/+Pp/59tuaFyl9mavCrzlHGBP8246x85HHviAXBARbFfwSdx58hpSsBEIOCF2HKBukG02ENgN0+NTFXweqNGqO+xNB+kEJcmoBAIHIZRJYFGq3M1ESBsHwrkSiqEKYi29umOgRQ/olPUqcl93a5oB7epIjmzZvhfgUVzps8FZZ9vdoLvyLdzLM2SarLDNo2PlETs1jmHxJy4mJjm2Sw7TACcXum7xnaLw+fLJUKmmSABxSkBb0JbCGRmJjbclUmjTJSCb39jBw8+Uk9MIuHKGQ=;E5rXVFzYRla8MoBtMfXXYg=="
+secured: "GQt+rzXrxKBAM0+ZU4w7l2Llwf32tG+nUGy5/6VDOIw71cYOB7f6OGC13A/ve0QwwCsChLUoF2q4mgdc/t6QcxTfZsDuaq0QOLw0JoR2eaC6AcqOTfdgXRCqyKMGf9m9W2c4tPhOcXFNNCBwSpsqWir5l+lkJQCZSDmT74guvubKJMJ6VXSM+aB5RHZzDYNcE95D7ueUT7eqji29Zt2AGHLR1S1BlagX9oLOjuYCa+Yp1awF6/c5Ia8oOkBIzIWVWbr3MSYjbCLSAuzaNhaU++yeQkZPcvLitDxMYTThBG4j0HH4ldwFmKFxRX23okwDMQhR1GFVatY9BqfXCR9BokqweUbaZad7rVmvCk1y4aYiZZnEh5ftp0Wdsv4od31BnhKKsZCUqIvAMJd4lz+7sICoxPEHbShzQnpOSZzKyfq39ZClfyvRPoAAMmQ3ydxXydvpjl1PqLlcq61ppV6rJUeQtmm6jKoo+rDLNlaNeAg=;tnpppFI5e8sF+6YkGiiUIA=="
 ---
 

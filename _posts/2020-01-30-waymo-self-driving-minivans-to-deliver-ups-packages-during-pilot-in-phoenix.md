@@ -130,6 +130,32 @@ related:
       - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/upsvan.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
+  - title: "Waymo Self-Driving Car in Manual Mode in Crash"
+    excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
+    publishedDateTime: 2020-02-03T17:40:00Z
+    webUrl: "https://www.fenderbender.com/articles/14449-waymo-self-driving-car-in-manual-mode-in-crash"
+    type: article
+    provider:
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 39
+    images:
+      - url: "https://www.fenderbender.com/ext/resources/logos/10Missions_Logo_White.png"
+        width: 622
+        height: 318
+  - title: "Waymo: Self-Driving Vehicle That Crashed in Arizona in Manual Mode, Wamo says"
+    excerpt: "A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb caused by a sedan’s reckless driving, the company said Friday. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved” in front of the Waymo vehicle, “braking aggressively and abruptly slowing ..."
+    publishedDateTime: 2020-02-03T16:17:00Z
+    webUrl: "https://www.insurancejournal.com/news/west/2020/02/03/557176.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 36
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/01/Waymo-autonomous-vehicle-city2-580x372.jpg"
+        width: 580
+        height: 372
 
 secured: "9tQLf3SxgBNsN47AHebaoPViG4bfiQURx+TDoJEc/jUPMCZe+lSU78EkbHBhMvGDoSxCTEW+R4XmFo/p+Qu34eHYakwgGuxCCF/gmhrh4EAktTwEFdJp5/yl/nlCREOX/WGB+C5RySRhJ+Wuz2BrtpU0VmcLCGV5XOT8hu9+DlGOhJY2gYgqfExG2w6GUIqi6cDcdvz/Zgw9Ffk/bt4QENZHlWHgLqm8JYwaUbvTgaXbFcEKKA3ouZr2FqCUkMOQOYLuDIlLfE2Zhdm0xvzvtKNXyLHKFREr/5zdO0u8uASnOEQKAEsKPrksnUqfumzg;qyNyaVwnzI8EiyJVWwQn4A=="
 ---

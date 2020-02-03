@@ -1,11 +1,11 @@
 ---
 category: news
 title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
-excerpt: "\"The combination of containers and Kubernetes enables faster, more agile app development and facilitates more collaborative cross-team app design and development across organizations,\" Melanie Posey, research vice president at ... developers to easily work with other popular AI frameworks, like Facebook's PyTorch and Google's TensorFlow."
-publishedDateTime: 2020-01-31T14:03:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/developer-technologies-digital-transformation-tech-companies-2020-1-1028863737"
+excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
+publishedDateTime: 2020-01-31T15:06:00Z
+webUrl: "https://www.businessinsider.com/developer-technologies-digital-transformation-tech-companies-2020-1"
 type: article
-quality: 20
+quality: 40
 heat: -1
 published: false
 
@@ -19,7 +19,13 @@ provider:
 
 topics:
   - AI
-  - Facebook AI
+  - Microsoft AI
+
+images:
+  - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
+    width: 1024
+    height: 512
+    title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
 
 related:
   - title: "How Traditional Companies Can Utilize AI And Machine Learning To Build Better Products"
@@ -60,6 +66,6 @@ related:
         width: 1200
         height: 630
 
-secured: "2K4ewlIxsT/7d8G8lcvWVVnyYl716he4mMRniP3zeTaTHj45UIqSs1LJZuJ3GaOC55nerjmQk0nRZs0W1zTpPlv5XSYG/aqWMZo3N28CKUUhHdCeUKXqICyh5AZVhAQLSTBes2SbZvvNGELNnH9/uHIKNcCdXhhKbI2hFshTsI50fHTCt89cs41wPtc7uQwqyd4M+E17xWXRyykAJpYx8Xs5mRH1EH9r4C7ND6/6cxc5zf2DAcUqGAyd/XwiNj8bUmhYeB6a/cpfEE9mD23i9myUyv5prXPj1klRU3+yEnQa6EPRGpkf5CBeVVNW3sKgcVr3JEaJyeNAJR7ijbK8DWHzcY/YzNBtv3ItxZPVHeKn2o/ROdoSSbdM+SLzBWBhXNTFEEVKPeMn6P5UjfVzsmRyHUbmHnr3Z/x0PTMtwHjfI2y1IIzgADF1LxLUcTXV9XGd2qq6/KpfN7rJpKHliJc7vPZlnldvDD1rWuKe6eE=;/lKNSedjmvK+11eJQB33XA=="
+secured: "M3oTy9Js3uJ+VrUVvTrnsN5RyS9Pvzjbdx8QiZ0A9c1vkC09PBlGDHAD2tMHeNAMpUzd6M06DTnfg016agxKAqu6gYJyTQJzEv+55E6/C1jL+g3dpynuHm9o35btv7YZkvGLitKFLVRmZ9jOvveibKD018LCdVVYWUdD80N3O9nrHyQvGY/aCnrA4BHUPfCWvgP0T1t5KNfwWTXaw9WoK/x3PyZ5py4VMuXCnIb65qtuLTlO7YBIzOHfODbc+qXEKlsem5DvUx0O3jovQ8ZXbHWcIfPo/SIFxRensY+yb/TsX9xR1R/AHCkUq1znf6/4;42ZPmguwFhRYoJ8Yi85hdg=="
 ---
 

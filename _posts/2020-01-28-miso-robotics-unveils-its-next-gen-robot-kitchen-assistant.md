@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/28/miso-robotics-unveils-its-next-ge
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/miso-robotics-unveils-its-next-gen-robot-kitchen-assistant/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -86,15 +86,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/10/11/73/18915015/7/375x250.jpg"
         width: 375
         height: 249
-  - title: "Miso Robotics Reimagines Kitchen Automation with Robotic Kitchen Assistant on a Rail"
-    excerpt: "In my mind, that validated the software platform approach we took in designing Flippy's brain,\" noted Dr. Ryan Sinnet, CTO of Miso Robotics. While the next generation of the product has been taking shape, the team has continued to make breakthroughs in the artificial intelligence software that powers Flippy. This has resulted in software that ..."
-    publishedDateTime: 2020-01-28T13:24:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2020/01/28/miso-robotics-reimagines-kitchen-automation-with-robotic-kitchen-assistant-on-a-rail/14722/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 42
   - title: "Flippy kitchen robot updated to have zero footprint"
     excerpt: "Miso Robotics is redesigning its Flippy kitchen robot. The Pasadena, California-based startup has unveiled its Miso Robot on a Rail (ROAR) — a new approach to the robot that can grill burgers and fry up chicken tenders and tater tots."
     publishedDateTime: 2020-01-28T10:50:00Z

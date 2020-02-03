@@ -23,6 +23,21 @@ images:
     height: 800
     title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
 
-secured: "OO5iA3hjjipe2kZyQTe6tzzTMByrUcR7COCkuxrXxJftvC93c7o5UkVDOGaa8XVHi5V25+CZ5Q4snfWZkXHXX+ZkSOVWVsAhB5zk6puE8D4VGVVB4PGKdM1nVmCwQGr7ZOxyKTftrspGXDKlnHJuaE8QPA9kSFT8im8QRK6vSLtNqB4N/FLCvKEMvoEUApjbKwS+AQ15SnWEukj03lyGfsLdQrCSFVza4ELVkHMVGrauncjxjQ4KdAvqpVj0NOF7d/Yacsg3Ahgp2hTH5bVDrR/9f4Q8idBEmGYeLCU0jJfWNNvBP49+FuLYR3LfiQGJ;zcGSivTNSPWBDF5yAxAS0Q=="
+related:
+  - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
+    excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
+    publishedDateTime: 2020-01-09T18:30:00Z
+    webUrl: "https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/qualcomm2.jpg?itok=5ZO9Ahao"
+        width: 470
+        height: 246
+
+secured: "s5jjMuuE2BQYRItGgY7y2RzIz/UYXGkdqjQadg07TH7vC/W2Vk7A7sw8yLZZcXay+F0E8nFBMDgL+g5cT/cLS7T2+rgkKL22jeiMYv+tWtR4UEDJLr2f9gZqgAwZGlCOQo/GGFx3amZHzd1NsMbcho5pWGKF23vztbGx22Zo2cyJOIE+ibSjTAlIAtcUU/Tu/m+Q/l3LFTqQgs//bP9SZSKD/yj8hojF2uB+/KVqQuKvEYeT/sXxSjzdPHYQtlFENQ/EPc0nsVVM8MEKgL8X4Zg1Vd0xvAJ4Gh6/WhlioHF1OdB3vmjzz2xw5Gg1p5i4;mAJxjJAt18UQs8SIfJMR2w=="
 ---
 
