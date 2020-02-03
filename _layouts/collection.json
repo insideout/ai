@@ -1,2 +1,0 @@
-{% capture collection_template -%}{{ page.category }}_collection.json{% endcapture -%}
-{% include {{ collection_template }} %}

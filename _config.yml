@@ -304,4 +304,5 @@ exclude:
   - .cache
   - .sass-cache
 
+remote_theme: insideout/insideout.build
 incremental: true
