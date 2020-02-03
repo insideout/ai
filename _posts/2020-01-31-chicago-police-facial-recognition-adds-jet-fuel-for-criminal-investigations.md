@@ -89,9 +89,9 @@ related:
         width: 1280
         height: 719
   - title: "Volusia Sheriff’s Office adds facial recognition technology"
-    excerpt: "DAYTONA BEACH — The Volusia County Sheriff’s Office has begun using controversial facial recognition technology that some privacy experts say can intrude on personal privacy. But Sheriff Mike Chitwood said in an interview on Monday that the department is putting in safeguards to protect privacy as it tries out Clearview AI. The company ..."
-    publishedDateTime: 2020-02-03T17:59:00Z
-    webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology"
+    excerpt: "DAYTONA BEACH — The Volusia County Sheriff’s Office has begun using controversial facial recognition technology that some privacy experts say can intrude on personal privacy. But Sheriff Mike Chitwood said in an interview on Monday that the department ..."
+    publishedDateTime: 2020-02-03T22:01:00Z
+    webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology"
     ampWebUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology?template=ampart"
     cdnAmpWebUrl: "https://www-news--journalonline-com.cdn.ampproject.org/c/s/www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology?template=ampart"
     type: article
@@ -101,8 +101,8 @@ related:
     quality: 59
     images:
       - url: "https://www.news-journalonline.com/apps/pbcsi.dll/bilde?Site=LK&Date=20200203&Category=NEWS&ArtNo=200209522&Ref=AR"
-        width: 361
-        height: 483
+        width: 461
+        height: 345
   - title: "“Coded Bias”: New Film Looks at Fight Against Racial Bias in Facial Recognition & AI Technology"
     excerpt: "So, this can be around perceiving the world, so computer vision, giving computers eyes. It can be voice recognition. It can also be about communication. So, think about chatbots, right? Or think about talking to Siri or Alexa. And then, another component to artificial intelligence is about discernment or making judgments. And this can become ..."
     publishedDateTime: 2020-01-31T13:15:00Z

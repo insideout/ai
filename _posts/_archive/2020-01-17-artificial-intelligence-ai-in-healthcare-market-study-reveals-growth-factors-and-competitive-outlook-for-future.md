@@ -100,6 +100,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "XqWeprz5i6aeyoK693FyX+k8zjaxklwNHWJqnEq/GKXVZxAgobAxXjkwKVJ1dzidfMB6GD0xg64n4kUgFaIwO6T8JlCVjXGUd4g/bEadJeicfkgXLl7CPcQ2Z5L7PspSgD6La9o9DMKGUSG0A6MFGXCkSalXR6XrJB9A2C2atnJ+H50dUE60RsJ4L1qPijYEo2KdqpnMUiVZmUZD/9ABp02jEaeNGa1tqozuofa1D5Rjvj9CzrooC+8kroAt1wj5s0HX+7TXn6+YyztDg+7628BUVN7hrT6rP7IWZqTHjvpz6CNgk33x3Fhz+NolwziJ;5S6zvZDz46lTUWq1gWzdkA=="
+secured: "MkkFPdLKfJpWTSGrbp+7Atkn2oMTnERBWFVps0539p4n9n3+RN0SEfQHfgq+Og5UCjZ61bs0dQ/7n0eI3q9IWbJoZn3OJVykxrlZhgf1gvVv8/xJA+NNOZ2W1OHXydg4tGEKZ5fwAl5ZPxB5fwlXGbgO9MnyeNe2ESGlWXs+/yDc8TEuyLNDzQlKg13xbFUTqQ8tzSiYJs6KG9H3ykG6TXehBFZZo8VMTAMdhVf94XgkHdTgFKqJKLx1uAKxf9kUvWoc+LiABcXTlmWD99KNycPbr6l70SifMAOoGXgDwzrsqzP6Zdk4C8b2PRMOkm/Z;u9osPHnEip0cgay2Mt24Vw=="
 ---
 

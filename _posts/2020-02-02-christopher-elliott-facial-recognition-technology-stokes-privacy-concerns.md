@@ -69,6 +69,19 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24180676-0-image-a-22_1580595608038.jpg"
         width: 636
         height: 382
+  - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
+    excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
+    publishedDateTime: 2020-02-03T22:34:00Z
+    webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 28
+    images:
+      - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
+        width: 700
+        height: 394
 
 secured: "cBc0BWcP1UwRgv+hT+VlhesMhpTDmX1pG57au4IlQdj7ktN5I0riMj1QBQCRi1sMj9bDV1E3diMe+ri2mSARqT3bES0BCpwDiJkGkJp5lk7BqYP3vxjwVRbEkFMd8RdvajMYlSrpxzIc7z8pUelayP44PaFVjZ7xYScSZ//1ysWkQR9FZlLzGDu+gRVIYeVZ9o5w1RHNM7SfjY/JFBD6YtmJ1rVo9ZsIfFaHzJULDYdffBhBo69Gtfo8rTVJeCD5e+autcvsY+BUHYBYppllDG3AsuPIMiXOJZteDIWvcizXNlFFpnX/suNQCfiIbXGMUhBgySXWbOe/Eir6RzOJWxU6P3riGT52dM+6KfhnCXk0YSGscCKw0SCsU8x4JBGS2NOdyF/aUlTtvbsv32HsPqwctzvjgCqvhkPm4OZ5wgxfENC0/TKAumusy4T5P88Bf69BbOkeu9wQc3TuvCHUx4ab9v9mrVFVXuwBaKtyEZo=;jfbciVZwfybClyRhEGmR2Q=="
 ---

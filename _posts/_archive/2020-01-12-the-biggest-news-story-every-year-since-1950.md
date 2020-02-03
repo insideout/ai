@@ -25,6 +25,6 @@ images:
     height: 674
     title: "The Biggest News Story Every Year Since 1950"
 
-secured: "JHBKniu9yI1CnnRJI/McTNPB3jYs07Y9bz9Shz/PkBzaz6XyOxejZD2gqhaNEzZhPaZq7o1jHLcNrt5K5s+MTYo2MPeJ4TdEIA/EHPSjD2eJvuw8R5zS4kLlSE6putseDFLxO8FvnSTiRI9Frs30GPMEQ809BWeieDSQ9wstnlQLs1BelNLQy9g1b8A34TePhRgni6jfhAEFtqK+mLbeYNiR1b2NKXRhMrmZl+YYuMec/hWOJS6x4GkWWRuWL22bJMrD/Qnfav3DodBhzYhIK+Eh2Xjl3B93WdzArXvZj79umFdbYK3QYUMezmvuwMPa;xmhV2qf3Rsc0ylpbw2fx+A=="
+secured: "S1RT4pSph10rC0i/wngj1Ici4tAfWuRqN2GfpBzeMBCAskxk59wM86oGpqVbH3zAodHgqXSNGOJsHr+XK9Pq3XaQehqmmGy39gwPfZvq7B1DBDWNewONyzaT98aHdsOIfwsWbtENwIst1+wVOBZvnvHWh+YX6Ixj6coWHIGqbBaM125KWROvYJMVwsk/t7IR4ucNzXhWl2iCapWox+iKPpg64pyOcZ1bY47o3TdjaCNLTGGTYEFM4G15Le6T6Esf5JUEN7jJYvLTj1BvQ32cnMNjRaHN5dGe9hd8L5NF6ZQ6cQkFVkixTvIiZaPrPW0t;T4NSoOwsNF9FB/M1EjSbxw=="
 ---
 

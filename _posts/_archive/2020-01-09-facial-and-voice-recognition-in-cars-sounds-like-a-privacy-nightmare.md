@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Facial and voice recognition in cars sounds like a privacy nightmare"
-excerpt: "Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data ..."
-publishedDateTime: 2020-01-09T16:01:00Z
+excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
+publishedDateTime: 2020-01-09T14:42:00Z
 webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
 ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -39,6 +39,21 @@ related:
       - url: "https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg"
         width: 1200
         height: 564
+  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
+    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object ..."
+    publishedDateTime: 2020-01-09T20:49:00Z
+    webUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
+    ampWebUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1112561213.jpg"
+        width: 940
+        height: 627
   - title: "What is Voice Recognition"
     excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
     publishedDateTime: 2020-01-11T11:41:00Z
@@ -55,6 +70,6 @@ related:
         width: 600
         height: 271
 
-secured: "li2P5bV+ZN0gvw6fHmegtcJGp9+nU4ic7oOcxZICcijPSgkysj3VMZT1I4AH8c5Xak5FJosXuCpZgjHb6B21NjUmFZI5j2ovaxEoLLDBdEyoe9sjzxFEQxp+k9/vioB711BMSGr75TClHGHKjD46fxyWSlDitceEmmP9LobyPxJ3tqPQiDKGAzTu5a3Y6MLvvKLXvWWNRsbjWIDvhHyS9jjHf+yhuZOM5qdEe8C3jv4L1ydS6Cyma73GCYW4vJwV5kgqdI4iybOfKKYGagRIQtqi/GqWRvv/krWc6U4ONNZTGKjp4NrnWEuRd8/Nf4wv;1wrBezgPR3qTY2Gxh4CTig=="
+secured: "3pOdmC6Bf7fW+wH8E4+OE4S6dj3GK10XDSLzXFpMvPAVn1Okl6IRmIO8JHdwhkm7bE0AEJCcgiRyvGh4ugI0QVfnQF/14VtuA4Kf/v+w13DWEldT47BslF57pRf0/slnK65Iho94AVYYPgUGVq91U6rRTjWNbP7qbGIV3rFYEnKgnEWpLCsaiAgVp+P5/fswzXUd3QEegHi8eFq0ej9sL3nQ7tA1XSaETgDMkuOQxkzxBXXQS2CFY3tl86iEdLOw5TS2oqspi2g5rffwi6buGbHJtKV3W3JvkR3RwORrC8/7mjA9zut3GjCyEgHnrzkJ;si5jeF+pUVBQQgtsnTfYGg=="
 ---
 

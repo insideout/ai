@@ -26,22 +26,50 @@ images:
     title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
 
 related:
-  - title: "School district’s launch of facial recognition program sparks outcry"
-    excerpt: "The Associated Press reports that Lockport Central School District activated its object and facial recognition system, called AEGIS, last week. The district recently said that the technology will ..."
-    publishedDateTime: 2020-01-06T18:32:00Z
-    webUrl: "https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/"
-    ampWebUrl: "https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp"
+  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
+    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
+    publishedDateTime: 2020-01-09T14:42:00Z
+    webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
+    ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Facial-Recognition-Lockport-School-District-1024x512.jpg"
-        width: 1024
-        height: 512
+      - url: "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8="
+        width: 1200
+        height: 630
+  - title: "Speech recognition and voice commands for your site"
+    excerpt: "Many of the smart devices we use every day support speech recognition technology. We use the voice to search for information, buy goods, even manage other devices. The tech giants use voice search ..."
+    publishedDateTime: 2020-01-04T10:34:00Z
+    webUrl: "https://medium.com/voice-tech-podcast/speech-recognition-and-voice-commands-for-your-site-e1931d60ba03"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg"
+        width: 1200
+        height: 564
+  - title: "What is Voice Recognition"
+    excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
+    publishedDateTime: 2020-01-11T11:41:00Z
+    webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
+    ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
+    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 44
+    images:
+      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
+        width: 600
+        height: 271
 
-secured: "qKS2ZZge2ZvbgIixuJeWcw6PzRSsOWXu9xdt4Y1CwWd8GztCDJ2Hug3BwBoYDz4EfgeoidKqfAdeRSoKnun+7V6FSxoFX0u+katYPCKoAvYW2dGLi7I48WVHrzZmRBgULAbELUPAEioIVj+99Xr8grnF8xIjhqsS2wP8F5l+UVyaBOSHmVG9r/ziWXnXc4uGr80Pd7SCxjl8GI1/NWIYbFVj7/TNezphFjrkQsJSFusKbCfNEWTQoiNQ5NoLFSt9KND5bZ4KsndorKGKV1WD/7qrYTc1TB5WarO67KurJ90fF6xlOQZyIn/JttcBHBPJ;cAZsjpDj7ijboj0pW8jv0w=="
+secured: "f+0GYcVxX2T5FU9C123/2xLEND+tq7ZT1uR+z2K0wiWd1SgCdc52p7MytQnWVEXhkZ3VgdMA/jA34pFvtFbDJAVS7cWhrD6wE5MPLR5bL1BXMiqBo6tR2/y5wc4UrxiTGWdVBO1J/GctfuUYw8EUH8anxDPsTrxPiOoNMypiiTW2EbI3E4gASh/poH+HyKt0uZ8jmSnRI8g7Fuuu6gaBLsnNRdGYSbOhgQliE9sQ2jKMMReE2Lo6QoMYCcrITcrdAdXTogyLGjgN2dt+32JLHj8C28/RPGPtYxjBb78G7zPhi+rGclimhMsw1WtOGubj;GZ3UUYUi+1zA3eowPuOpWg=="
 ---
 

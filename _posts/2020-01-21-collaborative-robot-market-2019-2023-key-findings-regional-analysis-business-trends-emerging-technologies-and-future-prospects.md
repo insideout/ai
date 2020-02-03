@@ -25,6 +25,17 @@ images:
     height: 435
     title: "Collaborative Robot Market 2019-2023: Key Findings, Regional Analysis, Business Trends, Emerging Technologies and Future Prospects"
 
+related:
+  - title: "Edge Intelligence Market Up-to-Date Analysis of Market Trends and Technological Improvements 2019-2025"
+    excerpt: "Mode=69 Top Leading Key Players: Microsoft, Qualcomm, Intel, Google, Alibaba, NVIDIA, Arm, Horizon Robotics, Baidu, Synopsys, Cambricon, MediaTek, Mythic, NXP. Artificial intelligence (AI) processing today is mostly done in a cloud-based data center. The majority of AI processing is dominated by training of deep learning models, which requires ..."
+    publishedDateTime: 2020-01-27T11:12:00Z
+    webUrl: "https://www.openpr.com/news/1909151/edge-intelligence-market-up-to-date-analysis-of-market-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
 secured: "CGWsNfxeSHrgGOVlLLuqlzW+lMYWUj/63XZWg5MQZ6EZfJzrU8hlLifX1WOEf06+tJ4g6SG/+OAez/zI11OhMXiw+wRSF1B5f38BskmjeKDcxQqu4Et71GO2PVHBkBsLcjFTBpn50vZzROqcYb3U05fUdErNUxY/DOJhx0JamAbGvHSj3jmFajy3UcVguyS7sAlXu6WvtUyZR2FefHPV/yNsZObV3JXyx9GEGJSc50hjEFBRcPXDIf0D0Ex+Nue07iHtSgOw3R09r8XSg1PCOo1tQj4tYPdPJIwxr4RCsbDyai8LRXDQ5nCqe9opNtVWND9MrZIIiGBAAKhBfdmYMkyEdQIfnx4TZBBk4+PbssjrhZm9ipbTOKxiIij1R+sVZDCDBwcZ1b5TBnGKCvKR1csKl43yuu/QqQtJOK6VnoOKpWBIY4wGHu3OT6njvaul1572+K+mUrsNLi9sbQBRcg==;2fGzc/rlYbYds5Fxw7iY4w=="
 ---
 

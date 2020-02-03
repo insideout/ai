@@ -30,18 +30,20 @@ images:
     title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
 
 related:
-  - title: "Baidu partners with Wind River for autonomous driving technology"
-    excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
-    publishedDateTime: 2020-01-08T11:12:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
+  - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
+    excerpt: "Its foray into safety-autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Tesla and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
+    publishedDateTime: 2020-01-09T18:30:00Z
+    webUrl: "https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech"
     type: article
     provider:
-      name: ET Auto.com
-      domain: indiatimes.com
-    quality: 39
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/qualcomm2.jpg?itok=5ZO9Ahao"
+        width: 470
+        height: 246
 
-secured: "NouDykYbharsBPHFv4umJhlg5HvfGX+5TBSiNPD9VcUdDQtAyARQSvmuPnZiSCBkI7a2yz0Zu7GUxfDhg/yI355gLQ3pYbQ5Nw0BrLVKXDYL2wtDUeemVTeWssnQ8Wsa68+SYHqq44OiFCDxmqJL0mjCRUS2JMix3yxBVtItb+1r/8IYoP+DcjK4ZetOo/knijGEzQ4z8z6nwwUontuXFC8O+FK9SHmTfFxDXF+0lj3Xbe89wpUCB6E99GPEPieGWrwV4age71WqnvAzGXce/YR9RW8+lxQF8E37Y2J8xX5aNtv1cxjzLr1utLiiZyM0;KFEHYYn2+9nEonwXycJrzA=="
+secured: "Ul1XFnxCWW0MxcRd58ZRpaqduYYjB39s2SKxNHHaVkAVK1tYNH/rzswL2GcFnHd2K36AZJ3aPDjP2xp3zOMxvNdZ7/iTtA3tJHp5RGLhM88STULDOq6n05SNCE2CGEPAwVeHadCVIAftakjpenl/Lw3SIghbbi2zd70dQcn4QEBqo2w6nVd5HR7zi0Ns94yvLJh0KLtlgFXrznDllPpoLnnkv6kxR/lmbi2zc/Keu5ByfMoO0uV1T9xEKCWd857EBW7NvCWIEvLPxmBrHiwrgd1YX1aWFLhItvdqa+PM2ZgsJQaNyhlxaS/7fVikMTwL;z8OcX80zHaFmiyt05eEO3A=="
 ---
 

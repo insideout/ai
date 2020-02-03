@@ -22,28 +22,28 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI Chip Market is Booming"
-    excerpt: "AI processors are reinvigorating the global semiconductor industry, prompting at least one market tracker to predict a three-fold increase in AI chip applications over the next five years. In a survey of AI adoption released this week, IHS Markit predicts AI applications will explode to $128.9 billion by 2025, up from about $42.8 billion in 2019."
-    publishedDateTime: 2020-01-31T17:14:00Z
-    webUrl: "https://www.hpcwire.com/2020/01/31/ai-chip-market-is-booming/"
+  - title: "The latest market research, trends, and landscape in the growing AI chatbot industry"
+    excerpt: "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from our Intelligence Report."
+    publishedDateTime: 2020-01-23T21:48:00Z
+    webUrl: "https://www.businessinsider.com/chatbot-market-stats-trends"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
     images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/AI-silicon-shutterstock-675x380.jpg"
-        width: 675
-        height: 380
-  - title: "Here’s How: Cloud Machine Learning Market is Booming Worldwide with Oracle, Google, IBM, Alibaba, Microsoft"
-    excerpt: "Advance Market Analytics released the research report ofGlobal Cloud Machine Learning Market, offers a detailed overview of the factors influencing the global business scope. A detailed study accumulated to offerLatest insights about acute features of the Cloud Machine Learning market."
-    publishedDateTime: 2020-01-31T15:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/heres-how-cloud-machine-learning-market-is-booming-worldwide-with-oracle-google-ibm-alibaba-microsoft-2020-01-31"
+      - url: "https://i.insider.com/5e29ec4762fa81053f03e106?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "Artificial Intelligence In Medical Imaging Market 2019 Disclosing Latest Trends and Advancement Outlook 2025"
+    excerpt: "The Artificial Intelligence In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Medical Imaging Market\"."
+    publishedDateTime: 2020-01-20T20:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2019-disclosing-latest-trends-and-advancement-outlook-2025-2020-01-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

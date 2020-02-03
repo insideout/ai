@@ -145,6 +145,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
+  - title: "Assembly committee ponders use of facial recognition technology"
+    excerpt: "There’s a facial recognition app local law enforcement has used to identify potential suspects in a criminal investigation, but no more. The state attorney general has banned the use of Clearview AI. It all stems from concerns over the software ..."
+    publishedDateTime: 2020-02-03T22:57:00Z
+    webUrl: "https://www.njtvonline.org/news/video/assembly-committee-ponders-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: NJTV
+      domain: njtvonline.org
+    quality: 39
+    images:
+      - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
+        width: 1920
+        height: 1080
   - title: "Facial recognition datasets and controversies drive biometrics and digital ID news of the week"
     excerpt: "Facial recognition and controversy around the technology were the theme common to most of the past week’s top stories on Biometric Update. After a few weeks of relative calm for facial biometrics, the biggest stories about court cases, regulation, and market growth were all focused on the same modality; and then there was Clearview AI."
     publishedDateTime: 2020-02-01T01:15:00Z

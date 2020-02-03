@@ -132,6 +132,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
+  - title: "Assembly committee ponders use of facial recognition technology"
+    excerpt: "There’s a facial recognition app local law enforcement has used to identify potential suspects in a criminal investigation, but no more. The state attorney general has banned the use of Clearview AI. It all stems from concerns over the software ..."
+    publishedDateTime: 2020-02-03T22:57:00Z
+    webUrl: "https://www.njtvonline.org/news/video/assembly-committee-ponders-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: NJTV
+      domain: njtvonline.org
+    quality: 39
+    images:
+      - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
+        width: 1920
+        height: 1080
   - title: "Facial recognition datasets and controversies drive biometrics and digital ID news of the week"
     excerpt: "Facial recognition and controversy around the technology were the theme common to most of the past week’s top stories on Biometric Update. After a few weeks of relative calm for facial biometrics, the biggest stories about court cases, regulation, and market growth were all focused on the same modality; and then there was Clearview AI."
     publishedDateTime: 2020-02-01T01:15:00Z
@@ -227,6 +240,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "U4zcScNVW52X405hAqXCSxTHDmOCO+E08tIM5rieQjEh9wYMQzcchnjdR0KwLf8PX8DD2IZnnekVlgmkyhVbxv93C5Ev1FIfhqYBo0LWZk0PnCrcFrLMHUNcY3V/4+zCFnh2LljgoqhLqBo3pSXE3byehT0nbms9diPKwlRoHRNcZyv1oGE8sHnvMCHU7OEzmM5pD0lxrjsqEkjf3kRiLvMc6G2BFVqqNnWgWEkacjilBYAtXiqXmYTMBj8IXhOTYJM1IAe7ohCIw3MP91r1t2KvIDWW445RsnYTqcZ5o34BizqLn5Ykvi5zug2gPeBC;pcjI4RRUcNSJ5we0rZJOeg=="
+secured: "tbSHVlWQrUMw1z0XeBxsxQXhOXljkV+h9KeLTgFYZFk/HBmBQmcZ8tZngDhGC2KlYJOfoLKwEd4sSGqXS8WctWyWCsLMP83odv88H76Regeu4VFW23yszjmCEHnt3GMzhfSbwBrclLIOWDlkHEUEkJyvZqbt8FVCszljcaLEk19jimg4Kvi1q7QKCumsw7dWDYFpneGEK/g2Vz+nSGV4+cNxFCBqqx2FO5SgO3gpO93BiuTw98HYiWAVUTGFTAyvyVCyaNnJ2QOAnSC/Fr4465VdF9/DDq1cW+Z1rqEtiiMRuCXf/mJgyZa6kV+pMSSiQTeGERtSGSLGwM9rYs0cwezwOPH5/VD1X+GhI1LJ7YTUrVW7l6/t27rXQFFTshX+EkUDHkAXHfQnoKSp8Ce2VJYpJZtl+agengiD4fS2+9MyITSRjZCBEBbsSET8PKwxIpbdnpYAR50ws1b8FY6L1OfCaOF0MQXuJ7jjSj1sFjM=;F6DnPNGnoaqi0spX0zOAog=="
 ---
 

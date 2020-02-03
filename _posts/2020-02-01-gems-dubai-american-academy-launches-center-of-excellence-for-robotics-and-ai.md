@@ -25,6 +25,6 @@ images:
     height: 1663
     title: "GEMS Dubai American Academy launches center of excellence for robotics and AI"
 
-secured: "uA8VTVVXdOKrWQXmbPmakgoaPPV81gisHjSQhyx+jqHx249q7TVH5qfFZKL1/qFFfStKJh+5c0sFh3XPoXFzVXaq9LKSKKnVTBT/3l7wBIP/oP7ugK05hHHbi/2IiaUM5QrKpRoj5mcZBGyJ4ozepfPZcq3g8IUK40PRAmX2NQyveiZD++YoGCYMnvoC3e0Lf3wfWZNuXLaszNGt3Nd9QdNv94lebpLNOx6sA9qED9lhXvWt2n49RL+UeGJcbFsIGesT7rMFDaxxMuN3nKAzonwISeLTjtGQ0TONa956NDqC7G2LjfrbvaU6+kCT1uLs;pgymYFQFn2ZKu1ZKtIJg6Q=="
+secured: "3Rf2wXEdWO8Q8U6gi2AzgVj0x1gnsDDn1d+42yZ6QiP6PyH2QhSRyBKM+XsrdO92cWbVqPG3HCCYGzPcoUpelj2SopypZpK8AYZhOr+rLAEcoFm+Uf4g1OG57GGa+bmjGbcpJcwtEQ2qRlax5rDOroCVkFUP93Q3Q6WQXP6B17L9jk5Jvk/bQPnOLp4Uhz+m8fjRaANlSNKaNNRPI/JoCOYNPMqdYtOHiaAWTocSzBTNOrFYtGHrdIP3d75rMuGkLjXGJKX00e08RoWex9nEFN6T0oEAOLMeYzeK0y5+G9ZeRRzqFh+s6lmQcHpj8Zz3;478x6j0TGW7FTeFf0VjxAg=="
 ---
 

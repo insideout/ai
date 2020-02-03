@@ -41,9 +41,9 @@ related:
       domain: telegraph.co.uk
     quality: 59
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/03/wallpaper-panels_trans_NvBQzQNjv4BqEo7ukXPj3dSVEb29e9SgADGlvRPkLrU2fMgxYfCf0eU.PNG"
-        width: 779
-        height: 487
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg"
+        width: 2501
+        height: 1563
 
 secured: "tPhkSBya6WqtwmdrDn2SSOyNpBZekWLaZN8+SQjfy4fpctJuuyEbpyy9cocfB+xssNQpwXaduT6kFcaYNGAgaSAYsNIWmmL21NcWj9eUowtuG9nZgg00VOsL4TZYNZTOUSr0sC853lfBsgmBM7NnsxMh0vE/3yYxmG4uD/MPKYRRpnDohjD8AWE+TN24lEcOdFbniMC7FkKPz2cbHrc9cr8VBpqJua40wXoV/kmk7P+W+/BjdRYrb9yM7rCuqWHhO5E5onR49ZChV7XgSfDP2LFHTmM3NXBECq2jfxorijFEap4MGZdGcxOVteuA0hkcen6WaMDMWwmzmdOt1aLILDTfKbCuDK8i1dg4auUq/KLsGQO98X01WnzDGitdP5hNqcx5K9Sd4Leb/nAzLYrhLjZqWMZ14yGm3v0R+vZx3/PdNxMHUuTFAciSZJU+Y/wPi8vZVASI0j3tT46iHBiNWA==;ixUPVB4L3wE1XS38hw9FjA=="
 ---

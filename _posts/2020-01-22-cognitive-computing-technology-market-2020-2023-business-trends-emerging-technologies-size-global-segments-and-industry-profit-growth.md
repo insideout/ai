@@ -26,19 +26,6 @@ images:
     title: "Cognitive Computing Technology Market 2020 – 2023: Business Trends, Emerging Technologies, Size, Global Segments and industry Profit Growth"
 
 related:
-  - title: "Computer Vision Market- What Are The Main Factors That Contributing Towards Industry Growth?"
-    excerpt: "At Verified Market Intelligence, we provide a market study that encompasses both qualitative and quantitative assessments of latest trends for the market segmentations classified by our analysts. According to our research team,"
-    publishedDateTime: 2020-01-20T05:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Mobile Artificial Intelligence Market Continue to Grow as Industry Spends Big to Reclaim Market 2029"
     excerpt: "A recent market research analysis titled, Mobile Artificial Intelligence Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Mobile Artificial Intelligence market covering industry surroundings,"
     publishedDateTime: 2020-01-23T06:34:00Z
@@ -52,32 +39,71 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market- What Are The Main Factors That Contributing Towards Industry Growth?"
-    excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD 30.48 billion by 2025, growing at a CAGR of 16.25% from 2017 to 2025. Natural language processing (NLP) is a field of computer science,"
-    publishedDateTime: 2020-01-23T08:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-23"
+  - title: "Machine Learning In Automobile Market Latest Advancements and Industry Outlook 2020 to 2026"
+    excerpt: "The report presents an in-depth assessment of the Machine Learning In Automobile including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models,"
+    publishedDateTime: 2020-01-30T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-automobile-market-latest-advancements-and-industry-outlook-2020-to-2026-2020-01-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "The latest market research, trends, and landscape in the growing AI chatbot industry"
-    excerpt: "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from our Intelligence Report."
-    publishedDateTime: 2020-01-23T21:48:00Z
-    webUrl: "https://www.businessinsider.com/chatbot-market-stats-trends"
+  - title: "Asia-Pacific wearable AI Market: Industry Growth, Market Size, Share and Forecast 2019-2025"
+    excerpt: "Jan 20, 2020 (Heraldkeepers) -- The Asia-Pacific wearable AI market is estimated to grow significantly at a CAGR of more than 29% during the forecast period. The economies that are contributing to the market growth in the region include China, India ..."
+    publishedDateTime: 2020-01-20T12:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-wearable-ai-market-industry-growth-market-size-share-and-forecast-2019-2025-2020-01-20?mod=mw_quote_news"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: "https://i.insider.com/5e29ec4762fa81053f03e106?width=1200&format=jpeg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 600
+        height: 630
+  - title: "Deep Learning Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "New York, January 21, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
+    publishedDateTime: 2020-01-21T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Indian Wearable AI Market: Industry Trends, Market Size, Competitive Analysis and Forecast – 2019-2025"
+    excerpt: "Indian Wearable AI market is estimated to grow significantly at a CAGR of 33.3% during the forecast period. India is one of the fastest emerging economies for wearable AI in the Asia-Pacific. The growth of the market in the region is attributed to the adoption of various government policies to drive AI innovation,"
+    publishedDateTime: 2020-01-20T11:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/indian-wearable-ai-market-industry-trends-market-size-competitive-analysis-and-forecast-2019-2025-2020-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Automotive Artificial Intelligence Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026"
+    excerpt: "Automotive Artificial Intelligence Market 2020 Wiseguyreports.Com Adds \"Automotive Artificial Intelligence-"
+    publishedDateTime: 2020-01-20T08:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026-2020-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "kqkI3hgRmwUgb69e//ONDFpqrAEheqw80w8SP0jgY4qxRO6ApB6pvfziKbvaiNPSaU+os0OEv+9xFCA21QWn9eFFiaADrrRD/1ZmRMxXvoeNXuQARcRWOakuhcMPrgVBKk05qvqnBUN3z4iXQBJmq3zvyixxnXGSs8b1bT0xdUzv5NZi5mG03dsRqQVbMXe1602ZiWlFTSxaxjrBbw4kjpBQqcDkPmd5iFi9UaCcL+14kfepGPryNJ7AvDxz1taRNnfFD0+zyOxioeiqAB/8Z1YXHD85SKLfFAfTn8ChnBIzALPu4PHvLysM7U4vfPJdpm+3+l8rTTt2+7F9JKCtDJPVcEOGermVPnPnvTzsph0vkNEeTGTQwnCcQPTrFdrIFDzVTSMy3tYV62FFg1YKqCfV+CrH3CXETaocgh6ICYfzhhlzddgqnsTZJHo4wR8IgsnzITvkPp0d3wbrOVRPKA==;DIG/FpBpbIOaFQgIJY1xUg=="
 ---

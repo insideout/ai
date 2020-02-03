@@ -56,6 +56,19 @@ related:
       - url: "https://kubrick.htvapps.com/vidthumb/c053f844-28fb-4ff3-b897-d13cc9cf6a2a/c053f844-28fb-4ff3-b897-d13cc9cf6a2a_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
         width: 1200
         height: 675
+  - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
+    excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
+    publishedDateTime: 2020-02-03T22:34:00Z
+    webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 28
+    images:
+      - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
+        width: 700
+        height: 394
   - title: "Christopher Elliott: Facial-recognition technology stokes privacy concerns"
     excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
     publishedDateTime: 2020-02-02T05:08:00Z

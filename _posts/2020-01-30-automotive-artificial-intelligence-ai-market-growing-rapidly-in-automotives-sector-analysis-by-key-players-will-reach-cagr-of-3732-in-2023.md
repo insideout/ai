@@ -20,21 +20,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Global Artificial Intelligence Market for Automotive and Transportation Industry Anticipated to Reach $69.05 Billion by 2029"
-    excerpt: "FREMONT, California, Jan. 30, 2020 /PRNewswire/ -- According to a new market intelligence report by BIS Research, titled 'Global Artificial Intelligence Market for Automotive and Transportation Industry – Analysis and Forecast, 2019-2029', the global AI market for automotive and transportation industry is expected to reach $69.05 billion by 2029."
-    publishedDateTime: 2020-01-30T11:49:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-market-for-automotive-and-transportation-industry-anticipated-to-reach-69-05-billion-by-2029--300996057.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 12
-    images:
-      - url: "https://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook"
-        width: 1447
-        height: 908
-
 secured: "dLIq03LNVgvr4xYnw9+lsshA2CF6actsn0WBKe7EpZ4lE5K9brxTaxLvnP5cbzqL9yLDCxmxkTmq4xDKBAFJKXPL3VscJZFtMwpEUOR8KSM0cxPo09OnshC7swFofyrT1qEazsUlnn1A07sEvzmTAtKMgAoO6MLeNfKMpyBKHSrUD4649TO2x/Tqq9ArBAhJYVZG1zKuaBze/z72NTX7QA13jJqp2FbUz02ZyBUmHIYOd/rY9TXcZeO1Nn41941MFKa4tTCGA8I17FMnKe6Z2AQxgmp4QiDtVn9Gu/QSvCkkeemMbXgEpUFSAqmIi7pl;u0HvaZ7CvdH/IShdzxo/sQ=="
 ---
 

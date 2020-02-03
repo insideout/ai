@@ -24,20 +24,22 @@ images:
     title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
 
 related:
-  - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
-    excerpt: "The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo has obtained 120 such ..."
-    publishedDateTime: 2020-01-10T05:50:00Z
-    webUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
+  - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
+    excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical ..."
+    publishedDateTime: 2020-01-07T17:40:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
     type: article
     provider:
-      name: Steel News
-      domain: steelguru.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 79
     images:
-      - url: "https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg"
         width: 1200
-        height: 800
+        height: 729
 
-secured: "qtOACkBmiwgeK/HWh/Hp3gspwmAysTX6YwXQonoa3rQeK0oUnLRhxvV3gGCukQeJpP9jR8+N30dvI9YKckOvzMZlW02/qC/D/KGV1Tzm1KMJ7Jw9b/lk30tQGBLDCXkRm97YmeB6+MGo+tK6d47HsBLUruFIrgpi3Il6pd5D7UpE1MJRFfZCFrJJ7viIavvSq5sZis2AjEEYMmF4kln42LGuTwukI0rxoe1HQ4+1ri8uuWSjcWFJDYBgkxjluQqSQ4lJWvaeSaVoRuiSleSCvu5DahMuL4DyERPbhPFQByxfhWYyqCz+2dz+adDE2VH7;HscT78qyV46y6AWwkhEs4Q=="
+secured: "vf6ksN1jzKZ+TfsVz5jGYfqwXposhsThBvgh4lZ9KuZiDVZebWnTynuBrSuLJoqtt6lW1Qg6aiaqwno/Cx4c+0lh85JLAsEGkXWTe8zJBJyRredx0oERqHwm31wpp5XGvpRZDffqkrPdmJXeZ+0u97d3+9kevpHFaAzR5Lt27TRmHlp2xdqaHwTnNfPtLc6CBNSU4lY9pPS78HawPcFpmkdJ8CmMzkuPel1hyjmR8lPO6Rvvf2xRmFEGe4NksuqEoV8vzybo9HxhSYqChG8FOHCGInnKxmwlJhIW22T+GeHJStzEiJmGqPkrnRCfp9ve;eyRRU667m49AZaPKnjWVnw=="
 ---
 

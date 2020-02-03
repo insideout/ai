@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
         width: 267
         height: 400
 
-secured: "UhKuw0CY3cghiQK7Z4aFyTKBDPBDldFvYkiiUEXGzin229Vyf8qb/WYjUZOkbjwfcFAPhbaQLvsQV0O09cqrxnEZehx2a3WjUHkZFs8uzaY0V8sk4QzrAc1DPhXwP5REeFoyvLqwkaok1DfNh0gQ45JFjqXcWalef0SdhDPCpFOBp7Pva5NqXSwaK8sKgqam8p4f3kmYBjPxk6rsPFcVssQjKQti89MgDk35TutZjwZM2Ri/vs1DNNcldhThBXnp6EayXkEDLLoic7a4Kqg8KOMOW4qO5AmkI3BLJFK026qkmvuDfk40B6iKaubFjEYUIqWbf4Nzw+FozZYlrEMOW5RV6bbSIKuYnW7RDJLlop0fCiqZ9V9t9llBKlFKzg+u3VUvoK66pWmV4L9EzTROKgrdeTkexFWK2KH8Y0jonLySw0UjXF6qJ9Wi4C6Gp9sJniLY99GCAOOYJQMaPEFMQfF/SZUy8GMJ1UFrGA+uA00=;b4x+MnMIsd2enZysJIksOQ=="
+secured: "InDmpQoKpdsVcjdc65mE0waiGlHwpAIXABgOI3k4Dax4FyUdVAjfgB8LOOToXQ+call2XegyVkjL/GyvSj1sMgbme38zedGwTGzZQeS+g67LD0YU5uL31MnS7WzF+2ERY8/XHBohYFNBseSHJjTYlKK2ffSKHWK8DgGwcuUm+YBaD+lXdoBeym2saW1wK7RLZ9xVCJLHY8T2YfmB28Ne/+KCC5T/A9AAyb21WYTgshJz3NQAHMd7sYt5X4J+j0HnN0kjLnucy0kc08jrBuo8/TfunsCBHzcIj/JfbNiJK+y0cXWqJwjX7xtXje/c3GSbM7xtSks68HCob6hmNPH7gyi/FtbvJ/50dKywT9Tg6771FoNEa65w1davdD9HE78jVbAz/5MP0AYkhuXM8z9E6GQMv2vQgSwEaBYh4BGAZn/2gtO0+dUwYVIV6hP0iNlqqpXA6DZV/rZixIJ8TrwzHmHtQ05vhaBBNsOP3IiauBk=;UMuJEzD18KDsGV1f4H/UrQ=="
 ---
 

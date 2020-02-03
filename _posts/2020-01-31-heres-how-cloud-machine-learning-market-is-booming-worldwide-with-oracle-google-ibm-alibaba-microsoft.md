@@ -41,15 +41,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/AI-silicon-shutterstock-675x380.jpg"
         width: 675
         height: 380
-  - title: "Artificial Intelligence (AI) in Food & Beverages Market Is Booming Across the Globe Explored in Latest Research 2020"
-    excerpt: "Global Artificial Intelligence (AI) in Food & Beverages Market Insights, Forecast to 2025 The report discusses many vital industry facets that influence \"Global Artificial Intelligence (AI) in Food & Beverages Market\" industry acutely which includes extensive study of competitive edge,"
-    publishedDateTime: 2020-01-25T04:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-is-booming-across-the-globe-explored-in-latest-research-2020-2020-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
 
 secured: "R4RMeO2KjqCTsfTlTBj/3A0VnRlL9zPx9V45RmulF+A6RvfuhL+HvBpO5HlyNMv/FcRJ6rO7rbH8poVTS6MfyIaHEIkpLwyERdyWFY2CSxPhXCrJoH6J1VvaU0mx4cih6HTIOAF9Sc/8gWULiuSNGYFd+OXfwZW6GO8Xlxxt0Z2O8IkGIR5wPq0JUjTEsEVUFozMVBN2KqJjf+dh5W5/NXcUDJYGxNiuaXsyfisNwP3npbDM8m11NJpsT6ZSv1fdiO6NGvtrylag5fj53bbyR1WV/HtwKud/3HdjMGLkwy8wrTEsjbZHp1z0XhDxWXyO;wqF5um7XKM7W0/tdt4A8jg=="
 ---

@@ -37,32 +37,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Asia-Pacific wearable AI Market: Industry Growth, Market Size, Share and Forecast 2019-2025"
-    excerpt: "Jan 20, 2020 (Heraldkeepers) -- The Asia-Pacific wearable AI market is estimated to grow significantly at a CAGR of more than 29% during the forecast period. The economies that are contributing to the market growth in the region include China, India ..."
-    publishedDateTime: 2020-01-20T12:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-wearable-ai-market-industry-growth-market-size-share-and-forecast-2019-2025-2020-01-20?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Deep Learning Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
-    excerpt: "New York, January 21, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
-    publishedDateTime: 2020-01-21T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Wearable AI Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
     excerpt: "New York, January 21, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Wearable AI market share. Major industry players with significant revenue share include Google,"
     publishedDateTime: 2020-01-21T03:54:00Z
@@ -124,19 +98,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Automotive Artificial Intelligence Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026"
-    excerpt: "Automotive Artificial Intelligence Market 2020 Wiseguyreports.Com Adds \"Automotive Artificial Intelligence-"
-    publishedDateTime: 2020-01-20T08:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026-2020-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
