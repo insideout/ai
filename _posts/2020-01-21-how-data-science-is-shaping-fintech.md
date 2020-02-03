@@ -23,19 +23,6 @@ images:
     height: 367
     title: "How Data Science is Shaping Fintech?"
 
-related:
-  - title: "Fintech Trends: Mobile-first approach and data science are giving a fillip to fintech"
-    excerpt: "Fintech Trends: Mobile-first approach and data science are giving a fillip to fintech If Samsung sheds its Snow white paradox, NEON can become more than personal AI assistant Slot free: What is eSIM and how is it helpful? Trend 1: India is rapidly moving towards a mobile-first approach for accessing financial services, and they prefer ..."
-    publishedDateTime: 2020-01-19T19:34:00Z
-    webUrl: "https://www.financialexpress.com/industry/sme/fintech-trends-mobile-first-approach-and-data-science-are-giving-a-fillip-to-fintech/1828350/"
-    ampWebUrl: "https://www.financialexpress.com/industry/sme/fintech-trends-mobile-first-approach-and-data-science-are-giving-a-fillip-to-fintech/1828350/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/fintech-trends-mobile-first-approach-and-data-science-are-giving-a-fillip-to-fintech/1828350/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 17
-
 secured: "ZYwEAh7EJVg5BDTTrNcxKExTRLC/LhxlNffJOOeEGD7WjDI1Vmz+DUJj15Hp0mpzLdEZC0cHRUUzWX83dFiVIDf79uyozKiSSj05C7En3bB9MICKr+i53KK1FY8rSeXXflAhZnGWgKaUITEmBhnUw5080RysY9Enoln8ljf6K9IuV1nR78ykDVZHuGJcE+t2KhzCBzOurhKBGK8ZygbzDnqUd7ExwJpIhxTnJQr1WcEB4CbrRCioFgNaLGs48xFfgUPFg2DQAgcGRBk+Tae66zdTFAq7g8f19868yqCPLTo=;xBV/u7IDPG+ZPfCGNy2DYg=="
 ---
 

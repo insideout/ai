@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
         width: 1400
         height: 789
 
-secured: "MXAclLjAZ9wQ8RRUORTgh2kMiJEkkY7EArKLleo7YWoEm5RlVt8Lweaxoc/Av5yGCku2Dr2WiIWeiqDJVl+fLg8pOwTTSY6m09Rx4hgvksCTXP6hLLgi0Sver5YPOXuCJ8h5uoVH283DGFdmrXXYUZMheBm3zUfHOJmjSUVyMmKcJ+WSfX716WmPrMZkmLgingAyL3X++yTj/V6nGWMFVQKQBWItIT0uUnXQBFdDoScQW2mGBxn2oEuOmE9qlTx4tfrepjENiy+luqywQOK8P9fRQWjaSw1fNmmmXd50csoVgo/cUamyPMuvNzYTsutC;oG7mpXtgHziY8r2s4B7iZg=="
+secured: "D4ATVdGtfSxpR4vs4gYaV2cIlpzVCz/b47lQt/RVRPwFnAE3xDsw/oG0U0WAaO6F3+0hF7NTw5NIyc0IP8vxTfkVVeAjtNkFObxu02db9Fkq6XpzvaDWLJr7f5LwXnNb7tqAeQ/mHmwP+jf9tNIR141xhhW/K6BAf3VTPPKn5naCsfYYeZHRBs36Bm8T+EkCBZAu34gEa8cujkUApmCBw9TrYwM6oBgtivSkJVOfHKvLf/HRqdbEROSBsXOrfVCFFX4/jTiuKa+3Uvk94o3J9MoXXsqRHcesbYgGroP3Hm3p/w2Y1sCsIeoDcwQptWot7fi5DJf6f9lDUgqIRkX0G5OKgrVn/+leB/v/PfIXBn+TAW82r//3fNjn1cqMpdXE+lVeQLh1AHwM0aKfo+mqflpbRaB99djEcIsLmMo1BGjPlUOHQN1EW5PYy6QYmcp3ZpKUTdsA26WcpicpkAEe1vrnhNipaKJtILNiBQ6SZy8=;ncSIwhI9aDZa/F1kun9NMA=="
 ---
 

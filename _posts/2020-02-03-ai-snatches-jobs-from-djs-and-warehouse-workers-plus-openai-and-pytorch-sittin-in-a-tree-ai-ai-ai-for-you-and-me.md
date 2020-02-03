@@ -25,6 +25,6 @@ images:
     height: 667
     title: "AI snatches jobs from DJs and warehouse workers, plus OpenAI and PyTorch sittin' in a tree, AI, AI, AI for you and me"
 
-secured: "+0y6pv91CpvZwb5nqzZVQQ+eqqLxk/RGyzNTt+XtCO1jdXv/jDKTTEDOykHDLYO4ZMJUbkb+PYfLMjIf8+p881vL/t/qJvNv/u08E9bDRW4EWP1yLMnELTVLH5vNcDdmv+BzhMkNu9tiMABKKOr2cE2QYqpMVWx3bXUsXCNtDnGpK4MPGhohc5wlYbHsXGcxuhZFESWkgQPM7vuTI2ZAEFsJz1K78fMMCGCz2Ykwk1bDDbBq4G2zoGyBZ3b6+nUMBzGyJMPZ7V+vhyejqPVYsk0KGULvOsRRvlco1EdEizzYYd1YGVhCsXpVma2cvay4;85qkOaVq5uKBJm/5UVVRFA=="
+secured: "nuJLHrsB/srIU4hFnDpr127/0ywbhoZMyNJxh1ydxmOEvhGBuvocSqv6wBABp878c6bQOHFDs89Sn/AC7WcVPGlOPFKKs7Dmh/JIi40uaA7OQJ++U1+lHpmrwoMj1LqKZ5FAj6AhotAnGoR2smfXoCjJIaLRVcPCH84CwC2kOAPTmaQdDXPDG8CqUwz2llRU972Lq7IUkSMjr4moCCR/MVkgPh6ZI08mj8rsA7pY+AZCgGRQZJky59n6MRIHtYmXYV7nCQFtzcRjaIsXVO2gvroto0I9J7OPIYTodRTrxqjQNGLX1EVL98TWfg0mDP4q8D1I0l8UYhBUKVW7EgmTm7/mfReOk2ht5keO62N2ef0u/HXPaRaN0JBXhJyGz7Q/+3IRTqbHETiniW7BSuHpS/4FxlRyMIQ89cFVYM68r3tdYxvx0Wt3XNI4dk3Ci+AD0f3G7aI7L4NoFdLUqfEfZ++d0lQILyjDKVAEn04lbQ8=;9iw/kBJORiD14YomgiLJdA=="
 ---
 

@@ -25,34 +25,39 @@ images:
     title: "Deep Learning Artificial Intelligence Leader Vyasa Analytics Selected for 2020 MassChallenge HealthTech Accelerator"
 
 related:
-  - title: "AI startup Senseforth.ai selected for OceanPro, Maersk’s startup accelerator"
-    excerpt: "Bangalore, Karnataka, India - Business Wire India: Senseforth.ai, a leader in Conversational AI space, has been selected as part of cohort 3 of OceanPro, Maersk’s startup accelerator within the shipping and logistics industry. Maersk recently announced the launch of cohort 3, which focuses on Maersk’s e-commerce platforms, optimizing the ..."
-    publishedDateTime: 2020-01-29T07:35:00Z
-    webUrl: "https://www.livemint.com/brand-post/ai-startup-senseforth-ai-selected-for-oceanpro-maersk-s-startup-accelerator-11580281683638.html"
-    ampWebUrl: "https://www.livemint.com/brand-post/ai-startup-senseforth-ai-selected-for-oceanpro-maersk-s-startup-accelerator/amp-11580281683638.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/ai-startup-senseforth-ai-selected-for-oceanpro-maersk-s-startup-accelerator/amp-11580281683638.html"
+  - title: "Accelerating Learning Through AI At Cerego And TechStyle"
+    excerpt: "Cerego, an AI-based learning management system, helps fashion retailer TechStyle accelerate learning for call center agents."
+    publishedDateTime: 2020-01-23T16:10:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/"
+    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 54
-    images:
-      - url: "https://images.livemint.com/img/2020/01/29/600x338/senseforth-LM_1580281923747.jpg"
-        width: 599
-        height: 338
-  - title: "AI Startup Senseforth.ai Selected for OceanPro, Maersk’s Startup Accelerator"
-    excerpt: "BANGALORE, India--(BUSINESS WIRE)--Senseforth.ai, a leader in Conversational AI space, has been selected as part of cohort 3 of OceanPro, Maersk’s startup accelerator within the shipping and logistics industry. Maersk recently announced the launch of cohort 3, which focuses on Maersk’s e-commerce platforms, optimizing the brand experience ..."
-    publishedDateTime: 2020-01-28T11:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200128005392/en/"
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+  - title: "Data and Machine Learning Propel Rise of Tech Jobs Through 2023"
+    excerpt: "According to a new analysis by International Data Corp. (IDC), the fastest growing roles in technology over the next five years will be data scientist (13.7 percent growth over that period), machine learning design/development/engineer (13.6 percent growth) and data engineer (12.9 percent growth). In the area of IT and technology, cybersecurity ..."
+    publishedDateTime: 2020-01-23T20:17:00Z
+    webUrl: "https://campustechnology.com/articles/2020/01/23/data-and-machine-learning-propel-rise-of-tech-jobs-through-2023.aspx"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 39
     images:
-      - url: "https://mms.businesswire.com/media/20200128005392/en/769825/23/senseforth_logo_black.jpg"
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
         width: 1200
-        height: 627
+        height: 630
+  - title: "Machine learning and AI in action | TECH(talk)"
+    excerpt: "Artificial intelligence and machine learning are being used even more these days. Listen as InfoWorld’s Serdar Yegulalp and IDG TECHtalk hosts Juliet Beauchamp and Ken Mingis discuss how AI and ML are being used and answer viewers’ questions. You can listen to this podcast episode right now using the player at the top of this page."
+    publishedDateTime: 2020-01-24T16:45:00Z
+    webUrl: "https://www.computerworld.com/article/3516010/machine-learning-and-ai-in-action-techtalk.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 34
 
 secured: "Dt6qQ2dHCgU5bcL9W40BfFRpkfIBM8lJuWxEIJYLvqyMn5ybJ+qdSR5KEkSnKdmnsQNbCVIK5FUu3D4qFsneKkqpE36T4epxa1f+ni25ZzL1yZKAJYM0svYsv2urpRR2UBXc5/h7Z/+ct8ll9K24JOV07AVYmn7E8WZ9aWn+xUMly7Iurfmj7GN1laflilOWKNlqpjutfRHSzzu8qiiwizoazPyyxka2NdR2CkfiK6bUy07ccYZfnrfv5BO+28Y7cNIF1b5q6XBmPjVcvVbA8Q/Vi8QW2B50WRn0BHEs0aLolOu0Bgd7vnOP6IeKzivr;esKhPLd0KGON2wmtgmcGjw=="
 ---

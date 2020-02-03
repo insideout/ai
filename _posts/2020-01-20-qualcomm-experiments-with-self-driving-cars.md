@@ -52,17 +52,6 @@ related:
       - url: "https://images.markets.businessinsider.com/image/5e2b293624306a2d955068f4-2333/mobileye-2020-ces-shashua-5.jpg"
         width: 1024
         height: 768
-  - title: "VW: Fully self-driving cars may never happen"
-    excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
-    publishedDateTime: 2020-01-20T00:04:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
-    ampWebUrl: "https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
-    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 24
 
 secured: "W188wQQA/kMnC/6JIgzK9BAuV7Gw5x/aqTdUuMfqQQHStKGmS7enXYGYK2zKp6QU4btx3wT2G/0Hldu7AKGmKrPn9T2nDqOkJQKA0fsUcasqINbQCHHJ//4eDWCourKP0fp15PUGfETLCTsGLSxTkddTP2w4pIId/JkvWJ3BfbyUUzHUvDP/gv11zyMrEozmu8Gom/x5HB3tf3balcNfTPsDMyxYKtqUYVYhZnhRwhLez1H7AZmsJxpNJt8v6h8V7tS/+i6IzTwp8AlJ/ZF5uFBN6Exx0HSPGFuIKVKoc86JfKaUxa+TD3q0WFtOg+yXG0vKgPN9KIDEL5UPMQXUR5fnhyxZQmcnkw1G8xCW8Xex58DkvBVskkFEUKzuRhr51/XGfkuCZlpwRSKTKwW+x4Yz5JXQrmTASBpdtwYazF+8jXrxma5m3OW6NYiLw4SK2yZ8m+aPlYNEyAj0TUi4zQ==;cB6Yv948uswVI9I790xY5A=="
 ---

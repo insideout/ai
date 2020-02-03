@@ -5,8 +5,8 @@ excerpt: "The industry-first solution is designed to leverage the latest advance
 publishedDateTime: 2020-02-03T15:05:00Z
 webUrl: "https://www.finextra.com/pressarticle/81340/speechmatics-and-soho2-apply-machine-learning-to-analyse-voice-data"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"

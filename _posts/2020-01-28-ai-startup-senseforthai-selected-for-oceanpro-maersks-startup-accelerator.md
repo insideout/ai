@@ -38,19 +38,6 @@ related:
       - url: "https://images.livemint.com/img/2020/01/29/600x338/senseforth-LM_1580281923747.jpg"
         width: 599
         height: 338
-  - title: "Deep Learning Artificial Intelligence Leader Vyasa Analytics Selected for 2020 MassChallenge HealthTech Accelerator"
-    excerpt: "Vyasa Analytics, an innovative provider of highly scalable deep-learning AI analytics software, has been selected to join the 2020 MassChallenge HealthTech program, a startup accelerator that matches later-stage digital health startups with industry experts to accelerate innovation and transform healthcare. Vyasa was selected to join this ..."
-    publishedDateTime: 2020-01-23T14:45:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deep-learning-artificial-intelligence-leader-vyasa-analytics-selected-/2020/01/23/9086094.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
 
 secured: "ah6RuT0upvRToNsGu7fpzBCGz/aVWYr/Jos+J58R3lBD8NjKT7b5143j+dgkoTIGoMqTJKLkDxE+06ZZTw758QCyfFLV7oRZ2Srt4Y8E5y2bf2E99pjz3hgGbAZzBnW8JRcKA2V0nKGpLuABBzvlj7D5svLerqiSkyp4a4thvo4insJovlI1ttmMD/NwXET5A66MsuTo6N0liW+b6dJ1sIHUo2HwO8E+SY02sFhvmDvXIvB4ZVwtjyYiJ6FdKsX7FYzGHeO+7IKmQ0WkA1+dLZridEX/A5RdCPCXqAZinS0wgCHT7ENTW11XKItdfcv8iDRMpNY9YhrKe8rQdCyj2oZAq2eCDUcQx18zH//0VNKU49lDun5z5197DGEP7dZNJSiVi6TTySdkIaX4POOEqAYCdDmBmXRf1rRH0uy7jqQybgosTOlAV+ftaLf38BLfpM+E5zK3Kbvge27Zg1VsjMRaMgyTgMTaaE2kgPQoSD4=;4JGrCFtNny1ATGhkCc41ew=="
 ---

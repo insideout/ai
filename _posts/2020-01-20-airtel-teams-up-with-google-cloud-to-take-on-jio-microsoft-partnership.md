@@ -8,7 +8,7 @@ ampWebUrl: "https://inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Airtel Teams Up With Google Cloud To Take On Jio-Microsoft Partnership"
 
 related:
+  - title: "Microsoft’s Satya Nadella on Empowering Retailers With Technology"
+    excerpt: "At Microsoft's stores in 190 markets, the cloud, predictive analytics, machine learning and cognitive services are used to solve complex challenges with lessons learned passed on to customers."
+    publishedDateTime: 2020-01-15T18:51:00Z
+    webUrl: "https://wwd.com/business-news/technology/microsofts-satya-nadella-on-empowering-retailers-with-technology-1203424736/"
+    type: article
+    provider:
+      name: Women's Wear Daily
+      domain: wwd.com
+    quality: 54
+    images:
+      - url: "https://pmcwwd.files.wordpress.com/2020/01/satya.keynote-21.jpg?crop=0px%2C0px%2C5790px%2C3862px&#038;resize=640%2C415"
+        width: 5790
+        height: 3860
   - title: "Google Cloud and Bharti Airtel partner in echo of Azure and Jio telecoms deal"
     excerpt: "Citing machine learning and infrastructure capabilities ... According to reports, healthcare software provider Epic is opting to move ahead with AWS and Azure as its cloud providers, citing a lack of interest in Google Cloud among its customers. Healthcare, alongside retail and financial services, are the three primary industries Google ..."
     publishedDateTime: 2020-01-21T10:51:00Z

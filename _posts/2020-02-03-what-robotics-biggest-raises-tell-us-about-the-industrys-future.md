@@ -27,6 +27,6 @@ images:
     height: 399
     title: "What robotics’ biggest raises tell us about the industry’s future"
 
-secured: "MSwGCuSH8uZ83+JmFPc7Bj7C/wN7F2kdlbf6+Ofz++rsBRKm6EeOPGPMbRGHEIl7fDjrv6CcHGAqED1aiIz4A9NBnnQo9EwhIgZhnl3BOFTryGQrsx2J+hEcm8xqTHjk7Xtav4XKL1p6QMAgN2NW1GfHoSlS1IrVYHKrpDejLnIMdRMRiKF/111PfzeqF0ASTfGLtWysFNkl4jHocVOnLF/B4jkHvxEctvb88TpnMfS+17D0gQlOCRwmm84GWNi8A3vKJL1KLXF24nDHCgN/k2j/S8ku6rXvxoZXgpVNrg2aaLvCC5Qy1kxDO/u8gB3/;mwhT0NNUNOrpLhbVvd/Xmg=="
+secured: "NL+ZMAbn85/K6q4dJGApgjupuoOYkJTfEN2JYYVrrF+fFYM8fAncVWBBMV0Uzc8eK78OLEs3TLacjUhusT/hvDC19paIdz4NQc0yZEkHSyp/ndDtYRb4sWdk0yuuLuuHSI5e3uPb2cS8/AeTUw/WSJyxbNpfipIZsKGYP1BpF2iV8qG5AhkbAGmV8IGC82+W0590Cm8QjDTl9QafXrt+ovM6NDA7Jf01aACWEjxb24u+jvzfoQCCJhJgXomgHCb6rTksXkwHa45taDQ5j2NPzd1AxB00tDbdhJ1NrTL6wiGK2O1RO4j2XpRYDRHnLCA8sdc9xp5aRMtgNyuMhlQ1+f39+9df7ttfANRvKIcfqluXFz5nRLEUPH0+NP8KbXSnAqnYUemexWoGUTnUAWPV61eEYzPm2ripYS9vlq/GJykemrihgkoeapq+/x/59iYaMFXec1cLuGA95MJhyULdIO6jEVPmKMnH5lc9cetWv6Q=;9b6vbqSRxsX+7LPlngWJFA=="
 ---
 

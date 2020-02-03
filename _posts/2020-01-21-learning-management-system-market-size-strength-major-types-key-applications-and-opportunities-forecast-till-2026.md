@@ -28,86 +28,30 @@ images:
     title: "Learning Management System Market Size, Strength, Major Types, Key Applications and Opportunities Forecast Till 2026"
 
 related:
-  - title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
-    excerpt: "The global machine learning market is projected to grow from $7.3B in 2020 to $30.6B in 2024, attaining a CAGR of 43%"
-    publishedDateTime: 2020-01-19T19:28:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/"
+  - title: "GTCI: AI offers significant opportunities for emerging markets, but skills are scarce"
+    excerpt: "Will the proliferation of AI and machine learning reinforce the worldwide digital divide? It’s one of the questions the Global Talent Competitiveness Index (GTCI) and Global Cities Talent Competitiveness Index (GCTCI) seek to answer by benchmarking the ability of countries and cities to compete for talent. An answer has historically proven ..."
+    publishedDateTime: 2020-01-22T11:30:00Z
+    webUrl: "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/"
+    ampWebUrl: "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24962d8b6cf300071c7301%2F0x0.jpg"
-        width: 854
-        height: 634
-  - title: "Asia-Pacific wearable AI Market: Industry Growth, Market Size, Share and Forecast 2019-2025"
-    excerpt: "Jan 20, 2020 (Heraldkeepers) -- The Asia-Pacific wearable AI market is estimated to grow significantly at a CAGR of more than 29% during the forecast period. The economies that are contributing to the market growth in the region include China, India ..."
-    publishedDateTime: 2020-01-20T12:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-wearable-ai-market-industry-growth-market-size-share-and-forecast-2019-2025-2020-01-20?mod=mw_quote_news"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/robot-on-computer.jpg?fit=1198%2C599&strip=all"
+        width: 1198
+        height: 599
+  - title: "Edge AI Hardware Market : Emerging Trends, Regional Segmentation, Opportunities, Growth and Forecast to 2026"
+    excerpt: "The smartphones segment is dominating the market in 2018 in 2018. Dedicated AI chip or AI processors were one of the major developments in the smartphone technology last year. Growing demand for real-time speech and voice recognition and analysis, as well as technical advancements in smartphone image recognition is driving the market for AI ..."
+    publishedDateTime: 2020-01-22T06:23:00Z
+    webUrl: "https://www.techworld.com.au/mediareleases/37790/edge-ai-hardware-market-emerging-trends-regional/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Image Recognition Market Will Grow at a CAGR of 19.6% During Forecast Period."
-    excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026.with a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-20T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-will-grow-at-a-cagr-of-196-during-forecast-period-2020-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Indian Wearable AI Market: Industry Trends, Market Size, Competitive Analysis and Forecast – 2019-2025"
-    excerpt: "Indian Wearable AI market is estimated to grow significantly at a CAGR of 33.3% during the forecast period. India is one of the fastest emerging economies for wearable AI in the Asia-Pacific. The growth of the market in the region is attributed to the adoption of various government policies to drive AI innovation,"
-    publishedDateTime: 2020-01-20T11:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/indian-wearable-ai-market-industry-trends-market-size-competitive-analysis-and-forecast-2019-2025-2020-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Cyber Security Market 2020 By Revenue, Price, Gross Margin, Production Capacity Estimates and Forecasts to 2026"
-    excerpt: "Global Artificial Intelligence (AI) in Cyber Security Industry research report studies latest Artificial Intelligence (AI) in Cyber Security aspects market size, share, trends, industry summary and Artificial Intelligence (AI) in Cyber Security growth during the forecast period (2020-2024)."
-    publishedDateTime: 2020-01-22T12:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2020-by-revenue-price-gross-margin-production-capacity-estimates-and-forecasts-to-2026-2020-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Learning as a Service Market 2020 Overview, Latest Analysis and Future Forecast By 2025 – Market Research Engine"
-    excerpt: "New York, January 22, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
-    publishedDateTime: 2020-01-22T04:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-overview-latest-analysis-and-future-forecast-by-2025-market-research-engine-2020-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
 
 secured: "8q5CIrPnzKdDKSTst3U3tt4ad8kbyAN5GHr0A70Loo3/W3rVcyvj+W9kKGBZYWnAOoOCzeP02Elzk/Yu+XMwMvrSHf9PqMH9TmfbweUWjpIzJJqHpmidYcKtMfKX3pF1HwqNQ9jZAXifEoFsM7dgOCx5Tg05vkFOmFqgxtiXUCeUCt+RWWV48pTB4APBqfYC/TbN0ervFnC7XWrwkfgHrW7PKYSZtKWFQBTy7aSIJziQYsBHUuTxNM8p8vwwnUmnUj+SwIqg0WnbkQDR9dPyJP2YR3VMaE/fT5eonFjcMdY=;NOvk//Jw1jmRxRT1A6jTEQ=="
 ---

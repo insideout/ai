@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Indian Wearable AI Market: Industry Trends, Market Size, Competitive Analysis and Forecast – 2019-2025"
+    excerpt: "Indian Wearable AI market is estimated to grow significantly at a CAGR of 33.3% during the forecast period. India is one of the fastest emerging economies for wearable AI in the Asia-Pacific. The growth of the market in the region is attributed to the adoption of various government policies to drive AI innovation,"
+    publishedDateTime: 2020-01-20T11:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/indian-wearable-ai-market-industry-trends-market-size-competitive-analysis-and-forecast-2019-2025-2020-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "4EIkZFZg18G/XDzCwv5JgDdL5/7HdAiCpeqTUZ28O/3tepWyF2zqm6sRmlb6lvxPgLL0OY0iVVmzNercwq2U2C/F2xdZQ3Sa7/v6q1aUEJXLxAD/FJ1BH9Lnem9R4KyIej1Jxa6HNFlkX40o6lxP7qjNq2qtz2C0AcILADqVadE0FAAoWpFDBsTpCCTZ941m2uv7aydyi6pYyD3RzG/7ycVry6tjA2eRDn58kIjBfe8VTo96OVd+uBV8ZlvX2/x1KnhuPc8Xion70y9YLRDIzmQkN+YKJzpu+tHBOBAUIbY=;tMn+Mb5IcAjQEj1jdauJjw=="
 ---
