@@ -4,6 +4,7 @@
     "heat": {{ page.heat | default: 0 }},
     "name": {{ page.name | jsonify }},
     "bio": {{ page.bio | strip_html | normalize_whitespace | strip | jsonify }},
+    "content": {{ content | jsonify }},
     "location": {{ page.location | jsonify }},
     {% if page.website -%}
     "website": "{{ page.website | absolute_url }}",

@@ -23,7 +23,7 @@ permalink: /:year/:month/:day/:title/
 # Default settings of posts
 default_post_settings: &default_post_settings
   layout: post
-  permalink: /api/:categories/:year/:month/:day/:title/
+  permalink: /api/:categories/:year/:month/:day/:title/index.json
   deleted: false
   related: true
 
@@ -39,7 +39,7 @@ pagination:
 default_learning_settings: &default_learning_settings
   layout: post
   category: learning
-  permalink: /api/learning/:path/
+  permalink: /api/learning/:path/index.json
   deleted: false
 
 
@@ -51,7 +51,7 @@ default_learning_settings: &default_learning_settings
 default_project_settings: &default_project_settings
   layout: post
   category: project
-  permalink: /api/projects/:path/
+  permalink: /api/projects/:path/index.json
   deleted: false
 
 
@@ -63,7 +63,7 @@ default_project_settings: &default_project_settings
 default_company_settings: &default_company_settings
   layout: post
   category: company
-  permalink: /api/companies/:path/
+  permalink: /api/companies/:path/index.json
   deleted: false
 
 
@@ -75,7 +75,7 @@ default_company_settings: &default_company_settings
 default_people_settings: &default_people_settings
   layout: post
   category: people
-  permalink: /api/people/:path/
+  permalink: /api/people/:path/index.json
   type: profile
   deleted: false
 
@@ -88,7 +88,7 @@ default_people_settings: &default_people_settings
 default_event_settings: &default_event_settings
   layout: post
   category: event
-  permalink: /api/events/:path/
+  permalink: /api/events/:path/index.json
   deleted: false
 
 
@@ -100,7 +100,7 @@ default_event_settings: &default_event_settings
 default_newsletter_settings: &default_newsletter_settings
   layout: post
   category: newsletter
-  permalink: /api/newsletters/:path/
+  permalink: /api/newsletters/:path/index.json
   deleted: false
 
 

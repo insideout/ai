@@ -2,6 +2,7 @@
     "path": {{ page.path | jsonify }},
     "name": {{ page.name | jsonify }},
     "excerpt": {{ page.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
+    "content": {{ content | jsonify }},
     "type": {{ page.type | jsonify }},
     "website": "{{ page.website | absolute_url }}",
     {% if page.demo -%}
