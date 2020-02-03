@@ -40,7 +40,7 @@
             "path": {{ item.path | jsonify }},
             "type": {{ item.type | jsonify }},
             "sourceUrl": "{{ item.url | absolute_url }}",
-            "webUrl": "{{ site.webUrl }}{{ item.id | replace: '/api/companies/','/web/companies?id=' }}",
+            "webUrl": "{{ site.webUrl }}{{ item.path | replace: '_companies/','/companies?id=' | replace: '.md','' }}",
             "heat": {{ item.heat | default: 0 }},
             {% if item.type == "profile" -%}
             "name": {{ item.name | jsonify }},
@@ -96,7 +96,7 @@
                     "type": {{ child_item.type | jsonify }},
                     "name": {{ child_item.name | jsonify }},
                     "sourceUrl": "{{ child_item.url | absolute_url }}",
-                    "webUrl": "{{ site.webUrl }}{{ child_item.id | replace: '/api/companies/','/web/companies?id=' }}",
+                    "webUrl": "{{ site.webUrl }}{{ child_item.path | replace: '_companies/','/companies?id=' | replace: '.md','' }}",
                     "overview": {{ child_item.overview | strip_html | normalize_whitespace | strip | jsonify }},
                     "locations": {{ child_item.locations | jsonify }},
                     "heat": {{ child_item.heat | default: 0 }},

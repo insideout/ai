@@ -19,7 +19,7 @@
             "excerpt": {{ project.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
             "type": {{ project.type | jsonify }},
             "sourceUrl": "{{ project.url | absolute_url }}",
-            "webUrl": "{{ site.webUrl }}{{ project.id | replace: '/api/projects/','/web/projects?id=' }}",
+            "webUrl": "{{ site.webUrl }}{{ project.path | replace: '_projects/','/projects?id=' | replace: '.md','' }}",
             "website": "{{ project.website | absolute_url }}",
             {% if project.demo -%}
             "demo": {
