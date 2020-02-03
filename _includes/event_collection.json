@@ -58,6 +58,7 @@
             "sourceUrl": "{{ item.url | absolute_url }}",
             "heat": {{ item.heat | default: 0 }},
             {% if item.type != "collection" -%}
+            "webUrl": "{{ item.website | absolute_url }}",
             "name": {{ item.name | jsonify }},
             "excerpt": {{ item.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
             {% if item.website -%}
@@ -67,6 +68,7 @@
             "endDateTime": {{ item.endDateTime | jsonify }},
             "location": {{ item.location | jsonify }},
             {% else -%}
+            "webUrl": "{{ site.webUrl }}{{ item.path | replace: '_events/','/events?id=' | replace: '.md','' }}",
             "title": {{ item.title | jsonify }},
             "excerpt": {{ item.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
             "topItems": [
@@ -90,6 +92,11 @@
                     "path": {{ child_item.path | jsonify }},
                     "type": {{ child_item.type | jsonify }},
                     "sourceUrl": "{{ child_item.url | absolute_url }}",
+                    {% if child_item.type == "collection" -%}
+                    "webUrl": "{{ site.webUrl }}{{ child_item.path | replace: '_events/','/events?id=' | replace: '.md','' }}",
+                    {% else -%}
+                    "webUrl": "{{ child_item.website | absolute_url }}",
+                    {% endif -%}
                     "heat": {{ child_item.heat | default: 0 }},
                     "name": {{ child_item.name | jsonify }},
                     "excerpt": {{ child_item.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
