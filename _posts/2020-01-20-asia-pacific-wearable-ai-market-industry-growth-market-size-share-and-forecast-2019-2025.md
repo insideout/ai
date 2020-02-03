@@ -27,56 +27,67 @@ images:
     title: "Asia-Pacific wearable AI Market: Industry Growth, Market Size, Share and Forecast 2019-2025"
 
 related:
-  - title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
-    excerpt: "The global machine learning market is projected to grow from $7.3B in 2020 to $30.6B in 2024, attaining a CAGR of 43%"
-    publishedDateTime: 2020-01-19T19:28:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24962d8b6cf300071c7301%2F0x0.jpg"
-        width: 854
-        height: 634
-  - title: "Image Recognition Market Will Grow at a CAGR of 19.6% During Forecast Period."
-    excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026.with a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-20T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-will-grow-at-a-cagr-of-196-during-forecast-period-2020-01-20"
+  - title: "Artificial Intelligence Robots Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
+    publishedDateTime: 2020-01-21T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Indian Wearable AI Market: Industry Trends, Market Size, Competitive Analysis and Forecast – 2019-2025"
-    excerpt: "Indian Wearable AI market is estimated to grow significantly at a CAGR of 33.3% during the forecast period. India is one of the fastest emerging economies for wearable AI in the Asia-Pacific. The growth of the market in the region is attributed to the adoption of various government policies to drive AI innovation,"
-    publishedDateTime: 2020-01-20T11:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/indian-wearable-ai-market-industry-trends-market-size-competitive-analysis-and-forecast-2019-2025-2020-01-20"
+  - title: "Deep Learning Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "New York, January 21, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
+    publishedDateTime: 2020-01-21T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Cyber Security Market 2020 By Revenue, Price, Gross Margin, Production Capacity Estimates and Forecasts to 2026"
-    excerpt: "Global Artificial Intelligence (AI) in Cyber Security Industry research report studies latest Artificial Intelligence (AI) in Cyber Security aspects market size, share, trends, industry summary and Artificial Intelligence (AI) in Cyber Security growth during the forecast period (2020-2024)."
-    publishedDateTime: 2020-01-22T12:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2020-by-revenue-price-gross-margin-production-capacity-estimates-and-forecasts-to-2026-2020-01-22"
+  - title: "Wearable AI Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "New York, January 21, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Wearable AI market share. Major industry players with significant revenue share include Google,"
+    publishedDateTime: 2020-01-21T03:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp IBM,"
+    publishedDateTime: 2020-01-21T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Neural Network Software Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "New York, January 22, 2020: The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software,"
+    publishedDateTime: 2020-01-22T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -94,19 +105,98 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Learning Management System Market Size, Strength, Major Types, Key Applications and Opportunities Forecast Till 2026"
-    excerpt: "Top Players in Learning Management System Market are D2L Corporation, CrossKnowledge, IBM Corporation, Edmodo, Cornerstone, McGraw-Hill Education, Saba Software, Inc., Upside Learning Solutions, Oracle Corporation,"
-    publishedDateTime: 2020-01-21T10:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/learning-management-system-market-size-strength-major-types-key-applications-and-opportunities-forecast-till-2026-2020-01-21"
+  - title: "Artificial Intelligence Chipsets Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
+    publishedDateTime: 2020-01-21T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21-21752033"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Automotive Artificial Intelligence Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026"
+    excerpt: "Automotive Artificial Intelligence Market 2020 Wiseguyreports.Com Adds \"Automotive Artificial Intelligence-"
+    publishedDateTime: 2020-01-20T08:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026-2020-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market Opportunities, Challenges, Risks and Influences Factors Analysis to Reach CAGR of 47.77% in 2023"
+    excerpt: "Artificial Intelligence Industry 2020 Global Market research report studies latest Artificial Intelligence industry aspects market size, share, trends, growth, business overview and Artificial Intelligence industry scenario during the forecast period (2020-2023)."
+    publishedDateTime: 2020-01-27T17:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-opportunities-challenges-risks-and-influences-factors-analysis-to-reach-cagr-of-4777-in-2023-2020-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
+    excerpt: "The global artificial intelligence chip market is bifurcated on the basis of the segment into the Data Centre and Edge.Based on type, the AI chip market is segmented into CPU, GPU, ASIC, FPGA, and others. The others section include SoC Accelerators and other application specific custom & hybrid chips.Based on industry vertical, the artificial ..."
+    publishedDateTime: 2020-01-21T15:19:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-chip-market-2027-global-analysis-forecasts-/2020/01/21/9084575.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
+  - title: "Automated Material Handling Equipment Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence,"
+    publishedDateTime: 2020-01-21T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Aviation Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results. AI in aviation will kind the data and supply the pilot with the most effective doable choices for operation,"
+    publishedDateTime: 2020-01-21T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    excerpt: "New York, January 21, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
+    publishedDateTime: 2020-01-21T04:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
+  - title: "Self-Driving Truck Market: 2019 Industry Analysis, Size, Trends, Growth and Forecast 2025 | BMW AG, Isuzu Motors Limited, General Motors"
+    excerpt: "Global Self-Driving Truck Market Report covers analysis of Manufacturers, Type, Application, Marketing Strategy, Distributors/Traders, Effect Factors, Trends 2019 & Forecasts 2025 Self-driving truck is also known as autonomous truck and robotic truck. Self-driving trucks feature all the major competencies of traditional trucks. Further ..."
+    publishedDateTime: 2020-01-21T12:39:00Z
+    webUrl: "https://www.techworld.com.au/mediareleases/37759/self-driving-truck-market-2019-industry-analysis/"
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
 
 secured: "KUX4yC40u4ZSJ2XlDRlm+qpd0xUxpd62Svun6s5DFYfnLsooGbIcs+RtY6e0T4TA24ClJhXYC1VTL0L4ZRRK0j5Gu0+EyaT/87L5oojM+glDlxlmvQ0B7vJPdUIQiYc0SLqB7IOQrKD0sLb1BRu1DA6bjWAIQ5wmYJRzxYcFr4qnkUbRta0mS0j3hU8iinZVw2ARAsto426A4C+JbKqMRpA1hpoKnBSQjbb0c/Lqf39UVeRa6CQvFaLWSutaOQciOR+oWTenwZi/feRHb7FL9aGpttQioPUsKvUHgQXIjgU=;0njt+oXThGjNoFv7Dbce3A=="
 ---

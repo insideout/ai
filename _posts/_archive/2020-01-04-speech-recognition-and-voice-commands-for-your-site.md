@@ -27,6 +27,6 @@ images:
     height: 564
     title: "Speech recognition and voice commands for your site"
 
-secured: "SOgAEKyx5OwapkA9Fw1EaXOR2O7B7MyNOX0thgeR6wDA8XFMwT6djXdWZlEBLreszwGp9pngj1fVFFf2M70CkwHLuFjJ3E/mVRGG/hUDOq7peX76E4D/DWTrCgJ6iWs6sG61dRE7UYw/sZnNNshcLOug8EKcXY+kSBsdszxKcsrVY7nDIvnoHHSAFBRAdCVBDEfokIEt+Y8icxiOTjH8MT5Qgl9fpCCWk4bTcdVwo1x+jd61v+rPALWaqJY6PGTMqnqIP7VsY0pOXIx1dk05rn2NewzJ+FnzLFF6MRf5Ho5rcmQlN6ihf0aL6/FD+mrK;LO5uS5hJCgvM3oq2mPWHDg=="
+secured: "SZvtdHpD1WmxzS+saXIS/a4YqdMNHPvGqCEwkRi/tXAVa14uxyI1EC0KZ16Evs6NTNrYiTW9FvkUXX0lgMNCrqo7PsmC1NSse7Q6lFi40pG1IOhxVElbegQKEePCk4RyhMLwF2OLpmDLo80fmMEZzEhGk6yvzpnW+NDUtqZNtC7TP2kFM3g25x4z6P63M4da1AGeC64cGPEo0tB1cXjh8vhM9QNgaCUNqm5X46z9//ajATPevjafH9mmk7imlV0hepjwzS4TWXyEbIYz3HdrWQXwKnO5oKHNj5kRcPoTRRf+Z1JtjzmXse0GV+weqEaw;U32LwjKZtU3dNIMyjMYMHA=="
 ---
 

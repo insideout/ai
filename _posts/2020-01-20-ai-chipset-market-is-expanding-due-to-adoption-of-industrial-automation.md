@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/15149083"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -40,19 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Intelligent Automation Benefits Across Businesses: Industry Implementation and Key Market Players"
-    excerpt: "Such technologies provide a structured output with enhanced productivity. Additionally, IA being an evolved version of automation mimics human actions and possess cognitive capabilities, including natural language processing, speech recognition, computer vision technology, and machine learning to comprehend the vast amount of structured and ..."
-    publishedDateTime: 2020-01-19T13:36:00Z
-    webUrl: "https://www.analyticsinsight.net/intelligent-automation-benefits-across-businesses-industry-implementation-and-key-market-players/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 11
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/Intelligent-Automation-Benefits-Across-Businesses.png"
-        width: 1634
-        height: 918
   - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
     excerpt: "NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota are some of the key players operating in the global automotive artificial intelligence market."
     publishedDateTime: 2020-01-20T10:41:00Z

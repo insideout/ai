@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-24T21:06:00Z
 webUrl: "https://cornellsun.com/2020/01/24/forbes-30-under-30-recognizes-alumni-for-innovations-in-healthcare/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 1170
     height: 658
     title: "Forbes 30 Under 30 Recognizes Alumni for Innovations in Healthcare"
-
-related:
-  - title: "The transformation role of APIs in healthcare"
-    excerpt: "As the industry seeks to offer patient-centric healthcare, its key growth drivers—including affordable insurance, telemedicine, remote diagnostics, and medical tourism—are often accelerated by digital transformation (DX) technologies. These technologies include cloud computing, IoT, artificial intelligence, mobility, and analytics ..."
-    publishedDateTime: 2020-01-20T03:30:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
 
 secured: "b+t+6Tl/yZWsPCwxCFkfvzmjQHaZ8SBFaIzM6refUa9nzyDBhPRb5ha5QEoomg/DtPzv+PJwaWKVOJYkJdGE7qsKkLa4B03j61tp5v2AsYTtIwaJdBFLb+usmzY/srEhUI0A3dn3LBYfW4GC1jpltyECACAzRb6qp0QGs0eyS/3VtUvWdEn6khgDeF8qEmSs8ywqRw4afPIiIlt5xT1A1tVPsztf6d5VJBgthq12h3FRiU2go4zFGO5//dHpEAO3RFI+aJ69IIZbpDb0UyEY83frD3oXeLOYJTTQK6KVBfjoZhQdO3Ey2kAsxxKZb2xsAHonvHNOZh28M/MD0oXS9y4OSi6gssX/o/rbhjLrt8N4cVyz7ub2tl7JRlgEgyyxhxbOUmeDXKZFtYXxvglG+XcFQPP//flznZYwJGGnq/ci/8QeHDWgxw78pI7IeoPVoLyeHd9QoXoojG/Rzo6HFjjYcO1R++4JS/Ud8hKOfvI=;tPKtX3b8wba/cJbCjDK3+w=="
 ---

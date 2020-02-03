@@ -25,6 +25,6 @@ images:
     height: 248
     title: "HPE keeps financial firms compliant with analytics"
 
-secured: "1pGNmLFrR1+I8y9yiA87LxMSXPw/fXm1eEIMssS4EuCIPJkaxn7+ZEgbkUAOglXpp8w/JXlanlPvU0wf5clG8Gpjpr81FPo3Q8iNt3nROZ4WZ9dwHrIYetTpjem6PnDdfoOUJ/HIsWWB0yN06mm6H2ah+KHj1jJPy/GCw556rmY6BOFX1n6v/OOhLLJSmlyerN4J5np/PSDxnG5o12SqYRmKczx6Luf/B5cWqQSk98ZJ5+vv0EMM4qnweYr/xCZqekJjGdmB8OoRU7cQB5Br+QVBg6gnmHFmBLNf4+x4Xvz933hsQcGaw/LmGPtouAet;y5+EUbQcGMGjTq5BoWH3Kw=="
+secured: "zXUk5+ZWAytHyvP6QffFpvCmNO6Esy0jxzIFFh3u9fPQl67qJU98YO3h6mNO64DdJyRwThMwGyxtyr+LDNRVcHEs+SsUbi1WhgDOzKmOzrN1NZW/71YY+aP92I99YPCkzhjdj6OpFLTKp/zAC+Sf57nveKEihZTFSTvupEfL8jwyyWieaWwdQhSYA7NRSfCizdTtQMBhzABRJqiVdYEFZP1gctC8JWCKptUri2eAA3Ljq080ov+/4mN84jqOcvCNdSRLwshIpvEg8yAjx3ilfLICrHaABmp/ZCkQNSUsVdJyoZW83kxjDGO6KrNqcc3w5tjtwVEfiDsQyJeKAR+jupCun+/+T4e/b0S7PUN9R6yMQpkmhiW5Y5F3M/e3nI4UvSnZc7Gva9OCKyB8mO3VTHuMqhbjdO07AZpxA6q6tLw1BKTFYbPSFxTKMlxjAYMpt1szC8P1afnW/hoCv9xVqcdsfjyqwg9zHTios+GDgGE=;VjFsCFjFzf3+0MCYWzK1gg=="
 ---
 

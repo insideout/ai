@@ -36,6 +36,17 @@ related:
       name: The News Minute
       domain: thenewsminute.com
     quality: 32
+  - title: "Experts Highlight New Technologies to Shape Businesses in 2020"
+    excerpt: "This means that more people will embrace the applications in the year. 5G mobile technology has the potential to accelerate the application of artificial intelligence (AI) across industries, leading to advances in driverless cars, smart cities, telemedicine, and the Internet of Things (IoT), as per BlackRock Investment Institute. Pundits ..."
+    publishedDateTime: 2020-01-25T00:38:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2020/01/25/experts-highlight-new-technologies-to-shape-businesses-in-2020/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2020/01/25/experts-highlight-new-technologies-to-shape-businesses-in-2020/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/01/25/experts-highlight-new-technologies-to-shape-businesses-in-2020/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 24
   - title: "Patchwork of self-driving laws limiting autonomous truck innovations"
     excerpt: "Self-driving trucks could change how freight moves across the United States. But with a slow-moving federal government and a patchwork of local laws regulating autonomous truck testing, that future is far from seamless, according to a recent study by the American Transportation Research Institute (ATRI). The government rules created to support ..."
     publishedDateTime: 2020-02-03T13:55:00Z

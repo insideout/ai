@@ -29,6 +29,17 @@ related:
       name: The News Minute
       domain: thenewsminute.com
     quality: 32
+  - title: "Experts Highlight New Technologies to Shape Businesses in 2020"
+    excerpt: "This means that more people will embrace the applications in the year. 5G mobile technology has the potential to accelerate the application of artificial intelligence (AI) across industries, leading to advances in driverless cars, smart cities, telemedicine, and the Internet of Things (IoT), as per BlackRock Investment Institute. Pundits ..."
+    publishedDateTime: 2020-01-25T00:38:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2020/01/25/experts-highlight-new-technologies-to-shape-businesses-in-2020/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2020/01/25/experts-highlight-new-technologies-to-shape-businesses-in-2020/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/01/25/experts-highlight-new-technologies-to-shape-businesses-in-2020/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 24
   - title: "Kashyap Kompella, CFA: Delivering Innovative and Sustainable Business Growth Through Enterprise Automation and AI"
     excerpt: "RPA2AI also serves as an on-demand Chief AI Officer for large organizations and advises on their enterprise AI strategy, AI ethics, implementation roadmap, technology selection, and change management. The company also started working with national and regional governments and industry bodies to create AI policies that sustain business growth ..."
     publishedDateTime: 2020-01-30T10:47:00Z

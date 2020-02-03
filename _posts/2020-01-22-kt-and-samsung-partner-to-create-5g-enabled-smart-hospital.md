@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T14:16:00Z
 webUrl: "https://electronics360.globalspec.com/article/14581/kt-and-samsung-partner-to-create-5g-enabled-smart-hospital"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     title: "KT and Samsung partner to create 5G-enabled smart hospital"
 
 related:
-  - title: "KT and Samsung Medical Center to Build 5G Smart Hospital"
-    excerpt: "World's First Application of 5G Technology in Medical Practice Sync Cams Share Real-Time HD Video Footage of Surgery for Teaching 5G Network Base Made Secure for Medical Service Development Enterprise-Dedicated 5G Network Protects Private Medical Info from Hacking For the pilot project,"
-    publishedDateTime: 2020-01-20T04:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/n15148424/kt-and-samsung-medical-center-to-build-5g-smart-hospital"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15148424"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15148424"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://mma.prnewswire.com/media/1079015/KT_Photo__Smart_Hospital.jpg"
-        width: 266
-        height: 400
   - title: "KT, Samsung to build 5G smart hospital"
     excerpt: "These services include digital diagnostic pathology, access to proton therapy information, teaching surgery, an artificial intelligence-enabled care for in-patients, and an autonomous robot for an operating room. KT also reports it has developed a 5G-assisted education programme in cooperation with the Samsung Medical Center. The programme aims ..."
     publishedDateTime: 2020-01-21T11:08:00Z

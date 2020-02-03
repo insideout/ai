@@ -35,21 +35,6 @@ related:
       - url: "https://media.wired.com/photos/5e2a1bb2123c60000827363b/master/pass/ai-scraping-88622242.jpg"
         width: 2400
         height: 1350
-  - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
-    excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
-    publishedDateTime: 2020-01-19T20:50:00Z
-    webUrl: "https://www.mcall.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html"
-    ampWebUrl: "https://www.mcall.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 56
-    images:
-      - url: "https://www.mcall.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg"
-        width: 1200
-        height: 800
   - title: "Class-action lawsuit filed against controversial Clearview AI startup"
     excerpt: "A lawsuit -- seeking class-action status -- was filed this week in Illinois against Clearview AI, a New York-based startup that has scraped social media networks for people's photos and created one of the biggest facial recognition databases in the world. The secretive startup was exposed last week in an explosive New York Times report which ..."
     publishedDateTime: 2020-01-24T17:05:00Z
@@ -59,28 +44,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "Clearview AI: The company that might end privacy as we know it"
-    excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person along with links to where those photos appeared. The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ..."
-    publishedDateTime: 2020-01-19T18:16:00Z
-    webUrl: "https://tech.economictimes.indiatimes.com/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683"
-    ampWebUrl: "https://tech.economictimes.indiatimes.com/amp/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683"
-    cdnAmpWebUrl: "https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 37
-  - title: "Clearview AI: The company that might end privacy as we know it"
-    excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person along with links to where those photos appeared. The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ..."
-    publishedDateTime: 2020-01-20T03:34:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/enterprise-services-and-applications/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73412574"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/enterprise-services-and-applications/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73412574"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/enterprise-services-and-applications/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73412574"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 37
 
 secured: "2TAO3COY6eohmXDe6jPGgRT7dKunK4EZMxoGPo/nsr4wD5udxBNrnnQCRkdvr+BCFiiZp5/TpdW+iF0gNiDyqDQZr9LmWPDWWmlc5AuuP4aMDVVTxgp7HmRPpmRGt/4mwrL/89Lal3/tAqnR/b/NeqVEsfEVGdDlFBJ/dvxDY1ELX+3GxYVKZS6oqJLqJiR7eGlPITzunbLy7OtCZs/jlte6Inj/Lhg1K2CCAcEjHDI3BrY9Vnd56xUdr2/LZoRScnhbvMqkH2qCwMt59+yMNArZWIpP7XlB+2IlgbHNsEYfkiZF/C94vDSOGjMe2OcI9ABWml4iHsew31jlqJZSquo0mg1mcQI4beYwdBubU8LCGGyR+LxoA5+ZXV1h5BfNGDX2HUd4l7iZ8BnXb3B+btj4gXG2McgG87Vs89pb47Rl8P4w5RcwBfzVSz0yYzw02FnwUNvrqGfuYYsI3v8TpptVvUZFR9m9WkoBccyuF6M=;Z83vztehXWSMDsMqR417ZQ=="
 ---

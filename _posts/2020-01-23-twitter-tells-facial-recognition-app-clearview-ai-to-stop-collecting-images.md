@@ -333,21 +333,6 @@ related:
       - url: "https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/h3znpz9affmqxjtkm8a1.jpg"
         width: 394
         height: 222
-  - title: "Las Vegas police use facial recognition to arrest assault suspect"
-    excerpt: "Las Vegas police used facial recognition technology to identify a man suspected of punching another at a car show in November, fracturing the victim’s skull, according to an arrest warrant. Ernesto Cortez, 38, was arrested Jan. 8 and charged with battery resulting in substantial bodily harm, court records show. The Metropolitan Police ..."
-    publishedDateTime: 2020-01-19T17:04:00Z
-    webUrl: "https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/"
-    ampWebUrl: "https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 59
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2020/01/13262413_web1_ccdcweb.jpg?w=600"
-        width: 600
-        height: 400
   - title: "Google boss calls for temporary ban on facial recognition technology"
     excerpt: "Google chief executive Sundar Pichai has lent his support to a proposed temporary EU ban on facial recognition technology, over concerns it could be misused. “I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,” said Pichai at a conference in Brussels today. The statement ..."
     publishedDateTime: 2020-01-20T18:05:00Z
@@ -781,17 +766,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sundar_pichai_google_2018_2.jpg"
         width: 800
         height: 500
-  - title: "Privacy concerns over facial recognition technology"
-    excerpt: "The privacy professional community worldwide is divided about facial recognition and how, as a society, we should tackle this exceptional technology. Here in Australia, too, we are asking: Do we ban it? Limit it to prescribed applications? Regulate it? The revelation that Australian entrepreneur Hoan Ton-That's facial recognition app Clearview ..."
-    publishedDateTime: 2020-01-20T04:45:00Z
-    webUrl: "https://www.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html"
-    ampWebUrl: "https://amp.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 39
   - title: "Google Chief Calls For Suspension Of Facial Recognition Technology"
     excerpt: "The head of Google is reportedly calling for a temporary block on the use of facial recognition technology until government officials weigh in with new rules. “Facial recognition is fraught with risks,” Alphabet and Google CEO Sundar Pichai said at a conference in Brussels, according to Reuters. “I think it is important that dominant ..."
     publishedDateTime: 2020-01-22T20:25:00Z
@@ -949,21 +923,6 @@ related:
       name: Lifehacker
       domain: lifehacker.com
     quality: 11
-  - title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
-    excerpt: "A facial-recognition startup is being used by hundreds of law enforcement agencies in the US to solve crimes, but little is known about the software, particularly among the law enforcement community, according to a Saturday report. Per The New York Times, the software – Clearview AI – is a collaboration between Hoan Ton-That, an Australian ..."
-    publishedDateTime: 2020-01-19T23:18:00Z
-    webUrl: "https://www.businessinsider.com.au/clearwater-ai-2020-1"
-    ampWebUrl: "https://www.businessinsider.com.au/clearwater-ai-2020-1/amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/clearwater-ai-2020-1/amp"
-    type: article
-    provider:
-      name: Business Insider Australia
-      domain: businessinsider.com.au
-    quality: 7
-    images:
-      - url: "https://edge.alluremedia.com.au/uploads/businessinsider/2020/01/Facebook-logo.jpg"
-        width: 800
-        height: 462
   - title: "Facial-recognition technology stokes privacy concerns"
     excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
     publishedDateTime: 2020-01-23T19:31:00Z

@@ -41,6 +41,21 @@ related:
       - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+  - title: "Massachusetts Communities Remain Leery of Facial Recognition"
+    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-03T21:46:00Z
+    webUrl: "https://www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
+        width: 1119
+        height: 630
   - title: "Chicago police: Facial recognition adds “jet fuel” for criminal investigations"
     excerpt: "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ..."
     publishedDateTime: 2020-01-31T20:56:00Z
@@ -146,6 +161,6 @@ related:
       domain: fox5ny.com
     quality: 4
 
-secured: "sfxUAcNj1UZtokvPTvSMM0sXu/cJbpdMKx5VJWBpwYEdnZ0PIdnT9DauMaaMQhKH9I6c2leB1/dljn8FbxH0UQxKx5BtPkdwUzvH8pKXhgxhS6Ew8euiSVDXsRXUcJ+y4At5bhm7OQeQDHWGsvpzREHVJShDLtEQ6Sh4bvkcrT+SwFeVAM7aAtL9dc//WHyiS8SlLJ0vKimevrIZ/itVrS1ksz58aYxCyyT2zuDdu4XGCLsFQh4f8KU/QrSVBWRBwUPFs2nPvoI7B0yrx42kxQwSwOIkPfpnjYfmDZH90q/Xf7tcPTrjZbtQ3iY8RXtM;LzkiJ+VL+eN0E1Tiy2ZDBw=="
+secured: "uwtTudjmOoIaigc+KnYFyUj1E8rzL7YJdwmC7dB/vkB2Dmoeg+NlLb/6ex1RNJbEtRerRQsbNGW4MVqaT5qduDEPF4k9Ua5vew9ELikNgfz9wQU1IcSzm7+xRUvTG1Wyy1n7av7eQWuErgYgWTXfUMI5jIAcXHGw0/iK3+yW1XupIHDFejJjlipOdDIWon2RpdcL19Uo+gI3715n9yEYfcYCP/lJdWcpcNakxeGtHrvJuG5jf7PgUX+TBByR8YmuUVF7vgUxpSbEBZbC8o4ROZ23W00iiNDNC2Gm0hYH4cHUYI0wDEOtI5YqGx/+TQhCOytVZ1I/bz3aPdzh/MSvpeF9yzD/5wbkXEjheDUbtjoopsOIKhQD1FPTUCgxgFZIul/bRpILGLB6jgz462ZeCFHDIzh00rJiqT9dlxOZfyRiZKu5pVzONUs10VqEJGHxBafCzPjml0K5YM0NxXscmIL3UKN21aYQr2nkYrVUo44=;vSv1ri6bnHKS1d75knNTkQ=="
 ---
 

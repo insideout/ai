@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opport
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "GTCI: AI offers significant opportunities for emerging markets, but skills are scarce"
 
 related:
+  - title: "Learning Management System Market Size, Strength, Major Types, Key Applications and Opportunities Forecast Till 2026"
+    excerpt: "Top Players in Learning Management System Market are D2L Corporation, CrossKnowledge, IBM Corporation, Edmodo, Cornerstone, McGraw-Hill Education, Saba Software, Inc., Upside Learning Solutions, Oracle Corporation,"
+    publishedDateTime: 2020-01-21T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/learning-management-system-market-size-strength-major-types-key-applications-and-opportunities-forecast-till-2026-2020-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Edge AI Hardware Market : Emerging Trends, Regional Segmentation, Opportunities, Growth and Forecast to 2026"
     excerpt: "The smartphones segment is dominating the market in 2018 in 2018. Dedicated AI chip or AI processors were one of the major developments in the smartphone technology last year. Growing demand for real-time speech and voice recognition and analysis, as well as technical advancements in smartphone image recognition is driving the market for AI ..."
     publishedDateTime: 2020-01-22T06:23:00Z

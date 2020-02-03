@@ -401,21 +401,6 @@ related:
       - url: "https://www.irishexaminer.com/remote/image.assets.pressassociation.io/v2/image/production/462ca60959fa7aac0d10abfec7a6f779Y29udGVudHNlYXJjaCwxNTc5NjAzNDg0/2.29181258.jpg?crop=0,0,3000,1687&ext=.jpg&width=600&?s=bn-976505"
         width: 600
         height: 337
-  - title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
-    excerpt: "In his first big public move since being appointed the CEO of Alphabet last month, Sundar Pichai today called for AI regulation to govern how the promising new technology is leveraged. Picahi published an opinion in the UK’s Financial Times today bluntly noting how “artificial intelligence needs to be regulated.” In his view, companies ..."
-    publishedDateTime: 2020-01-20T05:20:00Z
-    webUrl: "https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/"
-    ampWebUrl: "https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/"
-    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/"
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 57
-    images:
-      - url: "https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 500
   - title: "Google CEO supports government regulation of artificial intelligence"
     excerpt: "MOUNTAIN VIEW, Calif — You probably don’t have to stretch your imagination to realize artificial intelligence has the potential to spiral deep into dangerous territory. Remember \"The Terminator\"? But this emerging technology comes with inherent risks that could cause problems long before we find ourselves trapped in a Hollywood-inspired ..."
     publishedDateTime: 2020-01-21T00:57:00Z

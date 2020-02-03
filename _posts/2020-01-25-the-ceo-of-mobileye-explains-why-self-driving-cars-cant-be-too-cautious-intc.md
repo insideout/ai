@@ -56,17 +56,6 @@ related:
       - url: "https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 675
-  - title: "VW: Fully self-driving cars may never happen"
-    excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
-    publishedDateTime: 2020-01-20T00:04:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
-    ampWebUrl: "https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
-    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 24
 
 secured: "COZGZmZSfAxLuj03DJJoIvX7JLM+1hYJE+wUp81QWwN6QDzSMeWvlFRhxEN3tqegfxIg9Y0cDdDrr1nrvpVmqUXB6ioT1qAWldawCY/uaZJOfI+u/ctHpaPiNgoqvblN51qBYBgNSwC/TuoV9WqZ03BxfNlOpNKgpml4AzBs0DOhCfJp93qooMm6rZuvLd+MWnJx7hon0CqNLlCdN6R1aWHXpWMBr80VxSTiustHb5O8WHbmlOrmRTnjcLNbFdyXgAmglTBV7vl78An4VF6miabkXcnN3bYC14w52rCxjudR9SoHFw59bx0KNA9ODiuoh16PliYBwmY+abVi8oxsNLDL3h+snvxgaY1yoOlNtkGzTNlIDPbq9VKHyGQQp1yEMkg6tc+zBJa6MEiGiPaZRIbKzonOa3PWGtCfFyrRlbfyC8Cmt50kXKE0zphJGsBvwPkNR6/x45a5D4HB6j3ScF2FpZ+gwdVmgAuhJyFtHzc=;D0FUxkQLSCKmlrXpByMS+Q=="
 ---

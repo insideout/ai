@@ -35,6 +35,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "This company scraped social media to feed its AI facial recognition tool. Is that legal?"
+    excerpt: "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ..."
+    publishedDateTime: 2020-02-03T21:39:00Z
+    webUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview"
+    ampWebUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
+    cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
+    type: article
+    provider:
+      name: Big Think
+      domain: bigthink.com
+    quality: 65
+    images:
+      - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600"
+        width: 1440
+        height: 810
   - title: "Springfield City Council finalizes facial recognition ordinance"
     excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council further discussed a possible ban on facial recognition technology Wednesday. The city council’s public safety subcommittee met to finalize an ordinance to introduce at the next city council meeting."
     publishedDateTime: 2020-01-30T01:31:00Z

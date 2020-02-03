@@ -37,6 +37,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "This company scraped social media to feed its AI facial recognition tool. Is that legal?"
+    excerpt: "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ..."
+    publishedDateTime: 2020-02-03T21:39:00Z
+    webUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview"
+    ampWebUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
+    cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
+    type: article
+    provider:
+      name: Big Think
+      domain: bigthink.com
+    quality: 65
+    images:
+      - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600"
+        width: 1440
+        height: 810
   - title: "Could Ontario police start using facial recognition cameras?"
     excerpt: "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ..."
     publishedDateTime: 2020-02-02T18:19:00Z

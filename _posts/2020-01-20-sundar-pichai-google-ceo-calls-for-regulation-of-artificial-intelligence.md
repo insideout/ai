@@ -143,21 +143,6 @@ related:
       - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1"
         width: 600
         height: 400
-  - title: "Why Google thinks we need to regulate AI"
-    excerpt: "One of the most promising is artificial intelligence: just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in mammograms with greater accuracy; we are using AI to make immediate, hyperlocal ..."
-    publishedDateTime: 2020-01-20T04:00:00Z
-    webUrl: "https://www.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04"
-    ampWebUrl: "https://amp.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F5fdb39ac-3923-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
   - title: "Google CEO calls for regulation of artificial intelligence"
     excerpt: "Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider placing limits on how artificial intelligence is used."
     publishedDateTime: 2020-01-21T00:13:00Z

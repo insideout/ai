@@ -119,21 +119,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
-  - title: "The European Union considering temporary facial recognition ban"
-    excerpt: "But a draft of the upcoming document has shown that another worrisome technology – facial recognition software – is also being scrutinized. The EU is even going so far as to propose a three to five-year ban on the technology to allow rules and regulations time to catch up. Regulation for some of the worst aspects of the internet age has ..."
-    publishedDateTime: 2020-01-19T16:40:00Z
-    webUrl: "https://www.techspot.com/news/83618-european-union-considering-temporary-facial-recognition-ban.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg"
-        width: 800
-        height: 560
   - title: "Facial recognition could help discover fate of Holocaust victims"
     excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center,"
     publishedDateTime: 2020-01-21T11:39:00Z

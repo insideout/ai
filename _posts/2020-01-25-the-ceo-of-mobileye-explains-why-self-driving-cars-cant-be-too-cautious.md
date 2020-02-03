@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-25T14:44:00Z
 webUrl: "https://www.businessinsider.com/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -56,17 +56,6 @@ related:
       - url: "https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 675
-  - title: "VW: Fully self-driving cars may never happen"
-    excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
-    publishedDateTime: 2020-01-20T00:04:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
-    ampWebUrl: "https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
-    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 24
 
 secured: "LrnHH263mphtn8qdJ5gKX2b8FNFiwnaAFnlOHfhYVbhFcagiOXLbinIdFS9fQmlRyie5BErfwCrUfjNhvatSdETKe1cqZnhEq8nwtqyL8i1Xu+RyYrc+rl14a+7UA9T1OsLOoPdUimJwjeD6ROIgMvOoDtZojXBoqzyrLa9LYgGmqaO8jRYHSacL6nwvi77ETQtrl0uoOXhjXFuj7TgaMXAcCxH+uxqQHM6x0+ML9VwReesk/NXfnMF/yhhegQNUW+1KPiwX6drcDV6NzSQ6fvvrRxmW/zHkLwXHec8xHnsladQs2Ic+Qz/+n6VgNPEUKSUW0PCP/Ye8p+B7H/wemEklAO6HUP0DmI+p/TWT152xv0NLHLSVtdCOZQV36vr3SWPv1qXhs2qsCLMP5MK8D6Jqhu0iaex2KR5jteiErhjwZM7u+UBoUrQu/NnOwk8ZCe76DfdaQYd/ycoJzrVuReNvuJv3ndKp9JEZeKo9EVA=;aOyaqhyhoiWm3w2mivAeRg=="
 ---

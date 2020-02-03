@@ -8,7 +8,7 @@ ampWebUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recogn
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "NYPD pushes back against facial recognition ban"
 
 related:
+  - title: "Massachusetts Communities Remain Leery of Facial Recognition"
+    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-03T21:46:00Z
+    webUrl: "https://www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
+        width: 1119
+        height: 630
   - title: "Chicago police: Facial recognition adds “jet fuel” for criminal investigations"
     excerpt: "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ..."
     publishedDateTime: 2020-01-31T20:56:00Z
