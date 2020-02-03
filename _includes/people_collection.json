@@ -40,6 +40,7 @@
             "path": {{ item.path | jsonify }},
             "type": {{ item.type | jsonify }},
             "sourceUrl": "{{ item.url | absolute_url }}",
+            "webUrl": "{{ site.webUrl }}{{ item.id | replace: '/people/','/people?id=' }}",
             "heat": {{ item.heat | default: 0 }},
             {% if item.type == "profile" -%}
             "name": {{ item.name | jsonify }},

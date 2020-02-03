@@ -17,6 +17,7 @@
             "title": {{ newsletter.title | jsonify }},
             "type": {{ newsletter.type | jsonify }},
             "sourceUrl": "{{ newsletter.url | absolute_url }}",
+            "webUrl": "{{ site.webUrl }}{{ newsletter.id | replace: '/newsletters/','/newsletters?id=' }}",
             "excerpt": {{ newsletter.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
             "publishedDateTime": {{ newsletter.publishedDateTime | jsonify }},
             "images": [
