@@ -2,4 +2,6 @@
 api: projects
 page: 3
 permalink: /:path/page3/
+title: "AI Projects"
+path: "_projects/"
 ---

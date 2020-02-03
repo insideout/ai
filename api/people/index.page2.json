@@ -2,4 +2,6 @@
 api: people
 page: 2
 permalink: /:path/page2/
+title: "AI Influencers"
+path: "_people/"
 ---

@@ -1,0 +1,43 @@
+{
+    {% assign page_size = site.pagination.page_size | default: 15 -%}
+    {% assign current_page = page.page | default: 1 -%}
+    {% assign for_offset = current_page | minus: 1 | times:page_size -%}
+    {% assign for_count = 0 -%}
+    "title": {{ page.title | default: "Newsletters" | jsonify }},
+    "path": {{ page.path | jsonify }},
+    "page": {{ current_page }},
+    "value": [
+        {% assign newsletters = site.newsletters | sort: "publishedDateTime" | reverse -%}
+        {% for newsletter in newsletters limit:page_size offset:for_offset -%}
+        {
+            {% if forloop.last -%}
+                {% assign for_count = forloop.length -%}
+            {% endif -%}
+            "path": {{ newsletter.path | jsonify }},
+            "title": {{ newsletter.title | jsonify }},
+            "type": {{ newsletter.type | jsonify }},
+            "url": "{{ newsletter.url | absolute_url }}",
+            "excerpt": {{ newsletter.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
+            "publishedDateTime": {{ newsletter.publishedDateTime | jsonify }},
+            "images": [
+                {% for image in newsletter.images -%}
+                {
+                    "width": {{ image.width | default: 0 }},
+                    "height": {{ image.height | default: 0 }},
+                    "url": "{{ image.url | absolute_url }}",
+                    "attribution": {{ image.attribution | jsonify }},
+                    "title": {{ image.title | jsonify }}
+                }{% unless forloop.last -%},{% endunless %}
+                {% endfor %}
+            ],
+            "locale": {{ newsletter.locale | default: site.locale | jsonify }},
+            "topics": {{ newsletter.topics | jsonify }}
+        }{% unless forloop.last -%},{% endunless %}
+        {% endfor %}
+    ],
+    {% if for_count < page_size or current_page == 9 -%}
+    "nextPage": null
+    {% else -%}
+    "nextPage": "{{ current_page | plus:1 }}"
+    {%- endif %}
+}

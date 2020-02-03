@@ -2,4 +2,6 @@
 api: newsletters
 page: 1
 permalink: /:path/page1/
+title: "AI Newsletters"
+path: "_newsletters/"
 ---

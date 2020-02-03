@@ -1,0 +1,51 @@
+<section>
+    <div id="post-intro">
+        <div class="post-meta-left">
+            <h1 class="post-title">{{ page.name }}</h1>
+            {% if page.provider -%}
+            <p class="post-publisher">by {{ page.provider.name }}</p>
+            {% endif -%}
+            {% if page.excerpt -%}
+            <p style="margin-top: 10px; margin-bottom: 20px;">{{ page.excerpt }}</p>
+            {% endif -%}
+            <ul class="social-link-list">
+                {% if page.github -%}
+                <li>
+                    <a class href="{{ page.github.url }}">
+                        <img src="/assets/images/social/github.png" alt="GitHub" width="32" height="32" />
+                        <br />
+                        <span>Code</span>
+                    </a>
+                </li>
+                {% endif %}
+                {% if page.demo -%}
+                <li>
+                    <a class href="{{ page.demo.url }}">
+                        <img src="/assets/images/social/demo.png" alt="Demo" width="32" height="32" />
+                        <br />
+                        <span>Demo</span>
+                    </a>
+                </li>
+                {% endif -%}
+                {% if page.website -%}
+                <li>
+                    <a class href="{{ page.website }}">
+                        <img src="/assets/images/social/website.png" alt="Website" width="32" height="32" />
+                        <br />
+                        <span>Website</span>
+                    </a>
+                </li>
+                {% endif -%}
+            </ul>
+        </div>
+        <div class="post-meta-right">
+            {% if page.topics != empty -%}
+            <h3 class="caps small">Topics:</h3>
+            <div id="topics-holder" style="display:block">
+                <span class="topic">{{ page.topics | join: "</span><span class='topic'>" }}</span>
+            </div>
+            {%- endif %}
+        </div>
+    </div>
+    {{ content }}
+</section>

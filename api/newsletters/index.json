@@ -1,4 +1,6 @@
 ---
 api: newsletters
 page: 1
+title: "AI Newsletters"
+path: "_newsletters/"
 ---

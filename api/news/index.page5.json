@@ -2,4 +2,6 @@
 api: news
 page: 5
 permalink: /:path/page5/
+title: "AI News"
+path: "_posts/"
 ---

@@ -1,0 +1,75 @@
+<section>
+    <div id="post-intro">
+        <div class="post-meta-left">
+            <h1 class="post-title">{{ page.name }}</h1>
+            {% if page.overview -%}
+            <p style="margin-top: 10px; margin-bottom: 20px;">{{ page.overview }}</p>
+            {% endif -%}
+            <ul class="social-link-list">
+                {% if page.website -%}
+                <li>
+                    <a class href="{{ page.website }}">
+                        <img src="{{ site.baseurl }}/assets/images/social/website.png" alt="Website" width="32" height="32" />
+                        <br />
+                        <span>Website</span>
+                    </a>
+                </li>
+                {% endif -%}
+                {% if page.wikipedia -%}
+                <li>
+                    <a class href="{{ page.wikipedia.url }}">
+                        <img src="{{ site.baseurl }}/assets/images/social/wikipedia.png" alt="Wikipedia" width="32" height="32" />
+                        <br />
+                        <span>Wikipedia</span>
+                    </a>
+                </li>
+                {% endif %}
+                {% if page.twitter -%}
+                <li>
+                    <a class href="{{ page.twitter.url }}">
+                        <img src="{{ site.baseurl }}/assets/images/social/twitter.png" alt="Twitter" width="32" height="32" />
+                        <span>Twitter</span>
+                    </a>
+                </li>
+                {% endif %}
+                {% if page.linkedin -%}
+                <li>
+                    <a class href="{{ page.linkedin.url }}">
+                        <img src="{{ site.baseurl }}/assets/images/social/linkedin.png" alt="LinkedIn" width="32" height="32" />
+                        <br />
+                        <span>LinkedIn</span>
+                    </a>
+                </li>
+                {% endif -%}
+                {% if page.crunchbase -%}
+                <li>
+                    <a class href="{{ page.crunchbase.url }}">
+                        <img src="{{ site.baseurl }}/assets/images/social/crunchbase.png" alt="Crunchbase" width="32" height="32" />
+                        <br />
+                        <span>Crunchbase</span>
+                    </a>
+                </li>
+                {% endif -%}
+            </ul>
+        </div>
+        <div class="post-meta-right">
+            {% if page.topics != empty -%}
+            <h3 class="caps small">Topics:</h3>
+            <div id="topics-holder" style="display:block">
+                <span class="topic">{{ page.topics | join: "</span><span class='topic'>" }}</span>
+            </div>
+            {%- endif %}
+        </div>
+    </div>
+    {% if page.twitter -%}
+    <a class="twitter-timeline" data-width="450" href="https://twitter.com/{{ page.twitter.username }}?ref_src=twsrc%5Etfw">Tweets by {{ page.name }}</a>
+    <script>
+        var theme = localStorage.getItem('theme');
+        if (theme) {
+            $('.twitter-timeline').attr('data-theme', theme);
+        }
+    </script>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    {% endif -%}
+    {{ content }}
+</section>

@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang='{{ CURRENT_LOCALE }}'>
+    <head>
+        {% include head.html %}
+    </head>
+    <body>
+        <div class="post-wrapper">
+            {% if page.category -%}
+                {% capture post_template -%}templates/{{ page.category }}.html{% endcapture -%}
+                {% include {{ post_template }} %}
+            {%- endif %}
+        </div>
+        {% include foot.html %}
+    </body>
+</html>

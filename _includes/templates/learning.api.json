@@ -1,0 +1,153 @@
+{
+    {% if page.support_paging == false -%}
+        {% assign page_size = 100 -%}
+        {% assign current_page = 1 -%}
+        {% assign for_offset = 0 -%}
+    {% else -%}
+        {% assign page_size = site.pagination.page_size | default: 15 -%}
+        {% assign current_page = page.page | default: 1 -%}
+        {% assign for_offset = current_page | minus: 1 | times:page_size -%}
+    {% endif -%}
+    {% assign for_count = 0 -%}
+    "title": {{ page.title | default: "Learning" | jsonify }},
+    "path": {{ page.path | jsonify }},
+    "page": {{ current_page }},
+    "value": [
+        {% if page.items -%}
+            {% comment -%}Waiting for jekyll 4 in GitHub Pages to support item.path=... or item.path=...{% endcomment -%}
+            {% assign resources = "" | split: ',' -%}
+            {% for item_id in page.items -%}
+                {% assign item_path = item_id | prepend: "_learning/" | append: ".md" -%}
+                {% assign resource = site.learning | where: "path", item_path | first -%}
+                {% if resource -%}
+                    {% assign resources = resources | push: resource -%}
+                {% endif -%}
+            {% endfor -%}
+        {% else -%}
+            {% if page.query -%}
+                {% assign learning_where_exp = page.query -%}
+            {% else -%}
+                {% capture learning_where_exp %}item.topics contains '{{ page.topic | default: site.topic }}'{% endcapture -%}
+            {% endif -%}
+            {% assign resources = site.learning | where_exp: "item", learning_where_exp -%}
+            {% assign resources = resources | sort: "heat" | reverse -%}
+        {% endif -%}
+        {% for item in resources limit:page_size offset:for_offset -%}
+        {
+            {% if forloop.last -%}
+                {% assign for_count = forloop.length -%}
+            {% endif -%}
+            "path": {{ item.path | jsonify }},
+            "title": {{ item.title | jsonify }},
+            "type": {{ item.type | jsonify }},
+            "url": "{{ item.url | absolute_url }}",
+            "sourceUrl": "{{ item.sourceUrl | absolute_url }}",
+            "excerpt": {{ item.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
+            "publishedDateTime": {{ item.publishedDateTime | jsonify }},
+            "updatedDateTime": {{ item.updatedDateTime | jsonify }},
+            "price": {{ item.price | jsonify }},
+            {% if item.length -%}
+            "length": {{ item.length | jsonify }},
+            {% endif -%}
+            "heat": {{ item.heat | jsonify }},
+            {% if item.type == "collection" -%}
+            "topItems": [
+            {% assign items_count = 0 -%}
+            {% if item.items -%}
+                {% assign child_items = "" | split: ',' -%}
+                {% for child_item_id in item.items -%}
+                    {% assign child_item_path = child_item_id | prepend: "_learning/" | append: ".md" -%}
+                    {% assign child_item = site.learning | where: "path", child_item_path | first -%}
+                    {% if child_item -%}
+                        {% assign child_items = child_items | push: child_item -%}
+                    {% endif -%}
+                {% endfor -%}
+            {% else -%}
+                {% assign child_items = site.learning | where_exp: "item", item.query -%}
+            {% endif -%}
+            {% for child_item in child_items -%}
+                {
+                    {% assign items_count = items_count | plus: 1 -%}
+                    "path": {{ child_item.path | jsonify }},
+                    "type": {{ child_item.type | jsonify }},
+                    "title": {{ child_item.title | jsonify }},
+                    "excerpt": {{ child_item.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
+                    "url": "{{ child_item.url | absolute_url }}",
+                    "sourceUrl": "{{ child_item.sourceUrl | absolute_url }}",
+                    "heat": {{ child_item.heat | default: 0 }},
+                    "images": [
+                        {% for image in child_item.images -%}
+                        {
+                            "width": {{ image.width | default: 0 }},
+                            "height": {{ image.height | default: 0 }},
+                            "quality": {{ image.quality | default: 100 }},
+                            "url": "{{ image.url | absolute_url }}",
+                            "attribution": {{ image.attribution | jsonify }},
+                            "title": {{ image.title | jsonify }}
+                        }{% unless forloop.last -%},{% endunless %}
+                        {% endfor %}
+                    ],
+                    "topics": {{ child_item.topics | jsonify }}
+                }{% unless forloop.last or items_count > 4 -%},{% endunless %}
+                {%- if items_count > 4 -%}
+                    {% break -%}
+                {% endif -%}
+            {% endfor %}
+            ],
+            "size": {{ child_items | size }},
+            {% endif -%}
+            {% if item.provider -%}
+            "provider": {
+                {% if item.provider.domain -%}
+                "domain": "{{ item.provider.domain }}",
+                {% endif -%}
+                {% if item.provider.images -%}
+                "images": [
+                    {% for image in item.provider.images -%}
+                    {
+                        "url": "{{ image.url | absolute_url }}",
+                        "width": {{ image.width | default: 0 }},
+                        "height": {{ image.height | default: 0 }}
+                    }{% unless forloop.last -%},{% endunless %}
+                    {% endfor %}
+                ],
+                {% endif -%}
+                {% if item.provider.publishers -%}
+                "publishers": [
+                    {% for publisher in item.provider.publishers -%}
+                    {
+                        {% if publisher.domain -%}
+                        "domain": "{{ publisher.domain }}",
+                        {% endif -%}
+                        "name": {{ publisher.name | jsonify }}
+                    }{% unless forloop.last -%},{% endunless %}
+                    {% endfor %}
+                ],
+                {% endif -%}
+                "name": {{ item.provider.name | jsonify }}
+            },
+            {% endif -%}
+            "images": [
+                {% for image in item.images -%}
+                {
+                    "width": {{ image.width | default: 0 }},
+                    "height": {{ image.height | default: 0 }},
+                    "quality": {{ image.quality | default: 100 }},
+                    "url": "{{ image.url | absolute_url }}",
+                    "attribution": {{ image.attribution | jsonify }},
+                    "title": {{ image.title | jsonify }}
+                }{% unless forloop.last -%},{% endunless %}
+                {% endfor %}
+            ],
+            "locale": {{ item.locale | default: site.locale | jsonify }},
+            "levels": {{ item.levels | jsonify }},
+            "topics": {{ item.topics | jsonify }}
+        }{% unless forloop.last -%},{% endunless %}
+        {% endfor %}
+    ],
+    {% if page.support_paging == false or for_count < page_size or current_page == 9 -%}
+    "nextPage": null
+    {% else -%}
+    "nextPage": "{{ current_page | plus:1 }}"
+    {%- endif %}
+}

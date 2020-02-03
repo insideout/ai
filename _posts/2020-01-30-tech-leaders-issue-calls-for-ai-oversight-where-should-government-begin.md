@@ -1,0 +1,73 @@
+---
+category: news
+title: "Tech leaders issue calls for AI oversight. Where should government begin?"
+excerpt: "In absence of regulation, business has sought to regulate itself. Some larger organizations are appointing a chief AI ethics officer or other similar oversight positions to focus on overseeing the ethical dimensions of AI, with a sharp focus on reducing bias and harm. Others, such as IBM, have internal teams working on an AI regulatory ..."
+publishedDateTime: 2020-01-30T16:49:00Z
+sourceUrl: "https://www.ciodive.com/news/tech-leaders-ai-oversight-government/571234/"
+type: article
+quality: 38
+heat: -1
+published: false
+
+provider:
+  name: CIO Dive
+  domain: ciodive.com
+
+topics:
+  - AI
+  - AI Ethics
+
+images:
+  - url: "https://www.ciodive.com/user_media/cache/0f/91/0f91bf6beaed19556f0d09271f5c61e8.jpg"
+    width: 770
+    height: 364
+    title: "Tech leaders issue calls for AI oversight. Where should government begin?"
+
+related:
+  - title: "Government releases guide for AI use in the public sector"
+    excerpt: "to managing the implementation of planned AI deployment and exploring the safety and ethics to using AI systems in the public sector. As AI is already being deployed in the public sector, the guide contains case studies for other public sector workers and organisations to draw inspiration from. For example, it notes how the National Grid uses ..."
+    publishedDateTime: 2020-01-30T17:18:00Z
+    sourceUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public"
+    ampUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp"
+    cdnAmpUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354675/government-releases-guide-for-ai-use-in-the-public?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1570816530/itpro/2019/02/ai_shutterstock_767827225.jpg"
+        width: 1920
+        height: 1080
+  - title: "Government creates AI playbook for the public sector"
+    excerpt: "topics related to management of AI systems roll-outs is also covered; decisions around how projects run, team building and the actual implementation, as well as risk, governance, testing and quality assurance. The manual also provides advice on ethics and ..."
+    publishedDateTime: 2020-01-29T10:39:00Z
+    sourceUrl: "https://www.computerweekly.com/news/252477468/Government-creates-AI-playbook-for-the-public-sector"
+    ampUrl: "https://www.computerweekly.com/news/252477468/Government-creates-AI-playbook-for-the-public-sector?amp=1"
+    cdnAmpUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252477468/Government-creates-AI-playbook-for-the-public-sector?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/artificial-intelligence-brain-adobe.jpg"
+        width: 1200
+        height: 400
+  - title: "Government developing AI use case repository for agencies facing challenges"
+    excerpt: "Early practice areas TTS identified are acquisition, ethics, governance, tools and techniques ... GSA is working to educate agencies that AI is an embedded technology that needs to be adopted within the acquisition framework, not a solution in itself, said Omar Saeb, Alliant 2 program manager in GSA’s Office of Information Technology Category."
+    publishedDateTime: 2020-01-29T20:55:00Z
+    sourceUrl: "https://www.fedscoop.com/ai-use-case-repository-tts/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 37
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/01/GettyImages-1141197135.jpg"
+        width: 2100
+        height: 1107
+
+secured: "RXRmvCt8Ac0nb9nGo1ZWZdTAas3DYT5Ed3LLjBOQjovWEHfzFyd4BdI6Ns7SpnA8x3mpdnpHVv3LhgfoACf9uCKNnouvaAY2b0frmIbhI1ElSwiLizgjGGXjWs2XLuF6g+jS+M7SDAoE2958Yg+9LYj1ML2kCL0cc1+EugBQSrsljEf6kTR3ZXOvzAfaBsSsZJHfUde2Lj2Hs2dtzbeuOcM1Gc0j4pPBX3qxak19OYz5TLByeKQinqHvKjMOkPWjbSARaXqQmyz3ycqL3hinYsxjMVoa4NBrpKpDZ/l7K6yxBNg6U2XWV9tR4TJbz6el;pzmlVz3C7eICfPaDsF8/qg=="
+---
+

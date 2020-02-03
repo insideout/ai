@@ -3,4 +3,6 @@ api: events
 page: 3
 permalink: /:path/page3/
 time_range: past
+title: "AI Events"
+path: "_events/"
 ---

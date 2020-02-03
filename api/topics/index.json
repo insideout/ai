@@ -3,8 +3,8 @@ layout: none
 ---
 {
     "value": [
-        {% include dynamo function="get_terms" taxonomy="topic" -%}
-        {% for topic in terms -%}
+        {% assign topics = site.terms | where: "taxonomy","topic" -%}
+        {% for topic in topics -%}
         {
             "name": {{ topic.name | jsonify }},
             "id": {{ topic._id | jsonify }},

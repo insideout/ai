@@ -1,0 +1,117 @@
+<!-- page generated at {{ site.time }} -->
+<title>{% if page.layout != "home" -%}{{ page.name | default: page.title }} - {% endif -%}{{ site.title }}</title>
+<meta charset='{{ site.charset | default: " utf-8 " }}'>
+<meta property="description" content='{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | strip }}' />
+{% if site.noindex -%}<meta name='robots' content='noindex,follow' />{% endif -%}
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" crossorigin="anonymous"></script>
+{% assign default_favicon_url = site.baseurl | append: "/favicon.ico" -%}
+<link rel="icon" type="image/x-icon" href="{{ favicon_url }}">
+<meta name="msapplication-TileImage" content="{{ favicon_url }}">
+<link rel="apple-touch-icon" type="image/x-icon" href="{{ favicon_url }}">
+
+{% if page.title -%}
+    {% assign og_title = page.title | append: " - " | append: site.title -%}
+{% else -%}
+    {% assign og_title = site.title -%}
+{% endif -%}
+
+{% if page.og.type -%}
+    {% assign og_type = page.og.type -%}
+{% else -%}
+    {% case page.layout -%}
+        {% when "post" -%}
+        {% assign og_type = "article" -%}
+
+        {% when "profile" -%}
+        {% assign og_type = "profile" -%}
+
+        {% when "book" -%}
+        {% assign og_type = "book" -%}
+        
+        {% else -%}
+        {% assign og_type = "website" -%}
+    {% endcase -%}
+{% endif -%}
+
+{% capture og_updated_time -%}
+    {%- if page.date -%}
+        {{ page.date | date_to_xmlschema }}
+    {%- else -%}
+        {{ site.time | date_to_xmlschema }}
+    {%- endif -%}
+{%- endcapture -%}
+
+{% if page.featured_image -%}
+    {% assign og_image = page.featured_image -%}
+{% else -%}
+    {% assign og_image = site.favicon | default: "/favicon.ico" -%}
+{% endif -%}
+<!-- open graph -->
+<meta property="og:title" content="{{ og_title }}" />
+<meta property="og:locale" content="{{ site.locale | replace: '-', '_' }}" />
+<meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | strip }}" />
+<meta property="og:type" content="{{ og_type }}" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:updated_time" itemprop="dateUpdated" content="{{ og_updated_time }}" />
+<meta property="og:image" content="{{ og_image }}" />
+<meta property="og:site_name" content="{{ site.title }}" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!--bootstrap -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<!--animate-->
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/aos.css">
+<!--reset css-->
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/normalize.css">
+<!--main style-->
+<link rel='stylesheet' href='{{ site.baseurl }}/assets/css/style.css' type='text/css' media='all' />
+
+<script>
+    function getQueryVariable(variable, defaultValue) {
+        var query = window.location.search.substring(1);
+        var vars = query.split("&");
+        for (var i=0; i < vars.length; i++) {
+            var pair = vars[i].split("=");
+            if (decodeURIComponent(pair[0]) == variable) {
+                return decodeURIComponent(pair[1]);
+            }
+        }
+        return defaultValue;
+    }
+
+    // Set the theme (light/dark)
+    var useLightTheme = true;
+    var theme = getQueryVariable("theme", false);
+    if (theme == 'light') {
+        useLightTheme = true;
+        localStorage.setItem('theme', 'light');
+    }
+    else if (theme == 'dark') {
+        useLightTheme = false;
+        localStorage.setItem('theme', 'dark');
+    }
+    else {
+        useLightTheme = (localStorage.getItem('theme') === null || localStorage.getItem('theme') === 'light');
+    }
+    document.documentElement.setAttribute('data-theme', useLightTheme ? 'light' : 'dark');
+
+    // Set the mode (chromeless)
+    var chromeless = (getQueryVariable("mode", false) == 'chromeless');
+    if (chromeless) {
+        document.documentElement.setAttribute('data-mode', 'chromeless');
+    }
+</script>
+
+<!--owl-carousel-->
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/owl.carousel.min.css">
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/owl.theme.default.min.css">
+<!--fontawesome -->
+<link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+<!--google fonts-->
+<link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700" rel="stylesheet">
+<!--modernizr-->
+<script src="{{ site.baseurl }}/assets/js/vendor/modernizr.js"></script>
+<!--[if lt IE 9]>
+<script src="{{ site.baseurl }}/assets/js/html5/respond.min.js"></script>
+<![endif]-->

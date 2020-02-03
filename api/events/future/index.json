@@ -1,4 +1,6 @@
 ---
 api: events
 time_range: future
+title: "AI Events"
+path: "_events/"
 ---
