@@ -5,7 +5,7 @@
 title: AI Inside Out
 url: https://insideout.github.io
 baseurl: "/ai"
-webUrl: https://ai.insideout.app/web
+webUrl: https://ai.insideout.app
 locale: "en-us"
 charset: utf-8
 repository: insideout/ai
