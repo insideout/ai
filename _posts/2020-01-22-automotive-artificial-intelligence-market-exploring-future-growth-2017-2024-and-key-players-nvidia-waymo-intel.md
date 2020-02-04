@@ -50,19 +50,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Hardware Market Size, Outlook on Key Growth Trends, Factors and Forecast to 2026"
-    excerpt: "Hardware Market. The factual, unbiased, and thorough assessment of the global Artificial Intelligence (AI) Hardware market presented in the report assures players of access to much-needed information and data to plan effective growth strategies."
-    publishedDateTime: 2020-01-20T17:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-outlook-on-key-growth-trends-factors-and-forecast-to-2026-2020-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Set To See Huge Growth !!"
     excerpt: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market, By Component (Technology and Services), By Type (Rule-based, Statistical, Hybrid), By Application (Machine Translation, Automated Information Extraction and others), By Deployment Mode (Cloud and On-Premise), By Geographical Segments- Industry Trends and Forecast ..."
     publishedDateTime: 2020-01-23T20:07:00Z
@@ -91,6 +78,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "fuRzArrdKJH7Ey7zkXU16Z5lLRj7DIOxJw78HI7M1bUK3tbMSMWVTCJ1vvtfL08/t79EuDu1Z0ZesSe5pXn0676AG+X/epP6eqNX0SIt2IohZbJKj84s2yFS3c+dNtw4mFbrEY5LBCUSPpsf1PK0+gAGaNzZ195WpFJEXJE4Fl+pdf2X8kCQs7EvWRRM2tdxlIKX99FIfJejRvBCKb/dvSwX2/I2u/Gt8u/+HaAKr/CbMhOIpkjqci/QaLLs3y/xlSDqqR4ErZ2NeyDJuecTSmzNRURDfkAfhfn9+0/7MHsUEmOKsBOiZtuGKwuQOFL8;EqwlsCF99EXuTCiCMtdJSQ=="
+secured: "wB21bbb69VfnPk6mPQ9F0MyVFzaRm6VSpB4J70TA8dmy+eHcIDUijdnSq8mMal8Rq5pgfP7aCxQm8zMtZq79bs1jiO1hsigt5B4Itgr3fI3W5DH7UtYUWvm1vS7zOSlveruMlic6mbkfb5LNzBETwEO9FEA9svBRCJUGff8eQmaiVH/WH0GXkopBxNLD5H+Sm5+leC3BAktk/ULEs5grDbg1vVy/PHKyb3+B+HPZ+qr8ftTA8yUeK3bZu7VpUuTBBnwbrVrctFi1GEPZwjTk89UrQ2xN/XXla8cgRUSIyKGItS/wplPedIG9AW4Fv9Ao;+0Zz+x/+jZLiXeAUwXiYMw=="
 ---
 

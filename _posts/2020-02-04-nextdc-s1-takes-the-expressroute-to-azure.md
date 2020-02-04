@@ -2,8 +2,8 @@
 category: news
 title: "NextDC S1 takes the ExpressRoute to Azure"
 excerpt: "Microsoft Azure partner PM manager Ross Ortega said “It is great to see NextDC expand Microsoft ... Do you want to leverage data governance as an enabler?Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics to the limits?"
-publishedDateTime: 2020-02-04T01:14:00Z
-webUrl: "https://itwire.com/business-it-news/data-centres/nextdc-s1-takes-the-expressroute-to-azure.html"
+publishedDateTime: 2020-02-04T01:02:00Z
+webUrl: "https://www.itwire.com/business-it-news/data-centres/nextdc-s1-takes-the-expressroute-to-azure.html"
 type: article
 quality: 39
 heat: 39
@@ -18,11 +18,11 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://itwire.com/media/k2/items/cache/f430c7dc8b74f513db9bac0eddc50d51_M.jpg"
+  - url: "https://www.itwire.com/media/k2/items/cache/f430c7dc8b74f513db9bac0eddc50d51_M.jpg"
     width: 375
     height: 250
     title: "NextDC S1 takes the ExpressRoute to Azure"
 
-secured: "OYZUbpeTeEvyrDxoFp3FyHNu/AlqiqoOks4cQFdRUeMPmouSk8j2j3GzQ1P2xF1RCGwEFWOPFWMg6FiniEIhcWgogHhmT4dKIqaF6vf231ImRbXxa2Txw0X9r1D/AmtWQEL3Tw6j1Hn94oEiJbD4syfx4VUTgiu9OVX6IZw7AIOjTZe4YPF/Wd8PXqjaVZVry8Tff8FENI6rUQpJi8i7Znn6easOFR3T+LTG+21Nys3xeDTvnrso/SkTcm6oO8egaAVphHqrE7e3wOjAdOgmcWw85phl7I1q/jztQF9S35sD2UBwYnRiFfuMqUUYHPDz;KKpU3fTAT3SDcbcvSuKwKw=="
+secured: "VfCJEvY0Dl/xm0+/B5QkCeGkJoNBpe2bfhGhH8SkC6EYpJaBsSQu8P1UBHD+Vl83L4s7/T5MlAca/pfL+N5g0fvMhzu7bgRKgx51RORwb1DVksRcdZQ4IQz9t79YUeIgSb1FkfKR2AJrk7JKQKUy5glGg0q7+nbM5zkjI6xUjNSaNRNQ/dkDV7YyxoI8LCE9sSYfV36ViP1xkjC9HDXrWZhwuYF60/8mGm8uv7ixaqEE5/qC/0g1OhCWkurzNLC87B0LLUObIkq/pvsXsrA+GIa9MIgV1JZ4hwDeYiBFbA6DRmAReuqNduQCqI1Rh7sR;qBuqhTi3fSk21wQNRtuAEA=="
 ---
 

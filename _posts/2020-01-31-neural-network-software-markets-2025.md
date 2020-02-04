@@ -18,15 +18,41 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Artificial Intelligence (AI) Software Market"
-    excerpt: "Artificial Intelligence (AI) Software Market research Report is a valuable supply of perceptive information for business strategists. This Artificial Intelligence (AI) Software Market study provides comprehensive data which enhances the understanding, scope and application of this report. A thorough study of the competitive landscape of the ..."
-    publishedDateTime: 2020-01-29T13:52:00Z
-    webUrl: "https://www.openpr.com/news/1913073/artificial-intelligence-ai-software-market-with-complete"
+  - title: "Artificial Intelligence in Computer Networks Market: Competitive Dynamics & Global Outlook 2026"
+    excerpt: "Feb 04, 2020 (The Expresswire) -- ReportsnReports released a new research report of 128 pages on title 'Global Artificial Intelligence in Computer Networks Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2026' with ..."
+    publishedDateTime: 2020-02-04T10:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-competitive-dynamics-global-outlook-2026-2020-02-04?mod=mw_quote_news"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Military Market: Size, Production, Prospects, Consumption, Cost Structure, Competitive Landscape 2019-2024"
+    excerpt: "The Global Artificial Intelligence In Military Market report provides information by Key Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share,"
+    publishedDateTime: 2020-02-03T08:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-production-prospects-consumption-cost-structure-competitive-landscape-2019-2024-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Natural Language Processing (Statistical, Rule-Based & Hybrid) Market Outlook to 2024"
+    excerpt: "/PRNewswire/ -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends"
+    publishedDateTime: 2020-02-03T19:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-natural-language-processing-statistical-rule-based--hybrid-market-outlook-to-2024-300997768.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
 
 secured: "gfZ8dO9OGtlKbvoee9ct7/c8H6KIXyf4OSu84IwviGKU/ZUlE7yGk+rmzKC2vZYpf3X/IPbWaiuLfeL7oYNYwixJbXWQcPPP3ydO5APZ2raUZRjqiQ5jTl7QhLaAVAs8GMNRd6llhShe3hI/r2Ef9N3kt5G8AILQ+ULBsNeijYDdYV4/83qYhvsvW7ik8GIEV1247nLwA+X1t9VHHIwCsBVKEOJxhmMnEV4fB5xRkxqPKNUKYLMSyPyaGuXFIGmiytr4vK62trR58XRiaHZqvfd/WA+FsZ2kvjfqRI175fzyhYKIKwHyNkAgNHbRChHz;tZxUzMTvahTm9E2CaovTKw=="
 ---

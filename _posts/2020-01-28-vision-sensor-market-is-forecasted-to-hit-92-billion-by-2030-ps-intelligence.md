@@ -20,6 +20,15 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Machine Learning in Finance Market by Scope, Growth Prospective, Application & Forecast"
+    excerpt: "[160 Pages Report] PMI's publication of the Machine Learning in Finance Market-Size, Share, Trends, forecast 2030 examines the market for Machine Learning in Finance and the considerations involved in implementation. The 66-page report reviews the growing market for Machine Learning in Finance, plus the latest trends, opportunities and challenges."
+    publishedDateTime: 2020-01-27T12:35:00Z
+    webUrl: "https://www.openpr.com/news/1909375/machine-learning-in-finance-market-by-scope-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 11
   - title: "Voice Assistant Market is Forecasted to Hit $26,872.6 Million by 2030: P&S Intelligence"
     excerpt: "Voice Assistant Market Research Report: By Component (Solution, Services), Technology (Speech Recognition, Text-to-Speech Recognition, Voice Recognition, NLP), Application (Messenger Bots, Websites, Contact Centers),"
     publishedDateTime: 2020-01-22T07:45:00Z

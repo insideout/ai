@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T08:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17"
 type: article
 quality: 78
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 76
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) Hardware Market Size, Outlook on Key Growth Trends, Factors and Forecast to 2026"
-    excerpt: "Hardware Market. The factual, unbiased, and thorough assessment of the global Artificial Intelligence (AI) Hardware market presented in the report assures players of access to much-needed information and data to plan effective growth strategies."
-    publishedDateTime: 2020-01-20T17:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-outlook-on-key-growth-trends-factors-and-forecast-to-2026-2020-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -95,6 +82,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "6v/PuKCWN5adGrSs4uHsmD1G5advJt4mmdYft18mV/N5tMGKqjtzMurLsFVLARZmOWoVSzT4BHSY5nm/3g6X1WW3aQrsWoFYWyKZqgRPgmcbWDqai6lAVbq6PBQ3UqrJDd3D01SZ/5CofNwRBdlSnbYrAjh932H8s2CXQinhOjaWB0idV07GBr6UriviX79Gov9Rtkg6MVGybAQnJ8EDEZYCiHlgz12dbLte0aNwNHbynvEWvqWbEZnmDRlLQstr7JVQ/d5D+b39/pLEyRvqPIDGDWZsF157RRfqY6bctrVFKfX9Q4smG1d2GEaJ698u;XxZRSXDMgpWldlymesLreA=="
+secured: "nFmTcRYXv8Pp+/q33cdisPIhVG4dYG64iGxauRE6t29BAQWYvTygILiIbQuygB0nfsa2Roso/7FklgzSfP6YTEJhYkv4XvNRXlzFLIq9mRSQrMwkhLj94k9AwrnWjc9PSohD+OrHfe61JWV8dJV6Zz3dweTf4rVSopYYTWsLsA3rdydVgy7WLOLSN7Sc2+hBbvs1Gz3sKebgb9relKr/tsRFzFhzCH1xi9fA4k0/bk8GT89WGtePBl2QguzVud/jT0hcA+5RvEXYM94/pc+zL7JM/IVkoFw6BPlrXriZgBnIgJKYKGmBpBL0NBXjZAfg;6EMg0Y01t5RVgmSKQP9OKQ=="
 ---
 

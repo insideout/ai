@@ -279,36 +279,6 @@ related:
       - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202001/nn_tco_uk_police_launch_facial_recognition_200124_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
-  - title: "Facial Recognition App Used by Law Enforcement Agencies Detailed in Troubling New Report"
-    excerpt: "Over the past year, more than 600 law enforcement agencies have started utilizing a facial recognition app developed by the \"tiny company\" Clearview AI. The privacy-poisoning app, which allows users to potentially match a name to a face within seconds ..."
-    publishedDateTime: 2020-01-20T17:58:00Z
-    webUrl: "https://www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report"
-    ampWebUrl: "https://amp.www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report"
-    cdnAmpWebUrl: "https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report"
-    type: article
-    provider:
-      name: Complex
-      domain: complex.com
-    quality: 65
-    images:
-      - url: "https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/h3znpz9affmqxjtkm8a1.jpg"
-        width: 394
-        height: 222
-  - title: "Google boss calls for temporary ban on facial recognition technology"
-    excerpt: "Google chief executive Sundar Pichai has lent his support to a proposed temporary EU ban on facial recognition technology, over concerns it could be misused. “I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,” said Pichai at a conference in Brussels today. The statement ..."
-    publishedDateTime: 2020-01-20T18:05:00Z
-    webUrl: "https://www.cityam.com/google-boss-calls-for-temporary-ban-on-facial-recognition-technology/"
-    ampWebUrl: "https://www.cityam.com/google-boss-calls-for-temporary-ban-on-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/google-boss-calls-for-temporary-ban-on-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2020/01/1194872492.jpg"
-        width: 1024
-        height: 683
   - title: "Chinese city uses facial recognition to shame pajama wearers"
     excerpt: "BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,” they were given a powerful tool to carry out their mission: facial recognition software. Among their top targets? People wearing pajamas in public. On Monday, the urban management department of Suzhou, a city of 6 million people in Anhui ..."
     publishedDateTime: 2020-01-22T04:50:00Z
@@ -485,19 +455,6 @@ related:
       - url: "https://www.geek.com/wp-content/uploads/2019/03/Jeff-Bezos-Mars-Conference.jpg"
         width: 1000
         height: 562
-  - title: "Clearview AI Takes Facial Recognition Data of Millions from Social Media"
-    excerpt: "Clearview AI is a secretive startup that has developed a super-accurate facial recognition database – all through using images surreptitiously scraped from social media users. Currently, the company's app is only available to law enforcement, and it has already led to several arrests. In fact, the app is being used by more than 600 law ..."
-    publishedDateTime: 2020-01-20T17:27:00Z
-    webUrl: "https://tech.co/news/clearview-ai-facial-recognition-2020-01"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 53
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2020/01/20113126/clearview.jpg"
-        width: 1920
-        height: 960
   - title: "Telangana State Election Commission successfully tests facial recognition technique"
     excerpt: "The Telangana State Election Commission on Wednesday successfully tested the facial recognition application for voter verification at polling stations using real time authentication capabilities. The application using latest technologies like artificial intelligence, big data and machine learning was uploaded in mobile phones and tested in 10 ..."
     publishedDateTime: 2020-01-22T17:19:00Z

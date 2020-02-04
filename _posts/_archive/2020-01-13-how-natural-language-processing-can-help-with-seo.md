@@ -25,6 +25,6 @@ images:
     height: 480
     title: "How Natural Language Processing Can Help With SEO"
 
-secured: "ebbe4zFR+jZ8Bm0bllj8JRVmrMpzxfnMtmQ+5FioghuNxgqdUcZCuevyVbVfAXXAX2W+KdyVT4+z3s/StGtZ7iLVAffqikuxkPKKvIZ6O5YGP01TiFmoETqOH8PqV/YRvDAJ122dWlLH9G3KxhdoQedRuNWBkGue6PMUQpYSaDbpeRYoGCXmhQQxj1j6+2e+sAgMViTGDQdqI3J1JDGZRd1RvfMqEpGHLDsXGntRWZAkbsBiFDtuqTqHea34yQ01Gc3FNokUN9hLwxPgPHKoZfHaQa8GkJTSNqRuLs498a4A1KJFxtEpA70yY7OBD3j+;qM2PPDG0IPD90V85iTpZBA=="
+secured: "xTCdfu8a5cHpTgpVz9PThZUXlSHq73e72cinXPLCMdFWGVZmWUApVAhseVqqIYqDdJJNGyqdi2Ayuda0vUV/zRWk4lEHV13aYfW+Wk0/qWbIruqhGTiUk+YSIGDPVsy0tPa+3vDoCefRE8BrbSWqDVkK45KGz9V4x5su4KjaKSdMQpVG9IivmqudFfd75a58hhCo/EvWq+vOTvoh3cFhicLd41grruw+HSPqVkuqqaB0ktayiqlSLyf/+B7jqhEtvb7I2x0dTMuAq7zrykUqUpkeIJ6fHq+u3d4EC4Rw8cF00Owdd2vSWGJozgZR+CD2;/wPN+l21CQOPfjJBX1OYlw=="
 ---
 
