@@ -4,11 +4,9 @@ title: "Down Syndrome Group Partnering With L.I. College To Improve Google’s V
 excerpt: "ROCKVILLE CENTRE, N.Y. (CBSNewYork) — Some Long Islanders are helping to teach Google how to better understand them. They’re people with speech differences and they’re helping improve the ..."
 publishedDateTime: 2020-01-15T00:08:00Z
 webUrl: "https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/"
-ampWebUrl: "https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/"
-cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/"
 type: article
-quality: 11
-heat: 11
+quality: 0
+heat: -1
 published: false
 
 provider:
@@ -19,6 +17,17 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "ZXpHZyVIXsHeFiGdG11ve2kYZ0hRHZazqV9C+XdG2L4nWVoK0xRRPEnBdps/VRX8/pPgte1lnAO+JtXYe0nDRffQZzSXN2KRQBXxBxpFImfYD87qOI3911HfbRz7E+IMZkjK1DDFLMF2btKGNDmXxnipdfZtpnECLTtQNGxZLsgalJ870vsev7kYNtBzlILIRNVjpC68d9g3w5GE4DtHM7gnExnYnIZT5OTfqF55UoZMX/41j2evTMrSvx7y1vsDdmR3yof7VvxsYFE2KeoB62ywq3GGGlOdyjeaLfjcqnFbUZ6h2NOIyRGtm8KPJVbq;V5TNy5AVMYTUw+OZKWtGIg=="
+related:
+  - title: "What is Voice Recognition"
+    excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
+    publishedDateTime: 2020-01-11T11:41:00Z
+    webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 4
+
+secured: "FtWJRyeFN7vUhaD7UES3v59D8Tw1QIEtLJNuaonim0ZeGkc0luzRpFNoiBliRYHKMjsZDM4R2RXg7019Jbb8uEFV2Fl73juJK+BQCWNTGx/NoIu6BqPQqHuXQxdmEfqucvcHSlJde0UO+NQccHdUZNED0BbF+01OPw0dQyEkTAPa8H0CZOL/rNZFp23zuR/nrfUCEFVKUiJtsAi8M/mjUXtCyg9KcwSapbYgpLcJFkDqB9G2OLK+EVlTJjdw01HH213sVpKckwG3Y3V4Gad9csNpEYc3ME3SBMFEOl1NDO2SjMRMJs0iacwLK96sOQhH;deIfzCp5+w6jahvuPd0e2Q=="
 ---
 

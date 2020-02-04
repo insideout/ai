@@ -63,6 +63,19 @@ related:
       - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews2.png"
         width: 640
         height: 300
+  - title: "Working the bugs out of self-driving vehicles"
+    excerpt: "She did so at a technology show in Las Vegas. Autonomous vehicles — self-driving cars and trucks, some call them –remain a technology with plenty of bugs to work out. Those concerned about them point out that they can be dangerous. Indeed, they have ..."
+    publishedDateTime: 2020-02-04T06:18:00Z
+    webUrl: "https://www.marshallindependent.com/opinion/editorials/2020/02/working-the-bugs-out-of-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Marshall Independent
+      domain: marshallindependent.com
+    quality: 24
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.marshallindependent.com/images/2016/11/28153330/fblike.jpg"
+        width: 1200
+        height: 630
 
 secured: "YaFqVozr+Qff+LlBuCCzyEUY6JcHsWD33MRNnha5QoP24KDa6xkiJ7/uAVB1lj2hIM6RHwioXWO1UJ1soryZ+25k2pfE6pxtqqiqaGG3qBrFyTwRMcjSFWMQVlIlkV+zc56misaQhD5KW/7SR6n2aLoOQ8+tHtD9c+TWJ/Z3ZKoJzevFuTZQ4y2gr3IpSTmQ/yxYhfLfV6ODYhBHzyDbLpco6GtrDsBB4ZnAJSttRgcz6rr8JIi83S4jXV65GW9viz4ieRVuc0ilk7dzR3VDtuIpdYma9C+tNCi+gibWcl6WCepEftxkUJp4YCCaApMR;vXxOoBjXWGLI6QnqT7tUkg=="
 ---

@@ -48,6 +48,15 @@ related:
       - url: "https://knowridge.com/wp-content/uploads/2020/01/New-AI-could-predict-outcome-of-diabetes-related-vision-loss-.jpg"
         width: 640
         height: 426
+  - title: "Personality-Assisted Multi-Task Learning for Generic and Personalized Image Aesthetics Assessment"
+    excerpt: "As an important subjective trait, personality is believed to be a key factor in modeling individual’s subjective preference. In this paper, we present a personality-assisted multi-task deep learning framework for both generic and personalized image aesthetics assessment. The proposed framework comprises two stages. In the first stage ..."
+    publishedDateTime: 2020-02-04T02:59:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/8970458"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
 
 secured: "0Flx5+ZJVTVZdmsjwTk/QG26Y33xo+ZHS6oQzxWWyoYArTuCIeBb87woD+MNaLz8yRDGoy5ntNf9vkV1pZaB3PKZ4Z6lcffnoQJuSDG1/mqg7kjH7MIt2pC8nOGctiU4cbAPGARiRJqC4PQkonFw7ZzwS/MLKVRURin93II8rS3IaC3idB9B8yivanpFNHO65uD8Jktt8e7LB3wD5P7yDT9/Rv2a3bKi0ZCqM8EEhGiI5gmE3QZu40KHd1oxZjiTIT3ituKNfsn5Gec3/ai17JIU7FOUsJ9hpejztynmjCdpkm43s9nPY9iL7N/tR7mO3ft4ACHBhZiM2mfobTdtrCQrBPVLqoAI+dkqeIHbVTMAufrToemQyJmJZNEvzWSbQfYmmJWvNduoQHggsAVCMuMDcV1s4oFXlKHYCzCrHX3lLlF/q9cylOJr0KecT41LW0yRXc/KSBby1GYlb+88y0TbrWSwJO6qV5Z53aEprg0=;Ka2dam7+IZ0qnMuqGgQhlg=="
 ---

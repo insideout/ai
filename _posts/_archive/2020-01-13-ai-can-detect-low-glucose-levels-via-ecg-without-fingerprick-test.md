@@ -2,51 +2,47 @@
 category: news
 title: "AI can detect low-glucose levels via ECG without fingerprick test"
 excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-publishedDateTime: 2020-01-13T16:53:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/01/200113111156.htm"
+publishedDateTime: 2020-01-13T16:00:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php"
 type: article
-quality: 49
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg"
+    width: 720
+    height: 302
+    title: "AI can detect low-glucose levels via ECG without fingerprick test"
 
 related:
   - title: "New AI-based technique can spot low-glucose levels without fingerprick test"
     excerpt: "Researchers have developed a new Artificial Intelligence (AI)-based technique ... Basing on this information, clinicians can adapt the therapy to each individual,” the authors wrote."
     publishedDateTime: 2020-01-15T10:18:00Z
     webUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/"
-    ampWebUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
-    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
     type: article
     provider:
       name: TheHealthSite
       domain: thehealthsite.com
-    quality: 57
-    images:
-      - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
-        width: 675
-        height: 365
-  - title: "NO Fingerprick: AI can detect low-glucose levels via ECG beats"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
-    publishedDateTime: 2020-01-21T08:28:00Z
-    webUrl: "https://medicaldialogues.in/diabetes-endocrinology/news/no-fingerprick-ai-can-detect-low-glucose-levels-via-ecg-beats-62274"
+    quality: 17
+  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
+    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
+    publishedDateTime: 2020-01-14T13:07:00Z
+    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
     type: article
     provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 19
+      name: Medindia
+      domain: medindia.net
+    quality: 13
 
-secured: "Z0y1SgCSEL+UclUlNszEvIC1dbTSDmWPcyVuNcNGY2ORKSRv3cACN/TVRKk9VZNWw5JvcKgZgNDYuS66ALBkSNmNHlXg/RKACgscTx9RCG2tyLGJAHq0Zc4TowXViHeErXu3pAhvbiMmtdqu8EyH04qDSCXXgzt1MHAkA49vm4JcFYeeJFfACwXjTFO0t8GHk/IymJQNlsG49d2LpvH8Iik+EqldlScseEy6hgpcodKUEQWY1Z9XVU2H0JUdIK+IpsybX2z24ReY1z83m2c4AMbbOX1PcH0s6/FmYcGCOCSAIxbwlbcDWcVDUedbxPdB;ot/DHTSObiqcLQiN4m0ZQA=="
+secured: "sslPWBQHoO2JjWUq1NLzGhiZXwtNalyLY0g/iItiqBlM9rSfqCoMRjMkKPlPnL14rxhtOQa/L+4tjHJ66uV37BzNBevnve4e8OpvYErNk0uESOiN+f/WsoZB48iVgUNjHAZvHe/NsxUjSLpN+knFqYpke+WUdjdsIHU/PVI07obrVeNMskFZGLjpw0tNRBGLldA/elLcj+N9uZY6S8I51Ge7BEvZ2Qa5jDLAx12Aoi6pcNmaS5W8AhAHYKc25v0oJwFn6mJRSWEZdhiRWs/lL4A7DBpsvHvu4sEe3mdwdtw0Bvcdqcn/a1lu9AWA2PpU;HoQHXhNQEl3W4ViwBj8R9g=="
 ---
 

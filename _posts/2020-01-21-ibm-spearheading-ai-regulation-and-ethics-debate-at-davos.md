@@ -41,19 +41,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "IBM proposes AI rules to ease bias concerns"
-    excerpt: "IBM also suggests that companies appoint chief AI ethics executives, carry out assessments to determine how much harm an AI system may pose and maintain documentation about data when “making determinations or recommendations with potentially significant implications for individuals” so that the decisions can be explained. Spearheading the ..."
-    publishedDateTime: 2020-01-22T04:53:00Z
-    webUrl: "https://www.healthdatamanagement.com/news/ibm-proposes-artificial-intelligence-rules-to-ease-bias-concerns"
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: "https://sourcemedia.brightspotcdn.com/dims4/default/fd1758b/2147483647/strip/true/crop/2009x1055+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F89%2F2b%2F5777b1b2441a87863535bc1883bb%2Fginni-crop.jpg"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence: AI Regulations, Policies, Privacy and Innovations"
     excerpt: "Artificial Intelligence (AI) technology promises to automate and reshape business, commerce and consumer activities worldwide. But AI also triggers concerns about privacy, bias, security and plenty more. Concerns about AI, facial recognition technology and privacy are running particularly high. As a result, the AI industry and governments ..."
     publishedDateTime: 2020-01-21T12:33:00Z

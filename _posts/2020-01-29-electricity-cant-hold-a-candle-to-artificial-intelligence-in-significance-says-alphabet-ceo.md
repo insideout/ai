@@ -69,21 +69,6 @@ related:
       - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2020/02/2.48304518-496x372.jpg"
         width: 496
         height: 372
-  - title: "Google CEO calls for regulation of artificial intelligence"
-    excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
-    publishedDateTime: 2020-01-29T16:49:00Z
-    webUrl: "https://www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.html"
-    ampWebUrl: "https://www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.amp.html"
-    cdnAmpWebUrl: "https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.amp.html"
-    type: article
-    provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 57
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/b/06/b064a2d9-045d-540d-b183-8334cf9a9299/5e141419b5f14.image.jpg?resize=1024%2C695"
-        width: 1024
-        height: 695
 
 secured: "yOFRaDMAyx70nGFeZ9Ab9M18PjVOwCPqz61ESybbiOAu1yKjZZ6oJ0i9TgTWQ5o41hO8VbqHvnWQgg7gd8TPFHeLj1yBNEK5uDGM15R+xHd/+rmX3G97tXmEkLcgEMHEjbykF4fzj1XRWQHLQWmyLWWXB4g8fJsP0mE1sg9AhBfKteh0HvBTeRIwRUmo+QxvEB6Bhw/u/0WJw84DeQd0J994YYpnxopA6Ao0GkNkYpS58vaFaBe4BlzmBbI57+OXpX0kwHGxsvjqcERY9q+7QUBoawcgau4ETZqYkRDWOCIuyjirOiEofihG1g5etgZskJ3xvz5TWUrxufsokR4VAZSQkjdnWbCrLYRPbo3gno+Fit41nqaq1oOImcUBzNbG4LmzV1TluuG6RWXNJjpH+RHvQuxhJQSg+TfIEKdubM3IagxW2tZkeZkXtkE7+kvWgNiqT0eipHvIonWVWtCanSlqRxV8UXq+2MeBe8ylvW0=;WYygLi+SadZP5+ty/82G5g=="
 ---

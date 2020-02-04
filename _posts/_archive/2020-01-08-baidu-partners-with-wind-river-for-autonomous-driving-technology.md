@@ -4,11 +4,9 @@ title: "Baidu partners with Wind River for autonomous driving technology"
 excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
 publishedDateTime: 2020-01-08T11:12:00Z
 webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +17,23 @@ topics:
   - AI
   - AI in Autos
 
-secured: "nMGMHg8kzJySOhr66Pn5I8NKts8t/bCOeHphm2EvN7sfVdt1jYPmv8udXtmc7eyNai7wuTsXThRtjH5g52JzYjpTVnbwPV7bsBnMV/bZjePhPA7hlkWJW/w5iPoIaUJn60r92aq+DGF2oeIzlIOagmMtbTLdpKftO5Yj8YXwSSdCD5lSA/1Q4Dt/XwLskS6T/b0i+k+MfK8t311kyEoRApt5L3wo2bHNrbvIJijJjEOrJO4ng5+rfkJCDwJ7pvVVtl94elMeflVZ17g06c+IuCZA5FG8zjnN40BnNNXo25RXelr76IllQcnKc6v+L0Tj;16jsBWUfBtKgib0nwrkJhg=="
+related:
+  - title: "Nvidia is partnering with Uber, Volkswagen and Baidu on driverless cars"
+    excerpt: "Nvidia has partnered with Uber, Volkswagen and China's Baidu in driverless cars Uber will use Nvidia's graphics chips for the artificial intelligence computing system in its fleet of self-driving ..."
+    publishedDateTime: 2020-01-08T15:55:00Z
+    webUrl: "https://www.cnbc.com/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104932964-GettyImages-609845726.jpg?v=1532563704"
+        width: 1024
+        height: 601
+
+secured: "HDEhKSnisoV0wjNrxQBubpeyqwBrEKqJxoOq/SebVQj49k4kEftnqqyi7PVSystcFbpM2m3grNHiUEueXlQehJ3VVyIzKuOXMbTUWArFGMlQ84Xs8J1LignhIKdCcWv47P9x/wyenc2ZvVlrWIghpAMWLK9YoTIqZnzVt3W+R61922n7hXK7kmeFe1HgY3noY01nz++Dr+uMwEd2DNInkFFOpS4hyQ026I7t7vWwr+DlfwyQCaJWmEsAPGdbndlncELepxfdXZjZXSF6OU4FQNyo+r35lMmKeMzY+JZ+Y8m26T0h9mTY5nHQPLSoAFh7;8T3FrZyG0TrP+Zh8eAMl0Q=="
 ---
 

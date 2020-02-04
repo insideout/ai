@@ -18,16 +18,16 @@ topics:
   - AWS AI
 
 related:
-  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-    excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game ..."
-    publishedDateTime: 2020-01-13T13:28:00Z
-    webUrl: "https://www.oaoa.com/news/business/article_bff64e43-c5a2-5acc-8ac2-6ada0e8d7d11.html"
+  - title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
+    excerpt: "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ..."
+    publishedDateTime: 2020-01-14T14:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/germany-s-bundesliga-to-use-amazon-web-services-artificial-intelligence-1028816437"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
 
-secured: "76dqm2kXVBkWJS7GshOVPyPs6AMMvJ/zhzCwYIEOlvueKbnrBL6iumfnZOkdRdad7HXhqd3EV/ae+PKWdIYC+1cPNZV1E7/vM2IasW8GMdZLFDXXnbMSozcS/t6RrQ3WGgUk/UnQ09ttLdlgqNQ4G14J32oIckKmnY3v06p2/VaimkJBGaIjOCDaV4Px3KDrRJz2mKGN6w6UhN/JT9fb3ehiEXqsj9UVKPwKx8ySJKcRAwgpmiR//WG+FsPTuTY1iacM3elR2uFHL7eTeAVrNNUnsjM69U+atSgGOoh7IMtzJx8ysV0LSfb5TIP4CFw+;pXHiWQctoGG3UWiL74Yj/Q=="
+secured: "5iy0gcVHi3RKloMiEchotPyqMCT0JdCLbPvboXLuIrEvLxeYJqfZJgKWrCnEETTkJLgdAVBCC2UM5mkAUTvz1gx8pZpuH5phRaRaiA6CzMpeXqImUD1A7wsbjxtuk9WH7DJWhTeSODJZCfVXDAZ0jJaMq2H23ycp6oZ8Zt2SlusewKCOT9Ts3eCQnCy5AOMCrLYJt3VMqU5oO5KFmcmY//qXEs3GHhxxecDOj8urQhdjikNRd8a/qb0OlkgjT8AODaCyMAgPjUFx1K/jNa9PyKDOlLC1T48hdv0CAdumKJ/Lu8sDNum5OIpaSsGlQ+CM;ceuh6R+p6ZkUAODnuhJrGA=="
 ---
 

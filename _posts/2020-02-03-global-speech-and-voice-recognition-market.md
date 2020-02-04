@@ -70,6 +70,41 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Healthcare Natural Language Processing (NLP) Market: Global Industry Analysis, Opportunity and Forecast 2019 to 2024"
+    excerpt: "The report provides an exhaustive calculation of the Healthcare Natural Language Processing (NLP) comprising of industry chain structure, market drivers, opportunities, future roadmap, industry news analysis,"
+    publishedDateTime: 2020-02-03T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-global-industry-analysis-opportunity-and-forecast-2019-to-2024-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Machine Learning Market 2019 CAGR, Production, Revenue, Industry Share, Rising Trends and Manufacturers Growth Outlook 2025"
+    excerpt: "Machine Learning Market research reports focus on size, share, growth, manufacturers and forecasts by 2025. Machine Learning Market research reports focus on size, share, growth, manufacturers and forecasts by 2025."
+    publishedDateTime: 2020-01-31T12:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2019-cagr-production-revenue-industry-share-rising-trends-and-manufacturers-growth-outlook-2025-2020-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "AI in Education Market by Latest Trends, Business Opportunities, Segmentation and 2026"
+    excerpt: "New Jersey, United States - The report titled, AI in Education Market has been recently published by Verified Market Research. The AI in Education market has been garnering remarkable momentum in recent years."
+    publishedDateTime: 2020-02-04T04:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-by-latest-trends-business-opportunities-segmentation-and-2026-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "Artificial Intelligence in Stadium Market Challenges, Key Players, Market Segments, Development, Opportunities, Forecast Report 2026"
     excerpt: "New Jersey, United States - The report titled, Artificial Intelligence in Stadium Market has been recently published by Verified Market Research. The Artificial Intelligence in Stadium market has been garnering remarkable momentum in recent years."
     publishedDateTime: 2020-02-03T17:01:00Z
@@ -83,15 +118,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global AI Machine Learning Market: Facts, Figures and Analytical Insights 2019 - 2029"
-    excerpt: "The research study on Global AI Machine Learning market 2019 presents an extensive analysis of current AI Machine Learning market size, drivers, trends, opportunities, challenges, as well as key AI Machine Learning market segments. Further, it explains various definitions and classification of the AI Machine Learning industry, applications ..."
-    publishedDateTime: 2020-01-28T06:41:00Z
-    webUrl: "https://www.openpr.com/news/1910247/global-ai-machine-learning-market-facts-figures"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
 
 secured: "Lyuz7aE/SWMdEvFoSSrS1jy1lyyKo2u/gc0sJbpLDwH1QKxz4EmZGUIdg1aoYuTFn7Jkjpn+++eJ+/3HoEArHEilc1Ov8FAvF13DrimFb0ncoWovummWpXEan0Czr8dR+t7C632aipDL/1QOUHrSkbZ2UDIzZuht3do+plckZr/vBzDguKZpPiOZRviob+hOt0ysBGKEqnZHKxBxG4IP7hXOFs6zDtsNPhSU0QL0BTeEsbMI6GTOEAroWcnzp+6YSN3gHTglYtTRE+rTEtAuw8NddtIrx2jGFAEPJy/sgFtKFAnMrdYJIlo5/2UbhM8B;2c4I8Cg8CxMbRkc84lOWCA=="
 ---

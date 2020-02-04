@@ -31,19 +31,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Machine Translation Market 2020 The machine translation market is expected to register a CAGR of 7.1% during the forecast period 2020 - 2024"
-    excerpt: "Machine Translation Market 2019 analysis is provided for each region, based on the growth rate, consumer buying patterns, present demand and supply scenarios in Machine Translation Market. This market research report is a beneficial tool for its buyer to increase the profitability of investment,"
-    publishedDateTime: 2020-01-29T06:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-2020-the-machine-translation-market-is-expected-to-register-a-cagr-of-71-during-the-forecast-period-2020---2024-2020-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "The natural language processing (NLP) market is expected to progress at a 19.7% CAGR during 2019–2024 (forecast period) to $22.9 billion by 2024"
     excerpt: "New York, Jan. 29, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Natural Language Processing Market\" - https://www.reportlinker.com/p05842957/?utm_source=GNW Valuing $8."
     publishedDateTime: 2020-01-29T07:33:00Z

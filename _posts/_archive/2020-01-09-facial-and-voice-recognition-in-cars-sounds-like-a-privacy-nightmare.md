@@ -4,12 +4,10 @@ title: "Facial and voice recognition in cars sounds like a privacy nightmare"
 excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
 publishedDateTime: 2020-01-09T14:42:00Z
 webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
-ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
 type: article
-quality: 74
-heat: 104
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: Mashable
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8="
-    width: 1200
-    height: 630
-    title: "Facial and voice recognition in cars sounds like a privacy nightmare"
 
 related:
   - title: "Speech recognition and voice commands for your site"
@@ -34,42 +26,8 @@ related:
     provider:
       name: Medium
       domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg"
-        width: 1200
-        height: 564
-  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
-    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object ..."
-    publishedDateTime: 2020-01-09T20:49:00Z
-    webUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
-    ampWebUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1112561213.jpg"
-        width: 940
-        height: 627
-  - title: "What is Voice Recognition"
-    excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
-    publishedDateTime: 2020-01-11T11:41:00Z
-    webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
-    ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
-    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 44
-    images:
-      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
-        width: 600
-        height: 271
+    quality: 49
 
-secured: "hU7zvdMLnrZndEJx04OSCVLcNc5QICQR0vHzs5tHagjFzVsrNof3kzxaNZh+x//ihSEaKrPFUuECw2nw6hhHePTIE9L1jMUdw+HP/ek0dd4oQaofhKw75Ze++8UFYujIIS43EomGDpKRdBoAofefNCAyLivJ+o5FippP7EyCQj75zKiO4za9p3Ry/EY0JVQDQzY9NMb4ohMGT6epwmHIUole5c4mMMJnzCYae3VgArE2TY5Vh96mr1xefM2eDoAwTHD9tRlfkLVV7Nq+EQBP5F3zoZtK2Ioa4seYOcLqaP6hlchxGf0haFn+0SrN+yuS;uJgAAvIbzGgOwY7ul5Bd7Q=="
+secured: "4s2uISXHtv1JEgMiB9NscvYfy95lsE2T/oKIjGkGxaomOwNjg/xtTqhYjSa4hRLlPqP1E/YFBtBqhDd5HcshWGK/XJNsH364nlDyc64Zbv6mWehsG9O2EvyM0IJ/xuHqKO4zffufpPrgb2I5wGFOLa91edwQwxBiBPtnlYGQSJPh4GiXrmm4tN1g2C06iI3+wsrw/l3vwDxa/Mbcb5B2CkbJnCztQrD1zFRBdrAJK8SlyRQ1E0oJ3y56mBsktHctQdceoompHYYgUPQBAVFSpBGnPbbn+LzmD341OQtlYULCobkfat8dgRTD6vr9EjtSHrmVlCG4xTUtXpx5uFdKGR/MNjOjpVJooYZx5rlDMJ7mMW732PVKxtdq0JC6NbHHDYB6gw6B7UBo2UFD7E/SxgD7TwO0zxqH6cW7RVIfxzeHVE7w0Pc5Pa5f15Qzt4UNDh3q2mHeQh0IJ5mnYDtzvEB3Kot58k/RXdCeGgcunq0=;Iv06+YsFq8IvUVm+lvSeyg=="
 ---
 

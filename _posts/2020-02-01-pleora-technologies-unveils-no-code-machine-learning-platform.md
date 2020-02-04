@@ -23,6 +23,21 @@ images:
     height: 405
     title: "Pleora Technologies unveils \"no code\" machine learning platform"
 
+related:
+  - title: "Hushly's SaaS Platform Develops Artificial Intelligence Technology for B2B Marketers"
+    excerpt: "Hushly, a leading content engagement and conversion platform, has announced that they have fully embedded an artificial intelligence (AI) capability throughout their solution offerings. AI provides machine learning to B2B marketers and offers an automated way to develop high-quality content recommendations for increased conversions. Hushly's ..."
+    publishedDateTime: 2020-01-29T15:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hushlys-saas-platform-develops-artificial-intelligence-technology-b2b-/2020/01/29/9088913.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
+
 secured: "8LksCHHibmX3wpMDhfRxq5IXS++ZWin0JmjSOMUpUhSYWSf6SiA0MtTN7OvTKkor57Y6CmxVQEvDwOdk9A2l4VFNHDURPkNpzwb0ob2Mf5Ol+hdMamcWIcsCK1ybYZ0tfmgsm7fXB80eCsDGujvqebHrts+GcqIEa7yspgsTVlSJwLne8kvuf6+tysyPGU+asqPOxWBNr8HgC4QURvZk2bfCo73GFHJ7ARQ60APDAOMtEmx4uTT/yu1pSQ/H2JHe9+z9SeAkU9YVho+nurm9uRWwy3AruQrqCmSzjTWQvJ+PfyWSZ6iqE73jAuue5mkzInrfCEvtOO7m+FZGyRZe2AFKOODVkdRciRj3IwHux0iSjLnlYEPNTUN1Cm9dbkO0HqpMnTUypbzkH591N4Oa8BOw4vUf15ku381/8GX5Yx0a7htxzB9ICvUyhe13FEhHvxYHFkjfDwAWphSg2nw/x3nx8nnyCeXowoojMQlTcj0=;nBSkq1ocqVrBpSyj1HXyng=="
 ---
 

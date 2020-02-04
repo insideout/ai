@@ -5,8 +5,8 @@ excerpt: "AWS will file its official motion to delay work on Jan ... JEDI will h
 publishedDateTime: 2020-01-14T20:55:00Z
 webUrl: "https://www.fedscoop.com/aws-requesting-pause-jedi-work/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://www.fedscoop.com/wp-content/uploads/2020/01/AWS_-_Amazon_Web_Services_Office_in_Houston_Texas_46600198075.jpg"
-    width: 2100
-    height: 1401
-    title: "AWS will ask court to pause work on JEDI during protest"
-
-secured: "0JN6ohU6kVk7ccv/HRskpzA537+tk2hsIfxfaxNdtkObEWo2xcypfI536h70yHnZTySUKvtoPe2X8XEQnCfarrudfhwf1IT99rUmpTMuP3uP+MmWX2ccMtyUtuA/veGC5y9ddHQ8dMn2iLpK9nCBn30LvstYkuTGz2JG1yj3rcv0aKKHQ/6+Its36G6b0vZR0LRvFHuFiFh8ZPs491ppYiop0f7B+NOboS/bo0qIDDLKnSbdns1J/TJrAmseE3AlAzO5KCJKutUQLPoeq+grtFnRnExyiszmruf83cwxE7VJZ9drLlAHAQq++So5FIVn;iCpM+rejqF1E3gej0ayWrg=="
+secured: "EypnhUxbGUQvloCal27YYW4OFPUt0Mbdp2NmsJoCJ8p6ozvdcr5Pas3J+VVA6JUAUMCVIffjGJo/QzRIBXnf1Gga1Yd3US6bedCRSuQh4mzkNgRY2/yzwQLe9DU0P1eSCI2UnzlXH3/JtdpaRBPhWSfY6gtl5ESJmnmKZz+tlNovPZESeYVw9W1H1og1t+Hci8EXe9WDXP/6zFVpgL5pUuDpEv4wfy+q2foOP7JZhhaAj/nPwvuHKiqRGtTAwelLwElAHWKNPQhZtKJ1YrpC+0seGDYnKg91WX+fKX+/y48FD0ytkm6vf7tE3A9y/5sT;dzfBuWMFAhgUmn/yB811zQ=="
 ---
 

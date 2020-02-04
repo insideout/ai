@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/assessing-google-ceo
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -59,21 +59,6 @@ related:
       - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2020/02/2.48304518-496x372.jpg"
         width: 496
         height: 372
-  - title: "Google CEO calls for regulation of artificial intelligence"
-    excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
-    publishedDateTime: 2020-01-29T16:49:00Z
-    webUrl: "https://www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.html"
-    ampWebUrl: "https://www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.amp.html"
-    cdnAmpWebUrl: "https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.amp.html"
-    type: article
-    provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 57
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/b/06/b064a2d9-045d-540d-b183-8334cf9a9299/5e141419b5f14.image.jpg?resize=1024%2C695"
-        width: 1024
-        height: 695
   - title: "Electricity Can’t Hold a Candle to Artificial Intelligence in Significance, Says Alphabet CEO"
     excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. “AI is one of the most profound things we’re working on as humanity. It’s more profound than fire or electricity,” Alphabet Inc. CEO Sundar Pichai said in an interview at the World Economic Forum in Davos ..."
     publishedDateTime: 2020-01-29T01:16:00Z

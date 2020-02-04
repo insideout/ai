@@ -4,12 +4,10 @@ title: "Facebook taught its AI to speak math"
 excerpt: "Facebook managed this by not treating the equation like a math problem but rather like a language problem. Specifically the research team approached the issue using neural machine translation (NMT). In short, they taught an AI to speak math. The result was a system capable of solving equations in a fraction of the time that algebra-based ..."
 publishedDateTime: 2020-01-14T16:00:00Z
 webUrl: "https://www.engadget.com/2020/01/14/facebook-taught-its-ai-to-speak-math/"
-ampWebUrl: "https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Engadget
@@ -23,12 +21,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7952%252C5304%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252Fa6df90d0-fc30-11e9-bf3d-41e8fa5d6f01%26client%3Da1acac3e1b3290917d92%26signature%3Df51c7486a6dd8080945bf5ef5ac7482111cf2c46&client=amp-blogside-v2&signature=7c28bf857a46eba7eeca3ef58ca21d26e24a1234"
-    width: 600
-    height: 350
-    title: "Facebook taught its AI to speak math"
-
-secured: "8mQhTIRRhhcETFsG72thSMGWv57EvwvqFejjjKeu+NxBjanbJaGtNR7pNLDeeP//pzwLUaLI6a9UjEnnEzH9QaLwyuUyziSMEJJv+OvQHwTyCGLKELe6upvD8oXAdXRrNZ/DI5d/RsuifzZI5ao5ofllB42jj+KGyX0LPE2Jsl8Z5cEXF0VQuydSKMj5m404NCjS400YNNuw1vjFfBSdCdeVya2KrsWrkpCqVM+Zj+VNq3Dxghyg3KQZIuE1U3t3/ycpyosfqufNqh0bX5hKFrJN3EPmhcRzjy4cJMJ7iJdF6oL2D6kQqX6a1Hk3gK3H;F51biG2WRIutA+ofMBbZPA=="
+secured: "RqvWoHCH7+8j08OooErF1FWqN3SEfKyrpQVulyaWbtzL0wBl8Fla0OhhcJGXF4QCi75BhVsQ8i2ldkC0Ltqz2dbhuDlwenOaveLXaEXiF76m/7scTPiNC2tUHv+UAIU5Ko2kMztExDU8sul8x1V9/RCNB5CqVCTf6qm68KSSluTWFJnk62L2H6VMxTxNrMpaAbDKvr+VYfBPamg94QwIZ5QdeYzWTS8C1JfoXoQB8ahfPnKrJkbw/WcMAOLbVWebzoGtaUspKjvey4zCjJOvAOV0UVMvfBOWP4z6+rDPxMutVf9xqAxhzidPIGB16wWScBWz3+Gui37AJbMDBxOPhfDvA/45I9o1mm2X5vN60/zRaeNIob3hiZOB4PxQga4qTEMR/yyv2n6igi/8R0TkDGVPNp+I2fDsgYyoOD5b0iqz4ZJv/7Kfi4gUMnT4PsLCVI07rg2HevAoszo52jQ9CTU1SGlmWscqspihgXH6/vc=;fbyScQ8YksNNJ//uXFyf8A=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Object detection is a technology related to computer vision that deals
 publishedDateTime: 2020-01-05T19:42:00Z
 webUrl: "https://medium.com/swlh/object-detection-techniques-in-computer-vision-7c169771fb15"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://miro.medium.com/max/1200/1*EMSp4prWUW13rH_0FnhKEg.jpeg"
-    width: 1200
-    height: 900
-    title: "Object Detection Techniques in Computer Vision"
-
-secured: "mDktCDxO2ML2HSfl0bwU6r7rFAG9CRr/S97EjXHq7spWioguD8pWVVKSYeOgjAYDR6JbrrDp2UILovJJnXf8Pyt+SOLCsXxHo+f0EzMBcB9J5yBVlAqqxOFhp10NT1UjEVdUPHoZjv3ijdaIZKOr+mRW6mOb/CZdEX8r4wn1k4oqTjCsG+boAxFbQ7F562s+02kyogRPjk/XZ2rJXY3EslScsZx7q09FDet5vdzYnptlISZp63h6h4rb4nraCHEhiFwtGkEuoXIaJ59vi0a1RYdz2ACLZH7Z5uwNOV2nNKvZNrYX/xtVJWSVyAchcnxb;Tq/NQgjQaHtHCd5TKVJZUA=="
+secured: "k7p0z5K3sy1Hml6w64yBT/8V2bM58ftIDsklXtd9dwTs8yExm7PWf2wGE5li7I8fCk5UfVZt8UcDV5WmPzfNx1rWnNhDrFTso78x885L+FtUP1OtrzfMs5M8Jmb+95Ol3bk/hAuX4S8UAtLBh0a70osYNUONfWngQmg54iQevtoBUY7wMBtXnBgDcmgEPepGGvtji419ngwPitY1O9d05GIDIPx5w/wMLX2KnXiDPHrISBG0KvF0kLn7UgrSpLnhAzRG3AC6acWQ+IQNdSh8ZPV6NJDIJxPwUdmUcoomWXkv6w/bCpSYp8g9cSKMrfAY;f2Polh08WOSYa8yyu501OA=="
 ---
 

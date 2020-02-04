@@ -27,19 +27,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-  - title: "Vision Screeners Market is expected to witness healthy growth at an estimated 6% CAGR during 2019-2029"
-    excerpt: "VALLEY COTTAGE, N.Y. - Global vision screener sales are likely to near US$ 500 Mn by the end of 2019. According to a new research intelligence study presented by Future Market Insights (FMI), the market for vision screeners will continue to witness an average 5."
-    publishedDateTime: 2020-01-24T11:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/vision-screeners-market-is-expected-to-witness-healthy-growth-at-an-estimated-6-cagr-during-2019-2029-2020-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "e65AzuHv6wJikzkHWtT67vvRfFCMLfbY3edTJM1UerTwAl20EVewZW7dIZ/f5Rfq4j9iAMM0fFfv26mRTssnoWvKaoxh3MJJiUTKhNcC/Lmv/2fzdUIB0BcK9st0NXqPCdHStoh2vuR+gER3pHL4umgf+yKDfjLPXXnorg5tWnCtbugxj/fBUV+Ef1Y/hAAcsGBnyqKPG9KzF/eXuh8keP8owHqFcxS6WsYS+At9tEZ4wKnxazs28WZ5KnvbjkBvyQ89FeLe/C6iacz0Wl2WSJExbSxmWoRRlPy/ghkTimHPXRjWXi0huLzrxLd9Oo4p;VwsFlrRjmfH4vu02DaATmw=="
 ---

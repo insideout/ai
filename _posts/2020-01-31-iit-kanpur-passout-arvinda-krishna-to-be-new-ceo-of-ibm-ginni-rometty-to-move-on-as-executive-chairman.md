@@ -46,6 +46,15 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 24
+  - title: "Will IBM’s new CEO Krishna build on his predecessor’s legacy?"
+    excerpt: "She divested unprofitable businesses and bet big on an AI data-analytics tool called Watson. Yet the efforts were stymied by the emergence of a new competitor in the delivery of computing over the internet: Amazon.com Inc. During one particularly painful several-year stretch, IBM’s sales declined for 17 quarters in a row. For its part ..."
+    publishedDateTime: 2020-02-04T05:27:00Z
+    webUrl: "https://gulfbusiness.com/will-ibms-new-ceo-krishna-build-predecessors-legacy/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 4
 
 secured: "4hD7dpqEFpsoi7WAvLcGE1jQ3uOAJG1aqmJ5RZ1z3VCowigjg4rIKeCfwwuKg1HdmlxeWOrt+hw6o7v28itIsTCDt+IXtIdfaEVrzqal9PreaXIIGAYRcm5RMMmA5mqxgZW37bI3imAcDrWfHjbeyzmGz3uDHWE5n7EEZat5btlrtB+jWUAnZjZwTfUFWtffxB/Uvg/7IjDaB8xQ25pmwAmxxmtw9chv6SYZVe1ySnFjG3y0RFAJ8usIGQnf8WZkbYI73GoP2oPsZ/hgsRHvb1H8MiBcUGPTDSVZLzS2Y9z4Jrcw6CeWSeO+ubg2/p1FTc7EYRY5oH2++qpcH8D9xaj0c5aOwrxtsaeRVpZmklAqRn8x0Tp+AOtQWDZ8J19QkMHLMH9vIkf90/kfAtWT3lP6hQuXyD88Y1bqQwuocM9bd1MJ4xfZ3JHmVXSnv4NncqIEdW0+qXTDYuVd/vfphpS+58diYUxl0Zzwsq3o81A=;Lhf8bXFOHi4VEaGEx1QyKQ=="
 ---

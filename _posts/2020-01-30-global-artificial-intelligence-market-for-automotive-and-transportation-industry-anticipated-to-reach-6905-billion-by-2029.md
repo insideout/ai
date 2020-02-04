@@ -24,19 +24,67 @@ images:
     title: "Global Artificial Intelligence Market for Automotive and Transportation Industry Anticipated to Reach $69.05 Billion by 2029"
 
 related:
-  - title: "Artificial Intelligence In Agriculture Market Are Going Towards Increase In Productivity And Yield By 2025: Grand View Research Inc."
-    excerpt: "The Global Artificial Intelligence In Agriculture Market size is expected to reach USD 2.9 billion by 2025, according to a new report by Grand View Research, Inc. The market is anticipated to register a CAGR of 25."
-    publishedDateTime: 2020-02-03T17:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-are-going-towards-increase-in-productivity-and-yield-by-2025-grand-view-research-inc-2020-02-03"
+  - title: "Artificial Intelligence (AI) in Cyber Security Market - Global Industry Analysis by Size Share Growth Trends and Forecast 2020 - 2025"
+    excerpt: "Global Artificial Intelligence (AI) in Cyber Security Market is expanding at a healthy CAGR between 2020-2025. On the basis of component, the segment is expected to emerge as the leading one in the forecast period."
+    publishedDateTime: 2020-01-31T12:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market---global-industry-analysis-by-size-share-growth-trends-and-forecast-2020---2025-2020-01-31"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Market Opportunities, Challenges, Risks and Influences Factors Analysis to Reach CAGR of 47.77% in 2023"
+    excerpt: "Artificial Intelligence Industry 2020 Global Market research report studies latest Artificial Intelligence industry aspects market size, share, trends, growth, business overview and Artificial Intelligence industry scenario during the forecast period (2020-2023)."
+    publishedDateTime: 2020-01-27T17:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-opportunities-challenges-risks-and-influences-factors-analysis-to-reach-cagr-of-4777-in-2023-2020-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Machine Translation Market 2020 The machine translation market is expected to register a CAGR of 7.1% during the forecast period 2020 - 2024"
+    excerpt: "Machine Translation Market 2019 analysis is provided for each region, based on the growth rate, consumer buying patterns, present demand and supply scenarios in Machine Translation Market. This market research report is a beneficial tool for its buyer to increase the profitability of investment,"
+    publishedDateTime: 2020-01-29T06:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-2020-the-machine-translation-market-is-expected-to-register-a-cagr-of-71-during-the-forecast-period-2020---2024-2020-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Neural Network Software Markets, 2025"
+    excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"Neural Network Software Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Neural Network Software Market was valued at USD 8."
+    publishedDateTime: 2020-01-31T11:16:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/01/31/1978041/0/en/Neural-Network-Software-Markets-2025.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 19
+  - title: "Artificial Intelligence in Cybersecurity Market to Witness an Outstanding Growth during 2019-2030 | Intel, NVIDIA, IBM,"
+    excerpt: "Latest research report on ‘Global Artificial Intelligence in Cybersecurity Market’ delivers essential information ... IoT devices are used extensively by the healthcare, finance, and infrastructure sectors. The increasing number of connected devices and the growing need for the IoT have significantly contributed to the growing demand ..."
+    publishedDateTime: 2020-01-31T12:28:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38123/artificial-intelligence-in-cybersecurity-market/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 15
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
 
 secured: "t5mVfFZuR66gG2gjaF3geaHtRbrXYEuAUt1VGTMqn0ghlRFEPYllofFKZbCwczVXhcdTJIj+j3hm2WAZWk/w5zP9S2Go0Nduhu7clXZ491Gvl8InkMQyC29I7tUGLTSjinKFoohqwNEMulmx9gmbQVu2wZPGFa2mrw/BkYtkutpbXpCMCAaDQRNs1huTrxLFrO1VQmggNVZqCzjd9rb4hag4UD3Hb1Tp9J9cPpt0RWoWn7FkAmclqiJ0vLL5pvYG0kAbmOoiZUPBZgmO+VjX/DU2jIUvpUJgHm7RNHZjxGU9G7yVyR3HDgMmz97BhD6xvyHPN1jUHCSHlLZToRy6f0VMDQvb6YiDyX7R9qh3mavy85m6LutRkiHaeZ7+6Z/RqShWVYISahoDxCM4cpoO0ALFYsfL8Kw4fKVDKEkqzvRPAlJyLvznKcaTFvCyrQ3ufSw6H4fchuWmnXrZrnvlNF5dSu+l0dX4yUDTwvZG6oM=;vlOdCThLOZO58VjV3jm4eA=="
 ---

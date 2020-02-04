@@ -60,21 +60,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
         height: 763
-  - title: "Go read this NYT expose on a creepy new facial recognition database used by US police"
-    excerpt: "Hundreds of law enforcement agencies across the US have started using a new facial recognition system from Clearview AI, a new investigation by The New York Times has revealed. The database is made up of billions of images scraped from millions of sites including Facebook, YouTube, and Venmo. The Times says that Clearview AI’s work could ..."
-    publishedDateTime: 2020-01-20T12:36:00Z
-    webUrl: "https://www.theverge.com/2020/1/20/21073718/clearview-ai-facial-recognition-database-new-york-times-investigation-go-read-this"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/20/21073718/clearview-ai-facial-recognition-database-new-york-times-investigation-go-read-this"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/20/21073718/clearview-ai-facial-recognition-database-new-york-times-investigation-go-read-this"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 182
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/yOeSDRl6VhpTPutJboexnMFrrT4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66132463/jbareham_170417_1617_0001.0.jpg"
-        width: 1400
-        height: 933
   - title: "Clearview AI faces lawsuit following facial recognition privacy concerns"
     excerpt: "A lawsuit is taking aim at Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people. The app is under fire after a New York Times investigation into the software company earlier this week. The app identifies people by comparing photos to a database scraped from social media and ..."
     publishedDateTime: 2020-01-25T00:40:00Z

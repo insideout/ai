@@ -75,21 +75,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/01/21/business/21china-pajamas/21china-pajamas-facebookJumbo.jpg"
         width: 1050
         height: 550
-  - title: "Go read this NYT expose on a creepy new facial recognition database used by US police"
-    excerpt: "Hundreds of law enforcement agencies across the US have started using a new facial recognition system from Clearview AI, a new investigation by The New York Times has revealed. The database is made up of billions of images scraped from millions of sites including Facebook, YouTube, and Venmo. The Times says that Clearview AI’s work could ..."
-    publishedDateTime: 2020-01-20T12:36:00Z
-    webUrl: "https://www.theverge.com/2020/1/20/21073718/clearview-ai-facial-recognition-database-new-york-times-investigation-go-read-this"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/20/21073718/clearview-ai-facial-recognition-database-new-york-times-investigation-go-read-this"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/20/21073718/clearview-ai-facial-recognition-database-new-york-times-investigation-go-read-this"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 182
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/yOeSDRl6VhpTPutJboexnMFrrT4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66132463/jbareham_170417_1617_0001.0.jpg"
-        width: 1400
-        height: 933
   - title: "Twitter demands AI company stops using its images to fuel facial recognition"
     excerpt: "Twitter had demanded that an AI company stops taking images from its website to be used with facial recognition software, and deletes the images it has collected thus far. Clearview recived a cease and desist letter from Twitter, after it emerged it has harvested more than three billion photographs from sites such as Twitter and Facebook ..."
     publishedDateTime: 2020-01-24T11:58:00Z

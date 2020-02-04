@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Volusia Sheriff’s Office adds facial recognition technology"
-excerpt: "DAYTONA BEACH — The Volusia County Sheriff’s Office has begun using controversial facial recognition technology that some privacy experts say can intrude on personal privacy. But Sheriff Mike Chitwood said in an interview on Monday that the department ..."
+excerpt: "DAYTONA BEACH — The Volusia County Sheriff’s Office has begun using controversial facial recognition technology that some privacy experts say can intrude on personal privacy. But Sheriff Mike Chitwood said in an interview on Monday that the department is putting in safeguards to protect privacy as it tries out Clearview AI. The company ..."
 publishedDateTime: 2020-02-03T17:59:00Z
-webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology"
-ampWebUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
-cdnAmpWebUrl: "https://www-news--journalonline-com.cdn.ampproject.org/c/s/www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
+webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology"
+ampWebUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology?template=ampart"
+cdnAmpWebUrl: "https://www-news--journalonline-com.cdn.ampproject.org/c/s/www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology?template=ampart"
 type: article
 quality: 59
 heat: -1
@@ -20,9 +20,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://www.news-journalonline.com/apps/pbcsi.dll/bilde?Site=LK&Date=20200203&Category=NEWS&ArtNo=200209522&Ref=AR"
-    width: 461
-    height: 345
+  - url: "https://www.news-journalonline.com/storyimage/LK/20200203/NEWS/200209522/EP/1/1/EP-200209522.jpg?MaxW=600&MaxH=600"
+    width: 361
+    height: 483
     title: "Volusia Sheriff’s Office adds facial recognition technology"
 
 related:
@@ -114,6 +114,21 @@ related:
       - url: "https://cdn.newsday.com/polopoly_fs/1.41286231.1580616519!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
         width: 1280
         height: 719
+  - title: "Veridium brings facial recognition to all phones in password-less push"
+    excerpt: "James Stickland, chief executive of Veridium, which aims to bring facial recognition to all mobile phones Credit: Veridium A start-up backed by City tycoon Michael Spencer is seeking to bring facial recognition to all mobile phones with a front-facing camera in a bid to eliminate passwords. Cyber security firm Veridium's new vFace system ..."
+    publishedDateTime: 2020-02-04T06:00:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg"
+        width: 2880
+        height: 1800
   - title: "“Coded Bias”: New Film Looks at Fight Against Racial Bias in Facial Recognition & AI Technology"
     excerpt: "So, this can be around perceiving the world, so computer vision, giving computers eyes. It can be voice recognition. It can also be about communication. So, think about chatbots, right? Or think about talking to Siri or Alexa. And then, another component to artificial intelligence is about discernment or making judgments. And this can become ..."
     publishedDateTime: 2020-01-31T13:15:00Z
@@ -206,6 +221,6 @@ related:
       domain: fox5ny.com
     quality: 4
 
-secured: "nMpwRhx21smRfQLnuv7ynr3tItakNJDg1UrcELryqsI2dkhuDTNPTb1pXGp2Wf1NF8OLeY2Ml+cMgaLmOXkiGcm0ayEK6ZA9yCARsl10vUleV3530j59+C6AD2Q2ghrvXuRAY8ruKpjVKtLOi1z5UAmG0Qgdn1elLgnGb+vlyXDi2k9Jmwwyf0dxFtlauFL0/t7bsULTOLSjMF2T8bu7yraDc8gLDircXmO3geBuCxfPYIhV0M1093Mi9PtRkQDiJs1qvKq7pIkya2ueyeXgvUMoORYtfb+r0j4rocFexe7VznfnJBLmQDfYaYMG0K9+;hSd7hmxoi5YWf2Zqksz1Hg=="
+secured: "jHqhL+qA0PrFoZx74BEgy9YMEgaa/bH7i8RfvGpNzTY/XHSnerwyLPtrLBEjuFrhes2O2JoKtAG7JJP+TN3URfdEuXuVR/CFTqAs1JaPzF2W1KikwtShVU7D0thA46mANeVaSRcHtJigixvAfQ8wc5Sm7i5vSsURa39dBsl/egBf7q1yvZIMmASWByrLaJIzDg23PXifhNjEh59QTDGM3/8phl+itv5Crp9nUvg7EESNFcNbZfWGOPaGTaXEovQnE23nn82CiqV/9tgUiWbF0/Ivwyns8Azf3Zjyv2ckwxQakABjxqFkvV5ZNtYGYH6u;/h1dGZ+4iSBubVh2oh0McQ=="
 ---
 

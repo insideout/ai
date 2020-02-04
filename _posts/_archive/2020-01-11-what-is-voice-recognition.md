@@ -4,11 +4,9 @@ title: "What is Voice Recognition"
 excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
 publishedDateTime: 2020-01-11T11:41:00Z
 webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
-ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
-cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
 type: article
-quality: 44
-heat: -1
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -19,57 +17,17 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
-    width: 600
-    height: 271
-    title: "What is Voice Recognition"
-
 related:
-  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
-    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
-    publishedDateTime: 2020-01-09T14:42:00Z
-    webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
-    ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
+  - title: "Down Syndrome Group Partnering With L.I. College To Improve Google’s Voice Recognition Technology"
+    excerpt: "ROCKVILLE CENTRE, N.Y. (CBSNewYork) — Some Long Islanders are helping to teach Google how to better understand them. They’re people with speech differences and they’re helping improve the ..."
+    publishedDateTime: 2020-01-15T00:08:00Z
+    webUrl: "https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8="
-        width: 1200
-        height: 630
-  - title: "Speech recognition and voice commands for your site"
-    excerpt: "Many of the smart devices we use every day support speech recognition technology. We use the voice to search for information, buy goods, even manage other devices. The tech giants use voice search ..."
-    publishedDateTime: 2020-01-04T10:34:00Z
-    webUrl: "https://medium.com/voice-tech-podcast/speech-recognition-and-voice-commands-for-your-site-e1931d60ba03"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg"
-        width: 1200
-        height: 564
-  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
-    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object ..."
-    publishedDateTime: 2020-01-09T20:49:00Z
-    webUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
-    ampWebUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1112561213.jpg"
-        width: 940
-        height: 627
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 0
 
-secured: "9yL4b2b0DsqcTqj1B6aUrc4g2qQQ901bjpQZs1oz/WTZQXO9zKG8oC5JdByZNjoOdLJgeSnyr7N4TBVIZi+ZTtLFItZ/je9NrF9PClpBaADd/OfWzMyuof4btCLjCNuojHvTr6aoyMl96xfIh0X1HfPE+cuBWcoFZqATUEYQwCspHyrOs7CaqUAY1QjoB5FoWjOuSnCgNsHShr92EPcXPq1ZUXurFJsdXKh2gt5dzyJPAMF3eWJb9fU9HolFrDzbwtMozCR+JsVm0MYWzZrmfN7OVQewqAqlqK2pRL2EA+rEDfXUIpDFH4917vL9o/07;FjwZOGB8mAp9DzuLl7SQWw=="
+secured: "SKozHXn9Uxl2dXJuNONo2NiAj766DSmewZ7G9/bZTxUzpM1ghjxTgKPa7hYLLUXqmtfRAy7T2ZaDQWGLwT0ZWGRRNEWtj+cQyKox4K1B5EukV0l9FJumoh06xA1JjcedbPJoKGDuShfTT/oUW4BwbMXrXWQ/Eqa8T85RJ+j8mzksKyW2EVQjaQYO8iSY3RgESRcDHh2sA2QMF4GpffyufT8m/TjuVZGeg4VDxgf9lMjdQ2ifwtyADhsLGVscKSxIyCC6Cfd03u+6h2Iok+BtEFGmdRyS4z0IQV4WWGKcQgp6W74T6H9zYC8wz92WC1l/;EaVUzJkw6SKtvm3NzQOUVA=="
 ---
 

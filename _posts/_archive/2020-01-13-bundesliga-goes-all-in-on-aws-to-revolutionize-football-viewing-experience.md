@@ -17,17 +17,6 @@ topics:
   - AI
   - AWS AI
 
-related:
-  - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
-    excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 ..."
-    publishedDateTime: 2020-01-13T15:16:00Z
-    webUrl: "https://www.telecompaper.com/news/bundesliga-picks-aws-to-deliver-real-time-statistics-personalised-match-footage--1322513"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 14
-
-secured: "MoXGflmypsdJE9fac8Xq3MeA2oe0cNCSF4Mpap0BHQBdeBVN3Opwmkmob57x6naw2juyHyNH13lag9zIHYQpospWKZbHb7i+lMNk2Pqf1XvnAzlivjHFPWDXQvufqUPi0t4KBMlhYNi0AUxGiIWOzh9Wqf/+DBvyN9x7NVMGR9Be2dKKcl9mTgdJ7fX0NVUyrqIMpcxbBUjAioBQp2cBNYKnQkN5M4mAvyJcHdo5UpmzK+YALOeI7Xqg9aP4clFsLYGOJJMOiT0v9UmPqcRpH+KQ4mqkLRx0vOccPY71dEj8hjX3Fas/Qx/CwW5XgA5c;Fr/C6IhtwzfUlZULa1aS7w=="
+secured: "SLFy7oxmCkRbByHkKLmGFih3MU+T7scAgsESVwVYUP7sigwszv9V9c49vn4oUsKDoyEgCjRxAw4PwcT3nLQRDffy5aiw62a619YrF5c1JRmZt63JJAGBcrD945Gj8YId73zACxqr01DeY74PLl5kcCjvSJKj7GkdSYrwNY+tu4Qhvrt5NrhOeM9tqRDz65kkm5t1KyVyS3fQekdWMJWHfK8WZy3fi30NkxWgY22GHspjlmZkafjg5t0X+9028fL8X5zklppV1fK86u4N4Zo2xnEhVI07Zd/AbFZcOiTWBny2nAqJt9ZY5bQBXsmFMB5S;Ia4OLPJo9bzIffjAHf5GLg=="
 ---
 

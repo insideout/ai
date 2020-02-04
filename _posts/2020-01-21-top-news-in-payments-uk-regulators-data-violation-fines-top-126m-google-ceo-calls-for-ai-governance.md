@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
-    excerpt: "The project applied Google-developed object recognition AI to drone surveillance technology. Google vowed in its AI principles not to create AI that would harm people, but Pichai noted that \"principles that remain on paper are meaningless\" without action, pointing to the tools Google has developed and open-sourced to test AI for \"fairness\"."
-    publishedDateTime: 2020-01-20T12:16:00Z
-    webUrl: "https://www.zdnet.com/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/20/8a43aa65-ab15-4748-ae46-fd15a2c75df8/googlesundarpichaicbs.jpg"
-        width: 1101
-        height: 828
-  - title: "Google CEO backs temporary ban on facial recognition"
-    excerpt: "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ..."
-    publishedDateTime: 2020-01-21T17:22:00Z
-    webUrl: "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar"
-    ampWebUrl: "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 89
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
   - title: "Alphabet CEO Sundar Pichai explains why AI needs to be regulated"
     excerpt: "This is the stance of Alphabet (parent company of Google) CEO Sundar Pichai, expressed in the form of an op-ed article in the Financial Times Monday. Pichai calls AI \"one of the most promising new technologies,\" but also highlights possible risks stemming from careless use of AI, naming a few historical examples in which breakthrough new tech ..."
     publishedDateTime: 2020-01-20T14:28:00Z
@@ -109,6 +79,21 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
         width: 1024
         height: 512
+  - title: "ProBeat: Why Google is really calling for AI regulation"
+    excerpt: "On Sunday, the Financial Times published an op-ed penned by Sundar Pichai titled “Why Google thinks we need to regulate AI.” Whether he wrote it himself or merely signed off on it, Pichai clearly wants the world to know that as the CEO of Alphabet and Google, he believes AI is too important not to be regulated. He has concerns about the ..."
+    publishedDateTime: 2020-01-24T18:30:00Z
+    webUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/"
+    ampWebUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Google CEO Sundar Pichai: We must be 'clear-eyed' about how AI could go wrong"
     excerpt: "CEO of Google and Alphabet Sundar Pichai is convinced that AI must be regulated in order to prevent the potential negative consequences of tools including deepfakes and facial recognition, he said in an op-ed for the Financial Times on Monday. \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai wrote."
     publishedDateTime: 2020-01-20T13:18:00Z
@@ -137,32 +122,21 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg"
         width: 760
         height: 428
-  - title: "Alphabet CEO backs temporary ban on facial-recognition, Microsoft disagrees"
-    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium,"
-    publishedDateTime: 2020-01-20T21:07:00Z
-    webUrl: "https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O"
+  - title: "Google’s Sundar Pichai calls for regulation of artificial intelligence"
+    excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
+    publishedDateTime: 2020-01-21T14:26:00Z
+    webUrl: "https://www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/"
+    ampWebUrl: "https://www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Vanguard
+      domain: vanguardngr.com
     quality: 72
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107"
-        width: 863
-        height: 545
-  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1"
+        width: 600
+        height: 400
   - title: "Sundar Pichai offers a cryptic warning against over-regulating AI"
     excerpt: "He discusses his love for technology dating back to his childhood before immediately moving on to all the good that Google‘s doing: Just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in ..."
     publishedDateTime: 2020-01-20T20:51:00Z
@@ -202,66 +176,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2018/12/Google-CEO-Congress.jpg?w=1024&h=683"
         width: 1024
         height: 682
-  - title: "Alphabet CEO Sides With EU on Facial-Recognition Tech Moratorium, But Microsoft Isn't Convinced"
-    excerpt: "Alphabet and Google CEO Sundar Pichai recently came out in support of a European Union proposal for instating a temporary ban on facial-recognition technology until officials beef up privacy regulations. “I think it is important that governments and regulations tackle it sooner rather than later and give a framework for it,” he said Monday ..."
-    publishedDateTime: 2020-01-21T01:35:00Z
-    webUrl: "https://gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655"
-    ampWebUrl: "https://gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 62
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--CZyG925X--/c_scale,f_auto,fl_progressive,q_80,w_800/rkvdxghinp3toasyjnon.jpg"
-        width: 800
-        height: 533
-  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
-    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI), calling their alignment “critical ... predicting the weather as well as advancements by its self-driving car unit, Waymo. The Google chief said that existing rules like Europe’s privacy legislation, known as ..."
-    publishedDateTime: 2020-01-20T14:21:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 61
-    images:
-      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
-        width: 1000
-        height: 652
-  - title: "Google CEO: 'Artificial intelligence needs to be regulated'"
-    excerpt: "Google CEO Sundar Pichai is calling for governments around the world to regulate artificial intelligence, saying the sensitive technology should not ... go too far as they work to rein in high-stakes technologies like facial recognition and self-driving vehicles. His speech in Europe and companion op-ed come as Europe weighs new ethics ..."
-    publishedDateTime: 2020-01-21T18:25:00Z
-    webUrl: "https://thehill.com/policy/technology/479176-google-ceo-artificial-intelligence-needs-to-be-regulated"
-    ampWebUrl: "https://thehill.com/policy/technology/479176-google-ceo-artificial-intelligence-needs-to-be-regulated?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479176-google-ceo-artificial-intelligence-needs-to-be-regulated?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 61
-    images:
-      - url: "https://thehill.com/sites/default/files/pichaisundar_121118gn14_lead.jpg"
-        width: 980
-        height: 551
-  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
-    publishedDateTime: 2020-01-20T12:36:00Z
-    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-    ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-        width: 1200
-        height: 628
   - title: "Artificial intelligence poses dangers, Google boss warns"
     excerpt: "including driverless cars, which utilise AI. Pichai also revealed that Google’s own principles specify that the company will not design or deploy artificial intelligence in some situations ..."
     publishedDateTime: 2020-01-20T23:07:00Z
@@ -307,21 +221,6 @@ related:
       - url: "https://www.wrbl.com/wp-content/uploads/sites/24/2020/01/Google-CEO-Sundar-Pichai-Jan-20-2020-in-Brussels-AP-Photo-Virginia-Mayo.jpeg?w=1000&h=666&crop=1&resize=1280,720"
         width: 1280
         height: 720
-  - title: "AI Is Promising but Needs Regulation, Says Alphabet CEO"
-    excerpt: "Among the areas that AI has been touted as being used for are visual perception, speech recognition and language translation. Last year, several Bay Area cities, including Oakland, San Francisco, Berkeley and Alameda banned the use of facial recognition technology by law enforcement officers on the grounds that it could violate individuals ..."
-    publishedDateTime: 2020-01-21T23:44:00Z
-    webUrl: "https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html"
-    ampWebUrl: "https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/connected+city.jpg"
-        width: 944
-        height: 630
   - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
     excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
     publishedDateTime: 2020-01-21T13:56:00Z
@@ -382,6 +281,15 @@ related:
       - url: "https://media.wtsp.com/assets/WTSP/images/af91cf10-ae93-45c0-a767-233fc2d2139a/af91cf10-ae93-45c0-a767-233fc2d2139a_360x203.jpg"
         width: 360
         height: 203
+  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 49
   - title: "Google CEO calls for AI regulation to avoid 'negative consequences' of thinking machines"
     excerpt: "In 2018, Google pledged not to use AI in applications related to weapons, surveillance that violates international norms, or that works in ways that go against human rights. Pichai was also due on Monday to meet Frans Timmermans, the EU commissioner overseeing the European Green Deal, the bloc's plan to fight climate change by making the ..."
     publishedDateTime: 2020-01-20T14:08:00Z
@@ -397,21 +305,6 @@ related:
       - url: "http://media.foxbusiness.com/BrightCove/854081161001/202001/3712/854081161001_6124332457001_6124328270001-vs.jpg"
         width: 1280
         height: 720
-  - title: "Alphabet CEO backs temporary ban on facial-recognition technology"
-    excerpt: "Part of this includes a moratorium of up to five years on using facial recognition technology in public areas, to give the EU time to work out how to prevent abuses, the paper said. \"It can be immediate, but maybe there's a waiting period before we really think about how it's being used,\" Pichai said. \"It's up to governments to charter the ..."
-    publishedDateTime: 2020-01-20T18:29:00Z
-    webUrl: "https://www.aljazeera.com/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html"
-    ampWebUrl: "https://www.aljazeera.com/amp/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 44
-    images:
-      - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/1/20/dccfa1973fd14e5abe2bd26378c6542c_18.jpg"
-        width: 583
-        height: 325
   - title: "Hashtag Trending – Google CEO calls for AI regulation; gotta hand it to Amazon; adult site leaks data"
     excerpt: "Google has its own AI principles to help guide this work, but Pichai said there’s still a lot to be done and that “principles that remain on paper are meaningless.” Numerous sci-fi books and movies have broached the idea of implanted chips in humans allowing them to perform such actions as paying for an item by simply swiping their hand ..."
     publishedDateTime: 2020-01-21T10:29:00Z
@@ -427,17 +320,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
         width: 620
         height: 250
-  - title: "Alphabet’s Sundar Pichai backs proposed EU facial recognition ban, Microsoft’s Brad Smith disagrees"
-    excerpt: "Alphabet CEO Pichai said facial recognition technology could be used for nefarious purposes But Microsoft President Smith said a ban was akin to using a meat cleaver instead of a scalpel to solve potential problems While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium ..."
-    publishedDateTime: 2020-01-21T02:32:00Z
-    webUrl: "https://www.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition"
-    ampWebUrl: "https://amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 40
   - title: "Artificial intelligence needs to be regulated, says new Google CEO"
     excerpt: "EPA/BORIS ROESSLER Alphabet and Google chief Sundar Pichai called for a global regulation of artificial intelligence at a conference in Brussels. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this”, Pichai said, adding that “while AI promises enormous benefits ..."
     publishedDateTime: 2020-01-21T12:29:00Z
@@ -451,58 +333,6 @@ related:
       - url: "https://www.neweurope.eu/wp-content/uploads/2016/03/Google_07.jpg"
         width: 2048
         height: 1223
-  - title: "Google CEO Adds His Voice to AI Regulation Debate"
-    excerpt: "\"Decisions about hiring, healthcare, insurance and so on should not be made by AI, which has no morality, no ethics, and no sense of social good,\" he continued. \"Machine learning and AI will do whatever they're programmed to do -- whatever the algorithms dictate,\" added Sterling. \"Humans must set limits on the application of these technologies ..."
-    publishedDateTime: 2020-01-21T12:32:00Z
-    webUrl: "https://www.technewsworld.com/story/86465.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 39
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2015-artificial-intelligence-1.jpg"
-        width: 620
-        height: 340
-  - title: "Alphabet CEO Pichai backs temporary ban on facial-recognition technology"
-    excerpt: "The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes. \"I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,\" Sundar Pichai ..."
-    publishedDateTime: 2020-01-20T19:43:00Z
-    webUrl: "https://www.itnews.com.au/news/alphabet-ceo-pichai-backs-temporary-ban-on-facial-recognition-technology-536769"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 38
-    images:
-      - url: "https://i.nextmedia.com.au/News/2020-01-20T145332Z_1_LYNXMPEG0J1CD_RTROPTP_3_GOOGLE-EU.JPG"
-        width: 800
-        height: 526
-  - title: "Google CEO calls for balanced regulations on artificial intelligence"
-    excerpt: "Photo: Carsten Koall/Getty Images. Google CEO Sundar Pichai is calling for regulations on artificial intelligence, warning that the technology can bring both positive and negative consequences, AP reports. Why it matters: Lawmakers are largely scrambling to play catch-up on AI regulation as the technology continues to grow. Pichai did not ..."
-    publishedDateTime: 2020-01-20T17:03:00Z
-    webUrl: "https://www.axios.com/google-ceo-pichai-artificial-intelligence-675c3aa3-c448-43de-9583-f5bc0cafc840.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/fgQ_LpBfLVphNGMo277w4HmoUzc=/0x225:4500x2756/1920x1080/2020/01/20/1579537275537.jpg"
-        width: 1920
-        height: 1080
-  - title: "Google CEO calls for artificial intelligence regulation"
-    excerpt: "Google CEO Sundar Pichai on January 20 called for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also \"negative consequences.\" Sundar Pichai's comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is used."
-    publishedDateTime: 2020-01-21T05:50:00Z
-    webUrl: "https://www.wionews.com/videos/google-ceo-calls-for-artificial-intelligence-regulation-275642"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 37
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/21/125195-ceo.png"
-        width: 918
-        height: 506
   - title: "Google CEO speaks on artificial intelligence at WEF in Davos"
     excerpt: "Google CEO Sundar Pichai spoke at the World Economic Forum in Davos about the impacts of technology and how artificial intelligence and quantum computers can change human lives. Pichai said that even though there were risks with artificial technology, the biggest risk was to not work on it and make AI better."
     publishedDateTime: 2020-01-23T09:05:00Z
@@ -516,17 +346,6 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/23/125592-pichai.jpg"
         width: 918
         height: 506
-  - title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
-    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
-    publishedDateTime: 2020-01-21T03:18:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 36
   - title: "Google CEO vows respect for privacy as data giant develops AI for medical use"
     excerpt: "Sundar Pichai, the CEO of Alphabet and its Google subsidiary, said yesterday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence (AI) to improve outcomes. He vowed that the technology giant will ..."
     publishedDateTime: 2020-01-23T02:46:00Z
@@ -551,15 +370,15 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 33
-  - title: "Alphabet CEO Sundar Pichai backs temporary ban on facial-recognition"
-    excerpt: "BRUSSELS: The EU's proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban ..."
-    publishedDateTime: 2020-01-21T04:43:00Z
-    webUrl: "https://www.livemint.com/news/world/alphabet-ceo-sundar-pichai-backs-temporary-ban-on-facial-recognition-11579580121877.html"
+  - title: "Google CEO calls for regulation of possible artificial intelligence"
+    excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
+    publishedDateTime: 2020-01-21T05:36:00Z
+    webUrl: "https://www.lewistownsentinel.com/news/business/2020/01/google-ceo-calls-for-regulation-of-possible-artificial-intelligence/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
+      name: LewistownSentinel.com
+      domain: lewistownsentinel.com
+    quality: 17
 
 secured: "xdonM4zt40WwAoTiEq0udV6tgCwkTCoUJsuBIpRSXKPCcYHkdbNyFruhEGpIhHEMRMXC5Hb698zV4aM/9EcmnqwX683HPvAW+Xp5eNVbEzvCpuUT2oQ1SaRy4f8kfKGNNs1SjZNGFl55E5vQOcF8WwSF495fRgFw0T3deiMCbaaQAKrpGfcrSR3FmXnc5+PGzRkUKmo+4Ir6yle55AtpXPcvHVhnBjS1diPRz7u2yqOx4xu4gzGJH4gPtIErPW7LhJZNVzFaSRdD9vJBmgMKh2p6pN5KOMJRd/1S0wxJab4=;5JuMzoGQKO7dbB8OmxCQZQ=="
 ---

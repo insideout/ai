@@ -50,6 +50,15 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 33
+  - title: "Personality-Assisted Multi-Task Learning for Generic and Personalized Image Aesthetics Assessment"
+    excerpt: "As an important subjective trait, personality is believed to be a key factor in modeling individual’s subjective preference. In this paper, we present a personality-assisted multi-task deep learning framework for both generic and personalized image aesthetics assessment. The proposed framework comprises two stages. In the first stage ..."
+    publishedDateTime: 2020-02-04T02:59:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/8970458"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
 
 secured: "YWN2IY9ucUBOpESrGa1+u585AxS1j55O5XrnobO3puGY5zP5/UyBXjV+RqsDSrkdGxTZnzD5+fhBUa1bP3QIxuTAwg5tcJlXFngcCylHF5kbT9AZzZ5gltel4UhWWmrlj+fjdAG9d5q4ByfcjbuCWb94zhJNoPhmYsYqs6cnkCrUkOrmGtmbievTF7hRaUY5Bt00QQ13SzAHQoKnOfgP3eDwbJXZ5t5HIBP1Sn6urIxvzzQm6oG1aN+ylwZhb5gjFLIz7CEPF4Zx+4BZq+exDwmyaHSPkBsxsPvWuHzGVw99SHic38X7Bf2+6KC7HUWn+akfT8sL4v+YO6BnWdj08bxFrv8K/Vx/rCzsXGDk2lFnxiZV9A6Z/4oejZvzKpvUUXQ1Z9dIMGqe0hxHwTyWV1xfQ4iPI2cf3PXD+NhyEsxclG9jwcVatKmXr/nLNFSd9e3ZHR4o+hHQnFBw9iPyJvROQOopoT6oIpeUzrY7E7A=;DYg7is3IiSy7/MVNhnLCYw=="
 ---

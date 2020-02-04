@@ -50,6 +50,19 @@ related:
       - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
         width: 770
         height: 364
+  - title: "Working the bugs out of self-driving vehicles"
+    excerpt: "She did so at a technology show in Las Vegas. Autonomous vehicles — self-driving cars and trucks, some call them –remain a technology with plenty of bugs to work out. Those concerned about them point out that they can be dangerous. Indeed, they have ..."
+    publishedDateTime: 2020-02-04T06:18:00Z
+    webUrl: "https://www.marshallindependent.com/opinion/editorials/2020/02/working-the-bugs-out-of-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Marshall Independent
+      domain: marshallindependent.com
+    quality: 24
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.marshallindependent.com/images/2016/11/28153330/fblike.jpg"
+        width: 1200
+        height: 630
   - title: "University of Tartu and Bolt presented self-driving vehicles lab’s test car"
     excerpt: "On 28 January the University of Tartu and Bolt presented the test car procured for the University of Tartu’s self-driving vehicles lab. This high-technology vehicle will be used for experiments in several research and development fields. The aim is to conduct test runs in urban traffic this year already. According to Anne Jääger ..."
     publishedDateTime: 2020-01-29T13:10:00Z

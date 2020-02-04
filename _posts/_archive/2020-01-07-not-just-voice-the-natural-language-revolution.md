@@ -5,8 +5,8 @@ excerpt: "What’s really at the heart of the movement changing customer interac
 publishedDateTime: 2020-01-07T11:06:00Z
 webUrl: "https://www.dmnews.com/marketing-channels/article/21108689/not-just-voice-the-natural-language-revolution"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://cdn.dmnews.com/files/base/acbm/dmn/image/2020/01/960w/GettyImages_1024463026.5e143cea91810.jpg"
-    width: 960
-    height: 581
-    title: "Not Just Voice: The Natural Language Revolution"
-
-secured: "+aJ5eosTZpXxwRbipZyQudkyIfXXG/oTnZs0depieHm/NIsHBmjGK1DW2nY7gb0HXYtn95ra6nZw8DJs34dmgvyLuF/GxQ7/QJmEYBCLuQKEVetPJ74eXldNfIciO0dXCXrhV1BnOOEbLS9rGJ/ZV8RELCkWHoAm5A00NpAxOIjLr63s5pKnTci6lD5evK3pvwXlmeq7tSOjVubz6p7AmLJHUTf8Pkku6NATYEA/bXZcbtcbLgrzcF7s0GmZE1PxHBekslHpLnVp91eJuLolNBy4FY406EZhYI0o32HAMELBDUUqvJG27ooIHQBTE6XV;dN4Mj4noLcS3KZ4hwi3avQ=="
+secured: "CeRzIg2FTND1+xJM5JcbMqEunu3tamtr2q7bSjQhn/p2UcQTLZh68YNh2g4bhsvc+fQi9sqmL2jQzfGXfLfMyNrmEMpjay5DGP7gbPxIg9mrQE8hTY6N0883K59iikZyIU2xho6jOXc+2Qkw+9gTcoKxV8Ew48cyFdTWIuOcL8U2xMY4zG7oLERXHj9bCtFHsOkEWZNZRyosc7EnWqlOw4YY9m3Rikea3k0FTISwoHBKGJqibriIjYQn4+itbTAAmXBSFpFwZBFiwCvEntdpgS4w+MvB6ZAZFKV/pIJMiCuxJTFMwrWBbnh9tS/LVxFIXLyylkBgZ2brws47RXRpXVVoDlYcKJLLVeJKZKckkyFqwMs1pt1VZN11DVJ/mevNotrgxg4MxrIsIo60NUM6nLyKMPv9SKAMLQoWRhdOvcni+7Il4r0UpDpUm4698HRIcrjSs7Z8OFZfCiCGHHjmgrrCfCTBKonYldKaiMRmqWk=;UjcioMKwDbTIEtpDPoKX9g=="
 ---
 
