@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-makes-performance
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -90,19 +90,6 @@ related:
       - url: "https://miro.medium.com/max/1200/1*2r3u6o9a4zCY7VY17QoG2g.png"
         width: 1200
         height: 474
-  - title: "Microsoft Open-Sources ONNX Acceleration for BERT AI Model"
-    excerpt: "According to Ning, With ONNX Runtime, AI developers can now easily productionize large transformer models with high performance across both CPU and GPU hardware, using the same technology Microsoft uses to serve their customers. Taking the lessons learned from re-implementing BERT, the Bing and Azure devs updated the ONNX Runtime code to ..."
-    publishedDateTime: 2020-01-28T14:04:00Z
-    webUrl: "https://www.infoq.com/news/2020/01/microsoft-bert-acceleration/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 58
-    images:
-      - url: "https://res.infoq.com/news/2020/01/microsoft-bert-acceleration/en/headerimage/microsoft-bert-acceleration-1580052141385.jpg"
-        width: 2121
-        height: 1414
 
 secured: "j1As7YLg40uht/pnpk1sEvU6V64qyStKPa4NCYWPv3Ko3ZvqmGOl+0mspwHldGzCq4BfqAJ7N+4aMW007ForEluSKc0E02/Q/u58K0plO27kIp/6t5LmuCKLX4rWzFS2ny08fZuOaPRp1VQi7SUOjvR2wkwOr7xDIG/fiWa374uKxeYaJGPwTiZu6hAPH+r+jssyDLXtRiruJ1vr1oarBALU+eyFRo/kxFtFOO52XNZ6Swr1h6IeUJOLPxL/jzupIwTO1+0GJCJsi71yaE7Rv9N3hYx7xCJRlzOHF1qdaebyYRzX6xgUgXybraNsnOYlR+3caq/sgKwaHJCH52H39peyh1S/VtMvtyuvEIuNqLNBlGfvpCLx/Tv90PU/TBR54d9M7GBh9LQzV7kdEylmk8CNqdt4nmFxtUPrBr1QqsMkJwSAylCmmT7YCugFfiHIpVnu7mRSruQy+X1vt1in4w==;OO0C6IrST58O61ttf6nvhA=="
 ---

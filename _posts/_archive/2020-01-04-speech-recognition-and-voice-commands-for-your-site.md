@@ -29,7 +29,7 @@ images:
 
 related:
   - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
-    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
+    excerpt: "Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data ..."
     publishedDateTime: 2020-01-09T14:42:00Z
     webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
     ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
@@ -74,6 +74,6 @@ related:
         width: 600
         height: 271
 
-secured: "9M33saiNE/GC3LauQMf0B/I8MSkscoIJ+uFXcFb8kBd5wdNlMpGtDWQt/4myMjSGQFQ8rY3M563c8ngDJ3mL0t+uU1sQeCU+neodNJyEZ4Tui7eyVwvxTa9cCcnYbw1pkzGp4r7NMX3EJVUAhwvv0O63YTNz4yVE08LU0y+65N3LjsHaZ86HybW2s2xiLlsgr6WZSXdzbpyAY+eIiuJacswgCk4WMy1ATeRNIhOwzyBrPsB0HN2neYCZXXllOGnDCS3/CJ9XPb3pHM7dUsGCt6yPtNySuY4xzUe+7SgIWyJE0t8lodVHdhFxiNgwT/Xn;gbRT5MoCDv8IAIGMEz284w=="
+secured: "ZlS7tsax1ZF1f4UZdIpVwUoTHBLvGdQqDzhoRLV+ToaAtP6cvKxMNjisKf7IvqWjDMt2lOm/tnJnSKy1in7HIyZ8qLuhyI4AIu51TtfvrBi/1hDRr+BLRbkqRc91acA6IA2yDO66TQ7fzsmYkyuE2a8gwHFjqAmrFD5AhNSM5yzCuiQdNv4kcnI8GOL7V0+dP1Czjt+pBcVxjire8S+mC3MRwk+DIw2a3urugre5Ey0IHXOhKd8wjTuH15Y1nqf6bY7xUqfntdyMZlMB+U0CDuFekR0YYgjX7U0h7xejVfi+JKHaOxxJDh6VsFaVnv+e;bQlFxu1zj40rPP/9rr17HQ=="
 ---
 

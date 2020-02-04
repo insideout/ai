@@ -26,6 +26,19 @@ images:
     title: "Springfield Mayor Domenic Sarno vows veto if City Council bans police use of facial recognition technology"
 
 related:
+  - title: "Facial recognition technology helps Volusia County make arrests in 4 cases"
+    excerpt: "VOLUSIA COUNTY, Fla. — Thanks to facial recognition technology, the Volusia County Sheriff’s Office was able to make four arrests out of 30 cases last year. The Sheriff’s Office is using a database of more than 2 billion photos including those on social media and other public sites. The department purchased a license to give the new ..."
+    publishedDateTime: 2020-02-04T02:19:00Z
+    webUrl: "https://www.wftv.com/news/local/volusia-county/facial-recognition-technology-helps-volusia-county-make-arrests/Q6YYQDNJQNC6RJQDW5BZU7CQW4/"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 37
+    images:
+      - url: "https://www.wftv.com/resizer/-nAp2UpM5mI0OsyKgu3KnyTIIk4=/1200x628/d1hfln2sfez66z.cloudfront.net/02-04-2020/t_623fb723a99a4dc1bcd5790a0f4c3715_name_VOL_AI_FACIAL_RECOG_TECH.jpg"
+        width: 1200
+        height: 628
   - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
     excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
     publishedDateTime: 2020-02-03T21:46:00Z

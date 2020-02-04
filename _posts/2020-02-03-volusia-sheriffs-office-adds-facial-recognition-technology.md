@@ -142,6 +142,21 @@ related:
       - url: "https://patch.com/img/cdn20/shutterstock/57069/20200131/021240/styles/patch_image/public/shutterstock-795306157___31140558320.jpg?width=984"
         width: 708
         height: 531
+  - title: "Springfield City Council debates, postpones vote banning police use of facial recognition technology"
+    excerpt: "SPRINGFIELD -- After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
+    publishedDateTime: 2020-02-04T02:51:00Z
+    webUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 44
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QCLDUALHANGKPFFLNERXQHYXQQ.jpg"
+        width: 2016
+        height: 1512
   - title: "Will Others Follow NJ's Lead In Banning Facial Recognition App?"
     excerpt: "The New Jersey attorney general's recent decision to ban law enforcement in the state from using a controversial facial recognition technology should encourage other governments to pump the brakes and take a harder look at police use of such software, some lawyers say. New Jersey Attorney General Gurbir Grewal told county prosecutors in the ..."
     publishedDateTime: 2020-02-03T00:02:00Z
@@ -191,6 +206,6 @@ related:
       domain: fox5ny.com
     quality: 4
 
-secured: "4Vgrahnea06u+yRcoCZgsvXq+wlzXrUgVQs9W8miJf9TEg8qDo6QC2m4dPEYSPQ7aQLJ0bwN4HUs75N3VmnW8PABxCfDwwrYuxyJiCqlpfk0U4iOAh8S/n4uLDugNp2BZJYTJvtQlO4A8SMkxmRIchX9LwDbA+DtIjQ7CvjovukFL2yZnPTz8g4YIqUOVDgXlKoFAc1+NetbmD8pB0mRNdBGJjiUN5vxbR2RESn4BtG9uRmic/ZGzpDivx4vguz13SFhlUaaXMae2kI6G62H/ztjl/230SzBrQ34R1uAWVstNx3ey50kka9VTm/t95hd;paR/INvja2f58Zi2aBWfmw=="
+secured: "ghLemPhAt54catMkYhdNUl8yqSktwPMp36i618uQiF5MI8RA/2FltErGYmHLYt2U77VFY8Lz4P9eBKQWmWJhKBYwZY3wvk/b1LV6yCK0lSp6KsF3Y68QNhT97KV4yh2LOsLDSU1XCjfbDE5FIA4hfPGSwXPwvtPvROm6w7a3+vsTzMTeS4rH7IjvUncl0nOQx7yZd9qyPnq8REBivyhAAq660E4zdAjldSzQPNNKETTuKMRdu335fIN5RPPSVqKNstL7o+eJ/KumjmX/sLyJ1+/ujqrb58FoVewFjsSpZD1dkBmAComii04rbyHmMxzgt8kzaJL/o/CKgBrfrA8v/h6bAzCPGpj0/FfYByDY9iDgik19svYfvNLVoMJgKNu/VTgG0Yf8n6CrogaUN8UW2TnqIE+eIKviFOBg4rNXIfriU0yfe18dk4wTRVy3ASnOT+humzHePAz47z19YNMpVg27yVAnznTwK9ug1bOZRqs=;lvNVHVuPs82kZ748hZceyA=="
 ---
 

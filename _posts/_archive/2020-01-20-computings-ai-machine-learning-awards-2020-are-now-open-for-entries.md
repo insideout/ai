@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T11:00:00Z
 webUrl: "https://www.computing.co.uk/ctg/news/3085084/computings-ai-machine-learning-awards-2020-are-now-open-for-entries"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 370
     height: 229
     title: "Computing's AI & Machine Learning Awards 2020 are now open for entries"
-
-related:
-  - title: "Blockchain, AI and Analytic Reasoning are the most in-demand hard skills for 2020"
-    excerpt: "Computer skills including Blockchain and AI top the list of the most in-demand skills in Australian companies for 2020. LinkedIn has revealed the top 10 most in-demand hard skills by Australian companies in 2020 as well as the five in-demand soft skills. There are over 50,000 professional skills in the world, according to LinkedIn, and the ..."
-    publishedDateTime: 2020-01-20T09:12:00Z
-    webUrl: "https://www.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c"
-    ampWebUrl: "https://amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c"
-    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 32
 
 secured: "K4H3gH0e5uBD9mUH99/O1GVECTHJGfkfuEZEv54AN+JymN7So31U9IG+8WQGwwcr9XpwXx88CAmZpkJqAqWc0VWtby3k3U1dTZ3pOvtF+oueq58ErWj2W1OnL88QuuTMywH/CNh8Qx+CCVEi7XmkHGB0WECoDF0dkxBIgnypAE6aMl837simxe34CjFbmfuov4oyGyzLSy9l9v0TX3nNKv5phzy5DXakBTSZiZpXapcfn3GJU3UxC3+CSLDuUgMBHlelCbRMxF9l5EjtqW6UU1t0SvdY+/s0Pdzohkl9HYTVQzU11qvYBovNyVzDN5j8eJTrB1HlBUESVC+RQRwJ8mJh6gZB3BcDq84yqXbowyCeX7WHwmLHeOdOsVeFXJGrwBos0Vw14Trtp2HzfBT3YE7X4VEKWuujiIxxfLqKPr1gVitsBwohRu1IPV3awtgI5vEcOYJ6HzAHg0ltnqX/9A==;fHwBqX6N0sGz+ZNq7oBEfw=="
 ---

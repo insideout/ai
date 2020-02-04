@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Not Just Voice: The Natural Language Revolution"
-excerpt: "What’s really at the heart of the movement changing customer interactions is Natural Language Processing (NLP). Considered a kind of AI, it includes, yes, the speech recognition that enables a voice assistant to respond to a talking human, but only if it ..."
+excerpt: "What’s really at the heart of the movement changing customer interactions is Natural Language Processing (NLP). Considered a kind of AI, it includes, yes, the speech recognition that enables a voice assistant to respond to a talking human, but only if it understands the use of the words that it hears. Being able to interact in a natural way ..."
 publishedDateTime: 2020-01-07T11:06:00Z
 webUrl: "https://www.dmnews.com/marketing-channels/article/21108689/not-just-voice-the-natural-language-revolution"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 581
     title: "Not Just Voice: The Natural Language Revolution"
 
-secured: "vFkVRx2Fh/lqjLdxcuNtGUezf73pXgmX03Y2uH3gnUudZx6VK2pXSEf0L+8UUMmd85Hd4nOtglLLDzlS2YLmNIAPTaVVYPGfO8BJLpFPHdgPIIpbgcdHuj6eqTBq1lLlyilDUtfky6tRQt6bsxvYMW5PfoqAjUWnrjtLyDvcBcRhRKaGbU2zG77rwBqfvO81U4ahyN3pNvi2Rda7/2GJe/mghGThzTihoFUijQtWHwrfMudpPJKRdcZHiCngTdQPyDD9TFjrUGvEA/V378jk1K/9hW4Sp6s3L0mcGtfSwKtpQw9Mszd+xEV5qQcfF70a;TmPJMyiEbkk7bTfSBd8iLw=="
+secured: "MpgDUM9Lwf+gIZl1vKg8vKkHj9ehxxaFEgHyxv0QP9ETeYPq9WYj0RXSmKg2083oLdHk9w3+MQwaZMMHi8iDAhSH0b8OXuexjzjqRaC079WKE4Z+/zhfB3Z9de+xslLUVil0ddUpSCT+T4gPe3Aj0rc3phPaw1mdcgx15SwMSFm9kARfq4ruZOx2SEFl3s6TxtHb77eG9VnUh/8VIyBhhNKJDI/htYAj0eEZya76NbOsirdV9Z8yf0xjN6bF7zbNeY4f12faJkcOCblGwMkRD0BhncTFBwNdQ1G/s4Pe/fick8ftYAB6EKxJcuHqMThB;/sJZyKUYxNtKIo67IvascA=="
 ---
 

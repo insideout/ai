@@ -7,7 +7,7 @@ webUrl: "https://www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-
 ampWebUrl: "https://www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/amp/"
 cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2020/02/2.48304518-496x372.jpg"
@@ -85,6 +86,6 @@ related:
         width: 900
         height: 600
 
-secured: "OCrI2X9Fkad5tOgjbmxEuLGC2gwUGBRmCCBP8bOBUM2OVqs+Oi4OSf/u+mTbCzIGnTvmF2SSRRqU0+CeA/yNmuAuWSmVlLn/vi82ckCL6EK53InHu3fiDOHXE9JwPxuw5G5Yr4+cdGDldYdA/ONcv9BjAof25HQihi4kshdQRlgglh5z/9xjZfAKzC+TBvjKoBXhBe8ZcprDQv7jtwrcd/zbRPabXjZkIjEz6LeUt8TIv7QNTBTWbm4jfpgAPyqA2myVPQgLqtpLCuhoP6Kv6RmnlN7kvEetCkLKuK6g7XpsYte9LKkOYVOnneAisyvB;u3ro7d8cZvDEapvkcorx9g=="
+secured: "tj0BcTzbZtmq4qZIXk/CvmI52hGXAY31YQ1myTPxZI7hs+8iD126989Pxwb5VjaoeT6qjHRk+mUu2ZKS+DOkS2Zos0NKtsid1+xk1qPExY7Vu89P9obcE/1MVUGLSg4ApdK0r2IS6ewuxPNeXhODhCatppO6UOSX86jOWFs3+rlox6VcSHh+69CSWVgVHd6OFTUu5u1vJPczhtCLR6h9NGjyUHkd4oaXbKoZTtplaTWWENSg47yuXd9yIlzKe7qWvglWx2nMkY4Yh4PH00cj66VchLy0arlaA3aXr0/sLxaLKH+T9eZvR089+eiSfOB9nvc8k3Ak3sDlgLic/1OZCWv7iWyasdjgW6fJhDJqMK2T9xTX9nAjGShre8RQgWG0H43vYJ1C1vJosCgzLUypnDCw614lUOtyWYva44L4QikMiZk1HoPlMmyudpgs60MUDvts+Wz5IEtp9SuauWgFEkaBZkbPXfFoIF31P0cNN+E=;iDfoicmEm2C7eUlmOFtjog=="
 ---
 

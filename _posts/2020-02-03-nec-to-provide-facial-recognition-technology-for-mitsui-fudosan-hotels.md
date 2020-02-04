@@ -33,6 +33,19 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GNXD2DF67BAWFK25T7SGYLMFAY.jpg"
         width: 2127
         height: 2072
+  - title: "Facial recognition technology helps Volusia County make arrests in 4 cases"
+    excerpt: "VOLUSIA COUNTY, Fla. — Thanks to facial recognition technology, the Volusia County Sheriff’s Office was able to make four arrests out of 30 cases last year. The Sheriff’s Office is using a database of more than 2 billion photos including those on social media and other public sites. The department purchased a license to give the new ..."
+    publishedDateTime: 2020-02-04T02:19:00Z
+    webUrl: "https://www.wftv.com/news/local/volusia-county/facial-recognition-technology-helps-volusia-county-make-arrests/Q6YYQDNJQNC6RJQDW5BZU7CQW4/"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 37
+    images:
+      - url: "https://www.wftv.com/resizer/-nAp2UpM5mI0OsyKgu3KnyTIIk4=/1200x628/d1hfln2sfez66z.cloudfront.net/02-04-2020/t_623fb723a99a4dc1bcd5790a0f4c3715_name_VOL_AI_FACIAL_RECOG_TECH.jpg"
+        width: 1200
+        height: 628
 
 secured: "R5+YXUYgAbB+GrgzO/LSUD8aCB70fLmwz1Cjvsc8Yet3l0efk9gwAxl+enkvr8szPiP66/IdZ3qreOL5M6yJRtO+uwesDG4gCUvbOwbBpcqJXcAQpVvwk0fGFH3wvK4ZI7upehHUOJUgRP4HXnc6+K4CtvVjghedWCs8f4c64YGOE2p15m3FaIn/2KIvj9Xby1c1SRHzdC6JlvhLvZNpf2pRmpDwGZ/DZMcE/WZmkquPcm42Vrdz5PvfgSH5/rtQGDazgLflr89sIrZ1i1kCYgDQn3ML5YvRJVEO+ALjmqvJiEq6tJMEDcFHMyzInxnv;h3Eu6ypHkPc+OSRbMjp5fQ=="
 ---

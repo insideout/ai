@@ -5,7 +5,7 @@ excerpt: "Few details were discussed at the briefing and in response to an email
 publishedDateTime: 2020-01-28T17:30:00Z
 webUrl: "https://www.hpcwire.com/2020/01/28/ibm-launches-ic922-power-server-for-ai-inferencing-and-data-management/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - IBM AI
+  - AI Hardware
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/IBM-IC922.png"

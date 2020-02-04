@@ -154,6 +154,19 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/Mental-Health.png"
         width: 1200
         height: 675
+  - title: "IBM Debuts IC922 Power Server for AI Inferencing and Data Management"
+    excerpt: "Few details were discussed at the briefing and in response to an emailed question about those plans, IBM responded, “IBM believes that just as training required specialized software, so does AI inference. Our Watson Machine Learning Accelerator product family continues to evolve to leverage the latest capabilities of IBM Power Systems for AI ..."
+    publishedDateTime: 2020-01-28T17:30:00Z
+    webUrl: "https://www.hpcwire.com/2020/01/28/ibm-launches-ic922-power-server-for-ai-inferencing-and-data-management/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 41
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/IBM-IC922.png"
+        width: 1094
+        height: 564
   - title: "Report: Speed up drug development with artificial intelligence"
     excerpt: "More and improved use of artificial intelligence, and an overhaul of medical education to include advances in machine learning, could cut down significantly the time it takes to develop and bring new drugs to market, according to a new joint report by the National Academy of Medicine and the Government Accountability Office. Before that can ..."
     publishedDateTime: 2020-01-23T01:50:00Z
@@ -167,19 +180,6 @@ related:
       - url: "https://cdn.images2.rollcall.com/image/27cf5635a9671932facf9eaaf28bb860456d2c0d8fa9d892971ca7752284a2a3f694222a45edf4131ed6bf50844a038a/author/2020/01/SENATE_VOTE_003_06182019.jpg"
         width: 1200
         height: 627
-  - title: "IBM Debuts IC922 Power Server for AI Inferencing and Data Management"
-    excerpt: "Few details were discussed at the briefing and in response to an emailed question about those plans, IBM responded, “IBM believes that just as training required specialized software, so does AI inference. Our Watson Machine Learning Accelerator product family continues to evolve to leverage the latest capabilities of IBM Power Systems for AI ..."
-    publishedDateTime: 2020-01-28T17:30:00Z
-    webUrl: "https://www.hpcwire.com/2020/01/28/ibm-launches-ic922-power-server-for-ai-inferencing-and-data-management/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/IBM-IC922.png"
-        width: 1094
-        height: 564
   - title: "Year begins with bang for AI drug development"
     excerpt: "The company noted that less than 5% of AI professionals are working in health, despite this being the area of ‘most urgent application’. As a result, Microsoft will work with nonprofits, academia, and research organizations to provide them access to AI ..."
     publishedDateTime: 2020-01-31T15:55:00Z

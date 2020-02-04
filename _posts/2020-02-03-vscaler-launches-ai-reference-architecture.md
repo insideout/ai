@@ -5,8 +5,8 @@ excerpt: "Organizations looking to gain an edge in business are turning to AI de
 publishedDateTime: 2020-02-03T17:08:00Z
 webUrl: "https://insidehpc.com/2020/02/vscaler-launches-ai-reference-architecture/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/02/vscaler.jpg"

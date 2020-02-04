@@ -64,7 +64,7 @@ related:
     provider:
       name: Evening Express
       domain: eveningexpress.co.uk
-    quality: 59
+    quality: 61
     images:
       - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2020/02/2.48304518-496x372.jpg"
         width: 496

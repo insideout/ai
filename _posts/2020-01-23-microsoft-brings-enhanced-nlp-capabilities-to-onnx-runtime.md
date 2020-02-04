@@ -88,19 +88,6 @@ related:
       - url: "https://miro.medium.com/max/1200/1*2r3u6o9a4zCY7VY17QoG2g.png"
         width: 1200
         height: 474
-  - title: "Microsoft Open-Sources ONNX Acceleration for BERT AI Model"
-    excerpt: "According to Ning, With ONNX Runtime, AI developers can now easily productionize large transformer models with high performance across both CPU and GPU hardware, using the same technology Microsoft uses to serve their customers. Taking the lessons learned from re-implementing BERT, the Bing and Azure devs updated the ONNX Runtime code to ..."
-    publishedDateTime: 2020-01-28T14:04:00Z
-    webUrl: "https://www.infoq.com/news/2020/01/microsoft-bert-acceleration/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 58
-    images:
-      - url: "https://res.infoq.com/news/2020/01/microsoft-bert-acceleration/en/headerimage/microsoft-bert-acceleration-1580052141385.jpg"
-        width: 2121
-        height: 1414
 
 secured: "4Z0A2NwdcrjkkHHEulmDr0OWJrNPtyngeWqDSQyRmWG49MYF+ItjVZznjc+BSDvwRarwj3In5nK+lfcIDYuIioONslHgewhIppyuHUHuEdaAufzE6StNVKPZK9yh6biYweCK36zS7deeFIyWwCe5oSIj7SSQT/wY3ioNDOjZx1ToEqDfQ1j7uzyjp6CsPERR3c1Hlu69dt6g4VxB7a2qK1+XY04MPWNPJ9TOaWZcU6z6SP6JUnfIkngVUaLtMUGps6te4rGO/4iJOmNI/aLE1TOY4yWVlFB4r/yJ9kcdVF6lijuU4VnmDyGTUGc7ILb9/QwR3B7QPrAYFAFAejmZ4sPWxkc1DK67/oab3BEmDCQpmXqxFhzq69jtbg5Q83sgH2mJ6IukMW3vdoNyjN1VCC66SWjcffIGGG772MK5iLSOD/1pOhFPpH+8vFA7wA7gIEnRGT3PhTvzaCj/nB6PwbbIzracRnuSE2AAq6UfPXk=;z3JRS+RUslN/SAyWo9MtGg=="
 ---

@@ -5,8 +5,8 @@ excerpt: "We’ve seen artificial intelligence take over many tasks in the every
 publishedDateTime: 2020-02-03T16:58:00Z
 webUrl: "https://www.popularmechanics.com/home/food-drink/a30694577/artificial-intelligence-cocktail/"
 type: article
-quality: 149
-heat: 149
+quality: 166
+heat: 166
 published: true
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI in Robotics
 
 images:
   - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/a67eac88-2397-4230-98b1-71a6094a56b9-jpg-1580747017.jpg?crop=1.00xw:0.668xh;0,0.249xh&resize=1200:*"

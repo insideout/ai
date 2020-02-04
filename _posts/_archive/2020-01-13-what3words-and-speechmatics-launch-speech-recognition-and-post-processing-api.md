@@ -39,16 +39,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Speech and Voice Recognition Market"
-    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
-    publishedDateTime: 2020-01-16T03:17:00Z
-    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 54
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
+        width: 849
+        height: 565
 
-secured: "t/6OSxkcJevf4ht/sKVAMt3YGpRjgat9AgxO+B31AWxSnJljIjZVxq9oTs2uQOW+m6WHytpT+Vxomu47Icb+6hLPnNP/VzGXdJhcdX5VZ/ADYa0tF4W4trUIIQdqu3vO3bEPhu7NP4bsjdYX4sUaZ1DPp3J3jxaZDHl2ioWG3OjTSn6J55Nt2vrWAIONMxuM5AXupAJQHfYrB7uIHkyYTEp+5BFz0gWVynO/Bq9Ocx34ZDxygeFZYUHdkWXey3oQNIO+qBE4iFrHtSDFBTqNs1eDYRAN9i/3/LdPbRuEESlsCp9EKObnLP8CwDpl5zmt;48vkWG55nWTlEoai14nRfA=="
+secured: "RxnTJgD8HfT3nP3c3kUyhasDduCyzVH7zvWRTu1yUvATqgWKWjMEKHfUefTnl9fs5fXsOa22F3QMKFbIsaCYTA4ak46mMKVQu0p4k0JaNhmgLefPvDi3iB0HSrXuuHeCZI+KzLfdE6xT8/nBHt+GM9OELOzoFYFmtaIoM3qyJ5HBWEdCw+V6/i2KfkFK943O5DMyHSdU0TyXbgLVYguoCzC3Z3n9mOlIUZyFLb1kRhpd10V9rAR8W0nEUSFX/67jzTZy2u/Sr6+faqLgSKSe0cVDDkrW0JsMAaRo7W5MQL7glwE0xHIDdeUFsY0zMMUA;PcRbZUXPWpwojuFUqXzFog=="
 ---
 
