@@ -4,9 +4,11 @@ title: "School district’s launch of facial recognition program sparks outcry"
 excerpt: "The Associated Press reports that Lockport Central School District activated its object and facial recognition system, called AEGIS, last week. The district recently said that the technology will ..."
 publishedDateTime: 2020-01-06T18:32:00Z
 webUrl: "https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/"
+ampWebUrl: "https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp"
+cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,17 +19,12 @@ topics:
   - AI
   - Computer Vision
 
-related:
-  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
-    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object ..."
-    publishedDateTime: 2020-01-09T20:49:00Z
-    webUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
+images:
+  - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Facial-Recognition-Lockport-School-District-1024x512.jpg"
+    width: 1024
+    height: 512
+    title: "School district’s launch of facial recognition program sparks outcry"
 
-secured: "Z86cjzT3bbCSQlEWI88/iaYYMXfA7l2wZuA4P+aJDtXWkU66WUSvZC6yuSt9hLeS1U/pXnkKYEnM6KTDvJEggJbbAsor2tsTMQjC1AgcMfQL4zfyVu9W6ClcUvDw0Hnv77YsFwdU2iyuSW+AKAI/xLOnLWHqyjNDsFciO76exb9GsYRPtkdPo1U+6kBeCsqjlQI88qbH9KpXt3CIlkQ4aFj73x4dWM/FsdBIU+83tabuvz7oj16NsPFqCwXy2sIaO0pNxP44DoEaQDy2ZFRS73aW5gDsZCBMBoVyMw9f0tI+ib7myI+HEwNWkPl1p+YX;dwfUFg3Bve66b5eUOF3OrA=="
+secured: "Cct7V/3pTD0jskSlU3D6XWYkcqAQis8FmOptDRHWLPvdbRXo2wG+0dU9AlZT5/d792nclayJqXh9sGO3ZLKPnQ67juV35nGDTzvf/xSkhL2/Kn6BUck5qQ/KmwWB6lWoRhT1Ywh163BVxarJaKV6VD7F6bDIhzrwSNCoNOfTddDJr6JChZiRAGnsEcayAuRPtm9v6QKd10umiesl9Km9K48aNygBEGwbMjoYDC3BvTAtmiBxC/6DIHD1eDISUkJ92Kz6p9uzrLK0u8/nn95SrH28OJymaKBPn2fHVflXI43NIBoC3DA+5XTFkVG4sbRH;h9q2UqBFtXPOxNaTXY8oeg=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
       - url: "https://www.brainerddispatch.com/incoming/4880195-oiib4n-IMG_7852.jpg/alternates/BASE_LANDSCAPE/IMG_7852.jpg"
         width: 1140
         height: 712
-  - title: "EU Considering Banning Face Recognition Technology In Public"
-    excerpt: "The BBC is reporting that the EU is considering a five-year ban on facial recognition in public faces for up to five years. Regulators want to establish whether the technology is being misused and are considering new legislation to govern the technology."
-    publishedDateTime: 2020-01-20T13:53:00Z
-    webUrl: "https://www.mediapost.com/publications/article/345888/eu-considering-banning-face-recognition-technology.html?edition=116895"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 19
 
 secured: "dXA1NtiqVgX62v8s87ZGxmw6aDNBeWvW7thaSD2LQ8wtA7oNu4AdCcc2Ijq3mTSU1++IxIDIxb+KG/xU00pnI5tF/M/DrE/X1mwcAb7IdpwtAAAMt1ESyL51OvgwyGCsJ8lDZNv/bLj/64VBNxSkRrTSlBvOeiOco+Pvs7tys4PO/UglxmYJu4k4S/alyOZv68OqHZHB0+WtPjtrrYBexyeO/LEkVQUfPWfAH+9a4rZK/idrEZBgIct6R9OAvIk3m8HwL/Cj8kd4GPnVe4pgnrcPVhlTffOmp/v768//iIX+iP04hqgW4jlCHr9hezdsMRPUytbuJfpbi8kV/pmBeIfmX0Pqzyx1k67ELJLemfT7aRRLiUuMy8NtY3moyyvTKUAZsXqAhRCp5wx1pVD89UpLusz3x5mWr9FbtRgSpN/mG3bZCVy8rZACY9vAcfRgjElnNJ4fjIurUlo5hrFfWw==;3ek+voAPOK/VOTQOKffMXQ=="
 ---

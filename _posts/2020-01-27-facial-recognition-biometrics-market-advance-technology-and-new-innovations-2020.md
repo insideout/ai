@@ -108,15 +108,6 @@ related:
       - url: "https://www.brainerddispatch.com/incoming/4880195-oiib4n-IMG_7852.jpg/alternates/BASE_LANDSCAPE/IMG_7852.jpg"
         width: 1140
         height: 712
-  - title: "EU Considering Banning Face Recognition Technology In Public"
-    excerpt: "The BBC is reporting that the EU is considering a five-year ban on facial recognition in public faces for up to five years. Regulators want to establish whether the technology is being misused and are considering new legislation to govern the technology."
-    publishedDateTime: 2020-01-20T13:53:00Z
-    webUrl: "https://www.mediapost.com/publications/article/345888/eu-considering-banning-face-recognition-technology.html?edition=116895"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 19
 
 secured: "kZpWVknA2O2qcQiecKiblpR4bDiXeexfMmy3ESLIxZ2pY7zUCiGINsO5jJMWT4JeWt/Y1VCFLfAgzOWjlixsgOTI+Vx4XNWjwsVUewE7+unjEWp5B6CgRUki9o9B+zgYbch41UbuQFdhU+lkqE4nTSvTAy7ESGuoQU0RglfyyXASx1D1z3wSyyJhlayo++NLYESRXI+AGOPWCj1mCAU1ryr8yNvxmqr3pa/4VtJiPYiM67SOiOZjnPU0kFyWjkgJBgD2yzlWFmkcRZwxzH+YBcgSoMGPqT0apyPt6kuSpqqMowrLRz8edeNH9ZTcFXZW;6J/T9Qwx+ZbJj/YAsXHKiA=="
 ---

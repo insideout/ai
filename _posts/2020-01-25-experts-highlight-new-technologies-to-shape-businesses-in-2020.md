@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2020/01/25/experts-highlight-n
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/01/25/experts-highlight-new-technologies-to-shape-businesses-in-2020/amp/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,41 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+related:
+  - title: "Open banking to AutoML: Top trends driving technology innovation investments in 2020"
+    excerpt: "Machine Learning for All. In 2020, we believe there will be more efficient algorithms to automate Machine Learning (AutoML). This will spur the adoption of AutoML at the enterprise level, helping non-tech firms access the capabilities to build ML applications quickly. This democratisation of machine learning will also make AI experts and data ..."
+    publishedDateTime: 2020-01-30T12:37:00Z
+    webUrl: "https://www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156"
+    ampWebUrl: "https://www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 32
+  - title: "Kashyap Kompella, CFA: Delivering Innovative and Sustainable Business Growth Through Enterprise Automation and AI"
+    excerpt: "RPA2AI also serves as an on-demand Chief AI Officer for large organizations and advises on their enterprise AI strategy, AI ethics, implementation roadmap, technology selection, and change management. The company also started working with national and regional governments and industry bodies to create AI policies that sustain business growth ..."
+    publishedDateTime: 2020-01-30T10:47:00Z
+    webUrl: "https://www.analyticsinsight.net/kashyap-kompella-cfa-delivering-innovative-sustainable-business-growth-enterprise-automation-ai/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 20
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/GlobalAI-Rectangle4.jpg"
+        width: 5000
+        height: 2500
+  - title: "Patchwork of self-driving laws limiting autonomous truck innovations"
+    excerpt: "Self-driving trucks could change how freight moves across the United States. But with a slow-moving federal government and a patchwork of local laws regulating autonomous truck testing, that future is far from seamless, according to a recent study by the American Transportation Research Institute (ATRI). The government rules created to support ..."
+    publishedDateTime: 2020-02-03T13:55:00Z
+    webUrl: "https://www.fleetowner.com/technology/article/21121622/us-patchwork-of-selfdriving-laws-is-limiting-autonomous-truck-innovations"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 4
 
 secured: "el7jE0FONfmR/IdtYrLQ5VAeGQte5uq05pxSLxybT1EcSWpoYKA+nX8uGqh1R6g9XnzOi9iBmM4hEgh8a8iUqGLt0wa1RCWlQAJwZxtNNSomfm1H8cYXYamSsOqGVxpWjR0hXBA/jnw0R6RkwU0j87O6Z7J5IiWHw2eydVaBCyBdauGF1HAoHOc2J6UBZwZwI13VFMixQHtXkzNficdffv2aTnUSC0YBC4tQNgpflLQL1zrscJCIEElxSecZ3RX69uqM6vkaBFNI9y7OOYJJ4lJQb/29AWLrbSd99nDtNhTwUEnr5GeFsph2f1PifDOJ;n5E3axWzMrfSsr46ik6X8g=="
 ---

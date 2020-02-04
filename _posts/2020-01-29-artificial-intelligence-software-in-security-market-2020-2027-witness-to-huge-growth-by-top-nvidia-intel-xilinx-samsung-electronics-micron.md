@@ -17,6 +17,19 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence in Cybersecurity Market to Witness an Outstanding Growth during 2019-2030 | Intel, NVIDIA, IBM,"
+    excerpt: "Latest research report on ‘Global Artificial Intelligence in Cybersecurity Market’ delivers essential information ... IoT devices are used extensively by the healthcare, finance, and infrastructure sectors. The increasing number of connected devices and the growing need for the IoT have significantly contributed to the growing demand ..."
+    publishedDateTime: 2020-01-31T12:28:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38123/artificial-intelligence-in-cybersecurity-market/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 15
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
   - title: "Artificial Intelligence (AI) in Cyber Security Market Top Key Vendors- NVIDIA, IBM, Cylance, Intel, Xilinx, Micron"
     excerpt: "Zion Market Research published a new 110+ pages industry research \"Global Artificial Intelligence (AI) In Cyber Security Market Is Anticipated To Reach Around USD 30.9 Billion By 2025\" is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term success. The authors of the ..."
     publishedDateTime: 2020-01-31T10:37:00Z
@@ -26,6 +39,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 10
+  - title: "AI Powered Cybersecurity Startup CYR3CON Closes Initial Investor of New Financing Round"
+    excerpt: "Jan. 29, 2020 /PRNewswire-PRWeb/ -- The artificial intelligence powered cybersecurity startup Cyber Reconnaissance ... there is a great market potential in bringing CYR3CON technology to industrial IoT. CYR3CON's expertise in AI combined with Trumpf connections and experience in connected manufacturing devices will well-position us for this ..."
+    publishedDateTime: 2020-01-29T12:00:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/ai-powered-cybersecurity-startup-cyr3con-closes-initial-investor-of-new-financing-round-1028854822"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 9
 
 secured: "8fQFyUbkZ4eFWtiix1lEFoEmD+ZwvhDGxFfHw9E+4cqj185NocZTAf9LtJFbA6IPYzPy6+Lc15o2siGTMfFBdvdM0U5m1+vHE7E6fSEDSzXoNm6oduMP/pnfe3ViO0UpfSq1WnGC+y6dYvA4D10eiD3W5fwkUHb/UQX6bWFcFid5A6DDAYzQYIBcMYj+UG8gcUsnJ2uy8CJTDzjBV1LIfKAjNutn93c3LcaDhPmxTR92x+WesaDU7WM4rjpeJwE3y4gmwwLdhQ5UPdapS/YC7LLmCJejt6627svNroqOK1+8nGj6ZZPBjkIWQ8+yfVBW;6WqZlEi84bv8+rxk/bkQEQ=="
 ---

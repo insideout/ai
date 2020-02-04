@@ -34,12 +34,14 @@ related:
     excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
     publishedDateTime: 2020-01-08T11:12:00Z
     webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
     type: article
     provider:
       name: ET Auto.com
       domain: indiatimes.com
-    quality: 19
+    quality: 39
 
-secured: "7dguwygVfPzYxG4lJP+hWhJB2t4pcwABU9w2iLYyZnb1KU9Ls1B5ZX91MmzbgeCMhH54p2aJbB3n5xNpfFGJoxV9SFHX1GQw41Cgk7wbK3aEAUDLxIf2VAU2PNaozg/L8cwNm++BsQrtkaqWkCi406qGYhYgyl0UsGcfmAsNVItUi0TxWVj4E9itKsfS45tNbe85EGDmV6pMX5Wuqyx5il2c+8tQ+zxJsaVP6yVNVtm1DXu4Xno9xfkWsgTpnYIbqa0+y1dgZMROARhdRWTAy+f4cMFCKhZbrcHILte02pTLjuvB75bw+K5VLpY1ZVOy;YLATwsvoWdEADTn042B0fQ=="
+secured: "EMD7j+rLTXBBETXl6pwQfZ6lWrI+iMQqQZvrUfsx98s7r0ux2pRJJJ9MYK2/pECotk2wEezQhNg7gOpHPYH9Yf2ECtUrYisN4rFYfm8dSPGRmBSbpT5qorjoYKLJxVggE0ztz0F4YQoOR7gdaINnlWwU3dTGJyDQYbCNDNZlPj/kutLAZKbbv3KE4WaD+2XQnRK+l4JJI//3otWoh0xXydhjhmUjb2wucF2nPD3k1wJ0MMujdqy4VxjconKjaERQnGBUaMisSaGZxYtGE5/wCwsdF1GzUIS9TplOFOnwM9wieQxI7n88yj5Hkl29sZ0G;PCb3IzpwgomlJC5+26bHbQ=="
 ---
 

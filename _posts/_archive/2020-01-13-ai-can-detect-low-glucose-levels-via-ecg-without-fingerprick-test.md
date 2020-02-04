@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T16:00:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -28,21 +28,27 @@ related:
     excerpt: "Researchers have developed a new Artificial Intelligence (AI)-based technique ... Basing on this information, clinicians can adapt the therapy to each individual,” the authors wrote."
     publishedDateTime: 2020-01-15T10:18:00Z
     webUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/"
+    ampWebUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
     type: article
     provider:
       name: TheHealthSite
       domain: thehealthsite.com
-    quality: 17
-  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
-    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
-    publishedDateTime: 2020-01-14T13:07:00Z
-    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    quality: 57
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
+        width: 675
+        height: 365
+  - title: "NO Fingerprick: AI can detect low-glucose levels via ECG beats"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
+    publishedDateTime: 2020-01-21T08:28:00Z
+    webUrl: "https://medicaldialogues.in/diabetes-endocrinology/news/no-fingerprick-ai-can-detect-low-glucose-levels-via-ecg-beats-62274"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 13
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 19
 
-secured: "sslPWBQHoO2JjWUq1NLzGhiZXwtNalyLY0g/iItiqBlM9rSfqCoMRjMkKPlPnL14rxhtOQa/L+4tjHJ66uV37BzNBevnve4e8OpvYErNk0uESOiN+f/WsoZB48iVgUNjHAZvHe/NsxUjSLpN+knFqYpke+WUdjdsIHU/PVI07obrVeNMskFZGLjpw0tNRBGLldA/elLcj+N9uZY6S8I51Ge7BEvZ2Qa5jDLAx12Aoi6pcNmaS5W8AhAHYKc25v0oJwFn6mJRSWEZdhiRWs/lL4A7DBpsvHvu4sEe3mdwdtw0Bvcdqcn/a1lu9AWA2PpU;HoQHXhNQEl3W4ViwBj8R9g=="
+secured: "NJ6lU3dEknL7Al08c7QZAmH9RtM8ufUQdHEqwCV5pD5qopTxi3J7wMX7SAwznfSwUvOemjZCVXmAYes16J8BWoq9ji/H013w2M9lRN2GBO4kDqv1Ajw4gQny7izKEXJlufbs7lM7EqKx4Ed126tU09z4Ac3beoVSdqVyV9iP6M1/MomAJfmT+RTiqo6/n8rW3/HmCAVI36SjhbC8QUexcFayjelfTRSEPyC0E9zjmJO38kDpMK+D+KEpCv5Y295ae6ZUv1I94pSzTquGZ0XZ90bPzz13+5f/DEX+qX0WxDy7nwlPUTYPZs9B54fpZpm6;aym7Lkqz1+KkJCsc+p9hFw=="
 ---
 

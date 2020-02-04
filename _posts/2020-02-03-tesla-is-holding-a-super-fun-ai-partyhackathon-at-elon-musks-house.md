@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/a
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/"
 type: article
 quality: 189
-heat: 209
+heat: 210
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         width: 796
         height: 417
 
-secured: "i5cs7kH6YBSxh8m4RYQXtkQdmEGUNqwSL9DwEL53HCAhESWT4MWYzFyznBSdYjKCVtN70ryYFYad2gSYOlt5AFAKQDDVJKm+GzMoXP/NzSVTx+vlPDme1hX7PbLC4cw9ipqieMnPWXgBak+u+PTDODhl03ThG2icSNtfEz3PqL96tLcKTnk4dKsC6WAJ7cTE1p8zcCDtfTDCNRlrI89CtaYqpZOxtv2Utb3J2UeynrO9pcWo0O6I1tzf9e7qbPKX5F9E54Q/9vyQRrG28pgJDD4mpviFUALzY3P4Ti12g46t3AIzejGcs0ctLErbT6YTxWkZLu79mqKQUcI1ly6J1VFOD6XrfhiZLWV9bP8UguBdYMpZ03T8cKT5rCUtzoQjgNXJ001rle6lBWzu7Oyd2jcXoq059w8MEAmAPsuSsUycGyjV+34GGo8p1pmKwhdjBpjJKH8oKUfCVoAd+urBb6mtFAZXVcXrlzZH6+j0Jf8SNiTFfC3UXoYYIxfvMBCH;IiA42XRNpwX17fs/UvYO7g=="
+secured: "F5IHdi0Dsopqzw8j1sq2Paz/gsnHw1omS0NhuEiXNVsAolM3LXtTk7WUWUl/okvsHsa8jsN7K4My53ydCP5zqn9DWlANcIQV4w7Jj68Lc1DyGXbOLkuQV5Dq0Q1wYtg1AUII1KOhuB3/GRNQh8BgZLtFONPFU1DQoCAWCJveFT0VAwJD8EqkEwl7i62kWvbpC0MV6VG500/13tVf3bLw2pywGOqXqSkfDNEuxauSxz2ihZZzcb64/jlZP3es4pDW4vEar+NgSpDGTAiCM2BQaReY40wI1mSip1G1WK0sieKdHQqIKxmlTvZkrQXolckyjS7JXS0FkEIwsLHi7cXYKo5VWiShEOIiq6QRq/XYJyV5nllcTMzbfC0xp2oqfCNatCClx+W4ss7tHcYT3zWFNhD5mzlAPQaaDZPaF4XG3IET6s0G0AWDBUisNyUEBRqwjgqIcJMLZcgCOC1seaYrilTYLCOE/qvJSAtriYfKT3TePZiUGBo8wfvVQrhGFzjo;qRy9pFTGH1mjP3dKmoACwA=="
 ---
 

@@ -44,6 +44,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Autonomous Vehicles Market (2020-26) Outlook with Industry Trends by Top Players Alphabet, Audi, Baidu Jaguar, BMW"
+    excerpt: "Jan 24, 2020 (AmericaNewsHour) -- Global Autonomous Vehicles Market reports provide CAGR Value 2020-2026 and analysis of Top Players, Geography, End users, Applications, Competitor analysis, Sales ..."
+    publishedDateTime: 2020-01-24T01:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-2020-26-outlook-with-industry-trends-by-top-players-alphabet-audi-baidu-jaguar-bmw-2020-01-24?dist=bigcharts"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Healthcare Market (PDF Report) 2020 – Leading Players IBM Corporation, Intel Corporation, Google"
     excerpt: "New York City, NY: Jan 28, 2020 – Published via (Wired Release) – The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for ..."
     publishedDateTime: 2020-01-28T07:41:00Z

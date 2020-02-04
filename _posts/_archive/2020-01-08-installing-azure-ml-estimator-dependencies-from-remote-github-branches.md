@@ -5,8 +5,8 @@ excerpt: "TLDR; The Azure ML (AML) Service Estimators make it easy to train dist
 publishedDateTime: 2020-01-08T11:32:00Z
 webUrl: "https://medium.com/microsoftazure/installing-azure-ml-estimator-dependencies-from-remote-github-branches-276e13b447d4"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "Yv7Wq+scFRgPylzyznPPENjOoewW3N+cmixBcNOvrSY5vzZM0jr4icawDtgJNzTgVklV+7hlOkTFYl8OHHslDID3osk031DA2KzsvW730B2/2qs6nEy/DsJCECHq1CAEXgAsT8/DaKbYZpwomhFeUA5xbw712RH+iCD9Zy1oldC763t6iB9JbKmBKddbvA5CXL1CNFIC+PdEMbVKQdoGrfcnKuaclcgFN4mhvAX2gVQlZpMyFWumyguBx6cX0Kze4KaRrXTgw3q8mvW+HGshlFH5fi5WU+a8p2lBtWZtHlN/IF9iMgx18IrsMEZyvPqS;+BJdlOx7fHplnIc9b2xnfQ=="
+images:
+  - url: "https://miro.medium.com/max/1200/1*mrMYpVE62e5_a-Uy1I389g.png"
+    width: 1200
+    height: 1070
+    title: "Installing Azure ML Estimator Dependencies from Remote GitHub Branches"
+
+secured: "WObQPh26Fx1WcgXkXyEfNYnFnesiUkxHJW+oK3SiM+3sC6ODvGbKaWcBS4qCbTcKyehtrzxrdiquDgB1jf8W6n1bhdLuUJf5LbmgBpw+//KRKljA5wSE1dECVUplKUj5KzRJU4ndXG+WITFehocKmPGSxjr/bzKZvegUdO5iMYUGW3sH+DhNKm0qmFMqvGFcXvG2NkFyoNtVRmvEO6bcjB9xYzd8EPXHNgwUW+ta4P4jBXkQaV3d0y/85BBcncBsx4+E5U8pmcWIOr9EMhxZCcmhm1opHRjCDJtk+njJpR4B7ztFLmAgzv4IH6gXnpjn;tOm2Sg2p5e4ajHvIo7sEcA=="
 ---
 

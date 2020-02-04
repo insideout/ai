@@ -18,28 +18,76 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence Chipsets Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
-    excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
-    publishedDateTime: 2020-01-21T06:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21-21752033"
+  - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
+    excerpt: "Artificial Intelligence (AI) in Healthcare Market - Global Drivers, Opportunities, Trends, and Forecasts to 2022 Artificial Intelligence (AI) refers to the creation of intelligent systems that are able to perform tasks without human interventions and instructions."
+    publishedDateTime: 2020-01-17T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 78
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Machine Learning as a Service Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
-    excerpt: "New York, January 20, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report Terry Laboratories Inc."
-    publishedDateTime: 2020-01-20T03:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-19"
+  - title: "Latest News| Artificial Intelligence (AI) in Healthcare Market Growth Analysis|Professional Survey 2020 by Global Demand"
+    excerpt: "The development of ARTIFICIAL INTELLIGENCE technology is helping the healthcare ecosystem to growing ARTIFICIAL INTELLIGENCE in Healthcare Industry.  It has been witnessing a lot of transformations and growth with new technological breakthroughs in various applications,"
+    publishedDateTime: 2020-01-24T07:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-news-artificial-intelligence-ai-in-healthcare-market-growth-analysisprofessional-survey-2020-by-global-demand-2020-01-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 10
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) Hardware Market Size, Outlook on Key Growth Trends, Factors and Forecast to 2026"
+    excerpt: "Hardware Market. The factual, unbiased, and thorough assessment of the global Artificial Intelligence (AI) Hardware market presented in the report assures players of access to much-needed information and data to plan effective growth strategies."
+    publishedDateTime: 2020-01-20T17:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-outlook-on-key-growth-trends-factors-and-forecast-to-2026-2020-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
+    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
+    publishedDateTime: 2020-01-22T11:03:00Z
+    webUrl: "https://www.techworld.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 32
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Set To See Huge Growth !!"
+    excerpt: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market, By Component (Technology and Services), By Type (Rule-based, Statistical, Hybrid), By Application (Machine Translation, Automated Information Extraction and others), By Deployment Mode (Cloud and On-Premise), By Geographical Segments- Industry Trends and Forecast ..."
+    publishedDateTime: 2020-01-23T20:07:00Z
+    webUrl: "https://www.openpr.com/news/1906775/global-natural-language-processing-nlp-in-healthcare-and-life"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 2
+  - title: "Artificial Intelligence (AI) is the future in information and technology sectors - Analysis, size, business growth, trends and projections by 2025"
+    excerpt: "On the contrary, rise in the adoption of AI in emerging markets and the rapid development of smarter robots are expected to create lucrative opportunities in the near future. Access full summary report @ https://www.alliedmarketresearch.com/artificial-intelligence-market The global artificial intelligence (AI) market was pegged at $4.06 billion ..."
+    publishedDateTime: 2020-01-20T19:04:00Z
+    webUrl: "https://www.openpr.com/news/1901705/artificial-intelligence-ai-is-the-future-in-information"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "Yexji+STRLtMo2E25vy+6nePpJeudoKDaH80ylD8ukOzL6UOy8+zhdF8uNjR/ABM/8eVsm8xC856vRvF1Rt/ttXKbV5bqQclIQloIurzXAYQkI1VvzBzzs6OGS8uPShlXloNIz5KswBz7JHnJRGIS3pp1yLOHtABCbek7lCpC1A+vsy24S4zk4LtuP3kbFG4jCZSifcFNZ/ZdmY10DVyHls8rteUxRRHfBs6unjIT9EFZvAIl8S3knOzW/ES/TyqyJZdexGoC45umo7OOrJO7SnX+yMiTzWTz28152cfnAM=;soGrqohGJXlS0JtTLSDgDg=="
 ---

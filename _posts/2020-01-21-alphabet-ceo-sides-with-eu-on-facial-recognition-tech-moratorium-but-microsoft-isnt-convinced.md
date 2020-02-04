@@ -131,21 +131,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "UPDATE 1-Alphabet CEO backs temporary ban on facial-recognition technology over misuse worry"
-    excerpt: "BRUSSELS, Jan 20- The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes."
-    publishedDateTime: 2020-01-20T14:54:00Z
-    webUrl: "https://www.cnbc.com/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
-    images:
-      - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
-        width: 1200
-        height: 630
   - title: "Google backs EU’s proposed facial recognition ban; Microsoft disagrees"
     excerpt: "A ban is like “using a meat cleaver instead of a scalpel to solve potential problems”, he said. Smith also focussed on the benefits of facial recognition technology, citing the example of its use in finding missing children. It is the government’s responsibility to understand how technology is being used, identifying problem areas before ..."
     publishedDateTime: 2020-01-21T13:41:00Z

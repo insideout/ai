@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/"
 type: article
 quality: 88
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
         width: 1200
         height: 630
-  - title: "I Took a Test Drive in Qualcomm’s Self-Driving Car on a Busy Freeway"
-    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test drive in their experimental vehicle! Qualcomm is a San Diego based company best known for it’s smartphone chips! Now they want want to be the brains behind self driving cars, too. When you think self-driving cars, you might think Tesla ..."
-    publishedDateTime: 2020-01-20T14:28:00Z
-    webUrl: "https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/"
-    ampWebUrl: "https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 44
-    images:
-      - url: "https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 900
   - title: "Self-driving cars have an overlooked upside"
     excerpt: "Upon reading the Jan. 24 Metro article “Uber bringing its tests of self-driving cars to D.C.,” one major benefit that I have yet to read about popped to mind: tipping. A lot of people will save money if they don’t need to tip a driver. I’ve always tipped, but it is appealing to have that need disappear. It will also be kind of a relief ..."
     publishedDateTime: 2020-01-27T22:12:00Z

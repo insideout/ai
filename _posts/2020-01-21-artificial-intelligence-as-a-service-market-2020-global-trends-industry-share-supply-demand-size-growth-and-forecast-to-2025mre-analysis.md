@@ -23,72 +23,28 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Size Hiting with 49.7% CAGR in Forecast 2019 to 2027"
-    excerpt: "According to Acumen Research and Consulting, the worldwide Artificial Intelligence (AI) in Healthcare market expected to surpass USD 40.2 billion by 2026, increasing at a CAGR of 49.7% between 2019 and 2026."
-    publishedDateTime: 2020-01-21T06:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-hiting-with-497-cagr-in-forecast-2019-to-2027-2020-01-21"
+  - title: "Artificial Intelligence Robots Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
+    publishedDateTime: 2020-01-21T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 83
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025"
-    excerpt: "Why is Artificial Intelligence disrupting the healthcare ... From life coaching to cognitive behavioural therapy to faith-based healing, therapy bots support users’ mental health and help ..."
-    publishedDateTime: 2020-01-16T08:13:00Z
-    webUrl: "https://medium.com/@brand_minds/artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-36-1-billion-by-2025-1e2f70b0ca1?source=---------2------------------"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 71
-  - title: "Artificial Intelligence (AI) Hardware Market Size, Outlook on Key Growth Trends, Factors and Forecast to 2026"
-    excerpt: "Hardware Market. The factual, unbiased, and thorough assessment of the global Artificial Intelligence (AI) Hardware market presented in the report assures players of access to much-needed information and data to plan effective growth strategies."
-    publishedDateTime: 2020-01-20T17:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-outlook-on-key-growth-trends-factors-and-forecast-to-2026-2020-01-20"
+  - title: "Wearable AI Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "New York, January 21, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Wearable AI market share. Major industry players with significant revenue share include Google,"
+    publishedDateTime: 2020-01-21T03:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
-    excerpt: "Artificial Intelligence (AI) in Healthcare Market - Global Drivers, Opportunities, Trends, and Forecasts to 2022 Artificial Intelligence (AI) refers to the creation of intelligent systems that are able to perform tasks without human interventions and instructions."
-    publishedDateTime: 2020-01-17T08:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-  - title: "Computer Vision in Healthcare Market 2020 Analysis Research and Development Forecast by 2025"
-    excerpt: "New York, January 27, 2020: Market Research Engine has published a new report titled as \"Computer Vision in Healthcare Market Size by Product & Service (Software, Hardware, Networks), By Application (Medical Imaging & Diagnostics,"
-    publishedDateTime: 2020-01-27T12:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-2020-analysis-research-and-development-forecast-by-2025-2020-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence and Cognitive Computing Market Foreseen to Grow Exponentially by 2026"
-    excerpt: "Ameco Research announced the latest market research report on “Global Artificial Intelligence and Cognitive Computing Market: Global Industry Size, Share, Trends and Forecast, 2019-2026\". A report on the global Artificial Intelligence and Cognitive Computing market has been recently added to the ever expanding repository of Ameco Research."
-    publishedDateTime: 2020-01-21T05:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-foreseen-to-grow-exponentially-by-2026-2020-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -106,15 +62,93 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Vision Screeners Market is expected to witness healthy growth at an estimated 6% CAGR during 2019-2029"
-    excerpt: "VALLEY COTTAGE, N.Y. - Global vision screener sales are likely to near US$ 500 Mn by the end of 2019. According to a new research intelligence study presented by Future Market Insights (FMI), the market for vision screeners will continue to witness an average 5."
-    publishedDateTime: 2020-01-24T11:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/vision-screeners-market-is-expected-to-witness-healthy-growth-at-an-estimated-6-cagr-during-2019-2029-2020-01-24"
+  - title: "Neural Network Software Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "New York, January 22, 2020: The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software,"
+    publishedDateTime: 2020-01-22T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Machine Learning as a Service Market 2020 Overview, Latest Analysis and Future Forecast By 2025 – Market Research Engine"
+    excerpt: "New York, January 22, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
+    publishedDateTime: 2020-01-22T04:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-overview-latest-analysis-and-future-forecast-by-2025-market-research-engine-2020-01-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Chipsets Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
+    publishedDateTime: 2020-01-21T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21-21752033"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market Opportunities, Challenges, Risks and Influences Factors Analysis to Reach CAGR of 47.77% in 2023"
+    excerpt: "Artificial Intelligence Industry 2020 Global Market research report studies latest Artificial Intelligence industry aspects market size, share, trends, growth, business overview and Artificial Intelligence industry scenario during the forecast period (2020-2023)."
+    publishedDateTime: 2020-01-27T17:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-opportunities-challenges-risks-and-influences-factors-analysis-to-reach-cagr-of-4777-in-2023-2020-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
+    excerpt: "The global artificial intelligence chip market is bifurcated on the basis of the segment into the Data Centre and Edge.Based on type, the AI chip market is segmented into CPU, GPU, ASIC, FPGA, and others. The others section include SoC Accelerators and other application specific custom & hybrid chips.Based on industry vertical, the artificial ..."
+    publishedDateTime: 2020-01-21T15:19:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-chip-market-2027-global-analysis-forecasts-/2020/01/21/9084575.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
+  - title: "Machine Learning as a Service Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 20, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report Terry Laboratories Inc."
+    publishedDateTime: 2020-01-20T03:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Automated Material Handling Equipment Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence,"
+    publishedDateTime: 2020-01-21T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -128,6 +162,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 20
+  - title: "Self-Driving Truck Market: 2019 Industry Analysis, Size, Trends, Growth and Forecast 2025 | BMW AG, Isuzu Motors Limited, General Motors"
+    excerpt: "Global Self-Driving Truck Market Report covers analysis of Manufacturers, Type, Application, Marketing Strategy, Distributors/Traders, Effect Factors, Trends 2019 & Forecasts 2025 Self-driving truck is also known as autonomous truck and robotic truck. Self-driving trucks feature all the major competencies of traditional trucks. Further ..."
+    publishedDateTime: 2020-01-21T12:39:00Z
+    webUrl: "https://www.techworld.com.au/mediareleases/37759/self-driving-truck-market-2019-industry-analysis/"
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
 
 secured: "RfzLXSdPx+mh13fXGuWrbmjpujSzsW04bJJIO1Me+hkQfykEF5yw7U1R2a80JS9Efm/f1yRrJxVmRRpkMEWNJRWnCbgkSiWDjFvojH/UymwO2+YrJHmyPdrYNwj4+Rb0uqvGOK+I/6hPCbs18hXcdaO+pU4tfVDXXYKKCWTuqMVHo9dKdai9ZC61imBsIFTjbhGMfrwOgZG2gecHqHdfHrAd6vUQSh4wutD/VLr5TINj2nFNUPDmqth3h1UdF74HM6xEboM2XqfpVYDWffpFCoSlsz7NZ0nxN5ppAxCHFl0=;W+LCkO0j6U257St3iYZ7ew=="
 ---

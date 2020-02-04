@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thenewsminute.com/article/open-banking-automl-top-trends
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156?amp"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -20,84 +20,39 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Artificial Intelligence in Telecommunication Market : Advance Technology Research and Innovation in Technology"
-    excerpt: "Artificial intelligence (AI) is group of methodology that focus on formation of intelligent machines with the help of human intelligence such as visual perception, speech recognition, decision-making,"
-    publishedDateTime: 2020-01-27T03:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-advance-technology-research-and-innovation-in-technology-2020-01-26"
+  - title: "Experts Highlight New Technologies to Shape Businesses in 2020"
+    excerpt: "This means that more people will embrace the applications in the year. 5G mobile technology has the potential to accelerate the application of artificial intelligence (AI) across industries, leading to advances in driverless cars, smart cities, telemedicine, and the Internet of Things (IoT), as per BlackRock Investment Institute. Pundits ..."
+    publishedDateTime: 2020-01-25T00:38:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2020/01/25/experts-highlight-new-technologies-to-shape-businesses-in-2020/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2020/01/25/experts-highlight-new-technologies-to-shape-businesses-in-2020/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/01/25/experts-highlight-new-technologies-to-shape-businesses-in-2020/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence to Make Significant Transformation to Medical Technology in 2020 and Beyond"
-    excerpt: "Artificial Intelligence has been in development for decades already; however, it is only in last couple of years that we saw significant improvements, and what else can benefit from this technological advancement but one of the most critical factors in human development – Healthcare."
-    publishedDateTime: 2020-01-28T00:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15194678/artificial-intelligence-to-make-significant-transformation-to-medical-technology-in-2020-and-beyo"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15194678"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15194678"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://www.abnewswire.com/uploads/1580155563.jpeg"
-        width: 858
-        height: 578
-  - title: "How machine learning could advance solar power technology"
-    excerpt: "This experimentation is the key to creating a healthy proposition for machine learning to become a part of renewable energy. At the University of Central Florida, a number of researchers are focusing on perovskite solar panels. Featuring a combination of inorganic and organic factors, this set has seen up to 28 per cent in increased efficiency ..."
-    publishedDateTime: 2020-01-28T04:29:00Z
-    webUrl: "https://www.energymatters.com.au/renewable-news/how-machine-learning-could-advance-solar-power-technology/"
-    type: article
-    provider:
-      name: Energy Matters
-      domain: energymatters.com.au
-    quality: 39
-    images:
-      - url: "https://www.energymatters.com.au/wp-content/uploads/2020/01/678583375.jpg"
-        width: 1000
-        height: 667
-  - title: "Artificial Intelligence in Medical Imaging 2020 Global Market – Innovation, Technologies, Applications, Verticals, Strategies & Forecasts"
-    excerpt: "“Artificial Intelligence in Medical Imaging Market” WiseGuyReports.Com Publish a New Market Research Report On –\" Artificial Intelligence in Medical Imaging"
-    publishedDateTime: 2020-01-27T08:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186686/artificial-intelligence-in-medical-imaging-2020-global-market-innovation-technologies-application"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15186686"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186686"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: This Day
+      domain: thisdaylive.com
     quality: 24
-    images:
-      - url: "https://www.abnewswire.com/uploads/1580118163.jpeg"
-        width: 466
-        height: 310
-  - title: "LSU computer science, biology researchers finalists in IBM technology competition"
-    excerpt: "The LSU team is a semifinalist for the IBM Watson AI XPRIZE, a $3 million cash prize to be used in research funding. In their research, they are using computer learning, or artificial intelligence, techniques and datasets of known chemical compounds to teach their program to pinpoint compounds that could be effective against specific bacteria."
-    publishedDateTime: 2020-01-24T19:48:00Z
-    webUrl: "https://www.businessreport.com/article/lsu-computer-science-biology-researchers-finalists-in-ibm-technology-competition"
+  - title: "Kashyap Kompella, CFA: Delivering Innovative and Sustainable Business Growth Through Enterprise Automation and AI"
+    excerpt: "RPA2AI also serves as an on-demand Chief AI Officer for large organizations and advises on their enterprise AI strategy, AI ethics, implementation roadmap, technology selection, and change management. The company also started working with national and regional governments and industry bodies to create AI policies that sustain business growth ..."
+    publishedDateTime: 2020-01-30T10:47:00Z
+    webUrl: "https://www.analyticsinsight.net/kashyap-kompella-cfa-delivering-innovative-sustainable-business-growth-enterprise-automation-ai/"
     type: article
     provider:
-      name: Baton Rouge Business Report
-      domain: businessreport.com
-    quality: 19
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 20
     images:
-      - url: "https://d46w5x9vt7qfg.cloudfront.net/businessreport/2014/11/Business-Report-Default-Social-Image.jpg"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) is the future in information and technology sectors - Analysis, size, business growth, trends and projections by 2025"
-    excerpt: "On the contrary, rise in the adoption of AI in emerging markets and the rapid development of smarter robots are expected to create lucrative opportunities in the near future. Access full summary report @ https://www.alliedmarketresearch.com/artificial-intelligence-market The global artificial intelligence (AI) market was pegged at $4.06 billion ..."
-    publishedDateTime: 2020-01-20T19:04:00Z
-    webUrl: "https://www.openpr.com/news/1901705/artificial-intelligence-ai-is-the-future-in-information"
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/GlobalAI-Rectangle4.jpg"
+        width: 5000
+        height: 2500
+  - title: "Patchwork of self-driving laws limiting autonomous truck innovations"
+    excerpt: "Self-driving trucks could change how freight moves across the United States. But with a slow-moving federal government and a patchwork of local laws regulating autonomous truck testing, that future is far from seamless, according to a recent study by the American Transportation Research Institute (ATRI). The government rules created to support ..."
+    publishedDateTime: 2020-02-03T13:55:00Z
+    webUrl: "https://www.fleetowner.com/technology/article/21121622/us-patchwork-of-selfdriving-laws-is-limiting-autonomous-truck-innovations"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 4
 
 secured: "8mnwa0EFO1gAkf7NRbHzx5uI3psY7AQ7suhI55TaTTc1rh00UJox7W977CxteO8b4J/8IKDSHqdeXASjb6mUKzpM+TWL2KSCTSBF/5HluLcHbQnBfA13FHvnbsYnvy64YBNItXc0901MEIOSQopW0ipsUodvWTRGGY7z3xSj0OWGK/aSNo+8ySf++fPbRce71ajZeYcDdxBVOChWkVXKMzmoHuxjpMLWegZNcU0bfyZJxMztnqzORkQlWWJXxVZrxZIgidF7bAk1bzzUBJsNxueE9hCxoeHKyth62EzSAMjdqGPG5dL9pBr/8Tcs5QadxtjGprbvTBWUXJA9RAgOyvvipyV+T8p+HChh+cFVpQ5grI4BiG/aqdX4xrI8MmaJrnUFWiaXznTQiq7wujObNXqwYfdhYM8kFL1R8yugoKAfuojeOwHm3HhL50GgnHUkzwXxGFCD7TCwMphDwfis+5/5kfUkbho3bxz1I+7y5Uo=;+X+zlXoyrOb/zI/gcyBkhA=="
 ---

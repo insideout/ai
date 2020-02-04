@@ -81,36 +81,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106350993-1579778704338rts2ziu5.jpg?v=1579779171"
         width: 3000
         height: 2000
-  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence, calling their alignment “critical ... predicting the weather as well as advancements by its self-driving car unit, Waymo. The Google chief said existing rules like Europe’s privacy legislation GDPR ..."
-    publishedDateTime: 2020-01-20T13:14:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 76
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
-  - title: "No question artificial intelligence needs to be regulated: Sundar Pichai"
-    excerpt: "Pichai urged regulators to take a 'proportionate approach' when drafting rules on artificial intelligence. The chief executive of Google parent ... Regulators should tailor rules according to different sectors, Pichai said, citing medical devices and self-driving cars as examples that require different rules. He urged governments to align ..."
-    publishedDateTime: 2020-01-20T14:56:00Z
-    webUrl: "https://www.wionews.com/world/no-question-artificial-intelligence-needs-to-be-regulated-sundar-pichai-275558"
-    ampWebUrl: "https://www.wionews.com/world/no-question-artificial-intelligence-needs-to-be-regulated-sundar-pichai-275558/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/no-question-artificial-intelligence-needs-to-be-regulated-sundar-pichai-275558/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 73
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2018/09/12/27256-untitled%25252520design%25252520%2525284%252529-20170811103258.jpg?itok=RgBCKobA"
-        width: 918
-        height: 506
   - title: "Google boss Pichai advocates for artificial intelligence regulation"
     excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
     publishedDateTime: 2020-01-22T02:26:00Z
@@ -126,21 +96,6 @@ related:
       - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1"
         width: 600
         height: 400
-  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
-    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI), calling their alignment “critical ... predicting the weather as well as advancements by its self-driving car unit, Waymo. The Google chief said that existing rules like Europe’s privacy legislation, known as ..."
-    publishedDateTime: 2020-01-20T14:21:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 61
-    images:
-      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
-        width: 1000
-        height: 652
   - title: "Google CEO: 'Artificial intelligence needs to be regulated'"
     excerpt: "Google CEO Sundar Pichai is calling for governments around the world to regulate artificial intelligence, saying the sensitive technology should not ... go too far as they work to rein in high-stakes technologies like facial recognition and self-driving vehicles. His speech in Europe and companion op-ed come as Europe weighs new ethics ..."
     publishedDateTime: 2020-01-21T18:25:00Z
@@ -156,6 +111,21 @@ related:
       - url: "https://thehill.com/sites/default/files/pichaisundar_121118gn14_lead.jpg"
         width: 980
         height: 551
+  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
+    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
+    publishedDateTime: 2020-01-20T12:36:00Z
+    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
+    ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
+        width: 1200
+        height: 628
   - title: "AI Is Promising but Needs Regulation, Says Alphabet CEO"
     excerpt: "Among the areas that AI has been touted as being used for are visual perception, speech recognition and language translation. Last year, several Bay Area cities, including Oakland, San Francisco, Berkeley and Alameda banned the use of facial recognition technology by law enforcement officers on the grounds that it could violate individuals ..."
     publishedDateTime: 2020-01-21T23:44:00Z
@@ -261,28 +231,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/b/06/b064a2d9-045d-540d-b183-8334cf9a9299/5e141419b5f14.image.jpg?resize=1024%2C695"
         width: 1024
         height: 695
-  - title: "Sundar Pichai, Google CEO, calls for regulation of artificial intelligence"
-    excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
-    publishedDateTime: 2020-01-20T13:15:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/jan/20/google-ceo-calls-for-regulation-of-artificial-inte/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 50
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/01/07/regulating_artificial_intelligence_93657_c0-75-3414-2066_s1200x700.jpg?b7a37aeec3c5278444f38d86ead8dfb4efb91640"
-        width: 1200
-        height: 700
-  - title: "Google Owner Calls for 'Proportionate Approach' to AI Regulation"
-    excerpt: "BRUSSELS (Reuters) - Sundar Pichai, the CEO of Google-owner Alphabet, urged regulators on Monday to take a \"proportionate approach\" when drafting rules for artificial intelligence (AI), days before the European Commission is due to publish proposals on the issue."
-    publishedDateTime: 2020-01-20T13:10:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-01-20/google-owner-calls-for-proportionate-approach-to-ai-regulation"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "IBM proposes rules to help eliminate bias in artificial intelligence"
     excerpt: "Spearheading the AI regulatory debate gives IBM a chance to come back into the spotlight as a leader in cutting-edge technology, a position it hasn’t held for years."
     publishedDateTime: 2020-01-21T09:53:00Z
@@ -355,15 +303,6 @@ related:
       name: IndustryWeek
       domain: industryweek.com
     quality: 23
-  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
-    publishedDateTime: 2020-01-20T12:36:00Z
-    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 19
   - title: "IBM bats for regulating AI based on accountability,security"
     excerpt: "To ensure compliance with these expectations, providers and owners should designate a person responsible for trustworthy AI, such as a lead AI ethics official. All entities providing or owning an AI system should conduct an initial high-level assessment of the technology's potential for harm. And regulation should treat different use cases ..."
     publishedDateTime: 2020-01-22T19:58:00Z
