@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-po
 ampWebUrl: "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/"
 type: article
-quality: 87
-heat: 88
+quality: 187
+heat: 188
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 600
     title: "BenchSci raises $22 million for AI-powered drug discovery tools"
 
-secured: "geOWRCRWpiJ/IifsiYFbapIRNjUUU2Gv0fqX2J/baeUM/0bljfFFmVFhBZvY9iymXIoaPi5U89LQswWHRhVlhITJnLHiA0SZmFc7wcomzlYoH84n3a8sZj2+iXYvQIgbcQwR0a1H/gbuVHB6+Dy4tatUn1/J0QBjqvbWIVKOnAq//9C8jgZRzj4AfZ7baxhtfJ/8OLVdzQj4bR176yECbvGWRrDQT00HJkKWJG9jAbe1VRXv4Lw/cAshSFPA+x9/qtetbIGQ03h3cJaQQSTx0PNZ6+vfjqrx6h+tUIh0f9xhD0oVJKRCzIezrINdqy9SqgVcwls6ilsCnsC/JGXdyUOsA07ptpm90fcNM2UM5B7riA2w3zsdy3RrKZ4ITGKpJCVSxSUCeUnn+JexrF9tbIONjnHedutJooF5X6erccNNckvylnpKJz2rA7oD441jA8l+yX2we39awZy4oMOAsrWxmbaVXBElInlU288NnNQ=;+ABjTTpFa10RktP4MgG2gw=="
+secured: "9lI9WGXPyip48JQqIzC+MfQ16EYow7n3Tfe8mMajOwousDnhB7AMiuUx8P+bquBelKqK55KiloxelymI7FPcsdo/b2nLBABJ0dZwmjgB9i6v0QzNQbWWLH32nm8rPVlD1tniUy5eC8wMWhphKLZuKZj/3TLEV58rDTdG/RV+RxrEz7aMirKx4wpVPnyoSWXtw0tLK5xyf6fQFqHUbNWpde5qhvFUChUfolg7CMOdphvpUdbH+pENVk1e/OCtLQN+Bj/EKzrVb08Sa0Jy/m5b8eJr9muLqF4IKTIN1y/ACbOML0OOeQDARGrGRWaumGobwmoEwOjSfGYUW9kQobkAnb497JFN5kQxetqcE/WMUO+k84rV5ON2cSI11dzM2pTMq+ZSInyd/xohZvYIeCzD1QUaESwP7qXbgFWg4Yr2pNj93rW9jquO8GpKd9RqHO3afXmxbLZMsvg6nlHvEFC5NqPEMslbs++h4b5qWAmSAnEnmFTf9IWyN1mfdAELYoeg;BHNAsHt27pUFdbOy0Vx5tQ=="
 ---
 

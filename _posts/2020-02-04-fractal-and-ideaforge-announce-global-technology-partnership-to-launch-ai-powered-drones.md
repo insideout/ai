@@ -23,19 +23,45 @@ images:
     title: "Fractal and ideaForge Announce Global Technology Partnership to Launch AI-powered Drones"
 
 related:
-  - title: "Real estate tech provider announces new AI-powered platform"
-    excerpt: "Earlier this week, Lone Wolf Technologies inaugurated Lone Wolf Insights, which incorporates AI to translate brokerage data into plain language for strategic leaders. “The solution aggregates and performs complex calculations on back office data, turning essential information like company dollar, gross commission income (GCI), and year-over ..."
-    publishedDateTime: 2020-01-30T12:37:00Z
-    webUrl: "https://www.mortgagebrokernews.ca/news/technology/real-estate-tech-provider-announces-new-aipowered-platform-325636.aspx"
+  - title: "UST Global Announces Partnership With GreyOrange in Intelligent Robotics for Warehouse and Supply Chain Automation"
+    excerpt: "/PRNewswire/ -- UST Global, leading digital transformation solutions company, announced a partnership with GreyOrange, a global software and mobile"
+    publishedDateTime: 2020-02-03T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ust-global-announces-partnership-with-greyorange-in-intelligent-robotics-for-warehouse-and-supply-chain-automation-300997567.html"
     type: article
     provider:
-      name: Mortgage Broker News
-      domain: mortgagebrokernews.ca
-    quality: 39
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 47
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/046/0321_637159844376488374.jpg"
-        width: 500
-        height: 333
+      - url: "https://mma.prnewswire.com/media/540539/UST_Global_Logo.jpg?p=facebook"
+        width: 1443
+        height: 757
+  - title: "Computer Vision, AR and Robotics: Introducing New Wave of Intelligent Automation"
+    excerpt: "Especially of value in the current time of resource scarcity. According to Deep, computer vision, augmented reality and robotics are some other significant technologies that are making the automation process efficient while capturing, aggregating and democratizing data to further augment and empower the human worker experience. Computer Vision ..."
+    publishedDateTime: 2020-02-03T07:54:00Z
+    webUrl: "https://www.analyticsinsight.net/computer-vision-ar-and-robotics-introducing-new-wave-of-intelligent-automation/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 34
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/ia.jpg"
+        width: 640
+        height: 479
+  - title: "CyberMAK Partners With Kore.ai Offering Conversational AI-powered Chatbots for Digital Transformation"
+    excerpt: "It combines natural language processing, machine learning, and AI into enterprise-wide collaboration and automation through conversational interfaces, thus supporting the growing mandate for digital transformation. Kore.ai's platform has a multi-pronged NLP engine that supports 30+ channels, and makes websites and mobile app more human-like ..."
+    publishedDateTime: 2020-02-03T04:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48750086-cybermak-partners-with-kore-ai-offering-conversational-ai-powered-chatbots-for-digital-transformation-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1085089/CyberMAK_Kore_AI_Chatbots.jpg"
+        width: 400
+        height: 225
 
 secured: "bj7ZSKJnr4etxdRi49IZ+0pUiBya+NkNTQYXbSzqGulfKUihZoECQ6QmLKQ3jwR+88UHgIUYN0zKgB3FsD/dEA2OnM1x62iQ+wFF2p4WnOFOOkjv2oHWX610WjAHqCN87BN+AgMBOqW+jknMIsURPCITPWEObg9rDKxEvfAyBWqGmEoEVnQ9vXqEW0MV24TxNkkyAJJbX70SHSe5FGrJmHRl06pnqz0zqa3Ooky2cVLH80sjGxhFYTmHEzZfx47UXD1P6b+9D7ubTPS0OxowMN1kBGWYvNQQAoiiOVIzstsyvXVCMlHYlWiBGCUFwLdB;v8fAWWoKZA0ItIheM/72fA=="
 ---

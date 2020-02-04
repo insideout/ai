@@ -100,6 +100,19 @@ related:
       - url: "https://hubbis.com/bundles/app/home/images/icon_search.png"
         width: 500
         height: 500
+  - title: "Big Data Trends in Financial Services"
+    excerpt: "... has become one of the main Big Data priorities in the financial services industry. Versive is a company that created software that they claim can help financial institutions and banks analyze massive transaction datasets and cybersecurity data using machine learning. The software is called Versive Security Engine and is touted as being ..."
+    publishedDateTime: 2020-02-03T13:34:00Z
+    webUrl: "https://www.klkntv.com/story/41644204/big-data-trends-in-financial-services"
+    type: article
+    provider:
+      name: KLTN
+      domain: klkntv.com
+    quality: 24
+    images:
+      - url: "https://CNTSYNCONT.images.worldnow.com/images/19157415_G.jpg"
+        width: 1080
+        height: 721
   - title: "The Evolving Data Center, Part 2: AI in 2020"
     excerpt: "Prediction #1: In 2020, we will see a proliferation of customized AI chips hitting the market. As a result, almost every vertical will begin to tap into the power of AI/ML. Billions of dollars have been spent over the past few years to develop AI chips ..."
     publishedDateTime: 2020-02-03T18:31:00Z

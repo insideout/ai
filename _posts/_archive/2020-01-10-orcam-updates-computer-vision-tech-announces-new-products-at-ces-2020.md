@@ -23,6 +23,6 @@ images:
     height: 286
     title: "OrCam Updates Computer Vision Tech, Announces New Products at CES 2020"
 
-secured: "6oT2piPQ43aE3mDyny6rkD7PCcicmPeYLs+9QpauCefMzKSWXW0qrk0dUZfMFF9qzAnpwo6RUTA6NriOwPwvZbEs26g4kAs8SJfCvCWBgRLbJR37u86HqfHj4SCWxNi+flq2cwojVMNPihohnVYW1RNskeda8RqZseDf73dN0fp4L1NVSLzp6qMq9Pb6g3bxOXF/reyi49GC318h0+I/ZNOvmoJdOMBX/8hmlI6Qi4pdboedKYcrOP3Z2yFV6AriBYEjuMOTKMQsZEtY6G4nmUvO58SW/XNgQxJQYG71UxGaGIiFJSMiZutW1iHeRExs;WwMYm9tV0V7sR735PZXuNw=="
+secured: "fsZe/BAxGjnrHO85475PRcwxuenFBe8NsUiYNimMNbNL0WdUYaqsKqkc//+41eR6q87MZ5xaQtoeNp8Oj6lm0+AhhqenQcyQ514ZxHuU7vRyHmavdlKwOOJtzH6ctmv7ON/SuG7TZVUVWtYhVf+/+D4Ew+JzshZW8cJboUGEtcxRh21jJUKeAmx0/EUhPbn47d3iTnpwn21TADeJsuekID8DjSW36GhgUDnO46D/63X43iwXcV9FPim8iPwZo9klBZW+1TRM0UUujPAfXu7O+DjVIz+0iECNp4tkKSD6oXQAGg4TgefF5jc1YISiqC6G;QizWvKT92CSuaW2BWEJd9A=="
 ---
 

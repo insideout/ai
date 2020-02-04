@@ -145,17 +145,6 @@ related:
       name: New Scientist
       domain: newscientist.com
     quality: 39
-  - title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
-    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
-    publishedDateTime: 2020-01-21T03:18:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 36
 
 secured: "SWR05dmlArtUPa0SozrKZx5XGQN/XXUzd8x8UUERR9teTlgb1W1fIwFBMa0cUtzF5bR1/ekcboFwjqSmO7AXhXVJYECXr2wAHM6Qy4qQbFG6dYrQOCGG98hlD4r0VDCup0mxFQ9LIp82LlFMZqlO1JF4KVHVtp6Sr0x60hDQS2YkH+vIucFw/FSlw/Rn4BXo4YgwvEOozzLxzvE3/ik30JQs/1AVnT1Z2TTql+qXMLJ8WMkXUPjtMvpaU3IKJ2WpWKxMcOgwUE11HwZXiQgjRRmKSBIewQNJrN+4iL+tfae5dVBk5A/DNIWOTcHa0qbInGVEL0CHBXyFVuTJGheXBeumSkI2DMlxUCt9O9gPwPee49Q369PWol3S/DwdMXbFJ6HXPtpaEFugqFI0rvNjgCp7QobiSnhzISN3kPKbjgMXCRPqi6B/7O+5+5ZSIlLIhMLfwzYEVcCLKOgvablDmg==;gChAYa7WHD/DnUWLt+X6VA=="
 ---

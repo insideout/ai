@@ -29,6 +29,6 @@ images:
     height: 628
     title: "The best computer reading glasses to help reduce eye strain"
 
-secured: "v0hJKlKYYa+jiqUQf++T/pv1/0BAQryZ6atMFlWis1pPRaK6/6Mbp1S5i3YTC9B47UJIk2DqJbRuiT5SlpuyT3ha4V72vTv5hbVUOrYA0SoS7rJM/EyLvCphYeCq7am9B0ZqhQV4qYkczAYPZX2lO4SHdaJNA7m/65BjoKsa79P8J2SgKNcjQEWvNr/e+WPT14vXoT/twQwyG25we9UnJnJcxz3Ls5oDwOCB8fkxkgJ4TyfvbkQnisn3+DhUkMRTOWabPWKyddKxlcd3EO9fDIx69sj+OOXJaierY9a2iIoZcyTRSGvYmffH+Z/LEFe4;9bG0i7X1TXpG7nwWiBOokA=="
+secured: "nddVw49cRcmnI5xMFyWGkJF3JyrCvw6E8rxQHN0euDNXqVXRhO9LCu0NcO5Sv4vsEi/ImYuVVM51idOjJirfO6xOBz6v/xBDw1BeoTxdcFTTjVbXCcFRdqGdl+KadOGTr1Cr6L0CyGlLRRDrhzQnyCssjfYYzL3THNtwgJB2WwgvJoldyCfy647r9xMzR0xPHMbNjUZzR0wKuN+q9aDcublWMLf9y4JwFecNwE1+9Gkz11iQ/i73XRgduPl6KuAYXf5agGHVOXp1aCFK5QGKTkuwX6MK/vsk9LyZUHSLL1XTn3YtUey6BsEGqZbFUz3B;9qoTmsptHKV0eEe+cruvaQ=="
 ---
 

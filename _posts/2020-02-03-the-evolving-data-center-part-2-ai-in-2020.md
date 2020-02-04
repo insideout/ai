@@ -100,6 +100,19 @@ related:
       - url: "https://hubbis.com/bundles/app/home/images/icon_search.png"
         width: 500
         height: 500
+  - title: "Big Data Trends in Financial Services"
+    excerpt: "... has become one of the main Big Data priorities in the financial services industry. Versive is a company that created software that they claim can help financial institutions and banks analyze massive transaction datasets and cybersecurity data using machine learning. The software is called Versive Security Engine and is touted as being ..."
+    publishedDateTime: 2020-02-03T13:34:00Z
+    webUrl: "https://www.klkntv.com/story/41644204/big-data-trends-in-financial-services"
+    type: article
+    provider:
+      name: KLTN
+      domain: klkntv.com
+    quality: 24
+    images:
+      - url: "https://CNTSYNCONT.images.worldnow.com/images/19157415_G.jpg"
+        width: 1080
+        height: 721
   - title: "Top Machine Learning Services in the Cloud"
     excerpt: "Machine Learning services in the cloud are a critical area of the modern computing landscape, providing a way for organizations to better analyze data and derive new insights. Accessing these service via the cloud tends to be efficient in terms of cost and staff hours. Machine Learning (often abbreviated as ML) is a subset of Artificial ..."
     publishedDateTime: 2020-01-29T23:24:00Z

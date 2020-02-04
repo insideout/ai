@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-15T18:51:00Z
 webUrl: "https://wwd.com/business-news/technology/microsofts-satya-nadella-on-empowering-retailers-with-technology-1203424736/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Women's Wear Daily
@@ -37,16 +37,7 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
-  - title: "Edith Cowan Uni reduces IT costs with migration to Microsoft Azure"
-    excerpt: "According to Microsoft, Azure is already changing the way that ECU uses technology ... Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics ..."
-    publishedDateTime: 2020-01-21T03:25:00Z
-    webUrl: "https://www.itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 34
 
-secured: "TCxRI90RzDsvmsPoY5Glxn+SMcBzyfD1/0mFSOkT8pQBi+QURK5GUcmq2tvhqWjgm/lyn1YJA4pvm7e5yYD4KRlVlgWSIDa9dyp1JgChDXvvzAVJg/2qJYuXUYfJzVLaXu5kQTa0lxmsrY3qA2sITIbMXaogYevTpx2m3kL1UFoO+PpcEie223FPeS34oUJp3d8Jhm5dYC7i8BnCWh4pxoUjIWEoQUs4U/QJlmcZsQn1DAQ5ggvZWgItxryeOm7xd1Cm9fOWWREi1V/ET9pmTRqRkp3yz/6fji5xZ0Jc9rDcLAUo/IGbppOU3QBIp88y;yyupY7vKhgL/82SYeiWmHw=="
+secured: "5HkBMmnrL2/SvxH9a+I2qJZq8M36NKkAggXyhx5Dzh77buxmyYuxhSy2/oG2lQ2Nxl7e1iOzzeoY7k7aMv8JhflkWbtuzKDjVuJ9zvkri+EPfpJhvEIcBwexrK1JpRPetnCUoCJZxxNxUmHxSNX4hYNfGfcwE1SFM298q8tewEQhd/syvlYw+Em5qVWpBNzZ39+BFP8M8RLtT1tz4mXUEP1js4rwrxV4RinXOQpzO/jUFkWaYBERarZaSWYRTcI0FRnNXKci16Piv79dpaFFbZOXylx7G6oGYD2Rh2TRD94Xj6wWSOMCEqkGARfR6eoA;1/XmzHu1Ufa8UlpieP5I4g=="
 ---
 

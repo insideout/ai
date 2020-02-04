@@ -54,6 +54,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
+    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI ... devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned ..."
+    publishedDateTime: 2020-01-20T19:06:00Z
+    webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 84
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg"
+        width: 760
+        height: 428
   - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:57:00Z
@@ -95,21 +108,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
-  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
-    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
-    publishedDateTime: 2020-01-20T13:52:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
-        width: 1000
-        height: 652
   - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
     excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
     publishedDateTime: 2020-01-21T13:56:00Z
@@ -204,6 +202,6 @@ related:
       domain: lewistownsentinel.com
     quality: 17
 
-secured: "HXovFiWuyWeCmLxNjVnvjmFikBMi+HdmE3E8aOHdoogAJ/xOhWBz2vK1YkYMbRKRf5MGYaCPPOwsMLlR1wx5VPKpurH1bCWJOEZXH+VLegnlY4XxoDzGxh0EMxYuy1o6ZBBB7K0fRin/YTLKnIJz6WsbIwVNqWUpMqINPaTh+Dsau2Rg8/cqctl3CaOCx4Ez/mWqpKk9U+zhRnOMSfW+NKGrvrnVFjto9pG7H7VAnIdBPJOSuxidg/gn6/99hTCsfbjfdfQwfx7sRM5Zj/EPyId1u8YCufMEsvvfzfKtT1MvHBLsN7y9C2d/5/EHCxle;r1eWqkmV6ww9wCjNT8umzA=="
+secured: "mWFtCpAPYLmzJRqf+wMsXTTrKu075PR/xlxavZFUrC1ThUpCLk8bwEpLuSahaYMYGRhCDfzGUK2SJh0FKKJqAyQL+RByE/VJdevf7dh5VRFhzbkviA1bxeBZpdhT4OcJyuXhQofLUIPqZYRiwtdnTN0Nh/QK7SXqcIYppvQihzxNOKpjJHl1gtHNyKmfdEWoA0yM9UojEYYBvpXCRU7NZY7YjanEcywtBotT5AOb+n6v57STjyvGFFx7vunaYFosUvCsmeHy3m10dAcpm68kcIYrOVmpOumde4Sje1ubPd6/ZKwWzmfo0O1DrFtA1g5t;dm1gH7ZxftOenR/GXPPFlw=="
 ---
 

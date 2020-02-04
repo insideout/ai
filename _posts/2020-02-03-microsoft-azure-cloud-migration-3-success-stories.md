@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migr
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -101,6 +101,19 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2020/2/2/saupload_charts.dll"
         width: 635
         height: 395
+  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud"
+    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
+    publishedDateTime: 2020-02-03T13:44:00Z
+    webUrl: "https://www.biztechafrica.com/article/microsoft-and-genesys-expand-partnership-help-ente/15418/"
+    type: article
+    provider:
+      name: BiztechAfrica
+      domain: biztechafrica.com
+    quality: 30
+    images:
+      - url: "https://www.biztechafrica.com/media/images/stories/microsoft_wDjNDZP.jpg"
+        width: 410
+        height: 270
 
 secured: "TZxDsHFAFU2fV+NjN75c7H/YrR8+u95ZhSLUtRQQTGhlJ3+ouIVx9qMOfUr+/Z5/sHbj5BYcFWGSgEyB0GNewYSoc4ceTipS1v4zvb61C2sqivBBIsmJ3R7mYPgApdMO/TLUmM5HpQGhku1ipEmk9L9agShG0DvyRsrWWmhGYsJcT3u6A7UYjrJtMp6SgBuLuz2JhCULEEhS6+kPCvq9WX9UOGzPB5O2K1sOKAl3aMD3GA4yh365rN1wYZ7O2Q9ZR2F2/WptWKTQ/8Ez8CkxAXITnS72o9P8Q4IHp/oudYdtMUvreo9fAbi1u5hQ5/OX;7OHCC3Zfsxgh3ADY/5i5SQ=="
 ---

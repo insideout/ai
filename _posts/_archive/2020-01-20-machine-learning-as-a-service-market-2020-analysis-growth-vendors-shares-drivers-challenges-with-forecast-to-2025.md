@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Wearable AI Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, January 21, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Wearable AI market share. Major industry players with significant revenue share include Google,"
-    publishedDateTime: 2020-01-21T03:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
     excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp IBM,"
     publishedDateTime: 2020-01-21T06:20:00Z
@@ -173,6 +160,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "GZu1FacZ3WlyCFZ02xjxP/PvWU8N7yOGqla9jmrEjD2YpKzXqMxL20Sxq6DU+fSAnD4R+S68lEb1NA+K/HgRhHqd2bbSnM6u5ndnvJzD0J2EFrbJ+fnK0wyX6a9/jZEMOIdTWuyAR63WLWdH/R0ag2++NFIyiy+XfGaZDp7a3/63bCRD2umvFlKz5NELhqbjQoAbTu2pP6L7KERX6ptulsKwSoHeXzSVobc0r2YQV45MBwteRghEWeUo5VxUsp+F23DA+z/VvDjR/RKaD2fXXC0hXNi2LjbEisHzHIxsNbGAIdwwXp2ipAZLZXsAQGlR;tswma4Z8tlBhbRuuFRIzrw=="
+secured: "9LI5AbbeNvWl+jSLDo9IhPA6uibfh3po/D6AX021+2Ht+K9CdCJ7Nd+MwKZ51aFbVC+t8SBqVlxFY91n5pzU0R7Mbz4siZl5yrVgcRxy7cUmDaXpoYQ8U2rr0kb6lVAxx4IUcXqn4PPSXFm5pSrNxr9VN5VkHbPlQxJIqGkxs+KCnrLViySu5eu81L+suo1eUcNhJTIi0A5srN5IHjBWh3f5E8sObfx0GW9BruLApAn1x0nVvcWc6gZ7OY3BRu3w2qhP4zYvSolVY8UtWwzSLSnTqjeYhmTwMc1goVUtGhgHN+4aOI1bF1o5VQgLluX2;VOrg6H39Qd5Hw+K2fY0A3Q=="
 ---
 

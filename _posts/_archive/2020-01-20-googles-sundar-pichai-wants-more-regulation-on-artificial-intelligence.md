@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
-excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
+excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI ... devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned ..."
 publishedDateTime: 2020-01-20T19:06:00Z
 webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
 type: article
@@ -110,21 +110,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
-  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
-    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
-    publishedDateTime: 2020-01-20T13:52:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
-        width: 1000
-        height: 652
   - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
     excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
     publishedDateTime: 2020-01-21T13:56:00Z
@@ -209,28 +194,6 @@ related:
       - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
         width: 531
         height: 342
-  - title: "Google CEO calls for ‘balanced approach’ in regulating artificial intelligence"
-    excerpt: "Sundar Pichai’s comments come as lawmakers and governments consider limiting how artificial intelligence can be used. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this,” Pichai said, according to a transcript of his speech at a Brussels-based think tank."
-    publishedDateTime: 2020-01-21T01:58:00Z
-    webUrl: "https://www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html"
-    ampWebUrl: "https://www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 33
-  - title: "Top News In Payments: UK Regulators’ Data Violation Fines Top $126M; Google CEO Calls For AI Governance"
-    excerpt: "In today’s top payments news, U.K. regulators have levied $126 million in fines for data violations since mid-2018, Google CEO Sundar Pichai calls for international cooperation in artificial intelligence (AI) governance and U.K. open banking startup Tink raises €90 million in a funding round. UK Regulators’ Data Violations Fines Top $126 ..."
-    publishedDateTime: 2020-01-21T01:54:00Z
-    webUrl: "https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/"
-    ampWebUrl: "https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 21
   - title: "Google CEO calls for regulation of possible artificial intelligence"
     excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
     publishedDateTime: 2020-01-21T05:36:00Z
@@ -241,6 +204,6 @@ related:
       domain: lewistownsentinel.com
     quality: 17
 
-secured: "SgAD/ATpLQ4uOPJMAcQfSNW7/B2wnv/8A7hT6VZOqQSOkdz26TVvJyiqD515NvqULZx535y5MeMwtMKUFFmq9KVo8n/Dp9mB5MVkUDefTcPTaq9P5+kvZz/4ASZYowSweZDg2okmX1OB633KUhdxKaVQiZMJR/f4LBAs+FM8sitk38b9XRenM9hz6UTB7yiMLOvpUjb3I4q6BfTzEkRmBi62GWh4xtDNFOXW63sl/wN2/wb5VxawjVGow86q75XzOOfBGa/OI6Wf29vxBw8KOwKoEXJC2r88+ok3PSmnmqkKscMgNgDXtFEpQDWYz9+z;EOFXt4kEFqNjM/GgWLXSeg=="
+secured: "8GXljoMDKWj7NVXW0Dmhoz/x9B5yXOAyTveFzG7F0h+yFHoux01DLsAbBrQ7pJCOQasG67/CNjG+OOfwxJg0x7lwmi4jjyWaR7s2VmmW9YJ0ArAQHlMQYNSJK9dx8LqCWTTtCIOzcTgjWInnkD8NjQovXAg1Z3gsHudQwjUUUKxOgBnDJgKMkJBk5NMqJuEEEYpr2A6E1F4gKwpmL86t8VYgyGX00/dZpjL/SYNoYdFFO29aVSHTogg8MojUEjEPEjlXODJX7lGA5ULbHuGjtdvvU71fHylldptYf4zPxDGaSLRYAa3yQt6jy+DUTv3Q;NkVTMZUhpst0yK3q7OTJkQ=="
 ---
 

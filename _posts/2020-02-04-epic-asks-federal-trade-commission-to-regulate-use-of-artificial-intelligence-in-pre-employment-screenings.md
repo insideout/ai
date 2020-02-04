@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-fede
 ampWebUrl: "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/"
 type: article
-quality: 71
-heat: 71
+quality: 171
+heat: 171
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 509
     title: "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings"
 
-secured: "1JHluM00hStq27AMJLA9iXF+bO8hoM+dQkuYMQWI9HuYXKrHL3otbLq6wqojhzcFMMhupVD5vJQ8Yc5/tz75JNMWcRijYLpnUxihhk1wjrENJ87FUe6JtKohcingBTz8ZcGJKpeC4p9MyVqVCU4oPQyLFWw3WxbvQLdcSedysI88a6xMMXkPaxZJ0rVKrkSQ+phMSMbqJ2qPIN4TzdGGxfhzxe759bK9tRhEG1uVu/Q9/XTb16zzGHaLWS7IH+7ZMVh7OiM77hMq8S4vRxf8Th5TGey3iZiNCvHQWjf/ywK+JfPnwSxF6DXoLQ6/VIILYkno9wpDZ3FC/Ssp9sVwB06EL+GWavSaGefyFyy1wS/oNw9cQMRT7cm0HKN2zpL5JjjaLoBv8j1NgTiwWkSYIksEqrK28x5EgPGMQvZOLst/JwULIb+/2Us5jylvPL1lLrt8kSCRaU9rth7qpwfi04k6yYob4WW3fs6M3XV5tk0=;rYWO01HUy6o/VcgYOwfanw=="
+secured: "PH4XWiae3yAvTfnWpkfEP08G2X5GOvpAMAJRJLz6X4DEsiHYw2ShrEyYt5ovnAaN4AgaIxz2YDrvZBXED9lJumMXMKKwGLkOsy1AO2/59+DuYxtMCeo9dpUcUE8jsaM9DjjKf2oY5wFae0LmoHLNrCHdjeXthWd9x2k7HrqQ9kjMZuCW1VEhOZaXERlxzXnbtI1/8TkEH2i27hYbUkNHI333rGDKBZSC7lA41Z3716NPGIkG8VjREotZ+wUczWHT+iu2rOrBQ/T1K1CLbO39cfGi326wyWlFQySxQcmaprxnzkoqu7I+8Xnvkqy8+1nMmOFhmfBXwsNwHzz3Z6i3KhLWn4NB31J7DokJTJzRWA2hXL2emqEDdNOioo5fGiOL5c5oxEHYvfC86irpHvBshfTZG/6XnAp9hRlYk/xCJX1Mj57acEIx8ppmh5G0mCY14rjkjVU2fIgSqQlM97kA4fuJkcUKqpxFA+K780yrGSmHtqoC7e/56KxeCsm/grUi;ggKGtouQtHXJ4GWv+A9WfQ=="
 ---
 
