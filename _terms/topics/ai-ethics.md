@@ -7,8 +7,8 @@ keywords:
   - ethical
   - ethics
 images:
-  - https://insideout.github.io/ai/assets/images/topics/ai-ethics.jpg
-  - https://insideout.github.io/ai/assets/images/topics/ai-ethics-2.jpg
+  - https://insideout.app/ai/assets/images/topics/ai-ethics.jpg
+  - https://insideout.app/ai/assets/images/topics/ai-ethics-2.jpg
 services:
-  news: https://insideout.github.io/ai/api/news/ai-ethics/
+  news: https://insideout.app/ai/api/news/ai-ethics/
 ---

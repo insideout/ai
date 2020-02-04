@@ -19,9 +19,9 @@ keywords:
   - DeepRacer
   - DeepLens
 images:
-  - https://insideout.github.io/ai/assets/images/topics/aws-ai.jpg
-  - https://insideout.github.io/ai/assets/images/topics/aws-ai-2.jpg
+  - https://insideout.app/ai/assets/images/topics/aws-ai.jpg
+  - https://insideout.app/ai/assets/images/topics/aws-ai-2.jpg
 services:
-  news: https://insideout.github.io/ai/api/news/aws-ai/
-  learning: https://insideout.github.io/ai/api/learning/aws-ai/
+  news: https://insideout.app/ai/api/news/aws-ai/
+  learning: https://insideout.app/ai/api/learning/aws-ai/
 ---

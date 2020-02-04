@@ -7,9 +7,9 @@ keywords:
   - chip
   - gpu
 images:
-  - https://insideout.github.io/ai/assets/images/topics/ai-hardware.jpg
-  - https://insideout.github.io/ai/assets/images/topics/ai-hardware-2.jpg
+  - https://insideout.app/ai/assets/images/topics/ai-hardware.jpg
+  - https://insideout.app/ai/assets/images/topics/ai-hardware-2.jpg
 services:
-  news: https://insideout.github.io/ai/api/news/ai-hardware/
-  companies: https://insideout.github.io/ai/api/companies/ai-hardware/
+  news: https://insideout.app/ai/api/news/ai-hardware/
+  companies: https://insideout.app/ai/api/companies/ai-hardware/
 ---

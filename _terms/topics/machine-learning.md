@@ -12,13 +12,13 @@ keywords:
   - Amazon SageMaker
   - AWS DeepRacer
 images:
-  - https://insideout.github.io/ai/assets/images/topics/machine-learning.jpg
-  - https://insideout.github.io/ai/assets/images/topics/machine-learning-2.jpg
-  - https://insideout.github.io/ai/assets/images/topics/machine-learning-3.jpg
-  - https://insideout.github.io/ai/assets/images/topics/machine-learning-4.jpg
+  - https://insideout.app/ai/assets/images/topics/machine-learning.jpg
+  - https://insideout.app/ai/assets/images/topics/machine-learning-2.jpg
+  - https://insideout.app/ai/assets/images/topics/machine-learning-3.jpg
+  - https://insideout.app/ai/assets/images/topics/machine-learning-4.jpg
 services:
-  news: https://insideout.github.io/ai/api/news/machine-learning/
-  learning: https://insideout.github.io/ai/api/learning/machine-learning/
-  projects: https://insideout.github.io/ai/api/projects/machine-learning/
-  people: https://insideout.github.io/ai/api/people/machine-learning/
+  news: https://insideout.app/ai/api/news/machine-learning/
+  learning: https://insideout.app/ai/api/learning/machine-learning/
+  projects: https://insideout.app/ai/api/projects/machine-learning/
+  people: https://insideout.app/ai/api/people/machine-learning/
 ---

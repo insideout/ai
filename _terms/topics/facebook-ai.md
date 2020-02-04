@@ -8,10 +8,10 @@ keywords:
   - ONNX
   - PyRobot
 images:
-  - https://insideout.github.io/ai/assets/images/topics/facebook-ai.jpg
-  - https://insideout.github.io/ai/assets/images/topics/facebook-ai-2.jpg
+  - https://insideout.app/ai/assets/images/topics/facebook-ai.jpg
+  - https://insideout.app/ai/assets/images/topics/facebook-ai-2.jpg
 services:
-  news: https://insideout.github.io/ai/api/news/facebook-ai/
-  learning: https://insideout.github.io/ai/api/learning/facebook-ai/
-  projects: https://insideout.github.io/ai/api/projects/facebook-ai/
+  news: https://insideout.app/ai/api/news/facebook-ai/
+  learning: https://insideout.app/ai/api/learning/facebook-ai/
+  projects: https://insideout.app/ai/api/projects/facebook-ai/
 ---
