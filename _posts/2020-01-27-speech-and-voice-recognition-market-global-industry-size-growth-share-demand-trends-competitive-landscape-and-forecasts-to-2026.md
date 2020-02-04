@@ -421,6 +421,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 7
+  - title: "Self-Driving Bus Market Size, Share, Trend & Growth Forecast to 2027"
+    excerpt: "Autonomous vehicles also known as self-driving car or bus makes use artificial intelligence (AI) software, cameras, and light detection & ranging (LiDAR), RADAR, to sense the surrounding environment and navigate by creating an active 3D map of that location. There are diverse levels of autonomy ranging from semi-autonomous that involve driver ..."
+    publishedDateTime: 2020-02-04T12:24:00Z
+    webUrl: "https://www.openpr.com/news/1918469/self-driving-bus-market-size-share-trend-growth-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
   - title: "Artificial intelligence in BFSI Market: Industry Trends, Market Size, Competitive Analysis and Forecast - 2019-2025"
     excerpt: "Orion Market Reports Recently published report on titled \"Artificial intelligence AI in BFSI Market - Global Industry Trends, Market Size, Competitive Analysis and Forecast - 2019 to 2025\", studies the global markets for Artificial intelligence AI in BFSI in terms of product type, technology type, application type, end-user and regional ..."
     publishedDateTime: 2020-01-31T13:50:00Z

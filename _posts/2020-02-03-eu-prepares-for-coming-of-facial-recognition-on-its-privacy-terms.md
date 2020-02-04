@@ -67,6 +67,19 @@ related:
       - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
         width: 1000
         height: 750
+  - title: "Is facial recognition technology worth the privacy trade-off?"
+    excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
+    publishedDateTime: 2020-02-04T09:05:00Z
+    webUrl: "https://nj1015.com/is-facial-recognition-technology-worth-the-privacy-trade-off/"
+    type: article
+    provider:
+      name: WKXW
+      domain: nj1015.com
+    quality: 39
+    images:
+      - url: "https://townsquare.media/site/385/files/2020/02/GettyImages-1198303844.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        width: 1200
+        height: 833
 
 secured: "Ms6vx/diQxWuSMMwat6ncubb9trayaSxo5z4VgqfTM6Bxg2vKt2FLopelnVN/H5UViDA4Q17zuwxCCt9ehaHP65xbsfsADbm3tIRSKsXdaRJSl40zszO4Vafe1xMYEKSWXHxyS5Mw+mtsfI1wUbZbqjwtugi4TXBfeDUX4QiOnr46/Nb3QIm7wtRfbqWtV9CDI5pHFNLPcm0YOfc5pP0trxBhGX9RFKPByftV76by0pASsVyqZrN7ay2Kh5trmkFYIJE2RhA8gdwDLUWp4nmi1oxRrhBUnI2jJOmH1zUE4nu0TJD/6pQOkl94YfvxinNdf7ovs8Uj4rlr9tizhqqUssr/drUdw5v+ObKX7moU4ABOtlzf+QdXGyC2XcQUX6vSZFQCvkPDHLLz75K/FnJYL/ikXITLD4fGB6V6cRQ5Bl3UyAx3hYOKC8ypkqk0Yvbuzv5HNmVy3U4eN04ieXVMVBAvjsG2TnbGzPqiOUtLaA=;z90Ub2IIOT0DtN4ICJKWZw=="
 ---

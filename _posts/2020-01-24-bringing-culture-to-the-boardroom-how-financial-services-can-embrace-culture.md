@@ -41,6 +41,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2f4189a854780006afa33e%2F0x0.jpg"
         width: 1200
         height: 768
+  - title: "Healthcare CIOs in 2020: 3 key priorities & how the role is evolving"
+    excerpt: "During an advisory call hosted by Becker's Hospital Review, four CIOs shared insight into their priorities for 2020, differing thoughts on emerging technologies, the benefits and challenges of going digital, the changing healthcare landscape and ... vulnerable we still are,\" Mr. Davis said. 3. Artificial intelligence. CIOs are split in terms ..."
+    publishedDateTime: 2020-02-03T18:37:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-cios-in-2020-3-key-priorities-how-the-role-is-evolving.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg"
+        width: 400
+        height: 300
   - title: "Is seeing still believing in the age of AI?"
     excerpt: "Leigh Dow is the CEO of 48 West Agency. Have a marketing challenge you need to solve? Contact her at leigh@48westagency.com. Digital reputation management means staying up to date even as things are constantly changing,"
     publishedDateTime: 2020-01-27T16:19:00Z

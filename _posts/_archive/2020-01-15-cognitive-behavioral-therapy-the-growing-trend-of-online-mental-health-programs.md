@@ -25,6 +25,6 @@ images:
     height: 372
     title: "Cognitive behavioral therapy & the growing trend of online mental health programs"
 
-secured: "/Mi5UeOPnofvJsQT1bOV+NgAUI7DFAAyVjDaffvOSTZTe0TobtBSwN4Ps0xy0l3y+BWRPFQVh1aoFEmaoJv/B4qxA6jBUo5KRHSHQJKsBIesIqDS/H3aCIreOV+8+z866Fx8me0ul6BbaD0tRyjf+/0LkSVeFiAupmBQ35zO+HG4MzCcjlpeILo1rVTkmAnBt4HMq3meZJwNSIXqllx1bhmOUE3S1Gu4rgemKEGAw5SbAECVJRGzDlJ4HWm2UpS+Js/KcY1myCUL1VFh2Ll6GvHXgpvOaGL4pa+FT4HQb333lw3e0S5ONPxlSrCr2lW2;zBUymI9tE60AC8nIxPaZzQ=="
+secured: "ayCnSwzhXvjgKylzZ1dbJ26se/dTGwgOhSZLfBWHJLQ8gZJYlWNDrCs2Ti3Zem6Ux+fvttC7frNZGqDGe2vKpd7pMtFtjO5NEB3tWtk9brxY0oycaFJ/zah/NfsozfondA8qppdPnicu2oY2S4/djHNeAPgAsGmVnT+vXBwUTvHh9IEvdEMyxRx9Cu9Q3LlcmY9Hsi9Alo2AgVGLbNcZbazoClVMoU2WaDfOlyCMFRHhEOl8ZjNVs32mEF7glZhcrzQiDTyx9XUZ+wM8Cf41C/Y+VDJUA8SHqTiFfG+w74A6/i77dHJmmUU6M4wRT72l;248S6tBvBIqWajiCDmYEcQ=="
 ---
 

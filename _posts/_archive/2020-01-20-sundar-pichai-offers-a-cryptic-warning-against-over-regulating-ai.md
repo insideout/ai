@@ -1,29 +1,30 @@
 ---
 category: news
-title: "Google CEO calls for regulation of artificial intelligence"
-excerpt: "Google’s chief executive Sundar Pichai addresses the audience during an event on artificial intelligence at the Square in Brussels ... SAN FRANCISCO (AP) — General Motors’ self-driving car company will attempt to deliver on its long-running promise to provide a more environmentally friendly ride-hailing service in an unorthodox vehicle ..."
-publishedDateTime: 2020-01-20T20:24:00Z
-webUrl: "https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/"
-ampWebUrl: "https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
-cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
+title: "Sundar Pichai offers a cryptic warning against over-regulating AI"
+excerpt: "He discusses his love for technology dating back to his childhood before immediately moving on to all the good that Google‘s doing: Just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in ..."
+publishedDateTime: 2020-01-20T20:51:00Z
+webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/20/sundar-pichai-offers-a-cryptic-warning-against-over-regulating-ai/"
 type: article
-quality: 59
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: WRBL
-  domain: wrbl.com
+  name: The Next Web
+  domain: thenextweb.com
+  images:
+    - url: "/assets/images/organizations/thenextweb.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Autos
 
 images:
-  - url: "https://www.wrbl.com/wp-content/uploads/sites/24/2020/01/Google-CEO-Sundar-Pichai-Jan-20-2020-in-Brussels-AP-Photo-Virginia-Mayo.jpeg?w=1000&h=666&crop=1&resize=1280,720"
-    width: 1280
-    height: 720
-    title: "Google CEO calls for regulation of artificial intelligence"
+  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/sundar_robots-796x417.jpg"
+    width: 796
+    height: 417
+    title: "Sundar Pichai offers a cryptic warning against over-regulating AI"
 
 related:
   - title: "Artificial Intelligence Needs To Be Regulated: Alphabet CEO"
@@ -56,19 +57,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
-    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
-    publishedDateTime: 2020-01-20T19:06:00Z
-    webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg"
-        width: 760
-        height: 428
   - title: "Google’s Sundar Pichai calls for regulation of artificial intelligence"
     excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
     publishedDateTime: 2020-01-21T14:26:00Z
@@ -84,19 +72,17 @@ related:
       - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1"
         width: 600
         height: 400
-  - title: "Sundar Pichai offers a cryptic warning against over-regulating AI"
-    excerpt: "He discusses his love for technology dating back to his childhood before immediately moving on to all the good that Google‘s doing: Just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in ..."
-    publishedDateTime: 2020-01-20T20:51:00Z
-    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/20/sundar-pichai-offers-a-cryptic-warning-against-over-regulating-ai/"
+  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/sundar_robots-796x417.jpg"
-        width: 796
-        height: 417
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
   - title: "Google CEO Thinks AI Will Be More Profound Change Than Fire"
     excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity."
     publishedDateTime: 2020-01-22T10:47:00Z
@@ -123,6 +109,21 @@ related:
       - url: "https://cdn.punchng.com/wp-content/uploads/2018/03/04232131/artificial-intelligence2.jpg"
         width: 640
         height: 480
+  - title: "Google CEO calls for regulation of artificial intelligence"
+    excerpt: "Google’s chief executive Sundar Pichai addresses the audience during an event on artificial intelligence at the Square in Brussels ... SAN FRANCISCO (AP) — General Motors’ self-driving car company will attempt to deliver on its long-running promise to provide a more environmentally friendly ride-hailing service in an unorthodox vehicle ..."
+    publishedDateTime: 2020-01-20T20:24:00Z
+    webUrl: "https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/"
+    ampWebUrl: "https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: WRBL
+      domain: wrbl.com
+    quality: 59
+    images:
+      - url: "https://www.wrbl.com/wp-content/uploads/sites/24/2020/01/Google-CEO-Sundar-Pichai-Jan-20-2020-in-Brussels-AP-Photo-Virginia-Mayo.jpeg?w=1000&h=666&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
   - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
     excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
     publishedDateTime: 2020-01-21T13:56:00Z
@@ -254,6 +255,6 @@ related:
       domain: lewistownsentinel.com
     quality: 17
 
-secured: "qvCxlDNmw4MkQ/22oxLEnjR+e4xWTlAnC8CDMVc4ZFfbPz83upMICgjDWFtXjquh9xU7CBVgfj0CE5J0dSfW801CS0IdwM9rVt3NkzzG3PUaPZsYzrxEqVdAasVbxJWtOwYzFBtrYfKr0Lc2OOGS88t/6NHET9Zogf/JMuhIqv90swpRcDQJsoaM83DC/2A54hxw71uNQudNj9se4l1ZmgKu2FWPOP2frWinGdNssNWC3WglblfWTuTSnqMnchUzMEJmlc80stsM/6QoeK+rQy4H2yPrnxM+mrWi1hgwlJUWg12s0lkF1mGxtvxnIZkxiozKOo/ko75jpMsFdM8iWhVP4id5hAMsRYmII6kbFm2QMgWtegZjqNgs0q7/Qah8nU+AkiOQKq4WFUNINyWDL9v+gezthQQVMI1hl2fJjPRE4YxZkn6t/xLg2/WhbhAQv73xeLKMpBUAAUfW/H+HpM4g+3+3murgVZHdfNiKpA8=;UQJLnRMnO0fL4TAtvF2v7w=="
+secured: "i3mrYs/Zs7LZGQVWa5XytR8JiuZhTaGv1D0gUFNuRNQmXei6iSPWj7/OhaU/35VJMYDvnNx4jVodlfyNgtCuxX/XYicBupzAIytz/YYJCTWUykn65Kcp7rK157YD5LIKbgfjYE682oWj15uteB8II7C6H8ZZsCg8UVbc1iYWoDz9u3NDbkKpVHgKXu9JwAtGR4Svq4ZVJLmS5KyXxTqVaFRzOfsIqrnnIbkQ5hUhfqIOjpFMfBumUelllDosZN8wNSdWd54c8h9efD6i3BOfDWAPOljpZ25VGNVpYdGZs5ICY9OTYCmmqKajAJm31srfmEth3LKjOnxe+ME6U6FISCFpY8TJCJVHwUfkNphPbaGz3lTyzr5D/Oin8vRC/2C3+P/+cEOy9AtaoDIZZTqCC1vVJejruRw81OHTm0I05mKPXs7p6TQkbXjmGtcLVVBPuoEoox1vQEp6yBI3QnWmAw==;tTfprUK0HLQr2MPKNPFsWA=="
 ---
 

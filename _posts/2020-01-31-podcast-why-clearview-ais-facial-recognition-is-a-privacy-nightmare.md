@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T12:30:00Z
 webUrl: "https://www.engadget.com/2020/01/31/podcast-clearview-ai-billie-eilish/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -71,6 +71,19 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
         width: 900
         height: 598
+  - title: "Is facial recognition technology worth the privacy trade-off?"
+    excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
+    publishedDateTime: 2020-02-04T09:05:00Z
+    webUrl: "https://nj1015.com/is-facial-recognition-technology-worth-the-privacy-trade-off/"
+    type: article
+    provider:
+      name: WKXW
+      domain: nj1015.com
+    quality: 39
+    images:
+      - url: "https://townsquare.media/site/385/files/2020/02/GettyImages-1198303844.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        width: 1200
+        height: 833
 
 secured: "+NjB96mRfN984Gpum8ZNFDKgnmdLbSTKIkq9tjTvcsr4exWHDFVoRScrH2Taq3xB+uR9Y2WIrMYF03jHnaLgur44Q/QzxNh/zEZHZ8bnGHbmVQi0nrDOpUchJ5vvc8EZhRYEgISU8AU0ysLrMX7fzpN5OfzyhY5vBYyIcz76AS1yQ08naLH/xNQNc4igzOJyAE646s6/+qWFi3u4dNYewYLVnPc123K5P4dBxabvwFaj7LmZHUwhz9F4N6covlb0sGZ82szrZJANhh4F4xoSuV0gCF2ku+29S0s6RqmVGxEUh1MbGWQ9K5tFhbD8/AjLF9XkcT5R0gJ4Ar40JydmYIWXtOUTFkut3L5ag0E+LwQq9Mx5SlIEM1uF8mXVBAH/7/NHOlEqaO1Hixy4XEq02XHpz4pa33SDpAHH+tv7N7+RGgsmBSPjqE00FD7LQ0gkdR+ulBBeoNV0cZ3jAAHpMyzcgSZMz1pPqrqc+m5AE8c=;vL7guhQwZqykMTvX7YDy2g=="
 ---

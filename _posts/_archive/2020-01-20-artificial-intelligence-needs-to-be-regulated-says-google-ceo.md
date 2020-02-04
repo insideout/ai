@@ -54,34 +54,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
-    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
-    publishedDateTime: 2020-01-20T19:06:00Z
-    webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg"
-        width: 760
-        height: 428
-  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:57:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
   - title: "Google’s Sundar Pichai calls for regulation of artificial intelligence"
     excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
     publishedDateTime: 2020-01-21T14:26:00Z
@@ -282,6 +254,6 @@ related:
       domain: lewistownsentinel.com
     quality: 17
 
-secured: "+SyVv7pcomZU+72SV6Ukz9D2LXH+/d34bwNJ0kPNwi2jHyMN5WDz1O7i214CSC5qEpE/sOOPPyvVZu5QhKd1Yu7Tl0Pbwpy7OT5kY0Ox9qzb81Hh6x1LMclrpALM1cGgpGypqAoopIc3AJvNE6Crr292OXMoY4m1l1XNLIQR8YsIMJm73CvGNiXDanibev3sO3LXQ6CzMoxdFoerA1QFQc6l/mBDI+flrP4AUKZZ3cJkQ0HVqdWNfTuxevdhpzMBqkkwHc/d19IEIkIJZO3IH36TH4deQiiX83iVqxgludivr6hpZVQeaY89peKVJwfR;leqMfTT3ccYyvBIT+3KPFQ=="
+secured: "8tOVAM+lPahyxY98zGVYVbXAm71oaibH6eJRvBBPhn+FKZDFhoGmnLczRbxPGmyfN2kuk2qSKrmoPF/51dDpDgmUpxXIDt95pitDi7MYyO6qHwJILL5siCPqJoNiy5YMGN0HPpC13tiXRf3P9vwswWkpvw4HswPcm/HwhnIR/VdVjTi/CIDZynNvS+9kpPqnXC75LbgHzdtRai4vF9dguhGrUVO/0wsM5eyp79FBvrZCu111//yLrAKnekq4K4CqOazNOdTgzSDUHgJ+tr2EBSWjLun035jw0xNFTWzTmXSQS99z9lPLR3HUcpcvDX84;DdqtXqJhxPM9k2PZyPx6Hw=="
 ---
 

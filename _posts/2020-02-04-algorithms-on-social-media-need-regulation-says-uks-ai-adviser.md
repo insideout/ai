@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.theguardian.com/media/2020/feb/04/algorithms-social-medi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Guardian
@@ -26,6 +26,21 @@ images:
     title: "Algorithms on social media need regulation, says UK's AI adviser"
 
 related:
+  - title: "Government’s AI adviser calls for crackdown on social media targeting"
+    excerpt: "the government’s artificial intelligence (AI) adviser has warned. A report published today by the Centre for Data Ethics and Innovation (CDEI) called for tighter regulation of online targeting systems, which use personal information about users to decide which posts, videos and adverts to show them. An analysis of public attitudes towards ..."
+    publishedDateTime: 2020-02-04T12:13:00Z
+    webUrl: "https://www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/"
+    ampWebUrl: "https://www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 59
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2020/02/1172808215.jpg"
+        width: 1024
+        height: 659
   - title: "UK's AI advisor: online profiling needs regulation"
     excerpt: "... by the UK government's advisory body on artificial intelligence (AI) ethics on Tuesday. New rules should also request the creation of publicly-accessible archives for 'high-risk' adverts, such as political adverts, and encourage long-term wholesale reform of online targeting, the Centre for Data Ethics and Innovation (CDEI) suggested."
     publishedDateTime: 2020-02-04T11:25:00Z

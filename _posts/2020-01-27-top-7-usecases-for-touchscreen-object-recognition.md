@@ -39,6 +39,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
         width: 1200
         height: 800
+  - title: "The rise of facial recognition technology: where we are and what to expect"
+    excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the first article in a two-part series examining the rapid rise of facial recognition technology. Part one discusses the use of facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal landscape ..."
+    publishedDateTime: 2020-02-04T12:04:00Z
+    webUrl: "https://www.biometricupdate.com/202002/the-rise-of-facial-recognition-technology-where-we-are-and-what-to-expect"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
+        width: 1640
+        height: 800
   - title: "Army is finding ways to thwart hackers using images to mess with object recognition"
     excerpt: "Teaching a computer to categorize things like a human is no easy task, it’s harder though when an adversary is messing with the data. The Army wants to use facial and object recognition software to speed up its decision making and bring analyzed data to the warfighter so they can make informed, split-second decisions. The problem is that ..."
     publishedDateTime: 2020-01-28T22:30:00Z

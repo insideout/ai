@@ -8,7 +8,7 @@ ampWebUrl: "https://m.businesstoday.in/lite/story/telangana-municipal-elections-
 cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/telangana-municipal-elections-2020-face-recognition-app-yields-80-accuracy/1/395428.html"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Telangana municipal elections 2020: Face recognition app yields 80% accuracy"
 
 related:
+  - title: "Face recognition app yielded 80% accuracy in polls: Officials"
+    excerpt: "The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an accuracy of 80 per cent, officials have claimed. However, AIMIM chief Asaduddin Owaisi objected to using the technology alleging that it was dangerous and would invade privacy. \"The result (of face recognition app) was encouraging."
+    publishedDateTime: 2020-02-04T10:37:00Z
+    webUrl: "https://www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.html"
+    ampWebUrl: "https://www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 59
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2018/4/17/face-recognition.jpg"
+        width: 760
+        height: 443
   - title: "Telangana municipal elections: Face recognition app yielded 80% accuracy in polls, say officials"
     excerpt: "Otherwise the result would have been above 90 per cent. Even then the result was encouraging, the official said. The Telangana State Election Commission used facial recognition app in a bid to counter impersonation of voters. The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an ..."
     publishedDateTime: 2020-02-04T11:29:00Z
@@ -38,6 +53,6 @@ related:
       domain: financialexpress.com
     quality: 26
 
-secured: "uksR4MTNve4Nk27kB1TKGamZ8illqfO4rIP0yfQEGN+r3Fiduokpta4NdAVfGbJQqD2rY6umW+vs8yJkWonhvtszqkBEn0hY2JUqRznWe4Uj1FWmSJY/K6vNwFVwBmcnQlgSZ0SQ5nHIO52+d58zmWqWwHakiuiNSgz6C0tL8if8wnnRgG9hiI5ty0iYmzrJ/QIwDlC437vgaYlHIdSPKDarzFqLnhyCePrL36gCKC5n6LHrQ3xs3imiC4F73aIvPPf2HzWFRptw9zWGnMSbwkxhVWzZZxjxlVfPghzKpEK78LTCYJCZ2ubaSjBV0n9J;RXJu49HJ9QhG2kQgbTkaoA=="
+secured: "wRvEfeXX5hLgVjJwWm+/4F/SDBnOg/IGyYSti0tHOkRf27Va6CAO1tXEYcq0sxyCV1eC8IdrzCg4tKfG1KkjiYJWiWnqNaODi4XOvdjzPN5HZiwoHQDlMgaRpJYSXt/WDcLHKcqQ/XWGJfU6Brj9DAFyMmeiKCJJxCHyX5hiQPzsoNjbDcN3LTPqlgDoU7v+nQesjr88fiTzboFPHN1tL2HVptY180rWQyfWylHZJUHCcu9LX9Cd/UIT/Cdxlvuj9h2gjmd+1JO+t+jmzANFaikWJZdfZoWrjhllgq5E1NvQ2uitQIWupIfEOGKLcF/XBoWrXzVVQkHEr+dY9gZzFhw/dHTmurDyTBk5IWVE5mc0VvLUKTvbAmuvuWIxCAbSPniC23erJr/F2n17mvhTpOShI5P96gOrAtWGLSTHoPItX2gS00ef5i/50ENosa+I8rqR2TcwDQn5TVR4GX9o+EO8P6AHQ8hpRaasG7kkIH8=;7ZUAoicWXd0Z3meqmJIdVA=="
 ---
 

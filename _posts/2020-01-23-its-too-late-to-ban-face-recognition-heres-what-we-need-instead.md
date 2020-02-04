@@ -177,19 +177,6 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 40
-  - title: "Alphabet CEO Pichai backs temporary ban on facial-recognition technology"
-    excerpt: "The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes. \"I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,\" Sundar Pichai ..."
-    publishedDateTime: 2020-01-20T19:43:00Z
-    webUrl: "https://www.itnews.com.au/news/alphabet-ceo-pichai-backs-temporary-ban-on-facial-recognition-technology-536769"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 38
-    images:
-      - url: "https://i.nextmedia.com.au/News/2020-01-20T145332Z_1_LYNXMPEG0J1CD_RTROPTP_3_GOOGLE-EU.JPG"
-        width: 800
-        height: 526
   - title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
     excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
     publishedDateTime: 2020-01-21T03:18:00Z

@@ -20,6 +20,21 @@ topics:
   - Computer Vision
 
 related:
+  - title: "Face recognition app yielded 80% accuracy in polls: Officials"
+    excerpt: "The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an accuracy of 80 per cent, officials have claimed. However, AIMIM chief Asaduddin Owaisi objected to using the technology alleging that it was dangerous and would invade privacy. \"The result (of face recognition app) was encouraging."
+    publishedDateTime: 2020-02-04T10:37:00Z
+    webUrl: "https://www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.html"
+    ampWebUrl: "https://www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 59
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2018/4/17/face-recognition.jpg"
+        width: 760
+        height: 443
   - title: "Telangana municipal elections 2020: Face recognition app yields 80% accuracy"
     excerpt: "The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an accuracy of 80 per cent, officials have claimed. However, AIMIM chief Asaduddin Owaisi objected to using the technology alleging that it was dangerous and would invade privacy. \"The result (of face recognition app) was encouraging."
     publishedDateTime: 2020-02-04T11:13:00Z

@@ -29,6 +29,6 @@ images:
     height: 729
     title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
 
-secured: "3YRcoftU8YNSBj5hoMq+7ZRZKs6zQFaX7+rm1hYk8+5W5TLtzKkjy3bxw49d4XKGFEEZ7L8jUx/rGBdNTZez5otLRtUyAWYRTRcOi50EH3w3vmMb8vIH4HtbbjvUF1Hry1UZ3l3id1VPME/NTEj5STjOKUqHp5Vdeb5uq8uj6/4H5qNN0mL5jlT1tw608QBedQXwXGBMBvfjKlnb+vDtXC/g1yFfrBngpjMDn2otT172sQ3pjDpBicZLfRZBCiEfPismU017VihmT/z+dWAumEUYRv5dR5v7TqnH/L/DbJUEP/HeEwR069wTqO789DWi;09eHOXNWHonbalEnOkz02Q=="
+secured: "oCSwMmZm6cs4UPLWuyAHB12/GQ7kkZGdbh0uaigDhjrGIUEKpCbRHFKDFZMR0S/cjnrYp60J9+G8+55JNRPsJ2/2eNXYS0rP18uQ0w8137+dC9CuaBwXbf/Me4qmXbpDmxA+yR94PRaxmj/WDjS9vIc6e0GC4jrw2icYjXDzGEmMjengU22SvXmbrDOTmIE5MWnwWn3j1Gfeb4xs8lLJbaR2qp/D+LanWFzU/8Q4dEAEu5fXPLfes5lygd3jS1Jeh8DuYIMmh7NrKQAfYMMgrVi5tmMxCfVELeOsJzdT7+Zi8793eRu4eCuyi9/Oyfm1;oplCi8o5+v+8UvcVIGvF8g=="
 ---
 

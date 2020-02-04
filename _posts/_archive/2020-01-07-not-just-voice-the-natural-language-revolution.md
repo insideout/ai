@@ -23,6 +23,6 @@ images:
     height: 581
     title: "Not Just Voice: The Natural Language Revolution"
 
-secured: "gT7816lyajorlVjQxs+hg+BPZZMI/9NUqowWgLM4SqGbra4oSyQsbmdgGQJBgUk/Vildgvf9IEGUulmcRTJYEQWXRoIiIkxZ75j7F/GqSEHZXHT9o1aBAzjLzQuLwq1YfkQzm+uui1FIDM2RWLPngSw7bcEgF5kqeLNET2558DliHixId7w2DFiKzau3WfPX/0UtA0DDHjyPd43wn7g/EcgTgVv9BgvZ9XcFdvr+SPc/kz/LhJE6mRsjFK+9y3kfKEwTOe3b2vl0bX8QFvhlnxll/oIF6X0USg9hd5F2Tqn4mMtlbM6aaOSCfSv/xUFo;DhJd7JmnsWGW6U3ntlWiiw=="
+secured: "bHI32LbEjc2OwtcYQ1A/XHi+t3720wz9YWMtApTswFqzU4griVaK3vG6bYY3KmdurrMdOuKhxioG84Ey/3Ct85e3Wa0Layf49TR9gHgTwdIPp1r1oT8KoN5NZEXsMA69m/WX23gwZGALx2mS8Bn4qtFcwPadXjHOYDQ/mA0djyV+jdH6tNKub89fEQvkP+ng9uhfzrnxqO/nl2n6Qsc9IgeX2Z8GilPvbYl+uCJBXv0OwFHaBBFf0jJW88BBnkpHcmqKla49N8Nvgc8SpzUVc740jutyOdO7dkkt0mIGnLqRpO5yMkiXW6t30vqllDBS;zgg1VoHMSnL8jIknPDFG+w=="
 ---
 

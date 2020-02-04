@@ -51,6 +51,6 @@ related:
       domain: medicaldialogues.in
     quality: 19
 
-secured: "K/oMBmQjhR2e+pe+NyuA6W1ZrfDzBOrtbF+ouAE2EmbMuzcOGyNdNR64PZBcTcNnFFw55yWzz+nz4BivrN+XM6Te0ykt5e9sljbC/CnwVwm4uDV0O7L7LCsUDLVZCt41CMSRvTNn5V3hdCkMgvLw5BSsx0G6qP8PvuHnHo5XIew3YJ91cJKB7QDkrkzspfPrEbCIQF4JuRtXnpQ0X8AETMJAIpfzAfimUluKKJeF0qmeL2Yqtw0MNITQwy/0aEEqD6LSw01T4T8IKpao0EDaoLGMJKb2KL66vaY84t+LNHvfv5E60qP9FnCn7bRKD136;prOGkH1DNDr1NF7N6dLtzA=="
+secured: "PNuTMRqbuyAMz++DKXU3o5G8bOgakKO2zPKV9/z/dKve2ut2j4cDGZ0PutRpH321t0hBSFGBrS+mR8dEDFfvAfthwFPTesbv70p5bmfizP6EZQQNQpwtV3xYll/eCv3h/dxw6sC0tTJ6mneq7sxRRmb1eaaHDdpX+0t+iphfVr0UYrT0+j3y4h/e44h3CYYBGRXB780E90VMqNigEzFMgfi561zyvUffmTxIWlt3CmOyhdPlrbR/PoA+49hcHO6nejziaFWj/ieX5OE55mQX5NiP3+vVsL/as4FbJyYXOzxuCjc3LU3vJL0wO59xiA1o;mtCbWfXbaWlG1Yrh471O/w=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://www.businessinsider.com/11-exciting-healthcare-startups-in-euro
 ampWebUrl: "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp"
 type: article
-quality: 84
-heat: 84
+quality: 101
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - AI in Robotics
   - Facebook AI
+  - AI in Healthcare
 
 images:
   - url: "https://i.insider.com/5e32f5e524306a1e385a2fb7?width=1200&format=jpeg"

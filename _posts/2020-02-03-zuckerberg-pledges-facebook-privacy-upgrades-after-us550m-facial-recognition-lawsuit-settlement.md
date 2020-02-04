@@ -67,6 +67,19 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
         width: 900
         height: 598
+  - title: "Is facial recognition technology worth the privacy trade-off?"
+    excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
+    publishedDateTime: 2020-02-04T09:05:00Z
+    webUrl: "https://nj1015.com/is-facial-recognition-technology-worth-the-privacy-trade-off/"
+    type: article
+    provider:
+      name: WKXW
+      domain: nj1015.com
+    quality: 39
+    images:
+      - url: "https://townsquare.media/site/385/files/2020/02/GettyImages-1198303844.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        width: 1200
+        height: 833
 
 secured: "G3gio46m7pjEpT4sM2Nz9tiP1dKrs9wXHzW8H/hO9rcozYJpjIKZXQRXflYtj6Jhz8YoicN0+p0zm3hiEHquRVwV1FFkLdYpVF59oi2Rl1IjuVD6Rr0YrWvrwcQ69UHnaoIwQ1ypo4Mr2/GyjRFBjPY0AzoYlPFTSlTjQcqUjhQ2tbq8o6vrhQ9bcV+reFbSR8zRf4Ibb6rbHntT+ADTdydb0xU7EvRb1poLt18czFpOZpCWebYO0TbexmzgH4f/aikEGLoRErxWKudw+R6I54nAW1GP0iGqpUhDss96u292MV2d/L4WANvB25tczn2N;ijVeVzKRJIsrIi9qskGdgQ=="
 ---

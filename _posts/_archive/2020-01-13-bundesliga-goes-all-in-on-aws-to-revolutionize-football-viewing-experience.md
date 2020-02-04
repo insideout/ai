@@ -1,28 +1,48 @@
 ---
 category: news
 title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-excerpt: "By developing a new, next-generation statistics platform on AWS, using Amazon SageMaker, a fully managed service to build, train, and deploy ML models, Bundesliga will offer fans real-time ..."
-publishedDateTime: 2020-01-13T12:38:00Z
-webUrl: "https://www.thedailytimes.com/business/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing/article_643a2afc-1d0c-57a5-8ae0-69a749bdf9ff.html"
+excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific ..."
+publishedDateTime: 2020-01-13T13:28:00Z
+webUrl: "https://www.oaoa.com/news/business/article_bff64e43-c5a2-5acc-8ac2-6ada0e8d7d11.html"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: thedailytimes.com
-  domain: thedailytimes.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
-    width: 600
-    height: 600
-    title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
+related:
+  - title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
+    excerpt: "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ..."
+    publishedDateTime: 2020-01-14T14:41:00Z
+    webUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14"
+    ampWebUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 103
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
+        width: 1024
+        height: 512
+  - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
+    excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 ..."
+    publishedDateTime: 2020-01-13T15:16:00Z
+    webUrl: "https://www.telecompaper.com/news/bundesliga-picks-aws-to-deliver-real-time-statistics-personalised-match-footage--1322513"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 14
 
-secured: "/wEGcr4P/HiqAg5GMx9s6ug8A1SQ5U/crF9LC4yxsJZaVDNlLK3M7xmYZbvt09IWB3knkg62Ngewh1B9/0NF+Atg1LL+Nj6uDrbRA54o/9X9CI+/Fdo9vQfkZvQcU+rtsNdStpggUCh0mwegtGZcZjNoLYxLIboZgJI8r76gyaijXr6wUVIYt2Y5ktd7H1dZhQ+ZrxofNrqsT5LfKvLjae5PSu5dYyVUYYB2LDOYr0FN8pL/2PcsXmVdkua3TWrKryuczWfAwlhwqwEqwjyjNAsUnsKLH95lkZCyAGDCQ87HHDz3TJ+O1o4NhTPe1LUG;eUtLY2JQD7wlWx0OWKbeTA=="
+secured: "X+bDmkSrbzwxrrElz0jXSj0LpoZEBKf9xCmkZj+p+DV30uV9/M4q9yshO5GEWT4v3IBdsQX0NhrUftODaqSoBFmNTSyqZfQii7Lm1hvRw7O2mVw3mYWDWAAjwc6bAYEi7GDcAxETyUoBqH7o3GuJmoAwg9QGWW5+6Impil1w+mDNiQXxp6rjU5igmONQUDFcTj6NEl5HSQzMS89WqExck+HYuWnHxmLSR5SXRyIh1HJurTRrH7ZJbNLGisIb8Kmvp2fFK5jKaViMx1edevHRGHUQGA70Sh8WWaI7bx55ZHaVCMd2Ipy0NLuAZs2OMXxQ;MlUOmlWtnYaYZmcXBAYLWQ=="
 ---
 

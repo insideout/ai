@@ -35,6 +35,21 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127916599001_6127918301001-vs.jpg"
         width: 1280
         height: 720
+  - title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
+    excerpt: "FACIAL recognition technology is being used in an increasing number of airports around the world to speed up the time it takes for passengers to go through security. But it comes with growing concern over privacy as it's revealed photos of travellers could be stored for up to 75 years. Philadelphia International Airport (PHL) is the latest to ..."
+    publishedDateTime: 2020-02-04T11:36:00Z
+    webUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/"
+    ampWebUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 62
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
+        width: 960
+        height: 640
 
 secured: "r5c9WpWF/EMZg0YH4CvB8o8y6m1leF+SM+0xJmI1iTA3wYRqP/0HMXhF2tJeqbiZaWEPosyok0tXWwWJl53XKrRY0l6h/PR/3gPNyuPFzOh7y8xFz6U3P+PEcDxHZMRm22z89mEMUuySnShagsFptuavrvn3kWwQ033qe/hMgeyD1ttzYTtSUmcbi3nlGB98U6T66nIQB/Wx7CE0cIqWK/9cdf17IYv2Q24CZwgHwl63hi996L9iFhylm/MC+8OYq+pu4fr5PHswP+ll4SCPMVsEHO9mcuABY3SPkKn/h9ae8jxWK1N8/sNBVvVSrG7zYLugm7IpciLKUxF2WNEmSnUJ57pf0rKHA41EB++V/6+WXLeYrfcVsJqNFEDNQUBqi2ulG+3BLpL09IP4aJO2zIxQfM1WnKXemw0FOEmPKILpP9K+fYUDJnuayBXPyeCXtq1/ZX/a0YboPOA172g/X1ZovydxsboEb7OPeyfmhGQ=;ElCmxZfHgD8YGz8pwKIQWw=="
 ---
