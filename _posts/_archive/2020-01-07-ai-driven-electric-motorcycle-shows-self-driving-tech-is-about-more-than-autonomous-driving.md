@@ -4,10 +4,12 @@ title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than
 excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical ..."
 publishedDateTime: 2020-01-07T17:40:00Z
 webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/"
+ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 79
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,25 @@ topics:
   - AI
   - AI in Autos
 
-secured: "VDiy229GOQIlcBcHvFsVP+jlndb7E/SrnkMjiwlKH2P3b2zpirVCfLxzipRzhvZSosQ4c0b3M3KCIVhJoueXZeJyxh8mtPkv0gelA6fi6NpS7kiIgbwvxmWNUpZnEpFijAuLRVsZJEYLhIPC5mp2gvwEo1zqaZL2NhFveu+Gvlj7kq0FMTEb76whIdXYvEtwyJakUNe+myMH+eI2uMD1303zyGPCe2nN+UhsEsMdyK8jOmT+kE2n4Z+cev+UkiqX5ritk58fFQMPfIfbJMUuUQ13C3tTCwUZwGhoICHvdoaMmAOcwPal+xzZBn5GCA8O;5DOOs7uHJLthWCnIpJwO5g=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg"
+    width: 1200
+    height: 729
+    title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
+
+related:
+  - title: "Baidu partners with Wind River for autonomous driving technology"
+    excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
+    publishedDateTime: 2020-01-08T11:12:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
+    type: article
+    provider:
+      name: ET Auto.com
+      domain: indiatimes.com
+    quality: 39
+
+secured: "weYcfJhkqS+vxSv9aewX5Ci7av9aII3KP6X8Pb9fP0SAykWfXWZN49eXklEJSKYJO9fP5wmzRuPvNDBc8dfcgRdA2WW5mXG7jdRf3dbApe4MJZi9Y3XWYVOgZanVa9JfFvzwC3IxbaTvoDOMn+I5Vg0UvyWZ3/PJRd53BS+tomF0zZBwEgkyJFPB4KSJ3UbXK9po15qlBQi3dRB3r19SMlRpSvG5gEpRpjIOgN/mo68ky8bVlrrA0jclTg2qSr9dwjtr2SpaJYd9z0OFcq9vrT68Keosh35hQ2Zyxzr76ffDa0yjDEsXMayzpPoUJzbM;LDDhXBE84USrX/70NoaVyg=="
 ---
 

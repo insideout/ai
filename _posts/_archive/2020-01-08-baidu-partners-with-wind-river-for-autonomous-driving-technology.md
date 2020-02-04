@@ -20,22 +20,22 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Nvidia is partnering with Uber, Volkswagen and Baidu on driverless cars"
-    excerpt: "Nvidia has partnered with Uber, Volkswagen and China's Baidu in driverless cars Uber will use Nvidia's graphics chips for the artificial intelligence computing system in its fleet of self-driving ..."
-    publishedDateTime: 2020-01-08T15:55:00Z
-    webUrl: "https://www.cnbc.com/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
+  - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
+    excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical ..."
+    publishedDateTime: 2020-01-07T17:40:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 79
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104932964-GettyImages-609845726.jpg?v=1532563704"
-        width: 1024
-        height: 601
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg"
+        width: 1200
+        height: 729
 
-secured: "cS8JTIvBupqhO3xjOi1ZRJG07BFQHTua28cTMwL9UFWwEzaojO1jHSAD4WmGWRI3pz/1+bKYbAjxwry7Vaf8BN9IHwOnAfeLMa/113MGHatPN7FrlQr9d9++KK3dogxy1UnbmfyUnVgTXBXizk84Zpw4xHNUy5wVw22VynWr9gxgQqx/NnCNx7NNJHbJcM2qNKtK+SeTFr9Iceh7bjQJv/B01GXryKlXncRBEDEEB+KUf3o/YoAq62GGKbm1WU4PI/4Jh7/GwR999xyzleZTPBcrSL+riOJ/lbXsccYa0YbMvucD+WjxpcRfdl1HTX7a;I/ouLoQj0QSC0ABW8t06og=="
+secured: "OcK+IxlZc/euXGgvsjSDhU/7zprBwlGDcV0JeL7q9hvRkFTqc9jarzJO3WtJ0zu4E/kjgC9bEdlmZawhBBhDUuDwqpn1GOmlUJeCR/BRb9co4oLepK6Ed45XsVvOvhQd4rdNNOiRARJv2tPDpWFjsF+6V2vWuEwPMwoqJR9beiFtHYeXfmiGMfCriIiKSr8BDeiI5rXocvdnrLGbFFLHswIJq5Z0Xhyq9nvSHGwOfVSUwVz1tJ9HX19kqVRWJ+U6CY8KcPMUsbuI9eD4hcnHk2qX5gD+xjIOYxicX8bhHIxHc+r1ZVIZwrnUa+jAgxvd;XrXoqy3TjTX5c8cJmlQCMw=="
 ---
 

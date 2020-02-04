@@ -135,21 +135,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/doggo_pupper.jpg?w=1024"
         width: 1024
         height: 484
-  - title: "Diligent’s Vivian Chu and Labrador’s Mike Dooley will discuss assistive robotics at TC Sessions: Robotics+AI"
-    excerpt: "At TC Sessions: Robotics+AI at U.C. Berkeley on March 3, we’ll be speaking with a pair of founders developing offerings for precisely these needs. Vivian Chu is the cofounder and CEO of Diligent Robotics. The company has developed the Moxi robot to help assist with chores and other non-patient tasks, in order to allow caregivers more time to ..."
-    publishedDateTime: 2020-01-21T00:34:00Z
-    webUrl: "https://techcrunch.com/2020/01/20/diligents-vivian-chu-and-labradors-mike-dooley-will-discuss-assistive-robotics-at-tc-sessions-roboticsai/"
-    ampWebUrl: "https://techcrunch.com/2020/01/20/diligents-vivian-chu-and-labradors-mike-dooley-will-discuss-assistive-robotics-at-tc-sessions-roboticsai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/20/diligents-vivian-chu-and-labradors-mike-dooley-will-discuss-assistive-robotics-at-tc-sessions-roboticsai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 68
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/VIV.png?w=1024"
-        width: 1024
-        height: 558
 
 secured: "qbil7nBnG0magexsqAeu5sc6/0XTQYJeJ6bkfNI5i/RjTs1U9ipgcUmau4fh77rL2qKk8wWj9M8BiDC44/iYfNng4X2YzvGW7hqEYBFqJIs+xMqR//8SdQHq+3etai+iCQlh9UeRzwvLAuYqP5LJFMjfPcphIabKkZE08P4YHgAiXxE3WTdgR0RlsUgdpaBaan7rLiA/NMm9SRdupOTPNypX/ONl+DlZjiVpLa+IAxoRBI6P+AZa/fM64Pb5xs3MCmmP1aEjJjDwk7kt9vTXIAG344XHjXnGzfHDWoyVbGFU40QsGdvjxtveipJkcFWK8XW8T2ICDYmhzF3ldH0N4+bDOAmd3dKXxIAVwPlJUZvUh9Btoh+YowpUselCrje7mV4Gvf+uyPGgMMBrNRcAE/R6QHMZh+z+baHkObjEwTO/DTRQGmvYldXrjUJZoBgbMnR8PKE/Y90A5ls0a5U+dCzNZKgo4VjWyL2ZynECOBs=;McT2l1AZNsopa2s0WDyYxA=="
 ---

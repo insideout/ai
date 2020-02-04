@@ -2,18 +2,16 @@
 category: news
 title: "Rehabilitation Robots Industry Outlook 2020-2025: Set to Exhibit a CAGR of 25.8% - Exoskeleton Robots Expected to Hold the Major Share"
 excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Rehabilitation Robots Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Rehabilitation Robots market is expected to register a CAGR of 25."
-publishedDateTime: 2020-02-04T15:49:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/g15248288/rehabilitation-robots-industry-outlook-2020-2025-set-to-exhibit-a-cagr-of-25-8-exoskeleton-robots-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15248288"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15248288"
+publishedDateTime: 2020-02-04T16:49:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979704/0/en/Rehabilitation-Robots-Industry-Outlook-2020-2025-Set-to-Exhibit-a-CAGR-of-25-8-Exoskeleton-Robots-Expected-to-Hold-the-Major-Share.html"
 type: article
-quality: 7
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -67,6 +65,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "RT9GYNrJdmvCAXESRYoqW0C+97p/QS4kb+BYvSIWtqPFryZRP6SWwreDUP6PJJzPjhZN1drLnv4Z8S9zD04YJ4gLWOLWBjqrJxUX0JZDsunsYy+wHjxOwT1R/u7OgzPCRLuaQi+5cBYa4dX5G8lyXzEw3AL4n8+XfxWQvl0erIV/Xda3wYXqedwgmngulxPccBEOwiftMgXghxjL5CFWvIpKyTdjtGB08ta8/R73J/CsZw8Jwlaa1oY5ZfbiQdZ9H3A9fAQ27Rrt4rdvTnBO92NFfw3uXJxudyAspKnvNu9g58CFrm8hg84E96hKpBKe;K6shH0/vm33dO1ZlxB66kw=="
+secured: "g5nRz9cR3JEC2UeEAn53j3PXBTIGpBDgzAdmOE1lt6eX0KKVyFP42HdA0r1ymGSMcAO/vB+074wEm6roCpRwPYdHz3A4ochRLryvZ1CCGcQiqOi+D09s5WQrHZLdWmkOr4AR69IN+RUuKvv7SP8RGPT+fYcHx09VoDrgao1VhfXi3Gf9HwdY/v95lozz8Kt/spSOOQLDUZfAixisyTPBPk2Q39J2GvhQnwTTxU/c0hW8SFCIkU7idRyrrxARsgp9U0gbe6+1I9Ia5FzqLjmAGh63YrxG4t8di2ISPa1U2Q5ArPLrV82X38XA4RFFKYfM;yphsZygbO4DRZYh85U4j8g=="
 ---
 

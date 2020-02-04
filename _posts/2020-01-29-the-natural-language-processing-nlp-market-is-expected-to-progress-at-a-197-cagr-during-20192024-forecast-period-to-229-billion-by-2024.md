@@ -57,15 +57,13 @@ related:
     quality: 19
   - title: "Rehabilitation Robots Industry Outlook 2020-2025: Set to Exhibit a CAGR of 25.8% - Exoskeleton Robots Expected to Hold the Major Share"
     excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Rehabilitation Robots Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Rehabilitation Robots market is expected to register a CAGR of 25."
-    publishedDateTime: 2020-02-04T15:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15248288/rehabilitation-robots-industry-outlook-2020-2025-set-to-exhibit-a-cagr-of-25-8-exoskeleton-robots-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15248288"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15248288"
+    publishedDateTime: 2020-02-04T16:49:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979704/0/en/Rehabilitation-Robots-Industry-Outlook-2020-2025-Set-to-Exhibit-a-CAGR-of-25-8-Exoskeleton-Robots-Expected-to-Hold-the-Major-Share.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "p6vhSaunepTog692Ps+CZP0b98E7huTyfrsdKJD/fDifDz6nLEpPQ21lo5+qNjAqCdDj6vrVQQwD9RpUJDX8Kcg5o81L73Nda8jM6GQ3y88Dd8YIsc2jfKmcDk7AsPhtU/X4QiKkxW8EKK+wRrm7a3G73nEr3bctuenE6eXbiTORVwLV0yrIknKFrCMvUzExWwEmDb0RQRgtkNABDl0kNx+LLxZvPbLZVmdcUjvGJE/n1PHd4CC2aGAu/SDuQS86okQC7PBN8FTiqO7mJ/jY38oN0bpV35y9bZlFLd2vF/XlW76RsDkqQVp7VsGPeWwL;3DDG9LUAXbL4XlUo8xv9lQ=="
 ---

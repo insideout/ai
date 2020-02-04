@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T00:00:00Z
 webUrl: "https://www.photonics.com/Articles/Related_Using_Microwave_Metamaterials_in_Machine/ar65455"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,21 @@ topics:
   - AI
   - Computer Vision
 
-secured: "a9b0HAISEVJIjtc8WEqWeJ+8fovcz6kmKFDL1aH2rhfxj+eyjNB6U4UJgFNHWIuLaajJVqUl6nZSiZv0IJZLrnR3EBN1UQ/t5g4odtWxjX0pide+8HjkVHcw5TZiR3uUI4WQ280hj7NrarzXcBEHS3Oj3oLojqBuWlHdu3lyIxXlNW1lrN+wK4YfESsZttyHXlqs90iC3CLtUQ/woeD+VCSe1JCbc13vf86GbCjnggqTCns/wA6zy3U7BzuQRDwrEnr8Pb1U5IxG4F1DZt2F4QxcBcYi2QNmLBGbZ6UIqTBTWcXPHWa4AAvXKi/DmMvI;d2yWZJadFJOVHoSWqZ81eg=="
+related:
+  - title: "Saving output of object recognition in macOS — OpenCV Python"
+    excerpt: "This post is important to those of you who have successfully worked on your object detection task. I did some research on the process of saving the output of object detection on OpenCV in Python ..."
+    publishedDateTime: 2020-01-07T04:42:00Z
+    webUrl: "https://medium.com/analytics-vidhya/saving-output-of-object-recognition-in-macos-opencv-python-5914bb5d9ca8"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/1200/1*v4BDPOmFbQgvNOORT0nu8g.jpeg"
+        width: 1200
+        height: 800
+
+secured: "ZqrGvlXpb06mEsSSuIgWzGVbnL26qfedAhTrgel7U25XGJ+9ydSZHJsnfcFU1itzMIbZZ+LrQ9xSK+8t7rRodEjujFQ7M8dXNpRRq8NGFxlsRy4vAfU+XsB21Mhy/pzqZXXYGUpIBFuDN1qpJv4skgvJ4355e44Cjniz+QLMuGJ8xA/380+mmj7B4jivttFKjtmh1qdGMkzaJmk/2H4TS7Qe5EFJ9PWy2Ofe7ym4YdRU6zU8eLER3r3ZTQZ1ELSJD9MczyPoR0h1f2syygfAvAt2tGnme4G6pdH/cGpJ39P30iPEZoHxXewMHinE9E/I;eqbTyTf+CM30g803Lyvrfg=="
 ---
 

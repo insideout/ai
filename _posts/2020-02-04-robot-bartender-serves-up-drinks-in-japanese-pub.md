@@ -27,20 +27,18 @@ images:
 
 related:
   - title: "Japanese robot could call last orders on human bartenders"
-    excerpt: "The robot, made by the company QBIT Robotics ... It uses four cameras to monitors customers to analyse their expressions with artificial intelligence (AI) software. “I like it because dealing ..."
-    publishedDateTime: 2020-02-04T11:17:00Z
-    webUrl: "https://uk.reuters.com/article/japan-robot-bar/japanese-robot-could-call-last-orders-on-human-bartenders-idUKL4N29Y10V?feedType=RSS&feedName=consumerproducts-SP"
-    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKL4N29Y10V"
-    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKL4N29Y10V"
+    excerpt: "Japan’s first robot bartender has begun serving up drinks in a Tokyo pub in a test that could usher in a wave of automation in restaurants and shops struggling to hire staff in an aging society. The repurposed industrial robot serves drinks in is own corner of a Japanese pub operated by restaurant chain Yoronotaki."
+    publishedDateTime: 2020-02-04T17:11:00Z
+    webUrl: "https://af.reuters.com/article/worldNews/idAFKBN1ZY17S"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 89
+    quality: 69
     images:
-      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200204&t=2&i=1485683512&w=1200&r=LYNXMPEG130W9"
         width: 1200
-        height: 630
+        height: 833
   - title: "Robot bartender begins serving drinks in Tokyo pub"
     excerpt: "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitor customers to analyse their expressions with artificial intelligence software. \"I like it because dealing with people can be a hassle. With this you can just come and get drunk,\" Satoshi Harada, a restaurant ..."
     publishedDateTime: 2020-02-04T16:50:00Z

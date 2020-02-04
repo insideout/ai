@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/"
 type: article
 quality: 121
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -136,21 +136,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/doggo_pupper.jpg?w=1024"
         width: 1024
         height: 484
-  - title: "Diligent’s Vivian Chu and Labrador’s Mike Dooley will discuss assistive robotics at TC Sessions: Robotics+AI"
-    excerpt: "At TC Sessions: Robotics+AI at U.C. Berkeley on March 3, we’ll be speaking with a pair of founders developing offerings for precisely these needs. Vivian Chu is the cofounder and CEO of Diligent Robotics. The company has developed the Moxi robot to help assist with chores and other non-patient tasks, in order to allow caregivers more time to ..."
-    publishedDateTime: 2020-01-21T00:34:00Z
-    webUrl: "https://techcrunch.com/2020/01/20/diligents-vivian-chu-and-labradors-mike-dooley-will-discuss-assistive-robotics-at-tc-sessions-roboticsai/"
-    ampWebUrl: "https://techcrunch.com/2020/01/20/diligents-vivian-chu-and-labradors-mike-dooley-will-discuss-assistive-robotics-at-tc-sessions-roboticsai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/20/diligents-vivian-chu-and-labradors-mike-dooley-will-discuss-assistive-robotics-at-tc-sessions-roboticsai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 68
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/VIV.png?w=1024"
-        width: 1024
-        height: 558
 
 secured: "Qx6hB3GgkuBfk6tB/+7SCZXz9SUPpAqehkh/Uwu5zGv+1mW8C9HZmzj/vHa5R9V/K9tIYtYkXYtlPGYkjLSRrjIBfQZOV25T0+UME0n16b3k9xb4jVrR7L31a398b+eCivKT/W1SrDcHvO/HS9+TkgA1R94jmfES0+dxJA4V1XxepILZaRqPogKTWaWOis5I0UF7QjR7PaFh6OOpiPHG1LQgMzhl+WSmQDpCXVnGCrIjZ/Gxg7DTzjzLCVfG4YVh6PGUsbSvrQMSizJgD0ET1K5qn7uVa2al7TEpYHsJrEPYUDI+qhID0j56UchS0ZPvCAOfR7A9dEULZyPoEPkkZt+EAgFvQ7u5KKNH1L8nITnKX2euHOjM/cDhvN4IAqGf/SwA3/gPcLNpPDEx2mvcU9mZiAy2dm6PTIX5DX0qAloVQO0C8MPss68d8FjvVWB+ORInyQZCXxkR+qXfJSdEHZjplLsLeJZ05c3soJxOd+U=;b8sFJgTPCt/lWIY7s3wzDQ=="
 ---

@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Artificial Intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents"
-excerpt: "rescue workers and even space travel The research has been funding by the US Military research agency DARPA An artificial intelligence system that allows self-driving cars to 'see' around ..."
+excerpt: "An artificial intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents, according to its developers. Researchers from Stanford ..."
 publishedDateTime: 2020-01-17T09:32:00Z
-webUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
 type: article
-quality: 11
-heat: 11
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -23,6 +25,6 @@ images:
     height: 382
     title: "Artificial Intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents"
 
-secured: "Jc7yOgHvhJJSmwMoFtCKHMfnAX44kXn5mt2HEukirfNuPGnjJUEUbt/8A3rNlZsh2d3Ji4r/zLz6Ig2ffc2/HZR9aeYvb5zWELfT1MTnRsJe0CNIANgdBfq8qE7xk6B6UOLyEfEHocutgO75AkHHUF5ij57pCWo5YCJI+0MYf1JQTlQojyvGMqBRwweLjM38a+V7PvUn3dsa2OROldduHywU/AGSPVp5+ZiLju+JebnAHKAqZeQOj6PE8G/6ObV0JG+emLLq96Ep9ZZfOR0NrZP3dRxDA3iTmZ9TmAbhxOqwUIlC1VNFoy06YiVq0wXA;/nvZAfaD9fegFnrHtF7RIQ=="
+secured: "Fl1Kfa6ixVJcEI30xnS2MUDf/Pfrqdlej8qIc+mRy/R++advIudlWY8sNPIC5OCGLEKsXIIDmSXUGi4/BT1aFMSkdlksyvq0MKNlzlx1bKxzNnMC+QE7rvcedwHwWM9cea6Ch8Gj6USzYOLuAe1v5Tfbz6lwh+sTPqxKF+63dHkctYFQiv6ZIJKW4PWwx15ErLuutZSmLn133JZffQRZO6saNFcTyCyVWNkRJJrXXRmrT+0ZGrJWflqWLaycQyo4yLP1GZmyWSBVFt6sNmeMwbGwTuH9dsx1a4s/o/ES3ujxk3EGkg7mig57/Vzuo7kz;kKLQfY5WcLuEQ8WJPBYaXg=="
 ---
 

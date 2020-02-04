@@ -78,6 +78,19 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/02/GettyImages-1148108337.jpg"
         width: 1344
         height: 756
+  - title: "The road ahead for digital signage in self-driving cars"
+    excerpt: "Once vehicles become truly autonomous, traveling by car will become a much more passive experience. And while today we're grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them entertained ..."
+    publishedDateTime: 2020-02-04T15:59:00Z
+    webUrl: "https://www.digitalsignagetoday.com/blogs/the-road-ahead-for-digital-signage-in-self-driving-cars/"
+    type: article
+    provider:
+      name: Digital Signage
+      domain: digitalsignagetoday.com
+    quality: 24
+    images:
+      - url: "https://nmgprod.s3.amazonaws.com/media/files/a1/bd/a1bda8354a4cc5b99751ce3b0f639642/cover_image.jpg.640x360_q85_crop.jpg"
+        width: 640
+        height: 360
 
 secured: "5MTBir8fsgksU1FO1S4rX0BNBymvxe2AW2wV6wMS7uJTQV16NPyofhgvtf1mK2D+WHvgfz72QEpJTBb1O8MruCMaBtYSsM66xtYYthXbZx6+j7dw3xcccVFPw805UXODeb0r0hBFrBqD35xgIj3Rg86BfshYeuWY+wWd/XiRtk41JVZOPWBLhLBAus53p12VWlRG6bUAnbRFdNW/qzwHiBfIQIJnNkwDNl66iQ/iBLlFswmD8zKKqCdbwS/gMUDLVPU9/MWgoqCAGWDGO3EN1v/wU6manjev2hbsMNrFgt6nMzhuHau8yD+t5B34FOaknSnPShWDyoww2yXe+krcQSflDJ6TtMVAosO9GYofHPaqCVZjOdgImoj6tXVV2B2JKHqLpiJ+z0iVdYq8NkFsjw/3AoWCSkAswxylcY0f/TzE2z/kC8EoYqscZ8gz4wD+I//eo5LA1y66D5QWwqPY6Gd08p0T+gh+Jyq6ofYFmZU=;Ts+U4tskRWSXNG/43wULKA=="
 ---

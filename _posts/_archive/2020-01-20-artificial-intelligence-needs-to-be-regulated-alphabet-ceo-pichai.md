@@ -56,6 +56,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
+    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
+    publishedDateTime: 2020-01-20T19:06:00Z
+    webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 84
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg"
+        width: 760
+        height: 428
   - title: "Google’s Sundar Pichai calls for regulation of artificial intelligence"
     excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
     publishedDateTime: 2020-01-21T14:26:00Z
@@ -93,6 +106,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
+    publishedDateTime: 2020-01-20T13:52:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+        width: 1000
+        height: 652
   - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
     excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
     publishedDateTime: 2020-01-21T13:56:00Z
@@ -123,21 +151,6 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg"
         width: 1600
         height: 899
-  - title: "Google CEO supports government regulation of artificial intelligence"
-    excerpt: "MOUNTAIN VIEW, Calif — You probably don’t have to stretch your imagination to realize artificial intelligence has the potential to spiral deep into dangerous territory. Remember \"The Terminator\"? But this emerging technology comes with inherent risks that could cause problems long before we find ourselves trapped in a Hollywood-inspired ..."
-    publishedDateTime: 2020-01-21T00:57:00Z
-    webUrl: "https://www.wtsp.com/article/tech/google-ceo-sundar-pichai-supports-government-regulation-of-artificial-intelligence/67-a169939e-b4de-45a9-b6a6-cf55ddc572ea"
-    ampWebUrl: "https://www.wtsp.com/amp/article/tech/google-ceo-sundar-pichai-supports-government-regulation-of-artificial-intelligence/67-a169939e-b4de-45a9-b6a6-cf55ddc572ea"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/google-ceo-sundar-pichai-supports-government-regulation-of-artificial-intelligence/67-a169939e-b4de-45a9-b6a6-cf55ddc572ea"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 57
-    images:
-      - url: "https://media.wtsp.com/assets/WTSP/images/af91cf10-ae93-45c0-a767-233fc2d2139a/af91cf10-ae93-45c0-a767-233fc2d2139a_360x203.jpg"
-        width: 360
-        height: 203
   - title: "Hashtag Trending – Google CEO calls for AI regulation; gotta hand it to Amazon; adult site leaks data"
     excerpt: "Google has its own AI principles to help guide this work, but Pichai said there’s still a lot to be done and that “principles that remain on paper are meaningless.” Numerous sci-fi books and movies have broached the idea of implanted chips in humans allowing them to perform such actions as paying for an item by simply swiping their hand ..."
     publishedDateTime: 2020-01-21T10:29:00Z
@@ -224,6 +237,6 @@ related:
       domain: lewistownsentinel.com
     quality: 17
 
-secured: "ylaNJFMC1Gf5RSQIR+1RJYtKw6aoDT4lYLsN7i+yYr3m/AxxfmSGy3p06XQSBz5tmm4dsBgT+MEM7khIjF5emc8XPZW9nlBwzKO9OZWb5fucUg6+wTqKq6km3EreWGnmerJ8YhIv72SnZkDjWSse4ExsC2V8SZH8CXX/qRIpmw+xKK9ZkBforHY0ivYHgiqBdJMsj2O96NUD2WsZcLHd2tcP6t0CFVzKiykLrvUdH+/JmnN+Qs6VyoX6iRa+NFlJa0qU2oMnIdhPfA/K3nRSVfBKa2nNRfrpUNI9RNZNxCdoxw+LHXVMwPSOjlcLz17A;o+rSk/XwQ0bbXG4p0Q+PhA=="
+secured: "D2arhDSjwUg9dmLDn74FrO5Y6QfOTjKqX4ioBcfnuqmgiMXvAi14gPo5R4QmsO3dMKMupy7JFXnAUIQKvzvReUV6kXlZdB3amur3zUZ8FAhyFLP6nuX/UrC6wLaZzh9Gj15ae9L/yRH5w+wqwO8h78HUo7ZLVLjSdnkGxfOJMcM/PDITO2zUj4xXeQEqoQ6PqYjV57QW63pl95xL7q2IWRzWWQJVSVxLLt7pvSfKinUYYB2AJkBk8HuAL4lpwGOsc6Mf4Kf+QkAuAYDW+t0Q9F1WM9RWEtVtlyP6RB8M5kP172j5t7guQ1LjajVCuq0/;NfgQ7cxzMwpLBGS6i02Q2Q=="
 ---
 

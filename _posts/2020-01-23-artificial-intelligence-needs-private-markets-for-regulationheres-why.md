@@ -173,21 +173,6 @@ related:
       - url: "https://images.livemint.com/img/2020/01/21/600x338/PRI_-P_1579625027389.jpg"
         width: 600
         height: 338
-  - title: "Google CEO calls for regulation of artificial intelligence"
-    excerpt: "Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider placing limits on how artificial intelligence is used."
-    publishedDateTime: 2020-01-21T00:13:00Z
-    webUrl: "https://www.latimes.com/business/story/2020-01-20/google-ceo-artificial-intelligence-regulation"
-    ampWebUrl: "https://www.latimes.com/business/story/2020-01-20/google-ceo-artificial-intelligence-regulation?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-01-20/google-ceo-artificial-intelligence-regulation?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 57
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/f17fec7/2147483647/strip/true/crop/1762x1151+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F95%2F7e%2F2786ca7c75dd9d3bedac31a23fa1%2Fla-1525296284-yp6501yyef-snap-image"
-        width: 320
-        height: 209
   - title: "The AI regulation wave is coming: Industry should ride it"
     excerpt: "AI industry engagement on regulations is the smart play. Martijn Rasser is a senior fellow at the Center for a New American Security, a Washington D.C., think tank. He previously was an executive with a Silicon Valley-based AI startup."
     publishedDateTime: 2020-01-24T12:17:00Z

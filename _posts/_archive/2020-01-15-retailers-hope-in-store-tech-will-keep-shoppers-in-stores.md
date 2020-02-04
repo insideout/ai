@@ -29,6 +29,6 @@ images:
     height: 640
     title: "Retailers Hope In-Store Tech Will Keep Shoppers in Stores"
 
-secured: "U0b/Bl5kutP6Zyj/EC556L2bZPbpA4gMRYXBOKjWkGJV6mREfbFWX5G/y0dBCZIoumUnVeAbLyf9T6ie+ojaXPJwxF2O7VWjaI+Vx0V8GNZq7TWPEiRHx21oMku3cll7bM8NGuIMMRNFkq1AGMBURFnGgd6wFiROohVAF65WWTLDfMjuBSuNKfLpKx4Dbe0LyQkhnLezx33kJvoB0+sTjPSIsDTBLjWDu2usMK5lIvc6wxds0u9N96yvpVFNbbrleSYGZUv/DqAIcxwfL+pI53lU7Xc71yiE1PUpsF0sf35W/9wy+xssKjYY+Ii4M/4b;FZVbe6ZewzOHpPccP3f6Xg=="
+secured: "p/V4z3RGNW8rhHTkgbWjZkTfAOzvoGierhk3f3D+gMbVS+11rzOcHmVhxIKdI+YaPho6PseB3Cj3+imIfBlDab6pazxY5FsYk+woUGq+8dnxob6YGlfS9w1TFUzjjLRmlVP8Z5MpxQdYFK0p9AYEn4/zPMlx5snNtS3z6VnBNrC0eNktx9+seqxJf4sROvHioxIoT6CEEYtGCkNBxDVU6o3McUN0sUfa1GbF64trhMkX/25l5ozfkvlPb5XiW30S7JgaTE0bM72Rv/S2OgliNYbNgntZiDVTr8rmRmQdLP8mtEZERo95A8FA6yBuLfgE;v5UBxzD+Uvh7RxHQ4G72ww=="
 ---
 

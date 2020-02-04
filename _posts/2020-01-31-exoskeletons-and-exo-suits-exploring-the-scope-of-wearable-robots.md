@@ -44,17 +44,6 @@ related:
       - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
         width: 400
         height: 400
-  - title: "Rehabilitation Robots Industry Outlook 2020-2025: Set to Exhibit a CAGR of 25.8% - Exoskeleton Robots Expected to Hold the Major Share"
-    excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Rehabilitation Robots Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Rehabilitation Robots market is expected to register a CAGR of 25."
-    publishedDateTime: 2020-02-04T15:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15248288/rehabilitation-robots-industry-outlook-2020-2025-set-to-exhibit-a-cagr-of-25-8-exoskeleton-robots-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15248288"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15248288"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
   - title: "The natural language processing (NLP) market is expected to progress at a 19.7% CAGR during 2019–2024 (forecast period) to $22.9 billion by 2024"
     excerpt: "New York, Jan. 29, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Natural Language Processing Market\" - https://www.reportlinker.com/p05842957/?utm_source=GNW Valuing $8."
     publishedDateTime: 2020-01-29T07:33:00Z
@@ -66,6 +55,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 2
+  - title: "Rehabilitation Robots Industry Outlook 2020-2025: Set to Exhibit a CAGR of 25.8% - Exoskeleton Robots Expected to Hold the Major Share"
+    excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Rehabilitation Robots Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Rehabilitation Robots market is expected to register a CAGR of 25."
+    publishedDateTime: 2020-02-04T16:49:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979704/0/en/Rehabilitation-Robots-Industry-Outlook-2020-2025-Set-to-Exhibit-a-CAGR-of-25-8-Exoskeleton-Robots-Expected-to-Hold-the-Major-Share.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "inieZcu/5CiOvU8xjqNF/A/WXXRWKPVnhcH5pQxS8vhuHVPm1bSLRb/n4KqlSXBlunYHo+gTuGeJ7SIqDlPVhK182pmdJM/3OhthAeA6Lb65VU7ne34a14nk4abcoWRYEvAg4hP/9tAjRnK+z/UlvX26nbU5niAlPriXROGj6rZv0O8oHv8+H4eKLkNEvHBSztPkjzTUrm4whxCnZY7r+q8uO+uNGVwTJzXLweMXE8XnChoJsWiXnuOO9dZpLyfNMz1C95hvjk3eNkn4kqepNfsBiwXzTOKW/SJ1khtQoMiejSAzsqVCrvsbumhC7NDB;fUhydY7AP6ZcqpkAwKgIsA=="
 ---

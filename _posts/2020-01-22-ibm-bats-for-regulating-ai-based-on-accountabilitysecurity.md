@@ -166,21 +166,6 @@ related:
       - url: "https://images.livemint.com/img/2020/01/21/600x338/PRI_-P_1579625027389.jpg"
         width: 600
         height: 338
-  - title: "Google CEO calls for regulation of artificial intelligence"
-    excerpt: "Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider placing limits on how artificial intelligence is used."
-    publishedDateTime: 2020-01-21T00:13:00Z
-    webUrl: "https://www.latimes.com/business/story/2020-01-20/google-ceo-artificial-intelligence-regulation"
-    ampWebUrl: "https://www.latimes.com/business/story/2020-01-20/google-ceo-artificial-intelligence-regulation?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-01-20/google-ceo-artificial-intelligence-regulation?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 57
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/f17fec7/2147483647/strip/true/crop/1762x1151+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F95%2F7e%2F2786ca7c75dd9d3bedac31a23fa1%2Fla-1525296284-yp6501yyef-snap-image"
-        width: 320
-        height: 209
   - title: "Artificial Intelligence Needs Private Markets for Regulation—Here’s Why"
     excerpt: "It seems the White House wants to ramp up America’s artificial intelligence (AI) dominance. Earlier this month, the U.S. Office of Management and Budget released its “Guidance for Regulation of Artificial Intelligence Applications,” for federal agencies to oversee AI’s development in a way that protects innovation without making the ..."
     publishedDateTime: 2020-01-23T10:30:00Z

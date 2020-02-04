@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-hunt-for-security-flaws
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -82,6 +82,19 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/02/GettyImages-1148108337.jpg"
         width: 1344
         height: 756
+  - title: "The road ahead for digital signage in self-driving cars"
+    excerpt: "Once vehicles become truly autonomous, traveling by car will become a much more passive experience. And while today we're grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them entertained ..."
+    publishedDateTime: 2020-02-04T15:59:00Z
+    webUrl: "https://www.digitalsignagetoday.com/blogs/the-road-ahead-for-digital-signage-in-self-driving-cars/"
+    type: article
+    provider:
+      name: Digital Signage
+      domain: digitalsignagetoday.com
+    quality: 24
+    images:
+      - url: "https://nmgprod.s3.amazonaws.com/media/files/a1/bd/a1bda8354a4cc5b99751ce3b0f639642/cover_image.jpg.640x360_q85_crop.jpg"
+        width: 640
+        height: 360
 
 secured: "SlUt5nCd0vkoxQvW8b1QzRWXm1deptGp8MnkrI/Xhf4zQXiViJpXNZaBS8UmYAvOUsvUxikpPxDwAZ5ZwvcKwVfpXXX77b9S2FUMQoNn5YDA05bLUJMxREEq5/xipCqAfauZhdih92UO6dL+E0WJNMYD+wQLussvSJnT6uP6LPAv3cl5LpVtWc3biYVCQTSKDUX6NuJ/rgFo23NvqYADRyeboLVYCFd+DmZdoJr5VZDbK8x9VYMlbj8Ia0UFwjSBkm/BoRT8isSoXKw5zcgUcuyChLy5V/VVF2SYpsPnQWMQ61W2VFIYmxuul5pnWk09fAkcBHQW8ovHrLcJdCIztuEoUcC5wsSt3XueZtVQqVzeYmoVuEhl6hbMQgWRdK7m1bNV+skWjudM4XEjWSVC/cSmvW6poSlmxUDXx96nnY0LK+GeKv7pfoXQMN7sVPj/XtuCr1QOTn3xaN40CEiSCM7A3HZPPvLfZd/9jw8PqPk=;D3WIKfFBf5kmvLQAlGfzRQ=="
 ---
