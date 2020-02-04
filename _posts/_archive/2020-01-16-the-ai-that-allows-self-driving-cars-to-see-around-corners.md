@@ -20,9 +20,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/04/dyson-air-purifier_trans_NvBQzQNjv4Bq-jz-SzhK96mdzpq7kL7abzM34l8RGRKPtZ2bMRX6RyQ.png"
-    width: 726
-    height: 454
+  - url: "https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg"
+    width: 2501
+    height: 1563
     title: "The AI that allows self-driving cars to ‘see’ around corners"
 
 related:
@@ -42,6 +42,6 @@ related:
         width: 756
         height: 567
 
-secured: "n9KbQXyQa0aUSCAXTs21qSRQ2iYVmv75gUm2NeZK1A1UtoWNu52Ngx9fLjx5bFJEFp7yMUAvqfTWAGoUb8LzYPO6gMXa8N1XvapkwC/8EHkfDx4dN31Jf5pJ7XLQz5wwPrgN3nephvcSfCGlmf1SlgKFEdz5Lvd6fgUkzWU6tKAoVm0Lce/gLyPRqxciHSx5JiV+cp9XLQoL1UyD+iQhpS79gYDxuSjLvNnkrxjzJQZqndPd570ds9cV4TFsT+M6Cx05aMp+jeOq8TU8fZ7ebdHcRqAeaKG8cqHN2iiJWfgtmFailulFJouZ6qz3BqzI;7vxQZwMQ1U4kiPO4qYngvw=="
+secured: "0DqwaBNRwDXuuYG5xjlR44Ft3IYc2RnjX39vp4Mc5YOXPoGTqq8YDQrVXM2k5Buet2jy3IoAGM1CtOyj8dG+dor64vJ1JzPCBklWFi4zMUf4bQa2ypHcsJfO2Ot2rSTz1dT2yp4uQseVJxpeBkp0En9WRb2Bcl4xlZ/AogzMuN8L3xSXSkpKffIYroQDJl6JVk0ezlgR96hJVdD1zRRe5/i6aMv/UPb/+PWpr0ugLQr79cyW4uVhFUPyzhBz71yqXBlNP8vqHyPqTDeGXoRHeepXE90ooGrle46d4yTVrukbtFiKj7YjWP0O55hqvFLj;tzSMqfkyq+ZQlfHF6WRD3w=="
 ---
 

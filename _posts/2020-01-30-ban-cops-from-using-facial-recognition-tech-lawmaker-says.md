@@ -109,9 +109,9 @@ related:
   - title: "Volusia Sheriff’s Office adds facial recognition technology"
     excerpt: "DAYTONA BEACH — The Volusia County Sheriff’s Office has begun using controversial facial recognition technology that some privacy experts say can intrude on personal privacy. But Sheriff Mike Chitwood said in an interview on Monday that the department is putting in safeguards to protect privacy as it tries out Clearview AI. The company ..."
     publishedDateTime: 2020-02-03T17:59:00Z
-    webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology"
-    ampWebUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology?template=ampart"
-    cdnAmpWebUrl: "https://www-news--journalonline-com.cdn.ampproject.org/c/s/www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology?template=ampart"
+    webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology"
+    ampWebUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
+    cdnAmpWebUrl: "https://www-news--journalonline-com.cdn.ampproject.org/c/s/www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
     type: article
     provider:
       name: The Daytona Beach News-Journal
@@ -121,6 +121,21 @@ related:
       - url: "https://www.news-journalonline.com/storyimage/LK/20200203/NEWS/200209522/EP/1/1/EP-200209522.jpg?MaxW=600&MaxH=600"
         width: 361
         height: 483
+  - title: "Coalition calls for Chicago to end use of facial recognition technology"
+    excerpt: "(CHICAGO) Seventy five groups are joining forces to call on Chicago Mayor Lightfoot to end the city’s use of facial recognition technology. The movement, Press Pause Chicago, is made of labor groups, community organizers, civil liberties organizations, and technologists. They’re reacting to recent reports by the Chicago Sun-Times that said ..."
+    publishedDateTime: 2020-02-04T18:51:00Z
+    webUrl: "https://wgntv.com/2020/02/04/coalition-calls-for-chicago-to-end-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://wgntv.com/2020/02/04/coalition-calls-for-chicago-to-end-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/04/coalition-calls-for-chicago-to-end-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 59
+    images:
+      - url: "https://tribwgntv.files.wordpress.com/2020/02/capture-1.jpeg?quality=85&strip=all&w=1200"
+        width: 1200
+        height: 675
   - title: "Facing facts: Reject a blanket ban on face recognition"
     excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
     publishedDateTime: 2020-02-04T09:00:00Z

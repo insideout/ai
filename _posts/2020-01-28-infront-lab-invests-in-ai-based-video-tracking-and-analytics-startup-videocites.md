@@ -32,6 +32,19 @@ related:
       - url: "https://www.financemagnates.com/wp-content/uploads/2016/01/m246689.jpeg-copy.jpg"
         width: 880
         height: 400
+  - title: "Henkel invests in machine learning software start-up Fero Labs"
+    excerpt: "Henkel is participating in the latest funding round of Fero Labs, a US-based start-up aiming to optimise industrial processes by using explainable machine learning. The investment is led by the company’s HenkelX Ventures unit, together with DIVC, a Munich-based B2B Tech investor. Henkel will support Fero Labs to grow its existing customer ..."
+    publishedDateTime: 2020-02-04T14:25:00Z
+    webUrl: "https://www.eppm.com/industry-news/henkel-invests-in-machine-learning-software-start-up-fero-la/"
+    type: article
+    provider:
+      name: EPPM
+      domain: eppm.com
+    quality: 39
+    images:
+      - url: "https://www.eppm.com/downloads/8390/download/henkle.png?cb=e29b89ee4151f41252c4cb03076f26b6&w=1200"
+        width: 1000
+        height: 544
   - title: "Purdue U invests $500K in university-affiliated AI startup"
     excerpt: "West Lafayette, Ind.-based Purdue University's medical technology investment fund allotted $500,000 to PhysIQ, a healthcare startup founded by a Purdue alumnus, according to a Jan. 29 news release. PhysIQ uses artificial intelligence to analyze real-time physiological data gathered by wearable sensors. Because it not only identifies patients in ..."
     publishedDateTime: 2020-01-29T21:51:00Z

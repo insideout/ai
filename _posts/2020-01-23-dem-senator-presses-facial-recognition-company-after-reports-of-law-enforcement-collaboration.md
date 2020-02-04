@@ -8,7 +8,7 @@ ampWebUrl: "https://thehill.com/policy/technology/479564-democratic-senator-pres
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp"
 type: article
 quality: 148
-heat: 258
+heat: 248
 published: true
 
 provider:
@@ -170,21 +170,6 @@ related:
       - url: "https://www.dealerscope.com/thumb/?src=/wp-content/uploads/sites/5/2020/01/PopCom-MachinePhoto-3.jpg&w=750"
         width: 750
         height: 894
-  - title: "The facial recognition technology that could identify people through their social media profile"
-    excerpt: "New facial recognition technology created by a \"secretive\" company has been supplied to law enforcement agencies to help identify unknown people through their social media images, according to a report. Clearview AI co-founder Hoan Ton-That's invention has ripped billions of images from Facebook and other sites. The app allows people to take ..."
-    publishedDateTime: 2020-01-21T01:29:00Z
-    webUrl: "https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 47
-    images:
-      - url: "https://www.newshub.co.nz/home/world/2019/08/facebook-faces-class-action-suit-over-facial-recognition-tech/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1565288219416/GettyImages-1159763174-facial-recognition-mobile-phone-1120.jpg"
-        width: 768
-        height: 438
 
 secured: "l0dQHa6joEAwJz8OIRv5sKkMw65Ooz/CYRUB8eQIFXWN+FgOEWD/DQ2TH+hWBPh2/CTg6yP/ZuaoRjAjHC4b7A6q6jix9brbAe5ROIzk69ypFMQSLh3E72UiKC+Kd4z4d3pa4NE2d5A5Ev617nlunqvYpLRzX8aoUajonrEJgBdA9ri+D4vHAFIryBlWHbZ3CzElQVxovE1ie+8pooMZnaws0mt8k29NkcpFGikkRfWT0Bv/Hwcp6JVlo2x9TJiFmALMg6lkVmHWlgPhHiy4kbDfgrgdsyQa9JwHdUkf5PcnTkU3h9Z08YsggrSNFZ0GLuH3qx0z+0NGLKpwHzmbEXVXT5u6qWXyPbVlPG285Y0=;TwNGpTH2e/oa3GvlWA9RrA=="
 ---

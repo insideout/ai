@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T11:10:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
 type: article
 quality: 79
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -137,6 +137,15 @@ related:
     excerpt: "Zion Market Research published a new 110+ pages industry research \"Global Artificial Intelligence As A Service Market Is Set For A Rapid Growth And Is Expected To Reach Around USD 14.71 Billion Globally by 2024\" is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term ..."
     publishedDateTime: 2020-01-28T06:47:00Z
     webUrl: "https://www.openpr.com/news/1910327/artificial-intelligence-as-a-service-market-to-drive-amazing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
+    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
+    publishedDateTime: 2020-02-04T19:16:00Z
+    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
     type: article
     provider:
       name: openpr.com

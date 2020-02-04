@@ -8,8 +8,8 @@ ampWebUrl: "https://techbullion.com/pros-and-cons-of-artificial-intelligence/amp
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/pros-and-cons-of-artificial-intelligence/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Impacts
@@ -34,15 +34,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "NSF-Simons Research Collaborations on the Mathematical and Scientific Foundations of Deep Learning (MoDL)"
-    excerpt: "Research activities will be focused on explicit topics involving some of the most challenging questions in the general area of Mathematical and Scientific Foundations of Deep Learning. Each collaboration will conduct training through research involvement of recent doctoral degree recipients, graduate students, and/or undergraduate students from ..."
-    publishedDateTime: 2020-01-29T22:45:00Z
-    webUrl: "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505750&org=NSF&sel_org=NSF&from=fund"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 2
 
 secured: "fBjBfyhQXY/quYyBdcM/C4+LWcSVhsOQ5j7BDevlCuC0AC/z5b9doXdGnF9GmptizXM8wZjPgbt0E1q5bZdrZ4zvbiXc5REzBRfHNKB6gHVO2PDDriwrQ4euXLXrHSUSYXOLk7s/+vpqRHOOF1rgYgp6/5lLqlp8vcbqL4b6sICnFp7irFM5C45Bpi/En2nUbEbsTzZuaMZZ8ZTDZi2FrIrFvdsUcL0w8XB7qA7IrFx6dSE3pszNDdMzGvV3bVZa3f4O3QodOc8MAJs9Pv6Cl2RgntVWe7QcliYHq7L3czG7xtYLlM6Sb+yclbWnTiCn/3nT0ZcGtNJndvpqKhGgEzCpIs+0wkOaWokVb94bbxxArBWkiFQTYMYWiQZxpAF4jGUmpTD1kX+k+GwS5Ns99m7OBr6Ghm4I3pKmS7CK3giSMXFyFUtXUgX1SvjOVKXNvjmFg467JhktH523Xnb4WcTEHwl6j8O7bcKXxKH9Aog=;vm/HtGBrHYrW/uj9O0vu6w=="
 ---

@@ -67,17 +67,6 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/01/Analytics-data.jpg"
         width: 1920
         height: 1080
-  - title: "Open banking to AutoML: Top trends driving technology innovation investments in 2020"
-    excerpt: "Machine Learning for All. In 2020, we believe there will be more efficient algorithms to automate Machine Learning (AutoML). This will spur the adoption of AutoML at the enterprise level, helping non-tech firms access the capabilities to build ML applications quickly. This democratisation of machine learning will also make AI experts and data ..."
-    publishedDateTime: 2020-01-30T12:37:00Z
-    webUrl: "https://www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156"
-    ampWebUrl: "https://www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 32
   - title: "Artificial Intelligence in Medical Imaging 2020 Global Market – Innovation, Technologies, Applications, Verticals, Strategies & Forecasts"
     excerpt: "“Artificial Intelligence in Medical Imaging Market” WiseGuyReports.Com Publish a New Market Research Report On –\" Artificial Intelligence in Medical Imaging"
     publishedDateTime: 2020-01-27T08:50:00Z

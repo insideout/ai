@@ -3,9 +3,9 @@ category: news
 title: "Volusia Sheriff’s Office adds facial recognition technology"
 excerpt: "DAYTONA BEACH — The Volusia County Sheriff’s Office has begun using controversial facial recognition technology that some privacy experts say can intrude on personal privacy. But Sheriff Mike Chitwood said in an interview on Monday that the department is putting in safeguards to protect privacy as it tries out Clearview AI. The company ..."
 publishedDateTime: 2020-02-03T17:59:00Z
-webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology"
-ampWebUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology?template=ampart"
-cdnAmpWebUrl: "https://www-news--journalonline-com.cdn.ampproject.org/c/s/www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology?template=ampart"
+webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology"
+ampWebUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
+cdnAmpWebUrl: "https://www-news--journalonline-com.cdn.ampproject.org/c/s/www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
 type: article
 quality: 59
 heat: -1
@@ -114,6 +114,21 @@ related:
       - url: "https://cdn.newsday.com/polopoly_fs/1.41286231.1580616519!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
         width: 1280
         height: 719
+  - title: "Coalition calls for Chicago to end use of facial recognition technology"
+    excerpt: "(CHICAGO) Seventy five groups are joining forces to call on Chicago Mayor Lightfoot to end the city’s use of facial recognition technology. The movement, Press Pause Chicago, is made of labor groups, community organizers, civil liberties organizations, and technologists. They’re reacting to recent reports by the Chicago Sun-Times that said ..."
+    publishedDateTime: 2020-02-04T18:51:00Z
+    webUrl: "https://wgntv.com/2020/02/04/coalition-calls-for-chicago-to-end-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://wgntv.com/2020/02/04/coalition-calls-for-chicago-to-end-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/04/coalition-calls-for-chicago-to-end-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 59
+    images:
+      - url: "https://tribwgntv.files.wordpress.com/2020/02/capture-1.jpeg?quality=85&strip=all&w=1200"
+        width: 1200
+        height: 675
   - title: "Facing facts: Reject a blanket ban on face recognition"
     excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
     publishedDateTime: 2020-02-04T09:00:00Z
@@ -277,6 +292,6 @@ related:
       domain: fox5ny.com
     quality: 4
 
-secured: "Shx5nZHUKtrawcpk23lNW5MAczlby2mDpOEdtP4/0klZcBg5P4fMrOdI7ugmADGEmKqySfJrobzV0r7NpCvo0Z+3eVJ5XhDKU5wR14HakMmPEwRrzCM7z+A0wlKdFijd3gZygVfKzee5xOS3bZY5N93lNAfr5IjkjU6AtHqSaavtjbfldDjj/rpQN6CLDU5HbHGIAZNa5H2CQ8fw2FH3pTw42P9WZj2z3eqXe5EvKf/SQh5HhkaE4pZGVg4/3lkGELSvgimRnLJJ16rI+5rA0ZBqsqvZOmpLpvupy/lwKVd2L0wqO+RB6GJqkqKtShW4uPfKfcn3lsyri2i7BV5B7J97x9XBFa+noRYh1gFm2HkJoSJBaZho1tKIETow7/3M5KgkidzxRWKvsTZEPAQTI/zk5/HcsGc8UDOthSPe8ezZn+WMa3icAvGfeGKT3hC4Ol2jgksWgh/cQjU5VnrJt7ZMLzNpXluPvAvlON2YByA=;rFD/TX4ZmOUmZlPeGsvikA=="
+secured: "8XQTcNUCKF3q0HCO3bpL9o3LyVX4FNdzbJ7rxM7m8CWksaYo9dnN6SfkNr36m4Weeb+bjpQCFwRBJxXDspvKhYRSDz0DOHyYj/Ii1GMuVHHxylaojS0/5VvtIUhxr4q3vXTBlBCObD+PSvJOK/gi/R150PyZT/xasc9WnnBLGP1M0h4/hF3WQiXxdeqqZMyqd1MQR1B4hGkD9SAeZCk82z02LWBTGS9GLSYUsIhIfcQN3scZeDLzARI4jjnF9Ua+2qSfkRxJFiziAQy0T1v+gJoWBBMKsYvbCRWq76n0wBXUk1lUl3BpzbGDXKfgVsR9dorc7m1EW2cu1lZBH/GjFdRz5Qn82h4CkksVG2u5c8LI3QcIwY+28dBDW+9rLClx6eSfja0uuO2gIuROl5kj/ABgGoXShhyUdt4tP0yQxLt/QbzTM7CJf+KWoKLy8eaVidW3N6NCIEYi7zBYnyhkW+xdq1pwLDhlfUt3sUj0shg=;yKV8CiBX/VRzKDFP5c/ZMQ=="
 ---
 

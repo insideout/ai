@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Why 5G, AI and IoT combo will be so powerful for data analytics"
-excerpt: "Combining 5G, AI, and IoT will help companies collect more data, analyze it more quickly, make more accurate predictions, and rapidly take action. Thanks to its high bandwidth, low latency, and the ability to support higher end-point densities, 5G will allow companies to collect more data, analyze the data more quickly, make better predictions ..."
-publishedDateTime: 2020-02-03T21:57:00Z
-webUrl: "https://www.techrepublic.com/article/why-5g-ai-and-iot-combo-will-be-so-powerful-for-data-analytics/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/why-5g-ai-and-iot-combo-will-be-so-powerful-for-data-analytics/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-5g-ai-and-iot-combo-will-be-so-powerful-for-data-analytics/"
+excerpt: "Combining 5G, AI, and IoT will help companies collect more data, analyze it more quickly, make more accurate predictions, and rapidly take action. Foldable future: How Microsoft hopes to define a new hardware category with Surface Neo and Duo 10:37 Why Apple's iPhone 11 may not excite businesses, but expanded focus on health data should 5:35 ..."
+publishedDateTime: 2020-02-03T23:07:00Z
+webUrl: "https://www.techrepublic.com/videos/why-5g-ai-iot-combo-will-be-so-powerful-for-data-analytics/"
 type: article
-quality: 87
-heat: 107
+quality: 67
+heat: 77
 published: true
 
 provider:
@@ -23,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://tr4.cbsistatic.com/hub/i/r/2020/02/03/ec657806-e8cc-4b44-9b4e-2b9f1eb7583c/thumbnail/1200x675/c0eadaba26f5c428f78e4dc438118cea/20200131-menezes-bill.jpg"
-    width: 1200
-    height: 675
+  - url: "https://tr3.cbsistatic.com/hub/i/r/2020/02/03/ec657806-e8cc-4b44-9b4e-2b9f1eb7583c/thumbnail/770x578/ed6f957702ed22c3096322706482cafb/20200131-menezes-bill.jpg"
+    width: 770
+    height: 578
     title: "Why 5G, AI and IoT combo will be so powerful for data analytics"
 
 related:
@@ -44,20 +42,7 @@ related:
       - url: "https://images.livemint.com/img/2020/02/01/600x338/084cced672fc4c9298778d2c38c17dbb-084cced672fc4c9298778d2c38c17dbb-1_1575394011772_1580552380015.jpg"
         width: 600
         height: 338
-  - title: "Analytics, AI, and Cloud Power Modern Inventory Management"
-    excerpt: "Fortunately, companies can tap a variety of technologies and services to ensure that they—and their suppliers—can meet fluctuating customer demand. In particular, data analytics, AI, and cloud can help meet these demands. Collectively, these three technologies give companies visibility in two directions: the customer marketplace as well as ..."
-    publishedDateTime: 2020-02-03T19:22:00Z
-    webUrl: "https://www.cio.com/article/3518997/analytics-ai-and-cloud-power-modern-inventory-management.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/02/istock-670852562-100828832-large.3x2.jpg"
-        width: 1200
-        height: 800
 
-secured: "Qemmcmn77zJHMkSRu1UvleInlIZOcKHdtnea1WTWxRdG0CEJQXCLXzVRr8+nw6q5H/T/H67lCYvJWg25MH7z5BXKpOynHUHNsstTbcoyoBXq/T9h8GqOSWQC0u1cP1D0AeYLMiUCzg2cDHUlclBtl2mEewoEdC7eGrOJyh+IhrnGn6GxDvjlgA+oI+pj/R09ZduPHwB+R+2wuWt7uaSxVv/FZJJhE55YSOsAl5cbDOmcVNuJMTjZMpmIevrUI1Oomju/srv2mzGbztqOpuWoeTguY2MpbDOr4Yq02zHaIsv/PoPRwSax33rb8TwocDwqhO6wqohL3q/5H3f/kyjAScHEJo4wo9ab4RV6yXlqHtuOxho5foD3p254Zd0dfk/gw/M2EWpwnm6V4UE9erq1nzZuvDEk2nzgmqXS4M3jkFvWg6TfI5NSFAIs7QqcGiPMFm+117PLAmd7H+wyaa8hmTiK7nuE7amPstOLBcu/pzU=;JkhpKOxAoT9p/mbPJiphEw=="
+secured: "fbW59jMr7M+mpc47dV5ZgemYXNTXQzT556NHnVtYH+102V10y/6LA/B1mGTNl+p+vjYtjYZgeA6JnGV1G9k+VE0AWatBfPPdqpDYdGJvZiwqq+cdbX+UeBVzgv3e8aEhISw+g1RP896BFgts8tDkNnA0KSkjG2PWKYuocLIzM1LHI5C1UwMomkJvcTqRyY6dPVzKjBF4NjVf/Lw3QL/WUUtTtKR6COCEacx/7v5/+bCv9+klCFOAY2r5O0LR8Eh80T7j1UVreijzdQwFhJ+IR5ChkS7wwhcdJQn0MKXm6mzuWy4nKo0Y3t7Dun9y5sbO;dxLNhNe66KmLdMXAyxRnAw=="
 ---
 

@@ -25,6 +25,6 @@ images:
     height: 480
     title: "How Natural Language Processing Can Help With SEO"
 
-secured: "OgKyp6qvfnYcEl4DRT69wc7Rg02kJyy/lza3Ha///I0CymNaWyXpyiqjOFuT++Gm4vxaXs/aRrJi6BeAx+XR1SlhHH0IFPt/UboPYJk/y7eTetkOq5NTqWngU5KRb/W7o3kZ1pYPuwwxSIiqmG3/GxSc0TGAXyPtEAiOMTB4sQs0mbYAmQcbARdtS/lQAFJ/bol8lAeTSbzqNAAGj8D/sLviJ6VFVOu6q4+wMcBQ0hYs0d3nfPoMBoD05/2VF09LP+1WTF5tu3KtyOkVmqMDLoZ1/dczDJIqig34v1MBB4Mpq8rct+t5vVDOkspHyLLl;TVvNYhmA9NpBqPf5vQPewg=="
+secured: "AxictKC2yJaBicAs3bORp3LI9hr7H6MlX9vjlxlW08dz6jDln1VEJJP021T4c0PbnRhYSgAa+Ge1F5k+jYt5uxXLmFL2/4sTUzbyv9l4EUeA+jPofiX8EE7YkFEFmJRWct1pN+oM37rDZtgE8UnShNZrzuhfm25xgsvSBLoEZvd74M6pXOCiFj0oFUk0aX36H0cQNY5HqQaqlYOjFW5F7vGBuIpAX4qpO+RfgYs1/rzRnWGsplPntzEjktkrF/6sJJjbMdCvSEoq6ewwSxjPPLbX/6ysymdqBKXm6A0pjO7Q7f+bwWdn9b8nwCCcdId8;E+RZkYFWRnEeSFzWzakQtw=="
 ---
 

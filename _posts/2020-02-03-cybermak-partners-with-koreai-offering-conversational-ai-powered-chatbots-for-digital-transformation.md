@@ -1,7 +1,7 @@
 ---
 category: news
 title: "CyberMAK Partners With Kore.ai Offering Conversational AI-powered Chatbots for Digital Transformation"
-excerpt: "It combines natural language processing, machine learning, and AI into enterprise-wide collaboration and automation through conversational interfaces, thus supporting the growing mandate for digital transformation. Kore.ai's platform has a multi-pronged ..."
+excerpt: "It combines natural language processing, machine learning, and AI into enterprise-wide collaboration and automation through conversational interfaces, thus supporting the growing mandate for digital transformation. Kore.ai's platform has a multi-pronged NLP engine that supports 30+ channels, and makes websites and mobile app more human-like ..."
 publishedDateTime: 2020-02-03T04:04:00Z
 webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48750086-cybermak-partners-with-kore-ai-offering-conversational-ai-powered-chatbots-for-digital-transformation-008.htm"
 type: article
@@ -24,35 +24,16 @@ images:
     title: "CyberMAK Partners With Kore.ai Offering Conversational AI-powered Chatbots for Digital Transformation"
 
 related:
-  - title: "Camcon explores diesel and AI calibration for its digital valve train"
-    excerpt: "The company is working in three directions to push things forward: it's building plug and play valve train kits for a range of common single-cylinder research engines, it's opening up to the heavy-duty diesel (HDD) market, and it's assembling a machine learning team to start applying artificial intelligence to the complex task of calibrating ..."
-    publishedDateTime: 2020-02-04T04:31:00Z
-    webUrl: "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/"
-    ampWebUrl: "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true"
+  - title: "UST Global Announces Partnership With GreyOrange in Intelligent Robotics for Warehouse and Supply Chain Automation"
+    excerpt: "ALISO VIEJO, California, Feb. 3, 2020 /PRNewswire/ -- UST Global, leading digital transformation solutions company, announced a partnership with GreyOrange, a global software and mobile robotics provider that leverages artificial intelligence and machine learning to optimize fulfillment operations. GreyOrange is the only company that ..."
+    publishedDateTime: 2020-02-03T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ust-global-announces-partnership-with-greyorange-intelligent-robotics-/2020/02/03/9090903.htm"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 87
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/257812a/2147483647/strip/true/crop/1619x1080+0+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2Farchive%2Fcamcon-digital-iva-valve-system-4.jpg"
-        width: 1160
-        height: 774
-  - title: "Blue Prism Adds Conversational AI, Automated Machine Learning and Integration with Citrix to its Digital Workforce"
-    excerpt: "The latest capabilities on the DX include dealing with conversational AI (working with chatbots), adding automated machine learning as well as new integrations with Citrix. With just a few clicks users can drag and drop these new capabilities into Blue Prism's Digital Workforce—no coding required. \"Blue Prism's vision of providing a Digital ..."
-    publishedDateTime: 2020-01-29T13:06:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-adds-conversational-ai-automated-machine-learning-and-integration-with-citrix-to-its-digital-workforce-300994967.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/663826/Blue_Prism_Logo.jpg?p=facebook"
-        width: 1166
-        height: 610
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
 
-secured: "yPMl+bdLOpY2N1BPNm/ryY8v+GKZcH8na+zzz2SpB36tHgcWJRXAH0syd/cUlCZ10HVOmedbbIDubwnlvkuAyTguX/A8Qm0S7Ms9SZC6bhHVYaNuGY/O7tbXFlbq0sytaEgKLjGW/974x6CS9GUgv3IR4x7Tx/XTK/AHUcSeHK4qoKBf/wyT5kxM4vdw9xxdNNCE00lRLAUWj37zl0688UlqtOGVkPnNFfVZsvF0D3RUZwVAf1Y1sPa1zNRBU2aF6h7BMRfpNBqsFyvbIMf5SE4nvatbtOLJsSw+tRmiU7Y2GgkDfJsuGrxABhGf/tYXhJ9ypxPrYHNZGkX4tf3oi7rZTPXuZltw9w7+OLei+N9McWCQzPkMXha9uSJWAiXM9EPL6esotZxPFwDhNc2dVjP0lhuWURo21jhnPoWseejXkxf2YXWOxAa0KT/5iHpr1X+nT8dZrAB5K9htgTvJzztv/i9a4IuTTCl27QzaouE=;aOW27QAf7Co9H+TDIIOLpA=="
+secured: "ED0xSlaBQ/ODCh8bXjwDCg6/wTx5PiqvUnYGmemgDZNrCr524aHgAWkMswLstgycvN1UEubSMhuC66dl9LRSE///DOhP4FoAhhcel1nXRx0rhE1Cj79sfLL7mltB9jNXJM3n64ZeaTnu8jsCaZJ2/Ox59Lmxv2rR4EgO5ItoZcNm28pWnNRmOI/2WbZ5GCl3R1NulWlNYIJ/RwVM4rFu6tddnlsTtOLOGZ+NoNkQPulYJSXRap6Um8OOb121jkTC0sDd8IDCuzL1Oxzi6Wq45p0O6QEhQc6YpnbWg9gc/3sTsXCr6xmaXbuQQ9VtPi+4;BHS64k+/XHDqTMTXqig5jQ=="
 ---
 

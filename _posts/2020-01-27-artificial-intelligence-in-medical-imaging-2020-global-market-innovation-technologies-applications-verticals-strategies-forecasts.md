@@ -81,17 +81,6 @@ related:
       - url: "https://www.energymatters.com.au/wp-content/uploads/2020/01/678583375.jpg"
         width: 1000
         height: 667
-  - title: "Open banking to AutoML: Top trends driving technology innovation investments in 2020"
-    excerpt: "Machine Learning for All. In 2020, we believe there will be more efficient algorithms to automate Machine Learning (AutoML). This will spur the adoption of AutoML at the enterprise level, helping non-tech firms access the capabilities to build ML applications quickly. This democratisation of machine learning will also make AI experts and data ..."
-    publishedDateTime: 2020-01-30T12:37:00Z
-    webUrl: "https://www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156"
-    ampWebUrl: "https://www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 32
   - title: "LSU computer science, biology researchers finalists in IBM technology competition"
     excerpt: "The LSU team is a semifinalist for the IBM Watson AI XPRIZE, a $3 million cash prize to be used in research funding. In their research, they are using computer learning, or artificial intelligence, techniques and datasets of known chemical compounds to teach their program to pinpoint compounds that could be effective against specific bacteria."
     publishedDateTime: 2020-01-24T19:48:00Z

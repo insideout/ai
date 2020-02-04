@@ -56,19 +56,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
-    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
-    publishedDateTime: 2020-01-20T19:06:00Z
-    webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg"
-        width: 760
-        height: 428
   - title: "Google’s Sundar Pichai calls for regulation of artificial intelligence"
     excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
     publishedDateTime: 2020-01-21T14:26:00Z
@@ -205,28 +192,6 @@ related:
       - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
         width: 531
         height: 342
-  - title: "Google CEO calls for ‘balanced approach’ in regulating artificial intelligence"
-    excerpt: "Sundar Pichai’s comments come as lawmakers and governments consider limiting how artificial intelligence can be used. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this,” Pichai said, according to a transcript of his speech at a Brussels-based think tank."
-    publishedDateTime: 2020-01-21T01:58:00Z
-    webUrl: "https://www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html"
-    ampWebUrl: "https://www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 33
-  - title: "Top News In Payments: UK Regulators’ Data Violation Fines Top $126M; Google CEO Calls For AI Governance"
-    excerpt: "In today’s top payments news, U.K. regulators have levied $126 million in fines for data violations since mid-2018, Google CEO Sundar Pichai calls for international cooperation in artificial intelligence (AI) governance and U.K. open banking startup Tink raises €90 million in a funding round. UK Regulators’ Data Violations Fines Top $126 ..."
-    publishedDateTime: 2020-01-21T01:54:00Z
-    webUrl: "https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/"
-    ampWebUrl: "https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 21
   - title: "Google CEO calls for regulation of possible artificial intelligence"
     excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
     publishedDateTime: 2020-01-21T05:36:00Z
@@ -237,6 +202,6 @@ related:
       domain: lewistownsentinel.com
     quality: 17
 
-secured: "D2arhDSjwUg9dmLDn74FrO5Y6QfOTjKqX4ioBcfnuqmgiMXvAi14gPo5R4QmsO3dMKMupy7JFXnAUIQKvzvReUV6kXlZdB3amur3zUZ8FAhyFLP6nuX/UrC6wLaZzh9Gj15ae9L/yRH5w+wqwO8h78HUo7ZLVLjSdnkGxfOJMcM/PDITO2zUj4xXeQEqoQ6PqYjV57QW63pl95xL7q2IWRzWWQJVSVxLLt7pvSfKinUYYB2AJkBk8HuAL4lpwGOsc6Mf4Kf+QkAuAYDW+t0Q9F1WM9RWEtVtlyP6RB8M5kP172j5t7guQ1LjajVCuq0/;NfgQ7cxzMwpLBGS6i02Q2Q=="
+secured: "O0dIMfD+jY+CJdEQlEY8wIApFU68iFVy6JXnTZx8D3LAT2DILB8Qx0OZ9wuCk+gJfZLpgYHApgGXMAZDgcTMmnXTDhxKG3sUP3SsahKSf9JSqK48O6DtnwXoObDixciaPXOjDaIwuBHt6HrNBLUWLPK061vgVzeWK72EHMksMo1I8kAz2+3x/TYJZHNmCtHkyHfzXvxS3YSYgdBZOUIZoogPYHsZ+W66XO/UyGQWdhnGIRAzo5wztd25lF9QdwIwXtZOyyadZodOipQ2pgc8Tq1RyYgbbbxGzBkbHuHRABqyKMKbUrvJ+0LCZTO/eRet;4S0v7Y+YfdrUnn1hNMIDdQ=="
 ---
 

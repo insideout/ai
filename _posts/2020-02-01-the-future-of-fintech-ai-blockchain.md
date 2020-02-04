@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-01T03:19:00Z
 webUrl: "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -56,6 +56,19 @@ related:
       - url: "https://www.ft.com/assets/product/dynamic-barriers/markets.jpg"
         width: 619
         height: 376
+  - title: "Reckoon's Blockchain & AI Enabled Solution is Shaping the Future of the Retail Industry"
+    excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
+    publishedDateTime: 2020-02-04T17:39:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/reckoons-blockchain--ai-enabled-solution-is-shaping-the-future-of-the-retail-industry-300998820.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1086082/Reckoon_Global_WishBasket_Shopping_Protocol.jpg?p=facebook"
+        width: 1199
+        height: 628
   - title: "Stock Bots: The Future of Financial Trading?"
     excerpt: "Stock Bots: The Future of Financial Trading? Humans still program the algorithms and design their ... They cannot think or feel, and despite the hype around machine learning, it’s still contentious and complicated to describe them as intelligent. Like human traders, however, they make decisions, observe others making decisions, and adjust ..."
     publishedDateTime: 2020-01-29T15:56:00Z

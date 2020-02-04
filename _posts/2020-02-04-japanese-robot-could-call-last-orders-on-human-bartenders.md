@@ -2,11 +2,13 @@
 category: news
 title: "Japanese robot could call last orders on human bartenders"
 excerpt: "Japan’s first robot bartender has begun serving up drinks in a Tokyo pub in a test that could usher in a wave of automation in restaurants and shops struggling to hire staff in an aging society. The repurposed industrial robot serves drinks in is own corner of a Japanese pub operated by restaurant chain Yoronotaki."
-publishedDateTime: 2020-02-04T17:11:00Z
-webUrl: "https://af.reuters.com/article/worldNews/idAFKBN1ZY17S"
+publishedDateTime: 2020-02-04T11:02:00Z
+webUrl: "https://www.reuters.com/article/us-japan-robot-bar-idUSKBN1ZY17K"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZY17K"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZY17K"
 type: article
-quality: 69
-heat: 89
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,9 +24,9 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200204&t=2&i=1485683512&w=1200&r=LYNXMPEG130W9"
-    width: 1200
-    height: 833
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200204&t=2&i=1485686208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG130WA"
+    width: 737
+    height: 545
     title: "Japanese robot could call last orders on human bartenders"
 
 related:
@@ -59,6 +61,6 @@ related:
         width: 1200
         height: 800
 
-secured: "CmmErsLPuZHU6bV7ZQAQdg7VilRVGkhTZptFFL2e+MVE3LZsPW8iWBmDtVO0GNOEmhaB3UelpjPPr4QyflWcynv/HU6oXt0xiV5p07fgj9yhUhxu64meScEoJQI5aul25MpQm0tuFhv64DH64w58he5kIUKpUCpdAG0x7+Wz0C3ERpMunKPJZ2SHQVzfaX4ZDUhZjMWGFsHsT4sQeJZSpRjK8X2PFflDQU+GFvOld3NTFq+tjpC9pvH6JiN0n4Xppe98LfMTlhnnM35buFH/MbCjFeoBVX+AyG7GVcQr84pPb5TCF+SPe76Cph/Ls1Oi;e7mYOogNAuS8+jsFwhIpSw=="
+secured: "RZzP1/r8uyLAk6GpkpsNNyUttTyL9Tm4zt8MFtC4culdNFBeDt7J0gIF8VdfbxMd6FR7KCBsnXr/cQaE/R2HdaoexQuQZirXLz1TioxH6n7GBjdjMRjab7ZtOIUDtR3VsqI+EfbafNTJMlwp5ElQUxeNbz/RgLA96cvT0EyuQ6RDb05iWaUqFxBLzWGx+cb81whvqbGxNEc5zktw7UFbWS0VoUaEseHFWsGPcmnL9BbjfKGvaB+JAwIBXesVTjNf1NeAKo/pdBGw9aDrnlZCFBqQ/QN9rNhx6M3C3nPla9cl+PqmWDxJJHkkD67aUbAi;iQU7HT/gPNfe/S7+B4p6Kg=="
 ---
 

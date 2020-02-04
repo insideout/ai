@@ -42,18 +42,14 @@ related:
         width: 1200
         height: 630
   - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
-    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
-    publishedDateTime: 2020-01-22T11:03:00Z
-    webUrl: "https://www.techworld.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
+    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers customized reports on specific category. Artificial Intelligence uses various computer functions ..."
+    publishedDateTime: 2020-01-22T11:05:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
     type: article
     provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 32
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
+      name: ARN
+      domain: arnnet.com.au
+    quality: 12
   - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Set To See Huge Growth !!"
     excerpt: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market, By Component (Technology and Services), By Type (Rule-based, Statistical, Hybrid), By Application (Machine Translation, Automated Information Extraction and others), By Deployment Mode (Cloud and On-Premise), By Geographical Segments- Industry Trends and Forecast ..."
     publishedDateTime: 2020-01-23T20:07:00Z
@@ -73,6 +69,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "rFKQhgOgkSbdDxpL97D0TqFhW8MOTuV6C+nqoi92G0Y2YaPq3MLf/uMybF7xuHCBPLRRIS7t1rAo3kWiLB+dRG1P4DhSqL5t6AI/JiIhb3GLPnWBu7y24YBjgV0yziOwvvgyGRAbGbLDKviMSf8nBvXw++ilO0DWn6zaGayd4Sd++RsN9iriqAeNBHzSeWAJpL5P+ZQIM/bEPGVlEAac8vrphTUTQdXF84xDLqFcyndIQX4obbOwXBzvLC8InffX+cSm7uAH9Htvo9w1jHZkeAjcezd3yPMB2kHKq6z+o9fTPgPrkUZw5BKkpgIFhVzS;BaSDeBQo/wWvaN7JZ4EYig=="
+secured: "u4gmU4eLZ+idmJNcdKJ+rKQLAqYxgkdVQZXGbMC5YbwnElCzRNnrz6UeLaW6iways2Yc9VG331p0C/ND6zcjPZXxbdgM784b11HdqiJXTnZrqeMEmbg04uQNLssjp+y1mAH1CegyuYKg2p11dT2benXK0L2pRanZxgTJJy+VlmJEbgdxWv4BrY6PmQeerokuDLyq/BN86q+O315uV9M+ufue7FYxdLmAxvMxvVpVa/a7/rS2qulilOhv14aRRRR1vrgFlJljlO6S2ZO5NfN2quYCf5ayfLkn1UElNyCWm8GfV84ZSM7Ua8nYHeivOmoO;O7X+17s32pP2gODZAQpPiw=="
 ---
 

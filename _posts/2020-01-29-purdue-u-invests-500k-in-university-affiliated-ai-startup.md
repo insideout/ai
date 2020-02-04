@@ -38,6 +38,19 @@ related:
       - url: "https://www.financemagnates.com/wp-content/uploads/2016/01/m246689.jpeg-copy.jpg"
         width: 880
         height: 400
+  - title: "Henkel invests in machine learning software start-up Fero Labs"
+    excerpt: "Henkel is participating in the latest funding round of Fero Labs, a US-based start-up aiming to optimise industrial processes by using explainable machine learning. The investment is led by the company’s HenkelX Ventures unit, together with DIVC, a Munich-based B2B Tech investor. Henkel will support Fero Labs to grow its existing customer ..."
+    publishedDateTime: 2020-02-04T14:25:00Z
+    webUrl: "https://www.eppm.com/industry-news/henkel-invests-in-machine-learning-software-start-up-fero-la/"
+    type: article
+    provider:
+      name: EPPM
+      domain: eppm.com
+    quality: 39
+    images:
+      - url: "https://www.eppm.com/downloads/8390/download/henkle.png?cb=e29b89ee4151f41252c4cb03076f26b6&w=1200"
+        width: 1000
+        height: 544
   - title: "Infront Lab invests in AI-based video tracking and analytics startup Videocites"
     excerpt: "This investment is a continuation of Infront Lab’s work with some of the world’s most exciting technology start-ups which has provided huge benefits to our clients.” Videocites CEO Eyal Arad on the firm’s Video-AI search engine: “Videocites ..."
     publishedDateTime: 2020-01-28T17:58:00Z

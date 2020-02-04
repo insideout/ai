@@ -27,6 +27,6 @@ images:
     height: 900
     title: "Object Detection Techniques in Computer Vision"
 
-secured: "3IA4q/uLJbdvmbHE6nNfwvt5chCt9t2inOHIPCjScyVK8awKZo9/EWVV3+cY683m//Vfseuqls8WlVB4zjL7lZMPcZhxj+Y8Ilgy2XaQVQhiQ3QxL6uOA3RB9fH3i5Fb7bZb0B6WbTsqY98QrB2NsYLmpqFXqpQ24Dh/LWvUpW+uRBZhsILhlwANX8Oq7wwmfF9o7yVmp/2AuavA25Cq2ibyFdi3XIxmTWRScBe8BOIlJ0aj7gobFWAPWLzvMVWNVqHDT2wPRLffUDkHAijV4R8e1lNqP4GacIRov1fwHdqQImLNUotEgaHH/EZXaE08;lylJnsiAFRRvGijcEavvpQ=="
+secured: "sFHm7vH4pFgZdVemChp74rPwpBoOe3WWA27HSRX3RPg5FNoSPJAMkSi1cZz/ufvIL5ineVQbaOs7ROvJgTPDEIks7CSdjJqWr+pC48udst0JBzQq7y9iAlzR6Jw4JH053/VkTXX73yu476RlwzxJIat/zKoQA+7MIAxxjNrw9ekcell088Xv62+oFrdxlrj0YHMJpUSPZfO7bwt0TqXkO1EBCaN9PqYIalXkL8aXoNi/QusJohKJ6OZYY7urwSyE+gdJHMTfIatkqfsjC5Irj6ljfQwORclwr4DML+sDPShisMO5B7YoqVu8w+PKs1s2;mJtcLUidJN9okoNzlbduDQ=="
 ---
 

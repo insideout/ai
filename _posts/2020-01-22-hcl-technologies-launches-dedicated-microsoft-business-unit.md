@@ -34,19 +34,6 @@ related:
         width: 1000
         height: 581
   - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-    excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft ..."
-    publishedDateTime: 2020-01-21T13:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2020/01/21/9084223.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
-  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
     excerpt: "This will extend Microsoft’s offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
     publishedDateTime: 2020-01-22T04:43:00Z
     webUrl: "https://www.techworld.com.au/mediareleases/37785/hcl-technologies-launches-a-dedicated-microsoft/"

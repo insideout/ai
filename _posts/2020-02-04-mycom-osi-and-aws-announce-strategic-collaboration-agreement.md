@@ -24,6 +24,19 @@ images:
     title: "MYCOM OSI and AWS announce strategic collaboration agreement"
 
 related:
+  - title: "Deltapath's Noise Cancellation Gateway Helps Businesses Improve Communication and Collaboration Over Phone Calls and Fuels Artificial Intelligence"
+    excerpt: "/PRNewswire/ -- Deltapath, a Unified Communications company, specializing in revolutionizing the way organizations and people communicate, announced"
+    publishedDateTime: 2020-02-04T18:28:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/deltapaths-noise-cancellation-gateway-helps-businesses-improve-communication-and-collaboration-over-phone-calls-and-fuels-artificial-intelligence-300998885.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1029626/Deltapath_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
   - title: "MYCOM OSI Announces Strategic Collaboration Agreement with Amazon Web Services to deliver Carrier-grade Service Assurance with the Cloud"
     excerpt: "Running on AWS, MYCOM OSI’s Assurance Cloud™ embeds its award-winning Experience Assurance ... telco and IT networks by integrating real time assurance with closed loop automation and analytics driven by Artificial Intelligence (AI) and Machine Learning (ML). “When selecting a cloud provider, the thing that matters most is a cloud ..."
     publishedDateTime: 2020-02-04T09:09:00Z

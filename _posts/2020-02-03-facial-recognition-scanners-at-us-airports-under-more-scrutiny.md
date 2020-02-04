@@ -50,6 +50,19 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
         width: 960
         height: 640
+  - title: "DFRobot launches AI camera with facial recognition for classroom STEM education"
+    excerpt: "A new artificial intelligence-powered camera has been launched by DFRobot to bring facial biometrics, object recognition and tracking, and other applications to classrooms. DFRobot provides teaching tools for STEM education, and announced the launch of the camera at the recent Bett 2020 in London. The new HuskyLens is an AI vision sensor ..."
+    publishedDateTime: 2020-02-04T19:15:00Z
+    webUrl: "https://www.biometricupdate.com/202002/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 50
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
+        width: 660
+        height: 300
 
 secured: "r5c9WpWF/EMZg0YH4CvB8o8y6m1leF+SM+0xJmI1iTA3wYRqP/0HMXhF2tJeqbiZaWEPosyok0tXWwWJl53XKrRY0l6h/PR/3gPNyuPFzOh7y8xFz6U3P+PEcDxHZMRm22z89mEMUuySnShagsFptuavrvn3kWwQ033qe/hMgeyD1ttzYTtSUmcbi3nlGB98U6T66nIQB/Wx7CE0cIqWK/9cdf17IYv2Q24CZwgHwl63hi996L9iFhylm/MC+8OYq+pu4fr5PHswP+ll4SCPMVsEHO9mcuABY3SPkKn/h9ae8jxWK1N8/sNBVvVSrG7zYLugm7IpciLKUxF2WNEmSnUJ57pf0rKHA41EB++V/6+WXLeYrfcVsJqNFEDNQUBqi2ulG+3BLpL09IP4aJO2zIxQfM1WnKXemw0FOEmPKILpP9K+fYUDJnuayBXPyeCXtq1/ZX/a0YboPOA172g/X1ZovydxsboEb7OPeyfmhGQ=;ElCmxZfHgD8YGz8pwKIQWw=="
 ---

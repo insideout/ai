@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Facebook taught its AI to speak math"
-excerpt: "Facebook managed this by not treating the equation like a math problem but rather like a language problem. Specifically the research team approached the issue using neural machine translation (NMT). In short, they taught an AI to speak math. The result was a system capable of solving equations in a fraction of the time that algebra-based ..."
+excerpt: "Facebook managed this by not treating the equation like a math problem but rather like a language problem. Specifically the research team approached the issue using neural machine translation (NMT). In short, they taught an AI to speak math. The result was ..."
 publishedDateTime: 2020-01-14T16:00:00Z
 webUrl: "https://www.engadget.com/2020/01/14/facebook-taught-its-ai-to-speak-math/"
 ampWebUrl: "https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
@@ -29,6 +29,6 @@ images:
     height: 350
     title: "Facebook taught its AI to speak math"
 
-secured: "pdtJ+r9c88aT7DBOfKCaOdTCZFLxZRPUwZpDe/mlLLUWHJbIvO7M8AI0XQlhwEydFNSyuyhwSmcXCpldwJK9doh83Oa9qVGZjxpthZovw5e+i/9bzcPuBNThL02WKr2A34v68JLN/rBcKMChqSw3FP0YtEhXN5GecPSoLDGnQy8VIBVK77YveulmIWYUlMbHmipG8rfVDA7BRFFYaiB9sWw3aqTHs7AiU/hYQNwrJ4CL83ojkzZceCKf9RHv8UueuZxqgcKFL6goftDO3kDFaC/+eLUcc+vElP+1MpMRk8ixTutDWNBOvUC9liY7yBm1;AaPeDnHhOAa+IL2296WDoQ=="
+secured: "bSINbSmjALyosPI/BNZSovyjtElZvCBOO9wmJo/sSiEWKpeGYmHuULcXlkR77lcQ6u45qRlfJlDA50VYgTNiqp9IMpjRbsPsRokTOK9lSP/QGkDnjwcOmM6YyqnCJFIz6/J6MbDUDnmi8LST4BFvaBiTU1jyKvvJkQW1t7RAYYUqyJoA5/xmwDznxc5pWY/QayW0xqKAKk/4UpdtwgvnApWDteTFZTJ7E0c82hBbBvBf+0LFivOz1ofRBTGlybg/Vx9Z85rDzQX1t2z1Dkfc8pj75vG5/PG3pD8UwpBBmJbpUZUvrhZbZPowKbUEx24X;FmZPmcdohClw8y1VE8m1vw=="
 ---
 

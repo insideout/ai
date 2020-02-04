@@ -52,6 +52,19 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 54
+  - title: "DFRobot launches AI camera with facial recognition for classroom STEM education"
+    excerpt: "A new artificial intelligence-powered camera has been launched by DFRobot to bring facial biometrics, object recognition and tracking, and other applications to classrooms. DFRobot provides teaching tools for STEM education, and announced the launch of the camera at the recent Bett 2020 in London. The new HuskyLens is an AI vision sensor ..."
+    publishedDateTime: 2020-02-04T19:15:00Z
+    webUrl: "https://www.biometricupdate.com/202002/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 50
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
+        width: 660
+        height: 300
 
 secured: "3TIB4nZFP6Kedf8t0eVPKh6+nbYoJ0UBcgyFnynCY4tfmP1IdICOhnlnTzUfqUJrhepdnAl9xkIftWmlSZPTz/US+FMwFJ19IA0gMjJuvZ3Yj+NOCqdCZjcQbq91DDYg+ifpxiyNzs7iCumi6o+oeqkxh9YuuddFHSCe7eprZ00yQ6orcuZotX1aCCUMqDpKmiIUDMuAuM4zqQkqGUvfchOVyY0jLXZaOXwXhJJytVtbSyKRmmKBX736AnIds4cudNiqRljkgtcyNUezXrtePNWMhhO8Q5Ml0Cbgd0ogYNHz1eB6zGQ8i48m6GApCTzTvQgEfRyGVRHbTEFoWAg4dO3ghbTXwjoUZBd7yoWJFb3e33Uo272fkHQ4GoxgClQ2PZVQ2X+oiflQbMc/SxA+mNj1i1c1zmAHyXp8DBaV/3R5o7+/huKCXCIYOJ2on/NWt02NfQQD4O4BDZ4BaSR7CxydnKvcBG7G5vBK5wcgiyg=;Z+MdI5k+7wKcb5HNOmCjhw=="
 ---

@@ -172,21 +172,6 @@ related:
       - url: "https://www.dealerscope.com/thumb/?src=/wp-content/uploads/sites/5/2020/01/PopCom-MachinePhoto-3.jpg&w=750"
         width: 750
         height: 894
-  - title: "The facial recognition technology that could identify people through their social media profile"
-    excerpt: "New facial recognition technology created by a \"secretive\" company has been supplied to law enforcement agencies to help identify unknown people through their social media images, according to a report. Clearview AI co-founder Hoan Ton-That's invention has ripped billions of images from Facebook and other sites. The app allows people to take ..."
-    publishedDateTime: 2020-01-21T01:29:00Z
-    webUrl: "https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 47
-    images:
-      - url: "https://www.newshub.co.nz/home/world/2019/08/facebook-faces-class-action-suit-over-facial-recognition-tech/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1565288219416/GettyImages-1159763174-facial-recognition-mobile-phone-1120.jpg"
-        width: 768
-        height: 438
 
 secured: "ca9aZfm5EdW7ghaxqhmbLuP1HxrBXUXtiAmG/vr/scznlGdJf+2hcUXxxpWxjQsybJCM6ZbjS8e/Xr76PIl8mPsQVwiH2J7gZUGxRJfVmG9mhhSw9MIRXvvyfWdML0DFkOGYJCjJEOwN128cdpgPGvao5kEbkX0RWott7A4E+5glalZYtYbwg+XGcqKGN9wOtf61t+A8ywvloP2Ao5V1NnT7QwlVnH57p2O3Vd3UZyB9xFN/tLZ9TwUWM21FAPXZRA+vBvxli988UMz/0rH52RmmZSuJQuyOTrZtejG8AusvgqYcYZhKAoyQJQEVNJtdK1Wmv6WwGA4ZukCyH3WFxkekiErZW94yaMeoXw0REDoI5C/uMmtRwT7Zo7BFzj67lZhA8z3uxmmHKKX6VNILymg6y4OzOExD+Slr7gOwGZyB8GZKK62BcFJw/fl8QbDG8vI9vXxDG9JgMjpltI1wtsCWZpA2PRR7+S/I0Bcl5Iw=;oSPiK4SnGaYws7T+cX+KDQ=="
 ---

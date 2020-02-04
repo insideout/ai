@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-elect
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     height: 729
     title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
 
-related:
-  - title: "Baidu partners with Wind River for autonomous driving technology"
-    excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
-    publishedDateTime: 2020-01-08T11:12:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-    type: article
-    provider:
-      name: ET Auto.com
-      domain: indiatimes.com
-    quality: 39
-
-secured: "weYcfJhkqS+vxSv9aewX5Ci7av9aII3KP6X8Pb9fP0SAykWfXWZN49eXklEJSKYJO9fP5wmzRuPvNDBc8dfcgRdA2WW5mXG7jdRf3dbApe4MJZi9Y3XWYVOgZanVa9JfFvzwC3IxbaTvoDOMn+I5Vg0UvyWZ3/PJRd53BS+tomF0zZBwEgkyJFPB4KSJ3UbXK9po15qlBQi3dRB3r19SMlRpSvG5gEpRpjIOgN/mo68ky8bVlrrA0jclTg2qSr9dwjtr2SpaJYd9z0OFcq9vrT68Keosh35hQ2Zyxzr76ffDa0yjDEsXMayzpPoUJzbM;LDDhXBE84USrX/70NoaVyg=="
+secured: "Rmw/R3qzTGA4+b8iHqkUzU5Fe/s1dRvlqLLkZGCUG9UGPmvPhJ/gWfyNJMjstHwdQfKBYoDv/mdUr7Lj9flhZvlp14WXxn/rXH0LKNa2noa/dmBepFD6M8ZbaJBSrf8vJ7ex/ZH/cOWKohlm0nWiJWZ6yLk3RjkKJQf8FTmRrXzh2G7MyYDDB5I28luO4olzJOlRZHvYPY1Ojy+I3rVH0Z2BbooY68WxeJlsqnC+QUNHKcyLMdGSj7L2JcbrHzhmXG9Whk0bvoFt3wH74pdtOW/VOOXROlqVhZtJXEsPOK9Z/UYvAqq+SDYtyssrHs8I;VoCqA//rplfd2xn4ASj2Mg=="
 ---
 

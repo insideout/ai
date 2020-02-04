@@ -170,21 +170,6 @@ related:
       - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/01/932/470/facial-recognition-technology.jpg?ve=1&tl=1"
         width: 932
         height: 470
-  - title: "The facial recognition technology that could identify people through their social media profile"
-    excerpt: "New facial recognition technology created by a \"secretive\" company has been supplied to law enforcement agencies to help identify unknown people through their social media images, according to a report. Clearview AI co-founder Hoan Ton-That's invention has ripped billions of images from Facebook and other sites. The app allows people to take ..."
-    publishedDateTime: 2020-01-21T01:29:00Z
-    webUrl: "https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 47
-    images:
-      - url: "https://www.newshub.co.nz/home/world/2019/08/facebook-faces-class-action-suit-over-facial-recognition-tech/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1565288219416/GettyImages-1159763174-facial-recognition-mobile-phone-1120.jpg"
-        width: 768
-        height: 438
 
 secured: "Lr3XjKYtBXVqqtQlNYrAnX76hBOyOE5yh+kt6Dyy4WLaSke7ln+2JH1olrFseIdZPYhIraBhACALQ0kb4VSiMbzaMASRJBglGRSVtwh0FnXHXymUemMRIzW6sspL0BYsLcIH4vjvg2Nh2VQ3H8Eg6Jou5uRapjc4scZ1YsULAmz3VqmoJ4aN54xDbJFFb/cWhvBs/ede1EYgNwCyyADlIVjpUuvCGVWxbcg3F4eYWAGnAng3ofsrgWh6w8no3mtnsYNldGSWszDNOYUU+RzezPIuO1frhNzMz3c9kAknMlF7vYneBppCX5N+1+V8dw+w;d8rB7h7IB6p7YgclqL8LbQ=="
 ---

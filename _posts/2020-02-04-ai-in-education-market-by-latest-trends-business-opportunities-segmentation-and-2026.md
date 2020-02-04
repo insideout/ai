@@ -34,6 +34,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027"
+    excerpt: "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,"
+    publishedDateTime: 2020-02-04T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "AI Software Market In Legal Industry Market Benefits, Technology Advancement and Future Scope Till 2024"
     excerpt: "The AI Software Market In Legal Industry Market covers important aspects of this market concerning fundamental parameters. The report explains outline of the business range, concentrating on the overall industry,"
     publishedDateTime: 2020-02-04T07:12:00Z

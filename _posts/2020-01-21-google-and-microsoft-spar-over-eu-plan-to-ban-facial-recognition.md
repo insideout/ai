@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 189
 published: true
 
 provider:
@@ -101,21 +101,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "Alphabet CEO Sides With EU on Facial-Recognition Tech Moratorium, But Microsoft Isn't Convinced"
-    excerpt: "Alphabet and Google CEO Sundar Pichai recently came out in support of a European Union proposal for instating a temporary ban on facial-recognition technology until officials beef up privacy regulations. “I think it is important that governments and regulations tackle it sooner rather than later and give a framework for it,” he said Monday ..."
-    publishedDateTime: 2020-01-21T01:35:00Z
-    webUrl: "https://gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655"
-    ampWebUrl: "https://gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 62
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--CZyG925X--/c_scale,f_auto,fl_progressive,q_80,w_800/rkvdxghinp3toasyjnon.jpg"
-        width: 800
-        height: 533
   - title: "Google backs EU’s proposed facial recognition ban; Microsoft disagrees"
     excerpt: "A ban is like “using a meat cleaver instead of a scalpel to solve potential problems”, he said. Smith also focussed on the benefits of facial recognition technology, citing the example of its use in finding missing children. It is the government’s responsibility to understand how technology is being used, identifying problem areas before ..."
     publishedDateTime: 2020-01-21T13:41:00Z
@@ -146,17 +131,6 @@ related:
       - url: "https://www.xda-developers.com/files/2020/01/IMG20200117113419-300x225.jpg"
         width: 300
         height: 225
-  - title: "Alphabet’s Sundar Pichai backs proposed EU facial recognition ban, Microsoft’s Brad Smith disagrees"
-    excerpt: "Alphabet CEO Pichai said facial recognition technology could be used for nefarious purposes But Microsoft President Smith said a ban was akin to using a meat cleaver instead of a scalpel to solve potential problems While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium ..."
-    publishedDateTime: 2020-01-21T02:32:00Z
-    webUrl: "https://www.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition"
-    ampWebUrl: "https://amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 40
   - title: "It's too late to ban face recognition – here's what we need instead"
     excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
     publishedDateTime: 2020-01-23T11:43:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/tech/facial-recognition-machines-airports-un
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny.amp"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -56,6 +56,19 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 54
+  - title: "DFRobot launches AI camera with facial recognition for classroom STEM education"
+    excerpt: "A new artificial intelligence-powered camera has been launched by DFRobot to bring facial biometrics, object recognition and tracking, and other applications to classrooms. DFRobot provides teaching tools for STEM education, and announced the launch of the camera at the recent Bett 2020 in London. The new HuskyLens is an AI vision sensor ..."
+    publishedDateTime: 2020-02-04T19:15:00Z
+    webUrl: "https://www.biometricupdate.com/202002/dfrobot-launches-ai-camera-with-facial-recognition-for-classroom-stem-education"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 50
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
+        width: 660
+        height: 300
 
 secured: "xb1htqT4BnN9uYro6T0YXxCL0UErqh5uNgdYX26iUVWhucOOqK27uI//UbiImYO075FgTPMw5P8fCZ/dLoTPX3TWKLGRNuN6ZBcAEmnKjIwTbMMzMiGD5duDiUJ4LEpPR/DVv+Mwfn83hZA38o5e4+VIdHNGadzgtuplWABYML28KXkHQrNyuHA1+hWPgWkHhlZaW0qG6UA6A80dIj/LrLxken2g1Kdr1NJq1jOxnnZv6//aUFLVcpWnQYg//LwYpgdYbWBh1EQW1IcieJ7QFgW5KNMtbLESpR8xu6uHBVNYItizAvAl1SEkP/M5WMnc8zDUambZEoa6IRbN7IuSTGN/zKRBpWxEZaitGGcEVCATsG6GqgBpmncv1c8WgWbVh1Zs6RfkdRSCEMjyPpNNmbb3aXfD8RtYC2rOsmN6BoyfymROQR4U0UyPClvYwO79jJjsFZZWuKY1+K4Ds+tBDIeLvh80rsdlZKLidFpfrNc=;iQOgev5R/BMdrVmellvz3A=="
 ---

@@ -31,6 +31,19 @@ related:
       - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
         width: 512
         height: 512
+  - title: "Deltapath's Noise Cancellation Gateway Helps Businesses Improve Communication and Collaboration Over Phone Calls and Fuels Artificial Intelligence"
+    excerpt: "/PRNewswire/ -- Deltapath, a Unified Communications company, specializing in revolutionizing the way organizations and people communicate, announced"
+    publishedDateTime: 2020-02-04T18:28:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/deltapaths-noise-cancellation-gateway-helps-businesses-improve-communication-and-collaboration-over-phone-calls-and-fuels-artificial-intelligence-300998885.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1029626/Deltapath_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
 
 secured: "Xmo9UYM+YkApnvXvh6NFoqAYSn/SEjxHchAaXQ+7L5UNIqK9Jv5rsCt8pLZcl1X8mJlN5OncEpMf/MeDSFCyydbmuaIxI3pyescS3m0cpyPjgrp/E4Szobx7Ba3oLgl3vZSUa+ieiICZTC4SEL+OpAyCK/lmDB6T3W82lovxo/y3bqhOCTuNbrWORKgnwmUA1le3XYAI3+0V8SfnarWZcg/O33EgmKnUcJfl+IsyjC5qvAqZ1cOZRzg/Qj1aX86X8/9N9XySjZxiY1yTE0ScIQh5IBs9VA6R3HgOkqhLMJ6Smtyyy+JJuOyKWOENq//Y;hUBtCcgPnsqUSc585ixk2w=="
 ---

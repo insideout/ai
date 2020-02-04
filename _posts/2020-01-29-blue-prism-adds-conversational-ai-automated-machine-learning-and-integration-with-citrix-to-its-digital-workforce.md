@@ -39,19 +39,6 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/257812a/2147483647/strip/true/crop/1619x1080+0+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2Farchive%2Fcamcon-digital-iva-valve-system-4.jpg"
         width: 1160
         height: 774
-  - title: "CyberMAK Partners With Kore.ai Offering Conversational AI-powered Chatbots for Digital Transformation"
-    excerpt: "It combines natural language processing, machine learning, and AI into enterprise-wide collaboration and automation through conversational interfaces, thus supporting the growing mandate for digital transformation. Kore.ai's platform has a multi-pronged ..."
-    publishedDateTime: 2020-02-03T04:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48750086-cybermak-partners-with-kore-ai-offering-conversational-ai-powered-chatbots-for-digital-transformation-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1085089/CyberMAK_Kore_AI_Chatbots.jpg"
-        width: 400
-        height: 225
 
 secured: "g20tStuzqEenT0JYj69N9cRzMkTWz0mJHbDG10Gd9xF+Tlq8eXj+4YV/fsiGhXidJ61pDBDkpw0EkXzLG4HaudHA96JkApx5t5IOSO8jQdFFrYTecpMNLXQG+BphkVGJMsRW24mRltXMIxSL0CfdHSTokk+gK2Ey4stR2w3a6Z3W7MP0N02ok63PotOIEdUjfNS2QNOxE1l+IAkHrfsmnWxqtJp+r4xk9WNe9/Xq3NcAmBM/EFiW3UcEYCvblf0VlHzvPeJViQw5znXVRmGhUDRfTEk8kMGdQtiIwX0VJsNuQgDzBaVgGXVd64ch2HzqBzyEDIdJcOqTMdChFcsqEraOYb6qIALBfpfatXqyuoddQo/pnh53ZvYVJXpvCPe1g/V/79pK4c+cWS9U0PsmPONcUYo94QiMGVv1K+WwJGPF2s3O3bapeksvACB2zgMMAHG9i6SMMMXtfuAAbgZ82PPkwYsd3goo4shf6rO7BvU=;mPpi+pNmBL8ifd+ot+sJng=="
 ---

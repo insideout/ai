@@ -23,6 +23,19 @@ images:
     title: "Tachyum Announces its Reference Design will be Used in a 2021 AI/HPC Supercomputer"
 
 related:
+  - title: "Tachyum Processor to power 2021 AI/HPC Supercomputer"
+    excerpt: "This reference design will provide customers, partners, OEMs and Original Design Manufacturers (ODMs) a proven blueprint for building and deploying ultra-high performance Exascale AI/HPC supercomputers and datacenters in 2021. We are excited that customers are interested in our technology. There is never a more exciting time for a startup than ..."
+    publishedDateTime: 2020-02-04T18:30:00Z
+    webUrl: "https://insidehpc.com/2020/02/tachyum-processor-to-power-2021-ai-hpc-supercomputer/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 37
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2017/02/tachyum2.jpg"
+        width: 300
+        height: 300
   - title: "Tachyum's Reference Design Will Be Used In a 2021 AI/HPC Supercomputer"
     excerpt: "since the idle servers powered up to handle AI workloads are already on the books as capital equipment \"We are excited that customers re interested in our technology. There is never a more exciting time for a startup than THE FIRST CUSTOMER, especially one who wants to deploy an AI/HPC supercomputer in 2021. The preparations at the ..."
     publishedDateTime: 2020-02-04T13:14:00Z

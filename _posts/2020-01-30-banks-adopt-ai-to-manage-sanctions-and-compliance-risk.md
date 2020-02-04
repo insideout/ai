@@ -32,15 +32,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2020/01/Artificial-Intelligence.png"
         width: 1200
         height: 628
-  - title: "NSF-Simons Research Collaborations on the Mathematical and Scientific Foundations of Deep Learning (MoDL)"
-    excerpt: "Research activities will be focused on explicit topics involving some of the most challenging questions in the general area of Mathematical and Scientific Foundations of Deep Learning. Each collaboration will conduct training through research involvement of recent doctoral degree recipients, graduate students, and/or undergraduate students from ..."
-    publishedDateTime: 2020-01-29T22:45:00Z
-    webUrl: "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505750&org=NSF&sel_org=NSF&from=fund"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 2
 
 secured: "9zTjf+NYNl+czexo/dOy+ocofDXLuyqfomE3Tguex8IBmp2AKS6GG7lyFbaGeaiwnypfCyafKoKeeUqokEL2OmRMpT63DMKA6ROag/+Me0qtQsGdiPaOcb+i3PN/gSf1pJsaQ1x/EVp9pFcXElj9sTSXwci3EsXpwY1ARLNm0uPPtVcM3ra4qwh+qzQ2BcnM5dhbg8fiNWG45tuMcdwaD+UBzmcqUmDP5qjZXHUEwFsNtvmdlK+aZl/UvdBGZW0SHyhkAJN+ddaR5ZIMfaEHU4LD8bIvHCRLteqy2lrHDbGQmbzA4gAWuZRcCfvv8rqdck0IsoYvjWmLdRWIxPX1sJvbYFkNDPBgIPKzgnZo6ImhXfTtkFYQNBp4gJKryjU0tLg8S2MARc1NM+Ti3R1BYdWW3WnwEkSTjt3v6rU7zagweNO9pDu5Y3ts/EqASOw9bzc2PGir1goQ8P8GlG/UJg9Vb6I4n9TA1Ti89O7hGNo=;441sdTpDIZBxjfFLXSPE+Q=="
 ---

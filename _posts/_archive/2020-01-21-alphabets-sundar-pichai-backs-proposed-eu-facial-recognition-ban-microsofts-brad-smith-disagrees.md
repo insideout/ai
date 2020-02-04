@@ -1,19 +1,19 @@
 ---
 category: news
-title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
-excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
-publishedDateTime: 2020-01-21T03:18:00Z
-webUrl: "https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/"
-ampWebUrl: "https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/"
-cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/"
+title: "Alphabet’s Sundar Pichai backs proposed EU facial recognition ban, Microsoft’s Brad Smith disagrees"
+excerpt: "Alphabet CEO Pichai said facial recognition technology could be used for nefarious purposes But Microsoft President Smith said a ban was akin to using a meat cleaver instead of a scalpel to solve potential problems While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium ..."
+publishedDateTime: 2020-01-21T02:32:00Z
+webUrl: "https://www.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition"
+ampWebUrl: "https://amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition"
 type: article
-quality: 36
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: The Financial Express
-  domain: financialexpress.com
+  name: South China Morning Post
+  domain: scmp.com
 
 topics:
   - AI
@@ -106,21 +106,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "Alphabet CEO Sides With EU on Facial-Recognition Tech Moratorium, But Microsoft Isn't Convinced"
-    excerpt: "Alphabet and Google CEO Sundar Pichai recently came out in support of a European Union proposal for instating a temporary ban on facial-recognition technology until officials beef up privacy regulations. “I think it is important that governments and regulations tackle it sooner rather than later and give a framework for it,” he said Monday ..."
-    publishedDateTime: 2020-01-21T01:35:00Z
-    webUrl: "https://gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655"
-    ampWebUrl: "https://gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 62
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--CZyG925X--/c_scale,f_auto,fl_progressive,q_80,w_800/rkvdxghinp3toasyjnon.jpg"
-        width: 800
-        height: 533
   - title: "Google backs EU’s proposed facial recognition ban; Microsoft disagrees"
     excerpt: "A ban is like “using a meat cleaver instead of a scalpel to solve potential problems”, he said. Smith also focussed on the benefits of facial recognition technology, citing the example of its use in finding missing children. It is the government’s responsibility to understand how technology is being used, identifying problem areas before ..."
     publishedDateTime: 2020-01-21T13:41:00Z
@@ -151,17 +136,6 @@ related:
       - url: "https://www.xda-developers.com/files/2020/01/IMG20200117113419-300x225.jpg"
         width: 300
         height: 225
-  - title: "Alphabet’s Sundar Pichai backs proposed EU facial recognition ban, Microsoft’s Brad Smith disagrees"
-    excerpt: "Alphabet CEO Pichai said facial recognition technology could be used for nefarious purposes But Microsoft President Smith said a ban was akin to using a meat cleaver instead of a scalpel to solve potential problems While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium ..."
-    publishedDateTime: 2020-01-21T02:32:00Z
-    webUrl: "https://www.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition"
-    ampWebUrl: "https://amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 40
   - title: "It's too late to ban face recognition – here's what we need instead"
     excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
     publishedDateTime: 2020-01-23T11:43:00Z
@@ -173,6 +147,17 @@ related:
       name: New Scientist
       domain: newscientist.com
     quality: 39
+  - title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
+    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
+    publishedDateTime: 2020-01-21T03:18:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 36
   - title: "Alphabet CEO Sundar Pichai backs temporary ban on facial-recognition"
     excerpt: "BRUSSELS: The EU's proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban ..."
     publishedDateTime: 2020-01-21T04:43:00Z
@@ -183,6 +168,6 @@ related:
       domain: livemint.com
     quality: 19
 
-secured: "vK+vMrBwhqGLf9XQjPRxsMOfya7gohvVQo9UY5PgvsApcn8l3ry+4uDqcEbV1OPlnd0A8/WTNFKu0qYby8CzyXI0WBcPiOyVHBClA5yc/CRs4nONWbWjlfIhBLURclHmt0jjJSl6opKifXnYhrfb+zDjywIb/ksT6NGChb2KOqJtA5xfSKlJH2r8OMSN8leAy1P2GOKHT/VtYym6DyLJ/uzsgMF4fJpm82N+i29CaCg6PfgVLxw/L2qHDLGDE1g0nhv7IqMR7BpWAtF7n6AF1HxHjHLbezvlbEbHDfL0atdvuq/GQOGmYQquewpIrwY/O2+zHLkXjr6ez+zxG+G3Q20DCj90+7gCNEKN9FEg7vk4l7/l2TF4RuzOY2ob6uxO5TzOYpqF6rax8aTD/hp+8c3msTynViN12DsM1w6qcSjvpY39mP9dVdRa4vWRete5lcKpN7sQP+5Frd9WZsxNrQ==;eLTGLveHcAt5Phy6GKnpxw=="
+secured: "lke2BCj8SQo8wypBlytjHO4kIfqSTASTYkMG7QSJPLXFELQlbtXDuVuK/qkdqVDNyFCcpoU2p9eJdIWy5b+FIuzm6BEwMcWR52KFYGKWrGO48ds7WYJV3LjDd2aJNlf52HeAspVnYmDYNcXONs2r5GrIfksg7K+eNncYtX0FVLJmkyHLtFPs7J18/Ove/n1L84J1w+mg5duZgpgYGRwZomkGmX+pQr2Dt0AyZ1RVLGLQzSXDjioDZNnIlPl2uKewdZ0qQVf0vlaDvMp0PfeNl4yusGQvpXx3AiBEuTEj272rs86JHUurzoaIqj62LCqJIkBoT2vBi5OGKfdci0iB1jPo3I5YJ/r4cMwQOV5SfGdMMRlMTpTKCyjapSyd4EehCXHEcH6fKn7n/UX/0bWq0paxgwedr2vD2MsR2rxn+udyn55JzhZ7xtxQPmqslBKPPIuhJSOAgFlwfdKKn4hioQ==;dxf/Z5/uojMVwB90kyUVCA=="
 ---
 

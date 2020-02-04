@@ -20,22 +20,22 @@ topics:
   - AI in Autos
 
 related:
-  - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
-    excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical ..."
-    publishedDateTime: 2020-01-07T17:40:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
+  - title: "Nvidia is partnering with Uber, Volkswagen and Baidu on driverless cars"
+    excerpt: "Nvidia has partnered with Uber, Volkswagen and China's Baidu in driverless cars Uber will use Nvidia's graphics chips for the artificial intelligence computing system in its fleet of self-driving ..."
+    publishedDateTime: 2020-01-08T15:55:00Z
+    webUrl: "https://www.cnbc.com/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg"
-        width: 1200
-        height: 729
+      - url: "https://image.cnbcfm.com/api/v1/image/104932964-GettyImages-609845726.jpg?v=1532563704"
+        width: 1024
+        height: 601
 
-secured: "OcK+IxlZc/euXGgvsjSDhU/7zprBwlGDcV0JeL7q9hvRkFTqc9jarzJO3WtJ0zu4E/kjgC9bEdlmZawhBBhDUuDwqpn1GOmlUJeCR/BRb9co4oLepK6Ed45XsVvOvhQd4rdNNOiRARJv2tPDpWFjsF+6V2vWuEwPMwoqJR9beiFtHYeXfmiGMfCriIiKSr8BDeiI5rXocvdnrLGbFFLHswIJq5Z0Xhyq9nvSHGwOfVSUwVz1tJ9HX19kqVRWJ+U6CY8KcPMUsbuI9eD4hcnHk2qX5gD+xjIOYxicX8bhHIxHc+r1ZVIZwrnUa+jAgxvd;XrXoqy3TjTX5c8cJmlQCMw=="
+secured: "QVllN49uTNWfbP10K3zkcEfyw3a/XGlSkdiKVyFhOdVQMyPdalUE7q1rOtDoo7g6Tc/Y9xbptxUcrk+igiI8e/+X+8z/RGnY1TWzTYB3bouygBk8lKeYcO0sj3ZrlqZN1xlOFjr9uiYzdatRnpoN8wyrqcA6xCDISXkYUgbM1p/A3kNSA5y2dA0AYafX8ZbGsCiW9OlgfKSaV5b6OF1WLu545VLkqKb0H/RJheVTU2hitaP/LGlu+AOAYaF3l+nizIqyJ1n2y7lzq7427vAJGReJ09S/5tONtRlyMtboXXhN5txN0OoGQSuoLBh8C+52;JtBP6wzOY6Hhwf3+KZj0rw=="
 ---
 
