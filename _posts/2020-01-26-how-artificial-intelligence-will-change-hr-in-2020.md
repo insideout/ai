@@ -19,6 +19,19 @@ topics:
   - AI
 
 related:
+  - title: "How Artificial Intelligence Will Change Medicine"
+    excerpt: "Using powerful computers, scientists have scrutinized this bounty with some fine results, but it has become clear that we can learn much more with an assist from artificial intelligence. Over the next decade deep-learning neural networks will likely transform how we look for patterns in data and how research is conducted and applied to human ..."
+    publishedDateTime: 2020-02-01T19:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-artificial-intelligence-will-change-medicine/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 139
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/12E666E8-C229-4FDB-A12A437CAD23F0E0.jpg"
+        width: 790
+        height: 497
   - title: "How Artificial Intelligence will change media"
     excerpt: "For More of This and Other Stories, Grab Your Copy of the Standard Newspaper. Subscribe Now »"
     publishedDateTime: 2020-02-01T15:03:00Z
@@ -34,32 +47,28 @@ related:
       - url: "https://www.standardmedia.co.ke/images/saturday/how_artificial_intel5e3593e117b93.jpg"
         width: 800
         height: 500
-  - title: "How Artificial Intelligence Will Change Medicine"
-    excerpt: "Using powerful computers, scientists have scrutinized this bounty with some fine results, but it has become clear that we can learn much more with an assist from artificial intelligence. Over the next decade deep-learning neural networks will likely transform how we look for patterns in data and how research is conducted and applied to human ..."
-    publishedDateTime: 2020-02-01T19:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/how-artificial-intelligence-will-change-medicine/"
+  - title: "How AI Will Change The Way We Work In 2020"
+    excerpt: "If there is one technology that has become the buzzword of this decade, it would be artificial intelligence (AI). In the beginning of 2010s, consumer natural-language processing (NLP) allowed us to talk to our phones and control smart home appliances reliably. At the time, a lot of people expected NLP to explode in other domains, but it never ..."
+    publishedDateTime: 2020-01-27T03:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/345535"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
+  - title: "How Augmented Intelligence Will Change the Face of AI Adoption in 2020?"
+    excerpt: "When it comes to leadership, the new challenge for CIOs adopting AI technologies comes down to one thing: ethics. It has now become paramount that CIOs know what uses of AI could cause problems – whether bad, biased or unethical – and what they can do to make sure their business remains on the right side. In 2020, the industry will see CIOs ..."
+    publishedDateTime: 2020-01-30T06:40:00Z
+    webUrl: "https://www.analyticsinsight.net/augmented-intelligence-will-change-face-ai-adoption-2020/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
     quality: 39
     images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/12E666E8-C229-4FDB-A12A437CAD23F0E0.jpg"
-        width: 790
-        height: 497
-  - title: "How Artificial Intelligence Is Changing Social Media Marketing"
-    excerpt: "Every time you open Instagram, there are some new ads for you. All these ads relate to what you search for. You move to the explore section and can find thousands of related posts that interest you. But, how is that possible?"
-    publishedDateTime: 2020-01-27T15:02:00Z
-    webUrl: "https://businesscomputingworld.co.uk/t/how-artificial-intelligence-is-changing-social-media-marketing/245726"
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 37
-    images:
-      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
-        width: 512
-        height: 512
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/augin.jpg"
+        width: 960
+        height: 640
 
 secured: "s2qnMesoob4NKc9PsxuZBEx4h4aRSTUYB1h7RMKDZrORZVmqLABxCra/QelFPYdv6bl+4hA/sHFicC50kaCpCdh1y93fu5juIE8w9Pu38jRWPiNCD9W+Js14UqJDHyqdayuJxQTfmX210WxIY42BNbb8LD/DWy8JXPnXZTvTKvDJotsCNoE4gTWBIQxpoKxEhZVDhyZwHWhVmlWz7l9nGB15W+qAdg+4cULGXHOqiMTZkrXZTaHx4AT6Yz3U4UThJo8lrSWfH3311eIdbomBlaYvzMl7gGrUNgxdq6wmmRpZAov0ia7wGxPikAvYVBkVszu+/kByPYAQX+Ve+i/y6GLsZSzzu/6ZhCO6xeD/BBGjiHAgSCRtEqmTPB/87ZOYDQZV+IXxNpbJEVfiB3KFApYizikgOh5IVn0Y+SdkKbPLWhojrm0PDaXuXUIwuQRfkcdgukjDx19HLXKWAl7+btj+O9fdx3dSjA9oeE43DwQ=;HcXaoOyLpMutiMKP/UAXXw=="
 ---

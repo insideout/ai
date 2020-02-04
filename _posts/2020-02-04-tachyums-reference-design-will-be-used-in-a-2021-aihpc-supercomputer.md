@@ -22,6 +22,21 @@ images:
     height: 335
     title: "Tachyum's Reference Design Will Be Used In a 2021 AI/HPC Supercomputer"
 
+related:
+  - title: "Tachyum Announces its Reference Design will be Used in a 2021 AI/HPC Supercomputer"
+    excerpt: "SANTA CLARA, Calif., Feb. 4, 2020 — Semiconductor company Tachyum Inc. announced today that its Prodigy Processor AI/HPC Reference Design will be used in a supercomputer which will be deployed in 2021. This reference design will provide customers, partners, OEMs and Original Design Manufacturers (ODMs) a proven blueprint for building and ..."
+    publishedDateTime: 2020-02-04T15:43:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/tachyum-announces-its-reference-design-will-be-used-in-a-2021-ai-hpc-supercomputer/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 31
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Fujitsu-FX1000-website_780x-405x228.jpg"
+        width: 405
+        height: 228
+
 secured: "TvCy78T9KZcz3QWjvTTquTukJEi51v0EljD82pRkflk/sn6DIXW4tS7SsR1IdFzHIKMuXGWiR144uHe6cDoggeqOefKblqudP2XtnW2YXvLSBECgKZ+JX/okV9inb0f73tSRB6LH7uOkGUZjmfFz/GJn4lg95eJQHAnYztwSOLWRMu9pYaG7ns4xcuX0rqHaojHI5r25QHYDPD79wVAWoQ5d8tw46D+jV2D8WnwaAotU6F35S2AKHw9WJliU++Kp+UoxKmLNTqs5j2GWNJKYVviGneq2eqp1WdGMJzcJCzHEwKD6Taainv7QGBD6ewh9;gC/KqY/o3qJgDY4MdiZfKA=="
 ---
 

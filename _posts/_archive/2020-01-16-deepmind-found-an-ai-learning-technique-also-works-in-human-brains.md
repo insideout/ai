@@ -4,10 +4,8 @@ title: "DeepMind found an AI learning technique also works in human brains"
 excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
 publishedDateTime: 2020-01-16T04:58:00Z
 webUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/"
-ampWebUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
-cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -36,6 +34,6 @@ related:
         width: 1068
         height: 601
 
-secured: "Ke5YyqT/5QrR/W2I4DrSY1xxwwU8uBiSgdgyFBerlHqMD8nl8ovSNAXy+5nuhqcN/gw7dOUwkfPGJrotOgP0aKfLl6VCT6EOirM3VMb6l2W2kP2v3iJaaoXQEaAn49UXZbvU5UC7jtJsUpPGdGmk454NuJd+QAGhm6GLS2pCdbrOH+320QagK7QQv6MOAMdwmoF6oE5d1XbFetkBiI/Bzrhr8/+chxyTqeGxVVWWw9WFpN7GbBK6WqXXRXNmrGq6jXy0vXErLl4l+3vfvgB4wrkDMfS/F5BVjyrYPCX8vNJYu6qx6KLfFWTzERhP+gXvq2OPsFHerIaM/Z98mPVE6p1jBUIGBjsCo2a7amiCqq70jFXKsIE9NJ4Oe26+qSssC2Xyns9nVxTI8BEzF+bB9/KYsjRDkeQA8hC4NJnT28urQlFs4GDQE7sqzjSUtjweYFNr/LjmlTyk8uR22XJNkpQCObs+RlVoLH587xVCZn0=;6GhdPceCd5Lp9rzcwM99xQ=="
+secured: "RBvIAeMTjPDVI9AgUfvHQvZ1WR2PW0Y+bY8NxYZkL1vrzk7sX/4RaqH7zkkDTCwOvm+FabfGTpyx43FlbNbj39x4/nnR7SSpXyyaCXGZF59z/DI3uXfwmjYZarPqAz0jp/DXwwzOj3Sb7PZbM8y1kYLEWxIcnyZMNgiHx6GBwbd6yvzl5bP46+C5r+769SPjPwiovFGguVK0mbq/IgL1ZzZhg9SblGxBp2c2A1tHEauOcMayGD15uk0Ju8xcFZFk7aNZsPro2wk+bzEmUQZ075I53veBJVgQnXWf5lTBzZGkjeW+Di8xQoPyJq2k7FdrE2GuM2fVYjYTuqI+weQr/qNvQpPR6amxmRLz3cDe0rQ+ntCI0r9Mcbz7slF4qpye1nvmA+2zN7vSx/YjFuG6upNxg8+bHfpVZMwku+rx60blfsRkvF6jTggcjd9DtkpWSib/a8V8nzSodBcd/xkzT8ox61DhJeCGgFGDwBPzQ7k=;0rCmDkZMq/gUYdjao5HAbQ=="
 ---
 

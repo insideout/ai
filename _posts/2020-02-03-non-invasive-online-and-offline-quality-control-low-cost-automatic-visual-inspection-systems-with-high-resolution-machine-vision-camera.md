@@ -53,6 +53,15 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 20
+  - title: "Deep Learning for Extreme Weather Forecasting (image)"
+    excerpt: "A schematic representation of the capsule neural network Rice University engineers created to forecast extreme weather events. Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system."
+    publishedDateTime: 2020-02-04T14:45:00Z
+    webUrl: "https://www.eurekalert.org/multimedia/pub/223339.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "bSsiNvcTdD4E1GeGZ43e0kzAobhUpgPPe3LKCC8Dc5dYPp979tyWxs9ZGmE600HpQYqYwJ42nssBnB9ITMJjT6Z2z+lmyjb0TmqQcvtHq9ykOOYr2ssD3pKAEBwGCnaQCsMo772FU1lQOKWvbzPxUA4lsMpklUXdQeSP+LRBro5AQn0OhD/aychptzBD41YRI9KxG3iU1mBeO+9h54T42eIW9N7wrMz5PXI0uxvH5xT38zVtQ+D10UA4qrTOmbZRbByZxqRHOJm460+0AaSbkYJk98eu0i22X4tAZk4rcUqJOtIs6ztbbIeDkggdzvZ4;vvLlXlxIYSgRfsqKJavxyA=="
 ---

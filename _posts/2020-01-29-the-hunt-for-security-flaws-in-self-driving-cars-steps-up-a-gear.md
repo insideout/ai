@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-hunt-for-security-flaws
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -69,6 +69,19 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
         width: 822
         height: 537
+  - title: "The Future of Sensors for Self-Driving Cars: All Roads, All Conditions"
+    excerpt: "But as ADAS and eventually self-driving systems become more advanced, it will be essential for vehicle cameras to perform well in all situations. Camera benchmarking firm DXOMARK has done a lot of work in accurately characterizing camera image quality challenges that are unique to automotive, which its VP of marketing Nicolas Touchard shared ..."
+    publishedDateTime: 2020-02-04T14:14:00Z
+    webUrl: "https://www.extremetech.com/computing/305691-the-future-of-sensors-for-self-driving-cars-all-roads-all-conditions"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/02/GettyImages-1148108337.jpg"
+        width: 1344
+        height: 756
 
 secured: "SlUt5nCd0vkoxQvW8b1QzRWXm1deptGp8MnkrI/Xhf4zQXiViJpXNZaBS8UmYAvOUsvUxikpPxDwAZ5ZwvcKwVfpXXX77b9S2FUMQoNn5YDA05bLUJMxREEq5/xipCqAfauZhdih92UO6dL+E0WJNMYD+wQLussvSJnT6uP6LPAv3cl5LpVtWc3biYVCQTSKDUX6NuJ/rgFo23NvqYADRyeboLVYCFd+DmZdoJr5VZDbK8x9VYMlbj8Ia0UFwjSBkm/BoRT8isSoXKw5zcgUcuyChLy5V/VVF2SYpsPnQWMQ61W2VFIYmxuul5pnWk09fAkcBHQW8ovHrLcJdCIztuEoUcC5wsSt3XueZtVQqVzeYmoVuEhl6hbMQgWRdK7m1bNV+skWjudM4XEjWSVC/cSmvW6poSlmxUDXx96nnY0LK+GeKv7pfoXQMN7sVPj/XtuCr1QOTn3xaN40CEiSCM7A3HZPPvLfZd/9jw8PqPk=;D3WIKfFBf5kmvLQAlGfzRQ=="
 ---

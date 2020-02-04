@@ -8,8 +8,8 @@ ampWebUrl: "https://www.standardmedia.co.ke/mobile/amp/article/2001358827/how-ar
 cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/mobile/amp/article/2001358827/how-artificial-intelligence-will-change-media"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Standard Digital
@@ -33,11 +33,33 @@ related:
     provider:
       name: Scientific American
       domain: scientificamerican.com
-    quality: 39
+    quality: 139
     images:
       - url: "https://static.scientificamerican.com/sciam/cache/file/12E666E8-C229-4FDB-A12A437CAD23F0E0.jpg"
         width: 790
         height: 497
+  - title: "How AI Will Change The Way We Work In 2020"
+    excerpt: "If there is one technology that has become the buzzword of this decade, it would be artificial intelligence (AI). In the beginning of 2010s, consumer natural-language processing (NLP) allowed us to talk to our phones and control smart home appliances reliably. At the time, a lot of people expected NLP to explode in other domains, but it never ..."
+    publishedDateTime: 2020-01-27T03:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/345535"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
+  - title: "How Augmented Intelligence Will Change the Face of AI Adoption in 2020?"
+    excerpt: "When it comes to leadership, the new challenge for CIOs adopting AI technologies comes down to one thing: ethics. It has now become paramount that CIOs know what uses of AI could cause problems – whether bad, biased or unethical – and what they can do to make sure their business remains on the right side. In 2020, the industry will see CIOs ..."
+    publishedDateTime: 2020-01-30T06:40:00Z
+    webUrl: "https://www.analyticsinsight.net/augmented-intelligence-will-change-face-ai-adoption-2020/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/augin.jpg"
+        width: 960
+        height: 640
   - title: "How artificial intelligence will change HR in 2020"
     excerpt: "As technology is evolving, so is work culture. With the rise of the gig economy and decentralised workspaces, employees are beginning to look for meaningful work experiences. This year, HR will step back and invest in solutions that enhance employee experience, going beyond looking at just productivity and efficiency. Seamless learning ..."
     publishedDateTime: 2020-01-26T20:45:00Z
@@ -49,19 +71,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 37
-  - title: "How Artificial Intelligence Is Changing Social Media Marketing"
-    excerpt: "Every time you open Instagram, there are some new ads for you. All these ads relate to what you search for. You move to the explore section and can find thousands of related posts that interest you. But, how is that possible?"
-    publishedDateTime: 2020-01-27T15:02:00Z
-    webUrl: "https://businesscomputingworld.co.uk/t/how-artificial-intelligence-is-changing-social-media-marketing/245726"
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 37
-    images:
-      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
-        width: 512
-        height: 512
 
 secured: "O3R2grbN9fU30dLl3pKWRbg6ONO1VLOG3se7MkS34WSq8IIA6fNh4AaiBnYigAwOBlBir+y1ZKlS6docCysZ9sHrXBBgJQdfBX9jUVpAlTwt5gRlYKSJL4Yp2PaFV4uxaig2tvmGI7MJJZQkFH3EMSMuM6JL+ypTaCIRkyy1QTTO6GZjSqqf8uJ+tN/FwxBAwVx7k4Uqc5nLTDBMQHY5uV09zIkXkFs3ej6x8MOAydNDfwTRm8Tn1mMUznXGWmQbhmCaCMJof9dadIRgU4rot+9NMN2lK37xthiQxHh3KBAi9QY3g7qQGa5jD+S63jNo;T2OHbG2j+vrGZkAmGSI59Q=="
 ---

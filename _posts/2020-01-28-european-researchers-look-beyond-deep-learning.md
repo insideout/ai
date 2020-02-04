@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T16:56:00Z
 webUrl: "https://eandt.theiet.org/content/articles/2020/01/claire-network-looks-beyond-limits-of-deep-learning/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,19 @@ images:
     title: "European researchers look beyond deep learning"
 
 related:
-  - title: "Researchers Leverage Machine Learning to Improve Forecasting Tools"
-    excerpt: "NOAA and cooperative institute researchers are leveraging machine learning techniques and high-resolution weather models in an effort to improve these tools. “We hope our research will provide forecasters with more information on when they should ..."
-    publishedDateTime: 2020-01-30T03:41:00Z
-    webUrl: "https://www.weathernationtv.com/news/researchers-leverage-machine-learning-to-improve-forecasting-tools/"
+  - title: "DIII-D Researchers Use Machine Learning to Steer Fusion Plasmas"
+    excerpt: "Researchers at the DIII-D National Fusion Facility achieved a scientific first this month when they used machine learning calculations to automatically prevent fusion plasma disruptions in real time, while simultaneously optimizing the plasma for peak performance. The new experiments are the first of what they expect to be a wave of research in ..."
+    publishedDateTime: 2020-02-04T15:39:00Z
+    webUrl: "https://insidehpc.com/2020/02/diii-d-researchers-use-machine-learning-to-steer-fusion-plasmas/"
     type: article
     provider:
-      name: WeatherNation TV
-      domain: weathernationtv.com
-    quality: 19
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/02/fusion2.jpg"
+        width: 300
+        height: 300
   - title: "DIII-D Researchers Use Machine Learning to Steer Fusion Plasmas Near Operational Limits"
     excerpt: "San Diego, Feb. 03, 2020 (GLOBE NEWSWIRE) -- Researchers at the DIII-D National Fusion Facility achieved a scientific first this month when they used machine learning calculations to automatically prevent fusion plasma disruptions in real time,"
     publishedDateTime: 2020-02-03T17:25:00Z

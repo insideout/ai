@@ -69,6 +69,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+  - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "/PRNewswire/ -- According to the new market research report \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
+    publishedDateTime: 2020-02-04T14:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/emotion-detection-and-recognition-market-worth-56-0-billion-by-2024--exclusive-report-by-marketsandmarkets-300998432.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 7
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
+        width: 669
+        height: 229
 
 secured: "xnGi4DmxLEalA9/mC4tUygaVUO6di8D/I1256AOP/vmoUskxHrwIMXD1Uek1XgfnUCNZwlNrwjGGA9/M/VUN6kWu3Cr3cFAR0W3QnjbEZVLZb2TNJ8ajwdA/tFKA1aas9BIYylRg/sTo/BJqxM7lTSOSO4mCLabPqZ3KLlp6ppFiG5sTOnjA9qEiVASCyI06GoYQDALx7xpV3aU+Xl6MXIyWBqZaOawE8iAChsa7pCdBlssJ2pJpQKTotkx/bBMkat3+m/dLLa6M3H5rud4AMGSKFSwaBmuRUiQrkchYYY6GkegxIlHI5dQglRI8s9LI;oetSxOEoHbLy2I7E2uznjA=="
 ---

@@ -25,21 +25,6 @@ images:
     height: 225
     title: "New York-based Fintech AllocateRite’s Portfolio Management Strategies Now Available via iOS and Android Mobile App"
 
-related:
-  - title: "AllocateRite's AI-Powered Autonomous Wealth Management Strategies Are Now Available Via iOS and Android Mobile Apps"
-    excerpt: "/PRNewswire/ -- AllocateRite, the New York FinTech and data science company that provides wealth managers with ETF-based dynamic asset allocation"
-    publishedDateTime: 2020-01-20T21:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/allocaterites-ai-powered-autonomous-wealth-management-strategies-are-now-available-via-ios-and-android-mobile-apps-300989890.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-
 secured: "FAdVTVEAERNNmNNLGz5WNa/a8Qd1+lkKsp299Y60RL4qnb7l8qkLU7fXzyJEVhFTiQK91xpT2Wo7Xkpp4RUnfIPbDUxfd4tCbrHP/B477sPpxu8ZF4oRp5bCbK4879J5OR7PTCXzd+BlHNii9CW9ynaUFcgXNjHeWgs4pff7Njna4eh4O1xHGD0jCNcLGdVUJBQpK4l5jVkjaaey9sIro/YhQdU8vJAaAnrzuG1IsfYDY/WGJ64eW+P0YzRrrLx2Ufmog8XE0BbKZpNdLxJQT+ri3yYI+YEgb8fgwtfM9SSHOGYRlBSn1slspdnIMaZZccp75saG8qyn6xYY+8XntbFyrBZdhspMSk5VHjiVLSpmON4D6jiZK2UVRt6azZW3uL2jxJLypgmUTBFLanZzY5WPlFWBOSpwPEUlgCtPcKoMa9VTXPDGPt54uSvn1+dgcz4W8rzKhZpzrzA+uciYJHnvBPIlnFK/pvUfD8HU4ZY=;bLwncyl4KOMvDz7EfMsrJA=="
 ---
 

@@ -4,10 +4,8 @@ title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
 excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
 publishedDateTime: 2020-01-20T12:18:00Z
 webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
@@ -54,21 +52,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:57:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
   - title: "Google’s Sundar Pichai calls for regulation of artificial intelligence"
     excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
     publishedDateTime: 2020-01-21T14:26:00Z
@@ -209,6 +192,15 @@ related:
       - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
         width: 531
         height: 342
+  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 34
   - title: "Google CEO calls for ‘balanced approach’ in regulating artificial intelligence"
     excerpt: "Sundar Pichai’s comments come as lawmakers and governments consider limiting how artificial intelligence can be used. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this,” Pichai said, according to a transcript of his speech at a Brussels-based think tank."
     publishedDateTime: 2020-01-21T01:58:00Z
@@ -231,6 +223,15 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 21
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
+    publishedDateTime: 2020-01-20T13:52:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 19
   - title: "Google CEO calls for regulation of possible artificial intelligence"
     excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
     publishedDateTime: 2020-01-21T05:36:00Z
@@ -241,6 +242,6 @@ related:
       domain: lewistownsentinel.com
     quality: 17
 
-secured: "GzwSHt9E8wepAsPkhq47F503Ul8sqb0Eyy6/7obFXMsiygTyhgLyGXsN0vU5vZSiiI1DozYXktq5NSwDLNovOmlVWJFLE9tgdyEO38fU506d5+xX0Pv+zXzZZkKo1doIwJQBsTfdgpWjnFgeZ+YygwM8b1+olkzBDg/wpZ0d1kpgfGgfLywoWReaMkSCBwaZaDVBB3xLk3nJofZaX7jzjLuQoVekyTjhoDADO9Xr1p4mmBksGVIesCD5SA6HrR1GcRMUfMPMFizTYyGhVp85+EQBkBtkWOb9Cs00H3G6IFKOG7bu3KSoLS+5hxHGuZ8u;UGWlUSAmun9HbRSs1TWJgA=="
+secured: "UFlBlm4js/tFhjpiMcPfNsn4yvRvfPVxwLkvB3vM1fjOJqX6dUTMjW6XaH0nCft41R8jLyAv8kLVBzyRgUJaz6psFVXVyc9TKmQ9OfbwrCSfRf+OF2QRgyMM0j3Sht9xzr685D1o74GwN4+MZigPlN5Bc7v2n1jgohvjl44V9Q0sA/uw85mm9crdoHpisK7VukSkl7FTiNyznuFFgHDQdZg0PyDDyQS3HsAfxGYYPNlnnHH4XcrhfAmIXxPphM2RjQJGU7FUBAgyLEGEfnhoAIKlarCNdR8qAGn4z+UA9ZxxnLTzE4x4MK/fxiwOv234;/UuXsAfvTc6QqUAtw+AoMQ=="
 ---
 

@@ -24,43 +24,34 @@ images:
     title: "How Augmented Intelligence Will Change the Face of AI Adoption in 2020?"
 
 related:
-  - title: "How AI In Healthcare Will Influence The Path To Value"
-    excerpt: "From medical malpractice to single-payer healthcare, there is no shortage of topics to debate in healthcare. Though provision, funding and government involvement in our system continue to be central topics,"
-    publishedDateTime: 2020-01-31T13:12:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/"
+  - title: "How Artificial Intelligence Will Change Medicine"
+    excerpt: "Using powerful computers, scientists have scrutinized this bounty with some fine results, but it has become clear that we can learn much more with an assist from artificial intelligence. Over the next decade deep-learning neural networks will likely transform how we look for patterns in data and how research is conducted and applied to human ..."
+    publishedDateTime: 2020-02-01T19:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-artificial-intelligence-will-change-medicine/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 139
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1147429610/960x0.jpg?fit=scale"
-        width: 711
-        height: 474
-  - title: "Setting up framework for AI in healthcare"
-    excerpt: "Growing populations, demographic changes and a shortage of health practitioners are also putting pressure on the healthcare sector. At the same time, increasing amounts of digital health data and information have become available. How can we tap this vast data resource? Artificial intelligence (AI) models are now being developed to learn from ..."
-    publishedDateTime: 2020-01-31T18:26:00Z
-    webUrl: "https://www.thestar.com.my/opinion/letters/2020/01/31/setting-up-framework-for-ai-in-healthcare"
+      - url: "https://static.scientificamerican.com/sciam/cache/file/12E666E8-C229-4FDB-A12A437CAD23F0E0.jpg"
+        width: 790
+        height: 497
+  - title: "How Artificial Intelligence will change media"
+    excerpt: "For More of This and Other Stories, Grab Your Copy of the Standard Newspaper. Subscribe Now »"
+    publishedDateTime: 2020-02-01T15:03:00Z
+    webUrl: "https://www.standardmedia.co.ke/article/2001358827/how-artificial-intelligence-will-change-media"
+    ampWebUrl: "https://www.standardmedia.co.ke/mobile/amp/article/2001358827/how-artificial-intelligence-will-change-media"
+    cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/mobile/amp/article/2001358827/how-artificial-intelligence-will-change-media"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
+      name: The Standard Digital
+      domain: standardmedia.co.ke
+    quality: 57
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/01/31/534695.jpg"
-        width: 1240
-        height: 936
-  - title: "Artificial Intelligence (AI) in Healthcare Market"
-    excerpt: "A new research document is added in HTF MI database of 50 pages, titled as 'Artificial Intelligence (AI) in Healthcare Market in India (2018-2023)' with detailed analysis, Competitive landscape, forecast and strategies. The study covers geographic analysis that includes regions like North America, Europe, Asia Pacific, Latin America ..."
-    publishedDateTime: 2020-01-27T17:03:00Z
-    webUrl: "https://www.openpr.com/news/1909861/artificial-intelligence-ai-in-healthcare-market-next-big"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
+      - url: "https://www.standardmedia.co.ke/images/saturday/how_artificial_intel5e3593e117b93.jpg"
+        width: 800
+        height: 500
   - title: "How AI Will Change The Way We Work In 2020"
     excerpt: "If there is one technology that has become the buzzword of this decade, it would be artificial intelligence (AI). In the beginning of 2010s, consumer natural-language processing (NLP) allowed us to talk to our phones and control smart home appliances reliably. At the time, a lot of people expected NLP to explode in other domains, but it never ..."
     publishedDateTime: 2020-01-27T03:30:00Z
@@ -70,24 +61,17 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
-  - title: "Artificial Intelligence in Healthcare"
-    excerpt: "WMR published report on Artificial Intelligence in Healthcare Market 2027: Delivering key insights and providing a competitive advantage to clients through a detailed report. Artificial Intelligence in Healthcare Industry Size, Market Share Value, Competitors Research, Industry Outlook as well Analysis covers various factors like Regional ..."
-    publishedDateTime: 2020-01-30T10:45:00Z
-    webUrl: "https://www.openpr.com/news/1914020/artificial-intelligence-in-healthcare-market-global-outlook"
+  - title: "How artificial intelligence will change HR in 2020"
+    excerpt: "As technology is evolving, so is work culture. With the rise of the gig economy and decentralised workspaces, employees are beginning to look for meaningful work experiences. This year, HR will step back and invest in solutions that enhance employee experience, going beyond looking at just productivity and efficiency. Seamless learning ..."
+    publishedDateTime: 2020-01-26T20:45:00Z
+    webUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/"
+    ampWebUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
-  - title: "Artificial intelligence In Healthcare Market Poised To revolutionize the healthcare sector"
-    excerpt: "The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for players to better address challenges inside the global Artificial ..."
-    publishedDateTime: 2020-01-29T11:55:00Z
-    webUrl: "https://www.openpr.com/news/1911994/artificial-intelligence-in-healthcare-market-poised"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 37
 
 secured: "a8seCFH4Yiw4Fe5a/zhGYGW2A9wO4zkLv2Kbr4pCkcw/7AELojpzjNMYkUa2+um2hUzUWZfouevopmoVImXp+a3jiZk61XLVvguDKNR8Vbh3ApEVTANhqx0o2t+HHdnAY2wspoLyRuIFVRPaJl1z9iA5wsPWbBnU2k2Z+7UCQ4zddr1bvUXN6W1T5CF9l/9qkcwRubNWUJVbOhYIPX9Ae6Hztrsf3JhVuc5ZZcQdzV08Tu4IgNrR7p/2o5YDfEmvmrEJsTLFJfeWqtU9ckLbAT9M3A3NXjxMsqdfn7QZccCeLOV2Qc4Dd22/k9iOuNJX;LBIRRHQlW0yTmRukwqR20Q=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T13:08:00Z
 webUrl: "https://www.tmcnet.com/usubmit/-carnegie-learning-the-university-memphis-create-learner-data-/2020/02/04/9091621.htm"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 252
     height: 335
     title: "Carnegie Learning and The University of Memphis to Create a Learner Data Institute to Improve Educational Outcomes"
+
+related:
+  - title: "Researchers Leverage Machine Learning to Improve Forecasting Tools"
+    excerpt: "NOAA and cooperative institute researchers are leveraging machine learning techniques and high-resolution weather models in an effort to improve these tools. “We hope our research will provide forecasters with more information on when they should ..."
+    publishedDateTime: 2020-01-30T03:41:00Z
+    webUrl: "https://www.weathernationtv.com/news/researchers-leverage-machine-learning-to-improve-forecasting-tools/"
+    type: article
+    provider:
+      name: WeatherNation TV
+      domain: weathernationtv.com
+    quality: 19
 
 secured: "kZA/8432fQL7Qq9gVbns0mwD5bQGcqmd4mppsByle4jMjmyo1Aas0oc2kuVnFqKUCAfAD0HRgnpKemgP1/ntrMkGPu7WOCVRe8Zs6j4UnPPMfaEniJTFqkY7SYPdVuoJSvVHPFzWObDsRZ0t8BBd41ajvmjvHUYAdjfGf0r4B5WT6pJp2dSWqXoLb0GNfSZBic0QDkDNkzrzG6Q7SdGlIiECaj6zVKY17loWSvxSnl57ITjDw1h2YGmi+BqVyg0FUMTXoDsdxiV5+hIYKgZwJ8gJypMw5cXlW9R7GDtr7kAZdol90E3HZhO4DZqHsU2G;E9vdXskXeZMn1QaxKJ4BMA=="
 ---

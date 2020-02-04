@@ -37,6 +37,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "The Global Deep Learning Market is expected to grow by USD 7.2 bn during 2020-2024, progressing at a CAGR of 45% during the forecast period"
+    excerpt: "New York, Feb. 04, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Deep Learning Market 2020-2024\" - https://www.reportlinker.com/p04391092/?utm_source=GNW Our reports on global deep learning market provides a holistic analysis,"
+    publishedDateTime: 2020-02-04T14:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-deep-learning-market-is-expected-to-grow-by-usd-72-bn-during-2020-2024-progressing-at-a-cagr-of-45-during-the-forecast-period-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "EGrGo/dPMU9XQuwR3CA6ZMFcNULBevDYUJ1LsnZiVs3O/K+jQbvtVH1wLsQakfyL7gV5vDyHxmMcXk5PDMxbHx3LOeKe2zpdM/IZIFuXn4HvAka5eCvuVlRzAfSs6Nl1uUiR/OkKoS5jfN3WDGTSIQLritH62h6MxFdJGHLar/46tx7UNIhOnlD+wzY1ZcTKNu0i5TK8dAIaOcX1Jgf69yHYI3xNYSCiGpeVXwbu5mEByaZ5By2Gx9oSmCS6rQmMha5VNE90+Qzlf4b16+OKJMUMk7asC9IqY95yem/dg1XIy7Ixt/2QgQtFqYPK6MPrM9dBI3OqMQwhjqFHoK4ukJFZatdWLh6dskcI/3hr01n7ZXQUPn/B1uJDcP9Jlb9Mir6SiDAbh7waNgWKMFkrsReeZmlBBUO6/m2+ezIgm2kj4y6hBaQlB2hkeNvjfsnjB17TU7BYcYyynqcmNio6Rj4yq4ei8KntZoV1OctAO9A=;UZ72QZLrSmiELAxtP/f0LQ=="
 ---

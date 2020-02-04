@@ -23,6 +23,6 @@ images:
     height: 800
     title: "Warehouse Robotics Market to Expand at Growth Rate of ~ 12% CAGR From 2019 to 2027 to Reach US$ 9.5 Bn Through 2027: Transparency Market Research"
 
-secured: "PL07B0VOE10NU6BgtijPReHPIkxkGXBUWwXp51RncAnvVthLAgicmVJ5X91C1VI8ndUqS0hxcSbgQ9Mg3Gh9kzhfFqzTR22AHhjJODG8AOtc+XYoQjMubcddtJeZZE7vJRApKkJmmh1iDmcWP6yL8qHTcCwLenyszSX5M2+YaCOMyrQq+bO5vK826pWQP3ALsJvIxSyNEtkmCNlpIe/ZiYXE9UmH+mA5RqnPuB7+sLQWy1mhj7qSShtmQE8s8SUB3g5AY/Aa88NGZ/rsXqqgwtZIgOwDTAlmAiOABdwbGU/ZsPku5TLjs5jAY/7ECbH3;sebdET9G2wgJkKtFobGXzQ=="
+secured: "dl83OPg6tfYK+D2v49FmKArvXLOCkIYPPAffWzGnG3UAT2gWHkSVeo4ioRWJ0thcHlYlSkNFV0eyQLjkUwtHsh6j8Dq/z91elBVXbSilhi2EE4+Gx9WDVOPWev7d8+TmCRwZKSjuQYs3lTgdQj4mSLXAOUwDGMMw1MIqNlwn/jhQfiSb/X+QUYK9SF0BoCiA9DBqqPAf/JLTsIdFGSS+qgO/0kt9Ce9bxeeDQYlTYMU5RROa81MIeeLjk2U8xaaLAUUZJLS7eC0+Dw9tOJ+fzy8AWDaJ2Lw77L/ArtDq0NLmnPKHvXx0whWE6qYy9qmoZ0X874mZ5M5dQGDSx3PdtJccior1GRNFSBP4wXpliWenQ7aqq3Z4HF6Ivk48Q5bvD2Gj0kYlnfgoAhsAY7SM6ZVfJHg0cS4ufFhmweisa6Lp+ARuF6EyErJfKfqlRS+Ell+UwS0jBoVSq+9J7Lwc3OeAuQkywcqJWb61dQbrThc=;S66wtwyIw9Q1lkAWronrCw=="
 ---
 

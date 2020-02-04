@@ -63,6 +63,19 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
         width: 822
         height: 537
+  - title: "The Future of Sensors for Self-Driving Cars: All Roads, All Conditions"
+    excerpt: "But as ADAS and eventually self-driving systems become more advanced, it will be essential for vehicle cameras to perform well in all situations. Camera benchmarking firm DXOMARK has done a lot of work in accurately characterizing camera image quality challenges that are unique to automotive, which its VP of marketing Nicolas Touchard shared ..."
+    publishedDateTime: 2020-02-04T14:14:00Z
+    webUrl: "https://www.extremetech.com/computing/305691-the-future-of-sensors-for-self-driving-cars-all-roads-all-conditions"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/02/GettyImages-1148108337.jpg"
+        width: 1344
+        height: 756
 
 secured: "EKLcMGT2vgtgTubzzafML2D82jeNpVGP9pJHFPSvPCPqxYbd69uWriivlbs4wKlDsscw/nk3jJeI9ZARYJvx7GcmTM2VRyqeITn01RO8XQadsIZHnzWEr0o/hunDHwbcPAYbVVOKHVLcHzpFGHKINYMr8xZqrSHSj0yc1kJEr87OkGl0HCTloNHOLlpabPArJYuMCM+De0GVEeE8K9CYJ6889rNhxg/VqzVAdx54DM2hps3sOJpDlKnKi4tjBZSrjj+7GHXmNLwJSZxdhX8wXIMMNSrOY3lWTLjtOx32lzqpYj3dlS1vwCRctvZ5/jJQ;dd5bu9vsH+/n0AtG6rODxg=="
 ---

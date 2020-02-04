@@ -39,6 +39,15 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2016/02/3115110964_142191363f_b.jpg?w=1024"
         width: 1024
         height: 768
+  - title: "UK AI advisors call for online platforms to become accountable for user content targeting"
+    excerpt: "The Centre for Data Ethics and Innovation (CDEI) is an advisory body established under the Department for Digital, Culture, Media & Sport to provide independent advice and recommendations on emerging data-driven issues including AI, deepfakes, surveillance, and Internet of Things (IoT) technologies. On Tuesday, CDEI published a report and set ..."
+    publishedDateTime: 2020-02-04T14:08:00Z
+    webUrl: "https://www.zdnet.com/article/uk-advisors-on-ai-call-for-online-platforms-to-become-accountable-for-user-content-targeting/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
 
 secured: "XI/btwvTv6J0WHEsIV8y/tT73ODYiDuo/IMmiqDimJofqiWjWuSQesM2hTIs4r/yQTFpDHjAxjhAaqRiVQikqWlz9laoFU3mvi4TpZqRHeEh4lO4R+AOu9x0RhRb4fG2pie/yQyOjX91Nqns+aT22qrjoJ5GIZQ5LrMRQxfqv8y3rEfVYpdxNLIpEuGzCzb4298wklgswZuN/uCHz9zGE+G3kgAm7zFQOHh1veR6exSMhHG+AJbGF63Awy7J2UsWsP2+nxOaT8ifmGmzDrv0cIWRAHAHAFNK1yQJrUtm/pVDBqfyYpM3tQuJfft3ARNL;numagbUcN+BqUf8eJiffDw=="
 ---

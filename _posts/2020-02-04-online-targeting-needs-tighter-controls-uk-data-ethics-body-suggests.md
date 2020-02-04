@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/04/online-targeting-needs-tighter-con
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     title: "Online targeting needs tighter controls, UK data ethics body suggests"
 
 related:
+  - title: "UK AI advisors call for online platforms to become accountable for user content targeting"
+    excerpt: "The Centre for Data Ethics and Innovation (CDEI) is an advisory body established under the Department for Digital, Culture, Media & Sport to provide independent advice and recommendations on emerging data-driven issues including AI, deepfakes, surveillance, and Internet of Things (IoT) technologies. On Tuesday, CDEI published a report and set ..."
+    publishedDateTime: 2020-02-04T14:08:00Z
+    webUrl: "https://www.zdnet.com/article/uk-advisors-on-ai-call-for-online-platforms-to-become-accountable-for-user-content-targeting/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
   - title: "UK's AI advisor: online profiling needs regulation"
     excerpt: "... by the UK government's advisory body on artificial intelligence (AI) ethics on Tuesday. New rules should also request the creation of publicly-accessible archives for 'high-risk' adverts, such as political adverts, and encourage long-term wholesale reform of online targeting, the Centre for Data Ethics and Innovation (CDEI) suggested."
     publishedDateTime: 2020-02-04T11:25:00Z

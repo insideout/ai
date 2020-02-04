@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T06:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-continue-to-grow-as-industry-spends-big-to-reclaim-market-2029-2020-01-23"
 type: article
 quality: 67
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -27,47 +27,21 @@ images:
     title: "Mobile Artificial Intelligence Market Continue to Grow as Industry Spends Big to Reclaim Market 2029"
 
 related:
-  - title: "Artificial Intelligence and Cognitive Computing Market Foreseen to Grow Exponentially by 2026"
-    excerpt: "Ameco Research announced the latest market research report on “Global Artificial Intelligence and Cognitive Computing Market: Global Industry Size, Share, Trends and Forecast, 2019-2026\". A report on the global Artificial Intelligence and Cognitive Computing market has been recently added to the ever expanding repository of Ameco Research."
-    publishedDateTime: 2020-01-21T05:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-foreseen-to-grow-exponentially-by-2026-2020-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Deep Learning Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
-    excerpt: "New York, January 21, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
-    publishedDateTime: 2020-01-21T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Cognitive Computing Technology Market 2020 – 2023: Business Trends, Emerging Technologies, Size, Global Segments and industry Profit Growth"
-    excerpt: "The study indicates that by technology segment, natural language processing is the most prominent technology used in the cognitive computing industry owing to its integral capacity to process natural language interactions. At present, automated reasoning and information recovery technologies have limited applications thereby, restricting the ..."
-    publishedDateTime: 2020-01-22T11:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15161098/cognitive-computing-technology-market-2020-2023-business-trends-emerging-technologies-size-global"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15161098"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15161098"
+  - title: "Mobile AI Market 2020 Classification, Application, Industry Chain Overview, SWOT Analysis and Competitive Landscape To 2023"
+    excerpt: "“”Mobile AI Market”” Mobile AI Market Research Report 2020: Industry Size, Share, Trends, Growth, Sales, Revenue, Risk and Opportunity Assessment"
+    publishedDateTime: 2020-01-23T09:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15169842/mobile-ai-market-2020-classification-application-industry-chain-overview-swot-analysis-and-compet"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15169842"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15169842"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 10
+    quality: 35
     images:
-      - url: "https://www.abnewswire.com/uploads/1579690500.png"
+      - url: "https://www.abnewswire.com/uploads/1579774680.jpeg"
         width: 800
-        height: 428
+        height: 527
 
 secured: "ZnXBYXpBLJa8kDlJHUoWAL+Kr8oxCJnCHTugEiDk0swiXwAvKnP6JtrtIZc9+Z0qcgbx0YceT5bSfzRxF61IU4+CawYl47aeNnxVRPDtzKhqp6T0sCXnFzdbTUlNar6n5eDk+IMyXp1DOAUsOrpCSG353C3rBv+1v/pL+wC1yW/w8+d6hJMlPNg4ZF5xKtL5clbeLsGA9eiZpq+o09KfEeSKjWNSCSNxg1kYlxoXBF1oZOmltHtD2FgG2uT5V3w1LhrPqXYYdiD3ukrNJoG8hy0HnappOeorJQDRpt9thtigcpMLVxKDE8ZP4W1+bHYf;R5nIANy0WdxCTvES4PAKxQ=="
 ---

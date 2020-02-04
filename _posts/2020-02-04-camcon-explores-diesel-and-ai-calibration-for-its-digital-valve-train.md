@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -42,6 +42,19 @@ related:
       - url: "https://mma.prnewswire.com/media/663826/Blue_Prism_Logo.jpg?p=facebook"
         width: 1166
         height: 610
+  - title: "CyberMAK Partners With Kore.ai Offering Conversational AI-powered Chatbots for Digital Transformation"
+    excerpt: "It combines natural language processing, machine learning, and AI into enterprise-wide collaboration and automation through conversational interfaces, thus supporting the growing mandate for digital transformation. Kore.ai's platform has a multi-pronged ..."
+    publishedDateTime: 2020-02-03T04:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48750086-cybermak-partners-with-kore-ai-offering-conversational-ai-powered-chatbots-for-digital-transformation-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1085089/CyberMAK_Kore_AI_Chatbots.jpg"
+        width: 400
+        height: 225
 
 secured: "QsI77CMthusLFBXEDuzTMics5OQsMLxtSwsUwkT0pp5FnYKN9RZquYY1SQxeRJ2xXa7QAp7Yo5IKRMIFri4lrh8i+Hoy8e6r+R2SvuCizFhOYSF1z9wdFyj0nmb2i5yT6hgKEWEGtzCZr+LFTmA5arpkvVUMjtjDzs8Ddm6Q0OgxNzlMnHLDQ7CwvyPG5pnLN7jgEEfmQsY1DNyFSYzzi6ihtOoZct3Nmtu+D0CefiDwtEIc3b80ObtusfqKYp/Ol9okR1N96sLbdPF02ZEc1rYwIqno83wJhnup0xEgNOc1Alra/l7ijWNBQnA8oYlaopgcE89NVgyhAyY3c8qMjr2dW/1+YfasjwZHnzprS5SeGB6HJPUJrupbBOhuZ4KgzfDfkhZl1QVMDAyATD0juwZPuetozxpFM2/W3KlJhYOl23sliZGvNHei1WzAxvt7hc6JxSw22E/LnYXto46I66w4bHdJs/h9Wy92FCvthMA=;/d8mmu1K0416u0jNAH3I4A=="
 ---

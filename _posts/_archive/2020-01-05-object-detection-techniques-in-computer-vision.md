@@ -5,8 +5,8 @@ excerpt: "The SIFT method does not provide real-time object recognition due to e
 publishedDateTime: 2020-01-05T19:42:00Z
 webUrl: "https://medium.com/swlh/object-detection-techniques-in-computer-vision-7c169771fb15"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://miro.medium.com/max/1200/1*EMSp4prWUW13rH_0FnhKEg.jpeg"
-    width: 1200
-    height: 900
-    title: "Object Detection Techniques in Computer Vision"
-
-secured: "lBraF1HiAh09x/wP9K2iuNI1SOHUoaN0vVlWfA4oAD8KG5mINzenZjIwy6KfkM52NaHxgkMXsXZ2uxvXo4VeLJgfWCowzxX9VvBFeOHmQYHcPPS2G+oV3TJvIyBoWoGKghzv7krGV6PU/ZKaKHwJ80D30Pmt88i5ge+XsA4qZ5u+FB31CTLlPzJg+adYMISl7DDSPVZmNcM6iWncmFU9EYx96EkIRuNANClGUBfjiEzFKNm9GeSU4l/JvLsnNFzfBgtNNXLX+QiwM39h74we8J13uEVY4GG2WynI8Pcthf6X1L9/a8eBzTDCA8vQF6am;zc5l0WYgr1J8v3U0hooNkQ=="
+secured: "YUAxHjd8/b4aZ/uYA2zYDx4ubwR+5ypCTVVTkP+z04bcxPk3WEzal7L8z8AnL4v79Z+UcPx/7tDu7D4Z7LbdkntbjvIWlPN15LMnryMhuXOFLu5N90d2XUnvtAkiSnfu7lpKxBliyrP7GxFrxZW7uroj5I+Eo642EvqUN81OcVe1XNYcKEiidsyy8VBn2mZYR6PpqGv1XhlFcAsU+rPFoKb8uSr8o40bZECeL2OD/iBfunB+YY72GzNJmwcpi6j1TlM8JYx+kYvw1vpym7/Cm56DomVI2PJCuNFCOHPnieT9xf0YMWP19mflYi6mVWRN;c+pp48uS7ee2agiWkNfn5g=="
 ---
 

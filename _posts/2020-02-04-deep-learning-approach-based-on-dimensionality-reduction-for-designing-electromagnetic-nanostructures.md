@@ -46,6 +46,15 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 20
+  - title: "Deep Learning for Extreme Weather Forecasting (image)"
+    excerpt: "A schematic representation of the capsule neural network Rice University engineers created to forecast extreme weather events. Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system."
+    publishedDateTime: 2020-02-04T14:45:00Z
+    webUrl: "https://www.eurekalert.org/multimedia/pub/223339.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
   - title: "Non-invasive online and offline quality control: low cost automatic visual inspection systems with high resolution machine vision camera"
     excerpt: "Made in America - Automating for Growth Mistakes Manufacturers Should Avoid When It Comes to Digital Marketing Inventory Management Software with Capabilities of Bill of Materials BOM Discussing ATX West with HEIDENHAIN What Machine Learning Trends Can We Expect for Manufacturing in 2020? In this paper we introduce Machine Vision System (MVS ..."
     publishedDateTime: 2020-02-03T16:34:00Z
