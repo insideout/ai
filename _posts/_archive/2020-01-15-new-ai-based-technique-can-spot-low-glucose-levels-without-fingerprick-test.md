@@ -26,15 +26,21 @@ images:
     title: "New AI-based technique can spot low-glucose levels without fingerprick test"
 
 related:
-  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-13T16:53:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/01/200113111156.htm"
+  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
+    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
+    publishedDateTime: 2020-01-14T13:07:00Z
+    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: Medindia
+      domain: medindia.net
+    quality: 53
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg"
+        width: 1200
+        height: 1000
   - title: "NO Fingerprick: AI can detect low-glucose levels via ECG beats"
     excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
     publishedDateTime: 2020-01-21T08:28:00Z
@@ -45,6 +51,6 @@ related:
       domain: medicaldialogues.in
     quality: 19
 
-secured: "UqMMcwfvhxcf2oMOYLy56b105U155VE5oMalkBUZO/5vqNfCxyMIS1QE2ErNqfMBlJ6q1LYIiAtV5zquuUfP/ILKwhg4mBYV1MZa7EkKj9qzZCBnButUoUNMuaWYvmusbSLCbsvmvgM4ZIHN8W+Aiklhi4u0mVvgtk2m5Pbk0shc9BRCj/CkmL4qR/igsx4jIcaTAFx5PXsHuEbjJyV8P2nnLA8TNYiDPzUGRas0As0GMdMEF5u+qWr6vDisk4LLoifVkpfGIAR8Ga9iPcnzxoGwlooKoPPY7LhnfkaMxueu/SyDEspyjTFLctWqpKdI;aL4wjv0cwgyAot4FsofRSQ=="
+secured: "SVDG5AT9yl+XIDxF9w+uAe0gXt04jrC9Pm8TVtomQlTwd7Jf5V85gLszOG3y2PGZjAoh9M/i79GrRd4yElcs9VwjW5pXkIoH8eJTDs/UNaIoeUVN4dGnoHI8yfr559nrIqreZjQ3SNZphEI8B2AudKc5ZO9YjAY/9n4hF17RQP6YVbKoGvhS8RhOs7IuFXB2GG1IhI51aLKsYJ9dug/URmlcAgLWVOZ5zTkR9EsJ5fEHVeCHzDus8bbes/u73BV1/oyIg4ZNUJ+mrCWJDTWY5yjEXMm4H7QuXuCyaalcx9nTlzeRrc5zTVomF2uZKxzx;Z18ZxCciSHKrfMtqfVivSA=="
 ---
 

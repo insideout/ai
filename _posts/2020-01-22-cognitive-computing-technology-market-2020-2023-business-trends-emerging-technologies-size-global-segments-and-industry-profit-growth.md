@@ -91,19 +91,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Automotive Artificial Intelligence Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026"
-    excerpt: "Automotive Artificial Intelligence Market 2020 Wiseguyreports.Com Adds \"Automotive Artificial Intelligence-"
-    publishedDateTime: 2020-01-20T08:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026-2020-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "kqkI3hgRmwUgb69e//ONDFpqrAEheqw80w8SP0jgY4qxRO6ApB6pvfziKbvaiNPSaU+os0OEv+9xFCA21QWn9eFFiaADrrRD/1ZmRMxXvoeNXuQARcRWOakuhcMPrgVBKk05qvqnBUN3z4iXQBJmq3zvyixxnXGSs8b1bT0xdUzv5NZi5mG03dsRqQVbMXe1602ZiWlFTSxaxjrBbw4kjpBQqcDkPmd5iFi9UaCcL+14kfepGPryNJ7AvDxz1taRNnfFD0+zyOxioeiqAB/8Z1YXHD85SKLfFAfTn8ChnBIzALPu4PHvLysM7U4vfPJdpm+3+l8rTTt2+7F9JKCtDJPVcEOGermVPnPnvTzsph0vkNEeTGTQwnCcQPTrFdrIFDzVTSMy3tYV62FFg1YKqCfV+CrH3CXETaocgh6ICYfzhhlzddgqnsTZJHo4wR8IgsnzITvkPp0d3wbrOVRPKA==;DIG/FpBpbIOaFQgIJY1xUg=="
 ---

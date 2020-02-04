@@ -25,6 +25,6 @@ images:
     height: 512
     title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
 
-secured: "LgvI+eTL3BH8QrYllrM65WLn3V+bii9vDNR4ds7Y8e1GJ5W/6B1BX7esegZTYtBDVDnYvZb85meDLfrYNuIK3u0Wwksez3VQWQUevu8RHBDTZ3Wd0fQvB4T08Mh+6mF8IS/paro2GDBHxfFZJPWfYUW55KPya/lAqzhXKzImAjiFFwfd/BQhzmCCQPAtIc7JZW+IgxV3NtNdLJS0skoPdYWBz6qmKzmjdc3+sP75+rk6tIdDvWfgbKlwLdWqB/9LWzNZrVvi3PqZNAMkZV7iR/MxLfo6ZiLT9nQOzes9a/NgWNxoI5MXPEH4QyvNHov/;eT+N/gFLNg8rW4VjL5aaCQ=="
+secured: "phCC0ZRZowPtM4zqh3xeFgQSNlgZTr0N59oUE6xZKj/yo94kQ543+m9eDcYmjasB41YhHbYD8cgz+JiGxOEfQD87Cycn+MZ6e1+b6ResEWjI2JgQ72avEZvE38cgDraW6VuUbcXzqTVHUv0agLL9x890A2cO4FBsvBdr0h0qGM8bCrZ0PfeRfx7RpWIhv9AdeYsvqgFYG+tZeN/WdTkl6X6m0UIqrvqqygx44+eKMjPWtURunKfGN1y+LoPwZGNIBiz35JNqEpYMGP5pnOeIJhMkhT41iXDBePFuz6nLkqi+S5vnawTkxfrcV+lczv9S;ydjPcwmNX/YXiZek+HRACw=="
 ---
 

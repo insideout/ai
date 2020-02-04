@@ -34,19 +34,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Fashion Market to 2027…"
-    excerpt: "research analysts, and key opinion leaders specializing in the artificial intelligence in fashion market. Some of the players present in artificial intelligence in fashion market are Adobe Inc., Amazon Web Services, Inc., Catchoom Technologies S.L., Facebook, Inc., Google LLC, Huawei Technologies Co., Ltd., IBM Corporation, Microsoft ..."
-    publishedDateTime: 2020-01-20T07:06:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2020-01-20/artificial-intelligence-in-fashion-market-to-2027-europe-market-to-capitalize-on-rising-demand-fro"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 39
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
 
 secured: "1iFRU9wR91x+7mSpTS7ReSExezIL2IX2iCSzfiCgt6ZphzsZSkp0UaJ7UHo3SN/kpcrGMVvj6TDiqMq3LcdbzaHhWCdbDcLikyTIjO/9Snk8+2dsgBh3wCErtr56i4Ogc6wRSv+Nz2wWXKHlOMO0LWdL1K4Qx/TprlbYbuqsjEuiUyZF5GlvLA+Vd/7yyhxZ+oAYrMot+drUxAeDhu+UEvIsDBQZl8nPhALSGBp++ufD/IUFIAMWBxdoVEO3E5m48+CopOYzSnunbrkjvWBE1oIyCg/m0G2InIFuZ6EU7XF0izOqm1GqvrrhEizZS437;yJFY+KkEoQKz13nk0RB6fg=="
 ---

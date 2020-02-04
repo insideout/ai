@@ -49,6 +49,19 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
+    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
+    publishedDateTime: 2020-01-23T15:23:00Z
+    webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
+        width: 1024
+        height: 803
 
 secured: "J1TPJP73wuekS4dIAu4M6g7b+bPgKCnzvw8ofimMIBUYxNtUhZd9f3ajeAUIVT27IW4QXxlqjokHqh8H3b1ojNXGUz494aUuflhRtWDHfHzwI8ZUj8nHYnRxGCtkBdtFS5p57lAwkZOAsnBXprvsINjUQJ/bxHy3vpdHIFyITzRKd6+RVrxFIupU6Ftr09Zm3Q/qd0YIsg/21yNe7AXY1kRSTfNyjqURoLy7ekirXzo3wBdRtYrV5/1jDZ9jo8HXEKXY4IcxwyPG04ftP4ei8HXjzoigeEpk1Us3c8D2uUeG6SuG5oQdTgvQo6bQqNOEjo1yF6+fLFrIMo/Kez9U9OF1SLAvq70ZJ7EWP0vP/fX45lTo4qHyxusTe2balPlaVxyXBDKwg8jTwSJyQwU3kVjesL/yEZB7h/O35iZPY6TbklHCBSovr/jLQIfhsC+LHvDIGfIDg44I0eZWbvI+e9VmaA0NB+ez57zTP3FQvBs=;Dh4l5MDu5Sr2SPQe8FAoLA=="
 ---

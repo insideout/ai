@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/why-conver
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/23/why-conversational-ai-is-the-instant-pot-for-customer-service/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -53,6 +53,19 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
+    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
+    publishedDateTime: 2020-01-23T15:23:00Z
+    webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
+        width: 1024
+        height: 803
 
 secured: "6RFCB3kPuaKs6MnKjKlRYnCjaUyBlQg/jEgoYR5+nh16qzKzpggk798/BtOllMO2UZ95/fMdQL+CXXCuDnqyoe4/apb5ZJDQJCmeI0E7uFhqe9mp6oQZIwsCgA+tINsEeASfzwhHm3y7WI8jUbji6w/35WYNfURownWYwh74xtlrbyM/YJMYiZKJhBj7utbevEYlK/4BQ3EcRdliJg86qpucAga9rtyFb/4oIRMd4uxSlNKSYo23Es5PCjrS5zrQ0joVtXCDJ5qPVxd/3bsqc3qcjxmK/sGURFSmdzqX4ptZHFU8R6Yw/X5kq3/MefYr6x+3ABJFLP3+RQUa3p4IcWBH11/lacx0jeoKIj/rYPAxXQfaZ2Ji1uCY7Zhn0roLwiO2xvC9xBaGdQqk6nj5b2ySAFByyBJ2pvgicXzS2XEdLJnpSZIIv/S9Yu1YjFrwMP9hY8yNNBFjX97DCwltfHkcWSDjXJmMoo3mBub2jUI=;lr6+HzrpMWMbNPg6tmPf/A=="
 ---

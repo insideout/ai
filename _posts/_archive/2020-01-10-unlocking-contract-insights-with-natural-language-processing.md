@@ -25,6 +25,6 @@ images:
     height: 372
     title: "Unlocking contract insights with natural language processing"
 
-secured: "ICwMjB/OQ5U+2yf2QZgQI1xQCHPJaGX2HTBzTemk5oHZJzLAtw20aOD7qlpFjNt/LLuzuR7VGD36RGoYDheVzsx7pYoWm7b+onZhYLieivCR//kyNSQO3diMS1+Ime4lf3JNmCzdXLlfcXfGxt/jKzDWZpF3ebetrHCBJQbPdPJSj4l4h0VDMmMsSv7DkmD9+CrfrJ/idBng0EKSIGvcexsE93RaPl1NnTNlxHXCxskPWUJNUrFGUYoSO20kXfLZT3S+LiiDKKxjKRQZxqZBNX2EY6t9ghwbFOkvdeGlyPA9+JzYWbDwkCE49kQRT1x+;BzzxsZg2qh6riwFIP9zBnw=="
+secured: "DjBV3al07Z5mvhS5Pspf7l/5zTKoYE0uHJCJEgDBY6LaIseKfVRPuXsjVW8wpr8BdnRaQYy4w9f9zta64ysTiYNO9fmFIG3EXu68n7ocfAe/1ACgs8a+eEmGoElPyftB+msFXy0cWXc7KqCC8r5Sfb3DQwF9Q3WZ+eWFR2z6PZwmAdiIqrCftj63HcfAS/zuRnnVktFWx6T0+VZ1MASYexwevOYZfXIJwAKdRrSLHPftNCJM6bs4CrGk/CNF3sAuLk/+O/SnJVG9PZnjZjgaGPmHFGYETXdwqYZV7ihOFYrso3sHgqt9NAExVM4CvWdj;E+XHcvzjnbUCMZLHhWphqg=="
 ---
 

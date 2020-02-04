@@ -18,48 +18,65 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Facebook releases low-latency online speech recognition framework"
-    excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
-    publishedDateTime: 2020-01-13T17:32:00Z
-    webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
-    ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
+  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
+    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
+    publishedDateTime: 2020-01-09T14:42:00Z
+    webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
+    ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
+      - url: "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8="
         width: 1200
-        height: 600
-  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
-    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
-    publishedDateTime: 2020-01-16T00:00:00Z
-    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+        height: 630
+  - title: "Speech recognition and voice commands for your site"
+    excerpt: "Many of the smart devices we use every day support speech recognition technology. We use the voice to search for information, buy goods, even manage other devices. The tech giants use voice search ..."
+    publishedDateTime: 2020-01-04T10:34:00Z
+    webUrl: "https://medium.com/voice-tech-podcast/speech-recognition-and-voice-commands-for-your-site-e1931d60ba03"
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 54
+      name: Medium
+      domain: medium.com
+    quality: 69
     images:
-      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-        width: 849
-        height: 565
-  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
-    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
-    publishedDateTime: 2020-01-13T11:55:00Z
-    webUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
+      - url: "https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg"
+        width: 1200
+        height: 564
+  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
+    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object ..."
+    publishedDateTime: 2020-01-09T20:49:00Z
+    webUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
+    ampWebUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
     type: article
     provider:
-      name: Pepsi
-      domain: mobilemarketingmagazine.com
-    quality: 36
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
-        width: 620
-        height: 500
+      - url: "https://media2.govtech.com/images/shutterstock_1112561213.jpg"
+        width: 940
+        height: 627
+  - title: "What is Voice Recognition"
+    excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
+    publishedDateTime: 2020-01-11T11:41:00Z
+    webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
+    ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
+    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 44
+    images:
+      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
+        width: 600
+        height: 271
 
-secured: "ZRGtqbbDh1z02eLLesmD9BiZvSnpF/2jHrB2Uh2ddRe1Dna217R9kLMDF2zUYUPBCREV7yT2h6cd6DF0IHOy8f3eUulWoaX+l6oyY/LCKkPww7e8dcOJoOJcytLFqeSeoPEDnH0kqDrPCQ0SX9v//FGPIih0SrsEEroYGztXFZIrdCIsr8LbfC75mmfmfAfQTxbfUd9F2vz9XwViNR20xN8E9y+gqkmk60TBxFGm7/ypw6q/T+sOISspo7gP3Le0qcVxLLywUJIZzPA8GqwoBq9vMHuLHjEqxTyuvnsoZm86aRzlZh7nj6iXbpROF96n;DLA1pslvAsXuH7RC0mNSag=="
+secured: "wp80L/2cBnyK7jaRM36/8aOtXhsVJ5RnWo5mSt0X6ngqtOreqGerfBN5C7vBH7/eGbTIdBSXbAvsg5x2XZFOoIz0HzW+lwmSRD3fRSdg+kq0sx3LZMrl6kBd4/lG8/L7GYMN2N1VSwkkcnKVKOgxsvGyDAkzJqUkTyKlbNFnnRtxRepy66w5N6zFlZF+4UoNW9rMiX1gYBByM1Vx31JJUNcddKxl8PdiVnXKcjaD0In/sCz5q+IueWnsQ5vUANc5hLgp+CZl0ey4yjcPXzFEa+RgeV9zJNm88Lii3f54R4l4ZD5RUR0mA3aBVIa8fUw5;tW9PtHlW2Ygwq65Qrmkdww=="
 ---
 

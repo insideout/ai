@@ -48,6 +48,21 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
         width: 1119
         height: 630
+  - title: "Lawsuit filed against facial recognition company CPD works with"
+    excerpt: "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ..."
+    publishedDateTime: 2020-02-04T00:24:00Z
+    webUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/"
+    ampWebUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
+    type: article
+    provider:
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 74
+    images:
+      - url: "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200"
+        width: 1200
+        height: 675
   - title: "Chicago police: Facial recognition adds “jet fuel” for criminal investigations"
     excerpt: "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ..."
     publishedDateTime: 2020-01-31T20:56:00Z
@@ -145,6 +160,21 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "N.J. lawmakers look at limiting cops’ use of controversial facial-recognition technology"
+    excerpt: "New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill (A1210) in front of the the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
+    publishedDateTime: 2020-02-04T00:13:00Z
+    webUrl: "https://www.nj.com/news/2020/02/nj-lawmakers-look-at-limiting-cops-use-of-controversial-facial-recognition-technology.html"
+    ampWebUrl: "https://www.nj.com/news/2020/02/nj-lawmakers-look-at-limiting-cops-use-of-controversial-facial-recognition-technology.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/02/nj-lawmakers-look-at-limiting-cops-use-of-controversial-facial-recognition-technology.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 35
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/3DZQJJU2W5HO3A2HL54XPTADBU.jpg"
+        width: 1000
+        height: 667
   - title: "Doha Bank integrates facial, voice recognition into app"
     excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
     publishedDateTime: 2020-02-02T19:02:00Z

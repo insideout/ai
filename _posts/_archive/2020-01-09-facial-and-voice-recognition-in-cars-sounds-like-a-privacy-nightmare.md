@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -69,7 +69,16 @@ related:
       - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
         width: 600
         height: 271
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
+    publishedDateTime: 2020-01-16T03:17:00Z
+    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "E1Jdpld+yTT2BnVxBYYVQUUIK6rZ2YeanJxuNC/k0aENqnaAXfQ2sDo2OU2OYvB0vZ2Sdo6pkC0ju7au2W4GK1ug1w7V9rBSKwH8ZHI1lUL/PgJPDy8u7E5f8nPIHlQcksrCYL0bVvE+4ENExAW1y90UZWS5A0GMHCL3n76OdFRAd51TZORJVn+8prClH5FNP1yRL6111+A06tWrvAamu5TxPTFPzwjJD4OL52+9WI7Og9stM+qANVVT/uV55GsgLtbXMNr/e3XxHz4BMZwMYtGx9r5cB7m97h7tgZDGHYWMCclEKJ+WgZEfvKBUWu27;ehtCXez/dKLyDMF1w/ezPQ=="
+secured: "p48J+ratdA2pYwhdkO9t+U9wV0ugb1kmKc1PY1SVcundZpoG5hF6HkPQrv0dmZE+Af2wGhNPo++ybiEZqOLafW/MmnMKIeNk0bnwXVhM0NaUbT8/PbH7YTr0i2RYQ+WB0d/dhgWJAuyQ0Kx6t4VpWr88NmapHunKRDSBoofdUK0sZsHQbubpAok5IOYMOhWr05a29n5kkBRRnUqiEga/9CsDZGP8Hhko1VAO+moRkt3HFVY4KFu/R3hOOGvp2DyD+13rvf9bymFe7LMt6n+lj4ffvrwkvw9dvj9VpRYpckDet83zaHg9BxEUjiD7sikc;JbBeQ7beYcrMrq2LcJ6TDw=="
 ---
 

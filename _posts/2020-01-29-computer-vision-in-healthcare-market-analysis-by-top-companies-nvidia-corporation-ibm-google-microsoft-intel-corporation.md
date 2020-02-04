@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) in Automotive Market Share – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "MarketStudyReport.com present the report on global Artificial Intelligence (AI) in Automotive Market report evaluates the growth trends of the industry through historical study and estimates future prospects based on comprehensive research."
+    publishedDateTime: 2020-02-03T12:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-share-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Automatic Content Recognition Market 2020: Report to Share Key Aspects of The Industry with The Details of Influence Factors- 2025"
     excerpt: "Avail a detailed research offering a comprehensive analysis of the developments, growth outlook, driving factors, and key players of the Automatic Content Recognition market in the latest research report added by Big Market Research."
     publishedDateTime: 2020-01-23T14:08:00Z

@@ -45,6 +45,21 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg"
         width: 1200
         height: 800
+  - title: "Government’s AI adviser calls for tougher regulation of social media"
+    excerpt: "New regulations on social media companies should be tightened to include more transparency around how firms target users online, an independent advisory board on artificial intelligence (AI ... The CDEI has published three sets of recommendations as part of its research, urging the Government to hold any companies which use online targeting ..."
+    publishedDateTime: 2020-02-04T00:05:00Z
+    webUrl: "https://www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/amp/"
+    type: article
+    provider:
+      name: Evening Express
+      domain: eveningexpress.co.uk
+    quality: 59
+    images:
+      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2020/02/2.48304518-496x372.jpg"
+        width: 496
+        height: 372
   - title: "Google CEO calls for regulation of artificial intelligence"
     excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
     publishedDateTime: 2020-01-29T16:49:00Z

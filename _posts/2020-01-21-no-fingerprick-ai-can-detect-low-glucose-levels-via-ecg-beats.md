@@ -33,15 +33,21 @@ related:
       - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
         width: 675
         height: 365
-  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-13T16:53:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/01/200113111156.htm"
+  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
+    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
+    publishedDateTime: 2020-01-14T13:07:00Z
+    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: Medindia
+      domain: medindia.net
+    quality: 53
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg"
+        width: 1200
+        height: 1000
 
 secured: "UMm/dYy7KNk2iaRdlpyRvUNwtwDxqpasX3gY5Hqs9yLwRS3uciSaDl1RwU1U20B+kFb/iLy/n16mZVH84VqATTzw82qq38+rdLCEAx6xbz7+iuf3QHShjLPEI1sLOAvWkSdPtTihqAGB7t8BNihaV/+dk7kUgT/z15NjnqqOXc6fS2EhrPUrOHrDqeBNtT1jl3AyCU75SZoZZy19X8T0TF1IhTFM0OG6O+x1usUcQVid6PVjUIoLktF0drOM4vUFI8D7fDXWWVLySYcVi0N2glkguNSGkZAMOWDehp/0tyqdMKRzsv509nt8crOiO1mk51rqhyx6/wKuSTyh2SeQC7/buoYpDIuBiXQCdgHMqVUJEtoC86b4A08nQLDkJwiaxKM0iBtG6TJct94szumzSYkS6YmJpSm3LNICxSae41mx5Ypv62vV1hUnoRQQnqk3b7vrApFSwEiSS8DhbyTysw==;Ihq52X2RXrTS69xHCqkTFg=="
 ---

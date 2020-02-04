@@ -55,6 +55,21 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
         width: 1200
         height: 800
+  - title: "Government’s AI adviser calls for tougher regulation of social media"
+    excerpt: "New regulations on social media companies should be tightened to include more transparency around how firms target users online, an independent advisory board on artificial intelligence (AI ... The CDEI has published three sets of recommendations as part of its research, urging the Government to hold any companies which use online targeting ..."
+    publishedDateTime: 2020-02-04T00:05:00Z
+    webUrl: "https://www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/amp/"
+    type: article
+    provider:
+      name: Evening Express
+      domain: eveningexpress.co.uk
+    quality: 59
+    images:
+      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2020/02/2.48304518-496x372.jpg"
+        width: 496
+        height: 372
   - title: "Electricity Can’t Hold a Candle to Artificial Intelligence in Significance, Says Alphabet CEO"
     excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. “AI is one of the most profound things we’re working on as humanity. It’s more profound than fire or electricity,” Alphabet Inc. CEO Sundar Pichai said in an interview at the World Economic Forum in Davos ..."
     publishedDateTime: 2020-01-29T01:16:00Z

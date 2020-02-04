@@ -41,6 +41,19 @@ related:
       - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
         width: 600
         height: 246
+  - title: "Moreover, Asia-Pacific is expected to grow with the highest CAGR of 60.4% over the forecast period of 2019-2025"
+    excerpt: "As of 2016, over 30 companies are applying AI into the creation of driverless cars. A few companies involved with AI comprise Tesla, Google, and Apple. Artificial intelligence is assisting doctors."
+    publishedDateTime: 2020-01-14T18:14:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/moreover-asia-pacific-is-expected-to-grow-with-the-highest-cagr-of-60-4-over-the-forecast-period-of-2019-2025--300986492.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
 
 secured: "8P5pjjeJxWgXdOBUmuQljmPRlIWfHDH2zxD8uYuw4Khr3o/Llmmcjt5njaMUP5tuppp4udl57TReCwC79u8hbIFBRLqbNW7IAflbN4V00RAmJZPj25cRaPlxJnpItstSc/tRPHNbMAg92SWJ+j+1le26G4t0G/CQL9W+UJ/LLqzUOAD+xmLZOwEVUIyhTHHsKVLxeufT0P1lYB8M3KQW9iZqb05647HaXlHDkiwNpQ/pHM7OXYR2afHz7bi+h3GG+110WydQadW2+rZeMlPD4qmCOUn54Nl46uY1FUy7fEU=;37Sn2uc+/cUL6aWwBHxxvg=="
 ---

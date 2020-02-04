@@ -80,19 +80,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Automotive Artificial Intelligence Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026"
-    excerpt: "Automotive Artificial Intelligence Market 2020 Wiseguyreports.Com Adds \"Automotive Artificial Intelligence-"
-    publishedDateTime: 2020-01-20T08:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026-2020-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Cognitive Computing Technology Market 2020 – 2023: Business Trends, Emerging Technologies, Size, Global Segments and industry Profit Growth"
     excerpt: "The study indicates that by technology segment, natural language processing is the most prominent technology used in the cognitive computing industry owing to its integral capacity to process natural language interactions. At present, automated reasoning and information recovery technologies have limited applications thereby, restricting the ..."
     publishedDateTime: 2020-01-22T11:20:00Z

@@ -50,6 +50,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/5b070d85a92bfd1d8fa7ba1c_sharing_c5g69e6MSr5iT0iGaltGfR_upscaled_image_x4-1-e1580223042930.png?fit=1200%2C733&strip=all"
         width: 1200
         height: 733
+  - title: "Microsoft Partners With Genesys, Leverages Cloud Computing to Improve Customer Experience"
+    excerpt: "Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year."
+    publishedDateTime: 2020-01-27T06:32:00Z
+    webUrl: "https://www.martechadvisor.com/news/cloud-integration/microsoft-partners-with-genesys-leverages-cloud-computing-to-improve-customer-experience/"
+    ampWebUrl: "https://www.martechadvisor.com/news/cloud-integration/microsoft-partners-with-genesys-leverages-cloud-computing-to-improve-customer-experience/"
+    cdnAmpWebUrl: "https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/cloud-integration/microsoft-partners-with-genesys-leverages-cloud-computing-to-improve-customer-experience/"
+    type: article
+    provider:
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 50
+    images:
+      - url: "https://images.martechadvisor.com/images/uploads/content_images/microsoft_partners_with_genesys_leverages_cloud_computing_to_improve_customer_experience_5e2e8262cd225.jpg"
+        width: 786
+        height: 524
   - title: "Conversational AI—A New Wave Of Chat-Enabled Customer Service"
     excerpt: "Anyone who has tried using Google Translate on domain-specific documents can attest to just how ... Proprietary algorithms, like Automatic Semantic Understanding (ASU), can greatly enhance the language understanding capabilities of conversational AI. ASU gives virtual agents a competitive edge in understanding the underlying intent of a ..."
     publishedDateTime: 2020-01-26T03:20:00Z

@@ -27,6 +27,6 @@ images:
     height: 419
     title: "Elon Musk says Tesla’s early access group will get Full Self Driving ‘soon’"
 
-secured: "TRJfGKzemrEXN8vuvA1hfpBDF3kefXQDTVqjtLZ6L7DrM2HbShXSjBdb11S6/EAldomJFwB1caVwHHxJnDWvzgoVcEnr0ix/C0jOuSrNfD14bmq+PyZB7XgP4jN4g66rz0NdlCSTpKZq4PPABNxeT11uleyUZ/FGSk/JWJE9MOMX0heXIyYWzpwj1mwXAddVt/Vc76Z1YXw+LQk3PJ/bX5Qfd3GD8sD671HeFXKvs8sBK4v+PNJUO9WbyDcNbomxnqPuOUzDFZfIfsmSxoN36GTK1MvIZbqlbYvlgFiM23qmBfqurT9i0pKWtq3a+Y8+;GGsHNZ1ZB9xRWfmFGEY+MQ=="
+secured: "DY2M8g3e/Z6fpL0TDEjJJC4G9I1Q7Bg6yplPfsrX989PsXEppmFIRyS/Wj3QFdnYHmrEB//cfTBIFMyKxORTczZ0lKb9aDkCd8yln7wz/b+fAwF3jO/OvVG0KmPkHZ0URBkSIreu3okAhQwQrdOegL5lCEdMjHNGYG7uOF/AGMrEEVbPn6RL666/C70tapBxeGgoytow0rZicX6zC8zpZwF2EVRgnLoGJLdqXsPIrJEOFl0PZoat0cvN8wp9H/Lk12yTHT6O0Qwov+wVxZSmHJDq/xiuYkx2jaNNi74DmX1fjiewbw4l2bbkvCJfOGeo;xMAJQ3bbMXZnaHf4LekHgQ=="
 ---
 
