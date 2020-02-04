@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Cloud computing in 2020: More hybrid customers and massive growth in China"
 
-secured: "5PLaSffm3BC0Du3JulcQVC8q5pSQcoaeS4Z4PFDGLvJSkbjJaiPO3Owq8YqKq5Snh/k9jtbAJkbLCAxt332tpnUFhCxX7Q0LFOJOA+dNYYp756ZJ3UwRdAWH1Djm0ppGMfdHzDMA1l+m0vgTvvp7b2GldbCfXM3FVVLco2mkzkqoUOM6tiXf5pZgIlRBmsQUqXUyYJA7kLdmYevqS2yVSWvxa9lKFR4gYYIvreIqD6ae9xkbmKrlMNkYBUSZHBVAwCx8/Ag2vDrV/aBW8QVd+AqPv7UwP98GUN5VIqzKhR/KBh0tdAJHjOkQdhfOfTaS;uE1J3ZBjid0LTKGNWmlnjQ=="
+secured: "gnbLDfUqr4vorPlbCQi2LSultpuG5+vgE7lgJsuD8Hfs7tqsqSjYVLXVQgkf7Lo+B3GHoq6kD/u62Rlsrc89DIWcJMp5pyFZJqqiCmYt/aCQdriNCdCQgqMA7lcFZ88cqmJ1f/EE7veX756+bKdOG9HqH5n8EBhCYyuqBbmc7xajl0Much8BxtSwT7w3oEsEoqmF93Vmsra86VrG0d7qxx/M5VojvjdK8JKPTWpHJut2KhQ/dra9GWERUpX0Zcw6d87wAPXrHK7kWdw7xAxNeyT9yJ6Y6uCaRN4QrINt12s6buA0DKYpVPA+LwHlqFrB;31rW3M5f58yTNjtWzQaOUA=="
 ---
 

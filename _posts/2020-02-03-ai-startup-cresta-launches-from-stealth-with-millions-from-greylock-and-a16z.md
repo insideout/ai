@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-st
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,19 @@ related:
       - url: "https://mma.prnewswire.com/media/1083489/Covariant_Logo.jpg?p=facebook"
         width: 2695
         height: 1414
+  - title: "Artificial Intelligence Startup Labelbox Closes $25 Million in Series B Funding"
+    excerpt: "Sharma saw the opportunity to start Labelbox while working at Planet Labs ... “It seemed crazy to us that data scientists were building core infrastructure in order to get started with AI.” Sharma and his Labelbox co-founders realized Planet Labs wasn’t alone. Every company building supervised learning models faced the same problem."
+    publishedDateTime: 2020-02-04T12:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-startup-labelbox-closes-25-million-series-/2020/02/04/9091486.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "pr764B0pLO+yrgMcifph9xS+5kDZDdIv8+HIqhiw0gMpVaTIEskVEmNpzEMTFEjpsY6H7esEegpKfPRO2cyTPih0pKNMlwqWNTfLss8qRDjfpWKj23MO9FriXtaLmqLZ+hZXUjmfVAogAq8Bc1cI8ezPA9ffd5U9LyFQpt1yfMy/5wr0sdRhClph+McuARwG7cl8FFa2f8wzv/wjK/PGO1D1ukA93yooRn9bxWKOFxemSbXCjLb/GOaFztvXlInNlz1UPzusRSwL7EBCFyedHPihjxKymi5LIkxXgkm/MfShRsv1JR4qIKAyG6kwEjmiXXeDD82WbY7C3B+3WP4PwHGKUulgUQJOduVuw7yDNKf4W8FWuv6jOeoNphOJ94+fgGEGf6h7ErcZF1/S4pDP+/XIbzfwqb0RD7HcrK4xdb0DeZ/QKfaYzNwIfCZgHdK0USCx/xVAg+koXx9xCgf9QJUm+2kaU3GRI2XxmnUj92E=;2DOZ26obef6qRnLUoW7EgA=="
 ---

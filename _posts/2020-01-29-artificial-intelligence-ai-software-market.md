@@ -17,6 +17,15 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence (AI) in Security Market"
+    excerpt: "Global Artificial Intelligence (AI) in Security Market would thus note a steady growth over the forecast period of 2020 - 2025. The robust CAGR (Compound Annual Rate Growth) will chart an upward growth curve and create lucrative growth opportunities in the global Artificial Intelligence (AI) in Security Market. In, turn, this will lead to ..."
+    publishedDateTime: 2020-02-04T13:02:00Z
+    webUrl: "https://www.openpr.com/news/1918649/artificial-intelligence-ai-in-security-market-2020-2025"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
   - title: "Neural Network Software Markets, 2025"
     excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"Neural Network Software Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Neural Network Software Market was valued at USD 8."
     publishedDateTime: 2020-01-31T11:16:00Z

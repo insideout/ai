@@ -51,6 +51,6 @@ related:
       domain: medicaldialogues.in
     quality: 19
 
-secured: "0KSrABdYXVGSuNAEH0bhcCHU8J8a9tQIIVPpkH+CgfQgvaatKI0UYW0jGRk+KgkFNWsELnewUruDxghmyuZGPfSeoolCTo89WjSHjbcNRhBK1lqqtnBQSKd+7garRuS9EdrpT3tH0vImA+IAF+GwtQBGRUA3VH1MVk2Uoo+GGlEs+kUW1h8sXlH2jYE3fh2pRk0kgN9QxuCb5hGEtK0V1dKrXafyd2avAr1sN05ZTr6TnWvWnkMy6ZMdS4eAYjzcWKRzJhmsc0IwLe5YEK3ohEMqhiP+U7vgSNVY1K92wd0fqGdKpfWspZ9LTp3TVqeo;0CTWRRF0g/2VQ/xd8xaaTg=="
+secured: "8Yo0lkwdQ7IGVo/stnkzRtj3ESdPMNld1nrEbQNXzwEjm0i1RLbBd0fgJUs6b3Di87bpg+AWkZrLlsRPYTB5A4Sece3MG8rrdnIRs/vNhmxvPwEIZ06YMG/v1PeUjbkNSa4xZ6NNLThisWbjHi3MvRD3zKT+8kUT7KtHEvIaVKbrFm7gDXRKgVA7WjQGo/KbQMa0DdvDaXV+w8oMeABOAecMFWKF4exGlaJGiCC2Iti3Gz19ZSG9jjnrwarKIcFY5PWDnnLa3MT9K/g/z4c0nHIdtSNng/YXNkxsRR31uM2GGe5Uem9xSHIT+rJ5cTP6;NTOA3uBfcBWZUCNa8ksySw=="
 ---
 

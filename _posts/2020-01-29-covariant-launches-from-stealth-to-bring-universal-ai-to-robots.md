@@ -39,6 +39,19 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/CrestaFounders.jpeg?w=1024"
         width: 1024
         height: 767
+  - title: "Artificial Intelligence Startup Labelbox Closes $25 Million in Series B Funding"
+    excerpt: "Sharma saw the opportunity to start Labelbox while working at Planet Labs ... “It seemed crazy to us that data scientists were building core infrastructure in order to get started with AI.” Sharma and his Labelbox co-founders realized Planet Labs wasn’t alone. Every company building supervised learning models faced the same problem."
+    publishedDateTime: 2020-02-04T12:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-startup-labelbox-closes-25-million-series-/2020/02/04/9091486.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "6X4f0KL13E23xuvmhjU4njQddRI1A6YqKt1r5/QE1q4p+JtYs/8LP6KF2TuQGnhhN4mrHZ5SpIy/oEd8ymS77vf+2wlJHvQUOI4kqWGo17g61Ep5WpO2/BZpMD5tKNWz3mOHtytaM2tDeYqGiToDDGvfr0lg33IU/ePsS8SsRMU0nS4eyOHBK1z5H8vQEg34/SFTNVUFKLVhoRG5671Ckp65+2ZRS21Bf2qP/FXZz3k7JOfGsZgRabP2QnVjyvZ0cYeZ9sADWbSYeWQJlSmWiCY0votiEk+wMyrZvps4GITywTvhSxbEZ4g54zVd0MgtfuxihdWFq42bQXV1W8rd/lzhmg3xdoZaIbi5wpgI/mga6UURfKbP8DjX4DOsdTOnjaAlP5eN5E10cQP06lw+0Fx3wdSKbjg5OQgesivD3IB775pUr6dpTZSG7QAZ7rTfpbAFt5CMC2at5LdHrUPpbtBbwzIX6gHfUpqRH0eMJAg=;0SwpF+YYn/egZaklnPXuNg=="
 ---

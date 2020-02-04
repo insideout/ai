@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) in the Global Freight Transportation Industry, Forecast to 2025"
+    excerpt: "/PRNewswire/ -- This study analyses the key trends and applications of artificial intelligence in the freight transportation industry by mode of transport"
+    publishedDateTime: 2020-02-04T12:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-the-global-freight-transportation-industry-forecast-to-2025-300998307.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 41
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
   - title: "Artificial Intelligence In Military Market: Size, Production, Prospects, Consumption, Cost Structure, Competitive Landscape 2019-2024"
     excerpt: "The Global Artificial Intelligence In Military Market report provides information by Key Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share,"
     publishedDateTime: 2020-02-03T08:57:00Z

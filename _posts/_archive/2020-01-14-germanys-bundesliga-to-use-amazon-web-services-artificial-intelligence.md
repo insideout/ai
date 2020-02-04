@@ -2,39 +2,39 @@
 category: news
 title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
 excerpt: "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ..."
-publishedDateTime: 2020-01-14T14:41:00Z
-webUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14"
-ampWebUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
+publishedDateTime: 2020-01-14T14:43:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/germany-s-bundesliga-to-use-amazon-web-services-artificial-intelligence-1028816437"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
 type: article
-quality: 103
-heat: 123
+quality: 83
+heat: 103
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
-    width: 1024
-    height: 512
-    title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
-
 related:
   - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
     excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific ..."
-    publishedDateTime: 2020-01-13T13:28:00Z
-    webUrl: "https://www.oaoa.com/news/business/article_bff64e43-c5a2-5acc-8ac2-6ada0e8d7d11.html"
+    publishedDateTime: 2020-01-13T13:00:00Z
+    webUrl: "https://www.wallstreet-online.de/nachricht/12054989-bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience"
+    ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/12054989-bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience"
+    cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/12054989-bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 17
+      name: wallstreet online
+      domain: wallstreet-online.de
+    quality: 37
   - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
     excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 ..."
     publishedDateTime: 2020-01-13T15:16:00Z
@@ -45,6 +45,6 @@ related:
       domain: telecompaper.com
     quality: 14
 
-secured: "YbbcqwGMxLu3umMbZ/j3vMPNN4gBILXtIjrpfvYB+BrDBC8rHGIrvMCxizvgeZVpItbT1EpM52hpRHcmisjoileGJSbjprljiCWSFVCjvhMed/bqCiPrUI3jSy73ANoPPqp6DobW6DAoRW8y68QWnOKEzmZh4BXiMGVQs+OB49GXrA8uHvxRWeSZqROiSQM66WWgy/qGZXjeGOxTypSraeSUXrbKQzfpkLvJiRgoXn0goAS4nt66QDaPGZfwTspxIfXIo/AzPnJI/yN1ZD3TQxS9pu4wv4SwFkxKgG62xnD5BskScQC/SyX0MRuBneFn;uYlWFZQrwktZk2fzDUAFQQ=="
+secured: "1e6E1SPq4MmrC11SXyvtbkGjH16HpeN/Lwm0sUNGCCeI0y4DbzIfKzripAh6D1LKtGCr2mFx2NIxAvZ0mCVZkSbBxTYo4HM34wJ9O6Y1r89jd6PL3X59lZQKf5TmuQ/gnth+ZTpsB4VfcDxMoBBqH2shrmODRBun+I3vtRvbGxPx+629AyvT00dqQp90akLx0GWc0XS4n9KmHfHW1kjsaUoAKCakCMOAo1Utt6rxUpS1hD6Uz+lEMw3HBVQnfrLtiSSjk+fSeKOaGwrgQlW75v+/gGUl/XemtK+CnWg8XVZCclAfATofb58k16+o1fPp;OfXvJvWRRPFw9Cgf0o9d/w=="
 ---
 

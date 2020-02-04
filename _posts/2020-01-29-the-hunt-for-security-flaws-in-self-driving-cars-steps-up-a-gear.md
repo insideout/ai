@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-hunt-for-security-flaws
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,19 @@ related:
       name: Marietta Daily Journal
       domain: mdjonline.com
     quality: 24
+  - title: "BGU developing system to stop self-driving cars being fooled"
+    excerpt: "In a concerning phenomena, researchers at Ben-Gurion University (BGU) Cyber Security Research Center have found that a phantom image projected on the road in front of a semi-autonomous vehicle can cause its autopilot to break suddenly. This could endanger the lives of drivers and passengers alike. In a statement released Tuesday by BGU, the ..."
+    publishedDateTime: 2020-02-04T13:36:00Z
+    webUrl: "https://www.jpost.com/Jpost-Tech/BGU-developing-system-to-stop-self-driving-cars-being-fooled-616492"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 24
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
+        width: 822
+        height: 537
 
 secured: "SlUt5nCd0vkoxQvW8b1QzRWXm1deptGp8MnkrI/Xhf4zQXiViJpXNZaBS8UmYAvOUsvUxikpPxDwAZ5ZwvcKwVfpXXX77b9S2FUMQoNn5YDA05bLUJMxREEq5/xipCqAfauZhdih92UO6dL+E0WJNMYD+wQLussvSJnT6uP6LPAv3cl5LpVtWc3biYVCQTSKDUX6NuJ/rgFo23NvqYADRyeboLVYCFd+DmZdoJr5VZDbK8x9VYMlbj8Ia0UFwjSBkm/BoRT8isSoXKw5zcgUcuyChLy5V/VVF2SYpsPnQWMQ61W2VFIYmxuul5pnWk09fAkcBHQW8ovHrLcJdCIztuEoUcC5wsSt3XueZtVQqVzeYmoVuEhl6hbMQgWRdK7m1bNV+skWjudM4XEjWSVC/cSmvW6poSlmxUDXx96nnY0LK+GeKv7pfoXQMN7sVPj/XtuCr1QOTn3xaN40CEiSCM7A3HZPPvLfZd/9jw8PqPk=;D3WIKfFBf5kmvLQAlGfzRQ=="
 ---

@@ -41,20 +41,7 @@ related:
       - url: "https://i.guim.co.uk/img/media/7ee6487d302dd944c3802483f30864c086cffca3/0_230_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=39d22ae526042181ad95e421176c5f95"
         width: 600
         height: 360
-  - title: "UK's AI advisor: online profiling needs regulation"
-    excerpt: "... by the UK government's advisory body on artificial intelligence (AI) ethics on Tuesday. New rules should also request the creation of publicly-accessible archives for 'high-risk' adverts, such as political adverts, and encourage long-term wholesale reform of online targeting, the Centre for Data Ethics and Innovation (CDEI) suggested."
-    publishedDateTime: 2020-02-04T11:25:00Z
-    webUrl: "https://euobserver.com/tickers/147356"
-    type: article
-    provider:
-      name: EUobserver
-      domain: euobserver.com
-    quality: 39
-    images:
-      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg"
-        width: 480
-        height: 270
 
-secured: "fn1mEUmwqe+IrGwH1MDEKNPt74D3Gv+Ad2h8NYOo6DxfaMswLyZR4Ihn9/ht051GZosTs88v4dLh5RXewaw3RmVQ7fIQK1HEJFZUbMpXT45ApAutuV6cAOM7/MZy74+0RDzmwWWrcSI6PByzabplzh/PGCer3iKnxSYEfBEG1dMAevFWDqynr1dNYUp1nS7uptZwbaqtZpw1kk2t2qbKtoOUpi/Eu+FP/WLVGfAtXQPmDLj8eay+qWGku5c5E20l+DjfWH6A5+GgwxsIGDEL+bSkiKeMsp1XwKz9O9KzQ6vLrSSOt0psiN6l0q2XtJ7m;gwuC7l2OsBvu/QjtPkBHxQ=="
+secured: "Hhgbzm/pRIMGPYM1+TgdF3fXL64k4z37Aoa7EPEwymXSAUkAJHVjJ08U9YqUpJDeqNZ1WsHUhi0sO11RNLiao1+0sOa5FieDUuKfmOS6Vvbp+avrF0ERCH86GooX+IwISLITXFvT6Nsb7VyOqmjKtDC+uRoC03XwbxYDUQ1AGsWejD/exMcl+k5KSl3mockWfu+rinHaIIF2oRNIC9rLCNezOzEiyGlerjmENu70SrsVGozXfscMgOTo3cNAv5PWVDzfzHaB33RF9p1BO4EgVH/toZ4EkdEOsNU/A3Oe59F3SxtuRaAHos1K0pmQNYilV7wWtaxKM2jgo7RaJtKKxFigndp8VR16cUolbBK613x5H3hmtBFJhhSFpgHcuxkULSXE0xV8BeKfdAseNWCfpZOl7muBYCvhBs/m3M8uQ9/Qd4OJ0sClmyceu9UkfJI21xXovJrSnAvOTmBBrr0hi5zZnFnQwZsnOA48JdPxhoI=;zpfwSe2I9SMpIJKReqEiYw=="
 ---
 

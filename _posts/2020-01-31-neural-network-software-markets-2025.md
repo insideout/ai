@@ -27,6 +27,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
+  - title: "Artificial Intelligence (AI) in Security Market"
+    excerpt: "Global Artificial Intelligence (AI) in Security Market would thus note a steady growth over the forecast period of 2020 - 2025. The robust CAGR (Compound Annual Rate Growth) will chart an upward growth curve and create lucrative growth opportunities in the global Artificial Intelligence (AI) in Security Market. In, turn, this will lead to ..."
+    publishedDateTime: 2020-02-04T13:02:00Z
+    webUrl: "https://www.openpr.com/news/1918649/artificial-intelligence-ai-in-security-market-2020-2025"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
 
 secured: "gfZ8dO9OGtlKbvoee9ct7/c8H6KIXyf4OSu84IwviGKU/ZUlE7yGk+rmzKC2vZYpf3X/IPbWaiuLfeL7oYNYwixJbXWQcPPP3ydO5APZ2raUZRjqiQ5jTl7QhLaAVAs8GMNRd6llhShe3hI/r2Ef9N3kt5G8AILQ+ULBsNeijYDdYV4/83qYhvsvW7ik8GIEV1247nLwA+X1t9VHHIwCsBVKEOJxhmMnEV4fB5xRkxqPKNUKYLMSyPyaGuXFIGmiytr4vK62trR58XRiaHZqvfd/WA+FsZ2kvjfqRI175fzyhYKIKwHyNkAgNHbRChHz;tZxUzMTvahTm9E2CaovTKw=="
 ---

@@ -25,6 +25,6 @@ images:
     height: 400
     title: "How Fractal’s Trial Run uses AWS to power AI-based decision-making"
 
-secured: "ZZQyf7/BjyDsvtnC9u1Ey3pzo6+oKSx6Fw6gvkj4r3RwxaqX9bvq240EiR6FrrhTqYd5cKvdtf1dCwbE2f/jtaC9SZaxeP3nz+zvO2PV1XelcSdnAjhDIKGU6e6Gzjkm9sle0N905hUBsWN/EtasX87t6ovi1rCc9pwvKHGzPyH7neXbPPN9IWPDcrbGANCoUfiJ2GmcPntEwp+JBnvq4Ld5DtATkoLTZMADn+wqdbHQI4ySGZErz8GpI7/0boenIVzsHEz8kxzbz5J1zmluFwj2KcPVKj4cuSEexZ/sfSCVAiiqkMaiommicgioM5kB;R5j2Ohy7/V0iUgu0OfQsDw=="
+secured: "cFGxQCFNrVPRdpolvu6ZFcxQCBT33ZKscmrew12HftD7i08H2wz9JD2xgP11CoVgukAwc69RLk+d/q+HjCurzshlxqxKMezawBxEhy/a/I00CZ5kIv6CslrYO9lSb9yG7bovD7R/c5PwATfWgP6U1YHMhTcfsdfvxuVYvMGEyjbh1dVg6Rcm7CdN/UTyX1hAuOeBOjfM7n7ge8FIEBvFQP78inf9FjHQh0rcZEqHBMgYH+GJjJ0DVFJja7FK/NGE9csPoBb9lyV/noq20BvWc3472219I9gQGtkEMMZ10mBjjB+b2t2OX1dRWMUsPHYa;AF3IHTVLeX0CdXgpma6JHw=="
 ---
 

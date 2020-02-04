@@ -24,36 +24,21 @@ images:
     title: "UK's AI advisor: online profiling needs regulation"
 
 related:
-  - title: "Algorithms on social media need regulation, says UK's AI adviser"
-    excerpt: "Report also urges government to consider making firms such as Facebook share their data"
-    publishedDateTime: 2020-02-04T06:30:00Z
-    webUrl: "https://www.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook"
-    ampWebUrl: "https://amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook"
+  - title: "Online targeting needs tighter controls, UK data ethics body suggests"
+    excerpt: "A UK government advisory body on AI and data ethics has recommended tighter controls on how platform giants can use ad targeting and content personalization. Concerns about the largely unregulated eyeball-grabbing targeting tactics of online platforms — be it via serving ‘personalized content’ or ‘microtargeted ads’ to individuals or ..."
+    publishedDateTime: 2020-02-04T10:23:00Z
+    webUrl: "https://techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/"
+    ampWebUrl: "https://techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://i.guim.co.uk/img/media/7ee6487d302dd944c3802483f30864c086cffca3/0_230_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=39d22ae526042181ad95e421176c5f95"
-        width: 600
-        height: 360
-  - title: "Government’s AI adviser calls for crackdown on social media targeting"
-    excerpt: "the government’s artificial intelligence (AI) adviser has warned. A report published today by the Centre for Data Ethics and Innovation (CDEI) called for tighter regulation of online targeting systems, which use personal information about users to decide which posts, videos and adverts to show them. An analysis of public attitudes towards ..."
-    publishedDateTime: 2020-02-04T12:13:00Z
-    webUrl: "https://www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/"
-    ampWebUrl: "https://www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2020/02/1172808215.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2016/02/3115110964_142191363f_b.jpg?w=1024"
         width: 1024
-        height: 659
+        height: 768
 
 secured: "XI/btwvTv6J0WHEsIV8y/tT73ODYiDuo/IMmiqDimJofqiWjWuSQesM2hTIs4r/yQTFpDHjAxjhAaqRiVQikqWlz9laoFU3mvi4TpZqRHeEh4lO4R+AOu9x0RhRb4fG2pie/yQyOjX91Nqns+aT22qrjoJ5GIZQ5LrMRQxfqv8y3rEfVYpdxNLIpEuGzCzb4298wklgswZuN/uCHz9zGE+G3kgAm7zFQOHh1veR6exSMhHG+AJbGF63Awy7J2UsWsP2+nxOaT8ifmGmzDrv0cIWRAHAHAFNK1yQJrUtm/pVDBqfyYpM3tQuJfft3ARNL;numagbUcN+BqUf8eJiffDw=="
 ---

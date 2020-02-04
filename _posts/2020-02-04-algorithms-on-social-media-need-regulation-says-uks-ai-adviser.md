@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.theguardian.com/media/2020/feb/04/algorithms-social-medi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Guardian
@@ -41,19 +41,6 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2020/02/1172808215.jpg"
         width: 1024
         height: 659
-  - title: "UK's AI advisor: online profiling needs regulation"
-    excerpt: "... by the UK government's advisory body on artificial intelligence (AI) ethics on Tuesday. New rules should also request the creation of publicly-accessible archives for 'high-risk' adverts, such as political adverts, and encourage long-term wholesale reform of online targeting, the Centre for Data Ethics and Innovation (CDEI) suggested."
-    publishedDateTime: 2020-02-04T11:25:00Z
-    webUrl: "https://euobserver.com/tickers/147356"
-    type: article
-    provider:
-      name: EUobserver
-      domain: euobserver.com
-    quality: 39
-    images:
-      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg"
-        width: 480
-        height: 270
 
 secured: "OUOCIloDt7PcNZMc1EnexDhKF9qW//GMgpnbecKBFpGqlYZSP4SIDlOKpaojS+e584nnLKGikvxeXYYPRRSVSBBxwcZw9dXl5kK6KPbBf2ElldIGhLpOc5zDY01qP2pBTA4xrtxX7IXMqG43mCCRCGbV5egO1UI9to/6AO1Cm9MhcaVFhxfqS+XhOHLjRvk4jI6t7oQb79swlOwOOZRURNsHLqiPjOluVlyvp+onD0EoxnVlUHfYJedbkn44ec8gfe8MiC/c9GQCwTDHazVa4Pj9L88Q7fkGfYD2qa9NH0OaRfse6pPBo98aAewziRaW9eey4FzP6a/Co/jH78NpPIvfSDydVgGHJanWGKND5MGAB/JYZJh1W7mDSIfggrw781z68taDH/Gn39UodSpRsQHXRm7WOBTqW159r3pDph6yHsufcWeZnK9vPbDVum3yD0gXhaWcoue+uAQYbyheVwEJLweFejmEfPPbYWSjTos=;CMJ+mS6N+mfXg4MBxd8SlA=="
 ---

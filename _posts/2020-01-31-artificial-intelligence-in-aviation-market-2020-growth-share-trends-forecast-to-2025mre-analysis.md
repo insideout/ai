@@ -467,6 +467,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 0
+  - title: "Medical Robots Market Industry Analysis By Future Demand, Top Players, Size, Share, Opportunities, Revenue till 2026"
+    excerpt: "and Geography Forecast till 2026,\" the market is likely to grow in the coming years due to recent product innovations using concepts such as artificial intelligence (AI) and the internet of things (IoT). The report covers: o Global Medical Robots Market trends, with detailed analysis on consumer trends & manufacturer trends. o Overview on ..."
+    publishedDateTime: 2020-02-04T13:13:00Z
+    webUrl: "https://www.openpr.com/news/1918695/medical-robots-market-industry-analysis-by-future-demand-top"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "Z4/+e0B9Y5ZL3sdZ0LqY9b6WnkOFfAUkIffSL0Tdih4o6nnGbSRSPiTFra9ccCl1r7Ck3H4bOXqkh1ArBI/yVJ6jFRSpcrhb7P7H64RwOh3rx5akEtqnUttx8R+aczyYPmVI1FkWVBjoBh9y0sfZmV/EzyZZcr4HqY6jyDwtLorLNmhkuv45WT6VVj1T1O30bhonuN/QUT735SuhStEx3booPkRQ2BMqkiZNmB2fIlfeM8LlwP/XO3+wf7qOeSuIez3rZgSPa/SkpAHmq1az5F208c2/33r3+0nRKfSNCjAIvSewFpoCpMUtUo36234C;2VY4sit2BgtBu+GMjHw/0Q=="
 ---

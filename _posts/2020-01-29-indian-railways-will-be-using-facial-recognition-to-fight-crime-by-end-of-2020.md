@@ -756,21 +756,6 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/KP4ZEP4EZVEE7EUKABDLB57CO4.JPG"
         width: 5472
         height: 3080
-  - title: "An obscure app has scraped 3 billion photos to use for facial recognition and is selling its services to law enforcement"
-    excerpt: "According to a report from the New York Times, a largely unknown company called Clearview AI has been scraping every inch of the internet for photos of faces in order to train facial recognition technology. It has in turn sold access to its massive and comprehensive database to hundreds of law enforcement agencies including the FBI and the ..."
-    publishedDateTime: 2020-01-20T20:16:00Z
-    webUrl: "https://www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989"
-    ampWebUrl: "https://www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989/amp"
-    cdnAmpWebUrl: "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989/amp"
-    type: article
-    provider:
-      name: Mic
-      domain: mic.com
-    quality: 34
-    images:
-      - url: "https://imgix.bustle.com/uploads/shutterstock/2020/1/20/bd31a271-ed90-49ee-b7f5-d2b30bce6220-shutterstock-1108927796.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
-        width: 1200
-        height: 630
   - title: "Twitter tells facial-recognition trailblazer Cleaview AI to stop using the site’s photos"
     excerpt: "Twitter sent a letter this week to the small startup company, Clearview AI, demanding that it stop taking photos and any other data from the social media website “for any reason” and delete any data that it previously collected, a Twitter spokeswoman said. The cease-and-desist letter, sent on Tuesday, accused Clearview of violating Twitter ..."
     publishedDateTime: 2020-01-23T05:01:00Z

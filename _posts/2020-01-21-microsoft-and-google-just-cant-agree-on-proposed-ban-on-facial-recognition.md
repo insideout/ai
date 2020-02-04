@@ -99,21 +99,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg"
         width: 1280
         height: 720
-  - title: "Alphabet CEO backs temporary ban on facial-recognition, Microsoft disagrees"
-    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium,"
-    publishedDateTime: 2020-01-20T21:07:00Z
-    webUrl: "https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 72
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107"
-        width: 863
-        height: 545
   - title: "Alphabet CEO Sides With EU on Facial-Recognition Tech Moratorium, But Microsoft Isn't Convinced"
     excerpt: "Alphabet and Google CEO Sundar Pichai recently came out in support of a European Union proposal for instating a temporary ban on facial-recognition technology until officials beef up privacy regulations. “I think it is important that governments and regulations tackle it sooner rather than later and give a framework for it,” he said Monday ..."
     publishedDateTime: 2020-01-21T01:35:00Z

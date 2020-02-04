@@ -52,6 +52,19 @@ related:
       name: Marietta Daily Journal
       domain: mdjonline.com
     quality: 24
+  - title: "BGU developing system to stop self-driving cars being fooled"
+    excerpt: "In a concerning phenomena, researchers at Ben-Gurion University (BGU) Cyber Security Research Center have found that a phantom image projected on the road in front of a semi-autonomous vehicle can cause its autopilot to break suddenly. This could endanger the lives of drivers and passengers alike. In a statement released Tuesday by BGU, the ..."
+    publishedDateTime: 2020-02-04T13:36:00Z
+    webUrl: "https://www.jpost.com/Jpost-Tech/BGU-developing-system-to-stop-self-driving-cars-being-fooled-616492"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 24
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
+        width: 822
+        height: 537
 
 secured: "6Qfmyv91Kzqnw4Btg2PTKpy8ZCDq9sKiGQf4Q+BaremE5e748qBMJtxr004Pl8S4nXKZ6xB5XxEy79y0LgUMvCr+M19NDy05TXZ4ixMh4TlmGTb6DNq2qbWOKwNdhCtUzmDswVHWzWrlXlqEeEB7PuHX6KAYsS9KBxGM7C4BdX903mitKkSj/NLT8MwnERk3buvI40hhmn2z+Vh/HspmputlU3ZSxX7BfjsRaccButh2s2T3/ixknwVXmHaBaGcphtF5oA19e88y+MLYGakw+P9FVN6Ygs8hswxAiQn9dptBbbyUR+u6cv5q19rla2unmUWyxM3zf8u6/Cj1IvLtTwTKeeNY2LZH5LL9NEDXGthREGDl9aP+IBD9+oLH1Fg4/iAaLP/7t4+M2qd/3ZEIPwlaNA2EvHtL6GCKIsZVcwEMBXZouvwnmvll+JbOce6b16TszH7nFDlmxCw0lrUIa50o1NWtAfnnhVQ8G/mL7f4=;TpGmyoX5e9Gq0iL2Azwl8g=="
 ---

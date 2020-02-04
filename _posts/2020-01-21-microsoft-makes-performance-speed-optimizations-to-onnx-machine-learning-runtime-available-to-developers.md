@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-makes-performance
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -77,19 +77,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2998aca854780006af4a28%2F0x0.jpg"
         width: 1000
         height: 666
-  - title: "Returning to experiments with Machine Learning and the Premier League: Relative Performance"
-    excerpt: "Following on from this piece where I was experimenting with machine learning in Python to predict performance of teams in the English Premier League (EPL), as promised I have been been running the script after each round of games to produce a predictive table. During this time I made some observations and some additions to the model due to the ..."
-    publishedDateTime: 2020-01-20T21:00:00Z
-    webUrl: "https://medium.com/@m.harrison79/returning-to-experiments-with-machine-learning-and-the-premier-league-relative-performance-1d724afe52b0"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 59
-    images:
-      - url: "https://miro.medium.com/max/1200/1*2r3u6o9a4zCY7VY17QoG2g.png"
-        width: 1200
-        height: 474
 
 secured: "j1As7YLg40uht/pnpk1sEvU6V64qyStKPa4NCYWPv3Ko3ZvqmGOl+0mspwHldGzCq4BfqAJ7N+4aMW007ForEluSKc0E02/Q/u58K0plO27kIp/6t5LmuCKLX4rWzFS2ny08fZuOaPRp1VQi7SUOjvR2wkwOr7xDIG/fiWa374uKxeYaJGPwTiZu6hAPH+r+jssyDLXtRiruJ1vr1oarBALU+eyFRo/kxFtFOO52XNZ6Swr1h6IeUJOLPxL/jzupIwTO1+0GJCJsi71yaE7Rv9N3hYx7xCJRlzOHF1qdaebyYRzX6xgUgXybraNsnOYlR+3caq/sgKwaHJCH52H39peyh1S/VtMvtyuvEIuNqLNBlGfvpCLx/Tv90PU/TBR54d9M7GBh9LQzV7kdEylmk8CNqdt4nmFxtUPrBr1QqsMkJwSAylCmmT7YCugFfiHIpVnu7mRSruQy+X1vt1in4w==;OO0C6IrST58O61ttf6nvhA=="
 ---

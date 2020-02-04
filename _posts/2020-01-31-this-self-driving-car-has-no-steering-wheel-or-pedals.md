@@ -50,6 +50,19 @@ related:
       - url: "https://cdn.fleetnews.co.uk/web/1/root/driverless-car.jpg"
         width: 640
         height: 400
+  - title: "BGU developing system to stop self-driving cars being fooled"
+    excerpt: "In a concerning phenomena, researchers at Ben-Gurion University (BGU) Cyber Security Research Center have found that a phantom image projected on the road in front of a semi-autonomous vehicle can cause its autopilot to break suddenly. This could endanger the lives of drivers and passengers alike. In a statement released Tuesday by BGU, the ..."
+    publishedDateTime: 2020-02-04T13:36:00Z
+    webUrl: "https://www.jpost.com/Jpost-Tech/BGU-developing-system-to-stop-self-driving-cars-being-fooled-616492"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 24
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
+        width: 822
+        height: 537
 
 secured: "EKLcMGT2vgtgTubzzafML2D82jeNpVGP9pJHFPSvPCPqxYbd69uWriivlbs4wKlDsscw/nk3jJeI9ZARYJvx7GcmTM2VRyqeITn01RO8XQadsIZHnzWEr0o/hunDHwbcPAYbVVOKHVLcHzpFGHKINYMr8xZqrSHSj0yc1kJEr87OkGl0HCTloNHOLlpabPArJYuMCM+De0GVEeE8K9CYJ6889rNhxg/VqzVAdx54DM2hps3sOJpDlKnKi4tjBZSrjj+7GHXmNLwJSZxdhX8wXIMMNSrOY3lWTLjtOx32lzqpYj3dlS1vwCRctvZ5/jJQ;dd5bu9vsH+/n0AtG6rODxg=="
 ---

@@ -20,29 +20,27 @@ topics:
 related:
   - title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
     excerpt: "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ..."
-    publishedDateTime: 2020-01-14T14:41:00Z
-    webUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14"
-    ampWebUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
+    publishedDateTime: 2020-01-14T14:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/germany-s-bundesliga-to-use-amazon-web-services-artificial-intelligence-1028816437"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 103
-    images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
-        width: 1024
-        height: 512
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
   - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
     excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific ..."
-    publishedDateTime: 2020-01-13T13:28:00Z
-    webUrl: "https://www.oaoa.com/news/business/article_bff64e43-c5a2-5acc-8ac2-6ada0e8d7d11.html"
+    publishedDateTime: 2020-01-13T13:00:00Z
+    webUrl: "https://www.wallstreet-online.de/nachricht/12054989-bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience"
+    ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/12054989-bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience"
+    cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/12054989-bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 17
+      name: wallstreet online
+      domain: wallstreet-online.de
+    quality: 37
 
-secured: "ns4p5hI3S2mckVJBE6/CfEYhegp1MiH1GpoldVcPgMfE5oe1E20/nob4xWidDbVgQi/vBzKGBOGHlYWiDbBNKWTu73YT3pplc38uOxPUNwNMoBVTGQIbwcOUSzS/gHWyDBLHDrT1A+pug67siPbl3kBt1f+CaBX0SQRp5oavLiJqCG1V/i5GQ739fMOeqwErw9bmSxvmhdY4oyT99nV55VsJ/zg24WbJtW40dhtYBLnPL14bH832H2uSJjwaEF/y4uTBwz7Lrz/3nR3x7GsKwyzb1W3fxXN+1+APDw1pFsfMh2CMj4z6F1zgDhxnyTSd;G+908ZgsdwIVXKs+IvDs9Q=="
+secured: "oGkWNRUhxlhHeCrFm7a1y7HwMNup9DTSD9Op8UWLuy6swMqF8tMPrcUBPk6BhVL8cTn6IVha/NdRBOTMT5RtsdrwIlU5NdCOBKBXQTp29da6A0mqJ34twE/uzUpoCczoRqFwGt2zI7P0g2dXZ567mlUv2wKuzIVK5whNaCmdZ4JGfFGg6QQlFG2dc80dPyxxX8d3jq9J7HnBK6hjFeEUzJvpZDWp1NWWlcNlXZ9xEYo7npQ5TU1dtxSkSiVcsrKNeEdbPTPVzDhBIWbZojaoyLRwnnymNHper7PGbmB1UizBCAnNwcGaFJl2AwQQ1xwJ;mVMBzJ/QsqTXtonwFhl4bw=="
 ---
 

@@ -75,19 +75,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2998aca854780006af4a28%2F0x0.jpg"
         width: 1000
         height: 666
-  - title: "Returning to experiments with Machine Learning and the Premier League: Relative Performance"
-    excerpt: "Following on from this piece where I was experimenting with machine learning in Python to predict performance of teams in the English Premier League (EPL), as promised I have been been running the script after each round of games to produce a predictive table. During this time I made some observations and some additions to the model due to the ..."
-    publishedDateTime: 2020-01-20T21:00:00Z
-    webUrl: "https://medium.com/@m.harrison79/returning-to-experiments-with-machine-learning-and-the-premier-league-relative-performance-1d724afe52b0"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 59
-    images:
-      - url: "https://miro.medium.com/max/1200/1*2r3u6o9a4zCY7VY17QoG2g.png"
-        width: 1200
-        height: 474
 
 secured: "CDL1VUYzCJ7sdZH98kaJ37pvdaFcz/cIGQiIedPOz0hCOh2aN4CtAVLRRjihA3YUMESvb82weK7iFb1TRTWJqehq7WxhDeQuHQp0QdFPB2w4DZVwSvUEcZPlShM2xw/9B2zaoILT+DYQpoIRvpZXU965q/cZkvIiEP7o3bd25FfxgvWjblBGZev4Pd1KPhfnLhrQNHcZGi867p1QKUtmkYeuKMpImF+dYhnKGLjRLEVc3gBhwpr9/2VWMDi0bZCegHLrsSDzQo7gksftum2VUXDgE2wCdKbfQJx5CVExp6mIJ4dCaKADBViuyQk9+4oAtWhy+L39mVfwcZz0wdf9e0cRV5HboiD/86BArJMJGp0pmceDUO+QHT32Qq22wVgj7hwOXYKy6vT5RI1ugeknHJIXsYgkkd1DqaS1cFg54zZETL23rWHEkOFdkGJt2jL9HRP+8c02z9gw5OHC1lHn/A==;OTZI3Kd9VJfTn+xd/pd1Uw=="
 ---
