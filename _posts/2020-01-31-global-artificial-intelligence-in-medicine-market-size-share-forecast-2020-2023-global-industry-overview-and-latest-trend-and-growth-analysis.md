@@ -443,6 +443,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 0
+  - title: "Global Artificial Intelligence (AI) in Education Market Key Players, Demands, Regional Analysis, Market Share, Size, Revenue and Forecast to 2026"
+    excerpt: "Global Artificial Intelligence (AI) in Education Market study formulates with historic data up to 2019 and gives a forecast for 2020-2026. This incorporates Artificial Intelligence (AI) in Education market size, product scope, industry revenue and growth opportunities. It covers Artificial Intelligence (AI) in Education sales volumes ..."
+    publishedDateTime: 2020-02-04T08:28:00Z
+    webUrl: "https://www.openpr.com/news/1917726/global-artificial-intelligence-ai-in-education-market-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "xMoR0rkVbnrXF1cw4MVvzBsi3QrbuhAtPm8tuBDmRm0t91/GIA8KyLvCIEuu+wPEQn4ovUvnHFlZbIUo6Y2dxGuVV3RmKlajMy4pV8jShgipBno5lW2ipKFZo0qx/teYwbpmuxOxVipPz6KsOE4ZnHylV7kUlhqiDoXL6wYCWaaMTLBe6lPxQWrdFmicuBlvBCUlx4F4zHc5j6tkdS80DqORtDBC/sEyVrztwrG7Xw2/8/TQ+veQFsejlmkfgb/Nu3PFAuVf1Bagv+Mt8bMJKJR+spzdMWgLtOd1Ug5LyrPbMX0+NHW45ZkGPoYlX1O0;rAZeg19L4kfUE/J21fMREw=="
 ---

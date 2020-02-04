@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-tren
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/"
 type: article
 quality: 106
-heat: 106
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 533
     title: "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning"
 
-secured: "fCTjWFneuwdusUMvjONRcJnUZ4IJxLFkEcX6/Wje2VZaixRyf3aea/xMjpAOp5dB7qa5HXXRmmbn/jjY+eYkOmXhDdtYFsrf/wcqKrr/vLuGYt/Fu3TuM3tVsx1h6d5wbpxn6HVT3aBEQR/nNEYf27XNDTOdAlckmHvKG5o2q7HTu8twbFBU7lD8dp2U5+K5ZVK/v8XjHX476IoYUwSzvRBbPT3bIW8U+LnUlZI0z/pRjwqCYA3qR5mRskAm+jLkFNutOgOULDnXTD78C2inMyVNzQXTTU/mnsa7N9FpQylfGWqTWTWKm4yfNIl0ks5T9fZvIdANM74MKxDep0kk8ETRut0ScxfOyGyBjwVVWqhTg4QX3xip+Li3nUCWFfzPvNS6UGl+UBJhI/U4CyTgaaLKEVPrjdPiGPf4zPAk4Jot/c911ATeDQBWeKZO6l8GD/dhUmxKITypdFlYQeE3iznZiDDC4EyRnEY/uxM5db8=;NC41hpk7Ht/MNuDRkXBmIg=="
+secured: "y53a7VLyASKqnCgID5cYyTRMUp+lg8Pt5ZB8Ngrnm55QIDVKpEfsPvbC2Q8B4wlwxBux4Qf/EJ1jn+eBIDTTos1qoz3tyXtTUCaZ6xh5+sB+J2YbArvCWBerQh3eRYGZ1LUQ45v3xKLojFtXL2w16k5j4eDOJpsOPFsFTobDwfK/8BK8NqhBk4MNGe+WLFVcyLXgOtIxX83DsjOKQrXQ7dc1LxG/DY5QMkt+wFe3LiQztD+vhMpmy1Hln7vqWFSB4PKKLy/CFnTXMUkF0uCibIPi10SmgMn5BuzgG0Oq9qLQHdkb489zc1zHorF/2ufSsXYZfLnsKMQldW0q4PGmhjfAmnrC3hRhBSwhy3pBaZoB0fmJ4Xp4+CMy3ggPAZnlSsJDzm1Qu0yT1FJvFdE483+xIbxOz7p0WwQOi1hYtF7eIfUgmXXBkmB7PQHIJ1SbLN2K0ZYR8mJL0BeEc8GPe2ptJKufznewscpoEsRi9yA=;2zt6sIXh28HLMtnlzopSyg=="
 ---
 

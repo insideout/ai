@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Object Detection Techniques in Computer Vision"
-excerpt: "Object detection is a technology related to computer vision that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or vehicles) in digital videos ..."
+excerpt: "The SIFT method does not provide real-time object recognition due to expensive computation in feature detection and keypoint descriptor generation. SURF algorithms have detection techniques ..."
 publishedDateTime: 2020-01-05T19:42:00Z
 webUrl: "https://medium.com/swlh/object-detection-techniques-in-computer-vision-7c169771fb15"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 900
     title: "Object Detection Techniques in Computer Vision"
 
-secured: "XtoSdLd5YVr4H0t8JyV1fOJIwyohp54916QSJGzyrs53PTbUWOpmeyXQURjOVHnF2VdNlVakFM9fYRFQvot42gVIQY7ZEvB/yZeFEt4d1VrfjJz58CJLj4qgJA6dLABsxkpmWy0/ez2KNbGpGAGQ/KHgcrE0uMJkl9G8448pvrHim2H17Oj4eaGJaSejEgRJ9eIV9h9UYZE2/24i9rwx4hGYC17NvzqJwWsrjC/fYN+g+mvSrEGFINzA9CSXDIWcXZ59nQwfJPUIPiBfRI2V0Azkg1TQeewKb4aOmL+TADmbZ+zOLrpI/sC5sXkFZl0I;H79mF4x5aFfT66pAZCtFFQ=="
+secured: "WroQ1HRS7BBZeHZvF2nuHIJmy3IC6vUSk0PYlxjZvORUaMGEEWBtdA8HWiMkULjB+YayNCPLhn2iqV3E4OATW9zlNfCOYr5zoMnGSag07bR61VvDpkqIdda/z4FWZNR7tEkS1D1zrD8dtFAhp15ZkNgwtbinUKdUgrYVFzzZrDi+LyCiRV6Xr3ntALaBUoHhVjhNkDVaFfuzzZzRfu1HIIK0s8/uMGyUW+Wzpcj+08q4noP5qoYLP1u3jFWQB7nawRltqW9UKydQc/vQiD09OFU4DqtAo1AveCgEOS2+/CmQANIVx/83WtqCQxg+Knoo;MeNMHR918UOJnum89I7GAg=="
 ---
 

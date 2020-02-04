@@ -39,19 +39,6 @@ related:
       - url: "https://www.businessobserverfl.com/sites/default/files/278691_standard.jpeg"
         width: 1933
         height: 1289
-  - title: "AI-driven fintech set to expand team after securing £2.5m investment"
-    excerpt: "An AI-driven software as a service (SaaS) business has secured multi-million pound investment to propel its expansion. London-based fintech FeedStock has raised £2.5m in a funding round led by Praetura Ventures. Founded in 2015 and is run by co-founders and joint managing directors Charlie Henderson and Lucas Wurfbain, FeedStock Based in ..."
-    publishedDateTime: 2020-01-20T15:08:00Z
-    webUrl: "https://bdaily.co.uk/articles/2020/01/20/ai-driven-fintech-set-to-expand-team-after-securing-25m-investment"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 39
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/sEnCbXVe1i6mucg9Tr1kl5CHGvogkNMAx6N0AWOV.jpeg?w=940&h=430&fit=crop-50-50&s=33e72a848f890614183ea7b19622c751"
-        width: 940
-        height: 430
   - title: "Artificial Intelligence Company in Crystal City Wins Plans Expansion After Big Investment"
     excerpt: "Scoutbee, a tech company based in Crystal City, is looking to scale up after winning $60 million in a round of investment funding. The company builds software that links artificial intelligence (AI) technology and big data to create more efficient supply shipments. The technology can track trends and make predictions based on extensive data ..."
     publishedDateTime: 2020-01-27T17:04:00Z

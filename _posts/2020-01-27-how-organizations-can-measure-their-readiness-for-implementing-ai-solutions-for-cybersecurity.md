@@ -20,6 +20,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "How Automation and Artificial Intelligence Can Boost Cybersecurity"
+    excerpt: "And while there are many tools available to stop them, there is a lot of space for improvement. Especially if you take automation into account. Machine learning and artificial intelligence are playing a significant role in cybersecurity. Automation tools can prevent, detect, and deal with tons of cyber threats way more efficiently and faster ..."
+    publishedDateTime: 2020-01-20T22:45:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/01/20/how-automation-and-artificial-intelligence-can-boost-cybersecurity/28824/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 17
+
 secured: "aL276pJ6Jyz/PI331zx109LV1f/9BALssWaJJKndm3Uw+qrTErGmfyCGP5WAZ6aCkHuV5zJ1vgGOMTUvqijl/CV9v38mMkhfA2r7XFV2j8gTrt849zUNeBu4XdtdyKzLJ75TmJJoMNUJzunmiIWRLkBl2EjrNO4ThwJB9ShlM7d2cCJm2e7KkjtwoUos6EnL7SaKtDTvFmNbZyXofh4uUswMpWe4LNa9TziHKLC2tGi9/inI42FJcq6X9wkJv7wKBGBwvHNVrzDiUHq9yssd6QBJ08VaACf+S9hntUk7XfhNVm6BftPr3dlxOJzeD4hBhhzcqykC2+/rsmGnv9GY2D8qE1YV+hgkJP6JAru/FJMMnwPmhCsB3S0E0gjlcz8wEs9aIUZeolw4YfE19lw1HzOqbA17uGf5qvsd1J63cTHan0LAkbQ1b2lrlq4okRmd03IEom2TlAzCfguj54+dv/vtVN57YdNn5xE2Eal2MKU=;mdjUS7YkBnrhRoQ3zvPg0Q=="
 ---
 

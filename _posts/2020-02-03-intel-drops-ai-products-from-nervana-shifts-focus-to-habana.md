@@ -67,6 +67,19 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Habana-Goya_839x.jpg"
         width: 839
         height: 580
+  - title: "Intel Nervana Neural Network AI Processor Cancelled In Favor Of Habana Labs Solutions?"
+    excerpt: "A mere two months after Intel acquired Habana Labs for $2 Billion, the former has axed its own Nervana Neural Network Processor project intended for the Artificial Intelligence training line. Incidentally, it is not surprising that Intel scrapped the same. This is because it was rather redundant and counterproductive to keep investing in two ..."
+    publishedDateTime: 2020-02-04T08:33:00Z
+    webUrl: "https://appuals.com/intel-nervana-neural-network-ai-processor-cancelled-in-favor-of-habana-labs-solutions/"
+    type: article
+    provider:
+      name: appuals.com
+      domain: appuals.com
+    quality: 48
+    images:
+      - url: "https://cdn.appuals.com/wp-content/uploads/2018/09/Intel-Coffee-Lake-1-580x334.jpg"
+        width: 580
+        height: 334
   - title: "Intel kills off Nervana's NNP-T chip in favor of Habana processors"
     excerpt: "The move comes after Intel spent $2 billion on acquiring Habana Labs, a start-up that makes more powerful chips. All development has ceased on the NNP-T AI training chip, while the NNP-I inference chip will be delivered to previously committed customers ..."
     publishedDateTime: 2020-02-03T11:43:00Z

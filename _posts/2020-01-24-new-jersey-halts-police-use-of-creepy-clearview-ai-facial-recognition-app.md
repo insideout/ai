@@ -236,21 +236,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-826000302.jpg?w=1024"
         width: 1024
         height: 652
-  - title: "What you need to know about Clearview AI and its facial recognition app"
-    excerpt: "A startup, Clearview AI, has created an app that can match a picture to a database of billions of public photos scraped from the internet and it is being used by law enforcement agencies, according to a new report. The New York Times first reported on Clearview and its app in a deep-dive that was published over the weekend. In the report ..."
-    publishedDateTime: 2020-01-20T15:36:00Z
-    webUrl: "https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/"
-    ampWebUrl: "https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 74
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Clearview-Facial-Recognition-App-1024x512.jpg"
-        width: 1024
-        height: 512
   - title: "Facial recognition reveals AI's darker sides"
     excerpt: "The emergence of artificial intelligence technology in everyday life can be unsettling, says WEF AI expert Kay Firth-Butterfield in an interview with DW. That is why regulation is urgently needed."
     publishedDateTime: 2020-01-23T09:00:00Z

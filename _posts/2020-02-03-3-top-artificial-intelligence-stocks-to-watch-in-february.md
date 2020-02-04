@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

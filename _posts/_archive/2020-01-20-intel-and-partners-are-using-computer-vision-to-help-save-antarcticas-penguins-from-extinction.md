@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction"
-excerpt: "The AI model was cascaded and two-stage in design ... Intel Xeon Scalable processors were used to train the model within a virtual environment on Microsoft’s Azure cloud platform, which was then benchmarked using Intel’s Optimization for PyTorch toolkit. From this benchmarking exercise and other open source tools and libraries, Gramener ..."
+excerpt: "In search of a solution, a group of tech companies developed a computer vision solution to help ecologists count the remaining penguins faster and more accurately than before. The loose partnership consists of Intel’s AI Builders — the company’s curated ecosystem of software vendors — along with Microsoft’s AI for Earth initiative and ..."
 publishedDateTime: 2020-01-20T16:00:00Z
 webUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/"
 ampWebUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
 type: article
-quality: 79
-heat: 89
+quality: 77
+heat: 97
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - Microsoft AI
   - Computer Vision
 
 images:
@@ -31,6 +30,21 @@ images:
     title: "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction"
 
 related:
+  - title: "In black and white: Counting penguins gets easier with AI, computer vision"
+    excerpt: "Antarctica’s immensely popular penguins, whose numbers are declining alarmingly, could soon count on artificial intelligence (AI) and computer vision to come to their rescue. Microsoft, Intel and Hyderabad-based start-up Gramener are harnessing the power of AI in counting Penguin populations on the icy continent faster and more accurately."
+    publishedDateTime: 2020-01-23T05:27:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision/article30631436.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision/article30631436.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision/article30631436.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 72
+    images:
+      - url: "https://www.thehindubusinessline.com/opinion/columns/thomas-k-thomas/75lkp6/article30118113.ece/ALTERNATES/LANDSCAPE_615/BL30Thinktech"
+        width: 615
+        height: 384
   - title: "Counting Antarctic penguins with AI"
     excerpt: "In order to study penguin populations, researchers first need to accurately count them. A new crowd counting solution from Intel AI Builder member and data science company Gramener could enable researchers to use computer vision to count penguin populations faster and more accurately. \"Today, on Penguin Awareness Day, it's important to ..."
     publishedDateTime: 2020-01-21T13:40:00Z
@@ -43,6 +57,6 @@ related:
       domain: phys.org
     quality: 37
 
-secured: "o3NUObHG3caA/Pp4kjIaZ9d69OjdxW74/pmI5yy9PQEgAHfilqcHAVhKDARjw9kriGmJ5WT7EkkPDTDryo+aeBJGcWngOQwAj7dxy2f2inrl1Qi5m6AIokA5aXABtPej8KzYzfm24WgapaHXd20tr8xJu3M7gWPkCK8jHMs1lMkpBBJ5ulmQIxTDHi5ad7tyFbHm6J59BUxjU3ZhwrEBdUW3DH1tMVVPoH0GMoB/pOKtFKG9t8Hk3mgtOi9HRU8sRBfYDM6YcbxsexIVAAHGa6yX0XosIN963FTo73/tt3co14ciqkM8YAcGoTCjC1xEqudvdjgC4gwa97s0sX1MlKCX9kc5VVBq+Q+HSKKoHAtdmHgxOgsSDhiJNGJ/8YX7xthFkwD2J7AoOpqVdYcnHiNuNWS5PnbsawhyGWGJSABeG3YAkDQBKHoWmELoFTClgA5JEJo5c5TJpZZ8Gt9TDw==;3rktrU5zAFwzFOClPBVlXw=="
+secured: "FNsIBZl2JcIyFilgqbj1DvtEIyumBwxP1RfFKOZA2zLQDHhk7FT3iQ7FuXGu5SO4gFRvjjERrpHPs9HY7MkX6msk+g6NjgPhuxYg3V6Vv4KoQVGwTCodEPOXkyeUamJqT9M3GUya7R183OTaouEhArwR7mCUP7ZBGWVUVXglue0yv9oKRk7z1YE59ZTf98W9W5vBo9avrU0TS/QQPhaCJbEASAdHTuRpKQdKcB/BMWNI0luhfhOOvlrrx5WH7d4C7u9/4UIyWsD9nn3wcrFlikFjkES4JLW6CLr1zXrxGqhBXrGXO50nUeyYtohR+7Yf;he5SDCfN6hhV+AQxpNLhgw=="
 ---
 

@@ -41,14 +41,14 @@ related:
         width: 1200
         height: 630
   - title: "Artificial Intelligence in Education Market Is Booming Worldwide | Google, IBM, Pearson, Microsoft, AWS"
-    excerpt: "Global Artificial Intelligence in Education Market research report for easy to understand detailed breakdown of market growth factors, advance technologies, industry drivers, challenges, regulatory policies, with qualitative research of key company profiles and strategies of players such as Amazon Web Services, Blackboard Inc., Blippar ..."
-    publishedDateTime: 2020-01-20T15:56:00Z
+    excerpt: "Global Artificial Intelligence in Education Market research report for easy to understand detailed breakdown of market growth factors, advance technologies, industry drivers, challenges ..."
+    publishedDateTime: 2020-01-20T15:33:00Z
     webUrl: "https://www.openpr.com/news/1901623/artificial-intelligence-in-education-market-is-booming"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 20
+    quality: 18
 
 secured: "Yn5IerNPFqTFNtWWrGEwFda6DvKqv7t/UVNiVPo8EHBgq1GcatWm2FTKeDN2llnWaA8jxWGTiGFY/IIs9WXqLLTcnkzUMTeLAq3IxaVnM79PjetrcJdHaJyIZ3YCEVwp6FqSI/jIsgK9qrvQ5n+FxXcC7Oc4xTYr1vr5YVcOSAMGS/y5fE8Gr4yLjtQKSNANezHYKte1i1egagYqHWSjzzFwfNqfhf9w2Ef8ST/JJ6Sqcx1EYaLWXpCMU1coaFDGBmIDb7P1lDoYVHQ6mXyhBmZURm3+V0XNiHdlIVOdRhA=;7GttUxBrZ+yNmXz2BgNz9w=="
 ---

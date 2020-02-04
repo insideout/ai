@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/03/construction-startup-scaled-roboti
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/"
 type: article
 quality: 119
-heat: 140
+heat: 139
 published: true
 
 provider:

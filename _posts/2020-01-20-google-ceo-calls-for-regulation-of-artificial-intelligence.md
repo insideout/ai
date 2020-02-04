@@ -99,17 +99,6 @@ related:
       - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1"
         width: 600
         height: 400
-  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
   - title: "Sundar Pichai offers a cryptic warning against over-regulating AI"
     excerpt: "He discusses his love for technology dating back to his childhood before immediately moving on to all the good that Google‘s doing: Just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in ..."
     publishedDateTime: 2020-01-20T20:51:00Z
@@ -164,21 +153,6 @@ related:
       - url: "https://cdn.punchng.com/wp-content/uploads/2018/03/04232131/artificial-intelligence2.jpg"
         width: 640
         height: 480
-  - title: "Google CEO Calls for Government Regulation of Artificial Intelligence"
-    excerpt: "Alphabet and Google CEO Sundar Pichai called for government regulation of artificial intelligence technology on Monday. “There is no question in my mind that artificial intelligence needs to be regulated."
-    publishedDateTime: 2020-01-20T16:00:00Z
-    webUrl: "https://www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/"
-    ampWebUrl: "https://www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 59
-    images:
-      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/Facial-Recognition-.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
   - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
     excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
     publishedDateTime: 2020-01-21T13:56:00Z

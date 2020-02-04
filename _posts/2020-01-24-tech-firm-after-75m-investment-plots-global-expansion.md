@@ -26,19 +26,6 @@ images:
     title: "Tech firm, after $75M investment, plots global expansion"
 
 related:
-  - title: "AI-driven fintech set to expand team after securing £2.5m investment"
-    excerpt: "An AI-driven software as a service (SaaS) business has secured multi-million pound investment to propel its expansion. London-based fintech FeedStock has raised £2.5m in a funding round led by Praetura Ventures. Founded in 2015 and is run by co-founders and joint managing directors Charlie Henderson and Lucas Wurfbain, FeedStock Based in ..."
-    publishedDateTime: 2020-01-20T15:08:00Z
-    webUrl: "https://bdaily.co.uk/articles/2020/01/20/ai-driven-fintech-set-to-expand-team-after-securing-25m-investment"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 39
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/sEnCbXVe1i6mucg9Tr1kl5CHGvogkNMAx6N0AWOV.jpeg?w=940&h=430&fit=crop-50-50&s=33e72a848f890614183ea7b19622c751"
-        width: 940
-        height: 430
   - title: "Axel Maier joins welath investment AI startup MDOTM"
     excerpt: "His knowledge of the asset management industry will be key in speeding up the international expansion of the Fintech company, which - after the 2018 series A funding - managed a rapid expansion in Europe thanks to its cutting-edge investment solutions that use AI to adapt to the financial markets’ complexity and to the customization needs of ..."
     publishedDateTime: 2020-01-27T12:22:00Z
