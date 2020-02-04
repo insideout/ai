@@ -1292,15 +1292,6 @@ related:
       - url: "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Facial-recognition-scanner-kids.jpg"
         width: 800
         height: 400
-  - title: "Alphabet, Microsoft Disagree On EU’s Proposed Facial Recognition Ban"
-    excerpt: "Microsoft President Brad Smith doesn’t agree with Alphabet Chief Executive Sundar Pichai’s backing of the EU’s call for a temporary ban on facial recognition technology, Reuters reported on Monday (Jan. 20). Pichai pointed to the potential for “nefarious uses of facial recognition” and favors a moratorium, pending regulations."
-    publishedDateTime: 2020-01-21T05:18:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/alphabet-microsoft-eu-facial-recognition-ban/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 19
   - title: "Facebook settles facial recognition dispute"
     excerpt: "Facebook has settled a long-running legal dispute about the way it scans and tags people's photos. It will pay $550m (£421m) to a group of users in Illinois, who argued that its facial recognition tool was in violation of the state's privacy laws. The case has been ongoing since 2015, and the settlement was announced in its quarterly earnings."
     publishedDateTime: 2020-01-30T13:22:00Z

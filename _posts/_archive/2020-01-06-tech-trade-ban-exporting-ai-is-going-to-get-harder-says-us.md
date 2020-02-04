@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Tech trade ban: Exporting AI is going to get harder, says US"
 
-secured: "JirBNfUC/BEexJHaMwkQqZDt3Pa/S3XrajSv/yY3RHQILJTVMVCYoquxJkBt326mA1gxtUiYhe6q3FSAscKmcBbw2MiztKFPdG0XPZ5gMn7Ulya/3ETEGZoBFabUE+9fEp4W0NlPplCNEMWWOLip9XsLEYsWdhrATgWlRiBMnvK6lNOUdnQW/FLN/eQrckRZTD7ICxhHbtZ+KXijy2boOX4lCFi0XaVvfgWUwHI7JeHCy4U6RZPycJp8Ly2mnPI1AYHD7wbi3yH4PWYeLUi4mbrHfRpMEnqa+atxxq9MbEkQK/uPVH6JNXXF2RrgF9Hc;UFt1/QA4ZGBAOqBpsuYaBg=="
+secured: "w6CjqbjmYoUGgtpgUkJ6n7vetLvpYhUMhJlJLmkDCDzKWLiwlxBgt8s0ZRbcECwZLO4CDFFc24HgXt2AR7ipzeNA5m3xtA9pktgzsHER9LmyeS0/7c6yiZH3ZS6jhSCRzl6LwI+9bTLwBLuZq/D5F36JIIADe67T2W5qNVAs5ab3630DphUrKvcxYfAZA7T4ELYHnhi3r1ATH1QKKQfK37lWa3v7XfalO4K1QvnIJLowe98nrFghJF5bGER2F7VH1ZkoveRhJuPhnesaLJkrneAUPo1PbJiHo9/kZktqvim0fhPwbFu2TqthlYryT55u;D7Q4vDmcZkdV+ismfL3dvA=="
 ---
 

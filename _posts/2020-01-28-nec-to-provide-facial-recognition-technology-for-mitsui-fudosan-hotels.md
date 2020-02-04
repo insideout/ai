@@ -89,19 +89,6 @@ related:
       - url: "https://dynamicmedia.zuza.com/zz/m/original_/a/e/aec26bdc-72bd-413c-9494-fc91ef7c420b/B881027028Z.1_20200128125040_000_GH1S8UDK.5-0_Super_Portrait.jpg"
         width: 587
         height: 417
-  - title: "Tech Savvy: Facial-recognition technology stokes privacy concerns"
-    excerpt: "Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier says 72% of ..."
-    publishedDateTime: 2020-01-26T06:40:00Z
-    webUrl: "https://www.brainerddispatch.com/business/technology/4880204-Tech-Savvy-Facial-recognition-technology-stokes-privacy-concerns"
-    type: article
-    provider:
-      name: Brainerd Dispatch
-      domain: brainerddispatch.com
-    quality: 24
-    images:
-      - url: "https://www.brainerddispatch.com/incoming/4880195-oiib4n-IMG_7852.jpg/alternates/BASE_LANDSCAPE/IMG_7852.jpg"
-        width: 1140
-        height: 712
 
 secured: "htDcc7P/5Isgr76x3qhh9i0aGdaS2qhXR0vQUArwEc/krk5f+kPJHv0iZkVOx5PSNz54f7KHJPDF0rInGtkBvq1OuVgmHxj6YXq7UPX4AYCckj53+vh2aEWeBeT02MCOLL6+MGV2RiO2U51duHcG2Gihci4FgQ5ZN9aOlKwSsLkogbQybSluAW91crzELn6/S0Yj+iJD9Y1J4Q3q8aYpdcbMPIs3bCadANOcnfYRJ/36QFsrweyZ3C3ZJvxnzR3YVz7FR/AF1hG8b30CD+dkDrUhun3U0cyOpHQ7u8cRpBj7YOXTCEgyTJxYe06jwVzw;NZscx8BVi+Y9DO7GGu8Nuw=="
 ---

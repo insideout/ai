@@ -3,7 +3,7 @@ category: news
 title: "A Silicon Valley startup is developing 'digital' drugs to buck up US troops in space — and spot trouble"
 excerpt: "The technology keeps a record of the user's emotional changes and will eventually be able to mine text messages and facial expressions."
 publishedDateTime: 2020-02-04T17:09:00Z
-webUrl: "https://www.businessinsider.com/start-up-developing-digital-drugs-boost-us-troops-in-space-2020-1"
+webUrl: "https://www.businessinsider.com/start-up-developing-digital-drugs-boost-us-troops-in-space-2020-1/"
 ampWebUrl: "https://www.businessinsider.com/start-up-developing-digital-drugs-boost-us-troops-in-space-2020-1?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/start-up-developing-digital-drugs-boost-us-troops-in-space-2020-1?amp"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 393
     title: "A Silicon Valley startup is developing 'digital' drugs to buck up US troops in space — and spot trouble"
 
-secured: "3v+Jn70Bb/WVutZOnzdZZhBjGJOY83w/rxGnoAdqxrc3HJmVQj3fj3S7bwaOAxKl1PcRhF0PwU6rzzAHmSK6rj3OGCso7bXiMCAn33aN9cPA8FpxDC+yVnGkwcMebtrrKp2byJlcn/6dHkExvoR+R2lsmVcFAGvjvD9vkSLikJPbgK1u959T4YGA+CsdhZK/Nq+6nRIDrqr18AP+xTWlPvSZRic6gvdev3Jmc2Xphtal4kvwlEkiGhKL+7xSvFSkrb8P75P+JTVh+61r1XKjQoiJfIMXfCr7POFo9qkWxYZZRJWnootyq8jSxlFw15OS;2VcYaHLmHiUlT4AHkHDsYg=="
+secured: "ttazYtINjEXH16pWDz8brnwt4sl7VBU7Mo3u8p7I/3pJl59UTLGfXSpy2zXtfKxncZTHQZoLKYRRRd+8BC0Srg9m/5dm+tl9P4U5Ox/OevL8pR6nFtKInfmv80OKe+wyNxAoh2zQqWjicuzQ/bAJvY/Iz7wVT2NZC3O2W23ILivZ838Yj6e7hjvpaq2roL7wGr0YFfAo9xfifhfC8ndjk0WCgwTbTvONgxT9k0DsqMuFxKDOHZ9l2+z0LWXzhVs4I6sKtOb9YZBNFltSm2KGOdCCFBFfO4mFsVC4E4RWGp00qH0JCpBYrAdqS0yPWfoJ;0N5Vs+4BO7MGMPkZZhzpYQ=="
 ---
 

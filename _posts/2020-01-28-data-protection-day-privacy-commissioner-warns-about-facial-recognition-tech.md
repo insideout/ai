@@ -1285,15 +1285,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case.jpg"
         width: 1280
         height: 720
-  - title: "Alphabet, Microsoft Disagree On EU’s Proposed Facial Recognition Ban"
-    excerpt: "Microsoft President Brad Smith doesn’t agree with Alphabet Chief Executive Sundar Pichai’s backing of the EU’s call for a temporary ban on facial recognition technology, Reuters reported on Monday (Jan. 20). Pichai pointed to the potential for “nefarious uses of facial recognition” and favors a moratorium, pending regulations."
-    publishedDateTime: 2020-01-21T05:18:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/alphabet-microsoft-eu-facial-recognition-ban/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 19
   - title: "ZenGo Defends Integrity of Facial Recognition"
     excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
     publishedDateTime: 2020-01-29T18:54:00Z

@@ -261,19 +261,6 @@ related:
       - url: "https://sourcemedia.brightspotcdn.com/dims4/default/fd1758b/2147483647/strip/true/crop/2009x1055+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F89%2F2b%2F5777b1b2441a87863535bc1883bb%2Fginni-crop.jpg"
         width: 1200
         height: 630
-  - title: "Google CEO calls for artificial intelligence regulation"
-    excerpt: "Google CEO Sundar Pichai on January 20 called for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also \"negative consequences.\" Sundar Pichai's comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is used."
-    publishedDateTime: 2020-01-21T05:50:00Z
-    webUrl: "https://www.wionews.com/videos/google-ceo-calls-for-artificial-intelligence-regulation-275642"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 37
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/21/125195-ceo.png"
-        width: 918
-        height: 506
   - title: "IBM Proposes Artificial Intelligence Rules to Ease Bias Concerns"
     excerpt: "IBM called for rules aimed at eliminating bias in artificial intelligence to ease concerns that the technology relies on data ... “Then you will get more of a prescriptive, top-down regulation.” Fetch Robotics recently announced the addition of new capabilities for TagSurveyor, a robotic RFID solution providing complete visibility of ..."
     publishedDateTime: 2020-01-21T16:31:00Z

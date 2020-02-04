@@ -119,19 +119,6 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
-  - title: "Automated Material Handling Equipment Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
-    excerpt: "New York, January 21, 2020: Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence,"
-    publishedDateTime: 2020-01-21T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Aviation Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
     excerpt: "New York, January 21, 2020: Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results. AI in aviation will kind the data and supply the pilot with the most effective doable choices for operation,"
     publishedDateTime: 2020-01-21T06:20:00Z
@@ -151,6 +138,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "09yyYFeQAcmbJkT/I6TQccqRZqNNBp25yZqYDrh4ZLBfT66FD5OvsWPf9xZE/yHsStFTyHLs7JUKeI3C3EZ6ePRuhS7UE1Gv9Woe0PETciYEHSXl/ikdbrqKoq4zNjU2ktWNn2Vvl8ZkC/wM5Sqha9fkJlse8c6bdUFVKnNH6RSYnrF/WEDSKJPgAOB1Tw3cIb83PEGV1IA+B8wiC+6k9bfqB/CYlf7WSGqKmcWJV72XlWUpVVRUS9zd+549MtVlIy5M+69xvrfVtENNEh/zK0y+NuY6QaBl3EYTqyo8GUUdv7a9kbfLNJ3KNVrHjqfn;8eQMPbmYnHRwRrWU1AvFMw=="
+secured: "iEc6lX/IWBKcSrnSabpPrQNPectir7p+3yqI5Lm4qfWXLq5qWhXWD6FGph1FlFDmR/AQfFbGeXZQUWSuYa+WSMB4/NxYDZUuGgvqyJxaucYgD4ysMlyHAr5W9IT12IGcqGvIjE8IFAVAw7knKCD2URRoF36AxS7sPrWN/agNXYBM+rXWhG80FsznWJXAEasnuaZlHyeNewCeQDKE+sJL/n2TbNZrH6sMWO/13smR236VjPnjLQg5+v4HE8fu5H5TraGz8Seimwc71sddFPfGQ9Z/n8oIo0rvwFi5WmVL2FxpZXnUd07tSZCIpxB1B3ij;k0pQQmyATJjJ0APMxgdM7g=="
 ---
 

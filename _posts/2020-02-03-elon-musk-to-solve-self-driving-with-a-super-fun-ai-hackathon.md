@@ -73,6 +73,19 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2019/12/Randell-headshot2.png"
         width: 537
         height: 485
+  - title: "Elon Musk Or Tony Stark? Tesla Founder Creates AI ‘Subordinate’, Parties Hackathon-Style"
+    excerpt: "Musk, who has crossed swords with Facebook’s CEO Mark Zuckerberg and former Alibaba Chairman ... The tech billionaire tweeted on Sunday where he announced the “super fun AI party/hackathon” at his house in four weeks. Also Read: New Research Exposes Vulnerabilities In Lidar-Based Autonomous Vehicles He wrote, “All that matters is ..."
+    publishedDateTime: 2020-02-04T22:46:00Z
+    webUrl: "https://analyticsindiamag.com/elon-musk-or-tony-stark-tesla-founder-creates-ai-subordinate-parties-hackathon-style/"
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 30
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2018/12/elonmusk_fused.png"
+        width: 1262
+        height: 1200
 
 secured: "nqGjb/xj9gcvcXcvdd0CKTVG7SRVM5OpNs3NiPIy3hvoA2J1BkPeILz2bSVHyW2DFKy7HiFN8JHroAG+xtAH+UeExFuxwOfDHSJow8yGNvA39HDOIyW3ARNYFNQBA6NbUkeizLvuiypVhlvelRI6fEWnS/SfSNGF4aCbUYw07WxTtSuTeGU9I7p8xxL8sqc2rX97uXZBtYlNfJSQEwUHo9IJML3WeuUMUxS384b+ZmVKzaK87L4e7JxzucYa3on1pI+phXrYVsJsb4QkcKUAdpWN1Q117MoyDYRFBeYNFQI7ObtjsYbxhup/YoidpVJNuJU4qG65oX/1QujRI6839RHB+H5PTEKXSCFH91PaQznRlQZfSf4a/AXb5NBc0WukHd7fLEx19qVc5+XuWdOqNRK4ov2SpRHF+ht61Q3FbhVRmyaj+xMrTcHJPF7PSwpalmik5oFLql2b9Ag5TKtR09jyPSTsnICOtqUQP9rl+WE=;/q+k+/9BtZq/Ro/dOr2YUQ=="
 ---

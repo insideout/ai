@@ -1285,15 +1285,6 @@ related:
       - url: "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Facial-recognition-scanner-kids.jpg"
         width: 800
         height: 400
-  - title: "Alphabet, Microsoft Disagree On EU’s Proposed Facial Recognition Ban"
-    excerpt: "Microsoft President Brad Smith doesn’t agree with Alphabet Chief Executive Sundar Pichai’s backing of the EU’s call for a temporary ban on facial recognition technology, Reuters reported on Monday (Jan. 20). Pichai pointed to the potential for “nefarious uses of facial recognition” and favors a moratorium, pending regulations."
-    publishedDateTime: 2020-01-21T05:18:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/alphabet-microsoft-eu-facial-recognition-ban/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 19
   - title: "ZenGo Defends Integrity of Facial Recognition"
     excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
     publishedDateTime: 2020-01-29T18:54:00Z
@@ -1349,6 +1340,6 @@ related:
       domain: dailybruin.com
     quality: 10
 
-secured: "5pVTWLaTfERWuWvwLgTBs+74qwW0K2pCvfuMlwhjyM+nM9QS/pcHXCp0msN833jLTtx3Tuw2J8gT2KZLlvgtr7S2vDu7/q21ookTkVIwSTV2HItP+9Eszu1hsr4DilROzKNsS9KNaddLJnfXfZkKu95666KoOIwSQ2U0Lyzl+k93mzawOIYt6+GLkGHnvUMZLdKdxI/g71Ul7H4Eropkmob2ZiK4UDFxXMLLDOPqIorMHu8Z0uuun65Q5FNEjjocA1tNmMsTAnutu6ImQcp2xEvKgIocJFF6JbeT1F6B0BtBXCGkL1TN7CgdU1Fjb9eY;RfK/qt1TLR81dD+k8c+GVA=="
+secured: "F9v1YYN9e7dizKwvZDCj0UaNotpegyN5yAnCAVG1CpzmlpUSe0/kDxnQq9MmgfnuH+XQ91GUiKKOBuUbQ3IDcBryPqYcDVCTI4WzPbJ59qkGuSa97+hsyIIglJrCVHYHE/JuzYxi+cqLBMMFm59rtiCsuQvKDuTPToygKC1/9k5VyfBzob6lM3mFzZC2RdPUOYAA5LyaSrQxB/GErC6tsP/iVwHGERaxeZDlGZmXihPAdo+j+9Jj3ntZXLAVKnOyP0wiANrLHUO8IG51KkE3MTsU9SxLOoe+0/lyGmFRfSe12hGd/aH/XXFIjvSjJd79;M4fhKeqFxhN6SWZ4LPiXtQ=="
 ---
 

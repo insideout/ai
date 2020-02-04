@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/a
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/"
 type: article
 quality: 189
-heat: 220
+heat: 230
 published: true
 
 provider:
@@ -73,7 +73,20 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2019/12/Randell-headshot2.png"
         width: 537
         height: 485
+  - title: "Elon Musk Or Tony Stark? Tesla Founder Creates AI ‘Subordinate’, Parties Hackathon-Style"
+    excerpt: "Musk, who has crossed swords with Facebook’s CEO Mark Zuckerberg and former Alibaba Chairman ... The tech billionaire tweeted on Sunday where he announced the “super fun AI party/hackathon” at his house in four weeks. Also Read: New Research Exposes Vulnerabilities In Lidar-Based Autonomous Vehicles He wrote, “All that matters is ..."
+    publishedDateTime: 2020-02-04T22:46:00Z
+    webUrl: "https://analyticsindiamag.com/elon-musk-or-tony-stark-tesla-founder-creates-ai-subordinate-parties-hackathon-style/"
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 30
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2018/12/elonmusk_fused.png"
+        width: 1262
+        height: 1200
 
-secured: "1SeZaiB64Q6szYKjLN9C7HFZUO6Gi9yiDs/c9mRBsLE0D+zXr3Lw1CTHzlNRizmYZ4EFrrt782r0kEC4IuodPTPa0bcQjv7zZ7+fD5MwAG6AUdEL6HYnhCRZGKEBNcgbZ7lwQptlNVL3x/vIgHlc+0uL9a0/fT9Q985JbZRP++ko/jfIO9Nga7/eDJSIkhaa0FEPiNJOP0W+OXvvGZVnNs7slHSNu58GPgdhegNffNMcV4mEQtVcRJrb08tvgIBq2TYE293vPz2yT7cT+TIRYE0bPC68gy3PZKU8TWGlCmK9Xm/ixnm8DFXPjI0aZQiMUKf1q8yAwx5lGs2PwiIb51/OGoaK3CVf+VRFAerVw7iG7znGuuiZjP59Tq8SpZMCsY/kCtP3cTYGiYwwS2LFPnfbutd3ZTfkwy1Zs2QJXh12FYbH8ikaQ7bYbfCtMfWEFtZVmz7zTEC8nllxSa9DRYLMp7WhT49cg2KXqI8WDGzwkPZso8lIz5AFvcnksOXY;NvMmvFDNSR+lDSDivTf6bA=="
+secured: "2YzuxNhXdWK3G6Ul033vWUhQIU10lorMj4cHD7tXu+8eku06SWJDh0HYTDn9SnfWqAJRWQlZNGUdW2xFFJHkyqlnIjorFhVHv2ceGSRBUsh0/YUd24A8/9+9izPyE8smnL8uSXk2Qi/TmETYvHgmCykhaXizN8P3SR06+3jzbULrAJengnG612E7LsjjlyNTo3t9j5fLzq9x7ZrKmIbl61XHYtbbWmo6z//tISFtsFATg5ZBv1am6yOIHuMF7vzq6mc/XPzSmmVWO0em6kwnPLCRwFHmkCXQYKDkwT3vAKLKtwhGZXzNjkWW7KrkfjizeTn0GvUQgw2Zt9RD42gpqwXpZJhariq8Ag5J6Ik9DGzOo4fu9+V6E/GD8RNzo/1xJDnZIZTiVSHG7y21JxLIKO7hrbyUyS1bf5fb8cYUo7WQX1J4HG6jNrURT/WXqwo5j9GIdFchEP5LCvZW/r6ncxRAaCfJY7SdFSH58L2dfCzHhIaXaYYfUYJrcj7vkgZR;YUKouL2nFA7O36MRVp5ZBw=="
 ---
 

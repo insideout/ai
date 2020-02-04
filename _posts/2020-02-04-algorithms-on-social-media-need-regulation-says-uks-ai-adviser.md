@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.theguardian.com/media/2020/feb/04/algorithms-social-medi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Guardian
@@ -41,6 +41,21 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2020/02/1172808215.jpg"
         width: 1024
         height: 659
+  - title: "Government’s AI adviser calls for tougher regulation of social media"
+    excerpt: "New regulations on social media companies should be tightened to include more transparency around how firms target users online, an independent advisory board on artificial intelligence (AI ... The CDEI has published three sets of recommendations as part of its research, urging the Government to hold any companies which use online targeting ..."
+    publishedDateTime: 2020-02-04T00:05:00Z
+    webUrl: "https://www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/amp/"
+    type: article
+    provider:
+      name: Evening Express
+      domain: eveningexpress.co.uk
+    quality: 59
+    images:
+      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2020/02/2.48304518-496x372.jpg"
+        width: 496
+        height: 372
 
 secured: "OUOCIloDt7PcNZMc1EnexDhKF9qW//GMgpnbecKBFpGqlYZSP4SIDlOKpaojS+e584nnLKGikvxeXYYPRRSVSBBxwcZw9dXl5kK6KPbBf2ElldIGhLpOc5zDY01qP2pBTA4xrtxX7IXMqG43mCCRCGbV5egO1UI9to/6AO1Cm9MhcaVFhxfqS+XhOHLjRvk4jI6t7oQb79swlOwOOZRURNsHLqiPjOluVlyvp+onD0EoxnVlUHfYJedbkn44ec8gfe8MiC/c9GQCwTDHazVa4Pj9L88Q7fkGfYD2qa9NH0OaRfse6pPBo98aAewziRaW9eey4FzP6a/Co/jH78NpPIvfSDydVgGHJanWGKND5MGAB/JYZJh1W7mDSIfggrw781z68taDH/Gn39UodSpRsQHXRm7WOBTqW159r3pDph6yHsufcWeZnK9vPbDVum3yD0gXhaWcoue+uAQYbyheVwEJLweFejmEfPPbYWSjTos=;CMJ+mS6N+mfXg4MBxd8SlA=="
 ---
