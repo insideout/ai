@@ -167,6 +167,19 @@ related:
       - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
         width: 1920
         height: 1080
+  - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
+    excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
+    publishedDateTime: 2020-02-04T11:26:00Z
+    webUrl: "https://www.finextra.com/pressarticle/81357/veridium-rolls-out-facial-recognition-tech-and-behavioural-biometrics-product"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 36
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
   - title: "Facial recognition datasets and controversies drive biometrics and digital ID news of the week"
     excerpt: "Facial recognition and controversy around the technology were the theme common to most of the past week’s top stories on Biometric Update. After a few weeks of relative calm for facial biometrics, the biggest stories about court cases, regulation, and market growth were all focused on the same modality; and then there was Clearview AI."
     publishedDateTime: 2020-02-01T01:15:00Z
@@ -252,6 +265,15 @@ related:
       name: eMarketer
       domain: emarketer.com
     quality: 3
+  - title: "Army researchers investigate long-range facial recognition by combining infrared sensors and face databases"
+    excerpt: "Stars and Stripes reports. Continue reading original article The Military & Aerospace Electronics take: 4 Feb. 2020 --The advanced facial recognition technology could aid soldiers in the field, but comes with some growing cyber security challenges ..."
+    publishedDateTime: 2020-02-04T11:47:00Z
+    webUrl: "https://www.militaryaerospace.com/sensors/article/14104030/facial-recognition-infrared-sensors"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 1
 
 secured: "ljCqTwYZFstH/CV1TgbR60t86N/I1vO2A2KOzxtq2axXnZO7w/1jAtwYbHVo1YZAp/HuIkF+Ny6XB/SuMC/G+YYQNyJzyN/EG8x1g93WVsLwd7UBIkGdlGtjJTieXIsQuC9T0yZ6R4YbkAqBD2PJ03NZph2AzAcE6nnKYM1jsqWQDyi5Jq6dk/7vGh5SZIxiJbd77s/kG+90K9VfEYc9QnE3MuJht/QeTrRmpgeNtx8ZWjl4E/jrzN9eCJQR4nDAPE2R6DSW9vmfAIRjHWzoQdQ32NEgdBMp0jbXTsdZ+kFDowyUqjiTLzrnlmcAoBWLCSRdJAqi5rsph+ZM3gdsaCkFhWr4LBTgOYqFyzCnZ+lbX9m67UD6h8sFPRYnKr6A5PttTg4VbIpuvnewScPNYYhUYFKQjz7WrIH2y4MrGw4GAdClzdtqUfV7dxHzZ2quLqrR9utmCq0H/jY+dY7ACVOXP3HS1BuFC/vdonnH244=;NVUQ61KJeOKLnF2RFPTo2Q=="
 ---

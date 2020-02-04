@@ -37,6 +37,19 @@ related:
       - url: "https://mma.prnewswire.com/media/540539/UST_Global_Logo.jpg?p=publish&p=facebook"
         width: 1446
         height: 568
+  - title: "Fractal and ideaForge Announce Global Technology Partnership to Launch AI-powered Drones"
+    excerpt: "MUMBAI, Feb. 4, 2020 /PRNewswire/ -- Fractal (https://fractal.ai), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 100 companies, has announced a technology partnership with ideaForge (https://www.ideaforge.co.in) - a global leader in Unmanned Aerial Vehicle (UAV) Technology. Both organizations will ..."
+    publishedDateTime: 2020-02-04T10:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fractal-ideaforge-announce-global-technology-partnership-launch-ai-/2020/02/04/9091388.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
   - title: "CyberMAK Partners With Kore.ai Offering Conversational AI-powered Chatbots for Digital Transformation"
     excerpt: "It combines natural language processing, machine learning, and AI into enterprise-wide collaboration and automation through conversational interfaces, thus supporting the growing mandate for digital transformation. Kore.ai's platform has a multi-pronged NLP engine that supports 30+ channels, and makes websites and mobile app more human-like ..."
     publishedDateTime: 2020-02-03T04:04:00Z

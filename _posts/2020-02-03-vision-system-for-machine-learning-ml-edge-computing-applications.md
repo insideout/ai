@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T20:14:00Z
 webUrl: "https://www.automationworld.com/products/product/21112764/basler-ag-vision-system-for-machine-learning-ml-edge-computing-applications"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "Vision System for Machine Learning (ML) Edge Computing Applications"
 
 related:
+  - title: "Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures"
+    excerpt: "In this paper, we demonstrate a computationally efficient new approach based on deep learning (DL) techniques for analysis, design and optimization of electromagnetic (EM) nanostructures. We use the strong correlation among features of a generic EM problem to considerably reduce the dimensionality of the problem and thus, the computational ..."
+    publishedDateTime: 2020-02-04T11:36:00Z
+    webUrl: "https://www.nature.com/articles/s41524-020-0276-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-020-0276-y/MediaObjects/41524_2020_276_Fig1_HTML.png"
+        width: 685
+        height: 536
   - title: "Connecting Image Denoising and High-Level Vision Tasks via Deep Learning"
     excerpt: "Abstract: Image denoising and high-level vision tasks are usually handled independently in the conventional practice of computer vision, and their connection is fragile. In this paper, we cope with the two jointly and explore the mutual influence between them with the focus on two questions, namely (1) how image denoising can help improving ..."
     publishedDateTime: 2020-01-31T00:40:00Z

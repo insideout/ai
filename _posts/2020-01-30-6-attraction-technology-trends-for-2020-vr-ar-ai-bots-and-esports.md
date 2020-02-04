@@ -37,19 +37,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Platform Market Research Technology Outlook 2019-2024"
-    excerpt: "The Artificial Intelligence Platform Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2024. The Artificial Intelligence Platform market report is a valuable source of data for business strategists."
-    publishedDateTime: 2020-01-30T21:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-research-technology-outlook-2019-2024-2020-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "AI Software Market In Legal Industry Market Benefits, Technology Advancement and Future Scope Till 2024"
     excerpt: "The AI Software Market In Legal Industry Market covers important aspects of this market concerning fundamental parameters. The report explains outline of the business range, concentrating on the overall industry,"
     publishedDateTime: 2020-02-04T07:12:00Z
@@ -59,19 +46,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Computer Networks Market Analysis On Size and Industry Demand 2020- Cisco Systems, IBM Corporation, Baidu, Dell"
-    excerpt: "The report titled \"Artificial Intelligence In Computer Networks Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-03T11:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-analysis-on-size-and-industry-demand-2020--cisco-systems-ibm-corporation-baidu-dell-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -94,15 +68,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Global Speech and Voice Recognition Market"
-    excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice Recognition report helps make known uncertainties that may come up due to changes in business activities or introduction of a new product in the market."
-    publishedDateTime: 2020-02-03T10:10:00Z
-    webUrl: "https://www.openpr.com/news/1916446/global-speech-and-voice-recognition-market-analysis-of-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "ueA4yAQaIKu9rJZoitKQeEKJUtmJyzrRxfF4siiCz2k25Su/rCvGV8Mz93NJDpXGrP4+tb8myWVNb8UFiA51hkFvayNQ9KTZwD5Xd3rKSYPvmX1aEjvH2Wndp2j+Dn70YOL3VEXSSicT2qDELz1pqTqy3Xkqnyrt9g3fAIvFPpcijWyTfyaZrrdVrRjFZH//wjTE8vEUgxTRctEWotuffq9QMTxeuW45aU+0sRQr1r625S6mZb5NQl4hVR8CjI3vdhsvPtXgqX4CohaCSMnK3uK7YeXL3luwoZIfCdyNLsP3TWo03KkzDpRKceJiv5H5DHXauYx+XZg22I2QfEYuaDZh4KWEowM+hoEs+a+bSBUmzLcAIpEp+vyGVRTPdQULmmXxfzfPB0+HzaR2ZIh0PGB5NV89rXUPqp/1Tk37/baMqGv0trIfqhyoKKRioL9FXUQ9dnN3u5OjTkiLOEMk5W38i3E9tvuv6UDB14VUoBY=;qZHJHvVaCQhN1XH07MWBfg=="
 ---

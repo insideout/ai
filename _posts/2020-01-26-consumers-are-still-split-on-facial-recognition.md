@@ -130,21 +130,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg"
         width: 1400
         height: 933
-  - title: "We’re Banning Facial Recognition. We’re Missing the Point."
-    excerpt: "The whole point of modern surveillance is to treat people differently, and facial recognition technologies are only a small part of that."
-    publishedDateTime: 2020-01-20T18:15:00Z
-    webUrl: "https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html"
-    ampWebUrl: "https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2020/01/20/opinion/20schneier-privacy/20schneier-privacy-facebookJumbo.jpg"
-        width: 1050
-        height: 550
   - title: "London Police Will Begin Using Real-Time Facial Recognition"
     excerpt: "The city, stepping into a debate over privacy, says it will use the technology “to tackle serious crime.” London’s police department said on Friday that it would begin using facial recognition technology in the city to identify people in real time,"
     publishedDateTime: 2020-01-24T12:58:00Z

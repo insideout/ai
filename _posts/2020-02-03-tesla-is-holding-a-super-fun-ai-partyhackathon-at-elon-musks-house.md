@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/a
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/"
 type: article
 quality: 189
-heat: 210
+heat: 220
 published: true
 
 provider:
@@ -58,7 +58,22 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/elonmusk_party-796x417.jpg"
         width: 796
         height: 417
+  - title: "Tesla’s Elon Musk will be hosting an AI hackathon party at his house"
+    excerpt: "The hackathon will also allow Tesla to fish for new AI talents to join the team. On Sunday, Musk also mentioned that the electric carmaker is looking for world-class chip designers and C++/C engineers for vehicle control and other functions of Tesla vehicles. Musk reiterated that educational attainment is not important when joining Tesla but ..."
+    publishedDateTime: 2020-02-03T09:11:00Z
+    webUrl: "https://www.teslarati.com/tesla-elon-musk-autopilot-ai-hackathon-party/"
+    ampWebUrl: "https://www.teslarati.com/tesla-elon-musk-autopilot-ai-hackathon-party/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-elon-musk-autopilot-ai-hackathon-party/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 59
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2019/12/Randell-headshot2.png"
+        width: 537
+        height: 485
 
-secured: "iyaqEQcuc5L2b/IO+29YAoG0IM0QvP+4dYPI4YdNCkL6TKxw6HRRNF1ILtLInZBr81kEJNux0iSr4URd2oAruV3FUoHBEI9sTNzmUWYZFDEbQHANiqEEfEqD4HS+lbJvwbC8pWHub9+lT7h++WBlTJl1hiQSZhRw4MsSEBbXt6X/UACTB5KKRyEJSNucm25TF2ka/rxEEkKQQl+TJk5ZQ5IC1sFaCYf+lC0PNOuLXPehkKgEWDWTByZPPGFw0AqDzs2nLJAM7s0nEsEKjf01mUJcK3yz95TX5tGdmOl8JuIT83sK5250qGc3avCCH+AWp7Jfo7ENPz/V+xKjQQZ2wgR+Qi+lp4e/50tyLahqyRndNiHdmLfd6bcHa5uxuv8A6oGpEhk9/BzFhUk/dhm2gzfi7RFopuSw/2t2Ka4l+hPIMgXZ0mp4NTTATQrtK6K5flhg4pmTPBEli2h4FJP7rJszJXDrCpWNw1mcGNDXWuCihcLqjWQurrstfv7rDOJp;YWkxa4awL2dLMUfAmG9aOw=="
+secured: "hlnfVEUER8ChONxI86/NYHp4iRON996C0hwFqQiDsHlAVX8X8sCP3BEk7OrhbXpkC+6EZsEbpg4Cu3YdkbwNGSopw864l6LoMkNpnIwgHnSgzqua9Y3+HnsbFF2dpBCtptjWmuGRmizbtulHyUtZFqY7g9oPVaYrX6CKZV2BFXkUsbbriveQF2NZKLZypRXgBdrqTtzE/yBN+vxe3MSzK4VWuSgco982vXt+oKoQpFjXK/v0wIo7qaY48kA6qBC9i8U5p+w+HcD35c63kjoP6L3FfUBllL7IUX0kXujh/lQP27BR4BBH7LPyD4BXl8XoX1SlWS/Q1vrLUAq0rAkmHViKLZu4wDa38EmAUuQy0XsTUNYgARCB98Du/i1uZDz3xcAGtjxZSm2U/WfbA0nBd5tewnhl2B99iaU6RhENKUifSgz5rhlYcOrQImMbd0D9u0hWqKJOFMaJdOdQHoSWzc8XXnKQk1oFTpYm+7dzd5we9zUi3rF1UiFdvuD9L33/;eGY9FfM0wjxd5Y84HXjIKA=="
 ---
 

@@ -82,9 +82,9 @@ related:
         width: 580
         height: 334
   - title: "Intel kills off Nervana's NNP-T chip in favor of Habana processors"
-    excerpt: "The move comes after Intel spent $2 billion on acquiring Habana Labs, a start-up that makes more powerful chips. All development has ceased on the NNP-T AI training chip, while the NNP-I inference chip will be delivered to previously committed customers ..."
+    excerpt: "The move comes after Intel spent $2 billion on acquiring Habana Labs, a start-up that makes more powerful chips. All development has ceased on the NNP-T AI training chip, while the NNP-I inference chip will be delivered to previously committed customers, before development is also ceased. The move appears to have been a sudden one, with Intel ..."
     publishedDateTime: 2020-02-03T11:43:00Z
-    webUrl: "https://www.datacenterdynamics.com/news/intel-kills-nervanas-nnp-t-chip-favor-habana-processors/"
+    webUrl: "https://www.datacenterdynamics.com/en/news/intel-kills-nervanas-nnp-t-chip-favor-habana-processors/"
     type: article
     provider:
       name: Datacenter Dynamics
@@ -117,6 +117,6 @@ related:
       domain: crn.com
     quality: 34
 
-secured: "ymrmKPz9IWIE4IjvWgoo2yIwpR+08XQ1kSi757+SJ9GIunJOMZKjpqeMyT7fGzKIJBGH+6js1zWNwJ89/IBDRpmO8Wgg+ndMS1VbznzTtDirdTExhiu/bMiK5JZD0fbSwcXnSK2BXgglMGZ3q8ssVHGCeo3xqcm6iTO5NEiWCGs7WYKfkTDSVcf8/BmW7iZA0mI8jTlUBW4Cusu+5tsL7qUnLCKs1M6mrvG4FDgFYNpTmv+nrqtU3wTmth3cWh1UK05c4YLwirMeWB+akaaookHK9Xp4oZ2M9PpTUnYc4MBcANhJu1EXwDjHQRnRph4sr8nMO04IexAGY3FqX/k4zCjZbKxYAhV2S+sLpXsn6rc7MqD5J55dYKSJ7G+RItpiKgLKZW3+LtGTYKffkIavoenz1YTahlWMKcAxjeT7S8p/WyoxlvTS1jXCz6BhmkFpucGt1xQ9hO83Sk2FN8JRExRZwzX0OaTByHrAjaUXlVI=;gbGxNrX18b1GONVd2djQPQ=="
+secured: "gr1zx6cwvMJrRE5jVcSWU594zIVofCNbNwPqVMk+HCAI9QqEflIE834lRDbC2Nn8Dex5oOn8/3sEJxZeTuHoVUfgbVmBS7n8Fo99tNKSe8PPr2paORejyAfbuL3Bn5rG+73461mKafHhLdPJ/2CCeLqRFddcxTHMCn0cJ7hnWpCMCMySZO889ewunctPmukkWJUwXQAQSoUfqWQNSedT5xgXbiZDZbLtQzYYp0VKg8R9dOrLSteaT7437WXIP3dPOvpL3wb1UvEn50IiDR+joBTdMXci1oJmhedQSV52trP4096WrD8cZFg1/wD0f0n7ErpWXo/yGM4P75hOWS/J1p/Yl3qsqCMiU5ymvneQvAXcdVUl2TeFoXhgP5xjdHyARYVF6C3WqghitSfp0eKFI84DqojJLn9uAtT0rTVDSbeF0IYV6wv0b6pG/rxDUQTyIDxpLu04/Xtw1moOusoCKBSIGOnzD9Hh1YytBORHih4=;7dLBcCiW019U+pYDHe/BXw=="
 ---
 

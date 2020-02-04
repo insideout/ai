@@ -26,19 +26,21 @@ images:
     title: "New AI-based technique can spot low-glucose levels without fingerprick test"
 
 related:
-  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-13T16:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php"
+  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
+    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
+    publishedDateTime: 2020-01-14T13:07:00Z
+    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
+      name: Medindia
+      domain: medindia.net
+    quality: 53
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg"
-        width: 720
-        height: 302
+      - url: "https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg"
+        width: 1200
+        height: 1000
   - title: "NO Fingerprick: AI can detect low-glucose levels via ECG beats"
     excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
     publishedDateTime: 2020-01-21T08:28:00Z
@@ -49,6 +51,6 @@ related:
       domain: medicaldialogues.in
     quality: 19
 
-secured: "abB+si0G5h+96nofFwhTm+yB8JsSdbEqzEV0sLXgwsPAr+UoSLHBatDdT748hjlGaWqLI+4C9rnL2kqbAkxonrgq9LP1edjWdnjUpPsXJePoSrEXdHYAFU82BInS6GOjylvA1V9xrq8On3+FVyVCDvIQRS2ylOGSEPd+cgWB6Eifzkm/6xVdv17q74CeDMJ7JnwSXmZa125bt7aXnlX/SFjWAcKGdUM1343CLNMG3qVZFxKKH6/D6sC2rdQiIHg/0ALpWtdYVhwg3/azZN1B+XAvI++9Ear0Dcv5ia91i1PsLiu8YfiLgEag8tTUbFoc;MY8zJifSY2n4b//b62Rz6Q=="
+secured: "K/oMBmQjhR2e+pe+NyuA6W1ZrfDzBOrtbF+ouAE2EmbMuzcOGyNdNR64PZBcTcNnFFw55yWzz+nz4BivrN+XM6Te0ykt5e9sljbC/CnwVwm4uDV0O7L7LCsUDLVZCt41CMSRvTNn5V3hdCkMgvLw5BSsx0G6qP8PvuHnHo5XIew3YJ91cJKB7QDkrkzspfPrEbCIQF4JuRtXnpQ0X8AETMJAIpfzAfimUluKKJeF0qmeL2Yqtw0MNITQwy/0aEEqD6LSw01T4T8IKpao0EDaoLGMJKb2KL66vaY84t+LNHvfv5E60qP9FnCn7bRKD136;prOGkH1DNDr1NF7N6dLtzA=="
 ---
 

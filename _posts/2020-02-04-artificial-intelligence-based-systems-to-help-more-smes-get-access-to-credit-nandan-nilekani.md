@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T10:58:00Z
 webUrl: "https://www.bloombergquint.com/economy-finance/ai-based-systems-to-help-more-smes-get-access-to-credit-nilekani"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,23 @@ images:
     height: 630
     title: "Artificial Intelligence-Based Systems To Help More SMEs Get Access To Credit: Nandan Nilekani"
 
-secured: "eD4L7WGu452g1lhap5N5Pej1Cz0DUFspeHr5QrfrHJOZSLU6TBKrZaW1H3mNlXSGK0LWlw8Vlox8RT7EC/WPTm9ATr5T1DOK/InKhTSte2E0iMaX2FIidT91YIUEol8+w5hBgCZ20VR+iGR4+V1lJ1R/pEXYlFCdocuBiEZGvvaqctiyUW+kaeGDoSeLSPT/135eOY1MOybQzXmkumziv+1RY4LOoJ0APpdhnD3dehSKxj6NAjRJ4IRZ17/FdoP4odPA7baVIdndqHCaEPSEHn8JjfEDmfxIgZPWb21fqVEDwqLHJYHCq4ApmCkU2pwS;SSZq1ag4OfoVDdIZt4QhAQ=="
+related:
+  - title: "AI-based systems to help more SMEs get access to credit: Nandan Nilekani"
+    excerpt: "He added that credit decisions by artificial intelligence (AI)-driven systems will be based on business flows rather than being asset-based. \"It is good for newcomers because they may not have assets,\" he said. A recent Reserve Bank of India report had said non-bank lenders witnessed stress in their asset quality in the first half of the ..."
+    publishedDateTime: 2020-02-04T11:52:00Z
+    webUrl: "https://yourstory.com/2020/02/artificial-based-systems-help-smes-access-credit-system"
+    ampWebUrl: "https://yourstory.com/2020/02/artificial-based-systems-help-smes-access-credit-system/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/artificial-based-systems-help-smes-access-credit-system/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 56
+    images:
+      - url: "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/shutterstock1131418724-1580810234764.png?fm=png&auto=format"
+        width: 800
+        height: 400
+
+secured: "FfgvGegxSoFRcqU4BmK7f/o1Ch8yTuwy8U+XoV1m+hPSwVP/bykmFbJujKZdqB9p+GRsoBistkr6oWIo1v39Sqpf4NMPMQ2XaheNOdtMVdERaAgcCc8pLQwDroX83Iy2gwln3RUGQ6sZDMW6LSUBIBWnAYT1vyYGIvEADZivsQCtmbBq3gZNA6lU7ZBOQCB+AMOxQnoTDcRccuRkZs0TT4Z7DjnMWA3kX8nF8c1ogSOj5ioTTVAIMBj570zcOyTluJMvRzUoLp7ZMQfwrL5HR72GN+VSOug7DTOdSMo2AxnNBxix/wcB0EB698Cwd+5meMF+U26fvhZTio7n3163jgUOYSJ8CQat8TBYS951Vck4Psd5JlO2vFcpQu1NLJ+bKBPx2Uf5aizVF7kHsIM3DQI06QtlFsdEA1HmpdKlIvESUnpKqHF+3HMZxftbUTqesv4U76qifyr5PaW2AlG+FRjJeOlLeIkPrKPNILAwSXQ=;Rv6clPOw2WiFa0xTI0/KZg=="
 ---
 

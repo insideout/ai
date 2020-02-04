@@ -5,9 +5,9 @@ excerpt: "This post is important to those of you who have successfully worked on
 publishedDateTime: 2020-01-07T04:42:00Z
 webUrl: "https://medium.com/analytics-vidhya/saving-output-of-object-recognition-in-macos-opencv-python-5914bb5d9ca8"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: Medium
@@ -21,6 +21,12 @@ topics:
   - AI
   - Computer Vision
 
+images:
+  - url: "https://miro.medium.com/max/1200/1*v4BDPOmFbQgvNOORT0nu8g.jpeg"
+    width: 1200
+    height: 800
+    title: "Saving output of object recognition in macOS — OpenCV Python"
+
 related:
   - title: "Using Microwave Metamaterials in Machine Learning Speeds Object Recognition"
     excerpt: "It will discuss traditional... A machine vision technique that compares a template of the desired image (the correlation kernel) with the actual camera image of an object and generates a new image (the correlation image) that... A visual system including a ..."
@@ -32,6 +38,6 @@ related:
       domain: photonics.com
     quality: 17
 
-secured: "4878zrFNNjM5AJjwlswY4VrvGZgffBBXVw5Z6vbWIMUJjW+/r3gAUUUPXbKb2O8X4tbTbSnNYykjaAIyLtdSvtZEGJf3izG06y5DeYXJzI3gdRYxgCObua54PjzZB8ESVZCUFSLQivLLSZXac9byp8cR7lPs0RBJib+BwqEl30P8ASvTN0iQwj5JwEEG5hbb/dLhsZrK1WQiB9/RzQjYRMNXBPcFqo4rjwQmvGjPHq9Ukq71u0wX196jkYdiJA5uwcJNDvnPXb0qz72WZqyfJnCqduoMsoXOa+LX2RAXoD72M/nWDxrmwja6Pb3cDLtY;DyYoaH4vwhzfdrToCbJUdQ=="
+secured: "jxealC4I6yy2pcr2ux7NzJEt9qo2Z4H6N0/4n0wWGPyMBfqTiC6lj4XlxmVN5598C4vI/gL6/x0Lr3fI88o/cQDVfMaQtjYgZzxF9xX1PdbTwdujv8+vI0qFM9m74FY375AD3bS090N3PyHCZweNhSAOGMEqu15yLtwtTMFURLEyzd4OF5K1jVU/c4IHn1Hg1fPH7bMsFlQJ0PvprvTqX+CYcJhbXNwox2t6ok8dOZeam2YDMlIvlJzI5pZhTpwR5B/DhcHU/gUrJEgjHqBvIO7t8Ey53fICbgRNgPjwuncXDiKjYSFR5ymDFS/8kDJ6;qtj2NY9dbDNCThWKB67qSg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T08:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17"
 type: article
 quality: 78
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 2
-  - title: "Artificial Intelligence (AI) is the future in information and technology sectors - Analysis, size, business growth, trends and projections by 2025"
-    excerpt: "On the contrary, rise in the adoption of AI in emerging markets and the rapid development of smarter robots are expected to create lucrative opportunities in the near future. Access full summary report @ https://www.alliedmarketresearch.com/artificial-intelligence-market The global artificial intelligence (AI) market was pegged at $4.06 billion ..."
-    publishedDateTime: 2020-01-20T19:04:00Z
-    webUrl: "https://www.openpr.com/news/1901705/artificial-intelligence-ai-is-the-future-in-information"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "Artificial Intelligence (AI) for Telecommunication Market Precise Study on Factors, Market Drivers and Key Players Strategies Analyzed Till 2025"
     excerpt: "North America is the leading/significant region across the world in terms of market share due to rising R&D in autonomous vehicle, healthcare, cybersecurity and security and presence of access control technologies in the region. Europe is estimated to grow at stable growth rate in the global Artificial Intelligence (AI) for Telecommunication ..."
     publishedDateTime: 2020-01-22T07:06:00Z
@@ -82,6 +73,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "nFmTcRYXv8Pp+/q33cdisPIhVG4dYG64iGxauRE6t29BAQWYvTygILiIbQuygB0nfsa2Roso/7FklgzSfP6YTEJhYkv4XvNRXlzFLIq9mRSQrMwkhLj94k9AwrnWjc9PSohD+OrHfe61JWV8dJV6Zz3dweTf4rVSopYYTWsLsA3rdydVgy7WLOLSN7Sc2+hBbvs1Gz3sKebgb9relKr/tsRFzFhzCH1xi9fA4k0/bk8GT89WGtePBl2QguzVud/jT0hcA+5RvEXYM94/pc+zL7JM/IVkoFw6BPlrXriZgBnIgJKYKGmBpBL0NBXjZAfg;6EMg0Y01t5RVgmSKQP9OKQ=="
+secured: "+80slHplA2TNsPiP3jveIfmk7q0LiGggHJfYlNV9MOHnDQ5ohyZj0+T0P3PhZUGrrph+9Mx1P6V2qk673uKK6G6aQOT+hh8+3gbxplKoc9owOHgYxggUy5rkZRXlJCFVXWJb8Z3yq7FDKSECroYSIDHG28qAHbE2qe5HsM+Y/TVG1uzTUVLmMex0VD+RII6XZjxYFvuAXyAUxtPomduGZ2bm+/jfHixh7Z1erNK12H/AJUPA/G38akh9ISrwdkhpWhKWeA7Ix7tPPadGkFx+Wc74LyITbMaWhEwEq+ZtbvPt1oAl62AZH/zEG91nbu2h;jS7ElNOWFkT1jQKdpCCwyg=="
 ---
 

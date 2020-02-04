@@ -66,15 +66,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 2
-  - title: "Artificial Intelligence (AI) is the future in information and technology sectors - Analysis, size, business growth, trends and projections by 2025"
-    excerpt: "On the contrary, rise in the adoption of AI in emerging markets and the rapid development of smarter robots are expected to create lucrative opportunities in the near future. Access full summary report @ https://www.alliedmarketresearch.com/artificial-intelligence-market The global artificial intelligence (AI) market was pegged at $4.06 billion ..."
-    publishedDateTime: 2020-01-20T19:04:00Z
-    webUrl: "https://www.openpr.com/news/1901705/artificial-intelligence-ai-is-the-future-in-information"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "Yexji+STRLtMo2E25vy+6nePpJeudoKDaH80ylD8ukOzL6UOy8+zhdF8uNjR/ABM/8eVsm8xC856vRvF1Rt/ttXKbV5bqQclIQloIurzXAYQkI1VvzBzzs6OGS8uPShlXloNIz5KswBz7JHnJRGIS3pp1yLOHtABCbek7lCpC1A+vsy24S4zk4LtuP3kbFG4jCZSifcFNZ/ZdmY10DVyHls8rteUxRRHfBs6unjIT9EFZvAIl8S3knOzW/ES/TyqyJZdexGoC45umo7OOrJO7SnX+yMiTzWTz28152cfnAM=;soGrqohGJXlS0JtTLSDgDg=="
 ---

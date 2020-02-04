@@ -82,9 +82,9 @@ related:
         width: 839
         height: 580
   - title: "Intel kills off Nervana's NNP-T chip in favor of Habana processors"
-    excerpt: "The move comes after Intel spent $2 billion on acquiring Habana Labs, a start-up that makes more powerful chips. All development has ceased on the NNP-T AI training chip, while the NNP-I inference chip will be delivered to previously committed customers ..."
+    excerpt: "The move comes after Intel spent $2 billion on acquiring Habana Labs, a start-up that makes more powerful chips. All development has ceased on the NNP-T AI training chip, while the NNP-I inference chip will be delivered to previously committed customers, before development is also ceased. The move appears to have been a sudden one, with Intel ..."
     publishedDateTime: 2020-02-03T11:43:00Z
-    webUrl: "https://www.datacenterdynamics.com/news/intel-kills-nervanas-nnp-t-chip-favor-habana-processors/"
+    webUrl: "https://www.datacenterdynamics.com/en/news/intel-kills-nervanas-nnp-t-chip-favor-habana-processors/"
     type: article
     provider:
       name: Datacenter Dynamics

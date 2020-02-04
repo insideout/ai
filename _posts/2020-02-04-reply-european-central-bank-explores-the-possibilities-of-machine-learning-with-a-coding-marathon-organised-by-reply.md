@@ -1,7 +1,7 @@
 ---
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
-excerpt: "The European Central Bank (ECB), in collaboration with Reply, leader in digital technology innovation, is organising the \"Supervisory Data Hackathon\", a coding marathon focussing on the application of Machine Learning and Artificial Intelligence."
+excerpt: "The European Central Bank (ECB), in collaboration with Reply, leader in digital technology innovation, is organising the \"Supervisory Data Hackathon\", a coding marathon focussing on the application of Machine Learning and Artificial Intelligence. From 27 to 29 February 2020, at the ECB in Frankfurt, more than 80 participants from the ECB ..."
 publishedDateTime: 2020-02-04T10:20:00Z
 webUrl: "https://www.tmcnet.com/usubmit/-reply-european-central-bank-explores-possibilities-machine-learning-/2020/02/04/9091387.htm"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 335
     title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 
-secured: "/qw8n2c5eDUUOxiLFn39Jb93wGL2rlZLfJSh94uW264kNPoqK9EugeznQp2V52DQOfXzasXmD6f0O8mMIWCBwzcMJY0o7Z1COpStZUiw8TyB1SPZRYH0jVCaZ0G4lOajRkttt8Az4oKomjx0apGatQG/3MeZrZIpGQ1Izo1rz66FTmzXWfM/NfMxQubb+BRew3Y8B3LAqU0eDhRAE5+E3cZjXhF4tMvzRoDqlDibw4lM9/OtjIrJWVLX4/6MTc/IzlMb9EotSS6cYwN4scj5vmxvsdEIfJ+bM26wsWjXOt4qtFWtqvQMAwgy0e73rnDL;aWEBzhIlumqEVOPVZ4sgPQ=="
+secured: "u/mkTiIHFOCDFVXu5hyVpIWnGoHhU+Ru+6lEiXU4QccBdadk2nbo1TP6woFQCr5Y/0LaT5TVF5MKwLXllKES/GhiYXZcvFP7+3h8DJ6TB8otYoxZof5QqK9uJa6H8Vieb7ceMTAvOUI8jH1FojBaCn3llVu7rPYlhfS19iTttZ8FBF6pmyC2/j52MK9AeXlxPtPuuIguCyWGUHT58SlxwPW4VdHcZr6O2lcLRJa+zDsjTmpXHOPsG84RBzFBy8TjBLMKS3KNxuW3LkaOjGKzVje27CV7TKk3NRIR8vtUwWV91YWYyZU1pN1Q9iT+i0mV;jKx2qctxANHtYDmXXPgj9g=="
 ---
 

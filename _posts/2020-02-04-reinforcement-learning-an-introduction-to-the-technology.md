@@ -23,6 +23,17 @@ images:
     height: 720
     title: "Reinforcement Learning: An Introduction to the Technology"
 
+related:
+  - title: "Reinforcement Learning (RL) Market Report & Framework, 2020: An Introduction to the Technology"
+    excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Reinforcement Learning: An Introduction to the Technology\" report has been added to ResearchAndMarkets.com's offering. These days, machine learning (ML),"
+    publishedDateTime: 2020-02-04T11:38:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979339/0/en/Reinforcement-Learning-RL-Market-Report-Framework-2020-An-Introduction-to-the-Technology.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+
 secured: "EAP6E58k4hj7uQSZZhWLgEmwTpxR/Q/codL1Rw0iwFUe/+MZ8WoVXRM1zOjFYTNfhjfXDQc719PUpZwN+QvKL6lPw3If2zlYG1YXWHJmKq3xzYSHG73GdJgESEbN+CuWrwDPzwHKzpEnYBP/RVLGDzahgT7HaKpwu02Wu6snCRCnsyF3JVTh0/qJ9tW8WknKG3g4qh9+5huXbr7ChKB87EjVLTCdOyrqEOMKdc7e+7UTOUqST14yXL6e9eHIRWrn6XZHJk7FgB0/E71F2HHJS6k0dQT//vtQSXd3EJR1Q8kf1lKCnmB02l4fNF4JA7a9;fgpzBPVHvE0WAPmSo5rHqw=="
 ---
 

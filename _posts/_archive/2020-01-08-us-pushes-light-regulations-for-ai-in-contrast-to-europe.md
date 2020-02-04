@@ -25,6 +25,6 @@ images:
     height: 773
     title: "U.S. pushes light regulations for AI, in contrast to Europe"
 
-secured: "BNR/ovf5kwF+ZODZeB4rqemFvfUYzGemDAVAQUBm4VpVIn7Sk081EblGecBp9T1QcqKLg/edm7T9i1KoTWOhyvQmKCvjcmbDeJHTJuIrYIteNXufzFHAukqMo7V9Rnkz0zxUEakzb1unUvWCo+uiSz1x/C9ni3bgA5SJN06RKUXRmVVe/k9g4KinAd/p3iP9B8xTgwVMmC8auKqjIIQGmqg5Pa00EjYQN+9UnuJ1kzK0KlFbKjw5k0PrpkIbjwnuBVxxmCc0pSyVt19UeLG/Wahcff0Javi1QD1oUgYqoLj8h8OPhEzZG6xeaROOfM2d;oknmcWQt/rvVVCKIFqXbKQ=="
+secured: "oaIW16pdLr9UOcTy6qTOzJCBvzhHgkMhTKZk+54Vxfib4Ei04JyMXQVHm3wokUFpWQ2HWo2QAH46VuJCF6MnbAyefmrWZZOrS64d6pivz6ud4nIebWopZDTJ9tLLq5+aOX2Xp6g512GhVi1/WkD4BsCgz7+xXCpDcvaWw3d7Ap/2XLcvPI8a0KmkGECNUhR+g99FtPYOU9jGwZajhIJDtK1/kWC3et51x7ix81BVRJs1auCgeryVpicebbuhmHJR/CbpFo8y1zTcHPTiUFR7nV/lXismrrAHbEue9qlg9GeyWoPzhnEt8MxQENpyYWVq;x8AgLcCZ/l7vOBMwAYyxsA=="
 ---
 

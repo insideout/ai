@@ -28,60 +28,102 @@ images:
     title: "Machine Learning In Automobile Market Latest Advancements and Industry Outlook 2020 to 2026"
 
 related:
-  - title: "Mobile Artificial Intelligence Market Continue to Grow as Industry Spends Big to Reclaim Market 2029"
-    excerpt: "A recent market research analysis titled, Mobile Artificial Intelligence Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Mobile Artificial Intelligence market covering industry surroundings,"
-    publishedDateTime: 2020-01-23T06:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-continue-to-grow-as-industry-spends-big-to-reclaim-market-2029-2020-01-23"
+  - title: "AI In Fintech Market Size, Status and Global Outlook 2020 to 2026"
+    excerpt: "Global AI In Fintech Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries, Product types and end industries."
+    publishedDateTime: 2020-02-04T10:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-status-and-global-outlook-2020-to-2026-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence and Cognitive Computing Market Foreseen to Grow Exponentially by 2026"
-    excerpt: "Ameco Research announced the latest market research report on “Global Artificial Intelligence and Cognitive Computing Market: Global Industry Size, Share, Trends and Forecast, 2019-2026\". A report on the global Artificial Intelligence and Cognitive Computing market has been recently added to the ever expanding repository of Ameco Research."
-    publishedDateTime: 2020-01-21T05:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-foreseen-to-grow-exponentially-by-2026-2020-01-21"
+  - title: "Artificial Intelligence Platform Market Research Technology Outlook 2019-2024"
+    excerpt: "The Artificial Intelligence Platform Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2024. The Artificial Intelligence Platform market report is a valuable source of data for business strategists."
+    publishedDateTime: 2020-01-30T21:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-research-technology-outlook-2019-2024-2020-01-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Deep Learning Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
-    excerpt: "New York, January 21, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
-    publishedDateTime: 2020-01-21T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-21"
+  - title: "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis"
+    excerpt: "The Leading Distributor of Market Research Reports, DeepResearchReports.com published latest report on \"Global Artificial Intelligence (AI) in Fintech Industry Report\". Artificial Intelligence (AI) in Fintech Market segment by Application."
+    publishedDateTime: 2020-02-03T09:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis-2020-02-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Cognitive Computing Technology Market 2020 – 2023: Business Trends, Emerging Technologies, Size, Global Segments and industry Profit Growth"
-    excerpt: "The study indicates that by technology segment, natural language processing is the most prominent technology used in the cognitive computing industry owing to its integral capacity to process natural language interactions. At present, automated reasoning and information recovery technologies have limited applications thereby, restricting the ..."
-    publishedDateTime: 2020-01-22T11:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15161098/cognitive-computing-technology-market-2020-2023-business-trends-emerging-technologies-size-global"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15161098"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15161098"
+  - title: "Artificial Intelligence in Computer Networks Market: Competitive Dynamics & Global Outlook 2026"
+    excerpt: "ReportsnReports released a new research report of 128 pages on title 'Global Artificial Intelligence in Computer Networks Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2026' with detailed analysis,"
+    publishedDateTime: 2020-02-04T09:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-competitive-dynamics-global-outlook-2026-2020-02-04"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 10
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://www.abnewswire.com/uploads/1579690500.png"
-        width: 800
-        height: 428
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "North America Self-driving Car Market Size, Future Outlook 2018-2023"
+    excerpt: "North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers."
+    publishedDateTime: 2020-01-28T13:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-size-future-outlook-2018-2023-2020-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Computer Networks Market Analysis On Size and Industry Demand 2020- Cisco Systems, IBM Corporation, Baidu, Dell"
+    excerpt: "The report titled \"Artificial Intelligence In Computer Networks Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
+    publishedDateTime: 2020-02-03T11:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-analysis-on-size-and-industry-demand-2020--cisco-systems-ibm-corporation-baidu-dell-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Natural Language Processing (Statistical, Rule-Based & Hybrid) Market Outlook to 2024"
+    excerpt: "/PRNewswire/ -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends"
+    publishedDateTime: 2020-02-03T19:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-natural-language-processing-statistical-rule-based--hybrid-market-outlook-to-2024-300997768.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+  - title: "Global Speech and Voice Recognition Market"
+    excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice Recognition report helps make known uncertainties that may come up due to changes in business activities or introduction of a new product in the market."
+    publishedDateTime: 2020-02-03T10:10:00Z
+    webUrl: "https://www.openpr.com/news/1916446/global-speech-and-voice-recognition-market-analysis-of-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "3AeC4qIbu/wzYxludaJB7vq0snYicIKETNtKZdkLLgIkU9wpNdKGrNECH22MX8/qSCq9C8BAbCzusAsSY9iF9i9r6wghBrzkQ56U1q90Ix2pDf5ZLjOewC6yCmEAipPt2nRwEJwPG4SI2UDt/ruxjcJLDwg07r1vsNIJEZACJbJhfbAfHthtEVfSljuTBFMhm8PmyYuPCXoV4Gsn5RpWF4GIE8aJfDrVfAqScopdpkS831NYMOz15zAZ1+B4+qcw1mLKgFJ+HFWubhph56Yf/tlYdULeXBQUZ5W1+V+4QWKGZaTKJuPRjYWNgaZRKbID;zR3BEN5b3dwF0F35TSa46A=="
 ---

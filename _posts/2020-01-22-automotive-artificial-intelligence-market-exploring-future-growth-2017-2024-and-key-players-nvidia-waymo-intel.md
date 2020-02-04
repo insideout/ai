@@ -59,15 +59,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 2
-  - title: "Artificial Intelligence (AI) is the future in information and technology sectors - Analysis, size, business growth, trends and projections by 2025"
-    excerpt: "On the contrary, rise in the adoption of AI in emerging markets and the rapid development of smarter robots are expected to create lucrative opportunities in the near future. Access full summary report @ https://www.alliedmarketresearch.com/artificial-intelligence-market The global artificial intelligence (AI) market was pegged at $4.06 billion ..."
-    publishedDateTime: 2020-01-20T19:04:00Z
-    webUrl: "https://www.openpr.com/news/1901705/artificial-intelligence-ai-is-the-future-in-information"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "Artificial Intelligence (AI) for Telecommunication Market Precise Study on Factors, Market Drivers and Key Players Strategies Analyzed Till 2025"
     excerpt: "North America is the leading/significant region across the world in terms of market share due to rising R&D in autonomous vehicle, healthcare, cybersecurity and security and presence of access control technologies in the region. Europe is estimated to grow at stable growth rate in the global Artificial Intelligence (AI) for Telecommunication ..."
     publishedDateTime: 2020-01-22T07:06:00Z
@@ -78,6 +69,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "wB21bbb69VfnPk6mPQ9F0MyVFzaRm6VSpB4J70TA8dmy+eHcIDUijdnSq8mMal8Rq5pgfP7aCxQm8zMtZq79bs1jiO1hsigt5B4Itgr3fI3W5DH7UtYUWvm1vS7zOSlveruMlic6mbkfb5LNzBETwEO9FEA9svBRCJUGff8eQmaiVH/WH0GXkopBxNLD5H+Sm5+leC3BAktk/ULEs5grDbg1vVy/PHKyb3+B+HPZ+qr8ftTA8yUeK3bZu7VpUuTBBnwbrVrctFi1GEPZwjTk89UrQ2xN/XXla8cgRUSIyKGItS/wplPedIG9AW4Fv9Ao;+0Zz+x/+jZLiXeAUwXiYMw=="
+secured: "Q4VJvmUPA4OsYrJyz+jxh0wsuzU4/9wG8pFCYLgc58Lvj8DJ0fre/jHVMKTXp1LKI+SikLmym/O+A8l+rxSYpDINZr98Pzn485z4GkL5raTYfG8rAjtb6TeO8E4dDV3+1gNB2J5ctIlOGx90INFhK1FYfGL2Y+Xb7U+artHDQZbs8ogBxBVv27/SFqZX9Q58DQ9USgEPuYkA00bpoOSlqEi5aNXifp0xYjZ+VknQOQ2ELvcbSwDOZ4FhTES2GJ2XCBl4iw5++82cWmm8UQczNXxzniDzRnN7iZDE5WnkUiGN89DG1ZNLyIooRX2UHUzF;EsOsZf8uDActUy50jmRP5g=="
 ---
 

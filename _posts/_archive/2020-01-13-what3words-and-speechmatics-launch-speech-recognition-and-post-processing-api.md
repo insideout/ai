@@ -39,16 +39,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Speech and Voice Recognition Market"
-    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
-    publishedDateTime: 2020-01-16T03:17:00Z
-    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 54
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
+        width: 849
+        height: 565
 
-secured: "zSSF/omm3Q6AgOEK9i3ceHKlJkYBX85T/blgkX2pXdc+nM2v4qpIx+Ra+74BByNi2TiTG1mBJsRLIYNCRnVe64jc1Yd7MpBM8v0HO1SBw0jMgtNgNqg+LNhtg9PmKadPx2UHrZS6bKVSRepAICLulof72+lsFOaabnOeBURU01fM5vU28Q3/gRHJKZO8vJQLUwRY6mkW7JvFlvZnuKqYVtVzl7xjpRV7f8t4iHuXnc3jkTtiYbHR5BmOc71eX+bjlJQNyK3yXdrgW8r43bj2wbnnWVgVJOWz2ilooDaJ33TIYofN3+AMPNU/ahYuDHna;D7sPP/IIIp3fI/DE69/m+A=="
+secured: "P8nt3ALvto7NoT3r5daZssjdNwksSG9lBwr/cq3ob4gso9q9ER9aBvdklHwsSvOM/WZiWk7ItqU7bp0ZVG4ELwkxQjgP8KqFsthQwlQCMW1F6EOHeCFj1wZUd8+adBAdqY4DFAqx3NUQWXJ59GpZk9bRaCshX8dROc2oNtXYD80UhWcUjBY4+4azdTeTyz2RDq4itMsA8eHVikLi/fU0u6gxZQ597KFb4e+/DlBaLBUK8r0kkOdrrcWMD0MGXvewaLlzUagRiFI+NMgMc5S59559R24DCgEDnE99heJZgc2oTvFBf8cJNDHKkE9gsikc;sKzzPzsXiJHKNhts4lOaJQ=="
 ---
 

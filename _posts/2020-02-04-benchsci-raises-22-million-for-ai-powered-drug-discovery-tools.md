@@ -28,6 +28,6 @@ images:
     height: 600
     title: "BenchSci raises $22 million for AI-powered drug discovery tools"
 
-secured: "y0FJtx3r5PMinbFSaM2AAz1Y+XCpy5pTgrtdI8BXNocZgScvi2or8YqSaOMtWcV0KmG2hgC5MRI1vHCF40aa+iuy0Q741yA8cVpjtgbZMo3di5/gw1lKZvHphmaVAoNRd0i6UPowbPqSHM/BRb/9HsKhsAX6IaPeDE5ffAoeLhsLtGtS82FHNKPLWKxvB3WY8PwokRImy9teW3sAkdRMrIRVgjDKQhsgPsLoyGht/2ZdBLHnupUmC45cEJdNoIjB/GSJdtQYvu5HQvydz9s6e0qH7HFxz5+ts90YC9DpxEV6mlCZBiwR25ho+xaIFiQX;iCPHhWkrREPuszuMpq6Cfg=="
+secured: "13u8zpe0WapUdU8UDE12oELPNOWGVDcbyux1gO3GZ1gVND7jmi9TXfh2uW2b0r+qNBXTFw+ckop+/mehcLA+BTqhj57nEQqd+O+BWfRLW0xao/Z6PY75ePl3tdxMTvfZWNy10CPSw1s4iHrioC432H7tec96M86p7KlZeZJsRfmZA2+juj0mX+O7+oV3x65NaR+AmdCUQe5JzMlBMUdDqRufmWd/wVWDROuOiRtilAYmDbXv0LKOd/H/gl2z9Z3qfuDzY4PL2ejReq34wCSRVruyA7rupj7Ewto/BR+k+pTYta60uN43j7gg74JfltY4aNwL+N4wOxLPXh/CcR7hlB3kvIiNRl6DJb9xzg/eCapmqIVJ/h4KdZl/Sjzwn92EYNkM1adAOWnuVL97WACcdh5ccaixwsELuFlDsurkHGLJeKYT697QK52tTP/B+VBKBJ2LNDLn4bbW8/25WSVkAbYYxzUhBTtZ1AEq2PO4IVY=;LAQ9z4kvO320taY8euj/hg=="
 ---
 

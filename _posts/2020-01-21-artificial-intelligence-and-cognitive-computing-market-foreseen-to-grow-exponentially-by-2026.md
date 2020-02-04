@@ -40,19 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Machine Learning In Automobile Market Latest Advancements and Industry Outlook 2020 to 2026"
-    excerpt: "The report presents an in-depth assessment of the Machine Learning In Automobile including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models,"
-    publishedDateTime: 2020-01-30T04:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-automobile-market-latest-advancements-and-industry-outlook-2020-to-2026-2020-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Deep Learning Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
     excerpt: "New York, January 21, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
     publishedDateTime: 2020-01-21T06:30:00Z

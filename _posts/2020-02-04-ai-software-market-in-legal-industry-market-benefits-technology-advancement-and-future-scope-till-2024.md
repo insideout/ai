@@ -40,32 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Platform Market Research Technology Outlook 2019-2024"
-    excerpt: "The Artificial Intelligence Platform Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2024. The Artificial Intelligence Platform market report is a valuable source of data for business strategists."
-    publishedDateTime: 2020-01-30T21:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-research-technology-outlook-2019-2024-2020-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Computer Networks Market Analysis On Size and Industry Demand 2020- Cisco Systems, IBM Corporation, Baidu, Dell"
-    excerpt: "The report titled \"Artificial Intelligence In Computer Networks Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-03T11:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-analysis-on-size-and-industry-demand-2020--cisco-systems-ibm-corporation-baidu-dell-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "6 attraction technology trends for 2020: VR, AR, AI, bots and esports"
     excerpt: "Last year did not start well for robots. The Henn na chain of hotels in Japan ... An exhibition at the University of Oxford showcased art created by the world’s first ultra-realistic AI humanoid robot artist. Ai-Da uses a robotic arm and pencil to draw what she sees thanks to cameras in her eyeballs. AI algorithms, created by scientists ..."
     publishedDateTime: 2020-01-30T14:37:00Z
@@ -97,15 +71,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Global Speech and Voice Recognition Market"
-    excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice Recognition report helps make known uncertainties that may come up due to changes in business activities or introduction of a new product in the market."
-    publishedDateTime: 2020-02-03T10:10:00Z
-    webUrl: "https://www.openpr.com/news/1916446/global-speech-and-voice-recognition-market-analysis-of-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "zoUEF5c8nRlKxjYPukrCYh2PzDjkwwOV71o877k0ZZZ7miH7b6cbYGFJj/XBlvqrqug0ZWZK39705mq3+IIjgPsuiFsfC9+t3cidE1qyOoztKtLxXSsvCRIbfGYZ0YJCxCYDt7m06Zqba+dqV5JkxJKrUQQJTlxEu67cEFCSRrcOQ6HTy1XbjqajIAFlb7LVGLgnLcq958VXw8Iy2we7O3p6kGmGlBXRdT6oMRs+zs9YiKdlmHfye2UpiiQRO5ICw8eM6uzn1p+PPXd4pVBVUWsQqH3dbbT1z1lQs4PMpbf5Ly4Od1BU7rP1jkv//1aQ;cn+2OgoWXz006HUugM/kug=="
 ---

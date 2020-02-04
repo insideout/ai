@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Intel kills off Nervana's NNP-T chip in favor of Habana processors"
-excerpt: "The move comes after Intel spent $2 billion on acquiring Habana Labs, a start-up that makes more powerful chips. All development has ceased on the NNP-T AI training chip, while the NNP-I inference chip will be delivered to previously committed customers ..."
+excerpt: "The move comes after Intel spent $2 billion on acquiring Habana Labs, a start-up that makes more powerful chips. All development has ceased on the NNP-T AI training chip, while the NNP-I inference chip will be delivered to previously committed customers, before development is also ceased. The move appears to have been a sudden one, with Intel ..."
 publishedDateTime: 2020-02-03T11:43:00Z
-webUrl: "https://www.datacenterdynamics.com/news/intel-kills-nervanas-nnp-t-chip-favor-habana-processors/"
+webUrl: "https://www.datacenterdynamics.com/en/news/intel-kills-nervanas-nnp-t-chip-favor-habana-processors/"
 type: article
 quality: 39
 heat: -1
@@ -116,6 +116,6 @@ related:
       domain: crn.com
     quality: 34
 
-secured: "kZR6ko4MfOHkdMgbj/YAeX5Yt40ZN/vid7IodaWitJdx18ER4epoT8VUNgYx4IK654PK3vkQy4udnmcZLJ61b6QpeS9a/bS72eHi5hSDuf6LnHX2hoDTYoY27oyO8yHYEofVmIIIrtrtPZbVPiuhA/dU2p8+GLi9dbcQcf5FJq8h+fTmMySVCsx1Y7qYn7F8aMIGWmpcfI3aeLU+BdXu26bHoEr52lJUCr705q5gBTe2PLJJc0iniE7Wh7yDUeC+NpqnFgwfuh9H7Ieg+Nq2xlb75pT/ZbILfJVZ0kPbyjdiWeBepyFgRp+pYCoSeg47P7vgdGy234GrXtbeMAX2NUSANcezGQlTacIfIpGiGxe+PIX3Ancjfq0160ULTMN+2r1WlybMNQ+sFPT1zJ+YBv3PibMl/zbVLaTSg/D4RjzJKrxZfhYhwCmt8tYXRc7dgjxHz98MVpZGc87zkdciWMmIBzM7N7+ouog93I2pquo=;DWN45mpqYDaVszrPtYk5eQ=="
+secured: "ie20xAu9LaiH3R+PITqKI0zLP6Bpeg6igXdb57MMVpttFrqJs1RFbkxLyPG/Y/vDXm9Wz6GKqVSu6ufyod6nVPclW2FCSNEaE3dTye7zVSL+Lbwy5jWoMDF4K4MzMFOZqgxNqtSN4HbNi8jJCZjVDcWz0OxWYgw6BwXLyR9l4JtM51GwPN54Ms1Guee5q19qUbasMzr7LNYkSYP55CayL+wgJHTalPX2leTrddcV2msWvyOc0opSHD3EuVS5qnclfc+ZTIKGPX3E+22kCsCJyC/vc7zDdwG35UiYMv+k1nMVH74ULS6FcGilFeib+IwQ;26DjAtkecNwQ04UuWVJNxQ=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-15T18:51:00Z
 webUrl: "https://wwd.com/business-news/technology/microsofts-satya-nadella-on-empowering-retailers-with-technology-1203424736/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Women's Wear Daily
@@ -24,35 +24,29 @@ images:
     title: "Microsoft’s Satya Nadella on Empowering Retailers With Technology"
 
 related:
-  - title: "Airtel Teams Up With Google Cloud To Take On Jio-Microsoft Partnership"
-    excerpt: "In this partnership, Jio is also leveraging Microsoft’s speech and language cognitive services for its device ecosystem, providing support in 13 Indian languages, with the flexibility to add other languages. While both Google and Microsoft have entered into a partnership with Indian telcos, Amazon Web Services (AWS) is currently leading the ..."
-    publishedDateTime: 2020-01-20T15:49:00Z
-    webUrl: "https://inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/"
-    ampWebUrl: "https://inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/amp/"
+  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
+    excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft ..."
+    publishedDateTime: 2020-01-21T13:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2020/01/21/9084223.htm"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 74
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
     images:
-      - url: "https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2020/01/Untitled-design-2020-01-20T211049.620.jpg?fit=1200%2C628&#038;ssl=1"
-        width: 1200
-        height: 628
-  - title: "Google Cloud and Bharti Airtel partner in echo of Azure and Jio telecoms deal"
-    excerpt: "Citing machine learning and infrastructure capabilities ... According to reports, healthcare software provider Epic is opting to move ahead with AWS and Azure as its cloud providers, citing a lack of interest in Google Cloud among its customers. Healthcare, alongside retail and financial services, are the three primary industries Google ..."
-    publishedDateTime: 2020-01-21T10:51:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2020/jan/21/google-cloud-and-bharti-airtel-partner-echo-azure-and-jio-telecoms-deal/"
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
+  - title: "Edith Cowan Uni reduces IT costs with migration to Microsoft Azure"
+    excerpt: "According to Microsoft, Azure is already changing the way that ECU uses technology ... Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics ..."
+    publishedDateTime: 2020-01-21T03:25:00Z
+    webUrl: "https://www.itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html"
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 51
-    images:
-      - url: "https://www.cloudcomputing-news.net/media/img/news/the-indian-flag-flying-high-on-top-of-a-pole-picture-id940940584.jpg.600x600_q96.png"
-        width: 600
-        height: 450
+      name: ITWire
+      domain: itwire.com
+    quality: 34
 
-secured: "LxOIiZMuD/wnjgOm7xZmZBXY68zpyjjtFafVcx6i9lmr57l9W4M38g/wu8+LkhGPfqUoMTcHaKa+2SHBtWLK+oBkM6YNFiTvgU0yvg4B3aJr3+b2FsLpucx7/zHFHQgcbvA6Sy4Ff4I0RHKnCg0ZlTokvo4Kdv1k6OTzAKJXU2l8ufVT6Y+bE55vtwctxBLsaBR2T38oLONnoSiUZCEfjhTwJMHMwYnoQOEOLU1jPg+bqgYyELKcGaCQPZyI4tzKjNaSZ4rMTO/b2nkq8fGBDcxo0RfS19Nn6PZo4mHXkazIv8vfxSlOcybgnF4VvKfO;JyPMVaO0udUKTlg/2XW02g=="
+secured: "4SQmZuLuoLLv1G8DXV3GlsG0qRgJFiH3Jql6bjfEbOYWUuhSDxPmrr1I/yEczKqy0EBTjTRRFTxvd8hl25ZuJzNcbWd27AELhShqyrVaOqIUdrf13ImCXv62u62Ki9aKvwuPzB03mKAU1p9I1koUZFFIxdfoSsDcKdYrl4OBXci7RnZewwMlOxxuJa4+k2BaYWXGtwTDcPRQHnUrOBzKOL++c6XNPrLd02JmKk/tsftRGEZMZXT5BcR03Z+LZ6oFPyQASYlPufqyaNtl9dg7v8DouTn8WapmmNTuteCAQhqIZ6hVXp+29N7Yflmcz3Vu;ouqNrV6+dSoJxXqYQ4Jswg=="
 ---
 

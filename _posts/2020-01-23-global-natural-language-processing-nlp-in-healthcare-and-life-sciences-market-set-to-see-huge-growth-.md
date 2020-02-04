@@ -57,15 +57,6 @@ related:
       - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
         width: 300
         height: 300
-  - title: "Artificial Intelligence (AI) is the future in information and technology sectors - Analysis, size, business growth, trends and projections by 2025"
-    excerpt: "On the contrary, rise in the adoption of AI in emerging markets and the rapid development of smarter robots are expected to create lucrative opportunities in the near future. Access full summary report @ https://www.alliedmarketresearch.com/artificial-intelligence-market The global artificial intelligence (AI) market was pegged at $4.06 billion ..."
-    publishedDateTime: 2020-01-20T19:04:00Z
-    webUrl: "https://www.openpr.com/news/1901705/artificial-intelligence-ai-is-the-future-in-information"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "Artificial Intelligence (AI) for Telecommunication Market Precise Study on Factors, Market Drivers and Key Players Strategies Analyzed Till 2025"
     excerpt: "North America is the leading/significant region across the world in terms of market share due to rising R&D in autonomous vehicle, healthcare, cybersecurity and security and presence of access control technologies in the region. Europe is estimated to grow at stable growth rate in the global Artificial Intelligence (AI) for Telecommunication ..."
     publishedDateTime: 2020-01-22T07:06:00Z
