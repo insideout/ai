@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Intel To Lead The AI Revolution Over The Next Decade"
-excerpt: "The Habana Gaudi also has much higher scaling efficiency than Nvidia via its Ethernet-based interconnect. Intel is also developing its own AI-infused GPUs: Ponte Vecchio GPU will feature a matrix engine that is akin to Nvidia's tensor cores. It will be Intel's 7nm lead product in the fourth quarter of 2021, which means that it should enjoy a ..."
+excerpt: "It's still the early days of AI. AI is growing fast and will drive unprecedented demand for compute over the next decade. Intel grew AI revenue >20% YoY in 2019 to over $3.5 billion, with an over ..."
 publishedDateTime: 2020-01-14T22:03:00Z
 webUrl: "https://seekingalpha.com/article/4316857-intel-to-lead-ai-revolution-over-next-decade"
 type: article
@@ -45,6 +45,6 @@ related:
         width: 900
         height: 500
 
-secured: "QRT4/fnKS577EQLnWESMSj7SamV0KyaLDcWd9m3EMkIeja+12GtWgNTldbQmowBjzt0U8jQkMDB1Pc6mTwUyxF12A3D5MGMlSUW63oeJNFvgWGDTvj3ljegbR0i1rAEnu5evsCU4RnXQN5jqOna+DPkiwj1eyWEgoszwJseUkqI392hkkzeiiIH5O2k+dmM/C5DazfUd2qzbHzTzI7VgLjcZSuh2Owm2M3h2F03ALkvGE9MHLZiN6/jIlP2ZnRQDpXLu4/TpvuI4NjkFfU2ZWgdN69+zQH6N/nlV2aCg6CURHcP5CrUnDjpnk3LqkBVoVJH6AbL7rwDpfBYTLfGzFRvpiiX59qJgNsxVlp0aAQVK4mL4QQWwzYNqbiAV+uryCau0KjJoRpwG+oY62Cx1ot/dtIZSZfzPDQpQBslDQj60oQ37jA7d8QN4wRDP12nt+ykluG3A0j3OvxdTEyQivCr4KrPePT5fmHxu6LdJlgA=;a6LhYwRrGmiudTVnHtoHuA=="
+secured: "54u1QUNLg/a8I98FdYM+DXUjo4JV9i0djeoYJf3a7HoSv4x7bXQU95+zDAgq6/7XpMEF+hTXIpqMMoIWSZb7VU3bMSGGjYoQ/Pp5aikyrZFlhha6FY0YOk6+4eswNX4bzRZXbXS4EJtKOyYZZ+UBKZz0dktEH8k/TrAJdA0rEYI3HVl6tyAV6NCAELKskfrwRZQZA7haGFLS0dk6OsmsUrviGKOjoFPFtojUago/mnNKznei636qp7S9e10kuE/zDKS3iMpvwDgQHZud0mEkelZvf4DxCONzhZSg4r0Vo1Jd0pQ4LlakraV1Z+Ilg8+9L47CQyQjwrgQsEA1NszUv6FrkFfP5qOqwWPXADq7dke4JXCK8BrxbgBdzozIU6hEnV+K/lsr7/7X+gSfRmaqUrE0i8+SgUrndRpktRGlwnUbBctVoPtTuW5JMdev92vyD73CPu05PZj68dRfY9Ue8WrmiKvlsi/z15GmX5Sq3DA=;cF6N20FU8Nap7Y4wwVjiuA=="
 ---
 

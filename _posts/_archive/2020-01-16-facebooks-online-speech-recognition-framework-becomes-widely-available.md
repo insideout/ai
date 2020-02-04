@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T00:00:00Z
 webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     height: 565
     title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
 
-related:
-  - title: "Facebook releases low-latency online speech recognition framework"
-    excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
-    publishedDateTime: 2020-01-13T17:32:00Z
-    webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
-    ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
-    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
-    publishedDateTime: 2020-01-13T11:55:00Z
-    webUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
-    type: article
-    provider:
-      name: Pepsi
-      domain: mobilemarketingmagazine.com
-    quality: 36
-    images:
-      - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
-        width: 620
-        height: 500
-
-secured: "9mfmzjN0l6e7DPCEZ81KRhq3koShUAyS5lO40b01YdWz2MJGBmj4Ij1Lba+N7hbypbxgwzLuoDcAAlB4oltZOc5E+mNb3QsuS7HEqXBOmGsSvRmnmdL6DGFeoetLBlO8TEHtrvhxEVka6GWQnu00P2nBtg/XQV2L+3fPbIYZxrjoWJfrTmajq1laoRmeRgGaXCToSUN1zviWMEUzFHNZHT0KFcdLoNXvQI7C5eHVWBVANXj+5aHJ3vtwrTkkt1euc49ilD3saKtDZYYS9c6pg5XDSp/wYJGOOPq+Yp2KBYdDOTD40OMv6hhgJcf+yvKG;0a2HZVay0YpJWEFLgL7lug=="
+secured: "AVNQzugPUUt4PPmOA5X/ElP6LEMs4EM6lt8fEU7E92kHIAhtwstArA2BLi5zQ6E1cKId31LiSKgrwKtqexF6c7pMJWY4jWnXR9dUA8rBs23WG98YA5ux2jyig2qFGFmJBOtUK4Hpw5nHM+isdy1SWDVGd7h3MZFuxlpFYpxAWRz7P4HFSwcR0vgT3f4YZo6yOBf3nopP0vlrxv7mbu3rHonv/nstbPM9o24qY+BYt8fme1fLJ/1/lS0Yy+QgId1YdcQKYuphNCw6CyVOy+v92lP394j8ybCCKfYZJWTyvtCZtebYnJUC05QvxZYdRvro;uOPvMl38cmc+qZ7PD4ZBvQ=="
 ---
 

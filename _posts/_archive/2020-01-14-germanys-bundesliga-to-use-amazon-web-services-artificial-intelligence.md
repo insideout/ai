@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -24,6 +24,19 @@ topics:
   - AWS AI
 
 related:
+  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
+    excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific ..."
+    publishedDateTime: 2020-01-13T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
     excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 ..."
     publishedDateTime: 2020-01-13T15:16:00Z
@@ -34,6 +47,6 @@ related:
       domain: telecompaper.com
     quality: 14
 
-secured: "MpGVgqnivs3EO3pnyn0F5KBbvDz6LIezwn3V33+4ExOA+/kWwvJ9aerItKJLUX2oDBsa+J8ha0uSJwm4n/EuGJvV+V/WrjfpWUtNKClq+TpomPVzBJ52YVWWq/yQ5HxN0G7m6rzInILW1gUe5xo8xhaLf7IsaJHkDbdvVLkUr7CieUUjxWQk2t6sHgQ14fZ8HR+V3eu3lfaqXjQqspTBlzU7Rycr95SHkafjmZUMC+m3Bm2zLm0KDqTCRgoPoyQPZFIhzB+wMVRFFlwarbAV6w3UY+ye9IqeEh9dzc+2DmSQFjsaNMAHrkFpCxVkQtkb;sPPle7vIukf8mqcmeVwVSg=="
+secured: "INJ+R3wTB3L7CWVdDVrxmMgRj+gxdhw2EpTQeX+3sAUvwJY3vIqz/gVp/xne0DxViXZ1GFwVdKus0AMR1FVBAbnSkv+bNCZQU2Ka9qhCIgCqAnWOREnBZZlM/wgX0QIej5BUPsjmM+NwdQ0TOU0C+xVuHBWK0Sj6kpKe3hiKXne/yOKInK3Hem3t4DT8HTVS0R8gsrSPqLIfzrQpm1IZwm+LTnS7UXXtEbd2tJGwwAgHFX3fWN2JvT0KJBAOgIdgtHIRfbYXOu94P0/S/IbxGzf+jim1SwdF8wRVm0Rmu+gplQlqDuF+sdvzngSJ1K5e;vXyZMrUaQrWzNc/UN3YEgw=="
 ---
 

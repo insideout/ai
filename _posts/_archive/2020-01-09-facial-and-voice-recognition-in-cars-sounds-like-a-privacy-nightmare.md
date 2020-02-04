@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Facial and voice recognition in cars sounds like a privacy nightmare"
-excerpt: "Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data ..."
+excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
 publishedDateTime: 2020-01-09T14:42:00Z
 webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
 ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,7 +56,16 @@ related:
       - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
         width: 600
         height: 271
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
+    publishedDateTime: 2020-01-16T03:17:00Z
+    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "P68LYV/1qTbrPl8IgoWMy57egVVao3+Y7EucGirKY3Or4RHg5SWu8l6aMaCXOnrOw7SUgYGeT4REgvgg492XWBdpAir6k29OjPS5F+KARIqsqJHFHnj3p7MPbaM9uJp1+JMb7mqQFfLuIBlz3Ikp8L8+wNWhaD2kYvjdYYoTCUML1OmOQJKv7r0ur8GxTIPTvGo/w/EyIhzr853U+0mKa2kOFRHCJxn+og0hp+yEwvtqxNGnZPif4eZQCjqZ5dNtKsW6B5KPnMRbgTPIMfEuiR3VceA/CBICkGHOtgJLW0giI/aOtkhuiwQnIBlcZsQV;lYh9n0/Q6bWgJRGX0QQrHA=="
+secured: "6HofS5U0Zz5HLv+QS+a8QqX7Ml4jOnllTrtdgItzmLNqFWS/eXcDvHvFlirROJ0NctFo+wu1i8Tzky11b/3kkPulTMji9gEbZnVvX5NMo8tInD9jZmdcVasYDZ8aqC4quJof1OCr/p0T7K02ZiHSLmeBdJPqgcRszP4B1kcRXClI6xR78NX0eb/fwswnQkFb0DoTOgXcWsde2esj/N/6DXJ9KQFu3HEf0wh6Ek5DJeqKESaqCVateRljlvOGRvqViHB5du/G08SNPA+6zKl7h41aFQ9vdTJYqB9ehJeXXN3v2kMy9HpGZ6upfyOG2A6w;xxdHPxEe6eWBR6lqTwMPMw=="
 ---
 

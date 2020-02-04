@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T06:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-continue-to-grow-as-industry-spends-big-to-reclaim-market-2029-2020-01-23"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     title: "Mobile Artificial Intelligence Market Continue to Grow as Industry Spends Big to Reclaim Market 2029"
 
 related:
-  - title: "Artificial Intelligence and Cognitive Computing Market Foreseen to Grow Exponentially by 2026"
-    excerpt: "Ameco Research announced the latest market research report on “Global Artificial Intelligence and Cognitive Computing Market: Global Industry Size, Share, Trends and Forecast, 2019-2026\". A report on the global Artificial Intelligence and Cognitive Computing market has been recently added to the ever expanding repository of Ameco Research."
-    publishedDateTime: 2020-01-21T05:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-foreseen-to-grow-exponentially-by-2026-2020-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Deep Learning Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
     excerpt: "New York, January 21, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
     publishedDateTime: 2020-01-21T06:30:00Z

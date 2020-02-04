@@ -144,15 +144,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 20
-  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 21, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
-    publishedDateTime: 2020-01-21T04:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
 
 secured: "OiHQ1jWhYHxgf6g2P5JOzlhk5dbqG/7Ctd9zV6hiXCqduNRSpYh0xuesUonn1wJAx064REo+hwXfDl1XVQ/d9C5/eozi25vbLH28NzSp9ZZY4KhzP1rFyUDAzQ15SGJc+8Psd99c8p0ad7yOaqcxCWiJMkqKY7xjYGAlS8zDATRRFLYRw/ocFykWuEQYnbBfwta/lw7Dct7Z40J5j8c6ygIG8nLnwMmsAJdDOHLpAN//bUF9AVlQS3P6GH19r8A0OtWQss6H7FEKN2gK7Q5oxBl+aHjO8wNWWl/MaO+eJko=;y0e0aPXyRN8WeVEEVYsEww=="
 ---

@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Ban cops from using facial-recognition tech, lawmaker says"
-excerpt: "NEW YORK - Facial-recognition technology is a top crime-fighting tool for police departments, including the NYPD. But one state senator hopes to change that in New York. Sen. Brad Hoylman, a Democrat who represents parts of Manhattan, wants to either ban ..."
-publishedDateTime: 2020-01-30T03:32:00Z
-webUrl: "https://www.fox5ny.com/news/ban-cops-from-using-facial-recognition-tech-lawmaker-says"
+title: "Springfield, Mass., Puts Off Facial Recognition Vote"
+excerpt: "(TNS) — After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
+publishedDateTime: 2020-02-04T21:47:00Z
+webUrl: "https://www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html"
+ampWebUrl: "https://www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html?AMP"
+cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html?AMP"
 type: article
-quality: 4
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Fox 5 NY
-  domain: fox5ny.com
+  name: Government Technology
+  domain: govtech.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://media2.govtech.com/images/US-NEWS-SPRINGFIELD-CITY-COUNCIL-DEBATES-POSTPONES-MLV.JPG"
+    width: 840
+    height: 630
+    title: "Springfield, Mass., Puts Off Facial Recognition Vote"
 
 related:
   - title: "NYPD pushes back against facial recognition ban"
@@ -166,21 +174,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
         width: 640
         height: 480
-  - title: "Springfield, Mass., Puts Off Facial Recognition Vote"
-    excerpt: "(TNS) — After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
-    publishedDateTime: 2020-02-04T21:47:00Z
-    webUrl: "https://www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html"
-    ampWebUrl: "https://www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-SPRINGFIELD-CITY-COUNCIL-DEBATES-POSTPONES-MLV.JPG"
-        width: 840
-        height: 630
   - title: "Veridium brings facial recognition to all phones in password-less push"
     excerpt: "James Stickland, chief executive of Veridium, which aims to bring facial recognition to all mobile phones Credit: Veridium A start-up backed by City tycoon Michael Spencer is seeking to bring facial recognition to all mobile phones with a front-facing camera in a bid to eliminate passwords. Cyber security firm Veridium's new vFace system ..."
     publishedDateTime: 2020-02-04T06:00:00Z
@@ -304,7 +297,16 @@ related:
       - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
         width: 620
         height: 355
+  - title: "Ban cops from using facial-recognition tech, lawmaker says"
+    excerpt: "NEW YORK - Facial-recognition technology is a top crime-fighting tool for police departments, including the NYPD. But one state senator hopes to change that in New York. Sen. Brad Hoylman, a Democrat who represents parts of Manhattan, wants to either ban ..."
+    publishedDateTime: 2020-01-30T03:32:00Z
+    webUrl: "https://www.fox5ny.com/news/ban-cops-from-using-facial-recognition-tech-lawmaker-says"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 4
 
-secured: "jZRyJRvi5/Ez2ErEdKLhvVnZvEHbvcO9stuDPB9eLmy+lfXEsPqH8+9b0N7O+SRE58bTiJSYaMyg+Heh89EVkI4UDI+o48xUf6IkwADqEE+viT+JfMSI9FSbeZK3yyFxO1nJoWAn3znbD/RTKf1lioDEEhc6r2tXQSMxiqPXdYbgJcxIkbg8TC8qRb9TxDC0AR6+FcX1Eqc2mZ1VOWntsAzdwEvC/5FAm0n+6vQMQHOjl+vYchkSCVmJWe8xjG3dpYHVK8siGpzLuPH6+KUEoJ4gKuP+MP8+fdDpuI+mf8ctEOeIx+tp7NhwSBmjizy3g1AiZL5QIVtGLW6PkEM7C+gWYDF4aA0oTcMzo5Bnoqsh3l533+b02Do4nBIzUiEZMvQ0lvCpBYZBYf7KH2pe9cGlrBWlx90+iDSFACg0X1UwkzAWm2EMj/q1c//dpcnQF2lt4LLshOK6vCEcv2MJazh1KvqcIys83Rpd0xoapts=;hQeW084cmKcv43VEqaEDJg=="
+secured: "xkyDREAduBjt7DIw017wdZqXuaSTYmqh7UfR13IbiOc3inxta+CvZYH+kWB0/CwXm7iUBReV+6gGBc6KpxYtMUHwlFfHFy3Z7ntQcQCmzhIj2ne7SB0TAALVwR6ClQ+usdjb+ZU5IDXT3aIRgs3MyVfu7lsOCN02AVtPkYTwoiIB44/aB/O2qr808k2XUojnvSkoTOEOnnk6JZ86ckHQUFxztnSYtPKl02bFe1lG3YmEqSOVNphN8Lt93FvknRz4+A5zjzLPvj30Er/PicqbveMU3wLxnclXWeup/haoDRW5HX3UYHN16+Mshm0bQFg0;/3O97yVInagV2/Cl80q2uw=="
 ---
 

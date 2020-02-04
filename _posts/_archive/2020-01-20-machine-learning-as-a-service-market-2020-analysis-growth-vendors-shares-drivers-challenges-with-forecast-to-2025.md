@@ -141,15 +141,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 20
-  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 21, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
-    publishedDateTime: 2020-01-21T04:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
   - title: "Self-Driving Truck Market: 2019 Industry Analysis, Size, Trends, Growth and Forecast 2025 | BMW AG, Isuzu Motors Limited, General Motors"
     excerpt: "Global Self-Driving Truck Market Report covers analysis of Manufacturers, Type, Application, Marketing Strategy, Distributors/Traders, Effect Factors, Trends 2019 & Forecasts 2025 Self-driving truck is also known as autonomous truck and robotic truck. Self-driving trucks feature all the major competencies of traditional trucks. Further ..."
     publishedDateTime: 2020-01-21T12:39:00Z
@@ -160,6 +151,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "9LI5AbbeNvWl+jSLDo9IhPA6uibfh3po/D6AX021+2Ht+K9CdCJ7Nd+MwKZ51aFbVC+t8SBqVlxFY91n5pzU0R7Mbz4siZl5yrVgcRxy7cUmDaXpoYQ8U2rr0kb6lVAxx4IUcXqn4PPSXFm5pSrNxr9VN5VkHbPlQxJIqGkxs+KCnrLViySu5eu81L+suo1eUcNhJTIi0A5srN5IHjBWh3f5E8sObfx0GW9BruLApAn1x0nVvcWc6gZ7OY3BRu3w2qhP4zYvSolVY8UtWwzSLSnTqjeYhmTwMc1goVUtGhgHN+4aOI1bF1o5VQgLluX2;VOrg6H39Qd5Hw+K2fY0A3Q=="
+secured: "09yyYFeQAcmbJkT/I6TQccqRZqNNBp25yZqYDrh4ZLBfT66FD5OvsWPf9xZE/yHsStFTyHLs7JUKeI3C3EZ6ePRuhS7UE1Gv9Woe0PETciYEHSXl/ikdbrqKoq4zNjU2ktWNn2Vvl8ZkC/wM5Sqha9fkJlse8c6bdUFVKnNH6RSYnrF/WEDSKJPgAOB1Tw3cIb83PEGV1IA+B8wiC+6k9bfqB/CYlf7WSGqKmcWJV72XlWUpVVRUS9zd+549MtVlIy5M+69xvrfVtENNEh/zK0y+NuY6QaBl3EYTqyo8GUUdv7a9kbfLNJ3KNVrHjqfn;8eQMPbmYnHRwRrWU1AvFMw=="
 ---
 

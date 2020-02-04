@@ -58,19 +58,6 @@ related:
       - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2020/800x392.2020121T161509.jpg"
         width: 800
         height: 392
-  - title: "Free service Mine helps users to demand companies delete their data"
-    excerpt: "New free service Mine claims to wrestle control ... passed in May 2018. Mine uses machine learning algorithms to analyse the contents of a user's inbox to work out the companies and services they've signed up to over the years that may hold financial or identity-related information about them. Sorry, there seem to be some issues."
-    publishedDateTime: 2020-01-21T04:42:00Z
-    webUrl: "https://inews.co.uk/news/technology/free-service-mine-gdpr-data-regulations-1370863"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 24
-    images:
-      - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2019/04/GettyImages-936824300-1.jpg"
-        width: 1200
-        height: 800
 
 secured: "KPwN6yGa75hrvnLIoFCt9RwtNBBk/Jsm2vCN4uHYUbq9UckugjzqGzSjwVSdX1uIt/3nOB05/8cTAKe2JqGe5c/nAMtmtSxtQTbOeHdOcAtwZN3tzVEaWbSWPlEwAeRh/fwgVIhp2vuSl4zQDX22GOnWDUL3S3xhAf5FD0v+MvM0P+Q1JFNLOCXh2ZPmiQrHZQTwW8Fb/ai67DlKyIdRQ6WtSuys4o8GSnI3hYm4KE4MP+D3xHlsGQBC4EKBaOhxZTIcTnBZJ7ZStcxATD58wg4FBmVcvFBp0NcSzm2SM+2e/+3TBFC1veDJeA1ZYWcQFazy1kHxo41nVqNFjnIFkE9Q9izYiTIwAFhX9C/w14vbBb3u/KpeAv5cGD/N7sWhcNcwiX3cqVbRIEHE9du6WIbNqex/A/vvMq4mryXzGttaWru5NoRwAWY1TQz2eq4DgyCvuLBqIlIXzdi6nChT8g==;XDijGeeMNaGBJkpodinPYw=="
 ---

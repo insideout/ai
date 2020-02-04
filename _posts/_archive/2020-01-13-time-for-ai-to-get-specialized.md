@@ -23,6 +23,6 @@ images:
     height: 630
     title: "Time for AI to get specialized?"
 
-secured: "kip1z25EYTkqm8VKPek7kEU0/GQwcZIptrCq04VFnw9ZqSwlfs2mFLtbX6VJoJ8gRH//hNVafbCKhWzxcGOD/iuSxUIbZDGd2I2FtwQc5Ys+npxozfqaITJMurlE+m2xISZcM3PxPyEFjLlTKDytiZc8HvLpT3eQd3rwheHsoAzPBQfu+5V5FWYsw9wcMLPEy5R3w1UdtyeQnT5kgUzVX95z2AY7Ym0aWe+lw2Rt67ZA4jh7DJK8j468UURm3M9kyt9fJgI/eGvmmIqAgLo/zUek4eB0NSXhyQ0nxbaMqgq3v2ZIwUixh5TQfQNupbR0;bJ1cdVGofTqZAqqASghdDw=="
+secured: "zK9/bUFxYBohDREq1QAaT3cWhbkJv/fd++M9KSmgXp8yCljPMDtWo86iBIiMlYUeVYkFBlt4mAZcuwbhd3rYf98nVKD/iLpIIZ8USK7ATAZ5emgBu2UovZLXeIMRg+ImXWmL2UpCeMHJIp0HuSVMOFZ4iomFZxHqeRyV4uJxl9q3xxKVxfmQbFkURPh7KG3LIgNatKn5kbkF2AaTtBMlkHJBlma9/+8l6Y5FrZuuJ/vsMxVt927ijzXtEgIHRPLCa8c6IlXZSMajIzWaAk7Vipwf1BrREjZpE6rHd2WBU7V3rMY8vho3JZ3W6YyH8cdy;XfSbw3sgcFkmAlbnJNagLg=="
 ---
 

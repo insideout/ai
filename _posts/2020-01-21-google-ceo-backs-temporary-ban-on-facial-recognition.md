@@ -142,15 +142,6 @@ related:
       name: New Scientist
       domain: newscientist.com
     quality: 39
-  - title: "Alphabet CEO Sundar Pichai backs temporary ban on facial-recognition"
-    excerpt: "BRUSSELS: The EU's proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban ..."
-    publishedDateTime: 2020-01-21T04:43:00Z
-    webUrl: "https://www.livemint.com/news/world/alphabet-ceo-sundar-pichai-backs-temporary-ban-on-facial-recognition-11579580121877.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
 
 secured: "uibWrVhkJY+Gwj7eyYqOUEBrF1THmma0Np6svLTSPYdngwkniiLEEdslT/4/2eixQ8MAM8f/tP1gDd8FxzftxBZ6DTffuP4sz4NkeZLj4IjcKHiXNZf5QBjJggRAf/I2ktZrD2Zuk0o99ChiMLyM/2chjW4915MZ4JKLdohuuWJPEAlV5RGjouB/MijIEQPz3AjzRPFJmN8O0V3INqOaXzMWo2fmW7xTrvddeupzof3r3F9+MF+ndQ44Dl8rLMprhu9MIy2cHk2sGeNMSXG8ou+dBdZh/cEStK3gvjQTYUaDAaCWqXSvtxW1cU1aqyxGzsB1qhsfjs6nLfy+rH7+wr4+H31BAsT12Pk9mEtNC3uti7g59Go3+W02GSy7wuJM/RZWQ7gti1LSp6htLbruh3hpmg6z2uAAtmP97wWOMSNquK+SlmLXgLqCZ7bC/VEW1F4AncnwPNLh+YB8JZkVng==;xBwFTcv3QyS5eyaneH9A1A=="
 ---

@@ -136,15 +136,6 @@ related:
       - url: "https://www.xda-developers.com/files/2020/01/IMG20200117113419-300x225.jpg"
         width: 300
         height: 225
-  - title: "Alphabet CEO Sundar Pichai backs temporary ban on facial-recognition"
-    excerpt: "BRUSSELS: The EU's proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban ..."
-    publishedDateTime: 2020-01-21T04:43:00Z
-    webUrl: "https://www.livemint.com/news/world/alphabet-ceo-sundar-pichai-backs-temporary-ban-on-facial-recognition-11579580121877.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
 
 secured: "sMk+rFvqt3KswgrKd81zf3TpxL1eUi7AIyScQ+tM1JABv7SPsTkQgHFmx9yasu1j3twLFYZp1rRBQgS9dsd5ztxsknoz25JKs7ZQqA/vaixcaM7lUYFlwKleDe9wtMku3Ss51x8P2DPuhPFocnKJWobC2UjxbqoObqQfw8qXIiEY4BBQDr5vA3hf6Syn6UybO7TSq/jXlUf/S/qQoNfgWaI4Qy41kOTogxuivWqEzNhRd6COToShrRE0pYLW+wFNMD2wgBEYo1WI7Kf/vq3L6oJ/U/peUNlnTOI2Xa+mQKk2H/s7SVhvfE2LEgzxGBsy;2SBif+SFjqNb0EyOneqKsA=="
 ---

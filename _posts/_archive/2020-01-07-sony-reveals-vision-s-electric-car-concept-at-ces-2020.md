@@ -25,6 +25,6 @@ images:
     height: 1330
     title: "Sony reveals Vision-S electric car concept at CES 2020"
 
-secured: "JlOrpHUKWwUDvWXIZEf3ZtjwODak82+kUyJEBUWRwuWEoJNKy+CX0vJrGjlNhrhiHpWQMWb06ygq2EzIj/CTqOfCeEmWSIOa9GWFyZuLbvN+jsHUhJ2WL+QPepit4kBqqLrHJwe/YErvgft2B2/rDrbTZd1BI7kb0bjpsaACG2c1+kK1PVVbFKLa5MFhXNlJTdbDNhU81ROzCE3S8ts/7/eg8vDcK8zDIoce5CYmiAZ9ILHWRcRMIk7q6IgdBMOrqJUhUy1cnjuL3cQxcijKQfHqmnVYSeBsCJttu3tRmDZyWRfPGPi3HedlH/wRgGdC;XHPiiLzhYEJvawOKJqy/Sg=="
+secured: "lyNz2TKqs+mJaf+GrZ5PHebJ7UHIo9cW9kCIPQFQGigY6f31alb2Jhh33drtL60l8vafBC0gtgAzvmC2dDVrDt71OFhekxx8Ug/76FvHJeiGOeonlPzzLv3cBtsoqI9EYeE/awNufOVOw3PHovolPK7HIWvzCL871oUxo5UQxXYlkhSywEkHnEbMDDwEB5JRv4A7mmPKfh7RNk+4RlZoShWeIR8C+V7iRHgsWJwuFg/LybX4VmkzGSU2UsT62wNmpO82TVo34cHOHKzqcrdPoSS5iceLSJ7Ox5HiQnKmHkrgCoMzyD7eFQ5MQRddX0x1;OihksyQ5/q3E54kMZPgBsg=="
 ---
 

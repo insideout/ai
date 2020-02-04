@@ -69,6 +69,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "eLzhzFbrysop+Kz8rNEsuFYikFDtAw0/nuFVDZxEtwsoubY54F1oQ0tp6YRPuqcrMwHnR50ufwK20cjJVAaoz7xv3ai7KNCc/u9CiqX+w1RBn2ZgBNsk1iZZR428iZpQSlUIF78lEudPv1RHCriHpZFhZMjNtFW1wplmgZCuQN2Pue45EhxLKlkutYNU/EYMy+xi9+zoPtxSyM5slAXjR/4qM4SFMw6/py6vXLgxLke9xI2Yjc8uHchcFhQu9yGPg1oEbXPM0NPqR85agbu4kgk0ps/wtzYYXxhX8zcpjvXXUSh3i4jGMFHje3Q/27iP;x3P+2CmruGteasFm3I5dRA=="
+secured: "5as6ols9+G2TcwwORNwR322/zZhs6KI80cnujQ7drQ5epW99E9Lq8XWwnsrCx3x306qH9E5jQTf52uUW02yIFn70WWTfwAscPSa7yr5ZRLS628irmRQqq7wFQuk1AzEr9i/SXi++G78Dd305FmTg21fjmAB4cT3tBbcysS/g5nCgJIgNvIpl7sE4dZJodyS9hNa2FZ090fpRgGHZeaQWsZmIMJ4NPdkk4VkS2k20j+DrQ1pSjrtK3A4fAvVc97gCpichDTJqGoEVNkPcE+B/CSU9lOoB7Z23oNbGAa+48iP0F0U5tqVN8veb+pRZmSTh;8SEvPBZjmKMk3LHGneCatA=="
 ---
 

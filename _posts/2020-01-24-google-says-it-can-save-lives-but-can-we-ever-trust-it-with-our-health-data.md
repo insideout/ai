@@ -25,21 +25,6 @@ images:
     height: 750
     title: "Google says it can save lives, but can we ever trust it with our health data?"
 
-related:
-  - title: "Can we ever trust Google with your health data?"
-    excerpt: "One task is to combine artificial intelligence teams working on health at Google Brain and DeepMind with those working on smart devices for health at its Nest division. But just as Dr Feinberg started work on his first project — a search engine for electronic medical records — a scandal erupted after the Wall Street Journal reported in ..."
-    publishedDateTime: 2020-01-21T04:57:00Z
-    webUrl: "https://www.afr.com/technology/can-we-ever-trust-google-with-our-health-data-20200121-p53tag"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2122%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_1/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/1b4af6aa41d66dd0f5a7cef4a3b89a9c8dea6f8e"
-        width: 800
-        height: 450
-
 secured: "11Ib0TT2NK0G61wgE34sHkHQXQ04jQSw4hTkUBx1s1tIGuyzXOoSn3hdQuDcvBky7gksA+Q3u1syjYjKOPwAX3vzCd4DTGQLqr1aTMhspir3d4U3oVZ6+nesfL+eIbmGGd3OTDpkctc2/xfFlG3svbwHe3V7gqa4x/vZRoN9ZHGkEw3F4qKTlQhm17ERxNGOY+5i8f02Gf2t0Wvb6Kzzi0Thv8NAxbWn5ZU3bRekCT9GnAUklK9VBT0wZXhm0cq3MI+LEpTubMJeonwJow2rw+tKW9BmzNG4JTyd7vwC+hCNjCy512b6YuKGZ/DYkB99;d+tHZOcHwycwn4gaHen+Bw=="
 ---
 

@@ -141,15 +141,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 20
-  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 21, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
-    publishedDateTime: 2020-01-21T04:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
   - title: "Self-Driving Truck Market: 2019 Industry Analysis, Size, Trends, Growth and Forecast 2025 | BMW AG, Isuzu Motors Limited, General Motors"
     excerpt: "Global Self-Driving Truck Market Report covers analysis of Manufacturers, Type, Application, Marketing Strategy, Distributors/Traders, Effect Factors, Trends 2019 & Forecasts 2025 Self-driving truck is also known as autonomous truck and robotic truck. Self-driving trucks feature all the major competencies of traditional trucks. Further ..."
     publishedDateTime: 2020-01-21T12:39:00Z

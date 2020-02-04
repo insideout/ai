@@ -27,7 +27,7 @@ images:
 
 related:
   - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
-    excerpt: "Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data ..."
+    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
     publishedDateTime: 2020-01-09T14:42:00Z
     webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
     ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
@@ -56,7 +56,16 @@ related:
       - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
         width: 600
         height: 271
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
+    publishedDateTime: 2020-01-16T03:17:00Z
+    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "stMJnVYPagDad+f1uTIWDazDeWEuIGePdRI1dWLMHpWsbCgJjoi71SLZEe7/9PwxPONY/L5FAQLnyJnfpvG+qAwG9keNtUvWowltUIrZdul7XdEZ/3eCmI/BC0qY21kTiNf8x5PAdZy5YWlJq5gdnJnxCd0d/GrbKkiNIkoILSbQrrv/PsBxorZUwdNubf7RN2/oiAnUjUXcCr354CwzDFFuGW3t17ieLnQBCt9lY21nJ2JPJfbOPcHdLbQyOdgYGQQdbJCJSSu9q++Pqp61gNkAOVqzTYu79djQJlcWqRH24+JP0406uoUTVwe/gQ4V;STPRR0syaNWN1XnS+iydFA=="
+secured: "lghdFLxKlmvNIpuFAzhtGllv9EfeNLkZx96UbcXCQeMrEKcxo+SK8k47zN5LFRN0EozXMjQK1Acgtt89NFnXXLQqHvRJb+N+feiy6ytCzuyNAPCyZpjcHYz15uvZ0NQ0jkK80Ax2EXkGYcKgNFc+Kj7r819XCoxdUQxe2h5804tO2iYv9kZPHD+wZDnIMry3n4yefBDRTrhu4zekjSnWaiuLDB1Q1BM3Aec9kaGTOQ4inEYkTabJXDgIBqTzeEVJCaw3ci30camrXSdl/9XBnlmTGu1GWf82laSsq+s35JonobxvhG9nljHVIcwYmK+V;wTIUydVxYeOLojNVzjLhNw=="
 ---
 

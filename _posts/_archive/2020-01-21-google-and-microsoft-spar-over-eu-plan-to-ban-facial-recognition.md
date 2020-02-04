@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -142,15 +142,6 @@ related:
       name: New Scientist
       domain: newscientist.com
     quality: 39
-  - title: "Alphabet CEO Sundar Pichai backs temporary ban on facial-recognition"
-    excerpt: "BRUSSELS: The EU's proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban ..."
-    publishedDateTime: 2020-01-21T04:43:00Z
-    webUrl: "https://www.livemint.com/news/world/alphabet-ceo-sundar-pichai-backs-temporary-ban-on-facial-recognition-11579580121877.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
 
 secured: "FKufVKfJw5yjNFBf0T5jV5DKYd3zPljWhifms8bqW0kWt9feM9yFgQ9Pm0mXl7M1ghETOcmroZJHC1JunZ/TA0pMU37GWdC4zcwJTKxQ7cR+z9gE82OWknzKwiOWzbTbnbIUBV5NuYhaziBWFffnkCExlBbRA1SoJOSfu33rkwb9aTLrPV7H+Hy5GcXLSX10It/FXpRcl8K5DU01GSQ0tgYKBaS8nEoYgBJBuPuqj/7m+SaqrNh7OWHgIBGK4Jhj2+R0JZSR/XMuREA75wTLgwvCjjSieZN8xhCoYfwhAEjeRwNfXH6ZwYjOT8skmSGYiiygvm9K1C1dourSik9Jz7SrYq5amRNpkd5hwzqewOrLVhx78xnamcbl/0Z1PvZy+WhYzaSec1PAYYBhzYCID7VpOPYkrYC+dzpQCivl0MkEGI68OQJ6McWjwZSFeWu7fHwyS3u7bdAwK8ENgZOY8Q==;YMSdX4oIitndN9/nA/jrKQ=="
 ---
