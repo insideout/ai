@@ -25,6 +25,6 @@ images:
     height: 480
     title: "How Natural Language Processing Can Help With SEO"
 
-secured: "rqriuTlWliQOZjAeZUOqd7VOfkAMCF4q+2UplXxhIYWAZn09jmAY7urxZL+Ng1UxZmqQnsB83wUl1O1Hg38iWffGR4UN+h0Eyg/NkLRhOHLaWxo9HVHWGHBbLsP91QW1CesP3CJU154BUlgP3ijJJm6AxpunMhm/hOhs4pwRdyfjFs6qTL0RHyvhmDbGpKDAJrIeNV4F9ic5nRgQVVZn7cPlgmfSqPQS+CEyEwBj7HyAbqoBudLdxVRpCq/xh88ocbR8zTc2eaJeupVvdyLgXa7YY1I5eJBxBZOkS9QMKlAxx073Bx3YV9gLdVUxXv35;wbh+lK0/1o2O5UGlQFoIdA=="
+secured: "Ff28QM2kXtrEjg6rw7DV9XDFx7iLBtkgxjfO+4Jg8VX7BSdjfKbEUqBgA/mja1cpIdzeSyrtCnJ+mbFdtMG+697jPIq2wRJ0tOiJn35A3+fyVv3jeeTq3I3B2XgatLKLk+79EQEhkvxoZ3FOehvCRTqyDBQNk5w8MVPT2Ou5GeQ4HMLXct2HZwgSi+e25vf8/qLmZyf2FecYyXT/zqJSAGk3toaJmsKYwcj3RxgwW3tAgpJ2/z1muiV6+Dy12OSoN6q1IJgKBaKa/fKVfnsyqtiogMUki2QVIQ5D3Fu7W41fLrZ/YLice+XPLdNwfzhy;QH9Mg2XqsOSh7ezlGSynHQ=="
 ---
 

@@ -100,9 +100,9 @@ related:
         width: 1280
         height: 719
   - title: "Volusia Sheriff’s Office adds facial recognition technology"
-    excerpt: "DAYTONA BEACH — The Volusia County Sheriff’s Office has begun using controversial facial recognition technology that some privacy experts say can intrude on personal privacy. But Sheriff Mike Chitwood said in an interview on Monday that the department ..."
-    publishedDateTime: 2020-02-03T22:01:00Z
-    webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology"
+    excerpt: "DAYTONA BEACH — The Volusia County Sheriff’s Office has begun using controversial facial recognition technology that some privacy experts say can intrude on personal privacy. But Sheriff Mike Chitwood said in an interview on Monday that the department is putting in safeguards to protect privacy as it tries out Clearview AI. The company ..."
+    publishedDateTime: 2020-02-03T17:59:00Z
+    webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology"
     ampWebUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology?template=ampart"
     cdnAmpWebUrl: "https://www-news--journalonline-com.cdn.ampproject.org/c/s/www.news-journalonline.com/news/20200203/volusia-sheriffs-office-adds-facial-recognition-technology?template=ampart"
     type: article
@@ -191,6 +191,6 @@ related:
       domain: fox5ny.com
     quality: 4
 
-secured: "eydqtN6CGfYv84w7iCXocPrf4seHn4HHxch4mNJad0HuDTmrlwkMXWCMDYFHL/xeutUwjifUncnpcoC69rtLk6OYT0FSKe5LHVz+qVHBNicTTMcJqHOi1+tFh8y+2ZnMMZzmoXhBjVGNlM3QoQgVhiQgc0CN7DaHya53IGPEX+T+74DAJ8mFEgVMoTHQ4V6/6BVw+Ex+GgwrWZarrzL+bmM7wJT2tmeWWe9gbEwJqrmcmpJeWfY44EWlC46yQ9OZGxuAe6Ll3QJ+nPDqwbzfL/m8NwPkqH3w7fE3UkWcFXmT+j14BrwNmujAT/Naoqmp;oIUbWvYofBavjEy7vvWEVg=="
+secured: "+rLXN+32XCLqCzosqD5QE/YXzqj4GaHtevS9p6XxFCdfGhsUW4cGyNHFqM6B17N/aO1U+FFHph3plwLOnJP3AL1wNIoI0LEXPh6WiOP9R5MuLGZh7nYjFeUm+rHBb4v1hh5qOl6q1XpVR73NNktYrlD5hbCZCPPYkNvyk38VriDaMUH+IMj/+dJYPtNgJb1coNwN904GSXBvLHnG5ugx7rQbHPA/gFAo4/iIzzCRmlhj/5Bsq2G+rNg2p10zDBSaZeV5i8h+x6xV5ppnR3HKZVymwyeF1KN1MFU5L7m25OMCTHL6xJsS+zUoYa2jG5iUipCqdiQencTUwSg9JZ7JXi+bJOth06GkGLkclZ120SmURQdGKcSoOwv1zUbIyfOMOybIwvvzqNIhNPWJZiuHF9wQzN/g7W8nwLUsH7h5dnWCfdMLzxU3qaGi39G0m1vgcDC+D4ZHLDGArFPAwBbR5ASi0c96NhAiz8CMdmP18Ck=;z+iwRkXYgd4t8PUXzf0ZcQ=="
 ---
 

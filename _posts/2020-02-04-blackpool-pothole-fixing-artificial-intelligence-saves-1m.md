@@ -28,6 +28,6 @@ images:
     height: 576
     title: "Blackpool pothole-fixing artificial intelligence 'saves £1m'"
 
-secured: "ZUC4xDPJtXH1OMjGcWjEMzZy2GE97MOTZN8rZSkFrgEJtwnaPCMKRfyyfBkjFt6R55aAHZ7zH4FQqc/CvhHNFogiKueijSM2t5hHJyp8YSXqiq+XjVfQiLezquW2VXJd4RmPk8/78YyL1rs543IeBnck7MrfT6dfM0lqMwEawx7C1nBKbgP7nyI9d4+/pW+UKyP6Wlg7iwSBgKt3ig+BXX7Az8iqjcnls+W497ONSztZl6S8YBSzySAp8gBrON3z8q4+WagNvsU712lB2vvv0PBSrBKXTTXrLHvIwoKQCWHZbcMMX42jWtswznh0SgcE;ARNS9e+Kd9vRjvWe7dlWww=="
+secured: "Rub3F8BWA8LHyQyhopRtECJFaeZ1gw77ukze0nGICsgDjTiVwOM8P0iOnJJzLw9dYy/sIZ9+k/O7lmrMAzuSFz+LzB/e1EtuhaF62w8UZLxWXeIrXIsZAWnr/sOB3AWh/k+4z/nIhQANIRE37tD1BYV/cir9/tKEpa6LNXjnJB9cdRZIAWYMOS3FWLIpPh2p8+UN+cj3y449XbWpKe6v1wxslOF/FqMVXj2y4OzZ+sj9XVdZ/Pl6rQepedfYGL7VoX//zVcI6mfoQq9/qDKvJiLshHKlpc5ieq7smZFWHpnpHNwKCDGaaGZa8uwIzBhxaWdjzdmPs2VcpwOQw1GQPW9H6St70pLcjF6l3QNYsgK8oYTic2r0VGZ8K2HqGZR27qSIrLYLnQfylbGklQLhYUfjUCGkA/OWZ9+AJ7pKkHUGjV4hAMlhcJkNDKyYe3cbxTdc/Ey1X7sjs3ByY7nAkxom5VX8gk0j8eE5GUqkqtE=;UDnGt0okoxZQqz2k+stp5Q=="
 ---
 

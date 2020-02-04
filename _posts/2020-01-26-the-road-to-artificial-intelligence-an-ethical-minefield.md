@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-26T11:49:00Z
 webUrl: "https://www.infoq.com/articles/algorithmic-integrity-ethics/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,17 +26,13 @@ images:
 related:
   - title: "The Ethical Upside to Artificial Intelligence"
     excerpt: "According to some, artificial intelligence (AI) is the new electricity. Like electricity, AI will transform every major industry and open new opportunities that were never possible. However, unlike electricity, the ethics surrounding the development and use of AI remain controversial, which is a significant element constraining AI’s full ..."
-    publishedDateTime: 2020-01-20T08:54:00Z
-    webUrl: "https://warontherocks.com/2020/01/the-ethical-upside-to-artificial-intelligence/"
+    publishedDateTime: 2020-01-31T05:03:00Z
+    webUrl: "https://isnblog.ethz.ch/technology/the-ethical-upside-to-artificial-intelligence"
     type: article
     provider:
-      name: War on the Rocks
-      domain: warontherocks.com
-    quality: 54
-    images:
-      - url: "https://warontherocks.com/wp-content/uploads/2020/01/AI-Ethics-Again.jpg"
-        width: 1330
-        height: 850
+      name: ETH Zurich
+      domain: ethz.ch
+    quality: 34
 
 secured: "FzE57Zr/45FJQCuuyxA4PtQtHnHDH+N/cgsR7WmR4P36SY+kBZwA9z2Y2XkuT8SG8AVUpYfEkCa3IOP9y/Jh7J8x7dtMXhHpQ5IG7Ng1tEdJWS9Zr29k8ahj3vcCZfXoMmby7S34I8MMaJ7URofKhxy6oMpcjN+FXJxRGjqVcoUO4CgR30magkLjA+L2TYn43T6HyRyjWqqwB7sTEmUVQ/CWVgEu5XgTutG96iUJCLzMJcKBkollsC/HfGG58UKP+/lNFFqW6ZgiWTLqr87dTQIZnbO9AEjNXjUghJ06SZ3Tiaf+ZNpj+XIgX84++4yHCl61zUKMdIxCTXqKxiVY1A2ctGzMU4++sFxcijqB0dAGjIjOCVJmgAC+iKPsxb8XChF4+G9M+um05HomTA7fSyTwHUKsCzpcDg2+MI9XFfMVU3BWrIQdhYKMFiCIWq8GEQ/Xw3PTd53CgB+yYsM8/DKUVJXCxPXmtHbFTVMWi9k=;h3yamMF58wZXP9m/1JbYIA=="
 ---

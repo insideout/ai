@@ -104,6 +104,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "6djg9Tbs+hjfI4ePJlYwOifdwSVWwAMYY0Sdz0jNedChhkL6SLI46LBOPkbEvz+6OzL6eFqIoZMmuwy5sb6+Pvv8M5YyN8t6jwnS0C3ysRcePA1E7baAMNChQwt/Tca8fM+39NfOFymtFzrIxDpwvaCpEvr0lAtR1tOzkpNhBHqVzuE+XbW26QUxXtGZ6upoIQO4iyBflYXp6mXX+ye8zO2lnwh6JO03WtyoOwsuINbJ8vwwItP1pssTMPZBTZ5rfsuRzskjZumSpqJlYL/XN2odjh6k6dJDFwf5xzGtUcn5eeEhVugVCTutkBbZ71PW;7TbCPv2AaQQQ6HDlnvDSTA=="
+secured: "8DBEH9geJ9ZFoqqFzZ5NodSJCnnSFwuQ99HWdJ6GYa4lCAowmIovhES8AFFbogQzrr8s56brF/J3E775IRVOYU8UbtYh9eHtYkr2ksSG/a/hwVOrEBzyvfmsVeSkshVBaQ1EqqcNesZO7E5JD0K/6hRJUnl4Ba/iCORyd0lV1rnuOGO8wFzG/hXfIrCCIKt4S7UAQlkJRHcWwpyPQYJiVC/EdhuIO8NJUqsqXoItDoIKb+xFBWkKSbL/qzOH9zvP6ouJ0i8KTfQV938FukrbJtT00rzxC1POk3KuxZELVULzKA3e1jriPyzSR7YOj5lk;KGZRtD0cG/Ur8+j+JvcvBg=="
 ---
 

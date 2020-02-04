@@ -42,7 +42,7 @@ related:
         width: 720
         height: 480
   - title: "Microsoft Azure cloud migration: 3 success stories"
-    excerpt: "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes and data type compatibility between legacy warehouse platforms and SQL Server, Thadani say"
+    excerpt: "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes ..."
     publishedDateTime: 2020-02-03T11:03:00Z
     webUrl: "https://www.itworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html"
     ampWebUrl: "https://www.itworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"

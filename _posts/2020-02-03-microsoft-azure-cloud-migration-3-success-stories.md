@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Microsoft Azure cloud migration: 3 success stories"
-excerpt: "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes and data type compatibility between legacy warehouse platforms and SQL Server, Thadani say"
+excerpt: "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes ..."
 publishedDateTime: 2020-02-03T11:03:00Z
 webUrl: "https://www.itworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html"
 ampWebUrl: "https://www.itworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
@@ -100,6 +100,6 @@ related:
         width: 635
         height: 395
 
-secured: "ogjumPCTeMyy15w0HqW2+ErK0IrrcrvdsCi5E5HiT8bLbyVF5+CBFHB4avCFhENe15C0s/4Hwv/D1pLfTBoeoymOz0LNwKyU2GqXZR8czgjvF6bUCwzneg4iW9fV7Z8MqeTK+FXIEOQaVEXH95RBlGDXVSrgoCzhNbqF636j44b/nb7BtFAastsDUzj9tVR22d73OUgar7MlpFS9RAbtQ5MUhVyphaPWbDp22sxBXiDP2DXxABkuWVVIsGR47EZ7emrGXQW9XQfr9xjyHIZkhFyIerFODsYUmPxTzIRMP7gLM4qMYaWvLo+8ouyaAWR2;mwzdRLoFozNlRrB1SSB/iw=="
+secured: "rYM2rqbMNui3/SSj/2bCQd+vzfbivl/Ojew/r+I21LpsCeAP7xyGEVUM1njcJzpcl+K8d5vxvW89GU2OT0pKTUaLS+cCNksVGDENgULTxLsGA8emav+ZOh9P2GLwHZ1GNM64+IyvgwgHFYavEZ1s7UaVzI6vN8ezXsfNA3l/MXzc+OFCmIaRf6FwlLsuXowZcyaMq6mY3wagQx2DPD8KVjNiNt82LydrYiLhlALKxidoPLH7IR1jnCMgKSSNT/I4tS2yij9PF1EcedyCnMChbv72EQtlfR97p95KmTNfeXQQCZEOPScFgtVhRoYk9asW;FaNjmR9M5tir+XVOJ6VI8A=="
 ---
 

@@ -38,21 +38,21 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/Spark/facebook/artificial-intelligence_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg"
         width: 1960
         height: 1225
-  - title: "AI-Formulated Medicine to Be Tested on Humans for the First Time"
+  - title: "AI-formulated medicine to be tested on humans for the first time"
     excerpt: "A drug designed entirely by artificial intelligence is about to enter clinical human trials for the first time. The drug, which is intended to treat obsessive-compulsive disorder, was discovered using AI systems from Oxford-based biotech company Exscientia. While it would usually take around four and a half years to get a drug to this stage of ..."
-    publishedDateTime: 2020-02-03T16:56:00Z
-    webUrl: "https://www.entrepreneur.com/article/345841"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/345841"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345841"
+    publishedDateTime: 2020-02-03T09:15:00Z
+    webUrl: "https://www.engadget.com/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: Engadget
+      domain: engadget.com
     quality: 87
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200203164812-opioid.jpeg?width=600&crop=16:9"
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6294%252C3923%252C639%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C997%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252F27840430-f413-11e9-bdfc-1e60bbd37912%26client%3Da1acac3e1b3290917d92%26signature%3D79d1e8cd28bb5cdf1601ea05d7226f489d22eb6c&client=amp-blogside-v2&signature=5c83968906b4c6d0967bda40cb3845b8a7ec6b23"
         width: 600
-        height: 338
+        height: 350
   - title: "Medicine created by artificial intelligence to treat obesessive-compulsive disorder first time"
     excerpt: "It has been created by a British start-up called Exscientia and Japanese pharmaceutical firm called Sumitomo Dainippon Pharma. Artificial intelligence has invented a drug molecule that will be used to treat patients who have obsessive-compulsive disorder (OCD) for the first time. It has been created by a British start-up called Exscientia and ..."
     publishedDateTime: 2020-01-31T08:41:00Z
