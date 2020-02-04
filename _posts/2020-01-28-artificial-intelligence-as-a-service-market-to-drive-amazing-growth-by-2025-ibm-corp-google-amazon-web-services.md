@@ -25,7 +25,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 79
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -39,6 +39,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Voice And Speech Recognition Software Market 2020 Technology Advancement and Global Outlook 2026"
+    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
+    publishedDateTime: 2020-02-03T11:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2020-technology-advancement-and-global-outlook-2026-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -91,6 +104,19 @@ related:
       name: cmo.com.au
       domain: cmo.com.au
     quality: 24
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
+  - title: "Enterprise Artificial Intelligence Market Technology, Future Trends, Opportunities 2019 & Key Players Google Inc, Apple Inc., Amazon Web Services"
+    excerpt: "The updated research report on ‘Global Enterprise Artificial Intelligence Market’ offers real-time information with ... This has driven the market of AI across the globe, owing to developments, such as self-driving cars, space exploration, accurate weather predictions, and others. Furthermore, AI is expected to affect healthcare ..."
+    publishedDateTime: 2020-01-31T12:06:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38112/enterprise-artificial-intelligence-market/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 2
     images:
       - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
         width: 600

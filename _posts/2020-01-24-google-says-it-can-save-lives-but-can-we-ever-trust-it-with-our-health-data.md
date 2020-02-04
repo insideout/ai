@@ -8,7 +8,7 @@ ampWebUrl: "https://business.financialpost.com/financial-times/google-says-it-ca
 cdnAmpWebUrl: "https://business-financialpost-com.cdn.ampproject.org/c/s/business.financialpost.com/financial-times/google-says-it-can-save-lives-but-can-we-ever-trust-it-with-our-health-data/amp"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Google says it can save lives, but can we ever trust it with our health data?"
 
 related:
-  - title: "Can we ever trust Google with our health data?"
-    excerpt: "One task is to combine artificial intelligence teams working on health at Google Brain and DeepMind with those working on smart devices for health at its Nest division. At the conference, Dr Feinberg protested that he was “super, super proud” of Google’s work with Ascension “despite what they say in the newspaper”. Google has said the ..."
-    publishedDateTime: 2020-01-20T11:54:00Z
-    webUrl: "https://www.ft.com/content/4ade8884-1b40-11ea-97df-cc63de1d73f4"
-    ampWebUrl: "https://amp.ft.com/content/4ade8884-1b40-11ea-97df-cc63de1d73f4"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4ade8884-1b40-11ea-97df-cc63de1d73f4"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F871f5470-3893-11ea-a6d3-9a26f8c3cba4?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
   - title: "Can we ever trust Google with your health data?"
     excerpt: "One task is to combine artificial intelligence teams working on health at Google Brain and DeepMind with those working on smart devices for health at its Nest division. But just as Dr Feinberg started work on his first project — a search engine for electronic medical records — a scandal erupted after the Wall Street Journal reported in ..."
     publishedDateTime: 2020-01-21T04:57:00Z

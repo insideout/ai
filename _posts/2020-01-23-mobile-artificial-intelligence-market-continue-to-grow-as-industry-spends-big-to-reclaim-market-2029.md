@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T06:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-continue-to-grow-as-industry-spends-big-to-reclaim-market-2029-2020-01-23"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -75,19 +75,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Indian Wearable AI Market: Industry Trends, Market Size, Competitive Analysis and Forecast – 2019-2025"
-    excerpt: "Indian Wearable AI market is estimated to grow significantly at a CAGR of 33.3% during the forecast period. India is one of the fastest emerging economies for wearable AI in the Asia-Pacific. The growth of the market in the region is attributed to the adoption of various government policies to drive AI innovation,"
-    publishedDateTime: 2020-01-20T11:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/indian-wearable-ai-market-industry-trends-market-size-competitive-analysis-and-forecast-2019-2025-2020-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

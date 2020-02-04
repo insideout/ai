@@ -356,21 +356,6 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg"
         width: 1600
         height: 899
-  - title: "AI must be regulated, Google boss says"
-    excerpt: "Artificial intelligence is “too important” not to be regulated because of the damage it could cause if left unchecked, the boss of Google has said. Sundar Pichai said the correct use of AI had the potential to save lives, but issues such as deepfakes and the “nefarious uses of facial recognition” showed it could also be a danger to ..."
-    publishedDateTime: 2020-01-20T11:48:00Z
-    webUrl: "https://www.irishexaminer.com/breakingnews/technow/ai-must-be-regulated-google-boss-says-976505.html"
-    ampWebUrl: "https://amp.irishexaminer.com/breakingnews/technow/ai-must-be-regulated-google-boss-says-976505.html"
-    cdnAmpWebUrl: "https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/technow/ai-must-be-regulated-google-boss-says-976505.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 57
-    images:
-      - url: "https://www.irishexaminer.com/remote/image.assets.pressassociation.io/v2/image/production/462ca60959fa7aac0d10abfec7a6f779Y29udGVudHNlYXJjaCwxNTc5NjAzNDg0/2.29181258.jpg?crop=0,0,3000,1687&ext=.jpg&width=600&?s=bn-976505"
-        width: 600
-        height: 337
   - title: "Google CEO supports AI regulation to limit \"negative consequences\""
     excerpt: "In 2018, Google pledged not to use AI in applications related to weapons, surveillance that violates international norms, or that works in ways that go against human rights. Pichai was also due on Monday to meet Frans Timmermans, the E.U. commissioner overseeing the European Green Deal, the bloc's plan to fight climate change by making the ..."
     publishedDateTime: 2020-01-20T14:51:00Z
@@ -496,17 +481,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/2020-01-20T145332Z_1_LYNXMPEG0J1CD_RTROPTP_3_GOOGLE-EU.JPG"
         width: 800
         height: 526
-  - title: "Google CEO Calls For AI Governance"
-    excerpt: "“We believe that any company developing new AI tools should also adopt guiding principles and rigorous review processes,” he said in the article. “Government regulation will also play an important role.” He pointed to Europe’s General Data Protection Regulation (GDPR) as being a good start for a “strong foundation.” Google ..."
-    publishedDateTime: 2020-01-20T11:43:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/google-ceo-calls-for-ai-governance/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/google-ceo-calls-for-ai-governance/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2020/google-ceo-calls-for-ai-governance/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 37
   - title: "Google CEO calls for artificial intelligence regulation"
     excerpt: "Google CEO Sundar Pichai on January 20 called for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also \"negative consequences.\" Sundar Pichai's comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is used."
     publishedDateTime: 2020-01-21T05:50:00Z

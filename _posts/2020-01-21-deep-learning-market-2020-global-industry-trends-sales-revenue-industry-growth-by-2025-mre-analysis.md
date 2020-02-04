@@ -80,19 +80,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Indian Wearable AI Market: Industry Trends, Market Size, Competitive Analysis and Forecast – 2019-2025"
-    excerpt: "Indian Wearable AI market is estimated to grow significantly at a CAGR of 33.3% during the forecast period. India is one of the fastest emerging economies for wearable AI in the Asia-Pacific. The growth of the market in the region is attributed to the adoption of various government policies to drive AI innovation,"
-    publishedDateTime: 2020-01-20T11:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/indian-wearable-ai-market-industry-trends-market-size-competitive-analysis-and-forecast-2019-2025-2020-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Cognitive Computing Technology Market 2020 – 2023: Business Trends, Emerging Technologies, Size, Global Segments and industry Profit Growth"
     excerpt: "The study indicates that by technology segment, natural language processing is the most prominent technology used in the cognitive computing industry owing to its integral capacity to process natural language interactions. At present, automated reasoning and information recovery technologies have limited applications thereby, restricting the ..."
     publishedDateTime: 2020-01-22T11:20:00Z

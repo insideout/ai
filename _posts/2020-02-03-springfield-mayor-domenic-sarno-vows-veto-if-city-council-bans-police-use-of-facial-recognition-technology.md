@@ -8,7 +8,7 @@ ampWebUrl: "https://www.masslive.com/news/2020/02/springfield-mayor-domenic-sarn
 cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/02/springfield-mayor-domenic-sarno-vows-veto-if-city-council-bans-police-use-of-facial-recognition-technology.html?outputType=amp"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,28 +26,21 @@ images:
     title: "Springfield Mayor Domenic Sarno vows veto if City Council bans police use of facial recognition technology"
 
 related:
-  - title: "Facial recognition technology helps Volusia County make arrests in 4 cases"
-    excerpt: "VOLUSIA COUNTY, Fla. — Thanks to facial recognition technology, the Volusia County Sheriff’s Office was able to make four arrests out of 30 cases last year. The Sheriff’s Office is using a database of more than 2 billion photos including those on social media and other public sites. The department purchased a license to give the new ..."
-    publishedDateTime: 2020-02-04T02:19:00Z
-    webUrl: "https://www.wftv.com/news/local/volusia-county/facial-recognition-technology-helps-volusia-county-make-arrests/Q6YYQDNJQNC6RJQDW5BZU7CQW4/"
+  - title: "Springfield City Council: Moratorium on facial recognition will protect residents rights"
+    excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council took second steps on the moratorium on facial recognition technology at Monday night’s meeting. Facial recognition technology has been discussed for months and has been a polarizing topic between the City Council and Mayor Domenic Sarno and the Springfield Police Department."
+    publishedDateTime: 2020-02-04T01:38:00Z
+    webUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/"
+    ampWebUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/amp/"
     type: article
     provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 37
+      name: WWLP
+      domain: wwlp.com
+    quality: 50
     images:
-      - url: "https://www.wftv.com/resizer/-nAp2UpM5mI0OsyKgu3KnyTIIk4=/1200x628/d1hfln2sfez66z.cloudfront.net/02-04-2020/t_623fb723a99a4dc1bcd5790a0f4c3715_name_VOL_AI_FACIAL_RECOG_TECH.jpg"
-        width: 1200
-        height: 628
-  - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
-    excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
-    publishedDateTime: 2020-02-03T21:46:00Z
-    webUrl: "https://japantoday.com/category/tech/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2019/12/e671a7d8ab384861a2630c67ee570f95.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
 
 secured: "Z0I/njbkYLh8jaU9sIRWbrS4IXc8SAMKD5t/Jnqn+OVJbl8ooTrHq4vDOUw5SJeD6Qhdpwh8Ixx9KMglXz4onwZJcliWV/fJ9VtbokZHlewpcfJx3v+Zwf0+2toB1ygRjb6dG2hi85QB29GHaXMJWaoU6H4Wnh7xpVpXGUlRYrdZuXze7ugUVugjmJlTJgkbGIOJUKczYBsv9eG5GFPGe8wLwh2SfjpsK7uGHeOMVWw/UHfH3Fq0Qbj164nrxGbhoLLnPDCBo8VAoS/yE80CK9xmDlYHylh2D0bzSYzdH089MR+79BWZ2gbGxoF9AWV56JozfAl05PJqU/XziQAx8GDSiJXnPr4VjEPUmSnTu/iSiBfvbc+z11APxJLvQyu19oD67QhLC5Iid4Qy8rn9Y1tnzoZ0dYdsF6G5lML3efyDhhfbSQ4ibYtZUP5SHJfC6E48rPLxAljh4ga9QpG4p8ctfuRHsSOMbW9vaPBMKGU=;wZ8jeWbxUNo8SVmiu521YQ=="
 ---

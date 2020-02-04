@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
-excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years ..."
+excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
 publishedDateTime: 2020-01-09T18:30:00Z
 webUrl: "https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech"
 type: article
@@ -38,6 +38,6 @@ related:
         width: 1200
         height: 800
 
-secured: "mWSvE1Bi7+FBo6fDTnNRcnmfJV/6PbCttsiaoAjL84uGpHQ0kNP9hXVaXJRZDwhAoja5vOIQytpr6MvhimDt/6L/PHQ54wKsD72OK6VXCEjFl7cbw0G1Ssyq6wDR9j63jfDOavo8fq7b9lj01Wd9Dou+T532OPY+Af+PZgHIRNQAvhut+zTiR9rcv/WLRJomau2zyOH7KxV1lLpFtKR5NcFHunsLwTWFEh5yTQt+a8L5rOO5ZpgELHQxrsi39hgXO5rLORVQiWwoGXfaqWqhTbr76WOE1YOwfy0W8xuPIK5nOlAoGd7iNV2k2K9Qu4DT;hoLmmpv64OwqkPEAZ4M2bQ=="
+secured: "G0YMB8FsedimV/igzHjWOgVGDbjqFZIv359IB7Z39cFPwc0rsbeARzjNSWU3UXgOOw+PY2mLRfxEgZF2Nv+cLGWlRvsUErvywukioxd0o2Tz6xHHyjq5TnNznvPWWwUngUVRNVXlKFk6i7PfPFQECG0MGW9D7RsMOP7OxcU6nnWWOJ3f4KxzwgoYEJ95G1CuGTeK9sw8EepRh6EVHgAx9ml3uQb7t36C5acUMQM/mOvyG8f/vCF1yWABMzBYSr4aPSAr5UJnZuP4TeyYgREWooHb//wLZb3Isz8JBjWS5yK9nvtmT1LdAUBOtRljEtZy;TIvq1q1iavZSe5tcAH1TFw=="
 ---
 

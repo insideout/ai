@@ -95,6 +95,21 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg"
         width: 796
         height: 419
+  - title: "Hardin County animal shelter using facial recognition technology for lost pets"
+    excerpt: "Users will be able to search the shelter and surrounding areas to find missing pets, locate the family of a found pet or search for adoptable pets."
+    publishedDateTime: 2020-02-04T02:03:00Z
+    webUrl: "https://www.wlky.com/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
+    ampWebUrl: "https://www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
+    cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
+    type: article
+    provider:
+      name: WLKY
+      domain: wlky.com
+    quality: 55
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
   - title: "Facial recognition fails in China as people wear masks to avoid coronavirus"
     excerpt: "For hundreds of millions of people in China, the spread of the new coronavirus has caused abrupt changes to the smallest of habits -- even a gesture that most in the country are used to by now: Looking into the camera for facial recognition. Residents donning surgical face masks while venturing outside their homes or meeting strangers have ..."
     publishedDateTime: 2020-01-29T23:09:00Z

@@ -507,21 +507,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1192370013-760x380.jpg"
         width: 760
         height: 380
-  - title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
-    excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
-    publishedDateTime: 2020-01-20T12:00:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-7907373/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 67
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/01/20/10/14896920-0-image-a-3_1579514657623.jpg"
-        width: 636
-        height: 382
   - title: "Facial recognition’s risks demand a temporary halt"
     excerpt: "Brussels and Silicon Valley rarely see eye-to-eye when it comes to technology regulation. But on facial recognition, EU regulators and Sundar Pichai, chief executive of Google parent Alphabet, appear to be moving in the same direction. Mr Pichai this week backed a temporary moratorium on the technology — an option under consideration by EU ..."
     publishedDateTime: 2020-01-21T18:16:00Z

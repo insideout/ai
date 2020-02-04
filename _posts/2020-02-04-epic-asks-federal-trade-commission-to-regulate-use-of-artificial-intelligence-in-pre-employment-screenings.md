@@ -3,7 +3,7 @@ category: news
 title: "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings"
 excerpt: "has charged that HireVue, a leading provider of artificial intelligence-based pre-employment screenings, is flouting national and international standards of transparency, fairness and accountability."
 publishedDateTime: 2020-02-04T00:50:00Z
-webUrl: "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/"
+webUrl: "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/?ss=diversity"
 ampWebUrl: "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 509
     title: "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings"
 
-secured: "znY7EacIZK33WvV2pHzmStRU9sH2j9ZwnadxO2bvWP6OX7NMGX1pYzPUTBqeSAik1nILoXsNtmoygglb9zgn/Df6NpHUdI3H9bx5uYW8W/FXv1MJD1RTNAiRI20kY9HLBwF/vYv+pErCMyrGai4xeUMVLliTTWUP3xOXJ4Tbzv+B3d7h3+B7Rkx7GeBePCG28w0bY4Vqawl/sQLXJEaSnsLHRMxoFFWsuF1nab8ArE/3raZMAPv3EmIkl3I4oB2BBOxGPNkDCInnA0D/DyIhFsVBgv3RVm0Ao2BPiU3w+OmJ/cSpBvh9yyZNaaNfSorcUAnIkNvElvWPL7g8FQtUooD4BCHwb6D5qw5exNM7J4tHzbm0skMbwlAUjU6pygW8duhvAV2bQrZwjxZh2AHT4g5lbenGHsbN/i0SjdKP6GNbbnL7XpEZwiqrA/94HlDIam4NEpyJqSdOMjYKvltoI07SuQqRojrvR+cqHZj4PHc=;ssvyWoFUV6zOAEKD5ti9wQ=="
+secured: "rZStMNeLQg64czySx81wbas/6AzQW5zjwbO/G2/Aj1z7swrdtY2K0xiqMMI+6kIds3W/7BIONBlu4S89DAeS/5+OxlvMZwGwkm9cRczcSdE46cTvK/pFflvdJsEfKfNmwZZgLXjD5vHr9WB33i3bdPUz8GVUWQnKJPA1WrJjXgIWdMz/zzwCBh5UW4StzhufTPuUnGDrWOicVbQqUQ7I/I0vx075byLilZWN0xoeb9YT6YZJvlpQEQorPU5w4Gt9TTDq9eMU8fv7hICgU0e1vdzZd2LWWDZEeBUw6qxAwUwX6Vl1x703257oGISK8SUb;pDCvk5OOFhWAWw6eYFNdZQ=="
 ---
 

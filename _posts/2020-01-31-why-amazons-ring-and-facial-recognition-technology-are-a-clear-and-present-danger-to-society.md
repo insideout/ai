@@ -84,6 +84,21 @@ related:
       - url: "https://postmediatorontosun.files.wordpress.com/2020/01/surveillance1000.jpg"
         width: 1000
         height: 750
+  - title: "Hardin County animal shelter using facial recognition technology for lost pets"
+    excerpt: "Users will be able to search the shelter and surrounding areas to find missing pets, locate the family of a found pet or search for adoptable pets."
+    publishedDateTime: 2020-02-04T02:03:00Z
+    webUrl: "https://www.wlky.com/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
+    ampWebUrl: "https://www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
+    cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
+    type: article
+    provider:
+      name: WLKY
+      domain: wlky.com
+    quality: 55
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
   - title: "How to Tell if Your College is Using Facial Recognition to Monitor People on Campus"
     excerpt: "The list shows you what universities have publicly said they won’t use facial recognition as well as those that have said they already do or are considering it. Beside each entry is a button you can click on to tweet at that college to express your opinion on the matter. Beyond just a place to tweet your university, the site also offers the ..."
     publishedDateTime: 2020-02-02T02:35:00Z

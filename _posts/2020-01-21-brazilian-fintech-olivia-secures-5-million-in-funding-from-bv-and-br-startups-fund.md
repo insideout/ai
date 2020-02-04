@@ -25,19 +25,6 @@ images:
     height: 284
     title: "Brazilian Fintech Olivia Secures $5 Million in Funding from BV and BR Startups Fund"
 
-related:
-  - title: "SaaS startup Samya.ai raises $6 million from Sequoia India"
-    excerpt: "Samya.ai is focused on solving the supply-demand equation in the volatile and complex consumer goods industry using technology. Aditi Shrivastava | ETtech | Updated: January 20, 2020, 18:06 IST (L-R) Deepinder Dhingra, Shelly Singh, Shailendra Singh, Paven Palety Samya.ai, a SaaS platform that helps the consumer packaged goods industry optimize ..."
-    publishedDateTime: 2020-01-20T12:00:00Z
-    webUrl: "https://tech.economictimes.indiatimes.com/news/startups/saas-startup-samya-ai-raises-6-million-from-sequoia-india/73432128"
-    ampWebUrl: "https://tech.economictimes.indiatimes.com/amp/news/startups/saas-startup-samya-ai-raises-6-million-from-sequoia-india/73432128"
-    cdnAmpWebUrl: "https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/startups/saas-startup-samya-ai-raises-6-million-from-sequoia-india/73432128"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 37
-
 secured: "/jgSlYqkdzOgQwCOW8BwpypMQlWwPCGRit0qpELqrMJD7DLkXFQnJO69Qp3iCyxTpzwUHUiNmMpxkH8C+S1UySNg5DwfSXB4H8b5z3ijqUS6AIw4pUZSTf4jOfIZ/HjhOEwZcruAMSCMPUJf/JoqlijaMvvl4fJegl7kHhRPeuSQ+dJrIcvjQXU43alzHHA0Y6RaeHixp8Vzp5UrNq+ahEHa/0M79rgRW7zO0ph/NUNXvBKdLJEJ9J8Syo9H0XmgmNy1YtctuvNDd2cPMhv3Ru/tXaU3gLbQmpFkybQtrT4I1o2NFs7R7tjTq3cNuaprpox1ZCvf8lyCyr1aRE+xo4k/7pWDTLwieHoAvzTbJKdJ+wAy0NiZYyC2gOtCc4EY40yMs7ahpVxpvwVly6X45arCASjzi5deJDjtch9BekTchp89GnVBYTq7+7Od0e/F1A2HaZ7IML5J0RkCU0RJqg==;zzNPwHwjNWUZw5L1gH1wuA=="
 ---
 

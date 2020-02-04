@@ -28,45 +28,106 @@ images:
     title: "Voice And Speech Recognition Software Market 2020 Technology Advancement and Global Outlook 2026"
 
 related:
-  - title: "Artificial Intelligence Platform Market Research Technology Outlook 2019-2024"
-    excerpt: "The Artificial Intelligence Platform Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2024. The Artificial Intelligence Platform market report is a valuable source of data for business strategists."
-    publishedDateTime: 2020-01-30T21:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-research-technology-outlook-2019-2024-2020-01-30"
+  - title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
+    excerpt: "ReportsWeb Adds \"Global COGNITIVE SERVICES Market\" offers an up-to-date analysis of the Market with regards to the innovations, current competitive landscape and latest trends and drivers, to provide new predictions for the forecast period."
+    publishedDateTime: 2020-02-03T11:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 79
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Telecommunication Market : Advance Technology Research and Innovation in Technology"
-    excerpt: "Artificial intelligence (AI) is group of methodology that focus on formation of intelligent machines with the help of human intelligence such as visual perception, speech recognition, decision-making,"
-    publishedDateTime: 2020-01-27T03:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-advance-technology-research-and-innovation-in-technology-2020-01-26"
+  - title: "Cognitive Services Market Analysis by Top Companies | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
+    excerpt: "New Jersey, United States, - The report on the Cognitive Services Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
+    publishedDateTime: 2020-01-27T11:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-analysis-by-top-companies-ibm-microsoft-cisco-systems-nuance-communications-bmc-software-2020-01-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Hushly's SaaS Platform Develops Artificial Intelligence Technology for B2B Marketers"
-    excerpt: "Hushly, a leading content engagement and conversion platform, has announced that they have fully embedded an artificial intelligence (AI) capability throughout their solution offerings. AI provides machine learning to B2B marketers and offers an automated way to develop high-quality content recommendations for increased conversions. Hushly's ..."
-    publishedDateTime: 2020-01-29T15:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hushlys-saas-platform-develops-artificial-intelligence-technology-b2b-/2020/01/29/9088913.htm"
+  - title: "Artificial Intelligence In Accounting Market 2020 Global Insights and Technology Advancement - Microsoft, AWS, Intuit, IBM, Google, Deloitte"
+    excerpt: "Global �??Artificial Intelligence In Accounting Market Report 2020-2026 provides insightful data about business strategies, qualitative and quantitative analysis of Global Market. The report also calls for market - driven results deriving feasibility studies for client needs."
+    publishedDateTime: 2020-01-31T05:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2020-global-insights-and-technology-advancement---microsoft-aws-intuit-ibm-google-deloitte-2020-01-31"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Image Recognition Market 2020- Qualcomm, NEC, Google, LTU Technologies, Catchoom Technologies"
+    excerpt: "Excellence Market Research has recently published a very complete analysis of the Image Recognition market based on comprehensive secondary and primary research. The report titled \"Global Image Recognition Market 2020 Industry Research Report\" offers the most precise analysis of the Image Recognition industry for the last five years and forecast until 2025."
+    publishedDateTime: 2020-01-31T08:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-image-recognition-market-2020--qualcomm-nec-google-ltu-technologies-catchoom-technologies-2020-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Speech and Voice Recognition Technologies Market Top Key Vendors- Microsoft Corporation, Alphabet Inc."
+    excerpt: "Zion Market Research published a new 110+ pages industry research “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition,"
+    publishedDateTime: 2020-02-03T12:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technologies-market-top-key-vendors--microsoft-corporation-alphabet-inc-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Image Recognition Market to Register Unwavering Growth During to 2025 | IBM, Imagga Technologies, AWS"
+    excerpt: "It uses a technology that detects places, people, items, buildings, logos, and various variables in image with the help of artificial intelligence. Companies are using huge digital data to bring better and niftier facilities to customers. Image recognition is used to perform several machine-based visual tasks, which include performing image ..."
+    publishedDateTime: 2020-02-03T12:24:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 24
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
+  - title: "Enterprise Artificial Intelligence Market Technology, Future Trends, Opportunities 2019 & Key Players Google Inc, Apple Inc., Amazon Web Services"
+    excerpt: "The updated research report on ‘Global Enterprise Artificial Intelligence Market’ offers real-time information with ... This has driven the market of AI across the globe, owing to developments, such as self-driving cars, space exploration, accurate weather predictions, and others. Furthermore, AI is expected to affect healthcare ..."
+    publishedDateTime: 2020-01-31T12:06:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38112/enterprise-artificial-intelligence-market/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 2
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
+  - title: "Artificial Intelligence as a Service Market to Drive Amazing Growth by 2025 | IBM Corp., Google, Amazon Web services"
+    excerpt: "Zion Market Research published a new 110+ pages industry research \"Global Artificial Intelligence As A Service Market Is Set For A Rapid Growth And Is Expected To Reach Around USD 14.71 Billion Globally by 2024\" is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term ..."
+    publishedDateTime: 2020-01-28T06:47:00Z
+    webUrl: "https://www.openpr.com/news/1910327/artificial-intelligence-as-a-service-market-to-drive-amazing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "mxOyGiGa9ITHjJyK4LiRoS7etEst7P8ChCNMrldAuejkd6Qiz7HgWEHHFvwm8cKbyoox2ikaf6vWeQGx3w062eeoxn1Ts/JYj4gUenRg6kemkQh2SwBqlXmGCRedx5Zbdf3MEQfvjGM82lGzeNxsIANoYoqbWtRbITpA47t/Cbn7zg25r2+NoVNCy1xjw9qYGCuR7q4w5MdAvb0hs09JYW7oFn+6A+IYX25JqLwHc32s1emvHHSgtBaJU7ICr9sEdYX8B++BSLxAGRgVVyQaK6VTE0/dfy0/qlDn5ac6rQLn4bsKlr4hdCN0HdtdGThl;ZCM0rHb+oiX3w4SxZL1uSg=="
 ---
