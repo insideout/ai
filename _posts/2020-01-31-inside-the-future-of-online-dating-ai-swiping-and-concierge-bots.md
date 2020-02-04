@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tinder-hack-bot-ai-dating.amp"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -93,6 +93,19 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGVO_LNIxa2WQ/article-cover_image-shrink_720_1280/0?e=1585785600&v=beta&t=Dm9RpsRpWHAfyEr5JC9kyR5NNqQaqxaSrl09ignGyN4"
         width: 1080
         height: 720
+  - title: "Stock Bots: The Future of Financial Trading?"
+    excerpt: "Stock Bots: The Future of Financial Trading? Humans still program the algorithms and design their ... They cannot think or feel, and despite the hype around machine learning, it’s still contentious and complicated to describe them as intelligent. Like human traders, however, they make decisions, observe others making decisions, and adjust ..."
+    publishedDateTime: 2020-01-29T15:56:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/stock-bots-future-financial-trading-117806"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 24
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/sdfgg.jpg"
+        width: 1305
+        height: 863
 
 secured: "deISYRD9Q/Mw4GMIn0yyCGIlS96g5dUPB9QCsrHTmOhBApAkWU/rNpjY8jGSRUxKoBciYtfHZiyXKQzhS5wnfdeWCF3MEEaWHaIayghlcCZPfYhKdL2dBi8cCZZK4eVUSG20fj61maB6yK75UQDXbsW/iO3VmOatovhL9r0umTj5NL7O+9OYwuZIkDXf6Lbm92j07MgrXp7dIrPsG9aNYAAfkBZbW2xdcRbKWomVnQsGAk8z+vE3WSzXm8kpgRUmeO55p4BzYSh9qGGnrk9KbW3k9+SXRHKO3CZ23YMXPYz+kGrrRhZGCcsRk4X64oBmlIbRuQOElxE0Rj1EQEghoPm/N77qV7Kmk8yR4/jNmzYeqCsTmP9RyzOvtTsZr2RWGstUG2E0ly/pTeCJ7zOy6y8SvVV2LDGKnFFl4Cu75mknc7+VzNmQo7OEWcaX6pQ5yTU7EflfyJgy9ZmGKtNPUdNHrK4yOpuwBDUoUOYwvcc=;5ggZn/cgrZSFFDIRvo3TdQ=="
 ---

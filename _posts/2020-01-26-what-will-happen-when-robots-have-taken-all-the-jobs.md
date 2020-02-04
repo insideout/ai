@@ -41,19 +41,6 @@ related:
       - url: "https://media1.fdncms.com/chicago/imager/u/original/77219985/adam_davidson_author_photo_credit_to_michael_lionstar.jpg"
         width: 1500
         height: 2138
-  - title: "You should stop worrying about robots taking your job"
-    excerpt: "Two 40-year old robots returned to the big screen this year ... Our fears about automation come down to three factors: machines will execute tasks more efficiently; machine learning will enable artificial intelligence (AI) to make complex decisions more effectively; and technology companies will sell software and algorithms to replace slow ..."
-    publishedDateTime: 2020-01-20T06:11:00Z
-    webUrl: "https://www.wired.co.uk/article/robots-human-jobs"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://wi-images.condecdn.net/image/MLZdlXaxPy5/crop/1440/0.5235602094240838/f/w30_04_byrona_final.jpg"
-        width: 1440
-        height: 753
 
 secured: "HyNhVhf2FEnoPvlJBuTjA1CuFB4XZWx19JvvOCOg0Lp9TWkU9cK/EFqlt/zqzKVRRGUq9AOFVC2D9lU3fU3jvtJW40d9341mknCc8Q6ULZaizx7R1q2rQKJG+kzl9OD1YB9jA9Gs4YbKgGYmVDh7Jdtfq9r+L1euY2j5Xn2RZc0U2G6/HRoDPLkQ9A2fzD0rI3m8xWe8RqUKI1Av++x4QF24KFHwDAzJEIPGNQv0VqeKk1FbSKVSUwBakNNhdQmfBXcxeCt/giOMg3f/h9dvjFmEyywC2mssXqxxMG0iqgd9EF188F15DHI9bj/K1KzOUECPITu1juHIR37/lo++lWhWw7r8JRF81RnyFrrpXE3uvDSV0+GZhQiXK/WsIz1qqK29yUOWsIByz5eMdwuO86F3SWeX/h+eLZNMY8UYnFG0jGPTOeaTsEBP2fHgMUmtUXgaagmegYZL1DzyfrpUO6nuo0TzOWk0ij9/WOIqyDc=;JPbNp66RxOF2f1KaBzpM2g=="
 ---

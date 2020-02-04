@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T01:25:00Z
 webUrl: "https://siliconangle.com/2020/02/02/intel-dumps-nervana-neural-network-processors-habanas-ai-chips/"
 type: article
 quality: 71
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -55,6 +55,19 @@ related:
       - url: "https://regmedia.co.uk/2020/01/31/fire_money.jpg"
         width: 1000
         height: 759
+  - title: "Intel Stopping Nervana Development to Focus on Habana AI Chips"
+    excerpt: "Just two months after acquiring Israeli AI chip start-up Habana Labs for $2 billion, Intel is stopping development of its existing Nervana neural network processor line. Instead, Intel will focus on technology from Habana whose inference (Goya) chip and training chip (Gaudi) are in the market and have gained traction. Intel had purchased ..."
+    publishedDateTime: 2020-02-03T23:37:00Z
+    webUrl: "https://www.hpcwire.com/2020/02/03/intel-stopping-nervana-development-to-focus-on-habana-ai-chips/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Habana-Goya_839x.jpg"
+        width: 839
+        height: 580
   - title: "Intel kills off Nervana's NNP-T chip in favor of Habana processors"
     excerpt: "The move comes after Intel spent $2 billion on acquiring Habana Labs, a start-up that makes more powerful chips. All development has ceased on the NNP-T AI training chip, while the NNP-I inference chip will be delivered to previously committed customers ..."
     publishedDateTime: 2020-02-03T11:43:00Z
@@ -78,6 +91,6 @@ related:
       domain: crn.com
     quality: 34
 
-secured: "XpK7Scoa32kGnPIC/8g8MyHRPgQCHYIqd1uxOYUVjLPqgLD0PD92bQriA9dsBU8d2Z9fm1wCtq7nwo+FzSHDfXwf+tBnJhA54P+LHWOEmEPJsqX1XRosnCfMLR8In/bkUQq2wgK/xE+GXnuy4rsH3x/sqC53vPm8oQVt5RVA5bVsRQmg/3/qNEcc1By9O715ouYKzuz7w0girU/FQgQRm5lAmCs1HMbgaZBCUCCY6WV9AJSzh156FaVsuQlWcI5hHowkdtkE8MUapXJUW0GZaXYBy4pi9Grr/ITcOThsh3c+6za7LaqnSLoqbjXjCoQa3Kl+NCnHBDvvB6CoaZYYwCxj66Q1zjIBW9aW/kW+6kaSY9scBoX+vWnR3xH5EyKxbhZYoCPMGopd0Q0xTMnAZIwVdjXcEXosq47NS7Zfo6tSSbH/UAAwO9dxeP43Ot04DY4c40X6pJgTg9hk+JTsiVJyEjTfimVqV5PhdD20UYs=;wsx5/1dmvDrnUstFC7bUUw=="
+secured: "JK0R+Sc1YA979p/pXcBKTnF2f7Njhv9f0jPtiGJAdFTPRy9VTY4RoPsdB64MOozOHehghqdBaM9YC1k7sfxK7/NNXtr6XSJ6+X7uf5Y/yovNzrl/z/q6RsVXDOWdGyYz2I5VvRL52MAtKt2fkHS7P8UBpAN8Kll6F9RYqxsJFVd1U998q0d288j0I0t7ayIT2NOmaze8ec2CAXEQ/RJKNNN1CGu9ttrhBgNEPF5jcDz2b07MSfwiZ+ba/nLM/vsxe7VXfLHE3OXGnaBtPx9LPsadqQXjhrikhSExEKWfZQdP5aWIPRdDNZvh/C9JnrWJqj8YELavCjF7z6V/pyprgEM932b4REJycalCEcna8+KRQ6tOc1lXP/5BHYoAlXLLOrSk1fvtCQmXhgC0eITeb6rZ+1bifqDB29n2MFliEFKcG75oBV6oRwrlWFqUGgqxm/RVNIt3PbZyj3QEcH7fgGUJXWAA4phFf+6vCXsKDGk=;CWDfSHf7LIP1c1TPU7pFAg=="
 ---
 

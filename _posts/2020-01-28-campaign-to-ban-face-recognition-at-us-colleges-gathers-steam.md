@@ -52,34 +52,6 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg"
         width: 1200
         height: 800
-  - title: "The next big privacy scare is a face recognition tool you’ve never heard of"
-    excerpt: "The global debate on the use of facial recognition by governments and law enforcement just got a lot more intense. Over the weekend, the New York Times’ Kashmir Hill published an eye-opening piece detailing a relatively unknown firm offering facial recognition services to roughly 600 US law enforcement agencies, with an image library more ..."
-    publishedDateTime: 2020-01-20T06:22:00Z
-    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/20/the-next-big-privacy-scare-is-a-face-recognition-tool-youve-never-heard-of/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-Recognition-hed-2020-796x419.jpg"
-        width: 796
-        height: 419
-  - title: "Face recognition app to be used in Telangana Municipal polls on pilot basis"
-    excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app on a pilot basis in 10 selected polling stations in a bid to counter impersonation by voters. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
-    publishedDateTime: 2020-01-20T06:48:00Z
-    webUrl: "https://yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls"
-    ampWebUrl: "https://yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 57
-    images:
-      - url: "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagevmji-1579496216280.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
   - title: "Facebook agrees to $550M slap on the wrist following facial recognition suit"
     excerpt: "That feature suggested the names of people in photos so that users could more easily tag them to a corresponding Facebook account. In order to accomplish this, Facebook reportedly used a form of facial recognition technology. Facebook discontinued Tag Suggestions in 2019. According to Lauren Gard, a spokesperson for one of the plaintiffs ..."
     publishedDateTime: 2020-01-30T01:47:00Z

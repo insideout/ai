@@ -8,8 +8,8 @@ ampWebUrl: "https://www.chicagoreader.com/chicago/passion-economy-adam-davidson-
 cdnAmpWebUrl: "https://www-chicagoreader-com.cdn.ampproject.org/c/s/www.chicagoreader.com/chicago/passion-economy-adam-davidson-robots-labor/Content?oid=77218035&media=AMP+HTML"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Chicago Reader
@@ -41,19 +41,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/books/2020/01/24/TELEMMGLPICT000222031924_trans%2B%2BoGbZwtdBNwcvkKZqZUEDO7H7wLVxD_YL8YSvmGHppSw.jpeg"
         width: 1666
         height: 1041
-  - title: "You should stop worrying about robots taking your job"
-    excerpt: "Two 40-year old robots returned to the big screen this year ... Our fears about automation come down to three factors: machines will execute tasks more efficiently; machine learning will enable artificial intelligence (AI) to make complex decisions more effectively; and technology companies will sell software and algorithms to replace slow ..."
-    publishedDateTime: 2020-01-20T06:11:00Z
-    webUrl: "https://www.wired.co.uk/article/robots-human-jobs"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://wi-images.condecdn.net/image/MLZdlXaxPy5/crop/1440/0.5235602094240838/f/w30_04_byrona_final.jpg"
-        width: 1440
-        height: 753
 
 secured: "cnAA5Mvud8z4LOpWN0xSGAK6L+hnn4NpQ1Nmt7wZQw90bzjyvO2Vxn5Xd11OIizDwxB6q29V8Y2hUWJ1CC1T96woO/Q0ckB007sYdpLmxALrNUOGCgjNetwY4Cx0Ho272C2GdMiRa2bAeT8ZMDmJbK3D1mLnJhTtpo/JLs5M68K4mzHdA2OoawvddMgIcpLXmp59UTCTlfL1AfVdUTugnjR6C4V8zn0QsJPHfin3aO5E+ZFbnsOpPCYJpTUCqpIWFhkv0+jMpOKpVksQF8pjWsh2SDlMa0EZuzBYg/M/NAFsKMhKXWoKcHMi/9g9j6JoOPHnnkqdxXw5FU9OBhN20OfbsVnIQ9gCHIy/xBFQwWp7lQqPUTHkV+boPy+7vJfLnGwHOJmrAMhIEfA1ceIKZS5I3Q919Pfp0udGIio8wBBMd03Qafc3Q0MRxh9tgMUAQdtdWg81202OU2fkyZGhwQ==;j3xkABFar94k0XR13FIHgw=="
 ---

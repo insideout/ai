@@ -18,22 +18,16 @@ topics:
   - AWS AI
 
 related:
-  - title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
-    excerpt: "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ..."
-    publishedDateTime: 2020-01-14T14:41:00Z
-    webUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14"
-    ampWebUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
+  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
+    excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game ..."
+    publishedDateTime: 2020-01-13T13:28:00Z
+    webUrl: "https://www.oaoa.com/news/business/article_bff64e43-c5a2-5acc-8ac2-6ada0e8d7d11.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 103
-    images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
-        width: 1024
-        height: 512
+      name: Odessa American
+      domain: oaoa.com
+    quality: 17
 
-secured: "4QxyVH043R8wTG25HdM/TknrMXlYTqEoKRi88CGbj0G7SinCPXK3NoogJj9GqamexfOaeYsyrlEMCk9lzftgOgOtM4AXsvukmC+1owQZ02O01Nsl05/Mimqw0xmimY3++aL292e61qfmN3bgHtDXJPWrp3lMnuJn19bp+Kpon02vTm1dvSmJ6oaQtNkk/s63PI5AO5W8XtxcwNtcRMsnjx4dc81xe5TrTtWRUOPl5YVR2JIyPRIFLiHCg4eVozktzgDkz+XTu9NqRdEvfBapUiHbsoKez5+8K5tESMozkhWN3gTFkBcgoICOFKLqfytb;dE6IpErj3Ryy2V+N0w+q6w=="
+secured: "PbuRIAtgCTglzwgUDN9IWSJqNtDTp7WdduE3El5c18rNpAdlNhPl8qziI0XKAXCxHaaAL/ySvTSXwhvtIZfUfXTJZyZybn0E18maFODy54AYVv/c70deAuDjChcq+LegFQPt+CORd+weZyfKqLKGIAhj1Hs3nlLOzxmBG9mI70BLivraynxcZlNO+2TgTthf5FoLPsam4Awf6acwrMJTJMheGvixEiX2hGY/IHjrKYI+QGwyNZKTyRn57UD6ohFEBCFCJyIaY4bZyT90gXCVu6WRc9AtIsgT45Xm0FLRH/4KHARbvR8KbeCU4X2ua+7f;4AY8pTqaJ+YUmUNEmfQvKw=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/"
 type: article
 quality: 66
-heat: 67
+heat: 66
 published: false
 
 provider:

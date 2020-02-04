@@ -23,6 +23,6 @@ images:
     height: 853
     title: "How to reduce call volume with Computer Vision AI"
 
-secured: "UEu3YCgI2fkaw85QVroDmP2KJzZiGNMyySdEtR7L5rgOGxFOdkRz0v7QzbZSDnG7EZLEKElzxg0+AT0BgXGW3AEjtJY9lbXYuu2n4wcMBJTQAP6jsURSUYuL3xmP3YjdGBiJAxtVSYkwjIJp5iUOzdX96SNT0mlfNZmkzbJBoXARuX/47FAAaLco/7ok1vEiFWkRMgl5le/gMwhG5/nVg1wsEHjHtwWlcXAlK6SJ3UNy4vCTHYF6au43iPvAX9B7Oa5Y9ZXUZHM4Avec8ALizknq1i6qpN3/KUZfveEIxPqJpsj5Pnv2jgbODqb9mnJ5;Ft5A90sR4MZHZskvvLgT6Q=="
+secured: "kN+BIcuDz22/D9GxwntU7UXcrR+oztlqk6iRznqpOq1wf8eriqIyW89pV/BHmUM9AhY5eWdOTJPtI8QEladUDvr98ylkOCzpsM//2maFMVxdRe8axAiouiQ+HqRqFCNxns24azrOWnEKlLswesT7zCi3y9dkwe+omHvPCNwtBUNBZVe+4WPumcnsporwesLEr83M7peHPxlyx5f0wJV2wX0NTIoJegNn/llnAMCP7rhchUFmW6nDeUtZLHD8A7PwRpq4z377pBzOu5fSwrbm83IyHeXgUIxT8EDWksfa2/4bMCFg2Y7aYZXuW9mntrJY;V1d69Z6XN6IuD2BC2o6aag=="
 ---
 

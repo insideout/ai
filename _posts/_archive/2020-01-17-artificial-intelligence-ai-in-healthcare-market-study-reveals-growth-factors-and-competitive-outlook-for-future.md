@@ -55,14 +55,18 @@ related:
         width: 1200
         height: 630
   - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
-    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers customized reports on specific category. Artificial Intelligence uses various computer functions ..."
-    publishedDateTime: 2020-01-22T11:05:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
+    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
+    publishedDateTime: 2020-01-22T11:03:00Z
+    webUrl: "https://www.techworld.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 12
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 32
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
   - title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
     excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
     publishedDateTime: 2020-01-20T12:39:00Z
@@ -100,6 +104,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "MkkFPdLKfJpWTSGrbp+7Atkn2oMTnERBWFVps0539p4n9n3+RN0SEfQHfgq+Og5UCjZ61bs0dQ/7n0eI3q9IWbJoZn3OJVykxrlZhgf1gvVv8/xJA+NNOZ2W1OHXydg4tGEKZ5fwAl5ZPxB5fwlXGbgO9MnyeNe2ESGlWXs+/yDc8TEuyLNDzQlKg13xbFUTqQ8tzSiYJs6KG9H3ykG6TXehBFZZo8VMTAMdhVf94XgkHdTgFKqJKLx1uAKxf9kUvWoc+LiABcXTlmWD99KNycPbr6l70SifMAOoGXgDwzrsqzP6Zdk4C8b2PRMOkm/Z;u9osPHnEip0cgay2Mt24Vw=="
+secured: "fc0QwyySZclcDJ1394qgh3xTPnOd5pUakf5ne4/nsUDlJNSxzuBIjvGLDRhMSulxEcbB5dVD89pogdSZAElkZgC3Nz0Oe71uY/L9HybBrPoGOYiMrp/1jYdD5NUyzpr5RohgvWMGv6HO8vcfd9QfLq+Wi4ZhX8PvtMmIwRF+PdJqXsu/+k4ZzFqbCBcNMbjLMaGhbCrDSO5DrB1emGKAjLR04CUamMm0DWusGyhWyOfCj4spkBChbBqJ4K4wGDNkRUpYxNPFGArkwryGFNDO4ptPkiy9zdMsITXzIlmVT8AsiOS6xAbFThFZ0lBPSK06;iwhMxanKc+o74O6naM7Tzg=="
 ---
 

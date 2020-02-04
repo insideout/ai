@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Is Baidu Stock a Buy?"
-excerpt: "For instance, there is the company's \"open-source autonomous vehicle technology platform\" Apollo. Baidu claims to have over 135 partners that support its self-driving cars initiative, and while we are still in the early stages of the autonomous cars revolution, Baidu is looking to maintain an edge in this potentially lucrative market with a ..."
-publishedDateTime: 2020-01-08T19:33:00Z
+excerpt: "Baidu claims to have over 135 partners that support its self-driving cars initiative, and while we are still in the early stages of the autonomous cars revolution, Baidu is looking to maintain an ..."
+publishedDateTime: 2020-01-08T15:40:00Z
 webUrl: "https://www.fool.com/investing/2020/01/08/is-baidu-stock-a-buy.aspx"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx"
@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Is Baidu Stock a Buy?"
 
-secured: "kdQ/JI+yw+QDJqfN7euF11OXuKbdbjoL9wc1ehYFm1FSJ9Tl2wVrHeOA5SjGbr7ozbCiydmTFN/tNFKnDHpWaV4fcSZfG4HbTH3e7l/Yz5J03Puq7BnoeJ6lFI3t711x3wviXTkdor5yQcWGvzFauaojHOAM6aHvI0KoSYgbKgkeuw/QJDevpGoNUBwH3rpgB2YxCs06yi+FdKQE3jCt9JSauf02jDwp5oubPzPJEntqKrM7rcRi7GZdPCLf0Ce33wp/WbfO2o5vzxxW+LrsmgZNsjqkej14ckyYQ0Tza5yU7D8lXv68wQyWPSSs/YMB;IJ/KREVLxfR6ZRbQcQXQ9w=="
+secured: "XpTqIM1MCv9jlMBIXM8xGZBOdwfAPBFORIL9bgRtuhKY9c3gqyMv3kEp5x6OVOLZwsaTdVuM7QrGK2RiW83cdtHRL5Q9rMKwx5DTqh7zqhJ/IWdKc7QPkOkhnMZpHZnSEWGZiTJkqUhlJTXwKAuAzALe9FHCSHyoRjyr5EbHs7X6oOmx/Zq5C1XOHT+rwi5lJmO+SG11gn35nRGX4nyC+jP0+4ScG1HTDIOU7yEZC1/btMCbKcgcTKaMAE9jSwSyvAOp0LkQAFPp9Zywf0q951lRqdI/adMyxBeAht7/Ku6/4q+YhgCQwbrxuWEn/v6f;AOGtwDJA5B/2EXqmfqbaDQ=="
 ---
 

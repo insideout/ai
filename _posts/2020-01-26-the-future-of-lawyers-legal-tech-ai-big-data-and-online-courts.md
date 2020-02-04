@@ -96,6 +96,19 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 39
+  - title: "Stock Bots: The Future of Financial Trading?"
+    excerpt: "Stock Bots: The Future of Financial Trading? Humans still program the algorithms and design their ... They cannot think or feel, and despite the hype around machine learning, it’s still contentious and complicated to describe them as intelligent. Like human traders, however, they make decisions, observe others making decisions, and adjust ..."
+    publishedDateTime: 2020-01-29T15:56:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/stock-bots-future-financial-trading-117806"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 24
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/sdfgg.jpg"
+        width: 1305
+        height: 863
 
 secured: "I546SNeb/u6iSbnE2jXInBpsq/dBFbbysiiH2e9dcGud6x4iHGHvv/BUISow/JRWsoCImejRfer8M3S/6Yr7/Jf1hbfiC11EUAk7R2OovpDVnPhZhgYClMHXjnlv8ZeAV6VT/7yUecQFRIjXfJYTbIoWf0Z8BIl88iffCwUDfiFWovOi6RRla/5xBjaW0F1+GJgBG0Iqs5Eh5a25IFE5r0qEHK+SwyyCkXPNpkGGzM9JZxBaIUPVZhGtlgm8RCcgw/EfeuQ8XvZRj6X/jjPW8qnknGJ8LPMwtGLF3YSge0fmdrz9QoB1PYn0/lg17GKC;wbus4SZr0T+wBrwBieQdew=="
 ---

@@ -23,6 +23,6 @@ images:
     height: 700
     title: "On the Radar: Cortex Labs, RadicalBit, Qeexo"
 
-secured: "iCkSa/KL+ssKixfPcqyKVXyZTkstUtAi6AytIGdyzzef2PrjoxUB32lee9S6YEHjMZzNLmiLy/U1xG431cda2oAMqU8ymARVmy/wEPuYV5+bhZIHmPk74bB0lphhph6BUcT5lBUPCDy11V1XBYUP0zpzpXhg36JgTh4J+n7cZXGIkPOM9QxynzbAq8qXHDGny9o9+uEBZcwRM3+A2aAFtj0wUB4ilfHYa4ZnByVZL3bY5d2PpEN/qlEaKtY8myduN8DRfcao84uQgaiNzZWiq5fkmFnE2CiJ7ZUvy0fpf516NHrcJtGyemy2OX4XSLu0;a7TaWpeVaUnkC7YTcRwIrw=="
+secured: "AIFkoM0HRYkPx40AbJKG8e7jkB4gxiXMFJ73Ijp8zSfeOoOVtY1M5qJx6nDC8ttjcPSWjRTC8Hd1V3RNIXlMzCJWrbZDMOdVUv/AwnhO6MqBX1kHYFvz0TKun094jJOT/BkJDjaxF10NwOdTZnTcxJjwpqsL8yELdi2kScddhjS2v93L0DBcHXEKyebpuwguA+PArch2DPlxFgVd7NXt5X1EgWjcGmOiY2Ww6hOHLZpzmGGlwtwZCobmJS7qbYEP1lWys97rHU4mHtzBKGvbqwJHBeShPif4U4z94W/SgPS9f+lM78SuMJIw595rscy1;7YX31XAnVg+TBpfDY6BFpQ=="
 ---
 

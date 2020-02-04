@@ -54,6 +54,19 @@ related:
       - url: "https://regmedia.co.uk/2020/01/31/fire_money.jpg"
         width: 1000
         height: 759
+  - title: "Intel Stopping Nervana Development to Focus on Habana AI Chips"
+    excerpt: "Just two months after acquiring Israeli AI chip start-up Habana Labs for $2 billion, Intel is stopping development of its existing Nervana neural network processor line. Instead, Intel will focus on technology from Habana whose inference (Goya) chip and training chip (Gaudi) are in the market and have gained traction. Intel had purchased ..."
+    publishedDateTime: 2020-02-03T23:37:00Z
+    webUrl: "https://www.hpcwire.com/2020/02/03/intel-stopping-nervana-development-to-focus-on-habana-ai-chips/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Habana-Goya_839x.jpg"
+        width: 839
+        height: 580
   - title: "Intel kills off Nervana's NNP-T chip in favor of Habana processors"
     excerpt: "The move comes after Intel spent $2 billion on acquiring Habana Labs, a start-up that makes more powerful chips. All development has ceased on the NNP-T AI training chip, while the NNP-I inference chip will be delivered to previously committed customers ..."
     publishedDateTime: 2020-02-03T11:43:00Z

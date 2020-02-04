@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-02T08:58:00Z
 webUrl: "https://www.businessinsider.com/tesla-self-driving-tech-wall-street-getting-bored-waymo-cruise-2020-1"
 type: article
 quality: 60
-heat: 101
+heat: 100
 published: true
 
 provider:

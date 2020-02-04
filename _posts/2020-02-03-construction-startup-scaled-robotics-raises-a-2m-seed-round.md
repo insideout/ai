@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/03/construction-startup-scaled-roboti
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/"
 type: article
 quality: 119
-heat: 139
+heat: 140
 published: true
 
 provider:
@@ -49,6 +49,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 19
 
-secured: "KP5LDn1LfHf5agZ8dc72s3L+Tx8+lEdhrMo7jMKLa7GELvd6JPoRawOH/EekWVryuG3t6lvxwFqMq07wfJwvwIdBMrY2yJytjbKn6/HO5ENDED48ar8b8QS3wm7FFoxxrD3dADsBHG8DOBe13mdd9r8exSaf1rBnKbeQkhz4aFis7zsPPmKLym8ZbeyAZamHsjkeN/15omOtik8i1qZo/9RlR+uFApolQ5+IkxtaL0u4iT68DZu716v3K+TWRcCDKXQoc+hyiMHa/IbwxG1MKnprfi8gXHFRcN7s3v7F4KsIxN687aW1rr0OJ/nmTR+CSkiI1cgCnfb2FDmfjzFCd6ZguNPu7G3dmA9Ky6d6mAjrqS1mlyvaSWRAPyjTiYSUAmqvjpNiXmc33lOePELXET3yoebEyPYVwXUS3fruYZY24QbCM38a5N3mvuIFafJcLxT+gxm8+dUPtrzqt3+RIZQ7WkPEa/prEbbsbKRqO8M=;GEC0tXcS8ftsr6jGTStLxg=="
+secured: "ioDZW1M9LoMihNjeRTc2qlTHvzDmeY5icOnHlnwET0gTuPE29+cr0MUpUqx6AJornOhMH2ZxtveLGLgVWR0WhuilPyo9NRUIaATKnDTmOXm3/z7s38mAHEjFP7ns3SAvhns7ShVejUnkb69TenSQxwuwTC6Ksi1iek+wnvDlCFR7e+U+BxLRN/6O0q9ZYjYk5n7jgGHbY8qM/mhuyUKZVfxRiN8s9xwCifH2wFBuyAmxdWiAkyh2xD6jfOGZndsgsT73Lf7LbzWNROgxJmdj5CNoG/4CjHGARNsN868PzMs0ynMsR+4IYhJPGNK+33Zs9W7+caniRtByfr5229wGJlfXswd3WwS2i2uarcshOs2PY5/Mbnf3g9czp2JX3KdoX+hKBeYMGLUg3Vo2ZAkpruwwN4xAgVzoj5VDADlr2xuAA2P4sBXBIpfNdrDcO4L8vKGaAgoXm5fTfa9uJXowHc/7GjSZdKNL0Fbp6OyfXEI=;kxkqKneu6GCYLEuQ7z/j5w=="
 ---
 

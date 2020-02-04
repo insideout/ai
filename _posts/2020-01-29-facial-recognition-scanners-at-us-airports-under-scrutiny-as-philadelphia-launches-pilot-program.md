@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/tech/facial-recognition-machines-airports-un
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny.amp"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1280
     height: 720
     title: "Facial recognition scanners at US airports under scrutiny as Philadelphia launches pilot program"
+
+related:
+  - title: "Facial recognition scanners at US airports under more scrutiny"
+    excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
+    publishedDateTime: 2020-02-03T23:58:00Z
+    webUrl: "https://www.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
+    ampWebUrl: "https://amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
+    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 54
 
 secured: "xb1htqT4BnN9uYro6T0YXxCL0UErqh5uNgdYX26iUVWhucOOqK27uI//UbiImYO075FgTPMw5P8fCZ/dLoTPX3TWKLGRNuN6ZBcAEmnKjIwTbMMzMiGD5duDiUJ4LEpPR/DVv+Mwfn83hZA38o5e4+VIdHNGadzgtuplWABYML28KXkHQrNyuHA1+hWPgWkHhlZaW0qG6UA6A80dIj/LrLxken2g1Kdr1NJq1jOxnnZv6//aUFLVcpWnQYg//LwYpgdYbWBh1EQW1IcieJ7QFgW5KNMtbLESpR8xu6uHBVNYItizAvAl1SEkP/M5WMnc8zDUambZEoa6IRbN7IuSTGN/zKRBpWxEZaitGGcEVCATsG6GqgBpmncv1c8WgWbVh1Zs6RfkdRSCEMjyPpNNmbb3aXfD8RtYC2rOsmN6BoyfymROQR4U0UyPClvYwO79jJjsFZZWuKY1+K4Ds+tBDIeLvh80rsdlZKLidFpfrNc=;iQOgev5R/BMdrVmellvz3A=="
 ---

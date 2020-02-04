@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itp.net/business/91271-gems-dubai-american-academy-launc
 cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai?amp"
 type: article
 quality: 86
-heat: 88
+heat: 86
 published: true
 
 provider:

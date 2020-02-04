@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
-excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers customized reports on specific category. Artificial Intelligence uses various computer functions ..."
-publishedDateTime: 2020-01-22T11:05:00Z
-webUrl: "https://www.arnnet.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
+excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
+publishedDateTime: 2020-01-22T11:03:00Z
+webUrl: "https://www.techworld.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Australian Techworld
+  domain: techworld.com.au
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+    width: 300
+    height: 300
+    title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
@@ -94,6 +100,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "35COKJ4HmC6EprFPULYJ4zIeQrwuxIHrN/xGBbH26Pmy9y/pdgpM3FJnxK3poaD9jpWjMLDIt6YS6yCRHtGKj/muwE7gG/R7fld/x3KVWYWCykqV/E5CRvXPcAQztqPU5gIuigLmDRHIqV8Qoh75ObAtto2uH8MUzigXO9s7XQvCGy5kII1zOnI4MQqvNteIEnDmXtO5usQIlTlKHHmGZEjlEMlg/jLVGBM/HwxZGSqgBRmym90OhaVQOHb9sQMyYooEAXIUZ4I20QvK/URJFNDPhISyWKA6p+UuibbNOFNiOZ54BJxRdUP9BKlC9c94;LwF8fyasYEXTnhDBlobrsQ=="
+secured: "gaFlA/yq9I6N7G6F5RafCZUnXxeIbbQisYosIgJucSLjIbqyRwpSXHEh61DKtxTautY2UqqRLT8h6Lxy/Veq08sZGEQRZxHaL3s5y21a8PRf0YmO88pzwdiasTxrPIXruFU9gwh4YkQxr2dMca3cObF2twarIWiqExwiiiKvus9mCCJ5si704FgNaw1kOMVV4MLeZqvq1FK6TFL4sZuNognhCFuFxeJs8WrfXQkxBcyLRC42qOaY+XUhj5Tevwzqqitr8dRPz/io4aTnQJolauyJKOyW0FWmJbTx8ETOIKWw8CiePPN2w1cQPaamUs2G;Gxv1uZfZOdotMtz7JMyyvQ=="
 ---
 

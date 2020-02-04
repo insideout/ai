@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/02/03/are-brighter-days-ahea
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx"
 type: article
 quality: 74
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Are Brighter Days Ahead for IBM?"
 
-secured: "G+mnPNE47/wtinXQFVoXdg/ehW6Yl0GP26T8FobU1ef6wu1dtQviSY+GWHKHwMZM44fXlOfCkoGNpuXnSa2gPXiSOQsQm7rzKueJxtF7yUddglKjNmsaca4qm1+Bxtg5h+DY6hggC6lfDL2I64H9UwMW6zon4e7OjjKXbYxzpWhcpsRDK4MKb9t1EsYp/0NPlY/JEALYC514jnqBTU+YOZbuFuv6vjWd3gjgj4NAizEaZxxL+gm75Q/5kohZ7ZZPymtXzNw2WnDskGuzIl5u935A+zigAlvdHiJ0czDkGb86gZ2aX07fJWjf43nJctgfm8xFieo4JoMCSmpIEsSZDhMdtUmoUDpqqE0CXrycJOhe7B7jOavFAmvcfZjlKPnpAGVpGTQ5gpdJtU1gg/g4rP2rEJzlMnSVUER3T6+bteZ8AnO709Vk1X2M3jaZSlRqa84n5gd2CusR7uVYb/JeX6an6X6ea90M/S5FgR+69Kc=;n8vB6+KwZjQvgOj01fYbpA=="
+secured: "9jvj6+tHhLnQT8V5iCwTi3AZV1d4szhjsTAICaNb+qJUhz6PWZjAlMdPJGpukuJxw7IN8cklXIsxAc+vJ+s7h32IsQrdK5M5LDaqFO+B/b0gJqzH5aKzLu7FUC4AS1hb2pE5aq4Jd8IUwK/8QIsJEBjDc9jH+jqqodVN6AdEhgin9qDanQTxo685FufMsE8XJHnYIPuIAL1YkgOSI/IKzsAvWKMvrITvYFUZbyfjDHB1oEsDShpHb1CvQmsd8u2oc+vNpMqsbqYtxK7Db6Vv3GOBDnzD1prwQtkFnqz2xr2O1s9rwkroj+HC3WUdH0HGB1CcMmdyIWz0vRvUKMf460Qa9fH2V/GxkYaFGHPn4Wr8oJVGogDGXh3fXKYgPwD/a1uPGTYFlJa0/rIIeqyl1SpfgQCxMZOKJAb8Xty5m+Bh714ELHTwR8NJOJVyTnVgH0BJJcbU1pxaHPEpmGSjkYzD3g8Ms8UVNwjlAF1yY4U=;5KBfVEEmm//DN+4PUvmmpQ=="
 ---
 

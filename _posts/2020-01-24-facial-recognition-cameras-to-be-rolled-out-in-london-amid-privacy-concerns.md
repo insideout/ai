@@ -923,19 +923,6 @@ related:
       - url: "https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-  - title: "EC may ban face recognition"
-    excerpt: "The EC has come up with an 18 page document discussing whether it should ban face recognition in public places for three to five years while they work out how to regulate it. Exceptions are mooted for things like security and R&D projects. New rules are proposed to add to existing data privacy and data storage rules. Developers and users of AI ..."
-    publishedDateTime: 2020-01-20T06:51:00Z
-    webUrl: "https://www.electronicsweekly.com/news/business/ec-may-ban-face-recognition-2020-01/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 39
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/01/18214524/1E09A80F-5158-4A31-98F5-595EA416C587.jpeg"
-        width: 750
-        height: 450
   - title: "Holocaust victims' fates could be revealed with facial recognition"
     excerpt: "KFAR HAROEH, Israel - An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center, which hopes to match family pictures from around the time of World War Two with its database ..."
     publishedDateTime: 2020-01-21T11:36:00Z
