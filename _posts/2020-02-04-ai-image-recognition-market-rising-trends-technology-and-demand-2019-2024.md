@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T08:16:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-rising-trends-technology-and-demand-2019-2024-2020-02-04"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -72,19 +72,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "/PRNewswire/ -- According to the new market research report \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
-    publishedDateTime: 2020-02-04T14:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/emotion-detection-and-recognition-market-worth-56-0-billion-by-2024--exclusive-report-by-marketsandmarkets-300998432.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 7
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
-        width: 669
-        height: 229
 
 secured: "V4msS3eZPadBcvUO2fyYYf9GSYQltAyP5RYnTB1mJEskSbyyB3TtG65+1Q54j1nFoNBBBLScEBwiC1NHHV1tBDP/7tyskBdgRpA7z2phBid+pnRRGqhY/vwEC+37lWRbtTldwsstmHSSfNlUDKFK51NXOb0eXjTIE2V7PSueJzbUhXcKRma9eJ2AT9tzEZ6eol410adbMxdZ1Gxn41FFgc5NLg1VwPNnUgB063WKn2z5PF+s4F/rkyST9zF8ddbSqHVW+LPNejXwbVgqGO+KBWAXVfNZnlIc+AaCjDcvXJJTDHHjkkjTTaLljSYQ99gM;ZFLfdzuA9nSxa2EPksiD8Q=="
 ---

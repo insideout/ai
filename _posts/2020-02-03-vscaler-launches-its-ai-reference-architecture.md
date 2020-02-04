@@ -57,6 +57,19 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
+  - title: "vScaler launches its AI Reference Architecture"
+    excerpt: "the platform provides a significant decrease in GPU-GPU communication latency and completely offloads the CPU. The AI optimized Architecture includes vScaler Cloud Storage, which centralizes all I/O and places active files on the fastest tier (Flash/NVMe) but also leverages the cost benefits of an erasure coded HDD tier and provides policy ..."
+    publishedDateTime: 2020-02-04T16:03:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/vscaler-launches-its-ai-reference-architecture/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Fujitsu-FX1000-website_780x-405x228.jpg"
+        width: 405
+        height: 228
   - title: "RealityEngines.AI comes out of stealth and launches the world's first completely autonomous AI service to address common enterprise use-cases"
     excerpt: "/PRNewswire/ -- RealityEngines.AI, a San Francisco-based AI and machine learning research startup, is coming out of stealth and launches the world's"
     publishedDateTime: 2020-01-28T16:47:00Z

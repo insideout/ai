@@ -52,6 +52,19 @@ related:
       - url: "https://nationalinterest.org/sites/default/files/main_images/segrs.jpg"
         width: 1304
         height: 733
+  - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
+    excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
+    publishedDateTime: 2020-02-04T16:07:00Z
+    webUrl: "https://www.wtol.com/article/life/family-focus/report-calls-out-automakers-to-prioritize-kids-safety-in-self-driving-cars/512-fa0605c4-7852-48fe-89b7-e0266b839362"
+    type: article
+    provider:
+      name: WTOL
+      domain: wtol.com
+    quality: 22
+    images:
+      - url: "https://media.wtol.com/assets/WTOL/images/73fa9d4c-e350-45aa-8d4b-a9482434eacd/73fa9d4c-e350-45aa-8d4b-a9482434eacd_1140x641.jpg"
+        width: 1140
+        height: 641
 
 secured: "4rZSfCs3vkO7t7Cz8kOhAS3bEDICZFa8ti+gOp4h/xaa99tkMI4IAv69qRqYZggBOMwBMbRMsKM71xY3T7X7yjdbKQcSzFASAQwqDAtdsWiJ7yUBTZNxP/PmIkt2WrRTaUFfXHBBCS+KgMfT/RI3o5KEjknkEKF/2109TGnIkYfd6xxVktrYe5N/IcGKi1QJCVTm2cglyLn2KsueA0Tx4aeCRQUCAeF3AmTJGw1X7OGln8QLoL0MnG/1AjESAxQc6Nduuuvydp831qe7TjWrqZRInoSIuF2cg5S7gC0Pjx7bdO+sq+tF5xU7disa75OQi1VR3JwA/C809PyA1qzgig/OF/bznNXcM78mvt2t5rj3Hs9g6v3bYPeP+jAC8uyee5gLrP6z2Ya84ctXOjtY4bwL211dQ0KtXrODHFbnCk8e02HPKUhoyjAYXcb+c9DeXtb1nqPmayNtc2YN6dm7JggS/cdk+vDTsNf8AtKj1rc=;8h2aKItcvx0XAZtQ6oq2AQ=="
 ---

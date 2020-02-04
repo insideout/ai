@@ -1,26 +1,26 @@
 ---
 category: news
-title: "AI Startup Senseforth.ai Selected for OceanPro, Maersk’s Startup Accelerator"
-excerpt: "BANGALORE, India--(BUSINESS WIRE)--Senseforth.ai, a leader in Conversational AI space, has been selected as part of cohort 3 of OceanPro, Maersk’s startup accelerator within the shipping and logistics industry. Maersk recently announced the launch of cohort 3, which focuses on Maersk’s e-commerce platforms, optimizing the brand experience ..."
-publishedDateTime: 2020-01-28T11:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200128005392/en/"
+title: "AI Startup Senseforth.ai Selected for OceanPro, Maersk's Startup Accelerator"
+excerpt: "Senseforth.ai, a leader in Conversational AI space, has been selected as part of cohort 3 of OceanPro, Maersk's startup accelerator within the shipping and logistics industry. Maersk recently announced the launch of cohort 3, which focuses on Maersk's e ..."
+publishedDateTime: 2020-01-28T12:07:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-ai-startup-senseforthai-selected-oceanpro-maersks-startup-accelerator-/2020/01/28/9087758.htm"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200128005392/en/769825/23/senseforth_logo_black.jpg"
-    width: 1200
-    height: 627
-    title: "AI Startup Senseforth.ai Selected for OceanPro, Maersk’s Startup Accelerator"
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "AI Startup Senseforth.ai Selected for OceanPro, Maersk's Startup Accelerator"
 
 related:
   - title: "AI startup Senseforth.ai selected for OceanPro, Maersk’s startup accelerator"
@@ -39,6 +39,6 @@ related:
         width: 599
         height: 338
 
-secured: "ah6RuT0upvRToNsGu7fpzBCGz/aVWYr/Jos+J58R3lBD8NjKT7b5143j+dgkoTIGoMqTJKLkDxE+06ZZTw758QCyfFLV7oRZ2Srt4Y8E5y2bf2E99pjz3hgGbAZzBnW8JRcKA2V0nKGpLuABBzvlj7D5svLerqiSkyp4a4thvo4insJovlI1ttmMD/NwXET5A66MsuTo6N0liW+b6dJ1sIHUo2HwO8E+SY02sFhvmDvXIvB4ZVwtjyYiJ6FdKsX7FYzGHeO+7IKmQ0WkA1+dLZridEX/A5RdCPCXqAZinS0wgCHT7ENTW11XKItdfcv8iDRMpNY9YhrKe8rQdCyj2oZAq2eCDUcQx18zH//0VNKU49lDun5z5197DGEP7dZNJSiVi6TTySdkIaX4POOEqAYCdDmBmXRf1rRH0uy7jqQybgosTOlAV+ftaLf38BLfpM+E5zK3Kbvge27Zg1VsjMRaMgyTgMTaaE2kgPQoSD4=;4JGrCFtNny1ATGhkCc41ew=="
+secured: "mJ6wu96A4B3gcgcxVkoIx9J55o7aBCWjXScpx2MdTkoULAaSJg/HLaxL9xOnEyLJibL9erzJwZZZGBW2WT7zAvEpC99cy0B5tvL91NFlH+U45In+sAXSlbnxYcHX642bVmFYVfQnqpGbBF3poQeNTOIZ7qJx1uZQfYUSlGhNju07Poo5yTi5qwnIeVeSGfzaQc7ATWMRaTFZ6q9HjpRCR4jpjfq2xL58kqTq5MHbpjsdfRP0qLwrZyBNWMgRH30wv0nf4Ys7VHWK+Vn6+zdbhyLpEO6p5A9x7ViifA55X7gZjIhqGAsWBGqO77vU+LdZ;SgbvGuI+5CWcIuZlA7XKOA=="
 ---
 

@@ -52,19 +52,6 @@ related:
       - url: "http://www.idw-online.de/de/institutionlogo20362"
         width: 500
         height: 206
-  - title: "Going deep on deep learning with Dr. Jianfeng Gao"
-    excerpt: "Dr. Jianfeng Gao is a veteran computer scientist, an IEEE Fellow and the current head of the Deep Learning Group at Microsoft Research. He and his team are exploring novel approaches to advancing the state-of-the-art on deep learning in areas like NLP, computer vision, multi-modal intelligence and conversational AI. Today, Dr. Gao gives us an ..."
-    publishedDateTime: 2020-01-29T11:13:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/going-deep-on-deep-learning-with-dr-jianfeng-gao/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/Research_Podcast_Jianfeng_Social_1200x627.png"
-        width: 1200
-        height: 627
   - title: "Benchmarking Deep Learning Architectures for Predicting Readmission to the ICU and Describing Patients-at-Risk"
     excerpt: "To compare different deep learning architectures for predicting the risk of readmission within 30 days of discharge from the intensive care unit (ICU). The interpretability of attention-based models is leveraged to describe patients-at-risk. Several deep learning architectures making use of attention mechanisms, recurrent layers, neural ..."
     publishedDateTime: 2020-01-24T13:06:00Z

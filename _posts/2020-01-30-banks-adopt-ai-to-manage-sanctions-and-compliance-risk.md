@@ -17,19 +17,30 @@ topics:
   - AI
 
 related:
-  - title: "AI takes the pain out of regulatory compliance"
-    excerpt: "“In simple terms, a bank needs to ensure it complies with about 15 regulator rule books and regulations such as MIFID II [Markets in Financial Instruments Directive] and GDPR [General Data Protection Regulation] so they don’t get fined,” explains former banker Alex Martin, who spent 20 years working in the fintech industry in ..."
-    publishedDateTime: 2020-01-30T06:04:00Z
-    webUrl: "https://www.irishtimes.com/business/innovation/ai-takes-the-pain-out-of-regulatory-compliance-1.4154190"
+  - title: "Pros And Cons Of Artificial Intelligence"
+    excerpt: "All things considered, the most buzz making things of 2020 in the innovation area are Artificial Intelligence or the extremely popular AI, Machine learning and the information science advancements. Yet, the most occurring of these three, the AI has been certainly taken into such huge numbers of possibilities while choosing to manufacture a ..."
+    publishedDateTime: 2020-01-31T10:35:00Z
+    webUrl: "https://techbullion.com/pros-and-cons-of-artificial-intelligence/"
+    ampWebUrl: "https://techbullion.com/pros-and-cons-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/pros-and-cons-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
+      name: Impacts
+      domain: techbullion.com
+    quality: 57
     images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4154186&origw=1440"
+      - url: "https://techbullion.com/wp-content/uploads/2020/01/Artificial-Intelligence.png"
         width: 1200
-        height: 630
+        height: 628
+  - title: "NSF-Simons Research Collaborations on the Mathematical and Scientific Foundations of Deep Learning (MoDL)"
+    excerpt: "Research activities will be focused on explicit topics involving some of the most challenging questions in the general area of Mathematical and Scientific Foundations of Deep Learning. Each collaboration will conduct training through research involvement of recent doctoral degree recipients, graduate students, and/or undergraduate students from ..."
+    publishedDateTime: 2020-01-29T22:45:00Z
+    webUrl: "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505750&org=NSF&sel_org=NSF&from=fund"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 2
 
 secured: "9zTjf+NYNl+czexo/dOy+ocofDXLuyqfomE3Tguex8IBmp2AKS6GG7lyFbaGeaiwnypfCyafKoKeeUqokEL2OmRMpT63DMKA6ROag/+Me0qtQsGdiPaOcb+i3PN/gSf1pJsaQ1x/EVp9pFcXElj9sTSXwci3EsXpwY1ARLNm0uPPtVcM3ra4qwh+qzQ2BcnM5dhbg8fiNWG45tuMcdwaD+UBzmcqUmDP5qjZXHUEwFsNtvmdlK+aZl/UvdBGZW0SHyhkAJN+ddaR5ZIMfaEHU4LD8bIvHCRLteqy2lrHDbGQmbzA4gAWuZRcCfvv8rqdck0IsoYvjWmLdRWIxPX1sJvbYFkNDPBgIPKzgnZo6ImhXfTtkFYQNBp4gJKryjU0tLg8S2MARc1NM+Ti3R1BYdWW3WnwEkSTjt3v6rU7zagweNO9pDu5Y3ts/EqASOw9bzc2PGir1goQ8P8GlG/UJg9Vb6I4n9TA1Ti89O7hGNo=;441sdTpDIZBxjfFLXSPE+Q=="
 ---

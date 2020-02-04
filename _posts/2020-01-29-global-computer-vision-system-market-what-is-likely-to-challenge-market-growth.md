@@ -18,82 +18,51 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market- What Are The Main Factors That Contributing Towards Industry Growth?"
-    excerpt: "Jan 30, 2020 (AmericaNewsHour) -- A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market. The report analyzes the artificial intelligence in healthcare ..."
-    publishedDateTime: 2020-01-30T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-30?mod=mw_quote_news"
+  - title: "Smart Marketing: How Corporate Marketers Deploy AI"
+    excerpt: "Marketers report a 27% increase in the use of AI and machine learning in marketing toolkits over 6 months prior. Top uses include AI for content personalization, targeting, predictive analytics. Organizational challenges to maximize the impact of AI in marketing are discussed."
+    publishedDateTime: 2020-02-04T16:02:00Z
+    webUrl: "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fchristinemoorman%2Ffiles%2F2020%2F02%2FAI-F1.png"
         width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Automotive Market Share – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
-    excerpt: "MarketStudyReport.com present the report on global Artificial Intelligence (AI) in Automotive Market report evaluates the growth trends of the industry through historical study and estimates future prospects based on comprehensive research."
-    publishedDateTime: 2020-02-03T12:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-share-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-02-03"
+        height: 588
+  - title: "AI Chip Market is Booming"
+    excerpt: "AI processors are reinvigorating the global semiconductor industry, prompting at least one market tracker to predict a three-fold increase in AI chip applications over the next five years. In a survey of AI adoption released this week, IHS Markit predicts AI applications will explode to $128.9 billion by 2025, up from about $42.8 billion in 2019."
+    publishedDateTime: 2020-01-31T17:14:00Z
+    webUrl: "https://www.hpcwire.com/2020/01/31/ai-chip-market-is-booming/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Computer Vision in Healthcare Market Analysis by Top Companies | NVIDIA Corporation, IBM, Google, Microsoft, Intel Corporation"
-    excerpt: "New Jersey, United States, - The report on the Computer Vision in Healthcare Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
-    publishedDateTime: 2020-01-29T18:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-analysis-by-top-companies-nvidia-corporation-ibm-google-microsoft-intel-corporation-2020-01-29"
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/AI-silicon-shutterstock-675x380.jpg"
+        width: 675
+        height: 380
+  - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "/PRNewswire/ -- According to the new market research report \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
+    publishedDateTime: 2020-02-04T14:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/emotion-detection-and-recognition-market-worth-56-0-billion-by-2024--exclusive-report-by-marketsandmarkets-300998432.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 7
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Automatic Content Recognition Market 2020: Report to Share Key Aspects of The Industry with The Details of Influence Factors- 2025"
-    excerpt: "Avail a detailed research offering a comprehensive analysis of the developments, growth outlook, driving factors, and key players of the Automatic Content Recognition market in the latest research report added by Big Market Research."
-    publishedDateTime: 2020-01-23T14:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-content-recognition-market-2020-report-to-share-key-aspects-of-the-industry-with-the-details-of-influence-factors--2025-2020-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Edge Artificial intelligence (AI) Software Market 2020: Key factors behind market's rapid growth by 2030"
-    excerpt: "The Objective of the \"Global Edge AI Software Market Market\" report is to depict the trends and upcoming for the Edge AI Software Market industry over the forecast years. Edge AI Software Market Market report data has been gathered from industry specialists/experts."
-    publishedDateTime: 2020-01-24T02:56:00Z
-    webUrl: "https://www.benzinga.com/press-releases/20/01/wr15178205/edge-artificial-intelligence-ai-software-market-2020-key-factors-behind-markets-rapid-growth-by-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15178205"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15178205"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-  - title: "Artificial Intelligence Personalized Healthcare Apps Market"
-    excerpt: "It's a The Research Corporation summary of the worldwide market's competitive landscape. The Artificial Intelligence Personalized Healthcare Apps report additional predicts the dimensions and valuation of the global industry throughout the forecast amount. The Artificial Intelligence Personalized Healthcare Apps Market report examines the ..."
-    publishedDateTime: 2020-01-28T10:32:00Z
-    webUrl: "https://www.openpr.com/news/1910720/artificial-intelligence-personalized-healthcare-apps-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
-  - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
-    excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look for patterns and model possible solutions in understanding health and wellness is a notable aspect bolstering the uptake of cognitive systems in ..."
-    publishedDateTime: 2020-01-29T12:14:00Z
-    webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
+        width: 669
+        height: 229
+  - title: "Artificial intelligence in BFSI Market: Industry Trends, Market Size, Competitive Analysis and Forecast - 2019-2025"
+    excerpt: "Orion Market Reports Recently published report on titled \"Artificial intelligence AI in BFSI Market - Global Industry Trends, Market Size, Competitive Analysis and Forecast - 2019 to 2025\", studies the global markets for Artificial intelligence AI in BFSI in terms of product type, technology type, application type, end-user and regional ..."
+    publishedDateTime: 2020-01-31T13:50:00Z
+    webUrl: "https://www.openpr.com/news/1915939/artificial-intelligence-in-bfsi-market-industry-trends"
     type: article
     provider:
       name: openpr.com

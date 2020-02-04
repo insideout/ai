@@ -52,6 +52,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2f1e2df133f400076acb05%2F0x0.jpg"
         width: 1200
         height: 626
+  - title: "vScaler launches its AI Reference Architecture"
+    excerpt: "the platform provides a significant decrease in GPU-GPU communication latency and completely offloads the CPU. The AI optimized Architecture includes vScaler Cloud Storage, which centralizes all I/O and places active files on the fastest tier (Flash/NVMe) but also leverages the cost benefits of an erasure coded HDD tier and provides policy ..."
+    publishedDateTime: 2020-02-04T16:03:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/vscaler-launches-its-ai-reference-architecture/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Fujitsu-FX1000-website_780x-405x228.jpg"
+        width: 405
+        height: 228
   - title: "vScaler® launches its AI Reference Architecture"
     excerpt: "high performance RDMA fabric from Mellanox®, the platform provides a significant decrease in GPU-GPU communication latency and completely offloads the CPU. The AI optimised Architecture includes vScaler Cloud Storage, which centralizes all I/O and places active files on the fastest tier (Flash/NVMe) but also leverages the cost benefits of an ..."
     publishedDateTime: 2020-02-03T11:55:00Z

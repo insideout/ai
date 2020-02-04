@@ -4,8 +4,10 @@ title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
 excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object ..."
 publishedDateTime: 2020-01-09T20:49:00Z
 webUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
+ampWebUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
+cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -17,26 +19,44 @@ topics:
   - AI
   - Computer Vision
 
+images:
+  - url: "https://media2.govtech.com/images/shutterstock_1112561213.jpg"
+    width: 940
+    height: 627
+    title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
+
 related:
   - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
     excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
     publishedDateTime: 2020-01-09T14:42:00Z
     webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
+    ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
     type: article
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 34
+    quality: 74
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8="
+        width: 1200
+        height: 630
   - title: "What is Voice Recognition"
     excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
     publishedDateTime: 2020-01-11T11:41:00Z
     webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
+    ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
+    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
     type: article
     provider:
       name: TWCN Tech News
       domain: thewindowsclub.com
-    quality: 4
+    quality: 44
+    images:
+      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
+        width: 600
+        height: 271
 
-secured: "fLM7ZswsOEDKQ5cpUzG57NvhKtQ0xGN6ahhgdphiCnM3h9oQpvp2mvk3ohikxgwV4awjFiqpNIl5TKBP3PbpDKbhPLwHKqfkmPazVIwzMYdm3ON+M/lUUW9A2bqRSjzMRx8DOC37dHqAZxkDqq2zsL9sz6vlrB97GGBEx+UZXvsiVuS/DUWMUPkjuatGb08ijDdUUSqiAIY3H4AM9SuTXuagRuEIwY9TcSXkhKpRBxiNMZteG/Z3ouRmz0YY+itDx7Ss3OtDwcIUBRt8H3wUENeW9PV8bS7oQv5YEB3mIiQq039new7zuqZxjrDk4DP5;BRxIRJaMwEHqjoXv20z0kw=="
+secured: "TrIg0ZlyRA4Fs7v4lhEFUK9j56ZL68Xvqjy4/oCiYIaX7wO298LejrmkYU2HDVOpGrsXxhwux22eaRJw/fjkW8JO5+D9uHJoHUxkxYn+LCaUq3uC1MJRVpVSw4Wtf+JMLqJxwTmSLevnfjWB+yJ1UXEYOrO+uq0Nf9cRE4AzVUoy9RmeoRMzSRUJI5cCSSruF2K1PmTfoq2VpZoyirFWvJn4lT9yK7XmLpytbRnJM9PdPXg8JEVpK87NeSOdToMz6+XxOEeTqM6tgzLw2znoNg5NB0NpaOwlen9LLcQzwspKahjjzpSFgAodihs4w06O;iiT6fkkEJRCbbRej46bU5A=="
 ---
 

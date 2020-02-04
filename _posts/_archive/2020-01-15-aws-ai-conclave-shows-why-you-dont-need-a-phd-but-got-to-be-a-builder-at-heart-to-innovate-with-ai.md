@@ -4,9 +4,11 @@ title: "AWS AI Conclave shows why you don’t need a PhD but got to be a builder
 excerpt: "Denis further deep-dived into AWS’ AI services and highlighted how Amazon’s foundational work that started many years ago led to innovations like Sagemaker. If day 1 of Amazon AI Conclave put ..."
 publishedDateTime: 2020-01-15T14:25:00Z
 webUrl: "https://yourstory.com/2020/01/aws-ai-conclave-innovate-ai"
+ampWebUrl: "https://yourstory.com/2020/01/aws-ai-conclave-innovate-ai/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/aws-ai-conclave-innovate-ai/amp"
 type: article
-quality: 20
-heat: 20
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "kjiLlOrBehqZMelQuHS8F4WNbNOno81mkxxblrjrv9xwzN0PdLM0E9xrMMe1j+u6KIzVjBVbeldv+LaLio26LYscnK2KlrzBI/1XlrE5YQKFUdn7bmyILCSi9DhCtHtlC3p+yd6t5/pvdoXDs0vI1Z+4bH+SDWo3q6ZhrPk+rzIIhOpiyvGUKwGWzdtMPBEwHe+7eaTROElQU6YtqzqWz/KU3d0krR1Ep4sNJ8epwZlHXjWihx8BXevSMGc9NDRVHe+iSMWRDgRVstL08KfvZadu4WidW1WuhoVvv9NcX78fsoKk8cZIzB43znyMbLBJ;YLPYzM2VipKWFhvxxC3WIQ=="
+images:
+  - url: "https://images.yourstory.com/cs/static/default-ys-image.jpg"
+    width: 300
+    height: 300
+    title: "AWS AI Conclave shows why you don’t need a PhD but got to be a builder at heart to innovate with AI"
+
+secured: "ZdFS/hC5ci9Q7dupBqWCt1RiRQrbFcJzdVIu4qYfi42OhIzpKE+LwBEj7OFfeSQJsA6PP2myZGUXVaMu2P9cgvrOriMML4YaiuXeXok/DCatmK1EOCHvFsXQRFTSvt5sx/uMl65+NMUzWMZwuNIGDAlZbZ0nYyZH8AfqsHHhwn+eDkhTLbOlYyRiXzJj94Y/2njZevcYuncmMNrXKNC/mTfof4NzPMm0VtREI11YKAh15VVyzsUDSajecUVt47xbx5djQx52XEHCr58iBZLT68neNUMEW4IEbr6C2toi5rJVPLOJjIgcSUR8o9mPzlEE;FQwVbURUrGr5OKi494k5sQ=="
 ---
 

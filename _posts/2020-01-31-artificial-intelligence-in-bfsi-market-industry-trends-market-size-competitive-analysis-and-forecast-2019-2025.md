@@ -17,84 +17,56 @@ topics:
   - AI
 
 related:
-  - title: "Natural Language Processing (NLP) Market Growth, Opportunity And 2027"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-01-27T06:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-growth-opportunity-and-2027-2020-01-27"
+  - title: "Smart Marketing: How Corporate Marketers Deploy AI"
+    excerpt: "Marketers report a 27% increase in the use of AI and machine learning in marketing toolkits over 6 months prior. Top uses include AI for content personalization, targeting, predictive analytics. Organizational challenges to maximize the impact of AI in marketing are discussed."
+    publishedDateTime: 2020-02-04T16:02:00Z
+    webUrl: "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fchristinemoorman%2Ffiles%2F2020%2F02%2FAI-F1.png"
         width: 1200
-        height: 630
-  - title: "AI for Drug Discovery Market Trends and Future Opportunities Till 2027"
-    excerpt: "The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-01-27T06:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-trends-and-future-opportunities-till-2027-2020-01-27"
+        height: 588
+  - title: "AI Chip Market is Booming"
+    excerpt: "AI processors are reinvigorating the global semiconductor industry, prompting at least one market tracker to predict a three-fold increase in AI chip applications over the next five years. In a survey of AI adoption released this week, IHS Markit predicts AI applications will explode to $128.9 billion by 2025, up from about $42.8 billion in 2019."
+    publishedDateTime: 2020-01-31T17:14:00Z
+    webUrl: "https://www.hpcwire.com/2020/01/31/ai-chip-market-is-booming/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-01-27T11:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027-2020-01-27-7197455"
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/AI-silicon-shutterstock-675x380.jpg"
+        width: 675
+        height: 380
+  - title: "Global Computer Vision System Market: What is likely to challenge market growth?"
+    excerpt: "The Global Computer Vision System Market report has been compiled by the best subject matter experts and marketing research professionals to make sure that the info within the report is obtained from the foremost authentic sources and therefore the forecast is of the very best accuracy. This report studies the Computer Vision System Market ..."
+    publishedDateTime: 2020-01-29T06:34:00Z
+    webUrl: "https://www.openpr.com/news/1912099/global-computer-vision-system-market-what-is-likely"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market Top Key Players, Drivers and Trends to 2027"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-01-27T09:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-top-key-players-drivers-and-trends-to-2027-2020-01-27"
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
+  - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "/PRNewswire/ -- According to the new market research report \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
+    publishedDateTime: 2020-02-04T14:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/emotion-detection-and-recognition-market-worth-56-0-billion-by-2024--exclusive-report-by-marketsandmarkets-300998432.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 7
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Self-Driving Cars Market 2019 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
-    excerpt: "A new market research report by Big Market Research on Self-Driving Cars market reveals that the market is estimated to grow with a substantial growth rate from 2019-2026. This report is a valuable document for major players and the new entrants to scrutinize the market in detail."
-    publishedDateTime: 2020-01-28T09:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2019-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026-2020-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Learning Management System Market Growth Opportunities 2026, Segmentation and Key Players Forecast by 2026"
-    excerpt: "Top Players in Learning Management System Market are D2L Corporation, CrossKnowledge, IBM Corporation, Edmodo, Cornerstone, McGraw-Hill Education, Saba Software, Inc., Upside Learning Solutions, Oracle Corporation,"
-    publishedDateTime: 2020-01-29T09:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/learning-management-system-market-growth-opportunities-2026-segmentation-and-key-players-forecast-by-2026-2020-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
+        width: 669
+        height: 229
 
 secured: "6JVGnDHjFAQu+xbY3M1cmD3usuy2rQcTGLtEQwl+PSiY2rk15FWftt+6XdW//zqMsr9PvOXY5QsoIjfnj0r5fw/ttIDubhzIJD5/AMR1NnuKHxXuFcsAXffT72n7ebq6lt3T0jRl9a7Fraco3v1Xghuae51vdsWazfWjwq4noa10ebBys1GX3ncDkesAX4HtqLATLsUbTYBgMRzsRT2CupXwrijQsDhi+AOXG/ogA6JMd7JCtvW8Dy60XhTidnEi7+xu9q/xMF4bNi7N47ybISNlaKuwvaHaFWXVPVeCkRCEgKM7vQeVQIwbJlf1VXsn;/BgvbVgOjXZS4zMdwlU/ig=="
 ---

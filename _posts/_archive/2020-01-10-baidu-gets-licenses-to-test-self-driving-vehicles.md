@@ -5,8 +5,8 @@ excerpt: "The tech giant is one of the first companies in China to be given gree
 publishedDateTime: 2020-01-10T05:50:00Z
 webUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,27 @@ topics:
   - AI
   - AI in Autos
 
-secured: "qyvAQ1xLaFUH88TeYbWQp/JD1Hh83NXx53sKp7+FVVi/MfzB7KUpDdzeNdaLFGFxLDnzuCpQByEUtaVIMda/eW3AumlHHZ5RgUZox8NH73BbPTFajSHDw+d2Bnz0RTEb01d/i6nNinFr35Vap8cMt+ttCZMYLJCfXHvXFJLP7KdOTPU57UkTU01Ukq784SLtuxN69V8HgNBNoGWyLhwJGD/cJDSaXkacHIK650AjekA4gT9n8babvc+Xj2R/IfjttHDOry/z5jUU48XbGdRPdXlzEicd2bXvlu1rvN+ov7k5KiYwTRtspx8l/1Ib5eyz;lj8RHWYIwFGKa9m9Ttxc9w=="
+images:
+  - url: "https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg"
+    width: 1200
+    height: 800
+    title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
+
+related:
+  - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
+    excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
+    publishedDateTime: 2020-01-09T18:30:00Z
+    webUrl: "https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/qualcomm2.jpg?itok=5ZO9Ahao"
+        width: 470
+        height: 246
+
+secured: "PyZpR4HQ9CnhOTD+qkv8Puc5ZfOh4S4XoHO5vkoifhD/SxkR3BOMC+1D80Psj5A5mJg5b83VtDPfwH1lSgNAzNN8KGRjTlfmYTfMGlVLhoB4Cta3oLzx3Pgqzq65zvW0NZ1bdJlrj5pVz9e1DUmbBafKmRyOQC2A5gL3B/YREycasWTyDKLc04DoGchlZRq08tlB+qY5GbWbIs50l3DJqovgrNS/NSez86ShPstM1wLsUMXnuF3OnUBSkhFl4iJS14S1YYR9d2x7Mc1WnyKe3fsthFkad9NPWnN9/5kb1MvYdtRIAKqjHh0dl+kFWAXl;RL8kA0Xqjvo9bp1sqdD3gw=="
 ---
 

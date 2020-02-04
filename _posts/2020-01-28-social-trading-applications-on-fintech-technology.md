@@ -26,34 +26,86 @@ images:
     title: "Social Trading Applications On Fintech Technology"
 
 related:
-  - title: "5 ways Fintech is making Banking more accessible"
-    excerpt: "But Fintech has a solution for that, too. Artificial intelligence (AI) facilitated the development of robo-advisors, who can communicate with consumers in real-time, offering financial advice and more. An example is a chatbot, which “talks to” the customer through online messaging. For now, most institutions that use robo-advisors have ..."
-    publishedDateTime: 2020-01-28T17:20:00Z
-    webUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/"
-    ampWebUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
+  - title: "Artificial Intelligence in Telecommunication Market : Advance Technology Research and Innovation in Technology"
+    excerpt: "Artificial intelligence (AI) is group of methodology that focus on formation of intelligent machines with the help of human intelligence such as visual perception, speech recognition, decision-making,"
+    publishedDateTime: 2020-01-27T03:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-advance-technology-research-and-innovation-in-technology-2020-01-26"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2020/01/offshore-software-development.png"
-        width: 700
-        height: 400
-  - title: "Six strategies for FinTech adoption in banking"
-    excerpt: "FinTech introduces new conditions and requirements that are beyond the current competencies ... in the exercise of professional judgment in an era of machine learning and artificial intelligence (AI); and in the management of real-time transfers and payments across multiple channels and over wider geographical spread. It is interesting to ..."
-    publishedDateTime: 2020-01-23T16:30:00Z
-    webUrl: "https://www.complianceweek.com/financial-services/six-strategies-for-fintech-adoption-in-banking/28338.article"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence to Make Significant Transformation to Medical Technology in 2020 and Beyond"
+    excerpt: "Artificial Intelligence has been in development for decades already; however, it is only in last couple of years that we saw significant improvements, and what else can benefit from this technological advancement but one of the most critical factors in human development – Healthcare."
+    publishedDateTime: 2020-01-28T00:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15194678/artificial-intelligence-to-make-significant-transformation-to-medical-technology-in-2020-and-beyo"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15194678"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15194678"
     type: article
     provider:
-      name: Compliance Week
-      domain: complianceweek.com
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.abnewswire.com/uploads/1580155563.jpeg"
+        width: 858
+        height: 578
+  - title: "How machine learning could advance solar power technology"
+    excerpt: "This experimentation is the key to creating a healthy proposition for machine learning to become a part of renewable energy. At the University of Central Florida, a number of researchers are focusing on perovskite solar panels. Featuring a combination of inorganic and organic factors, this set has seen up to 28 per cent in increased efficiency ..."
+    publishedDateTime: 2020-01-28T04:29:00Z
+    webUrl: "https://www.energymatters.com.au/renewable-news/how-machine-learning-could-advance-solar-power-technology/"
+    type: article
+    provider:
+      name: Energy Matters
+      domain: energymatters.com.au
     quality: 39
     images:
-      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/2000x2000fit/6/2/5/10625_fintech_808774.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://www.energymatters.com.au/wp-content/uploads/2020/01/678583375.jpg"
+        width: 1000
+        height: 667
+  - title: "Open banking to AutoML: Top trends driving technology innovation investments in 2020"
+    excerpt: "Machine Learning for All. In 2020, we believe there will be more efficient algorithms to automate Machine Learning (AutoML). This will spur the adoption of AutoML at the enterprise level, helping non-tech firms access the capabilities to build ML applications quickly. This democratisation of machine learning will also make AI experts and data ..."
+    publishedDateTime: 2020-01-30T12:37:00Z
+    webUrl: "https://www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156"
+    ampWebUrl: "https://www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 32
+  - title: "Artificial Intelligence in Medical Imaging 2020 Global Market – Innovation, Technologies, Applications, Verticals, Strategies & Forecasts"
+    excerpt: "“Artificial Intelligence in Medical Imaging Market” WiseGuyReports.Com Publish a New Market Research Report On –\" Artificial Intelligence in Medical Imaging"
+    publishedDateTime: 2020-01-27T08:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186686/artificial-intelligence-in-medical-imaging-2020-global-market-innovation-technologies-application"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15186686"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186686"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
+    images:
+      - url: "https://www.abnewswire.com/uploads/1580118163.jpeg"
+        width: 466
+        height: 310
+  - title: "LSU computer science, biology researchers finalists in IBM technology competition"
+    excerpt: "The LSU team is a semifinalist for the IBM Watson AI XPRIZE, a $3 million cash prize to be used in research funding. In their research, they are using computer learning, or artificial intelligence, techniques and datasets of known chemical compounds to teach their program to pinpoint compounds that could be effective against specific bacteria."
+    publishedDateTime: 2020-01-24T19:48:00Z
+    webUrl: "https://www.businessreport.com/article/lsu-computer-science-biology-researchers-finalists-in-ibm-technology-competition"
+    type: article
+    provider:
+      name: Baton Rouge Business Report
+      domain: businessreport.com
+    quality: 19
+    images:
+      - url: "https://d46w5x9vt7qfg.cloudfront.net/businessreport/2014/11/Business-Report-Default-Social-Image.jpg"
+        width: 1200
+        height: 630
 
 secured: "3U6G6SPxFpgmmX7L6kzFQtGUqQl1AaseYESCxQcIHv6lUg5eBiUHktqaxYI4DL4zcp1MwXBKXeM5QWjP10u5Z6/mahw6pUQgay3O11zA4ciSQVgZAhRcEHM2BagU6o+txEx+pEUhPko9a9s1BFPltJxZYQ7ux+iwPe+0RRh0PWJ4dKEjJuAg5G+VbgLxfmYkx2oQ5Qi6Hl4YA/nDJ1rVJdLlPeauj4LoGxB1eqsTuh8fhF+vfB6VQNi577A6BqPXJ9LVjijCU5+WUKcdtMchuiDbQ+5KMx77lZ4kwJKl8d4Bg9JVQMy3Xr0/mja+ItHVY98yUk9OPMO57ifZoGC6Ieg/e0LO6dyin3rwYvSZhwL9t939WY3BeV/l5sPzB9pFF4TOdeYzExQO78jtUlrPnvjj6rRya45TTwJgH9qrm9gQexpPidVEy+siVYplDGknfejWjlDV6Yls2lpUiukbFJ2Qbcpf4BGBMsA9mgRZTnI=;8uAF4RJC7jqmAmeqou/Mbw=="
 ---

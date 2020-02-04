@@ -81,15 +81,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 35
-  - title: "Global Computer Vision System Market: What is likely to challenge market growth?"
-    excerpt: "The Global Computer Vision System Market report has been compiled by the best subject matter experts and marketing research professionals to make sure that the info within the report is obtained from the foremost authentic sources and therefore the forecast is of the very best accuracy. This report studies the Computer Vision System Market ..."
-    publishedDateTime: 2020-01-29T06:34:00Z
-    webUrl: "https://www.openpr.com/news/1912099/global-computer-vision-system-market-what-is-likely"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
   - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
     excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look for patterns and model possible solutions in understanding health and wellness is a notable aspect bolstering the uptake of cognitive systems in ..."
     publishedDateTime: 2020-01-29T12:14:00Z

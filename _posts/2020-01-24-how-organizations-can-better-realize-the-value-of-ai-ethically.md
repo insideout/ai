@@ -37,19 +37,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1165431212/960x0.jpg?fit=scale"
         width: 711
         height: 474
-  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
-    excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
-    publishedDateTime: 2020-01-31T15:06:00Z
-    webUrl: "https://www.businessinsider.com/developer-technologies-digital-transformation-tech-companies-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
-    images:
-      - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
-        width: 1024
-        height: 512
   - title: "How companies can embrace AI as a catalyst for creativity"
     excerpt: "Combined with a lack of understanding of the technology, employers don’t have the internal structure and personnel needed to launch the power of AI into their business model, says Augustine Walker, senior director of product management for Veritone, an AI solutions provider. “There isn't a lot of focus on what tools are out there so that I ..."
     publishedDateTime: 2020-01-27T11:14:00Z

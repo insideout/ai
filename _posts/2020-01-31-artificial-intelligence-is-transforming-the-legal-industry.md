@@ -32,6 +32,19 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Thought Leader Adam Lutostanski: Is There Too Much Artificial Intelligence In The Banking Industry?"
+    excerpt: "In his debut Thought Leader conversation, he introduces himself and gives some background information. Adam and Steve Grzanich discuss artificial intelligence’s role in the banking industry and what Associated Bank does to set itself apart from others. They also touch on digital currencies being used around the world. Adam and Steve wrap ..."
+    publishedDateTime: 2020-01-23T12:51:00Z
+    webUrl: "https://wgnradio.com/2020/01/23/thought-leader-adam-lutostanski-is-there-too-much-artificial-intelligence-in-the-banking-industry/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 23
+    images:
+      - url: "https://tribwgnam.files.wordpress.com/2020/01/portrait-picture-2020.jpg?quality=85&strip=all&w=960"
+        width: 960
+        height: 1200
 
 secured: "40UluPEtB9hX05qZUzTQTvYzixd8jOhnOAafbSo6BpeW9HWGMgj0lHrcl5CiVlC5ZTgdchKTdobc+HAeee06QDC0unbZqiwkXwUeHU8BREZ0fO9/qpMna1Wd5fJzEEl5BkSSPb0NLPgLErIEVtn/lE9nMoGXgX3aQsYH5dEHVmuIY8Foa6bq6nEMa8ZodGRm5m1Bi8pQbO2ffoA0DrVyNoT36ya/JwicUkLbNMe5TPZkhQAQxwkkQR0IdCwS22yZ8ZszqlEf7KlYXiD6wMvACFKzfnmg8mcefX+B31oZWaPUcTA2Z5qZmTJ2EV3QnXZQTiEdEPZpRN2ZlFJE+m/nyXEcen6xevtcswZRQwn1giJle/lszNhQOMiUyX5fgVPUrRPlC3i0s38IF+roX/QZ1cSI5wXGlDNv/b8qPqm+9dmEoW3j+h08EDSpGG6MxDIQ82OZBFHMjlgDoyYqXZXmFBjxvVni9E+nfRhvjvxl/mI=;vOaP+3kASC7mHSYKEi0iEQ=="
 ---

@@ -4,9 +4,11 @@ title: "How Natural Language Processing Can Help With SEO"
 excerpt: "Previously we discussed Google BERT, which is the latest Google algorithm update that leverages natural language processing (NLP) and machine learning to improve searches. The big question ..."
 publishedDateTime: 2020-01-13T13:43:00Z
 webUrl: "https://www.cmswire.com/digital-marketing/how-natural-language-processing-can-help-with-seo/"
+ampWebUrl: "https://www.cmswire.com/digital-marketing/how-natural-language-processing-can-help-with-seo/amp/"
+cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/how-natural-language-processing-can-help-with-seo/amp/"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "GXjcPLk7fVoq9gHO/jW8ucrjJ6AIfwjn3DmXPHTtmOOl0m1nFpnSU3Ml9RFN+kl2qo0pXM9FQZry+Pka8kUkGqoBF/Z7crwFKVJQFW+95WHx4pJN7I9vu7HhqimJjftyfRyLAKBeZpo778EdoxewfMpk4fkYXEJw1MuFMHhKNegXrG/Bz8b6Mopr2WcLLWwlRSKAkfiuzkND80Svu2vJHrUOH1n3fdqM15caG3RN+rqH/F/ZiyVb1/W2k9jX/se2eLpSw6QPFp7Ora8tFzQGl0R33l6A5g5ytZjp0nPAqlE+TVcndd7HuezsAyMdRDxO;/GCS+VdYxMV/N6ocG+i/1g=="
+images:
+  - url: "https://www.cmswire.com/~/media/7644a0cdc7bb41339f8a118f355972f4.jpg?mw=1024&hash=7608FDAEF65C86343297B2F2BBFE0C534C159883"
+    width: 640
+    height: 480
+    title: "How Natural Language Processing Can Help With SEO"
+
+secured: "+RbQ4Jz/9djiMM9RfaAuIpt4NpkLdBpu6L7152NT2wKZwDeKURZAcC+UW0h8Jr2BY8z10MqbuYhC8c4+5r7NSsfxinPy7A0zauIPFxfWM3DezLjPtXO+BMwftdJDHyNurFlDMqSRhfDMCKmv8oGUtxGN9JTvmu0/UfF/f4tVu4jurhhO4AFN0OZi85mwTJtTRdvZW6yFEf7gnPYpB6oi7j34IESUz/oHo5CGNmxA2NaBhs0ONGbF6JwpCTG2rImZjf31DVl7DHEeeiRkfmMk+t7VE2fGPck+6IG46B9NUFJx3j9xCNeUdHvOmkLFVHZa;0ppTSwvp0Zzx469xVxUhEw=="
 ---
 

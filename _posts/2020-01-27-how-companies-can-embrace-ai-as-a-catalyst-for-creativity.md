@@ -47,19 +47,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
-    excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
-    publishedDateTime: 2020-01-31T15:06:00Z
-    webUrl: "https://www.businessinsider.com/developer-technologies-digital-transformation-tech-companies-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
-    images:
-      - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
-        width: 1024
-        height: 512
 
 secured: "cQSQKOBWT6aggsCmnZiCLnaVnc+u3jQzep6VJ8UpX1Du5hmOvl+a/jQjBoUorlXH23cNH4qvjrvQzEApzTb1OI8K89oghcVqmYcl437jKdt03eJPkn+C1d2J67vLTOuyxEmVtt5bpCHuCpY81xQAZ7FL2kTBB6rn+gIzeJNnf3Jk3ix5VYIfGLhNnulLCiAkA1DPY4HlTcm7tFSu56IENZ6tebbjd+bp9RSyyfWvGvWvSy+NvTuguQgjAVjfNCYZQqeed5pi4WAqjAIPPPVXGgBmlvnugwOtXVGlcL4xQNW3gkzr46TnjdpWIBsLijLw;pNzt3gTEY0c9JPshAhb7SQ=="
 ---

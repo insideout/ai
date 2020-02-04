@@ -42,6 +42,19 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 42
+  - title: "MassRobotics Expands: Innovation Hub Serves Robotics, AI and Connected Devices Startups, STEM Programs and Global Robotics Community"
+    excerpt: "/PRNewswire/ -- MassRobotics, the independent, nonprofit serving as an innovation hub for robotics and smart connected devices, officially opened its"
+    publishedDateTime: 2020-02-04T15:28:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/massrobotics-expands-innovation-hub-serves-robotics-ai-and-connected-devices-startups-stem-programs-and-global-robotics-community-300998727.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
 
 secured: "Ok8OlBUW7TRZuNCnH90AD/upo1SHZF+XXQ4pt2ORBB0d+FUFSlubx1UVFWOMVXq6eqEgGztev08iIzfCDgcgXaMWVLTNnPL6wOEoalqcRKyBLyStSFghU7I2XnYFgLpdOXXGt+dR6YVSlglqoskr6zkVsvvizt3lXt+03tALE2XLtXFMX39VQgtpI3EAQBVTZSocCm0kV0AKZiVc025E8v2ca0XUHyG/sG1Zrh7zrmapXYhhQP3VbVEQrr1c4Qm0HPzREyuTNG8GhfPzJze/QlL9Ww/wwKVwnE0k1pzlCHSf4yQEwPUf345f+I7LOaaW;4W4XCvpvqYze0RZhDj/Ojg=="
 ---

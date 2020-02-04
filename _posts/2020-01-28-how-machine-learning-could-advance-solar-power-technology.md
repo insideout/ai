@@ -52,6 +52,21 @@ related:
       - url: "https://www.abnewswire.com/uploads/1580155563.jpeg"
         width: 858
         height: 578
+  - title: "Social Trading Applications On Fintech Technology"
+    excerpt: "What Is Next For Social Trading And The Business Sector? Though the future of social trading remains vastly unclear at this time, 2020 is set to be a big year for social trading and fintech technology in general. With the implementation of AI in a number of different fintech businesses, there is potential to increase customer service through an ..."
+    publishedDateTime: 2020-01-28T10:11:00Z
+    webUrl: "https://www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
+    images:
+      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/01/Analytics-data.jpg"
+        width: 1920
+        height: 1080
   - title: "Open banking to AutoML: Top trends driving technology innovation investments in 2020"
     excerpt: "Machine Learning for All. In 2020, we believe there will be more efficient algorithms to automate Machine Learning (AutoML). This will spur the adoption of AutoML at the enterprise level, helping non-tech firms access the capabilities to build ML applications quickly. This democratisation of machine learning will also make AI experts and data ..."
     publishedDateTime: 2020-01-30T12:37:00Z

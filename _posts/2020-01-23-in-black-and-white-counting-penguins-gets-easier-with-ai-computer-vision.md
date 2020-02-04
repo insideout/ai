@@ -8,8 +8,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/in-black-and-white-co
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision/article30631436.ece/amp/"
 type: article
 quality: 72
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Line
@@ -30,11 +30,17 @@ related:
     excerpt: "In search of a solution, a group of tech companies developed a computer vision solution to help ecologists count the remaining penguins faster and more accurately than before. The loose partnership consists of Intel’s AI Builders — the company’s curated ecosystem of software vendors — along with Microsoft’s AI for Earth initiative and ..."
     publishedDateTime: 2020-01-20T16:00:00Z
     webUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/"
+    ampWebUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 37
+    quality: 77
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/4435aca3-10d3-4e94-bce1-b9a5ec1a9557-e1579113904720.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Counting Antarctic penguins with AI"
     excerpt: "In order to study penguin populations, researchers first need to accurately count them. A new crowd counting solution from Intel AI Builder member and data science company Gramener could enable researchers to use computer vision to count penguin populations faster and more accurately. \"Today, on Penguin Awareness Day, it's important to ..."
     publishedDateTime: 2020-01-21T13:40:00Z

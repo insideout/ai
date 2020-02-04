@@ -39,6 +39,21 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Social Trading Applications On Fintech Technology"
+    excerpt: "What Is Next For Social Trading And The Business Sector? Though the future of social trading remains vastly unclear at this time, 2020 is set to be a big year for social trading and fintech technology in general. With the implementation of AI in a number of different fintech businesses, there is potential to increase customer service through an ..."
+    publishedDateTime: 2020-01-28T10:11:00Z
+    webUrl: "https://www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
+    images:
+      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/01/Analytics-data.jpg"
+        width: 1920
+        height: 1080
   - title: "How machine learning could advance solar power technology"
     excerpt: "This experimentation is the key to creating a healthy proposition for machine learning to become a part of renewable energy. At the University of Central Florida, a number of researchers are focusing on perovskite solar panels. Featuring a combination of inorganic and organic factors, this set has seen up to 28 per cent in increased efficiency ..."
     publishedDateTime: 2020-01-28T04:29:00Z

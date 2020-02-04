@@ -1,21 +1,21 @@
 ---
 category: news
-title: "AI-Formulated Medicine to Be Tested on Humans for the First Time"
+title: "AI-formulated medicine to be tested on humans for the first time"
 excerpt: "A drug designed entirely by artificial intelligence is about to enter clinical human trials for the first time. The drug, which is intended to treat obsessive-compulsive disorder, was discovered using AI systems from Oxford-based biotech company Exscientia. While it would usually take around four and a half years to get a drug to this stage of ..."
-publishedDateTime: 2020-02-03T16:56:00Z
-webUrl: "https://www.entrepreneur.com/article/345841"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/345841"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345841"
+publishedDateTime: 2020-02-03T09:15:00Z
+webUrl: "https://www.engadget.com/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/"
+ampWebUrl: "https://www.engadget.com/amp/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
+  name: Engadget
+  domain: engadget.com
   images:
-    - url: "/assets/images/organizations/entrepreneur.com-50x50.jpg"
+    - url: "/assets/images/organizations/engadget.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,10 +23,10 @@ topics:
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/20200203164812-opioid.jpeg?width=600&crop=16:9"
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6294%252C3923%252C639%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C997%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252F27840430-f413-11e9-bdfc-1e60bbd37912%26client%3Da1acac3e1b3290917d92%26signature%3D79d1e8cd28bb5cdf1601ea05d7226f489d22eb6c&client=amp-blogside-v2&signature=5c83968906b4c6d0967bda40cb3845b8a7ec6b23"
     width: 600
-    height: 338
-    title: "AI-Formulated Medicine to Be Tested on Humans for the First Time"
+    height: 350
+    title: "AI-formulated medicine to be tested on humans for the first time"
 
 related:
   - title: "Drug designed by AI to enter human trials for first time"
@@ -108,6 +108,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "x7OFYlM8UQwlen9vGQI8YpeQKEp8S/oYw5+AUjJpX1dtC8Ntw7+JT9QqjVokcHisei3cbYv5C95ibArtVxFRP7P5Lehld4NvwtflYtrq0NUqm/dqT6ZeWi1Q8gmLuszTFTCeO6EewpSS/s0gbYDl6gx9ZkgqcR4ScOdC/9759Bky0MO1+1QtVPjzYI7ilTUwTSII5zVfBKK7WeLebpvA3+GVcD8O7d8IfaY0EgdZx8e0dCbCosHY+Dvyvt57ZOu3+76vaEU0cBpt6YKT6uHdZa/Mofwpx7te8JW2UEFTAuOkUaPEypBMciqPcoIzRWAxU4yP2Qc/snGVS95Ur1jq+gDIkgPlzZei3D3h7VL30m2Gw0+Mwor6n1yQ0Jx8z+c97zxwR56hFruqEpiccHKAPsk9+v/G/piqEMfh5ODmAdRkHnie/Hgnb11kCLUU6ZiZ19hXSHqjKGFR5lECBShtnH0NmtCfmqxZ1XGaqr/SmMU=;PAJuWNjbSjidSI7bs6fdQw=="
+secured: "WejSaqvuJYIHl3cf+GqbnI7Nhim2N9DTbzPXijq218f3u6TNiuM234nq2DZQE7rSqvB1fzOOlkLeWmrxiLTgeFYDS7bds8sCF2FAOYp1DdXK/eOB1AxOwdGqytyHhuws+4NfdeYUUweeHCjXZ5N04DcGH+bmqb3++g84dPkQtKDuGSiUzqaYHBt89mbUVUNwS6FvnUnH4hZ+0DCbjnW++baKHXcRGRPVPMG/Z6TNLSDj9ZxWoA/PEFvvvKwOUW0ypd06H6iVrIWMi6yttLWb6EPDGc3iDIadD86oNxUXvUA55j3TJLF1WVwUVQY+OYRY;6TSXrqNNF2yhjPAey+CdtQ=="
 ---
 

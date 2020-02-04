@@ -33,6 +33,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global LegalTech Artificial Intelligence Market is Expected to Grow at a CAGR of More Than 37.7% Over"
+    excerpt: "PUNE, India, Feb. 4, 2020 /PRNewswire/ -- The digital reforms in the legal industry have transformed the traditional courtrooms and law practices, thus strengthening the prevalence of Artificial Intelligence (AI) in legal technology or legaltech. The increasing burden of legal activities, carried out around the globe, over a limited number of ..."
+    publishedDateTime: 2020-02-04T15:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2020/02/04/9091877.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
+        width: 400
+        height: 400
   - title: "Exoskeletons and Exo-suits: Exploring the Scope of Wearable Robots"
     excerpt: "Better and refined versions of this technology are surfacing every passing day; today, even mind-controlled exoskeletons are available, which were unimaginable until a few years back. Studies have suggested that, in the future, humanoid robotic technologies and exoskeletons may present possibilities for humans to function even in unstructured ..."
     publishedDateTime: 2020-01-31T12:36:00Z
@@ -42,6 +55,17 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 19
+  - title: "Rehabilitation Robots Industry Outlook 2020-2025: Set to Exhibit a CAGR of 25.8% - Exoskeleton Robots Expected to Hold the Major Share"
+    excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Rehabilitation Robots Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Rehabilitation Robots market is expected to register a CAGR of 25."
+    publishedDateTime: 2020-02-04T15:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15248288/rehabilitation-robots-industry-outlook-2020-2025-set-to-exhibit-a-cagr-of-25-8-exoskeleton-robots-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15248288"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15248288"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
 
 secured: "p6vhSaunepTog692Ps+CZP0b98E7huTyfrsdKJD/fDifDz6nLEpPQ21lo5+qNjAqCdDj6vrVQQwD9RpUJDX8Kcg5o81L73Nda8jM6GQ3y88Dd8YIsc2jfKmcDk7AsPhtU/X4QiKkxW8EKK+wRrm7a3G73nEr3bctuenE6eXbiTORVwLV0yrIknKFrCMvUzExWwEmDb0RQRgtkNABDl0kNx+LLxZvPbLZVmdcUjvGJE/n1PHd4CC2aGAu/SDuQS86okQC7PBN8FTiqO7mJ/jY38oN0bpV35y9bZlFLd2vF/XlW76RsDkqQVp7VsGPeWwL;3DDG9LUAXbL4XlUo8xv9lQ=="
 ---

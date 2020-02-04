@@ -65,19 +65,6 @@ related:
       - url: "http://www.idw-online.de/de/institutionlogo20362"
         width: 500
         height: 206
-  - title: "Going deep on deep learning with Dr. Jianfeng Gao"
-    excerpt: "Dr. Jianfeng Gao is a veteran computer scientist, an IEEE Fellow and the current head of the Deep Learning Group at Microsoft Research. He and his team are exploring novel approaches to advancing the state-of-the-art on deep learning in areas like NLP, computer vision, multi-modal intelligence and conversational AI. Today, Dr. Gao gives us an ..."
-    publishedDateTime: 2020-01-29T11:13:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/going-deep-on-deep-learning-with-dr-jianfeng-gao/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/Research_Podcast_Jianfeng_Social_1200x627.png"
-        width: 1200
-        height: 627
   - title: "5G is fueling Manufacturing “Intelligence of Things” – Choice IoT Says Controlling Data Costs will be Essential"
     excerpt: "The coming decade will feature a revolution in technology that will change everything. Ubiquitous 5G wireless capabilities are right around the corner and with them the “Intelligence of Things” – wireless connectivity combined with Artificial Intelligence. Industries that don’t prepare properly for the new technology are in danger of ..."
     publishedDateTime: 2020-01-27T14:00:00Z

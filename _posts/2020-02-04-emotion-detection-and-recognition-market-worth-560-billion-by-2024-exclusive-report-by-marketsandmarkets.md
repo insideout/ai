@@ -25,64 +25,53 @@ images:
     title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
 
 related:
-  - title: "AI Image Recognition Market Rising Trends, Technology and Demand 2019-2024"
-    excerpt: "The AI Image Recognition Market covers important aspects of this market concerning fundamental parameters. The report explains outline of the business range, concentrating on the overall industry, development possibilities,"
-    publishedDateTime: 2020-02-04T08:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-rising-trends-technology-and-demand-2019-2024-2020-02-04"
+  - title: "Smart Marketing: How Corporate Marketers Deploy AI"
+    excerpt: "Marketers report a 27% increase in the use of AI and machine learning in marketing toolkits over 6 months prior. Top uses include AI for content personalization, targeting, predictive analytics. Organizational challenges to maximize the impact of AI in marketing are discussed."
+    publishedDateTime: 2020-02-04T16:02:00Z
+    webUrl: "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fchristinemoorman%2Ffiles%2F2020%2F02%2FAI-F1.png"
         width: 1200
-        height: 630
-  - title: "AI Software Market In Legal Industry Market Benefits, Technology Advancement and Future Scope Till 2024"
-    excerpt: "The AI Software Market In Legal Industry Market covers important aspects of this market concerning fundamental parameters. The report explains outline of the business range, concentrating on the overall industry,"
-    publishedDateTime: 2020-02-04T07:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-software-market-in-legal-industry-market-benefits-technology-advancement-and-future-scope-till-2024-2020-02-04"
+        height: 588
+  - title: "AI Chip Market is Booming"
+    excerpt: "AI processors are reinvigorating the global semiconductor industry, prompting at least one market tracker to predict a three-fold increase in AI chip applications over the next five years. In a survey of AI adoption released this week, IHS Markit predicts AI applications will explode to $128.9 billion by 2025, up from about $42.8 billion in 2019."
+    publishedDateTime: 2020-01-31T17:14:00Z
+    webUrl: "https://www.hpcwire.com/2020/01/31/ai-chip-market-is-booming/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "6 attraction technology trends for 2020: VR, AR, AI, bots and esports"
-    excerpt: "Last year did not start well for robots. The Henn na chain of hotels in Japan ... An exhibition at the University of Oxford showcased art created by the world’s first ultra-realistic AI humanoid robot artist. Ai-Da uses a robotic arm and pencil to draw what she sees thanks to cameras in her eyeballs. AI algorithms, created by scientists ..."
-    publishedDateTime: 2020-01-30T14:37:00Z
-    webUrl: "https://blooloop.com/features/attraction-technology-trends-2020/"
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/AI-silicon-shutterstock-675x380.jpg"
+        width: 675
+        height: 380
+  - title: "Global Computer Vision System Market: What is likely to challenge market growth?"
+    excerpt: "The Global Computer Vision System Market report has been compiled by the best subject matter experts and marketing research professionals to make sure that the info within the report is obtained from the foremost authentic sources and therefore the forecast is of the very best accuracy. This report studies the Computer Vision System Market ..."
+    publishedDateTime: 2020-01-29T06:34:00Z
+    webUrl: "https://www.openpr.com/news/1912099/global-computer-vision-system-market-what-is-likely"
     type: article
     provider:
-      name: Blooloop
-      domain: blooloop.com
-    quality: 39
-    images:
-      - url: "https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2020/01/09114657/attractions-tech-at-ISE-events-page.jpg"
-        width: 1500
-        height: 937
-  - title: "AI in Education Market by Latest Trends, Business Opportunities, Segmentation and 2026"
-    excerpt: "New Jersey, United States - The report titled, AI in Education Market has been recently published by Verified Market Research. The AI in Education market has been garnering remarkable momentum in recent years."
-    publishedDateTime: 2020-02-04T04:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-by-latest-trends-business-opportunities-segmentation-and-2026-2020-02-04"
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
+  - title: "Artificial intelligence in BFSI Market: Industry Trends, Market Size, Competitive Analysis and Forecast - 2019-2025"
+    excerpt: "Orion Market Reports Recently published report on titled \"Artificial intelligence AI in BFSI Market - Global Industry Trends, Market Size, Competitive Analysis and Forecast - 2019 to 2025\", studies the global markets for Artificial intelligence AI in BFSI in terms of product type, technology type, application type, end-user and regional ..."
+    publishedDateTime: 2020-01-31T13:50:00Z
+    webUrl: "https://www.openpr.com/news/1915939/artificial-intelligence-in-bfsi-market-industry-trends"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-  - title: "Artificial Intelligence in Energy Growing Popularity and Emerging Trends in the Market | ABB, Alphabet, GE, IBM,"
-    excerpt: "The latest update of Global Artificial Intelligence in Energy Market study provides comprehensive information on the development activities by industry players, growth opportunities and market sizing for Artificial Intelligence in Energy,"
-    publishedDateTime: 2020-01-31T04:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-growing-popularity-and-emerging-trends-in-the-market-abb-alphabet-ge-ibm-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
-secured: "p41k/Z99ywLbVAW/OJ6V7cDqBnfB5lN/dGo595VihjzgTlo6B4BsnojzhIqTUYsOtwcOSUMlD7UVx0f9kfbn7B7hWB2xP6UxkRw/qk+c3Bxi4x8l4x0uCzU00k0mlzBySUJJo5L1yI67PJh7p9+WnRQwHWzF0CPE/t/cv29hfOS4q5mSs03Nl/87/J2imXjvX564vQ00ItovGe6qYqY6pFhF7CgnpAnWIHpJWxPyz4zsaMAsWHAGKMRE0hMtDColykcY1dTUx5DOEWZ2KIsPz6/hNUh5uSShNXo4Tls6QN0WCY1rWuCZfKAl94aztNuN;YhBN1qWoAMNgNYpWV4S4Rg=="
+secured: "Nzs1vaRUFmCnY6b/5Fbelv1iOHKXLt1BqePxjQYukIkd1dVUnk5DgK+iKuh6fPtW4GQyMJwOe+osvcsNmjyQJhBm2K9tOeyChKqUUbcuOtcSQVhK4PmQ5CAKkIK7qlNM4WVlmy1js48lYevJxGdM6Jag4jBtd/PNA5DfkJCodOsYSgpm9VNWENrOKRQcqI1JP0N8p+NqPGLI2/So3laOQqmrtU95kvjaZ75VhEbpeWpdaqJ+KsnHofGTuSMC7a9kLPQGa0zUv1ecFcf9w50ncclUWnbzWPmBA6NKPlADvAFcB0m/fOrzXEthOJY0JnzLPYlejC5EJKZFEXrGI9hD8uKs34GLUJvR89YfsNZk/W37Uqp6KLCGo2GQrlbdS46M1CKA//6961IyKQNANEI55I49214tTF3xDUrRquibFVC7XdEweaF8N1jFIW2CeiUM7nVrDg1dm4JvUp7DNpe1/RqK34g4A5hI/WD0F9ukxyo=;6J4Vq1t6dorLF57V+FvxqA=="
 ---
 

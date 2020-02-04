@@ -8,8 +8,8 @@ ampWebUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tinder-hack-bot-ai-dating.amp"
 type: article
 quality: 89
-heat: 149
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mashable
@@ -26,86 +26,90 @@ images:
     title: "Inside the future of online dating: AI swiping and concierge bots"
 
 related:
-  - title: "Pros And Cons Of Artificial Intelligence"
-    excerpt: "All things considered, the most buzz making things of 2020 in the innovation area are Artificial Intelligence or the extremely popular AI, Machine learning and the information science advancements. Yet, the most occurring of these three, the AI has been certainly taken into such huge numbers of possibilities while choosing to manufacture a ..."
-    publishedDateTime: 2020-01-31T10:35:00Z
-    webUrl: "https://techbullion.com/pros-and-cons-of-artificial-intelligence/"
-    ampWebUrl: "https://techbullion.com/pros-and-cons-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/pros-and-cons-of-artificial-intelligence/amp/"
+  - title: "AI, machine learning, robots, and marketing tech coming to a store near you"
+    excerpt: "It's not going to work. It can turn into a big food fight.\" Retailers are increasingly realizing the value of artificial intelligence and machine learning as a way to churn through troves of data collected from customers through e-commerce sites. While these tools require the kind of digital base that both Mitchell-Keller and Colaneri mentioned ..."
+    publishedDateTime: 2020-02-04T15:00:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 119
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2019/01/15/cede3a51-32c8-47dc-8928-b8c18295dde9/resize/1200x/9f06c8112c21a809abb2fc0b6a7e4b11/retail-ai.jpg"
+        width: 1200
+        height: 900
+  - title: "Learning Automated Trading Can Give You a Major Investing Advantage"
+    excerpt: "From there, you'll learn how to use machine learning tools like Python to automate your trading to limit your losses and maximize your gains. You'll even get access to an Interactive brokers platform to practice automating your trading and learn momentum trading skills for forex markets. By the end of the training, you'll be fully ready to ..."
+    publishedDateTime: 2020-02-02T18:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/345748"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/345748"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345748"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200131021051-photo-1569025690938-a00729c9e1f9.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
+  - title: "5 ways Fintech is making Banking more accessible"
+    excerpt: "But Fintech has a solution for that, too. Artificial intelligence (AI) facilitated the development of robo-advisors, who can communicate with consumers in real-time, offering financial advice and more. An example is a chatbot, which “talks to” the customer through online messaging. For now, most institutions that use robo-advisors have ..."
+    publishedDateTime: 2020-01-28T17:20:00Z
+    webUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/"
+    ampWebUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 57
+    quality: 59
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2020/01/Artificial-Intelligence.png"
-        width: 1200
-        height: 628
-  - title: "How experts are using artificial intelligence to shape the future of fashion"
-    excerpt: "Digital supermodels, virtual trial rooms and analytics could possibly change the way we shop in the future. In the age of artificial intelligence, analytics and big data—which collectively translate unstructured data to meaningful solutions, trends and patterns—how does the fashion industry keep up? For instance, excess stock arises from ..."
-    publishedDateTime: 2020-01-27T13:05:00Z
-    webUrl: "https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion"
-    ampWebUrl: "https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp"
-    cdnAmpWebUrl: "https://www-vogue-in.cdn.ampproject.org/c/s/www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp"
-    type: article
-    provider:
-      name: Vogue India
-      domain: vogue.in
-    quality: 54
-    images:
-      - url: "https://assets.vogue.in/photos/5e2ed96a3af48200081e835e/16:9/w_1920,c_limit/f.jpg"
-        width: 656
-        height: 369
-  - title: "Machine Learning: Automating Businesses for the Future"
-    excerpt: "Predictive analytics, artificial intelligence, and machine learning enhances the consumer-centric services and has changed the ways different business activities are performed. The most immediate way by which businesses utilize machine learning is for bettering their competitiveness by automating back-office processes. The majority of which is ..."
-    publishedDateTime: 2020-01-25T03:33:00Z
-    webUrl: "https://www.cioreview.com/news/machine-learning-automating-businesses-for-the-future-nid-31096-cid-207.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/dtrw7.105.jpg"
-        width: 300
+      - url: "https://techbullion.com/wp-content/uploads/2020/01/offshore-software-development.png"
+        width: 700
         height: 400
-  - title: "AI and Content Writing: How to Adapt to the Future"
-    excerpt: "At first, this might conjure images of robot take-overs — but the reality is much simpler and much less scary. In fact, artificial intelligence is something we use everyday ... Public Relations agency known for turning companies and executives, including start-ups, into industry icons. Her company uses PR, inbound and content marketing ..."
-    publishedDateTime: 2020-01-31T14:09:00Z
-    webUrl: "https://www.business2community.com/business-innovation/ai-and-content-writing-how-to-adapt-to-the-future-02279835"
-    ampWebUrl: "https://www.business2community.com/business-innovation/ai-and-content-writing-how-to-adapt-to-the-future-02279835/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/ai-and-content-writing-how-to-adapt-to-the-future-02279835/amp"
+  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
+    excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
+    publishedDateTime: 2020-01-31T15:06:00Z
+    webUrl: "https://www.businessinsider.com/developer-technologies-digital-transformation-tech-companies-2020-1"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 39
-  - title: "The Future of Lawyers: Legal Tech, AI, Big Data And Online Courts"
-    excerpt: "In the future, is it conceivable that a firm would be charged with legal malpractice if they didn't use artificial intelligence (AI)? It certainly is. Today, artificial intelligence offers a solution to solve or at least make the access-to-justice issue better and completely transform our traditional legal system. Here's what you need to know ..."
-    publishedDateTime: 2020-01-26T14:33:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-lawyers-legal-tech-ai-big-data-online-courts-bernard-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGVO_LNIxa2WQ/article-cover_image-shrink_720_1280/0?e=1585785600&v=beta&t=Dm9RpsRpWHAfyEr5JC9kyR5NNqQaqxaSrl09ignGyN4"
-        width: 1080
-        height: 720
-  - title: "Stock Bots: The Future of Financial Trading?"
-    excerpt: "Stock Bots: The Future of Financial Trading? Humans still program the algorithms and design their ... They cannot think or feel, and despite the hype around machine learning, it’s still contentious and complicated to describe them as intelligent. Like human traders, however, they make decisions, observe others making decisions, and adjust ..."
-    publishedDateTime: 2020-01-29T15:56:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/stock-bots-future-financial-trading-117806"
+      - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+  - title: "Going deep on deep learning with Dr. Jianfeng Gao"
+    excerpt: "Dr. Jianfeng Gao is a veteran computer scientist, an IEEE Fellow and the current head of the Deep Learning Group at Microsoft Research. He and his team are exploring novel approaches to advancing the state-of-the-art on deep learning in areas like NLP, computer vision, multi-modal intelligence and conversational AI. Today, Dr. Gao gives us an ..."
+    publishedDateTime: 2020-01-29T11:13:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/going-deep-on-deep-learning-with-dr-jianfeng-gao/"
     type: article
     provider:
-      name: The National Interest
-      domain: nationalinterest.org
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/Research_Podcast_Jianfeng_Social_1200x627.png"
+        width: 1200
+        height: 627
+  - title: "Gale to Bring Udemy Learning Content to Libraries"
+    excerpt: "While many of them are priced on the website upwards of $200, the company frequently runs specials making those same courses available for big discounts. For example, \"Advanced Machine Learning & Data Analysis Projects Bootcamp,\" with 20.5 hours of video and other materials, is available for $12.34 (as of the time of this writing)."
+    publishedDateTime: 2020-01-28T22:34:00Z
+    webUrl: "https://campustechnology.com/articles/2020/01/28/gale-to-bring-udemy-online-courses-to-libraries.aspx?admgarea=news"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
     quality: 24
     images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/sdfgg.jpg"
-        width: 1305
-        height: 863
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
+        width: 1200
+        height: 630
 
 secured: "deISYRD9Q/Mw4GMIn0yyCGIlS96g5dUPB9QCsrHTmOhBApAkWU/rNpjY8jGSRUxKoBciYtfHZiyXKQzhS5wnfdeWCF3MEEaWHaIayghlcCZPfYhKdL2dBi8cCZZK4eVUSG20fj61maB6yK75UQDXbsW/iO3VmOatovhL9r0umTj5NL7O+9OYwuZIkDXf6Lbm92j07MgrXp7dIrPsG9aNYAAfkBZbW2xdcRbKWomVnQsGAk8z+vE3WSzXm8kpgRUmeO55p4BzYSh9qGGnrk9KbW3k9+SXRHKO3CZ23YMXPYz+kGrrRhZGCcsRk4X64oBmlIbRuQOElxE0Rj1EQEghoPm/N77qV7Kmk8yR4/jNmzYeqCsTmP9RyzOvtTsZr2RWGstUG2E0ly/pTeCJ7zOy6y8SvVV2LDGKnFFl4Cu75mknc7+VzNmQo7OEWcaX6pQ5yTU7EflfyJgy9ZmGKtNPUdNHrK4yOpuwBDUoUOYwvcc=;5ggZn/cgrZSFFDIRvo3TdQ=="
 ---

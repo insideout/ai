@@ -23,21 +23,28 @@ images:
     title: "Thought Leader Adam Lutostanski: Is There Too Much Artificial Intelligence In The Banking Industry?"
 
 related:
-  - title: "How is AI benefiting industries throughout Southeast Asia?"
-    excerpt: "with the exception of a few digital native enterprises that have embedded analytics and AI into their business models from the start, only a handful have really deployed these technologies at scale throughout the enterprise. “There are many reasons for this, such as a lack of skilled resources, lack of data, lack of coordination between key ..."
-    publishedDateTime: 2020-01-20T23:15:00Z
-    webUrl: "https://www.cio.com/article/3311756/how-is-artificial-intelligence-benefiting-industries-throughout-southeast-asia.html"
-    ampWebUrl: "https://www.cio.com/article/3311756/how-is-artificial-intelligence-benefiting-industries-throughout-southeast-asia.amp.html"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3311756/how-is-artificial-intelligence-benefiting-industries-throughout-southeast-asia.amp.html"
+  - title: "This Woman Is Changing The Therapy Industry With VR And AI"
+    excerpt: "In the US, it is estimated that the wait time for a physical therapy appointment is close to 30 days. When you finally arrive at the appointment, you will often see patients queued up to visit with a handful of physical therapists."
+    publishedDateTime: 2020-01-30T08:51:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/01/30/this-woman-is-changing-the-therapy-industry-with-vr-and-ai/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Artificial Intelligence Is Transforming the Legal Industry"
+    excerpt: "Artificial intelligence (AI) is adding efficiencies and transforming businesses everywhere, and legal practices are no exception. General counsels who are hiring lawyers need to understand that this technology is available now, so they can make sure their lawyers are leveraging the latest technology tools. AI can increase speed, increase ..."
+    publishedDateTime: 2020-01-31T17:34:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2020/01/31/artificial-intelligence-is-transforming-the-legal-industry/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
     images:
-      - url: "https://images.techhive.com/images/article/2016/08/machine-learning-ai-artificial-intelligence-100678121-large.jpg"
-        width: 1200
-        height: 773
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2020/01/Christian-Farmakis-Article-202001231818.jpg"
+        width: 620
+        height: 372
 
 secured: "cbOMvxge+QD80975AalNSMr0gkZ/d01BFbriIuAgpGp9cw0ttSWxTqKb2MSEuawugSU7gFg/XS7AbyYSJ4KjXFqNGGnDBErU+cMtKVO8ul/o1YYbdg2/fmDxK5L7iy18ghmS+prd5mj20uv8tU90B0ijN2VVphfHASGyjK50sOPqOxigN+EKlNZr/EZQ6ilP+LwukdAO2tCUaI1KZewXJQGLIawPL4fchq2eGciGal6y41Ic+C8GAGhsPpJZu20ryBUJQx5Le0spqHyMs6disUANaTXrK7RpTeEUk8uYfuEuTjf0ntRVXEsyn08iz1X1vVtCe58MuunPGA3a4lkMRAFq6P1oSf1MG3CGFKzrOkdPYDgR+vWNC6vKzUmw3PF1W+KP+bwlMqfErqqTc0AhdHU89gng+AzhjEhNuJB1dzv3yFPZKqP5T6N9PDpzqz/IJvs4PWhnMmHYHtwi8iLivkNpjGwF7GUltybt1eZOUrw=;34DGRIXETfaP7RsxP7uYTA=="
 ---

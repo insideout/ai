@@ -4,10 +4,12 @@ title: "Facebook taught its AI to speak math"
 excerpt: "Facebook managed this by not treating the equation like a math problem but rather like a language problem. Specifically the research team approached the issue using neural machine translation (NMT). In short, they taught an AI to speak math. The result was a system capable of solving equations in a fraction of the time that algebra-based ..."
 publishedDateTime: 2020-01-14T16:00:00Z
 webUrl: "https://www.engadget.com/2020/01/14/facebook-taught-its-ai-to-speak-math/"
+ampWebUrl: "https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Engadget
@@ -21,6 +23,12 @@ topics:
   - AI
   - Facebook AI
 
-secured: "0+4t525T/faD+F5XYVujDWLX8qHIlEu0eu0UdINMnGB1hyZ4rrKoFmRLF/k71jBbgqiVIQ8EbyGuH9da1HOlkRiEppyBpgqNV7jqnIZnJEXzqY0339Ym5o313nwDu7aZo2SzO5vESI69rzakVC/g7Al39sbBuGpNx4zFxLhoCuTU9lAWc/gsEpUmKu4QPxSeymIXYzZPSEZPXmt0O4vpd8Cb1/8R6ULLfvY8AS0UdobifA/v9deMApEktpwE8pKJP+uEdj4WYF1S3iRcvhifWv6GI7MrIg4L3W42pBeV4UMdNmUqpR/+L8hOwMuFwRFT7HMV1z68OczR1ZSpr6fIbnF2MSViDVJxbBy5XamUHEroGWjBTmXl38K3j5lKOXwRqBKcZo3FKXsHXEHwknEO2LJn9mn792geaAZ0Y238Vln+Bn4XsEouUGLfOtKdUnUPxjs9JOSvnCxf1+k4BpEZQhOB37gdCWLStCAHk/ou9mQ=;sgvAKz5J+wgnrFzQEJLccg=="
+images:
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7952%252C5304%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252Fa6df90d0-fc30-11e9-bf3d-41e8fa5d6f01%26client%3Da1acac3e1b3290917d92%26signature%3Df51c7486a6dd8080945bf5ef5ac7482111cf2c46&client=amp-blogside-v2&signature=7c28bf857a46eba7eeca3ef58ca21d26e24a1234"
+    width: 600
+    height: 350
+    title: "Facebook taught its AI to speak math"
+
+secured: "F7NhWvnXeEPeVPsHZJ0fONQxWu8+j/5QPcqiuu5XdkEHHWc/XNF6eeg3XSNAexYv4E7DiyTfFWgDpaylvyasXTBwGiLgciABRPKHQhvStxipbbAypjbfgijUWUjUNZNAViM2apNs9leTfeK10lP2L5SGPe5aEgbdY0lBgszpXJO24EyoqjqypecMTaAUiBxyesjvXmRqzmFzs8V7LA5vqKddmg3ioSoyrvAoF8tiNPHHHvGIAZxGnFP5kBMhEA/YS4IktOZwVoV7y0KC82vdovaFly25RQJT3dogLB+fg3ysYtepx4TvFi4T7Qb9yovF;UZG1aitKZkGGUhpjTPNBkw=="
 ---
 

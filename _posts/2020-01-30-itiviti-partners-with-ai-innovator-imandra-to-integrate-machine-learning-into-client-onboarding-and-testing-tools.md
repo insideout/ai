@@ -20,47 +20,32 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Learning Automated Trading Can Give You a Major Investing Advantage"
-    excerpt: "From there, you'll learn how to use machine learning tools like Python to automate your trading to limit your losses and maximize your gains. You'll even get access to an Interactive brokers platform to practice automating your trading and learn momentum trading skills for forex markets. By the end of the training, you'll be fully ready to ..."
-    publishedDateTime: 2020-02-02T18:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/345748"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/345748"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345748"
+  - title: "H2O.ai Empowers MarketAxess to Innovate and Inform Trading Strategies"
+    excerpt: "H2O.ai partners with leading technology companies such as NVIDIA, IBM, AWS, Microsoft Azure and Google Cloud Platform and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and MarketAxess. For more information and to learn more about how H2O.ai is driving an AI Transformation for ..."
+    publishedDateTime: 2020-01-26T23:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200126005001/en/H2O.ai-Empowers-MarketAxess-Innovate-Inform-Trading-Strategies"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200131021051-photo-1569025690938-a00729c9e1f9.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
-  - title: "Everything You Want to Know About Automated Machine Learning Pipeline"
-    excerpt: "The answer lies in the emergence of the automated machine learning pipeline technology also known as the AutoML pipeline. Through this article, we shall evaluate the business value of customized ..."
-    publishedDateTime: 2020-01-27T09:49:00Z
-    webUrl: "https://medium.com/@Countants/everything-you-want-to-know-about-automated-machine-learning-pipeline-df9e44612ff"
+      - url: "https://mms.businesswire.com/media/20200126005001/en/767274/23/logo.jpg"
+        width: 1200
+        height: 627
+  - title: "H2O.ai powers MarketAxess’ algorithmic pricing engine"
+    excerpt: "H2O.ai, open-source artificial intelligence and automatic machine learning platform provider ... The company also has partnerships with technology companies like NVIDIA, IBM, AWS, Microsoft Azure and Google Cloud Platform."
+    publishedDateTime: 2020-01-28T08:40:00Z
+    webUrl: "https://ibsintelligence.com/ibs-journal/ibs-news/h2o-ai-powers-marketaxess-algorithmic-pricing-engine/"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
     images:
-      - url: "https://miro.medium.com/max/469/0*AK8e-vVQ9ltxh3dc"
-        width: 469
-        height: 235
-  - title: "Everything You Want to Know About Automated Machine Learning Pipeline"
-    excerpt: "The answer lies in the emergence of the automated machine learning pipeline technology also known as the AutoML pipeline. Through this article, we shall evaluate the business value of customized ..."
-    publishedDateTime: 2020-01-28T06:12:00Z
-    webUrl: "https://medium.com/datadriveninvestor/everything-you-want-to-know-about-automated-machine-learning-pipeline-df9e44612ff"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/469/0*AK8e-vVQ9ltxh3dc"
-        width: 469
-        height: 235
+      - url: "https://32thcv3s4g2f4bru3o3jkumf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/h2o.jpg"
+        width: 300
+        height: 300
 
 secured: "97PlnflFFfDNUi1ZyoJErws1zdYYndOw1nfRXzYZJDzEv30XE3v2buW/0hfrOgWpgflSuiGeaGrFz6dQuyS77rlvLcQVRYDtFdbXlaMCHL/Yjh3eeTOwk+y+xn1ldfZ0Rln6BIewIPQaTkuHVbRa+VJl/ba6yD9+R8RrfmyZps/lFZo+ScmwEPtUfd036Qrx/C6YWdJOopeiKToUQUdqinDj3aiicPWBjZWg7BxoVY+ZugKNmSopVN0JrVe6YGGppCXL5d2QL/nPlwG/PgvVq9Z7rrIErS7R03tg8QGoI9gnYx3OENdr1btdnTdOPPzy;21IUxKmud9wvMH9jV3Q2FQ=="
 ---

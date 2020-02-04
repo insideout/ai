@@ -33,11 +33,17 @@ related:
     excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards."
     publishedDateTime: 2020-01-16T15:04:00Z
     webUrl: "https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/"
     type: article
     provider:
       name: The Daily Telegraph
       domain: telegraph.co.uk
-    quality: 19
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/04/dyson-air-purifier_trans_NvBQzQNjv4Bq-jz-SzhK96mdzpq7kL7abzM34l8RGRKPtZ2bMRX6RyQ.png"
+        width: 726
+        height: 454
 
 secured: "tPhkSBya6WqtwmdrDn2SSOyNpBZekWLaZN8+SQjfy4fpctJuuyEbpyy9cocfB+xssNQpwXaduT6kFcaYNGAgaSAYsNIWmmL21NcWj9eUowtuG9nZgg00VOsL4TZYNZTOUSr0sC853lfBsgmBM7NnsxMh0vE/3yYxmG4uD/MPKYRRpnDohjD8AWE+TN24lEcOdFbniMC7FkKPz2cbHrc9cr8VBpqJua40wXoV/kmk7P+W+/BjdRYrb9yM7rCuqWHhO5E5onR49ZChV7XgSfDP2LFHTmM3NXBECq2jfxorijFEap4MGZdGcxOVteuA0hkcen6WaMDMWwmzmdOt1aLILDTfKbCuDK8i1dg4auUq/KLsGQO98X01WnzDGitdP5hNqcx5K9Sd4Leb/nAzLYrhLjZqWMZ14yGm3v0R+vZx3/PdNxMHUuTFAciSZJU+Y/wPi8vZVASI0j3tT46iHBiNWA==;ixUPVB4L3wE1XS38hw9FjA=="
 ---

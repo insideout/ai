@@ -217,6 +217,19 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/01/Mesay-3.0-PRO.jpg"
         width: 700
         height: 525
+  - title: "Uniphore: Gained in translation"
+    excerpt: "“Their understanding of natural language processing and speech recognition married with artificial intelligence (AI) and automation is exceptional.” In August 2019, Uniphore raised $51 million in its Series C funding, its largest round, led by March Capital Partners along with Chiratae Ventures (formerly IDG Ventures), Sistema ..."
+    publishedDateTime: 2020-02-04T07:28:00Z
+    webUrl: "https://www.fortuneindia.com/venture/uniphore-gained-in-translation/104095"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 39
+    images:
+      - url: "https://images.assettype.com/fortuneindia/2020-02/7236f7ba-166f-4500-bfd4-d77dcb7b4412/Uniphore.jpg?w=700"
+        width: 700
+        height: 394
   - title: "Android to translate spoken words in real-time in the near future"
     excerpt: "What it’s missing, though, is perhaps the holy grail of translation, transcribing and translating spoken words in real-time. That’s exactly what Google demonstrated to a handful of folks in San Francisco, showing off its chops at AI and natural language processing. The simple process, which involved speaking through the Android phone’s ..."
     publishedDateTime: 2020-01-29T03:35:00Z

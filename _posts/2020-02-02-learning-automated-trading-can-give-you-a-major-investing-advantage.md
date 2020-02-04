@@ -8,8 +8,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/345748"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345748"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -30,43 +30,90 @@ images:
     title: "Learning Automated Trading Can Give You a Major Investing Advantage"
 
 related:
-  - title: "Everything You Want to Know About Automated Machine Learning Pipeline"
-    excerpt: "The answer lies in the emergence of the automated machine learning pipeline technology also known as the AutoML pipeline. Through this article, we shall evaluate the business value of customized ..."
-    publishedDateTime: 2020-01-27T09:49:00Z
-    webUrl: "https://medium.com/@Countants/everything-you-want-to-know-about-automated-machine-learning-pipeline-df9e44612ff"
+  - title: "AI, machine learning, robots, and marketing tech coming to a store near you"
+    excerpt: "It's not going to work. It can turn into a big food fight.\" Retailers are increasingly realizing the value of artificial intelligence and machine learning as a way to churn through troves of data collected from customers through e-commerce sites. While these tools require the kind of digital base that both Mitchell-Keller and Colaneri mentioned ..."
+    publishedDateTime: 2020-02-04T15:00:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 119
     images:
-      - url: "https://miro.medium.com/max/469/0*AK8e-vVQ9ltxh3dc"
-        width: 469
-        height: 235
-  - title: "Everything You Want to Know About Automated Machine Learning Pipeline"
-    excerpt: "The answer lies in the emergence of the automated machine learning pipeline technology also known as the AutoML pipeline. Through this article, we shall evaluate the business value of customized ..."
-    publishedDateTime: 2020-01-28T06:12:00Z
-    webUrl: "https://medium.com/datadriveninvestor/everything-you-want-to-know-about-automated-machine-learning-pipeline-df9e44612ff"
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2019/01/15/cede3a51-32c8-47dc-8928-b8c18295dde9/resize/1200x/9f06c8112c21a809abb2fc0b6a7e4b11/retail-ai.jpg"
+        width: 1200
+        height: 900
+  - title: "Inside the future of online dating: AI swiping and concierge bots"
+    excerpt: "Once it knows what you want, it can essentially use the apps for you. They’re posted on Github; here is the exact one that Winters used, but there are many more — such as the Bernie AI. These facts alone have led some people to wring their hands and mourn the ways of olde, like meeting through at church or through friends at work."
+    publishedDateTime: 2020-01-31T16:53:00Z
+    webUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating/"
+    ampWebUrl: "https://mashable.com/article/tinder-hack-bot-ai-dating.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tinder-hack-bot-ai-dating.amp"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: Mashable
+      domain: mashable.com
+    quality: 89
     images:
-      - url: "https://miro.medium.com/max/469/0*AK8e-vVQ9ltxh3dc"
-        width: 469
-        height: 235
-  - title: "Itiviti Partners With AI Innovator Imandra to Integrate Machine Learning Into Client Onboarding and Testing Tools"
-    excerpt: "NEW YORK, Jan. 30, 2020 /PRNewswire/ -- Itiviti, a leading technology, and service provider to financial institutions worldwide, has signed an exclusive partnership agreement with Imandra Inc., the AI pioneer behind the Imandra automated reasoning engine."
-    publishedDateTime: 2020-01-30T07:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/n15215015/itiviti-partners-with-ai-innovator-imandra-to-integrate-machine-learning-into-client-onboarding-an"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15215015"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15215015"
+      - url: "https://mondrian.mashable.com/2020%252F01%252F31%252F78%252F2cf65c6ab12943cb81d1691f4bb64888.ea787.png%252F1200x630.png?signature=y2owegQIwA9L6yfJDveE8u36QJI="
+        width: 1200
+        height: 630
+  - title: "5 ways Fintech is making Banking more accessible"
+    excerpt: "But Fintech has a solution for that, too. Artificial intelligence (AI) facilitated the development of robo-advisors, who can communicate with consumers in real-time, offering financial advice and more. An example is a chatbot, which “talks to” the customer through online messaging. For now, most institutions that use robo-advisors have ..."
+    publishedDateTime: 2020-01-28T17:20:00Z
+    webUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/"
+    ampWebUrl: "https://techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-ways-fintech-is-making-banking-more-accessible/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2020/01/offshore-software-development.png"
+        width: 700
+        height: 400
+  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
+    excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
+    publishedDateTime: 2020-01-31T15:06:00Z
+    webUrl: "https://www.businessinsider.com/developer-technologies-digital-transformation-tech-companies-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+    images:
+      - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+  - title: "Going deep on deep learning with Dr. Jianfeng Gao"
+    excerpt: "Dr. Jianfeng Gao is a veteran computer scientist, an IEEE Fellow and the current head of the Deep Learning Group at Microsoft Research. He and his team are exploring novel approaches to advancing the state-of-the-art on deep learning in areas like NLP, computer vision, multi-modal intelligence and conversational AI. Today, Dr. Gao gives us an ..."
+    publishedDateTime: 2020-01-29T11:13:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/going-deep-on-deep-learning-with-dr-jianfeng-gao/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/Research_Podcast_Jianfeng_Social_1200x627.png"
+        width: 1200
+        height: 627
+  - title: "Gale to Bring Udemy Learning Content to Libraries"
+    excerpt: "While many of them are priced on the website upwards of $200, the company frequently runs specials making those same courses available for big discounts. For example, \"Advanced Machine Learning & Data Analysis Projects Bootcamp,\" with 20.5 hours of video and other materials, is available for $12.34 (as of the time of this writing)."
+    publishedDateTime: 2020-01-28T22:34:00Z
+    webUrl: "https://campustechnology.com/articles/2020/01/28/gale-to-bring-udemy-online-courses-to-libraries.aspx?admgarea=news"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 24
+    images:
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
+        width: 1200
+        height: 630
 
 secured: "5NPA4gaqE2xEef2bUbLduERwSfs5C74+rCDyOeoC2v8+B0Puci3RsIvRwMHHJP/kj5X+Cl+y/V5eF8YugGByZ5IDOaCV7AlKdQLsuXppsfCThIxPxQl8xOCbKZXJIv41c7ry2d/BD6V1nSb1+mu30AVOBmZWmhD7DFieF3cMAFed/gfbBOQYajhyPEQlEdJEE9RR3a5JbBxBF0OoH5+seKXGYdUTVWJsTsBNA2+Jy9WjzsektkemYQ5toMr4iyFc8VAnO8B10+pb3Mt4TvBUcv1WRvo+OH+8cU50SLwyb1ST6Ia4PD4y62uFArrYNgc9MJnuMDEo6xPvhFEsQyG1V7rsjGQBUBQhOz15ZO9nD1PENBSHGJ1btzqnhJglab8HmYK/NVRhtPobJZ0Gscdz4i0w01yzPWynRbn75Qa9r71ENHgaWGXOTdiKOJxuyFB0YYvLn/TL/NuvWbTtpKLS6cQS5iucl4ATTfEOUHUkO6g=;k1QCFoXgVnsDwa7tDcVseg=="
 ---

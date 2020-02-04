@@ -23,17 +23,6 @@ images:
     height: 630
     title: "AI takes the pain out of regulatory compliance"
 
-related:
-  - title: "Banks adopt AI to manage sanctions and compliance risk"
-    excerpt: "Bankers at one US bank’s trade finance team say they have met with regulators to discuss how AI can be used to track the movement of goods, for example, by using technology to highlight red flags such as an auto supplier selling food that could suggest some form of fraud or money laundering. There are some thorny exceptions to this system in ..."
-    publishedDateTime: 2020-01-30T04:30:00Z
-    webUrl: "https://www.ft.com/content/98e82234-16a8-11ea-b869-0971bffac109"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-
 secured: "Fdz2I8w0z41Vr+yLAZJpVj+LurYBC1hH3wUC46g2molaTLtKN1i64C87nVlWAtEP9xR0BbdwfZv3hxArZ3JdqfIitkx3UiPlEedNdkNdAR/JhM2XT8+V7bsHYo2f91UzIEGtBWbsshgesEw2o0UuaCrL2TI4aAaHqAxdZva/zxLGchFJrVgUqwkdutLXepJubntcd/2Lk4V7BgV92FQcEXnjbPzfhUfro1hEZj4oPz4DbGr/TVcrmZZF2sYPF/2KABYEjtZSlaGtyhJuQVXCXr28OL/AN/0JauzsxUAa/9c8qo2SIHUTNAQ8W1ngUiYyRnjDZCNuT7TCgelvi5npiMSJis/i5qFrlIDE/dr8jRGS5e+5PAGQr9NkObGwg+DwU2laUdPjdgflQ1rlo9QcLe7sfsLpK+J2s8tbuMrCOqoakhznWnseXUKrdOSNLe++u+15XZ68IigjeHWaSxQwHR3rH07anNbUfC0nsKvbnAA=;D62QnPQPdQecrNtsvIGCKw=="
 ---
 
