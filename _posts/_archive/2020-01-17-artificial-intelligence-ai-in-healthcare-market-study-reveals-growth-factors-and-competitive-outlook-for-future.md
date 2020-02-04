@@ -95,6 +95,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "Jzvw9C6yjUK/6aRvshRBFaVgZzjfdtyhm7tiCdVQPb1I4Qw1YSl9BaUF2iwLThndJbsQ09NYYoLCsjlue2AZlBnqo7IHBfH2hQZGLNIo+CytDm79TaguzN7QgSws4qCulvVyOHVI/K1SX9DETN6ZQeOwKJoqVMeIMAwJtD4jb89QU/ZIKLKGl8JLYdgWjZQsjsO3eoqr14QggZ/iPCrP1Ya+e6sQaR8TYuBrDT34sm7GIyMU5O+/W4ns3Be4SavLclfbZqhO1S2lPi+cGgaaOSw6liea2Pwe5qDkQJoqenscGaH+h/Rj0//GSDMyJgPh;h5M1onx2Yg4BsEL+ZUPSEQ=="
+secured: "6v/PuKCWN5adGrSs4uHsmD1G5advJt4mmdYft18mV/N5tMGKqjtzMurLsFVLARZmOWoVSzT4BHSY5nm/3g6X1WW3aQrsWoFYWyKZqgRPgmcbWDqai6lAVbq6PBQ3UqrJDd3D01SZ/5CofNwRBdlSnbYrAjh932H8s2CXQinhOjaWB0idV07GBr6UriviX79Gov9Rtkg6MVGybAQnJ8EDEZYCiHlgz12dbLte0aNwNHbynvEWvqWbEZnmDRlLQstr7JVQ/d5D+b39/pLEyRvqPIDGDWZsF157RRfqY6bctrVFKfX9Q4smG1d2GEaJ698u;XxZRSXDMgpWldlymesLreA=="
 ---
 

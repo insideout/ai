@@ -23,6 +23,6 @@ images:
     height: 500
     title: "Proprio Appoints Robotics and Computer Vision Pioneer Dr. Takeo Kanade to Advisory Board"
 
-secured: "3VF8g1IGwKOi06hJEbirTJ2J0xT9Z2KntQhzQIkbxavMY1u7pv1xeSsOqtGwMNjG4DI6anAbFZ728BhRhaX5MLhvikVwdMIUAWxkOR6YpCGaIRfAxmijmyDzOCf4vS/lC2vlqIu4K8gAABxB/WfxSPhfFcr8LQ2BrYzwcpqPyb8oeqAhaVyRix69q8/onjkebK2vOsP5WuRiB6R5NF67m9EIdFbui0gspUU31QjYoztHmWcJGJnZ+dAynQToaFKhXc5Uxtoue1qUN1NGDb1ux0HmuZMF0ydYqodSJ+e4xKlbPrn71IeNXcfxQLRKII3k;3R1t2ysJxd5y1pv3QaM+WA=="
+secured: "UQH8v3Ev/RNjDacC7XeCcahLm1jGkbjhqcV+hus/oKnitnObqqVcq9/UquOCiU9WKacGU2Jks7cxAKWY+B5UdVLh3RerzO+D1jv1vs/0IGKfwHEwDgxosDjsLd25nj78m4r/Kt0t3bDwN7Dz4J/FjjbapGpQqg9PMPSW3ngetikG9/AjZqoxtW/RUZyM4egQWtKo81CMTQI2v1wZfNo4Kdv2nfMSEnfj0VNldtv2nF2OjDVdc2CKZCZrvcPpptiQYzfogYwMCjBHW8fK5u3lwT84gu5zhprUXw6dTx0SyGAE62DsOz1bkMm3WK/O82kT;GH3HwLJuttz7Ef4B88wSQw=="
 ---
 

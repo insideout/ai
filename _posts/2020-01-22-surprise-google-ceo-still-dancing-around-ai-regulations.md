@@ -26,21 +26,6 @@ images:
     title: "Surprise: Google CEO Still Dancing Around AI Regulations"
 
 related:
-  - title: "Google boss Sundar Pichai calls for AI regulation"
-    excerpt: "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ..."
-    publishedDateTime: 2020-01-20T16:39:00Z
-    webUrl: "https://www.bbc.com/news/technology-51178198"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-51178198"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg"
-        width: 1024
-        height: 576
   - title: "Artificial Intelligence Needs To Be Regulated: Alphabet CEO"
     excerpt: "(RTTNews) - The chief executive officer of Google's parent company Alphabet called for artificial intelligence or AI to be regulated, noting that there are real concerns about the potential negative consequences of the technology. According to Alphabet CEO Sundar Pichai, there are real concerns about the negative consequences of AI, from ..."
     publishedDateTime: 2020-01-21T14:48:00Z
@@ -123,21 +108,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
-  - title: "Alphabet CEO Sundar Pichai says it’s ‘no question’ artificial intelligence needs regulation"
-    excerpt: "With several Bay Area cities moving to stop the use of facial recognition technology, the chief executive of one of the area’s tech giants has come out in favor of stricter, and more widespread regulation of such types of artificial intelligence technologies."
-    publishedDateTime: 2020-01-20T16:45:00Z
-    webUrl: "https://www.mercurynews.com/2020/01/20/alphabet-ceo-sundar-pichai-says-its-no-question-artificial-intelligence-needs-regulation/"
-    ampWebUrl: "https://www.mercurynews.com/2020/01/20/alphabet-ceo-sundar-pichai-says-its-no-question-artificial-intelligence-needs-regulation/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/01/20/alphabet-ceo-sundar-pichai-says-its-no-question-artificial-intelligence-needs-regulation/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 62
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2018/12/Google-CEO-Congress.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
   - title: "Artificial intelligence poses dangers, Google boss warns"
     excerpt: "including driverless cars, which utilise AI. Pichai also revealed that Google’s own principles specify that the company will not design or deploy artificial intelligence in some situations ..."
     publishedDateTime: 2020-01-20T23:07:00Z
@@ -263,19 +233,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 33
-  - title: "Google's CEO Calls for 'Balanced' Artificial Intelligence Regulations From Lawmakers"
-    excerpt: "Google's CEO calls for governments to regulate artificial intelligence using a 'balanced' approach. Veuer's Justin Kircher has more."
-    publishedDateTime: 2020-01-20T19:50:00Z
-    webUrl: "https://www.wfmynews2.com/video/syndication/veuer/googles-ceo-calls-for-balanced-artificial-intelligence-regulations-from-lawmakers/602-cb6701ae-25c5-4395-bae9-81733d3f1b89"
-    type: article
-    provider:
-      name: WFMY News2
-      domain: wfmynews2.com
-    quality: 30
-    images:
-      - url: "https://media.wfmynews2.com/assets/VEUER/images/c4e8e9ce-b7e6-459d-94d9-88998947c32e/c4e8e9ce-b7e6-459d-94d9-88998947c32e_1140x641.jpg"
-        width: 1140
-        height: 641
   - title: "Top News In Payments: UK Regulators’ Data Violation Fines Top $126M; Google CEO Calls For AI Governance"
     excerpt: "In today’s top payments news, U.K. regulators have levied $126 million in fines for data violations since mid-2018, Google CEO Sundar Pichai calls for international cooperation in artificial intelligence (AI) governance and U.K. open banking startup Tink raises €90 million in a funding round. UK Regulators’ Data Violations Fines Top $126 ..."
     publishedDateTime: 2020-01-21T01:54:00Z

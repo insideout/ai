@@ -26,17 +26,19 @@ images:
     title: "New AI-based technique can spot low-glucose levels without fingerprick test"
 
 related:
-  - title: "AI can detect low-glucose levels via ECG without fingerpick test"
-    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-14T02:17:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
+    publishedDateTime: 2020-01-13T16:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php"
     type: article
     provider:
-      name: ETHealthworld.com
-      domain: indiatimes.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg"
+        width: 720
+        height: 302
   - title: "NO Fingerprick: AI can detect low-glucose levels via ECG beats"
     excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
     publishedDateTime: 2020-01-21T08:28:00Z
@@ -47,6 +49,6 @@ related:
       domain: medicaldialogues.in
     quality: 19
 
-secured: "nhJYfr4B4LMw4jtQYT8Afx8CwbrPVXJjtcLlGC6qmSx29onIabNEw1dyz0d4loofv1d8Qg5SfkV2cbCUon0E7JaPOmesLh7QVL/N7Pf8nuczloL6Mo/51oYa59t8jTsLOkAnGlJHL1OPdpRJse1E1rgk9pXjstJQEkBDFk3zVS3EY2l3bsOTSLbWtE58RWckypQAeXoIrNykj6bVAshYI/6rHzwqhpkE5PFUslM0L4YvtK7ocmYLXwWGJ1hn7+vkJrSfV3XwmySvkDpOgl7SljoUTb+Q6ZynVLK/FfML4uyEo74uUOjQUY/j2yg3Lmi2;w7xLwbCs8FvxgWQAiBgZKg=="
+secured: "9J9r8Lrqk5aHAI1v7pVAdGWGrRpJCRyku9E8UbhbpThFcgfKkDNtsjtFrQIQwZo6/FgTCW/WRTYaDQgmyS7LX+Q04UEVQJw6CRqaodezd0BjrXfUn0reAzcPaIiJn1013Wt+K0pcyO2aKGysktWgHK1qk8jXvxs/3cN2A+zFjtEvd4mcyXyk7zY80sAu5dQcrqVpiQlWnYxio4vTgIU+I86pQ1KCCFm3zWG2kg5LTOrFUzQmSHj3WLkDAn04YxFjFwh3DMJ4joCoWvJrgciHc9VSZvQYfXT2FbHnXdpcRvXIjb1GvcCN3wEYJPrduzsc;+k7vbqhbFTHn/1wxLvyrfA=="
 ---
 

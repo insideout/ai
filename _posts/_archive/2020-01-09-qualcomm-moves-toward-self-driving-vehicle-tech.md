@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
-excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
+excerpt: "Its foray into safety-autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Tesla and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
 publishedDateTime: 2020-01-09T18:30:00Z
 webUrl: "https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech"
 type: article
@@ -24,20 +24,22 @@ images:
     title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
 
 related:
-  - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
-    excerpt: "The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo has obtained 120 such ..."
-    publishedDateTime: 2020-01-10T05:50:00Z
-    webUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
+  - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
+    excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical ..."
+    publishedDateTime: 2020-01-07T17:40:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
     type: article
     provider:
-      name: Steel News
-      domain: steelguru.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 79
     images:
-      - url: "https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg"
         width: 1200
-        height: 800
+        height: 729
 
-secured: "G0YMB8FsedimV/igzHjWOgVGDbjqFZIv359IB7Z39cFPwc0rsbeARzjNSWU3UXgOOw+PY2mLRfxEgZF2Nv+cLGWlRvsUErvywukioxd0o2Tz6xHHyjq5TnNznvPWWwUngUVRNVXlKFk6i7PfPFQECG0MGW9D7RsMOP7OxcU6nnWWOJ3f4KxzwgoYEJ95G1CuGTeK9sw8EepRh6EVHgAx9ml3uQb7t36C5acUMQM/mOvyG8f/vCF1yWABMzBYSr4aPSAr5UJnZuP4TeyYgREWooHb//wLZb3Isz8JBjWS5yK9nvtmT1LdAUBOtRljEtZy;TIvq1q1iavZSe5tcAH1TFw=="
+secured: "xHczNdzCvtYrKqrca7H9nQKPNrGawThKFleLF8KAibSJD6MWPZ1N6y8lNT7r0qAJyL/8w5DyY13w4rT0u5wf4+qUDfesJhYsRT4dlwspuyODU2CDgJ9+NhoImK3tvlxtINhhS2YI1wR/5Nk07tTtYCVLMNeo8AV7KLzDk3JJKqnb8cleMbK1DeToW8RMT1cG1FA1nx7qMFvZS9XHbnFUMUjaIgI+8t0P+sryoxbEeBfuVqWZvf9P2rA+hc5rcFay1QWX3QKLTfFnTeHvfcjP+wrI+rNLJP4QXNdEHHC2NfrUSqYXTP0a+wrjoe70aSM5;4weUIxmyZ8zAH8UDQO/rig=="
 ---
 

@@ -269,19 +269,6 @@ related:
       - url: "https://sourcemedia.brightspotcdn.com/dims4/default/fd1758b/2147483647/strip/true/crop/2009x1055+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F89%2F2b%2F5777b1b2441a87863535bc1883bb%2Fginni-crop.jpg"
         width: 1200
         height: 630
-  - title: "Google CEO calls for balanced regulations on artificial intelligence"
-    excerpt: "Photo: Carsten Koall/Getty Images. Google CEO Sundar Pichai is calling for regulations on artificial intelligence, warning that the technology can bring both positive and negative consequences, AP reports. Why it matters: Lawmakers are largely scrambling to play catch-up on AI regulation as the technology continues to grow. Pichai did not ..."
-    publishedDateTime: 2020-01-20T17:03:00Z
-    webUrl: "https://www.axios.com/google-ceo-pichai-artificial-intelligence-675c3aa3-c448-43de-9583-f5bc0cafc840.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/fgQ_LpBfLVphNGMo277w4HmoUzc=/0x225:4500x2756/1920x1080/2020/01/20/1579537275537.jpg"
-        width: 1920
-        height: 1080
   - title: "Google CEO calls for artificial intelligence regulation"
     excerpt: "Google CEO Sundar Pichai on January 20 called for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also \"negative consequences.\" Sundar Pichai's comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is used."
     publishedDateTime: 2020-01-21T05:50:00Z
@@ -314,6 +301,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "pgPilb71TvDfZMyOaMFOOw4PFVicZA1x0KjxQIhOuSqO4wZCOEUO6WLJUlBdtCVZC9R9anp+mgqqkdeysU5HrYTSP+MrKUN6OeTZ21N6D/Qdm1VNybbKprmimWMkqpdRz8f3xiUEq+jMRgzkhDaX50LMyLO+msGHb2TtrZcQndVRw8B/dcP3vlCClWXfvTfthiO86/Zkg4oJnS5mmKXp5XfwNgbvlOhb7UFgB47z5n0HiGKw1xAMWthEjzoyeT/JPFLKUtnKN7hm+pGq5x7HersXSA+CCK37p2tmEUw1YLZZ3P2TuCP1Wh4mV/6OMeTe;OkmvDjJXzqaBiCNgxdbY4g=="
+secured: "Gz2TLqIAXjwY+LUEBMvKma20f5j4O+FR1akVCI+TU0882zNFH2Z4eeyOqMSGuWEmCSzaeVUarqvQXQ5blvC6QLKxMARZ0FmCXbD8luel/xDCukWkWrQQlnrK+l/vxwSFNc1VUeyErLPlStpKAR+LLO2Nklzx76BApTAk0po9m/Bs3P5GM2GHyKwBQI2klTVYFOQK5AZMkolZc52TTBHjOxgRLl4j5aTBE1B9/gG/MlkelWopO2YXwvnWrFWLqqwb7YsDi/ciXMzfQSZjBmvkSp/BzH9NJcTDHwCNO6TuKWxocjSVOj9gdzMq+EXC4HXm;eDlHfZbDocu8s727QrXZrQ=="
 ---
 

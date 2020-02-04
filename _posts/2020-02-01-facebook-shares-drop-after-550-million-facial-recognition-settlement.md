@@ -76,6 +76,17 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Facial-recognition tech may have value, but real-time surveillance goes too far"
+    excerpt: "If you stroll through some parts of London, facial-recognition systems linked to street cameras analyze whether you look like someone wanted for a crime. This technology isn’t very accurate — it often makes false matches — and warrantless surveillance that can identify people in public in real time corrodes individual rights that ought to ..."
+    publishedDateTime: 2020-02-04T09:29:00Z
+    webUrl: "https://www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/02/04/opinion/facial-recognition-tech-may-have-value-real-time-surveillance-goes-too-far/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 20
 
 secured: "JFShEPQ8R/O37leJseceMPUmOJFJALLC15UwUkleiqOkt4JjCT44yyZ5uZMbM8+qobygVCTJUqQdrnW1o7rngp5t5lfpP5srYTBIgu9IfGyFSXiGKmHwR/zUgcbC8HAWHRWPINBKIgjP9e98KycpM98jQlRuiuawk2B9cFZLHL4A/e6wMywUrMlw/DrmQDCWFMFbnSaYkE8yoV2sbxKEjdFTlfRzav3P9yTc/tE4fmFQGIT7/CfDn6uihEiDa4ggrgTWhsTDT/f88OQ1nZkDCTPkamNwuaV5BZ0MsyIRQQzIEualvCsr3atFEV+/dc+UuTwu1WA6QJ7AX2tx5iwg+wyFwPePhP+AuDiNWBZPXV1nMV3wDMCWbOTJT4B/sr3HMACQF9sNWHZyCSnTxdAMRopRJ1bXd51IWbkmyqdg0nRCPA+5/zSbl3Wxr+L6vN4To635nwx6eBIPd2ZzXAXSwhLpL0pdt621JcqHfUJxcq0=;5SDnl4RHcaAE2c7EnDLhkQ=="
 ---

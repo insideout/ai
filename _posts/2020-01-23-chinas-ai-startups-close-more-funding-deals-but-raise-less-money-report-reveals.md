@@ -35,19 +35,6 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 122
-  - title: "‘You have to be understanding of the multiple pressures artists are under.’"
-    excerpt: "I remember Max started a Monday morning label meeting after I joined and it was like, ‘Oh, everyone can get together and talk about everything going on across Atlantic ... which was in a weird format at the time, and You Need Me had come out on YouTube as a live performance on SBTV. “Anyone who could put together that A-Team video ..."
-    publishedDateTime: 2020-01-20T17:00:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/you-have-to-be-understanding-of-the-multiple-pressures-artists-are-under/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 120
-    images:
-      - url: "https://cdn.mbw.44bytes.net/files/2020/01/Ed-Howard-copy.jpg"
-        width: 592
-        height: 638
   - title: "Cortex Labs helps data scientists deploy machine learning models in the cloud"
     excerpt: "It’s one thing to develop a working machine learning model, it’s another to put it to work in an application. Cortex Labs is an early-stage startup with some open-source tooling designed to help data scientists take that last step. The company’s founders were students at Berkeley when they observed that one of the problems around creating ..."
     publishedDateTime: 2020-01-23T20:06:00Z

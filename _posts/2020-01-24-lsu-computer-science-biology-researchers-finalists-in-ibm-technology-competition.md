@@ -24,19 +24,73 @@ images:
     title: "LSU computer science, biology researchers finalists in IBM technology competition"
 
 related:
-  - title: "Podcast: AI4Good Lab Empowers Women in Computer Science"
-    excerpt: "In this AI Podcast, Doina Precup describes why their doesn’t need to be a gender gap in computer science education. An associate professor at McGill University and research team lead at DeepMind, Precup shares her personal experiences, along with the AI4Good Lab she co-founded to give women more access to machine learning training."
-    publishedDateTime: 2020-01-20T17:12:00Z
-    webUrl: "https://insidehpc.com/2020/01/podcast-ai4good-lab-empowers-women-in-computer-science/"
+  - title: "Artificial Intelligence in Telecommunication Market : Advance Technology Research and Innovation in Technology"
+    excerpt: "Artificial intelligence (AI) is group of methodology that focus on formation of intelligent machines with the help of human intelligence such as visual perception, speech recognition, decision-making,"
+    publishedDateTime: 2020-01-27T03:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-advance-technology-research-and-innovation-in-technology-2020-01-26"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence to Make Significant Transformation to Medical Technology in 2020 and Beyond"
+    excerpt: "Artificial Intelligence has been in development for decades already; however, it is only in last couple of years that we saw significant improvements, and what else can benefit from this technological advancement but one of the most critical factors in human development – Healthcare."
+    publishedDateTime: 2020-01-28T00:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15194678/artificial-intelligence-to-make-significant-transformation-to-medical-technology-in-2020-and-beyo"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15194678"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15194678"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.abnewswire.com/uploads/1580155563.jpeg"
+        width: 858
+        height: 578
+  - title: "How machine learning could advance solar power technology"
+    excerpt: "This experimentation is the key to creating a healthy proposition for machine learning to become a part of renewable energy. At the University of Central Florida, a number of researchers are focusing on perovskite solar panels. Featuring a combination of inorganic and organic factors, this set has seen up to 28 per cent in increased efficiency ..."
+    publishedDateTime: 2020-01-28T04:29:00Z
+    webUrl: "https://www.energymatters.com.au/renewable-news/how-machine-learning-could-advance-solar-power-technology/"
+    type: article
+    provider:
+      name: Energy Matters
+      domain: energymatters.com.au
     quality: 39
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/01/recup.jpg"
-        width: 305
-        height: 305
+      - url: "https://www.energymatters.com.au/wp-content/uploads/2020/01/678583375.jpg"
+        width: 1000
+        height: 667
+  - title: "Open banking to AutoML: Top trends driving technology innovation investments in 2020"
+    excerpt: "Machine Learning for All. In 2020, we believe there will be more efficient algorithms to automate Machine Learning (AutoML). This will spur the adoption of AutoML at the enterprise level, helping non-tech firms access the capabilities to build ML applications quickly. This democratisation of machine learning will also make AI experts and data ..."
+    publishedDateTime: 2020-01-30T12:37:00Z
+    webUrl: "https://www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156"
+    ampWebUrl: "https://www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/open-banking-automl-top-trends-driving-technology-innovation-investments-2020-117156?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 32
+  - title: "Artificial Intelligence in Medical Imaging 2020 Global Market – Innovation, Technologies, Applications, Verticals, Strategies & Forecasts"
+    excerpt: "“Artificial Intelligence in Medical Imaging Market” WiseGuyReports.Com Publish a New Market Research Report On –\" Artificial Intelligence in Medical Imaging"
+    publishedDateTime: 2020-01-27T08:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186686/artificial-intelligence-in-medical-imaging-2020-global-market-innovation-technologies-application"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15186686"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186686"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
+    images:
+      - url: "https://www.abnewswire.com/uploads/1580118163.jpeg"
+        width: 466
+        height: 310
 
 secured: "Rl3Zf/eDASSkPSvqFbiKFl/oQzGnzEF7jN35YTdx+B19i5hvHYkHTqVvea+23fbLfvjaMAFnFk48OKtwcheHNsDJVmcxGC2USHKnnwt5O2+25MNQURcqsfEMcl200jiOKoinzhTKqbsbIM0xz9CXY1iDuclmoPg4Mq8VV/Xk6CqfrFrfYDJ9ZxyKUncWKT/B33XOA09O8KZLeQdjB3tQYVKQyCp/tobIOrLVNekbYrUeieYdKdvYRvYcmGpDLx0XME9dqoqOGNFPylf4MmnuBrcOg6IVLPk2J1RKoSSsxokLzaIgBImGSoCXASs7r6eE;uuATREb26U/gofLtqK51Lg=="
 ---
