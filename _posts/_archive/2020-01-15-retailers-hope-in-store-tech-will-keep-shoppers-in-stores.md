@@ -2,7 +2,7 @@
 category: news
 title: "Retailers Hope In-Store Tech Will Keep Shoppers in Stores"
 excerpt: "Dubbed AWM Frictionless, the system includes digital shelving and object-recognition cameras that can keep track of which customers leave with which items. Customers have to do facial recognition ..."
-publishedDateTime: 2020-01-15T15:29:00Z
+publishedDateTime: 2020-01-15T13:01:00Z
 webUrl: "https://www.wsj.com/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202"
 ampWebUrl: "https://www.wsj.com/amp/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202"
@@ -29,6 +29,6 @@ images:
     height: 640
     title: "Retailers Hope In-Store Tech Will Keep Shoppers in Stores"
 
-secured: "xKUQ0KMmfu+sJ/SO5d4R89VfMZuVocPseSs5H2+h0gvqU2nUVYOelqiP0ctf0txXcSAVQp/Z8dGpJmSQj6eROMjEbzXlFAjjyEzga23UbWf8JxIRAxXt9cpv4ybAKf514mCFvGqZcvSLqqFdOBV9r6sp4cWv5DT33QvRmqg7Sx91gs6kZl1NXWS5Sfqdy6zHry3wICG2dnD5SKYO2Qp1usMPtmu0iKL6LcVix+9Xdond0GuPfe9rxqKzS9JJZqF9yAZqo3uS/RAQWp38nKG5wS56xGlIZnBAvZ7KHVhYJuZ6Kn8+QLoU65RF/093W51U;m4YEgin7QsXZhbercr3QKg=="
+secured: "U0b/Bl5kutP6Zyj/EC556L2bZPbpA4gMRYXBOKjWkGJV6mREfbFWX5G/y0dBCZIoumUnVeAbLyf9T6ie+ojaXPJwxF2O7VWjaI+Vx0V8GNZq7TWPEiRHx21oMku3cll7bM8NGuIMMRNFkq1AGMBURFnGgd6wFiROohVAF65WWTLDfMjuBSuNKfLpKx4Dbe0LyQkhnLezx33kJvoB0+sTjPSIsDTBLjWDu2usMK5lIvc6wxds0u9N96yvpVFNbbrleSYGZUv/DqAIcxwfL+pI53lU7Xc71yiE1PUpsF0sf35W/9wy+xssKjYY+Ii4M/4b;FZVbe6ZewzOHpPccP3f6Xg=="
 ---
 

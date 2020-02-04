@@ -80,6 +80,19 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Habana-Goya_839x.jpg"
         width: 839
         height: 580
+  - title: "Intel Whittles Down AI Portfolio, Folds Nervana in Favor of Habana"
+    excerpt: "that chip will be delivered and supported by Intel for their already committed customers. In place of their Nervana efforts, Intel will be expanding their efforts on a more recent acquisition: Habana Labs. Picked up by Intel just two months ago, Habana is an independent business unit that has already been working on their own AI processors ..."
+    publishedDateTime: 2020-02-04T02:00:00Z
+    webUrl: "https://www.anandtech.com/show/15471/intel-whittles-down-ai-portfolio-folds-nervana-in-favor-of-habana"
+    type: article
+    provider:
+      name: AnandTech
+      domain: anandtech.com
+    quality: 39
+    images:
+      - url: "https://images.anandtech.com/doci/15471/Nervana_Car_678x452.jpg"
+        width: 678
+        height: 448
   - title: "Intel Axes Nervana AI Chips In Favor Of Habana Labs"
     excerpt: "faster to our customers,' Intel says of its decision to move forward with Habana Labs' AI chips in place of Nervana. By Dylan Martin January 31, 2020, 05:11 PM EST Intel said it is ending work on its Nervana neural network processors in favor of the artificial intelligence chips it gained with its recent $2 billion acquisition of Habana Labs."
     publishedDateTime: 2020-01-31T22:25:00Z

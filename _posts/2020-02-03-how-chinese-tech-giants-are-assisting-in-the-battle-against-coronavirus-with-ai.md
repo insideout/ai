@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T06:33:00Z
 webUrl: "https://thenextweb.com/neural/2020/02/03/alibaba-baidu-google-ai-cornavrius-tools/"
 type: article
 quality: 163
-heat: 204
+heat: 205
 published: true
 
 provider:
@@ -80,6 +80,6 @@ related:
         width: 2667
         height: 1500
 
-secured: "0o9QmnrPz4WgAs89WJD3/poDbY8BhZm1OCRDeQdOaC1gIQAbrTq8iM0J90v32mXOpcJkeZ0+FUdT76Zlg+WXIX+Mc4ROq0AhMYQ84dSfJcz1ixahyJrCdpvFD9sQ8ngHhQiUhbzsLZ/WRGNL14IHzBrsq6Zqg93IzNe02dWzjmQt41UrJMg0ASGpzaH5wqliuuh8Y+WbRq8D2CZQ3PHUCmrAwxwJq2XgQspmNaSfJt11CGQlVf7CCaRj93FUkykW3k8ga9r2856hL7+SP22WRyzIzKmA8dNa81mIrNvC0yP4NOfZdmBnDPUcwjPVandcGIIMtX0A3sS0L684nCO2yw==;yjQD8BU7AS7AqG6MRnBGJA=="
+secured: "Mhg21aGehgq6bgJhGmFfhklog6VdjUWbttNn1IYLDGquWXQ8iH1ZYJ+X2belILyX2Fq7iWTgY7A8d6VfKKmrzDINi9vLFLj8TblooD4wbd0Y0jlGTQz/WJkJYUUKgKGO9uWzX5sNOU2rvkdPr68a9u/ag7lvvC+R5VDW9L0fc+d2Y7ttW1J+6kYfb1d5WxExifL69vy5WShy6lNxCMAiZa6RKjXShIROMydyoHfm1zUv8K0qF0cYCdcigKLAvIYd5Vk6rdh/k4oL8/++zqJulxqQGytF02qSKjr6HMn5+F2EvCt9UrEHi8W7890Ks5LaDlQgbJ2rCetk2CLV1bI6sw==;IZHLcjXVGjPka/jXX3mwDw=="
 ---
 

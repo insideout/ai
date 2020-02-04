@@ -1,7 +1,7 @@
 ---
 category: news
 title: "A neural network as an anchor point"
-excerpt: "But so far, nobody has come up with a way to resolve this elemental dilemma,\" Renner says. At first, the idea that artificial intelligence might be able to help seems surprising. After all, neural networks—the key element of artificial intelligence—effectively operate like a black box. You can teach them to recognize faces on photos ..."
+excerpt: "At first, the idea that artificial intelligence might be able to help seems surprising. After all, neural networks—the key element of artificial intelligence—effectively operate like a black box."
 publishedDateTime: 2020-01-08T14:09:00Z
 webUrl: "https://phys.org/news/2020-01-neural-network-anchor.html"
 ampWebUrl: "https://phys.org/news/2020-01-neural-network-anchor.amp"
@@ -19,6 +19,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "D/Lf7qh+ciQEOcKzBd+BcKA3EoxR5lgAKA536TRuE3R6j1RmAOlLACHmg1TbN+CWcepDJN2do5WPC2x+mGBwN8hvpXaa0EU/RAkjk7WF69swwaGycuVXTGFuK3fBVOavot70Wrzcbx+J15qXo8sBLjZT+BFMwk0Y5xjQUl0w8WjJd0P2g0WAPtcDBkyeIFfJJdp4yrSB+uHSDmHsccxc0ekSIAI0oHOwY532c/qDEmFhROL2jGutOWWrMrNdEuOCEtf06iUJDJsJRg+cdNG4Fua5N/o4ExG44ofZMgm7BpiQkuMq/CDX2TgtbBJDKJ5nucd44dYx1F8wL5VzelabCHqHzish/DXFHCT+A7j9aYcPuhIDm7xDGIyZu+/kTdRziHAiyR/GpAd9aiMicAA5pQ08E4UowfMtuETnUrHBM9inM9QhWgyks1vRvt6UOIpgLVodU5i64xfbsxnJATNazyKtPFgD3gcUSVAocYiwRvg=;vBBYv9kMfYFcZvgeyBorcQ=="
+secured: "mr6g4utpJ6N5e3vY+OBlfoFKwfongSR7NJA6Wvc9PbLfesr+q0XJeXbBNuMrxikbU4ZCzzUf/d/T9P8bdwR0AcgBYiDUSOhwUyRcEZpBy3YLB0QZ1J7aKa4jqcWoEJHBuWMLaN8yZPylQ6NLUuc+MeYGVLkPqzVwXsnBL9YKZw5D2W5eqoD/aU8i/sIUc4tu5WocCVgxu20T4gPXdNiSHPCynOyk3X7zTCUVOI1UsFfUPHbcubUFQguCpYg0daoueLhYimfw7cluMVD1a4FtRwOiwHc8H3ONl8KgqGzYbqggGVY+RylYnzilx2MPosccvEJLmVhmnuIaR/JdjTUoVzZE4OvC9XAvPIHvr5oHJQTwuJ34TplUqxRqnSrxl2pKmpAr/bkjl7VpjeURXXFmMADdoBgtb2WTDTdtM+vZiHUqeQBQ0hBX3Q12+bSFNBEv8AcFS7njkSWTQ5SBxzNY0s84wbhFbJ0vEK25ZOXMMc0=;M+gvXsZg1rRRI2bchT22bg=="
 ---
 

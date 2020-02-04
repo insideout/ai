@@ -36,6 +36,15 @@ related:
       - url: "https://techlog360.com/wp-content/uploads/2020/01/Artificial-Intelligence-in-Neuro-Sciences.jpg"
         width: 900
         height: 500
+  - title: "Intel To Lead The AI Revolution Over The Next Decade"
+    excerpt: "The Habana Gaudi also has much higher scaling efficiency than Nvidia via its Ethernet-based interconnect. Intel is also developing its own AI-infused GPUs: Ponte Vecchio GPU will feature a matrix engine that is akin to Nvidia's tensor cores. It will be Intel's 7nm lead product in the fourth quarter of 2021, which means that it should enjoy a ..."
+    publishedDateTime: 2020-01-14T22:03:00Z
+    webUrl: "https://seekingalpha.com/article/4316857-intel-to-lead-ai-revolution-over-next-decade"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "1/ocGJaZXk1IvCMJb62lrcTp+QGGQz0R/cuLFwXhe7UV+2DNcdo5VMASgF6tEd1oiDmix21Etux0hjr0iU45RYR9f6mCpNbUemNAViDh5tlanpKpTltbrXbLyQvK5NAGSRwqNeuQZ3hd7LMauRM7AwRnoeu3dsP7DNcYMtin0KzAEsfyWAMqGsbGD1ty94tTfHyPZx0uvIheu2yZtDkaxxD91IIbiuP+HYXgDZXhFrKz+8kD5L6EHqf9S8k1QHXJcxR8GzFpwnBUmY41pDzFMckJEHBqR+9NiO6Xe0nLbAuEupB1eyIUJoGGCJjynU603QDMymw9Qvu3COVq2eh4glYzdims0COq82l89sjWHojcrE4HqacABbnJ+ly2mjVKA5j7jrPzf7kXrKKzfDd5F3IQkaoinA+aMrCPs1pAtVpyk2EaGhN1bxATrBaOb/9rTrGIlDZfGXp/afWS/JCJLg==;rjn4tPtCHsXkm3+HMCy2pQ=="
 ---

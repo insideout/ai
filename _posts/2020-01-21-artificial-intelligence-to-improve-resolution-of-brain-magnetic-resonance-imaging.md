@@ -19,17 +19,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Brain magnetic resonance imaging enhanced through artificial intelligence: Study"
-    excerpt: "This new model manages to increase image quality from low resolution to high resolution without distorting the patients' brain structures, using a deep learning artificial neural network -a model that is based on the functioning of the human brain- that \"learns\" this process. The study was published in the scientific journal Neurocomputing."
-    publishedDateTime: 2020-01-20T10:19:00Z
-    webUrl: "https://www.newkerala.com/news/2020/9710.htm"
-    type: article
-    provider:
-      name: New Kerala
-      domain: newkerala.com
-    quality: 29
-
 secured: "cDhnk3G2ZqoPnYRWHEz5ajdRkIAR4lmGjnYY/3DWJx5BmYoMHDOGcioNkaPhUvqwDCERH67tJz4WP7wM+KoqxyGqk7KLCy0LAGUStKYhsnz3Y01j9mRGvmK/ogf4DHYBgF/I7ljkuRU/QExy52okBpoDKNrzqiSQahE/YldpnWuiVsERsI0m2UN7oDn4hEmBHs3Hj7uceFKvnV3rd0U6+Jjt94WlCDrEtmTtmyg5YHJscvdLfuvkN2zljIog4jZEH5wUJ+XbobdUpjZluTABsyU107Gg9pDM9NbaRXGY6RU=;Unhff84JmXCbFq66L+xi6A=="
 ---
 

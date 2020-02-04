@@ -25,6 +25,6 @@ images:
     height: 349
     title: "New project to assist people with dementia in Aberdeenshire with artificial intelligence technology"
 
-secured: "Ebf/zmCgnS9E5TxXT72V2VXw53v8UzQ8gh4mZo+kbBcvJCm9cLW4R4Coj0dB9kE/qjL33eWMQInKzvo0McbQsZqyHlXr0qshtMxRPRiX0bcN40V1gYAWMNnMuJofNzwPGMPTubwL/sCZGj2pmYyR3mapNKtAwkjWpo6fwwefTBbKPoXcxoec/KQVI/M9hK9CfZEANcQVx0Ypvw81A8IkpwJVI5jMro5BKFreeGrF2yhEsld7eopMktXiXhfhYcur45ymtVBgVtwxVS+jsYzFgHH2zU/v8st5JmAouEAMcT8PVW2B0I+sJGHWRA0CUenc;J9yUx9QhwnjkmUSdKINrew=="
+secured: "E8yC27u4qLoGWkQKHZ2ePf8wEe7j93UVFzpM0M3RATOopcJM0nzEUeSNTj/dCZJ7RlSZ8P/S8PKpEjsP4zrYpCRYzd+GEkPIXKAc/fs1d9TuxWZsHA+5jjRkQK6/Gyzf5haIemlM/fRtVjWQBN79zz70THP6b0RM5vrXY1BdQI7HrYkiMEuh6xyS/uvV3m5UoToPqLho1jkVEW4jZv0lpgbmVorl6+BJDtgt8KnKQeYGf4DY6QaJWNOwELn0r1X0t5Qh1j/VjRJqmYdbOZ7pdoWk9b8aEVdNRDYMklpL5aJjpO+tsvWqtB0EflcgqMkw;a8ycC6woCsAat8K++Itixg=="
 ---
 

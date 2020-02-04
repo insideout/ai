@@ -33,17 +33,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 4
-  - title: "KT, Samsung Medical Center to build 5G Smart Hospital marking world’s first application of 5G in medical practice"
-    excerpt: "These services include digital diagnostic pathology, access to proton therapy information, teaching surgery, artificial intelligence-enabled care for in-patients, and an autonomous robot for an operating room. Access to Digital Data and Video Footage The 5G-powered digital pathological analysis conducted by SMC is a world-first example of ..."
-    publishedDateTime: 2020-01-20T10:38:00Z
-    webUrl: "https://www.voicendata.com/kt-samsung-medical-center-build-5g-smart-hospital-marking-worlds-first-application-5g-medical-practice/"
-    ampWebUrl: "https://www.voicendata.com/kt-samsung-medical-center-build-5g-smart-hospital-marking-worlds-first-application-5g-medical-practice/amp/"
-    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/kt-samsung-medical-center-build-5g-smart-hospital-marking-worlds-first-application-5g-medical-practice/amp/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 3
 
 secured: "vSv/z5DRnnuejWOjq7n995OcXXX82pZjCn08cz28QypRC2b/FdsZRIosMzlWx280TynWcNbbWX0Fc0WyV0h/mpmLwtshef/503r9oh2EcUuc1BDm9lLEKKKNjJVtOlFwry2+aAufEQzUz3k1R4l2zfQbQleROAiNcY+E4zSnNATCnbTkXAYTH2uajyB/jNfsOYpRyCbOodVYe/qAefPB2VZg8L5uZpYtRPGdTMOTVNPVhDFHt/KOzPgISHtUGl96kc5n2ITqboHflZNFw9SDd/2ox4dw8Ao84sQbVTs/LOVcn+/C0bpoDQuH3R3nPvHDZBRh6TrevRj4QLOAauJn3FFPuJ69QqH6Hf3+d5hFLNqHKeNjbXdzJLtiDPcp5Iavao0z+6L0TV0R+Uj4MxEvqSGIViH+1TdpSfxUGaIXHfyLCvGGTFCEAag1uBW2P+rW3DTvwiY1JAPiWzOHA6S87A==;hXXUgEz3HA5Z0YFDwrRHmw=="
 ---

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Object Detection Techniques in Computer Vision"
-excerpt: "The SIFT method does not provide real-time object recognition due to expensive computation in feature detection and keypoint descriptor generation. SURF algorithms have detection techniques ..."
+excerpt: "Object detection is a technology related to computer vision that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or vehicles) in digital videos ..."
 publishedDateTime: 2020-01-05T19:42:00Z
 webUrl: "https://medium.com/swlh/object-detection-techniques-in-computer-vision-7c169771fb15"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 900
     title: "Object Detection Techniques in Computer Vision"
 
-secured: "KAMzQ0ZNWlINlbnLkOjh1raLvHlQwB7RFsFM9pppZHiNBYXkfdrzqir30xAyHi1iKir+qLOUcedyx7g1l7DOSBsukQ4bNSWQt2ubI+B3cGw3HzsWlq9QT0OBQw4lsOvVdGGLsPORiCyg0eIMp3udWVCVY4QMiEuD9imunDnQQualrQ2hWzcstAOzTVl4GkwlNzsJEZ8YAhvREQlWesy+oekuASo6lI+p86rGAspcRRuFhKFHm2GL0SnHZe8HvDTnbSUeI+zZTov7g9hFl789V5y7aYnUpf9EFNUAoBLSXQV/2JDjYKwNHn89QSIWyyc6;zWFLzlKTBZLURbDAGBlg7A=="
+secured: "1AD7JLHfwbMEbqOg/VAcE1uJXK2MEuEOh1FjiBA6OFW7vWcfCsts/Dp4bLWhQXsqW92JVxKnPyQ+k8dv5GD6NULQPuZL3WC2NthyoDtSzUAJFuxpBnQX2V8jUsDpvuw8vSBH01oVTCe6x1I/UgN1wrEEzjSMgaFEZFxKEBXuOHP9JT0k4W2rEXKbBL8YNLJE7RqI5ykgyeIVrg3qPDfyRqP1d+EiLrrpfw2xrQoQ1dE1hVJq52+IAF9NllmtKm6r+Gh5GM/M6dZCBpOHn1rnRmy9IskFzQAUN9ZGm7B20X27QKa1p30+BcNGqSKKJNT/;+SiEs+3R/RRL288OU7cN/g=="
 ---
 

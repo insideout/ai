@@ -27,7 +27,7 @@ images:
 
 related:
   - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
-    excerpt: "Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data ..."
+    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
     publishedDateTime: 2020-01-09T14:42:00Z
     webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
     ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
@@ -54,22 +54,7 @@ related:
       - url: "https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg"
         width: 1200
         height: 564
-  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
-    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object ..."
-    publishedDateTime: 2020-01-09T20:49:00Z
-    webUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
-    ampWebUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1112561213.jpg"
-        width: 940
-        height: 627
 
-secured: "Q3RiKUkbyrO5TNTLQsR4bjaHuaolOM9b3PGhzkzH2kV0ezEv1SEQuaWyz8WDUNZEa00/NvtFoCmdxW4Y8ELuJVOJtaVVEDCYkSIdI8cgu+h8eTdToX3aeJOm+/HgdKCjkh95BkzOx+XPTDvghzYq1URgJemyRdngocaKnpBCSNxflH2PoEnZXK1Koc/7ZhiLBieb8I2R5rzecg27uL61UJVyE4/d6+dMwNAu6rxJZeKuA4fUwei3JNOuISXO0xMZsbcIQxXM/dZUAzCNKuEd7E3K8IWLXb9ewHx2oxvxFMKjwXRnlGvKb/A5ouQ8pm1W;AOW2Oj9EA0w0LmK4GKHkAw=="
+secured: "JYG2SUFohVOQ2Zj0W2QDbD4XPA6HAR3/Xm7OsOgKcGa4jU1Anz1IXZ5gTD09jzMxF3i6mAxi9IEtkHJCrbqhhRR9xBGMNPjpzNnrd6MRIxw3wxwsdQxr4lixjS90DJxqqnWkCnqoO6m2E5c8d7Yskvyof4DdXnw01h0Y4Hptizru9T6++HypL1Q41/1gROu3RCNY6OoYKfONLs3lTwhzBZX/zUSrJ5SqXzjrMx05OjGGhZoiqWW6njKKwwFsMgsQ77GtDSAvmaSYyEgYPtC3nYroepREJnelndmD38oD/USFsbxz8F5QvgVC+NRS6oOA;qxmScATOQ214iE2iRX1tug=="
 ---
 

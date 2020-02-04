@@ -18,43 +18,17 @@ topics:
   - AI Hardware
 
 related:
-  - title: "AI Chipset Market is Expanding Due to Adoption of Industrial Automation"
-    excerpt: "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers."
-    publishedDateTime: 2020-01-20T11:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15149083/ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15149083"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083"
+  - title: "IGBT Market to Exhibit 9.2% CAGR, Adoption of Artificial Intelligence to Bode Well for Market: Fortune Business Insights™"
+    excerpt: "Pune, Jan. 24, 2020 (GLOBE NEWSWIRE) -- The global insulated gate bipolar transistor (IGBT) market size will expand in the coming years on account of the increasing demand from high voltage applications such as motor drive inverters,"
+    publishedDateTime: 2020-01-24T09:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/g15178687/igbt-market-to-exhibit-9-2-cagr-adoption-of-artificial-intelligence-to-bode-well-for-market-fortun"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15178687"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15178687"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 76
-    images:
-      - url: "https://www.abnewswire.com/uploads/1579519636.jpeg"
-        width: 417
-        height: 455
-  - title: "Artificial Intelligence and Cognitive Computing Market Foreseen to Grow Exponentially by 2026"
-    excerpt: "Ameco Research announced the latest market research report on “Global Artificial Intelligence and Cognitive Computing Market: Global Industry Size, Share, Trends and Forecast, 2019-2026\". A report on the global Artificial Intelligence and Cognitive Computing market has been recently added to the ever expanding repository of Ameco Research."
-    publishedDateTime: 2020-01-21T05:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-foreseen-to-grow-exponentially-by-2026-2020-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
-    excerpt: "NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota are some of the key players operating in the global automotive artificial intelligence market."
-    publishedDateTime: 2020-01-20T10:41:00Z
-    webUrl: "https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
+    quality: 14
 
 secured: "wypMvw+fhsT0hi51o5Yz18QA1oksjNt6XixNhKhs/3u8t3sG/XlKZIhiRtryvVxrnh6xtOrIkC6DsQP3sysHN3O+ZyCvWFAeGZ/O2G5NXLYB3ONOPDZ8xXAcWNr7CfjXICdl2+1EtIaVSOsSxKJQJoLKDLIP5tUA9R3H5Sc/8bHjTNWN3vhH/0YlXWxoYn1lYmDilw1K0eJ9EqUXIoVuC2BRuZitlA7evnHcHnxqoYkL4T9AGWGPnvHBBU+GXqlfbMEKnyTsu5w3WxvZWkYWjZMpQAplW2JClgINR9WVUhtfD+9rOuBjArJIEYC9CPLY;AGeW0qFMdB8KDFc1ymCCBg=="
 ---
