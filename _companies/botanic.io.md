@@ -6,10 +6,6 @@ heat: 0
 
 website: https://botanic.io
 
-linkedin:
-  url: "https://www.linkedin.com/company-beta/6607560/"
-  followers: 0
-
 crunchbase:
   url: "https://www.crunchbase.com/organization/botanic"
 

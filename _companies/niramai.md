@@ -6,10 +6,6 @@ heat: -642
 
 website: http://www.niramai.com
 
-linkedin:
-  url: "https://www.linkedin.com/company-beta/11009627"
-  followers: 0
-
 crunchbase:
   url: "https://www.crunchbase.com/organization/niramai-health-analytix"
 

@@ -6,10 +6,6 @@ heat: -2077
 
 website: http://Pathai.com
 
-linkedin:
-  url: "https://www.linkedin.com/company-beta/10804043"
-  followers: 0
-
 crunchbase:
   url: "https://www.crunchbase.com/organization/pathai"
 
