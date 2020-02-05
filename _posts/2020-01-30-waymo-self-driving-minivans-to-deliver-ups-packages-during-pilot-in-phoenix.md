@@ -76,21 +76,6 @@ related:
       - url: "https://ktar.com/wp-content/uploads/2020/01/waymo-screenshot-.jpg"
         width: 620
         height: 370
-  - title: "Waymo: Self-driving vehicle in manual mode at time of crash"
-    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was operating in manual mode when it was involved in a rear-end collision in a Phoenix suburb and that the crash was caused by reckless driving of the other vehicle, the company said Friday. Continue ..."
-    publishedDateTime: 2020-01-31T18:44:00Z
-    webUrl: "https://www.foxbusiness.com/technology/waymo-self-driving-vehicle-in-manual-mode-at-time-of-crash"
-    ampWebUrl: "https://www.foxbusiness.com/technology/waymo-self-driving-vehicle-in-manual-mode-at-time-of-crash.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/waymo-self-driving-vehicle-in-manual-mode-at-time-of-crash.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202001/2441/854081161001_6125650231001_6125645401001-vs.jpg"
-        width: 1280
-        height: 720
   - title: "Waymo self-driving vehicle involved in Tempe crash; 1 person injured"
     excerpt: "A Waymo self-driving vehicle was involved in a collision in Tempe in which one person was injured, police said Friday. It wasn't immediately known whether the Waymo vehicle was in self-driving mode when the collision occurred late Thursday night."
     publishedDateTime: 2020-01-31T16:18:00Z
@@ -156,6 +141,15 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2020/01/Waymo-autonomous-vehicle-city2-580x372.jpg"
         width: 580
         height: 372
+  - title: "Waymo: Self-Driving Vehicle in Manual Mode at Time of Crash"
+    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb caused by a sedan’s reckless driving, the company said. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved” in front of the Waymo vehicle, “braking aggressively and ..."
+    publishedDateTime: 2020-01-31T19:42:00Z
+    webUrl: "https://www.snopes.com/ap/2020/01/31/waymo-self-driving-vehicle-in-manual-mode-at-time-of-crash/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 19
 
 secured: "9tQLf3SxgBNsN47AHebaoPViG4bfiQURx+TDoJEc/jUPMCZe+lSU78EkbHBhMvGDoSxCTEW+R4XmFo/p+Qu34eHYakwgGuxCCF/gmhrh4EAktTwEFdJp5/yl/nlCREOX/WGB+C5RySRhJ+Wuz2BrtpU0VmcLCGV5XOT8hu9+DlGOhJY2gYgqfExG2w6GUIqi6cDcdvz/Zgw9Ffk/bt4QENZHlWHgLqm8JYwaUbvTgaXbFcEKKA3ouZr2FqCUkMOQOYLuDIlLfE2Zhdm0xvzvtKNXyLHKFREr/5zdO0u8uASnOEQKAEsKPrksnUqfumzg;qyNyaVwnzI8EiyJVWwQn4A=="
 ---

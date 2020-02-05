@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.in/tech/enterprise/news/this-is-the-pitc
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/enterprise/news/this-is-the-pitch-deck-that-the-ceo-of-ai-startup-directly-used-to-convince-its-top-customers-microsoft-and-samsung-to-invest-in-a-20-million-round/amp_articleshow/73738464.cms"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Apple reportedly paid $200 million for an AI startup – but its old investors are staying quiet over rumoured military drone contracts"
+    excerpt: "Apple reportedly scrapped the firm's involvement in Project Maven. One investor says he doesn't think they were ever involved."
+    publishedDateTime: 2020-02-05T11:24:00Z
+    webUrl: "https://www.businessinsider.com/apple-acquisition-xnorai-project-maven-military-contracts-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 16
 
 secured: "zTEqoypoee6FdqNwgiTIWXHv9gANPOycfr9t/fpOuF9FEhu3u/VXacAvghy3Oti1c0O7ZuNUDbY3loSoXnEBaud04IPI6FNfsLnVkvwFvoXDaw3zrWfOHJyI8VEspzMqN0ZQKX4c7mFLnz8oRSFs3w+BPVuWWiXuUfTZKLyxloTg9/C53jgscG75MeJ5TyG2D1QHjftlOYo7zwWed1GFX7+f2FsVz7diqU/36/7DvVbbUnqt72aNX7+X4OBXIobL+uUFTxDPIXLS7S55zUXXiGZMyXXsI0JMf6GdSxZ/y4BmknkN3zX+WiRZP2m4CSUm;+HL+cZ/Y7GG79DQEX8J7vQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T11:13:00Z
 webUrl: "https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-segmentation-and-forecast-to-2019-2027-2020-02-04"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Self-Driving Bus Market Size, Share, Trend & Growth Forecast to 2027"
+    excerpt: "Autonomous vehicles also known as self-driving car or bus makes use artificial intelligence (AI) software, cameras, and light detection & ranging (LiDAR), RADAR, to sense the surrounding environment and navigate by creating an active 3D map of that location. There are diverse levels of autonomy ranging from semi-autonomous that involve driver ..."
+    publishedDateTime: 2020-02-04T12:24:00Z
+    webUrl: "https://www.openpr.com/news/1918469/self-driving-bus-market-size-share-trend-growth-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "h1ddHGZs6uS1r+e1DLbQoUN/eEs9fH6HPRCnM9CfQYMxUk/igkxg1Xhntk4Q21CqZXcJ2fMVeHU2W1JLw/TNj3XOPuMqWijeDkGTaaeFygYrwMNAQJJ00ZdOJDja/9FwcWUe41fsJJKdNU5oFJS5I/Qrjdd7fS1OBjp2s+XTzG/NQTeJQtDn7OuE62fC1F7cjtacxxmHThHWuJMMGQrkOeQNeGMv1MYy+nZoVmw/+zhzfKjQLhLxeX5Q/x8lIOF/HGuuXbs/CD6lvw1zbTxIdlHVBFUWJ4pr+qpHIarhlgY9D7Dq3PrxUuVYSce9XoEJ;wQyNphO+t4wMNXjmowV9dA=="
 ---

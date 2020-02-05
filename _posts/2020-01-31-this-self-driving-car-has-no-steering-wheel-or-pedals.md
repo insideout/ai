@@ -104,6 +104,15 @@ related:
       - url: "https://nmgprod.s3.amazonaws.com/media/files/a1/bd/a1bda8354a4cc5b99751ce3b0f639642/cover_image.jpg.640x360_q85_crop.jpg"
         width: 640
         height: 360
+  - title: "The man who invented the self-driving car (in 1986)"
+    excerpt: "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ..."
+    publishedDateTime: 2020-02-02T17:32:00Z
+    webUrl: "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 4
 
 secured: "EKLcMGT2vgtgTubzzafML2D82jeNpVGP9pJHFPSvPCPqxYbd69uWriivlbs4wKlDsscw/nk3jJeI9ZARYJvx7GcmTM2VRyqeITn01RO8XQadsIZHnzWEr0o/hunDHwbcPAYbVVOKHVLcHzpFGHKINYMr8xZqrSHSj0yc1kJEr87OkGl0HCTloNHOLlpabPArJYuMCM+De0GVEeE8K9CYJ6889rNhxg/VqzVAdx54DM2hps3sOJpDlKnKi4tjBZSrjj+7GHXmNLwJSZxdhX8wXIMMNSrOY3lWTLjtOx32lzqpYj3dlS1vwCRctvZ5/jJQ;dd5bu9vsH+/n0AtG6rODxg=="
 ---

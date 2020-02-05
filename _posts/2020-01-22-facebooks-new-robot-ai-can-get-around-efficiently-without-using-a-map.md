@@ -42,21 +42,6 @@ related:
       - url: "https://cdn.technologyreview.com/i/images/russia-953111920.jpg?sw=1200&cx=0&cy=58&cw=1920&ch=1080"
         width: 1200
         height: 675
-  - title: "Facebook speeds up AI training by culling the weak"
-    excerpt: "It’s part of the company’s new focus on “embodied AI,” meaning machine learning systems that interact intelligently with their surroundings. That could mean lots of things — responding to a voice command using conversational context, for instance, but also more subtle things like a robot knowing it has entered the wrong room of a house."
-    publishedDateTime: 2020-01-21T18:40:00Z
-    webUrl: "https://techcrunch.com/2020/01/21/facebook-speeds-up-ai-training-by-culling-the-weak/"
-    ampWebUrl: "https://techcrunch.com/2020/01/21/facebook-speeds-up-ai-training-by-culling-the-weak/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/21/facebook-speeds-up-ai-training-by-culling-the-weak/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-950523108.jpg?w=1024"
-        width: 1024
-        height: 672
 
 secured: "WZtp4Za8o8Y0tqj6Vy1AzAmUoznOY6rpkfrVaanpRczIQCiEw73gnJGoXW8O/UWjGrNrq5bQOnWrkPoSBDRD7uVjBYxivZXF86FC+ZbM0fGck91l+pwzNBi9q/ntX/MPEDGlvvaGza4wH1KE2IJizDlwwAaLJvb1MDW1wL8AJxVDJMa5GcC6qCkxTjgf1a3vduWpHmQJZvsx6Bje4ptcgn6WS78fKFijz2sJTdq6ZBeTDVPA1vA8df/vUbbwET/SklBUSiQTcb/xusuQrrswsm+W9LWHYEPm39VZLLqo52ry6Q/dAMdBcm2qwyLwuxZ1uj1/cBRe0Uv/VQYqWwtO4fF5VAbGYZ2/0Ua0tp5ErnIEf37rsEHKkJs1Xvz1xNOiSu7Utr3tik6nGXpIsVrvF4uAM/206KRIBkx+9bRMaYJ8jXsfpZlaqhk0Z30oiRUnDhJIG73z8EBTs5bILU3xEQ==;Y/QfdLHJPvuNWE4X4sQfww=="
 ---

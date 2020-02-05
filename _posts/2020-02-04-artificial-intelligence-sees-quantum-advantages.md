@@ -23,6 +23,19 @@ images:
     height: 426
     title: "Artificial intelligence 'sees' quantum advantages"
 
+related:
+  - title: "AI method determines quantum advantage for advanced computing"
+    excerpt: "Classical computations, by contrast, tend to return only bulky approximate solutions. What the Russian researchers did is train an AI model to distinguish between networks and determine if a given network have a quantum advantage. This pinpoints the networks that are good candidates for building a quantum computer. The team used a neural ..."
+    publishedDateTime: 2020-02-05T12:33:00Z
+    webUrl: "https://phys.org/news/2020-02-ai-method-quantum-advantage-advanced.html"
+    ampWebUrl: "https://phys.org/news/2020-02-ai-method-quantum-advantage-advanced.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-ai-method-quantum-advantage-advanced.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 37
+
 secured: "Oh1pjlj2zWjRi0z6k6epqxe58QYcEATB5nWBBpQIH5tLsV2ImkpZaqaqQR0QnRq9WJpvSOW6eL4iitXaMYRG1BwngzORVa3lwcdt4J346ENCk0hJOeuTBc1ULRLGnsn2znuEAmxAizJIW85Rps9/gWmbRXbxpRXad69HepjzcrRKEyy+QXs6RoLZMPJfBnJske3ymudAcPWNCOCk91dZRAyPOTq/jQIb73oFWgyKqWPIVw0MVKsxj/8FKlmlI4Le8L3onA4mn3lO72Z+rp3xfzlchjFrG6vpN7QicQ2ygMV31irEidAPAxONhAnzvBz28x0AiO0mBT6DoEvMUbFs7AvYfTkqu017ADne0Vbts5iUXLjESrfZ2wTIRoF3+5/LX+PonX1KmjtGELnvY/IHq80pPJYKWOOqOEvdhkuD5l4PiRzEgfn9yYSMQ1f15G5UmkI33iLpCYqvSBXK0tKNzGD8hoI04c2dMmrHzC4COLg=;2e7SROGn+iMJd8XWb9zkog=="
 ---
 

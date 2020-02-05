@@ -4,11 +4,9 @@ title: "Artificial intelligence, machine learning will contribute $1 trillion to
 excerpt: "Artificial intelligence and machine learning will contribute USD 1 trillion by 2035 ... empower those working in the BFSI sector and will benefit investors and the financial services to give world class services through knowledge, innovation and value ..."
 publishedDateTime: 2020-01-06T10:14:00Z
 webUrl: "https://www.dqindia.com/artificial-intelligence-machine-learning-will-contribute-1-trillion-indian-economy-piyush-goyal/"
-ampWebUrl: "https://www.dqindia.com/artificial-intelligence-machine-learning-will-contribute-1-trillion-indian-economy-piyush-goyal/amp/"
-cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-machine-learning-will-contribute-1-trillion-indian-economy-piyush-goyal/amp/"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - AI
   - AI in Finance
 
-secured: "ahNKrsv61+Fl6IcVsz/iTg8bSunmzahTa3PxNO0eS+9+Z9ZVDnRfi6a5IY/O/eV9YnnuRZ2uJwXwMU93fPWEx44vRIxONaZAIaoUTLB/85HlOrVGK6RgFh5rJttnfDlHRGeiav3Iz0e6eWg9eAei/rhAfJYli5kV0N/89k/AiMsxHYji+TGyOQsec6j6nqOPEupPN7FFSUai0eIDmWuWIofZnlCjc75ZUGfNuLlUXvalHVMqzlDoihZyMKxcI/RbApJZ6VyVwsTzbfGrcaU4XNgT7gcfRkD+fl3B5vn0xTX/KqTRMCcxl72S0SFlek1K;BBfPxE/unUEmwHI4QzvJ/w=="
+secured: "ua7t6kzOfavbftc0jwqjXQUm1ZpPuC/TVVZ8dmOh2cd2zt/0yFai1ZOE7cGOQhAeqvxXuC4BwF8GhO+yq/S1uPpwi1CIa61LXa6xR6ULlbreT0gRY3jcp65r4r+PvjkAmDdExIhqKUe+FTadPXvXI/LSRzSKZ7bMCdZRPeThwMJeBRQJ+EC+3w6MW1dIRlWChKh7iDg0EPJEtK1dsV1aVTjQrOzmHtJZ0vif5fA6odLVQ8i6HOBAb7Vkm+vHfhwXOu4WwrXS67iyKDoI5lL39ELfVn2vAV0ZJv40zCkvGWaye9RMvB0Tj/A85ugHC7ar;nQNMzki5Q6L0FzgKoGXgFQ=="
 ---
 

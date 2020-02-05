@@ -3,12 +3,10 @@ category: news
 title: "Self-driving Nissan Leaf electric car navigated itself 230 miles on UK roads"
 excerpt: "Pilot vehicles tested on private tracks incorporated artificial intelligence systems developed by fellow consortium member Hitachi ... and a huge step towards the rollout of driverless cars on UK streets. 'This project is a shining example of how the automotive industry, working with government, can drive forward technology to benefit people's ..."
 publishedDateTime: 2020-02-05T09:23:00Z
-webUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
-cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
+webUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
 type: article
-quality: 41
-heat: 41
+quality: 1
+heat: -1
 published: false
 
 provider:
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://i.dailymail.co.uk/1s/2020/02/05/09/24336994-0-image-a-146_1580895983483.jpg"
-    width: 636
-    height: 382
-    title: "Self-driving Nissan Leaf electric car navigated itself 230 miles on UK roads"
 
 related:
   - title: "Gainesville Set To Run Self-Driving Vehicles On Its Public Roads"
@@ -39,18 +31,33 @@ related:
       - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
         width: 1200
         height: 782
-  - title: "Self-driving electric air taxi passenger trials approved for Canterbury"
-    excerpt: "Yesterday, the Government signed a memorandum of understanding with Wisk, supporting a passenger transport trial with the all-electric self driving plane in Canterbury which would be a world first. \"The Government sees great potential in the development of an innovative unmanned aircraft sector in New Zealand and we are in a prime position to ..."
-    publishedDateTime: 2020-02-05T00:49:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/self-driving-electric-air-taxi-passenger-trials-approved-canterbury"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
+  - title: "Gainesville Set To Become First U.S. City With Self-Driving Buses On Public Roads"
+    excerpt: "That self-driving vehicle and two others, now undergoing test runs, are expected to become available as a new form of public transportation in Gainesville by the end of the year, according to Thomas Idoyaga, a spokesman for the city’s Office of Mobility. The 14-foot-high, 10-foot-wide, 19-foot-long EasyMile shuttles, developed in Europe ..."
+    publishedDateTime: 2020-01-30T16:48:00Z
+    webUrl: "https://www.wuft.org/news/2020/01/30/gainesville-set-to-become-first-u-s-city-with-self-driving-buses-on-public-roads/"
     type: article
     provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 39
+      name: WUFT
+      domain: wuft.org
+    quality: 34
+    images:
+      - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
+        width: 1200
+        height: 782
+  - title: "Greenville entrepreneur sees safer roads ahead with self-driving cars"
+    excerpt: "But what is possible in the short term are localized autonomous vehicle services, such as self-driving Uber or Lyft vehicles, that operate within set parameters. “Autonomous vehicles tend to work completely and safely within a certain domain,” Taylor said. Through three-dimensional mapping, the surroundings of a small downtown area like ..."
+    publishedDateTime: 2020-01-30T17:00:00Z
+    webUrl: "https://upstatebusinessjournal.com/greenville-entrepreneur-sees-safer-roads-ahead-with-self-driving-cars/"
+    type: article
+    provider:
+      name: Upstate Business Journal
+      domain: upstatebusinessjournal.com
+    quality: 24
+    images:
+      - url: "https://upstatebusinessjournal.com/wp-content/uploads/2020/01/TAYLOR_KVABYUL_HEADSHOT.jpg"
+        width: 1920
+        height: 1080
 
-secured: "MANHhMVEKVl+m8hhM8hW1eJeyCQX4+o0gImBgchWokDi/7jXbGFEpozNMge58qTbSGOnmyAbygz06/jYbPtH0OXiJdD6mG443E5u9XfBT29rtzmFGBtTrUk4mBo41TSV7PlKCXGTndEPqAO9H1/S80MN3K5kwWKNywNgDbJWsYh0gWC2+6n2E4Pjx5vdHuIPGKcB/PyGE5Zc9eISyk/5dy0DFDxOHaG8vsanQD/jJEB5d++ZooiBvL6+XokMiIiORo4K+xYZCwq+Y8cdLPMbmd+BhtKM60kY77SCb/XT7dZgqEL4EhAEsecsz8z4Doo8fXbb54K+nrtiYLdx70TsjX/gwdGYs1oHmwAiZa8rgx84TFMotvydLb/N/IvWooBketPhWai4irAXukNzAeru7pAbbWh0D0kaQ49N2/fP7FoXi9wX0Y8CJ68KxMJuiwX/s2blj1n1SSyYOnhhajlMfWEBuvfsvHNt7Zbm5JTdtds=;kX1azS91p92x8mMXDECVsA=="
+secured: "eo0e7BqhXusBm38Lsuw5b9CddmzC6IgYEAGdE9kf1pXe8ZcHBvO/Q2KWLPTb8RrvvhKurfbYLlvRNojqD6RNMrrVirInssF5n1pqYxvrY+a0Y42P/0nEflV/IEl+wjgxWGYesR8FPJyvJdxuFv1giDmEacBZ7I7OKI9KzpMZTAfUxn1KY00oQ/XOBdP+0Swp8uHot39uz/W4y20GKG5sWMeQsk7iDH0aao+mNrj3E6c/f4+J8ZbEQ3I5Zi9r8kHfUc9akeUFHWLUlA6i77twYzimX9BKaOELiue06as6RN3Lotr6jyhqZwFUpYmg3x4FMz98rV5KZH9C4+wzscKSMPf0k5+MLsfn5Tg8yYZO7fTxwZh5qWPvGPQYNx7RNw5N5oX3sf98rNzi6gMIJw5Z/qccyKh7TRKbZ/ITCNSMXuJYhLnpbUKfGeT158ejkxppmnHGE/YhR/xuEmNSZzyJu6j812VDpgYWkk2ADG/TsSc=;3v/+fXmr+XrKz+3hX9nf8A=="
 ---
 

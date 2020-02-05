@@ -25,6 +25,6 @@ images:
     height: 675
     title: "Translate this: How real-time translation breaks down barriers when you don't speak the language"
 
-secured: "Oc/VkUOOudIkJVlAo6HoVOYIZxWCSpAxJGWxsZfHZrFT+xvI2SLPYqchzaNov0TU4wNHgqbqvQ/PX71pY4QBoJ92emRgrdc6YhP/4OL/izaMhxB+lAQ8bNlzR5U0tZbHCTBBf3V+s3/9yEjFhvLpD56r7K0+/TnN5m0UaCM1xhmLIbr/ohg+UgWa6T5Uie8tNprD76csG4ycjONecPCmCqXQHH+2DC2p9rKzATSasT8J1XI64EKmGeG/IWsxNFK8sQu6aTqux/w5Aq7x5lMmaqfiKVXkaC8+L05FVM8HyJP11P5ycpYOhaQrwS51VKJ3;ij+ihSnKbT/ZFbdr+u4Hbw=="
+secured: "r/ZB5U6z7BNKLR95500Kk0pGPPzRachdoa6ItQj4h712qJPFsOkjHWYgG2STFHW4N9+QGvRumtBktSggF1yuI10i3DE1m/EKVtoV8P1cZXJ/tRHnCliVSXj/J+tgfSargcEjfiToSnIqn7mB5qgdPaE9vDLeTThMuBgrxS6khjay3WFjFvHCZw8cqWjuvFqjoi//+Bgmc1kxxnYkHQb1mUMqZcSr1lxUg4dnoE34BQsKjagT3CXlTB+iQ7Mjcg6CHU4uI6KDJY35sMcNsn0/99BGiSYJWUxYggCwNOdVitX6NV2L3EKphD8SOa4bmj2sP8w5dx1zItOf0jmIvw7ZX+i3fG69AK7coVC6KX91X70P/2bgNBJdlE22UoypKK3F3rbXDcpJ/tRNrceLqPe1icQ4n9oboLgOwTxC/5frAD6HGWTR2Hk9lykqZQkm2GgmT3+G4EQ9lQW1EA2OhFMWXHD83gXP7gSXtkLNbx5QTNc=;qjG2wJWmWublLhUcajJA3g=="
 ---
 

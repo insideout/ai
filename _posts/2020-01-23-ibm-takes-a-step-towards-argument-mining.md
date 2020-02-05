@@ -37,6 +37,15 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2020/01/4910966596252f146b0d4k-1024x575.jpg"
         width: 1024
         height: 575
+  - title: "A|I: The AI Times – Google’s “AI-first” approach"
+    excerpt: "Montreal-based Aifred Health has been named one of the top 10 semi-finalists of the global IBM Watson AI XPrize. Covariant, a Berkeley-based startup, has come out of stealth and thinks its robots are ready for the big time."
+    publishedDateTime: 2020-02-05T11:03:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-googles-ai-first-approach/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 21
 
 secured: "6DPQLPs9ScBgAMDCuSYAPN4NnmL4V1HKx9yCbN+dhqRQ2rsSnQrtEOBwaAbt80AcJ6NUMzOrbq74oU1ntPXHGTOeMK9gRPb4o46z+g567jrb4BTALxPA7WjNa+VSu/GrWjN6HXCKDZSGGns/hYhwfOvjSy0AsQs5hMfPYIpYNs/0pz28FpoNkT4nGbSd43fwM+n+Mj3k1dQCZuIbXcdDng5zE2pAdC2px5XB0lN7UhvM7SuY/KOAvO+HVi0wgQ1lS+v0JYSli2/ddhB0AZI5o1ATSudnEOuHdhwLHscghBr7ToS/tNnrzDoob51SOKtEt/PqWBns7NlDGACnA9oYWHPUztwemCUTmwPNFKKLbe9t9yP+T4fxEm8jjKuT2Cn/fMV54wFtc02qaSODLFZXQ39QKpf6aZ8ZxQiH/3PuePAKmZNxBbVfpDfaiXOy8u28Ii0mufc6E0yxRpfgwTdoRZGMQURCGSNTAF5JZyk5sP0=;UQA3B6H4QGkn4EPiarvuxA=="
 ---

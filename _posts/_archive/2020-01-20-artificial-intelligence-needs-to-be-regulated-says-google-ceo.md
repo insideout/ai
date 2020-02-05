@@ -4,12 +4,10 @@ title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
 excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
 publishedDateTime: 2020-01-20T12:18:00Z
 webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
 type: article
-quality: 69
-heat: 99
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -61,7 +59,20 @@ related:
       - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
         width: 531
         height: 342
+  - title: "Electricity Can’t Hold a Candle to Artificial Intelligence in Significance, Says Alphabet CEO"
+    excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. “AI is one of the most profound things we’re working on as humanity. It’s more profound than fire or electricity,” Alphabet Inc. CEO Sundar Pichai said in an interview at the World Economic Forum in Davos ..."
+    publishedDateTime: 2020-01-29T01:16:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/01/28/556768.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 28
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2016/02/Google-Corporate-Headquarters.jpg"
+        width: 900
+        height: 600
 
-secured: "93MQJGEnlInccX13IN07hSBTgpdyN/wYLgeZnAjoOt53c+1mB52sJlpMbAiO2ggt7QrZvQ2kJyY7jEBXM5G5Nhz1RLUOGMY6Po84rEJ+YC5YiXAbEdh+ltfVhlpyOjlMs1iH4UmPRs/4iDgGvcYSMAKP98cYVKswEzqIpOwP+SSHtKWUst0L8UQUfn0q/fvNIl5GciwUJzqb7wGZ8qWY894k8CMdAggGxwt+nOPnWWvNK/19WCML6q/dRy5+K/iSr57v6idtvlRWXNSkxoqHfyz21qgn+gNSLLXdECv6h6D2UlJjbhoXR0aHgPmHnfNr;AEsf5qWhWvo6DCGRotcdYw=="
+secured: "4nylCDq+FGrF8UWDqQ/Gs9XrTrDckynb/5svXcTPzYQa7Pb6guQ41+sgUbFAJvK/Gd2uFeY8k/gJuWdX0R9qXDzi2GWfs96/e7xEo95RZHHNd5sqIhFezRG59zIyjPEop+6MjspKTR2ybiBv7+dVn1oOQipGaoDrUCf/Yo911+uWS5s7dH8WzHjiaIUyA/eMlZPxGW5XX0I40SNmPWorTmPrEgBmE0zBgZ6usCbZ1aTxC+gKOr0IgKITMFLi0VTPf245tlNpkrE+xQcAtn4gdIb1C8iMhZjewEQVICQX3SjiFhzFaysV4+wROlGOx3mz;/Fl/h83KWWrLzUw5jtbR+A=="
 ---
 

@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Waymo: Self-driving vehicle in manual mode at time of crash"
-excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was operating in manual mode when it was involved in a rear-end collision in a Phoenix suburb and that the crash was caused by reckless driving of the other vehicle, the company said Friday. Continue ..."
-publishedDateTime: 2020-01-31T18:44:00Z
-webUrl: "https://www.foxbusiness.com/technology/waymo-self-driving-vehicle-in-manual-mode-at-time-of-crash"
-ampWebUrl: "https://www.foxbusiness.com/technology/waymo-self-driving-vehicle-in-manual-mode-at-time-of-crash.amp"
-cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/waymo-self-driving-vehicle-in-manual-mode-at-time-of-crash.amp"
+title: "Waymo: Self-Driving Vehicle in Manual Mode at Time of Crash"
+excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb caused by a sedan’s reckless driving, the company said. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved” in front of the Waymo vehicle, “braking aggressively and ..."
+publishedDateTime: 2020-01-31T19:42:00Z
+webUrl: "https://www.snopes.com/ap/2020/01/31/waymo-self-driving-vehicle-in-manual-mode-at-time-of-crash/"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: Snopes.com
+  domain: snopes.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "http://media.foxbusiness.com/BrightCove/854081161001/202001/2441/854081161001_6125650231001_6125645401001-vs.jpg"
-    width: 1280
-    height: 720
-    title: "Waymo: Self-driving vehicle in manual mode at time of crash"
 
 related:
   - title: "Yesterday’s Waymo Crash In Arizona Does Not Involve Self-driving, But Some Day It Will"
@@ -159,6 +151,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "hQe+zSsOpTAauQdiIvxR8aLhCZ6uj0LQ8eurbu0B6xuQR8UZr7pmX+PfGTh3NGMWpaj6JKFXIWGK35l7DHgQyL6YH+zI/vuciIzVUWdlFVD6GegGBg0RO/nW/WkWF/1l5pNN3zvVcikK2esxEEqOy8OS5iTQLLzYNEwzpoJM00nVm4eVf2Qoh608fteP4fYBejRsinLANPSESAANBF1TsDEz87hhRugSC+08A+Fd2BRQwKeLNpT77B3d1rsVdtBcFgbSrkE3ilPGNTLPu7xDR3qeTGfcr4pE070qOFh3zLzWTPLWTvIjfOwJtJcq6v42RsIQ4F6eLpCSSMiwX8o0hco5xGh7GzpQq/Qtr+e3zXIDz9NjN/6IevDDcTGsmtYkT1w9zuExxitWwJi8/aboFR5TbuhsN1k8lFGBZ94m1d9rV4UH8mByvQYCn2I49oyQID/JfQzOUyMls34VtmAbg5i033wUWPJlL6BY9RhTu20=;r/CqGBEru9Hiqx6+1azg7A=="
+secured: "xQ591GS8kYZM3ViriIbWgmCVY2AA0s6t25esO7ZxMXB+aqKZcPUX5z1fUF10bdUhkBua2ijWxBBJYjy4LQFrF+7jT+c/aA9MqRdlifkIbfbbjhEBTxRb6oVg0t0+Q7HjdoP/gRxn4AToN+g17Z2zqTm43dVca3nGta837TfknFLkguDPyLYV0lwb7q6X/wYatYQEy/JM7vdAaZKEWLcbvPN2EK1WvRhHK1HZ5guV9XAfPf3k/bb1ZbBQWP1AiZyQr+xlZ1cz2r7323BQbxiLIc7/kGInzUYUXsQ/K3iosZgyJ1UQHRNyte7gIse60eFN+R5xpC9PQB+YZBin9FQ+AW6jfVyDj7fmmtPSHsZxRbDtG5Vav9b3wgl9j5Bl1/EQl802GsJEUjlJV+FbEU+4/b/JmDlUdwoAqwJTS7fL7OWxjkn2kgfMHiqntIi+iYzs0HcX1W9cjp8SFJGTiLp3o6+C+jeZFLgqZIfHQTOd0Ew=;zio1VPF+wS9o/pU0v48cBA=="
 ---
 

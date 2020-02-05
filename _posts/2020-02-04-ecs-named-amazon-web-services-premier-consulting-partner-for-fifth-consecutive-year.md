@@ -1,28 +1,32 @@
 ---
 category: news
 title: "ECS Named Amazon Web Services Premier Consulting Partner for Fifth Consecutive Year"
-excerpt: "... be recognized by AWS for our commitment to cultivating and delivering the highest level of expertise for AWS solutions.” About ECS ECS, a segment of ASGN, delivers advanced solutions in cloud, cybersecurity, artificial intelligence (AI), machine learning (ML), application and IT modernization, science, and engineering. The company solves ..."
+excerpt: "for the fifth year in a row. The designation continues the company’s ongoing premier partner status with AWS. This top-tier program represents the leading companies worldwide who have met AWS’ strict partner standards."
 publishedDateTime: 2020-02-04T13:22:00Z
-webUrl: "https://www.businesswire.com/news/home/20200204005658/en/ECS-Named-Amazon-Web-Services-Premier-Consulting"
+webUrl: "https://www.marketwatch.com/press-release/ecs-named-amazon-web-services-premier-consulting-partner-for-fifth-consecutive-year-2020-02-04"
 type: article
-quality: 33
-heat: 33
+quality: 63
+heat: 63
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200204005658/en/656931/23/ECS_Logo.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
-    height: 627
+    height: 630
     title: "ECS Named Amazon Web Services Premier Consulting Partner for Fifth Consecutive Year"
 
-secured: "bXfcLDNV3YtgugchwY0FvocD07KJ2FOhUr+/qFKT1ABY7Ssfr2/tm1iLLa3icIANE4UzKrTKeXVoFCFRZJ9229q1iPHGhnH5t+x05SEfFNWqy1Yklcopm8OrOFpQfxaUPWNHGd58Rbf+R0H+ioBiRZ0XqYt9RydXJfsJuk/SjY3LN6hCyT041TRPSNjp3jgjQbA0gpqjghCNS/j25NoemMZkPA4qI6BYSXp43VEs1YTlGtiihVGmyzEZT5BC1jfpuEXHXCIuO3WXRJzyAx042C23/Tq9a7TJXzrYuqFb6OhUeA8RgQRLhTIGKzkda59ctFgMF2ndXC1G1j95KC16FI80M2mB2I5G7TQx1I9xS3hylmdMAN+6YTXWH8Rj3IjPQYqZaG0t+Pv9v4mdZtJSp1Y7RrLGEUgxn7OKtCsRZEVWWZ2JjzOkQ6TjTyi+wUZ3r7CKCD/qugp/JxYLyqmtDAYgBFm/OqOCzxESxQgXxjA=;mI2DsQQJcHXjy7t/YQXwlg=="
+secured: "YPPnfxV5D+VZmswks2SUBgB1O3gsOmjD+idMdi/zXPDaEXN85hkrjWw0lKv5BLsGd4dwf/Q2P4GpHSCw3eWnuRCbywNN7pMEsqXDciOn5BNasb2jYSvK4rkunh1YYus3j6CqdVouH4veoPlAQwpgLGJQPC7X/sdZ9PeU9fuqwnDdHTV2fCqByk/+w2p643l4gMdU5okgXH30DBkOl5WQ9GHqIS0P+qYuCE+TvKWedI1Uvpyk2kfvtSYYZtdzhC+vK941faz+Ba0EUeSjpsQh2YJFxNruns5aLk5db37lvEW7p0/HFHqTpVJ37jeoret6;EaokYqWqTA9Gv3YX6piLMA=="
 ---
 

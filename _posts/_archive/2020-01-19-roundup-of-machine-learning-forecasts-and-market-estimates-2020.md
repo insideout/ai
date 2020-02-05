@@ -4,12 +4,10 @@ title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
 excerpt: "The global machine learning market is projected to grow from $7.3B in 2020 to $30.6B in 2024, attaining a CAGR of 43%"
 publishedDateTime: 2020-01-19T19:28:00Z
 webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/"
-ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/"
 type: article
-quality: 74
-heat: 94
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes
@@ -23,40 +21,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24962d8b6cf300071c7301%2F0x0.jpg"
-    width: 854
-    height: 634
-    title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
-
-related:
-  - title: "Artificial Intelligence (AI) in Cyber Security Market 2020 By Revenue, Price, Gross Margin, Production Capacity Estimates and Forecasts to 2026"
-    excerpt: "Global Artificial Intelligence (AI) in Cyber Security Industry research report studies latest Artificial Intelligence (AI) in Cyber Security aspects market size, share, trends, industry summary and Artificial Intelligence (AI) in Cyber Security growth during the forecast period (2020-2024)."
-    publishedDateTime: 2020-01-22T12:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2020-by-revenue-price-gross-margin-production-capacity-estimates-and-forecasts-to-2026-2020-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Learning as a Service Market 2020 Overview, Latest Analysis and Future Forecast By 2025 – Market Research Engine"
-    excerpt: "New York, January 22, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
-    publishedDateTime: 2020-01-22T04:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-overview-latest-analysis-and-future-forecast-by-2025-market-research-engine-2020-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-
-secured: "imNiGy7l3fS8yTHAfH4jYuTGrWm3HLGS/0R+IYabxBQJ8iRwEp6vr4yB6HpHojCyBhlDJnOoFGmjZ6/D2X/Mehh9rnf8QlV14BLwL45dCutLMAfzGVUnX/weYJu+LRuePN+Trn7aW33okwb5zmUpMQEbCyklrJXO+9Qj/FdC8/9EBNGQCNpc4cDO6oOmUVmR10QwC4YUyU/X0N5V3tTx9rBr4ja/ynp9+yNYStw0vZZDFoRD9sShCyMpTsbGcGukjZyhdqSQXuO6uhLdQoXLuOYNpoiOoWZlb0PshxFgHlOPke1Swvr2jTiQsE4RLuel;G5Rox8wPKtDkoaUXgO9EXw=="
+secured: "pvrl40w+MsiXwEFG7P0S3sbaPl6xJNuKsFfOs5aJXdsAyYNubBFN8JOOlkMQo8wBfLj36npr7H/Gaxm7eLdtzU1YvO68z3XaxHq0H4p4XxQrgkVUGitJppuJFb3ZF81ZUggIOQYV2oKUuuKYydvcgd6Msvuivhz+nqGRX0SK82Q1T+rnLUQ+Tp4BC1yNyfIXIj/wfWjFv3QhvT40v28EKZxj1OYgkmh9Rhc5v00ZC8r0bavyVV8LI0e0dBnTAsJyg6bp2p9HP4bH9eYF9MKHYIJrJsg9J0LvBZgPsH+L4idOKnQHeuXfF0hMH0zw+6S/jGtzay8ssuFOT1UJFLsKW903wPr758PXrInMOvqjzYkuJGoB8c0OrX7zfTNgy1u5o47ekPOPxdHu2h1IBTYuYGRAP5JBzFpbujEq0yMp1pFzWtU0UOAFqetqQE4GfQ9WGRffHGC5VF87pII9OEnPt5kGvYPstQWELzQ0VPEiMEk=;Ng7jPnHdklvtWRPEv9EOMg=="
 ---
 

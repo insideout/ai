@@ -5,7 +5,7 @@ excerpt: "Location tech firm what3words has released an end-to-end speech recogn
 publishedDateTime: 2020-01-13T11:55:00Z
 webUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
@@ -17,28 +17,16 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
-    width: 620
-    height: 500
-    title: "what3words and Speechmatics launch speech recognition and post-processing API"
-
 related:
   - title: "Facebook releases low-latency online speech recognition framework"
     excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
     publishedDateTime: 2020-01-13T17:32:00Z
     webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
-    ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
+    quality: 49
   - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
     excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
     publishedDateTime: 2020-01-16T00:00:00Z
@@ -47,12 +35,17 @@ related:
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 54
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-        width: 849
-        height: 565
+    quality: 34
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
+    publishedDateTime: 2020-01-16T03:17:00Z
+    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "bdgRiKIDSuZ4l69vKDutRnacYMDmvD+IBUD3Me1uUlh2KasAxamyMFpmICP7w1TruNTULa6/2M+XXzRUkw1Wdj/3t1wGmmaOYowP1UBp2Fw4OC0LOji6TPae4LXG9uYxQptIul1AaZlfWKQU3HXVDbqBRGVOm2GK89YS+yNPOqyVaJE4u8VaupfQg1j4pD6jHivwqEtR5+CxpFDXgSO/SeLFwOx+QF1154qwwQqO7i4275OXFaKvZqBHwN93rr2pZQvB5KvEzPxj5mPKe4c0VnlZrpT3O1OiHB8vMAKRK9cNwFYEl6clLhnq9Rav/pkQ;6ZSd5CRY9LHrDATlUPDPpQ=="
+secured: "Yi3dBQVhxSZ//o9nIzvj8hKfH+J17b6nC/Yy2s/F+JefqmLmEvAy7HQiIWCL/b5XW+O9MDmoWVTV7PWzENzBLAZktpWw2eu8JESDNN/tpQoiN3T7ONRlZzCKmtYZcCpYmubRDEPTBFekTPuEognovaHnkpSUjOSudrT6rqu+qnaCa0/skH5r699zsKEV91BYtX8hspzk8XNcgj/jWqdxb95b7rEyovMZNWlJ9CGpvZ7xNNZEsITGROUjGACvzLAHfDQ1Gid203kZxgZjJB6m2anpmqJlfT5EtkHTE4Xu8eieBQOHcqcD9l/ZsOjTgRHD;bKDcejzP5pI8wI0RcSgWgA=="
 ---
 

@@ -4,12 +4,10 @@ title: "New AI dog trainer uses computer vision and a treat launcher"
 excerpt: "Dog training generally requires a human dog trainer, but what if it didn't and delivered better results? That's the promise of a startup called Companion Labs that has unveiled its first AI ..."
 publishedDateTime: 2020-01-16T19:36:00Z
 webUrl: "https://www.cnet.com/news/new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher/"
 type: article
-quality: 104
-heat: 104
-published: true
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: CNET
@@ -23,12 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://cnet1.cbsistatic.com/img/fWHvXXNhn2vuzxeOrGZW83vxgMM=/2020/01/16/54bce4bf-92df-44da-bf91-3e172ee7f65e/sf-pcs-image.png"
-    width: 1200
-    height: 674
-    title: "New AI dog trainer uses computer vision and a treat launcher"
-
-secured: "Y7EZyPwpJ3F7AH7KHKJ1GGiqWEpBNoF2s+Ja76UyKCMm5m1Jj2dn+w63l4RMQw5UbAXIRs74BT8yoK238GTdnDwJhehdnqIbT7iF0pHSM0hA2f3US2GFWm4PVMsGKz7U/7O6YFK5L7C2S7taLkVo2xXLaEHSkbhiVNML1SP3JBYOm2dqJ1MPtD+JY0EJeTRVk/31OYsBo4/vPIUKZZftbxZoFYjdMrOZjkNuW63qCtKobe17GNh6CLJdKyafOzP0xoJzn+ZpdOxZ23/kJeKa2eXAvuJYaCeZz/qBlBiVef/Py5+guuxC//ieLjeBy9HD;gEnbzdsAxGui/T3QqglFDQ=="
+secured: "9awD+rCV1Ie/uNP2sR2pV4dgolTHGZh+hgdRg8EoexieOvCSe/phitPno04x7GmyWeDmTH5p/i/OhFID9sWsbRC9kZHBpZ85jEp5YzKC4VzDTmGjL3l/QlgoA+V7dyyfokWMCyOfpl+XOU1v7YoNp1WouQ8PlZb0seHXtwKJWP9Z3jJacYCtxh4kbef15MZPurnqvRyfVWuzHUUrbwb6VG9I43hWQy7LP61lrb6iWLt0JUIml/dZv5gnMVWssKCb4hgq7pQj4D0bisOr7h1uIHqM5gfnYm9uebLWi0a4Y3wuVqhEzdy3+ZJ+zk90TDR6;8ZqmZBKCTqZ2ul4RNrXhig=="
 ---
 

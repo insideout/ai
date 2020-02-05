@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-hunt-for-security-flaws
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -110,6 +110,15 @@ related:
       - url: "https://nmgprod.s3.amazonaws.com/media/files/a1/bd/a1bda8354a4cc5b99751ce3b0f639642/cover_image.jpg.640x360_q85_crop.jpg"
         width: 640
         height: 360
+  - title: "The man who invented the self-driving car (in 1986)"
+    excerpt: "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ..."
+    publishedDateTime: 2020-02-02T17:32:00Z
+    webUrl: "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 4
 
 secured: "SlUt5nCd0vkoxQvW8b1QzRWXm1deptGp8MnkrI/Xhf4zQXiViJpXNZaBS8UmYAvOUsvUxikpPxDwAZ5ZwvcKwVfpXXX77b9S2FUMQoNn5YDA05bLUJMxREEq5/xipCqAfauZhdih92UO6dL+E0WJNMYD+wQLussvSJnT6uP6LPAv3cl5LpVtWc3biYVCQTSKDUX6NuJ/rgFo23NvqYADRyeboLVYCFd+DmZdoJr5VZDbK8x9VYMlbj8Ia0UFwjSBkm/BoRT8isSoXKw5zcgUcuyChLy5V/VVF2SYpsPnQWMQ61W2VFIYmxuul5pnWk09fAkcBHQW8ovHrLcJdCIztuEoUcC5wsSt3XueZtVQqVzeYmoVuEhl6hbMQgWRdK7m1bNV+skWjudM4XEjWSVC/cSmvW6poSlmxUDXx96nnY0LK+GeKv7pfoXQMN7sVPj/XtuCr1QOTn3xaN40CEiSCM7A3HZPPvLfZd/9jw8PqPk=;D3WIKfFBf5kmvLQAlGfzRQ=="
 ---

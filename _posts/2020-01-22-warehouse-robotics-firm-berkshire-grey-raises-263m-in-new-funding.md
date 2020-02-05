@@ -35,21 +35,6 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 69
-  - title: "This robotics company's $263 million funding round points toward growth in Pittsburgh"
-    excerpt: "Berkshire Grey, which creates robotics and artificial intelligence for retail, and ecommerce fulfillment operations, has a research and development office on Pittsburgh's North Side. The company said in a news release that the funding will go towards global expansion, acquisitions and team growth, and Pete Blair, vice president of marketing for ..."
-    publishedDateTime: 2020-01-21T18:45:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.html"
-    ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 67
-    images:
-      - url: "https://media.bizj.us/view/img/11584227/bg-robot-knuckle*600xx3240-2160-300-0.jpg"
-        width: 600
-        height: 400
 
 secured: "6fWoLDxFevm7ImNNw3q+A85AVegswsbxy560IRDUw7JVWoVelkB2rSlXIy9s6gdq19mjYtA6q7iey+uC/EPZ4ZsfMKm/2Q68yjZEhtPj7Dc3/tppMiYUIWj8+lcsFUC5tp2J0pM0BvEOo6NvY1upT8SnI+Sb0a09Wzq0yNDjzePuPVA9DPD5YKFEfC/161mCcDeT/n5UnFCKMhZKqLQ8qhclSgZbnYS64ZLr8xjLApRXtw4ZyPZIapqW1hRirVyM2AM3LyKFXS+z6o7ztWKAZkYKOuGfiG1DDXGDsS9TK0vRksm+NZKbj33SiMYtQ/6yEJAaj4Xfb0XmW3cfBCyWYr1iw5/0WUaka3OdJH/mNYfGkYw9yKGUghmdFW4kmD3Wz9P0WZByLUCsA0zEDXHhLJi+7qQuOQXHFhzx+r/F9ewMeKSasjbUGj1NC079w1Wc7+ogNPvoRfPUEo3YVRvNpg==;jUNa+706TNPZh/kDbps8EQ=="
 ---

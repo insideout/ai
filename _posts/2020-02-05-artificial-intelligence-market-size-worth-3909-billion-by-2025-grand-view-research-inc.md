@@ -37,6 +37,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence in Agriculture Market Expected to Grow in Value Over the Coming Years, with a CAGR of 38.3% - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application, Geographical Outlook - Global Industry Analysis and Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's ..."
+    publishedDateTime: 2020-02-05T09:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200205005339/en/Global-Artificial-Intelligence-Agriculture-Market-Expected-Grow"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20200205005339/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "O9nv5fYqpQuMpGIkNUaGFsuVUaa6ShHr1LBExuqiamKQSXDGUf45NV0m2ah77BhP/QxtzyWYq2Vwvj7Eu3gYL8hxVPUT9ns3P+SpWnQyU/8E+scqqMR6+5Q3gS9rs5CsbnDAtdscZFXwlqpcQv6L+EW5K0KY51Z6NiA3nOwnaF9728r50FIK3B2sU+TgD0QckpfLXI8oTTuQxUGXDEzw4MMaFJeiu4hNGKC++LBptFlyWt8DevllSGc8nQKMQSwzYWgcG6dkkkwxCPDtBB/LYFyHMW2/DNWypwMpXBnwzXMCinMs/VNO4yZ3GyR4hu9v2HqjjktG1i1jMVakZ+pm21gB6kGjetUB5mlkiww695FfW0A1pjVfZ+ZjKQjxAMskZkpinFckBINNm1XfopfafiYLYmALMfhJp/BnRqy8ydqZteQSZtw9g00ustu/r6SwWQ6wYGBnA6UQgnmAdwYQOgO+7wpxZsnN9d8DlIXcwTY=;0mkj4Wjp0VURYWT7UXRkTg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T13:57:00Z
 webUrl: "https://www.technologyreview.com/f/615078/facebook-has-trained-an-ai-to-navigate-without-needing-a-map/"
 type: article
 quality: 137
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -23,21 +23,6 @@ images:
     title: "Facebook has trained an AI to navigate without needing a map"
 
 related:
-  - title: "Facebook speeds up AI training by culling the weak"
-    excerpt: "It’s part of the company’s new focus on “embodied AI,” meaning machine learning systems that interact intelligently with their surroundings. That could mean lots of things — responding to a voice command using conversational context, for instance, but also more subtle things like a robot knowing it has entered the wrong room of a house."
-    publishedDateTime: 2020-01-21T18:40:00Z
-    webUrl: "https://techcrunch.com/2020/01/21/facebook-speeds-up-ai-training-by-culling-the-weak/"
-    ampWebUrl: "https://techcrunch.com/2020/01/21/facebook-speeds-up-ai-training-by-culling-the-weak/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/21/facebook-speeds-up-ai-training-by-culling-the-weak/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-950523108.jpg?w=1024"
-        width: 1024
-        height: 672
   - title: "Facebook's new robot AI can get around efficiently without using a map"
     excerpt: "A new algorithm could lead to safer and more efficient bots. It's already possible for robots to navigate without maps, but having them navigate well is another matter. You don't want them to waste time backtracking, let alone fall down if they bump into an unexpected obstacle. Facebook might have a solution. It recently developed a distributed ..."
     publishedDateTime: 2020-01-22T09:45:00Z

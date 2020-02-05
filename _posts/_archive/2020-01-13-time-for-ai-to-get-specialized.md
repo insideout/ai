@@ -5,8 +5,8 @@ excerpt: "Despite the prominence of the NNP range, Intel is still pitching GPUs 
 publishedDateTime: 2020-01-13T16:26:00Z
 webUrl: "https://www.datacenterdynamics.com/en/analysis/time-ai-get-specialized/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI Hardware
 
-images:
-  - url: "https://media.datacenterdynamics.com/media/images/Intel-NNP-T-Mezzanine-card-3.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
-    title: "Time for AI to get specialized?"
-
-secured: "+hraEelen3gRcINtOUzKyR3uldPHfiCcElE9HQKJ9tXkN7HRmayQjohDTJQqVFJ4ZfEDiCPRd/kTxcZ0pC5xh+F9BGb11VPFBA2HjF+/a8M1uH2WKZ7ss7PsBGDaom3FSq/rn/tsNps0XdIZ5FWFT9kQIP5Bb9jOSZklF49o1YigPw03HMeC1w4e9/VF7FW6+5a6r/lNimnPpGZYOqwXF+1WfM9G25gje/pY/CHDmucmuocQhyfwWk/L/bVqAH+YhgAIGduARlU0+Q85r5APIVqw0AYpEQh+pmxedH9YtrWARLX+d+IV8EB1VH7h7IYM;QdR/MtZWvjlx2XB3jUO0ig=="
+secured: "GLgd3lNe26oCHJn3Q9OLtMaFx0As8aweQfJnaVUf3/yNsj+mSoMpfJQrhQbEHLNYSyZNPtT35JycHN5RKi9GNQPOO4QJ3yF0DtOz/d7vPISJrRGmqG+cUdcUKb3Iz65V4aQncIRs+uLlRacGPseOuaB+57DwqSEUENCD7ZDhUnUg7+tD4rz6VAOT4F+zUYDSSxzM7ug7dDSWeh9RpxDs+fn4wOkoqNKCVhh4bYL+ESS3uJgRG/LczuEu1ob06G1qw/irFZX8lSTbu1nwoNBeg8nBBzl8Ul/ABJ6+ZBtDhgsBXbh84q8F8X6yeEWs9Al4G7HPx4EVkuUZmRdW/40Ar73PwkbhqrKutR8IyMtKJxOn39JHU5+8rGz0Hxq4ykie+iNCteNQKSwBZaDTljuwi0ioIbDUWULUSxBCOGWp23y7F4Mu9WzLpckUVa1jNgiiVgQn8I5MfoUYa2u2Y+8HUl0HbORDyGjlVuOqSViKDXw=;w0wjYL54yPelpw+3nIzWsA=="
 ---
 
