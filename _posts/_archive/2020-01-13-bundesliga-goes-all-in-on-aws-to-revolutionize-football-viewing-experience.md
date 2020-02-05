@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game ..."
+excerpt: "By developing a new, next-generation statistics platform on AWS, using Amazon SageMaker, a fully managed service to build, train, and deploy ML models, Bundesliga will offer fans real-time ..."
 publishedDateTime: 2020-01-13T13:28:00Z
 webUrl: "https://www.oaoa.com/news/business/article_bff64e43-c5a2-5acc-8ac2-6ada0e8d7d11.html"
 type: article
@@ -17,6 +17,6 @@ topics:
   - AI
   - AWS AI
 
-secured: "jULTsWZZkYhERAC1APHHxPljRJui0DvRwHVzsQhVSdq8Y8q2/SU8vqc2kICb9v7EpkXWNuqpKWXJ2U2UXExnoEeuip/lbkFulFWgPFLEd82LlT2rF99XQXydJdzXcdiiBAElVv4gOr5ZeoC4X+km/XTzQ1hX49lYpLFIHJvNUcOD/B7lk2ls3Fa4hml9v4iaxS1poC1qQN+F3vCNOd1qEiWTSGtQ0RrNXezFSe82AS5gGB+iiN3JPTHxK4LOgspUHKnzuZsHyNzTJ5J6lxpYq7TqJ9HCtq30ZmcdGJBdtixgPRwYfnariCRPME0B85jg;FxpIdbW0WHM3bqtNCKFQIQ=="
+secured: "zsXiTCM5S5+qOc6Ka+QxeARBd+ksYbIPv4meK5tE3ky2Fm1YP1mrqUjyl7g1QVfpJyNEUfl3yACy4xbGt5XvxFMAieg/Lqp0ah9B+9ZtXr6fn3Tv+drdD1hhGxu8ktI7J5GbLMxlXdenl5YBSYXvPfEWaC3R3j913B3M8WjNEwLis0KZSYweIRkcXntEtuRIwn+H48QaM/kZ9hBMIfdXl1AZ5iGm0O1rGeVLQe3ABbi18DvN5kmmTgEUvAgp/APg02P8ELnqiSPBQS4Es31m3WMRnDiX4YSu+FBkcozbTR3fjt5skq4zJOAD+NtysR5y;6ATzNbWMZriZk25J5jyVtg=="
 ---
 

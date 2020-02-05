@@ -3,12 +3,10 @@ category: news
 title: "A Silicon Valley startup is developing 'digital' drugs to buck up US troops in space — and spot trouble"
 excerpt: "The technology keeps a record of the user's emotional changes and will eventually be able to mine text messages and facial expressions."
 publishedDateTime: 2020-02-04T17:09:00Z
-webUrl: "https://www.businessinsider.com/start-up-developing-digital-drugs-boost-us-troops-in-space-2020-1/"
-ampWebUrl: "https://www.businessinsider.com/start-up-developing-digital-drugs-boost-us-troops-in-space-2020-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/start-up-developing-digital-drugs-boost-us-troops-in-space-2020-1?amp"
+webUrl: "https://www.businessinsider.com/start-up-developing-digital-drugs-boost-us-troops-in-space-2020-1"
 type: article
-quality: 56
-heat: 56
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://i.insider.com/5e27494362fa8101937843a7?width=1200&format=jpeg"
-    width: 786
-    height: 393
-    title: "A Silicon Valley startup is developing 'digital' drugs to buck up US troops in space — and spot trouble"
-
-secured: "ttazYtINjEXH16pWDz8brnwt4sl7VBU7Mo3u8p7I/3pJl59UTLGfXSpy2zXtfKxncZTHQZoLKYRRRd+8BC0Srg9m/5dm+tl9P4U5Ox/OevL8pR6nFtKInfmv80OKe+wyNxAoh2zQqWjicuzQ/bAJvY/Iz7wVT2NZC3O2W23ILivZ838Yj6e7hjvpaq2roL7wGr0YFfAo9xfifhfC8ndjk0WCgwTbTvONgxT9k0DsqMuFxKDOHZ9l2+z0LWXzhVs4I6sKtOb9YZBNFltSm2KGOdCCFBFfO4mFsVC4E4RWGp00qH0JCpBYrAdqS0yPWfoJ;0N5Vs+4BO7MGMPkZZhzpYQ=="
+secured: "SMcA3GiWL4JryjHgkmi2WfVaXaRKx9u+dKjOT7cJV7orlfqhPLjev8lsVZwW8VF8LWD1klawoED6FUts5LBOnDjOBvCN153PTVD94LeL8+dtetrVMoNkxSnV4NEKLovNDCbjYg08zn6cbA290kbXVZxVYG+j8ugy5rE01HG1w9wsWeJvJh5bX2nVXc8H5cz03+joeCIwGQPbWsO+2mYtd3yAm5fMknhOSHuarZGaih2HmO5TQO7v6arHNZ+f53rNr3wdN8bd0dFI0+w1FxPdehs8Me1rqD9e/Xlvklxw3cLrK5PuRyVDAOVX7d8wF1gjEuzT5vJLTRz4e0OEgGNbDHEmf4ycBqM2lSHz5A9wMfN5CjS+4ZAtVyAyBX7jTNpY2lpdi9aQ7J8qU6V+EMlVqeCPfLXHDZvsaoTEU//bS1XPxkNr6SC2/JCYQmgL6B2EvmyA1uCJ2wYuvJzTpGU8vhY0CYveY0iOz/68LUDJei8=;ypIfJcgihc0iRzti+LLHuQ=="
 ---
 

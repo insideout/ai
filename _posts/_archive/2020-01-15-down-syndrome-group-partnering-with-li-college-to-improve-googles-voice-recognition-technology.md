@@ -4,11 +4,9 @@ title: "Down Syndrome Group Partnering With L.I. College To Improve Google’s V
 excerpt: "ROCKVILLE CENTRE, N.Y. (CBSNewYork) — Some Long Islanders are helping to teach Google how to better understand them. They’re people with speech differences and they’re helping improve the ..."
 publishedDateTime: 2020-01-15T00:08:00Z
 webUrl: "https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/"
-ampWebUrl: "https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/"
-cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/"
 type: article
-quality: 11
-heat: 11
+quality: 0
+heat: 0
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "ccn4HvuzZgFI782jwpNtN3h57CD+Ws4pbAsgNBPwH7h0Sb+kuEy41tY7vRFBz5xkYPJwuiVXxp/NhV/BdQJCfSulmhnta1DqHREGtr6qhixkqdjvWE9QzrQOcCht7PlKiHrOWZXvmsW8DO+snYR/IQA7nWWT1AynilgRGhKCeALdAD7Z8WAuBG+9wMmlezH8mlOYtbRR2IzJrSID5jNTc0K9cRNEPltWq5Hajf6/Oiql/SjmPDWtUalRm6KbTzPDcgegNuAYmPEXYuVJgSPSZvElAwgktdD92qFfsIenu8FSs/o5CFz4hJPXdQrAiSC2;TvifyyBF8KSMLeVknWYYhA=="
+secured: "1XBBuJITN5DBYmSjpWo0jyrfRHJMrwkswlCmWAelEcy/8iG824TUDj5aFBR2YN9XZyipCk7Als3V3TqtmdLsAWQodj+p33HoQGg//EhiH7JkxE73hGy5QWzGwfGqUnqcAA8aAcbHE/OSBS3cfu6vKT2Ug5on6ZZWm9ZTZXKZHLcT4d0an9wXQliBOm8j5RBUlVnwf4FnGJsIbFLeMx1jkFjJvIuueHw5e6NRtovT0f3ZP6hEijII7SJGLRpOshVjFXIa1ghDUxiQLSm44OramfRGftZRMoS9cgNkCPDWvCjW44uvD1WQkDPvRia36XB+;vNzcWIANjsCowsB+wgwKow=="
 ---
 

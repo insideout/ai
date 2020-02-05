@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/11-exciting-healthcare-startups-in-e
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp"
 type: article
 quality: 101
-heat: 101
+heat: 102
 published: true
 
 provider:
@@ -31,6 +31,6 @@ images:
     height: 500
     title: "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe"
 
-secured: "/78MHB881qpEh9ua1UoMb15dlsaXu1oOCUUCYqSb6QT7VwLh3APq9zkMbOr+Fa7mPAdA0nBxaIlWNBT5vo3aeO59TS2xXvA5bkEHcpvvAuXaTFE1sRpDKHHmaymRGNIRHSETRotTydONcfv1hif3GJUShirJLCr8hhIpnJ2PuHyn68rzPVnC+rf5HREO8lVoPVwSdSlIdO2+eJCQL0Te/iZf8iMM+r1rp6fCVU7Gi/rIiLY0MorhDnBb1H5icmCzP1yiHFauWtW58cns1VNbzgK6UjTC13R7GJSK2gn+hHwxQpk8UGjk6YthlkG/23PRrCuQRNDeKtqg+HzAF2lHsY81Aunnjl5YM708XwK8HRnfqEqydAfL0o5d3kRlF2xisbqyG26Ds7AQ2PFiz7QfB3EqHK3uCLDWuCjm3xOcecG0D268OZZwv0FAX81ZZ8PDjZeS1xymlRrgn5p8aj3UB+2PRUUzVEUl1zxI/mCvPPw=;oUqvrQNsVHWPp9tBEsxIpw=="
+secured: "WlGcFLbdMZyRZBYHfQPpF2dYUivDqW1ljL5tJgHagXMkTvVaOJXnTW7nVvj2Tcp0OC4ACjlpm7ZM0Jw7ghFKKLTwlSf4Yw6bm9q3ZSpZlfYtC2cX4M6HpkghbUXGs3rJQMb+8aTqaL2xoolLj3cMotCKuGGEHqEDLkNypSNEZ974k5gdghS8m+4cPhxLTas6zFpK+Majh6rc39rlXV/csCan16R4ZRiGs12HQbWRsV8pQfzcYG4N8UIANF7Ya6uEwHKPiAoranlEruEcHGuN7pvDH3W/tO0TiVphQs1z10ZQhcVwxUn8KTEKqQQaArB/XSMc3GZFE2x5RZoIa4IT1b3CfWVGR20MTBc9nWxugjj1zY044kLi1tYjRhitcDrGwY8BEASkuWbUITjuO8Ir7GwPEUn+HwuyE4aV8ksVRtQDq6d/q2YB49FtVWW/Xv4yT1cxFHRA2RILeJzArLlibxd8yINITJBOJRN0xetoc4Y=;qsdQyJQDOp2hy4dlRgFJPQ=="
 ---
 

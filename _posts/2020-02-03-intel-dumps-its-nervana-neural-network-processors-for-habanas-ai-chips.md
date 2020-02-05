@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T01:25:00Z
 webUrl: "https://siliconangle.com/2020/02/02/intel-dumps-nervana-neural-network-processors-habanas-ai-chips/"
 type: article
 quality: 71
-heat: 144
+heat: 141
 published: true
 
 provider:

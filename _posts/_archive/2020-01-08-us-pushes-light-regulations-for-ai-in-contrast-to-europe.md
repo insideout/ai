@@ -4,11 +4,9 @@ title: "U.S. pushes light regulations for AI, in contrast to Europe"
 excerpt: "The guidelines encourage driverless-car manufacturers to submit ... on von der Leyen’s promise to initiate legislation on artificial intelligence within her first 100 days in office, a pledge ..."
 publishedDateTime: 2020-01-08T20:11:00Z
 webUrl: "https://www.politico.com/news/2020/01/08/self-driving-cars-regulation-096267"
-ampWebUrl: "https://www.politico.com/amp/news/2020/01/08/self-driving-cars-regulation-096267"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/01/08/self-driving-cars-regulation-096267"
 type: article
-quality: 59
-heat: 59
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://static.politico.com/5c/9a/a64977ab4a5a90fab5c618940a09/webp.net-resizeimage%20(20).jpg"
-    width: 1160
-    height: 773
-    title: "U.S. pushes light regulations for AI, in contrast to Europe"
-
-secured: "M1WatfejW7IglTid4E+dEnc/kaMiYqOF6jOBzdBR07nLSd30WY4NC2d28p8jfLmEvPxDu+d6oCFmDdkSOPdt6GVyBufVIh3fycYBmhTsbSZC13JFI+DZV8Uym8jdMjscGQ6bajr4Wstmqvm9XwMWSnnI2IIu+vTwQFDRHVrzogP1JdHclCH18Jwd/Rsv3ERf/5gD88ahuw+EgCF1qioT/he46KDoS4/ygro/Vavmaaj40tuk7sR0OPl5b74siytTP8FM8iSHf+6/3fJRYdFgRoCZyh+6xlPUDdDhWZuX+KjBJMw+i5zxtMjUwU2S6FTY;JuVlNkxHeoDaLCrRWEqi8w=="
+secured: "IT+BJ0axJ5V9tQYAqHTElF/EwHSrHfdQdnIGlPFqyTqqse7j4B0wo2uh7Rpr4jABtfrZQRpRJS9HabUJR2xlNv/H+5hcsGNhgQYkEE77qvD2ecZg0fBRsEV1kfuANB/XkxC/fNEJUdxH5EESkQvUg2gBMZRbbnKbbdnWZVcuXcQtoxPAqGE9l6uPerFakR5BXWO4jkVe2U+msTj+adGtXRDEdqzwtn+mzEP5wI0T2Rnv2+ScWDZoV0tT+umtQfrQGxnHbrdUHFQ1irM3GxKZ65obzPetwIgYXj3C3g4/5umO3LO1WD2bAFKIxWkZ4TIc;nei+XzDmoaRrpBGkmNf8ng=="
 ---
 

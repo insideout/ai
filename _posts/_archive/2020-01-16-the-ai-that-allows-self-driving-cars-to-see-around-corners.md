@@ -4,10 +4,8 @@ title: "The AI that allows self-driving cars to ‘see’ around corners"
 excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards."
 publishedDateTime: 2020-01-16T15:04:00Z
 webUrl: "https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/"
-ampWebUrl: "https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/"
-cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg"
-    width: 2501
-    height: 1563
-    title: "The AI that allows self-driving cars to ‘see’ around corners"
 
 related:
   - title: "There's nowhere to hide anymore: This AI can see around corners"
@@ -42,6 +34,6 @@ related:
         width: 756
         height: 567
 
-secured: "dbLoFHeokauAYEZqA2IXqeimLzc8zerC6tb5Zm6J0JV9PynNBcK3rWWuXmc75iDTNImlJJdmIgQVl8VDBLp4AKCZbrNniAJmn2JUFFs4ivN1q3RXDueTRCROjwrHVonlHlsZ3mY0UraOeizawM0C2jQgGVNh2rX6+W7DoEujhVAIwxauIXiKvYbx9SToC7O8VazToFh568vbTrvG1ZrBwXIq+bOpozRkBhNKUuuvrm0mfvxSkwItGEqZuJgzIDw2hBFvtDzOdvYueaz/jxf6c5hkU3AaJETUAtcNohat3ghxhQ0Q9WQSvk8zOS7pYtjp;5uC0WozmzQEcVDS+b792Pg=="
+secured: "cNzEyfnwtHW2mnOLjsL+vnpJD8MkOxZoFhJL2w3indDQY0daCLWyIV8S2xm3/y/nkA4Uglolm8EC+sXsTzAqtyX78+FWEhFxQ2muzf7MKdqyRbhAl3Ev1yPrXZ6zmgYXf0pIym7GUzLLcdSr28ZPgodjSOu72TMorCOLdlRNcVfvaSB0fl8u0VtbxSvmNSwUM3kAjv6W+IdN62drzhLh+tCB8BHhBI9ySYEcZYNCKBSxOJ8V+PEXLDUku0JgFPdUfiA20FRtRewziuun12PbLfUAWaS4r012NBy9vohLcBRsLJjO6QhBh/0eoREoc9vX;iK1AgkTSpyMy79030wJN8Q=="
 ---
 

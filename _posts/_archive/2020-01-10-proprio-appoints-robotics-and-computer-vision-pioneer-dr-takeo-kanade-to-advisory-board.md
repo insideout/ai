@@ -5,8 +5,8 @@ excerpt: "One of the world's foremost researchers in computer vision and robotic
 publishedDateTime: 2020-01-10T04:06:00Z
 webUrl: "https://www.goskagit.com/news/state/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade/article_aa0397dd-0bf2-5c5a-848e-6e24fb198e88.html"
 type: article
-quality: 30
-heat: 30
+quality: 10
+heat: 10
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/8f3b12be-9da9-11e9-8404-e7351fb3b355.png"
-    width: 1024
-    height: 500
-    title: "Proprio Appoints Robotics and Computer Vision Pioneer Dr. Takeo Kanade to Advisory Board"
-
-secured: "efkZoVGIAZRMPRm5zMSlMATmGxDvlu2mv2XY4Ir4lTWUIPkJSIgxorY6wQpC5tUR49QPNfAqUKMvoInAd6v5zt7mKXL1QffXjvLlxm9SI7zeDESstmv3LkWfXUXMt98AV+X3V80LLbnyfP2yweB/g10/siycrqIjlBVvJSWpVM3oUmKuqzravYoKuMD7FCDjj0oYPFLBLIi1Aq+Uupl8p/XqHkE61fHB0RbpEZ0vSpyoe4EugdzWSDIiFqDncVPv09sPbepKzr/uL8VSD7Y836RS+thk2AO162spQIRFc+ncTVMJ0Mc/3O8DxLpzU9Ls;0pogucbt+k8UiOpyduYjyg=="
+secured: "pLh75O/iBM2lduSrvNm6GfqPWU9HaPIdljgjUJk2kzpxa4Xv/NFumv4b+YfbtZnSPK4NcEBm7IVJZPVoblibnFVczr28m3ILh2i0ODzTm2P9RNAM/UW18hozK2ce9f0ccVOcrSnietUjazdPJOROISozn9HQ8U4RS5iRxSZkjMX1VLVrBE/A4Kl9JoLIP20rWV7nRnTr6Yvs8uA+wqEu7P8YeYmfoCDin/bJxnObwFckDzbcPS9mex9SxPqs4+Cz+NjZpQ5Vq34/ZQF83UYz4KcRMS8osq1IpHJywa8Ydv+R51Kd0aYfpqIOKxACwqs4;/G+AYijtfainqPviuLLaIw=="
 ---
 

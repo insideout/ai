@@ -4,11 +4,9 @@ title: "New Tech Lets You Test Your Blood Sugar Without Needles"
 excerpt: "“Precision Medicine and Artificial Intelligence: A Pilot Study on Deep ... she works towards her masters in marriage and family therapy and art therapy. In a past life, she worked as the patient ..."
 publishedDateTime: 2020-01-16T21:44:00Z
 webUrl: "https://www.healthcentral.com/article/new-glucose-monitoring-device-for-diabetes"
-ampWebUrl: "https://www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
-cdnAmpWebUrl: "https://www-healthcentral-com.cdn.ampproject.org/c/s/www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: -1
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://images.ctfassets.net/yixw23k2v6vo/6HWebXmG36CblFmUEiDiQi/09577f3ff78807e49ae9e3212fed07d7/iStock-1175717080.jpg"
-    width: 1254
-    height: 836
-    title: "New Tech Lets You Test Your Blood Sugar Without Needles"
-
 related:
   - title: "Sensors and AI spot low blood sugar without needles"
     excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... data would not give the same results. Personalized therapy based on the new system could be more effective ..."
@@ -34,12 +26,8 @@ related:
     provider:
       name: Futurity News
       domain: futurity.org
-    quality: 39
-    images:
-      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/01/blood-sugar-test-artificial-intelligence-wearable-sensors_1600.jpg"
-        width: 1600
-        height: 915
+    quality: 19
 
-secured: "S4XfyPc1cXS68ElvLHOGnEBVC7aQLyXGdaqvW+4sGYukJGJ9n4MHJyLgUDioKCZnMDVd/3hSzv7S2yLAE/9eQ4A2HdeCyEj0Dvo/TSDb6edo+lZ5bBkmYbM3xS3FQ+63UD6msN0m1Zzr9M6QlKaKmOpyugvtURYkP/5KE5KP6qotkdM2vtRf+agNKRMmK9Duvw4RBFEOguw5szddHP1gKpLX7GDcsCcekcFahlQjx6hAQSquXBcoWG5PfGFc2JIOg9+025KeVWVgLNMoLY4oSeKOCU/+Uz1SVOS7ceyu1k1rBYH75clFs540QYTyWgSj;1uM75FwfW1zm+5FRv9fFAA=="
+secured: "e1GM3th/AB9iRnKUGkmphdgYA4k6pe10HKF85TtgX9O9hgCf/xvVIU1rpdVcGmhXzpPwwsnN3oS93PGH6v0DJh2FnKSAo/1FAu7vqiZVDL3WlR7UEWia9bxkDHdFmSLQNLaPOWkdlEYpbZObiDruXg09ZJVXVP/ZRYAK/gdEV2agQNQ1M6YwB1fHrB+SkTZ6eL4xvtW9PkQlPXm3jyMUA+6M/lXJ+26oaHj1HuGt7+u075INYfyF4pDzCLfMScWtR4WNrP+/jr88otgxT4cS2xuRehfDvd3+rowGDIlCsh5GwF/JrA9wWhvjVfaAjF06;cSX3dBTN1drcSBBAOHpQqg=="
 ---
 

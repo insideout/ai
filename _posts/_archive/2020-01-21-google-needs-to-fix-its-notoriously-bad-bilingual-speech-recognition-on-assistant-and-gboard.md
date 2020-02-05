@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Google needs to fix its notoriously bad bilingual speech recognition on Assistant and Gboard"
-excerpt: "Speech recognition has consistently gotten better over the years, which has allowed impressive sci-fi tech like smart speakers to enter our homes. There's one department where Google needs to step up its game, though: multilingual speakers are having a hard time using more than one language on any Google product. While there are a lot of people ..."
+excerpt: "Speech recognition has consistently gotten better over the years, which has allowed impressive sci-fi tech like smart speakers to enter our homes. There's one department where Google needs to step up its game, though: multilingual speakers are having a ..."
 publishedDateTime: 2020-01-21T06:57:00Z
 webUrl: "https://www.androidpolice.com/2020/01/20/google-bad-bilingual-speech-recognition/"
 ampWebUrl: "https://www.androidpolice.com/2020/01/20/google-bad-bilingual-speech-recognition/?amp"
@@ -42,6 +42,6 @@ related:
         width: 668
         height: 376
 
-secured: "nHLB/sih4PsAAkc2wHzKwOfexw/UOleA3UZZFz17Hn2hs/6rZhzDmcFDIZlIJMtj3qFaAwq8hHA1axdywIQpMmLkEndAvtWiNMMyGfoGzpKbMEF5zAbEyPfEN/AM8VWg8lXF6aaulC02GRrnNFat1TqC8OLYm46FevwVXPmhkTommLE0VF5+S5TkAhPDZEL3mN8xs4BvGPXSWGXQjm7XYGp7hfxxPltgP7hqi2WwgxMuNEjEQbEsSjLXZ0S8nzJ774bBZEBwJan5GaCcehhI/Mvz6/zD72TQ/fc4WhiM7bs=;93TGewGIY/hWp/SP7KeZxw=="
+secured: "oN2peShCiGfLjKBMXON998LSwopKO+CQaxSx4B6OtwZsT6xpdm0Oox8zrdsFVXh1oMd1UOgBw9KIjNRjwPM4JTyGuTIqHB99qGlXImda8Nvka9eb7zYD6tZCfcnE3sgK5y8CKtqPuJA2TOqYKdmSQ1qye8TPsqefjAa2ojDuK1QTIYLRA7kUqraN1enNbl3Pwdw/6sM00RohxcTQ2J1hZYRTL14KCd0nwYXyaRXbCjAKHMaFBZYHnjB+4nRgZAZX+78IsirJlDj4FGyN49jdqLG/uZrrlCPNg8hp6lZC800+PJG/OCwyRdVTcvd2uVIn;TH7w90inTVq9/7w42TLSow=="
 ---
 

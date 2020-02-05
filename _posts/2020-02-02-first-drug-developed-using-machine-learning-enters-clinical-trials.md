@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/83827-first-drug-developed-using-m
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html"
 type: article
 quality: 89
-heat: 101
+heat: 99
 published: true
 
 provider:

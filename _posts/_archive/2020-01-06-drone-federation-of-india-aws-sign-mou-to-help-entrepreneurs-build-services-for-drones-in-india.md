@@ -4,11 +4,9 @@ title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build serv
 excerpt: "and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and ..."
 publishedDateTime: 2020-01-06T12:34:00Z
 webUrl: "https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services"
-ampWebUrl: "https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp"
-cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp"
 type: article
-quality: 46
-heat: 46
+quality: 6
+heat: 6
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://images.yourstory.com/cs/2/211ccaf0-0e6d-11e9-97fe-8f165dce9bb1/yourstory-EasyPilot15597911680441563520988677.png?fm=png&auto=format"
-    width: 800
-    height: 400
-    title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
-
-secured: "13Zh3T1/mtQ/vWHWTbEwyq5D97tv+mAEUILB7NhYjLWRgofimvvHQvU3lzcs4sm/1YNHZlUYSVqX3F3E9Q+8SZSLMsumYA+jxsugY4LTeAL3kixto1ewgyZg3QHp6A1ur5cG34jZaWufDS1MQAQ9i0p4Y9VzhQz8lj+F38xNuatDHYOZ5i4wSU9SlktjKysybGf+atfRDKCTmvjLJ4ydxJJgBHEIzFY9euVf5FhLCdeI8HcA2J2nPD4uDuCVO7d4+oHaOSPUuF6Gcjy5GfxK5JldreKTaCdISquDqj7sr1OjBOkXHAI3n8eGAqNRNO03;nOd1ULVXpHsJF+ziURbAYw=="
+secured: "ZUQLg65s77GivTqCIZnDryM5NJ6wb/sRuVXA4AwZDQNMRbJ4Kmah9AegKV/OmJptQeeSGFAK/GALe9pd5pFJ0RnjdlJJsCVpRLNEzqGONF6FmTnO63XwDm2FQfX18ZLPq/KUmoYk6WJt3BqE3E2mzIGVql9A1EBGX/U2EYXl6JCOSVqDcUlARKs6xVQyXkl/mvCtYTYJDV9Lp0ca80+YbxyigE0JG85b4T5jNx0hFjuYpnXVNwc3+343+Aac1K+RPSV9ITxCiQzmKg3arWnoLQ9zpTgY4TtkdYBkggmo6Ee1OBeq0y84EoZI9MNkoMxB;g3mr2SyTD+c71ASrf5aTrw=="
 ---
 

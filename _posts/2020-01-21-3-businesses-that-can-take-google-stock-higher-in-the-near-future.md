@@ -2,26 +2,28 @@
 category: news
 title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
 excerpt: "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a license to start testing driverless cars. Waymo is moving forward with plans that could be easier and more lucrative than operating robotaxi services. Specifically, the company is developing self-driving trucks. Compared with providing robotaxi services ..."
-publishedDateTime: 2020-01-21T09:55:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/3-businesses-that-can-take-google-stock-higher-in-the-near-future-1028831901"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/3-businesses-that-can-take-google-stock-higher-in-the-near-future-1028831901"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/3-businesses-that-can-take-google-stock-higher-in-the-near-future-1028831901"
+publishedDateTime: 2020-01-21T11:55:00Z
+webUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/"
+ampWebUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
 type: article
-quality: 54
-heat: 64
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/Googl_1600.jpg"
+    width: 1600
+    height: 900
+    title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
 
 related:
   - title: "Machine Learning: Automating Businesses for the Future"
@@ -38,6 +40,6 @@ related:
         width: 300
         height: 400
 
-secured: "kCottjhKTh1RRJBCKjFFmKt8UyP6XlFR5nAXMeoQHXB769n/e2sTcgfFnHMte7ojfuK4+PIPk83eFyrNDV7Z3QFeGzu2k36vg46cDpM1pif0UlBJTP9n+44/N2vOn+ceuO60ai5r6TOjuIXfmb64dH1x/AuUhTleWI3XpN7L1qC3s8nH6oDqqOh6PC3htLhe7GtYM43w9bbNVyrTm9Fs3fFSI9aZtNhdsjz/vgPReyzTkq+w2Lc5wgs1NBA1KsphhVf0DzYxljb+Q9Lo8LwyWDULZsbyK06EBop+J18aKjN8vjHzyYqPydY3R7v2AHM3CHG2zrT5/7AgoKuMJ3PjbBibJx7S3xAz8dhYCf5bsD9D91gjkTAseV2c6lG12qm6sUcc6s46BlkWO/fMIFPCxqRHFcb6RotZmmVe2fd88yS8AoJMCB6q6z4TPrLGiB4bLI3hmBZkARdCqdCFCZcnjg==;KHbsyaJjZ5hAf1WH0wK8Bg=="
+secured: "ndAlw6twXnxehc9GLNdnUmMVyQF613OOHiNBZlRsALapwbV+j4jmvfVCgxxPsi107k7xscU46ZsrGiZRJ1VwNvuSlCJ4v3uQ2tzCAOPpndZV5cB4hkAQfX2qJqb6stTFPYijMrS6+vqspyXp0tlGMe6TizS7Czjqweo8mm2VJhpi/dbsleGR4JPy/zDVHoI2lCETptHlMZA0A9TiVczLabI6lf3KEnEW2/PXMOJcUu0p9lBksYsrfWs1vPNtV/zyJBmCuXaWkwseYFUOYWhaRUW3Q/ElpGQt7VcZjq55brNN9kc7n7KCly5bxSTeF9qr;KZIyjg6z2/zVVrkbtK7Esg=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Driver profiles are stored in the cloud and Amazon Rekognition is used
 publishedDateTime: 2020-01-10T17:53:00Z
 webUrl: "https://www.geekwire.com/2020/amazon-signals-big-ambitions-automobiles-expanded-presence-ces/"
 type: article
-quality: 52
-heat: 52
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://cdn.geekwire.com/wp-content/uploads/2020/01/20200107_CES_173-2-1260x709.jpg"
-    width: 1260
-    height: 709
-    title: "Amazon signals big ambitions for automobiles with expanded presence at CES"
-
-secured: "Yy5MhN0Kg6B5nFtsf7Ypy3eGg8EqIvDwQdThJwx0gTta0s4ZcfX7qn5uW0kLxZd/PoehTEtcGCB+cIkrCW2G+pA86AZS9m4wifWBzNfAMTqFb5bPaqAbgfMo0X6fWkKIfiTIbIyJ64BS6+/EUXdg8Vu9Vg4JTRocVFEOGvmL9HorcX6XbZzY77mP97bW27+C5njMald4zAbNuT1Viw+PlFwxxvWKzohD0LZerGKYErG3epZEgjXSZJ2owcFHhKopb3PpjH6qGpp1rDaofHRAASz2vGGkwTL5ydR97RLKCAJl/JbLE5lwRnAZ5zwZrvo4;JDYAf9MkEso0B+D07txSaA=="
+secured: "5b57P1sb/Cm2RqxUBP9nfKEQNSl2nof+JPQbm6bbHCpuea1zaY4P8L5QZJrRm4SFgz5JRMSzV9XGkFpm/HpKWb6GLDWIxwgjAOeVajurukUufBcZTM6YUsDNOEEns2mcvSVzbYoWPutggkHaaI347Xw58sn8VvdHEgq0Bzecomuk2rYwEax2CMiTW66dJYrkOKNaPR5no4LRNUZjKY+8UrMevk4fYqdhLXkYV+R8c4jJAqqR/JaXJCac30ekWxy3y/FTeUsj+gVpD49hBXPZ6IIpBDgRKm3D5DWTzo4HeVKtSiBoVn6Alnpo1BJFnXTa;SahwzlOJDc07Nl8L5M3gWg=="
 ---
 

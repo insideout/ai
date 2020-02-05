@@ -26,19 +26,32 @@ images:
     title: "Budget 2020: Govt bets on AI, data analytics and quantum computing"
 
 related:
-  - title: "Why 5G, AI and IoT combo will be so powerful for data analytics"
-    excerpt: "Combining 5G, AI, and IoT will help companies collect more data, analyze it more quickly, make more accurate predictions, and rapidly take action. Foldable future: How Microsoft hopes to define a new hardware category with Surface Neo and Duo 10:37 Why Apple's iPhone 11 may not excite businesses, but expanded focus on health data should 5:35 ..."
-    publishedDateTime: 2020-02-03T23:07:00Z
-    webUrl: "https://www.techrepublic.com/videos/why-5g-ai-iot-combo-will-be-so-powerful-for-data-analytics/"
+  - title: "Advantages of Machine Learning and Data Analytics Courses"
+    excerpt: "Advantages of Machine Learning and Data Analytics Courses: Considering that the data enormity is consistently on the rise, the urgent need to figure out such methods that can help to gain valuable insights on the same can be felt. As a result, the demand for professionals with adequate data science skills cannot be neglected. There is no ..."
+    publishedDateTime: 2020-01-28T07:30:00Z
+    webUrl: "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/"
+    ampWebUrl: "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/"
+    cdnAmpWebUrl: "https://www-newznew-com.cdn.ampproject.org/c/s/www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: seat
+      domain: newznew.com
+    quality: 59
     images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/02/03/ec657806-e8cc-4b44-9b4e-2b9f1eb7583c/thumbnail/770x578/ed6f957702ed22c3096322706482cafb/20200131-menezes-bill.jpg"
-        width: 770
-        height: 578
+      - url: "https://www.newznew.com/wp-content/uploads/2020/01/892730_f4e5_3.jpg"
+        width: 750
+        height: 422
+  - title: "10 Data and Analytics Trends to Watch in 2020"
+    excerpt: "Here are 10 to watch in 2020: Analyst Marcus Borba says Auto machine learning (AutoML), the ability to automate the entire process of developing and managing machine learning models, will also help data scientists focus on what matters versus the mundane. In addition, it will help prevent errors, as well as make machine learning capabilities ..."
+    publishedDateTime: 2020-01-22T16:51:00Z
+    webUrl: "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191"
+    ampWebUrl: "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 24
 
 secured: "ea8Hn7R+neyaontL9OtukYJTzRbYszq0WeRcI7VM9M/xfhdfKhPHZX2h8b5PQ8WV0/iCqrYRtERkkuqtboNn5tmm2jU3uEgIXxvJLAYVePGPrY5qYLc3ok47N6M/6LXU9yGScV7js7qwpMg2ByROYxi6p90wSdRKh7TxEJ8AeHTynMT4QK25W5iaGQm+LN+ugMRypbl3DFBR8cCrguL87D9iGOwoY/Sahlr8M0Nwibi3NmRwxr8zX1jPuCjwtKOfuQbDZZJlZeLpqZSzt5CtD3mmVls5o6D39w0tTcCCUDdWaa+1c5Cv5dF/FPBKJqw6JpX/qNXaHngDdLXP6TuqVGZzrfb6J5lBRNaRhpiJj+bJj501RWF7zwFiJACoOaK+nlBt/MHdT3Eb2RdBPeb70BG1Pv3zqCStBiwc5EZWvGih/o5Wu8oVoN+EGXefTRlfcuwP0Q/Nr6VQiqolvPeJSNJ592zwN2A4ZP6pTmORr5Y=;3Ejva6kGZHVh7V4f/nsfeQ=="
 ---

@@ -227,6 +227,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
+  - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
+    excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
+    publishedDateTime: 2020-02-04T23:36:00Z
+    webUrl: "https://www.nbcchicago.com/news/local/chicago-area-groups-demand-end-to-facial-recognition-amid-concerns/2213205/"
+    type: article
+    provider:
+      name: NBC Chicago
+      domain: nbcchicago.com
+    quality: 19
   - title: "Minnesota Legislature begins considering facial-recognition technology regulations"
     excerpt: "A joint legislative committee has taken the first small steps toward considering what a handful of cities and states around the country have already done — regulating or banning the use of facial recognition software by business and government. It was such a small step considered by a subcommittee of the relatively obscure Legislative ..."
     publishedDateTime: 2020-02-03T14:21:00Z

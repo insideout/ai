@@ -5,8 +5,8 @@ excerpt: "Why is Artificial Intelligence disrupting the healthcare ... From life
 publishedDateTime: 2020-01-16T08:13:00Z
 webUrl: "https://medium.com/@brand_minds/artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-36-1-billion-by-2025-1e2f70b0ca1?source=---------2------------------"
 type: article
-quality: 91
-heat: 101
+quality: 71
+heat: 71
 published: true
 
 provider:
@@ -21,27 +21,6 @@ topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://miro.medium.com/max/1200/1*2WDyUt2RRYDNU0_uxIE1pg.jpeg"
-    width: 1200
-    height: 632
-    title: "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025"
-
-related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Size Hiting with 49.7% CAGR in Forecast 2019 to 2027"
-    excerpt: "According to Acumen Research and Consulting, the worldwide Artificial Intelligence (AI) in Healthcare market expected to surpass USD 40.2 billion by 2026, increasing at a CAGR of 49.7% between 2019 and 2026."
-    publishedDateTime: 2020-01-21T06:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-hiting-with-497-cagr-in-forecast-2019-to-2027-2020-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-
-secured: "gm8Sxs7VazOhIOCsQz64r9XMmW41htBd9ReZc1kVHqv9pUytuPaYMYRKaa93qrvpflV5mVOc1AujJV55prURZFcET3ikCnV9R6e3AAefO8GiWPMzh+9SO/VbWGGiLRB0AKbElTzoXaDM1mNgS7grQXlgFiV3m4iSUDK3WJbWY0EsYtFEBWJWf55+MnZF/DHQlSIl9VOoW5kOm0mRz3TzbWkW2pAjzmhGzSGoxpo9ndIpnPFx9xg6wmDe1iTAMGo+vo/sXPddLphD56gIlUC4m5VFjUB8TgGIMCg0Ene/3IirqFY0WQKsRfxkQqR6QD0k;eq1vWjoyC/xpdD4bYtQWIg=="
+secured: "sQtgM6pAbshgN87/SvaAkrMe2gLwQW6VVfcZuY45fHuWWjIpxdlcA9cZXSop2BF9j8YJJyt5jt7pqvbWIomxN+UprhMjl+hiX3SOlB+i1TYmmbnJHyxOnGb07g6yC9uO7gMCjVo3EqrL0wpb/szd5XfAnpyAPYjhwyuC9Ggam12xMt4IENwlNg8gDeGBCZBXNEJdk9BdiaVXWhfcyg34Jqdfq/nadR/7675KKQ9e/N34uC0kPERbwxVdDNiKtylijvpJs1H2hVkt0poR+/w/O7WRxHF6xjqqaLOEBmO840FVzOMtZbLoqLM4SRnSMATt;fvvJoVx1bsz8F3NKCpuWxg=="
 ---
 

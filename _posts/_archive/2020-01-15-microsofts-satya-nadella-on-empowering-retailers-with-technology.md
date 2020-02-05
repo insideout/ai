@@ -5,8 +5,8 @@ excerpt: "At Microsoft's stores in 190 markets, the cloud, predictive analytics,
 publishedDateTime: 2020-01-15T18:51:00Z
 webUrl: "https://wwd.com/business-news/technology/microsofts-satya-nadella-on-empowering-retailers-with-technology-1203424736/"
 type: article
-quality: 54
-heat: 64
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,27 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://pmcwwd.files.wordpress.com/2020/01/satya.keynote-21.jpg?crop=0px%2C0px%2C5790px%2C3862px&#038;resize=640%2C415"
-    width: 5790
-    height: 3860
-    title: "Microsoft’s Satya Nadella on Empowering Retailers With Technology"
-
-related:
-  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-    excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft ..."
-    publishedDateTime: 2020-01-21T13:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2020/01/21/9084223.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
-
-secured: "KEuJHZqSpi5H9pxqlesbOPSZmB83YBzROb0rsg4EhmaTkK26nT2Wx/jxkF+Q0VTHuxnfmoOCmk7PgevKMB5PFiIPkPGn6KpSUc+JHD6PThnunawfoHShYeHJ3nhC2vQJNzbR5EYg8hchr4arbGYC6tRzL3MdcYT9WU6OvrOsWo/4mjTHCZWE3Y7sx0pz+SKV03+J4AkNh5euUBtkrvoPe6l64425rF437Njukd6AYg8DhbdSeqkhLj6tvpJiORNE5MQnKgK2RvzvWVUaE+wvsscqqvNVgq0jlSupApmUeqlvA2XB9t8Fd2qSBol6t2u1;bBRH0xLawkjn14B0AF1lUg=="
+secured: "cJtaR7zzzjg2+czx0IzyBX+MaYK+LhLw0xp0lzC5WKvZOtdaKjQ8wRcbz4ltDT0ESqVjodwJjERsLyIexPK3dXTsIy3S/VNjJgcdCTRxtwOSQq5AkJlmUGt0bEhEFjoVAW3U0vglQffq+e2IjEOkWI2+Kdx6ZPRIgVS5/PxObGka0+W5c2DDsPSgRDxGtupOqpcTFRzGJ9ccZcPOMF+G1Ii4sA/6dM4QkoJ7ggWJPfWE7gAmj+5RGILjEv2voGtihaoc4vZ7YF1jwWOcMtXptsLXIl7A0vhXfXeYi5fortkscFjad48YeXuxNt6OwBhT;XlBu1m1+GkIlpF+HFuDh+w=="
 ---
 

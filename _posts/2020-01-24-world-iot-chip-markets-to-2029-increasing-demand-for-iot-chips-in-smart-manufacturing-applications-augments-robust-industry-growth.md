@@ -18,15 +18,17 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Global AI Machine Learning Market: Facts, Figures and Analytical Insights 2019 - 2029"
-    excerpt: "The research study on Global AI Machine Learning market 2019 presents an extensive analysis of current AI Machine Learning market size, drivers, trends, opportunities, challenges, as well as key AI Machine Learning market segments. Further, it explains various definitions and classification of the AI Machine Learning industry, applications ..."
-    publishedDateTime: 2020-01-28T06:41:00Z
-    webUrl: "https://www.openpr.com/news/1910247/global-ai-machine-learning-market-facts-figures"
+  - title: "IGBT Market to Exhibit 9.2% CAGR, Adoption of Artificial Intelligence to Bode Well for Market: Fortune Business Insights™"
+    excerpt: "Pune, Jan. 24, 2020 (GLOBE NEWSWIRE) -- The global insulated gate bipolar transistor (IGBT) market size will expand in the coming years on account of the increasing demand from high voltage applications such as motor drive inverters,"
+    publishedDateTime: 2020-01-24T09:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/g15178687/igbt-market-to-exhibit-9-2-cagr-adoption-of-artificial-intelligence-to-bode-well-for-market-fortun"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15178687"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15178687"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
 
 secured: "wypMvw+fhsT0hi51o5Yz18QA1oksjNt6XixNhKhs/3u8t3sG/XlKZIhiRtryvVxrnh6xtOrIkC6DsQP3sysHN3O+ZyCvWFAeGZ/O2G5NXLYB3ONOPDZ8xXAcWNr7CfjXICdl2+1EtIaVSOsSxKJQJoLKDLIP5tUA9R3H5Sc/8bHjTNWN3vhH/0YlXWxoYn1lYmDilw1K0eJ9EqUXIoVuC2BRuZitlA7evnHcHnxqoYkL4T9AGWGPnvHBBU+GXqlfbMEKnyTsu5w3WxvZWkYWjZMpQAplW2JClgINR9WVUhtfD+9rOuBjArJIEYC9CPLY;AGeW0qFMdB8KDFc1ymCCBg=="
 ---

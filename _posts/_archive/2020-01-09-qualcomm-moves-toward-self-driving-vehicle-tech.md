@@ -24,20 +24,16 @@ images:
     title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
 
 related:
-  - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
-    excerpt: "The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo has obtained 120 such ..."
-    publishedDateTime: 2020-01-10T05:50:00Z
-    webUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
+  - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
+    excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical ..."
+    publishedDateTime: 2020-01-07T17:40:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/"
     type: article
     provider:
-      name: Steel News
-      domain: steelguru.com
+      name: Forbes
+      domain: forbes.com
     quality: 39
-    images:
-      - url: "https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg"
-        width: 1200
-        height: 800
 
-secured: "MdUT2xPfCn2JB6n9+nm7D20kb58ABvcSi1FidkdYWxTnYbnRAqSgGQM7X9H8S9kFBfszysTL7yLCyBvJI8WPudxYPIzsdbj8DqSxv3vHwFKSKYb+CxlOP9lk8dj2PtS0RAOD8l4mUOdpEZo5mOS8nRYSQSHQ4W4cfdScn1WmL69XXLMW6Fs706BSPDCYbOnH63Abgx7Hym17dEaZCsCfxoZkPNTta0hiP5iivVZlOj376oYfhSm4gLWCyGY+q1j2HK9Fj9PXHrkQxQ+98BZ10BkAdt8efeymh9MuCM882doxC9aiHOFXqzl3BD1HbTbd;cSSshZcwBiRkt3djxMZuWw=="
+secured: "nR2+9a3OfcgIhM1gpnf9j9GmHRqvK2PCYuHxPcxvXpFR0bZu1JR44I45CagtaMT4JjgrrW3V0wDkESk4fh6Z+JgrUpsn75VqMQTnMWOHvo9zLsdCwIw4MhvKX9YEZQonmXz+WCJEk+7hq6KVreeEnOsGSTw1yjK3kr2yuFA4M30Y5XgkATKAuFkQEQBUpXt55Vx647SXnD0Rq9krOtzbd+6c0+myl3fCbRcB72dQS9JOMKAywXon4B9eRZO7xvPxjVublB+ipkAGL/Btpu/XKqG/t5TfWPxbP7X0HLlpQNbr/hOMdZWRO1FK8rsY9gl8;HbeJkAlWhPxgF0hmy5V/fg=="
 ---
 
