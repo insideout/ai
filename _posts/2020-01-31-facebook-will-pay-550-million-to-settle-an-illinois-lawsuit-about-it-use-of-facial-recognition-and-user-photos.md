@@ -45,6 +45,21 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F10%252F4aaadf8a926d46b39e4d6356ddcdf6e0.18786.jpg%252F1200x630.jpg?signature=agz3Wv8-4-Yn4EO3NpvjhHOw8ng="
         width: 1200
         height: 630
+  - title: "Frustration grows in China as face masks compromise facial recognition"
+    excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
+    publishedDateTime: 2020-02-05T18:51:00Z
+    webUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/"
+    ampWebUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 89
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/02/AP_20033108187249-e1580856451154.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 789
   - title: "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos"
     excerpt: "Clearview AI has licensed its face surveillance systems to over 600 law enforcement agencies ranging from the FBI and the Department of Homeland Security to local police departments. It operates with virtually next to no oversight, claims it’s exempt from biometric data laws, and marketed its tools to law enforcement as a sort of face ..."
     publishedDateTime: 2020-02-05T04:35:00Z
@@ -196,6 +211,19 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
+  - title: "NJ lawmakers debate cops’ use of controversial facial-recognition tech"
+    excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
+    publishedDateTime: 2020-02-05T18:04:00Z
+    webUrl: "https://www.policeone.com/legal/articles/nj-lawmakers-debate-cops-use-of-controversial-facial-recognition-tech-BgMvDd7mHLgZOBsI/"
+    type: article
+    provider:
+      name: PoliceOne
+      domain: policeone.com
+    quality: 24
+    images:
+      - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
+        width: 757
+        height: 667
 
 secured: "OKgMvk0frclvWmhxC3+tOBWEwUmUUvgnwgexRwp4akdG7SrYfeI8yKq61fQDhxwKcab1E5a4keFs7mFkxb9F04IFWUTmGdELhIVyb7RR9lDgBVTz1VJuZ0MW90O3cxvM/Mygo+uiZrO3ek16oAhJCy0kwOmRq7V+dk5V086TynSBZeeuz7JB9XoyZ/txDkw4esBHzvK+MGPAxigbrfCqUI0ecpR31LzX12gYWljN8UtRyh3RrBUWguvM0aV1DJV7he1f3HLnv8BXomqKsgj6LyOPLw2NZ25jRKOPFwVXs9dyZnlytdtqmIy+O3SKjbC4o6YsDbnud9tlMy+D1S8LdMw3/WJT5XfAmAbL14EqjhMi14Lvq+v5x8PS+tK/eQL5X9xSGFlLhiDofl11SciyfGgSrF+SnWayVkXB4k+lHNRExo0MFnITjYnY7O4ceYgxawx7jqzYQI21aeiBQhiNYOFFfz2i/154+erysbWVTHo=;oqu3m9f1uLc5ySVZOaSo7Q=="
 ---

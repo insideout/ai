@@ -20,11 +20,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?78539008"
+  - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?987126480"
     width: 1024
     height: 512
     title: "4 Stocks to Gain as Artificial Intelligence Simplifies Life | Nasdaq"
 
-secured: "a9ZxpDzDq7XKWvHKMyF5duFp6MKzerqZelq+5ZYFQN/xo1st0XgzT5i9PRUDcO0La0PSQPUK/66IKBgjKCP2iiZZP+MWgrGCHnkzvLGwVPM29rR6i3gUXnRdHlLWZkc+TVO//B+lINVFIhOPxMRRlLaPr4n5yuT6QtiQarE6sVgrPf217fhpNEASXCjD/fdOkYc2LI8Ht8wfPo/ONPS7+hqO+Oom4buTLJxwtD3C544t2hXOEGDA8Z7lOHtjGGAZpdl52z9KPZb5cKooE9tpLdZTbaVhVFKGRU8DfV3YJQ77IsozIyetD0oRJ2F37xTx;8QTOSDZYqurgb/W36wzscg=="
+secured: "H1hO34RsIzddLwkCQsIY7yyXUxcJRtMEyvSoEneCUIaxsgpXmvzgvxWbGew3rhO4dd48FTBOsARauoIwEUC0QfBu6dQMnJnAJ7F0MHq3hOX7dWaAm31YISMlWX75pbXvR+VpMGuAd8czC4FpGa0wjiMhI2Q5PhJPBpsiXCOHcX8k4JPvZXSopIwsUlm+7iROkgbrue/cg4E6/IcgncAfbj+lnSVQhN4ZJ2ECPxarpQ4wnHE4r2qFNP3jLa+3bfBa7Eawe9JFUnDvb2ZG9jXrgHw7JrYqGx5T0EceMjiBjKRjzr3eLKzemb3OD0M2DB2j;ocC3R7/wC1pnY/+L5ojnsA=="
 ---
 

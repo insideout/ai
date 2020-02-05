@@ -30,23 +30,10 @@ related:
       domain: nasdaq.com
     quality: 103
     images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?371380900"
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?454453197"
         width: 1024
         height: 512
-  - title: "Germany's Bundesliga Goes All-In on AWS"
-    excerpt: "Specifically, Bundesliga will build new cloud-based services that automate processes, increase operational efficiency, and enhance the viewing experience using AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database ..."
-    publishedDateTime: 2020-01-14T05:34:00Z
-    webUrl: "https://businesscomputingworld.co.uk/t/germanys-bundesliga-goes-all-in-on-aws/231205"
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 39
-    images:
-      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
-        width: 512
-        height: 512
 
-secured: "S/oMyRUc2SL/zi57kh/myKwwhdyNvJ99W8QURDWEFndfAQbztqPU7EK4G1gFcf+lqwH37r6ZeUkQxutNHkXnQa2oNeQ4edeLRM/jnDDNtBNT6x2VtJoND1rCZA9ZPWF9tSPlxoBrpn1LMj4kdiFBFXPD3xeV2U4GBInXzEGxv41MOI+nS2GNIbKlpSeMqO8DXJcL1z3tyLpasxgn10WWLEfg1bo67NGjRW4j/d4L2fm+yVDGs793CAsyt2Nm7Z92ds2RIdOJVgcvWYklQlYbVSS/GTKWUCaPkAhMRkScCjOub1bop5VBBaJVuPD3Uwf/;37LfdtKybHqMropAQNC+rA=="
+secured: "KlNsrubD9hie6bqpp3S4CBEUv8cnHQPRUHZoRwuTShyUrkmYguR2LZB+i0tDOfd0aYJqziFNYhNky3lvfTfa6tzt539UfsxcXSVotYs+svfspSFMiblQ5UpKVQyzPDUoop0m7Fgmy0ZbyVCE89fLv4PFZggvwtcej8YdtYuPtBnMk1D7Gapr9mknOkHIe6Fqdmxkq+pcpF0gOYGKPHY2tNdPY8YE0ycLj3yxgYbw0DXxlw1IFoptmyjn1UBDrbZk+dhede2gGMKY6PyAynvwhlL8SqfF4NWj61MvGXBuZC3FZ94SPwvAxAWFHWBWfm/i;ZQZfxDM5BAXgMSmvNhDO3A=="
 ---
 

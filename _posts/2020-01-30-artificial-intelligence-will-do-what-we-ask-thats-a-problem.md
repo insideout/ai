@@ -33,7 +33,7 @@ related:
     provider:
       name: ctovision.com
       domain: ctovision.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://ctovision.com/wp-content/uploads/dc-at-night.jpg"
         width: 1024

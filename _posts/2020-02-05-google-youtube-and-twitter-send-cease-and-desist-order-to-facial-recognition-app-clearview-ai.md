@@ -106,6 +106,32 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
         width: 900
         height: 598
+  - title: "YouTube demands face recognition firm stop harvesting videos"
+    excerpt: "NEW YORK — YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny ..."
+    publishedDateTime: 2020-02-05T19:53:00Z
+    webUrl: "https://www.pressherald.com/2020/02/05/youtube-demands-face-recognition-firm-stop-harvesting-videos/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/multifiles.pressherald.com/uploads/sites/10/2020/02/Clearview-YouTube-Facial_Recognition_21500.jpg?fit=1000%2C667&#038;ssl=1"
+        width: 1000
+        height: 667
+  - title: "YouTube: Face recognition firm must stop harvesting videos"
+    excerpt: "NEW YORK -- YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following ..."
+    publishedDateTime: 2020-02-05T19:49:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/youtube-face-recognition-firm-stop-harvesting-videos-68781106"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 39
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
+        width: 992
+        height: 558
   - title: "Google and YouTube send cease-and-desist letter to facial recognition app that helps law enforcement"
     excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, a facial recognition app that scraps images from the websites and social media platforms, CBS News has learned. The tech companies join Twitter, which sent a similar letter in January, in trying to block the app from taking pictures from their platforms. The app is only ..."
     publishedDateTime: 2020-02-05T11:25:00Z
@@ -125,6 +151,6 @@ related:
       domain: militaryaerospace.com
     quality: 1
 
-secured: "awYE1S14TRv2qOS9oFETiQ/rL+vSZAJTswui58kPr4ov+1/Hsdhqf48tIIfzIxhFE9wJRqzt4z61OJ5iSPjIY5CAbwDLx6d73kD0ZRAGVrmIqRwEzehqDHDJCChDhBKlOjlumOXdUkXCBMfgVbhy/ZOlX5GwYUaEj4B+mBit2inQ2BpRt8eiWDjbrtSsQxXR62asK08lfYTTZro5+9+4JsNvbj24DNUc0LH3mvwhgA5co+i7iARfsy0f8AiFSILX1kzBfIAmW3sq9RNDAYGyCssd66OBkQwmED4bzYChcr0HbnCPEGvCa3agmfeJMYlj;49OD5OR4LRCocgqPt9XOOQ=="
+secured: "qbYPdNpH+konIt7t1P5Ygx8qmhKUCXmzVPyytVjVrSQq0HCsiVRcGEKaCWykoDkdN7XhVoLQ8bWDpYLLLrs3OAnpV7Jit+qCGGxKTrvrrWlEShpH6n4P7Lz35nQf2GVdzOXCgWga9uR0Cq5RqSAzIs/oIWKI9vrzUS+gTSEBHvl/+a9uI5mT+mxlPOCTfD0lrtFTEHr8gsc+LucmA4qS66FJQQwPOp9ffZ8tVlaoCUFmG2gZQfkWS7U6/JLdyAV/ZM1BgHUs7GhN8cOXnoFMC2205KEDe4RhjmVRZHhtGVIva5Ec/k9rRBJehWRCWZMSilAljLHXH7UgrjF1gg1/Rwh2wAY5rIr9FEi7xaHLitdvTa777C7FIKZ3pKSYT/9kE+NqK6/7X8fQRp/KxE1CQK4OtZF6HHdJQEZ3iDM5C+Iel+vYaWNLziI8D2GmvrVbT+Y8IeBRGazsIpONN5zeNkWO81yUvM7im4DI7aWzEt0=;jTvlqToPHQyO3UQ3JOf7GA=="
 ---
 

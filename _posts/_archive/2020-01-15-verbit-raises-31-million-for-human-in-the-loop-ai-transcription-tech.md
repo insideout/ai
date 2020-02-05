@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-huma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     height: 600
     title: "Verbit raises $31 million for human-in-the-loop AI transcription tech"
 
-related:
-  - title: "Verbit Raises $31 Million Series B to Add New Languages for Speech Recognition Product"
-    excerpt: "Verbit, a Tel Aviv, Israel-based provider of classroom transcription and captioning services through speech recognition, has raised a $31 million Series B round. Growth equity firm Stripes led the round. Viola Ventures, Vertex Ventures, HV Ventures ..."
-    publishedDateTime: 2020-01-15T00:00:00Z
-    webUrl: "https://www.edsurge.com/news/2020-01-15-verbit-raises-31-million-series-b-to-add-new-languages-for-speech-recognition-product"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 46
-    images:
-      - url: "https://edsurge.imgix.net/static_assets/meta/EdSurge_Bolt_Green.png?auto=compress%2Cformat&w=480&h=480&fit=crop"
-        width: 480
-        height: 480
-
-secured: "JFGYrnlDwSixHHHrmcvWT7X5n7rc2fV17SzUZr1Ymvu6ZQDkpLsmhHm6drMpHGigFzo30LslvkyR1iYy8Iug9jNrj+9DJOfekiFDy5CMgP2HBSqahE5QbKqr1k97cU9BzekHFnaJ5ISTvx6phBSL6MMPgzDlQjucHa1XWQfmZCaUO9NpspdjX6QevPQx9/cqA/7o3HcjOpLCVdSwGumbE+8x6T+W71OQB4l+Cxh7FFUjJ30nzAXv3LOzKJOQZVXNcyDrAIc96VZnWci/DTFBWjC1hOT3FEbZ3roPJys1Cmb8pQgiFubuOMO4OZITTcB8;2zBirhUjEgVoiaC2H73HXg=="
+secured: "nsy6+1/y0l/8W+24JrRgqIH3NxXTowl9Vzt76qOuzdYV+iQ9Js4lHCn/D0gkQfgny3O13/4aDV+BCpb+u0WnVEBbEJagAHM7ykRxNPK9vDbBVsgcqAY0yya6OqD/AxBino+W4bjdk1b+C9A0ZzReHVk9jdF1w9E2g6D6hGE7zp5AKQnQ5aNn3fjC1vLBTjkpvSk3L2iXrdosGEeWSziCFwasyFzpXLjAzSFbjfxbhKJAvGx/pyAsmwK9ObI/ezm8qss2BnNB9Hx4SbLsVpZ4nOLM5PJ9ZdbmDv+i/xWMytlu/tCRR99Rk/zyN034kqbD;oyV/Dvjv53NUpJ7dASyX9g=="
 ---
 

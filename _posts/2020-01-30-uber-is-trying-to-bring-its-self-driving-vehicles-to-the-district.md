@@ -54,6 +54,21 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
         width: 1024
         height: 512
+  - title: "Uber self-driving cars, with humans in control, to cruise Friday"
+    excerpt: "Uber will put self-driving vehicles on Washington, DC roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self-driving in Dallas, San Francisco and Toronto with human ..."
+    publishedDateTime: 2020-01-27T01:46:00Z
+    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 44
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20181017073142.Medi.jpeg"
+        width: 800
+        height: 448
   - title: "The Key To Tesla's Future Is Full Self-Driving"
     excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
     publishedDateTime: 2020-02-03T17:07:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/clearview-ai-ceo-first-amendment-right-
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-ceo-first-amendment-right-facial-recognition-data-scraping.amp"
 type: article
 quality: 89
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Controversial facial recognition company claims it has a First Amendment right to your public photos"
 
 related:
+  - title: "Frustration grows in China as face masks compromise facial recognition"
+    excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
+    publishedDateTime: 2020-02-05T18:51:00Z
+    webUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/"
+    ampWebUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 89
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/02/AP_20033108187249-e1580856451154.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 789
   - title: "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos"
     excerpt: "Clearview AI has licensed its face surveillance systems to over 600 law enforcement agencies ranging from the FBI and the Department of Homeland Security to local police departments. It operates with virtually next to no oversight, claims it’s exempt from biometric data laws, and marketed its tools to law enforcement as a sort of face ..."
     publishedDateTime: 2020-02-05T04:35:00Z
@@ -192,6 +207,19 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
+  - title: "NJ lawmakers debate cops’ use of controversial facial-recognition tech"
+    excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
+    publishedDateTime: 2020-02-05T18:04:00Z
+    webUrl: "https://www.policeone.com/legal/articles/nj-lawmakers-debate-cops-use-of-controversial-facial-recognition-tech-BgMvDd7mHLgZOBsI/"
+    type: article
+    provider:
+      name: PoliceOne
+      domain: policeone.com
+    quality: 24
+    images:
+      - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
+        width: 757
+        height: 667
 
 secured: "SKcDaJzimH2ZXnkdO14WKEnxXjYg1Sf6yw5DlE8m5t6S1wkrOL0uU186QYOY3nOGyjGVEy6sqqpwZjFcC8vVXwlbkvO8nBTxWYaqhnsotPyxn3oi0vo+p455hAB4r0kjPPJZXfE3kaZa61sQ7ZuaNwAoLl3PEPQ5dAbUpikvozEFuAvQu44PcO1iuOaOybCsvK4lF4P/Dg63P4plWAxC9EI2wNY3S/r7nPdwBraox/iRVeY97TZ1AR8FLYjzYpz/PZ2fn9vWHM6lZPtjUgsdPmK1biXpZHk6bdP5MvneUQ8IyeiwjOe4auYBQOqQIc/RTtvJd1xEVtKef0O3DcTwrqlRvBjre24w/71591JEEN8qYBXrbQXA/AovMCMVGxx4uIm17T8TWglg0A6f3KwmRen9oTL+27KQLgHh4bKA9a+EgGZOzsAReLBhtLzgYTrua76DMMAdq06vfjFHQwxCEI9EWQYgJRtSgmQo9kdU3CM=;JZLV3C85aw7vPWbW6CPLzg=="
 ---

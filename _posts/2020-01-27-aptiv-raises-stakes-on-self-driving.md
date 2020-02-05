@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-27T04:00:00Z
 webUrl: "https://www.autonews.com/mobility-report/aptiv-raises-stakes-self-driving"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 800
     height: 600
     title: "Aptiv raises stakes on self-driving"
-
-related:
-  - title: "GM’s investors school Tesla’s on self-driving hype"
-    excerpt: "Considering true self-driving remains a long way off, GM’s owners are more realistic. Cruise, the self-driving-car outfit majority-owned by General Motors, unveiled its prototype electric autonomous vehicle on Jan. 21. Called the Cruise Origin, it has no steering wheel or pedals. Chief Executive Dan Ammann said it was “a fully engineered ..."
-    publishedDateTime: 2020-01-22T20:04:00Z
-    webUrl: "https://www.breakingviews.com/considered-view/gms-investors-school-teslas-on-self-driving-hype/"
-    type: article
-    provider:
-      name: Breakingviews
-      domain: breakingviews.com
-    quality: 39
-    images:
-      - url: "https://www.breakingviews.com/wp-content/uploads/2020/01/GM-cruise-origin-scaled.jpg"
-        width: 2560
-        height: 1706
 
 secured: "gQD7TR7VDX16dhuTem+NTuV+3drM1wIhQNn1V7SS4mWqCTzhU1eEOlfS3y3WXlyUkEQehiGmAlP1j+CrRswy5Jm3tpxhHd/f+hSumr6qYKmY7fokrxV1rEpxzPjDoWESVp9KdSjCXb7qADGqpcZZOlCFkzXob843jXjKtMhK+rCuk+77xo9bo0hYpuG3Uh7bVxKfNRG0LKa99zC+elW6cnOptVidxvo0xOoZJjaYFtv7LnqTt+9KEi8wfKBUBW5E7yoHzwtagxxyT7QFmbTq2GoiolIQE3SBIO6cKDQzo+o52LVzG14vLyqNTjCljazA8LZ3/O04I6cezOSWI5QarDb8t1p5iAxQsurXf817IlNg9KIEcU65It6CYLNF+MQiKp06kQqpu2UxG3TohoOtAn+sKqgwC35OyYLq9mGxf/JuAhvzxU8nQwagXiV4x6kouJCa4HjHa5jjw199tSf+V4OSW0fmWLCkX6A2RYEWq+w=;Nd9El1j5+O1tpX8XMPmujw=="
 ---

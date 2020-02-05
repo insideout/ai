@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
+excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and ..."
 publishedDateTime: 2020-01-20T12:36:00Z
 webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
 ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
@@ -69,21 +69,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106350993-1579778704338rts2ziu5.jpg?v=1579779171"
         width: 3000
         height: 2000
-  - title: "Google boss Pichai advocates for artificial intelligence regulation"
-    excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
-    publishedDateTime: 2020-01-22T02:26:00Z
-    webUrl: "https://www.vanguardngr.com/2020/01/google-boss-pichai-advocates-for-artificial-intelligence-regulation/"
-    ampWebUrl: "https://www.vanguardngr.com/2020/01/google-boss-pichai-advocates-for-artificial-intelligence-regulation/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/01/google-boss-pichai-advocates-for-artificial-intelligence-regulation/amp/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 72
-    images:
-      - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1"
-        width: 600
-        height: 400
   - title: "The Debate Over Regulating AI Ramps Up"
     excerpt: "In a letter in 2017 to Congress, David Kenny, at the time the senior vice president for Watson and cloud at IBM, wrote that the technology “does not support the fear-mongering commonly associated with the AI debate today. The real disaster would be abandoning or inhibiting cognitive technology before its full potential can be realized."
     publishedDateTime: 2020-01-27T14:16:00Z
@@ -180,6 +165,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "4LJi9zZ5eQH4aI3Kr/sacRk6PxvnSxLRmQar1gfMtkmi6Euc3BCkwsYOvl0xpkqx8VKS6wj+Nn29TDLrlCcP6QBYTy3WO4QWv1IWdlbSiVm2nXgkv2KvY5OxMI3cZ/UTBSKfkMU4Gm90aF5p5N02f6cqQglPGCRU+q+bHikfq3twSX77wP7M61RIpiEpwP8eqQ4TEF+Xe54B67803ZcfXiKRmsEXpvVJZDpvv5h/EF2fNwQ6qNr6z8lpANQrx8x6E5RE3VlxrDwV+2WH1jr+GShDR4CS5Lu/5yK6fWywBY8z0juz0SEbjCVmLjHwul9/;YCm5ngsRvw/MZrF1UkPJsw=="
+secured: "k32Ks2BxUGlHZAoXM+mV07pziquwqwxDPoTAwHizErW+DuOB6IXLuiDZQnaBFf6sqKt7fUFNGvK3sLs5bd5bCUgaJVQ/ee+AjCgu0VI6aAvfiUBTvC/MUsvAbb+cBWcARPFtOaFBDm/smuDa3Qx7bTbirms418wulkfbjjuJpiH4xgEOjwRX3RnxN/zWYA6wjsNy7S3AuSra1JPUpivvC3yqjxGrUuNrUFUZ95Pk5RMKplT6NlscLor8JVxuwKvGSrFCnG0K1sQtriaY5sHB9zjBsWwmzlLQoZOm/Z39QGJKB2J0ZSEOlD/b2e/94QG8;Ebv9nidTsWPbZL9mZVSUYA=="
 ---
 

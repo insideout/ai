@@ -110,15 +110,6 @@ related:
       - url: "https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2020/01/09114657/attractions-tech-at-ISE-events-page.jpg"
         width: 1500
         height: 937
-  - title: "AI in Education Market by Latest Trends, Business Opportunities, Segmentation and 2026"
-    excerpt: "New Jersey, United States - The report titled, AI in Education Market has been recently published by Verified Market Research. The AI in Education market has been garnering remarkable momentum in recent years."
-    publishedDateTime: 2020-02-04T04:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-by-latest-trends-business-opportunities-segmentation-and-2026-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Artificial Intelligence in Energy Growing Popularity and Emerging Trends in the Market | ABB, Alphabet, GE, IBM,"
     excerpt: "The latest update of Global Artificial Intelligence in Energy Market study provides comprehensive information on the development activities by industry players, growth opportunities and market sizing for Artificial Intelligence in Energy,"
     publishedDateTime: 2020-01-31T04:14:00Z
@@ -145,6 +136,15 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
+    quality: 0
+  - title: "Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application, By Region, Competition, Forecast & Opportunities, 2024"
+    excerpt: "Global In Flight Voice Recognition Market, By Technology (Voice Recognition, Speech Recognition), By Aircraft Type (Narrow-body Aircraft, Wide-body Aircraft, Very-large Aircraft, Regional Transport Aircraft),"
+    publishedDateTime: 2020-02-05T18:29:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980506/0/en/Global-In-Flight-Voice-Recognition-Market-By-Technology-By-Aircraft-Type-By-Application-By-Region-Competition-Forecast-Opportunities-2024.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 0
 
 secured: "6kTQcdw277ikdzGA2LNCFktVseGanNGNO/Elwxae94r+X9Ntd2m80NJ/NpDSojIRZSp3ETNwoWy8JyunbQmWCKyqPmIZ+x4ntnoJxjPLIo8o5hcAaKNTZ/4eX98XT66MvJZ2CBofOr+RcnGT3NIGEkDHic9jzKz8xVuOP8t6xKBu8wM1e7NWO3waJjNlFClLOiPYVZ0Pm76n3PIJmQDqTUuxu8Ib/7BDs5Q9Bu95c1SersD00k53GyIz26xPrSwDEmaB5uRNBSEpBkNDqB8iYxrKYZfU/zUiV7IC4vnReMgWfCpVGyzkit+V45E8YP91;9ASNCjw+AlcaORZ8ukxCPQ=="

@@ -60,36 +60,6 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg"
         width: 1200
         height: 800
-  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:57:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
-  - title: "Surprise: Google CEO Still Dancing Around AI Regulations"
-    excerpt: "But it warrants reminding those very same principles still allowed it to actively develop AI meant to kill people. Obviously, the situation's much more nuanced than that; Washington's geopolitical rivals are hardly concerned by ethics when it comes to military tech. Yet it's high time for legislators to start drawing some lines. And ..."
-    publishedDateTime: 2020-01-22T01:48:00Z
-    webUrl: "https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance"
-    ampWebUrl: "https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg"
-        width: 1600
-        height: 899
 
 secured: "4+l5ZGtCSSWYdPPtIn4EMaHpAkQwCqX9ROT7kJUkq28bpvZs/pKoUB7naCxe4ADacVvTIOd1DVhFq6eObeyNLbTGHqWDYfriy7fsRzhWWxUwwjfQNm3rLPU6Puz23HpUOIKkr+WPk1I/O11ch/NA5yzQugJ0pX11tsEwtB56/injXuNCNFnJumIGkcdL8qqML1cueeUF0O6EXDDaCgpZJqPNWVkcmuFkd1SFdOswLGGHKd/upSNftSdPPHe4MWjpHNyrspUWpelIGm325ovNMIBj6ouVIn3mx/oIBDp+KZuEYBSDigWSp+QjbMF7ZTor7orpLhJlvB0jrSRh8we6uGAl3GmJdLl2c5NUWASD7GeWDTCsaS0gv8f9DqrQs3fxEBsoTaRtBD0h85UUjWloO/yrHd9eow2yGV90Vd40PTsLXSV6gptN00/tYtaz2Y/YdDfXwNYY8ws70xaBqQ0HhudOGYx8773+lv9Hc0qdIrQ=;aR/CBZ/k8+M/WWbn220hMg=="
 ---

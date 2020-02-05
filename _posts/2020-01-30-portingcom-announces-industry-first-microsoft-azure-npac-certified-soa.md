@@ -33,6 +33,19 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/131113MackieMAP.jpg"
         width: 647
         height: 450
+  - title: "Microsoft Ignite The Tour 2020: ASC is Presenting ASC Recording Insights for Compliance Recording and Analytics in Microsoft Teams"
+    excerpt: "ASC Recording Insights offers Microsoft Teams users a comprehensive tool for legally compliant recording and archiving as well as for the evaluation of all conversations within Teams. Conversations include audio and video calls, chats, meetings, and additional data. Speech Services, a component of Azure Cognitive Services, transcribe audio ..."
+    publishedDateTime: 2020-01-23T15:30:00Z
+    webUrl: "https://www.realwire.com/releases/Microsoft-Ignite-The-Tour-2020-ASC-is-Presenting-ASC-Recording-Insights"
+    type: article
+    provider:
+      name: realwire.com
+      domain: realwire.com
+    quality: 9
+    images:
+      - url: "https://www.realwire.com/twitter_writeitfiles/ASC_Ignite_Overview_neu.jpg"
+        width: 600
+        height: 334
 
 secured: "ZOWpb6kvmc9jQbBX1gmGiX9wfZ+BItWlR0YQR+hqPNDUhSQt9PWpmiWAFzHc6Fklts5qbNG70JY6ibMT4aS3Nnp53F5GsaN1U64RM8C7vaaU2Dbq7lCyw5apadQ/kSdB8JymdwhKrmLsE3aU9l3v5Qp1CXIfFoGOYwBueWH+GdzTnyG6tuJqVpk0mgdzVTexpdX4NOb8EefC7iuelio0GOX/VdFoYw7Q3wk1R4QTw68EoMewatvX8RfbLApyH5oIs83x0RgfRvpE356HrJQvIYLpjlWK1zkD2YFEQ8YKyKjsOesQ17uv5wf4JxQW6Rad;Ni0zlzi0KiRCIKnlmXCwyA=="
 ---

@@ -37,6 +37,19 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
+  - title: "MediaTek introduces new smartphone chip system supporting biometric facial recognition"
+    excerpt: "MediaTek has developed a new chip called Helio G80, which is part of its mid-range System on Chip (SoC) product line and close in performance to the G70, with image processing capable of object recognition and facial biometrics, writes xda developers. The G-series assures enhanced performance in mobile games, while keeping prices low for consumers."
+    publishedDateTime: 2020-02-05T19:42:00Z
+    webUrl: "https://www.biometricupdate.com/202002/mediatek-introduces-new-smartphone-chip-system-supporting-biometric-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/05143300/MediaTek-smartphone-chip-system-supporting-biometric-facial-recognition.jpg"
+        width: 840
+        height: 500
   - title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
     excerpt: "Online dating giant Match Group is launching selfie biometrics to help protect people using its apps, partypoker is considering the technology to curtail bots, multi-accounting, and ghosting, local elections in Kompally, India have authenticated voter identity with facial recognition through a smartphone, Alipay technology is being used for car ..."
     publishedDateTime: 2020-02-03T20:25:00Z

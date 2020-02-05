@@ -45,6 +45,21 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F10%252F4aaadf8a926d46b39e4d6356ddcdf6e0.18786.jpg%252F1200x630.jpg?signature=agz3Wv8-4-Yn4EO3NpvjhHOw8ng="
         width: 1200
         height: 630
+  - title: "Frustration grows in China as face masks compromise facial recognition"
+    excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
+    publishedDateTime: 2020-02-05T18:51:00Z
+    webUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/"
+    ampWebUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 89
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/02/AP_20033108187249-e1580856451154.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 789
   - title: "Massachusetts Communities Remain Leery of Facial Recognition"
     excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
     publishedDateTime: 2020-02-03T21:46:00Z
@@ -196,6 +211,19 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
+  - title: "NJ lawmakers debate cops’ use of controversial facial-recognition tech"
+    excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
+    publishedDateTime: 2020-02-05T18:04:00Z
+    webUrl: "https://www.policeone.com/legal/articles/nj-lawmakers-debate-cops-use-of-controversial-facial-recognition-tech-BgMvDd7mHLgZOBsI/"
+    type: article
+    provider:
+      name: PoliceOne
+      domain: policeone.com
+    quality: 24
+    images:
+      - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
+        width: 757
+        height: 667
 
 secured: "+iP+utLfehfKQEtvyOcmfhuDOjov+U2oPqvrYFEcpdATvUS9YobjOh3ST67YmS7HhnUI8/ETSFXY2oTELZYARsIrGyLDo2KwSywF0EhDe9BOr4sTFqGNFbWKUyYan72I4iATXJJgmh+CJJxhfNyrZCvZxustgrWBV+fS15Myfwu8Mf0yIZXv20MiIYS2d9VBrHju8xs+S0/iP5HiNKWnqvDibaCLTrs1eX7p9Y4o9/pqea9RWMFTPlDhpENRWdlxnyzVcinnHN4a21uZFGGpe/8ynPhnYWhyggEXSbjruAvjNd88GduTAzrAgAQMRtEYbhwE2hvnISw0S3htw8fBY4SbCtUYsGQ5fLRDs7iQldmomX/X4ZqA1I/eC3hDL0ao+HYX+hVGZYQ+fWWtaVXhBtFZjm7SZe9txpWXcDF1xYGChhkmBHHiC0qPi20Q03mzFU+H5Q3v8CYUN4NdUvPGs0sf95Kxr6fXFU9v436zlEc=;k3MVeZGYmRdac5ybg5bSDQ=="
 ---

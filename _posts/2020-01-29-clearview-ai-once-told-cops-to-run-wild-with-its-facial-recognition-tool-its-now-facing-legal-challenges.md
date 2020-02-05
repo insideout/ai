@@ -728,17 +728,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 30
-  - title: "As with Google and Microsoft, facial recognition regulation is a hot topic for Chinese tech companies"
-    excerpt: "The country known for its ubiquitous use of facial recognition is now quietly preparing for more controls on facial recognition. The technology is used in China for everything from , but consumers are starting to push back. “The awareness of protecting data privacy is increasing among Chinese compared to several years ago,” said Jeffrey ..."
-    publishedDateTime: 2020-01-22T02:55:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 24
   - title: "Facial recognition’s reckoning, Fourth Amendment edition"
     excerpt: "Last week, The New York Times reported on a facial recognition technology company offering law enforcement, federal government agencies, and companies the ability to identify people simply by uploading a photograph. Clearview AI has compiled more than three billion images by scanning Facebook and other platforms. It analyzes uploaded facial ..."
     publishedDateTime: 2020-01-23T11:17:00Z

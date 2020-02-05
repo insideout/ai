@@ -30,153 +30,165 @@ images:
     title: "Cruise Origin: Take a Look Inside the New Electric Self-Driving Car Without a Steering Wheel or Pedals"
 
 related:
-  - title: "Exclusive look at Cruise’s first driverless car without a steering wheel or pedals"
-    excerpt: "The hard drive, stored in the trunk and housing the vehicle’s artificial intelligence and perception software ... GM submitted a petition for permission to deploy a fully driverless Chevy Bolt in 2018, but it has yet to receive a response. And it will most likely need another exemption before the Origin is allowed to hit the road, too."
-    publishedDateTime: 2020-01-22T01:14:00Z
-    webUrl: "https://www.theverge.com/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look"
+  - title: "General Motors to build Cruise Origin electric self-driving shuttle in Detroit"
+    excerpt: "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ..."
+    publishedDateTime: 2020-01-27T14:56:00Z
+    webUrl: "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit"
+    ampWebUrl: "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 183
+      name: Fox News
+      domain: foxnews.com
+    quality: 70
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/_Cq8RBeDpZ0BOd8CsPhQ7orclbI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66141735/vpavic_200121_3874_0010.0.jpg"
-        width: 1400
-        height: 933
-  - title: "GM's Cruise unveils its first driverless vehicle"
-    excerpt: "This is not Cruise's first foray into driverless cars. For years it has been testing ... Other car makers are in a race to launch self-driving cars using the latest artificial intelligence (AI) technologies although they are being held back by safety ..."
-    publishedDateTime: 2020-01-22T03:04:00Z
-    webUrl: "https://www.bbc.com/news/technology-51171398"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-51171398"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51171398"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin-3.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+  - title: "Uber self-driving cars, with humans in control, to cruise Washington, D.C. Friday"
+    excerpt: "Uber Technologies Inc ( UBER.N) will put self-driving vehicles on Washington, D.C. roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles."
+    publishedDateTime: 2020-01-23T23:02:00Z
+    webUrl: "https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZM2PH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZM2PH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZM2PH"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 69
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B3CE/production/_110603064_03063.jpg"
-        width: 1024
-        height: 576
-  - title: "This self-driving car has no steering wheel or pedals"
-    excerpt: "The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rearview mirror."
-    publishedDateTime: 2020-01-22T21:50:00Z
-    webUrl: "https://www.wmur.com/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382"
-    ampWebUrl: "https://www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480447771&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0M1ZY"
+        width: 818
+        height: 545
+  - title: "Cruise’s Origin: GM-Backed Startup Debuts A Self-Driving Electric Van For Robotaxi Service"
+    excerpt: "The autonomous tech startup is upbeat that it’s on track to launch a robotaxi service in San Francisco with a spacious battery-powered van–but isn't saying when."
+    publishedDateTime: 2020-01-22T03:45:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/711x544/https://specials-images.forbesimg.com/imageserve/5e27bb58a854780006af293b/960x0.jpg?fit=scale"
+        width: 711
+        height: 544
+  - title: "Cruise’s Origin: GM-Backed Startup Debuts Self-Driving Electric Van For Its Robotaxi Service"
+    excerpt: "The autonomous tech startup is upbeat that it’s on track to launch a robotaxi service in San Francisco with a spacious battery-powered van–but isn't saying when."
+    publishedDateTime: 2020-01-22T03:45:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/711x544/https://specials-images.forbesimg.com/imageserve/5e27bb58a854780006af293b/960x0.jpg?fit=scale"
+        width: 711
+        height: 544
+  - title: "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit"
+    excerpt: "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ..."
+    publishedDateTime: 2020-01-28T17:46:00Z
+    webUrl: "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit"
+    ampWebUrl: "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 62
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin-3.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+  - title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
+    excerpt: "GM's Cruise rolls out a self-driving shuttle developed with Honda The boxy Cruise Origin has no steering wheel or gas pedal in order to free up room for passengers Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
+    publishedDateTime: 2020-01-22T06:49:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/4530535002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4530535002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
     quality: 44
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-20022112310822-1-1579732291.jpg?crop=1.00xw:0.844xh;0,0.156xh&resize=1200:*"
-        width: 1200
-        height: 676
-  - title: "Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
-    excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
-    publishedDateTime: 2020-01-22T17:23:00Z
-    webUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/"
-    ampWebUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
+      - url: "https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?crop=1379,1034,x227,y437&quality=50&width=640"
+        width: 640
+        height: 480
+  - title: "General Motors to invest $3 billion on electric and self-driving cars"
+    excerpt: "General Motors announced it will shift company gears from gas-powered cars to electric, and the Detroit-Hamtramck plant will be at the heart of the change, receiving $2.2 billion of the investment CNBC reports. According to Yahoo! News, this investment will bring 2,200 jobs to Detroit. GM president Lloyd Reuss told the Detroit Free Press that ..."
+    publishedDateTime: 2020-01-28T18:13:00Z
+    webUrl: "https://www.deseret.com/u-s-world/2020/1/28/21110769/general-motors-invest-hummer-cruise-origin-electric-cars"
+    ampWebUrl: "https://www.deseret.com/platform/amp/u-s-world/2020/1/28/21110769/general-motors-invest-hummer-cruise-origin-electric-cars"
+    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/u-s-world/2020/1/28/21110769/general-motors-invest-hummer-cruise-origin-electric-cars"
     type: article
     provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 40
+      name: deseret
+      domain: deseret.com
+    quality: 44
     images:
-      - url: "https://www.motortrend.com/uploads/sites/5/2020/01/Cruise-Origin-Self-Driving-Pod-Loading-Passengers.jpg"
-        width: 2048
-        height: 1152
-  - title: "Cruise Unveils Origin, a Self-Driving Vehicle with No Steering Wheel or Pedals"
-    excerpt: "Cruise Automation is a California startup bankrolled by GM and Honda. The company has been testing specially built self-driving Chevrolet Bolt EV crossovers in the San Francisco Bay Area since September 2016. This new minivan-look electric bus will hold four passengers—no drivers, though—and is expected to be producible for half the cost of ..."
-    publishedDateTime: 2020-01-22T01:42:00Z
-    webUrl: "https://www.caranddriver.com/news/a30613209/cruise-automation-self-driving-bus-revealed/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp30613209/cruise-automation-self-driving-bus-revealed/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30613209/cruise-automation-self-driving-bus-revealed/"
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 40
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-9822-jpg-1579655853.jpg?crop=1.00xw:0.743xh;0,0.151xh&resize=1200:*"
-        width: 1200
-        height: 603
-  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
-    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There's no ..."
-    publishedDateTime: 2020-01-22T18:52:00Z
-    webUrl: "https://www.stltoday.com/news/national/gm-and-honda-unveil-self-driving-car-with-no-steering/article_71c134c6-6d37-5456-8185-fd70939c114a.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+      - url: "https://cdn.vox-cdn.com/thumbor/plP6WIWUE6s5XsYSHU4OYd_Lem0=/0x0:600x396/1400x1050/filters:focal(252x150:348x246):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66206932/700378499.0.jpg"
         width: 600
-        height: 517
-  - title: "GM’s Cruise has unveiled a self-driving car with no steering wheel"
-    excerpt: "Hmm. And there's the tech hurdle: Cruise will also need to prove the software and sensors inside the Origin can safely navigate the very complex environment of a city, at a time when expectations for self-driving cars have cooled. And it faces stiff competition from the likes of Waymo, which is already testing fully driverless minivans in ..."
-    publishedDateTime: 2020-01-22T12:47:00Z
-    webUrl: "https://www.technologyreview.com/f/615077/gms-cruise-has-unveiled-a-self-driving-car-with-no-steering-wheel/"
+        height: 396
+  - title: "GM to invest $2.2B in Detroit to build electric and self-driving vehicles"
+    excerpt: "DETROIT—General Motors is spending $2.2 billion (U.S.) to refurbish an underused Detroit factory so it can build a series of electric and self-driving vehicles, eventually employing 2,000 people. GM said in a statement Monday that the factory will start ..."
+    publishedDateTime: 2020-01-27T15:52:00Z
+    webUrl: "https://www.thestar.com/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles.html"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 24
+      name: Toronto Star
+      domain: thestar.com
+    quality: 43
     images:
-      - url: "https://cdn.technologyreview.com/i/images/cruise1.jpg?sw=1200&cx=0&cy=0&cw=1545&ch=869"
+      - url: "https://images.thestar.com/ubGicgxAN7XcYMEtjqYlMEzp11w=/1200x800/smart/filters:cb(1580139692061)/https://www.thestar.com/content/dam/thestar/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles/gm.jpg"
         width: 1200
-        height: 674
-  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
-    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
-    publishedDateTime: 2020-01-23T20:00:00Z
-    webUrl: "https://www.phillytrib.com/news/business/gm-and-honda-unveil-self-driving-car-with-no-steering/article_bc9927eb-6c14-58ce-bada-f62aa511e2e6.html"
+        height: 800
+  - title: "GM's Detroit-Hamtramck plant will build Cruise Origin self-driving shuttle"
+    excerpt: "GM's Detroit-Hamtramck plant will build Cruise Origin self-driving shuttle The automaker will lay out plans Monday to build self-driving and electric vehicles at the plant that had been targeted for closure Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/24/gms-detroit-hamtramck ..."
+    publishedDateTime: 2020-01-24T15:08:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2020/01/24/gms-detroit-hamtramck-plant-build-cruise-origin-self-driving-shuttle/4546684002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/4546684002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4546684002"
     type: article
     provider:
-      name: Philadelphia Tribune
-      domain: phillytrib.com
-    quality: 24
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 42
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/4/71/471d2f5f-2a7c-5ae5-86fd-e3ad2ed8cff4/5e29dd7ea6191.image.jpg?resize=823%2C630"
-        width: 823
-        height: 630
-  - title: "This self-driving car has no steering wheel or pedals"
-    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
-    publishedDateTime: 2020-01-23T13:29:00Z
-    webUrl: "https://www.djournal.com/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_6519890d-38c7-523c-b864-2a565adcb0f5.html"
+      - url: "https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?auto=webp&crop=1521,855,x162,y616&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+  - title: "Uber self-driving cars, with humans in control, to cruise Washington, D.C. Friday"
+    excerpt: "WASHINGTON (Reuters) - Uber Technologies Inc <UBER.N> will put self-driving vehicles on Washington, D.C. roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self ..."
+    publishedDateTime: 2020-01-24T00:58:00Z
+    webUrl: "https://www.metro.us/news/the-big-stories/uber-self-driving-cars-humans-control-to-cruise-washington-dc-friday"
+    ampWebUrl: "https://www.metro.us/news/the-big-stories/uber-self-driving-cars-humans-control-to-cruise-washington-dc-friday?amp"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/news/the-big-stories/uber-self-driving-cars-humans-control-to-cruise-washington-dc-friday?amp"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 24
+      name: Metro US
+      domain: metro.us
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/6/51/6519890d-38c7-523c-b864-2a565adcb0f5/5e282eceb9f09.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-  - title: "GM's Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
-    excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
-    publishedDateTime: 2020-01-22T20:21:00Z
-    webUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/"
-    ampWebUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
+      - url: "https://www.metro.us/sites/default/files/main/articles/2020/01/23/LYNXMPEG0M1ZY_FES376_1579824019_724231618_0.jpg"
+        width: 800
+        height: 533
+  - title: "Report: Cruise Origin electric self-driving shuttle will be made in Detroit"
+    excerpt: "General Motors is reportedly planning to build the Cruise Origin electric driverless shuttle at its Detroit-Hamtramck plant—the former assembly plant for the Chevrolet Volt, as well as the plant expected to make GM’s electric pickup and some of the 20 electric nameplates due by 2023. An employee letter sent by GM’s VP of global ..."
+    publishedDateTime: 2020-01-24T19:45:00Z
+    webUrl: "https://www.greencarreports.com/news/1126870_report-cruise-origin-electric-self-driving-shuttle-will-be-made-in-detroit"
     type: article
     provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 18
-  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
-    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel,"
-    publishedDateTime: 2020-01-24T14:50:00Z
-    webUrl: "https://fox2now.com/2020/01/24/gm-and-honda-unveil-self-driving-car-with-no-steering-wheel-or-pedals/"
-    type: article
-    provider:
-      name: Fox2Now St. Louis
-      domain: fox2now.com
-    quality: 4
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 2
 
 secured: "LP1OeXf+sL7wnXvedTVgyjS8fySDWwpiCsCktUml6CxjVmFybX2kuOoD1HkQL3G130ZQPEBeavtXHdQUXFjlFjgCWDTn/xSX0sse4fVRpgyTZgYVH3vEh2UEX1ECGXOWbDuZI0Z5VeIaSH7J/mR5wWE37bF2ym2SYEyeO9Ozab/qeDdM4yZvvltcMtftTP+VtW5SP8UZG/3MOE6YbqEXN2s8itCa1SM0PRJYUE5gH1RlVOz+8sTpqQYHdQGGK+D1kKmcif/b113VKFlTfRHNOiM6gnhjJvOSKEipUITmaJeNg1/HztrNF2CCCygEDekYMzoW5Yv0e5oJlQxyuVvg8C2mDfbDApNJYHK5hZTx1XPFUdyvJPq+uNiPNnU0A9frYDLPwoy8u/CxfLfgm3WF07n+5+hF0orfF2yj5LlqHWkYu+NLttf+tY8aa6OZsxsovTr/3qj3sQVSnp/gk9BgBg==;lmBytS/tnlO4K8L5K3lodA=="
 ---

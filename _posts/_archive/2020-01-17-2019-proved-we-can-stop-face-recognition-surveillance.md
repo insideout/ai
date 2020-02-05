@@ -1,9 +1,9 @@
 ---
 category: news
 title: "2019 Proved We Can Stop Face Recognition Surveillance"
-excerpt: "This piece originally appeared on Fast Company. In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest ..."
-publishedDateTime: 2020-01-17T18:26:00Z
-webUrl: "https://www.aclu.org/news/privacy-technology/2019-was-the-year-we-proved-face-recognition-surveillance-isnt-inevitable/"
+excerpt: "This piece originally appeared on Fast Company. In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to ..."
+publishedDateTime: 2020-01-17T17:55:00Z
+webUrl: "https://www.aclu.org/news/privacy-technology/2019-was-the-year-we-proved-face-recognition-surveillance-isnt-inevitable"
 type: article
 quality: 39
 heat: 39
@@ -23,21 +23,6 @@ images:
     height: 630
     title: "2019 Proved We Can Stop Face Recognition Surveillance"
 
-related:
-  - title: "Facial recognition surveillance is authoritarian and has no place in our society"
-    excerpt: "We shouldn’t have to change how we live our lives to protect ourselves from unwarranted surveillance (Photo: Steffi Loos/Getty) The fight to ban the use of facial recognition in public places is gaining momentum. Last week, it emerged the EU is considering halting the use of this authoritarian technology to allow for a proper assessment of ..."
-    publishedDateTime: 2020-01-20T16:47:00Z
-    webUrl: "https://inews.co.uk/opinion/facial-recognition-surveillance-is-authoritarian-and-has-no-place-in-our-society-1370329"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 34
-    images:
-      - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/01/GettyImages-826000302-1.jpg"
-        width: 2353
-        height: 1499
-
-secured: "dW3NoF4crXMiFCD9AZ0DXhHQmclkzeKL8dGtJqOfDRHtOhWyvPCDGhvPaW2zhWN0T9qBwjd0GM1DRVT2arFVgs3sChcO0HlQ8xcj6P0Af+GGsdTV1cQV5t9jCTd0h6pNZ0L2kzma8y5/ak3kM+RYgjM0icSgdzVh6aJ3sngacXOOXIUJBjc5ICU+uohs4CzBs9WN53PjhKIUo9HCoOiQG2pzjIRD5EaMZlB9xq8eh1J7YaTaeIZ7ai1VaNV7muLAxiKKOPPVSIpmCqe3Qw/Pk8nwTXuMJ5l74NVv+iaxU5Q=;1UcUcXiHBLcp4VGpDp0ndw=="
+secured: "eDgWX/fXfm2THVxFI6IXFpZKe6qSnbfMEM/SG+SR41pczIcTSEtyuLvkINmmPcKF6WCGPiUHRCLWlbF9LoHU76G76w7IV5BlyoFWYLj6fNLV13eqkTYm6kMinJmY5Zpr7yuwJpG2S94u35GgZNhtmkuOm5k8eMtRZjyRU5umSyov772RWorYSRMnveM3ncEkshON96NW7j6v3lhjge0p3XSWmK/9Cq7BukZc481JqELaWaL4ELbdtPQujeqGu3Ti/rLsIWdhoLc+wU8STQis6XL/Zdlr2QBSPemvYd1hSW4zdDsMibw8J1rcQmiYRVAe;wB0OseeKQSdOd49OBUT30w=="
 ---
 

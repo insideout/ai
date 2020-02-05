@@ -93,6 +93,19 @@ related:
       - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "GM’s Cruise has unveiled a self-driving car with no steering wheel"
+    excerpt: "Hmm. And there's the tech hurdle: Cruise will also need to prove the software and sensors inside the Origin can safely navigate the very complex environment of a city, at a time when expectations for self-driving cars have cooled. And it faces stiff competition from the likes of Waymo, which is already testing fully driverless minivans in ..."
+    publishedDateTime: 2020-01-22T12:47:00Z
+    webUrl: "https://www.technologyreview.com/f/615077/gms-cruise-has-unveiled-a-self-driving-car-with-no-steering-wheel/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 24
+    images:
+      - url: "https://cdn.technologyreview.com/i/images/cruise1.jpg?sw=1200&cx=0&cy=0&cw=1545&ch=869"
+        width: 1200
+        height: 674
 
 secured: "iMLgumH6av33MrzW8y6bljTtuFIEky9AQizeFChYeDlJEOR82tdPtHnVJB5Lt/ROvFTsu04yw+LePk56Vi29KW+hRw5eIVsOyrZnTBrxEIVHR4RL1XKKzLTna0kcEo/OAHpfGKVFoDWD/YeZizcfpWj9BreXwHQoZ+fymfiZsKnDT5TTAqSnXe8jC1BxDXgfifHQ7gJLAbWimabufC1jO6g5S7J69RLgtx+S3InQN7sibRngmHL+J5UsCf0e+30qhuWymgc5vrw1t72zcohSuPGdf1SYUJBowJju3UrocNhE67cVd0DzmsttzWpKd54WRd8ZSMHn/VQrtmmJhGNCEkBtSYU8W0hRv2v6Qo0qeV4qrBXVZefj/CF1WAh7Gd9vbfyo5nCd1ZreBno+X5nBIxwUzjwA1PczCZS2WY0ZomQGgEOaa5sMc7SXBEbRy0DTK3VMHyXF2364m3vFSQahItkeQUsnznXbptcObidy5P4=;rqgRtuXZBpYFSsDKJHOUmQ=="
 ---

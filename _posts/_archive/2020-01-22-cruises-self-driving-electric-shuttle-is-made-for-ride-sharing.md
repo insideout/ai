@@ -75,21 +75,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/Pacifica_Web-Res.jpg?w=1024"
         width: 1024
         height: 661
-  - title: "GM's autonomous car company, Cruise, unveils Origin self-driving shuttle"
-    excerpt: "The automaker’s autonomous vehicle subsidiary, Cruise, unveiled a self-driving shuttle prototype on Tuesday in San Francisco, and it doesn’t have a steering wheel, foot pedals or any driver controls -- just seating for six accessed through large sliding doors. The all-electric Origin was designed to provide maximum passenger space and will ..."
-    publishedDateTime: 2020-01-22T03:00:00Z
-    webUrl: "https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin"
-    ampWebUrl: "https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 73
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
   - title: "RIDOT aims to extend program that offers free self-driving shuttle rides in Providence"
     excerpt: "But even if they don't eliminate the need for human workers, Alviti said the potential advantage of self-driving vehicles is they could become safer and use less energy than human-driven vehicles. And that, in his view, can potentially make small, self-driving vehicles \"better, faster and cheaper\" than traditional buses. Since its May launch ..."
     publishedDateTime: 2020-01-26T23:33:00Z

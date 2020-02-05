@@ -33,36 +33,6 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/cxTt3rulZLzCQQHX2q_jjKRRsyk=/756x567/2020/01/23/5c1b2d6c-ded7-4d52-ac38-f406e31d69a6/optimusrideweb.jpg"
         width: 756
         height: 567
-  - title: "Cruise's self-driving electric shuttle is made for ride-sharing"
-    excerpt: "Instead it's fully self-driving, intended to be a shareable, modular vehicle that can handle being on the road all the time. It's basically a minibus, with three seats at each end that face each other and split sliding doors that open up like a subway car. Cruise hasn't revealed details like the battery capacity or cost, but claims that \"the ..."
-    publishedDateTime: 2020-01-22T02:59:00Z
-    webUrl: "https://www.engadget.com/2020/01/21/gm-cruise-origin-self-driving-shuttle/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F290f07e0-3ccb-11ea-baff-a1a176c9a669%26client%3Da1acac3e1b3290917d92%26signature%3D46a5aceafa254504199c40acf9d49d5e899a534d&client=amp-blogside-v2&signature=869ca9968891562c21dffc9b15f2fcafcc676ec8"
-        width: 600
-        height: 350
-  - title: "Cruise's self-driving electric shuttle is made for ridesharing"
-    excerpt: "Instead it's fully self-driving, intended to be a shareable, modular vehicle that can handle being on the road all the time. It's basically a minibus, with three seats at each end that face each other and split sliding doors that open up like a subway car. Cruise hasn't revealed details like the battery capacity or cost, but claims that \"the ..."
-    publishedDateTime: 2020-01-22T02:59:00Z
-    webUrl: "https://www.engadget.com/2020/01/21/gm-cruise-origin-self-driving-shuttle/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F290f07e0-3ccb-11ea-baff-a1a176c9a669%26client%3Da1acac3e1b3290917d92%26signature%3D46a5aceafa254504199c40acf9d49d5e899a534d&client=amp-blogside-v2&signature=869ca9968891562c21dffc9b15f2fcafcc676ec8"
-        width: 600
-        height: 350
   - title: "Aurora can now give the public rides in its self-driving cars"
     excerpt: "Aurora has been given permission by California regulators to transport passengers in its self-driving vehicles, TechCrunch has learned. The California Public Utilities Commission granted Aurora a permit, which was posted on its website Wednesday, to participate in the state’s Autonomous Vehicle Passenger Service pilot. Aurora confirmed the ..."
     publishedDateTime: 2020-01-29T17:15:00Z
@@ -78,21 +48,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/Pacifica_Web-Res.jpg?w=1024"
         width: 1024
         height: 661
-  - title: "GM's autonomous car company, Cruise, unveils Origin self-driving shuttle"
-    excerpt: "The automaker’s autonomous vehicle subsidiary, Cruise, unveiled a self-driving shuttle prototype on Tuesday in San Francisco, and it doesn’t have a steering wheel, foot pedals or any driver controls -- just seating for six accessed through large sliding doors. The all-electric Origin was designed to provide maximum passenger space and will ..."
-    publishedDateTime: 2020-01-22T03:00:00Z
-    webUrl: "https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin"
-    ampWebUrl: "https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 73
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
   - title: "RIDOT aims to extend program that offers free self-driving shuttle rides in Providence"
     excerpt: "But even if they don't eliminate the need for human workers, Alviti said the potential advantage of self-driving vehicles is they could become safer and use less energy than human-driven vehicles. And that, in his view, can potentially make small, self-driving vehicles \"better, faster and cheaper\" than traditional buses. Since its May launch ..."
     publishedDateTime: 2020-01-26T23:33:00Z

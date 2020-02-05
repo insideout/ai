@@ -8,7 +8,7 @@ ampWebUrl: "https://www.teslarati.com/tesla-autopilot-fsd-israel-approval/amp/"
 cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-autopilot-fsd-israel-approval/amp/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,23 @@ images:
     width: 300
     height: 222
     title: "Israel lifts ban on Tesla Autopilot after Ministry's clearer understanding of Full Self-Driving features"
+
+related:
+  - title: "Tesla's Video Shows What Full Self-Driving Autopilot Sees"
+    excerpt: "Tesla's Autopilot plans are aggressive to say the least. CEO Elon Musk has noted that the company's current-generation vehicles already have the hardware for Full Self-Driving (FSD). The limiting factor, according to Musk, is the software. Clearly, the CEO wants self-driving, so to make it a reality, the Autopilot team is now recruiting via the ..."
+    publishedDateTime: 2020-02-03T17:11:00Z
+    webUrl: "https://www.caranddriver.com/news/a30733506/tesla-autopilot-full-self-driving-video/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp30733506/tesla-autopilot-full-self-driving-video/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30733506/tesla-autopilot-full-self-driving-video/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/algorithms-1580508501.jpeg?crop=1.00xw:0.802xh;0,0.120xh&resize=1200:*"
+        width: 800
+        height: 401
 
 secured: "EMej7ajhZYl/78tfj91WymQdl8wfLlEFG40yKKtErBlvm/I7dgvMfb/jBwOQsyUfSMUEcYAjIe+zfFvFH2JL/BehERPa2dhRM+uz9AHN4oY3ZTco0K9LNhNg7Taw7qcYxPZRSG6jD7wto2weBi6lcHSE9c1IvUfFX4JAz+ojGFTZrrG05RkWHPRQFQ7Ru+mCaKI7/IeqIEb8qmuxuHSz8akGhxqJJpbHhy+qnubW3TBMk/nJLUiygLcaI/+/H99iGthaQCC3Bd5qMUeUcrj9Ys+rY9rPOHhYUC3Db8sAJbMyZL4N/sIq0FmbXUnCd5MG;oYaYFlrVXQvmn2v9/1UhSQ=="
 ---

@@ -5,7 +5,7 @@ excerpt: "Read Natalie Wolchover’s commentary on why artificial intelligence i
 publishedDateTime: 2020-02-05T14:14:00Z
 webUrl: "https://ctovision.com/artificial-intelligence-will-do-what-we-ask-thats-a-problem/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://ctovision.com/wp-content/uploads/dc-at-night.jpg"

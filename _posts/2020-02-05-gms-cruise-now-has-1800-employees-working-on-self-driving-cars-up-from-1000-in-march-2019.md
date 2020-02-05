@@ -29,6 +29,6 @@ images:
     height: 600
     title: "GM’s Cruise now has 1,800 employees working on self-driving cars, up from 1,000 in March 2019"
 
-secured: "D3QeGhpt8XsiRy4c8fNKfdxcfQIQjqh9gSA1uJ4clVtOgtRiYhodY6BY2wgP44g3ueCqjQpPofT/HNGtPOZ40YauiY4WnHl6OSIuR+uB2qJU99/cIM0H37u7Ta9Ba+SOCe3Z82JQZLauw0hS1FAQITKvZg/C+LOrs8rejXR1Du9NhhPmTAvHKHcPOKXRe4slgauHk9pp2txDAb7OtbFq0zi5PBV8PejFP9v5UaeemOWGN6MEXDDWELhAbKraIfvhWPGgQfjc5ySBy7nGibTUKcT7n2YR0zELf4qUt61FmM0ne69ZiWMDs9fJzlGYnLMM;2zKHk/vElS4hl9191xR+rA=="
+secured: "7aCGMKpoKGXqzZl/kVWVGlnC2jj+TkOxvZxJ1nETnwdI1J2tr3OOIbxFWTkewubOsDsH1s5cRXdSJKdeAo1xVskeSY65J/h9FE6tqo81iN8EuR7Mv2gWzxE/TUnh+1IXeNg+18nm4+iYnr7uWuP5N8ejND916o5FQ3G0MJ2KmJI4/elYhfwnvm523ZaM3XziFyDLQApv/T0Gti6mBlZbTiw8f2Aw5JkebRmMUME5wylrp0dCww5spe7GrNCiUzuztxDTYgT7PzTr22LAjJUbub6pGmdFL9hkarNnN+nOhoKNE0umSg5NiPj69YczYTQiDzhqo6ybfDkWm2b53Yuo7QHqMm/zY1ox5HUXyy6V0kpdFWsGE2FTO+3Z8eFf9Y9NTZlMFDvNi7l06ZkC0mmDG+lp7Lhk9IYT80N1Gj903+/R4/cB1dGBoxjFB12cDtij06jkLYZGogw7n19a74MIsZklyh+Ycd/KOwtENgaEyls=;XTVp16RckoSyollotawOzw=="
 ---
 

@@ -38,21 +38,6 @@ related:
       - url: "https://static.businessinsider.com/image/5e305ac224306a476129d512"
         width: 400
         height: 224
-  - title: "The Future Of Android Integration In The Fintech industry"
-    excerpt: "Though there are a number of benefits to Fintech technology and the effect that it has had on the market, it is also important to note that this style of financial payment will require further development in security. With Visa and a number of other companies using Ai and other technologies to create a highly secure two-step verification ..."
-    publishedDateTime: 2020-02-05T08:11:00Z
-    webUrl: "https://www.androidheadlines.com/2020/02/the-future-of-android-integration-in-the-fintech-industry.html"
-    ampWebUrl: "https://www.androidheadlines.com/2020/02/the-future-of-android-integration-in-the-fintech-industry.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/02/the-future-of-android-integration-in-the-fintech-industry.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/02/Trading-analysis-forex-chart-image-1.jpg"
-        width: 910
-        height: 607
   - title: "AI will rewrite the future of fund management"
     excerpt: "At this early stage, AI already delivers investible insights, superior client experience and lower unit cost. Sign up to the weekly FTfm newsletter and receive the best of the FT’s asset management coverage delivered to your inbox every Monday morning. It is set to disrupt fund management and unleash a winner-takes-all dynamic, as seen in ..."
     publishedDateTime: 2020-01-27T05:00:00Z

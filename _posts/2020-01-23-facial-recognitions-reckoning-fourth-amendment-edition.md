@@ -733,17 +733,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 30
-  - title: "As with Google and Microsoft, facial recognition regulation is a hot topic for Chinese tech companies"
-    excerpt: "The country known for its ubiquitous use of facial recognition is now quietly preparing for more controls on facial recognition. The technology is used in China for everything from , but consumers are starting to push back. “The awareness of protecting data privacy is increasing among Chinese compared to several years ago,” said Jeffrey ..."
-    publishedDateTime: 2020-01-22T02:55:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 24
   - title: "Facial-recognition technology stokes privacy concerns"
     excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
     publishedDateTime: 2020-01-23T19:31:00Z

@@ -18,48 +18,22 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Facebook releases low-latency online speech recognition framework"
-    excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
-    publishedDateTime: 2020-01-13T17:32:00Z
-    webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
-    ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
+  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
+    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
+    publishedDateTime: 2020-01-09T14:42:00Z
+    webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
+    ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
+      - url: "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8="
         width: 1200
-        height: 600
-  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
-    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
-    publishedDateTime: 2020-01-16T00:00:00Z
-    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 54
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-        width: 849
-        height: 565
-  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
-    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
-    publishedDateTime: 2020-01-13T11:55:00Z
-    webUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
-    type: article
-    provider:
-      name: Pepsi
-      domain: mobilemarketingmagazine.com
-    quality: 36
-    images:
-      - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
-        width: 620
-        height: 500
+        height: 630
 
-secured: "DI17BLLcIu+/XGFh0bm3005YMf2LuRntyyThg/jC3nrs5eyFT+pWL1UhMNfPlpIS52ebuGfCVbJc/ovVS9lVLZh/JmvmSnDQC3UTxtWn4fcxkeVWt/0Dkp9ba8hDypSvS4o1rqLc36R/G4rjVzO0u8t91pJnmoM8OeN9SRVY8FcNhKPIaIcJjcXdOp2dQ3UXbdkF7zUk5oJd8VDlDoGhpcZ7hdge1Qi0RbkNC7Uoh1nPyugSiVYabNvNOxdj7hdHkYUkYlfmHau9P34ChKDYJYqHhX5ivVZX+QzF2m9NpeOXrK+ZZZ+WU8VbANFwiYd/;mBeI7yjLA9lScfiMjnyNDw=="
+secured: "0SX3HDmfobueiErefyww2iOPxEOduN/1lBzoFOLCjLVupm+NUQl+CTwzXGAX5Z2OejiGyEEsSXb3GnprK7IaHt0ms4AMZEuW3aFphB5Gg9wo4qr8Xfq/4zQ9riwBdYRSUcabnVy355PM+tnziB5nrnENtvUXMdwDMWAamnCmej/wLXhcZ6tuCr2uN6Fwe2WUSFW1OuLorfD9rr+/SjllnzgliePr6q22dlL+yEyQr9pBfEqUfQD5tWas/EBVE0Gz4OWKTxn0uDcfploqrN8f7w6L+/VfwfCfrpALOnsR5JL2rfU8g8lnXQq90V84oD+s;rZ1Mn8BdsNPydzv8l9wWqw=="
 ---
 

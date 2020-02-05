@@ -114,15 +114,6 @@ related:
       - url: "https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2020/01/09114657/attractions-tech-at-ISE-events-page.jpg"
         width: 1500
         height: 937
-  - title: "AI in Education Market by Latest Trends, Business Opportunities, Segmentation and 2026"
-    excerpt: "New Jersey, United States - The report titled, AI in Education Market has been recently published by Verified Market Research. The AI in Education market has been garnering remarkable momentum in recent years."
-    publishedDateTime: 2020-02-04T04:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-by-latest-trends-business-opportunities-segmentation-and-2026-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Artificial Intelligence in Energy Market Growth Trends 2019 | ABB, General Electric, Siemens, Grid4C, IBM"
     excerpt: "Global Artificial Intelligence in Energy Market Growth (Status and Outlook) 2019-2024 is systematic research that delivers an expert and comprehensively analyzes recent key business trends and upcoming market growth outlooks. The report covers major drivers and constraints, accounts of crucial market participants, splitting analysis and ..."
     publishedDateTime: 2020-02-05T06:32:00Z
@@ -149,6 +140,15 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
+    quality: 0
+  - title: "Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application, By Region, Competition, Forecast & Opportunities, 2024"
+    excerpt: "Global In Flight Voice Recognition Market, By Technology (Voice Recognition, Speech Recognition), By Aircraft Type (Narrow-body Aircraft, Wide-body Aircraft, Very-large Aircraft, Regional Transport Aircraft),"
+    publishedDateTime: 2020-02-05T18:29:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980506/0/en/Global-In-Flight-Voice-Recognition-Market-By-Technology-By-Aircraft-Type-By-Application-By-Region-Competition-Forecast-Opportunities-2024.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 0
 
 secured: "xnGi4DmxLEalA9/mC4tUygaVUO6di8D/I1256AOP/vmoUskxHrwIMXD1Uek1XgfnUCNZwlNrwjGGA9/M/VUN6kWu3Cr3cFAR0W3QnjbEZVLZb2TNJ8ajwdA/tFKA1aas9BIYylRg/sTo/BJqxM7lTSOSO4mCLabPqZ3KLlp6ppFiG5sTOnjA9qEiVASCyI06GoYQDALx7xpV3aU+Xl6MXIyWBqZaOawE8iAChsa7pCdBlssJ2pJpQKTotkx/bBMkat3+m/dLLa6M3H5rud4AMGSKFSwaBmuRUiQrkchYYY6GkegxIlHI5dQglRI8s9LI;oetSxOEoHbLy2I7E2uznjA=="

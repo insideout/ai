@@ -451,6 +451,21 @@ related:
       - url: "http://media.heartlandtv.com/designimages/WKTV-StoryDefault-640x380.jpg"
         width: 640
         height: 380
+  - title: "Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
+    excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
+    publishedDateTime: 2020-01-22T17:23:00Z
+    webUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/"
+    ampWebUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 40
+    images:
+      - url: "https://www.motortrend.com/uploads/sites/5/2020/01/Cruise-Origin-Self-Driving-Pod-Loading-Passengers.jpg"
+        width: 2048
+        height: 1152
   - title: "Self-driving semis will soon be sitting in Houston traffic with the rest of us"
     excerpt: "HOUSTON — If you commute on an interstate that cuts through the Houston area, do you think you would notice a self-driving big rig? Waymo, which is the self-driving division of Google, announced Thursday that it's starting to drive its Chrysler Pacifica minivans and long-haul trucks in Texas and parts of New Mexico. The autonomous vehicles ..."
     publishedDateTime: 2020-01-24T01:01:00Z
@@ -616,6 +631,17 @@ related:
       - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
         width: 620
         height: 330
+  - title: "GM's Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
+    excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
+    publishedDateTime: 2020-01-22T20:21:00Z
+    webUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/"
+    ampWebUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 18
   - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
     excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens today and runs through Friday in Las Vegas, may provide a clue when it serves ..."
     publishedDateTime: 2020-01-29T20:15:00Z
