@@ -39,21 +39,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg"
         width: 1280
         height: 720
-  - title: "The EU is considering banning facial recognition in public for 5 years"
-    excerpt: "p class=”dropcap”>In a bid to curb the misuse of facial recognition technology, the European Commission has revealed that it’s considering a ban on the use of facial recognition in public areas for up to 5 years. While the use of facial recognition is on the rise, the European regulators want time to draft rules to prevent the technology ..."
-    publishedDateTime: 2020-01-21T09:02:00Z
-    webUrl: "https://www.xda-developers.com/eu-considering-banning-facial-recognition-public/"
-    ampWebUrl: "https://www.xda-developers.com/eu-considering-banning-facial-recognition-public/amp/"
-    cdnAmpWebUrl: "https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/eu-considering-banning-facial-recognition-public/amp/"
-    type: article
-    provider:
-      name: XDA Developers
-      domain: xda-developers.com
-    quality: 59
-    images:
-      - url: "https://www.xda-developers.com/files/2020/01/IMG20200117113419-300x225.jpg"
-        width: 300
-        height: 225
 
 secured: "yHLK/jZIoyKOpUYQ+NmTgtUcdhNCXbpf2cjRtmxboUdtt8tit+zyNMN5HDZQgK4OLpFLnF9BU9eHFO/cBf323f7PL8CgZhdlLWfVyz8JUemp3MqriT36jF/K8HIp6YmlZ8UlQdcHduMeXJSlH4BovTQ5G0aWG3v/AmklBTNlxaYKyNuYNpfHYB1Qb48CC3pdJmSrXkoRtg+w/ui2s+lHza44kU6L6Xabcvtb7WEuu7HxHfrOyDRdA+s6Lm+x9Ex8kD/jbW0kdda4ADm/LCnJWD2G75J49mqa6shN1ybEtTGRncL7WFq1OUmE4gNijoU3KI+v51jMmaPgBBRazq0y/h2OEYLMn0xZqlUr8kLMAcZ744rq03Idtj5NGVPuLV97oVJ0jkorFBq3LxIvl9s5PhZSPgSjtJWoOpOfxZtVXrPAX6PrhmgAcoPY2aAI/IvIQ6kjGtRd9fNNYsLO2XMuHjL0AOh/mLUMOlAGZf3Qjz4=;onb4/PqrgtIzsY4sIjdi+A=="
 ---

@@ -24,36 +24,19 @@ images:
     title: "Want your photo removed from our facial recognition database? Just send us your photo and government-issued ID…"
 
 related:
-  - title: "US spends $4.5m on heat-based facial recognition that works at 1,600ft"
-    excerpt: "According to a couple of new contracts posted on the federal spending database, the United States military is cashing in on developing a new form of facial recognition technology. If you assumed that the US military was already using facial recognition technology on the battlefield, then you would have been right. The current use of facial ..."
-    publishedDateTime: 2020-01-21T08:12:00Z
-    webUrl: "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html"
+  - title: "Aussie entrepreneur launches “disturbing and unethical” facial recognition tech in Silicon Valley"
+    excerpt: "Founded by Hoan Ton-That, Clearview AI is a secretive Silicon Valley startup that has been reportedly operating in stealth mode for some time. It’s facial recognition app allows users to take a picture of a person and upload it, to access public photos of that person, and the sites on which they appear (think Facebook and YouTube)."
+    publishedDateTime: 2020-01-22T05:11:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/aussie-clearview-ai/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 26
     images:
-      - url: "https://images.tweaktown.com/news/7/0/70038_01_spends-4-5m-heat-based-facial-recognition-works-500m.png"
-        width: 620
-        height: 329
-  - title: "Universal Studios' Secret Life Of Pets Attraction Will Use Facial Recognition To Turn Guests Into Stray Dogs"
-    excerpt: "This morning Universal Studios Hollywood revealed some new details about the forthcoming The Secret Life of Pets: Off the Leash attraction, including the fact that it will use facial recognition technology as well as gesture tracking in order to turn those on the ride into unique stray dogs. What's most intriguing about the new attraction ..."
-    publishedDateTime: 2020-01-22T18:53:00Z
-    webUrl: "https://www.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs?pv=related_list"
-    ampWebUrl: "https://amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs"
-    cdnAmpWebUrl: "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs"
-    type: article
-    provider:
-      name: Cinema Blend
-      domain: cinemablend.com
-    quality: 40
-    images:
-      - url: "https://img.cinemablend.com/quill/c/a/f/e/4/a/cafe4af26bbaae7202ee6c7b7d447eb9ae15e12f.jpg"
-        width: 1200
-        height: 600
+      - url: "https://www.smartcompany.com.au/content/uploads/2020/01/Clearview-AI.jpg"
+        width: 681
+        height: 333
 
 secured: "fx6IOB21DMo1cGJcCfU3pTV5A5rGz2HiySIt9pX7xGialZt0iv/I1mHGkcyKgDBpcUY6ICQBUfJnF/OceXqrRk306XA1v7VhzSZ6/In0jD+7+eR62S0qg2nyOu7cOq5nTpe3yEAyaW31pMjNd6lfHKUpagTBhrw5cgwL8LqZlMLdqXc/4PVeKya9rD0rbtn3BohSP/kObvCjX1lQo2S4ljT1xwaSWeacbPNcmKuEHJXyddKXMvdCpSknpE7jVESyVVkM5cQlO4/ZwQoR6DGCk9gyGhnMpEVCNVp/52LABWjMXLW6mBStxDeeSO7am11H1+8MdYkE23sBq3ErZaYEd1uOZ0XVHS4+08GGF5e3C3frNKts1bP59W+032Qgv2vFE7bKXzT16MR6u4ldSrUSFCguCSK6UizvN46ZV9zkan6isBgwSYnt0Hsex6xS2M3nf9YqeLZSRhuwajGOF3swja+8U7etyWgpgApP1WQ7cBI=;83rG8nl2Xqg8CpBhsk6xqw=="
 ---

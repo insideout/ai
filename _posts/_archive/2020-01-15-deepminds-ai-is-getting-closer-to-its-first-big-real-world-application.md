@@ -2,11 +2,11 @@
 category: news
 title: "DeepMind's AI is getting closer to its first big real-world application"
 excerpt: "In the six years since it was acquired by Google, DeepMind has been rattling through a long list of artificial intelligence milestones. It has outplayed Go champions, bested professional StarCraft ..."
-publishedDateTime: 2020-01-15T23:45:00Z
-webUrl: "https://www.wired.co.uk/article/deepmind-protein-folding-alphafold"
+publishedDateTime: 2020-01-15T00:00:00Z
+webUrl: "https://www.wired.co.uk/article/deepmind-protein-folding-alphafold?source=Snapzu"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Google AI
 
-secured: "v3byJ/qoA6/9TvfVo79izEUcuPgQOhCpKOX7Be32gq911lK4bcGDNN/EdS43++CYkS0NKRDcTQB5jIqrgLWaimnTqKsUP2L9g3DC+0BtKxnMJwPsCULDgISKbTuHKA9gewj7eVzRb5HEHUil1mCeE0BpjKoXU36+F6xAObeHU61MWPnDbaS2BOTj0gxfvCLrjayw8SRUoqsN0HKGRM/ACH19bnG+Z75QpcOHgPLY4kiAmF1HPAEnBhW6eG0WTyceM3K74VAg96AjuoV890dtlGW2Zb72garesx8YUGOdnV0yV0z+ja4R3ESXLOnX8AOK;cUCu47PyaG+TdO7ih/G9Fg=="
+images:
+  - url: "https://wi-images.condecdn.net/image/jJ7YeQvpEQP/crop/1440/0.5235602094240838/f/deepmind-protein-.jpg"
+    width: 1440
+    height: 753
+    title: "DeepMind's AI is getting closer to its first big real-world application"
+
+secured: "6W8dep/PM9JELzuAk75AwemdNcAa1JB3yb2sIohk9y0BLGpHjlHuZQQwUYU78kXPGgPm0fxvECJKfhnlM2ZHzMszrky+3pVstFPyZ48V7Eo3vgSPBM3bOJljKWb1zbZqxfB+pqWAQJh9H6UjqZtFS5LEm+3Ef2kCav6xwiDutnq4Lm/oWtttOq4X5RlFZFNaqaAPwCPnOy3HknV3eMavhmyv1vqYbVSBFQEWbM8n2bPZTO/+x/tBcjW5BQKLoGT14hrg/Qa3SO0xoX9QrkhqQU4Ax5uQ4puxasOT3QgVtWwBwdOMz48y58Z9KcicJtbh;CYo747bXuoQYfaj5d9dp4w=="
 ---
 

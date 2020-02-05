@@ -5,8 +5,8 @@ excerpt: "I am going to show you a small tutorial for creating an AI (Artificial
 publishedDateTime: 2020-01-08T04:41:00Z
 webUrl: "https://medium.com/@jorgearturorangel99/artificial-intelligence-application-with-android-using-microsoft-cognitive-services-f03b51f5015d"
 type: article
-quality: 72
-heat: 72
+quality: 92
+heat: 92
 published: true
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "mF/8YpA0t+pepv9VzqD7ED68dkgyp5sqdCRYJ03I4pTmtnX6mhWdGcOl+qS/9TMa1E4TwlGqwFRIVyLRA2cKzHpT2wmx8mC1dpfMb4qXnA9vLqwZth9e1J0/buXISQOknLQdomKtnD8F14jtijKgOiKRrupF8vc0RFLkWHrcRObRyialJtfz32sRB5AY03byY/R2b7BYon7vDwgt+UhkhkutWF3uxvxDjcq7yZKmBguo5zDKrVKY4WGHUQr9i4J3ES+59IUIizyQsqHM+SAKJ9H9OilINVB3dYpaWgBsCiLDZstvibfMR+TyNWLf1EFY;teVXA+Xd4CgzFjB+fKyOLw=="
+images:
+  - url: "https://miro.medium.com/max/540/1*AiEug6LtZTfx2UJ8fgKSjw.jpeg"
+    width: 540
+    height: 960
+    title: "Artificial Intelligence application with Android using Microsoft cognitive services."
+
+secured: "FdM1/bXWoVJyqquSF1UqPha25k1gVcBb0qTLtnSZAyP7DcCLompqsaAId+lHW7zbFyBR18DSgLWyw1rghyaYCvsUJX/7rdbPizOjjL9PZ3EzzsaflSuYPEjALMDI6qAVFBV9iD6VpQhLZMniHHoHmgTLKZ3ew2szrEDC2cmHlUAaaVKOdOcZOWI3wJwUUXQIaMLRNsofhtxh7eJrbFoUQ5IlwwMNel3xG1Aw+6umEH8a/bTC1c0HyuYGu2ZwS2Ml8CsAGx6VN9LqFjbD6o0xX6modlRbOfPs/eC1Z2F9sk2Ok8/hLqEWxstAVx9CAVyd;MvZ0P5DnvsvvnC94qmtHmA=="
 ---
 
