@@ -2,10 +2,10 @@
 category: news
 title: "Self-driving Car Market Share, Size and Forecast Report By 2023"
 excerpt: "Self-driving Car Market The report on SELF-DRIVING CAR MARKET offers a detailed analysis of the SELF-DRIVING CAR"
-publishedDateTime: 2020-01-29T13:06:00Z
-webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-share-size-and-forecast-report-by-2023-2020-01-29"
+publishedDateTime: 2020-01-29T14:15:00Z
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-share-size-and-forecast-report-by-2023-2020-02-05"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Self-driving Car Market Share, Size and Forecast Report By 2023"
 
 related:
   - title: "GPU Market research, Industry Outlook, Current Trends and Forecast by 2024"
@@ -177,6 +171,6 @@ related:
       domain: marketwatch.com
     quality: 3
 
-secured: "z/1PdAL7nB2XpIiSHO6ObKZFIFaUlRYtTBfwFRzIqnsZOlNRavQAjScZpnE2KWCMWvLuu4HmsHfKg5p8Q3k+oggNIh8zJHVL4b9qLH7Sk2ymum8mTNBV/JverrlpXxp+Qv6CaVCnDArR67/tamzg/y+1WUFTL1TbLf8CU2/aB0vgRhCctQZMXhamib09ETDS0BC58d4bTnfPLzb1Y6HyfFgicYoBm2GFzwvCNQqvzrduIxIfzLIH6BzRSH7YauOvdJUQjsXvxGFScg0GDYT6r9/H7ECM8LJVTJ3RCgV8p6mYKwcEc0c47wlbZoFRkopG;UZV/faOCAgPoBOBGERmrMA=="
+secured: "SGRBIpSUSpgeCuKdZmnfFfOR9CbMXGgxg7YF722TcybLJYw6i3OviR7LNvvEhD0sCrz3blKi0dB369fWqL/FxwAwd2GDesimDqaIXtpQ+oVJsjcdG5eSki4njYQAEk/7Wbt0EreSsGowSSdMmzDi5whNoCGkjzBzjumX5gamEG+Fzt0f+GpCZxnJA97d+bR5hKoT4bTYT0b/imLnYdMpHqe+btmX//lkRviNL18qV/kGoGX0TLbKQufZft9lVEK/0QqIGLmWN9MrQd+RXhdcbV8OlfXfqEsDkQYrxcjFfz2YklL4sf9Pkdsy4ztdy3KH;WdoNsn2dFZgurJW8pdr0Hw=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/04/online-targeting-needs-tighter-con
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

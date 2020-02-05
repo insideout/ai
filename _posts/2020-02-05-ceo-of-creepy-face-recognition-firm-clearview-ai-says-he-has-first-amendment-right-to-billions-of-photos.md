@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 800
     height: 450
     title: "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos"
+
+related:
+  - title: "Clearview AI hit with cease-and-desist from Google over facial recognition collection"
+    excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, the facial recognition company that has been scraping billions of photos off the internet and using it to help more than 600 police departments identify people within seconds. That follows a similar action by Twitter, which sent Clearview AI a cease-and-desist letter for ..."
+    publishedDateTime: 2020-02-05T13:40:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-hit-with-cease-and-desist-from-google-over-facial-recognition-collection/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 57
 
 secured: "+iP+utLfehfKQEtvyOcmfhuDOjov+U2oPqvrYFEcpdATvUS9YobjOh3ST67YmS7HhnUI8/ETSFXY2oTELZYARsIrGyLDo2KwSywF0EhDe9BOr4sTFqGNFbWKUyYan72I4iATXJJgmh+CJJxhfNyrZCvZxustgrWBV+fS15Myfwu8Mf0yIZXv20MiIYS2d9VBrHju8xs+S0/iP5HiNKWnqvDibaCLTrs1eX7p9Y4o9/pqea9RWMFTPlDhpENRWdlxnyzVcinnHN4a21uZFGGpe/8ynPhnYWhyggEXSbjruAvjNd88GduTAzrAgAQMRtEYbhwE2hvnISw0S3htw8fBY4SbCtUYsGQ5fLRDs7iQldmomX/X4ZqA1I/eC3hDL0ao+HYX+hVGZYQ+fWWtaVXhBtFZjm7SZe9txpWXcDF1xYGChhkmBHHiC0qPi20Q03mzFU+H5Q3v8CYUN4NdUvPGs0sf95Kxr6fXFU9v436zlEc=;k3MVeZGYmRdac5ybg5bSDQ=="
 ---

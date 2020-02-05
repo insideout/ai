@@ -316,6 +316,19 @@ related:
       - url: "https://tribktla.files.wordpress.com/2020/01/hypatia-h_0c7b65aa9535655afa28db9d9fd0431a-h_e39d11c4cf556bf531badd230e2e2089.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 919
+  - title: "Test shows promise of self-driving cars for transit"
+    excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
+    publishedDateTime: 2020-01-25T19:00:00Z
+    webUrl: "https://www.limaohio.com/top-stories/393877/test-shows-promise-of-self-driving-cars-for-transit"
+    type: article
+    provider:
+      name: The Lima News
+      domain: limaohio.com
+    quality: 24
+    images:
+      - url: "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_SelfDriving1.jpg"
+        width: 640
+        height: 431
   - title: "Spoiler Alert: Three Key Ways GM-Backed Cruise’s Electrifying New Self-Driving Minivan Might Have Some Heartburn"
     excerpt: "At a grand spectacle in San Francisco last night, the GM-backed Cruise that aims to bring forth autonomous vehicles with true self-driving capabilities had an unveiling of their newest creation (said to have been devised via engineers from GM,"
     publishedDateTime: 2020-01-24T17:13:00Z

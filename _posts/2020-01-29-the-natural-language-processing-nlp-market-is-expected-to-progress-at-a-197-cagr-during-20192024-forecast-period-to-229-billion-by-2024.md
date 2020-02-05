@@ -69,14 +69,23 @@ related:
         width: 1447
         height: 908
   - title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-    publishedDateTime: 2020-02-03T11:44:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+    publishedDateTime: 2020-02-03T10:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
+  - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
+    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
+    publishedDateTime: 2020-02-05T15:33:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980388/0/en/Smart-Learning-Market-Worth-56-5-Billion-by-2024-Proliferation-of-Connected-Devices-in-the-Education-Sector-Drives-Growth.html"
     type: article
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
-    quality: 1
+    quality: 0
 
 secured: "p6vhSaunepTog692Ps+CZP0b98E7huTyfrsdKJD/fDifDz6nLEpPQ21lo5+qNjAqCdDj6vrVQQwD9RpUJDX8Kcg5o81L73Nda8jM6GQ3y88Dd8YIsc2jfKmcDk7AsPhtU/X4QiKkxW8EKK+wRrm7a3G73nEr3bctuenE6eXbiTORVwLV0yrIknKFrCMvUzExWwEmDb0RQRgtkNABDl0kNx+LLxZvPbLZVmdcUjvGJE/n1PHd4CC2aGAu/SDuQS86okQC7PBN8FTiqO7mJ/jY38oN0bpV35y9bZlFLd2vF/XlW76RsDkqQVp7VsGPeWwL;3DDG9LUAXbL4XlUo8xv9lQ=="
 ---

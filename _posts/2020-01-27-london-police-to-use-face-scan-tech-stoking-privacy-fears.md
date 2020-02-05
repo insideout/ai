@@ -839,17 +839,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2018/11/security-cameras.jpg"
         width: 1528
         height: 900
-  - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
-    excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
-    publishedDateTime: 2020-01-21T19:10:00Z
-    webUrl: "https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/"
-    ampWebUrl: "https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/"
-    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 44
   - title: "Controversial facial recognition technology being rolled out by London police, alarming privacy groups"
     excerpt: "LONDON -- Facial recognition technology is set to be rolled out across London by the Metropolitan Police Service beginning Friday, despite concerns over the technology’s effectiveness and objections from privacy advocates. The use of Live Facial Recognition (LFR) technology will be “intelligence-led and deployed to specific locations” and ..."
     publishedDateTime: 2020-01-24T13:36:00Z

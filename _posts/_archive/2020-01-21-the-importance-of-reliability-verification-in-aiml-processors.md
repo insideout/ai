@@ -5,8 +5,8 @@ excerpt: "Figure 1. Block diagram for an ASIC AI chip design. These companies cl
 publishedDateTime: 2020-01-21T13:46:00Z
 webUrl: "https://www.allaboutcircuits.com/industry-articles/importance-reliability-verification-in-ai-ml-chips-processors/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI Hardware
 
-images:
-  - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Mentor_IA_AI-ML_results_figure1.jpg"
-    width: 600
-    height: 400
-    title: "The Importance of Reliability Verification in AI/ML Processors"
-
-secured: "E4BP/OxFKMjIiuhnnjxtMrC39gw6hcxzv1d6GtqKb/AxxKI/nIH/ozI5LFiM1MGbQDrLIJR7YBw2sBaaxzISRoMeTILWgKLIzm3GYRWSLsZli3S8maOPzfIbf2WDD6fN3MK3NvNCgHmj6HztHB6SKXp9/d0PanJEnaw2WLqX/IKz780TrY0P1EF8LRgH8lUPbLsglJQxws00KzkbY/s3vk6bwngyj05YPLQoTcUtTHgM+gl1zkIMRQ3O1Jzucj6OGzvyI9I+y1QV0KXba75y+5z8IHpbrzigW2jc2oZr6gDWHdVdgbtzNyOV3BJeE9bNzGpiScIpczI/GX2phoV6hJtEU5WgH+v2awHFMIUF6WdKrnL4K5dxBXbFQKvgdS3rhM0jGTZuJAF8TV0I3wNCAd1oeCRRCitV8iy2I5ZSc4KryOS8bG07UdR6+bfgrvR9/PWCLhx0XKigv1pEZ3wUSA==;ejMNI3tbodOpvS4n3Gxujw=="
+secured: "M8LH/bS3W8WIGWgFX8pLvpitPYjItZ/oMS8UqMJYmmdamtr2MSGIikQE3GNrR0nctB6cHzFRZb1XCUeUwMFANlWpIZF9c5lcgiNpexIyy/K0A35o7BeNeZAZXbqb7k7OFMrfvllO5qeXnVbb316aUZsxGXNiDLHh0npp5nVWrh+dRqGpbbrDopHEfUVVeulUdobCj/UYO43fjUF3trdL7iKvMaIMzQZb3N22esWGgZY4wKEQkEgzYBPrn6yru0eiQp1KGpx4Bo3Z7zi+IcFkQ4WxnO9OcTUJhaL1cyZCzskvlPoyI47JXjXLxWmBV5OYUZxsS4AZpl8grtxcHcb7vz+8J+smF43h7DjwWtAZJxCipaURs8AFMpJNqyY4HCz/i0x4UTMFXXrnBDkUkL+9J9dNMvfqBxiuX1gmQOjAkcteg3e7jZwqrpO9qftXDdGJf17ActoIPnuBdk8ZG2LDTBD6SkzyYlpuR97K4KXj7AM=;Pky4inWeUm3iz2fCMfiAYQ=="
 ---
 

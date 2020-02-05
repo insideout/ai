@@ -33,7 +33,16 @@ related:
       name: Fleet Owner
       domain: fleetowner.com
     quality: 4
+  - title: "Nissan Leaf breaks UK record for longest self-driving car journey"
+    excerpt: "Autonomous model completes complex 230-mile trip from Bedfordshire to Sunderland"
+    publishedDateTime: 2020-02-05T13:00:00Z
+    webUrl: "https://www.theguardian.com/business/2020/feb/05/nissan-self-driving-car-leaf-longest-journey"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 4
 
-secured: "7HnImaki70mhJML+WCX1JDM7wcP7XLtivdUV9e5bTjt/DcRC1CV40g+iBfQYdDYNrfC88D8CVgsP/r9uHaBF0VfsIybXaWp9LWdHg9VOpSfTmtr4aFYFBOpdVFgtUO1N2grWs6Q/iXfc7orUFKBqHzcRCN9xVOdIxkL0jm3BZIWvkXOTVTfd1EfFhk5Hrx/c/KVKa4ZjB+UVSIEBf92LPvg7DD05koYq/qMifspKxfyCkxAqAASCzFOf9lhLWjfio8gk4RDbH+S7TMlDOQisgdeuMnlCef9flK5Mf/ne9eeajY9IJRo0Opw0TWex3tpa;TIrtLJA9i1qNPgSBM52cLQ=="
+secured: "2Y+cML7q12eMmrfMWjsiaFw78H1WqLpsH8o/KtscGYxNOEMgpewBRGSITMwGxR4Itd3C9MXjaB77BIOZRSEUVWfuM6w0huFDhsqkCN+VA6oMS6m09bfXivdssEM10H/0zRno9AH4d4US/FAHGQWHVBmc3lWSZFUnPVlQ8Aa0MfIl3T2SOCg827uLfd/1P8CsECWghU4iMDQOW0Fa/u0cvt9Ky/Ntzwoec8D/LdmOY4a0SKCYr1G5BFfzYgLZxSpzw/qlLP5UDt/GuWKt0eQ2Nr+tdI7c4S/DoRufVs8lOAm2ziofWzp+zWIol93S/jHOHUyDaxXIV8a8qKT5W++VH1qZUKYx1e5qWaYHGXWmNA3Wj4T/MPWBXJ0yTioQEyQ7/t7CKWPeq2C8no/02mMIHwCi2YJ/aWjpB57Rs8dwsdz0+orpQePZhisjeNcz1zkfHimxGObcwBwdOVpbPKaKRJm8TcAMRVe/hsVooTnLbO0=;mIiZUOrh2BBY+2agWbNy9g=="
 ---
 

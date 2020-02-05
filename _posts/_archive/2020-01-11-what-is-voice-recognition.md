@@ -28,6 +28,6 @@ related:
       domain: mashable.com
     quality: 34
 
-secured: "8MUIrkyuD6vsmLrVJvs0wM8kYfUHgZH+uA2JJAVW/OfQJxDycWQZDUIZlFj5Pwcf60KRow/pEgqK0H3tYzT19Py4ZGR8rHI2S1p/oAmx6SvN/8yTvynQqx8c6t0eRULkFhfDLEQ3gMwpqkxHPhDOUiah9k9VV0nqWFMXWy8KeRC5kYlDuXunDkg+f26z8zewX/OSrGEzyAlEhqGObaynosGihS1hTbAch1vPtOhsjETzasx/yKaaoHlvAdgzQZmLqlCAvAkruAJNrnbvBjuboX/Cl/gEvdShc/g8wVBUFP9nPctBGAzjJ1IJ8n+eIYJ3;D4gqOVy9ySXoXZwybtAhDg=="
+secured: "pK3TX9SUBtW1Iy9561RqZ+GPBNmm2hKP6sdxJTor1cXbcH9PhwB2eiGTI85zF/9N8hr1b7ty19g+zNfYJHSiQYSC4CsWm1DWyS+lO5yxcziGlWnQwpkGD+Hu100FRq2l9lA5svmauxEvKVzLeckYTOLop6epGWKYDYEwuc8NWaX1qjtjI6IbbdZuxkseJgRgnOq0uoeLg+5gEKugDRCAZtwrsZ4s8qvJ1+pwkj6k3JRsm6KWc+Pwv0DNn9UpCNp9jXvsKbdDQg2vtSHqVYXoBD3RtHGbgh6FS/pbBwtfu9rEADMjs9A0RX2vqLuD3Mzb;xe/A00uIKhGU+4QpXmQuqg=="
 ---
 

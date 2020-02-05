@@ -74,6 +74,15 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg"
         width: 1600
         height: 899
+  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 34
 
 secured: "fNNpLLO0Uu54l6bgCsY23pBQNdXwqVFm8ZjKRQKKKnc6fM3jYEd5Cl7YN2uqaMpuUJteypWSKtpnwFM0TAsX3qYJ5T55yGmKtMDUWm7UFQQiQsn9IBBGbAA2J3h9SSeXVT8hKrEUNo3bUjBRvPd4M71C+yIUPXHXtTQnudRRDgpWMuIrPZkniL2zNNnty4tAPdt8Dkwe468YRL9S2WMPT1Oopfn8tnqMXGIYmEtuSBqzLMQVSPult6WfyLCRw8YDfBwcMnErrbHA8wEgvWO/CAAmMw3GUrf6yWXFVHymUn/WbLKuoEFBj8yC1m6FnrU/C/4wzlUauZNIGgBugiPS0MTOOOLI6lniJXceZ+4IUPp/+B0g5W6VnwTa7/YS6KdL8HmyyOfZJHc98VrdH6msuTWOvmM1uWmuR8970xm4JFlKQ5iO95q+ACXeEurrKNE6O3Vw+xirxQCyGQhDgBIewDV2FpoxbA2b2H/jvm55SHE=;/zuYEeu6Z3DfCap0tGFeJA=="
 ---

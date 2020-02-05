@@ -71,6 +71,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
+  - title: "Natural Language Processing Market Expected to be Valued at $22.9 Billion by End of the Forecast Period, 2019-2024 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends And Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. Valuing $8.3 billion in 2018, the natural language processing (NLP) market is expected to progress ..."
+    publishedDateTime: 2020-02-05T12:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200205005399/en/Natural-Language-Processing-Market-Expected-Valued-22.9"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "E9Rn+vM3nHKNAMcCQw4M1oApcNKcl8t3iWzvKNn7769iNdnesyTI7etoBKDfR99cWT8ZKgakqbCL94aK+rkuDhJ8Q9Z2WSzHFvMs7/qW9rbdM1TyY6uLXZFwJDZW73911CCzjXW76d3Q3G+M6zHAARKt4e5IDKxJkoylxujL5bDFeBQQOECeHBLq0/YwBefORlUTjEJgWa/HROjbKqoZrers4nVvIvEyuB7vKjzUOBZRqrEd2Jv4TaswO7vCxf03Ujo1SKxAc34I+Qx9Rd0bYMDwndyoQmi68U3IOXBNsuQ0/pq7EMLoq1oOcCDnlTOQ;q3qR3WxFUubVBUTYqFRMUQ=="
 ---

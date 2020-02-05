@@ -75,6 +75,15 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 48
+  - title: "China using AI to battle coronavirus"
+    excerpt: "A robot equipped with loudspeakers and high-definition cameras admonish passersby ... vaccine development and protein screening. Beijing-based AI startup Megvii Technology, known for its facial recognition brand Face++, has developed a temperature screening tool that can help monitor human body temperatures in crowded places and identify ..."
+    publishedDateTime: 2020-02-05T12:18:00Z
+    webUrl: "https://www.globaltimes.cn/content/1178630.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 19
 
 secured: "5qzQnd+iYPSBnqUQDZOgOf8Uq6IL76LYc3J3lmxG9TTWvWdtcJ2uacTrk+XzSbpRbTHvAWvxnwOzG97372BIGuZs04kRCdfccarlmduuVNuqjUvfzv2OM5CSYbTcDe5FqM06o9NqJ+IDD1mHQMoFbvWePB6/twGaYUW0irdcPUg0B+5Uob+kq7YBLmt2IqmESVOtMojfeGt2MArLHhgXhU4lAUlGeNH9i2jbmPzYObz9514gMb/qHRMQUC0gRIAw0dzIWGs+9k151npFSL3iK2piHQOPFcWgDeUW/Ym7PF02/9TvZ3pn6JaOKP/wK6rI;O9a4mHxjx/beZ8fmzdELmg=="
 ---

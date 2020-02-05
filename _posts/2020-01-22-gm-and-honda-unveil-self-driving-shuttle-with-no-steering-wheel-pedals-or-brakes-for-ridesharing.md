@@ -303,6 +303,19 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 34
+  - title: "Test shows promise of self-driving cars for transit"
+    excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
+    publishedDateTime: 2020-01-25T19:00:00Z
+    webUrl: "https://www.limaohio.com/top-stories/393877/test-shows-promise-of-self-driving-cars-for-transit"
+    type: article
+    provider:
+      name: The Lima News
+      domain: limaohio.com
+    quality: 24
+    images:
+      - url: "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_SelfDriving1.jpg"
+        width: 640
+        height: 431
   - title: "GM will invest $3B to scale production of electric, self-driving vehicles"
     excerpt: "General Motors Co. said today that it will spend $3 billion to retool one of its main Michigan auto plants for the production of electric and self-driving vehicles. The lion’s share of the planned investment, $2.2 billion, will go directly into facility upgrades. GM said that it will bring in new “machines, conveyors, controls and tooling ..."
     publishedDateTime: 2020-01-27T17:55:00Z

@@ -53,6 +53,15 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 20
+  - title: "Splice Machine Partners with Heirloom Computing to Modernize Mission-Critical Mainframe Applications"
+    excerpt: "/PRNewswire/ -- Splice Machine, a provider of a scalable SQL database that enables companies to modernize their legacy and custom applications to be"
+    publishedDateTime: 2020-02-05T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/splice-machine-partners-with-heirloom-computing-to-modernize-mission-critical-mainframe-applications-300999142.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
   - title: "Non-invasive online and offline quality control: low cost automatic visual inspection systems with high resolution machine vision camera"
     excerpt: "Made in America - Automating for Growth Mistakes Manufacturers Should Avoid When It Comes to Digital Marketing Inventory Management Software with Capabilities of Bill of Materials BOM Discussing ATX West with HEIDENHAIN What Machine Learning Trends Can We Expect for Manufacturing in 2020? In this paper we introduce Machine Vision System (MVS ..."
     publishedDateTime: 2020-02-03T16:34:00Z

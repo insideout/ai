@@ -824,17 +824,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2018/11/security-cameras.jpg"
         width: 1528
         height: 900
-  - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
-    excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
-    publishedDateTime: 2020-01-21T19:10:00Z
-    webUrl: "https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/"
-    ampWebUrl: "https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/"
-    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 44
   - title: "London police to use face scan tech, stoking privacy fears"
     excerpt: "FILE – In this file photo dated Wednesday, March 28, 2012, a security cctv camera is seen by the Olympic Stadium at the Olympic Park in London. The South Wales police deployed facial recognition surveillance equipment on Sunday Jan. 12, 2020, in a test to monitor crowds arriving for a weekend soccer match in real-time, that is prompting ..."
     publishedDateTime: 2020-01-27T21:32:00Z

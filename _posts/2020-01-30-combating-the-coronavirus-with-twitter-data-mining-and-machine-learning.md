@@ -78,6 +78,15 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fcb89f91c-451d-11ea-bb8c-d0d9130b9ea4.jpg?crop=2667%2C1500%2C0%2C0"
         width: 2667
         height: 1500
+  - title: "China using AI to battle coronavirus"
+    excerpt: "A robot equipped with loudspeakers and high-definition cameras admonish passersby ... vaccine development and protein screening. Beijing-based AI startup Megvii Technology, known for its facial recognition brand Face++, has developed a temperature screening tool that can help monitor human body temperatures in crowded places and identify ..."
+    publishedDateTime: 2020-02-05T12:18:00Z
+    webUrl: "https://www.globaltimes.cn/content/1178630.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 19
 
 secured: "O8PJSCrkvhChrBs4CQuQot4A/pHbHDaEUhCFkoosr61PnwW8FY5HeVGErTz0NDavMdZ2CHNqmeOa1CXlicvW/nBFcgUOAo9lCwVY2nIM0PHcGHYA4NPNEQ6EDgMlX11OrvglfgeLwr2vkQIzIt3C7YlkQlsj3V+KrR+UtWDqr9TOIs5zu9tUZfyvEv+7HQObVGVL5zmvQxGGk91pb3vMBRsX8v116KHvV1v6z0hBLYaB+oA43wGnnGprDeirZjfwsD4d+8cQncQd2bkmkoak4CM0//ZP+06CKfy9nSCxMkZmBmFcVSB1egfe/KcdMy5Rd6YSzPs6PKxbE94IuW2AakiDqqIhPSQzZoXB874/LhkjLXVf3K1nT1q5JYdJ75Box7Wa5aG5x1hD2jBTBglsaqhEvi5rhVjs2mYwAdPTe44l4cXBXfJ0Zlsf26UFsCKu+LF1puVF10FKEGA9eYzEk7v9dnPcrxG+DjLZ+EyxDKg=;vr+CiSmsT5HmorEtg6/a/A=="
 ---

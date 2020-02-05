@@ -62,6 +62,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 19
+  - title: "Splice Machine Partners with Heirloom Computing to Modernize Mission-Critical Mainframe Applications"
+    excerpt: "/PRNewswire/ -- Splice Machine, a provider of a scalable SQL database that enables companies to modernize their legacy and custom applications to be"
+    publishedDateTime: 2020-02-05T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/splice-machine-partners-with-heirloom-computing-to-modernize-mission-critical-mainframe-applications-300999142.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
 
 secured: "bSsiNvcTdD4E1GeGZ43e0kzAobhUpgPPe3LKCC8Dc5dYPp979tyWxs9ZGmE600HpQYqYwJ42nssBnB9ITMJjT6Z2z+lmyjb0TmqQcvtHq9ykOOYr2ssD3pKAEBwGCnaQCsMo772FU1lQOKWvbzPxUA4lsMpklUXdQeSP+LRBro5AQn0OhD/aychptzBD41YRI9KxG3iU1mBeO+9h54T42eIW9N7wrMz5PXI0uxvH5xT38zVtQ+D10UA4qrTOmbZRbByZxqRHOJm460+0AaSbkYJk98eu0i22X4tAZk4rcUqJOtIs6ztbbIeDkggdzvZ4;vvLlXlxIYSgRfsqKJavxyA=="
 ---

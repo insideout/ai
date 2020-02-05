@@ -50,15 +50,6 @@ related:
       - url: "https://upstatebusinessjournal.com/wp-content/uploads/2020/01/TAYLOR_KVABYUL_HEADSHOT.jpg"
         width: 1920
         height: 1080
-  - title: "Self-driving Nissan Leaf electric car navigated itself 230 miles on UK roads"
-    excerpt: "Pilot vehicles tested on private tracks incorporated artificial intelligence systems developed by fellow consortium member Hitachi ... and a huge step towards the rollout of driverless cars on UK streets. 'This project is a shining example of how the automotive industry, working with government, can drive forward technology to benefit people's ..."
-    publishedDateTime: 2020-02-05T09:23:00Z
-    webUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
-    type: article
-    provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 1
 
 secured: "LJt4hUtEsFowgKSMiBTPqBdcACRebflszWXdoaDnyFO1guAauIle0o1AhNO1WjYr7KBY79eZh5uxsZRnyEOwG1o1O5f/ASGT8lo1jZZgIRABJqizUFLxT0oZo8sEfVfGXds/nW66ItUa6vYqEi8d86u9XcnWX9OseX+tuaLC/losOP1MIrv/iQdXXIa7ead0a+iYw3uqCyT+9qftqLh9ZAOwBY5FjAjmy8T1Q1LssH9IADB6chH/PLxuz+yoQbQAlteORtkrZlZRMsVlGq7edPLTrJyLGMSR+7zhwBcCE3aDqNI5XTkNFsPV52gMsTQdw6jDgRf01zEaAcN/C3sqegkTaZhtoRJWRMAagv718hbphvsKTGrNW0yXk+4hCVwATSfF3z+BUmuHOuJpZMUt8S69N6KFHx/4m8rvSexYjOskAxJ2HsaMt+YNgN3uvXfRaWf7kN6GGiq99ht67UrV6A0K3kvaEWwktSpVc2BS/R4=;I4tTu/jHOn8zNM1XfrbFog=="
 ---

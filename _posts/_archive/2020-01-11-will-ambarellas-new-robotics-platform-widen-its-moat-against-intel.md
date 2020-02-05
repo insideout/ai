@@ -21,6 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-secured: "MPN09NhejZcZ9/kPuBnHzKxdAc338DAznbVr2OMeB0J1Ly5vU827tfRTD6xSVkXN7kWjZCQsxMpJ1d2qiNOsDc6qwtmB3Ux0U2otYm7QRJCPGbmYtncSgVfxHqd6Z2W9T+4Sn3kUWbagFNDpGcMK+ibHGLB8xxA76NvFPFHTTXFVesspDuIKCs0bUvMetCg/30SnZp+Zd4wXtetXZeM+keBXFalqm/qdE+pvyFdNLTIyxhwIU9RXEQK/SHEbJF5ULSn0kfF6R8Oua0d/x4LbRI0cTgSzhKTkaV9Wq4l+pwpNFt78Gg1gL9VI1fsyZzmo;9Z8QRHp7vYc2TjrkfxlgSQ=="
+secured: "GE9iqr9x1FprY/n9Ua+5Whw/madD+/mhw5GkdvRbaFEd+ttyJx6pA44MG2FCttfcVQkttNrq8le7oHCFsYWd/OwoLUdvxT5aJy4ofUWLlY85E++5Yo9R/fSGopdEdbmgk5BnQ7P6ZZNuWrIG3vf/8UgElJzNZKzx7qPDvGjluI+sMjBPu03E/eiVb5z+wQE4RrSlxAAf8T3saDb55PFh4jZVrkNQryv1s6v+wH1qz+WQyM7i0x4tfw4Yl7mY/cC3a4pWLICI/08xurSprYxyuKb5EJSJtMLg+/FFzI05HnPYVrpCH426PLNdeszdt27b;FxfAJ0ZoQm3vW7sFiYgmeQ=="
 ---
 

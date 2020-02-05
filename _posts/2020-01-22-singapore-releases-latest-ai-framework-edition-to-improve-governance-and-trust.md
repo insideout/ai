@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-latest-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -42,19 +42,6 @@ related:
       - url: "https://s3-ap-southeast-1.amazonaws.com/images.marketing-interactive.com/wp-content/uploads/2020/01/23103003/AI_01.jpg"
         width: 630
         height: 358
-  - title: "Singapore unveils new initiatives to build consumer trust in artificial intelligence at WEF"
-    excerpt: "DAVOS: A set of three initiatives, aimed at improving consumer trust on the use and governance of artificial intelligence (AI), were announced by Singapore at the World Economic Forum (WEF) annual meeting on Tuesday (Jan 21). They are an Implementation and Self-Assessment Guide for Organisations (ISAGO), a compendium of use cases and a ..."
-    publishedDateTime: 2020-01-21T19:53:00Z
-    webUrl: "https://www.channelnewsasia.com/news/singapore/singapore-unveils-new-initiatives-to-build-consumer-trust-in-12297508"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 29
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12297974/16x9/991/557/4fd24a3fa3f7c9c634809ce55e60b357/Ev/s-iswaran-in-davos-2020.jpg"
-        width: 991
-        height: 557
   - title: "Singapore unveils new initiatives to build consumer trust in artificial intelligence at WEF | Video"
     excerpt: "A set of three initiatives, aimed at improving consumer trust on the use and governance of artificial intelligence (AI), were announced by Singapore at the World Economic Forum (WEF) annual meeting on Tuesday (Jan 21). Media playtime"
     publishedDateTime: 2020-01-22T18:56:00Z

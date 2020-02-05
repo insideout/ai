@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-sea
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/amp/"
 type: article
 quality: 99
-heat: 110
+heat: 109
 published: true
 
 provider:

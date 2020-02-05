@@ -50,6 +50,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "BkfQH1lGnQIpEOlHHqOtIbrzwtL0+LTW6anXz+H0032Kvi3h/4lj07l0qoYpTPMJguLk4L/26GYtjqVFHhPu1GNdjmWUA10yuAoJnXmbEhcn60KRvHXofC29hoa2Unix3zr6ArQ5YgmBxlMmakXZvQeHaw0JA3KXLgB0KKzieBaHn2by60GVdYkcJ8+MvOVPwVVylzPlip+gAQJSIohKabMZlWBGwgPqpq3311ljW2oaE3ISDgG8/2zi/TVNSnPfDBAus0C4hVh0/gGmEru5coWdVn9jX2m5HmouRItFzjR7rBv/Qt/p+mYzunZ91pT3;LL7z4M45bZoCMZOsHzo+fQ=="
+secured: "ZFAs8SC0arsiXyT4L4UQbgN1feGUXUv7eTu8CcOe8KCbVyDj8Oz0Dtx7/oPx290XOM98jJ39sc3AL/TzaWAs7hVyDeNQxNyXjB84Ew0/ru6qudub3Y/qP7h/CEj/ZF58Lz2bfoiLkaK9VrmH4pg2ZglET/rARWp6IOCnqkCVDu6qBOSHa2hkRVEso+kLx6BdRAtDNYANi7W1m6I7jXZyYxCQFnyHDNCZ7JIRnE81tqvf/xu/dHu6kFtkwIdByVIZDpJlae93CD/xZEX+mDJMDabbWFnX48uhG5N/SspG+pn1PkFJvTpCM3Xxk8prfnv0;BmgSTkLv6Rz9VQl0mk8u+g=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/"
 type: article
 quality: 187
-heat: 187
+heat: 198
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     height: 600
     title: "BenchSci raises $22 million for AI-powered drug discovery tools"
 
-secured: "DiHvR+COvDZaCExOYPPaDqHABqVIAOw9XIiyWDsVcWs3n+wuWblH/WnumQdBPt2OZKi1ZT0lkvLhu2U0KOhI3eNOWbipeqBdgflG5nodrMptxG5ZO6iWUmTqAwuvl2HzpMtb1MfecEbBVrQug+d9oP/SqchvrmA+jrf8NL5WbP/2CSU7Nw8S7MZDvPs6wh1bCnCfWoNxqRVYkcTJHjQqzda9t4BBOGI35Q/g7UsdjpqLceaynjMGzOhBIP7bNJlX3pE1FFQ/pltoxBWCYJlhzPZdTrnASE9LAT+StfW/kuH2+OatszCNWuFxok9q4crBv2E3NtZXYBnn0q+mMqDnr1fC2hcj+R006GTm9/7qooKFtkNDBbg2OeLZxk4M4tpc0a+S4IyyD+Y1XSbXxpmcENwUpdW5qipJ1Wp0tQEIVaK0Ba+Y6bRIgqz/qmYM0gSKg557cBpEAkIRoIliuJi0L7kO2P9kaD+O7DHuqmdFjMPcCal3z5Mev1HsjAaj1D5r;rQbvX3sZW1KaXDbo9OOIiQ=="
+related:
+  - title: "NGD raises $20 million for storage hardware designed to handle AI workloads"
+    excerpt: "That’s where NGD Systems comes in — it’s an Irvine, California-based company offering a computational storage drive tailor-made for on-device AI and machine workloads. To lay a runway for growth, NGD this week closed a $20 million series C financing round led by Western Digital Capital, with participation from existing investors including ..."
+    publishedDateTime: 2020-02-05T13:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/05/ngd-raises-20-million-for-storage-hardware-designed-to-handle-ai-workloads/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+
+secured: "BGxa7L5Sv6Z613pc/hdOZj5oEakQ2z1NZsC7MjTDlbCG30QD2slfmTMHcxqE2zwpx6qRx5iQNQWGfit6U86cXAd3IHzeprsfM5gVPbAhKUE+/Uc/GkUtWiLOB9eAj4UXcLO913mB9Un84Xm39PqohHVESc9x3h9+0Hu2IcRAf5MmxfjF6q2QrgPbzRecN5dbo3C4CGadBUYNx02mIZJgN4EuQEtoYLMDL7hEqK4TnnTqcqwHHEQOOO+uyWfPlobYQ95BJoH1ltNMegPMuLO8q38kBul5dNUlXzhJgDInj50BtnKjY92D6xSCms6A/Ln89KnsszD6VFIb9OEvncqm5yEdp//rc4ekOeYT0Gwxu2PCzKFbK7ZmkG/ZJ011F8v69ygAu5p3r4x9hyDMYW+4dI82Lc+jgQ6r/8WKbtSTcU5eRaHwav5RHAbd0wD8MErrhPepBOolCQ2vi2OMG2ZnqTME7OcFyuzcmA9ol5P27xD8300T5WTrD7juctB+NPSA;9CnHZE+1kCVUV1bbBV2dEw=="
 ---
 

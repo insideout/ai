@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facil
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/"
 type: article
 quality: 89
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 628
     title: "Kaskada raises $8 million to facilitate AI feature engineering"
 
-secured: "0oVVms3UPPP8YzkEUP46w2KsLry65MOU2Y/K5VOQ1EV7fim1HO3fg97dnLX4G29BQTXfN6fI8Uk/+cfcnVaZlHVbGwfbnxWILq3uf3+320zKH8CBZHppvHvTMXc6KajXsf6p2DLLd0lGz9mwdZ+ZU6vmv6CRgrJQ32V7MsG1loZ6L/sbzizuqibM9IQTmu5OWaeFvw20MNHF1GGWsmXqVvgz7xhJOuRARvM6RVj8wOMylQoMi7/M5OCIkvLwokcmCTsUUniHfTYVc+j9m8+VG2Y0KP7m58a6TRe00pmqR6WO+ti2z681TniZ+DSgY94N;qdtZuTzZmwDAwoADbADb1g=="
+related:
+  - title: "Cherre raises $16 million to analyze real estate data with AI"
+    excerpt: "Real estate data collection and analytics costs can total in the millions of dollars. That’s why in 2016, L.D. Salmanson founded Cherre, a startup that leverages AI to cost-effectively resolve property data from disparate public and private sources. After raising $9 million in October 2018, the New York-based company today announced that it ..."
+    publishedDateTime: 2020-02-05T14:28:00Z
+    webUrl: "https://venturebeat.com/2020/02/05/cherre-raises-16-million-to-analyze-real-estate-data-with-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+
+secured: "ptk+Wm5UeP1yKf1ypWneLbwK8g2IgwYbZXAH1JH+knaA8UpfC16LdOgNGXb/CU6I+WoDp9FUVT0YWwgGoKCVEP0siHBpL5/ugZynioP40AoGJ10qpjyT0etSmdd5ImHP4na2RYbNnQ9aFe58iTUBN6B4X/OZ2Mna98GfqZVkivDKVq92ByQgvWFCXZGVMHIZpTqJ2XicVunQgMKkhhkZmXGaqLAd6bUBxCqCoOU5stEkC8hqg243c1iYEUv4BYcVX8Gdmzin0u/AxKb2ozo13bieOlz5xrx1hAirwFxAbdSYco3fRHQMfhSyA0yRuHBW;NEu9vbtabyEQEi/+FllZcg=="
 ---
 

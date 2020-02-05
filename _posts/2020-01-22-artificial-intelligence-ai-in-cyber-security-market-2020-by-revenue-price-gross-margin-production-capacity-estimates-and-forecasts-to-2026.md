@@ -53,19 +53,6 @@ related:
       - url: "https://i.insider.com/5e29ec4762fa81053f03e106?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Self-driving Car Market Share, Size and Forecast Report By 2023"
-    excerpt: "Self-driving Car Market The report on SELF-DRIVING CAR MARKET offers a detailed analysis of the SELF-DRIVING CAR"
-    publishedDateTime: 2020-01-29T13:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-share-size-and-forecast-report-by-2023-2020-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Autonomous Vehicles Market (2020-26) Outlook with Industry Trends by Top Players Alphabet, Audi, Baidu Jaguar, BMW"
     excerpt: "Jan 24, 2020 (AmericaNewsHour) -- Global Autonomous Vehicles Market reports provide CAGR Value 2020-2026 and analysis of Top Players, Geography, End users, Applications, Competitor analysis, Sales ..."
     publishedDateTime: 2020-01-24T01:18:00Z
@@ -144,6 +131,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Self-driving Car Market Share, Size and Forecast Report By 2023"
+    excerpt: "Self-driving Car Market The report on SELF-DRIVING CAR MARKET offers a detailed analysis of the SELF-DRIVING CAR"
+    publishedDateTime: 2020-01-29T14:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-share-size-and-forecast-report-by-2023-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
   - title: "Smart Robot Market: 2018 Industry Analysis, Size, Trends, Growth and Forecast 2025 | ABB, iRobot Corporation, Grey orange"
     excerpt: "A smart robot uses an artificial intelligence (AI) system that can learn from its environment and its experience. Smart robots can collaborate while working together as well as learning from the behavior of humans. Flexibility &amp; scalability in operation along with the high performance fuels the growth of the smart robot market. With the ..."
     publishedDateTime: 2020-01-24T12:31:00Z

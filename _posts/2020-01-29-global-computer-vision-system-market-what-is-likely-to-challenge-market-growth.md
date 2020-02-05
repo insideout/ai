@@ -59,6 +59,19 @@ related:
       - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
         width: 669
         height: 229
+  - title: "Emotion Detection and Recognition Market Worth $56.0 Billion by 2024 – Exclusive Report by MarketsandMarkets(TM)"
+    excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\", published by MarketsandMarkets™, the global Emotion Detection and Recognition Market size is projected to grow from USD 21.6 billion in 2019 to USD 56.0 billion by 2024, at a Compound Annual Growth ..."
+    publishedDateTime: 2020-02-04T21:49:00Z
+    webUrl: "https://www.oilandgas360.com/emotion-detection-and-recognition-market-worth-56-0-billion-by-2024-exclusive-report-by-marketsandmarketstm/"
+    type: article
+    provider:
+      name: Range
+      domain: oilandgas360.com
+    quality: 3
+    images:
+      - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
+        width: 300
+        height: 250
   - title: "Artificial intelligence in BFSI Market: Industry Trends, Market Size, Competitive Analysis and Forecast - 2019-2025"
     excerpt: "Orion Market Reports Recently published report on titled \"Artificial intelligence AI in BFSI Market - Global Industry Trends, Market Size, Competitive Analysis and Forecast - 2019 to 2025\", studies the global markets for Artificial intelligence AI in BFSI in terms of product type, technology type, application type, end-user and regional ..."
     publishedDateTime: 2020-01-31T13:50:00Z

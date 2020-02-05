@@ -32,6 +32,6 @@ related:
       domain: forbes.com
     quality: 39
 
-secured: "/FDPQOBV2pDye57ADvYmWKeV2rZVcUpIzdM4nzSNwjzr8Ua84o/xFM35+GBf5qMtBcemCZSTE3yffnC1d4SbVWhYaGe3YsHq+OBR/P5uKw0jfvL5tTV6zFcvV6rIgyhhihOicFQ2ygFq3YBXgwWGsoYfXnZcYJ171+yHz4rpBcivVPZ48g6huJeKE/JTyOGGOXb3hdypfPKmD+bGPgfWy6BtBd50YKNPs2QShghRB0+Z3gJlwI9CR5bojiBMbpvYJZUO2//ZICrNmkM9Pylwxx6kMWhu6yn77ggpQu3GIXULcbZM8Egw5Vgk35A3VF1E;YnqC9LEhX77zpHmEK0+eDA=="
+secured: "YE05qlxMwLUCYJltQ58Wl6/KLfORT+vIWsMIznLt2vWEIBOnZCnAbauNF51BHIkxhcJq+i2E4h+zKlpg1TfX5YXOyoxHKgOE6p0jwDvR/W/kLdt8iMK79fLqsYmvsszLoIvSzXS8plWb2lPo1JdohvLSJFLjRpr6wk5Agia5FJgYYHNGyCwiar9rLDpVgOCp7DhbnLJaSftLqExpHHEX0JY+qiQV5VZNvgrOTmeT9j3zBBaYE842wUnsE/GcC9o6vZDjRkH8C4kydOu+BfUh5JE5CZdX08ztfZKfVWZIlYddM+rPN61mLWgnJohikw3K;gWj0cgg1XVJ/KjVuiDasMA=="
 ---
 

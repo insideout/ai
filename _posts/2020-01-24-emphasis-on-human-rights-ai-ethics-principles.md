@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-24T23:01:00Z
 webUrl: "https://www.analyticsinsight.net/emphasis-human-rights-ai-ethics-principles/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 960
     height: 540
     title: "Emphasis on Human Rights: AI Ethics Principles"
-
-related:
-  - title: "Meta analysis shows AI ethics principles emphasize human rights"
-    excerpt: "The AI field at large was paying attention to ethics, creating and applying frameworks for AI research, development, policy, and law, but there was no unified approach. A team of researchers from BKC recently released a white paper and visualization that mapped AI principles and guidelines to find consensus."
-    publishedDateTime: 2020-01-21T19:45:00Z
-    webUrl: "https://cyber.harvard.edu/story/2020-01/meta-analysis-shows-ai-ethics-principles-emphasize-human-rights"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 36
 
 secured: "WVMAaFsjz/QkQm6wGsU3/fPkePiRtUkKlVELgo6M6GilG30UD1BUvUHyqpGpYdFAUZBFv6ubQihUIkXPtqpJzLGkHgUOEUOdpoCKK06npAdy4cqV3Wd98mKPKghmJYzEVr7gJ2bRtqKluezz8lVi1+G7WID39dGVX9ovNgNetjwRRR/D1XRpQU2zw2HFq3fXpN24IsY1+3bpUSEbYtVM4m25+Fm696mIHqdG9F1eM1H+MwM7UDZ2Kv6S4IqAJkKMdUn9WDB3xA6YysbJe6QQrQflwxkIkejVYhRxqrl5J3id8iLnxdnRANitFw0RiY7s7G3DFUGQYaQJCuiQzzz+6jZA9prlN2PSHT9ei+sXYwqNStZqO0/32GuaGDSCbUNBgatDtvyaaZFrOG5Cpi6ZJGFHykwAaXAYnbHXiVuKOF7iahG8nexbhAwWDO8LlqV5xh9cF8qnomdGoxxKAmIs0Qy5GIpqCHmImrBwKqepa7Y=;ZmeZ5vmZoP68oVztN1MDzA=="
 ---

@@ -71,14 +71,23 @@ related:
       domain: benzinga.com
     quality: 2
   - title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-    publishedDateTime: 2020-02-03T11:44:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+    publishedDateTime: 2020-02-03T10:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
+  - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
+    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
+    publishedDateTime: 2020-02-05T15:33:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980388/0/en/Smart-Learning-Market-Worth-56-5-Billion-by-2024-Proliferation-of-Connected-Devices-in-the-Education-Sector-Drives-Growth.html"
     type: article
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
-    quality: 1
+    quality: 0
 
 secured: "t5mVfFZuR66gG2gjaF3geaHtRbrXYEuAUt1VGTMqn0ghlRFEPYllofFKZbCwczVXhcdTJIj+j3hm2WAZWk/w5zP9S2Go0Nduhu7clXZ491Gvl8InkMQyC29I7tUGLTSjinKFoohqwNEMulmx9gmbQVu2wZPGFa2mrw/BkYtkutpbXpCMCAaDQRNs1huTrxLFrO1VQmggNVZqCzjd9rb4hag4UD3Hb1Tp9J9cPpt0RWoWn7FkAmclqiJ0vLL5pvYG0kAbmOoiZUPBZgmO+VjX/DU2jIUvpUJgHm7RNHZjxGU9G7yVyR3HDgMmz97BhD6xvyHPN1jUHCSHlLZToRy6f0VMDQvb6YiDyX7R9qh3mavy85m6LutRkiHaeZ7+6Z/RqShWVYISahoDxCM4cpoO0ALFYsfL8Kw4fKVDKEkqzvRPAlJyLvznKcaTFvCyrQ3ufSw6H4fchuWmnXrZrnvlNF5dSu+l0dX4yUDTwvZG6oM=;vlOdCThLOZO58VjV3jm4eA=="
 ---

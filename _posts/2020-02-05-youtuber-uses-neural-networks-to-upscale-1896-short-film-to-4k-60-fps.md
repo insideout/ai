@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/83867-youtuber-uses-neural-network
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html"
 type: article
 quality: 74
-heat: 84
+heat: 86
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
       domain: arstechnica.com
     quality: 48
 
-secured: "7S3RNDocBTjuvSCoQOaq7a11iDWy3iiOmCv+YgYssVP0c8KdH97KU2Ht8hboNAXg0pnR+OwX9uuph3Q4kB6ZiNMl5l5lU6yjUtdZrIYTCO2ddwF+nyt0I7uzfltbfYHr2iYfuvIWtrOIJriSX+V5kuvtSC8cqtz7cHGs3nG1VflsaEgaihe4cWfguxsrK9ugeSXXcSKTWiHpev+Rr3TS3mblhcjWa6ltq1awS6uv/Sb1kneogjoidWma3mctijP5/SsKmIlwvchoUvTAAQl9iZ9V97Oa87gIiAxKJMgTefDT2RYrr/jRDuvlmjU6rF5SKgelMInu+Pir7SeIju8yDIyOnoLEDj9gUv794agNa3J1JI59NtNJPUWeUzuM4PNU+tDUy4sQ+FWCTpzEv6zl35lTlBzbc4l/WGlG+20danTyJZ0gQtjUMaHRlAQfD8kpts1PDWkze486k6k/NkO0oOhkTjieWqqycwjB5ryUIzU=;EU+KxbvNbXImcT4VwMnTgQ=="
+secured: "72hCErnifjsHNbVJLo8BqYTKpn7KToIQ+9WDlMn9Qf5yJaFT8LmLhVo3Ep/YyzbVn+E3dLNqCz+Kqd8LcVPjhT2kos6UZGk0FdaqgWx0GPAY+2UaOdN1Q7XZCHT7YMB2/r7ht7dTepLGOrefpehUREUXtxVkl9zxC5Je3C4zzB8U88WvhGMwZRuK2+w3Kbwf/SIyY7orK7egXRaSooNZBFi8tTx9SxeHIyT6NA37AUPs1LFsGfVtTm9/KotGQnF+VWAVuGInfbQj669VNCOnZZ9yVklE7sFRuFz4U/B9Cei36ZFcFdEA691mlHssTFqRGSZr3DBJ0UvNgV8Jfja25Q028mdlq6Uo4n+wqg50m6+EUG1vXq4ad1qEG5ftt3d+L16mPfAfEEpUPJAgdhPbHiQk+MGAVA2fsc9+nTLP/ALp7oEh2AcBkzh+QdBuvLcAzV5Wr/ggn8uK2tp+gmtB1WOQlpEIBt5k93diel5BUQw=;Lys58bggCYlTm3sXN7btjw=="
 ---
 

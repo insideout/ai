@@ -71,6 +71,15 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
         width: 1200
         height: 800
+  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 34
 
 secured: "S5RzNUAqkIA8lAWAcSTmAv6sqWbBTak3HKoJbblR9n47x3ivj6n5zm1eBTHVBcTYyymhwAeaIoFiqE0LLyWZ/fqeynSWHkGWFsTpEBfBoaC9buDa14oZJa1hiLxVlxjaJWFKLzdIJMWoQHRp4WwzJ7AKTjedkVa7EvD6AHGEQ2D+L24+tdEs63NZmG34i7YUGw1aHBeGHcrp9akbCOqAsaPX5aj5QbYpDOMLUUcxUYB42nw5rsEOBo+FHFOGekIM8wafU5ZSMW4jOSjeVAVMXNjXSI2S9KgRVYlAmeat+H/vpJsFLZxu3hpdnlU/tCu47B+sNdTSRBtU27YSLGWWQXWXSArE1QS3XDPHi0LuYxVhbzNiV8Zhw9Kx66HODsHa9vX1X73US4PdWUlAP8f03JkP0mzY1NBuFVdS5A/RMppIa+ffTH1/7hpQ03PRbe/igWeywsm/l+Z+qIO48TkTag==;boZKto+0vkn2ruxoNvfsAQ=="
 ---

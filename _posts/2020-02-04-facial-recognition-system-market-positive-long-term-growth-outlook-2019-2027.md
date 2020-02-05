@@ -76,6 +76,21 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+  - title: "Speech and voice recognition tech market to soar to ₹210 crore by end of 2020"
+    excerpt: "The market for speech and voice recognition is set to grow to 40.47 per cent to reach ₹210.63 crore by end of 2020, states a new study. The market was ₹149.95 crore as of December 2019. The emergence of voice technology has been brought on by the rapid ..."
+    publishedDateTime: 2020-02-05T15:46:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 41
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/ceo10a/article30744550.ece/ALTERNATES/LANDSCAPE_615/BL06ALEXA"
+        width: 615
+        height: 384
   - title: "6 attraction technology trends for 2020: VR, AR, AI, bots and esports"
     excerpt: "Last year did not start well for robots. The Henn na chain of hotels in Japan ... An exhibition at the University of Oxford showcased art created by the world’s first ultra-realistic AI humanoid robot artist. Ai-Da uses a robotic arm and pencil to draw what she sees thanks to cameras in her eyeballs. AI algorithms, created by scientists ..."
     publishedDateTime: 2020-01-30T14:37:00Z
@@ -107,6 +122,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By Technology, By End Use And Segment Forecasts, 2019 - 2025"
+    excerpt: "/PRNewswire/ -- Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By Technology (Deep Learning, Machine Learning), By End"
+    publishedDateTime: 2020-02-05T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-market-size-share--trends-analysis-report-by-solution-by-technology-by-end-use-and-segment-forecasts-2019---2025-300999317.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "r/2hRTcXCZPfKdUnoBoPkMQisKGM55YRfQnOyWYKc8GklaRoQekWnboWSfKMlD3CbEPlKS9W94vvuaqDdySjLJikqHnQbxdtK5qZuFhMujvZCkLuGgbqiqJsc5G2bcay/2AETpTlbfuo7va5cCmuEBa/22SPEH3gEEDysr+35zbPUayTOKlHocpUE/pUk1vHUkqPHQvDDPgD1Btoe31WGVJpbwu+naBOcy/n8/Kyj8CxqsZBfmIihmbIS7ATyyd85hTxs9fY8roXc8u4ZP76WMXWo/lZgwLl0LQFCXu3a/jUd/mrJBXu9WDn8tIMutEy;GiuGhV4jfOkdMebAIVz+og=="
 ---

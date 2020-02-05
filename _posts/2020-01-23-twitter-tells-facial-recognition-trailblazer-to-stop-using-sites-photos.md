@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-l
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html"
 type: article
 quality: 203
-heat: 743
+heat: 733
 published: true
 
 provider:
@@ -750,15 +750,6 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 19
-  - title: "Change These Facebook Settings to Protect Your Photos From Facial Recognition Software"
-    excerpt: "I won’t get too deep into the Times’ report; it’s worth reading on its own, since it involves a company (Clearview AI) scraping more than three billion images from millions of websites, including Facebook, and creating a facial-recognition app that does a pretty solid job of identifying people using images from this massive database."
-    publishedDateTime: 2020-01-21T20:04:00Z
-    webUrl: "https://lifehacker.com/change-these-facebook-settings-to-protect-your-photos-f-1841131425"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 11
   - title: "Facial-recognition technology stokes privacy concerns"
     excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
     publishedDateTime: 2020-01-23T19:31:00Z

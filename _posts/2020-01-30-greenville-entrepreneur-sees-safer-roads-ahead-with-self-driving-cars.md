@@ -50,15 +50,6 @@ related:
       - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
         width: 1200
         height: 782
-  - title: "Self-driving Nissan Leaf electric car navigated itself 230 miles on UK roads"
-    excerpt: "Pilot vehicles tested on private tracks incorporated artificial intelligence systems developed by fellow consortium member Hitachi ... and a huge step towards the rollout of driverless cars on UK streets. 'This project is a shining example of how the automotive industry, working with government, can drive forward technology to benefit people's ..."
-    publishedDateTime: 2020-02-05T09:23:00Z
-    webUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
-    type: article
-    provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 1
 
 secured: "OUqJDzaeV/hkCGKxd0w8keaoeFRLDC79+DaJE8/Bx2PSmbSAPiTBosRJvfPrmD+I2OW+ud7CAz3SVLS73P8lr3X9XBCm993cI2iWO2Tiq0YoUi3bTJgUM12NDf6Snsg7Oo3xrLwFmOZrtLjOt9CnA8EnwAceif/Ayj3DksiTZ3kDI02LGr2qE1HLhEcC7d97TS4YuKfNCsznE7QJfwQ7eIlFpnite73iQpPDbxMtZDILSmMJx/e3GSDPbhGxeH5bhZ+ZVV5ah9bcmz8qy3pUx8YIDCsKtJdS06jouBksvktaTZZxELfWg7JZv4qy6IIP;bcNEmCCQoIXro2rvQy5u2Q=="
 ---

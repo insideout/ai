@@ -27,19 +27,6 @@ images:
     title: "Artificial Intelligence In Agriculture Market Are Going Towards Increase In Productivity And Yield By 2025: Grand View Research Inc."
 
 related:
-  - title: "Artificial Intelligence Market Size Worth $390.9 Billion by 2025: Grand View Research, Inc."
-    excerpt: "/PRNewswire/ -- The global artificial intelligence market size is expected to reach USD 390.9 billion by 2025, according to a new report by Grand"
-    publishedDateTime: 2020-02-05T08:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-market-size-worth-390-9-billion-by-2025-grand-view-research-inc-300999236.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-        width: 1400
-        height: 733
   - title: "Global Artificial Intelligence in Agriculture Market Expected to Grow in Value Over the Coming Years, with a CAGR of 38.3% - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application, Geographical Outlook - Global Industry Analysis and Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's ..."
     publishedDateTime: 2020-02-05T09:57:00Z

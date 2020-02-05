@@ -18,45 +18,41 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Gainesville Set To Run Self-Driving Vehicles On Its Public Roads"
-    excerpt: "That self-driving vehicle and two others, now undergoing test runs, are expected to become available as a new form of public transportation in Gainesville by the end of the year, according to Thomas Idoyaga, a spokesman for the city’s Office of Mobility. The EasyMile shuttles, developed in Europe, are 13 feet long, 10 feet high and 6 1/2 feet ..."
-    publishedDateTime: 2020-01-31T21:48:00Z
-    webUrl: "https://www.wuft.org/news/2020/01/30/gainesville-set-to-become-first-u-s-city-with-self-driving-buses-on-public-roads/"
+  - title: "Waymo workers complain about cuts to benefits and needles in self-driving cars"
+    excerpt: "The company recently announced it has racked up 20 million miles of autonomous driving on public roads. Waymo is widely considered to be the global leader in self-driving technology. Alphabet relies on an army of so-called “TVCs” To run the program, like its many other projects, Google parent company Alphabet relies on an army of so-called ..."
+    publishedDateTime: 2020-02-05T14:00:00Z
+    webUrl: "https://www.theverge.com/2020/2/5/21123049/waymo-self-driving-cars-workers-vendor-contracts-benefits-needles"
     type: article
     provider:
-      name: WUFT
-      domain: wuft.org
+      name: The Verge
+      domain: theverge.com
+    quality: 60
+  - title: "UPS and Waymo partner on self-driving parcel pickup"
+    excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
+    publishedDateTime: 2020-01-30T17:34:00Z
+    webUrl: "https://www.retaildive.com/news/ups-waymo-self-driving-parcel-pickup/571415/"
+    type: article
+    provider:
+      name: Retail Dive
+      domain: retaildive.com
     quality: 39
     images:
-      - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
-        width: 1200
-        height: 782
-  - title: "Gainesville Set To Become First U.S. City With Self-Driving Buses On Public Roads"
-    excerpt: "That self-driving vehicle and two others, now undergoing test runs, are expected to become available as a new form of public transportation in Gainesville by the end of the year, according to Thomas Idoyaga, a spokesman for the city’s Office of Mobility. The 14-foot-high, 10-foot-wide, 19-foot-long EasyMile shuttles, developed in Europe ..."
-    publishedDateTime: 2020-01-30T16:48:00Z
-    webUrl: "https://www.wuft.org/news/2020/01/30/gainesville-set-to-become-first-u-s-city-with-self-driving-buses-on-public-roads/"
+      - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
+        width: 770
+        height: 364
+  - title: "Autonomous and Self-Driving Vehicle News"
+    excerpt: "As a member of the Consortium, Synopsys will actively contribute to the development of a set of recommendations for system architectures and computing platforms that will be used to address the challenges of deploying self-driving vehicles at scale. Waymo announced it will be driving its Chrysler Pacificas and long-haul trucks in Texas and New ..."
+    publishedDateTime: 2020-02-03T02:18:00Z
+    webUrl: "https://www.autoconnectedcar.com/2020/02/autonomous-and-self-driving-vehicle-news/"
     type: article
     provider:
-      name: WUFT
-      domain: wuft.org
-    quality: 34
-    images:
-      - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
-        width: 1200
-        height: 782
-  - title: "Greenville entrepreneur sees safer roads ahead with self-driving cars"
-    excerpt: "But what is possible in the short term are localized autonomous vehicle services, such as self-driving Uber or Lyft vehicles, that operate within set parameters. “Autonomous vehicles tend to work completely and safely within a certain domain,” Taylor said. Through three-dimensional mapping, the surroundings of a small downtown area like ..."
-    publishedDateTime: 2020-01-30T17:00:00Z
-    webUrl: "https://upstatebusinessjournal.com/greenville-entrepreneur-sees-safer-roads-ahead-with-self-driving-cars/"
-    type: article
-    provider:
-      name: Upstate Business Journal
-      domain: upstatebusinessjournal.com
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
     quality: 24
     images:
-      - url: "https://upstatebusinessjournal.com/wp-content/uploads/2020/01/TAYLOR_KVABYUL_HEADSHOT.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews2.png"
+        width: 640
+        height: 300
 
 secured: "eo0e7BqhXusBm38Lsuw5b9CddmzC6IgYEAGdE9kf1pXe8ZcHBvO/Q2KWLPTb8RrvvhKurfbYLlvRNojqD6RNMrrVirInssF5n1pqYxvrY+a0Y42P/0nEflV/IEl+wjgxWGYesR8FPJyvJdxuFv1giDmEacBZ7I7OKI9KzpMZTAfUxn1KY00oQ/XOBdP+0Swp8uHot39uz/W4y20GKG5sWMeQsk7iDH0aao+mNrj3E6c/f4+J8ZbEQ3I5Zi9r8kHfUc9akeUFHWLUlA6i77twYzimX9BKaOELiue06as6RN3Lotr6jyhqZwFUpYmg3x4FMz98rV5KZH9C4+wzscKSMPf0k5+MLsfn5Tg8yYZO7fTxwZh5qWPvGPQYNx7RNw5N5oX3sf98rNzi6gMIJw5Z/qccyKh7TRKbZ/ITCNSMXuJYhLnpbUKfGeT158ejkxppmnHGE/YhR/xuEmNSZzyJu6j812VDpgYWkk2ADG/TsSc=;3v/+fXmr+XrKz+3hX9nf8A=="
 ---

@@ -34,21 +34,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 167
-  - title: "VMware to buy Intel-backed Palo Alto AI network analytics startup"
-    excerpt: "The #startup was valued at around $65 million after its most recent funding two years ago and had raised about $26.5 million."
-    publishedDateTime: 2020-01-21T19:58:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/01/21/vmware-nyansa-acquisition-vmw.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/01/21/vmware-nyansa-acquisition-vmw.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/21/vmware-nyansa-acquisition-vmw.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 57
-    images:
-      - url: "https://media.bizj.us/view/img/10996051/vmware0109*600xx1728-1152-0-0.jpg"
-        width: 600
-        height: 400
   - title: "VMware is buying AI-based network analytics startup Nyansa"
     excerpt: "Virtualization software giant VMware Inc. announced late Tuesday its intent to acquire networking analytics startup Nyansa Inc. for an undisclosed fee ... Research Inc., told SiliconANGLE he wasn’t surprised to see VMwar buy Nyansa as AI is becoming increasingly important as it can change everything. He said Nyansa’s tech in particular ..."
     publishedDateTime: 2020-01-22T09:13:00Z

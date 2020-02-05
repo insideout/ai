@@ -18,32 +18,28 @@ topics:
   - AWS AI
 
 related:
-  - title: "MYCOM OSI and AWS announce strategic collaboration agreement"
-    excerpt: "The move is intended to offer operators cloud-native service assurance via software as a service (Saas), using artificial intelligence, automation and analytics. This is a companion discussion topic for the original entry at https://www.mobileeurope.co.uk/press-wire/mycom-osi-and-aws-announce-strategic-collaboration-agreement"
-    publishedDateTime: 2020-02-04T10:29:00Z
-    webUrl: "https://businesscomputingworld.co.uk/t/mycom-osi-and-aws-announce-strategic-collaboration-agreement/254690"
+  - title: "Carrier Selects AWS as its Preferred Cloud Provider to Drive Digital Transformation"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Carrier, a leader in heating, ventilating,"
+    publishedDateTime: 2020-02-05T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/carrier-selects-aws-as-its-preferred-cloud-provider-to-drive-digital-transformation-2020-02-05"
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 39
-    images:
-      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
-        width: 512
-        height: 512
-  - title: "Deltapath's Noise Cancellation Gateway Helps Businesses Improve Communication and Collaboration Over Phone Calls and Fuels Artificial Intelligence"
-    excerpt: "/PRNewswire/ -- Deltapath, a Unified Communications company, specializing in revolutionizing the way organizations and people communicate, announced"
-    publishedDateTime: 2020-02-04T18:28:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/deltapaths-noise-cancellation-gateway-helps-businesses-improve-communication-and-collaboration-over-phone-calls-and-fuels-artificial-intelligence-300998885.html"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+  - title: "Petrofac selects Microsoft IoT toolkit to build digitally transformative Connected Construction platform"
+    excerpt: "With the options to run SaaS or PaaS deployment models, solutions builders can deliver real edge intelligence to field operatives that allows better, data-driven decisions through machine learning and advanced analytics. Azure IoT Edge moves cloud analytics and custom business logic to devices for organisations that prioritise business insights ..."
+    publishedDateTime: 2020-01-30T17:06:00Z
+    webUrl: "https://news.microsoft.com/en-xm/2020/01/30/petrofac-selects-microsoft-iot-toolkit-to-build-digitally-transformative-connected-construction-platform/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: Microsoft
+      domain: microsoft.com
+    quality: 22
     images:
-      - url: "https://mma.prnewswire.com/media/1029626/Deltapath_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2020/01/img-768x513.png"
+        width: 768
+        height: 513
 
 secured: "Xmo9UYM+YkApnvXvh6NFoqAYSn/SEjxHchAaXQ+7L5UNIqK9Jv5rsCt8pLZcl1X8mJlN5OncEpMf/MeDSFCyydbmuaIxI3pyescS3m0cpyPjgrp/E4Szobx7Ba3oLgl3vZSUa+ieiICZTC4SEL+OpAyCK/lmDB6T3W82lovxo/y3bqhOCTuNbrWORKgnwmUA1le3XYAI3+0V8SfnarWZcg/O33EgmKnUcJfl+IsyjC5qvAqZ1cOZRzg/Qj1aX86X8/9N9XySjZxiY1yTE0ScIQh5IBs9VA6R3HgOkqhLMJ6Smtyyy+JJuOyKWOENq//Y;hUBtCcgPnsqUSc585ixk2w=="
 ---

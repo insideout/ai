@@ -31,6 +31,15 @@ related:
       - url: "https://www.imeche.org/images/default-source/default-album/nissan-drive.jpg?sfvrsn=0&size=705"
         width: 705
         height: 396
+  - title: "Nissan Leaf breaks UK record for longest self-driving car journey"
+    excerpt: "Autonomous model completes complex 230-mile trip from Bedfordshire to Sunderland"
+    publishedDateTime: 2020-02-05T13:00:00Z
+    webUrl: "https://www.theguardian.com/business/2020/feb/05/nissan-self-driving-car-leaf-longest-journey"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 4
 
 secured: "HeoVNSWtVLYhARBl5V4MiAG/ongXkyqiCQZy5myCALCXyC6Sr2PGOJhzUJeiCE0DWF8xXNeh5T7oKpOncPyHiRtRzeOlbO1t8zmJwr/UVrzTquKLbxOkHSZyu7hqKoBmxEQ9d4PIPDdis62OJfgBTlIixKbUIxhGO0r05YUcQ0rkceJLPK0PXWdZ4WevMmXyZxnIZn87x732TiP0bKpAyl3lo83eG0nxpNMTcSetOCHL6PzX29AH3TXvQIY2Wl60zgn/VvkmWNdJQR49WiEJbkk90HJfIIsxhCEgE4XcGPh3eip1uXDPC78k1vgDKVb9qf5xCnSBs1S8WfEabZ/ZoIapfSwCywvcUF4qRRw7gysaRbVqG5hJ6JdieOrqV7XJxYsWEDEZnErxKzpV9VeKXU+pjt6NampA0mn0V6thcyWmo5AUYlWRzs1LB2OBOEF6AFeXg37z1NivpFtH3AZlnnvzCclbYnXGZ6Nyw9Vtg2k=;E+GCEGEdeNcyeIQlNWn0Mg=="
 ---

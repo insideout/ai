@@ -753,15 +753,6 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 19
-  - title: "Change These Facebook Settings to Protect Your Photos From Facial Recognition Software"
-    excerpt: "I won’t get too deep into the Times’ report; it’s worth reading on its own, since it involves a company (Clearview AI) scraping more than three billion images from millions of websites, including Facebook, and creating a facial-recognition app that does a pretty solid job of identifying people using images from this massive database."
-    publishedDateTime: 2020-01-21T20:04:00Z
-    webUrl: "https://lifehacker.com/change-these-facebook-settings-to-protect-your-photos-f-1841131425"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 11
 
 secured: "G//sdyebR+Xp5d3cAOtrlvw7C7NKUge3DFRc21E0umfADvWqw/j7113NPbPEd4aFq2ltGblls2yhDbqmDxjRfAzhQ8WuW7ZMSHrItbd16HaODet3WLw6H5Avwa+/0I2vX0SCn9Y7D7Y808Gr1p0mt/pgnaF2m19iVGMPEvLnNgTKvmEKSwcuO9NQpYxelYrca78sI0W8UJm2S0D4aRp0G5TD6KBZOvizMwSkS8alAbPguW4Eb8SrJQhCEPLKlt5YnNlDRbN6G0CnWaw40wGRkbqrYFITJNT05QipoFl2kJoVZN40Cr1ngJ/jRI1uc0mb;g3V553TRuiJG9MsixQoAaA=="
 ---

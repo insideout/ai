@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Facial Recognition and the Danger of Automated Authoritarianism"
-excerpt: "The company is, however, developing facial recognition software that would make it possible for wearers of augmented-reality glasses to ID folks walking down a street in real-time. Of course, such a technology could easily be harnessed to networked surveillance cameras so that government agents could track where a citizen is and with whom that ..."
-publishedDateTime: 2020-01-21T22:43:00Z
-webUrl: "https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/"
-ampWebUrl: "https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp"
-cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp"
+title: "Need 2 Know: Virus Outbreak, Facial Recognition"
+excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
+publishedDateTime: 2020-01-21T21:12:00Z
+webUrl: "https://cheddar.com/media/need-know-virus-outbreak-facial-recognition"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Reason
-  domain: reason.com
+  name: Cheddar
+  domain: cheddar.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2020/01/DesignCellsScienceLibraryPhotosNewscom-800x450.jpg"
-    width: 800
-    height: 450
-    title: "Facial Recognition and the Danger of Automated Authoritarianism"
+  - url: "https://img.chdrstatic.com/media/45140c0c-a275-469e-911a-13238dec14ba.jpg?source=web&crop=1200:675,smart&width=1200&height=675"
+    width: 1200
+    height: 675
+    title: "Need 2 Know: Virus Outbreak, Facial Recognition"
 
 related:
   - title: "London police deploy real-time facial recognition cameras"
@@ -492,6 +490,21 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1192370013-760x380.jpg"
         width: 760
         height: 380
+  - title: "Facial Recognition and the Danger of Automated Authoritarianism"
+    excerpt: "The company is, however, developing facial recognition software that would make it possible for wearers of augmented-reality glasses to ID folks walking down a street in real-time. Of course, such a technology could easily be harnessed to networked surveillance cameras so that government agents could track where a citizen is and with whom that ..."
+    publishedDateTime: 2020-01-21T22:43:00Z
+    webUrl: "https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/"
+    ampWebUrl: "https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 59
+    images:
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2020/01/DesignCellsScienceLibraryPhotosNewscom-800x450.jpg"
+        width: 800
+        height: 450
   - title: "Met police to deploy live facial recognition in London"
     excerpt: "London’s Metropolitan Police has announced that it will deploy live facial recognition to identify citizens across the capital, flying in the face of calls from the British government, regulators and citizens to pause use of the highly invasive and often inaccurate biometric technology. The Met said that standalone cameras would scan passers ..."
     publishedDateTime: 2020-01-24T13:47:00Z
@@ -824,17 +837,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2018/11/security-cameras.jpg"
         width: 1528
         height: 900
-  - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
-    excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
-    publishedDateTime: 2020-01-21T19:10:00Z
-    webUrl: "https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/"
-    ampWebUrl: "https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/"
-    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 44
   - title: "London police to use face scan tech, stoking privacy fears"
     excerpt: "FILE – In this file photo dated Wednesday, March 28, 2012, a security cctv camera is seen by the Olympic Stadium at the Olympic Park in London. The South Wales police deployed facial recognition surveillance equipment on Sunday Jan. 12, 2020, in a test to monitor crowds arriving for a weekend soccer match in real-time, that is prompting ..."
     publishedDateTime: 2020-01-27T21:32:00Z
@@ -865,19 +867,6 @@ related:
       - url: "https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-  - title: "Need 2 Know: Virus Outbreak, Facial Recognition"
-    excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
-    publishedDateTime: 2020-01-21T21:12:00Z
-    webUrl: "https://cheddar.com/media/need-know-virus-outbreak-facial-recognition"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 39
-    images:
-      - url: "https://img.chdrstatic.com/media/45140c0c-a275-469e-911a-13238dec14ba.jpg?source=web&crop=1200:675,smart&width=1200&height=675"
-        width: 1200
-        height: 675
   - title: "Met Police deploy NEC biometric facial recognition tech across London"
     excerpt: "The Metropolitan Police in the U.K. has rolled out in London real-time facial recognition technology developed by NEC, reports CBR. The implementation “will be intelligence-led and deployed to specific locations in London. This will help tackle serious crime, including serious violence, gun and knife crime, child sexual exploitation and help ..."
     publishedDateTime: 2020-01-24T18:24:00Z
@@ -1256,6 +1245,6 @@ related:
       domain: dailybruin.com
     quality: 10
 
-secured: "YIttmM3zumPHCSZJjDpnvUC1R1Xv4ezKF+dO/cbZ8oZZf9NnTfW6f9KpwbruEinT6CD0DVFrOl9hoYtmi8Fi/+BlcONvpA12bjkgk+xSJBq+UIaKhalfWUIzdbga0OmvDdXtPdKq2F6Oad6R0zykpZwltBhPSdSV68M5OBxF2DrrDskqLzb7Pt/uFckiVotOOUu06HrlkGnJbdNyaxFZj9i2YdKgNe1ydhvGH7eCl8u0HyvBHZzrxzTnGK2fWNKLRhIedAM7olcy4OKViQJfdfA92Dwl8jf+KgJzD5DsNRiSDUrhZXxaIBJRyP1QpxDyuWbBjAmpNNnktH/6K+NuRL7UaqC4dzWIuaS/g9pDIbktSoSMiKV22oQCmDfRpYEtryi5pio786TSryia+s1zQGA6u6GxKy8UQ6n7b/npLcRWxlzhYkFedp2c4fazqUVd5aJICFqAngRROgpPr8F2dA==;1/anyhtbVFK6JX2w5wcacQ=="
+secured: "ApH5+vQlpMpDWq3NKwUVh3PhArpVnzL14mE6zFXNnlRKg3Y1DIEFIR6J4+5BYzpo2acHJ+0NCIBSrdkuUsxOtBxMrze60/b9+Cxm9v9XX+46cX5QcFuvX7MUjEnfmmqX/XljI1IvuiEBhkfOrkswN+gmvcQSwt60lMLkJIqFMcVRtlGuMTtYTz1TXe+sKsQ4M/+Xayfxi34zpFLHJqBjGNMnhD72kn+2Zg1GhMq/a6qCWiCMuDuU+jd+1wBpT1R2As3W9/TuOvangzr2LdsTe+HomDHEMhYsACYlTeA2dA50SxGvl/ZI7plE2G058ORdXmW91UOQbfszOQLNYVdeywgYYey6gdZYgcoUYs20AIc6b9h0LBWQkRehJi7s+0tmkAFAQoSuGhtAqhQbwbXmwXCUgq3TE8CryMhOITlvx9wPpTSslsnY3muIQ05B5VuhzHX/ML9eZkOYKgkyqM7pIw==;7JXzAeLxnEHdnBou8lpcMw=="
 ---
 

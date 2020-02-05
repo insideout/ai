@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T11:13:00Z
 webUrl: "https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-segmentation-and-forecast-to-2019-2027-2020-02-04"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
+  - title: "Natural Language Processing Market Expected to be Valued at $22.9 Billion by End of the Forecast Period, 2019-2024 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends And Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. Valuing $8.3 billion in 2018, the natural language processing (NLP) market is expected to progress ..."
+    publishedDateTime: 2020-02-05T12:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200205005399/en/Natural-Language-Processing-Market-Expected-Valued-22.9"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "h1ddHGZs6uS1r+e1DLbQoUN/eEs9fH6HPRCnM9CfQYMxUk/igkxg1Xhntk4Q21CqZXcJ2fMVeHU2W1JLw/TNj3XOPuMqWijeDkGTaaeFygYrwMNAQJJ00ZdOJDja/9FwcWUe41fsJJKdNU5oFJS5I/Qrjdd7fS1OBjp2s+XTzG/NQTeJQtDn7OuE62fC1F7cjtacxxmHThHWuJMMGQrkOeQNeGMv1MYy+nZoVmw/+zhzfKjQLhLxeX5Q/x8lIOF/HGuuXbs/CD6lvw1zbTxIdlHVBFUWJ4pr+qpHIarhlgY9D7Dq3PrxUuVYSce9XoEJ;wQyNphO+t4wMNXjmowV9dA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T06:33:00Z
 webUrl: "https://thenextweb.com/neural/2020/02/03/alibaba-baidu-google-ai-cornavrius-tools/"
 type: article
 quality: 163
-heat: 205
+heat: 213
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fcb89f91c-451d-11ea-bb8c-d0d9130b9ea4.jpg?crop=2667%2C1500%2C0%2C0"
         width: 2667
         height: 1500
+  - title: "China using AI to battle coronavirus"
+    excerpt: "A robot equipped with loudspeakers and high-definition cameras admonish passersby ... vaccine development and protein screening. Beijing-based AI startup Megvii Technology, known for its facial recognition brand Face++, has developed a temperature screening tool that can help monitor human body temperatures in crowded places and identify ..."
+    publishedDateTime: 2020-02-05T12:18:00Z
+    webUrl: "https://www.globaltimes.cn/content/1178630.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 19
 
 secured: "zaT3dko4s9A1vU1WQtF8SgD3r0egGUyN/AwmF50UsZ+KJxCE7tR92NaNrS8rGwfojk2Qbwh7D0ufvFZDr3V4uj8X7J9ZSIHS8K6vDNnspfovGRO3oIH0hbJ4x8rcbUdEnAAUPU4k1vTXei9dGdhocLxFjsfeM6u8P4oknt/3Cl3wXTgoxJlxS2TCjXHUjN/UmVa2q2Rz3elGEE0HXxaVJWjCA9MqRLapbR/e/GrI0SiJiW5wQsVtqBwxj2anDR6RgjhuPHdFTLzgZ1rUi8t1zqJv7xRU/QT1daZdfhVZgfOmYmu5AEM1fvi/RFAadXdrTc+OaWhkjJpfz0raWcO9zQ==;poSurzaAP/oJoNNKdNUYqg=="
 ---

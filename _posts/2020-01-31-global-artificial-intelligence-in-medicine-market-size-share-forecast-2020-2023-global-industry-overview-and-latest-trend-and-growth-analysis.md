@@ -221,6 +221,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+  - title: "Artificial Intelligence in Aviation Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "New York, February 05, 2020: Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results. AI in aviation will kind the data and supply the pilot with the most effective doable choices for operation,"
+    publishedDateTime: 2020-02-05T03:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Machine Learning as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
     excerpt: "New York, February 05, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
     publishedDateTime: 2020-02-05T04:05:00Z
@@ -274,6 +287,15 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
+    quality: 0
+  - title: "IoT Chip Market Outlook, 2020-2025 - 5G, AI, ML, Smart Homes, Smart Cities, and IoT Connected Devices in Electronics & Automotive Will Drive Growth"
+    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"IoT Chip Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The global IoT chip market is expected to register a CAGR of 13."
+    publishedDateTime: 2020-02-05T15:38:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980393/0/en/IoT-Chip-Market-Outlook-2020-2025-5G-AI-ML-Smart-Homes-Smart-Cities-and-IoT-Connected-Devices-in-Electronics-Automotive-Will-Drive-Growth.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 0
 
 secured: "xMoR0rkVbnrXF1cw4MVvzBsi3QrbuhAtPm8tuBDmRm0t91/GIA8KyLvCIEuu+wPEQn4ovUvnHFlZbIUo6Y2dxGuVV3RmKlajMy4pV8jShgipBno5lW2ipKFZo0qx/teYwbpmuxOxVipPz6KsOE4ZnHylV7kUlhqiDoXL6wYCWaaMTLBe6lPxQWrdFmicuBlvBCUlx4F4zHc5j6tkdS80DqORtDBC/sEyVrztwrG7Xw2/8/TQ+veQFsejlmkfgb/Nu3PFAuVf1Bagv+Mt8bMJKJR+spzdMWgLtOd1Ug5LyrPbMX0+NHW45ZkGPoYlX1O0;rAZeg19L4kfUE/J21fMREw=="

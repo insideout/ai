@@ -8,7 +8,7 @@ ampWebUrl: "https://www.voanews.com/economy-business/robot-bartender-may-serve-s
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/economy-business/robot-bartender-may-serve-solution-japan?amp"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,47 @@ images:
     width: 3988
     height: 2948
     title: "Robot Bartender May Serve Up a Solution in Japan"
+
+related:
+  - title: "Robot bartender begins serving drinks in Tokyo pub"
+    excerpt: "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitor customers to analyse their expressions with artificial intelligence software. \"I like it because dealing with people can be a hassle. With this you can just come and get drunk,\" Satoshi Harada, a restaurant ..."
+    publishedDateTime: 2020-02-04T16:50:00Z
+    webUrl: "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 59
+    images:
+      - url: "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub/_jcr_content/par/image.dynimg.768.q75.jpg/v1580834704692/reuters-PUB-ROBOT-1120.jpg"
+        width: 768
+        height: 438
+  - title: "Robot bartender serves up drinks in Japanese pub"
+    excerpt: "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitors customers to analyze their expressions with artificial intelligence (AI) software. “I like it because dealing with people can be a hassle. With this you can just come and get drunk,” Satoshi Harada ..."
+    publishedDateTime: 2020-02-04T15:04:00Z
+    webUrl: "https://nypost.com/2020/02/04/robot-bartender-serves-up-drinks-in-japanese-pub/"
+    ampWebUrl: "https://nypost.com/2020/02/04/robot-bartender-serves-up-drinks-in-japanese-pub/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/04/robot-bartender-serves-up-drinks-in-japanese-pub/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://thenypost.files.wordpress.com/2020/02/robot-bartender-japan-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+  - title: "Japanese robot could call last orders on human bartenders"
+    excerpt: "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitors customers to analyze their expressions with artificial intelligence (AI) software. \"I like it because dealing with people can be a hassle. With this you can just come and get drunk,\" Satoshi Harada ..."
+    publishedDateTime: 2020-02-04T20:02:00Z
+    webUrl: "https://www.unionleader.com/news/back_page/japanese-robot-could-call-last-orders-on-human-bartenders/article_80d9ac59-fe9a-5875-8512-9324a06e0222.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 19
 
 secured: "fnnhhAE753fJbjmFHjgqCcX+LeTJ3v9BkyuSCQFOg+PBOPLPnQWuw29dO5w+haUBvUXkarD7yDjO+FQ7WLFoF8bwIC52mPUZdIiuDD5gf5q0ZrQdybkK80hsnwK626Ygw5sx8Wzk0VNlIk5+ixoTGal6JDRF559SfJGDU8dAe3s94sqdAxMuzXJ7U4FJNxwB8//MGBFnhxmo20GF9GTxYvlB0L16T/GnM/iinwfIAcngF7WiErSWiqJXTLotZjiUAuVO5VGwNq4DhfhsQ0R6rqWS/7zCgX7LodKnI69vAsil51jBcgqpgfd1BwY3rlZlhnUqB4klUz+uFcEk+fMOhqEcoQRrQNPz0zaq3nrY4XgYfy+vkZGB77AC3D8bIUJTsxnEz7Tv+fdkbrOJn6rOyFHloByWyhhabPBlu+/IfilYBUJYoQpZueoP7eZEEhK0fGPTfcqKDS2DzOWaeEgpPNtmAKW2lnE5yq7v5l1BQpQ=;8PzYfVyGwRHSA3VVrYoR+w=="
 ---

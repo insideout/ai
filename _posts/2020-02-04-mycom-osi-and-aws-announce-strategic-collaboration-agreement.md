@@ -37,15 +37,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1029626/Deltapath_Logo.jpg?p=facebook"
         width: 2700
         height: 1414
-  - title: "MYCOM OSI Announces Strategic Collaboration Agreement with Amazon Web Services to deliver Carrier-grade Service Assurance with the Cloud"
-    excerpt: "Running on AWS, MYCOM OSI’s Assurance Cloud™ embeds its award-winning Experience Assurance ... telco and IT networks by integrating real time assurance with closed loop automation and analytics driven by Artificial Intelligence (AI) and Machine Learning (ML). “When selecting a cloud provider, the thing that matters most is a cloud ..."
-    publishedDateTime: 2020-02-04T09:09:00Z
-    webUrl: "https://www.realwire.com/releases/MYCOM-OSI-Announces-Strategic-Collaboration-Agreement-with-AWS"
-    type: article
-    provider:
-      name: realwire.com
-      domain: realwire.com
-    quality: 0
 
 secured: "ak5Xxov6hSTqiGjWPf9K3dzaQ/5HdEYbGEdDVHdX5tqXKdOQaawbVzt9roL6Lv2Jz75yq7QOJBXBkJfsofUEKffCgb73PYdPnfHFaY7+KR+LxcJMwLuNFj/6WeGnmVNk9YXI1Sn04oFttvaEmaBudZBfHd24GbMwhPP/jIUZ5WJLu7h0MdAXJMrgUa4OK/w7x43HYeYpD9CkGn2htHglJbuLTwTcGzxeY/EmHuIsIu19JsbUIT9RHqnkGGYRLwfuI1RwPsOoUDuvxSh0tu3xPno/YWiqFaDLIJ9WHJQpnqbpfpdBJrOq3BOm5OPwnff9;K/XItKGNOw7Xoy11cFq8QA=="
 ---
