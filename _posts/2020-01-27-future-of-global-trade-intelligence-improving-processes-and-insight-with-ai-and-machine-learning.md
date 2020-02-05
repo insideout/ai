@@ -23,6 +23,23 @@ images:
     height: 493
     title: "Future of Global Trade Intelligence: Improving processes and insight with AI and Machine Learning"
 
+related:
+  - title: "SEI Ventures Partners AI-Enhanced Intelligence Firm ForwardLane to Provide Insights to Financial Institutions"
+    excerpt: "in order to support the growth and for the provision of AI-enhanced insights for wealth management firms, asset managers and commercial banking institutions. SixThirty Global Fintech Fund has reportedly joined SEI Ventures in the funding round, which is a follow-up to their initial investment round back in 2018. ForwardLane’s AI insight ..."
+    publishedDateTime: 2020-01-24T21:43:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/01/156712-sei-ventures-partners-ai-enhanced-intelligence-firm-forwardlane-to-provide-insights-to-financial-institutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/01/156712-sei-ventures-partners-ai-enhanced-intelligence-firm-forwardlane-to-provide-insights-to-financial-institutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156712-sei-ventures-partners-ai-enhanced-intelligence-firm-forwardlane-to-provide-insights-to-financial-institutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 40
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence-300x267.jpeg"
+        width: 300
+        height: 267
+
 secured: "/kB27TJ/G6LUxzmkfUlKHtVMRc57cDuYoYJWVHlwNr7vvIDjAZkljY9tC7xDChhYLjDIdYRdQrxFgYFcgjFk7IN9JfjxAUnajA870hPMuppVmtIUKfmCWq1zAgDNQ8GV7PWFr8Z6buqxHNUWuX9uFirgW02Ooo9j2BpmIfhcVRlSs6WXHKNc2uAZYOR/9wKnZAJg859owo2DLoh8BHw+iyPq8DxmgS2gw+1jbVgHCj8aNP4axAvdEbmrrCHVJk4VuP/ZxaQpMbVvAlGuhM3RbJhlPuXrqT0+9DNv9AuDorZDWPIJpSpHCJ+owgHtWWG5;2CkYk0PpTFqiYYfLcc9q4w=="
 ---
 

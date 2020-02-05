@@ -4,8 +4,10 @@ title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
 publishedDateTime: 2020-01-20T12:36:00Z
 webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
+ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
+cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
+    width: 1200
+    height: 628
+    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
   - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
@@ -241,6 +249,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "oj4asCfDIiPcpZwjKNaXas1P+6G7jxR8yjeHy3QfIuhZC1IiVD6R2O6eoROkw4janWV9IdpjveK2b7FavK04+Y1SlNW2445WWrI96tbHkzdNWdQDwfczkdJSctEscz/v5fFNerqHozcQyMg4cTdHZFmbn7Xsh3e+eUbOD+G7fuqCZToWD+Rh0MxTpLtG2swZslrWMNU4vtrfLjoedtWy6xAaWer4DGmfQ76ojCdvO83wi6UqqA+fZn5rg999AmUiqKtzV/4nBc7+NfX0tWUNgdom/Qo0Z5nvM46kbbqap/9J0OkyfY/CFduM14KysbULprPt2pq/wU8DqnfC8lD+qkt6oZd8Zu4b2UprFo1/RUWCWFemCyf7Y+fVICshuxhe3WVUaR/ew/kDDyjR6VJWIzok77Sv7/SMVZg7gXNcOojbiBBsAfHWi9rn8NBU5ssHz4UhjAfZBVoBpWQ9mvOu3uguy4M7zBbq3BAw7oeCoUU=;vCTw8g0JFnZbOEjTtGw+Hg=="
+secured: "0yLfJezFHCDmR0iwTeMaXOsDb9Agx9On8XCx71trqFWOEY2nPIQxp6xbGA4f8l97HU8OhhPk1i3esCK3fJhJE4yvB+04y33uVLZQJkkwsAQx+1UOiy9FLAV5TKgmRRoXAZZrWJSWfKSvcs+rNZUExIN/8IsiRuDYf1MQZAMKa0gs/LUk4I8wKfshWf3U1lw/iA4mAhs22omdYiCd4WEsNecee9eQj6L5zHvU72N5Z/AVBiYB61aB/FAST/LQDHN3IrzVKxSPGO6LAEXGujKxr1DxTEq9H57hWLrR58GcQtaPYt0Hm5OxadFUns1M5MiE;PyIjU2szEPVwDAKCvZjR7A=="
 ---
 

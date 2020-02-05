@@ -4,10 +4,12 @@ title: "Intel and partners are using computer vision to help save Antarctica’s
 excerpt: "In search of a solution, a group of tech companies developed a computer vision solution to help ecologists count the remaining penguins faster and more accurately than before. The loose partnership consists of Intel’s AI Builders — the company’s curated ecosystem of software vendors — along with Microsoft’s AI for Earth initiative and ..."
 publishedDateTime: 2020-01-20T16:00:00Z
 webUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/"
+ampWebUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 77
+heat: 87
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/01/4435aca3-10d3-4e94-bce1-b9a5ec1a9557-e1579113904720.png?fit=1200%2C600&strip=all"
+    width: 1200
+    height: 600
+    title: "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction"
 
 related:
   - title: "In black and white: Counting penguins gets easier with AI, computer vision"
@@ -37,18 +45,7 @@ related:
       - url: "https://www.thehindubusinessline.com/opinion/columns/thomas-k-thomas/75lkp6/article30118113.ece/ALTERNATES/LANDSCAPE_615/BL30Thinktech"
         width: 615
         height: 384
-  - title: "Counting Antarctic penguins with AI"
-    excerpt: "In order to study penguin populations, researchers first need to accurately count them. A new crowd counting solution from Intel AI Builder member and data science company Gramener could enable researchers to use computer vision to count penguin populations faster and more accurately. \"Today, on Penguin Awareness Day, it's important to ..."
-    publishedDateTime: 2020-01-21T13:40:00Z
-    webUrl: "https://phys.org/news/2020-01-antarctic-penguins-ai.html"
-    ampWebUrl: "https://phys.org/news/2020-01-antarctic-penguins-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-antarctic-penguins-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 37
 
-secured: "aEEy0yZuxxZsvks+ADFym+LZZVRKe8TWSCd7v50XzUiHvJx4twg+eYnAjiIgKFae2ecbGL2h9cx6puRwTmSxwsVLXkEVS9xX7Hb5K6EehO73FRabbtYkwVIqS/MKxgBPne0UilriFQUF2MaO8pR+2lTAx+SAxqyucj0dvdQ5L9XVJL00O8C9zYiSMvIbszHLujY2FgTmND1mCMkeNEpVp/t+0e4r7jTDEBog8sjyUB14DjiJ6bhjy7syMXM3cTiW15R3WPUxMuXhS2NVsZhfxfXeAbzBk1t6SAuFhiQOy9vpbC7Lgp0x70Xw7/4SkUx5/Bu//3eZIy9m1zE/YZQ7eW9TsxwSuTscBeicqKlnSwM4CyvdSGHaP1Xpmri3ENLvUpN6YjiArt2zwI+xN9km+A/FQr4u336fU+34igdcvg2Hn83WyzGU9hOvJOSU1Y7L8Ry8MimxpjvXRVRjlYQwPWsGmY6BC4H14uyxMy3QFug=;ib2YP6FjvIx9NchsnQ0WyQ=="
+secured: "DC+UhAdV2A/PXtNn9JPICM4AszD9M+vFVEKKFJc088YW8RR77LIpJ3RVeJAN0B6Mr39KX7aeXctkwrAtWr46j0yR244X+q+0i7WzxRywUm+2LQ5WwR73VJ9YVaRPbk1Z9/lrAUhHSR9e8XyOJKisAxJlUKnRKhbDfS1JEibm+W7+YSTk7LE/cwuSqSP31e7CE7tWluQLgKRRIfNaPcAIUI17t/6YHFsNlibRrtAnrOezC4TALnR8buoTP2ppraWqsVRaOGECE/CDzXPgPqTK83DSEwlJgG+4WLtIU7bTa2mp/mT28j0brarACNxfpTV6;8f2KwFd2vPXf32LU3v6kbg=="
 ---
 

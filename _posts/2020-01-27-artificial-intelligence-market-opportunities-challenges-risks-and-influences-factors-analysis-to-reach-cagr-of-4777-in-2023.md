@@ -27,6 +27,15 @@ images:
     title: "Artificial Intelligence Market Opportunities, Challenges, Risks and Influences Factors Analysis to Reach CAGR of 47.77% in 2023"
 
 related:
+  - title: "Global AI Machine Learning Market: Facts, Figures and Analytical Insights 2019 - 2029"
+    excerpt: "The research study on Global AI Machine Learning market 2019 presents an extensive analysis of current AI Machine Learning market size, drivers, trends, opportunities, challenges, as well as key AI Machine Learning market segments. Further, it explains various definitions and classification of the AI Machine Learning industry, applications ..."
+    publishedDateTime: 2020-01-28T06:41:00Z
+    webUrl: "https://www.openpr.com/news/1910247/global-ai-machine-learning-market-facts-figures"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
   - title: "Automotive Artificial Intelligence (AI) Market Growing Rapidly In Automotives Sector: Analysis By Key Players will reach CAGR of 37.32% in 2023"
     excerpt: "Automotive Artificial Intelligence (AI) Industry 2020 Global Market research report presents you analysis of market size, share, and growth, trends, and cost structure, statistical and comprehensive data of the global market."
     publishedDateTime: 2020-01-30T19:52:00Z

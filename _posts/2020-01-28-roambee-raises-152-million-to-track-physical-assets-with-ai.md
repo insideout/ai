@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-tr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: VentureBeat
@@ -29,73 +29,36 @@ images:
     title: "Roambee raises $15.2 million to track physical assets with AI"
 
 related:
-  - title: "Berkshire Grey raises $263 million for industrial robots"
-    excerpt: "The company, which combines AI and robotics to automate omnichannel fulfillment for retailers ... CEO Tom Wagner says the fresh capital will fuel the startup’s global expansion, acquisitions, and team growth. “With our intelligent robotic automation, our clients see faster and more efficient supply chain operations that enable them to ..."
-    publishedDateTime: 2020-01-21T14:30:00Z
-    webUrl: "https://venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/"
-    ampWebUrl: "https://venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/amp/"
+  - title: "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI"
+    excerpt: "Its marquee product taps AI and machine learning to uncover unstructured on-premises and cloud data, and Krishnan claims customers have already used it to find “millions” of inappropriately shared and unprotected documents accessible by thousands of employees. “Businesses understand the importance of protecting their critical assets ..."
+    publishedDateTime: 2020-01-29T14:00:00Z
+    webUrl: "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 78
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/0-2-e1579616903362.jpg?fit=1200%2C600&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/8a91385a-4630-4ae0-a791-1dbe7d1f8780-e1580153727148.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Berkshire Grey raises $263M to fuel global expansion of logistics robotics"
-    excerpt: "With technologies such as artificial intelligence, computer vision, machine learning, advanced sensing, novel gripping, and robotics, the company said it can handle “the broadest assortment of products, packaging, and parcels – and all while continuously improving speed and performance through autonomous learning.” The company said its ..."
-    publishedDateTime: 2020-01-21T15:52:00Z
-    webUrl: "https://www.therobotreport.com/berkshire-grey-raises-263m-to-fuel-global-expansion-of-logistics-robotics/"
+  - title: "Startup that tracks cell phone data for landlords raises $12M"
+    excerpt: "A location-data startup that tracks tens of millions of cell phones and provides information to landlords and brokers has raised $12 million. The firm, Placer.ai, uses cell phone data to track pedestrian traffic in retail properties and provides feedback to building owners on the performance of retail assets and how many people visit them."
+    publishedDateTime: 2020-01-22T12:00:00Z
+    webUrl: "https://therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/"
+    ampWebUrl: "https://therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/amp/"
+    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/amp/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 97
+      name: The Real Deal
+      domain: therealdeal.com
+    quality: 57
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2020/01/berkshire-grey-boston-hat-funding-1024x636.jpg"
-        width: 1024
-        height: 636
-  - title: "SoftBank Joins Berkshire Grey’s $263M Funding Round For Retail Robotics"
-    excerpt: "Robotics and artificial intelligence company Berkshire Grey has raised $263 million in Series B financing to continue providing global Fortune 100 companies with retail, eCommerce and logistics fulfillment automation. SoftBank, Khosla Ventures, New Enterprise Associates and Canaan all participated in this financing round, Berkshire Grey said in ..."
-    publishedDateTime: 2020-01-22T11:53:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2020/softbank-joins-berkshire-greys-263m-funding-round-for-retail-robotics/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2020/softbank-joins-berkshire-greys-263m-funding-round-for-retail-robotics/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/softbank-joins-berkshire-greys-263m-funding-round-for-retail-robotics/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 69
-  - title: "Warehouse robotics firm Berkshire Grey raises $263M in new funding"
-    excerpt: "Berkshire Grey, which emerged from stealth in 2018, combines its robotics systems with artificial intelligence to automate tasks “never before performed by machines in commercial settings.” Its robots can automatically pick, pack and sort individual items, packs, cases and parcels to help automate warehouse and distribution operations ..."
-    publishedDateTime: 2020-01-22T01:05:00Z
-    webUrl: "https://siliconangle.com/2020/01/21/warehouse-robotics-firm-berkshire-grey-raises-263m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 69
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/bg-robotic-omnichannel-fulfillmentflexbot-with-order_750xx3840-2160-0-0.png"
-        width: 750
-        height: 421
-  - title: "This robotics company's $263 million funding round points toward growth in Pittsburgh"
-    excerpt: "Berkshire Grey, which creates robotics and artificial intelligence for retail, and ecommerce fulfillment operations, has a research and development office on Pittsburgh's North Side. The company said in a news release that the funding will go towards global expansion, acquisitions and team growth, and Pete Blair, vice president of marketing for ..."
-    publishedDateTime: 2020-01-21T18:45:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.html"
-    ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 67
-    images:
-      - url: "https://media.bizj.us/view/img/11584227/bg-robot-knuckle*600xx3240-2160-300-0.jpg"
-        width: 600
-        height: 400
+      - url: "https://therealdeal.com/wp-content/uploads/2020/01/1200-placer-650x405.jpg"
+        width: 650
+        height: 405
 
 secured: "oc6N6NNlVTyrK1VvIw2/xL9cLU3HmGVammhSR6Uwdwg+q4CKhG2nOh/X2O8m3VWnD16IvHhEB6YKOuZBHZ/bnyWcJs7Na6ZmechadvSIz8V74XeMasmrO4fXeNVMay8g3A2q5/osKJ4tfmIkpDJV3NGI9skAL0kY/DHQ6lZfr73YUQZvGyqvhRN+XixuQVjnKy60iYUMdiQt4ECoKh8+KsdCdvY/6vL3ayNkeVmfhiKlEjtVgcGiASZTEAhMHcINEQ4Eh1Y38W9FozVuaa7ngqonfbJy7/wVRrBH91jPkzHDX2av1ifZnTC72FjGj8qkgcY3qMpYdQvefhZBUx1oBLAq1dBpXnp2226utjNTHn21EErnACWY7TIYz7uL7t76kzVpH+g1y1M9XLiVDGX1B4I/+u1hWeQRt4ob5nSxij7ToFvtqb+fzlA6Cdp7LanYPfuPqUYRRNFAzdWyJs21BkqX752QqiOD9yOhkNzn/Sk=;hLS6dDQv6NG5uG6XvWNw1w=="
 ---

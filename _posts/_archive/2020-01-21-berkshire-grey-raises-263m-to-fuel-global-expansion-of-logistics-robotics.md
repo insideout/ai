@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-21T15:52:00Z
 webUrl: "https://www.therobotreport.com/berkshire-grey-raises-263m-to-fuel-global-expansion-of-logistics-robotics/"
 type: article
 quality: 97
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: The Robot Report
@@ -24,36 +24,6 @@ images:
     title: "Berkshire Grey raises $263M to fuel global expansion of logistics robotics"
 
 related:
-  - title: "Berkshire Grey raises $263 million for industrial robots"
-    excerpt: "The company, which combines AI and robotics to automate omnichannel fulfillment for retailers ... CEO Tom Wagner says the fresh capital will fuel the startup’s global expansion, acquisitions, and team growth. “With our intelligent robotic automation, our clients see faster and more efficient supply chain operations that enable them to ..."
-    publishedDateTime: 2020-01-21T14:30:00Z
-    webUrl: "https://venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/"
-    ampWebUrl: "https://venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/0-2-e1579616903362.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Roambee raises $15.2 million to track physical assets with AI"
-    excerpt: "The Santa Clara, California-based startup provides on-demand shipment and asset monitoring for companies in the logistics, transportation, finance, pharmaceutical, and automotive industries, with products that combine internet of things sensors and AI with robotic process automation to deliver insights and streamline operations. After raising a ..."
-    publishedDateTime: 2020-01-28T12:30:00Z
-    webUrl: "https://venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/roambee.jpg?fit=1200%2C720&strip=all"
-        width: 1200
-        height: 720
   - title: "SoftBank Joins Berkshire Grey’s $263M Funding Round For Retail Robotics"
     excerpt: "Robotics and artificial intelligence company Berkshire Grey has raised $263 million in Series B financing to continue providing global Fortune 100 companies with retail, eCommerce and logistics fulfillment automation. SoftBank, Khosla Ventures, New Enterprise Associates and Canaan all participated in this financing round, Berkshire Grey said in ..."
     publishedDateTime: 2020-01-22T11:53:00Z
@@ -78,21 +48,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/bg-robotic-omnichannel-fulfillmentflexbot-with-order_750xx3840-2160-0-0.png"
         width: 750
         height: 421
-  - title: "This robotics company's $263 million funding round points toward growth in Pittsburgh"
-    excerpt: "Berkshire Grey, which creates robotics and artificial intelligence for retail, and ecommerce fulfillment operations, has a research and development office on Pittsburgh's North Side. The company said in a news release that the funding will go towards global expansion, acquisitions and team growth, and Pete Blair, vice president of marketing for ..."
-    publishedDateTime: 2020-01-21T18:45:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.html"
-    ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 67
-    images:
-      - url: "https://media.bizj.us/view/img/11584227/bg-robot-knuckle*600xx3240-2160-300-0.jpg"
-        width: 600
-        height: 400
 
 secured: "Y5hdh9TVIzocIbli0NS22Gx9RHJfu/xo4S7uHcHoT8qKzmAJWUdZzN5fdVhdIothNakavlG+X88i9R2t1F22vAqA9A2hPGlKCGrE5dDf8fTuIl9s0sUSNnRbTWIJz1TbNdOdlZbN9z8UIKbmS/213vwe4u8l+UNhVL9dEpz6Pu0Yucp2afBFVnp+JA3s1nRC8Ngu7AkPaJbcDDnwFVP0EviFx25QMDg4MXi2BWE8iuaSyL0hXHBA5hHDtWvpaqMkP7htr13nzGQm1rtbWBaoVwoCTpe3r8L6uRAd/JDspDyweHJ1RX4uS/mI5K1gO4twjXTjklykBmaxepsrW7fgfq7CKhy7XE2fNWEPLwNFlUyOzommYu1ypq4D6fQERqrGMzW5iwKgc5YGgwNCbrY1DafsCkl7/BNmeTaZJ+XgOFY6XYlVcEDLuJsaxEoFqaxvDcyq5THwR5QKb6zNsBZEvw==;ie83osG6vIXG/0RlQiGP2g=="
 ---

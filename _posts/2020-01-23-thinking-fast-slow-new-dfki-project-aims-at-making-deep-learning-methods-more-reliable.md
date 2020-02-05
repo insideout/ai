@@ -39,19 +39,6 @@ related:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg"
         width: 1200
         height: 675
-  - title: "Uber's Synthetic Training Data Speeds Up Deep Learning by 9x"
-    excerpt: "Using this synthetic data, Uber sped up its neural architecture search (NAS) deep-learning optimization process by 9x. In a paper published on arXiv, the team described the system and a series of experiments. GTN is motivated by the problem of neural architecture search (NAS), which trains many different deep-learning model structures and ..."
-    publishedDateTime: 2020-01-21T14:18:00Z
-    webUrl: "https://www.infoq.com/news/2020/01/uber-deep-learning-speedup/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2020/01/uber-deep-learning-speedup/en/headerimage/uber-deep-learning-speedup-1579445542843.jpg"
-        width: 2070
-        height: 1449
   - title: "Benchmarking Deep Learning Architectures for Predicting Readmission to the ICU and Describing Patients-at-Risk"
     excerpt: "To compare different deep learning architectures for predicting the risk of readmission within 30 days of discharge from the intensive care unit (ICU). The interpretability of attention-based models is leveraged to describe patients-at-risk. Several deep learning architectures making use of attention mechanisms, recurrent layers, neural ..."
     publishedDateTime: 2020-01-24T13:06:00Z

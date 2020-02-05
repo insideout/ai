@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 114
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         width: 1200
         height: 400
 
-secured: "WEydpNh6XIsoI/uyourTr+NbiyP5Kmc2xwMr3U4J+IFa+Nlue6MdHHib8jppTfyRA7i6JdKxK1k1X46EaAuah8tVN2ju4ZNbKgM4xeCbwAB0Nj7AvRrIvPM1k41R7HKRBBJmmIsJqj+OHg1eW1C2iVKK/OJR1ywG9Qkg3Vpem3O4f+iyVCnMH9U6dSZNrXVMU3uO0vjX2CWDFIsrwzJT6JC6A88grzA2gSur9VLu9kiEHjclIvNsBRFSUfrSKYbpENdEn2JkbXuKYaGeuKosxi6JL/2Dkr5PsNgKNOI/Tz+6UPTEZXwTgbvxNCQSGmJ0rAWqXcIJXsZd9cxJYmN8joPKyV9s6w8psy5a5tKuS7b2DD3qtp+HhErj7azFN2x5pBuXbQbuD5TtnQ7ac9JQURwyXmuudIyrMHBGWuch8LkuWfkXvJrEfONf8pybvpFgJZv/cieXhj9rHJEcjly53+iUTLWA6Qe7mX+mFk9ARTw=;+DiCc2pQtPz+qBlJMXd6OA=="
+secured: "/p5G1cDveMMp5tDNRd8RTrUpqULQ+8nM182UD11fbsiaYw00HkChMu30nrGNhwIOkkfjJwkcWca08gpZzStWKrtvyIuHLDjLHUgtCmS6m44OOln3ourC6t6qZmkINfNXeYSsRQwxGReWNKSX4/Kp3Es3VduBk3ptoh3qnwdEqP9+4vIsFckbzDgozLNjlgAh/YZ/F4f3sHvl4zVnbiijlT0wE0iY5rLySxcSiCnW/hIOLXb1QXY4UGZhZ9Vf4HP4PCYPSa8HFa8ODe4FMPoFTeRaWfhwbKmJsnPRyhDWDI34NviDQO0zn4UUF/1j4fmgX9L5PaXfoPRyFVosbZ9pf0qgpeRrFyAhqjMkq3RAiWV6gPpLgkaW8sI4QURY++yYux0IHnJsQ6kO8eWnx3qSnCdTUAuEWXKVMHv4zFWsWrmEdx31ff1B/pSJeNouTc5UxNi0sKqKh27qMAM7SrFDDhz3LqSKnPG026IfnGBdLc0=;Z1v78tF//JkRBIDGd3Wz2A=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-tren
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/"
 type: article
 quality: 106
-heat: 107
+heat: 106
 published: true
 
 provider:

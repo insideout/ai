@@ -5,8 +5,8 @@ excerpt: "In the six years since it was acquired by Google, DeepMind has been ra
 publishedDateTime: 2020-01-15T23:45:00Z
 webUrl: "https://www.wired.co.uk/article/deepmind-protein-folding-alphafold"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Google AI
 
-secured: "o7sZZ4AimGmt/yinyGsZ1/WncTtfloqeE6e+8B7ipqOijWXp9t4FuK1hFcxnlTlHG/hoR/YqvQ8Sy9iM1LD7+kohcBapBi6vdV1cN8hEXUXYVorDQbWhYBA1z20tmLOUM5L3ReGs3d7RpQ3xdqY/oHHzLQjYAOxWqCylIb4xw+9ZcHpJ01WfpZHNypkb/0YAf4V98BxTGZ8g+kEPkmQd2LVgY/00+pnzDefNb1k6/3xX9Ap4bw0hxfReniNwZ9QZ69Dp/KiTxumINY98oq71dJ8aQ77Anbl3RtUUS6Gw/7LbOZHiJDShNjGx2/Aca8lN;MbC2+yZur9gnC/2z+PzH5g=="
+images:
+  - url: "https://wi-images.condecdn.net/image/jJ7YeQvpEQP/crop/1440/0.5235602094240838/f/deepmind-protein-.jpg"
+    width: 1440
+    height: 753
+    title: "DeepMind's AI is getting closer to its first big real-world application"
+
+secured: "+LOqN6yObaef/AIoH/VK/oCEnCHVx3E2bHAV2pzDrW4C7SNBlnNq0rumFhUJYvAbsPmf9v9vGoWajcdPY/pz2zp9vEKQi0TLsxNxVJnEFdrRGVfKCjh8GgldinTlJG7JOhK6Dw8SKI6RRw+Nz7HavAuqC9KkgpK/pvzcB68Q2w2pX3aze/0JkyauSbx1whB8TkkLipMTtaBC1vnvPMPEBKO4gzgC18M61kI1ZVDr87TULNzODYEJtRgYmjv7Vtd35NZsNmGZmadHZ5JsyL/29+TFBunR2fkv5x+Y7xvDHW7R2RRkQOkfl0LH+ALsmUL4;gQxyBdXl42JqtDQx9FTytw=="
 ---
 

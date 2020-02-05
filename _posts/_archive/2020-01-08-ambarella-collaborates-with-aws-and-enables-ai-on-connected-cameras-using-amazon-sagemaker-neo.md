@@ -4,10 +4,12 @@ title: "Ambarella collaborates with AWS and enables AI on connected cameras usin
 excerpt: "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped ..."
 publishedDateTime: 2020-01-08T11:10:00Z
 webUrl: "https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html?ref=nav"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 77
+heat: 87
+published: true
 
 provider:
   name: SourceSecurity
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg"
+    width: 612
+    height: 355
+    title: "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo"
 
 related:
   - title: "Machine Learning with Amazon SageMaker"
@@ -26,8 +34,12 @@ related:
     provider:
       name: Medium
       domain: medium.com
-    quality: 49
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/800/0*I-0eBdjKu_fx4mzL"
+        width: 800
+        height: 450
 
-secured: "zVJ08L3wTdRqWvE6zk0pn3iuhaxi8X/BfV6OfaQoS/560CqkFKd4FxDVLoh6X9gd8gsdkQpvITk0L8Tpuq/fZZqWzVn8PYOIdb6qHC6jsVFD8UCrZAFuS1nigpGjLHkOtdTNTk6zFc5zxUBdgPVjY3ccJrWuzSvZw43obZHh7RQtYvcu6ilsWMIaTdxfHBx1AqwjYx/ZqmfRt8ri4NYyJUTz+s55LktffCU0z+B2lkm11matajoJyMZonzVigXrCPTpNMftqT3d3uu84e+MF4Nm65XS0/IeDckeBooCgtPIGI4LkZ4RrPoNSMYgqwB4F;izkc79jEP0iWuxWQaJ7PuQ=="
+secured: "UfdpUI5ZDOKd6CAAK2cvhRdHv7UL1DYsT1sHfY1qj1KJazWKmZr4gd+2o6+14znhCc4WiDIo2rAcSnQBUWFgDuqzViU0LCfIVVPjZkNGg0Xxnl5R8zpt5dmBKnq9A4m3KQaON8m/pCt3A93gqVYg1QM8UB83/3rMx8o3TQZz1aGu3d4GaOKpnlmMKY3m62/4XT18zfpf7cZe4xEYIK33z11FyaLIqkaYRX4+HM263Qcn3V0gP49PxdqbT7IYrLF22Zuil03rjamFFVSdhw8vPU3BAyjK7MMYek+3pnB126okbQKcUNqNlzL03avlooAQ;0y1ASrsqzVX6/GlgOBJPlQ=="
 ---
 

@@ -26,21 +26,19 @@ images:
     title: "SEI Ventures Partners AI-Enhanced Intelligence Firm ForwardLane to Provide Insights to Financial Institutions"
 
 related:
-  - title: "Flourish Ventures To Continue Its Investment Spree In India’s Fintech Space"
-    excerpt: "Your browser is currently blocking notification. Impressed with the growth of India’s fintech space, Tilman Ehrbeck, managing partner at Flourish Ventures, said that the venture capital firm is looking to invest in sectors such as neo-banking, gig economy, embedded finance and insure-tech. Since its spin-off from Omidyar Network, the investme ..."
-    publishedDateTime: 2020-01-21T14:35:00Z
-    webUrl: "https://inc42.com/buzz/flourish-ventures-to-continue-its-investment-spree-in-indias-fintech-space/"
-    ampWebUrl: "https://inc42.com/buzz/flourish-ventures-to-continue-its-investment-spree-in-indias-fintech-space/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/flourish-ventures-to-continue-its-investment-spree-in-indias-fintech-space/amp/"
+  - title: "Future of Global Trade Intelligence: Improving processes and insight with AI and Machine Learning"
+    excerpt: "Artificial Intelligence has been called “the new oil” since it has become a resource for businesses to streamline processes. AI can help make sense of data by mining and processing large amounts of information. It can also free resources to focus on more strategic tasks and minimize errors. Sectors such as cross-border trade are ideal for ..."
+    publishedDateTime: 2020-01-27T15:38:00Z
+    webUrl: "https://www.logisticsmgmt.com/article/future_of_global_trade_intelligence_improving_processes_and_insight_with_ai"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 42
+      name: Logistics Management
+      domain: logisticsmgmt.com
+    quality: 41
     images:
-      - url: "https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2020/01/Untitled-design-2020-01-21T193142.073.jpg?fit=1200%2C628&#038;ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://www.logisticsmgmt.com/images/descartes_wp_global_trade_content_intelligence_121619-400px.jpg"
+        width: 400
+        height: 493
 
 secured: "GzedTNaXXVTX/ZXI0FsKM8HD1fzCRXMVXMgWIH6H1ceT2hciezxJflki/wrul8cRJxdK4ov/OZQ5X6ZxEWBFHp+N8z33JWP2n6YvkSzi9gzQdNJG4L+Zr+OCdyDtlHzHzvQfwFxilb0UHDyv6o7Ip8UZAPTyZQMhA+QtP0WYjUvpqaKhsH8j+R3iDnKtsB3GNUTbti/m5ePoe6HOa5Er33WQxv5mKnjsQezUs0s5gsTmqTtetyVR4dcl3QkLQxvANJuUhl9xII7916WIZkM4AC1oX8tgWEL8QqBiA5hsk+dMiIyCrEODsrCOfKfwZG5tb+BFlNwntltRsajraAgF4TDO3Gn5ERZ592Pd/9wzi5J8sHCJIm/yDGvolw0dLi0VhL7LgbamBHoUf7SM9vnMkDFZApxVFoKIXzUV4tCHRWMMDPsNiO1KxGCJzHkyGJgqjLD2EkJayVaBSJjIEEWnU5pbbfKqhCHP0dSShlIKTSk=;222ZCdUt3NsTYJPreAy+cQ=="
 ---

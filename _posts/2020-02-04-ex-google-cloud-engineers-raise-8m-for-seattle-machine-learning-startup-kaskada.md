@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-sea
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/amp/"
 type: article
 quality: 99
-heat: 109
+heat: 110
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         width: 718
         height: 400
 
-secured: "CpcjgXUkKQyHN/RKLc0M6jk2Ie/y2uBMd9iXMKxhKIxUl7NTXZaYSAnfgY1l15u3DM9r3mdrm48AfkUDaOpFg8CXi75fz0qhI8debVfYROq9iq3Tlk8VOMSc8o6wV9KRWO8QNJFV6iFbeyaE0CMjzX+4E0yZ56MrOCLUg22m2P6vsFW3kn5PWizcviRFSOqFsIqCSzrR+3oNCk0U42OKcXYXTH9WHzqbXIM5BO3JAtZH1n7/sLbkOZhG9YZd2/jnGo/E62wExzlRitA0+Z69CUiky52pGQ4L7jl82IJIMk2qYTXEbAQEAnjIPOz00xaDUh3pw8C3EA9D5z7+kdfQiB2X5arN+UhE6PpvKMWlhZCQQLSf4aFwGhr7z8hXnbVUjU5zMRznWtf0Agn44kF4OfDsyzNFRhHDkaXvNYHB8V/A6qsv+52M340G8zkFs4QcfdvrtZ+00lCxyiwSDwcVVl9f4y7HBRGERroZBNzcKTM=;CQDh0jOcms5R7FmCnkO9xg=="
+secured: "ZCsXq8iniPdh6JPEK5B6MFR8D2tlO9npr5hqQz+xiXnaBuanKZLFpm2NylQqlxKndrELiwvSEkbaF4Y8igRRK3l3SgcW84PQBNZ8H1s2Rlv+jpKOL8L8CnMwG0DcOJ8J7xIeXynQpbW2OIF/lxk32csBbKddVmhskMlhsMLmFNVEbWuD4SUB3isx681/uusO1Nr0EwNF4AG3wM2LZB/I9sQE7nHaGaE5cDlnRPVZigq9OkyGGAvVx19JK3WVfNP47tn9EJrmedIh5fCsQcdZRZoUBozJ38CNQy3SOdXUpk0Q320hqIZaV4xm4xDuWTevwNA/9vbV0gxGZE9DTkSJ5qQDTnbkgkF2+bPm+esup5fHMbTXNRCknDs40YINHHwkNkjjZUsEe/Rlq5vEG2cG+uFefZCSM0LfLtmcWMOcp1C+TrtjwIGniKKr1P9oh71UvHFtiO0lLk/2OUzdNovLfmJ5Q/6EpuK/XFI4s9v1x/w=;8PkiICaOLBFeEEe1jbkJig=="
 ---
 

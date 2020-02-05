@@ -5,7 +5,7 @@ excerpt: "During the budget speech, the finance minister of India said, “It is
 publishedDateTime: 2020-02-04T22:48:00Z
 webUrl: "https://analyticsindiamag.com/budget-2020-will-indias-proposed-data-centre-hubs-add-strength-to-the-ai-industry/"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Finance
+  - AI Hardware
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/budget-2020-india-tech-ai-1.jpg"

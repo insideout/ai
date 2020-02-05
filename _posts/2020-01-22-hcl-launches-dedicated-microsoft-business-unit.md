@@ -42,19 +42,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/MfYXru58.jpg"
         width: 570
         height: 367
-  - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
-    excerpt: "Microsoft Azure, IoT, AI/Machine Learning and helping employees accomplish more with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for customer-specific scenarios and will ..."
-    publishedDateTime: 2020-01-21T14:51:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-885804646.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/467009/Power_Objects_Logo.jpg?p=facebook"
-        width: 1920
-        height: 1005
 
 secured: "KiScSWHrh0TLO8c4HvG702tfTZdjXXAatZbsUPhwP61yoySOUU5ybegblrYXvip47axhJVZ+OaNMXPVqU2mECCZqEUod3DvjJTCec5mL2W1QTVTShYXvKKwyLvYhqziP1BSHOvDrsK8PpiW6NqA50XxZNy9fKCHBsJ6lzT9QzlFuDZj2f4vmBezlcxkLTcv6dXoJ9+wn45dlJFba5k9Hk8tzUER09/NyK0QgKgBYtWrtMAjt1EnTQVES85uKASA9wx9o/8zSnF2y8ZqM4cxrIuvzTcaXcleH9817hIloplM=;Y1gRnLPI/OxFbDL+9BSgIA=="
 ---

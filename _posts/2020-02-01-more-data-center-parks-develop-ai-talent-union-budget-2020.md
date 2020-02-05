@@ -28,7 +28,7 @@ related:
     provider:
       name: India
       domain: analyticsindiamag.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/budget-2020-india-tech-ai-1.jpg"
         width: 1006

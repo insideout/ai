@@ -50,21 +50,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024"
         width: 1024
         height: 682
-  - title: "Protecting AI Startups With Strong Moats"
-    excerpt: "User data is one of the strongest means that can provide modern digital businesses with a lasting competitive advantage."
-    publishedDateTime: 2020-01-21T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/21/protecting-ai-startups-with-strong-moats/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/21/protecting-ai-startups-with-strong-moats/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/21/protecting-ai-startups-with-strong-moats/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1056983494/960x0.jpg?fit=scale"
-        width: 711
-        height: 474
   - title: "China’s AI startups close more funding deals but raise less money, report reveals"
     excerpt: "Still, some Chinese AI startups are gaining prominence, giving hope to the country’s ambitions to become a world leader in the field by 2030. Beijing-based chip designer Horizon Robotics, for example, was one of 24 AI startups worldwide to reach unicorn status last year, joining the ranks of privately held companies valued at over US$1 billion."
     publishedDateTime: 2020-01-23T10:47:00Z

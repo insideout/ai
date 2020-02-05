@@ -35,19 +35,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
-  - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
-    excerpt: "Microsoft Azure, IoT, AI/Machine Learning and helping employees accomplish more with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for customer-specific scenarios and will ..."
-    publishedDateTime: 2020-01-21T14:51:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-885804646.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/467009/Power_Objects_Logo.jpg?p=facebook"
-        width: 1920
-        height: 1005
   - title: "HCL launches dedicated Microsoft business unit"
     excerpt: "Noida, Jan 21 : HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft's offerings of business applications, Microsoft ..."
     publishedDateTime: 2020-01-22T05:12:00Z

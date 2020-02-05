@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T20:16:17Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/millennium-management-secure-machine-learning-using-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

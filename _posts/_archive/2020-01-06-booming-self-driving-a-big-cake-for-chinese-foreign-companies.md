@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T13:48:00Z
 webUrl: "https://en.ce.cn/Business/topnews/202001/06/t20200106_34055142.shtml"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -18,9 +18,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "http://i.ce.cn/english/main/latest/202002/01/W020200201381229616296.jpg"
-    width: 319
-    height: 220
+  - url: "http://i.ce.cn/english/main/latest/202001/26/W020200126339295569097.jpg"
+    width: 320
+    height: 221
     title: "Booming self-driving a big cake for Chinese, foreign companies"
 
 related:
@@ -32,8 +32,12 @@ related:
     provider:
       name: Steel News
       domain: steelguru.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg"
+        width: 1200
+        height: 800
 
-secured: "k3oArXhArlyTSFaly/aXBl98Eu9TLWFI9yatw5LPSCY8DcY/RFtmEQoMrU5qCkgtnw9SEfRp80bW8ptXWxcAU6YOdgtsydL3jX6WeLcCaQv7E+BAt7mI4dxFcaJ6XB7eKFXKlADNxDaqxyF0N3lUXQxjI6m0Wb7jKwhXNKITyIgLNgJDTe3JzThLCQJVMrB1KVFCJ/9anb8vcEK4DHvo0ltEwxPgNeplVqL87zIL08c3y+CoAlNOnIxTW3ZCuAf4729GneV9Zf8cSWtj5jjlJK53cNj3xYx1FkrK3MG2DVvTtqAoV/AdgAqVMqo4mT/G;QGeLn1qGlmNzg/JB+CyeLw=="
+secured: "88pb7NggJT8n0AKkX1lh7ABqPuafXzCMMumtMSfZ/lTi0J0c9XMobcQH1jHCuMBET0lQtU1Yj44ANncCZL1rPWZrdgWl6s7DjnXshx9u3yvPG+9NDsn4oj40LmE984ZvDrlG9K9k/Ri5T28sJ6RSCykIGs+pAjqvekfgJk+inmjtMGwFKj2VtvO+jvOps3NAEJT/v+H4la+vu8CymKjrZ9P4dVjCnOViZ0+s5TGUAmPuPgwwWPrX9CX1wEZ9HdNmxxI+Dvw6qBTkQFJJ7pWVKRT140gyycU8EHovM5/SPuKC6uPO6Lv5StYgduqF7Zx4;ofSK+w3snwZ5N32U2zPYaQ=="
 ---
 

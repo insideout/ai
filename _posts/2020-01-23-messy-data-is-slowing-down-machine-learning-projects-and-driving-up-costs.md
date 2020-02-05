@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/messy-data-is-slowin
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/"
 type: article
 quality: 88
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Messy data is slowing down machine learning projects and driving up costs"
 
 related:
-  - title: "Uber's Synthetic Training Data Speeds Up Deep Learning by 9x"
-    excerpt: "Using this synthetic data, Uber sped up its neural architecture search (NAS) deep-learning optimization process by 9x. In a paper published on arXiv, the team described the system and a series of experiments. GTN is motivated by the problem of neural architecture search (NAS), which trains many different deep-learning model structures and ..."
-    publishedDateTime: 2020-01-21T14:18:00Z
-    webUrl: "https://www.infoq.com/news/2020/01/uber-deep-learning-speedup/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2020/01/uber-deep-learning-speedup/en/headerimage/uber-deep-learning-speedup-1579445542843.jpg"
-        width: 2070
-        height: 1449
   - title: "Thinking fast & slow: New DFKI project aims at making Deep Learning methods more reliable"
     excerpt: "Modern computers are in a similar position: Thanks to their training with large amounts of data, Deep Learning methods can deliver fast, yet incomprehensible results. Scientists of the German Research Center for Artificial Intelligence (DFKI) now investigate how these methods can be proven by formal procedures and thus become more reliable ..."
     publishedDateTime: 2020-01-23T12:41:00Z

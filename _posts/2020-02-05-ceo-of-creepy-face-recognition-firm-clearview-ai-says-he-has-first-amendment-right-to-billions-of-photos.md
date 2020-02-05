@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 450
     title: "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos"
 
-secured: "cxqmVjoSmEp+h4B0Il2lTfWPXWzYbR4IgehJHi0a3MLFgukIOyWeCk5NLb7RrDQJ651dxJe+DHTxfBJiFdYTobWTWdE6n5hLl92nXP93s+o2EFSqZuo0Va2tqjp/G+8XwYYmIyWFU6pqOdIY5oiS3e6esp6CqSEYbwD1fMj9BNdxJ2mo69yW3+mIsLVBBYlWlC/5ND1MfEt4X6owUBF0nU0qlducaCZSTc9VwRE8KSsVyylNc2g3UY31tiq2XY+A4wUq3R7DDclwUjNR6GR2JYdL6Ep+IYgT2njTPJhdwUgEfdxgr7Oylv0nutKt43roQwM/q/qVRMLbnzZwBE2aZ/ZPWeMvZfNkGkRn+ZwNEfe4tdKFh0tE6jEhwR/BjPrh62n5jYoQa4gmiE60XRxRXjyFBobrOTPGGbU924LTgdl8vRUqCscKir99/LwFyzoUe9Q8BRKiV+M/0EuwsoAfp6slvB+0B/FChp+yudk81A4=;yKKP626oQkou6G2OvVzRlA=="
+secured: "/3guczwScbIj6NYOjlXG0EXtsSUgQV24fMjZcfi4iQhG1sID5GXDfh09VToTgqNhe6FeuPS9LWfcTUVEodBy9jdxtxc5rojxbtf7KKMW1d4Gnw3vuf/mD5/6Q/nuWUy7PlwiXGYPiYkKKhPJiz42bSioxotbuoreiVSoZd5gYl8HF2aBIXvbiszi6N9DsXlJBKNFSAnZ72cEw4f1+sl7BD0Qjyqi49Ki7Jydjp0WMXnKFWEFzdIShS91+78h/AXLCWDtnJcb2BjUDcHTU7CUx2a7s/3AN0aQcxggxgN0d1YSsOlEcpT//HLPdLe2w3sP94WqbjnrhkdO/emZy0WzgErqkTW/+NzRvUAxcIJoEg01iQRvQESv1Xw/bFtGh9zcCWzzxg2u5FEO3vDFoWw0RQjCQe8vkIXzv2YANxptlUW1kMGLx4kO7IBlf8uJ5T/J7RFIuLMSWnSO+7EUqJdoJBoduNZV9YbWLWOal68D++o=;lWV31udi85UpSYa7f6MbpA=="
 ---
 

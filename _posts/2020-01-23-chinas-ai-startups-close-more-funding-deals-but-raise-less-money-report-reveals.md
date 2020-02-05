@@ -50,21 +50,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024"
         width: 1024
         height: 682
-  - title: "Protecting AI Startups With Strong Moats"
-    excerpt: "User data is one of the strongest means that can provide modern digital businesses with a lasting competitive advantage."
-    publishedDateTime: 2020-01-21T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/21/protecting-ai-startups-with-strong-moats/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/21/protecting-ai-startups-with-strong-moats/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/21/protecting-ai-startups-with-strong-moats/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1056983494/960x0.jpg?fit=scale"
-        width: 711
-        height: 474
   - title: "How Machine Learning Is Changing The Future Of Fiber Optics"
     excerpt: "Much of this will be driven by the aforementioned technologies but also by new technologies such as VR/AR. But none will have more impact than machine learning. The compute power needed and the demand for machine learning performance is driving more and more developers to move AI applications to the edge and away from the cloud. One of those ..."
     publishedDateTime: 2020-01-28T10:26:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/a
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/"
 type: article
 quality: 189
-heat: 230
+heat: 229
 published: true
 
 provider:

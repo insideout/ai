@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/04/what-cyber
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/04/what-cybersecurity-operations-can-learn-from-self-driving-trucks/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         width: 1200
         height: 672
 
-secured: "7GaE3fplIOUBOLOGADj9zXdycscvb5uCoLU8ryn8hqnfx2NiKMqHNhZypLBN7KMVOi03VpbJ9yHREBu3C7aMkaYkfJlrjfoDyvOdMT8OeWxB/kKI8yyq6kWE1m3TPYQjurZ1JvGU58Nqf+hgC4mYlZ884GeqIaZhBOjv2hBFYVWWuzt4xc7yacQyjqGm8w27/jce0dL6VftzfEilWiMU1ukl+funGHw78/LzgKQOgGGbDe2xa0HJCoKc3mwBTg1k0H9xFhJy2GijpB0oqX9uM5rdBoMDdLXl7pBOxmPWHRAL91WwkB3PHnDVtZ3Xvlk1v7kKHM6pQA2rJo9KKXvjH++/1yBw+EP9a26CRk92TFTcROjU9ePlZEd1fMmSGOMsIC3xwKzP3yVe8rnmXP9BZBilRKDExdAmR4dDf+jv1bQYT0GugohEJplNBTizHE4lpR8H7Xdh/yXYZyrxsdgqQ0QKfRQUs1g2LVzOcBMynJQ=;PxSOQ0h74Sn/MAzkMKQGqg=="
+secured: "8pVnqripkqcC5D7lFdnO212nKiVnNxySb3lqLl0ViogUEb/GVM+wwTO8UdrQw5/6aKtiTm0cF61r3gOkn3YumZCamHkxzjTFBHSzuXsMr1/xVb8apZ1xadY0ljfbXGrmfCcPWrY2+24m181ruHtWP0V3ZCt69N3ZfjPaMaee1R2miSoDwa7VCI2DvutAuKyX9zHci5Qf83ToaPlhy5HQomEzJupxtBRGJlmQlPNnQlRoa9yOqWp5/keFE62Bzge71zpOPzxfCooYCID+anq7fsjeVYXWnj4+LQBJXv/TWm4XLBQCJyUbVwKJrtmXYpRjWUcL1e0NreqGE0KxX4b16EZrltEIPvaWpR0w/dcllO2OM0bVD/FCO5DTBjoAlFBCrvXr76tfo8rxX0uOowH7CO3WmIXtV8cNNHrPmcG59u1tcQOygHotbfc0wIgMWBYIhdeJClSEMzs4njQJzS5z0/dNtSJLnFeRlo+b/p6MDFU=;a8LROaIQzvF8tMvlLwGjng=="
 ---
 

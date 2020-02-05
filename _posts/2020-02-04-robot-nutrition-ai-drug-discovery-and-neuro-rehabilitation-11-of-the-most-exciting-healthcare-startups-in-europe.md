@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/11-exciting-healthcare-startups-in-e
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp"
 type: article
 quality: 101
-heat: 102
+heat: 101
 published: true
 
 provider:

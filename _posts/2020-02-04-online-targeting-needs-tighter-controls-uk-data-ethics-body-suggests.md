@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/04/online-targeting-needs-tighter-con
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:
@@ -53,6 +53,6 @@ related:
         width: 480
         height: 270
 
-secured: "20fuApKXecEu3hLpXRtREPMq3MAn+uFAfHqoYzCTYO3EB6OH1mEVNYk3Jvd3F2np6weLR1WhTO6gSoQ7iwiL/maFLH6fWeQKeW4zeCdoG0Vd855/Avv890d7yyv/nHFvZGFR+qmaHy+ivDhaj20GQ2hI+5vZ+5cqjWsg7Lq14SATrD8IxlTa54OwwHJTKcN8zhtEQhrJsoRRkgmXLtFx5fcg0uHlDu/v0PtWWh+4J2YmHRVTmR0cvEpSsXIM4tZt+PGD+46mIO+/JbxV/jX9BEc1bgr0tx5HRNKLl4Rr6lmkH7hE29Ylftgkoov11R06qiK8dcd1kFkwAq8Xn5JozpxesxCTwyDTMXIrGHzBR0+xcBU+3QMSjn9RkF0kEtNDochrmKZEwBefRE5sff6Vy8gyf4/dxrhnQextGr9bqEUQ/B+k742sblZNND0sQvTRPf8jgV3rHurLWkHeenDa/wIwOUGl7rZAfq6/QmzWYSU=;Yu5xvxJ2cr+687Jlndy4AQ=="
+secured: "yFYZ9r2+oTj73GTvPu6GywsY5GnoOgs0lbx/SQ5xdk5HSLeIthFoKYeY0fJwm1iR/+2O+PjnDloZoc8XmbWQL6By2RpYK/yHTz3XInStRvUsZId29VPXtwooo8sWs/9XDPbbV3YLUJQScppDkIvk/wcTzPocsZ1oc7ya8taZx+xWYricJ2qYOA0GvPqLxYgZ7yobuVnhTPYIRbJ5LMFtQ5ERG7BCVM+Zl3Dhz8fyjbF7L8+UkTph+eb3UqB+PduuDI8eceowE/Uxgwwj6EP/VI3lB/aBav/ATK2OVuRqfEGteT9WnVa4b0B5CKHzI+WUIgo1LgtgaU18b1SesbYDWYLq/U/Nmuxvlo2nEkBfdjrBRb1wbsAIyDhTXglzOM4ec2HJYTDvGTkxC+Db5IrQUCSFEX/wn7RZTVrO0u6HDal2DBW+AGw/r8BGSDNw8re0nWTY8m5MP6cpXY+lwIPukqPic0PIPhnbC9MzQmUldr8=;MZDz2BJIcQ75KrwQUAJNCg=="
 ---
 
