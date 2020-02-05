@@ -5,7 +5,7 @@ excerpt: "In this session we will present an efficient way to train many deep le
 publishedDateTime: 2020-02-04T15:28:00Z
 webUrl: "https://insidehpc.com/2020/02/efficient-model-selection-for-deep-neural-networks-on-massively-parallel-processing-databases/"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/02/frank.jpg"

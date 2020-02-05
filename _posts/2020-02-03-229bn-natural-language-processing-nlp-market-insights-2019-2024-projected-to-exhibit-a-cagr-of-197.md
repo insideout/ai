@@ -1,17 +1,19 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-publishedDateTime: 2020-02-03T11:44:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+publishedDateTime: 2020-02-03T10:44:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -53,6 +55,19 @@ related:
       - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
         width: 400
         height: 400
+  - title: "Machine Translation Market 2020 The machine translation market is expected to register a CAGR of 7.1% during the forecast period 2020 - 2024"
+    excerpt: "Machine Translation Market 2019 analysis is provided for each region, based on the growth rate, consumer buying patterns, present demand and supply scenarios in Machine Translation Market. This market research report is a beneficial tool for its buyer to increase the profitability of investment,"
+    publishedDateTime: 2020-01-29T06:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-2020-the-machine-translation-market-is-expected-to-register-a-cagr-of-71-during-the-forecast-period-2020---2024-2020-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Artificial Intelligence Market for Automotive and Transportation Industry Anticipated to Reach $69.05 Billion by 2029"
     excerpt: "FREMONT, California, Jan. 30, 2020 /PRNewswire/ -- According to a new market intelligence report by BIS Research, titled 'Global Artificial Intelligence Market for Automotive and Transportation Industry – Analysis and Forecast, 2019-2029', the global AI market for automotive and transportation industry is expected to reach $69.05 billion by 2029."
     publishedDateTime: 2020-01-30T11:49:00Z
@@ -78,6 +93,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "/qWhJC811/FUPTvITjB96xZImuBiMIyNUHLMw/qVuf0wfAfxTxHENpDd9gpmSmGI7OJPaqGYAz2qk+CiTAFj7BgDwwbQb612Okn3Bi7uKfqH71olkU0ifxF+5Ggi2n5PiYZhZRxfueVz+V1vPH4VK1TjcGptSS2atCRnA5p9HAGmBUNU34e0f9xcdQEjcgrtnbaLFmHa4XEAGICO3Lxx4xGiyJT2bNvlNNDftpM2URDr830kS36tN9cwIOCvg3tAD+E4Wc4aJMXN9ZsSvqkTjGDW/1suGtGOSMKKjisT702QjvUtmOoxq3BKNZnszHzl;HEXxp8MMxzjGkNT1A5XCqQ=="
+secured: "bxt7kg0XPzZVxnyzPowJOVjx0ucCMvH+U2EO/+grb/r5RdaChybXrxf9uV1FAE50YEX/VdsMcRugVi98eJAr7Xwu3/LVdr+1CXI3Z1V8fdgmEyppyhgl5QkPRYJJXEYhy3UHa4Ns3IporVsqUWI5QXaqEER0CebLaY9z9GdqAVAzKE3zuHdMbcjMRrQTWNUGlAnZTa+Dpn6o2WGaCyubJFK1vPPtMIMgpcn0OqZ2LCxSXjOBa039VlmV5fSNUU8cycan22DcS7GyVdN2wFuCF+JweCZE7nHGhFSKyaY/NqlGnLLRtG9pQjpPPR2tnGdG;ygZECCetOqO2x+eR0RWr8Q=="
 ---
 

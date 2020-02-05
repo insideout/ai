@@ -45,6 +45,30 @@ related:
       - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
         width: 400
         height: 400
+  - title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
+    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+    publishedDateTime: 2020-02-03T10:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
+  - title: "Machine Translation Market 2020 The machine translation market is expected to register a CAGR of 7.1% during the forecast period 2020 - 2024"
+    excerpt: "Machine Translation Market 2019 analysis is provided for each region, based on the growth rate, consumer buying patterns, present demand and supply scenarios in Machine Translation Market. This market research report is a beneficial tool for its buyer to increase the profitability of investment,"
+    publishedDateTime: 2020-01-29T06:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-2020-the-machine-translation-market-is-expected-to-register-a-cagr-of-71-during-the-forecast-period-2020---2024-2020-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Artificial Intelligence Market for Automotive and Transportation Industry Anticipated to Reach $69.05 Billion by 2029"
     excerpt: "FREMONT, California, Jan. 30, 2020 /PRNewswire/ -- According to a new market intelligence report by BIS Research, titled 'Global Artificial Intelligence Market for Automotive and Transportation Industry – Analysis and Forecast, 2019-2029', the global AI market for automotive and transportation industry is expected to reach $69.05 billion by 2029."
     publishedDateTime: 2020-01-30T11:49:00Z
@@ -69,15 +93,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 2
-  - title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-    publishedDateTime: 2020-02-03T11:44:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 1
 
 secured: "7K1m3CzRIrAQ93n30OK9gAjxao7rTKxmZsF+LaRiQZY+DMSzSOITB8+l7XAGNMGDxhvNMz91k6XsBOYc85pblbesucWcaVpvOH/yD0tyUgCytenAhLGV6NwMwtKrX0+WMTGIKCSdPXgNbzSq3juJ1bigiwdJr5c+KOyXyskMe+xqw0ewmJSuSyoc/a9fJZgGTp+enq4ig5leMMfCz36hAMvEfptFuftgXx/UTOI8LtwISRsoueYIJy0HSzjFLqTSx4trbtkJk3aRn/Z1SvZ43Ki10rywsLNapLHUryUU8MouB3ssqOAFVRDmEqrA0fdK;ZsxdFRfFxkyO7lBwRFhS2w=="
 ---

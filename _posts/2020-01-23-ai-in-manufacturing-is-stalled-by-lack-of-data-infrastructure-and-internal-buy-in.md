@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-manufacturing-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
 
 related:
-  - title: "Artificial Intelligence In Manufacturing Market Size, Growth, Opportunity and Forecast to 2025"
-    excerpt: "Artificial intelligence (AI) is an area of computer science that emphasizes the creation ... of manufacturing plants 1.2 Adoption of industrial IoT and big data technology in manufacturing 1.3 Rising usage of robotics and computer vision technology in manufacturing 1.4 Growing opportunities for AI based technology in developing countries ..."
-    publishedDateTime: 2020-01-21T12:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-growth-opportunity-and-forecast-to-2025-2020-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
     excerpt: "This technology is used in industry verticals, such as manufacturing, supply chain, and others. Development of artificial intelligence-empowered chips, robots, and others in manufacturing help enhance the overall production line, and thus, has significantly increased the adoption of artificial intelligence in the manufacturing sector."
     publishedDateTime: 2020-01-27T13:01:00Z

@@ -50,19 +50,6 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
         width: 1024
         height: 512
-  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
-    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
-    publishedDateTime: 2020-01-20T19:06:00Z
-    webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg"
-        width: 760
-        height: 428
   - title: "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary"
     excerpt: "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology."
     publishedDateTime: 2020-01-21T22:04:00Z
@@ -104,6 +91,15 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
+  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
+    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
+    publishedDateTime: 2020-01-20T19:06:00Z
+    webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 64
   - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
     excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
     publishedDateTime: 2020-01-21T13:56:00Z
@@ -149,19 +145,15 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg"
         width: 1600
         height: 899
-  - title: "Artificial intelligence needs to be regulated, says new Google CEO"
-    excerpt: "EPA/BORIS ROESSLER Alphabet and Google chief Sundar Pichai called for a global regulation of artificial intelligence at a conference in Brussels. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this”, Pichai said, adding that “while AI promises enormous benefits ..."
-    publishedDateTime: 2020-01-21T12:29:00Z
-    webUrl: "https://www.neweurope.eu/article/artificial-intelligence-needs-to-be-regulated-says-new-google-ceo/"
+  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
     type: article
     provider:
-      name: New Europe
-      domain: neweurope.eu
-    quality: 39
-    images:
-      - url: "https://www.neweurope.eu/wp-content/uploads/2016/03/Google_07.jpg"
-        width: 2048
-        height: 1223
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 49
   - title: "Google CEO speaks on artificial intelligence at WEF in Davos"
     excerpt: "Google CEO Sundar Pichai spoke at the World Economic Forum in Davos about the impacts of technology and how artificial intelligence and quantum computers can change human lives. Pichai said that even though there were risks with artificial technology, the biggest risk was to not work on it and make AI better."
     publishedDateTime: 2020-01-23T09:05:00Z
@@ -188,6 +180,15 @@ related:
       - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
         width: 531
         height: 342
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
+    publishedDateTime: 2020-01-15T17:43:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "sMk+rFvqt3KswgrKd81zf3TpxL1eUi7AIyScQ+tM1JABv7SPsTkQgHFmx9yasu1j3twLFYZp1rRBQgS9dsd5ztxsknoz25JKs7ZQqA/vaixcaM7lUYFlwKleDe9wtMku3Ss51x8P2DPuhPFocnKJWobC2UjxbqoObqQfw8qXIiEY4BBQDr5vA3hf6Syn6UybO7TSq/jXlUf/S/qQoNfgWaI4Qy41kOTogxuivWqEzNhRd6COToShrRE0pYLW+wFNMD2wgBEYo1WI7Kf/vq3L6oJ/U/peUNlnTOI2Xa+mQKk2H/s7SVhvfE2LEgzxGBsy;2SBif+SFjqNb0EyOneqKsA=="
 ---

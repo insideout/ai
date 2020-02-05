@@ -63,6 +63,15 @@ related:
       - url: "https://www.cmswire.com/~/media/8710cea8187d4f16809de5776e09b466.png?mw=1024&hash=5873E3FDDB29B363CA4AD1301AB2BD49B6252965"
         width: 640
         height: 480
+  - title: "5 things to know about getting started with AI/ML"
+    excerpt: "insight discovery and data science (i.e. autoML) all while communicating actions to roles with less AI know-how. Artificial intelligence and machine learning will undoubtedly shake up the business world and life as we know it in years to come, and organisations need to empower each and every human member of their business to be thinking about ..."
+    publishedDateTime: 2020-01-28T10:07:00Z
+    webUrl: "https://www.bmmagazine.co.uk/in-business/5-things-to-know-about-getting-started-with-ai-ml/"
+    type: article
+    provider:
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 34
 
 secured: "R3iQedgw+dYN73Punz9e6wFQ3OZnJOU9HGyjq3iXpVtNOY1teIBz4/2hbfchzbJ9GuLB5/9/Y9v7t23drCukSQYMQOf4QMoubOEAvdOtyYWn/z5OOefgYU8Gn5iWq4Zh8cvId+mko2kD6KwzhdLN3iBmM4QPgtHmdkQe169yIQOeo1FliqCU8zQzBTg0xNQqYEHpZ1D6ay+h9a6AahJXl0zjezJpWxV8Dynur6UB024Fto4YqhjjhzLA1+l/Hzd1Apqr0xEJIqVrraUkv+u1+aEgPAPhT4vKUI/Qi49Q6XcJfpUkzP6mRGYPY73dkR3NEVtLhursQjkP6E1Er7dcf3lUNcJrKc3h9iExdwWd4fPHhVJzB1OVl+cHbViGMRNECDgm1ZyoWOetVHsjlZX7BEnvCXkNWRPajmGn4/EoWW6KVEorsosQRDqB6XqtcgTnQDE7NVxAvawvaJI5rJ0yk33VH5BQan3AqduNxbkUTvg=;8kr2XcA0wYY3ivyptMTw8A=="
 ---

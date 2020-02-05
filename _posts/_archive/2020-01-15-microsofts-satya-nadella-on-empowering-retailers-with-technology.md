@@ -5,8 +5,8 @@ excerpt: "At Microsoft's stores in 190 markets, the cloud, predictive analytics,
 publishedDateTime: 2020-01-15T18:51:00Z
 webUrl: "https://wwd.com/business-news/technology/microsofts-satya-nadella-on-empowering-retailers-with-technology-1203424736/"
 type: article
-quality: 54
-heat: 64
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,27 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://pmcwwd.files.wordpress.com/2020/01/satya.keynote-21.jpg?crop=0px%2C0px%2C5790px%2C3862px&#038;resize=640%2C415"
-    width: 5790
-    height: 3860
-    title: "Microsoft’s Satya Nadella on Empowering Retailers With Technology"
-
-related:
-  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-    excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft ..."
-    publishedDateTime: 2020-01-21T13:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2020/01/21/9084223.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
-
-secured: "lfyqbj+plopFLjmw2X4tAeIZ4JIwNRAZJZlxkXIxCVCWwLM61qjEhy2pIwKbbHAk/CWWD1iRgkxXBDV8IHeN9B/T+7WF96oud5afB+yp1MM1GTSbZ4p0qspDB7up/TMRNJ7yvbaPZ9vE/Owz0gHnRvt9QuDbl0xjYViQeUj9QpQhUmhjvaWryzhQsSM1/HI8WkuqbC9DSYPjwsviZ7w4kSuFWiRfzZ3HLJcIA422fMDKlI1I9g7XJ+N8l4Vu7dBH9EnldhsbLJN6/K4z1f+xkRote5LntyF/JKGekMCOFKQLE2EjkanhbUzV3HXdckU8;IS6t3JSCY+TNXOrfxia+pw=="
+secured: "57OoOfWkJmzlZcQ2ddbC/Dm2Si3RgxqzDxJT8JTYAZ4mipnuKr71bbwWPeI2Tfbu2oOu/dvRlnDxmtHdfP1FaGQZiG4MRobB3Mx2fGCiYUobr2rZT+Z6HdMs9j5ht5wtzafanBV/ENsVjOr6H/hQ42/B8c3SrnKJCTE6sFPHzjwaXCj3WktD1ytoRMF5eFN8mekFPfthTvBmpLyEEQx0AsH8Yf1S4gPp/gm/Z2Kky7wRhIKC7P6D+95ZV3DKScdbcHWkqbgLdfvr13R+YdUU47Z3F7i11RRFF/pFI87jMXuoSIQB5wZRQTJI1k74GZiq;5L/IFqwQwWvn2xT50378uw=="
 ---
 

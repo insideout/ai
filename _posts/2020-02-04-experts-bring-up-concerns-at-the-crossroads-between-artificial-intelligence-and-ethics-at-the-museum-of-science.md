@@ -5,8 +5,8 @@ excerpt: "While he appreciates the ease at which cell phones allow access to inf
 publishedDateTime: 2020-02-04T18:55:00Z
 webUrl: "https://dailyfreepress.com/2020/02/04/future-of-tech-impact/"
 type: article
-quality: 19
-heat: 19
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI Ethics
 
 images:
   - url: "https://dailyfreepress.com/wp-content/uploads/Make-Think-Imagine-Museum-of-Science-Digi-Courtesy-400x320.jpg"

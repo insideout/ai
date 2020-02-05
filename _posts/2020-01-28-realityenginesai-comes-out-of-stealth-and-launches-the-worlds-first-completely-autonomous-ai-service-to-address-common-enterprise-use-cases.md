@@ -70,7 +70,7 @@ related:
     provider:
       name: HPCwire
       domain: hpcwire.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Fujitsu-FX1000-website_780x-405x228.jpg"
         width: 405

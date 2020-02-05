@@ -5,7 +5,7 @@ excerpt: "Location tech firm what3words has released an end-to-end speech recogn
 publishedDateTime: 2020-01-13T11:55:00Z
 webUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
@@ -17,28 +17,16 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
-    width: 620
-    height: 500
-    title: "what3words and Speechmatics launch speech recognition and post-processing API"
-
 related:
   - title: "Facebook releases low-latency online speech recognition framework"
     excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
     publishedDateTime: 2020-01-13T17:32:00Z
     webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
-    ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
+    quality: 49
   - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
     excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
     publishedDateTime: 2020-01-16T00:00:00Z
@@ -47,12 +35,8 @@ related:
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 54
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-        width: 849
-        height: 565
+    quality: 34
 
-secured: "T+R7aSoMbdYxeAYJ7pbM+SewrCgePjShHw0JJdpY+uZDskjd7RCNPAmrqvnCjBF7BXR/UABLDvzRs1FY9+ycdbdMQVSHikos9N2Bk+Fl+FJsYuY7r3e+2ZHeff5q2H5mYNSoKLYtVcDgtsdoIEDBiDpGI2gB/1qo3qOQKGkGLqQUUWNs0BPhwmjOw6a6q6Yh7XxnP38l8Wnl9NgnQWgnP0kQ9BOD9tdWs/lmFYs2OLbIgMGOhgtQ+FkrPZLT1mZVE4wLvoBNAXNARfNTzg6C+doeAPnFSicX7uSD3D/FIBfd8le5pEx5pgm5aeLzWJLU;Kv1C7cbdzhsxtK3jVva5Lg=="
+secured: "KqIcbHe4Gly+++d+GBn/X1VMMLYMkFwoA6mMQpIfhI+IaUMYYfJKoD9CY0XvB6dzImqf6w8L3phXu31Dt9DznPlhACDn2VYMb6us4K3UChOolGkV6ieIkh++S9qI6JSDKzeuHWzleErxwuGcKBJT5k367OeA0iORRY//WjjTp9ov9F+mK2Fytk1B5NzQ4s/qCcR3I+u1ugd6tI8IvzAzLOQUSrBa5cFlhSH9zBQIntU8vUK3eQu6gok2tM3q2XryBhqgNSfIMwnJ/lpZPMP+K+oMaYcyFLRnS6oR1Lpdiw1FCl0yTE6Ni6WVnKRuEWFX;Jyl8iXJ3+XC+MXHhLviFYQ=="
 ---
 

@@ -1,19 +1,23 @@
 ---
 category: news
 title: "GM's Cruise unveils its first driverless vehicle"
-excerpt: "This is not Cruise's first foray into driverless cars. For years it has been testing modified Chevrolet Bolt ... Other car makers are in a race to launch self-driving cars using the latest artificial intelligence (AI) technologies although they are being held back by safety concerns and regulations. A number of fatalities involving autonomous ..."
-publishedDateTime: 2020-01-22T05:31:00Z
-webUrl: "https://www.bbc.co.uk/news/technology-51171398"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51171398"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51171398"
+excerpt: "This is not Cruise's first foray into driverless cars. For years it has been testing ... Other car makers are in a race to launch self-driving cars using the latest artificial intelligence (AI) technologies although they are being held back by safety ..."
+publishedDateTime: 2020-01-22T03:04:00Z
+webUrl: "https://www.bbc.com/news/technology-51171398"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-51171398"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51171398"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -174,6 +178,6 @@ related:
       domain: fox2now.com
     quality: 4
 
-secured: "usq/SFQT3IaC792BpSwHmlzApE9xd6liLQ2zcmOkj52vmlV4LB88SlSrTTFk8UKbLR0o3ycNW2nffgq9lay4yluqqp9QKS7OkVE+jYB7w0HtRxe29DzsxFtJmu1TybDHdq1dZMs6CDNyOHyl9XF7VxnhfL4ix8pPCPTZI1TlJNH4AeZHcN1Eu2dv+0nItX/H6W0HwAvxq1dYtT7yAtLCKjcRsiwt2gEealwU/O8Lqu0qLWQEkNVswxb3vHCaT4xWLz3jxSsrAA2Zhm3k9NicWdyKaIxglQPWCVtTdyKqS8o0JSoTz/aWQ4oO9n/UGdo+UguTq6pllRmUtS+FDABtA8Z74ok1737CwFk9dwXtVr5WIMCUjycWwx4rXIsC/eqyQAM09RBE5Qt+nTZVUBF49RY2KovTUUbgpdyUzVYy/jcFVdtw39LVXnj3VQKM2Ydttbkf4TP23nkUQ5vDnJwKb8dI5Re2OwpkJ/SPULa7MvM=;9aZvEqsQ21NufUeFu080aQ=="
+secured: "/sQRkwAWw1tavl2tp4R+ECYFWdxpp4Imcz5Je9IN7iUJwEE99y6K3MzOfI8Uu3PRI1NRut2Q0g80B2M3mYSTXRcLAz5+vc/zReO1jU7n2imZmhbIFdESn+XIlmdcB3z1GSggYnTSJyAZqLTqcEgm4uzcN66bdzkQspPzOBMTlYnG8RRem3kSflzFt2BGgFNwzMNz05M8KWG+/vjryanIj1lOdCBJjW4Vw8GeM2ZBtdGyJtPnbvH95yAnNJNLHVNlwXjlhJnUwOQ/htGZsPN6RasBApX+7/KKKYXrqD3q6aGtc/0Dpd8fCu6dsnZfvbNr;9ThyzMI8pqYi5TFS7gcW1A=="
 ---
 

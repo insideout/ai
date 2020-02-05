@@ -50,6 +50,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Image Recognition Market Worth $81.88 billion by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-02-05T05:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "AI Software Market In Legal Industry Market Benefits, Technology Advancement and Future Scope Till 2024"
     excerpt: "The AI Software Market In Legal Industry Market covers important aspects of this market concerning fundamental parameters. The report explains outline of the business range, concentrating on the overall industry,"
     publishedDateTime: 2020-02-04T07:12:00Z
@@ -63,6 +76,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Medical Imaging Market Current And Future Trends 2020-2026"
+    excerpt: "The Artificial Intelligence In Medical Imaging Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Medical Imaging Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-current-and-future-trends-2020-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
   - title: "AI in Education Market by Latest Trends, Business Opportunities, Segmentation and 2026"
     excerpt: "New Jersey, United States - The report titled, AI in Education Market has been recently published by Verified Market Research. The AI in Education market has been garnering remarkable momentum in recent years."
     publishedDateTime: 2020-02-04T04:11:00Z

@@ -57,6 +57,15 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 64
+  - title: "Face Recognition and Micro Expressions with OpenCV and AWS Rekognition"
+    excerpt: "Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use."
+    publishedDateTime: 2020-01-23T11:56:00Z
+    webUrl: "https://medium.com/analytics-vidhya/face-recognition-and-microespressions-with-opencv-and-aws-rekognition-2ea2bc83f7da"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 49
   - title: "Facebook to pay US$550 million to settle face recognition lawsuit and avoid ‘risky and expensive’ trial"
     excerpt: "If Facebook had lost it might have been forced to pay US$6 billion, according to Matthew Schettenhelm, Bloomberg Intelligence litigation and government analyst. Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest ..."
     publishedDateTime: 2020-01-30T04:04:00Z

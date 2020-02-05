@@ -29,6 +29,6 @@ images:
     height: 450
     title: "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos"
 
-secured: "Di5x0yNAv3Z6hQtMvMzmINUubpanTw58/K6VuCilLHudq9tzhQyMrsh9FhllunWtI3ttydo+si+JyacD008Y2gn9S+dahjHoSWyaCWgxjOHR/MpXTVLr33Fzp2KES/2jP8Uy0UeaPJ7lB75PhYpXDbcyWGkCqTV2Q8DkH1XDUXREdgooQvwQrkETutCBlxRNdG8x2JqY7b7RMobVRDuHtg9POSYrHqO36DZdhK0Fb0hM10kbPFwHaLNRojKcevYfiWR/3yKD7+iPHeQuj+lRYaKmjX8wE/gd85w9zLcAHYPOSucQxoVhzSm9auW+w9QK;qZd/vbbrJwrqickORR4RKg=="
+secured: "cxqmVjoSmEp+h4B0Il2lTfWPXWzYbR4IgehJHi0a3MLFgukIOyWeCk5NLb7RrDQJ651dxJe+DHTxfBJiFdYTobWTWdE6n5hLl92nXP93s+o2EFSqZuo0Va2tqjp/G+8XwYYmIyWFU6pqOdIY5oiS3e6esp6CqSEYbwD1fMj9BNdxJ2mo69yW3+mIsLVBBYlWlC/5ND1MfEt4X6owUBF0nU0qlducaCZSTc9VwRE8KSsVyylNc2g3UY31tiq2XY+A4wUq3R7DDclwUjNR6GR2JYdL6Ep+IYgT2njTPJhdwUgEfdxgr7Oylv0nutKt43roQwM/q/qVRMLbnzZwBE2aZ/ZPWeMvZfNkGkRn+ZwNEfe4tdKFh0tE6jEhwR/BjPrh62n5jYoQa4gmiE60XRxRXjyFBobrOTPGGbU924LTgdl8vRUqCscKir99/LwFyzoUe9Q8BRKiV+M/0EuwsoAfp6slvB+0B/FChp+yudk81A4=;yKKP626oQkou6G2OvVzRlA=="
 ---
 

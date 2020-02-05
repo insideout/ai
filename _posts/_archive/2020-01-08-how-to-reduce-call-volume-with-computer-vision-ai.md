@@ -5,8 +5,8 @@ excerpt: "Computer Vision AI refers to the processing and analysis of digital im
 publishedDateTime: 2020-01-08T17:47:00Z
 webUrl: "https://customerthink.com/how-to-reduce-call-volume-with-computer-vision-ai/"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://customerthink.com/wp-content/uploads/woman-1446557_1280-pixabay-social-technology-1.jpg"
-    width: 1280
-    height: 853
-    title: "How to reduce call volume with Computer Vision AI"
-
-secured: "ghM6I+2ePhGoCmWXZ1q2U/XuswWW/rOoCu1MX3j+wNzAIgG09wYKIduehIsKE+yztzaRVYRyq2JHcW2qCopb6yPEiFUWSnf2Wws0aNKg/g3ayWGBi+zh18ovaZYWEGbXZLfEkcV5IJICdD65P4wQRtgJLJjKrp5ilbviTD0HR7el8iQ5SqP1C9gbSvS7tGrIcdqySlnsoO57YffzpnW5kBd/L+jumgIEbdtK8FvKfEGTn3IJv8WWv8jySYTHIZyNRviyJJgs4rUc1zgVXD/ciyxiwZ7zwxlMYD7QdwJDBTitTSflwsz3/ZikAqzIJbhJ;Qo5h+uMy9heEFg8N0iGfmg=="
+secured: "ZwssjHgzKe7bnhqc4Qxv1+cCAHbRxYVnXbfrBxv9rLcxZGGmu0VMyCI9OqbSIzdNorUQdk1RdvHlJhYa6of5du8d75vV1zsqLmB2Z9/8Nfz8Y9v+o2sDXYbwsCA/XfXr5uXQVerhs+i+OFwvljaEdvfUySVMm3axTYhuRzfZMrj518CjxUgtqZLjTIsD0fSYOjtqGhzwwmepO9fsQFT9v3dzjK5hTH4LbsFKpHYCQ3DKikB6TAcSlLG4CHABWLFJRuRcX3Kz805kNMyws2hSmkf9GJSY9kVySJ4iEmIuUuN85PTzAwjHb9WOFOl1uOCA;aq0zTyDXwz006Po+jN7pyA=="
 ---
 

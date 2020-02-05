@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-dev
 ampWebUrl: "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/"
 type: article
-quality: 189
-heat: 339
+quality: 191
+heat: 341
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/01/Logo_-_updated.jpg?fit=1200%2C627&strip=all"

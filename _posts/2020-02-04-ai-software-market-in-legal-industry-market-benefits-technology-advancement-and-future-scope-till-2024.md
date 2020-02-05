@@ -53,6 +53,28 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Image Recognition Market Worth $81.88 billion by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-02-05T05:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Medical Imaging Market Current And Future Trends 2020-2026"
+    excerpt: "The Artificial Intelligence In Medical Imaging Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Medical Imaging Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-current-and-future-trends-2020-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
   - title: "6 attraction technology trends for 2020: VR, AR, AI, bots and esports"
     excerpt: "Last year did not start well for robots. The Henn na chain of hotels in Japan ... An exhibition at the University of Oxford showcased art created by the world’s first ultra-realistic AI humanoid robot artist. Ai-Da uses a robotic arm and pencil to draw what she sees thanks to cameras in her eyeballs. AI algorithms, created by scientists ..."
     publishedDateTime: 2020-01-30T14:37:00Z

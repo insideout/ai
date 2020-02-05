@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/04/labelbox-raises-25-million-to-gro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training/amp/"
 type: article
 quality: 80
-heat: 91
+heat: 92
 published: true
 
 provider:
@@ -39,6 +39,6 @@ related:
       domain: benzinga.com
     quality: 13
 
-secured: "pMI4k83B3w1jIeL2AJYd6aYa/bcBxXfxmADS3dRWzdRFi5cTlXn85JtthOX4ihA4Nx1MRV0qBz/tHmUDqwirHtm77pwh/d/Yayv3HexaQhxjJJumbfzwLMCxmAYeVV7Ftdp0J3W3LhczA8NaMFYFgcDj7xVckZ90jy4lWWw61XKzJ7zL9awzI/VCXdLCqFZRdbiWbBNeQSm0sx9jfaZZTP97RT5KkCu4qgIdNxwaZHOw1LuHx6S1RaU1dNkDXJIOutnuvHeXfo0bjSuwZsYcYaTIda3hZRiB24ZJ2HxlEnQqhFY2Vjd7dB90h9zSuBNYNik4rVDCyQcmAlJto1+Cjjv98E6caeuDNWBSe7+Orv/Slb1ELSdrMI6dQ0XFgOZW6UbSU5QHS/kRD0z+sMtODrjq1l4qm1kPvP8bW021DKfAEB5Qc4tnibJM7UCbMKIznTOsjs4gj+1e5xaxsmjLZ0i+LecC7eQOGQuBVltQQQQ=;Kt4zfeYxQQzCdFXiXQtiHw=="
+secured: "H/jlL5VY/p5W+SdwqZ4pYmY8yuQ4ykbzp1fX3vYw3mu0AM1BrfIzBnmF5/r9KJjLFJ+4aOCamsNdmcB6bTopDbgx+/KW9y+b2AUMudhfM2h4mH10Q5ukbEVgNda0jfM4Fq0mNvITHfEVL77kl3fwVSJ8t1Hw1OugU6mrKF3x36Yq/43huQabo9/edXyiz6TmK0kdKdd4EAIjdyCJUqb+QOOa/3YXv7fSC12v/vDSc2K96DJGBTgoWRacDgi/BlW7s+M7aYB7ORaVrIEpeej8x/OuOOYhsx1Px+vMyBQUf/ZBsGq/RWfWXgdyzTXUJbdvSIOgWkqWqDW9k2yJmgtJhGlK/13x7/LGc4+kopMxRbMAgKp43s5r59osvsH3hXa1bXvIxQ7ihaBxg9Xn0jHQPUFIuO0dGnZ8H0p6wnk8KAY4oiZnEgc+mBKz/6mf+YBJs2OuQd7tkIUqOkizXTUcXi8cKxxY3Mt+iMMP3F5kTLw=;tiymu4cDeLMgt9Xdh68T7w=="
 ---
 

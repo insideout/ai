@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
       - url: "https://www.cmswire.com/~/media/8710cea8187d4f16809de5776e09b466.png?mw=1024&hash=5873E3FDDB29B363CA4AD1301AB2BD49B6252965"
         width: 640
         height: 480
+  - title: "5 things to know about getting started with AI/ML"
+    excerpt: "insight discovery and data science (i.e. autoML) all while communicating actions to roles with less AI know-how. Artificial intelligence and machine learning will undoubtedly shake up the business world and life as we know it in years to come, and organisations need to empower each and every human member of their business to be thinking about ..."
+    publishedDateTime: 2020-01-28T10:07:00Z
+    webUrl: "https://www.bmmagazine.co.uk/in-business/5-things-to-know-about-getting-started-with-ai-ml/"
+    type: article
+    provider:
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 34
   - title: "Readers React: We need to be wary about artificial intelligence"
     excerpt: "Maybe it’s my age, but I have no desire to be tracked like a rat as I make my way through the airport or city streets or the Giant grocery store, which recently added “Marty” the robot to prowl its aisles ... Even the CEO of Google is calling for the regulation of artificial intelligence. We need to wake up."
     publishedDateTime: 2020-01-24T17:38:00Z

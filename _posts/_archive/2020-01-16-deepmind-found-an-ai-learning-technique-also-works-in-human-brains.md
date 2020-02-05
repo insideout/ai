@@ -4,10 +4,8 @@ title: "DeepMind found an AI learning technique also works in human brains"
 excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
 publishedDateTime: 2020-01-16T04:58:00Z
 webUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/"
-ampWebUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
-cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -36,6 +34,6 @@ related:
         width: 1068
         height: 601
 
-secured: "dzLQD0uMOg9uA6P1F39MNbWuRVsb6pVH+M70AOgfxlq/H8RRjvWBoKfbgY4CPMxDBeOTJcA5Gi+A384Wjl/eoNy777sUf8H5UkLfaKGgb012O/pQ6VC0rusg7XRE+QkHxydFSBVfH53Me4AViyv1+V/EHmYqsuRc5bHPq+7eh95dqbWIs6WzROjAtKTo2DwUFtebhUSJvuJUO2sCMVtAHnA1+vbDbS3CIicNS8v6DW8YnxxMtOnzOiJXWpAhRhBSLbiHTDnHyCiSmz/maYyGSerSHzk44iDhehGRf7hLH6HAgd1FSXj6VrBq3n22F8KAJPBNy/RpXWnGffTc7utqD17iIGnktQp9yR1+Pq0wA2e3qKXEPQGj/sToW1qLMeFD4kl2r0ErIlqeAazCLijirz4AHkZP29xb6IlzHFkMUm8TlHaKarW2cB7R4nxwR+jvfmsSf4M60P1OeOvg45dwfLv4lX4P9+XGOgR0CBMkxok=;B+DS27M7Q2a0MlxO7eZT+w=="
+secured: "VYFbkrGMTNpD038uA5chyGhF8FtP3Opskd95ZygLbQBwemJeOfr1ClMbqwegBDFAeDodYa0M0vBpXa2f+30W/cAk5ugcQMISL3AiInUB7a5GM/T0URzqyEJDPzkED0dEKgdXlTdojPEdcTJnLbB8PwzKKQBZHy7Vq5mgqoHIYZ6XydGrc9sXJ/pJQBWONB1JUp9zpoi0uiGurn3gyrcqjMtS/jlFyKCmcmVt/53km6GPNhR73weCSEoyadnunt//G36NE1r+eehxG2SPvZDyUPoFwqjWp9E/VmYa82Th5Of0O76S5cPY5ee25rQPFvkBZAQRGl4JSSGMAI7ycvskP1f2UHbjVHcy/Uk5wcvocyIj+4ZMtMNRM/xAPamWCqSLXRxQnGYKLPv7oHtHeW4/6S1NkGlxSvIGKHSP2C9WYvbJZTnXvQxlnVCMXEDdclQ25vB12QTfo4MDBbJEvdL8OhCaS4wL9P4inpV2Gxa437U=;WhEDJuJ3N7nX6pQiJ8GadQ=="
 ---
 

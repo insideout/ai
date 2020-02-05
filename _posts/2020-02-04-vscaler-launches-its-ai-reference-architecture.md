@@ -5,7 +5,7 @@ excerpt: "the platform provides a significant decrease in GPU-GPU communication 
 publishedDateTime: 2020-02-04T16:03:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/vscaler-launches-its-ai-reference-architecture/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Google AI
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Fujitsu-FX1000-website_780x-405x228.jpg"

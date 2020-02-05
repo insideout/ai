@@ -4,10 +4,8 @@ title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
 publishedDateTime: 2020-01-20T12:36:00Z
 webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-    width: 1200
-    height: 628
-    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
   - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
@@ -217,19 +209,6 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2018/10/artificial-intelligence-3d-printing.jpg"
         width: 900
         height: 600
-  - title: "Google CEO Adds His Voice to AI Regulation Debate"
-    excerpt: "\"Decisions about hiring, healthcare, insurance and so on should not be made by AI, which has no morality, no ethics, and no sense of social good,\" he continued. \"Machine learning and AI will do whatever they're programmed to do -- whatever the algorithms dictate,\" added Sterling. \"Humans must set limits on the application of these technologies ..."
-    publishedDateTime: 2020-01-21T12:32:00Z
-    webUrl: "https://www.technewsworld.com/story/86465.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 39
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2015-artificial-intelligence-1.jpg"
-        width: 620
-        height: 340
   - title: "IBM proposes AI rules to ease bias concerns"
     excerpt: "IBM also suggests that companies appoint chief AI ethics executives, carry out assessments to determine how much harm an AI system may pose and maintain documentation about data when “making determinations or recommendations with potentially significant implications for individuals” so that the decisions can be explained. Spearheading the ..."
     publishedDateTime: 2020-01-22T04:53:00Z
@@ -262,6 +241,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "xhdpLGHzIeXOjz3XYClJ+G1LhNbN/13Qmaom++4+8+7EnzZRPtbtAqki7YGRfKGtBeBWWDwMo1pMt2gH1TCzXLqyxsXKdQL0QjWP17WK9TSjLP1bOMbpJtbOEqHg6W2zXQlpkQ4xOPgoYzMa6nq/buo7/tvdP8qVNBe5ryi5qBDVof+Mu5ApaCXfar3jsZSgUICzIOUf1JinrY9oW9ZQlpHMz9fPZea0rBq9VzHLeFLWASb96ChEoEylnSCx4HVlzaA4cR+XjVayrdsOhDg3rwkhzCVTz35tsQqMK3aa+tArDKe91qERNrGhBj0LHBQP;dlNSLBIiCJtUO9opYilofg=="
+secured: "oj4asCfDIiPcpZwjKNaXas1P+6G7jxR8yjeHy3QfIuhZC1IiVD6R2O6eoROkw4janWV9IdpjveK2b7FavK04+Y1SlNW2445WWrI96tbHkzdNWdQDwfczkdJSctEscz/v5fFNerqHozcQyMg4cTdHZFmbn7Xsh3e+eUbOD+G7fuqCZToWD+Rh0MxTpLtG2swZslrWMNU4vtrfLjoedtWy6xAaWer4DGmfQ76ojCdvO83wi6UqqA+fZn5rg999AmUiqKtzV/4nBc7+NfX0tWUNgdom/Qo0Z5nvM46kbbqap/9J0OkyfY/CFduM14KysbULprPt2pq/wU8DqnfC8lD+qkt6oZd8Zu4b2UprFo1/RUWCWFemCyf7Y+fVICshuxhe3WVUaR/ew/kDDyjR6VJWIzok77Sv7/SMVZg7gXNcOojbiBBsAfHWi9rn8NBU5ssHz4UhjAfZBVoBpWQ9mvOu3uguy4M7zBbq3BAw7oeCoUU=;vCTw8g0JFnZbOEjTtGw+Hg=="
 ---
 

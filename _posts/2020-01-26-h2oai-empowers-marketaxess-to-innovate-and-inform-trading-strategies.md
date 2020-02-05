@@ -5,8 +5,8 @@ excerpt: "H2O.ai partners with leading technology companies such as NVIDIA, IBM,
 publishedDateTime: 2020-01-26T23:16:00Z
 webUrl: "https://www.businesswire.com/news/home/20200126005001/en/H2O.ai-Empowers-MarketAxess-Innovate-Inform-Trading-Strategies"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: "https://mms.businesswire.com/media/20200126005001/en/767274/23/logo.jpg"

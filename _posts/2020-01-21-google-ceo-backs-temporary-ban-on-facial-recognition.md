@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sunda
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
         width: 1024
         height: 512
-  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
-    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
-    publishedDateTime: 2020-01-20T19:06:00Z
-    webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg"
-        width: 760
-        height: 428
   - title: "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary"
     excerpt: "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology."
     publishedDateTime: 2020-01-21T22:04:00Z
@@ -99,6 +86,15 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
+  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
+    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
+    publishedDateTime: 2020-01-20T19:06:00Z
+    webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 64
   - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
     excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
     publishedDateTime: 2020-01-21T13:56:00Z
@@ -144,19 +140,15 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg"
         width: 1600
         height: 899
-  - title: "Artificial intelligence needs to be regulated, says new Google CEO"
-    excerpt: "EPA/BORIS ROESSLER Alphabet and Google chief Sundar Pichai called for a global regulation of artificial intelligence at a conference in Brussels. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this”, Pichai said, adding that “while AI promises enormous benefits ..."
-    publishedDateTime: 2020-01-21T12:29:00Z
-    webUrl: "https://www.neweurope.eu/article/artificial-intelligence-needs-to-be-regulated-says-new-google-ceo/"
+  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
     type: article
     provider:
-      name: New Europe
-      domain: neweurope.eu
-    quality: 39
-    images:
-      - url: "https://www.neweurope.eu/wp-content/uploads/2016/03/Google_07.jpg"
-        width: 2048
-        height: 1223
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 49
   - title: "It's too late to ban face recognition – here's what we need instead"
     excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
     publishedDateTime: 2020-01-23T11:43:00Z
@@ -194,6 +186,15 @@ related:
       - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
         width: 531
         height: 342
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
+    publishedDateTime: 2020-01-15T17:43:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "uibWrVhkJY+Gwj7eyYqOUEBrF1THmma0Np6svLTSPYdngwkniiLEEdslT/4/2eixQ8MAM8f/tP1gDd8FxzftxBZ6DTffuP4sz4NkeZLj4IjcKHiXNZf5QBjJggRAf/I2ktZrD2Zuk0o99ChiMLyM/2chjW4915MZ4JKLdohuuWJPEAlV5RGjouB/MijIEQPz3AjzRPFJmN8O0V3INqOaXzMWo2fmW7xTrvddeupzof3r3F9+MF+ndQ44Dl8rLMprhu9MIy2cHk2sGeNMSXG8ou+dBdZh/cEStK3gvjQTYUaDAaCWqXSvtxW1cU1aqyxGzsB1qhsfjs6nLfy+rH7+wr4+H31BAsT12Pk9mEtNC3uti7g59Go3+W02GSy7wuJM/RZWQ7gti1LSp6htLbruh3hpmg6z2uAAtmP97wWOMSNquK+SlmLXgLqCZ7bC/VEW1F4AncnwPNLh+YB8JZkVng==;xBwFTcv3QyS5eyaneH9A1A=="
 ---

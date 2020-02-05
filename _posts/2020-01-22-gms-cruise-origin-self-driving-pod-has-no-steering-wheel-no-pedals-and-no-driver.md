@@ -36,16 +36,16 @@ related:
         width: 1400
         height: 933
   - title: "GM's Cruise unveils its first driverless vehicle"
-    excerpt: "This is not Cruise's first foray into driverless cars. For years it has been testing modified Chevrolet Bolt ... Other car makers are in a race to launch self-driving cars using the latest artificial intelligence (AI) technologies although they are being held back by safety concerns and regulations. A number of fatalities involving autonomous ..."
-    publishedDateTime: 2020-01-22T05:31:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-51171398"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51171398"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51171398"
+    excerpt: "This is not Cruise's first foray into driverless cars. For years it has been testing ... Other car makers are in a race to launch self-driving cars using the latest artificial intelligence (AI) technologies although they are being held back by safety ..."
+    publishedDateTime: 2020-01-22T03:04:00Z
+    webUrl: "https://www.bbc.com/news/technology-51171398"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-51171398"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51171398"
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 59
+      domain: bbc.com
+    quality: 89
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B3CE/production/_110603064_03063.jpg"
         width: 1024

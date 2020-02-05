@@ -106,21 +106,6 @@ related:
       - url: "https://thehill.com/sites/default/files/pichaisundar_121118gn14_lead.jpg"
         width: 980
         height: 551
-  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
-    publishedDateTime: 2020-01-20T12:36:00Z
-    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-    ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-        width: 1200
-        height: 628
   - title: "AI Is Promising but Needs Regulation, Says Alphabet CEO"
     excerpt: "Among the areas that AI has been touted as being used for are visual perception, speech recognition and language translation. Last year, several Bay Area cities, including Oakland, San Francisco, Berkeley and Alameda banned the use of facial recognition technology by law enforcement officers on the grounds that it could violate individuals ..."
     publishedDateTime: 2020-01-21T23:44:00Z
@@ -224,19 +209,6 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2018/10/artificial-intelligence-3d-printing.jpg"
         width: 900
         height: 600
-  - title: "Google CEO Adds His Voice to AI Regulation Debate"
-    excerpt: "\"Decisions about hiring, healthcare, insurance and so on should not be made by AI, which has no morality, no ethics, and no sense of social good,\" he continued. \"Machine learning and AI will do whatever they're programmed to do -- whatever the algorithms dictate,\" added Sterling. \"Humans must set limits on the application of these technologies ..."
-    publishedDateTime: 2020-01-21T12:32:00Z
-    webUrl: "https://www.technewsworld.com/story/86465.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 39
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2015-artificial-intelligence-1.jpg"
-        width: 620
-        height: 340
   - title: "IBM proposes AI rules to ease bias concerns"
     excerpt: "IBM also suggests that companies appoint chief AI ethics executives, carry out assessments to determine how much harm an AI system may pose and maintain documentation about data when “making determinations or recommendations with potentially significant implications for individuals” so that the decisions can be explained. Spearheading the ..."
     publishedDateTime: 2020-01-22T04:53:00Z
@@ -259,6 +231,15 @@ related:
       name: IndustryWeek
       domain: industryweek.com
     quality: 23
+  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
+    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
+    publishedDateTime: 2020-01-20T12:36:00Z
+    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 19
 
 secured: "c7IF9dvR0rULryUoLDcEDhOkz4Ss5+TPdckrousEOIKixwS85h4gGO6p9LGWh1u5/xEeSiO4owrJLfPuYRayY96vlRhwxVl2BCv470k/DeVff2g3Mi4N4UDEfLkl+ddUXk4m164pEDbVMWEqY/vxkUCq3LJdtm4oQ/nB2kiOk8QvEU+IbPyAaCzl97l+cnR3Iw4TAgvISP69XMA7R4bkGn3MkjpHdBbSmYyD71uxEr4kIuU0zeFcVUST9Anh4xebh1qs4w0b2bF20BKHxKusQWGI9w6PH2XGWkjRodDYs1o=;1iEsCsAe2blJTl5+P0Qyow=="
 ---

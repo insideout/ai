@@ -32,7 +32,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2020/02/frank.jpg"
         width: 300

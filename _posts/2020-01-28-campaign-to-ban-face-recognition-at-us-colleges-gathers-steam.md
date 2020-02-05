@@ -52,6 +52,15 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg"
         width: 1200
         height: 800
+  - title: "Face Recognition and Micro Expressions with OpenCV and AWS Rekognition"
+    excerpt: "Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use."
+    publishedDateTime: 2020-01-23T11:56:00Z
+    webUrl: "https://medium.com/analytics-vidhya/face-recognition-and-microespressions-with-opencv-and-aws-rekognition-2ea2bc83f7da"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 49
   - title: "Facebook agrees to $550M slap on the wrist following facial recognition suit"
     excerpt: "That feature suggested the names of people in photos so that users could more easily tag them to a corresponding Facebook account. In order to accomplish this, Facebook reportedly used a form of facial recognition technology. Facebook discontinued Tag Suggestions in 2019. According to Lauren Gard, a spokesperson for one of the plaintiffs ..."
     publishedDateTime: 2020-01-30T01:47:00Z

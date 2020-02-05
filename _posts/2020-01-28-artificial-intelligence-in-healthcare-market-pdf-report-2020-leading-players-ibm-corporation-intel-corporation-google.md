@@ -49,19 +49,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Autonomous Vehicles Market (2020-26) Outlook with Industry Trends by Top Players Alphabet, Audi, Baidu Jaguar, BMW"
-    excerpt: "Jan 24, 2020 (AmericaNewsHour) -- Global Autonomous Vehicles Market reports provide CAGR Value 2020-2026 and analysis of Top Players, Geography, End users, Applications, Competitor analysis, Sales ..."
-    publishedDateTime: 2020-01-24T01:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-2020-26-outlook-with-industry-trends-by-top-players-alphabet-audi-baidu-jaguar-bmw-2020-01-24?dist=bigcharts"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Medicine Market Advanced Technology and New Innovations by 2025 – InSilico Medicine, Globavir Biosciences"
     excerpt: "Market Growth Insight has announced the addition of the “Global Artificial Intelligence in Medicine Market Research Report 2018-2025” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. The global artificial intelligence (AI) in medicine market was valued ..."
     publishedDateTime: 2020-01-27T13:02:00Z

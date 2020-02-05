@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Google’s Sundar Pichai calls for regulation of artificial intelligence"
-excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
-publishedDateTime: 2020-01-21T14:26:00Z
-webUrl: "https://www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/"
-ampWebUrl: "https://www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/amp/"
-cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/amp/"
+title: "Google backs EU’s proposed facial recognition ban; Microsoft disagrees"
+excerpt: "A ban is like “using a meat cleaver instead of a scalpel to solve potential problems”, he said. Smith also focussed on the benefits of facial recognition technology, citing the example of its use in finding missing children. It is the government’s responsibility to understand how technology is being used, identifying problem areas before ..."
+publishedDateTime: 2020-01-21T13:41:00Z
+webUrl: "https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/"
 type: article
-quality: 72
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Vanguard
-  domain: vanguardngr.com
+  name: Business Line
+  domain: thehindubusinessline.com
 
 topics:
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1"
-    width: 600
-    height: 400
-    title: "Google’s Sundar Pichai calls for regulation of artificial intelligence"
+  - url: "https://www.thehindubusinessline.com/blink/talk/xzq9q3/article30105303.ece/ALTERNATES/LANDSCAPE_615/LEAD-IMAGE"
+    width: 615
+    height: 384
+    title: "Google backs EU’s proposed facial recognition ban; Microsoft disagrees"
 
 related:
   - title: "Google CEO backs temporary ban on facial recognition"
@@ -55,19 +56,6 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
         width: 1024
         height: 512
-  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
-    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
-    publishedDateTime: 2020-01-20T19:06:00Z
-    webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg"
-        width: 760
-        height: 428
   - title: "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary"
     excerpt: "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology."
     publishedDateTime: 2020-01-21T22:04:00Z
@@ -83,6 +71,21 @@ related:
       - url: "https://www.pcmag.com/images/pcmag-social-share.jpg"
         width: 997
         height: 1201
+  - title: "Google’s Sundar Pichai calls for regulation of artificial intelligence"
+    excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
+    publishedDateTime: 2020-01-21T14:26:00Z
+    webUrl: "https://www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/"
+    ampWebUrl: "https://www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 72
+    images:
+      - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1"
+        width: 600
+        height: 400
   - title: "Google CEO Thinks AI Will Be More Profound Change Than Fire"
     excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity."
     publishedDateTime: 2020-01-22T10:47:00Z
@@ -94,6 +97,15 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
+  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
+    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
+    publishedDateTime: 2020-01-20T19:06:00Z
+    webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 64
   - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
     excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
     publishedDateTime: 2020-01-21T13:56:00Z
@@ -109,21 +121,6 @@ related:
       - url: "https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2019/07/pichai-google-ceo-featured.jpg?fit=1360%2C1020&#038;ssl=1"
         width: 1360
         height: 1020
-  - title: "Google backs EU’s proposed facial recognition ban; Microsoft disagrees"
-    excerpt: "A ban is like “using a meat cleaver instead of a scalpel to solve potential problems”, he said. Smith also focussed on the benefits of facial recognition technology, citing the example of its use in finding missing children. It is the government’s responsibility to understand how technology is being used, identifying problem areas before ..."
-    publishedDateTime: 2020-01-21T13:41:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://www.thehindubusinessline.com/blink/talk/xzq9q3/article30105303.ece/ALTERNATES/LANDSCAPE_615/LEAD-IMAGE"
-        width: 615
-        height: 384
   - title: "Surprise: Google CEO Still Dancing Around AI Regulations"
     excerpt: "But it warrants reminding those very same principles still allowed it to actively develop AI meant to kill people. Obviously, the situation's much more nuanced than that; Washington's geopolitical rivals are hardly concerned by ethics when it comes to military tech. Yet it's high time for legislators to start drawing some lines. And ..."
     publishedDateTime: 2020-01-22T01:48:00Z
@@ -139,19 +136,15 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg"
         width: 1600
         height: 899
-  - title: "Artificial intelligence needs to be regulated, says new Google CEO"
-    excerpt: "EPA/BORIS ROESSLER Alphabet and Google chief Sundar Pichai called for a global regulation of artificial intelligence at a conference in Brussels. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this”, Pichai said, adding that “while AI promises enormous benefits ..."
-    publishedDateTime: 2020-01-21T12:29:00Z
-    webUrl: "https://www.neweurope.eu/article/artificial-intelligence-needs-to-be-regulated-says-new-google-ceo/"
+  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
     type: article
     provider:
-      name: New Europe
-      domain: neweurope.eu
-    quality: 39
-    images:
-      - url: "https://www.neweurope.eu/wp-content/uploads/2016/03/Google_07.jpg"
-        width: 2048
-        height: 1223
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 49
   - title: "It's too late to ban face recognition – here's what we need instead"
     excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
     publishedDateTime: 2020-01-23T11:43:00Z
@@ -189,7 +182,16 @@ related:
       - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
         width: 531
         height: 342
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
+    publishedDateTime: 2020-01-15T17:43:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
-secured: "G6/MtcqLXXKr88fNfrnh/wmoCH67NgXE+TPQhWkWIAZIn7jDCM+EOGYqSD1CHhbIAAFZE5TanQOq1+ROgUVB5QgM5zOp4ww9ihDHaj9On5wry/Mtuxv8BKgj5wBph9gE2y8t1MTstO6rOoN/1VuhT8/uJUUD6D9Exc8yb7Z9xb5KSOxk4s6Ip+tUn4GOXG5Tkx7bRN19XQb9/X4ZUzCloZn0AtwOeXEjgFfooFPbrbW+sIZjNvB+P11CD9+rjEYDM0Pr0Z81oF5I7io0szLAHKawE/TD7prwH9aEBPJJeDw=;2z7/3ra737zj8/q6uCMBRg=="
+secured: "YOVnIhHzfohBHdIWrfqjzbP+2ishAeeHTwjOCSow1Zn1JudFRnsHglnulvniFOHdXcPerFEwJQwHeqKSVkAyGV04TJAewOChErM0LrJEdHsMnx1oh77KHfshhTCmJanEQunOLVHFOe6/4B/wtfAhCqzvTabHMNly8Gc1mc8uqL1S9g2oSS5oM3Hf37tQ9Ej1t1e3VSHUdydxbNSAiaraN6pyk/6m6Frl+Qwl1tcwPb6LTQfMR1MYH5NudBAXB6GG7r96Pvnmd2ic6B/VOUgxcM9sBarzRey9P+tRqdxsrpI=;Yruv0pl0qOYsG8FvOz5rqw=="
 ---
 

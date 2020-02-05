@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-wh
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 720
     title: "5 Reasons Why AI May Dazzle Only To Disappoint"
 
-secured: "89qi4OUmHv/YSYb+wI+7c/Yl9PYIbDrsgXIj2a6sxxlAu14D26JoIvgKWtGHOeJdiH/V70rpD6jeDN55QnJ/Oc1lBH1kb/B0t3ZmXKvCnNlyjkq2N202h8S5sBVGkaKv7OaGpbHi5EuolLL2ZiOk+8h13xgvu6tVQ5EguGFSW4gMaiO8+SWViNNxukh4YaWpp/hYFmfX2qqcTwivTAINtCEIkHAal6AcdYrfNwJDPmp9qHULeGjjs6rVyD0+RmJ4Eo4KYd5JJLCoQTbtbe+v2EajR8ZzDyooSASMycFGhzufsJIk9MVBjpMszhHqF1DdAhfioqpjerGaAB6cujB0jlr36JbcNV1iYTm0uf+IpmLlSIeIV4wFf45WZW9UfFojrt7lFEYs27WV0dw/4corfc3M2f5ngZqc9z/P1jp92zxoDaOKueaccfmseJKVNyYfy017iJoGz1r+BYVQPr7iCho6X4yOvAKeLvC4cYImd/M=;gWjDYsA58a6iDFhPWQSVOQ=="
+secured: "dIodpzsY4VrUsV1rk+Bc8rtTROMEXtK324iXeSS9IE68H1QChrl+mhiz73pIu0+zjzlrHL/HHqhVTNl48LxkANabPY61R/LYbqsvAbqXF6KTCrO+s2AgqcXoxbpMnz377FtoUYqgRevKrR1v/Ix/i8bcF9hCccJJHqcdh//Y97ub/44TRbCDw5aZC7jKVr23/iHgTFIvFth7DyfSPwXMV9im4xhQCRghOmJ1kdMyxxcIoHIDtGrcgLJM/HUHsVJjeFVr9lwsBEebqydz4n5RJ2SyYu1qkF+zJ5QyFCaOpb4O6KxoA03mFK5XYIU3gxWnu7dfZ4VEIXnAYJpnKKKk+CZSpR48qZv4BVAJeKSYf1ew5HCl165CjbyqoSi82+qkDZrY6apvZwhi1T8uA4qk3fWjdUw8IvUiBrFa7FZPa02CYwDYdzORrM023pe1FraW++qUM/56RWCsMQ2X7KFQvL9fnzdlZSK1YETUiGKQMTA=;ZgomYFAlhufYHn1EJcNnYw=="
 ---
 

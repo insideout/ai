@@ -5,7 +5,7 @@ excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artifi
 publishedDateTime: 2020-01-20T19:06:00Z
 webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
 type: article
-quality: 84
+quality: 64
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg"
-    width: 760
-    height: 428
-    title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
 
 related:
   - title: "Google CEO backs temporary ban on facial recognition"
@@ -144,19 +138,15 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg"
         width: 1600
         height: 899
-  - title: "Artificial intelligence needs to be regulated, says new Google CEO"
-    excerpt: "EPA/BORIS ROESSLER Alphabet and Google chief Sundar Pichai called for a global regulation of artificial intelligence at a conference in Brussels. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this”, Pichai said, adding that “while AI promises enormous benefits ..."
-    publishedDateTime: 2020-01-21T12:29:00Z
-    webUrl: "https://www.neweurope.eu/article/artificial-intelligence-needs-to-be-regulated-says-new-google-ceo/"
+  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
     type: article
     provider:
-      name: New Europe
-      domain: neweurope.eu
-    quality: 39
-    images:
-      - url: "https://www.neweurope.eu/wp-content/uploads/2016/03/Google_07.jpg"
-        width: 2048
-        height: 1223
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 49
   - title: "It's too late to ban face recognition – here's what we need instead"
     excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
     publishedDateTime: 2020-01-23T11:43:00Z
@@ -194,7 +184,16 @@ related:
       - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
         width: 531
         height: 342
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
+    publishedDateTime: 2020-01-15T17:43:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
-secured: "segOByD4cZOaaNtpcr1vk5Mk6mOqP2AODE8WhUR6e6XFAkorQ1gAgQgNkj7MtYPzbXRDxYmPh+f7FWLPtfgObkrFL8EHxlNaCx6a7Qm6WyCpkD6BjtfhdGDvuPfPx0LGE/f1oD/+EV9/5pi2miZyIHb2R59IycL0d6UOrGVMb7dEa1rJE6u7/qHvNPHnDGLePsCriAAk75bj19hiWS1ijM0AChQM+vxWaMO59FnvJmXMDwezL3VpEERV8ILgLWP0G/iTdPwv4g2rR4WDUY27Z4l5eyctCNc/lto26idliRGOB/BGxw6BDhcWSv/4JW7Y;GiatG5pDX6bwrE/7TBSFag=="
+secured: "zIzB2dzIpZhSb6Mx7TGFhhkGnTDU96B9ivY/CtndXvwHc+xeeT1mceEHwHfd6mJ/W7KlFr3hd0ohRIPc7pU2cZan8H38vzwzMDKqEkHzAmsOjYiuJkeV3RIhfA3UHp7MJe+DazkG34uMoFNywcxM+Wk95Os7/mowhtdc/FrbP1P07+q4ckCxSNsNnRW7wtvQpvI6Wp4nmXoEFLGKxm1iLp8kSEaDhV1d4UzqyW1JdctPlKF7xI/TLoPj4LbOGZYJ90e2J088xEHeyGYP6QTAyc1JH84F2CkxxpZi0ZkdK7U27yUoybbxnWgRkECzcte43MIYiIt3xTWj3ZkjDhQg4t1r+nU/DPn+eaKnGjHCrqZMMG0FWlqabsI2+Et5lAwumOasIpUyPj3Ak88JQxxEiIxqT3aYU4w8ki0HwZODHX4RRrY3SkyXJL17GJEHb2ogn42vNUdlvA3z+zakyqWFP750UVn6X2unsS0TTNm0FtI=;pU5eow/jPnw6SqHFZceM+Q=="
 ---
 
