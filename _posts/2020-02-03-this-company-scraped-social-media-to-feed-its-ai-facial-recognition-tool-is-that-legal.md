@@ -8,8 +8,8 @@ ampWebUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearv
 cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Big Think
@@ -26,32 +26,74 @@ images:
     title: "This company scraped social media to feed its AI facial recognition tool. Is that legal?"
 
 related:
-  - title: "How to Tell if Your College is Using Facial Recognition to Monitor People on Campus"
-    excerpt: "The list shows you what universities have publicly said they won’t use facial recognition as well as those that have said they already do or are considering it. Beside each entry is a button you can click on to tweet at that college to express your opinion on the matter. Beyond just a place to tweet your university, the site also offers the ..."
-    publishedDateTime: 2020-02-02T02:35:00Z
-    webUrl: "https://lifehacker.com/how-to-tell-if-your-college-is-using-facial-recognition-1841414325"
-    ampWebUrl: "https://lifehacker.com/how-to-tell-if-your-college-is-using-facial-recognition-1841414325/amp"
-    cdnAmpWebUrl: "https://lifehacker-com.cdn.ampproject.org/c/s/lifehacker.com/how-to-tell-if-your-college-is-using-facial-recognition-1841414325/amp"
+  - title: "YouTube demands Clearview AI stop scraping its videos for facial recognition database"
+    excerpt: "YouTube has sent a cease and desist letter to Clearview AI demanding that the controversial facial recognition startup stop scraping YouTube videos to gather faces for its database and delete any images it’s already collected. The demand, first reported by CBS News, says that YouTube forbids anyone from collecting data from its platform that ..."
+    publishedDateTime: 2020-02-05T16:45:00Z
+    webUrl: "https://www.theverge.com/2020/2/5/21124172/youtube-clearview-ai-cease-and-desist"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/5/21124172/youtube-clearview-ai-cease-and-desist"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/5/21124172/youtube-clearview-ai-cease-and-desist"
     type: article
     provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 53
+      name: The Verge
+      domain: theverge.com
+    quality: 99
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--1cJFuGHm--/c_scale,f_auto,fl_progressive,q_80,w_800/pm2nsbcl6nmsxpirnyv9.jpg"
-        width: 800
-        height: 449
-  - title: "Facial recognition coming to Europe, but terms and conditions applied"
-    excerpt: "Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next month."
-    publishedDateTime: 2020-02-02T11:57:00Z
-    webUrl: "https://www.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK_amp.html"
+      - url: "https://cdn.vox-cdn.com/thumbor/hzn0DYF6-yhz7E7TYeTKLCBBFIs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66255869/acastro_180806_1777_youtube_cancel_0001.0.jpg"
+        width: 1400
+        height: 933
+  - title: "Podcast: Why Clearview AI's facial recognition is a privacy nightmare"
+    excerpt: "And we also chat about the DIY nature of Billy Eilish's Grammy wins. All of our fears around facial recognition technology are coming true thanks to a little known startup called ClearView AI. This week, Devindra and Cherlynn dive into how ClearView works, and what unchecked access to powerful facial recognition means for the future of privacy."
+    publishedDateTime: 2020-01-31T12:30:00Z
+    webUrl: "https://www.engadget.com/2020/01/31/podcast-clearview-ai-billie-eilish/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: Engadget
+      domain: engadget.com
+    quality: 84
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C719%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C719%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-10%252F9251a820-f130-11e9-9df5-19d3f012f517%26client%3Da1acac3e1b3290917d92%26signature%3D569bb91dab0b6654f0fc0287924bc32aa29d22ba&client=amp-blogside-v2&signature=29c7441da69c3b0234a720e23f0815964826b843"
+        width: 1200
+        height: 630
+  - title: "Clearview AI hit with cease-and-desist from Google over facial recognition collection"
+    excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, the facial recognition company that has been scraping billions of photos off the internet and using it to help more than 600 police departments identify people within seconds. That follows a similar action by Twitter, which sent Clearview AI a cease-and-desist letter for ..."
+    publishedDateTime: 2020-02-05T13:40:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-hit-with-cease-and-desist-from-google-over-facial-recognition-collection/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 57
+  - title: "EU Prepares for Coming of Facial Recognition– On Its Privacy Terms"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy. Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next ..."
+    publishedDateTime: 2020-02-03T12:59:00Z
+    webUrl: "https://www.insurancejournal.com/news/international/2020/02/03/557118.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
     quality: 39
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
+        width: 900
+        height: 598
+  - title: "Google and YouTube send cease-and-desist letter to facial recognition app that helps law enforcement"
+    excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, a facial recognition app that scraps images from the websites and social media platforms, CBS News has learned. The tech companies join Twitter, which sent a similar letter in January, in trying to block the app from taking pictures from their platforms. The app is only ..."
+    publishedDateTime: 2020-02-05T11:25:00Z
+    webUrl: "https://www.cbsnews.com/news/clearview-ai-google-youtube-send-cease-and-desist-letter-to-facial-recognition-app/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 4
+  - title: "Army researchers investigate long-range facial recognition by combining infrared sensors and face databases"
+    excerpt: "Stars and Stripes reports. Continue reading original article The Military & Aerospace Electronics take: 4 Feb. 2020 --The advanced facial recognition technology could aid soldiers in the field, but comes with some growing cyber security challenges ..."
+    publishedDateTime: 2020-02-04T11:47:00Z
+    webUrl: "https://www.militaryaerospace.com/sensors/article/14104030/facial-recognition-infrared-sensors"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 1
 
 secured: "tbSHVlWQrUMw1z0XeBxsxQXhOXljkV+h9KeLTgFYZFk/HBmBQmcZ8tZngDhGC2KlYJOfoLKwEd4sSGqXS8WctWyWCsLMP83odv88H76Regeu4VFW23yszjmCEHnt3GMzhfSbwBrclLIOWDlkHEUEkJyvZqbt8FVCszljcaLEk19jimg4Kvi1q7QKCumsw7dWDYFpneGEK/g2Vz+nSGV4+cNxFCBqqx2FO5SgO3gpO93BiuTw98HYiWAVUTGFTAyvyVCyaNnJ2QOAnSC/Fr4465VdF9/DDq1cW+Z1rqEtiiMRuCXf/mJgyZa6kV+pMSSiQTeGERtSGSLGwM9rYs0cwezwOPH5/VD1X+GhI1LJ7YTUrVW7l6/t27rXQFFTshX+EkUDHkAXHfQnoKSp8Ce2VJYpJZtl+agengiD4fS2+9MyITSRjZCBEBbsSET8PKwxIpbdnpYAR50ws1b8FY6L1OfCaOF0MQXuJ7jjSj1sFjM=;F6DnPNGnoaqi0spX0zOAog=="
 ---

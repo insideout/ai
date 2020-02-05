@@ -54,6 +54,15 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
         width: 1024
         height: 512
+  - title: "The Key To Tesla's Future Is Full Self-Driving"
+    excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
+    publishedDateTime: 2020-02-03T17:07:00Z
+    webUrl: "https://seekingalpha.com/article/4320979-key-to-teslas-future-is-full-self-driving"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "mwk6RRD0NSgD7VZusah5ezoHs9hS10XIjYjU0qYEnFmfrLx71YnwbtUpI/4W9lvwZNn7FgabZI10sGqh9FXPZsRH2TB+LwR6OLB2ehskeg/EQ1QSGfvfI6afAdXrwy4QdwO3UHkMH8/3aUa2yPi44OYipsKYpmbUYca+4dox/IHoNg1wcdIJPwOsLktbQMkAvCYKHRydAXCcx4jTJ5zNRsWu0ywBV/dK+tCC1bg9+yKTalv8Y0dCpG6NrXvoCEMKbWnuHPsAWoQmtD2vb9btiDdu3H0Z/DvPeL6KmjMK33uFcQ56mx71iOvbk3QU8hqNIu9YAVjxYwtOPMogzTPo58b0LdbgizMyCGCRhIXp9JFHAz/M/iwHB69EoAJgHe0G4kYBPbVT6CZ8WwJt1aG0dpJGIJ+I4aBQII2uW5HiRjR3Jduvk3j+AmJZ4tMB24qFwFWw3SyaEZvSQepSIRR9o24+dpkHMb/zWm+2wGzBtCU=;be+cF5sQvfFoCpgyGOdHRg=="
 ---

@@ -26,6 +26,6 @@ images:
     height: 900
     title: "These are the exact skills you need to get a job in artificial intelligence"
 
-secured: "WCAcgAUV2/32md3QR+/jV4BKb2Poz7niYIS4fgMRG2EvTijoQt9CbrB7M/3FDh+/KYvVjAiibGe7h0cG1p2a5RX/pbqtAWuOx+XaWtsZ7Jtu/HfiPCjOGodD1nAD27A9CGteQvMOa3yMmJ8WqorUD1A6IElr+7VNAI4so8Orv7Xzd7MmpdHOg1hXSh0bLCQBuKEWAfoCIwUuvrx8fUZWvaebdPB9LAIZvYfUbEKMsYZxa2bJb8/33pj0T05kTdxnBvrzZuVato4hVGDRZZsme2x8VRrqQOJzwBHzsT2N6fhKd4r2O+DbwUD+BwY0s9C3;Ks6bgvRRYLtLPBsgfyzqxw=="
+secured: "n/s4+XQkn/11o3WwnDRSoPNeVrYZAsuwFdXdIrvTROLwPxEeQbRSwT7rPWJPMTiSuYlraqB+FvjA57pWHWx+gtteXZj9sz+TuhejFC+QpLGXu8H+m/SGNuPYvT/9O+7G6GmyW1ubsiifubz5dMGgqhXYfcY/5CKSxhqvkrIgIGM/rqWydDf5e7ZQZvVXitE4ySafBMdsxctUaFL7W86Lmdpth7y2lrdNYJcHjIbCkJChVf/xIo7tGrZ8KqpbjxHy7rqicHqW5DWs+4EF7JVJN/uezi7GwY4p4eCkLKTU+1qk+I4Ljo4VQueLHVicbEu/6WGxoROiobig5mnqxeFMdGGDKF2v5JD4UV6lw2jLRHROs4aWf9h7WraXsEFLtrLeb/r/WsszS7T33Zhf6UbnY2pE6yTezWYbKZ332zZ0lIaHJo11MC9J3FUYYUgiSaLJ82UQTYwaNTaoWjzj06ckw1QNmuCZ+l8oeovQypCUpuQ=;5oUUQxAptg2Fc19pBm86CQ=="
 ---
 

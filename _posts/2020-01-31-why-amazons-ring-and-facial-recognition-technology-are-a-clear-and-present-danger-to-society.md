@@ -28,265 +28,130 @@ images:
     title: "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society"
 
 related:
-  - title: "Indian Railways to use facial recognition technology to identify criminals"
-    excerpt: "Indian Railways has announced that it plans to use facial recognition to tackle crime at railway stations. The new facial recognition system is currently being tested in Bengaluru. A senior railway official told Reuters that the move would turn the railways into a fortress. \"Without a physical, brick and mortar boundary wall, we will be able ..."
-    publishedDateTime: 2020-01-29T12:44:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/indian-railways-to-use-facial-recognition-technology-to-identify-criminals-4875661.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/indian-railways-to-use-facial-recognition-technology-to-identify-criminals-4875661.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/indian-railways-to-use-facial-recognition-technology-to-identify-criminals-4875661.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 72
-    images:
-      - url: "https://static-news.moneycontrol.com/static-mcnews/2017/03/railway-wagons-rail-goods-freight-transportation-coal-cement-378x213.jpg"
-        width: 378
-        height: 213
-  - title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
-    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
-    publishedDateTime: 2020-02-01T05:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-  - title: "Facial Recognition Biometrics Market Advance Technology and New Innovations 2020"
-    excerpt: "Global Facial Recognition Biometrics Market Research Report 2020 provides key analysis on the market status of the Facial Recognition Biometrics manufacturers with market size, growth, share, trends as well as industry cost structure."
-    publishedDateTime: 2020-01-27T05:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020-2020-01-27"
+  - title: "AI Image Recognition Market Rising Trends, Technology and Demand 2019-2024"
+    excerpt: "The AI Image Recognition Market covers important aspects of this market concerning fundamental parameters. The report explains outline of the business range, concentrating on the overall industry, development possibilities,"
+    publishedDateTime: 2020-02-04T08:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-rising-trends-technology-and-demand-2019-2024-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "City police eye use of facial recognition technology to fight crime"
-    excerpt: "City police are assessing the potential to use facial recognition technology to battle crime — and the privacy and security implications of such a move. The Edmonton Police Service is currently in the process of “project assessing” the potential of using facial recognition to help with existing cases, police spokeswoman Cheryl Sheppard ..."
-    publishedDateTime: 2020-02-02T11:06:00Z
-    webUrl: "https://edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime"
-    ampWebUrl: "https://edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime/amp"
-    cdnAmpWebUrl: "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/news/local-news/city-police-eye-use-of-facial-recognition-technology-to-fight-crime/amp"
+  - title: "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027"
+    excerpt: "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,"
+    publishedDateTime: 2020-02-04T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04"
     type: article
     provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
-      - url: "https://postmediaedmontonjournal2.files.wordpress.com/2020/01/tech-antitrust-hiring.jpg"
-        width: 1000
-        height: 750
-  - title: "Hardin County animal shelter using facial recognition technology for lost pets"
-    excerpt: "Users will be able to search the shelter and surrounding areas to find missing pets, locate the family of a found pet or search for adoptable pets."
-    publishedDateTime: 2020-02-04T02:03:00Z
-    webUrl: "https://www.wlky.com/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    ampWebUrl: "https://www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    type: article
-    provider:
-      name: WLKY
-      domain: wlky.com
-    quality: 55
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
-  - title: "Springfield Mayor Domenic Sarno vows veto if City Council bans police use of facial recognition technology"
-    excerpt: "SPRINGFIELD — Mayor Domenic J. Sarno said Monday he is poised with a veto if the City Council votes to block the Police Department from using facial recognition technology. Sarno said the technology, which is not used in Springfield yet, could someday aid in the arrest of criminals and enhance public safety. Citing the recent abduction of an ..."
-    publishedDateTime: 2020-02-03T19:05:00Z
-    webUrl: "https://www.masslive.com/news/2020/02/springfield-mayor-domenic-sarno-vows-veto-if-city-council-bans-police-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.masslive.com/news/2020/02/springfield-mayor-domenic-sarno-vows-veto-if-city-council-bans-police-use-of-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/02/springfield-mayor-domenic-sarno-vows-veto-if-city-council-bans-police-use-of-facial-recognition-technology.html?outputType=amp"
+        height: 630
+  - title: "Image Recognition Market Worth $81.88 billion by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-02-05T05:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "AI Software Market In Legal Industry Market Benefits, Technology Advancement and Future Scope Till 2024"
+    excerpt: "The AI Software Market In Legal Industry Market covers important aspects of this market concerning fundamental parameters. The report explains outline of the business range, concentrating on the overall industry,"
+    publishedDateTime: 2020-02-04T07:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-software-market-in-legal-industry-market-benefits-technology-advancement-and-future-scope-till-2024-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Speech and voice recognition tech market to soar to ₹210 crore by end of 2020"
+    excerpt: "The market for speech and voice recognition is set to grow to 40.47 per cent to reach ₹210.63 crore by end of 2020, states a new study. The market was ₹149.95 crore as of December 2019. The emergence of voice technology has been brought on by the rapid ..."
+    publishedDateTime: 2020-02-05T15:46:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 41
     images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GNXD2DF67BAWFK25T7SGYLMFAY.jpg"
-        width: 2127
-        height: 2072
-  - title: "Universal Studios' Secret Life Of Pets Attraction Will Use Facial Recognition To Turn Guests Into Stray Dogs"
-    excerpt: "This morning Universal Studios Hollywood revealed some new details about the forthcoming The Secret Life of Pets: Off the Leash attraction, including the fact that it will use facial recognition technology as well as gesture tracking in order to turn those on the ride into unique stray dogs. What's most intriguing about the new attraction ..."
-    publishedDateTime: 2020-01-22T18:53:00Z
-    webUrl: "https://www.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs?pv=related_list"
-    ampWebUrl: "https://amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs"
-    cdnAmpWebUrl: "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs"
+      - url: "https://www.thehindubusinessline.com/info-tech/ceo10a/article30744550.ece/ALTERNATES/LANDSCAPE_615/BL06ALEXA"
+        width: 615
+        height: 384
+  - title: "6 attraction technology trends for 2020: VR, AR, AI, bots and esports"
+    excerpt: "Last year did not start well for robots. The Henn na chain of hotels in Japan ... An exhibition at the University of Oxford showcased art created by the world’s first ultra-realistic AI humanoid robot artist. Ai-Da uses a robotic arm and pencil to draw what she sees thanks to cameras in her eyeballs. AI algorithms, created by scientists ..."
+    publishedDateTime: 2020-01-30T14:37:00Z
+    webUrl: "https://blooloop.com/features/attraction-technology-trends-2020/"
     type: article
     provider:
-      name: Cinema Blend
-      domain: cinemablend.com
-    quality: 40
-    images:
-      - url: "https://img.cinemablend.com/quill/c/a/f/e/4/a/cafe4af26bbaae7202ee6c7b7d447eb9ae15e12f.jpg"
-        width: 1200
-        height: 600
-  - title: "Army Taps Academia to Address Hacker Risks in Facial Recognition Tech"
-    excerpt: "The U.S. Army and Duke University have partnered to address cyber risks that threaten the use of object and facial recognition in artificial intelligence training. Researchers at the university have developed a software that detects backdoor hacking attempts orchestrated against recognition systems, the Army said Tuesday. Army Research ..."
-    publishedDateTime: 2020-01-27T21:24:00Z
-    webUrl: "https://www.executivegov.com/2020/01/army-taps-academia-to-address-hacker-risks-in-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
+      name: Blooloop
+      domain: blooloop.com
     quality: 39
     images:
-      - url: "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300000xo9XQEAY"
-        width: 272
-        height: 270
-  - title: "Assembly committee ponders use of facial recognition technology"
-    excerpt: "There’s a facial recognition app local law enforcement has used to identify potential suspects in a criminal investigation, but no more. The state attorney general has banned the use of Clearview AI. It all stems from concerns over the software ..."
-    publishedDateTime: 2020-02-03T22:57:00Z
-    webUrl: "https://www.njtvonline.org/news/video/assembly-committee-ponders-use-of-facial-recognition-technology/"
+      - url: "https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2020/01/09114657/attractions-tech-at-ISE-events-page.jpg"
+        width: 1500
+        height: 937
+  - title: "AI in Education Market by Latest Trends, Business Opportunities, Segmentation and 2026"
+    excerpt: "New Jersey, United States - The report titled, AI in Education Market has been recently published by Verified Market Research. The AI in Education market has been garnering remarkable momentum in recent years."
+    publishedDateTime: 2020-02-04T04:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-by-latest-trends-business-opportunities-segmentation-and-2026-2020-02-04"
     type: article
     provider:
-      name: NJTV
-      domain: njtvonline.org
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
-        width: 1920
-        height: 1080
-  - title: "Facial recognition technology helps Volusia County make arrests in 4 cases"
-    excerpt: "VOLUSIA COUNTY, Fla. — Thanks to facial recognition technology, the Volusia County Sheriff’s Office was able to make four arrests out of 30 cases last year. The Sheriff’s Office is using a database of more than 2 billion photos including those on social media and other public sites. The department purchased a license to give the new ..."
-    publishedDateTime: 2020-02-04T02:19:00Z
-    webUrl: "https://www.wftv.com/news/local/volusia-county/facial-recognition-technology-helps-volusia-county-make-arrests/Q6YYQDNJQNC6RJQDW5BZU7CQW4/"
+  - title: "Artificial Intelligence in Energy Growing Popularity and Emerging Trends in the Market | ABB, Alphabet, GE, IBM,"
+    excerpt: "The latest update of Global Artificial Intelligence in Energy Market study provides comprehensive information on the development activities by industry players, growth opportunities and market sizing for Artificial Intelligence in Energy,"
+    publishedDateTime: 2020-01-31T04:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-growing-popularity-and-emerging-trends-in-the-market-abb-alphabet-ge-ibm-2020-01-31"
     type: article
     provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 37
-    images:
-      - url: "https://www.wftv.com/resizer/-nAp2UpM5mI0OsyKgu3KnyTIIk4=/1200x628/d1hfln2sfez66z.cloudfront.net/02-04-2020/t_623fb723a99a4dc1bcd5790a0f4c3715_name_VOL_AI_FACIAL_RECOG_TECH.jpg"
-        width: 1200
-        height: 628
-  - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
-    excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
-    publishedDateTime: 2020-02-03T22:34:00Z
-    webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+  - title: "Artificial Intelligence in Energy Market Growth Trends 2019 | ABB, General Electric, Siemens, Grid4C, IBM"
+    excerpt: "Global Artificial Intelligence in Energy Market Growth (Status and Outlook) 2019-2024 is systematic research that delivers an expert and comprehensively analyzes recent key business trends and upcoming market growth outlooks. The report covers major drivers and constraints, accounts of crucial market participants, splitting analysis and ..."
+    publishedDateTime: 2020-02-05T06:32:00Z
+    webUrl: "https://www.openpr.com/news/1919332/artificial-intelligence-in-energy-market-growth-trends-2019"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 28
-    images:
-      - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
-        width: 700
-        height: 394
-  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
-    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
-    publishedDateTime: 2020-02-02T15:07:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
-    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Artificial Intelligence in Retail Market 2025: Industry Size, Growth Factors, Trends, and Top Companies Analysis for Business Development"
+    excerpt: "Subsequently, various well-established retailers are struggling with increasing operational cost, dissatisfied customers, declining sales, and upstart competition; thereby creating a need for implementation of artificial intelligence in the retail industry. With the new phase of digital transformation, top players in the retail industry are ..."
+    publishedDateTime: 2020-02-05T13:33:00Z
+    webUrl: "https://www.openpr.com/news/1920389/artificial-intelligence-in-retail-market-2025-industry-size"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 25
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
-        width: 2233
-        height: 1675
-  - title: "Veridium Launches Facial Recognition Technology vFace Alongside Behavioural Biometric Capabilities"
-    excerpt: "/PRNewswire/ -- Authentication platform Veridium launches its facial recognition technology, vFace. This software makes facial recognition more"
-    publishedDateTime: 2020-02-04T14:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/veridium-launches-facial-recognition-technology-vface-alongside-behavioural-biometric-capabilities-300998683.html"
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By Technology, By End Use And Segment Forecasts, 2019 - 2025"
+    excerpt: "/PRNewswire/ -- Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By Technology (Deep Learning, Machine Learning), By End"
+    publishedDateTime: 2020-02-05T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-market-size-share--trends-analysis-report-by-solution-by-technology-by-end-use-and-segment-forecasts-2019---2025-300999317.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-  - title: "Christopher Elliott: Facial-recognition technology stokes privacy concerns"
-    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
-    publishedDateTime: 2020-02-02T05:08:00Z
-    webUrl: "https://www.sunjournal.com/2020/02/02/christopher-elliott-facial-recognition-technology-stokes-privacy-concerns/"
-    type: article
-    provider:
-      name: Sun Journal
-      domain: sunjournal.com
-    quality: 22
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/11/2019/02/Christopher-Elliott.jpg"
-        width: 450
-        height: 366
-  - title: "Chinese AI start-up develops facial recognition to help identify febrile person amid coronavirus outbreak"
-    excerpt: "Chinese artificial intelligence (AI) start-up Face++ has developed a temperature screening tool that can help monitor human body temperature in crowded places and identify individuals who might have a fever using facial recognition technology. The system is on a trial-run in some subway stations and government offices in Beijing’s Haidian ..."
-    publishedDateTime: 2020-02-05T03:35:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178554.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 20
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-05/02fe8773-384a-430e-8315-b01d2eb69fc7.jpeg"
-        width: 500
-        height: 300
-  - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
-    excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
-    publishedDateTime: 2020-02-03T21:46:00Z
-    webUrl: "https://japantoday.com/category/tech/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
-  - title: "The rise of facial recognition technology: best practices to maximize effectiveness and minimize liability risk"
-    excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the second article in a two-part series examining the rapid rise of facial recognition technology. Part one discussed the use of biometric facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal ..."
-    publishedDateTime: 2020-02-04T12:04:00Z
-    webUrl: "https://www.biometricupdate.com/202002/the-rise-of-facial-recognition-technology-best-practices-to-maximize-effectiveness-and-minimize-liability-risk"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
-        width: 1640
-        height: 800
-  - title: "Minnesota Legislature begins considering facial-recognition technology regulations"
-    excerpt: "A joint legislative committee has taken the first small steps toward considering what a handful of cities and states around the country have already done — regulating or banning the use of facial recognition software by business and government. It was such a small step considered by a subcommittee of the relatively obscure Legislative ..."
-    publishedDateTime: 2020-02-03T14:21:00Z
-    webUrl: "https://www.minnpost.com/state-government/2020/02/minnesota-legislature-begins-considering-facial-recognition-technology-regulations/"
-    type: article
-    provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 18
-    images:
-      - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
-        width: 640
-        height: 461
-  - title: "Watchdog Warns About 'Chilling Effect' Of Russia’s Use Of Facial-Recognition Technology"
-    excerpt: "Amnesty International has criticized Russia’s plans to broaden the use of widespread facial-recognition systems, saying their expected deployment during public gatherings will “inevitably have a chilling effect” on protesters. The London-based human rights watchdog issued the call on January 31, as a Moscow court was set to hear a ..."
-    publishedDateTime: 2020-01-31T11:35:00Z
-    webUrl: "https://www.rferl.org/a/watchdog-warns-about-chilling-effect-of-russia-s-use-of-facial-recognition-technology/30410014.html"
-    ampWebUrl: "https://www.rferl.org/amp/30410014.html"
-    cdnAmpWebUrl: "https://www-rferl-org.cdn.ampproject.org/c/s/www.rferl.org/amp/30410014.html"
-    type: article
-    provider:
-      name: Radio Free Europe/Radio Liberty
-      domain: rferl.org
-    quality: 16
-  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
-    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
-    publishedDateTime: 2020-02-02T11:38:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
     quality: 0
 
 secured: "2ExMaTNnfV41MMxjWUZ99O2O56IkN5f9dV5uEVNVHodi4LiQrRs6vkoiLcd5UDitYlRzUvz0DU7/gRstJU7HTWiyN+wCeShuRFdoH87nbnn3uSJNLN73gGuNGuiIfJD/yP3BAil6EzSzJK7xiktdxnFzGVmOw2NeiVuXffrnRQ+LBQl9NCmw4+p1IZMLOmAu5JvNsuV8INRZxdWT9tAV3smeOuZv/RWdOdgvKZYY5ZmOggnIYwpahby2afmUcWfrNOyoFsFznUgCam7HDaQWWZcqzlbwJssGoKfO/WdHarOJ4MGrceA7hkYG8lM2SlA43gLzzBU8ha7dtUfIgRg64djgYoKd7fuYbKIqMqzZr3iLjzDw2lUJZsnJkXc2tuAMHAYF2wnEh43jfOLKtnZrnCP+tHs7I/vBhh63cvmLKZovqrGyDP8uBxUR0KOW1V/ctEFTDcw49xp3wRv2txmia7zeu3kj/IzatevEZ/NNEa8=;0ZIx6jWXgUvuyG8FNESY4w=="

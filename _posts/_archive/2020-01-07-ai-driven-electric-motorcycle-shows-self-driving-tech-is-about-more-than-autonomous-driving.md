@@ -4,10 +4,12 @@ title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than
 excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical ..."
 publishedDateTime: 2020-01-07T17:40:00Z
 webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/"
+ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 79
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -21,17 +23,29 @@ topics:
   - AI
   - AI in Autos
 
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg"
+    width: 1200
+    height: 729
+    title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
+
 related:
   - title: "Self-driving cars take over CES: Here's how big tech is playing the market"
     excerpt: "Baidu is developing an open source platform that it hopes will become the \"Android\" of self-driving cars, dubbed Apollo. Microsoft joined Baidu's Apollo \"alliance,\" gaining a channel for sales of ..."
     publishedDateTime: 2020-01-12T00:00:00Z
     webUrl: "https://www.cnbc.com/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
     type: article
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 32
+    quality: 72
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104935725-GettyImages-902802574.jpg?v=1532563703"
+        width: 2000
+        height: 1219
 
-secured: "Y4SCmFG96iN06lFTPnIUk/u4WwpQ1/1rqcjHycgPyIbHO/fUuvQ0n43Tp7z2XsfmC4cbaaPGP173bP9AH5xeOncl39/RpCuUHowGYcidxdmPEOpPjw4xTj6llsts+LtbD7+nA0/ZD328AtOumSsP49OhMG8tN5Hdk7iuaXInsqEh9AKkBploE84D3kkha+deKqh+ZZuhUJwnkxhcBZNNPy77+S6WpSEsnCIkaKHLK00h50hdoOEM/oP5/W+enFQ8bDpJ+aTDUJnlJ5kx77d+RNB581qUoaOSbL6v3gFSvP9HjNgTMB0wjDGI+j38J6nr;1IbLfGP+rxNltRPB7cPKww=="
+secured: "9i+Z/7rHMy345Mne5iziLy3OrNImUoK9M1YLegz7JT/zT4XZHNIbx+Ra9CFVs1xIrshGnYbvcauKRmo4hC3PLtqV2Pag17FFomVkIcHwmJjZHYqXt9mx7PZjcTxs1DlVHtYTfDCRo4kqiRQH/rSe49VsdXugf2H7zCrw3sTowN2SLGm4aTxOmEOigUStpX4Qf6LVvHUxDN5I2Ba9xfrPfwq+J9+vN3sYs3wnLy3fxPLjxP3i/gi53A+KVBXsDgFWLP3mq5TBk4g9Gf2yMwVxtMq0wtdeSpDeWFfX6eyXHLaFUBZUBcZyouKExiF7GVUq;c5xNFWud6LyZU7LL8E8xvA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recogn
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
 type: article
 quality: 74
-heat: 294
+heat: 234
 published: true
 
 provider:
@@ -26,36 +26,6 @@ images:
     title: "NYPD pushes back against facial recognition ban"
 
 related:
-  - title: "Massachusetts Communities Remain Leery of Facial Recognition"
-    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
-    publishedDateTime: 2020-02-03T21:46:00Z
-    webUrl: "https://www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
-        width: 1119
-        height: 630
-  - title: "Lawsuit filed against facial recognition company CPD works with"
-    excerpt: "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ..."
-    publishedDateTime: 2020-02-04T00:24:00Z
-    webUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/"
-    ampWebUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
-    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
-    type: article
-    provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 74
-    images:
-      - url: "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 675
   - title: "Chicago police: Facial recognition adds “jet fuel” for criminal investigations"
     excerpt: "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ..."
     publishedDateTime: 2020-01-31T20:56:00Z
@@ -189,19 +159,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg"
         width: 2880
         height: 1800
-  - title: "“Coded Bias”: New Film Looks at Fight Against Racial Bias in Facial Recognition & AI Technology"
-    excerpt: "So, this can be around perceiving the world, so computer vision, giving computers eyes. It can be voice recognition. It can also be about communication. So, think about chatbots, right? Or think about talking to Siri or Alexa. And then, another component to artificial intelligence is about discernment or making judgments. And this can become ..."
-    publishedDateTime: 2020-01-31T13:15:00Z
-    webUrl: "https://www.democracynow.org/2020/1/30/coded_bias_shalini_kantayya_joy_buolamwini"
-    type: article
-    provider:
-      name: Democracy Now
-      domain: democracynow.org
-    quality: 44
-    images:
-      - url: "https://www.democracynow.org/images/story/25/51025/full_hd/SEG2-AI.jpg"
-        width: 1920
-        height: 1080
   - title: "Police Use Of Facial-Recognition App Comes Under Fire [POLL]"
     excerpt: "One attorney general has prohibited police departments from using the app. Should law enforcement be allowed to use it?"
     publishedDateTime: 2020-02-01T14:42:00Z
@@ -256,19 +213,6 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/eu-ponders-temporary-facial-recognition-ban_1500.jpg"
         width: 1500
         height: 860
-  - title: "Facial recognition in civic polls yield good result"
-    excerpt: "The Telangana State Election Commission has come out with the results of the “Facial Recognition” trials it conducted during the recently held civic body elections. According to the data released, the tests have yielded an accuracy of 80 per cent meaning that eight in every 10 people were correctly recognised by the application used on a ..."
-    publishedDateTime: 2020-02-04T13:23:00Z
-    webUrl: "https://www.tribuneindia.com/news/facial-recognition-in-civic-polls-yield-good-result-35824"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://cms.tribuneindia.com/gallary_content/2020/2/2020_2$largeimg_1960177639.jpg"
-        width: 660
-        height: 440
   - title: "Choosing Not to Decide: City Postpones Facial Recognition Vote"
     excerpt: "Springfield City Council in Massachusetts decided to not vote on a proposed five-year ban prohibiting police from using facial recognition technology. A councilor said they’re “clearly not ready for a vote.” (TNS) — After months of discussion and ..."
     publishedDateTime: 2020-02-05T00:04:00Z
@@ -280,34 +224,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "Facial recognition technology poses ‘enormous’ potential for abuse, NDP says"
-    excerpt: "OTTAWA–Canadian police agencies' use of cutting-edge facial recognition technology presents \"enormous\" potential for abuse, the opposition New Democrats say. The NDP is calling on federal privacy commissioner Daniel Therrien to launch a probe into how the RCMP and other Canadian law enforcement agencies use the controversial tool, which can ..."
-    publishedDateTime: 2020-01-28T19:22:00Z
-    webUrl: "https://www.thespec.com/news-story/9833836-facial-recognition-technology-poses-enormous-potential-for-abuse-ndp-says/"
-    type: article
-    provider:
-      name: The Hamilton Spectator
-      domain: thespec.com
-    quality: 36
-    images:
-      - url: "https://dynamicmedia.zuza.com/zz/m/original_/a/e/aec26bdc-72bd-413c-9494-fc91ef7c420b/B881027028Z.1_20200128125040_000_GH1S8UDK.5-0_Super_Portrait.jpg"
-        width: 587
-        height: 417
-  - title: "N.J. lawmakers look at limiting cops’ use of controversial facial-recognition technology"
-    excerpt: "New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill (A1210) in front of the the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
-    publishedDateTime: 2020-02-04T00:13:00Z
-    webUrl: "https://www.nj.com/news/2020/02/nj-lawmakers-look-at-limiting-cops-use-of-controversial-facial-recognition-technology.html"
-    ampWebUrl: "https://www.nj.com/news/2020/02/nj-lawmakers-look-at-limiting-cops-use-of-controversial-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/02/nj-lawmakers-look-at-limiting-cops-use-of-controversial-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 35
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/3DZQJJU2W5HO3A2HL54XPTADBU.jpg"
-        width: 1000
-        height: 667
   - title: "Doha Bank integrates facial, voice recognition into app"
     excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
     publishedDateTime: 2020-02-02T19:02:00Z

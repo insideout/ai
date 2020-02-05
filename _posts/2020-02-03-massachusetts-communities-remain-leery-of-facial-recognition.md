@@ -26,21 +26,36 @@ images:
     title: "Massachusetts Communities Remain Leery of Facial Recognition"
 
 related:
-  - title: "NYPD pushes back against facial recognition ban"
-    excerpt: "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ..."
-    publishedDateTime: 2020-02-02T07:20:00Z
-    webUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/"
-    ampWebUrl: "https://nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/02/nypd-pushes-back-against-facial-recognition-ban/amp/"
+  - title: "Controversial facial recognition company claims it has a First Amendment right to your public photos"
+    excerpt: "Hoan Ton-That, CEO of creepy facial recognition company Clearview AI, made the bold claim on Tuesday that his company has the right to publicly posted photos on Twitter and wielded the First Amendment as his reason. Clearview AI faced heat after it was discovered they had mined billions of publicly accessible images from Facebook and Ton-That ..."
+    publishedDateTime: 2020-02-05T16:49:00Z
+    webUrl: "https://mashable.com/article/clearview-ai-ceo-first-amendment-right-facial-recognition-data-scraping/"
+    ampWebUrl: "https://mashable.com/article/clearview-ai-ceo-first-amendment-right-facial-recognition-data-scraping.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-ceo-first-amendment-right-facial-recognition-data-scraping.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
+      name: Mashable
+      domain: mashable.com
+    quality: 89
     images:
-      - url: "https://thenypost.files.wordpress.com/2020/02/william-bratton.jpg?quality=90&strip=all&w=1200"
+      - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F10%252F4aaadf8a926d46b39e4d6356ddcdf6e0.18786.jpg%252F1200x630.jpg?signature=agz3Wv8-4-Yn4EO3NpvjhHOw8ng="
         width: 1200
-        height: 800
+        height: 630
+  - title: "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos"
+    excerpt: "Clearview AI has licensed its face surveillance systems to over 600 law enforcement agencies ranging from the FBI and the Department of Homeland Security to local police departments. It operates with virtually next to no oversight, claims it’s exempt from biometric data laws, and marketed its tools to law enforcement as a sort of face ..."
+    publishedDateTime: 2020-02-05T04:35:00Z
+    webUrl: "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190"
+    ampWebUrl: "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--51OlzhBf--/c_scale,f_auto,fl_progressive,q_80,w_800/v7g6u3pj00bddvrigfbb.png"
+        width: 800
+        height: 450
   - title: "Lawsuit filed against facial recognition company CPD works with"
     excerpt: "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ..."
     publishedDateTime: 2020-02-04T00:24:00Z
@@ -56,139 +71,62 @@ related:
       - url: "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 675
-  - title: "Chicago police: Facial recognition adds “jet fuel” for criminal investigations"
-    excerpt: "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ..."
-    publishedDateTime: 2020-01-31T20:56:00Z
-    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/"
+  - title: "Facebook will pay $550 million to settle an Illinois lawsuit about it use of facial recognition and user photos"
+    excerpt: "Facebook said on Wednesday it reached a $550 million settlement in principle related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent."
+    publishedDateTime: 2020-01-31T09:41:00Z
+    webUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1"
+    ampWebUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg"
-        width: 796
-        height: 420
-  - title: "Facial recognition lawsuit: Underdog Illinois vs. heavyweight Facebook"
-    excerpt: "Facial recognition software is on the rise, so it’s no wonder why Facebook wanted to include this tech in their platform, starting in 2010. The use case here was to aid in photo tagging. By using facial recognition software, Facebook users were being prompted to tag various people it thinks are your friends. Now, Facebook does give the ..."
-    publishedDateTime: 2020-01-31T17:44:00Z
-    webUrl: "https://theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/"
-    ampWebUrl: "https://theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/amp/"
-    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/amp/"
-    type: article
-    provider:
-      name: The American Genius
-      domain: theamericangenius.com
-    quality: 59
-    images:
-      - url: "https://theamericangenius.com/wp-content/uploads/2020/01/illinois-31500_1280-1-1000x600.png"
-        width: 1000
-        height: 600
-  - title: "Proposed bill would ban police from using facial recognition technology"
-    excerpt: "ALBANY — A state senator is calling on New York to ban the use of facial recognition technology by police agencies, following reports that its use is much more widespread than previously known. Sen. Brad Hoylman (D-Manhattan) said recent news reports reveal companies have been “scraping” Facebook, YouTube and other online and public ..."
-    publishedDateTime: 2020-02-02T10:00:00Z
-    webUrl: "https://www.newsday.com/news/region-state/facial-recognition-ban-1.41284069"
-    ampWebUrl: "https://www.newsday.com/amp/news/region-state/facial-recognition-ban-1.41284069"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/facial-recognition-ban-1.41284069"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 59
-    images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.41286231.1580616519!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
-  - title: "Volusia Sheriff’s Office adds facial recognition technology"
-    excerpt: "DAYTONA BEACH — The Volusia County Sheriff’s Office has begun using controversial facial recognition technology that some privacy experts say can intrude on personal privacy. But Sheriff Mike Chitwood said in an interview on Monday that the department is putting in safeguards to protect privacy as it tries out Clearview AI. The company ..."
-    publishedDateTime: 2020-02-03T17:59:00Z
-    webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology"
-    ampWebUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
-    cdnAmpWebUrl: "https://www-news--journalonline-com.cdn.ampproject.org/c/s/www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
-    type: article
-    provider:
-      name: The Daytona Beach News-Journal
-      domain: news-journalonline.com
-    quality: 59
-    images:
-      - url: "https://www.news-journalonline.com/storyimage/LK/20200203/NEWS/200209522/EP/1/1/EP-200209522.jpg?MaxW=600&MaxH=600"
-        width: 361
-        height: 483
-  - title: "Coalition calls for Chicago to end use of facial recognition technology"
-    excerpt: "(CHICAGO) Seventy five groups are joining forces to call on Chicago Mayor Lightfoot to end the city’s use of facial recognition technology. The movement, Press Pause Chicago, is made of labor groups, community organizers, civil liberties organizations, and technologists. They’re reacting to recent reports by the Chicago Sun-Times that said ..."
-    publishedDateTime: 2020-02-04T18:51:00Z
-    webUrl: "https://wgntv.com/2020/02/04/coalition-calls-for-chicago-to-end-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://wgntv.com/2020/02/04/coalition-calls-for-chicago-to-end-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/04/coalition-calls-for-chicago-to-end-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 59
-    images:
-      - url: "https://tribwgntv.files.wordpress.com/2020/02/capture-1.jpeg?quality=85&strip=all&w=1200"
+      - url: "https://i.insider.com/5e3217765bc79c3a250185f8?width=1200&format=jpeg"
         width: 1200
-        height: 675
-  - title: "Facing facts: Reject a blanket ban on face recognition"
-    excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
-    publishedDateTime: 2020-02-04T09:00:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+        height: 900
+  - title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
+    publishedDateTime: 2020-02-01T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 59
-    images:
-      - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
-        width: 1200
-        height: 799
-  - title: "Lightfoot urged to pull the plug on facial recognition technology"
-    excerpt: "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\""
-    publishedDateTime: 2020-02-04T11:33:00Z
-    webUrl: "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+  - title: "Big Brother facial recognition cameras are watching YOU more than ever right across Britain"
+    excerpt: "The secret expansion of controversial facial recognition technology has been laid bare after an investigation by The Mail on Sunday discovered it is now being used by ten police forces, councils and hundreds of shops. Civil liberties groups are increasingly worried by the spread of the 'Big Brother' cameras which record a person's face as they ..."
+    publishedDateTime: 2020-02-01T22:33:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-7956429/Big-Brother-facial-recognition-cameras-watching-right-Britain.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-facial-recognition-cameras-watching-right-Britain.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-facial-recognition-cameras-watching-right-Britain.html"
     type: article
     provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 59
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 64
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
-        width: 640
-        height: 480
-  - title: "Springfield, Mass., Puts Off Facial Recognition Vote"
-    excerpt: "(TNS) — After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
-    publishedDateTime: 2020-02-04T21:47:00Z
-    webUrl: "https://www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html"
-    ampWebUrl: "https://www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html?AMP"
+      - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
+        width: 636
+        height: 382
+  - title: "How to Tell if Your College is Using Facial Recognition to Monitor People on Campus"
+    excerpt: "The list shows you what universities have publicly said they won’t use facial recognition as well as those that have said they already do or are considering it. Beside each entry is a button you can click on to tweet at that college to express your opinion on the matter. Beyond just a place to tweet your university, the site also offers the ..."
+    publishedDateTime: 2020-02-02T02:35:00Z
+    webUrl: "https://lifehacker.com/how-to-tell-if-your-college-is-using-facial-recognition-1841414325"
+    ampWebUrl: "https://lifehacker.com/how-to-tell-if-your-college-is-using-facial-recognition-1841414325/amp"
+    cdnAmpWebUrl: "https://lifehacker-com.cdn.ampproject.org/c/s/lifehacker.com/how-to-tell-if-your-college-is-using-facial-recognition-1841414325/amp"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 53
     images:
-      - url: "https://media2.govtech.com/images/US-NEWS-SPRINGFIELD-CITY-COUNCIL-DEBATES-POSTPONES-MLV.JPG"
-        width: 840
-        height: 630
-  - title: "Veridium brings facial recognition to all phones in password-less push"
-    excerpt: "James Stickland, chief executive of Veridium, which aims to bring facial recognition to all mobile phones Credit: Veridium A start-up backed by City tycoon Michael Spencer is seeking to bring facial recognition to all mobile phones with a front-facing camera in a bid to eliminate passwords. Cyber security firm Veridium's new vFace system ..."
-    publishedDateTime: 2020-02-04T06:00:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg"
-        width: 2880
-        height: 1800
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--1cJFuGHm--/c_scale,f_auto,fl_progressive,q_80,w_800/pm2nsbcl6nmsxpirnyv9.jpg"
+        width: 800
+        height: 449
   - title: "“Coded Bias”: New Film Looks at Fight Against Racial Bias in Facial Recognition & AI Technology"
     excerpt: "So, this can be around perceiving the world, so computer vision, giving computers eyes. It can be voice recognition. It can also be about communication. So, think about chatbots, right? Or think about talking to Siri or Alexa. And then, another component to artificial intelligence is about discernment or making judgments. And this can become ..."
     publishedDateTime: 2020-01-31T13:15:00Z
@@ -202,60 +140,17 @@ related:
       - url: "https://www.democracynow.org/images/story/25/51025/full_hd/SEG2-AI.jpg"
         width: 1920
         height: 1080
-  - title: "Police Use Of Facial-Recognition App Comes Under Fire [POLL]"
-    excerpt: "One attorney general has prohibited police departments from using the app. Should law enforcement be allowed to use it?"
-    publishedDateTime: 2020-02-01T14:42:00Z
-    webUrl: "https://patch.com/new-york/yorktown-somers/police-use-facial-recognition-app-comes-under-fire-poll"
-    ampWebUrl: "https://patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
+  - title: "Facial recognition coming to Europe, but terms and conditions applied"
+    excerpt: "Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next month."
+    publishedDateTime: 2020-02-02T11:57:00Z
+    webUrl: "https://www.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK_amp.html"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
-    images:
-      - url: "https://patch.com/img/cdn20/shutterstock/57069/20200131/021240/styles/patch_image/public/shutterstock-795306157___31140558320.jpg?width=984"
-        width: 708
-        height: 531
-  - title: "Springfield City Council debates, postpones vote banning police use of facial recognition technology"
-    excerpt: "SPRINGFIELD -- After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
-    publishedDateTime: 2020-02-04T02:51:00Z
-    webUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 44
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QCLDUALHANGKPFFLNERXQHYXQQ.jpg"
-        width: 2016
-        height: 1512
-  - title: "Will Others Follow NJ's Lead In Banning Facial Recognition App?"
-    excerpt: "The New Jersey attorney general's recent decision to ban law enforcement in the state from using a controversial facial recognition technology should encourage other governments to pump the brakes and take a harder look at police use of such software, some lawyers say. New Jersey Attorney General Gurbir Grewal told county prosecutors in the ..."
-    publishedDateTime: 2020-02-03T00:02:00Z
-    webUrl: "https://www.law360.com/articles/1239238/will-others-follow-nj-s-lead-in-banning-facial-recognition-app"
-    ampWebUrl: "https://www.law360.com/amp/articles/1239238"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1239238"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
+      name: Hindustan Times
+      domain: hindustantimes.com
     quality: 39
-  - title: "EU Ponders Temporary Facial Recognition Ban"
-    excerpt: "A facial recognition ban of up to five years is currently being considered by the European Union (EU) amid growing concerns about the potential misuse of the new technology. According to a draft white paper, first obtained by news website EURACTIV on 17 January, the European Commission (the executive arm of the EU) is in the midst of ..."
-    publishedDateTime: 2020-02-04T11:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/eu-ponders-temporary-facial-recognition-ban/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 39
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/eu-ponders-temporary-facial-recognition-ban_1500.jpg"
-        width: 1500
-        height: 860
   - title: "Facial recognition in civic polls yield good result"
     excerpt: "The Telangana State Election Commission has come out with the results of the “Facial Recognition” trials it conducted during the recently held civic body elections. According to the data released, the tests have yielded an accuracy of 80 per cent meaning that eight in every 10 people were correctly recognised by the application used on a ..."
     publishedDateTime: 2020-02-04T13:23:00Z
@@ -269,30 +164,6 @@ related:
       - url: "https://cms.tribuneindia.com/gallary_content/2020/2/2020_2$largeimg_1960177639.jpg"
         width: 660
         height: 440
-  - title: "Choosing Not to Decide: City Postpones Facial Recognition Vote"
-    excerpt: "Springfield City Council in Massachusetts decided to not vote on a proposed five-year ban prohibiting police from using facial recognition technology. A councilor said they’re “clearly not ready for a vote.” (TNS) — After months of discussion and ..."
-    publishedDateTime: 2020-02-05T00:04:00Z
-    webUrl: "https://www.governing.com/security/Choosing-Not-to-Decide-City-Postpones-Facial-Recognition-Vote.html"
-    ampWebUrl: "https://www.governing.com/security/Choosing-Not-to-Decide-City-Postpones-Facial-Recognition-Vote.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Choosing-Not-to-Decide-City-Postpones-Facial-Recognition-Vote.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "Facial recognition technology poses ‘enormous’ potential for abuse, NDP says"
-    excerpt: "OTTAWA–Canadian police agencies' use of cutting-edge facial recognition technology presents \"enormous\" potential for abuse, the opposition New Democrats say. The NDP is calling on federal privacy commissioner Daniel Therrien to launch a probe into how the RCMP and other Canadian law enforcement agencies use the controversial tool, which can ..."
-    publishedDateTime: 2020-01-28T19:22:00Z
-    webUrl: "https://www.thespec.com/news-story/9833836-facial-recognition-technology-poses-enormous-potential-for-abuse-ndp-says/"
-    type: article
-    provider:
-      name: The Hamilton Spectator
-      domain: thespec.com
-    quality: 36
-    images:
-      - url: "https://dynamicmedia.zuza.com/zz/m/original_/a/e/aec26bdc-72bd-413c-9494-fc91ef7c420b/B881027028Z.1_20200128125040_000_GH1S8UDK.5-0_Super_Portrait.jpg"
-        width: 587
-        height: 417
   - title: "N.J. lawmakers look at limiting cops’ use of controversial facial-recognition technology"
     excerpt: "New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill (A1210) in front of the the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
     publishedDateTime: 2020-02-04T00:13:00Z
@@ -308,28 +179,19 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/3DZQJJU2W5HO3A2HL54XPTADBU.jpg"
         width: 1000
         height: 667
-  - title: "Doha Bank integrates facial, voice recognition into app"
-    excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
-    publishedDateTime: 2020-02-02T19:02:00Z
-    webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
+  - title: "Facial recognition datasets and controversies drive biometrics and digital ID news of the week"
+    excerpt: "Facial recognition and controversy around the technology were the theme common to most of the past week’s top stories on Biometric Update. After a few weeks of relative calm for facial biometrics, the biggest stories about court cases, regulation, and market growth were all focused on the same modality; and then there was Clearview AI."
+    publishedDateTime: 2020-02-01T01:15:00Z
+    webUrl: "https://www.biometricupdate.com/202001/facial-recognition-datasets-and-controversies-drive-biometrics-and-digital-id-news-of-the-week"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 26
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 27
     images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
-        width: 620
-        height: 355
-  - title: "Ban cops from using facial-recognition tech, lawmaker says"
-    excerpt: "NEW YORK - Facial-recognition technology is a top crime-fighting tool for police departments, including the NYPD. But one state senator hopes to change that in New York. Sen. Brad Hoylman, a Democrat who represents parts of Manhattan, wants to either ban ..."
-    publishedDateTime: 2020-01-30T03:32:00Z
-    webUrl: "https://www.fox5ny.com/news/ban-cops-from-using-facial-recognition-tech-lawmaker-says"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 4
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
 
 secured: "fTW2+4zYeziqMqU6Q8KZtQMzdl5B/z3d8RZBQ/ZEiflt9QnFrQ5qWLjP5w0Xq118nENaSWdYr9UtktjvzxBUaeFaJSPf2DSlwF3/M1Ye9zTpuRp9REcH2uQzGLZuS9oM+h+HLDygORxdgsShx6TMP77Anbg4LDvvLdUWEp6S0bCrAXjJNDfAw4jHbO+pBvxripIroah7bh+ePL8Tsct7NRn1vKdpMYeKlJgTykiOzeluXgAluJZ0K9rM2/NND9aPAsm7ZjVckfPzD2Oz/4H744EcXZx3JeWF2iYfnNAbwZbC5J5T4cuwktoPW1EVDcWe;NrIL04XGBb2DBucxHmnYiA=="
 ---

@@ -75,11 +75,17 @@ related:
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:57:00Z
     webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
     type: article
     provider:
       name: Mint
       domain: livemint.com
-    quality: 34
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
+        width: 600
+        height: 338
 
 secured: "S5RzNUAqkIA8lAWAcSTmAv6sqWbBTak3HKoJbblR9n47x3ivj6n5zm1eBTHVBcTYyymhwAeaIoFiqE0LLyWZ/fqeynSWHkGWFsTpEBfBoaC9buDa14oZJa1hiLxVlxjaJWFKLzdIJMWoQHRp4WwzJ7AKTjedkVa7EvD6AHGEQ2D+L24+tdEs63NZmG34i7YUGw1aHBeGHcrp9akbCOqAsaPX5aj5QbYpDOMLUUcxUYB42nw5rsEOBo+FHFOGekIM8wafU5ZSMW4jOSjeVAVMXNjXSI2S9KgRVYlAmeat+H/vpJsFLZxu3hpdnlU/tCu47B+sNdTSRBtU27YSLGWWQXWXSArE1QS3XDPHi0LuYxVhbzNiV8Zhw9Kx66HODsHa9vX1X73US4PdWUlAP8f03JkP0mzY1NBuFVdS5A/RMppIa+ffTH1/7hpQ03PRbe/igWeywsm/l+Z+qIO48TkTag==;boZKto+0vkn2ruxoNvfsAQ=="
 ---

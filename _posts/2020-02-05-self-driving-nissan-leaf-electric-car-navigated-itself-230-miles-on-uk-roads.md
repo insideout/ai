@@ -2,10 +2,12 @@
 category: news
 title: "Self-driving Nissan Leaf electric car navigated itself 230 miles on UK roads"
 excerpt: "Pilot vehicles tested on private tracks incorporated artificial intelligence systems developed by fellow consortium member Hitachi ... and a huge step towards the rollout of driverless cars on UK streets. 'This project is a shining example of how the automotive industry, working with government, can drive forward technology to benefit people's ..."
-publishedDateTime: 2020-02-05T09:23:00Z
-webUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
+publishedDateTime: 2020-02-05T13:20:00Z
+webUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
+cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
 type: article
-quality: 1
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://i.dailymail.co.uk/1s/2020/02/05/09/24336994-0-image-a-146_1580895983483.jpg"
+    width: 636
+    height: 382
+    title: "Self-driving Nissan Leaf electric car navigated itself 230 miles on UK roads"
 
 related:
   - title: "Waymo workers complain about cuts to benefits and needles in self-driving cars"
@@ -54,6 +62,6 @@ related:
         width: 640
         height: 300
 
-secured: "eo0e7BqhXusBm38Lsuw5b9CddmzC6IgYEAGdE9kf1pXe8ZcHBvO/Q2KWLPTb8RrvvhKurfbYLlvRNojqD6RNMrrVirInssF5n1pqYxvrY+a0Y42P/0nEflV/IEl+wjgxWGYesR8FPJyvJdxuFv1giDmEacBZ7I7OKI9KzpMZTAfUxn1KY00oQ/XOBdP+0Swp8uHot39uz/W4y20GKG5sWMeQsk7iDH0aao+mNrj3E6c/f4+J8ZbEQ3I5Zi9r8kHfUc9akeUFHWLUlA6i77twYzimX9BKaOELiue06as6RN3Lotr6jyhqZwFUpYmg3x4FMz98rV5KZH9C4+wzscKSMPf0k5+MLsfn5Tg8yYZO7fTxwZh5qWPvGPQYNx7RNw5N5oX3sf98rNzi6gMIJw5Z/qccyKh7TRKbZ/ITCNSMXuJYhLnpbUKfGeT158ejkxppmnHGE/YhR/xuEmNSZzyJu6j812VDpgYWkk2ADG/TsSc=;3v/+fXmr+XrKz+3hX9nf8A=="
+secured: "eOtHycefjOKndJxmvixN9UC+8a5gK0iQGIuWY/MINYVHL6XDsvAqZJICt9DGymmpPrYaF+q+hUD1BXjewcqyo1ejEeUNM+10pn7gkMXsHqdfXXp1HNs7s7gmUXeOxLooJg16u/CmBRc3nIXejgfnHR9vRkKwlIsPhVfuuGAZdgIKFP8naYbUT/Uj8e7yyt2uuO2C8LCN+HM8f9Jl3Da48POeFiQPssn1miR1F91KJP0cMrOJa/1Aw90impeoJ7n0536dp5qpoOJuw+/Yr7zHVpmYX5NogXQFeh6ewuC/zwkVTVIX2eA2zKZUlXTuGz/D;YFMVH+Zk4nguCHmkQYFJOA=="
 ---
 

@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Instagram reportedly generated $20 billion in ad revenue in 2019 — even more than YouTube"
 
-secured: "RHF4GtNCJM9yEpB7q9+5six2D1QhFwKESVVqPDpUG2ti0cj7R+zHvaZXRgfu0t0B6uQpHChiOzLiKhHuB5G4Kw80lY+g/lCilC8JXnSxrBxymmBhfswmbDjA0S80J/ulDgZhDLKQu1KTuh+FnWERYrGWu9phuUjwfuS5sooMJQLlYIAy+ogmBkqdspF9QNdzJSomEjX6/Wco3CPKFWWOMEniS8bffSBfFMENm6vBwCZr7IEick/xjstjMhZyi8SiFN7DcLVJ6wq/kmSIQcCvk3sgfA6x/9Yd9gMBK9TbQwQxnz55MKwR00MNzz3jmhVa1SQ/eDk6B9C3tWVk22pOIg==;NRLK/9hq3YHduQscnkJskA=="
+secured: "lM2jAUEqvr6cpAKSzc3ltABYeqPY2/wT6cXKkW1CJaaZ9pzE0yBfs522gS8Gt3bqJllEZfcMvBGg4df7SP+ItbX8/cOU9DB9ErzNn8l+2xWP0ss2v+yRNDwLPfL/EMyVweFHsFZX0zGl3UFZLuNTNNcKt7G267pkqqTDsEz9gx7TUsWXH9Rd0xj/6IYRlqmlvy89B7VHTqIyWJLkbh0zf+OI+UDr/dFOH2pqDIU+z5gJhes0AdOLoA7kI0jQnDkgaBLiL4a7CApyuYc+vEWpUxrQMJmpqXFZNzC4ItdeyZ21DGJ/k2G6pz3rB+VplXTYLUocm+/it+J9kjy4BGeWWA==;NlxwJmwW82Peth05AlySOg=="
 ---
 

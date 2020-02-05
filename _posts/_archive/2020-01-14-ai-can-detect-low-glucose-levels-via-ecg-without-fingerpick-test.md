@@ -35,16 +35,7 @@ related:
       - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
         width: 675
         height: 365
-  - title: "NO Fingerprick: AI can detect low-glucose levels via ECG beats"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
-    publishedDateTime: 2020-01-21T08:28:00Z
-    webUrl: "https://medicaldialogues.in/diabetes-endocrinology/news/no-fingerprick-ai-can-detect-low-glucose-levels-via-ecg-beats-62274"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 19
 
-secured: "M6DSaRCt+2kJTUt3ijCEWoANmFDnhumTSYrvW9qC9VtGVIv9P2FgckgOalWFGjBKqo9lLdQyk3CLH+sm4q+pZTDdLi0a9XjWE+JhFkk/fuF9zniFSPANxurZdQlPibel4JewKnmaTBhuct4Qu6pL8hob2lekk4Kgnrjzm5tQknG48IAbw3NoUnMsF/nwOnAWD4eFPjMKY+1auYVcKVVPa7gFJtAnTWAYmpMukgIEa0HzBYv59vz58Hba3BPvVFOqe2R/DWOWXm05CZ8eTN1BiSuu1sGxeFhD7JmJq5ssteuRtK0uvglP1gF381TNCqzJ;FmP0qMfkK3hclKXmMu0EsA=="
+secured: "kS+DSnzeB9LyIZyv2Iya3Q3n0KwJddoXVsI1LgkrWL5cvJ+a9NMux1IHSXpHx5CO7IMgT5E+pzJJzPqUh9EPbYXIUwGQm1ZVvf70AFaqj4OnUKuLyngWy6np684WJRDG1WNMCGp/f1E9+spxyF/NPPUk1mBfbPlXMleNlaL7ybKa2BZKZ7IQELFtZW2zcWwqbfrAOXep0MD7Hi+ngVWPB20ZiRDrY8cmUMSO0TziX8kEJSjesJZFygQWqcY++NJp2lfCK+gIMYCQcTtATCUI1LzFVqMVVuUYC+FgYkdELfl/JPzGz6BIa9u7PpvxCL/A;XKRjywmjCmjQYoH2geEKvg=="
 ---
 

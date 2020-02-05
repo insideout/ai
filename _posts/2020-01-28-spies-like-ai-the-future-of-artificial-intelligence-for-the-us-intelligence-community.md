@@ -2,10 +2,10 @@
 category: news
 title: "Spies Like AI: The Future of Artificial Intelligence for the U.S. Intelligence Community"
 excerpt: "But concern is rising, in 2017, researchers at MIT showed how easy it was to fool neural networks with 3D-printed objects by just slightly changing the texture. It’s an issue that some in the intelligence community are beginning to talk about as well with the rise of new tools such as general adversarial networks. The National Institute of ..."
-publishedDateTime: 2020-01-28T15:00:00Z
-webUrl: "https://www.nextgov.com/emerging-tech/2020/01/spies-ai-future-artificial-intelligence-us-intelligence-community/162683/"
+publishedDateTime: 2020-01-28T20:00:00Z
+webUrl: "https://www.nextgov.com/emerging-tech/2020/01/spies-ai-future-artificial-intelligence-us-intelligence-community/162683/?oref=ng-category-lander-river"
 type: article
-quality: 47
+quality: 45
 heat: -1
 published: false
 
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-  - Natural Language Processing
 
 images:
   - url: "https://cdn.nextgov.com/media/img/upload/2020/01/27/NGai20200127/open-graph.jpg"
@@ -65,6 +64,6 @@ related:
         width: 1200
         height: 627
 
-secured: "4ToIi8T2oufaKsG8PUZHqBWGHg56cksKLqHIYxpM96fCrLTpMj/JNEGrinqvdRRB/nPL3TWGg11qjllg/NGBdh/YxFKYIbjl/bWoZD2Jk9yCkNdxJAMPAnhZvVQ0OgT72VkKDLjrbZbdgbLo/XU8NPJ2WgT2bt0qDzd/YFZXeQiMCGvovYgbDt4jlNG0mAHgC1ssQ0KAphr8NZ3VuyeXauMEEr5zMhWiQ6/sjYKSwZoIJ20Q6eVQU2FJjynm0uWq/IEBiKPFtocIbGSkQo/7jnVTFrGF1oc7GklRDsvqxcjmTnhZCaMFnUIkuOaPxl27RDjhgyJ65IhI7PokQdsTPEnZvYL7LYw/EY9e1ZH3y3bDJQ46If+e2tMQwKwWvcmrC/hHhjS/cDS5UIWjJ2ZGHjadbDeDMhHQdHbXBMx9MJdZdIoLDGMHaCh8Grny9cyead6l/XqpTjftHtkRxd6j76sq3Y+kLM4areZkHf4RWIs=;d7r0xdw4WYjUfMyaVYpJlA=="
+secured: "zDNW5nfGIG3OvhrlO7HHYinD25IhQoSW629aN7V5yAbJ2j/RNMykTaPiaxPp4DSzp4OAQBOBXeV94u39vOVhiFufDBfygBpfku87TtZIpvYLEHoNU11iL3kCdqqWNMVh2AcE7Qw4Bhh4z8/B0DlcqPxiQC0MG695uCSjmsPQNbMuVbJk5R4G0UdX/VgUMzHNFdi5xVYTzxjZrX99O2htDkU23yA1U1DCpx9O3O47GDhUeyU+6bGlxDFZmcMug5r2oYf8oKYV5MoIUenxFrZPBUs4kcqPlOxlowJ2MndzTYS+CnJvrhEE8cKVSe/zjr7l;UO7/EQYyfju38rWbm3FOug=="
 ---
 

@@ -76,21 +76,21 @@ related:
       - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1"
         width: 600
         height: 400
-  - title: "AI Is Promising but Needs Regulation, Says Alphabet CEO"
-    excerpt: "Among the areas that AI has been touted as being used for are visual perception, speech recognition and language translation. Last year, several Bay Area cities, including Oakland, San Francisco, Berkeley and Alameda banned the use of facial recognition technology by law enforcement officers on the grounds that it could violate individuals ..."
-    publishedDateTime: 2020-01-21T23:44:00Z
-    webUrl: "https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html"
-    ampWebUrl: "https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP"
+  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
+    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
+    publishedDateTime: 2020-01-20T12:36:00Z
+    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
+    ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
+      name: POLITICO
+      domain: politico.eu
     quality: 59
     images:
-      - url: "https://media2.govtech.com/images/connected+city.jpg"
-        width: 944
-        height: 630
+      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
+        width: 1200
+        height: 628
   - title: "The Debate Over Regulating AI Ramps Up"
     excerpt: "In a letter in 2017 to Congress, David Kenny, at the time the senior vice president for Watson and cloud at IBM, wrote that the technology “does not support the fear-mongering commonly associated with the AI debate today. The real disaster would be abandoning or inhibiting cognitive technology before its full potential can be realized."
     publishedDateTime: 2020-01-27T14:16:00Z
@@ -177,15 +177,6 @@ related:
       - url: "https://sourcemedia.brightspotcdn.com/dims4/default/fd1758b/2147483647/strip/true/crop/2009x1055+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F89%2F2b%2F5777b1b2441a87863535bc1883bb%2Fginni-crop.jpg"
         width: 1200
         height: 630
-  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
-    publishedDateTime: 2020-01-20T12:36:00Z
-    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 19
 
 secured: "c7IF9dvR0rULryUoLDcEDhOkz4Ss5+TPdckrousEOIKixwS85h4gGO6p9LGWh1u5/xEeSiO4owrJLfPuYRayY96vlRhwxVl2BCv470k/DeVff2g3Mi4N4UDEfLkl+ddUXk4m164pEDbVMWEqY/vxkUCq3LJdtm4oQ/nB2kiOk8QvEU+IbPyAaCzl97l+cnR3Iw4TAgvISP69XMA7R4bkGn3MkjpHdBbSmYyD71uxEr4kIuU0zeFcVUST9Anh4xebh1qs4w0b2bF20BKHxKusQWGI9w6PH2XGWkjRodDYs1o=;1iEsCsAe2blJTl5+P0Qyow=="
 ---

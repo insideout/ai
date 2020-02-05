@@ -33,6 +33,21 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 60
+  - title: "Self-driving Nissan Leaf electric car navigated itself 230 miles on UK roads"
+    excerpt: "Pilot vehicles tested on private tracks incorporated artificial intelligence systems developed by fellow consortium member Hitachi ... and a huge step towards the rollout of driverless cars on UK streets. 'This project is a shining example of how the automotive industry, working with government, can drive forward technology to benefit people's ..."
+    publishedDateTime: 2020-02-05T13:20:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
+    type: article
+    provider:
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 41
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/05/09/24336994-0-image-a-146_1580895983483.jpg"
+        width: 636
+        height: 382
   - title: "UPS and Waymo partner on self-driving parcel pickup"
     excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
     publishedDateTime: 2020-01-30T17:34:00Z
@@ -46,15 +61,6 @@ related:
       - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
         width: 770
         height: 364
-  - title: "Self-driving Nissan Leaf electric car navigated itself 230 miles on UK roads"
-    excerpt: "Pilot vehicles tested on private tracks incorporated artificial intelligence systems developed by fellow consortium member Hitachi ... and a huge step towards the rollout of driverless cars on UK streets. 'This project is a shining example of how the automotive industry, working with government, can drive forward technology to benefit people's ..."
-    publishedDateTime: 2020-02-05T09:23:00Z
-    webUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
-    type: article
-    provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 1
 
 secured: "Hbt0bLi3iS+/TBPsPoGyhH79j3MImcJeDcodwn69/E+mzIR+a3/AWqrVRZWBRdalDQM7oho0VAD6zE4KdyP/xyYsjp/Gweg58ByPDrDbAN2zurHSZ8tN7aoY3sqbVnubM1JBVmGUY2ZOMFdwDV7y6x38aMP3M+3XUMv1Zo7ZFImlqRVvnjLbP6Uj+YvRu849PO4Vq/46Rz5T6W54Frj1wzdRrgh4dc8vZJcgul1rP31I1HVXrSHQmMqFTEMxKAmY+Pu58TzIArMXU02Mw5LRYapCW2h7v00+8qq1nJ93VUOHDhJlE25xpAdix4GjwTNddKeb9mb7qn9JNwr9R5o4BEJzwq/ll7e7y+0uixoJ9JkC+zw9DvxhbmtKN1lsqyXbmuaRRIibDvGF4lPc+K0ALzjbg4HPJkwTQBOq1LF+bXOnWdiYWj+cfDBkpcnR8Iu4p6j6O85SllT1d8JkZc95ISiBA4oA4BWV0DEXII7FLLs=;Ccnsxd1T6ws8atc+jNILuw=="
 ---

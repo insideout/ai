@@ -492,21 +492,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1192370013-760x380.jpg"
         width: 760
         height: 380
-  - title: "Facial Recognition and the Danger of Automated Authoritarianism"
-    excerpt: "The company is, however, developing facial recognition software that would make it possible for wearers of augmented-reality glasses to ID folks walking down a street in real-time. Of course, such a technology could easily be harnessed to networked surveillance cameras so that government agents could track where a citizen is and with whom that ..."
-    publishedDateTime: 2020-01-21T22:43:00Z
-    webUrl: "https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/"
-    ampWebUrl: "https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 59
-    images:
-      - url: "https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2020/01/DesignCellsScienceLibraryPhotosNewscom-800x450.jpg"
-        width: 800
-        height: 450
   - title: "Metropolitan Police to deploy live facial recognition in London"
     excerpt: "London’s police force will start using live facial recognition on the capital’s streets, ignoring concerns from politicians, data regulators and human rights groups over the highly invasive and often inaccurate biometric technology. The Metropolitan Police Service said standalone cameras would scan passers-by, searching for people suspected ..."
     publishedDateTime: 2020-01-24T13:47:00Z
@@ -854,19 +839,6 @@ related:
       - url: "https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-  - title: "Need 2 Know: Virus Outbreak, Facial Recognition"
-    excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
-    publishedDateTime: 2020-01-21T21:12:00Z
-    webUrl: "https://cheddar.com/media/need-know-virus-outbreak-facial-recognition"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 39
-    images:
-      - url: "https://img.chdrstatic.com/media/45140c0c-a275-469e-911a-13238dec14ba.jpg?source=web&crop=1200:675,smart&width=1200&height=675"
-        width: 1200
-        height: 675
   - title: "Met Police deploy NEC biometric facial recognition tech across London"
     excerpt: "The Metropolitan Police in the U.K. has rolled out in London real-time facial recognition technology developed by NEC, reports CBR. The implementation “will be intelligence-led and deployed to specific locations in London. This will help tackle serious crime, including serious violence, gun and knife crime, child sexual exploitation and help ..."
     publishedDateTime: 2020-01-24T18:24:00Z

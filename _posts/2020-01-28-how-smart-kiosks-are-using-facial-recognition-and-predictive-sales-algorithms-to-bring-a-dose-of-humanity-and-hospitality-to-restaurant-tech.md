@@ -24,19 +24,21 @@ images:
     title: "How smart kiosks are using facial recognition and predictive sales algorithms to bring a dose of humanity and hospitality to restaurant tech"
 
 related:
-  - title: "Smashing Security #162: Robocalls, health hacks, and facial recognition fears"
-    excerpt: "A hospital gets hacked because of an ex-employee’s grudge, robocalls are on the rise, and we share a scary story about the future of facial recognition. All this and much more is discussed in the latest edition of the award-winning “Smashing Security” podcast by computer security veterans Graham Cluley and Carole Theriault, joined this ..."
-    publishedDateTime: 2020-01-23T09:05:00Z
-    webUrl: "https://www.grahamcluley.com/smashing-security-162-robocalls-health-hacks-and-facial-recognition-fears/"
+  - title: "Universal Studios' Secret Life Of Pets Attraction Will Use Facial Recognition To Turn Guests Into Stray Dogs"
+    excerpt: "This morning Universal Studios Hollywood revealed some new details about the forthcoming The Secret Life of Pets: Off the Leash attraction, including the fact that it will use facial recognition technology as well as gesture tracking in order to turn those on the ride into unique stray dogs. What's most intriguing about the new attraction ..."
+    publishedDateTime: 2020-01-22T18:53:00Z
+    webUrl: "https://www.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs?pv=related_list"
+    ampWebUrl: "https://amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs"
+    cdnAmpWebUrl: "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs"
     type: article
     provider:
-      name: Graham Cluley
-      domain: grahamcluley.com
-    quality: 36
+      name: Cinema Blend
+      domain: cinemablend.com
+    quality: 40
     images:
-      - url: "https://cdn.grahamcluley.com/wp-content/uploads/2020/01/ssepisode-162.jpeg"
-        width: 730
-        height: 380
+      - url: "https://img.cinemablend.com/quill/c/a/f/e/4/a/cafe4af26bbaae7202ee6c7b7d447eb9ae15e12f.jpg"
+        width: 1200
+        height: 600
 
 secured: "BrTfUXiSiXWEXCSnkB1ncJs6zkD+9BEQaaJg8TWgtg0Jw4JgWrgGAwjka/EI0J3aN7q8VMKcFtN1l1cuDuebEeaB9R4ogLiypxAisawJJV26ScopUZsmTeWNwhRNOPPuXEOPNophrBCtVCZ7brqRq5k9bslvAYY1Y9o6YjOA6rQRI59tX2H62oOLNG5vWMBCI6wjulrjqU4aC5uZTNBm//LTD/nV+QebXQf1IxzhWM3gH3AI32u0X9cglijaTtZvSiq3WAiSKAqKZHvALExtKD89sJYxckxFI9uPMdmDka3ZmeYhxImTH3CXFVQzD3wul04O0NSp6jV+uHSnh7Fx/q2IqUF3PlwoYlA0yhS3ZbOBhjMTNrik4IFQ4isUpngiGI17mc9FjiDArFP94pPIe3+BLe6BPUEXZMxAUdgKDpRrq08dC6SWocIqsRdnjR9LdZNsKMgzK3GeThgx+wRDDEjRxFnQdW6v6ARk1TgXMI8=;FsrOh5x/Gi08sOH2h8RXqQ=="
 ---

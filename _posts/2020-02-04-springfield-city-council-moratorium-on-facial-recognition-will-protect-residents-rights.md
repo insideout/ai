@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city
 cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/amp/"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,66 @@ images:
     width: 1280
     height: 720
     title: "Springfield City Council: Moratorium on facial recognition will protect residents rights"
+
+related:
+  - title: "Could Ontario police start using facial recognition cameras?"
+    excerpt: "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ..."
+    publishedDateTime: 2020-02-02T18:19:00Z
+    webUrl: "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras"
+    ampWebUrl: "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp"
+    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp"
+    type: article
+    provider:
+      name: Toronto Sun
+      domain: torontosun.com
+    quality: 59
+    images:
+      - url: "https://postmediatorontosun.files.wordpress.com/2020/01/surveillance1000.jpg"
+        width: 1000
+        height: 750
+  - title: "PROFESSOR NOEL SHARKEY says facial recognition cameras sweeping the UK should worry us all"
+    excerpt: "At the heart of this development is something called live facial recognition (LFR), software which can automatically recognise a face in a crowd within a fraction of a second. And this means we can be monitored everywhere we go, no matter who we are with or what we are doing. Facial recognition could strike at the very core of our free society."
+    publishedDateTime: 2020-02-01T22:22:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-7956535/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-7956535/amp/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7956535/amp/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 49
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24180676-0-image-a-22_1580595608038.jpg"
+        width: 636
+        height: 382
+  - title: "Springfield Mayor Domenic Sarno vows veto if City Council bans police use of facial recognition technology"
+    excerpt: "SPRINGFIELD — Mayor Domenic J. Sarno said Monday he is poised with a veto if the City Council votes to block the Police Department from using facial recognition technology. Sarno said the technology, which is not used in Springfield yet, could someday aid in the arrest of criminals and enhance public safety. Citing the recent abduction of an ..."
+    publishedDateTime: 2020-02-03T19:05:00Z
+    webUrl: "https://www.masslive.com/news/2020/02/springfield-mayor-domenic-sarno-vows-veto-if-city-council-bans-police-use-of-facial-recognition-technology.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/02/springfield-mayor-domenic-sarno-vows-veto-if-city-council-bans-police-use-of-facial-recognition-technology.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/02/springfield-mayor-domenic-sarno-vows-veto-if-city-council-bans-police-use-of-facial-recognition-technology.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 41
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GNXD2DF67BAWFK25T7SGYLMFAY.jpg"
+        width: 2127
+        height: 2072
+  - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
+    excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
+    publishedDateTime: 2020-02-04T11:05:00Z
+    webUrl: "https://www.wymt.com/content/news/Hardin-County-Animal-Care-and-Control-adopts-facial-recognition-tech-for-lost-pets-567547981.html"
+    type: article
+    provider:
+      name: WYMT
+      domain: wymt.com
+    quality: 33
+    images:
+      - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
+        width: 690
+        height: 388
 
 secured: "ABKe4+tTCVZlSACIzhqXmiAYKJ/lw7VXdHDU0mymd2hTHDXqtipkwUNh11Qf6B0Iw9lxCoXUbBQGkGNWwWXxmiYEeNQLBTqm06Nbik+K8a/UPu2c0QxqCIEK2bHqfpWkAbe3sKlYZN12ynwE19ssaA9AiRXRRcOWtbhu7Db/z2W3IL+2ZP79+gPUNEB202/7PtRTXZPuUJqNQw4Hlu29Ev7YuQkFamPcZT0IZ2u1n63lnTEZlWVSn2Q9XEZFBfwC/QnDnVK76Z3FzDeUt55S8erGjfhpFvIUQtL2JZKu0n08Xw5/0GBHz/cTxQ9mXcIafqhpheTB8J7kAFDr1+PsWQ3s+d7iLSprnYF9y2uHJSQkw+Ck7AvJO+GUqAeiv1BbPp/KFCNnQaEqAlAgyBK3XVPAsjtHbDAXYYequarWQ2pzOKH89pRe4DIJNyWDKcw8tw8OBge4Bvtx3lrHqU3ec5Q7mmBtot3AstIlFWX/fuE=;YjsgcShE9Vq1UF+/Ro1Wvg=="
 ---

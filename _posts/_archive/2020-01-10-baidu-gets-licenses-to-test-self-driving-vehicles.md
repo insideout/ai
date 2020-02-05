@@ -5,8 +5,8 @@ excerpt: "The tech giant is one of the first companies in China to be given gree
 publishedDateTime: 2020-01-10T05:50:00Z
 webUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,27 @@ topics:
   - AI
   - AI in Autos
 
-secured: "aTzrYoIB0JLFXNUhi9kyKaa9RUxHtrUBiIi2mFsBzxYU8g3/Fg9c0tNZirnYHoTOot7X76NMEz7kLU275OAdri118yfzaoxJRzyriA5n4Org6pK8nTIRXJtQH2pBmg1wIZEzGJ47yWUop7GJfnXPLqUa+Y7oRrS/1WNMpA7iDVm6K/Wq29bUQ+wyFJeYLpGIdmT8piVOSaRQKWOEUr6oMx+8QmSHXft0hO4lMXYcrIKPIUgdUQlII3/vaHjK5Xe5gDcana85f8NxacAE69JJB6ce999RD9eOf62V7GbfhrVdL5mbf0/sd5YFR7aaSW4s;OhB2EF4J+hnMjDm2xuM1CA=="
+images:
+  - url: "https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg"
+    width: 1200
+    height: 800
+    title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
+
+related:
+  - title: "Booming self-driving a big cake for Chinese, foreign companies"
+    excerpt: "In September 2019, several tech companies including Baidu obtained a commercial license for self-driving vehicles issued by Wuhan's transportation department, followed by Beijing which issued 40 license plates for Baidu's autonomous cars carrying ..."
+    publishedDateTime: 2020-01-06T13:48:00Z
+    webUrl: "https://en.ce.cn/Business/topnews/202001/06/t20200106_34055142.shtml"
+    type: article
+    provider:
+      name: China Economic Net
+      domain: en.ce.cn
+    quality: 24
+    images:
+      - url: "http://i.ce.cn/english/main/latest/202002/01/W020200201381229616296.jpg"
+        width: 319
+        height: 220
+
+secured: "n9PmRi4/r429kFOixaZMy3bJMYa9cGQS6QybZj7RJ6liZiDsYLvoKE777MkjNitFDdBjHVknSZc7azzpnSpZCBmWqVLqBMC2rm9q3hx1/eWD8xfJWqpeRMm5cDCgS0w6Ytmu8zLkkYYa/tSeKbgB7Rt+2NNn55d8H9r83cDTlqIqzIG9E7kQ/XuKjH/GrQQyk3LfXc/awFrdhfGD8OF9K+YAkEJvcNADs/DnzMJ7pBL204jrYKlvHh7Y4W0y5djWGLYWKr3d7wKiu7/FHJu3lrImhLwmOndKcLXNz9mYCIAztIJI4ciVxsRr0TyzBpoU;yI6Ee76O6y9oyFHDdV99/w=="
 ---
 

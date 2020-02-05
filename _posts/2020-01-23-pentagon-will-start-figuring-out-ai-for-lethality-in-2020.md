@@ -23,15 +23,6 @@ images:
     title: "Pentagon will start figuring out AI for lethality in 2020"
 
 related:
-  - title: "Preparing For AI Ethics And Explainability In 2020"
-    excerpt: "After racing head long into creating complex models, companies must take a step back to provide explainable and ethical AI. Fortunately, researchers are providing new tools to help demystify complex models."
-    publishedDateTime: 2020-01-21T21:23:00Z
-    webUrl: "https://www.forbes.com/sites/maribellopez/2020/01/21/preparing-for-ai-ethics-and-explainability-in-2020/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Pentagon will start figuring out AI for lethality in 2021"
     excerpt: "“We are ready to start our first lethality project next year in the joint war fighter targeting space,” said Department of Defense Chief Information Officer Dana Deasy said in December in an exclusive interview with sister brand Defense News. This vision will be carried out by the Joint Artificial Intelligence Center, the military’s AI ..."
     publishedDateTime: 2020-01-22T21:40:00Z

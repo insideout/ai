@@ -23,6 +23,6 @@ images:
     height: 630
     title: "Zero Server Framework Creates Web Apps From Node, React, HTML, MDX, Vue, Svelte and Python Files"
 
-secured: "hgSmuEuMP/noUB9wk8IuKJCD4vUO6riP6ZYWEyOjZ6rqN4Z9Ul45+ffW8YyHjsL2DKTVhi3jHyQfavUUXRaghUdUYLiFfU+Wtt3sSIzZDNLrmmPJCU3lhMjfKTKxX8qXIA/clSbQ37H9/rh0ObcGXLMYjLTgkGnlMgFxixuAe+DADjD6ZPS4Zh6jho17S8aFcW7bY3EMVPz+jFE8N0btcUR1ciQ9wH1iy+F8/G8asNoksv7Y6PF86nHn+G8RXF8rLn/fzt3Z8I35wymVsltcJu8ayOALb6WQFLl6uVkiuoBIyQt/Cuj57cngMHqbluEO;ePnZoi0Im+/+NTlMyx+HNw=="
+secured: "ctS0zCJvq1vFmzriVVB+jltHGmHWVzcn/yuouGdCj464E+LuEU4X5qg3PDyD7m0p4eTAM0c62rl/EVfHgZm7lgZvgYBC8y60yiLJL1ckCCLQ3Xht/UM026VW38NfpKPvDiatCJuLp5lapV3HTQxRAv/DNPfouY4U8u8Wq/0qRQoPwWH4CwYMdJtuXSrQF81Q8sESKdGH8xPNZFhYqTQJy5yMbbn45UNS7kkEv+9AJqW9RVWVAvQKNWChgbSZ9Ou1+DmMeB+5RMlgBd/QAanbJKIGpgfZ6P6IgIKgEu9d6Yio488B/pZSi371eU5RlqFhm2fSpGr+ngXK8oPJxh5Hgp8nDg664Cy6onoV9aXhfL4J5ZAIZWtbRhcS0ez3gfAIiAoAk8lVRiPSgjZWpk/gEHOaL36K0NbOIyQ/w/yNOTqUXbrnyJdGBRvmUiHQzI+sX/pfnELZwk0MaWSupYVvjrrij6+4r6mO6cPntxQwchE=;GkLmfqmr0miCfpRpnuGQ4Q=="
 ---
 

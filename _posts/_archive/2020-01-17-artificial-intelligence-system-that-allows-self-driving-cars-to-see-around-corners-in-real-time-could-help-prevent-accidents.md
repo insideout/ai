@@ -4,9 +4,11 @@ title: "Artificial Intelligence system that allows self-driving cars to 'see' ar
 excerpt: "An artificial intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents, according to its developers. Researchers from Stanford ..."
 publishedDateTime: 2020-01-17T09:32:00Z
 webUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
 type: article
-quality: 0
-heat: 0
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "TwaQvTXpKX8mKMVQmDaJmU8BE1kwF5oWyRJDrENVwgXM7dcg5bVk84B1rGy9m1IYYknmTi5ry9Z4vi8/sIUelnad08z+I4JsZ4/HVpWM/CC0coY6UtqvZoHBWo7nLuHeZ6nYyrRas1IUSnd1Db/SkX0eMo+W4Zxuw+ORyJlHK7NGKd1OMTojFln3S59xg6fh1TwGwHp70t6SeLUXJypkptLzpJsxhp7d8VX7KwrVY6LvNeajA71LeIq8t+K47ONYAn95ALGNUDgIUp7UVPWwoqI3pAZuqhWUdPlPEvcg78m6WXg4Fx0idxNn9Fr+eM5v;Z6B5Wq8QpvukhE3kGFaPAQ=="
+images:
+  - url: "https://i.dailymail.co.uk/1s/2020/01/17/15/23528232-0-image-a-10_1579275858378.jpg"
+    width: 636
+    height: 382
+    title: "Artificial Intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents"
+
+secured: "yVoRWAsepft6aSaj1YbRBiFtI3G5dtq4mDJEkAqHItacUsq+0CYMQsyutpH2tJhcArOSpynAoQQsZRiZ6QKPY6NKb/U2HeKZ+pFwaQaPWjq9SFyjVqXLQfO+6oBnvjMtcRNA71LMmw9aG9GfOaw/CAf+Hvyhk1A3IxjSsOJlGxD0ovdlBfrYbd3+MkaHNsJiVSD/n8a/w3yPIjjawYdzpX6r34RrsyLVo34lffz/9jfJuQRi4iHV1MG+8Rjl2BbcYU0N/wtAGasUQjBDd8sUhNCn6+3AZCINcfZQgB7WWZn0wnxE4JEAi42UcoSHqTHo;Vh0cbT5F/tRSKrjQDKUlOg=="
 ---
 

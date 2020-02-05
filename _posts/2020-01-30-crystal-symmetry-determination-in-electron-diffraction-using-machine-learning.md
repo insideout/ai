@@ -48,6 +48,19 @@ related:
       - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
         width: 900
         height: 300
+  - title: "Novelty speeds up learning thanks to dopamine activation"
+    excerpt: "Novelty directly activates the dopamine system, which is responsible for associative learning. The findings have implications for improving learning strategies and for the design of machine learning algorithms. A fundamental type of learning, known as associative learning, is commonly observed in animals and humans. It involves the association ..."
+    publishedDateTime: 2020-02-05T16:07:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/vfi-nsu020520.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
+        width: 900
+        height: 300
 
 secured: "xVxk760hYbYwnac2R5w4G2hk6k/IJsFzI5BlEwME50Vpmyyejzn5lSLhxXl/O7VtZATqYiCr6e3bmZMXK9THBLKnur37/SYlWK2hsvzNr6M1n6+6+ngj3+Yiot+9VCtJnQA+doA6hChEgdIi5NVEN/6pnrHADDtYxSwW6YsXSvW4M8Vu+CMdUlu6m5HeMJNJS1gUefsfQaIEtmo5/jFyvzghPiyuoTK2OdsucBS0LFsAhaVSMEN0hJe/6Hl+9h5B5J3ZW6DfrLjsGIX5mpYryc/pK3wK1iNNo1Ubpo0JMNI4jqjgn9vDA9Ps/KwAifkvX3H+I0W0eJxZxorR3tdKf7qdAv9TdVVBFbNTwp0kyloipyedv6jF0qQ1Fc/AuCbrsPBl4RH4J42JMNPyIDeA9E4yB9c7q0Pxeno9FPoMSZ2iKnuYwVcpKrvQPSsv71CDilmXFiY0FeTVozNah6pdJGcx47rVqEyeu/IxKlKRVeI=;66EfZqYWD4L8w0wfnApcuQ=="
 ---

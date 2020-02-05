@@ -18,66 +18,45 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Big Brother facial recognition cameras are watching YOU more than ever right across Britain"
-    excerpt: "The secret expansion of controversial facial recognition technology has been laid bare after an investigation by The Mail on Sunday discovered it is now being used by ten police forces, councils and hundreds of shops. Civil liberties groups are increasingly worried by the spread of the 'Big Brother' cameras which record a person's face as they ..."
-    publishedDateTime: 2020-02-01T22:33:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7956429/Big-Brother-facial-recognition-cameras-watching-right-Britain.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-facial-recognition-cameras-watching-right-Britain.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-facial-recognition-cameras-watching-right-Britain.html"
+  - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
+    excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
+    publishedDateTime: 2020-02-04T11:26:00Z
+    webUrl: "https://www.finextra.com/pressarticle/81357/veridium-rolls-out-facial-recognition-tech-and-behavioural-biometrics-product"
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 64
+      name: Finextra
+      domain: finextra.com
+    quality: 36
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
-        width: 636
-        height: 382
-  - title: "Volusia County Sheriff's Office now using facial recognition software"
-    excerpt: "WESH 2 News looked into controversial technology that could help catch criminals: facial recognition software is being used in Volusia County. WESH 2 News got answers on how it works and why Orlando police decided against using facial recognition permanently."
-    publishedDateTime: 2020-02-01T03:30:00Z
-    webUrl: "https://www.wesh.com/article/volusia-county-sheriff-s-office-using-facial-recognition-software/30735498"
-    ampWebUrl: "https://www.wesh.com/amp/article/volusia-county-sheriff-s-office-using-facial-recognition-software/30735498"
-    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/volusia-county-sheriff-s-office-using-facial-recognition-software/30735498"
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+  - title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
+    excerpt: "Online dating giant Match Group is launching selfie biometrics to help protect people using its apps, partypoker is considering the technology to curtail bots, multi-accounting, and ghosting, local elections in Kompally, India have authenticated voter identity with facial recognition through a smartphone, Alipay technology is being used for car ..."
+    publishedDateTime: 2020-02-03T20:25:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-to-verify-dates-gamblers-voters-car-rentals-and-online-exam-takers"
     type: article
     provider:
-      name: WESH
-      domain: wesh.com
-    quality: 59
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 25
     images:
-      - url: "https://kubrick.htvapps.com/vidthumb/c053f844-28fb-4ff3-b897-d13cc9cf6a2a/c053f844-28fb-4ff3-b897-d13cc9cf6a2a_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
-  - title: "Could Ontario police start using facial recognition cameras?"
-    excerpt: "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ..."
-    publishedDateTime: 2020-02-02T18:19:00Z
-    webUrl: "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras"
-    ampWebUrl: "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp"
-    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+  - title: "Advocacy Group Warns About Facial-Recognition Tech at Florida Universities"
+    excerpt: "The U.S. Department of Homeland Security uses possibly illegal technology to scan the faces of departing travelers at Miami International Airport, and the Miami-Dade Police Department wants in on a facial-recognition database that studies have warned could yield false positives. There's no telling where the future of surveillance technology ..."
+    publishedDateTime: 2020-01-31T15:00:00Z
+    webUrl: "https://www.miaminewtimes.com/news/fight-for-the-future-warns-about-facial-recognition-on-florida-college-campuses-11473208"
     type: article
     provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 59
+      name: Miami New Times
+      domain: miaminewtimes.com
+    quality: 22
     images:
-      - url: "https://postmediatorontosun.files.wordpress.com/2020/01/surveillance1000.jpg"
-        width: 1000
-        height: 750
-  - title: "PROFESSOR NOEL SHARKEY says facial recognition cameras sweeping the UK should worry us all"
-    excerpt: "At the heart of this development is something called live facial recognition (LFR), software which can automatically recognise a face in a crowd within a fraction of a second. And this means we can be monitored everywhere we go, no matter who we are with or what we are doing. Facial recognition could strike at the very core of our free society."
-    publishedDateTime: 2020-02-01T22:22:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7956535/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-7956535/amp/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7956535/amp/PROFESSOR-NOEL-SHARKEY-says-facial-recognition-cameras-sweeping-UK-worry-all.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 49
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24180676-0-image-a-22_1580595608038.jpg"
-        width: 636
-        height: 382
+      - url: "https://images1.miaminewtimes.com/imager/u/original/11473392/license-plate-readers-tony-webster-ccflicr.jpg"
+        width: 3135
+        height: 2008
 
 secured: "xphGBWfLMp6wcrisVgucSgG06JdS8nJIfOOS/AQ0DOcf0d+jFtLLuLP3wrxK16TOHCSLaFl/FtHR2tQ2MfLHsbEif+8aat9ow4yBPyQYCYVNbr3PtsAA9AxsOcrSKsMcAKaP7YS8/WyjePW6d1/zzVEiSTmhki03xr2BXVmKCFwqHsS5phHpmp2z/vsZuYbKfifzMkkeAm4LQVU4Hp4cie7ZGJKmCFxx7MOao6txLsOW0u2xhi5toYVD3K8dq2nF7E7RDkOmD2CGcyVJVEoIUxGI4a6NVz5iLDZkgqUeAtn6aC7+bBiRxM3sy80nO4MlbsoNaPe7khUy0LxWPfJ+wYO0f/UvRrVcS2qrV6NgCHFv2rrsjnCTmsfvNFnPR/nw60eZ7vMGtMHHnA/eIsQW05o4gKxNF5ee6brrCmncqeTySEEe24oFLUcmnfN2fVrn7u9306b5PcWrDbkr3ZEB9i6J5gmFKBcBtirG83NWn2A=;1e6XUnlZ8+fZnMZ3orChWA=="
 ---

@@ -18,9 +18,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "http://i.ce.cn/english/main/latest/202001/26/W020200126339295569097.jpg"
-    width: 320
-    height: 221
+  - url: "http://i.ce.cn/english/main/latest/202002/01/W020200201381229616296.jpg"
+    width: 319
+    height: 220
     title: "Booming self-driving a big cake for Chinese, foreign companies"
 
 related:
@@ -38,6 +38,6 @@ related:
         width: 1200
         height: 800
 
-secured: "UzIRSkbosCQ5zX3kZOmWF5PbSRVzqSO0EcYarEdeKT/AtE3XihKMiveHRf6k4IVpeXdusCSQV7BegQs+GYxPJwJg2yIkCHcBlT0h9rXPBH5AuD0EnBF7QVjGT5I5J8wIZtMwG+JBM7lM+XxP58E4kMAe5+iAgvC6U6+18cnJUGROM4Lke5zzXHlJM0tgR5ntKrjrWCNab5TqDSFerBzLtsR3TmDncz4NOPlZAZT5VFy1otW1r7Vy/93GFBpE4TQqR0EBUi6Y8CFmRK5Dn3HMiPsgz7oaNvlYmqMWdYlrKMGUBgmJzUBos5PbgXSgD/ay;CnW7A4f9jlfZy9mDdPiEhw=="
+secured: "Le29XiSh0PnuGcAd6/gCgD2b8XECR9IHarMbKtSa7tzQl5NBvPTLm7dq5yaAt98z4K7gnLY4GUtgLobIk5Gy+HSRtycPW8oaiDrJudxa43MCSVYt92tJfYx6adE4crYcZVxcVrUReLgmapqU6bGzAXi6mf5L958vTYfjuCOUI2Z4+EuEiItqq4HY0F6xE5tr7gLvbjuo3k9bwGfDzCfJAtsb5X9+VGMFvcLpeE3juw7RUfzGRydrCjld3Uh9+tAuZi0TXr95WIquambufJvBcvUBgDppCjlc1v6PtiAHFaCKQzqgKs0g7ZpaTbJHcENa;J1lUQzcmejl4wRj8WXkTGw=="
 ---
 

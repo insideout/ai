@@ -4,8 +4,10 @@ title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
 publishedDateTime: 2020-01-20T12:36:00Z
 webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
+ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
+cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
+    width: 1200
+    height: 628
+    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
   - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
@@ -76,21 +84,6 @@ related:
       - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1"
         width: 600
         height: 400
-  - title: "AI Is Promising but Needs Regulation, Says Alphabet CEO"
-    excerpt: "Among the areas that AI has been touted as being used for are visual perception, speech recognition and language translation. Last year, several Bay Area cities, including Oakland, San Francisco, Berkeley and Alameda banned the use of facial recognition technology by law enforcement officers on the grounds that it could violate individuals ..."
-    publishedDateTime: 2020-01-21T23:44:00Z
-    webUrl: "https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html"
-    ampWebUrl: "https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/connected+city.jpg"
-        width: 944
-        height: 630
   - title: "The Debate Over Regulating AI Ramps Up"
     excerpt: "In a letter in 2017 to Congress, David Kenny, at the time the senior vice president for Watson and cloud at IBM, wrote that the technology “does not support the fear-mongering commonly associated with the AI debate today. The real disaster would be abandoning or inhibiting cognitive technology before its full potential can be realized."
     publishedDateTime: 2020-01-27T14:16:00Z
@@ -187,6 +180,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "qWozda/s1YAi5Ae2D1Thr/Wdf7pVb5V7hjf8fDlvcBTPUc+qJNTHgMxbpWIaMYMqvZw6XBK/hczNTn06UusnSveuMX9W6eQGGdNaO/gGOJddVSbr1SUoJQ9ZpPrOsl17UMFtxr5clVeZ5JLfFuLeBliLXp03jLuE+wnf6mCtIW0DtU58QDJTDvOb5gTDwjA4NpOA3tnLBUCqSDTFbci+mMLFpJATQCrhIUlWn4CUYutsF8jX2wJF5TUfRT5oTQ+sfUw0oOCvhULO4ugTKVq55cwqLGZ6Cf9A0d/pRpe36AtXjXtFs1SVZVaH1sYvRLoCWrvdWVjBrnO7RDdhylQi9j7wAMb4qzypw7wT52r4fB9SGCRSnYZX9sg1hJ+R8KIa44kv4XK5tmGB8nLkIE9/B5JT+J2njBpcS6OWbwm7J3jhuxQbsZrxv8f3Wq5yf4WVEQM1k+hCJXFYR6DdjNYF6PcZakjgPk3s3EX/f7De+Jg=;yXc1tMroy/VLEK9BdlcVDA=="
+secured: "VzRnk87ALPFvx6K5roMSciDZteiMw5lvAbRbyF5jIShzJsf1IK/CLiv2Ej06J3RPL60JajjNmXHDvIAkkBKCAQeRT8SKO4neUT7/353inWxwQMqyhW/cMO1F5gTCw+vLWUAzBbM3UM+nuwXB4Tyj23tuS56GNdn6BdHdBulmiZiqmHR0jRm16NssywPVM5R97RDTDlWIr22jOu2+E5yY/I1oPybaV29fS59BWPgqNS4zK4aAObOlJLtxOV4p0eEOnxodPW1ZyE3wPDK9kbrLC+fZCzfCNLJDrgXtyJVG1Txly33YLR7hHsP+mnbmM7WA;oAZlFnBSt/km/1pzUaqoqA=="
 ---
 
