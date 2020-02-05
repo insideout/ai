@@ -21,4 +21,5 @@ services:
   learning: https://insideout.app/ai/api/learning/machine-learning/
   projects: https://insideout.app/ai/api/projects/machine-learning/
   people: https://insideout.app/ai/api/people/machine-learning/
+  companies: https://insideout.app/ai/api/companies/machine-learning/
 ---
