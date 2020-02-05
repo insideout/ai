@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-elect
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
 type: article
 quality: 79
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,36 @@ images:
     height: 729
     title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
 
-secured: "+JK5xPqr55slvQHtgdL3I89VcKMcmsodbiZWkHz6zDjgV/n2yiMeAUn0EHo1AlJT7Ift/biA8iDIdAr6IrebD+JC7UjIgt61naT9kWWf5vi8mtsgt/2eKFe2u7gASQ5uRFxiTEpKGg/KYEeEK3DNUrCxEEWAg2v50C49g6XmfgVfNdfJbgW6W9Fmx77nfq+S5HWk4WzAo2nqYIGHoFjDuZ9h0m2uxh0i7qH4EcI1HCGIsGBXRKESbDf3Tc/PS1P+mFO5qksdU57Z4KKefIkk7CZOGwNwiEp3YmE7dwZZ88W6vpqAVU50AfI3ZMev3VOM;4svvx4C+W/XtYvbqkVihDw=="
+related:
+  - title: "Self-driving cars take over CES: Here's how big tech is playing the market"
+    excerpt: "Baidu is developing an open source platform that it hopes will become the \"Android\" of self-driving cars, dubbed Apollo. Microsoft joined Baidu's Apollo \"alliance,\" gaining a channel for sales of ..."
+    publishedDateTime: 2020-01-12T00:00:00Z
+    webUrl: "https://www.cnbc.com/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 72
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104935725-GettyImages-902802574.jpg?v=1532563703"
+        width: 2000
+        height: 1219
+  - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
+    excerpt: "Its foray into safety-autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Tesla and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
+    publishedDateTime: 2020-01-09T18:30:00Z
+    webUrl: "https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/qualcomm2.jpg?itok=5ZO9Ahao"
+        width: 470
+        height: 246
+
+secured: "To1CyqCKu+aOB5zPBT4gIp4YnCa/LZSQn7MRK/GxSakwmbgVFOo0c3FSQQzUgi0l7lrK16mFkCljOTb6RxZki6sCRtg22+5l4z7y6sQhnlUqVjluRK7l5AW86sMJhTOaUZ8HHxTGD3kbBUFYuW2QFvnZyBiUO98l4X6iccKQnTbqk5+LGh1DV70x5l3Y0mIrb1rmruBGj9auq49drTA2P2v/gJGdd+mWNqoDkcewrFdCCLesRMD/sFFh7wqJX7KxDO+WGuhDTvU1Js9Fgk/+7+IBqbiwB2XDhN90nfqipfzgX4d7jHezxQD6u5Ep3FEP;keOy4j5LLRUoRJBu81WaNw=="
 ---
 

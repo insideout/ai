@@ -25,21 +25,6 @@ images:
     height: 836
     title: "New Tech Lets You Test Your Blood Sugar Without Needles"
 
-related:
-  - title: "Sensors and AI spot low blood sugar without needles"
-    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... data would not give the same results. Personalized therapy based on the new system could be more effective ..."
-    publishedDateTime: 2020-01-13T15:41:00Z
-    webUrl: "https://www.futurity.org/blood-sugar-test-ai-wearable-sensors-2254812/"
-    type: article
-    provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 39
-    images:
-      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/01/blood-sugar-test-artificial-intelligence-wearable-sensors_1600.jpg"
-        width: 1600
-        height: 915
-
-secured: "Nz9weaVbBIkD0HS2CGhDXcnnsMHJZqrSvHSNcMs8xkoQXz+vh3VQFyNG8FLGSRt107em4lGnafNelvDBQhr1NdoSIYfdWWALkZa9Xt8SzhiKsFBp+HbexKrFPs5e2yWspA0opAvX5BS5K/xEX93dOb74rBx3OlqWtMkBBjOYNzVsIOPLWCLhwcJUe7l+GVbD9x45TzfHMabypvVBNOFMSn8qaI2IHwa/Yh/XHmynv8mU7a8VmNnXY+KLgcwPshbVZLWfNQqXY9VovBcs5vDu1h6w+zrOUjeK+Z/uSV5MyaB2diXMfiUxAAyVSRWIWDau;U1+ID/oro0Axb7a/i2IE8w=="
+secured: "KIdt1URftbcWo1BloiaFmDBHucG6RM+1BsxzWUpIiYJSH3Ca0YpG9tfe6D6RV3f1iMOyM6fAXm9QimgeWGysIfFvXnVAj5OD9wx+iIk3UPX0d01/EIKbZw8mn0BRHn0WYyvsUhObkUOuAxZVaFXl+bmPIgGYM8NaZ5FPdF4IYDzsBTbPL5/01eqD0iVKOSrAsLCg5F3KMSag5xMAZ9KgFMNMCmgFi0W0+Z3tjDBWFajl8OuPUcQZ92aeMzk/RcQJ0B/2bZRiCeWufCapve3QbTrsy/PZjlTDC1EgV4hZamNF955S1SShY5i6xDKsc5Tc;Pi5L7NZnRTvSHMD6x5JxjQ=="
 ---
 

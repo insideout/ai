@@ -56,21 +56,6 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg"
         width: 756
         height: 567
-  - title: "How Apple’s Xnor.ai acquisition could bring the Siri boost we’ve been waiting for"
-    excerpt: "the A13 Bionic chip already has a powerful Neural Engine, but Edge Ai could bring it to the next level. But Xnor.ai’s Edge AI engine could be the thing that brings everything together. It’s unlikely that we’ll see any fruits from Apple’s purchase in the iPhone 12 or even the iPhone 13, but Apple’s incredible silicon advancements ..."
-    publishedDateTime: 2020-01-21T11:45:00Z
-    webUrl: "https://www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.html"
-    ampWebUrl: "https://www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.amp.html"
-    cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.amp.html"
-    type: article
-    provider:
-      name: Macworld
-      domain: macworld.com
-    quality: 84
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/04/wyze-cam-motion-tracking-100755563-large.jpg"
-        width: 700
-        height: 467
 
 secured: "xUbOtQVKNEfy1jklYerxBHMkNC+gx4EOkncd9M4e7n5m/bDFhkTWBNcd/W4RfDfHJAwDK50PngGGKbXuNGg0tcAZVJsOMjQBWxjQl09vZXVzZ04VC6Jy68oQtrhBntwJg6yKiZUijcpciMKhV1afw8gkXE0Z8GIuinFX5z05uDk+V5DZaxGtvbTuwiU1JcUlQoCArSXGe7drQ38oSrN/UU36fArj5Va5POe/bEMk6C74haohYpg1LVY+8/qynhduR4V+t9kb/jd0YewpEntfof8XXC19RB6Zxall6d0aRgwso/nEd+q71IfRKLnpPriO;TkSixbmtFkskNA8eSdPa/w=="
 ---

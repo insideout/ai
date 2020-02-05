@@ -2,25 +2,25 @@
 category: news
 title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
 excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
-publishedDateTime: 2020-01-22T11:03:00Z
-webUrl: "https://www.techworld.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
+publishedDateTime: 2020-01-22T10:48:00Z
+webUrl: "https://www.cmo.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Australian Techworld
-  domain: techworld.com.au
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-    width: 300
-    height: 300
+  - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+    width: 600
+    height: 246
     title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
 
 related:
@@ -69,6 +69,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "5as6ols9+G2TcwwORNwR322/zZhs6KI80cnujQ7drQ5epW99E9Lq8XWwnsrCx3x306qH9E5jQTf52uUW02yIFn70WWTfwAscPSa7yr5ZRLS628irmRQqq7wFQuk1AzEr9i/SXi++G78Dd305FmTg21fjmAB4cT3tBbcysS/g5nCgJIgNvIpl7sE4dZJodyS9hNa2FZ090fpRgGHZeaQWsZmIMJ4NPdkk4VkS2k20j+DrQ1pSjrtK3A4fAvVc97gCpichDTJqGoEVNkPcE+B/CSU9lOoB7Z23oNbGAa+48iP0F0U5tqVN8veb+pRZmSTh;8SEvPBZjmKMk3LHGneCatA=="
+secured: "j6Xh7sKux/MrS2MxdkD12fx8SQTIwod8qNuAn6umJvxwFDe759EHqLa7KHtkX2WDSvyW95ZNQOHmdbT2sFI4ndO/kyK9sUYPE4cMGpkpz8LjMFmgfCvFwlB9qWQSvlctObakPQ+j5XLYbR3A8lenwgut/jJb9G/L6tAakQc7F2SX4xjFZqolTxidbA03nTWSDVMGC5mVMpdOwqRRfV84ePjBBPuecPmADLdEiU+nj3B0Pz3dHHZ2c+FKtdYcSLEDDSYchA8yTvTZCtbZqGMEtLbr6iA33HejCk69/h9JisP9uKqOjXCohkUWKop6upgx;ZwMr48rBRw8+JyDfAF+/kw=="
 ---
 

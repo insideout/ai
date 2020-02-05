@@ -56,6 +56,19 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/20200131021051-photo-1569025690938-a00729c9e1f9.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
+  - title: "Deep Learning Market Analysis And Forecast 2026"
+    excerpt: "The Deep Learning Market 2020-2026 is a valuable source of insightful data for business strategists. This Deep Learning Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T02:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-and-forecast-2026-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "5 ways Fintech is making Banking more accessible"
     excerpt: "But Fintech has a solution for that, too. Artificial intelligence (AI) facilitated the development of robo-advisors, who can communicate with consumers in real-time, offering financial advice and more. An example is a chatbot, which “talks to” the customer through online messaging. For now, most institutions that use robo-advisors have ..."
     publishedDateTime: 2020-01-28T17:20:00Z

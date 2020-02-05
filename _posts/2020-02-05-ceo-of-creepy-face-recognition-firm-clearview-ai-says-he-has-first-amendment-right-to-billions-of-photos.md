@@ -1,45 +1,34 @@
 ---
 category: news
-title: "CEO Of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right To Billions Of Photos"
-excerpt: "Hoan Ton-That, the CEO and founder of a face recognition company that he freely admits could help lead to a surveillance “nightmare” and a “dystopian future or something,” says he has a First Amendment right to scrape whatever images he damn well pleases off public websites like Twitter to pad out his company’s supposedly three ..."
-publishedDateTime: 2020-02-05T03:31:00Z
-webUrl: "https://www.gizmodo.com.au/2020/02/ceo-of-creepy-face-recognition-firm-clearview-ai-says-he-has-first-amendment-right-to-billions-of-photos/"
+title: "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos"
+excerpt: "Clearview AI has licensed its face surveillance systems to over 600 law enforcement agencies ranging from the FBI and the Department of Homeland Security to local police departments. It operates with virtually next to no oversight, claims it’s exempt from biometric data laws, and marketed its tools to law enforcement as a sort of face ..."
+publishedDateTime: 2020-02-05T04:35:00Z
+webUrl: "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190"
+ampWebUrl: "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: Gizmodo Australia
-  domain: gizmodo.com.au
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/v7g6u3pj00bddvrigfbb.jpg"
-    width: 1200
-    height: 628
-    title: "CEO Of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right To Billions Of Photos"
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/s--51OlzhBf--/c_scale,f_auto,fl_progressive,q_80,w_800/v7g6u3pj00bddvrigfbb.png"
+    width: 800
+    height: 450
+    title: "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos"
 
-related:
-  - title: "Clearview AI - super crime fighter or the death of privacy as we know it?"
-    excerpt: "In a nutshell, the New York Times published an article on Ton-That (and others’ as you will see) tiny company Clearview AI on January 18, 2020 that revealed, among many other serious things, that the company claims to have quietly scraped Facebook, YouTube, Venmo and millions of other websites to assemble a database of 3 billion faces."
-    publishedDateTime: 2020-02-04T15:32:00Z
-    webUrl: "https://diginomica.com/clearview-ai-super-crime-fighter-or-death-privacy-we-know-it"
-    ampWebUrl: "https://diginomica.com/clearview-ai-super-crime-fighter-or-death-privacy-we-know-it?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/clearview-ai-super-crime-fighter-or-death-privacy-we-know-it?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 56
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2015-07/spying-privacy-peeping-tom-peeping-through-keyhole-o.jpg"
-        width: 640
-        height: 473
-
-secured: "/Ic9Z6DRFMYrWvyGieRYncDf29WFJOS2OVw+W44bIQn0+ecYf2tM3Xy3ijZPULVM8cDrk7x5OOUHPHJZxbXm8wffoSd/8DGIPnbLUAVdPlI39jNWUQ9MyDOqbjXsUgQq2R7WYTeun2PHYxxv9N2wy48bDkG+PVhTrhgwgPZRuttVYDXpdZpvKldcpSIGeOaWAwWVqWAu0PyNgTIDlHaHEmR4QCiHnO+HKAckaTyajngzvoJoMgkGDLi3hMx+mnzZxGoNUoPTftvxepUDue6+67A7w1NQ9dpLXt2AS/JSbWWzLemD8Rx6L0leraMI88zc;JrML4GM3242U5Q7K9tPkBg=="
+secured: "Di5x0yNAv3Z6hQtMvMzmINUubpanTw58/K6VuCilLHudq9tzhQyMrsh9FhllunWtI3ttydo+si+JyacD008Y2gn9S+dahjHoSWyaCWgxjOHR/MpXTVLr33Fzp2KES/2jP8Uy0UeaPJ7lB75PhYpXDbcyWGkCqTV2Q8DkH1XDUXREdgooQvwQrkETutCBlxRNdG8x2JqY7b7RMobVRDuHtg9POSYrHqO36DZdhK0Fb0hM10kbPFwHaLNRojKcevYfiWR/3yKD7+iPHeQuj+lRYaKmjX8wE/gd85w9zLcAHYPOSucQxoVhzSm9auW+w9QK;qZd/vbbrJwrqickORR4RKg=="
 ---
 

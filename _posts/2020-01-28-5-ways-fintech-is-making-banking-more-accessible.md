@@ -71,6 +71,19 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/20200131021051-photo-1569025690938-a00729c9e1f9.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
+  - title: "Deep Learning Market Analysis And Forecast 2026"
+    excerpt: "The Deep Learning Market 2020-2026 is a valuable source of insightful data for business strategists. This Deep Learning Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T02:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-and-forecast-2026-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
     excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
     publishedDateTime: 2020-01-31T15:06:00Z

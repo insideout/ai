@@ -57,6 +57,6 @@ related:
       domain: phys.org
     quality: 37
 
-secured: "unf1pYf+onopGyJXzFXNkW9omC/8Yn1lzrvT1TwlJMHBwe2O/AeSekXVqQ5l3/VAiZ1lFLSXH7QdKnFYAWOFdKePJ85FEHfkTmPfPs+AEPoWIzsQhqbRhwhpLSK1b20AX6LBgcKrnoZT3nU4yvR95ml4ju2iWoLI6l/JWc9mIJ7gbTj4XK86PBN5BW02S9bx+TUhyEXyXyFzO4tbChwKLvc51v4WquSjaZDwxVKM8cz71umN9br5zRaghmlI72ebySqJHdWXS4d2rgzzNwd86kdzZK9MDRZsBu0F572hwfc3MEG2hz4c1gaD0awmJxjK;bMFaHNnzxiI/wX3SE8wP3A=="
+secured: "XVzvQUq+qNNzNa0y02djcnDynOegDm+GPjCGraiGXi1pcdeKi6quJimgQNoYTv0V9RA1ZvPJSr4/rs6bb9+bGzn8EoOy+UggGzXV+7ejtQa4cN3me8WE+oP5ZAEjbT/Mtr5vPb+LScr5xcvPb1QZxxtv/BY2zgloaXL+K8yTV+i1ZNR+0W5f4U1/tJoustqjIMRE6JRATa6lK1rG0Y01VYpxkAba0UD1xm7m4cYQjzlam7OoVsbhq46YEScrPkUxPLAoKejBm9wdTiDQHu9sXNxs/UXxXE9DjbfSlbZ0b2iJpVPOn8lfXVapejmdzrJm;l8xFDV99e+miG9O7I2Cpxw=="
 ---
 

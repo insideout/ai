@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-bi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/amp/"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: VentureBeat
@@ -31,19 +31,6 @@ images:
     title: "AI startups raised record $26.6 billion globally in 2019"
 
 related:
-  - title: "British AI Startups Attracted Record Venture-Capital Funding in 2019"
-    excerpt: "Venture-capital firms plowed record funds into U.K.-based artificial-intelligence startups last year, shaking off factors such as Brexit and European data-privacy regulations. U.K. artificial-intelligence startups received about $3.2 billion in venture-capital funding in 2019, an increase of 23% from $2.6 billion in 2018, according to a study ..."
-    publishedDateTime: 2020-01-21T11:26:00Z
-    webUrl: "https://www.wsj.com/articles/british-ai-startups-attracted-record-venture-capital-funding-in-2019-11579602600"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 167
-    images:
-      - url: "https://images.wsj.net/im-145341/social"
-        width: 1280
-        height: 640
   - title: "CB Insights: AI startup funding hit new high of $26.6 billion in 2019"
     excerpt: "As part of an annual look at global AI investment trends, CB Insights today reports that AI startups raised a record $26.6 billion in 2019 spanning more than 2,200 deals worldwide. That’s compared to roughly 1,900 deals totaling $22.1 billion in 2018 and about 1,700 deals totaling $16.8 billion in 2017. The reported high in AI investments ..."
     publishedDateTime: 2020-01-22T14:00:00Z
@@ -59,6 +46,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/AIStartupFunding.png?fit=1200%2C616&strip=all"
         width: 1200
         height: 616
+  - title: "London-based AI startup ChAI raised $1.7 million to address the $60 billion commodity price market"
+    excerpt: "This AI startup draws from reams of data to predict changes to commodity pricing."
+    publishedDateTime: 2020-01-24T10:41:00Z
+    webUrl: "https://www.businessinsider.com/chai-london-ai-startup-raises-funds-from-passion-capital-and-mmc-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+    images:
+      - url: "https://i.insider.com/5e29b5c662fa8143430769e3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
 
 secured: "nWmhNW0G6mkJIABPkqxGPRw9S8w8+cYwqU+NXgX6LJnJO95f2M6CBkb9R4ZJa345clfWHJtv+981OqavgWxZKUkjFahO65yu7yiWtopAhoCDtylKyeb8r5aVQc9FFDm8lBDlHgophbAJ4Ok5bHEpZqA4tKXxFH0Hf3ApRZtQS2AH677aqbSaDCeMAfqJKMBB2C+Dgyz7F4PqNOzTybkqqfI2Jy4RFUY/hahlF+U079vAFO/INf1PX5sZW9RjR+k09n/3DA6y1tXL4Rc0k3qDwkhYYm8W9VU8LyJ+dm5Xcgqaw3cdwOk7BXeG4vUvTn7+/6T34dIm/DxtKkCysSkp6rn6lUn1aE0cBdUd9oavvHfbCGt6tm6M/E60Q2/QiUNMSVzXw3amh+MR5i7I8ZP4ZcQNaIasTyRhXAfT3SNtS6nKjKPrRBXPSls2Uf2Ft2Ld1BK56Wi487nqFTGhID3Z42vXnQv4uLrGo7iUvPv93eI=;H1lkZPox0mLpXS4CMc+bFg=="
 ---

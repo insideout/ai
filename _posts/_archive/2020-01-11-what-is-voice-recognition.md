@@ -41,22 +41,16 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8="
         width: 1200
         height: 630
-  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
-    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object ..."
-    publishedDateTime: 2020-01-09T20:49:00Z
-    webUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
-    ampWebUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
+    publishedDateTime: 2020-01-16T03:17:00Z
+    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1112561213.jpg"
-        width: 940
-        height: 627
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "bsD60lkiH1Y6ZDn2K0GR+E1Gvd8kyRfdcX6h3x16B/SlAuhj6R+cDZKcDABjyg0duuD5eyo5ake70roxPniiwXfPd0w3Wc3uUi2jo1C/OhQxlcNeH+hj6EHX64xB6jIcmO8GppTFBtbGYy3GIGLytnpLZZgbcPtwhgNO6GZTJq47FczohoUUuDjmKW80lglip8zoSm5uWDFImLlsIfBn3De2xy1NCGUTI3UeWrApG7E3Hz5X9KTBzNwgjcfbe62XzKQAWNmB9anptWhA87A9brjQkPSzRtLkPicOoVXZDj8BtK1CBWyz2jaKKR5sAZme;H0W+oP31neA6nFAXMmQv6A=="
+secured: "KMSYRSHttmH/OhHSuNLELm5aEpwyLZFtL6EN0xHL1qt/ArjEZCbaiXEuPtFBaJdwUUab2ijEEoA5tJ2oL1sR3dNhZFDKLc91pklg1SmuJ6TMmE5aAcpjydhcEj4fwCzzjjweMeVq2yYQnlhGxyERJ6u4UeseA8aVBPH79EoZ2nxy7896tVn2fB5fGMayvjm4e3WhBERFIW520ngUp/O4dNA4h8/mUlb24+1/N24MBSkkrBcN7yTxmSxfemCmBVsL4vEiIReemn/XFSCp9/+PDvPZCc3tchZizBw1tjZyzz5V67PCGfIZlMTh5f4jp4sq;zFBvBkTgx8ed1O9arSDEzQ=="
 ---
 

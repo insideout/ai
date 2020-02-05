@@ -2,47 +2,42 @@
 category: news
 title: "AI can detect low-glucose levels via ECG without fingerprick test"
 excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-publishedDateTime: 2020-01-13T16:00:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php"
+publishedDateTime: 2020-01-13T16:53:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/01/200113111156.htm"
 type: article
-quality: 39
-heat: 39
+quality: 49
+heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg"
-    width: 720
-    height: 302
-    title: "AI can detect low-glucose levels via ECG without fingerprick test"
-
 related:
-  - title: "New AI-based technique can spot low-glucose levels without fingerprick test"
-    excerpt: "Researchers have developed a new Artificial Intelligence (AI)-based technique ... Basing on this information, clinicians can adapt the therapy to each individual,” the authors wrote."
-    publishedDateTime: 2020-01-15T10:18:00Z
-    webUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/"
+  - title: "AI replaces prick test to detect blood sugar levels"
+    excerpt: "The novel artificial intelligence system works as well as ... Hence, personalized therapy based on the system can be more effective than therapies used today. The new approach was able to ..."
+    publishedDateTime: 2020-01-13T13:28:00Z
+    webUrl: "https://www.news-medical.net/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
     type: article
     provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 17
-  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
-    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
-    publishedDateTime: 2020-01-14T13:07:00Z
-    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 13
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2020%2f1%2fleandro_ecg_63c541f952b746b48ff02d36b07911ca-620x480.jpg"
+        width: 620
+        height: 480
 
-secured: "B2tPZy5M8Jn11SXeQbuKNs4SZ68fP14nxcQeLkQqyaG+Zj8z3fDuC8fAjVXNU7vdLea+6ZDJaJ3XJ+RKt7z+7e/gSc+TBEadXNjts8d+u5fM/qy3pia7ONvN66HJF+Ui9iWIAiG6TAzmzQTgk5aOu+dcXuj/WDN0kOj/guwCDWTkmjhiCth7D88hCnm74VBrrGkLKyhgaRNwEeSoCx4RQvPx3ri7H85deZfgvWrR3xluNDARjE12EEPsfStBC0sQssQIp7YO3vclYaSCVfCuYoW5xAgQ8uuPTPjYy8cGw8VVkWQmRU/DOToCvF2dUxrD;qzNiobmvHXc2U4i3O6Q+6g=="
+secured: "6V0OvTshQDaAxJr5NPLdr0PAsfPaMcHkfXkcnKeosYw7IctR9ZE9eg0At1CyJ1BgIVk1gy0z7ooTkF283vbUQF9S+bMNCplJ4+iEmXznNDERG+mx+4k/LzR4pXAtpHt9KURqQldTaGjUvqhhb9vtIKj0BE77URij32M16KVPW28+elLm5YaAPo+m+jnl9/Dyw+Cv6h8/Zx0C9Aupy2/6/F6hA1n4meb5XA8HLgun1quFDTVVmWrFWFvK49yGTN37mrzS1iJrUMuIklWDqgTeFPN+/fjr8FKRIn+7Ors1z33wY5eoVrvOQTL0FcFcuiKW;nTv+HBY58DwPEQBqOPaZcw=="
 ---
 

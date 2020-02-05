@@ -69,6 +69,19 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/20200131021051-photo-1569025690938-a00729c9e1f9.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
+  - title: "Deep Learning Market Analysis And Forecast 2026"
+    excerpt: "The Deep Learning Market 2020-2026 is a valuable source of insightful data for business strategists. This Deep Learning Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T02:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-and-forecast-2026-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "5 ways Fintech is making Banking more accessible"
     excerpt: "But Fintech has a solution for that, too. Artificial intelligence (AI) facilitated the development of robo-advisors, who can communicate with consumers in real-time, offering financial advice and more. An example is a chatbot, which “talks to” the customer through online messaging. For now, most institutions that use robo-advisors have ..."
     publishedDateTime: 2020-01-28T17:20:00Z
@@ -124,6 +137,6 @@ related:
         width: 1200
         height: 630
 
-secured: "CWuBuqxS6rZg9vUIVyNXB89ldh7INli/pqHo7W3NoiGYqgc/oHrt66wx25gygbhzJ0PzP4GRdjl6oLgECFt5omSwmV/qpfZOPdjiOAJKAjWJsy6aAEchIIHEPWCKR50rJ2ARmp9G+lDP7dGQ1/lpu7FC2gP4dTACJa44haX2NueBLEbGbiY67VoYSaiiwMXid/WTwju+lRG/cNozngWK6hxSrUYuG6boAfGwc7idBfjPZfCvLH7oCBn+or3EemOjj0PelY7QYbVQ39phREg6T/ionhVP2DFoWxxT8ecMIu1u19N58qRXa0VU0tHsEjgR;KRNORmGgyEUQ+4S83ezqng=="
+secured: "wPD8ob+696YUoVuUxGNNDKwYCS5Z0zjKy/CF1L0QvxbzMwVTVuiXhmtzuARHY7GsXzQRtIY6YnTAoK6jjHC6Uh0ugQaZ63hRLUbLcvYtm7le1bw/wiwPydrym+aMe+7uRR+f/X13uToURHAx0ukwzpQxmwU17Ghp2h6UMk1mC8Cr3MyTcLh9yQqtg3w9FVedToK75/RY5/LEmnL6i8lVQU+EwQO80xGpuW2Wy6WJ19fS6Bbv9EZVV2GjE+6xSGFpuQOSCTR7hcOLU14zh2mOvQ+1Tr5FVADLBX+va/KzW2TnhE8fIvtmn6/YJdW8Ip3cbUs3iEmh1V3p24vFPKE2WjfPl/Kud9vcNkUGJaf6uBzYEph3iU+IYqPmGDH02RGRJmew6wFa1/3YzlEqH7hWbfaaLeb/DDR3sE+2YehvOfNjC6YDufqVmNg6uxIXHVQCMs0Fy+TUR4NM1hYA7Aa0GBm3nAeqkj9LQaGORqH2xsE=;s3WAkO2/bdFYvOZwMHF6SA=="
 ---
 

@@ -125,21 +125,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
-  - title: "Facial recognition could help discover fate of Holocaust victims"
-    excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center,"
-    publishedDateTime: 2020-01-21T11:39:00Z
-    webUrl: "https://www.reuters.com/article/us-holocaust-memorial-auschwitz-technolo-idUSKBN1ZK150"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZK150"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZK150"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200121&t=2&i=1479305789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0K0XC"
-        width: 818
-        height: 545
   - title: "Facial recognition to be rolled out in London amid privacy concerns"
     excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
     publishedDateTime: 2020-01-24T12:51:00Z
@@ -925,19 +910,6 @@ related:
       - url: "https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-  - title: "Holocaust victims' fates could be revealed with facial recognition"
-    excerpt: "KFAR HAROEH, Israel - An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center, which hopes to match family pictures from around the time of World War Two with its database ..."
-    publishedDateTime: 2020-01-21T11:36:00Z
-    webUrl: "https://www.jpost.com/Jpost-Tech/Holocaust-victims-fates-could-be-revealed-with-facial-recognition-614797"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 39
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452167"
-        width: 822
-        height: 537
   - title: "Need 2 Know: Virus Outbreak, Facial Recognition"
     excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
     publishedDateTime: 2020-01-21T21:12:00Z
