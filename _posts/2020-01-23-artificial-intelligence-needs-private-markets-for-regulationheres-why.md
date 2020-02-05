@@ -158,21 +158,6 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
         width: 8000
         height: 4940
-  - title: "AI’s data drive at the heart of calls for its regulation"
-    excerpt: "While presenting the 2019 Union budget, then interim finance minister Piyush Goyal had said the Centre was planning to launch a national programme on AI. While India’s startup ecosystem has built several products using AI, we do not yet have principles for regulating it."
-    publishedDateTime: 2020-01-21T17:53:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/ai-s-data-drive-at-the-heart-of-calls-for-its-regulation-11579624879476.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/ai-s-data-drive-at-the-heart-of-calls-for-its-regulation/amp-11579624879476.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-s-data-drive-at-the-heart-of-calls-for-its-regulation/amp-11579624879476.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2020/01/21/600x338/PRI_-P_1579625027389.jpg"
-        width: 600
-        height: 338
   - title: "The AI regulation wave is coming: Industry should ride it"
     excerpt: "AI industry engagement on regulations is the smart play. Martijn Rasser is a senior fellow at the Center for a New American Security, a Washington D.C., think tank. He previously was an executive with a Silicon Valley-based AI startup."
     publishedDateTime: 2020-01-24T12:17:00Z

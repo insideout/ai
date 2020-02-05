@@ -18,28 +18,26 @@ topics:
   - AI in Autos
 
 images:
-  - url: "http://i.ce.cn/english/main/latest/202002/01/W020200201381229616296.jpg"
-    width: 319
-    height: 220
+  - url: "http://i.ce.cn/english/main/latest/202001/26/W020200126339295569097.jpg"
+    width: 320
+    height: 221
     title: "Booming self-driving a big cake for Chinese, foreign companies"
 
 related:
-  - title: "Self-driving cars take over CES: Here's how big tech is playing the market"
-    excerpt: "Baidu is developing an open source platform that it hopes will become the \"Android\" of self-driving cars, dubbed Apollo. Microsoft joined Baidu's Apollo \"alliance,\" gaining a channel for sales of ..."
-    publishedDateTime: 2020-01-12T00:00:00Z
-    webUrl: "https://www.cnbc.com/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
+  - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
+    excerpt: "The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo has obtained 120 such ..."
+    publishedDateTime: 2020-01-10T05:50:00Z
+    webUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 72
+      name: Steel News
+      domain: steelguru.com
+    quality: 39
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104935725-GettyImages-902802574.jpg?v=1532563703"
-        width: 2000
-        height: 1219
+      - url: "https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg"
+        width: 1200
+        height: 800
 
-secured: "qrXs/hceI5S9hXYUYUl1jJWeoVzNzJ0jMUGT6CLtwH51TZXGUqN0MkYnU0OogYWb4wS4unirBG4j/+AwqX+FBrgIR4qfzv6UTalviGgB5iKJ3tcBl7ZefSAuJyei4iMSgisVoRwjYEXnWVh2qgm3zu80je7h4Gysue/ud2hEJX3bmFY5MLoiWNwXwEzjvDVCDtvrmz82JaI2RtK+YOAeA63eZmrKaCnXIdbTAl1aWVIOejuINlzUWdb/4oyiOdvXnnV0vEeqdliHgwaf43Z+JvQAZ00wjtcjole09mj3sJW6il4qucvbRKZI/VHrgtPO;w+d4s6TM6z2bscoBQMUqag=="
+secured: "UzIRSkbosCQ5zX3kZOmWF5PbSRVzqSO0EcYarEdeKT/AtE3XihKMiveHRf6k4IVpeXdusCSQV7BegQs+GYxPJwJg2yIkCHcBlT0h9rXPBH5AuD0EnBF7QVjGT5I5J8wIZtMwG+JBM7lM+XxP58E4kMAe5+iAgvC6U6+18cnJUGROM4Lke5zzXHlJM0tgR5ntKrjrWCNab5TqDSFerBzLtsR3TmDncz4NOPlZAZT5VFy1otW1r7Vy/93GFBpE4TQqR0EBUi6Y8CFmRK5Dn3HMiPsgz7oaNvlYmqMWdYlrKMGUBgmJzUBos5PbgXSgD/ay;CnW7A4f9jlfZy9mDdPiEhw=="
 ---
 

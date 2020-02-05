@@ -41,6 +41,21 @@ related:
       - url: "https://kubrick.htvapps.com/vidthumb/c053f844-28fb-4ff3-b897-d13cc9cf6a2a/c053f844-28fb-4ff3-b897-d13cc9cf6a2a_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
         width: 1200
         height: 675
+  - title: "Could Ontario police start using facial recognition cameras?"
+    excerpt: "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ..."
+    publishedDateTime: 2020-02-02T18:19:00Z
+    webUrl: "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras"
+    ampWebUrl: "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp"
+    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp"
+    type: article
+    provider:
+      name: Toronto Sun
+      domain: torontosun.com
+    quality: 59
+    images:
+      - url: "https://postmediatorontosun.files.wordpress.com/2020/01/surveillance1000.jpg"
+        width: 1000
+        height: 750
   - title: "PROFESSOR NOEL SHARKEY says facial recognition cameras sweeping the UK should worry us all"
     excerpt: "At the heart of this development is something called live facial recognition (LFR), software which can automatically recognise a face in a crowd within a fraction of a second. And this means we can be monitored everywhere we go, no matter who we are with or what we are doing. Facial recognition could strike at the very core of our free society."
     publishedDateTime: 2020-02-01T22:22:00Z
@@ -56,32 +71,15 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24180676-0-image-a-22_1580595608038.jpg"
         width: 636
         height: 382
-  - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
-    excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
-    publishedDateTime: 2020-02-03T22:34:00Z
-    webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
+  - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
+    excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
+    publishedDateTime: 2020-02-04T23:36:00Z
+    webUrl: "https://www.nbcchicago.com/news/local/chicago-area-groups-demand-end-to-facial-recognition-amid-concerns/2213205/"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 28
-    images:
-      - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
-        width: 700
-        height: 394
-  - title: "Christopher Elliott: Facial-recognition technology stokes privacy concerns"
-    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
-    publishedDateTime: 2020-02-02T05:08:00Z
-    webUrl: "https://www.sunjournal.com/2020/02/02/christopher-elliott-facial-recognition-technology-stokes-privacy-concerns/"
-    type: article
-    provider:
-      name: Sun Journal
-      domain: sunjournal.com
-    quality: 22
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/11/2019/02/Christopher-Elliott.jpg"
-        width: 450
-        height: 366
+      name: NBC Chicago
+      domain: nbcchicago.com
+    quality: 19
 
 secured: "NWFyCpgCFF1oABX+hHX6V+9c3mnqCDrx8P8C7Gu/Y6SSa6RAWSu21jPmSYW2OdrbZ0FI5EaX3Y89gB6KPYSoChQ2PQ+b3MxmWwVYQ/OrWR4su4F6xeqH8n0d+Gsq6lEPmLT75AjKIdyZ/hJVPHRtmVE9Q2uTCYPniyp3kymwCrGQK0KoBNa/wxPyolDAocfDh+Lmd+uDls/gbbCAxlJz8K/Eu8/IFpCkdFzn2+A4aKr2+7tkVrxBK7zJKto54dWw8AThtoINFSZTvqipbFNAjnfkUiZpcwj7JcaqPobEuJviDCOpHxEErEch/aw1PXOT;mfDXipmFlF5Wvw+iiLHZqw=="
 ---

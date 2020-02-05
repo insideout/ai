@@ -46,13 +46,17 @@ related:
         height: 630
   - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
     excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
-    publishedDateTime: 2020-01-22T10:53:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/37810/automotive-artificial-intelligence-market/"
+    publishedDateTime: 2020-01-22T11:03:00Z
+    webUrl: "https://www.techworld.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 12
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 32
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
   - title: "Artificial Intelligence (AI) for Telecommunication Market Precise Study on Factors, Market Drivers and Key Players Strategies Analyzed Till 2025"
     excerpt: "North America is the leading/significant region across the world in terms of market share due to rising R&D in autonomous vehicle, healthcare, cybersecurity and security and presence of access control technologies in the region. Europe is estimated to grow at stable growth rate in the global Artificial Intelligence (AI) for Telecommunication ..."
     publishedDateTime: 2020-01-22T07:06:00Z

@@ -2,20 +2,26 @@
 category: news
 title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
 excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
-publishedDateTime: 2020-01-22T10:53:00Z
-webUrl: "https://www.reseller.co.nz/mediareleases/37810/automotive-artificial-intelligence-market/"
+publishedDateTime: 2020-01-22T11:03:00Z
+webUrl: "https://www.techworld.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: Australian Techworld
+  domain: techworld.com.au
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+    width: 300
+    height: 300
+    title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
@@ -63,6 +69,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "w19M4G6iYQtZTUl/0K9zYAELd6tqB2iv1DKAQ0DGHKyomY0vdyo9Trtr2idBGRoC5+/7F1QPpmGRhOh6GAWEHouzLBj8Yh8v8SXmga9HniFvavPs8ah8MVVZ9G/ZqGwvt/DZgwNBJZfjYj91G9oHv6f4U7UrLJzKNbWVWQ2vnJe8MeqwRIb93ZHFVbIN1bDuObpGIp4WYwe/7akvPAFRbZXeDplZoKPG98fA5QupOE4lBXbXTOsgFbMUx5+DuQTKn6hx02g/hXppHv3KwR/8Ogx9kcFPTiMubodR9qOvZpKu/TrFBnvmT1nYuckubWCs;Tfe21ybIEcesCplnRwG/8g=="
+secured: "8Rg5vK+ETTo1FHsPX8ywcDx+QdA78GbIlsmQHkhXa1Dn8QeoraRJ+tBqidI7FqAje3D+z5i31d3K7nf/cy/1wKCznbOSFwY3wSxw1U0zOTAhZsyZa9EmXRLrnA0091L2S/jQO/6/07x2wqd6fz6H9UXK0ZexD35UZTqB7ibDwDWv8Hq0xr/qeve1aUehJW/+WDwdlgSmf4p6tlYs8vKC0Yetzk9aopEpHCA4NjeyXnEY9Z8rC1IzMedUgFSL29udVO6OAL2TWiXmW+DE0+6/Qv7K4A6ikM0ST88l/V4eOvtLtlCfYlKWNivhDZDJ9FTh;KPNXdEmESy8/IB4Md9DylQ=="
 ---
 

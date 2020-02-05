@@ -26,108 +26,51 @@ images:
     title: "Surprise: Google CEO Still Dancing Around AI Regulations"
 
 related:
-  - title: "Google CEO backs temporary ban on facial recognition"
-    excerpt: "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ..."
-    publishedDateTime: 2020-01-21T17:22:00Z
-    webUrl: "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar"
-    ampWebUrl: "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp"
+  - title: "ProBeat: Why Google is really calling for AI regulation"
+    excerpt: "On Sunday, the Financial Times published an op-ed penned by Sundar Pichai titled “Why Google thinks we need to regulate AI.” Whether he wrote it himself or merely signed off on it, Pichai clearly wants the world to know that as the CEO of Alphabet and Google, he believes AI is too important not to be regulated. He has concerns about the ..."
+    publishedDateTime: 2020-01-24T18:30:00Z
+    webUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/"
+    ampWebUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-  - title: "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary"
-    excerpt: "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology."
-    publishedDateTime: 2020-01-21T22:04:00Z
-    webUrl: "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary"
-    ampWebUrl: "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
+  - title: "Assessing Google CEO Sundar Pichai's call for fair AI regulations"
+    excerpt: "Google CEO Sundar Pichai and other AI researchers say limited regulation is needed to protect people from irresponsible use cases. Google CEO Sundar Pichai and other executives working on artificial intelligence are now calling for limited government regulation as the European Union mulls potential five-year bans of facial recognition software."
+    publishedDateTime: 2020-01-29T16:55:00Z
+    webUrl: "https://www.techrepublic.com/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 74
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
     images:
-      - url: "https://www.pcmag.com/images/pcmag-social-share.jpg"
-        width: 997
-        height: 1201
-  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg"
+        width: 1200
+        height: 800
+  - title: "Google shows off far-flung AI research projects as calls for regulation mount"
+    excerpt: "\"Right now, one of the problems in machine learning is we tend to tackle each problem separately,\" said head of Google AI Jeff Dean at Google's San Francisco offices Tuesday."
+    publishedDateTime: 2020-01-29T18:16:00Z
+    webUrl: "https://www.cnbc.com/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-  - title: "Google CEO Thinks AI Will Be More Profound Change Than Fire"
-    excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity."
-    publishedDateTime: 2020-01-22T10:47:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
-    publishedDateTime: 2020-01-15T17:43:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
+      name: CNBC
+      domain: cnbc.com
+    quality: 86
     images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
-  - title: "It's too late to ban face recognition – here's what we need instead"
-    excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
-    publishedDateTime: 2020-01-23T11:43:00Z
-    webUrl: "https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/"
-    ampWebUrl: "https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-  - title: "Google CEO speaks on artificial intelligence at WEF in Davos"
-    excerpt: "Google CEO Sundar Pichai spoke at the World Economic Forum in Davos about the impacts of technology and how artificial intelligence and quantum computers can change human lives. Pichai said that even though there were risks with artificial technology, the biggest risk was to not work on it and make AI better."
-    publishedDateTime: 2020-01-23T09:05:00Z
-    webUrl: "https://www.wionews.com/videos/google-ceo-speaks-on-artificial-intelligence-at-wef-in-davos-276113"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 37
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/23/125592-pichai.jpg"
-        width: 918
-        height: 506
-  - title: "Google CEO vows respect for privacy as data giant develops AI for medical use"
-    excerpt: "Sundar Pichai, the CEO of Alphabet and its Google subsidiary, said yesterday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence (AI) to improve outcomes. He vowed that the technology giant will ..."
-    publishedDateTime: 2020-01-23T02:46:00Z
-    webUrl: "https://www.independent.ie/business/technology/news/google-ceo-vows-respect-for-privacy-as-data-giant-develops-ai-for-medical-use-38886750.html?token=208054049"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 36
-    images:
-      - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
-        width: 531
-        height: 342
+      - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
+        width: 1200
+        height: 800
 
 secured: "S5RzNUAqkIA8lAWAcSTmAv6sqWbBTak3HKoJbblR9n47x3ivj6n5zm1eBTHVBcTYyymhwAeaIoFiqE0LLyWZ/fqeynSWHkGWFsTpEBfBoaC9buDa14oZJa1hiLxVlxjaJWFKLzdIJMWoQHRp4WwzJ7AKTjedkVa7EvD6AHGEQ2D+L24+tdEs63NZmG34i7YUGw1aHBeGHcrp9akbCOqAsaPX5aj5QbYpDOMLUUcxUYB42nw5rsEOBo+FHFOGekIM8wafU5ZSMW4jOSjeVAVMXNjXSI2S9KgRVYlAmeat+H/vpJsFLZxu3hpdnlU/tCu47B+sNdTSRBtU27YSLGWWQXWXSArE1QS3XDPHi0LuYxVhbzNiV8Zhw9Kx66HODsHa9vX1X73US4PdWUlAP8f03JkP0mzY1NBuFVdS5A/RMppIa+ffTH1/7hpQ03PRbe/igWeywsm/l+Z+qIO48TkTag==;boZKto+0vkn2ruxoNvfsAQ=="
 ---

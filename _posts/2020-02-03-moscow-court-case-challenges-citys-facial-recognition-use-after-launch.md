@@ -28,19 +28,21 @@ images:
     title: "Moscow Court Case Challenges City's Facial Recognition Use After Launch"
 
 related:
-  - title: "Veridium Launches Facial Recognition Technology vFace Alongside Behavioural Biometric Capabilities"
-    excerpt: "/PRNewswire/ -- Authentication platform Veridium launches its facial recognition technology, vFace. This software makes facial recognition more"
-    publishedDateTime: 2020-02-04T14:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/veridium-launches-facial-recognition-technology-vface-alongside-behavioural-biometric-capabilities-300998683.html"
+  - title: "Springfield City Council finalizes facial recognition ordinance"
+    excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council further discussed a possible ban on facial recognition technology Wednesday. The city council’s public safety subcommittee met to finalize an ordinance to introduce at the next city council meeting."
+    publishedDateTime: 2020-01-30T01:31:00Z
+    webUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/"
+    ampWebUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
+      name: WWLP
+      domain: wwlp.com
+    quality: 59
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2020/01/facial-recognition-ordinance.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
 
 secured: "LYWxfjarPSIwutwTm560FcnH4ewZsGNupy3lZltsgIkHU37STOwZwNYlO26iRMp3htiX0PkiXPEN3LtYBQJMez2kUPElP6wk0eANUyrV3u5KwALx0Iw8QLMS5XqN3lePIFVgfdDEZm6uiGIc8yvWVYPa8KyrwbOVsBGr1tlD1p1v/fyvrjcCxM321rQZ+l7zJI/pkRn9R1rAJMrsJq0zwE8lhkolF94eU1soU0UWyMoVgu77Yo2B6kCuqPnQuwT01RuD56yOM1fw4DFgQlTvo4s7sVFJzJNyh7XAWBnhPTeGL7x0CdNQzzom+XRfTmDt;YutyJqce1Om4t4tT0jrNng=="
 ---

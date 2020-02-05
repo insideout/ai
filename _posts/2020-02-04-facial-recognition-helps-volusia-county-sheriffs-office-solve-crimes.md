@@ -26,19 +26,19 @@ images:
     title: "Facial recognition helps Volusia County Sheriff's Office solve crimes"
 
 related:
-  - title: "Facial recognition technology helps Volusia County make arrests in 4 cases"
-    excerpt: "VOLUSIA COUNTY, Fla. — Thanks to facial recognition technology, the Volusia County Sheriff’s Office was able to make four arrests out of 30 cases last year. The Sheriff’s Office is using a database of more than 2 billion photos including those on social media and other public sites. The department purchased a license to give the new ..."
-    publishedDateTime: 2020-02-04T02:19:00Z
-    webUrl: "https://www.wftv.com/news/local/volusia-county/facial-recognition-technology-helps-volusia-county-make-arrests/Q6YYQDNJQNC6RJQDW5BZU7CQW4/"
+  - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
+    excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
+    publishedDateTime: 2020-02-04T11:05:00Z
+    webUrl: "https://www.wymt.com/content/news/Hardin-County-Animal-Care-and-Control-adopts-facial-recognition-tech-for-lost-pets-567547981.html"
     type: article
     provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 37
+      name: WYMT
+      domain: wymt.com
+    quality: 33
     images:
-      - url: "https://www.wftv.com/resizer/-nAp2UpM5mI0OsyKgu3KnyTIIk4=/1200x628/d1hfln2sfez66z.cloudfront.net/02-04-2020/t_623fb723a99a4dc1bcd5790a0f4c3715_name_VOL_AI_FACIAL_RECOG_TECH.jpg"
-        width: 1200
-        height: 628
+      - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
+        width: 690
+        height: 388
 
 secured: "qPy0NuysUFOh2pJgxRZlBwZXuqrvU25ZPRY7pykfb8wGIk9O6gni24ci3qwhgSCot7a+gzkEpJL/pGYyUuRRv+gILiU6enql8TPiViqBJMewINNbFWWovn4/5h+3aUH/hHhLUupx4MxXv/kf5iRxHtbN5MI1MUEiapAcY3N6nBM3J/q5r/Y7dMCBwmNy0ZhI+s7evqg4LpL2FqgsLMPxBdoHAWfYZm9SZb7ZtYcp2ANDY2+zHxgc8t1aafhFCnswiHARHkVR4L0zY/2oFinN6znT1aXpdANcmzAZzogb8pCY5Gczwe7Fyd+SH+oM/eY3;ValrHM7uwzz8odmMFyaQ3Q=="
 ---

@@ -26,6 +26,19 @@ images:
     title: "How LSD, Nuclear Weapons Led to the Development of Facial Recognition"
 
 related:
+  - title: "Facial recognition fails in China as people wear masks to avoid coronavirus"
+    excerpt: "For hundreds of millions of people in China, the spread of the new coronavirus has caused abrupt changes to the smallest of habits -- even a gesture that most in the country are used to by now: Looking into the camera for facial recognition. Residents donning surgical face masks while venturing outside their homes or meeting strangers have ..."
+    publishedDateTime: 2020-01-29T23:09:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3048147/facial-recognition-fails-china-people-wear-masks-avoid-coronavirus"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 52
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/01/29/mask_3.jpg?itok=o51DKRSy"
+        width: 1200
+        height: 630
   - title: "Landis+Gyr's Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
     excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not \"smart.\" Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
     publishedDateTime: 2020-01-29T14:09:00Z
@@ -52,19 +65,6 @@ related:
       - url: "https://www.stripes.com/polopoly_fs/1.617025.1580471460!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
         width: 490
         height: 506
-  - title: "Chinese AI start-up develops facial recognition to help identify febrile person amid coronavirus outbreak"
-    excerpt: "Chinese artificial intelligence (AI) start-up Face++ has developed a temperature screening tool that can help monitor human body temperature in crowded places and identify individuals who might have a fever using facial recognition technology. The system is on a trial-run in some subway stations and government offices in Beijing’s Haidian ..."
-    publishedDateTime: 2020-02-05T03:35:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178554.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 20
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-05/02fe8773-384a-430e-8315-b01d2eb69fc7.jpeg"
-        width: 500
-        height: 300
 
 secured: "CpKgja+4Le1d7qmWH8dmn3phnK4Wvg6CB16b9uqscLZglvsp38+3FcpF3iOhqv1ZSSDb+M82YGB1UUyWMwPWkokVA7hk5PbFbveAvb/ZPbGMiJ2YITZ1w9Fkhbf5eaM3v4SUShzvEW6fnBlQSdZl2/irFBIleOBXraRJX/lJ4lzev8xGspL2+xLHfTCSp54rOJLD/YLidbevYgzyCCZc6KI7lKuYfd0v3Webw9XMbZbqlXDaQ77/n4ac+8vDaERhB94QkjkWaJOiRUIE+xyPgM4E5NCP37nrFpxslP1hpGicSzO5rhbjD5fxv4OWIi932STc2xM8ikYTdr1paubhWd4PwJ54It/l3S+RFHKYUaVbWjMvsRgTo8LrfngqX3Mh1cj/Eu4pvOBuQqmDDGGNuDSuAVuhs+Wm9rkh0I/KzPeT/P1bhLOds8kI9MBjS4GHQb1YiOIZVkCb09cFSXwp0iP3xc3U4Be/OJ6BvVPfRUY=;TtWmIne6fk2F26T+OOolpw=="
 ---

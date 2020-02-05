@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-call
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,21 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
         width: 1200
         height: 800
+  - title: "Surprise: Google CEO Still Dancing Around AI Regulations"
+    excerpt: "But it warrants reminding those very same principles still allowed it to actively develop AI meant to kill people. Obviously, the situation's much more nuanced than that; Washington's geopolitical rivals are hardly concerned by ethics when it comes to military tech. Yet it's high time for legislators to start drawing some lines. And ..."
+    publishedDateTime: 2020-01-22T01:48:00Z
+    webUrl: "https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance"
+    ampWebUrl: "https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg"
+        width: 1600
+        height: 899
 
 secured: "aXZW1j7cc9dRArp+VUcamiUV/jFhWIfpenbalqT5BnDoHw38lDegTrgS+mY9KTdnXzHp+kv73v2nhngDVfVep7+EVNIrQB0FKegjgORhryesH51lqEK2QbXMaKpk7a4qSIVtg46ZjptlsDwsTuke73w9OHl9vPfRkqXwv9a2zWjDdg+RlczL+H8pgu8N64Rp6JgVlDB/azsXeENGf1SHEkppbWPzWLGe4Zj+yLhNRcfInS6Rx96cePzeVI+FszDIxmEuJP8T0Qpb/cKZ/Y4zrwWUFKDTiR8A+Qm/hGTV1P+w1ROtLDaTkxvfvGOrrmfjhUZrJaHqWPlQHgGNr0y9C54iXeeQqCp5mUf8FBIhjAaRZbsQvtDKqSVK5+fuD0tJeXex/ISTTlFX6v/sw44c4B7v6jTgnYerEvvo+DKaObx5UtFxhc9FVqsoMZLrbEtNmXW9784Kdw8CJMnaWUkPpjVeYTCYSdCkp1qptTyZGpM=;+wMbqHzzzbCYec+vR4yCWA=="
 ---

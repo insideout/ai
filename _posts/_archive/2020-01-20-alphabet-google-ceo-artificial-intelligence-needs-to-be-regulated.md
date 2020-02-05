@@ -144,21 +144,6 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
         width: 8000
         height: 4940
-  - title: "AI’s data drive at the heart of calls for its regulation"
-    excerpt: "While presenting the 2019 Union budget, then interim finance minister Piyush Goyal had said the Centre was planning to launch a national programme on AI. While India’s startup ecosystem has built several products using AI, we do not yet have principles for regulating it."
-    publishedDateTime: 2020-01-21T17:53:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/ai-s-data-drive-at-the-heart-of-calls-for-its-regulation-11579624879476.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/ai-s-data-drive-at-the-heart-of-calls-for-its-regulation/amp-11579624879476.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-s-data-drive-at-the-heart-of-calls-for-its-regulation/amp-11579624879476.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2020/01/21/600x338/PRI_-P_1579625027389.jpg"
-        width: 600
-        height: 338
   - title: "Artificial Intelligence Needs Private Markets for Regulation—Here’s Why"
     excerpt: "It seems the White House wants to ramp up America’s artificial intelligence (AI) dominance. Earlier this month, the U.S. Office of Management and Budget released its “Guidance for Regulation of Artificial Intelligence Applications,” for federal agencies to oversee AI’s development in a way that protects innovation without making the ..."
     publishedDateTime: 2020-01-23T10:30:00Z
@@ -240,6 +225,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "Qq3doipzTDzTv2caUc225YI+8l9u4Y9jnnE0ghsmnTXe5rv3kNxdPvNFiJtNQSsLjBSycQoKOTaZY5t0WMZM06JRoNGE6D7ZrRqo0XpT3PHMxMkZVgLfUf5RHGQhDTOkyC0PjS4UtCZm9VYfYzUfZCiKT4tbw5jULLGQ3v+jyvmF5eUSrZt2T4MbmXsRiwPkGSmPRUq/ugDDqrNMwkmxxalRA9rwfLcjLN7afPqS/HKwBYmz/+wPomElRhGaAgKcceoFeWw2I2WarLB6LEEblIPTC0Q24GdlWu7q3ncZa+dquBk9hwnegEi2a35dMOp4;sGVmNq/hE7SOI26XNIkfZw=="
+secured: "y/e/6gmrdT0x4kFkOHu3qIiTa9W2mZmfAg81gTgf8BzOrygu8y4tCTYrVnpwvbSADkYch8Bscq9OFVs2UnlyhYArTghK87PMn4wOdvYw9DGpZVGVs1DbZdEZejyiuyCD8b6Nw1VBM2VIBow5J2vYuMbR8b+wXkqbI8GyvEj1VO4BVmqlhJ/UKvaC3hr9f0XEfBYYMmlVzYxS4QTEIbRiOgzm6mcFT/HRWx3jx3fTn8VUiuKrYsayb2nzWXIj/nItfAWQhZ5hzO8+owuqWREGGIfQMaVvArhvfSqzIyP+fsZBaBiebSnOqfoYbWgY1xnY;YxOGpEZtOY2v0bzis1O4CQ=="
 ---
 

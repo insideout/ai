@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-l
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html"
 type: article
 quality: 203
-heat: 753
+heat: 743
 published: true
 
 provider:
@@ -238,21 +238,6 @@ related:
       - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202001/nn_tco_uk_police_launch_facial_recognition_200124_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
-  - title: "How the police use facial recognition, and where it falls short"
-    excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Florida, that began almost 20 years ago, when law enforcement agencies ..."
-    publishedDateTime: 2020-01-21T17:53:00Z
-    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 59
-    images:
-      - url: "https://www.chicagotribune.com/resizer/zvBykLjQuHpA183lPUW5jbRQwd4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QFTFUXZSXVF4HLTSDJQJT46L74.jpg"
-        width: 1200
-        height: 960
   - title: "Chinese city uses facial recognition to shame pajama wearers"
     excerpt: "BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,” they were given a powerful tool to carry out their mission: facial recognition software. Among their top targets? People wearing pajamas in public. On Monday, the urban management department of Suzhou, a city of 6 million people in Anhui ..."
     publishedDateTime: 2020-01-22T04:50:00Z

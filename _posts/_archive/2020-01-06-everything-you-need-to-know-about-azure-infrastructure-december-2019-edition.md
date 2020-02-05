@@ -23,6 +23,6 @@ images:
     height: 720
     title: "Everything You Need to Know About Azure Infrastructure – December 2019 Edition"
 
-secured: "rTc+uVenraHXRkYGSHSsEak3zLaEwkPfzOiQ0FCfvCLYEnHh/mQniubH29A3+rNssZb6oG4AsSJC+hPYYDWB3o5RgexVlVLlO+AJIB1ngJePMrbeqdW43B4z/L6iHfu+b6kG5Z/4FSgCp29YgzbiepbaqG9jmsWaxoYWUbeCE4dbMd9EXHiYkFMBlujlNZhBsP61OZWIBFwRpZ+hNzdbD0DxTM+YCBRKZbFkt/V7A6pHlINcVvhpkqJG9w0bm/6sShCPPkzm42sAEUw8a1B4JgFdgagCXnIMc16R3Gf//99K4hNBgOrH1at3YjfiEkSi;v9M7IC+tmkz3/YlB3on89Q=="
+secured: "HgTrKDXSXVDHRl5gxobflTivQZ0V4kwvD+0Gf+buQ3wdoXl7B5wSgLnTbRoYPQJPFJASqONZpPS06Ffr/Ycx/85Au2+AJN6MLmPT1Ei/XeIADSLskamrt/OBEUZ5nEIZLINMpUpaIGHmNqdceZOneoh6ol/EBsc2e2IFJUOKbVnWR+ao/D3TzlyMsZIyn5gqZScNQPazAXF338HjRbsCvOIjiehztEYIVfxfesOtEDYWkx5DZjN3OSl1oZllFDDhq9EAdiY1Dnb1Dnyq07w0ZAh3EAAuPj+dX3+MDAmTWkznbhvQXGzcd7bm0MW7HTSg;7UmsQmQc3NwWjEki9pDgTQ=="
 ---
 

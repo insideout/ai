@@ -23,6 +23,21 @@ images:
     height: 800
     title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
 
-secured: "xzRBvLKk5oTv2VWrw8EaLY0QVxdVsmczUYxXnh3R91B3UKgDYKZ0A4bou2KbxGDvGcP5K4g80GveFoNuR58Ekg8PsYZ+C295kMVy3DxLuaYpMrqlESxUlVVjIRXS/8t25yWA5CHKrxx1SyAmdopteBEzjq0IAmhiGfIJxjiNM2S22Bp63wbxdPXpObkALSQnFh8xt+FeG+yJYp/5UeQWqYAYGgR4Hl4DWpn4JEfdPr9LFQ0ErNPH0L4yluDp3dZ044I4maSoEFF5G51fj81P0UqXIHbyuOQd9Z3mRePYK7f4WZdJUAmSbR7EDGUb5V09;4fkQIv96IpnZs7In2yZimA=="
+related:
+  - title: "Booming self-driving a big cake for Chinese, foreign companies"
+    excerpt: "In September 2019, several tech companies including Baidu obtained a commercial license for self-driving vehicles issued by Wuhan's transportation department, followed by Beijing which issued 40 license plates for Baidu's autonomous cars carrying ..."
+    publishedDateTime: 2020-01-06T13:48:00Z
+    webUrl: "https://en.ce.cn/Business/topnews/202001/06/t20200106_34055142.shtml"
+    type: article
+    provider:
+      name: China Economic Net
+      domain: en.ce.cn
+    quality: 24
+    images:
+      - url: "http://i.ce.cn/english/main/latest/202001/26/W020200126339295569097.jpg"
+        width: 320
+        height: 221
+
+secured: "+WV4PkG1gZ1JsC6ckG8NOW9pyjkaRmoDUvifnsfCtu2+voHOzgymBKmLkdjBoisTudKRbb6xRDMmbXQxRDWjvVyX5AXLtbn7Dl2ZPUyRgh2CN4PgGXns6TWmC5TYoghp8/g8t+538m/d4ywInouPDeM0mB+WAIIhH/PYCti/32JDVotcN5YTCFIUAUs5K7W6hr0J0glJq15DBijG7GbgVXnxT72mhmTW9YOmha4TVcQpoYXnggd/c4KKN5BlBrL3sqkMKGDY5n86FaAd1iBMcKFP/7vPGgHa0ZWk8UBEHAjsi2a0mBXl6qhGvwSTduvF;ixEZgrbth0dLPu5HHJ0udA=="
 ---
 

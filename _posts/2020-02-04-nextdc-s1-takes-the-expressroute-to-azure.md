@@ -23,6 +23,6 @@ images:
     height: 250
     title: "NextDC S1 takes the ExpressRoute to Azure"
 
-secured: "upfu5v+JWvusWlXIdWtTHBf1YRdFTho27OJu4vJFtK6FuiidxtPKLJagskpytvV16jkUgLqldxT7LK1jg9NIYWT8G3ejup/UIJcvQ7w0KZcuOJJ7Ink0InMDs/wutwMzYknnlxYTO3XRti6pj8ii18j2z5cK3W6WLOUKb8+Tu4w+8+4J2T8/cy+jYj9mfhVI7JXOs/MUxQEjP3YLOOVVOREadmuGr4gwjNettpDt6AeesPzsQ1tW5PZpUKGYqpJXzK6iCHpH1vAyM+4+kVQ57WbEgvtwBqBaStujqp58izmijB+eR8YJ1v9MH3WjaCH+;rMgFlCzv34qhYVQvpEfy5g=="
+secured: "l7+aEOi0M4hsIxSn6GF5OE6MLbTlh1UekETs28eDOf5H1+9ZT/PyAxFmXpSr0Rr/u+Vrlg9YV1XS0HohDjxDCa/96HBh+soLJP5L+nJ783FoLjjD/PQ7XmzgR2TsaZR4maURO3hNJcSEF4UnMFBoba8R1h+g5muthR4/yRRsaCBcCgKs0OXMr7v5a0ELapVRST1hwqd4+lP9WpLoi9p+oTjits3xgo8N2+vs5U54+7ykUc700igFRw134FXc3N0RGztjkS5CeqwquY0Mae1KQRMYTA1Q++Ik6YPpyzdvZ6l/5DFdHGFGeG4si9Qpsr06KQgXuqYwauEK0Ov3h42Bq3Kc7vvU1jxtfxn3I/Y1xabziLZIscJobwIERJdK3nc/BLjIgbigF/VH4Y7leli55owO0V7RbqHY2wanqoNLGC3TTgwk2VQJU6JvQaG3CaJbNH8ApfQcGWpei79qT4zjV+jRa7c/PLhohRdS+ONOZ80=;sm9t15mgv/Dz/yQZ+1fjWQ=="
 ---
 

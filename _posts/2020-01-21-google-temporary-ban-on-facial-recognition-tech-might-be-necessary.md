@@ -8,8 +8,8 @@ ampWebUrl: "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognitio
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: PC Magazine
@@ -30,108 +30,45 @@ images:
     title: "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary"
 
 related:
-  - title: "Google CEO backs temporary ban on facial recognition"
-    excerpt: "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ..."
-    publishedDateTime: 2020-01-21T17:22:00Z
-    webUrl: "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar"
-    ampWebUrl: "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp"
+  - title: "Facial-Recognition Technology Doesn't Have to Destroy Privacy"
+    excerpt: "Regulation moves at a snail's pace, so it's up to CEOs, executives, and employees to reject projects that put profit over privacy. Clearview AI facial-recognition tech is just the latest example of 'innovation' that could quickly get out of hand."
+    publishedDateTime: 2020-01-22T16:09:00Z
+    webUrl: "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy"
+    ampWebUrl: "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 89
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 74
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+      - url: "https://i.pcmag.com/imagery/articles/00592rlQabuAGHAibpsW8pn-1.fit_scale.size_1028x578.jpg"
+        width: 1028
+        height: 578
+  - title: "NEC to Provide Facial Recognition Technology for Mitsui Fudosan Hotels"
+    excerpt: "NEC Corporation (TSE: 6701), a leader in the integration of IT and network technologies, today announced it will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\","
+    publishedDateTime: 2020-01-28T07:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/a15195437/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15195437"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15195437"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-  - title: "Google CEO Thinks AI Will Be More Profound Change Than Fire"
-    excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity."
-    publishedDateTime: 2020-01-22T10:47:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-  - title: "Surprise: Google CEO Still Dancing Around AI Regulations"
-    excerpt: "But it warrants reminding those very same principles still allowed it to actively develop AI meant to kill people. Obviously, the situation's much more nuanced than that; Washington's geopolitical rivals are hardly concerned by ethics when it comes to military tech. Yet it's high time for legislators to start drawing some lines. And ..."
-    publishedDateTime: 2020-01-22T01:48:00Z
-    webUrl: "https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance"
-    ampWebUrl: "https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg"
-        width: 1600
-        height: 899
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
-    publishedDateTime: 2020-01-15T17:43:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 39
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
-  - title: "It's too late to ban face recognition – here's what we need instead"
-    excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
-    publishedDateTime: 2020-01-23T11:43:00Z
-    webUrl: "https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/"
-    ampWebUrl: "https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/"
+  - title: "Tech Savvy: Facial-recognition technology stokes privacy concerns"
+    excerpt: "Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier says 72% of ..."
+    publishedDateTime: 2020-01-26T06:40:00Z
+    webUrl: "https://www.brainerddispatch.com/business/technology/4880204-Tech-Savvy-Facial-recognition-technology-stokes-privacy-concerns"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-  - title: "Google CEO speaks on artificial intelligence at WEF in Davos"
-    excerpt: "Google CEO Sundar Pichai spoke at the World Economic Forum in Davos about the impacts of technology and how artificial intelligence and quantum computers can change human lives. Pichai said that even though there were risks with artificial technology, the biggest risk was to not work on it and make AI better."
-    publishedDateTime: 2020-01-23T09:05:00Z
-    webUrl: "https://www.wionews.com/videos/google-ceo-speaks-on-artificial-intelligence-at-wef-in-davos-276113"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 37
+      name: Brainerd Dispatch
+      domain: brainerddispatch.com
+    quality: 24
     images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/23/125592-pichai.jpg"
-        width: 918
-        height: 506
-  - title: "Google CEO vows respect for privacy as data giant develops AI for medical use"
-    excerpt: "Sundar Pichai, the CEO of Alphabet and its Google subsidiary, said yesterday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence (AI) to improve outcomes. He vowed that the technology giant will ..."
-    publishedDateTime: 2020-01-23T02:46:00Z
-    webUrl: "https://www.independent.ie/business/technology/news/google-ceo-vows-respect-for-privacy-as-data-giant-develops-ai-for-medical-use-38886750.html?token=208054049"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 36
-    images:
-      - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
-        width: 531
-        height: 342
+      - url: "https://www.brainerddispatch.com/incoming/4880195-oiib4n-IMG_7852.jpg/alternates/BASE_LANDSCAPE/IMG_7852.jpg"
+        width: 1140
+        height: 712
 
 secured: "TT9A4HxttLlW7efMCcCDLZ0rZsNbjroHHXKLGmImeh7Ohmxmq7NaH20s4GHy+6jiUPbbWb5wXzWUFWQHDBDfxsHd3O+3D5RrgQML6OS8dos7Ja34zu3ID1uqeI4r1oFUtGwLXvH9/68rL38maZsdf3UZKP1eC3PhlAXODIl7J4I8GgqcCzMcP3J7JkQ58TjmqYXJT/xomx8n2UWSH4O2cm/4d/ssxkYHB1/GIs3rixukyVF0xCh2npn29CVthWYeeNkKjAmVj6KUjF7bBzYYQDWGiUDMgaVZ07CfyQVZG8I=;gbFF00vVCxrcKcqITEQ8YA=="
 ---

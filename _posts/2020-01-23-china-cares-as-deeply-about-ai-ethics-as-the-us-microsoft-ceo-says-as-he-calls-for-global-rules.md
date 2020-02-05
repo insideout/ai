@@ -149,21 +149,6 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
         width: 8000
         height: 4940
-  - title: "AI’s data drive at the heart of calls for its regulation"
-    excerpt: "While presenting the 2019 Union budget, then interim finance minister Piyush Goyal had said the Centre was planning to launch a national programme on AI. While India’s startup ecosystem has built several products using AI, we do not yet have principles for regulating it."
-    publishedDateTime: 2020-01-21T17:53:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/ai-s-data-drive-at-the-heart-of-calls-for-its-regulation-11579624879476.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/ai-s-data-drive-at-the-heart-of-calls-for-its-regulation/amp-11579624879476.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-s-data-drive-at-the-heart-of-calls-for-its-regulation/amp-11579624879476.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2020/01/21/600x338/PRI_-P_1579625027389.jpg"
-        width: 600
-        height: 338
   - title: "Artificial Intelligence Needs Private Markets for Regulation—Here’s Why"
     excerpt: "It seems the White House wants to ramp up America’s artificial intelligence (AI) dominance. Earlier this month, the U.S. Office of Management and Budget released its “Guidance for Regulation of Artificial Intelligence Applications,” for federal agencies to oversee AI’s development in a way that protects innovation without making the ..."
     publishedDateTime: 2020-01-23T10:30:00Z

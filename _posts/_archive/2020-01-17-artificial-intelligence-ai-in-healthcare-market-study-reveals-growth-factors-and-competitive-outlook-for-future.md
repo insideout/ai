@@ -43,13 +43,17 @@ related:
         height: 630
   - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
     excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
-    publishedDateTime: 2020-01-22T10:53:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/37810/automotive-artificial-intelligence-market/"
+    publishedDateTime: 2020-01-22T11:03:00Z
+    webUrl: "https://www.techworld.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 12
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 32
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
   - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Set To See Huge Growth !!"
     excerpt: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market, By Component (Technology and Services), By Type (Rule-based, Statistical, Hybrid), By Application (Machine Translation, Automated Information Extraction and others), By Deployment Mode (Cloud and On-Premise), By Geographical Segments- Industry Trends and Forecast ..."
     publishedDateTime: 2020-01-23T20:07:00Z
@@ -69,6 +73,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "/X4QXLL6aaXfeYsAyGTS98VE+pFeHzhMekGp9HzVGd5cBGPKiJWqdpuTngjIeTszsRfiAB57hVBQz0bR4XPLEfqkgEWxTyh4ZtDRh7Iu3YNbHpVY4Ahl9WBIc3FVO7Gsx9T2kGsbcc7SHnIRaNBj5HhNMQimtnj2Bvb2MVqW/XTIJXQK89DL+lAkurEnUMgy5rZzKgv82H7AMRTrt9SExfKs4iaVpnMo0rKI8ZexvSaYW9oPfCKyQib+HLQ9AFb6IhFy0kZrX1nEKL2dX7n/V/RNvI37TsBYRDx2ndEboMsIIrMc9F9qEwCP2h3qXrAG;G4/JShQ1dlek+iEyF+zG+g=="
+secured: "BP4aLz/Jqe0xwI2r8AkzUtrJfObRu3T7MsqiDzSU+dbINiEIZJgsSwIias1aisPcUrtw8E5JwsYdqnXloMWb3U5r6Bx62MMkvOr0/W9iCAHA+Igfh8pmdAAOwYaFjEN0hQw27rcS0IjydZFWEqdgtWi03NM9OoxOQaOIw0MwQas060gUBfJiods/bPc0WJonwNv3ReY7hZabi/FmiBpAYPLUH7Y5E5WLLJASlsXYD3n0YEkC36s3ZlKkU3tlY1FpXHho5HQb7+kuFzG9QIp0gTKKIVzrTHa6tsUJaVUcuvqLFfpFgh3PKbTWIczyOPpR;tE1EG36GoghXQmp57AjaOw=="
 ---
 

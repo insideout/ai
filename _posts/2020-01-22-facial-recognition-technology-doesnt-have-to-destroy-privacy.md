@@ -8,8 +8,8 @@ ampWebUrl: "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true"
 type: article
 quality: 74
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -30,34 +30,21 @@ images:
     title: "Facial-Recognition Technology Doesn't Have to Destroy Privacy"
 
 related:
-  - title: "Indian Railways to use facial recognition technology to identify criminals"
-    excerpt: "Indian Railways has announced that it plans to use facial recognition to tackle crime at railway stations. The new facial recognition system is currently being tested in Bengaluru. A senior railway official told Reuters that the move would turn the railways into a fortress. \"Without a physical, brick and mortar boundary wall, we will be able ..."
-    publishedDateTime: 2020-01-29T12:44:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/indian-railways-to-use-facial-recognition-technology-to-identify-criminals-4875661.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/indian-railways-to-use-facial-recognition-technology-to-identify-criminals-4875661.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/indian-railways-to-use-facial-recognition-technology-to-identify-criminals-4875661.html/amp"
+  - title: "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary"
+    excerpt: "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology."
+    publishedDateTime: 2020-01-21T22:04:00Z
+    webUrl: "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary"
+    ampWebUrl: "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 72
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 74
     images:
-      - url: "https://static-news.moneycontrol.com/static-mcnews/2017/03/railway-wagons-rail-goods-freight-transportation-coal-cement-378x213.jpg"
-        width: 378
-        height: 213
-  - title: "Facial Recognition Biometrics Market Advance Technology and New Innovations 2020"
-    excerpt: "Global Facial Recognition Biometrics Market Research Report 2020 provides key analysis on the market status of the Facial Recognition Biometrics manufacturers with market size, growth, share, trends as well as industry cost structure."
-    publishedDateTime: 2020-01-27T05:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020-2020-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.pcmag.com/images/pcmag-social-share.jpg"
+        width: 997
+        height: 1201
   - title: "NEC to Provide Facial Recognition Technology for Mitsui Fudosan Hotels"
     excerpt: "NEC Corporation (TSE: 6701), a leader in the integration of IT and network technologies, today announced it will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\","
     publishedDateTime: 2020-01-28T07:12:00Z
@@ -69,19 +56,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "Facial recognition technology poses ‘enormous’ potential for abuse, NDP says"
-    excerpt: "OTTAWA–Canadian police agencies' use of cutting-edge facial recognition technology presents \"enormous\" potential for abuse, the opposition New Democrats say. The NDP is calling on federal privacy commissioner Daniel Therrien to launch a probe into how the RCMP and other Canadian law enforcement agencies use the controversial tool, which can ..."
-    publishedDateTime: 2020-01-28T19:22:00Z
-    webUrl: "https://www.thespec.com/news-story/9833836-facial-recognition-technology-poses-enormous-potential-for-abuse-ndp-says/"
-    type: article
-    provider:
-      name: The Hamilton Spectator
-      domain: thespec.com
-    quality: 36
-    images:
-      - url: "https://dynamicmedia.zuza.com/zz/m/original_/a/e/aec26bdc-72bd-413c-9494-fc91ef7c420b/B881027028Z.1_20200128125040_000_GH1S8UDK.5-0_Super_Portrait.jpg"
-        width: 587
-        height: 417
   - title: "Tech Savvy: Facial-recognition technology stokes privacy concerns"
     excerpt: "Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier says 72% of ..."
     publishedDateTime: 2020-01-26T06:40:00Z

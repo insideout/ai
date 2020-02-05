@@ -40,6 +40,19 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/GettyImages-1080200064.jpg?quality=80&strip"
         width: 3500
         height: 2334
+  - title: "Facial recognition fails in China as people wear masks to avoid coronavirus"
+    excerpt: "For hundreds of millions of people in China, the spread of the new coronavirus has caused abrupt changes to the smallest of habits -- even a gesture that most in the country are used to by now: Looking into the camera for facial recognition. Residents donning surgical face masks while venturing outside their homes or meeting strangers have ..."
+    publishedDateTime: 2020-01-29T23:09:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3048147/facial-recognition-fails-china-people-wear-masks-avoid-coronavirus"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 52
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/01/29/mask_3.jpg?itok=o51DKRSy"
+        width: 1200
+        height: 630
   - title: "Army developing binoculars that can identify far-off faces in the dark"
     excerpt: "But as the Army develops increasingly advanced technology, its enemies are also getting better at hacking into these systems, researchers said. Hackers can cripple facial and object recognition systems during development, said MaryAnne Fields, program manager for intelligent systems at the Army Research Office. The Army recently funded work by ..."
     publishedDateTime: 2020-01-31T11:53:00Z
@@ -53,19 +66,6 @@ related:
       - url: "https://www.stripes.com/polopoly_fs/1.617025.1580471460!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
         width: 490
         height: 506
-  - title: "Chinese AI start-up develops facial recognition to help identify febrile person amid coronavirus outbreak"
-    excerpt: "Chinese artificial intelligence (AI) start-up Face++ has developed a temperature screening tool that can help monitor human body temperature in crowded places and identify individuals who might have a fever using facial recognition technology. The system is on a trial-run in some subway stations and government offices in Beijing’s Haidian ..."
-    publishedDateTime: 2020-02-05T03:35:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178554.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 20
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-05/02fe8773-384a-430e-8315-b01d2eb69fc7.jpeg"
-        width: 500
-        height: 300
 
 secured: "frjA0cHUaGKddRfaHPMGubvrdK+MKh4WtXq5BmNue/P6f02A7SsRli/+WVqJN1FfAhZDxu54zvXhVc0EqG/78sRHPc7g5wfUL9TkbF6JbEcnsnZHzdTNb6/OZKOg/EA/KbiykZJtNYdUJU3c0VOcgDgJjH/JDCW1VVA6DiBrDSMJ+/oURhegfMgdfTUAurOqpP1ss//fWQfeeaNUFDnw8+JoOH/1+GCX7AKpu/bV0kOnSHc/6PhAZCwSzF1UlS0O7nH1sfdFimFn5pCxg3EZFd+9pHaQ20BXGcFWNxReW/ybnR380tBO39iUQAvucHqD;wN1eSXpbGqaew+44M+G9zA=="
 ---

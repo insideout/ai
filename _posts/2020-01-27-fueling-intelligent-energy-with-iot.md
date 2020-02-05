@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-27T08:00:19Z
 webUrl: "https://azure.microsoft.com/blog/fueling-intelligent-energy-with-iot/"
 type: article
 quality: 72
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -38,19 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
-  - title: "Building AI-boosted Intelligent IP Networks"
-    excerpt: "With embedded AI capabilities from the Ascend 310 AI chip, HiSecEngine USG12000 improves the threat detection performance by five times. By leveraging intelligent security event analysis and intelligent security policy optimization technologies, HiSecEngine USG12000 achieves service rollouts in minutes and implements service-driven policy ..."
-    publishedDateTime: 2020-01-21T17:57:00Z
-    webUrl: "https://www.developingtelecoms.com/telecom-business/featured-articles/9113-building-ai-boosted-intelligent-ip-networks.html"
-    type: article
-    provider:
-      name: developingtelecoms.com
-      domain: developingtelecoms.com
-    quality: 39
-    images:
-      - url: "https://www.developingtelecoms.com/images/stories/Company_Logos/Reliance_Communications_600.jpg"
-        width: 600
-        height: 450
   - title: "Defense Supply Chain Summit: Leveraging the Intelligent Enterprise"
     excerpt: "machine learning (MI), artificial intelligence (AI), Internet of Things (IoT), security, and application development from 66 Availability Zones (AZs) across 21 geographic regions. Millions of active customers trust AWS—including the fastest-growing startups, largest enterprises, and leading government agencies—to power their infrastructure ..."
     publishedDateTime: 2020-01-30T21:14:00Z

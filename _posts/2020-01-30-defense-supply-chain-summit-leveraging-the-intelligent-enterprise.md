@@ -48,19 +48,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
-  - title: "Building AI-boosted Intelligent IP Networks"
-    excerpt: "With embedded AI capabilities from the Ascend 310 AI chip, HiSecEngine USG12000 improves the threat detection performance by five times. By leveraging intelligent security event analysis and intelligent security policy optimization technologies, HiSecEngine USG12000 achieves service rollouts in minutes and implements service-driven policy ..."
-    publishedDateTime: 2020-01-21T17:57:00Z
-    webUrl: "https://www.developingtelecoms.com/telecom-business/featured-articles/9113-building-ai-boosted-intelligent-ip-networks.html"
-    type: article
-    provider:
-      name: developingtelecoms.com
-      domain: developingtelecoms.com
-    quality: 39
-    images:
-      - url: "https://www.developingtelecoms.com/images/stories/Company_Logos/Reliance_Communications_600.jpg"
-        width: 600
-        height: 450
   - title: "Going in depth into big data and intelligence with HPE"
     excerpt: "Add some strategic acquisitions, such as BlueData and MapR, and the company is poised to capitalize on the new super powers of big data, artificial intelligence, and, of course, cloud computing. “It’s part of an entire workflow,” stated Patrick Osborne (pictured), vice president and general manager of big data, analytics and scale-out ..."
     publishedDateTime: 2020-01-27T23:33:00Z

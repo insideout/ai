@@ -20,112 +20,72 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Google CEO backs temporary ban on facial recognition"
-    excerpt: "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ..."
-    publishedDateTime: 2020-01-21T17:22:00Z
-    webUrl: "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar"
-    ampWebUrl: "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp"
+  - title: "Facebook Messenger may soon use face recognition to lock the app"
+    excerpt: "Perhaps more importantly, the text suggests that face recognition details will not be stored on Facebook’s servers. Whether it will implement its own technology or use Android’s and iOS’s facilities isn’t yet clear. And whether it will indeed do as it says will be a whole different matter entirely."
+    publishedDateTime: 2020-01-24T05:58:00Z
+    webUrl: "https://www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/"
+    ampWebUrl: "https://www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
+      name: SlashGear
+      domain: slashgear.com
     quality: 89
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-  - title: "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary"
-    excerpt: "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology."
-    publishedDateTime: 2020-01-21T22:04:00Z
-    webUrl: "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary"
-    ampWebUrl: "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true"
+      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/01/messenger.jpg"
+        width: 1280
+        height: 800
+  - title: "How to enable facial recognition in the BitWarden mobile password manager"
+    excerpt: "The latest version of the BitWarden Android client supports facial recognition. Find out how to enable it. You need to be using a password manager. Period. There are simply too many reasons to be doing so and too few reasons to not. For the longest time I used EnPass, but eventually decided I wanted to migrate to an open source solution that ..."
+    publishedDateTime: 2020-01-29T19:19:00Z
+    webUrl: "https://www.techrepublic.com/article/how-to-enable-facial-recognition-in-the-bitwarden-mobile-password-manager/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-enable-facial-recognition-in-the-bitwarden-mobile-password-manager/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-enable-facial-recognition-in-the-bitwarden-mobile-password-manager/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 74
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 88
     images:
-      - url: "https://www.pcmag.com/images/pcmag-social-share.jpg"
-        width: 997
-        height: 1201
-  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg"
+        width: 1200
+        height: 800
+  - title: "Campaign to Ban Face Recognition at U.S. Colleges Gathers Steam"
+    excerpt: "An organized campaign against the use of biometric surveillance at universities and colleges in the U.S. is ratcheting up pressure on institutions it believes are currently using—or are likely soon to adopt—face recognition technology. Fight for the Future, one of the nation’s leading digital rights organizations, and Students for ..."
+    publishedDateTime: 2020-01-28T13:38:00Z
+    webUrl: "https://gizmodo.com/campaign-to-ban-face-recognition-at-u-s-colleges-gathe-1841302162"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-  - title: "Google CEO Thinks AI Will Be More Profound Change Than Fire"
-    excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity."
-    publishedDateTime: 2020-01-22T10:47:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 64
+  - title: "Face Recognition and Micro Expressions with OpenCV and AWS Rekognition"
+    excerpt: "Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use."
+    publishedDateTime: 2020-01-23T11:56:00Z
+    webUrl: "https://medium.com/analytics-vidhya/face-recognition-and-microespressions-with-opencv-and-aws-rekognition-2ea2bc83f7da"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-  - title: "Surprise: Google CEO Still Dancing Around AI Regulations"
-    excerpt: "But it warrants reminding those very same principles still allowed it to actively develop AI meant to kill people. Obviously, the situation's much more nuanced than that; Washington's geopolitical rivals are hardly concerned by ethics when it comes to military tech. Yet it's high time for legislators to start drawing some lines. And ..."
-    publishedDateTime: 2020-01-22T01:48:00Z
-    webUrl: "https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance"
-    ampWebUrl: "https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp"
+      name: Medium
+      domain: medium.com
+    quality: 49
+  - title: "Facebook agrees to $550M slap on the wrist following facial recognition suit"
+    excerpt: "That feature suggested the names of people in photos so that users could more easily tag them to a corresponding Facebook account. In order to accomplish this, Facebook reportedly used a form of facial recognition technology. Facebook discontinued Tag Suggestions in 2019. According to Lauren Gard, a spokesperson for one of the plaintiffs ..."
+    publishedDateTime: 2020-01-30T01:47:00Z
+    webUrl: "https://mashable.com/article/facebook-settles-facial-recognition-lawsuit-illinois/"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg"
-        width: 1600
-        height: 899
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
-    publishedDateTime: 2020-01-15T17:43:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php"
+      name: Mashable
+      domain: mashable.com
+    quality: 46
+  - title: "Facebook to pay US$550 million to settle face recognition lawsuit and avoid ‘risky and expensive’ trial"
+    excerpt: "If Facebook had lost it might have been forced to pay US$6 billion, according to Matthew Schettenhelm, Bloomberg Intelligence litigation and government analyst. Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest ..."
+    publishedDateTime: 2020-01-30T04:04:00Z
+    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3048174/facebook-pay-us550-million-settle-face-recognition"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
-  - title: "Google CEO speaks on artificial intelligence at WEF in Davos"
-    excerpt: "Google CEO Sundar Pichai spoke at the World Economic Forum in Davos about the impacts of technology and how artificial intelligence and quantum computers can change human lives. Pichai said that even though there were risks with artificial technology, the biggest risk was to not work on it and make AI better."
-    publishedDateTime: 2020-01-23T09:05:00Z
-    webUrl: "https://www.wionews.com/videos/google-ceo-speaks-on-artificial-intelligence-at-wef-in-davos-276113"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 37
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/23/125592-pichai.jpg"
-        width: 918
-        height: 506
-  - title: "Google CEO vows respect for privacy as data giant develops AI for medical use"
-    excerpt: "Sundar Pichai, the CEO of Alphabet and its Google subsidiary, said yesterday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence (AI) to improve outcomes. He vowed that the technology giant will ..."
-    publishedDateTime: 2020-01-23T02:46:00Z
-    webUrl: "https://www.independent.ie/business/technology/news/google-ceo-vows-respect-for-privacy-as-data-giant-develops-ai-for-medical-use-38886750.html?token=208054049"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 36
-    images:
-      - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
-        width: 531
-        height: 342
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 0
 
 secured: "sMk+rFvqt3KswgrKd81zf3TpxL1eUi7AIyScQ+tM1JABv7SPsTkQgHFmx9yasu1j3twLFYZp1rRBQgS9dsd5ztxsknoz25JKs7ZQqA/vaixcaM7lUYFlwKleDe9wtMku3Ss51x8P2DPuhPFocnKJWobC2UjxbqoObqQfw8qXIiEY4BBQDr5vA3hf6Syn6UybO7TSq/jXlUf/S/qQoNfgWaI4Qy41kOTogxuivWqEzNhRd6COToShrRE0pYLW+wFNMD2wgBEYo1WI7Kf/vq3L6oJ/U/peUNlnTOI2Xa+mQKk2H/s7SVhvfE2LEgzxGBsy;2SBif+SFjqNb0EyOneqKsA=="
 ---
