@@ -1329,6 +1329,6 @@ related:
       domain: dailybruin.com
     quality: 10
 
-secured: "/z1WQFmlwZyMrIvwiHOmLTvs8DRXgsCepvtRQHKumsaFsSwDxW6Ix4Xaia2fdAPlC1aKPM4AI8HACC821whN5feavyQeJwQxPkRWHx5aTHXv9UiyliWc4a/OwxoUeq9Iv8sDsduJDGo+4q2oIIzcwMUTtxj8ZZopPlYww6d69H+jBgDYkqJMteZhBSQEoI9jFaN4tCVxrqeXKX0HQtZEgOL/oXUQUZQwAHzpUrz7pslB0nSJd/pisG3pHVWM022Uf4O2rX9/NWaxL2fpWaNggNnx+gtpW0zQCeEA8gpPZnolgkwIoQaCvFSISV73GMm4;FMEh9zQIeixzHptMLjWnVA=="
+secured: "+8Spf7D+ELX/bCIMC/GNWK5yDEAIQ7KrS+AfTC4kv/WTzdnJqZOMabIW+ExHY+Y88LOnJRYIVMQwy9Q8UKRQuRYycQ4a1QQpyaTL9a2+1DoeNs9qFUouxj4R50SboXSjUtgeXH3Gihb6QdgVU4KKyFHeZUaEm0t+7asa7nx3MX0MSI/tyWItgk/pzZpwyN1vVb8ha2JYNrLTeuU2xStS3AMP1OimjtS92WmvHXhcgqMTzDoP4c6Isxa6dpII9gz00HKZBd6c8n+iivL737hD2pISeBvx8uA6Erie9dTzsuALepeZzlGMx6dOk0h4EmiA;69x4hLP63iQdMuo6cw+UVw=="
 ---
 

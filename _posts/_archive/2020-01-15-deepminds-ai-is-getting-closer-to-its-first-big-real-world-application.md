@@ -23,6 +23,6 @@ images:
     height: 753
     title: "DeepMind's AI is getting closer to its first big real-world application"
 
-secured: "jXO4kt8b0Dy90vSLbZ5iEXINlho0+1vJq9uoWl6sKQY1vusMOmPTeRoHKUMGEH9rxv0QvUVkj2rkf8HwQA7xC0dIQlV0Jos9huJJ++jGBmC+HZEOhy0p0NQrSjPhJjNpIO2gISxgSerLAMNo/ZV5ew5OWCeKNN2g3yl6BYbTWp9W1po7gR3gb2XBAnqfAo8h9lN+75KEsS5ok/6t+cm2xSLkz8ZC8Fn/dfD6cr9zhTesSolTgHYhPr/JHpZNBlTdw3kR5a67Jq+g2rzQ7UrQiXcuUOvS+pna54UvXmRriAZU676XnMD4M1VBN57oTSn/;WyOi5uboSHB28ZG443OAcQ=="
+secured: "TF94eBPc0pU2tuSh2oUzkgULOXKUTj2UXSD3wwFSmBNdaCau/gIjShI/FDHxvC9ddScCIjUkn58Jve8gSOYT1zE7mGqnlAiYfbEee1xFsV1Ag3M2+B50JpXYW8OvVfTtANm99QcPN0rxSSsxxvkNhiLm3jEX8Y1568BpKvSYLgufAsEBJ/J2pjn5Z2IsXpYOGlXr694sx8z5o+efvvc7yy9uQ/MvBDXLDbZCjIeTG0sSx3Fclj6fckcy/k4thWToL2mIjB83o/81p7uxjiqVFqeHKPby0g5S7z4cKGYQZzh0nM+Lnaj/MQ5KU6j5FAUf;JJwKpQ1XAmwbOALM3CKtqg=="
 ---
 

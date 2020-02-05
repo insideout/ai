@@ -23,6 +23,6 @@ images:
     height: 400
     title: "TensorFlow 2.1.0 adds experimental features and breaking changes"
 
-secured: "RoDFYBTfx68MBA23VPYLmEkGEVj58MzQgNCrx+hxleRJ7WxamDTyTiXym6vxra85dBUCKSzq/SUmimfEkFXVzGQOXtReqbGJnv4sNGvCjgNgzKESoHksPIT70d/rN1EjEMCmwVLZ/uj/51wPdA9qyk6dntqJEKTAIDEw36vwA8GbFuxfLQwamPGF6TDOADq/2y3ioEuReGpc7zA+ROCev0Cl50bY1mAleDU2O3DP3JJJtR0SPO6OgciMFaorvnOcrG1D3KAjciSZ+k2eleztBFz6Qk/6lvkonr7/Iko7T4WAWWMQfRX2KtfsoRnaXVYE;RRv6p87NbXVdQl5FcMlEog=="
+secured: "b+1zMJqmt/7p2gzsoWRMKQ1RHD+o75XC9LnmMLMEHhNsIzroxN/UdRfoyM30kyvV3awcfo0uiFryZQIfk0yIUVeLaSwrdwpyZ/j0i5FNqFsXoHAMvEdSFppKH1nLT38nGYDv6KT4eZ4QcHhjctJTr0Z/a2qgNXWSxBQH7mnLi5/A+QvlirTLD6w96gS2AQ35d2ZHoR0SaoeRTgRmmm0rHrMFakeq0sV9FQ046Ak/QWsfEzD4Rfy+2fYvb7HaaI2+jU6X/KRNlzM08zsLBSqrrZudbfrZYASreSo9ZeFWBR6CcE6W1kFL4IdNu+/+K4QP;ggG90iOPtOCHkjZukp6XmA=="
 ---
 

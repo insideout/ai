@@ -24,19 +24,61 @@ images:
     title: "Global Artificial Intelligence Market for Automotive and Transportation Industry Anticipated to Reach $69.05 Billion by 2029"
 
 related:
-  - title: "Artificial Intelligence In Agriculture Market Are Going Towards Increase In Productivity And Yield By 2025: Grand View Research Inc."
-    excerpt: "The Global Artificial Intelligence In Agriculture Market size is expected to reach USD 2.9 billion by 2025, according to a new report by Grand View Research, Inc. The market is anticipated to register a CAGR of 25."
-    publishedDateTime: 2020-02-03T17:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-are-going-towards-increase-in-productivity-and-yield-by-2025-grand-view-research-inc-2020-02-03"
+  - title: "Artificial Intelligence (AI) in Medicine Market, 2025- Global Market Projected to Reach USD18,119 million by 2025, Growing at a CAGR of 49.6%"
+    excerpt: "Artificial Intelligence in Medicine Market by Product Type (Hardware, Software, and Services), Technology (Deep Learning, Querying Method, Natural Language Processing, and Context Aware Processing), and Application (Drug Discovery & Repurposing,"
+    publishedDateTime: 2020-02-05T02:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medicine-market-2025--global-market-projected-to-reach-usd18119-million-by-2025-growing-at-a-cagr-of-496-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "North American $30+ Billion Artificial Intelligence (AI) Chip Market Outlook to 2027: Projecting a CAGR of 32%"
+    excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"North America Artificial Intelligence Chip Market to 2027 - Regional Analysis and Forecasts"
+    publishedDateTime: 2020-01-31T09:18:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/01/31/1977988/0/en/North-American-30-Billion-Artificial-Intelligence-AI-Chip-Market-Outlook-to-2027-Projecting-a-CAGR-of-32.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 31
+  - title: "Global LegalTech Artificial Intelligence Market is Expected to Grow at a CAGR of More Than 37.7% Over"
+    excerpt: "PUNE, India, Feb. 4, 2020 /PRNewswire/ -- The digital reforms in the legal industry have transformed the traditional courtrooms and law practices, thus strengthening the prevalence of Artificial Intelligence (AI) in legal technology or legaltech. The increasing burden of legal activities, carried out around the globe, over a limited number of ..."
+    publishedDateTime: 2020-02-04T15:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2020/02/04/9091877.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
+        width: 400
+        height: 400
+  - title: "The natural language processing (NLP) market is expected to progress at a 19.7% CAGR during 2019–2024 (forecast period) to $22.9 billion by 2024"
+    excerpt: "New York, Jan. 29, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Natural Language Processing Market\" - https://www.reportlinker.com/p05842957/?utm_source=GNW Valuing $8."
+    publishedDateTime: 2020-01-29T07:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/g15205612/the-natural-language-processing-nlp-market-is-expected-to-progress-at-a-19-7-cagr-during-2019-2024"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15205612"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15205612"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+  - title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
+    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
+    publishedDateTime: 2020-02-03T11:44:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 1
 
 secured: "t5mVfFZuR66gG2gjaF3geaHtRbrXYEuAUt1VGTMqn0ghlRFEPYllofFKZbCwczVXhcdTJIj+j3hm2WAZWk/w5zP9S2Go0Nduhu7clXZ491Gvl8InkMQyC29I7tUGLTSjinKFoohqwNEMulmx9gmbQVu2wZPGFa2mrw/BkYtkutpbXpCMCAaDQRNs1huTrxLFrO1VQmggNVZqCzjd9rb4hag4UD3Hb1Tp9J9cPpt0RWoWn7FkAmclqiJ0vLL5pvYG0kAbmOoiZUPBZgmO+VjX/DU2jIUvpUJgHm7RNHZjxGU9G7yVyR3HDgMmz97BhD6xvyHPN1jUHCSHlLZToRy6f0VMDQvb6YiDyX7R9qh3mavy85m6LutRkiHaeZ7+6Z/RqShWVYISahoDxCM4cpoO0ALFYsfL8Kw4fKVDKEkqzvRPAlJyLvznKcaTFvCyrQ3ufSw6H4fchuWmnXrZrnvlNF5dSu+l0dX4yUDTwvZG6oM=;vlOdCThLOZO58VjV3jm4eA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-machine-learning-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/"
 type: article
 quality: 119
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -115,6 +115,19 @@ related:
       - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
         width: 1200
         height: 630
+  - title: "Optimized AI-enabled machine vision is getting widely used in manufacturing processes to boost production efficiency"
+    excerpt: "According to Hsu, neural networks carrying out deep learning algorithms are very complex. On top of that, the different AI accelerators designed by leading chip makers, including Google's TPU and NVIDIA's GPU as well as Intel's and AMD's AI processors, may deliver different performances on the same neural network due to their individual ..."
+    publishedDateTime: 2020-02-05T02:19:00Z
+    webUrl: "https://www.digitimes.com/news/a20200205PR200.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 16
+    images:
+      - url: "https://www.digitimes.com/newsshow/20200205PR200_files/2_r.jpg"
+        width: 336
+        height: 224
 
 secured: "smPhZaVWaBnOD7AkbFcyZCzMb5pgIsd9sFTjYS7nasvH28gdxDt5T9l9bdl08Shpux6gvonLZFURdve0k5E8pUT1kzhg28eV5Z+qqpjX1SSga0mOulzBIS8cR0ou/V6BevmXFIT0eeCFkcbkROOJc9EePaZ4KC1dPyl8BKBLmst9P58VHwpzlDdchHdxWJVtdjU3tXe1v+tA0qPxvD0SFAqZY2r90GM+Ji+Cr0qgG4SYfykIRX69nkiES7zf0HSPEM+h81lsq4ZQBaFaNAQHcd0DjmYpAjwpHp9fFDYT0kQOdpsC5aIqKx7ecRBVAiha/jfPiIAXGJrActeV8cHyBDt7JaYy2GT+Z7Ta1SNoMiNDeOEL2andvG25arRh5TNzNLbaRE/oDrc8lO+OrmRYtvPNmhPzFOCmprrEkoPWeS2AXarNtBV8+OpsHE4R2phCqrq3aHbNJn0QHcy9p3LHqigqdW74Gkw+w6OvMnq/VN8=;SXIwPFYAFlD+0YcVq6Cjnw=="
 ---

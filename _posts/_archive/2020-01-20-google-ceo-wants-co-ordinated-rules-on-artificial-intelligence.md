@@ -72,7 +72,7 @@ related:
         width: 1024
         height: 512
   - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
-    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI ... devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned ..."
+    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
     publishedDateTime: 2020-01-20T19:06:00Z
     webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
     type: article
@@ -258,6 +258,6 @@ related:
         width: 531
         height: 342
 
-secured: "UURprj/jw04jDTmQtPt7Urq3e4c9WIeItxe4MbhutE+pT5oh/Q+74Y1+LKEPr26JlRru01GEt1LdiggcBMRYQzPYRne6t7N5sX0edOzXH+Swo5ACJBcY4lkfH67OcfEjdglWMYRmpKoor2zfOgFLwNlBtH+g7hGg+TASecX/2obPHeuc1HhAHTsNlF0MSsIlz0IvvV20Ci++kQHQyPGbQgKsz3uaskWIBJzWnK29G249Sec+EQfP7hBzT6xHZGOUZKUoF0PE9XhuT37vjRWuthUxck1LXzx5F4fUcovOBIrPJynJeYOkw8q0ho9MM6vH;J+RrirM+SYD98JNpHXpd/g=="
+secured: "VFYjcV5ImlZ0WMh53TP+GP0UZejxuhvwpZCUt99dbetrFv+EOYZwroYQX1P8osRla+66XLkOdqsJXOCZx0KjDW+2tiw8XjhH17hpZKg6gOR9Dnn+UyIwIV5l5wDV+ExurGUKz7L571zjaG4r5L5IsPeehroQHxwJHHBBukOxhYE0J61tjNuSjBL/zkGU6wPnpHh00D+7QurZYLBTakEfNcqFH9NCKRCxGi6wswXJX3PXdjluoGHy8PDr3Sjq8aeOTv8gARSmZ66ffdNv5UqvVW5K1PcTX0+4XOGtBPzMhnQCsmjonjRDdW6ROSqJbscF;DyLHE1prZOuMVECVbs1xqA=="
 ---
 

@@ -114,6 +114,19 @@ related:
       - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
         width: 1200
         height: 630
+  - title: "Optimized AI-enabled machine vision is getting widely used in manufacturing processes to boost production efficiency"
+    excerpt: "According to Hsu, neural networks carrying out deep learning algorithms are very complex. On top of that, the different AI accelerators designed by leading chip makers, including Google's TPU and NVIDIA's GPU as well as Intel's and AMD's AI processors, may deliver different performances on the same neural network due to their individual ..."
+    publishedDateTime: 2020-02-05T02:19:00Z
+    webUrl: "https://www.digitimes.com/news/a20200205PR200.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 16
+    images:
+      - url: "https://www.digitimes.com/newsshow/20200205PR200_files/2_r.jpg"
+        width: 336
+        height: 224
 
 secured: "5NPA4gaqE2xEef2bUbLduERwSfs5C74+rCDyOeoC2v8+B0Puci3RsIvRwMHHJP/kj5X+Cl+y/V5eF8YugGByZ5IDOaCV7AlKdQLsuXppsfCThIxPxQl8xOCbKZXJIv41c7ry2d/BD6V1nSb1+mu30AVOBmZWmhD7DFieF3cMAFed/gfbBOQYajhyPEQlEdJEE9RR3a5JbBxBF0OoH5+seKXGYdUTVWJsTsBNA2+Jy9WjzsektkemYQ5toMr4iyFc8VAnO8B10+pb3Mt4TvBUcv1WRvo+OH+8cU50SLwyb1ST6Ia4PD4y62uFArrYNgc9MJnuMDEo6xPvhFEsQyG1V7rsjGQBUBQhOz15ZO9nD1PENBSHGJ1btzqnhJglab8HmYK/NVRhtPobJZ0Gscdz4i0w01yzPWynRbn75Qa9r71ENHgaWGXOTdiKOJxuyFB0YYvLn/TL/NuvWbTtpKLS6cQS5iucl4ATTfEOUHUkO6g=;k1QCFoXgVnsDwa7tDcVseg=="
 ---
