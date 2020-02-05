@@ -50,19 +50,6 @@ related:
       - url: "https://static-news.moneycontrol.com/static-mcnews/2017/03/railway-wagons-rail-goods-freight-transportation-coal-cement-378x213.jpg"
         width: 378
         height: 213
-  - title: "Facial recognition tech to find the Holocaust's lost horrors"
-    excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Francesca Lynagh reports."
-    publishedDateTime: 2020-01-21T16:01:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVBX4GGOB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20200121&i=OVBX4GGOB&r=OVBX4GGOB&t=2"
-        width: 960
-        height: 540
   - title: "Facial Recognition Biometrics Market Advance Technology and New Innovations 2020"
     excerpt: "Global Facial Recognition Biometrics Market Research Report 2020 provides key analysis on the market status of the Facial Recognition Biometrics manufacturers with market size, growth, share, trends as well as industry cost structure."
     publishedDateTime: 2020-01-27T05:56:00Z

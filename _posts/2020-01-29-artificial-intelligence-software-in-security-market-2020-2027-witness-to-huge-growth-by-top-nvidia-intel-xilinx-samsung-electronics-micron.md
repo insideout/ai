@@ -30,15 +30,6 @@ related:
       - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
         width: 600
         height: 246
-  - title: "Artificial Intelligence (AI) in Cyber Security Market Top Key Vendors- NVIDIA, IBM, Cylance, Intel, Xilinx, Micron"
-    excerpt: "Zion Market Research published a new 110+ pages industry research \"Global Artificial Intelligence (AI) In Cyber Security Market Is Anticipated To Reach Around USD 30.9 Billion By 2025\" is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term success. The authors of the ..."
-    publishedDateTime: 2020-01-31T10:37:00Z
-    webUrl: "https://www.openpr.com/news/1915507/artificial-intelligence-ai-in-cyber-security-market-top-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
   - title: "AI Powered Cybersecurity Startup CYR3CON Closes Initial Investor of New Financing Round"
     excerpt: "Jan. 29, 2020 /PRNewswire-PRWeb/ -- The artificial intelligence powered cybersecurity startup Cyber Reconnaissance ... there is a great market potential in bringing CYR3CON technology to industrial IoT. CYR3CON's expertise in AI combined with Trumpf connections and experience in connected manufacturing devices will well-position us for this ..."
     publishedDateTime: 2020-01-29T12:00:00Z

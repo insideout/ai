@@ -58,19 +58,6 @@ related:
       - url: "https://static-news.moneycontrol.com/static-mcnews/2017/03/railway-wagons-rail-goods-freight-transportation-coal-cement-378x213.jpg"
         width: 378
         height: 213
-  - title: "Facial recognition tech to find the Holocaust's lost horrors"
-    excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Francesca Lynagh reports."
-    publishedDateTime: 2020-01-21T16:01:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVBX4GGOB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20200121&i=OVBX4GGOB&r=OVBX4GGOB&t=2"
-        width: 960
-        height: 540
   - title: "NEC to Provide Facial Recognition Technology for Mitsui Fudosan Hotels"
     excerpt: "NEC Corporation (TSE: 6701), a leader in the integration of IT and network technologies, today announced it will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\","
     publishedDateTime: 2020-01-28T07:12:00Z

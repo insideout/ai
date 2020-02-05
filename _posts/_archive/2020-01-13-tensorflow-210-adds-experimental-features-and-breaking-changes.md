@@ -23,6 +23,6 @@ images:
     height: 400
     title: "TensorFlow 2.1.0 adds experimental features and breaking changes"
 
-secured: "E134MArCO99GwQ+K1NdKInYjz/3En8GiMUrkQT8RX8OZxrCrcl9ZhXFSzETU8aUPZhhzvUlC19fRMkfrY68pzvlm9laPdNzmttB6M7VEWNrUcUYOQE7HnZPDPnzCZRvVvDRsDXurGs+1s42jLJWR1Kasx3WxwlsQGvtA7n/nG4FN9B86/jpwlIdY3C6Qtnrv/RcX+DICtY9ThaSD+WzdIeQVmkP/7g1pTfoWzJJ/p8qh9ptEhu92tG6HARyHElQodivHZ0VUQNmFyJvZg6hE+u20m23pzDFyy83YKCq/krbs6cbllgxzHig2GL5sxBPm;op7WH29zMoFouJNRZ/OgOw=="
+secured: "OLijaPziADDb1DqxNP4ImvLmYV378hSgseb4q3csU9RGFlb1Szg+zYCYf0krqqhzRqrIEQIx5+oJN27v0HivyhQ0K26QVpYqEodipU9AFj/IhEZZf5A/hJUll1mQ4jL6g4uZTZddtDKz3MlEq2bIOgeZcciJBSs2ZNSn0SfbkV4W3ciXpT4IGohOjbzVJGPCp+bu5Ob4IlRr1bNEQdBeVtadyZgeceWZS/i+MSvfxl7UKaJFnDVplhupnjFv5fKSq49JPy02SHUasYcC8PyjwoHxoCkUaGmYRPszVDqpyY46XDb3+5K/mPkCJa/veNIc;LL044Sw2OynNDMHEl4PEiA=="
 ---
 

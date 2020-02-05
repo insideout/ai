@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Toyota, Ford, Aptiv, Baidu Lead Crowd Pushing Mobility at CES"
-excerpt: "Baidu, essentially China’s Google, also made a couple of key announcements at CES. It debuted Apollo 2.0, its open self-driving platform that gives vehicles using Apollo the ability to go ..."
+excerpt: "rise of self-driving tech. Earlier this year, Xconomy Boston’s Jeff Engel reported ... plans to release the car in China next year. Baidu, essentially China’s Google, also made a couple ..."
 publishedDateTime: 2020-01-11T00:00:00Z
-webUrl: "https://xconomy.com/detroit-ann-arbor/2018/01/11/ces-roundup-toyota-ford-aptiv-baidu-lead-crowd-pushing-mobility/"
+webUrl: "https://xconomy.com/detroit-ann-arbor/2018/01/11/ces-roundup-toyota-ford-aptiv-baidu-lead-crowd-pushing-mobility/3/"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 600
     title: "Toyota, Ford, Aptiv, Baidu Lead Crowd Pushing Mobility at CES"
 
-secured: "aHH19cWSuqa4z5LAwkkbzZW8xJktxMP8nHtenWl/NOJjBBPkOUki2O5jbKw1K0lhPuD+Fpbq31eNjgb/wiWPD/nJBqfrSWqXWhveI34CphXnsCAVCyTS6emWk710k2yccQfeQAq3JCuLVRS4hQVhYfKEVwBCY0c+M8ckrDp2W1ebzpel649wfP1YJd5Gl4Kw1ljdv2Enhc6a/RicR8yhU6vyezOU0H0pqomIULGBBM/xi70Sz0VQd2UvTyf3wINK+gPM61E0gTmbnZGY3mn9jiJnSziRCO3m4ypVZu2OCDmsL4vyi7ZZMwqtz+kF4DWt;tt7mDd+00zIrtpB0+jheqg=="
+secured: "JLNFd/a4xAx7Fhgv0IhUQNs0Vs2u3eJfwL4xQnqOaQsXiGPWAofubmjAS/3UCXG2hY2o5M4PiNfldmm/JKipKoFZjpTN98bkmRxlYFzYr2b5/p3xOGbOu5b/vTmlLWE2tDE7cjXAMyaAACLtmGuWBwdf9B4MfDidxBq2f+5I3eudVl7FKkSyw8itmXjEXZTchozyWqlu1fGBa81XahN10XBakdxYbNiiyxB+pbezYt+xRybE7iRQQ+SWwl/gPWt7y1537PK1VVDRwfw/HioiuY2+aaui94RReVtIfSqGWqtytyLDDN8IyGaUiUfDAWlB;y9ZKSrMWJJFymo3KDDgKhQ=="
 ---
 

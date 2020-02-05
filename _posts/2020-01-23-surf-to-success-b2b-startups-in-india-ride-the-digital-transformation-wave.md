@@ -35,15 +35,6 @@ related:
       - url: "https://www.htxt.co.za/wp-content/uploads/2020/01/business-4657387.jpg"
         width: 1920
         height: 1080
-  - title: "Understanding the ideology of digital transformation"
-    excerpt: "The Four Technology Vectors The four technologies shaping our future, according to Siebel, are cloud computing, big data, AI, and IoT. In a nutshell: Cloud computing provides convenient access for all businesses to essentially unlimited compute and storage, with major providers (Amazon Web Services [AWS], Microsoft’s Azure, Google Cloud ..."
-    publishedDateTime: 2020-01-21T15:41:00Z
-    webUrl: "https://www.aei.org/articles/understanding-the-ideology-of-digital-transformation/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 4
 
 secured: "ws4fCQYrfwlX4D9dRlREU3QgJ0vmH2zMgGrHSBfWQimSf8uQVuShB9GfFN2IIK2Sl2cbrlYRUtrIRw6U5DWpHNViJ9EBuLwqQR4WAXA5s7YDKQbOp6ZGMAAse+MemzWG5XAexxGtjUBsPSULgIMHyrYw/68SjMpfp1I6keYHaTdME7TTXzcrZfFPUmw7SGep0+lpIW3IsvCAOu/HHzo+z0baLIsEe+189H5/QBj7T4UIJ35VTx3rWILDYxuide8bbskYqn77rjVmje4WFlG5zV10pQ0LjOCq5YS1p2HzBzf4b5gwhpweHf7L7kdRyCD9WJ32pbKtJoRdyRg82f3teDNqorifGbDXt7N6jg39uq+rJH+1e+GFpEFidrOTBiRFtjQMcgG9url/Y2DrwfHV4WsHTsYbRvchB3/8AJZuryrq1EGkbIwaOQDZMr9UTOYOWW/o82KCeLym59+kxan9UQ==;nM7Dw/a9biPtr9jgzEGy8Q=="
 ---

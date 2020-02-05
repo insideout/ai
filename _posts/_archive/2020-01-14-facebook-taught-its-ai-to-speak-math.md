@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-sp
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,23 +29,6 @@ images:
     height: 350
     title: "Facebook taught its AI to speak math"
 
-related:
-  - title: "Facebook Invented a New Language for Machines to Solve Complex Math Equations"
-    excerpt: "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ..."
-    publishedDateTime: 2020-01-16T01:33:00Z
-    webUrl: "https://www.vice.com/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
-    ampWebUrl: "https://www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 71
-    images:
-      - url: "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*"
-        width: 640
-        height: 358
-
-secured: "yCwhJy3ZwVI+Zu88nP3gFdNzxSNdBvQ6E1AHShwmkLhrCKGs4PlHWbfpyVqtpwWyhtCf/ZxLB3dOu0aE2Z+5MuFK3fyVyL0m0/s7+mv1bohIGbhoMiWSzp96EBhEHxLeifTMXnW05cfBA9/m+j+CPdDNoDhCYotRr3imskMrrB4OkC7pBFFgegKZKzn5o/xz45TBTy689waK+nWTmxWo6VprD5/D4IAGvsgII2bBkYYJNoNBtozRpX5VM5IEQT16tMaZw0cdIve6nk56YhWiGPWJopjQWx9Iv1imlxLrLi9uC7myzKTyDw5etXCnEW9V;Vj4fQkk0WsAbktp5ofUThg=="
+secured: "3ivfcU2RPlSpL6vJppAuy0dkP/+7BNSQEmhBv24T8iaM56feVJ9I9xjLElfIL7b6Xiih2grT1/egcRDBTa6zUQLgnG0rp68/KtCxhCiyhG7CkMItSKnOSixpo6A0Q7KOO3ubsxrAeZdGKk3ANHHMCT4l4gwLF9JF65xB9Oi5YSpmv2aLLb1a2yK4B4wtZeg8laPa9MJX3zuuTFPw7xCK1tVInLce5uj89xFnYzjv+v5wM93Ht/uEx+uOvzGPF1iiWW1PdaIt/ycZj470UOFdKVuILZoV3R5j2KpZAyH6GpnRRt48MUqT6siNNvUWxdP5;6NgCRqm65It1PJkk6kBQ5Q=="
 ---
 

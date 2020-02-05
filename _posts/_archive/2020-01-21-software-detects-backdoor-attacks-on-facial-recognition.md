@@ -522,21 +522,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8beef1a8-3c4a-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "Supreme Court declines to hear Facebook facial recognition case"
-    excerpt: "The Supreme Court on Tuesday declined to take up a high-profile court battle over whether users can sue Facebook for using facial recognition technology on their photos without proper consent."
-    publishedDateTime: 2020-01-21T15:55:00Z
-    webUrl: "https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case"
-    ampWebUrl: "https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/sites/default/files/facebooklogo_112819getty.jpg"
-        width: 980
-        height: 551
   - title: "Met police to deploy live facial recognition in London"
     excerpt: "London’s Metropolitan Police has announced that it will deploy live facial recognition to identify citizens across the capital, flying in the face of calls from the British government, regulators and citizens to pause use of the highly invasive and often inaccurate biometric technology. The Met said that standalone cameras would scan passers ..."
     publishedDateTime: 2020-01-24T13:47:00Z
@@ -1301,6 +1286,6 @@ related:
       domain: dailybruin.com
     quality: 10
 
-secured: "LVqavJt9c5EnF+nRu6ZQlaczRH4foQdVndI6IgQe1+rIfUsV4wcSSjmFI2tHQYMfNm2VzGDCruqU5QPj3isSHRg3LS7DmlkrQQ5jaBL05IS4pEs068huRvKGdUet7Js/Mz48YMEIChOu4TQ40dSkuiftPieornRezo3+C0efXYTjWCsYqUqSCTueyWF/XzpQ2e0dYlPxsXV1g/61nb9+i4UdeFDzHWmTJ3T7l6DaJGs+Z1JPeAtYv2lehMGa1CCHV33J4k1P73ax3/gYvHhg6vs2Lm6xdyD0SOCBjQOC51P/jI4oregBKR5gO1RnoPc+;u9XqTiLODweRVkkXYIcTTw=="
+secured: "zJdsw5gHBNaiVZ5S1fkRZ1OsjMd/bRSwqz3BnbAuhB/yB5RoolLCEedAkiMYLmoDNWAiZpbmHGCMbvPCnpMcjKBmbsqfPFWldyVDfxxiMkmYJQSRl492RJgg4xjcTUTLUwGC5ruBqtSZs6J57fWRC5e7SmnlFkOvmfGrN604+uHLBKviQzXwDf+/Xtpy7t9ZaxbhWsZ2Z9vWnFIZHLdzFHDJAB/kCQ9VaFKWvt9yRk0UvwYh3aCTi4XCKk6Be0rutRmBiWwsPHybbb/bUdPGQwF2U4bavmasW2wOfDqKP+IhWoAcf/ermSeA4iH/iMip;JaHmejtyRKct7XAfAwMkFA=="
 ---
 

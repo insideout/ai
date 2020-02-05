@@ -36,17 +36,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/lumapps.png"
         width: 718
         height: 400
-  - title: "Here's an exclusive look at the pitch deck AI privacy startup Mine used to raise $3 million to help people ask companies to delete their data"
-    excerpt: "This is a Business Insider Prime story. Click the link below to read it."
-    publishedDateTime: 2020-01-21T15:06:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/heres-an-exclusive-look-at-the-pitch-deck-ai-privacy-startup-mine-used-to-raise-3-million-to-help-people-ask-companies-to-delete-their-data/articleshow/73494734.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/heres-an-exclusive-look-at-the-pitch-deck-ai-privacy-startup-mine-used-to-raise-3-million-to-help-people-ask-companies-to-delete-their-data/amp_articleshow/73494734.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/heres-an-exclusive-look-at-the-pitch-deck-ai-privacy-startup-mine-used-to-raise-3-million-to-help-people-ask-companies-to-delete-their-data/amp_articleshow/73494734.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 2
 
 secured: "1dnQK0sFeHDxyUwcKY/Alc9vKm2GmhUbuWEAyYmLpNKH6xTi08V7RYBKpLM1B4tP4SmTgUUYdQSVJ/4KdGZdfVY8E9fWxtMxQs03QDD3oqvw78CDCdR+t/CxE3N1AwAV3eccpjcL49/PfAPTNp8MtKYBdvp1szG5FEHNHplprcF5Fwn1gzSHreukDBUuTJRtb7QBU6I80w4iBDolJxeiVDBqzY6guj8Jv+ZNh7SI4uH7zgLqauvU6scGZV2LWcssyu5itocG42sfK15Bms6t0aIbZM+IDXvQfUW7IFr/YJ1j2Mpxh/V3BduZztUjKVM6QpchuUjUha3THn1Cs29XIfxi1ULU1V3bNRfoCCF8wv2ARIsQTZeyBmkedhBn9PNboTOCAzF6vnRZkCp7HgKkv3YHhvVdqtzJr5Os/MxHQgmyXHIdpACSFpg/2ZVDyozfaZDZKn+gAJjLh7vIBceK2wZgeD0TncJ6aqVeSXsmJF4=;0VbC7cp99OMFentI+aU8Qw=="
 ---

@@ -60,21 +60,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
         width: 1200
         height: 763
-  - title: "Chinese City Uses Facial Recognition to Shame Pajama Wearers"
-    excerpt: "Local officials apologized, but the crackdown on a common — and comfortable — practice has raised a rare outcry over privacy in a country accustomed to surveillance. BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,"
-    publishedDateTime: 2020-01-21T15:50:00Z
-    webUrl: "https://www.nytimes.com/2020/01/21/business/china-pajamas-facial-recognition.html"
-    ampWebUrl: "https://www.nytimes.com/2020/01/21/business/china-pajamas-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/21/business/china-pajamas-facial-recognition.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 189
-    images:
-      - url: "https://static01.nyt.com/images/2020/01/21/business/21china-pajamas/21china-pajamas-facebookJumbo.jpg"
-        width: 1050
-        height: 550
   - title: "Twitter demands AI company stops using its images to fuel facial recognition"
     excerpt: "Twitter had demanded that an AI company stops taking images from its website to be used with facial recognition software, and deletes the images it has collected thus far. Clearview recived a cease and desist letter from Twitter, after it emerged it has harvested more than three billion photographs from sites such as Twitter and Facebook ..."
     publishedDateTime: 2020-01-24T11:58:00Z

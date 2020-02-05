@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-27T10:59:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-by-top-companies-alphabet-google-apple-baidu-ibm-ipsoft-microsoft-corporation-2020-01-27"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 630
     title: "Artificial Intelligence Market Analysis by Top Companies | Alphabet (Google), Apple Baidu, IBM, IPsoft, Microsoft Corporation"
+
+related:
+  - title: "Artificial Intelligence in Education Market Is Booming Worldwide | Google, IBM, Pearson, Microsoft, AWS"
+    excerpt: "Global Artificial Intelligence in Education Market research report for easy to understand detailed breakdown of market growth factors, advance technologies, industry drivers, challenges ..."
+    publishedDateTime: 2020-01-20T15:33:00Z
+    webUrl: "https://www.openpr.com/news/1901623/artificial-intelligence-in-education-market-is-booming"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
 secured: "/lJ44mnsEvz8iPFqFP/2SbVwTt9knegBayccUfI1ryYRnqaGe7u47vA5jPnbd47mdH76Ng5/e0bkvvyuIiBKRVQf6R/7KWPhNk1Xa6ie7D6MHuNkFNqK+IF6Om40O37o+OzyIyn6aYFeOZlhSQCiUgAsEJj7XEGEF6jZ4vmCsgg0zzlkaRXEM2g0Ll0diPml4e/NVPnLxiq0ntnMjmPQT2ZEkwYL4om0e7IzlrccnQ+bsAn6DQUMTdisDiOivoO5iruf0bDrSax1h5xc4bQeOls1IesEHhd7JlsslbTmiN9T1lJN55C3KmC3bLp8bXeD;XrG5a99JATC87w2r1fPOGA=="
 ---

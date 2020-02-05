@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Artificial Intelligence in Fiction, Fact, and Our Dreams for the Future"
-excerpt: "To celebrate the launch of Machina, a new story about the race to build the robots and AI that will take us to Mars ... Then there’s the question of real AI—what happens when the machines with these capabilities start making decisions and interpreting the world for themselves? To my mind, that’s not a story about maker and machine ..."
+excerpt: "We don’t trust AI—no ethics, no “humanity”—but we don’t trust ourselves either—flawed, fallible, too emotional, too “human.” Martha Wells: I think it’s frustrating enough dealing with an answering system for an airline or pharmacy that wants you to talk to it but can’t understand your accent, it’s going to be so much ..."
 publishedDateTime: 2020-02-03T13:00:00Z
-webUrl: "https://www.tor.com/2020/02/03/artificial-intelligence-in-fiction-fact-and-our-dreams-for-the-future/comment-page-1/"
+webUrl: "https://www.tor.com/2020/02/03/artificial-intelligence-in-fiction-fact-and-our-dreams-for-the-future/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
   - AI in Robotics
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 686
     title: "Artificial Intelligence in Fiction, Fact, and Our Dreams for the Future"
 
-secured: "3a+Twta1iw1wWeqnOgmEbrZ7xVhpASGiPd0Np8b9jml378hNtZDlZHpn/qxpF0XCMPZ2bKnEvU+NcyhgKVCDWDAS3lGhbDViB2/Qe/a6MhxozycdB77mfGa49vw35T1zmpnKZYaMmuDM3DLTOg90cJ86SjvAsf8MyDDYY5iftakZhhOGPIH4L6Bxg/Xnmf0B2x3Kv/j0fMlIFvQRLNhLb0qpI8S01HXsU49tOD7jDRy47aw3K1RPddRbVNLVWrPsZhNCvUUpCcOEfbC8pZqA9vXKfQ4E4Vs/sVkRxU+l4FitIQ6g+ZXu4Fq7Wpll0/v+;1+EouTiJ6TMr794arV8KKQ=="
+secured: "oARKtUf4Ih/lwqw8ylwSzbbnn2tlWC9ZsQdCLWnGTBOxmQBjqkwl1xiqPiTp9n6fZyZjo8BGa6CSsIAIKCje/B0idonD1LHRWhcffZM9zUA7PjhDddec6gVN3mVzobkTCUSrjdgTBJGc1uTibhydjaJuNaglnQ4NnAngeip/foFBx6E8Qakamq9cnKLtRZz5xkd0yWQJmRJ9t9kYaJ+agmItcxZy59oUmKiAMCE0Qwofd5g3uY+4fYArsNcJqFiKmcc2/KppT/VX7CQ/yr201ko9RSsyQKmKsMeXsDe0EvowO29W9j2Yik84JqHfDv7T;yoF69ZVmyVufwa7jItr05A=="
 ---
 

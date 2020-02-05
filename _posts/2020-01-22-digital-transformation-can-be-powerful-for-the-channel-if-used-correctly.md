@@ -37,15 +37,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 22
-  - title: "Understanding the ideology of digital transformation"
-    excerpt: "The Four Technology Vectors The four technologies shaping our future, according to Siebel, are cloud computing, big data, AI, and IoT. In a nutshell: Cloud computing provides convenient access for all businesses to essentially unlimited compute and storage, with major providers (Amazon Web Services [AWS], Microsoft’s Azure, Google Cloud ..."
-    publishedDateTime: 2020-01-21T15:41:00Z
-    webUrl: "https://www.aei.org/articles/understanding-the-ideology-of-digital-transformation/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 4
 
 secured: "K0kqLe2zSxWyhA2xfXqH5EhCpwce0fRfj/zsIF1vnfxEYjdNGdRHv730wymRETd8i22v3WS++DBY2aKxRGHrMMLURM+qRgWwn3Z+WYx9sm4zeRFTm77DerghI21184FGkISvC1J/D+PPYHWRmmn70RFqGDCV1BgiWOTlu9ijuG/rm/6GJ8lLEljWTVzIo1LB3Y7AFr+ABxtEhhNOS4MTnPHKEBIaKoZbhzwOlGDtIxh6R2tpA9kh7Qmwq3zFB/wjshsIrCEqB0GQGHZSHNDKBgFfqz4N+dLHoHwAu9JVlXg=;7+bgGILP4Mr0J+I5UEUYAA=="
 ---

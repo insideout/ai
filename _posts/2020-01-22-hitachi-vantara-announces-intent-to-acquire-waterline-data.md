@@ -35,6 +35,19 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 52
+  - title: "The AI Eye: VMware (NYSE: VMW) Announces Intention to Acquire AI Company Nyansa and mCloud Closes (TSXV: MCLD) Acquisition of CSA, Inc."
+    excerpt: "2019 Sees Record in AI Startup Funding with $26.6 Billion Research from CBInsights finds that 2019 was a record year for AI startups funding. According to the site, \"Over 4.3K AI startups in 80 countries have raised $83B since 2014\" and $26.6 billion went to startups in the space last year. An article on VentureBeat outlining the CBInsights ..."
+    publishedDateTime: 2020-01-27T20:04:00Z
+    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/01271AIEye-VMW-MCLD.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 5
+    images:
+      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+        width: 1280
+        height: 1206
 
 secured: "IG/y9D6D6xnNu6meIxkiqJ3TZNn0hAyY4hCvEANF1DaTF2l6vMlJ5yFKHoY4hTihyZmHkNNsGGgPEJ8bpTXYWB8Gfk16tJCBze2L2G6TD79k1/AbaF0ONoqmtaazV3BNwLxmy/ocZ8w4EhhMc+7PDC8uQq8PHYykHeCsl8Gp1l0ToAoJRB3bD6O1gXHZ71Pz0Qd/fFuI2eatsA9Ugp5bmZGavLjiAvxcBWkqPWXSSZDJSGlzrNdXYQtJAGAoqajMDv5DbVWjdZ4K0lXmi92ZGD0tCvQcpxSDtFJ9QQKEi6YdepWbZHCX9uyXKR/5TMra;nIulEqaBZ3NJHuKhFJj10Q=="
 ---

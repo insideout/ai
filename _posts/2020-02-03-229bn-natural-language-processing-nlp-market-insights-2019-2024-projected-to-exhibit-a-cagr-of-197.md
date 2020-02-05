@@ -1,17 +1,19 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-publishedDateTime: 2020-02-03T11:44:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+publishedDateTime: 2020-02-03T10:44:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -78,6 +80,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "fOLrd0w4IS/9PJBorgIQsvkmyI+u+yEP39JuSZn4zzQlodHn7NBLisiWRTSAXGteZhdRLVAyCvgLaC8B9oJmbSwllP/j1Pucuj+IwsRjKBjnC838aWQiEfQR3lIuJlF1L+MNOYMmuRwqm0waUr9wRuB8kNlJ9Vv0Ls8u10QL+JefUorOBdbRbL4O8JjroW3z94KnrnuKLG+jUVG/XUXCAMrZU7haXrII+nYBMAl+9f6QRGpouRI9ofm7K2Tnw9HKtXjOFUnaqbFYqaCWi+4x3Nyol7Aj+N1/7bW1hKCSlLSEc+SQnG/+17SAia5ibCPT;BTbAFem6L4wtlFHqGw0v7Q=="
+secured: "4bY4R6qyqNCMvuqdFrK1ebghiVXBZefQMJsQyFcekfl186lZgC2Pny+6Pc2WA8FR0nYSOOnYPl/yYScmRHihvmJFH20kkwHSgZdlDBPxrffw6pMW8atxnvLrpR9VkktWjPYGNEYpGjYQk9OFgNds5lFASjMm/CbCoLXwfhozrjO0wSO09xARcl0UpRU2PODX2e/ia6vYLjFAKDO+ojAyNVhVw7YPQxTFEjwIm0eEO9sOpnfbYegqmNdXz0l6h4cze4HcofuBt1B1V49RKXgJa4VaTBAHa9gINTQx4aYKImaMthI5Ffxg17fc0LcFgzU/;R8JjfhqUygsssCW7hxVpGQ=="
 ---
 

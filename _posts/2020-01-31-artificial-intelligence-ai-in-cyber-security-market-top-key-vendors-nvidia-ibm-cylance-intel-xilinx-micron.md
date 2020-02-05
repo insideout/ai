@@ -17,37 +17,32 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Cybersecurity Market to Witness an Outstanding Growth during 2019-2030 | Intel, NVIDIA, IBM,"
-    excerpt: "Latest research report on ‘Global Artificial Intelligence in Cybersecurity Market’ delivers essential information ... IoT devices are used extensively by the healthcare, finance, and infrastructure sectors. The increasing number of connected devices and the growing need for the IoT have significantly contributed to the growing demand ..."
-    publishedDateTime: 2020-01-31T12:28:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/38123/artificial-intelligence-in-cybersecurity-market/"
+  - title: "Analyst : Artificial Intelligence (AI) in Cyber Security Market Companies Have Room for Growth"
+    excerpt: "Latest launched research document on Global Artificial Intelligence (AI) in Cyber Security Market study of 95 Pages provides detailed analysis with presentable graphs, charts and tables. The Research Study presents a complete assessment of the Market and highlights future trend,"
+    publishedDateTime: 2020-02-05T06:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/analyst-artificial-intelligence-ai-in-cyber-security-market-companies-have-room-for-growth-2020-02-05"
     type: article
     provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 15
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
-  - title: "AI Powered Cybersecurity Startup CYR3CON Closes Initial Investor of New Financing Round"
-    excerpt: "Jan. 29, 2020 /PRNewswire-PRWeb/ -- The artificial intelligence powered cybersecurity startup Cyber Reconnaissance ... there is a great market potential in bringing CYR3CON technology to industrial IoT. CYR3CON's expertise in AI combined with Trumpf connections and experience in connected manufacturing devices will well-position us for this ..."
-    publishedDateTime: 2020-01-29T12:00:00Z
-    webUrl: "https://www.finanzen.ch/nachrichten/aktien/ai-powered-cybersecurity-startup-cyr3con-closes-initial-investor-of-new-financing-round-1028854822"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Security Market Booming By Size, Revenue, Trend And Top Growing Companies 2026"
+    excerpt: "The Artificial Intelligence In Security Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Security Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T05:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-booming-by-size-revenue-trend-and-top-growing-companies-2026-2020-02-05"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.ch
-    quality: 9
-  - title: "Artificial Intelligence Software in Security Market 2020-2027 witness to huge growth by top Nvidia, Intel, Xilinx, Samsung Electronics, Micron"
-    excerpt: "The Tax Compliance Software report additional predicts the dimensions and valuation of the global industry throughout the forecast amount. The Artificial Intelligence Software in Security Market report examines the economic status and prognosis of worldwide and major regions, in the prospect of all players, types and end-user application ..."
-    publishedDateTime: 2020-01-29T11:10:00Z
-    webUrl: "https://www.openpr.com/news/1912595/artificial-intelligence-software-in-security-market-2020-2027"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "lbWKD4HtwPHtu9TxgDXPh3tXNSZ9s4UfJVDTVhTdCyw2fwkuT8+PEhCTpnbFi68aD8E0P/u2pmpDXMiN5c9M7ckc2RgZoP/mz0d6gBopwi1QFT1KFV5KmLVSQNu5AxqA+x/Qm0BP4Dwdl6PgQz5MleZQCjiUUJ3pZo4NQkneWtalbjES9MvH6HwWs306wDZjru5lY811hkIpqhQdJIjUBIdZWUUak+wfz3OqMqQDV8WsWZSwnWTuNznxjCl1JRBQ3BAcmw/YjkM7mrkUUtvs1x30zQWQU+lG8YtYhl0tYo617s0ZVGzbXcFX0O6+mSci;s2uGr/XS382Qb1zp6WCsOg=="
 ---

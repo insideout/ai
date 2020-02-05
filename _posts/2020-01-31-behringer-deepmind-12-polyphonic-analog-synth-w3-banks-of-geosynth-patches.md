@@ -18,33 +18,28 @@ topics:
   - Google AI
 
 related:
-  - title: "Behringer DeepMind 12 Like New"
-    excerpt: "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging."
-    publishedDateTime: 2020-01-29T01:33:00Z
-    webUrl: "https://reverb.com/item/31761877-behringer-deepmind-12-like-new"
+  - title: "Patches For Your DeepMind 12"
+    excerpt: "GEOSynths has released Deeper Vol 3, their 3rd and final bank of patches for the Behringer DeepMind 12. Spokesperson Jamie, told us, “There's 128 Patches in Deeper Vol 3 and It's full of Pads, Motion sounds, String Synths, huge Bass, cutting Leads, Atmospherics and Arp's. They all have extensive Controller and Modulation assignments where ..."
+    publishedDateTime: 2020-02-05T08:17:00Z
+    webUrl: "https://sonicstate.com/news/2020/02/05/patches-for-your-deepmind-12/"
     type: article
     provider:
-      name: Reverb.com
-      domain: reverb.com
+      name: Sonic State
+      domain: sonicstate.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/32517_197.jpg"
+        width: 720
+        height: 405
+  - title: "Easy Juno 106 Sounds From Your DeepMind"
+    excerpt: "Momo tells us that the DeepMind - Juno 106 Editor is a VST, AU and Standalone overlay midi editor that allows you to control the DeepMind 12 controls that are necessary to create the Juno 106 sounds. It is compatible with DeepMind 6 and DeepMind 12D A ..."
+    publishedDateTime: 2020-01-30T01:07:00Z
+    webUrl: "https://sonicstate.com/news/2020/01/30/easy-juno-106-sounds-from-your-deepmind/"
+    type: article
+    provider:
+      name: Sonic State
+      domain: sonicstate.com
     quality: 19
-  - title: "Behringer DeepMind 12D Desktop 12-Voice Polyphonic Analog Synth Module Black"
-    excerpt: "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging. Taxes are charged in the following regions either by the seller, per their tax policy, or by Reverb as a Marketplace ..."
-    publishedDateTime: 2020-01-25T05:53:00Z
-    webUrl: "https://reverb.com/item/31682871-behringer-deepmind-12d-desktop-12-voice-polyphonic-analog-synth-module-black"
-    type: article
-    provider:
-      name: Reverb.com
-      domain: reverb.com
-    quality: 16
-  - title: "Behringer DeepMind 12 Polyphonic Analog Synth (Open to Trades, Bristol or Nearby)"
-    excerpt: "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging. I will ship with tracking to ..."
-    publishedDateTime: 2020-01-24T05:46:00Z
-    webUrl: "https://reverb.com/item/31558266-behringer-deepmind-12-polyphonic-analog-synth-open-to-trades-bristol-or-nearby"
-    type: article
-    provider:
-      name: Reverb.com
-      domain: reverb.com
-    quality: 14
 
 secured: "xVqRPDLa/LQmDN0Ii0omWbqAiyLJISHBEUWXr4MfblXZKCMDF5WpMo6L4st3XvuT7WtaopBuh6jqD0F33DQTOHXO/KRjJbElM4j0Und04LAcuWgdF+O7ag16XC0Ly1gmE+ui8jmOkmAQiT0U0lFuKl9sr3Nm/DiBB0Uh0D7N1LaVulKIVGBSbyWJ3Qo1elkq2x46Yh2KMGXaA3Y5zuOnotCGSal7dMDwW/u5Op0sweboYjkZxDumVn4wWbvVpNS84SRL9QEt+4vZRHlhG/uTvGzFLIB9wVMvlRFpUPQIw5gk5Ob0bZle605JPPb08ARjyCnKonsq1tNKKsCAZiICcD/loe4ngLSdSy8aJLwbaA0H3ayc7PNcfBFZj7a9wpG253Qgv3p15b7KjM5IKQ5H9vlMGuydZFKt8RMbySBFJvb992rxx689HFX8lVm7tueTPSYQ1lx/RvLvSplGYI0wa3alU9m6yAXL9blZ53blw/Y=;ayFwV+m/2T8AwhJXyFYvbQ=="
 ---
