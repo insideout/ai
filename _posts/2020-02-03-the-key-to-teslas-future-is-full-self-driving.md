@@ -48,21 +48,6 @@ related:
       - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
         width: 2400
         height: 1600
-  - title: "Air taxis, Hyperloop, self-driving cars: What your commute could look like in 2030"
-    excerpt: "Experts say self-driving features will reach an inflection point over the next several years, though vehicles aren't expected to be able to do all the driving. \"More and more vehicles will have standard equipment with basic automation like lane-keeping assist, automated braking and left-hand turn assistance,\" Rickert said. \"Those things ..."
-    publishedDateTime: 2020-01-21T09:19:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/01/21/air-taxis-evs-and-hyperloop-how-transportation-evolve-2030/2794123001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/2794123001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2794123001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 53
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/d921f5c0d29ad0098c8523b4d7f37189f087d0da/c=139-0-1860-1294/local/-/media/2018/04/02/USATODAY/USATODAY/636582857256863299-Hyper013.JPG?quality=50&width=640"
-        width: 640
-        height: 481
 
 secured: "aKHAXoKSeFPztVefO6fjolSC1xMlnKJBpdeVl9sD9lNpS1wMyp+Bz3hXkBtSOcsV0nfX2kHkjFDRD4jbOH01/CTykvjHgjOLFfFNMc1RiIvfa/VpvqvAOQhD6/cUA9RBWY5DB1C/BXl+bTBS4KFL0ue2L0f4fJTDglXfikoyrctwyNCTlylpeQgvf39xUXW3JArR2M37BnopcZJ13oenDzVitViiKKq7kf5PLzkglveVR+zPSkUAOCbIv+0gUzIAYoH2dyC64MD6zT0bPR0k1HofDsAWL2aWQtV20F2PCREIpUWYs+zVbyvFopfJSVbmfFBQoG5pGwRDT4kgIBl2bXPoDRqGrgzPpCl/V7MO4HUp4gHxZNlRNYWQz+howUE08C9sdRAaC0NtpPu18ztdw6snA400B0bZCwa8fpplSfjziYdjmQQz/NBp5oeC79zMMdySBR7KW4Gcho3WiFrGOLCW+3xWjpBRk7Cn1IDjS4I=;Fe3REyORywfJax+Zqnxv9Q=="
 ---

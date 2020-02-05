@@ -964,17 +964,6 @@ related:
       - url: "https://img.chdrstatic.com/media/45140c0c-a275-469e-911a-13238dec14ba.jpg?source=web&crop=1200:675,smart&width=1200&height=675"
         width: 1200
         height: 675
-  - title: "Suprema unveils its Latest Facial Recognition Solution at INTERSEC 2020"
-    excerpt: "Suprema Inc., a leading global provider of biometrics and security solutions, unveiled its latest facial recognition solution at INTERSEC 2020, the largest security exhibition in the Middle East, held in Dubai from January 19 to 21."
-    publishedDateTime: 2020-01-21T09:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/a15152025/suprema-unveils-its-latest-facial-recognition-solution-at-intersec-2020"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15152025"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152025"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "London Police Deploy Controversial Facial Recognition Cameras"
     excerpt: "Facial recognition technology is more widespread than ever — many people have phones in their pockets that use advanced sensors and algorithms to make sure no one else can access their data. However, law enforcement is also increasingly using facial recognition data to scan crowds for known criminals. The city of London is the latest to add ..."
     publishedDateTime: 2020-01-25T12:11:00Z

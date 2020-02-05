@@ -106,6 +106,19 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/IntelLog.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+  - title: "Intel Dumps Nervana: What Does It Mean For Its AI Ambition?"
+    excerpt: "According to experts, Intel’s Nervana chips were not at par with Habana in terms of performance and redialing their efforts to Habana chips helps the company to take on other prominent players in the AI hardware market such as Nvidia, Samsung and AMD. Habana Labs has shown its Gaudi AI processor, which the company claimed can outperform a GPU ..."
+    publishedDateTime: 2020-02-04T22:46:00Z
+    webUrl: "https://analyticsindiamag.com/intel-dumps-nervana-what-it-means-for-its-ai-ambition/"
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/intel-nervana.jpg"
+        width: 800
+        height: 532
   - title: "Intel Axes Nervana AI Chips In Favor Of Habana Labs"
     excerpt: "faster to our customers,' Intel says of its decision to move forward with Habana Labs' AI chips in place of Nervana. By Dylan Martin January 31, 2020, 05:11 PM EST Intel said it is ending work on its Nervana neural network processors in favor of the artificial intelligence chips it gained with its recent $2 billion acquisition of Habana Labs."
     publishedDateTime: 2020-01-31T22:25:00Z

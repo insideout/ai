@@ -7,9 +7,9 @@ webUrl: "https://www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/"
 ampWebUrl: "https://www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/?amp"
 type: article
-quality: 64
-heat: 64
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: Digital Trends
@@ -23,6 +23,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "ghm8aJShJyMgSt5a91RK7hnl9wMQ6UUG4C6quhisJ2l3fWEb5p6EtnOEfe79cWqjBxToaaYyNNams+/UPL+C6t9USlCPL9qwqU/DQ6EniwPaGIq8eqYr+epaqc3+ExLKvHK+SE/7uF1YSU4DbuDBwung3LLeVU3LtKKub86dcw7k+S0cekZ0YUNGqUHU4u6rERNmDW8N+D5svha+NtYWoowzkz8fY5VbeDhzQlkvbR0ar0Bo56yjl882I51C9tjo7NAC9P8CuqsNr9kWuPiCeaEoMi5RPdRvvMoamutLGCMMOr+DqF/hjG66W4T1PkgD;jpPAS61n4QoMRpWccGmzpw=="
+images:
+  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/mit_ibmwatsonshapes-2-1200x630-c-ar1.91.jpg"
+    width: 720
+    height: 376
+    title: "Neuro-symbolic A.I. is the future of artificial intelligence. Here’s how it works"
+
+secured: "xmlaJ8168xbxsBiVDyONrif9G1DSZBkLaP/nxd6paQ9pp/8OpsLFSVlfqaxiuKauBEPwl7rxDHmE6xyIhJ0aq4c/qyV7lq1d/YNYFKYIsUkeiHWYIjhdL5yIi4RkKivpGC6pifhYM7G9jpQ7M6IbzHD+TgovoVe/J+eZhZQy/puf0Iw/sF6UJ/vzI64FC18IteXlvbVkWIToO68BgofIVoaahOR8tM256tAh6RYKlxCXCF8nN8OZjNpM/oBN3NCiezFNU6EGyGhbOshYxqECZyrgTXoYM1Ee8PZcuVPXvqBVjcsSFxKv/IhDmLdq+go9;NBNgK+Sb3M8IPuufYm3GLw=="
 ---
 

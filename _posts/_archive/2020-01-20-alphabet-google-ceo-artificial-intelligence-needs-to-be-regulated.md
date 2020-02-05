@@ -204,17 +204,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/b/06/b064a2d9-045d-540d-b183-8334cf9a9299/5e141419b5f14.image.jpg?resize=1024%2C695"
         width: 1024
         height: 695
-  - title: "IBM proposes rules to help eliminate bias in artificial intelligence"
-    excerpt: "Spearheading the AI regulatory debate gives IBM a chance to come back into the spotlight as a leader in cutting-edge technology, a position it hasn’t held for years."
-    publishedDateTime: 2020-01-21T09:53:00Z
-    webUrl: "https://www.hindustantimes.com/tech/ibm-proposes-rules-to-help-eliminate-bias-in-artificial-intelligence/story-Z6up0CTnkkr59Z0QztxsMK.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/ibm-proposes-rules-to-help-eliminate-bias-in-artificial-intelligence/story-Z6up0CTnkkr59Z0QztxsMK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/ibm-proposes-rules-to-help-eliminate-bias-in-artificial-intelligence/story-Z6up0CTnkkr59Z0QztxsMK_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 41
   - title: "IBM Calls For Rules to Curb Bias in Artificial Intelligence"
     excerpt: "The EU’s executive arm is set to propose that the new rules apply to “high-risk sectors,” such as health care and transport. It also may suggest that the bloc update safety and liability laws, according to a draft of a so-called white paper on artificial intelligence obtained by Bloomberg. The European Commission is due to unveil the ..."
     publishedDateTime: 2020-01-22T06:16:00Z
@@ -273,6 +262,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "+jRmsvApqR64Ccs5mfU/siV9Y0CILhtHT48TgMJ16raK6HfH1fQPpwWrgXWw8BNAeS6iGAtAz6ZfesKJcbGRRSX5e0TRCW2Bci7sVMAhMDDAd1o+uhfUYG0xXZI7WbmqiYq8LFCa8SgySCj+Pvr/iwSRO/fZAstDJT39cGTxAzzEKiiHatrqiN8avRjH1+QxffGFU4HwJnWV7YWOBTc6s6xIlTWiEtZ0Fgu7SrkBojUfjyheBc5acCMB0l+l6fNxpPFclBezPJWJCTjvllhEcMpqlYmTIk4tYRCi+q6D13XuWmuDh9rxZqSpHfC1lpTl;7m8tFboIZtU6uL//muT9AQ=="
+secured: "YrzPjJ9EYyucKJMGMm4Cmz7seO1b+hELw8TeED5dh2Mel/XwBDR3A+GvH1x7fr6OWHIRtnzVSQyPBq2ZkUDZD98u1Q/OKvOLrP/C7He9gLSjkN61O4sMPz2ecHa3OH7pCuuNj1akEogw+pxyxJWdBefWGDUzTOVSkESUkfJgGRuXGEUTXQqGC0AGY4JIVRmzese4ms3Q9Y4l1Y0BupPpIyvhBa2zegQpAIpz4XQTVXjXUTUnV82zlPpH9gejFWgin53lT432soIvVlZI1Ur/8F/XXvuTEy0UDCCxa7UQ/JUgrlSCwNTGZ2fvuHd6dVfg;ZYw3WErPCCMLet8Mg7p73w=="
 ---
 

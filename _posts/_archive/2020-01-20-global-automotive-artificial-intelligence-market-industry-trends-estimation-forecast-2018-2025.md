@@ -54,6 +54,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "P26KXa0GOh37uglsUJV3JzeZYf3UhNi07lMDR/2GhCUb9dBJgV2Xs+/R29pntNLIchjh1mGSWyVC0yN50PVq0J+aS6YYrdbz1re35g0EM3J9Xc9U1cr1OpFlCRXYvuEC2/g7vsNHVi3hBxpRGsLxJBruiHxPLkOzV7a61J30fZ0sUQa6JZ9qYVjf2/PJ13I7Xk+rbSkgpc0MTkLtaEW/10zYkxXLfheZXYe8eYHLGjFYvxvx4xu2u5vaOaYAhvmEEfBmUKVS5pXS6IjHcEhOdHg4ACFY4S2vMJminvvfBsXmKmfrySG2//o5tjjytgfU;dWnsutiVw75vPRjkg8aa8w=="
+secured: "00DWWgtEE5P//NFgX1H+5e2h5urqsTGc2ayFFq5/SPBkJmbD3nbMRhfzXbpUV0j/Z0XHVPJ62I9r50FIcH08BKGsvDxpn6sulig+6AxFzxGfBZ+y7BoAtmDjSECddoosJFrpoVwBXd3bmwjCiTITJSqoGWER3pgocUdJdvLItuk68tZGWRrxgeSvbzE8ga8OY+11z7It8FSY7nRC0X4GxVhUmDNfvaO2L/ALaVfMX5oDajPf53RfhfA25NTWzd403grlruK/KetW34gcVRNzAOOorhKYnp/Cvz6N5snwcMUXC6rpIJfjloHZ0yoIq7td;8SbwNeBPnIb/C85rlTpIgQ=="
 ---
 

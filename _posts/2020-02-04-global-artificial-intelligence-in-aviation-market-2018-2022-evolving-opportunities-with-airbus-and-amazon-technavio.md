@@ -5,7 +5,7 @@ excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence in aviatio
 publishedDateTime: 2020-02-04T23:30:00Z
 webUrl: "https://www.businesswire.com/news/home/20200204005787/en/Global-Artificial-Intelligence-Aviation-Market-2018-2022-Evolving"
 type: article
-quality: 30
+quality: 32
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://mms.businesswire.com/media/20200204005787/en/771181/23/Global_Artificial_Intelligence_in_Aviation_Market_2018-2022.jpg"
@@ -67,6 +68,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "7mTol5Y2wxSvAbCzlJOZCEzZA2bXnACNvp8NA3gHtEAYbOQg7rRYdDaevCeRCMbnkdR/bSBm5sqWGxlP3A6o8Fjkco1/Q99rb3/e0UMgAbM+eIFsvFBfgv3bU0olDwuh3CrhrVqZ6B7G3+AGxnxwwGfIkaEcIpCvxpnMOAXQI/fwOY4J2o9ymzZ8EtT7MYii08jWdtOdXS4K/eHLlXLpcUNYg4WcW5LDTNvTmofUeEeMd0VMvIG5sgKENh0JUol2WvCw1qbQMpWui56qLKnev8SzxfRLYz88omT83UEp4B8ZhhC7B3KWbWkShqaBYWHH;Iy5qln6DE/A4rcf/Rc58NQ=="
+secured: "eUFUrxYRmIOe3JcQWUWeFYskMTx1ynLLiZquWYWf5I67Mx+Ugt9Dbac3Qe44g6a2/cHhi29tBvJjTY/ZZ+8N77m336KMiMuo9r47CpenqZqq5OOyfCKJrbkPN2S2xbpXhHpxPng8u8yxKUrrwKfwGmbJUbPpeja/nk/f/XzofUCTzcVU67JtaAVjmhfV694Pq7qoVCjkHhUuqimmsdUYoT+5imv7gV/fYyIZfe8icSV5v/VFYhYfI8Jr88ODH1e7rNaHzs1i1tTd7PLlgt+gW9IgbSop/t7Yzw4l+9RBbbqvDCOiJys9RJWD7W1LVLw+qo3btrT7SIy8qx3hrTR2AdnmeoXxFBKeCQ5VgOkJxdTgKd23iapXNGlr7nRrWpojCs0As6riI9UW2zJ//BEpu6AXDAhHKbY0cQO3qWtyt3g/LaC+V0EUJe9f+WTO8k9FfoMosFhZKEf6qUbhQ9g4FRasi2mTZDMRWGGn8qM8bqk=;WfA0y6EqQFlqKTkcJH8ygw=="
 ---
 

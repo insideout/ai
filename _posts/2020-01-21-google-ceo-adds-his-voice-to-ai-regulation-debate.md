@@ -217,17 +217,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/b/06/b064a2d9-045d-540d-b183-8334cf9a9299/5e141419b5f14.image.jpg?resize=1024%2C695"
         width: 1024
         height: 695
-  - title: "IBM proposes rules to help eliminate bias in artificial intelligence"
-    excerpt: "Spearheading the AI regulatory debate gives IBM a chance to come back into the spotlight as a leader in cutting-edge technology, a position it hasn’t held for years."
-    publishedDateTime: 2020-01-21T09:53:00Z
-    webUrl: "https://www.hindustantimes.com/tech/ibm-proposes-rules-to-help-eliminate-bias-in-artificial-intelligence/story-Z6up0CTnkkr59Z0QztxsMK.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/ibm-proposes-rules-to-help-eliminate-bias-in-artificial-intelligence/story-Z6up0CTnkkr59Z0QztxsMK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/ibm-proposes-rules-to-help-eliminate-bias-in-artificial-intelligence/story-Z6up0CTnkkr59Z0QztxsMK_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 41
   - title: "IBM Calls For Rules to Curb Bias in Artificial Intelligence"
     excerpt: "The EU’s executive arm is set to propose that the new rules apply to “high-risk sectors,” such as health care and transport. It also may suggest that the bloc update safety and liability laws, according to a draft of a so-called white paper on artificial intelligence obtained by Bloomberg. The European Commission is due to unveil the ..."
     publishedDateTime: 2020-01-22T06:16:00Z

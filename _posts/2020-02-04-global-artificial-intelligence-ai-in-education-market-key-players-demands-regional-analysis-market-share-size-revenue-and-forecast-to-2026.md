@@ -58,7 +58,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 30
+    quality: 32
     images:
       - url: "https://mms.businesswire.com/media/20200204005787/en/771181/23/Global_Artificial_Intelligence_in_Aviation_Market_2018-2022.jpg"
         width: 1200

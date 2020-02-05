@@ -81,7 +81,7 @@ related:
     provider:
       name: India
       domain: analyticsindiamag.com
-    quality: 30
+    quality: 32
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2018/12/elonmusk_fused.png"
         width: 1262

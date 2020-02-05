@@ -30,6 +30,19 @@ images:
     title: "Facebook releases low-latency online speech recognition framework"
 
 related:
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 54
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
+        width: 849
+        height: 565
   - title: "what3words and Speechmatics launch speech recognition and post-processing API"
     excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
     publishedDateTime: 2020-01-13T11:55:00Z
@@ -43,16 +56,7 @@ related:
       - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
         width: 620
         height: 500
-  - title: "Speech and Voice Recognition Market"
-    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
-    publishedDateTime: 2020-01-16T03:17:00Z
-    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
-secured: "ZauHpl7iOzpM2XTz3qJ+0t4G2DXW5wCOOz9bTpoGdN2WIUOfPcUnf21tz2LAE3FWaHtFRouSMy+1TFyrYJy9h96kbYOYIfFLa5GCigoQv2jr9cOQz+B0bWW5dWtl7QZWNPLr0UB6Sql6WioEavVNZRq30QellEKd7W0Ici2eZBN0vsyfFRmiKcFzqHxoMu9pmkoOxLKv2ZnRHxl5kCvWrV9zdJirb3jdG6abkx8XxJRsDALbZYy2brwTkMCivCoFrfXFzw6Vt1ChNISgp3QZzpqytcjFuZlTj/xj0mUgss3FRI78I4kjMRYcIix/UlUZ;ZE2f4SephHJOFgOrwvWwKg=="
+secured: "DORq6SnP9D2JYh+acnnUdmti7VERbv2zdtKmuo6FK6NNdfFZH8D+XsJPAbs52ZOdiLTWg4iSxM7q6yUoC+UvRA6XPis0+CZcHVENn5UoHqzcu0b2M9khmKq6eKHJcP46PfiPnLlxnYyx0+bNJ4zeXLQd98lCsj2dflq5bCMAU9G78XsnrfenDELEjVs1iivDC/WWtKdM3smexwJEbbpTVAXoN9LSuCmxknd3faFpeNvU89v2S6IXxjbZg5hKNeCVYRm/03OYZlUVcMmR2Gr7LmlG296NaUcXDC/Flx79zZo0nP4HhcgE0wMb8H9EwQPF;7dalS9gWpsMWnHp9dfhTUg=="
 ---
 
