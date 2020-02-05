@@ -25,6 +25,6 @@ images:
     height: 400
     title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
 
-secured: "+EVdQNI2fAc1nWa6WNpJJpOPDhjxWDEtgeDL5Y+4lG1xkJyQG+R04egOVB+viLjN4hM5nNuE9mM4k2Y3HYm4EDp9SMaYRW9ufXO33UkR8eS6Cx79VCtXUL00sOt2tlo/VMGOIXtEG5wtWPUgD2anPHHOThtEMqDyYdOBDpDlwthfWxUZOoyAotEw7eKAdcUj+xYonRMPqMZjJ/SPJYzgSWCEq4jqjvONqR3NmMKBWjwWsjj3oC7Iw8MnERMRN8f03eZfo9w4y147JImWOeSHZ+982pJOckyZjJXCwFpKvKdpncUJwZc6uBd7r+gPgk6p;Uw/im2nwaEAJCwBPD5s4uw=="
+secured: "EnQvaOKggJ/oEUouOF/VYAwuND4fdeguRkY/Y4jQtwcd2GCk0cChJY9qIRTMebUKZ4e2zFXS04JgOc9AnBhHyKA+WUpJaNXREpIRuUx4mQCnC+OaJXPCyEJurr0rs5+dh5aHvFVWzqKNNpNFkqSVid2rLd0tQ1XhP/aVaj8/3bH54aNawvNI6r/GNWpmLiaoW4ezVApRunpMJueHYmHnH4Jlv1ze5ooLu+R3LBBmKIcCPGMv3gAIvnuT9xpajAHUsdhaP1h/wg30gAV8rTFxJu/pGXD/Of35BlwN3cufOwwOhWuh5D7JSTQFBtrSf+ah;dBntecCOxXmTI9d3fPeZLQ=="
 ---
 

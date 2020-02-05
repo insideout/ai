@@ -23,17 +23,6 @@ images:
     height: 750
     title: "Pleora Deploys Artificial Intelligence for Quality Inspection"
 
-related:
-  - title: "Pleora Reduces Complexity of Deploying Machine Learning Artificial Intelligence for Quality Inspection"
-    excerpt: "Pleora Technologies today introduced the vision industry's first artificial intelligence (AI) platform that simplifies the deployment of advanced machine learning capabilities to improve the reliability and lower the cost of visual quality inspection. The company will be demonstrating its new embedded AI Gateway at SPIE Photonics West 2020 ..."
-    publishedDateTime: 2020-01-21T16:30:00Z
-    webUrl: "https://www.embedded-computing.com/news-releases/pleora-reduces-complexity-of-deploying-machine-learning-artificial-intelligence-for-quality-inspection"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 18
-
 secured: "CT9WWMVlFJ5sc0Lb332XIq+EQf/R935LtKO6z0GXFRR3JXlQy4KOtj/Q7fkH9YPq8/0mpjOHP30uqcy4KWWI8fTR1qW2VR2m99tqbTizT285Q9CkDbKqKNZQ2I353jm1JKXFhqs6fUnMxo63iF4NiT0nsNn5xfeqGlq013fMw56NCL7s7Ks99TTd9irvvBTqZBa1SqgeGhXe7KVuQaRNMFvJmlpGWxnhrHKQsPU3CI7KNgp8v9yysa6JQ1My0qTiZNOfuUpyIdM5BDnSNYtAOYOWIeN2mR0RTltar/MHMQ+WxLqpJ32q3fWmsvit+lavTMZJgKeXYyhv4b7wA/7Se7sn3kRZG4I3L8tC+oj8eBG7WOco+fn5I6ktqsc/MSGMZzDT37ysPdWReCxP/ZvqyWorcdx9I+kkmgXtLgSmLfu4O7iubu6H4PnjU0RwkvH8xmE5cyxytgwC69mfbOn7wx7wo51os0YoDsg8UKauyes=;wDlWwkk9/PKvaFNmijBymQ=="
 ---
 

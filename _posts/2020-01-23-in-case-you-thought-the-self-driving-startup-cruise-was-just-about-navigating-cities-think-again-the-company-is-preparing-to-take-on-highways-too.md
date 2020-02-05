@@ -28,21 +28,6 @@ images:
     title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
 
 related:
-  - title: "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way"
-    excerpt: "What should kids know about the advent of self-driving cars? Is it necessary to teach them about self-driving cars or is it something that isn’t worth bringing to their attention? If kids are going to get taught about self-driving cars,"
-    publishedDateTime: 2020-01-21T16:47:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049271976%2F0x0.jpg"
-        width: 1200
-        height: 800
   - title: "Why most self-driving car companies use these 3 models"
     excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
     publishedDateTime: 2020-01-21T20:54:00Z
@@ -58,39 +43,60 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
         width: 1200
         height: 630
-  - title: "Self-driving cars have an overlooked upside"
-    excerpt: "Upon reading the Jan. 24 Metro article “Uber bringing its tests of self-driving cars to D.C.,” one major benefit that I have yet to read about popped to mind: tipping. A lot of people will save money if they don’t need to tip a driver. I’ve always tipped, but it is appealing to have that need disappear. It will also be kind of a relief ..."
-    publishedDateTime: 2020-01-27T22:12:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/self-driving-cars-have-an-overlooked-upside/2020/01/27/ae33aa1e-4074-11ea-99c7-1dfd4241a2fe_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/self-driving-cars-have-an-overlooked-upside/2020/01/27/ae33aa1e-4074-11ea-99c7-1dfd4241a2fe_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/self-driving-cars-have-an-overlooked-upside/2020/01/27/ae33aa1e-4074-11ea-99c7-1dfd4241a2fe_story.html?outputType=amp"
+  - title: "Apple's self-driving car system could use voice, gesture guidance"
+    excerpt: "Interacting with a future self-driving car could be a lot like working with some future interpretation of Apple iOS with voice, gesture and touch-enabled commands at your disposal. It's the overarching view gathered after reading through an Apple patent application filed last August and published last week for a self-driving car voice and ..."
+    publishedDateTime: 2020-01-27T20:49:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-system-voice-gesture-guidance/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 44
+      name: CNET
+      domain: cnet.com
+    quality: 74
     images:
-      - url: "https://www.washingtonpost.com/resizer/LmozzyHTYJdM70nJ5Z-81opmU7U=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5AO2UBSBDQI6VNP4535IJDG6TE.jpg"
-        width: 1440
-        height: 1080
-  - title: "AI Self-Driving Cars Will Spur Americans To Be Savvier About Their Personal Finances, But Not For The Reasons That You Think"
-    excerpt: "It is said that many Americans are so busy trying to earn money that they don’t have time to think about how to best leverage and save money. This seemingly puzzling statement highlights that we are all on a frantic and mind-numbing treadmill of trying to earn income,"
-    publishedDateTime: 2020-01-28T13:25:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/28/ai-self-driving-cars-will-spur-americans-to-be-savvier-about-their-personal-finances-but-not-for-the-reasons-that-you-think/"
+      - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
+        width: 1200
+        height: 630
+  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious"
+    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps."
+    publishedDateTime: 2020-01-25T14:44:00Z
+    webUrl: "https://www.businessinsider.com/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 22
-  - title: "Elon Musk calls it ‘financially insane’ to buy a car that isn’t an EV capable of full self-driving"
-    excerpt: "He said that by next year, their goal is the same thing but without requiring supervision, and then some time after that,… Leggi"
-    publishedDateTime: 2020-01-27T11:11:00Z
-    webUrl: "https://www.informazione.it/n/E58F4EC8-B79C-4A79-A2C4-4A525596CD49/Elon-Musk-calls-it-financially-insane-to-buy-a-car-that-isn-t-an-EV-capable-of-full-self-driving"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious (INTC)"
+    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps. Mobileye CEO Amnon Shashua told Business Insider that autonomous vehicles (AVs) can't be too cautious. If AVs take too long to get to their destinations, people won't want to ride in them, Shashua said. To increase ..."
+    publishedDateTime: 2020-01-25T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1-1028844526"
     type: article
     provider:
-      name: informazione.it
-      domain: informazione.it
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://images.markets.businessinsider.com/image/5e2b293624306a2d955068f4-2333/mobileye-2020-ces-shashua-5.jpg"
+        width: 1024
+        height: 768
+  - title: "Test shows promise of self-driving cars for transit"
+    excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
+    publishedDateTime: 2020-01-25T19:00:00Z
+    webUrl: "https://www.limaohio.com/top-stories/393877/test-shows-promise-of-self-driving-cars-for-transit"
+    type: article
+    provider:
+      name: The Lima News
+      domain: limaohio.com
+    quality: 24
+    images:
+      - url: "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_SelfDriving1.jpg"
+        width: 640
+        height: 431
 
 secured: "UhfYjNEwS8N6gGHKAF3A5YHUVxRJKBxKOGU2YbDouuIbqsJ0hccieJyR3edktwWObvwlUrrIcUAswwpacUGCLJ5WOrwyCIsHcAfhmjDxY3tcLIgkBu2rJ9Ro+tvr81/c+lFW9iBHdRkJEQdjGbEyTs9ZGPLOHgyA6ZhCWRb8JJlXGjknFwrDa5eNFWBG/SiLXRKw3ze+T92wah5ZzbScwvZmTp3BnvhCwz8s9igl6/pH5ywtJJMdREalJXpCq4AGgWK0sasFI/AV7ighXQtTlU1VaDihVc1xBQcLBiP42iCLsjkihA/0Ww1qkLu3YEojoffvPIXPcx8pCd7vlfYFKH4blzF8m+1Ri3Fn8J7RSet+I4dX5ckH5F3lxwrlDZ/Afqe42rlyUQsBS+spqYu4ROjLzc2TCUFF3wLI+jDlMe5YSDFFSefKcVQdUBsImkfqmIE/q4BRAPaN4Il0V3CzApL8ma9LGUK7G1MC/8UgIB4=;FogZh/6TkidvITqnNgh9nA=="
 ---

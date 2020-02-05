@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T12:28:00Z
 webUrl: "https://www.cmo.com.au/mediareleases/38123/artificial-intelligence-in-cybersecurity-market/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,28 @@ images:
     title: "Artificial Intelligence in Cybersecurity Market to Witness an Outstanding Growth during 2019-2030 | Intel, NVIDIA, IBM,"
 
 related:
-  - title: "AI Powered Cybersecurity Startup CYR3CON Closes Initial Investor of New Financing Round"
-    excerpt: "Jan. 29, 2020 /PRNewswire-PRWeb/ -- The artificial intelligence powered cybersecurity startup Cyber Reconnaissance ... there is a great market potential in bringing CYR3CON technology to industrial IoT. CYR3CON's expertise in AI combined with Trumpf connections and experience in connected manufacturing devices will well-position us for this ..."
-    publishedDateTime: 2020-01-29T12:00:00Z
-    webUrl: "https://www.finanzen.ch/nachrichten/aktien/ai-powered-cybersecurity-startup-cyr3con-closes-initial-investor-of-new-financing-round-1028854822"
+  - title: "Artificial Intelligence Software Market to Witness Huge Growth by 2025"
+    excerpt: "A New Syndicate Global Artificial Intelligence Software Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data."
+    publishedDateTime: 2020-02-05T08:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-to-witness-huge-growth-by-2025-2020-02-05"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.ch
-    quality: 9
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Neural Network Software Markets, 2025"
+    excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"Neural Network Software Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Neural Network Software Market was valued at USD 8."
+    publishedDateTime: 2020-01-31T11:16:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/01/31/1978041/0/en/Neural-Network-Software-Markets-2025.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 19
   - title: "Artificial Intelligence Software in Security Market 2020-2027 witness to huge growth by top Nvidia, Intel, Xilinx, Samsung Electronics, Micron"
     excerpt: "The Tax Compliance Software report additional predicts the dimensions and valuation of the global industry throughout the forecast amount. The Artificial Intelligence Software in Security Market report examines the economic status and prognosis of worldwide and major regions, in the prospect of all players, types and end-user application ..."
     publishedDateTime: 2020-01-29T11:10:00Z

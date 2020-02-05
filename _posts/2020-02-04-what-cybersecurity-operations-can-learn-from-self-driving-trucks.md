@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/04/what-cyber
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/04/what-cybersecurity-operations-can-learn-from-self-driving-trucks/amp/"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

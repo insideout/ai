@@ -39,6 +39,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1037080322%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8678%26cropY1%3D427%26cropY2%3D5309"
         width: 1200
         height: 677
+  - title: "Self-driving cars have an overlooked upside"
+    excerpt: "Upon reading the Jan. 24 Metro article “Uber bringing its tests of self-driving cars to D.C.,” one major benefit that I have yet to read about popped to mind: tipping. A lot of people will save money if they don’t need to tip a driver. I’ve always tipped, but it is appealing to have that need disappear. It will also be kind of a relief ..."
+    publishedDateTime: 2020-01-27T22:12:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/self-driving-cars-have-an-overlooked-upside/2020/01/27/ae33aa1e-4074-11ea-99c7-1dfd4241a2fe_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/self-driving-cars-have-an-overlooked-upside/2020/01/27/ae33aa1e-4074-11ea-99c7-1dfd4241a2fe_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/self-driving-cars-have-an-overlooked-upside/2020/01/27/ae33aa1e-4074-11ea-99c7-1dfd4241a2fe_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 44
+    images:
+      - url: "https://www.washingtonpost.com/resizer/LmozzyHTYJdM70nJ5Z-81opmU7U=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5AO2UBSBDQI6VNP4535IJDG6TE.jpg"
+        width: 1440
+        height: 1080
   - title: "You Don't Really Need 5G, Your Self-Driving Car Does"
     excerpt: "Self-driving cars or autonomous vehicles (AVs) are the killer app for 5G wireless internet. Right now, AVs are Clint Eastwood style lone gunslingers, roving the highways in search of a free lane. They see the world through camera lenses and LIDAR (similar to radar, but using lasers instead of radio waves). When they encounter other AVs ..."
     publishedDateTime: 2020-01-25T12:58:00Z
@@ -52,6 +67,15 @@ related:
       - url: "https://nationalinterest.org/sites/default/files/main_images/segrs.jpg"
         width: 1304
         height: 733
+  - title: "AI Self-Driving Cars Will Spur Americans To Be Savvier About Their Personal Finances, But Not For The Reasons That You Think"
+    excerpt: "It is said that many Americans are so busy trying to earn money that they don’t have time to think about how to best leverage and save money. This seemingly puzzling statement highlights that we are all on a frantic and mind-numbing treadmill of trying to earn income,"
+    publishedDateTime: 2020-01-28T13:25:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/28/ai-self-driving-cars-will-spur-americans-to-be-savvier-about-their-personal-finances-but-not-for-the-reasons-that-you-think/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 22
   - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
     excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
     publishedDateTime: 2020-02-04T16:07:00Z

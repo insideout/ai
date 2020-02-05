@@ -230,15 +230,6 @@ related:
       - url: "https://sourcemedia.brightspotcdn.com/dims4/default/fd1758b/2147483647/strip/true/crop/2009x1055+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F89%2F2b%2F5777b1b2441a87863535bc1883bb%2Fginni-crop.jpg"
         width: 1200
         height: 630
-  - title: "IBM Proposes Artificial Intelligence Rules to Ease Bias Concerns"
-    excerpt: "IBM called for rules aimed at eliminating bias in artificial intelligence to ease concerns that the technology relies on data ... “Then you will get more of a prescriptive, top-down regulation.” Fetch Robotics recently announced the addition of new capabilities for TagSurveyor, a robotic RFID solution providing complete visibility of ..."
-    publishedDateTime: 2020-01-21T16:31:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/robotics/article/21120934/ibm-proposes-artificial-intelligence-rules-to-ease-bias-concerns"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 23
   - title: "IBM bats for regulating AI based on accountability,security"
     excerpt: "To ensure compliance with these expectations, providers and owners should designate a person responsible for trustworthy AI, such as a lead AI ethics official. All entities providing or owning an AI system should conduct an initial high-level assessment of the technology's potential for harm. And regulation should treat different use cases ..."
     publishedDateTime: 2020-01-22T19:58:00Z
@@ -249,6 +240,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "qoUz1zo+qUYitxyXWvqPHSuE+5CiaYWTaC3sc1ZaQtMRBu80VmmXqm+idEMYGxXPKdHrDSMzusLn9VzJ+UA8rJsOsjSy2co2qFCW2mQ4lTts3xXktV7207aSUnki5b0v4+PFQLn28aGib2l0Db85HgFImtjRZ3Ov4Mxvnjpoy8WulPAi9eUWMlHNuztbNfX1ULgkkKGD/GC6ynRVt7oBNyITaMTKv0MTLOazy/qmDc/xCyMsSlxQ8J0g8/XLgVMwwy4EcnawSMvDpRUVyyaHR/HMLhFX93bOFb2I3nBGbMmvOGItU8xLW2zT4nM9BKkI;EY9yJmz/DoVf89dlielPQw=="
+secured: "Qq3doipzTDzTv2caUc225YI+8l9u4Y9jnnE0ghsmnTXe5rv3kNxdPvNFiJtNQSsLjBSycQoKOTaZY5t0WMZM06JRoNGE6D7ZrRqo0XpT3PHMxMkZVgLfUf5RHGQhDTOkyC0PjS4UtCZm9VYfYzUfZCiKT4tbw5jULLGQ3v+jyvmF5eUSrZt2T4MbmXsRiwPkGSmPRUq/ugDDqrNMwkmxxalRA9rwfLcjLN7afPqS/HKwBYmz/+wPomElRhGaAgKcceoFeWw2I2WarLB6LEEblIPTC0Q24GdlWu7q3ncZa+dquBk9hwnegEi2a35dMOp4;sGVmNq/hE7SOI26XNIkfZw=="
 ---
 

@@ -37,7 +37,20 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2020%2f1%2fleandro_ecg_63c541f952b746b48ff02d36b07911ca-620x480.jpg"
         width: 620
         height: 480
+  - title: "Sensors and AI spot low blood sugar without needles"
+    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... data would not give the same results. Personalized therapy based on the new system could be more effective ..."
+    publishedDateTime: 2020-01-13T15:41:00Z
+    webUrl: "https://www.futurity.org/blood-sugar-test-ai-wearable-sensors-2254812/"
+    type: article
+    provider:
+      name: Futurity News
+      domain: futurity.org
+    quality: 39
+    images:
+      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/01/blood-sugar-test-artificial-intelligence-wearable-sensors_1600.jpg"
+        width: 1600
+        height: 915
 
-secured: "6V0OvTshQDaAxJr5NPLdr0PAsfPaMcHkfXkcnKeosYw7IctR9ZE9eg0At1CyJ1BgIVk1gy0z7ooTkF283vbUQF9S+bMNCplJ4+iEmXznNDERG+mx+4k/LzR4pXAtpHt9KURqQldTaGjUvqhhb9vtIKj0BE77URij32M16KVPW28+elLm5YaAPo+m+jnl9/Dyw+Cv6h8/Zx0C9Aupy2/6/F6hA1n4meb5XA8HLgun1quFDTVVmWrFWFvK49yGTN37mrzS1iJrUMuIklWDqgTeFPN+/fjr8FKRIn+7Ors1z33wY5eoVrvOQTL0FcFcuiKW;nTv+HBY58DwPEQBqOPaZcw=="
+secured: "LvDrxN5P52zhpVloZEhvkCF/v3X868QAvd26xFuP6dHcxZuGwb5NdPK9AGWzkrEVdppUW3guPn09W6r3PQ0W20rKS1q/FrsW/HIV5xH5iIWOEuRwyQHtKY5ePilwGdwEfLXcXS2IfwHRAMJEFMKLuE/6y1WUwQy1drI9bnETIPo/xqQjenkoREISY/x/z29q+0rAZHL3NBj46zzUQ7wfkcn9DfMNI2g2FdmVeGH5DlsGKlzXkgen9OTTbflMKPJOkWOmdXTNB3iMQbIJ30hSTpPqKMDNTzDWaqrdOTuUjSz5YW4B/mpkv6LySxpW8ye6;cXSGbWcnY0T5TqZ7VFPUjw=="
 ---
 

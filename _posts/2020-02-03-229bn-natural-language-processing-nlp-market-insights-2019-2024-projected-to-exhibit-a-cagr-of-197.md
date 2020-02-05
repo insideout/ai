@@ -1,19 +1,17 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
-publishedDateTime: 2020-02-03T10:44:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
+publishedDateTime: 2020-02-03T11:44:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -80,6 +78,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "4bY4R6qyqNCMvuqdFrK1ebghiVXBZefQMJsQyFcekfl186lZgC2Pny+6Pc2WA8FR0nYSOOnYPl/yYScmRHihvmJFH20kkwHSgZdlDBPxrffw6pMW8atxnvLrpR9VkktWjPYGNEYpGjYQk9OFgNds5lFASjMm/CbCoLXwfhozrjO0wSO09xARcl0UpRU2PODX2e/ia6vYLjFAKDO+ojAyNVhVw7YPQxTFEjwIm0eEO9sOpnfbYegqmNdXz0l6h4cze4HcofuBt1B1V49RKXgJa4VaTBAHa9gINTQx4aYKImaMthI5Ffxg17fc0LcFgzU/;R8JjfhqUygsssCW7hxVpGQ=="
+secured: "tfP93TEEaheSSTcDo80S9LGmNbBpAJ50KL3Zsf1G/X2+P88v6tF9M1EuiaqOQybZCSNMGqf5s/yKo5TItdgkS5qFBsyPJkCbpdZqlaFFi1lS1g40Naskrb6uF4UzK78AupFodfKY2cb27JCDoZL5t7q6Nb4sFy+EK4AW0715AderO3jm2JwFANsTYZhoUzfNl4pEhFhNsyuO4GIsZsiZY34J7qdH/qqcG0LPjQcwFpMVqOlEzDaKL3A57yGNsos6MexE3Z7Ux17FFlXn5uzK+J/4kPiBI2ZTWBgaqVTeikVL11prntJd3L6v2a9OffD/;nMqUpk9bCYLi38Nvrww/oA=="
 ---
 

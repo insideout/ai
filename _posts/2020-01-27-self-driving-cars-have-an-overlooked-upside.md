@@ -26,49 +26,34 @@ images:
     title: "Self-driving cars have an overlooked upside"
 
 related:
-  - title: "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way"
-    excerpt: "What should kids know about the advent of self-driving cars? Is it necessary to teach them about self-driving cars or is it something that isn’t worth bringing to their attention? If kids are going to get taught about self-driving cars,"
-    publishedDateTime: 2020-01-21T16:47:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/"
+  - title: "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done"
+    excerpt: "When you get behind the wheel of a car, it is a solemn duty and one that holds you responsible for what the car ends up doing. While driving, if you suddenly realize that you are about to ram into another car,"
+    publishedDateTime: 2020-01-30T14:33:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049271976%2F0x0.jpg"
-        width: 1200
-        height: 800
-  - title: "Why most self-driving car companies use these 3 models"
-    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
-    publishedDateTime: 2020-01-21T20:54:00Z
-    webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
-    ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
     quality: 74
     images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1037080322%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8678%26cropY1%3D427%26cropY2%3D5309"
         width: 1200
-        height: 630
-  - title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
-    excerpt: "Cofounder and CTO Kyle Vogt said that the company has technology that could allow for highway operation"
-    publishedDateTime: 2020-01-23T17:20:00Z
-    webUrl: "https://www.businessinsider.com/cruise-self-driving-tech-for-city-and-highway-driving-2020-1"
+        height: 677
+  - title: "You Don't Really Need 5G, Your Self-Driving Car Does"
+    excerpt: "Self-driving cars or autonomous vehicles (AVs) are the killer app for 5G wireless internet. Right now, AVs are Clint Eastwood style lone gunslingers, roving the highways in search of a free lane. They see the world through camera lenses and LIDAR (similar to radar, but using lasers instead of radio waves). When they encounter other AVs ..."
+    publishedDateTime: 2020-01-25T12:58:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/you-dont-really-need-5g-your-self-driving-car-does-117286"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 24
     images:
-      - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://nationalinterest.org/sites/default/files/main_images/segrs.jpg"
+        width: 1304
+        height: 733
   - title: "AI Self-Driving Cars Will Spur Americans To Be Savvier About Their Personal Finances, But Not For The Reasons That You Think"
     excerpt: "It is said that many Americans are so busy trying to earn money that they don’t have time to think about how to best leverage and save money. This seemingly puzzling statement highlights that we are all on a frantic and mind-numbing treadmill of trying to earn income,"
     publishedDateTime: 2020-01-28T13:25:00Z
@@ -78,15 +63,32 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 22
-  - title: "Elon Musk calls it ‘financially insane’ to buy a car that isn’t an EV capable of full self-driving"
-    excerpt: "He said that by next year, their goal is the same thing but without requiring supervision, and then some time after that,… Leggi"
-    publishedDateTime: 2020-01-27T11:11:00Z
-    webUrl: "https://www.informazione.it/n/E58F4EC8-B79C-4A79-A2C4-4A525596CD49/Elon-Musk-calls-it-financially-insane-to-buy-a-car-that-isn-t-an-EV-capable-of-full-self-driving"
+  - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
+    excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
+    publishedDateTime: 2020-02-04T16:07:00Z
+    webUrl: "https://www.wtol.com/article/life/family-focus/report-calls-out-automakers-to-prioritize-kids-safety-in-self-driving-cars/512-fa0605c4-7852-48fe-89b7-e0266b839362"
     type: article
     provider:
-      name: informazione.it
-      domain: informazione.it
-    quality: 0
+      name: WTOL
+      domain: wtol.com
+    quality: 22
+    images:
+      - url: "https://media.wtol.com/assets/WTOL/images/73fa9d4c-e350-45aa-8d4b-a9482434eacd/73fa9d4c-e350-45aa-8d4b-a9482434eacd_1140x641.jpg"
+        width: 1140
+        height: 641
+  - title: "Are self-driving cars a solution for transit? A Providence test shows their promise and challenges"
+    excerpt: "“You won’t see them on the road for many, many years to come, because they don’t visualize what’s ahead as well as human drivers do.” She predicted completely self-driving vans will arrive in 2021, in Jacksonville, Fla., replacing a worn-out monorail corridor. As AVs develop, there may be an interim phase of driverless cars that halt ..."
+    publishedDateTime: 2020-02-01T05:09:00Z
+    webUrl: "https://www.theday.com/article/20200201/BIZ07/200209995"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 10
+    images:
+      - url: "https://www.theday.com/storyimage/NL/20200201/BIZ07/200209995/AR/0/AR-200209995.jpg&imageversion=16by9&Maxw=960"
+        width: 960
+        height: 540
 
 secured: "xjWvTeg9Yyi1lPwvnTq5utykVtZLPaS0YrwbINmHc9InTmcNc6On93Wqga9W958jiGh2qIGcmfY8P7JsUcNzINNDWIFK5/E7NLxBbdM8I+his1uXhPUICxhKfduAWRTpC9KqYcDZNqQKewJWT5L16wzmzrTNPNqe6/kxnBUF9lM66yhgCKKIkJkeTChY2PnPaJhBjHH4hKZiGsLYJjoa1Lfm7y3uuQZskyN2xKB/Rh1rqVWY8yeD3LZ2RJLC+OL1ZfjiE1kmcd8sROVqR23YpwwzPg/APDcwVvTM6zHdUpWBmMdR0ys3eFwGUdZDaEIzZdXaoYoJlW+FwzIRkqkFziJVTT4t1jNE25Fy8ObC+ilZ2AxVSO+x45HN1ALQ1sZEnNitbN9bNrV5YVN8fGq6CuWEjTnjtgflHm8peN1YyKZRLY4n1qB+53EnagWP6boSVHA4MGfzNV2DJtczOTHgKrUqKSe2bko2L8WgtfkjXP4=;DbJ1azN5iop9w5ZooMil4g=="
 ---

@@ -237,15 +237,6 @@ related:
       - url: "https://sourcemedia.brightspotcdn.com/dims4/default/fd1758b/2147483647/strip/true/crop/2009x1055+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F89%2F2b%2F5777b1b2441a87863535bc1883bb%2Fginni-crop.jpg"
         width: 1200
         height: 630
-  - title: "IBM Proposes Artificial Intelligence Rules to Ease Bias Concerns"
-    excerpt: "IBM called for rules aimed at eliminating bias in artificial intelligence to ease concerns that the technology relies on data ... “Then you will get more of a prescriptive, top-down regulation.” Fetch Robotics recently announced the addition of new capabilities for TagSurveyor, a robotic RFID solution providing complete visibility of ..."
-    publishedDateTime: 2020-01-21T16:31:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/robotics/article/21120934/ibm-proposes-artificial-intelligence-rules-to-ease-bias-concerns"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 23
 
 secured: "c7IF9dvR0rULryUoLDcEDhOkz4Ss5+TPdckrousEOIKixwS85h4gGO6p9LGWh1u5/xEeSiO4owrJLfPuYRayY96vlRhwxVl2BCv470k/DeVff2g3Mi4N4UDEfLkl+ddUXk4m164pEDbVMWEqY/vxkUCq3LJdtm4oQ/nB2kiOk8QvEU+IbPyAaCzl97l+cnR3Iw4TAgvISP69XMA7R4bkGn3MkjpHdBbSmYyD71uxEr4kIuU0zeFcVUST9Anh4xebh1qs4w0b2bF20BKHxKusQWGI9w6PH2XGWkjRodDYs1o=;1iEsCsAe2blJTl5+P0Qyow=="
 ---

@@ -24,22 +24,31 @@ images:
     title: "Sensors and AI spot low blood sugar without needles"
 
 related:
-  - title: "New Tech Lets You Test Your Blood Sugar Without Needles"
-    excerpt: "“Precision Medicine and Artificial Intelligence: A Pilot Study on Deep ... she works towards her masters in marriage and family therapy and art therapy. In a past life, she worked as the patient ..."
-    publishedDateTime: 2020-01-16T21:44:00Z
-    webUrl: "https://www.healthcentral.com/article/new-glucose-monitoring-device-for-diabetes"
-    ampWebUrl: "https://www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
-    cdnAmpWebUrl: "https://www-healthcentral-com.cdn.ampproject.org/c/s/www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
+  - title: "AI replaces prick test to detect blood sugar levels"
+    excerpt: "The novel artificial intelligence system works as well as ... Hence, personalized therapy based on the system can be more effective than therapies used today. The new approach was able to ..."
+    publishedDateTime: 2020-01-13T13:28:00Z
+    webUrl: "https://www.news-medical.net/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
     type: article
     provider:
-      name: HealthCentral
-      domain: healthcentral.com
-    quality: 44
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
     images:
-      - url: "https://images.ctfassets.net/yixw23k2v6vo/6HWebXmG36CblFmUEiDiQi/09577f3ff78807e49ae9e3212fed07d7/iStock-1175717080.jpg"
-        width: 1254
-        height: 836
+      - url: "https://www.news-medical.net/image.axd?picture=2020%2f1%2fleandro_ecg_63c541f952b746b48ff02d36b07911ca-620x480.jpg"
+        width: 620
+        height: 480
+  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
+    publishedDateTime: 2020-01-13T16:53:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/01/200113111156.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
-secured: "h2lmMQ8vZRpmUp4/KZcOGDErivF33TC5FBxFvslyyUxeVHxt/jNP3CjCDdfzQa0GYvtIlY6tUpPOqAWX2lPfCPy49em/Q5fxi8sHrzcDwiuDeRtBFBhXOk6NW4kgTUWGgUuJpFWbXMVrK8v0Bbx3o3wuTz582KXOm4Z77av+53Bft5+ZX851xxgYa6HvS95+Npm/kHP0jBWYsCACAoKx1NUMYVWpi4IJC2ieuwYrOK6H5kbzyOpBAYMHDFuuZjfMtXLFuITlKpnLHXtuQAQt+4l7cbjMKHoSPDgdaR1C+7lRds9yeMOs9Gor1I9MyhrL;46vQ69VSjCcwxn3hOQnHog=="
+secured: "cp8fQlQlkWVBF+vbgmumcLpADGvBsWXPuMm24nyxeE6JajpzeN1U7liTe9DbGSdbtr/FATibiUOXwfjKjV0N6VbBR2dk6BKqsHNeRcgGXOoM73FvM4oUpdAHfB3zd6Q6LKiJSa/4jAGpRIHUXCn/r4FqhZ7zeQaW7jY8Q8bltnmzPAr2HrGuLZoV8AwrgjDhvqa7JgjKybGcBbEBjev4jyfIBoQRpGM1gaSbOh70lb+BTH33DvVkV1ePsrhBEdohXzV9PJNY/PAEzkqGpgYtH7A0yDpd1rso/HTT1g92ljT/VxQ021Xo1uDkT51UXg3j;Z/kZn1yaMAI9rf9mNtQFRg=="
 ---
 

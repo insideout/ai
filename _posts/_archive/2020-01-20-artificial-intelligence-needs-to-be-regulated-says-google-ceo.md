@@ -80,6 +80,19 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg"
         width: 1600
         height: 899
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
+    publishedDateTime: 2020-01-15T17:43:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
+        width: 900
+        height: 300
   - title: "It's too late to ban face recognition – here's what we need instead"
     excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
     publishedDateTime: 2020-01-23T11:43:00Z
@@ -118,6 +131,6 @@ related:
         width: 531
         height: 342
 
-secured: "X9SZwPk+nU8EORv4alDVWIh8yvznDEg3UAqlDOX82ZQqb/HI7kzSPZteHfe3gu09bZexwFaDgvmHRNdA2oY4+0FgcM9FsXmpbzfAr1YQV8rm3Cjmu98P/fpQy5m1XBRnK+zBtfT+RTzSJDCHjSfW2ejtLtQqBUbxnqbY3BVKa7Gwia/6oz0ZgRZ6nxMdTsthaHCySzfCCdOLOxuvNZvRCN+DQnuDUYSC+Q0CcO1FYEal+vT1mPXlMEJSkIPKtaqnSJf0ianpr/5YXfMBFMrEPFrfiyRIgA2GPThcjpxSoEuhrxmCscIXDGLZS3Yze3S9;Hh18dKXUCTKe6lL4bapncg=="
+secured: "MIGlJCEi/YVD0q/X5OH9YdogIQgg5In1rgQr9GWGFuITn3+4JpZkmOX7N7g9N4JgNeoIhB6vDq5cXK3eNcBxlw/TOvJcjwE/RdZXmQ8nC2G2j1H931VfoJSF1YRqOWOzB6jP1wQJ54CpKhprjCKCDwFF5K7M1N3taSEjSrYAu9S37srcoTNvB0dK+bYUACPTiLpJWlLCv6Ja7kRIIFZQlfek4O8t6KEUdIoGglV+UG7q+vMRW3n2HHhjgxPWKgQ5ipQczwEIPcI0K/VO+IUhtOFGEuVJo3NcvOhzMh0Zt7qDApGTAoIM4eSe99T7BzVr;sTesb8kuhU2dgd+5eKlyhg=="
 ---
 

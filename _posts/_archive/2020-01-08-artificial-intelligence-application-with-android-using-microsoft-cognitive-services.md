@@ -27,6 +27,6 @@ images:
     height: 960
     title: "Artificial Intelligence application with Android using Microsoft cognitive services."
 
-secured: "9zUgmdVawOHbIF4ZxxhQq7OLPDsNW0q9J0LInQcE1VtL/ad9Rl/UCqhk2+OLrJdu+n7Zc74P5oKi8fUw6YGJru0kCXCUY6p7ZvAnNYWyGQdCKEDUXhqEyKmFQD8S5mKzlTEEttMLYLkWQwZgJCs1UU4HvDhtfkzy+LBoKYFQK0Uje4x2hL9TKCiQrjMytreOzcmKcMCGKIvXlKL2pKKy8EY26iCGpZj7/LJF5bRe5xLpD1J0Midj+wCelfAfK0YRA5lUwhV9/YE2BzvkV5MgrPIsnUP+OyjH0Ise4AZAsXmxi+toXU1nmM9Tm+mKIttg;RbPQTBq1+G7+EzKcLCk/zQ=="
+secured: "gYn6wgqcNqVCV1yM9G8sOZ4p0eWh9SIr8GVvfkY06p932GA2szuPVakQovKrYQkAUjr7M1CqBI6sOz6r5OEEbviI5DXk8mSFovuY+8Wn69sBmCMWuXtJxvSWI6vpvM+PesDsqAPs1GqV++n9EXXuyxwcwbmPAM7iggNU0gERn+X6+vOQB4FTEGpTmv3RF9Q8I4Uvp0EpK4SSCnXEiqkhCP9pQDHfNDVcDLX/9XdU4a/0KPfIomPqYwQxrmR4pPrcF4WIHAiIBq2QZoNj3RGOmun/PxxNGb75CWo6gQ0VWIiLzq4CO6QsoiJ5D8hmt9b1;J7s/xG3eVA+X6IshpK4+EQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.www.complex.com/life/2020/02/elon-musk-doesnt-care-if-te
 cdnAmpWebUrl: "https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/02/elon-musk-doesnt-care-if-tesla-ai-applicants-finished-high-school"
 type: article
 quality: 52
-heat: 72
+heat: 73
 published: true
 
 provider:
@@ -56,6 +56,6 @@ related:
         width: 378
         height: 212
 
-secured: "9HoxA0iFnvHaI/C8SGeYgLbAfpYI+pMYZzPuNujDSJvYdi8kJGxGfGlmImGPo2F/kRndDYOYBB4rSeAghjiGdfIAfuw6T1sx1mx1EUuGLTYr+5TB+9G9619+hKBB3MLd551kFLX8bpc2u2RyNOnfVbjOHnReOFMY4YELT7j1jJhyCrgB6J9RvA+0Bt2crP34yfknPElmM7zkXqLkoE50J4JwWcW3zd0mqiO+8BCEGoBA2A2oIQu6ujQD/XkqsQtcBxUgzpKwy9gE5W5SUO/0OsFcef4eP/P0rJTbwFm2OiQI5wl6lJStu4poLFVYRal+;jYf4Q9nHzu5LatC1kUIeFg=="
+secured: "jgVHMwneb/mU4fWNBTciDVfR9srz5OPU8HZd6imnbFVn3oDbayew2T1pf+3+TxIlY1dYNUr5yCE/pGsrDa57rR2LIpt5rY/+NTT+jf1ddLWMjulrHHFUp/BGCCgQfWjFs+xlKxlg7swd07tBQQzzk+OPhbfgAU4LrehiFXrSPnK72XnKUhkDO/3Y+7iQaTCzmwpVPssAIYxQ7ra3HHr59K9aMtHJ9l/YmaCPi0Mthevn1m3aLMQkoLBmyfaNTexDmSumbsSLYTk9KYwhmuQTP1oCJaBN39f+XBMhWpNWw3p9Mc1PCdojCK2/TIWk3C5k;jM1MLPD1zbxSdTofz7L7Kw=="
 ---
 

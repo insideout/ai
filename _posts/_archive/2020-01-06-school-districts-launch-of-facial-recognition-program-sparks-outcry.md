@@ -25,6 +25,6 @@ images:
     height: 512
     title: "School district’s launch of facial recognition program sparks outcry"
 
-secured: "M7gmcz3iEoPl5TVhWDdUWDq/+IW3Wpj2CTFti4AT2uhiPD8BN6tNQ1eS4LOmLR5B4FFJxSdd6MGB/ZlYdFUCQfwJncu4Y4b8KfQXhIFBN8soY8TcXilCgdmby70RoafUzX4qYjTte0DsyLj79gYXAIIBd/5vARZiqjsBkeOFzOul1EJ6d13FpIdgAioGjpdb92oukv7KDcrer55Wxaj4fwvEQ5JPahXpExKEYnxOIlMLQQXr/9c5fAmZG5U3WvLVWQgA9S/uffT1rLSUd+VEXlxYKhF+DJ5ZL22AZX6XX741H5R307USrJp28umLmr0q;GjFX1KitYbNq6r5+6YONdA=="
+secured: "+HA2RJhJU/bKYI9h9cw8f52DBljzsHpw2HsJ5uE8dnfPd77gzVuxFcAkoejMqe5FZzK5JLvNd8m0CQHsjBmxkhexdPohY1+wfijoNJrNVElmUqEF9lYpn7yf4hGSXavIMpCM/h3FQBBOa+/cDC43KdQVgX/A54ibAe7xlA0Lu3s7haC6eCtAbWtPkRvSANzVEkiv9G6umZ/ql39nM6s0CT5NZP5zQnUa+SZ1+jkQGxUacAkshQw23mw2WX2tw/aefBqsNbDqTRdGurIMAKLTxxb3Qp6eGYQF02mroKPnfAVCzBPFdFbFsf8a/+x0oEKM;3mN9XNDfQTmyxBMlhrvSZA=="
 ---
 

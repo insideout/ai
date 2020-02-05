@@ -18,17 +18,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "HCL launches dedicated Microsoft business unit"
-    excerpt: "The decision will extend Microsoft’s offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10."
-    publishedDateTime: 2020-01-21T16:30:00Z
-    webUrl: "https://www.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
   - title: "HCL launches dedicated Microsoft business unit in Noida"
     excerpt: "The decision will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10, the company said in a statement. \"Increasingly, customers are making bold ..."
     publishedDateTime: 2020-01-23T05:36:00Z

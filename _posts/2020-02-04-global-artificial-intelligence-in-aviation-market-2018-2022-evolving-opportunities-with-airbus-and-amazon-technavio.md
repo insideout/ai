@@ -58,17 +58,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
-  - title: "Global Surgical Imaging Market is Expected to Reach USD 7.50 Billion by 2025 : Fior Markets"
-    excerpt: "Newark, NJ, Feb. 05, 2020 (GLOBE NEWSWIRE) -- As per the report published by Fior Markets, the global surgical imaging market is expected to grow from USD 4.80 billion in 2017 to USD 7.50 billion by 2025 at a CAGR of 5."
-    publishedDateTime: 2020-02-05T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15255744/global-surgical-imaging-market-is-expected-to-reach-usd-7-50-billion-by-2025-fior-markets"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15255744"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15255744"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
   - title: "Global Artificial Intelligence (AI) in Education Market Key Players, Demands, Regional Analysis, Market Share, Size, Revenue and Forecast to 2026"
     excerpt: "Global Artificial Intelligence (AI) in Education Market study formulates with historic data up to 2019 and gives a forecast for 2020-2026. This incorporates Artificial Intelligence (AI) in Education market size, product scope, industry revenue and growth opportunities. It covers Artificial Intelligence (AI) in Education sales volumes ..."
     publishedDateTime: 2020-02-04T08:28:00Z
@@ -77,6 +66,15 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
+    quality: 0
+  - title: "Global Surgical Imaging Market is Expected to Reach USD 7.50 Billion by 2025 : Fior Markets"
+    excerpt: "Global Surgical Imaging Market by Device (Angiography, C-arms, Endoscopy, Laparoscopy, Surgical Navigation Systems), Modality, Application, Region, Global Industry Analysis, Market Size, Share, Growth,"
+    publishedDateTime: 2020-02-05T07:02:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1979992/0/en/Global-Surgical-Imaging-Market-is-Expected-to-Reach-USD-7-50-Billion-by-2025-Fior-Markets.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 0
 
 secured: "eUFUrxYRmIOe3JcQWUWeFYskMTx1ynLLiZquWYWf5I67Mx+Ugt9Dbac3Qe44g6a2/cHhi29tBvJjTY/ZZ+8N77m336KMiMuo9r47CpenqZqq5OOyfCKJrbkPN2S2xbpXhHpxPng8u8yxKUrrwKfwGmbJUbPpeja/nk/f/XzofUCTzcVU67JtaAVjmhfV694Pq7qoVCjkHhUuqimmsdUYoT+5imv7gV/fYyIZfe8icSV5v/VFYhYfI8Jr88ODH1e7rNaHzs1i1tTd7PLlgt+gW9IgbSop/t7Yzw4l+9RBbbqvDCOiJys9RJWD7W1LVLw+qo3btrT7SIy8qx3hrTR2AdnmeoXxFBKeCQ5VgOkJxdTgKd23iapXNGlr7nRrWpojCs0As6riI9UW2zJ//BEpu6AXDAhHKbY0cQO3qWtyt3g/LaC+V0EUJe9f+WTO8k9FfoMosFhZKEf6qUbhQ9g4FRasi2mTZDMRWGGn8qM8bqk=;WfA0y6EqQFlqKTkcJH8ygw=="

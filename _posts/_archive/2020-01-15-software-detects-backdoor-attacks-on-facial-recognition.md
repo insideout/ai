@@ -39,19 +39,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1"
         width: 340
         height: 340
-  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
-    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
-    publishedDateTime: 2020-01-20T19:06:00Z
-    webUrl: "https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg"
-        width: 760
-        height: 428
   - title: "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary"
     excerpt: "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology."
     publishedDateTime: 2020-01-21T22:04:00Z
@@ -142,6 +129,6 @@ related:
         width: 531
         height: 342
 
-secured: "jIuTB7SXOwyRec5Oni1zOWt+x0cERt8oVIfcqDP3VxEGaMYL0gBRRPXi08egbG02ZV8UWaQfAcTSj32eDlqzATG9eymz+5zBztNJmG6n0jTC2elbENogVnOUfRfEunapxfwRL6GBIBKgoEephCrREspn62vpNSiuPfhntCOIrPwtXi8HnCwJw/V/H9KrEkx5C4NFbZq/J0X/v/tv/xOXpNVbk8PapdZh61WEs72v/7kQ7hcy5C0rdQPK6pJDep+iAOSDdM0vFv4KwOupLbvgO2dVm20iM0R+mOOOX0e4+WbGKsAQn2y9YRx5YKL7pshp;xMeXpwDUs2h8n4JHI2/X7A=="
+secured: "X7MGA0MWblVL7QTdAmb79QGKMf6y+uwVH3xKpay+1gxCnF+tuuYS1eViMqL93eiMGc+tA76/Czz1PEmgSl68VjzH/1FdRpAzGnFw1zi9fryAsIMaTje/49c0mIPRsggTrvGujhWqRVJSleA3DAk2D7lW2fwOlLp9UhU2G3DgSXO1O2PAZABR1Sl96BpW+z4hczFf/LIVtEE8G7jVsUIX9GmUcgZMI/rZTt7c5UbxcOMnTVGmw3MlctYWqovs9Z900hj7+IZbOC5x+72S0/qRC21OkSQU11eiCzgz7euDwVm3NvIu/2AAE1wEo1MUWZqr;Jp8v+3irjm7BUYhjJ7ssmA=="
 ---
 

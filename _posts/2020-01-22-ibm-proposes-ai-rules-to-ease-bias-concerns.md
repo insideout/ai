@@ -230,15 +230,6 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2018/10/artificial-intelligence-3d-printing.jpg"
         width: 900
         height: 600
-  - title: "IBM Proposes Artificial Intelligence Rules to Ease Bias Concerns"
-    excerpt: "IBM called for rules aimed at eliminating bias in artificial intelligence to ease concerns that the technology relies on data ... “Then you will get more of a prescriptive, top-down regulation.” Fetch Robotics recently announced the addition of new capabilities for TagSurveyor, a robotic RFID solution providing complete visibility of ..."
-    publishedDateTime: 2020-01-21T16:31:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/robotics/article/21120934/ibm-proposes-artificial-intelligence-rules-to-ease-bias-concerns"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 23
   - title: "IBM bats for regulating AI based on accountability,security"
     excerpt: "To ensure compliance with these expectations, providers and owners should designate a person responsible for trustworthy AI, such as a lead AI ethics official. All entities providing or owning an AI system should conduct an initial high-level assessment of the technology's potential for harm. And regulation should treat different use cases ..."
     publishedDateTime: 2020-01-22T19:58:00Z

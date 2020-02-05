@@ -8,8 +8,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200114/AI-replaces-prick-tes
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: News Medical
@@ -35,7 +35,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Sensors and AI spot low blood sugar without needles"
+    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... data would not give the same results. Personalized therapy based on the new system could be more effective ..."
+    publishedDateTime: 2020-01-13T15:41:00Z
+    webUrl: "https://www.futurity.org/blood-sugar-test-ai-wearable-sensors-2254812/"
+    type: article
+    provider:
+      name: Futurity News
+      domain: futurity.org
+    quality: 39
+    images:
+      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/01/blood-sugar-test-artificial-intelligence-wearable-sensors_1600.jpg"
+        width: 1600
+        height: 915
 
-secured: "3TIn4Qee1cFndtyREjPT2Ix0sKftWWyxeUwzworFozRmnN//N7lBG/jr4Bh3Umf2DSVW2pbsNfKmzUGExFruSHHRTFgsAt89i1EBOsQ8fJyEvlsYoQvUtm0bPMQLNddnkVSccMocSkh1ZVURWgrhhiaDJsU+LSYKDx+H9o5Wbao6Au2yQELe47S7icWo3UbXY3la0klyJ7BEOQ4arn1IaN7eP/tDu0sOGuRH6CWqnh0OgRdx2PcNq8Eca8vb5+cbS/TIU9KE9xB0Ex4kTmkDiAb58lcm5bk8YsApdV5ELNezWuX3JmzVIR9hVzMckew0;5gDX59IG26pi2opsRLq01A=="
+secured: "MSBf4wWinnyf9U0i1tk+YvazdQ/6NgD5QXrsHfuhtn75e/Cajy/s3qNWXksL7kE+ANIorLGH1vmTrfiHmpxYHdhY42aELf8gVpEcrhFsj77UndVZj3m5BsVh/BaqC52upwP2qDHBgt5OfOQlEdcbmYKnqovJS0udETAaBbTg4QWA2y4t1gk04Wh1Go4uGwS69vSj2pRB+rlduAuFjrbH+BI8jsCSIg0zQv60P0SFsBhMvwQebTAUYQX1LOaeVXEcYYMJTvZrRH0GkNhP1hd0QHv3HhkvAx0hOJwPsj7Th0YLz6Q9d7rY+5vhRM1EsFOZ;C3hxzu6cO2IRF0jp4oQzaA=="
 ---
 

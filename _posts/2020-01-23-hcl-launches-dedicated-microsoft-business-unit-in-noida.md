@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T05:36:00Z
 webUrl: "https://www.siliconindia.com/news/business/HCL-launches-dedicated-Microsoft-business-unit-in-Noida-nid-211952-cid-3.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     title: "HCL launches dedicated Microsoft business unit in Noida"
 
 related:
-  - title: "HCL launches dedicated Microsoft business unit"
-    excerpt: "The decision will extend Microsoft’s offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10."
-    publishedDateTime: 2020-01-21T16:30:00Z
-    webUrl: "https://www.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
   - title: "HCL launches dedicated Microsoft business unit"
     excerpt: "Noida, Jan 21 : HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft's offerings of business applications, Microsoft ..."
     publishedDateTime: 2020-01-22T05:12:00Z

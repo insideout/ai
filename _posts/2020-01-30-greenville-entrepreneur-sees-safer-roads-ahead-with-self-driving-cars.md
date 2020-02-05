@@ -24,19 +24,6 @@ images:
     title: "Greenville entrepreneur sees safer roads ahead with self-driving cars"
 
 related:
-  - title: "Gainesville Set To Run Self-Driving Vehicles On Its Public Roads"
-    excerpt: "That self-driving vehicle and two others, now undergoing test runs, are expected to become available as a new form of public transportation in Gainesville by the end of the year, according to Thomas Idoyaga, a spokesman for the city’s Office of Mobility. The EasyMile shuttles, developed in Europe, are 13 feet long, 10 feet high and 6 1/2 feet ..."
-    publishedDateTime: 2020-01-31T21:48:00Z
-    webUrl: "https://www.wuft.org/news/2020/01/30/gainesville-set-to-become-first-u-s-city-with-self-driving-buses-on-public-roads/"
-    type: article
-    provider:
-      name: WUFT
-      domain: wuft.org
-    quality: 39
-    images:
-      - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
-        width: 1200
-        height: 782
   - title: "Gainesville Set To Become First U.S. City With Self-Driving Buses On Public Roads"
     excerpt: "That self-driving vehicle and two others, now undergoing test runs, are expected to become available as a new form of public transportation in Gainesville by the end of the year, according to Thomas Idoyaga, a spokesman for the city’s Office of Mobility. The 14-foot-high, 10-foot-wide, 19-foot-long EasyMile shuttles, developed in Europe ..."
     publishedDateTime: 2020-01-30T16:48:00Z

@@ -64,16 +64,14 @@ related:
         width: 1200
         height: 627
   - title: "Global Surgical Imaging Market is Expected to Reach USD 7.50 Billion by 2025 : Fior Markets"
-    excerpt: "Newark, NJ, Feb. 05, 2020 (GLOBE NEWSWIRE) -- As per the report published by Fior Markets, the global surgical imaging market is expected to grow from USD 4.80 billion in 2017 to USD 7.50 billion by 2025 at a CAGR of 5."
-    publishedDateTime: 2020-02-05T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15255744/global-surgical-imaging-market-is-expected-to-reach-usd-7-50-billion-by-2025-fior-markets"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15255744"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15255744"
+    excerpt: "Global Surgical Imaging Market by Device (Angiography, C-arms, Endoscopy, Laparoscopy, Surgical Navigation Systems), Modality, Application, Region, Global Industry Analysis, Market Size, Share, Growth,"
+    publishedDateTime: 2020-02-05T07:02:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1979992/0/en/Global-Surgical-Imaging-Market-is-Expected-to-Reach-USD-7-50-Billion-by-2025-Fior-Markets.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "bqdHsXhLXz1I7CVoMdmhqAeI4jVg5iybbF4hOV1F4FbRF8GLiBd4w+sPVagyLd4Q440jpYl9+Np3+4cmzATHJ/pknZ20X3GEM9OtjWUtiZs/PdNsRCMZCSxlzqMZKvzYACTe4q3cco8aURWs/nqwP0CJbXSi+7tc+3plafTSEXvzuKbzNIvjPdQkNaiTxl6CEwEIvqdtLXU4zHAqPf6F9OU4JCYUGq2AFiU6Uob0lOjPjtKfMxHO0FdnaEQGCgN/mtpDQkJ3YEPXe5x6qqF4E1jP0FXp/PA3zplupnxJ8R/xffZqvPPrFWK57QbRbqpB;FwSr7CPCUjGWwRZvmRvocA=="
 ---

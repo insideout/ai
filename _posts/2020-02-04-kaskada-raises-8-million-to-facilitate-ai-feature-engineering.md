@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facil
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/"
 type: article
 quality: 89
-heat: 92
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 628
     title: "Kaskada raises $8 million to facilitate AI feature engineering"
 
-secured: "leYaXgRiCKsK04DYOPoX3Wa3z76cuwDbzPfx7oir24CjkP67FMxZrKsPDByijMvEW8vnmjoxLZ/2a3I2U8cU3b8pGWIS89GKv8x1z4b8mN+eqrNHT5br4PDe2bLhXX0M5xBWXs0F6vVY0Kyqc6C03qlS4jn3W9ykX8X+yvmFsd1cEEFGHiD4DaXABL52+6kEljr71FyV8YziFnYAXhw6xysNwB3E1XRkwMe6aMbfKkk+tbNmPU0ONtU4QMaNKvetMsA6TuBaFIDvlIvVfhvvfWsv2Qs5EEiM+eriBc4hYJ7YRBHMM4argLCh/E7vPAUy;oHl2I7yc28CvNBPCDGM+Yg=="
+secured: "lI49/XRroNQX+Hy3OE+FidjoyxuuN3eLGsotYU7+eEy0z/nKJp/Pkr6Cr+RDEdjHUj68HdCiERtEwm2yfexJTwoI+eMO70ZH+hyuluJHG/CzTFXusTM8iSdbzYTgnkNeJtDMs6I02CXLnF6lee2pCVtC2JRdn7LwCO9DhmPyyChpC5pN06mqYBvPGNILOUkFDIrb23rvMPCKi83Z5DeLSCsIqV6+rzGU2vQGFYSxTxeYZBuZMcx0VzYWKlTxhi4ieCLgaag6NCmbf7vE+sl57GzKu7hJkLQZNdGhPDNf1DpjoEUglbmNQNxjMD8gQT0+;kqjsigWvcuCbC/Uo9+v3Jw=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

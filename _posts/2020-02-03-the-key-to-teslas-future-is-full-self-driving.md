@@ -18,36 +18,49 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Apple's self-driving car system could use voice, gesture guidance"
-    excerpt: "Interacting with a future self-driving car could be a lot like working with some future interpretation of Apple iOS with voice, gesture and touch-enabled commands at your disposal. It's the overarching view gathered after reading through an Apple patent application filed last August and published last week for a self-driving car voice and ..."
-    publishedDateTime: 2020-01-27T20:49:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-system-voice-gesture-guidance/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
+  - title: "Uber's self-driving cars are a key to its path to profitability"
+    excerpt: "Uber plans to launch its self-driving cars in pockets of cities where weather, demand and other conditions are most favorable."
+    publishedDateTime: 2020-01-28T12:09:00Z
+    webUrl: "https://www.cnbc.com/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: CNBC
+      domain: cnbc.com
     quality: 74
     images:
-      - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
-        width: 1200
-        height: 630
-  - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
-    excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
-    publishedDateTime: 2020-02-03T07:00:00Z
-    webUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/"
-    ampWebUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
+      - url: "https://image.cnbcfm.com/api/v1/image/104181597-GettyImages-605519688.jpg?v=1529473695"
+        width: 1024
+        height: 681
+  - title: "How Self-Driving Cars Will Transform Cities"
+    excerpt: "S elf-driving cars will completely transform urban city landscapes, and possibly even change the nature of real estate as we know it. This transformation will both create and destroy trillions of dollars in wealth."
+    publishedDateTime: 2020-01-29T15:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 74
     images:
-      - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
+        width: 1024
+        height: 512
+  - title: "Uber is trying to bring its self-driving vehicles to the District"
+    excerpt: "This month, Uber announced plans to bring its self-driving vehicles to D.C. The transportation company began collecting data in the District on Jan. 24 to do so. Exciting times ahead in Washington, DC where we'll officially kick-off manual data collection with three self-driving vehicles, starting tomorrow (weather permitting)! Learn more about ..."
+    publishedDateTime: 2020-01-30T18:08:00Z
+    webUrl: "https://technical.ly/dc/2020/01/30/uber-bringing-self-driving-vehicles-district-dc-data-collection/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 24
+    images:
+      - url: "https://technical.ly/dc/wp-content/uploads/sites/5/2020/01/Uber-ATG-self-driving-cars.jpg"
+        width: 680
+        height: 453
 
 secured: "aKHAXoKSeFPztVefO6fjolSC1xMlnKJBpdeVl9sD9lNpS1wMyp+Bz3hXkBtSOcsV0nfX2kHkjFDRD4jbOH01/CTykvjHgjOLFfFNMc1RiIvfa/VpvqvAOQhD6/cUA9RBWY5DB1C/BXl+bTBS4KFL0ue2L0f4fJTDglXfikoyrctwyNCTlylpeQgvf39xUXW3JArR2M37BnopcZJ13oenDzVitViiKKq7kf5PLzkglveVR+zPSkUAOCbIv+0gUzIAYoH2dyC64MD6zT0bPR0k1HofDsAWL2aWQtV20F2PCREIpUWYs+zVbyvFopfJSVbmfFBQoG5pGwRDT4kgIBl2bXPoDRqGrgzPpCl/V7MO4HUp4gHxZNlRNYWQz+howUE08C9sdRAaC0NtpPu18ztdw6snA400B0bZCwa8fpplSfjziYdjmQQz/NBp5oeC79zMMdySBR7KW4Gcho3WiFrGOLCW+3xWjpBRk7Cn1IDjS4I=;Fe3REyORywfJax+Zqnxv9Q=="
 ---

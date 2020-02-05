@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Global Surgical Imaging Market is Expected to Reach USD 7.50 Billion by 2025 : Fior Markets"
-excerpt: "Newark, NJ, Feb. 05, 2020 (GLOBE NEWSWIRE) -- As per the report published by Fior Markets, the global surgical imaging market is expected to grow from USD 4.80 billion in 2017 to USD 7.50 billion by 2025 at a CAGR of 5."
-publishedDateTime: 2020-02-05T06:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/g15255744/global-surgical-imaging-market-is-expected-to-reach-usd-7-50-billion-by-2025-fior-markets"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15255744"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15255744"
+excerpt: "Global Surgical Imaging Market by Device (Angiography, C-arms, Endoscopy, Laparoscopy, Surgical Navigation Systems), Modality, Application, Region, Global Industry Analysis, Market Size, Share, Growth,"
+publishedDateTime: 2020-02-05T07:02:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1979992/0/en/Global-Surgical-Imaging-Market-is-Expected-to-Reach-USD-7-50-Billion-by-2025-Fior-Markets.html"
 type: article
-quality: 14
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -76,6 +74,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "t9lahCnIch0SpQtowZXqbsfx+vSFlm0Hqw1Ag0wUdM4NFTAh+fi464cu2EjIKq8XDAofZaYRYGCuzOzeeFpBrUX8eMhgAfdzRHQJ+FR8D9wgPc2ghoKVRS5XCpSdqtGDCxhmsQNHUpgWHWE5cHMrgMnTYoDzLhERmZDG7YukRwzwAyU/TyBXAmQQvZAGo3SglzbRtYG4+Dayuaosuj7IlTqRneWcYCSOI6igqJVgOaa3AS7PAL6B7Sm+3/o5EWgLYj+V0doWjyYlCtlTf1UcrzAYyTiwtXhsf85yb6EPniG8L6vKPSJgdSXHdIjHj7rt;fXp3pF9NrgA23YcLDU8iLA=="
+secured: "p1s1n4ESGklrZhXLrbVJMGifCaSBUkyL5nm64a73NgcaZWL9dFyeQMPzwjZBpym5n0Jz76w/KteXauxvcGelomonuoctanIqaxHJ1AfG2APvaYO0MNi9dcH6BeUvrXWNGCikJeHV0lBYBwB5RPsALjdWklA9+ihM2U7U/vzo9qcMcaBbI6u5WoF83kpN/w1UgtKGUEdg2BycCLjCcFB8ftHKW85lEcVHFZOCTzarRjSKVyovsBj2cfC+GFT91NOgbo7zXxONLQdsmuhgrikN1nHdTT3jcxrc0LoV4/dFJyjWW3v2hMQSG4/HxCeyrkHpswvH8pd89K0qqta6YUOcBBkFZGGxdi1L+mm0atQVqfK09/mc9Rt5yKT3tXSG5a8bRVaMQk5D5LYZKHqeP5uux99Tf1XG3n9/6UbLef0qVx/iYH5iMGkLZ/Wdy4NzjnyJnrwlzQ9JSzcKWBDgTmni8vd+ncQcIK8SDwxfe2uAvqM=;91YDmCm8d8o5TgorRakz8A=="
 ---
 
