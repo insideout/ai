@@ -2,7 +2,7 @@
 name: "Anil K. Jain"
 bio: "Michigan State University"
 type: "profile"
-heat: 380
+heat: -157
 
 affiliation:
   name: Michigan State University
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=g-_ZXGsAAAAJ
-  citations: 202170
+  citations: 201766
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 121
     title: "Anil K. Jain"
 
-secured: "yd5XqP5TIPt+crYrUPHKKudrpwtU7AIe/UD1070IK5Z2aaH6JtAKCFPTPprUq3UxEK13mNoqPK1mej65aNxt2o41/fbuAe4v2txpG5dgiUUS4LCzVtdM+O9WedmgP5D7ZVK/CZEYQJWHRFuaXvwm4wHdLfHFw6mOaeQddWoILl4LJ0z41vktOFaZ4JYHx+AuNr4L/bvkDgClerf6N1rHgulDyofnOemtrvc8HgEy4UzSK7XPodHo6+fCh9XK2m7otETpBmtQaFSTHIo1geMyWrFjor8RHcf5cmkWLu1/6GT25DWXr6i/sTYB3WZrvlKR;PJ7oymQXrGreXZfvOI5ifQ=="
+secured: "pzfsKhIglosoZd4kmnaK9fG4TnQqYf9qGkbeb4s20BbaAgi/B7byzjHFfS4EGJMRR5SE2V4oS1k3Ju2cZEb9+I/mm792oohNf3n6NcZ6ynRDLUOEDO2R62ssBueZpyYFFE3w2IxHsf/qAS/xEZarFkVDRA9f7PfTsApUkBACub+WVnLd8OmBvWNqLvh33FQWMTtuk/iDTuDgN5SwqnxdULnJlqXCyrV75mJuoqlCIkHqLrKfIKomf8uheZ92PQ0FfvI/qktSHS9J1s/X1JzSD5hUQu+WdodwynNzRvDHfgUJdrjTxW4Tl2e7Fa3cstCSziwetUWFEhga1Z/9Fj01yQ==;+SFrem0MwPrP4827b1Fj1A=="
 ---
 

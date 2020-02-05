@@ -2,7 +2,7 @@
 name: "Jitendra Malik"
 bio: "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision."
 type: "profile"
-heat: 491
+heat: -1790
 
 affiliation:
   name: berkeley.edu
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=oY9R5YQAAAAJ
-  citations: 173423
+  citations: 168818
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 128
     title: "Jitendra Malik"
 
-secured: "WdvvkXL+1ka/W4W9wdvg0lk2OAXODhLkRvTvD+MwmbXAAxhNhsmwcErlkAs7QYn8is7c/MEm6nnThgmmLQPrHUvw/tk+BmrF0S3vSAAeFkmZtdXkOc7zlg326VW2C6nH4tZEgOQjqlc+vvZDMU31uj6cHOzG6BCLvguOr5scMbyknGGimmxbRFteZpgCv8Yizfdpa+NrzbClIPRJMZjIimOwybmHV+7utT0LWfwRFzP+5Y7QStBrFz/Ygn6OQChCPCQ9WzQYn4AXp7RdCToZJkk/Cmcv7KCwH1iANFZh7t32lc7zvw8d3z+6LGXqSYUT;WskfR0W2+VlSAdWXCdb5lQ=="
+secured: "SigQ9cTICh1aFP6gByhWY0e1l/YjypO8N8GU5UHP08RyxF6aMzxK0mMU76s4c8/2krPEGOhpJfZkyzkus521KZN33HsMc9suNgoKA65mDbMNY2YjPYPfoDHf9m04xtJ8v9GbhqDmVi/Zlv33sgoTE2/IC7j+/yBnRxc5WZFHgyA5bVsA38XpyjrwgY6XzBDbYmgFFAjguXPZM3JU/hp7PvA5f94jGi2EFMvgoKxYLulyf8/b+VhVKewBXMyaZSRqlwUMGuyfhQGwIiLba3ii8AGEx0nSzEggF9epUc31XSxC4Uvfxkb4E4FLHiQp2qu0UWC9g2Go1F0pwVxFVp02+w==;Gc9wMFNFQOayxiEVKEp6Aw=="
 ---
 

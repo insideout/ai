@@ -2,7 +2,7 @@
 name: "Leo Breiman"
 bio: "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science."
 type: "profile"
-heat: 465
+heat: 456
 
 affiliation:
   name: berkeley.edu
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=mXSv_1UAAAAJ
-  citations: 143045
+  citations: 144218
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Leo_Breiman
@@ -26,6 +26,6 @@ images:
     height: 89
     title: "Leo Breiman"
 
-secured: "TlpDDt+OUPP/oCPFF9MghydxHGAPzoHcyBuz7hCZU27SXJaMUNAtXpRb8yeEzNmq2Er9zsuSLzMZMamM9vobeuQ4RA2XG+AOXTmyE+b7vvTJvt0YwChAVOjSHAd7BtWSPI6iXCCcHeLrmFob5z/AEY42Y3f2kgD7MQRhxuKzeuw3b6uBHIensr/NNkL48hTIUOOtw9it1P+nsbThm111NCgOFz/iuP8ZjFUeZDqgAey0f9fn39UmfHJak0V+Ta3k7nMtCrGaCkKois+fn5E4bVQ0QweHnr2QWpVO0nq4y8OPL9blXQhWqd+mfF2M5xmH;Rcyy4XDsgXZjC+WrgzHIhA=="
+secured: "29pDAnlvF+puxBTjZbyp/CPBRbT2PkAFcfkQn/6YysZUM7LkjMJh6YIrgbhMVsucKMCAg6FE/DbjZMUfok2EH/JmK56Kj0ejMirJDKFOY/elLQjjH7v7TWwjv0I+2MSfTsdO8pDKo1gVELHvP8GYNRZmfeDEMM4N/pV87F192IabufRLNIt4qMV/my/bH/3w5Zv9r65PYVY3mZDHETo671ehv2tFtpZ+triuZvGmu9E9aqs5QsVdOXU8tBZ4/9s0pdpeI3VyzzBw3ajxhxh1boO5p8Qky5cahnVmCOUGYVkFVRsq5DyXXB1qIdwdWtnxBzppdcf89qvjkG+Y72SqMg==;VaMU5uF9ilPGaKfbUKkwSQ=="
 ---
 
