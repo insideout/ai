@@ -58,6 +58,21 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200205&t=2&i=1486288485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG141VL"
         width: 818
         height: 545
+  - title: "Uber self-driving cars allowed back on California roads"
+    excerpt: "Ride-hailing firm Uber has been issued a permit by the Department of Motor Vehicles in California to test self-driving cars on public roads. It comes nearly two years after one of Uber's self-driving cars was involved in a fatal crash in Arizona. Uber scaled back its autonomous car operations following the incident. Receiving a permit in ..."
+    publishedDateTime: 2020-02-05T19:33:00Z
+    webUrl: "https://www.bbc.com/news/technology-51393808"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-51393808"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51393808"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C8A8/production/_110786315_ubergettyimages-605519896.jpg"
+        width: 1024
+        height: 576
   - title: "Uber's self-driving cars return home"
     excerpt: "A familiar name is back on the approved list for testing autonomous cars in California. The California Department of Motor Vehicles added Uber Advanced Technologies Group Wednesday morning as the latest company allowed to test self-driving vehicles on public roads with a driver behind the wheel. But just because Uber is permitted to test in ..."
     publishedDateTime: 2020-02-05T18:36:00Z
@@ -142,21 +157,36 @@ related:
       - url: "https://cdn.idropnews.com/wp-content/uploads/2019/01/24072607/apple-car-concept-drawing.jpg"
         width: 1000
         height: 600
-  - title: "Uber self-driving cars allowed back on California roads"
-    excerpt: "Ride-hailing firm Uber has been issued a permit by the Department of Motor Vehicles in California to test self-driving cars on public roads. It comes nearly two years after one of Uber's self-driving cars was involved in a fatal crash in Arizona. Uber scaled back its autonomous car operations following the incident. Receiving a permit in ..."
-    publishedDateTime: 2020-02-05T19:34:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-51393808"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51393808"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51393808"
+  - title: "Self-driving shuttles tested in Linden"
+    excerpt: "Self-driving shuttles began traversing the streets of Linden on Wednesday, and community leaders and residents hope the pilot program will show the need for continuing such service. The two 12-passenger shuttles — one blue and green, the other rainbow-colored — began serving the public at 3:30 p.m. The free Linden LEAP — for Linden ..."
+    publishedDateTime: 2020-02-05T21:13:00Z
+    webUrl: "https://www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden"
+    ampWebUrl: "https://www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden?template=ampart"
+    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden?template=ampart"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: Columbus Dispatch
+      domain: dispatch.com
     quality: 44
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C8A8/production/_110786315_ubergettyimages-605519896.jpg"
+      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200205&Category=NEWS&ArtNo=200209273&Ref=AR"
+        width: 2000
+        height: 1460
+  - title: "Uber gets DMV permit to test self-driving cars on California roads"
+    excerpt: "The California Department of Motor Vehicles on Wednesday issued a permit to Uber that allows the company to test self-driving cars on public roads across the state. The permit issuance comes almost two years after a self-driving car that Uber was testing struck and killed a pedestrian in Tempe,"
+    publishedDateTime: 2020-02-05T21:18:00Z
+    webUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/"
+    ampWebUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 44
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2018/03/self-driving-vehicle-fatali1.jpg?w=1024&h=706"
         width: 1024
-        height: 576
+        height: 705
   - title: "Uber self-driving cars can be tested in California"
     excerpt: "The California Department of Motor Vehicles on Wednesday added Uber to a list of companies with permits to test self-driving cars in the state, according to the ride-hailing app. Continue Reading Below The move comes nearly two years after an autonomous car struck and killed a pedestrian in Tempe, Arizona, because the employee ..."
     publishedDateTime: 2020-02-05T19:39:00Z

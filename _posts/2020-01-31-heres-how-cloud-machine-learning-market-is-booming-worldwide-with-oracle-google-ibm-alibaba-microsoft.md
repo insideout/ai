@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Worldwide Smart Learning Industry Insights, 2019-2024 - Featuring Use Cases of Docebo, G-Cube, Saba Software, Cisco, IBM, and More"
+    excerpt: "The major factors driving the growth of the smart learning market include the proliferation of connected devices in the education sector, adoption of eLearning solutions, and growing use of Artificial Intelligence (AI) and Machine Learning (ML) in smart learning. Software segment to grow at the highest CAGR during the forecast period Based on ..."
+    publishedDateTime: 2020-02-05T20:10:00Z
+    webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/news/-worldwide-smart-learning-industry-insights-2019-2024-featuring-/2020/02/05/9092923.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+    images:
+      - url: "https://images.tmcnet.com/channels/call-center-scheduling/new/images/wp-right1.jpg"
+        width: 336
+        height: 280
 
 secured: "R4RMeO2KjqCTsfTlTBj/3A0VnRlL9zPx9V45RmulF+A6RvfuhL+HvBpO5HlyNMv/FcRJ6rO7rbH8poVTS6MfyIaHEIkpLwyERdyWFY2CSxPhXCrJoH6J1VvaU0mx4cih6HTIOAF9Sc/8gWULiuSNGYFd+OXfwZW6GO8Xlxxt0Z2O8IkGIR5wPq0JUjTEsEVUFozMVBN2KqJjf+dh5W5/NXcUDJYGxNiuaXsyfisNwP3npbDM8m11NJpsT6ZSv1fdiO6NGvtrylag5fj53bbyR1WV/HtwKud/3HdjMGLkwy8wrTEsjbZHp1z0XhDxWXyO;wqF5um7XKM7W0/tdt4A8jg=="
 ---

@@ -5,8 +5,8 @@ excerpt: "In celebration of its 130th birthday, Kubota has unveiled a driverless
 publishedDateTime: 2020-01-21T10:12:00Z
 webUrl: "https://www.fwi.co.uk/machinery/technology/kubota-launches-wacky-driverless-concept-tractor"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://fwi-wp-assets-live.s3-eu-west-1.amazonaws.com/sites/1/2020/01/1-MAIN_Kubota-driverless-tractor-c-Kubota.jpg"
-    width: 900
-    height: 507
-    title: "Kubota launches wacky driverless concept tractor"
-
-secured: "FiWKamTqmhfCAfvKGU0VE+yjLFSSeYccY8+88fKVAi8g7eJkfemVHeHssREhCEAKkyKJNsfVa9/4e+NT45FFDDdeLPjezGeGWZMYu+A+yao3v7cSEDoWJ/LNxQiPFhhKbk7a/QARAQmm8Le+H0euoZQltkC2bMDbxFvwjkTloQcDSqN7LTcnce0F6cl9buYXPlXDpnz7yTyGsKoSeossVpedWqIng4b5ZAgrawqo2AFLexI0lBbWxJKvOncEI2lHP6YP7z06rrFy4RIVicN/85HBE1Td0b7nJRJBNACEmU26kOflBdTAsrTPACX8OPji7gzyGTkBWW8QmO33jtDKJynt8dFCPMaOEv/EpfYFOhz/Rv2rU1i19BXuBd2QzkeAMI5c8RiEZU/I/F0F3CswhcvGXKLhsXrQwyFcG+u8aPJ0JCx0HalN7sxOjjQDUvEVpX06VtJS8ZKMt97r91Ff+g==;GMoLG/UDcd44KD5ugxWjgw=="
+secured: "H0uTwA0v30BnUG1OyhV/GbfRTye60gjPJUQgsuVgg/nWrgKFkX28Y1takQi1YRGyz7oQ0u0AO5lhjH2XJGUBPdFQGz9T4S/5i9xWHEANrTw4asgN/EoVnScyt8K5CwseeXDA1QMq8tj5zqU5UBc84kIlRRvgQe1i/lDipZ3VhKeQn8IKd7K+OfU/z7m3IshXPLyZeAUd9hM0cOBmSF3NvhktG4+45Vq0IV+Ai2715VkZH8gLSgdaiNtG3zAJFjqmZphfskY4aJPnC2T0wPeC8TNKBFZQxnSE3+sYCIqEECHMMD59tMubLcuYUrKsAwjiDh7sClulSPvBzxbON2o6jlQuQ945mcTKBvk7Ky7kSj/RKUcDxnxW0EwCEC8njoqGs51gNJhH02FI8eTcSsAUCKbZMP1vHDNTVXWUEVMB0wy+aQoT/xx2JSFO9H0Il2koxMqfVZnBaWfRQbx2vucoJb86GMzmX2/VDqXDKWgAdqM=;Bf4Q4dhULwB4lez8jpHhtQ=="
 ---
 

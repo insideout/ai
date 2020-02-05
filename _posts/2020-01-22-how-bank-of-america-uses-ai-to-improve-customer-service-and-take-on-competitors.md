@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp"
 type: article
 quality: 100
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -86,17 +86,6 @@ related:
       - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
         width: 1000
         height: 600
-  - title: "Building a Customer Service Dream Team"
-    excerpt: "It’s not uncommon for customer questions to involve looking for answers in multiple systems–why did the financial system deliver an incorrect ... That same platform should provide the self-service capabilities customers expect, drive customer resolutions faster with machine learning, and provide analytics to continually measure and improve ..."
-    publishedDateTime: 2020-01-22T03:14:00Z
-    webUrl: "https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241"
-    ampWebUrl: "https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
 
 secured: "0M/PgvPWqBVBVeCfE/ZFOtlxl+RbV73IunJjrPpJWh1geu/7JaNKPuWfphBeDZzIGoM1jmT9B/c0SbP52uTuC+Zozk1/MncI7TmKYxe0QnrH6xjp5OU/pK4L1D6gwyGvK1w/bpzu38PFUsR5dCqdniq2KyILuX60OagvY1sdJW7FUECI2H4sscPlRCD0YPHl/XRqu2xBMYMgpTTmpG/pMkzqXwTd+N4OsFv4c29E80LSSXeon7ihnE5YHK09FAjkrj51y8kl+6betjMxggzugUCq2ijgqMQhftNS62tL47c8jJB1hDSYFzCRRfRcRw5J;ArBqh3hm5yKLkIzGcOJmww=="
 ---

@@ -1,13 +1,11 @@
 ---
 category: news
 title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and ..."
+excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
 publishedDateTime: 2020-01-20T12:36:00Z
 webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-    width: 1200
-    height: 628
-    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
   - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
@@ -165,6 +157,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "k32Ks2BxUGlHZAoXM+mV07pziquwqwxDPoTAwHizErW+DuOB6IXLuiDZQnaBFf6sqKt7fUFNGvK3sLs5bd5bCUgaJVQ/ee+AjCgu0VI6aAvfiUBTvC/MUsvAbb+cBWcARPFtOaFBDm/smuDa3Qx7bTbirms418wulkfbjjuJpiH4xgEOjwRX3RnxN/zWYA6wjsNy7S3AuSra1JPUpivvC3yqjxGrUuNrUFUZ95Pk5RMKplT6NlscLor8JVxuwKvGSrFCnG0K1sQtriaY5sHB9zjBsWwmzlLQoZOm/Z39QGJKB2J0ZSEOlD/b2e/94QG8;Ebv9nidTsWPbZL9mZVSUYA=="
+secured: "hqgqBX4bZzg5v2CwT3p/FwQmZTqevAQM1jqpyljO69yTsFGMUBj/ILoVv2dPJ7sSmjo9FZs4r5T3xk/2xOymT71rJM6k0UuJEPJyfxqrrXyF61BwsM06UmgxYrbLd1SLct/hl6rfJn+un+vJm0Idx7mkDxWR5AwgwqfJ/usEsSOmWB0e1auIIoMoIwtZZSIdKgY5fUIBk48quzjhYblmIt+s7psGi6728Pb48CxNnTAR67jCluSr4tyR6lNIPNozBgwYiroez5rzo2GvCqpMvKAiK2k8bBV3cbOIzK4ZpAb9RRHOXG9f6q3Y6IkU6rPlaPxiykDXedH7ybD4jVsh++XIVUeh9gfycrMrWrEBqFyN1lo4un49xBjsTdW323ItX3dprB6C+16YUOpmiHQavhVn2MUZMenuwjSaC088Yb9xMFTGstLlQ8+vE3uZgmnqJGNLbVAYkO7JyV+YrRdb8s77US4WhvhOQjguWCgITTY=;P2RIzGUHeumFW11prqpHrA=="
 ---
 

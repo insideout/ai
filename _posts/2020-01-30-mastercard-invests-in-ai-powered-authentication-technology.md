@@ -18,30 +18,21 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Phiar launches AI-powered AR navigation app in invite-only iPhone beta"
-    excerpt: "It also uses AI for lane segmentation, semantic segmentation, and 3D localization, allowing the app to determine and draw a proper navigational route through multi-lane streets. The user can then just follow the suggested path, as well as seeing floating icons that indicate points of interest and traffic signals. One key to these tricks is on ..."
-    publishedDateTime: 2020-01-23T15:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/"
-    ampWebUrl: "https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/"
+  - title: "A new device uses AI to identify fake pairs of Nike and Adidas sneakers in seconds. Here's how the authentication technology works."
+    excerpt: "One of the biggest problems in the sneaker resale market may now be more manageable. Here's a new technology that uses AI to fight counterfeits."
+    publishedDateTime: 2020-02-05T13:12:00Z
+    webUrl: "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 157
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/phiar.jpg?fit=2299%2C1150&strip=all"
-        width: 2299
-        height: 1150
-  - title: "DOCOMO Invests in AI-powered Voice Translation Provider Otter.ai"
-    excerpt: "Mirai Translate offers highly precise machine translation between Japanese and English. This is one of DOCOMO's key initiatives in its quest to help people overcome language barriers in everyday communication. DOCOMO plans to start to support the introduction of Otter.ai within Japanese companies during the fiscal year 2020."
-    publishedDateTime: 2020-01-23T02:12:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/16280-docomo-invests-in-ai-powered-voice-translation-provider-otter-ai"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 19
+      - url: "https://i.insider.com/5e3477d95bc79c46c13d960e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
 
 secured: "yGmOVeHu2Qt9LXS6/HwZgyk9jxgekw1BmRvDY+ZTqUsboV+Dx6f+xpPBqebTV0EFXtOBm+f7aUrc3hEylF2SElFg9GQUhAdB9bM7YOjP+dGxBBCCNE3akhu1GKhXPpEm19XCWjNXdhM+pfTkvCH1HfbCiJiFYpa8DmC0KR62p2XhmADrFjQojoGjAIhnWWRysNP6dSevFjBF/Tf/Xef51f2IYaswabVAI5lHwkYSWg2gk/asrrg9sSDJoP7FLogqin1jMh8QEx0B9SWuwqS0bSX+vE67OHvFmvZ9lCmOUbXTl8GQtHHSGLqPOFP9YkIL;iAtTzlTsxHJ1zW57Ny5rcw=="
 ---

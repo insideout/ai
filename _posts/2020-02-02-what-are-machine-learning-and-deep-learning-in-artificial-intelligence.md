@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artifi
 cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -40,6 +40,19 @@ related:
       - url: "https://www.crainscleveland.com/s3/files/styles/800x600/public/Hyland_Software_Logo_i.jpg"
         width: 800
         height: 600
+  - title: "Henkel invests in machine-learning software start-up Fero Labs"
+    excerpt: "Henkel AG & Co. KGaA (Dusseldorf, Germany; www.henkel.com) is participating in the latest funding round of Fero Labs (New York, N.Y.; www.ferolabs.com), a start-up aiming to optimize industrial processes by using explainable machine learning. The investment is led by the company’s HenkelX Ventures unit, together with DIVC, a Munich-based ..."
+    publishedDateTime: 2020-02-05T18:45:00Z
+    webUrl: "https://www.chemengonline.com/henkel-invests-in-machine-learning-software-start-up-fero-labs/"
+    type: article
+    provider:
+      name: The Magazine
+      domain: chemengonline.com
+    quality: 24
+    images:
+      - url: "https://www.chemengonline.com/wp-content/uploads/2020/02/che_0220-1.jpg"
+        width: 949
+        height: 1280
 
 secured: "yKZb68+JV8vuk8KV8NCrGSKme1wS5vUMCjJvqMx8FKvxxkZ352pcZSgdxwKXIErnr54jVUyaf81mhDSlML8xVdghjjKI2ht2A5fJCrzQR8cn76rDz/pvByNBPXAIhxnMXAZ7RV1cbhoFagZbYB/it8a0CKctqdz0OzIhFp8wx7VYGx310BslDWFbpJmzeuy6/0xfKidW9HZYFkXddAYKMxcCD4qdpe1iqwpdQgdXnuJPVld1XK08z70v46UeqM+8l56eByAIaKZoPBBm4agbWYTCnfJl5JqFOOuojpSIA2AOVgBbU8tTvX02j6mIamV7jfX2nK/djRKiDzm4thU5D5FFvYPE+61QzYW0PJfebhMnLGaTAnVUsDFbdFjrmYeKE75/kB1icnZOYf19J5lGYXsziaOUEQl0juWGo/XJHB08DFO9ClublCRVUtfCklqzV8FBLMCIFPJQmvI5bENONOcjqVIKVRNFtlJS70eFVFk=;jHT/g1JeWMh1Ou7EK2ficw=="
 ---

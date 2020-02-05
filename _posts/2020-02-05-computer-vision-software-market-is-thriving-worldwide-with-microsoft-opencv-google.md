@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T08:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-is-thriving-worldwide-with-microsoft-opencv-google-2020-02-05"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Worldwide Smart Learning Industry Insights, 2019-2024 - Featuring Use Cases of Docebo, G-Cube, Saba Software, Cisco, IBM, and More"
+    excerpt: "The major factors driving the growth of the smart learning market include the proliferation of connected devices in the education sector, adoption of eLearning solutions, and growing use of Artificial Intelligence (AI) and Machine Learning (ML) in smart learning. Software segment to grow at the highest CAGR during the forecast period Based on ..."
+    publishedDateTime: 2020-02-05T20:10:00Z
+    webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/news/-worldwide-smart-learning-industry-insights-2019-2024-featuring-/2020/02/05/9092923.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+    images:
+      - url: "https://images.tmcnet.com/channels/call-center-scheduling/new/images/wp-right1.jpg"
+        width: 336
+        height: 280
 
 secured: "U83o+3kr6CtOmUnZBwwUxit3EtmpAF/tR9Mi6OyOLmcPXj4iU4lCuEXT3ipaI/gH+2wAzykMKCd8Namkk0LKGY/TKmGP1berjd8B+Fr3Nbs1PuWjQlgFsjkELOAFK4hoi2mGHtazk/OjYVVcuZ/JwIw15p1wzywibqxAM4H3eAUANuV8iAqxyxUG5xVp2Dp56FUpS/1F7Sl7ucPaSayj79ChhAtJNqeQ/M8ZjR7yiw15IL4C2YJMUx+Fb7HcvEhzou3JlKR/8xmoOFMABygAUWYNNX0WIHY/4Zj+0lbQzef+dB4DJZXLgfH587nVZLdi;17BCNtijRND037tkkCqa+Q=="
 ---

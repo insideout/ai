@@ -71,22 +71,7 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
         width: 1200
         height: 800
-  - title: "Surprise: Google CEO Still Dancing Around AI Regulations"
-    excerpt: "But it warrants reminding those very same principles still allowed it to actively develop AI meant to kill people. Obviously, the situation's much more nuanced than that; Washington's geopolitical rivals are hardly concerned by ethics when it comes to military tech. Yet it's high time for legislators to start drawing some lines. And ..."
-    publishedDateTime: 2020-01-22T01:48:00Z
-    webUrl: "https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance"
-    ampWebUrl: "https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg"
-        width: 1600
-        height: 899
 
-secured: "74iWVjoPxxIjjxM7tcBpNHp2lokXMDDeb8XpqNWoClp62JKWYSCdE1i56CgHiCRI6XVJ/5bUlWVYG2C8aIYJVb4NkcFpMX8Jr4WCsJxn6K9jEP3JvXSp/Q2BveEXfx90JetO27LQquSxNwKVBPsoOyMpvbV4mJQDPbBnOXsTc6lkDrN6LXjomqMxLzzO+Qpbm8pzjedHOXBc/9pfU/ICqbOA+GcnlGAMIIxvmOjjzeBzW5frOLALX1bkXWqn5MRE68wBoXNWagK9KxaHMD2n69U1/A1mw3sIF0aet2qZCROWxu0Be8jnY3T63Mvq9FRq;+jjDrtRnsvb1UyNy5AT63Q=="
+secured: "b3KnEpdjg87xN81chZZmjJoALvD5WzG7xVMsQYlBFw7ljWQH+FAZ4uEIob2TzvhdSTHOml0l4SBcyxhZeLjatvMzvzwhhQQExI0uAVGUohAuxjeV1nZ2m9bmpTLL9MRYAdCCnNN/kppEbB9QMct/H/uFB/OVy6htu7v2iV+NhIAvEqGGzg5lx0CopUcN2mhIowA/J7lzVzygpbWr7xv1EkWVCx9nUCjWBRsyWg4vlCNQDX2IOJI7PS+I2pbmeyxeoauwjtjGMr6ImHbsXO6ynS6oFuTbRf0FbOJ4ODYpEN6zpMXXlSdzslLCSMb/Hqwx;hBuq8Ij15PtzFJywigQP2Q=="
 ---
 

@@ -67,21 +67,6 @@ related:
       - url: "https://www.nrn.com/sites/nrn.com/files/FlippyROAR_IMAGE.png"
         width: 1425
         height: 887
-  - title: "Cruise unveils next-generation, self-driving robot taxi"
-    excerpt: "While a couple of years ago many predicted that mass robo-car deployment would happen by 2020, most have pulled way back on that prediction. A fatal accident in 2018 in which a self-driving Uber struck and killed a pedestrian in Tempe, Ariz., drastically changed the public’s perception of the futuristic technology while underscoring its ..."
-    publishedDateTime: 2020-01-22T03:34:00Z
-    webUrl: "https://www.sfchronicle.com/business/article/Cruise-unveils-next-generation-self-driving-14993733.php"
-    ampWebUrl: "https://www.sfchronicle.com/business/amp/Cruise-unveils-next-generation-self-driving-14993733.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Cruise-unveils-next-generation-self-driving-14993733.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/10/11/73/18915015/7/375x250.jpg"
-        width: 375
-        height: 249
   - title: "Flippy kitchen robot updated to have zero footprint"
     excerpt: "Miso Robotics is redesigning its Flippy kitchen robot. The Pasadena, California-based startup has unveiled its Miso Robot on a Rail (ROAR) — a new approach to the robot that can grill burgers and fry up chicken tenders and tater tots."
     publishedDateTime: 2020-01-28T10:50:00Z

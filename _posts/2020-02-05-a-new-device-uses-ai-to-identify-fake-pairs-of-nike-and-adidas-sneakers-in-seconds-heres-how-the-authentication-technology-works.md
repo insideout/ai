@@ -7,9 +7,9 @@ webUrl: "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-d
 ampWebUrl: "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 157
+heat: 167
+published: true
 
 provider:
   name: Business Insider
@@ -28,6 +28,17 @@ images:
     height: 600
     title: "A new device uses AI to identify fake pairs of Nike and Adidas sneakers in seconds. Here's how the authentication technology works."
 
-secured: "+EX4AcFS2NHWbMPgQezZ9HKDqNNzfymN35D1SOGlVRA1Vn4Tx0BjQdCgzIyTYIEPTCJJhbYXhTdyeHL3aVF34UaoyAEoOouErSQ8Rsx79QeAoGVsCfMNPplLwb8Qk9uTnxIElu6lkLMraWeY/GCOsnOo5DnrdLH4mhhR7xmv46/ea7siz/sscsgcQzLKpKLmWYCOMxsU2ZUss/6mS6cCj/jPX+mtE+Kxbt5lXf4EeO4DXg7opMIbaJi8lADsemHKnMvKyDqMJPnZGiSh2HutE5hI9vheysSpRLDCnkuV/n1KWDYN1CQgaT4LqfxPXSNDdQFdhrH0mDrHuQueESUkYad/WA33EaruHgfqMRZifQFxW/XUP70TjIwYysSGP362xq6VztMvlBp0YUUlF6fzQw3bwEHwtzGATw0iqyeQyKF554eu2lcZ5NSsKgyzF6U1kpxXOy7Npo8dh6cIbwuxs/84P7D6aInvEQEzpHNxuc8=;ElfP/+bKJ+UMmoESz7m34w=="
+related:
+  - title: "Mastercard invests in AI-powered authentication technology"
+    excerpt: "The EgHash is unique to the subject and provides a tokenized identity that cannot be reverse engineered can be matched and deduplicated using Trust Stamp's probabilistic AI, and verified via zero-knowledge-proofs. The technology is used in multiple verticals, including humanitarian and development services, banking, fintech, KYC/AML compliance ..."
+    publishedDateTime: 2020-01-30T14:19:00Z
+    webUrl: "https://seekingalpha.com/news/3536339-mastercard-invests-in-ai-powered-authentication-technology"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
+
+secured: "BCcaQVIjPoRUyZp5Mxj8FQ0V4jPvmCBKlSktOicDA+0mZB75RkCneCLKxchYFaVlE3KZCp247aWzrMYloRauSQDEZ6r95zELg5VSnEkn5dNOvZKI+bBR/vhgPdflIZKkp8Qimm8M4zaa6rHmayap83SNbDhyWQkRAG05Tk7BhErPIz5FCf5o84sL7eAHaHykgEMza3MQnHOIFL0u0cybVr+6W0Lnue9AaNC1fdrgnJcov60NMp3R6wNXz3Y+JkL+6CmOoKKcpR5TBF0prCRQ0j9TDOn0kQnPMBfpQHb/uFH+9r7+Fjz44LR3bpBw+Qpjr8PFz3MsTxUfY5u3PbDqzV0wSG3u4xLcwjc1KBjJ5VQBqCwbRp/uN8Re0+0f2ip6oLHRzezWx8ATNrO9JG12n5DJeh22Tvqj1MvB6y+UMbs0Uexm2LicYZ5ZNPsqEEwVEAAHjJslcTaWG5m8ZGdHlqSW7gT47hp9eUC2agp3KjB0kKJ8yCbh3e5zZ2I2IWFP;4v5LD0K6rFgXHQn2JptPZQ=="
 ---
 

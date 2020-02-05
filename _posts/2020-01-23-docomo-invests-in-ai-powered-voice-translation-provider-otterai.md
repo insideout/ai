@@ -33,15 +33,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/phiar.jpg?fit=2299%2C1150&strip=all"
         width: 2299
         height: 1150
-  - title: "Mastercard invests in AI-powered authentication technology"
-    excerpt: "The EgHash is unique to the subject and provides a tokenized identity that cannot be reverse engineered can be matched and deduplicated using Trust Stamp's probabilistic AI, and verified via zero-knowledge-proofs. The technology is used in multiple verticals, including humanitarian and development services, banking, fintech, KYC/AML compliance ..."
-    publishedDateTime: 2020-01-30T14:19:00Z
-    webUrl: "https://seekingalpha.com/news/3536339-mastercard-invests-in-ai-powered-authentication-technology"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "zTrAf6GyU8uV9JAde8zx4yrUEhzVJRyTdeyOufoVhMeZFuEIeQmNcgpFKsWyfeLX28jes2fyGLFtrRDvtZK7Yrk9T0jvEb/eQlLJIq0JRFFRGM0ZXhu9R1mGDsWxQw3kHRZ1ckFNp+L7kuQVlC7HtnznKWW9Yj3OcnXFfQ0h6GReUZi7/y7PQj/jSKXia3hw9pMpnmD3oEA0iiLPgNAJODrOjcl3+i64OVRmyG4Sn7r8VC9OVG2IhiJNUc1Q6kwxb/f/1pSg2vzZgDYcJDCngMRLvzZK+WFNVfw/wHQ5ycKwILQRGb7TYDzY9I1xrdwTFIgQLjw7JI+oDbu/LLTqZ3Zp4T2WRqyQBfn05M0aw+TVPlnjIGsfb8pdIzpIO5VmnKRksJcXhiFCozkkqPUWU6bLs2erhEcfklyh+t2nwZZ9CAVJYLETQiBJKILZ1ajbk1MChA6JZN4rKQC2cZQOCA==;T0No+f4aUhkMTu0BgQgiGw=="
 ---

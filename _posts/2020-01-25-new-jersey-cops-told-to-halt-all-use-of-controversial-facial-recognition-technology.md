@@ -637,6 +637,17 @@ related:
       - url: "https://contentstorage-nax2.emarketer.com/ab38dfa809dcc6b9c4e1d34ceba68d21/default-image-share.png"
         width: 1280
         height: 720
+  - title: "UK police use of facial recognition tests public’s tolerance"
+    excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology’s ..."
+    publishedDateTime: 2020-01-16T09:20:00Z
+    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article239344158.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article239344158.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article239344158.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 39
   - title: "Google Chief Calls For Suspension Of Facial Recognition Technology"
     excerpt: "The head of Google is reportedly calling for a temporary block on the use of facial recognition technology until government officials weigh in with new rules. “Facial recognition is fraught with risks,” Alphabet and Google CEO Sundar Pichai said at a conference in Brussels, according to Reuters. “I think it is important that dominant ..."
     publishedDateTime: 2020-01-22T20:25:00Z

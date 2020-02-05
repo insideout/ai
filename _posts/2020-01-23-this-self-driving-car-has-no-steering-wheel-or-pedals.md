@@ -39,21 +39,6 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/31/cba611cd-8679-462a-b4f1-0bf604e5d1bb/thumbnail/1200x675/4253ba1d55270145e9da1a11a543ec27/thumb.jpg"
         width: 1200
         height: 675
-  - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
-    excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
-    publishedDateTime: 2020-02-03T07:00:00Z
-    webUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/"
-    ampWebUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
-        width: 2400
-        height: 1600
   - title: "This self-driving car has no steering wheel or pedals"
     excerpt: "The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rearview mirror."
     publishedDateTime: 2020-01-22T21:50:00Z
@@ -84,6 +69,19 @@ related:
       - url: "https://cdn.fleetnews.co.uk/web/1/root/driverless-car.jpg"
         width: 640
         height: 400
+  - title: "GM’s Cruise has unveiled a self-driving car with no steering wheel"
+    excerpt: "Hmm. And there's the tech hurdle: Cruise will also need to prove the software and sensors inside the Origin can safely navigate the very complex environment of a city, at a time when expectations for self-driving cars have cooled. And it faces stiff competition from the likes of Waymo, which is already testing fully driverless minivans in ..."
+    publishedDateTime: 2020-01-22T12:47:00Z
+    webUrl: "https://www.technologyreview.com/f/615077/gms-cruise-has-unveiled-a-self-driving-car-with-no-steering-wheel/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 24
+    images:
+      - url: "https://cdn.technologyreview.com/i/images/cruise1.jpg?sw=1200&cx=0&cy=0&cw=1545&ch=869"
+        width: 1200
+        height: 674
   - title: "This self-driving car has no steering wheel or pedals"
     excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
     publishedDateTime: 2020-01-31T14:41:00Z

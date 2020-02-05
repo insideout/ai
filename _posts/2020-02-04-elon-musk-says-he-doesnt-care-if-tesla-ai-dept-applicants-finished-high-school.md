@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.www.complex.com/life/2020/02/elon-musk-doesnt-care-if-te
 cdnAmpWebUrl: "https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/02/elon-musk-doesnt-care-if-tesla-ai-applicants-finished-high-school"
 type: article
 quality: 52
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -55,7 +55,22 @@ related:
       - url: "https://static-news.moneycontrol.com/static-mcnews/2018/01/Mirage-White-378x212.jpg"
         width: 378
         height: 212
+  - title: "Elon Musk 'doesn't care' if employees graduated high school if they're code or AI experts"
+    excerpt: "All that matters is a deep understanding of AI & ability to implement [neural networks] in a way that is actually useful ... He also added that Tesla is 'obviously' seeking 'world-class chip designers to join our team, based in both Palo Alto & Austin.' Musk's Twitter musing were characteristically met with a mix of agreement and skepticism."
+    publishedDateTime: 2020-02-05T21:24:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-7971211/Elon-Musk-doesnt-care-employees-graduated-high-school-theyre-code-AI-experts.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7971211/amp/Elon-Musk-doesnt-care-employees-graduated-high-school-theyre-code-AI-experts.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7971211/amp/Elon-Musk-doesnt-care-employees-graduated-high-school-theyre-code-AI-experts.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 50
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/05/21/15294406-0-image-a-40_1580937864326.jpg"
+        width: 636
+        height: 382
 
-secured: "JNwVWz2oKC+irEAuvQbmktNyOmA2ON/XDy26tzPksapt8bZ3BVU0WeY8AYpO3kKYC6wbfyTxOAScoDN6he/OEJZgTdgn1O8f55VOYlxIIT0Tfn5QXyRS+L2un9GsoH/FSE5WL7JDCn4UudoJOiAERkIGiyq7vsSwpH07SlfB0c7SAYgX2e1QjJ9bdLE52DDJVoAM2n9gsQicSHglzfDnYvVg++0C2Jz48QH9hnKlWi39Z+r+mr17TBP5rbH7mFKoy9SfPZRW34dB1P1xfqsiid4JuNNymajHZ39hlBMRCY53TPvd7jWADXqBlxn+EvPN;SQm7KpecazmY5ozO8MUfrA=="
+secured: "GpG7ya26phLoWmHRf5yvvmOUOQ0t2iMEFidZHzwfs6bWQDbtsCNxZ0vHgr3Rrh7iG8I6+DXk0TgcMpwe+IgakQbn4FjfiJqa7yeyjg0SitvzOMpQo6qZL8xdh/seQn0Ll2g4LFyxZTQuz2ECrnnc/B4351+CU3r8fn/1c0oGOiMP1UPpto42/VTKF1LlOwcCQbjVEFDdk4tOvcafc5C5Mz9RzKxN/xW4aKMnP8ylkpiBuRwOBgYaVnXON+cftK3w5xMYScl6TOqEU/cWCHgerQ/VDkYu58vH1qzkp/BGJb4vBXLUNC3xZd0vIP6cRkwb;QOOaVchBeouMiE/O6tFMgQ=="
 ---
 

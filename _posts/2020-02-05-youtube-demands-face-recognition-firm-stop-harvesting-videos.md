@@ -24,6 +24,15 @@ images:
     title: "YouTube demands face recognition firm stop harvesting videos"
 
 related:
+  - title: "Google and YouTube send cease-and-desist letter to facial recognition app that helps law enforcement"
+    excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, a facial recognition app that scraps images from the websites and social media platforms, CBS News has learned. The tech companies join Twitter, which sent a similar letter in January, in trying to block the app from taking pictures from their platforms. The app is only ..."
+    publishedDateTime: 2020-02-05T11:25:00Z
+    webUrl: "https://www.cbsnews.com/news/clearview-ai-google-youtube-send-cease-and-desist-letter-to-facial-recognition-app/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
   - title: "YouTube demands Clearview AI stop scraping its videos for facial recognition database"
     excerpt: "YouTube has sent a cease and desist letter to Clearview AI demanding that the controversial facial recognition startup stop scraping YouTube videos to gather faces for its database and delete any images it’s already collected. The demand, first reported by CBS News, says that YouTube forbids anyone from collecting data from its platform that ..."
     publishedDateTime: 2020-02-05T16:45:00Z
@@ -39,34 +48,32 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/hzn0DYF6-yhz7E7TYeTKLCBBFIs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66255869/acastro_180806_1777_youtube_cancel_0001.0.jpg"
         width: 1400
         height: 933
-  - title: "Podcast: Why Clearview AI's facial recognition is a privacy nightmare"
-    excerpt: "And we also chat about the DIY nature of Billy Eilish's Grammy wins. All of our fears around facial recognition technology are coming true thanks to a little known startup called ClearView AI. This week, Devindra and Cherlynn dive into how ClearView works, and what unchecked access to powerful facial recognition means for the future of privacy."
-    publishedDateTime: 2020-01-31T12:30:00Z
-    webUrl: "https://www.engadget.com/2020/01/31/podcast-clearview-ai-billie-eilish/"
+  - title: "Lawsuit filed against facial recognition company CPD works with"
+    excerpt: "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ..."
+    publishedDateTime: 2020-02-04T00:24:00Z
+    webUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/"
+    ampWebUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 84
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 74
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C719%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C719%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-10%252F9251a820-f130-11e9-9df5-19d3f012f517%26client%3Da1acac3e1b3290917d92%26signature%3D569bb91dab0b6654f0fc0287924bc32aa29d22ba&client=amp-blogside-v2&signature=29c7441da69c3b0234a720e23f0815964826b843"
+      - url: "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200"
         width: 1200
-        height: 630
-  - title: "This company scraped social media to feed its AI facial recognition tool. Is that legal?"
-    excerpt: "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ..."
-    publishedDateTime: 2020-02-03T21:39:00Z
-    webUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview"
-    ampWebUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
-    cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
+        height: 675
+  - title: "Facial Recognition Coming to Europe, Terms and Conditions Apply"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy."
+    publishedDateTime: 2020-02-01T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-01/facial-recognition-coming-to-europe-terms-and-conditions-apply"
     type: article
     provider:
-      name: Big Think
-      domain: bigthink.com
-    quality: 65
-    images:
-      - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600"
-        width: 1440
-        height: 810
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
   - title: "Google, YouTube and Twitter send cease and desist order to facial recognition app Clearview AI"
     excerpt: "Google, YouTube and Twitter have all sent cease and desist orders to controversial facial recognition app Clearview AI in an effort to stop it taking images to help with police investigations. The tech company's tools allow law enforcement officials to upload a photo of an unknown person they would like to identify, and see a list of ..."
     publishedDateTime: 2020-02-05T17:34:00Z
@@ -82,6 +89,15 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/05/17/24354446-0-image-a-59_1580923631236.jpg"
         width: 636
         height: 382
+  - title: "Google tells facial recognition startup Clearview AI to stop scraping photos"
+    excerpt: "Following Twitter, Google and YouTube have become the latest companies to send a cease-and-desist letter to Clearview AI, the startup behind a controversial facial recognition program that more than 600 police departments across North American use. Clearview came under scrutiny earlier this year when The New York Times showed that the company ..."
+    publishedDateTime: 2020-02-05T19:13:00Z
+    webUrl: "https://www.engadget.com/2020/02/05/google-tells-clearview-at-stop-scraping-photos/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 61
   - title: "Clearview AI hit with cease-and-desist from Google over facial recognition collection"
     excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, the facial recognition company that has been scraping billions of photos off the internet and using it to help more than 600 police departments identify people within seconds. That follows a similar action by Twitter, which sent Clearview AI a cease-and-desist letter for ..."
     publishedDateTime: 2020-02-05T13:40:00Z
@@ -106,19 +122,17 @@ related:
       - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
         width: 1280
         height: 720
-  - title: "EU Prepares for Coming of Facial Recognition– On Its Privacy Terms"
-    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy. Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next ..."
-    publishedDateTime: 2020-02-03T12:59:00Z
-    webUrl: "https://www.insurancejournal.com/news/international/2020/02/03/557118.htm"
+  - title: "Facial recognition coming to Europe, but terms and conditions applied"
+    excerpt: "Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next month."
+    publishedDateTime: 2020-02-02T11:57:00Z
+    webUrl: "https://www.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK_amp.html"
     type: article
     provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
+      name: Hindustan Times
+      domain: hindustantimes.com
     quality: 39
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
-        width: 900
-        height: 598
   - title: "YouTube: Face recognition firm must stop harvesting videos"
     excerpt: "NEW YORK -- YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following ..."
     publishedDateTime: 2020-02-05T19:49:00Z
@@ -132,25 +146,16 @@ related:
       - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
         width: 992
         height: 558
-  - title: "Google and YouTube send cease-and-desist letter to facial recognition app that helps law enforcement"
-    excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, a facial recognition app that scraps images from the websites and social media platforms, CBS News has learned. The tech companies join Twitter, which sent a similar letter in January, in trying to block the app from taking pictures from their platforms. The app is only ..."
-    publishedDateTime: 2020-02-05T11:25:00Z
-    webUrl: "https://www.cbsnews.com/news/clearview-ai-google-youtube-send-cease-and-desist-letter-to-facial-recognition-app/"
+  - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
+    excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
+    publishedDateTime: 2020-02-04T23:36:00Z
+    webUrl: "https://www.nbcchicago.com/news/local/chicago-area-groups-demand-end-to-facial-recognition-amid-concerns/2213205/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 4
-  - title: "Army researchers investigate long-range facial recognition by combining infrared sensors and face databases"
-    excerpt: "Stars and Stripes reports. Continue reading original article The Military & Aerospace Electronics take: 4 Feb. 2020 --The advanced facial recognition technology could aid soldiers in the field, but comes with some growing cyber security challenges ..."
-    publishedDateTime: 2020-02-04T11:47:00Z
-    webUrl: "https://www.militaryaerospace.com/sensors/article/14104030/facial-recognition-infrared-sensors"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 1
+      name: NBC Chicago
+      domain: nbcchicago.com
+    quality: 19
 
-secured: "I9n8rXTubPrTp64gYMXAKMvEsrSjSiraNJ0rJGJHjG8O8BUgH2sM+pyK/J68KNGLETQvPOD7M3/3QhOd7dSfbJvUQfsc5lBxK9tEm2PBXHdmMAq32Md/t0bkh3lbi6w0/qGS2PQw6C+eUSqwELGCLlVcR5xU04QpH66qvYqLsKMN75PnktLBLsX89nSXs6PQ+uVNt/NSyCDy+0c5JsFut5OgLycjrLQOfocm9Pvz9pZxXFSiVlKpKsQs8PNMFoRHDboh4GeQS8l0WOU3xSqVSG3g83tV9MgPMafiUrfXkN/F2Z/vbGiCP+VdY6Dz3IaA;GxCC+UHh8J0yRux8E1C4LA=="
+secured: "E9M2G8RJFdHHSBiuQgEG70GDFSmb4GmgR1mSSBq9+5z8DvwTYJtVlLORgSM4FkmLm9a/Ej3xZVmvm1kzxwm0+lnpz3XvkKzPvh5bwBV0EqDO1O0VsDT7GnDf9jNpPPurK9mTJL6a04RN0cmRnOF19bZaxiw/jEFi1GB5sRMTJKSBWFOZGUR4SD8a2uaudiYkU6aRoeWBK+WNYb81FDRRXk/EzDTkWEj0L537/vpGJ9YnqQfyZe42mJ+tinqUDXXWqTb+8pH9m+EMw6v9xiDb11VzKgEC+ps4gpWA7hLzVSd9/cdQsLBmEM/4WH3sDh4wyeg8oAzmjGbbs0KVSegGzd9YQd58YkhSlxdBJ2w/r9Va/PpxSABY7AJRHFVjA8inWVoS1Ii90VbbbDSQIGOqwixegvZR8jZ2Roum6wroUxdio7hauec2lFa08Rz0/aL7VuvwtKBWYBCC3Ti3CM8NKzUex+aoKfsLVmRomB5ps44=;neW8Nq3KuABByJFI82jdZg=="
 ---
 

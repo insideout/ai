@@ -18,10 +18,36 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Neural Network Software Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
-    excerpt: "New York, January 22, 2020: The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software,"
-    publishedDateTime: 2020-01-22T04:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-22"
+  - title: "GPU Market research, Industry Outlook, Current Trends and Forecast by 2024"
+    excerpt: "The GPU Market Forecast Report provides details analysis of keyword industry which will accelerate your business. GPU market report covers the current state of business and the growth prospects of the worldwide keyword Market."
+    publishedDateTime: 2020-01-24T08:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-market-research-industry-outlook-current-trends-and-forecast-by-2024-2020-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "The latest market research, trends, and landscape in the growing AI chatbot industry"
+    excerpt: "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from our Intelligence Report."
+    publishedDateTime: 2020-01-23T21:48:00Z
+    webUrl: "https://www.businessinsider.com/chatbot-market-stats-trends"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://i.insider.com/5e29ec4762fa81053f03e106?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "Autonomous Vehicles Market (2020-26) Outlook with Industry Trends by Top Players Alphabet, Audi, Baidu Jaguar, BMW"
+    excerpt: "Jan 24, 2020 (AmericaNewsHour) -- Global Autonomous Vehicles Market reports provide CAGR Value 2020-2026 and analysis of Top Players, Geography, End users, Applications, Competitor analysis, Sales ..."
+    publishedDateTime: 2020-01-24T01:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-2020-26-outlook-with-industry-trends-by-top-players-alphabet-audi-baidu-jaguar-bmw-2020-01-24?dist=bigcharts"
     type: article
     provider:
       name: MarketWatch
@@ -31,20 +57,116 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Machine Learning as a Service Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
-    excerpt: "New York, January 20, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report Terry Laboratories Inc."
-    publishedDateTime: 2020-01-20T03:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-19"
+  - title: "Artificial Intelligence (AI) in Cyber Security Market 2020 By Revenue, Price, Gross Margin, Production Capacity Estimates and Forecasts to 2026"
+    excerpt: "Global Artificial Intelligence (AI) in Cyber Security Industry research report studies latest Artificial Intelligence (AI) in Cyber Security aspects market size, share, trends, industry summary and Artificial Intelligence (AI) in Cyber Security growth during the forecast period (2020-2024)."
+    publishedDateTime: 2020-01-22T12:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2020-by-revenue-price-gross-margin-production-capacity-estimates-and-forecasts-to-2026-2020-01-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Machine Learning as a Service Market 2020 Overview, Latest Analysis and Future Forecast By 2025 – Market Research Engine"
+    excerpt: "New York, January 22, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
+    publishedDateTime: 2020-01-22T04:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-overview-latest-analysis-and-future-forecast-by-2025-market-research-engine-2020-01-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast"
+    excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) With the emergence of 5G technology,"
+    publishedDateTime: 2020-01-27T08:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast-2020-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Education System Market Report With Current Trends, Growth Ratio and Size Reckoned Forecast by 2029"
+    excerpt: "A recent market research analysis titled, Artificial Intelligence in Education System Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence in Education System market covering industry surroundings,"
+    publishedDateTime: 2020-01-31T05:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-system-market-report-with-current-trends-growth-ratio-and-size-reckoned-forecast-by-2029-2020-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Life Sciences Market Trends, Research, Anlysis & Forecast 2025 | IBM Corporation, NuMedii Inc., Atomwise Inc"
+    excerpt: "Global Artificial Intelligence in Life Sciences Market Insights, Forecast to 2025 The report discusses many vital industry facets that influence \"Global Artificial Intelligence in Life Sciences Market\" industry acutely which includes extensive study of competitive edge,"
+    publishedDateTime: 2020-01-25T05:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-trends-research-anlysis-forecast-2025-ibm-corporation-numedii-inc-atomwise-inc-2020-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Deep Learning Chipset Market Size, Share 2020 Supply, Consumption, Cost and Profit analysis and forecast to 2024| Says Market Reports World"
+    excerpt: "Deep Learning Chipset Market 2020 :- The Deep Learning Chipset Market has been created based on an in-depth market analysis with inputs from industry experts. The report covers the growth prospects over the coming years & discussion of the key vendors."
+    publishedDateTime: 2020-01-30T05:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-share-2020-supply-consumption-cost-and-profit-analysis-and-forecast-to-2024-says-market-reports-world-2020-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Self-driving Car Market Share, Size and Forecast Report By 2023"
+    excerpt: "Self-driving Car Market The report on SELF-DRIVING CAR MARKET offers a detailed analysis of the SELF-DRIVING CAR"
+    publishedDateTime: 2020-01-29T14:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-share-size-and-forecast-report-by-2023-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+  - title: "Smart Robot Market: 2018 Industry Analysis, Size, Trends, Growth and Forecast 2025 | ABB, iRobot Corporation, Grey orange"
+    excerpt: "A smart robot uses an artificial intelligence (AI) system that can learn from its environment and its experience. Smart robots can collaborate while working together as well as learning from the behavior of humans. Flexibility &amp; scalability in operation along with the high performance fuels the growth of the smart robot market. With the ..."
+    publishedDateTime: 2020-01-24T12:31:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/37910/smart-robot-market-2018-industry-analysis-size/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 14
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
+  - title: "Speech and Voice Recognition Market Global Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2026"
+    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
+    publishedDateTime: 2020-01-27T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-global-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2026-2020-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 3
 
-secured: "ap9opFaVWJGEYC556YuMJEiajpyP6JxZjc66C7z+a98e+LOEPVUdJh+ylFXby0Y250rvaIbtk3HVpKbXlN58nkUo3t9EngKRl7q02ExLEq+LM85GM00a8FNQOieXN/GNW19LKHP7bWW8AKAHxurpd5NEcgdEUiZ/4WchOisf9ldu6I9SPzduRZj76Jd8qN/eCd5+FGas8YQn+6JEQj3w1WVaTDLEw8iLE5xECf2u6G4Lejnl9V98Q+PekC4aEBVztqE4yrMNbM82lZtVJiwHiCfaI0QhNRRE7ZaJlr88cPaMd4EnqmLgscOvxNyHJdJu;nGYt8RpSiZnF/Xwp5auDeg=="
+secured: "dAjohiG+kALNBleIoFj2FfsKwzXOwcUzKh64hxG8wxOTvWBGRhKAxALHdjjqVlIIot+saIHfv5tPWReK5Q8BuEmgigLET4IK1xUKTnPw7uiGzcDodqn7xjT9hiugKxbKt9YOVYkFuC0MZLFCzX+rCpznncoMw+sm1iXPYPJ4a7PhUWirWx1T0v2RgMELAb9TPlWUhobEBxL7MTbzutI9eirxwFfbMDF+OLcSiFYa6z1lwT/6juBckDby5KFRuMRD6kZtI4ucS1WDkkalna224gV9y92VGaigdoBxqHdhcafNpgvmAV9d60NzW0bti+mp;6K2Kv2BsPtS/HBW4FhUpHw=="
 ---
 

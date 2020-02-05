@@ -5,9 +5,9 @@ excerpt: "Chemistry matters. Join us to get the news you need. Yes! I want to ge
 publishedDateTime: 2020-02-05T00:08:00Z
 webUrl: "https://cen.acs.org/physical-chemistry/computational-chemistry/Artificial-intelligence-finds-drug-that-could-fight-Wuhan-coronavirus/98/i6"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 137
+heat: 147
+published: true
 
 provider:
   name: C&EN
@@ -22,6 +22,21 @@ images:
     height: 456
     title: "Artificial intelligence finds drug that could fight Wuhan coronavirus"
 
-secured: "FwV9W5Lx+QMH4qOUmjnr2J023oebWF3Vdqf7pyERuJahj5moBRkLGDmJnnJYDRaw4F0fMSZRajL4dff4Abh9LaUrJ6Dpwws0R5dqfKGf8orGW47d19ZPtQO4iDNE42GlNyh7bJHkOB6D4B0V5QnBixee2jZhs+Qm61zscnSiqJ8uGHxrXmxPtYx+7luSsIO0NiJWJR1G03CW0YlEhZGvcujJWwM5+89b0beEX9oqZkua64k9JK23+YROjagFueBn4AcHm4MOn5V/PhfIL3zfGF8ivsEkPtLr8v6eb6CziD43ZJojCaD6Fzc1AAGP/jHY;08yGv47dMnql98cSLCH3tQ=="
+related:
+  - title: "AI, 5G help fight coronavirus epidemic in China"
+    excerpt: "As China continues to battle an outbreak of the deadly novel coronavirus, some of the cutting-edge technologies from artificial intelligence (AI) and 5G came in handy in the nationwide fight to contain the virus-caused crisis. On Saturday, the Provincial Center for Disease Control and Prevention (CDC) in East China's Zhejiang Province announced ..."
+    publishedDateTime: 2020-02-02T12:49:00Z
+    webUrl: "https://www.globaltimes.cn/content/1178260.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 37
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-01-30/9fd8b87b-e675-4089-8601-8034ae4dc9fe.jpeg"
+        width: 500
+        height: 300
+
+secured: "yLde8gLlZpdjJMwvK3pQ47F8pq9WgNHis/UnsicSTftLWtdMFptFb7xANtUM01rhdkGEfKTkhre7DyGPJ1gCDmZQ37uKcCT9Fqw3scz+OvyzzJqE5Q/H8kmcNwMHD0o5BJJPawYNmHk+hnyCeeTlsnxWSImWwF1Vr/fiiuOzelU4RrnfdS6levIOZdj2fcU7D9rBbWb+aOmeXzMQ7Ve525vvGTKXqjiDX/i/6YJmt3ESvzdGbyzYHSdBEOKDahHVS04lwHmJziY9twwPVzL9RdE+3ceGLBatVQ2tHInfjp2YIq5ci0IbYnhyxdnNzds+53uOSNxLIk2u7waCJEZNRPAJYezHTY7tCY2ZomLSmoo=;SAdky/RO04rEyqZUiulySg=="
 ---
 

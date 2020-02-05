@@ -56,6 +56,19 @@ related:
       - url: "https://media.voltron.voanews.com/Drupal/01live-166/reuters-pictures/2020/02/RTS30RFB.jpg"
         width: 3988
         height: 2948
+  - title: "Robot bartender starts work at Tokyo pub"
+    excerpt: "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitors customers to analyse their expressions with artificial intelligence (AI) software. \"I like it because dealing with ..."
+    publishedDateTime: 2020-02-05T21:49:00Z
+    webUrl: "https://japantoday.com/category/tech/Robot-bartender-starts-work-at-Tokyo-pub"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 39
+    images:
+      - url: "https://injapan.scdn7.secure.raxcdn.com/app/uploads/2017/09/20728766_1544633632269161_1607214437966247907_o-700x466.jpg"
+        width: 700
+        height: 466
   - title: "Japanese robot could call last orders on human bartenders"
     excerpt: "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitors customers to analyze their expressions with artificial intelligence (AI) software. \"I like it because dealing with people can be a hassle. With this you can just come and get drunk,\" Satoshi Harada ..."
     publishedDateTime: 2020-02-04T20:02:00Z

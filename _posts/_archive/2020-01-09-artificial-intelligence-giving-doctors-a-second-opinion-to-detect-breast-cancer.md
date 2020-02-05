@@ -4,11 +4,9 @@ title: "Artificial Intelligence Giving Doctors A Second Opinion To Detect Breast
 excerpt: "Artificial intelligence, or AI as it’s called, is everywhere these days, reports CBS2’s Dr. Max Gomez. It’s what’s making driverless cars, smart vacuum cleaners and iPhone assistants possible."
 publishedDateTime: 2020-01-09T23:24:00Z
 webUrl: "https://newyork.cbslocal.com/2020/01/09/artificial-intelligence-giving-doctors-a-second-opinion-to-detect-breast-cancer/"
-ampWebUrl: "https://newyork.cbslocal.com/2020/01/09/artificial-intelligence-giving-doctors-a-second-opinion-to-detect-breast-cancer/amp/"
-cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/2020/01/09/artificial-intelligence-giving-doctors-a-second-opinion-to-detect-breast-cancer/amp/"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-secured: "USbbz/tL++FHfhRfdmmRP7wuw3Ek02SMF7rrj1hXHhhJwWooJJ5djHx94boiFbB0t9hKKL9bNG5+++iulmROxcoQ87dMm1ylCn1t+arUI4As8ljgcUzB9tFGqI1LPJyYlMOXVA+dM52IhnXIgvgbyDeKJ9ScyzmcdPSm0Imue0LxTWFNKa79HsiPdu1zK0Rgg0n3Wnj15ajA2qXwWEQG6szP5LQL2tYRowPGd+PAAvr5bfoElpEeGSvAVurcmg6HbcsvpJF61yCHQledqEEcLabOAe8HPTLKnmJcQtIl2aefCsk8PfBeVfo1JNOp5q0e;Olis8v8O0pwCRYyMUx5hcA=="
+secured: "lvkQ+wB3+VYN8FQCRMyfaj3aIHSp9uU61c+AobtDfldnm2YklrFlGMYL74LwU1blM5i3PTsaZIhVAPk0Ox8zvtEYajjfc5zHQyeJng3g/JrEuWhtmQofPsTlwLbNNov0qCaC5NTDIbr+tfAu+XEySrVIWQ6yeL7wTNyZwws6J/aebLEs7w9CY7rKPUOQvnSkSTG3Cf98hOjpXTB3KLPw9YeEKRzLYSTwoMdxygURPxHUpCYrlivNRswy1TXvYL3GIYxXmGnFK+eA/hKu2gGMpVjiP7UUx4RjrLN5HizpcR86Qc9lDt37fFvMrs6PuJn0;i4ytEfqxJ0p6EDdn4Sc+aw=="
 ---
 

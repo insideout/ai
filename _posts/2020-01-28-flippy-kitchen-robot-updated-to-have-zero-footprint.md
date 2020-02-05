@@ -74,21 +74,6 @@ related:
       - url: "https://www.nrn.com/sites/nrn.com/files/FlippyROAR_IMAGE.png"
         width: 1425
         height: 887
-  - title: "Cruise unveils next-generation, self-driving robot taxi"
-    excerpt: "While a couple of years ago many predicted that mass robo-car deployment would happen by 2020, most have pulled way back on that prediction. A fatal accident in 2018 in which a self-driving Uber struck and killed a pedestrian in Tempe, Ariz., drastically changed the public’s perception of the futuristic technology while underscoring its ..."
-    publishedDateTime: 2020-01-22T03:34:00Z
-    webUrl: "https://www.sfchronicle.com/business/article/Cruise-unveils-next-generation-self-driving-14993733.php"
-    ampWebUrl: "https://www.sfchronicle.com/business/amp/Cruise-unveils-next-generation-self-driving-14993733.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Cruise-unveils-next-generation-self-driving-14993733.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/10/11/73/18915015/7/375x250.jpg"
-        width: 375
-        height: 249
 
 secured: "ccPoRaiLOXYNsBdIaXhsdjqhhWCDk0Y58mSWI1EZgzE2DZ+5Q4wIrX+t/X9lz7PHo0NyNQCU4d2CTtwVKYZjwpPHWHaFrui1VaAXwkqXncMHLOUOxKewLtHHiyevlmfX20HnuRSBEruiE1JsdlUS2mJP/snHLQhOM9n/q41iAsC05Pt+RkgX4vifO23pRATDiUK04ax+YFbjQy2gFYf8d4UzP0dlLXzzxGdyNKTVDIl7+PeLuIy6HF3rQfvrEg67MtQ3xA0bi9RdZckorWm3Tev+v0TgOvjDqFho5WyOMCa3mR656ZtRDv31LNnepb7Zj0QZcpiGHzpNNlZGrzBeiCEjKirAknt4IgO0DSoyBQl5Vscpj6wBndVzvb/jIWH5mOawCtoWNR9Cuc3NWIdsujUIt3JXcINZ7yaitYS/A/4zw6BUM8VTVaTLJrNeIEbqEGBfu277ZcZTpwh0KaiUZYaPrP8k8Lx7zIpvcaMBsx4=;Axt7EzKsBrT9uH5UtGQO4A=="
 ---

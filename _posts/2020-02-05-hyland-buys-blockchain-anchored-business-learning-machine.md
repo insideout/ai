@@ -39,6 +39,19 @@ related:
       - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png"
         width: 412
         height: 338
+  - title: "Henkel invests in machine-learning software start-up Fero Labs"
+    excerpt: "Henkel AG & Co. KGaA (Dusseldorf, Germany; www.henkel.com) is participating in the latest funding round of Fero Labs (New York, N.Y.; www.ferolabs.com), a start-up aiming to optimize industrial processes by using explainable machine learning. The investment is led by the company’s HenkelX Ventures unit, together with DIVC, a Munich-based ..."
+    publishedDateTime: 2020-02-05T18:45:00Z
+    webUrl: "https://www.chemengonline.com/henkel-invests-in-machine-learning-software-start-up-fero-labs/"
+    type: article
+    provider:
+      name: The Magazine
+      domain: chemengonline.com
+    quality: 24
+    images:
+      - url: "https://www.chemengonline.com/wp-content/uploads/2020/02/che_0220-1.jpg"
+        width: 949
+        height: 1280
 
 secured: "2Gjfz5pwnZz/2XAcs3B/yAtobaPHX//OKKtS0BgUdMyGc6/qHJ7nDUawlMUDPL3+SEvWOiJGE6PJj8cuJ8utbKWfBqMuIACNZ2XlIH3M8zJZnlw7GEgheolUAmRr6kOZzw3ugg9GUJe5bv1NozIkoqKjxp2t5zE/SXovuImz9+DONHNURzS2g+t7+e9vJxD4U30h6zZBburgIn/wdPILCP0jQqSXOQZDmSHgXAQWStS/JzJO5MMvRJXeOtSoBuyILAlWMv2ig6MsQAs/gT4+oDiVULAnFi1qdCtGIpAWAEKdip052s++o1Djf2GYn5SNyCx5huiN3zYevEUukLSAdz2SOP6pLaihJ1raMCDmXbivaJpdKrLEtSYrWxjjgPe7W5ngUenBdJPGA9B2F9rttyzs5V9YOlGARZgd03df4IT/sHtEG0uSv3FNJhm8vlHhnDxjEU2cpp7l/w5KiHjRTKbGk/Qp4TXdxXQKunmRRds=;6K54l2Xypa7hDxXHDTsDgA=="
 ---

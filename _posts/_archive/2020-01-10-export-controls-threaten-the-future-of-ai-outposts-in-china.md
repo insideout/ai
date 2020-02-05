@@ -4,12 +4,10 @@ title: "Export Controls Threaten the Future of AI Outposts in China"
 excerpt: "Other US tech companies, like Facebook, are effectively blocked ... University who writes a newsletter on Chinese AI. “Google, Microsoft Research Asia, and other multinationals with R&D labs ..."
 publishedDateTime: 2020-01-10T13:02:00Z
 webUrl: "https://www.wired.com/story/export-controls-threaten-ai-outposts-china/"
-ampWebUrl: "https://www.wired.com/story/export-controls-threaten-ai-outposts-china/amp"
-cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/export-controls-threaten-ai-outposts-china/amp"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wired
@@ -23,12 +21,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: "https://media.wired.com/photos/5e177e6287b5f30008dd4e8e/master/pass/Business-AI-US-China-1169747427.jpg"
-    width: 2000
-    height: 1333
-    title: "Export Controls Threaten the Future of AI Outposts in China"
-
-secured: "mHqnHpc1kuxZ0+JX+s1Uw93OZ4gWy5Mbrqp7Y2K39vB2RdlM/TZ3vC7h0ecOA/pQ0CM8UQp0q1mzAG0BChUSNOvVeD3tnrAjb2LwgY6kTj35335KRayMnGiEgYIwSCDlY+32uWo3d/isoAZxrtwyeOgTcElXUa7Q9ZpcwCfzr8rSc4x+U0iTX6WZaiJ6g7aKBRih+WgRq22qa4Dlp3wdnp4vAJRRBrlncgHdjndFJxx7HGxMBmKBtkqjAl/RcVqir3ajC0ZqLuEsV4HgrV8fvFuFtaIwXCPb+xmCGkordYyiPV3FpSjz9APExKk431TB;od1rGVdIS/S7cspv+6C5BA=="
+secured: "8c0OKF6ZjD94GO0OAqi8TdNIB89KyWhAbcjuk+xO66Og/41qdSj392ykdJpCpVTOw502+oteQhKnAZS637/8Y6c/K6mxTssw/5w8w9q2cWYNUbBzaMfnlEbCAE27CwqJpcERL8oNyK2Kv2f1IJZDoHANOPgAipIxUUAItt5vpsRraATvG9JFULO8xRtMOjPB/l4X2114/5/u3LskG+HsUcpGLN2TI2A+lwgkaCY7tEDeLuYHpBV1zW3ln5JL9BqyzYsyBCZJe/gJPQSidLBTaQzukFfuzp6O7jlDZk5LUfflxRapcRi8XV+7cB2ITjs/;YmYTSy/gv6sSMn7McrMxFA=="
 ---
 

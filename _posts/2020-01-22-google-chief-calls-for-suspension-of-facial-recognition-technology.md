@@ -635,6 +635,17 @@ related:
       - url: "https://contentstorage-nax2.emarketer.com/ab38dfa809dcc6b9c4e1d34ceba68d21/default-image-share.png"
         width: 1280
         height: 720
+  - title: "UK police use of facial recognition tests public’s tolerance"
+    excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology’s ..."
+    publishedDateTime: 2020-01-16T09:20:00Z
+    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article239344158.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article239344158.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article239344158.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 39
   - title: "Telangana to test facial recognition in polls as privacy fears mount"
     excerpt: "Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri district to 'reduce impersonation cases,' the Telangana state election commission said in an online notification late last week The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday ..."
     publishedDateTime: 2020-01-22T09:33:00Z

@@ -20,6 +20,19 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Machine learning technique speeds up crystal structure determination"
+    excerpt: "The method uses a machine learning algorithm, similar to the type used in facial recognition and self-driving cars, to independently analyze electron diffraction patterns, and do so with at least 95% accuracy. The work is published in the Jan. 31 issue of Science. A team led by UC San Diego nanoengineering professor Kenneth Vecchio and his Ph.D ..."
+    publishedDateTime: 2020-02-05T16:15:00Z
+    webUrl: "https://sciencebulletin.org/machine-learning-technique-speeds-up-crystal-structure-determination/"
+    type: article
+    provider:
+      name: Science Bulletin
+      domain: sciencebulletin.org
+    quality: 39
+    images:
+      - url: "https://sciencebulletin.org/wp-content/uploads/2020/02/Machine-learning-technique-speeds-up-crystal-structure-determination.jpg"
+        width: 975
+        height: 732
   - title: "Crystal symmetry determination in electron diffraction using machine learning"
     excerpt: "Automated phase identification is the first step in making EBSD into a high-throughput technique. We used a machine learning–based approach and developed a general methodology for rapid and autonomous identification of the crystal symmetry from EBSD patterns. We evaluated our algorithm with diffraction patterns from materials outside the ..."
     publishedDateTime: 2020-01-30T18:55:00Z

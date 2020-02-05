@@ -48,36 +48,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480447771&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0M1ZY"
         width: 818
         height: 545
-  - title: "Cruise’s Origin: GM-Backed Startup Debuts A Self-Driving Electric Van For Robotaxi Service"
-    excerpt: "The autonomous tech startup is upbeat that it’s on track to launch a robotaxi service in San Francisco with a spacious battery-powered van–but isn't saying when."
-    publishedDateTime: 2020-01-22T03:45:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x544/https://specials-images.forbesimg.com/imageserve/5e27bb58a854780006af293b/960x0.jpg?fit=scale"
-        width: 711
-        height: 544
-  - title: "Cruise’s Origin: GM-Backed Startup Debuts Self-Driving Electric Van For Its Robotaxi Service"
-    excerpt: "The autonomous tech startup is upbeat that it’s on track to launch a robotaxi service in San Francisco with a spacious battery-powered van–but isn't saying when."
-    publishedDateTime: 2020-01-22T03:45:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x544/https://specials-images.forbesimg.com/imageserve/5e27bb58a854780006af293b/960x0.jpg?fit=scale"
-        width: 711
-        height: 544
   - title: "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit"
     excerpt: "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ..."
     publishedDateTime: 2020-01-28T17:46:00Z

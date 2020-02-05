@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-corona
 ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/amp/"
 type: article
-quality: 66
-heat: 66
-published: false
+quality: 166
+heat: 166
+published: true
 
 provider:
   name: Forbes
@@ -29,6 +29,6 @@ images:
     height: 616
     title: "AI Predicts Coronavirus Could Infect 2.5 Billion And Kill 53 Million. Doctors Say That’s Not Credible, And Here’s Why"
 
-secured: "Y+mgR6bNTV+vDftEQQ//dYLnBYLFo7LoZo5McVN+xcz0UbsrOdS46H5W6GIHnCcJr/0x7lz3CaRNtsPBIOktyDsgbC8c61qLyYYFvQFNLKtVXhr5rSH4PkiLanOrcrWwGy5jdohJn8gZCjnmnR3nKFBnBw1077ZveoEZ5imNiUVeqO99jQQRiL+7KE25pVWkMrXX94vHzVQ5nnVu/rWi7lNL8BUxBknCpuh6WdiUsc0SpvEqM18qEho8XA953HbBt7QRx0fyNZgx1LxynJFoglJN32qoOqJu0GUhBYg50iW8c+/6f0KeKW6jexvktKLs4dhlbe0bNARs6T5DJU5W7jKvRjpjGAzRwaICAoHvezyfpiKPyOJ+ZC3QPcRJvDOMcIDGluCstAPr45rBXytqktd/Q77HZ/cGAiHBCiwyiTPkjmvtdSfclcQpp/1QdBlA1Za9CFTWILvoK7S4kT5RkvKsSiB4ytrL/D7rYX7rs6o=;qTtcA3ayfY7K+cjswhRslg=="
+secured: "F0kkWGvAYOBgl5n6YN+4nrJjmts1/yVCKsf3ezWReZ+Yss05Jp15e4aslFJjkb5sHeKsLMUK/eVltn0r7e/0qJl2rPW14xLtxClro19GtPTsv4TKYAjj03Y2fb7qDIBKUyweia7Ql6vl2TRb6i4xaAoMt+ZDFQ4FvJ5MIvbzcIDvgzQbzwb22csWVzeVuHZuhIo1hZ6MLA6P1GJBMjESeOnN/YU5m2fAz7eccP1+pwa5KF9opt8GZyPcaAl3oJIBUAfeKEx1mZSOiXyH6Luff7uZ4Szhc5RS4JbGIJTj9dADYrOeuhyvsGhep5wzPCgz9xwYA6i16RFmkLxTcDMegLnz3BWUTUV3OusrXMNgZXBwaSs/e6pKa4cdCV+3ge9SYcYcVVbpy9qs19zYSvODuZRniUmqV5WyjJBY/xSnRSV7AtxrbxRL16PaIXwQvdF2EIANCNNIK6qDTaMcfw0DNmOMFaacyKG07rbKPt+5TI2W5byxl6012LSw8iLXT7ME;2Hup5B8NibyRGm7YuMd3aA=="
 ---
 

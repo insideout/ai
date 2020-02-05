@@ -4,11 +4,9 @@ title: "Driverless electric shuttle bus displayed by Bosch at CES 2020"
 excerpt: "They are trained with a wealth of information and vast databases of hundreds of thousands of clips which are processed using artificial intelligence to accurately identify people ... In November last year Apple revealed details of its driverless car system that uses lasers to detect pedestrians and cyclists from a distance."
 publishedDateTime: 2020-01-08T16:06:00Z
 webUrl: "https://www.dailymail.co.uk/sciencetech/article-7865097/Driverless-electric-shuttle-bus-displayed-Bosch-CES-2020.html"
-ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7865097/amp/Driverless-electric-shuttle-bus-displayed-Bosch-CES-2020.html"
-cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7865097/amp/Driverless-electric-shuttle-bus-displayed-Bosch-CES-2020.html"
 type: article
-quality: 59
-heat: 59
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://i.dailymail.co.uk/1s/2020/01/08/15/23152910-0-image-a-23_1578495828443.jpg"
-    width: 636
-    height: 382
-    title: "Driverless electric shuttle bus displayed by Bosch at CES 2020"
-
-secured: "9CPTQQ/5agm6zL5D4dmAq+yBJogU8as/Sx4Q+bdl+t1PkxUMWFrhbHa2De6Mkwp1jDm+GrogGIsgHfqN1pU6nxzvWHiOGH1ZhZFoOf/EDuh7N7zzGsYzRve1Y/cPo/MbQF3PTGMlZJYenARW01fpvJaIYqArgRQ4wpgtTHo4gVh7hPlPjJ6/6PEO9EYSJmP9xd7B5wxNmmpJOmIjAlDdB0yp5ZuFv0cCyl++woN7sdc0jy6RDnVxuy0IwQ8yZIe4owLrIuJHB6P70uP9eQGmMdi3bJBzhM+lfLSOrlTj1Z9gpshN28MYAKvNhUc0MQXC;aJZeFSc1zn3hk7nlZFAnQw=="
+secured: "uuBxJsw/U9c6bcbeYFeIbWpOhzGLI6btoyDRgT/Hk1/STih83L8xg1vQtsHrI31ipjI26VuOY5CYGc+nYdSd3oqP1LHECJs6puRBg7eHIUfBD1eGIKAM15KLOUljQ323HMyW130ThEOw0Oee0DTSZZricvVnyvlWS55aa/ZuIBNJDrHKtwZfuvg4fQvstV1IRgXoeGq1tOO6lVGZNj2AdM2m7dnPBt+NSPRte/eDqpHk3p1Ur0tPmniQePFC0FnyW+c/re1LGQK2v73yp4odN6tIXnul45x/3L+Zsz+rHeKilPOgMD4yCYJ0bQOXZkm+BYjx90LHblKxcodo3VdyMNt0BgUBAvui46sT0pCCMN+39Ynk7VCHq+JHpqW1s9LLZ5HA2v7YSlKa+E3609ruxHM8KhrvBTW8wxZ+W9GaBOZO7d/N8JcXsX6G7ygiM+5csLRzWTR8gvPapl/JB/2OqUy44IBXdCw6M/Jl4pT6Auk=;1qI2EYoFes74gwlbKYedOA=="
 ---
 

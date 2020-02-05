@@ -2,23 +2,27 @@
 category: news
 title: "Proprio Appoints Robotics and Computer Vision Pioneer Dr. Takeo Kanade to Advisory Board"
 excerpt: "One of the world's foremost researchers in computer vision and robotics, Dr. Kanade is the U.A. and Helen Whitaker Professor of Computer Science and Robotics at Carnegie Mellon University ..."
-publishedDateTime: 2020-01-09T12:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/01/n15099962/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade-to-advisory-board"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15099962"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15099962"
+publishedDateTime: 2020-01-09T17:08:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade-to-advisory-board-1028807109"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade-to-advisory-board-1028807109"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade-to-advisory-board-1028807109"
 type: article
-quality: 30
-heat: 30
+quality: 60
+heat: 60
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
-secured: "bbrlUW48vy67FIWM2ZS30bnjusek4AlUo9GTEFHBjmAGO6VHRndUP9H1kHEWkTZBmC9myGzXkkXbkXmliYKERAbqTfF1H4Nu+b086NhhDQ2ip0F1VHP/pnB19IqCpc5z886twx649sudsQPVvDy1s8ztJagWYcRMzX67xf1LSGjMRTFknH09uIMKDqg73BWGSW6wZzt9TQiQpeE+FYUB8xk7pzT5rP96+BGKdf5poFgI/Oz5v3kP2qOUDDtLQjUFENEAdHdkAfzsJ3EJ9x2xbRevJhBp7qLpirQGGP5OV8fau8oNm8be4wJNoRknYyJ1;X8pCOWqaguNh66jIqGsWYg=="
+secured: "9cU2mD97LItUOdCvbsLn5aMnEynQ1uVomwg/bbfQJW1ca18V5/oFQKf1uf7vo8ndSagoYNOLSuL9fnccxf8b9Z3viKtO+Hb9pLQ1po7vaug3JpTcVqsHII/mvfGet3Nwy9JFKWWswaQ64D6BjVEs46diOaGxh36EOjrUXR+8rohNbiA6OUvZPqWdxv+G3f3M3pIU2CeyCgnmzkqTylRpUsTW5gZ8OmHI2uDbNdI+ZYNXpPkU8JoWg8JdmUwQ3J2OoUJ6oHI0HxtjuCeJ/pTNad8Ll++nHMU2osM0+pTbpChYHGVTC0DRbLtwEgYInJAH;boXoZY7pEqQbMFeBCRp98Q=="
 ---
 

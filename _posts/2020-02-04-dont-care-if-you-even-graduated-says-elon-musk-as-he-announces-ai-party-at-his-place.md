@@ -56,6 +56,21 @@ related:
       - url: "https://static-news.moneycontrol.com/static-mcnews/2018/01/Mirage-White-378x212.jpg"
         width: 378
         height: 212
+  - title: "Elon Musk 'doesn't care' if employees graduated high school if they're code or AI experts"
+    excerpt: "All that matters is a deep understanding of AI & ability to implement [neural networks] in a way that is actually useful ... He also added that Tesla is 'obviously' seeking 'world-class chip designers to join our team, based in both Palo Alto & Austin.' Musk's Twitter musing were characteristically met with a mix of agreement and skepticism."
+    publishedDateTime: 2020-02-05T21:24:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-7971211/Elon-Musk-doesnt-care-employees-graduated-high-school-theyre-code-AI-experts.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7971211/amp/Elon-Musk-doesnt-care-employees-graduated-high-school-theyre-code-AI-experts.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7971211/amp/Elon-Musk-doesnt-care-employees-graduated-high-school-theyre-code-AI-experts.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 50
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/05/21/15294406-0-image-a-40_1580937864326.jpg"
+        width: 636
+        height: 382
 
 secured: "FfEwiXIHMtBLSEr6+MhfHn4l/WWWpExuSBMajYC+CCHHlLi+EAh4xMndHdfAxU4pGbVO/xKSTxzak3D5Pytb+WYYM0XQmdEYWKSJMYuYkUNu1yZYOsbSr9gKIV6DM6WKF6aGLxE61/1B0vYIUjh15+Ib7yMGngzzr26RwxbodmcSsAdGMPhkaKLmKwRqL5GSmsVUG2sAoVtaSv5g3T18NF4IK3pH9adzK9S9Lrlvxj3wuN77ud3I+D1bYDsonxNBA8BdiDro7Z3N09qQ6y4+gJDYbu8tnxeD4gMI3y8lG/CbaPVM/GZLUD79q7aeStBrxi+hwlo9/7SLuSb8o+sGuTnSi8lIbJfItsLYlzx+GRPYGbdJlP3DpAU3fGun9Ub4i37bxQcqj0TM4OvSM55x1880NmoVf/xUdLRXlfcLTCsit9iyPXIHplLzepnivTE7L+okzT62yPOF8UzE3r152l8Q9/ItSu/dVoBWwXfB0uI=;APHAwnSEsATFmO6JVTmbOg=="
 ---

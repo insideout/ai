@@ -27,21 +27,21 @@ images:
     title: "Mobile Artificial Intelligence Market Continue to Grow as Industry Spends Big to Reclaim Market 2029"
 
 related:
-  - title: "Cognitive Computing Technology Market 2020 – 2023: Business Trends, Emerging Technologies, Size, Global Segments and industry Profit Growth"
-    excerpt: "The study indicates that by technology segment, natural language processing is the most prominent technology used in the cognitive computing industry owing to its integral capacity to process natural language interactions. At present, automated reasoning and information recovery technologies have limited applications thereby, restricting the ..."
-    publishedDateTime: 2020-01-22T11:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15161098/cognitive-computing-technology-market-2020-2023-business-trends-emerging-technologies-size-global"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15161098"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15161098"
+  - title: "Mobile AI Market 2020 Classification, Application, Industry Chain Overview, SWOT Analysis and Competitive Landscape To 2023"
+    excerpt: "“”Mobile AI Market”” Mobile AI Market Research Report 2020: Industry Size, Share, Trends, Growth, Sales, Revenue, Risk and Opportunity Assessment"
+    publishedDateTime: 2020-01-23T09:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15169842/mobile-ai-market-2020-classification-application-industry-chain-overview-swot-analysis-and-compet"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15169842"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15169842"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 10
+    quality: 35
     images:
-      - url: "https://www.abnewswire.com/uploads/1579690500.png"
+      - url: "https://www.abnewswire.com/uploads/1579774680.jpeg"
         width: 800
-        height: 428
+        height: 527
 
 secured: "ZnXBYXpBLJa8kDlJHUoWAL+Kr8oxCJnCHTugEiDk0swiXwAvKnP6JtrtIZc9+Z0qcgbx0YceT5bSfzRxF61IU4+CawYl47aeNnxVRPDtzKhqp6T0sCXnFzdbTUlNar6n5eDk+IMyXp1DOAUsOrpCSG353C3rBv+1v/pL+wC1yW/w8+d6hJMlPNg4ZF5xKtL5clbeLsGA9eiZpq+o09KfEeSKjWNSCSNxg1kYlxoXBF1oZOmltHtD2FgG2uT5V3w1LhrPqXYYdiD3ukrNJoG8hy0HnappOeorJQDRpt9thtigcpMLVxKDE8ZP4W1+bHYf;R5nIANy0WdxCTvES4PAKxQ=="
 ---

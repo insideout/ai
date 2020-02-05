@@ -1,89 +1,47 @@
 ---
 category: news
 title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
-excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
-publishedDateTime: 2020-01-19T20:50:00Z
-webUrl: "https://www.mcall.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html"
-ampWebUrl: "https://www.mcall.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp"
+excerpt: "Until recently, Hoan Ton-That’s greatest hits included an obscure iPhone game and an app that let people put Donald Trump’s distinctive yellow hair on their own photos. Then Ton-That — an ..."
+publishedDateTime: 2020-01-19T03:19:00Z
+webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Morning Call PA
-  domain: mcall.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
   - AI
-  - Facebook AI
+  - Computer Vision
 
 images:
-  - url: "https://www.mcall.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg"
+  - url: "https://www.chicagotribune.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg"
     width: 1200
     height: 800
     title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
 
 related:
-  - title: "Scraping the Web Is a Powerful Tool. Clearview AI Abused It"
-    excerpt: "Last weekend, a nightmare scenario for many privacy advocates arrived. The New York Times revealed Clearview AI, a secretive surveillance company, was selling a facial recognition tool to law enforcement powered by “three billion images” culled from the open web. Cops have long had access to similar technology, but what makes Clearview ..."
-    publishedDateTime: 2020-01-25T07:00:00Z
-    webUrl: "https://www.wired.com/story/clearview-ai-scraping-web/"
-    ampWebUrl: "https://www.wired.com/story/clearview-ai-scraping-web/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-ai-scraping-web/amp"
+  - title: "The Secretive Company That Might End Privacy as We Know It"
+    excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person, along with links to where ..."
+    publishedDateTime: 2020-01-18T19:25:00Z
+    webUrl: "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
     images:
-      - url: "https://media.wired.com/photos/5e2a1bb2123c60000827363b/master/pass/ai-scraping-88622242.jpg"
-        width: 2400
-        height: 1350
-  - title: "Class-action lawsuit filed against controversial Clearview AI startup"
-    excerpt: "A lawsuit -- seeking class-action status -- was filed this week in Illinois against Clearview AI, a New York-based startup that has scraped social media networks for people's photos and created one of the biggest facial recognition databases in the world. The secretive startup was exposed last week in an explosive New York Times report which ..."
-    publishedDateTime: 2020-01-24T17:05:00Z
-    webUrl: "https://www.zdnet.com/article/class-action-lawsuit-filed-against-controversial-clearview-ai-startup/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "Peter Judd: Clearview AI not making the world safer"
-    excerpt: "His company, Clearview AI, has done the unthinkable. It unleashed an artificial intelligence that has ... In Australia, it is almost comatose when it comes to tech ethics. If I could afford some $50 minutes with a savvy lawyer I would tell them: Your face is not a book. Or a song. Or a movie to be pirated. Your identity is not currency for ..."
-    publishedDateTime: 2020-01-27T23:36:00Z
-    webUrl: "https://www.geelongadvertiser.com.au/news/opinion/peter-judd-clearview-ai-not-making-the-world-safer/news-story/1e9a8cdc08f739644d11d74df8ca8219"
-    ampWebUrl: "https://amp.geelongadvertiser.com.au/news/opinion/peter-judd-clearview-ai-not-making-the-world-safer/news-story/1e9a8cdc08f739644d11d74df8ca8219"
-    cdnAmpWebUrl: "https://amp-geelongadvertiser-com-au.cdn.ampproject.org/c/s/amp.geelongadvertiser.com.au/news/opinion/peter-judd-clearview-ai-not-making-the-world-safer/news-story/1e9a8cdc08f739644d11d74df8ca8219"
-    type: article
-    provider:
-      name: Geelong Advertiser
-      domain: geelongadvertiser.com.au
-    quality: 39
-  - title: "Clearview AI: The company that might end privacy as we know it"
-    excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person along with links to where those photos appeared. The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ..."
-    publishedDateTime: 2020-01-19T18:16:00Z
-    webUrl: "https://tech.economictimes.indiatimes.com/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683"
-    ampWebUrl: "https://tech.economictimes.indiatimes.com/amp/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683"
-    cdnAmpWebUrl: "https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 37
-  - title: "Clearview AI: The company that might end privacy as we know it"
-    excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person along with links to where those photos appeared. The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ..."
-    publishedDateTime: 2020-01-20T03:34:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/enterprise-services-and-applications/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73412574"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/enterprise-services-and-applications/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73412574"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/enterprise-services-and-applications/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73412574"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 37
+      - url: "https://static01.nyt.com/images/2020/01/26/business/19clearview/19clearview-facebookJumbo-v4.png"
+        width: 1050
+        height: 549
 
-secured: "JyrkmPWwrrUTEbGRpWMbSdgDMNGqpoy5Ar+fU/pP4iv+UIekhhqoj0c9Nz6YjwxQhQlMmokVBoKWKNc8pvDwCGfLb7+Ah9KGxE/iJWgkSi4r6IZ63pO43ncC48YngHK0Mutn6jyn08+GnfbF+yuHepLkjra0aEZ8zGmnEgBbx9tVodCy9ho4DdeVEpythC/5CtCtjXoJRyfl+TorXKPfW8ZBVmH4lV2z9NWnNfYU8E22Nqj9blJzr9TGkgb0LiRLSQUouBcCfWKapnmkHCTc68bXM3i48L4kq9XW2J/+EIJwf09cb48shnK5sSQDrGM+OSgddb89qxYwmQwE86xFVW+r5HM81Av+bjEZIIMI/KUS855tkY9FKsqX1Tn+d1u8XoKnDFSsjN1Q+1ydPZZ3vbCnalXCG0R4seDd3fF9MJIfOYzdNQEzYFyfMsFsMcPg0z8Pg3eEYdfu5ObNArjKftsYr7cgJdXzUz8saXrHM1s=;1+YZ6cmFyHre/Tc+PKnHbg=="
+secured: "dOn91rjmbpSTegcvaagUBdjM+JCno1K8EgNtMLUf14jU812sDSRRNxFJ1qOSmb9yIqMQI1fEJHYpFdsW/WgPsg0I9jlQhRVYgi9jHo0vq9RMmU1yG5/xeeFcvkYXsZIrPK4dUlJTYKrC9HvhOYlxdeje7zUnigkQm3eME0kRmsOZxcINrKCrVzcWlhyZq5F++WLsh4ntKr2V5HGqDSBq/BJLfxFTiGHfTFN33bviYi6NbL+e8kt8tCfl3BWaJgphNNV+nVq5hMUh5JsehbXY6jVV54etnQzzFT9gAE8b5LHUCBFgb+7B8/vfVqCaEVoH;QNGBMOzpGWLZMISNe3QdIA=="
 ---
 

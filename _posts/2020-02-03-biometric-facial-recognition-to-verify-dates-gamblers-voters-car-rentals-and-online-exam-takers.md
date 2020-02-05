@@ -63,15 +63,6 @@ related:
       - url: "https://images1.miaminewtimes.com/imager/u/original/11473392/license-plate-readers-tony-webster-ccflicr.jpg"
         width: 3135
         height: 2008
-  - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
-    excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
-    publishedDateTime: 2020-02-04T23:36:00Z
-    webUrl: "https://www.nbcchicago.com/news/local/chicago-area-groups-demand-end-to-facial-recognition-amid-concerns/2213205/"
-    type: article
-    provider:
-      name: NBC Chicago
-      domain: nbcchicago.com
-    quality: 19
 
 secured: "sYjR5QMzOWkQgcZw0LJu5sPWUsz9INcwwJwlz7Mi/YaTf/IrB+7IGL3EGgL7HlTqpUi22F5yO4o8oBImHMDT3iPgsYh5ZuZNFUtTq+RmHpfF1hhLZx8AzP0CQCH0mC8xMKDue3N0KNlok9CM3ej6ki30DG/uyx6pHfpU2uPeCCIffSfY8i0/qN8CyRcVXqNpckftYn4yB3neCZc9qo7m2afQC1Um4VMBhvW0X25MFqPEJAQyuQ555mUWQVBvlip0rlElB1MRHvmVSuSmRkE3kZDJD2unt5Cz/nEVRundCHyjkgbPIT1PMW1xocONAU4m;qLhxnbA0O9mZv2oWzZ1n5Q=="
 ---

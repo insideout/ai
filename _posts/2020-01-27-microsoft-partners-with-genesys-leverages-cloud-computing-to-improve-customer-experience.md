@@ -82,17 +82,6 @@ related:
       - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
         width: 1000
         height: 600
-  - title: "Building a Customer Service Dream Team"
-    excerpt: "It’s not uncommon for customer questions to involve looking for answers in multiple systems–why did the financial system deliver an incorrect ... That same platform should provide the self-service capabilities customers expect, drive customer resolutions faster with machine learning, and provide analytics to continually measure and improve ..."
-    publishedDateTime: 2020-01-22T03:14:00Z
-    webUrl: "https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241"
-    ampWebUrl: "https://www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/building-a-customer-service-dream-team-02277241/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
 
 secured: "tu0fHtu2l0uJbj6u3EQ3KQFSRR3WZvf6/iD1xgdQIOCAj5xg1n7sdvV59kNoNnDvIWvV1xBLuug2O2NmIOTCE215czjEySyr9qRlgvSR5E6DQPKF4dtLK+v5jXqDQKddSdZZkW5F0dOdty+S1ikARIEbPYbXEabg5v07sNeFLDjCOcla0U65TD265M3k2wRwnQi+5/5i0h6uiObVrQbmEBWO2mM4+bq20cWjCDaLmXDQ45Oo4cjs8XT1bn89eQF0XErjBJEidM8DgaJ76jsz+uNgTTS7zJ7CjMccIkhChJEgOO9ug8d1xXiAqXWfFGvb8MvGxKi7mreeFinRagN1snBo0P3OMbAqkURQDFYzhgwvQZi4tXnbr4jhwfGc+Z91z7FC5vRfjPPtheNyPHtP4fwxltmTJ6mZRt+gJcWpz9fYlrOep7bMhGL2ARcSwDjWAPKnD5KhZVPnRqAznh1yTw31msRYWt8kMZn8q6tMnZw=;h2YnhYMWf5YQDpigIBSXgg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/01/30/business/artificial-intelligence-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.amp.html"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/01/reskilling.png"
         width: 939
         height: 629
+  - title: "Forget Politics And The Rise Of The Robots, Fees Are The Big Worry For Brokers"
+    excerpt: "Macro considerations like political uncertainty and the impact of artificial intelligence grab most of the headlines, but a big chunk of the real estate brokers in Europe are worried about something far more immediate: clients continuing to screw down fees. In the annual membership survey of the Society of Industrial & Office Realtors ..."
+    publishedDateTime: 2020-02-05T21:50:00Z
+    webUrl: "https://www.bisnow.com/london/news/capital-markets/forget-politics-and-the-rise-of-the-robots-fees-are-the-big-worry-for-brokers-102856"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 35
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F02%2F5e3aebfd02d8b-fees-1.jpeg&width=1200&sign=erwoRAPRaUDWSS4QKXiM6hu1ctYl-c_Yy83-L9wjstg"
+        width: 1002
+        height: 683
 
 secured: "yJki9/iK0uDTciIG0RE3EiA9MV5QEwQx7dmuoTwL/HSTmXO4ZKW63UhnEXuRJbtwlWIH5UmkzJ17G7zheivkNiwnOHDVvNYEM0ycFuiheo4C9p+XvdttPHZh8RTgIK4YQwyH4XS+/ZQpKgDgpSrQ9CJ7Qpn7kAETEsvn3uv+d5cny6cJ7rPfbc2ugApzZFkytKJaKHge89O9df4n5NZUSZjZuy/mFSDnZ8OQnEFtkoLNPoXtIan9h9K5UjC4q5aXRAr1i+oTsMHn+VHF9vROzba4mOc+wpN7h+8D+lecRcwq75WePhJzgAvneLkKlI26Nnb9Hg50kaGqq+1xKo+fobHEOvXiKhvWLIYZsYDUKMThrnCUDge/SKJsxP4Wyr8ZJCjGR3oYRMwYa9wvxDxlXyT5NIBqL6R2pNRewSxPRQQvFCmiFIvul/Oy2FzwlPoH00TqPEHprEstgPLIZgWHxrB8jp5sMfBfjsVD5+ZeGME=;umEAQ74m2ioDBnUzSCHIAQ=="
 ---

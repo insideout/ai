@@ -69,15 +69,6 @@ related:
       - url: "https://technical.ly/dc/wp-content/uploads/sites/5/2020/01/Uber-ATG-self-driving-cars.jpg"
         width: 680
         height: 453
-  - title: "The Key To Tesla's Future Is Full Self-Driving"
-    excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
-    publishedDateTime: 2020-02-03T17:07:00Z
-    webUrl: "https://seekingalpha.com/article/4320979-key-to-teslas-future-is-full-self-driving"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "l2S5JFdLMHd131eT0w42V6JwFc51MjLsRfQNRvv3ZGmvC+r5/QrZffwuZqnwjOOeLZYh1Niz1VPXv9GkzhDEzzyvu7n3qX8hSLX7CCr4DEKXRGNHRSRWm3iL68LhfPgPYFd+OfQCCX3DfrILZE9+ouA6DrmtHFt0X8TFrLCtC02Xlhx/20WCgZd7Pt/V5eXixsFhJsKDLNchnr4xfecHS5RNqmu/2obA0uANkeOW57Qpdeq9YrnGrBixGHiQKETBUbO06g+oZIgR6WQeqYeavDw0JeM5amYw8LcrujS+OeogKE4vUWxf7a/WyxxNCwUL;HIViZhP1vu63eHBVA2RZiA=="
 ---

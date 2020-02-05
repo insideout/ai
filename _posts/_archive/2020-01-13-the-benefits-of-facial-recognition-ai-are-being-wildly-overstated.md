@@ -1,11 +1,11 @@
 ---
 category: news
 title: "The benefits of facial recognition AI are being wildly overstated"
-excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans. Even China’s government has begun to question whether there’s enough benefit to the use of ubiquitous surveillance tech to justify the utter ..."
-publishedDateTime: 2020-01-13T20:44:00Z
+excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans."
+publishedDateTime: 2020-01-13T20:42:00Z
 webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/13/the-benefits-of-facial-recognition-ai-are-being-wildly-overstated/"
 type: article
-quality: 84
+quality: 64
 heat: 84
 published: true
 
@@ -21,12 +21,26 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/inacrowd-796x417.jpg"
-    width: 796
-    height: 417
-    title: "The benefits of facial recognition AI are being wildly overstated"
+related:
+  - title: "How the Police Use Facial Recognition, and Where It Falls Short"
+    excerpt: "So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Fla., that began almost 20 years ago, when law ..."
+    publishedDateTime: 2020-01-12T22:17:00Z
+    webUrl: "https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 49
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
+    publishedDateTime: 2020-01-15T17:43:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
-secured: "gRgI21nDIGkT4lGtKN8P+xhK5HEIHejWjSwPm3AB6wQhgWvNKNnQaGg0hRGBQ0yGO0f3LEg4o6z0bhwQrVuWd0YrLnBBVbc/Fubas1ehvk/Px8o4x3xVCahOQB2j5fFLYTXKi4XEAVIVTqeWCwXgABuYjYacTWGl/KsIW9XZVrDvkMzoc47M9CllPjFkbQX4mEevUI6ZE1bpzqxQefmQ4Y0jOKV3EggMI6BmngqlAuIw5jmI/qLWvV82eUcgig00pWRA0bVtQf86ahd/V5KS4NYdRrFTq7Dq//b5q++HSOmfU3T4y0RwpQ5BG/FjqwyOY+srJ1Uq0iAdp6cBnyZ5kv0Qjj8H/CQg6hCbAqR/O0UmB7vIZvMno5QrhMPCxl4mB6Myazbnb6YDXtCFeb+TMK25urTJztYj+JxfIdoSksJyZjHxbgqY7rxKeGMM5+T1Z+ofYBtPngjC/UGoUqZwBQ==;0X79zxbEtCdXodKhB3chtQ=="
+secured: "qp0LMPWgDWqUHM1WsPpAbgw77aqyFwwt9Lfi6YiZBTXvp0m0sFAVp0KlCavpPSjZdBLTc8ewTqlHIycb98iYqCMPfN3IxxMvAlu3fIpunEEDT8AQBoF+Y0PAEp+qWxvpwt4bi1vDiZYgyWhL2fC5uBdz9ikWMiNRL8HgJ3pyARxde7rX0w0G4DT1TvROpt5mxWFzcbHXs8K2iwA1wckSpAsxbpU4vcjtX2D3H7DMY2eY5ScRCksf7DvngQqxfvxht7V5gopXpIV15bw5vI0hw7NsbrcMZfqZe+7axTrI9XEEZjEYQGzhHmJmuVSUMdL2;ocvwsQriKOTKtOOE4Q2uhg=="
 ---
 

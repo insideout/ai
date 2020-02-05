@@ -40,6 +40,6 @@ related:
       domain: infoworld.com
     quality: 34
 
-secured: "9iJSrkRyeRgA9+koh4KKhuaa2Se2niH/hVfDvfmGrDUDUrbu3+iy/C7A0dbXCoOUyOVKSX0S2ZyJ7mh/qVlqRBeqHztvjZztlPkHBkEK1bEHKGEwJxN1kr7Yq08ENYYIVuUX0KoX1cyjBJUpw6RBYmcQL845ccVxcJNNe5fPLFI+nBkjGC2X61OsoJMzir/TRn6mI7wf+9HNXZU1k+KnZwAMSUauqisLEymwxiETj7/K3LvT08uuijF1JQ/FlSxKsQZGS5HQIKswlADxJCDaBiFbKyyMnCv2D9PDHcZmxuGXPHbXFbPUZhPcK1hDeTHW;cYVVSE0jEqyw5hNdsDjaPw=="
+secured: "jS7HzqIpR/HBjtsD4Ntd/8PqNfRr8TfIt40rZGi/RySOlluAGtCimHGI2y4k4pAednJcqUGW4xL4SiJqs9Zf3hdpg+QP/5ogtW2smPn5g8DPCKaGiwrBjXeAC+N1wV+y4LlZUfG5TPYG21PBkZFI+OGoYCA1D6WJ445pvj0L36vpVj8TUQv8d+fYY4VmiIYHRunHD/MCjmbWrDSpwzZh4ySiBcklgQ3e0cFeN4LLqnvEVr/Xmz9BukA5CnHhynRXlvF389FUFnv9W7B9gYou1NgRVbayd2ODrXgRbuQ3GPx2Nvc91zgOFTxnTu89dQFy;kqZlyCk6RBX6Re1kEut5xA=="
 ---
 

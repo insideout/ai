@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Here's Why Apple Paid $200 Million for an AI Startup"
-excerpt: "The company is also developing an application that would help improve inventory management by monitoring shelves in retail stores. Previous advances include the development of an AI chip that can run for years using a tiny battery or even a small solar-powered cell. The technology Apple is gaining could be used to improve future versions of the ..."
-publishedDateTime: 2020-01-16T20:47:00Z
+excerpt: "Apple has reportedly acquired AI start-up Xnor.ai for about $200 million, according to a report from GeekWire, citing \"sources with knowledge of the deal.\" Xnor specializes in developing complex ..."
+publishedDateTime: 2020-01-16T20:52:00Z
 webUrl: "https://www.fool.com/investing/2020/01/16/why-apple-paid-200-million-for-ai-startup.aspx"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/01/16/why-apple-paid-200-million-for-ai-startup.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/16/why-apple-paid-200-million-for-ai-startup.aspx"
 type: article
-quality: 89
-heat: 109
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
   name: The Motley Fool
@@ -21,44 +21,45 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
 
 images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553780%2Fa-circuit-board-with-a-chip-labeled-ai-at-the-center.jpg&w=700&op=resize"
-    width: 700
-    height: 525
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553780%2Fa-circuit-board-with-a-chip-labeled-ai-at-the-center.jpg&w=1200&op=resize"
+    width: 1200
+    height: 900
     title: "Here's Why Apple Paid $200 Million for an AI Startup"
 
 related:
-  - title: "Apple Buys Another Artificial Intelligence Start-Up"
-    excerpt: "CEO Tim Cook confirmed last year that the tech titan tends to buy smaller companies every two to three weeks. Apple's latest acquisition is all about low-power edge-based artificial intelligence (AI). Here's what investors need to know. Apple chip exec Sri Santhanam detailing the A13 Bionic's machine-learning capabilities in September."
-    publishedDateTime: 2020-01-17T13:12:00Z
-    webUrl: "https://www.fool.com/investing/2020/01/17/apple-buys-another-artificial-intelligence-start-u.aspx"
+  - title: "Apple acquires on-device AI startup Xnor.ai for $200 million"
+    excerpt: "In brief: Apple is on a spending spree for AI startups, and the latest is a Seattle-based startup that makes on-device machine learning tools that literally sip power and cost very little to ..."
+    publishedDateTime: 2020-01-16T13:25:00Z
+    webUrl: "https://www.techspot.com/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
+      name: TechSpot
+      domain: techspot.com
+    quality: 87
     images:
-      - url: "https://g.foolcdn.com/editorial/images/553773/apple_keynote-event_sri-santhanam-a13-bionic_091019.jpg"
-        width: 3008
-        height: 2000
-  - title: "Apple acquires American AI start-up Xnor.ai for $200 million"
-    excerpt: "From a solar-powered AI chip to AI-enabled gizmos to monitor grocer shelves, the start-up has produced a lot of notable innovations in 2019 before being acquired by Apple. Xnor.ai’s acquisition will help in improving Apple’s data privacy and data security tech, something that has always been a priority for Apple CEO Tim Cook, GeekWire reported."
-    publishedDateTime: 2020-01-17T13:28:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece/amp/"
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-15-ts3_thumbs-d0f.jpg"
+        width: 800
+        height: 560
+  - title: "Seattle AI startup drew interest from Amazon, Microsoft, Intel before selling to Apple"
+    excerpt: "(GeekWire Photo / Taylor Soper) Apple wasn’t the only tech giant eyeing Xnor.ai. GeekWire broke the news on Wednesday that Apple acquired Seattle startup Xnor.ai, paying around $200 million for ..."
+    publishedDateTime: 2020-01-16T18:29:00Z
+    webUrl: "https://www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/"
+    ampWebUrl: "https://www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/amp/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
+      name: GeekWire
+      domain: geekwire.com
+    quality: 79
     images:
-      - url: "https://www.thehindubusinessline.com/info-tech/dezkwk/article29814313.ece/ALTERNATES/LANDSCAPE_615/BL29APPLE"
-        width: 615
-        height: 384
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/01/200115-xnor-door-630x473.jpg"
+        width: 630
+        height: 473
 
-secured: "l5BKwxn6yLykXixP/vsB8fus8StxDOBgm5UmHUpnKLyPAAax14TKsuvKlLerbMhoCTwtiSBUNwTBrLh92XiXUDkSLqDknV1nI+JPuBUxCk83Fc39XyGr7zhjflwQvNqZfgujcSldJLeVYE0nv6lxnasx0IHEk8jyPM3UGxyRWcASpy1ukynpLmXwQ3pldJJu9cF6AaPmSdSNpQCku3WvSfcmw1lnFkoOQ1XIK3PgzsxfO+GPOJr9UXles3+YTWSKprS8AbtOxaO/A1p8WpMqEUj6sK8fkNNDR1Kkf/Cck3tYXNzirmI+Xrg/TV6yznDfhh9ypPuirKct1tNQcgJjlGEqszmViLy+Ystrkl8odSXrICYOY31P6lr0Am6MhMxqjtuTIOIAUeay9g1fcclDMTfnOUeahVItxI71E56LCtGl7giqbvrXEsJRViHf+dfC/hs+zMFz5fenWzhjgKZrqg==;dLXjvQNTHdX5rsoEOH7rYA=="
+secured: "XbQUOVJAlAnp93E3KmPFoEbJiFKIBHzhuqmQ8+2k2QKzQq7YgJcnWzt616uB0GzB5djwntQkmrEKO5fWnZX63l7tDfaYZtco2Zi7mrS1UkKnHmQA6R8TAEJnITir03O3Jekw437q2pbF+3jbgZncACFhHHXRpVbZNeK+BL3IEfc12iTEcGTS4O9Uw8CFHY5gjAxiNWxO9HKpn2XDRdOTcR3COl27vm1VTyVNDa2eJtpeFcEDoniEgMQ3umQ8P9ljZQx3pIqu993LhblORno5NbL8odF8+WO5P2bOPvX3cdp0Zivah6xHvQkXFk2lWlMP;dlOe9VoiBPibkP2d5minSw=="
 ---
 

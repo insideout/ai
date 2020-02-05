@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-faci
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,23 @@ images:
     height: 549
     title: "The Secretive Company That Might End Privacy as We Know It"
 
-secured: "ZrFCCTARF9oeOZimQjiDkRhTT4C6i7hwRFxTdyw4qrQJllFN6s9Tnxt2jlqVr5z5lbhajMQzOJuFWGWu+/E00Xp2wIKi+QmOTQP0Naa+FgAkk9J5qeKYGdn4Go2IuLFuDmbKbhdPl1l4rBniHZIJkNF1VgVJnNZdNt4QG4QCne1oN+2tVlaaBKYJmAUcBvy2pcnpgOb69uC08PNn/36ZIcP8fGlclX0PE434xTupVqz+saNUIqxQGVycZuzrXEm4yJelxgVnrcXlqLZV+cQaYv1nN5s3zMeaNotV69OBQXKghrXhyNIPO0LwV/gqKxBm;1JvmiQU2j72XFvBCc8fH4w=="
+related:
+  - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
+    excerpt: "Until recently, Hoan Ton-That’s greatest hits included an obscure iPhone game and an app that let people put Donald Trump’s distinctive yellow hair on their own photos. Then Ton-That — an ..."
+    publishedDateTime: 2020-01-19T03:19:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 56
+    images:
+      - url: "https://www.chicagotribune.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg"
+        width: 1200
+        height: 800
+
+secured: "C2B1qSp/cT4hK3R0XnKhMeesyhCo1K8JgYhBNqoN4hnndhB9DDE2DmUo59ekeno5fcluh1HttxRPD/+MMDPJTtzZLyUssWsVeBEplAVMqBXklMpiYi3+mC8SOJvz6+OKw3Aq5EQf/dEkXmqiafp9t/VMTP6gsPU1QgAMmkZjaTL+eH9oytgbxJMoobL7mz1PZOvKhVv+m+K3FKXt5TqP3NX4YXZIEs4L4zHvAYvwXb/acR+i3eW62VxBFKdfQU0bNNPIsyDHk6kF3kGHMPvi73NQT7OpLiIOoUHkEemirdwUxfjhzhxgApLpTbtJY61X;F74LHKY7mn4qCzYdDgrY9w=="
 ---
 

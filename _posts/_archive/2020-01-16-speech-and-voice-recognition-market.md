@@ -18,22 +18,34 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
-    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
-    publishedDateTime: 2020-01-09T14:42:00Z
-    webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
-    ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
+  - title: "Facebook releases low-latency online speech recognition framework"
+    excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
+    publishedDateTime: 2020-01-13T17:32:00Z
+    webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8="
-        width: 1200
-        height: 630
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 34
+  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
+    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
+    publishedDateTime: 2020-01-13T11:55:00Z
+    webUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
+    type: article
+    provider:
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 16
 
-secured: "0SX3HDmfobueiErefyww2iOPxEOduN/1lBzoFOLCjLVupm+NUQl+CTwzXGAX5Z2OejiGyEEsSXb3GnprK7IaHt0ms4AMZEuW3aFphB5Gg9wo4qr8Xfq/4zQ9riwBdYRSUcabnVy355PM+tnziB5nrnENtvUXMdwDMWAamnCmej/wLXhcZ6tuCr2uN6Fwe2WUSFW1OuLorfD9rr+/SjllnzgliePr6q22dlL+yEyQr9pBfEqUfQD5tWas/EBVE0Gz4OWKTxn0uDcfploqrN8f7w6L+/VfwfCfrpALOnsR5JL2rfU8g8lnXQq90V84oD+s;rZ1Mn8BdsNPydzv8l9wWqw=="
+secured: "pKWisB6jA/IdSWsMB+Qz4bnKQRzBBKRc1XUaXH0T8/31wRcOF+YsU/776Ui4wn/BWXWTwHn+fywkBCYRpqS8w9j6/aiYc8xeuu6z1RFQBA3PKPophfRGlg41+U8W1MjMUBY7wpzHA7C8vOK91VmXWFTVCfjTdtAqhKDQBit/R97uNAU38ucSnb4DAuWLwtnaOgpl4cnuRZHNlkfjrl4o1tuXKTKR8tgwf2jdD+gp1Lq9rLgpZpcetSqRIJ5DmJ6N7yzYSI/E/x4QMZdYUwClzXlmkYTf0MXKOR4NiMcajg2ShxMnntNtrOfobT0B8AwF;2M8v/Mh2IM8qAJ3DOq2iWw=="
 ---
 

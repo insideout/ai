@@ -2,18 +2,22 @@
 category: news
 title: "Uber self-driving cars allowed back on California roads"
 excerpt: "Ride-hailing firm Uber has been issued a permit by the Department of Motor Vehicles in California to test self-driving cars on public roads. It comes nearly two years after one of Uber's self-driving cars was involved in a fatal crash in Arizona. Uber scaled back its autonomous car operations following the incident. Receiving a permit in ..."
-publishedDateTime: 2020-02-05T19:34:00Z
-webUrl: "https://www.bbc.co.uk/news/technology-51393808"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51393808"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51393808"
+publishedDateTime: 2020-02-05T19:33:00Z
+webUrl: "https://www.bbc.com/news/technology-51393808"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-51393808"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51393808"
 type: article
-quality: 44
+quality: 74
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -153,6 +157,36 @@ related:
       - url: "https://cdn.idropnews.com/wp-content/uploads/2019/01/24072607/apple-car-concept-drawing.jpg"
         width: 1000
         height: 600
+  - title: "Self-driving shuttles tested in Linden"
+    excerpt: "Self-driving shuttles began traversing the streets of Linden on Wednesday, and community leaders and residents hope the pilot program will show the need for continuing such service. The two 12-passenger shuttles — one blue and green, the other rainbow-colored — began serving the public at 3:30 p.m. The free Linden LEAP — for Linden ..."
+    publishedDateTime: 2020-02-05T21:13:00Z
+    webUrl: "https://www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden"
+    ampWebUrl: "https://www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden?template=ampart"
+    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200205/self-driving-shuttles-tested-in-linden?template=ampart"
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 44
+    images:
+      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200205&Category=NEWS&ArtNo=200209273&Ref=AR"
+        width: 2000
+        height: 1460
+  - title: "Uber gets DMV permit to test self-driving cars on California roads"
+    excerpt: "The California Department of Motor Vehicles on Wednesday issued a permit to Uber that allows the company to test self-driving cars on public roads across the state. The permit issuance comes almost two years after a self-driving car that Uber was testing struck and killed a pedestrian in Tempe,"
+    publishedDateTime: 2020-02-05T21:18:00Z
+    webUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/"
+    ampWebUrl: "https://www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/05/uber-gets-dmv-permit-to-test-self-driving-cars-on-california-roads/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 44
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2018/03/self-driving-vehicle-fatali1.jpg?w=1024&h=706"
+        width: 1024
+        height: 705
   - title: "Uber self-driving cars can be tested in California"
     excerpt: "The California Department of Motor Vehicles on Wednesday added Uber to a list of companies with permits to test self-driving cars in the state, according to the ride-hailing app. Continue Reading Below The move comes nearly two years after an autonomous car struck and killed a pedestrian in Tempe, Arizona, because the employee ..."
     publishedDateTime: 2020-02-05T19:39:00Z
@@ -213,6 +247,6 @@ related:
       domain: theguardian.com
     quality: 4
 
-secured: "783kfBzBTFIniOi0/Pk9cvN70e5CipmO7HJ5YY0c32yHSa5ThgSIM5bIZJ3vq4VZLDlrJzjz7Xq4JAQJN9Lb5dJbI14o9Ah4ADXLbPxQxlLU1oYIytWOxdWuliKpTBbu7xYjid1PmauVBqDbjVcFnLvMG7+rDe8uBN3Fj9vSc+/weSLqynk9FaTTK/cFzwPQoF7gCUxOBJ6TELKQY8femeQwz+XIxoDG76HUVyS1vbifZfwYelN7purybMNwqPovL77/Bfgm4UokWy3SeEReVaTaXr0ycDNBj60U2IGrPsW3BfrQi/1iNbyIsWubn3yq;ivWMbCGKLgLbNFkD8f89KA=="
+secured: "dp3XcMIyadCW+FeyYhBvpHSDbEWOAP9JATJ3IH8asK5XhRdPDO1LQzMnpYVIYisWw17d06TgmC7KEHFvUabshdjHbEfFRj3rE1yTqw9r5TrsEZxAIAkBWdiPW6G+iXttwDQyIjmq8exU1DZZrttWOkMr7VvxuC1h28nJTI0g+8xUJgocWybTDCyTNk/gvwqGug6snbK7itb3lqd8yK07zau3/DonZaqsDiRg0/8ShO2d0GfzlHonpdtPUzz2jiqc5ZIpeKMMGVOZ1XZShjkv6nrW1bj9SxbI6vYSrEsBHzPL0QOk9NKHNeoYXKg5J3UG;9TVgMwUniZsvoeFNTwXjHw=="
 ---
 

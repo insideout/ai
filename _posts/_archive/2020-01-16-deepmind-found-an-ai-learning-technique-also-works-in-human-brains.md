@@ -1,14 +1,12 @@
 ---
 category: news
 title: "DeepMind found an AI learning technique also works in human brains"
-excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
+excerpt: "Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new explanation for how the reward pathways in the brain work. These ..."
 publishedDateTime: 2020-01-16T04:58:00Z
 webUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/"
-ampWebUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
-cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - AI
   - Google AI
 
-secured: "EWun4Hz+obvbyl6LG0MOGt9DSg2nP7nfjb7HekaXHkjHfb2mMpSKjwjt+/agQszA+Yt4Za+9PuLkqtwM6FPV8TJoWMw71owJ2pBg7YaidkBL2YdZyFIPdol+n4kpy5Mqdc5MZRqVO2ZTm1rhkaafN+vZPUFNULXapnJDLQYgW5EtV+n8CP/DG53W+Dx82UhWmRQ9ATfQ8jNEbkIlBvrJu6473HyxJcyNTGn+3XwY+MfVhVs8GC/ev6ClzFobuR7N71MeNCCX1CWJwUNbhDEPd2bBeFUuO13fczidOJnvpe5mL/9kOlOaDTF+Us5HTytl1OMXvCNz0I/Guho8esWAUTo/S3pe9fmUdHHEBLTxFo/mlFeeHplt0GHRK/EKEBZvDgCBD7EVuR12HWOQIH4QrS+PCEQfJQf47XwnntxTGkmXklRgDrTJLQGwZb1+sr+6HaQhlreyMtz6aUQ0XAuaUg/vEz/poHHhM6CBpjjJ+7Q=;QWLhI8Yryj877WEMie0Rnw=="
+secured: "9e05hywG/PpOpRqxvVRwDdi2DVviyI/jRNWTpB8K3ED+wCOTJSnhfS450baOCAK2Tnn0SDazkWLmL9ov/w/KOJDIzLYS3ochXy92RuQOX7FsfKXLIq8vxQkD3sGs4Fh3aFhPyhXHJzCDakVBIXnogVSIQdCzaWAz+HSM1AT0Xc/cgsGRMf43P2qNAjsdIR3lZo6nguDoPItXWf8e7KTZXuUDlZblS5Vo/uSvJWZGJZJF9LRqaZomHqd1b6z9N2ZiYRbUNEdBjzQOO2hY5fbvxNxLgHG8nRQjgVdLdg6ziz5QNK57tTP201zDjWtSwGpZ0+Adw4bCrV4tBgi58Nq+3HoPofTBI1+cQyecOfuZ8ggNDACL3gfYC/vBS5uUZoIMBL6zA4+5RQ40eM3jTCaWYku2/zcgrU7X3ulp//wNWJHSunjl5HFScZCzaffjbnEehoHdWZWD4KCrJhg57Be109DafsiKXa88NEP8CRzWCQA=;MA8ANQJ0okBJgEtFjvcAHA=="
 ---
 
