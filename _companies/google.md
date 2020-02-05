@@ -2,13 +2,13 @@
 name: "Google"
 overview: "Our mission: Organize the world’s information and make it universally accessible and useful."
 type: "profile"
-heat: -46635
+heat: 175455
 
 website: https://www.google.com
 
 linkedin:
   url: https://www.linkedin.com/company/google/
-  followers: 14872554
+  followers: 15292580
 
 crunchbase:
   url: https://www.crunchbase.com/organization/google
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "Google"
 
-secured: "s1tKBr2osdNC0xA7W/LSBGdlX4S8FWd1GfPYFKSbwU92iHCvq43dTdwkhq86AkRaKoyOMY2awxejMFZNgDcMzAJXPs7RxURX8R9tZmSGvykFBslZeXWXzpHQc05nGbBNTkK4WMPp0UiRz3wSUZ2MjqG+2XbIFrA5qG0qrxdQGYE7v5jQwZa3VSy7ryIqy+CtDOFw6P6L8kkFQUa3szL2vbrrnxOE/2n+tErmMfpeL31m1IA3DDZf/wevUcbVLA9RtX3FUZKrk0QUIlsWZKPJwjERWccazJXGNVYK4NUzITRwS+8INtwY2nxIZrpTW+Rq;mf+ZtOzVFnXMvgLmCKPbLw=="
+secured: "53sc/B/vkIx5OZI3qeMQY9CB5Rdq/0qpzvYsJTY99i0MToKVwuIAkE8gPK++0Ah1OV95KPhRHy6TmA4+2CnmC+/ikNYxtbI6g7DB4IHU0HDzVn1559p+ikUF1Ol/F19Ogs4gsWDAoymxWbbzPaKvDbXpAWpDtQMevQPusQN5fHLhliFXPH6ws/Z0tObZrGoboyw9quc4OjWxSE8GN8B56yA4sWZQUUaXSC2Dc1vSPtNoESqZZgoogMjpAf+ceTjHKjAkFgodXPhcdhLqfWiB+Q==;C8y0n6xD4oWEMAAx2GeG3Q=="
 ---
 

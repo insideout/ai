@@ -2,7 +2,7 @@
 name: "TNH Health"
 overview: "TNH Health creates AI-powered chatbots to help healthcare organizations engage and monitor large patient populations."
 type: "profile"
-heat: 9
+heat: 0
 
 website: https://tnh.health/
 
@@ -43,6 +43,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=jT8f0JOdEu0
 
-secured: "MYIObaDMPjRFCkDjPXSAYFayRpEAO9mwDMfCmWb9NAMfoilml+80BtEReQQYT9LsbAYxr7w0jUSoUo9Jxq3c0fVRupLmJLnG32x+thnd6Hacs7QtEuv5NzNmVe0VJubumEUlWrHX+4imFvjskLWD7K8YrWeCgYy1HxWL2Hk6cIgAQ3ImwQ+6P2hOj4+e7OJCMmE4iMla8+l7+M0btJH1k+FGRQmuu3yfNO+BNZHqSlHM7ERGwM9lJL7VW3iQx7IMB5wz72uCZCNp2nS3hUQEPEnxekpNRWe7ZrCE4vtXb2UBWVIPONGfiQPVpL5g6gtc;wYdP8yCNkQgtdmc+rL0Ydw=="
+secured: "D9qmkPT9C9PcUoeXnshyEBk6ZsgnWU+nGde5DUmJd9Aqs4DEWCGK6xM/chUwbsRxmchPhpGXu+vJ0oe05wuywmElMjv8bRYBsmFfx1Rpz1CqOi3Mm7SVKKjeoT8WCuePnPCqDL6NNHkqNiyO7hjYQYLYC04Iz47TDOeR1BQ92Ws7qeTLrpDn1MCj6CNyMBw3ZbrR8++2Gbem83njzHs1MMvZx3eNr5yWgisahEyekvtoIIVkx0q6IcAun4AnbuFCnaBbmGqopckP/o/ae1BgXg==;bKsC8oXjxMiPFbJ8H6yu+w=="
 ---
 

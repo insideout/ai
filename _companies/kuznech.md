@@ -4,7 +4,7 @@ otherNames:
   - "Kuznech Inc"
 overview: "Kuznech is the image search technology for m-commerce, e-commerce, social media and advertising industries."
 type: "profile"
-heat: 232
+heat: -419
 
 website: http://kuznech.com/
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: kuznech
   url: https://twitter.com/kuznech
-  followers: 843
+  followers: 849
 
 size: 11-50 employees
 yearFounded: 2010
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "Kuznech"
 
-secured: "XvLvPLmOzbYc8wiVYYk8/AuTj/RRnzHYDs3ZGGPAWC3k8t9RrTyWxftOMcSuNz+yC6nBMWSw3np6s4kvjFuOP24ts5xDk7I93RciecVf4lTei0NN0U3UzmVwxUeeEJx6N6+HNQ3TPIHjm+g90KRyOvtkCAUvMSFhSxD43fIyiyrDpR7R0pyIOnrp0BN+b3t+/R9BAwCThmoigoUrTPIg3ySypuWYRZz030fYaS0+Trfy6ZGJk1pt8lD1DVqehyzkQyB+MO22Rfp01XSVS7OevscPbRv9tHNbuJLUCBNtWoAJszQ5V/iHNUmKZP6AVSMV;Q/iErQqoHdXQI60rXEC7vg=="
+secured: "PMBozmIHfeEd4gYw1DJzqRuIUOEk7AUv24q0+m1oNZHwXHrHlUw/uKuNjPE8blUJvnHrW5JtEPKeIb6GU+wmnMf5n6Y2pgJx7MedN1Eky8F51oh3FkbAHhJO69PY35tqDkoc/A1ESewl+ELkG6+ILgvZZm5UYOT2faY8AEB1kurivWcGV57aJhgjhoYbPJCBwDsQ1zP69w5KbRoVQMVw2hD5jeu2pW6ryr3Cy8k0StDFWRhf3O5i2xiJMl4qf82rx3kdZ/2YcWXLOc87/GtHcw==;oNIfAvOPm8s/7QpYdY9eEg=="
 ---
 

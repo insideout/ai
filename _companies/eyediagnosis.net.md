@@ -2,13 +2,13 @@
 name: "IDx"
 overview: "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection."
 type: "profile"
-heat: 23
+heat: 19
 
 website: https://www.eyediagnosis.net/
 
 linkedin:
   url: https://www.linkedin.com/company/idxtechnologiesinc
-  followers: 1126
+  followers: 1172
 
 crunchbase:
   url: https://www.crunchbase.com/organization/idx-2
@@ -34,6 +34,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=jmGvEYv3I2E
 
-secured: "WVN5Vk98AmxyW5/MMPmLmivO9KBwrgxVF0ZL2ev4tDPHGog/amlBIgNiXVSPTDBEPfpXZHCZvAZt4wh6H6vOrAVye2Gl0BvCKCo4etlJwojedxav521oXXzlztukGfq1hhn8dtqqymYu6rSOJ78RKCKzTFNRhr9nSUgbQNk4oJK4nBksu9qW6Itg/PTWHFKgZ50dlLkUkkkFzRX7BOmuEU3fVbnEqQ4KOszcgUmGd+8Ry2MW7xnD0h374J8fY+f9LZ647Yn/ZJ3wLuIZZhkD2Y7UJXzHqbUZigO4RUSiWP3dXymRt2qEd/tWo4Nc3jJ6;6VRfH47DeYHkSRw+OpptOQ=="
+secured: "nw8VsCWwH/yGfJvVvCGBo5iFnE+glnT5BrxPK6LSllYvDvebxyGD4+UV9SXm4xNU2WLrNzNgQgQfC0SxxZYZIY8JYPigcowAGwwsEov97fVNA3jvEiElcOsM7h4hfTIe2HDAU6yYdmiQNIFnYpdtVbYbJYgujwQmQ1hZl+upYnulbFhLybCQPm3C/Hcek8XUAp68z8M3BeU/TRLy7AqdKmlU/XanetROsJcnXXAYhGH1h0Wo7DzetUXEEhb2pSQwsyC9hqlZLlIx5V8fGGQJJw==;RuH1QWb6UpRQykkFfVchsQ=="
 ---
 

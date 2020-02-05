@@ -2,7 +2,7 @@
 name: "Rockmetric"
 overview: "Rockmetric is a 'Cognitive Data Analyst'​ that automates analysis and insights with a Google-like 'Natural Language Search'​ interface. Large enterprises can deliver sophisticated analysis and adhoc queries at scale instantly without having to expand reporting and analytics teams."
 type: "profile"
-heat: 50
+heat: 187509
 
 website: https://www.rockmetric.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: rockmetric
   url: https://www.twitter.com/rockmetric
-  followers: 480611
+  followers: 482735
 
 size: 11-50 employees
 yearFounded: 2015
@@ -36,6 +36,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=OZ7_tIGZXus
 
-secured: "WSOGgsDACxewocvGslZp2xR6r+O6EnY9beGXFseimSEcEAlbUrDZMCIBYo1FEdEVxKXEKTk7tSABz/U9Db02x6aen54xHjvYWQ72MHWuA++tmLHBq/1/iDWFU1NFOgMss9+hMKZcVdsLFloyIqXLvKreP685yDb6wHnGyD+On+UwKx+2Na0+HjreQfRVfIa+NNdUZn1guTtM1CaB6JsFTKlYupHuSY5ioZDBYtbot/Otq7XpnUQdwafD+C/+ixeb91De5EIsgmYg4j0EHcwMP1KsYTt7r7n/Juv/Rv2vC6k4/9Wcl7BUebkj6SwC17Qm;O8cJVRQSk5GQW1zxZ97q2Q=="
+secured: "zYJm119ti3mEsM+hxl59PHe6ZxBoEPzP5+V2CGAVXSzCM+nI4Qh7yJK0y/atowrBZmGsYduVmL8xO2zOzIleRydJ27Z0/99apJP+XJ6sosSDETmGBoAfRPP2Gw2jFPZFQcW3Yr4wh137ApaFJp6PTwnX0W7UuUX45josErwdbhdRKFRhPq4mvjU4QisGC0SNts6qkJjgrOkSNuw+nkKkYaBWDbyvQOCKoiAcHifUq7lNDH0qIcFvX5zfKGqHT6SVxDgyB3rOY7KkOerboFiFIg==;nYS1CCZ0VNQ9+/JoFv8GPA=="
 ---
 

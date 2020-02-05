@@ -2,13 +2,13 @@
 name: "Apex.ai"
 overview: "We are building an operating system for autonomous vehicles that never&nbsp;fails"
 type: "profile"
-heat: 43
+heat: 39
 
 website: https://www.apex.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/apex-ai/
-  followers: 1210
+  followers: 1309
 
 crunchbase:
   url: https://www.crunchbase.com/organization/apex-ai
@@ -16,6 +16,7 @@ crunchbase:
 size: 11-50 employees
 locations:
   - Palo Alto, CA
+  - Palo Alto, California
 
 funding:
   status: Early Stage Venture
@@ -36,6 +37,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=lhnJR9EUJHc
 
-secured: "7wkovgLfk35djzTTATzk2V0VgaK1q1MfakaXp8ig3jM1RAiVR1PVERyvy9SmRxBZaEM9g1L978xX65Q2aO5T4cEy821ptMyDTN+dJU365pAAb+vUta9Yb5uO2asaXtSK1XzS25GTMt4DE6rwdqILPHNQzxO10z5n7BItEw28oKoVurqb+Yvqs6dXxdCT2MCSy7raBMmIrSFzeSVWKmvb3bWE3nR5FbfkCEJFrYO1YAG/3RdrUnHx0GvpMNMnPzAhYHJds34sGJ/QOVHluHTHIuR4HILBL/3ftRAbYb//fNjZk3nMHkV4OBfhz4i0clK1;3CGQnnz6PnUqoz1KR3Qjuw=="
+secured: "nk4jCZxOPTjmc1RtHqV55xji1F4naVfiKNYh9GcjyZzGlTZcQ1vZPcNJc759e6IKAJCulmYx7XWEWWdtyTNZxoXzSaeo8Ade+hjAXYpc+FPa95Puaf0oFezUcCxieV62wi95kKKDvDtaeE+ezGIhWUKsOg8p1qGWsDj2ZEsrtUgp6dMPr4sFIvj5IoGSKqfpxZqGsRngHx4GRVcDaz+UZdKP1yAoHDyaNsZ2ayQ0mAZinhmtm0hBRRylC54pm4hRqeN4eza9QMCOFL7pUzoJXQ==;MYXx/OBzTKvvNrO9dQOwxw=="
 ---
 

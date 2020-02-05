@@ -2,7 +2,7 @@
 name: "Kodiak Robotics"
 overview: "Kodiak Robotics is an autonomous technology company redefining the long-haul trucking industry."
 type: "profile"
-heat: 29
+heat: 2
 
 website: http://www.kodiak.ai/
 
@@ -37,6 +37,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=kqCfdWMo13M
 
-secured: "bMh3k2DqSAtjykSgVOWnZNtsNwNR57PVWW6FewFeuB0UTLtWd2an7uvpa95HEPDMk+o8/WKKCuwwcvVWwKqBAP+f+EKtG4Lb0ejOhGGYpAGJLx2JbbTjYao8MtjllDG++f3t1T3jF6HwVGWAULo4KSH6Dx3FpUgziOHY60GTY0ZQaO3W2eGlLwuUNgnt7RHUUwe2pg/tOfNNQnyJSXj2Oyvfjh+nI6dFhxYDgMycoxLAhwcIRHLeO9eup6jllyOVN9C8wkHy+3nag9tKgSPvDOSgxMUGiU2lclD/4DDu5n4rKj8IsTqnlL+i7bnR1uzd;Z28T+n8TMxUXHCephO4TqQ=="
+secured: "dTKpAqnIb1fK8HzGRCbPPtkzcqFZpHsKHpttuBcZ5HxnaPTf55P+4+iuvw9eyhIoQwgh7PpCGN+0yMdvWWbPzFXTYvfapOzB6PqLULGLg0yHgBrWBU65ALMTMAwc++LChkqL4xdHawo3PonDagCh8GiB8zT3ZtP4anwxg48zT3vpbLpx5OGr86WL0GyQvxLbUrKIeUx0vBmVS7lmX3VesT/+Vi1h2r+iWvu+spCer8NmKCmzw/i9+ZHHE1LURIZLEu1iB439qvCG9BA5UEx1dw==;PCTP/dU5Pa9w3jSV7UKbUQ=="
 ---
 

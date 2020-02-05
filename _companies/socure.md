@@ -2,7 +2,7 @@
 name: "Socure"
 overview: "Socure provides a real-time predictive analytics platform that combines the newest forms of machine learning and artificial intelligence with digital, offline and social identity data to deliver the most accurate and robust KYC, identity verification and fraud risk prediction solution in the market."
 type: "profile"
-heat: 55
+heat: -6067
 
 website: https://www.socure.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: socureme
   url: https://twitter.com/socureme
-  followers: 21614
+  followers: 6004
 
 size: 51-200 employees
 yearFounded: 2012
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "Socure"
 
-secured: "bD0iSmcrx5vtBouj8WgVt4PbYjXZ9znVk9OX4ham18T9DrmkDf3TbhRZyJhq3IZXCtoifcq1hAHQvCGiFzgcfb97cc2XSKh2qREFPJF6Hh7SshB7F1V4PJwJzPne18SCwftV0+sbt31OHMqz6RIl+vnys8Nylj8FEY8aommUUwhH0rYi6UhUsqqyOG7kQ1Q7NgAu1n39xGPDB9Kztdqpnf3h51V9ywZCTPFNutCayZtPb+f2ZX7y2UCgabnz/LDGyX/gE5N2qdVdD8lXO3ITx6Y8DWDmjQr8TVLFtZX4iEt817yV0hh9QgnHgllMf6fo;L55HUxcEg5zcgddBMbCZrw=="
+secured: "G9b1x58F3ewzrpP1GBzz/1cnGsLqk2c0Xmwnu0pljZ35fRvsc3Ob57SI0UnOFe59ew6/BeTqFUMNPusaUE2gOPcTCOs7wQzYVis9SFmMefmsHWH4Naa4niOKwGaPPAPMjqOy4WKJqHMv0B4IzzAYjvjHWqOyUpkPiSQE/zYBrvF11R+1HOCIvZw0ZaU6qK926TC9cWZtL0VppbOMGOc/S4Kd83gOLnrvP4lHht9trn1f9rki1unOKXDKaKA82PzPNzt/IM9ms0BhhwDRB5bDqw==;kPSUdx2Y7pRMPcYUEZs+vQ=="
 ---
 

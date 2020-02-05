@@ -2,7 +2,7 @@
 name: "BeaconCure"
 overview: "AI-Driven Robots for Food Service, Retail, & Health Care"
 type: "profile"
-heat: 22
+heat: 8
 
 website: https://www.beaconcure.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: beaconcure
   url: https://www.twitter.com/beaconcure
-  followers: 197
+  followers: 219
 
 locations:
   - Tel Aviv-Yafo, Israel
@@ -30,6 +30,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=kag2mOw2Tj0
 
-secured: "As/3rwcTTS9JpZ/9fIKVeBR/qQmaRWD3eh7YwCoHxBwjyFYs+/PhnozY5VTyar07TOg9jMF10AMyfrNlzHkBMcwPXlhraLAXz306tqqy8n40yKk6ri+aKX4ztaAWhWRhN9SNfIufUICqeiNK6ACmvwRxLrufSLaWVbnmRMWLHhFJf7eKz0z79+Mu4rcsqnh4I/1kvymsNiAdNZ1png9xnQy6TA9w7uGvFteBWFGv7J7EWkZkCghaw1oEa3kQs9C8fUXm2eiLw6w6HAYCCrn2d/TvqUUJQOLhLm59hFCoOWg8x8+HP7Mrcgo1QKjWNXSX;reqHG1VW096YxkECiDDQOQ=="
+secured: "y55lvshfBmk+CiqWgq8ShQufciqqx3CWj/dqTzvvGrwj1oSEDJZFgXmSv1/e1SQsDKRQxwgQVr0mlY0OqP/+dJ5xuQuwvq82ImFarwi0zsJOAYL11+bfmTdQGgscm1ak/cnUTYRtbZsO/JBdAK+76h8jXtC+xBSqIqYSgTN/YnU1h3KIlkbO+UVDd5CNeFX9PzCymH6PbAHuoRx5FpRy1GqckjqSUtQN8BYD0DAgOY8RvYm8JbkMfU6dJaSUhQobH2/hlpij28Cooj8TSNBtOg==;Iq18Agg6n7KWTLTVDnFtsg=="
 ---
 

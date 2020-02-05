@@ -2,13 +2,13 @@
 name: "Aurora Innovation"
 overview: "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com"
 type: "profile"
-heat: 6
+heat: 7
 
 website: https://aurorainnovation.com/
 
 linkedin:
   url: https://www.linkedin.com/company/aurora-innovation-ab
-  followers: 679
+  followers: 702
 
 crunchbase:
   url: https://www.crunchbase.com/organization/aurora-innovation
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: ain_sweden
   url: https://www.twitter.com/ain_sweden
-  followers: 4785
+  followers: 4778
 
 size: 51-200 employees
 yearFounded: 1996
@@ -36,6 +36,6 @@ images:
     height: 400
     title: "Aurora Innovation"
 
-secured: "9vsisB/QKtLdbTbcLr5aG90rq3+Xrk6MVR46tpppvt5IwIZNOQ06PUTQwR0/tJJk42Wy339bZIHZwKbmTgE78UQ3sE4oydrLMtinjHcGsECGvbYO13qJ1mzji95wiiGyIyM6jZp95/gzLU5+yw+Ah+kLjJikiYuCrsxhqDFYKEbwRLTfaxfMHzv81K7mN5tBu1zrJDA5KbVqbCojrQRMpC6krjCDe2fNzjTB95v9zax7SwOHzZqVZpV+EyFPc5VGQsJ30nQ53u/uf8kqpyeZqPlUxR5XcSZnvDI+wk9Z06AYTOV+SrfFF1B/SbHnjQFW;yHE2INkNq5VVKwbixgY38w=="
+secured: "8xY+m8GAtzePR+53wqmiHe7ltM5H40YgHvzXilo8MvXQykCpup5kWjMbF26YjAIVUtdmdVq6ozg800xr5r8T4dzg+8ePwwhqQPT1iS9oinxzrOZkFO+wTLSoPWZE0ttMr/TYO45PFbeLCNXMO1E3Q0GiEt/hDkTWTFm9lj38P6gkSJcJHPnQrTVOIR+eHsToK0CDW7Chbn6OfYw9uMnwPjzQBDsD/Ow8aDXIcHZK1ERVZQzlkcHeXdAfntFAdmBjMlFjM/cyXhSgVnFrjumCKw==;Rl9xgjESTwDJVoSMrm5CIw=="
 ---
 

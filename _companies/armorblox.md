@@ -2,13 +2,13 @@
 name: "Deep 6 AI"
 overview: "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss."
 type: "profile"
-heat: 27
+heat: 28
 
 website: https://www.armorblox.com/
 
 linkedin:
   url: https://www.linkedin.com/company/deep-6-ai/
-  followers: 2885
+  followers: 2942
 
 crunchbase:
   url: https://www.crunchbase.com/organization/armorblox
@@ -16,13 +16,14 @@ crunchbase:
 twitter:
   username: armorblox
   url: https://twitter.com/armorblox
-  followers: 1534
+  followers: 1547
 
 size: 11-50 employees
 yearFounded: 2017
 locations:
   - Cupertino, CA
   - Pasadena, CA
+  - Pasadena, California
 
 funding:
   status: Early Stage Venture
@@ -42,6 +43,6 @@ images:
     height: 400
     title: "Deep 6 AI"
 
-secured: "qzujOefhxzK/8LDkNGfGXENTOzJ6LDXQNeHpHj/J2AesJQoOmGOcy9r15uJKyjlqdOiyzhPQxVapD31hPRZ79Jw112VKEiZB2m2VSyHsAKJR+MNb5MtSBTy7TlhTSc6VNtZ/Z4J0pw/ln6aBh5Bdydh9rIk5sYxxWY1j8VzwgqVjHCeXlft5gnd+uHW9EVx5Se/HSIw5igsvBHQagqYOeGtftLOLQo4RaEp+WQQFTRPhHhpF3E/nqEH9v7/poojUJTI8YeO3zw0YkDtUbcPiZqc6DMLhxDBqdQ8XSeSJzKaDYapRyaLkTVKXFOGkXUaD;TlDIicYFBLPWifJJNwA0EA=="
+secured: "L9WcMSSRYkRdk1HCQ4jH58RWVC+w8GbNyXsjotous7wPULX8IYVNvfclIKyxQ7SMJoIDQhmy2be2mcv4bWZjd3mhcWw5ZU5/B6pT1ImGd8g1nEzNbPHUq0OeG+bLFY/Qb+yg+daYGp6h/1N02VrIZFFeEQfR45/VgVkuys4I+R3Pr3SeKDJY9JVd4HPYmw5hxg39vCONiQxMEL1vwoX7jKqQzwVbUMuTrmlDqi2h+Om0nS0ivwFUwES5xFenQNZFm06Lrphes+tgOIlMaB2VoA==;pjYv7IslSzErwWrJm0c9XQ=="
 ---
 

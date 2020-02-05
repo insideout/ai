@@ -2,13 +2,13 @@
 name: "Algorithmia"
 overview: "AI-powered business insights. Complete research in record time. Find what others miss."
 type: "profile"
-heat: 57
+heat: 1322
 
 website: https://www.algorithmia.com/
 
 linkedin:
   url: https://www.linkedin.com/company/algorithmia-inc
-  followers: 4435
+  followers: 4610
 
 crunchbase:
   url: https://www.crunchbase.com/organization/algorithmia
@@ -16,12 +16,13 @@ crunchbase:
 twitter:
   username: Algorithmia
   url: https://twitter.com/Algorithmia
-  followers: 3667
+  followers: 3670
 
 size: 11-50 employees
 yearFounded: 2013
 locations:
   - Seattle, WA
+  - Seattle, Washington
 
 funding:
   status: Early Stage Venture
@@ -39,6 +40,6 @@ images:
     height: 400
     title: "Algorithmia"
 
-secured: "G0HD2MiRjWQSNvys2qN6+6/wYUtZhbLhspEQ2H7Owseu1+0yP71F5O/kwrrGH/djG4ir3FFgC/jfbpWFdd3Rvf7drjG353svaK3PjZ95Ji0IhhvYg/zGYEJflL4Cqhh0Px6OralzU/vHh7v0nr0GW8LiqDeldSR7GPLC+qs5ngNyo9h62LPWqfvddUajOm0tXW81rjUCXqyyJYP8KnknVlehPH4s2McayMwcMjVVHVGnBpiDfFh+RJGWtONT5kZlOWHtYiw/JSZf1Zkr9qn4R5nl006H8iUG4pvZjxg6142TbbOrgKpEz5TnojwDnvm1;jDcMwo6A+NU7HIabdSA2pw=="
+secured: "a7xVnsBy8eIS6IJRmE0+dHa20RwXsRD5//crEizw48KU5+15k7zQ0MV7yfuSaCmsqLGuI2CAHjuRSal7KSXLDNmAwMX/7gxG7D2SsgLBCtZ0/asJqqZhUxQUMLQ+k6nDBcl20ir15xHGP1y27Idq/9KFf8tj0gGUCxaR2PHDnO1Az3YvynQ+toUgu4Zz6oFiB9bfIGAKquj5XyPOjedWPpo6F4CFAiuW+rkUdV9/qyzPnlt5B9t9AVpShLTMuwoAICrwJlT4QiWli1rlj69Yrg==;3v5elmMadcPkYe7EIlfLRw=="
 ---
 

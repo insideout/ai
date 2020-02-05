@@ -2,13 +2,13 @@
 name: "CloudMinds"
 overview: "A dynamic data science platform to manage, build and automate machine learning from research to production.  #AI #MachineLearning #datascience #DeepLearning"
 type: "profile"
-heat: 83
+heat: -105
 
 website: http://www.cloudminds.com/
 
 linkedin:
   url: https://www.linkedin.com/company/cloudminds-technologies/
-  followers: 2428
+  followers: 2458
 
 crunchbase:
   url: https://www.crunchbase.com/organization/cloudminds
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: cloudminds_
   url: https://twitter.com/cloudminds_
-  followers: 1358
+  followers: 1054
 
 size: 501-1,000 employees
 yearFounded: 2015
@@ -43,6 +43,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=ctP3rt-6xmM
 
-secured: "Bhm2ihKuFYcwIyi3B/6XM3TPEtNNGNRh3h+GTnMirRLP0NnyCVWhmRmf/ygN4KPILDGirbO+tiRx1SgiokmNcroE2TklJJX/JLO4PDQCAU6z2Z4UVzpwktYhVJpCRS+r0bw/YHjFtBHuSrxk0VMyCnMVgI/JhK+/z1neZbunPyDFVzh5svYwhAdLh7Bc1t6XNZhyb5hytJLwjr8gsT45DlRkQgwkawlOQ4C6A9xBfdWl6vU/Iwvf8L6g63xccw+sT6ovGI1tOBRIx3M6oxF6GXFeGcLLcNPlnU72KY6nsW/xqVhvw/TcIuTbFCfaDCgp;YkPqmXf3eDoxFsTyIOQnrg=="
+secured: "pBaLaeC5VylPbLcrM+X0YmDeQL7KG33zNxB2W4VUblFUgL8tpk9I3LSaOxlxNazzE0S7ut965mQbI13RGE4gF8zzt9eY83wFIomPwRKBSUD3n8H//aJ/nTsmPkZcaEat/PFVw2927ftkIcc1binXy3yXM8xPeYF9cs5Yx1vnrfqPk2dQtJU3pv64gw3b3lfTeWg58sKkpg+R3erfYmf7ssM0uN/iksixoKuDDGKvy4ZKZOZSi0p1rM31zTFgZrNRsodGA+7l+TvI0B6AhCiDjA==;ZFktdZNQsd3H1Inx1XsfMA=="
 ---
 

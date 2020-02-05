@@ -2,7 +2,7 @@
 name: "Nutrino"
 overview: "Our team of nutrition enthusiasts, engineers and data scientists are united by one singular goal: to provide personalized nutritional insights to every person on earth, empowering humankind to live smarter, healthier, and happier."
 type: "profile"
-heat: 243
+heat: -177
 
 website: https://www.nutrinohealth.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: NutrinoCo
   url: https://twitter.com/NutrinoCo
-  followers: 123
+  followers: 130
 
 size: 11-50 employees
 yearFounded: 2011
@@ -40,6 +40,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=ynhELhRZO1s
 
-secured: "sy7hx+Yxpp2o8Yjd16fZ8ZK0sge66OY3pQo5yXrFmGFcql167c7YXx5f2X+s3P8Q9i0X61xtJE0FhJkhAoxvhjChOnSEEIGD7AIOegnNCLkIQOblJcbikzjtSmY6RxGbY1B+FRlfPCiYugkdWHEgQFZTtBIf8+1LGGuM7lrZH2yQ+Pqfs/BFgrdng/ki9Q2d1ssx5xPzMPq9h2KdTnqgjb/lTns8dTK4bwXF9P0iH+MhxFNvbFnQJ0ocLwpZ/1u3HAiQAtIgRW5cp5nkCThmh9tn105NwxnPJAQ8/NfSuJ61aRlpWDAW/fHohw4+Bvhn;VO8zW8rKEMnk8tJeCIQ+Rg=="
+secured: "W9LDvWx/BBGq/FyFaWP4UlbpOsVf7dToa7JE2zFiu4WmEtErdmiQPSCLORTPSi3GYkLP+P4mUj0O/PWD69rXA62S4K0Ydw9BErk/3/C+3T1uCDnP7FxleMVH+zPF8WfDmkjg/T9z7ZhR8ICvS7QYTDntcqCyR05Ez5rnaH1At4SXGiMXoPQ1zq+xP3yALn8/Vzth+1X8Mg1r/BqItWcfOWzD7HeaOIlBJbK3iUBx9eIkyjDtaatVp1KRfLAs3ejtMRAw5wMPKrbOdPjQCXtnQg==;wDhZRXJA5ypZ9aKepGPxqA=="
 ---
 

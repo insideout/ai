@@ -2,7 +2,7 @@
 name: "Klarity"
 overview: "Klarity uses Artificial Intelligence to review sales contracts under your company legal policy. Klarity pulls contracts from your emails and databases and returns them reviewed in a Word format with annotations and redlines along with a summary. Your company experiences accelerated sales and higher compliance without having to think of contract review anymore."
 type: "profile"
-heat: -340
+heat: -1008
 
 website: http://klaritylaw.com/
 
@@ -36,6 +36,6 @@ images:
     height: 400
     title: "Klarity"
 
-secured: "ONi7tGVvgB8tUY33WAS900O3VXqN8Frpz/V4kvCPPZ/5M196k5HfeFIbMDPrUqAq20d9W7PKhjyNRViLeM9PdgJAv5f0c8hnwLZXkF799qV8HnQtIgLb7rcrDmwRdDIK0afthgfLll8tk6StErSNXUpDAfvjhi1rMDJlE5XUkRIE+yjyFcF2YcPk8JP8WvVfifjQzlTqHgcuq/TSsM8RYT+T3XCgb496H01I5ya0rCoPADin7wA1cQpqnKyX+NmzD6sUampPZ7SHcGtP1ze5YwpirKDMaJLdpHP2di41VhAB7Sxzw++CayRqIB1Ox5Ti;h9UM2JLd0828gXSL8DuCDQ=="
+secured: "PoXNP2ML9m7AHKJiNuywUpqrfgOEmZqSJqrR2gfx3lSjUnmSkgkd/oVu9B9yTbpQJxGcWLh1v1epquWsNn4NOXSuXt1M0tzBJU/ayTjQvpTuHq4lFHvCVcAhKd1eF13KFFQJClXa8U60MAYo7f2xQ1WUEIsV8gfnhahBTfYvpy4LI2VMCowTi3BiTkh46myBQ6ebUaQuU+ADJbQmz2A0uPyIYxQ0EBiGm+rdaX8Yv8cT/+iGWKIiD034k92lzGqDjOAoOr17nd11ZZ40A5OpfA==;ESgOQap65w3vocd16IqGMg=="
 ---
 

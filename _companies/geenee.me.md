@@ -4,13 +4,13 @@ otherNames:
   - "GEENEE Inc."
 overview: "GEENEE is an advanced video and image recognition platform that uses patented technology to deliver dynamic, curated content into the moments of daily life."
 type: "profile"
-heat: -171182
+heat: 549998
 
 website: https://geenee.me/
 
 linkedin:
   url: https://www.linkedin.com/company/geenee-gmbh/
-  followers: 395
+  followers: 404
 
 crunchbase:
   url: https://www.crunchbase.com/organization/geenee
@@ -18,12 +18,13 @@ crunchbase:
 twitter:
   username: shopgeenee
   url: https://twitter.com/shopgeenee
-  followers: 1411667
+  followers: 1416919
 
 size: 11-50 employees
 yearFounded: 2014
 locations:
   - Los Angeles, CA
+  - Los Angeles, California
 
 funding:
   status: Seed
@@ -45,6 +46,6 @@ images:
     height: 400
     title: "Geenee"
 
-secured: "bpcehs+SypPdp+ZOaiVktovmHzeHppr2VRLJpb9Wn8eXRjJMthwc1fPGLkUHFlhwscnokFsxFNsQAMwOUVR3YWXzbhc89skPVsr7NxOxT5XiAHMouwW6tLxpfqKX60A3wzGejMVcW+Y0rKWinN0WFtKQiSlOvBtUsS1lMARrHpvJD9ivMlWS5P+cC1bfw449ICl+GBRNQVLxAGPJ8xbzQMR6yEDMmbwmaaM2SbOrqOzyxtkKyCkxHTueUTsc9q/UbGfmgMuPccSzkvgb3iZMMDTTnsqudh+y1dlHS23h6qIh8SClRGK52UaS92BHzrcl;Cepk3u7luedZualr1eTCKA=="
+secured: "CY+HCyqiuftq6sNYVJIQh/m8QwFfjx2oqy/COVlbNxBGUHrC6n9FN1GM/67yqdMUghy0AQQJVpi8wtdsy0ZhYQfNwSKd2UsoonAxhumBaf22EDJ4a67cP8VDo2s8jzPRZ0VAbIolfSOeXxhtJABfVpEt1z/3eBY5pvvci6SyS8iPeKYDPSQIFVfd0rDlcwcr7t+2Uro926+Y7bXj6vNqlKrqDmkODXsUnx0JXOJGiXqezIOzMY8N7K6Jjk55vlblqyUPG5uvSb9ko5jWZwqn4Q==;mg4dpL5h4dGgjmuJBIXWfw=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Movidius"
 overview: "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices."
 type: "profile"
-heat: 10
+heat: -57
 
 website: http://www.movidius.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: movidius
   url: https://twitter.com/movidius
-  followers: 382
+  followers: 385
 
 size: 201-500 employees
 yearFounded: 2005
@@ -40,6 +40,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=hD3RYGJgH4A
 
-secured: "xZPpY0EUtVV29ugvZsvloQ+No+fNmk5zT5OEhgqobyzH0Ci9BngLXXdxRXJL2q9dS+wxIawj9WaC/Q9xi8Gc0AIjiejZewTTm7uz0F4N7VSFoLi5YC4DBG88uUWaoB4nzOs6grAUcwHCHI5Ix47Z/dZH+6yq6HUdlO78SeyHvQYYaL4+P2l1SBZpUUgsby8jwePgHxj0fXzGBU0uj9JoMIeN0IYkrY4MTlC8Iw3pPRlEihA97Kf59XF8j3O1VH7selQeAT3BtzRmy4nXCveFqmscC/kl1HEeTe9Eamn+uqYjmOFlOl0JJcj8bNNUeQRE;ErjHcwTXSB5KDAYZD2qXSQ=="
+secured: "dx/67yt5ZHUPN3NoF1PM/znWPGa7PgLABMaiwU5wKL4UdkhOpShsxG5bTzWU/9NehnI/S3Gcu0PTu4Z9znegKMPmWFnIbNcvrKgBEoiydiwSwgUv7SaJTOVoC7EtNiDGFtC+YOLi+Vn8gXeFopRDaZ2eqPElMBiulqNier7SfmkcstdUQP4UAHPS3gkxNTEAyfXmydu2pZJwIAw947CnVdpvfenq/Wf8QZviln0VcygZa4/inAePKltxqmbCFKOsKLoFC09cL1c2a2XJc4rTGg==;jynHYiapSIuGmpztoKYnJw=="
 ---
 

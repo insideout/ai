@@ -2,7 +2,7 @@
 name: "Xnor.ai"
 overview: "Xnor.ai brings highly efficient, super powerful AI to edge devices such as cameras, cars, drones, wearables and IoT devices."
 type: "profile"
-heat: 127
+heat: -236
 
 website: https://www.xnor.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: xnor_ai
   url: https://twitter.com/xnor_ai
-  followers: 2145
+  followers: 1494
 
 size: 11-50 employees
 yearFounded: 2016
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "Xnor.ai"
 
-secured: "aIn8GzAxjYBLnV+FwQLUF26UjVz1tnMerqS6LZkSVGI1Sb+4Lyns/tWM5UnpkDVEnvcoTwOcVTd2y9g+TBpVwJG+UbT1PuZ4J3nUsI4gh9wKTUB1AFDbVR3/GHX58pcgMV9LxouqZdhuChW9ofmkXu3TeSwq1Ogs+PLgKyfsn8DeAAeRU/yaNMQV65ascdO72Q2eKK2i818NzT82SLHbZYk+DNZy+qTKRWBanVw5LBx6lcZryG5ogOy3YpokZf6BapB+ullXHxYsiBZsuT0HqY6c0AaZyc6dh2OoAaVLy03xqO3mg8C/5ZLRKDalewFo;qY4OSyheKO1Ke/rmltcFXw=="
+secured: "5eC12PCK/fLXGgq7C+m0InN6A1w0lZ4thdfhf6cH3ia3Qyc/i21SyhmBBZeIdsIPgutg53ZYeP/lTB7VBWtuTS7zVLzOzONw9niz/IyzC5FXKRzIBFl10l5QAENeapRUHn0UvAHqUwAYQqSsc7x5WYaPr5UiITmk+osfut3TQDj5jcK/TAE5W3JeDTkdph4CGPGJpdzfZG+PP8MAfM9JJ5fuZFVcZz5vbpIzpjuWpdMLTneRRmEsj7BLaLhu/3LmQBBX7Wq83SEkjM20Oo008g==;rsLMoolhBRgDwOl5O/A+5g=="
 ---
 

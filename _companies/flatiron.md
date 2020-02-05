@@ -2,13 +2,13 @@
 name: "Flatiron Health"
 overview: "Flatiron Health’s mission is to improve lives by learning from the experience of every cancer patient. Please visit our website for our open positions."
 type: "profile"
-heat: 2837
+heat: 605
 
 website: https://flatiron.com
 
 linkedin:
   url: https://www.linkedin.com/company/2682361
-  followers: 21180
+  followers: 21595
 
 crunchbase:
   url: https://www.crunchbase.com/organization/flatiron-health
@@ -16,12 +16,13 @@ crunchbase:
 twitter:
   username: flatironhealth
   url: https://twitter.com/flatironhealth
-  followers: 1797
+  followers: 1850
 
 size: 501-1,000 employees
 yearFounded: 2012
 locations:
   - New York, NY
+  - New York, New York
 
 topics:
   - AI
@@ -43,6 +44,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=AishSTITOq4
 
-secured: "a1Tl/ER4SBFRSjxGce/NnK/RRhTyV7cN7YGYhfp/L/AJFhGCyf4d8b3GShji8UNhyEtWSsjLKsHfgnFK1f66ARu5NLg/+gzjYTRjqCnzg3Wqe+xSqmher3SwEWMyw5/C0Qzcp3KSoDkiR5geBtqa5+LBg0d1nvBIigphVWzE6/JKRnrp4N8iVWciylElVEwJFdiHTp540hUQSkJiXkFtJMPFA+9hcK0uOV88+LFVEuuOWZCXADy55w+WDpgyjSNbuMJpLY2wOG7bzG8tdlXqBaGKenPZSucUnj8kgC3QxgoIUYJlmJplmJdvq09nmQb3;Uiuj1cUdQzl4fvMl35KqEQ=="
+secured: "C0flda+y7hrbNxsPQmAyGCbB1UV/I26J4NBsNIA+kFN4zUlUKKRDihNJAq7+5Fbl7pjeg6Jngsf0sqvw4CmNk6kcbjn8rQ4rb8pRYdhPLahjx4LHT+LGaHsbRjqSZqLpWhsu6b6OaIzv7EoRi6BJiDDjO3/wXbtCepmJVpRDTUyFhlBXmasPhrSu1fG0J6D2B80WZzPw6N/4wd3CaYIrd3SyzXbYq0OKz+LyGJ1SNTlLwoXZuZEeeqYRsKmfQkwQZkG++ScSP1EkSU3BgALFsQ==;9qFWd0PyN1MWUlQ41qVzhQ=="
 ---
 

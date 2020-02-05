@@ -2,7 +2,7 @@
 name: "Sighthound"
 overview: "Sighthound combines machine vision, big data, analytics, and industry-upending intelligence to help see obviously valuable information in previously unobvious data."
 type: "profile"
-heat: 143
+heat: -287
 
 website: https://www.sighthound.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: sighthoundinc
   url: https://twitter.com/sighthoundinc
-  followers: 1513
+  followers: 1520
 
 size: 11-50 employees
 yearFounded: 2012
@@ -42,6 +42,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=JdZBDfOO25I
 
-secured: "lqP6UYk/HrPeUBU6sJHoEOy0IBOC1WK6958aMgAl5UVXkPZa2j8HVVYm44iIil+K+k7vlFgIjCMscBKaeNUgHnghQKjct1b8Z9RJFPGxaRE5TfEZvAh3KSUVQo5VpTv/GINf5aPIBNZS67fNG7pd5Xd+9Yly0q/V/9l4CsZuKIzyePJgcd0t0hnwsdxd0va+VNpgNzNjKEsfV3zIu0SCmYLppvZzmgxie6kf6VwtkXga82M9VjxfcaQ/LNbWmTJF3tQJVFPDbw0Mqv8uBu70ki76fVlniol1CX6GLU7bSziKjGsxngRfokRJ+qDaX7Tc;u9i42M47SQTno/vw3Gncaw=="
+secured: "GydcJaTxr2Kbk9ACzlsNjkFf9y7jFjJvdvuJ5lT0rlHP+/DXjJdJ7jWDV000AWo/fGfMGc6bTb6ZUZv4Hxl06yzb5xTbGVa5mRKbKDUrHm9Urqh1PJlK+CNaLr2FWiL/IQiF/Pq7rshF0icZYRU3B/pP37kq5/rso/n4bribQPVMvOJEhmLwzrW9Imll3Q3gUe/DDieVo6ep//Fn+I3JG3JAiXireZw81lG+++DetdAwoe2qg7LdRv5qbSu/r4m6XpauNnV4BtppAds6x3bi5g==;q1RscwkOQKwX6U9MBjGZRg=="
 ---
 

@@ -4,13 +4,13 @@ otherNames:
   - "Fraugster Limited"
 overview: "A German-Israeli payment security company that uses AI to eliminate e-commerce fraud and increase customers’ profits. #fraudfree #AI #ecommerce"
 type: "profile"
-heat: 146
+heat: -645
 
 website: https://fraugster.com/
 
 linkedin:
   url: https://www.linkedin.com/company/fraugster/
-  followers: 1276
+  followers: 1304
 
 crunchbase:
   url: https://www.crunchbase.com/organization/fraugster
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: fraugster
   url: https://twitter.com/fraugster
-  followers: 103
+  followers: 104
 
 size: 11-50 employees
 yearFounded: 2014
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "Fraugster"
 
-secured: "wvXsDoeyAXL1Pl/06IleArKmsN6ram7+yaGFAO2VKxHp055GkSIxfogi6gYoz16Orsbhh0uzplK8b8q/lV035gmmCKc2pf9lcQ5EgFHstOZqh0Mygk24G3jv4DBJ/fZadxWq20y5uFFzsT4Dc4KoCzwtHu0unWmecdhrpZoyZVy6K8YyTHG01rW7IUrpJD7BKmQjAvSTfVFlVmOt0DYmfWpGxGrt0WHYo0BoUGFaVccDv7OrnTxKmPdDiiJpxwf50ylsyvNvJwu0a/pPfvOt6lCGuykTQPoQ8UCFhhaJz3lbE08vJ93yhyrJFlyy/YLq;tafHnjymxwGrn234Q+vRIw=="
+secured: "CiCqCl2ut/7ZzDJffsbb/8AHblN/0AOJdTRf6N5cWRxy4H+7HKtaCJLbI2gTlaT6H7/nzZ2BVocKyffbGdQ5sUQAYx9dtpJhpzde5+vnp7APS5sy/UJ2h0DGbpCWE1KXrQoo80YlvyB+CY4DKskyoCm+qrlqGW06NeyN0Mme8bxTB+p7zi9hxnR0GGpevJD6t2SWyX8W8EsLNgWGV9N9hiiJNvJvxfMz8U8bcn20oCLSH3iM3DdtlKzEGS1Q379q0mu9m2UACmddP7ndz7bPoQ==;XRbQ3qElsbCAlSPfN2VhTg=="
 ---
 

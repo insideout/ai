@@ -8,7 +8,7 @@ website: http://bash.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/bash.ai/
-  followers: 165
+  followers: 171
 
 crunchbase:
   url: https://www.crunchbase.com/organization/bash-ai
@@ -36,6 +36,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=AtqYoCjw3gA
 
-secured: "g9GLw9wMOoXCMaz+zHv9sDUw4hJUE0jmaER9d6QirOxwTZgf9pBTVdWt+kX+UGeIAAraJicpqydXUNMJncPDxoQ5DjIkeasXMPU0WIUwFhYGjwwhtYyASKI/2KD9fJKrJDn45iR39nxwgL/gtRaJkYuaHxi3zOQZFQearDQFRDMX+V4lJAKLJ7sYaGNaLkMSXBiTLOo1XmeaR4iI03fo0ZS+e2tHWhwxQDM/s3289LV9gs3ANCDeNsYZn2Ap28KdpZwFXAfxGjTIjbdoMN2rqUENbrghQoKixhyD1We2lDTKVQ8uB9ggLbhEAy5URYUX;lOjZQFS9PMqQBmAYcpB6Bg=="
+secured: "/TQ/oSGBUJqfN0Ib6e3ScqKgCA/HhiFag8HYsDT5pgW++rddwTPoH/g66sVIeKd9u6zDyZ5gk2MBkZ/0NaKLddcxC7amTTPomlw79EBWMx0b5w7KpnQOV+wCPPMLZXcfw533vy271rUZiFTuongAUhShpM6+fUQNkbhyNBBc4IkmN8OwUm4wRspMJskzV1ii9TOVsYHN3WFLr1Xht6QEO4dDdUbgoQ6BDDG/HICqx/Lw9QCwVeGGy49nsGd4UBvmBRBN9xd7pIPABFdvxutC1w==;rvdLn1xQt7S/t54PgvH4Ww=="
 ---
 

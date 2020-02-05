@@ -2,13 +2,13 @@
 name: "Capital.Com"
 overview: "We are on a mission to make the world of finance more accessible, engaging and useful."
 type: "profile"
-heat: -406
+heat: 1613
 
 website: https://capital.com/
 
 linkedin:
   url: https://www.linkedin.com/company/capital.com/
-  followers: 1006
+  followers: 1024
 
 crunchbase:
   url: https://www.crunchbase.com/organization/capital-com
@@ -16,12 +16,13 @@ crunchbase:
 twitter:
   username: capitalcom
   url: https://twitter.com/capitalcom
-  followers: 327
+  followers: 4455
 
 size: 51-200 employees
 yearFounded: 2016
 locations:
   - London, UK
+  - London, London
 
 funding:
   status: Early Stage Venture
@@ -43,6 +44,6 @@ images:
     height: 400
     title: "Capital.Com"
 
-secured: "6GL3tXqZ/Sc40F2smHc7SJHNf4syrKRaAvtG7gyFzuQ4kaFOHfVRYFAzEbkhL15ijb/2GIFaU/OBjnsmpriunvr9A+gaoWBtsxeVid2kDmhZhg+wk4mxUj+BxTg7SSDuRfpBWk4OFZtA8hgM1k3xDhwdXb+YxTMKGjboi50gfld9uijAn6wGALVYWITPFBaMDkhQ7H09mYIQeRsW9vGLdzDDSguzaW1Nf9fdxtYvD/mpXzzwEiohSJ+dO+l48fPV1nknOo3wigeF6aH6vVNHubeRaRpS1fba0LYAANRFauUGaU0NZcO9NibUQJgiqZOP;tQVcnPyiqK9u72Usvoe67w=="
+secured: "U09Xp7eahW3+YRvDaYWjipTL1fZRgfJDzgzE7HnQudrh7sZXnJkvVjcMS8Xp6/BPKfrvKn0rlCDyGdq2MuuPblaB5MuR8k4zxWV3c9491sf++2zMCNbr69Jg1RDF1NwvyiYicPVlvO3S5XWUMGksYUhLanc0cCQ/mcTRc+c15Ed93fg2j5kwU53t+i+SqAyceo1c0jEb8WMfRVwo0VfBMIvqRU/sDGbrFh9PaEIFC/XxGBC6jXnMNnJYnHNvTvrt7jdZi0bhz2l0GwdL7dtQ9w==;H51ztUHWm1K/0tomX7HHRA=="
 ---
 

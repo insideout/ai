@@ -2,7 +2,7 @@
 name: "Sight Diagnostics"
 overview: "The faster we diagnose, the faster we can treat. At Sight Diagnostics, we aim to improve health through faster and pain-free diagnostic testing."
 type: "profile"
-heat: 28
+heat: 1
 
 website: https://www.sightdx.com/
 
@@ -34,6 +34,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=IWwwJ8L7Veo
 
-secured: "GOShIluuzsTyebRLQDk2ebmaOI9IUyT1fIhYfGvseFUQLuzwdJaMqtlzzM4sQwGBbJEtOjpFYpfAQv+iDlKHA/7wxIG7ZU4iN435+W8NyZfTJcDAwn6IKJfBzI1CGRo+HCYGHNjogZ3+Rp6CuGfSwQxbjS4zqSKiXt0ImJNF78krcSYz3tC6pJ5WOuLxoogc4nnlvRhomjKbtIN4zs/C5zXQVtcS0CdVmYJjzDqZyYbdyzBKUBelW8SdSbnzdoAjLD9V95jTMxDK17Nc0GdYYSVf0jQ8k4edtlbE4i6O8a7r2FuaKrsznHkLszQMnEFk;l1syD0d4xfbuT4ZFOeSbtw=="
+secured: "A0SmG5yssGo4r/wMQqhro0382OoEouvHBfJnEGvCmnLe/VVfEuO1oo965JFlAI2rodbXpVQa/tPqscNQYDylctRZUb5J7ObZ5uWPDs24OFuj8QbykkspoZpzruN8VFU6woG+NMaYYgGJIHs0xKDeBRUOTK6JVD7ZAImFk1V6wCM+y39ksiMz0qWrCFFGv724WLbnNyMSGMLOF19r4XPOnEguDiPNlkRx4FYU2mZLmRrmQEIXvoA3KMUDiHd4WDx18Y4/j5kpjBqfR58ukcfmCQ==;FCs9hmr0/Spkmtgw+PVvzg=="
 ---
 

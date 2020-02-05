@@ -6,15 +6,15 @@ otherNames:
   - "北京羽扇智信息科技有限公司"
   - "Beijing Yushanzhi Xinxi keji youxian Gongsi"
   - "chumenwenwen.com"
-overview: "出门问问 人工智能领域技术与应用的领军者"
+overview: "Healthcare Enterprise Analytics Platform powering healthy lives and better care by unlocking actionable insights from all the world’s healthcare data"
 type: "profile"
-heat: 10
+heat: -3210
 
 website: http://www.chumenwenwen.com
 
 linkedin:
   url: https://www.linkedin.com/company/3773376
-  followers: 2561
+  followers: 2571
 
 crunchbase:
   url: https://www.crunchbase.com/organization/mobvoi
@@ -22,7 +22,7 @@ crunchbase:
 twitter:
   username: Mobvoi_Official
   url: https://twitter.com/Mobvoi_Official
-  followers: 8713
+  followers: 444
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -48,6 +48,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=z-H_xsUFD68
 
-secured: "gOD+f/hYbunsR7RNp3op0ICAkNNcPo2bTJIEHuT2F9XyDRs+6YqTnhwJZBDFb7UeEIVxzZCUhvw+1LcdoXRDfelcJuNA6sfxYqfmthNu6ynelHD8uJTJQcIIwd0HPltOR0okSFuIZ+wmI/GVBYFCSBEf1oLdKaN45sqfT/axLz5ai4QB3er/ljMRfBMAIZ3PUXFDP3fIVonVai2Nus5J57YAa1oecJ+y3FedswKbUsi4A79x+owJuxbifH3KCQNxUZldc6ftTggTyWO9ZP7VEYarVp5gucGLL43/o+7Vj7zIN8HBAzVLEfoTDW9G+W0h;OzltDo3wcNv2g5qNn3iZmw=="
+secured: "WK1yoL6sHCzqGHtIGZeMLwDbS2OmxoAWV3YnA+yCfzqOdDoFTB6+oTxSlpV3IkJ4NzFJqZGtOt/Y2uXiaaG617Q33evws4vzaszOxafo+Nwto6Byc0V6yHmy1PXCSvgVp7NGaY4yl6xegxUATMZt/O5/MnclR9lVs3AxWtP16FfKn1D1eJuVUpBjywy+xggVC11BW3GOxFqinPLukVcrF1EcDSPgteiEeHhDn8pDhOd6xwIeD8sMFSBJW4fQvKqp+8J/0AnOPUWjxPoYDnOw9Q==;BtpK454X9dRed3Ha51/K7g=="
 ---
 
