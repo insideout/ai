@@ -7,15 +7,15 @@ heat: 218
 website: https://www.tencent.com/en-us/
 
 linkedin:
-  url: https://www.linkedin.com/company/tencent/
-  followers: 587095
+  url: "https://www.linkedin.com/company/tencent/"
+  followers: 592602
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/tencent
+  url: "https://www.crunchbase.com/organization/tencent"
 
 twitter:
-  username: tencentglobal
-  url: https://twitter.com/tencentglobal
+  username: "tencentglobal"
+  url: "https://twitter.com/tencentglobal"
   followers: 6958
 
 size: 10,001+ employees
@@ -27,7 +27,7 @@ topics:
   - AI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/938256310725779457/qOTwvmAF_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/938256310725779457/qOTwvmAF_400x400.jpg"
     width: 400
     height: 400
     title: "Tencent"

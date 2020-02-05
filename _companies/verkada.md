@@ -7,11 +7,11 @@ heat: 0
 website: https://www.verkada.com/
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/verkada
+  url: "https://www.crunchbase.com/organization/verkada"
 
 twitter:
-  username: VerkadaHQ
-  url: https://twitter.com/VerkadaHQ
+  username: "VerkadaHQ"
+  url: "https://twitter.com/VerkadaHQ"
   followers: 540
 
 locations:
@@ -24,7 +24,7 @@ topics:
   - AI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/910630995350609920/QfH__s7U_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/910630995350609920/QfH__s7U_400x400.jpg"
     width: 400
     height: 400
     title: "Verkada"

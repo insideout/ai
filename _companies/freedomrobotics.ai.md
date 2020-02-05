@@ -7,15 +7,15 @@ heat: -2983
 website: https://www.freedomrobotics.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/freedomrobotics/
+  url: "https://www.linkedin.com/company/freedomrobotics/"
   followers: 277
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/freedom-robotics
+  url: "https://www.crunchbase.com/organization/freedom-robotics"
 
 twitter:
-  username: FRDMROBOTICS
-  url: https://twitter.com/FRDMROBOTICS
+  username: "FRDMROBOTICS"
+  url: "https://twitter.com/FRDMROBOTICS"
   followers: 10
 
 size: 11-50 employees
@@ -31,11 +31,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQEicfD2VUSuFQ/company-logo_400_400/0?e=1582761600&v=beta&t=gfvFCKOEV0Wi1y5fjzM5148AXoQX0skV20ZIqDbmZOs
+  - url: "https://media.licdn.com/dms/image/C560BAQEicfD2VUSuFQ/company-logo_400_400/0?e=1582761600&v=beta&t=gfvFCKOEV0Wi1y5fjzM5148AXoQX0skV20ZIqDbmZOs"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1174382620353806336/CeEUZHwW_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1174382620353806336/CeEUZHwW_400x400.jpg"
     width: 400
     height: 400
     title: "Freedom Robotics"

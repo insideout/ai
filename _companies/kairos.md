@@ -7,16 +7,16 @@ heat: -1655
 website: https://www.kairos.com
 
 linkedin:
-  url: https://www.linkedin.com/company/kairos-ar-inc-/
+  url: "https://www.linkedin.com/company/kairos-ar-inc-/"
   followers: 1759
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/kairos-ar
+  url: "https://www.crunchbase.com/organization/kairos-ar"
 
 twitter:
-  username: LoveKairos
-  url: https://twitter.com/LoveKairos
-  followers: 430
+  username: "LoveKairos"
+  url: "https://twitter.com/LoveKairos"
+  followers: 1456
 
 size: 11-50 employees
 yearFounded: 2012
@@ -32,11 +32,11 @@ tags:
   - Image Recognition
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQFySTcbir1LkQ/company-logo_400_400/0?e=1582156800&v=beta&t=8tbCxCuZ6ZkI4_7Lp15rHzlpmoAFAEJ8LlY4qgdnVB4
+  - url: "https://media.licdn.com/dms/image/C4E0BAQFySTcbir1LkQ/company-logo_400_400/0?e=1582156800&v=beta&t=8tbCxCuZ6ZkI4_7Lp15rHzlpmoAFAEJ8LlY4qgdnVB4"
     width: 400
     height: 400
     title: "Kairos AR"
-  - url: https://pbs.twimg.com/profile_images/1105124141915693057/yO91xNJ9_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1105124141915693057/yO91xNJ9_400x400.png"
     width: 400
     height: 400
     title: "Kairos AR"

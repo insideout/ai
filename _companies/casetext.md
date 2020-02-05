@@ -7,15 +7,15 @@ heat: 7049
 website: https://www.casetext.com
 
 linkedin:
-  url: https://www.linkedin.com/company/casetext
+  url: "https://www.linkedin.com/company/casetext"
   followers: 1569
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/casetext
+  url: "https://www.crunchbase.com/organization/casetext"
 
 twitter:
-  username: casetext
-  url: https://twitter.com/casetext
+  username: "casetext"
+  url: "https://twitter.com/casetext"
   followers: 17615
 
 size: 11-50 employees
@@ -31,11 +31,11 @@ topics:
   - AI
 
 images:
-  - url: https://media-exp1.licdn.com/dms/image/C560BAQGqo7kE92p8lQ/company-logo_200_200/0?e=1587600000&v=beta&t=84MC0fT9OO6k0tn6U4XG_TlpdW4JIEeCfZLgINukFbs
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGqo7kE92p8lQ/company-logo_200_200/0?e=1587600000&v=beta&t=84MC0fT9OO6k0tn6U4XG_TlpdW4JIEeCfZLgINukFbs"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/891013892775608320/I8z3RoZP_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/891013892775608320/I8z3RoZP_400x400.jpg"
     width: 400
     height: 400
     title: "Casetext"

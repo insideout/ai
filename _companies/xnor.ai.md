@@ -7,21 +7,22 @@ heat: -236
 website: https://www.xnor.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/xnor-ai/
-  followers: 2005
+  url: "https://www.linkedin.com/company/xnor-ai/"
+  followers: 2109
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/xnor-ai
+  url: "https://www.crunchbase.com/organization/xnor-ai"
 
 twitter:
-  username: xnor_ai
-  url: https://twitter.com/xnor_ai
+  username: "xnor_ai"
+  url: "https://twitter.com/xnor_ai"
   followers: 1494
 
 size: 11-50 employees
 yearFounded: 2016
 locations:
   - Seattle, WA
+  - Seattle, Washington
 
 funding:
   status: Early Stage Venture
@@ -36,11 +37,11 @@ tags:
   - Speech Recognition
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQH1T3MkqJIZ1w/company-logo_400_400/0?e=1582761600&v=beta&t=ojzZnj_JuchtXkd93V2Trg6yyQgrIFZF0Xl06hOLgGY
+  - url: "https://media.licdn.com/dms/image/C560BAQH1T3MkqJIZ1w/company-logo_400_400/0?e=1582761600&v=beta&t=ojzZnj_JuchtXkd93V2Trg6yyQgrIFZF0Xl06hOLgGY"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/677218631294431232/KYGLTebt_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/677218631294431232/KYGLTebt_400x400.png"
     width: 400
     height: 400
     title: "Xnor.ai"

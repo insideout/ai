@@ -7,15 +7,15 @@ heat: 13
 website: https://ubtrobot.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/ubtech-robotics/
-  followers: 16153
+  url: "https://www.linkedin.com/company/ubtech-robotics/"
+  followers: 16275
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/ubtech
+  url: "https://www.crunchbase.com/organization/ubtech"
 
 twitter:
-  username: ubtechrobotics
-  url: https://twitter.com/ubtechrobotics
+  username: "ubtechrobotics"
+  url: "https://twitter.com/ubtechrobotics"
   followers: 8459
 
 size: 501-1,000 employees
@@ -32,17 +32,17 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQHh_PP4bpXcmw/company-logo_400_400/0?e=1582761600&v=beta&t=gPqCaICtIkaCqo0n8yhmI3JksLQtgkHfeGw8tGRW120
+  - url: "https://media.licdn.com/dms/image/C4E0BAQHh_PP4bpXcmw/company-logo_400_400/0?e=1582761600&v=beta&t=gPqCaICtIkaCqo0n8yhmI3JksLQtgkHfeGw8tGRW120"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1112250977103441926/hz90Ld4q_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1112250977103441926/hz90Ld4q_400x400.png"
     width: 400
     height: 400
     title: "UBTech Robotics"
 
 videos:
-  - url: https://www.youtube.com/watch?v=gOpQlk8afzs
+  - url: "https://www.youtube.com/watch?v=gOpQlk8afzs"
 
 secured: "gYafbO4gvvH1eIknNlhjb8EWQ7PLH91ANUSj6eObtmXELB2zj41sEIn03VonHtELjE9tqWis7vvLzeMfenM6LzUDe21SLupUkWi2jYPWGcOIYIRgIa9Xnb05uyaP7z4ciOXY05XiRVjLCtybilAH0uQwfn4Onm6jKs4UxD1r+ln4VRRFPDvc2g5bye3/L2kwyybXXWAi1ZtEA69qr74hX5Z9BPW8n8BsuaxeCyiRCq8r7Wk9wdgQN0YPqwgG4CS6CE4DNZS1sJIF2snSuAu44Q==;gCk1V6gJutwbq7bot5cyYQ=="
 ---

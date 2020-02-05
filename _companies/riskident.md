@@ -7,11 +7,11 @@ heat: -1683
 website: https://riskident.com/
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/risk-ident
+  url: "https://www.crunchbase.com/organization/risk-ident"
 
 twitter:
-  username: RiskIdent
-  url: https://twitter.com/RiskIdent
+  username: "RiskIdent"
+  url: "https://twitter.com/RiskIdent"
   followers: 581
 
 locations:
@@ -25,7 +25,7 @@ tags:
   - FinTech
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1174312638328840192/ErbzJaM6_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1174312638328840192/ErbzJaM6_400x400.jpg"
     width: 400
     height: 400
     title: "Risk Ident"

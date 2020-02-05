@@ -7,15 +7,15 @@ heat: -754
 website: https://datarobot.com
 
 linkedin:
-  url: https://www.linkedin.com/company/datarobot/
-  followers: 49684
+  url: "https://www.linkedin.com/company/datarobot/"
+  followers: 49687
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/datarobot
+  url: "https://www.crunchbase.com/organization/datarobot"
 
 twitter:
-  username: DataRobot
-  url: https://twitter.com/DataRobot
+  username: "DataRobot"
+  url: "https://twitter.com/DataRobot"
   followers: 450
 
 size: 501-1,000 employees
@@ -32,15 +32,15 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://media-exp1.licdn.com/dms/image/C4E0BAQFwkhtULTjL1A/company-logo_200_200/0?e=1588204800&v=beta&t=Kp0yZNT2R-zkNm-L6ZniwDGCFUDZnVG9bj46HbKvSyM
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQFwkhtULTjL1A/company-logo_200_200/0?e=1588204800&v=beta&t=Kp0yZNT2R-zkNm-L6ZniwDGCFUDZnVG9bj46HbKvSyM"
     width: 400
     height: 400
     title: "DataRobot"
-  - url: https://media-exp1.licdn.com/dms/image/C4E1BAQHSN0jVxbdadQ/company-background_10000/0?e=1580407200&v=beta&t=8CLBohvscLFXFNQyQYJEQqB4y_wByuQpOHVTYZENPuw
+  - url: "https://media-exp1.licdn.com/dms/image/C4E1BAQHSN0jVxbdadQ/company-background_10000/0?e=1580407200&v=beta&t=8CLBohvscLFXFNQyQYJEQqB4y_wByuQpOHVTYZENPuw"
     width: 3168
     height: 792
     title: "DataRobot"
-  - url: https://pbs.twimg.com/profile_images/960519710809972736/NJWxM0QH_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/960519710809972736/NJWxM0QH_400x400.jpg"
     width: 400
     height: 400
     title: "DataRobot"

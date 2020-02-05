@@ -7,16 +7,16 @@ heat: 175455
 website: https://www.google.com
 
 linkedin:
-  url: https://www.linkedin.com/company/google/
-  followers: 15292580
+  url: "https://www.linkedin.com/company/google/"
+  followers: 15292872
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/google
+  url: "https://www.crunchbase.com/organization/google"
 
 twitter:
-  username: GoogleAI
-  url: https://twitter.com/GoogleAI
-  followers: 5226
+  username: "GoogleAI"
+  url: "https://twitter.com/GoogleAI"
+  followers: 1416905
 
 size: 10,001+ employees
 yearFounded: 1998
@@ -31,11 +31,11 @@ topics:
   - Google AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0?e=1582156800&v=beta&t=kCKjIgArRzPeNHog6E9-nLFr4_PdMD82VMZVh9qZwPk
+  - url: "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0?e=1582156800&v=beta&t=kCKjIgArRzPeNHog6E9-nLFr4_PdMD82VMZVh9qZwPk"
     width: 400
     height: 400
     title: "Google"
-  - url: https://pbs.twimg.com/profile_images/877225025874653184/vITaYmsB_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/877225025874653184/vITaYmsB_400x400.jpg"
     width: 400
     height: 400
     title: "Google"

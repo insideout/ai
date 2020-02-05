@@ -7,15 +7,15 @@ heat: -1257
 website: https://www.buoyhealth.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/buoyhealth/
+  url: "https://www.linkedin.com/company/buoyhealth/"
   followers: 2993
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/buoy-health
+  url: "https://www.crunchbase.com/organization/buoy-health"
 
 twitter:
-  username: buoyhealth
-  url: https://twitter.com/buoyhealth
+  username: "buoyhealth"
+  url: "https://twitter.com/buoyhealth"
   followers: 333
 
 size: 11-50 employees
@@ -31,15 +31,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQEpzpekVfUV6A/company-logo_400_400/0?e=1574899200&v=beta&t=ob0PcwGf4KMXAonbH3jkM1g4MqKSs1rFXSQ7mhUryXQ
+  - url: "https://media.licdn.com/dms/image/C4E0BAQEpzpekVfUV6A/company-logo_400_400/0?e=1574899200&v=beta&t=ob0PcwGf4KMXAonbH3jkM1g4MqKSs1rFXSQ7mhUryXQ"
     width: 400
     height: 400
     title: "Buoy Health"
-  - url: https://media.licdn.com/dms/image/C4D1BAQEk03jvSJ3S1g/company-background_10000/0?e=1566792000&v=beta&t=hB0Cg3QWXWNVIvy8w6SuUrOn8JEloY90Fk90Ynq5Usg
+  - url: "https://media.licdn.com/dms/image/C4D1BAQEk03jvSJ3S1g/company-background_10000/0?e=1566792000&v=beta&t=hB0Cg3QWXWNVIvy8w6SuUrOn8JEloY90Fk90Ynq5Usg"
     width: 4000
     height: 2000
     title: "Buoy Health"
-  - url: https://pbs.twimg.com/profile_images/1009095085143752704/v6-UR8NH_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1009095085143752704/v6-UR8NH_400x400.jpg"
     width: 400
     height: 400
     title: "Buoy Health"

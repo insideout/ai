@@ -7,15 +7,15 @@ heat: 232
 website: https://www.orcam.com
 
 linkedin:
-  url: https://www.linkedin.com/company/orcam
-  followers: 4734
+  url: "https://www.linkedin.com/company/orcam"
+  followers: 4818
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/orcam-technologies
+  url: "https://www.crunchbase.com/organization/orcam-technologies"
 
 twitter:
-  username: OrCam
-  url: https://twitter.com/OrCam
+  username: "OrCam"
+  url: "https://twitter.com/OrCam"
   followers: 672
 
 size: 51-200 employees
@@ -31,13 +31,13 @@ tags:
   - Facial Recognition
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1054222800490242049/-RNyXTDV_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1054222800490242049/-RNyXTDV_400x400.jpg"
     width: 400
     height: 400
     title: "OrCam Technologies"
 
 videos:
-  - url: https://www.youtube.com/watch?v=jx2zOrCTvcA
+  - url: "https://www.youtube.com/watch?v=jx2zOrCTvcA"
 
 secured: "jdgshe1zu+YgXN4Icz7G71ZtJ6OLWOP5laecJ17LDBzyKG7SiJngVjKaSHCJxOZilb4M1BSAjyEciCTrWR3OMTPPHLNXtQnVbQak4C8kjharGMLjXdJx3HD/ttf+iSlqoN6Zwqd+GLuDm0B+wVY1kJwyd0Zuar4eQa+HIHGka5zTqcjwiyKAe0jMRamt7XMvkkVFj8vmkEDDyHQszSUfa5lo5hZsz/FWyh3cJX8AtaSfSiSpJeRpW2Gw11rc1E5D9LFpzWD8d3URA4h8AnpNJw==;oqjCpwRxiMvYPxtIoqEDMQ=="
 ---

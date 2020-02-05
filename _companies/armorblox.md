@@ -7,15 +7,15 @@ heat: 28
 website: https://www.armorblox.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/deep-6-ai/
+  url: "https://www.linkedin.com/company/deep-6-ai/"
   followers: 2942
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/armorblox
+  url: "https://www.crunchbase.com/organization/armorblox"
 
 twitter:
-  username: armorblox
-  url: https://twitter.com/armorblox
+  username: "armorblox"
+  url: "https://twitter.com/armorblox"
   followers: 1547
 
 size: 11-50 employees
@@ -34,11 +34,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQGmiGEbuKqJwQ/company-logo_400_400/0?e=1582761600&v=beta&t=Y8nNL9-t8oFP5XvaEIaQMUJPlksEHCDv40OvE9qTtO0
+  - url: "https://media.licdn.com/dms/image/C560BAQGmiGEbuKqJwQ/company-logo_400_400/0?e=1582761600&v=beta&t=Y8nNL9-t8oFP5XvaEIaQMUJPlksEHCDv40OvE9qTtO0"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/573556405367517186/t84NuUrh_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/573556405367517186/t84NuUrh_400x400.png"
     width: 400
     height: 400
     title: "Deep 6 AI"

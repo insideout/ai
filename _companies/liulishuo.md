@@ -7,15 +7,15 @@ heat: -49
 website: https://www.liulishuo.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/liulishuo/
-  followers: 3494
+  url: "https://www.linkedin.com/company/liulishuo/"
+  followers: 3501
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/liulishuo
+  url: "https://www.crunchbase.com/organization/liulishuo"
 
 twitter:
-  username: lingochamp
-  url: https://twitter.com/lingochamp
+  username: "lingochamp"
+  url: "https://twitter.com/lingochamp"
   followers: 857
 
 size: 1,001-5,000 employees
@@ -31,17 +31,17 @@ tags:
   - Speech Recognition
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQG5rLftUNFeCA/company-logo_200_200/0?e=2159024400&v=beta&t=9J1BkYEeDrcwVMHrmn5ss_a9n4AJhLik6xit7AEmeno
+  - url: "https://media.licdn.com/dms/image/C4E0BAQG5rLftUNFeCA/company-logo_200_200/0?e=2159024400&v=beta&t=9J1BkYEeDrcwVMHrmn5ss_a9n4AJhLik6xit7AEmeno"
     width: 400
     height: 400
     title: "Liulishuo"
-  - url: https://pbs.twimg.com/profile_images/1014956513046097920/hhhbd7-j_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1014956513046097920/hhhbd7-j_400x400.jpg"
     width: 400
     height: 400
     title: "Liulishuo"
 
 videos:
-  - url: https://www.youtube.com/watch?v=GF8KvuIJUvg
+  - url: "https://www.youtube.com/watch?v=GF8KvuIJUvg"
 
 secured: "LrCJFfcZBwjJiBkozJfJq1czjxCVjMDVtxLw1n/amahUmQQLnuIA/7yr0xdMXsae6y93AT/tXY7tZMv47En/hmrteWl6embbQFOHztrbtFqYf9qh4fT4Mns5okaAjUxihzmNad1iWizVsRAjUD1DVfkS+NMy9vere3nzu9J27A0EKbEN9Hfbe4ohQtRwUSOIa72B4i1OIOtB0V8mvUFHV35xbSKr9SVNBK4Wip+yCIUaxyb9CFc12rd957UFtd5k0fTgTDdqZx7CsJy0hNY/tg==;EzYvXdoVeu+HVFFyZtZe+A=="
 ---

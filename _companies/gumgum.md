@@ -7,15 +7,15 @@ heat: 693
 website: https://gumgum.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/gumgum/
+  url: "https://www.linkedin.com/company/gumgum/"
   followers: 12380
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/gumgum
+  url: "https://www.crunchbase.com/organization/gumgum"
 
 twitter:
-  username: GumGum
-  url: https://twitter.com/GumGum
+  username: "GumGum"
+  url: "https://twitter.com/GumGum"
   followers: 3415
 
 size: 201-500 employees
@@ -35,19 +35,19 @@ tags:
   - Image Recognition
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQH9Dn4NzqcY1A/company-logo_400_400/0?e=1582156800&v=beta&t=jwYIw1Xl0kEpLngCb4zeGy5dpPHqnVrDce3Y1P90T-Y
+  - url: "https://media.licdn.com/dms/image/C560BAQH9Dn4NzqcY1A/company-logo_400_400/0?e=1582156800&v=beta&t=jwYIw1Xl0kEpLngCb4zeGy5dpPHqnVrDce3Y1P90T-Y"
     width: 400
     height: 400
     title: "GumGum"
-  - url: https://pbs.twimg.com/profile_images/1149348634674286598/Ytc2ypMO_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1149348634674286598/Ytc2ypMO_400x400.jpg"
     width: 400
     height: 400
     title: "GumGum"
 
 videos:
-  - url: https://vimeo.com/179087754
+  - url: "https://vimeo.com/179087754"
     thumbnail:
-      url: https://i.vimeocdn.com/video/586908314_640.jpg
+      url: "https://i.vimeocdn.com/video/586908314_640.jpg"
       width: 640
       height: 360
       title: "GumGum"

@@ -7,15 +7,15 @@ heat: -213
 website: https://www.enlitic.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/enlitic/
+  url: "https://www.linkedin.com/company/enlitic/"
   followers: 3397
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/enlitic
+  url: "https://www.crunchbase.com/organization/enlitic"
 
 twitter:
-  username: enlitic
-  url: https://twitter.com/enlitic
+  username: "enlitic"
+  url: "https://twitter.com/enlitic"
   followers: 5943
 
 size: 11-50 employees
@@ -38,11 +38,11 @@ tags:
   - Cancer
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_400_400/0?e=1582156800&v=beta&t=xVhzoCxviENR66SYv5SP7gKxEV5vh1wqD8w_lXXOyvk
+  - url: "https://media.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_400_400/0?e=1582156800&v=beta&t=xVhzoCxviENR66SYv5SP7gKxEV5vh1wqD8w_lXXOyvk"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/824667244517023745/87O_qaK7_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/824667244517023745/87O_qaK7_400x400.jpg"
     width: 400
     height: 400
     title: "Enlitic"

@@ -7,15 +7,15 @@ heat: -2653
 website: https://www.speechmatics.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/speechmatics/
-  followers: 2697
+  url: "https://www.linkedin.com/company/speechmatics/"
+  followers: 2744
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/speechmatics
+  url: "https://www.crunchbase.com/organization/speechmatics"
 
 twitter:
-  username: Speechmatics
-  url: https://twitter.com/Speechmatics
+  username: "Speechmatics"
+  url: "https://twitter.com/Speechmatics"
   followers: 1210
 
 size: 51-200 employees
@@ -34,7 +34,7 @@ tags:
   - Speech Recognition
 
 images:
-  - url: https://pbs.twimg.com/profile_images/948994134924189696/iAmDOpwi_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/948994134924189696/iAmDOpwi_400x400.jpg"
     width: 400
     height: 400
     title: "Speechmatics"

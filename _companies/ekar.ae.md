@@ -7,15 +7,15 @@ heat: -20106
 website: https://ekar.ae/
 
 linkedin:
-  url: https://www.linkedin.com/company/ekar/
+  url: "https://www.linkedin.com/company/ekar/"
   followers: 6324
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/ekar
+  url: "https://www.crunchbase.com/organization/ekar"
 
 twitter:
-  username: MyEKar
-  url: https://twitter.com/MyEKar
+  username: "MyEKar"
+  url: "https://twitter.com/MyEKar"
   followers: 2557
 
 size: 11-50 employees
@@ -34,7 +34,7 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1046835653416116224/RLeImluE_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1046835653416116224/RLeImluE_400x400.jpg"
     width: 400
     height: 400
     title: "Ekar"

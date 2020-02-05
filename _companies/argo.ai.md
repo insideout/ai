@@ -7,15 +7,15 @@ heat: 208
 website: https://argo.ai
 
 linkedin:
-  url: https://www.linkedin.com/company/argo-ai/
-  followers: 23050
+  url: "https://www.linkedin.com/company/argo-ai/"
+  followers: 23051
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/argo-ai
+  url: "https://www.crunchbase.com/organization/argo-ai"
 
 twitter:
-  username: argoai
-  url: https://twitter.com/argoai
+  username: "argoai"
+  url: "https://twitter.com/argoai"
   followers: 229
 
 size: 501-1,000 employees
@@ -32,7 +32,7 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1098146632820973568/HZsk3Drw_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1098146632820973568/HZsk3Drw_400x400.png"
     width: 400
     height: 400
     title: "Argo AI"

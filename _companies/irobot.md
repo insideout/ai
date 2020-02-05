@@ -7,15 +7,15 @@ heat: -14059
 website: https://www.irobot.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/irobot/
-  followers: 44413
+  url: "https://www.linkedin.com/company/irobot/"
+  followers: 44414
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/irobot
+  url: "https://www.crunchbase.com/organization/irobot"
 
 twitter:
-  username: iRobot
-  url: https://twitter.com/iRobot
+  username: "iRobot"
+  url: "https://twitter.com/iRobot"
   followers: 143
 
 size: 501-1,000 employees
@@ -32,7 +32,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://pbs.twimg.com/profile_images/789182547641061377/XlCYQCGb_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/789182547641061377/XlCYQCGb_400x400.jpg"
     width: 400
     height: 400
     title: "iRobot"

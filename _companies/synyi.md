@@ -7,11 +7,11 @@ heat: 0
 website: https://www.synyi.com
 
 linkedin:
-  url: https://www.linkedin.com/company/synyi/
+  url: "https://www.linkedin.com/company/synyi/"
   followers: 86
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/synyi
+  url: "https://www.crunchbase.com/organization/synyi"
 
 size: 51-200 employees
 locations:
@@ -25,7 +25,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQGbos2p5p4c6A/company-logo_400_400/0?e=1582761600&v=beta&t=lAnrWhUNaVF5OW_9S0gogjKnugDwaT-fTRq_Wo4j-A8
+  - url: "https://media.licdn.com/dms/image/C560BAQGbos2p5p4c6A/company-logo_400_400/0?e=1582761600&v=beta&t=lAnrWhUNaVF5OW_9S0gogjKnugDwaT-fTRq_Wo4j-A8"
     width: 400
     height: 400
     title: "logo"

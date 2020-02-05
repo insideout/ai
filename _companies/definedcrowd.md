@@ -7,15 +7,15 @@ heat: 2531
 website: https://www.definedcrowd.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/definedcrowd/
-  followers: 5559
+  url: "https://www.linkedin.com/company/definedcrowd/"
+  followers: 5560
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/definedcrowd
+  url: "https://www.crunchbase.com/organization/definedcrowd"
 
 twitter:
-  username: definedcrowd
-  url: https://www.twitter.com/definedcrowd
+  username: "definedcrowd"
+  url: "https://www.twitter.com/definedcrowd"
   followers: 8385
 
 size: 51-200 employees
@@ -33,11 +33,11 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://media.licdn.com/dms/image/C510BAQFJWfl9KtlUTA/company-logo_400_400/0?e=1582761600&v=beta&t=TdouNyb1ljxIXPaVql4xx7MpXB5WHwSeWqqh2zG_cYU
+  - url: "https://media.licdn.com/dms/image/C510BAQFJWfl9KtlUTA/company-logo_400_400/0?e=1582761600&v=beta&t=TdouNyb1ljxIXPaVql4xx7MpXB5WHwSeWqqh2zG_cYU"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1106433399873429506/GrIncNRj_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1106433399873429506/GrIncNRj_400x400.png"
     width: 400
     height: 400
     title: "DefinedCrowd"

@@ -5,7 +5,7 @@ type: "profile"
 heat: 0
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/iov42
+  url: "https://www.crunchbase.com/organization/iov42"
 
 
 topics:

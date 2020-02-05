@@ -7,11 +7,11 @@ heat: 2
 website: https://www.smartenspaces.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/smarten-spaces/
-  followers: 632
+  url: "https://www.linkedin.com/company/smarten-spaces/"
+  followers: 665
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/smarten-spaces
+  url: "https://www.crunchbase.com/organization/smarten-spaces"
 
 size: 51-200 employees
 yearFounded: 2017
@@ -26,7 +26,7 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQGoTY8R2xnQ7w/company-logo_400_400/0?e=1582156800&v=beta&t=DGZNycK3SsO_5n-pYA6E7tc43lnadIEtmIjaFU6RqcI
+  - url: "https://media.licdn.com/dms/image/C560BAQGoTY8R2xnQ7w/company-logo_400_400/0?e=1582156800&v=beta&t=DGZNycK3SsO_5n-pYA6E7tc43lnadIEtmIjaFU6RqcI"
     width: 400
     height: 400
     title: "logo"

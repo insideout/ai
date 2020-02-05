@@ -7,21 +7,22 @@ heat: -304
 website: https://www.moveworks.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/moveworksai/
-  followers: 1565
+  url: "https://www.linkedin.com/company/moveworksai/"
+  followers: 1646
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/moveworks
+  url: "https://www.crunchbase.com/organization/moveworks"
 
 twitter:
-  username: moveworks
-  url: https://twitter.com/moveworks
+  username: "moveworks"
+  url: "https://twitter.com/moveworks"
   followers: 536
 
 size: 51-200 employees
 yearFounded: 2016
 locations:
   - Mountain View, CA
+  - Mountain View, California
 
 funding:
   status: Early Stage Venture
@@ -30,11 +31,11 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQFiEwMbt6hJrQ/company-logo_400_400/0?e=1582761600&v=beta&t=vzUQTbg4OvtpikZG1jBFwIwSdrzF3O77pdkI3frO2pA
+  - url: "https://media.licdn.com/dms/image/C560BAQFiEwMbt6hJrQ/company-logo_400_400/0?e=1582761600&v=beta&t=vzUQTbg4OvtpikZG1jBFwIwSdrzF3O77pdkI3frO2pA"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1121786360917106688/FLk_O3ki_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1121786360917106688/FLk_O3ki_400x400.jpg"
     width: 400
     height: 400
     title: "Moveworks"

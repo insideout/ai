@@ -7,15 +7,15 @@ heat: 292
 website: https://netguardians.ch/
 
 linkedin:
-  url: https://www.linkedin.com/company/netguardians/
-  followers: 3735
+  url: "https://www.linkedin.com/company/netguardians/"
+  followers: 3764
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/netguardians
+  url: "https://www.crunchbase.com/organization/netguardians"
 
 twitter:
-  username: netguardians
-  url: https://twitter.com/netguardians
+  username: "netguardians"
+  url: "https://twitter.com/netguardians"
   followers: 1352
 
 size: 51-200 employees
@@ -34,11 +34,11 @@ tags:
   - FinTech
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQFqlh02WuY6yw/company-logo_400_400/0?e=1582761600&v=beta&t=fjUvrMnG_umPtaGbo4BfKozVJlcLk3DXcs8gCwcLXnA
+  - url: "https://media.licdn.com/dms/image/C4D0BAQFqlh02WuY6yw/company-logo_400_400/0?e=1582761600&v=beta&t=fjUvrMnG_umPtaGbo4BfKozVJlcLk3DXcs8gCwcLXnA"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/755680998478741504/NpmYIAXx_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/755680998478741504/NpmYIAXx_400x400.jpg"
     width: 400
     height: 400
     title: "NetGuardians"

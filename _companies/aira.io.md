@@ -9,15 +9,15 @@ heat: 65
 website: https://aira.io/
 
 linkedin:
-  url: https://www.linkedin.com/company/airaio/
+  url: "https://www.linkedin.com/company/airaio/"
   followers: 2543
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/aira
+  url: "https://www.crunchbase.com/organization/aira"
 
 twitter:
-  username: airaio
-  url: https://twitter.com/airaio
+  username: "airaio"
+  url: "https://twitter.com/airaio"
   followers: 72
 
 size: 11-50 employees
@@ -36,11 +36,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQFJie4SeRm7AQ/company-logo_400_400/0?e=1582761600&v=beta&t=4G1csXenG6hOEUr1bxlM2gj-h3ZTtBCi9I3LDWuKFC8
+  - url: "https://media.licdn.com/dms/image/C4D0BAQFJie4SeRm7AQ/company-logo_400_400/0?e=1582761600&v=beta&t=4G1csXenG6hOEUr1bxlM2gj-h3ZTtBCi9I3LDWuKFC8"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1045184013072121856/k9eIX6oV_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1045184013072121856/k9eIX6oV_400x400.jpg"
     width: 400
     height: 400
     title: "Aira Tech Corp"

@@ -7,15 +7,15 @@ heat: 1
 website: https://www.salesforce.com/products/platform/solutions/ai-services/
 
 linkedin:
-  url: https://www.linkedin.com/company/salesforce/
-  followers: 1838331
+  url: "https://www.linkedin.com/company/salesforce/"
+  followers: 1879543
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/salesforce
+  url: "https://www.crunchbase.com/organization/salesforce"
 
 twitter:
-  username: salesforce
-  url: https://twitter.com/salesforce
+  username: "salesforce"
+  url: "https://twitter.com/salesforce"
   followers: 5015
 
 size: 10,001+ employees
@@ -27,7 +27,7 @@ topics:
   - AI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1151553354377469952/b9bSaSr5_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1151553354377469952/b9bSaSr5_400x400.jpg"
     width: 400
     height: 400
     title: "Salesforce"

@@ -7,16 +7,16 @@ heat: -724
 website: https://feedzai.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/feedzai
-  followers: 19520
+  url: "https://www.linkedin.com/company/feedzai"
+  followers: 19521
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/feedzai
+  url: "https://www.crunchbase.com/organization/feedzai"
 
 twitter:
-  username: feedzai
-  url: https://twitter.com/feedzai
-  followers: 1133
+  username: "feedzai"
+  url: "https://twitter.com/feedzai"
+  followers: 1134
 
 size: 201-500 employees
 yearFounded: 2009
@@ -30,11 +30,11 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQHiwjKZmD2YAA/company-logo_400_400/0?e=1582761600&v=beta&t=XRei34U2A8qn_rUN5M4zemRPjMSYW88Z9atunCd5GgI
+  - url: "https://media.licdn.com/dms/image/C4E0BAQHiwjKZmD2YAA/company-logo_400_400/0?e=1582761600&v=beta&t=XRei34U2A8qn_rUN5M4zemRPjMSYW88Z9atunCd5GgI"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1009725598556704768/8ntZKLrG_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1009725598556704768/8ntZKLrG_400x400.jpg"
     width: 400
     height: 400
     title: "Feedzai"

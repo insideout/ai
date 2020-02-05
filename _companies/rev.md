@@ -7,21 +7,22 @@ heat: 1842
 website: https://www.rev.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/rev-com
-  followers: 8613
+  url: "https://www.linkedin.com/company/rev-com"
+  followers: 8675
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/rev
+  url: "https://www.crunchbase.com/organization/rev"
 
 twitter:
-  username: rev
-  url: https://twitter.com/rev
+  username: "rev"
+  url: "https://twitter.com/rev"
   followers: 4937
 
 size: 51-200 employees
 yearFounded: 2010
 locations:
   - Austin, TX
+  - Austin, Texas
 
 funding:
   status: Early Stage Venture
@@ -30,11 +31,11 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQGzWzZV6E4Qhg/company-logo_400_400/0?e=1582761600&v=beta&t=GLaFzzr4cKqRBm7l_AsKn0dFwA5ZuPpuoYDJDVNf670
+  - url: "https://media.licdn.com/dms/image/C4E0BAQGzWzZV6E4Qhg/company-logo_400_400/0?e=1582761600&v=beta&t=GLaFzzr4cKqRBm7l_AsKn0dFwA5ZuPpuoYDJDVNf670"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1110881175193546759/RQHj5B0z_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1110881175193546759/RQHj5B0z_400x400.png"
     width: 400
     height: 400
     title: "Rev.com"

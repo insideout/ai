@@ -7,21 +7,22 @@ heat: 197
 website: https://www.pony.ai
 
 linkedin:
-  url: https://www.linkedin.com/company/pony-ai/
-  followers: 7777
+  url: "https://www.linkedin.com/company/pony-ai/"
+  followers: 7911
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/pony-ai
+  url: "https://www.crunchbase.com/organization/pony-ai"
 
 twitter:
-  username: PonyAI_tech
-  url: https://twitter.com/PonyAI_tech
+  username: "PonyAI_tech"
+  url: "https://twitter.com/PonyAI_tech"
   followers: 511
 
 size: 51-200 employees
 yearFounded: 2016
 locations:
   - Fremont, CA
+  - Fremont, California
 
 funding:
   status: Early Stage Venture
@@ -34,11 +35,11 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQGdX2Q612KGNQ/company-logo_400_400/0?e=1582156800&v=beta&t=DaPiOr24afB3UW2sAaZ7e1CwfCBvWW-ShEBb9pS0XGo
+  - url: "https://media.licdn.com/dms/image/C560BAQGdX2Q612KGNQ/company-logo_400_400/0?e=1582156800&v=beta&t=DaPiOr24afB3UW2sAaZ7e1CwfCBvWW-ShEBb9pS0XGo"
     width: 400
     height: 400
     title: "Pony.ai"
-  - url: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  - url: "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png"
     width: 400
     height: 400
     title: "Pony.ai"

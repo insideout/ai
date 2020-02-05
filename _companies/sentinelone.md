@@ -7,21 +7,22 @@ heat: 422
 website: https://www.sentinelone.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/2886771
-  followers: 28049
+  url: "https://www.linkedin.com/company/2886771"
+  followers: 28543
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/sentinel
+  url: "https://www.crunchbase.com/organization/sentinel"
 
 twitter:
-  username: SentinelOne
-  url: https://twitter.com/SentinelOne
+  username: "SentinelOne"
+  url: "https://twitter.com/SentinelOne"
   followers: 2263
 
 size: 201-500 employees
 yearFounded: 2013
 locations:
   - Mountain View, CA
+  - Mountain View, California
 
 funding:
   status: Late Stage Venture
@@ -30,11 +31,11 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQEw-a3g3SOsvg/company-logo_400_400/0?e=1582761600&v=beta&t=gNu-nr16OXJB1woK6ZJcoMJe8MPQcx8XXGx-1QbHcwc
+  - url: "https://media.licdn.com/dms/image/C560BAQEw-a3g3SOsvg/company-logo_400_400/0?e=1582761600&v=beta&t=gNu-nr16OXJB1woK6ZJcoMJe8MPQcx8XXGx-1QbHcwc"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1032033528324603904/ejV1uR7X_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1032033528324603904/ejV1uR7X_400x400.jpg"
     width: 400
     height: 400
     title: "SentinelOne"

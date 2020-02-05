@@ -7,21 +7,22 @@ heat: 173
 website: https://www.nauto.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/nauto/
-  followers: 6696
+  url: "https://www.linkedin.com/company/nauto/"
+  followers: 6785
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/nauto-inc
+  url: "https://www.crunchbase.com/organization/nauto-inc"
 
 twitter:
-  username: NautoInc
-  url: https://twitter.com/NautoInc
+  username: "NautoInc"
+  url: "https://twitter.com/NautoInc"
   followers: 1920
 
 size: 51-200 employees
 yearFounded: 2015
 locations:
   - Palo Alto, CA
+  - Palo Alto, California
 
 funding:
   status: Early Stage Venture
@@ -34,11 +35,11 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQGkusLVnmhocA/company-logo_400_400/0?e=1582156800&v=beta&t=ka-s9HGCUTrYA7ndlQNYEiQnS4xL-XIDCNUF_KEQllY
+  - url: "https://media.licdn.com/dms/image/C4E0BAQGkusLVnmhocA/company-logo_400_400/0?e=1582156800&v=beta&t=ka-s9HGCUTrYA7ndlQNYEiQnS4xL-XIDCNUF_KEQllY"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/998935117614608385/FWOiFezQ_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/998935117614608385/FWOiFezQ_400x400.jpg"
     width: 400
     height: 400
     title: "Nauto"

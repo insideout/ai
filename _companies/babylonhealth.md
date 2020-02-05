@@ -7,16 +7,16 @@ heat: 19628
 website: https://www.babylonhealth.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/babylonhealth/
+  url: "https://www.linkedin.com/company/babylonhealth/"
   followers: 30918
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/babylon-health
+  url: "https://www.crunchbase.com/organization/babylon-health"
 
 twitter:
-  username: babylonhealth
-  url: https://twitter.com/babylonhealth
-  followers: 49471
+  username: "babylonhealth"
+  url: "https://twitter.com/babylonhealth"
+  followers: 49470
 
 size: 1,001-5,000 employees
 yearFounded: 2013
@@ -32,11 +32,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQFiKAgqIPCxHw/company-logo_400_400/0?e=1574899200&v=beta&t=DjJ0Fcg47JZygEeZ_qkW8PoyVazFhLym8t85WdvyrqM
+  - url: "https://media.licdn.com/dms/image/C4D0BAQFiKAgqIPCxHw/company-logo_400_400/0?e=1574899200&v=beta&t=DjJ0Fcg47JZygEeZ_qkW8PoyVazFhLym8t85WdvyrqM"
     width: 400
     height: 400
     title: "Babylon Health"
-  - url: https://pbs.twimg.com/profile_images/872382295134666752/dyQF2x9K_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/872382295134666752/dyQF2x9K_400x400.jpg"
     width: 400
     height: 400
     title: "Babylon Health"

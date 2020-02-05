@@ -7,11 +7,11 @@ heat: 691
 website: https://rul.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/rulai-inc/
-  followers: 1777
+  url: "https://www.linkedin.com/company/rulai-inc/"
+  followers: 1793
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/rulai
+  url: "https://www.crunchbase.com/organization/rulai"
 
 size: 11-50 employees
 yearFounded: 2016
@@ -21,6 +21,12 @@ locations:
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFiJrA9xb7Bbg/company-logo_200_200/0?e=1588809600&v=beta&t=03dnAYYVp-UR7p4sL3Qhw-UG3nWEcO7oi5IAaaQwhck"
+    width: 400
+    height: 400
+    title: "logo"
 
 secured: "R8vYo/GDwaPlkwKy/a5sbFSUQq2I9TaYG/IvpDgjpoX9Amrc5P0nI5BTx4VEhXHOeN9u1llf70fRG4AkRQSCfZGmoY+Fm7HrVxpS4hTFRrFqaga5tjeuaMeaY0Ky7isgx67YjW6JtZNH8X6rEYGBfF8hPynIRQnLTjeoJADvZU3czqbbYie9cEA4BLoxkm/vrjMRdbG3TzUOrIekteKRO46eAaleBHu2xeeb2VJuJ7RIvo22JhszKU6RD+snk0rOHSeNQDXlCUJ6cbIErZcZDg==;95WMouV1Rj+bbY+4fOJnDA=="
 ---

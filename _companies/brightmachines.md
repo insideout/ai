@@ -7,15 +7,15 @@ heat: 125
 website: https://www.brightmachines.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/bright-machines/
-  followers: 5112
+  url: "https://www.linkedin.com/company/bright-machines/"
+  followers: 5113
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/bright-machines
+  url: "https://www.crunchbase.com/organization/bright-machines"
 
 twitter:
-  username: bright_machines
-  url: https://twitter.com/bright_machines
+  username: "bright_machines"
+  url: "https://twitter.com/bright_machines"
   followers: 806
 
 size: 201-500 employees
@@ -32,17 +32,17 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQEpxLmBz7I4CQ/company-logo_400_400/0?e=1582761600&v=beta&t=pqcODpDA8SUtRt9SgOdtN3_sufkIiZ98MZ850wvylOc
+  - url: "https://media.licdn.com/dms/image/C4E0BAQEpxLmBz7I4CQ/company-logo_400_400/0?e=1582761600&v=beta&t=pqcODpDA8SUtRt9SgOdtN3_sufkIiZ98MZ850wvylOc"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1183853828870823936/b0lkOMVV_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1183853828870823936/b0lkOMVV_400x400.jpg"
     width: 400
     height: 400
     title: "Bright Machines"
 
 videos:
-  - url: https://www.youtube.com/watch?v=sU4h4V4pDi4
+  - url: "https://www.youtube.com/watch?v=sU4h4V4pDi4"
 
 secured: "pOaDq8+zxThe2dnOsH/45c6c0741ihduKZ0pGXONKT2NuqLKHERYBogm29rVGwrEafV8kVY4l2L3FIy7iry75bcQZ8lnIvhJwMrhikhQf20nC9ChE7yglQtmUhLXDrOEXQz/UgiqjEMyDeDidg7DJKR7Jx9MQ1r0xJrDNcrUhF/Cf5czGZNgDaG4ILFcgpGVXfoo/B+Mw0YzWq2poQx7r0ghg8CPwex9f/bhvle9UpnkQM0pZtPWw+nEzjvXv0g1ZroJrvPUdd1i1y71F2maTA==;3gZExLppZeLqGFmht+qX7A=="
 ---

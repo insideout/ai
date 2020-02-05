@@ -7,15 +7,15 @@ heat: 252
 website: https://www.climacell.co/
 
 linkedin:
-  url: https://www.linkedin.com/company/climacell
+  url: "https://www.linkedin.com/company/climacell"
   followers: 3167
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/climacell
+  url: "https://www.crunchbase.com/organization/climacell"
 
 twitter:
-  username: weatherrevealed
-  url: https://twitter.com/weatherrevealed
+  username: "weatherrevealed"
+  url: "https://twitter.com/weatherrevealed"
   followers: 1356
 
 size: 51-200 employees
@@ -30,11 +30,11 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQH6-yIq3HwSMw/company-logo_400_400/0?e=1582761600&v=beta&t=zhzUoyixRcRVi87dVY54OIXZCF7sMGIfXb9rkyQzL7A
+  - url: "https://media.licdn.com/dms/image/C560BAQH6-yIq3HwSMw/company-logo_400_400/0?e=1582761600&v=beta&t=zhzUoyixRcRVi87dVY54OIXZCF7sMGIfXb9rkyQzL7A"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/784657543515795456/dvdcBOfn_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/784657543515795456/dvdcBOfn_400x400.jpg"
     width: 400
     height: 400
     title: "ClimaCell"

@@ -7,15 +7,15 @@ heat: 1727
 website: https://parashift.io/
 
 linkedin:
-  url: https://www.linkedin.com/company/parashiftag/
-  followers: 358
+  url: "https://www.linkedin.com/company/parashiftag/"
+  followers: 376
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/parashift-ag
+  url: "https://www.crunchbase.com/organization/parashift-ag"
 
 twitter:
-  username: parashift_ai
-  url: https://twitter.com/parashift_ai
+  username: "parashift_ai"
+  url: "https://twitter.com/parashift_ai"
   followers: 5771
 
 size: 11-50 employees
@@ -34,11 +34,11 @@ tags:
   - FinTech
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQHNMss1hN1xrw/company-logo_400_400/0?e=1582761600&v=beta&t=CTW6V_QjET5euIkK6VmqOZpMW3OjHF1X6_aadlGiVs4
+  - url: "https://media.licdn.com/dms/image/C560BAQHNMss1hN1xrw/company-logo_400_400/0?e=1582761600&v=beta&t=CTW6V_QjET5euIkK6VmqOZpMW3OjHF1X6_aadlGiVs4"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg"
     width: 400
     height: 400
     title: "Parashift AG"

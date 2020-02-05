@@ -7,11 +7,11 @@ heat: 38
 website: https://www.artiq.eu/
 
 linkedin:
-  url: https://www.linkedin.com/company/artiq-eu
+  url: "https://www.linkedin.com/company/artiq-eu"
   followers: 651
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/artiq
+  url: "https://www.crunchbase.com/organization/artiq"
 
 size: 2-10 employees
 yearFounded: 2019
@@ -26,7 +26,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQEVVKVOLgh_dg/company-logo_400_400/0?e=1582761600&v=beta&t=RmLBHfbNqEZOumZR_NTv2TryoRWSOpmejhbBdYjHS-M
+  - url: "https://media.licdn.com/dms/image/C4D0BAQEVVKVOLgh_dg/company-logo_400_400/0?e=1582761600&v=beta&t=RmLBHfbNqEZOumZR_NTv2TryoRWSOpmejhbBdYjHS-M"
     width: 400
     height: 400
     title: "logo"

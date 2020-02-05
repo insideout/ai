@@ -7,15 +7,15 @@ heat: -3106
 website: http://fetchrobotics.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/fetch-robotics/
-  followers: 12154
+  url: "https://www.linkedin.com/company/fetch-robotics/"
+  followers: 12155
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/fetch-robotics
+  url: "https://www.crunchbase.com/organization/fetch-robotics"
 
 twitter:
-  username: fetchrobotics
-  url: https://twitter.com/fetchrobotics
+  username: "fetchrobotics"
+  url: "https://twitter.com/fetchrobotics"
   followers: 754
 
 size: 51-200 employees
@@ -32,11 +32,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQFf4Lf05VenpQ/company-logo_400_400/0?e=1582761600&v=beta&t=GM54zfM9-L9rMEnBHtwFAPz206GKoI3sDUTJlKWytIA
+  - url: "https://media.licdn.com/dms/image/C4E0BAQFf4Lf05VenpQ/company-logo_400_400/0?e=1582761600&v=beta&t=GM54zfM9-L9rMEnBHtwFAPz206GKoI3sDUTJlKWytIA"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1013807663363153920/0tkJmhI7_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1013807663363153920/0tkJmhI7_400x400.jpg"
     width: 400
     height: 400
     title: "Fetch Robotics"

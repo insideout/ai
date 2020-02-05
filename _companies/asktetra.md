@@ -7,11 +7,11 @@ heat: 65
 website: https://t.co/Rou5HQzEBc
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/tetra
+  url: "https://www.crunchbase.com/organization/tetra"
 
 twitter:
-  username: asktetra
-  url: https://twitter.com/asktetra
+  username: "asktetra"
+  url: "https://twitter.com/asktetra"
   followers: 5245
 
 
@@ -27,7 +27,7 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1093257442538844161/AmTswaQh_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1093257442538844161/AmTswaQh_400x400.jpg"
     width: 400
     height: 400
     title: "Tetra"

@@ -7,15 +7,15 @@ heat: 9119
 website: https://www.dataminr.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/dataminr
+  url: "https://www.linkedin.com/company/dataminr"
   followers: 38135
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/dataminr
+  url: "https://www.crunchbase.com/organization/dataminr"
 
 twitter:
-  username: dataminr
-  url: https://twitter.com/dataminr
+  username: "dataminr"
+  url: "https://twitter.com/dataminr"
   followers: 24272
 
 size: 201-500 employees
@@ -31,11 +31,11 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQE4xkg2wK6Wfg/company-logo_400_400/0?e=1582761600&v=beta&t=pKo-rKlgRO4gPSjfcl9FilwkfU1W45RCg2MgJYU6UMc
+  - url: "https://media.licdn.com/dms/image/C560BAQE4xkg2wK6Wfg/company-logo_400_400/0?e=1582761600&v=beta&t=pKo-rKlgRO4gPSjfcl9FilwkfU1W45RCg2MgJYU6UMc"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/816359823901982720/L0dyQMfw_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/816359823901982720/L0dyQMfw_400x400.jpg"
     width: 400
     height: 400
     title: "Dataminr"

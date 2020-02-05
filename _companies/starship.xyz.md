@@ -7,21 +7,22 @@ heat: 2622
 website: https://www.starship.xyz/
 
 linkedin:
-  url: https://www.linkedin.com/company/starshiptechnologies/
-  followers: 6989
+  url: "https://www.linkedin.com/company/starshiptechnologies/"
+  followers: 7181
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/starship-technologies
+  url: "https://www.crunchbase.com/organization/starship-technologies"
 
 twitter:
-  username: StarshipRobots
-  url: https://twitter.com/StarshipRobots
-  followers: 8092
+  username: "StarshipRobots"
+  url: "https://twitter.com/StarshipRobots"
+  followers: 8091
 
 size: 201-500 employees
 yearFounded: 2014
 locations:
   - San Francisco, CA
+  - San Francisco, California
 
 funding:
   status: Early Stage Venture
@@ -32,15 +33,15 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQGMNJJGnygaVw/company-logo_400_400/0?e=1574899200&v=beta&t=A7uN5avEPTsRDxqlQt-P1jb4PmYXDgT304lio8zfd3s
+  - url: "https://media.licdn.com/dms/image/C4E0BAQGMNJJGnygaVw/company-logo_400_400/0?e=1574899200&v=beta&t=A7uN5avEPTsRDxqlQt-P1jb4PmYXDgT304lio8zfd3s"
     width: 400
     height: 400
     title: "Starship Technologies"
-  - url: https://media.licdn.com/dms/image/C4E1BAQE0OUGlO6VZbg/company-background_10000/0?e=1566792000&v=beta&t=lY6j_ekBK-skFcXd6y5giPeCQYa0cGslBlZY3tkRfGY
+  - url: "https://media.licdn.com/dms/image/C4E1BAQE0OUGlO6VZbg/company-background_10000/0?e=1566792000&v=beta&t=lY6j_ekBK-skFcXd6y5giPeCQYa0cGslBlZY3tkRfGY"
     width: 3708
     height: 2472
     title: "Starship Technologies"
-  - url: https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png"
     width: 400
     height: 400
     title: "Starship Technologies"

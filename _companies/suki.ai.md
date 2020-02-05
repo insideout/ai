@@ -7,21 +7,22 @@ heat: 347
 website: https://www.suki.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/SukiHQ
-  followers: 14451
+  url: "https://www.linkedin.com/company/SukiHQ"
+  followers: 14481
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/sukihq
+  url: "https://www.crunchbase.com/organization/sukihq"
 
 twitter:
-  username: SukiHQ
-  url: https://www.twitter.com/SukiHQ
+  username: "SukiHQ"
+  url: "https://www.twitter.com/SukiHQ"
   followers: 1374
 
 size: 11-50 employees
 yearFounded: 2017
 locations:
   - Redwood City, CA
+  - Redwood City, California
 
 funding:
   status: Early Stage Venture
@@ -33,11 +34,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQEYEMprol7fTg/company-logo_400_400/0?e=1582761600&v=beta&t=1dkI9YPAwTF0lsYTRsy6PCnVE8_E1k-Sz6qTkZSltOg
+  - url: "https://media.licdn.com/dms/image/C560BAQEYEMprol7fTg/company-logo_400_400/0?e=1582761600&v=beta&t=1dkI9YPAwTF0lsYTRsy6PCnVE8_E1k-Sz6qTkZSltOg"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1168624746994503682/icwxr58I_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1168624746994503682/icwxr58I_400x400.jpg"
     width: 400
     height: 400
     title: "Suki"

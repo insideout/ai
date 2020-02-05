@@ -9,15 +9,15 @@ heat: 20
 website: https://www.tusimple.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/tusimple/
-  followers: 6965
+  url: "https://www.linkedin.com/company/tusimple/"
+  followers: 7150
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/tusimple-llc
+  url: "https://www.crunchbase.com/organization/tusimple-llc"
 
 twitter:
-  username: tusimpleai
-  url: https://twitter.com/tusimpleai
+  username: "tusimpleai"
+  url: "https://twitter.com/tusimpleai"
   followers: 1815
 
 size: 201-500 employees
@@ -33,15 +33,15 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQHSiBcbj6ZW0A/company-logo_400_400/0?e=1574899200&v=beta&t=-SM9ldToZ63XElJ_J4CvFVDG4U9u2k2eCt-KQSRpTO8
+  - url: "https://media.licdn.com/dms/image/C560BAQHSiBcbj6ZW0A/company-logo_400_400/0?e=1574899200&v=beta&t=-SM9ldToZ63XElJ_J4CvFVDG4U9u2k2eCt-KQSRpTO8"
     width: 400
     height: 400
     title: "TuSimple"
-  - url: https://media.licdn.com/dms/image/C561BAQF3kfedxtCvDw/company-background_10000/0?e=2159024400&v=beta&t=PldEJVVRw8A1zXfSsP_hqMChtlTeU3TOk20PiSCve-Y
+  - url: "https://media.licdn.com/dms/image/C561BAQF3kfedxtCvDw/company-background_10000/0?e=2159024400&v=beta&t=PldEJVVRw8A1zXfSsP_hqMChtlTeU3TOk20PiSCve-Y"
     width: 2448
     height: 1633
     title: "TuSimple"
-  - url: https://pbs.twimg.com/profile_images/1097980196077002753/BdkXxRKs_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1097980196077002753/BdkXxRKs_400x400.png"
     width: 400
     height: 400
     title: "TuSimple"

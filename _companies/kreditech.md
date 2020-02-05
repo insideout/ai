@@ -7,38 +7,39 @@ heat: 754
 website: http://www.kreditech.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/kreditech/
-  followers: 7091
+  url: "https://www.linkedin.com/company/kreditech/"
+  followers: 7158
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/kreditech
+  url: "https://www.crunchbase.com/organization/kreditech"
 
 twitter:
-  username: Kreditech
-  url: https://twitter.com/Kreditech
+  username: "Kreditech"
+  url: "https://twitter.com/Kreditech"
   followers: 1946
 
 size: 201-500 employees
 yearFounded: 2012
 locations:
   - Hamburg, Germany
+  - Hamburg, Hamburg
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQH5u6Ixvpa6cA/company-logo_400_400/0?e=1582761600&v=beta&t=RhW1cKJDp9VPtk3McDaSUAMaDD9qIVZhTfR9PdK94W0
+  - url: "https://media.licdn.com/dms/image/C4E0BAQH5u6Ixvpa6cA/company-logo_400_400/0?e=1582761600&v=beta&t=RhW1cKJDp9VPtk3McDaSUAMaDD9qIVZhTfR9PdK94W0"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/824482111969112064/Za5Xl1kn_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/824482111969112064/Za5Xl1kn_400x400.jpg"
     width: 400
     height: 400
     title: "Kreditech"
 
 videos:
-  - url: https://www.youtube.com/watch?v=Z57UVGxt_6E
+  - url: "https://www.youtube.com/watch?v=Z57UVGxt_6E"
 
 secured: "VohUoa4Din7a1/xGGqG1GWRUpg4xSy01IhirZ3eIkEixaqdcc8gfA17FjL8CQReM/04Gh5tSXaq5xwHtDR9WnAkzlLU68iaM58G+27Opm1GfUo7/hfW6MmQFkTRtDwmHsxTrnjXeF8XgyCL53ftmyAK5h2D7zTagg6/phdUkhOd8vd1ggTIjviMTTNRNoZ66yWJpL3dZsFzZxTbEq6wK5BZpZ0NpnsKi00vWSuaZT8NKbgCEy1zJXs+3h5qxvC+S5GvIIZ7mSXIsTQatJy+lBA==;aErV61jwTfq11eigtaMz2Q=="
 ---

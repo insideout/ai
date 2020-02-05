@@ -7,15 +7,15 @@ heat: 50
 website: https://www.bigpanda.io/
 
 linkedin:
-  url: https://www.linkedin.com/company/bigpanda
+  url: "https://www.linkedin.com/company/bigpanda"
   followers: 5498
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/bigpanda
+  url: "https://www.crunchbase.com/organization/bigpanda"
 
 twitter:
-  username: bigpanda
-  url: https://twitter.com/bigpanda
+  username: "bigpanda"
+  url: "https://twitter.com/bigpanda"
   followers: 205
 
 size: 51-200 employees
@@ -31,11 +31,11 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQFBZElbuqKsEw/company-logo_400_400/0?e=1582761600&v=beta&t=flBel0yTeUNSUWqNtpnl2uySSwfqZuR7xJgZWfTJ1qM
+  - url: "https://media.licdn.com/dms/image/C560BAQFBZElbuqKsEw/company-logo_400_400/0?e=1582761600&v=beta&t=flBel0yTeUNSUWqNtpnl2uySSwfqZuR7xJgZWfTJ1qM"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/911950297857089536/imEQoyim_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/911950297857089536/imEQoyim_400x400.jpg"
     width: 400
     height: 400
     title: "BigPanda"

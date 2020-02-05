@@ -7,16 +7,16 @@ heat: 1322
 website: https://www.algorithmia.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/algorithmia-inc
+  url: "https://www.linkedin.com/company/algorithmia-inc"
   followers: 4610
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/algorithmia
+  url: "https://www.crunchbase.com/organization/algorithmia"
 
 twitter:
-  username: Algorithmia
-  url: https://twitter.com/Algorithmia
-  followers: 3670
+  username: "Algorithmia"
+  url: "https://twitter.com/Algorithmia"
+  followers: 22
 
 size: 11-50 employees
 yearFounded: 2013
@@ -31,11 +31,11 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQHrwkW4z_etGw/company-logo_400_400/0?e=1582761600&v=beta&t=Ws8YqAPeIZJfm-9AUhoA47oNesVDg-ftotcyEVZ2zOY
+  - url: "https://media.licdn.com/dms/image/C4D0BAQHrwkW4z_etGw/company-logo_400_400/0?e=1582761600&v=beta&t=Ws8YqAPeIZJfm-9AUhoA47oNesVDg-ftotcyEVZ2zOY"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/647436657956818944/Qx6rgmxe_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/647436657956818944/Qx6rgmxe_400x400.png"
     width: 400
     height: 400
     title: "Algorithmia"

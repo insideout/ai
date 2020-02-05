@@ -7,15 +7,15 @@ heat: -655
 website: https://maymobility.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/maymobility
-  followers: 3944
+  url: "https://www.linkedin.com/company/maymobility"
+  followers: 4030
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/may-mobility
+  url: "https://www.crunchbase.com/organization/may-mobility"
 
 twitter:
-  username: May_Mobility
-  url: https://twitter.com/May_Mobility
+  username: "May_Mobility"
+  url: "https://twitter.com/May_Mobility"
   followers: 784
 
 size: 51-200 employees
@@ -35,11 +35,11 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQEqjQj5vTnoPw/company-logo_200_200/0?e=2159024400&v=beta&t=vXfJyJbWguyc32MRsHCloOLLsLhIBvugeVJ1HBkY7E4
+  - url: "https://media.licdn.com/dms/image/C560BAQEqjQj5vTnoPw/company-logo_200_200/0?e=2159024400&v=beta&t=vXfJyJbWguyc32MRsHCloOLLsLhIBvugeVJ1HBkY7E4"
     width: 400
     height: 400
     title: "May Mobility"
-  - url: https://pbs.twimg.com/profile_images/576425874452443136/9r1h0nc8_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/576425874452443136/9r1h0nc8_400x400.png"
     width: 400
     height: 400
     title: "May Mobility"

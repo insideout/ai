@@ -7,15 +7,15 @@ heat: 11
 website: https://www.aibrain.com
 
 linkedin:
-  url: https://www.linkedin.com/company/10234976
+  url: "https://www.linkedin.com/company/10234976"
   followers: 1028
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/aibrain
+  url: "https://www.crunchbase.com/organization/aibrain"
 
 twitter:
-  username: aibraininc
-  url: https://twitter.com/aibraininc
+  username: "aibraininc"
+  url: "https://twitter.com/aibraininc"
   followers: 173
 
 size: 11-50 employees
@@ -28,11 +28,11 @@ topics:
   - AI
 
 images:
-  - url: https://media-exp1.licdn.com/dms/image/C560BAQEa61lSxBjjTg/company-logo_200_200/0?e=1587600000&v=beta&t=pK3ykymLHGdTO3SYP51_gLwVOeNnBGKNEYFHnnxeX2A
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEa61lSxBjjTg/company-logo_200_200/0?e=1587600000&v=beta&t=pK3ykymLHGdTO3SYP51_gLwVOeNnBGKNEYFHnnxeX2A"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/512355180612825088/PSK4fOEZ_400x400.jpeg
+  - url: "https://pbs.twimg.com/profile_images/512355180612825088/PSK4fOEZ_400x400.jpeg"
     width: 400
     height: 400
     title: "AIBrain"

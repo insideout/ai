@@ -7,16 +7,16 @@ heat: 96
 website: https://axyon.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/axyon-ai/
+  url: "https://www.linkedin.com/company/axyon-ai/"
   followers: 807
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/axyon-ai-srl
+  url: "https://www.crunchbase.com/organization/axyon-ai-srl"
 
 twitter:
-  username: axyonai
-  url: https://twitter.com/axyonai
-  followers: 11516
+  username: "axyonai"
+  url: "https://twitter.com/axyonai"
+  followers: 11515
 
 size: 11-50 employees
 yearFounded: 2016
@@ -32,11 +32,11 @@ tags:
   - FinTech
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQFvW39zAmPs5g/company-logo_400_400/0?e=1582761600&v=beta&t=khjH-QWC7Gp-mfdI0IKvm5KXSJOd29E5smEzZy1-Ro4
+  - url: "https://media.licdn.com/dms/image/C560BAQFvW39zAmPs5g/company-logo_400_400/0?e=1582761600&v=beta&t=khjH-QWC7Gp-mfdI0IKvm5KXSJOd29E5smEzZy1-Ro4"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/992408734143049729/rCKvenAw_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/992408734143049729/rCKvenAw_400x400.jpg"
     width: 400
     height: 400
     title: "Axyon AI"

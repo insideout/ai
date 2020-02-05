@@ -7,15 +7,15 @@ heat: 4128
 website: https://www.nvidia.com
 
 linkedin:
-  url: https://www.linkedin.com/company/nvidia/
-  followers: 495276
+  url: "https://www.linkedin.com/company/nvidia/"
+  followers: 502830
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/nvidia
+  url: "https://www.crunchbase.com/organization/nvidia"
 
 twitter:
-  username: NvidiaAI
-  url: https://twitter.com/NvidiaAI
+  username: "NvidiaAI"
+  url: "https://twitter.com/NvidiaAI"
   followers: 10119
 
 size: 10,001+ employees
@@ -38,11 +38,11 @@ tags:
   - Image Recognition
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1145524454170062848/U4lxVYEw_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1145524454170062848/U4lxVYEw_400x400.png"
     width: 400
     height: 400
     title: "NVIDIA"
-  - url: https://media.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_400_400/0?e=1583366400&v=beta&t=F7Ci6PET8G8l9jemNLWBxw2fhZvjF9yKf_8-Bgo8RLM
+  - url: "https://media.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_400_400/0?e=1583366400&v=beta&t=F7Ci6PET8G8l9jemNLWBxw2fhZvjF9yKf_8-Bgo8RLM"
     width: 400
     height: 400
     title: "NVIDIA"

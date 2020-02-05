@@ -7,21 +7,22 @@ heat: 304
 website: https://parashift.io/
 
 linkedin:
-  url: https://www.linkedin.com/company/sentifi/
-  followers: 11497
+  url: "https://www.linkedin.com/company/sentifi/"
+  followers: 11489
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/sentifi
+  url: "https://www.crunchbase.com/organization/sentifi"
 
 twitter:
-  username: sentifi
-  url: https://twitter.com/sentifi
+  username: "sentifi"
+  url: "https://twitter.com/sentifi"
   followers: 1199
 
 size: 51-200 employees
 yearFounded: 2012
 locations:
   - Zurich, Switzerland
+  - Zurich, Zurich
 
 funding:
   status: Seed
@@ -34,11 +35,11 @@ tags:
   - FinTech
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQE_mtrM-SjMVQ/company-logo_400_400/0?e=1582761600&v=beta&t=ghzR53-YXx4Wsnuy4GbDyQN64K6O06G3RPpnZdM0i08
+  - url: "https://media.licdn.com/dms/image/C4D0BAQE_mtrM-SjMVQ/company-logo_400_400/0?e=1582761600&v=beta&t=ghzR53-YXx4Wsnuy4GbDyQN64K6O06G3RPpnZdM0i08"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/678288025244209152/rvnNFBY1_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/678288025244209152/rvnNFBY1_400x400.png"
     width: 400
     height: 400
     title: "Sentifi"

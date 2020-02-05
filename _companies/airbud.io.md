@@ -7,11 +7,11 @@ heat: 10
 website: http://airbud.io/
 
 linkedin:
-  url: https://www.linkedin.com/company/airbud-technologies/
+  url: "https://www.linkedin.com/company/airbud-technologies/"
   followers: 728
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/airbud-technologies-inc
+  url: "https://www.crunchbase.com/organization/airbud-technologies-inc"
 
 size: 2-10 employees
 yearFounded: 2018
@@ -31,7 +31,7 @@ tags:
   - Natural Language Generation
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQGvZmutvh12VA/company-logo_400_400/0?e=1582761600&v=beta&t=GdMVyMM7gWgjlvLtlep6ENQ3TVFiisQFme-CO_z_M1k
+  - url: "https://media.licdn.com/dms/image/C4E0BAQGvZmutvh12VA/company-logo_400_400/0?e=1582761600&v=beta&t=GdMVyMM7gWgjlvLtlep6ENQ3TVFiisQFme-CO_z_M1k"
     width: 400
     height: 400
     title: "logo"

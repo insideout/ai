@@ -7,15 +7,15 @@ heat: 45
 website: https://www.twilio.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/twilio-inc-/
-  followers: 63602
+  url: "https://www.linkedin.com/company/twilio-inc-/"
+  followers: 64799
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/twilio
+  url: "https://www.crunchbase.com/organization/twilio"
 
 twitter:
-  username: twilio
-  url: https://twitter.com/twilio
+  username: "twilio"
+  url: "https://twitter.com/twilio"
   followers: 70576
 
 size: 1,001-5,000 employees
@@ -27,7 +27,7 @@ topics:
   - AI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1147937394794082304/VrwpNfjh_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1147937394794082304/VrwpNfjh_400x400.png"
     width: 400
     height: 400
     title: "Twilio"

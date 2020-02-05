@@ -7,21 +7,22 @@ heat: 17
 website: https://wavecomp.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/wave-computing
-  followers: 3571
+  url: "https://www.linkedin.com/company/wave-computing"
+  followers: 3609
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/wave-semiconductor
+  url: "https://www.crunchbase.com/organization/wave-semiconductor"
 
 twitter:
-  username: wavecomputing
-  url: https://twitter.com/wavecomputing
+  username: "wavecomputing"
+  url: "https://twitter.com/wavecomputing"
   followers: 1629
 
 size: 51-200 employees
 yearFounded: 2010
 locations:
   - Campbell, CA
+  - Campbell, California
 
 funding:
   status: Late Stage Venture
@@ -31,13 +32,13 @@ topics:
   - AI Hardware
 
 images:
-  - url: https://pbs.twimg.com/profile_images/808733022203719681/3PVUd1-n_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/808733022203719681/3PVUd1-n_400x400.jpg"
     width: 400
     height: 400
     title: "Wave Computing"
 
 videos:
-  - url: https://www.youtube.com/watch?v=pHaRbs5cOek
+  - url: "https://www.youtube.com/watch?v=pHaRbs5cOek"
 
 secured: "VljP7Vwbz98xF70M666TbKx4BO4Q1sv31w/wqQFkyCINCly06LkLD3BknMdyFNth8MQKKD0r8fV25BKFj98nXXfA7Ra8ccU9mqeEtYfY6GQODPqAlaWjfcQsHlXcU67PQOUArjEFOj4CvljPQEBEv/R3LhOViV0qV8+xCahXSLafd2EtUhGx31GXq+R/v7q9+tBJCearWuI9aJxGI1D2/T7KJrMsB6/5cSX1FkA2SNBMmXUADxUkkDt31He/eoFzeMFhOtZmOpxZHWCmHcXXaQ==;zZTa1PgWvRP9Ta4mFO2DBA=="
 ---

@@ -7,15 +7,15 @@ heat: 1212
 website: https://www.icertis.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/icertis
-  followers: 45564
+  url: "https://www.linkedin.com/company/icertis"
+  followers: 45566
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/icertis
+  url: "https://www.crunchbase.com/organization/icertis"
 
 twitter:
-  username: Icertis
-  url: https://twitter.com/Icertis
+  username: "Icertis"
+  url: "https://twitter.com/Icertis"
   followers: 2605
 
 size: 501-1,000 employees
@@ -30,11 +30,11 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQE-546asH0PBA/company-logo_400_400/0?e=1582761600&v=beta&t=Rxw_xqQKI7fuwUTEE_1TnRNGtjqgYw2kfAWngt7fXqY
+  - url: "https://media.licdn.com/dms/image/C560BAQE-546asH0PBA/company-logo_400_400/0?e=1582761600&v=beta&t=Rxw_xqQKI7fuwUTEE_1TnRNGtjqgYw2kfAWngt7fXqY"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1143811617425186816/xjFXIamj_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1143811617425186816/xjFXIamj_400x400.png"
     width: 400
     height: 400
     title: "Icertis"

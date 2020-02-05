@@ -7,21 +7,22 @@ heat: -410
 website: https://www.lemonade.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/lemonade-inc-/
-  followers: 35652
+  url: "https://www.linkedin.com/company/lemonade-inc-/"
+  followers: 36367
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/lemonade
+  url: "https://www.crunchbase.com/organization/lemonade"
 
 twitter:
-  username: lemonade_inc
-  url: https://twitter.com/lemonade_inc
+  username: "lemonade_inc"
+  url: "https://twitter.com/lemonade_inc"
   followers: 4170
 
 size: 51-200 employees
 yearFounded: 2015
 locations:
   - New York, NY
+  - New York
 
 funding:
   status: Late Stage Venture
@@ -30,11 +31,11 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQHnPV8dBNy7ag/company-logo_400_400/0?e=1582761600&v=beta&t=T7SOK5ZaoFj49Id09-ZCEClx6LrZg9wZqR8TAlTsvww
+  - url: "https://media.licdn.com/dms/image/C4D0BAQHnPV8dBNy7ag/company-logo_400_400/0?e=1582761600&v=beta&t=T7SOK5ZaoFj49Id09-ZCEClx6LrZg9wZqR8TAlTsvww"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1017448234984198144/7n3AxSEB_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1017448234984198144/7n3AxSEB_400x400.jpg"
     width: 400
     height: 400
     title: "Lemonade"

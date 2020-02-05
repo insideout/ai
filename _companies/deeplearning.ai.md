@@ -7,15 +7,15 @@ heat: -100452
 website: https://deeplearning.ai
 
 linkedin:
-  url: https://www.linkedin.com/company/deeplearningai/
-  followers: 194031
+  url: "https://www.linkedin.com/company/deeplearningai/"
+  followers: 194040
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/deeplearning-ai
+  url: "https://www.crunchbase.com/organization/deeplearning-ai"
 
 twitter:
-  username: deeplearningai_
-  url: https://twitter.com/deeplearningai_
+  username: "deeplearningai_"
+  url: "https://twitter.com/deeplearningai_"
   followers: 11471
 
 size: 11-50 employees
@@ -30,11 +30,11 @@ topics:
   - Deep Learning
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1159850198119657472/WXaSuSOk_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1159850198119657472/WXaSuSOk_400x400.jpg"
     width: 400
     height: 400
     title: "deeplearning.ai"
-  - url: https://media.licdn.com/dms/image/C4E0BAQHvGHvTVICP6Q/company-logo_400_400/0?e=1583366400&v=beta&t=BcLBygrfkkg0eVOP1DWLL5GDZtwGh6EkM8kHTaTHJbc
+  - url: "https://media.licdn.com/dms/image/C4E0BAQHvGHvTVICP6Q/company-logo_400_400/0?e=1583366400&v=beta&t=BcLBygrfkkg0eVOP1DWLL5GDZtwGh6EkM8kHTaTHJbc"
     width: 400
     height: 400
     title: "deeplearning.ai"

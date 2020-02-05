@@ -7,15 +7,15 @@ heat: 569
 website: https://www.deeplens.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/deep-lens/
+  url: "https://www.linkedin.com/company/deep-lens/"
   followers: 853
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/deep-lens
+  url: "https://www.crunchbase.com/organization/deep-lens"
 
 twitter:
-  username: deeplens_ai
-  url: https://twitter.com/deeplens_ai
+  username: "deeplens_ai"
+  url: "https://twitter.com/deeplens_ai"
   followers: 2226
 
 size: 11-50 employees
@@ -35,11 +35,11 @@ tags:
   - Cancer
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQHGtbVAOcvZaQ/company-logo_400_400/0?e=1582761600&v=beta&t=QQpshM2Y9kIzGeQY97VoJ2Kb78LOHx8XbBpSJW3qFTU
+  - url: "https://media.licdn.com/dms/image/C560BAQHGtbVAOcvZaQ/company-logo_400_400/0?e=1582761600&v=beta&t=QQpshM2Y9kIzGeQY97VoJ2Kb78LOHx8XbBpSJW3qFTU"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/695383980040794115/Olv1C4WE_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/695383980040794115/Olv1C4WE_400x400.png"
     width: 400
     height: 400
     title: "Deep Lens"

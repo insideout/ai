@@ -7,15 +7,15 @@ heat: 7
 website: https://www.vian.ai
 
 linkedin:
-  url: https://www.linkedin.com/company/vianai/
-  followers: 2412
+  url: "https://www.linkedin.com/company/vianai/"
+  followers: 2550
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/vianai
+  url: "https://www.crunchbase.com/organization/vianai"
 
 twitter:
-  username: VianaiSystems
-  url: https://twitter.com/VianaiSystems
+  username: "VianaiSystems"
+  url: "https://twitter.com/VianaiSystems"
   followers: 46
 
 size: 11-50 employees
@@ -30,7 +30,7 @@ topics:
   - AI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1171969525803184128/cFAPYNRR_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1171969525803184128/cFAPYNRR_400x400.jpg"
     width: 400
     height: 400
     title: "Vianai"

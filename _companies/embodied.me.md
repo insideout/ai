@@ -9,11 +9,11 @@ heat: 10
 website: http://www.embodied.me/
 
 linkedin:
-  url: https://www.linkedin.com/company/embodied-inc./
+  url: "https://www.linkedin.com/company/embodied-inc./"
   followers: 2827
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/embodied-inc
+  url: "https://www.crunchbase.com/organization/embodied-inc"
 
 size: 11-50 employees
 yearFounded: 2016
@@ -28,13 +28,13 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQF2x1uqjVFKGA/company-logo_400_400/0?e=1582761600&v=beta&t=0VJhk3K6TEc93wYR1lSplNVLkyZ_XuAgDWeAaD8FDwE
+  - url: "https://media.licdn.com/dms/image/C560BAQF2x1uqjVFKGA/company-logo_400_400/0?e=1582761600&v=beta&t=0VJhk3K6TEc93wYR1lSplNVLkyZ_XuAgDWeAaD8FDwE"
     width: 400
     height: 400
     title: "logo"
 
 videos:
-  - url: https://www.youtube.com/watch?v=TOj9VNZqki8
+  - url: "https://www.youtube.com/watch?v=TOj9VNZqki8"
 
 secured: "HkpQpA10cX7abl7npMO/A9XvhW7LS878mVYUv54BJUTSQdamfwu2F5NtkBj7ntCcxeQmcXJPW/Q8gUja2z5iSir6TCM2ikZGi44jbU8KNKMhBn4k/mAoD3ailG04LB+GH+VgTQsMbdX2NGGB+kjTjJa8JFwVBdCbXFl5CU0dpngMNicssdqxxgLbk7DVf6b06J0VXsizqdzJ9T0tnwLW0OcB5pDipBfoRH/3jHS9ghfRQIoZ0vLznma1+kYkMS4DW+tncCdvC3rxxyN94yFHYQ==;UjtktjIbJE4u5jKCcS11rg=="
 ---

@@ -9,21 +9,22 @@ heat: 19893
 website: https://noodle.ai
 
 linkedin:
-  url: https://www.linkedin.com/company/noodle-ai/
-  followers: 14921
+  url: "https://www.linkedin.com/company/noodle-ai/"
+  followers: 15189
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/noodle-analytics-inc-noodle-ai
+  url: "https://www.crunchbase.com/organization/noodle-analytics-inc-noodle-ai"
 
 twitter:
-  username: noodleai
-  url: https://twitter.com/noodleai
+  username: "noodleai"
+  url: "https://twitter.com/noodleai"
   followers: 51134
 
 size: 201-500 employees
 yearFounded: 2016
 locations:
   - San Francisco, CA
+  - San Francisco, California
 
 funding:
   status: Early Stage Venture
@@ -33,15 +34,15 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQHZxlcjlPLDrg/company-logo_400_400/0?e=1583366400&v=beta&t=hqefy7vCCHXIKyohoFf_SnSmjqrbcjvwPrxWqpizaFA
+  - url: "https://media.licdn.com/dms/image/C560BAQHZxlcjlPLDrg/company-logo_400_400/0?e=1583366400&v=beta&t=hqefy7vCCHXIKyohoFf_SnSmjqrbcjvwPrxWqpizaFA"
     width: 400
     height: 400
     title: "Noodle.ai"
-  - url: https://media.licdn.com/dms/image/C561BAQEL0ezoB28MoQ/company-background_10000/0?e=1575183600&v=beta&t=10-KyWZwNFMEgh4RBrfsUjYd_FlEGnmDKJv93G-zStw
+  - url: "https://media.licdn.com/dms/image/C561BAQEL0ezoB28MoQ/company-background_10000/0?e=1575183600&v=beta&t=10-KyWZwNFMEgh4RBrfsUjYd_FlEGnmDKJv93G-zStw"
     width: 4053
     height: 1360
     title: "Noodle.ai"
-  - url: https://pbs.twimg.com/profile_images/1199149482060861440/3sXEjhDF_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1199149482060861440/3sXEjhDF_400x400.png"
     width: 400
     height: 400
     title: "Noodle.ai"

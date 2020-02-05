@@ -7,15 +7,15 @@ heat: 10
 website: http://rtr.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/realtimerobotics/
-  followers: 1054
+  url: "https://www.linkedin.com/company/realtimerobotics/"
+  followers: 1088
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/realtime-robotics-inc
+  url: "https://www.crunchbase.com/organization/realtime-robotics-inc"
 
 twitter:
-  username: realtime_i
-  url: https://twitter.com/realtime_i
+  username: "realtime_i"
+  url: "https://twitter.com/realtime_i"
   followers: 998
 
 size: 2-10 employees
@@ -31,13 +31,13 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1019506033511710721/4ucdo4lo_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1019506033511710721/4ucdo4lo_400x400.jpg"
     width: 400
     height: 400
     title: "RealTime Robotics"
 
 videos:
-  - url: https://www.youtube.com/watch?v=hVK2Lbb2IQ0
+  - url: "https://www.youtube.com/watch?v=hVK2Lbb2IQ0"
 
 secured: "mo3O2ukDB7NGeHjQgg8FAozrzQQirQDfMC6/ldRveJOo9q5cHNK+NhFiRSI/Jc8FhwgYc4fwhQ55TmCFRIIf62nbYQTlv2Oo07kPnLlVlrkZ+QPtjfEur2RLOKZ5Yr0V0EGSscXelB4G2iHhl9mheiP7GQ5JktEq7SWT8ZoCx1sBGiTz+j+qMh1ZEQeKHfsI+30sejGAYoRUJo9zkN55MyKhinU/F2h46UcH2+VGR1yMI57oxqUtQSnxVoLly5M/h/3P5KnWQt8Hb1KJeSuUpQ==;VWLDBGyI/Jq9/b4nzeX1Hg=="
 ---

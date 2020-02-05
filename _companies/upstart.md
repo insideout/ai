@@ -7,21 +7,22 @@ heat: 4
 website: https://www.upstart.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/upstart-network
-  followers: 13026
+  url: "https://www.linkedin.com/company/upstart-network"
+  followers: 13116
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/upstart
+  url: "https://www.crunchbase.com/organization/upstart"
 
 twitter:
-  username: Upstart
-  url: https://twitter.com/Upstart
+  username: "Upstart"
+  url: "https://twitter.com/Upstart"
   followers: 5308
 
 size: 201-500 employees
 yearFounded: 2012
 locations:
   - San Mateo, CA
+  - San Mateo, California
 
 funding:
   status: Late Stage Venture
@@ -34,11 +35,11 @@ tags:
   - FinTech
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQGBnx6B3Zly2Q/company-logo_400_400/0?e=1582761600&v=beta&t=Db3zzRb8k3jQE2ocYZngOOQAz6fG2YL-TBw5p6V0VEM
+  - url: "https://media.licdn.com/dms/image/C560BAQGBnx6B3Zly2Q/company-logo_400_400/0?e=1582761600&v=beta&t=Db3zzRb8k3jQE2ocYZngOOQAz6fG2YL-TBw5p6V0VEM"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1172615337638092800/TpH1O_x1_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1172615337638092800/TpH1O_x1_400x400.jpg"
     width: 400
     height: 400
     title: "Upstart"

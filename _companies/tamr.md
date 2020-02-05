@@ -7,15 +7,15 @@ heat: 7
 website: https://www.tamr.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/2965831
-  followers: 6860
+  url: "https://www.linkedin.com/company/2965831"
+  followers: 7178
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/tamr
+  url: "https://www.crunchbase.com/organization/tamr"
 
 twitter:
-  username: Tamr_Inc
-  url: https://twitter.com/Tamr_Inc
+  username: "Tamr_Inc"
+  url: "https://twitter.com/Tamr_Inc"
   followers: 3833
 
 size: 51-200 employees
@@ -27,11 +27,11 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQFRR5uqmHw6xw/company-logo_400_400/0?e=1582761600&v=beta&t=0l0gaQcWEWgrtfk5HdxsId_gqwg_kch3yVR-7Y3pmrA
+  - url: "https://media.licdn.com/dms/image/C560BAQFRR5uqmHw6xw/company-logo_400_400/0?e=1582761600&v=beta&t=0l0gaQcWEWgrtfk5HdxsId_gqwg_kch3yVR-7Y3pmrA"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1190342418811498497/B05QURtP_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1190342418811498497/B05QURtP_400x400.jpg"
     width: 400
     height: 400
     title: "Tamr"

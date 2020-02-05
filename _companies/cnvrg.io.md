@@ -7,16 +7,16 @@ heat: -106
 website: https://cnvrg.io/
 
 linkedin:
-  url: https://www.linkedin.com/company/cnvrg-io/
+  url: "https://www.linkedin.com/company/cnvrg-io/"
   followers: 676
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/cnvrg-io
+  url: "https://www.crunchbase.com/organization/cnvrg-io"
 
 twitter:
-  username: cnvrg_io
-  url: https://twitter.com/cnvrg_io
-  followers: 716
+  username: "cnvrg_io"
+  url: "https://twitter.com/cnvrg_io"
+  followers: 4281
 
 size: 11-50 employees
 yearFounded: 2016
@@ -31,7 +31,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://pbs.twimg.com/profile_images/839081872709857280/ROfC_65O_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/839081872709857280/ROfC_65O_400x400.jpg"
     width: 400
     height: 400
     title: "cnvrg.io"

@@ -7,16 +7,16 @@ heat: -6067
 website: https://www.socure.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/socure
-  followers: 3946
+  url: "https://www.linkedin.com/company/socure"
+  followers: 4096
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/socure
+  url: "https://www.crunchbase.com/organization/socure"
 
 twitter:
-  username: socureme
-  url: https://twitter.com/socureme
-  followers: 6004
+  username: "socureme"
+  url: "https://twitter.com/socureme"
+  followers: 6005
 
 size: 51-200 employees
 yearFounded: 2012
@@ -37,11 +37,11 @@ tags:
   - Security
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQFFGBZYE_B0Sg/company-logo_400_400/0?e=1582761600&v=beta&t=DfHxcGr6RHE00MDJkt-1MhINQPHq7_wSmKzXhlwOR6A
+  - url: "https://media.licdn.com/dms/image/C560BAQFFGBZYE_B0Sg/company-logo_400_400/0?e=1582761600&v=beta&t=DfHxcGr6RHE00MDJkt-1MhINQPHq7_wSmKzXhlwOR6A"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1085164407766822913/xe_-YSO2_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1085164407766822913/xe_-YSO2_400x400.jpg"
     width: 400
     height: 400
     title: "Socure"

@@ -7,15 +7,15 @@ heat: 13
 website: http://www.agolo.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/agolo
+  url: "https://www.linkedin.com/company/agolo"
   followers: 953
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/agolo
+  url: "https://www.crunchbase.com/organization/agolo"
 
 twitter:
-  username: agolo
-  url: https://twitter.com/agolo
+  username: "agolo"
+  url: "https://twitter.com/agolo"
   followers: 746
 
 size: 11-50 employees
@@ -29,13 +29,13 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://pbs.twimg.com/profile_images/588095780126208000/n336QMMR_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/588095780126208000/n336QMMR_400x400.png"
     width: 400
     height: 400
     title: "Agolo"
 
 videos:
-  - url: https://www.youtube.com/watch?v=rijPqvv1xSc
+  - url: "https://www.youtube.com/watch?v=rijPqvv1xSc"
 
 secured: "7ncNdwRvzyYpjMl/vD8xvaUqKzqUbo+sHxQpgULgVw1wWcppvCBgfjR0J12TShfv4TvHzl6Nx5aJxeRUu6urDqdN817URaUlai9eXlsr6sw5n3MFRzRHDcrWk26+cFnPt3MabS9P77KOFaslUUbRWsGi8tYQNh0C7HpfuA0fHpFmdcUF8y3IL4Cr/zZtP8oqOjoPB18s4uCKhkO6RSEYGtauUYOgKZnBlcH7fH7HIAuucgp2d1wHFLui0kWV1Xb3g8SDh7/ZSeaJd/x/FfgS7Q==;1KpB8z3035OWvBgx13zzMA=="
 ---

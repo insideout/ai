@@ -7,21 +7,22 @@ heat: 1841
 website: https://www.signifyd.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/signifyd/
-  followers: 5694
+  url: "https://www.linkedin.com/company/signifyd/"
+  followers: 5779
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/signifyd
+  url: "https://www.crunchbase.com/organization/signifyd"
 
 twitter:
-  username: signifyd
-  url: https://twitter.com/signifyd
-  followers: 7591
+  username: "signifyd"
+  url: "https://twitter.com/signifyd"
+  followers: 1520
 
 size: 201-500 employees
 yearFounded: 2011
 locations:
   - San Jose, CA
+  - San Jose, California
 
 funding:
   status: Late Stage Venture
@@ -35,11 +36,11 @@ tags:
   - FinTech
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQEBjOffzfmv3g/company-logo_400_400/0?e=1582761600&v=beta&t=TyjLDMxMWl5ZLteUR6HRaVlGPJ6tU3PHtZ1Xf4mLsyA
+  - url: "https://media.licdn.com/dms/image/C560BAQEBjOffzfmv3g/company-logo_400_400/0?e=1582761600&v=beta&t=TyjLDMxMWl5ZLteUR6HRaVlGPJ6tU3PHtZ1Xf4mLsyA"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1176051622230859776/jEIttImc_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1176051622230859776/jEIttImc_400x400.jpg"
     width: 400
     height: 400
     title: "Signifyd"

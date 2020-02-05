@@ -7,15 +7,15 @@ heat: 25252
 website: https://www.facebook.com
 
 linkedin:
-  url: https://www.linkedin.com/company/facebook/
-  followers: 5342998
+  url: "https://www.linkedin.com/company/facebook/"
+  followers: 5343053
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/facebook
+  url: "https://www.crunchbase.com/organization/facebook"
 
 twitter:
-  username: facebookai
-  url: https://twitter.com/facebookai
+  username: "facebookai"
+  url: "https://twitter.com/facebookai"
   followers: 3344
 
 size: 10,001+ employees
@@ -31,11 +31,11 @@ topics:
   - Facebook AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQFjQHzcZz7J6g/company-logo_400_400/0?e=1582156800&v=beta&t=Zj-6uk4qiDKxOuOyS7SHjpEy5Va5Y8dY_i0qtzvQQF4
+  - url: "https://media.licdn.com/dms/image/C560BAQFjQHzcZz7J6g/company-logo_400_400/0?e=1582156800&v=beta&t=Zj-6uk4qiDKxOuOyS7SHjpEy5Va5Y8dY_i0qtzvQQF4"
     width: 400
     height: 400
     title: "Facebook"
-  - url: https://pbs.twimg.com/profile_images/997213460776665088/KwaiDTTw_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/997213460776665088/KwaiDTTw_400x400.jpg"
     width: 400
     height: 400
     title: "Facebook"

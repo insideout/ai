@@ -7,15 +7,15 @@ heat: 811
 website: https://www.pymetrics.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/2714872
-  followers: 15011
+  url: "https://www.linkedin.com/company/2714872"
+  followers: 15489
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/pymetrics
+  url: "https://www.crunchbase.com/organization/pymetrics"
 
 twitter:
-  username: pymetrics
-  url: https://twitter.com/pymetrics
+  username: "pymetrics"
+  url: "https://twitter.com/pymetrics"
   followers: 2692
 
 size: 51-200 employees
@@ -31,11 +31,11 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQHAjv1Lw8B90Q/company-logo_400_400/0?e=1582761600&v=beta&t=esCmhNZT27WnYlrHfU4k0J-JsREvIv8XHLEENHcydKM
+  - url: "https://media.licdn.com/dms/image/C4D0BAQHAjv1Lw8B90Q/company-logo_400_400/0?e=1582761600&v=beta&t=esCmhNZT27WnYlrHfU4k0J-JsREvIv8XHLEENHcydKM"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/928648599843606528/k-hQHaM6_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/928648599843606528/k-hQHaM6_400x400.jpg"
     width: 400
     height: 400
     title: "Pymetrics"

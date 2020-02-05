@@ -7,21 +7,22 @@ heat: 251
 website: http://www.xbird.io/
 
 linkedin:
-  url: https://www.linkedin.com/company/xbird/
-  followers: 967
+  url: "https://www.linkedin.com/company/xbird/"
+  followers: 982
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/xbird-gmbh
+  url: "https://www.crunchbase.com/organization/xbird-gmbh"
 
 twitter:
-  username: xbirdhealth
-  url: https://twitter.com/xbirdhealth
+  username: "xbirdhealth"
+  url: "https://twitter.com/xbirdhealth"
   followers: 2143
 
 size: 2-10 employees
 yearFounded: 2015
 locations:
   - Berlin, Germany
+  - Berlin, Berlin
 
 funding:
   status: Seed
@@ -31,17 +32,17 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQGJE-34adpCMA/company-logo_400_400/0?e=1582761600&v=beta&t=nBojgg8sQnw9vS-ksFQkVG70_eaE_yRrlyM6zuf0Gs8
+  - url: "https://media.licdn.com/dms/image/C4D0BAQGJE-34adpCMA/company-logo_400_400/0?e=1582761600&v=beta&t=nBojgg8sQnw9vS-ksFQkVG70_eaE_yRrlyM6zuf0Gs8"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1148440729494048768/E5R0k67-_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1148440729494048768/E5R0k67-_400x400.png"
     width: 400
     height: 400
     title: "Xbird"
 
 videos:
-  - url: https://www.youtube.com/watch?v=VQhmAIFKOyU
+  - url: "https://www.youtube.com/watch?v=VQhmAIFKOyU"
 
 secured: "r5dzyYHg1QQITQ/IsnYeEFMSUnAFwecEAplU2MiHGsSfr5UQOwYyyxjU02PQjNeMLhlQFq9Y0kbpSSmmjUYlVKVu18lts80OJqdtMOCNr1nVU1p5bvAiALjhNv0a1yrX/zzcjNHUReBg5RsTAyIhfTDCLU/bdqpF5yeb4kFWMrPVx0GfLkGWdu5703lzE6+yWAk1fi/sEfBpJuLRkSFh4/Y0SYVkQBpXvsKEQ7zKlshRdZcv26IrGkurBifvjRtIiRWRfuw+AxeaBpdTEHm5fQ==;B0a+9gpkm6gJO4FLPrfbTQ=="
 ---

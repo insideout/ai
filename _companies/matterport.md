@@ -7,31 +7,32 @@ heat: 495
 website: https://matterport.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/matterport/
-  followers: 17655
+  url: "https://www.linkedin.com/company/matterport/"
+  followers: 17855
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/matterport
+  url: "https://www.crunchbase.com/organization/matterport"
 
 twitter:
-  username: Matterport
-  url: https://twitter.com/Matterport
+  username: "Matterport"
+  url: "https://twitter.com/Matterport"
   followers: 1680
 
 size: 201-500 employees
 yearFounded: 2011
 locations:
   - Sunnyvale, CA
+  - Sunnyvale, California
 
 topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQE_soIu91C7mA/company-logo_400_400/0?e=1582761600&v=beta&t=hCqbc5YFx2CMdjkwPdh9AL9DfJwqO0lGqyf083d1YQI
+  - url: "https://media.licdn.com/dms/image/C4D0BAQE_soIu91C7mA/company-logo_400_400/0?e=1582761600&v=beta&t=hCqbc5YFx2CMdjkwPdh9AL9DfJwqO0lGqyf083d1YQI"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1151589543222620160/QsHz1RLQ_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1151589543222620160/QsHz1RLQ_400x400.jpg"
     width: 400
     height: 400
     title: "Matterport"

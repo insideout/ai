@@ -7,15 +7,15 @@ heat: 132
 website: https://www.h2o.ai
 
 linkedin:
-  url: https://www.linkedin.com/company/0xdata
+  url: "https://www.linkedin.com/company/0xdata"
   followers: 52786
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/h2o-2
+  url: "https://www.crunchbase.com/organization/h2o-2"
 
 twitter:
-  username: h2oai
-  url: https://twitter.com/h2oai
+  username: "h2oai"
+  url: "https://twitter.com/h2oai"
   followers: 18589
 
 size: 51-200 employees
@@ -33,11 +33,11 @@ tags:
   - Open Source
 
 images:
-  - url: https://media-exp1.licdn.com/dms/image/C560BAQHwh1xsjx_5CQ/company-logo_200_200/0?e=1587600000&v=beta&t=aRwC2WzcJ0TEw7AQmmVQn-QUJIXDFDbbGxMsi05QDoo
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHwh1xsjx_5CQ/company-logo_200_200/0?e=1587600000&v=beta&t=aRwC2WzcJ0TEw7AQmmVQn-QUJIXDFDbbGxMsi05QDoo"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1024818828809629699/m8X9zY2c_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1024818828809629699/m8X9zY2c_400x400.jpg"
     width: 400
     height: 400
     title: "H2O.ai"

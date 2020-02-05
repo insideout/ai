@@ -7,15 +7,15 @@ heat: 165
 website: https://ada.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/ada-health
+  url: "https://www.linkedin.com/company/ada-health"
   followers: 8484
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/adahealth
+  url: "https://www.crunchbase.com/organization/adahealth"
 
 twitter:
-  username: adahealth
-  url: https://twitter.com/adahealth
+  username: "adahealth"
+  url: "https://twitter.com/adahealth"
   followers: 3331
 
 size: 201-500 employees
@@ -31,17 +31,17 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: https://media.licdn.com/dms/image/C510BAQGZBwMMCCXb0A/company-logo_400_400/0?e=1582761600&v=beta&t=oaxzTilGKonSH1iz90z1hTpyaXFZUYb689JFWfaDWiA
+  - url: "https://media.licdn.com/dms/image/C510BAQGZBwMMCCXb0A/company-logo_400_400/0?e=1582761600&v=beta&t=oaxzTilGKonSH1iz90z1hTpyaXFZUYb689JFWfaDWiA"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/822034097702928384/sBXKrudm_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/822034097702928384/sBXKrudm_400x400.jpg"
     width: 400
     height: 400
     title: "Ada Health"
 
 videos:
-  - url: https://www.youtube.com/watch?v=_ZTcf1iJCMQ
+  - url: "https://www.youtube.com/watch?v=_ZTcf1iJCMQ"
 
 secured: "hf9Q9rUAezlgILff3ivkMxGmRxYXkgmDF8xke385e1ita8nsTG892rTKFEq4Nou0f0dh8QNPlvaAmJkMiwk0brosOXng8s0xB4rvez1VYWpyFHU/jjKwxXTwIu+73ldNQZarqZNw5U5SCb+47mNUVuqc0VyztTuIs2hFY2DIZ7a9tovuyZwZTSLbPDuJ0LDtsqRUUjFkQWYrOfuQr/gLAEGH5Be03wtmyROOEDG0usZjJX7bSao2vR+9Ofn2Mdxu86nDi3ICfNYLmYmsR2tVpw==;WxwtFmCgWHMZdseVopQEyg=="
 ---

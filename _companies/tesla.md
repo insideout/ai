@@ -9,16 +9,16 @@ heat: 39350
 website: https://www.tesla.com
 
 linkedin:
-  url: https://www.linkedin.com/company/tesla-motors
-  followers: 5282737
+  url: "https://www.linkedin.com/company/tesla-motors"
+  followers: 5466896
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/tesla-motors
+  url: "https://www.crunchbase.com/organization/tesla-motors"
 
 twitter:
-  username: tesla
-  url: https://twitter.com/tesla
-  followers: 4834785
+  username: "tesla"
+  url: "https://twitter.com/tesla"
+  followers: 4834895
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -33,15 +33,15 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://pbs.twimg.com/profile_images/489192650474414080/4RxZxsud_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/489192650474414080/4RxZxsud_400x400.png"
     width: 400
     height: 400
     title: "Tesla"
-  - url: https://media.licdn.com/dms/image/C4E0BAQFpB9xyi5w8IQ/company-logo_400_400/0?e=1583366400&v=beta&t=zzav5Yp6hG3OM4kJPBBQukd_8FJEow9DGzyjEvlHRJw
+  - url: "https://media.licdn.com/dms/image/C4E0BAQFpB9xyi5w8IQ/company-logo_400_400/0?e=1583366400&v=beta&t=zzav5Yp6hG3OM4kJPBBQukd_8FJEow9DGzyjEvlHRJw"
     width: 400
     height: 400
     title: "Tesla"
-  - url: https://media.licdn.com/dms/image/C4E1BAQFffTK_fRM9rg/company-background_10000/0?e=1575183600&v=beta&t=JC1y2cJL3Rnb0y0is_eOoYv68R_ZkPk3sFlo00m5ZgA
+  - url: "https://media.licdn.com/dms/image/C4E1BAQFffTK_fRM9rg/company-background_10000/0?e=1575183600&v=beta&t=JC1y2cJL3Rnb0y0is_eOoYv68R_ZkPk3sFlo00m5ZgA"
     width: 1536
     height: 768
     title: "Tesla"

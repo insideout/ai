@@ -7,15 +7,15 @@ heat: -642
 website: http://www.niramai.com
 
 linkedin:
-  url: https://www.linkedin.com/company-beta/11009627
+  url: "https://www.linkedin.com/company-beta/11009627"
   followers: 0
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/niramai-health-analytix
+  url: "https://www.crunchbase.com/organization/niramai-health-analytix"
 
 twitter:
-  username: niramaianalytix
-  url: https://twitter.com/niramaianalytix
+  username: "niramaianalytix"
+  url: "https://twitter.com/niramaianalytix"
   followers: 7
 
 locations:
@@ -29,13 +29,13 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1145747129731653633/NBu1TIXb_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1145747129731653633/NBu1TIXb_400x400.png"
     width: 400
     height: 400
     title: "Niramai Health Analytix"
 
 videos:
-  - url: https://www.youtube.com/watch?v=3mx-g-RJoKg
+  - url: "https://www.youtube.com/watch?v=3mx-g-RJoKg"
 
 secured: "HYZSINDuagMFSR9N8ZBTUIN89eaWnAcG+Uih0pju3haAPhHhDedZzPnuz9fETRheHhWHjmF6OmHBgIfHSgqAhbMwstcI50vHoFFpO4AyvyZ5ymJcJsApVMNoJTPEZAZc43NkrHK+eBiTydrrC/2FvqoUlpiFS4aXFlJGeGXn+N19CYMXhZTCajlvnmi6OGQmp4SFdNJ3sQWYu6uwUdMZ92PSIe2OA0sWUvch8++PrhLa3upW5W6cJWYCCo0d1hrtP8ibkQm+BuSQMy+wYkDPEA==;s8nyPZ+s8z2Q9ntCTkqpng=="
 ---

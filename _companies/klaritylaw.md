@@ -7,15 +7,15 @@ heat: -1008
 website: http://klaritylaw.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/klaritylaw/
-  followers: 410
+  url: "https://www.linkedin.com/company/klaritylaw/"
+  followers: 449
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/klarity
+  url: "https://www.crunchbase.com/organization/klarity"
 
 twitter:
-  username: klaritylaw/
-  url: https://www.twitter.com/klaritylaw/
+  username: "klaritylaw/"
+  url: "https://www.twitter.com/klaritylaw/"
   followers: 10
 
 size: 2-10 employees
@@ -31,7 +31,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1024571747549491200/ZM97GgD1_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1024571747549491200/ZM97GgD1_400x400.jpg"
     width: 400
     height: 400
     title: "Klarity"

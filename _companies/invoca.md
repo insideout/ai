@@ -7,15 +7,15 @@ heat: -573
 website: https://www.invoca.com
 
 linkedin:
-  url: https://www.linkedin.com/company/invoca-com/
+  url: "https://www.linkedin.com/company/invoca-com/"
   followers: 8022
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/invoca
+  url: "https://www.crunchbase.com/organization/invoca"
 
 twitter:
-  username: Invoca
-  url: https://twitter.com/Invoca
+  username: "Invoca"
+  url: "https://twitter.com/Invoca"
   followers: 2832
 
 size: 201-500 employees
@@ -35,13 +35,13 @@ tags:
   - Speech Recognition
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1182058588522479616/QCH2EmWr_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1182058588522479616/QCH2EmWr_400x400.png"
     width: 400
     height: 400
     title: "Invoca"
 
 videos:
-  - url: https://www.youtube.com/watch?v=NLLaC8pNKY8
+  - url: "https://www.youtube.com/watch?v=NLLaC8pNKY8"
 
 secured: "w9RfD7rLehmD8O/MkbrwdWhPzdon34O1O0iQZlhN7Hk6kqDQK3aLxpkyOfPAgH0NarO+lVT45vJV0VZ4Z285asLTbH+N99NEeWIRRZUi9kwgaNrzu7+AbcYcJSSJmoZfrKXOOi2qhTdklC1J4HH8WC3GXuOxUBbScZv+d3Qds4ugijtf7xdqyQLiH6+dhHc2VonMiy5iCxwa70VyDq2CarknsqUUnaguD8mGLK0KpR8bbi2oIF+FBpgw54SuZvrSpyLp6MnESP6xxgyYCtiKzw==;eDjFMhxgYMVrjlh1W9u/1Q=="
 ---

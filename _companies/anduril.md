@@ -7,15 +7,15 @@ heat: 55
 website: https://www.anduril.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/18293159/
-  followers: 3834
+  url: "https://www.linkedin.com/company/18293159/"
+  followers: 3835
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/anduril-industries
+  url: "https://www.crunchbase.com/organization/anduril-industries"
 
 twitter:
-  username: anduriltech
-  url: https://twitter.com/anduriltech
+  username: "anduriltech"
+  url: "https://twitter.com/anduriltech"
   followers: 27056
 
 size: 51-200 employees
@@ -31,11 +31,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_400_400/0?e=1582761600&v=beta&t=o8LEiWCBYK89CTrr3W7kr8O3airvQ6cPwI3Ms27ooPc
+  - url: "https://media.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_400_400/0?e=1582761600&v=beta&t=o8LEiWCBYK89CTrr3W7kr8O3airvQ6cPwI3Ms27ooPc"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/766333834405085185/PyDKlYiO_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/766333834405085185/PyDKlYiO_400x400.jpg"
     width: 400
     height: 400
     title: "Anduril Industries"

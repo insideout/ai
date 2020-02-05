@@ -10,21 +10,22 @@ heat: 37
 website: https://www.waymo.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/waymo/
-  followers: 50773
+  url: "https://www.linkedin.com/company/waymo/"
+  followers: 52188
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/google-s-self-driving-car-project
+  url: "https://www.crunchbase.com/organization/google-s-self-driving-car-project"
 
 twitter:
-  username: Waymo
-  url: https://twitter.com/Waymo
+  username: "Waymo"
+  url: "https://twitter.com/Waymo"
   followers: 748
 
 size: 1,001-5,000 employees
 yearFounded: 2009
 locations:
   - Mountain View, CA
+  - Mountain View, California
 
 funding:
   status: 
@@ -35,15 +36,15 @@ topics:
   - Google AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQG4FdRM0dx-3w/company-logo_400_400/0?e=1574899200&v=beta&t=BGq43aawjZxvQgxPaRaURUv_c6Ha8P_ObOgEcjbJFfk
+  - url: "https://media.licdn.com/dms/image/C4E0BAQG4FdRM0dx-3w/company-logo_400_400/0?e=1574899200&v=beta&t=BGq43aawjZxvQgxPaRaURUv_c6Ha8P_ObOgEcjbJFfk"
     width: 400
     height: 400
     title: "Waymo"
-  - url: https://media.licdn.com/dms/image/C4E1BAQE-O7Wu_PSdFw/company-background_10000/0?e=1566795600&v=beta&t=2zEJ9YrjoSVB-zbcqQcEDu1j9Fq7UlXmiY4h1WYC91A
+  - url: "https://media.licdn.com/dms/image/C4E1BAQE-O7Wu_PSdFw/company-background_10000/0?e=1566795600&v=beta&t=2zEJ9YrjoSVB-zbcqQcEDu1j9Fq7UlXmiY4h1WYC91A"
     width: 1536
     height: 768
     title: "Waymo"
-  - url: https://pbs.twimg.com/profile_images/969232018109292544/nRtAcIv0_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/969232018109292544/nRtAcIv0_400x400.jpg"
     width: 400
     height: 400
     title: "Waymo"

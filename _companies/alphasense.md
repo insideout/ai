@@ -7,16 +7,16 @@ heat: 4987
 website: https://www.alpha-sense.com
 
 linkedin:
-  url: https://www.linkedin.com/company/alphasense-inc-/
+  url: "https://www.linkedin.com/company/alphasense-inc-/"
   followers: 15579
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/alphasense
+  url: "https://www.crunchbase.com/organization/alphasense"
 
 twitter:
-  username: AlphaSenseInc
-  url: https://twitter.com/AlphaSenseInc
-  followers: 3181779
+  username: "AlphaSenseInc"
+  url: "https://twitter.com/AlphaSenseInc"
+  followers: 3181787
 
 size: 51-200 employees
 locations:
@@ -30,11 +30,11 @@ topics:
   - AI
 
 images:
-  - url: https://media-exp1.licdn.com/dms/image/C4D0BAQE8EjIR1fxkQg/company-logo_200_200/0?e=1587600000&v=beta&t=oRLgXvwFuPbDW45f5v0eWBdVSunL-74IdXzi-7spaBU
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE8EjIR1fxkQg/company-logo_200_200/0?e=1587600000&v=beta&t=oRLgXvwFuPbDW45f5v0eWBdVSunL-74IdXzi-7spaBU"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/949070360103698432/kXSiPeTk_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/949070360103698432/kXSiPeTk_400x400.jpg"
     width: 400
     height: 400
     title: "AlphaSense"

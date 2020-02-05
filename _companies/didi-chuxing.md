@@ -12,15 +12,15 @@ heat: 199
 website: https://www.didiglobal.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/didi-chuxing/
+  url: "https://www.linkedin.com/company/didi-chuxing/"
   followers: 0
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/didi-dache
+  url: "https://www.crunchbase.com/organization/didi-dache"
 
 twitter:
-  username: DidiGlobal
-  url: https://twitter.com/DidiGlobal
+  username: "DidiGlobal"
+  url: "https://twitter.com/DidiGlobal"
   followers: 8883
 
 size: 5,001-10,000 employees
@@ -34,7 +34,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1148592795399139328/idnh-Ozx_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1148592795399139328/idnh-Ozx_400x400.jpg"
     width: 400
     height: 400
     title: "Didi Chuxing"

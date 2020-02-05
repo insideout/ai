@@ -7,21 +7,22 @@ heat: 1606
 website: https://people.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/people.ai
-  followers: 5400
+  url: "https://www.linkedin.com/company/people.ai"
+  followers: 5568
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/people-ai
+  url: "https://www.crunchbase.com/organization/people-ai"
 
 twitter:
-  username: ppl_ai
-  url: https://twitter.com/ppl_ai
-  followers: 4538
+  username: "ppl_ai"
+  url: "https://twitter.com/ppl_ai"
+  followers: 444
 
 size: 51-200 employees
 yearFounded: 2016
 locations:
   - San Francisco, CA
+  - San Francisco, California
 
 funding:
   status: Late Stage Venture
@@ -30,11 +31,11 @@ topics:
   - AI
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_400_400/0?e=1582761600&v=beta&t=51iwg7T9dy4JEfRA1eXANboXyhsyzEHpsujkbiHmvgo
+  - url: "https://media.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_400_400/0?e=1582761600&v=beta&t=51iwg7T9dy4JEfRA1eXANboXyhsyzEHpsujkbiHmvgo"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1058155354767339521/Ru2uRRKv_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1058155354767339521/Ru2uRRKv_400x400.jpg"
     width: 400
     height: 400
     title: "people.ai"

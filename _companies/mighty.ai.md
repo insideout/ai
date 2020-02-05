@@ -9,21 +9,22 @@ heat: -117
 website: https://mighty.ai
 
 linkedin:
-  url: https://www.linkedin.com/company/mightyai/
-  followers: 2026
+  url: "https://www.linkedin.com/company/mightyai/"
+  followers: 2029
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/spare5
+  url: "https://www.crunchbase.com/organization/spare5"
 
 twitter:
-  username: mighty_ai
-  url: https://twitter.com/mighty_ai
+  username: "mighty_ai"
+  url: "https://twitter.com/mighty_ai"
   followers: 96
 
 size: 51-200 employees
 yearFounded: 2014
 locations:
   - Seattle, WA
+  - Seattle, Washington
 
 funding:
   status: M&A
@@ -33,11 +34,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQH121p9MTqZzg/company-logo_400_400/0?e=1582156800&v=beta&t=WUqzDYCukYJx4a2XxuZSqkTBkFX9brOSoFz3pIEEbtQ
+  - url: "https://media.licdn.com/dms/image/C560BAQH121p9MTqZzg/company-logo_400_400/0?e=1582156800&v=beta&t=WUqzDYCukYJx4a2XxuZSqkTBkFX9brOSoFz3pIEEbtQ"
     width: 400
     height: 400
     title: "Mighty AI"
-  - url: https://pbs.twimg.com/profile_images/1196207041997672448/sX77d5b1_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1196207041997672448/sX77d5b1_400x400.jpg"
     width: 400
     height: 400
     title: "Mighty AI"

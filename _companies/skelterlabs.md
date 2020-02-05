@@ -7,11 +7,11 @@ heat: 5
 website: http://www.skelterlabs.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/skelter-labs
-  followers: 941
+  url: "https://www.linkedin.com/company/skelter-labs"
+  followers: 997
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/skelter-labs
+  url: "https://www.crunchbase.com/organization/skelter-labs"
 
 size: 51-200 employees
 yearFounded: 2015
@@ -26,7 +26,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://media.licdn.com/dms/image/C510BAQHIQaysQyg9GA/company-logo_400_400/0?e=1582761600&v=beta&t=BkI1kZyLU4mfhiV7WBve_oMuO4vXNbKUK2wDm4TCO1U
+  - url: "https://media.licdn.com/dms/image/C510BAQHIQaysQyg9GA/company-logo_400_400/0?e=1582761600&v=beta&t=BkI1kZyLU4mfhiV7WBve_oMuO4vXNbKUK2wDm4TCO1U"
     width: 400
     height: 400
     title: "logo"

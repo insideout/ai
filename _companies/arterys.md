@@ -7,15 +7,15 @@ heat: 26
 website: https://arterys.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/2649064
+  url: "https://www.linkedin.com/company/2649064"
   followers: 6047
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/arterys
+  url: "https://www.crunchbase.com/organization/arterys"
 
 twitter:
-  username: arterysinc
-  url: https://twitter.com/arterysinc
+  username: "arterysinc"
+  url: "https://twitter.com/arterysinc"
   followers: 81
 
 size: 51-200 employees
@@ -32,17 +32,17 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQFhL4_2ejOtlw/company-logo_400_400/0?e=1582761600&v=beta&t=sHPbSqRXjXllBUG6ypZIMnc_HnXISr6ny4XMB5XGxYQ
+  - url: "https://media.licdn.com/dms/image/C4D0BAQFhL4_2ejOtlw/company-logo_400_400/0?e=1582761600&v=beta&t=sHPbSqRXjXllBUG6ypZIMnc_HnXISr6ny4XMB5XGxYQ"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/923353495306100736/uNhQj6i2_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/923353495306100736/uNhQj6i2_400x400.jpg"
     width: 400
     height: 400
     title: "Arterys"
 
 videos:
-  - url: https://www.youtube.com/watch?v=R_GU1ne-oW0
+  - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"
 
 secured: "/aBhmu+a/ecQyn3myN+MMLFglUmiCpZgv9jj9YHTboz73TkSaxD1FAeoIHe39+nhoYEn0rBvy14Ug9ArZY3Lp2yRaMVgLqPaG9t7LOtRuPz/+e4xUeTbkxVzVfknQMK4PgVctdvgF4wMczHcQGUx9iu7UVIyVneM7PArK78pQSw9POBvVsb8j0MySc8bX2xqUGJ2quwX+0iJ12XHIaHcY3DXC2x/Idzns0kb7lCj86oB7NdufkOQ153fZFzyoXVvSJ76pmodAfBYpICikTNgRw==;U1fPwGyPrOEfE4DgGaz1jg=="
 ---

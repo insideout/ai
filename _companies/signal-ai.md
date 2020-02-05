@@ -7,16 +7,16 @@ heat: 295
 website: http://www.signal-ai.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/signal-artificial-intelligence/
-  followers: 6237
+  url: "https://www.linkedin.com/company/signal-artificial-intelligence/"
+  followers: 6492
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/signal-media-ltd
+  url: "https://www.crunchbase.com/organization/signal-media-ltd"
 
 twitter:
-  username: SignalHQ
-  url: https://twitter.com/SignalHQ
-  followers: 2852
+  username: "SignalHQ"
+  url: "https://twitter.com/SignalHQ"
+  followers: 2263
 
 size: 51-200 employees
 yearFounded: 2013
@@ -32,13 +32,13 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://pbs.twimg.com/profile_images/809063449624018945/d9gEaQop_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/809063449624018945/d9gEaQop_400x400.jpg"
     width: 400
     height: 400
     title: "Signal AI"
 
 videos:
-  - url: https://www.youtube.com/watch?v=QWC7T-G_reQ
+  - url: "https://www.youtube.com/watch?v=QWC7T-G_reQ"
 
 secured: "5X2sVkOfzBUIHskCensAunUW9kshdnqg+Vogq/YitJIilWMzv59n7omzSa1h0vLq5e38T24NZT82WeCmA4dttznrlAPL/Mt2lXR8m0yaffaxoCe7576mCiHC36mmpHPaXCL6liGIOZpPSk8taqTEkvNgDWZSbj3HGUbx0BgxiTg9v+SUlFP6hAbaqv6XgbHD0yfaQwto3aKpP+Ds8OkQoAzcR27Bc8TyNQxa+M3tYnVJWCwPFoM/gAWy1wOeKGmrvgXfiXPYK7WBffZH8r9IOg==;9HjAvmKvbjoJHcJsBDJi2Q=="
 ---

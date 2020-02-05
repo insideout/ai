@@ -7,11 +7,11 @@ heat: 21
 website: https://bluehexagon.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/blue-hexagon-inc/
+  url: "https://www.linkedin.com/company/blue-hexagon-inc/"
   followers: 3669
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/blue-hexagon
+  url: "https://www.crunchbase.com/organization/blue-hexagon"
 
 size: 11-50 employees
 yearFounded: 2017
@@ -29,7 +29,7 @@ tags:
   - Security
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQEreDMnmV-z6w/company-logo_400_400/0?e=1582761600&v=beta&t=5QbpAMaWcisf_mF0Ntn70l-FcVIzoM-TbyxLOOZl4FI
+  - url: "https://media.licdn.com/dms/image/C560BAQEreDMnmV-z6w/company-logo_400_400/0?e=1582761600&v=beta&t=5QbpAMaWcisf_mF0Ntn70l-FcVIzoM-TbyxLOOZl4FI"
     width: 400
     height: 400
     title: "logo"

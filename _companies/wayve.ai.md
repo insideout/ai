@@ -7,15 +7,15 @@ heat: 1
 website: https://wayve.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/wayve-technologies/
-  followers: 1730
+  url: "https://www.linkedin.com/company/wayve-technologies/"
+  followers: 1777
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/wayve-9739
+  url: "https://www.crunchbase.com/organization/wayve-9739"
 
 twitter:
-  username: wayve_ai
-  url: https://twitter.com/wayve_ai
+  username: "wayve_ai"
+  url: "https://twitter.com/wayve_ai"
   followers: 472
 
 size: 11-50 employees
@@ -34,11 +34,11 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQHYCX2Cqc8QVA/company-logo_400_400/0?e=1582156800&v=beta&t=PUm4X5dYRjOxfvaMGx8buGsjVx2rC4vhj-07FO_3FQ0
+  - url: "https://media.licdn.com/dms/image/C560BAQHYCX2Cqc8QVA/company-logo_400_400/0?e=1582156800&v=beta&t=PUm4X5dYRjOxfvaMGx8buGsjVx2rC4vhj-07FO_3FQ0"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/674344944384016389/R_kDc5Gc_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/674344944384016389/R_kDc5Gc_400x400.png"
     width: 400
     height: 400
     title: "Wayve"

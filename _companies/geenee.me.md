@@ -9,15 +9,15 @@ heat: 549998
 website: https://geenee.me/
 
 linkedin:
-  url: https://www.linkedin.com/company/geenee-gmbh/
+  url: "https://www.linkedin.com/company/geenee-gmbh/"
   followers: 404
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/geenee
+  url: "https://www.crunchbase.com/organization/geenee"
 
 twitter:
-  username: shopgeenee
-  url: https://twitter.com/shopgeenee
+  username: "shopgeenee"
+  url: "https://twitter.com/shopgeenee"
   followers: 1416919
 
 size: 11-50 employees
@@ -37,11 +37,11 @@ tags:
   - Image Recognition
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQG0Me_06B5hoA/company-logo_400_400/0?e=1582156800&v=beta&t=Y7nhVCL7jLwyb8LDnSePod8Mpa6Wbod9-OkPiaHZTJ4
+  - url: "https://media.licdn.com/dms/image/C560BAQG0Me_06B5hoA/company-logo_400_400/0?e=1582156800&v=beta&t=Y7nhVCL7jLwyb8LDnSePod8Mpa6Wbod9-OkPiaHZTJ4"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1865800231/twitlogo2_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1865800231/twitlogo2_400x400.png"
     width: 400
     height: 400
     title: "Geenee"

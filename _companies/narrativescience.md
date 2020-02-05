@@ -7,21 +7,22 @@ heat: -2040
 website: https://narrativescience.com
 
 linkedin:
-  url: https://www.linkedin.com/company/narrative-science/
-  followers: 6442
+  url: "https://www.linkedin.com/company/narrative-science/"
+  followers: 6514
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/narrative-science
+  url: "https://www.crunchbase.com/organization/narrative-science"
 
 twitter:
-  username: narrativesci
-  url: https://twitter.com/narrativesci
+  username: "narrativesci"
+  url: "https://twitter.com/narrativesci"
   followers: 1487
 
 size: 51-200 employees
 yearFounded: 2010
 locations:
   - Chicago, IL
+  - Chicago, Illinois
 
 funding:
   status: Late Stage Venture
@@ -35,15 +36,15 @@ tags:
   - Natural Language Generation
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_400_400/0?e=1574899200&v=beta&t=QQyMdJ8CU6xj3NgSGCLRMYyB2oi2zerUvI9Vw-JR3T8
+  - url: "https://media.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_400_400/0?e=1574899200&v=beta&t=QQyMdJ8CU6xj3NgSGCLRMYyB2oi2zerUvI9Vw-JR3T8"
     width: 400
     height: 400
     title: "Narrative Science"
-  - url: https://media.licdn.com/dms/image/C561BAQHy1UhpxgquhA/company-background_10000/0?e=1566763200&v=beta&t=yvgNxcd5mSQtfisNsxNpJ4ng_vYCZBm6ALSjue3twvs
+  - url: "https://media.licdn.com/dms/image/C561BAQHy1UhpxgquhA/company-background_10000/0?e=1566763200&v=beta&t=yvgNxcd5mSQtfisNsxNpJ4ng_vYCZBm6ALSjue3twvs"
     width: 1536
     height: 768
     title: "Narrative Science"
-  - url: https://pbs.twimg.com/profile_images/928933880312328192/F6poyeGJ_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/928933880312328192/F6poyeGJ_400x400.jpg"
     width: 400
     height: 400
     title: "Narrative Science"

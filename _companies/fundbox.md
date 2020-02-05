@@ -7,15 +7,15 @@ heat: 1072
 website: https://fundbox.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/fundbox
+  url: "https://www.linkedin.com/company/fundbox"
   followers: 10859
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/fundbox
+  url: "https://www.crunchbase.com/organization/fundbox"
 
 twitter:
-  username: fundbox
-  url: https://twitter.com/fundbox
+  username: "fundbox"
+  url: "https://twitter.com/fundbox"
   followers: 2645
 
 size: 51-200 employees
@@ -34,11 +34,11 @@ tags:
   - FinTech
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQF0d3rUa1KHJw/company-logo_400_400/0?e=1582761600&v=beta&t=OI-U9ufMASXLquXSIhw_BBt9yhVIzTQtgkFWvvfjndY
+  - url: "https://media.licdn.com/dms/image/C560BAQF0d3rUa1KHJw/company-logo_400_400/0?e=1582761600&v=beta&t=OI-U9ufMASXLquXSIhw_BBt9yhVIzTQtgkFWvvfjndY"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/857307305657876480/qzAD5d52_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/857307305657876480/qzAD5d52_400x400.jpg"
     width: 400
     height: 400
     title: "Fundbox"

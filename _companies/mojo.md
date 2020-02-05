@@ -7,15 +7,15 @@ heat: 377
 website: https://www.mojofertility.co/
 
 linkedin:
-  url: https://www.linkedin.com/company/mojofertility/
-  followers: 152
+  url: "https://www.linkedin.com/company/mojofertility/"
+  followers: 154
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/mojofertility
+  url: "https://www.crunchbase.com/organization/mojofertility"
 
 twitter:
-  username: mojofertility
-  url: https://twitter.com/mojofertility
+  username: "mojofertility"
+  url: "https://twitter.com/mojofertility"
   followers: 1067
 
 size: 11-50 employees
@@ -31,11 +31,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQHsFAFk_hzHSg/company-logo_200_200/0?e=2159024400&v=beta&t=Jg1No0eTMhtEY4YEVJuqAmh91VaEpecGr3UFqgw7bBw
+  - url: "https://media.licdn.com/dms/image/C4D0BAQHsFAFk_hzHSg/company-logo_200_200/0?e=2159024400&v=beta&t=Jg1No0eTMhtEY4YEVJuqAmh91VaEpecGr3UFqgw7bBw"
     width: 400
     height: 400
     title: "mojo"
-  - url: https://pbs.twimg.com/profile_images/961191390997774336/KxVaJhnX_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/961191390997774336/KxVaJhnX_400x400.jpg"
     width: 400
     height: 400
     title: "mojo"

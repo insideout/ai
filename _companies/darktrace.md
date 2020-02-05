@@ -7,15 +7,15 @@ heat: 1486
 website: https://www.darktrace.com
 
 linkedin:
-  url: https://www.linkedin.com/company/darktrace/
-  followers: 51310
+  url: "https://www.linkedin.com/company/darktrace/"
+  followers: 51311
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/darktrace
+  url: "https://www.crunchbase.com/organization/darktrace"
 
 twitter:
-  username: Darktrace/
-  url: https://twitter.com/Darktrace/
+  username: "Darktrace/"
+  url: "https://twitter.com/Darktrace/"
   followers: 3734
 
 size: 1,001-5,000 employees
@@ -35,11 +35,11 @@ tags:
   - Security
 
 images:
-  - url: https://media-exp1.licdn.com/dms/image/C560BAQE1rfUvIardTQ/company-logo_200_200/0?e=1587600000&v=beta&t=bgXDOxYQTAS_oDFAlcv_MCn6ukGLm-X7BPPbScILKwo
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQE1rfUvIardTQ/company-logo_200_200/0?e=1587600000&v=beta&t=bgXDOxYQTAS_oDFAlcv_MCn6ukGLm-X7BPPbScILKwo"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/816359823901982720/L0dyQMfw_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/816359823901982720/L0dyQMfw_400x400.jpg"
     width: 400
     height: 400
     title: "Darktrace"

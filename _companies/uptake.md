@@ -7,11 +7,11 @@ heat: 4
 website: https://www.uptake.com/
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/uptake-3
+  url: "https://www.crunchbase.com/organization/uptake-3"
 
 twitter:
-  username: uptake
-  url: https://twitter.com/uptake
+  username: "uptake"
+  url: "https://twitter.com/uptake"
   followers: 550
 
 locations:
@@ -24,7 +24,7 @@ topics:
   - AI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/938090041146036225/nHB1EQ6B_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/938090041146036225/nHB1EQ6B_400x400.jpg"
     width: 400
     height: 400
     title: "Uptake Technologies"

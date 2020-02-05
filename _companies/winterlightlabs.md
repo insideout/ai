@@ -7,15 +7,15 @@ heat: 0
 website: https://winterlightlabs.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/winterlight-labs/
-  followers: 534
+  url: "https://www.linkedin.com/company/winterlight-labs/"
+  followers: 553
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/winterlight
+  url: "https://www.crunchbase.com/organization/winterlight"
 
 twitter:
-  username: winterlightlabs
-  url: https://twitter.com/winterlightlabs
+  username: "winterlightlabs"
+  url: "https://twitter.com/winterlightlabs"
   followers: 564
 
 size: 2-10 employees
@@ -36,11 +36,11 @@ tags:
   - Speech Recognition
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQFS4mXeSS80Eg/company-logo_400_400/0?e=1582156800&v=beta&t=K2Roh4Id6vHSzuMJOLYt6OXc-dDsw3DPMQwdbQ0rWT0
+  - url: "https://media.licdn.com/dms/image/C4E0BAQFS4mXeSS80Eg/company-logo_400_400/0?e=1582156800&v=beta&t=K2Roh4Id6vHSzuMJOLYt6OXc-dDsw3DPMQwdbQ0rWT0"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/646582005182803969/XdyDLY2T_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/646582005182803969/XdyDLY2T_400x400.png"
     width: 400
     height: 400
     title: "Winterlight Labs"

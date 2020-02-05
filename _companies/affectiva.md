@@ -7,15 +7,15 @@ heat: 234
 website: https://www.affectiva.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/722122
-  followers: 17738
+  url: "https://www.linkedin.com/company/722122"
+  followers: 17739
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/affectiva
+  url: "https://www.crunchbase.com/organization/affectiva"
 
 twitter:
-  username: affectiva
-  url: https://twitter.com/affectiva
+  username: "affectiva"
+  url: "https://twitter.com/affectiva"
   followers: 10217
 
 size: 51-200 employees
@@ -32,11 +32,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQHdgG2Rpte8yg/company-logo_400_400/0?e=1582761600&v=beta&t=cFTKisGzcSwtdr3a884GurC9OW52Toh8KgYfSAH2ZgE
+  - url: "https://media.licdn.com/dms/image/C4D0BAQHdgG2Rpte8yg/company-logo_400_400/0?e=1582761600&v=beta&t=cFTKisGzcSwtdr3a884GurC9OW52Toh8KgYfSAH2ZgE"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/832329160513175556/QgC17kiC_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/832329160513175556/QgC17kiC_400x400.jpg"
     width: 400
     height: 400
     title: "Affectiva"

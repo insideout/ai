@@ -7,15 +7,15 @@ heat: 106
 website: https://www.isee.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/isee-ai/
+  url: "https://www.linkedin.com/company/isee-ai/"
   followers: 529
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/isee-c0f5
+  url: "https://www.crunchbase.com/organization/isee-c0f5"
 
 twitter:
-  username: isee_ai
-  url: https://twitter.com/isee_ai
+  username: "isee_ai"
+  url: "https://twitter.com/isee_ai"
   followers: 392
 
 size: 11-50 employees
@@ -35,7 +35,7 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1140742840529674240/YQ5p0qSF_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/1140742840529674240/YQ5p0qSF_400x400.png"
     width: 400
     height: 400
     title: "ISEE"

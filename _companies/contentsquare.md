@@ -7,15 +7,15 @@ heat: 5724
 website: https://contentsquare.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/contentsquare/
-  followers: 20324
+  url: "https://www.linkedin.com/company/contentsquare/"
+  followers: 20327
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/content-square
+  url: "https://www.crunchbase.com/organization/content-square"
 
 twitter:
-  username: ContentSquare
-  url: https://twitter.com/ContentSquare
+  username: "ContentSquare"
+  url: "https://twitter.com/ContentSquare"
   followers: 13121
 
 size: 501-1,000 employees
@@ -34,11 +34,11 @@ tags:
   - Europe
 
 images:
-  - url: https://media-exp1.licdn.com/dms/image/C560BAQG2kAj4CCvS5A/company-logo_200_200/0?e=1587600000&v=beta&t=QzUds__kOSEfFQX1Bh-xiVKTOVczQwDjNkUA0lvH9ak
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQG2kAj4CCvS5A/company-logo_200_200/0?e=1587600000&v=beta&t=QzUds__kOSEfFQX1Bh-xiVKTOVczQwDjNkUA0lvH9ak"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/943409051572015104/upWbYFiN_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/943409051572015104/upWbYFiN_400x400.jpg"
     width: 400
     height: 400
     title: "ContentSquare"

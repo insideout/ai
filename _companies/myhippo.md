@@ -7,15 +7,15 @@ heat: 9678
 website: https://myhippo.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/hippo-insurance
-  followers: 4593
+  url: "https://www.linkedin.com/company/hippo-insurance"
+  followers: 4823
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/hippo-insurance
+  url: "https://www.crunchbase.com/organization/hippo-insurance"
 
 twitter:
-  username: hippo_insurance
-  url: https://twitter.com/hippo_insurance
+  username: "hippo_insurance"
+  url: "https://twitter.com/hippo_insurance"
   followers: 25252
 
 size: 51-200 employees
@@ -34,7 +34,7 @@ tags:
   - FinTech
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1087795536617443328/fFQmCjgh_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1087795536617443328/fFQmCjgh_400x400.jpg"
     width: 400
     height: 400
     title: "Hippo Insurance"

@@ -7,15 +7,15 @@ heat: -9039
 website: https://deep6.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/deep-6-ai/
+  url: "https://www.linkedin.com/company/deep-6-ai/"
   followers: 2680
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/deep-6-ai
+  url: "https://www.crunchbase.com/organization/deep-6-ai"
 
 twitter:
-  username: deep6ai
-  url: https://twitter.com/deep6ai
+  username: "deep6ai"
+  url: "https://twitter.com/deep6ai"
   followers: 0
 
 size: 11-50 employees
@@ -31,15 +31,15 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://media.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_400_400/0?e=1582761600&v=beta&t=7SQXh5-24E09tHxEjlcGNBKHsBv6aKIbmHd6PjPllaU
+  - url: "https://media.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_400_400/0?e=1582761600&v=beta&t=7SQXh5-24E09tHxEjlcGNBKHsBv6aKIbmHd6PjPllaU"
     width: 400
     height: 400
     title: "logo"
-  - url: https://media.licdn.com/dms/image/C561BAQH5o_0GEDJTSA/company-background_10000/0?e=1574802000&v=beta&t=JWy2P1mLeF_41Z92MkYArHMXeYacHm0rFTeIATJVU-Q
+  - url: "https://media.licdn.com/dms/image/C561BAQH5o_0GEDJTSA/company-background_10000/0?e=1574802000&v=beta&t=JWy2P1mLeF_41Z92MkYArHMXeYacHm0rFTeIATJVU-Q"
     width: 1400
     height: 425
     title: "banner"
-  - url: https://pbs.twimg.com/profile_images/1044656645584773121/8vZCwo0F_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1044656645584773121/8vZCwo0F_400x400.jpg"
     width: 400
     height: 400
     title: "Deep 6 AI"

@@ -7,16 +7,16 @@ heat: 230
 website: https://sightmachine.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/sight-machine/
-  followers: 2782
+  url: "https://www.linkedin.com/company/sight-machine/"
+  followers: 2817
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/sight-machine
+  url: "https://www.crunchbase.com/organization/sight-machine"
 
 twitter:
-  username: sightmachine
-  url: https://twitter.com/sightmachine
-  followers: 2105
+  username: "sightmachine"
+  url: "https://twitter.com/sightmachine"
+  followers: 1199
 
 size: 51-200 employees
 yearFounded: 2011
@@ -31,7 +31,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1159569762407464960/PwZXyhmR_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1159569762407464960/PwZXyhmR_400x400.jpg"
     width: 400
     height: 400
     title: "Sight Machine"

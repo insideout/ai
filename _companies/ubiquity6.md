@@ -7,21 +7,22 @@ heat: 984
 website: http://ubiquity6.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/ubiquity6/
-  followers: 2475
+  url: "https://www.linkedin.com/company/ubiquity6/"
+  followers: 2548
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/ubiquity6
+  url: "https://www.crunchbase.com/organization/ubiquity6"
 
 twitter:
-  username: ubiquity_6
-  url: https://twitter.com/ubiquity_6
-  followers: 52504
+  username: "ubiquity_6"
+  url: "https://twitter.com/ubiquity_6"
+  followers: 52503
 
 size: 11-50 employees
 yearFounded: 2017
 locations:
   - San Francisco, CA
+  - San Francisco, California
 
 funding:
   status: Early Stage Venture
@@ -31,11 +32,11 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQGVtKvDt4hdcg/company-logo_400_400/0?e=1582761600&v=beta&t=Y8NCaxJ91JVpULvpVGOnLdPyo5JWSXFr6dfU7qrIES0
+  - url: "https://media.licdn.com/dms/image/C560BAQGVtKvDt4hdcg/company-logo_400_400/0?e=1582761600&v=beta&t=Y8NCaxJ91JVpULvpVGOnLdPyo5JWSXFr6dfU7qrIES0"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1171929635975622658/twdYPRkV_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1171929635975622658/twdYPRkV_400x400.jpg"
     width: 400
     height: 400
     title: "Ubiquity6"

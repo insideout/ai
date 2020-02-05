@@ -10,15 +10,15 @@ heat: 371
 website: https://www.meetcleo.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/cleo-ai/
+  url: "https://www.linkedin.com/company/cleo-ai/"
   followers: 3154
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/cleo-ai
+  url: "https://www.crunchbase.com/organization/cleo-ai"
 
 twitter:
-  username: meet_cleo
-  url: https://twitter.com/meet_cleo
+  username: "meet_cleo"
+  url: "https://twitter.com/meet_cleo"
   followers: 827
 
 size: 11-50 employees
@@ -37,11 +37,11 @@ tags:
   - FinTech
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQFPlVkqxacimg/company-logo_400_400/0?e=1582761600&v=beta&t=o8G-cGwaJbmq48QaqDELQ92i13FPlprzw1lFxJ_KPuU
+  - url: "https://media.licdn.com/dms/image/C4D0BAQFPlVkqxacimg/company-logo_400_400/0?e=1582761600&v=beta&t=o8G-cGwaJbmq48QaqDELQ92i13FPlprzw1lFxJ_KPuU"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/1090945744159342594/BOGKnXvz_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1090945744159342594/BOGKnXvz_400x400.jpg"
     width: 400
     height: 400
     title: "Cleo"

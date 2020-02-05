@@ -7,15 +7,15 @@ heat: 361
 website: http://ai.baidu.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/baidu-inc/
-  followers: 209796
+  url: "https://www.linkedin.com/company/baidu-inc/"
+  followers: 209798
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/baidu
+  url: "https://www.crunchbase.com/organization/baidu"
 
 twitter:
-  username: BaiduResearch
-  url: https://twitter.com/BaiduResearch
+  username: "BaiduResearch"
+  url: "https://twitter.com/BaiduResearch"
   followers: 56
 
 size: 10,001+ employees
@@ -31,11 +31,11 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: https://media-exp1.licdn.com/dms/image/C560BAQHZjF01MQpX9w/company-logo_200_200/0?e=1587600000&v=beta&t=_yBsr6TuN0BCn2lJXIapM3qotYwkLcjyMn-9G7KGNhk
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHZjF01MQpX9w/company-logo_200_200/0?e=1587600000&v=beta&t=_yBsr6TuN0BCn2lJXIapM3qotYwkLcjyMn-9G7KGNhk"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/872382295134666752/dyQF2x9K_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/872382295134666752/dyQF2x9K_400x400.jpg"
     width: 400
     height: 400
     title: "Baidu"

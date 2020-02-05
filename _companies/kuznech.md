@@ -9,21 +9,22 @@ heat: -419
 website: http://kuznech.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/kuznech/
-  followers: 129
+  url: "https://www.linkedin.com/company/kuznech/"
+  followers: 128
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/kuznech
+  url: "https://www.crunchbase.com/organization/kuznech"
 
 twitter:
-  username: kuznech
-  url: https://twitter.com/kuznech
+  username: "kuznech"
+  url: "https://twitter.com/kuznech"
   followers: 849
 
 size: 11-50 employees
 yearFounded: 2010
 locations:
   - Sunnyvale, CA
+  - Sunnyvale, California
 
 funding:
   status: Seed
@@ -36,11 +37,11 @@ tags:
   - Image Recognition
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQE9jtJCS6-10g/company-logo_400_400/0?e=1582156800&v=beta&t=K4QbocXVrR0OW_GZrh5hFwa6LV2t-IE5PEFNV97D3tI
+  - url: "https://media.licdn.com/dms/image/C4D0BAQE9jtJCS6-10g/company-logo_400_400/0?e=1582156800&v=beta&t=K4QbocXVrR0OW_GZrh5hFwa6LV2t-IE5PEFNV97D3tI"
     width: 400
     height: 400
     title: "Kuznech"
-  - url: https://pbs.twimg.com/profile_images/847433339883499528/nc0fcnVR_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/847433339883499528/nc0fcnVR_400x400.jpg"
     width: 400
     height: 400
     title: "Kuznech"

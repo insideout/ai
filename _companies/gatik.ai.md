@@ -7,15 +7,15 @@ heat: 1626
 website: http://www.gatik.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/gatik_ai/
+  url: "https://www.linkedin.com/company/gatik_ai/"
   followers: 712
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/gatik-ai
+  url: "https://www.crunchbase.com/organization/gatik-ai"
 
 twitter:
-  username: gatik_ai
-  url: https://twitter.com/gatik_ai
+  username: "gatik_ai"
+  url: "https://twitter.com/gatik_ai"
   followers: 4579
 
 size: 11-50 employees
@@ -35,7 +35,7 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1090895337399685120/KVHKPXJK_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/1090895337399685120/KVHKPXJK_400x400.jpg"
     width: 400
     height: 400
     title: "Gatik"

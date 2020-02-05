@@ -10,11 +10,11 @@ heat: 0
 website: http://www.roobo.com
 
 linkedin:
-  url: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E6%99%BA%E8%83%BD%E7%AE%A1%E5%AE%B6%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/
+  url: "https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E6%99%BA%E8%83%BD%E7%AE%A1%E5%AE%B6%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/"
   followers: 140
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/roobo
+  url: "https://www.crunchbase.com/organization/roobo"
 
 size: 201-500 employees
 yearFounded: 2014
@@ -29,13 +29,13 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQGi8furlJe4UA/company-logo_400_400/0?e=1582761600&v=beta&t=rsiT8zAOCMu4tl-qGwQXJn9jS5Buuy0zDuANc0dRidw
+  - url: "https://media.licdn.com/dms/image/C560BAQGi8furlJe4UA/company-logo_400_400/0?e=1582761600&v=beta&t=rsiT8zAOCMu4tl-qGwQXJn9jS5Buuy0zDuANc0dRidw"
     width: 400
     height: 400
     title: "logo"
 
 videos:
-  - url: https://www.youtube.com/watch?v=isl6-citSqY
+  - url: "https://www.youtube.com/watch?v=isl6-citSqY"
 
 secured: "ifLGiI8oEEkys1UfFCUzE0So1cGXWMwQaqch1UCT6s7nNX0by/9cOmdEbSYxmKDAfGPFoKs8iCm0rc1kkxBzgEZBJH+uKAH8aHzPFfxyfhQMRyG+sUTnT9hDLC8nzDO59DMHfhKtLYDEnp6c8XWRNgL115E1gDbvfQ4qkc0q7TdXxlCdz+YWZUJtm1iuC9t5tNYmJu91g00zFGZkLBhi3ZHIpfXkgs8PAc0cZ5iOrbjbpWToKChETuJbZQbyHm8RKIEYorE2ICWQha3QCv7eoQ==;IMOow3Yu/PdbewDAGqDccg=="
 ---

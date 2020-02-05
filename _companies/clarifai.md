@@ -7,15 +7,15 @@ heat: 4127
 website: https://www.clarifai.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/clarifai/
+  url: "https://www.linkedin.com/company/clarifai/"
   followers: 6583
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/clarifai
+  url: "https://www.crunchbase.com/organization/clarifai"
 
 twitter:
-  username: clarifai
-  url: https://twitter.com/clarifai
+  username: "clarifai"
+  url: "https://twitter.com/clarifai"
   followers: 10883
 
 size: 51-200 employees
@@ -36,11 +36,11 @@ tags:
   - Facial Recognition
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQH--szcD2kLtA/company-logo_400_400/0?e=1582156800&v=beta&t=iQ5jjecizt9cz-NpxHtQ4Q3eQnYXjRl2uFv-Oat75x4
+  - url: "https://media.licdn.com/dms/image/C4D0BAQH--szcD2kLtA/company-logo_400_400/0?e=1582156800&v=beta&t=iQ5jjecizt9cz-NpxHtQ4Q3eQnYXjRl2uFv-Oat75x4"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/875390228067778561/DJQqpFAE_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/875390228067778561/DJQqpFAE_400x400.jpg"
     width: 400
     height: 400
     title: "Clarifai"

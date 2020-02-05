@@ -7,21 +7,22 @@ heat: -2258
 website: http://www.zendrive.com/
 
 linkedin:
-  url: https://www.linkedin.com/company/zendrive/
-  followers: 8032
+  url: "https://www.linkedin.com/company/zendrive/"
+  followers: 8236
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/zendrive
+  url: "https://www.crunchbase.com/organization/zendrive"
 
 twitter:
-  username: zendrive
-  url: https://twitter.com/zendrive
+  username: "zendrive"
+  url: "https://twitter.com/zendrive"
   followers: 2946
 
 size: 51-200 employees
 yearFounded: 2013
 locations:
   - San Francisco, CA
+  - San Francisco, California
 
 funding:
   status: Early Stage Venture
@@ -31,15 +32,15 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://media.licdn.com/dms/image/C560BAQHxILxdaXKGXg/company-logo_400_400/0?e=1574899200&v=beta&t=_Ama1tavzK1fnI_N8oGLOlpAyzcSoEj5h5O7y3nOgyk
+  - url: "https://media.licdn.com/dms/image/C560BAQHxILxdaXKGXg/company-logo_400_400/0?e=1574899200&v=beta&t=_Ama1tavzK1fnI_N8oGLOlpAyzcSoEj5h5O7y3nOgyk"
     width: 400
     height: 400
     title: "Zendrive"
-  - url: https://media.licdn.com/dms/image/C561BAQG4R9hRr2pe7Q/company-background_10000/0?e=1566792000&v=beta&t=y_2ECuaFdP3MOI2kQuVtlmapzvf4AHBjAmErim9odu8
+  - url: "https://media.licdn.com/dms/image/C561BAQG4R9hRr2pe7Q/company-background_10000/0?e=1566792000&v=beta&t=y_2ECuaFdP3MOI2kQuVtlmapzvf4AHBjAmErim9odu8"
     width: 4800
     height: 2400
     title: "Zendrive"
-  - url: https://pbs.twimg.com/profile_images/522407174979350529/coE5Wqh0_400x400.png
+  - url: "https://pbs.twimg.com/profile_images/522407174979350529/coE5Wqh0_400x400.png"
     width: 400
     height: 400
     title: "Zendrive"

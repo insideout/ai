@@ -9,15 +9,15 @@ heat: 13
 website: https://www.collect.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company/collectai/
+  url: "https://www.linkedin.com/company/collectai/"
   followers: 756
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/collectai
+  url: "https://www.crunchbase.com/organization/collectai"
 
 twitter:
-  username: collectAI
-  url: https://twitter.com/collectAI
+  username: "collectAI"
+  url: "https://twitter.com/collectAI"
   followers: 482
 
 size: 11-50 employees
@@ -34,11 +34,11 @@ tags:
   - FinTech
 
 images:
-  - url: https://media.licdn.com/dms/image/C4D0BAQEilJwHXNkmeg/company-logo_400_400/0?e=1582761600&v=beta&t=qSXYr7EMY9boX7nvJ-Pdla_0dQcrCCS4RP40LzxQsxg
+  - url: "https://media.licdn.com/dms/image/C4D0BAQEilJwHXNkmeg/company-logo_400_400/0?e=1582761600&v=beta&t=qSXYr7EMY9boX7nvJ-Pdla_0dQcrCCS4RP40LzxQsxg"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/943409051572015104/upWbYFiN_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/943409051572015104/upWbYFiN_400x400.jpg"
     width: 400
     height: 400
     title: "collectAI"

@@ -7,15 +7,15 @@ heat: 111
 website: http://www.bossanova.com
 
 linkedin:
-  url: https://www.linkedin.com/company/bossa-nova-robotics/
-  followers: 6108
+  url: "https://www.linkedin.com/company/bossa-nova-robotics/"
+  followers: 6109
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/bossa-nova-robotics-inc
+  url: "https://www.crunchbase.com/organization/bossa-nova-robotics-inc"
 
 twitter:
-  username: bossanova
-  url: https://twitter.com/bossanova
+  username: "bossanova"
+  url: "https://twitter.com/bossanova"
   followers: 604
 
 size: 51-200 employees
@@ -31,17 +31,17 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://media.licdn.com/dms/image/C510BAQGkIVm7tNe2WA/company-logo_400_400/0?e=1582761600&v=beta&t=MrvYKE3X1IANCw-Z4SGGanmX8Dz04QESelyvfxvgi94
+  - url: "https://media.licdn.com/dms/image/C510BAQGkIVm7tNe2WA/company-logo_400_400/0?e=1582761600&v=beta&t=MrvYKE3X1IANCw-Z4SGGanmX8Dz04QESelyvfxvgi94"
     width: 400
     height: 400
     title: "logo"
-  - url: https://pbs.twimg.com/profile_images/879878141384073217/mLv_w8vA_400x400.jpg
+  - url: "https://pbs.twimg.com/profile_images/879878141384073217/mLv_w8vA_400x400.jpg"
     width: 400
     height: 400
     title: "Bossa Nova Robotics"
 
 videos:
-  - url: https://www.youtube.com/watch?v=KykP6wTp1Qk
+  - url: "https://www.youtube.com/watch?v=KykP6wTp1Qk"
 
 secured: "9QTWckKXDgYZNmRHqcg0sdfbROxOSioTOYPAzoV/tipdOJObCC0an0lFT5gd+YS6s2MiHcJDAky3ecYKL2qO+KxDLGMpR6P20cxy+mMKZq7hWsxf36uqS5Re5ke9p97plil+SEqRa76exYooGenlp5vfaIWV9oNqFENvdypWTZ7Dzt+SgZnscf5HrW2OgxqWXbTwd5XvEWzR5Vqm26ma8ZksHFDWodIVTKoUkfnYpNO4binmZd1TI6HV6W6Ko9REMZwVdcZaLmGrkivEJuGOkw==;gIuT3EyuHQq5jo33yxaOmQ=="
 ---
