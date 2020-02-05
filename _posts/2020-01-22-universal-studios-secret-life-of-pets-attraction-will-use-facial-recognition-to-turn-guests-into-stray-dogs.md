@@ -25,21 +25,6 @@ images:
     height: 600
     title: "Universal Studios' Secret Life Of Pets Attraction Will Use Facial Recognition To Turn Guests Into Stray Dogs"
 
-related:
-  - title: "How smart kiosks are using facial recognition and predictive sales algorithms to bring a dose of humanity and hospitality to restaurant tech"
-    excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience. \"Our ultimate goal for the software is to create the most hospitable experience possible in a digital ..."
-    publishedDateTime: 2020-01-28T21:42:00Z
-    webUrl: "https://www.nrn.com/technology/how-smart-kiosks-are-using-facial-recognition-and-predictive-sales-algorithms-bring-dose"
-    type: article
-    provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 4
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
-        width: 770
-        height: 400
-
 secured: "2Bo6F9qy29IDcSOVR99W6e9HH7jGXkBneUkfkfKkJ6JyUTIdwreAfCZur5DN1lzhVOBBT2zuqH0mbwZALEd6tbYuUAVkSk/TKmMUQKGXn0Hjh8tpkYH8lU79weKkMCWQdKVqRZ71nIdiZpIFx2zyZVZ1k/yYZgVg485oBuOh1VZLWET48bvXmITNj6FRZmiKoB0SvSb+ewFachrtDTiCGV70z6xr9rDVO91s8u33mfUA0mMscN+yjClp/J0el2eTbMgBU0DRL442GcTOn5PvKMwidek6DXrP1lAnKriXqr+jNrb1t0S9wJBCwbcmY0Gw1qyZ4Po5ZxCn7t6B4+0EhvDKDgDfWd4jdMQzHD35L4mG5RyM69Y5bauKMjn3Lmt9NJP8AF7zL6tQqiS7gIPwm8ixVFs7GOseeJeqI+HScCikC5yN2BT1xObj5/iebQpTKm87csCt3xseLNPZs/DSVA==;PR+MsDasS8JO+zPkyjP0ww=="
 ---
 

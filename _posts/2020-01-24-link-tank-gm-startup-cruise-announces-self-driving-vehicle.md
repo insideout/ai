@@ -100,19 +100,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 34
-  - title: "Self-driving startup Cruise is bankrolled by GM, but it just revealed a new vehicle that envisions the end of cars"
-    excerpt: "The Origin is the fifth-generation Cruise vehicle, is production ready, and could form the basis of a shared-mobility service."
-    publishedDateTime: 2020-01-22T05:38:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-startup-cruise-unveils-origin-vehicle-end-of-cars-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
-    images:
-      - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "GM and Honda Unveil Self-Driving Shuttle With No Steering Wheel, Pedals or Brakes for Ridesharing"
     excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
     publishedDateTime: 2020-01-22T21:00:00Z
@@ -141,15 +128,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
         width: 600
         height: 517
-  - title: "Self-driving startup Cruise is bankrolled by GM, but it just revealed a new vehicle that envisions the end of cars (GM)"
-    excerpt: "Self-driving startup Cruise revealed its new Origin vehicle in San Francisco on Tuesday night. The vehicle is fully autonomous, all-electric, and has no traditional controls, such as a steering wheel or pedals. It's the result of a partnership between Cruise, GM, and Honda. Cruise CEO Dan Ammann continued to argue that it's time for the world ..."
-    publishedDateTime: 2020-01-22T05:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-startup-cruise-unveils-origin-vehicle-end-of-cars-2020-1-1028834397"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 10
 
 secured: "q+7Cb7Noj3TsSUWiv117F3A19FAG/XKNzudHrP6REIMbhx0eAA2ubYCc5ZXe77On8Uo07uSpkHqKiU7ju37rgWfL0ZmDZlczcxlWootd93zeI2cPRCd73gqe00X5MRe45H4A5yw4a2YmOK40VGRSUJTJdFiVlJk0X4b02qeNgxKbMWAug7vlmhXfztg3hHY0JCgpnQe4zHwNxZXfZ/N5vaij82yR21bslfprkCzhNkoFgq8+cBHe2iqjyPGMCZ3QpcR2QtVH7st1We/EjkRrhS1+jcFPdGDoUzY8o2N4pJoXK0MAMqEOLRmg4bYlS91BPjgIiots0w401OKxObsnWwum5bJ/zfKXvyX6yWZnzMpsjINTEjKwDTByR0YqZL24N+pd+1VBJghFHxAoU2fsdLzoq2JhodkNFhXh/P/AdJhrcTYcXD2BVguoIL9QybBXDczzgt4TG5vqzPDEV/BdKUExgIlWjl9zdMKQ3cRCijk=;Vhp5mvgPZDPH8PfvjW4/tA=="
 ---

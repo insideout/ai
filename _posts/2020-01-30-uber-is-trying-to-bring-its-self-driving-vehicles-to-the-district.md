@@ -24,51 +24,86 @@ images:
     title: "Uber is trying to bring its self-driving vehicles to the District"
 
 related:
-  - title: "Uber's self-driving cars are a key to its path to profitability"
-    excerpt: "Uber plans to launch its self-driving cars in pockets of cities where weather, demand and other conditions are most favorable."
-    publishedDateTime: 2020-01-28T12:09:00Z
-    webUrl: "https://www.cnbc.com/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
+  - title: "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits"
+    excerpt: "Drivers of Waymo self-driving cars in Phoenix have reportedly seen their benefits cut since being classified as \"vendors\" instead of \"contractors.\""
+    publishedDateTime: 2020-02-05T22:17:00Z
+    webUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104181597-GettyImages-605519688.jpg?v=1529473695"
-        width: 1024
-        height: 681
-  - title: "How Self-Driving Cars Will Transform Cities"
-    excerpt: "S elf-driving cars will completely transform urban city landscapes, and possibly even change the nature of real estate as we know it. This transformation will both create and destroy trillions of dollars in wealth."
-    publishedDateTime: 2020-01-29T15:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
+      - url: "https://i.insider.com/5e3b13600ce3d1277b0b323b?width=1200&format=jpeg"
+        width: 800
+        height: 400
+  - title: "Waymo workers complain about cuts to benefits and needles in self-driving cars"
+    excerpt: "The company recently announced it has racked up 20 million miles of autonomous driving on public roads. Waymo is widely considered to be the global leader in self-driving technology. Alphabet relies on an army of so-called “TVCs” To run the program, like its many other projects, Google parent company Alphabet relies on an army of so-called ..."
+    publishedDateTime: 2020-02-05T14:00:00Z
+    webUrl: "https://www.theverge.com/2020/2/5/21123049/waymo-self-driving-cars-workers-vendor-contracts-benefits-needles"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 74
+      name: The Verge
+      domain: theverge.com
+    quality: 60
+  - title: "Dubai prepares to roll out self-driving vehicles"
+    excerpt: "Over the last few years we’ve seen plenty of progress being made with autonomous cars, self-driving vehicles and even pilotless air taxis. Now, Dubai’s RTA has taken another step towards getting the initiative off the ground. As we move another step closer, the Roads and Transport Authority (RTA) has revealed a new set of rules over ..."
+    publishedDateTime: 2020-02-04T12:16:00Z
+    webUrl: "https://www.timeoutdubai.com/travel/432578-dubai-prepares-to-roll-out-self-driving-vehicles"
+    ampWebUrl: "https://amp.timeoutdubai.com/amp/article_listing/tod/travel/432578-dubai-prepares-to-roll-out-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-timeoutdubai-com.cdn.ampproject.org/c/s/amp.timeoutdubai.com/amp/article_listing/tod/travel/432578-dubai-prepares-to-roll-out-self-driving-vehicles"
+    type: article
+    provider:
+      name: Time Out Dubai
+      domain: timeoutdubai.com
+    quality: 59
     images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
-        width: 1024
-        height: 512
-  - title: "Uber self-driving cars, with humans in control, to cruise Friday"
-    excerpt: "Uber will put self-driving vehicles on Washington, DC roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self-driving in Dallas, San Francisco and Toronto with human ..."
-    publishedDateTime: 2020-01-27T01:46:00Z
-    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
+      - url: "https://www.timeoutdubai.com/public/images/2020/02/04/self-driving-vehicles.jpg"
+        width: 750
+        height: 500
+  - title: "Apple and Its Rivals Have Spent $16 Billion on Self-Driving Cars"
+    excerpt: "The report outlines the estimated spending by the top 11 companies working on self-driving vehicles, which is topped out by Alphabet’s Waymo, GM’s Cruise, and Uber, which The Information estimates have spent about half of the money being invested in developing the new technologies, while Apple, Baidu, Ford, and Toyota account for “most of ..."
+    publishedDateTime: 2020-02-05T17:42:00Z
+    webUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/"
+    ampWebUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
+    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
+      name: iDrop News
+      domain: idropnews.com
     quality: 44
     images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20181017073142.Medi.jpeg"
-        width: 800
-        height: 448
+      - url: "https://cdn.idropnews.com/wp-content/uploads/2019/01/24072607/apple-car-concept-drawing.jpg"
+        width: 1000
+        height: 600
+  - title: "Autonomous and Self-Driving Vehicle News"
+    excerpt: "As a member of the Consortium, Synopsys will actively contribute to the development of a set of recommendations for system architectures and computing platforms that will be used to address the challenges of deploying self-driving vehicles at scale. Waymo announced it will be driving its Chrysler Pacificas and long-haul trucks in Texas and New ..."
+    publishedDateTime: 2020-02-03T02:18:00Z
+    webUrl: "https://www.autoconnectedcar.com/2020/02/autonomous-and-self-driving-vehicle-news/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews2.png"
+        width: 640
+        height: 300
+  - title: "Working the bugs out of self-driving vehicles"
+    excerpt: "She did so at a technology show in Las Vegas. Autonomous vehicles — self-driving cars and trucks, some call them –remain a technology with plenty of bugs to work out. Those concerned about them point out that they can be dangerous. Indeed, they have ..."
+    publishedDateTime: 2020-02-04T06:18:00Z
+    webUrl: "https://www.marshallindependent.com/opinion/editorials/2020/02/working-the-bugs-out-of-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Marshall Independent
+      domain: marshallindependent.com
+    quality: 24
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.marshallindependent.com/images/2016/11/28153330/fblike.jpg"
+        width: 1200
+        height: 630
 
 secured: "mwk6RRD0NSgD7VZusah5ezoHs9hS10XIjYjU0qYEnFmfrLx71YnwbtUpI/4W9lvwZNn7FgabZI10sGqh9FXPZsRH2TB+LwR6OLB2ehskeg/EQ1QSGfvfI6afAdXrwy4QdwO3UHkMH8/3aUa2yPi44OYipsKYpmbUYca+4dox/IHoNg1wcdIJPwOsLktbQMkAvCYKHRydAXCcx4jTJ5zNRsWu0ywBV/dK+tCC1bg9+yKTalv8Y0dCpG6NrXvoCEMKbWnuHPsAWoQmtD2vb9btiDdu3H0Z/DvPeL6KmjMK33uFcQ56mx71iOvbk3QU8hqNIu9YAVjxYwtOPMogzTPo58b0LdbgizMyCGCRhIXp9JFHAz/M/iwHB69EoAJgHe0G4kYBPbVT6CZ8WwJt1aG0dpJGIJ+I4aBQII2uW5HiRjR3Jduvk3j+AmJZ4tMB24qFwFWw3SyaEZvSQepSIRR9o24+dpkHMb/zWm+2wGzBtCU=;be+cF5sQvfFoCpgyGOdHRg=="
 ---

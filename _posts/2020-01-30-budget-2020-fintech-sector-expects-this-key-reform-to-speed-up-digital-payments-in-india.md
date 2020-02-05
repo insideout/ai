@@ -35,6 +35,19 @@ related:
       - url: "https://www.paymentsjournal.com/wp-content/uploads/2020/01/financial-technology-isometric-set_1284-23498.jpg"
         width: 626
         height: 558
+  - title: "What to expect from Cerner's partnership with Amazon this year + 3 other questions"
+    excerpt: "\"Leveraging the powerful combination of Cerner technology, the AWS infrastructure, their artificial intelligence and machine learning capabilities, we expect to create next-generation user experiences and innovations to deliver more predictive patient-centered care,\" said Mr. Shafer. Cerner is now moving almost all of its non-federal ..."
+    publishedDateTime: 2020-02-05T22:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/what-to-expect-from-cerner-s-partnership-with-amazon-this-year-3-other-questions.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 18
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/ehrs/6.jpg"
+        width: 400
+        height: 300
 
 secured: "YnDBL5O6C170BrT+ynx2v7wj7FVn31mPAqV6zAyd13ylzlIAa6ugF1ZmXQywcE7gMh61XD32DdOgscAgI2R6po3EfuNG+Eb9LaaCUMXfP74HvQrN6Ou2P2PSUlEBZgAcVa3G7ujP056akaTGlXqV1whNHqxMq540HrbjqDVVpFE9+JM2mQ/OU5rFJzwlr/HbnkHwsM1q9SY9a9iXjmPue0ytjXEpgV0waRM2avatwCLUHXaTggM5VTv8sS2G0eZkUxt1NCIujX1OFuGzAlWKCnGqY6/3LdRJNs31dWTf+6qnkpBMnggBHVJOVPKAqmNhve3aPP1eY+OxhKM8hQGqUmGRo6IuKMPZQ9gSPBTeaoTnjymUqUH1HGVaJWoEL7tu8WhWbPcXNOEAwuMLYcfx3fpbhcFiKoymHdc/K/hpG5wccYZ/N/fHE6jpPy6g5PLmyqYkbdGf/ZxDkvBgjd9ZKYRWvWvtIRdTfOjjF5l/WoU=;oTlilJOjsERGHj+4yIv0XQ=="
 ---

@@ -24,11 +24,11 @@ topics:
   - Facebook AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/103407475-GettyImages-146170267.jpg?v=1532564184"
-    width: 3000
-    height: 2108
+  - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
+    width: 1200
+    height: 630
     title: "Apple buys an A.I. start-up that came from Microsoft co-founder Paul Allen's research lab"
 
-secured: "zmbiXTvPAzU82dxsMLFrS2lYnfK6ZO6YKuSvHwPe5oeEq5JfVGLjsZZQv3Aq/Lp2Q+Lt6XO9HSN4hUFFfGz/VBgHhf5JbekRiWoKLA8rQcnLGUgzdVMymphhR9+qPhMit0/8YoHk4z56MmptzFaYsFewT3xa6eieP/A2clVJgdNmaj/zdk0C31ZB+VpaHOTSdwuTgIyMH1cv/zNBpPUX3gr5vGoWgynsxtHf40Bg8Y8u3NRMJQnE6k6fOiu9zeH//LJP9YEP7pni30TAvoXFBJV0Vysoz/DdtxlUrKf49G/YgUVncGKI3YgyJMJUA+PS;FIr94hqdZ8Cn065sdeqUqQ=="
+secured: "jjMG4VfSufBVcgxQHGfaEx5P6xw0uce/lckHCBsoRV5UngZpKbELnmGB/jc+/St3lXGrI6XQYUYWNnqC6tVEUIjbMpN4QRDu+EBtVOva2yrZpW9cRv2xytg/C1OaWs1oJ5oUETDBHOqoyCN8+dk/DaWqq/pkUuzmZE9707guVrD+H7R7hdmis0P64THqeirfPhS7Ed0t2EHQPl+53+0I2VXy7+ixo7LLZYdy+vMK5RYU0W5xMa5C9ydSFHl0zUTn9DG+OujWBAVNSp2zCNwEENXgqLiuKmC/Eh7g/ntSpLgNXCgbCc05+Mvp/CX6/ZVC;5QLCxCkmIx3XQS8J6SItBQ=="
 ---
 

@@ -234,21 +234,6 @@ related:
       - url: "https://www.dw.com/static/stills/images/vdt/2020/beng200123_004_qwibutterfiel_01g.jpg"
         width: 512
         height: 288
-  - title: "Chinese city uses facial recognition to shame pajama wearers"
-    excerpt: "BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,” they were given a powerful tool to carry out their mission: facial recognition software. Among their top targets? People wearing pajamas in public. On Monday, the urban management department of Suzhou, a city of 6 million people in Anhui ..."
-    publishedDateTime: 2020-01-22T04:50:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 59
-    images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2020/01/01212020_nightgownbiker_214352-300x258.jpg"
-        width: 300
-        height: 258
   - title: "India's Telangana to test facial recognition in local elections"
     excerpt: "The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday, authorities said, the first such use of the technology in the country despite growing concerns about privacy and surveillance. Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri ..."
     publishedDateTime: 2020-01-22T10:30:00Z
@@ -466,19 +451,6 @@ related:
       - url: "https://i.insider.com/5e3217765bc79c3a250185f8?width=1200&format=jpeg"
         width: 1200
         height: 900
-  - title: "Clearview AI facial recognition tool being used by more than 600 US police agencies"
-    excerpt: "The New York Times published a lengthy profile on Sunday of a company called Clearview AI that has developed a breakthrough facial recognition app ... is a database of more than three billion images that Clearview claims to have scraped from Facebook, YouTube, Venmo and millions of other websites—goes far beyond anything ever constructed ..."
-    publishedDateTime: 2020-01-22T05:49:00Z
-    webUrl: "https://www.wsws.org/en/articles/2020/01/22/face-j22.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 50
-    images:
-      - url: "https://www.wsws.org/img/open-graph-icon.png"
-        width: 1500
-        height: 785
   - title: "New Jersey state attorney general prohibits police from using facial recognition software"
     excerpt: "New Jersey’s attorney general, Gurbir S. Grewal, has instructed prosecutors across the state to stop using Clearview AI, a private facial recognition software. Clearview AI's tools allow law enforcement officials to upload a photo of an unknown person ..."
     publishedDateTime: 2020-01-27T23:15:00Z
@@ -622,17 +594,6 @@ related:
       - url: "https://contentstorage-nax2.emarketer.com/ab38dfa809dcc6b9c4e1d34ceba68d21/default-image-share.png"
         width: 1280
         height: 720
-  - title: "UK police use of facial recognition tests public’s tolerance"
-    excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology’s ..."
-    publishedDateTime: 2020-01-16T09:20:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article239344158.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article239344158.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article239344158.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 39
   - title: "Google Chief Calls For Suspension Of Facial Recognition Technology"
     excerpt: "The head of Google is reportedly calling for a temporary block on the use of facial recognition technology until government officials weigh in with new rules. “Facial recognition is fraught with risks,” Alphabet and Google CEO Sundar Pichai said at a conference in Brussels, according to Reuters. “I think it is important that dominant ..."
     publishedDateTime: 2020-01-22T20:25:00Z

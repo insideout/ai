@@ -4,9 +4,11 @@ title: "Facial recognition at South Wales derby 'a step too far', says police ch
 excerpt: "Photograph: Chris Fairweather/Huw Evans/REX/Shutterstock One of the most senior policing figures in Wales has warned that the use of facial recognition technology at the country’s biggest ..."
 publishedDateTime: 2020-01-08T19:05:00Z
 webUrl: "https://www.theguardian.com/technology/2020/jan/08/facial-recognition-at-south-wales-derby-a-step-too-far-says-police-chief"
+ampWebUrl: "https://amp.theguardian.com/technology/2020/jan/08/facial-recognition-at-south-wales-derby-a-step-too-far-says-police-chief"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/08/facial-recognition-at-south-wales-derby-a-step-too-far-says-police-chief"
 type: article
-quality: 17
-heat: 17
+quality: 57
+heat: -1
 published: false
 
 provider:
@@ -17,6 +19,42 @@ topics:
   - AI
   - Computer Vision
 
-secured: "17sFa2Vb2E0eIm3CGUTfNW+m4ZEy8Rmra8YzfP6wBQs5BKwnkwM0tFEY1mo+5kPQ/5ViRC76PAU752+hLLmuK+OL1G/hVfAiu1R16RXazkl0snXZe4p75cRkdaDt8qJ2k1f7yBwIFn9lUn4tK+eLncM/DDPtZsFXuUR1TXUV+Ekd2sFr1rDh0DQvM2id93cvDZsqBnpYhGw5HMx2vYtlQ+H+FBZif7L91XEHW54GH1543gnj5GixksdRB1Czp1h0oDSIxRJPHUK23Uuz74pT7wpxUydh5B7i/8hsJ2iaoWQT6i/plG31Ud3UCr698irN;+qqSP3Bb8Z9VNrijWJMnlA=="
+images:
+  - url: "https://i.guim.co.uk/img/media/839306bb7f0f7cdd64db8510b8bd9a66560196f7/0_0_3300_1980/master/3300.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=90e2e9c7d7fea99045bba1078a463cd7"
+    width: 600
+    height: 360
+    title: "Facial recognition at South Wales derby 'a step too far', says police chief"
+
+related:
+  - title: "How the Police Use Facial Recognition, and Where It Falls Short"
+    excerpt: "So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Fla., that began almost 20 years ago, when law ..."
+    publishedDateTime: 2020-01-12T22:17:00Z
+    webUrl: "https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.html"
+    ampWebUrl: "https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: "https://static01.nyt.com/images/2020/01/11/multimedia/11pinellas/00pinellas-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+  - title: "The benefits of facial recognition AI are being wildly overstated"
+    excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans."
+    publishedDateTime: 2020-01-13T20:42:00Z
+    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/13/the-benefits-of-facial-recognition-ai-are-being-wildly-overstated/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/inacrowd-796x417.jpg"
+        width: 796
+        height: 417
+
+secured: "FpR/G2EU2Z1XvcVb41D45H7vxE6gMuhWjiD9ZS/bJ/P5fGZijwBNUEfSHx7MVrcaxaWLrhrd+tPQ7saOuU+oHGWdmqS8wXwbZYDLvUr0kFHPYgDiWHdIZTdknyF5zRBYct5lo8whJpWP3R0xL9ZnlFoI3KMHNrZBbPnqo/aydku3td32aCTO5MxCfnAyDDFrOeXCZVXoyusc52WkTgOMIiC3eBgmzF0k5qQqIUo4lZlE8KJ1MZk6AQUzKrvyweAkrandccahEBNlAx+67YEt0cZsj7Q5T+rFRKGXujb4nsAxBDHZ953/OwToilzWZf4B;4/E4Rw/sGt3022GLUfwE8w=="
 ---
 

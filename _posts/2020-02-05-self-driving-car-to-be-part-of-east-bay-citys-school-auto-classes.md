@@ -1,22 +1,43 @@
 ---
 category: news
 title: "Self-driving car to be part of East Bay city’s school auto classes"
-excerpt: "East Bay school partners with country transportation agency, autonomous car maker to re-envision auto training program."
-publishedDateTime: 2020-02-05T19:32:00Z
-webUrl: "https://www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/"
+excerpt: "But this fall, Pittsburg High School will put to the test an auto class like no other when it launches its first advanced, hands-on course on repairing and maintaining self-driving electric vehicles. Helping the school to get into gear — and students learn about automobile careers — are the Contra Costa Transportation Authority and Local ..."
+publishedDateTime: 2020-02-05T20:34:00Z
+webUrl: "https://www.eastbaytimes.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/"
+ampWebUrl: "https://www.eastbaytimes.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
 type: article
-quality: 4
-heat: 4
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI
   - AI in Autos
 
-secured: "uI9/1FqTjgzbkLvKznFJGsrUlAWt3+4SGVX40shb48KKdkmWD3Eko7Nygd3U0pkxkBrY+4ozUGubSUViZyvNWSCLY376XO3w9YsoN5io/RZ7UTSMjQpThjtGzIIPCgoDdf7mAavG1gusa/xCG6HXUMp1rDNB6jkFNPgZYc0T6/ekli1AvTZ01aWTo2st+jcxf1mODkwZQB2Qqw3MmIUl/45Nr9aeauRCwJur7l1qBSkap5KW7ss95w/xYmdmAdziyds18+CpQtABJIZgghjBknkvLq3ipHSHzm6VHAmw7ae1NX1wl7SxlUGH2R4LPLxf62zNk6eoPXOMo6PwcRZUWeTt+jwUb39Eh2TPYWovAJ/QwmSbaBO3B553aI3aXfxHid7RfUQNRKn9bNDTVbGsUzWlWNPbr8DIyVZ22t6sv/ovIUrjrOgiEmPwrgbehlMJX6Ij82lVERfOkdbd1llt2+/FajlztUsKZVfgLZS3/hc=;WhxNMVMIRNfWuKRK1MTk/g=="
+images:
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/02/EBT-L-PITOLLI_72356810.jpg?w=1024&h=607"
+    width: 1024
+    height: 606
+    title: "Self-driving car to be part of East Bay city’s school auto classes"
+
+related:
+  - title: "Self-driving mass transit arrives on American streets"
+    excerpt: "When Interstate 71 arrived in Columbus in the 1960s, the South Linden neighborhood was largely cut off from the rest of the city, wedged between railroad tracks to the south and east and the new concrete highway to the west. More than a half-century later, autonomous technology is helping reconnect South Linden with the rest of Ohio’s ..."
+    publishedDateTime: 2020-02-05T08:00:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation/self-driving-mass-transit-arrives-on-american-streets/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation/self-driving-mass-transit-arrives-on-american-streets/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/self-driving-mass-transit-arrives-on-american-streets/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
+
+secured: "uMjMQtMiPkVpAyXkJtl8eqxK/sxzXjFS94uEGw0+yG2ivAEhYTZ3RdWdzG0axyj3hH0ktaDGW00KFVTXtTnipT/UjvOYj77jX8LqoCsJtBt9GA1gTEqmXa+mta5gfPTyo+moN4cmUA7O5K9zbLYiV1o4uNx9CIAWRGL+/I00Ki03Mx1hs6Udjr/qDRpTg8Cn47ZkZXna5P8m3hkRH0SaLq260vB/1W95OM11TAAfDHCD6pBWiJMMWaF48LcsgBB/wcxuAU9m2+XyUte8h+9XaUBXgU8MS+u0VS7wSkewJJZ0Q9Wnj/NtvObCAQj1Nmcq;z1FFRYAnIx4u7qTZYQl5pQ=="
 ---
 

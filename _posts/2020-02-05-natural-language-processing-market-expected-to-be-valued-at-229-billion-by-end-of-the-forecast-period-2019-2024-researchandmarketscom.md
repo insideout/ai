@@ -70,15 +70,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Self-Driving Bus Market Size, Share, Trend & Growth Forecast to 2027"
-    excerpt: "Autonomous vehicles also known as self-driving car or bus makes use artificial intelligence (AI) software, cameras, and light detection & ranging (LiDAR), RADAR, to sense the surrounding environment and navigate by creating an active 3D map of that location. There are diverse levels of autonomy ranging from semi-autonomous that involve driver ..."
-    publishedDateTime: 2020-02-04T12:24:00Z
-    webUrl: "https://www.openpr.com/news/1918469/self-driving-bus-market-size-share-trend-growth-forecast"
+  - title: "Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By Technology, By End Use And Segment Forecasts, 2019 - 2025"
+    excerpt: "/PRNewswire/ -- Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By Technology (Deep Learning, Machine Learning), By End"
+    publishedDateTime: 2020-02-05T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-market-size-share--trends-analysis-report-by-solution-by-technology-by-end-use-and-segment-forecasts-2019---2025-300999317.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "K4pEQ3VoOt1JNsf8hNKiOkvKWo20XRuM8zai2YurqmTtn2FTfKNJogFzbY/IFFgHz5CJhiGFoUWY6CxjK6+vcWhqfJo9mlO4O1dV77fdZ4buaizU2zujocdQczgvcfbK5doW6BlmCFkOhO8xO1JN3O8BrVfUDvflnVVyH4avkCQPLFhFjmnVNAUwjNQfQc2lzADbTfovYkFlRvB4t6OPxVPAK+4KdDmqwJi+yGjNirIB8+AVN3CL+9Yxpk0qtRfxsMSMswujxmdTw/tVAZ/Z9sgUP4YYVoF0CZ4nA3FbR+DSoCb+8SzYtISEnoWWbOixSBFb6VYUii/onnM+I3KABR5XlFWyoKffIE60VOslx4iMqbb2mmwQ9HRZx71p2h6o1wB2GaVG7nPR9r6RZe9RaC+YHBg7PgWRlmAu7hfcrG9UGypB4Tf3Xdit3tUrSUSvj/QsszJI/84ECAVJT4oU7Y5H2WQR/I4ggKHN4kuxJlE=;uHzxZJ3LZbW6SR130JCnEw=="
 ---

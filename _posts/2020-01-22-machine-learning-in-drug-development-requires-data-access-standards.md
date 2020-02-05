@@ -18,19 +18,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Data challenges hinder machine learning in drug development"
-    excerpt: "While machine learning has the potential to identify new treatments, reduce failure rates in clinical trials and improve drug development, a lack of high-quality data is hindering the use of the technology. That’s among the findings of a new report ..."
-    publishedDateTime: 2020-01-22T05:25:00Z
-    webUrl: "https://www.healthdatamanagement.com/news/data-challenges-hinder-machine-learning-in-drug-development"
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: "https://sourcemedia.brightspotcdn.com/dims4/default/1c53273/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fb2%2Ffb%2F50858dbb4b34bc5539847a86c8c6%2Fdrug-research-090816-a.jpg"
-        width: 1200
-        height: 630
   - title: "Poor data is hindering machine learning, US drug development, study says"
     excerpt: "A lack of proper data is hurting the use of machine learning to develop drugs, which could put U.S. drugmakers at a competitive disadvantage compared to other countries, according to a report from the U.S. Government Accountability Office and the National Academy of Medicine. Machine learning is a type of artificial intelligence that involves ..."
     publishedDateTime: 2020-01-23T19:08:00Z

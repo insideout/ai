@@ -4,8 +4,10 @@ title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
 publishedDateTime: 2020-01-20T12:36:00Z
 webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
+ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
+cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
+    width: 1200
+    height: 628
+    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
   - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
@@ -134,19 +142,6 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2018/10/artificial-intelligence-3d-printing.jpg"
         width: 900
         height: 600
-  - title: "IBM proposes AI rules to ease bias concerns"
-    excerpt: "IBM also suggests that companies appoint chief AI ethics executives, carry out assessments to determine how much harm an AI system may pose and maintain documentation about data when “making determinations or recommendations with potentially significant implications for individuals” so that the decisions can be explained. Spearheading the ..."
-    publishedDateTime: 2020-01-22T04:53:00Z
-    webUrl: "https://www.healthdatamanagement.com/news/ibm-proposes-artificial-intelligence-rules-to-ease-bias-concerns"
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: "https://sourcemedia.brightspotcdn.com/dims4/default/fd1758b/2147483647/strip/true/crop/2009x1055+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F89%2F2b%2F5777b1b2441a87863535bc1883bb%2Fginni-crop.jpg"
-        width: 1200
-        height: 630
   - title: "IBM bats for regulating AI based on accountability,security"
     excerpt: "To ensure compliance with these expectations, providers and owners should designate a person responsible for trustworthy AI, such as a lead AI ethics official. All entities providing or owning an AI system should conduct an initial high-level assessment of the technology's potential for harm. And regulation should treat different use cases ..."
     publishedDateTime: 2020-01-22T19:58:00Z
@@ -157,6 +152,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "hqgqBX4bZzg5v2CwT3p/FwQmZTqevAQM1jqpyljO69yTsFGMUBj/ILoVv2dPJ7sSmjo9FZs4r5T3xk/2xOymT71rJM6k0UuJEPJyfxqrrXyF61BwsM06UmgxYrbLd1SLct/hl6rfJn+un+vJm0Idx7mkDxWR5AwgwqfJ/usEsSOmWB0e1auIIoMoIwtZZSIdKgY5fUIBk48quzjhYblmIt+s7psGi6728Pb48CxNnTAR67jCluSr4tyR6lNIPNozBgwYiroez5rzo2GvCqpMvKAiK2k8bBV3cbOIzK4ZpAb9RRHOXG9f6q3Y6IkU6rPlaPxiykDXedH7ybD4jVsh++XIVUeh9gfycrMrWrEBqFyN1lo4un49xBjsTdW323ItX3dprB6C+16YUOpmiHQavhVn2MUZMenuwjSaC088Yb9xMFTGstLlQ8+vE3uZgmnqJGNLbVAYkO7JyV+YrRdb8s77US4WhvhOQjguWCgITTY=;P2RIzGUHeumFW11prqpHrA=="
+secured: "xVrUwywCTc8m8ZQuNlCY32g5KaXHa3RnfbKxp6OVByR6C+MnYQ9/9HqNOTMf+oznGuZeoIGETihoosYfe/LPwkQMW1v3Vy0wSPnvq0cCw1GUQJQHtFKzadz9Cc0j65WpMlWDM9SBplPpdADsZ64ck48uQshPJARO5dZK2G3HGH26ANxm3R1FFe8r9RaNH/Eu8U44zNXJy6GBy1xP+mYq62CaeSURp+oUFsxdHvnXvrJ7lyShtTFZEl2NtVXmVFCf79BAj+H3AF9lTaSq0q75SUmMsfu3CjlsUwIPfJ6H5fbERFZkCe/PkqXxrA/s3hbo;66Q/Iq6GK8a/m4wP02tREQ=="
 ---
 

@@ -30,19 +30,6 @@ images:
     title: "Spoiler Alert: Three Key Ways That The New And Electrifying GM-Backed Cruise Self-Driving Car Minivan Might Have Some Heartburn"
 
 related:
-  - title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
-    excerpt: "Cofounder and CTO Kyle Vogt said that the company has technology that could allow for highway operation"
-    publishedDateTime: 2020-01-23T17:20:00Z
-    webUrl: "https://www.businessinsider.com/cruise-self-driving-tech-for-city-and-highway-driving-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
-    images:
-      - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "Cruise says new self-driving van will save passengers $5,000 a year"
     excerpt: "Ammann said the company is in discussions with the National Highway Traffic Safety Administration about a waiver. And, while Cruise has a permit to test its autonomous vehicles on public roads in California, it does not have a license to charge people for rides in self-driving cars."
     publishedDateTime: 2020-01-22T10:42:00Z

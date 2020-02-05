@@ -1,33 +1,25 @@
 ---
 category: news
-title: "Uber gets permit to restart testing its self-driving cars in California"
-excerpt: "Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona. The California Department of Motor Vehicles issued a permit on Wednesday to the company’s self-driving unit,"
-publishedDateTime: 2020-02-05T19:31:00Z
-webUrl: "https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZZ2QG"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZZ2QG"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZZ2QG"
+title: "Uber Gets Permit to Restart Testing Its Self-Driving Cars in California"
+excerpt: "(Reuters) - Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona."
+publishedDateTime: 2020-02-05T20:13:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-02-05/uber-gets-permit-to-restart-testing-its-self-driving-cars-in-california"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200205&t=2&i=1486288485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG141VL"
-    width: 818
-    height: 545
-    title: "Uber gets permit to restart testing its self-driving cars in California"
 
 related:
   - title: "Uber can resume testing its self-driving cars in California"
@@ -118,15 +110,6 @@ related:
       - url: "https://i.insider.com/5e32d55a24306a7e802e8322?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Waymo workers complain about cuts to benefits and needles in self-driving cars"
-    excerpt: "The company recently announced it has racked up 20 million miles of autonomous driving on public roads. Waymo is widely considered to be the global leader in self-driving technology. Alphabet relies on an army of so-called “TVCs” To run the program, like its many other projects, Google parent company Alphabet relies on an army of so-called ..."
-    publishedDateTime: 2020-02-05T14:00:00Z
-    webUrl: "https://www.theverge.com/2020/2/5/21123049/waymo-self-driving-cars-workers-vendor-contracts-benefits-needles"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 60
   - title: "That California Story About A Daughter In The Backseat With A Sign Saying ‘Not My Mom’ Stirs Valuable Lessons For AI Self-Driving Cars"
     excerpt: "The phrase “Not My Mom” created quite a commotion the other day. Here’s the 411 about it. A recent news story indicated that a girl in the backseat of a moving car displayed a hand-scrawled sign that said “Not My Mom,"
     publishedDateTime: 2020-02-01T16:41:00Z
@@ -142,21 +125,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F626535545%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5594%26cropY1%3D275%26cropY2%3D3421"
         width: 1200
         height: 675
-  - title: "Apple and Its Rivals Have Spent $16 Billion on Self-Driving Cars"
-    excerpt: "The report outlines the estimated spending by the top 11 companies working on self-driving vehicles, which is topped out by Alphabet’s Waymo, GM’s Cruise, and Uber, which The Information estimates have spent about half of the money being invested in developing the new technologies, while Apple, Baidu, Ford, and Toyota account for “most of ..."
-    publishedDateTime: 2020-02-05T17:42:00Z
-    webUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/"
-    ampWebUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
-    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
-    type: article
-    provider:
-      name: iDrop News
-      domain: idropnews.com
-    quality: 44
-    images:
-      - url: "https://cdn.idropnews.com/wp-content/uploads/2019/01/24072607/apple-car-concept-drawing.jpg"
-        width: 1000
-        height: 600
   - title: "Self-driving shuttles tested in Linden"
     excerpt: "Self-driving shuttles began traversing the streets of Linden on Wednesday, and community leaders and residents hope the pilot program will show the need for continuing such service. The two 12-passenger shuttles — one blue and green, the other rainbow-colored — began serving the public at 3:30 p.m. The free Linden LEAP — for Linden ..."
     publishedDateTime: 2020-02-05T21:13:00Z
@@ -247,6 +215,6 @@ related:
       domain: theguardian.com
     quality: 4
 
-secured: "l2deaodQDX3O0yr3Bckw782Cd0nglPuhAdWc2jLIYWqngsHszaPApEGYDRQyWWthDXUIK4aYaAvL5maf7+qOUzQ+ncOd74PiU26QFR5N04JnAEOkac00ruhFLftqxuqkkUpFmjiuYihUgCOvWtrSakSlLpHsn/naDtq+heN8Kyrc8cBBFgzAHWvvlyE8ru+b06UZ7zcG9qEUbszXN93vRA3zHYYL1WvrMcXAJUQ8214o6YUTnM//ZD4rIdmQSWH244v2PFL23gllynCtw8ex5GwC3n+6TmlEtPxES+VTCw4m7NxGCQmTz8v7HpomltoPlK5lVFn7EbuUaLXBLV4yi8EojzmU+SzZTjaRDfJV0mgcjkKUcZrycjDD4jk3APMXeXsTKVwNyVDn6UtWShRCtQyOgWN3sUh38KLHvJCu4cmSmUqAVpt7MSXswHrY5M/eJmhf4RV+8Yse46Bq0YTSLdGpEXATgFVgpUqHupDpIPQ=;va3F5MhCXyHZ5LmZc4POkQ=="
+secured: "thvGwAxikbyGLh/lk8OsQXnpnNmZ5yT4WftLI46JkKfBF7SppMDzltWhUnpXHaw+JgSZDPaXlpazcWz3Tqdu6CzWEhqPxAWL9ZtjZzyxt8gKf7fGT5SDpZQjp8oXWeCPmTE2DPk/TYYOSjRBYDnCCDUMh09LZM9zIgCwUp6W/hsH5CpDhpm1pL2a2+KSZRxCFH0U2zutfAVXB0TaHtU9qjDdEvfNkXWe6cpuE3+JC2Ast7+C/ol+UsFFw/1nRn7zOXlZzfUjWSssjaI3knMq+R/z0UDY/jYtWMFJUpr+7k3JrTTCEs675nQoG6FUEZ+AIyqiLUJ82CEyyj4+UPe5HiDdooyDjwni0naUv2vEZRYo02aZE8ZblBxMesDjvLifFwDAMiodbGggaZHQImvCTVMc0qvCKG7q7V7dFRMqGzh+r4Z73yeM7KMe4zj5p2pv1SJMVPjrcoapJEIbVLeImA7cvTNLAJ2890YYjcvQwf4=;+8k3uta30AqeXjCG1a0eHw=="
 ---
 

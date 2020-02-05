@@ -5,8 +5,8 @@ excerpt: "This piece originally appeared on Fast Company. In 2019, we proved fac
 publishedDateTime: 2020-01-17T17:55:00Z
 webUrl: "https://www.aclu.org/news/privacy-technology/2019-was-the-year-we-proved-face-recognition-surveillance-isnt-inevitable"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "0Z67Jjm/A6Ijs/ymrj0r7FQjup4uQXUwglApz4CaFXMz91ug9qF/F0z5g3fYwSlrhLKWEK0RK8w+pqBcz/VkNv62HzZqKox2NdYhwTAIy12mcNbved02dfbkb4bQoUM17H3eIz7kXyqTc/B6OFT19APeZa2k0ipt88VRzI6bPHlp4THw1jm7mbrIVyazZh/H1Ifovbe685jSE3ncf9o96lr3tdUez8VbUYtb6FmUWySaJjUm86TqgZM/c0cwtPu1/Fn8hc20QKAOm1FkF4M9lk+vbV/wwn3Rh1RiSSBaNUrId2/Y+/U2IsnseIkYfrPs;WVAvSIcWMoKgpt5wy24ryw=="
+images:
+  - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
+    width: 1200
+    height: 630
+    title: "2019 Proved We Can Stop Face Recognition Surveillance"
+
+secured: "CpPErj8Abl+N7KyV+zpdZyu3xWU3QFKHeDKlMkMV9b1yUzERDU2w1f8/jUgDgECjNmplDKRxY48NnY/OfGQWv+1veKG2yiV5cFZnq9sNKs6BvWnt+5AwfWj5q2woMr/M4GRtF1jeSBdUMgcLUpq/dlE2ErMX6rkWxGC5GUYar4t3Jk0r+rdBsr6ptj66LPxv/3i0C83iHOily0jwUNg+XJU2nMezsiw9RLrYc2lhQaLfi4IREWqWrZKVHU6CXQLDgNZfF2F9wP+S4kJS0oHAwyVZrPjho48opRaLZPl1X18u/Qk+iP9uzn7PxH+qeesY;TL75NLu/ML9bhB582zwpsg=="
 ---
 

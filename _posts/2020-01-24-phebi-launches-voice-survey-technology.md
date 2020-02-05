@@ -26,15 +26,6 @@ images:
     title: "Phebi launches voice survey technology"
 
 related:
-  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-    excerpt: "This will extend Microsoft’s offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
-    publishedDateTime: 2020-01-22T04:43:00Z
-    webUrl: "https://www.techworld.com.au/mediareleases/37785/hcl-technologies-launches-a-dedicated-microsoft/"
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 19
   - title: "HCL Technologies launches dedicated Microsoft business unit"
     excerpt: "Noida , Jan 22 : HCL Technologies has launched a dedicated business unit that will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), artificial intelligence and machine learning. The new unit will create intellectual property extending the Microsoft platform for customer ..."
     publishedDateTime: 2020-01-22T23:06:00Z

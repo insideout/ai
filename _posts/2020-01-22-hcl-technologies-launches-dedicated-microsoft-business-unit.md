@@ -33,15 +33,6 @@ related:
       - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
         height: 581
-  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-    excerpt: "This will extend Microsoft’s offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
-    publishedDateTime: 2020-01-22T04:43:00Z
-    webUrl: "https://www.techworld.com.au/mediareleases/37785/hcl-technologies-launches-a-dedicated-microsoft/"
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 19
 
 secured: "slTeddhX5f2ybDuWPK83OcI1uJBNb8dQZ8eaVD1dJ2UE8YThFItEE2MOmDPiHJXJCkQWasAts/rW23niIraIqxwRq7PFudWKl2G5V3FELxXq216nPxrnPfFlyGLBiC0yP+rlXozPdLf17aJdUsUGSihh8ocfXHXhk5+lqCFYfThLNCFiE5sf+kImrI33lrnCs4yq2IKnjKTMR4ECy4sRhIvOn1voJ7H/xhdy/S1o+cZHxV23DOoo4yXEmEklk6kA79PCfWpFB35dbqmv1k1LOHSs2oLQM0AcZyKd57Gw0Ms=;362i7/5ZY5xCvnIGJbelJA=="
 ---

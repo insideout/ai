@@ -39,19 +39,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F44137954%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D209%26cropY2%3D2459"
         width: 1199
         height: 675
-  - title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
-    excerpt: "Cofounder and CTO Kyle Vogt said that the company has technology that could allow for highway operation"
-    publishedDateTime: 2020-01-23T17:20:00Z
-    webUrl: "https://www.businessinsider.com/cruise-self-driving-tech-for-city-and-highway-driving-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
-    images:
-      - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "Cruise says new self-driving van will save passengers $5,000 a year"
     excerpt: "Ammann said the company is in discussions with the National Highway Traffic Safety Administration about a waiver. And, while Cruise has a permit to test its autonomous vehicles on public roads in California, it does not have a license to charge people for rides in self-driving cars."
     publishedDateTime: 2020-01-22T10:42:00Z

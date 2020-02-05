@@ -99,21 +99,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/screenshot-4.png?w=1024"
         width: 1024
         height: 453
-  - title: "LumApps raises $70 million to fuel development of AI for its workplace collaboration platform"
-    excerpt: "LumApps has raised a $70 million round of venture capital as the Paris-based startup seeks to bring more AI and machine learning capabilities to its workplace collaboration platform. The company’s Social Intranet service is deployed internally by companies with the goal of connecting employees so they can share information and communicate ..."
-    publishedDateTime: 2020-01-22T05:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/21/lumapps-raises-70-million-fuel-development-ai-workplace-collaboration-platform/"
-    ampWebUrl: "https://venturebeat.com/2020/01/21/lumapps-raises-70-million-fuel-development-ai-workplace-collaboration-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/lumapps-raises-70-million-fuel-development-ai-workplace-collaboration-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 76
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/awesometable-e1579626289453.png?fit=1200%2C649&strip=all"
-        width: 1200
-        height: 649
   - title: "OpsRamp raises $37.5 million to apply AI to DevOps processes"
     excerpt: "Ever heard of AI for IT management (AIOps)? It’s a burgeoning ecosystem of platforms and products that enhance IT operations by leveraging AI to analyze data collected from various tools and devices. Research and Markets anticipates it’ll be a $14.3 billion segment by 2025, and one of the startups leading the charge is OpsRamp. Raju Chekuri ..."
     publishedDateTime: 2020-01-30T08:00:00Z

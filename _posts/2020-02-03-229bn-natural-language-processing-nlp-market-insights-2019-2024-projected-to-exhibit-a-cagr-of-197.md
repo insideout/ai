@@ -1,19 +1,17 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
-publishedDateTime: 2020-02-03T10:44:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
+publishedDateTime: 2020-02-03T11:44:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -89,6 +87,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "ZY2VVV2rmooiK2HkMXb2Jtj5x6ozieSZd6Nlln5q/46I6vYQkaPxHFypX8z4b/kV3+RAPSGMYOaoZburuU8ZBaOpe9aWvIM6KJ4bKm2p/WsOD5+R2FauadyTjd6peqNBpgJLu/t2g0RhAPUrWrZ3OwyNzpxFfBV6nuTlDVMoR/u3kH3Uc79Raz+0C9Mm/gxVi/ZOsFqROAi69vATopZ8ABWoYfaVwR/3lW2s3IoQgZUWcDJtfkKvRJpmLBVzXTIGc/tYJQAH9oJNDHX3OSi0z9iqhHD3ikeB+r2iwuXwD0Fy6vdeChbwMiBrv09/GzsL;bh45bAeFKR4qUmjZBpM7MQ=="
+secured: "+s1p9DpfFQrNLGzneoRn27fW4qy5w1fp3gsQOHDa1k3BxpViuili2fycPqpwNL/S93lu1huL2Sm5ndhjW5c9jxfrGlrwvr9RYZlTtcMLCSrAOLBo9I2+6e7DyUbOxz5kepw/jIrYntpay6jbRA9A2tBOCMAIPW869uLm/RFQhVOfPXOenotClCoJ32syIs2NJSRb3J8fnEET2XWQ506fyXvGAkvTO2W1ddwCMO3iYONotqD4QVtMHupQ9H/TcIqNVZodLh7ZQPeHfR0FYQOvpZdQuu8gUUJe0gpdVkVxc9Yf5R28cnRUsO+8lgkFIB0t;3EFpT48XsgsoQiB987nJYg=="
 ---
 

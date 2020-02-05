@@ -3,10 +3,12 @@ category: news
 title: "Self-driving mass transit arrives on American streets"
 excerpt: "When Interstate 71 arrived in Columbus in the 1960s, the South Linden neighborhood was largely cut off from the rest of the city, wedged between railroad tracks to the south and east and the new concrete highway to the west. More than a half-century later, autonomous technology is helping reconnect South Linden with the rest of Ohio’s ..."
 publishedDateTime: 2020-02-05T08:00:00Z
-webUrl: "https://www.seattletimes.com/nation-world/self-driving-mass-transit-arrives-on-american-streets/"
+webUrl: "https://www.seattletimes.com/nation-world/nation/self-driving-mass-transit-arrives-on-american-streets/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/nation/self-driving-mass-transit-arrives-on-american-streets/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/self-driving-mass-transit-arrives-on-american-streets/?amp=1"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: -1
 published: false
 
 provider:
@@ -18,16 +20,22 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Self-driving mass transit arrives on American streets with a project in Columbus"
-    excerpt: "When Interstate 71 arrived in Columbus in the 1960s, the South Linden neighborhood was largely cut off from the rest of the city, wedged between railroad tracks to the south and east and the new concrete highway to the west. More than a half-century later, autonomous technology is helping reconnect South Linden with the rest of Ohio's capital ..."
-    publishedDateTime: 2020-02-05T13:41:00Z
-    webUrl: "https://www.crainscleveland.com/government/self-driving-mass-transit-arrives-american-streets-project-columbus"
+  - title: "Self-driving car to be part of East Bay city’s school auto classes"
+    excerpt: "But this fall, Pittsburg High School will put to the test an auto class like no other when it launches its first advanced, hands-on course on repairing and maintaining self-driving electric vehicles. Helping the school to get into gear — and students learn about automobile careers — are the Contra Costa Transportation Authority and Local ..."
+    publishedDateTime: 2020-02-05T20:34:00Z
+    webUrl: "https://www.eastbaytimes.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/"
+    ampWebUrl: "https://www.eastbaytimes.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
     type: article
     provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 0
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 44
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/02/EBT-L-PITOLLI_72356810.jpg?w=1024&h=607"
+        width: 1024
+        height: 606
 
-secured: "HBaQQV92Eco+TVWWaERmnDpe+2KR2oyBPYthQkoJZP+809bPxpEGaba0fqFbndwlf8ZOh6XSODeI111CDKRM6Y7F9d7XkQ4eA/YkeP6bEOdABxkL6UKNhsAe5mPEBwzu3HOkqUJlALa13k5Cm7pV4O2bWnH3qr8gt77BSXNGachUUcoZDEeqUNNH0VlCPTKgI0aJuI13N8qKxd6qyBmN3F6VzrWElpnWyjARiwwTCBzMCv4vCn3RTcn78R2+jo/NnKNqImM0HFHOEpZEkklqZzstPRCv3o17x86jR0csS8FSvRbT4mwVghjV73nx6ZOvR1pxF93TGN1OzDZZcI3fmgaTxEqbxojMB/JILJPKMDeeHTfarzQkc1k0R/6T1HCPSBf/AW1uU57EfIrm1/z2LP2PxbETC/hyHexjhZjnLvCXyLS2tvMA0WahK7SkIUikE23cbHt2fZVm+uuH6UrE8zqxk1C5aE2U2S0rbI74zvM=;JMTtt5+J5slKFbh7LHfiUg=="
+secured: "8GmKWeqO8cRgdXuBKc5ivhlpnVrkwggW6JbN6GgLTEoV/vFh/oda5gnywnjxmMWXft/V25zdv8z3O4QlAgJlGNQgbjl4qw7qCUU8/tnwtwWWukF4riKsmtQvEQyYKq3zzU86nUKvNg+6IFSJVTJFt1PfnmMNfM8KY0yoFrTSBWhAEY0WxsOzrI7I4OfuC/L03KQP/3dDVhJPFf6bDnu0kf9T1ok8JlkhCkWu2wS0VpREsn7qzRekQeq76hSXE9mtTBVBI9yhzFpN9l0YUSjTiPnv7Y5c0SarweG88DoDKH+7gEK9BQ+Lh9VpR6Qm4vlhmepmOooLnyxgM4QFVJ/UMhEVt0F97BLNuaKNNKP74T7mxra03LXuhbME9uvqhVt0aQxhV0JmNA6xxgmU0CJBol0f1Mz0whoWoSstoEznyQFkGzvy0vHY95SH7PdD0XY82cmiUjMVXbe7YK11C7b2gIoB0jiVfTPXhxV4pMSjdiA=;5Dfc1JFlCnEGHaqhB6RKnA=="
 ---
 

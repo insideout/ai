@@ -24,19 +24,30 @@ images:
     title: "Working the bugs out of self-driving vehicles"
 
 related:
-  - title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
-    excerpt: "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages."
-    publishedDateTime: 2020-01-31T11:52:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
+  - title: "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits"
+    excerpt: "Drivers of Waymo self-driving cars in Phoenix have reportedly seen their benefits cut since being classified as \"vendors\" instead of \"contractors.\""
+    publishedDateTime: 2020-02-05T22:17:00Z
+    webUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
+      - url: "https://i.insider.com/5e3b13600ce3d1277b0b323b?width=1200&format=jpeg"
+        width: 800
+        height: 400
+  - title: "Waymo workers complain about cuts to benefits and needles in self-driving cars"
+    excerpt: "The company recently announced it has racked up 20 million miles of autonomous driving on public roads. Waymo is widely considered to be the global leader in self-driving technology. Alphabet relies on an army of so-called “TVCs” To run the program, like its many other projects, Google parent company Alphabet relies on an army of so-called ..."
+    publishedDateTime: 2020-02-05T14:00:00Z
+    webUrl: "https://www.theverge.com/2020/2/5/21123049/waymo-self-driving-cars-workers-vendor-contracts-benefits-needles"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 60
   - title: "Dubai prepares to roll out self-driving vehicles"
     excerpt: "Over the last few years we’ve seen plenty of progress being made with autonomous cars, self-driving vehicles and even pilotless air taxis. Now, Dubai’s RTA has taken another step towards getting the initiative off the ground. As we move another step closer, the Roads and Transport Authority (RTA) has revealed a new set of rules over ..."
     publishedDateTime: 2020-02-04T12:16:00Z
@@ -52,19 +63,34 @@ related:
       - url: "https://www.timeoutdubai.com/public/images/2020/02/04/self-driving-vehicles.jpg"
         width: 750
         height: 500
-  - title: "UPS and Waymo partner on self-driving parcel pickup"
-    excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
-    publishedDateTime: 2020-01-30T17:34:00Z
-    webUrl: "https://www.retaildive.com/news/ups-waymo-self-driving-parcel-pickup/571415/"
+  - title: "Apple and Its Rivals Have Spent $16 Billion on Self-Driving Cars"
+    excerpt: "The report outlines the estimated spending by the top 11 companies working on self-driving vehicles, which is topped out by Alphabet’s Waymo, GM’s Cruise, and Uber, which The Information estimates have spent about half of the money being invested in developing the new technologies, while Apple, Baidu, Ford, and Toyota account for “most of ..."
+    publishedDateTime: 2020-02-05T17:42:00Z
+    webUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/"
+    ampWebUrl: "https://www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
+    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/apple-and-its-rivals-have-spent-16-billion-on-self-driving-cars/128854/amp/"
     type: article
     provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 39
+      name: iDrop News
+      domain: idropnews.com
+    quality: 44
     images:
-      - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
-        width: 770
-        height: 364
+      - url: "https://cdn.idropnews.com/wp-content/uploads/2019/01/24072607/apple-car-concept-drawing.jpg"
+        width: 1000
+        height: 600
+  - title: "Uber is trying to bring its self-driving vehicles to the District"
+    excerpt: "This month, Uber announced plans to bring its self-driving vehicles to D.C. The transportation company began collecting data in the District on Jan. 24 to do so. Exciting times ahead in Washington, DC where we'll officially kick-off manual data collection with three self-driving vehicles, starting tomorrow (weather permitting)! Learn more about ..."
+    publishedDateTime: 2020-01-30T18:08:00Z
+    webUrl: "https://technical.ly/dc/2020/01/30/uber-bringing-self-driving-vehicles-district-dc-data-collection/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 24
+    images:
+      - url: "https://technical.ly/dc/wp-content/uploads/sites/5/2020/01/Uber-ATG-self-driving-cars.jpg"
+        width: 680
+        height: 453
   - title: "Autonomous and Self-Driving Vehicle News"
     excerpt: "As a member of the Consortium, Synopsys will actively contribute to the development of a set of recommendations for system architectures and computing platforms that will be used to address the challenges of deploying self-driving vehicles at scale. Waymo announced it will be driving its Chrysler Pacificas and long-haul trucks in Texas and New ..."
     publishedDateTime: 2020-02-03T02:18:00Z
@@ -78,19 +104,6 @@ related:
       - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews2.png"
         width: 640
         height: 300
-  - title: "University of Tartu and Bolt presented self-driving vehicles lab’s test car"
-    excerpt: "On 28 January the University of Tartu and Bolt presented the test car procured for the University of Tartu’s self-driving vehicles lab. This high-technology vehicle will be used for experiments in several research and development fields. The aim is to conduct test runs in urban traffic this year already. According to Anne Jääger ..."
-    publishedDateTime: 2020-01-29T13:10:00Z
-    webUrl: "https://www.baltictimes.com/university_of_tartu_and_bolt_presented_self-driving_vehicles_lab_s_test_car/"
-    type: article
-    provider:
-      name: The Baltic Times
-      domain: baltictimes.com
-    quality: 22
-    images:
-      - url: "https://media.baltictimes.com/media/photos/147244_6396144185e3182f4b69e1_big.jpg"
-        width: 855
-        height: 535
 
 secured: "j3RXTLDJvQkS0FvgKv7aoctXtLACalpe8PDvZddvBikoPot6x3x4P7uYjmg/djjle+MkTayOyxt9rjkT4ctZZ3/4FxsZEpVMgwPPAVRWWiiOOlJy6RM907BaGQAXc8MixKKFrGzYKECbC7yd2NyAr+bLvVu+4YlE+LIYGszgCLjB9zsl4zASVYRLmzCY4glyLk/w+OC1H+EcQEJUcwaXmrhUAdWTBAFIpchEPFmpg+IRuo5HEOb68MR0rFkcfngt+pV39rKIBmYi0UPTWr81QCWs/7ubFgYVInFekqivWeAgzCq74shtD3IRYBokXD6A;B27Cnqs/UgL0sW85p8iuUQ=="
 ---

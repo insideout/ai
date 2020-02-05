@@ -40,19 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Cyber Security Market - Global Industry Analysis by Size Share Growth Trends and Forecast 2020 - 2025"
-    excerpt: "Global Artificial Intelligence (AI) in Cyber Security Market is expanding at a healthy CAGR between 2020-2025. On the basis of component, the segment is expected to emerge as the leading one in the forecast period."
-    publishedDateTime: 2020-01-31T12:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market---global-industry-analysis-by-size-share-growth-trends-and-forecast-2020---2025-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) in Cyber Security Market Top Key Vendors- NVIDIA, IBM, Cylance, Intel, Xilinx, Micron"
     excerpt: "Zion Market Research published a new 110+ pages industry research \"Global Artificial Intelligence (AI) In Cyber Security Market Is Anticipated To Reach Around USD 30.9 Billion By 2025\" is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term success. The authors of the ..."
     publishedDateTime: 2020-01-31T10:37:00Z

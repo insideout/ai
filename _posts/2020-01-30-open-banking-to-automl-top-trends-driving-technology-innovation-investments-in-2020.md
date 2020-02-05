@@ -20,21 +20,43 @@ topics:
   - Machine Learning
 
 related:
-  - title: "AI's Evolution: Trends To Watch In Investment Management"
-    excerpt: "Artificial intelligence has become one of the most talked about topics in investment management, but its full potential has yet to be discovered."
-    publishedDateTime: 2020-02-04T16:02:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/04/ais-evolution-trends-to-watch-in-investment-management/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/04/ais-evolution-trends-to-watch-in-investment-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/04/ais-evolution-trends-to-watch-in-investment-management/amp/"
+  - title: "Five Emerging Trends In Retail Technology"
+    excerpt: "Consumers want shopping experiences that feel personal to them, whether they are shopping online or in-store. Retailers are in a race to use technology to match consumer expectations and win more business."
+    publishedDateTime: 2020-02-05T22:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/942218138/960x0.jpg?fit=scale"
+      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1126653452/960x0.jpg?fit=scale"
         width: 711
-        height: 473
+        height: 474
+  - title: "AI Image Recognition Market Rising Trends, Technology and Demand 2019-2024"
+    excerpt: "The AI Image Recognition Market covers important aspects of this market concerning fundamental parameters. The report explains outline of the business range, concentrating on the overall industry, development possibilities,"
+    publishedDateTime: 2020-02-04T08:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-rising-trends-technology-and-demand-2019-2024-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Retail Market 2025: Industry Size, Growth Factors, Trends, and Top Companies Analysis for Business Development"
+    excerpt: "Subsequently, various well-established retailers are struggling with increasing operational cost, dissatisfied customers, declining sales, and upstart competition; thereby creating a need for implementation of artificial intelligence in the retail industry. With the new phase of digital transformation, top players in the retail industry are ..."
+    publishedDateTime: 2020-02-05T13:33:00Z
+    webUrl: "https://www.openpr.com/news/1920389/artificial-intelligence-in-retail-market-2025-industry-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "8mnwa0EFO1gAkf7NRbHzx5uI3psY7AQ7suhI55TaTTc1rh00UJox7W977CxteO8b4J/8IKDSHqdeXASjb6mUKzpM+TWL2KSCTSBF/5HluLcHbQnBfA13FHvnbsYnvy64YBNItXc0901MEIOSQopW0ipsUodvWTRGGY7z3xSj0OWGK/aSNo+8ySf++fPbRce71ajZeYcDdxBVOChWkVXKMzmoHuxjpMLWegZNcU0bfyZJxMztnqzORkQlWWJXxVZrxZIgidF7bAk1bzzUBJsNxueE9hCxoeHKyth62EzSAMjdqGPG5dL9pBr/8Tcs5QadxtjGprbvTBWUXJA9RAgOyvvipyV+T8p+HChh+cFVpQ5grI4BiG/aqdX4xrI8MmaJrnUFWiaXznTQiq7wujObNXqwYfdhYM8kFL1R8yugoKAfuojeOwHm3HhL50GgnHUkzwXxGFCD7TCwMphDwfis+5/5kfUkbho3bxz1I+7y5Uo=;+X+zlXoyrOb/zI/gcyBkhA=="
 ---

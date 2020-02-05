@@ -100,21 +100,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/screenshot-4.png?w=1024"
         width: 1024
         height: 453
-  - title: "LumApps raises $70 million to fuel development of AI for its workplace collaboration platform"
-    excerpt: "LumApps has raised a $70 million round of venture capital as the Paris-based startup seeks to bring more AI and machine learning capabilities to its workplace collaboration platform. The company’s Social Intranet service is deployed internally by companies with the goal of connecting employees so they can share information and communicate ..."
-    publishedDateTime: 2020-01-22T05:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/21/lumapps-raises-70-million-fuel-development-ai-workplace-collaboration-platform/"
-    ampWebUrl: "https://venturebeat.com/2020/01/21/lumapps-raises-70-million-fuel-development-ai-workplace-collaboration-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/lumapps-raises-70-million-fuel-development-ai-workplace-collaboration-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 76
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/awesometable-e1579626289453.png?fit=1200%2C649&strip=all"
-        width: 1200
-        height: 649
   - title: "Kneron raises $40M for edge biometrics and AI chip development"
     excerpt: "a developer of AI algorithms and AI-optimized processor designs for use in edge devices such as surveillance cameras and other smart home products, raised an additional $40 million to further develop its products. Kneron, which has over 150 employees, has raised $73m to date. Kneron unveiled its first chip, the KL520 in May 2019. The chip ..."
     publishedDateTime: 2020-01-27T17:49:00Z

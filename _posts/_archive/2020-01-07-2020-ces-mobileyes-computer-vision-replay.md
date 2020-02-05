@@ -23,6 +23,6 @@ images:
     height: 1000
     title: "2020 CES: Mobileye’s Computer Vision (Replay)"
 
-secured: "+ikwjcUUrZKAxeUwDGkb28QdWxOCgXUq/Nb2ufegvWhO0Mf8AI0r2Lp8MrxFxwA3cWpZkl90Qy3AkbNl6zzqrpD4edQ9y7cRH/voxHH/WeGwAMedovH5fhD+KFKZK+6/kjsT0W1qvhbAeCGlnzcsuNge3a0wTd+wpl/FHR7Skc9SQX8dGMpT2JcKvDx+ePAcWinonfw70k/J9LwKalkFAfVcT/8Odj+ratGuPxPMbrj1NmZE2NZfW9iCfyxXn4UoXhDYS/87i4/gM7O3bd4iX2LmhHgQyv7rp1joVuwc5tlbFrmjzy4UMxwqOcT9qFQL;07eNJm7oCXVa8Xl5gP68YA=="
+secured: "nkfD9gThkL103321nhRdhk5Wk5JMPn5C7y2SDxICSR/nTjIQSj8LKiB1JDMjaWjKxNJVmw577WrYPuSmB+upaziNFgyv/fU6c5qOJAm5VBUewHidWUQmBwjck9sMNZu7Viqn0JoLot9lWylphWKQu73Pk3/FKnj0h76mxAp3bplZ0JEufsdgZofcPbN3dR4aRjkVj4GJ4jpVhG9Aahv2u11CvpbNO8u3GW5NTbIsmOmJKYyZoDPm/2/q5UdhTFaZYujjOca4SnelXz9kr+jMj318I6uI7Xh15f1JsFkthMSpkGuAqKl5eBfMjqItNmMQ;+8Od6v3WZFzdQpffyHK7Ww=="
 ---
 
