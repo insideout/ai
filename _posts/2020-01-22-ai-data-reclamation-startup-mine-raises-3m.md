@@ -23,43 +23,21 @@ images:
     title: "AI data reclamation startup Mine raises $3m"
 
 related:
-  - title: "AI privacy startup Mine raises $3 million to help users ask companies to delete their data"
-    excerpt: "AI privacy startup Mine is one of 160 firms joining Intel's accelerator program. The firm has raised $3 million to help users take back their data."
-    publishedDateTime: 2020-01-21T09:26:00Z
-    webUrl: "https://www.businessinsider.com/ai-startup-mine-raises-3-million-help-users-take-intel-data-2020"
+  - title: "Startup that tracks cell phone data for landlords raises $12M"
+    excerpt: "A location-data startup that tracks tens of millions of cell phones and provides information to landlords and brokers has raised $12 million. The firm, Placer.ai, uses cell phone data to track pedestrian traffic in retail properties and provides feedback to building owners on the performance of retail assets and how many people visit them."
+    publishedDateTime: 2020-01-22T12:00:00Z
+    webUrl: "https://therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/"
+    ampWebUrl: "https://therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/amp/"
+    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: The Real Deal
+      domain: therealdeal.com
     quality: 57
     images:
-      - url: "https://i.insider.com/5aac3309cc502927008b48d0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "London-based AI startup ChAI raised $1.7 million to address the $60 billion commodity price market"
-    excerpt: "This AI startup draws from reams of data to predict changes to commodity pricing."
-    publishedDateTime: 2020-01-24T10:41:00Z
-    webUrl: "https://www.businessinsider.com/chai-london-ai-startup-raises-funds-from-passion-capital-and-mmc-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://i.insider.com/5e29b5c662fa8143430769e3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "Here's an exclusive look at the pitch deck AI privacy startup Mine used to raise $3 million to help people ask companies to delete their data"
-    excerpt: "This is a Business Insider Prime story. Click the link below to read it."
-    publishedDateTime: 2020-01-21T15:06:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/heres-an-exclusive-look-at-the-pitch-deck-ai-privacy-startup-mine-used-to-raise-3-million-to-help-people-ask-companies-to-delete-their-data/articleshow/73494734.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/heres-an-exclusive-look-at-the-pitch-deck-ai-privacy-startup-mine-used-to-raise-3-million-to-help-people-ask-companies-to-delete-their-data/amp_articleshow/73494734.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/heres-an-exclusive-look-at-the-pitch-deck-ai-privacy-startup-mine-used-to-raise-3-million-to-help-people-ask-companies-to-delete-their-data/amp_articleshow/73494734.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 2
+      - url: "https://therealdeal.com/wp-content/uploads/2020/01/1200-placer-650x405.jpg"
+        width: 650
+        height: 405
 
 secured: "1dnQK0sFeHDxyUwcKY/Alc9vKm2GmhUbuWEAyYmLpNKH6xTi08V7RYBKpLM1B4tP4SmTgUUYdQSVJ/4KdGZdfVY8E9fWxtMxQs03QDD3oqvw78CDCdR+t/CxE3N1AwAV3eccpjcL49/PfAPTNp8MtKYBdvp1szG5FEHNHplprcF5Fwn1gzSHreukDBUuTJRtb7QBU6I80w4iBDolJxeiVDBqzY6guj8Jv+ZNh7SI4uH7zgLqauvU6scGZV2LWcssyu5itocG42sfK15Bms6t0aIbZM+IDXvQfUW7IFr/YJ1j2Mpxh/V3BduZztUjKVM6QpchuUjUha3THn1Cs29XIfxi1ULU1V3bNRfoCCF8wv2ARIsQTZeyBmkedhBn9PNboTOCAzF6vnRZkCp7HgKkv3YHhvVdqtzJr5Os/MxHQgmyXHIdpACSFpg/2ZVDyozfaZDZKn+gAJjLh7vIBceK2wZgeD0TncJ6aqVeSXsmJF4=;0VbC7cp99OMFentI+aU8Qw=="
 ---

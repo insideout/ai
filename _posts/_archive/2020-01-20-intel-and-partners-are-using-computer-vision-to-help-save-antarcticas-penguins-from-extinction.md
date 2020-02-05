@@ -4,10 +4,12 @@ title: "Intel and partners are using computer vision to help save Antarctica’s
 excerpt: "In search of a solution, a group of tech companies developed a computer vision solution to help ecologists count the remaining penguins faster and more accurately than before. The loose partnership consists of Intel’s AI Builders — the company’s curated ecosystem of software vendors — along with Microsoft’s AI for Earth initiative and ..."
 publishedDateTime: 2020-01-20T16:00:00Z
 webUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/"
+ampWebUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 77
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/01/4435aca3-10d3-4e94-bce1-b9a5ec1a9557-e1579113904720.png?fit=1200%2C600&strip=all"
+    width: 1200
+    height: 600
+    title: "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction"
 
 related:
   - title: "In black and white: Counting penguins gets easier with AI, computer vision"
@@ -49,6 +57,6 @@ related:
       domain: phys.org
     quality: 37
 
-secured: "aXL209gyTiwapLPHW78EtTRTFBrhkJqGTQIMB0lv3C/QYob5OFvDFG4+p6bl7DUSMbeNf+FavSWJze0NVTTkTy0O5myG3TOH7UaB7wHFUvDc13q5OCXa3lgLgd6M9eKp6U4AhrFPD3dC5ZzBXdC1r74WyTIV8OUFmrSS3pXnh+cO19sK2dnUo3Fw1vOGzQHo1zrmnf+73WOSJOWtEfxNiKPxZNwoVFdAZ/ETY4NbMT26u0M8adx10b7mMFJBtYgAXgf6wZE0RC3K/ufiWHuiqBti/dfWvEPcdbytGHYWpZv0GzGkiaziHkjrYGMj5/ZxzW3r8CZx881ALhNyk0MXf3VXo79glHaC1UlxePz2EzxaoAgGHBMsRhQL4ozXMhoF7fog4K+ssgEv0BXzKZTqajFcn2UlMfNz+mVQ3q5CodC6rRBIl0l8EqPns0nkpZtZYHxsJWoxqg9a2JvLsscQmeNwO0k0OUNc91fajFCIMgo=;6j2vcspZOODmawc3lTiy8A=="
+secured: "XVzvQUq+qNNzNa0y02djcnDynOegDm+GPjCGraiGXi1pcdeKi6quJimgQNoYTv0V9RA1ZvPJSr4/rs6bb9+bGzn8EoOy+UggGzXV+7ejtQa4cN3me8WE+oP5ZAEjbT/Mtr5vPb+LScr5xcvPb1QZxxtv/BY2zgloaXL+K8yTV+i1ZNR+0W5f4U1/tJoustqjIMRE6JRATa6lK1rG0Y01VYpxkAba0UD1xm7m4cYQjzlam7OoVsbhq46YEScrPkUxPLAoKejBm9wdTiDQHu9sXNxs/UXxXE9DjbfSlbZ0b2iJpVPOn8lfXVapejmdzrJm;l8xFDV99e+miG9O7I2Cpxw=="
 ---
 

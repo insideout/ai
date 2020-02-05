@@ -4,9 +4,11 @@ title: "New AI-based technique can spot low-glucose levels without fingerprick t
 excerpt: "Researchers have developed a new Artificial Intelligence (AI)-based technique ... Basing on this information, clinicians can adapt the therapy to each individual,” the authors wrote."
 publishedDateTime: 2020-01-15T10:18:00Z
 webUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/"
+ampWebUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
+cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
 type: article
-quality: 17
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -17,30 +19,29 @@ topics:
   - AI
   - AI in Healthcare
 
+images:
+  - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
+    width: 675
+    height: 365
+    title: "New AI-based technique can spot low-glucose levels without fingerprick test"
+
 related:
-  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-13T16:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg"
-        width: 720
-        height: 302
   - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
     excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
     publishedDateTime: 2020-01-14T13:07:00Z
     webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
     type: article
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 13
+    quality: 53
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg"
+        width: 1200
+        height: 1000
 
-secured: "JROJnAhZ7/n1DG0Mml4YC/t4rgLDHDYQg2XtXYHQnSuqh0bQBbzjDgF4Kq+DCCGNuyhcYIFelY7NqHRxLrh9CmytH9siSeFbJTPs0ut2TIXTB61Nn5/B8W0C4xz3kzoJcN80FwjC3QxS3OnO/Tw181X8/hz+INmusJX/4Rb2YJWmpKtrYnadrhXJ2N04MMNweIye7k4n+Mpwjo00Zmqc7QejBwlaoYvgy7bJWtqQAOyYJ7GMtsTQV5wGgapVFJt5NpIzwybfSguUKdaSOTw7BixDcnt4kQqu7bBtSHaHNAvVhk0akoah4sLSgd/niUyi;PRp0b4MREW+iJhW/jTq4PA=="
+secured: "yvmqJ4iv5O7+3ALwGxxSiGFgSw8JQec0AYpcLiOab41wWNLTvshoTjhYGK/i8Bq8VFeUYvqiyzj1mbq43d8m+98Bt9VnQkposZD6vUWN8Q3f8/AXDjjUe34X5UiwhBf6aBQ7LKuJHryEIRoaegbSQVNfB78ATngXXoI8PxOxXMWtgb85IWIRBOufQ0srzVllshAVYLV7yB6aspmD4GGO8yOBjjOtASUUCiqKpeEbddaQ69ADoQL+1J+c0Cee5Ttxa+pXQOSdQ4Q4sYm9tZ8zxabxJuuAvZySWxJaf2rtR1iqHp7YbdVI/2AgcWp76+G2;zhaOk0T2x5lOH27CoyENWQ=="
 ---
 

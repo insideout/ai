@@ -77,12 +77,12 @@ related:
     provider:
       name: India
       domain: analyticsindiamag.com
-    quality: 30
+    quality: 32
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2018/12/elonmusk_fused.png"
         width: 1262
         height: 1200
 
-secured: "HVDNcM87vuYXOJ9FRYkUdkdhjt8TyhBtpmfA4f7gufoURyRCYdsqhXQ6rs9yKEKCmtgKsS0XEcoCuEnJFoZEa30cigSWklQj/gFzLUYDp64+v0ejKEFIVICXr2yoGA84jcPRHmyA5DUVj8ZSyQNfweu/0Ax6pfc3ntWQcluCEAd1B75CabL/u86YsywErb7DkXe3JVgGOmXCR0CfHZV0sStTs02N+oa075DugS0gZ/SOkxRvTTdHXFSseerpUiildFJdA4yjeAqM1+5yOw5FGKAv0RJMY3KCudbYRHduOqLCXaNBMZdN0+Hf390t8RGb;5d+IvS+A4BDbZbzwYzMpcw=="
+secured: "fwPXAmujIx6pQ/DnZW0/eXpbqyqfEY0vonzgJihVTuhTSt2yfO7TQ7h3OZD7bJOPpcaefic+MGkHUdV36Cb+I5eCpmdsE8Z+DR/A8ASU8STxTx8F6+UwcT9QHxRdvby+Hdci6IGudWa5dPcRQImCo9j93mZPnQawPpZqJY4NOknUEgCu7NTGrA8YUbxOtGaa4UOxKiRA9JGuCfB62YEa+mU83i3D42261r748HuiSlzTGIo3Z3uw4GIsSY4vO8ZqjH5GTla+z8hYYnjR625cqUMVc/Rag/P4AHo4XfcuA6yiX7lWzwdpPjrjgKsrleP7+nIXYPcFHQUKrdGZf3Y9YMQJBEkq5hY54fHM43TZfKOV3j3zx8x/pmOBzUhA2EG9jFO8ioFMajQmQRgdhPHG8FH4LRGGpkv7PtVpO+hvZbn3ceAqTBKItQClJfuT4yUbjXI3bgi7shQ0ReMbRa/UbkEIxCKh3weH0aWwI8lX9/M=;fXofK/XToYJa3I8QHtfvsA=="
 ---
 

@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Holocaust victims' fates could be revealed with facial recognition"
-excerpt: "KFAR HAROEH, Israel - An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center, which hopes to match family pictures from around the time of World War Two with its database ..."
-publishedDateTime: 2020-01-21T11:36:00Z
-webUrl: "https://www.jpost.com/Jpost-Tech/Holocaust-victims-fates-could-be-revealed-with-facial-recognition-614797"
+title: "Facial recognition could help discover fate of Holocaust victims"
+excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center,"
+publishedDateTime: 2020-01-21T11:39:00Z
+webUrl: "https://www.reuters.com/article/us-holocaust-memorial-auschwitz-technolo-idUSKBN1ZK150"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZK150"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZK150"
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: The Jerusalem Post Blogs
-  domain: jpost.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452167"
-    width: 822
-    height: 537
-    title: "Holocaust victims' fates could be revealed with facial recognition"
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200121&t=2&i=1479305789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0K0XC"
+    width: 818
+    height: 545
+    title: "Facial recognition could help discover fate of Holocaust victims"
 
 related:
   - title: "London police deploy real-time facial recognition cameras"
@@ -125,21 +131,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
-  - title: "Facial recognition could help discover fate of Holocaust victims"
-    excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center,"
-    publishedDateTime: 2020-01-21T11:39:00Z
-    webUrl: "https://www.reuters.com/article/us-holocaust-memorial-auschwitz-technolo-idUSKBN1ZK150"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZK150"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZK150"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200121&t=2&i=1479305789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0K0XC"
-        width: 818
-        height: 545
   - title: "Facial recognition to be rolled out in London amid privacy concerns"
     excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
     publishedDateTime: 2020-01-24T12:51:00Z
@@ -535,6 +526,21 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8beef1a8-3c4a-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
+    publishedDateTime: 2020-01-21T00:00:00Z
+    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    type: article
+    provider:
+      name: United States Army
+      domain: army.mil
+    quality: 59
+    images:
+      - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
+        width: 446
+        height: 300
   - title: "Supreme Court declines to hear Facebook facial recognition case"
     excerpt: "The Supreme Court on Tuesday declined to take up a high-profile court battle over whether users can sue Facebook for using facial recognition technology on their photos without proper consent."
     publishedDateTime: 2020-01-21T15:55:00Z
@@ -923,6 +929,19 @@ related:
       - url: "https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+  - title: "Holocaust victims' fates could be revealed with facial recognition"
+    excerpt: "KFAR HAROEH, Israel - An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center, which hopes to match family pictures from around the time of World War Two with its database ..."
+    publishedDateTime: 2020-01-21T11:36:00Z
+    webUrl: "https://www.jpost.com/Jpost-Tech/Holocaust-victims-fates-could-be-revealed-with-facial-recognition-614797"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 39
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452167"
+        width: 822
+        height: 537
   - title: "Need 2 Know: Virus Outbreak, Facial Recognition"
     excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
     publishedDateTime: 2020-01-21T21:12:00Z
@@ -936,17 +955,6 @@ related:
       - url: "https://img.chdrstatic.com/media/45140c0c-a275-469e-911a-13238dec14ba.jpg?source=web&crop=1200:675,smart&width=1200&height=675"
         width: 1200
         height: 675
-  - title: "Suprema unveils its Latest Facial Recognition Solution at INTERSEC 2020"
-    excerpt: "Suprema Inc., a leading global provider of biometrics and security solutions, unveiled its latest facial recognition solution at INTERSEC 2020, the largest security exhibition in the Middle East, held in Dubai from January 19 to 21."
-    publishedDateTime: 2020-01-21T09:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/a15152025/suprema-unveils-its-latest-facial-recognition-solution-at-intersec-2020"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15152025"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152025"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Met Police deploy NEC biometric facial recognition tech across London"
     excerpt: "The Metropolitan Police in the U.K. has rolled out in London real-time facial recognition technology developed by NEC, reports CBR. The implementation “will be intelligence-led and deployed to specific locations in London. This will help tackle serious crime, including serious violence, gun and knife crime, child sexual exploitation and help ..."
     publishedDateTime: 2020-01-24T18:24:00Z
@@ -1270,15 +1278,6 @@ related:
       - url: "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Facial-recognition-scanner-kids.jpg"
         width: 800
         height: 400
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
-    publishedDateTime: 2020-01-21T00:00:00Z
-    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 19
   - title: "ZenGo Defends Integrity of Facial Recognition"
     excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
     publishedDateTime: 2020-01-29T18:54:00Z
@@ -1334,6 +1333,6 @@ related:
       domain: dailybruin.com
     quality: 10
 
-secured: "PJnFKGEYuFHXPicemrnscPogtba3smB/owaDC/IH5uerd53s2v9n8P9f/AsVhKd/tKrwosVMMe+Z+UeQHcao/1u2hxOdXkjE6Yj+OP0rnUy3L4V3Gv7JovNgSfJnaikXwl6S8id+dJcFyy3s6s6mTmq0i2qijTIFbcZOST76/ps4oOy6aahLozpdWhHyfxKp7v2kxwktoVNTPSVfmOHFArwxdhu5rI+fw1SOyX4g9XfjadIk+5wCJ3ulpO6OfUPxBLvzkvLPtaen5cXWNTs1U15aOf6XXY54FOyk5Ahqoe60E3VaaMvcWKeB1qiqvIrV0GREy4S/wuM4qoKza+7R3DGtcAqx3bmRROGHwk6ygU4IhDcx2gvOOngUAzkWxIsYS+nPrRulXRfhYaFHg9QhtqSMFB30HzfL2i9rzvwVymQb0aTjI1jaUdL1ZY1uIsoCqhWOpyGcHuQNsMDuh+0SUA==;xo3DpHZDBNlygnEWi0Imlg=="
+secured: "0fjLY8Ly/KMs4nX7kyTYAcStqaXbY5SFrm/Ucf1FjEJKMdVoRkPUu6WdF3de3CyV6glidFRgSPx5G/3H9F/wPB0vPeBJDvxb18vRAhGTJiakG/kF/UaD2l7+lMHDv8CYl5zsO8ZNWTPn+J7+EWbMrVImBtNkG7sEmh52VTcf+uMPxSGFX3sHoRbx9sOqciFsDWaTEDPKVuyHRFBFgQ7RIPgDKdvBadqOZCUhEf0OzpqGgA+ovSlrQ2tWUOfxugi/xmFBXRO5GZXvNck3PLnbsVaHMzaGrqxshddYaEpJStiCAKI00U/kcgr0UR9srzP3kY0A0y3NzdEe6SC7PfkJsj9ffNkEIHdqezPzVVAIJHoWYOMzEhP+THsg1HAya1/PyXYR6u2+03pGTU9ayl1z+YVXrbUfg6Ep0S0nnCQY+QU1lOjFIhcfi/HzGObgCtjTArV8ZOvgDs1Xyekwl6DeF3nw7246+QhvzXdD6xziFYY=;Zvm5xUDxcK+cEhLjOs2ITA=="
 ---
 

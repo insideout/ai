@@ -1,26 +1,28 @@
 ---
 category: news
 title: "ECS Named Amazon Web Services Premier Consulting Partner for Fifth Consecutive Year"
-excerpt: "for the fifth year in a row. The designation continues the company’s ongoing premier partner status with AWS. This top-tier program represents the leading companies worldwide who have met AWS’ strict partner standards."
+excerpt: "... be recognized by AWS for our commitment to cultivating and delivering the highest level of expertise for AWS solutions.” About ECS ECS, a segment of ASGN, delivers advanced solutions in cloud, cybersecurity, artificial intelligence (AI), machine learning (ML), application and IT modernization, science, and engineering. The company solves ..."
 publishedDateTime: 2020-02-04T13:22:00Z
-webUrl: "https://www.marketwatch.com/press-release/ecs-named-amazon-web-services-premier-consulting-partner-for-fifth-consecutive-year-2020-02-04"
+webUrl: "https://www.businesswire.com/news/home/20200204005658/en/ECS-Named-Amazon-Web-Services-Premier-Consulting"
 type: article
-quality: 43
-heat: 43
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AWS AI
 
-secured: "NeHf6SPVScGOjmo/6N+Ym/iybfoqBVbr//iTrb03FAEVyOK6e3f+2QBnkVMlFisW6VncH9CeNeJAW1zqdX7ujCb+HBS9cgGhEzUcGLXVSzb8ubcd78HCwL+SNrsZIR/5+W3eS4RuuUbIabPPZnSv7OQvID31ohe+jujIVsyU7jlFNRLJ0eYAeFl/AEnrGLz9ho4j7tGt5/gGA6OICCjLH1+zhMB7JDR81sQSokJxw2jl5MJVpmBzTvJArXusVnpVDLZohO5lHTXSBZJmdx+2fNhVlePSyr+P2WCdWdsWECxTWuNa9Ihpn6DZL//gAFlE;OCq+6F/5O27d/bmGNsLV8A=="
+images:
+  - url: "https://mms.businesswire.com/media/20200204005658/en/656931/23/ECS_Logo.jpg"
+    width: 1200
+    height: 627
+    title: "ECS Named Amazon Web Services Premier Consulting Partner for Fifth Consecutive Year"
+
+secured: "y3ol1t3G1Jc4kPK7daUpHN9XIWJcJIEps4tB95HvNeM5VYBV4ZNCBaa9GLTlb537+PUkCILIxUsmqQkE+ZTD0cqeGzRUJiYcf48cNpZRWVMnxZoUYoepvZf+RlYmcimpVZ6pyiDUuArFBsgQ6bMEFhlzqJZsDUMWFf1RG0eNylrFHIQvgs9PfymK3INATtvv5KGPzktOvXQrI1RCBK8MWPfUAoa0GM0PST3YZekQ7/xbqZREpAkhpS5qncwubZ7O6FAS9n2Szavp+DaSVWNBxntAQKmWuCkg/DjBYpJC4EJTGLUpQeakK3k5yGIAuRwQ;9qG4HQjzQiy7oMplcN4jXw=="
 ---
 

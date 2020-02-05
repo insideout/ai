@@ -5,8 +5,8 @@ excerpt: "Computer Vision in Artificial Intelligence Market ... Social media and
 publishedDateTime: 2020-01-16T03:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-market-revenue-analysis-by-top-players-2020-01-16?mod=mw_quote_news"
 type: article
-quality: 44
-heat: 44
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "U54OXhXU/hklmTdEPaINIq5b/s9cMnOkW7qwseqkwp1SZ3EK66A/eAgP+fv/EhE7GcxND1kkH81ob8U13gDFKlm96PlrnDrzeUyPqdPgdVWNBa2/QBkRSE+hokIgRgAM+ysVS6T1V1lbNoe8/ICtoQUmETGWKeWibTRusqECeezFYMgv2c/9iD8MmROzP8vQkAJH0jDjKAE8W4fu49jNMg0XqMV2WzkIWGAxjaBkODbNBrLH2pr99mLd1aKc/+/KJGBg0FKTG1P+x0fvb4TJIkTLhSf+NlOnvN16qPN0k9S38lHZScVbdgUJz2kChlQD;3FFJVLWi8aRk18hX5JhH2Q=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Computer Vision in Artificial Intelligence Market Revenue Analysis by Top Players"
+
+secured: "I2BBVFQY4Wx96hml1atosLOxR598LGuLNEzI7AQq/vK484UqncTJvQCm6OFw5tc7sfGcocJFZp2JpVUXt0qFSdd6A1LyoeMzQX2WsQG4HQE22d/OsPYqaCsG+1NNUXB+mTQaQ9xGfQ0InlnyFqnsLTOqNIuBAL4mcEkFYIlLJuWb448kXzZXIpaCiLbvY6vyI+/ymirfacisj5i5EJE6DsIkPkOCKJalnWH77e30Wc+7/bXU/1zpx1Jzr0NWgJ9Pfc0afs5b11qsiv8xzrPnMeom5mXOva22OTuh8IxR+7KhbnkB5hECxr501EClhvGt;p0uKGSdTeyF6CD1jz4Dj2g=="
 ---
 

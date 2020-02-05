@@ -50,6 +50,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
+  - title: "Global Artificial Intelligence in Aviation Market 2018-2022| Evolving Opportunities with Airbus and Amazon | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence in aviation market is poised to grow by USD 756.71 million ... and product (companion robots and emotional therapy robots). Smart Robots Market – Global Smart Robots Market by geography (APAC, Europe, MEA, North America, and South America), product (personal service robots ..."
+    publishedDateTime: 2020-02-04T23:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200204005787/en/Global-Artificial-Intelligence-Aviation-Market-2018-2022-Evolving"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
+    images:
+      - url: "https://mms.businesswire.com/media/20200204005787/en/771181/23/Global_Artificial_Intelligence_in_Aviation_Market_2018-2022.jpg"
+        width: 1200
+        height: 627
 
 secured: "bqdHsXhLXz1I7CVoMdmhqAeI4jVg5iybbF4hOV1F4FbRF8GLiBd4w+sPVagyLd4Q440jpYl9+Np3+4cmzATHJ/pknZ20X3GEM9OtjWUtiZs/PdNsRCMZCSxlzqMZKvzYACTe4q3cco8aURWs/nqwP0CJbXSi+7tc+3plafTSEXvzuKbzNIvjPdQkNaiTxl6CEwEIvqdtLXU4zHAqPf6F9OU4JCYUGq2AFiU6Uob0lOjPjtKfMxHO0FdnaEQGCgN/mtpDQkJ3YEPXe5x6qqF4E1jP0FXp/PA3zplupnxJ8R/xffZqvPPrFWK57QbRbqpB;FwSr7CPCUjGWwRZvmRvocA=="
 ---

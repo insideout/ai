@@ -7,9 +7,9 @@ webUrl: "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/"
 ampWebUrl: "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Digital Trends
@@ -23,12 +23,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 628
-    title: "The best computer reading glasses to help reduce eye strain"
-
-secured: "nddVw49cRcmnI5xMFyWGkJF3JyrCvw6E8rxQHN0euDNXqVXRhO9LCu0NcO5Sv4vsEi/ImYuVVM51idOjJirfO6xOBz6v/xBDw1BeoTxdcFTTjVbXCcFRdqGdl+KadOGTr1Cr6L0CyGlLRRDrhzQnyCssjfYYzL3THNtwgJB2WwgvJoldyCfy647r9xMzR0xPHMbNjUZzR0wKuN+q9aDcublWMLf9y4JwFecNwE1+9Gkz11iQ/i73XRgduPl6KuAYXf5agGHVOXp1aCFK5QGKTkuwX6MK/vsk9LyZUHSLL1XTn3YtUey6BsEGqZbFUz3B;9qoTmsptHKV0eEe+cruvaQ=="
+secured: "gl58XDh3Ljak8AEsUUxJm3MNUH/v/hsr+FbdMmwJ4gSmb2q3bA/fwDs+LzoTEdTDeYUCs4Cb90PaJ6mf7Ch0vx59PjVDd/tv7U6Ustn4qbLCiBWmbKM4ITDB2YWuYkU2bnrIljx28l72oNM62S5xOQXA9FJG0evI6JnXvBSjXZGvLet0tgOxjA39HaV56Z/gJvbAnSDgZzQlPlcWX54GnHBTa/iOGC9SAbNsu/HuXkoUKwyKC8GXSlU5xb0JH7rChEqEZRI9WDCKsyl8ESJUSIgG8a655fcinvlYPJv9x9XAmlCU4Z2Fpzleuyswc9/T;ZfDl1VeC0SNefgnnwSVxeg=="
 ---
 

@@ -29,6 +29,6 @@ images:
     height: 628
     title: "Kaskada raises $8 million to facilitate AI feature engineering"
 
-secured: "nYw2Q1egD7Rev0zpUtpkD0FBVVLsdEBBYzrf+VlKthMmNIe6+Ex2mtEOkLC9CIPeZFwkFGEVREVOBgLDjNUD4Mmr1CIeXpxA8QYH4XlQfFMr8dc5eHYC1hnBysClFzkl0ZldIgn4qnPTmqVhWJKYfavOXzW4SajyBUf2pueUjiH2r5N7VOejGxVjwqTIlyE3xRbRMqb0T0G+xpu81yQUrqdLlco5EgE3HXV/3ttXoPuHLVdU6hwWuETjCyEJDcG+RBBN7sTGvsZ3bght3S58dA/lxkQ3Id0xYk469fEdgGMgJ5U8lgvANsMyMGAIcTSF;utz9tPbUkaOQ83tQbBiNog=="
+secured: "iFNMYfMj+vYazVB5/hz0l4TDXKsgOZd+vtT+3dpSJUrsf/YsEibs9ins81bBRTIu/oWsSaHObYlVA4wFtUTLG0GYEiuMT6YI8IqYarwnOYEZGjT5uQBuUmvjRve+2h1nGW6xOyEQVXEUlD/ICoilpPXnvL27XkazS9Y3TzbxnU4b/ZVapd3sMetekXfxPW8Lvqd9TOxaHcFSaUSYW2kMDmUF9HnGPWVPy3Z/E+Rcl1QisibH+/MbY8iYP/qZTGtQ0e8XXjRnJLYvbiRpcK3Dd10s2+4QtDYjGk5D/G/zpMJQdX2mwOFIYrX6QnBfkN5C;7tTQ9TrOBmuy2NJThLR/Rw=="
 ---
 

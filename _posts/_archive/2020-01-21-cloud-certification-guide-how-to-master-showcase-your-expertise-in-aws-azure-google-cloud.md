@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Cloud Certification Guide: How to Master & Showcase Your Expertise in AWS, Azure, & Google Cloud"
-excerpt: "Azure AI Engineer Associate Intended for individuals that use Machine Learning, Knowledge Mining, and Cognitive Services to architect and implement Microsoft AI solutions – this involves natural language processing, computer vision, speech, agents and bots. Azure Administrator Associate Individuals must demonstrate their ability to implement ..."
+excerpt: "Azure Data Scientist Associate Intended for individuals that apply Azure’s machine learning techniques to train, evaluate, and deploy models that will ultimately help solve business problems. Azure Data Engineer Associate For individuals that design and implement the management, security, monitoring, and privacy of data – using the full ..."
 publishedDateTime: 2020-01-21T05:13:00Z
 webUrl: "https://www.business2community.com/cloud-computing/cloud-certification-guide-how-to-master-showcase-your-expertise-in-aws-azure-google-cloud-02276717"
+ampWebUrl: "https://www.business2community.com/cloud-computing/cloud-certification-guide-how-to-master-showcase-your-expertise-in-aws-azure-google-cloud-02276717/amp"
+cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cloud-computing/cloud-certification-guide-how-to-master-showcase-your-expertise-in-aws-azure-google-cloud-02276717/amp"
 type: article
-quality: 6
-heat: 6
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +19,6 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "ZKPE7a9xOObO0tfcOfXSW12nFZOZoOUVErNDy40b/1+XSe8gAJw9kJXL9/hUaGbJxYHLW1/GpkAfsiaE6g+FaWJeM2gxxUAAKHYerrF+uHE517P+treRIH3/aWzE7q3WFtUu477j8+gnxmG/7MbRVoHO4v62HHTYdR4qTVJWY7UJbiKAjdKX2qMn+rKOYxxiVskRvb5WJCISZVz0iqUS5PeACFMohK6BgCCgHVAEl7Sj69I5G6buHo3qvuP3MQnx8AvVlGo7vC21C2erxx2QGDLMxJUwfqNhIaSaoU/66Uw=;a+esewUIqgBj+7RoCEaqmA=="
+secured: "2RyyGlur5ydy2HJTBUm3mZc6Z39eXzO5JDHDsZTyZrQ/+FPlrlQMc4sNnAQncDFbDFb8P/PEupxH6rW1T1++acI9aVeEwdl2uvnbPF9+LWV8NHBm7RLPBPEN3P5sp3T26CIYLplg96wQDLcFkuZPUrhnPF+u0kfFWpKvKpl1hjbNd5XccLEyB5QUm12ffYRnfGee+5ZWk15z47TpO/OfEX8cH/cJYScccqYf6Y45RjOxc7PtQV+iNnzok652KlxNl1wmlelV8TOCe7HgFV9mslAogJZtSaGydgQ/mUKofD1jJ1IIzmygpyNk6FK907+E;mjjsody6EWjxCladwLweoA=="
 ---
 

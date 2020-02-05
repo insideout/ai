@@ -60,6 +60,19 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F01%252F31%252F78%252F2cf65c6ab12943cb81d1691f4bb64888.ea787.png%252F1200x630.png?signature=y2owegQIwA9L6yfJDveE8u36QJI="
         width: 1200
         height: 630
+  - title: "Deep Learning Market Analysis And Forecast 2026"
+    excerpt: "The Deep Learning Market 2020-2026 is a valuable source of insightful data for business strategists. This Deep Learning Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T02:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-and-forecast-2026-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "5 ways Fintech is making Banking more accessible"
     excerpt: "But Fintech has a solution for that, too. Artificial intelligence (AI) facilitated the development of robo-advisors, who can communicate with consumers in real-time, offering financial advice and more. An example is a chatbot, which “talks to” the customer through online messaging. For now, most institutions that use robo-advisors have ..."
     publishedDateTime: 2020-01-28T17:20:00Z
@@ -114,6 +127,19 @@ related:
       - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
         width: 1200
         height: 630
+  - title: "Optimized AI-enabled machine vision is getting widely used in manufacturing processes to boost production efficiency"
+    excerpt: "According to Hsu, neural networks carrying out deep learning algorithms are very complex. On top of that, the different AI accelerators designed by leading chip makers, including Google's TPU and NVIDIA's GPU as well as Intel's and AMD's AI processors, may deliver different performances on the same neural network due to their individual ..."
+    publishedDateTime: 2020-02-05T02:19:00Z
+    webUrl: "https://www.digitimes.com/news/a20200205PR200.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 16
+    images:
+      - url: "https://www.digitimes.com/newsshow/20200205PR200_files/2_r.jpg"
+        width: 336
+        height: 224
 
 secured: "5NPA4gaqE2xEef2bUbLduERwSfs5C74+rCDyOeoC2v8+B0Puci3RsIvRwMHHJP/kj5X+Cl+y/V5eF8YugGByZ5IDOaCV7AlKdQLsuXppsfCThIxPxQl8xOCbKZXJIv41c7ry2d/BD6V1nSb1+mu30AVOBmZWmhD7DFieF3cMAFed/gfbBOQYajhyPEQlEdJEE9RR3a5JbBxBF0OoH5+seKXGYdUTVWJsTsBNA2+Jy9WjzsektkemYQ5toMr4iyFc8VAnO8B10+pb3Mt4TvBUcv1WRvo+OH+8cU50SLwyb1ST6Ia4PD4y62uFArrYNgc9MJnuMDEo6xPvhFEsQyG1V7rsjGQBUBQhOz15ZO9nD1PENBSHGJ1btzqnhJglab8HmYK/NVRhtPobJZ0Gscdz4i0w01yzPWynRbn75Qa9r71ENHgaWGXOTdiKOJxuyFB0YYvLn/TL/NuvWbTtpKLS6cQS5iucl4ATTfEOUHUkO6g=;k1QCFoXgVnsDwa7tDcVseg=="
 ---

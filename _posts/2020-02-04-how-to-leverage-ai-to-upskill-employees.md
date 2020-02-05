@@ -1,20 +1,26 @@
 ---
 category: news
 title: "How to Leverage AI to Upskill Employees"
-excerpt: "We need to start looking at it as a way to help more people, including professionals looking to pivot careers. How do we solve this hurdle and fill plug the pipeline? Artificial intelligence. We often discuss how AI can be used to help data efficiencies and process automation, but AI can also assist in personal tutoring to get people over the ..."
-publishedDateTime: 2020-02-04T14:21:00Z
-webUrl: "https://www.stamfordadvocate.com/business/article/How-to-Leverage-AI-to-Upskill-Employees-15026357.php"
+excerpt: "One of the largest economic revolutions of our time is unfolding around us. Technology, innovation and automation are redrawing the career paths of millions of people. Most headlines focus on the negative,"
+publishedDateTime: 2020-02-04T23:30:00Z
+webUrl: "https://www.sfgate.com/business/article/How-to-Leverage-AI-to-Upskill-Employees-15026357.php"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.hdnux.com/photos/01/10/30/44/18975039/27/rawImage.jpg"
+    width: 2000
+    height: 1333
+    title: "How to Leverage AI to Upskill Employees"
 
 related:
   - title: "How to Leverage AI to Upskill Employees"
@@ -32,7 +38,20 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/20200130200203-GettyImages-1128252197-crop.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
+  - title: "How to Leverage AI to Upskill Employees"
+    excerpt: "One of the largest economic revolutions of our time is unfolding around us. Technology, innovation and automation are redrawing the career paths of millions of people. Most headlines focus on the negative,"
+    publishedDateTime: 2020-02-05T04:08:00Z
+    webUrl: "https://www.timesunion.com/business/article/How-to-Leverage-AI-to-Upskill-Employees-15026357.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/10/30/44/18975039/27/rawImage.jpg"
+        width: 2000
+        height: 1333
 
-secured: "11LyAqach2kR6TtwB6uN3K3PNDN4hDzBwHmMP6aCi/+qxF84PG9xQ2S/Cwy7BNzdjwFGbKFgVd3XeGCvKqZDxYd5oult3vwXNAXRXCC5Z+Lu56oxsWrXtHiFxWZHqvKtiDutTNofsoVAib/vyqAF6G0lnZMteTlBQa3YuC0Pn+xw1YPjnMkRZSYa1hR5shtxqJNt1wCVLB2CP+3C7zNXIR2m8o+ZtH+hTWl49k5dnr0cqG3+rQSSfq+KzZ5WhcpORrwdNFRKH2l5r7ziRQeDV4Lk41bqIJzXDFb64GRNgi/jLsnviQE5NMyfB6OyhbZ1CDig4dYLoA22VmSBwYjwHwntx0DzBuWrZHHlxFjT+EzDaJcZS3IbSp/8uHNw7c7OZ6opNrcNAFPEQswp2w3+PGdmusOkTgvM8QHA7VTypaa0fk7/XxjoMpkiIJKimIrijlMfLncdLK32at8irzeWoHhgwB5V4yDoCxlOlJeFxe0=;G7E5/UFL2XD+C4DFPsn5HA=="
+secured: "Q9BFZpN0bYEFKKI2C68JnqTpUeCH8Tgpiu3ssqxLExQCnrlEPfrHBDoMfcOIGsRwfbO2HvWNYnWZH7PAHF4egJzPIZyV3FbhmnPRpmdoeVtxzRb0beYtyyN29bOidfkRuLz5WQaHEWqvxABvwMB8JGF4T3gNnfF0wQq57OndcZfBVCpo7WadOgXJQPblHajPO1giyWBMod1Yrbf8vfs1K8ke1CAf77sSpuCLhFtRLgK7yvL4fYZVzbpuHjIN1Zr/4WUrW7Zbdj2pgQEKVxk2+HKMC8GaZXwVv8qffOmD2dOvQRqyEsbvJoGSX/yhwvBf;UKgyv2LnbUIbDJ3lPCMwgw=="
 ---
 

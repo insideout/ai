@@ -41,15 +41,6 @@ related:
       - url: "https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2020/01/Untitled-design-2020-01-21T193142.073.jpg?fit=1200%2C628&#038;ssl=1"
         width: 1200
         height: 628
-  - title: "Goldman Sachs on its way to dominating the fintech market"
-    excerpt: "The startup uses AI and is in partnership with over 3000 merchants to build these profiles. While usually, the investment comes from venture capitals and private entities the banks are usually hesitant to invest in fintech. this is what sets Goldman Sachs apart and why Forbes named it as the “winner” of the 2019 fintech industry."
-    publishedDateTime: 2020-01-21T08:30:00Z
-    webUrl: "https://www.finextra.com/blogposting/18348/goldman-sachs-on-its-way-to-dominating-the-fintech-market"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "GzedTNaXXVTX/ZXI0FsKM8HD1fzCRXMVXMgWIH6H1ceT2hciezxJflki/wrul8cRJxdK4ov/OZQ5X6ZxEWBFHp+N8z33JWP2n6YvkSzi9gzQdNJG4L+Zr+OCdyDtlHzHzvQfwFxilb0UHDyv6o7Ip8UZAPTyZQMhA+QtP0WYjUvpqaKhsH8j+R3iDnKtsB3GNUTbti/m5ePoe6HOa5Er33WQxv5mKnjsQezUs0s5gsTmqTtetyVR4dcl3QkLQxvANJuUhl9xII7916WIZkM4AC1oX8tgWEL8QqBiA5hsk+dMiIyCrEODsrCOfKfwZG5tb+BFlNwntltRsajraAgF4TDO3Gn5ERZ592Pd/9wzi5J8sHCJIm/yDGvolw0dLi0VhL7LgbamBHoUf7SM9vnMkDFZApxVFoKIXzUV4tCHRWMMDPsNiO1KxGCJzHkyGJgqjLD2EkJayVaBSJjIEEWnU5pbbfKqhCHP0dSShlIKTSk=;222ZCdUt3NsTYJPreAy+cQ=="
 ---

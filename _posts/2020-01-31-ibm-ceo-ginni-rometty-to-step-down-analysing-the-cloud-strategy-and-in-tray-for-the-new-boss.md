@@ -2,26 +2,20 @@
 category: news
 title: "IBM CEO Ginni Rometty to step down: Analysing the cloud strategy and in-tray for the new boss"
 excerpt: "“He is a brilliant technologist who has played a significant role in developing our key technologies such as artificial intelligence, cloud ... As we have already seen, turning a ship the size of IBM around is no easy feat. For Mew, the fact that SoftLayer and Watson were opportunities which fell by the wayside exemplifies that virtually ..."
-publishedDateTime: 2020-01-31T15:23:00Z
-webUrl: "https://www.cloudcomputing-news.net/news/2020/jan/31/ibm-ceo-ginni-rometty-step-down-analysing-cloud-strategy-and-tray-new-boss/"
+publishedDateTime: 2020-01-31T18:21:00Z
+webUrl: "https://webuilddesign.com/ibm-ceo-ginni-rometty-to-step-down-analysing-the-cloud-strategy-and-in-tray-for-the-new-boss-3/"
 type: article
-quality: 13
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Cloud Computing
-  domain: cloudcomputing-news.net
+  name: webuilddesign.com
+  domain: webuilddesign.com
 
 topics:
   - AI
   - IBM AI
-
-images:
-  - url: "https://www.cloudcomputing-news.net/media/img/news/rometty.jpg.600x600_q96.png"
-    width: 600
-    height: 315
-    title: "IBM CEO Ginni Rometty to step down: Analysing the cloud strategy and in-tray for the new boss"
 
 related:
   - title: "IBM CEO Rometty to step down in April, cloud SVP Krishna to take over"
@@ -83,6 +77,6 @@ related:
         width: 1024
         height: 682
 
-secured: "o7vKUMYCz2faft+KoNiUFF6KvaJjZAtzNvhV8KLz8QkwIKJjUcW0KbyAiTBwe+/LUys02rn1D3gZBHOP6IHFsZ4juUFvLx8Qmjz2mnb8kppaVBZtuYRXjSzbMPB/UGfVyg637TwQkI/K6eH5FswK9RhmCVRcf6h8zes78pXHTVKnzAHNvyxe8aOmXmQmY8fuQGV7TqWSpghYqzhDgA9rM/pe/QIAobOLsLKqZu55ZPhncIX79FCp5dJdc3/zmsLDtzTTozcPKXMdI261jmd2tNPnHm3tOm70rsC3L4sVD4A0rH6Smnb7XzP6+olgVYQ6;Z0z90fhoqJ55tkgUffiU8A=="
+secured: "fA4CG4bYWAodcJIE84ACA6x0QmCeY8uDUPEGoOzgOOWUNHwbybyaVcFusiQ1FBx9IXupdGVn3MXjSXZ0E1TDZiCtDII7dpfS8N3C63zS3AeVxLb+FwEBQtuKX3J8vhn9W3+mrwN+e/F+NgAcKe+vvftQvcqAXxuMvuAQcmqlk9N81YZfkWa9BSzvLMvf66v+c1wswL/42ugmlmGSq3HR6xpp+necqVJxMdxygQc9rFXYfoEX55bNJASk0KdVHLIyrJGq0/CpOEpOaNhGzQKu5JykRUsP7LWRsH4v2Q+l51yt2/mOVpJnphiv3FYx9MFvDoevWqlgQCTAbdvcuIgiuBiD3zvGHC9aBFX4g+si+WYSIHW2fZ8aIH4kB8j76YkFeoM2EGewOFoKqkqqhogP5QIUx+AXC3Dvk0iTJQazWu+NSWNcrsQx7bWAbnfc7oa4uLvVW/GmlgoP6FPucuE6kxq5LxGGgqBvJTfFadg6Jxc=;bl/o/CgsQNWXoltNwUgI8w=="
 ---
 

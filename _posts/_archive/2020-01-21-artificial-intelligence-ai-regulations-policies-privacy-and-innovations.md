@@ -17,21 +17,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI"
-    excerpt: "IBM advocates for the appointment of AI ethics officials to guarantee compliance with providers’ and owners’ expectations. They’d be accountable for internal guidance and compliance mechanisms like AI ethics boards, which would oversee risk assessments and harm mitigation strategies, and for improving public acceptance and trust of ..."
-    publishedDateTime: 2020-01-21T10:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "IBM spearheading AI regulation and ethics debate at Davos"
     excerpt: "IBM also suggests that companies appoint chief AI ethics officials, carry out assessments to determine how much harm an AI system may pose, and maintain documentation about data when “making determinations or recommendations with potentially significant implications for individuals” so that the decisions can be explained. Spearheading the ..."
     publishedDateTime: 2020-01-21T13:19:00Z

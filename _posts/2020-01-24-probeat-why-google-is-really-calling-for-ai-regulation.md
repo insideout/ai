@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-call
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -59,21 +59,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
         width: 1200
         height: 800
-  - title: "Hashtag Trending – Google CEO calls for AI regulation; gotta hand it to Amazon; adult site leaks data"
-    excerpt: "Google has its own AI principles to help guide this work, but Pichai said there’s still a lot to be done and that “principles that remain on paper are meaningless.” Numerous sci-fi books and movies have broached the idea of implanted chips in humans allowing them to perform such actions as paying for an item by simply swiping their hand ..."
-    publishedDateTime: 2020-01-21T10:29:00Z
-    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-ceo-calls-for-ai-regulation-gotta-hand-it-to-amazon-adult-site-leaks-data/426289"
-    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-ceo-calls-for-ai-regulation-gotta-hand-it-to-amazon-adult-site-leaks-data/426289?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-google-ceo-calls-for-ai-regulation-gotta-hand-it-to-amazon-adult-site-leaks-data/426289?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 44
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
-        width: 620
-        height: 250
 
 secured: "aXZW1j7cc9dRArp+VUcamiUV/jFhWIfpenbalqT5BnDoHw38lDegTrgS+mY9KTdnXzHp+kv73v2nhngDVfVep7+EVNIrQB0FKegjgORhryesH51lqEK2QbXMaKpk7a4qSIVtg46ZjptlsDwsTuke73w9OHl9vPfRkqXwv9a2zWjDdg+RlczL+H8pgu8N64Rp6JgVlDB/azsXeENGf1SHEkppbWPzWLGe4Zj+yLhNRcfInS6Rx96cePzeVI+FszDIxmEuJP8T0Qpb/cKZ/Y4zrwWUFKDTiR8A+Qm/hGTV1P+w1ROtLDaTkxvfvGOrrmfjhUZrJaHqWPlQHgGNr0y9C54iXeeQqCp5mUf8FBIhjAaRZbsQvtDKqSVK5+fuD0tJeXex/ISTTlFX6v/sw44c4B7v6jTgnYerEvvo+DKaObx5UtFxhc9FVqsoMZLrbEtNmXW9784Kdw8CJMnaWUkPpjVeYTCYSdCkp1qptTyZGpM=;+wMbqHzzzbCYec+vR4yCWA=="
 ---

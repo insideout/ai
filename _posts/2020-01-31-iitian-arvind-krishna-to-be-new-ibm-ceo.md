@@ -71,17 +71,13 @@ related:
         height: 682
   - title: "IBM CEO Ginni Rometty to step down: Analysing the cloud strategy and in-tray for the new boss"
     excerpt: "“He is a brilliant technologist who has played a significant role in developing our key technologies such as artificial intelligence, cloud ... As we have already seen, turning a ship the size of IBM around is no easy feat. For Mew, the fact that SoftLayer and Watson were opportunities which fell by the wayside exemplifies that virtually ..."
-    publishedDateTime: 2020-01-31T15:23:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2020/jan/31/ibm-ceo-ginni-rometty-step-down-analysing-cloud-strategy-and-tray-new-boss/"
+    publishedDateTime: 2020-01-31T18:21:00Z
+    webUrl: "https://webuilddesign.com/ibm-ceo-ginni-rometty-to-step-down-analysing-the-cloud-strategy-and-in-tray-for-the-new-boss-3/"
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 13
-    images:
-      - url: "https://www.cloudcomputing-news.net/media/img/news/rometty.jpg.600x600_q96.png"
-        width: 600
-        height: 315
+      name: webuilddesign.com
+      domain: webuilddesign.com
+    quality: 0
 
 secured: "iM3SxY3f7Y/GeDaJSzbWh9jRqJhQPil/JLK6fBRk6Ujt9CM2qSGPqDluW794zk693AgHq44Vp8rX5jaAet5QJCWgZLJcdW/7ukeu3fNDE8w1whUC0PbSXbXKzOuPtJuwvaedVznRd9UqK79VxW7urg0AU6Kx+2/6jm5HRihCkdxiuhfrzq+CH4b322ODrHNeUIdg9k7O0oMEOy/e5azbY4i84AtGzmoFyDR8TlYnQCvAjnUoPa48yfXJ9KPTloCfWCX0kbUIyKVbQClb8GVdXiKa1HjTGiWUIHmyK1cR6LFguxA/wuNRRqoKJZFynoQal23Pb9x4TlpdmN9c0VN4nSgqCrtb5KQr5oABxqJ3RXo1h2b4sSZa94McT33I2ta28bfqdA0qX1v5uAbyU7dmEYiR7luDduSfh2ao5jgD9KsEcOSbK6TZcoR/SkD0y45B0e8+VCDoD9uY5jVtO9IGwUROZj85pocuXziD0NPAt40=;4AXB7ihZAFg0Vf3uI9KpqA=="
 ---

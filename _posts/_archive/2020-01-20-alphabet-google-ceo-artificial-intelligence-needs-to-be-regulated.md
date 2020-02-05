@@ -4,8 +4,10 @@ title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
 publishedDateTime: 2020-01-20T12:36:00Z
 webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
+ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
+cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
+    width: 1200
+    height: 628
+    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
   - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
@@ -196,17 +204,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/b/06/b064a2d9-045d-540d-b183-8334cf9a9299/5e141419b5f14.image.jpg?resize=1024%2C695"
         width: 1024
         height: 695
-  - title: "IBM proposes rules to help eliminate bias in artificial intelligence"
-    excerpt: "Spearheading the AI regulatory debate gives IBM a chance to come back into the spotlight as a leader in cutting-edge technology, a position it hasn’t held for years."
-    publishedDateTime: 2020-01-21T09:53:00Z
-    webUrl: "https://www.hindustantimes.com/tech/ibm-proposes-rules-to-help-eliminate-bias-in-artificial-intelligence/story-Z6up0CTnkkr59Z0QztxsMK.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/ibm-proposes-rules-to-help-eliminate-bias-in-artificial-intelligence/story-Z6up0CTnkkr59Z0QztxsMK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/ibm-proposes-rules-to-help-eliminate-bias-in-artificial-intelligence/story-Z6up0CTnkkr59Z0QztxsMK_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 41
   - title: "IBM Calls For Rules to Curb Bias in Artificial Intelligence"
     excerpt: "The EU’s executive arm is set to propose that the new rules apply to “high-risk sectors,” such as health care and transport. It also may suggest that the bloc update safety and liability laws, according to a draft of a so-called white paper on artificial intelligence obtained by Bloomberg. The European Commission is due to unveil the ..."
     publishedDateTime: 2020-01-22T06:16:00Z
@@ -265,6 +262,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "w6xc8JnlGJRwEir8zXlvlLTVzyTNlA9k+Th/N+XxGqZYHGxZk0X6CF9HSOAqdl3fLBRUQbDkWduGk8lnCyltZFxif3WwgllLHLEdHkWbWR1ewhL4q3F0FVUUVKGFVBi/nzK2WYrrj/KR8TrBiGvHA6vwFWQt0yN1DBfNaRlVH30eoKGvTsybKeA7yTdnGlOm0oh0LFMRbGMr6cRjQAESLO26+6Omv6iAf0p691oep8SvY0qdFkt1rkyFbk4deLIb8/brwbchR4Oj0D4EPfQ2cXdqOXP3o0x0JrpKd+DcKy2bQyGvIdw534oEsFhlAHb5c2ZXP2/hi3L5b6c5cmZxI4pO9eaOE7LsZQCIGhbO3ajF8/ouUUtJcJwP8rUMeWYZ+9/9HEvUtQNpHkqftHkHQeXnjiM5LAMkwxR6/saFj6Et4Cgr8DNjhArQvuVCwBzwnlHqOfQj/3rUr+OFykaj+2FZZPaJNAX+0A1CKSqv95Q=;MtLUXmd9taTQWiG2qWWyBg=="
+secured: "xhdpLGHzIeXOjz3XYClJ+G1LhNbN/13Qmaom++4+8+7EnzZRPtbtAqki7YGRfKGtBeBWWDwMo1pMt2gH1TCzXLqyxsXKdQL0QjWP17WK9TSjLP1bOMbpJtbOEqHg6W2zXQlpkQ4xOPgoYzMa6nq/buo7/tvdP8qVNBe5ryi5qBDVof+Mu5ApaCXfar3jsZSgUICzIOUf1JinrY9oW9ZQlpHMz9fPZea0rBq9VzHLeFLWASb96ChEoEylnSCx4HVlzaA4cR+XjVayrdsOhDg3rwkhzCVTz35tsQqMK3aa+tArDKe91qERNrGhBj0LHBQP;dlNSLBIiCJtUO9opYilofg=="
 ---
 

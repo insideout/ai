@@ -8,7 +8,7 @@ ampWebUrl: "https://observer.com/2020/01/facial-recognition-development-history-
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -52,6 +52,19 @@ related:
       - url: "https://www.stripes.com/polopoly_fs/1.617025.1580471460!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
         width: 490
         height: 506
+  - title: "Chinese AI start-up develops facial recognition to help identify febrile person amid coronavirus outbreak"
+    excerpt: "Chinese artificial intelligence (AI) start-up Face++ has developed a temperature screening tool that can help monitor human body temperature in crowded places and identify individuals who might have a fever using facial recognition technology. The system is on a trial-run in some subway stations and government offices in Beijing’s Haidian ..."
+    publishedDateTime: 2020-02-05T03:35:00Z
+    webUrl: "https://www.globaltimes.cn/content/1178554.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 20
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-05/02fe8773-384a-430e-8315-b01d2eb69fc7.jpeg"
+        width: 500
+        height: 300
 
 secured: "CpKgja+4Le1d7qmWH8dmn3phnK4Wvg6CB16b9uqscLZglvsp38+3FcpF3iOhqv1ZSSDb+M82YGB1UUyWMwPWkokVA7hk5PbFbveAvb/ZPbGMiJ2YITZ1w9Fkhbf5eaM3v4SUShzvEW6fnBlQSdZl2/irFBIleOBXraRJX/lJ4lzev8xGspL2+xLHfTCSp54rOJLD/YLidbevYgzyCCZc6KI7lKuYfd0v3Webw9XMbZbqlXDaQ77/n4ac+8vDaERhB94QkjkWaJOiRUIE+xyPgM4E5NCP37nrFpxslP1hpGicSzO5rhbjD5fxv4OWIi932STc2xM8ikYTdr1paubhWd4PwJ54It/l3S+RFHKYUaVbWjMvsRgTo8LrfngqX3Mh1cj/Eu4pvOBuQqmDDGGNuDSuAVuhs+Wm9rkh0I/KzPeT/P1bhLOds8kI9MBjS4GHQb1YiOIZVkCb09cFSXwp0iP3xc3U4Be/OJ6BvVPfRUY=;TtWmIne6fk2F26T+OOolpw=="
 ---

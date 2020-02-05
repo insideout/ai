@@ -71,6 +71,19 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/20200131021051-photo-1569025690938-a00729c9e1f9.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
+  - title: "Deep Learning Market Analysis And Forecast 2026"
+    excerpt: "The Deep Learning Market 2020-2026 is a valuable source of insightful data for business strategists. This Deep Learning Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T02:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-and-forecast-2026-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
     excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
     publishedDateTime: 2020-01-31T15:06:00Z
@@ -110,6 +123,19 @@ related:
       - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
         width: 1200
         height: 630
+  - title: "Optimized AI-enabled machine vision is getting widely used in manufacturing processes to boost production efficiency"
+    excerpt: "According to Hsu, neural networks carrying out deep learning algorithms are very complex. On top of that, the different AI accelerators designed by leading chip makers, including Google's TPU and NVIDIA's GPU as well as Intel's and AMD's AI processors, may deliver different performances on the same neural network due to their individual ..."
+    publishedDateTime: 2020-02-05T02:19:00Z
+    webUrl: "https://www.digitimes.com/news/a20200205PR200.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 16
+    images:
+      - url: "https://www.digitimes.com/newsshow/20200205PR200_files/2_r.jpg"
+        width: 336
+        height: 224
 
 secured: "hI+pO8xtm/LK0ZcbqTJMB6hLoMOiKwBfohBFIbOxjaMPZRzP50E3bgKAkpJP+izzCGKuqsP6vnZUi7jTydrdNbxGc5saKDWprLdWBMqmQSbNdf9pmrMn0A68kiZmxQ/bDjuHnvjcQkpShOMfEejZycTM0/JxsyAB1LJsRfV94rzn2zzneVPRJfiY3wxypDywi+IMu4lK3Yaa1xgnHmQGeCauTEg2J+RLEi2cWNjWqex+p7L/8EBuLeVdaL8K1+5rz1jEjIoxfoaCzbZWvu3C9pSmBt4zd39fwneCsAC/9/Je3K1qLOwYy4zfcsfDKeqGu+4fiIDXRFYJynTTI3vcz+PhPakiJ6rnLMytM9NnFe184fdbHKr7ICbnVacWYAJDUIkXBWVXDK7QuDhtJ2293ssK4mKUZvHJ8oTrVyfPmjiS+gPQ0ZMTbuMxb5Y7fSyHyPwcYvezPvYVR65WoCo+p9cdbvcu7dtG2cQsQlv7kqA=;DOretGEMI5YhGaRYzTZyeA=="
 ---

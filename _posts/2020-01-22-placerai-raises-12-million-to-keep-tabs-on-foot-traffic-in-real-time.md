@@ -44,21 +44,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/Kneron_KL520.jpg?fit=1618%2C909&strip=all"
         width: 1618
         height: 909
-  - title: "Snyk raises $150 million at $1 billion valuation for AI that protects open source code"
-    excerpt: "“Snyk continuously monitors the applications and alerts when a newly disclosed vulnerability could impact the customer.” Above: Snyk in action AI, machine learning (ML), and automation are playing an increasingly big role in the cybersecurity sphere — just last year BlackBerry doled out $1.4 billion to acquire AI-powered security platform ..."
-    publishedDateTime: 2020-01-21T11:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/21/snyk-raises-150-million-at-1-billion-valuation-for-ai-that-protects-open-source-code/"
-    ampWebUrl: "https://venturebeat.com/2020/01/21/snyk-raises-150-million-at-1-billion-valuation-for-ai-that-protects-open-source-code/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/snyk-raises-150-million-at-1-billion-valuation-for-ai-that-protects-open-source-code/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 179
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/Snyk.png?fit=1301%2C579&strip=all"
-        width: 1301
-        height: 579
   - title: "AISense raises $10 million for AI transcription tool Otter"
     excerpt: "And a word cloud at the top of each recording tracks the most-used terms. Otter competes with Microsoft’s Microsoft 365, which can host live events with AI-powered features such as facial recognition of attendees and autonomous speech-to-text conversion, as well as comparable meeting transcription tools from Cisco and startups Voicera ..."
     publishedDateTime: 2020-01-24T02:25:00Z

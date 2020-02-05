@@ -303,19 +303,6 @@ related:
       - url: "https://tribktla.files.wordpress.com/2020/01/hypatia-h_0c7b65aa9535655afa28db9d9fd0431a-h_e39d11c4cf556bf531badd230e2e2089.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 919
-  - title: "Cruise CTO Says Safety Reporting For Self-Driving Cars Is Broken"
-    excerpt: "California requires all companies that test self-driving cars on public roads in the state to report miles driven and the number of “disengagements,” or times a human driver takes over control. Cruise co-founder and CTO Kyle Vogt believes this reporting method is a poor metric for comparing companies, and is causing companies to test and ..."
-    publishedDateTime: 2020-01-21T09:25:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/01/cruise-cto-says-safety-reporting-for-self-driving-cars-is-broken/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 24
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/ugisluglqvfjuwou1zyt.jpg"
-        width: 1200
-        height: 628
   - title: "Test shows promise of self-driving cars for transit"
     excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
     publishedDateTime: 2020-01-25T19:00:00Z

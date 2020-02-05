@@ -4,10 +4,12 @@ title: "Neuro-symbolic A.I. is the future of artificial intelligence. Here’s h
 excerpt: "And it needs to happen by reinventing artificial intelligence as we know it ... “I don’t know if Waymo and Tesla have images of traffic lights on fire in the datasets they use to train ..."
 publishedDateTime: 2020-01-05T11:01:00Z
 webUrl: "https://www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/"
+ampWebUrl: "https://www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/?amp"
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: Digital Trends
@@ -21,6 +23,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "5SLxfG736O1DMvaYGUw/x528qDerZ90T9jn9g7tkFpyvqr2KWFNyMz+1ckRiM01nH7M7jUoKJc5xtaIbq/2C5XitSlnOXZyL7V/KtjXy69/iu6XHpDPxEC4DIPuV3lT0TyaQWg3edD+dRRMI7wR5lABVLSKCChaYiGnU0QzU14eIsdRWmf/Y8i8p4Xz69beSETLo8pIX3IPpmhLs7cUt96Pacluj8xuiIHuYlfTtLyzdaiuq+VAWV92rJGIHsJrWDcvxsXyInHdfWy4oZF0SWzo4j61mNfpaFxaysLR74OlgN9Z5pH8/ZnFMv1dFXnHI;fi/dl7Nap61Ze7s597637Q=="
+images:
+  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/mit_ibmwatsonshapes-2-1200x630-c-ar1.91.jpg"
+    width: 720
+    height: 376
+    title: "Neuro-symbolic A.I. is the future of artificial intelligence. Here’s how it works"
+
+secured: "rsmg5kRrHjODqSwkZLsF4QVmMCn0Vyp0IhSPI1dy2rmr/w76KCiUqxB6k3765tgYAhDXO7Z8PMFvtVHkRKNHOptGNNgvKDPsTiScLkx4O7IWhRzlnh1HKXioBS/fbjxXiwnHQE5+KQFYcu01VTZ2hbll6VlgyucxWRb14zmNEhYa8cfBz8dYvvcBfLEZl+FhCXT8vvqA1yjejdtjzcS8HFFt8YMy33zLUISscuXqObkmzudMH/ffOl5Vb0FJqE7Iemu5BqeS0dYQbkdKVdhjou7oPMxKn6tHFZ8jIla24O5UW6tr2041wotj+yVwefYj;ktCToKfTiIsnw0nzSMlp6w=="
 ---
 

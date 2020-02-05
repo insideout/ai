@@ -767,15 +767,6 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 24
-  - title: "Battle over facial recognition technology"
-    excerpt: "Alphabet (GOOG, GOOGL) CEO Sundar Pichai has come out in support of a EU proposal for instating a temporary ban (for up to five years) on the use of facial recognition in public areas until officials beef up privacy regulations. Microsoft (NASDAQ:MSFT) President Brad Smith, on the other hand, has warned against pumping the brakes so quickly ..."
-    publishedDateTime: 2020-01-21T09:53:00Z
-    webUrl: "https://seekingalpha.com/news/3532936-battle-over-facial-recognition-technology"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
   - title: "Facial recognition’s reckoning, Fourth Amendment edition"
     excerpt: "Last week, The New York Times reported on a facial recognition technology company offering law enforcement, federal government agencies, and companies the ability to identify people simply by uploading a photograph. Clearview AI has compiled more than three billion images by scanning Facebook and other platforms. It analyzes uploaded facial ..."
     publishedDateTime: 2020-01-23T11:17:00Z

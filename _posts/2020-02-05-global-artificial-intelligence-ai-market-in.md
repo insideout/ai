@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/15254403"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15254403"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
+  - title: "Global Artificial Intelligence in Aviation Market 2018-2022| Evolving Opportunities with Airbus and Amazon | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence in aviation market is poised to grow by USD 756.71 million ... and product (companion robots and emotional therapy robots). Smart Robots Market – Global Smart Robots Market by geography (APAC, Europe, MEA, North America, and South America), product (personal service robots ..."
+    publishedDateTime: 2020-02-04T23:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200204005787/en/Global-Artificial-Intelligence-Aviation-Market-2018-2022-Evolving"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
+    images:
+      - url: "https://mms.businesswire.com/media/20200204005787/en/771181/23/Global_Artificial_Intelligence_in_Aviation_Market_2018-2022.jpg"
+        width: 1200
+        height: 627
   - title: "Global Artificial Intelligence (AI) in Education Market Key Players, Demands, Regional Analysis, Market Share, Size, Revenue and Forecast to 2026"
     excerpt: "Global Artificial Intelligence (AI) in Education Market study formulates with historic data up to 2019 and gives a forecast for 2020-2026. This incorporates Artificial Intelligence (AI) in Education market size, product scope, industry revenue and growth opportunities. It covers Artificial Intelligence (AI) in Education sales volumes ..."
     publishedDateTime: 2020-02-04T08:28:00Z
@@ -55,6 +68,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "NSDSLEq59Jib9s2/72qVkIeSD8URMS0Nq8OCixH9gOygP6ZOJz3+EdEpUcrIErPBlGqArxWm/UndAQpcvj1F3bPLiRL/53hvNQh6LHl9d2K9W2fD3BUo11iGTQnhTp/zpGZKWkRwdmR/mmPQsPtk9mP6xoPMP6B2hFFIwGryATUYWNpgFjQy+CEBTr0iaH/25NUILWttb/33tsYEfEUyiubvEjqrBrY5FPUELKxmN8tc/o65/bOCRbOLI6+HrNRcQ0QE3ayUf3iz3w9K6B7D9OucGXayqlV5HN7ktRoJSsvOyqCWyIGl9UanSQ6Ickkz;TgMmLsMnQ2lOheKLiGtWYQ=="
+secured: "gUzdG/dAQHGrveVvGc+kpsyqPfvgw21tbIV3jP/dHiFYeiVCy9oYlWidB67Tl2qz44me6BUOHuALq+eqXajBYEeojmniHDfalnOM/jUtE4o32zQcUg5MIU2OvpzNre2FsYa4Tt8uZOZ4zWO1xt8tWJz2s5MXputpBBZVB7xTVG9maj4tCv4fqx6XTg6fxHd8nAyZ5oeSKe9iubvKmwYTiNqn/zX440B2TPmAM4izSX886kp3gksOOMm6lUbZws/GX5uBDomIBmD6FwyQvu2BExD6QreoPnrQ+u/6+r1yP1MozY/Qf4qGT+/vtfp744iR/D+cLwsB14FZHU6E8R/mW1jPsnZwKVX4mmVcBJtOPquC7k1SJw9KhHMdTfKmH4sjqn0qaxIE5r1NPd5UyDG3KSX86q03Z35Su14NvK3DFk+clvFPEDPObPUJf0N/mX7B7rnK/8hjJOlwhPJYXxlvXyXLPA1MOeb+kZ55Q+jq4QQ=;nV0xDjMKUjDnjEWCIxyB+A=="
 ---
 

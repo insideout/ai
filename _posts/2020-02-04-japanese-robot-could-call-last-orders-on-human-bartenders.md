@@ -2,13 +2,11 @@
 category: news
 title: "Japanese robot could call last orders on human bartenders"
 excerpt: "Japan’s first robot bartender has begun serving up drinks in a Tokyo pub in a test that could usher in a wave of automation in restaurants and shops struggling to hire staff in an aging society. The repurposed industrial robot serves drinks in is own corner of a Japanese pub operated by restaurant chain Yoronotaki."
-publishedDateTime: 2020-02-04T11:02:00Z
-webUrl: "https://www.reuters.com/article/us-japan-robot-bar-idUSKBN1ZY17K"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZY17K"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZY17K"
+publishedDateTime: 2020-02-04T17:11:00Z
+webUrl: "https://af.reuters.com/article/worldNews/idAFKBN1ZY17S"
 type: article
-quality: 89
-heat: 109
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -24,9 +22,9 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200204&t=2&i=1485686208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG130WA"
-    width: 737
-    height: 545
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200204&t=2&i=1485683512&w=1200&r=LYNXMPEG130W9"
+    width: 1200
+    height: 833
     title: "Japanese robot could call last orders on human bartenders"
 
 related:
@@ -61,6 +59,6 @@ related:
         width: 1200
         height: 800
 
-secured: "4+be4WAepdJxqItUAoXumxwCwG5U68Q4Am6gJlm3HAD1BwitvhAEDZvO2zZ8WO4A34acM9EPzigc89MEEGBYhYlMAla3X/RMADN5L8BGwZIpLfBJwwzgtWFSZWBBvUW6yJyzymBncvBQSIic7SeUerLHSjokheow8z3f3m+nQAVByuy3GGfwMuH5scxv2JtMZXbKjhEXWNxHh2LhVTU75lwMqtxfl8/NMX8ZhVpZK/vbQPLQvaCUSsOoLk3aHRVtCe3bsvRSqeGOYWKvurA25kthtEQdZ62o6YtRvG8inr4M1yi5Zatu88dVBhrqvY9NbEcWyGgn4DVPe4H7HQY9cBMVFS0j+UeGTAwuKmmKW/icOgvcgFUjjf0aVu9CRN9xmUXyfPYBjlGeKoegoDZGkqhRioarma3UNmcQOfjTaRSnRa9g61992eUZON8MBSs0hpG+Zb2m+dazF0K4+ITNjicxXY/bKVHJnBJT/awM/NU=;6Irsl+rmVOnj0mBWJBi81g=="
+secured: "6RvORaOLm9FBhMUmMEcW/MTb8Iyw/58YgAcsBj0jukVeknT4Oc6hKW68RTzl4OpProqPUCkczedZ1MOgpLv+ljyIbZWHyhdSFchhIqx0qNJjxkxdu4ctAvQDg6mLcX28FePeQCAOBn/bNIdeJ8dxctXbOs1tWBTmAXu+D3QH4AdlgjQytwBN2/U8qe2kYddonwlflmk3qcndzBAVwST0TsXwDamg0Muv9Dhb498+GfvGjO7MLpTxxdi2mdvGJv5x+SGFAX19Nn3BVQ6dxZWD5e5+JniNoaKYiVfTAxsXvGMvgMYFV9tZFiJqhnEo9DOMW6ZMlcHHofTAe3D2Ttpw9U0AxEpnA+VXJLdnQ7D40w5p9sTsM1Hi3zv/bGKhV3Xfbusvuk7ujPHjxsPrGyQbQ2wrB3lvJXPIFlhfhPvQ35kiIBF5cgws26dOP99jC1hw/3Yl9aw4N7xvp2CQPxPKTFL9t4RPqsD+SoZlaFVTOkM=;g0dwDySEHeqhr8fr0CRFzQ=="
 ---
 

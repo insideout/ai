@@ -5,7 +5,7 @@ excerpt: "Musk, who has crossed swords with Facebook’s CEO Mark Zuckerberg and
 publishedDateTime: 2020-02-04T22:46:00Z
 webUrl: "https://analyticsindiamag.com/elon-musk-or-tony-stark-tesla-founder-creates-ai-subordinate-parties-hackathon-style/"
 type: article
-quality: 30
+quality: 32
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI Hardware
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2018/12/elonmusk_fused.png"

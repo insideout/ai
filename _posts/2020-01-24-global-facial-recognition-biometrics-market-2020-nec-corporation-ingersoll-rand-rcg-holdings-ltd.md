@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-24T09:58:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-biometrics-market-2020-nec-corporation-ingersoll-rand-rcg-holdings-ltd-2020-01-24"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: MarketWatch
@@ -28,19 +28,6 @@ images:
     title: "Global Facial Recognition Biometrics Market 2020 NEC Corporation, Ingersoll Rand, RCG Holdings Ltd."
 
 related:
-  - title: "Automatic Content Recognition Market 2020 Region Wise Analysis of Top Players In Market By Its Types And Application By 2027"
-    excerpt: "Automatic Content Recognition market research report analyzes adoption trends, key challenges, future growth potentials, Key Drivers, Economical Viewpoint, Restraints, Growth Prospects, market ecosystem,"
-    publishedDateTime: 2020-01-21T08:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-content-recognition-market-2020-region-wise-analysis-of-top-players-in-market-by-its-types-and-application-by-2027-2020-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Facial Recognition Market 2020-2022: Key Findings, Global Segments, Business Trends, Regional Study, Top Key Players Profiles and Future Prospects"
     excerpt: "“Facial Recognition Market” global facial recognition market had been valued at USD 3.04 billion in the year 2016, which is expected to reach USD 8.93 billion"
     publishedDateTime: 2020-01-27T09:25:00Z

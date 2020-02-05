@@ -27,7 +27,7 @@ images:
 
 related:
   - title: "Science fiction becoming ‘reality’ as advanced technologies start to enhance human beings"
-    excerpt: "They will be capable of accurately interpreting, storing, actioning and sharing thoughts and emotions.” Along with BCIs and mind-controlled robotic arms, here’s a list of the key technologies Mabbott writes are likely to contribute to human augmentation including: An army of Cybermen Exoskeletons will also become commonplace, with the ..."
+    excerpt: "They will be capable of accurately interpreting, storing, actioning and sharing thoughts and emotions.” Along with BCIs and mind-controlled robotic arms, here’s a list of the key technologies Mabbott writes are likely to contribute to human ..."
     publishedDateTime: 2020-01-22T01:28:00Z
     webUrl: "https://www.itwire.com/strategy/science-fiction-becoming-‘reality’-as-advanced-technologies-start-to-enhance-human-beings.html"
     type: article
