@@ -40,6 +40,6 @@ related:
       domain: infoworld.com
     quality: 34
 
-secured: "/t1mpzz14Bb71spfI7S10+d1VVCpyBoWDXFrMXP92YeOhsB5jzkbRLSQeZRvuV/HsBcrJSBlbobtZoyncAGPs3VjgyqXxg1159KUYS+2q7CBuU9O05q4TbGyyOJohev1EMmyBxN/j+aglS/9CssLr1rlaxYdR1sLmO8UbrzdQlqxxZSB449S6L+3dh1b03F4gRdabHuNtKG/tb/9AZzw9XF0a14rUSnUIvzJEMF18WL28xrM8gYGCFB//OSqpnlI68Nh6HOZu0HY18UE/WWgKdWIkjhvSW0gjGvoOzCsQa67ZKTiZzbaqot7QlbT2V2f;hhwy59LseKLZ9yn0LY18Zg=="
+secured: "VPXcApgt4NOvb64p7p+GQcSAYpLQITc+yU0GKMKk4yg/xrcRUuDvK/leTyWFY2tF4lRbYohuczDcSO9TPQDNhRi11nxkgNCfn9YT77YuAH57wszQxJeIfOtuHIPaRqssT5+dXkXukZFYce5QAnO5IWoLW6EGKlFawguS821FxybkG1gxs1pBYe7X2QdPbsi7ElnQRuqprD/zQWsa6h5VPZWGxAW0WUdii6fNzR216+N6Br44IA9rqE/yJREkJI4sP1fHJPK03Unl4mljSLAb1VkhWgaZbDGDmdzG4lgj6/jyt//zESBFFayqfRBzw0q5;jo3llo72fzllikhi8MCedg=="
 ---
 

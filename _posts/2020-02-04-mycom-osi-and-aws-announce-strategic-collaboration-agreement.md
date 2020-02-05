@@ -23,21 +23,6 @@ images:
     height: 512
     title: "MYCOM OSI and AWS announce strategic collaboration agreement"
 
-related:
-  - title: "Deltapath's Noise Cancellation Gateway Helps Businesses Improve Communication and Collaboration Over Phone Calls and Fuels Artificial Intelligence"
-    excerpt: "/PRNewswire/ -- Deltapath, a Unified Communications company, specializing in revolutionizing the way organizations and people communicate, announced"
-    publishedDateTime: 2020-02-04T18:28:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/deltapaths-noise-cancellation-gateway-helps-businesses-improve-communication-and-collaboration-over-phone-calls-and-fuels-artificial-intelligence-300998885.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1029626/Deltapath_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-
 secured: "ak5Xxov6hSTqiGjWPf9K3dzaQ/5HdEYbGEdDVHdX5tqXKdOQaawbVzt9roL6Lv2Jz75yq7QOJBXBkJfsofUEKffCgb73PYdPnfHFaY7+KR+LxcJMwLuNFj/6WeGnmVNk9YXI1Sn04oFttvaEmaBudZBfHd24GbMwhPP/jIUZ5WJLu7h0MdAXJMrgUa4OK/w7x43HYeYpD9CkGn2htHglJbuLTwTcGzxeY/EmHuIsIu19JsbUIT9RHqnkGGYRLwfuI1RwPsOoUDuvxSh0tu3xPno/YWiqFaDLIJ9WHJQpnqbpfpdBJrOq3BOm5OPwnff9;K/XItKGNOw7Xoy11cFq8QA=="
 ---
 

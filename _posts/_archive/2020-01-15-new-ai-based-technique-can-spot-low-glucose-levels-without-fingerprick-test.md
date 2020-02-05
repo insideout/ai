@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-l
 cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     height: 365
     title: "New AI-based technique can spot low-glucose levels without fingerprick test"
 
-related:
-  - title: "AI can detect low-glucose levels via ECG without fingerpick test"
-    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-14T02:17:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
-    type: article
-    provider:
-      name: ETHealthworld.com
-      domain: indiatimes.com
-    quality: 39
-
-secured: "D1fcfgZJPuSx25k8yjibxc23TpvSCsCHS8CoDnzQmThKiF/wGob/LLzzfLnu3KOYa+kF6nYvnZUNQSUEKAsSfGxtzPf3a0McN/jOn1pj7N2OxcQk8Ch93NKt7OGLyJmUW++qzfHbn7IDKHR34zjwgJDvtSFw6xAlJPE8X7GCyRBtlEKqv7Brmxq6c2Dup9/XI66AoN55BvimOvUPGEHAOuJmaFM0hu64e3JuedfV/5ZjXBM6iW3YHnYF9Y7p4BxhqCc5XEw+aGJIDbkaR5F+2gqWLCkoK712lRZm3N47gp4Zl19DI9SIWmf6NbjJculR;r6o5YIErWqDe/7wXdH6Gmw=="
+secured: "lr2XXN9h0UxGz+DEmOcqa1DIf/E0lfmpVoB2yCGb9HKP7OD/CV5u1THTefAc48GpA7xd7rjfSgiIy7wI82wwdzAPrFIQHiXtoI1zGw7w4HMDmLKVaUl7nDgkvgPCoBBgJNyyy+SOvi+J8r4+TmL3/i3SsnSheIZYjOie6nqGoUKpqk0gqhUS9gyqo8quZV6mC2OdrGWzb1R1v8wpSbN6WlGy+K2D1Bfx5Y5vFKGgjd0fYrfiMyuJCgvCoAUKSm0oIyb1Y2DQL+uPlyZcDD34hzV6XbNQl2BonKEsrQpHuURy43DyEDJCQCo481LCrHHg;Mm5wcsbpGt/dfeWYtGVbCQ=="
 ---
 

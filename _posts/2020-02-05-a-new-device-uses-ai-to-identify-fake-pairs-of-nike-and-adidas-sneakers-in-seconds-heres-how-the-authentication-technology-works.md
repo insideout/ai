@@ -28,6 +28,6 @@ images:
     height: 600
     title: "A new device uses AI to identify fake pairs of Nike and Adidas sneakers in seconds. Here's how the authentication technology works."
 
-secured: "yjzTyBGWYerRFIoBa8LKU3Xrg7yLakHg3ZdVZCNUb4FCCgLsHn/E84hH86FRR4A9H1/eb9heP9T1o4Wu2Ix2gfAEkhArqG3wW94jk4tCMHCeVFZBXo/I0j0piNXH+n7+4wppY2ROk4Y6et71RH1uoQhtmyrg5UvSJbHfOpR4Vu4DSZ1Q+3Zvm/tKMPFIOfJAD6NB5DNu/anee7FRw9pfpiWcfK/FhBsCJoKmBYsY1FS0MMgz4x0VCzrDGz9+z92mVUgzz4uBlOGKsldAUXnn1cK50KeJRw2l5sD/KB0BHB2CXeopiwSzlTgD9Yd9LOZ2;uPE1Ek5bk8+zZ/1WYKYcpA=="
+secured: "+EX4AcFS2NHWbMPgQezZ9HKDqNNzfymN35D1SOGlVRA1Vn4Tx0BjQdCgzIyTYIEPTCJJhbYXhTdyeHL3aVF34UaoyAEoOouErSQ8Rsx79QeAoGVsCfMNPplLwb8Qk9uTnxIElu6lkLMraWeY/GCOsnOo5DnrdLH4mhhR7xmv46/ea7siz/sscsgcQzLKpKLmWYCOMxsU2ZUss/6mS6cCj/jPX+mtE+Kxbt5lXf4EeO4DXg7opMIbaJi8lADsemHKnMvKyDqMJPnZGiSh2HutE5hI9vheysSpRLDCnkuV/n1KWDYN1CQgaT4LqfxPXSNDdQFdhrH0mDrHuQueESUkYad/WA33EaruHgfqMRZifQFxW/XUP70TjIwYysSGP362xq6VztMvlBp0YUUlF6fzQw3bwEHwtzGATw0iqyeQyKF554eu2lcZ5NSsKgyzF6U1kpxXOy7Npo8dh6cIbwuxs/84P7D6aInvEQEzpHNxuc8=;ElfP/+bKJ+UMmoESz7m34w=="
 ---
 

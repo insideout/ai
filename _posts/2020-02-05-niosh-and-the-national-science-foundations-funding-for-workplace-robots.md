@@ -1,9 +1,9 @@
 ---
 category: news
 title: "NIOSH and the National Science Foundation’s Funding for Workplace Robots"
-excerpt: "The Center researches a number of robotic topics such as robotic cells and cages away from human workers, emerging robotic technologies, wearable robotics or powered exoskeletons, remotely controlled or autonomous vehicles and drones, and future robots using advanced artificial intelligence."
+excerpt: "emerging robotic technologies, wearable robotics or powered exoskeletons, remotely controlled or autonomous vehicles and drones, and future robots using advanced artificial intelligence."
 publishedDateTime: 2020-02-05T08:42:00Z
-webUrl: "https://ohsonline.com/articles/2020/02/04/niosh-and-the-national-science-foundations-funding-for-workplace-robots.aspx?admgarea=ht.ConfinedSpaces"
+webUrl: "https://ohsonline.com/articles/2020/02/04/niosh-and-the-national-science-foundations-funding-for-workplace-robots.aspx?admgarea=ht.FallProtection"
 type: article
 quality: 38
 heat: 38
@@ -18,11 +18,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://ohsonline.com/articles/2020/02/04/-/media/OHS/OHS/Images/2020/01/LonelyAmericans.jpg"
+  - url: "https://ohsonline.com/articles/2020/02/04/-/media/OHS/OHS/Images/2020/01/FirstRepondersMentalHealth.jpg"
     width: 620
     height: 300
     title: "NIOSH and the National Science Foundation’s Funding for Workplace Robots"
 
-secured: "ABuEuxiV/liPVlg9nffO3NBCyM5f19Gud/wcdpfvmDXsNN19cjmVMy1pUXR5aP8EmW3bjOA/mNfielulHFBFara8hPeg9is2OqH3d0WWPcr0j1K17gVMozE3b1ibbUfO4q62oQfTQ0vT8sKL1E/yuxER4SfqiV8a9begD3ekC2IRttRCTlWw0tnomM8OJZUPo5bpmVxlM1z0kL/LjuJbDmWTKSIuYt7O7EuqvP0Bn41j7HjXjtNBNM4pVpg43mxrvKujvBhdGwgtaFdAv+hEs3wo9QiaGjhWjCjZInRGdNXH8Z+IDOp5bykquHscd7HY;EmqE+KWIzdnZCdXWIRluGQ=="
+secured: "iqvcNW1hxLLU+to+MHk4EbWBGa2FloXHrnQlbnYaSV2rqQY1akKytoF4iKJLfR+xxb+ilm0AafJDCghxpFkSCSuY/s8Hwr4LDSD5AQHLdN69Iwa13zCt1PNbwXdfa0XajTILmxKU0QPAu2G16qbBnIX3Q/iG3ICZ7fpmzzDzLMWUlP/JBAYxP5R4ItNNzvFd2OoQ8IGE1JOarPMUbjC16bG+xW4aN8ThpqdeqXB/hTyU9oQYXED9YaUZIT3V+7jGhadIOn78t/wvCzP+eUOZoiO3xWxQ8wAgV64ikFSeiLTJsEbkSzgoeMpHtbqOp7Tr;cIReuRIhK2mgeeaB1UucGg=="
 ---
 

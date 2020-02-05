@@ -75,6 +75,17 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 48
+  - title: "China working on robot development for coronavirus testing"
+    excerpt: "according to Siasun Robot and Automation Co.Ltd. Based in Shenyang, capital of northeast China’s Liaoning Province, Siasun was founded in 2000 and listed on the Growth Enterprise Market in 2009. China has also called on the country’s artificial intelligence (AI) sector to lend their technological hands to help battle the epidemic."
+    publishedDateTime: 2020-02-05T17:47:00Z
+    webUrl: "https://tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
+    ampWebUrl: "https://tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 39
   - title: "China using AI to battle coronavirus"
     excerpt: "A robot equipped with loudspeakers and high-definition cameras admonish passersby ... vaccine development and protein screening. Beijing-based AI startup Megvii Technology, known for its facial recognition brand Face++, has developed a temperature screening tool that can help monitor human body temperatures in crowded places and identify ..."
     publishedDateTime: 2020-02-05T12:18:00Z

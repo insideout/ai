@@ -36,22 +36,9 @@ related:
       domain: nasdaq.com
     quality: 103
     images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?371380900"
         width: 1024
         height: 512
-  - title: "Bundesliga plans to “revolutionise football viewing”"
-    excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames, from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search ..."
-    publishedDateTime: 2020-01-18T05:48:00Z
-    webUrl: "https://gadget.co.za/bundesliga-plans-to-revolutionise-football-viewing/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 24
-    images:
-      - url: "https://gadget.co.za/wp-content/uploads/2020/01/3922455488_3413e0bd67_b-1000x600.jpg"
-        width: 1000
-        height: 600
   - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
     excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 ..."
     publishedDateTime: 2020-01-13T15:16:00Z
@@ -62,6 +49,6 @@ related:
       domain: telecompaper.com
     quality: 14
 
-secured: "gWgEKAgUyO02Py9xteHIHjanwxavG0IeaiNOGERbmDDYleT9aB29uEJLiZ9D+zlYT8FinAj7nzSvCYca/GNhTgKaEB0W1Zl7Y+OQvfe0M8XWvcNEzuTRGMHiQ7GAfU0d6SmX3aENT4c+l5ynnjMbtrYMjm/VC3FAK5Dq/qElFiMi438jBei3B564IfMUdxXso3nRb15J92QpB+vHor8Ln7xkBc3MQr4sj6OF2lXLM+RnMZgzMdXTatssEc+hfprjxtZMuS2coiH/Nn2UX/HEwz0IgFe4QoLKK/Hp5NVH8U/+grWY6suCLQ4QkmfC89yF;aot+xHnWF1Qfxr/w/FGPOA=="
+secured: "rL/oydDf7RR2d3tkUke1zXJ5SUQFek11+ikFjc+9seNJUg/q8tTkqbZPzeoUH7B7C+tEeiyuK94q8LI2HR3jVcNxb9CTOe3YdxK0uZIjY3/SGbKN7+MbkwepiSpKZnW7uxsLefckxz8yPD31df/Qk6JOiSyFnTi4pmvbwE9sf7yrvbZgsbNJlaWZ4Xo57tn5TVrhUslsDPrevIHp650x31K4+ckzlOhWzpFW4e6j8qYWH5H1p3IJID68SDzwrp+zP0jrYNEpgMt5KmULtUlSTCipBjE1btAMCmchnIqQ+fPqaw1J1ZQ4Fo1z0W9Dfogo;jPPOq621uGu24C4UGL4Zww=="
 ---
 

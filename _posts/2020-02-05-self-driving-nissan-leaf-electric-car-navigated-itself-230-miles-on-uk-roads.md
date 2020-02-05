@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-dr
 cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,42 +26,40 @@ images:
     title: "Self-driving Nissan Leaf electric car navigated itself 230 miles on UK roads"
 
 related:
-  - title: "Waymo workers complain about cuts to benefits and needles in self-driving cars"
-    excerpt: "The company recently announced it has racked up 20 million miles of autonomous driving on public roads. Waymo is widely considered to be the global leader in self-driving technology. Alphabet relies on an army of so-called “TVCs” To run the program, like its many other projects, Google parent company Alphabet relies on an army of so-called ..."
-    publishedDateTime: 2020-02-05T14:00:00Z
-    webUrl: "https://www.theverge.com/2020/2/5/21123049/waymo-self-driving-cars-workers-vendor-contracts-benefits-needles"
+  - title: "Self-driving electric air taxi passenger trials approved for Canterbury"
+    excerpt: "Yesterday, the Government signed a memorandum of understanding with Wisk, supporting a passenger transport trial with the all-electric self driving plane in Canterbury which would be a world first. \"The Government sees great potential in the development of an innovative unmanned aircraft sector in New Zealand and we are in a prime position to ..."
+    publishedDateTime: 2020-02-05T00:49:00Z
+    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/self-driving-electric-air-taxi-passenger-trials-approved-canterbury"
+    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
+    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 60
-  - title: "UPS and Waymo partner on self-driving parcel pickup"
-    excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
-    publishedDateTime: 2020-01-30T17:34:00Z
-    webUrl: "https://www.retaildive.com/news/ups-waymo-self-driving-parcel-pickup/571415/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
+      name: TVNZ 1
+      domain: tvnz.co.nz
     quality: 39
-    images:
-      - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
-        width: 770
-        height: 364
-  - title: "Autonomous and Self-Driving Vehicle News"
-    excerpt: "As a member of the Consortium, Synopsys will actively contribute to the development of a set of recommendations for system architectures and computing platforms that will be used to address the challenges of deploying self-driving vehicles at scale. Waymo announced it will be driving its Chrysler Pacificas and long-haul trucks in Texas and New ..."
-    publishedDateTime: 2020-02-03T02:18:00Z
-    webUrl: "https://www.autoconnectedcar.com/2020/02/autonomous-and-self-driving-vehicle-news/"
+  - title: "Self-driving car tackles unmarked country lanes in UK’s ‘longest autonomous journey’"
+    excerpt: "A Nissan Leaf with autonomous technology tackled complex situations far-removed from the simple grids and well-lit Californian streets frequently used for driverless car-testing, instead negotiating complex British road features in the UK’s ‘longest autonomous journey’. The car negotiated country lanes with no road markings, junctions ..."
+    publishedDateTime: 2020-02-05T12:46:00Z
+    webUrl: "https://www.imeche.org/news/news-article/self-driving-car-tackles-unmarked-country-lanes-in-uk-s-longest-autonomous-journey"
     type: article
     provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 24
+      name: Institution of Mechanical Engineers
+      domain: imeche.org
+    quality: 17
     images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews2.png"
-        width: 640
-        height: 300
+      - url: "https://www.imeche.org/images/default-source/default-album/nissan-drive.jpg?sfvrsn=0&size=705"
+        width: 705
+        height: 396
+  - title: "Nissan Leaf breaks UK record for longest self-driving car journey"
+    excerpt: "Autonomous model completes complex 230-mile trip from Bedfordshire to Sunderland"
+    publishedDateTime: 2020-02-05T13:00:00Z
+    webUrl: "https://www.theguardian.com/business/2020/feb/05/nissan-self-driving-car-leaf-longest-journey"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 4
 
-secured: "eOtHycefjOKndJxmvixN9UC+8a5gK0iQGIuWY/MINYVHL6XDsvAqZJICt9DGymmpPrYaF+q+hUD1BXjewcqyo1ejEeUNM+10pn7gkMXsHqdfXXp1HNs7s7gmUXeOxLooJg16u/CmBRc3nIXejgfnHR9vRkKwlIsPhVfuuGAZdgIKFP8naYbUT/Uj8e7yyt2uuO2C8LCN+HM8f9Jl3Da48POeFiQPssn1miR1F91KJP0cMrOJa/1Aw90impeoJ7n0536dp5qpoOJuw+/Yr7zHVpmYX5NogXQFeh6ewuC/zwkVTVIX2eA2zKZUlXTuGz/D;YFMVH+Zk4nguCHmkQYFJOA=="
+secured: "3NA8O9lW77aNpJOZFV4mVZhwpWMTG+exzQlYdkI3Iok5ZLlOxTGIk2EuqqkH4a6bwWTjNYgo7XSNpLG6HJMa50ScCVVDZSs8VeWL2MUl7pZ4DC9A2uMKWPIrHGgt29/ZbCtsgr4Ushf8Oe229rKZ4WP7YmvH6u4hGd/F+9lBNMMzcUTJWlVyOuQ7TneRtD/9xDI1p6FODRgxDWWoNSi0sZj48FzHuip6kOD0gJcwdUyNuCKzOhjiDZGpnEQyT3tLDcbYdtI+g3q8IH1t546uKOPL0GdCqEFf745f9C+qA3e8TB3qmvFRdlqbh9QnoWj8y4u31DcuTlDNlLZeBv/8pZ7k1XCJSSmFe7iWN8R5fH8h9D4qCsUEUVxuoUuhXVTP2Rgez6995/Q4B3SPI5rZSOGdQyxVkvA3sD8MhWFb7hI3b+f6zjgrp4muuj+ikkzRagzto0tIULoawRx2CTIfn9VjqYY1kY+iFnrsiw5AjIg=;0I6dUYJu6hTqC+xG19KArg=="
 ---
 

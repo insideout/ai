@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artifi
 cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -25,6 +25,21 @@ images:
     width: 412
     height: 338
     title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
+
+related:
+  - title: "Hyland buys blockchain-anchored business Learning Machine"
+    excerpt: "Financial terms of the acquisition by Hyland were not disclosed ... More than 900 such institutions already use Hyland's content services platform. Chris Jagers, CEO of Learning Machine, said in a statement that the deal \"creates significant value for Learning Machine customers who will gain the full benefit of Hyland's notable support ..."
+    publishedDateTime: 2020-02-05T16:11:00Z
+    webUrl: "https://www.crainscleveland.com/technology/hyland-buys-blockchain-anchored-business-learning-machine"
+    type: article
+    provider:
+      name: Crain's Cleveland Business
+      domain: crainscleveland.com
+    quality: 39
+    images:
+      - url: "https://www.crainscleveland.com/s3/files/styles/800x600/public/Hyland_Software_Logo_i.jpg"
+        width: 800
+        height: 600
 
 secured: "yKZb68+JV8vuk8KV8NCrGSKme1wS5vUMCjJvqMx8FKvxxkZ352pcZSgdxwKXIErnr54jVUyaf81mhDSlML8xVdghjjKI2ht2A5fJCrzQR8cn76rDz/pvByNBPXAIhxnMXAZ7RV1cbhoFagZbYB/it8a0CKctqdz0OzIhFp8wx7VYGx310BslDWFbpJmzeuy6/0xfKidW9HZYFkXddAYKMxcCD4qdpe1iqwpdQgdXnuJPVld1XK08z70v46UeqM+8l56eByAIaKZoPBBm4agbWYTCnfJl5JqFOOuojpSIA2AOVgBbU8tTvX02j6mIamV7jfX2nK/djRKiDzm4thU5D5FFvYPE+61QzYW0PJfebhMnLGaTAnVUsDFbdFjrmYeKE75/kB1icnZOYf19J5lGYXsziaOUEQl0juWGo/XJHB08DFO9ClublCRVUtfCklqzV8FBLMCIFPJQmvI5bENONOcjqVIKVRNFtlJS70eFVFk=;jHT/g1JeWMh1Ou7EK2ficw=="
 ---

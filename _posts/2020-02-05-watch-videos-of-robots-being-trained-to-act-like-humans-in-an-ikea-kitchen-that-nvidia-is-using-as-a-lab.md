@@ -27,6 +27,6 @@ images:
     height: 562
     title: "Watch videos of robots being trained to act like humans in an Ikea kitchen that Nvidia is using as a lab"
 
-secured: "o4EbUTOqx/0bXs9c4495DOPWt3E/4gteUKHqxANMdxBrNcWYyKCJIfh8CRVsJizdRCRyha/Fy4ovmAOEEplXLBVRASp4sIk5mG3hcmuMhFEoM0fBOKwEhrU/GPrad0pSH5oVErAxhXe5hCBfS2O2DcSSfF4+srFWS1AoJ/c+p7vhQpsv/qS2r/qu35dn+xZ5RFZ12e9R7+RdzGvqhyzdtPCoUv95hubNN1QsLY5zMZgk/5ZnXJ5t7vzb7JIDW7/tuBEAPqjVLZFIDJ17lcO2jGFR9dHGtodbV0lJLRqWuGxplKxuBjMsV8hJ5dE6XK4T;m0ArxWCu5ppZNUltvkHvvA=="
+secured: "B8yJZjU2xrQrw0lslnlvWo5j6u4qlt7AwrTZ/pvlL/Yf7gRg8vgoqvI0PreKvJZIkIrL+46FltGkuL8VZFuHVORLVWChkGNxm517ljtIenHkeRfzYbS408J+P5LnqdMieY8SEaUao3mX2QPWwMJOWfnYoOZRvsj5057scVuft3eO7EM30eaFIFjK27KxbFEdPSum0Gqw9uQikXqXBy1+Hy+SffDRZJot6za3u4T8uRLGisoPxLLBb68TvE38lDu9byOo8jbZGrht3EplzAlV0Dw/raptAxi6P46G72ZNoYUxydeN1vWBksFWRnnt2n97Nh4UUHIrjjlronp4Se1/hHeCf7xG3tIANkNEt1lGi0lbE6tfx++LO3RFXrAjJcgDWpg1tUStQLFZ1V93hVix2NF+6lSa7Wsj1PmzeeZFj2DZ91BjTTnKrTP7CnRQs7NbdzYtnQkoRca07hlatEghyg5+T+uXrWdW11tk6hd+Ar0=;1Z00QVpHL4MPk7frqwdDCg=="
 ---
 

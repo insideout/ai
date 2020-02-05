@@ -7,8 +7,8 @@ webUrl: "https://yourstory.com/2020/01/amazon-ai-conclave-day-1-key-takeaways"
 ampWebUrl: "https://yourstory.com/2020/01/amazon-ai-conclave-day-1-key-takeaways/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/amazon-ai-conclave-day-1-key-takeaways/amp"
 type: article
-quality: 55
-heat: 55
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -18,7 +18,6 @@ provider:
 topics:
   - AI
   - Google AI
-  - AWS AI
 
 images:
   - url: "https://images.yourstory.com/cs/static/default-ys-image.jpg"
@@ -26,6 +25,6 @@ images:
     height: 300
     title: "Amazon AI Conclave Day 1: key takeaways from the largest AI conclave in the country"
 
-secured: "EC6ymQ89WNRfxG3Dd+0mUUCijnR1Ue4kdc3ITOgx0ccl7Hdf7u1Gvr7RfkWFfk+nFT1BZ9Etl6hxMLGcb0EAkraEinjvvwt+zC5eenzAQWobRiXAKyNr/8ZyQbuHTdswUKQRK8HWw7ENScxCzKptTpKYboNv2G1bdlci6zNp/AUNl8bzmFvQNVlH3roGNqbzuQLef3jph5asH9dQvYG7G1Ga9D646eset4Mjd172sCZRkalH3PBOBWhU8vpE9dcIodYuHn32K2y2urTKpyjqdT1KCDT3N41DW6zrL3o3nbIK/FQX0ytKqbtUO0ugClht;HySvqAHU0QCiM/jTPdC9Xw=="
+secured: "LEyby8Db8F+64p/fZCaznZpU4LbiBPASnB8AUcFzmNb/3kJMoDRsN741gRJR6Eeor3P/lpxXWqFaklRP5lSTf99OZg5Y0KFzYYAm44FhK09mzDKJBqOaoxIGoNzzXVhPkyKqJVs/G2rmEMLcdgKWBKe+VuEUUb1Tfveh7G4napxc4sOP+IcaU/vyuZFSctrLgGSEoeFClldZlZaUQrgocSs5FDepyajfDWg5a9KOcxHh1dUSc2SYRWyLy53AmA/7ZkOirjAlX4uZzzEjhFTN8bz+LxFW0+8XyQxRCtTD/X2damcxg/F7DzaSaijlUX1u;Cg9V+/zCH4yap5AG/PJYhg=="
 ---
 

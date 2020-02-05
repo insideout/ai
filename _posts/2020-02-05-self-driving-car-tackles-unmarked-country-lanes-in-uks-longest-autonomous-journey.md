@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T12:46:00Z
 webUrl: "https://www.imeche.org/news/news-article/self-driving-car-tackles-unmarked-country-lanes-in-uk-s-longest-autonomous-journey"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,32 @@ images:
     title: "Self-driving car tackles unmarked country lanes in UK’s ‘longest autonomous journey’"
 
 related:
-  - title: "Patchwork of self-driving laws limiting autonomous truck innovations"
-    excerpt: "Self-driving trucks could change how freight moves across the United States. But with a slow-moving federal government and a patchwork of local laws regulating autonomous truck testing, that future is far from seamless, according to a recent study by the American Transportation Research Institute (ATRI). The government rules created to support ..."
-    publishedDateTime: 2020-02-03T13:55:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21121622/us-patchwork-of-selfdriving-laws-is-limiting-autonomous-truck-innovations"
+  - title: "Self-driving Nissan Leaf electric car navigated itself 230 miles on UK roads"
+    excerpt: "Pilot vehicles tested on private tracks incorporated artificial intelligence systems developed by fellow consortium member Hitachi ... and a huge step towards the rollout of driverless cars on UK streets. 'This project is a shining example of how the automotive industry, working with government, can drive forward technology to benefit people's ..."
+    publishedDateTime: 2020-02-05T13:20:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
     type: article
     provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 4
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 41
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/05/09/24336994-0-image-a-146_1580895983483.jpg"
+        width: 636
+        height: 382
+  - title: "Self-driving electric air taxi passenger trials approved for Canterbury"
+    excerpt: "Yesterday, the Government signed a memorandum of understanding with Wisk, supporting a passenger transport trial with the all-electric self driving plane in Canterbury which would be a world first. \"The Government sees great potential in the development of an innovative unmanned aircraft sector in New Zealand and we are in a prime position to ..."
+    publishedDateTime: 2020-02-05T00:49:00Z
+    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/self-driving-electric-air-taxi-passenger-trials-approved-canterbury"
+    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
+    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
+    type: article
+    provider:
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 39
   - title: "Nissan Leaf breaks UK record for longest self-driving car journey"
     excerpt: "Autonomous model completes complex 230-mile trip from Bedfordshire to Sunderland"
     publishedDateTime: 2020-02-05T13:00:00Z

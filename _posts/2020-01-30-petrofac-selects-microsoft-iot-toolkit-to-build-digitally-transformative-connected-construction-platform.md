@@ -37,6 +37,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+  - title: "AWS selected by Carrier as preferred cloud provider to drive digital transformation"
+    excerpt: "Carrier will use AWS’s IoT services, such as AWS IoT Core, IoT Analytics, and IoT Events, to connect its products into intelligent systems, and AWS’s ML and artificial intelligence services to allow those systems to learn from users’ habits and adjust automatically to improve efficiency without sacrificing performance. Carrier will also ..."
+    publishedDateTime: 2020-02-05T17:43:00Z
+    webUrl: "https://www.telecompaper.com/news/aws-selected-by-carrier-as-preferred-cloud-provider-to-drive-digital-transformation--1325488"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 13
   - title: "MYCOM OSI Announces Strategic Collaboration Agreement with Amazon Web Services to deliver Carrier-grade Service Assurance with the Cloud"
     excerpt: "Running on AWS, MYCOM OSI’s Assurance Cloud™ embeds its award-winning Experience Assurance ... telco and IT networks by integrating real time assurance with closed loop automation and analytics driven by Artificial Intelligence (AI) and Machine Learning (ML). “When selecting a cloud provider, the thing that matters most is a cloud ..."
     publishedDateTime: 2020-02-04T09:09:00Z

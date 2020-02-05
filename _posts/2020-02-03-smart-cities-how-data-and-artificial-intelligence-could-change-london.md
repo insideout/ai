@@ -2,22 +2,18 @@
 category: news
 title: "Smart cities: How data and artificial intelligence could change London"
 excerpt: "With growing pressure to cut carbon emissions and reduce the number of vehicles on the road, some small cameras could help provide the answer to London's emission woes. You could easily miss it. It's a small triangular grey box high up on a lamp-post but it could hold the key to big changes on London's streets. These are scanners counting who ..."
-publishedDateTime: 2020-02-03T08:46:00Z
-webUrl: "https://www.bbc.com/news/uk-england-london-51342129"
-ampWebUrl: "https://www.bbc.com/news/amp/uk-england-london-51342129"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-england-london-51342129"
+publishedDateTime: 2020-02-03T08:44:00Z
+webUrl: "https://www.bbc.co.uk/news/uk-england-london-51342129"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-england-london-51342129"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-england-london-51342129"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -28,6 +24,6 @@ images:
     height: 576
     title: "Smart cities: How data and artificial intelligence could change London"
 
-secured: "q+qRjw+2ONnKhyEKudAaSD7eWpsvZdS7IY3ZU1XzOION/74LsZ+pjK6J8zV1fojem1VPmAt+9MhP7LYv41ZvgI8sjHIIzwl1rIQBI5eo4zy0QtEmcLwZsg8IalrzO802l2qkMzzIp5AIaPZ5Saxz6cQ8tnvETSr1chR37BWjfuZzZdI4tCLg9UOKS34alZ++DB16q4diTpzGuJETURy6xqDZV6dZvwJ/gwFHnPPJhvx4G0YHWQCW/FM8I4To0Z1ymUDyXbTpU/ynFwZkC8faQsEpr7D1jDtYCOrC+gANoJ4PQwMfv+T7xpkBXUQJZy5/;U5yCuslPQGUzCDudDcub+A=="
+secured: "tYw6GF2XMQ/fVV5RY7Yu8uzsA3WdUSP7yn4tpp66dkiyRABfpxqzJitQr5Y6QN/LO6+79/bQM7bH9jyEuZuBoqAZN++P2uVmKukbqT11zI4YqMocLoGPfMEyiFfEP3xuAb6uYkGxp0s2TINl7g2QykjxRvK14AKPzaQM8glYouPSvBf2yiNOhsUPS+EU7OBJNJ9dWcQevr5Vm7kUsBn7HRhnrbCcqZXfcaIIjz+bC+Ki3e5H4LQyjo7Oa/xLd1CaPc0zn/iczVwcWiSZVFdMlnI6ZQTUMyscXSAVTP0MO0Xl+7/GxCyJd8puE8GLbMZK;UEEW2Hl0hcI+MwqovNtU3A=="
 ---
 

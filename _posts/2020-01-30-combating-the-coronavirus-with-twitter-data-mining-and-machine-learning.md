@@ -65,6 +65,17 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/01/30/17/24093280-0-image-a-92_1580406667591.jpg"
         width: 636
         height: 382
+  - title: "China working on robot development for coronavirus testing"
+    excerpt: "according to Siasun Robot and Automation Co.Ltd. Based in Shenyang, capital of northeast China’s Liaoning Province, Siasun was founded in 2000 and listed on the Growth Enterprise Market in 2009. China has also called on the country’s artificial intelligence (AI) sector to lend their technological hands to help battle the epidemic."
+    publishedDateTime: 2020-02-05T17:47:00Z
+    webUrl: "https://tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
+    ampWebUrl: "https://tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2150894/3-china-working-robot-development-coronavirus-testing/"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 39
   - title: "How Darwin meets AI in a Scottish study doing battle with the superbugs"
     excerpt: "Antibiotic resistance is billed as the greatest global threat to humanity in the 21st century. Now, the battle against superbugs is being waged in Scottish computer laboratories, with ground-breaking experiments using artificial intelligence and the theories of Charles Darwin. The tests are tackling a menace that is exacting a high price in ..."
     publishedDateTime: 2020-02-01T11:01:00Z

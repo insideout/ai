@@ -29,6 +29,6 @@ images:
     height: 675
     title: "The growing robot workforce means we'll need a robot HR department, too"
 
-secured: "X383z9DaxCCsdDjO7SHvs0gGFkqrjCVNVU9Tqc69iagBQkXVtotXLx27AN8LzcQ+ACGiLWSdqxoGohX/YeXlufOE6/HlU6OIDTjdmx8M+fUM0u8ZFOzsSf9SUPAG1SurSqX5ezPwDe36VCEi7jXy1Jtt0zhSz48OjnjuobsI5ustDED+Y+JgoPfbRZUzC8/rOAboLDTRshNf76hqO/BxoftfhPlyC96sBEHqYnzif44bozGH/wRpqspWTtVhDgy9eYIkg/Hg6it3fxgChRvQ7ZkU4TszMlvTPHTLa7Nc28nDpZp76kalZxEoecIhnMm+;4+DqJrjckxX8QL/qqWyGYg=="
+secured: "RFdChcGZJnftb1woSDxHhpbBKB6IzSOiDf2UbKKKPYp91pVjnzplVqMY2MSoStSB2+HC7Q35lcIoOAtUmPsVXtfe5hySEsnkWWo8v4JrrQqzqKXIrJ0KCJDRpEmyqR2Y3MzQ3M/pV+NQ3zvIEA/PzLfAIV2ZkNHMblwNrMfuPKsEbTQ7I7N1slkdQ5MOZJehuah9doRPj5VZP4nYtSAAS2+7qTdE36ovmlLlHB4+kVKxs4oT5bf9Ig9SLay14mtXFWzaHMSdCJ0dysWCk/518MAkacucAEYD6yERP1flYzAZN6+bWKpQPYOay2fzcvd3EUayr6oZgPr5dyNK/i6/+6D+zGDakjsecWlw5e8lKsfLZrMD2kom7f+6EOU/8XsyjhV7iQYyYi9bi3WKrd9IkpHqrHIpnhDxXA0U4skwfi1BQS/Av7iUHpr3JFZVd18GHcbEC1bgo8tOOe5AyUTPWPb51cOiugXNgEleK3KCF0k=;XsSFpjk+fhO/2d9priagOA=="
 ---
 
