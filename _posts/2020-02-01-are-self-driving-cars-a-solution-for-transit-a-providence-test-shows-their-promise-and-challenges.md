@@ -76,19 +76,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 22
-  - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
-    excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
-    publishedDateTime: 2020-02-04T16:07:00Z
-    webUrl: "https://www.wtol.com/article/life/family-focus/report-calls-out-automakers-to-prioritize-kids-safety-in-self-driving-cars/512-fa0605c4-7852-48fe-89b7-e0266b839362"
-    type: article
-    provider:
-      name: WTOL
-      domain: wtol.com
-    quality: 22
-    images:
-      - url: "https://media.wtol.com/assets/WTOL/images/73fa9d4c-e350-45aa-8d4b-a9482434eacd/73fa9d4c-e350-45aa-8d4b-a9482434eacd_1140x641.jpg"
-        width: 1140
-        height: 641
   - title: "Safety and Security are Two Major Points of Focus for the Players of Global Self-Driving Car Market -Transparency Market Research"
     excerpt: "/PRNewswire/ -- There are several factors that are responsible for an exceptional growth of global self-driving car market says Transparency Market"
     publishedDateTime: 2020-02-06T13:00:00Z

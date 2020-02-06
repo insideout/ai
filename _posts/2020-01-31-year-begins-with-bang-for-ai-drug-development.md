@@ -160,19 +160,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/IBM-IC922.png"
         width: 1094
         height: 564
-  - title: "Report: Speed up drug development with artificial intelligence"
-    excerpt: "More and improved use of artificial intelligence, and an overhaul of medical education to include advances in machine learning, could cut down significantly the time it takes to develop and bring new drugs to market, according to a new joint report by the National Academy of Medicine and the Government Accountability Office. Before that can ..."
-    publishedDateTime: 2020-01-23T01:50:00Z
-    webUrl: "https://www.rollcall.com/news/policy/report-speed-drug-development-artificial-intelligence"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 39
-    images:
-      - url: "https://cdn.images2.rollcall.com/image/27cf5635a9671932facf9eaaf28bb860456d2c0d8fa9d892971ca7752284a2a3f694222a45edf4131ed6bf50844a038a/author/2020/01/SENATE_VOTE_003_06182019.jpg"
-        width: 1200
-        height: 627
   - title: "Zensar's Smart Application Development and Maintenance services incorporate Artificial Intelligence"
     excerpt: "Zensar, a leading digital solutions and technology services company that specializes in partnering with organizations across industries on their digital transformation journey, announced that its Smart Application Development and Maintenance (SmartADM) services now incorporate Robotics, Automation and Artificial Intelligence (AI). Sandeep ..."
     publishedDateTime: 2020-01-28T11:30:00Z

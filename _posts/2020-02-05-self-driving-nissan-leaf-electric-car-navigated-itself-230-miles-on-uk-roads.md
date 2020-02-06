@@ -37,6 +37,15 @@ related:
       name: TVNZ 1
       domain: tvnz.co.nz
     quality: 39
+  - title: "Nissan Leaf breaks UK record for longest self-driving car journey"
+    excerpt: "Autonomous model completes complex 230-mile trip from Bedfordshire to Sunderland"
+    publishedDateTime: 2020-02-05T13:00:00Z
+    webUrl: "https://www.theguardian.com/business/2020/feb/05/nissan-self-driving-car-leaf-longest-journey"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 4
 
 secured: "VWi3lv2DbTg2eEXTpNyjz7uN4qJL1b4nf398ylGeMi3zK8ukoRviJ9iEH+qh77X5X3xAIz5V0ZBHd9Lz5fx5UliGiwHGLkwVEZxv7a4xG8uVIX75fU8+F/ZNbs/Szx1sMyM3jp3AV9k+VuaiUe/1MBpWxzU4MNLP/kFLYE0BleOJQYCZ15cMHBHN72JZGRf9ccChJ33mRlmEGwoy2zk0FSNhO29o8EbfxtatpfgnEDjs2Aod2C+YemyXgkSktEjoT/kjS/5vCDt4oPY+7wop7j+PDRHVDhIKbnG4c99C5mNvcIw6LGe+j2VfCkOqJa+I+qmIsTp63tk6T29vqfyNn1Q5pDDNzQv1tu3Y+W51UyHsqnXOUgd79UCVJGzhH63UXUEo03s+YyKMkw3Mqg/VLBMhdXJ0Tiq9jkWmQFFxkVgniYOhnCUYiPBhJJkoYtLkkhNVVFj9BvV9UbK4xxYxpvTUyh8XnXv9cUd1Qt9lMSI=;MpKoifrGXvXVy33tNCgTNw=="
 ---

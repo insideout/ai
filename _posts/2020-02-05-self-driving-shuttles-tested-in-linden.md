@@ -26,6 +26,36 @@ images:
     title: "Self-driving shuttles tested in Linden"
 
 related:
+  - title: "Uber gets green light to test self-driving cars in California again"
+    excerpt: "Uber's self-driving could be allowed roads again in California. According to report Thursday from Reuters, the ride sharing company received a permit on Wednesday from the California Department of Motor Vehicles to test the autonomous vehicles with a backup driver. Uber did not immediately respond to request for comment, but told Reuters it ..."
+    publishedDateTime: 2020-02-06T17:01:00Z
+    webUrl: "https://www.cnet.com/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/P1TSwyMIOEev0pcnkl0Asmh3kTs=/756x567/2019/08/21/f4944c4f-9607-41a7-ac58-9daaa50231e8/uber-logo-1.jpg"
+        width: 756
+        height: 567
+  - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
+    excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
+    publishedDateTime: 2020-02-03T07:00:00Z
+    webUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/"
+    ampWebUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
+        width: 2400
+        height: 1600
   - title: "Uber can resume testing its self-driving cars in California"
     excerpt: "A newly issued permit has been granted nearly two years after a fatal crash in Arizona. Uber started scaling back its self-driving car tests after one of its vehicles hit and killed a pedestrian in March of 2018. While the company doesn't seem primed to unleash a fleet of autonomous cars, it has been granted a new permit to resume testing in ..."
     publishedDateTime: 2020-02-05T18:47:00Z
@@ -71,21 +101,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F41%252F6dbf2321169546b59f2824c00e412c3e.c5ea3.jpg%252F1200x630.jpg?signature=I_ow8ZLykAFPeh2pVmw8UK5sd68="
         width: 1200
         height: 630
-  - title: "Who Is Responsible In A Crash With A Self-Driving Car?"
-    excerpt: "It's not just the car manufacturers. It turns out that people take advantage of conservative self-driving cars to act more reckless."
-    publishedDateTime: 2020-02-06T17:06:00Z
-    webUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/"
-    ampWebUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale"
-        width: 711
-        height: 459
   - title: "Uber gets California DMV license to test self-driving cars on public roads"
     excerpt: "In May 2018, Uber announced it wouldn’t renew its permit to test self-driving vehicles in California, citing caution in the wake of a fatal accident involving one of its autonomous cars in Arizona. (The California Department of Motor Vehicles requires that companies apply to test autonomous cars in the state.) But in a bid to close the gap wi ..."
     publishedDateTime: 2020-02-05T17:00:00Z
@@ -116,19 +131,15 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/uber-White-Volvo-6-.jpg?w=1024"
         width: 1024
         height: 682
-  - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans"
-    excerpt: "The transportation narrative has shifted to self-driving. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead."
-    publishedDateTime: 2020-02-02T08:58:00Z
-    webUrl: "https://www.businessinsider.com/tesla-self-driving-tech-wall-street-getting-bored-waymo-cruise-2020-1"
+  - title: "Waymo workers complain about cuts to benefits and needles in self-driving cars"
+    excerpt: "The company recently announced it has racked up 20 million miles of autonomous driving on public roads. Waymo is widely considered to be the global leader in self-driving technology. Alphabet relies on an army of so-called “TVCs” To run the program, like its many other projects, Google parent company Alphabet relies on an army of so-called ..."
+    publishedDateTime: 2020-02-05T14:00:00Z
+    webUrl: "https://www.theverge.com/2020/2/5/21123049/waymo-self-driving-cars-workers-vendor-contracts-benefits-needles"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: The Verge
+      domain: theverge.com
     quality: 60
-    images:
-      - url: "https://i.insider.com/5e32d55a24306a7e802e8322?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "That California Story About A Daughter In The Backseat With A Sign Saying ‘Not My Mom’ Stirs Valuable Lessons For AI Self-Driving Cars"
     excerpt: "The phrase “Not My Mom” created quite a commotion the other day. Here’s the 411 about it. A recent news story indicated that a girl in the backseat of a moving car displayed a hand-scrawled sign that said “Not My Mom,"
     publishedDateTime: 2020-02-01T16:41:00Z
@@ -144,6 +155,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F626535545%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5594%26cropY1%3D275%26cropY2%3D3421"
         width: 1200
         height: 675
+  - title: "UPS testing self-driving minivans in Arizona"
+    excerpt: "ARIZONA (WSYR-TV) — UPS will start testing out self-driving minivans in the Phoenix area in the coming weeks. The tests will involve Chrysler minivans delivering packages from UPS stores to a sorting facility in Tempe, Arizona. Deliveries to customers’ doorsteps are not in the cards for now and during those tests, a driver will be on board ..."
+    publishedDateTime: 2020-01-30T17:37:00Z
+    webUrl: "https://www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/"
+    ampWebUrl: "https://www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/amp/"
+    cdnAmpWebUrl: "https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/amp/"
+    type: article
+    provider:
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 44
+    images:
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/upsvan.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "Uber gets DMV permit to test self-driving cars on California roads"
     excerpt: "The California Department of Motor Vehicles on Wednesday issued a permit to Uber that allows the company to test self-driving cars on public roads across the state. The permit issuance comes almost two years after a self-driving car that Uber was testing struck and killed a pedestrian in Tempe,"
     publishedDateTime: 2020-02-05T21:18:00Z
@@ -204,15 +230,56 @@ related:
       - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
         width: 600
         height: 360
-  - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans (TSLA)"
-    excerpt: "Tesla's business is now good. But it's an electric-car business, and the transportation-of-the-future narrative has shifted to self-driving cars. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead. Visit Business Insider's homepage for more stories. The year 2019 was a pivot in the story about the future ..."
-    publishedDateTime: 2020-02-02T13:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-self-driving-tech-wall-street-getting-bored-waymo-cruise-2020-1-1028865731"
+  - title: "Waymo Self-Driving Car in Manual Mode in Crash"
+    excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
+    publishedDateTime: 2020-02-03T17:40:00Z
+    webUrl: "https://www.fenderbender.com/articles/14449-waymo-self-driving-car-in-manual-mode-in-crash"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 39
+    images:
+      - url: "https://www.fenderbender.com/ext/resources/logos/10Missions_Logo_White.png"
+        width: 622
+        height: 318
+  - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
+    excerpt: "Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company’s plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Transportation Department believe specially ..."
+    publishedDateTime: 2020-02-06T17:19:00Z
+    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/grocery-delivery-robot-wins-first-federal-safety-approval-for-a-self-driving-vehicle/2020/02/06/90e97658-48f5-11ea-9164-d3154ad8a5cd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/grocery-delivery-robot-wins-first-federal-safety-approval-for-a-self-driving-vehicle/2020/02/06/90e97658-48f5-11ea-9164-d3154ad8a5cd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/grocery-delivery-robot-wins-first-federal-safety-approval-for-a-self-driving-vehicle/2020/02/06/90e97658-48f5-11ea-9164-d3154ad8a5cd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/resizer/ioZ0vfVxhHboPpFfI1sv9v84lqY=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNXLH6CJAUI6VELE2MKUVWFFZU.jpg"
+        width: 1440
+        height: 960
+  - title: "Uber Gets Permit to Restart Testing Its Self-Driving Cars in California"
+    excerpt: "(Reuters) - Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona."
+    publishedDateTime: 2020-02-05T20:13:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-02-05/uber-gets-permit-to-restart-testing-its-self-driving-cars-in-california"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
+  - title: "BGU developing system to stop self-driving cars being fooled"
+    excerpt: "In a concerning phenomena, researchers at Ben-Gurion University (BGU) Cyber Security Research Center have found that a phantom image projected on the road in front of a semi-autonomous vehicle can cause its autopilot to break suddenly. This could endanger the lives of drivers and passengers alike. In a statement released Tuesday by BGU, the ..."
+    publishedDateTime: 2020-02-04T13:36:00Z
+    webUrl: "https://www.jpost.com/Jpost-Tech/BGU-developing-system-to-stop-self-driving-cars-being-fooled-616492"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 24
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
+        width: 822
+        height: 537
   - title: "Uber’s Self-Driving Vehicles Get On-Road Permit For CA"
     excerpt: "Uber may soon be able to put its self-driving vehicles back on California roads after several years, with the issuance of a new permit, according to reports. The company had to scale back its autonomous vehicle program following an incident in Arizona where a pedestrian was killed by one of the vehicles. However, the permit — issued by the ..."
     publishedDateTime: 2020-02-06T07:13:00Z
@@ -224,41 +291,32 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 24
-  - title: "Self-driving car tackles unmarked country lanes in UK’s ‘longest autonomous journey’"
-    excerpt: "A Nissan Leaf with autonomous technology tackled complex situations far-removed from the simple grids and well-lit Californian streets frequently used for driverless car-testing, instead negotiating complex British road features in the UK’s ‘longest autonomous journey’. The car negotiated country lanes with no road markings, junctions ..."
-    publishedDateTime: 2020-02-05T12:46:00Z
-    webUrl: "https://www.imeche.org/news/news-article/self-driving-car-tackles-unmarked-country-lanes-in-uk-s-longest-autonomous-journey"
+  - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
+    excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
+    publishedDateTime: 2020-02-04T16:07:00Z
+    webUrl: "https://www.wtol.com/article/life/family-focus/report-calls-out-automakers-to-prioritize-kids-safety-in-self-driving-cars/512-fa0605c4-7852-48fe-89b7-e0266b839362"
     type: article
     provider:
-      name: Institution of Mechanical Engineers
-      domain: imeche.org
-    quality: 17
+      name: WTOL
+      domain: wtol.com
+    quality: 22
     images:
-      - url: "https://www.imeche.org/images/default-source/default-album/nissan-drive.jpg?sfvrsn=0&size=705"
-        width: 705
-        height: 396
-  - title: "U of T-Waterloo research data to put self-driving cars to ultimate test: Canadian winter"
-    excerpt: "A new dataset will enable engineers to test and refine new algorithms for self-driving cars that can overcome the perception challenges posed by snowy weather (Image courtesy Steven Waslander) Newly released data from a collaboration between the University of Toronto, the University of Waterloo and Scale AI will help train future self-driving ..."
-    publishedDateTime: 2020-02-03T21:51:00Z
-    webUrl: "https://www.utoronto.ca/news/u-t-waterloo-research-data-put-self-driving-cars-ultimate-test-canadian-winter"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 15
-    images:
-      - url: "https://www.utoronto.ca/sites/default/files/2019_02_27_0027_lidar_frame_90.jpg?162288"
+      - url: "https://media.wtol.com/assets/WTOL/images/73fa9d4c-e350-45aa-8d4b-a9482434eacd/73fa9d4c-e350-45aa-8d4b-a9482434eacd_1140x641.jpg"
         width: 1140
-        height: 760
-  - title: "Nissan Leaf breaks UK record for longest self-driving car journey"
-    excerpt: "Autonomous model completes complex 230-mile trip from Bedfordshire to Sunderland"
-    publishedDateTime: 2020-02-05T13:00:00Z
-    webUrl: "https://www.theguardian.com/business/2020/feb/05/nissan-self-driving-car-leaf-longest-journey"
+        height: 641
+  - title: "Challenge Up Ahead: Building a Morally Ethical Self-Driving Car: Viewpoint"
+    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
+    publishedDateTime: 2020-02-06T16:11:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/02/06/557620.htm"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 4
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 22
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2015/06/Ethics-Wrong-And-Right.jpg"
+        width: 900
+        height: 598
 
 secured: "AYdqBBGqKON43B1OLu0Tl2N/SwtMG2JwYCqWYeRqbAVI28dOLPbP7Yo0DBC6hrk1MmENTQSTfjCAX52pxujytqvzG2gUxvOJLEvYpFkj22NXdVn/Cgk2ea5x123+LENvWGbHKINzFne59REBKBuaCN3edz4u/BPw+7CLwSzjTMT2EcyAfJUoOfq3xFUO6goo2VP8TbCX44bXIzpmoeDz8Dj/n8JYUZl4733lVdClbCZI96d16++s0PmhtofHAJ3z6/tyMLu1sRDa1A37XD5UowGJwD/7l6Ld9bO4rHRdETI9oWC57flGpNjCsGUI230CVOTdyGT9Yuqn92McD2eTzMU4e+tsTELROQWIrFGAVzHE/v5r39W+Log7ht/9p397N55XJaz/eqnaeu5ia0ZUyCLBS8VHfdKtt8yLwg7sxgXmDYzB+ztwDRjvtAq9hUC0ljwbMcWI8fL+hfRUkq9XkPIuuIqYR35WBZLVcKlbCls=;jtwyYHWWhO7r1n+1gl2syg=="
 ---

@@ -29,6 +29,6 @@ images:
     height: 675
     title: "How machine learning is helping Credit Karma reintroduce itself to users"
 
-secured: "7Aw/qHJJmztPtu9Y862M6v5GXgphr7J6/2uspXqHH2ew5KVyB32XxYcNeDI4gJtvy3nvgiKeeI6mVhZJD8R1ZZvJxXSPCME0I8sYhCh1fGmNQgAHuyrEoYOLieXcgKWKpA6PGTGIHV9BIPCt+etPASyIokVGexYalyZH96vv8T5Ols9NyXmP0vor9vnK24vPZbQGJjcckmDIW/uBV+PV/gcP77tEUHxSXUVvp2Rr5hETeCaYcz6HvmqOjmu37YFewPGmagf87L98tofPdetOSsRKxjgtWPFQvv0gmtmh3TR5VcSN3OVTEvW33zxGoO2q;SuvxNjsi/xLGDnS2zvKZzA=="
+secured: "ObE7DtzBqqcl38j0D5/L9L725Fp+exTyeSl7KGPKpbZUXxDZ7SXTbgvDfLJ+szNkBQaRjyVPUwH4qiNTlAumH94gu5Z5D+bhxuVb0VJjxAYDMWcmfDNBAD3vehEsqdaYk5sfF2JE1rK/pboSFkcH7K8NF4WzTZ8elGF0tntBkesPI8w2DYReIZqOwGL0S7zvuqaQycFxXgIpg4177OFDYaZLD/HAs2LPFs9Ou2T1LuO0oz5iy66ZD6kN9j8FibLOaNY2U+JxHqcJuHbRHao6ihXlRkUevkQHFSfz4/nA7LTUxrakychcungGDZ88tZ0M;fwgPCGAzACq+08Wi6ydV+A=="
 ---
 

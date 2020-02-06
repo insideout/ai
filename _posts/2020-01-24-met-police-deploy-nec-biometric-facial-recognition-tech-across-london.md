@@ -684,19 +684,6 @@ related:
       - url: "https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-  - title: "Atlanta Police testing facial recognition technology"
-    excerpt: "ATLANTA — The Atlanta Police Department is one of the few law enforcement agencies in the country using the facial recognition software Clearview AI. Some experts say it's the most powerful facial recognition technology in the world. The company, Clearview, is described as highly secretive. The New York Times first reported the existence of ..."
-    publishedDateTime: 2020-01-23T02:38:00Z
-    webUrl: "https://www.11alive.com/article/tech/atlanta-police-facial-recognition/85-24f81a29-070e-4692-89df-31000b46c0e7"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 39
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/5ac990c0-fbc8-4295-aaa0-445419e30693/5ac990c0-fbc8-4295-aaa0-445419e30693_1140x641.jpg"
-        width: 1140
-        height: 641
   - title: "London Police Deploy Controversial Facial Recognition Cameras"
     excerpt: "Facial recognition technology is more widespread than ever — many people have phones in their pockets that use advanced sensors and algorithms to make sure no one else can access their data. However, law enforcement is also increasingly using facial recognition data to scan crowds for known criminals. The city of London is the latest to add ..."
     publishedDateTime: 2020-01-25T12:11:00Z

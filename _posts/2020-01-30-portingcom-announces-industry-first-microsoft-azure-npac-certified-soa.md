@@ -20,32 +20,36 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft Previews New App Reporting and Consent Tools in Azure AD"
-    excerpt: "In addition, the following Azure AD App Gallery apps now have support for automated user provisioning: Harness (a DevOps platform), Infor CloudSuite (ERP), iProva (AI), RingCentral (unified communications) and Templafy (business document templates). Azure AD supports integration with four app types, according to this Microsoft document."
-    publishedDateTime: 2020-01-27T22:03:00Z
-    webUrl: "https://redmondmag.com/articles/2020/01/27/microsoft-azure-ad-app-reporting.aspx?admgarea=BDNA"
+  - title: "Microsoft announces changes to Office.com and Office 365 app launcher"
+    excerpt: "The Recommended section displays the files which are most likely to their your attention using the power of AI. And the Discover section allows users to see the files ... Microsoft now offers controls in the Azure Active Directory portal that enable admins to pin up to three apps to Office.com and the app launcher. Any app added by an admin ..."
+    publishedDateTime: 2020-02-06T17:30:00Z
+    webUrl: "https://mspoweruser.com/microsoft-announces-changes-to-office-com-and-office-365-app-launcher/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-announces-changes-to-office-com-and-office-365-app-launcher/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-announces-changes-to-office-com-and-office-365-app-launcher/amp/"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 59
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/131113MackieMAP.jpg"
-        width: 647
-        height: 450
-  - title: "Microsoft Ignite The Tour 2020: ASC is Presenting ASC Recording Insights for Compliance Recording and Analytics in Microsoft Teams"
-    excerpt: "ASC Recording Insights offers Microsoft Teams users a comprehensive tool for legally compliant recording and archiving as well as for the evaluation of all conversations within Teams. Conversations include audio and video calls, chats, meetings, and additional data. Speech Services, a component of Azure Cognitive Services, transcribe audio ..."
-    publishedDateTime: 2020-01-23T15:30:00Z
-    webUrl: "https://www.realwire.com/releases/Microsoft-Ignite-The-Tour-2020-ASC-is-Presenting-ASC-Recording-Insights"
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/02/Office.com-experience.jpg"
+        width: 1026
+        height: 564
+  - title: "Realme announces launch of realme C3; prices start at ₹6,999"
+    excerpt: "The phone supports 1080p video shooting and slow-motion videos at 120 fps. On the front, the C3 has a 5MP selfie camera with features such as AI beautification function, HDR mode, portrait mode and a Panoselfie feature. The body has an optical texture ..."
+    publishedDateTime: 2020-02-06T09:59:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/mobiles-tablets/realme-announces-launch-of-realme-c3-prices-start-at6999/article30750424.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/mobiles-tablets/realme-announces-launch-of-realme-c3-prices-start-at6999/article30750424.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/mobiles-tablets/realme-announces-launch-of-realme-c3-prices-start-at6999/article30750424.ece/amp/"
     type: article
     provider:
-      name: realwire.com
-      domain: realwire.com
-    quality: 9
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 42
     images:
-      - url: "https://www.realwire.com/twitter_writeitfiles/ASC_Ignite_Overview_neu.jpg"
-        width: 600
-        height: 334
+      - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
 
 secured: "ZOWpb6kvmc9jQbBX1gmGiX9wfZ+BItWlR0YQR+hqPNDUhSQt9PWpmiWAFzHc6Fklts5qbNG70JY6ibMT4aS3Nnp53F5GsaN1U64RM8C7vaaU2Dbq7lCyw5apadQ/kSdB8JymdwhKrmLsE3aU9l3v5Qp1CXIfFoGOYwBueWH+GdzTnyG6tuJqVpk0mgdzVTexpdX4NOb8EefC7iuelio0GOX/VdFoYw7Q3wk1R4QTw68EoMewatvX8RfbLApyH5oIs83x0RgfRvpE356HrJQvIYLpjlWK1zkD2YFEQ8YKyKjsOesQ17uv5wf4JxQW6Rad;Ni0zlzi0KiRCIKnlmXCwyA=="
 ---

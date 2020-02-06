@@ -41,15 +41,6 @@ related:
       - url: "https://i.insider.com/5e3b13600ce3d1277b0b323b?width=1200&format=jpeg"
         width: 800
         height: 400
-  - title: "Waymo workers complain about cuts to benefits and needles in self-driving cars"
-    excerpt: "The company recently announced it has racked up 20 million miles of autonomous driving on public roads. Waymo is widely considered to be the global leader in self-driving technology. Alphabet relies on an army of so-called “TVCs” To run the program, like its many other projects, Google parent company Alphabet relies on an army of so-called ..."
-    publishedDateTime: 2020-02-05T14:00:00Z
-    webUrl: "https://www.theverge.com/2020/2/5/21123049/waymo-self-driving-cars-workers-vendor-contracts-benefits-needles"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 60
   - title: "Dubai prepares to roll out self-driving vehicles"
     excerpt: "Over the last few years we’ve seen plenty of progress being made with autonomous cars, self-driving vehicles and even pilotless air taxis. Now, Dubai’s RTA has taken another step towards getting the initiative off the ground. As we move another step closer, the Roads and Transport Authority (RTA) has revealed a new set of rules over ..."
     publishedDateTime: 2020-02-04T12:16:00Z
@@ -65,15 +56,6 @@ related:
       - url: "https://www.timeoutdubai.com/public/images/2020/02/04/self-driving-vehicles.jpg"
         width: 750
         height: 500
-  - title: "Uber gets permit to restart testing its self-driving cars in California"
-    excerpt: "Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona. The California Department of Motor Vehicles issued a permit on Wednesday to the company’s self-driving unit,"
-    publishedDateTime: 2020-02-05T19:31:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZZ2QG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 34
   - title: "Uber is trying to bring its self-driving vehicles to the District"
     excerpt: "This month, Uber announced plans to bring its self-driving vehicles to D.C. The transportation company began collecting data in the District on Jan. 24 to do so. Exciting times ahead in Washington, DC where we'll officially kick-off manual data collection with three self-driving vehicles, starting tomorrow (weather permitting)! Learn more about ..."
     publishedDateTime: 2020-01-30T18:08:00Z

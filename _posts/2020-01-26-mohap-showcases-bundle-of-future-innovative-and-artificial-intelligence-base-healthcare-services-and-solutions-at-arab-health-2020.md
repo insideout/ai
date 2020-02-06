@@ -26,21 +26,19 @@ images:
     title: "MoHAP showcases bundle of future, innovative and artificial intelligence-base healthcare services and solutions at Arab Health 2020"
 
 related:
-  - title: "Babylon Health is building an integrated, AI-based health app to serve a city of 300K in England"
-    excerpt: "After announcing a $550 million fundraise last August, U.K. AI-based health services startup Babylon Health is putting some of that money to use with its widest-ranging project to date. The company has inked a 10-year deal with the city of Wolverhampton in England to provide an integrated health app covering 300,000 people, the entire ..."
-    publishedDateTime: 2020-01-23T02:24:00Z
-    webUrl: "https://techcrunch.com/2020/01/22/babylon-health-is-building-an-integrated-ai-based-health-app-to-serve-a-city-of-300k-in-england/"
-    ampWebUrl: "https://techcrunch.com/2020/01/22/babylon-health-is-building-an-integrated-ai-based-health-app-to-serve-a-city-of-300k-in-england/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/babylon-health-is-building-an-integrated-ai-based-health-app-to-serve-a-city-of-300k-in-england/amp/"
+  - title: "Case Study: Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2020-2025"
+    excerpt: "HTF MI presents an in-depth overview of the Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Study, detailing the latest product / industry coverage and market forecasts,"
+    publishedDateTime: 2020-01-29T13:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/case-study-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-2025-2020-01-29"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-187137135.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "AQKoMZryXRIZZIm6SZAK5TQEQ/mClAOA/hr/4CiPE6d+VscuzE+pM9j4vWl1GYQIMdh9WQe6kdOQHf1n9fYqVCxJ//QVqZrCI5UL9YTWg5LRlpgYjP0wYh8/3NHSqm3gGslW75On06jNbz1/xhnuC5GYSsuK/RLMNcsu7KHCUZ36ZkMhdV7xLmV2fWnBRxhgnofhglLXThTlk9VlM/BVdufOUEhA1280g0FIglKzg9uO/57XC/r8sjHPdX63dlZTqkuC3ArQCT/hyo1JgMp4Pq8tiG9km7BsR72yDyDPi8vMqKkKs6RCevHkkA+mxNqYLOYe8q3TbcQEDymn4x4p5qsqGcUJofIIMmCe46s60I3dg4XqO1HrFBOGIAX/PGIAwQ3l/Bh7a5YjaQIitKSfCuFTm7blN96Bny1w7lQUwD95T8MGm0tGtwRSSaRmAiCbueXvuUdOvjjM4028YlIv22j+X745sTGSMrY8Cprm8nA=;ISHzUOX2leXhXOuO7GPfug=="
 ---

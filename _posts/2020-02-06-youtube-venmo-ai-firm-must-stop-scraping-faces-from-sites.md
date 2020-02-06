@@ -86,6 +86,19 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 30
+  - title: "Facebook and Google Demand Startup Stop Scraping Photos for Face DB"
+    excerpt: "Facebook and Google have both sent cease-and-desist letters to Clearview AI demanding that the facial recognition startup stop scraping photos and videos to build up its face database. Clearview AI develops software that matches people’s portrait photos to their online photos with 99.6% accuracy, and the powerful tool is reportedly being used ..."
+    publishedDateTime: 2020-02-06T18:06:00Z
+    webUrl: "https://petapixel.com/2020/02/06/facebook-and-google-demand-startup-stop-scraping-photos-for-face-db/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 22
+    images:
+      - url: "https://petapixel.com/assets/uploads/2020/02/cuttingedgetech.jpg"
+        width: 1600
+        height: 840
 
 secured: "hDZht50m0q1XYWeuvG1eefBH+RjkKwF6Ncvm60TdZCWc2ppgYHraeQirxEPLsCEABvHJUr/dPcjZztMl+0TepvjirJIi4DGexGOvoCGVYGoRMHTSVDJmWuqwRCjrgofRYWUI8TVDkRgQ9PiLD1qZVsL48iqefvvmlMRXa17ZTNy1tRbD4MSDsNbrbFHUKn2gJzcdP91z2THOgng4vygsrbdaqNeFxyz+NBSW+ocIE1Xjm7PkiquSJdIjT5NvEXdLuE4hOpTlC8bIW9ESCQynOJXru4PItqbRiX3Njguk5v2UOdyknALtRxHP9r5KSJ41QYe8UHPZAIVyS4v3kNFXAT240sjIA9czv4vywsUBi/oMa9Xti/QDNL3WOFJoHeU0C6FW3hTWz+y5hEn/Ht4YHg6STiITAoveUs4vvegTATwcLUAax5Vo0n8b/w8GVPDNMRO0BqV3cmqNeILqmX3nuw9HZv6SnQxQTWQFNzsT1/s=;01HCqreDTuvVdk5SUuCidA=="
 ---

@@ -34,19 +34,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
-  - title: "Google CEO vows respect for privacy as data giant develops AI for medical use"
-    excerpt: "Sundar Pichai, the CEO of Alphabet and its Google subsidiary, said yesterday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence (AI) to improve outcomes. He vowed that the technology giant will ..."
-    publishedDateTime: 2020-01-23T02:46:00Z
-    webUrl: "https://www.independent.ie/business/technology/news/google-ceo-vows-respect-for-privacy-as-data-giant-develops-ai-for-medical-use-38886750.html?token=208054049"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 36
-    images:
-      - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
-        width: 531
-        height: 342
 
 secured: "02iJlbMm8J/mE7nddEw1FHcfQCtCtMEDpBfQG6SQZj6tda7hGtNbUc3H7TEwQdiBbGIg0ef0e4fH8+zVkBesRhCXgToJDqMx3OxK3B7F7nC0w/bVAzSlDeoTgY5DuH+xGJGhHavPa8tYwt1sfJfPHfrbHbXwxYcPFFp/wjpDI/CNyOJL82k/7QqjBV790h79K4xhPKsrB6yLiWmK8dlwcATb1Okn7E7VJJPqPpHDVGCAhTrg3WKyX1gidE5MpN2btZMuskUY+SORamyaaULJzH4dzw5UOryHD4qrqfUc4woSqMAPuAR/AheLC3zh43nl;nhVILzetuYMpyvj3uBcU+A=="
 ---

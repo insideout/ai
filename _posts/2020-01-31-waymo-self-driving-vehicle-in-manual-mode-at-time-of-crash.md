@@ -100,34 +100,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "UPS testing self-driving minivans in Arizona"
-    excerpt: "ARIZONA (WSYR-TV) — UPS will start testing out self-driving minivans in the Phoenix area in the coming weeks. The tests will involve Chrysler minivans delivering packages from UPS stores to a sorting facility in Tempe, Arizona. Deliveries to customers’ doorsteps are not in the cards for now and during those tests, a driver will be on board ..."
-    publishedDateTime: 2020-01-30T17:37:00Z
-    webUrl: "https://www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/"
-    ampWebUrl: "https://www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/amp/"
-    cdnAmpWebUrl: "https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/amp/"
-    type: article
-    provider:
-      name: LocalSYR
-      domain: localsyr.com
-    quality: 44
-    images:
-      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/upsvan.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
-  - title: "Waymo Self-Driving Car in Manual Mode in Crash"
-    excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
-    publishedDateTime: 2020-02-03T17:40:00Z
-    webUrl: "https://www.fenderbender.com/articles/14449-waymo-self-driving-car-in-manual-mode-in-crash"
-    type: article
-    provider:
-      name: FenderBender
-      domain: fenderbender.com
-    quality: 39
-    images:
-      - url: "https://www.fenderbender.com/ext/resources/logos/10Missions_Logo_White.png"
-        width: 622
-        height: 318
   - title: "Waymo: Self-Driving Vehicle That Crashed in Arizona in Manual Mode, Wamo says"
     excerpt: "A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb caused by a sedan’s reckless driving, the company said Friday. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved” in front of the Waymo vehicle, “braking aggressively and abruptly slowing ..."
     publishedDateTime: 2020-02-03T16:17:00Z

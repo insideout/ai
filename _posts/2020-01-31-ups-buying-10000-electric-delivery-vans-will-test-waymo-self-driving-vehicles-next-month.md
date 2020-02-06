@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-31T11:52:00Z
 webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -28,32 +28,73 @@ images:
     title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
 
 related:
-  - title: "UPS and Waymo partner on self-driving parcel pickup"
-    excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
-    publishedDateTime: 2020-01-30T17:34:00Z
-    webUrl: "https://www.retaildive.com/news/ups-waymo-self-driving-parcel-pickup/571415/"
+  - title: "Nuro R2 self-driving delivery pod hits US autonomous vehicle milestone"
+    excerpt: "US regulators have granted the first self-driving vehicle exemption, allowing the Nuro R2 to drive autonomously on public streets, though don’t expect to catch a ride in one yourself. The R2 is SoftBank Group-backed Nuro’s driverless delivery vehicle, which the startup hopes will give grocery stores, restaurants, and other retailers a human ..."
+    publishedDateTime: 2020-02-06T15:47:00Z
+    webUrl: "https://www.slashgear.com/nuro-r2-self-driving-delivery-pod-hits-us-autonomous-vehicle-milestone-06608901/"
+    ampWebUrl: "https://www.slashgear.com/nuro-r2-self-driving-delivery-pod-hits-us-autonomous-vehicle-milestone-06608901/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nuro-r2-self-driving-delivery-pod-hits-us-autonomous-vehicle-milestone-06608901/amp/"
     type: article
     provider:
-      name: Retail Dive
-      domain: retaildive.com
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
+    images:
+      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/nuro-r2-1.jpeg"
+        width: 1680
+        height: 1120
+  - title: "Feds approve self-driving vehicle minus rear and side mirrors"
+    excerpt: "Image by John Howard from Pixabay. DETROIT (AP) – The U.S. highway safety agency for the first time has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards for human-driven cars and trucks. The National Highway Traffic Safety Administration says it granted temporary approval for Silicon ..."
+    publishedDateTime: 2020-02-06T16:04:00Z
+    webUrl: "https://www.wkbn.com/news/national-world/feds-approve-self-driving-vehicle-minus-rear-and-side-mirrors/"
+    ampWebUrl: "https://www.wkbn.com/news/national-world/feds-approve-self-driving-vehicle-minus-rear-and-side-mirrors/amp/"
+    cdnAmpWebUrl: "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/feds-approve-self-driving-vehicle-minus-rear-and-side-mirrors/amp/"
+    type: article
+    provider:
+      name: WKBN
+      domain: wkbn.com
+    quality: 44
+    images:
+      - url: "https://www.wkbn.com/wp-content/uploads/sites/48/2020/02/highway.jpg?w=960&h=540&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
+  - title: "First Self-Driving Vehicle with Federal Exemption Is Nuro Delivery Pod"
+    excerpt: "The Nuro R2 is a self-driving delivery vehicle that will transport goods instead of passengers. The vehicle will begin testing on public roads in Houston in the coming weeks. The exemption from NHTSA and the DOT means the vehicle doesn't need a windshield or side mirrors. Autonomous vehicles are more than just robotaxis and long-haul trucking ..."
+    publishedDateTime: 2020-02-06T18:06:00Z
+    webUrl: "https://www.caranddriver.com/news/a30793888/self-driving-nuro-r2-federal-exemption/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp30793888/self-driving-nuro-r2-federal-exemption/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30793888/self-driving-nuro-r2-federal-exemption/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 44
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nuro-r2-1581004051.jpeg?crop=1.00xw:0.754xh;0,0.238xh&resize=1200:*"
+        width: 1200
+        height: 603
+  - title: "Gainesville Set To Run Self-Driving Vehicles On Its Public Roads"
+    excerpt: "That self-driving vehicle and two others, now undergoing test runs, are expected to become available as a new form of public transportation in Gainesville by the end of the year, according to Thomas Idoyaga, a spokesman for the city’s Office of Mobility. The EasyMile shuttles, developed in Europe, are 13 feet long, 10 feet high and 6 1/2 feet ..."
+    publishedDateTime: 2020-01-31T21:48:00Z
+    webUrl: "https://www.wuft.org/news/2020/01/30/gainesville-set-to-become-first-u-s-city-with-self-driving-buses-on-public-roads/"
+    type: article
+    provider:
+      name: WUFT
+      domain: wuft.org
     quality: 39
     images:
-      - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
-        width: 770
-        height: 364
-  - title: "University of Tartu and Bolt presented self-driving vehicles lab’s test car"
-    excerpt: "On 28 January the University of Tartu and Bolt presented the test car procured for the University of Tartu’s self-driving vehicles lab. This high-technology vehicle will be used for experiments in several research and development fields. The aim is to conduct test runs in urban traffic this year already. According to Anne Jääger ..."
-    publishedDateTime: 2020-01-29T13:10:00Z
-    webUrl: "https://www.baltictimes.com/university_of_tartu_and_bolt_presented_self-driving_vehicles_lab_s_test_car/"
+      - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
+        width: 1200
+        height: 782
+  - title: "Patchwork of self-driving laws limiting autonomous truck innovations"
+    excerpt: "Self-driving trucks could change how freight moves across the United States. But with a slow-moving federal government and a patchwork of local laws regulating autonomous truck testing, that future is far from seamless, according to a recent study by the American Transportation Research Institute (ATRI). The government rules created to support ..."
+    publishedDateTime: 2020-02-03T13:55:00Z
+    webUrl: "https://www.fleetowner.com/technology/article/21121622/us-patchwork-of-selfdriving-laws-is-limiting-autonomous-truck-innovations"
     type: article
     provider:
-      name: The Baltic Times
-      domain: baltictimes.com
-    quality: 22
-    images:
-      - url: "https://media.baltictimes.com/media/photos/147244_6396144185e3182f4b69e1_big.jpg"
-        width: 855
-        height: 535
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 4
 
 secured: "ScRK4OqYEx01hsuMKkJygF/TIMLbZyxdjHEnW8Nq8frhvGysYFnktEF1HDJqlRiHjMJcqB7PuoV/wqWKr4bshLTjtWn6xFBV4m//2KcRffPIL3NRWafS9J/i3GSrQcBvC/kbdx2K8jby1wS3Dug3OUKbCQe2Q4uJlto8T3ziLHfF7WOQ1deIe818MKyigzFcsnP9ty1vvwFKmu5YobMN6nOAtV/mIazw4huPGEBae0uIca2WkfTb3r97uEDKkpRyUi1wlGarKbWBXAg1pSuTbsPd528EMg03cHou1jfQW03pOVa/1c8kZ6VSKf7SI5TO;Y/D8M3DlOvqvmPAcPaYfeA=="
 ---

@@ -25,15 +25,21 @@ images:
     title: "Facebook Has Sent Facial Recognition Startup 'Clearview AI' Cease And Desist Letters"
 
 related:
-  - title: "Google and YouTube send cease-and-desist letter to facial recognition app that helps law enforcement"
-    excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, a facial recognition app that scraps images from the websites and social media platforms, CBS News has learned. The tech companies join Twitter, which sent a similar letter in January, in trying to block the app from taking pictures from their platforms. The app is only ..."
-    publishedDateTime: 2020-02-05T11:25:00Z
-    webUrl: "https://www.cbsnews.com/news/clearview-ai-google-youtube-send-cease-and-desist-letter-to-facial-recognition-app/"
+  - title: "Is Clearview AI’s facial recognition legal? We need to figure it out soon"
+    excerpt: "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information."
+    publishedDateTime: 2020-02-06T10:00:00Z
+    webUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/"
+    ampWebUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 104
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 105
+    images:
+      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
   - title: "YouTube demands Clearview AI stop scraping its videos for facial recognition database"
     excerpt: "YouTube has sent a cease and desist letter to Clearview AI demanding that the controversial facial recognition startup stop scraping YouTube videos to gather faces for its database and delete any images it’s already collected. The demand, first reported by CBS News, says that YouTube forbids anyone from collecting data from its platform that ..."
     publishedDateTime: 2020-02-05T16:45:00Z
@@ -79,6 +85,34 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/17/campaign_images/buzzfeed-prod-web-06/these-senators-want-homeland-security-to-pause-it-2-2613-1552427904-0_dblbig.jpg"
         width: 625
         height: 415
+  - title: "Facial recognition company CEO says he doesn’t need permission to use your face"
+    excerpt: "The CEO of facial recognition company Clearview AI, Hoan Ton-That, today gave his first network television interview on “CBS This Morning.” During the brief conversation Ton-That told news-anchor Errol Burnett that he believed he had a First Amendment right to access, scrape, and store billions of files containing images of people’s faces."
+    publishedDateTime: 2020-02-05T22:25:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/05/facial-recognition-company-ceo-says-he-doesnt-need-permission-to-use-your-face/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/05/facial-recognition-company-ceo-says-he-doesnt-need-permission-to-use-your-face/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/05/facial-recognition-company-ceo-says-he-doesnt-need-permission-to-use-your-face/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 85
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/07/surveil-796x399.jpg"
+        width: 796
+        height: 399
+  - title: "Podcast: Why Clearview AI's facial recognition is a privacy nightmare"
+    excerpt: "And we also chat about the DIY nature of Billy Eilish's Grammy wins. All of our fears around facial recognition technology are coming true thanks to a little known startup called ClearView AI. This week, Devindra and Cherlynn dive into how ClearView works, and what unchecked access to powerful facial recognition means for the future of privacy."
+    publishedDateTime: 2020-01-31T12:30:00Z
+    webUrl: "https://www.engadget.com/2020/01/31/podcast-clearview-ai-billie-eilish/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 84
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C719%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C719%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-10%252F9251a820-f130-11e9-9df5-19d3f012f517%26client%3Da1acac3e1b3290917d92%26signature%3D569bb91dab0b6654f0fc0287924bc32aa29d22ba&client=amp-blogside-v2&signature=29c7441da69c3b0234a720e23f0815964826b843"
+        width: 1200
+        height: 630
   - title: "Facebook has sent a cease-and-desist letter to facial recognition startup Clearview AI for scraping billions of photos"
     excerpt: "Facebook has demanded that Clearview stop accessing or using information from its platforms after it scraped billions of images without permission."
     publishedDateTime: 2020-02-06T17:10:00Z
@@ -94,21 +128,36 @@ related:
       - url: "https://i.insider.com/5e3bff71d9db1d368665e4b5?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Lawsuit filed against facial recognition company CPD works with"
-    excerpt: "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ..."
-    publishedDateTime: 2020-02-04T00:24:00Z
-    webUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/"
-    ampWebUrl: "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
-    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/"
+  - title: "Massachusetts Communities Remain Leery of Facial Recognition"
+    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-03T21:46:00Z
+    webUrl: "https://www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Massachusetts-Communities-Remain-Leery-of-Facial-Recognition.html?AMP"
     type: article
     provider:
-      name: WGN-TV
-      domain: wgntv.com
+      name: Government Technology
+      domain: govtech.com
     quality: 74
     images:
-      - url: "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
+        width: 1119
+        height: 630
+  - title: "This company scraped social media to feed its AI facial recognition tool. Is that legal?"
+    excerpt: "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ..."
+    publishedDateTime: 2020-02-03T21:39:00Z
+    webUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview"
+    ampWebUrl: "https://bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
+    cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/technology-innovation/facial-recognition-clearview.amp.html"
+    type: article
+    provider:
+      name: Big Think
+      domain: bigthink.com
+    quality: 65
+    images:
+      - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600"
+        width: 1440
+        height: 810
   - title: "Google, YouTube and Twitter send cease and desist order to facial recognition app Clearview AI"
     excerpt: "Google, YouTube and Twitter have all sent cease and desist orders to controversial facial recognition app Clearview AI in an effort to stop it taking images to help with police investigations. The tech company's tools allow law enforcement officials to upload a photo of an unknown person they would like to identify, and see a list of ..."
     publishedDateTime: 2020-02-05T17:34:00Z
@@ -133,6 +182,21 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 61
+  - title: "Volusia Sheriff’s Office adds facial recognition technology"
+    excerpt: "DAYTONA BEACH — The Volusia County Sheriff’s Office has begun using controversial facial recognition technology that some privacy experts say can intrude on personal privacy. But Sheriff Mike Chitwood said in an interview on Monday that the department is putting in safeguards to protect privacy as it tries out Clearview AI. The company ..."
+    publishedDateTime: 2020-02-03T17:59:00Z
+    webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology"
+    ampWebUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
+    cdnAmpWebUrl: "https://www-news--journalonline-com.cdn.ampproject.org/c/s/www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
+    type: article
+    provider:
+      name: The Daytona Beach News-Journal
+      domain: news-journalonline.com
+    quality: 59
+    images:
+      - url: "https://www.news-journalonline.com/storyimage/LK/20200203/NEWS/200209522/EP/1/1/EP-200209522.jpg?MaxW=600&MaxH=600"
+        width: 361
+        height: 483
   - title: "Clearview AI hit with cease-and-desist from Google over facial recognition collection"
     excerpt: "Google and YouTube have sent a cease-and-desist letter to Clearview AI, the facial recognition company that has been scraping billions of photos off the internet and using it to help more than 600 police departments identify people within seconds. That follows a similar action by Twitter, which sent Clearview AI a cease-and-desist letter for ..."
     publishedDateTime: 2020-02-05T13:40:00Z
@@ -142,66 +206,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 57
-  - title: "Facial recognition tech used by Volusia deputies criticized for ‘scraping’"
-    excerpt: "VOLUSIA COUNTY, Fla. – The company behind a facial recognition tool used by the Volusia County Sheriff's Office is coming under fire after some large tech companies said the tool is violating their terms of use. According to CBS News, Clearview AI received cease and desist letters late Tuesday from Google and YouTube. The letters surrounded ..."
-    publishedDateTime: 2020-02-05T17:43:00Z
-    webUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/"
-    ampWebUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
-    type: article
-    provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 57
-    images:
-      - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
-        width: 1280
-        height: 720
-  - title: "YouTube, Venmo demand AI firm stop taking facial data from sites"
-    excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
-    publishedDateTime: 2020-02-05T23:47:00Z
-    webUrl: "https://www.pbs.org/newshour/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites?ref=hvper.com"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 57
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/09/2019-09-04T134827Z_154642363_RC1C71B03BD0_RTRMADP_3_GOOGLE-FTC-1024x660.jpg"
-        width: 1024
-        height: 660
-  - title: "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites"
-    excerpt: "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ..."
-    publishedDateTime: 2020-02-06T02:09:00Z
-    webUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/"
-    ampWebUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
-    cdnAmpWebUrl: "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 57
-    images:
-      - url: "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452"
-        width: 800
-        height: 452
-  - title: "YouTube tells controversial facial recognition company to stop collecting its user data"
-    excerpt: "YouTube on Wednesday sent a cease and desist letter to Clearview AI demanding that the controversial company stop collecting faces from its videos and delete any data it has collected already."
-    publishedDateTime: 2020-02-05T22:16:00Z
-    webUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting"
-    ampWebUrl: "https://thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481718-youtube-tells-controversial-facial-recognition-company-to-stop-collecting?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 51
-    images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg"
-        width: 980
-        height: 551
   - title: "Google and YouTube want Clearview AI to stop scraping images and video for facial recognition database"
     excerpt: "Facebook told CBS News that it, too, is reviewing the company's controversial practices, but so far hasn't made any decision on what to do about it. The social giant is on thin ice when it comes to facial recognition, after being brought to court for silently doing it in the background using photos uploaded by its users."
     publishedDateTime: 2020-02-06T11:51:00Z
@@ -211,82 +215,58 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 48
-  - title: "Facial recognition coming to Europe, but terms and conditions applied"
-    excerpt: "Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next month."
-    publishedDateTime: 2020-02-02T11:57:00Z
-    webUrl: "https://www.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK_amp.html"
+  - title: "Facial recognition in civic polls yield good result"
+    excerpt: "The Telangana State Election Commission has come out with the results of the “Facial Recognition” trials it conducted during the recently held civic body elections. According to the data released, the tests have yielded an accuracy of 80 per cent meaning that eight in every 10 people were correctly recognised by the application used on a ..."
+    publishedDateTime: 2020-02-04T13:23:00Z
+    webUrl: "https://www.tribuneindia.com/news/facial-recognition-in-civic-polls-yield-good-result-35824"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
-  - title: "YouTube demands face recognition firm stop harvesting videos"
-    excerpt: "NEW YORK — YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny ..."
-    publishedDateTime: 2020-02-05T19:53:00Z
-    webUrl: "https://www.pressherald.com/2020/02/05/youtube-demands-face-recognition-firm-stop-harvesting-videos/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
+      name: The Tribune
+      domain: tribuneindia.com
     quality: 39
     images:
-      - url: "https://i1.wp.com/multifiles.pressherald.com/uploads/sites/10/2020/02/Clearview-YouTube-Facial_Recognition_21500.jpg?fit=1000%2C667&#038;ssl=1"
-        width: 1000
-        height: 667
-  - title: "YouTube: Face recognition firm must stop harvesting videos"
-    excerpt: "NEW YORK -- YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following ..."
-    publishedDateTime: 2020-02-05T19:49:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/youtube-face-recognition-firm-stop-harvesting-videos-68781106"
+      - url: "https://cms.tribuneindia.com/gallary_content/2020/2/2020_2$largeimg_1960177639.jpg"
+        width: 660
+        height: 440
+  - title: "Banks allowed to use facial recognition"
+    excerpt: "The Bank of Thailand has allowed six commercial banks to offer facial recognition for electronic Know Your Customer (e-KYC) technology to verify the identity of new customers under the regulatory sandbox when opening online deposit accounts. The six banks are Kasikornbank, Bangkok Bank, Siam Commercial Bank, Bank of Ayudhya, TMB Bank and CIMB ..."
+    publishedDateTime: 2020-02-06T10:46:00Z
+    webUrl: "https://www.bangkokpost.com/business/1851949/banks-allowed-to-use-facial-recognition"
     type: article
     provider:
-      name: ABC
-      domain: go.com
+      name: Bangkok Post
+      domain: bangkokpost.com
     quality: 39
     images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
-        width: 992
-        height: 558
-  - title: "Facial Recognition app could be a threat to privacy"
-    excerpt: "U.S. — A facial recognition software used by more than 600 law enforcement agencies across the country is proving to be controversial and a threat to privacy. The Clearview app can take a person’s photograph and potentially match it using a database of billions of pictures taken from the internet including social media sites. “Right now ..."
-    publishedDateTime: 2020-02-06T06:49:00Z
-    webUrl: "https://www.actionnewsjax.com/news/local/duval-county/facial-recognition-app-could-be-threat-privacy/JLJMHU55TZDTBI5VD27GWSDKOA/"
+      - url: "https://static.bangkokpost.com/media/content/20200206/c1_1851949_200206161720_700.jpg"
+        width: 700
+        height: 467
+  - title: "DHS to be grilled on facial recognition"
+    excerpt: "Another) facial recognition hearing: House lawmakers will press the Department of Homeland Security on its use of facial surveillance as the technology remains under fire on the federal level and has been banned in several cities. — The moment telecom’s been waiting for: FCC Chairman Ajit Pai will unveil his C-Band auction plan for 5G today ..."
+    publishedDateTime: 2020-02-06T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/02/06/dhs-to-be-grilled-on-facial-recognition-785115"
     type: article
     provider:
-      name: Action News Jax
-      domain: actionnewsjax.com
+      name: Politico
+      domain: politico.com
     quality: 39
     images:
-      - url: "https://d1hfln2sfez66z.cloudfront.net/02-06-2020/t_6b8a407e593d4132b60e39783d84274f_name_328EAE6F609D4EC69F4DE76964CD220E.jpg"
-        width: 1280
-        height: 720
-  - title: "YouTube: Face recognition firm must stop harvesting videos"
-    excerpt: "YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI."
-    publishedDateTime: 2020-02-06T03:38:00Z
-    webUrl: "https://www.sfgate.com/business/technology/article/YouTube-Face-recognition-firm-must-stop-15032752.php"
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+  - title: "Facial recognition company CEO speaks out"
+    excerpt: "Watch \"CEO of controversial facial recognition company speaks out about privacy concerns\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-02-06T17:07:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200206152942-ceo-of-controversial-facial-recognition-company-speaks-out-about-privacy-concerns/"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 39
     images:
-      - url: "https://s.hdnux.com/photos/01/10/33/24/18986281/9/rawImage.jpg"
-        width: 2048
-        height: 1365
-  - title: "ACLU criticizes facial recognition company using photos without permission"
-    excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
-    publishedDateTime: 2020-02-06T05:25:00Z
-    webUrl: "https://www.wftv.com/news/local/volusia-county/american-civil-liberties-union-criticizes-facial-recognition-company-using-photos-without-permission/ONZWHDR5XVDQVJAZ7L6UQBG2A4/"
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 37
-    images:
-      - url: "https://www.wftv.com/resizer/FEuhDKbanUBenwSvls9DOPgdPUk=/1200x628/d1hfln2sfez66z.cloudfront.net/02-06-2020/t_3e9a381ac94d421ebfec67f453fca035_name_VOL_AI_FACIAL_RECOG_TECH___10pm_frame_2373.jpg"
-        width: 1200
-        height: 628
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/02/06/story_03953211_1581003003.jpg"
+        width: 480
+        height: 270
   - title: "Facebook is latest to demand Clearview stop using its images for controversial facial recognition"
     excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company ..."
     publishedDateTime: 2020-02-06T11:57:00Z
@@ -296,46 +276,30 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 36
-  - title: "Venmo, YouTube and Twitter demand company stop ‘scraping’ photos for facial recognition work with police"
-    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part … This item is available in full to subscribers."
-    publishedDateTime: 2020-02-06T15:54:00Z
-    webUrl: "https://romesentinel.com/stories/venmo-youtube-and-twitter-demand-company-stop-scraping-photos-for-facial-recognition-work,91635"
+  - title: "Facebook, YouTube, Twitter warn Clearview face-recognition service to stop harvesting images"
+    excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship ..."
+    publishedDateTime: 2020-02-06T19:37:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-clearview-face-recognition-20200206-mlk7347uvfe7ldqgfr3qrxq2lm-story.html?outputType=amp"
     type: article
     provider:
-      name: Rome Sentinel
-      domain: romesentinel.com
-    quality: 22
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 33
     images:
-      - url: "https://romesentinel.com/images/og-images/og-rome.png"
-        width: 600
-        height: 315
-  - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
-    excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
-    publishedDateTime: 2020-02-04T23:36:00Z
-    webUrl: "https://www.nbcchicago.com/news/local/chicago-area-groups-demand-end-to-facial-recognition-amid-concerns/2213205/"
+      - url: "https://www.chicagotribune.com/resizer/EVhzXiNn0fjNzE2DbtVmB06lF-s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OE6AB6SZOFGDVFZJFPF5Z6M2PQ.jpg"
+        width: 1200
+        height: 800
+  - title: "Will we see operators using facial recognition software soon?"
+    excerpt: "This is, I imagine, gamers’ paradise. What fascinated me most was facial recognition from Innovative Technology Ltd – a stand I just stumbled across – where I met Christian Czeskleba, senior business development manager. Christian guided me through, explaining it has its own algorithms to verify age and new faces instantly, which ..."
+    publishedDateTime: 2020-02-06T15:53:00Z
+    webUrl: "https://www.racingpost.com/news/ice-2020/will-we-see-operators-using-facial-recognition-software-soon/421688"
     type: article
     provider:
-      name: NBC Chicago
-      domain: nbcchicago.com
+      name: Racing Post
+      domain: racingpost.com
     quality: 19
-  - title: "Facebook Sends Cease And Desist Letter To AI Startup, Joins Twitter, Venmo, YouTube"
-    excerpt: "Facebook Inc. (NASDAQ: FB) has joined other social media giants and has sent Clearview AI a cease and desist letter to stop using user images to identify them"
-    publishedDateTime: 2020-02-06T10:16:00Z
-    webUrl: "https://www.benzinga.com/news/20/02/15266220/facebook-sends-cease-and-desist-letter-to-ai-startup-joins-twitter-venmo-youtube"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
-  - title: "Internet giants reject controversial facial-recognition start-up"
-    excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
-    publishedDateTime: 2020-02-06T12:46:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/02/internet-giants-reject-controversial-facial-recognition-start-up/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 4
 
 secured: "uG79hpeR9hcPXY0HndisGn6N+y3yicEyXjezra2XJIBE8MoZP6Wz1wl6paL+MybYZkWEnXzI9+n9UJPp7uC8M8xtY347W6mk0zGul1Kj4kCEj/pxLSa2vt9JqhifqZU04bH7/+yGZYBXksVC2SM/dUDUIbrad8qpilx4lN5xSJ06wBIczzf6dzPZ+GIB14rNt5HdhYUbH9MIEeuO45+ub1K0J+pYCA9kbzheZg46I+v5sGnOK1oIz7o+uWImV/C4u8bcBZgioVKFICDNVk3e9vIH2fEp4ztXd5FjqyfevRxf8ljo5Dgb62XHKtQPeM4sAbBMD6mdKx6rFeditc+TX9vLDq9XwE3Py2tftUVG4GmxICS3R52NYuCFS1liWMtO5VxPfKS8AmC8c6pfC1Ow4Xs9Tdic/dd9/HCvm6hdZPiBswjZqp5II9TXJC80K9wW4/Oe1wZOuItUBUcIf90m9G+8z5A+gQrf4jj9SvP6Tow=;vZrs9BxVX7YguhjjAlX1ew=="
 ---

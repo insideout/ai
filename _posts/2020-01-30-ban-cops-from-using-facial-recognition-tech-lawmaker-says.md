@@ -59,15 +59,6 @@ related:
       - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
         width: 620
         height: 355
-  - title: "Will we see operators using facial recognition software soon?"
-    excerpt: "This is, I imagine, gamers’ paradise. What fascinated me most was facial recognition from Innovative Technology Ltd – a stand I just stumbled across – where I met Christian Czeskleba, senior business development manager. Christian guided me through, explaining it has its own algorithms to verify age and new faces instantly, which ..."
-    publishedDateTime: 2020-02-06T15:53:00Z
-    webUrl: "https://www.racingpost.com/news/ice-2020/will-we-see-operators-using-facial-recognition-software-soon/421688"
-    type: article
-    provider:
-      name: Racing Post
-      domain: racingpost.com
-    quality: 19
   - title: "Readers sound off on face recognition, Cuomo’s budget and Biden’s stutter"
     excerpt: "In the past, the criminal justice system relied on eyewitness memories, which were often not reliable at best. Now with DNA and facial recognition profiles, it’s almost impossible to convict the wrong suspect. Yet it also brings to mind the book “1984,” which was written to show the abuses that an unrestricted government can bring upon ..."
     publishedDateTime: 2020-01-30T08:00:00Z

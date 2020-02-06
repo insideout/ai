@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "Why most self-driving car companies use these 3 models"
-    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
+    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ..."
     publishedDateTime: 2020-01-21T20:54:00Z
     webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
     ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
@@ -67,19 +67,6 @@ related:
       - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious (INTC)"
-    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps. Mobileye CEO Amnon Shashua told Business Insider that autonomous vehicles (AVs) can't be too cautious. If AVs take too long to get to their destinations, people won't want to ride in them, Shashua said. To increase ..."
-    publishedDateTime: 2020-01-25T13:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1-1028844526"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://images.markets.businessinsider.com/image/5e2b293624306a2d955068f4-2333/mobileye-2020-ces-shashua-5.jpg"
-        width: 1024
-        height: 768
   - title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
     excerpt: "Cofounder and CTO Kyle Vogt said that the company has technology that could allow for highway operation"
     publishedDateTime: 2020-01-23T17:20:00Z

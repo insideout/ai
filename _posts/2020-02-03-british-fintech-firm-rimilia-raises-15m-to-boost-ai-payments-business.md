@@ -8,8 +8,8 @@ ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/03/british-fintech-fi
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/03/british-fintech-firm-rimilia-raises-15m-boost-ai-payments-business/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Daily Telegraph
@@ -26,21 +26,6 @@ images:
     title: "British fintech firm Rimilia raises $15m to boost AI payments business"
 
 related:
-  - title: "UK Fintech Rimilia Raises $15 Million Through Latest Investment Round"
-    excerpt: "Rimilia, a UK-based SaaS fintech, announced earlier this week it raised $15 million through its latest ... while also focusing on building out our team to add further subject matter expertise and leading data scientists to further advance our automation and AI.” The funding, which brings the total amount raised by Rimilia to $40 million ..."
-    publishedDateTime: 2020-02-06T12:08:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/10/Coins-Pounds-Money-UK-sketch-600x415.jpg"
-        width: 600
-        height: 415
   - title: "SaaS-based FinTech Rimilia secures $15 mn in growth funding"
     excerpt: "The FinTech states that the new capital is expected to boost product innovation ... while also focusing on building out our team to add further subject matter expertise and leading data scientists to further advance our automation and AI.” Rimilia is an AI-powered automation platform built for the management of order-to-cash processing ..."
     publishedDateTime: 2020-02-03T13:52:00Z

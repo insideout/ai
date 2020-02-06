@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -37,20 +37,7 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/23/125592-pichai.jpg"
         width: 918
         height: 506
-  - title: "Google CEO vows respect for privacy as data giant develops AI for medical use"
-    excerpt: "Sundar Pichai, the CEO of Alphabet and its Google subsidiary, said yesterday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence (AI) to improve outcomes. He vowed that the technology giant will ..."
-    publishedDateTime: 2020-01-23T02:46:00Z
-    webUrl: "https://www.independent.ie/business/technology/news/google-ceo-vows-respect-for-privacy-as-data-giant-develops-ai-for-medical-use-38886750.html?token=208054049"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 36
-    images:
-      - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
-        width: 531
-        height: 342
 
-secured: "F1AfP6vsm9dY4X5hPwST7tn0j5PwBguBYrfyvKqbiCS2wJcqxBEJ2lM6xDbpqsweFxbE495HUKt/oH5MfNK2m0lkrxkfHU+zsvYN0EEYIpXFeQjFTs4ld03M8hnLou7K3/MbPtCBTx2e3QBBstIS4kvrZoe7CyzXG+hsQyAgdEhjtT6BhbySfnrV546/ZKhdfocrfzZKStFOTiERXV9UouG8VrwOrflgdV8AT4+l0WO7Um8wBrV9AIaKbYHDy/+Y+tLkQG4SNHL7yWI6Ln9vqdWcGLK4xJzIU4npdMKnKJIXmmEg15xklpvnvMIemUUV;TUkQycLCkvhBFJ1pl5+s9Q=="
+secured: "OuGpVQ4vwvui2kQIZsyK0qst80YfOBtVVF8gtQSkNsrTW6zRnV3VJCsc9t4a3ZMnQ6Nd9+sGzay1dOc3bNKPPKTaekfeGkzxKEzqorX6uNjGh1L7dY3c0ny3gU2QqEqMhWILatKGfULHCIg1QshkwqRjE8dbWLYCdbrIwQf//mMiDSd5jVWnoyZ+JKKLldXREMGAN6Z5F8rJRnH+pE9xejOz5Qbtdn/p3d0uUBuQb1pF/DWAKQYmzDDZYhJDe0LYZepOJtiMvpNRpHQZlXkY+rSKNglh6Ve/5iYYschULLRT4Y31X2u4N2YKu0ZjNmYw;CUV3OaqYULGEikMMzw6Lyg=="
 ---
 

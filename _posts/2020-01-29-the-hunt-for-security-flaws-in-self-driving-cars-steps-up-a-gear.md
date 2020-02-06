@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-hunt-for-security-flaws
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
 type: article
 quality: 74
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "The hunt for security flaws in self-driving cars steps up a gear"
 
 related:
-  - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
-    excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
-    publishedDateTime: 2020-02-03T07:00:00Z
-    webUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/"
-    ampWebUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
-        width: 2400
-        height: 1600
   - title: "£1.2m awarded to progress self-driving vehicle cyber security projects"
     excerpt: "Seven projects have received Government funding to support the development of connected and self-driving vehicle cyber security testing capabilities. Organisations from around the country are involved in the projects, including Honda Europe, University of Warwick, University of Bristol, IBM and the Millbrook and HORIBA MIRA testing grounds."
     publishedDateTime: 2020-01-29T16:26:00Z
@@ -84,19 +69,6 @@ related:
       name: Marietta Daily Journal
       domain: mdjonline.com
     quality: 24
-  - title: "BGU developing system to stop self-driving cars being fooled"
-    excerpt: "In a concerning phenomena, researchers at Ben-Gurion University (BGU) Cyber Security Research Center have found that a phantom image projected on the road in front of a semi-autonomous vehicle can cause its autopilot to break suddenly. This could endanger the lives of drivers and passengers alike. In a statement released Tuesday by BGU, the ..."
-    publishedDateTime: 2020-02-04T13:36:00Z
-    webUrl: "https://www.jpost.com/Jpost-Tech/BGU-developing-system-to-stop-self-driving-cars-being-fooled-616492"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 24
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
-        width: 822
-        height: 537
   - title: "The Future of Sensors for Self-Driving Cars: All Roads, All Conditions"
     excerpt: "But as ADAS and eventually self-driving systems become more advanced, it will be essential for vehicle cameras to perform well in all situations. Camera benchmarking firm DXOMARK has done a lot of work in accurately characterizing camera image quality challenges that are unique to automotive, which its VP of marketing Nicolas Touchard shared ..."
     publishedDateTime: 2020-02-04T14:14:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-29T13:10:00Z
 webUrl: "https://www.baltictimes.com/university_of_tartu_and_bolt_presented_self-driving_vehicles_lab_s_test_car/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,32 +24,19 @@ images:
     title: "University of Tartu and Bolt presented self-driving vehicles lab’s test car"
 
 related:
-  - title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
-    excerpt: "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages."
-    publishedDateTime: 2020-01-31T11:52:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
+  - title: "Are self-driving cars a solution for transit? An East Coast test shows their promise and challenges"
+    excerpt: "In the Seattle area, a collection of companies is joining in AV research. Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. (END OPTIONAL TRIM) The service in ..."
+    publishedDateTime: 2020-01-24T20:40:00Z
+    webUrl: "https://www.heraldcourier.com/business/business_ap/are-self-driving-cars-a-solution-for-transit-an-east/article_f30d1f60-0326-5817-b1bc-360c1ed811da.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 59
+      name: Bristol Herald Courier
+      domain: heraldcourier.com
+    quality: 10
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-  - title: "UPS and Waymo partner on self-driving parcel pickup"
-    excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
-    publishedDateTime: 2020-01-30T17:34:00Z
-    webUrl: "https://www.retaildive.com/news/ups-waymo-self-driving-parcel-pickup/571415/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 39
-    images:
-      - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
-        width: 770
-        height: 364
+      - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/custom/image/924d18d2-c893-11e6-a201-97fe62cf4d14.png?resize=600%2C600"
+        width: 600
+        height: 600
 
 secured: "YaFqVozr+Qff+LlBuCCzyEUY6JcHsWD33MRNnha5QoP24KDa6xkiJ7/uAVB1lj2hIM6RHwioXWO1UJ1soryZ+25k2pfE6pxtqqiqaGG3qBrFyTwRMcjSFWMQVlIlkV+zc56misaQhD5KW/7SR6n2aLoOQ8+tHtD9c+TWJ/Z3ZKoJzevFuTZQ4y2gr3IpSTmQ/yxYhfLfV6ODYhBHzyDbLpco6GtrDsBB4ZnAJSttRgcz6rr8JIi83S4jXV65GW9viz4ieRVuc0ilk7dzR3VDtuIpdYma9C+tNCi+gibWcl6WCepEftxkUJp4YCCaApMR;vXxOoBjXWGLI6QnqT7tUkg=="
 ---

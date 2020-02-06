@@ -402,6 +402,21 @@ related:
       - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202001/nn_tco_uk_police_launch_facial_recognition_200124_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
+    publishedDateTime: 2020-01-21T00:00:00Z
+    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    type: article
+    provider:
+      name: United States Army
+      domain: army.mil
+    quality: 59
+    images:
+      - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
+        width: 446
+        height: 300
   - title: "Rogue NYPD cops are using facial recognition app Clearview"
     excerpt: "Rogue NYPD officers are using facial recognition software that the department’s own facial recognition unit doesn’t want to touch because of concerns about security and potential for abuse, The Post has learned. The NYPD’s facial recognition unit kicked the tires on a controversial app, Clearview, which has scraped millions of photos from ..."
     publishedDateTime: 2020-01-23T17:23:00Z

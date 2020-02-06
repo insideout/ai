@@ -74,6 +74,21 @@ related:
       - url: "https://cdn.newsday.com/polopoly_fs/1.41286231.1580616519!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
         width: 1280
         height: 719
+  - title: "Facial recognition moves into a new front: schools"
+    excerpt: "LOCKPORT, N.Y. — Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent ..."
+    publishedDateTime: 2020-02-06T13:00:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 59
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/FACIAL-RECOGNITION-EDUC-2-1-300x450.jpg"
+        width: 300
+        height: 450
   - title: "Assembly committee ponders use of facial recognition technology"
     excerpt: "There’s a facial recognition app local law enforcement has used to identify potential suspects in a criminal investigation, but no more. The state attorney general has banned the use of Clearview AI. It all stems from concerns over the software ..."
     publishedDateTime: 2020-02-03T22:57:00Z
@@ -87,6 +102,19 @@ related:
       - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
         width: 1920
         height: 1080
+  - title: "EU Prepares for Coming of Facial Recognition– On Its Privacy Terms"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy. Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next ..."
+    publishedDateTime: 2020-02-03T12:59:00Z
+    webUrl: "https://www.insurancejournal.com/news/international/2020/02/03/557118.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 39
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
+        width: 900
+        height: 598
 
 secured: "CUnyIRLObnUrPOHtSDPCoaFpWmishgP4EqSOOZFkEux9qX39djVO/dVyVCE5amFb75U5NOk9T8D9+Zf7/IWOtkp0osWT69sY7DZREeTNsY0O4H4K6Z7gTvXHcdzB4yr7TpLErf/Kk6EcjtAvf1Qa5iw5PIfhM78T5Kn9pa3NQQe1jlHjVtKdud6/Qv+iM12jVnGLzqzP6s2Qqs9f0OYs4JVbSwkwI8qq7cMgM6HVyED5+oh43v6Ba+8ds+9SHkwDIDGNyRfMF7B8dlSg1DwmvRs6MqBclRvWvRfLZJAknmmSxOrCPMMOffM+ZDG/PB7CaT5onxoodTtHcIoFizgXyMou1wYFRR+fChFnz8ZeB2fk0Sbpk7BbyQYfjK40ugit4sGV6+k8UT4NIC8YnL9XbwLpsQK3dr8Y2mCkrJHXMDZtBHQYW238pQYFuOAAK/Zk06cwYSPMxQ8RMDX7i6B5zUI3R/ARWZ+E7mpnlt/dmh8=;QpGUUDDPpsd2ONa3MU846w=="
 ---

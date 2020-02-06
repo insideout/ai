@@ -151,19 +151,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/IBM-IC922.png"
         width: 1094
         height: 564
-  - title: "Report: Speed up drug development with artificial intelligence"
-    excerpt: "More and improved use of artificial intelligence, and an overhaul of medical education to include advances in machine learning, could cut down significantly the time it takes to develop and bring new drugs to market, according to a new joint report by the National Academy of Medicine and the Government Accountability Office. Before that can ..."
-    publishedDateTime: 2020-01-23T01:50:00Z
-    webUrl: "https://www.rollcall.com/news/policy/report-speed-drug-development-artificial-intelligence"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 39
-    images:
-      - url: "https://cdn.images2.rollcall.com/image/27cf5635a9671932facf9eaaf28bb860456d2c0d8fa9d892971ca7752284a2a3f694222a45edf4131ed6bf50844a038a/author/2020/01/SENATE_VOTE_003_06182019.jpg"
-        width: 1200
-        height: 627
   - title: "Year begins with bang for AI drug development"
     excerpt: "The company noted that less than 5% of AI professionals are working in health, despite this being the area of ‘most urgent application’. As a result, Microsoft will work with nonprofits, academia, and research organizations to provide them access to AI ..."
     publishedDateTime: 2020-01-31T15:55:00Z

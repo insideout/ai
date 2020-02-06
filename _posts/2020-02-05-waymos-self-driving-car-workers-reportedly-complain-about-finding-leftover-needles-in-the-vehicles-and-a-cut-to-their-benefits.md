@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-compl
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
 type: article
 quality: 76
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     title: "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits"
 
 related:
-  - title: "Waymo workers complain about cuts to benefits and needles in self-driving cars"
-    excerpt: "The company recently announced it has racked up 20 million miles of autonomous driving on public roads. Waymo is widely considered to be the global leader in self-driving technology. Alphabet relies on an army of so-called “TVCs” To run the program, like its many other projects, Google parent company Alphabet relies on an army of so-called ..."
-    publishedDateTime: 2020-02-05T14:00:00Z
-    webUrl: "https://www.theverge.com/2020/2/5/21123049/waymo-self-driving-cars-workers-vendor-contracts-benefits-needles"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 60
   - title: "Dubai prepares to roll out self-driving vehicles"
     excerpt: "Over the last few years we’ve seen plenty of progress being made with autonomous cars, self-driving vehicles and even pilotless air taxis. Now, Dubai’s RTA has taken another step towards getting the initiative off the ground. As we move another step closer, the Roads and Transport Authority (RTA) has revealed a new set of rules over ..."
     publishedDateTime: 2020-02-04T12:16:00Z
@@ -69,15 +60,6 @@ related:
       - url: "https://cdn.idropnews.com/wp-content/uploads/2019/01/24072607/apple-car-concept-drawing.jpg"
         width: 1000
         height: 600
-  - title: "Uber gets permit to restart testing its self-driving cars in California"
-    excerpt: "Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona. The California Department of Motor Vehicles issued a permit on Wednesday to the company’s self-driving unit,"
-    publishedDateTime: 2020-02-05T19:31:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZZ2QG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 34
   - title: "Uber is trying to bring its self-driving vehicles to the District"
     excerpt: "This month, Uber announced plans to bring its self-driving vehicles to D.C. The transportation company began collecting data in the District on Jan. 24 to do so. Exciting times ahead in Washington, DC where we'll officially kick-off manual data collection with three self-driving vehicles, starting tomorrow (weather permitting)! Learn more about ..."
     publishedDateTime: 2020-01-30T18:08:00Z
@@ -118,6 +100,6 @@ related:
         width: 1200
         height: 630
 
-secured: "3cKQOfNYZ8aMTe0LMUR4VVOcUmorF2JGDglh41JCJUsojMTGWpwvlW6T4DaCz5drVsi+pH1my+qxthOPDQ0xMrU0nMmkgTdme6IX4YpnQbViJjhedRoNpfClTlaMwzZW78L9c5ZpS4Ofeh/ha+xYJ8JIXErO3cNH7eZkSrFX8Y+ASPFr0EYd5K91ZWJ7VZBn+8R41gVz/rcaFAe1VzGfoMm0NiMDcNrZIHfA5xbvdcR1MZsM3KsoIwJxyLaEjdc8worGmQBUP0pvLGMq4B66g/ckT9lKXWVlOSkSvED8d9QRG5kQJ50cruoTW6oEdODU4w/UnQl8DduYqXflGUjuVVmoTrixro2NdI9Lq3lRKxqb95qhONMEgWmJ2t0sTQhRq6kdRZLB32pMLzoL1o5Ojdnut8Zs4GVcP9Ep6YQW0vqHr3dkTPcJyM8F5k/L7HXoUdcqOaTi4fH8ki4/7w2Zb1RzKX/dW/GePoAl06f2zSo=;2UsfxnptMwGXOBUas7yTOw=="
+secured: "ZoWerMhGaQts9BO25lBmcaMyxy9M328EWiqTNhKsWay4rAZxjAfFVcNHWPg1bP3jzkCrs2qSSOchePwYgxu1K3ldlI+6rfQEQTB0oVm9r36StxYiSoKqEjQPNxxxnw7PkXDodlLGqUbhVY6N3fNfI1baNWDlDCltOITKUwKiNEKXXLshgjeOAbqI3ht0KYU015omn/chpIDVN5zMN1bNOLdXlkFKTMdXt6r/jv904tA0zfdhk0mVgwe5XnvM/BjN/ZqjAQJTvLBxNvxmvVXJ4BnqNGKKs/id/O4K25U7sh37wjhaIhjeW7StEXnUf6pk30tWfBOHNL+nTdJTflBIwzvyhVcklMLmjFIDz8DB80OdycxXhAPFvbbqfzWGwTIDNph7TBv1qo/N+WRUjnnoupdhgaqdquYM1hD8SnxAnwLXQddmK25+y/AmOukiKJfOlnvDmxaY2N5vV1egGfYks1LYwAZE0d70c8Qgg9+vBs8=;ufAiUgf2r+ouO9M6G/+9WQ=="
 ---
 

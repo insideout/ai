@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T22:41:00Z
 webUrl: "https://sportscar365.com/sro/expanded-roles-for-crowdstrike-aws-in-sro-globally/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,23 @@ images:
     width: 1000
     height: 600
     title: "Expanded Roles for Crowdstrike, AWS in SRO Globally"
+
+related:
+  - title: "CrowdStrike, AWS expand World Challenge official provider roles"
+    excerpt: "In forming an expanded alliance, SRO Motorsports Group will benefit from AWS’ 175 fully featured services for storage, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), with a broad global reach. Along with being official ..."
+    publishedDateTime: 2020-02-06T18:56:00Z
+    webUrl: "https://racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/"
+    ampWebUrl: "https://racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/amp/"
+    cdnAmpWebUrl: "https://racer-com.cdn.ampproject.org/c/s/racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/amp/"
+    type: article
+    provider:
+      name: Racer
+      domain: racer.com
+    quality: 59
+    images:
+      - url: "https://racerdigital.files.wordpress.com/2020/02/aws-crowdstrike-1.jpeg?w=1000&h=430&crop=1"
+        width: 1000
+        height: 430
 
 secured: "t5NHHjwz3xymelpfHcWG6/M04bXzIHCC5X34AzepS5io0V2CZT0UoXz9W6lCAHhOhPwvdwRvnlvnXFqz6/sArRoCdQCFzR7Vs6ufZl3AZUOS2VrvPRjDmThLbYkW9nF6Jc7WF+RwKvq+QAv35lx5vxEwZmYy97iNip3v/JNaWBbdxXqfuXnMpGTRgNkuMZL886pTVVm4l9JpP4XnLewEUZC5BWM+Ya124jvvl66Kt89BkEryXD5QrFYb4pzh6kR9l9iHOVDceqg0R/pI5C4rAuFRDMpAtQGv8j0JQ1uqjZBE98UaysPGRa+ke31b5iXa21lBRNnZkl8D5p8Komuf+5b8IHc0p/aYHxIZUUR9Q3MOolS1zd+btZexhOq2lAnLZzd/kLQPFfywicOqc1HFKuf/x85KO30gHdOEiyTDb4QpuuhLG8XtlK8vvJ8jwa/YimSIemqztT+2hP3n/B9San+bM+uxjNTMxc/SnprWWrg=;J8WZ7UrTDkSOnwZveMZzUg=="
 ---

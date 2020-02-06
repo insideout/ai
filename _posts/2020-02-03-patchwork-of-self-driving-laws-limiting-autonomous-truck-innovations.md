@@ -18,30 +18,77 @@ topics:
   - AI in Autos
 
 related:
-  - title: "An engineering student is helping envision a self-driving future for people with disabilities"
-    excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around. The Ohio State University engineering student had opted for a rolling walker over the wheelchair she sometimes uses, but nonetheless she was late."
-    publishedDateTime: 2020-01-31T13:10:00Z
-    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
+  - title: "Nuro R2 self-driving delivery pod hits US autonomous vehicle milestone"
+    excerpt: "US regulators have granted the first self-driving vehicle exemption, allowing the Nuro R2 to drive autonomously on public streets, though don’t expect to catch a ride in one yourself. The R2 is SoftBank Group-backed Nuro’s driverless delivery vehicle, which the startup hopes will give grocery stores, restaurants, and other retailers a human ..."
+    publishedDateTime: 2020-02-06T15:47:00Z
+    webUrl: "https://www.slashgear.com/nuro-r2-self-driving-delivery-pod-hits-us-autonomous-vehicle-milestone-06608901/"
+    ampWebUrl: "https://www.slashgear.com/nuro-r2-self-driving-delivery-pod-hits-us-autonomous-vehicle-milestone-06608901/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nuro-r2-self-driving-delivery-pod-hits-us-autonomous-vehicle-milestone-06608901/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 33
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
     images:
-      - url: "https://www.washingtonpost.com/resizer/qxjWQ-jXwV-C9osVN4wWU0S_SLI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QUAWFCR4PUI6VL7CBEHLG63AWE.jpg"
-        width: 1440
-        height: 960
-  - title: "An engineering student is helping envision a self-driving future for people with disabilities"
-    excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around."
-    publishedDateTime: 2020-02-01T06:41:00Z
-    webUrl: "https://www.sfgate.com/news/article/An-engineering-student-is-helping-envision-a-15021017.php"
+      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/nuro-r2-1.jpeg"
+        width: 1680
+        height: 1120
+  - title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
+    excerpt: "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages."
+    publishedDateTime: 2020-01-31T11:52:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 0
+      name: New York Times
+      domain: nytimes.com
+    quality: 59
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+  - title: "Feds approve self-driving vehicle minus rear and side mirrors"
+    excerpt: "Image by John Howard from Pixabay. DETROIT (AP) – The U.S. highway safety agency for the first time has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards for human-driven cars and trucks. The National Highway Traffic Safety Administration says it granted temporary approval for Silicon ..."
+    publishedDateTime: 2020-02-06T16:04:00Z
+    webUrl: "https://www.wkbn.com/news/national-world/feds-approve-self-driving-vehicle-minus-rear-and-side-mirrors/"
+    ampWebUrl: "https://www.wkbn.com/news/national-world/feds-approve-self-driving-vehicle-minus-rear-and-side-mirrors/amp/"
+    cdnAmpWebUrl: "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/feds-approve-self-driving-vehicle-minus-rear-and-side-mirrors/amp/"
+    type: article
+    provider:
+      name: WKBN
+      domain: wkbn.com
+    quality: 44
+    images:
+      - url: "https://www.wkbn.com/wp-content/uploads/sites/48/2020/02/highway.jpg?w=960&h=540&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
+  - title: "First Self-Driving Vehicle with Federal Exemption Is Nuro Delivery Pod"
+    excerpt: "The Nuro R2 is a self-driving delivery vehicle that will transport goods instead of passengers. The vehicle will begin testing on public roads in Houston in the coming weeks. The exemption from NHTSA and the DOT means the vehicle doesn't need a windshield or side mirrors. Autonomous vehicles are more than just robotaxis and long-haul trucking ..."
+    publishedDateTime: 2020-02-06T18:06:00Z
+    webUrl: "https://www.caranddriver.com/news/a30793888/self-driving-nuro-r2-federal-exemption/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp30793888/self-driving-nuro-r2-federal-exemption/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30793888/self-driving-nuro-r2-federal-exemption/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 44
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nuro-r2-1581004051.jpeg?crop=1.00xw:0.754xh;0,0.238xh&resize=1200:*"
+        width: 1200
+        height: 603
+  - title: "Gainesville Set To Run Self-Driving Vehicles On Its Public Roads"
+    excerpt: "That self-driving vehicle and two others, now undergoing test runs, are expected to become available as a new form of public transportation in Gainesville by the end of the year, according to Thomas Idoyaga, a spokesman for the city’s Office of Mobility. The EasyMile shuttles, developed in Europe, are 13 feet long, 10 feet high and 6 1/2 feet ..."
+    publishedDateTime: 2020-01-31T21:48:00Z
+    webUrl: "https://www.wuft.org/news/2020/01/30/gainesville-set-to-become-first-u-s-city-with-self-driving-buses-on-public-roads/"
+    type: article
+    provider:
+      name: WUFT
+      domain: wuft.org
+    quality: 39
+    images:
+      - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
+        width: 1200
+        height: 782
 
 secured: "HeoVNSWtVLYhARBl5V4MiAG/ongXkyqiCQZy5myCALCXyC6Sr2PGOJhzUJeiCE0DWF8xXNeh5T7oKpOncPyHiRtRzeOlbO1t8zmJwr/UVrzTquKLbxOkHSZyu7hqKoBmxEQ9d4PIPDdis62OJfgBTlIixKbUIxhGO0r05YUcQ0rkceJLPK0PXWdZ4WevMmXyZxnIZn87x732TiP0bKpAyl3lo83eG0nxpNMTcSetOCHL6PzX29AH3TXvQIY2Wl60zgn/VvkmWNdJQR49WiEJbkk90HJfIIsxhCEgE4XcGPh3eip1uXDPC78k1vgDKVb9qf5xCnSBs1S8WfEabZ/ZoIapfSwCywvcUF4qRRw7gysaRbVqG5hJ6JdieOrqV7XJxYsWEDEZnErxKzpV9VeKXU+pjt6NampA0mn0V6thcyWmo5AUYlWRzs1LB2OBOEF6AFeXg37z1NivpFtH3AZlnnvzCclbYnXGZ6Nyw9Vtg2k=;E+GCEGEdeNcyeIQlNWn0Mg=="
 ---
