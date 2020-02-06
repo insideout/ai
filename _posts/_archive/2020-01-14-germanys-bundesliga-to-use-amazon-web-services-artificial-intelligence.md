@@ -2,26 +2,28 @@
 category: news
 title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
 excerpt: "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ..."
-publishedDateTime: 2020-01-14T14:43:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/germany-s-bundesliga-to-use-amazon-web-services-artificial-intelligence-1028816437"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
+publishedDateTime: 2020-01-14T14:41:00Z
+webUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14"
+ampWebUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
 type: article
-quality: 83
-heat: 93
+quality: 103
+heat: 113
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?2134454660"
+    width: 1024
+    height: 512
+    title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
 
 related:
   - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
@@ -34,6 +36,6 @@ related:
       domain: telecompaper.com
     quality: 14
 
-secured: "WAJVYBZ6fmUPFa4j34gq9WMMDjpOcV39Gl9r8bpTDxYOlcdtku3mzY33DrRTmG+1yDuxV3sIh7M0YTy5h0V93JTPcOj1l8ve3BpbUZBhwaj2kVS/YLcsJGoVYJtpsg7JdqUxrqvGtw0Aq70DhDC8RjTamzEWlop1AneZf+tT7aIAMYEvigQsyyoYwcvEHBvgI9vUA3fNr4sWrcB0bWPlO9I3f1r7TQ9sBXXuwvhMWuit4AXGFhHbuU+yhE24CPomElyU42aJZY7GSZCwNETysF3yhrJJ0WE32lG2ck3leWQciGjEVaK0KcZsFS8fXQgl;fNMg8O58TeU21U2J01dksw=="
+secured: "dioxcGXTkmtl0UNj63SRvjZ8QjYCgtjrIDITGyR9PkOaZUF3urh2g11MLO16qpAL8PUEMNxatfg+96RkogjCgNVds9mrU9Fi2t5jdUOZeKI+BwEB1iuxOfSg/UlxSmTrp28rhA9mMUx+No1UdUf8Y07oeh4XirkqvRQsU6DN+uo39Oahvp+UFf3F7hpNSHI4Z4pJrgFWQePx5J/8E3TN8M0u91B/e37HHClyKuqlayzKPGvALwEXOkjM86WqDUl5qMReGzDtNbEbSfkGUvKx/cK9nzOaVYBvTf2befO3i6aoHjj4MvvLOqxFvWdH/7+z;qOW2UHuGkwjogjSmJ1FOjA=="
 ---
 

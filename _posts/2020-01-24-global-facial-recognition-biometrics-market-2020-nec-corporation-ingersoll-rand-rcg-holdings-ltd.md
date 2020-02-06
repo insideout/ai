@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-24T09:58:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-biometrics-market-2020-nec-corporation-ingersoll-rand-rcg-holdings-ltd-2020-01-24"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: MarketWatch
@@ -43,6 +43,19 @@ related:
       - url: "https://www.abnewswire.com/uploads/1580120204.jpeg"
         width: 417
         height: 455
+  - title: "Artificial Intelligence in Healthcare Market (PDF Report) 2020 – Leading Players IBM Corporation, Intel Corporation, Google"
+    excerpt: "New York City, NY: Jan 28, 2020 – Published via (Wired Release) – The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for ..."
+    publishedDateTime: 2020-01-28T07:41:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2020-01-28/artificial-intelligence-in-healthcare-market-pdf-report-2020-leading-players-ibm-corporation-in"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 11
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
 
 secured: "k/5iyA4akPkn8fDPGPsHdk8+VWmZV9+TFxNOx6L8guFjOK2iaBnZGBk+4akaRmEWxLf5Zi/K+nSglTGUPAlTPdktcgFtyOpzthwwk9xJ4APznqJjtnreCEEcODCiA7Ya6s45Qw1wyCejIz+AnOX4M4hqjFCeaptd5n4paAu9H3uVASrLM+0yqJoZ84nlYVtl5i5pBfemXN+G7cJvsLAjtWTGJxsCsNYQuWdGeJmuoFZKOnQsTn27MCENqOOBxHTWRJiAvr6UkFw20jB6YvabFhumPYnAvWLYkuUL/szrljs4eGH81Y5eHZ2UUqxn0Jh/;nv3aAQ90pevhElRMHgvuqA=="
 ---

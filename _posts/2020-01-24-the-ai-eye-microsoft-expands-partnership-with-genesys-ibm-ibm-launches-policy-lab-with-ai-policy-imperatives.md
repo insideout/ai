@@ -42,21 +42,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579801417_ms-nadella-satyagenesys-ceo-bates-tony-0019-edit-1-1024x803_story.jpg"
         width: 760
         height: 595
-  - title: "HCL Technologies unveils a dedicated Microsoft Business Unit"
-    excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, loT, and Al/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
-    publishedDateTime: 2020-01-22T09:20:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 59
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2019-09/17/full/hcl-technologies-1568695467-04161350.jpg"
-        width: 350
-        height: 233
   - title: "Microsoft And Genesys Expand Azure Partnership"
     excerpt: "“By running the Genesys customer experience solution on this dependable cloud environment, enterprises will be able to maximize their investment in Microsoft Azure through simplified management and maintenance requirements, centralized IT expertise, reduced costs, and more.” Through cloud and artificial intelligence (AI), enterprise ..."
     publishedDateTime: 2020-01-23T20:15:00Z

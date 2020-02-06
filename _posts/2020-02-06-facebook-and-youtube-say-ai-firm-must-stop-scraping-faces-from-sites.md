@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Facial recognition tech used by Volusia deputies criticized for ‘scraping’"
-excerpt: "VOLUSIA COUNTY, Fla. – The company behind a facial recognition tool used by the Volusia County Sheriff's Office is coming under fire after some large tech companies said the tool is violating their terms of use. According to CBS News, Clearview AI received cease and desist letters late Tuesday from Google and YouTube. The letters surrounded ..."
-publishedDateTime: 2020-02-05T17:43:00Z
-webUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/"
-ampWebUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
-cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
+title: "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites"
+excerpt: "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ..."
+publishedDateTime: 2020-02-06T02:09:00Z
+webUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/"
+ampWebUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
+cdnAmpWebUrl: "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Click Orlando
-  domain: clickorlando.com
+  name: Snopes.com
+  domain: snopes.com
 
 topics:
   - AI
-  - Computer Vision
 
 images:
-  - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
-    width: 1280
-    height: 720
-    title: "Facial recognition tech used by Volusia deputies criticized for ‘scraping’"
+  - url: "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452"
+    width: 800
+    height: 452
+    title: "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites"
 
 related:
   - title: "Google and YouTube send cease-and-desist letter to facial recognition app that helps law enforcement"
@@ -124,6 +123,21 @@ related:
       name: CNET
       domain: cnet.com
     quality: 57
+  - title: "Facial recognition tech used by Volusia deputies criticized for ‘scraping’"
+    excerpt: "VOLUSIA COUNTY, Fla. – The company behind a facial recognition tool used by the Volusia County Sheriff's Office is coming under fire after some large tech companies said the tool is violating their terms of use. According to CBS News, Clearview AI received cease and desist letters late Tuesday from Google and YouTube. The letters surrounded ..."
+    publishedDateTime: 2020-02-05T17:43:00Z
+    webUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/"
+    ampWebUrl: "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 57
+    images:
+      - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
+        width: 1280
+        height: 720
   - title: "YouTube, Venmo demand AI firm stop taking facial data from sites"
     excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
     publishedDateTime: 2020-02-05T23:47:00Z
@@ -139,21 +153,6 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/09/2019-09-04T134827Z_154642363_RC1C71B03BD0_RTRMADP_3_GOOGLE-FTC-1024x660.jpg"
         width: 1024
         height: 660
-  - title: "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites"
-    excerpt: "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ..."
-    publishedDateTime: 2020-02-06T02:09:00Z
-    webUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/"
-    ampWebUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
-    cdnAmpWebUrl: "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 57
-    images:
-      - url: "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452"
-        width: 800
-        height: 452
   - title: "YouTube tells controversial facial recognition company to stop collecting its user data"
     excerpt: "YouTube on Wednesday sent a cease and desist letter to Clearview AI demanding that the controversial company stop collecting faces from its videos and delete any data it has collected already."
     publishedDateTime: 2020-02-05T22:16:00Z
@@ -216,6 +215,6 @@ related:
       domain: nbcchicago.com
     quality: 19
 
-secured: "5Wdg7vOqEwvX5sOQFGlGuvqwK/Ynjulwchv58IeDQnfDpf7Mmu5T6MH7mZvhKrmcJe7XqFT31jkl9QLLfBnuVOh7wjJ+s1EPt5DRCPNm7alWpHZ34/mviWE/p0RuzgpLHloJ234zYX+OgSRq8QSMIUPQgDSc96XC8EKuhMs/HUV9/6VVK8CXzgRitpVzrysylmeEL7z63Ps5l5V4XKH3R/KoIcl3XWmRaHTRp/ztmjai2EAbZbFqsE4GpDU7z3B9rDZRoMnfQHvKetG+nGFfTrmKdc0cEVP4OZbb1dBZTUTTRcUIBMw1NMwMFWCMQAqa;Mp2TGHMoggnHOALy97qtWA=="
+secured: "t4awL9dPFN0MJpGJJBsK5AB+wlnVtdeEM52pzPu1S+tf1XPVQ3w0s36AaAi9BN9NY2zQWoUolUxBmGCLdVHkjl3JELDlVOfLpT7ZHtPuYidMNHtZab2GxHEFxArKMtoCgCb4asww+lGFG9alMknQNxs8ZoayElqfXSNsupQeqHxq/hdkuBvY9x3T2u0vTcR8yn9c072Me8vwR62HdDXjUJR0kM71wcfqoNmMkRZ4UAsMlY3v01040X16OFVWSMmc/TcaJUk3JJ+JFAVSRcXjKMz9DeIMytU2yR13t834VvICFaX+o3rKdT+pAdK4Khsk;qoC5dHIYeW6LeLU1tLNEwA=="
 ---
 
