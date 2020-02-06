@@ -41,6 +41,21 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/02/EBT-L-PITOLLI_72356810.jpg?w=1024&h=607"
         width: 1024
         height: 606
+  - title: "Self-driving shuttle to be part of East Bay city’s school auto classes"
+    excerpt: "East Bay school partners with country transportation agency, autonomous car maker to re-envision auto training program."
+    publishedDateTime: 2020-02-06T16:50:00Z
+    webUrl: "https://www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/"
+    ampWebUrl: "https://www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 44
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/EBT-L-PITOLLI_72356810-2.jpg?w=1024&h=607"
+        width: 1024
+        height: 606
   - title: "UPS, Waymo partner to start self-driving package pickup"
     excerpt: "In the Arizona pilot, the vehicle will drive autonomously with a Waymo-trained driver on board to monitor operations. UPS invests in technologies that bolster its tightly integrated smart global logistics network. Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone ..."
     publishedDateTime: 2020-02-06T03:22:00Z

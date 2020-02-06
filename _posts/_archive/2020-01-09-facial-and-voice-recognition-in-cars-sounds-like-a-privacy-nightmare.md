@@ -26,22 +26,16 @@ images:
     title: "Facial and voice recognition in cars sounds like a privacy nightmare"
 
 related:
-  - title: "What is Voice Recognition"
-    excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
-    publishedDateTime: 2020-01-11T11:41:00Z
-    webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
-    ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
-    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "Meticulous Research- a leading global market research company published a research report titled \"Speech and Voice Recognition Market by Type (Speech and Voice Recognition), End User (Automotive, Healthcare, BFSI, Education, Legal), Technology (Artificial Intelligence and Non-Artificial Intelligence), and Geography- Global Forecast to 2025\"."
+    publishedDateTime: 2020-01-16T03:46:00Z
+    webUrl: "https://www.openpr.com/news/1921571/speech-and-voice-recognition-market-is-expected-to-grow-at-a-cagr"
     type: article
     provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 44
-    images:
-      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
-        width: 600
-        height: 271
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "ocrcVJl6bI939z6yYEOaoeoUsQZhmHhhMLE0DpQfhJM4/zupW8ZpZ27g9e8uI8K4UMQLc+lakLLxE1hmuGzXPgfhB0Uh/kmW7D8o+3PNXVfNJtjbE+HK48oy/AN3giZZtyYCrWPfR9sjUFFqWSEExJdHVDZ9FN83SfIZcEwx1nyH1fhVsCW9mrfdvVNqy3jhGw8G2zlyMHFL3OyeOhVhc1ZRHTmyURPNRjQEFvOGaTUvmmxCRxrWL37OVhzM23SeQHQ3MrOEqS4CrHIqLj1ODEDxPnNaqirwdIs1rPGqAuZZU522OoD0tvtjUIn0ythC;rt9V2FoOR+Ir+Qi8XZskxg=="
+secured: "ZGdlqi3GkB8O3IUQQoK9jRnfNXIzckA4t+OdxYUxAdQ8Vk3K1NAw2xsbvI+Bc5j/6P+Id5cOzZNyjCQ08/tQAyY4wfTYWFoN3O1ib6wYM3cpU3BWzfmdcWMH3COjzFL0wlg/VNbnckilg7PRWmixZivi3Z/tqqbdmSY9OPxl1Qkpi2cN1x9JKDwq2bdqycHAUVRLmUcatusPthBPb0sjNgy60rlw5y2FwohUD7AX5I95JxO1qci8XpYin1t66p/vpQQy/tgbWQlTELAAzSlREfwNOrRsN7xhPe/y1/aljV4Aoczp5zHoEaHQi4mryuz2;Dk0ZzRkhjZoceGgY59nbPA=="
 ---
 

@@ -54,6 +54,21 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/02/EBT-L-PITOLLI_72356810.jpg?w=1024&h=607"
         width: 1024
         height: 606
+  - title: "Self-driving shuttle to be part of East Bay city’s school auto classes"
+    excerpt: "East Bay school partners with country transportation agency, autonomous car maker to re-envision auto training program."
+    publishedDateTime: 2020-02-06T16:50:00Z
+    webUrl: "https://www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/"
+    ampWebUrl: "https://www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 44
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/EBT-L-PITOLLI_72356810-2.jpg?w=1024&h=607"
+        width: 1024
+        height: 606
 
 secured: "Awf5kGfaDFHPo1BLeNRcoySmRzn4H0ESBS9yJtttrMV4AwptAQ8WE+ExaCDqkjC57z2Ubh69U/hht3rLDtASR5xp8EWuNsfuxUhFG6oPWT7uvgT6+jNngxpU7pR46veVI4xcLK2G/To90tTLDQJP0YSelFVjsC/VDqhP9LNf56jzNwSmjcEsiOgeBnizCoQTYjM0CIfunwHBB4n6KUa5Gwo4/MtmQH+7Truq9Y1KoSxLE2umKyTnSpfnSlXFRu9BPX+ybyNAEstT0FewAAF/O6c51DQ23sIgbR7tEUhwmiZDyPWDpqR+bp7dQkj//Q9uU/RC9uJM14p9NILwgV7HeRv37obaNQjWs1yhOR3p4WhXKexqd7xVdtN5PfZluVTMeH+n3axDEBGfgHCM1vsTsFutqnuO84uaP7v07GVmcZJ6etDE+cTs0jsvDZXL5T9twlqUPbXrgIBvP0p/w3ExavOeBJe473d45olKKukhS1k=;RdEjpirL+C38lKKGobSPRA=="
 ---

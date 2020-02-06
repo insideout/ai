@@ -41,6 +41,15 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/Cruise-Origin-in-SFs-Castro-District.jpg?quality=80&strip"
         width: 1920
         height: 1183
+  - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
+    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
+    publishedDateTime: 2020-01-24T17:57:00Z
+    webUrl: "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 34
   - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
     excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
     publishedDateTime: 2020-01-23T20:00:00Z

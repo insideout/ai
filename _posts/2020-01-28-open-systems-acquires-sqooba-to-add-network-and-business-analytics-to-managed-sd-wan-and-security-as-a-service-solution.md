@@ -17,19 +17,19 @@ topics:
   - AI
 
 related:
-  - title: "Varicent acquires Symon.AI to provide enhanced analytics to business users and data scientists"
-    excerpt: "He will continue with his teaching and research alongside his duties at Varicent. “In my work across myriad brands and businesses, the Symon.AI technology stood out and compelled me to become involved with Varicent,” said Dr. Joel Shapiro, Chief Analytics Officer for Varicent. “With this technology Varicent now has the opportunity to ..."
-    publishedDateTime: 2020-01-23T00:36:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/01/23/varicent-symon-ai/"
+  - title: "Cactus Communications announces acquisition of UNSILO, a Danish tech solutions company"
+    excerpt: "Cactus Communications, a global scientific communications company, announced that it has acquired UNSILO, a Denmark-based Artificial Intelligence (AI) and Natural Language Processing (NLP) company that specializes in text analytics, linguistics, and data science. UNSILO, co-founded by Mads Rydahl and Thomas Laursen, provides AI tools and ..."
+    publishedDateTime: 2020-01-28T11:36:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/cc-cca012720.php"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 27
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 16
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg"
-        width: 304
-        height: 430
+      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
+        width: 900
+        height: 300
 
 secured: "n1IiGpKoXpiyxjqaA12Py4OAqGSX4iqzLpeL9KuS5UWPEL2HPRBKUnVgH9/jbWCdwGTpM4ahXUILTsQU7lTxhix5yoKrjZomjJkx9Ew145bL7YxJ601cSkWjx2QcDb5H8M/Uh8uy37nQqyOCiGy3UFPlfsXnm4qNHVcixa8mUwjCNMKSaem9Jm8pYwN/JL1X5dde+er8LGtzLp9lnC8IHfMbsMQAYrcyVrbgtY/f9nkG4qKYpvpRqz1atuz7uGzPTJwr4Olp8CRpzvw5T2YGR7xqfYWzxknVkIzdS1H6FFQQf1XsU+bfVvJP5pDkjqy9;NkIpYkqUD89xc+MqO6tzMA=="
 ---

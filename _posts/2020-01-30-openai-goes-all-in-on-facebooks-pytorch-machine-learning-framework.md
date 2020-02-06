@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-te
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/"
 type: article
 quality: 223
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -31,6 +31,23 @@ images:
     height: 600
     title: "OpenAI goes all-in on Facebook’s Pytorch machine learning framework"
 
-secured: "BYfYGRFIqevcmWXmyD15+CRhnrMxG7nOLsXLLIvnzfMQlwyrR/ieyJV8H/ujgRnANMKqjyYDweByoWfZGO/ZKe04t1aDTLbgmFtEiDyJPImgnpv7/0J960zekq5QjPU5c1j4jPahJS7nCBJ9++IMHkUgXWzIJ7FAp6YbrFuCYFRmMIDsKpTdu7Zjs0qeBEG+cQ4XWBg2BeWcdqRsrrWrXcTMJ2+XZNFlEbgCCMfTgzZnuMeBQbQKBadN+jD89CXdrPKbah1MS9qUJ3xSG/TI48thKhMc1J5IkksnHE+ZKFdwrS3rgR/M3mxQuGrVHTmk/ojQboYKXHRjJVyAXbY0umDDDrwC5EKdurCIG6f0l0B/Pk62wzk3YlEuffltguj27PBVbFWsWYa/fFFnHirkwVO+QL6A+So1rreMe/nvCQDBb5SFQ3y6SxbLJu7BFbTVsNUv5kRlbm4UCItsD7j+0OkkAFFVsXpefjnkwE5cL5zLHfwptEStkOl5RSQ5rrWF;+Iiz4OXS03Ppc16VRgSNIw=="
+related:
+  - title: "Facebook launches 3D deep learning library for PyTorch"
+    excerpt: "Facebook AI Research (FAIR) today unveiled PyTorch3D, a library that enables researchers and developers to combine deep learning and 3D objects. As part of the release, Facebook is also open-sourcing Mesh R-CNN, a model introduced last year capable of rendering 3D objects from 2D shapes in images of interior spaces. PyTorch3D was inspired by ..."
+    publishedDateTime: 2020-02-06T17:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/"
+    ampWebUrl: "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/pytorch3D-1.png?fit=2472%2C1314&strip=all"
+        width: 2472
+        height: 1314
+
+secured: "JC1MubZEa9KGxbWCeYrb7RiiIriFHXITYkvxKRniNG1fbXlciIsaKaKBKimt9p7d8oHw3bEzBJTFFLEgyDlhkihbpX/6Q0kbBRt43ztdb3QxiNJmPl+PLDyBwJ7gA+wJ6z6TD69u7TbXwjLQiaVHZ+UXTm+earSvNUxM/wrrxD5xMm+a4zoWcceKvXcCw8cqTrkGHj1zjDYFbG1JXlQVX5Llgqs/ixxKiweDEAqiF2WlD6da4ho8DSEFUAmP2VeRzq/sjqWaNtPQdYiZUsJf5AxeUn37znSekikupQLBatufBNrZx3XqyuicTIn20Cuyj+32FVxVgbJWcqzWlzKVmRHX0AcMYMkin5c2o2dw+pnSpz4cEN5/n0uUgzFVXpAaxIunPdTcUbxNbcXxH/c+Fqba88zwYvjucvvonKaFkGOChZ4iJM/8hgzKXp7Q/o2riubLAlkBcjE0Fn9/mfStsuh3huu9O9wRrSZQP1jO8P3ayq8ks8AwEF0Qk+53uv4+;nvnas+3GViZ8YU8Dk6hIMg=="
 ---
 

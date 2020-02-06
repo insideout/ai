@@ -23,6 +23,17 @@ images:
     height: 600
     title: "Aptiv raises stakes on self-driving"
 
+related:
+  - title: "Link Tank: GM Startup Cruise Announces Self-Driving Vehicle"
+    excerpt: "Cruise, a startup acquired by General Motors, has announced a new self-driving vehicle that's unlike any car we've seen. \"This week, Cruise, the autonomous driving startup acquired by General Motors, announced its Origin, a self-driving vehicle that purports to be what comes next after the car. The Origin looks a bit like a large metal box on ..."
+    publishedDateTime: 2020-01-24T17:06:00Z
+    webUrl: "https://www.denofgeek.com/us/culture/285529/link-tank-gm-startup-cruise-announces-self-driving-vehicle"
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 4
+
 secured: "gQD7TR7VDX16dhuTem+NTuV+3drM1wIhQNn1V7SS4mWqCTzhU1eEOlfS3y3WXlyUkEQehiGmAlP1j+CrRswy5Jm3tpxhHd/f+hSumr6qYKmY7fokrxV1rEpxzPjDoWESVp9KdSjCXb7qADGqpcZZOlCFkzXob843jXjKtMhK+rCuk+77xo9bo0hYpuG3Uh7bVxKfNRG0LKa99zC+elW6cnOptVidxvo0xOoZJjaYFtv7LnqTt+9KEi8wfKBUBW5E7yoHzwtagxxyT7QFmbTq2GoiolIQE3SBIO6cKDQzo+o52LVzG14vLyqNTjCljazA8LZ3/O04I6cezOSWI5QarDb8t1p5iAxQsurXf817IlNg9KIEcU65It6CYLNF+MQiKp06kQqpu2UxG3TohoOtAn+sKqgwC35OyYLq9mGxf/JuAhvzxU8nQwagXiV4x6kouJCa4HjHa5jjw199tSf+V4OSW0fmWLCkX6A2RYEWq+w=;Nd9El1j5+O1tpX8XMPmujw=="
 ---
 

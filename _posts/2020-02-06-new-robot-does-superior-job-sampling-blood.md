@@ -23,6 +23,6 @@ images:
     height: 1158
     title: "New robot does superior job sampling blood"
 
-secured: "jqe37i1/dxu4SXkt0Gj6YkglRgR4WuoENzonWulbWxvaGi+qtNsOqDhDkIkOyG7G93yTLn+kD5DD2Vy4mleiu/Cgh8g+n9jo3N1KEaxj/V+ivBhTDQRN9WFOPhJnuDHxAN7f5Cxyum5jwyFCm8qHzj7DE6FukjR/HfRRafMKfuwCz128pWA6YlGBMYu5hhkmx+vB/TbwNjTdk2UFpZ6b0DWoFQESsTp9s7/r0B/1i+bCLx/uzr8iZHn6sFNnmwK8wkteDo1CZP3KgCq741pMsUmZ2169pcE/2UvF9kh6Z1/m6ZdJqX43AnohSAZw/SUC;MXEnGKMzQdZOTfX2nxmEoQ=="
+secured: "VAWViSvS2ngqagYYkzNTLhZOwqKcBM0MT2a2asP5SxTwDfUnRClGtVUZ2XxOiqqanfHYLLOyH2JnJgwc0htJM83+Gbaggw5O2qBNV+3E+nyoYn1KLWzjtM/zD7E6rsLYhJbwtyMcGHrHVfXFwlwcCVPsbsxXL35+M3/jZbf2Cg5MV4kt5vcVsWv+AmAN8k4ij7D1e2dfbx5LIYS847CYXVBuBDAVlUG/9LguIqH/EE14iyLt5bQ8xj+d5Cb+YZbZlhfrOPnk0A9QLmgmt+CPvmGywPLrtkV6riKAfaEl8K63dYUVjXTge5PflEm+W0uHcBOcUd9fBT7NFa6lRInHHBRoqJscvOkQwYbCam3sSJ1XLIE/5/NnXZFuUrTCp3m3EXhrQl8t8B/i6RvbHiZRPab1BGebxv+jIStpFjbGFlLSLigUpg9/lfsrAHr7yJ1WnM2Jxf9G8nJlkJt/mULIA8f7dPQKy86mznraktprQ5U=;VSHD42+GZqHSRVERKPuong=="
 ---
 

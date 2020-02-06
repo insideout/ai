@@ -56,6 +56,21 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C8A8/production/_110786315_ubergettyimages-605519896.jpg"
         width: 1024
         height: 576
+  - title: "Who Is Responsible In A Crash With A Self-Driving Car?"
+    excerpt: "It's not just the car manufacturers. It turns out that people take advantage of conservative self-driving cars to act more reckless."
+    publishedDateTime: 2020-02-06T17:06:00Z
+    webUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/"
+    ampWebUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale"
+        width: 711
+        height: 459
   - title: "Uber gets California DMV license to test self-driving cars on public roads"
     excerpt: "In May 2018, Uber announced it wouldn’t renew its permit to test self-driving vehicles in California, citing caution in the wake of a fatal accident involving one of its autonomous cars in Arizona. (The California Department of Motor Vehicles requires that companies apply to test autonomous cars in the state.) But in a bid to close the gap wi ..."
     publishedDateTime: 2020-02-05T17:00:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp"
 type: article
 quality: 157
-heat: 167
+heat: 168
 published: true
 
 provider:
@@ -39,6 +39,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "BCcaQVIjPoRUyZp5Mxj8FQ0V4jPvmCBKlSktOicDA+0mZB75RkCneCLKxchYFaVlE3KZCp247aWzrMYloRauSQDEZ6r95zELg5VSnEkn5dNOvZKI+bBR/vhgPdflIZKkp8Qimm8M4zaa6rHmayap83SNbDhyWQkRAG05Tk7BhErPIz5FCf5o84sL7eAHaHykgEMza3MQnHOIFL0u0cybVr+6W0Lnue9AaNC1fdrgnJcov60NMp3R6wNXz3Y+JkL+6CmOoKKcpR5TBF0prCRQ0j9TDOn0kQnPMBfpQHb/uFH+9r7+Fjz44LR3bpBw+Qpjr8PFz3MsTxUfY5u3PbDqzV0wSG3u4xLcwjc1KBjJ5VQBqCwbRp/uN8Re0+0f2ip6oLHRzezWx8ATNrO9JG12n5DJeh22Tvqj1MvB6y+UMbs0Uexm2LicYZ5ZNPsqEEwVEAAHjJslcTaWG5m8ZGdHlqSW7gT47hp9eUC2agp3KjB0kKJ8yCbh3e5zZ2I2IWFP;4v5LD0K6rFgXHQn2JptPZQ=="
+secured: "VgbwZau9WeASefw5NmOLEPjEwejc69XTd0HFbhhXFC9fwnMxmuB5asJxaSQCu4ds5Pio1o3fH4kT3ipEXi0Y0Bq+LQOivL3O8FDHi84sKhGWnbD6KZrcQKeM2KedipfK+y8phEgZdkljG1A9iQ7Yfb4DrJVU9Z/bu0+dixBmrrK46n1yH2sJ0Y4r6C2DWCYkAHNy8nnIJ9wHiYgs3L07tLG8DXKVJDuACALqql7HEkH9Bp5Pke68CSQP6HmQi5ZwZgMxGwmipWyy8rq0KQhsWoCcpB7keZitUwR08Go/5wR5LTKS0QVDToxalGD6+mhFIQu1h3qWX5l4Mn9jWi2Cl2H3JwXKSkVdJQoZ1gBbkMXJ2blnMfa6a7HpB4Rj+piA9iU6pEk/jBQDZAfr7ZxkI4QIdvA4moKu8sPUBJEzZ9YHxBjE2JBjWC9zrzteqS/qpXxhR1CSLPvfnoumF8McEIn66mvkmXPD8rXSUktZ1X0h5Ojb75dxF6lGtkCgfxKd;GLp3ST0AFRvsjmVccPWf8Q=="
 ---
 

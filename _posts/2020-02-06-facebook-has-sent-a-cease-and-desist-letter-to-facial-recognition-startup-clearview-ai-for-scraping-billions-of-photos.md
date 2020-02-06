@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Facebook has sent a cease-and-desist letter to facial recognition startup Clearview AI for scraping billions of photos"
-excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Facebook has become the latest major tech firm to send a cease-and-desist letter to facial recognition startup Clearview AI over unauthorized photo scraping. \"Scraping people's information violates our policies, which is why we've demanded ..."
-publishedDateTime: 2020-02-06T14:04:00Z
-webUrl: "https://www.insider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2"
-ampWebUrl: "https://www.insider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
-cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
+excerpt: "Facebook has demanded that Clearview stop accessing or using information from its platforms after it scraped billions of images without permission."
+publishedDateTime: 2020-02-06T17:10:00Z
+webUrl: "https://www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?op=1"
+ampWebUrl: "https://www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
 type: article
-quality: 50
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: insider
-  domain: insider.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://i.insider.com/5e3c1b323ac0c92bea152b11?width=1200&format=jpeg"
+  - url: "https://i.insider.com/5e3bff71d9db1d368665e4b5?width=1200&format=jpeg"
     width: 1200
     height: 600
     title: "Facebook has sent a cease-and-desist letter to facial recognition startup Clearview AI for scraping billions of photos"
@@ -297,6 +301,19 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 36
+  - title: "Venmo, YouTube and Twitter demand company stop ‘scraping’ photos for facial recognition work with police"
+    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part … This item is available in full to subscribers."
+    publishedDateTime: 2020-02-06T15:54:00Z
+    webUrl: "https://romesentinel.com/stories/venmo-youtube-and-twitter-demand-company-stop-scraping-photos-for-facial-recognition-work,91635"
+    type: article
+    provider:
+      name: Rome Sentinel
+      domain: romesentinel.com
+    quality: 22
+    images:
+      - url: "https://romesentinel.com/images/og-images/og-rome.png"
+        width: 600
+        height: 315
   - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
     excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
     publishedDateTime: 2020-02-04T23:36:00Z
@@ -325,6 +342,6 @@ related:
       domain: theiet.org
     quality: 4
 
-secured: "kFo6dweWYISKMG7Ybe/bfckYU64QYVln5nn20hjWhAI4zyWschch6C8CIgQSV/C8m7Lg8dOBjQ/xGwrU20ap7zzZ9hn2Pnxn1YGaYC7RS0xZLLhJjLVdNZgxNbfoopePCKNoT4X6DQTyhBmG8mmQ21HiOlrIw2CN14EsYbgh+jaq/MRwlyumoPpGMpu8/PnaesBcHPDNihFrK8UffmILWw7Sgtp4Cdk5lwa3gTNLONnL0BcwlTnm4uUsprLa+smXSYvNqsY++L6BzgswsrPKjkLmqRRgGibTJZyYlVMlCurUaVM/De3JpZsZEuDBeYKR3eCNhATw/jRp9s6s+C5oTzMRUD4Y6kGOHKaLw0XVf9XjIMII/vLCUzegifhLP6QxpUGjSTyOvFO2tFkNI2P2NloLuIxXe4d2jcZdXFIeNglAHWOPdDvA+2K68+cpWrgiDMY6JELhXViiaQ4OxzBtIWVNAJ007FS2YqwhgaoaxD8=;nKtIEo04ze2S9PQ0uCazLA=="
+secured: "YeMaAj1Kd4wEy9pV44jmbbYwmAZQtz0aIvx8MysTVCHfZ0crWy2tEWQafP4psH26WuumrVtR4vRwnIUrznWKXo5vEpc+Yk19ex1CcRJCkjj0LNQIJgkkJnEsvLqmDlltx7iR65PbeQMoo01GfvJCZEbEp8ToeyrU3fGIV7SOb2+qGc6erJfkaEZ6v4ZrRkXFoIWOmBCQjzZFmzKz27Ok3+m1tZbvm9uVZVjfsfnLF9CT5FbuJdvXZSHOsnm2f6Kqd9F481CBucZscOU08Z5nSCQNd2kLvfcvfF1LKEziYl1lTCFJqtskuUvuVCpumSPx;CaYBObQ7NUhMhhVQyxsOQQ=="
 ---
 

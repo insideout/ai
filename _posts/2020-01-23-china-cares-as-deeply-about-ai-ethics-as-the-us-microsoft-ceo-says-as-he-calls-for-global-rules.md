@@ -59,21 +59,6 @@ related:
       - url: "https://static.euronews.com/articles/stories/04/46/77/08/1000x563_cmsv2_4b54ef2d-a930-5c2b-8df2-fdd3463c9b63-4467708.jpg"
         width: 1000
         height: 563
-  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and ..."
-    publishedDateTime: 2020-01-20T12:27:00Z
-    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-    ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-        width: 1200
-        height: 628
   - title: "The Debate Over Regulating AI Ramps Up"
     excerpt: "In a letter in 2017 to Congress, David Kenny, at the time the senior vice president for Watson and cloud at IBM, wrote that the technology “does not support the fear-mongering commonly associated with the AI debate today. The real disaster would be abandoning or inhibiting cognitive technology before its full potential can be realized."
     publishedDateTime: 2020-01-27T14:16:00Z

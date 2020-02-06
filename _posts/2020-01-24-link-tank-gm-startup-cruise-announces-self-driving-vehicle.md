@@ -18,30 +18,19 @@ topics:
   - AI in Autos
 
 related:
-  - title: "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions"
-    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
-    publishedDateTime: 2020-01-23T00:12:00Z
-    webUrl: "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/"
-    ampWebUrl: "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/"
+  - title: "Aptiv raises stakes on self-driving"
+    excerpt: "LAS VEGAS — The throngs of technology enthusiasts have gone home. The elaborate displays in the convention center have been dismantled. The self-driving technology demonstrations have largely ceased. But weeks after CES, Aptiv's autonomous vehicles — with their signature orange hubcaps — remain a fixture on the Las Vegas Strip."
+    publishedDateTime: 2020-01-27T04:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/aptiv-raises-stakes-self-driving"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 73
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
     images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 500
-  - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
-    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
-    publishedDateTime: 2020-01-24T17:57:00Z
-    webUrl: "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 34
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/APTIVMAIN-MAIN_i.jpg"
+        width: 800
+        height: 600
 
 secured: "q+7Cb7Noj3TsSUWiv117F3A19FAG/XKNzudHrP6REIMbhx0eAA2ubYCc5ZXe77On8Uo07uSpkHqKiU7ju37rgWfL0ZmDZlczcxlWootd93zeI2cPRCd73gqe00X5MRe45H4A5yw4a2YmOK40VGRSUJTJdFiVlJk0X4b02qeNgxKbMWAug7vlmhXfztg3hHY0JCgpnQe4zHwNxZXfZ/N5vaij82yR21bslfprkCzhNkoFgq8+cBHe2iqjyPGMCZ3QpcR2QtVH7st1We/EjkRrhS1+jcFPdGDoUzY8o2N4pJoXK0MAMqEOLRmg4bYlS91BPjgIiots0w401OKxObsnWwum5bJ/zfKXvyX6yWZnzMpsjINTEjKwDTByR0YqZL24N+pd+1VBJghFHxAoU2fsdLzoq2JhodkNFhXh/P/AdJhrcTYcXD2BVguoIL9QybBXDczzgt4TG5vqzPDEV/BdKUExgIlWjl9zdMKQ3cRCijk=;Vhp5mvgPZDPH8PfvjW4/tA=="
 ---

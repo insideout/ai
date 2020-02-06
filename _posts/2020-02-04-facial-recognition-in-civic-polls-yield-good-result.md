@@ -198,6 +198,19 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+  - title: "Facial recognition company CEO speaks out"
+    excerpt: "Watch \"CEO of controversial facial recognition company speaks out about privacy concerns\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-02-06T17:07:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200206152942-ceo-of-controversial-facial-recognition-company-speaks-out-about-privacy-concerns/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 39
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/02/06/story_03953211_1581003003.jpg"
+        width: 480
+        height: 270
   - title: "N.J. lawmakers look at limiting cops’ use of controversial facial-recognition technology"
     excerpt: "New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill (A1210) in front of the the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
     publishedDateTime: 2020-02-04T00:13:00Z
@@ -239,6 +252,15 @@ related:
       - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
         width: 757
         height: 667
+  - title: "Tech company develops facial recognition camera for the STEM classroom"
+    excerpt: "An electronics company has developed an artificial intelligence (AI)-powered, facial recognition camera exclusively for the science, technology, engineering and mathematics (STEM) classroom. Dubbed HuskyLens, the camera developed by DFRobot is an easy-to-use camera designed to teach STEM students about facial biometrics and object recognition ..."
+    publishedDateTime: 2020-02-06T17:21:00Z
+    webUrl: "https://insights.globalspec.com/article/13468/tech-company-develops-facial-recognition-camera-for-the-stem-classroom"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "tVejS2UqABLzbPGnz9e5faksriDHPAdkvfslB6cPf86Z8O366GKt6o4wipIjrJTJMzo3gnlMY2bhSh9GmE1VPPQk0UCSkxtPREB47U8JzOqkbp0fTT1mGSm5GkixwtprBCUk7C/kus+PqZX6z8tAN24H+vqDCnnVc/v/0TzJubSUaVL8O3OugL6VTRYZkw4iuQHHXcFZogt4x1QyZH2lDXCF23Sd6zAJKU1FmuxgTl2pnB/y79fOX5E0fCV4vfWV0V8tv+pAwhiI+0/21gIlVj+VWgM3RAc+D1MARN8oVMJhS3SPi/I5wYlsQM4BLvjgnn2oxlFRRMiwtloVg2S5BuhINPrcSkeqFfkRGPwS2/2czXmeIYz+pp6ZkCgWANyrgvYAs6hLV7zFWgzoIKwnxv+93J31DJ7u+0xBYAg46Hy2RxyjJJHZ/RDqQ7yxU9s/3LoQeqdAHxhWGGE1EJbZhBIOiFwffPUn9NxkhpYnCv8=;V1Yp1bEwztDQnKOMj7iNsw=="
 ---

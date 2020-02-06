@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
 type: article
 quality: 72
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNBC
@@ -29,6 +29,23 @@ images:
     height: 1219
     title: "Self-driving cars take over CES: Here's how big tech is playing the market"
 
-secured: "j1Op5sEL17LjWfTjkHSHaqD971smoPEEKNsl4fzB03LhdUxi31nrcNzn58D7WvYjuMtQsUBAVLllm2QYTT+bS92RTP3heu2cwGLifiusXjcCTkZuQNLTbe82Eq98NidDsONM0VyuPkwPwtK7CKDxQY0o4l2BOpnqGVDGCLnP7oVovmz/A11OuZzi3BxLdalJl3jA876IBWpHt2JiN5q/zrpGVcrP9cg0fxMbIpYs8IuEnMCPoBeGVTdJ0w1PjfueOkuHrLIPCxYohJp6AKuS5LfM93vf2xYKHkdMpZC/RY61KwrfZRNfRY1b1knB41yk;Eeq7S2fcNcpper/VUawbPA=="
+related:
+  - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
+    excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical ..."
+    publishedDateTime: 2020-01-07T17:40:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg"
+        width: 1200
+        height: 729
+
+secured: "53M0+sEbemXv2iwg8+GE2GYDWT67Vi8O1Yp6dIqmoRQJudU8XYFqmrDR2aU1/1ffHnE6Xy1dc6gLslZ0KmY0PHanUYzyClOhYHGDDpMedNMqLjKmLEr+tYP8Efu4TrW441gEv4sK0qFx9t9JxFUSoh5D1L2j7J9yEEqgpaSEGTCNKwPa9va4IAfqWqFLnvXrdLLYuNPw4JqI0Wd4pnhc3mrVTA84snscSno213/i9Ie55H717kfFvMXZv15y0zzqHX3ylwlB/9m5TX83ZSBvgNffHkOWXIxwB+LAyhhx+j9UWAFTAmGbBnaPUJ/XniNt;b/nbhHOaa/g9sKoL1CkTMA=="
 ---
 

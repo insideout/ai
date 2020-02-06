@@ -39,6 +39,17 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C719%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C719%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-10%252F9251a820-f130-11e9-9df5-19d3f012f517%26client%3Da1acac3e1b3290917d92%26signature%3D569bb91dab0b6654f0fc0287924bc32aa29d22ba&client=amp-blogside-v2&signature=29c7441da69c3b0234a720e23f0815964826b843"
         width: 1200
         height: 630
+  - title: "Is Clearview AI’s facial recognition legal? We need to figure it out soon"
+    excerpt: "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information."
+    publishedDateTime: 2020-02-06T10:00:00Z
+    webUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/"
+    ampWebUrl: "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 68
   - title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
     excerpt: "FACIAL recognition technology is being used in an increasing number of airports around the world to speed up the time it takes for passengers to go through security. But it comes with growing concern over privacy as it's revealed photos of travellers could be stored for up to 75 years. Philadelphia International Airport (PHL) is the latest to ..."
     publishedDateTime: 2020-02-04T11:36:00Z

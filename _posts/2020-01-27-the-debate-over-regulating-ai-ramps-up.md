@@ -69,21 +69,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106350993-1579778704338rts2ziu5.jpg?v=1579779171"
         width: 3000
         height: 2000
-  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and ..."
-    publishedDateTime: 2020-01-20T12:27:00Z
-    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-    ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-        width: 1200
-        height: 628
   - title: "Artificial Intelligence Needs Private Markets for Regulation—Here’s Why"
     excerpt: "It seems the White House wants to ramp up America’s artificial intelligence (AI) dominance. Earlier this month, the U.S. Office of Management and Budget released its “Guidance for Regulation of Artificial Intelligence Applications,” for federal agencies to oversee AI’s development in a way that protects innovation without making the ..."
     publishedDateTime: 2020-01-23T10:30:00Z

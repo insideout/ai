@@ -22,29 +22,57 @@ topics:
   - AI in Autos
 
 related:
-  - title: "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions"
-    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
-    publishedDateTime: 2020-01-23T00:12:00Z
-    webUrl: "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/"
-    ampWebUrl: "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/"
+  - title: "GM Unveils New Self-Driving Car—But Will It Replace Uber?"
+    excerpt: "Origin is a new all-electric, self-driving vehicle. And it made its debut last week, when it was unveiled in San Francisco. This car-of-tomorrow—that’s happening today—was designed by GM, Cruise (a GM subsidiary) and Honda Motors. Think of the Origin like a driverless shuttle, basically a box with wheels. Did we also mention that Origin ..."
+    publishedDateTime: 2020-01-27T19:14:00Z
+    webUrl: "https://observer.com/2020/01/gm-cruise-origin-self-driving-car-uber/"
+    ampWebUrl: "https://observer.com/2020/01/gm-cruise-origin-self-driving-car-uber/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/gm-cruise-origin-self-driving-car-uber/amp/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 73
+      name: Observer
+      domain: observer.com
+    quality: 44
     images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 500
-  - title: "Link Tank: GM Startup Cruise Announces Self-Driving Vehicle"
-    excerpt: "Cruise, a startup acquired by General Motors, has announced a new self-driving vehicle that's unlike any car we've seen. \"This week, Cruise, the autonomous driving startup acquired by General Motors, announced its Origin, a self-driving vehicle that purports to be what comes next after the car. The Origin looks a bit like a large metal box on ..."
-    publishedDateTime: 2020-01-24T17:06:00Z
-    webUrl: "https://www.denofgeek.com/us/culture/285529/link-tank-gm-startup-cruise-announces-self-driving-vehicle"
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/Cruise-Origin-in-SFs-Castro-District.jpg?quality=80&strip"
+        width: 1920
+        height: 1183
+  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
+    excerpt: "(CNN) -- GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open."
+    publishedDateTime: 2020-01-30T09:53:00Z
+    webUrl: "https://www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.html"
+    ampWebUrl: "https://www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.amp.html"
+    cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.amp.html"
     type: article
     provider:
-      name: Den Of Geek
-      domain: denofgeek.com
+      name: CBS Atlanta
+      domain: cbs46.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/7/d5/7d505b47-b933-5dcc-9088-5a0c11dc44d1/5e28d08cb51ef.image.jpg?resize=1024%2C784"
+        width: 1024
+        height: 784
+  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
+    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
+    publishedDateTime: 2020-01-23T20:00:00Z
+    webUrl: "https://www.phillytrib.com/news/business/gm-and-honda-unveil-self-driving-car-with-no-steering/article_bc9927eb-6c14-58ce-bada-f62aa511e2e6.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/4/71/471d2f5f-2a7c-5ae5-86fd-e3ad2ed8cff4/5e29dd7ea6191.image.jpg?resize=823%2C630"
+        width: 823
+        height: 630
+  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
+    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel,"
+    publishedDateTime: 2020-01-24T14:50:00Z
+    webUrl: "https://fox2now.com/2020/01/24/gm-and-honda-unveil-self-driving-car-with-no-steering-wheel-or-pedals/"
+    type: article
+    provider:
+      name: Fox2Now St. Louis
+      domain: fox2now.com
     quality: 4
 
 secured: "WTrZmAjIlflGb293XrBtBggHvDHCyPe8dS+rxOD1yVjPOkzv8r3mKffhgKuvucyZqpqdwpILCG6tT+0dJFhsIY8IeiS18arTL3uSorty4B1eogVXs99ao8GKdGu77NvKSBUEZuHt8c72COfh88G40bYdCIww5D8pSWnPks7Y0JSGIdvLn7FgtuyId1PrPZ7EHuHplYI9ZugOtIHoR6jVf6NnHECr7re/d/ZMCyd/xoMnpF+V9bgZwaEW+oRVW7ZdTJB6oVWyHKhc6+8QDRu7csLfhqs7rSdgR4/XiRO5oRdf6GbsJc7vB8WfFr3NyAHJw9Kq94o69bcy5Km16q8CjR3XgdvLlU3ky9SGEdjDBJdSOFScX99lh7m5kPdl5fpsticHl/7HAEaXnKAXuUBlgxoMqb21l/YLGr1pExd3uNw4Xj7vTUMHAT/vLQFy2catXt4T3zQWEwwaQq6ZJJhrsphNOXEigbT6j6QcUR8U5i4=;MhkZsuMUtIj820QBmAIvAw=="
