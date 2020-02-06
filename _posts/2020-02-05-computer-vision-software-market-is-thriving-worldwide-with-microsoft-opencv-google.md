@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-05T08:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-is-thriving-worldwide-with-microsoft-opencv-google-2020-02-05"
 type: article
 quality: 62
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,6 +28,19 @@ images:
     title: "Computer Vision Software Market Is Thriving Worldwide with Microsoft, OpenCV, Google"
 
 related:
+  - title: "Cloud Natural Language Processing Market Is Booming Worldwide | Xerox, Google, Baidu, Amazon"
+    excerpt: "The Latest research study released by HTF MI \"Global Cloud Natural Language Processing Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,"
+    publishedDateTime: 2020-02-06T20:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Here’s How: Cloud Machine Learning Market is Booming Worldwide with Oracle, Google, IBM, Alibaba, Microsoft"
     excerpt: "Advance Market Analytics released the research report ofGlobal Cloud Machine Learning Market, offers a detailed overview of the factors influencing the global business scope. A detailed study accumulated to offerLatest insights about acute features of the Cloud Machine Learning market."
     publishedDateTime: 2020-01-31T15:56:00Z
@@ -41,28 +54,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Worldwide Smart Learning Industry Insights, 2019-2024 - Featuring Use Cases of Docebo, G-Cube, Saba Software, Cisco, IBM, and More"
-    excerpt: "The major factors driving the growth of the smart learning market include the proliferation of connected devices in the education sector, adoption of eLearning solutions, and growing use of Artificial Intelligence (AI) and Machine Learning (ML) in smart learning. Software segment to grow at the highest CAGR during the forecast period Based on ..."
-    publishedDateTime: 2020-02-05T20:10:00Z
-    webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/news/-worldwide-smart-learning-industry-insights-2019-2024-featuring-/2020/02/05/9092923.htm"
+  - title: "Conversational AI Market is Booming Worldwide | Oracle, SAP, Nuance"
+    excerpt: "A New Syndicate Global Conversational AI Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data. The study brings a perfect bridging between qualitative and statistical data of Conversational AI market."
+    publishedDateTime: 2020-02-06T10:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-ai-market-is-booming-worldwide-oracle-sap-nuance-2020-02-06"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-    images:
-      - url: "https://images.tmcnet.com/channels/call-center-scheduling/new/images/wp-right1.jpg"
-        width: 336
-        height: 280
-  - title: "Data Science and Machine Learning Service Market Is Thriving Worldwide with Mango Solutions, LatentView Analytics, Microsoft, Fico"
-    excerpt: "Latest released 2020 version of market study on Global Data Science and Machine Learning Service Market with 94+ market data Tables, Pie Chat, Graphs & Figures spread through Pages and easy to understand in depth analysis. \" Global Data Science and Machine Learning Service Market by Type (, Consulting & Management Solution), by End-Users ..."
-    publishedDateTime: 2020-02-06T07:23:00Z
-    webUrl: "https://www.openpr.com/news/1921056/data-science-and-machine-learning-service-market-is-thriving"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
 
 secured: "U83o+3kr6CtOmUnZBwwUxit3EtmpAF/tR9Mi6OyOLmcPXj4iU4lCuEXT3ipaI/gH+2wAzykMKCd8Namkk0LKGY/TKmGP1berjd8B+Fr3Nbs1PuWjQlgFsjkELOAFK4hoi2mGHtazk/OjYVVcuZ/JwIw15p1wzywibqxAM4H3eAUANuV8iAqxyxUG5xVp2Dp56FUpS/1F7Sl7ucPaSayj79ChhAtJNqeQ/M8ZjR7yiw15IL4C2YJMUx+Fb7HcvEhzou3JlKR/8xmoOFMABygAUWYNNX0WIHY/4Zj+0lbQzef+dB4DJZXLgfH587nVZLdi;17BCNtijRND037tkkCqa+Q=="
 ---

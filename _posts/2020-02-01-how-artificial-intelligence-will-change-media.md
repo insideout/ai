@@ -71,6 +71,15 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 37
+  - title: "How the “Artificial Intelligence of Things” Will Change the World as We Know It"
+    excerpt: "Alongside the growth of the IoT, artificial intelligence (AI) has emerged as the next technology phenomenon ... Where latency means inefficiency, and inefficiency costs money, voice interfaces must be built on the AIoT, not the cloud. Domestic healthcare is another sector that could benefit significantly from AIoT. AIoT-enabled devices ..."
+    publishedDateTime: 2020-02-06T21:33:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/iot/article/21122431/how-the-artificial-intelligence-of-things-will-change-the-world-as-we-know-it"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 15
 
 secured: "O3R2grbN9fU30dLl3pKWRbg6ONO1VLOG3se7MkS34WSq8IIA6fNh4AaiBnYigAwOBlBir+y1ZKlS6docCysZ9sHrXBBgJQdfBX9jUVpAlTwt5gRlYKSJL4Yp2PaFV4uxaig2tvmGI7MJJZQkFH3EMSMuM6JL+ypTaCIRkyy1QTTO6GZjSqqf8uJ+tN/FwxBAwVx7k4Uqc5nLTDBMQHY5uV09zIkXkFs3ej6x8MOAydNDfwTRm8Tn1mMUznXGWmQbhmCaCMJof9dadIRgU4rot+9NMN2lK37xthiQxHh3KBAi9QY3g7qQGa5jD+S63jNo;T2OHbG2j+vrGZkAmGSI59Q=="
 ---

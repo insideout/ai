@@ -917,17 +917,6 @@ related:
       name: Military.com
       domain: military.com
     quality: 37
-  - title: "Twitter tells facial-recognition trailblazer Cleaview AI to stop using the site’s photos"
-    excerpt: "Twitter sent a letter this week to the small startup company, Clearview AI, demanding that it stop taking photos and any other data from the social media website “for any reason” and delete any data that it previously collected, a Twitter spokeswoman said. The cease-and-desist letter, sent on Tuesday, accused Clearview of violating Twitter ..."
-    publishedDateTime: 2020-01-23T05:01:00Z
-    webUrl: "https://www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/"
-    ampWebUrl: "https://www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 30
   - title: "Data Protection Day: Privacy Commissioner Warns About Facial Recognition Tech"
     excerpt: "Facial recognition is the process by which a person can be identified or otherwise recognized from a digital image. Facial recognition is one form of biometric identification; others include fingerprints, voice recognition and retinal scans. Facial recognition is based on unique, measurable characteristics that can be used to verify or ..."
     publishedDateTime: 2020-01-28T15:21:00Z

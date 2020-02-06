@@ -99,6 +99,21 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg"
         width: 2880
         height: 1800
+  - title: "Facial Recognition Experts to Testify to House Committee"
+    excerpt: "(TNS)—A Congressional committee will hold a hearing Thursday on the Department of Homeland Security's use of facial recognition following a government report that found the technology often has difficulty accurately reading faces, based on race, gender and age -- which critics say could easily result in bias. The House Homeland Security ..."
+    publishedDateTime: 2020-02-06T21:56:00Z
+    webUrl: "https://www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html"
+    ampWebUrl: "https://www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_387869113.jpg"
+        width: 946
+        height: 630
   - title: "Facial recognition scanners at US airports under more scrutiny"
     excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
     publishedDateTime: 2020-02-03T23:58:00Z
@@ -174,6 +189,6 @@ related:
         width: 620
         height: 355
 
-secured: "9bYNYhUFwfgsoD8z0jP6gnl3AJHz9QemgWCqpysE9kIM1XNzY90pCfAaNVYwY3xH37Qk5qUHXqHvokB1k+HP0JgwZG/8po2rr6wIkxJEApgB9GJAe7b9at/haYvnhUkL69A4nyer8SyEpblMFYduZ1U3NIOZN8/Y+XBjdgjknp0WAnfmBnNcRGdD8beh9SvWa4h3CLJ7yrUdl8F09560JYIxpdgtkbDGIrOZgFwpujwaN5wStgXcxN45w4SL3wUOy4yHKuWtMNzO4mzWzWjn0YRmKTC5m6I6OA/GtMElxdwrxV1o3qrX69waRsYsZJZA;Tl9TTfqjBJvaOCIM2z9c0Q=="
+secured: "QwRc93S81mY2FZKHYaSa7wmE/IrqSTvaFPEm1M4rKg5W1gQC5+4ajDAf3Jzngjuu3WoTfSIna+PT3W51+R7v7BPvZ75EfFvF1+9oAigZ1V452YC1wNRizy4IvQ8z6IgruXv95hNqUwQ+PJPEM1fUnszwLcPqMjNs14P6seuYmQZrve0HEovJ53haWALtGSvN6HFJCOWLhQUgGgOpkw1sgXbWaPYykbwfCqsM8q+YP6OhN/diLYrMlR9nKbTHAq9p4al9kRy3oGqv1x3YbFe8LkRJ1LEmUrxnAf7Wegr1AkOf1uk9Xn0IHxBTkz2JzeAxwVn6aI5yImNpUiW+xLi5GZ0PZPMak9Cxbv138N1YVpp4NXCcLan3bXZeEDqVwN9NQHkZI/xIOm7h8x7iXZVayyXDlWZXDHfUVR6kp1RI9bfIGUPweJu4Etv9jXxhgG7CrU3baWLGturbgg/Lp+mGZKPLVdd95HVkLWNwqNAt+kA=;u1GFH17K2PVIzWwrzYQHqQ=="
 ---
 

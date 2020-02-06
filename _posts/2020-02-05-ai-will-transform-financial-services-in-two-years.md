@@ -50,6 +50,21 @@ related:
       - url: "https://media-eng.dhakatribune.com/uploads/2018/07/watermarked/bigstock-ai-artificial-intelligence-m-229617430-1530518085435.jpg"
         width: 600
         height: 315
+  - title: "Yseop Introduces Automated Report Generation Software to Assist Financial Service Providers with Digital Transformation Efforts"
+    excerpt: "The platform is primarily for financial service providers across around a hundred different projects and more ... The Augmented Analyst leverages an NLG engine, extended natural-language understanding (NLU) and machine learning (ML) to formulate conclusions from structured data and translates them into written reports. The platform also makes ..."
+    publishedDateTime: 2020-02-06T20:12:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 16
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Paris-France-Eiffel-Tower-300x300.jpeg"
+        width: 300
+        height: 300
 
 secured: "RVx95RjFmedmnSGtx2AzwW+JwkYTSaoXtuW/siyzJgnkhF2YuojxT4C6DHLehDHGgOqoNfivV2iNAFLQTYWYoywO/PXrzPdzJ/Ylyeg7enB8JUKol8ZN3VPMRMIYIN16sfD9MMLsKiOaCEZ2yShtT4OslSIuSh+NcM4kY+fOR39QlNgWVknbG26TKNLqXuhiSCIG6G0x6jQwlmjrUSK54/6DJymp2wiSZ7hr4QWSGkV2vmQK4xgVYr/C7xNsqmh2krWrZIimoydlXxYUXJzkQMSLo1stDj7GuCBW7Mj07DGyw0QyVjZe4PGiAJ52GNbX;a37poPd88tl2vRd1YETYTQ=="
 ---

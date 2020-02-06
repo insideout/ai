@@ -39,6 +39,21 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200205&t=2&i=1486174307&w=1200&r=LYNXMPEG1419I"
         width: 1200
         height: 800
+  - title: "Music by numbers? Robot conducts human orchestra"
+    excerpt: "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. “This work is a metaphor of the relations between humans and technology. Sometimes the android will get ..."
+    publishedDateTime: 2020-02-06T09:16:00Z
+    webUrl: "https://nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/"
+    ampWebUrl: "https://nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://thenypost.files.wordpress.com/2020/02/robot-homepage.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
   - title: "Music by numbers? Robot conducts human orchestra in Sharjah"
     excerpt: "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. \"This work is a metaphor of the relations between humans and technology. Sometimes the android will get ..."
     publishedDateTime: 2020-02-05T13:39:00Z

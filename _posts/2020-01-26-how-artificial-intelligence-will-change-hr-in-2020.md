@@ -69,6 +69,15 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/augin.jpg"
         width: 960
         height: 640
+  - title: "How the “Artificial Intelligence of Things” Will Change the World as We Know It"
+    excerpt: "Alongside the growth of the IoT, artificial intelligence (AI) has emerged as the next technology phenomenon ... Where latency means inefficiency, and inefficiency costs money, voice interfaces must be built on the AIoT, not the cloud. Domestic healthcare is another sector that could benefit significantly from AIoT. AIoT-enabled devices ..."
+    publishedDateTime: 2020-02-06T21:33:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/iot/article/21122431/how-the-artificial-intelligence-of-things-will-change-the-world-as-we-know-it"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 15
 
 secured: "s2qnMesoob4NKc9PsxuZBEx4h4aRSTUYB1h7RMKDZrORZVmqLABxCra/QelFPYdv6bl+4hA/sHFicC50kaCpCdh1y93fu5juIE8w9Pu38jRWPiNCD9W+Js14UqJDHyqdayuJxQTfmX210WxIY42BNbb8LD/DWy8JXPnXZTvTKvDJotsCNoE4gTWBIQxpoKxEhZVDhyZwHWhVmlWz7l9nGB15W+qAdg+4cULGXHOqiMTZkrXZTaHx4AT6Yz3U4UThJo8lrSWfH3311eIdbomBlaYvzMl7gGrUNgxdq6wmmRpZAov0ia7wGxPikAvYVBkVszu+/kByPYAQX+Ve+i/y6GLsZSzzu/6ZhCO6xeD/BBGjiHAgSCRtEqmTPB/87ZOYDQZV+IXxNpbJEVfiB3KFApYizikgOh5IVn0Y+SdkKbPLWhojrm0PDaXuXUIwuQRfkcdgukjDx19HLXKWAl7+btj+O9fdx3dSjA9oeE43DwQ=;HcXaoOyLpMutiMKP/UAXXw=="
 ---

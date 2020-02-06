@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/02/06/business/facial-recognition-schoo
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/02/06/business/facial-recognition-schools.amp.html"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -88,6 +88,21 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg"
         width: 2880
         height: 1800
+  - title: "Facial Recognition Experts to Testify to House Committee"
+    excerpt: "(TNS)—A Congressional committee will hold a hearing Thursday on the Department of Homeland Security's use of facial recognition following a government report that found the technology often has difficulty accurately reading faces, based on race, gender and age -- which critics say could easily result in bias. The House Homeland Security ..."
+    publishedDateTime: 2020-02-06T21:56:00Z
+    webUrl: "https://www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html"
+    ampWebUrl: "https://www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_387869113.jpg"
+        width: 946
+        height: 630
   - title: "Facial recognition scanners at US airports under more scrutiny"
     excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
     publishedDateTime: 2020-02-03T23:58:00Z
@@ -178,6 +193,6 @@ related:
         width: 620
         height: 355
 
-secured: "BziKWWbfcNavX/bJ4MeFS7VIBmqotU6eRRN4P5fZq4XSMAs308vB4L3v3v6hIx9ftnbSU/7HHI1R2vich4TsPJvtU8Dya+VHg9V8ReLl+Nf5URKKYHrljZCwBUabVWSqWlzbadLzrn07tIbzUBsiCyCFk4KrIESxhHb4ixdjS+0k5BAWXM+8on9wrEHPTN8fkTdHTitiXV7i0JMGufS1sBVi6bvcD9fegtYReo5LJdGToUqY0zY/dbGJi69UNMg4sdLtHe8M0Wz050pPB543gb4xRp5gHmAETobUBFl2B6a0q9vd8S0680gNvt8Kyshm;tuXXYrYJxowOA7rShPm0gw=="
+secured: "/pdlWiCUvl/5MJAKMvNfb8zx4CaU7D0MyJeKC6+g7g5CtYPvdKmCByedRpjnDedvAK2Wk/Hx/qcb3tcu7LKOd37H5zMbvUKu6g1DzHH4i3ZAOBZlXvvFQvzkiN9UU2nd+bT4585m8O0FlbLFLy235Yl1rnYILWLno7bvhOdWQUy7hLPZ7f2bXROw0/gGbvhVVwxRSqKW3BSCQjpe+f0aIde3rPCp1ABgQMr0SeqBEeS0DVbKAC6dLSxJEOEhkbmv9RfLNb7aETqQKmnd75k0hFGAuJiuth7N+oy7Qk85XCmWs22OC0InzpXcjPjpFQZCYKcP58Ns3EucMrxsiGIHPaDeMP6lVkXYuOqIt4l/7ue2EcoI6IXroLbjtUo75OlPydprLpbrTi4Tl/pRWz4A/Uxij3LC71aRerlXPO8poQOvFkrDGBmgS2esAD1kxxk/3mraYsGjqP6vUPjFE9jTS1L0WL/vZFMwXOAc4Tuih3M=;Ji/4YAcQb+iAL+H9NyUddw=="
 ---
 

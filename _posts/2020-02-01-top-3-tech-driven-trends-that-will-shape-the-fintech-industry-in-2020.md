@@ -41,19 +41,6 @@ related:
       - url: "https://i.insider.com/5de57a1efd9db2771d15a925?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
-  - title: "Fintech Trends for 2020"
-    excerpt: "Data/Predictive Analytics and AI Technologies: A branch of data science, Predictive/Data Analytics has been going to be critical for fintech companies that rely heavily on data to take decisions. Data / Predictive Analytics use a variety of data mining, computer science and artificial intelligence (AI) techniques - in addition to machine ..."
-    publishedDateTime: 2020-01-23T04:45:00Z
-    webUrl: "https://www.indiainfoline.com/article/general-editors-choice/fintech-trends-for-2020-120012300296_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 24
-    images:
-      - url: "https://www.indiainfoline.com/include/_mod/site/images/login_banner.jpg"
-        width: 540
-        height: 555
 
 secured: "bSMyW5Ts6LKNRAJpI4hN8j4wXEZhTOt0tIj9/pJLgVSL42HqA0tXMwZoN7fzkehRXEo15fhemmN1IJKIb9XQo05PWRcxYX/vN7Gs7QZpqozyMqLxcslHwPGR4A49IofgbW17Rl2e5oRfQL4tsqJMBZI0Pndp94RIdNDNoFFD0GMnk6ljSAuPnpQhOEvx63RG5UhAknM3wzr1txWDd3linm6z/wW1zzzLteNnNhraEp7+aQLM3nbmaVgQKq3OP48o95FStL9hGPnBdgXWeUk5W/6Z0gN3jfRs633lmYt6SwG7kZN3DvwhZjFL7sgm5YaNaa9YcnU8n+w9D4Q7H2yiXJH6VKlCXHRpf3ELqU7PJsuGT34EhvKsgCF88EIvJZOrDEf8LEZe82btwux2DcF/s67fY4zF9tmjeAHawdRDGRPgXu7jAXTY1ZZyhiucAqANCe6e5XarentI/NuVQALVMZ3mILMUMtZrdfhkrNnoaUc=;51b8TbEZzac7kbA4s6Fo1A=="
 ---

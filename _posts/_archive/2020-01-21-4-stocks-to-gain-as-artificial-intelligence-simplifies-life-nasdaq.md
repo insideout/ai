@@ -25,6 +25,6 @@ images:
     height: 512
     title: "4 Stocks to Gain as Artificial Intelligence Simplifies Life | Nasdaq"
 
-secured: "2PTP7nOWMWdEdvl8WlhbCdmMVOt0eFf4J7M2suNmVTYQt6DUSxrXRvKYIKNx1vykf5bUGUyzmnK+9a5geRH+gAt33OGm6jiUzlszqDMsKmUuc1mcD+W5zyZSbAy8lrkAzfA6AOg72otaNtjLujg0I6MMFwJrLeuXx+NqwH19iVzmDn0JdtoH4Nmlm4M42w1z4cs6ocSaZKDo79KAXgtGvnP3p+md5K6s1IbNsmikmv23RQFQQgK9AXb3R7GBwQ4PdeNzDb01rM+lyqln8s3sz3mNEhYX5mlAPxtepqkSAop/DKNZh0r63h+/OCykz6Fx;TCmFQDcjFKbUImwq7VZZYQ=="
+secured: "g1QLxGhKrZCEx272oL22f1rSLq5Cn4nXY8L62wjrR8KdHh1kS9fJi355YIb2rFmXWGrAD60dOJ32viaF+Rim2VrvirerLE5r1G8jlRLQSaDI6Y70u/qnxXLy7cOj7SG1JXMuYCmKfhaICTKNSWWn8wllHZ/QGYoKXvnqC3thXkZ+5+cwLRh2phd7KYwllVsbddDa7YNcHbJ2qtL9o51USVqrowbdTgdpIFBM43RJKF46EmEh/CPUOuAQYXwrf80gjSc2SAgbB1J4ILHaAirWUmK5GkAut2znCz2YgQ2hQ4QAJIM83TNge0dbSPQs2d+a;Thdc6YOvK/w1Dbz1tqktjw=="
 ---
 

@@ -125,6 +125,21 @@ related:
       - url: "https://www.news-journalonline.com/storyimage/LK/20200203/NEWS/200209522/EP/1/1/EP-200209522.jpg?MaxW=600&MaxH=600"
         width: 361
         height: 483
+  - title: "Activists launch new effort to kick facial recognition out of schools"
+    excerpt: "A digital and civil rights group is asking for people to sign a petition telling Congress to pass a law that bars the use of facial recognition technology in public schools. Demand Progress launched the petition earlier this week. In it, people have the option to tell Congress to “pass legislation to ban facial recognition technology in ..."
+    publishedDateTime: 2020-02-06T20:21:00Z
+    webUrl: "https://www.dailydot.com/layer8/facial-recognition-schools-petition/"
+    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-schools-petition/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-schools-petition/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Schools-1024x512.jpg"
+        width: 1024
+        height: 512
   - title: "Facial recognition in civic polls yield good result"
     excerpt: "The Telangana State Election Commission has come out with the results of the “Facial Recognition” trials it conducted during the recently held civic body elections. According to the data released, the tests have yielded an accuracy of 80 per cent meaning that eight in every 10 people were correctly recognised by the application used on a ..."
     publishedDateTime: 2020-02-04T13:23:00Z
