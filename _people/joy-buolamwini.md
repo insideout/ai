@@ -22,6 +22,9 @@ linkedin:
 topics:
   - AI
 
+tags:
+  - Artist
+
 images:
   - url: https://specials-images.forbesimg.com/imageserve/5be5a3e84bbe6f78bda77c93/416x416.jpg?background=000000&cropX1=0&cropX2=3600&cropY1=742&cropY2=4342
     width: 416

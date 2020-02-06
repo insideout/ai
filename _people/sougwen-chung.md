@@ -5,7 +5,7 @@ location: New York, New York
 type: "profile"
 heat: 7951
 
-website: https://t.co/i6GST4gI6n
+website: https://sougwen.com/
 
 twitter:
   username: sougwen
@@ -18,6 +18,9 @@ linkedin:
 topics:
   - AI
   - AI in Robotics
+
+tags:
+  - Artist
 
 images:
   - url: https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png
