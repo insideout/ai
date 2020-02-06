@@ -54,21 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "HCL Technologies unveils a dedicated Microsoft Business Unit"
-    excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, loT, and Al/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
-    publishedDateTime: 2020-01-22T09:20:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 59
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2019-09/17/full/hcl-technologies-1568695467-04161350.jpg"
-        width: 350
-        height: 233
   - title: "Microsoft And Genesys Expand Azure Partnership"
     excerpt: "“By running the Genesys customer experience solution on this dependable cloud environment, enterprises will be able to maximize their investment in Microsoft Azure through simplified management and maintenance requirements, centralized IT expertise, reduced costs, and more.” Through cloud and artificial intelligence (AI), enterprise ..."
     publishedDateTime: 2020-01-23T20:15:00Z
@@ -114,6 +99,6 @@ related:
       domain: pymnts.com
     quality: 34
 
-secured: "zgSTMexzfyxlIujyTdvcvWB49I/uDJYg5a65+ovzFLN8/X/d5s4OqlEg5eFNUziG/AlDZ7O0JMkWl3oQPRyrXHdfRQipZuNxVsvBUeHSZZJ1QbgPYewbKL9REqqgBsTjaorAU9LxUfEWec858/Pf4KhdihxByDZ8cbUPAzQlibz/fBRPo5qpisJHLq2FzI+UZnvDoP9nZ2rhFJf74cH1+dGXKLkXMm5/BMLePUOblUxF42+2/85nWlWPbH9CxOgmGNjXBpCmSx7LZ6eN7i8Q+0RAcdrfSTkUNsqVxZhQn+cT1cSz4SNV0OIyVtRWFAQx;Q08dE/6F0bpLpkXyr3bgUg=="
+secured: "hdohdM0/wyglc6QKQpwBcN6AuV5cEbLECOGV5l8h37s5TV00BuBzmjLtlTo7QWO0CCl8ZBEb0b600+TXlrBPTuDi1pJtvBjjEGUe4tCwA1AXc90MP5e28q6cUt4MX0vtbGWMFzaFio/UAgAX4oCL9q6TOFsggeaxLpWqtSiZCC7QKqFXlEYTOO+H5HIBrfs45oXXkV51l7cT97lfKCcez6IgiuC9FzYieETU6ajxaRZ93uoziYAeiA9yDCm2dNptyQRQZ15PXtGgQmY+Y1g/xQg2DIHZ3WIdz17ZXdl/GljyMhOonMBZo9wf1FuSW4RO;wek+pAOAUaOXy/iB9+bo+A=="
 ---
 

@@ -20,16 +20,20 @@ topics:
 related:
   - title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
     excerpt: "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ..."
-    publishedDateTime: 2020-01-14T14:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/germany-s-bundesliga-to-use-amazon-web-services-artificial-intelligence-1028816437"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
+    publishedDateTime: 2020-01-14T14:41:00Z
+    webUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14"
+    ampWebUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 103
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?2134454660"
+        width: 1024
+        height: 512
 
-secured: "HRQxRNvBhoaB25UNtqb+kfOYeewUr8MYrEwfk0SH157fUuX1OArnM/RExiQ4Gk13XewiTVlAE65O4jMqeseS7GgkPvoxZVL9Rk15RjF7TYY0Xi1rMoEL3v0y1KVG/relfovwx6izTxZY/Wztsjd2AeaDqBlVlcCx7ITMZtALtUtLFLZav527B7t+wEAuhSfq+XyGm+bhTW6sanJBjZxnSK8UoVGg5GB6pf8w65U3cbtbY2rkbrXSjKV+coNfZWYCfRk3HK2qOqikQGANCHI6ccgk2XZapfmiPv9Etrs+mJ6jgAfwEZ31qvyPWIODgmtg;x491gl5rsEvdCER8gUAVeQ=="
+secured: "BfYfjsWATU16RJ6F/9jLiFr5d9jPc88ba+1YgkIpeGX+HAlE7nGto2IPZs8ULYPwH1aW5bSlqmeX8yEHv9Di3cn4AsawH8UoEQLgRFEvp2K3MsEgkVUNt9x0u4uWUdEgi3zyT0Lpj3vPBRwDxet+4FghRryonlFWy5KaQY7uFwNDVVg3yYm/IowfxUMo753egop1BTQKU0meoq7cF980fj3BqtxZ3QGpCIpJ/akw9n+LKNys+BFtIthrK26NWwPeOO8E67Vhq3rD4tkyQuycKLUKiJweT/W24f9zSkbbc0kMDY5K36JxX+TCs4p1HF44;szgRA6Fg0m/RMFiAj93D5A=="
 ---
 

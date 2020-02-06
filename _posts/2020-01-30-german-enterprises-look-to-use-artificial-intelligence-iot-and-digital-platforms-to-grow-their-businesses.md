@@ -42,19 +42,6 @@ related:
       - url: "https://www.cmswire.com/~/media/1af3c6955eb1491ca36cb0eb3976fa6e.png?mw=1024&hash=331E78DE0352727AD7CBAEEE947E2EA7447D2960"
         width: 640
         height: 480
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
-    publishedDateTime: 2020-02-03T13:44:00Z
-    webUrl: "https://www.biztechafrica.com/article/microsoft-and-genesys-expand-partnership-help-ente/15418/"
-    type: article
-    provider:
-      name: BiztechAfrica
-      domain: biztechafrica.com
-    quality: 30
-    images:
-      - url: "https://www.biztechafrica.com/media/images/stories/microsoft_wDjNDZP.jpg"
-        width: 410
-        height: 270
   - title: "Information Services Group, Inc.: German Enterprises Look to Use Artificial Intelligence, IoT and Digital Platforms to Grow Their Businesses"
     excerpt: "\"CEOs and chief digital officers must understand that artificial intelligence, the Internet of Things, digital platforms, open source and workplace experience tools have a high influence on an enterprise's agility, costs and productivity,\" said Johanna von Geyr, partner, ISG DACH. \"German businesses are using these technologies to improve the ..."
     publishedDateTime: 2020-01-30T09:07:00Z

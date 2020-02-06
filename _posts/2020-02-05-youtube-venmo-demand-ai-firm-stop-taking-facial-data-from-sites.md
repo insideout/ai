@@ -138,6 +138,21 @@ related:
       - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
         width: 1280
         height: 720
+  - title: "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites"
+    excerpt: "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ..."
+    publishedDateTime: 2020-02-06T02:09:00Z
+    webUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/"
+    ampWebUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
+    cdnAmpWebUrl: "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 57
+    images:
+      - url: "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452"
+        width: 800
+        height: 452
   - title: "YouTube tells controversial facial recognition company to stop collecting its user data"
     excerpt: "YouTube on Wednesday sent a cease and desist letter to Clearview AI demanding that the controversial company stop collecting faces from its videos and delete any data it has collected already."
     publishedDateTime: 2020-02-05T22:16:00Z
@@ -200,6 +215,6 @@ related:
       domain: nbcchicago.com
     quality: 19
 
-secured: "z5kAZMRQr2/IBLzvFzn6T4BCp+Dt3ddLHdo53twEj3wIY3CbwqEqzqWFWjQMLP5Sp0m/CaXsoVNxdPxmN7kmX6ABPw16bXzEbCW+KIQK4T2fBebM1qaCoiXCaSvHJLlXilRdPy1coWLLQObVgcseofxdEiWNIVZGY7ljt+kS87cNr8ApBzh7fuZj+ez53nF9qkZMzlKJiXkv9jawUqxjaAVFCEvGc1afeTKKMKP1eB6zHP7ZvJw/K4s33ogqwwksxh5IKNPkUUal683TpXyak73tbzPGEr8bTCMdr5mVtnixc9FEjUdD5IhYGNtzjd23;R+rWYGeZVSv6XLQeGi+jrg=="
+secured: "bivzfG62laBHt504PuJOU6a5N7ioYCfZJmMUGRC+s+aLrYj0PW6Gku46K4B0SFXaR0Vrb/plvgUz0nN4gyMkLnrDPlDudwMlx0qGUoojtmGCVk4YbsYglboOjXEK5wW25Jvk+lVsgX6oi5vxV/iGgAd8YBzUcI4NshTXoDYaPFTLVG0SB0/VeBYk+RoTXq48rCGOLxRi2YLsVyDs7BuiGs70BcCcfoyBl4rKwTQT2QqIEW03wFXnSYvvKKB8MvuID8nDXAqynpKZD70jI8HHzeqJXBhdMw4UxwUycrdVE4zx5KISs2saJfcCEQYIUzY0KtnVJejaxXJD57NtCZkdwE1AH0t7HnElDXdr3pFEIV3ojdNg7ZLEyqt4EWmKW+Axh7zgNWhH4iCxSdOslST9WoEfrHq59GGcSkwlTNSp0bRUjBRGSUE5JFt3WSPdH72SXRqRPyfsa7z6qeQmthX5iEPJF9wdtdeZ1He8ZLtGZUA=;L8IqaOqSlH0OctcfHu5aUQ=="
 ---
 

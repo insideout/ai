@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-l
 cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     height: 365
     title: "New AI-based technique can spot low-glucose levels without fingerprick test"
 
-secured: "TpH9cdN+4M/ZcDNG7HNBgh1kTStzISwdSnn2ednNTjBoBwrnJyF1FdwQ2zLASZg+QG3O+ta35rG3V+3AUCtJjNv43XT7/FbGDqgeqmOvyrrEgsp2YLMGQnI2PLlpbOeWHV6oPDCoD2cgoMCn36P0STHLoir9y/oQlT/RiJuRiVBo7baZGpPFBNzVaioz+NUzsa8xsRPOq146cDQmYDlWl9d3tBLb20yBxj5ETZhq9N09b7isXuUyUfAE+ZpGAdZb4prZjzzOsJEXW2+UshgJN0n3MTwWb7vpcFvWnaAbiXVqxePUcew4kHeilyz3+eSN;R6WwZxl6bBtjo87h0HUSqQ=="
+related:
+  - title: "AI can detect low-glucose levels via ECG without fingerpick test"
+    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
+    publishedDateTime: 2020-01-14T02:17:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    type: article
+    provider:
+      name: ETHealthworld.com
+      domain: indiatimes.com
+    quality: 39
+
+secured: "7DHoOEh29xcmkTGEuRNWTxGM2fFENS6ny25CXICfxllisIDQtnBrJpP0PIFEMxNLg3bjy0DX7WTXd0RVQnAuC5WW/DYiADK9aB5CqO+jsumtWTvAKAlA2lyZTi+OP+dyey9dko9REeqHfIO7Y7vDVYqVsSZFyMgduvVxRuj9ZY1NYKisvgUQqe3iscSGXqisn05SCx0/0em+tE6rZMb5fwtV+3gpO2QiomNkUzKxuBcZxkrU+5tcaIkxmLpLMIFdPqcrYxyctINGJ+BSURk2iAbwE/iTp7V/2mJzQHY0QY7LnQVAvGYahDcbbnodeBuI;Sv92c3Kr9P6jLMBKYr9Tig=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-begi
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -31,19 +31,6 @@ images:
     title: "Investing in AI: A Beginner's Guide"
 
 related:
-  - title: "Dialing Into AI in 2020: Why Investing Now is Key"
-    excerpt: "Autonomous vehicles, robot performed surgeries, even understanding human sentiment is not far ... AI in the Palm of Your Hand Apple’s $200 million acquisition of Xnor.ai, a Seattle startup specializing in low-power, edge-based artificial intelligence tools, is the most recent of many investments across the industry to indicate AI will ..."
-    publishedDateTime: 2020-01-22T09:46:00Z
-    webUrl: "https://www.geekwire.com/sponsor-post/dialing-ai-2020-investing-now-key/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 69
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/01/630px-wide.jpg"
-        width: 630
-        height: 500
   - title: "How to invest in artificial intelligence"
     excerpt: "The next big thing is artificial intelligence, or AI, professional stock pickers say ... “AI applications can be found in virtually every industry today, from marketing to health care to finance,” Xiaomin Mou, IFC’s senior investment officer, wrote in a report. It's paving the road to driverless cars, making decisions such as what ..."
     publishedDateTime: 2020-01-27T11:11:00Z

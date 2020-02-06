@@ -152,6 +152,21 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/09/2019-09-04T134827Z_154642363_RC1C71B03BD0_RTRMADP_3_GOOGLE-FTC-1024x660.jpg"
         width: 1024
         height: 660
+  - title: "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites"
+    excerpt: "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ..."
+    publishedDateTime: 2020-02-06T02:09:00Z
+    webUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/"
+    ampWebUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
+    cdnAmpWebUrl: "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 57
+    images:
+      - url: "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452"
+        width: 800
+        height: 452
   - title: "YouTube tells controversial facial recognition company to stop collecting its user data"
     excerpt: "YouTube on Wednesday sent a cease and desist letter to Clearview AI demanding that the controversial company stop collecting faces from its videos and delete any data it has collected already."
     publishedDateTime: 2020-02-05T22:16:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-reportedly-looking
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "Clearview AI reportedly looking to expand globally"
 
 related:
-  - title: "Microsoft looks to expand into AI as cloud computing drives Q2 results"
-    excerpt: "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ..."
-    publishedDateTime: 2020-02-03T20:07:00Z
-    webUrl: "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316"
-    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 74
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg"
-        width: 620
-        height: 250
   - title: "YouTube, Venmo tell Clearview AI to stop scraping sites"
     excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does routinely as part of its work with police. Venmo said Wednesday that it is sending a cease-and-desist letter to New York’s Clearview AI. The small firm ..."
     publishedDateTime: 2020-02-05T23:52:00Z
@@ -56,6 +41,6 @@ related:
       domain: sfchronicle.com
     quality: 37
 
-secured: "AU8jdWXXkinu2xFDeWipq6R5QMUYFNRZuoPWJi2Thiw8DO/uizxfpKG/2y6th2yuPKSQ1dEYbLA8ZYsbf8Di5RC3FkqAFbymKbdSquTGsUHmYeAoZnYLWlSYg2jFSyyBYtsPltsFK7WVcTShMxVzpEdAK/mI9oJwlB7aMFuRb/BxSUbJa2rR/xwusXxSnvVrYXarZA4R7ShGfHAzqB+L7G7c/NtQIfI2qnm6sB/7fFvggelzOR9dLb2yBcey8P3VnIChY7V/a6/UaxFXR8Yj1AtrwHvMEU+bU7c53afJW+QDZrWG2YZsb+qQwpFF8auv;P3O+TORbjEJsNrhUPhzZPA=="
+secured: "clCjuIxiMHS6jfLRQfqAYqCVwe03cCsGtB4pfe3ENAglNLWUAeENejqXtbFEsFBdpwy51Aq8gxhdrV+H10y6gtpB6XIh9abc7gkMuPC2UTDS4Gm7RGh6g+FB20Cu8Sf9juDET0pRMyoGAZ/xWJ7pshmu+9ONbSchqvz4duqWLdFliFWOyeVsFoUOunXEJEAgTRzp4WvZG3hQNX3aXdJbmtEN8i1yY7Qtl5xjQF8Qx62XiR+tmHb7SN3Se8XzYSmGQYrVGS5vZ/AfO3zJjEjmRj69K73L0wtXGSEgWk/yJ/TAKKN4etJxpn38UcIKHXZFf8Vf2IrX6wg6TD3JIaQH6ixREq+xfLygKHT/+aPd1K/BUKhDOto3J1h+qehanDmHcI26RF1MbMPi3pVAOg0krlbcoPK+tyMazDSEetu8TTmZlRkv4XaOpsUkBZfRJ6XCfQdqVTI3Wl6Irrivp3HWjlJ3Uw+WiRYsJi0NTYiNeEY=;PK6dr3X9m2pJFqq3v3uQNg=="
 ---
 

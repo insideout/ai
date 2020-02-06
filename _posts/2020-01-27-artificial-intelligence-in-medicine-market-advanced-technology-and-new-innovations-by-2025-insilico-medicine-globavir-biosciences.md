@@ -18,23 +18,10 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook"
-    excerpt: "The Global AI Technology Market Research Report Forecast 2020-2023 is a valuable source of insightful data for business strategists. It provides the AI Technology overview with growth analysis and historical & futuristic cost,"
-    publishedDateTime: 2020-01-22T09:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook-2020-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Autonomous Vehicles Market (2020-26) Outlook with Industry Trends by Top Players Alphabet, Audi, Baidu Jaguar, BMW"
-    excerpt: "Jan 24, 2020 (AmericaNewsHour) -- Global Autonomous Vehicles Market reports provide CAGR Value 2020-2026 and analysis of Top Players, Geography, End users, Applications, Competitor analysis, Sales ..."
-    publishedDateTime: 2020-01-24T01:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-2020-26-outlook-with-industry-trends-by-top-players-alphabet-audi-baidu-jaguar-bmw-2020-01-24?dist=bigcharts"
+  - title: "Artificial Intelligence in Telecommunication Market : Advance Technology Research and Innovation in Technology"
+    excerpt: "Artificial intelligence (AI) is group of methodology that focus on formation of intelligent machines with the help of human intelligence such as visual perception, speech recognition, decision-making,"
+    publishedDateTime: 2020-01-27T03:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-advance-technology-research-and-innovation-in-technology-2020-01-26"
     type: article
     provider:
       name: MarketWatch
@@ -44,19 +31,77 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market (PDF Report) 2020 – Leading Players IBM Corporation, Intel Corporation, Google"
-    excerpt: "New York City, NY: Jan 28, 2020 – Published via (Wired Release) – The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for ..."
-    publishedDateTime: 2020-01-28T07:41:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2020-01-28/artificial-intelligence-in-healthcare-market-pdf-report-2020-leading-players-ibm-corporation-in"
+  - title: "Artificial Intelligence to Make Significant Transformation to Medical Technology in 2020 and Beyond"
+    excerpt: "Artificial Intelligence has been in development for decades already; however, it is only in last couple of years that we saw significant improvements, and what else can benefit from this technological advancement but one of the most critical factors in human development – Healthcare."
+    publishedDateTime: 2020-01-28T00:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15194678/artificial-intelligence-to-make-significant-transformation-to-medical-technology-in-2020-and-beyo"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15194678"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15194678"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 11
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
     images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+      - url: "https://www.abnewswire.com/uploads/1580155563.jpeg"
+        width: 858
+        height: 578
+  - title: "Social Trading Applications On Fintech Technology"
+    excerpt: "What Is Next For Social Trading And The Business Sector? Though the future of social trading remains vastly unclear at this time, 2020 is set to be a big year for social trading and fintech technology in general. With the implementation of AI in a number of different fintech businesses, there is potential to increase customer service through an ..."
+    publishedDateTime: 2020-01-28T10:11:00Z
+    webUrl: "https://www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/social-trading-applications-on-fintech-technology.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
+    images:
+      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/01/Analytics-data.jpg"
+        width: 1920
+        height: 1080
+  - title: "How machine learning could advance solar power technology"
+    excerpt: "This experimentation is the key to creating a healthy proposition for machine learning to become a part of renewable energy. At the University of Central Florida, a number of researchers are focusing on perovskite solar panels. Featuring a combination of inorganic and organic factors, this set has seen up to 28 per cent in increased efficiency ..."
+    publishedDateTime: 2020-01-28T04:29:00Z
+    webUrl: "https://www.energymatters.com.au/renewable-news/how-machine-learning-could-advance-solar-power-technology/"
+    type: article
+    provider:
+      name: Energy Matters
+      domain: energymatters.com.au
+    quality: 39
+    images:
+      - url: "https://www.energymatters.com.au/wp-content/uploads/2020/01/678583375.jpg"
+        width: 1000
+        height: 667
+  - title: "Artificial Intelligence in Medical Imaging 2020 Global Market – Innovation, Technologies, Applications, Verticals, Strategies & Forecasts"
+    excerpt: "“Artificial Intelligence in Medical Imaging Market” WiseGuyReports.Com Publish a New Market Research Report On –\" Artificial Intelligence in Medical Imaging"
+    publishedDateTime: 2020-01-27T08:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186686/artificial-intelligence-in-medical-imaging-2020-global-market-innovation-technologies-application"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15186686"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186686"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
+    images:
+      - url: "https://www.abnewswire.com/uploads/1580118163.jpeg"
+        width: 466
+        height: 310
+  - title: "LSU computer science, biology researchers finalists in IBM technology competition"
+    excerpt: "The LSU team is a semifinalist for the IBM Watson AI XPRIZE, a $3 million cash prize to be used in research funding. In their research, they are using computer learning, or artificial intelligence, techniques and datasets of known chemical compounds to teach their program to pinpoint compounds that could be effective against specific bacteria."
+    publishedDateTime: 2020-01-24T19:48:00Z
+    webUrl: "https://www.businessreport.com/article/lsu-computer-science-biology-researchers-finalists-in-ibm-technology-competition"
+    type: article
+    provider:
+      name: Baton Rouge Business Report
+      domain: businessreport.com
+    quality: 19
+    images:
+      - url: "https://d46w5x9vt7qfg.cloudfront.net/businessreport/2014/11/Business-Report-Default-Social-Image.jpg"
         width: 1200
-        height: 448
+        height: 630
 
 secured: "Swmee7/qVt8Wuh1d5dd8QSZ3eVd1N+nLwfA+obKaBXv2y3/h8IhoHYBs/ZCJA4IhNPHt/QmC04OOdAnIQGuu9V2/5+kengBUJeEit7su9igmHtaDXamZPw1KwlTTDFiG0avzcFe2gD/enGJbGryv/Cdj8unEGMooVtpETN/UMOIOIBkKCnDZSawZboilxkysj2AL37JF0lcrseW9S0OHoz5nf91RwQ0Yt2ybAyFhALtZuIam0mjLBdtws4PUTJWtjvxp7k6/3aIcnhWPlxSJshw99y2JhXuU9flT/O7qkp6kW+R07MyT7UFFkHZ8lTsg;JPv2BLC6m3uWPxxxkVpjNw=="
 ---

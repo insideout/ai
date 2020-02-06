@@ -620,19 +620,6 @@ related:
       - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2017/08/11/sundarpichai-2-600_737Q7ee.jpg"
         width: 600
         height: 375
-  - title: "Telangana to test facial recognition in polls as privacy fears mount"
-    excerpt: "Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri district to 'reduce impersonation cases,' the Telangana state election commission said in an online notification late last week The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday ..."
-    publishedDateTime: 2020-01-22T09:33:00Z
-    webUrl: "https://www.dhakatribune.com/world/south-asia/2020/01/22/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount"
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 39
-    images:
-      - url: "https://eng-media.dhakatribune.com/?width=476&height=249&cropratio=16:9&quality=100&image=/uploads/2020/01/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount-1579684680055.jpg"
-        width: 443
-        height: 249
   - title: "Atlanta Police testing facial recognition technology"
     excerpt: "ATLANTA — The Atlanta Police Department is one of the few law enforcement agencies in the country using the facial recognition software Clearview AI. Some experts say it's the most powerful facial recognition technology in the world. The company, Clearview, is described as highly secretive. The New York Times first reported the existence of ..."
     publishedDateTime: 2020-01-23T02:38:00Z

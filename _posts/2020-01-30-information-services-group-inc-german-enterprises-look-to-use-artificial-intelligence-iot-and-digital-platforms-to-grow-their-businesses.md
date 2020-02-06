@@ -45,19 +45,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
-    publishedDateTime: 2020-02-03T13:44:00Z
-    webUrl: "https://www.biztechafrica.com/article/microsoft-and-genesys-expand-partnership-help-ente/15418/"
-    type: article
-    provider:
-      name: BiztechAfrica
-      domain: biztechafrica.com
-    quality: 30
-    images:
-      - url: "https://www.biztechafrica.com/media/images/stories/microsoft_wDjNDZP.jpg"
-        width: 410
-        height: 270
 
 secured: "vDvdyoK2aubOF3DCyT/TKJJTkFqDL2BxCVc+eNIp3228s1bWF2obma9dd8PL6nt7LieByLn2cmkMEEJDsnVD3NO1S51WyC0LQpYaTEc+WFewo9WlewR8bsYdgwQMcqiMbmkyKjb1TiNR4r5wituAfnxVFtd9xBuJH0Rb06VUS6hngVmjw5Mfyqe6qVaDwB453uaSuxt0ECHFePjxahXuGOSkqjtyfPZHsrcUDwRR9Y/oEYv6CSMGAPOG7B8t5/JwWq3B+hxC4tzq6m5X3dhK4TtHtkfU2WZcamhVJHQNCIt9v2lvGAA7uO80czS8RRr+;Yl+zaKdZS0BCV1vxxbf/zg=="
 ---
