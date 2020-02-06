@@ -29,7 +29,7 @@ default_post_settings: &default_post_settings
   related: true
 
 pagination:
-  page_size: 40
+  page_size: 30
 
 
 #----------------------------------------------------------------------------------
