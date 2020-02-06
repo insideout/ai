@@ -35,21 +35,6 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/GettyImages-1080200064.jpg?quality=80&strip"
         width: 3500
         height: 2334
-  - title: "Lightfoot urged to pull the plug on facial recognition technology"
-    excerpt: "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\""
-    publishedDateTime: 2020-02-04T11:33:00Z
-    webUrl: "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 59
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
-        width: 640
-        height: 480
   - title: "Facial recognition fails in China as people wear masks to avoid coronavirus"
     excerpt: "For hundreds of millions of people in China, the spread of the new coronavirus has caused abrupt changes to the smallest of habits -- even a gesture that most in the country are used to by now: Looking into the camera for facial recognition. Residents donning surgical face masks while venturing outside their homes or meeting strangers have ..."
     publishedDateTime: 2020-01-29T23:09:00Z
@@ -89,19 +74,6 @@ related:
       - url: "https://www.stripes.com/polopoly_fs/1.617025.1580471460!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
         width: 490
         height: 506
-  - title: "Chinese AI start-up develops facial recognition to help identify febrile person amid coronavirus outbreak"
-    excerpt: "Chinese artificial intelligence (AI) start-up Face++ has developed a temperature screening tool that can help monitor human body temperature in crowded places and identify individuals who might have a fever using facial recognition technology. The system is on a trial-run in some subway stations and government offices in Beijing’s Haidian ..."
-    publishedDateTime: 2020-02-05T03:35:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178554.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 20
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-05/02fe8773-384a-430e-8315-b01d2eb69fc7.jpeg"
-        width: 500
-        height: 300
 
 secured: "ChgR1W4QVefSP3YnuMTFhB1ytSqn+FYVH8tgQTvcz/CEyTZkdoNyBsC9b/JTraGrWrCu69CYoiSLZ2+iJ5xtkfqUJRZv4gk+1jkJPJPLq2gW7bKss8ShFCOuWXXtvY0uwoVbzG+PfU/8OWV+B1dlMtPxL4NEQH35IgAqHt0wHyFgm11pCMX7yqaEFHRzIVWcg+zMfQDlgt69ZUXj6NHTTQ14cHWotY3qq/CCKgeti+QPQ8c6HV1EguGRJaYgTPfIxxwPALbDjpxKNPK1HWwm/tIijK72Tc6vECZq4JOjIJ1Hh5raCu3N1pJx5XOPSVtAS1j8vbgcOce7aKsj1BLxbmXkqKy+5dNDEw+6Qdqa5a5ZYfvmvZaw70c5HO23lUVDRtbMWnOrygRfaCuRDXD3g3vqxTxfQbusebbeOt8bcEPIhomrv2/+N7yBmCoV717DnUEP5a5KzQVhl+vdC0BGfQbQqgQDixc+IuIYDVoOA+8=;YzRRvplKB0chYt2L2+k8Tw=="
 ---

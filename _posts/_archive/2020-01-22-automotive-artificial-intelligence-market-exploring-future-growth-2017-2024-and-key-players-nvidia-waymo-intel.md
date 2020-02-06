@@ -54,6 +54,6 @@ related:
       domain: openpr.com
     quality: 2
 
-secured: "0mJlIkYIVtdnCjY3xTAh7+TD4YK1xVCJHCaN/GlQbSrUTRuSYCp8fEy5YLsiYGnyLO8mXoOFLRnfe0A1n/LXkoDXtxsnmCto8v/32MPSobiPk5SBw8rKe2tY6/9uuizP0SWVR+kXDjKZhQzRiyXd7SD2HNmk04TkEZoj5mFnVSB4cyvRmIOZHyBr4I4g5oVFVP1X0vEfpbvrqcqypiIZxZ5NssROho0zJ32C6u0URUTUPhLnIhieuBoqEEHNZbh2QdEytbT3XZ0hkH/9WTrXymxitSm/bpnW5DINn/38zQXp5mEUBOtyV5ue7Au+9aPP;fcQrLtNqrKbayVsj8304TQ=="
+secured: "mrjhWUiHXzpGRje6LVHiAPj/0KYV12Lto90LRh7IsZkMor8nviw0zQ/qjsQjfX/SASMKonHL55p5hWb3daRkk2fC9zx276rdJ96wC1mEAkXfchQQETI08HfDL/V2fRiO8WM6MhE77HgRm4qxuBLf9u81NC4K0k6s87c8myc6V+6qrA0JRbdaLpeHzCkz0t/inrichWa95zLqyMaZOhGxxbNg+fjdfAO7De2ynm6DtH3xkqEuE1x6bo9SQ9XikYoztuWRIxpcxEW9lLLGaPpt/DmGRZ+xBr6k/LVdxPGJ6HyTdf/sBBAMqTXtBlQneiel;vD+PzqLpH7/fFWphXeUdMA=="
 ---
 

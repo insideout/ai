@@ -37,18 +37,18 @@ related:
         width: 700
         height: 456
   - title: "CloudMinds Donates 5G Robots to Wuhan Hospital Amid Coronavirus"
-    excerpt: "AI startup Cloudminds said it donated 5G-connected \"cloud robots\" that can disinfect things, deliver medicine and measure temperature to the Wuhan Tongji Tianyou Hospital, the center of the coronavirus outbreak. This is a companion discussion topic for the original entry at https://www.lightreading.com/cloudminds-donates-5g-robots-to-wuhan ..."
-    publishedDateTime: 2020-02-06T01:48:00Z
-    webUrl: "https://businesscomputingworld.co.uk/t/cloudminds-donates-5g-robots-to-wuhan-hospital-amid-coronavirus/257483"
+    excerpt: "WUHAN, China -- CloudMinds Technology Inc. a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity, has, in collaboration with China Mobile, donated and sent 5G-enabled medical assistant Cloud Robots, disinfecting cleaning Cloud Robots, medicine delivery Cloud ..."
+    publishedDateTime: 2020-02-06T01:04:00Z
+    webUrl: "https://www.lightreading.com/cloudminds-donates-5g-robots-to-wuhan-hospital-amid-coronavirus/d/d-id/757320"
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
+      name: Light Reading
+      domain: lightreading.com
     quality: 39
     images:
-      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
-        width: 512
-        height: 512
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
 
 secured: "mcHGCi8zFYQdMtbE+xSQyIUX9kZkV6EZS4qKSw2R+/Jd6IviwUvJy2hZKxY5upGhIz7lZq4UYHrn7IWIsfAxKaTH5opRy7CcEK55ENtLrrGhguJD88nzlkVCq/UNf14O1pE6j1IqGGQawwdGIdR+1jxBB59WB/DFrpLh0HzXVinYj74CWQFzLEzmTNcjc3cHcsTbWxEJTjBKgknbX5szpsVWd0gHLbv2lM4eYSxBg6OtDeyJSmD3D+1l9AtECSYb5QgjW6CHtf6vL5uG8+Bip+7KZvqeww8shZhkH3mj2rwKKQtg4jopJyqYORsxPHVpLrL+ET3sH90KjzSsTn63dzL7BnOG10PqfdIR11ckFKoL0y3NueHXzGbGUKq5FDEjbhwMeZxbNzz+OzSD+U2MsFqzPk+PXLIYszNC4PJ5jsbghqplAwQjMGngW5vKSGzKRr4/7LXsO1Jg/STF5ttkXXqOhaIV5CxEwpmC5j2D/0c=;uK7cg41hSX+aZ4yVOw4JoA=="
 ---

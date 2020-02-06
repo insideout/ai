@@ -31,6 +31,32 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
         width: 900
         height: 598
+  - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
+    excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
+    publishedDateTime: 2020-02-04T11:26:00Z
+    webUrl: "https://www.finextra.com/pressarticle/81357/veridium-rolls-out-facial-recognition-tech-and-behavioural-biometrics-product"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 36
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+  - title: "How smart kiosks are using facial recognition and predictive sales algorithms to bring a dose of humanity and hospitality to restaurant tech"
+    excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience. \"Our ultimate goal for the software is to create the most hospitable experience possible in a digital ..."
+    publishedDateTime: 2020-01-28T21:42:00Z
+    webUrl: "https://www.nrn.com/technology/how-smart-kiosks-are-using-facial-recognition-and-predictive-sales-algorithms-bring-dose"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 4
+    images:
+      - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
+        width: 770
+        height: 400
 
 secured: "98jOlJmAH4AP78Bjd/C0YOKHdCl18wj8X5EYWRp1TLBtB8wBnXQScACTgNLLLQw1G6j4Rm31lQ3MLD4IRSpZ5+mnvKRZiUm920l2lPgnLiwTETjVajjxxUel85FP1WH7T9nbojDDs6HCgz2LaNoS0knMbPMHOUAP7vjrVoSOoKpMIXUOw765A0tDEDn0bkqSUR3mRZdBsLAq51DPlGjV7hHD1d594qSbpy/9uKeWJ/a9wZHpZfB3rPvrlMaOnHnkcU/EHTfjrwmghng2ymSDotCmxAvxr2GoHEfCnSy8bsCdlmpEzMSPvDtpsd5JDABO9OyV2PPaq6QbJsGXHb0e+lvyJaX3ZST7LN/TcpCowCXtHcIlzBKi4a6Llxl54TZMSRcid/wr3ADa1bjkklxAwolmwn+GyAmagY6MM6roo/d8BoSm5g9cr34Ztj3skFLoH393xKKEL4GPHbhnXIACoe9XkSE4fsKip5mr4XgTwd0=;g2cDzOT5OuDJd6UCn3VnOQ=="
 ---

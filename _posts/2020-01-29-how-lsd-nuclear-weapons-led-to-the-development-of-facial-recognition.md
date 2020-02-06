@@ -8,7 +8,7 @@ ampWebUrl: "https://observer.com/2020/01/facial-recognition-development-history-
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "How LSD, Nuclear Weapons Led to the Development of Facial Recognition"
 
 related:
-  - title: "Lightfoot urged to pull the plug on facial recognition technology"
-    excerpt: "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\""
-    publishedDateTime: 2020-02-04T11:33:00Z
-    webUrl: "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 59
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
-        width: 640
-        height: 480
   - title: "Facial recognition fails in China as people wear masks to avoid coronavirus"
     excerpt: "For hundreds of millions of people in China, the spread of the new coronavirus has caused abrupt changes to the smallest of habits -- even a gesture that most in the country are used to by now: Looking into the camera for facial recognition. Residents donning surgical face masks while venturing outside their homes or meeting strangers have ..."
     publishedDateTime: 2020-01-29T23:09:00Z
@@ -91,19 +76,6 @@ related:
       - url: "https://www.stripes.com/polopoly_fs/1.617025.1580471460!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
         width: 490
         height: 506
-  - title: "Chinese AI start-up develops facial recognition to help identify febrile person amid coronavirus outbreak"
-    excerpt: "Chinese artificial intelligence (AI) start-up Face++ has developed a temperature screening tool that can help monitor human body temperature in crowded places and identify individuals who might have a fever using facial recognition technology. The system is on a trial-run in some subway stations and government offices in Beijing’s Haidian ..."
-    publishedDateTime: 2020-02-05T03:35:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178554.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 20
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-05/02fe8773-384a-430e-8315-b01d2eb69fc7.jpeg"
-        width: 500
-        height: 300
 
 secured: "CpKgja+4Le1d7qmWH8dmn3phnK4Wvg6CB16b9uqscLZglvsp38+3FcpF3iOhqv1ZSSDb+M82YGB1UUyWMwPWkokVA7hk5PbFbveAvb/ZPbGMiJ2YITZ1w9Fkhbf5eaM3v4SUShzvEW6fnBlQSdZl2/irFBIleOBXraRJX/lJ4lzev8xGspL2+xLHfTCSp54rOJLD/YLidbevYgzyCCZc6KI7lKuYfd0v3Webw9XMbZbqlXDaQ77/n4ac+8vDaERhB94QkjkWaJOiRUIE+xyPgM4E5NCP37nrFpxslP1hpGicSzO5rhbjD5fxv4OWIi932STc2xM8ikYTdr1paubhWd4PwJ54It/l3S+RFHKYUaVbWjMvsRgTo8LrfngqX3Mh1cj/Eu4pvOBuQqmDDGGNuDSuAVuhs+Wm9rkh0I/KzPeT/P1bhLOds8kI9MBjS4GHQb1YiOIZVkCb09cFSXwp0iP3xc3U4Be/OJ6BvVPfRUY=;TtWmIne6fk2F26T+OOolpw=="
 ---

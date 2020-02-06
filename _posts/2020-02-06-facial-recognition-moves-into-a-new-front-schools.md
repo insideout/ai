@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/02/06/business/facial-recognition-schoo
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/02/06/business/facial-recognition-schools.amp.html"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -140,6 +140,19 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "Facial recognition provides big boost in finding lost pets"
+    excerpt: "Hardin County Animal Care and Control is taking advantage of a new tool to help locate and identify lost dogs and cats. The shelter recently announced its partnership with Finding Rover, a company that uses facial recognition imaging systems. According to ..."
+    publishedDateTime: 2020-02-06T09:55:00Z
+    webUrl: "https://www.thenewsenterprise.com/news/local/facial-recognition-provides-big-boost-in-finding-lost-pets/article_97fb94a1-4134-5020-b0d9-9931d297c14b.html"
+    type: article
+    provider:
+      name: The News-Enterprise
+      domain: thenewsenterprise.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/thenewsenterprise.com/content/tncms/assets/v3/editorial/3/1a/31a4f67f-c4b3-5f0e-9d69-8a954c0d14b6/5e3ba2ce8fd0d.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
   - title: "Doha Bank integrates facial, voice recognition into app"
     excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
     publishedDateTime: 2020-02-02T19:02:00Z
@@ -154,6 +167,6 @@ related:
         width: 620
         height: 355
 
-secured: "k8klcxCziPdE2oceZ8E+uD9dCGy5QKxo9Eb1IrzQKvqiyo5/z7pXxEsppaLhWvOrXyV4Z/WAFG1xAEZS7i4A/gsSwD2h7NXADb9VylG8W+n1CKUx2i3+MrhV33WBqvN4w8JYs1n0X1wC+7rJSFLgxpgwLf8jjRjDeGxFDw7hCexXUUAFATmGkJtPCNhFmwAUoJHjJuGro7Av5Rpt5CEW8XgN/yt0zB7JivZNKbLXQXOr6d0JGcZE5pZ3kPQwNqX/VdsrE5QLdQVgbCB+bqw/HTBoEP0pPSmYr3EMUnewU9QQmj7EDJ6iXW2f2plfMQ1t;7SVEDt0KxVuoVtYtKVMhBQ=="
+secured: "iJ+AJSV6l1Fv+Krl4//8SJtQytQ0KEATNK2stV2vjtlDDIUAPJjtHUGdHBNMXKRfWY5Z2s40Vfnwl+y4EmeL0Itna/Y4b1sCVofxEvma1rdo355z8HSsLhWNkluZQvH8rkfId/quBS67N7fXVxhekm5VvXjCUCPFdt1hsOkYwbArMmvFuTS3DtBCIiq6bxHpX5f109rBUW8ORyRDkhjajKC1QQS2NnVc7RsyZoPcyts1ztLnmVsnXw9n2iVJBulznnqS3+dVHavvX0kjEB4FvO8I8KZ5dwg5+++X0e2Occ8JiFUFy5Qs3bokRLmzo/ceQSNYhc8D3HkPUakuT6KtC0B+cbzedKt9T2VnAvQXI/LtF+7YnVXcnEunMfXQM4FJ2sB1jp63+1W9ZqXdNFM03g+1A4tZNF8WV87KknGARvy+c7I7ykJJ2fULV8/aCzZYipYV9sNQfVpAYdBmcEfnC3DigJxfg+Pj7wgB4EQpyxo=;nZPZSNcUz0M1sQV+Kp7HMA=="
 ---
 

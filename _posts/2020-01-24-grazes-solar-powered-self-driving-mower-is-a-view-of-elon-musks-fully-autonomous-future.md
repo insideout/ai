@@ -85,15 +85,6 @@ related:
       name: AARP
       domain: aarp.org
     quality: 24
-  - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
-    excerpt: "Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production. The shuttle, called Origin, is designed to be more spacious and passenger-friendly than a conventional, human-driven car. The silver, squared-off vehicle lacks ..."
-    publishedDateTime: 2020-01-22T16:45:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/automation/article/21121063/gms-cruise-shows-off-its-selfdriving-origin-shuttle-with-no-room-for-a-driver"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 0
 
 secured: "w/LBGw+PVdDS/S1rmo5GZ9ua9NepLcNv/kIQ/yN1JbCRgs2R/3NJofcCIs/ad0+uRE3RfVLz5RQx/d2Jrx50OWhZoSZSjCl0zBUnkfJoOTThJeNEXeYDPFd8MIFR1+ePc6ryfyn+CNQgtyo80Ik9nHPrqTV0iq5443/Sw/xGNqg9FC7/vo/70iitmYLDu7qV9Wu6oz/YE2GfWIU3zhEOczCsa46EPWc1Etrjo9NJSSDStKGn9AUBUP/0xZ8DOlZnDvCBNSzrV0CX2NYf0nnn12bNwd26uTp4VKqCq4EgJ63nVVDR/paVqidDVSPsso0NqJLio6Oaz9FNKsbn8B9v9m5UHIfq44TIF1kKlyobtYEthttaQbY+BPVGfqgdDijgwcQR2OoQs2RWHK4RBjBm0bnTCWbpXyCzl+2Gcb7prr9HuKlJUK97NIrgm7rekBDi0fdOvz63B8XryFy1/4WtcNyouq6JqwHtT40CxMu9H7k=;zDiV4guA1PUmZc+L7+RdgA=="
 ---

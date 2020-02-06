@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/autonomous-for-real-optimus-rid
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/autonomous-for-real-optimus-ride-self-driving-shuttles-want-to-be-fully-driverless-in-2020/"
 type: article
 quality: 78
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -82,15 +82,6 @@ related:
       name: AARP
       domain: aarp.org
     quality: 24
-  - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
-    excerpt: "Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production. The shuttle, called Origin, is designed to be more spacious and passenger-friendly than a conventional, human-driven car. The silver, squared-off vehicle lacks ..."
-    publishedDateTime: 2020-01-22T16:45:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/automation/article/21121063/gms-cruise-shows-off-its-selfdriving-origin-shuttle-with-no-room-for-a-driver"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 0
   - title: "Graze’s solar-powered, self-driving mower is a view of Elon Musk’s fully-autonomous future"
     excerpt: "The event featured the company’s strategies for the future as it prepares for a full embrace into its plans for a Full Self-Driving suite that will take the need for human control out of driving a vehicle. While Tesla is focused on navigating vehicles toward control that does not require a human’s input, other industries are diving into the ..."
     publishedDateTime: 2020-01-24T20:07:00Z

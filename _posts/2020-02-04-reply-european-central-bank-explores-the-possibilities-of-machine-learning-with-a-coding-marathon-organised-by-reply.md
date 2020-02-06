@@ -2,27 +2,27 @@
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
-publishedDateTime: 2020-02-04T09:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200204005137/en/REPLY-European-Central-Bank-Explores-Possibilities-Machine"
+publishedDateTime: 2020-02-04T10:24:00Z
+webUrl: "https://apnews.com/Business Wire/6cc89506c97d469ba190f5fea31af2a0"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Finance
 
 images:
-  - url: "http://www.businesswire.com/images/bwlogo_square.png"
-    width: 560
-    height: 560
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 
-secured: "v0pP1FuuqpoBi31ucv9kRrH5+fCbI7cY/ine/Mouj0hNsj60KiyW6LJe+LIRvJWtHLSzKY+p4u5i04jV8SWi1136ZXPNRzmpJrkdl9TWxOg4HpKF6cvkEDevOUcVgiry2kXpDeCwfl88Uivp/ESkEBuaUEjBbwBQlrMTN7rrXXd0ZUAvZdfxxLhn9dBGydRW1P6FAUMg7PP3b7Ao3A3Ke2RpdzVIs18ovIeFt3EHUZAFARcTBymVkJr0l7IQzpuWv6HRZ6Na1QDkk1ntoOoBcrSYKxQ+33AzilEw2p4IThmxabzI5YMqat1ZlL0B06z/;uu9nkyFjFydEpNWvh2tZVA=="
+secured: "KOLbMvYVrVoM64mQZMQQhNGU7H0jsvrRMpdbhf5XKGnWgl0bT3XTrAYbgyvS1QNEh2gLDPpaIGzyaioLBFkeaXsPe5WdQO1Mi0MbLhE0NfKm3XXOa/ScDkZ5G6AeIuPE8/33DcdBwz31wEqUm/FYQuQJfRFbyyCMjXoZFqTLBthQJfICuuY0XtkfsOLOBPd5qqK5TturrDhhLxRzD9oldcM/9HvPDv5MXy6jlaEihlLTWDCiXOMWpfFPAzbFUa0UfDTkQK8d9evY6IPu/ORQAswcuzEhGZ5kptGQcFr9W78sFHtTfXgpkQBCJGy/XSEM;OGBiaS2d2fj8T9BGVqS+NQ=="
 ---
 

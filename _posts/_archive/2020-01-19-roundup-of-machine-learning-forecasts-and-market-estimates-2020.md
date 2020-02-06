@@ -29,6 +29,6 @@ images:
     height: 634
     title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
 
-secured: "KVYgduLQ6+8Y4ZjcUuOoSnxPHAuj3pKBYfFUexPN+aHJEjbQ2URSghKM8QQRB95FFQbjG78X4qYH31+KxJ8WqI6xMtEqytqxxhPgnxgSY/TTXxgb/76TfT/lJDqYoWO2NuD+QtcnSdSOVhux9+HfZd4lKCwWMTr2Muzh7fXQ6G4i8p5aNqNSHUqT1QGn0VLnsb777yQ9BKbWNioKsuXtiLlBScdBCM2KbUM2l+6XUmFvZq//s2Lhr1/o5QlE12T5bnGSFrFodvyG8hgOVJPUzSefnvUaE7pWJG2HmlXFlWa4llZ7l85TsnkIECjrJiQJ;h+dfCyfvJEJCRfWzGyvbsQ=="
+secured: "XFRx8Rorv6W1fa7dqpBOIDEZudKaoyZu5uamNBL+Pmar3yazDDWzL0IXH4kedthf6nHTXiGCBVt/igk/rmczTa6mGdd2WBaSTIqANv1Xc6zcwD6w73NK6HqgYVM/fGSydBuqgIdVE5blrhKnsTgGh/2SecV1me8LZVzYXLAQM0x5EZb1jZUffBU6vGMzvqqXZpCxHi73zNez+5GfMsKzAQV57VGLtwze0TTP0POaN5yonm6242Hh/Amk3Amzd4DEB0El5mHSiiGAwaaTmi/mqIPdQdnWzoklCoT/OQiwbLcx4mpDO8gEqrulGfAYRX8u;+C4XIZe3XwvH7U5tzFZyTw=="
 ---
 

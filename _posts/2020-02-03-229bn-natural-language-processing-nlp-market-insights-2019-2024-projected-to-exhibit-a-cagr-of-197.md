@@ -1,17 +1,19 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-publishedDateTime: 2020-02-03T11:44:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+publishedDateTime: 2020-02-03T10:44:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -87,6 +89,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "1HBx+mDar7Sq62xMD9XB4njv9HbfFXhWSnPqhlVkZANOV5fxUcFMiG5qIJbapNZAA56DxE8vKukW74Z/BhaFgrqvG6SNSd+WMLcfNU3CX9imge7nljTe+8Rb304tI5xduY265qed2O77xQwJiAZEGQzoKxGgNi7ol0FyfseZ7pUWvbpuYjQTYXyI4ajpzyKvgOI+3uV8/62fW+gWdNAfOttbKh0qChjqLQaCENEWRMO5Xc9Ca+GtLxnFJsdQ2YvNWxsk3Y8/Dp3eXji+TYfhs118UMu7aVBb8odKIr7DHh56q0zEsOTJYxt2gshZzI0L;HQrpJy/URQZIK4VXqZIMYQ=="
+secured: "Y5Hz3cnfycB5J1Q4uTjz9OzW9l5QNTLk4KcGj7uZfDyT7kK7jH7Pfhwcd5kVfpMZnCX3ruYlDSlPSRWhFt8WMt/BzHFas+S43t1UJFgOgifkiBACjIhAzQrcmnJhE6Cnq1jZjBN1LmvBj0ssOylLOxcXKHxGPXeB2t/NKhQWIDSRfHDBnzMsX0jM9H5Nx5+nBEEl71eaFdn8pSudGmfHLx/3XYQ58zXF3RXY69RVTncJL2Z55FdbHjyWF0y7GITGENTtB9rhJOlebCh8g5jsDQ1C2EiNQrr9F/Prey2hS+o51YK8X3+Qi3P7+msTAED6;0rbzgo6/k/Cbl+S90LNsqw=="
 ---
 

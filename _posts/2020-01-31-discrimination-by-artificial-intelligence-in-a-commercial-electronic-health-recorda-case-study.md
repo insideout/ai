@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Discrimination By Artificial Intelligence In A Commercial Electronic Health Record—A Case Study"
-excerpt: "Furthermore, built-in AI is not yet subject to governmental regulation. As implementation of AI in health care grows, it will be important to clarify who bears the responsibility for ethics and regulatory oversight. The FDA recently released draft guidance for regulation of clinical decision support (CDS) software, which includes areas where ..."
+excerpt: "When artificial intelligence (AI) is built into electronic health record (EHR ... What role should regulators, such as the Food and Drug Administration (FDA), have in ensuring that AI in health care is trustworthy and equitable? AI has the potential to transform health care, but implementation at the point of care is fraught with challenges."
 publishedDateTime: 2020-01-31T15:09:00Z
-webUrl: "https://www.healthaffairs.org/do/10.1377/hblog20200128.626576/full/?mc_cid=36fa9a9560&mc_eid=98c6b29a97"
+webUrl: "https://www.healthaffairs.org/do/10.1377/hblog20200128.626576/full/?%2BBook%2BReviews=&%2BDiscrimination%2BBy%2BArtificial%2BIntelligence=&%2BHot%2BArticles%2BFrom%2BJanuary="
 type: article
 quality: 7
 heat: 7
@@ -15,8 +15,8 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
+  - AI in Healthcare
 
-secured: "wUR3tnuMeTEQHGN9tb5Kgnf0cq64bB/BggHQk8YhO8hPPkHck+pM4wggt8HIECkMpFuxE051XJjNNHAIXoQ65qd8Kl3EGAlLZSK13v/UJxPGj1ie6GDCi1D1Bt50Lih7uh0l3yUpKfZqYGS3EtxSEarWJUdib6O7gK5CYanwT1NAvuIYXmt4noEjxnThkHWQ5sJDZzykk7Cr+/Ya5jCgf5CbvEmK8THwpG6fimngDqFvk2It8CQD1Kqbrvzg/VGtB1aiO+leibuIPOYOdluKSmLvDBC03ZSJw5LKEYJ0/Anw3EXWD8xlOH+HZpy/f9fZMIw9Y7wGEmtipvqltnzulGSNoVx5002AoymTj4lSMAdYGEW6UZ1S2+LICj8gmjfmj4C/s+OpugQvtybS47+qIIvxi/gjYbMkDSsosmv6mixoqB0l3247SD1N075DZDERAAV0whZ0VUjuA3+tbq38Ua6w1tzX2mj0AP2NZedRk4k=;moevIkfQUlSSduJQHMh9rA=="
+secured: "gFIFtOzIaPaiU+3s9ukfiZWArxWTp0JheS9gTX5gq23Zl/uHEuNw9bNnn1h+Doh28SWiOtomHgHV15bxbIn++AIRSVZUM1IWb2KtBCDcuFEkwi6xpJ4X3KqNH5CxYyHxGe+ggWuKObkWRbvHTxnT/+PVXJIFRbkWu6iYv5McytCqN6n684sC17qtbTTTyrlrr1GNy3+oTQNessS9Bl+qRU8/MdXv+8yaHwgYUT+F4DGzQJZPC7VPouWirJw1LUVpIPDlZQsaFVGmCbaz7tRBH4LCO7HQyeJMhP7DzRu0WgnNoQ5ftTwhvZyc+8tkPAzcR5CjY0/LskQOM9sKi+1jgGUnAQORtpTkHtT+6lsIDEGsD/Xq4ygRYyKkmJ7RCleNObO4VSUilXxKOzkch6c62ESZjUTL1fx9ycRPFeTnpgt9m9bq0YkbFi/ghN0cA10+9VxiT7PquEKMd8qlJKAPRGnrY2khZwB5ndRAdTqCLeg=;UFg7sm55eSzUhhsiO4Ev+w=="
 ---
 
