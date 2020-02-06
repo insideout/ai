@@ -54,21 +54,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/dam/imageserve/1160995648/960x0.jpg?fit=scale"
         width: 711
         height: 533
-  - title: "ServiceNow scoops up Israel-based startup that applies AI to IT"
-    excerpt: "ServiceNow said the acquisition will extend its artificial intelligence-powered operations capabilities, \"giving customers deeper insights into their digital operations so they can prevent and fix IT issues and find 'blind spots' at scale before they become problems."
-    publishedDateTime: 2020-01-22T14:55:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 57
-    images:
-      - url: "https://media.bizj.us/view/img/367701/billmcdermottsap*600xx1014-676-5-0.jpg"
-        width: 600
-        height: 400
   - title: "ServiceNow to acquire small conversational AI startup in Mountain View"
     excerpt: "ServiceNow said the purchase would advance the Santa Clara software giant’s deep learning AI capabilities as it seeks to support all widely spoken languages across several products."
     publishedDateTime: 2020-01-28T18:36:00Z

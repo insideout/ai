@@ -51,6 +51,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Data Science and Machine Learning Service Market Is Thriving Worldwide with Mango Solutions, LatentView Analytics, Microsoft, Fico"
+    excerpt: "Latest released 2020 version of market study on Global Data Science and Machine Learning Service Market with 94+ market data Tables, Pie Chat, Graphs & Figures spread through Pages and easy to understand in depth analysis. \" Global Data Science and Machine Learning Service Market by Type (, Consulting & Management Solution), by End-Users ..."
+    publishedDateTime: 2020-02-06T07:23:00Z
+    webUrl: "https://www.openpr.com/news/1921056/data-science-and-machine-learning-service-market-is-thriving"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "UsaD5UFjp9fW+AthUjy/8o+AuLMpgFJsazH8UvstNxjbwnZj4c24ZffiDnj7NNUGdYSoUZD4Cz9TwFWGFulAotqXuHGgSKDy0zieV3VbKxJY27HAVm+mXv1oizxR8LLrMOitVTY/S/+cbw+Om/DETkjYzimHJETR+YFsvcf9JVQhDOijCVHwoUA1ot3sw0QzjcQNg0P32LCOBMI6tfv5NpTNt45caZBbgbYsxn0c3LhBIxkp/Vex5UJcU+3ipAW183MI8EUljeA/y2o/Ep1bCyrLXcojU9DGcafI5uH895SgkZIDLKiFVhh7ChUDgLwf;uBnvknOLP5XuejUHYqeKgQ=="
 ---

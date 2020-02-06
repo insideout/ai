@@ -28,43 +28,58 @@ images:
     title: "Learning Management System Market Growth Opportunities 2026, Segmentation and Key Players Forecast by 2026"
 
 related:
-  - title: "How Machine Learning Uncovers Opportunities For Business Optimization"
-    excerpt: "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;"
-    publishedDateTime: 2020-01-22T14:26:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/"
+  - title: "Natural Language Processing (NLP) Market Growth, Opportunity And 2027"
+    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-01-27T06:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-growth-opportunity-and-2027-2020-01-27"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale"
-        width: 711
-        height: 494
-  - title: "HCL launches dedicated Microsoft business unit in Noida"
-    excerpt: "The decision will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10, the company said in a statement. \"Increasingly, customers are making bold ..."
-    publishedDateTime: 2020-01-23T05:36:00Z
-    webUrl: "https://www.siliconindia.com/news/business/HCL-launches-dedicated-Microsoft-business-unit-in-Noida-nid-211952-cid-3.html"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence and Machine Learning Market Evolving Technology and Growth Outlook 2020 to 2024"
+    excerpt: "Artificial Intelligence and Machine Learning Report by Material, Application, and Geography - Global Forecast to 2024 is a professional and in-depth research report on the world's major regional market conditions,"
+    publishedDateTime: 2020-01-24T07:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-evolving-technology-and-growth-outlook-2020-to-2024-2020-01-24"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/MfYXru58.jpg"
-        width: 570
-        height: 367
-  - title: "International Business Machines Doing Better Thank You Think"
-    excerpt: "Cloud & Cognitive Services continues to generate positive sales growth on a year-over-year basis albeit at a single-digit rate. This is good and the underlying cloud growth rate is double-digit for the past two quarters on the strength of the Red hat acquisition. Granted, the cloud growth rate does not match that of Amazon (AMZN), Microsoft ..."
-    publishedDateTime: 2020-01-23T20:54:00Z
-    webUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-thank-you-think"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "AI for Drug Discovery Market Trends and Future Opportunities Till 2027"
+    excerpt: "The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-01-27T06:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-trends-and-future-opportunities-till-2027-2020-01-27"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027"
+    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-01-27T11:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027-2020-01-27-7197455"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "wkepGttb+dW7aJgLn5FZH8aMy5ePAiy9c+Nyh1CUEvgE6M/dF8UjRiB2VmfSsMJS24hyWQpnKgP0lwow9X7zCc0JoofHw89hqh23B22Ikcf0DprG7yHt1yACA3A7xXb0osRJrGnt3U9pt30224ACBMBAW1s1GBSfP3gBPQ3ex/vFzvuQybkP4UeqAU5n6iYN7h0UBww9Lu6Iq/Z01WLMO1S/Arjf356d6cgtBrjFjsacnuDwUTljaFPUOYhV01re8xqEVtYWarxtoSEF5xdyhParIRiFv0mIaS67Dcwv24TyAxuwwQAF+LTLqvpie+4n;WljrURq39IHs+cVxN2CYbA=="
 ---

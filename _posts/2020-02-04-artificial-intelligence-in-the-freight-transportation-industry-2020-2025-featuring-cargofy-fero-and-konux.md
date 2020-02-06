@@ -16,17 +16,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Reinforcement Learning (RL) Market Report & Framework, 2020: An Introduction to the Technology"
-    excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Reinforcement Learning: An Introduction to the Technology\" report has been added to ResearchAndMarkets.com's offering. These days, machine learning (ML),"
-    publishedDateTime: 2020-02-04T11:38:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979339/0/en/Reinforcement-Learning-RL-Market-Report-Framework-2020-An-Introduction-to-the-Technology.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-
 secured: "IYMhJKlYncxgjXvp6+TPd98xEAvFucq9ILR1eTlUsY1HpLxVsRm2fKOhzCNtD1HYGGWkZEP5aT4yXvKC/qHOyWAhcr/Sr1+r3j/jnXECFia1cqwb2BucZEEhebjjzfier9gJCxDJ5PC8WX9m17+nm3Q7A+redBgVrq6n9UuoJEwuggOrvOZznA3FECWOQqDjVi0PgpS0mIG9zN8JypJ8z9Cr31llRHIym1wJ1PLoQ7MTJPjnzFbdQn1YNs7LXpMWCy9TtVyEKI7Ullnh2JTXpLlxqlWkGvgDk9VUhrH0dEP1YJnQx/74q1DZrVOu9xuZ;GAFu1f4JyUyRcB/fmTwkLg=="
 ---
 

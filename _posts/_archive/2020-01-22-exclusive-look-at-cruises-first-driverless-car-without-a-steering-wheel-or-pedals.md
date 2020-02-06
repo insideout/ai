@@ -94,6 +94,6 @@ related:
       domain: fox2now.com
     quality: 4
 
-secured: "yYdOkD9z9q+y/AXfeBBhoejjPSOXzgdTByT6bNdt6oLNy0miFLPquslvTKeFeq9FFUFMpheCMQlW6PqJLufTPdqN9ZaAAac8i2b5+JIsdMFW+ZK+VwLVODga3G0d/VZhM+EV3LCHbCaR4+mdqCwcEq8accVufOIsp/0eAujp/Jenn1+5JhemJsWVR1fo5owJ7//BIJ9uH4m8OF3iQHx4uQSb9zD2ZE3T1x1unHVtnkcSzxh2TofJTpyJpaZb2ezPDp2ijZyYwXW+WcybEWv9Euv3GWTccNlksFuoVaSuhbD7UWVjyI9onbQXvwWMmwfV;htddZN65HnhO0kW9O9c7jA=="
+secured: "eJQdwUR+QGJZNKZGz2zEq1jaEJedASF2jG/R3mo1LeUAgVDVPiI8MGvAuiY9TMRGSJ+B6IKhNhq6eHdjx+/iaoKL3+gb5k5HPNRMhdgy0OdQEyUfB0YVDzODalfu0EZ5UimRv+zOvHop5S44zaPJ+8/f1C5i+Qnvi0P2mI94MN7DRR47HAkanlr1W9eWs/AVgHh9t8yZ+ffLIy5fXYdVfs728mDzH76OBUE29bubX8riL01eZ3bPoKQkOxHdloCbJ+O6tqaf49esz4RoWnTBubkYSbX4iZ+G2TG96au6JxayQimNduHUMFjCGy71DU9c;POQHEYMd2+S6lkOATYf2Fw=="
 ---
 

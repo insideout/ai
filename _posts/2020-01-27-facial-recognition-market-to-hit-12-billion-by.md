@@ -1134,19 +1134,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/c3/ac371e57-1c1a-5fad-9cdc-c4772d24a273/5e2b5b66b25a8.image.jpg?crop=1745%2C982%2C0%2C102&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
-  - title: "Facebook could be on the hook for billions after Supreme Court refuses to hear facial recognition case"
-    excerpt: "The United States Supreme Court has declined to hear a case brought forward by Facebook that argues its users would have had to show they suffered “real-world harm” after Facebook identified them in photos using its facial recognition technology without getting their consent. Facebook hoped their argument would be heard by the Supreme ..."
-    publishedDateTime: 2020-01-22T15:10:00Z
-    webUrl: "https://www.fastcompany.com/90454488/facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case?partner=feedburner"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 23
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case.jpg"
-        width: 1280
-        height: 720
   - title: "Data Protection Day: Privacy Commissioner Warns About Facial Recognition Tech"
     excerpt: "Facial recognition is the process by which a person can be identified or otherwise recognized from a digital image. Facial recognition is one form of biometric identification; others include fingerprints, voice recognition and retinal scans. Facial recognition is based on unique, measurable characteristics that can be used to verify or ..."
     publishedDateTime: 2020-01-28T15:21:00Z

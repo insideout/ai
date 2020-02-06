@@ -54,21 +54,6 @@ related:
       - url: "https://cdnph.upi.com/ph/st/th/2591579711109/2020/i/15797136375931/v1.5/GM-owned-automaker-unveils-first-self-driving-vehicle.jpg?lg=2"
         width: 800
         height: 533
-  - title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
-    excerpt: "Four years ago, self-driving hype reached a fever pitch. Automakers struck partnerships with technology companies almost every week. Startups raised piles of funding at high valuations. That year, GM plunked down nearly $1 billion to acquire a 40-person startup in San Francisco called Cruise. The startup went on to raise billions more in ..."
-    publishedDateTime: 2020-01-22T14:28:00Z
-    webUrl: "https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 44
-    images:
-      - url: "https://www.chicagotribune.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg"
-        width: 1200
-        height: 800
   - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
     excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
     publishedDateTime: 2020-01-24T17:57:00Z

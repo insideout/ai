@@ -36,6 +36,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?fit=1200%2C628&strip=all"
         width: 1200
         height: 628
+  - title: "Machine Learning Company Kaskada Closes $8 Million In Funding"
+    excerpt: "Kaskada, a machine learning company that provides a unified platform for feature engineering, announced it raised $8 million in funding Kaskada — a machine learning company that provides a unified platform for feature engineering — announced it has ..."
+    publishedDateTime: 2020-02-06T07:56:00Z
+    webUrl: "https://pulse2.com/kaskada-raises-8-million/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 39
+    images:
+      - url: "https://cdn.pulse2.com/cdn/2020/02/Kaskada.jpg"
+        width: 1262
+        height: 1120
 
 secured: "IMW8m61E0tlsOEvt5GMkHz005LYQbi0QcKC+vIqitpjXXMyobJXq0tPHXmSI+WOYs5mI+hDMEeSgTWNytVPJj3Qt13yop0qivCZkidfrwJuIvmiECgGNlkyuhy1IOPpO4JSMfb+0/7NORvhJOWEiVSPqKSFwdwNjND5wc+QpdzRIbxGGH1rb4XJK0HllOng3z/jHouRRrYT5YJjuSQqWkfGjgI2EfSj9JiS80fdqoHmdzgvaw5EklNr9av7w8l/03kvDuet3nOfkufVZS/QCJZpqg3rLseqbKjGzrMshy+AWharisrzSvWtHMz1XFC5TStnfCoowQmW1GsrDBN6BI4ApQuNhbjprmjb46TR3JhaaJw9fiLcOTzfjxFLIl6Sx1Ev2w8YzNf8jq0dj6fz+Oyausrw/+/Wrd21X+q3a47JI/N0Imq3aluB7UZen5fohE0IoPhe3jbyQ4Cgc4RM08vhinns2f+ZQ5MBLPEHOXLg=;gBm1q5dx1h9wsshjKWY/ww=="
 ---

@@ -196,6 +196,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
+  - title: "Uber’s Self-Driving Vehicles Get On-Road Permit For CA"
+    excerpt: "Uber may soon be able to put its self-driving vehicles back on California roads after several years, with the issuance of a new permit, according to reports. The company had to scale back its autonomous vehicle program following an incident in Arizona where a pedestrian was killed by one of the vehicles. However, the permit — issued by the ..."
+    publishedDateTime: 2020-02-06T07:13:00Z
+    webUrl: "https://www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/"
+    ampWebUrl: "https://www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
   - title: "U of T-Waterloo research data to put self-driving cars to ultimate test: Canadian winter"
     excerpt: "A new dataset will enable engineers to test and refine new algorithms for self-driving cars that can overcome the perception challenges posed by snowy weather (Image courtesy Steven Waslander) Newly released data from a collaboration between the University of Toronto, the University of Waterloo and Scale AI will help train future self-driving ..."
     publishedDateTime: 2020-02-03T21:51:00Z

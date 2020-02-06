@@ -1,21 +1,27 @@
 ---
 category: news
 title: "CloudMinds Donates 5G Robots to Wuhan Hospital Amid Coronavirus"
-excerpt: "WUHAN, China -- CloudMinds Technology Inc. a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity, has, in collaboration with China Mobile, donated and sent 5G-enabled medical assistant Cloud Robots, disinfecting cleaning Cloud Robots, medicine delivery Cloud ..."
-publishedDateTime: 2020-02-06T01:04:00Z
-webUrl: "https://www.lightreading.com/cloudminds-donates-5g-robots-to-wuhan-hospital-amid-coronavirus/d/d-id/757320"
+excerpt: "AI startup Cloudminds said it donated 5G-connected \"cloud robots\" that can disinfect things, deliver medicine and measure temperature to the Wuhan Tongji Tianyou Hospital, the center of the coronavirus outbreak. This is a companion discussion topic for the original entry at https://www.lightreading.com/cloudminds-donates-5g-robots-to-wuhan ..."
+publishedDateTime: 2020-02-06T01:48:00Z
+webUrl: "https://businesscomputingworld.co.uk/t/cloudminds-donates-5g-robots-to-wuhan-hospital-amid-coronavirus/257483"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Light Reading
-  domain: lightreading.com
+  name: BCW
+  domain: businesscomputingworld.co.uk
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
+    width: 512
+    height: 512
+    title: "CloudMinds Donates 5G Robots to Wuhan Hospital Amid Coronavirus"
 
 related:
   - title: "Artificial intelligence finds drug that could fight Wuhan coronavirus"
@@ -45,6 +51,6 @@ related:
         width: 500
         height: 300
 
-secured: "vL5O2Rf7GiLZ+meURzgs4m2QucyR7w4UXIBiDEPX3SDEcLwB0XL2jkfomMRA0urv4Rw77SRn7XKFVAio/AEhdClilmyCJw+N8hE0KzdlEKVpoTDtAhvCNayoy/hfnBCW1nYgOQ+kzxv/EqUgg2pzZ3dHLfSDPYd2OW8YcdJRceKTAnk5aY5Y8ewzaxXaY77lLZ8mdbtEJYRuzsznLgFfYfUW9z+RFHRXDijV8ksnj+jUlAzkzYji7wz68Bxi5cv166ASxKfqvszfaI5a/1TefP1LuZ9Evg5N3myUTRDVAZOJXjNgltDDaRKVo8gnnIwy;wb5oDm5YeYzpa6NVc4B9rw=="
+secured: "RCC02acREh9B6tOOAWUSnnaO+RRgkeHnxmiAAVxX7aIQYD3x9sVcOlhfGP+5SQqd0gknyh5SExpBdTJGzhgOu0Fsf4acVcASVC7Iug6ryHmkYPhAAeH/aeMRyaoG2jk+gck3Fe/F6TUp823TMkA2FS5CdEsWoM80/31bYLvhZkflb5WtHOTsDmb14VDpds6TlR4Cbx/IShfy2mhN+ksfk2ng9YU0BrlEEN6t1zeyESTlXPOMv1f9kacEWwbwCpfsaa/NZKGIC7keBHpiWKe69+19uvXE/ISmVFYc7xLTntg/ziQYnjfOEH0lBqrNzjK9;x7+9bgmybTzKnHeypUCz8Q=="
 ---
 

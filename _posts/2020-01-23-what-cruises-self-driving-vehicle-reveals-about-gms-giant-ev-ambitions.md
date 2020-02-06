@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-rev
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/"
 type: article
 quality: 73
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: "https://cdnph.upi.com/ph/st/th/2591579711109/2020/i/15797136375931/v1.5/GM-owned-automaker-unveils-first-self-driving-vehicle.jpg?lg=2"
         width: 800
         height: 533
-  - title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
-    excerpt: "Four years ago, self-driving hype reached a fever pitch. Automakers struck partnerships with technology companies almost every week. Startups raised piles of funding at high valuations. That year, GM plunked down nearly $1 billion to acquire a 40-person startup in San Francisco called Cruise. The startup went on to raise billions more in ..."
-    publishedDateTime: 2020-01-22T14:28:00Z
-    webUrl: "https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 44
-    images:
-      - url: "https://www.chicagotribune.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg"
-        width: 1200
-        height: 800
   - title: "GM’s investors school Tesla’s on self-driving hype"
     excerpt: "Considering true self-driving remains a long way off, GM’s owners are more realistic. Cruise, the self-driving-car outfit majority-owned by General Motors, unveiled its prototype electric autonomous vehicle on Jan. 21. Called the Cruise Origin, it has no steering wheel or pedals. Chief Executive Dan Ammann said it was “a fully engineered ..."
     publishedDateTime: 2020-01-22T20:04:00Z

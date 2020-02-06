@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-compl
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
 type: article
 quality: 76
-heat: 146
+heat: 147
 published: true
 
 provider:
@@ -118,6 +118,6 @@ related:
         width: 1200
         height: 630
 
-secured: "qVEjet4ss9vPNLQYkTQQQ5BWg2Q8BqC2ZScyLL1xhYP9LCxAAinCanVs896vShCYjkw07Be6/IWMfTOyP4vIz9QQ+lNy2WglLxybr/ycuRbkIDI/k8LEatxRLsD6dc1D/Q+epzOzIRpURj5KqkUOP2HvWvXaSFdScQfnUq4iLHbOnQMReo4jmF82tY4zVRtl5YPRZI9LHA1N5e+PNJqMxJ/uTGDg1dCQbo+BazaXOwF2eYtbW0x6Bf2oKWph0Eh2OUAYPvs5g1DLGpkaZ/9tAdA5hE7Rm3QtlYJ/3ZomHF2PSjIUJeQv2HdhPr42Cc0rGbXwzQ4OaS9X0lF5YU+MPc6OHnHvKlL8qbzAVvrNdl/KSLlhoF80jeJU0ZOf7L7NzjtqYfwMoT/V9Tkk5QtoOEKY0ULFYJqTkjZixAh7cvRMPYsnKR5mqjhg0yDNd1JRXQPullhYZ6krpCQWxZfPJDAg4jLipyS9QqRXgz1cR+E=;iRG3HZ/uB6y81cGjt8JKUg=="
+secured: "2zDHovWIm/ZG955n3klr+Kw+xHk++i6g2RQj/b1ZT+X/33YeRwH7FJGuMoxAKsz5OGJQBzL8kpu8qzlZnlov0cN5GIMt0bZPOFVJlellXpJ1398BQTeIwkMzw4lJHhGuHgTdPwf8DDx/3oXFmD8gN9xMXTBg1xesFm6VGs1wMCsAks3uVCNgMeXfICmZ6eHdFeltqAoMfd0XAeXEEfTx3nQ1w/YNknG8NXIrLCC+Hgz9kjF6yX8aR4E58KV9R/GktGGJJs8JapbPvij14j8HlGTEuBkDGhlz4GtZ+UteuS2hXQHVE0W3v0eVLDuI+w1TUCRslgmQ4pdLFMjYTEfO9KsMEDrED2YBz+yJEA1EwfMIeEOqP07hCBq0O7XyU1BA+diJ1C2PuyyeuKxhc5SM/oLSNI4l/lRJmgBaZJs9MTCFWsitLLKjb5eQKcR3ByaBNq3vfd6okFMr0c18Z+ydeGRZ3LnDVjGkzbbhuu6K5tI=;SfpGT1AXAc+yetzVEuh85g=="
 ---
 

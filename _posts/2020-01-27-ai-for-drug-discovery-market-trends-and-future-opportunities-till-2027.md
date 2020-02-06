@@ -66,6 +66,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Learning Management System Market Growth Opportunities 2026, Segmentation and Key Players Forecast by 2026"
+    excerpt: "Top Players in Learning Management System Market are D2L Corporation, CrossKnowledge, IBM Corporation, Edmodo, Cornerstone, McGraw-Hill Education, Saba Software, Inc., Upside Learning Solutions, Oracle Corporation,"
+    publishedDateTime: 2020-01-29T09:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/learning-management-system-market-growth-opportunities-2026-segmentation-and-key-players-forecast-by-2026-2020-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "6A4ZLzt0uau4HExJXokQ6PGX9Uq3FzPi5YNtkUSmKXmlEngn7QyrcrFZYhLeYGqWlCkpcu5PTBmmnsbbayEoSmODqPzzic6W11ZNbBDTBZ0sX5oN3DMyeFcpJ0Vrl4DHZa+9UiHPDpTO8IJm7wqmSr/SE2HdZ3JypMnod1xiKaCTOZ1Q0C2Wv9SHraVwkPHCx0TZdD0RwZrGxMiF2fpLiCuWkfV7xz/leiF28/7tq+G3df+fgbOyqgHyliSZZghZzIbyXJaIDAjbniy2BHshCFrNRKeXH6yKNJZnR+SpzI5FD/RWAZ0EnJAB+pj+ywgg;gvs1q7nJvsUvU+yJ+na24w=="
 ---

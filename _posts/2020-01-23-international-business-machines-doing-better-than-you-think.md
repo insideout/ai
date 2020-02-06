@@ -44,6 +44,15 @@ related:
       - url: "https://slator.com/assets/2020/01/aws_machinedubbing.png"
         width: 600
         height: 400
+  - title: "International Business Machines Doing Better Thank You Think"
+    excerpt: "Cloud & Cognitive Services continues to generate positive sales growth on a year-over-year basis albeit at a single-digit rate. This is good and the underlying cloud growth rate is double-digit for the past two quarters on the strength of the Red hat acquisition. Granted, the cloud growth rate does not match that of Amazon (AMZN), Microsoft ..."
+    publishedDateTime: 2020-01-23T20:54:00Z
+    webUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-thank-you-think"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "NgFgC8+VkmSgWEBYlKTwnPajUu4fT17hD1EwZCx+z1xB2YCFOmKPdQ7CHefJ8corK7YZQ2zI+qxnHWzPUNorZ/g1HLXMZOLwb5NChVIlZArpqAppRJjdvvvLZz8QIrsuDBrGVpbzHx2Ts/PSwdSTXTjnycvKdH4c29GlpFmXubWDukWi8Q4QdqinNgdibS6GJf7BxB91lb5/eOmAwVWiY6YSMtPr/3oUJ341Ic3nWaD5iTIk5RuovcaW8/o6vSE9S9V7UnVWC5imXIlHUbkSvf67EzHvWemGUItfS6twHXw9btKOvZRBuba+M+JGMmBPFqbxFy+bkAujxVVTNI8owaQA+YfDUKjxMY5End9qPsnCjgRgPi1DpbsLYI3lwrc5eSa7G4RHKJLezGiAWsX0KgpQbE2ycJ53xPd1RXnmTEBrIqjtdN3dFDjlTpRTaoCq7SdJLQ+orKByvRRoHNuslPC7gDrqPkKQCWyOqm3Bl1s=;5SLlUoteT5Rxt0hRaDIfVA=="
 ---

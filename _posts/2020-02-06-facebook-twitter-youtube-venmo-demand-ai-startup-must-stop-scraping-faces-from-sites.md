@@ -8,7 +8,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/guid/1E9F512E-488E-11EA-8EAD-0
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/1E9F512E-488E-11EA-8EAD-08678493A360"
 type: article
 quality: 79
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -53,6 +53,19 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/431443767_3f9ec027b9_c.jpg"
         width: 800
         height: 400
+  - title: "YouTube, Venmo: AI firm must stop scraping faces from sites"
+    excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
+    publishedDateTime: 2020-02-06T04:08:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/youtube-face-recognition-firm-stop-harvesting-videos-68781053"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 37
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
+        width: 992
+        height: 558
   - title: "YouTube, Venmo: Artificial intelligence firm must stop scraping faces from sites"
     excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn ..."
     publishedDateTime: 2020-02-05T22:18:00Z

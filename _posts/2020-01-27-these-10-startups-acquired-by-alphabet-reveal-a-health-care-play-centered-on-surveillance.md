@@ -39,21 +39,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554275%2Fgettyimages-1132912559.jpg&w=700&op=resize"
         width: 700
         height: 420
-  - title: "Google CEO eyes major opportunity in health care, says it will protect privacy"
-    excerpt: "Sundar Pichai said health care offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes."
-    publishedDateTime: 2020-01-22T14:33:00Z
-    webUrl: "https://www.cnbc.com/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106062638-1565093185244gettyimages-1071952250.jpeg?v=1565093218"
-        width: 4054
-        height: 3150
   - title: "Google CEO eyes major opportunity in healthcare, says will protect privacy"
     excerpt: "Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes, and vowed that the technology giant will heed privacy concerns."
     publishedDateTime: 2020-01-22T19:20:00Z

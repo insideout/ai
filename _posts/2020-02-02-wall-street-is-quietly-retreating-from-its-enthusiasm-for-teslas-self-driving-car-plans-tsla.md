@@ -185,6 +185,17 @@ related:
       - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
         width: 600
         height: 360
+  - title: "Uber’s Self-Driving Vehicles Get On-Road Permit For CA"
+    excerpt: "Uber may soon be able to put its self-driving vehicles back on California roads after several years, with the issuance of a new permit, according to reports. The company had to scale back its autonomous vehicle program following an incident in Arizona where a pedestrian was killed by one of the vehicles. However, the permit — issued by the ..."
+    publishedDateTime: 2020-02-06T07:13:00Z
+    webUrl: "https://www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/"
+    ampWebUrl: "https://www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
   - title: "Self-driving car tackles unmarked country lanes in UK’s ‘longest autonomous journey’"
     excerpt: "A Nissan Leaf with autonomous technology tackled complex situations far-removed from the simple grids and well-lit Californian streets frequently used for driverless car-testing, instead negotiating complex British road features in the UK’s ‘longest autonomous journey’. The car negotiated country lanes with no road markings, junctions ..."
     publishedDateTime: 2020-02-05T12:46:00Z

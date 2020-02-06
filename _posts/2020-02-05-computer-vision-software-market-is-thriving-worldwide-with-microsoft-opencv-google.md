@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T08:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-is-thriving-worldwide-with-microsoft-opencv-google-2020-02-05"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       - url: "https://images.tmcnet.com/channels/call-center-scheduling/new/images/wp-right1.jpg"
         width: 336
         height: 280
+  - title: "Data Science and Machine Learning Service Market Is Thriving Worldwide with Mango Solutions, LatentView Analytics, Microsoft, Fico"
+    excerpt: "Latest released 2020 version of market study on Global Data Science and Machine Learning Service Market with 94+ market data Tables, Pie Chat, Graphs & Figures spread through Pages and easy to understand in depth analysis. \" Global Data Science and Machine Learning Service Market by Type (, Consulting & Management Solution), by End-Users ..."
+    publishedDateTime: 2020-02-06T07:23:00Z
+    webUrl: "https://www.openpr.com/news/1921056/data-science-and-machine-learning-service-market-is-thriving"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "U83o+3kr6CtOmUnZBwwUxit3EtmpAF/tR9Mi6OyOLmcPXj4iU4lCuEXT3ipaI/gH+2wAzykMKCd8Namkk0LKGY/TKmGP1berjd8B+Fr3Nbs1PuWjQlgFsjkELOAFK4hoi2mGHtazk/OjYVVcuZ/JwIw15p1wzywibqxAM4H3eAUANuV8iAqxyxUG5xVp2Dp56FUpS/1F7Sl7ucPaSayj79ChhAtJNqeQ/M8ZjR7yiw15IL4C2YJMUx+Fb7HcvEhzou3JlKR/8xmoOFMABygAUWYNNX0WIHY/4Zj+0lbQzef+dB4DJZXLgfH587nVZLdi;17BCNtijRND037tkkCqa+Q=="
 ---

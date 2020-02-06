@@ -27,6 +27,6 @@ images:
     height: 291
     title: "Developing Machine Learning IoT Apps with Node-RED and TensorFlow.js"
 
-secured: "stX60LyDJcU2ttSbgcpAU6jo47cSlnu3z8rGdhd8Iat7eLsp+08QgyfWcB9JYaI8Ras+R0mdazN6rJlDRm4AzpOlBHDauMMofl+MnsZfJXgppQzJtIjkAWWSSHWybJRCqNfyhTnBkJQgQ1lMZck9Vk7wqYKaQoMDBdfgG2buHuhO/C2h5Tp+qh451+D2jCfRXlylr5q/gxIlwyCjnDxd7M1s7Q7kYjbx8SqnkH0lyTv6NEHI3cc2JevpqmJOsrCWyx4Qk0610x9FLY9DNjJ++JWBd+5Y8qqnX6fMJnohuzmOpUtVxVc9OOMlnpPAhtYx;Pf8BcoFXwopIb+LEBH+AgQ=="
+secured: "c17rrLAmAiyI3mXep2f3+nPdrSp46XLeDFCjMF0tgE1jGg3ShV0gu/gOMGMW0oEDW55iCv/T2P4AG0nHBjoXCpOx1wUpqCqK+VIebD3sSfmsQJenxUhIbQikSjDuhgkX+1moC8v2cR7vuqPseXkBjD1B6wMHZiofyo7srfTHT65Jmzd/owl0ue3JKv4QBWuaLQzGDkwQRX9ma0IjK9gKI4MzwOgyqWwYQaMBf0LX8RfmpIKi3NWiBAPkBCpNNp8EOYuogTZ6IPNCn3KHXtoQqf4BSS6MkML69GX+8XHoabtvLY4vqtnm85jpJmce5jUR;grS0DB9oeamhXClRN25YAA=="
 ---
 

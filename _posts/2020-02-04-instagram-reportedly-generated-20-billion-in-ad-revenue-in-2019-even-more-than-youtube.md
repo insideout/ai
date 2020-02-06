@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/instagram-20-billion-ad-revenue-2019
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/instagram-20-billion-ad-revenue-2019-report-2020-2?amp"
 type: article
 quality: 163
-heat: 164
+heat: 163
 published: true
 
 provider:

@@ -58,7 +58,7 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 92
+    quality: 94
     images:
       - url: "https://mondrian.mashable.com/2020%252F02%252F06%252Fc6%252F5335378eb82744b8b802e7bfae6244aa.18786.jpg%252F1200x630.jpg?signature=83PU2mA_LKCXx5zQ3q2x6kyFAW4="
         width: 1200
@@ -270,6 +270,6 @@ related:
       domain: nbcchicago.com
     quality: 19
 
-secured: "2uBbcT4ArJHBtEHoVAudwIReCUN33AVADCEjAisNWhKoN/U0GSqKregItq5Ij8h7mcaF2hF6P7uGQDtlkCOp6+DITK+K9ACgoYakmuW2gj4sNLkvnwdkGJqHWuvJLc5X8aaSS/EqTyPF6wx3oVAx98zlGOkfqd1Yo1wPSZ4J/WkNQcRcHCS08lMemE9A7dXdtwxNLdejsK84OsnaPT4aynumFgHa+18MsurFcrs8SPWF5PULOAK9BsqE9r68RIoZrkQxjy534wk2lDBAXn0z1Dtpz9v+IdFpeiKyH3njSj/f4V7p+2JKKboQ8YteNyA4;trHHnJBkRBxh2zIgbWb+Kg=="
+secured: "Qm5L+xKB57PH8vM6zdLbdT6BIC6km+qIjztvblozWatyzlHjG7iM2PdFU+z8WgcrRaEXEiqkKZhEazI4SsDK3Pg3N7mdKLKQpZGnfJiZ5RO0KaYdgXs5ZKBpszJK4sqEpg9Px3mtaf+N1l8QxseZirXXpa/jTWKr8QWIIWQPj640i1eIE2tp6vIPclsiSpg/7l73ZcBmczp6xUlMppt1ugWl5gnKyQS7wdCU4EcwVZKuIxFXlEhwGrhHcPSoHV7uLdgOskp3QonO77AU++4gNd7XL5rgcZWVN9AqxVeMTpPz3prgIW+V2V90NY/9zQ+BI6MfAf5x1e/wt9sVLj8NrgIKF9jruTFh0+DwgTtoNPeVc77ydl66XedVFQXN3ELEBUEcjF1ahoXZPnXJzlZngSWLhpLvrEciuMXCDqxqjZJ+j2/UMNpXWK/52Q9X8cMfl+C8pSBP51NvBMBLEhWS5XHuTRYGGq4xkOeKU8BJgD0=;7lfhVuLX/uSCE+avdt7oqg=="
 ---
 

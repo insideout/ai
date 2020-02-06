@@ -25,19 +25,17 @@ images:
     title: "Technology Budget 2020 : Will India’s Proposed Data Centre Parks Boost AI Industry?"
 
 related:
-  - title: "AI Software Market In Legal Industry Market Benefits, Technology Advancement and Future Scope Till 2024"
-    excerpt: "The AI Software Market In Legal Industry Market covers important aspects of this market concerning fundamental parameters. The report explains outline of the business range, concentrating on the overall industry,"
-    publishedDateTime: 2020-02-04T07:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-software-market-in-legal-industry-market-benefits-technology-advancement-and-future-scope-till-2024-2020-02-04"
+  - title: "More data center parks, develop AI talent: Union Budget 2020"
+    excerpt: "The budget has also given a massive push to the digital economy recognizing how AI, IoT, 3D printing, drones, data storage ... This coupled with easy access to credit from banks & NBFCs should bring down credit costs in the medium term. For start-ups, considering the fact that in the initial years, one may not have adequate profit to avail ..."
+    publishedDateTime: 2020-02-01T14:32:00Z
+    webUrl: "https://www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/"
+    ampWebUrl: "https://www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-center-parks-develop-ai-talent-union-budget-2020/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      name: Dataquest
+      domain: dqindia.com
+    quality: 39
 
 secured: "dkXCdXscsNGiwSn2LSr/ODmjWQxG5k+gKeVsLTZIRY7ppEqHVQ57ZoXniMnv0BA3i7J2AtBZOJgyXfogZZisX7vD1lJ7Rk2IhTK0Kj1o1q5GlPEKXH74veNnOfYcIfPhSmXGw889pBve7Mgj4ng/+VjPXSRaRU0/k1iMvJoEO+F6Kn5/ekncj0AaboSW3J9qs5q4K1iz06dG1F2QnZ9lqfbVqqErpm3ogZHxx05vvcraT0qbx8NIrCjR8cCbfQWQq+jovvz7W42CgBuEqjM1m6eS+6AfML543ixc1DPleFkJz+H+yjAAYvojYP3HC+qncJMwDKz1PtVTEiZQHuuW891mqC2+1bJks6J9uScRkrMDuD5rLY0gmwO+Ml8NWmnfzn8/2b0jfMhMSHqWTVTBlhyAtUgnQ7YD5XynVX0e/Q7NjH6KXlLXyFXxwUmK1VFdMHSjIUK+wTC8oE9eC4tip5KCvedojqpc1xF88rI7G7U=;8kXPnRe/pxI6TI2V36+80w=="
 ---

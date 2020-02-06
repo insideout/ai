@@ -20,66 +20,53 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Russia and NATO Artificial Intelligence in Military Market Segmentation and Forecast to 2019-2027"
-    excerpt: "The report covers a forecast and an analysis of the Russia and NATO artificial intelligence in military market. The study provides historical data from 2016 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-02-04T11:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-segmentation-and-forecast-to-2019-2027-2020-02-04"
+  - title: "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020"
+    excerpt: "The Global AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market research provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The market report also calculate the market size,"
+    publishedDateTime: 2020-02-06T06:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020-2020-02-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in the Global Freight Transportation Industry, Forecast to 2025"
-    excerpt: "/PRNewswire/ -- This study analyses the key trends and applications of artificial intelligence in the freight transportation industry by mode of transport"
-    publishedDateTime: 2020-02-04T12:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-the-global-freight-transportation-industry-forecast-to-2025-300998307.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 41
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-  - title: "Artificial Intelligence In Military Market: Size, Production, Prospects, Consumption, Cost Structure, Competitive Landscape 2019-2024"
-    excerpt: "The Global Artificial Intelligence In Military Market report provides information by Key Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share,"
-    publishedDateTime: 2020-02-03T08:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-production-prospects-consumption-cost-structure-competitive-landscape-2019-2024-2020-02-03"
+  - title: "Artificial Intelligence (AI) In Construction Market Technological Enhancement and Advancement Outlook - 2026"
+    excerpt: "Latest Industry Research Report On global Artificial Intelligence (AI) In Construction Market Research Report 2020 in-depth analysis of the market state and also the competitive landscape globally. The Artificial Intelligence (AI) In Construction market report provides information regarding market size,"
+    publishedDateTime: 2020-02-05T05:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-technological-enhancement-and-advancement-outlook---2026-2020-02-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Machine Translation Market 2020 The machine translation market is expected to register a CAGR of 7.1% during the forecast period 2020 - 2024"
-    excerpt: "Machine Translation Market 2019 analysis is provided for each region, based on the growth rate, consumer buying patterns, present demand and supply scenarios in Machine Translation Market. This market research report is a beneficial tool for its buyer to increase the profitability of investment,"
-    publishedDateTime: 2020-01-29T06:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-2020-the-machine-translation-market-is-expected-to-register-a-cagr-of-71-during-the-forecast-period-2020---2024-2020-01-29"
+  - title: "AI Software Market In Legal Industry Market Benefits, Technology Advancement and Future Scope Till 2024"
+    excerpt: "The AI Software Market In Legal Industry Market covers important aspects of this market concerning fundamental parameters. The report explains outline of the business range, concentrating on the overall industry,"
+    publishedDateTime: 2020-02-04T07:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-software-market-in-legal-industry-market-benefits-technology-advancement-and-future-scope-till-2024-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 19
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market Expected to be Valued at $22.9 Billion by End of the Forecast Period, 2019-2024 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends And Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. Valuing $8.3 billion in 2018, the natural language processing (NLP) market is expected to progress ..."
-    publishedDateTime: 2020-02-05T12:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200205005399/en/Natural-Language-Processing-Market-Expected-Valued-22.9"
+  - title: "Reinforcement Learning (RL) Market Report & Framework, 2020: An Introduction to the Technology"
+    excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Reinforcement Learning: An Introduction to the Technology\" report has been added to ResearchAndMarkets.com's offering. These days, machine learning (ML),"
+    publishedDateTime: 2020-02-04T11:38:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979339/0/en/Reinforcement-Learning-RL-Market-Report-Framework-2020-An-Introduction-to-the-Technology.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 0
 
 secured: "SmL3PZKZCw7ECZvI9mlbVVISSQwwIbmpdpif/Ns4a0r+u1R3s7aG6aM/cPg7qNX6xcyy4H49hdczEMwtTaJPw1yfMNedLzF43Am1wnfE5FWIICkJPNqVQe8ZXGlLB4LVHfY5OsiIWAFpNQTw8lOg4YjyO0+kshB3Pvk0C+sL4Yj9S1ij8D59zPkDtX5v5PFUdf1xFmtGywjTgBwij3tVBJeCa15MLaaFOLoFFV+hHKiaSzNSf5vaEhrK1MNcELixI023a52Z4Ji74W/cEvpVK70ACxJecP2mXhiRADlUbPgt4H/eEeLjiW9qnYwx7ViW;PQ5JXHDfcp+oANO3T31hpw=="
