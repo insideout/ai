@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T15:00:00Z
 webUrl: "https://www.miaminewtimes.com/news/fight-for-the-future-warns-about-facial-recognition-on-florida-college-campuses-11473208"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,45 +24,17 @@ images:
     title: "Advocacy Group Warns About Facial-Recognition Tech at Florida Universities"
 
 related:
-  - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
-    excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
-    publishedDateTime: 2020-02-04T11:26:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81357/veridium-rolls-out-facial-recognition-tech-and-behavioural-biometrics-product"
+  - title: "Watchdog Warns About 'Chilling Effect' Of Russia’s Use Of Facial-Recognition Technology"
+    excerpt: "Amnesty International has criticized Russia’s plans to broaden the use of widespread facial-recognition systems, saying their expected deployment during public gatherings will “inevitably have a chilling effect” on protesters. The London-based human rights watchdog issued the call on January 31, as a Moscow court was set to hear a ..."
+    publishedDateTime: 2020-01-31T11:35:00Z
+    webUrl: "https://www.rferl.org/a/watchdog-warns-about-chilling-effect-of-russia-s-use-of-facial-recognition-technology/30410014.html"
+    ampWebUrl: "https://www.rferl.org/amp/30410014.html"
+    cdnAmpWebUrl: "https://www-rferl-org.cdn.ampproject.org/c/s/www.rferl.org/amp/30410014.html"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-  - title: "MediaTek introduces new smartphone chip system supporting biometric facial recognition"
-    excerpt: "MediaTek has developed a new chip called Helio G80, which is part of its mid-range System on Chip (SoC) product line and close in performance to the G70, with image processing capable of object recognition and facial biometrics, writes xda developers. The G-series assures enhanced performance in mobile games, while keeping prices low for consumers."
-    publishedDateTime: 2020-02-05T19:42:00Z
-    webUrl: "https://www.biometricupdate.com/202002/mediatek-introduces-new-smartphone-chip-system-supporting-biometric-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/05143300/MediaTek-smartphone-chip-system-supporting-biometric-facial-recognition.jpg"
-        width: 840
-        height: 500
-  - title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
-    excerpt: "Online dating giant Match Group is launching selfie biometrics to help protect people using its apps, partypoker is considering the technology to curtail bots, multi-accounting, and ghosting, local elections in Kompally, India have authenticated voter identity with facial recognition through a smartphone, Alipay technology is being used for car ..."
-    publishedDateTime: 2020-02-03T20:25:00Z
-    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-to-verify-dates-gamblers-voters-car-rentals-and-online-exam-takers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 25
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
+      name: Radio Free Europe/Radio Liberty
+      domain: rferl.org
+    quality: 16
 
 secured: "MjwqSxBjJxnxhRjPw2hJA7ck1GCWZgtEaKvjBYGxgkZidluyHSueMpXux/y3e6rnGO1eIZcmfXvZwCiXvTFby3RukM60gAaIrlzTRmsbjmyiMY3HlS+yG8dUtFqzcooyj98cjAKLAbWLJcfZRcN7/1gspm/rIkpb1rhHpASX+pvmvpZqY657ylI4E4D/KMW0+agdQ7b/cKll4YUfPtqN5vKXgpvAYO5+FOpgjGVxLCRWvipi8yEtvGnUPEx1nFhZqKmoam/P2+KW5j8liW7hlRPBPDPr227BQS2JRF1k5KlakbHAXGvVNOJ7RxNzriDQsth6dAuxybX+Z2jaO2XH7LQLDLDdvnEAvMAcGdKQBV979wj+sDumO6pmb+D5kuIbAWdt1+ffGJzmIME6p39zEUEHnCgKAAYpuJGqdaoQFfR8hjW5enBldPEPBwH+z2GKH0KJ369g+uM6hCXBTuI10SjkrbXlabkPfanT7KhIABc=;s69ZBXWvmOIRngtSJWorSg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T12:30:00Z
 webUrl: "https://www.engadget.com/2020/01/31/podcast-clearview-ai-billie-eilish/"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     title: "Podcast: Why Clearview AI's facial recognition is a privacy nightmare"
 
 related:
+  - title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
+    excerpt: "FACIAL recognition technology is being used in an increasing number of airports around the world to speed up the time it takes for passengers to go through security. But it comes with growing concern over privacy as it's revealed photos of travellers could be stored for up to 75 years. Philadelphia International Airport (PHL) is the latest to ..."
+    publishedDateTime: 2020-02-04T11:36:00Z
+    webUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/"
+    ampWebUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 62
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
+        width: 960
+        height: 640
   - title: "Facial recognition moves into a new front: schools"
     excerpt: "LOCKPORT, N.Y. — Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent ..."
     publishedDateTime: 2020-02-06T13:00:00Z

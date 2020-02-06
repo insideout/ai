@@ -37,21 +37,6 @@ related:
       - url: "https://scdn.slashgear.com/wp-content/uploads/2020/01/messenger.jpg"
         width: 1280
         height: 800
-  - title: "How to enable facial recognition in the BitWarden mobile password manager"
-    excerpt: "The latest version of the BitWarden Android client supports facial recognition. Find out how to enable it. You need to be using a password manager. Period. There are simply too many reasons to be doing so and too few reasons to not. For the longest time I used EnPass, but eventually decided I wanted to migrate to an open source solution that ..."
-    publishedDateTime: 2020-01-29T19:19:00Z
-    webUrl: "https://www.techrepublic.com/article/how-to-enable-facial-recognition-in-the-bitwarden-mobile-password-manager/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-enable-facial-recognition-in-the-bitwarden-mobile-password-manager/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-enable-facial-recognition-in-the-bitwarden-mobile-password-manager/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 88
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg"
-        width: 1200
-        height: 800
   - title: "Face Recognition and Micro Expressions with OpenCV and AWS Rekognition"
     excerpt: "Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use."
     publishedDateTime: 2020-01-23T11:56:00Z
@@ -61,15 +46,6 @@ related:
       name: Medium
       domain: medium.com
     quality: 49
-  - title: "Facebook agrees to $550M slap on the wrist following facial recognition suit"
-    excerpt: "That feature suggested the names of people in photos so that users could more easily tag them to a corresponding Facebook account. In order to accomplish this, Facebook reportedly used a form of facial recognition technology. Facebook discontinued Tag Suggestions in 2019. According to Lauren Gard, a spokesperson for one of the plaintiffs ..."
-    publishedDateTime: 2020-01-30T01:47:00Z
-    webUrl: "https://mashable.com/article/facebook-settles-facial-recognition-lawsuit-illinois/"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 46
   - title: "It's too late to ban face recognition – here's what we need instead"
     excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
     publishedDateTime: 2020-01-23T11:43:00Z

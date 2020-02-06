@@ -86,21 +86,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/07/surveil-796x399.jpg"
         width: 796
         height: 399
-  - title: "Facebook will pay $550 million to settle an Illinois lawsuit about it use of facial recognition and user photos"
-    excerpt: "Facebook said on Wednesday it reached a $550 million settlement in principle related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent."
-    publishedDateTime: 2020-01-31T09:41:00Z
-    webUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1"
-    ampWebUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/5e3217765bc79c3a250185f8?width=1200&format=jpeg"
-        width: 1200
-        height: 900
   - title: "This company scraped social media to feed its AI facial recognition tool. Is that legal?"
     excerpt: "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ..."
     publishedDateTime: 2020-02-03T21:39:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theweek.in/news/india/2020/02/04/Face-recognition-app-yi
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,21 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/voting_ink_ians_505_040220042120.jpg"
         width: 505
         height: 264
+  - title: "Police Use Of Facial-Recognition App Comes Under Fire [POLL]"
+    excerpt: "One attorney general has prohibited police departments from using the app. Should law enforcement be allowed to use it?"
+    publishedDateTime: 2020-02-01T14:42:00Z
+    webUrl: "https://patch.com/new-york/yorktown-somers/police-use-facial-recognition-app-comes-under-fire-poll"
+    ampWebUrl: "https://patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: "https://patch.com/img/cdn20/shutterstock/57069/20200131/021240/styles/patch_image/public/shutterstock-795306157___31140558320.jpg?width=984"
+        width: 708
+        height: 531
   - title: "Telangana municipal elections: Face recognition app yielded 80% accuracy in polls, say officials"
     excerpt: "Otherwise the result would have been above 90 per cent. Even then the result was encouraging, the official said. The Telangana State Election Commission used facial recognition app in a bid to counter impersonation of voters. The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an ..."
     publishedDateTime: 2020-02-04T11:29:00Z

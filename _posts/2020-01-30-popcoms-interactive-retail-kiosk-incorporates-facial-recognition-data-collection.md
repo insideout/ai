@@ -39,6 +39,36 @@ related:
       - url: "https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg"
         width: 980
         height: 551
+  - title: "Facial recognition startup fends off accuracy doubts and legal claims after NYT report"
+    excerpt: "Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News. Clearview falsely claimed it helped the NYPD catch a terrorism suspect last year “The ..."
+    publishedDateTime: 2020-01-24T17:09:00Z
+    webUrl: "https://www.theverge.com/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 96
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg"
+        width: 1400
+        height: 933
+  - title: "Controversial facial recognition firm Clearview AI facing legal claims after damning NYT report"
+    excerpt: "Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News. Clearview falsely claimed it helped the NYPD catch a terrorism suspect last year “The ..."
+    publishedDateTime: 2020-01-24T17:09:00Z
+    webUrl: "https://www.theverge.com/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 92
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg"
+        width: 1400
+        height: 933
   - title: "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount"
     excerpt: "One of Clearview AI's investors defended the company, “We do not have to be hidden to be free.” By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 28, 2020, at 3:34 p.m. ET A screenshot of Clearview's search results. Clearview AI, the facial recognition company that claims to have amassed a database of more than 3 billion ..."
     publishedDateTime: 2020-01-28T20:43:00Z
@@ -54,21 +84,6 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/27/16/campaign_images/5ec0c13d1ba4/20-cashmere-things-so-soft-you-might-want-to-splu-2-326-1580142937-2_dblbig.jpg"
         width: 625
         height: 415
-  - title: "Facebook settles lawsuit over its use facial recognition for $550 million"
-    excerpt: "It also announced Q4 profits of $7.3 billion. After years of wrangling in courts, Facebook has settled a lawsuit over its use of facial recognition. Last year it agreed to stop turning on the tech to scan photos by default, which built a template of your facial data, and automatically suggested tags in photos based on it. During an earnings ..."
-    publishedDateTime: 2020-01-30T05:23:00Z
-    webUrl: "https://www.engadget.com/2020/01/30/facebook-photo-tagging-facial-recognition/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/01/30/facebook-photo-tagging-facial-recognition/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/30/facebook-photo-tagging-facial-recognition/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 88
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F9f7434c0-4327-11ea-ae6f-03d3c1d12ff6%26client%3Da1acac3e1b3290917d92%26signature%3D688df7a5ec53e987c3851a64443c2d368e65336a&client=amp-blogside-v2&signature=1168fd01514e69d66ffbe6501fb414d35ba55583"
-        width: 600
-        height: 350
   - title: "Clearview AI Says Its Facial Recognition Software Identified A Terrorism Suspect. The Cops Say That's Not True."
     excerpt: "But there are troubling questions about its past. By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 23, 2020, at 8:19 a.m. ET Clearview AI, a facial recognition company that says it’s amassed a database of billions of photos, has a fantastic selling point it offers up to police departments nationwide: It cracked a case of ..."
     publishedDateTime: 2020-01-23T13:28:00Z
@@ -125,36 +140,64 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F55c44a8e-3631-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "A scary new facial recognition tool underlines the urgent need for privacy laws"
-    excerpt: "But we didn’t realize doom might come this soon. The New York Times reports on a facial recognition tool that hasn’t made the news before — because it’s not from a Silicon Valley luminary with a big public footprint, such as Amazon or Google, but rather a tiny and secretive start-up called Clearview AI whose impact is as high as its ..."
-    publishedDateTime: 2020-01-23T21:48:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp"
+  - title: "Twitter sends cease-and-desist letter to facial recognition firm scraping its images"
+    excerpt: "Twitter sent a cease-and-desist letter to Clearview AI, the company that created a vast database of photos scraped from public-facing photos, which can be used with facial recognition software, demanding that it delete any data collected from their service, according to a new report. The New York Times reports that Twitter sent Clearview AI the ..."
+    publishedDateTime: 2020-01-23T15:01:00Z
+    webUrl: "https://www.dailydot.com/layer8/twitter-clearview-cease-and-desist/"
+    ampWebUrl: "https://www.dailydot.com/layer8/twitter-clearview-cease-and-desist/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/twitter-clearview-cease-and-desist/?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 55
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 52
     images:
-      - url: "https://www.washingtonpost.com/resizer/ZLffVZNmmkuoQHCjoik1fm4Z00c=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHDNZORPYQI6JPU6MDGEJQA6P4.jpg"
-        width: 1440
-        height: 961
-  - title: "Lawmakers debate whether to limit how law enforcement uses facial recognition technology"
-    excerpt: "ST. PAUL, Minn. (FOX 9) - Minnesota lawmakers will debate Thursday whether to limit how law enforcement uses facial recognition technology. Police are already using facial recognition to scan mug shots and even security footage for suspects, but it is also causing concerns over digital privacy. A Senate committee is holding a hearing ..."
-    publishedDateTime: 2020-01-30T16:26:00Z
-    webUrl: "https://www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology"
-    ampWebUrl: "https://www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.amp"
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Twitter-Clearview-AI-Cease-And-Desist-1024x512.jpg"
+        width: 1024
+        height: 512
+  - title: "Facebook will pay $550 million to settle a class-action lawsuit in Illinois surrounding its alleged violations using facial recognition technology"
+    excerpt: "Facebook said on Wednesday it reached a $550 million settlement in principle related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent. The settlement is the largest payment from a company to settle privacy complaints, a press release from the law firms Edelson, Robbins Geller ..."
+    publishedDateTime: 2020-01-29T00:00:00Z
+    webUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1"
+    ampWebUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
     type: article
     provider:
-      name: Fox 9
-      domain: fox9.com
-    quality: 50
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
     images:
-      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/01/932/470/facial-recognition-technology.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://i.insider.com/5e3217765bc79c3a250185f8?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+  - title: "New Jersey law enforcement blocked from using facial recognition tech from Clearview AI"
+    excerpt: "New Jersey is no longer allowing law enforcement in the state to use biometric facial recognition app Clearview AI, following a moratorium put forward by state Attorney General Gurbir Grewal, writes Mashable. “AG asked that all law enforcement agencies in New Jersey stop using Clearview’s technology until we get a better handle on the ..."
+    publishedDateTime: 2020-01-27T20:07:00Z
+    webUrl: "https://www.biometricupdate.com/202001/new-jersey-law-enforcement-blocked-from-using-facial-recognition-tech-from-clearview-ai"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 46
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+  - title: "CPD using controversial facial recognition program that scans billions of photos from Facebook, other sites"
+    excerpt: "Critics say Clearview AI’s software is an invasive overreach because it grabs the photos without the consent of those pictured or even the websites that post them. The Chicago Police Department is using a controversial facial recognition tool that allows investigators to search an image of unknown suspects to see if it matches a database of three billion photos lifted from websites like Facebook,"
+    publishedDateTime: 2020-01-29T05:30:00Z
+    webUrl: "https://chicago.suntimes.com/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 43
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Z1sfgvRN8Spjpfj6rY2OvYwMNYI=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66211429/large.0.jpg"
+        width: 768
+        height: 465
 
 secured: "Lr3XjKYtBXVqqtQlNYrAnX76hBOyOE5yh+kt6Dyy4WLaSke7ln+2JH1olrFseIdZPYhIraBhACALQ0kb4VSiMbzaMASRJBglGRSVtwh0FnXHXymUemMRIzW6sspL0BYsLcIH4vjvg2Nh2VQ3H8Eg6Jou5uRapjc4scZ1YsULAmz3VqmoJ4aN54xDbJFFb/cWhvBs/ede1EYgNwCyyADlIVjpUuvCGVWxbcg3F4eYWAGnAng3ofsrgWh6w8no3mtnsYNldGSWszDNOYUU+RzezPIuO1frhNzMz3c9kAknMlF7vYneBppCX5N+1+V8dw+w;d8rB7h7IB6p7YgclqL8LbQ=="
 ---

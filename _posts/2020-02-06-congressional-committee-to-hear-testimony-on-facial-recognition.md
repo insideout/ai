@@ -101,21 +101,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
         width: 1119
         height: 630
-  - title: "Facebook will pay $550 million to settle an Illinois lawsuit about it use of facial recognition and user photos"
-    excerpt: "Facebook said on Wednesday it reached a $550 million settlement in principle related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent."
-    publishedDateTime: 2020-01-31T09:41:00Z
-    webUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1"
-    ampWebUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/5e3217765bc79c3a250185f8?width=1200&format=jpeg"
-        width: 1200
-        height: 900
   - title: "This company scraped social media to feed its AI facial recognition tool. Is that legal?"
     excerpt: "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ..."
     publishedDateTime: 2020-02-03T21:39:00Z
@@ -255,6 +240,6 @@ related:
         width: 757
         height: 667
 
-secured: "uVRhovA4WFPzNU2Uyr27bRxAuoijho9PeKMVAM0y1gzsYlFkCXZp4qkGJKWrWYsRmeUp4N3JTgVJjp8NuyYh/jWCiuNKiWwYU7SFParrhhgE9L/rJDLzSS28Lm+49IuR0It3aD/D8p38bHpYNzxWrB/o6Xdb0onZOJq+wVdZwkMqy21/rdjwfiNZ6NHIpOz3QDypA+vMitUc/4CeY31SqmXSKeibzb3BjBkkjXXdKZhnMAmZRf0XPg9ECesmf9vW/I4ozldiBn8/1UvLTwXmbJEJgl4nYP3Y+0WJyf6LCZMGiP4yTTVGc5LJpoj1bkR3;FIoZ/9P6Tua17Y8gXq5ODQ=="
+secured: "loJTOWJvlzRfQw7bR+XQpVt+Atyn0xs2rUIVE+ZTaE/HK42cIcCZTQ//kMwdJteJno5yIIjDijd6Do13fsZllwiME0VbO0I5J11g4dYHNVZ5y8OPNBybYbcg6vpIz00UrRFSznsq0mZ0qGDxMnoDuUueeiemOcwt3lqxQMH3Y1//nhLSQxsIYFjCC0MZngCRs3ZmiNUpKsaeuZif4a6duX0t3jNQ8BjMkwSx7w7RJrRVc7tEAofjJmbdptMAkeytAshfcwPMJLSRlqb6CKXP46LOmiY3dhwiRzIFqW1hqycbxSjTLkMlYr2muRzNbYsnkwA1Hlo23vaM3nFP7NP/3ZoejksVDHni2IJCwti9X76p5MM5wrRoyBrCQ8I3nBlKe2+PtAGZAjJBUIwpSv8OXBDZwMKFkvsyux04pg0dEC0sEnfbWg9jAX4XaS3HDdY7Z/CxykksT5ufB0HVRwqRudALIfiJ+BPRj6uoOY6HsuA=;44JWT95RJRzTiYx7k97l8g=="
 ---
 

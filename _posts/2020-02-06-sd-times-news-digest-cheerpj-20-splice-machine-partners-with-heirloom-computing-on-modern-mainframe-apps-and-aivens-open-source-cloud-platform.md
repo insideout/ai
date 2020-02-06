@@ -27,6 +27,6 @@ images:
     height: 611
     title: "SD Times news digest: CheerpJ 2.0, Splice Machine partners with Heirloom Computing on modern mainframe apps, and Aiven’s open-source cloud platform"
 
-secured: "B1uYTVKKxFRfryKIO/kIG8a8/YFuiRKMwGQqmPNkQ9SlSjUTNlv2IM/4e1zYiyAeWF5WYiLLItn6nnqUt/g2/SAFuzohYaE/ClIfMY/FS8FS1NzIQDFNBKSwVQu6u0ovmzLHcwhzEIlkuzWHn9bWSUJA3RssW1VDxrn7fgpojlYWLobYJHLM7DWLPmCWvmPl0wZFIW7kdRznVO2UH3Z1O0lkTLLSidIEPEGwjdPsGoBmrItics8/E1iJ+r9OEksKZ+uFwhM+wDrLzc1MjV5f/E1TEfPpfCKNh6x2rGGISo+GZBcirUXJ4PstYa2Ln5W9;hnF9fjTsasNeMPeD6ypaRQ=="
+secured: "fa8CnSalEMUk26HKgjtJMFsA8I19WMkUimJJOvQnc/HtKi4hV5LC/PSNxV0XI0HE/8IJTgFavj12tl7rsTlrAgvfktUE4lH930DC9Wdewd/O1/I/MmWPd6bmNegWpcZ03MMm6ScByETbtgYXT3MRinWCzxb6+i7ZDseREiW/6M7eyrZeFWoxHfuYhdAQKWA8KIqxWpdjt4wApIDvqAJ9DwaGKIe5jTtak6r07esDZBb5NIyrNZ9kiHwOtFEvPrSvsyIGUnV8ioQosJk64afFjCeMS01cUVmwE2m8SVG1bC4cwB5ztJdqEw+lm+25kzs1aGd2t11St0okQt2/j5GmIg6zsXM5xcRxyZvW+Swah5BR/9a0VN4ypR8BQmPBBjoxE/dbfJEuyYE1A+OHvVl8oQorBP9U5Xl5PwzOysWKDFel/A5nW/IGTc3gdw4ky+2+ez7OGnaN0EYNlEhBrcn0uROZe9zZzp2Vt6dGjHWsXJg=;RzjqESb0LIe1x3xGEJ3ZKA=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 1080
     title: "Feds clear the way for Nuro's driverless deliveries"
 
-secured: "CqUhbgwf8zEVBNOCItoefDdMeAJu6bxQCkDo7lFt4z30U9oaSycEoV/GGSxF4fRXi9ogsQ73LfXwn4DpykEvb3w5zgt50sfLHyTLBZVCV3+O6MwiscyPeSrtU+34+SJjJLxvuKvUD2kFE1BFt/WM6+oOgiLVL27dOoIAJQWvD7d2GXgQZGl9zVzFYBAVaEXeQoBe1acNqpqscksAGmJ/cHxXO23+w48tEePgtUQKM51XwFIxg/NLlmSCKsN3wMWwyj3pHAqvW6VMDMW77n3s+m+vhuoCNhWMBEOWzBsscKPip4eo8aUXCgv8AQPcTlnl;P8eaEZblRjDC9SFebPLyEQ=="
+secured: "Ued9t4K1FP7j96K4lriUpYWAbUykPJSAqb4DvxiINJ9z2ShdL8tZpBrahKcGING2IiZTCOUw7zH8Y4+X9xhmrHluowgzhwP0KjdMZzdNUEW55invspUhXZunoXVpm4x8kBIP5ER0sDhBtMmZ/HJYmu1HX2ZT0i2mLvvx/biyBS4+pkG6ATtao2FQ2zo/nrMYpqu4O4AW88UKnHs9us88CiQtTVRGsuhvWKLCq8r983ypDp/XWTMjOqDg+sHcntgg6mzXJaD/sDAxzZIE28XLtXQ+uO5s/tyPCEW/znfsfZbkxEPlq6/jLMihQKC9qiev85cQVztQeaRqT25o98/vbXcMgJrsqwkH7fDwz4It4DjuIz31FQbufj+yT3Gnn+fkCDM/gEHk4cD8tLVR+DzuRx5if4d9/WwMid4uUKmBWf7+y/DyeKw/HQj1Cl/gDuMF2LxvB4iOXcemGJ7G1G/exmJ+N2dJFOTmbJArDczthmo=;NOv2bwbJ7+l/sijeBAd+Og=="
 ---
 

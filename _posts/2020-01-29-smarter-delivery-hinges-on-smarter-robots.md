@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: "https://localtvwreg.files.wordpress.com/2020/01/fooddelivery.jpeg?quality=85&strip=all&w=1200"
         width: 1200
         height: 675
-  - title: "Food delivery robots take over Ole Miss campus"
-    excerpt: "The robots can carry up to 20 pounds of food and drinks. Deliveries typically take just minutes. The robots use artificial intelligence and sensors to travel on sidewalks and navigate around any obstacles. They can even drive over curbs, across streets and through rain or snow. In case of any issues, a human can take control of the machine ..."
-    publishedDateTime: 2020-01-22T23:31:00Z
-    webUrl: "https://www.wlox.com/2020/01/22/food-delivery-robots-take-over-ole-miss-campus/"
-    type: article
-    provider:
-      name: WLOX
-      domain: wlox.com
-    quality: 39
-    images:
-      - url: "https://www.wlox.com/resizer/YTBcIDYD2at1iuFPleAdKKkiiVI=/1200x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/K5HBSHMBJFB7DEYPZIQESOTIQE.jpg"
-        width: 1200
-        height: 673
   - title: "Starship delivery robots arrive at Ole Miss"
     excerpt: "The robots leverage machine learning, artificial intelligence and a series of on-board sensors to navigate on sidewalks and avoid obstacles. Each robot can carry up to 20 pounds, as well as cross streets, climb curbs, travel at night and operate in both rain and snow."
     publishedDateTime: 2020-01-24T15:21:00Z
