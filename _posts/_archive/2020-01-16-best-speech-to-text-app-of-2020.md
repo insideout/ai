@@ -3,7 +3,7 @@ category: news
 title: "Best speech to text app of 2020"
 excerpt: "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Want your company or services to be added to this buyer’s ..."
 publishedDateTime: 2020-01-16T13:02:00Z
-webUrl: "https://www.techradar.com/news/best-speech-to-text-app"
+webUrl: "https://www.techradar.com/uk/news/best-speech-to-text-app"
 type: article
 quality: 54
 heat: 54
@@ -27,6 +27,6 @@ images:
     height: 545
     title: "Best speech to text app of 2020"
 
-secured: "lYWotXqTErJu7b2pwixH6CzTOtFQ68yvNN2oHZ1QHyaUykMVAHGkxXjlMHPUNX/qwFt0aTClyVnTkjJ4zLs4UFzxCW+xdOAY+np27eHgVQZj+5YnxIz7n2uWzcfaNz6MqdbcV09S6QF25frILmgdaWtUaxVCdgDhfZx6r0v8bMUpseKApc/9e1r20lAeH7mYvmrrnFpmPPeaXVeA3RYQedprgRTCFvRJCwweiuiiWMkaMQmgucLPGe5QUxVKZoEvm07p24I4Tbemhjg6zIMfmIH3bM/KoqhB/28OJvSQ8c6mrQelKTQejxm4eIK9Vdwg;o5iXwXI6IIxKcWt7/dthlQ=="
+secured: "TQvKGppOvSg8jjBmVHP+p437537fDFh8ZBSJUqjxcX9w4qQbpsuXSxPx2ZFCQjPCP7Cz6icwhnnvDBLHFtcPPtW9IWfBRfP4ePgEX+PFiLXbyScaIGIn5zoNIXh8BKjnZEDAA+M2dFnk9gz1syCiywSjAnWSzlpFXb7x1wrD9Vr773mQYr13EGsAx77yF4CVKh5J9wEC3YGFsojUvW/62Woff24e7FXsqyouVKJINIW9W87rhjOKjLh8RVmyHK6GIrxBBSU1yFcFg6DcPMZy2soAfcMGQUt4zh7yPHC92pBW8PgJhExN/SkCyGeTsgdT;k+3PtnPOOBTsJwLC0sZAaA=="
 ---
 

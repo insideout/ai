@@ -170,6 +170,21 @@ related:
       - url: "http://media.foxbusiness.com/BrightCove/854081161001/202001/3280/854081161001_6120640160001_6120644360001-vs.jpg"
         width: 1280
         height: 720
+  - title: "Uber may resume self-driving vehicle testing for first time since 2018 death"
+    excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
+    publishedDateTime: 2020-02-06T00:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 41
+    images:
+      - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
+        width: 600
+        height: 360
   - title: "Self-driving car tackles unmarked country lanes in UK’s ‘longest autonomous journey’"
     excerpt: "A Nissan Leaf with autonomous technology tackled complex situations far-removed from the simple grids and well-lit Californian streets frequently used for driverless car-testing, instead negotiating complex British road features in the UK’s ‘longest autonomous journey’. The car negotiated country lanes with no road markings, junctions ..."
     publishedDateTime: 2020-02-05T12:46:00Z

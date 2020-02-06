@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Verbit raises $31 million for human-in-the-loop AI transcription tech"
 
-secured: "nsy6+1/y0l/8W+24JrRgqIH3NxXTowl9Vzt76qOuzdYV+iQ9Js4lHCn/D0gkQfgny3O13/4aDV+BCpb+u0WnVEBbEJagAHM7ykRxNPK9vDbBVsgcqAY0yya6OqD/AxBino+W4bjdk1b+C9A0ZzReHVk9jdF1w9E2g6D6hGE7zp5AKQnQ5aNn3fjC1vLBTjkpvSk3L2iXrdosGEeWSziCFwasyFzpXLjAzSFbjfxbhKJAvGx/pyAsmwK9ObI/ezm8qss2BnNB9Hx4SbLsVpZ4nOLM5PJ9ZdbmDv+i/xWMytlu/tCRR99Rk/zyN034kqbD;oyV/Dvjv53NUpJ7dASyX9g=="
+secured: "Uuej6aHhp9sicaojFQdhSwIoxo8OmuQLFtYJcqg34YM7T4XG1bCQBVQsdyy2olsIv8cnEs0LQHsxfvNEd8qJw0e0ZCnqp8Gq+a1DDBWEiPtitXteqWL8ibkOD9awI2BPNP90+OtlzAm284+WnX1URTda0JoOwJpWC0YwS7RDEUYavdZe0jj2kxp9tvzsDkYXRm9xb2zvxKuo7ANyPDDcchMq/q6jhttjarM4HtpYtmWKa661Uw0n6s8ULTOSOrldAYAoXP+c2pOIUn3Hwfb8EM10jRNVomaHhAfya4twEOgWYMPf33vktSzd0t+KvPSM;Img/GHh+ka1WmotQjoVjRQ=="
 ---
 

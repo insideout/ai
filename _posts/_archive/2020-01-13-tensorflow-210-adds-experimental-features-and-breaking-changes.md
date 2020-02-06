@@ -23,6 +23,6 @@ images:
     height: 400
     title: "TensorFlow 2.1.0 adds experimental features and breaking changes"
 
-secured: "khASwUUy/CzDs0KISZhyOB8110uYbooJvCUTRoqciaouFq26s5lXtErl3sfoAzr2pjMd6E9I8sQrhUj+DQJ6yO3wVziHygDxOb51us8d3HoyjtfRi0X2KOLrv/86Xr4ofUnSpxXVKpKha0FwKTl4M/qqZcfutzz9ydbDD5nRTmjILSadFY5PhgnTSROUhZ6PUh1fQoE1mHnknq4/mZmNqgi6yoTjdNya2HPSwmdSrKoRZ0B+LrJ82qZ4S6VinWGzr1IGyrpwAZXZ6A2PbH7sWxaI+vLspA2oIuy2auxvnjxkGmeBt73aG1jI5u57dCs7;UDypRrgMhxCzKzIFIHgNIA=="
+secured: "c53mgShAgXAUUrPbz1GeE2KI1BpzyrBSdOew3t5mBEvvwe1giddZTqkITUIL67Lv0GcUWUMnzBUnBEGU1/H43xeaUq6i8RXCA8JizShkxjoVzn5gC/g3Nw2vc2JoWD7E2hA/WIMD5ZSogsjHF98TVoSkdYbyQoHwgE9H5Ykfc4q1MfIK/KScIrzxGFwruZ3kRiOKNGatVNArmpGEroK/joFudJIbOT/vmJvayi+j3HQ8w9JtYWrpn+uSz6OH6E0wlM8lywZoj/+IiNr6M3WD11iErDzoy9ATpX0bevorW7ZjdkQc+/HHJD+zPRk421iP;iSYzz0BdGhd31gPZCk7n8w=="
 ---
 

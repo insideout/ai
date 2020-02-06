@@ -25,6 +25,6 @@ images:
     height: 606
     title: "Self-driving car to be part of East Bay city’s school auto classes"
 
-secured: "rLphb8hNo1b2ECeFR7qRmcHATgmhPz2WRzY/3X57GClQFrelSP34FcxAExrFLeoW5fz3ufy+1g0gET5LO8N3jcV+N7i9N49JIu+dYmSUDc9sd0RUeLVBdGMhRIscHRAhq560q8G630+n59IJPHZhFKIBMhFU/pe+4gE7ajHonvdA5s3OXmskfkYafz93AJPi36FukurG7zj7xpsGUZNj0qrHk/vG5Lo0lRjQT712IeQ3Zvqg4U/qAAbBv8K5sE40L1LeqKTDU3wDviPJXFJHSVtoz5AAoPr7NqK9bE1WwjSMfvkfwBRFGNbxG4aG5jOn;VRmOSBL43fZSdBclV8zP8Q=="
+secured: "BThkETHKDFxkUOT4HR+trn6Mq3tNmmW2dNwGOpT6qQWijRtnW/soioEsXcgISCels08aKqnSClcl1N8KGSBsL/nCmvzXsIkKckgNBjTeKQ9DS8nJR3rJiG3vMUpmVJ/vZsh6wZ1Gy3QjkPSsFDCimYpF2/GkZhKd412AnE3KNqTpeVkZbXptUphYRvmbTpHPs+zMJDcpdN2cl0/+x5go20Cf28nIHgP2xp43P1Z8xNyWhRvclGNiKkCHEsPApRsmfdDxTRrc50Wzs+kxztwOhDGJmbjtpjU5+xcgZ4AIyQWT5OCpE8wOnhI1SeOBbos52RIavL4eul+OhIp6qIJK6gDpFrYeN3oWLxyUV+Q7TBpMH1k+bgKNoHqC8Wd4VUGoLr2B5jbskTqtcmUhvSMhkH5b63zvcClO9oowohQ+//S+hyx28SgeD0P9zworFNKmZUY9w3eR6nY9/6WIhAjS/LTDYwxBLjWRQ7O1ottJlHs=;l9E4m7yahgLvSk/uFtroZw=="
 ---
 

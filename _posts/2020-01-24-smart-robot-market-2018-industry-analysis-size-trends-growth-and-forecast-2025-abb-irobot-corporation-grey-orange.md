@@ -232,19 +232,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Cyber Security Market 2020 By Revenue, Price, Gross Margin, Production Capacity Estimates and Forecasts to 2026"
-    excerpt: "Global Artificial Intelligence (AI) in Cyber Security Industry research report studies latest Artificial Intelligence (AI) in Cyber Security aspects market size, share, trends, industry summary and Artificial Intelligence (AI) in Cyber Security growth during the forecast period (2020-2024)."
-    publishedDateTime: 2020-01-22T12:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2020-by-revenue-price-gross-margin-production-capacity-estimates-and-forecasts-to-2026-2020-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Healthcare Natural Language Processing (NLP) Market: Global Industry Analysis, Opportunity and Forecast 2019 to 2024"
     excerpt: "The report provides an exhaustive calculation of the Healthcare Natural Language Processing (NLP) comprising of industry chain structure, market drivers, opportunities, future roadmap, industry news analysis,"
     publishedDateTime: 2020-02-03T09:59:00Z

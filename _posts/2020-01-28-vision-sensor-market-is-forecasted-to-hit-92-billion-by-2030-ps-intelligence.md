@@ -29,15 +29,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 11
-  - title: "Voice Assistant Market is Forecasted to Hit $26,872.6 Million by 2030: P&S Intelligence"
-    excerpt: "Voice Assistant Market Research Report: By Component (Solution, Services), Technology (Speech Recognition, Text-to-Speech Recognition, Voice Recognition, NLP), Application (Messenger Bots, Websites, Contact Centers),"
-    publishedDateTime: 2020-01-22T07:45:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/01/22/1973435/0/en/Voice-Assistant-Market-is-Forecasted-to-Hit-26-872-6-Million-by-2030-P-S-Intelligence.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "jK4F4Gio3yqQBXAnMPYqON1LeeHxMnNSgN+TjxnJT5SzwOe/uRHRVU5HBXcoXauenIUPN2zrt+LgPuHeAs/DyqCP+geCkldkQV2lKbwmYwqIUDW4Cf8X8y9Bp18Q0GVcBNuCgj4aoZVcDOY3u2C56+A+ugpw2Z45/+mBYxP2UhPdfyBvaH8bjJqlYKIINSRce74X9fGuRWIg3M2oScCqLTTS/u8EwK3clCRMSBJpCSCAW2Bk6KWViuFrxBlaQ+VXlukS6osxGQmfJWbzjD5aZ5lTqKz+CrEYnnvwJ2NzJ/g79qVKdyzNE0kADQCLGewi;u09NnZ3vUDCMr50Pa400jg=="
 ---

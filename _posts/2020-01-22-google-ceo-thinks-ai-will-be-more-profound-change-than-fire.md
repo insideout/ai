@@ -8,8 +8,8 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-th
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -23,6 +23,17 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
   - title: "Google CEO speaks on artificial intelligence at WEF in Davos"
     excerpt: "Google CEO Sundar Pichai spoke at the World Economic Forum in Davos about the impacts of technology and how artificial intelligence and quantum computers can change human lives. Pichai said that even though there were risks with artificial technology, the biggest risk was to not work on it and make AI better."
     publishedDateTime: 2020-01-23T09:05:00Z
@@ -49,19 +60,6 @@ related:
       - url: "https://www.independent.ie/world-news/1c3df/38752161.ece/ALTERNATES/h342/ipanews_ca2d7cfb-128d-42ed-9c66-581ebdb7c92c_embedded248775887"
         width: 531
         height: 342
-  - title: "Electricity Can’t Hold a Candle to Artificial Intelligence in Significance, Says Alphabet CEO"
-    excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. “AI is one of the most profound things we’re working on as humanity. It’s more profound than fire or electricity,” Alphabet Inc. CEO Sundar Pichai said in an interview at the World Economic Forum in Davos ..."
-    publishedDateTime: 2020-01-29T01:16:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/01/28/556768.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 28
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2016/02/Google-Corporate-Headquarters.jpg"
-        width: 900
-        height: 600
 
 secured: "d8dUkOCnPerRymBwP9XiuKwAGyFsWpSf7eJVbYw+fmDe8jwWYFi/8CgNbYvoIvimtFKyyTq2+qr11McTj3qozjGkoc1ppZwjtHgt+bbx+MYif7Lz8zTscpOKR6DdpPLpQFaLwjrqAd8X2FBYp/x4y3WCQsobdZDtJoyNw1aBCdr/J65/g9Qjw6yPWQDP8orSt6xrAG9fzeR/25+SazSKK5BWZYywUOhvVJPMvnIg2qGMZTCZky2nvUbmb0fgI6qrrCUTEWhq76FZN2JFndVebj/408gDOuILYPZWlpIEcS37pI9tyLceBt6LwFa1Ufmgz4Ch3zAtFOkDL3l8M4CO/maIif+Br0QgU8iM+B+vAgua7jfh4K/MIypidG7Y3tUo4cA7HrG+XMpeqafBGQQSPHjdYv1RrRpChf+WjWr/xrgsj3v49LaGbsXUye/lsIuaGzNPlq79PpCbvUkkqorkMBom7Te3Qij8qz+rbwy2Yrs=;Y5n66CtenzVrHESjvzinuw=="
 ---

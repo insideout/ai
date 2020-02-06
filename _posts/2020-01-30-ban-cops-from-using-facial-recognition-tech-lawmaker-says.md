@@ -257,6 +257,15 @@ related:
       - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
         width: 757
         height: 667
+  - title: "NY Senate bill would ban police facial recognition technology"
+    excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
+    publishedDateTime: 2020-02-06T00:26:00Z
+    webUrl: "https://www.thedailynewsonline.com/bdn01/ny-senate-bill-would-ban-police-facial-recognition-technology-20200205"
+    type: article
+    provider:
+      name: The Daily News Online
+      domain: thedailynewsonline.com
+    quality: 19
 
 secured: "jZRyJRvi5/Ez2ErEdKLhvVnZvEHbvcO9stuDPB9eLmy+lfXEsPqH8+9b0N7O+SRE58bTiJSYaMyg+Heh89EVkI4UDI+o48xUf6IkwADqEE+viT+JfMSI9FSbeZK3yyFxO1nJoWAn3znbD/RTKf1lioDEEhc6r2tXQSMxiqPXdYbgJcxIkbg8TC8qRb9TxDC0AR6+FcX1Eqc2mZ1VOWntsAzdwEvC/5FAm0n+6vQMQHOjl+vYchkSCVmJWe8xjG3dpYHVK8siGpzLuPH6+KUEoJ4gKuP+MP8+fdDpuI+mf8ctEOeIx+tp7NhwSBmjizy3g1AiZL5QIVtGLW6PkEM7C+gWYDF4aA0oTcMzo5Bnoqsh3l533+b02Do4nBIzUiEZMvQ0lvCpBYZBYf7KH2pe9cGlrBWlx90+iDSFACg0X1UwkzAWm2EMj/q1c//dpcnQF2lt4LLshOK6vCEcv2MJazh1KvqcIys83Rpd0xoapts=;hQeW084cmKcv43VEqaEDJg=="
 ---

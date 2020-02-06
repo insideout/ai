@@ -45,6 +45,21 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/31/cba611cd-8679-462a-b4f1-0bf604e5d1bb/thumbnail/1200x675/4253ba1d55270145e9da1a11a543ec27/thumb.jpg"
         width: 1200
         height: 675
+  - title: "This self-driving car has no steering wheel or pedals"
+    excerpt: "The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rearview mirror."
+    publishedDateTime: 2020-01-22T21:50:00Z
+    webUrl: "https://www.wmur.com/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382"
+    ampWebUrl: "https://www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 44
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-20022112310822-1-1579732291.jpg?crop=1.00xw:0.844xh;0,0.156xh&resize=1200:*"
+        width: 1200
+        height: 676
   - title: "£1.2m awarded to progress self-driving vehicle cyber security projects"
     excerpt: "Seven projects have received Government funding to support the development of connected and self-driving vehicle cyber security testing capabilities. Organisations from around the country are involved in the projects, including Honda Europe, University of Warwick, University of Bristol, IBM and the Millbrook and HORIBA MIRA testing grounds."
     publishedDateTime: 2020-01-29T16:26:00Z
@@ -60,6 +75,19 @@ related:
       - url: "https://cdn.fleetnews.co.uk/web/1/root/driverless-car.jpg"
         width: 640
         height: 400
+  - title: "This self-driving car has no steering wheel or pedals"
+    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
+    publishedDateTime: 2020-01-23T13:29:00Z
+    webUrl: "https://www.djournal.com/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_6519890d-38c7-523c-b864-2a565adcb0f5.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/6/51/6519890d-38c7-523c-b864-2a565adcb0f5/5e282eceb9f09.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
   - title: "This self-driving car has no steering wheel or pedals"
     excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
     publishedDateTime: 2020-01-31T14:41:00Z

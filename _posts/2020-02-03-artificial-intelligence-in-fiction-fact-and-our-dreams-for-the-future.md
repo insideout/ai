@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Artificial Intelligence in Fiction, Fact, and Our Dreams for the Future"
-excerpt: "To celebrate the launch of Machina, a new story about the race to build the robots and AI that will take us to Mars ... The first is the actual shape “artificial intelligence” has taken so far—neural network based reinforcement learning as in AlphaGo, for example, or deepfakes. These tools let us point complex computer systems at a ..."
+excerpt: "We don’t trust AI—no ethics, no “humanity”—but we don’t trust ourselves either—flawed, fallible, too emotional, too “human.” Martha Wells: I think it’s frustrating enough dealing with an answering system for an airline or pharmacy that wants you to talk to it but can’t understand your accent, it’s going to be so much ..."
 publishedDateTime: 2020-02-03T13:00:00Z
-webUrl: "https://www.tor.com/2020/02/03/artificial-intelligence-in-fiction-fact-and-our-dreams-for-the-future/"
+webUrl: "https://www.tor.com/2020/02/03/artificial-intelligence-in-fiction-fact-and-our-dreams-for-the-future/comment-page-1/"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
   - AI in Robotics
 
 images:
@@ -23,21 +24,6 @@ images:
     height: 686
     title: "Artificial Intelligence in Fiction, Fact, and Our Dreams for the Future"
 
-related:
-  - title: "The future is here: AI applications for 2020"
-    excerpt: "For example, Google published its research about an AI achievement that tracks 21 3D coordinates on a person’s hand ... Let us know in the comments below or on Twitter, or Facebook. You can also comment on our MeWe page by joining the MeWe social network. *We use revenue-generating affiliate links and may earn a commission for purchases ..."
-    publishedDateTime: 2020-01-29T15:24:00Z
-    webUrl: "https://techaeris.com/2020/01/29/the-future-is-here-ai-applications-for-2020/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 39
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2019/04/Artificial-Intelligence-1000x543.jpg"
-        width: 1000
-        height: 543
-
-secured: "vmbgAnmeOZKcw5WoSIi+gBdQeQx1gCpZfmXK9KNC2uKKbBWfZTihmRl9sWJwi18UAKgd3GQmbqY+zsf1B1FLbRKpDOI9dBH6J68MGaM6DMG17YA3FrAydBVFArSUJG5SZLCobdouBICT7COTt+pOx5VLrRjKg+DzTgimujwI/rrMQDRlcTVUnW7mmd5dS4+sye8Ika84O4lde8mo5pARxQdlFvdRWZpIaKhsiCfqj4C6HeeOyA3FeR7At4nASoSLOlULgDpmNSqexU7PQXjR1dffe6M54O/Q+NyEIM8enoSs+qkzncYIP4GWnLUdMf6w;ix0wp7V/wKZX7oF7okif0A=="
+secured: "Zb1c/oB5blj0MylHD7yhZKw4/eETQgIgZG8P01XdC4Ev6Sh2IcJEz5OjtMub9VibgV2pgI7vz05QUcBP8bkyRFlaDkUSG5pq8c/p8xIy9Ehhrr85xxz4RhsQxZZLB/SBPqULe8cV/4Pp/6HaqFbLsiko4W/+lMBCJIyDmEMiyhrOJNwKVJCrxKa5CjsXtvAFdbCtVtE2J5ZhRqNyuSqb8S8eL+1YfDGJy3kvWS0kcBmxHY3Djslo3tnkq/d/C+Pl5fUgnCKyGSr0WxbI3sTyhcN9ZkySv92S2aQ6ZEtPQfzn6dqXVqXGXLQsgVjdCh9F;L49DtxuozZAE/uFRjDHuUw=="
 ---
 

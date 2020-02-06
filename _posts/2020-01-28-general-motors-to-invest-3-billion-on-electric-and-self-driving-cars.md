@@ -71,6 +71,21 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin-3.jpg?ve=1&tl=1"
         width: 640
         height: 320
+  - title: "Cruise Origin: Take a Look Inside the New Electric Self-Driving Car Without a Steering Wheel or Pedals"
+    excerpt: "\"We didn't just want to improve on the car. We wanted to reimagine transportation as if the car had never existed,\" Cruise CEO Dan Ammann wrote in a blog post this week."
+    publishedDateTime: 2020-01-22T09:09:00Z
+    webUrl: "https://www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348"
+    ampWebUrl: "https://www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 58
+    images:
+      - url: "https://d.newsweek.com/en/full/1561809/cruise-origin.png"
+        width: 1283
+        height: 970
   - title: "GM to invest $2.2B in Detroit to build electric and self-driving vehicles"
     excerpt: "DETROIT—General Motors is spending $2.2 billion (U.S.) to refurbish an underused Detroit factory so it can build a series of electric and self-driving vehicles, eventually employing 2,000 people. GM said in a statement Monday that the factory will start ..."
     publishedDateTime: 2020-01-27T15:52:00Z

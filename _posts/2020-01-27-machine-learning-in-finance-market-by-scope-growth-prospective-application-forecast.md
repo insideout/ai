@@ -29,15 +29,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
-  - title: "Voice Assistant Market is Forecasted to Hit $26,872.6 Million by 2030: P&S Intelligence"
-    excerpt: "Voice Assistant Market Research Report: By Component (Solution, Services), Technology (Speech Recognition, Text-to-Speech Recognition, Voice Recognition, NLP), Application (Messenger Bots, Websites, Contact Centers),"
-    publishedDateTime: 2020-01-22T07:45:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/01/22/1973435/0/en/Voice-Assistant-Market-is-Forecasted-to-Hit-26-872-6-Million-by-2030-P-S-Intelligence.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "9VCkabWsAgwLKFrija9FOq5AmTmxNPMrlNxHQA/D4RuwjSMZLDVxRA5o3Rve+us//8Ki5hDhhGKNjoCxKwckCbNuK1vxcOe2mK+i70YVW2Rh+CZhEBNdXdyIblLzuL2Q57vN+yDr3xRgmefFL5vqCJmwjrZN4xF9filhP4KOn/n62No1+qbdwCql5e3WLeBX8rlHHTE4aw7txAFTQ7TK00vhK6RCsgGAciPebRJYhcSEIc4PJezHti0JdiZhoaWugoRdk88AM8HVz7mgMraluPacSWE9QpqNXoqzBXafoDzQ/J4SctrsJJ+WvEXtX7W0;GQzAmvitAOfgKTAx5nEmwg=="
 ---

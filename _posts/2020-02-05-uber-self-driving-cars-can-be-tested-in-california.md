@@ -159,6 +159,21 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2018/03/self-driving-vehicle-fatali1.jpg?w=1024&h=706"
         width: 1024
         height: 705
+  - title: "Uber may resume self-driving vehicle testing for first time since 2018 death"
+    excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
+    publishedDateTime: 2020-02-06T00:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 41
+    images:
+      - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
+        width: 600
+        height: 360
   - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans (TSLA)"
     excerpt: "Tesla's business is now good. But it's an electric-car business, and the transportation-of-the-future narrative has shifted to self-driving cars. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead. Visit Business Insider's homepage for more stories. The year 2019 was a pivot in the story about the future ..."
     publishedDateTime: 2020-02-02T13:30:00Z

@@ -41,20 +41,7 @@ related:
       - url: "https://static01.nyt.com/images/2020/01/11/multimedia/11pinellas/00pinellas-facebookJumbo.jpg"
         width: 1050
         height: 550
-  - title: "The benefits of facial recognition AI are being wildly overstated"
-    excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans."
-    publishedDateTime: 2020-01-13T20:42:00Z
-    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/13/the-benefits-of-facial-recognition-ai-are-being-wildly-overstated/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/inacrowd-796x417.jpg"
-        width: 796
-        height: 417
 
-secured: "FpR/G2EU2Z1XvcVb41D45H7vxE6gMuhWjiD9ZS/bJ/P5fGZijwBNUEfSHx7MVrcaxaWLrhrd+tPQ7saOuU+oHGWdmqS8wXwbZYDLvUr0kFHPYgDiWHdIZTdknyF5zRBYct5lo8whJpWP3R0xL9ZnlFoI3KMHNrZBbPnqo/aydku3td32aCTO5MxCfnAyDDFrOeXCZVXoyusc52WkTgOMIiC3eBgmzF0k5qQqIUo4lZlE8KJ1MZk6AQUzKrvyweAkrandccahEBNlAx+67YEt0cZsj7Q5T+rFRKGXujb4nsAxBDHZ953/OwToilzWZf4B;4/E4Rw/sGt3022GLUfwE8w=="
+secured: "v+FocyGbK3Ne/5zRnIuFcewtUX2MhB3mgFjBr1rLxaH3/9Z5j1BohTAXOFW0H+byC70+QesE/c6qy3mbXQlxOj1isDDO8I0W5EqxX8Ooa6pHTVD8sM3N6QbftaKE6LXnYPWrTmGA6tatbVzD3AV379s7NLb/R82s0Q40K+qDte1D1yDGaNIAmSb0uJnEbKVLf6z15S/qn3p8aQDoMLkaGMAhH1YyZyrPROtS8FdA8LeTQP9+tw9omeuCmgCJ9hwl7YgmG6JWGAfDkD0r8EmpNRIYOEvJc7CGM5/EP7zIvgHesknJh+Gd5TvDVPKJmsaI;yTsKhwEG2Vs/Xmcahm/vHQ=="
 ---
 
