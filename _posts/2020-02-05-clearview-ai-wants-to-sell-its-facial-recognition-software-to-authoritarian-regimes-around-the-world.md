@@ -54,6 +54,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/hzn0DYF6-yhz7E7TYeTKLCBBFIs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66255869/acastro_180806_1777_youtube_cancel_0001.0.jpg"
         width: 1400
         height: 933
+  - title: "Facebook sends cease-and-desist to facial recognition startup Clearview AI over photo scraping"
+    excerpt: "Facial recognition software startup Clearview AI has been under fire over revelations it's been training its machine learning algorithm on billions of publicly available photos, including public personal images scraped from social media without permission. Now Facebook has become the latest tech giant to tell the controversial company to quit it."
+    publishedDateTime: 2020-02-06T03:48:00Z
+    webUrl: "https://mashable.com/article/facebook-facial-recognition-clearview-stop-scraping-photos/"
+    ampWebUrl: "https://mashable.com/article/facebook-facial-recognition-clearview-stop-scraping-photos.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facebook-facial-recognition-clearview-stop-scraping-photos.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 92
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F02%252F06%252Fc6%252F5335378eb82744b8b802e7bfae6244aa.18786.jpg%252F1200x630.jpg?signature=83PU2mA_LKCXx5zQ3q2x6kyFAW4="
+        width: 1200
+        height: 630
   - title: "Lawsuit filed against facial recognition company CPD works with"
     excerpt: "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ..."
     publishedDateTime: 2020-02-04T00:24:00Z
@@ -210,6 +225,19 @@ related:
       - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
         width: 992
         height: 558
+  - title: "YouTube: Face recognition firm must stop harvesting videos"
+    excerpt: "YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI."
+    publishedDateTime: 2020-02-06T03:38:00Z
+    webUrl: "https://www.sfgate.com/business/technology/article/YouTube-Face-recognition-firm-must-stop-15032752.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/10/33/24/18986281/9/rawImage.jpg"
+        width: 2048
+        height: 1365
   - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
     excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
     publishedDateTime: 2020-02-04T23:36:00Z

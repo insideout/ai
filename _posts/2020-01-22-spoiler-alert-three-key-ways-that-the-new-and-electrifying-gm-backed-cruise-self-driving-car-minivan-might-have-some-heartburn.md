@@ -30,19 +30,6 @@ images:
     title: "Spoiler Alert: Three Key Ways That The New And Electrifying GM-Backed Cruise Self-Driving Car Minivan Might Have Some Heartburn"
 
 related:
-  - title: "Cruise says new self-driving van will save passengers $5,000 a year"
-    excerpt: "Ammann said the company is in discussions with the National Highway Traffic Safety Administration about a waiver. And, while Cruise has a permit to test its autonomous vehicles on public roads in California, it does not have a license to charge people for rides in self-driving cars."
-    publishedDateTime: 2020-01-22T10:42:00Z
-    webUrl: "https://www.axios.com/cruise-electric-self-driving-van-4f3c9616-5613-4af7-bda3-d217a395da35.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/RuadaS8GdpPrVkbGKAu71OjWW60=/0x391:1920x1471/1920x1080/2020/01/22/1579671552958.jpg"
-        width: 1920
-        height: 1080
   - title: "Spoiler Alert: Three Key Ways GM-Backed Cruise’s Electrifying New Self-Driving Minivan Might Have Some Heartburn"
     excerpt: "At a grand spectacle in San Francisco last night, the GM-backed Cruise that aims to bring forth autonomous vehicles with true self-driving capabilities had an unveiling of their newest creation (said to have been devised via engineers from GM,"
     publishedDateTime: 2020-01-24T17:13:00Z

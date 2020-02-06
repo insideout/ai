@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-rev
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/"
 type: article
 quality: 73
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions"
 
 related:
-  - title: "GM-Backed Cruise's Self-Driving Robo-Taxi Revealed"
-    excerpt: "Cruise, the self-driving car start-up, in which General Motors Company GM owns a majority state, revealed a prototype of its driverless robo-taxi on Tuesday. The robo-taxi called Cruise Origin is a “fully engineered vehicle that’s on its way to production,"
-    publishedDateTime: 2020-01-22T10:08:00Z
-    webUrl: "https://www.benzinga.com/news/20/01/15160801/gm-backed-cruises-self-driving-robo-taxi-revealed"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15160801"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160801"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/01.jpg"
-        width: 1750
-        height: 869
   - title: "GM-owned automaker unveils first self-driving vehicle"
     excerpt: "Jan. 22 (UPI) --Self-driving carmaker Cruise has unveiled its first autonomous vehicle -- called the Origin -- and said it could be a look at ride-sharing fleets of the future. The Origin was revealed Tuesday in San Francisco after a six-month delay for more testing. Cruise is a subsidiary of General Motors. Cruise said, however, the Origin is ..."
     publishedDateTime: 2020-01-22T17:31:00Z

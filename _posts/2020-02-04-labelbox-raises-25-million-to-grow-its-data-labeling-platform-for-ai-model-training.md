@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/04/labelbox-raises-25-million-to-gro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training/amp/"
 type: article
 quality: 80
-heat: 92
+heat: 90
 published: true
 
 provider:

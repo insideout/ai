@@ -19,6 +19,21 @@ topics:
   - AI
 
 related:
+  - title: "Facebook, Twitter, YouTube, Venmo demand AI startup must stop scraping faces from sites"
+    excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police."
+    publishedDateTime: 2020-02-06T02:16:00Z
+    webUrl: "https://www.marketwatch.com/story/facebook-twitter-youtube-venmo-demand-ai-startup-must-stop-scraping-faces-from-sites-2020-02-05"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/1E9F512E-488E-11EA-8EAD-08678493A360"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/1E9F512E-488E-11EA-8EAD-08678493A360"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: "https://s.marketwatch.com/public/resources/images/MW-HW845_Facebo_ZH_20191212141837.jpg"
+        width: 890
+        height: 501
   - title: "YouTube, Venmo: AI firm must stop scraping faces from sites"
     excerpt: "which the startup does as part of its work with police. Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and ..."
     publishedDateTime: 2020-02-05T21:50:00Z

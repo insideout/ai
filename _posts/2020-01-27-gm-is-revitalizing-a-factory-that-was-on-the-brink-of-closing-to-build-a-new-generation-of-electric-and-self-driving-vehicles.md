@@ -585,19 +585,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 34
-  - title: "Self-Driving Cars and Trucks Market Analysis by Key Players, End Users, Application and CAGR Value Forecast to 2029"
-    excerpt: "A recent market research analysis titled, Self-Driving Cars and Trucks Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Self-Driving Cars and Trucks market covering industry surroundings,"
-    publishedDateTime: 2020-01-22T10:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-analysis-by-key-players-end-users-application-and-cagr-value-forecast-to-2029-2020-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Uber taking 'first step towards' self-driving cars in DC"
     excerpt: "Uber is working towards replacing its human drivers in Washington, D.C., and they are starting the process by collecting data from self-driving cars in the city. The testing will begin Friday and will include a driver who will maintain control of the self-driving vehicle but will map out roads in the car along with a co-rider. The company did ..."
     publishedDateTime: 2020-01-23T18:31:00Z

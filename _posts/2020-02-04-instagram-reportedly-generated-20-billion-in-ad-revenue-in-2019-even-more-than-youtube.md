@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/instagram-20-billion-ad-revenue-2019
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/instagram-20-billion-ad-revenue-2019-report-2020-2?amp"
 type: article
 quality: 163
-heat: 163
+heat: 164
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Instagram reportedly generated $20 billion in ad revenue in 2019 — even more than YouTube"
 
-secured: "zs/3RRrzIJujxmUxEdaMjW7PfARhIpRKAdQpHoimj3NKmdJ7Mha+KiCapiczEqmManjwWLA+XmcOtpf5fObJneX5NEU1rSlWqwdID5S7qXVlbxbveKahfpt/d0Zsxteb65qYvvGpTnRCqk0n+7880/x8PSQkk2vLeIiOhyfcuoY2Y/C6YnWZX4Q7w4LsMyMl4ucIhpMlE/Tr49UGkFO4sNm47V2MjQf1lo+w3JGhhC4is5znuEfnrZSlSh64V3xF1okmc6gWrDqi+0dKAJjWXgn5ZgGVyrb9yaRmcUEYxZN6Kkw89piYbexZ1wBeqKj9gO+7hdRoC9EffO7o8ssPWQ==;We0596Xznw8LP84+U6g3Tw=="
+secured: "DvFgY0T38ZGaHMgqz9eKXicllBWVcBiKKSIWxrHKVeJuMcLG3i+83BwkZ1iHP07jHsgHAUgcz2NsL0LaZHPSPm1pSrx4gTU2NhFBj/qUYO5b1nPpg1nX/Z6SiytDltkYDtV3EVJnLL1VGqNORe/iHHg6kNkxe+kkyE4GFda7WvBARk16WJg61Vnvwq49/yqDvpyclLEy0TPwF+8GXJBR7zyFSWrhZH1PSLOFLtGMnYBh+1AUVmIiuUhwwjGT9AT0qDwdTJ7Hg6zUAcMosFW46YBUPtuoPUp50wk9D/tbEhemfrOxsvZIlqBIizvfrVIB0i5QZVkvwufvc//18/GRFA==;fXhlGB3B/EI4BCxZXN+rMw=="
 ---
 

@@ -41,21 +41,6 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 500
-  - title: "GM-Backed Cruise's Self-Driving Robo-Taxi Revealed"
-    excerpt: "Cruise, the self-driving car start-up, in which General Motors Company GM owns a majority state, revealed a prototype of its driverless robo-taxi on Tuesday. The robo-taxi called Cruise Origin is a “fully engineered vehicle that’s on its way to production,"
-    publishedDateTime: 2020-01-22T10:08:00Z
-    webUrl: "https://www.benzinga.com/news/20/01/15160801/gm-backed-cruises-self-driving-robo-taxi-revealed"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15160801"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160801"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/01.jpg"
-        width: 1750
-        height: 869
   - title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
     excerpt: "Four years ago, self-driving hype reached a fever pitch. Automakers struck partnerships with technology companies almost every week. Startups raised piles of funding at high valuations. That year, GM plunked down nearly $1 billion to acquire a 40-person startup in San Francisco called Cruise. The startup went on to raise billions more in ..."
     publishedDateTime: 2020-01-22T14:28:00Z

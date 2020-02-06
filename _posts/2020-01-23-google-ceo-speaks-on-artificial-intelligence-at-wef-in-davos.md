@@ -34,17 +34,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
-  - title: "Google CEO Thinks AI Will Be More Profound Change Than Fire"
-    excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity."
-    publishedDateTime: 2020-01-22T10:47:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
   - title: "Google CEO vows respect for privacy as data giant develops AI for medical use"
     excerpt: "Sundar Pichai, the CEO of Alphabet and its Google subsidiary, said yesterday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence (AI) to improve outcomes. He vowed that the technology giant will ..."
     publishedDateTime: 2020-01-23T02:46:00Z

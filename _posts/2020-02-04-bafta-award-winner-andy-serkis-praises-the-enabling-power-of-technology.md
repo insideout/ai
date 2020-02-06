@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/drnancydoyle/2020/02/04/bafta-award-win
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drnancydoyle/2020/02/04/bafta-award-winner-andy-serkis-praises-the-enabling-power-of-technology/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
       domain: infoworld.com
     quality: 34
 
-secured: "xfZ3ZIuJCW4PzFPTGXTor07zJuklEYQBOwkGZESEd25uFlD1WNghwr7lAbF/szSesHbdLa02ryCEHZ5YidpqDuTaIESdg9tsaJN642fHhZuzqKu6fFvTzQ46XC2DgtT8LNbniu5O6CZHyjH6n3CxqSLmZosYtizWnhmBO/IHtPAhn2/dj0BnuKax93s5zfDumkfCsMccfsTAJXZ/VzTxp5J2R5Nl8k+OOhljtakX8khw2Lcocy4WG9HnyKE/gG2c+9yE1A6CS3OVUXog25JZ4LebMS44qSNUGAEFYedqh1EfBB3njGipLWqvvYheMTxqgGF7iewLabV0DQrWA9iZAdXV42xcYx5D05BKdBOCLi4KeZyR5380u1rMUVPGLVNxH2NfebxN30VdcBqAgMi9lVVkqu+W9255zVbLL9NCqAIlZVivb8oIe3b4LTdlGiwepus50GEcVKA/Z2I5jOSE4FQKtJMfnOaQ+Z0+KH0r4jc=;XX2nYvOsiBjpzKDcu7ZfyQ=="
+secured: "/p5qx3lnb8mrhcHboEiTPEdNMrVwM3JFb8Bmf+nRdI2yOlvWclti7kRgxjgwDBv9xT9oJXP3jBmiV1aFlaBvN2Z8mcEBt5uD+fQrGpqMwTyyY1X+VBSKH8drR++TQ2vKPThpNidV0ug55/iqT9NGf9T74HjDr9jat9mqoPl7Tkgw9vT56jA319TLrtjXeAGSKXcWbcBPWVrRB/avAsNIZ/hrUMOBnFo6ZE2g+sGQnpXYZ7+7rU6/9IWW//e72RJ50YRXSPduTnMq2+iEYRsnFn7zeSLLPGxjXwmRlizLRqLt6vlg9eQIDwQxzL8EiP8b494KGskHrYakX2lwbAaME/Z04tXiCYaZ0lERgcFeyyIN1dpgQ/Y2JXTabwDTgEtn0EYBkVLNhyOFtpkPFYyyfjTuJN6oZLUVBGRIVc1Ol2Zbwv4b9rpuKrsAWIvYAC0Go0YZqTIDNLVyNo8snWsHvYOWD1Blkz/070tw66d12go=;a475SMqSC26rEA9zorAJFA=="
 ---
 

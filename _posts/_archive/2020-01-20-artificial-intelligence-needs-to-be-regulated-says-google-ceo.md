@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -24,17 +24,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Google CEO Thinks AI Will Be More Profound Change Than Fire"
-    excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity."
-    publishedDateTime: 2020-01-22T10:47:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
   - title: "Google CEO speaks on artificial intelligence at WEF in Davos"
     excerpt: "Google CEO Sundar Pichai spoke at the World Economic Forum in Davos about the impacts of technology and how artificial intelligence and quantum computers can change human lives. Pichai said that even though there were risks with artificial technology, the biggest risk was to not work on it and make AI better."
     publishedDateTime: 2020-01-23T09:05:00Z
@@ -62,6 +51,6 @@ related:
         width: 531
         height: 342
 
-secured: "QLmznwm1BxlAESAINkYwhOH5XLh1ZgMAVTRWXkibbKYTV377Eu8VIvJDUQXqS+nxkiMKe/mwIVQkCWn3gxRCEUdrXiswuTBinOnotEKUmlRfmXdfkDZhwmzUb2/kBDjm8imZ081CQ6CXEEpBUB1hBuHRRGx5bk1SV49uFJeC0FnQgW3RE+0gwB5BHP1YxK7qooG4tEaI55x4DkMjkrUEtZrmOUZNb3R0lfVfJJ4Cnv80VzO1mpiMcsrsVPWMZNLS7VgzNcC6auIT+goZUgS3XRxBDAmofXdP6/hF5RtUGl/h0e5B8d1LsiFLRRur0E09;m9XFjttdi+CdSxArxFL5vw=="
+secured: "B6tECJcgfHsGUl+8aRuzlvJg0jtMVgv99UrqRrW5MteJSfPUORDn8swHjOIuRsJWkd0daY4EUqcp+c1YkAsYoGj+s2wLwCwoYw/lOia6zT9OgRHqvihGx2zU0z9m/CZbV22wpYquYPRjfT4Dhcd4Xe7ezBFiGMatsz7vMhUAVIjCmX9ZCcGfFruhjtM1HoB6r/s5TcKuvKrnuk6R78ZkfZhrfIuQ0qQw6pcfHnTKwgSTIrKirHUEyH+7Hp9w/2/f1vMkdBSNzuEqTVlPfLgpYZxDPES+0tYRN9au3eCGsG5e27D7/lTBU2wNnf6ow3aj;iNsUwn854fysjzfWva1GdQ=="
 ---
 

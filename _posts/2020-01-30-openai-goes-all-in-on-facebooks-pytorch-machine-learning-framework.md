@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-te
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/"
 type: article
 quality: 223
-heat: 223
+heat: 224
 published: true
 
 provider:
@@ -31,6 +31,6 @@ images:
     height: 600
     title: "OpenAI goes all-in on Facebook’s Pytorch machine learning framework"
 
-secured: "dCmRynnjxTfcVfgl0xwi8Kmqh+Z6OrKGTdoHC2emJUxhtTmqm0CA3KBf7nGaxrwCctGRBX6RBYhcbxhtBxMEJ+ePT4hfiRaliyFSx3GULPNUgVO2hkvF510N1K+JUyGCyzfVpwNLcdZIPY5VXIgDU23mE7GYVVk6gVmzvonu+U7Plg17GBNJBhTjGZ++bhotm+ypWmPRcgOfZ4iOHh42SVQEDrfxxKhOISimY8oOYzmqv5QFTCgT+qTW9E6PTrR34AqKNgiXKSnk2gQ/WqfFiQaWU/HSnjoyV65EqZ/KvbPBHAVBquv8qkVkaBfczw2qOrpW7X4WlLL2cHxcGe0JJgSF6SHDE3NsBfqxoBZbDS9FdkzuhzgNKhkHjjsM12Trzsl7GNtD3u41LVX6Fjc5DSpbgADvgPZN4fzSA4/d6ZITmI8xKSK7yrLD4PbZNzsAJUVpCIHSOBIRnXaZCYs4XLU0RHOG4Qwyv7r+6qRmot94cuyg3M9CIz3iUAmnPVX/;qsUbWisnWasMRPHuJO/FTQ=="
+secured: "IoBuK1PgqiL5PsZ+j6MDnuhcaebgOhippVVGLZkxQfiOz6ObECtJytZjDlEpWi9dJzLtWRuJOewuzTvftecAUgHkGwFS1tHkAJhPX2OjrGrdUqEzRJRORVITJd/rcu6BG6Q1yTi1DTv8lJ3spGH5WbAT1bcUZt+5rUmfCZT4tviZ7Y/q3F78UIoYv5tB8GgiXFwR/jKGfzzAtdYTeIrOgUis2xNG0gCXohh5T51tTrLmMNGdAceCkVBspwvO9RBhde3bY6Z9FxqxbNxuB4y44eEL+EfXVTAJQl9a2xxIGahSwi+06icG8eHymeaCXwemwXUaw9M1WUzTxgnkO4L+sGUf3fASd2tsprYXqeGh17bVGGC3R65i0TvzW+14BycHVUmUosA1R5GIbqHuVUB4O+vhch2kzCU9rDHFrDF70R/BOKYqshlFSpVvfujZCSgidKJpQFhFqApMcylEkAjfBy0Zxlyam2MHBFvRCw7VIDCb72PUHfRgTuoNqGSaa95E;Ah/KcmWEGk40mPphZXnhaQ=="
 ---
 

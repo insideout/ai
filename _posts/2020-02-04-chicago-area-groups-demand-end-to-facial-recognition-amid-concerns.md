@@ -42,6 +42,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/hzn0DYF6-yhz7E7TYeTKLCBBFIs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66255869/acastro_180806_1777_youtube_cancel_0001.0.jpg"
         width: 1400
         height: 933
+  - title: "Facebook sends cease-and-desist to facial recognition startup Clearview AI over photo scraping"
+    excerpt: "Facial recognition software startup Clearview AI has been under fire over revelations it's been training its machine learning algorithm on billions of publicly available photos, including public personal images scraped from social media without permission. Now Facebook has become the latest tech giant to tell the controversial company to quit it."
+    publishedDateTime: 2020-02-06T03:48:00Z
+    webUrl: "https://mashable.com/article/facebook-facial-recognition-clearview-stop-scraping-photos/"
+    ampWebUrl: "https://mashable.com/article/facebook-facial-recognition-clearview-stop-scraping-photos.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facebook-facial-recognition-clearview-stop-scraping-photos.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 92
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F02%252F06%252Fc6%252F5335378eb82744b8b802e7bfae6244aa.18786.jpg%252F1200x630.jpg?signature=83PU2mA_LKCXx5zQ3q2x6kyFAW4="
+        width: 1200
+        height: 630
   - title: "Clearview AI Wants To Sell Its Facial Recognition Software To Authoritarian Regimes Around The World"
     excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 5, 2020, at 6:09 p.m. ET As legal pressures and US lawmaker scrutiny mounts, Clearview AI, the facial recognition company that claims to have a database of more than 3 billion photos scraped from websites and social media, is looking to grow around the world. A document ..."
     publishedDateTime: 2020-02-05T23:16:00Z
@@ -213,6 +228,19 @@ related:
       - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
         width: 992
         height: 558
+  - title: "YouTube: Face recognition firm must stop harvesting videos"
+    excerpt: "YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI."
+    publishedDateTime: 2020-02-06T03:38:00Z
+    webUrl: "https://www.sfgate.com/business/technology/article/YouTube-Face-recognition-firm-must-stop-15032752.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/10/33/24/18986281/9/rawImage.jpg"
+        width: 2048
+        height: 1365
 
 secured: "xphGBWfLMp6wcrisVgucSgG06JdS8nJIfOOS/AQ0DOcf0d+jFtLLuLP3wrxK16TOHCSLaFl/FtHR2tQ2MfLHsbEif+8aat9ow4yBPyQYCYVNbr3PtsAA9AxsOcrSKsMcAKaP7YS8/WyjePW6d1/zzVEiSTmhki03xr2BXVmKCFwqHsS5phHpmp2z/vsZuYbKfifzMkkeAm4LQVU4Hp4cie7ZGJKmCFxx7MOao6txLsOW0u2xhi5toYVD3K8dq2nF7E7RDkOmD2CGcyVJVEoIUxGI4a6NVz5iLDZkgqUeAtn6aC7+bBiRxM3sy80nO4MlbsoNaPe7khUy0LxWPfJ+wYO0f/UvRrVcS2qrV6NgCHFv2rrsjnCTmsfvNFnPR/nw60eZ7vMGtMHHnA/eIsQW05o4gKxNF5ee6brrCmncqeTySEEe24oFLUcmnfN2fVrn7u9306b5PcWrDbkr3ZEB9i6J5gmFKBcBtirG83NWn2A=;1e6XUnlZ8+fZnMZ3orChWA=="
 ---

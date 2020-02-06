@@ -39,19 +39,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F44137954%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D209%26cropY2%3D2459"
         width: 1199
         height: 675
-  - title: "Cruise says new self-driving van will save passengers $5,000 a year"
-    excerpt: "Ammann said the company is in discussions with the National Highway Traffic Safety Administration about a waiver. And, while Cruise has a permit to test its autonomous vehicles on public roads in California, it does not have a license to charge people for rides in self-driving cars."
-    publishedDateTime: 2020-01-22T10:42:00Z
-    webUrl: "https://www.axios.com/cruise-electric-self-driving-van-4f3c9616-5613-4af7-bda3-d217a395da35.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/RuadaS8GdpPrVkbGKAu71OjWW60=/0x391:1920x1471/1920x1080/2020/01/22/1579671552958.jpg"
-        width: 1920
-        height: 1080
   - title: "Spoiler Alert: Three Key Ways GM-Backed Cruise’s Electrifying New Self-Driving Minivan Might Have Some Heartburn"
     excerpt: "At a grand spectacle in San Francisco last night, the GM-backed Cruise that aims to bring forth autonomous vehicles with true self-driving capabilities had an unveiling of their newest creation (said to have been devised via engineers from GM,"
     publishedDateTime: 2020-01-24T17:13:00Z

@@ -234,21 +234,6 @@ related:
       - url: "https://www.dw.com/static/stills/images/vdt/2020/beng200123_004_qwibutterfiel_01g.jpg"
         width: 512
         height: 288
-  - title: "India's Telangana to test facial recognition in local elections"
-    excerpt: "The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday, authorities said, the first such use of the technology in the country despite growing concerns about privacy and surveillance. Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri ..."
-    publishedDateTime: 2020-01-22T10:30:00Z
-    webUrl: "https://www.aljazeera.com/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html"
-    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 59
-    images:
-      - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2019/11/7/737f7651ea7044cca6269f4f9417d6d0_18.jpg"
-        width: 583
-        height: 325
   - title: "As use of facial recognition expands, travelers worry about privacy"
     excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
     publishedDateTime: 2020-01-23T17:36:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/04/how-ai-helped-upscale-an-ant
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/04/how-ai-helped-upscale-an-antique-1896-film-to-4k/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 350
     title: "How AI helped upscale an antique 1896 film to 4K"
 
-secured: "WhLq4Gp9xVzwPYcErjS3EjhKhyXh3gSsRsqNW3PibfgX51quizktZi6pUObK/8EQs2GpOLlcRGFN2/CfErwCkAAVMF8NJmu0yjf9TPdi9tdjof6Mf4Jc+U7f2oPbj/9i7QXiaKk2nWo1wga/fk8xrumnYMfjLQHsrkRwNrlCOhvTl2YpL6ko7N/NxgbdXaUsYLwKTqR38zbBbEszM0rUte/dxDg8lRhDkooHPKO5ULOT2MyAhq0AWUH8yK4ts9OvAoFF/ts8xyubzL/kyq6w8Wjy0CwmV22SSY1dA9tz4Z9SYe6p/GZiP2pMLrGToHsHrtNB6snR1RGUvvbbCoBkAq7qsPrdEn/5vu6G2sASD7eBgC4oz0Awcoi2WPuMskJ4Jt2Wo1hZIpkueIqwDUJZp8Qz4RBy4nCUJsgCefCCgWY8eZZmtl2BxPYieHkh2kZ0GwXt/6TkYPEaaCRRfKXdH7G3KdPY8oDw9hsTeYL5jdE=;CzLwhz5rAdnTuqU7yiR0TQ=="
+secured: "f6jV1E3W3hzYHlJuGVI42R6D2qeqR4eCt9If7kzKXxAQYIuhAbACKHO9VQCx2PLvFbkT+qdQVe8chDLUj2LU5rL2auqWfPKa6k/a3eNrfHEFrVH1ygiWVAxXh1yHyFn1HIPNihrcSMrLrwzmWMqqHq1PUeLz7OK01oL+iKtioYM2WGuAA8iwCoqKUWouDVms8mcbViEhfd2NQHMkngQY3hkMppNN0XCxNO5BFMNAPDOBEbEKIy8oW1/1GrbMRaj7TA/aGcKNakZC/+qB3mU6pPFDvLF7pdK6KMhMVrs7akwnlXxURdPKAU9jEzFqlNtGGEjBp75gZTjuY7SYiyXJsCNw21y1MiWr1tprG1P8TEz3oxB6+oZdBM4NkrHXxzIAk4L3fDIdGYifme3z0HxC9hthRgal2HcJxQasODoQJuq+Ko8taiRVG4q0oXGFH6/1LqdEH8O2GW70gt/6dxQBV7e2t0IOTLCgxN8N7SX60+Y=;aSW5v5mv37FTgOCnH5WrLw=="
 ---
 

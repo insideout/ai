@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: CNBC
@@ -29,23 +29,6 @@ images:
     height: 1219
     title: "Self-driving cars take over CES: Here's how big tech is playing the market"
 
-related:
-  - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
-    excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical ..."
-    publishedDateTime: 2020-01-07T17:40:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg"
-        width: 1200
-        height: 729
-
-secured: "sfR/JX1JT/bR6qJjUWnTXe7S0M2NUD5je0b7LJqVotuHpqQjzHqJr51ii+WX5es3hU+arAuTVypDoWBu5ppa/cAcQAVUwz5TVmyyPPfB3qk234Ejsg5n53QadTzj22+neddteXZYUbvJu8KGTkNYSXn0c2f7Ngyv498xVUhR1ZOrQlmg5DxtTYNTCBHx/LxtUVxbU4hQOTMcNKIMHyaerewctf5BPGVfovT5YkdByVR0R7Ec5lR0BObEzjZ0qUHIJZT1uo1l7aO9RUeEjm2qX0YharBUbKn5+XHMoWrGYUSGv4xcz3lBBjU4dW+JkkoD;d//Q+B+AR6tV9NaI0H/AXw=="
+secured: "B+pGxxoPRE7Jitk7Aj0a1CtgdnDh+K9jLPEm0hOqkXarWjPjlYPU/fYRT4++a80XvUAUJTlHDIYdo2CVDd9fz7W/YRTMYIETD1Yk/96ljnvxUPh6+C7UYvIZNUxogR2VNQXpKnq6RwzH0HkhNA7rZOMLOMB16zlYgYFncGFZaQDyZHnuXSgJy0hmL6WT9nnD5euQZ1FXZwpbqFsPsQPST042SSC4TyrpAbtA5MmEwU4IT8ncR/wSEa+9cIj2ghSaHvtAl0fuhRXfqIV5I3g2Fnftm8gmPY84tSVxa85BGONm/U641dq4NEDrns4h11Uz;vEbc4sV7OCqDUfrCpOda5w=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/how-machine-learning-is-helping-credit-ka
 ampWebUrl: "https://www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/"
 type: article
-quality: 90
-heat: 90
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -22,7 +22,6 @@ provider:
 topics:
   - AI
   - AI in Finance
-  - Machine Learning
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/r/2018/07/26/04dbf63a-2aa4-480b-ad61-5d857987ba31/thumbnail/1200x675/8929444376cb1c585bcdc20bc3026ca3/creditkarmathumbnail.jpg"
@@ -30,6 +29,6 @@ images:
     height: 675
     title: "How machine learning is helping Credit Karma reintroduce itself to users"
 
-secured: "4cXIp8oYkgeG102C7W2mh9KLxgEYIDNh3rpS9EzG095yWT+XYfdiQWQP6WrZ8g/+bw1FO2Xy4r8nFiHc8FLnBt5lJgwQ4ZJ2zGC/+iH0VWnwNb4UCsc+eAqacUjXkbwi7h9Ix92z3Z7PuJSXSgtLuYBk9kbLfNzpFWB9C40ShGsvKCrqKaC2Nd0+vyq2J3d171oPtTArh8cJLHmMwcXZthSVGZJxOupOQYAFQl8qj3Axif6ipg3biEfFvGyuLJFUi2eXIdqjFtaQtXIPo2s/FNyfYI8Es37gnHTnOvtMYJzousZsgyAN2SudoiINCW3c5b35puIp0FsouW4HZE0sLoyPh5nKxd5QyQDorZLE0pXtRrcKf8Q9WugNRydrwoxN5DtbuYGEM7iMjGguR42a3Z504eYjPKcGTsErzqwVzWulBNMluz+prqgRdI6e03l0RwyEYlmiVWp+YXrl7uTA4Q==;Hn9IRxQRDelO3FYRFJFXCg=="
+secured: "UgeGw3BIja8Smas19KwgyMOjX6nH/4+YT6VEmiELSVGrWGACU4GyTsTPN4r08iI+eMKx5yzw6htZdARXs3cQKFRx1mSZQqG3JrzNr/W7hF0xU/QYThNXO5CnbO5RyS7vS/sG0jccje6bzEg7hoWx3jXNiDckx6yc/VgScnGgExGP0YjlwL0ewp1VZL8gSVOIbjlCK/JzqotZEr8VkKtRnmjcbPcQnHNewVw87nVSL8nXC0CT47d6mJuTfzKxq50sagEbCsUnuJn7R99YWQqKu0sA5CFlvO4TVnP5p2QhBk9r1/MYDgEMYyRzbl+Ou680;IRZ1hhu76Rb5wSMAJjsmCg=="
 ---
 

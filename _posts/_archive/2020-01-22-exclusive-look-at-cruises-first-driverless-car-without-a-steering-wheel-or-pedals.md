@@ -107,6 +107,6 @@ related:
       domain: fox2now.com
     quality: 4
 
-secured: "Hq8BvKh8aqoOjFAFqekkZvnZ2zd7QFLb8fEyeo4IgcxLgTYSMxwLpU8kezjmXXdBDrv1r2IUsXlO7msAqY/maeEnRxZxyVo6a8ZDeX2BfBAaGBmE5gxGaWRfvuczZxD65TqyhdSnNnXz/SDEcuMJCw27Er7sTWRAOx/5vyTi8FVxbIad8H30n+1xDT0b0cNKxVdx6Qbcz/GyQMWJiCyFyINHnYhqgMNtoS5rv8nt4Ov3+GdxygyY9xMweP+wq84pT0iuk+My7tKPFXo/gOpZ6qTmRYmDyzvMXMMl/OfuKAI9FU3MCaGTJY+gPgzAVZCl;xpKKmAuwYc+jHKyZpeynpg=="
+secured: "A51vM0rL4nPa40ncz4tI2HkiIgQoCZTuicCxyyelTZmecXWcyNXw9+LD/9VIy1CXW/RuJ+qslYF2LFq9qFwH+eMXUqNo+P8545xTyMtM/emiMNtcIyKFmrwSb42Afp6/ShJk67B9XVAVWiP1EAG38/Aq71+tMT30VWMSj7GUtP2H8Nz/zQvWP6BiWPFxHoO/OCLBiDcRAVK5EqUHTVTnhJpnYw+dMAxEwyYaxOaiLO8CwwFasf/WhCNtYpqAUzNvqwWhk8Bp8wezQI5BWjxORf8E3Vkfw/aU64Wu/+gGmb16gvQ6xnmxpcllpD2FZC0Y;mFbGszPhQ5z3rSzlbdsv+w=="
 ---
 
