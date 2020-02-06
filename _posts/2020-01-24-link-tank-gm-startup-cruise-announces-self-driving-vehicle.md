@@ -115,19 +115,6 @@ related:
       - url: "https://tribktla.files.wordpress.com/2020/01/hypatia-h_0c7b65aa9535655afa28db9d9fd0431a-h_e39d11c4cf556bf531badd230e2e2089.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 919
-  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
-    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There's no ..."
-    publishedDateTime: 2020-01-22T18:52:00Z
-    webUrl: "https://www.stltoday.com/news/national/gm-and-honda-unveil-self-driving-car-with-no-steering/article_71c134c6-6d37-5456-8185-fd70939c114a.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
-        width: 600
-        height: 517
 
 secured: "q+7Cb7Noj3TsSUWiv117F3A19FAG/XKNzudHrP6REIMbhx0eAA2ubYCc5ZXe77On8Uo07uSpkHqKiU7ju37rgWfL0ZmDZlczcxlWootd93zeI2cPRCd73gqe00X5MRe45H4A5yw4a2YmOK40VGRSUJTJdFiVlJk0X4b02qeNgxKbMWAug7vlmhXfztg3hHY0JCgpnQe4zHwNxZXfZ/N5vaij82yR21bslfprkCzhNkoFgq8+cBHe2iqjyPGMCZ3QpcR2QtVH7st1We/EjkRrhS1+jcFPdGDoUzY8o2N4pJoXK0MAMqEOLRmg4bYlS91BPjgIiots0w401OKxObsnWwum5bJ/zfKXvyX6yWZnzMpsjINTEjKwDTByR0YqZL24N+pd+1VBJghFHxAoU2fsdLzoq2JhodkNFhXh/P/AdJhrcTYcXD2BVguoIL9QybBXDczzgt4TG5vqzPDEV/BdKUExgIlWjl9zdMKQ3cRCijk=;Vhp5mvgPZDPH8PfvjW4/tA=="
 ---

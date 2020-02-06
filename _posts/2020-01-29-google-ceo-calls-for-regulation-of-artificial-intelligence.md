@@ -128,19 +128,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/10/11/64/18914618/5/rawImage.jpg"
         width: 1920
         height: 1244
-  - title: "IBM Calls For Rules to Curb Bias in Artificial Intelligence"
-    excerpt: "The EU’s executive arm is set to propose that the new rules apply to “high-risk sectors,” such as health care and transport. It also may suggest that the bloc update safety and liability laws, according to a draft of a so-called white paper on artificial intelligence obtained by Bloomberg. The European Commission is due to unveil the ..."
-    publishedDateTime: 2020-01-22T06:16:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/01/22/555445.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 41
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2018/10/artificial-intelligence-3d-printing.jpg"
-        width: 900
-        height: 600
   - title: "IBM bats for regulating AI based on accountability,security"
     excerpt: "To ensure compliance with these expectations, providers and owners should designate a person responsible for trustworthy AI, such as a lead AI ethics official. All entities providing or owning an AI system should conduct an initial high-level assessment of the technology's potential for harm. And regulation should treat different use cases ..."
     publishedDateTime: 2020-01-22T19:58:00Z

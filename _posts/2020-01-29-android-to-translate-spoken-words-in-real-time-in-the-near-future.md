@@ -306,15 +306,6 @@ related:
       - url: "https://cdn.pulse2.com/cdn/2020/01/Otter.jpg"
         width: 1200
         height: 925
-  - title: "Docomo invests in Otter.ai, to develop AI-based translation services"
-    excerpt: "Using Docomo's natural language processing technology, Mirai Translate is expected to offer precise machine translation between Japanese and English. Docomo plans to support the launch of Otter.ai within Japanese companies during the fiscal year 2020. In addition, Docomo seeks to develop advanced translation services capable of conveying the ..."
-    publishedDateTime: 2020-01-22T06:46:00Z
-    webUrl: "https://www.telecompaper.com/news/docomo-invests-in-otterai-to-develop-ai-based-translation-services--1323596"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "9FoPMvAPn47ff54Ln+Q4xy7JNyyuavrYkD386EWahiDz7fI6Lwc9ot07Xxise843iBdscS5MAiA/5/t7i98vqKCGKTZPwkCMLhK3Z2TlYn66bYMVht7X1GrqxFfvCwzItK+cvrr4G1dUnwBTeh3y4toSi5ZQOomvE/cXfXadl+N+Dja0WTglnmZjZdQgUfVqIWNvcAW6PEQoaCvkK7pRZaF/zgIZ9FTFpSHunBr+T4jLVMj4WQtnDqoBoJy1vRaraXgoJICLOKcosD4o6pj1ERquvx407J2PttNFtXgNwmWKbLRgpSLd+1NeZOF1mHBCZtNFIiuq8JEMnqFvU6ARQyXRduk+rWGlFvZcb1t40XV8ht5HmiVEe0TGFL51coAwcBXq2xp2MnkPKvnBjP3erT4tF79/qCtZlyaXOvvg00EDeoT7vfKvMDJvl/+bK5ZUf7jZbkKosQmL7m5f+VD1Ar0ZSmjPfahaBVlVOrnwNUs=;CiMxf7i8iTiEkB82y4t60A=="
 ---

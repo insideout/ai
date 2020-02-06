@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/04/how-ai-helped-upscale-an-ant
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/04/how-ai-helped-upscale-an-antique-1896-film-to-4k/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

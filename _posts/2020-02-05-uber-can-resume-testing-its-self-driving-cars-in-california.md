@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/05/uber-self-driving-car-permit-california/"
 type: article
 quality: 74
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -172,15 +172,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "Uber Gets Permit to Restart Testing Its Self-Driving Cars in California"
-    excerpt: "(Reuters) - Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona."
-    publishedDateTime: 2020-02-05T20:13:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-02-05/uber-gets-permit-to-restart-testing-its-self-driving-cars-in-california"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Self-driving car tackles unmarked country lanes in UK’s ‘longest autonomous journey’"
     excerpt: "A Nissan Leaf with autonomous technology tackled complex situations far-removed from the simple grids and well-lit Californian streets frequently used for driverless car-testing, instead negotiating complex British road features in the UK’s ‘longest autonomous journey’. The car negotiated country lanes with no road markings, junctions ..."
     publishedDateTime: 2020-02-05T12:46:00Z
@@ -217,6 +208,6 @@ related:
       domain: theguardian.com
     quality: 4
 
-secured: "80DQYPYpjbcFj+ZNrReoR1pTlkbxDEcxVxfcK+KwZHV0WRRgYw60U4rQCmrf3V0d8QxxJT4IcxU42fevvsgqp3oajIVNcjh1iPhUD0ro1KMYBq/zUTdsqTMyscUe9h4GU2/Ufz5hhhmo53+tfoXXMf2BM/UNeebMvNJSirUntpqefXOMgOjnR2nbAVzHbtCUG0Kb7D3L0wmrBtlXsFEX43o2uq+7n+VBkcS0H0biOKbtXbUD/WtIU8qtqXKV336jKXPfy+SPo+YfHJ9AlP3O26iUMJtsL4y7ds99pSv2rF4N1fbJwv/+95z3nQhoS0n/;tpEEQ9FgiA98s6QApo11AA=="
+secured: "sUUk/bu4alQvIq8LRCVZ29qdAbJZw9+HNETmYnDhtves7t1iZPCSTU/u4UZFTh6/k7YovaWkQ2X+scdg9eiss/92udlDQJjC0pq3KkSpl5pU6zHYxYppdyc6d4MU2J9Z5drkjKbLLxrdmU7ldu7KHqGMD5gYKmtV3Uy5A6bPQPUecQ9kNAtJCAMShi3axfpjKQy69BQ6P24l6Zx6HYo8iqE84Cv6Riv0meAGESMR4/ttalYvgYDgi2pqB4mL994jbXY961vVPgRUO4kQQ6di4kRL+QL599O7aPw73ErUwXHNehqSbb3NuxF8gXK3CwWrmkfBNJUGzsudFWJL36EbvjG2GvfZs64Bi5w19doRJTvqs2k1qwfd2N1E8q+1BWeQRXT/CtwM0/F8MgvvPbBoUbiV+VQ7WyFLwhMAiAe7ihhFL2yq6H1kPPGspoqi3ICAb8+gYTeVMq1IwBcSlXpZmt3N8RrLtf8hzATAGtbkuAM=;c6PnPVoVOIf7RRl/qzWvdA=="
 ---
 

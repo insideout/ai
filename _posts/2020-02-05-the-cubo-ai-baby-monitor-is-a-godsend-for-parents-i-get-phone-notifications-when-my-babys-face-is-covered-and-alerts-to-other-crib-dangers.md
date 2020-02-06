@@ -28,6 +28,6 @@ images:
     height: 400
     title: "The Cubo AI baby monitor is a godsend for parents — I get phone notifications when my baby's face is covered and alerts to other crib dangers"
 
-secured: "nSnABQTLvwOkZLK3Upkkb4N5bAsBVA0zctFu7qdbgTl1OwyyML9tHNbBK/dVt38jVYhwhprQL+TrI8J2Z8C55lnJZ0QyqOpfeFg9c3s9APyWlhCgpssc3wcbygNGo/R71HYTvsPmQXdbMSz5t1u+OKk8Rlk7KvZTyuHVw2mPKQtTaYCxJzBVUxyW2lZYL83WSoncbLBMkl6U0hOHjUA6zdnp9KGnugfflEhcazYLwhV/oIte1XYHH3hZ0izhR75acC6AkIJdMPxBc+EyK9wIJkNYuxIORpU0+Bc0SyO80ijhY0b8UD0tvDA5kFbP4Ge7;6tBZRc4k20P+IGwFP7rfZA=="
+secured: "l24mCBI0NhV1KAXoq2myjnqRU0NjW0H0vKGa0CqPRvdKwDASMJEEQoREzO9l2NxL0F58ys56oXYQwLUSe/I3me+8syPFrhh7CAQdp1Qk+sbKr8CIPzIR1ZP2BDeSK28f7UM27LI/KDAEy/pZ7Yevuko6Hd8Y/U1v16FWvoamAf2QJz7/1xrXS6RMSFS6bOHuodNEHMPklbsMxozlNdxOJhgqPu6CuB/O/lqolWNIQjil2IRJ8BDLfQCd8R5aK8dMfhN19JBrDkaCsukr1dxIhr6UKVydEKgEM1C0WBD16yW+VQp4OCAy/VCAAorYCvGt52d8xiyNHLxI806HnSheV+M+7RqdOzQoojHY6DPQ9sGQz2tALRi+9W10ozigcjl2tq5FDIRbfOnaG40kgiCH97xGgmtjzACm3fgdxDXG/WVTdtA4UAZ5dkjN1gpR5rbZLnXBVVlw/6nRUXpXCXvlZXm7HXk9h2K/YxOdmuTIUV4=;TSMFo5hsL7Xhx/W3yiq3Ug=="
 ---
 

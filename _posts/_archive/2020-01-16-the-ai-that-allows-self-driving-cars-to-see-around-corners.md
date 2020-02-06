@@ -4,9 +4,11 @@ title: "The AI that allows self-driving cars to ‘see’ around corners"
 excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards."
 publishedDateTime: 2020-01-16T15:04:00Z
 webUrl: "https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/"
+ampWebUrl: "https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/"
+cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/"
 type: article
-quality: 19
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -17,23 +19,29 @@ topics:
   - AI
   - AI in Autos
 
+images:
+  - url: "https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg"
+    width: 2501
+    height: 1563
+    title: "The AI that allows self-driving cars to ‘see’ around corners"
+
 related:
-  - title: "There's nowhere to hide anymore: This AI can see around corners"
-    excerpt: "Hiding behind a wall might not be practical for much longer thanks to new technology that uses artificial intelligence to see and even read around corners. A team of researchers from Princeton, Stanford, Rice and Southern Methodist universities devised a system that uses powerful lasers similar to a laser pointer. The beam is bounced off a ..."
-    publishedDateTime: 2020-01-22T05:11:00Z
-    webUrl: "https://www.cnet.com/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/"
+  - title: "Artificial Intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents"
+    excerpt: "An artificial intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents, according to its developers. Researchers from Stanford ..."
+    publishedDateTime: 2020-01-17T09:32:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 31
     images:
-      - url: "https://cnet3.cbsistatic.com/img/exUfnlVhyXneSn2qZmf2J9UfJ-k=/756x567/2020/01/09/e0e4d486-f8d6-46bd-b260-426ee82d8d3f/rs-show-ces-2020-sld-laser-lights-holdingstill.jpg"
-        width: 756
-        height: 567
+      - url: "https://i.dailymail.co.uk/1s/2020/01/17/15/23528232-0-image-a-10_1579275858378.jpg"
+        width: 636
+        height: 382
 
-secured: "87RiuSvMMBy2HGOT2ZsAzEHA4vsLVhgap+Chiw58r8fOv/6kNYvN8AbnLs99sdXmC934xtPD4QNkeF6+c/sk3DwCfc1QmlDBAIOU3hRTFP3Lv6knaF6C79y7ofkMP58yUec2654KeKN3HGlMY+PjfOEur11DiByjIZxZgeMimbq91m7X44eaPvrMR70+ea8sJQrS2m2WK7tqxIz5ma98kmH8sba/OMMYHHZbRX9WGPYd2AlkUR6CrsMbbYbc966aL5hIMk1V7A/RgjFaQpEfUb6POn0nxvLYNKoyPily1RQrX9i9M3jNItd/yA9HFiJx;LbSIZGKQXYRY33Y+BPktWg=="
+secured: "WtT9dMQe93CpL5HzmRnqPC0SmSvqaFjVak0FVhgYacWddTSyfN+pIMUYiH6Ek0EVRKZHnFdn8qY2YCRIelwo5yTz7QbJ18iga2bCKO10pUe4M/mEnWCI10dgNdZmrHN2aoT+hLna+uPYfKX9gMa7B5PdFEdPc17caL4vtT8gEj0vcjqJbJzjLNmBRLpurXwg9M/YIZrfQyi8SxbXeAOXNkwkASiPtE2rqc2wV2ex/L0wCY8iSg4GFm66cvdvKuOQBM9obu2oBJNBLfi1QDC8w4KUuRp+K68Bd58zZ6vlLXwpbnX0zyR1uAltxcBG2UaN;+jQQ3q8DMjw6FP+C2wSnpw=="
 ---
 

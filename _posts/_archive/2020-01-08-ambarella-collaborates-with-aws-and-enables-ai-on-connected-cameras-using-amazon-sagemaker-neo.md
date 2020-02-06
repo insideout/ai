@@ -3,7 +3,7 @@ category: news
 title: "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo"
 excerpt: "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped ..."
 publishedDateTime: 2020-01-08T11:10:00Z
-webUrl: "https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html"
+webUrl: "https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html?ref=nav"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html"
 type: article
@@ -40,6 +40,6 @@ related:
         width: 800
         height: 450
 
-secured: "SfbBOIn01xm/iskeqYBrTB2TDFTunTzBOwyDsWiQT4MbxbVuhGnUJ8XQ4MuphjjEfFZptDyVhGfYYyVFO3vBvT5uSco9dGsjRRggBcXqZ69HtWpPeDMVRAkj+FUt0f/PmelAzPOKRqnT5mrmxE1LpySYe94gI0IBgpSfib3mFjv/rf/y/0ucoXf/Zh43v8QLpiph7hD2/TV3V3GpNibFjiTxX/1Y5muc1YmvpC1B7A3oZM0QGHNUvEgHM7eIinQFBwoUgMFTnmTohN4iQ+ZEquP0ZNH50p2jPScc/SuzK9cKcE/8XENcvVTvfdX272c5;Wi1Ka4vfVa56A+US2VfshQ=="
+secured: "Cq1sh8TVT3jxGn9QpuedCmfcB4vnVc4wQsjEXWb8OoTPYc7xkbeqEd8xgpmsrUwlcoI21UFswzBSsZP/frbScK2MjLf5UJPOAx+ck19ReEYQPi3uh5eZv4w/Tjn5Ii/mfrljxCcyx74ukeQmLMnf4aq+iaLWyXfGyP73u3lbxRXOHY5teb+tCwlPNmHVhaRHhWrMhQXhiluIC3dx7tW2a5W77zWPdvPB5QbCN9rnp0zLTokexqi6PCAdmpogePVd9ndYEBrciov5lngjKGyReuBfvCFcxdaoMdIDwvtQ1nNN8vBNjxy6XQ0XnKnv4QGG;AeeN2pO/ue0QfYBXr/3ebA=="
 ---
 

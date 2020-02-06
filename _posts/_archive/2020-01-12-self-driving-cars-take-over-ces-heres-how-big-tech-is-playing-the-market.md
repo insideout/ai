@@ -4,8 +4,10 @@ title: "Self-driving cars take over CES: Here's how big tech is playing the mark
 excerpt: "Baidu is developing an open source platform that it hopes will become the \"Android\" of self-driving cars, dubbed Apollo. Microsoft joined Baidu's Apollo \"alliance,\" gaining a channel for sales of ..."
 publishedDateTime: 2020-01-12T00:00:00Z
 webUrl: "https://www.cnbc.com/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
+ampWebUrl: "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
 type: article
-quality: 32
+quality: 72
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/104935725-GettyImages-902802574.jpg?v=1532563703"
+    width: 2000
+    height: 1219
+    title: "Self-driving cars take over CES: Here's how big tech is playing the market"
 
 related:
   - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
@@ -37,16 +45,7 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg"
         width: 1200
         height: 729
-  - title: "Baidu partners with Wind River for autonomous driving technology"
-    excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
-    publishedDateTime: 2020-01-08T11:12:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-    type: article
-    provider:
-      name: ET Auto.com
-      domain: indiatimes.com
-    quality: 19
 
-secured: "8O31vVY5r3R6Ugbp/OyyigoAk4paayZaWHvF+3zXROg3G9aGaTVbutp8LNgLcMdI/Eu6NVrRb28PmmJgQLH1zZ/6Nc3EWLytaWIZm1mc0/YVBkzWBsKFbqayFFfqx/SkNGZCLwkpKlsPZl3D6zIUcD6L6A/is+Mk8Miy6TCDySfibBzpp2eK94NtOXN8euWU1TYReMqOcko094QthiCVNqM6mSX4epowtwiQqNFVCwSr3HC09ggDq7rDaAC17jfrvr6ATTqGypaTmIpU7IDzH8RnATYlAAQmVxO+JlORBOynm2KywJ/erCyV7lG/Pzbz;Xl5Iv0bAiUxVi0Kw36aB/w=="
+secured: "WEZORLcv7CZEyJUImDkKXito9S8o5shC7+scU8+b2c+JaA67SoGM0D5IRN22C9K7NYIF01IAkFJSxSWJQR6N4gG4SjPRPrKoCZXCu3WPihhCt97PiIeXGNNLPaEAliqHBgJKwzXzgQrgAIcSLzseT28Djc98tAY69eNymAwihFZsEuEX46L8UpLwWF+w3IwHUMtoIZKU5D3Ghu2q9aMir8NPsOrC3QjH0hHAP0CbTeaqRgt3W7dMaofRUmopm6/9rSvX6SBOjPcaY2mRb49U3JYY9fv0/oHZ4EdRS6dxO7uNDcFsXwBC3qEbW57lNTwJ;27eTlfPgCsqpc7cA0/0pCQ=="
 ---
 

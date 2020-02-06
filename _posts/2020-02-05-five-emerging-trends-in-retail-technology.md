@@ -64,6 +64,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "PupiDUILLfS4IGBDG3+E42Mft9ft67Yhr4VZxBmdTdDZOpSGwevuMR9SlTHTVivjQ6mAK+ucv7G+1gRchyY0CaAz9wDzzrsAnIXZsGi0qf/CMOV3p7KkMAY/blmBnn3d6gGoJ45lrG3TzesIZDVlz9Sl2eliFGN82GJ16W/KHXHKZ2JLImljD2SKm41RRmdE1uGyoANpRjpGT9VcY/7+HI5NkZ+lREsFOMdciQwX/QPPXHqX3g0x9CbQ4wNDrMSvA9quRgWalWOT3bwRPZmpVXl+ZPJrS2Pak07zAlxsjSakCHV84c5JRisvtQ6o+6fe;RF7ocWxru0h3061yB0b0lg=="
+secured: "Aclxdowgguf5DejdHEmxIfR3IHBwo/FbgcD55VJpt+yMDhHrFcsDokzFXjlJbaHPLpIQT7DGRWJ77XZvyUuDuRujBdb0D1bOVB824357CB+gwgQjr3zjtBlwa9pJRmnWRR6d+d8Xh0SzrMaDrF0+MupEQhMWZF5V2ekh3aSCPdLp0VwXi0HFdqhyFmRWJC0Ti22bbFOB3bbuQOPiWICUpLMs93gmV71xeU1W9vSpfSyjqRVfBJUA5rPcnovbKWO4rePFL2N5XwAx+HtfHxdF/7aGW+S2Qt9xe/MBr6sBBaxUX51//XtBb6oDoc09KLhM;Npvsbq3t0Qyv24L0bCga/w=="
 ---
 

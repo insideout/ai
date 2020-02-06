@@ -168,15 +168,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "Uber Gets Permit to Restart Testing Its Self-Driving Cars in California"
-    excerpt: "(Reuters) - Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona."
-    publishedDateTime: 2020-02-05T20:13:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-02-05/uber-gets-permit-to-restart-testing-its-self-driving-cars-in-california"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Self-driving car tackles unmarked country lanes in UK’s ‘longest autonomous journey’"
     excerpt: "A Nissan Leaf with autonomous technology tackled complex situations far-removed from the simple grids and well-lit Californian streets frequently used for driverless car-testing, instead negotiating complex British road features in the UK’s ‘longest autonomous journey’. The car negotiated country lanes with no road markings, junctions ..."
     publishedDateTime: 2020-02-05T12:46:00Z
@@ -213,6 +204,6 @@ related:
       domain: theguardian.com
     quality: 4
 
-secured: "83w2VEjXIvfLZWR0Gk5lld00vYrZn50A3s2FBbt3WQtaxx52LrgcFhsNSchN0rUX8ECmuTVEv6cP9EddRwlJIkec/T4JeI/AFUFpz7SlKujZfhW9nYlqBVWbUYuKZ4LAL8jsHsvFLxb15wXFCddNY9A5y5M4ncZ1ubu8lhG6URBaUX+fiNTlUkUBvZosJNioSZ/wSUz5uj8XCFn1xwVNH1b4qwtiZ2COxDD7TogUcutXPzQL0/+goYAu/Efk7/YBTV3VDnaQ9gqqAUszFaIoZdgH1pXROQKx+HQpBbbhS1S1FaEr38t2aSmhB4OGyC72;j+ddA7BDvsrENXW5qMHQ5g=="
+secured: "AYdqBBGqKON43B1OLu0Tl2N/SwtMG2JwYCqWYeRqbAVI28dOLPbP7Yo0DBC6hrk1MmENTQSTfjCAX52pxujytqvzG2gUxvOJLEvYpFkj22NXdVn/Cgk2ea5x123+LENvWGbHKINzFne59REBKBuaCN3edz4u/BPw+7CLwSzjTMT2EcyAfJUoOfq3xFUO6goo2VP8TbCX44bXIzpmoeDz8Dj/n8JYUZl4733lVdClbCZI96d16++s0PmhtofHAJ3z6/tyMLu1sRDa1A37XD5UowGJwD/7l6Ld9bO4rHRdETI9oWC57flGpNjCsGUI230CVOTdyGT9Yuqn92McD2eTzMU4e+tsTELROQWIrFGAVzHE/v5r39W+Log7ht/9p397N55XJaz/eqnaeu5ia0ZUyCLBS8VHfdKtt8yLwg7sxgXmDYzB+ztwDRjvtAq9hUC0ljwbMcWI8fL+hfRUkq9XkPIuuIqYR35WBZLVcKlbCls=;jtwyYHWWhO7r1n+1gl2syg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T08:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -59,16 +59,7 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 2
-  - title: "Artificial Intelligence (AI) for Telecommunication Market Precise Study on Factors, Market Drivers and Key Players Strategies Analyzed Till 2025"
-    excerpt: "North America is the leading/significant region across the world in terms of market share due to rising R&D in autonomous vehicle, healthcare, cybersecurity and security and presence of access control technologies in the region. Europe is estimated to grow at stable growth rate in the global Artificial Intelligence (AI) for Telecommunication ..."
-    publishedDateTime: 2020-01-22T07:06:00Z
-    webUrl: "https://www.openpr.com/news/1903415/artificial-intelligence-ai-for-telecommunication-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
-secured: "gxGua98pb1HqkExK1YB9wdNZzbuejikRFvea5IA+69+3Q9G6lMyqDjAa6xxCT58tdByRQxtDbm2zl/yMvnZQeHXyiMEZRXjpe/9qs5uiAoSMU2X9g0MZDH7INQs1WVidxSENsYLfag8EO38tG8jt3dMtfynfR3HAU6ByV052RSTJRF2z1gpfnI6/T3rB/lanaqSh239/8dEkef+jVkXgHF5TkPuq/LCNEshiaXC0y7zMM949vOswDTr8RLddT0nALqO23mHCv1CpippUrlkrIpEgCDChRnL8jxflsFbDEUPMPtyJdDXA34NKO8R2dVtt;ORFLOutB8nggKbrunmbXNw=="
+secured: "MD7TmdDvPOkSKZUj/eoFiF3qXP9fAOETzCOcIt4+DPLWJPQiHlG2R4F/HUb+eGXUpV3k5GGpoTpKT8hOIOOpMCl5Lyiw8zRdqpD0IyNMS/5q4Yx7oHrQDJmsa1jbEbOKZqEViiEObj97zy5uWtwc8EBIg+E9HTZW4ArCgAehAzRm9zEUEf7UdhzKcPx5E8Q1zU/WDvcpEu7j0ASuiuzBTCVrTANYPZeiGCs+FLK9/mfEcfcLjDJwdgvm90qqI7MneQIyWs+5k4unegJx+gWF2Zkwg5su4QIDFc6Hvq18cILdsH6z4cJwSTWV4k7Nv3Qv;1WHz42iXqHnUvfaB8asTEg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-24T01:20:00Z
 webUrl: "https://www.businesswire.com/news/home/20200123005815/en/Burrelles-Announces-Corporate-Partnership-TVEyes-Augment-Elevate"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -21,19 +21,6 @@ images:
     width: 1200
     height: 627
     title: "Burrelles Announces Corporate Partnership With TVEyes to Augment and Elevate Media Intelligence Services"
-
-related:
-  - title: "Paladion Announces New Client Win with a Top Financial Services Company"
-    excerpt: "Paladion will deliver a fully-equipped Managed Detection and Response Service that provides high speed cyber defense using Artificial Intelligence and Machine Learning. RESTON,"
-    publishedDateTime: 2020-01-22T07:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/p15160768/paladion-announces-new-client-win-with-a-top-financial-services-company"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15160768"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160768"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
 
 secured: "M/bnnaInS3FKlVMZfr5s6KSqqB/bS+nPZczbJNfEdLQf2SrCvIXKh2kec1/0XMpBXZVsx8RtwJa0XOtv/Ud316s2abdlHVVfpnFGTyyw1gk0oamFi4v8f3qgyxDJs0RNykUL5OBQ/DwkgRvet0ZJw/lbaGr4TXkiIYGXQ/9aiFZ129Eg6Cgxk7fRQrzuwETAlUiJzxxNggmDRKcaM8hAcxkvljVYEpVJCEgKkrmVvG9K0Rsh9tat7lTtwVKQiltUnAGlYJioSqzicO/kvVidQQ98JPk8ECNFCOuYnB5uzV/yBK6JOCGZzzSeADJZuuo0;i6+hOkujwXjkA4MN5gq2XA=="
 ---

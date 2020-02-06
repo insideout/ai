@@ -7,8 +7,8 @@ webUrl: "https://www.theverge.com/2020/1/21/21075977/cruise-driverless-car-gm-no
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look"
 type: article
-quality: 183
-heat: 293
+quality: 83
+heat: 153
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Exclusive look at Cruise’s first driverless car without a steering wheel or pedals"
 
 related:
-  - title: "GM's Cruise unveils its first driverless vehicle"
-    excerpt: "This is not Cruise's first foray into driverless cars. For years it has been testing ... Other car makers are in a race to launch self-driving cars using the latest artificial intelligence (AI) technologies although they are being held back by safety ..."
-    publishedDateTime: 2020-01-22T03:04:00Z
-    webUrl: "https://www.bbc.com/news/technology-51171398"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-51171398"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51171398"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B3CE/production/_110603064_03063.jpg"
-        width: 1024
-        height: 576
   - title: "Cruise Origin: Take a Look Inside the New Electric Self-Driving Car Without a Steering Wheel or Pedals"
     excerpt: "\"We didn't just want to improve on the car. We wanted to reimagine transportation as if the car had never existed,\" Cruise CEO Dan Ammann wrote in a blog post this week."
     publishedDateTime: 2020-01-22T09:09:00Z
@@ -75,36 +60,6 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-20022112310822-1-1579732291.jpg?crop=1.00xw:0.844xh;0,0.156xh&resize=1200:*"
         width: 1200
         height: 676
-  - title: "Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
-    excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
-    publishedDateTime: 2020-01-22T17:23:00Z
-    webUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/"
-    ampWebUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 40
-    images:
-      - url: "https://www.motortrend.com/uploads/sites/5/2020/01/Cruise-Origin-Self-Driving-Pod-Loading-Passengers.jpg"
-        width: 2048
-        height: 1152
-  - title: "Cruise Unveils Origin, a Self-Driving Vehicle with No Steering Wheel or Pedals"
-    excerpt: "Cruise Automation is a California startup bankrolled by GM and Honda. The company has been testing specially built self-driving Chevrolet Bolt EV crossovers in the San Francisco Bay Area since September 2016. This new minivan-look electric bus will hold four passengers—no drivers, though—and is expected to be producible for half the cost of ..."
-    publishedDateTime: 2020-01-22T01:42:00Z
-    webUrl: "https://www.caranddriver.com/news/a30613209/cruise-automation-self-driving-bus-revealed/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp30613209/cruise-automation-self-driving-bus-revealed/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30613209/cruise-automation-self-driving-bus-revealed/"
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 40
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-9822-jpg-1579655853.jpg?crop=1.00xw:0.743xh;0,0.151xh&resize=1200:*"
-        width: 1200
-        height: 603
   - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
     excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There's no ..."
     publishedDateTime: 2020-01-22T18:52:00Z
@@ -157,17 +112,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/6/51/6519890d-38c7-523c-b864-2a565adcb0f5/5e282eceb9f09.image.jpg?resize=576%2C324"
         width: 576
         height: 324
-  - title: "GM's Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
-    excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
-    publishedDateTime: 2020-01-22T20:21:00Z
-    webUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/"
-    ampWebUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 18
   - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
     excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel,"
     publishedDateTime: 2020-01-24T14:50:00Z
@@ -178,6 +122,6 @@ related:
       domain: fox2now.com
     quality: 4
 
-secured: "ge4z/j1v+ioJuT5nZ15249XIf7IPhfJObHxRD/+JyBdtHQLWx3701rXSqpTxZKK81sVYW1zB0Fp3Uy8JDfUjd4flPqzhgHs74uMc//WF/6BO0nUyUrgBwIzWSfzk557gWRbBbsfylngD/JaKPgjWF2satf2n7RecU3zzLh0FzVZ3AIEQxsZze1Tu2ZyhqY+8fBW+8qFvonUTAcs3edHOMGL7OrjsPmzkOenvAyCU+DpnmkPj2HvFC5kO1uA5GZaA8wJMH9g58Ok6kjB7Hg/6UUOCrQJ9X5WTUxGXtodSEdj5p7qVoFz2TL2oOmSMPxcyJ/ELeVNmEzpZuH/XXChATyBlXblL5Yp6ni7sJPPw38LNEN7N55ITxakffYkn4FiKdxhse/AE84gW6I7SXMwYIxOAkuYI4NzNR8JMQAu6sIqbdSh+RPnBQD3/HpkEVUsdKYz1cWSYiekvHk17ByrmtaYWaRx89lFvX0KxJjfF8Qirtn/93ip7FS7LhuVKKfzK;6no0GSOv8FWhnSYFyf8f4w=="
+secured: "CcnoDYR66eBDshvIhJM0AUk4O+MGsYNhHP3NvOlw2rt1swHYYnD3kVb9nf6PnnO4EiWgP57aPr7A03BufCQlCrT2EKxvkhEpmcEotJTrNJT3ZMzMsWcukZ2QyRAeuhi1s1Fg/bd4ryLOUDNjOlC0UAlZZbGPQYoceD94o6RDy2o8scb0+HlxnNUEJKkDgu//j4cw2PFGkfX/YZTPnjOQdPNGqBgkjHB1b10ZI3qx3GsIlDu2wg6wunZdXScOlmvVykJ+w+kTMcOgxC75somhrEUzbtvx5q5VkjtSk5XPHKYsLfpWUtfFRi4FPzyeZMXj;Br02kbMOgaz3APby20IPeQ=="
 ---
 

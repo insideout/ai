@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -80,19 +80,6 @@ related:
       - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "GM’s Cruise has unveiled a self-driving car with no steering wheel"
-    excerpt: "Hmm. And there's the tech hurdle: Cruise will also need to prove the software and sensors inside the Origin can safely navigate the very complex environment of a city, at a time when expectations for self-driving cars have cooled. And it faces stiff competition from the likes of Waymo, which is already testing fully driverless minivans in ..."
-    publishedDateTime: 2020-01-22T12:47:00Z
-    webUrl: "https://www.technologyreview.com/f/615077/gms-cruise-has-unveiled-a-self-driving-car-with-no-steering-wheel/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 24
-    images:
-      - url: "https://cdn.technologyreview.com/i/images/cruise1.jpg?sw=1200&cx=0&cy=0&cw=1545&ch=869"
-        width: 1200
-        height: 674
   - title: "Test shows promise of self-driving cars for transit"
     excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
     publishedDateTime: 2020-01-25T19:00:00Z
@@ -107,6 +94,6 @@ related:
         width: 640
         height: 431
 
-secured: "t+10s7o7mlt5rg4nsnsgYKcrrPG8h/iymPrS1JhzL+dbEosl14S156QV2xjoWKPQq9V9lJU6P+ApV6tSHuG+H7gjMyzTmpjLF9Gvvgh8uR3104zVBXIWF2qWff7R0b4M5sXJIZGKBpXbeWLbvg3aKOf852mzZ52bUlZYY2ROzGmQaPceOadC+3QA3SXzAnpTJHEjjVc/S2isdhu8GCpuBqK6VaukluaFiaqO+Zfhzj2lPhWk9cGC4nQa+dEEwSM6yFxtj44NvYanrvTtjtAwJ6qOL1LrJAGmpSwnxxSknMr8OiOLvxj9hZ4PgY5+HxUh;iM69AAP7zLwaURhllwhvkg=="
+secured: "RiWJqCt0Q4QebuKWovJtFhJV0PPFzYV4Mm3yiQ2cdqu2rft1d5sZCxVCXq40U6dfPMkJ43WWnUblM6s9btCieKAFggutjVioqtTPfyTj0+Dfkz2vmzJGdiDdu2z77cAHgLCAcF4DAIMKogn49DqvXsIsQZh/YBbtJayc3rWJChO1qtb5PP9V+tGfEUu+KFowPWaTwbciqERF7soMAxj+tnQrmaVlPnuVVQJi6Q62GvSt2CsdIPRnxftnUbBt6gnvl53BVYn33ImmtDxnCvi7r2/HbYEGvZF5t/D8bA6YNQpLtPeb4Y3e3ZlKGxgBdoM7;PW83WihoQVCSt4643Ovzkw=="
 ---
 

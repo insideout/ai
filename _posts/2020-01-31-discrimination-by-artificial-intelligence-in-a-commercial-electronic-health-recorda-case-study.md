@@ -3,10 +3,10 @@ category: news
 title: "Discrimination By Artificial Intelligence In A Commercial Electronic Health Record—A Case Study"
 excerpt: "When artificial intelligence (AI) is built into electronic health record (EHR ... What role should regulators, such as the Food and Drug Administration (FDA), have in ensuring that AI in health care is trustworthy and equitable? AI has the potential to transform health care, but implementation at the point of care is fraught with challenges."
 publishedDateTime: 2020-01-31T15:09:00Z
-webUrl: "https://www.healthaffairs.org/do/10.1377/hblog20200128.626576/full/?mc_cid=36fa9a9560&mc_eid=98c6b29a97"
+webUrl: "https://www.healthaffairs.org/do/10.1377/hblog20200128.626576/full/?%2BBook%2BReviews=&%2BDiscrimination%2BBy%2BArtificial%2BIntelligence=&%2BHot%2BArticles%2BFrom%2BJanuary="
 type: article
-quality: 9
-heat: 9
+quality: 7
+heat: 7
 published: false
 
 provider:
@@ -16,8 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-  - AI Ethics
 
-secured: "IMPpTrPHslfqoQeIdNZTF6VC3sMJKX0DqMaxnrFHbivkCZs3th9pnsiETZx4vGBbdNK9afJkgmGStCiJB+dB68dBmPqNb/CVR8ewCbGPvmUh6gGJqFHdrpBgWhhmC+gns0X3YTUFKH4ims1U9URV3xa4jC2blt9CtDRVmMRs2T0LdLEu058e6W/8XPlemFDGi8eyL2eEl+n85X6AY20K2xPHeAb4KePMf0s5PpWHYAKUGjdwGMQuclvm4PNBoc01AmGPTk1kRxxdcldwCJTvrP/VpBsaOPy2XlKlGETMksEWfjq18FGNIpO+W0ZDZATexWxnEUkrbrdUnOOJ3p6hUuppduXF7KlerxMlf8VOPD2oxYo9pRTbV3ounWz6iT8M363eSRxz4hms/3WOnrlaGCAqq50btZUBjhNPPHEO7J86/Y/ilfR9H0N8E7CogGZ7geG3INTHrcLZjXgAcm69Es9jBnrDNas95BqBQMfsw6c=;JNPd+oTmOcJ9Q/x8caBwgQ=="
+secured: "/ozoHYJB7aXgTSE/Y7wOVfy9m4T0R/RI45KasBXk7V+cDPt8AlTjNZtcwCAxgGBfYX7oqMWGgeUD40FJB22Pn6n9RCVitoR42EEFnJ5bYaX4DliOIWaqv12wgHfBEK6U8r5TDmHLPs46WCKQf/YHUzjrJWHLYpj7539Y6CWI0nW47RrdR9bns6lXfV1XWwXnq3lbLZynh7WJvbzquX1tbx0FkrO51AiZ9fwnnzYAP/aSALp5BaD1k1vnKldjPBftsbPSzgAH5zDEKC7ml+LcktFV577MktNTa3tnIqvQUENUKWZ6t3/ilxp4BQS1dkWyblV8wyGtxGJUZ8yseASuQtV95AYzmwAdEezPgSgcEKumWa14bnVM+mrFicndGmhoNE7shmt5vp5owkDLAhpXPV2NTz2XGu/C/0YERlhHGfu3hOG1zXlwOhI235fXzYBkCN1L9lhn3OxQMrbPFymRtY07Pl+d+xHaj3nnYrszJ9E=;i0UaGZhq5YI4LQwYQH6l4Q=="
 ---
 

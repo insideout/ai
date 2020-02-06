@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.www.complex.com/life/2020/02/elon-musk-doesnt-care-if-te
 cdnAmpWebUrl: "https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/02/elon-musk-doesnt-care-if-tesla-ai-applicants-finished-high-school"
 type: article
 quality: 52
-heat: 83
+heat: 82
 published: true
 
 provider:

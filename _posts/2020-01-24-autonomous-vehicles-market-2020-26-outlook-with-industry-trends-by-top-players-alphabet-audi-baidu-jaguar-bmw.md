@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Machine Learning Market Report 2020 by Technology Advancements and Top Companies- GOOGLE, IBM, BAIDU, SOUNDHOUND, ZEBRA MEDICAL VISION"
-    excerpt: "Global Machine Learning Market Size, Status and Forecast 2020-2026 \"Machine Learning Market\" research report provides an actual industry viewpoint, future trends and dynamics for market growth rate, market size,"
-    publishedDateTime: 2020-01-22T06:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-report-2020-by-technology-advancements-and-top-companies--google-ibm-baidu-soundhound-zebra-medical-vision-2020-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Healthcare Market (PDF Report) 2020 – Leading Players IBM Corporation, Intel Corporation, Google"
     excerpt: "New York City, NY: Jan 28, 2020 – Published via (Wired Release) – The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for ..."
     publishedDateTime: 2020-01-28T07:41:00Z

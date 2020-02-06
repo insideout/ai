@@ -37,6 +37,21 @@ related:
       - url: "https://i.insider.com/5e3b13600ce3d1277b0b323b?width=1200&format=jpeg"
         width: 800
         height: 400
+  - title: "Uber gets permit to restart testing its self-driving cars in California"
+    excerpt: "Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona. The California Department of Motor Vehicles issued a permit on Wednesday to the company’s self-driving unit,"
+    publishedDateTime: 2020-02-05T19:31:00Z
+    webUrl: "https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZZ2QG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZZ2QG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZZ2QG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200205&t=2&i=1486288485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG141VL"
+        width: 818
+        height: 545
   - title: "Dubai prepares to roll out self-driving vehicles"
     excerpt: "Over the last few years we’ve seen plenty of progress being made with autonomous cars, self-driving vehicles and even pilotless air taxis. Now, Dubai’s RTA has taken another step towards getting the initiative off the ground. As we move another step closer, the Roads and Transport Authority (RTA) has revealed a new set of rules over ..."
     publishedDateTime: 2020-02-04T12:16:00Z

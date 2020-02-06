@@ -23,6 +23,6 @@ images:
     height: 630
     title: "2019 Proved We Can Stop Face Recognition Surveillance"
 
-secured: "CpPErj8Abl+N7KyV+zpdZyu3xWU3QFKHeDKlMkMV9b1yUzERDU2w1f8/jUgDgECjNmplDKRxY48NnY/OfGQWv+1veKG2yiV5cFZnq9sNKs6BvWnt+5AwfWj5q2woMr/M4GRtF1jeSBdUMgcLUpq/dlE2ErMX6rkWxGC5GUYar4t3Jk0r+rdBsr6ptj66LPxv/3i0C83iHOily0jwUNg+XJU2nMezsiw9RLrYc2lhQaLfi4IREWqWrZKVHU6CXQLDgNZfF2F9wP+S4kJS0oHAwyVZrPjho48opRaLZPl1X18u/Qk+iP9uzn7PxH+qeesY;TL75NLu/ML9bhB582zwpsg=="
+secured: "b+KA8yOQVRehOpzto2bZh9tTCQdb8fmFjUDMK1vtL/46obn7shWUZMNMSEd+Lyuz+LuB6LJJJGGIqIc1kfjC10quMXhkh66ARgPOpKFEvsahxiICm1qrrfgwqD7GyDlrdLE0zKca/xxwH+QQFv0oQEj7i2VxYQo3jT4PZ15zUtne/LhRChCildOIYuKM8EM4QDaAdfBHWfaSP6SKPvhubcXNUdJ7fJD/Cnt5ObQnICzVTccEX1MCnprVfA2HPpNGd0bbIdypIpsaocinJM5nDXssSPPxeCGAjT/5eraCajHLxC+g/uXCLDcxllhPrp1W;Zkm1NbQ4hc7CM7dYofRAUQ=="
 ---
 

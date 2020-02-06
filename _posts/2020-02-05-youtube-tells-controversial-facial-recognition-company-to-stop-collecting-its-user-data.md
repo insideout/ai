@@ -50,6 +50,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/hzn0DYF6-yhz7E7TYeTKLCBBFIs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66255869/acastro_180806_1777_youtube_cancel_0001.0.jpg"
         width: 1400
         height: 933
+  - title: "Clearview AI Wants To Sell Its Facial Recognition Software To Authoritarian Regimes Around The World"
+    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 5, 2020, at 6:09 p.m. ET As legal pressures and US lawmaker scrutiny mounts, Clearview AI, the facial recognition company that claims to have a database of more than 3 billion photos scraped from websites and social media, is looking to grow around the world. A document ..."
+    publishedDateTime: 2020-02-05T23:16:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-authoritarian-regimes-22"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-authoritarian-regimes-22"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-authoritarian-regimes-22"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 89
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/17/campaign_images/buzzfeed-prod-web-06/these-senators-want-homeland-security-to-pause-it-2-2613-1552427904-0_dblbig.jpg"
+        width: 625
+        height: 415
   - title: "Lawsuit filed against facial recognition company CPD works with"
     excerpt: "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ..."
     publishedDateTime: 2020-02-04T00:24:00Z
@@ -171,6 +186,6 @@ related:
       domain: nbcchicago.com
     quality: 19
 
-secured: "vFboFF7iKPYS+1//z7uqNX9KrlqUTphjSVYvNkFLhOFocf9AfABmUTi6EiVgL1yml4Te71pFeEFDVPikj1TPerxH33cULzOvzNRgEUtYqJsdN/xForBSP02jcFEFHHOXO/6+oJhcHREIVOOhWmb9WmbSGI3PtX7yck9nDpl0RW/fK66huOulncp2PnDLbgcgjfu4NrbSDNd3YL4LMwqo8qusPXv47wESggTCxIGzaqUhr02P/jtAJlBiNx0So7mFfFfO3JEtkUVt5AYohGwPj0pu3aqrh7LfyH3Hl32sHnOS8pyIT902tPfc1aSx/7GV;Ur00MfmaStmZRtlklEEefA=="
+secured: "ciAN+O1c6yUQhpzPzKhv4zccOt0UGWD3xNkFehvoxvjWt6I3LCO4a9Q2xECgzz3ypUGZ2Ks9EA0aAeTGXoAjzvnsv59vzx06vo7tHs3efVN66wK8jGuNgQJ82hGt7VLrIB4vyIdkK8RurE7eArCLUNoqz7kbX0mIpHD7e4oCx3MkQ+grNjJz/zHUcwG3NIad7TTx58aH5PteCQTLR5YC7+iV+Z68mMTspnLRCn1BWG/QoiG6UDDFddz2vTmAAsFqztzDa2S9S9veb5v4DZvAIRqNYhCX4NBEDeihm+c85C0sPGg+45iPXhwuLDIo40qaZgu24yRAzKmfBkiAv62bUebNyjZODtKg61vo2ieDZmOfz4EjW8tKVFs95nn0I1YWZEqN8HXIqjHLmWuIqi/e4QaNuxQQKzqVuWN7Ipg/NCCy58dsFSNUB4+ufQaWoVT4UbZjzh+pGkqIPxjXdLCgUzljBjxDwniA0cmf114+zsw=;tHI2VhewBFxbR8ie0oiFaw=="
 ---
 

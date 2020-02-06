@@ -27,6 +27,6 @@ images:
     height: 800
     title: "Saving output of object recognition in macOS — OpenCV Python"
 
-secured: "GHfGumaI0DvfbYxBF6aqjujSz+zvGyeZsCod2TdDnQbtYlnFxaRILPqtavNVBqqe/gT/cyk1urseP6hLOnsytuJRP7q/tXOPtXFgJXRDgJkEAfygxq9vtCIn5iFp1Sj7oLmXsC8ZiamRQ3oGZlb7BRBBsfVVUg4LeAszFaY4VufjsISbds2fvgdwi6+cX8+ekaYzxozKf1YSPydGhK2D64R+QLua/9iZWRIy1+8DGoj4LqWQoLOP126Q3ivivprySd+B2+KMvR1lWNTEX7aHsfL+EAxpkPr3/Ty3wq4tKPZ2jdf3H+6smXBF/kvePECx;Ie1Ink+nztRzAutX6IC2yw=="
+secured: "7oaRu7kUOH2Onq6b/5pRBlhZqFNYSmI1t4ZOaCUaOHb8DVrX0MytGemUfzNvCL7g38tzdshJ7KhicHZeJDSNvZZw5mE4oBE/gdweK2ud//tDI6a8DMFYgXV8loOWLOM80Z72SZMIA99sJBptV4Sfo0Bx197iYAdMpONGMrxk3BP3MXTLc3l597GEqwM0aeXT4cp/6PlQaRdQEQ/v8K973uIxnr4CwHTDQCJx8d+9yyoiUiWkgZqKrB6L3tr9wGDGJ4AbTxXfkB6V3yOrlm5x2g6/z3xIAN9ucv9ipKskNfwW+25smdnje6H0a1RzboX9;fGYp8P/Jl0LHb+ca9NM21w=="
 ---
 

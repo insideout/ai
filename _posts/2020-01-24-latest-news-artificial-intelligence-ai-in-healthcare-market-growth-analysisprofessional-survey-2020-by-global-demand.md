@@ -60,15 +60,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 2
-  - title: "Artificial Intelligence (AI) for Telecommunication Market Precise Study on Factors, Market Drivers and Key Players Strategies Analyzed Till 2025"
-    excerpt: "North America is the leading/significant region across the world in terms of market share due to rising R&D in autonomous vehicle, healthcare, cybersecurity and security and presence of access control technologies in the region. Europe is estimated to grow at stable growth rate in the global Artificial Intelligence (AI) for Telecommunication ..."
-    publishedDateTime: 2020-01-22T07:06:00Z
-    webUrl: "https://www.openpr.com/news/1903415/artificial-intelligence-ai-for-telecommunication-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "ZoSGQZGJgLICScf3PqK+oQSO5YhrRiQedbwK3KHcAoXd+AF1xr8e6ba41OU6zlvM6Wgu4bFeW2Q8q5X4dXYlJxp14FOmEKZhUo1DgjcAdwjrwgNE8QZgpo0kHoKiV0I6XGeMV0yBpwKatB9+u7C6NrBrIbR7ITinUaLnN777cUvge1twVqeVgrD/51s+IJ+htBjtHFZdZQR3DLJKScErcfylO91BQ/VntSRRN1Un4XnOwwu95YNOzYeApf9pIurOabCqzcV4kfl7BhwT6SVx3TDJgFMyy22fUmBJ1FQjBi1krcj7FvTRZ+53HvKIq10h;GDGcR1J6lZ0ko8aLp93Tjw=="
 ---

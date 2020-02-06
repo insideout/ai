@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/04/what-cyber
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/04/what-cybersecurity-operations-can-learn-from-self-driving-trucks/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         width: 1200
         height: 672
 
-secured: "ef0/7b0tptItEad9gh+NhCDdqUwyEy6cHKr1nog3mZGSRh22lLy5R4casjCVFqbgR5WkvDT2ZtQxY82u8OK8IwFPqEG1QwDvq6+1vHwmTHGUI+WUNJkvC7l662UoXY7DstIfShjirFomLO92/hse8D+hkfB1VNYgeKAqasv7sg7cubI30OYXImOb5iG6gAemaD8sw+ZvEYK0O1dDRALVO2d63A9C80OWFlfcLl0k4gplaVjn6zyn0RFw9Mrn9wUw/GQP65w3aj3ky99vWi3gOU+9JEE3jEpNIQH28yIEc1bQ83t013kecxwVZX3onqW0i5DrOa/JqvARqnb3PpZBtoBnGfbd3E/rrLI0gL4vAkyXyGAuzYl3EFiR7yt0WVxdpuEwxU6x8OGjDeW5M13Q4aa3me5XgZRXLunH0xf0pCrhGgmogAX/OYzasu9nG46fYhAfju73aSpdMnw8Km7YPVtYIsF3iiImNn9+VK4bgT4=;9sr9l8wq9p34GTL71GyHQg=="
+secured: "p4C3VcFD/tzLirtTJjtzTLHfYhFk8744p8dnRNZrFc+3maIF/Ac2EPSNChkjrgRiQsv7fZsXcsLlV1rTsl3eIn7XYu5U+1SFImAL4EorXihz+UcVHSM03E+kF2/ARRA+PYnSe2sBRJhz09PLsEPGijAFXrtMshVKWWfNfjZU1GrePFkeFA4Y/gqJDa7KHl0VnR0SKQwVPF5PtupUuOeTxyXl1+bI1CB6hHWKie+m6niWOdk1IxUTSQ9a6K+c7l1Oz57VzrjreM3nczxFGvq0fY8vggu/65NVmqeHLU/nljGp6NYuNAF3XiFTrCa0cR4O2aceUHaC3xO7Hj3Ws9CRTPgDrJ/U4ZesMCiWQZBKdkXOnqFpCWz/55Hs6o6paRTNx6/yrrtPy8mL0iwREYZDSox2XsYcrpZhiGsSpy2TYsBVvHJFCp3Y17BbenNplkbrEewa+qgrYMOKxAwtYDM+puYQmcLsLa47pnP9Cx4lgJ4=;J6eGpFsRDcojAZogr47Ddw=="
 ---
 

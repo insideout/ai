@@ -25,9 +25,9 @@ images:
 
 related:
   - title: "Object Recognition Is The Answer, Here’s Why"
-    excerpt: "As innovators, when we face a problem, we should ask ourselves an important question: from all of the different sensors out there, and all of AI's capabilities, which has the highest likelihood to help solve a problem?"
+    excerpt: "From all of the different sensors out there, and all of AI's capabilities, which has the highest likelihood to help solve a problem?"
     publishedDateTime: 2020-01-29T19:35:00Z
-    webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/"
+    webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why"
     ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
     cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
     type: article

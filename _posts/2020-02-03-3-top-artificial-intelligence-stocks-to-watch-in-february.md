@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       - url: "https://mma.prnewswire.com/media/1082853/Rajesh_Goenka_Director_RP_tech_India.jpg"
         width: 267
         height: 400
+  - title: "The top 10 cybersecurity companies to watch in 2020: How AI and ML is a key differentiator"
+    excerpt: "Many are relying on AI and machine learning to determine if login and resource requests are legitimate ... It then extended these capabilities to systems being hosted in IaaS environments like AWS and Microsoft Azure, and offered the industry’s first PAM-as-a-Service, which continues to be the only offering in the market with a true multi ..."
+    publishedDateTime: 2020-02-05T18:45:00Z
+    webUrl: "https://webuilddesign.com/the-top-10-cybersecurity-companies-to-watch-in-2020-how-ai-and-ml-is-a-key-differentiator/"
+    type: article
+    provider:
+      name: webuilddesign.com
+      domain: webuilddesign.com
+    quality: 9
 
 secured: "6IQBNOwClo+0JaVecqEsfPaCfW+3Jf7ej1veeuwO78xIEHZidoIf0x8IS3b3d1fgNxUeKE9HcbPmYuXePsxb2qLv9S6T624JAuDS9HIUl+2LLne4Ay7gUWXRniO8p4NfDq5rtMI4mYJ4/THlrUnn/8/5yrMDlJwQo8Xv8SwEHrDWyioMCV2p1gIWHvpHD9spph98XjtOXtVxSidKZwoZJ1QwusTab3i2lLfcEsCoXomYISwDidHvGESI5O9TUBABVphwCvQ/mdVpySDjir9h+6vgl/FDQJsVrjfVH7iH2JY0ZB4nIXVO9tarmbpUqDsfw5KyUDGsN7NVZaGFK+76jVLadN9rKEqbIRj20eNclUVlso0E54P+dz2MuoencD123edOQe+TmMZVQB2neq7SwnwwvEgCUhZK+b7zD8vjhmHHtg/b+/f2GIUmAb7IdMA4lZKR3YbFKZ3tujsbn8FnJUHLZitkjE4qaObHGDLvN38=;71asfCu0BT4o6YzZTOOc7g=="
 ---

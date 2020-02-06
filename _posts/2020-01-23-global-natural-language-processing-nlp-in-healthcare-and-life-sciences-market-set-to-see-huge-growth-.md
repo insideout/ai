@@ -53,15 +53,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 12
-  - title: "Artificial Intelligence (AI) for Telecommunication Market Precise Study on Factors, Market Drivers and Key Players Strategies Analyzed Till 2025"
-    excerpt: "North America is the leading/significant region across the world in terms of market share due to rising R&D in autonomous vehicle, healthcare, cybersecurity and security and presence of access control technologies in the region. Europe is estimated to grow at stable growth rate in the global Artificial Intelligence (AI) for Telecommunication ..."
-    publishedDateTime: 2020-01-22T07:06:00Z
-    webUrl: "https://www.openpr.com/news/1903415/artificial-intelligence-ai-for-telecommunication-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "Qf/9lBBeTCK7UWEP8DYdqUUBm0rQOAqWPkJnqjD8z9bg9aZ4XD1ZOUBnuwCdB6yjtb9Wl8ILxdn1QOu8VbwKPQ0/XSd2UDWAXsIMDc0/B3Oroec0ykSC1FcFwZRxzN84N5YGzm2TEQGPHHeAu2JbtomlgQNfl4GxtVFc7mRCPP7MZhZORvBHhhq80fZqQjRJr2v1CXHzGmHcjuaxQmXsGI5RIWz8bVhSAcHnLXKyKShsrN5/7QIvQtl0BL5cemzydUuwy907g32JJ7uHB8MRbwT7B6UMcmEd9YvOBnBGK26XY4yNNK97QgDmVe/UtI4P;ogW2pSvlQ7UyZU3aHe3cgw=="
 ---

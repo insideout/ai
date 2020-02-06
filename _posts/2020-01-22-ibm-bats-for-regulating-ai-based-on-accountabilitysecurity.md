@@ -136,19 +136,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/b/06/b064a2d9-045d-540d-b183-8334cf9a9299/5e141419b5f14.image.jpg?resize=1024%2C695"
         width: 1024
         height: 695
-  - title: "IBM Calls For Rules to Curb Bias in Artificial Intelligence"
-    excerpt: "The EU’s executive arm is set to propose that the new rules apply to “high-risk sectors,” such as health care and transport. It also may suggest that the bloc update safety and liability laws, according to a draft of a so-called white paper on artificial intelligence obtained by Bloomberg. The European Commission is due to unveil the ..."
-    publishedDateTime: 2020-01-22T06:16:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/01/22/555445.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 41
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2018/10/artificial-intelligence-3d-printing.jpg"
-        width: 900
-        height: 600
 
 secured: "c7IF9dvR0rULryUoLDcEDhOkz4Ss5+TPdckrousEOIKixwS85h4gGO6p9LGWh1u5/xEeSiO4owrJLfPuYRayY96vlRhwxVl2BCv470k/DeVff2g3Mi4N4UDEfLkl+ddUXk4m164pEDbVMWEqY/vxkUCq3LJdtm4oQ/nB2kiOk8QvEU+IbPyAaCzl97l+cnR3Iw4TAgvISP69XMA7R4bkGn3MkjpHdBbSmYyD71uxEr4kIuU0zeFcVUST9Anh4xebh1qs4w0b2bF20BKHxKusQWGI9w6PH2XGWkjRodDYs1o=;1iEsCsAe2blJTl5+P0Qyow=="
 ---

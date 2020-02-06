@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/"
 type: article
 quality: 187
-heat: 198
+heat: 197
 published: true
 
 provider:

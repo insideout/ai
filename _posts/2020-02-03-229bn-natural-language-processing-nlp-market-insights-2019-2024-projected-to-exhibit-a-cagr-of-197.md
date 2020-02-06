@@ -1,17 +1,19 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-publishedDateTime: 2020-02-03T11:44:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+publishedDateTime: 2020-02-03T10:44:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -87,6 +89,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "+s1p9DpfFQrNLGzneoRn27fW4qy5w1fp3gsQOHDa1k3BxpViuili2fycPqpwNL/S93lu1huL2Sm5ndhjW5c9jxfrGlrwvr9RYZlTtcMLCSrAOLBo9I2+6e7DyUbOxz5kepw/jIrYntpay6jbRA9A2tBOCMAIPW869uLm/RFQhVOfPXOenotClCoJ32syIs2NJSRb3J8fnEET2XWQ506fyXvGAkvTO2W1ddwCMO3iYONotqD4QVtMHupQ9H/TcIqNVZodLh7ZQPeHfR0FYQOvpZdQuu8gUUJe0gpdVkVxc9Yf5R28cnRUsO+8lgkFIB0t;3EFpT48XsgsoQiB987nJYg=="
+secured: "ugSQu4JFhZGNH9BpIVAlzC1hfgHdhpsqaRqu2cq1TxfrjWOo+RXMOL49/BQC2NqPmF7vgcsENNfw0CsFb2m5DI/qmQEdXWH6LHzPd0yQcVvZoRsDjcTfQ4Zglul7aC+z5n3YAY7Pp32EMrug2eSL+rLTUtaFMJhttH75AP1zXOwrnbwQmBbvfKygHOvWkyqkckiiOo5EHnCRf/8hWbh05gIVKd8tsMpI3pFNhFb2pViqZnxG2D22JPtE1N04ZgKYFJVv+mtuYZsyM0mFJkjptwRDhROWbiaXmurNlLtEB4owqEH/INTFTZn3lAOtOMyD;LhcTrHGEGAPbEv+lY381cQ=="
 ---
 

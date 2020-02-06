@@ -8,7 +8,7 @@ ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/b
 cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,23 @@ topics:
   - AI
   - AI in Autos
 
-secured: "TJ5rABYTzj2ceMGnc4/Clu1J1aKpW2Xpt7aQmpq0Kf4U/tjQBM+ydyzH9igW3N2MFh/Y20he/gCtAdHKA5pZ68ErPS2hESLzurVQOz0GF4aqNVG6pSLFDmCkzqhZXFpt6I5aF9HBN85oHEV1Uo0UCuN+PlgEYLeJO6qzqbxZj5cD/GoWWaPe2DlQLt7je8xmzLEcV80uqHAPA8QHENdRK3JPkjv3odDAYsK0vv3faxQtSZh33rdij17V+f2uhAhH2hli1U4pgjJ3JYd8cdikARnaRJvClV/qBO3rSbppnUkP7wUXbplUB/vLOlNpNfgW;pQd3I7ToCe5eww+VOB/hLQ=="
+related:
+  - title: "Nvidia is partnering with Uber, Volkswagen and Baidu on driverless cars"
+    excerpt: "Nvidia has partnered with Uber, Volkswagen and China's Baidu in driverless cars Uber will use Nvidia's graphics chips for the artificial intelligence computing system in its fleet of self-driving ..."
+    publishedDateTime: 2020-01-08T15:55:00Z
+    webUrl: "https://www.cnbc.com/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104932964-GettyImages-609845726.jpg?v=1532563704"
+        width: 1024
+        height: 601
+
+secured: "M6G8RUtUNa1FwF+cwu8W9lCdv8rcCleSIRSrCYW5D/C5M634V/NDTExwXmSQjbNK8Gcq+rR2T+X1w5wS7LViUf3tBaqN12DGpKwEgaPV1IDCPmR/2VhGYjq54mHak3YWafLTR/TZwTa5Fj3LZbSTarOzad/cyOAxN5Hm0CwmK/JzDMLd6W1cTGsN0MlzaFOva3S/FpTvbB0SJMfzjgLuTOwkrILaefEbWTjirlNiXLTqQuwiGBdpRb7zgiOzUVLQVvdeTbNrtgeiRAphWpmUPBcRG8dS34tae1xSSra8YZAut3F23tRwJrPwbb3HJuDO;+VgIjG4mDqcXcnylEXW1VA=="
 ---
 

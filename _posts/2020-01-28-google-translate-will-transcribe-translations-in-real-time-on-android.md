@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/28/21112214/google-tran
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new"
 type: article
 quality: 74
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -308,15 +308,6 @@ related:
       - url: "https://cdn.pulse2.com/cdn/2020/01/Otter.jpg"
         width: 1200
         height: 925
-  - title: "Docomo invests in Otter.ai, to develop AI-based translation services"
-    excerpt: "Using Docomo's natural language processing technology, Mirai Translate is expected to offer precise machine translation between Japanese and English. Docomo plans to support the launch of Otter.ai within Japanese companies during the fiscal year 2020. In addition, Docomo seeks to develop advanced translation services capable of conveying the ..."
-    publishedDateTime: 2020-01-22T06:46:00Z
-    webUrl: "https://www.telecompaper.com/news/docomo-invests-in-otterai-to-develop-ai-based-translation-services--1323596"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "IhLCzoNjsmGlVQqXuqs911auitaP9sKzVPP7nkNrO0No4ZuWkPfTLfvtoHbIcocoeUewBVMAInSshsC+Wpjulhg7P2dL1dDwGLI/lIiayg08xekfiM8LKBxL+wUWhAK3rN/UeJC80GriniBHTWSfAFzXmGF39rlrrmPmxn7BSN6Y3+0R8J/Ic6qKoh+q8b2uqu8mhpMEqRTlKkynepOUP1a+9NzYDMhCwlNOcZShOpiFIvpzup2U4sjv8aovs+MAidxvscXv67FLJSTu/k1z7vIKHNXj1RbZxKkXRVifLwEdFej/Ym+dQduqa1Bbv33g54Ygwk+cJAge1JmMI77sNQz6YoClDLjG6Hrp4AZeUGz/JI41WCO1jgo0aLsHi4PghLhDoEvMMC3Nt6P3ONj5/7Uy0AggbqIssnF7UVVgkMfFvfFaR0lBa4kwqxp4/ah1rSpOnd2RQ5UJumz3T+nc8bvmHa3hDn5pRIJ94otkNRg=;UftLOTyC07vgBuP2dkaRuA=="
 ---

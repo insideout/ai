@@ -39,6 +39,15 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
         width: 1024
         height: 512
+  - title: "The top 10 cybersecurity companies to watch in 2020: How AI and ML is a key differentiator"
+    excerpt: "Many are relying on AI and machine learning to determine if login and resource requests are legitimate ... It then extended these capabilities to systems being hosted in IaaS environments like AWS and Microsoft Azure, and offered the industry’s first PAM-as-a-Service, which continues to be the only offering in the market with a true multi ..."
+    publishedDateTime: 2020-02-05T18:45:00Z
+    webUrl: "https://webuilddesign.com/the-top-10-cybersecurity-companies-to-watch-in-2020-how-ai-and-ml-is-a-key-differentiator/"
+    type: article
+    provider:
+      name: webuilddesign.com
+      domain: webuilddesign.com
+    quality: 9
 
 secured: "dfappNWszhdm/fwiP0Xwp+tKio6UAAjDTjldWoz21YklMQJMRdp6Hnv4zcrn/pSQKWE5DUYWFwvr2Jt9JhNL4OsuIR05bFJ8c5l017A3EnlfAZMNTpgHfm87yccNG+lr0Ln2GhVJeD9UsUZRJHTaT64kQPhMgFlV4ehTkRo0oQwWimjh1DoOrF6H/joGELjqPn8CnxY+sFgltNBQIZFpaiMGMDPXL3MM+5ndDrpCBdK9I9JN09Ih6gQCEbPr6bHSD00YcJCGKEY+JbPY5bIpc2Rcu3Kmjn387LSMh7V24YjWrAYUOip9jctDOj2WgIMaLJgVetnUTvZy5dXJ7cK/9eJI+vUlr1sv+k6MR/TicsIDfAiR6nJm2mV9kdxjDfHxVyQGFpOSSPcYhconTG80Dee5cieKEPtCCU/UpMJBflF0vXQrg7BcWG+ANGdQpE/ZplP+6PDrt3P9K+RJIYGA7iyhgw5o+crC0vC6I2RE77w=;3OMtlY22r5Pm1gnqF4EoEg=="
 ---

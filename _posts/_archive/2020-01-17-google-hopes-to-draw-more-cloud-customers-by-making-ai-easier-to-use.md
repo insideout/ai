@@ -24,11 +24,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
-    width: 1200
-    height: 630
+  - url: "https://image.cnbcfm.com/api/v1/image/103643296-636_0045.jpg?v=1529471578"
+    width: 3970
+    height: 2652
     title: "Google hopes to draw more cloud customers by making A.I. easier to use"
 
-secured: "Rm0zyo/MEquieNKTHNywKHTb1G/cIEvkBAQDP9OqLpQb0isCx6I3Hpd0BcYFElcpMh546LTFB3I7ITSVfLxmZkRk6eprl5m72yCai7SldY0sczPS7hkUulTLgid6umSCjX1AknOMj45FD8FPLNkhaWSPiETor/dNymSl6wvIMbHxtgrqp0kYDjO3vi0EtO88f/8+nfiLh9Y254uUb+pNbUNrbjJEYDPvMY9dbpFesV6Xy5TJCCIlmkAfftv9x2SNphgz6AnhRjRikL58tWNt8CmHdyoown9l3ndAWHIoyoMbX/MAr4WeFNw66zF103MG;LhLNqQYQ1dJk0Gd7ghuKzg=="
+secured: "PSMdcJ90hoQmjine3FXtq6rE//AIQHT/eSbjqJpymOU5mgMH0CC839ZXc//fnugt8p0KevJDnYt4HUinISJcx/EhyULNWSc9LmicQLFsp8AntxKJolD28pHZD5PO9l/sGzv7HPD9rvfOYvD3jPMegynzmKOC9b7kDJ42ZYuCclZcxjYSD8yjooTH1iObDPEic7K9FEhITOCxqOc9D4suKN/GzkUyqvYSZVIXp6XUSXEtDZ7IfZebAEP+xp3VD7gB/MTZasoCGURKVNxYK+CmXDKlJdMOI1rSfLBGjvCCZNg+q500Yd1VskuteGpmAlXx;leNvAkQfYPFcdJVfou2ppg=="
 ---
 
