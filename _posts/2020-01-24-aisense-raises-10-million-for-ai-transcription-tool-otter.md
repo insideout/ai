@@ -44,21 +44,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/Kneron_KL520.jpg?fit=1618%2C909&strip=all"
         width: 1618
         height: 909
-  - title: "Placer.ai raises $12 million to keep tabs on foot traffic in real time"
-    excerpt: "A somewhat newer entrant is Placer.ai, which was cofounded in 2016 by Noam Ben-Zvi, Oded Fossfeld, Ofir Lemel, and Zohar Bar-Yehuda. It might not rival location data giants like FourSquare and ThinkNear, but it managed to nab $12 million this week in a funding round led by BV Capital with participation from Aleph, Reciprocal Ventures ..."
-    publishedDateTime: 2020-01-22T13:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/"
-    ampWebUrl: "https://venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/global-e1579243388331.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "Directly raises $20 million to inject AI into customer service"
     excerpt: "Newly appointed CEO Mike de la Cruz, previously Siebel Systems senior vice president of customer relationship management and Directly’s chief business officer, said the fresh capital willl “significantly” expand Directly’s ability to bring AI and customer experience automation to the market. It brings the company’s total raised to ..."
     publishedDateTime: 2020-01-28T14:52:00Z
@@ -74,21 +59,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/5b070d85a92bfd1d8fa7ba1c_sharing_c5g69e6MSr5iT0iGaltGfR_upscaled_image_x4-1-e1580223042930.png?fit=1200%2C733&strip=all"
         width: 1200
         height: 733
-  - title: "Placer.ai, a location data analytics startup, raises $12 million Series A"
-    excerpt: "Placer.ai, a startup that analyzes location and foot traffic analytics for retailers and other businesses, announced today that it has closed a $12 million Series A. The round was led by JBV Capital, with participation from investors including Aleph, Reciprocal Ventures and OCA Ventures. The funding will be used on research and development of ..."
-    publishedDateTime: 2020-01-22T13:56:00Z
-    webUrl: "https://techcrunch.com/2020/01/22/placer-ai-a-location-data-analytics-startup-raises-12-million-series-a/"
-    ampWebUrl: "https://techcrunch.com/2020/01/22/placer-ai-a-location-data-analytics-startup-raises-12-million-series-a/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/placer-ai-a-location-data-analytics-startup-raises-12-million-series-a/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/screenshot-4.png?w=1024"
-        width: 1024
-        height: 453
   - title: "Kneron raises $40M for edge biometrics and AI chip development"
     excerpt: "a developer of AI algorithms and AI-optimized processor designs for use in edge devices such as surveillance cameras and other smart home products, raised an additional $40 million to further develop its products. Kneron, which has over 150 employees, has raised $73m to date. Kneron unveiled its first chip, the KL520 in May 2019. The chip ..."
     publishedDateTime: 2020-01-27T17:49:00Z

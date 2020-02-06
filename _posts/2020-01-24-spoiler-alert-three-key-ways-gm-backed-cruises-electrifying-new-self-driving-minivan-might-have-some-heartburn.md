@@ -37,19 +37,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F44137954%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D209%26cropY2%3D2459"
         width: 1199
         height: 675
-  - title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
-    excerpt: "Cofounder and CTO Kyle Vogt said that the company has technology that could allow for highway operation"
-    publishedDateTime: 2020-01-23T17:20:00Z
-    webUrl: "https://www.businessinsider.com/cruise-self-driving-tech-for-city-and-highway-driving-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
-    images:
-      - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "Are self-driving cars a solution for transit? An East Coast test shows their promise and challenges"
     excerpt: "In the Seattle area, a collection of companies is joining in AV research. Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. (END OPTIONAL TRIM) The service in ..."
     publishedDateTime: 2020-01-24T20:40:00Z

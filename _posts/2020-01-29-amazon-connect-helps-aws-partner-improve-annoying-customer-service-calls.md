@@ -69,19 +69,6 @@ related:
       - url: "https://images.martechadvisor.com/images/uploads/content_images/microsoft_partners_with_genesys_leverages_cloud_computing_to_improve_customer_experience_5e2e8262cd225.jpg"
         width: 786
         height: 524
-  - title: "Conversational AI—A New Wave Of Chat-Enabled Customer Service"
-    excerpt: "Anyone who has tried using Google Translate on domain-specific documents can attest to just how ... Proprietary algorithms, like Automatic Semantic Understanding (ASU), can greatly enhance the language understanding capabilities of conversational AI. ASU gives virtual agents a competitive edge in understanding the underlying intent of a ..."
-    publishedDateTime: 2020-01-26T03:20:00Z
-    webUrl: "https://insidebigdata.com/2020/01/25/conversational-ai-a-new-wave-of-chat-enabled-customer-service/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/01/AI_shutterstock_1069670762.jpg"
-        width: 300
-        height: 300
 
 secured: "RV4xzKDAGVaTeJgKeEn2zE4wQo+ZAkarhF5KimaIWOHfgtYMfDHr98T9SZv/t4DGl0jMCyNWhdDu10/YAqzhcil+OLCAp/zXSdLeJtS2R6+riIQdWhOCOQR0CvehRK94X/PdTIP6el2E0GERccFD1h45KO2yFf1VDGKe1DCGxZYeqXDRfh/bkFR58uR0wVelgPvoEeSQbvtaOsJDkchD0JxVGsaSt1uOLfxcz4WVVNRzchTA0tCgtpXLandsv35jHF4Z1eMISni772pSvBW1zCpy451C9cdF3eCW7OvNo9KQVciJf0bbAFf/JK4agWO59niO4S58v8ccGkg4XNNsuo2SkhUiR1qPRvqaeTR5sSFV7aRCYVmohJN3Gwv968YK8wa8pS4oJftpuNT1FSc3ByicJruC00+uYhvsDAUvB+C8/ikE3Gb6oYYo7+mq6+NWJhtzsyfH3+ThwoasAuF01QM1etreQuPiANh0xDVfA7M=;wmY5WCIVwg9fmJ1XSB68og=="
 ---

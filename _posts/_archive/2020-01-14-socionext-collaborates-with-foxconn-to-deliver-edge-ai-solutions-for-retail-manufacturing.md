@@ -5,8 +5,8 @@ excerpt: "It also supports the mainstream Caffe and TensorFlow AI development fr
 publishedDateTime: 2020-01-14T00:00:00Z
 webUrl: "https://www.cxotoday.com/press-release/socionext-collaborates-with-foxconn-and-network-optix-to-deliver-intelligent-and-scalable-edge-ai-solutions-for-retail-and-manufacturing-markets/"
 type: article
-quality: 9
-heat: 9
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Google AI
 
-secured: "K5b8AOABG3FA1eJmiUL2mDY1d1GpPSeb2hdW7B/ZXFZAW8wDZY/TT27EeB3AeepOp2wuoeQyShXE8PGzNR8NhtoiXkapmQluSLOJ7k+BPUoa7XhxYPW79mJ4jweoPz1BGheEkgFEBnN5AX8Sneq653tCUnRcTKuajw8CPiQf6MiDNt9EVi090N94TyaxOyaJrY/DW7j4cy54zNhfOZGMIbJpiPlYhLOpYt0wXVgIb9WOGi+TG1UgeW5qXikczdUe2A61YdA16BnS2kSbrbpU1F58bmQDzodCxLok6A+jIdEEYtc/2C5nBvrgS8tJXPRo;xgvy6cga3OyiXw8sqWvR+w=="
+images:
+  - url: "https://www.cxotoday.com/wp-content/uploads/2020/01/BOXiedge-Fan-less-server.jpg"
+    width: 2500
+    height: 1703
+    title: "Socionext Collaborates with Foxconn to Deliver Edge-AI Solutions for Retail, Manufacturing"
+
+secured: "23xyL/SsH01xkRRGinaafrROthtCLrfTba3i9MK/IBvdquv0l5QHCiocmByjUIbOyPViVwPCoyjU34FHVT9yr0k5LZIxdqK/lPRVGDO3aHojC/1u4+fNqBLoacsrdGpXrFENLkEor5nz2kjMTLd/6nJU/Rp3Tx0r+YfkYiRg0IU2D2cCFwPg0rSlfCVRM0QwDqXRy81BtIlBngT0925h4bGMXbiv9CV3XpixaR9UizTSga7cbXEFkjrfgp2lk4FXrzkx4b94/Hq46T4jIgnOpASPKLqxx5brw4R12Pzi11wyH1O0BNJx4MvM/BhSoL5d;afOwc9UqH/kt6izbHy9O0w=="
 ---
 

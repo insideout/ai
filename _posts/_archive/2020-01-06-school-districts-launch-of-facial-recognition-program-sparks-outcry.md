@@ -4,9 +4,11 @@ title: "School district’s launch of facial recognition program sparks outcry"
 excerpt: "The Associated Press reports that Lockport Central School District activated its object and facial recognition system, called AEGIS, last week. The district recently said that the technology will ..."
 publishedDateTime: 2020-01-06T18:32:00Z
 webUrl: "https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/"
+ampWebUrl: "https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp"
+cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "B37TUjUqucWB/ADByRWPqhhZ9qLLbjIOshBjXUKFQ/SxHHZSnGtiO3t4rOYtP7C2HFC4X1NnimW5ngUF8oJAsPlUv9aJbqyPFQd40/aqIx6xeRE3GHo0yUM4UqM5OnyLx5Cq+wDXgU8BIRPZE7SYXkTrbBpd4IdwC0YUSh5Mjz9PUGBF7pvwzZaFFV+0PtciF8ZeXx3tw0reKnpvS/RPIdYbhQRRlcEdXx1UakKVFAmGEDErqiNKEimi9xnnuqYvVxGLrgtYAt8tls/KBG3nWIx60tCE3Lpb/sy8lo3DY6qZE7LPVM7ig7rdD+mcAbV1;wO0iOJWQNdD4jS6+tq9tyA=="
+images:
+  - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Facial-Recognition-Lockport-School-District-1024x512.jpg"
+    width: 1024
+    height: 512
+    title: "School district’s launch of facial recognition program sparks outcry"
+
+secured: "Q9SDq1scn2yB8bRp0VB6/F4N9R+SmJVdhogsJobAMT9+xk2OP+q5ulMMprzVKmlXrG6JZyhfJMgSWH1/hXAMXG11SfO7T9fW8QmCABvjxjvgNpYRTwUWGJB4k6RO8B5sgwA6QjrMMloAx+bbLxc0SQdWYzmnh7mut6NHZlYwoeig0SwFwRWvU03ceSCmslRWhVtjw5KwzGBtDKz9ELa9Xfk0CKaTojLcUeDEwIV+ZBEZ9tquZx6g89jqnL70kGIaKrtyDBhac1mSWUbo5yX7EPfg3poraCOsyTsuO3QBvEc+kFnMFrIiUCWNmNhOykpE;gnKFGKY5vrly/xQWvtY1xg=="
 ---
 

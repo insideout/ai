@@ -56,19 +56,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/5b070d85a92bfd1d8fa7ba1c_sharing_c5g69e6MSr5iT0iGaltGfR_upscaled_image_x4-1-e1580223042930.png?fit=1200%2C733&strip=all"
         width: 1200
         height: 733
-  - title: "Conversational AI—A New Wave Of Chat-Enabled Customer Service"
-    excerpt: "Anyone who has tried using Google Translate on domain-specific documents can attest to just how ... Proprietary algorithms, like Automatic Semantic Understanding (ASU), can greatly enhance the language understanding capabilities of conversational AI. ASU gives virtual agents a competitive edge in understanding the underlying intent of a ..."
-    publishedDateTime: 2020-01-26T03:20:00Z
-    webUrl: "https://insidebigdata.com/2020/01/25/conversational-ai-a-new-wave-of-chat-enabled-customer-service/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/01/AI_shutterstock_1069670762.jpg"
-        width: 300
-        height: 300
   - title: "Amazon Connect Helps AWS Partner Improve Annoying Customer Service Calls"
     excerpt: "“Think of Connect as the sun, and Earth, Venus and Mars are like Lex and Polly and Lambda and SageMaker and other things that make the whole experience more impactful,” VoiceFoundry CEO John Marino said, referring to AWS services for building conversation bots, text-to-speech, serverless compute and machine learning services. “But Connect ..."
     publishedDateTime: 2020-01-29T20:32:00Z

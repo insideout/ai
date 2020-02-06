@@ -4,9 +4,11 @@ title: "Sony reveals Vision-S electric car concept at CES 2020"
 excerpt: "Sony revealed a driverless, electric concept sedan ... as well as on-board software regulated using Sony's artificial intelligence, telecommunication and cloud technologies."
 publishedDateTime: 2020-01-07T16:33:00Z
 webUrl: "https://www.dezeen.com/2020/01/07/sony-vision-s-electric-car-ces-2020/"
+ampWebUrl: "https://www.dezeen.com/2020/01/07/sony-vision-s-electric-car-ces-2020/amp/"
+cdnAmpWebUrl: "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/01/07/sony-vision-s-electric-car-ces-2020/amp/"
 type: article
-quality: 4
-heat: 4
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "YNZV7v3dXdSCOTVbC58T7iMvrJA7VIAof/Fz5RH9+hW79UUMnFgXlL/+xPrqp6y+LL9f4iJll+0ubovY89uA/7LecEy2urrOpJldaQffW15dV35T+Y0ND2vQCsC5m+N9zp4cm+jddeCl4Zwq86Xh0ykdMrY1N6AkjrIw4po4jMUgT30QT30Bwv7CBVy1PEntsdESs48GHn2YlmwpD/j1oWyvbZNeY5gj81g0E9knAWVVFhqdVJxEVKkgUJ77hJibPvGqZmCaWEdfxfHZNY2OJDbYYqmCsosYZlfXFuE5zsSip/iO7E34p1XYzGmK0Zhy;x4PdDocbDoih+V18es8hzA=="
+images:
+  - url: "https://static.dezeen.com/uploads/2020/01/sony-vision-s-electric-car-technology_dezeen_2364_hero-1.jpg"
+    width: 2364
+    height: 1330
+    title: "Sony reveals Vision-S electric car concept at CES 2020"
+
+secured: "Kndg1wlgF9++frlCIolXLqwDZFSvWCknL0j/zcjTSzR/ZSZ5F0AVeDQNWicOn/UW5zWK4VZbOPmlNyr6Noil6vlHJY0ER8fSS6eLez32ZFt7PlEkx7Jp1CXCo7WnwYRHCGbmHyrxU5hBTdJzFI3Z+kDqE1rvLvoONQssdqn4PxcV5enY/2LHaXw/wuWBMZS4hgD1tDmr+0vWW2yEuFy5M2xLCQpgUH+XkDrStBiBBjOP2cHnKTkuwc1J3N8SeMln48o65NHrleI8dSEbSOoTfwqZIlYvsJpcEQ6Ox0dnOimCQ1EPUGB29irsFwbGgtaI;sn77sFGU3aRUsCLn19bk3A=="
 ---
 

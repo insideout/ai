@@ -49,19 +49,6 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/ia.jpg"
         width: 640
         height: 479
-  - title: "CyberMAK Partners With Kore.ai Offering Conversational AI-powered Chatbots for Digital Transformation"
-    excerpt: "It combines natural language processing, machine learning, and AI into enterprise-wide collaboration and automation through conversational interfaces, thus supporting the growing mandate for digital transformation. Kore.ai's platform has a multi-pronged NLP engine that supports 30+ channels, and makes websites and mobile app more human-like ..."
-    publishedDateTime: 2020-02-03T04:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48750086-cybermak-partners-with-kore-ai-offering-conversational-ai-powered-chatbots-for-digital-transformation-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1085089/CyberMAK_Kore_AI_Chatbots.jpg"
-        width: 400
-        height: 225
 
 secured: "bj7ZSKJnr4etxdRi49IZ+0pUiBya+NkNTQYXbSzqGulfKUihZoECQ6QmLKQ3jwR+88UHgIUYN0zKgB3FsD/dEA2OnM1x62iQ+wFF2p4WnOFOOkjv2oHWX610WjAHqCN87BN+AgMBOqW+jknMIsURPCITPWEObg9rDKxEvfAyBWqGmEoEVnQ9vXqEW0MV24TxNkkyAJJbX70SHSe5FGrJmHRl06pnqz0zqa3Ooky2cVLH80sjGxhFYTmHEzZfx47UXD1P6b+9D7ubTPS0OxowMN1kBGWYvNQQAoiiOVIzstsyvXVCMlHYlWiBGCUFwLdB;v8fAWWoKZA0ItIheM/72fA=="
 ---

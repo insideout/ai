@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T17:52:00Z
 webUrl: "https://www.neowin.net/news/microsoft-unveils-new-azure-service-genesys-engage"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -98,6 +98,19 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 34
+  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
+    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
+    publishedDateTime: 2020-01-23T15:23:00Z
+    webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
+        width: 1024
+        height: 803
 
 secured: "0ctFhVNLJ8da7ILrZDMSiMivlDbE2yrwTpd1uvwd1ftD8eKJ/d9ovPla4h0FkAZl8lGUk1CKd4np80yIYY5xofPJLlb5aOx+LgsbwEY/6Bnh8XuvorCh6L1Zx11hJJ0G64uDbl9ViZbpDiparl5stX4Rgdd1I9ws5/CgFLHhDuGMgmTn2gime57VE8xouKMXOUGtiF1mhL2AT4IYxp0zoGCSUHp6bf8Ek7auMHNR+7FUY9QO8BzVk+cxnyrzCnAztECbg7LmkLC2vZZDW9OBIXyFkUGVAEHg3Iyr71m3V8Yke9rzg4XTjtbtLeUnww7Q1IBzCCYuXMroTRM+o3L+hCky2+/kkrjI+Bccp+pt2FYP/6k+v3ezrP1ZacHMPn/4+eyVEAj2coOEIlHh7WrXv96ihuvm6qgylQ5Z+Pt8NhYP1tftgdTieON4fdcZdH4Dbi7ZB+yeG1WYXpZIqQBWJum00PsbTaEwwFTOfXmGQ98=;4m/5RqjeWEy1bsGyKp/0Cg=="
 ---

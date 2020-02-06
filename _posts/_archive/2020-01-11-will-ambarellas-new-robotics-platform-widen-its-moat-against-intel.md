@@ -4,10 +4,12 @@ title: "Will Ambarella's New Robotics Platform Widen Its Moat Against Intel?"
 excerpt: "The platform, which serves as a unified software infrastructure for Ambarella's CVflow computer vision system on chips (SoCs), targets automated guided vehicles, industrial robots, and emerging ..."
 publishedDateTime: 2020-01-11T16:06:00Z
 webUrl: "https://www.fool.com/investing/2020/01/11/will-ambarella-robotics-platform-widen-moat-intel.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/01/11/will-ambarella-robotics-platform-widen-moat-intel.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/11/will-ambarella-robotics-platform-widen-moat-intel.aspx"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: The Motley Fool
@@ -21,6 +23,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "WspGz643ABAMfoc9+RDEYCIiVFvXOHYwPjA2gvSPzZy7dngG41ydGuT0/0s5xwl7b6jo6OG/52306lVYs1kBbLOeS2eCPiWCTRTcihk4IGG6VSJisikmtLcOU30yiJkB3zfGmMcOYN4rwMDGXJ/4qGmV99X9KFdZLAgHfBSc6/mlyNkt9sYfqKjb3H5hbolk8jp2WQ66D5Zqh1ms/oCRS3Ho6T/utgD9CNyivBGoIj+reSzeji4ZZq7JiLiRHFKXFW9+avV2ZeCCJ514i6VkWh3g7ohgdMrHU21wxmqu6AnUIcuAnoXtpW7DRR3XCOQ6;7AAPsPNDZ5nXSYQPO6LRqA=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553078%2Fgettyimages-1134562388.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    title: "Will Ambarella's New Robotics Platform Widen Its Moat Against Intel?"
+
+secured: "coYHvZA9t2LCEKSFt16Fz9fkqWflYXTnECx6RPSwRGDAoccSiSZTF+xk2hXtx2QMV4BPmEtGrIcKYFjI2eR0s/klFNlrK4YQUD6rEeitETIjlEt0kf9Ey7UMzn7FHkURNJlab9xW7qjBstqxKx2FDVOV+RUW64hIKQAPWCkEOg7j7LTaURYbckmLb3zRldbJDWmbbxDFhq0GETnLAkez/kVKka48AHigOGa3NDPq/RK2D7q3BVXtkB70Vct0JP3TnWxPIHz616RqRQW/aM++NqW9cQVfWgDWd9GXa00f+Ck+yAZCZNSIGAS5oGROdBT8;P5jIAsVdVt9ueZ+YmZM+Ow=="
 ---
 

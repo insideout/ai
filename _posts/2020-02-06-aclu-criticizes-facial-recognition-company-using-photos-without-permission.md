@@ -234,6 +234,19 @@ related:
       - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
         width: 992
         height: 558
+  - title: "Facial Recognition app could be a threat to privacy"
+    excerpt: "U.S. — A facial recognition software used by more than 600 law enforcement agencies across the country is proving to be controversial and a threat to privacy. The Clearview app can take a person’s photograph and potentially match it using a database of billions of pictures taken from the internet including social media sites. “Right now ..."
+    publishedDateTime: 2020-02-06T06:49:00Z
+    webUrl: "https://www.actionnewsjax.com/news/local/duval-county/facial-recognition-app-could-be-threat-privacy/JLJMHU55TZDTBI5VD27GWSDKOA/"
+    type: article
+    provider:
+      name: Action News Jax
+      domain: actionnewsjax.com
+    quality: 39
+    images:
+      - url: "https://d1hfln2sfez66z.cloudfront.net/02-06-2020/t_6b8a407e593d4132b60e39783d84274f_name_328EAE6F609D4EC69F4DE76964CD220E.jpg"
+        width: 1280
+        height: 720
   - title: "YouTube: Face recognition firm must stop harvesting videos"
     excerpt: "YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI."
     publishedDateTime: 2020-02-06T03:38:00Z
@@ -257,6 +270,6 @@ related:
       domain: nbcchicago.com
     quality: 19
 
-secured: "i2SCVfazK8s8BWrabO2bSFPdnVt+81yMggose3glzlEzHZJJbp6qBkTJmHsJnoppwYdUrcaBT4x+RM5FRgFTWvoYXAEVho23z+O/SNmswQ6Bm392XUOGGjrBPQFcXS4x65xXiEt19iVEzkyEKuRjmLegKLLmWj+ODY1C57Y/8AKBxJAoBRo+OFdIjfByARR//gTc0jaaLycZspeam18M0bIipD6H1q0/Xhhe8xqxa26lv1EtHWriu59DecfrL/FZ9CT2/RRgher6VYGqr9f4kJqjjuh8ianyPkNiVCKCxDvEig53xtE+rApAJw1F1NaM;MdpGZqW5H4YWUPmpvq/pwQ=="
+secured: "2Wsho9mxvbJb03NgIZK2gQGOu/TpjPy+FC0Rb0W6FEceBJkWf6guJFIAJgP93Ix95msGlcBmwyMzVkokDygtVpVBP82b5GWlmL9fnZELaMtgFRUCeS81nHLiYXYLGAII7g9T1lFWEKLLyQu9dR/wc+muTYKVCDCZPlr7RjSPzc6VjjyXhzGkuWKXGWR0tZkKxVLpkN/hOv66JNecSm3rEpbdd+Zb7i8k2le3GqmZKnGsgK+HqEC1al61xQ4Mt5bQr8DCv/RiWjlxrhP4YBKgGwHtWZtb1K9CIlyEnCFjVficskG6vGEqKWLhslA++Wg9DWR4vn9nUo0s1D6DaI2apQOhML2J5Rx4S+tngSe9NS+WPraX77FaYvD4eVwE4ILoYEMxq6e/sYG2P8RtUup1ayOMsbNEliKEOizojlRhTWVragEqUMGHAaqcQLVtfPu8gBNVIU6XIFTrKNieICqFiD7g+tohTydGx42sFJDcsYE=;NGRq/DPZS8se5zh0VMT+iQ=="
 ---
 

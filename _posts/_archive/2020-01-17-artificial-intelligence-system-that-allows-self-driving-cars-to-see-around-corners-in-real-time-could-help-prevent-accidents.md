@@ -4,8 +4,10 @@ title: "Artificial Intelligence system that allows self-driving cars to 'see' ar
 excerpt: "An artificial intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents, according to its developers. Researchers from Stanford ..."
 publishedDateTime: 2020-01-17T09:32:00Z
 webUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
 type: article
-quality: 0
+quality: 31
 heat: -1
 published: false
 
@@ -17,17 +19,29 @@ topics:
   - AI
   - AI in Autos
 
+images:
+  - url: "https://i.dailymail.co.uk/1s/2020/01/17/15/23528232-0-image-a-10_1579275858378.jpg"
+    width: 636
+    height: 382
+    title: "Artificial Intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents"
+
 related:
   - title: "The AI that allows self-driving cars to ‘see’ around corners"
     excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards."
     publishedDateTime: 2020-01-16T15:04:00Z
     webUrl: "https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/"
     type: article
     provider:
       name: The Daily Telegraph
       domain: telegraph.co.uk
-    quality: 19
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg"
+        width: 2501
+        height: 1563
 
-secured: "VLgLauwLpeFA6Euk1/hSkapg4a6NHjBExoWjs3jZAXi3hRx1k/sKBMTbUkwAhnZ+HgROVVfgcy5fR4pxqPJTtZdHX55JS67D8jS69wjPgn9oSeKQkKk8/YHGV7CBNVTy1tur2PZFw0iYn2VAun3kbYLutbLZj7lIRAsmqp8PyxTd0lHrQQG6bn6IGHBoamxSjCtMVk1AFcb+9bdccvbzqFaKsngUGAepVDTHFP8HFqub9n903JuX3ID6UDGA/xNTuI+tPGLBbJ94i/a1fBg6hx6o1l6e6GeVrE3fnQ8Sw8wFc/sxaaFrE84uDKMZ7wtX;V6yRiNbVNBpe76tr3JzDcw=="
+secured: "WyixO+jo6eJm0X6gGk20dRmgTooDaYpTYBzPg1Ot0wmp0QWBjnOLSIaGuFcMvZ16LRJbZ7pfHltIZ+jdYaMoke6j/HH81q+Kptuzn/jkx97mgGr52EpXaJCmDW8KdFPecIFGEIVWyf/uIEq+O1QC6lEiOY+eXGNO4mGA4OecWuFeP2Rh9f/kQeVEBxigsZ4VJJG7ImLx831FA1Hvh2FqUAqfy6dObjDSJYUYX0dwn799PPa4GIDtbn+rmy8OwgzUNwY5c93KZ6yI2MVg2VRWrTs/8W/JfcR8xxdqNF6OL04fhPrI+6uQP5BqfvlfJaU4;6MO313Ulj+DRUz7X8jL0/w=="
 ---
 

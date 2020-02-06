@@ -221,6 +221,19 @@ related:
       - url: "https://i1.wp.com/multifiles.pressherald.com/uploads/sites/10/2020/02/Clearview-YouTube-Facial_Recognition_21500.jpg?fit=1000%2C667&#038;ssl=1"
         width: 1000
         height: 667
+  - title: "Facial Recognition app could be a threat to privacy"
+    excerpt: "U.S. — A facial recognition software used by more than 600 law enforcement agencies across the country is proving to be controversial and a threat to privacy. The Clearview app can take a person’s photograph and potentially match it using a database of billions of pictures taken from the internet including social media sites. “Right now ..."
+    publishedDateTime: 2020-02-06T06:49:00Z
+    webUrl: "https://www.actionnewsjax.com/news/local/duval-county/facial-recognition-app-could-be-threat-privacy/JLJMHU55TZDTBI5VD27GWSDKOA/"
+    type: article
+    provider:
+      name: Action News Jax
+      domain: actionnewsjax.com
+    quality: 39
+    images:
+      - url: "https://d1hfln2sfez66z.cloudfront.net/02-06-2020/t_6b8a407e593d4132b60e39783d84274f_name_328EAE6F609D4EC69F4DE76964CD220E.jpg"
+        width: 1280
+        height: 720
   - title: "YouTube: Face recognition firm must stop harvesting videos"
     excerpt: "YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI."
     publishedDateTime: 2020-02-06T03:38:00Z

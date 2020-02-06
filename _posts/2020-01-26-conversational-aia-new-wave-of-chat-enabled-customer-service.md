@@ -24,64 +24,157 @@ images:
     title: "Conversational AI—A New Wave Of Chat-Enabled Customer Service"
 
 related:
-  - title: "How Bank of America uses AI to improve customer service and take on competitors"
-    excerpt: "Indeed, most banks have a dedicated data science team and have had for some time, with AI and machine learning (ML) increasingly taking a supporting role ... Thanks to regulations such as the European Commission’s Markets in Financial Instruments Directive 2, this data is available to all of BoA’s competitors, and vice versa."
-    publishedDateTime: 2020-01-22T22:59:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp"
+  - title: "ServiceNow acquires conversational AI startup Passage AI"
+    excerpt: "ServiceNow announced this morning that it has acquired Passage AI, a startup that helps customers build chatbots, something that should come in handy as ServiceNow continues to modernize its digital service platform. The companies did not share terms of the deal. With Passage AI, ServiceNow gets a bushel of AI talent, which in itself has value ..."
+    publishedDateTime: 2020-01-28T14:28:00Z
+    webUrl: "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/"
+    ampWebUrl: "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 100
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 187
     images:
-      - url: "https://media.itpro.co.uk/image/upload/v1579733058/itpro/BoA_Erica_AI.png"
-        width: 2173
-        height: 1082
-  - title: "Directly raises $20 million to improve customer service with AI"
-    excerpt: "Notably, it comes after a year in which the startup grew 10% per month over a six-month period. “At Industry Ventures, our focus is to work with leading growth companies, full stop,” said the VC firm’s Brian Langer. “Directly saw tremendous growth toward the end of 2019, and the work they’re doing to revolutionize AI and machine ..."
-    publishedDateTime: 2020-01-28T14:52:00Z
-    webUrl: "https://venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/"
-    ampWebUrl: "https://venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/amp/"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1156805372.jpg?w=1024"
+        width: 1024
+        height: 682
+  - title: "Why Conversational AI Is The Instant Pot For Customer Service"
+    excerpt: "When you’re adopting AI into your customer service organization, ensure it is a true labor-saving device for your customers and employees."
+    publishedDateTime: 2020-01-23T12:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/why-conversational-ai-is-the-instant-pot-for-customer-service/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/why-conversational-ai-is-the-instant-pot-for-customer-service/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/23/why-conversational-ai-is-the-instant-pot-for-customer-service/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/5b070d85a92bfd1d8fa7ba1c_sharing_c5g69e6MSr5iT0iGaltGfR_upscaled_image_x4-1-e1580223042930.png?fit=1200%2C733&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/dam/imageserve/1160995648/960x0.jpg?fit=scale"
+        width: 711
+        height: 533
+  - title: "ServiceNow scoops up Israel-based startup that applies AI to IT"
+    excerpt: "ServiceNow said the acquisition will extend its artificial intelligence-powered operations capabilities, \"giving customers deeper insights into their digital operations so they can prevent and fix IT issues and find 'blind spots' at scale before they become problems."
+    publishedDateTime: 2020-01-22T14:55:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 57
+    images:
+      - url: "https://media.bizj.us/view/img/367701/billmcdermottsap*600xx1014-676-5-0.jpg"
+        width: 600
+        height: 400
+  - title: "ServiceNow to acquire small conversational AI startup in Mountain View"
+    excerpt: "ServiceNow said the purchase would advance the Santa Clara software giant’s deep learning AI capabilities as it seeks to support all widely spoken languages across several products."
+    publishedDateTime: 2020-01-28T18:36:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 57
+    images:
+      - url: "https://media.bizj.us/view/img/10466072/servicenowhq*600xx1080-720-100-0.jpg"
+        width: 600
+        height: 400
+  - title: "ServiceNow acquires Passage AI to advance deep learning AI capabilities"
+    excerpt: "based conversational AI platform company. The transaction will advance ServiceNow’s deep learning AI capabilities and will accelerate its vision of supporting all major languages across the company’s Now Platform and products, including ServiceNow ..."
+    publishedDateTime: 2020-01-31T01:05:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/01/31/servicenow-passage-ai/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 54
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg"
+        width: 304
+        height: 430
+  - title: "Two deals in a week: ServiceNow acquires Passage AI for its deep learning chatbots"
+    excerpt: "But what apparently drew ServiceNow’s attention was the platform’s support for multiple languages. The deep learning algorithms that Passage AI uses to power chatbots aren’t pre-calibrated, but rather can be trained on custom data such as customer support tickets. The fact that companies have the ability to bring own training data ..."
+    publishedDateTime: 2020-01-28T17:14:00Z
+    webUrl: "https://siliconangle.com/2020/01/28/two-deals-week-servicenow-acquires-passage-ai-deep-learning-chatbots/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/servicenow-1.png"
+        width: 718
+        height: 400
+  - title: "ServiceNow scoops up AIOps startup Loom Systems"
+    excerpt: "When the built-in AI algorithms find a problem, such as a malfunctioning server or an application ... Loom Systems has racked up some big-name customers since launching in 2015. The startup’s software is used by the likes of Microsoft, the United Nations and Wipro Ltd., one of the world’s largest IT outsourcing providers."
+    publishedDateTime: 2020-01-22T18:38:00Z
+    webUrl: "https://siliconangle.com/2020/01/22/servicenow-scoops-aiops-startup-loom-systems/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/servicenow.png"
+        width: 718
+        height: 405
+  - title: "Apple Acquires Edge-Focused AI Startup Xnor.ai"
+    excerpt: "Apple has acquired Xnor.ai, a Seattle-based startup that builds AI models that run on edge devices, for approximately $200 million. GeekWire first reported the story, based on information from \"sources with knowledge of the deal.\" Because XNor.ai's technology focuses on running AI models on low-resource edge devices without sending data to the ..."
+    publishedDateTime: 2020-01-24T14:07:00Z
+    webUrl: "https://www.infoq.com/news/2020/01/apple-acquires-xnor-ai/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2020/01/apple-acquires-xnor-ai/en/headerimage/apple-acquires-xnor-ai-1579740324596.jpg"
+        width: 683
+        height: 512
+  - title: "ServiceNow to Acquire Passage AI"
+    excerpt: "SANTA CLARA, Calif.--(BUSINESS WIRE)--ServiceNow (NYSE: NOW), the company making work, work better for people, today announced it has signed an agreement to acquire Passage AI, a Mountain View, Calif.-based conversational AI platform company. The transaction will advance ServiceNow’s deep learning AI capabilities and will accelerate its ..."
+    publishedDateTime: 2020-01-28T19:36:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200128005287/en/ServiceNow-Acquire-Passage-AI"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20200128005287/en/656556/23/ServiceNow_logo_5-8-18.jpg"
         width: 1200
-        height: 733
-  - title: "Microsoft Partners With Genesys, Leverages Cloud Computing to Improve Customer Experience"
-    excerpt: "Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year."
-    publishedDateTime: 2020-01-27T06:32:00Z
-    webUrl: "https://www.martechadvisor.com/news/cloud-integration/microsoft-partners-with-genesys-leverages-cloud-computing-to-improve-customer-experience/"
-    ampWebUrl: "https://www.martechadvisor.com/news/cloud-integration/microsoft-partners-with-genesys-leverages-cloud-computing-to-improve-customer-experience/"
-    cdnAmpWebUrl: "https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/cloud-integration/microsoft-partners-with-genesys-leverages-cloud-computing-to-improve-customer-experience/"
+        height: 627
+  - title: "ServiceNow to Buy AI Chat Startup Passage AI"
+    excerpt: "Passage AI was launched in 2016. It has raised $10.3 million ... Last week, ServiceNow announced it had acquired Israeli startup Loom Systems. The companies did not reveal the purchase price. The company’s stock was up more than 2% Tuesday. It is set to announce its earnings on Wednesday. CFOs and their companies are becoming inundated ..."
+    publishedDateTime: 2020-01-28T18:04:00Z
+    webUrl: "https://www.cfo.com/ma/2020/01/servicenow-to-buy-ai-chat-startup-passage-ai/"
     type: article
     provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 50
+      name: CFO
+      domain: cfo.com
+    quality: 37
     images:
-      - url: "https://images.martechadvisor.com/images/uploads/content_images/microsoft_partners_with_genesys_leverages_cloud_computing_to_improve_customer_experience_5e2e8262cd225.jpg"
-        width: 786
-        height: 524
-  - title: "Amazon Connect Helps AWS Partner Improve Annoying Customer Service Calls"
-    excerpt: "“Think of Connect as the sun, and Earth, Venus and Mars are like Lex and Polly and Lambda and SageMaker and other things that make the whole experience more impactful,” VoiceFoundry CEO John Marino said, referring to AWS services for building conversation bots, text-to-speech, serverless compute and machine learning services. “But Connect ..."
-    publishedDateTime: 2020-01-29T20:32:00Z
-    webUrl: "https://www.crn.com/news/cloud/amazon-connect-helps-aws-partner-improve-annoying-customer-service-calls"
+      - url: "https://cdn.cfo.com/content/uploads/2020/01/GettyImages-1173671080.jpg"
+        width: 604
+        height: 578
+  - title: "CyberMAK Partners With Kore.ai Offering Conversational AI-powered Chatbots for Digital Transformation"
+    excerpt: "It combines natural language processing, machine learning, and AI into enterprise-wide collaboration and automation through conversational interfaces, thus supporting the growing mandate for digital transformation. Kore.ai's platform has a multi-pronged NLP engine that supports 30+ channels, and makes websites and mobile app more human-like ..."
+    publishedDateTime: 2020-02-03T04:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48750086-cybermak-partners-with-kore-ai-offering-conversational-ai-powered-chatbots-for-digital-transformation-008.htm"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 38
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 24
     images:
-      - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://mma.prnewswire.com/media/1085089/CyberMAK_Kore_AI_Chatbots.jpg"
+        width: 400
+        height: 225
 
 secured: "DMveTefYi+yAIGYoLxQEwdtEZrAq39Z8IWYKlrt/LfPySxZZMQgkv9B/Zs3MmtAb73dNfKyg86a6QV8G1K6PJR2Lh+IM7kqCfYRpQUzoYfi+REMQ8bz7vgTZizDdknzeX8/J5uBdS5Yi/0hppVpf4lesTAy4Obkptj4ORJu8LcjzGZO0sudQKLGLHiGmRJfV56Pf5ArnP0zoasQiFLKK8V9lLALHhqASYjkGa6lx5P+TruviuhFfC9R+PzOLyl8SmOIG0CZgGGR07JpgxCrsM9MAUHHFtmz1xHgOBm9q/JIC1pMhBC30S3hYIIH8CcslhGjzvWxMP+O1fMYqvw0CljURvakIisLCvKjxUG3uLxRTfqq6htxM4+g/Yth1hZSdaeFD1iDHDhKdMsWbEIdMTUbVOZSQttn6aRCfK+KM9LlTbaABLIuLHoh1HxzLcuLHQOLr3VKVQxYxpoJKIEj5UoPcSLt99ji9gWByyXTO55U=;2gWS0Zdatm4l6gICODLTeg=="
 ---

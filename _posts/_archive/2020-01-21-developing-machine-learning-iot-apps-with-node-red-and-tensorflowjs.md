@@ -5,8 +5,8 @@ excerpt: "Node-RED with TensorFlow.js brings machine learning to IoT in an easy,
 publishedDateTime: 2020-01-21T15:31:00Z
 webUrl: "https://medium.com/codait/a-low-code-approach-to-incorporating-machine-learning-into-your-iot-device-24f3f2a70717"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Google AI
 
-secured: "B4GoniTN9eXdtzfL0qOC2r1wzKK0d6nzSTOq8bhBz+nW2HN3Uy4XD8YYQOywMCUY3FHfX2uGZkT45pVl9Y/n1t9ZSO541KXM1X0f4qKT7AEX8KKlCIrnVWP9vY5QQCKfXITOtTJItjoli719CsvpNlf6JcTG+PMYTJGANE/eA2+nGbAudn39m7N48MhhbjIMWtycTBVUacipM3PcKVMUjFGVTslER8wpB2fhyfZG0Ll68DIl8Ab5qq0fOzu6WrM8SWcZ4QRhkwLzhPzgdYVFeAo2bJSE1uNLCkNpT5Qje2lXTz9tmGYdbn2Ex/2o4S1N;px27ZkxzfLrpIeZiyt6MYg=="
+images:
+  - url: "https://miro.medium.com/focal/552/291/75/90/1*Qjix2iqRLBpH4cMTm-NfxQ.png"
+    width: 552
+    height: 291
+    title: "Developing Machine Learning IoT Apps with Node-RED and TensorFlow.js"
+
+secured: "stX60LyDJcU2ttSbgcpAU6jo47cSlnu3z8rGdhd8Iat7eLsp+08QgyfWcB9JYaI8Ras+R0mdazN6rJlDRm4AzpOlBHDauMMofl+MnsZfJXgppQzJtIjkAWWSSHWybJRCqNfyhTnBkJQgQ1lMZck9Vk7wqYKaQoMDBdfgG2buHuhO/C2h5Tp+qh451+D2jCfRXlylr5q/gxIlwyCjnDxd7M1s7Q7kYjbx8SqnkH0lyTv6NEHI3cc2JevpqmJOsrCWyx4Qk0610x9FLY9DNjJ++JWBd+5Y8qqnX6fMJnohuzmOpUtVxVc9OOMlnpPAhtYx;Pf8BcoFXwopIb+LEBH+AgQ=="
 ---
 

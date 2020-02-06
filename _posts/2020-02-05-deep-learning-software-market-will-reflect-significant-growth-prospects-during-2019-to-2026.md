@@ -35,19 +35,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market Share, Growth, Trends And Forecast To 2026"
-    excerpt: "Feb 05, 2020 (Xherald via COMTEX) -- The Natural Language Processing Market 2020-2026 is a valuable source of insightful data for business strategists. This Natural Language Processing Market study provides comprehensive data on aspects of competitive intelligence, market research, strategy, planning, pricing and forecasting that enhances the ..."
-    publishedDateTime: 2020-02-05T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-share-growth-trends-and-forecast-to-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Neural Network Software Markets, 2025"
     excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"Neural Network Software Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Neural Network Software Market was valued at USD 8."
     publishedDateTime: 2020-01-31T11:16:00Z

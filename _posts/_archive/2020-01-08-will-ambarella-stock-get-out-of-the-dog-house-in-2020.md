@@ -4,10 +4,12 @@ title: "Will Ambarella Stock Get Out of the Dog House In 2020?"
 excerpt: "Ambarella turned a corner in Q3, though. Management has reported that more than 50 customers were in pre-production planning using computer vision chips, leading to another rosy outlook for Q4 ..."
 publishedDateTime: 2020-01-08T15:50:00Z
 webUrl: "https://www.fool.com/investing/2020/01/08/will-ambarella-stock-get-out-of-dog-house-in-2020.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/01/08/will-ambarella-stock-get-out-of-dog-house-in-2020.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/will-ambarella-stock-get-out-of-dog-house-in-2020.aspx"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: The Motley Fool
@@ -21,6 +23,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "VJJ8264qU6PGmS98DaGWzhGPITfvcUn8LdnTk/fVDSdwy9SKUJSZtvgpD0aNu88RpK/20df3o8nbritGFSM4ewGmXXdFNmPXxp1QckRCKhQZJwfiK5YIyUaLj0km19S7inOaQJDrHMm/s3iVkuoPYN5klbouGOrrHtLCKRF4V/PGtv3PrlQtrJi80GN74wC1a/LvD6GP+GbSwfL1ZgHybFTXnyituTRxmQ6n/oNdedSSM2gcynPENlFZ44kclCspEvQKE8cMlWxW/oQYrpgStW1Br6TdFIm4x/DJw2Jbt4/SUTjWr6CpRScPakEb3Teh;iOyHvA7C/gFtCkcttrsrbw=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552764%2Fcamera-lens-focus-zoom-aperture.jpg&w=1200&op=resize"
+    width: 1200
+    height: 839
+    title: "Will Ambarella Stock Get Out of the Dog House In 2020?"
+
+secured: "l45nzYwDjwSBMDrpOuHhVoEh/BGvF6GaNqPcyEjhEsfa8Bj125WkX+XqY+3csrQjXnpzOcbRc2z/tsMM+jAEf9grnhjUXhZUieDT9I0eEmrOB/TDLiRxkTHDNaa008oiGcuHeEmjDsMBRIytPaZnyH2aZQ+kzbhaTJntcW3bYIc+xf/FCRr6qxE1umh5TZpWYTWGWqAFXx83nW5HVbDm4FilZoL9ZhAgI2R3IuR0WmC0MnH55+MGyTDksBehVKGuCSBhDkHF1cnqnd9uNr7lnZy6K0+aSSJkehxgqC23T4jqusnKB51v6KNUo8DFqBG/;bmzBUgc4jhUh3aY8KvaqHg=="
 ---
 

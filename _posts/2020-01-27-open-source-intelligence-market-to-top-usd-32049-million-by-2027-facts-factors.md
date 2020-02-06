@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-27T06:21:00Z
 webUrl: "https://www.marketwatch.com/press-release/open-source-intelligence-market-to-top-usd-32049-million-by-2027-facts-factors-2020-01-27"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -21,19 +21,17 @@ topics:
   - AI
 
 related:
-  - title: "Russia and NATO Artificial Intelligence in Military Market 2019-2027 | USD 18,649 Million Predicted By 2027"
-    excerpt: "Facts and Factors Market Research has published a new report titled \"Russia and NATO Artificial Intelligence in Military Market By Application (Warfare Platform, Information Processing, Logistics & Transportation,"
-    publishedDateTime: 2020-01-22T12:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-2019-2027-usd-18649-million-predicted-by-2027-2020-01-22"
+  - title: "Vision Sensor Market is Forecasted to Hit $9.2 Billion by 2030: P&S Intelligence"
+    excerpt: "Vision Sensor Market Research Report: By Type (Monochrome, Color), Application (Inspection, Gauging, Code Reading, Localization), Industry (Automotive, Food &"
+    publishedDateTime: 2020-01-28T06:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/g15195351/vision-sensor-market-is-forecasted-to-hit-9-2-billion-by-2030-p-s-intelligence"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15195351"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15195351"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "1iFRU9wR91x+7mSpTS7ReSExezIL2IX2iCSzfiCgt6ZphzsZSkp0UaJ7UHo3SN/kpcrGMVvj6TDiqMq3LcdbzaHhWCdbDcLikyTIjO/9Snk8+2dsgBh3wCErtr56i4Ogc6wRSv+Nz2wWXKHlOMO0LWdL1K4Qx/TprlbYbuqsjEuiUyZF5GlvLA+Vd/7yyhxZ+oAYrMot+drUxAeDhu+UEvIsDBQZl8nPhALSGBp++ufD/IUFIAMWBxdoVEO3E5m48+CopOYzSnunbrkjvWBE1oIyCg/m0G2InIFuZ6EU7XF0izOqm1GqvrrhEizZS437;yJFY+KkEoQKz13nk0RB6fg=="
 ---

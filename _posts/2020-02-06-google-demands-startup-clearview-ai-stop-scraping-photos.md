@@ -39,20 +39,16 @@ related:
         width: 890
         height: 501
   - title: "YouTube, Venmo: AI firm must stop scraping faces from sites"
-    excerpt: "which the startup does as part of its work with police. Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and ..."
-    publishedDateTime: 2020-02-05T21:50:00Z
-    webUrl: "https://www.stltoday.com/business/local/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites/article_66e1fca2-c084-5d99-b95f-8c741ce100f8.html"
-    ampWebUrl: "https://www.stltoday.com/business/local/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites/article_66e1fca2-c084-5d99-b95f-8c741ce100f8.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/local/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites/article_66e1fca2-c084-5d99-b95f-8c741ce100f8.amp.html"
+    excerpt: "The Google-owned video service said Wednesday, Feb. 5, 2020 that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and ..."
+    publishedDateTime: 2020-02-05T22:43:00Z
+    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article239997893.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article239997893.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article239997893.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 57
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/72/f7255497-510d-547d-855b-23242af142eb/5e3b4750cb04e.image.jpg"
-        width: 512
-        height: 341
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 37
   - title: "YouTube, Venmo: Artificial intelligence firm must stop scraping faces from sites"
     excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn ..."
     publishedDateTime: 2020-02-05T22:18:00Z
@@ -78,6 +74,6 @@ related:
       domain: globalnews.ca
     quality: 30
 
-secured: "nfqxCldWA/gaqEmG3Z+0Gu95J+DUI3W34IK4xFSXZ0jsuoOqjIopMCJnbkdttSmIatCtqT65H+DAuhrKpwMbRDEXjuW6n/pbQc1QSU0OdvoanMYcD1ZG4Uf+bELchbluj31GxipQ1lVDpVSfz4JdL/wK7H5BMGWNC61CjAOo7g8xp6rIM78njQFMfAc7e5veT6w/ELbVzdzhuRALw2fV7kKDX0AxZ0ZaP7veiHbsyjJ6JvWAh55s7QyBDIG9v2BVFmWUkDPq3y/T7DxgSXMfjO3GFQc+3XeCnjR8x2/5OjTgSeE1umLV2oaF8xt1fT40;wZ22eFN8dz3OkEQLw2wKEA=="
+secured: "k/OinTWcmAQbsxb8n3q8g6QbCov8AUYGA7qg7GZjKPJ6Ykn7cfKyDWsBe5w2MNDyP0v4pd+K3YRtzOL6oGTTjp9wGHnhhwQjVyCawaudf49b5MYbqMBztf5Qsa75lttWpiv28/3h8+eIGA19G5NsW+f7jKrucH4KB7WY+W2Xe4Z2mQtBFG1SB2wDVY5SSdnNDQ3lZP2FjOMdF88R1c/R9yiy857D30bxWcklrw+OKZmaotDtA+mrsLAMDUjhTbBwjLAX1qYMoWj5glwVYnRuldEXK9Sex8O0r0+Fm7YJIdiGlBVBfMlxwrphJ0I19qvxEK3Rbu0Z7qlUaA/XFP9qSHWu3w3QXBKaGUS1o4qgdZqqdGNkvY9p6pWZjvFxUrRxGN7fyUbysOztbSg2Mofco1o4HBbL8t83W1kQV4QAgSvLc2RLtDbrgE2A7vE0I1cLGnQJgp98IoKlywcXyWb2X1trrU3ALDTtEZDHHHF8lek=;tzA084/+I4pOLFU4QYgc+A=="
 ---
 

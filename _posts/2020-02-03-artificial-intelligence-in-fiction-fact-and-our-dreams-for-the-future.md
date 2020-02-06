@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence in Fiction, Fact, and Our Dreams for the Future"
 excerpt: "We don’t trust AI—no ethics, no “humanity”—but we don’t trust ourselves either—flawed, fallible, too emotional, too “human.” Martha Wells: I think it’s frustrating enough dealing with an answering system for an airline or pharmacy that wants you to talk to it but can’t understand your accent, it’s going to be so much ..."
 publishedDateTime: 2020-02-03T13:00:00Z
-webUrl: "https://www.tor.com/2020/02/03/artificial-intelligence-in-fiction-fact-and-our-dreams-for-the-future/"
+webUrl: "https://www.tor.com/2020/02/03/artificial-intelligence-in-fiction-fact-and-our-dreams-for-the-future/comment-page-1/"
 type: article
 quality: 41
 heat: 41
@@ -24,6 +24,6 @@ images:
     height: 686
     title: "Artificial Intelligence in Fiction, Fact, and Our Dreams for the Future"
 
-secured: "3bpjWUEUTXHMlZftiXeDMI/41QeitL+KYUw/TKzBZMSe8Qm31RvuPJe/kU9YblmSFrIKGP6jzmXfPEuubgmtI8ADHmVjzVOirXohKpzo6RCBvVrYpxmVvJjR+wU8QQF2mYll4g9hhRMvctQ/OknXSNWEheW9bMXRGw545M+GpHIyZCrxGhiLT7iELeNTtt4+m8bQjjxyPhpXEU/MOD5pas1oSmVieAHIfhlLmSCSpI3AM94KiLJF1P4U95louXtlr9GIMX40qm8KqM9rQHfUxYf5ARPfKAVuVzNNTa0YiPsFyLoghBX70Nu/7Uw/KVeN;RZbpwwULuky0r7ZAwlyBfQ=="
+secured: "VkyGF2/I8VSjLZm4/cmHRyL2GUigLTaiFPzhtosfxa4FshNIrBFg/71hfMu9Wcw8WUlMyTD76tbo8LZFMH6NUIy3WeFQgLxQ86LA3YuXw31wVbbhdvkZ4fOWUwTk8s4GDk7ziEqUljX1ntgzS4NObFicYQRipL/GpTcS7ZWHortHaK7v4gFh57Cs4dI7+ahwJIKk/pkjt1ELMO2veXBx0VxtogGeXSkL4nL1alw6tdKFr7FbPM1t8lNNRlWe2Y+3R65fOU4LILrsqTMAaoZNe+GTUi5K06nrDW4/mXiBkN4N8WOEHjwLQxQWZ9WVEDhT;gdjR/nRGA6wge5eENq9E6w=="
 ---
 

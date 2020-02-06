@@ -98,7 +98,20 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 34
+  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
+    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
+    publishedDateTime: 2020-01-23T15:23:00Z
+    webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
+        width: 1024
+        height: 803
 
-secured: "iKloofdm3VgjBDdDI0+v2mOj9LtDaezKv/Jo0c9yJDHZ6Fh+DYZwDYTpdUbIh+TT2UzYV20QFEAWIt6dAyM2Xg6Mcdy8pTdvamJO+LeS8L7hJ6Y0ldzuq8A4C/+BEllIGh9jsiD7l/5zDcesvj/iiXJ1nxeGgq0vZIg+bKCPvEKUTMohYfC1bFw411GgglqPK0KSUxapxe1qeNlcXrye7MVoPg/j6M5gc21AxOlnSwOnHav+DElShTeju2jJr9qvAcm2wvUBru/hcCozotQhUOlic6Mkb7h9xjl5BTwb8+YVSGmWQyKwA1fDwNr4RPyg;RrKw1f9Ei25cR4+rJMWpXA=="
+secured: "WFrg80GuLqQlkhYDSEJB2P5HWJb2GJkMzAcjVBHdbg+711vX/P1lxVGuIDnTd93df7uYy3lRX1vnUcSerDEP7oUU22X/tVGiz9dKp7MB8VreSO46JPJtsZ+W3vBM4Cnbbe5LLXW91zioCH99/j7uVqNJxjm1j6Sz/EuGYb77zE0uhonrtRAhKW1Jt2dxyTth5fV6X6Z04ZY6R7n6WWOloBzvNJ/2Z9/dHs6yb+KMi2C0cPOMWgiIFl69V0/FOGEJdZx2nFVKBYi7ataNJqrMiov4bZKEPGOMbIhb4NtTfvULQTOCg7Isfmlnzkne5L/P;dYSOUgb02Bs/UwkEpMQsTw=="
 ---
 

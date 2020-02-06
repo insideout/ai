@@ -5,8 +5,8 @@ excerpt: "This post is important to those of you who have successfully worked on
 publishedDateTime: 2020-01-07T04:42:00Z
 webUrl: "https://medium.com/analytics-vidhya/saving-output-of-object-recognition-in-macos-opencv-python-5914bb5d9ca8"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "NtuTq9wwzAW4VMZ9qX2AUmViO4hRSXJ605RPF9ZQOhvdYa4clqYIZ5TRtrdAL0C1qe9MqDBu/fkT+5DCP9r+xeO5D9fTC9m2kaZzccQb1QbmSRTGHTi1CZFtgDmoGm3dkfHKnzVB5ZbQAnrA8hSLcA7RuODYetqKRtrb4Zsl46gT3X2G+hsDCa7hVfI+1Tsi5e4bSxUn4x6vNgCVxo580dov0uCfW0ZzNLmWEcmGGFuUdoTUiAoeCKxgoodBFJUs5tPoXPgzQv94ML/0zDgrIpoLhWLvbhrsaoppXohVZO6TwxAqqVY8U4P8SLsejC4f;Gf8Nl8bK+JWWvW0wRkV4QQ=="
+images:
+  - url: "https://miro.medium.com/max/1200/1*v4BDPOmFbQgvNOORT0nu8g.jpeg"
+    width: 1200
+    height: 800
+    title: "Saving output of object recognition in macOS — OpenCV Python"
+
+secured: "dPyLdHt/TYfjZvS0Y3W4JLPR4FUSQTsAzfR592a+GoBXj1SJxnL4DRms1vv/LKC8kk55E37/qBAPjjhPDAxA/H1I/LaNwGLrKFknh+ZOvpO52iq+AMFvHXiF+aGb5POYxtpOIJ9l36WjWRfSWmMEkAOiyQgHb2aPjgJSlwWX2tNSVnHY6/yLIFv/CVwREZAJwFTsa17ikr0G5xLZU/dPGflIq5UaVIwL5EIe6MQ8UCAtMgQNG380MjB4Du2Yp3zZ0TmgkcSwc7PgwogFa1fxCG9xOjYlsOP0yvEamjpU3ioVxzoXvrtDCFYcU6ydKLy3;YlusUKoBoUPR8di1RRSVHg=="
 ---
 
