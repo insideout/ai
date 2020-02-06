@@ -3,12 +3,12 @@ category: news
 title: "AI Predicts Coronavirus Could Infect 2.5 Billion And Kill 53 Million. Doctors Say That’s Not Credible, And Here’s Why"
 excerpt: "An AI-powered simulation run by a technology executive says that Coronavirus could infect as many as 2.5 billion people within 45 days and kill as many as 52.9 million of them. Fortunately, however, conditions of infection and detection are changing,"
 publishedDateTime: 2020-02-05T18:33:00Z
-webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/?ss=ai"
+webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/"
 ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/amp/"
 type: article
-quality: 166
-heat: 186
+quality: 66
+heat: 86
 published: true
 
 provider:
@@ -55,6 +55,6 @@ related:
       domain: thesun.co.uk
     quality: 7
 
-secured: "F0kkWGvAYOBgl5n6YN+4nrJjmts1/yVCKsf3ezWReZ+Yss05Jp15e4aslFJjkb5sHeKsLMUK/eVltn0r7e/0qJl2rPW14xLtxClro19GtPTsv4TKYAjj03Y2fb7qDIBKUyweia7Ql6vl2TRb6i4xaAoMt+ZDFQ4FvJ5MIvbzcIDvgzQbzwb22csWVzeVuHZuhIo1hZ6MLA6P1GJBMjESeOnN/YU5m2fAz7eccP1+pwa5KF9opt8GZyPcaAl3oJIBUAfeKEx1mZSOiXyH6Luff7uZ4Szhc5RS4JbGIJTj9dADYrOeuhyvsGhep5wzPCgz9xwYA6i16RFmkLxTcDMegLnz3BWUTUV3OusrXMNgZXBwaSs/e6pKa4cdCV+3ge9SYcYcVVbpy9qs19zYSvODuZRniUmqV5WyjJBY/xSnRSV7AtxrbxRL16PaIXwQvdF2EIANCNNIK6qDTaMcfw0DNmOMFaacyKG07rbKPt+5TI2W5byxl6012LSw8iLXT7ME;2Hup5B8NibyRGm7YuMd3aA=="
+secured: "xbKA4SfLYAr2sjVlms4bnhV723fIIF5cKwcm4FUm9H9hvixlBB3r0pq9jqpE0GM1wGY5lL2uPelF6Ztguk/AaoaFEFTceFXOpZLohs0mTS07e7514EYWj9sTEqEJGsMObenDPoOZSG1hkLgWuQsXHpXcN9ErW22HFHvhsBAfiOJXm13ZrEgGfxbvk8SidDYaS+0RkSS8IKYTZprNvKkkSQQgx5AfHGkrcaxaJyiSOXxvs2NbfySAHJ/0xBTK9I3zslnXJXcRKuvlh/nmrOD0oqDR/ZUprASPPgdaGVGRrwVKXvvxRqRkX2nnv9tQBUfm;hH+8/rA3pXcx/zJ5wsQkiw=="
 ---
 

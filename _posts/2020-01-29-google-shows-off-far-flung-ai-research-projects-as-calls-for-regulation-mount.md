@@ -60,21 +60,6 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg"
         width: 1200
         height: 800
-  - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
-    excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
-    publishedDateTime: 2020-01-21T13:29:00Z
-    webUrl: "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/"
-    ampWebUrl: "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/?amp"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/?amp"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2019/07/pichai-google-ceo-featured.jpg?fit=1360%2C1020&#038;ssl=1"
-        width: 1360
-        height: 1020
 
 secured: "4+l5ZGtCSSWYdPPtIn4EMaHpAkQwCqX9ROT7kJUkq28bpvZs/pKoUB7naCxe4ADacVvTIOd1DVhFq6eObeyNLbTGHqWDYfriy7fsRzhWWxUwwjfQNm3rLPU6Puz23HpUOIKkr+WPk1I/O11ch/NA5yzQugJ0pX11tsEwtB56/injXuNCNFnJumIGkcdL8qqML1cueeUF0O6EXDDaCgpZJqPNWVkcmuFkd1SFdOswLGGHKd/upSNftSdPPHe4MWjpHNyrspUWpelIGm325ovNMIBj6ouVIn3mx/oIBDp+KZuEYBSDigWSp+QjbMF7ZTor7orpLhJlvB0jrSRh8we6uGAl3GmJdLl2c5NUWASD7GeWDTCsaS0gv8f9DqrQs3fxEBsoTaRtBD0h85UUjWloO/yrHd9eow2yGV90Vd40PTsLXSV6gptN00/tYtaz2Y/YdDfXwNYY8ws70xaBqQ0HhudOGYx8773+lv9Hc0qdIrQ=;aR/CBZ/k8+M/WWbn220hMg=="
 ---

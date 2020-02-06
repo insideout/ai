@@ -29,14 +29,14 @@ related:
   - title: "AI Predicts Coronavirus Could Infect 2.5 Billion And Kill 53 Million. Doctors Say That’s Not Credible, And Here’s Why"
     excerpt: "An AI-powered simulation run by a technology executive says that Coronavirus could infect as many as 2.5 billion people within 45 days and kill as many as 52.9 million of them. Fortunately, however, conditions of infection and detection are changing,"
     publishedDateTime: 2020-02-05T18:33:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/?ss=ai"
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/"
     ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/amp/"
     cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 166
+    quality: 66
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3aefd26059b1000722d2e6%2F0x0.jpg"
         width: 1088

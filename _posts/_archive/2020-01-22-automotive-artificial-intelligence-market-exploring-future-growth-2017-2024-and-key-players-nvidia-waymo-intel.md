@@ -54,6 +54,6 @@ related:
       domain: openpr.com
     quality: 2
 
-secured: "V2ZcTV4ljgC9Ybz6O+ghFfsNqhKuD6z4inyfLd44sZYptbFI1Gf7w5f5ZcHnwUH7snBWXxkYjTujKyzDN0PKZ25O8v9kRgP7U/4g2mHtBz9GFfGQyfXj8RSDE5ZW87JqH6zXmm+zEuZOWx0AocsqMj3hAj/XjXoK/fyR6HjwW85GzEODuyR+h4I1/Tgc7r2xmqfUHQQEBMG4ePb0hdLn1bSTL9s5IakMNg4YOvt2gM0qdjDC2s3bANsgSPxLLObczcN9h5jsi+Q3/z+I+Phqwsz4LJcIjKxu/0e6yF1EjKuz8UhF+qPuiBn1d/7+mC51;qcT0g7Toa4uJ7g8fcszo9w=="
+secured: "MJbHoCuRDR1mERJWWa0CTEI22CW33aKxVsPLQ8jN3Y5QJ2iaOy4JHjJZzxANrdfH5qeLb3M8bbucjIJ8bw/ug7A88EWkETbpm+G1pV2mWLqwLDqCAyWmXzHp1Boj0tQ3POVuP5nsgAguEUbH6w7ZFvOMlWXL0jcC0QMhVCm75SFxSjtjp2CQ6C5E785ukidpxk6Ak+P9gw7cqd+9k0/9MpVGsypIcLsEv2IfOWDbbRh3vCvyTdpUSmoJjE86+HPyZjYaNdJtA/p0vc/EFPxZLPbUKm+PKAR+dmh0GWj4XFSa1eeXhvXv52MmtMJ0V8f+;8W0LVeJxrLf6LRQK3EIb8w=="
 ---
 

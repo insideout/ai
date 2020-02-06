@@ -24,32 +24,21 @@ images:
     title: "Gainesville Set To Run Self-Driving Vehicles On Its Public Roads"
 
 related:
-  - title: "Self-driving Nissan Leaf electric car navigated itself 230 miles on UK roads"
-    excerpt: "My own 'driverless' trip was around 13 miles ... Also, on a test track replicating UK roads I also tried another – even more advanced self-driving Nissan LEAF vehicle – using artificial intelligence 'learning' pioneered by Nissan's hi-tech partners at Hitachi. This uses real driving data captured from thousands of drivers and trips ..."
-    publishedDateTime: 2020-02-05T13:20:00Z
-    webUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
-    ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
-    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
+  - title: "Feds OK self-driving vehicle that lacks steering wheel, brake pedal"
+    excerpt: "For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards for human-driven cars and trucks. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company Nuro to run a low-speed ..."
+    publishedDateTime: 2020-02-06T15:37:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-autonomous-delivery-vehicle-20200206-ggrxvn7kqrayfec5y7z3qbdhc4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-autonomous-delivery-vehicle-20200206-ggrxvn7kqrayfec5y7z3qbdhc4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-autonomous-delivery-vehicle-20200206-ggrxvn7kqrayfec5y7z3qbdhc4-story.html?outputType=amp"
     type: article
     provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 41
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 44
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/05/09/24335922-7968813-image-a-79_1580894146483.jpg"
-        width: 470
-        height: 935
-  - title: "Self-driving electric air taxi passenger trials approved for Canterbury"
-    excerpt: "Yesterday, the Government signed a memorandum of understanding with Wisk, supporting a passenger transport trial with the all-electric self driving plane in Canterbury which would be a world first. \"The Government sees great potential in the development of an innovative unmanned aircraft sector in New Zealand and we are in a prime position to ..."
-    publishedDateTime: 2020-02-05T00:49:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/self-driving-electric-air-taxi-passenger-trials-approved-canterbury"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
-    type: article
-    provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 39
+      - url: "https://www.chicagotribune.com/resizer/uVwTmX9jWYzsKYN2jswyPYqlKe4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/7C6YIQTGH5C6ZJ2S5N4OOVGOF4.jpg"
+        width: 1200
+        height: 633
 
 secured: "LJt4hUtEsFowgKSMiBTPqBdcACRebflszWXdoaDnyFO1guAauIle0o1AhNO1WjYr7KBY79eZh5uxsZRnyEOwG1o1O5f/ASGT8lo1jZZgIRABJqizUFLxT0oZo8sEfVfGXds/nW66ItUa6vYqEi8d86u9XcnWX9OseX+tuaLC/losOP1MIrv/iQdXXIa7ead0a+iYw3uqCyT+9qftqLh9ZAOwBY5FjAjmy8T1Q1LssH9IADB6chH/PLxuz+yoQbQAlteORtkrZlZRMsVlGq7edPLTrJyLGMSR+7zhwBcCE3aDqNI5XTkNFsPV52gMsTQdw6jDgRf01zEaAcN/C3sqegkTaZhtoRJWRMAagv718hbphvsKTGrNW0yXk+4hCVwATSfF3z+BUmuHOuJpZMUt8S69N6KFHx/4m8rvSexYjOskAxJ2HsaMt+YNgN3uvXfRaWf7kN6GGiq99ht67UrV6A0K3kvaEWwktSpVc2BS/R4=;I4tTu/jHOn8zNM1XfrbFog=="
 ---

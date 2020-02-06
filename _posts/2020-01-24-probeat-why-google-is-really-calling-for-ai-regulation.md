@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-call
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -59,21 +59,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
         width: 1200
         height: 800
-  - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
-    excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
-    publishedDateTime: 2020-01-21T13:29:00Z
-    webUrl: "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/"
-    ampWebUrl: "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/?amp"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/?amp"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2019/07/pichai-google-ceo-featured.jpg?fit=1360%2C1020&#038;ssl=1"
-        width: 1360
-        height: 1020
 
 secured: "aXZW1j7cc9dRArp+VUcamiUV/jFhWIfpenbalqT5BnDoHw38lDegTrgS+mY9KTdnXzHp+kv73v2nhngDVfVep7+EVNIrQB0FKegjgORhryesH51lqEK2QbXMaKpk7a4qSIVtg46ZjptlsDwsTuke73w9OHl9vPfRkqXwv9a2zWjDdg+RlczL+H8pgu8N64Rp6JgVlDB/azsXeENGf1SHEkppbWPzWLGe4Zj+yLhNRcfInS6Rx96cePzeVI+FszDIxmEuJP8T0Qpb/cKZ/Y4zrwWUFKDTiR8A+Qm/hGTV1P+w1ROtLDaTkxvfvGOrrmfjhUZrJaHqWPlQHgGNr0y9C54iXeeQqCp5mUf8FBIhjAaRZbsQvtDKqSVK5+fuD0tJeXex/ISTTlFX6v/sw44c4B7v6jTgnYerEvvo+DKaObx5UtFxhc9FVqsoMZLrbEtNmXW9784Kdw8CJMnaWUkPpjVeYTCYSdCkp1qptTyZGpM=;+wMbqHzzzbCYec+vR4yCWA=="
 ---

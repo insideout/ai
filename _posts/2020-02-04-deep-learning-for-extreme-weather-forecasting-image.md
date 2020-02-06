@@ -40,6 +40,19 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 49
+  - title: "Deep Learning for Predicting Severe Weather"
+    excerpt: "Researchers from Rice University have introduced a data-driven framework that formulates extreme weather prediction as a pattern recognition problem, employing state-of-the-art deep learning techniques. Their findings were published in the February 2020 edition of the American Geophysical Union’s Journal of Advances in Modeling Earth Systems."
+    publishedDateTime: 2020-02-06T15:25:00Z
+    webUrl: "https://insidehpc.com/2020/02/deep-learning-for-predicting-severe-weather/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/02/tacc2.jpg"
+        width: 742
+        height: 681
   - title: "Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures"
     excerpt: "In this paper, we demonstrate a computationally efficient new approach based on deep learning (DL) techniques for analysis, design and optimization of electromagnetic (EM) nanostructures. We use the strong correlation among features of a generic EM problem to considerably reduce the dimensionality of the problem and thus, the computational ..."
     publishedDateTime: 2020-02-04T11:36:00Z

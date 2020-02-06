@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/01/28/directly-raises-20-million-to-inj
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: VentureBeat
@@ -29,21 +29,36 @@ images:
     title: "Directly raises $20 million to improve customer service with AI"
 
 related:
-  - title: "How Bank of America uses AI to improve customer service and take on competitors"
-    excerpt: "Indeed, most banks have a dedicated data science team and have had for some time, with AI and machine learning (ML) increasingly taking a supporting role ... Thanks to regulations such as the European Commission’s Markets in Financial Instruments Directive 2, this data is available to all of BoA’s competitors, and vice versa."
-    publishedDateTime: 2020-01-22T22:59:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp"
+  - title: "Roambee raises $15.2 million to track physical assets with AI"
+    excerpt: "The Santa Clara, California-based startup provides on-demand shipment and asset monitoring for companies in the logistics, transportation, finance, pharmaceutical, and automotive industries, with products that combine internet of things sensors and AI with robotic process automation to deliver insights and streamline operations. After raising a ..."
+    publishedDateTime: 2020-01-28T12:30:00Z
+    webUrl: "https://venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/roambee-raises-15-2-million-to-track-physical-assets-with-ai/amp/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 100
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://media.itpro.co.uk/image/upload/v1579733058/itpro/BoA_Erica_AI.png"
-        width: 2173
-        height: 1082
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/roambee.jpg?fit=1200%2C720&strip=all"
+        width: 1200
+        height: 720
+  - title: "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI"
+    excerpt: "Its marquee product taps AI and machine learning to uncover unstructured on-premises and cloud data, and Krishnan claims customers have already used it to find “millions” of inappropriately shared and unprotected documents accessible by thousands of employees. “Businesses understand the importance of protecting their critical assets ..."
+    publishedDateTime: 2020-01-29T14:00:00Z
+    webUrl: "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/8a91385a-4630-4ae0-a791-1dbe7d1f8780-e1580153727148.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Microsoft Partners With Genesys, Leverages Cloud Computing to Improve Customer Experience"
     excerpt: "Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year."
     publishedDateTime: 2020-01-27T06:32:00Z
@@ -72,6 +87,19 @@ related:
       - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
         width: 1000
         height: 600
+  - title: "Verizon boosts customer service with NLP"
+    excerpt: "Each request had to be read and individually acted on until Global Technology Solutions (GTS), Verizon's IT group, leveraged natural language processing (NLP) and deep learning to automate the process. \"In essence the Digital Worker takes tasks that can be executed automatically away from the engineers so that we can use the engineers' time in ..."
+    publishedDateTime: 2020-02-04T11:24:00Z
+    webUrl: "https://www.cio.com/article/3518782/verizon-boosts-customer-service-with-nlp.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 24
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.3x2.jpg"
+        width: 1200
+        height: 800
 
 secured: "9WB31cZrsDe0YUNnUdypQiHq6y8T7WDZXbs9D2M+e8bp8osIaG8cl5QiRsW9ufYRM4BoxugWkS78JtNkrvfGeh1putvwe2klRsTYKfo7preDQxUKz6Kw6Wy7JMXptIqBwQPOa1gqpHCeV6OA8Ge88wZnXPvH91+f1j1k8ioXr9bwqzBsmpITq+bbDuGOmW9GNsIdJBz1AUV0PIxgJ3bcKDO70+LpcZOXCLSQAYPgv5Ie6XGR39F27Z1Dib2YTUyxdH51McUNetoqfXsYTVP/hSamhXhOv0AuNuNbcIN8GLYpSOK+FhDNg+N0wXgpZJHSO7n7e+t5cOUErcgW9LEUBt9C1y+zaJ8y4HwjVRHODjwLgpqpX6PTSQYTVzMGFwaBSO2xyXOM27ycuUgfX09BVaGCmISHMW6NGq2jRI6FhP3ks9+B/LjcJ8NlevKCWiInuQYFk7wKo0lzru3JThu4dQtC5ZnYVsrSlDt0POB5X6E=;chSJpetMHtvN/GID+hcm2g=="
 ---

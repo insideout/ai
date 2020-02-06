@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Discrimination By Artificial Intelligence In A Commercial Electronic Health Record—A Case Study"
-excerpt: "When artificial intelligence (AI ... What role should regulators, such as the Food and Drug Administration (FDA), have in ensuring that AI in health care is trustworthy and equitable? AI has the potential to transform health care, but implementation ..."
+excerpt: "When artificial intelligence (AI) is built into electronic health record (EHR ... What role should regulators, such as the Food and Drug Administration (FDA), have in ensuring that AI in health care is trustworthy and equitable? AI has the potential to transform health care, but implementation at the point of care is fraught with challenges."
 publishedDateTime: 2020-01-31T15:09:00Z
-webUrl: "https://www.healthaffairs.org/do/10.1377/hblog20200128.626576/full/?mc_cid=36fa9a9560&mc_eid=105181941b"
+webUrl: "https://www.healthaffairs.org/do/10.1377/hblog20200128.626576/full/?mc_cid=36fa9a9560&mc_eid=98c6b29a97"
 type: article
 quality: 7
 heat: 7
@@ -17,6 +17,6 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "Bvb0U1jip6/ldGsuSuNaqIRWxOK/DG1QWP3mbo2HujwOBsianyTWjjdBiEsI4y5ShjslUAEkeML284j6DClLPnPM97CY/7eamdQZ0Mmo7gcArlzt6bJi0yXqs5BfUcDQRwbyFBqqB1WXpRhJHkWZlLFaNJKUVb370ese5ewaHnXVNLnsNT4AxWYcz8P3a+FuYgCGhRJDv2YYDKQINbeurG8vTY0HxgoM7GjukBRrZEWw2Mj/1h3klNZgZqjGArzKxVT6WsBEZgwWpvDN77f7h//+hjUKmBo1GnRCpPwwlvetOOsl99C1ja4t4ecgtF00isIKRNk/RfZC27z3G7s7axOv0CipQ8BCeZjHdLHdRxMHfDKiazMjjrxl/+zoDUzUzBBLC9F0jLnCQbTvY+GNHK5++ghiDSTsajZmHs6HIuNkO0JWdjwbyoBactA+6dhxYXmD2csrTpbsIGHs3tJWmb3uvihIufXsYi5/zfaPD/4=;/KwHUK9LQ7GY8INxPytinQ=="
+secured: "Sz2srBErV1XEyirzHPot1467/dPfw9CneJ1rut7tIr9MwOa+lS5bVKsGpxTuU3slotIOOMqbZOcVO2KbZygPsdsC4CpNCZ2QCc8NOc/rzkpxrUsyeCRqv6wRvRZh8FHy8Wy5CXCuWEnw+6Q1O2fVLZjHvEXE56IXN/i+mPLAxUGMF4v93iy3fQmL9bOzNd7CicLs4rmZGDHjIEdPnjCklqi2gpkqB1ukhuriyW15zVLzK7sxnJoYQt529eMxLSUOJQAwBiIttC1co4qSgpBuc67CbVMVxP2oUZNNQ83xZkrD9DkqQ0hHBiEYD9Hq2SnIT4ruGFObtNkh6mXc2JcwtriJtV3gJnDNRLIASXHXEpUowTadMueiff4aE3U2vls0wahwNVMI9z2O8IKYy/4AjqcLlacQy+wqWGqnbyKcDT+HcJEgFTLpTm6xDUXUxYxkTdONdMNgIPsYmJLe1lpffOepFECv8R/TtEKFObhZhL4=;56UAoWDNzOdUs7IX8r/rkA=="
 ---
 

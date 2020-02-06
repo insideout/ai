@@ -35,19 +35,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/05/09/24335922-7968813-image-a-79_1580894146483.jpg"
         width: 470
         height: 935
-  - title: "Gainesville Set To Run Self-Driving Vehicles On Its Public Roads"
-    excerpt: "That self-driving vehicle and two others, now undergoing test runs, are expected to become available as a new form of public transportation in Gainesville by the end of the year, according to Thomas Idoyaga, a spokesman for the city’s Office of Mobility. The EasyMile shuttles, developed in Europe, are 13 feet long, 10 feet high and 6 1/2 feet ..."
-    publishedDateTime: 2020-01-31T21:48:00Z
-    webUrl: "https://www.wuft.org/news/2020/01/30/gainesville-set-to-become-first-u-s-city-with-self-driving-buses-on-public-roads/"
-    type: article
-    provider:
-      name: WUFT
-      domain: wuft.org
-    quality: 39
-    images:
-      - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
-        width: 1200
-        height: 782
 
 secured: "lvPAypnJITuDslQfAZVooDRzley/JM5/DvtIKWSD2zHSAauKonp1r4TuTTvZ+GhH5QFk/ATd8hltWp7LbAWwEi8quavaZaksunIuqvjicLjv6CpEkas01sXF5sE0ynWQBPJIpBfxFOC5F6TOSkXg5whHuByz759LZG7Fkcwg2qeLDw8gteQR5DQXKXekFT3w1KjygGKGjLPL2/8+WC0vM1NBrIPhKZxNm1aWb67yfgxYAOJPrkSwmnK/KfLMLBSjjZt03kiPoN+WeSsoEEjkM1f0TkcVfKIFtrGLC8IWb62qZiYs1OzEaZuUkOiEoJOk5zi2BEadJnffFQ4S7yb3sm9k3EmIUKUL6wkwHmPHXKTYpTJhObU4MUEgD1DnvDL7SXSC3W5ARNjmN829YVPXi+JK26VxjDcysIPc1zmvM2Qhw8pKRjg3dapbbvnqOFJJ+wuSkLG4qGAN1f8bXNSHIair9dYdOH6+bpKCSUF/wbE=;WDUWn8nCdxgckas8vNloJA=="
 ---

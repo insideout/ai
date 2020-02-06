@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-manufacturing-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
 
 related:
+  - title: "What Machine Learning Trends Can We Expect for Manufacturing in 2020?"
+    excerpt: "Google’s Cloud AI Platform, Amazon’s Web Services, IBM’s Watson and Microsoft’s Azure Platform are all excellent examples of AI and machine learning solutions based in the cloud. As we head into 2020, they will continue to dominate across all sectors. What this activity means for manufacturers is quite simple. Not only will it be ..."
+    publishedDateTime: 2020-01-28T12:38:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/article/2020/01/what-machine-learning-trends-can-we-expect-for-manufacturing-in-2020/14643"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 41
+    images:
+      - url: "https://www.manufacturingtomorrow.com/images/articles/14643.jpg"
+        width: 680
+        height: 340
   - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
     excerpt: "This technology is used in industry verticals, such as manufacturing, supply chain, and others. Development of artificial intelligence-empowered chips, robots, and others in manufacturing help enhance the overall production line, and thus, has significantly increased the adoption of artificial intelligence in the manufacturing sector."
     publishedDateTime: 2020-01-27T13:01:00Z

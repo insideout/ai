@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/centana-growth-partners-exec-gives-o
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: "https://i2.wp.com/cdn.inc42.com/wp-content/uploads/2020/01/Untitled-design-2020-01-28T225043.569.jpg?fit=1200%2C628&#038;ssl=1"
         width: 1200
         height: 628
+  - title: "Fintech Trends for 2020"
+    excerpt: "Data/Predictive Analytics and AI Technologies: A branch of data science, Predictive/Data Analytics has been going to be critical for fintech companies that rely heavily on data to take decisions. Data / Predictive Analytics use a variety of data mining, computer science and artificial intelligence (AI) techniques - in addition to machine ..."
+    publishedDateTime: 2020-01-23T04:45:00Z
+    webUrl: "https://www.indiainfoline.com/article/general-editors-choice/fintech-trends-for-2020-120012300296_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 24
+    images:
+      - url: "https://www.indiainfoline.com/include/_mod/site/images/login_banner.jpg"
+        width: 540
+        height: 555
 
 secured: "mtxuuUvpJg76whEUFRh46304TseKVDHYgqc2VuLMt+h58/PZJipIoPDdFCHOT/RjU/OeQwAca3iwotTTWbcV5PKLwoPM45vAgPC/WD4DeWrIFc5S3CInijdv2PgMqg/X3zu2v3Og7YGn2NzEsZTMoZV62NIn+ZatEpFTtezCbFLRmsCIsXeDjkkjWk8sft1FV2/wnTQurLvQSfJC6zeUUaUSZTgjtcfDQ+Mysk3OUCcA8XQClkCFM5kZxhT0dNJaSN4G/3lt4qcTPduz7S+d9OSwnWujt1YEdaHCW5v5gLKg6legoJYODdx4FTiRV2VfQ/3A4ephltMCraQJK+IZBEIfsAeqdq2YRo7R3/VlKE4vVXWap+ZcQT+wXcll0zSwzk/wp6eZu/f/gjUpTd8oKGP+PwMiKXVTxW5vkORbz8MkUNO/Ru0/ppof51eD9BNHzCkbtODY22XOobLyJL4tss07ZAcERQCFhguqgFNAq4c=;1XsuxjVUfQMDmtyhRChGYA=="
 ---

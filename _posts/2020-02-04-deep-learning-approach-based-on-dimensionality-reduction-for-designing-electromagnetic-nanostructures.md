@@ -46,6 +46,19 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 49
+  - title: "Deep Learning for Predicting Severe Weather"
+    excerpt: "Researchers from Rice University have introduced a data-driven framework that formulates extreme weather prediction as a pattern recognition problem, employing state-of-the-art deep learning techniques. Their findings were published in the February 2020 edition of the American Geophysical Union’s Journal of Advances in Modeling Earth Systems."
+    publishedDateTime: 2020-02-06T15:25:00Z
+    webUrl: "https://insidehpc.com/2020/02/deep-learning-for-predicting-severe-weather/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/02/tacc2.jpg"
+        width: 742
+        height: 681
   - title: "Fugro wins ISFOG 2020 machine-learning competition"
     excerpt: "A team of Fugro employees has won a global competition in geotechnical machine-learning. Competing with 60 other teams from industry and academia around the world, the Fugro team came first in the pile-driving prediction event organised as part of the International Symposium on Frontiers in Offshore Geotechnics (ISFOG) 2020 conference ..."
     publishedDateTime: 2020-02-06T14:06:00Z

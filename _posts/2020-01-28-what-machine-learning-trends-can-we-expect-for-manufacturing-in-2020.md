@@ -25,34 +25,34 @@ images:
     title: "What Machine Learning Trends Can We Expect for Manufacturing in 2020?"
 
 related:
-  - title: "What are Important AI & Machine Learning Trends for 2020?"
-    excerpt: "To help you stay well prepared for 2020, we’ve summarized the latest trends across different research areas, including natural language processing, conversational AI, computer vision, and reinforcement learning."
-    publishedDateTime: 2020-01-22T22:41:00Z
-    webUrl: "https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/"
-    ampWebUrl: "https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/"
+  - title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
+    excerpt: "According to Gartner, artificial intelligence is still in the early phases of the hype cycle. Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for mainstream adoption, manufacturing leaders are already stuck in a ..."
+    publishedDateTime: 2020-01-23T14:34:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e287240a854780006af35ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2019/04/16/cc5d2e5c-2d75-433f-a9a7-034a858b46e6/resize/1200x/8e5aaa1afe23fa7488ee8e296e79d3e3/istock-861189644ai.jpg"
         width: 1200
-        height: 675
-  - title: "Fintech Trends for 2020"
-    excerpt: "Data/Predictive Analytics and AI Technologies: A branch of data science, Predictive/Data Analytics has been going to be critical for fintech companies that rely heavily on data to take decisions. Data / Predictive Analytics use a variety of data mining, computer science and artificial intelligence (AI) techniques - in addition to machine ..."
-    publishedDateTime: 2020-01-23T04:45:00Z
-    webUrl: "https://www.indiainfoline.com/article/general-editors-choice/fintech-trends-for-2020-120012300296_1.html"
+        height: 800
+  - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
+    excerpt: "This technology is used in industry verticals, such as manufacturing, supply chain, and others. Development of artificial intelligence-empowered chips, robots, and others in manufacturing help enhance the overall production line, and thus, has significantly increased the adoption of artificial intelligence in the manufacturing sector."
+    publishedDateTime: 2020-01-27T13:01:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/37937/artificial-intelligence-in-manufacturing-market/"
     type: article
     provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 24
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 15
     images:
-      - url: "https://www.indiainfoline.com/include/_mod/site/images/login_banner.jpg"
-        width: 540
-        height: 555
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
 
 secured: "sQtBYzAFvtrNmaMp04witNC797qsRP3MlXBHeIuDVdKJQNPtSqV/hrA/8TmhXX1hYYds1MiIqO4jF+N/XcK8I2F9WkMMmIiETwV3MR8kYv/C9370mwXGOB7zIf1Bye0qIopS4oB7tucMsfRcggi2E/5P4CUXtGtTS87zDVsgyZQ2+zuDgUUWrfRcMsrPSINg2Oe8wzra/yS1qc2A3yJKY4MrBKiGWOhCkbtTzvkqbv6udcMXfTy+n0xPoRsDXfEKomTI2fMVtt3AZvUMpTLwQQffoE1b4xGmvHDSriZ6jk91P53Pqbmyy9xaTqkVA7S6MAXKLd56HJk+kMyt02NPYhCHNB2UzpHETd/A1yQFSCPJ4YolNT9hLtQESSnqglTcDY0YSG9CgaHiYjcoxUUc8PQOTPk9+JcG3R9rynQhUvWT7WR3z6bk847YTIVoQmrinfgxmFi6dCKxuAlmb09TPzfcy77jqOTbZUiQR+br0qU=;cY/fo3SZejphcKYBAR0hlg=="
 ---

@@ -69,6 +69,15 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24180676-0-image-a-22_1580595608038.jpg"
         width: 636
         height: 382
+  - title: "Will we see operators using facial recognition software soon?"
+    excerpt: "This is, I imagine, gamers’ paradise. What fascinated me most was facial recognition from Innovative Technology Ltd – a stand I just stumbled across – where I met Christian Czeskleba, senior business development manager. Christian guided me through, explaining it has its own algorithms to verify age and new faces instantly, which ..."
+    publishedDateTime: 2020-02-06T15:53:00Z
+    webUrl: "https://www.racingpost.com/news/ice-2020/will-we-see-operators-using-facial-recognition-software-soon/421688"
+    type: article
+    provider:
+      name: Racing Post
+      domain: racingpost.com
+    quality: 19
 
 secured: "dAPVXFss6x9dEoZHhhT2PObCN0gfAYoINJUM+fMKLqFMfvUqFUKe39BS+1eVuD1UouHaF6No+QEArB1el6vk9VHrkXL/0Bjk+k88tVk9Nr2k+aTK8ZXJaJLF7nukUhVvp6poIY6svWJzpwY4XvJvUABPDc9S3vePfCLT4tECQRTy7ZvaLdPBylOFze3Ar+VN5xTFdA6VFWhiu1BbWpe54qS29ewNgulX0no8gsDJoA50fg80Sxn5upaIJYT5lTXXmZ9RLwOZfLhlHvuTURFUAQhVoo1PK5WfHl8EmamYncnecMvUA460jH8ZWZWTfpvc;uXugx97mmq6zEzQvoaD0FA=="
 ---

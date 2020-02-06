@@ -29,6 +29,6 @@ images:
     height: 839
     title: "Will Ambarella Stock Get Out of the Dog House In 2020?"
 
-secured: "XohjpM7lp+zrb7zWYXcSoXE9TdVMMgvbgC17EleZ1TUJvQ6zXuIqtOL0SHO6Y+T4AnxsvMr1aBpBLWNNzHK8iwsYri98prP5z1CybK/sq8ysLDQuwA1mrn50W9lGFaN7Gcf5qEn4tmY4Xi5nnO3EYxiUeHixYyL/Ybfwptad4Xq4grB/xfu3fOsAYMKzMpQnnf25szTDXiPGzOvOYEbwNTIBJzNlriAvDW+mGkSlE3QMOqZ2RlYoDpt3eIWoNc4vH5023tEYn4ufhXctZzzCTyG5Iu6RvY+5DK992gMfrGfHwGdKb06MUUzBy3R2o6RS;t/sQ5t+j/Kr6D4oX6P4KeA=="
+secured: "dAO/LPBC+bWzcFLiTEC3i7/nhVK3uwEhMSPXBgC3srf0gZWLlJRcUtooj8sjcLbznBbs2UgCjWDyugVdJFmAE94CzzBlwuEnu3HwxdGkqPnkRp30Mk/05OOKj0pkR2se8JSDdiFU4kBNEh/OMpFi/NhwmnB7CtqH+vRj+aBbeVLfDoYiyObm3+0CCLa7Di3CAVM8BCUs+GBUfslqYkVoACQEkRxUwGOow2IEykqp/8MyxTTCZuP9z9H9kRcmLk1sddH36xrUwSmjRZXhvkZ4rMqrWP+eHcY7vnfkMduG8p93F/u1AliFTBNcvnYrDCm8;G5nAFAf4R9JTo/cSPIgPPw=="
 ---
 

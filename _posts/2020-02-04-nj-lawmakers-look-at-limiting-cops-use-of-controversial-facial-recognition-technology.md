@@ -146,6 +146,21 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
+  - title: "Congressional committee to hear testimony on facial recognition"
+    excerpt: "A Congressional committee will hold a hearing Thursday on the Department of Homeland Security’s use of facial recognition following a government report that found the technology often has difficulty accurately reading faces, based on race, gender and age ..."
+    publishedDateTime: 2020-02-06T04:01:00Z
+    webUrl: "https://www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/"
+    ampWebUrl: "https://www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/01/mlkms11.jpg?w=1024&h=676"
+        width: 1024
+        height: 675
   - title: "How to Tell if Your College is Using Facial Recognition to Monitor People on Campus"
     excerpt: "The list shows you what universities have publicly said they won’t use facial recognition as well as those that have said they already do or are considering it. Beside each entry is a button you can click on to tweet at that college to express your opinion on the matter. Beyond just a place to tweet your university, the site also offers the ..."
     publishedDateTime: 2020-02-02T02:35:00Z
@@ -200,6 +215,19 @@ related:
       - url: "https://static.bangkokpost.com/media/content/20200206/c1_1851949_200206161720_700.jpg"
         width: 700
         height: 467
+  - title: "DHS to be grilled on facial recognition"
+    excerpt: "Another) facial recognition hearing: House lawmakers will press the Department of Homeland Security on its use of facial surveillance as the technology remains under fire on the federal level and has been banned in several cities. — The moment telecom’s been waiting for: FCC Chairman Ajit Pai will unveil his C-Band auction plan for 5G today ..."
+    publishedDateTime: 2020-02-06T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/02/06/dhs-to-be-grilled-on-facial-recognition-785115"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
   - title: "Facial recognition datasets and controversies drive biometrics and digital ID news of the week"
     excerpt: "Facial recognition and controversy around the technology were the theme common to most of the past week’s top stories on Biometric Update. After a few weeks of relative calm for facial biometrics, the biggest stories about court cases, regulation, and market growth were all focused on the same modality; and then there was Clearview AI."
     publishedDateTime: 2020-02-01T01:15:00Z

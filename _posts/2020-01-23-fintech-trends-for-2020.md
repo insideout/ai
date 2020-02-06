@@ -24,34 +24,36 @@ images:
     title: "Fintech Trends for 2020"
 
 related:
-  - title: "What are Important AI & Machine Learning Trends for 2020?"
-    excerpt: "To help you stay well prepared for 2020, we’ve summarized the latest trends across different research areas, including natural language processing, conversational AI, computer vision, and reinforcement learning."
-    publishedDateTime: 2020-01-22T22:41:00Z
-    webUrl: "https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/"
-    ampWebUrl: "https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/"
+  - title: "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec"
+    excerpt: "Alfieri, one of Business Insider's 2019 Rising Stars of Wall Street, lays out the biggest themes to watch for fintech in 2020."
+    publishedDateTime: 2020-01-29T19:56:00Z
+    webUrl: "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1"
+    ampWebUrl: "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e287240a854780006af35ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
+      - url: "https://i.insider.com/5de57a1efd9db2771d15a925?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+  - title: "Top 3 Tech-Driven Trends That Will Shape The Fintech Industry In 2020"
+    excerpt: "At an exciting time like this, let us take a closer look at the major tech-driven trends that will dominate the fintech industry in 2020. Artificial intelligence (AI) is a truly transformative ..."
+    publishedDateTime: 2020-02-01T01:47:00Z
+    webUrl: "https://inc42.com/resources/top-3-tech-driven-trends-that-will-shape-the-fintech-industry-in-2020/"
+    ampWebUrl: "https://inc42.com/resources/top-3-tech-driven-trends-that-will-shape-the-fintech-industry-in-2020/?amp"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/top-3-tech-driven-trends-that-will-shape-the-fintech-industry-in-2020/?amp"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 44
+    images:
+      - url: "https://i2.wp.com/cdn.inc42.com/wp-content/uploads/2020/01/Untitled-design-2020-01-28T225043.569.jpg?fit=1200%2C628&#038;ssl=1"
         width: 1200
-        height: 675
-  - title: "What Machine Learning Trends Can We Expect for Manufacturing in 2020?"
-    excerpt: "Google’s Cloud AI Platform, Amazon’s Web Services, IBM’s Watson and Microsoft’s Azure Platform are all excellent examples of AI and machine learning solutions based in the cloud. As we head into 2020, they will continue to dominate across all sectors. What this activity means for manufacturers is quite simple. Not only will it be ..."
-    publishedDateTime: 2020-01-28T12:38:00Z
-    webUrl: "https://www.manufacturingtomorrow.com/article/2020/01/what-machine-learning-trends-can-we-expect-for-manufacturing-in-2020/14643"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturingtomorrow.com
-    quality: 41
-    images:
-      - url: "https://www.manufacturingtomorrow.com/images/articles/14643.jpg"
-        width: 680
-        height: 340
+        height: 628
 
 secured: "9WvWGZ2SRfQFfshJKSDuEuocwdoJxwSFcHUMWtlRn/p980sRVyPkaEocaW2AiPjYHr4HmokrP/uryixinmcDvo0WUhsZWDgpusuqoi8r6QpPBm0N8yN0VzlACGsBIJFcW/uUXN3GwXJ8pKNDuX6LpXQwUB0vNNFxxW7nEbuvgcULKPmOBM4kX2g75S2jAMEw1ZdFE5Et66SmU9/1GfLPI+fTci5Oyfks2ebNvgciihX9S/doBzQQ6wg0fYy0sbTm5c13xl5rCka/i4uh+KyOJwgdqaajdpUuqRdZGihdykByl8gV1Ai11Dz9bb4xxf1sjCeCi2AcpcqK87+fuU3GPeLkI/ww4xhxMSqGDzJ6/2xZnX/ByRtVtqMcNY84DmzDJGXINzYpLw+NB7dMFOTz+96DiCYokhX/lIN65c5ZB9ApJjH4UO7uXYz5DQcZD/DgBHeZGbINVIPQLLV5q7QhcQ==;9oGpC3R2fojRJKjN+YmI2A=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://torontosun.com/news/local-news/could-ontario-police-start-us
 cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
       - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
         width: 690
         height: 388
+  - title: "Will we see operators using facial recognition software soon?"
+    excerpt: "This is, I imagine, gamers’ paradise. What fascinated me most was facial recognition from Innovative Technology Ltd – a stand I just stumbled across – where I met Christian Czeskleba, senior business development manager. Christian guided me through, explaining it has its own algorithms to verify age and new faces instantly, which ..."
+    publishedDateTime: 2020-02-06T15:53:00Z
+    webUrl: "https://www.racingpost.com/news/ice-2020/will-we-see-operators-using-facial-recognition-software-soon/421688"
+    type: article
+    provider:
+      name: Racing Post
+      domain: racingpost.com
+    quality: 19
 
 secured: "naY6mT1LoVdWZa7FwmqJ2BX4n//zgyoTvUnghzplOy91Mri4OcGWMCN++hAwY/CVoqSXdOZpXJb9R842vP9dcxdgKZm1ROzgyiBVjqHbUMbT0gevzzfmkvrMMp8U+cFATn4yAD7s10r6PjRpOs0kCuIP0BPrjjlbCM2WFrm1Fa0fFZueDbi3qcCOQQzPGIQLGNETjye17sjjQ7afew0MTSDAiegovzme+ICVr3IZ3vcbBaPl01j5NtCDlHAzaypfQXfBY/OhUDCEfBo8I3tOCGxLs8rpxTANXFR9PbrbLj1YOr+i8gPU9fWN0S19uEAeO3E8ki+UcyHy9HTCsVDKFhnPOqUefC3Q4467vdiMoTp6BjTrUsibszNGU9xcY8YuABynX0VSzJl7plL6e7pT0nmx6N7DYr/A12EN2Tw0fgk3mGkUGRotjRkCMADRbj1q+oFJggKEbvXicJJTFeFyo6/Syw7R3V3Q/dc16ra36uE=;T+VVx04mphFuoAV8+FshPA=="
 ---

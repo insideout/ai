@@ -69,6 +69,15 @@ related:
       - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
         width: 690
         height: 388
+  - title: "Will we see operators using facial recognition software soon?"
+    excerpt: "This is, I imagine, gamers’ paradise. What fascinated me most was facial recognition from Innovative Technology Ltd – a stand I just stumbled across – where I met Christian Czeskleba, senior business development manager. Christian guided me through, explaining it has its own algorithms to verify age and new faces instantly, which ..."
+    publishedDateTime: 2020-02-06T15:53:00Z
+    webUrl: "https://www.racingpost.com/news/ice-2020/will-we-see-operators-using-facial-recognition-software-soon/421688"
+    type: article
+    provider:
+      name: Racing Post
+      domain: racingpost.com
+    quality: 19
 
 secured: "Xa7oCTfMRZUbnSq1R/3mKXGn7rI6QjQx6hsXzCJFcu9GFFzTyqpAoajAoz1lHJwPsROIwNfUIu6m2QWruJOUZTnz4Pp0U08hcQtWnpsdWd1XAKem9epa2yO4kV8J0ImP4RlznqzdCHobzM1cd9cdRbAOl5ri7ySyngrFsf6mJ8UwgVzy9tPXlQcP6Fd9DsFMbAKqlW9pHRJcuo6J8XDGaqERxgX6P9KbjHlCYQnuSPE0ZtSH4BqSUWKtOEKd3kGqmOiXrvQKkEezIBqTlNXYnYlMHcXHe8dmkVuRq5fwuxn3HkmuDC2RihomDcW+frc5;XKuTqjwzeqfeC8VBjN+r/g=="
 ---

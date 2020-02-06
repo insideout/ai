@@ -8,8 +8,8 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligenc
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-ml-chip-in-to-fight-climate-change-protect-environment/amp-11580399748370.html"
 type: article
 quality: 81
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mint
@@ -28,21 +28,21 @@ images:
     title: "Artificial intelligence, machine learning chip in to fight climate change, protect environment"
 
 related:
-  - title: "Climate Change: AI, Machine Learning Join The Fight"
-    excerpt: "The system was developed by California-based Conservation Metrics and uses AI and ML. The system can identify the low-frequency rumbling sounds made by elephants to communicate with each other amid sounds made by other animals. Microsoft's Azure solutions are enabled by Conservation Metrics to process months of sound data in a few weeks."
-    publishedDateTime: 2020-02-02T05:00:00Z
-    webUrl: "https://www.gizbot.com/news/climate-change-ai-machine-learning-join-the-fight-065413.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/news/climate-change-ai-machine-learning-join-the-fight-065413.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/climate-change-ai-machine-learning-join-the-fight-065413.html"
+  - title: "IEEE calls for standards to combat climate change and protect kids in the age of AI"
+    excerpt: "The white paper encapsulates change underway at the IEEE in line with AI ethics principles released in spring 2019 after years of work, according to IEEE Global Initiative on Ethics of Autonomous & Intelligent Systems John Havens. It also follows last fall’s declaration by IEEE leadership to recognize “the global scale of the human-made and ..."
+    publishedDateTime: 2020-02-06T15:15:00Z
+    webUrl: "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/"
     type: article
     provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
     images:
-      - url: "https://www.gizbot.com/img/2020/02/climate-change-ai-machine-learning-join-the-fight-1580540368.jpg"
-        width: 600
-        height: 337
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?fit=1200%2C850&strip=all"
+        width: 1200
+        height: 850
 
 secured: "mZ9zPTtJ3/62BhC6OWqWMmJxKiPX6Gh8beMExlYD31OtxtWlAmCqkI/9QO70NydqKSBbj8XKSMUtlMIexOvXPTPig6DpRp2Hn3S3rLA/69cBXft7T53GbNfEqU00euFdAFWnFKFJ+ERvERSDg7HfCPLGAsV5vzAsppR0NT5s8YK407KouKuyfG27lxeUZs1T/iX5TvGi/IPHKlv4OYreerkdRku0Zhk0mWXjvNtEcqs/CqfYdP5H6uc1TAegJ+Zy6JhHJMC+8Z2KsXGNEHJsBtW0BvesSt5N93lJnbUsLfGe+CbhBbwGabM+SDVRhPEBmIghTz/BhRtziVrl0gxXUEjkBtMCcDnPZFpwmMceU16LNy2tgOQDAdiSDmES+iUZa4bLV+GSMPFPvtcDHNwczKQ30ixQ9rEBU3gpat4lLJuerDbRN2MULYotpKCj82LecEM4pzFq9J1F396NUgmi/cRb9jMQG2Z+HxXYhmuBrjI=;K3o3PVWaegz931mRvDU8MA=="
 ---
