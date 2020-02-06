@@ -3,7 +3,7 @@ name: "TC Sessions: Robotics + AI 2020"
 excerpt: "TechCrunch Sessions: Robotics & AI is a single-day event that features in-depth interviews and networking opportunities with top robotics and AI technologists, founders, investors and researchers."
 type: conference
 startDateTime: 2020-03-03T10:00:00-08:00
-endDateTime: 2020-07-16T17:20:00-08:00
+endDateTime: 2020-03-03T17:20:00-08:00
 location: Berkeley, CA
 price: $$$
 
