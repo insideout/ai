@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/amp/"
 type: article
 quality: 89
-heat: 559
+heat: 549
 published: true
 
 provider:
@@ -607,17 +607,6 @@ related:
       - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
         width: 620
         height: 330
-  - title: "GM's Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
-    excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
-    publishedDateTime: 2020-01-22T20:21:00Z
-    webUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/"
-    ampWebUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 18
   - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
     excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens today and runs through Friday in Las Vegas, may provide a clue when it serves ..."
     publishedDateTime: 2020-01-29T20:15:00Z

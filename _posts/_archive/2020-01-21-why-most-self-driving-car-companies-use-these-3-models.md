@@ -4,10 +4,12 @@ title: "Why most self-driving car companies use these 3 models"
 excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
 publishedDateTime: 2020-01-21T20:54:00Z
 webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
+ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 74
+heat: 124
+published: true
 
 provider:
   name: Mashable
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
+    width: 1200
+    height: 630
+    title: "Why most self-driving car companies use these 3 models"
 
 related:
   - title: "Apple's self-driving car system could use voice, gesture guidance"
@@ -33,31 +41,59 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
         width: 1200
         height: 630
-  - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
-    excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
-    publishedDateTime: 2020-02-03T07:00:00Z
-    webUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/"
-    ampWebUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
+  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious"
+    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps."
+    publishedDateTime: 2020-01-25T14:44:00Z
+    webUrl: "https://www.businessinsider.com/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
     images:
-      - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
-        width: 2400
-        height: 1600
-  - title: "The Key To Tesla's Future Is Full Self-Driving"
-    excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
-    publishedDateTime: 2020-02-03T17:07:00Z
-    webUrl: "https://seekingalpha.com/article/4320979-key-to-teslas-future-is-full-self-driving"
+      - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious (INTC)"
+    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps. Mobileye CEO Amnon Shashua told Business Insider that autonomous vehicles (AVs) can't be too cautious. If AVs take too long to get to their destinations, people won't want to ride in them, Shashua said. To increase ..."
+    publishedDateTime: 2020-01-25T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1-1028844526"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://images.markets.businessinsider.com/image/5e2b293624306a2d955068f4-2333/mobileye-2020-ces-shashua-5.jpg"
+        width: 1024
+        height: 768
+  - title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
+    excerpt: "Cofounder and CTO Kyle Vogt said that the company has technology that could allow for highway operation"
+    publishedDateTime: 2020-01-23T17:20:00Z
+    webUrl: "https://www.businessinsider.com/cruise-self-driving-tech-for-city-and-highway-driving-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "Test shows promise of self-driving cars for transit"
+    excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
+    publishedDateTime: 2020-01-25T19:00:00Z
+    webUrl: "https://www.limaohio.com/top-stories/393877/test-shows-promise-of-self-driving-cars-for-transit"
+    type: article
+    provider:
+      name: The Lima News
+      domain: limaohio.com
+    quality: 24
+    images:
+      - url: "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_SelfDriving1.jpg"
+        width: 640
+        height: 431
 
-secured: "n90NrQWy5dvXGFWEXLFOLNpZDQI7BI7Ns5nO43RXoiI+iaZpIKXnN0Lvjb7F3RjO3o+4uHapXeuXx+CQl1CTCZfGedLS/V35F3BaKasjgm/L+4HlAkRrC1v+Iw9HcHOizV+HodAMdNJ2GqeBCJ/M357hfBxYi54kSx7f4wNMomNLyL8Zj+YE8tH8BjmFOk/r39gJ3aTs8rX+UJ45AGPpdHXS6dHViBLL2gZZC/tgED2tAOrOXyqLyBxcuZGoKYu1H4sXxM2cKFdOI1l7rhSirIlM7goIcOPxXFOe8IwgPdOYWtk/n6B+dItyMvgcsTkcy1lGUF4EK4dTy5UGyg4oFPApP1fylvc3AjLcAnfjVgtQb+i28gmbTgWh7/KnyLIMIMUNXOsDUToNXCEILX+YXz+DA0y8frj4bXaUUMcOjej2j9g3HiOqOPAJ5TpkqEYa6BWULqpMH6oAIPQN9URa6mupL2BhSlROThDAtpETjkM=;Q1Cn0sjgFu2GvUIyQF+13A=="
+secured: "nV45pLIRENcKLs3Xt/cymwjVGkOAHrfknERFbtUYhpYtGQm3DyeqZO3U/GwwQXCri1C8Zvd82077DUkWaOz4Pwis3bDwNYakj1glEy5DjPlc8Hy3Qmjmwk4gVWAEMO80FKPthfSmHu6eq4kyz/Mn7KhPb9Rf+JNdFAG1m4wDuzlgpNeYaj2BDcz0OR/L19Gq86jC/y1lVxF03l/5M4L+6b6BIdcFMpfN77tQCR2GSFcmefMsxcUEbH4GwQLp9ruFaF+yhBSpfANYGBMgn+pf/WJL1OTrEiSgFqQgZ9p6fhPt719L+LxswlqyCvN+HwOd;PPJ4ZO0ComXiPS0F/qqHiA=="
 ---
 

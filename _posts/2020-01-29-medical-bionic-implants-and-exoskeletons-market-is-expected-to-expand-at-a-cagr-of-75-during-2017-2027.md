@@ -3,10 +3,10 @@ category: news
 title: "Medical Bionic Implants And Exoskeletons Market is expected to expand at a CAGR of 7.5% during 2017-2027"
 excerpt: "Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Download the sample copy of ..."
 publishedDateTime: 2020-01-29T06:25:00Z
-webUrl: "https://www.marketwatch.com/press-release/medical-bionic-implants-and-exoskeletons-market-is-expected-to-expand-at-a-cagr-of-75-during-2017-2027-2020-01-29"
+webUrl: "https://www.marketwatch.com/press-release/medical-bionic-implants-and-exoskeletons-market-is-expected-to-expand-at-a-cagr-of-75-during-2017-2027-2020-01-29?dist=bigcharts"
 type: article
-quality: 17
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Robotics
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Medical Bionic Implants And Exoskeletons Market is expected to expand at a CAGR of 7.5% during 2017-2027"
+
 related:
   - title: "Exoskeletons and Exo-suits: Exploring the Scope of Wearable Robots"
     excerpt: "Better and refined versions of this technology are surfacing every passing day; today, even mind-controlled exoskeletons are available, which were unimaginable until a few years back. Studies have suggested that, in the future, humanoid robotic technologies and exoskeletons may present possibilities for humans to function even in unstructured ..."
@@ -31,7 +37,16 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 19
+  - title: "Rehabilitation Robots Industry Outlook 2020-2025: Set to Exhibit a CAGR of 25.8% - Exoskeleton Robots Expected to Hold the Major Share"
+    excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Rehabilitation Robots Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Rehabilitation Robots market is expected to register a CAGR of 25."
+    publishedDateTime: 2020-02-04T16:49:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979704/0/en/Rehabilitation-Robots-Industry-Outlook-2020-2025-Set-to-Exhibit-a-CAGR-of-25-8-Exoskeleton-Robots-Expected-to-Hold-the-Major-Share.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
-secured: "iq+c2LitxWNwccdEmN7BwKjE4p9Rhm8VgqZkciAwvP1EVT1eW+glCCThnZd4oc8xiDAqFRODRW/XscxyH1id5rc2/jXoV/YC0bpcjXHzP0nORO6/QWEgfZqqRSeOInh2jhouZdNVcgLtoSSIOVtJp4zAzzWwsirh9EzgcuO6cPonOT606kLinCx6LHcSY6Ai3P2dfAz3Y8IQhPxGISXqS2CS6pxzki/R+GVHmsVquyDrJVLBxL0hYySVAvnElkiVTK10tdDznQuRFevR9Mi3lDtEkCAJw6M6566rKCKmL7FyVATgVdgoROAGoMw3TP2Q;prBwS+bvtMUVjahN/tC5bQ=="
+secured: "nkzYwNp4K9dku2y23PtMZKlYJ8GvVlFf9MKzj9clvjjQBMcbe1QuPCG8qhiYvXqTjC1oBh7+qPHGbUkdSKsB7C+Ze4hJWDs1xTg05kXIPKnv3ml49jeBKLcK4Yye55eOHFl5sc/fxTAhRJBN81pBtnMX4K+h1QV0F8MkZCqe+oBr7PKDzxA5FSNXAIiD+QpyIx++haRNSm7sI8uGIkvEsIWd+ZrcoXpZFqg+w+1YqEObtq+Embh4PjT6NDFjn+yM5r2molFLelqEgadLp6IRME5cic3faEbUqnb4/w4tEwL0bN4DGOlPg2UcruaaCY5/;MFwytwbzAix0LA/ujTuJIA=="
 ---
 

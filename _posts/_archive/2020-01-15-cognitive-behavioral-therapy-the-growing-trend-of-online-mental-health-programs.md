@@ -4,9 +4,11 @@ title: "Cognitive behavioral therapy & the growing trend of online mental health
 excerpt: "Cognitive Behavioral Therapy (CBT) is among the most researched ... Like many consumer-driven online services, cCBT uses artificial intelligence or AI, and interactive algorithms to approximate ..."
 publishedDateTime: 2020-01-15T15:18:00Z
 webUrl: "https://www.benefitspro.com/2020/01/15/cognitive-behavioral-therapy-the-growing-trend-of-online-mental-health-programs/"
+ampWebUrl: "https://www.benefitspro.com/2020/01/15/cognitive-behavioral-therapy-the-growing-trend-of-online-mental-health-programs/?amp=1"
+cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2020/01/15/cognitive-behavioral-therapy-the-growing-trend-of-online-mental-health-programs/?amp=1"
 type: article
-quality: 14
-heat: 14
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "F5LExKTnDeR3PHlmP6313NzR7C9KORzO4oIa7ZLBY4w5k3uBzk3GPbKCXcCR7jlImaReUBBXhltHbUAtf9VflqV5eeZguYgxGTHzRxFDq8DXY6fUBdHLfeKZCl7bc52F9EItwR8ac3is3So/rzrB4S+pnR7L74P45/p+CfyHRI5ftRYsNasvT7dru1mvMdARZXM35/gFsHN/goZnb9z+1INqgtCewFRRH0gzjin929fDE/ENh72vT/YnAH8+8Z9gOpNAoaxLSAeps6qeXwzCYIMAUP41eOG5MO52CO65xe5Y3TzL3GoekGBVptRv2Izo;PJkmg420YQCswoeeckTz3Q=="
+images:
+  - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2019/04/2018-12-3-computer-616x372-TS.jpg"
+    width: 616
+    height: 372
+    title: "Cognitive behavioral therapy & the growing trend of online mental health programs"
+
+secured: "VQ+QnnCjtcWKQ1BFbaL6tMRB5W4sMSerjsrMqLGwM3e+92CoKG5MhPX9Qxk4XPgSfq+Xm9MZlNuLfrOR9vMIVVtOZn6rFgR0wVOk9ZCiFLYla100UnUbeyiVGWS3wn2K6WIimqlI6cbLa1rKtkDcyqnyfpPmtgWFwyPeApDFdAZiMzcmb0cLIRrRWujHF/tgoGJdKsIsh3/0a8bdXxfMl39Fyd2VSDvSqBdILSNJhOqt1daD4IceDNSxQt37ENdVSAuVLGLjnDYYsp+QbDJDtVFqDsyFtzPNQuhxAbmuJ3/5f3+Whf3twoTSzZJ/VcOI;LMuC0LyPEGi/8nzpRp4Q1A=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/business-strategy/digital-transformation/354
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe?amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
       - url: "https://images.livemint.com/img/2020/01/30/600x338/PPPP_1580389216573.jpg"
         width: 600
         height: 338
-  - title: "AKA and Softbank Partnership to Bring AI Robot to Classrooms"
-    excerpt: "Artificial Intelligence company AKA has announced a partnership with SoftBank Robotics China that will help to bring Pepper the robot to English classrooms in China. SoftBank’s Pepper is already one of the most popular interactive Artificial Intelligence-powered robots in the world. With more than 10,000 units sold worldwide, Pepper can be ..."
-    publishedDateTime: 2020-01-22T19:46:00Z
-    webUrl: "https://mobileidworld.com/aka-softbank-partnership-bring-ai-robot-classrooms-012201/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 34
 
 secured: "xQKBkw9K9Ud6ANMiJ1ppo0MapEVN3dxWHNbqNqEHfsYgX8SdKp2H6mOOPQv0Zo7XZcnzBP/heXIbPx/hvivvbTt/+TUIWn+/LOfWf3dbwdLiYbsmxC4hXgd8ngdbK5WxUWvtT7+Tiv/rbPt7nDjwZe253Ju7uLBFt25/KPNr2kQn2jczjFfeHLXIT6fYZXnWK0gE09swo/mKLbx6muYasF+xekaCIaeeL3VZ/1PaBbFOIiaIWqgJ0mxuwmCOWL/ejFfvTyemh/lbfvfAnhxD5DefY5kLz7Ch+GtzI0L75kVVItSljNqm11xvfEHLkUsC;yOJmQVMBjRJFaY2MY6TKrw=="
 ---

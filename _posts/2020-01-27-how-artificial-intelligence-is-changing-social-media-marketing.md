@@ -36,19 +36,6 @@ related:
       - url: "https://www.designnews.com/sites/default/files/Design%20News/Fibre%20optics%20stock%20image.jpg"
         width: 1280
         height: 720
-  - title: "How Oregon Works: AI evolution is changing work for humans and machines"
-    excerpt: "The field of artificial intelligence has evolved as computing and storage prices have come down and the amount of data created by smart devices has gone up. Infrastructure from Google Cloud and Amazon Web Services and other tech giants mean more people now have access."
-    publishedDateTime: 2020-01-30T22:09:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2020/01/30/how-oregon-works-ai-evolution-is-changing-work-for.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-    images:
-      - url: "https://media.bizj.us/view/img/10755766/gettyimages-802851578*1200xx5000-2813-0-290.jpg"
-        width: 1200
-        height: 675
 
 secured: "BdcgITUILANKfmSW53cGY7fC0U7Py4LuJ9hMG5iSrkj276zXSrjatAfFZLAPUw6tgMHlobTDyPJ+lrLrd4rKp2HO5hoUYDCTMPfjhjehTI47B+s7/ijtUrro+AFMs3rJqh3sr51fWBXXftOsCqufQqjzwMdQa8gIiyzmeEkaFxK7gFHL51mi4wXPCLVceU0mqZvknMzfuIogb0b4JwqfteBsNunCmcAmifbjbM/OzASrnBKVn4aUvVbNpTg5PrwUX8MdoNYeKDAVeZdoy/lyLqJk/H3DA/NTObstkL+TASuuKHh2ngaYLqPH4VcTer5O;EACV4xpR39OIHq9LFvSYBQ=="
 ---

@@ -295,6 +295,21 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 36
+  - title: "Facebook has sent a cease-and-desist letter to facial recognition startup Clearview AI for scraping billions of photos"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Facebook has become the latest major tech firm to send a cease-and-desist letter to facial recognition startup Clearview AI over unauthorized photo scraping. \"Scraping people's information violates our policies, which is why we've demanded ..."
+    publishedDateTime: 2020-02-06T14:04:00Z
+    webUrl: "https://www.insider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2"
+    ampWebUrl: "https://www.insider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
+    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 33
+    images:
+      - url: "https://i.insider.com/5e3c1b323ac0c92bea152b11?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
     excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
     publishedDateTime: 2020-02-04T23:36:00Z

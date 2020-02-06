@@ -26,34 +26,34 @@ images:
     title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
 
 related:
-  - title: "Moscow Court Case Challenges City's Facial Recognition Use After Launch"
-    excerpt: "A court on Friday will hear a legal challenge to Moscow's rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month."
-    publishedDateTime: 2020-02-03T15:07:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/02/03/technology/31reuters-russia-technology-facialrecognition.html"
+  - title: "Podcast: Why Clearview AI's facial recognition is a privacy nightmare"
+    excerpt: "And we also chat about the DIY nature of Billy Eilish's Grammy wins. All of our fears around facial recognition technology are coming true thanks to a little known startup called ClearView AI. This week, Devindra and Cherlynn dive into how ClearView works, and what unchecked access to powerful facial recognition means for the future of privacy."
+    publishedDateTime: 2020-01-31T12:30:00Z
+    webUrl: "https://www.engadget.com/2020/01/31/podcast-clearview-ai-billie-eilish/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
+      name: Engadget
+      domain: engadget.com
+    quality: 84
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C719%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C719%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-10%252F9251a820-f130-11e9-9df5-19d3f012f517%26client%3Da1acac3e1b3290917d92%26signature%3D569bb91dab0b6654f0fc0287924bc32aa29d22ba&client=amp-blogside-v2&signature=29c7441da69c3b0234a720e23f0815964826b843"
         width: 1200
         height: 630
-  - title: "Springfield City Council finalizes facial recognition ordinance"
-    excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council further discussed a possible ban on facial recognition technology Wednesday. The city council’s public safety subcommittee met to finalize an ordinance to introduce at the next city council meeting."
-    publishedDateTime: 2020-01-30T01:31:00Z
-    webUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/"
-    ampWebUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/amp/"
-    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/amp/"
+  - title: "Facial recognition moves into a new front: schools"
+    excerpt: "LOCKPORT, N.Y. — Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent ..."
+    publishedDateTime: 2020-02-06T13:00:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/?amp=1"
     type: article
     provider:
-      name: WWLP
-      domain: wwlp.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 59
     images:
-      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2020/01/facial-recognition-ordinance.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/FACIAL-RECOGNITION-EDUC-2-1-300x450.jpg"
+        width: 300
+        height: 450
   - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition settlement"
     excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
     publishedDateTime: 2020-02-03T23:02:00Z
@@ -69,19 +69,32 @@ related:
       - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
         width: 1000
         height: 750
-  - title: "NJ lawmakers debate cops’ use of facial-recognition tech"
-    excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
-    publishedDateTime: 2020-02-05T18:05:00Z
-    webUrl: "https://www.policeone.com/legal/articles/nj-lawmakers-debate-cops-use-of-facial-recognition-tech-BgMvDd7mHLgZOBsI/"
+  - title: "EU Prepares for Coming of Facial Recognition– On Its Privacy Terms"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy. Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next ..."
+    publishedDateTime: 2020-02-03T12:59:00Z
+    webUrl: "https://www.insurancejournal.com/news/international/2020/02/03/557118.htm"
     type: article
     provider:
-      name: PoliceOne
-      domain: policeone.com
-    quality: 24
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 39
     images:
-      - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
-        width: 757
-        height: 667
+      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
+        width: 900
+        height: 598
+  - title: "Is facial recognition technology worth the privacy trade-off?"
+    excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
+    publishedDateTime: 2020-02-04T09:05:00Z
+    webUrl: "https://nj1015.com/is-facial-recognition-technology-worth-the-privacy-trade-off/"
+    type: article
+    provider:
+      name: WKXW
+      domain: nj1015.com
+    quality: 39
+    images:
+      - url: "https://townsquare.media/site/385/files/2020/02/GettyImages-1198303844.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        width: 1200
+        height: 833
 
 secured: "G3gio46m7pjEpT4sM2Nz9tiP1dKrs9wXHzW8H/hO9rcozYJpjIKZXQRXflYtj6Jhz8YoicN0+p0zm3hiEHquRVwV1FFkLdYpVF59oi2Rl1IjuVD6Rr0YrWvrwcQ69UHnaoIwQ1ypo4Mr2/GyjRFBjPY0AzoYlPFTSlTjQcqUjhQ2tbq8o6vrhQ9bcV+reFbSR8zRf4Ibb6rbHntT+ADTdydb0xU7EvRb1poLt18czFpOZpCWebYO0TbexmzgH4f/aikEGLoRErxWKudw+R6I54nAW1GP0iGqpUhDss96u292MV2d/L4WANvB25tczn2N;ijVeVzKRJIsrIi9qskGdgQ=="
 ---

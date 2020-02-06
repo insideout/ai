@@ -24,36 +24,34 @@ images:
     title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
 
 related:
-  - title: "GM Unveils New Self-Driving Car—But Will It Replace Uber?"
-    excerpt: "Origin is a new all-electric, self-driving vehicle. And it made its debut last week, when it was unveiled in San Francisco. This car-of-tomorrow—that’s happening today—was designed by GM, Cruise (a GM subsidiary) and Honda Motors. Think of the Origin like a driverless shuttle, basically a box with wheels. Did we also mention that Origin ..."
-    publishedDateTime: 2020-01-27T19:14:00Z
-    webUrl: "https://observer.com/2020/01/gm-cruise-origin-self-driving-car-uber/"
-    ampWebUrl: "https://observer.com/2020/01/gm-cruise-origin-self-driving-car-uber/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/gm-cruise-origin-self-driving-car-uber/amp/"
+  - title: "Exclusive look at Cruise’s first driverless car without a steering wheel or pedals"
+    excerpt: "The hard drive, stored in the trunk and housing the vehicle’s artificial intelligence and perception software ... GM submitted a petition for permission to deploy a fully driverless Chevy Bolt in 2018, but it has yet to receive a response. And it will most likely need another exemption before the Origin is allowed to hit the road, too."
+    publishedDateTime: 2020-01-22T01:14:00Z
+    webUrl: "https://www.theverge.com/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look"
     type: article
     provider:
-      name: Observer
-      domain: observer.com
-    quality: 44
+      name: The Verge
+      domain: theverge.com
+    quality: 83
     images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/Cruise-Origin-in-SFs-Castro-District.jpg?quality=80&strip"
-        width: 1920
-        height: 1183
-  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
-    excerpt: "(CNN) -- GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open."
-    publishedDateTime: 2020-01-30T09:53:00Z
-    webUrl: "https://www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.html"
-    ampWebUrl: "https://www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.amp.html"
-    cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.amp.html"
+      - url: "https://cdn.vox-cdn.com/thumbor/_Cq8RBeDpZ0BOd8CsPhQ7orclbI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66141735/vpavic_200121_3874_0010.0.jpg"
+        width: 1400
+        height: 933
+  - title: "This self-driving car has no steering wheel or pedals"
+    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
+    publishedDateTime: 2020-01-23T13:29:00Z
+    webUrl: "https://www.djournal.com/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_6519890d-38c7-523c-b864-2a565adcb0f5.html"
     type: article
     provider:
-      name: CBS Atlanta
-      domain: cbs46.com
-    quality: 44
+      name: Daily Journal
+      domain: djournal.com
+    quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/7/d5/7d505b47-b933-5dcc-9088-5a0c11dc44d1/5e28d08cb51ef.image.jpg?resize=1024%2C784"
-        width: 1024
-        height: 784
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/6/51/6519890d-38c7-523c-b864-2a565adcb0f5/5e282eceb9f09.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
   - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
     excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel,"
     publishedDateTime: 2020-01-24T14:50:00Z

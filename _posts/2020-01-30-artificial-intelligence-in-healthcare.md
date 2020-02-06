@@ -70,6 +70,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 49
+  - title: "ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET"
+    excerpt: "Artificial Intelligence In Healthcare Market has been provided in the latest report launched by SMI that primarily focuses on the World industry trends, demand, Share, Consumption and Growth with competitive analysis and Future Forecast 2020-2027. The report begins with a brief introduction regarding the major factors influencing the Artificial ..."
+    publishedDateTime: 2020-01-28T08:01:00Z
+    webUrl: "https://www.openpr.com/news/1910427/artificial-intelligence-in-healthcare-market-is-set"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
   - title: "Artificial intelligence In Healthcare Market Poised To revolutionize the healthcare sector"
     excerpt: "The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for players to better address challenges inside the global Artificial ..."
     publishedDateTime: 2020-01-29T11:55:00Z

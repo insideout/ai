@@ -159,6 +159,21 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2018/03/self-driving-vehicle-fatali1.jpg?w=1024&h=706"
         width: 1024
         height: 705
+  - title: "Uber Can Now Test Self-Driving Tech On California Roads"
+    excerpt: "The company has been granted a permit by the California DMV. To recall, the tests were stopped after a self-driven car killed a pedestrian in 2018."
+    publishedDateTime: 2020-02-06T13:54:00Z
+    webUrl: "https://www.ibtimes.com/uber-can-now-test-self-driving-tech-california-roads-2916930"
+    ampWebUrl: "https://www.ibtimes.com/uber-can-now-test-self-driving-tech-california-roads-2916930?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/uber-can-now-test-self-driving-tech-california-roads-2916930?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 44
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/09/28/uber-logo.png"
+        width: 1200
+        height: 675
   - title: "Uber may resume self-driving vehicle testing for first time since 2018 death"
     excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
     publishedDateTime: 2020-02-06T00:06:00Z

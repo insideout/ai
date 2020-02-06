@@ -47,15 +47,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
-    excerpt: "\"The combination of containers and Kubernetes enables faster, more agile app development and facilitates more collaborative cross-team app design and development across organizations,\" Melanie Posey, research vice president at ... developers to easily work with other popular AI frameworks, like Facebook's PyTorch and Google's TensorFlow."
-    publishedDateTime: 2020-01-31T14:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/developer-technologies-digital-transformation-tech-companies-2020-1-1028863737"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
 
 secured: "cQSQKOBWT6aggsCmnZiCLnaVnc+u3jQzep6VJ8UpX1Du5hmOvl+a/jQjBoUorlXH23cNH4qvjrvQzEApzTb1OI8K89oghcVqmYcl437jKdt03eJPkn+C1d2J67vLTOuyxEmVtt5bpCHuCpY81xQAZ7FL2kTBB6rn+gIzeJNnf3Jk3ix5VYIfGLhNnulLCiAkA1DPY4HlTcm7tFSu56IENZ6tebbjd+bp9RSyyfWvGvWvSy+NvTuguQgjAVjfNCYZQqeed5pi4WAqjAIPPPVXGgBmlvnugwOtXVGlcL4xQNW3gkzr46TnjdpWIBsLijLw;pNzt3gTEY0c9JPshAhb7SQ=="
 ---

@@ -71,22 +71,7 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
         width: 1200
         height: 800
-  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
-    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
-    publishedDateTime: 2020-01-20T13:52:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
-        width: 1000
-        height: 652
 
-secured: "2b0zoV1uzsj5BwLLO6PIe7eOnptizRM2zbMgsMPvflxFBB7KjMoojaPxh2SNIiaYbadUGvb+UL02n0IVB3AP9n+vVutc/qBB8TuQEw6tuxPa8Enn4ieyvDM+fOclliMaZ/GUHDxhDxqaiuVp+xvEBsIk7EAmJjX9GdwuPVKIZX4stYp2au4RrmlOPlViNs0W+Poiz0S5hU9pkkm9w5XPaiztf1T6PQGm6Cgdf+/g8qOpbsvQ4R9w54tdAOvzCgSj5VjMQmkOswdaFsLt01iF2do4lKzlukRL4bg+qz48V5fz3d4arsYltR64vTB7qqnS;NCJu1O+66KwlPtuFrMPvkg=="
+secured: "w2gnunxO2o6oUNf2W0nfEVYXTTcbzGHCDOHAZERIGMoDiGUtK2UJTvxcA7RlFupK1xkuaI0HwJbFlLx8tWHvRZXXHDLqKsJOvRrdEL/+YJfjLc3l5DfxK6QZh541utLK+xZ9ZxSxUTCXc6wk87FTFS2m+FXhbWqCMfpe2F5VUnUqBzYCOBxyK9/PaaRk2rilkyzSdH8eQNvh2TnhghHXivrUN1dYebkPx80CftYiug6id6SCtSdwHv9EWvtuJvRyxuA667keSwsyYNpNkqkbMcAfKl3ok/1Oy9Mc8mEYB5zSuLzUWiebW3hooth4qVtb;v+q4Mi3/rmO3ola3dxXYXA=="
 ---
 

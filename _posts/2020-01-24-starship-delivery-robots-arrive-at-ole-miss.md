@@ -67,15 +67,6 @@ related:
       - url: "https://www.wlox.com/resizer/YTBcIDYD2at1iuFPleAdKKkiiVI=/1200x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/K5HBSHMBJFB7DEYPZIQESOTIQE.jpg"
         width: 1200
         height: 673
-  - title: "Ole Miss rolls out food delivery robots on campus"
-    excerpt: "The robots can cross streets, climb curbs, travel at night and operate in rain and snow using a combination of sophisticated machine learning, artificial intelligence and sensors to navigate. A team of humans can monitor the robots’ progress remotely and take control if needed. “We're honored to be able to help make lives a little bit ..."
-    publishedDateTime: 2020-01-22T20:26:00Z
-    webUrl: "https://www.djournal.com/news/ole-miss-rolls-out-food-delivery-robots-on-campus/article_c0057fee-7283-5355-b8f8-a558d5e1c76e.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 19
   - title: "Smarter Delivery Hinges on Smarter Robots"
     excerpt: "Companies and researchers world-wide are racing to develop artificial-intelligence systems that can enable warehouse robots to handle new and varied objects--telling the difference between a cardboard box and a small circuit board for instance--without the need for extensive additional training or human help. Such capabilities would make ..."
     publishedDateTime: 2020-01-30T03:14:00Z

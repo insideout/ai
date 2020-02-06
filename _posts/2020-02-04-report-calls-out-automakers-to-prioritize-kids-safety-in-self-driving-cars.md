@@ -89,6 +89,19 @@ related:
       - url: "https://www.theday.com/storyimage/NL/20200201/BIZ07/200209995/AR/0/AR-200209995.jpg&imageversion=16by9&Maxw=960"
         width: 960
         height: 540
+  - title: "Safety and Security are Two Major Points of Focus for the Players of Global Self-Driving Car Market -Transparency Market Research"
+    excerpt: "/PRNewswire/ -- There are several factors that are responsible for an exceptional growth of global self-driving car market says Transparency Market"
+    publishedDateTime: 2020-02-06T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/safety-and-security-are-two-major-points-of-focus-for-the-players-of-global-self-driving-car-market--transparency-market-research-301000238.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1085206/Transparency_Market_Research_Logo.jpg?p=publish&p=facebook"
+        width: 1200
+        height: 800
 
 secured: "eMqUjj6z7ljBFJ9wOoHDPbBlWRJh4FZ4SqAJO8/e0PkUfgCPRQXCU5pwPR69az5e/DVTjVgs80IGdS+6aFgNYUJIIbsfa8qVelRfkrd3JPQg/T9vNn+oHQ+s5Paci0kuVjV4gYkgTGKow1ipELxPqeIxoFLojo3Kyyvwf7W8Zvo5pCFSWQ9CZxZbOv51SP55whM4TfgJLP0b3Ut6Uod0ND/m9gMScVu7Z2wTPUvVnwf90hmhDYM0XkH6qxXLAO5xMsHtGJ65mRHnUCyUY/3jRQvYFNbrpkSFlpsvsNBoIYBRCLGYLrLGYmYjjPFxYLjIl8WzIMfA2NwXEEzcqAL7lieBGmmQhphCLyRBhdr7XvyxECizK9JL81XSYUlTyQl6PmUAhdQutyd7Td0dlmPGOACU2AavSDvwiAwTBDPBsuQ0m8si9yqHLQXvCCkNs+YRWqQ/UgoL7uLn7OD5twY+fsgKYdepScRmXZjex8fLFk4=;ee4G20T8Jz5mneD/srBh1g=="
 ---

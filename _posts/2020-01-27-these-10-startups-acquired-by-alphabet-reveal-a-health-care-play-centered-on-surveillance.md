@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-27T09:39:00Z
 webUrl: "https://www.statnews.com/2020/01/27/alphabet-acquisitions-reveal-health-care-play-centered-on-surveillance/"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -22,45 +22,6 @@ images:
     width: 1024
     height: 576
     title: "These 10 startups acquired by Alphabet reveal a health care play centered on surveillance"
-
-related:
-  - title: "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity"
-    excerpt: "shared some upbeat thoughts on how AI and healthcare could intersect. \"Cancer [is] often missed and the difference in outcome is profound,\" he said, according to Reuters. \"In lung cancer, for example, five experts agree this way and five agree the other way. We know we can use artificial intelligence to make it better.\" Two years ago at ..."
-    publishedDateTime: 2020-01-22T22:03:00Z
-    webUrl: "https://www.fool.com/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 104
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554275%2Fgettyimages-1132912559.jpg&w=700&op=resize"
-        width: 700
-        height: 420
-  - title: "Google CEO eyes major opportunity in healthcare, says will protect privacy"
-    excerpt: "Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes, and vowed that the technology giant will heed privacy concerns."
-    publishedDateTime: 2020-01-22T19:20:00Z
-    webUrl: "https://www.healthleadersmedia.com/innovation/google-ceo-eyes-major-opportunity-healthcare-says-will-protect-privacy"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 37
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/themes/hlmp/release/hlm_redesign/images/footer-logo.png"
-        width: 500
-        height: 211
-  - title: "ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET"
-    excerpt: "Artificial Intelligence In Healthcare Market has been provided in the latest report launched by SMI that primarily focuses on the World industry trends, demand, Share, Consumption and Growth with competitive analysis and Future Forecast 2020-2027. The report begins with a brief introduction regarding the major factors influencing the Artificial ..."
-    publishedDateTime: 2020-01-28T08:01:00Z
-    webUrl: "https://www.openpr.com/news/1910427/artificial-intelligence-in-healthcare-market-is-set"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "SOFLHSKgRyk5Jr8wNl4Tp6cB787EMXqfmDsnuOb/RMKHDNft7eo/DIQYfuC4Y4J5MStXWilpVbAZquGtQiqvtqoV4oy3M8CYC6P1L+u+6haimzfdFG248kaYTdDkYGVUwioaGuB4o4mo7lHuiuX2S22pSvVOks8aEn/Akx6cCAXMhPkl6SOWBDOn/n0P/IBIzRgLWVBaXL0q1VToDHAL6TtxPsr3g2jrkqC1mxWz2snGahqai+HF/fdO1Ujho9NLNz8RaPWw5omXRVMWrkAlrQXfQJNPkbAErpLworqSd8qVHFJ0LrcnrIA9NI3ucEHZjPaauuEmxgvc/6IRXOf4Kuasn4KngEX+QZZgn/AunPqIbxt9VC1dacQwYrMEo0X2LImSMYP4ekFeT/RDBwM3m44i7ZY8AC3YQKxZieDUIoh/fvRyC3DYi2ib7YatB9vxRuPyRwp41apTIyE0QJ/58kIj3XZXmhbKxCOqD6SRxac=;orU0AA4Hb2KcLtQI3vEENg=="
 ---

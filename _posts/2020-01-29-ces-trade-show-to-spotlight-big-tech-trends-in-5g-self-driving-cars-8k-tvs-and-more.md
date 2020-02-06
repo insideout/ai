@@ -616,17 +616,6 @@ related:
       - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
         width: 620
         height: 330
-  - title: "GM's Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
-    excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
-    publishedDateTime: 2020-01-22T20:21:00Z
-    webUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/"
-    ampWebUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 18
   - title: "Uber bringing fleet of self-driving cars to Washington, DC"
     excerpt: "Uber is bringing a fleet of self-driving cars to the nation's capital to begin mapping out prospective routes -- aided by human drivers at first -- starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle operator ..."
     publishedDateTime: 2020-01-24T17:00:00Z

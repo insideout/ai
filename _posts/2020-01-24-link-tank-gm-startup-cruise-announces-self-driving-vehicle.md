@@ -33,19 +33,6 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 500
-  - title: "GM’s investors school Tesla’s on self-driving hype"
-    excerpt: "Considering true self-driving remains a long way off, GM’s owners are more realistic. Cruise, the self-driving-car outfit majority-owned by General Motors, unveiled its prototype electric autonomous vehicle on Jan. 21. Called the Cruise Origin, it has no steering wheel or pedals. Chief Executive Dan Ammann said it was “a fully engineered ..."
-    publishedDateTime: 2020-01-22T20:04:00Z
-    webUrl: "https://www.breakingviews.com/considered-view/gms-investors-school-teslas-on-self-driving-hype/"
-    type: article
-    provider:
-      name: Breakingviews
-      domain: breakingviews.com
-    quality: 39
-    images:
-      - url: "https://www.breakingviews.com/wp-content/uploads/2020/01/GM-cruise-origin-scaled.jpg"
-        width: 2560
-        height: 1706
   - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
     excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
     publishedDateTime: 2020-01-24T17:57:00Z
@@ -55,21 +42,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 34
-  - title: "GM and Honda Unveil Self-Driving Shuttle With No Steering Wheel, Pedals or Brakes for Ridesharing"
-    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
-    publishedDateTime: 2020-01-22T21:00:00Z
-    webUrl: "https://ktla.com/2020/01/22/gm-and-honda-unveil-self-driving-shuttle-with-no-steering-wheel-pedals-or-brakes-for-ridesharing/"
-    ampWebUrl: "https://ktla.com/2020/01/22/gm-and-honda-unveil-self-driving-shuttle-with-no-steering-wheel-pedals-or-brakes-for-ridesharing/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/22/gm-and-honda-unveil-self-driving-shuttle-with-no-steering-wheel-pedals-or-brakes-for-ridesharing/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 31
-    images:
-      - url: "https://tribktla.files.wordpress.com/2020/01/hypatia-h_0c7b65aa9535655afa28db9d9fd0431a-h_e39d11c4cf556bf531badd230e2e2089.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 919
 
 secured: "q+7Cb7Noj3TsSUWiv117F3A19FAG/XKNzudHrP6REIMbhx0eAA2ubYCc5ZXe77On8Uo07uSpkHqKiU7ju37rgWfL0ZmDZlczcxlWootd93zeI2cPRCd73gqe00X5MRe45H4A5yw4a2YmOK40VGRSUJTJdFiVlJk0X4b02qeNgxKbMWAug7vlmhXfztg3hHY0JCgpnQe4zHwNxZXfZ/N5vaij82yR21bslfprkCzhNkoFgq8+cBHe2iqjyPGMCZ3QpcR2QtVH7st1We/EjkRrhS1+jcFPdGDoUzY8o2N4pJoXK0MAMqEOLRmg4bYlS91BPjgIiots0w401OKxObsnWwum5bJ/zfKXvyX6yWZnzMpsjINTEjKwDTByR0YqZL24N+pd+1VBJghFHxAoU2fsdLzoq2JhodkNFhXh/P/AdJhrcTYcXD2BVguoIL9QybBXDczzgt4TG5vqzPDEV/BdKUExgIlWjl9zdMKQ3cRCijk=;Vhp5mvgPZDPH8PfvjW4/tA=="
 ---

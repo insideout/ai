@@ -74,15 +74,6 @@ related:
       - url: "https://www.cr80news.com/wp-content/uploads/2020/01/OleMiss_Starship.png"
         width: 1772
         height: 926
-  - title: "Ole Miss rolls out food delivery robots on campus"
-    excerpt: "The robots can cross streets, climb curbs, travel at night and operate in rain and snow using a combination of sophisticated machine learning, artificial intelligence and sensors to navigate. A team of humans can monitor the robots’ progress remotely and take control if needed. “We're honored to be able to help make lives a little bit ..."
-    publishedDateTime: 2020-01-22T20:26:00Z
-    webUrl: "https://www.djournal.com/news/ole-miss-rolls-out-food-delivery-robots-on-campus/article_c0057fee-7283-5355-b8f8-a558d5e1c76e.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 19
 
 secured: "kN4ecw3k11oULalGVAGvM1Zx3h1IwPARs2ohjVuIjmEiNz6yB/bPWpPy1sUED8NjIDKYfJuVkuT/RSLbavyUDxSnz/gbqUWV/bPiSeAESXg8jqZm73TuqG+rLvtDhRDmvWI/R83Fpj3Hh7yJhAaXd2de8eERT2ZS4psl27T3TfsIl+/zGr4kMn861SoLCycDqBtQI5cTUI2cw7VP3z2Mgr+mk9oKxlpwMFSr2YgA4YTRySq8mjZH5rUlnNP/DJ4T4dtbAr5w6xN9ntxEMZKMwq7+J+ZjYrh3Kcr8MoovIHitox0tgDEoeensNNpFidGIkob7QW87Jx7YPG2eS/KN9qk5lCSNM6P0Arc0e6iUibWD+B/vyHooMz/mpifubrbVr7h1CxZIGyGuS5Ncf+saTpuRDPTfgpJJZuclmX37W5kOJjMDFn0kzOv2rJ9Y1DDzMyLD1H9Sjx3Be1B0yHKYSz7Miqxw+rIpc5ASBGhvhyc=;x5Ief9s7k8Ip+9Bs5MMuSw=="
 ---

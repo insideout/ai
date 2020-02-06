@@ -41,28 +41,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/7/d5/7d505b47-b933-5dcc-9088-5a0c11dc44d1/5e28d08cb51ef.image.jpg?resize=1024%2C784"
         width: 1024
         height: 784
-  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
-    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
-    publishedDateTime: 2020-01-23T20:00:00Z
-    webUrl: "https://www.phillytrib.com/news/business/gm-and-honda-unveil-self-driving-car-with-no-steering/article_bc9927eb-6c14-58ce-bada-f62aa511e2e6.html"
-    type: article
-    provider:
-      name: Philadelphia Tribune
-      domain: phillytrib.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/4/71/471d2f5f-2a7c-5ae5-86fd-e3ad2ed8cff4/5e29dd7ea6191.image.jpg?resize=823%2C630"
-        width: 823
-        height: 630
-  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
-    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel,"
-    publishedDateTime: 2020-01-24T14:50:00Z
-    webUrl: "https://fox2now.com/2020/01/24/gm-and-honda-unveil-self-driving-car-with-no-steering-wheel-or-pedals/"
-    type: article
-    provider:
-      name: Fox2Now St. Louis
-      domain: fox2now.com
-    quality: 4
 
 secured: "MR7iKfwmp7bDARIPjJc3arKHHbPKuNMHvjnBmEcQiW1YG7avr9MazZwokBCf2eRw+ejwQvSCzmC9/hNAxfcEILs4xAYstqpVNbZ1Nm3MAUAJwLzUVYyvYAaShb5G2SkzzEWQGRRKSdFoTGOE50ZPs+SpExHae8ZXPZhEWUNklVgHA6A9dangC3AYLkYaKLlPfb1LIa7QRZI/XVCYzSIbNQZY2IIsX7OIiyf28+Pcato4c6E2fXDd3id0KAhMQ1i0l9DBXyMW+CLDwi7idw0waSd0243e7TsR/sUqlbzNRDJZ+c1XCfOHCTccDBWpDWS4XWKBDYeWmuroO1QvisKs9oEvTN7Vjd9NMRXT6WTyNiOajXtG6RqsfZew0PI3nwZxKuCLZ1WUWbgehVO8AZ8gud6lXV4QZnY8Zc8umraeHsUffTqlhkOWbLXMa2JLrblvz8ssziCRX+jxiOh9BbVXD+1m99ElXENTrTpiD3gcUj0=;v6Sx6IYeYp4oaiLdXZ9sIw=="
 ---

@@ -4,8 +4,10 @@ title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and ..."
 publishedDateTime: 2020-01-20T12:27:00Z
 webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
+ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
+cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
+    width: 1200
+    height: 628
+    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
   - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
@@ -121,16 +129,7 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/b/06/b064a2d9-045d-540d-b183-8334cf9a9299/5e141419b5f14.image.jpg?resize=1024%2C695"
         width: 1024
         height: 695
-  - title: "IBM bats for regulating AI based on accountability,security"
-    excerpt: "To ensure compliance with these expectations, providers and owners should designate a person responsible for trustworthy AI, such as a lead AI ethics official. All entities providing or owning an AI system should conduct an initial high-level assessment of the technology's potential for harm. And regulation should treat different use cases ..."
-    publishedDateTime: 2020-01-22T19:58:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200123/3493916.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
-secured: "sfhq2bHiD3d8mSangqs+7VbcL9aiN0wRUhJk8Wd3BzXcGrjHISR774tDHeeRlO42pE4Ta/xSvgLTLDAMecseOv4ojzOwka0gjTijy+pyB5iY3bkH6KEppINGKW/ppsv4Z0am5gh3xgLlpLB/Yy9CuJEoy1OCIxJSZ0OxuCLlYSEh2Tm4WvIn1L4cAqN+elDxyBxz/MSx4wFn82ZEXkvR32I2DcCGwm1MZ2ggl/I1sTt0wjMYtzaAGUjie/UMl2ncuD+Y+VJY/asCUZnymVkKKRvtnqJv+j6kUjKc9ycq/Ag5aIubIA6pGPNidMLxem0B;1QhprGeTDGBkzlf9mRaDtw=="
+secured: "f2hgu2VkRvYJBpAHj2DJI5T8uCrSA2VYSh5MnuojxpFtXIGhILBaSBQuKSvrjSo/jYVA814v6WkI1a89p+c/0yyzQf5Ie1/6AoBw4WiOO24fQ9Qn21TqaNO0F0lSIZvkJtiZPfr4CaDAGTzySDvyR3rgXy2Hnpuq3yAcEIsneKJdlSwRTL1sLBmrwGSxS1eOhRDu6jbDtI8/mI/JNzCeZ0ZQLDYEacoimlG415wsETiQ/BqdFPvXLVuramSWKZ7dBCVgY6IDkVhwtQcYbiHfhUYtujEEhPFXXDgKlCxEiIdUsAKonZakGDgwGDZOKv4g;TARjjxqDYMCEFYmty+RLdQ=="
 ---
 

@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/amp/"
 type: article
 quality: 89
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,21 @@ images:
     title: "Amazon Polly’s Brand Voices taps AI to generate custom spokespeople"
 
 related:
+  - title: "Amazon Polly’s Brand Voice taps AI to generate custom spokespeople"
+    excerpt: "It has another rival in Microsoft, which offers three AI-generated voices in preview and 75 standard voices via its Azure Speech Service API. Amazon’s Brand Voice also competes with offerings from startups like Voicery, which delivers customized digital voices that sound impressively human-like. Text-to-speech tech startup iSpeech boasts ..."
+    publishedDateTime: 2020-02-04T18:30:00Z
+    webUrl: "https://venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/"
+    ampWebUrl: "https://venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Build a unique Brand Voice with Amazon Polly"
     excerpt: "AWS is pleased to announce a new feature in Amazon Polly called Brand Voice, a capability in which you can work with the Amazon Polly team of AI research scientists and linguists to build an exclusive, high-quality, Neural Text-to-Speech (NTTS) voice that represents your brand’s persona. Brand Voice"
     publishedDateTime: 2020-02-04T17:54:03Z
@@ -59,6 +74,6 @@ related:
         width: 1200
         height: 400
 
-secured: "fwCQV8tkC7776kMtO87YWacOjbBoZldJKLU3EiXWkMloQZLvAx6IsY+CHzw3iM4+anogDhvjCLnVNFdIhhQK664GO6i8EHK95NMmHDBZFb1GGJOBia/8hmUqjyYHXZWgbOwVc8iD2rUZZPOwtLWtFyEEueb8Wyblpf+6Ism3cpfVJ2IqwlvMDhDycRkgMeg1bERYbtwPMVH0Mj1MT3u1r3B2kPcD5WthTpT2TGXwdRapeOOhe1/EAKRnc0E9VuOtKJPQ+W6/UtvHIxLxlxomR/LKaZHVqhc6PJxXa7RU+tz9FIR6sewCjzPGdLhfd16Y9QnpbvKT4pBGKY/J/g6+mOnEXFY3m1FhM3ZslGlvl35+LnWKqhr6oq8zTNi7tMU2RzDnO2tlWMSyg96IDsbquf4UkWvKBzhV7ApxzvIG7lupGyVOlDDLsPe+0zwMpCSy7he8gyIh1wIcCfRA7oI5z8keGIN//QfRJnXNsW2maK8=;snDCPgt1dulLpcGuGqr1pg=="
+secured: "Fp4mLYcvwAWKBH2sip8eIK+TSNh+i7Bxub5diqe9/cYm9YRZaKsZDmtfZM1ra3OGn6jqg+DvuUVwKuXB04IWQLApu2yC3n0kS2fcWcLSpWTWDZqJlnwJJNzjEXcmIrDBCI5DGJ6ZQy87BaBCcHz/z3JeCluzXfSHMrJ73iarwhTGYG++sjcGzpoiI7g5Q/oCMxiFWi3OQJL1cKvhGvesc6OjzTpStGu/8FY7RAUWUmA7yZJpQ3qZASqC9aFht5tZNyRCpRArfH1p9fUuZTYu3gq0m5o6iCM5BgQc5hJg2qpODWyrREykMMoRGkDFdgxKI1Vl/qAnw7maYhhT5u+CuRYqNwOLqLkxz1X9heMk3JfxrM+3Zur6HGETFL9hwRwvdvr1iADtd8cSm3j81lruLhDhQS+473xrnqOa2enoEURuevpM/NHYqGqCPg15cuabE+qanTeE2LbysPKkFgNN3aydyX35UqfuaCNxG0sjHlk=;xn7otJQZkApPgVIs597zrg=="
 ---
 

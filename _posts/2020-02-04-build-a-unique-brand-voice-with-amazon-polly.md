@@ -28,6 +28,21 @@ images:
     title: "Build a unique Brand Voice with Amazon Polly"
 
 related:
+  - title: "Amazon Polly’s Brand Voice taps AI to generate custom spokespeople"
+    excerpt: "It has another rival in Microsoft, which offers three AI-generated voices in preview and 75 standard voices via its Azure Speech Service API. Amazon’s Brand Voice also competes with offerings from startups like Voicery, which delivers customized digital voices that sound impressively human-like. Text-to-speech tech startup iSpeech boasts ..."
+    publishedDateTime: 2020-02-04T18:30:00Z
+    webUrl: "https://venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/"
+    ampWebUrl: "https://venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Amazon Polly’s Brand Voices taps AI to generate custom spokespeople"
     excerpt: "The Seattle tech giant today launched Brand Voices, a fully managed service within Amazon Polly, Amazon’s cloud service that converts text into lifelike speech, that pairs customers with Amazon engineers to build AI-generated voices representing certain personas. As Amazon director of text-to-speech Rafal Kuklinski and Amazon Polly senior ..."
     publishedDateTime: 2020-02-04T18:30:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-count
 cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/?outputType=amp"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -86,15 +86,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c"
         width: 600
         height: 360
-  - title: "NY Senate bill would ban police facial recognition technology"
-    excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
-    publishedDateTime: 2020-02-06T00:26:00Z
-    webUrl: "https://www.thedailynewsonline.com/bdn01/ny-senate-bill-would-ban-police-facial-recognition-technology-20200205"
-    type: article
-    provider:
-      name: The Daily News Online
-      domain: thedailynewsonline.com
-    quality: 19
 
 secured: "jdV47jYU/Rg/DEgfVJDPNLRWEQNNgZtVBtbH+JuX+weco99mZ21hO3bfVTBU222/l0aKcgQtfy9JWwtOD5sMjihrOCPh7Ugia3UYDhTEmW8+DHwCIcdA8wJCk5tYGKy8cnEo8H2q/IACeeTAPxihINRP1oxx+zMp6GVVpUL110kSWmF7Caio78O8/SxhlGSL1VtmZbVt5vgZX0umYjHAvgUxWcRuvRHmGmCMB8/R/vGOoKm/GKaDhBoAZveUEkL+gEBlZ2LvufAI58pOcqItTZkMFvmKNrRNrbwxKrkn/I3Wdz5kz6GUpc9qd6sg+R3B;Dh9Mav1WBB1nPB/85TdMfg=="
 ---

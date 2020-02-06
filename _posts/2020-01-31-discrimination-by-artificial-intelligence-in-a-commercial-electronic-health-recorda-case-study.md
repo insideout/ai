@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Discrimination By Artificial Intelligence In A Commercial Electronic Health Record—A Case Study"
-excerpt: "Furthermore, built-in AI is not yet subject to governmental regulation. As implementation of AI in health care grows, it will be important to clarify who bears the responsibility for ethics and regulatory oversight. The FDA recently released draft guidance for regulation of clinical decision support (CDS) software, which includes areas where ..."
+excerpt: "When artificial intelligence (AI ... What role should regulators, such as the Food and Drug Administration (FDA), have in ensuring that AI in health care is trustworthy and equitable? AI has the potential to transform health care, but implementation ..."
 publishedDateTime: 2020-01-31T15:09:00Z
-webUrl: "https://www.healthaffairs.org/do/10.1377/hblog20200128.626576/full/?mc_cid=36fa9a9560&mc_eid=98c6b29a97"
+webUrl: "https://www.healthaffairs.org/do/10.1377/hblog20200128.626576/full/?mc_cid=36fa9a9560&mc_eid=105181941b"
 type: article
-quality: 9
-heat: 9
+quality: 7
+heat: 7
 published: false
 
 provider:
@@ -15,9 +15,8 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
   - AI in Healthcare
 
-secured: "CrR2SEd6UbvqWwhvvE9hFDQaZTBjG74p5/7z14FsxGwbTvpnbbQ3+3P1gs5PFDDYtRzZ7It2ED+kPCVRD0P+gdDm9raUjbA/tQjAr5QJbJxEBi9MJloRnKo86VpWTVTFS5PYNdua2OCweA72XHWNOkq8/ZkuYo2c97Ti3fOQWeYm3ck+2TDJm2kh+VwfoOHoofYn8vhgrM+Ap9kbjjrxJmMZdW2XG8W2elh9kwskbqOMgRgSzBLztdVwrPnluJ0ghwtiES2LxmxknI22dzHBh3kiabW0FMiKjVhLKsroH9OERxqbjYfEPgrg83lnHcxT+I1YsW0fvVv0f8Vj2J0dr8OHq/wZCyEQMLCPGKitQGGy66lctHx0xP0ayHzUWkqhUsga3Mt5KmO/O9t4X+NxeXEifzehh+6rVSXOH8lWwkOLV24YujHs8rdobuBeMKjisaxzMOeYnLg0NXlIyKC4uIBDB2WWggLWCFqlMbJfzxg=;zGj63HA7kbP4hhDIteDIdQ=="
+secured: "Bvb0U1jip6/ldGsuSuNaqIRWxOK/DG1QWP3mbo2HujwOBsianyTWjjdBiEsI4y5ShjslUAEkeML284j6DClLPnPM97CY/7eamdQZ0Mmo7gcArlzt6bJi0yXqs5BfUcDQRwbyFBqqB1WXpRhJHkWZlLFaNJKUVb370ese5ewaHnXVNLnsNT4AxWYcz8P3a+FuYgCGhRJDv2YYDKQINbeurG8vTY0HxgoM7GjukBRrZEWw2Mj/1h3klNZgZqjGArzKxVT6WsBEZgwWpvDN77f7h//+hjUKmBo1GnRCpPwwlvetOOsl99C1ja4t4ecgtF00isIKRNk/RfZC27z3G7s7axOv0CipQ8BCeZjHdLHdRxMHfDKiazMjjrxl/+zoDUzUzBBLC9F0jLnCQbTvY+GNHK5++ghiDSTsajZmHs6HIuNkO0JWdjwbyoBactA+6dhxYXmD2csrTpbsIGHs3tJWmb3uvihIufXsYi5/zfaPD/4=;/KwHUK9LQ7GY8INxPytinQ=="
 ---
 

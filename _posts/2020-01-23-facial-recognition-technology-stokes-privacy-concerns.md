@@ -571,19 +571,6 @@ related:
       - url: "https://contentstorage-nax2.emarketer.com/ab38dfa809dcc6b9c4e1d34ceba68d21/default-image-share.png"
         width: 1280
         height: 720
-  - title: "Google Chief Calls For Suspension Of Facial Recognition Technology"
-    excerpt: "The head of Google is reportedly calling for a temporary block on the use of facial recognition technology until government officials weigh in with new rules. “Facial recognition is fraught with risks,” Alphabet and Google CEO Sundar Pichai said at a conference in Brussels, according to Reuters. “I think it is important that dominant ..."
-    publishedDateTime: 2020-01-22T20:25:00Z
-    webUrl: "https://www.mediapost.com/publications/article/345961/google-chief-calls-for-suspension-of-facial-recogn.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2017/08/11/sundarpichai-2-600_737Q7ee.jpg"
-        width: 600
-        height: 375
   - title: "Airport facial-recognition technology stokes privacy concerns"
     excerpt: "But it turns out the practice of collecting their biometric data is far more common than travellers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
     publishedDateTime: 2020-01-23T19:50:00Z

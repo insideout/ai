@@ -18,47 +18,76 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity"
-    excerpt: "shared some upbeat thoughts on how AI and healthcare could intersect. \"Cancer [is] often missed and the difference in outcome is profound,\" he said, according to Reuters. \"In lung cancer, for example, five experts agree this way and five agree the other way. We know we can use artificial intelligence to make it better.\" Two years ago at ..."
-    publishedDateTime: 2020-01-22T22:03:00Z
-    webUrl: "https://www.fool.com/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx"
+  - title: "How AI In Healthcare Will Influence The Path To Value"
+    excerpt: "From medical malpractice to single-payer healthcare, there is no shortage of topics to debate in healthcare. Though provision, funding and government involvement in our system continue to be central topics,"
+    publishedDateTime: 2020-01-31T13:12:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554275%2Fgettyimages-1132912559.jpg&w=700&op=resize"
-        width: 700
-        height: 420
-  - title: "Google CEO eyes major opportunity in healthcare, says will protect privacy"
-    excerpt: "Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes, and vowed that the technology giant will heed privacy concerns."
-    publishedDateTime: 2020-01-22T19:20:00Z
-    webUrl: "https://www.healthleadersmedia.com/innovation/google-ceo-eyes-major-opportunity-healthcare-says-will-protect-privacy"
+      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1147429610/960x0.jpg?fit=scale"
+        width: 711
+        height: 474
+  - title: "How Artificial Intelligence is progressing in mental healthcare"
+    excerpt: "According to the report, suicide is among the top 20 leading causes of death worldwide. Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers at the University of South Carolina’s Viterbi School of ..."
+    publishedDateTime: 2020-01-24T15:08:00Z
+    webUrl: "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare-11579878039985.html"
+    ampWebUrl: "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html"
     type: article
     provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 37
+      name: Mint
+      domain: livemint.com
+    quality: 76
     images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/themes/hlmp/release/hlm_redesign/images/footer-logo.png"
-        width: 500
-        height: 211
-  - title: "These 10 startups acquired by Alphabet reveal a health care play centered on surveillance"
-    excerpt: "“Cancer [is] often missed and the difference in outcome is profound,” he said, adding, “We know we can use artificial intelligence to make it better ... early science breakthroughs and clinical trial results, and health care disruption in Silicon Valley and beyond. Containing new coronavirus may not be feasible, experts say ..."
-    publishedDateTime: 2020-01-27T09:39:00Z
-    webUrl: "https://www.statnews.com/2020/01/27/alphabet-acquisitions-reveal-health-care-play-centered-on-surveillance/"
+      - url: "https://images.livemint.com/img/2020/01/24/600x338/Asset_1579878227723.jpg"
+        width: 600
+        height: 337
+  - title: "Setting up framework for AI in healthcare"
+    excerpt: "Growing populations, demographic changes and a shortage of health practitioners are also putting pressure on the healthcare sector. At the same time, increasing amounts of digital health data and information have become available. How can we tap this vast data resource? Artificial intelligence (AI) models are now being developed to learn from ..."
+    publishedDateTime: 2020-01-31T18:26:00Z
+    webUrl: "https://www.thestar.com.my/opinion/letters/2020/01/31/setting-up-framework-for-ai-in-healthcare"
     type: article
     provider:
-      name: STAT
-      domain: statnews.com
-    quality: 15
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
     images:
-      - url: "https://www.statnews.com/wp-content/uploads/2020/01/STAT_Sundar-Pichai_GettyImages-1056109512-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/01/31/534695.jpg"
+        width: 1240
+        height: 936
+  - title: "Artificial Intelligence (AI) in Healthcare Market"
+    excerpt: "A new research document is added in HTF MI database of 50 pages, titled as 'Artificial Intelligence (AI) in Healthcare Market in India (2018-2023)' with detailed analysis, Competitive landscape, forecast and strategies. The study covers geographic analysis that includes regions like North America, Europe, Asia Pacific, Latin America ..."
+    publishedDateTime: 2020-01-27T17:03:00Z
+    webUrl: "https://www.openpr.com/news/1909861/artificial-intelligence-ai-in-healthcare-market-next-big"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+  - title: "Artificial Intelligence in Healthcare"
+    excerpt: "WMR published report on Artificial Intelligence in Healthcare Market 2027: Delivering key insights and providing a competitive advantage to clients through a detailed report. Artificial Intelligence in Healthcare Industry Size, Market Share Value, Competitors Research, Industry Outlook as well Analysis covers various factors like Regional ..."
+    publishedDateTime: 2020-01-30T10:45:00Z
+    webUrl: "https://www.openpr.com/news/1914020/artificial-intelligence-in-healthcare-market-global-outlook"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
+  - title: "Artificial intelligence In Healthcare Market Poised To revolutionize the healthcare sector"
+    excerpt: "The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for players to better address challenges inside the global Artificial ..."
+    publishedDateTime: 2020-01-29T11:55:00Z
+    webUrl: "https://www.openpr.com/news/1911994/artificial-intelligence-in-healthcare-market-poised"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
 
 secured: "NQ0G3dkiouiIqUfOsTLsz3oi+zw0E/yVVnEgjaxsO1H6whpQgwV4Ee6oKiQJkrngBiIvDRg7wuQOETH32h7O6q5VKebDPZ4HRE5P/1j8q9iDRcsW0bzVbBdrmfXAn66tHPzn1I+GuB2cwHyXPZYTavNNQk8aR9cz0buHmd01M5Rin12u7dy8k0MNjPYTi1tbkjvNpo09649sf6L49apw8gxTcEAPJo66dylUFOhmMPNk3LJ+00HV4LsKsuDmuLRQw2ei+Ds4Gf1/xWLM4BBP0JMcYetzVZOaatIrcv2VIIMk84z3dOZta+Rb7iId/bb/;Lq35pz0qSYa9dO8fMeMBpQ=="
 ---

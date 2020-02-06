@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cmswire.com/information-management/how-ai-enables-enterp
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/how-ai-enables-enterprises-to-get-the-most-out-of-their-data/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: CMS Wire
@@ -25,28 +25,21 @@ images:
     title: "How AI Enables Enterprises to Get the Most Out of Their Data"
 
 related:
-  - title: "German Enterprises Look to Use Artificial Intelligence, IoT and Digital Platforms to Grow Their Businesses"
-    excerpt: "ISG Provider Lens(TM) report finds German companies moving to digital business processes FRANKFURT, Germany, Jan. 30, 2020 (GLOBE NEWSWIRE) -- Enterprises in Germany are interested in emerging technologies like artificial intelligence,"
-    publishedDateTime: 2020-01-30T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/german-enterprises-look-to-use-artificial-intelligence-iot-and-digital-platforms-to-grow-their-businesses-2020-01-30"
+  - title: "Worlds gets $10 million to help enterprises observe their physical environments with AI"
+    excerpt: "Worlds, whose AI helps large organizations observe their physical spaces to ensure security, safety, and productivity, has raised $10 million in a first round of funding. The Dallas-based startup uses multiple cameras to track spaces in 3D over time, providing a more reliable view of what’s happening than typical 2D security video would."
+    publishedDateTime: 2020-02-06T14:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/Worlds.jpg?fit=1200%2C600&strip=all"
         width: 1200
-        height: 630
-  - title: "Information Services Group, Inc.: German Enterprises Look to Use Artificial Intelligence, IoT and Digital Platforms to Grow Their Businesses"
-    excerpt: "\"CEOs and chief digital officers must understand that artificial intelligence, the Internet of Things, digital platforms, open source and workplace experience tools have a high influence on an enterprise's agility, costs and productivity,\" said Johanna von Geyr, partner, ISG DACH. \"German businesses are using these technologies to improve the ..."
-    publishedDateTime: 2020-01-30T09:07:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-01/48725899-information-services-group-inc-german-enterprises-look-to-use-artificial-intelligence-iot-and-digital-platforms-to-grow-their-businesses-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+        height: 600
 
 secured: "GjlWoa8La3KjvxhfBflBEDAiFyCZnpg84NmgjydiURViYSJlWAU3bTooVufNk2k7+VPulfzp+Ib1mn/XStYYAsPnYHHKo34ot2JaAI13GkQssRksF4b2H3G7ljy+ljlrfXxrOrQnW8PtYeTlEmOXx+SiGodJQFxqN3F6qyU32GR3OeYj0NkeAuVQM2ZP4HUJTa2pT45JpQrWNufWt29u/vJ0JuD7TgI5/apbKm3UzPLJikxcwSZG/t+DyD4xybzjL0xSrgiS7V38ZYnnmXGdLkCOJaFingSoZOx38DqYbP5KYh71cU3lyzXu4x2RBDWN;2V5nWu+rbZWJPieUn4O2MA=="
 ---
