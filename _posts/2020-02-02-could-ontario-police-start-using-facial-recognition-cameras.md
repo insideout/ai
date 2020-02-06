@@ -8,7 +8,7 @@ ampWebUrl: "https://torontosun.com/news/local-news/could-ontario-police-start-us
 cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp"
 type: article
 quality: 59
-heat: 99
+heat: 139
 published: true
 
 provider:
@@ -26,6 +26,36 @@ images:
     title: "Could Ontario police start using facial recognition cameras?"
 
 related:
+  - title: "Proposed bill would ban police from using facial recognition technology"
+    excerpt: "ALBANY — A state senator is calling on New York to ban the use of facial recognition technology by police agencies, following reports that its use is much more widespread than previously known. Sen. Brad Hoylman (D-Manhattan) said recent news reports reveal companies have been “scraping” Facebook, YouTube and other online and public ..."
+    publishedDateTime: 2020-02-02T10:00:00Z
+    webUrl: "https://www.newsday.com/news/region-state/facial-recognition-ban-1.41284069"
+    ampWebUrl: "https://www.newsday.com/amp/news/region-state/facial-recognition-ban-1.41284069"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/facial-recognition-ban-1.41284069"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 59
+    images:
+      - url: "https://cdn.newsday.com/polopoly_fs/1.41286231.1580616519!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
+  - title: "Facing facts: Reject a blanket ban on face recognition"
+    excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
+    publishedDateTime: 2020-02-04T09:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
+        width: 1200
+        height: 799
   - title: "Springfield City Council: Moratorium on facial recognition will protect residents rights"
     excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council took second steps on the moratorium on facial recognition technology at Monday night’s meeting. Facial recognition technology has been discussed for months and has been a polarizing topic between the City Council and Mayor Domenic Sarno and the Springfield Police Department."
     publishedDateTime: 2020-02-04T01:38:00Z
@@ -56,6 +86,21 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24180676-0-image-a-22_1580595608038.jpg"
         width: 636
         height: 382
+  - title: "Police Use Of Facial-Recognition App Comes Under Fire [POLL]"
+    excerpt: "One attorney general has prohibited police departments from using the app. Should law enforcement be allowed to use it?"
+    publishedDateTime: 2020-02-01T14:42:00Z
+    webUrl: "https://patch.com/new-york/yorktown-somers/police-use-facial-recognition-app-comes-under-fire-poll"
+    ampWebUrl: "https://patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: "https://patch.com/img/cdn20/shutterstock/57069/20200131/021240/styles/patch_image/public/shutterstock-795306157___31140558320.jpg?width=984"
+        width: 708
+        height: 531
   - title: "Springfield Mayor Domenic Sarno vows veto if City Council bans police use of facial recognition technology"
     excerpt: "SPRINGFIELD — Mayor Domenic J. Sarno said Monday he is poised with a veto if the City Council votes to block the Police Department from using facial recognition technology. Sarno said the technology, which is not used in Springfield yet, could someday aid in the arrest of criminals and enhance public safety. Citing the recent abduction of an ..."
     publishedDateTime: 2020-02-03T19:05:00Z
@@ -84,6 +129,15 @@ related:
       - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
         width: 690
         height: 388
+  - title: "Ban cops from using facial-recognition tech, lawmaker says"
+    excerpt: "NEW YORK - Facial-recognition technology is a top crime-fighting tool for police departments, including the NYPD. But one state senator hopes to change that in New York. Sen. Brad Hoylman, a Democrat who represents parts of Manhattan, wants to either ban ..."
+    publishedDateTime: 2020-01-30T03:32:00Z
+    webUrl: "https://www.fox5ny.com/news/ban-cops-from-using-facial-recognition-tech-lawmaker-says"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 4
 
 secured: "naY6mT1LoVdWZa7FwmqJ2BX4n//zgyoTvUnghzplOy91Mri4OcGWMCN++hAwY/CVoqSXdOZpXJb9R842vP9dcxdgKZm1ROzgyiBVjqHbUMbT0gevzzfmkvrMMp8U+cFATn4yAD7s10r6PjRpOs0kCuIP0BPrjjlbCM2WFrm1Fa0fFZueDbi3qcCOQQzPGIQLGNETjye17sjjQ7afew0MTSDAiegovzme+ICVr3IZ3vcbBaPl01j5NtCDlHAzaypfQXfBY/OhUDCEfBo8I3tOCGxLs8rpxTANXFR9PbrbLj1YOr+i8gPU9fWN0S19uEAeO3E8ki+UcyHy9HTCsVDKFhnPOqUefC3Q4467vdiMoTp6BjTrUsibszNGU9xcY8YuABynX0VSzJl7plL6e7pT0nmx6N7DYr/A12EN2Tw0fgk3mGkUGRotjRkCMADRbj1q+oFJggKEbvXicJJTFeFyo6/Syw7R3V3Q/dc16ra36uE=;T+VVx04mphFuoAV8+FshPA=="
 ---

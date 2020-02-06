@@ -24,62 +24,139 @@ images:
     title: "Is facial recognition technology worth the privacy trade-off?"
 
 related:
-  - title: "Podcast: Why Clearview AI's facial recognition is a privacy nightmare"
-    excerpt: "And we also chat about the DIY nature of Billy Eilish's Grammy wins. All of our fears around facial recognition technology are coming true thanks to a little known startup called ClearView AI. This week, Devindra and Cherlynn dive into how ClearView works, and what unchecked access to powerful facial recognition means for the future of privacy."
-    publishedDateTime: 2020-01-31T12:30:00Z
-    webUrl: "https://www.engadget.com/2020/01/31/podcast-clearview-ai-billie-eilish/"
+  - title: "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society"
+    excerpt: "Many countries today are struggling to find the proper balance between useful facial recognition and connected-camera technologies and those that threaten our privacy. We’re here to make it easy: Public-facing facial recognition or connected home-security camera systems that offer access to law enforcement are dangerous and should be banned ..."
+    publishedDateTime: 2020-01-31T22:41:00Z
+    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/31/why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 84
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 58
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C719%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C719%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-10%252F9251a820-f130-11e9-9df5-19d3f012f517%26client%3Da1acac3e1b3290917d92%26signature%3D569bb91dab0b6654f0fc0287924bc32aa29d22ba&client=amp-blogside-v2&signature=29c7441da69c3b0234a720e23f0815964826b843"
-        width: 1200
-        height: 630
-  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition settlement"
-    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
-    publishedDateTime: 2020-02-03T23:02:00Z
-    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
-    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg"
+        width: 796
+        height: 419
+  - title: "Assembly committee ponders use of facial recognition technology"
+    excerpt: "There’s a facial recognition app local law enforcement has used to identify potential suspects in a criminal investigation, but no more. The state attorney general has banned the use of Clearview AI. It all stems from concerns over the software ..."
+    publishedDateTime: 2020-02-03T22:57:00Z
+    webUrl: "https://www.njtvonline.org/news/video/assembly-committee-ponders-use-of-facial-recognition-technology/"
     type: article
     provider:
-      name: Canoe.com
-      domain: canoe.com
-    quality: 50
-    images:
-      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
-        width: 1000
-        height: 750
-  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
-    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
-    publishedDateTime: 2020-02-03T23:00:00Z
-    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
-    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    type: article
-    provider:
-      name: Canoe.com
-      domain: canoe.com
-    quality: 46
-    images:
-      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
-        width: 1000
-        height: 750
-  - title: "EU Prepares for Coming of Facial Recognition– On Its Privacy Terms"
-    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy. Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next ..."
-    publishedDateTime: 2020-02-03T12:59:00Z
-    webUrl: "https://www.insurancejournal.com/news/international/2020/02/03/557118.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
+      name: NJTV
+      domain: njtvonline.org
     quality: 39
     images:
-      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
-        width: 900
-        height: 598
+      - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
+        width: 1920
+        height: 1080
+  - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
+    excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
+    publishedDateTime: 2020-02-04T11:26:00Z
+    webUrl: "https://www.finextra.com/pressarticle/81357/veridium-rolls-out-facial-recognition-tech-and-behavioural-biometrics-product"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 36
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+  - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
+    excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
+    publishedDateTime: 2020-02-03T22:34:00Z
+    webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 28
+    images:
+      - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
+        width: 700
+        height: 394
+  - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T15:07:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 25
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
+  - title: "Christopher Elliott: Facial-recognition technology stokes privacy concerns"
+    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
+    publishedDateTime: 2020-02-02T05:08:00Z
+    webUrl: "https://www.sunjournal.com/2020/02/02/christopher-elliott-facial-recognition-technology-stokes-privacy-concerns/"
+    type: article
+    provider:
+      name: Sun Journal
+      domain: sunjournal.com
+    quality: 22
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/11/2019/02/Christopher-Elliott.jpg"
+        width: 450
+        height: 366
+  - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
+    excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
+    publishedDateTime: 2020-02-03T21:46:00Z
+    webUrl: "https://japantoday.com/category/tech/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
+  - title: "Minnesota Legislature begins considering facial-recognition technology regulations"
+    excerpt: "A joint legislative committee has taken the first small steps toward considering what a handful of cities and states around the country have already done — regulating or banning the use of facial recognition software by business and government. It was such a small step considered by a subcommittee of the relatively obscure Legislative ..."
+    publishedDateTime: 2020-02-03T14:21:00Z
+    webUrl: "https://www.minnpost.com/state-government/2020/02/minnesota-legislature-begins-considering-facial-recognition-technology-regulations/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 18
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
+        width: 640
+        height: 461
+  - title: "How smart kiosks are using facial recognition and predictive sales algorithms to bring a dose of humanity and hospitality to restaurant tech"
+    excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience. \"Our ultimate goal for the software is to create the most hospitable experience possible in a digital ..."
+    publishedDateTime: 2020-01-28T21:42:00Z
+    webUrl: "https://www.nrn.com/technology/how-smart-kiosks-are-using-facial-recognition-and-predictive-sales-algorithms-bring-dose"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 4
+    images:
+      - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
+        width: 770
+        height: 400
+  - title: "Army researchers investigate long-range facial recognition by combining infrared sensors and face databases"
+    excerpt: "Stars and Stripes reports. Continue reading original article The Military & Aerospace Electronics take: 4 Feb. 2020 --The advanced facial recognition technology could aid soldiers in the field, but comes with some growing cyber security challenges ..."
+    publishedDateTime: 2020-02-04T11:47:00Z
+    webUrl: "https://www.militaryaerospace.com/sensors/article/14104030/facial-recognition-infrared-sensors"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 1
+  - title: "Who’s watching you? Unregulated facial recognition technology has many Massachusetts communities pressing pause to protect civil liberties"
+    excerpt: "Another technology, considered far more controversial, is causing many communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
+    publishedDateTime: 2020-02-02T11:38:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/02/whos-watching-you-unregulated-facial-recognition-technology-has-many-massachusetts-communities-pressing-pause-to-protect-civil-liberties.html"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 0
 
 secured: "gARTM1QI1cYCjfZWj8ZOsV1VgE1qnAwXUfGqZY2oTz/X7LIY3YRRichrVERYurxYdl1Ys8Kf24uNPJW9znfW/x07CZSuAYDhBSJcrb4IpLVO7L+6FUzcqk+KFiemA90qdNJ5Q+smNTj5sSdwMflAyw84GIOSw+PY1bNYMA4CIqXXxVeJ6t3QfRz6v8LL1IRdSTCmVKBkui8xqexcdgZ05H3GTy8IsCFcvENcPnc5eaJpR1xWHHxaHLf9usLhIMumIuH7ExGakNC4VA5i8hDZ23AdN3NXSoOHdpgCwUkZcSsbDAcHvRAIufV50c/21axO;VGZq+CieC8+XTggcPbenaA=="
 ---

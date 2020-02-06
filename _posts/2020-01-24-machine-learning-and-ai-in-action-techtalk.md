@@ -29,19 +29,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 67
-  - title: "AI and machine learning topics of lecture at NU-Q"
-    excerpt: "Artificial intelligence continues to reshape all aspects of everyday life. From driverless cars and supermarkets with no cashiers to factory automation and e-learning, the rollout of machine ..."
-    publishedDateTime: 2020-01-19T01:31:00Z
-    webUrl: "https://www.gulf-times.com/story/653656/AI-and-machine-learning-topics-of-lecture-at-NU-Q"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/120201913050956207162.jpg"
-        width: 620
-        height: 355
   - title: "Data and Machine Learning Propel Rise of Tech Jobs Through 2023"
     excerpt: "According to a new analysis by International Data Corp. (IDC), the fastest growing roles in technology over the next five years will be data scientist (13.7 percent growth over that period), machine learning design/development/engineer (13.6 percent growth) and data engineer (12.9 percent growth). In the area of IT and technology, cybersecurity ..."
     publishedDateTime: 2020-01-23T20:17:00Z

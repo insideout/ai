@@ -118,6 +118,32 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Platform Market 2020 Global Analysis, Opportunities And Forecast To 2025"
+    excerpt: "Artificial Intelligence Platform Industry Description This report studies the Artificial Intelligence Platform market, Artificial intelligence (AI, also machine intelligence, MI) is intelligence displayed by machines,"
+    publishedDateTime: 2020-02-06T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof"
+    excerpt: "The Global Natural Language Processing Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application, major players,"
+    publishedDateTime: 2020-02-06T07:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence In Computer Networks Market Analysis On Size and Industry Demand 2020- Cisco Systems, IBM Corporation, Baidu, Dell"
     excerpt: "The report titled \"Artificial Intelligence In Computer Networks Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
     publishedDateTime: 2020-02-03T11:53:00Z

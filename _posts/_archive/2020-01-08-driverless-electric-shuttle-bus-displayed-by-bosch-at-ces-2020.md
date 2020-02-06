@@ -25,6 +25,6 @@ images:
     height: 382
     title: "Driverless electric shuttle bus displayed by Bosch at CES 2020"
 
-secured: "mPeDsdBSNbTgH/V+m+l8SoFTj9QnoMiB6Gb1g0IhtQeKR6YmtzuW+yrRpREknsud4dGcQsRXI7mPTfwwVYfjRcBIhkmBjZ1en30Hud+hkPOvCvGI5aFCvlVDNEY+Pjoib/fpjEFpiBNNht+GuovAH+oZ7QPixpHlVipLxlfPGWvsw1bdPakRrJEV/DLq+1nzXG8f7NiyL/ElCaCO2M53GdYKgoau0Sz0dsFUFowCa1Rm5cqJA+kN9OxGo8xrepPkOq3ySHLdybLTML9LvsBjpfS17uBjsNorRzwikMk0xpkKIlQNi7NNmmT+2Cf6m2Ov;aFmN1yQwHzqoi71MmEjGiA=="
+secured: "c/IKR3bYArqnoX/MdFDoHPTTt1+2mWx62k1pReb3rky6TKNcMXuQEuDQBfKni/yccnpKU9+fYKw0Yed+Jg+aZusXM9pj19Hn/mkOF5XGemYqzco0xPQDFEP75cGukFNnMsvsUzwa/j/K+55+JSpmd21+BgVELLBezpDGbNUf7QO2fwqbNqErl9+nX0CiCDfTLW07D6OLxbG2y+tu0mkGB67MH4CbCJDQuc3iktbbYECg5ZpQEB+WvI+qjDOaaxk+IppVvrCryH1DAfVT5R323xZYlPmhwcUzXosz62ZbUvcL2LU6r8BN7rpxSCn/TFIv;0ficGm/kz1D/IoSPwWA2tg=="
 ---
 

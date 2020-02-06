@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T18:23:00Z
 webUrl: "https://af.reuters.com/article/worldNews/idAFKBN1ZZ1U5"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     title: "Music by numbers? Robot conducts human orchestra"
 
 related:
+  - title: "Music by numbers? Robot conducts human orchestra in Sharjah"
+    excerpt: "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. \"This work is a metaphor of the relations between humans and technology. Sometimes the android will get ..."
+    publishedDateTime: 2020-02-06T04:36:00Z
+    webUrl: "https://english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.html"
+    ampWebUrl: "https://english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.amp.html"
+    cdnAmpWebUrl: "https://english-manoramaonline-com.cdn.ampproject.org/c/s/english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.amp.html"
+    type: article
+    provider:
+      name: Manorama Online
+      domain: manoramaonline.com
+    quality: 59
+    images:
+      - url: "https://img.manoramaonline.com/content/dam/mm/en/business/gadgets/images/2020/2/6/humanoid-music2.jpg"
+        width: 845
+        height: 440
   - title: "Music by numbers? Robot conducts human orchestra in Sharjah"
     excerpt: "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. \"This work is a metaphor of the relations between humans and technology. Sometimes the android will get ..."
     publishedDateTime: 2020-02-05T13:39:00Z

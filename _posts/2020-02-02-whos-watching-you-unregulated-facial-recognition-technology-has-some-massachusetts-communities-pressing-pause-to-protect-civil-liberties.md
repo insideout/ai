@@ -52,6 +52,19 @@ related:
       - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
         width: 1920
         height: 1080
+  - title: "Is facial recognition technology worth the privacy trade-off?"
+    excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
+    publishedDateTime: 2020-02-04T09:05:00Z
+    webUrl: "https://nj1015.com/is-facial-recognition-technology-worth-the-privacy-trade-off/"
+    type: article
+    provider:
+      name: WKXW
+      domain: nj1015.com
+    quality: 39
+    images:
+      - url: "https://townsquare.media/site/385/files/2020/02/GettyImages-1198303844.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        width: 1200
+        height: 833
   - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
     excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
     publishedDateTime: 2020-02-04T11:26:00Z

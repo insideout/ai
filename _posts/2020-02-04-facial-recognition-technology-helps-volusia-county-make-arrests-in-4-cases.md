@@ -69,6 +69,21 @@ related:
       - url: "https://postmediaedmontonjournal2.files.wordpress.com/2020/01/tech-antitrust-hiring.jpg"
         width: 1000
         height: 750
+  - title: "Volusia Sheriff’s Office adds facial recognition technology"
+    excerpt: "DAYTONA BEACH — The Volusia County Sheriff’s Office has begun using controversial facial recognition technology that some privacy experts say can intrude on personal privacy. But Sheriff Mike Chitwood said in an interview on Monday that the department is putting in safeguards to protect privacy as it tries out Clearview AI. The company ..."
+    publishedDateTime: 2020-02-03T17:59:00Z
+    webUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology"
+    ampWebUrl: "https://www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
+    cdnAmpWebUrl: "https://www-news--journalonline-com.cdn.ampproject.org/c/s/www.news-journalonline.com/news/20200203/volusia-sheriffrsquos-office-adds-facial-recognition-technology?template=ampart"
+    type: article
+    provider:
+      name: The Daytona Beach News-Journal
+      domain: news-journalonline.com
+    quality: 59
+    images:
+      - url: "https://www.news-journalonline.com/storyimage/LK/20200203/NEWS/200209522/EP/1/1/EP-200209522.jpg?MaxW=600&MaxH=600"
+        width: 361
+        height: 483
   - title: "Facial recognition helps Volusia County Sheriff's Office solve crimes"
     excerpt: "VOLUSIA COUNTY, Fla. - The Volusia County Sheriff's Office is using a new facial recognition program to help catch criminals. The new technology, called Clearview AI, looks through social media to help law enforcement find someone based on a photo. Deputies can input a picture into the Clearview AI system. The technology will compare it to ..."
     publishedDateTime: 2020-02-04T02:20:00Z
@@ -129,6 +144,15 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
+  - title: "NY Senate bill would ban police facial recognition technology"
+    excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
+    publishedDateTime: 2020-02-06T00:26:00Z
+    webUrl: "https://www.thedailynewsonline.com/bdn01/ny-senate-bill-would-ban-police-facial-recognition-technology-20200205"
+    type: article
+    provider:
+      name: The Daily News Online
+      domain: thedailynewsonline.com
+    quality: 19
 
 secured: "3KTlwV4HKkraIevVuLg18Fux+jyrmimYaEIesBMnzrJfnjkI0L5+JrBbw1FsR2dry8HBv+hXpUZL9kAreWRMEOIn6EF6eoZ2sJc5niJ9XKeSgcsJdJKgv8BEKlAqCIxuOeTN8tFhM/DxVwvmgs5SV4vvHvL/jRWX6bEyHVKnwBhsQpQkrJiCrSU88ijtRZO98oI8YyiHFyngi16QktY2aKEl8CqqSBXETXD96dY2Z3aivASSAw+78mci1L/JMqUwBDZSerr31rjDcq5PbAH5dKHcqUGquUHZlNa+eVDdVQz4lIwbvA66b3QOLB9ALOZIblarSnzsp+ziHdV9wt8FWil8c2YbQaTkHNNXLNxsQ5mP+cDSbXNW8Hi2Vg9BBECvn2g+pd7EzeHjwZEqMLQ3mdjqua+GXoQqAM1QVuXXf/Er1Q7BKj8O1lH3y5A+7hnGhmJv8CGDRRrlyL66OqE0IeU9hH08I2QdQSxOMUzm8Uw=;LsRmUlBbb98lsleWxAZ30Q=="
 ---

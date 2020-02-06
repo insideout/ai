@@ -492,36 +492,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1192370013-760x380.jpg"
         width: 760
         height: 380
-  - title: "Facial Recognition and the Danger of Automated Authoritarianism"
-    excerpt: "The company is, however, developing facial recognition software that would make it possible for wearers of augmented-reality glasses to ID folks walking down a street in real-time. Of course, such a technology could easily be harnessed to networked surveillance cameras so that government agents could track where a citizen is and with whom that ..."
-    publishedDateTime: 2020-01-21T22:43:00Z
-    webUrl: "https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/"
-    ampWebUrl: "https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 59
-    images:
-      - url: "https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2020/01/DesignCellsScienceLibraryPhotosNewscom-800x450.jpg"
-        width: 800
-        height: 450
-  - title: "Facial recognition’s risks demand a temporary halt"
-    excerpt: "Brussels and Silicon Valley rarely see eye-to-eye when it comes to technology regulation. But on facial recognition, EU regulators and Sundar Pichai, chief executive of Google parent Alphabet, appear to be moving in the same direction. Mr Pichai this week backed a temporary moratorium on the technology — an option under consideration by EU ..."
-    publishedDateTime: 2020-01-21T18:16:00Z
-    webUrl: "https://www.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca"
-    ampWebUrl: "https://amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8beef1a8-3c4a-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
   - title: "Met police to deploy live facial recognition in London"
     excerpt: "London’s Metropolitan Police has announced that it will deploy live facial recognition to identify citizens across the capital, flying in the face of calls from the British government, regulators and citizens to pause use of the highly invasive and often inaccurate biometric technology. The Met said that standalone cameras would scan passers ..."
     publishedDateTime: 2020-01-24T13:47:00Z
@@ -854,17 +824,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2018/11/security-cameras.jpg"
         width: 1528
         height: 900
-  - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
-    excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
-    publishedDateTime: 2020-01-21T19:10:00Z
-    webUrl: "https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/"
-    ampWebUrl: "https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/"
-    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 44
   - title: "London police to use face scan tech, stoking privacy fears"
     excerpt: "FILE – In this file photo dated Wednesday, March 28, 2012, a security cctv camera is seen by the Olympic Stadium at the Olympic Park in London. The South Wales police deployed facial recognition surveillance equipment on Sunday Jan. 12, 2020, in a test to monitor crowds arriving for a weekend soccer match in real-time, that is prompting ..."
     publishedDateTime: 2020-01-27T21:32:00Z
@@ -895,19 +854,6 @@ related:
       - url: "https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-  - title: "Need 2 Know: Virus Outbreak, Facial Recognition"
-    excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
-    publishedDateTime: 2020-01-21T21:12:00Z
-    webUrl: "https://cheddar.com/media/need-know-virus-outbreak-facial-recognition"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 39
-    images:
-      - url: "https://img.chdrstatic.com/media/45140c0c-a275-469e-911a-13238dec14ba.jpg?source=web&crop=1200:675,smart&width=1200&height=675"
-        width: 1200
-        height: 675
   - title: "Met Police deploy NEC biometric facial recognition tech across London"
     excerpt: "The Metropolitan Police in the U.K. has rolled out in London real-time facial recognition technology developed by NEC, reports CBR. The implementation “will be intelligence-led and deployed to specific locations in London. This will help tackle serious crime, including serious violence, gun and knife crime, child sexual exploitation and help ..."
     publishedDateTime: 2020-01-24T18:24:00Z
@@ -1205,19 +1151,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/c3/ac371e57-1c1a-5fad-9cdc-c4772d24a273/5e2b5b66b25a8.image.jpg?crop=1745%2C982%2C0%2C102&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
-  - title: "Facebook could be on the hook for billions after Supreme Court refuses to hear facial recognition case"
-    excerpt: "The United States Supreme Court has declined to hear a case brought forward by Facebook that argues its users would have had to show they suffered “real-world harm” after Facebook identified them in photos using its facial recognition technology without getting their consent. Facebook hoped their argument would be heard by the Supreme ..."
-    publishedDateTime: 2020-01-22T15:10:00Z
-    webUrl: "https://www.fastcompany.com/90454488/facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case?partner=feedburner"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 23
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case.jpg"
-        width: 1280
-        height: 720
   - title: "Data Protection Day: Privacy Commissioner Warns About Facial Recognition Tech"
     excerpt: "Facial recognition is the process by which a person can be identified or otherwise recognized from a digital image. Facial recognition is one form of biometric identification; others include fingerprints, voice recognition and retinal scans. Facial recognition is based on unique, measurable characteristics that can be used to verify or ..."
     publishedDateTime: 2020-01-28T15:21:00Z
@@ -1286,6 +1219,6 @@ related:
       domain: dailybruin.com
     quality: 10
 
-secured: "oY9/MwO8WG9BYwKdk/gqlcRGt/igPKz6i2sq7G4BPRnH9lK0gpTNstuKWPuMXsUYkAkYMPwNKRVmfzMN62U9VVIPt3yggaKbxa3zmz+Mzz8kyOJrC9RyNpIK6edhmwOzj0Au3Rj9DSDC3tOGeK+E8TRA1kWfAuNL5ph76j9Qzu9A51GG94v4wOL0lu6RCpI1eW7BRgUQMVzyHNEoAhhOe+ccKbso/ENZs7zCqQcZksFNaVAxm5BuFysEWP8XeZX4dUwTDQxIcXDVDRQjL8Td8I92kaodtc4ga1sahNLFL3Q3hu4ZWYM0YIqzZBADrDG/;+BcTMA0MQNSnkk/YffUheQ=="
+secured: "Z0XD2x88JxO4s2XH8n0LuTFgOzHg8SoSXdt0zmShNd9SnWgtBryR1No5YNJsHt3Vd/Io8v+jcPJ3l7eQxF2GprAwXfvwAPS+NlER1xzwbnXARNVPdPVxcSnc9CTgwtIKuA+ZrbkJ+qqUUHh1bTgKmCM33KkRCjfhALxBbBn1uMUcc2yJzt2EMT5tqD9W7JjaR6iWTGbi/fpGp+mCFIrNp07I1fiB26CmgusUjjoKbMa5oWIF8F7PiModjZJvCbS4d1YxVmtZGn4gJ2fxlN2V418JgbFmBjDkNxrugfsdvcBk77Q23XoBkGJ2ZhHFIE1c;MTbdFmHIbsE6BfDokHigWQ=="
 ---
 
