@@ -5,8 +5,8 @@ excerpt: "Intel (NASDAQ: INTC), a leader in the semiconductor industry, is shapi
 publishedDateTime: 2020-01-07T17:35:00Z
 webUrl: "https://newsroom.intel.com/news/2020-ces-mobileye-news-livestream-replay/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://simplecore.intel.com/newsroom/wp-content/uploads/sites/11/2020/01/mobileye-ces-takeover-2x1.jpg"
-    width: 2000
-    height: 1000
-    title: "2020 CES: Mobileye’s Computer Vision (Replay)"
-
-secured: "vQL+oVtae+1bfc7FAG8AX+ns4+8mImyWexvnj/yhPBAey46VCZq3JANrTqCZHtohbIQbriESFBgySEmvzHm0nTm/aTY7Zkl/lW0l8I0ehQX1psSp6xk8QpnIQjGrJcMMIBNtGITNofpsjO0RGTqTsoGxzj7gzoQOiy+JFHlmX6nTxb5uRsMBL1dEPV8XW9z1uvztXQ6gXPnJ9XjWwlx3lsLx+oOZ0RjEAkxPBzmdh5Mt7zkFbQP3BfkQfDcd1yKolA27FCNV87q/BMR/NytQF+emWUKURZO4xh7TJjohYqKspAJLnyCtLfZ8koqRWGYh;yTCzyI4KxgupKFbJ7mQYxA=="
+secured: "4jKiqP83Q2FqkRE1HYgNY49hKU+9Nl9cI+gS8s0oCQvliiUftXIx5SmwW6T1aTqoZiaHQg5GVjEb3rEuoXpaJC0L4HEWx/txaE2nwaHhSu3YmY9dKm1C6lz0kp9k8QcnvIaviz6enfcnM3RZdV0N324dCiQSGb7LzXZ4dXzmxeVhfaVgj7wZrXczI9FOduDKo1pNlaDTwwbKYRiz24LbaKm6sOXN+HI0xiIZCnCu4/MJBXDcdexXNwRVWd/hTDgQQv2aRmkM2c+Q+TBaMCwQ53C0RB0TpsEhn7VP+/sbzna2XA7N0dAKBekLFAqF55cn;n0GVkufI5UZaEPGwhRgWVg=="
 ---
 

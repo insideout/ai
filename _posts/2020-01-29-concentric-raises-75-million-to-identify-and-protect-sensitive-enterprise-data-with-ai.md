@@ -44,21 +44,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/roambee.jpg?fit=1200%2C720&strip=all"
         width: 1200
         height: 720
-  - title: "Startup that tracks cell phone data for landlords raises $12M"
-    excerpt: "A location-data startup that tracks tens of millions of cell phones and provides information to landlords and brokers has raised $12 million. The firm, Placer.ai, uses cell phone data to track pedestrian traffic in retail properties and provides feedback to building owners on the performance of retail assets and how many people visit them."
-    publishedDateTime: 2020-01-22T12:00:00Z
-    webUrl: "https://therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/"
-    ampWebUrl: "https://therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/amp/"
-    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2020/01/22/startup-that-tracks-cell-phone-data-for-landlords-raises-12m/amp/"
-    type: article
-    provider:
-      name: The Real Deal
-      domain: therealdeal.com
-    quality: 57
-    images:
-      - url: "https://therealdeal.com/wp-content/uploads/2020/01/1200-placer-650x405.jpg"
-        width: 650
-        height: 405
 
 secured: "iRVbzAZJYQQHngh+TSg2tf/3Motliob3+1jCQUKS4/86UljHRouinzRkBD1YvSqC3nhTGPEvrxNxf7Clqoti9xhDMJ1k9vst2NBo3buBbSGiZppLJNQWXw8l1jdWgFySWne6yPi3m3FeIogIwH3Rp0maCvk5etljrFuZ8ARv+JuVJ7zGz18K4CyJZbOrV/4DH1N/d9ydv6MOjHwfeh9XAtGYAHPvhkkrYDGulOZrnVKMbLHHHw+s1jWSt3WY2px5+EobmKPkVCvkeh1+taKmiHNQMRHhBBI9UkBOMrFGQRRzhWplUr+1Yy74kaS1n/Y3sHnDYOgtJ/fXN7TUwlaxsOtY3WhFVOIG0UcaSkvziV7EqDgVMPkoVvXpucFwhyfaX9bpY/dwOs2+RrLbfaR+f4LfA3F4zSQWta5aSKUahxwUOM4wG0v5V3rs+6+0Eaqg8A362/ODxkGdYa9T9WIW92i0mif4t4kD6RlgrNMe/js=;xjojckKtPn2WfmOQicNEFA=="
 ---

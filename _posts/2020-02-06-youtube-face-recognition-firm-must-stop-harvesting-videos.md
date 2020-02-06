@@ -234,6 +234,19 @@ related:
       - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
         width: 992
         height: 558
+  - title: "ACLU criticizes facial recognition company using photos without permission"
+    excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
+    publishedDateTime: 2020-02-06T05:25:00Z
+    webUrl: "https://www.wftv.com/news/local/volusia-county/american-civil-liberties-union-criticizes-facial-recognition-company-using-photos-without-permission/ONZWHDR5XVDQVJAZ7L6UQBG2A4/"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 37
+    images:
+      - url: "https://www.wftv.com/resizer/FEuhDKbanUBenwSvls9DOPgdPUk=/1200x628/d1hfln2sfez66z.cloudfront.net/02-06-2020/t_3e9a381ac94d421ebfec67f453fca035_name_VOL_AI_FACIAL_RECOG_TECH___10pm_frame_2373.jpg"
+        width: 1200
+        height: 628
   - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
     excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
     publishedDateTime: 2020-02-04T23:36:00Z
@@ -244,6 +257,6 @@ related:
       domain: nbcchicago.com
     quality: 19
 
-secured: "tN6/tIesJGNCV86SiX+22iSyPl6wSubrRY/0bqUSM+pzKHHID04Xv/obFgrC2bgtoBeg8tilMvCCsNave1QsES7xUI5qtywMkmWAmZPiejCV37boWN4tF+ioD7kwUz/nZta4L4zaFHSR6XDy1KJVZhvCPVO5ChQFo+XxP2PxHCUbWqaK/FRmgHr2Hpi35ackiktG69WBfI4zbiQS3ebgydraaQChmBvurSBNiPXmi5KBrnUv/s80IUzOuIYH07mUK9mB1bXcCuC7WIcP8qwb6rm1pqvFloPAdC8P63VAMP3bGKobwbiSo5Pow0wZaYBz;9q0ypX78ei9/RNnQkZppqg=="
+secured: "eN7Ak1kfyIqUWlMA9YSTb1sXvSNX0qXYM67M7MCQGNF2sk13KQXNVmRlyYMxSPlKAvTtuiDd7wrpGk3RrIR8jQQM6EgsgK/X0JP1xWBmYhcSlvR3NCHUBLjoYAHn3MBlIORtmPMGOaEivagH8scDBxfYKUhfwdI6q6JG3q02eqs/DjsMR3s7IND8E3oVG2fRSbXQIqR9SZChuRur6akHIcJ3qsDxbBTKatoqiNtBemXbGxVu7taNDDLZIBLU2uIohfiBYO7ishv5TsR1G/1SFvvvrYBTs3YIhn+eV0Ibwr9EVirs7X6SnP2w2BOrAfJWwG418oKK5DaO1LaalO4PTxHnte1ZpfiGpJEKqSl3EM6+6yJPfUEWV/mgROECzIYcU0Vf3I0MqSwGkAyhXLnTfPTFCQIJfzY4M3kWanzHUl4S7fE7+4QEkJ1EEO5vJD1RRCmmxbiGwvL3VvQH0I1zDAGUBqeHRWuAinUGwE6EcWo=;hLZXVRhxuPAQkzjagrcwfQ=="
 ---
 

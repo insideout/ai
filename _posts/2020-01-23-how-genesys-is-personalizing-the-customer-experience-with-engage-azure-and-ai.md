@@ -99,6 +99,6 @@ related:
       domain: pymnts.com
     quality: 34
 
-secured: "0EWfDUHdv0kDdbbXqAy1X8d4b9sme/Ho/T/yzyASLmhcQpgFEhAQT03zmDrhIZXSnuFPNYbwQYB0dkvqAlcm5QV1Gxds4AecaHlwLd3xBBkSunYdMoSICP83G/pV5E3ct3z53W/quAM3UEBfF7poHw4PY9E2HuAEiSnskTdxagNgqc62/5lW/cIiMoDEHeT2PMXwDmxtDm72Ad+dUpPmTspRMYjaJ+JfOXmcw3+JLMxPY/b5PdL9z2wftKYFkO3hyrgHBI9tgb9bZssPoDJn75ZQuYFpHLHUeDdGSp9xhfnqeK5iAWDh8qDCE0bsmlgC;vixCZcKMcmICpogGc90jEg=="
+secured: "iKloofdm3VgjBDdDI0+v2mOj9LtDaezKv/Jo0c9yJDHZ6Fh+DYZwDYTpdUbIh+TT2UzYV20QFEAWIt6dAyM2Xg6Mcdy8pTdvamJO+LeS8L7hJ6Y0ldzuq8A4C/+BEllIGh9jsiD7l/5zDcesvj/iiXJ1nxeGgq0vZIg+bKCPvEKUTMohYfC1bFw411GgglqPK0KSUxapxe1qeNlcXrye7MVoPg/j6M5gc21AxOlnSwOnHav+DElShTeju2jJr9qvAcm2wvUBru/hcCozotQhUOlic6Mkb7h9xjl5BTwb8+YVSGmWQyKwA1fDwNr4RPyg;RrKw1f9Ei25cR4+rJMWpXA=="
 ---
 

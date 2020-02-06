@@ -4,10 +4,8 @@ title: "What is Voice Recognition"
 excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
 publishedDateTime: 2020-01-11T11:41:00Z
 webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
-ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
-cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
 type: article
-quality: 44
+quality: 4
 heat: -1
 published: false
 
@@ -19,29 +17,17 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
-    width: 600
-    height: 271
-    title: "What is Voice Recognition"
-
 related:
   - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
     excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
     publishedDateTime: 2020-01-09T14:42:00Z
     webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
-    ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
     type: article
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 74
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8="
-        width: 1200
-        height: 630
+    quality: 34
 
-secured: "mg32p0wGTyl/6VgyMyCHrcSKXfz/HinkCBMxyBDhRdljsRpiYBVH9fAoajuA8ax2NtheZn8UGDvg2Vio5pR+Osir26ZULgMfrHuuL45lJ8E8nys3Yu19g1t0pezuFOHSp5TPNicT23MMUEl+3uqT7jzU+C/yzi69CY2OhEzMacQMkfZFTP8KtMCvW1kUtOVcGxBoXLL/e8rKYrIkwc1472nO3U+yGiufv/H9vlfyvI/u6gl3hLftPWw7kdyVYBZX6T0pTNUS2UnjjXMGuyMU7UrGVl+ye9MYHskqSnMinmScJnhuOgi8ZE0NRVSiWNfo;6EaZxWZsWYPHv4XKp95Fvg=="
+secured: "IXbuX9oD67YMYwzH6wJWhLF/4knWhR3dWVBetEDPanPihkLne4Br+m8EiS9ShVNc7pIeyBRmBrfvlepgaSH6rAbTgtnRECGyN6Ur4EQaJh09I0RZeOwe+dvCyP4NXx3Ff8Wl7naLygyvOozXxtbLUrHaC48ItIDFF1Fmk2qfyC/OlrggRjiYMWHL51h13msoVbx9ZIQYsBFulXWNHPQUBCX0bixTSuVM8SJkE5vPOqKlXDavruvStXc3w5iijOHXk93Jwoka5z5joZrKNQ/9lMnDtG/G8J5ACQG85ZEXhWZah4LS2M0EB/alMflxPM1c;i4x1uIy7MObJdqxBwb8KkQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/venture-capital/article/3047161/chinas-ai-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/venture-capital/article/3047161/chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre"
 type: article
 quality: 122
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -57,19 +57,6 @@ related:
       - url: "https://www.designnews.com/sites/default/files/Design%20News/Fibre%20optics%20stock%20image.jpg"
         width: 1280
         height: 720
-  - title: "The war rages on for AWS, Azure and Google Cloud: Exploring the battlefield and strategy for 2020"
-    excerpt: "While Google Cloud is seeing areas of success, particularly among high level services around machine learning, there’s a longer game at play According to a recent study from Goldman Sachs, more organisations polled were using Azure for cloud infrastructure versus AWS. It’s worth noting that the twice-annual survey polls only 100 IT ..."
-    publishedDateTime: 2020-01-22T11:49:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2020/jan/22/war-rages-aws-azure-and-google-cloud-exploring-battlefield-and-strategy-2020/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 26
-    images:
-      - url: "https://www.cloudcomputing-news.net/media/img/news/leadership-concept-with-little-green-armed-soldier-toy-picture-id471761466.jpg.600x600_q96.png"
-        width: 600
-        height: 450
 
 secured: "m6tEIGBY7f4ZmuktJj0lIlLq3KVnqvhTr/GeUhpybKlfH4mwbh6sdRSzM75QmskIn6o4mkLM4xFt8xXrp0hWsLO2wZ/+s9aAePivWYQom7aRTtEM7PoOQ+pBP6QIvQEbFKsEn1RP8EiMiuktywuTWrDv0EMDKEhlJQbAkVz/780uawNwIn28urH8Jk1CUxWuT8EmDKYH0HnpsYYoGzv7cX5oAPjmfk6VFVsezYPTrFj0kkO2QLXMBR+/LjhXWv36q/rrLQgcljwwN2LljyQUtSaFBG7CP8VwvFcJJOlQr7IbQsf7ggcpZITsippotmOUV9+J7J4k8V0rN10muIqDdAyro9hPdsM49nta7XNPSvDwx0srIl3TlaIPZOUkHMdU56uW+98NThOQ13vygSW2Gq4VHJDd9mCwSqcPH/MgMOfhhpdt39jhOAcswB10CsQD/AIOKdlhcBSkBsBPiJAJVoExu/3m0wHs6H/qi0YEr98avp4q/jqCIqXshgcfFrFL;9VjzwG8ZVtxSydAZJEgCow=="
 ---

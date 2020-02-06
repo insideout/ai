@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T13:48:00Z
 webUrl: "https://en.ce.cn/Business/topnews/202001/06/t20200106_34055142.shtml"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -32,12 +32,8 @@ related:
     provider:
       name: Steel News
       domain: steelguru.com
-    quality: 39
-    images:
-      - url: "https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg"
-        width: 1200
-        height: 800
+    quality: 19
 
-secured: "W9IAlD17BdMWVTu0a8chk2EWVFU4RW2lIgUdzELF++0ZOuEz735v/uzOEw/yVvoE3nkqqe5ZzEoAgcM9jucT4u6pM51qe4LTYvtpcKKxgkBaR/ptZ6Kw/mLCyl5QPfuPphEC768eUpukQjj/zzHsfcF7dW0MZR+pJibNEuNDlImCT/hlozeqvOH6iBvUhfLu4+fTx/il07VLOvKlbJdYqr2dTNX7gRmjJD9YqAlIcoigKtfG50/smduGAADZarezEfVLFrZMorWwl7KEABsyOOu3yYmvD0ruuTVztuaen0WCd/yBYi6ftEd3VdiYiOL7;FsdrPx3lcXW8EuvLpoLACQ=="
+secured: "CVixmgabmOdxusdIm+ABRReCw/zjxtCcM24GlVNUJVJ7JBM/hFieU16/42qZFGTPZeObhwoAbDv/4D+PZtrEQ1RHhF058tUYuW+zfZ7cH7PmB6LKvT8YuZnAdcXnmo7ZBRRFPxwhi6qPKDM/odzldtq7b+cViGSQS2+zzqh7OkURTyKaq8R6+YBc/sQpj9VxyHhoxkpadps4jj0lzaNF8XXXm9b/UzUQhD+RZWsbZJOlbhH1PlOvYmF1ULFLVpPjEMKbRif1tvKMrHfOwAM3HY1Giblplb2YUAdhDf5egrraUDsHwsZSzlJorMHIenEK;w+9LJsDuD0kApgBK0foTig=="
 ---
 

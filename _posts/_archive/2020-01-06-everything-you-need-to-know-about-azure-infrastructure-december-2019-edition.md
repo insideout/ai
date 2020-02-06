@@ -5,8 +5,8 @@ excerpt: "And while they were late to market and stumbled with “Azure v1”, t
 publishedDateTime: 2020-01-06T13:03:00Z
 webUrl: "https://www.petri.com/everything-you-need-to-know-about-azure-infrastructure-december-2019-edition"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
-    width: 1280
-    height: 720
-    title: "Everything You Need to Know About Azure Infrastructure – December 2019 Edition"
-
-secured: "5a2jzGLFL9j6teCZ4PeXODDhFkdmbIEZCEZEPZBdVmhfX9mA9Zu1i+kdzOjz4EIdy4JnQ7EszXkQODgrH55x8UPtzqWt+Ee73Ng9KESYIXLEHOalGvDQQsMYgB76IlqqZvChsO24/eGAmTowWhzYwpvDq36WJDiBghwfAUKe/w2TLqOlZz+xtBVYJvs02rxxWFvkUlq4YwH4cCpJnuY5j0w1J3q4N6E6SYxOosr8H2cKe5lrCllVKgUsIXmQ30EDsBLCdnMOIyfEFrpEmLrpuFv1a3k0bv/EGjWHPMb9b7za+MkBKvxG6QzgEOiO3Jlr;nJnZLXhjuedF/ytm8rxZbw=="
+secured: "9+BRhlY1x6036EinRu7HvePk+5uYXFfx7dOHqY1XB6q3LHe8zU+NGrOYwMpXrU+rrJHaaL3pMufkNezQkZMoN8kM5SUZOilPWpqAEcFhBBDgWJ2ryPsRxsmH14K2SpN46EmgdnLymG8YMV+Mf0F46u+WqaFSqz4AgJ4Ngowkqhqz2bBpc518mf1tk1brQTkFpJS9OTsjIKRzRS+ar9l7UnpFmD8rnK6++kzo5EJA+0zY1+BIIddZ/1U0X3UK9dmIp73Q6aEMQPeO3L8Wt49FzOM3pnsbwAES/1AfJROtIORhTb9v53P5oaQzwjpkHBCpVF8qKEy3PqE0/DbrT+JzX84qPhl22d4ITksvmdxrxKvYFC6MaYLwaqSePIJajZSxj9WyRO6tCz1h1h+hvz7HOgICcfBik9OjYlA+v/ZHd0vssojZFMI5Yg+B+Y/vyCqP7hkorLzAZC0+k9NC9i8DWG7qnxYxJaZgmpLKUP6/3qk=;PQbhknhyp46l61pIukDnKA=="
 ---
 

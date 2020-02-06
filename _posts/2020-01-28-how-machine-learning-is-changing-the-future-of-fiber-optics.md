@@ -59,19 +59,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 48
-  - title: "The war rages on for AWS, Azure and Google Cloud: Exploring the battlefield and strategy for 2020"
-    excerpt: "While Google Cloud is seeing areas of success, particularly among high level services around machine learning, there’s a longer game at play According to a recent study from Goldman Sachs, more organisations polled were using Azure for cloud infrastructure versus AWS. It’s worth noting that the twice-annual survey polls only 100 IT ..."
-    publishedDateTime: 2020-01-22T11:49:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2020/jan/22/war-rages-aws-azure-and-google-cloud-exploring-battlefield-and-strategy-2020/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 26
-    images:
-      - url: "https://www.cloudcomputing-news.net/media/img/news/leadership-concept-with-little-green-armed-soldier-toy-picture-id471761466.jpg.600x600_q96.png"
-        width: 600
-        height: 450
 
 secured: "SFz63SQIHnJeDtUZDXfhKRC2cLsBYv2xMYa+zfpuJzv3aE1IfpueCbsAk1eK6XJHNvlTwO+fSX83wWzEcqLev1VvMRGyEDmxEFfmchEMUN1D/AO5Nqsd6RGi5QmBvdoEMLfwk/Ucyl+ruG0t9NgV6SOeWkPyfqboUEl5MFAQrJwvdE2FfYBPU1I4e1/U7vSUr0Ok8nw8dgIX+7ZXL+mlm7NAAPHTTvheitmwYODf4hoOMz67ClCiQnXMVs01daObuZYtKnDgsjD84BIHzQnD9NFoFh0AP6AAcHS6DxKUNox7tIuMnWd+Z3XeJpUd3XQqdtzZn0Ihu7Ij/m/IMLAwkdo1EDkYAd2hrOcahJRAgaHgBNpH9jDsjYTkq+yfc5Ddl3a1YyvgzaB0Fd8odRervZ6z1Hybil6OBmh2kFA6ySw3n/e3P21ICavPCzYpAB2BfhE+2DSyzpuT7jgveUvRyoOo8f8+QbPPRgEsC6N5YlM=;p9fgkz+t7k8ObpYe9OHZMA=="
 ---

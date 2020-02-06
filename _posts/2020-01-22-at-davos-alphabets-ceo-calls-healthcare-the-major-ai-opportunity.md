@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity"
 
 related:
-  - title: "DAVOS-Google CEO eyes major opportunity in healthcare, says will protect privacy"
-    excerpt: "DAVOS, Switzerland Jan 22- Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes,"
-    publishedDateTime: 2020-01-22T11:45:00Z
-    webUrl: "https://www.cnbc.com/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 84
-    images:
-      - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
-        width: 1200
-        height: 630
   - title: "Google CEO eyes major opportunity in health care, says it will protect privacy"
     excerpt: "Sundar Pichai said health care offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes."
     publishedDateTime: 2020-01-22T14:33:00Z

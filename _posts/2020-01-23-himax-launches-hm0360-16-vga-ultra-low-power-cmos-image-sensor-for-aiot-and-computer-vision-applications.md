@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T15:54:00Z
 webUrl: "https://www.eejournal.com/industry_news/himax-launches-hm0360-1-6-vga-ultra-low-power-cmos-image-sensor-for-aiot-and-computer-vision-applications/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 512
     height: 512
     title: "Himax Launches HM0360 1/6’’ VGA Ultra Low Power CMOS Image Sensor for AIoT and Computer Vision Applications"
-
-related:
-  - title: "Himax Launches HM0360 1/6'' VGA Ultra Low Power CMOS Image Sensor for AIoT and Computer Vision Applications"
-    excerpt: "TAINAN, Taiwan, Jan. 22, 2020 (GLOBE NEWSWIRE) -- Himax Imaging, Inc., a provider of ultra-low power image sensor and a subsidiary of Himax Technologies, Inc. (NASDAQ:HIMX) (\"Himax\" or the \"Company\"),"
-    publishedDateTime: 2020-01-22T11:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/g15161782/himax-launches-hm0360-16-vga-ultra-low-power-cmos-image-sensor-for-aiot-and-computer-vision-applic"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15161782"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15161782"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 36
 
 secured: "GbSIa5qu3+ox6IqHleqVNHH1BCVrmb3RGNa/NSTLZlZS9ufo4f3nWkSXjos8lJoFoGag7yNW64g8Vk0pvJzP/ERP7oJEp6qF6wIh9uz7vDliBLKlG8AkgIZ1AfcRdo9qmVBXAscrF91kipl7QZA/HBv9VL20crlQvmwbQ+rIarpakhDdlo7zx8CGqB4aG/GHIyu6ize+bEiehM9DD5v+73jZgSlZaXN+VtZn/XvKBcbDLB7bI3tNYiG46s5GmBpUU9jOv7lSheliAi7H+/5kwktrI2qQ30gwWTH65jKZzuruQYO0tR/8lrXdBTaTFmFg;R9p2QA/egKcUrt51n2Mg5A=="
 ---

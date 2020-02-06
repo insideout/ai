@@ -20,20 +20,14 @@ topics:
 related:
   - title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
     excerpt: "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ..."
-    publishedDateTime: 2020-01-14T14:41:00Z
-    webUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14"
-    ampWebUrl: "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp"
+    publishedDateTime: 2020-01-14T14:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/germany-s-bundesliga-to-use-amazon-web-services-artificial-intelligence-1028816437"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 103
-    images:
-      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?2134454660"
-        width: 1024
-        height: 512
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
 
-secured: "e0KNeKPFi7j07nXq9D704VJE5SAXBDkpSQlPpJSx9DzjAi9fQliW/AhVZjKGjFnp3FxJx+cYctm8LFDbJ6Ot16COhDNaJE59flUVcLJlMzkSNWSbwXZAr1yLikGE45xIxY7PRr93wmpv5uZ2LpJAcJ0TmqY7lJd/jFCv1TKsNd48iGht70OcQnHFqQUoyAExMQVmRcCCGmwpUsWlQ8Oz7vK0E0oJYbOVSSE7vNChOYlJy5KbGLPZcDsX6II6Jmjh1O4sJCtdbTEuEGhjoonTFJOuLck1HQqQ1S4kTsUSGUjxS+Q2J/oO3Gjq0E/+9I8O;ik6uDLvt/KSKBjMY4SNlNw=="
+secured: "eDL+vEWOhfZ7mny7k2eIOJCHJqxXyaLaF4Gztb1kyeJBKC7PP2te4tItElRglXJ4/P/ADdD5pP2iLGag8QuKv1bVQeyN8koCaMqBIqUoNDi9i9Z9wh49jpx0f/OMQbiWODHmQSNmvMLlYkkU42FxwZcwoVwW0O4qVIA42tkRqf2R6t3D28ySHTQ1W1aPJm2LJwEDCFKeFGlqeaCM8PK17bY5bfqWlbRbLbTkYuUx0eEKM5ZknjKMyDODiZJq7VRCCzRgE9vAnky0YglORKpJxnGytPFP/1lM3fImcPTWzoLkHKvFkFmPxz89monsrxRC;+jNQ0RHkAWjmTxul7NN//A=="
 ---
 

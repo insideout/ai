@@ -196,15 +196,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "Uber Gets Permit to Restart Testing Its Self-Driving Cars in California"
-    excerpt: "(Reuters) - Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona."
-    publishedDateTime: 2020-02-05T20:13:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-02-05/uber-gets-permit-to-restart-testing-its-self-driving-cars-in-california"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "U of T-Waterloo research data to put self-driving cars to ultimate test: Canadian winter"
     excerpt: "A new dataset will enable engineers to test and refine new algorithms for self-driving cars that can overcome the perception challenges posed by snowy weather (Image courtesy Steven Waslander) Newly released data from a collaboration between the University of Toronto, the University of Waterloo and Scale AI will help train future self-driving ..."
     publishedDateTime: 2020-02-03T21:51:00Z

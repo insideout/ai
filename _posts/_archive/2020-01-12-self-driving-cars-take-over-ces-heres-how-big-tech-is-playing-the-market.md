@@ -4,12 +4,10 @@ title: "Self-driving cars take over CES: Here's how big tech is playing the mark
 excerpt: "Baidu is developing an open source platform that it hopes will become the \"Android\" of self-driving cars, dubbed Apollo. Microsoft joined Baidu's Apollo \"alliance,\" gaining a channel for sales of ..."
 publishedDateTime: 2020-01-12T00:00:00Z
 webUrl: "https://www.cnbc.com/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-ampWebUrl: "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 32
+heat: -1
+published: false
 
 provider:
   name: CNBC
@@ -23,12 +21,32 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://image.cnbcfm.com/api/v1/image/104935725-GettyImages-902802574.jpg?v=1532563703"
-    width: 2000
-    height: 1219
-    title: "Self-driving cars take over CES: Here's how big tech is playing the market"
+related:
+  - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
+    excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical ..."
+    publishedDateTime: 2020-01-07T17:40:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg"
+        width: 1200
+        height: 729
+  - title: "Baidu partners with Wind River for autonomous driving technology"
+    excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
+    publishedDateTime: 2020-01-08T11:12:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
+    type: article
+    provider:
+      name: ET Auto.com
+      domain: indiatimes.com
+    quality: 19
 
-secured: "B+pGxxoPRE7Jitk7Aj0a1CtgdnDh+K9jLPEm0hOqkXarWjPjlYPU/fYRT4++a80XvUAUJTlHDIYdo2CVDd9fz7W/YRTMYIETD1Yk/96ljnvxUPh6+C7UYvIZNUxogR2VNQXpKnq6RwzH0HkhNA7rZOMLOMB16zlYgYFncGFZaQDyZHnuXSgJy0hmL6WT9nnD5euQZ1FXZwpbqFsPsQPST042SSC4TyrpAbtA5MmEwU4IT8ncR/wSEa+9cIj2ghSaHvtAl0fuhRXfqIV5I3g2Fnftm8gmPY84tSVxa85BGONm/U641dq4NEDrns4h11Uz;vEbc4sV7OCqDUfrCpOda5w=="
+secured: "raMvPtm+Oe31fgLBBst/m+prGeqBRsputTR3xCPaYHuqaL4Xv12Z55aQfDUbevI+EFFiKWcAL65Puov+OYwPRGZV/EtzPiTmDkP1c6272+vuAku7haA1LmAW1c6YHDQ67QOl4Qxev0e9FpmogP87qsw0oF3pqvg8SOPjY1xkucPaqjss1Vb9nmtcFeqvpS1PF3kWYilNozC+vG8oFofIJep3AdhTWkXfrsYV7wxGlcrr5UvV2bQ+VaZRgrmVquHIFZF/7SDjxhZCiRJG4aG/Z1g54vbg/cbQTBZZFhDE+Z2A3lnjPqn6ZXyrS4oylRNT;w1NpMXz6ETzQZ3baBdnugg=="
 ---
 

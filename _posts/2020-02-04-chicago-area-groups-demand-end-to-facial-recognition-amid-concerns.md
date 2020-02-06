@@ -241,6 +241,19 @@ related:
       - url: "https://s.hdnux.com/photos/01/10/33/24/18986281/9/rawImage.jpg"
         width: 2048
         height: 1365
+  - title: "ACLU criticizes facial recognition company using photos without permission"
+    excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
+    publishedDateTime: 2020-02-06T05:25:00Z
+    webUrl: "https://www.wftv.com/news/local/volusia-county/american-civil-liberties-union-criticizes-facial-recognition-company-using-photos-without-permission/ONZWHDR5XVDQVJAZ7L6UQBG2A4/"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 37
+    images:
+      - url: "https://www.wftv.com/resizer/FEuhDKbanUBenwSvls9DOPgdPUk=/1200x628/d1hfln2sfez66z.cloudfront.net/02-06-2020/t_3e9a381ac94d421ebfec67f453fca035_name_VOL_AI_FACIAL_RECOG_TECH___10pm_frame_2373.jpg"
+        width: 1200
+        height: 628
 
 secured: "xphGBWfLMp6wcrisVgucSgG06JdS8nJIfOOS/AQ0DOcf0d+jFtLLuLP3wrxK16TOHCSLaFl/FtHR2tQ2MfLHsbEif+8aat9ow4yBPyQYCYVNbr3PtsAA9AxsOcrSKsMcAKaP7YS8/WyjePW6d1/zzVEiSTmhki03xr2BXVmKCFwqHsS5phHpmp2z/vsZuYbKfifzMkkeAm4LQVU4Hp4cie7ZGJKmCFxx7MOao6txLsOW0u2xhi5toYVD3K8dq2nF7E7RDkOmD2CGcyVJVEoIUxGI4a6NVz5iLDZkgqUeAtn6aC7+bBiRxM3sy80nO4MlbsoNaPe7khUy0LxWPfJ+wYO0f/UvRrVcS2qrV6NgCHFv2rrsjnCTmsfvNFnPR/nw60eZ7vMGtMHHnA/eIsQW05o4gKxNF5ee6brrCmncqeTySEEe24oFLUcmnfN2fVrn7u9306b5PcWrDbkr3ZEB9i6J5gmFKBcBtirG83NWn2A=;1e6XUnlZ8+fZnMZ3orChWA=="
 ---

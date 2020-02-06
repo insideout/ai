@@ -4,11 +4,9 @@ title: "New project to assist people with dementia in Aberdeenshire with artific
 excerpt: "Aberdeenshire pensioners in the early stages of dementia could soon be assisted by new artificial intelligence technology ... day-to-day activities. The therapy team hopes that introducing ..."
 publishedDateTime: 2020-01-11T07:52:00Z
 webUrl: "https://www.pressandjournal.co.uk/fp/news/aberdeenshire/1943471/new-project-to-assist-people-with-dementia-in-aberdeenshire-with-artificial-intelligence-technology/"
-ampWebUrl: "https://www.pressandjournal.co.uk/fp/news/aberdeenshire/1943471/new-project-to-assist-people-with-dementia-in-aberdeenshire-with-artificial-intelligence-technology/amp/"
-cdnAmpWebUrl: "https://www-pressandjournal-co-uk.cdn.ampproject.org/c/s/www.pressandjournal.co.uk/fp/news/aberdeenshire/1943471/new-project-to-assist-people-with-dementia-in-aberdeenshire-with-artificial-intelligence-technology/amp/"
 type: article
-quality: 45
-heat: 45
+quality: 5
+heat: 5
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://wpcluster.dctdigital.com/pressandjournal/wp-content/uploads/sites/2/2016/11/P-9ecf8480-b7d1-4c00-89c5-f75c1879f2d7-620x349.jpg"
-    width: 620
-    height: 349
-    title: "New project to assist people with dementia in Aberdeenshire with artificial intelligence technology"
-
-secured: "BtU5Evq4PRMN4xFGDwR/v7+iJFwN3ecv+97wYqtAwwvUdGieE4Sgvb8V0kU53rOo63PBkfm2sLzfN+EwkQ++8/uX5VjhwvHb4NDo6giIIGXMHIjn3tym6MtJybrAA12e4OmeLvr8ajkDEQeFSbuYT1/C2cJITFVQEkcoJhF3KdS3sNuMXDnfi8PXB8LudA4Z9mFs4MDVwnfEAfFRFVaOcsuJ05iCt4IDv7vojzvk+b7sNrJOnToaqAaugr+hnY4fU43do6YOR2OvvDHUf7L31a0GKsEVI2nUIkU9dyO7VngHQrYeCjUf+rgH4JIVhvFt;fEJcqLq83vpxn0MbEHQUiA=="
+secured: "jEngTU9qAurduwqrd+/bp6LvI0RLoxW7Xv48OqeQVo3yBUAlNy0WY1vrNlTQEy2hO9YuetXdL7xX2L37ZGSRaTNTg5I2AdduuONiuULLzsd8pyi6iTyD3yfj2eUFd4mJgLaQcB2MWqcpaTCUx5zgMKYPaG1BDgDx7+uG430QNpMGCBU+2nsaSlkwIJsK0Au16RUTx0uXaPsDR0z9GDJvaIw0nuEPlmljH8XOVs/Uu9l3DM78Yv1DDBHxnwdv0q8/fPIEtsW1wnocj7m6/mQTlFt84cC96hS9+I48RafpG9n6RpmuiDefqmYQcxhaZl0c;tKhSLiRMSPdYxnspOHlkQw=="
 ---
 

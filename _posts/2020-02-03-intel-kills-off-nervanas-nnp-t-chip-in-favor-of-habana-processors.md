@@ -119,15 +119,6 @@ related:
       - url: "https://images.anandtech.com/doci/15471/Nervana_Car_678x452.jpg"
         width: 678
         height: 448
-  - title: "Intel Axes Nervana AI Chips In Favor Of Habana Labs"
-    excerpt: "faster to our customers,' Intel says of its decision to move forward with Habana Labs' AI chips in place of Nervana. By Dylan Martin January 31, 2020, 05:11 PM EST Intel said it is ending work on its Nervana neural network processors in favor of the artificial intelligence chips it gained with its recent $2 billion acquisition of Habana Labs."
-    publishedDateTime: 2020-01-31T22:25:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-axes-nervana-ai-chips-in-favor-of-habana-labs"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
 
 secured: "vUKR33EDMm054J/MnhH/Y8j/Eg/QxklcoMk9cK/YtTpOZ6dFEYtzTAR+MmeqeT0C3vYxkB+W+nuhX2mYAW7HLIngyhSJLvMnWiwxnJvEGYmDoFl5uwwOavevD8mpDFg54QvrTSQMwN+qWAMUpSF4KzL8Erl3oDxoj9g2NkiYy2qlSS/jVh2RymihloP2EoTHB3nQDIsGTkk+UpFlm0xdVDSnG852jeDjynZRGsuiXl+h1uRsmpluadQlIUEyw/6pSjp+YBe4B7MpvRbwHoU5L3xBj5/7VugdxJaKYFwvgKa4VGL/FygQi7/TwL9kY5UL2f5iLQroGQ2soziS6i/TimmFjpHTlJRJXGk9433XVugmSJkPzvacy4vX80Mz03bj9Vo6VPerqrUqriwnLcP84gvqdX5YWECuJZG94CyXiTVcISL4h6t9zusBElbd6dHsFegyMHCA87FrCqsARLD6aWABRf6aT9urxPzk9DlaQME=;6pSjQoo9j+814Bv8P6mgvQ=="
 ---

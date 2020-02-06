@@ -234,6 +234,19 @@ related:
       - url: "https://s.hdnux.com/photos/01/10/33/24/18986281/9/rawImage.jpg"
         width: 2048
         height: 1365
+  - title: "ACLU criticizes facial recognition company using photos without permission"
+    excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
+    publishedDateTime: 2020-02-06T05:25:00Z
+    webUrl: "https://www.wftv.com/news/local/volusia-county/american-civil-liberties-union-criticizes-facial-recognition-company-using-photos-without-permission/ONZWHDR5XVDQVJAZ7L6UQBG2A4/"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 37
+    images:
+      - url: "https://www.wftv.com/resizer/FEuhDKbanUBenwSvls9DOPgdPUk=/1200x628/d1hfln2sfez66z.cloudfront.net/02-06-2020/t_3e9a381ac94d421ebfec67f453fca035_name_VOL_AI_FACIAL_RECOG_TECH___10pm_frame_2373.jpg"
+        width: 1200
+        height: 628
   - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
     excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
     publishedDateTime: 2020-02-04T23:36:00Z
@@ -244,6 +257,6 @@ related:
       domain: nbcchicago.com
     quality: 19
 
-secured: "AXCQ1wqXKoBvZqSmfsVRmBbXp5KAdTGMhD2mCLXnwPAIUHAk2s1+cCLgQfO+kTBWkW1DJPgMtyL21B+vAuuZGw7ZTrLS9+6Vo3J5KIKKPFUIViO4xUsNCSikKZ3+pjQR2tYKFJf3Mr2JE17iYGpN5bxPefdB9lJmJ0H6w8GSGBMvlZ541bNGz5Q0x3j2LAYTjuDOo/j0MO4AE8sr2+Q3q4Y/B3tzkdJYg1NotNXppT2UpL4DoBXCt011WXJwgWR/+8rZ5e3Z7wDp8mmju/ripcCIE/r09wOxNArIQIs2odTFWiRAvgOQ1InnVUpWOodF;PbywoBti6ac/T+i0XBONZA=="
+secured: "ErdlONkEJqDLOoOe4edkdm3GNJBiOSEtUBF1Vyv2+ezYyogDfwDg4C7RV2cmIx7DMRRB2jOT0uwKLZoxgO6NxQilkvFDaGB59+umOeukqRJOZtXd5cqMxVG7+1gl5fWxzjUx3HTfKxbDo0YfP6HWiMvPUVEvrr5gCVvZKrrXz5myJAA43E/0y/QJikEmCKcbVGoNL3w9TlD0dnJoaIbbia3fIssNBtufgXjJjrd4bo1WOKGKia5YdiwTgor7jhk69UlX34LNhvogU8mWCgnvhhINa7IeOWtq4RjsGWynTGWgENIJ90OIsuHBj1ydDaC/z7flvERTx3XzFCjJWAbc0K1yLtP3qJtuR2vp7wBMzvGhDRiYzrdF1BDne1nFqgNOe8wgHrK5f1woTJif75/ofxRBAx0gaa93D6ztayjmWGbQSXvuBDJYN0dckU26zYGPSX252wcC4gf8wZjR1tmQBTCV1BeX9YhfMWefjBaCbUY=;4hvHz9CPhzBuN5XpPyst4w=="
 ---
 

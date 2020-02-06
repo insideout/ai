@@ -40,6 +40,6 @@ related:
       domain: venturebeat.com
     quality: 47
 
-secured: "psNVdDE/JlrPfAXwksGSJDNVNhYFgb16fiq9LmPgCDim/JhcGs43/KId5B0U/wid9B+Ii8qD+RYhw+gvoND6hNcVnkcsJVMf/UcxGwPvsuLKUfH2oqCbIhoDz3jWtSpzJvY3AWNIVR6383z3gX776YtO7GYSwsRIeeANgbQbcVMifxdYcHspYmdB8AgXAABRsILvNyvP6RPFdquQlQzLfTmXXi36MFCGusO5kmH9VdUetYHhWwsK38fyPCsUWp8iv11i5uqBJUa802NwSo8Iiq5O68GLSy+jCStnKGjARbyqM9ojfuvcD8aDGyulUVM5;xQJN36DXB25GtTtb5mmslQ=="
+secured: "hrx8R///qKoT2Wg1GxeXG3yq0yzIUR+80YqTg2TbErpKgUt03eKtXXWDXuEBhtUFjJ8el1dtTjEqrduF2O5QS67xDBonDOxeoSwXZjwMp+X+jbj3pXs+mEU9kBYKwJrQYDQzktPeQAFG8tuFLD/oA2C7K6FRYzkGUPq82V4VddoX7V+OG7skm/q6taIRWBs/59wAaO3M7RvtNZFshKT7NquHDVGo8+sWam6Thv7eO5bnut83BPHHiaOVuk0auTPC8u0LsJ/j97xLe0k61tliRi4TEHP/lnzeusWIfz7v/y4Nnfv2cRJ9Rt8W/MyJwrLE;tZC4kKX7zCmvLJFGa/GsFg=="
 ---
 

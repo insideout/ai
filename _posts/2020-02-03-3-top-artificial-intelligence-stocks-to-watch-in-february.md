@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "3 Top Artificial Intelligence Stocks to Watch in February"
 
 related:
+  - title: "Artificial Intelligence Trends To Watch In 2020"
+    excerpt: "Some trends highlighted in our 40-page report include: Commercial deepfakes will resurrect celebrities, shake up retail, and change media AutoML: AI is the future of AI design Federated learning will bring in a new data partnership ecosystem Doing more with less: Tackling small data problems in AI will be a major focus Natural language ..."
+    publishedDateTime: 2020-02-06T05:04:00Z
+    webUrl: "https://www.cbinsights.com/research/report/ai-trends-2020/"
+    type: article
+    provider:
+      name: CB Insights
+      domain: cbinsights.com
+    quality: 41
+    images:
+      - url: "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/02/05173732/Ai_trends_2020-06-572x364.png"
+        width: 572
+        height: 364
   - title: "Rajesh Goenka of RP tech India Explains the Top Technology Trends to Watch in 2020"
     excerpt: "Research states that technologies such as AI, Automatic Speech Recognition (ASR), Machine Learning, Natural Language Processing (NLP)will further boost the industry-wide adoption of voice assistant solutions. This emerging business stream also offers enormous growth prospects to start-ups, smart equipment manufacturers, technology distributors ..."
     publishedDateTime: 2020-01-28T05:40:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T01:25:00Z
 webUrl: "https://siliconangle.com/2020/02/02/intel-dumps-nervana-neural-network-processors-habanas-ai-chips/"
 type: article
 quality: 71
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -120,15 +120,6 @@ related:
       - url: "https://images.anandtech.com/doci/15471/Nervana_Car_678x452.jpg"
         width: 678
         height: 448
-  - title: "Intel Axes Nervana AI Chips In Favor Of Habana Labs"
-    excerpt: "faster to our customers,' Intel says of its decision to move forward with Habana Labs' AI chips in place of Nervana. By Dylan Martin January 31, 2020, 05:11 PM EST Intel said it is ending work on its Nervana neural network processors in favor of the artificial intelligence chips it gained with its recent $2 billion acquisition of Habana Labs."
-    publishedDateTime: 2020-01-31T22:25:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-axes-nervana-ai-chips-in-favor-of-habana-labs"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
 
 secured: "1mH35aFDcObTOwhq2DyGqm5MpTpYAACDkJlun2yagm1RzonQnEKvs14ZWrTbSKZXprhIMwrW2Q/asyVZbuNTgL7tsnb4/OfdJsGhXoOSJXJe9sokSGY5q+zWcalj7Fm/VU7uiGvzqHTr4EXEyKEgW+lOBUswkNXyBBl9GPDV4+KnN0X+ZJ23NvDXvRXf692uHqbE3+/QaW6oz/X2LdlvY6Xn6efHBgY+QG+ZdAZRsbJI7wom9IivgvVispsGsUp+/7pSXbdMCVPBsS4MB5MFAUt0sElmVBSxja+rIv8h8DIlP0rwkDEnAdNR0ubPD6IScFxwoyRGZ8KxNvtY9xNjLBzEaluY4O7nAMTMxNpDrBBJ891jCdJ1wmF5XTgvmAppT9ZlQH0pqcmbFRTp0cLB4MuBPxYy1BHiVnkLz2WM7emDinqjDu6S3j7gu6Gcqi9vMSfWgMx4p5rnZPi5l2BYFJaZYgQtAGqrCTEqP2zab1Y=;O3L2TX1FRwOx5O6Ws5/Uww=="
 ---

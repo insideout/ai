@@ -4,10 +4,8 @@ title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
 publishedDateTime: 2020-01-20T12:36:00Z
 webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-    width: 1200
-    height: 628
-    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
   - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
@@ -139,6 +131,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "8ajrgrzh/rPL6HHEUzPYeCyU6YmV0/WX+VmISVwNkJ72wQ1msUpDoQw0HUXqSUXsl8IW1YrgE/9nVehHW8GCnr4V/ZLczMtpxSiCfqvbaNOVlh3WhABx2oZeV0ZBJO9EuN/oau0r+igTmUD+KdHTzFrEC5e45ZV6EptigG5dWEbGzIZVvo/oDCIQ9TWo5HGUXqy30TuoyJC/fGQK0VOqf/Hsf3D+P3ckINQjFvVaE51eq2kdkQLBrSVi/lipMCcHGQKS6s9oIPSTn958khCsTqcCsLoZARRwRjRfLrAPTKh2nESWQ+nMi4NB5T21GfPG;xoEw3mfzYQ14EmnGkgPhuw=="
+secured: "hU8aqNb9IZ16MdqBPoKZ63mFk5EcXx0a6sjDhoxXZkX73PMUdtuPmhhYRSSdchikFL1+/mMY/3iKbZEwxdChZzkT1veOqCScVZl+CObUMSuOCZarFl6+OEjde1H0dfYKe7Tn5KA6NQivAmKZ8h3/VM+IsgCJCgIB4G1TIi4gu537/Rg+ZEk124+A/0oJ5gMIqNMmhkvO8wLKTFMYSF6kbFVIajXmTOoGpV137FXcMKuEFoQLhmAmy6Ux/wmBDCqgzOE6xICKngVXW63I5z1Nj+EhdfOJ+RAou38YcMJ4PS9rkXtuM4Ng9sKmjX7a9gXV4MHTBeNazuNFRVKR81Zzot/32ufzTDYmD1ekBns69MprdnjvOckGMPETd63+S4TtKixnbGqac3OxSutr8O1mQwsaogKHLULR3LZdULurnkq0ARIfL+nwcQ+rbaONkJFOc2h26lCiPhPhfvirK40TH1e3em4KvrmgdnZ6BMeqCxY=;tMLM908z8CGIqYKCJPyBUA=="
 ---
 

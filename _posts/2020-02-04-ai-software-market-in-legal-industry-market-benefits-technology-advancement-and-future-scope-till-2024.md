@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-04T07:12:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-software-market-in-legal-industry-market-benefits-technology-advancement-and-future-scope-till-2024-2020-02-04"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,15 @@ images:
     title: "AI Software Market In Legal Industry Market Benefits, Technology Advancement and Future Scope Till 2024"
 
 related:
+  - title: "Artificial Intelligence In Medical Imaging Market Current And Future Trends 2020-2026"
+    excerpt: "The Artificial Intelligence In Medical Imaging Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Medical Imaging Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-current-and-future-trends-2020-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
   - title: "Technology Budget 2020 : Will India’s Proposed Data Centre Parks Boost AI Industry?"
     excerpt: "During the budget speech, the finance minister of India said, “It is now a cliche—data is the new oil—and, indeed, analytics, AI, fintech and the internet of things (IoT) are quickly transforming the way we deal with our lives,” Sitharaman stated."
     publishedDateTime: 2020-02-04T22:48:00Z

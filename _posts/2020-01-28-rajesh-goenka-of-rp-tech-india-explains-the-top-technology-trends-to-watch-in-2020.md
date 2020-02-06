@@ -39,6 +39,19 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
         width: 1024
         height: 512
+  - title: "Artificial Intelligence Trends To Watch In 2020"
+    excerpt: "Some trends highlighted in our 40-page report include: Commercial deepfakes will resurrect celebrities, shake up retail, and change media AutoML: AI is the future of AI design Federated learning will bring in a new data partnership ecosystem Doing more with less: Tackling small data problems in AI will be a major focus Natural language ..."
+    publishedDateTime: 2020-02-06T05:04:00Z
+    webUrl: "https://www.cbinsights.com/research/report/ai-trends-2020/"
+    type: article
+    provider:
+      name: CB Insights
+      domain: cbinsights.com
+    quality: 41
+    images:
+      - url: "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/02/05173732/Ai_trends_2020-06-572x364.png"
+        width: 572
+        height: 364
   - title: "The top 10 cybersecurity companies to watch in 2020: How AI and ML is a key differentiator"
     excerpt: "Many are relying on AI and machine learning to determine if login and resource requests are legitimate ... It then extended these capabilities to systems being hosted in IaaS environments like AWS and Microsoft Azure, and offered the industry’s first PAM-as-a-Service, which continues to be the only offering in the market with a true multi ..."
     publishedDateTime: 2020-02-05T18:45:00Z

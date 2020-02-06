@@ -4,11 +4,9 @@ title: "New AI-based technique can spot low-glucose levels without fingerprick t
 excerpt: "Researchers have developed a new Artificial Intelligence (AI)-based technique ... Basing on this information, clinicians can adapt the therapy to each individual,” the authors wrote."
 publishedDateTime: 2020-01-15T10:18:00Z
 webUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/"
-ampWebUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
-cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
-    width: 675
-    height: 365
-    title: "New AI-based technique can spot low-glucose levels without fingerprick test"
-
-secured: "bSBGcXGzD7KAaG9yxMEwMbMz81YBmwL5UkmqcgQhfhJJTpDM1edPZ+3C3y24N/wOfdWsr4/yu6/+5fo1BDBtiCBNMKnzhdesaOf2Ng8Va26MEZRYiq9CfkdCDQL/UyUHzZwU5qRTQfzKOKi5RfRjMFPkBx2ApDaAcA4lPff/uNLdB+FC3SWiYVKbbQzQNITK6gDmmEYUZxTs9k6mDsVHUcTO3GcjRkd18lyOS+3kAN87sn/YbgmWyNCoeOqyZ3+ye2kIy4Yw+yFEzcDyagTR06vDIN2o9tAVcxFNUQyJmF0WDPZBTyMZn9XJFfRQHfqP;a8TKFw+wBDOqD+hQ9dmrig=="
+secured: "jaJnsMWPDrNPyNo5QBYJTdHXBaGaPCLhUYFTu7s7LQr94VO8rh3IAumWTo6lJk6+BY7cAKCpSiZ5nvWlrxrIx2ZW/RvgOT0jC5iG4n6Id8IMo2jR6vjMbbaDGt0PVXkaXyPPEbTeXzsFr1AUC4NF5BY7qEBepUOjQEYh+x6dye6jB84NmEhbGwKWNQDr30LR/43UfXVxD2GDFvsNOElE5PhHOvHG6wEPg148B9lklOQ13sZPAm9zAKX9ZuYkEhGCY4Uzpboahfj72wBlx2G0UA5RghVrhtH1HfSgCuEQ4InUwP/pQ8hSplTivDnAE91a;rreNeVakBBOqLho5ct4V5w=="
 ---
 

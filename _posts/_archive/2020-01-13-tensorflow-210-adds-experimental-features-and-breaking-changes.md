@@ -5,8 +5,8 @@ excerpt: "TensorFlow 2.1.0 has been released, following two release candidates. 
 publishedDateTime: 2020-01-13T10:54:00Z
 webUrl: "https://jaxenter.com/tensorflow-2-1-0-166633.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://jaxenter.com/wp-content/uploads/2020/01/TensorFlow-2-1-0.jpg"
-    width: 600
-    height: 400
-    title: "TensorFlow 2.1.0 adds experimental features and breaking changes"
-
-secured: "hynUfWQ7E1Q+1itJWnY+iK+iCIbq0j7/d8MI1eTi+IMmmKTG3tm1H4F6zVUfPNosOzN30aCBtG6PJ3yB4+Clk3X5Ph0MlQ4Vt4aOEP51wmPauLdiKhcHA7jqpax5Q1/a7DiybCYG2c5kKTaNkII8Kh37QToTjLrhlgwboD++KOOaiR2N68z4UbpbvcNvXAiDjNPvhlN8R6bsy6KWqgmZLwVGN+ogl1ka2MyQ628HVck54zhs9CNn7J61KUbctp4TvVC+luJ9a6S8pKNFj2YKXrmn18MQ19NOgn0P7TRXWxpStmLLLKcl9P2W4sZZAmnk;HWFDS/cwywLWTyhSuVlDNw=="
+secured: "V0ovdV4GY8z19FVz4NCLZpgZC34zglIz/B+qhF6iaRl5nt1lm/FBlEf0D26X1GRIyjE54ntQj90/g6ov3J9iDYaGBoid3WJPMqhoJSXwicAJAd52wAIndUN6diOCZPhwDw86vsmipDI6OmSHidZ2FDxkzRrSGYl6mtbTELOfF9qhHjf0WU46WORA2rE1RJABvAL7GFKuZ2/Z7ExZ2Es/ldGUFR0x88ZVDBV7RG9W5RMfBlV9UihtqQ9YiIcizGZvsIiIi+RCk4JVnuw1UT03rsSEmsn0sIAkTlmYhewnReG664o5gcVpAgAPZLkiIkpb;mrSLu/Hda3VSzt9GUP8c3Q=="
 ---
 

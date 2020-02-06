@@ -64,19 +64,6 @@ related:
       - url: "https://www.designnews.com/sites/default/files/Design%20News/Fibre%20optics%20stock%20image.jpg"
         width: 1280
         height: 720
-  - title: "The war rages on for AWS, Azure and Google Cloud: Exploring the battlefield and strategy for 2020"
-    excerpt: "While Google Cloud is seeing areas of success, particularly among high level services around machine learning, there’s a longer game at play According to a recent study from Goldman Sachs, more organisations polled were using Azure for cloud infrastructure versus AWS. It’s worth noting that the twice-annual survey polls only 100 IT ..."
-    publishedDateTime: 2020-01-22T11:49:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2020/jan/22/war-rages-aws-azure-and-google-cloud-exploring-battlefield-and-strategy-2020/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 26
-    images:
-      - url: "https://www.cloudcomputing-news.net/media/img/news/leadership-concept-with-little-green-armed-soldier-toy-picture-id471761466.jpg.600x600_q96.png"
-        width: 600
-        height: 450
 
 secured: "3LNiBdFej0ICyoj56jOtsOqHXjsYa02zHloNE4MAolaO8Wh285/hJ5o0sDR4uFvRNDTnqZguOWbRZTmx0+7SOeTpfBkkegaSt/Ga+1faSF1T0LUa974tLsosE5mF+iGXicWHjY5f/Fjmx6cDA+U7e56+fBkN5VfjJmx2bw0JwEUSDI8c0bSaOPJPm+l3T63LwWRxcvRN0G1tKa2Qi8+h7MRHU0Tk7b4W5eaLJ1xzBppzzdeiGxzZNJuAGY4px7iLV8jsjLTSNrfEpvXUD9cA5F5rcCa5gzVmXjZq/VLgUnhp3EIWMDZpXSIcud9kuKvkhUys2Re1u4UboH4agLLZULpwCC2X+6dL6VXWzQxn68Fh06VzYsfWhRetx7f3L0Dd6cC6W3mgl6yt1kQYDDcOaFmS4ORJlBgcgaqeg0BoH/nphE2lv92RabFylczjqf91HrR/nz1N7g3ECoKqpTOeScOQes9pLUHuYOvOWd7WhCs=;YlpYzFIwusO7MxYoxLEdUw=="
 ---

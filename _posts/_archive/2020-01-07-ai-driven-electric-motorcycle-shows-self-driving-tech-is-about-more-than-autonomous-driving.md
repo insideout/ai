@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-elect
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -34,18 +34,21 @@ related:
     excerpt: "Baidu is developing an open source platform that it hopes will become the \"Android\" of self-driving cars, dubbed Apollo. Microsoft joined Baidu's Apollo \"alliance,\" gaining a channel for sales of ..."
     publishedDateTime: 2020-01-12T00:00:00Z
     webUrl: "https://www.cnbc.com/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
     type: article
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 72
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104935725-GettyImages-902802574.jpg?v=1532563703"
-        width: 2000
-        height: 1219
+    quality: 32
+  - title: "Baidu partners with Wind River for autonomous driving technology"
+    excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
+    publishedDateTime: 2020-01-08T11:12:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
+    type: article
+    provider:
+      name: ET Auto.com
+      domain: indiatimes.com
+    quality: 19
 
-secured: "VGGfwAVNjbsY4ADt1kNbArG3kv2rqCrm/v2XrkcGaoBDImtjl3EzOpHCnXmnzR9DuxsPV/toPqXFeQcKajIDkP4lt4FWt7Lb6sCgOlI1+v/4UU8M31M3zM8Q0lwEVi+yX3W8vScLTEvzUZWQq4Up/sBllcmmkyZvhMJVg7FpgceWwm6fkN3sibEc2rIeG8JTiBG6YUSPzi8Q+3Rj/NFMb0NoHaV5Fsir6/di+/U+8sB8xnCEok33ogfBgzDW6K3r2MsgqZ52mlS8wqdNUURH4dMNll0EtUPWWIxw3+s2sWgd3DvITbFfP+Q0t2UVldi7;LK1Xtv7zEtkOj8a3i2F8sg=="
+secured: "tRlvfYatYfclMQpXXfRQz+iuTSdJRK+tKN+oHYgUH4jyrwfN1Nk2usdFO3or5jxl7yoThGbTBb0nYGsmHhB16cHjfKlLRJitIr+TyzJcBiHz4ve8i5rFpUfyXwwom9v9EOYyb/LMYpa9X50j4R96W4b5xfaBZpr+zUARFb/2SeL5XUUjiMJNQR9USaMaCyRjataobK145T8RqsvAO9eTFVaZk0goLCFAcfQmez1G9xGv3CWg+YHIKh3LP1As77FtwN/UDvMkQxo7MpLgU4krA6bA3Jk9X+cqluN+o0U9BULfJPnMdgqsnjwJ7E35P5KN;OiuL0bPm5kQ3cHAbfUys3g=="
 ---
 

@@ -4,12 +4,10 @@ title: "Nvidia is partnering with Uber, Volkswagen and Baidu on driverless cars"
 excerpt: "Nvidia has partnered with Uber, Volkswagen and China's Baidu in driverless cars Uber will use Nvidia's graphics chips for the artificial intelligence computing system in its fleet of self-driving ..."
 publishedDateTime: 2020-01-08T15:55:00Z
 webUrl: "https://www.cnbc.com/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
-ampWebUrl: "https://www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
 type: article
-quality: 104
-heat: 114
-published: true
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: CNBC
@@ -23,25 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://image.cnbcfm.com/api/v1/image/104932964-GettyImages-609845726.jpg?v=1532563704"
-    width: 1024
-    height: 601
-    title: "Nvidia is partnering with Uber, Volkswagen and Baidu on driverless cars"
-
-related:
-  - title: "Baidu partners with Wind River for autonomous driving technology"
-    excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
-    publishedDateTime: 2020-01-08T11:12:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-    type: article
-    provider:
-      name: ET Auto.com
-      domain: indiatimes.com
-    quality: 39
-
-secured: "AAkHS6RbTcebI6mQfjy9KHpV39vIE/+6kbNKejjrBakp431acZSWS8dA1kifNs8+T5HOTlGiKO90lSMhFlXstEHEPFRxRTvhW1JU2ZfuRhdUGexWCZ4xFdgcT/E4TqVFjtgH+MNHQT0Ad0gUTpkXy6ogDMLMPXsABBSY/b4BH7ia0XbMoQaQBj7mQP3KsXOdDTOsj2HNhnU2L3rDGMSGIP69PVOPLC9QI+SVkv1tEP3KHsIuSaNbKHtTM3FaiQ6AYb11wvvNCFozAVGkQjzaKlDbl8aH5OOyuum5QGRDPXgORnQ5d49pMBIMT5dr8Ovg;6/nu5eC6uN3LgdLqdI/nng=="
+secured: "UqQCbBX0tGtEsGxSlSmG84xxeDIDcXzhmXiA3yI/Jt+ZfxR2a03pfh7ek1c7AWjyt2Ve+eg+678o0ZVUEnRdDva0TV6CWXSezpJjgmvQ2XqQ0AsxB7ypBMM/1qW3juFa41dZ5CX9vOBhPUyg7Uf/Qb6LUTAWqib6vl2CHKY2mFL8D9kustLObHSERQUtqdJSqhgAGY5MtMv1Bilh/J8Ujxz8d++45gyfTO/sBohjP5nPn1n20/Jw8wDDqoq5QxJVoq3Wnui/buQfoKrNoWnLvXafIlKYoifc95oweIPU8PQSxDF64uNCySWfC+FeqrGI;cub39t6jDIWYZNCy6xbiRA=="
 ---
 
