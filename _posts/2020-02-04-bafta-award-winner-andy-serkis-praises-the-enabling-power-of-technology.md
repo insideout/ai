@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/drnancydoyle/2020/02/04/bafta-award-win
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drnancydoyle/2020/02/04/bafta-award-winner-andy-serkis-praises-the-enabling-power-of-technology/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

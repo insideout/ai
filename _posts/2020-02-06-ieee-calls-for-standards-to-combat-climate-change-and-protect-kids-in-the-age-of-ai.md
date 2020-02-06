@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-comba
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         width: 600
         height: 337
 
-secured: "rQnwae1D36guUPBbeq/0Pvc9XOsnlRUD586kILyGpxgl+uzv6tGsyFWBJrFv0IeG6pY42z4jgcOL5tADiL1/y+4N6Hhdsq7c0c7qk+FQ8JSBMUqZvACtedRNW1MBR3ipoD45ryS/esYKWMuuy5LD47LlAp6X5thBWnl2cLbpHiBGdMap6IHWOTVQioXag0eQCvgtJACzcJKRyyH4o0H3neQyDMGUT9WWC2inV1/8YjfRoPBiZjVTewGLgik2o+bjUNBnlLjHAIs2rEYUJ7vC8qf6VcL2TQ6bg62+oYo3Q/GwK0WPzf4iAzF7CRo+X6ebAnWBvIXLssKLOZK4zSRDBSP91JPte6umzbeozurdLgnmLIlAu9BpXc0QhvlfIuHT/hGUg9lWasUbbok7iwp8Q2gZM24YdO4DbYtgxxOa6b8xh6SC+xkfPtYdszK1CIZiabZIKgPlO1hvyxtqNYp+pdT1XDmquuymG/Iq1RQ27ZE=;g+kjvyBrpqfee1XReRMLzA=="
+secured: "+o1d/EBGEd0ItZrHCdDVKNKiALSLrj0g1tT/3oJsNnJMA8cO8MlfUeskBzIMP58O9ovb8RFpR1o0N3itk7eUdIQl4gU47w5WbZnJaB7D+Akh8f9ClcdgQWtyLYeR0VjJxqRoJ/ae5sRhEtQssmzWmJjShzhF5PzvJbsb3MZ3eZGAmjImwTa5ET/zOdIt+RdfmSTwXwwFLVkLFrRCowMXTsh2qSbUyj7aWf/f5JFw6mqy71MWGtla9tPDkljXisFkL5bx68XoE1s3V1220wwSUOMlOBCgoaQQzh1W4sI9Z/AQXB8bjFMr0BKypachsNy/OHbXJ7Dpus0KhyaD1JWLzBJpNM0yuR5vpR8n6Bohe1KNAFLFv0fj4TzMPUgPeX8XtXWPbGoep5pSbwR5GgHTdNhKcxvff1oI3ryQNQFDh4nXKA9K1T4zbCtEFfn8TBp+WTlJP4XwMltXb6hU194pWd8K1bdi+oW9c9T/WY7L5VI=;mctrYKej6sZ8+ZPMPE2hPg=="
 ---
 

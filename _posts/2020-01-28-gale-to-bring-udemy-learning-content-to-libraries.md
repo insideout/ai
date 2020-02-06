@@ -123,6 +123,19 @@ related:
       - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/Research_Podcast_Jianfeng_Social_1200x627.png"
         width: 1200
         height: 627
+  - title: "Starship delivery robots indicate groundbreaking food delivery tech advancing into Madison"
+    excerpt: "Now, three months after being introduced, these robots are in southeast and their AI (artificial intelligence) has greatly improved. They now cross streets faster, though still with some difficulty (missing traffic lights), and can navigate through more environments. If a robot does get stuck, they can be remotely controlled by a human to help ..."
+    publishedDateTime: 2020-02-06T17:23:00Z
+    webUrl: "https://www.dailycardinal.com/article/2020/02/robots-indicate-greater-food-delivery-tech"
+    type: article
+    provider:
+      name: Daily Cardinal
+      domain: dailycardinal.com
+    quality: 29
+    images:
+      - url: "https://snworksceo.imgix.net/car/34a76c62-7835-44ec-b09c-8156ef641ec0.sized-1000x1000.jpeg?w=1000"
+        width: 1000
+        height: 600
   - title: "Plannuh Raises $4 Million To Expand AI-Driven Marketing, Budgeting and Planning Platform"
     excerpt: "/PRNewswire/ -- Plannuh, a startup transforming the way marketers plan and budget, today announced a $4 million seed round co-led by Glasswing Ventures"
     publishedDateTime: 2020-02-06T12:00:00Z

@@ -27,6 +27,6 @@ images:
     height: 630
     title: "OSS Expands AI on the Fly(R) Product Line, Adding PCI Express 4.0 Expansion System with Eight NVIDIA V100S Tensor Core GPUs"
 
-secured: "dkufE+sjjDCSmhQ0rECpsWlUo71NzjwhOsuRocAlagrq3K0VlipTw1RaX4mwYOkC2+MGat91lUMPmJqx/IJOaoEd1aGAHEC/rVWOiQMX46ZirrgTJHEBDqsp8YLbn8Wu3T3MxhCKxqqTXQKf3tX8EO2f9KAKyd7FH3qEMX47Mvbrwz9KWF5INEij6akSKMYHQ1WBbdjqz1oiKBJWrdt3rl/9/CH7fU39sGh6OpAcBE7h4tYSYf4S7qRM0mi2dSn2JPD9hqDLJa88hiAQn8mDquTuzsvPFael3YA5FoR6g8+LLkrnFqciQJNuFsYhmrBZ;V3Do91CAqibBikRhCoxgiw=="
+secured: "IJ2346mpiVImkZH5mFVjfkI4jgg+dBof1oM6zxlQgLjb178L6cwiyWhNgdSkkdCzK1mQ+S1x101mzY/GgUZasVMgkEMUc+6/Yfpq0db+mwFnCaHikMnZlIcKxJHDLCha7u3QCs5Pf/ta85UDmHq6B+4SfnHoQtZCEpgnUXY5E3mM2XQqyrRXd7dxC0GJBWwpzqpD38lkj+4cpzfLwu83BX+qq+i/i7nDdBQP1OwyEOzeeUeIWs1DLJYD8y0eZdcy+UcHVhZfDPsunbW2CBum3cZgqZwbjKr/XMBoMx0PeHZBXp6UBn65/O+X4vCMyS3o;rjWT1y5pl9N5FCroTgGWYw=="
 ---
 

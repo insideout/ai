@@ -1,8 +1,8 @@
 ---
 category: news
 title: "AB InBev Taps Machine Learning to Root Out Corruption"
-excerpt: "The company that stands out for taking a data-driven approach to preventing bribery and corruption isn’t part of the tech sector. In fact, its product predates the wheel."
-publishedDateTime: 2020-01-17T15:30:00Z
+excerpt: "Anheuser-Busch InBev SA, the world’s largest brewer, has spent three years developing machine-learning technology ... their various operational and financial data,” said Hui Chen, an ..."
+publishedDateTime: 2020-01-17T10:30:00Z
 webUrl: "https://www.wsj.com/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001"
 ampWebUrl: "https://www.wsj.com/amp/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001"
@@ -29,6 +29,6 @@ images:
     height: 640
     title: "AB InBev Taps Machine Learning to Root Out Corruption"
 
-secured: "hwoooYoxi/8VEYOp1oPUvQtvMgKAbxLM4I6wNVbdEIZAevEcYmI0ybMOdCMgF0TpLF9EII9HFolXT2TqxkT/6jUcXVGOTo2DdWIzKIKaKlSIZ0dDE6dcz/7FGtJPqFxTIF5PFKV1KIQZDrNUiylnn47DcTqTg799GRqy/82Nd29uapAUZFslB22lbb17Q29bYqwOxLDT0yiIAEvl5u5OM7XXajsEO+ZcVLJWGJ84j7Hpq/HQrkptvVlb06/UGSoRSJBO4zqrqhx3hMYnx0cZEreNjX8iBioqX1ksYcIOXFLNp2hxe36rt4kK4FC4WasT;HdHIL7yodmSJd6+7e/K0WQ=="
+secured: "PE0cP9aKGtzW9JvEGkIBusoC7ipCUrxVoV1RUczpqxGTa5lrC9olSkLgQxZZQHkZnTs5ERlD71pnrP41PYh/GvfCar2P43DUt0Itbm7g0cjE+mUD6fHa5KJCYthdDMMRNLcsgYcJdPdzNyiAxHE9KxVUQkltRjoSrBkKckcjpCYUJqADeSCvcYFBlBmIfvTAWqC8VEW9fDs4+/Yllh/odVqkas8LDqzNniuBu/15vC6XPQgDdqNKoDlwu49o2u8tKDHDsjIT/mUvhflEpSehmDw/EOZhj84E/JoKDb86EVOHXpH0D5KfBQ4O5j0lIOxz;Fhq9csh8svtI1nJWLufQ8A=="
 ---
 

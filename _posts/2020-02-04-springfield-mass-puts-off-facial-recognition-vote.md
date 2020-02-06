@@ -99,6 +99,21 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_387869113.jpg"
         width: 946
         height: 630
+  - title: "Groups Call on Chicago to Ban Facial Recognition Technology"
+    excerpt: "(TNS) — Chicago Mayor Lori Lightfoot should ban the city’s use of facial recognition technology of the kind the Chicago Police Department utilizes on the grounds it’s racially biased and an invasion of residents’ privacy, a group of activists said Tuesday. The groups want to halt the department’s new contract to use technology ..."
+    publishedDateTime: 2020-02-06T22:37:00Z
+    webUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
+        width: 1119
+        height: 630
   - title: "Facial recognition scanners at US airports under more scrutiny"
     excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
     publishedDateTime: 2020-02-03T23:58:00Z

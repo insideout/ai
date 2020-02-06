@@ -54,21 +54,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/01/29/mask_3.jpg?itok=o51DKRSy"
         width: 1200
         height: 630
-  - title: "Inside Clearview, the secretive facial recognition start-up that can reveal your identity from single photo"
-    excerpt: "Clearview AI, which operates out of a WeWork office on W 29th Street, has created a powerful facial recognition tool by scrapping billions of images of individuals from publicly available sites such as Facebook and YouTube, which can be searched in seconds. Its technology is being used by approximately 600 law enforcement agencies in the US to ..."
-    publishedDateTime: 2020-01-23T06:00:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/01/23/inside-clearview-secretive-facial-recognition-start-up-can-reveal/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/01/23/inside-clearview-secretive-facial-recognition-start-up-can-reveal/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/23/inside-clearview-secretive-facial-recognition-start-up-can-reveal/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 41
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/22/Facial-Rec_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg"
-        width: 858
-        height: 536
   - title: "The rise of facial recognition technology: where we are and what to expect"
     excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the first article in a two-part series examining the rapid rise of facial recognition technology. Part one discusses the use of facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal landscape ..."
     publishedDateTime: 2020-02-04T12:04:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://mspoweruser.com/microsoft-announces-changes-to-office-com-an
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-announces-changes-to-office-com-and-office-365-app-launcher/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 81
 published: true
 
 provider:
@@ -53,6 +53,6 @@ related:
         width: 300
         height: 300
 
-secured: "e1/5IH0OiWYDVsH+qg8ghBMcNbG6v7qTA/oYaBl1oQQg/kYMHsrnKt4M+Fh5VC07Z+BPo/qPEIMVZ1JFNVWuL3961eOqDy04z7Hw8g9Nd/70sFPPZfLj2QOwkmDpO+BagSBEzW1cPwhosbNQTU/l1xj0JEUohAVsU3q98YloIsLoIlhMjiOSeELHS4bNYo3UMT//ccfnD6R2y1PRFGzwDDCBdLVWvPSjz6Ib2GHRaTP6Ww4xjyPEZQGqVk4gLy1PpmAalcDfyMyqk8JIadHNMpIbvsOorQDiqBGhJ11A4eTbqKLkb99tK7lB/eMWAWlA;TtpukRKNkA006SqM+q8feQ=="
+secured: "GB1ySaXJWU5mMEJjRmfdY46G1oQ0N9W/uapFnfgaxc1z+Yk85ddL5cjbq4HPgXST0kSya7d5Ja9w3wadrsEk4t3g0LJYFHheCzVcRzZ93mu5EXLLNMdPpt2KutOS3eUs8Il8L+M05eIvRnGTz9MvNsRjtPMfURGJSl+/UZmZQ3Q6RI6IMszrRDK0L7GBTq1bdna6LOE9AZL2/6U7x1KUScsJEYRskQYdxSisNi2Y++uguQaGXh6tny/q9aLkJN2dYjk1QGZNX7sNm6OHkrWMTRNuBivLik08JN/oUgBzgIy8SL2vNjutcgYQYKDaUNeF;0LHWmhS5y0sCxq47TKIa6Q=="
 ---
 

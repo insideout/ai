@@ -24,92 +24,143 @@ images:
     title: "NJ lawmakers debate cops’ use of facial-recognition tech"
 
 related:
-  - title: "Moscow Court Case Challenges City's Facial Recognition Use After Launch"
-    excerpt: "A court on Friday will hear a legal challenge to Moscow's rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month."
-    publishedDateTime: 2020-02-03T15:07:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/02/03/technology/31reuters-russia-technology-facialrecognition.html"
+  - title: "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns"
+    excerpt: "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer."
+    publishedDateTime: 2020-02-06T22:05:00Z
+    webUrl: "https://www.wsj.com/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462"
+    ampWebUrl: "https://www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 88
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+      - url: "https://images.wsj.net/im-151698/social"
+        width: 1280
+        height: 640
+  - title: "U.S. Homeland Security has used facial recognition on over 43.7 million people"
+    excerpt: "This morning in a hearing before House lawmakers on Capitol Hill, Department of Homeland Security (DHS) officials detailed the administration’s use of facial recognition technologies across the ..."
+    publishedDateTime: 2020-02-06T22:15:00Z
+    webUrl: "https://venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/"
+    ampWebUrl: "https://venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/OnPaste.20200206-165030.png?fit=2560%2C1440&strip=all"
+        width: 2560
+        height: 1440
+  - title: "Assembly committee ponders use of facial recognition technology"
+    excerpt: "There’s a facial recognition app local law enforcement has used to identify potential suspects in a criminal investigation, but no more. The state attorney general has banned the use of Clearview AI. It all stems from concerns over the software ..."
+    publishedDateTime: 2020-02-03T22:57:00Z
+    webUrl: "https://www.njtvonline.org/news/video/assembly-committee-ponders-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: NJTV
+      domain: njtvonline.org
+    quality: 39
+    images:
+      - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
+        width: 1920
+        height: 1080
+  - title: "EU Prepares for Coming of Facial Recognition– On Its Privacy Terms"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy. Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next ..."
+    publishedDateTime: 2020-02-03T12:59:00Z
+    webUrl: "https://www.insurancejournal.com/news/international/2020/02/03/557118.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 39
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
+        width: 900
+        height: 598
+  - title: "Facial recognition technology helps Volusia County make arrests in 4 cases"
+    excerpt: "VOLUSIA COUNTY, Fla. — Thanks to facial recognition technology, the Volusia County Sheriff’s Office was able to make four arrests out of 30 cases last year. The Sheriff’s Office is using a database of more than 2 billion photos including those on social media and other public sites. The department purchased a license to give the new ..."
+    publishedDateTime: 2020-02-04T02:19:00Z
+    webUrl: "https://www.wftv.com/news/local/volusia-county/facial-recognition-technology-helps-volusia-county-make-arrests/Q6YYQDNJQNC6RJQDW5BZU7CQW4/"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 37
+    images:
+      - url: "https://www.wftv.com/resizer/-nAp2UpM5mI0OsyKgu3KnyTIIk4=/1200x628/d1hfln2sfez66z.cloudfront.net/02-04-2020/t_623fb723a99a4dc1bcd5790a0f4c3715_name_VOL_AI_FACIAL_RECOG_TECH.jpg"
+        width: 1200
+        height: 628
+  - title: "House Hearing on Facial Recognition Technology Uses at Homeland Security Dept."
+    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
+    publishedDateTime: 2020-02-06T17:06:00Z
+    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+    images:
+      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
         width: 1200
         height: 630
-  - title: "Springfield City Council finalizes facial recognition ordinance"
-    excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council further discussed a possible ban on facial recognition technology Wednesday. The city council’s public safety subcommittee met to finalize an ordinance to introduce at the next city council meeting."
-    publishedDateTime: 2020-01-30T01:31:00Z
-    webUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/"
-    ampWebUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/amp/"
-    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/amp/"
+  - title: "Telangana municipal elections: Face recognition app yielded 80% accuracy in polls, say officials"
+    excerpt: "Otherwise the result would have been above 90 per cent. Even then the result was encouraging, the official said. The Telangana State Election Commission used facial recognition app in a bid to counter impersonation of voters. The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an ..."
+    publishedDateTime: 2020-02-04T11:29:00Z
+    webUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/"
+    ampWebUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
     type: article
     provider:
-      name: WWLP
-      domain: wwlp.com
-    quality: 59
-    images:
-      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2020/01/facial-recognition-ordinance.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
-  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition settlement"
-    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
-    publishedDateTime: 2020-02-03T23:02:00Z
-    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
-    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 26
+  - title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
+    excerpt: "Online dating giant Match Group is launching selfie biometrics to help protect people using its apps, partypoker is considering the technology to curtail bots, multi-accounting, and ghosting, local elections in Kompally, India have authenticated voter identity with facial recognition through a smartphone, Alipay technology is being used for car ..."
+    publishedDateTime: 2020-02-03T20:25:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-to-verify-dates-gamblers-voters-car-rentals-and-online-exam-takers"
     type: article
     provider:
-      name: Canoe.com
-      domain: canoe.com
-    quality: 50
-    images:
-      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
-        width: 1000
-        height: 750
-  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
-    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
-    publishedDateTime: 2020-02-03T23:00:00Z
-    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
-    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    type: article
-    provider:
-      name: Canoe.com
-      domain: canoe.com
-    quality: 46
-    images:
-      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
-        width: 1000
-        height: 750
-  - title: "Springfield City Council debates, postpones vote banning police use of facial recognition technology"
-    excerpt: "SPRINGFIELD -- After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
-    publishedDateTime: 2020-02-04T02:51:00Z
-    webUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 44
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QCLDUALHANGKPFFLNERXQHYXQQ.jpg"
-        width: 2016
-        height: 1512
-  - title: "Veridium Launches Facial Recognition Technology vFace Alongside Behavioural Biometric Capabilities"
-    excerpt: "/PRNewswire/ -- Authentication platform Veridium launches its facial recognition technology, vFace. This software makes facial recognition more"
-    publishedDateTime: 2020-02-04T14:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/veridium-launches-facial-recognition-technology-vface-alongside-behavioural-biometric-capabilities-300998683.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 25
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+  - title: "Christopher Elliott: Facial-recognition technology stokes privacy concerns"
+    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
+    publishedDateTime: 2020-02-02T05:08:00Z
+    webUrl: "https://www.sunjournal.com/2020/02/02/christopher-elliott-facial-recognition-technology-stokes-privacy-concerns/"
+    type: article
+    provider:
+      name: Sun Journal
+      domain: sunjournal.com
+    quality: 22
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/11/2019/02/Christopher-Elliott.jpg"
+        width: 450
+        height: 366
+  - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
+    excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
+    publishedDateTime: 2020-02-04T23:36:00Z
+    webUrl: "https://www.nbcchicago.com/news/local/chicago-area-groups-demand-end-to-facial-recognition-amid-concerns/2213205/"
+    type: article
+    provider:
+      name: NBC Chicago
+      domain: nbcchicago.com
+    quality: 19
+  - title: "Army researchers investigate long-range facial recognition by combining infrared sensors and face databases"
+    excerpt: "Stars and Stripes reports. Continue reading original article The Military & Aerospace Electronics take: 4 Feb. 2020 --The advanced facial recognition technology could aid soldiers in the field, but comes with some growing cyber security challenges ..."
+    publishedDateTime: 2020-02-04T11:47:00Z
+    webUrl: "https://www.militaryaerospace.com/sensors/article/14104030/facial-recognition-infrared-sensors"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 1
 
 secured: "l1j+11v7RBCeE8+ASZIZR6SxIZlaRmcHEVMtlPE8YFEVNxles4GCYXqnwqo0+WHegD8bA8oxDebXtolAEkb2Oj6yGgm+v3u2PDvnswwdfw+YQbpN/nYLNjEEJP9eIniU/ZZH9o47D9HavHzVszycXvO6A24TAixW2GYeoVe+VZap27erSfv+uyHnT56RomzWvFp3L0ysk3TvZhFM+zt6Rtx0lHiCfsiC2RIlXtrKz7yjm1YEddlQYxzbNQTlDxhUp6BVyP631TnqMQg3EqXSe6Xth+TwvV3wHb6qFxA9DfRvtrefxyYKsIx9dOG7JfTG;tAPWvkEft3HY2uOebkTE4g=="
 ---

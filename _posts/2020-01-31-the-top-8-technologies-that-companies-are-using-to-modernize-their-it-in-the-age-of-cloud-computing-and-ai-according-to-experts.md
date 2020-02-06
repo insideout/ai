@@ -114,6 +114,19 @@ related:
       - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/Research_Podcast_Jianfeng_Social_1200x627.png"
         width: 1200
         height: 627
+  - title: "Starship delivery robots indicate groundbreaking food delivery tech advancing into Madison"
+    excerpt: "Now, three months after being introduced, these robots are in southeast and their AI (artificial intelligence) has greatly improved. They now cross streets faster, though still with some difficulty (missing traffic lights), and can navigate through more environments. If a robot does get stuck, they can be remotely controlled by a human to help ..."
+    publishedDateTime: 2020-02-06T17:23:00Z
+    webUrl: "https://www.dailycardinal.com/article/2020/02/robots-indicate-greater-food-delivery-tech"
+    type: article
+    provider:
+      name: Daily Cardinal
+      domain: dailycardinal.com
+    quality: 29
+    images:
+      - url: "https://snworksceo.imgix.net/car/34a76c62-7835-44ec-b09c-8156ef641ec0.sized-1000x1000.jpeg?w=1000"
+        width: 1000
+        height: 600
   - title: "Plannuh Raises $4 Million To Expand AI-Driven Marketing, Budgeting and Planning Platform"
     excerpt: "/PRNewswire/ -- Plannuh, a startup transforming the way marketers plan and budget, today announced a $4 million seed round co-led by Glasswing Ventures"
     publishedDateTime: 2020-02-06T12:00:00Z
@@ -154,6 +167,6 @@ related:
         width: 336
         height: 224
 
-secured: "ALfInpQLpIE9++opaizZfF+c86sqYyZHJiUaatC1tjAO1bIgia41Mpa6t0hvtTHCsKeDh5jUZjZrun2WjNCAR2HYzg8mV6RruWlnV/RS31NWRCYxy7vjpSJg9SEgkHkbEe675xsCLpK2cbKm6gOkTKZ2Uqhk0cgCFaTWtF+RytYWoybvyb+UAYCalFRj04BgdZD15/F9RrUHTgxpyb33Oh50wFhEl4e/74eKGgoRMmdFZ6icRiTsPqBnsKo4BgRBG6n9t2gQ16FcLxzk+sxCkyMwAmSkdHG3PzWuuVJY45SGXZuwMqAg3b68J2OhPO6K;5LswA3hFpXwBG4CV6bARpg=="
+secured: "MwJFOdHUjjOktARQXAjplbjjbFnIq+ijR9F6aQFoNhWYeGBn0vXG5umJ9Ov7t46iEh8GZEoRmAMBVIj8G23Kf1f45tqKTQaOsxVFv11XCz0HntLqZLfd4JjpyTEv2Wf6n3RdN0pcJY3efK06qGf1o+GH0VmtU5b7LXBQ3YT1JEcJ0nHCE3L+iuEWuwHn6A+4lOdrjltJ5AHwBIpEs5vvUcdU4nMj3MDbmqEL5GMxOmf6/89suXuazGUsLLg6j0HGU4V1mZH5zsmb7NRVM5C4b2p8/ovkzO+cyN4JmTZTv7OOfEh1eI8AHoPDgSKQKBCEdO15pkD9maxwyr4z/EfgfHsMs8Ph3vWUdWXZgmipnicsfOkFMVzq0+vsM9lA5XBv3YO5rpz2BjGVJpNMAXGpSQuMCbtMB6I7T2AGI3XKQG9CT44xiob1WoHa9PsDAFoHSWsJKSe8/XIyIe6+n2ZAtVGZtF3XG/KSQlwXQkpWGWw=;oQbev0rdeA9+Q8jxratJWg=="
 ---
 

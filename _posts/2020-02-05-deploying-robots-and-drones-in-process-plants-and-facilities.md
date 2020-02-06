@@ -24,6 +24,19 @@ images:
     title: "Deploying robots and drones in process plants and facilities"
 
 related:
+  - title: "JD Logistics prepares to launch robots and drones in sickened Wuhan"
+    excerpt: "Chinese e-commerce marketplace operator JD Logistics is turning to robots and drones in its continuing effort to sustain last-mile ... \"highly efficient fulfillment centers that integrate intelligent logistics technologies such as artificial intelligence (AI), deep learning, and image recognition, with over 70 varying degrees of automation ..."
+    publishedDateTime: 2020-02-06T22:00:00Z
+    webUrl: "https://www.dcvelocity.com/articles/20200206-jd-logistics-prepares-to-launch-robots-and-drones-in-sickened-wuhan/"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 39
+    images:
+      - url: "https://www.dcvelocity.com/images/articles/2020/202002/20200206news_jd_robot.jpg"
+        width: 402
+        height: 262
   - title: "All you need to know about deploying RPA for Invoice Processing and Accounting Processes in 2020"
     excerpt: "As soon as a new file is found, the RPA robot picks it up for data extraction. Using intelligent Optical Character Recognition (OCR) and Natural Language Processing (NLP) capabilities, software robots read and extract information available in the invoice. These robots then use their access to the company's database to update the extracted ..."
     publishedDateTime: 2020-02-04T09:30:00Z

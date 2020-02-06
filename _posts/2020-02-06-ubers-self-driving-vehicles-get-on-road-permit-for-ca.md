@@ -95,6 +95,21 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F41%252F6dbf2321169546b59f2824c00e412c3e.c5ea3.jpg%252F1200x630.jpg?signature=I_ow8ZLykAFPeh2pVmw8UK5sd68="
         width: 1200
         height: 630
+  - title: "Nuro self-driving car gets US DOT's blessing"
+    excerpt: "California-based Nuro has made history. Perhaps not the biggest splash, but in one small step for self-driving cars, Nuro's driverless R2 has received the first approved exemption from the US Department of Transportation. The exemption allows Nuro to operate its latest R2 self-driving car on public roads despite it having no human-driver controls."
+    publishedDateTime: 2020-02-06T22:00:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/nuro-r2-self-driving-car-delivery-vehicle/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nuro-r2-self-driving-car-delivery-vehicle/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-r2-self-driving-car-delivery-vehicle/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/8k-lRQK2Dutoix3kDWRdfo1bBIc=/2020/02/06/26455c98-4cd8-44fa-a8b3-880df866df5c/ogi-nuro.jpg"
+        width: 1200
+        height: 630
   - title: "Uber gets California DMV license to test self-driving cars on public roads"
     excerpt: "In May 2018, Uber announced it wouldn’t renew its permit to test self-driving vehicles in California, citing caution in the wake of a fatal accident involving one of its autonomous cars in Arizona. (The California Department of Motor Vehicles requires that companies apply to test autonomous cars in the state.) But in a bid to close the gap wi ..."
     publishedDateTime: 2020-02-05T17:00:00Z
@@ -149,6 +164,17 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F626535545%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5594%26cropY1%3D275%26cropY2%3D3421"
         width: 1200
         height: 675
+  - title: "Uber cleared to restart self-driving car testing in California"
+    excerpt: "Uber is the latest company that California has granted a permit to test self-driving vehicles — with a trained human driver still present. Reuters reports that California’s Department of Motor Vehicles issued Uber the permit on Wednesday, February 5. The permit was issued to Uber Advanced Technologies Group (ATG), which is tasked with ..."
+    publishedDateTime: 2020-02-06T21:27:00Z
+    webUrl: "https://www.digitaltrends.com/news/uber-self-driving-testing-california/"
+    ampWebUrl: "https://www.digitaltrends.com/news/uber-self-driving-testing-california/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/uber-self-driving-testing-california/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
   - title: "UPS testing self-driving minivans in Arizona"
     excerpt: "ARIZONA (WSYR-TV) — UPS will start testing out self-driving minivans in the Phoenix area in the coming weeks. The tests will involve Chrysler minivans delivering packages from UPS stores to a sorting facility in Tempe, Arizona. Deliveries to customers’ doorsteps are not in the cards for now and during those tests, a driver will be on board ..."
     publishedDateTime: 2020-01-30T17:37:00Z

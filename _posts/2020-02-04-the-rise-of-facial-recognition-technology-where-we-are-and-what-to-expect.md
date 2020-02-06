@@ -67,21 +67,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/01/29/mask_3.jpg?itok=o51DKRSy"
         width: 1200
         height: 630
-  - title: "Inside Clearview, the secretive facial recognition start-up that can reveal your identity from single photo"
-    excerpt: "Clearview AI, which operates out of a WeWork office on W 29th Street, has created a powerful facial recognition tool by scrapping billions of images of individuals from publicly available sites such as Facebook and YouTube, which can be searched in seconds. Its technology is being used by approximately 600 law enforcement agencies in the US to ..."
-    publishedDateTime: 2020-01-23T06:00:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/01/23/inside-clearview-secretive-facial-recognition-start-up-can-reveal/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/01/23/inside-clearview-secretive-facial-recognition-start-up-can-reveal/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/23/inside-clearview-secretive-facial-recognition-start-up-can-reveal/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 41
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/22/Facial-Rec_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg"
-        width: 858
-        height: 536
   - title: "Landis+Gyr's Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
     excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not \"smart.\" Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
     publishedDateTime: 2020-01-29T14:09:00Z

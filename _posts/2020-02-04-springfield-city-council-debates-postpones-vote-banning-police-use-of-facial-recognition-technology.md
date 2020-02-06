@@ -97,19 +97,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-  - title: "NJ lawmakers debate cops’ use of facial-recognition tech"
-    excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
-    publishedDateTime: 2020-02-05T18:05:00Z
-    webUrl: "https://www.policeone.com/legal/articles/nj-lawmakers-debate-cops-use-of-facial-recognition-tech-BgMvDd7mHLgZOBsI/"
-    type: article
-    provider:
-      name: PoliceOne
-      domain: policeone.com
-    quality: 24
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
-        width: 757
-        height: 667
 
 secured: "pAW0cHjEhH634nY6KEOvD2NCy2Z4sW43Hbvls2Y3NAnJSRHtouvqYaQLG8lJkbpN0TqPDSw0a0KaNvtXn8uvkWfj+xDlQI+mt6ItNQanQaXgJflbNM31uGLSInB/zotNBqBQofAHtbsjQYIXGejL4lZN9ivT8bm7DCQ+UR5X/n5+FttZ1O09/i+wEd3Znpj63vS3OgXpKqTF/i+hR/9s8RDZSqZUjDeWKB1e6CJfbLO7Gr41vPAdMDyS2yIrBDeZcamy18AS5B0b0c2USsMhkAcZXUXEorOJGBATXqNULMPiMnfiXrnllDDjjXBfa31DI8Dkj9Teng62yKToTAn8BRdjUaGZiBRO9r/uLdmbBNC/jcqME0DIdOGrDGzYch3hLazDt1QpJ1jbA1i0oz+ffS7ZaBAXX8liG0qxPDW2vnOhpI8JN0+Uo/r2pCXrBwKWM1XEtV5n2lWLp3+xFaPbeZBaWATkfJgbwPu4igP6xbw=;HbYwZ0B7v5tux43P2wvLOw=="
 ---

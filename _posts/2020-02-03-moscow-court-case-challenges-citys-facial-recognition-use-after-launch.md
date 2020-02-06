@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T15:07:00Z
 webUrl: "https://www.nytimes.com/reuters/2020/02/03/technology/31reuters-russia-technology-facialrecognition.html"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -101,19 +101,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-  - title: "NJ lawmakers debate cops’ use of facial-recognition tech"
-    excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
-    publishedDateTime: 2020-02-05T18:05:00Z
-    webUrl: "https://www.policeone.com/legal/articles/nj-lawmakers-debate-cops-use-of-facial-recognition-tech-BgMvDd7mHLgZOBsI/"
-    type: article
-    provider:
-      name: PoliceOne
-      domain: policeone.com
-    quality: 24
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
-        width: 757
-        height: 667
 
 secured: "LYWxfjarPSIwutwTm560FcnH4ewZsGNupy3lZltsgIkHU37STOwZwNYlO26iRMp3htiX0PkiXPEN3LtYBQJMez2kUPElP6wk0eANUyrV3u5KwALx0Iw8QLMS5XqN3lePIFVgfdDEZm6uiGIc8yvWVYPa8KyrwbOVsBGr1tlD1p1v/fyvrjcCxM321rQZ+l7zJI/pkRn9R1rAJMrsJq0zwE8lhkolF94eU1soU0UWyMoVgu77Yo2B6kCuqPnQuwT01RuD56yOM1fw4DFgQlTvo4s7sVFJzJNyh7XAWBnhPTeGL7x0CdNQzzom+XRfTmDt;YutyJqce1Om4t4tT0jrNng=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-te
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/"
 type: article
 quality: 223
-heat: 234
+heat: 233
 published: true
 
 provider:

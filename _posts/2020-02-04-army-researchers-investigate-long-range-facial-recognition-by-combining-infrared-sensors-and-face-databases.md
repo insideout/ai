@@ -18,21 +18,49 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
-    excerpt: "FACIAL recognition technology is being used in an increasing number of airports around the world to speed up the time it takes for passengers to go through security. But it comes with growing concern over privacy as it's revealed photos of travellers could be stored for up to 75 years. Philadelphia International Airport (PHL) is the latest to ..."
-    publishedDateTime: 2020-02-04T11:36:00Z
-    webUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/"
-    ampWebUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+  - title: "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns"
+    excerpt: "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer."
+    publishedDateTime: 2020-02-06T22:05:00Z
+    webUrl: "https://www.wsj.com/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462"
+    ampWebUrl: "https://www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 62
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 88
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
-        width: 960
+      - url: "https://images.wsj.net/im-151698/social"
+        width: 1280
         height: 640
+  - title: "U.S. Homeland Security has used facial recognition on over 43.7 million people"
+    excerpt: "This morning in a hearing before House lawmakers on Capitol Hill, Department of Homeland Security (DHS) officials detailed the administration’s use of facial recognition technologies across the ..."
+    publishedDateTime: 2020-02-06T22:15:00Z
+    webUrl: "https://venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/"
+    ampWebUrl: "https://venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/OnPaste.20200206-165030.png?fit=2560%2C1440&strip=all"
+        width: 2560
+        height: 1440
+  - title: "Assembly committee ponders use of facial recognition technology"
+    excerpt: "There’s a facial recognition app local law enforcement has used to identify potential suspects in a criminal investigation, but no more. The state attorney general has banned the use of Clearview AI. It all stems from concerns over the software ..."
+    publishedDateTime: 2020-02-03T22:57:00Z
+    webUrl: "https://www.njtvonline.org/news/video/assembly-committee-ponders-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: NJTV
+      domain: njtvonline.org
+    quality: 39
+    images:
+      - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
+        width: 1920
+        height: 1080
   - title: "EU Prepares for Coming of Facial Recognition– On Its Privacy Terms"
     excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy. Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next ..."
     publishedDateTime: 2020-02-03T12:59:00Z
@@ -46,28 +74,91 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
         width: 900
         height: 598
-  - title: "Is facial recognition technology worth the privacy trade-off?"
-    excerpt: "Topic one: Where’s the line between privacy and the safety that could be offered by facial recognition technology? At a hearing Monday, the committee took testimony on a bill that would require police departments to hold a public hearing before using facial recognition technology. There wasn’t a vote scheduled. “It’s clear that the ..."
-    publishedDateTime: 2020-02-04T09:05:00Z
-    webUrl: "https://nj1015.com/is-facial-recognition-technology-worth-the-privacy-trade-off/"
+  - title: "Facial recognition technology helps Volusia County make arrests in 4 cases"
+    excerpt: "VOLUSIA COUNTY, Fla. — Thanks to facial recognition technology, the Volusia County Sheriff’s Office was able to make four arrests out of 30 cases last year. The Sheriff’s Office is using a database of more than 2 billion photos including those on social media and other public sites. The department purchased a license to give the new ..."
+    publishedDateTime: 2020-02-04T02:19:00Z
+    webUrl: "https://www.wftv.com/news/local/volusia-county/facial-recognition-technology-helps-volusia-county-make-arrests/Q6YYQDNJQNC6RJQDW5BZU7CQW4/"
     type: article
     provider:
-      name: WKXW
-      domain: nj1015.com
-    quality: 39
+      name: WFTV
+      domain: wftv.com
+    quality: 37
     images:
-      - url: "https://townsquare.media/site/385/files/2020/02/GettyImages-1198303844.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+      - url: "https://www.wftv.com/resizer/-nAp2UpM5mI0OsyKgu3KnyTIIk4=/1200x628/d1hfln2sfez66z.cloudfront.net/02-04-2020/t_623fb723a99a4dc1bcd5790a0f4c3715_name_VOL_AI_FACIAL_RECOG_TECH.jpg"
         width: 1200
-        height: 833
-  - title: "Consumers Warm Up to Facial Recognition to Keep Them Safe, but for Marketing and Advertising, No Thanks"
-    excerpt: "As facial recognition systems become increasingly accurate, more governments and law enforcement organizations are tapping them to verify people’s identities, nab criminals and keep transactions secure. In recent months, France’s government announced a nationwide facial recognition ID program, a UK court ruled that live facial recognition ..."
-    publishedDateTime: 2020-01-29T02:39:00Z
-    webUrl: "https://www.emarketer.com/content/consumers-warm-to-facial-recognition-to-keep-them-safe-but-for-marketing-and-advertising-no-thanks"
+        height: 628
+  - title: "House Hearing on Facial Recognition Technology Uses at Homeland Security Dept."
+    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
+    publishedDateTime: 2020-02-06T17:06:00Z
+    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
     type: article
     provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 3
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+    images:
+      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+        width: 1200
+        height: 630
+  - title: "Telangana municipal elections: Face recognition app yielded 80% accuracy in polls, say officials"
+    excerpt: "Otherwise the result would have been above 90 per cent. Even then the result was encouraging, the official said. The Telangana State Election Commission used facial recognition app in a bid to counter impersonation of voters. The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an ..."
+    publishedDateTime: 2020-02-04T11:29:00Z
+    webUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/"
+    ampWebUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 26
+  - title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
+    excerpt: "Online dating giant Match Group is launching selfie biometrics to help protect people using its apps, partypoker is considering the technology to curtail bots, multi-accounting, and ghosting, local elections in Kompally, India have authenticated voter identity with facial recognition through a smartphone, Alipay technology is being used for car ..."
+    publishedDateTime: 2020-02-03T20:25:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-to-verify-dates-gamblers-voters-car-rentals-and-online-exam-takers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 25
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+  - title: "NJ lawmakers debate cops’ use of facial-recognition tech"
+    excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
+    publishedDateTime: 2020-02-05T18:05:00Z
+    webUrl: "https://www.policeone.com/legal/articles/nj-lawmakers-debate-cops-use-of-facial-recognition-tech-BgMvDd7mHLgZOBsI/"
+    type: article
+    provider:
+      name: PoliceOne
+      domain: policeone.com
+    quality: 24
+    images:
+      - url: "https://media.cdn.lexipol.com/article-images/njfacerec_2520_news.jpg?w=1600"
+        width: 757
+        height: 667
+  - title: "Christopher Elliott: Facial-recognition technology stokes privacy concerns"
+    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
+    publishedDateTime: 2020-02-02T05:08:00Z
+    webUrl: "https://www.sunjournal.com/2020/02/02/christopher-elliott-facial-recognition-technology-stokes-privacy-concerns/"
+    type: article
+    provider:
+      name: Sun Journal
+      domain: sunjournal.com
+    quality: 22
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/11/2019/02/Christopher-Elliott.jpg"
+        width: 450
+        height: 366
+  - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
+    excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
+    publishedDateTime: 2020-02-04T23:36:00Z
+    webUrl: "https://www.nbcchicago.com/news/local/chicago-area-groups-demand-end-to-facial-recognition-amid-concerns/2213205/"
+    type: article
+    provider:
+      name: NBC Chicago
+      domain: nbcchicago.com
+    quality: 19
 
 secured: "CUnyIRLObnUrPOHtSDPCoaFpWmishgP4EqSOOZFkEux9qX39djVO/dVyVCE5amFb75U5NOk9T8D9+Zf7/IWOtkp0osWT69sY7DZREeTNsY0O4H4K6Z7gTvXHcdzB4yr7TpLErf/Kk6EcjtAvf1Qa5iw5PIfhM78T5Kn9pa3NQQe1jlHjVtKdud6/Qv+iM12jVnGLzqzP6s2Qqs9f0OYs4JVbSwkwI8qq7cMgM6HVyED5+oh43v6Ba+8ds+9SHkwDIDGNyRfMF7B8dlSg1DwmvRs6MqBclRvWvRfLZJAknmmSxOrCPMMOffM+ZDG/PB7CaT5onxoodTtHcIoFizgXyMou1wYFRR+fChFnz8ZeB2fk0Sbpk7BbyQYfjK40ugit4sGV6+k8UT4NIC8YnL9XbwLpsQK3dr8Y2mCkrJHXMDZtBHQYW238pQYFuOAAK/Zk06cwYSPMxQ8RMDX7i6B5zUI3R/ARWZ+E7mpnlt/dmh8=;QpGUUDDPpsd2ONa3MU846w=="
 ---

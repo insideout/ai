@@ -23,6 +23,6 @@ images:
     height: 800
     title: "AWS vs Azure vs Google Cloud: What's the best cloud platform for enterprise?"
 
-secured: "jq5SDatI2gvPb8jKJHm6tLt+Ln4k1D+yXhbGO+hsCWJo9QAu5vbSID+a8IlMPddB0blLKDhxGBn9mrr6sO6mcCBdLROg+TTQXELkLgIW7epWWoALi2AcLzweh3WeHXPrKY2zSxHq+2gOjqv0UtS8SxouqNlgLQZiTccTKQJRDFvs7c1IURMKlPcO7W9Ma8JikKLfgK90XGFJQkw6jGVgYoaInmWBUEawJC5xbff9O5WIhbmR9lGAFsIrNd6uAnPv0kDykB/U63WUgzj1YtIraU/g1v6UG8faC6+pouQMsWbCiSTFCcuIB5SxJaq7IwwR;AwJgJucYMvw53LZf5RX3mA=="
+secured: "GUFYt0C/aaoK3MaP3vNuzA7h82R+LuIyJwBiSrwSXz8UsK6+l3nMj35VCwRuqMJtLGyLUHsRbwK0tt8BhDWP4Hwi03XR3ikgKFfnTn9291cTamW3F8+Yt27ChZJX/eamXRJFQPihMUORBrSYxglonGU3lEQruyjWZZZviNaM3c9HPrMm4d7r8s0WtwAhxiPQzL54uy1MM3+WwbipKj+9SxkusDmiwIj7F2B5Y3hY4+g5CrWcTsnOQSm324cYkSfDkjMCO1zqLJ7gSwP2FSiUUBz/RsOFGamMJ/rWIXdygxKdys4pBGsVeyKM6jTvsDKr;9w2UV4YayUyDsZWKx6sIKw=="
 ---
 
