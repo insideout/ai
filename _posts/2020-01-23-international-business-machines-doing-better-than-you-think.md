@@ -44,6 +44,15 @@ related:
       - url: "https://slator.com/assets/2020/01/aws_machinedubbing.png"
         width: 600
         height: 400
+  - title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
+    excerpt: "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a license to start testing driverless cars. Waymo is moving forward with plans that could be easier and more lucrative than operating robotaxi services. Specifically, the company is developing self-driving trucks. Compared with providing robotaxi services ..."
+    publishedDateTime: 2020-01-21T11:55:00Z
+    webUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 4
   - title: "International Business Machines Doing Better Thank You Think"
     excerpt: "Cloud & Cognitive Services continues to generate positive sales growth on a year-over-year basis albeit at a single-digit rate. This is good and the underlying cloud growth rate is double-digit for the past two quarters on the strength of the Red hat acquisition. Granted, the cloud growth rate does not match that of Amazon (AMZN), Microsoft ..."
     publishedDateTime: 2020-01-23T20:54:00Z

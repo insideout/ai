@@ -33,6 +33,15 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-03-at-10.09.42-AM.png?w=1024"
         width: 1024
         height: 655
+  - title: "Spanish robotics start-up raises €2 million"
+    excerpt: "A robotics start-up company based in Barcelona, Spain ... both investors who share our vision of changing the industry through a combination of robotics and artificial intelligence.” According to Fossgård, the products from Scaled Robotics are garnering a particularly strong interest in Europe, “Scaled Robotics has developed a product ..."
+    publishedDateTime: 2020-02-06T11:32:00Z
+    webUrl: "https://www.khl.com/construction-europe/spanish-robotics-start-up-raises-2-million/142285.article"
+    type: article
+    provider:
+      name: KHL
+      domain: khl.com
+    quality: 49
   - title: "Miso Robotics Reimagines Kitchen Automation with Robotic Kitchen Assistant on a Rail"
     excerpt: "In my mind, that validated the software platform approach we took in designing Flippy's brain,\" noted Dr. Ryan Sinnet, CTO of Miso Robotics. While the next generation of the product has been taking shape, the team has continued to make breakthroughs in the artificial intelligence software that powers Flippy. This has resulted in software that ..."
     publishedDateTime: 2020-01-28T13:24:00Z

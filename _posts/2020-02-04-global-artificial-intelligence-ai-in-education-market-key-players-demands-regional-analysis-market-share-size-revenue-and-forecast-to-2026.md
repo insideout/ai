@@ -63,6 +63,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200204005787/en/771181/23/Global_Artificial_Intelligence_in_Aviation_Market_2018-2022.jpg"
         width: 1200
         height: 627
+  - title: "Artificial Intelligence (AI) in Supply Chain Market"
+    excerpt: "Meticulous Research - leading global market research company published a research report titled \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & by End User - Global Forecast to ..."
+    publishedDateTime: 2020-02-06T11:12:00Z
+    webUrl: "https://www.openpr.com/news/1921632/artificial-intelligence-ai-in-supply-chain-market-is-expected"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
   - title: "Global Surgical Imaging Market is Expected to Reach USD 7.50 Billion by 2025 : Fior Markets"
     excerpt: "Global Surgical Imaging Market by Device (Angiography, C-arms, Endoscopy, Laparoscopy, Surgical Navigation Systems), Modality, Application, Region, Global Industry Analysis, Market Size, Share, Growth,"
     publishedDateTime: 2020-02-05T07:02:00Z

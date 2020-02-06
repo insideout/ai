@@ -4,11 +4,9 @@ title: "Cloud Certification Guide: How to Master & Showcase Your Expertise in AW
 excerpt: "Azure Data Scientist Associate Intended for individuals that apply Azure’s machine learning techniques to train, evaluate, and deploy models that will ultimately help solve business problems. Azure Data Engineer Associate For individuals that design and implement the management, security, monitoring, and privacy of data – using the full ..."
 publishedDateTime: 2020-01-21T05:13:00Z
 webUrl: "https://www.business2community.com/cloud-computing/cloud-certification-guide-how-to-master-showcase-your-expertise-in-aws-azure-google-cloud-02276717"
-ampWebUrl: "https://www.business2community.com/cloud-computing/cloud-certification-guide-how-to-master-showcase-your-expertise-in-aws-azure-google-cloud-02276717/amp"
-cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cloud-computing/cloud-certification-guide-how-to-master-showcase-your-expertise-in-aws-azure-google-cloud-02276717/amp"
 type: article
-quality: 26
-heat: 26
+quality: 6
+heat: 6
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "Vv3fBpxPuttD+asMGHPfuihRXumT9A1UQsBu7eaq5L1bW2dQiR7fCLYylujKo60E9dMFHSkrHKbEUjJyD5Td+QePA5Mnfu880SX7VaZU3/owHnzfDdQfhedkUt3lWXwAFfhZcV/o0/ihybyRlvhdLpGkVEjyx4oHFXW96Kmu5AOCGL5fEcR0uWNxdrJeycrKqr89EcHlswbvFBfY84mo+DzchEmiwMxxPnbmkI2UBCkzmxBhGdNiroKCC7Yvl2fnffzUfGEXEJNgw6IOtq2I2JbsbEVPQNOgxpddMJ8UwnTxj3hMwyCP3qRkJY1uUNsg;qa7u0pnP/QXRa/TWCJTgQw=="
+secured: "StaIEupUw1Ko80maJQGM6JwlWvfBwn7C/2QzhziAne8nx3yKJ6ZTlo6SQTqJJ3AEd8Tnz29R0wHMS4t76+/ROfEEfof0SJccQFx+Rkd6BDX43jki6Zq2JkgpEhXCc5H8+JVEP+b/K/J7tdqZAEDk/IVf1QdiPg/9GcRxun9eCUhBtUVAeExmVgUf/vyBBtx8lSTwKmhujJvZm25pnElwKZW9ZDwj4AA1xlB1Bdhgy8UxGjzHhO28LdO/LRMeAgl+SNL8EjgPOTzuYAVphEZEoePgxPO1d2d9ip6JS1VQ197bghykFJo6lTGl+cMdQ3HW;W5PnfSmuo3mivoCuu99LlA=="
 ---
 

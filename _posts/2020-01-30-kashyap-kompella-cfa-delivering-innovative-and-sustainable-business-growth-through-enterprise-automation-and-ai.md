@@ -51,6 +51,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application and Geography 2018 – 2027"
+    excerpt: "The report analyzes and forecasts the Machine Learning as a Service (MLaaS) market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026."
+    publishedDateTime: 2020-02-06T10:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-service-component-organization-size-enterprise-application-and-geography-2018-2027-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
 
 secured: "53qNGlL85fSS3QF+MfSESLskCyxpXY/Rcl+8Z2CbK4qmwiVmuLk4jQx3CI2nmi/acM+KZHYFdC0MCvCCCHWl8lhq4RlsJ16YP/Mq8hE3exveZZXmVZMhYHH1xcJaf3tTc5e/2bYOwa5Q384479sbeS3GCYNeRotJP+Hqu3LW1K4S1oTYj8AIAmejKnzr3UnQr+hagfDyDbEdZFdJSvLMi6H1crojST/3lCL6S9PzP2Cc6+LExYlgk2BhhImyaT4nWdE8+2pGmKQdo3s2gYsYpD9ivKTiJDVpyrMv9DAkRxfoh2B9XYnGMD330AeKaCHvV/1uzVsC3jH0taTQn1E6YXvct3L+IICx8Ow7x2fO7dFbl/DaVB4evTvYdKAoKFTSwKU50KLZ+7T3yDHEtUplWf9kvSYF9W6vZeMwm+SSOVvZi1osC/WxjrYqDMXovCBIjBIvBCn2EsWUzdtPiCGAuZeEq9FTXXws9cPin5iH5jI=;KDkyYHu+vzvkd88O/T/VLA=="
 ---

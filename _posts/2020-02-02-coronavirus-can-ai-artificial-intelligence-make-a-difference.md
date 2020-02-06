@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/15/alibaba-is-one-of-the-worlds-most-valuable.jpg"
         width: 1024
         height: 682
+  - title: "Coronavirus Fears Will Leave Empty Seats at a Top AI Conference"
+    excerpt: "Yang was due to present an award-winning paper describing a way for an AI algorithm to perform image recognition by drawing from different datasets without ever revealing their contents. He decided to cancel his trip due to the global health emergency triggered by the coronavirus in China. Yang estimates that around 800 attendees from mainland ..."
+    publishedDateTime: 2020-02-06T07:00:00Z
+    webUrl: "https://www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "X1m091ZjX1T1olor+MSfU41ay/TBwmx6Y/ccg3S+087uG5/X0ewiIvGad6iyPFiBzriL/1sY3+zfZ3vnaCCzRaqjkgztWhgJHj/WwZkLtXHh+Dv7tNp5wbgCRvQoGPs1O01Vshea6fW8LVFgwa8WhSBfAZz+i167vPwSEJ4RUmEENpYJw3BIJKb4Xl1kZhH2aSCpkrr8ImlBVMlSLjOob+Si5aBV3hd998HRtg31IqeNu/98uRV9F2a3NSbfN0sPsfajRFzTm/Pg8r9lftJT3mkBHl/b4aND9yptrsFiQtiL3YxDLQfvD8Kv/46SwVgC9gT/twKswoH79gQXws0fgKGvF1x2JKaQ84GPVJnINJaLdJTpVd/4nPfY4KmYOiMjEsqEGIAe8Fmepv/24RRYwNJJ6wNSp2WM09pdBjDGlRFykaxAH2IHwOVhm7F5MXhc4BsB6crnTl8k7dgueyEeOsH8aBPBSyMJWOs/k5hgFNw=;zj0D1Wo7mQ8OlLRl5mI8DA=="
 ---

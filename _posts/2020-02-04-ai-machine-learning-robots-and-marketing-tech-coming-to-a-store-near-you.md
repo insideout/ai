@@ -89,19 +89,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2020/01/offshore-software-development.png"
         width: 700
         height: 400
-  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
-    excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
-    publishedDateTime: 2020-01-31T15:06:00Z
-    webUrl: "https://www.businessinsider.com/developer-technologies-digital-transformation-tech-companies-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
-    images:
-      - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
-        width: 1024
-        height: 512
   - title: "Going deep on deep learning with Dr. Jianfeng Gao"
     excerpt: "Dr. Jianfeng Gao is a veteran computer scientist, an IEEE Fellow and the current head of the Deep Learning Group at Microsoft Research. He and his team are exploring novel approaches to advancing the state-of-the-art on deep learning in areas like NLP, computer vision, multi-modal intelligence and conversational AI. Today, Dr. Gao gives us an ..."
     publishedDateTime: 2020-01-29T11:13:00Z
@@ -115,6 +102,19 @@ related:
       - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/Research_Podcast_Jianfeng_Social_1200x627.png"
         width: 1200
         height: 627
+  - title: "Plannuh Raises $4 Million To Expand AI-Driven Marketing, Budgeting and Planning Platform"
+    excerpt: "/PRNewswire/ -- Plannuh, a startup transforming the way marketers plan and budget, today announced a $4 million seed round co-led by Glasswing Ventures"
+    publishedDateTime: 2020-02-06T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/plannuh-raises-4-million-to-expand-ai-driven-marketing-budgeting-and-planning-platform-300999949.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
   - title: "Gale to Bring Udemy Learning Content to Libraries"
     excerpt: "While many of them are priced on the website upwards of $200, the company frequently runs specials making those same courses available for big discounts. For example, \"Advanced Machine Learning & Data Analysis Projects Bootcamp,\" with 20.5 hours of video and other materials, is available for $12.34 (as of the time of this writing)."
     publishedDateTime: 2020-01-28T22:34:00Z

@@ -23,21 +23,19 @@ images:
     title: "Startup Funding: January 2020"
 
 related:
-  - title: "The 12 Largest US Tech Startup Funding Rounds of January 2020"
-    excerpt: "Founded by JoeBen Bevirt in 2009, Joby Aviation has now raised a total of $720.0M in total equity funding and is backed by investors that include Toyota Motor Corporation, JetBlue Technology Ventures, Capricorn Investment Group, SPARX Group, and Toyota AI Ventures. Investors in the round: Abdul Latif Jameel, Baillie Gifford, Capricorn ..."
-    publishedDateTime: 2020-02-05T14:27:00Z
-    webUrl: "https://www.alleywatch.com/2020/02/us-startup-funding-top-largest-january-2020-vc/14/"
-    ampWebUrl: "https://www.alleywatch.com/2020/02/us-startup-funding-top-largest-january-2020-vc/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/02/us-startup-funding-top-largest-january-2020-vc/amp/"
+  - title: "Robotics investments recap: January 2020"
+    excerpt: "In January 2020, reported transactions among robotics, drone, autonomous vehicles, and artificial intelligence companies totaled $1.16 billion. There were fewer deals around self-driving vehicles than in the past several months, but investors still supported supply chain, surgical systems, and agricultural automation. At the same time ..."
+    publishedDateTime: 2020-02-06T13:34:00Z
+    webUrl: "https://www.therobotreport.com/january-2020-robotics-investments-recap/"
     type: article
     provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 42
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
     images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/02/January-2020-us-top-startup-fundings.jpg"
-        width: 1000
-        height: 525
+      - url: "https://www.therobotreport.com/wp-content/uploads/2019/01/bg-robotic-omnichannel-fulfillmentflexbot-with-order1200xx3840-2160-0-0.png"
+        width: 1200
+        height: 675
 
 secured: "OkuZD052xDSj3JlTph2yXC0R/6oo61W/qy+04sIMWwCpieEk74NycBueSyNv49pqtJq2jX87r2bO5rKkUtnfFJXC7sTDlxuC313PFC3Qc0A1TWJdJvjB9THhASqH4zmmuUUJVYGt18fNKQKW2pN9mMg6mKvfY/vBAnaYhvW52OJ+OotKa9WOWHOBtkXTB1CIL26c5k+ODc8GDTGfPbmkSkEFgcy95vdftqbGL4hCrrkD+6ry832Ed+PLx3IjDGjRJAdFHSDq7X6cn+XIv2VaC9zHMNAZQgqtmINxP5ONx1/LfEFJJuE+/VcCM1tKBY3E;zKNwtYCloAfGKPFQFv12xQ=="
 ---

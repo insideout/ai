@@ -27,13 +27,11 @@ related:
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:18:00Z
     webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
     type: article
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 69
+    quality: 49
   - title: "Google CEO vows respect for privacy as data giant develops AI for medical use"
     excerpt: "Sundar Pichai, the CEO of Alphabet and its Google subsidiary, said yesterday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence (AI) to improve outcomes. He vowed that the technology giant will ..."
     publishedDateTime: 2020-01-23T02:46:00Z

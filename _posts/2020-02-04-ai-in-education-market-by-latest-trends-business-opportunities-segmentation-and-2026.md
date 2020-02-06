@@ -51,6 +51,15 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/02/Trading-analysis-forex-chart-image-1.jpg"
         width: 910
         height: 607
+  - title: "Just AI, a conversational AI solutions provider, receives investment from fintech and telecom companies"
+    excerpt: "London, UK: Just AI, a Conversational AI technologies developer and solutions provider, received funding from two strategic investors. The first one is MTS PJSC (NYSE: MBT, MOEX: MTSS) - one of the leading mobile network operators in Russia, Ukraine, Armenia and Belarus with over 106.5 million subscribers. The second investor is Sovcombank PJSC ..."
+    publishedDateTime: 2020-02-06T09:44:00Z
+    webUrl: "https://www.openpr.com/news/1920717/just-ai-a-conversational-ai-solutions-provider-receives"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 3
 
 secured: "refdOAd7xT5RvkH/ZrR4r5xRExofqFkvh5LP89QWMeVFySsYRDU2+fguO/F/8p0DfjvCiAaLKpPzfWXLMH40zu30T08ev5yXdpxE+Bn1UVIIyOxsMQgpbLp9DKIAsqW23fQBzDeVlRtmC/ptF4bIFS7EKL36yIkXzAYx2dKxSx3lviIWpXo32A7pbTCQLNW90sXhQTNqzgwP3jk62XHk4nDdAEK0onxrZJ1KNAVzkBQGWnnVUFrHm8mWwL5eqGIEEZGxKlbDPx/2i1CvSwT2k5LH49TPGtYK02v7cmpGs327qctAO6VqO2vi8xoxOxiZ;K7Ne0XVi/nZTwk1Vtqrb9w=="
 ---

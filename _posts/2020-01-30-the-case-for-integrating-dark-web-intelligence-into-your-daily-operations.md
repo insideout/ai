@@ -49,19 +49,6 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/01/27/NGai20200127/open-graph.jpg"
         width: 400
         height: 400
-  - title: "Talkdesk Wins 2020 Innovation Award From Business Intelligence Group"
-    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Talkdesk®, Inc., the cloud contact center for innovative enterprises, today announced it has been named a winner in the 2020 BIG Innovation Awards presented by the Business Intelligence Group. Talkdesk is recognized for Talkdesk iQ™, native artificial intelligence (AI) that is infused throughout the Talkdesk ..."
-    publishedDateTime: 2020-01-22T18:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200122005136/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 22
-    images:
-      - url: "https://mms.businesswire.com/media/20200122005136/en/768825/23/BIG_Innovation_award_2020_%402x.jpg"
-        width: 1200
-        height: 627
 
 secured: "16Ag9XPyrSYSrtyaegqE86oyoAgZdMFXnCAq2boNgtDuBR8ZCx+sWIG01nJn9o11OCsGHERwtjgEVLX3BOipCtx1Oe04r5rPKaCM4z8TIkpGXkK5L6UVg/iA+NZC2sZl/UTkhvccSkQrZkO8HUqUXMY/A7euUlOgNjS8R9zM/+szDp8Yhq4a3YvpvF97sx5tJZzSxA56QhCIb/jNw3oM4cNJsY+Fq9uMtoY6u3V6Ma7CcIQpey2/54EWTN3cYxSdLBjSv7br0lbmiGcsBHAyHOiM4A3OxLOTWpENSWQgfiZ2164v/LpbPoI2V/6IRhdi;N5eSzI9sMy2bEEEpWmIRmw=="
 ---

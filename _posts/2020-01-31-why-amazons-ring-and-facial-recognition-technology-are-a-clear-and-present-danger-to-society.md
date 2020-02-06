@@ -161,21 +161,6 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GNXD2DF67BAWFK25T7SGYLMFAY.jpg"
         width: 2127
         height: 2072
-  - title: "Universal Studios' Secret Life Of Pets Attraction Will Use Facial Recognition To Turn Guests Into Stray Dogs"
-    excerpt: "This morning Universal Studios Hollywood revealed some new details about the forthcoming The Secret Life of Pets: Off the Leash attraction, including the fact that it will use facial recognition technology as well as gesture tracking in order to turn those on the ride into unique stray dogs. What's most intriguing about the new attraction ..."
-    publishedDateTime: 2020-01-22T18:53:00Z
-    webUrl: "https://www.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs?pv=related_list"
-    ampWebUrl: "https://amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs"
-    cdnAmpWebUrl: "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/news/2488924/universal-studios-secret-life-of-pets-attraction-will-use-facial-recognition-to-turn-guests-into-stray-dogs"
-    type: article
-    provider:
-      name: Cinema Blend
-      domain: cinemablend.com
-    quality: 40
-    images:
-      - url: "https://img.cinemablend.com/quill/c/a/f/e/4/a/cafe4af26bbaae7202ee6c7b7d447eb9ae15e12f.jpg"
-        width: 1200
-        height: 600
   - title: "Army Taps Academia to Address Hacker Risks in Facial Recognition Tech"
     excerpt: "The U.S. Army and Duke University have partnered to address cyber risks that threaten the use of object and facial recognition in artificial intelligence training. Researchers at the university have developed a software that detects backdoor hacking attempts orchestrated against recognition systems, the Army said Tuesday. Army Research ..."
     publishedDateTime: 2020-01-27T21:24:00Z
@@ -239,6 +224,19 @@ related:
       - url: "https://www.wftv.com/resizer/-nAp2UpM5mI0OsyKgu3KnyTIIk4=/1200x628/d1hfln2sfez66z.cloudfront.net/02-04-2020/t_623fb723a99a4dc1bcd5790a0f4c3715_name_VOL_AI_FACIAL_RECOG_TECH.jpg"
         width: 1200
         height: 628
+  - title: "The rise of facial recognition technology: where we are and what to expect"
+    excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the first article in a two-part series examining the rapid rise of facial recognition technology. Part one discusses the use of facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal landscape ..."
+    publishedDateTime: 2020-02-04T12:04:00Z
+    webUrl: "https://www.biometricupdate.com/202002/the-rise-of-facial-recognition-technology-where-we-are-and-what-to-expect"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
+        width: 1640
+        height: 800
   - title: "Facial recognition technology poses ‘enormous’ potential for abuse, NDP says"
     excerpt: "OTTAWA–Canadian police agencies' use of cutting-edge facial recognition technology presents \"enormous\" potential for abuse, the opposition New Democrats say. The NDP is calling on federal privacy commissioner Daniel Therrien to launch a probe into how the RCMP and other Canadian law enforcement agencies use the controversial tool, which can ..."
     publishedDateTime: 2020-01-28T19:22:00Z

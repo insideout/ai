@@ -5,8 +5,8 @@ excerpt: "Advancement in new robotics technology (mind-controlled bionic limbs &
 publishedDateTime: 2020-01-29T06:25:00Z
 webUrl: "https://www.marketwatch.com/press-release/medical-bionic-implants-and-exoskeletons-market-is-expected-to-expand-at-a-cagr-of-75-during-2017-2027-2020-01-29"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: -1
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Medical Bionic Implants And Exoskeletons Market is expected to expand at a CAGR of 7.5% during 2017-2027"
-
 related:
   - title: "Exoskeletons and Exo-suits: Exploring the Scope of Wearable Robots"
     excerpt: "Better and refined versions of this technology are surfacing every passing day; today, even mind-controlled exoskeletons are available, which were unimaginable until a few years back. Studies have suggested that, in the future, humanoid robotic technologies and exoskeletons may present possibilities for humans to function even in unstructured ..."
@@ -37,16 +31,7 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 19
-  - title: "Rehabilitation Robots Industry Outlook 2020-2025: Set to Exhibit a CAGR of 25.8% - Exoskeleton Robots Expected to Hold the Major Share"
-    excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Rehabilitation Robots Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Rehabilitation Robots market is expected to register a CAGR of 25."
-    publishedDateTime: 2020-02-04T16:49:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979704/0/en/Rehabilitation-Robots-Industry-Outlook-2020-2025-Set-to-Exhibit-a-CAGR-of-25-8-Exoskeleton-Robots-Expected-to-Hold-the-Major-Share.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
-secured: "5iy3cm4T11gY+YZu95Hc6kInrNn2EKvtS0Puj3H4xdkG2X6Y/x+DSvhTaJexim+epg9mAbVYt19uc0bUraTfzHymBaBa+7S7d6Maw8m5kNxU/tb/pDdUUagwTr6eqMozyu2uPCcy4ktHCyfW9QOmqELKPmleM23Tk9S8quk3yCvBxTLqDyWXs7sCvrtbfpz3keOQ7yWMDGp5ozZ6VTOV1R6P50spNRfg3HKf+3Mt3PA4rauiFJru/SMJKLboi7JYRS4nG1LbcrDL/L+7tFW/TnT6JpCgsone8LIypPIoVa3HeRHF02lPM5IOLWym01h/;fQLthDYms7/E6CZTI2uP8Q=="
+secured: "iq+c2LitxWNwccdEmN7BwKjE4p9Rhm8VgqZkciAwvP1EVT1eW+glCCThnZd4oc8xiDAqFRODRW/XscxyH1id5rc2/jXoV/YC0bpcjXHzP0nORO6/QWEgfZqqRSeOInh2jhouZdNVcgLtoSSIOVtJp4zAzzWwsirh9EzgcuO6cPonOT606kLinCx6LHcSY6Ai3P2dfAz3Y8IQhPxGISXqS2CS6pxzki/R+GVHmsVquyDrJVLBxL0hYySVAvnElkiVTK10tdDznQuRFevR9Mi3lDtEkCAJw6M6566rKCKmL7FyVATgVdgoROAGoMw3TP2Q;prBwS+bvtMUVjahN/tC5bQ=="
 ---
 

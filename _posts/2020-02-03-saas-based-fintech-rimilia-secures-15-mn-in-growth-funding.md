@@ -39,6 +39,21 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/03/wallpaper-panels_trans_NvBQzQNjv4BqEo7ukXPj3dSVEb29e9SgADGlvRPkLrU2fMgxYfCf0eU.PNG"
         width: 779
         height: 487
+  - title: "UK Fintech Rimilia Raises $15 Million Through Latest Investment Round"
+    excerpt: "Rimilia, a UK-based SaaS fintech, announced earlier this week it raised $15 million through its latest ... while also focusing on building out our team to add further subject matter expertise and leading data scientists to further advance our automation and AI.” The funding, which brings the total amount raised by Rimilia to $40 million ..."
+    publishedDateTime: 2020-02-06T12:08:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/10/Coins-Pounds-Money-UK-sketch-600x415.jpg"
+        width: 600
+        height: 415
 
 secured: "d74eai4F6WElebA6cBhs4LBflWrpo1+3NA8p5MrjCnKMdmr2OAsuFDn7SVgi9hLOvG3McHa/JJkMXfqKkLgWGKaAKKPQnJijpqxF/refySc5A8hRwDqsQBewL4iUzgXoVjCG+Ga1b18XKmWiPd8M/pD9IIze5zx95a7HUPcWjtQJoV57gMigyC4rA/bJCTSGu6/R4it3qPGs54mp5qCyvpYpWe0ssv83+mDatNKks4Sq6mbjsCTRqydjWtaGNOh9JjQXkgmmy5nPQGA0OwemX19yLEnZN/3EUi2z2QV6Na2ZYADrNMFtcKD+j4HBTpkVJSP4Kh0uKzLqwUsWSqPd9n5kPoL9GfkC5JvIPLggZpI+9bFyZqvz+fQwHHkp6QMXrHTvee2VMiezJwlxq+GzTQ/p3ZbGkiIbcRpd++fSz1qRQz1b1ORcPViFyS6Xp+Sclgjx2bFfc+PDYHVfUjgq8r0mlcCIkDNGokGjv28H8Kk=;c8nqCnxnri9y8xQn39TRXg=="
 ---

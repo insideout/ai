@@ -206,6 +206,15 @@ related:
       - url: "https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg"
         width: 980
         height: 551
+  - title: "Google and YouTube want Clearview AI to stop scraping images and video for facial recognition database"
+    excerpt: "Facebook told CBS News that it, too, is reviewing the company's controversial practices, but so far hasn't made any decision on what to do about it. The social giant is on thin ice when it comes to facial recognition, after being brought to court for silently doing it in the background using photos uploaded by its users."
+    publishedDateTime: 2020-02-06T11:51:00Z
+    webUrl: "https://www.techspot.com/news/83883-google-youtube-want-clearview-ai-stop-scraping-images.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 48
   - title: "Facial recognition coming to Europe, but terms and conditions applied"
     excerpt: "Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next month."
     publishedDateTime: 2020-02-02T11:57:00Z
@@ -282,6 +291,33 @@ related:
       - url: "https://www.wftv.com/resizer/FEuhDKbanUBenwSvls9DOPgdPUk=/1200x628/d1hfln2sfez66z.cloudfront.net/02-06-2020/t_3e9a381ac94d421ebfec67f453fca035_name_VOL_AI_FACIAL_RECOG_TECH___10pm_frame_2373.jpg"
         width: 1200
         height: 628
+  - title: "Facebook is latest to demand Clearview stop using its images for controversial facial recognition"
+    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company ..."
+    publishedDateTime: 2020-02-06T11:57:00Z
+    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 36
+  - title: "Facebook Sends Cease And Desist Letter To AI Startup, Joins Twitter, Venmo, YouTube"
+    excerpt: "Facebook Inc. (NASDAQ: FB) has joined other social media giants and has sent Clearview AI a cease and desist letter to stop using user images to identify them"
+    publishedDateTime: 2020-02-06T10:16:00Z
+    webUrl: "https://www.benzinga.com/news/20/02/15266220/facebook-sends-cease-and-desist-letter-to-ai-startup-joins-twitter-venmo-youtube"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
+  - title: "Internet giants reject controversial facial-recognition start-up"
+    excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
+    publishedDateTime: 2020-02-06T12:46:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/02/internet-giants-reject-controversial-facial-recognition-start-up/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 4
 
 secured: "xphGBWfLMp6wcrisVgucSgG06JdS8nJIfOOS/AQ0DOcf0d+jFtLLuLP3wrxK16TOHCSLaFl/FtHR2tQ2MfLHsbEif+8aat9ow4yBPyQYCYVNbr3PtsAA9AxsOcrSKsMcAKaP7YS8/WyjePW6d1/zzVEiSTmhki03xr2BXVmKCFwqHsS5phHpmp2z/vsZuYbKfifzMkkeAm4LQVU4Hp4cie7ZGJKmCFxx7MOao6txLsOW0u2xhi5toYVD3K8dq2nF7E7RDkOmD2CGcyVJVEoIUxGI4a6NVz5iLDZkgqUeAtn6aC7+bBiRxM3sy80nO4MlbsoNaPe7khUy0LxWPfJ+wYO0f/UvRrVcS2qrV6NgCHFv2rrsjnCTmsfvNFnPR/nw60eZ7vMGtMHHnA/eIsQW05o4gKxNF5ee6brrCmncqeTySEEe24oFLUcmnfN2fVrn7u9306b5PcWrDbkr3ZEB9i6J5gmFKBcBtirG83NWn2A=;1e6XUnlZ8+fZnMZ3orChWA=="
 ---

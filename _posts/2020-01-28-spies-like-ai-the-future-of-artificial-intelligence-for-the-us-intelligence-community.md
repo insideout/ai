@@ -50,19 +50,6 @@ related:
       - url: "https://securityintelligence.com/wp-content/uploads/2020/01/external_the-case-for-integrating-dark-web-intelligence-into-your-daily-operations.jpg"
         width: 1200
         height: 630
-  - title: "Talkdesk Wins 2020 Innovation Award From Business Intelligence Group"
-    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Talkdesk®, Inc., the cloud contact center for innovative enterprises, today announced it has been named a winner in the 2020 BIG Innovation Awards presented by the Business Intelligence Group. Talkdesk is recognized for Talkdesk iQ™, native artificial intelligence (AI) that is infused throughout the Talkdesk ..."
-    publishedDateTime: 2020-01-22T18:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200122005136/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 22
-    images:
-      - url: "https://mms.businesswire.com/media/20200122005136/en/768825/23/BIG_Innovation_award_2020_%402x.jpg"
-        width: 1200
-        height: 627
 
 secured: "s7JMirmcgfX2lNlLnE5axcxrl8Yyi5T79ZYYo/equdGYb6mQ8AbFJKvCt15tx601Cwgf/ZIpLbLGfChgPBa+ck4YLpUU5zynZavfQJ/+o2B+dQv9YWkp875rWqomcAz4sy8bFxr2abzIDwncxU4CbsB9YmNIlt4cJE6e6yFX/4w9eVpUhVeqA2J8ju8VW+ao1IgLPt5ETncqxhwuoMCORt6mjU9XzsqZZgzJ3FHXdMnmx5k8mh+4cWBwjBbVvGfeqZ67NjgjpOVaOjoJ5YIMUxNvtOOp7m14m55eh8tSqBWAtXgR4/pyLncrdlYLJAJkiBBWqjKMEB3zWex/Vuq5NRWT5FsEOsET2J0gMnjtTLKDAt+eLY8cx8VtSpW4G7ZpE68dJs8QpuJj2OSFLtuapPDItsTOFwrT9thx3cHqp3NjLC45jZHrNc3o/eY1mtZbID1vNGAFhJZXQ0ykPCdUBXafTKQrtSUXE+DsmGEXKEc=;y19NZUNajGzyUe/LFfAyoQ=="
 ---

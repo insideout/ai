@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/"
 type: article
 quality: 187
-heat: 287
+heat: 277
 published: true
 
 provider:
@@ -98,19 +98,6 @@ related:
       - url: "https://insidebigdata.com/wp-content/uploads/2020/01/AI_shutterstock_1069670762.jpg"
         width: 300
         height: 300
-  - title: "ServiceNow scoops up AIOps startup Loom Systems"
-    excerpt: "When the built-in AI algorithms find a problem, such as a malfunctioning server or an application ... Loom Systems has racked up some big-name customers since launching in 2015. The startup’s software is used by the likes of Microsoft, the United Nations and Wipro Ltd., one of the world’s largest IT outsourcing providers."
-    publishedDateTime: 2020-01-22T18:38:00Z
-    webUrl: "https://siliconangle.com/2020/01/22/servicenow-scoops-aiops-startup-loom-systems/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/servicenow.png"
-        width: 718
-        height: 405
   - title: "Apple Acquires Edge-Focused AI Startup Xnor.ai"
     excerpt: "Apple has acquired Xnor.ai, a Seattle-based startup that builds AI models that run on edge devices, for approximately $200 million. GeekWire first reported the story, based on information from \"sources with knowledge of the deal.\" Because XNor.ai's technology focuses on running AI models on low-resource edge devices without sending data to the ..."
     publishedDateTime: 2020-01-24T14:07:00Z

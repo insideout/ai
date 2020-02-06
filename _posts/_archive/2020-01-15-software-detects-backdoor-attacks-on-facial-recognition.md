@@ -5,8 +5,8 @@ excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses fac
 publishedDateTime: 2020-01-15T17:43:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-    width: 900
-    height: 300
-    title: "Software detects backdoor attacks on facial recognition"
-
-secured: "W/qi3QMWRizsHUAHulZm1/SkjctpG9khwXSRtg6xL2uN6ne7iwHCsU2InvwHtGweMiLyTgjn5jeUgcML/xq+2Hb9Ad3c+vThMPU1SWFbZGsO8DPd8lqWx3aSozPPYr3pCA/lZEIQYJiuUo9pzmuM2VomXuaF/e3b2qkaSw0IMPjDBzM9utda6bh0KwqZakO722WBjkq+cwPi6IH6DrcJtA9UBYDzAz4nZpJuFXFHliPlWUyA1slXBS01x3HNXRmpvgVXgHWQ3sFCvaoMKC23kqadN2pEJTMvWsqy3LjuWx/OPue9MviwvyWArQC/+Ozt;doo7Lq/IvMA20NUK7LjNKA=="
+secured: "ptS3HjeyA9oSMuKvsG4NywPy1txcA/Eck2M5M4uJimTz2u8CJ4YOqZsEdqXUL+CK/JYM2ofx/RR7H4DRDIC0xpoWEIPxED0RBnLlQpzvpvtwYk9Gn6Y+8395NZOEnW2UBgawCEV9NVfO1IrxVseaTLFQuCfKS55F7t/EXEBdzYVB53yzwM+t4lJ6vJEhK4jzqrEJ18eoKXHS+LsdJookXqQRqOxmgjjtuEwCz0U0Zb+797/fnBTkDmMs2hqxAZi8FWX/8J+y6xzkjqpkliJTk3nGMb++tQJsllvcRKWYqqIIkVo9T/Fe4r9sJR9sYoOF;OEb50ugXUjTasjfMAl9Gdw=="
 ---
 

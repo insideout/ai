@@ -22,6 +22,17 @@ images:
     height: 608
     title: "Adversarial artificial intelligence winning the cyber security battle"
 
-secured: "uw/ORzY69YgIfD8Lv1C1NMUPg2RQTvikxCxDi39ac4JIzJ7C0qVXYXK2Mdtc8nylnOgS3XWD4qOy0sdIMYBJQOUlCgPzw7KODF61FuNXxwxuMLwlYOn4j8NJdZXgJiG6Ns8sFVbQQtx+0mE1vxpf5L0a51Fxd2CshI1N2Xcdby0umaKTODIlJJP5HG+jk7Dmwgrr0KVhCfppZKeIqsIfltIRNhp0HIgxkLWvcMN1qHnqBCd7NNDX9boM+jmwUrZYNDgiGsGFGYoUzR0AEjy4OoBU2AQdVtY8owxUimas7qH0rpFkpRjitqqtAl6wqFG8;YBkTkc6ZmVxRV3BdWfPKxg=="
+related:
+  - title: "Biased AI Is Another Sign We Need to Solve the Cybersecurity Diversity Problem"
+    excerpt: "Individuals with diverse perspectives on AI, technology, data, ethics and diversity need to collaborate on governance. Remember, “minimize” is not the same as “remove.” A risk-based framework is the only pragmatic way to put AI governance into practice. Resources should be directed toward mitigating biases in artificial intelligence ..."
+    publishedDateTime: 2020-02-06T12:17:00Z
+    webUrl: "https://securityintelligence.com/articles/biased-ai-is-another-sign-we-need-to-solve-the-cybersecurity-diversity-problem/"
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 17
+
+secured: "/xGFyGG1mlIY4hTVpkgrsBBGvgySLzMJG52tb3RPE1MnR0jcFjkGStSmlDX3nu6U4vsy8+jhaiKaFrOru5h1FnmZAoozij0KhrWy2qVcmkX71TyKiEudRBUOQWQjxM8ZwulesN3WcsSpwjfIM1sgQcUbx95gN0pjHElZbAYSMS+8vIC3xyW1BgbuUpMNV/KVp1Zou4XC3EMdddOsL43v7PB4sV1b/TsE/QwnryJDxFa4Yvk3ZuaaIEP35lWPK778VkfxE5I0j/m/jLImfyEiLXcY8bej7oFao2jduldEhDnWwhsi5Go85acf3KTk7rk4m7MeN1PdlWC720KbAvhPt9rpDtOYqIWB+b5hUF/1Tf7CN3lR3qmVUN5OouOQSwquBdwjh/kWQSCo5iOd514k7T3Oo+CiclPgT8O7EKi35OpLx2hYokGKkYJMFGz3uvNrGNQO5ZTqgC86zOvFvEjn8oNzxGcWJWQ48xT4Y/7YPyk=;7/SgXL4Lr1gK5sFA6rMlYA=="
 ---
 

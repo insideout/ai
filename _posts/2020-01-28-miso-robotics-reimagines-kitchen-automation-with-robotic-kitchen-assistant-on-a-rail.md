@@ -33,6 +33,15 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-03-at-10.09.42-AM.png?w=1024"
         width: 1024
         height: 655
+  - title: "Spanish robotics start-up raises €2 million"
+    excerpt: "A robotics start-up company based in Barcelona, Spain ... both investors who share our vision of changing the industry through a combination of robotics and artificial intelligence.” According to Fossgård, the products from Scaled Robotics are garnering a particularly strong interest in Europe, “Scaled Robotics has developed a product ..."
+    publishedDateTime: 2020-02-06T11:32:00Z
+    webUrl: "https://www.khl.com/construction-europe/spanish-robotics-start-up-raises-2-million/142285.article"
+    type: article
+    provider:
+      name: KHL
+      domain: khl.com
+    quality: 49
   - title: "MassRobotics Expands: Innovation Hub Serves Robotics, AI and Connected Devices Startups, STEM Programs and Global Robotics Community"
     excerpt: "/PRNewswire/ -- MassRobotics, the independent, nonprofit serving as an innovation hub for robotics and smart connected devices, officially opened its"
     publishedDateTime: 2020-02-04T15:28:00Z

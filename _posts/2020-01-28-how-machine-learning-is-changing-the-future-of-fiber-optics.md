@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T10:26:00Z
 webUrl: "https://www.designnews.com/electronics-test/how-machine-learning-changing-future-fiber-optics/161009517662296"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,41 +24,32 @@ images:
     title: "How Machine Learning Is Changing The Future Of Fiber Optics"
 
 related:
-  - title: "China’s AI start-ups are closing more funding deals, yet they’re still attracting less money than the US"
-    excerpt: "“We haven't seen many AI applications that are beyond imagination, most are used in surveillance cameras.” become a world leader in the field by 2030 . Beijing-based chip designer Horizon Robotics, for example, was one of 24 AI startups worldwide to reach unicorn status last year, joining the ranks of privately held companies valued at over ..."
-    publishedDateTime: 2020-01-22T18:12:00Z
-    webUrl: "https://www.scmp.com/tech/venture-capital/article/3047161/chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre"
-    ampWebUrl: "https://amp.scmp.com/tech/venture-capital/article/3047161/chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/venture-capital/article/3047161/chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre"
+  - title: "How Oregon Works: AI evolution is changing work for humans and machines"
+    excerpt: "The field of artificial intelligence has evolved as computing and storage prices have come down and the amount of data created by smart devices has gone up. Infrastructure from Google Cloud and Amazon Web Services and other tech giants mean more people now have access."
+    publishedDateTime: 2020-01-30T22:09:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2020/01/30/how-oregon-works-ai-evolution-is-changing-work-for.html"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 122
-  - title: "Cortex Labs helps data scientists deploy machine learning models in the cloud"
-    excerpt: "It’s one thing to develop a working machine learning model, it’s another to put it to work in an application. Cortex Labs is an early-stage startup with some open-source tooling designed to help data scientists take that last step. The company’s founders were students at Berkeley when they observed that one of the problems around creating ..."
-    publishedDateTime: 2020-01-23T20:06:00Z
-    webUrl: "https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/"
-    ampWebUrl: "https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024"
-        width: 1024
-        height: 682
-  - title: "China’s AI startups close more funding deals but raise less money, report reveals"
-    excerpt: "Still, some Chinese AI startups are gaining prominence, giving hope to the country’s ambitions to become a world leader in the field by 2030. Beijing-based chip designer Horizon Robotics, for example, was one of 24 AI startups worldwide to reach unicorn status last year, joining the ranks of privately held companies valued at over US$1 billion."
-    publishedDateTime: 2020-01-23T10:47:00Z
-    webUrl: "https://www.techinasia.com/chinas-ai-startups-funding"
+      - url: "https://media.bizj.us/view/img/10755766/gettyimages-802851578*1200xx5000-2813-0-290.jpg"
+        width: 1200
+        height: 675
+  - title: "How Artificial Intelligence Is Changing Social Media Marketing"
+    excerpt: "Every time you open Instagram, there are some new ads for you. All these ads relate to what you search for. You move to the explore section and can find thousands of related posts that interest you. But, how is that possible?"
+    publishedDateTime: 2020-01-27T15:02:00Z
+    webUrl: "https://businesscomputingworld.co.uk/t/how-artificial-intelligence-is-changing-social-media-marketing/245726"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 48
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 37
+    images:
+      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
+        width: 512
+        height: 512
 
 secured: "SFz63SQIHnJeDtUZDXfhKRC2cLsBYv2xMYa+zfpuJzv3aE1IfpueCbsAk1eK6XJHNvlTwO+fSX83wWzEcqLev1VvMRGyEDmxEFfmchEMUN1D/AO5Nqsd6RGi5QmBvdoEMLfwk/Ucyl+ruG0t9NgV6SOeWkPyfqboUEl5MFAQrJwvdE2FfYBPU1I4e1/U7vSUr0Ok8nw8dgIX+7ZXL+mlm7NAAPHTTvheitmwYODf4hoOMz67ClCiQnXMVs01daObuZYtKnDgsjD84BIHzQnD9NFoFh0AP6AAcHS6DxKUNox7tIuMnWd+Z3XeJpUd3XQqdtzZn0Ihu7Ij/m/IMLAwkdo1EDkYAd2hrOcahJRAgaHgBNpH9jDsjYTkq+yfc5Ddl3a1YyvgzaB0Fd8odRervZ6z1Hybil6OBmh2kFA6ySw3n/e3P21ICavPCzYpAB2BfhE+2DSyzpuT7jgveUvRyoOo8f8+QbPPRgEsC6N5YlM=;p9fgkz+t7k8ObpYe9OHZMA=="
 ---

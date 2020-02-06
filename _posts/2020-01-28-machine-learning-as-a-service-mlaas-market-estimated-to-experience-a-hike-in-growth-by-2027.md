@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T12:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-estimated-to-experience-a-hike-in-growth-by-2027-2020-01-28"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -31,19 +31,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Learning as a Service (MLaaS) Market key Insights Based on Product Type, End-use and Regional Demand Till 2023"
-    excerpt: "Machine learning has become a disruptive trend in the technology industry with computers learning to accomplish tasks without being explicitly programmed. The manufacturing industry is relatively new to the concept of machine learning."
-    publishedDateTime: 2020-01-23T15:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-2020-01-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

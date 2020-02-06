@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T22:55:31Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-business-intelligence-dashboard-for-your-amazon-lex-bots/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -54,19 +54,6 @@ related:
       - url: "https://securityintelligence.com/wp-content/uploads/2020/01/external_the-case-for-integrating-dark-web-intelligence-into-your-daily-operations.jpg"
         width: 1200
         height: 630
-  - title: "Talkdesk Wins 2020 Innovation Award From Business Intelligence Group"
-    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Talkdesk®, Inc., the cloud contact center for innovative enterprises, today announced it has been named a winner in the 2020 BIG Innovation Awards presented by the Business Intelligence Group. Talkdesk is recognized for Talkdesk iQ™, native artificial intelligence (AI) that is infused throughout the Talkdesk ..."
-    publishedDateTime: 2020-01-22T18:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200122005136/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 22
-    images:
-      - url: "https://mms.businesswire.com/media/20200122005136/en/768825/23/BIG_Innovation_award_2020_%402x.jpg"
-        width: 1200
-        height: 627
 
 secured: "OXvoNYkgulZU1eCdnAbmYJ1+qnWlA5eDAtVQRBHGuQkRcw2hcmZEqDj4bDlXnNnZZoM8fovf6IhB+kMqAvaKWWzmn5T1gBPNuQpK1KDH80gstPm3zW7/B7alEMqgQRMqPikeR53NzaFFGj0PueRX91rroOzuktjmUfr1HuFCI9fFLZIUChyqdp9C4SPexncMb3/+JmewwyD0pNqUtiUmWjMg1LB6Yz5Ynlswk5woR74xmkCkfu6fdr5kWQDoYwze72zkipxgHsBQTHCGEjsfQhK1dD/7t2watS65ynN8X6eUMIIzL+YEbihYRHUzE0zCV2Eok1+LoNwSdRUoVn5ePQ==;XSKrO1OXbc69xtGc+SQBwQ=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/fintechs-consolidation-creates-inves
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+  - title: "Just AI, a conversational AI solutions provider, receives investment from fintech and telecom companies"
+    excerpt: "London, UK: Just AI, a Conversational AI technologies developer and solutions provider, received funding from two strategic investors. The first one is MTS PJSC (NYSE: MBT, MOEX: MTSS) - one of the leading mobile network operators in Russia, Ukraine, Armenia and Belarus with over 106.5 million subscribers. The second investor is Sovcombank PJSC ..."
+    publishedDateTime: 2020-02-06T09:44:00Z
+    webUrl: "https://www.openpr.com/news/1920717/just-ai-a-conversational-ai-solutions-provider-receives"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 3
 
 secured: "MojvYpGW7AqKjvLlJ4RZRgQqLVUoNG/oeHdI1R4Ohd5oIySBhTsvic4T/j3HI5GAj1EOdIUXyqd+zBJtw2CWCOGrTAyefNkEqmD3QkVriRhawoQFQd9pa0YTtdUmF/b+UFi7SyZkjx/Y2vqm5pkyWBjCtG64D1isXCdjO1+dwIFJyDkNB/wwHGxLslma54vAnhVTCgZld08wU0uVIV0q1O63RmPuafminEEa0obTFU/lc2OS6Kq6NczPIphqiC8GjEkSo/JjHvNyqhMKxgf/BKAHST//CzeVZKjtz8+6UK/folv9X+q+daetVMto7DAK;EYJcBl8dn9REwnRuYq79mQ=="
 ---

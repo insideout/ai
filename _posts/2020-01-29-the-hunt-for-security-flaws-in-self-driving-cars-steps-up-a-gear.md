@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-hunt-for-security-flaws
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -30,21 +30,21 @@ images:
     title: "The hunt for security flaws in self-driving cars steps up a gear"
 
 related:
-  - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
-    excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
-    publishedDateTime: 2020-02-03T07:00:00Z
-    webUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/"
-    ampWebUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
+  - title: "This self-driving car has no steering wheel or pedals"
+    excerpt: "The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rearview mirror."
+    publishedDateTime: 2020-01-22T21:50:00Z
+    webUrl: "https://www.wmur.com/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382"
+    ampWebUrl: "https://www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
+      name: WMUR9
+      domain: wmur.com
+    quality: 44
     images:
-      - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-20022112310822-1-1579732291.jpg?crop=1.00xw:0.844xh;0,0.156xh&resize=1200:*"
+        width: 1200
+        height: 676
   - title: "£1.2m awarded to progress self-driving vehicle cyber security projects"
     excerpt: "Seven projects have received Government funding to support the development of connected and self-driving vehicle cyber security testing capabilities. Organisations from around the country are involved in the projects, including Honda Europe, University of Warwick, University of Bristol, IBM and the Millbrook and HORIBA MIRA testing grounds."
     publishedDateTime: 2020-01-29T16:26:00Z
@@ -60,6 +60,19 @@ related:
       - url: "https://cdn.fleetnews.co.uk/web/1/root/driverless-car.jpg"
         width: 640
         height: 400
+  - title: "This self-driving car has no steering wheel or pedals"
+    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
+    publishedDateTime: 2020-01-23T13:29:00Z
+    webUrl: "https://www.djournal.com/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_6519890d-38c7-523c-b864-2a565adcb0f5.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/6/51/6519890d-38c7-523c-b864-2a565adcb0f5/5e282eceb9f09.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
   - title: "This self-driving car has no steering wheel or pedals"
     excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
     publishedDateTime: 2020-01-31T14:41:00Z

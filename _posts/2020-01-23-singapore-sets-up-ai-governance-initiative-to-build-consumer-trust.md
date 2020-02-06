@@ -24,21 +24,6 @@ images:
     height: 358
     title: "Singapore sets up AI governance initiative to build consumer trust"
 
-related:
-  - title: "Singapore unveils new initiatives to build consumer trust in artificial intelligence at WEF | Video"
-    excerpt: "A set of three initiatives, aimed at improving consumer trust on the use and governance of artificial intelligence (AI), were announced by Singapore at the World Economic Forum (WEF) annual meeting on Tuesday (Jan 21). Media playtime"
-    publishedDateTime: 2020-01-22T18:56:00Z
-    webUrl: "https://www.channelnewsasia.com/news/singapore/singapore-unveils-new-initiatives-to-build-consumer-trust-in-12304710"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 23
-    images:
-      - url: "https://mediacorp-videos.akamaized.net/JlbDUzajE636K3gyTjCC1bjnTH81uaqm/yeOkC802fbC1__xn4xMDoxOmFkOxyVqc"
-        width: 426
-        height: 240
-
 secured: "U4jk1BrLEM+FRrvKYT5q3EnYyHo02gxHhgdN8Huht4B8euZ3xrizKYbpmxzCEKGl4IzJuFJsS4gR2uRrJ2jqxqCq3luFv2Wj1ShgTSzNe9li8kngFb9hTJBMP+YZXcv/FffsOGJqsrywBsJnlAZL6ehpbQIU9VcXB9ykn07ySHsJqSAbire77bQTsTsgTp9HUmi3RO2daQ4d6tIQ9e6gJa4VJh/YNaJ5u45sk/ZcWA30M78L6tYpLeRBOYnFJ+SAxmeQL8QtRAOOFwPOUnkqp264IVfuWbVklW81Pf++6TNEufMty0UGbROJecz+UYu/SEnRz89qNWMgs8ZSB9ablpK8/i64Mo0kn9S5CHO8xrAowmDxaMUB+X+mm/eJnV5XDEsn4l15uDAB9fB1gWN04UDiGAr1Bpu+AIhtAxqyCHwfZ6vxtotryQYYsmUQv9l+Pr2/eFi2cs+Qu/ktpORiNw==;T/haBB+NhHUvS7i8nvNcxg=="
 ---
 

@@ -4,11 +4,9 @@ title: "Driverless car to mutant fly: IISER Science fest brings innovative scien
 excerpt: "Students exhibit a driverless vehicle by ATI at India ... This year’s major themes are artificial intelligence and neuroscience with additional focus on life sciences, astronomy, quantum physics ..."
 publishedDateTime: 2020-01-11T15:40:00Z
 webUrl: "https://www.hindustantimes.com/pune-news/driverless-car-to-mutant-fly-iiser-science-fest-brings-innovative-science-experiments-to-pune/story-76LSGI2pFlF9vn0nnLMcgJ.html"
-ampWebUrl: "https://m.hindustantimes.com/pune-news/driverless-car-to-mutant-fly-iiser-science-fest-brings-innovative-science-experiments-to-pune/story-76LSGI2pFlF9vn0nnLMcgJ_amp.html"
-cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/pune-news/driverless-car-to-mutant-fly-iiser-science-fest-brings-innovative-science-experiments-to-pune/story-76LSGI2pFlF9vn0nnLMcgJ_amp.html"
 type: article
-quality: 27
-heat: 27
+quality: 7
+heat: 7
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-secured: "g6g115q35RA3x2XNlMolsKdrCgwqR4AdzVazS6N8wSNYP8CIOPQPCquNBADZUTnEH8SEr3CZtJUuzt8JAu7JfXmqDryW3PPOMwdvJw8n/WNcpeFoUbMbS4oXQJ7JMgvPEoXpLOlFFiZgfIWONKbZvEzTxoNraRTWGciGaLUjz50y7CsK/rFHarAsqhAAklNCTG1dWKNsStQn/cN/WUyfeIYdJ5RqXsp7cF1naygGnfB4PyePk+c8dMTb9t6ZaNUT9tk3xJQSl9iXbk4izA6PoAG68ysGjCvlKEIB6ngybWMZZJZ80eeh9ae9UfYIG3KS;s40sL6jjPPXLIXwrxF+bdw=="
+secured: "UrB+tSLB8O8A0FPBtZ+ctBB1w/Jf4FoJ59Z/OZ4patmUa9fes2h8A9hISBk9A0gIKJ5v7mL6U/EMw6YFJsx1U3BIBis2hy5vEVd5JqFFIiV7dRB2TqRbh27q1pQEVLHTdT6DyXFA89TyJexUbRjAbFSdLYy5HrBK5ssBLB/ZU9PUHpKgw0cGL+t3y9sRwKWyORAGlAau4A9dn8cNgqsEDaRT5Gaxn5Qh5J8GmD9Xe6nByI8Jjb9US4+8pflmTkp3KcUJiG2ZDAywBw87U/O+MA9NSZlF2ZSjzm0yvWSlZT59wlkyngNI4e033Y3WRoaO;p1Q63vYdtAAXL97hC2kuRA=="
 ---
 

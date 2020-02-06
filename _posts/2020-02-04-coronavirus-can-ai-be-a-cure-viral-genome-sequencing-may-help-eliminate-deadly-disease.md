@@ -40,6 +40,15 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F7cd7b4967d614c3d89ed4a04f86f4bd4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D0%26cropY2%3D1688"
         width: 1200
         height: 676
+  - title: "Coronavirus Fears Will Leave Empty Seats at a Top AI Conference"
+    excerpt: "Yang was due to present an award-winning paper describing a way for an AI algorithm to perform image recognition by drawing from different datasets without ever revealing their contents. He decided to cancel his trip due to the global health emergency triggered by the coronavirus in China. Yang estimates that around 800 attendees from mainland ..."
+    publishedDateTime: 2020-02-06T07:00:00Z
+    webUrl: "https://www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "DvCyLUA447W0BVdIrK9dhIUZ1fHmJasCTKFtRwu7htmHvH4kziW55kZLv+g9kgWGrliA4qj3PivXGtzlYXZDLkPyVTVMf66ln5NdbuZ+rl7H+saNMkduzjWEcE5L85WD136mZhFsCaahG/PDUX1KYcnybAJ0Sh67DMbRCNdCHHXhEvDbinMu3VuID00FHNsZPdOCVCb+Rs52GVKbFPCyMbfIcx/8kYt0gWlZw8vyr3UZL4FUjPOVMjFKy+wBPFoE97SOtevwgUJaYDFfMv4aQRnEan134D0FmAcxUMI5Bu1nLW0siuPzuOrkNblGzuMKEveKeVP3Jfg1qtgIJfusgiEohceAr/LWhUlC//J/lQwaMUuwobGiQOAVDgrGFmQyWuhm59t7MsQIYJbnKJ8AbSARGt/fqaHHrgOVXoKgKvQHUxnPzQa+VrJskk1+/IDfb4ZIO74qy2jNF6BSJA8fjJgcEymLWfW8DqKEJilJ0qE=;uIiGx6q/lMAyEgq/4YU1TA=="
 ---

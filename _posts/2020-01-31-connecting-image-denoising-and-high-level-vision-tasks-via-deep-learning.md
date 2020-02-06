@@ -32,6 +32,15 @@ related:
       - url: "https://img.automationworld.com/files/base/pmmi/all/image/2020/02/2001_np_Basler.5e387e91c4560.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 800
+  - title: "Deep learning skills shortage crippling UK businesses"
+    excerpt: "The lack of deep learning skills is hampering the performance of British businesses, according to new research from operational AI firm Peltarion. Its survey of firms across the UK and Nordic regions found 83 percent of AI decision-makers believe the deep learning skills shortage is affecting their business’s ability to compete in the market."
+    publishedDateTime: 2020-02-06T10:44:00Z
+    webUrl: "https://www.techradar.com/news/deep-learning-skills-shortage-crippling-uk-businesses"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 49
   - title: "Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures"
     excerpt: "In this paper, we demonstrate a computationally efficient new approach based on deep learning (DL) techniques for analysis, design and optimization of electromagnetic (EM) nanostructures. We use the strong correlation among features of a generic EM problem to considerably reduce the dimensionality of the problem and thus, the computational ..."
     publishedDateTime: 2020-02-04T11:36:00Z

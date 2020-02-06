@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T12:03:00Z
 webUrl: "https://www.businesswire.com/news/home/20200205005399/en/Natural-Language-Processing-Market-Expected-Valued-22.9"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+related:
+  - title: "Rehabilitation Robots Industry Outlook 2020-2025: Set to Exhibit a CAGR of 25.8% - Exoskeleton Robots Expected to Hold the Major Share"
+    excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Rehabilitation Robots Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Rehabilitation Robots market is expected to register a CAGR of 25."
+    publishedDateTime: 2020-02-04T16:49:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/04/1979704/0/en/Rehabilitation-Robots-Industry-Outlook-2020-2025-Set-to-Exhibit-a-CAGR-of-25-8-Exoskeleton-Robots-Expected-to-Hold-the-Major-Share.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "K4pEQ3VoOt1JNsf8hNKiOkvKWo20XRuM8zai2YurqmTtn2FTfKNJogFzbY/IFFgHz5CJhiGFoUWY6CxjK6+vcWhqfJo9mlO4O1dV77fdZ4buaizU2zujocdQczgvcfbK5doW6BlmCFkOhO8xO1JN3O8BrVfUDvflnVVyH4avkCQPLFhFjmnVNAUwjNQfQc2lzADbTfovYkFlRvB4t6OPxVPAK+4KdDmqwJi+yGjNirIB8+AVN3CL+9Yxpk0qtRfxsMSMswujxmdTw/tVAZ/Z9sgUP4YYVoF0CZ4nA3FbR+DSoCb+8SzYtISEnoWWbOixSBFb6VYUii/onnM+I3KABR5XlFWyoKffIE60VOslx4iMqbb2mmwQ9HRZx71p2h6o1wB2GaVG7nPR9r6RZe9RaC+YHBg7PgWRlmAu7hfcrG9UGypB4Tf3Xdit3tUrSUSvj/QsszJI/84ECAVJT4oU7Y5H2WQR/I4ggKHN4kuxJlE=;uHzxZJ3LZbW6SR130JCnEw=="
 ---

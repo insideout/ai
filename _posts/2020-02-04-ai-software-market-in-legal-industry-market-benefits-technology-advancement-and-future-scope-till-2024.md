@@ -66,6 +66,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Computer Vision Software Market Rising Trends and Technology Advancements 2020 to 2026"
+    excerpt: "The report presents an in-depth assessment of the Computer Vision Software Market including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models,"
+    publishedDateTime: 2020-02-04T04:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-rising-trends-and-technology-advancements-2020-to-2026-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
   - title: "Reinforcement Learning (RL) Market Report & Framework, 2020: An Introduction to the Technology"
     excerpt: "Dublin, Feb. 04, 2020 (GLOBE NEWSWIRE) -- The \"Reinforcement Learning: An Introduction to the Technology\" report has been added to ResearchAndMarkets.com's offering. These days, machine learning (ML),"
     publishedDateTime: 2020-02-04T11:38:00Z
@@ -83,6 +92,24 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
+    quality: 0
+  - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
+    excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
+    publishedDateTime: 2020-02-05T02:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
+  - title: "Self-Driving Bus Market Advanced Technology and New Innovations by 2026 – AV Volvo, Continental AG, Volkswagen"
+    excerpt: "Market Growth Insight add Self-Driving Bus Industry Report providing Global and Chinese Market Landscape and its Growth Prospects over the coming years till 2026 A self-driving bus is a robotic vehicle designed to travel between destinations without the need of a human operator. It combines sensors and software to control, navigate, and drive ..."
+    publishedDateTime: 2020-02-06T13:49:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/38259/self-driving-bus-market-advanced-technology-and/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
     quality: 0
 
 secured: "zoUEF5c8nRlKxjYPukrCYh2PzDjkwwOV71o877k0ZZZ7miH7b6cbYGFJj/XBlvqrqug0ZWZK39705mq3+IIjgPsuiFsfC9+t3cidE1qyOoztKtLxXSsvCRIbfGYZ0YJCxCYDt7m06Zqba+dqV5JkxJKrUQQJTlxEu67cEFCSRrcOQ6HTy1XbjqajIAFlb7LVGLgnLcq958VXw8Iy2we7O3p6kGmGlBXRdT6oMRs+zs9YiKdlmHfye2UpiiQRO5ICw8eM6uzn1p+PPXd4pVBVUWsQqH3dbbT1z1lQs4PMpbf5Ly4Od1BU7rP1jkv//1aQ;cn+2OgoWXz006HUugM/kug=="

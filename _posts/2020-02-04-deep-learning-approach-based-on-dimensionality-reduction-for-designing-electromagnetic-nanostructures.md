@@ -37,6 +37,15 @@ related:
       - url: "https://img.automationworld.com/files/base/pmmi/all/image/2020/02/2001_np_Basler.5e387e91c4560.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 800
+  - title: "Deep learning skills shortage crippling UK businesses"
+    excerpt: "The lack of deep learning skills is hampering the performance of British businesses, according to new research from operational AI firm Peltarion. Its survey of firms across the UK and Nordic regions found 83 percent of AI decision-makers believe the deep learning skills shortage is affecting their business’s ability to compete in the market."
+    publishedDateTime: 2020-02-06T10:44:00Z
+    webUrl: "https://www.techradar.com/news/deep-learning-skills-shortage-crippling-uk-businesses"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 49
   - title: "Connecting Image Denoising and High-Level Vision Tasks via Deep Learning"
     excerpt: "Abstract: Image denoising and high-level vision tasks are usually handled independently in the conventional practice of computer vision, and their connection is fragile. In this paper, we cope with the two jointly and explore the mutual influence between them with the focus on two questions, namely (1) how image denoising can help improving ..."
     publishedDateTime: 2020-01-31T00:40:00Z

@@ -41,6 +41,15 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 31
+  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research(R)"
+    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion by 2025. The growth in the speech and voice recognition market can be attributed to the rising acceptance of advanced technology together with increasing consumer demand for smart devices,"
+    publishedDateTime: 2020-02-06T11:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-worth-268-billion-by-2025-at-a-cagr-of-172-from-2019--meticulous-researchr-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
   - title: "Global LegalTech Artificial Intelligence Market is Expected to Grow at a CAGR of More Than 37.7% Over"
     excerpt: "PUNE, India, Feb. 4, 2020 /PRNewswire/ -- The digital reforms in the legal industry have transformed the traditional courtrooms and law practices, thus strengthening the prevalence of Artificial Intelligence (AI) in legal technology or legaltech. The increasing burden of legal activities, carried out around the globe, over a limited number of ..."
     publishedDateTime: 2020-02-04T15:58:00Z
@@ -100,6 +109,15 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 1
+  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
+    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
+    publishedDateTime: 2020-02-06T12:07:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980967/0/en/Voice-and-Speech-Recognition-Market-Worth-26-8-Billion-by-2025-at-a-CAGR-of-17-2-from-2019-Meticulous-Research.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "6FMJ4Y4oynBwf45KLeHnGgzEJ9Ki/1hcC0y485KpT1ZTQ1tSt2T0bqRwn8jqCKYHgRJ4B/g1FMMKQnc60yhLNZSCFLB4YiCCfQLmrVxBTHz1nvxopdxLUPDlVrGuD5oCx+3mU5y6AIhl/aB9CdnP9OowjIvIJeC0X7I26thHErAZ5tSE80uKPfknYRDVaqdJ6JWgndKhhT++hnTaBjYnOzy4q62zb7Fv5f0lXcxc7neYmHNjMLrR3OVgasjvQqm4ubnsPloDZ5uXDmLWPWPj78nXIhHzzQgOYG2n1ZMQ6KS1Tejg3RNAAL6lhZvgDQco;FH8nHtED8ZAkDpuDcJbWYw=="
 ---

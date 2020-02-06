@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T09:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis-2020-02-03"
 type: article
 quality: 62
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -41,24 +41,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global AI Machine Learning Market: Facts, Figures and Analytical Insights 2019 - 2029"
-    excerpt: "The research study on Global AI Machine Learning market 2019 presents an extensive analysis of current AI Machine Learning market size, drivers, trends, opportunities, challenges, as well as key AI Machine Learning market segments. Further, it explains various definitions and classification of the AI Machine Learning industry, applications ..."
-    publishedDateTime: 2020-01-28T06:41:00Z
-    webUrl: "https://www.openpr.com/news/1910247/global-ai-machine-learning-market-facts-figures"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
-  - title: "Global Automatic Speech Recognition Market by Manufacturers, Types, Regions and Application Research Report Forecast to 2024"
-    excerpt: "Bigmarketresearch.com Published \"Global Automatic Speech Recognition Market 2019 Research Report – Forecast to 2024\" – Market Investment Analysis, Business Operation Data, Top Companys, Opportunity, Features,"
-    publishedDateTime: 2020-01-30T07:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-by-manufacturers-types-regions-and-application-research-report-forecast-to-2024-2020-01-30"
+  - title: "Artificial Intelligence In Medical Imaging Market Current And Future Trends 2020-2026"
+    excerpt: "The Artificial Intelligence In Medical Imaging Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Medical Imaging Market study provides comprehensive data on aspects of competitive intelligence,"
+    publishedDateTime: 2020-02-05T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-current-and-future-trends-2020-2026-2020-02-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 22
+    quality: 42
   - title: "Global Speech and Voice Recognition Market"
     excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice Recognition report helps make known uncertainties that may come up due to changes in business activities or introduction of a new product in the market."
     publishedDateTime: 2020-02-03T10:10:00Z

@@ -50,6 +50,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+  - title: "Just AI, a conversational AI solutions provider, receives investment from fintech and telecom companies"
+    excerpt: "London, UK: Just AI, a Conversational AI technologies developer and solutions provider, received funding from two strategic investors. The first one is MTS PJSC (NYSE: MBT, MOEX: MTSS) - one of the leading mobile network operators in Russia, Ukraine, Armenia and Belarus with over 106.5 million subscribers. The second investor is Sovcombank PJSC ..."
+    publishedDateTime: 2020-02-06T09:44:00Z
+    webUrl: "https://www.openpr.com/news/1920717/just-ai-a-conversational-ai-solutions-provider-receives"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 3
 
 secured: "lwQ0QwpT86qn4sJrT9SHsWmun8dcVF8S3XsANoRTmZwGphP8aLJY/uYOKbPrG1iA36fmDvTQyMplTuNLWJdCsmbpgvRBOboA5XUWe6jhTyefWrcRGIME9oocGDi+wDlmdKnTOZXa60cdYK1Cc5QTYvVUo7s5jUaeahYy5OPh1O0VT+mGvVil2qZnOZARBtSa//FD2669ujMOgyU18fQKqtKcH3Ni0rMrmiQim8egiLOTG41TXJFBhIg41/rixcuuFD7VziyFDws5tiiVwgnVQT2au8uZ+wpkbswZtY93183BoYK2eAEPmROgoqkgHYoDWDdYsJJIxiBhNSPh6xcZGRL3M1C5pp5N/OE+tvvHRWWaQr7iicnrcYYWne27fsuBlFVP3lFZyg1TxnwnydOMk83kkeUlNoVDrdyIx0M3grU2+HEEj/PLHVErFyHmjISlkrxyqSN3sgE6Xbt8gI9yJJMG3n1w+PLssw8/pI3Tv8Y=;gVSYl9ukrvR/23k4rdmkaA=="
 ---
