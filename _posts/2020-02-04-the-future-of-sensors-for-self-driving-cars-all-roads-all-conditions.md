@@ -67,17 +67,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/6/51/6519890d-38c7-523c-b864-2a565adcb0f5/5e282eceb9f09.image.jpg?resize=576%2C324"
         width: 576
         height: 324
-  - title: "This self-driving car has no steering wheel or pedals"
-    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
-    publishedDateTime: 2020-01-31T14:41:00Z
-    webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.html"
-    ampWebUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
-    cdnAmpWebUrl: "https://www-mdjonline-com.cdn.ampproject.org/c/s/www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
-    type: article
-    provider:
-      name: Marietta Daily Journal
-      domain: mdjonline.com
-    quality: 24
   - title: "The road ahead for digital signage in self-driving cars"
     excerpt: "Once vehicles become truly autonomous, traveling by car will become a much more passive experience. And while today we're grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them entertained ..."
     publishedDateTime: 2020-02-04T15:59:00Z

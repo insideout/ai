@@ -39,17 +39,19 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
         width: 960
         height: 640
-  - title: "Facial recognition scanners at US airports under more scrutiny"
-    excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
-    publishedDateTime: 2020-02-03T23:58:00Z
-    webUrl: "https://www.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
-    ampWebUrl: "https://amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
-    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
+  - title: "EU Prepares for Coming of Facial Recognition– On Its Privacy Terms"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy. Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next ..."
+    publishedDateTime: 2020-02-03T12:59:00Z
+    webUrl: "https://www.insurancejournal.com/news/international/2020/02/03/557118.htm"
     type: article
     provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 54
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 39
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
+        width: 900
+        height: 598
   - title: "Consumers Warm Up to Facial Recognition to Keep Them Safe, but for Marketing and Advertising, No Thanks"
     excerpt: "As facial recognition systems become increasingly accurate, more governments and law enforcement organizations are tapping them to verify people’s identities, nab criminals and keep transactions secure. In recent months, France’s government announced a nationwide facial recognition ID program, a UK court ruled that live facial recognition ..."
     publishedDateTime: 2020-01-29T02:39:00Z
@@ -59,6 +61,15 @@ related:
       name: eMarketer
       domain: emarketer.com
     quality: 3
+  - title: "Army researchers investigate long-range facial recognition by combining infrared sensors and face databases"
+    excerpt: "Stars and Stripes reports. Continue reading original article The Military & Aerospace Electronics take: 4 Feb. 2020 --The advanced facial recognition technology could aid soldiers in the field, but comes with some growing cyber security challenges ..."
+    publishedDateTime: 2020-02-04T11:47:00Z
+    webUrl: "https://www.militaryaerospace.com/sensors/article/14104030/facial-recognition-infrared-sensors"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 1
 
 secured: "gARTM1QI1cYCjfZWj8ZOsV1VgE1qnAwXUfGqZY2oTz/X7LIY3YRRichrVERYurxYdl1Ys8Kf24uNPJW9znfW/x07CZSuAYDhBSJcrb4IpLVO7L+6FUzcqk+KFiemA90qdNJ5Q+smNTj5sSdwMflAyw84GIOSw+PY1bNYMA4CIqXXxVeJ6t3QfRz6v8LL1IRdSTCmVKBkui8xqexcdgZ05H3GTy8IsCFcvENcPnc5eaJpR1xWHHxaHLf9usLhIMumIuH7ExGakNC4VA5i8hDZ23AdN3NXSoOHdpgCwUkZcSsbDAcHvRAIufV50c/21axO;VGZq+CieC8+XTggcPbenaA=="
 ---

@@ -101,19 +101,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2020/01/offshore-software-development.png"
         width: 700
         height: 400
-  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
-    excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
-    publishedDateTime: 2020-01-31T15:06:00Z
-    webUrl: "https://www.businessinsider.com/developer-technologies-digital-transformation-tech-companies-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
-    images:
-      - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
-        width: 1024
-        height: 512
   - title: "Plannuh Raises $4 Million To Expand AI-Driven Marketing, Budgeting and Planning Platform"
     excerpt: "/PRNewswire/ -- Plannuh, a startup transforming the way marketers plan and budget, today announced a $4 million seed round co-led by Glasswing Ventures"
     publishedDateTime: 2020-02-06T12:00:00Z

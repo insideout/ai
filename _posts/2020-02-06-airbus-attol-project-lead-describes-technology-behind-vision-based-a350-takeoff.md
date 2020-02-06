@@ -23,6 +23,6 @@ images:
     height: 634
     title: "Airbus ATTOL Project Lead Describes Technology Behind Vision-based A350 Takeoff"
 
-secured: "Os3C845fhlkdOdsOYCg6uDbq4jm7FYLgYVxv61UQ9o9J0zgbMqhqaaDnHdnTTe64wZjbzQjp+XHnvOmKXZY4W6m+WOj7PuS3kQMZhgLmBO6rgk+dJYD+A1QeU+DX4sePaFyNfQhQJeFC/emj2dRQXz+ZW2PSqfG7wutX9FS4BrIM6zUwpaJBdULn18u2O8Itbxuc2ez3tGerOIOoMj/K+CV181CiOTbPXfy8tQ18+lP014OOxuKP5KdBNrcHDkoCth0+KlEPiWRnZkLHExuZOdSeXunzOMrvItqKSAJjjixNkoAc23PQzHhFdqzM3L81;Pt/CSfsbWBsU1YxnFRgSWA=="
+secured: "flGdUfnjX6koyYr+gUUdcalB1T/7fK/Iq26H+8hxvAF/Zmwhpzx3GlvtsFCs0UDzXcNgvTkCwhmzX3Jm2EEM0k9EXISzdkfdi0Maq+8mbJr/DGKxgmLVGWv4hgcmMSVO2JMcRoOtx6Ap9h5IRs6C79BoxfMUdhv7dYf2nsMKgOTX95e+/EaDW/egtbge2O0uvUQ8BLulIqBfy/Z4J6ikPD2zfQXIybCTkf3eyH4X9MM09UXz5futkO9k/imS42OsLu17n1aQyU50szKQ6klm7qewsG3q/YVeIp8Cc9+Fj7yc0wsL306fUextgkqZZfwz/42qRmhb+jwOV4cafwas5apWCw2abaIyECnYUdcKefl6Bh9+L0aus9G3vJYRpLkUCk4NPtloOYRuygWa//FNFDsTsP9xIJISk3hp+mnqGro4owSEQ31s2Evr3udT3gaEsDt7ZE5SISiJIjTJzLvM32dHk/VQx/mdP4cWFCt0Zlg=;+YlYOE+vLU8UymHqhcW3Lw=="
 ---
 

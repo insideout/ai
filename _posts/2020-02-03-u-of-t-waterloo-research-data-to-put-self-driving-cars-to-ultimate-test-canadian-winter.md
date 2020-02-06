@@ -37,6 +37,19 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2020/2/4/saupload_Dollar-Car-cropped_thumb1.png"
         width: 640
         height: 390
+  - title: "Magna scaling back Lyft partnership as fully self-driving systems look further off"
+    excerpt: "TORONTO — Magna International Inc. is scaling back its partnership with Lyft Inc. to co-develop self-driving technology as it focuses research and development spending on more near-term prospects. It was only about two years ago that the Aurora, Ont.,-based auto parts giant struck an ambitious partnership with ride-hailing firm Lyft to ..."
+    publishedDateTime: 2020-02-02T09:34:00Z
+    webUrl: "https://www.newsoptimist.ca/magna-scaling-back-lyft-partnership-as-fully-self-driving-systems-look-further-off-1.24054007"
+    type: article
+    provider:
+      name: Obituaries
+      domain: newsoptimist.ca
+    quality: 18
+    images:
+      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24054008.1579197909!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/cpt10140229-jpg.jpg"
+        width: 560
+        height: 292
 
 secured: "wyYKK3v97/vvzKMXh4mcnJGNIiBQl5H6z37vv4aMWe4vMoSFD1xymwpiz+H/muSbUuFlBtXuMbkloMgvnkyIc4pRJMCeWUC8owKBF8H40rDGC4E9tavYqQPZNgMJOpO4fCAx4J2QuFsAANzxVYhf8+56l4PLW3/Fd89iLIPd9QsBf7nvNeMqx93O++yTrLI6mjNfFcpEuhmTvb325mZG1hQre4sJa/Q+Oy6a6GGUWWgDr770rRh3BidIZ7VhXa3CmAxS0C+c+N/y9k+OrHrPW8N8PB9hudaWIpDE/97e3nwd8ikm2dT8zqWePTFeUxqasqC4S8svDcAE07+qzP8L7J/Zrzme/RoKYIZtxRtUoM+Rb2IEVKG7bGrSLJHNo9GUBH9dFDYqJ9VDrYuddw9IMv/FogtyUJjsiMk0eneh4iKkMOw6ssn/Ke4R7+xX7ZQqu+NdkHWkSySGDCGJlaXxG/D/L78gwGHGAx2It/gGL+c=;auL+gwi9dvsSvOnfMr9bCQ=="
 ---

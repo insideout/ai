@@ -50,21 +50,6 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/voting_ink_ians_505_040220042120.jpg"
         width: 505
         height: 264
-  - title: "Police Use Of Facial-Recognition App Comes Under Fire [POLL]"
-    excerpt: "One attorney general has prohibited police departments from using the app. Should law enforcement be allowed to use it?"
-    publishedDateTime: 2020-02-01T14:42:00Z
-    webUrl: "https://patch.com/new-york/yorktown-somers/police-use-facial-recognition-app-comes-under-fire-poll"
-    ampWebUrl: "https://patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
-    images:
-      - url: "https://patch.com/img/cdn20/shutterstock/57069/20200131/021240/styles/patch_image/public/shutterstock-795306157___31140558320.jpg?width=984"
-        width: 708
-        height: 531
 
 secured: "vZGCuLfyQrTwSDsznMy35Pv4ZPA2rOQlOyJcQxeoqRlw3y+dtIlq/JLh1PtwSqJT61xKb/78rFaVCuXZpmUjKGGKWgutPvNCK++Gq+XuHUoOdYJeB8ARoFNzmierHSKcfg1UnfyhiKNAGR1r9p2oqo0uu1dKEhTm+fY9nJ+2cgNW7IgHRXWY1Ms3XsP/RbNl+r57QAXryFAZwZYBSr7/gynHpyiFKWfCs6jKzsHUTvMVMnbQoCp+yNas3QVPyalKF6Gor6DV+Ujy70wBGuqsHcHOYhuAqwkKVWc1cPp3JnSmBrmct+U/WKKWhC6HDdwk1YOCSWCwc+x3paiSbLcRg/174Jf/N+lduXSuoymhN6D2CYnGum4IAQMErhfm4wM7of9lfT3IFXD0MaU6n+HwH+xyXdpTI3WN/3NsS55JFuccb7OrSc4yTSOnIhAmP1hdc2KfttZX9oXK+4mUiOKxLpPI4vk6hxGKzmH5qlbrh7M=;w3CZm9tDD7ys+XsCUGQXqg=="
 ---

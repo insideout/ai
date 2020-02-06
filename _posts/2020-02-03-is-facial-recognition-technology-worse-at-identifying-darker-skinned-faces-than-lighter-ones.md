@@ -24,52 +24,80 @@ images:
     title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
 
 related:
-  - title: "Facing facts: Reject a blanket ban on face recognition"
-    excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
-    publishedDateTime: 2020-02-04T09:00:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+  - title: "State lawmaker wants to stop cops from using facial-recognition technology"
+    excerpt: "A state lawmaker wants to stop cops from using facial-recognition technology, following a Post report. Sen. Brad Hoylman (D-Manhattan) introduced the bill Monday calling for “action to regulate this increasingly pervasive and dangerously powerful technology, before it’s too late” — days after The Post reported the NYPD’s unofficial ..."
+    publishedDateTime: 2020-01-28T06:53:00Z
+    webUrl: "https://nypost.com/2020/01/28/state-lawmaker-wants-to-stop-cops-from-using-facial-recognition-technology/"
+    ampWebUrl: "https://nypost.com/2020/01/28/state-lawmaker-wants-to-stop-cops-from-using-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/01/28/state-lawmaker-wants-to-stop-cops-from-using-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 59
+      name: New York Post
+      domain: nypost.com
+    quality: 42
     images:
-      - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
+      - url: "https://thenypost.files.wordpress.com/2020/01/state-lawmaker-wants-to-ban-facial-recognition-tech-in-law-enforcement.jpg?quality=90&strip=all&w=1200"
         width: 1200
-        height: 799
-  - title: "Doha Bank integrates facial, voice recognition into app"
-    excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
-    publishedDateTime: 2020-02-02T19:02:00Z
-    webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
+        height: 800
+  - title: "Assembly committee ponders use of facial recognition technology"
+    excerpt: "There’s a facial recognition app local law enforcement has used to identify potential suspects in a criminal investigation, but no more. The state attorney general has banned the use of Clearview AI. It all stems from concerns over the software ..."
+    publishedDateTime: 2020-02-03T22:57:00Z
+    webUrl: "https://www.njtvonline.org/news/video/assembly-committee-ponders-use-of-facial-recognition-technology/"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 26
+      name: NJTV
+      domain: njtvonline.org
+    quality: 39
     images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
-        width: 620
-        height: 355
-  - title: "Readers sound off on face recognition, Cuomo’s budget and Biden’s stutter"
-    excerpt: "In the past, the criminal justice system relied on eyewitness memories, which were often not reliable at best. Now with DNA and facial recognition profiles, it’s almost impossible to convict the wrong suspect. Yet it also brings to mind the book “1984,” which was written to show the abuses that an unrestricted government can bring upon ..."
-    publishedDateTime: 2020-01-30T08:00:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-letter-january-30-20200130-ng2fcp7wzjc6jpttdx5mdmhmti-story.html"
+      - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
+        width: 1920
+        height: 1080
+  - title: "Christopher Elliott: Facial-recognition technology stokes privacy concerns"
+    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
+    publishedDateTime: 2020-02-02T05:08:00Z
+    webUrl: "https://www.sunjournal.com/2020/02/02/christopher-elliott-facial-recognition-technology-stokes-privacy-concerns/"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
+      name: Sun Journal
+      domain: sunjournal.com
+    quality: 22
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/11/2019/02/Christopher-Elliott.jpg"
+        width: 450
+        height: 366
+  - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
+    excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
+    publishedDateTime: 2020-02-03T21:46:00Z
+    webUrl: "https://japantoday.com/category/tech/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
+  - title: "Minnesota Legislature begins considering facial-recognition technology regulations"
+    excerpt: "A joint legislative committee has taken the first small steps toward considering what a handful of cities and states around the country have already done — regulating or banning the use of facial recognition software by business and government. It was such a small step considered by a subcommittee of the relatively obscure Legislative ..."
+    publishedDateTime: 2020-02-03T14:21:00Z
+    webUrl: "https://www.minnpost.com/state-government/2020/02/minnesota-legislature-begins-considering-facial-recognition-technology-regulations/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
     quality: 18
-  - title: "Ban cops from using facial-recognition tech, lawmaker says"
-    excerpt: "NEW YORK - Facial-recognition technology is a top crime-fighting tool for police departments, including the NYPD. But one state senator hopes to change that in New York. Sen. Brad Hoylman, a Democrat who represents parts of Manhattan, wants to either ban ..."
-    publishedDateTime: 2020-01-30T03:32:00Z
-    webUrl: "https://www.fox5ny.com/news/ban-cops-from-using-facial-recognition-tech-lawmaker-says"
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
+        width: 640
+        height: 461
+  - title: "Watchdog Warns About 'Chilling Effect' Of Russia’s Use Of Facial-Recognition Technology"
+    excerpt: "Amnesty International has criticized Russia’s plans to broaden the use of widespread facial-recognition systems, saying their expected deployment during public gatherings will “inevitably have a chilling effect” on protesters. The London-based human rights watchdog issued the call on January 31, as a Moscow court was set to hear a ..."
+    publishedDateTime: 2020-01-31T11:35:00Z
+    webUrl: "https://www.rferl.org/a/watchdog-warns-about-chilling-effect-of-russia-s-use-of-facial-recognition-technology/30410014.html"
+    ampWebUrl: "https://www.rferl.org/amp/30410014.html"
+    cdnAmpWebUrl: "https://www-rferl-org.cdn.ampproject.org/c/s/www.rferl.org/amp/30410014.html"
     type: article
     provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 4
+      name: Radio Free Europe/Radio Liberty
+      domain: rferl.org
+    quality: 16
 
 secured: "j0XIbaVt+6RCTxelcB4TCVvIEobvXr/Bn5cuROKWShicCWqyk0JZED0bo1aCNkTzVesVV7mQX7kzwwuN7mKqUX7f+VULpMAHvFSRp7koDjEjgvgZ3gxxWcY7sFCqz3x6yzF/OatNLTmB3e4fwzryuZsAWPrvJBEZwj4Ff6XFm+j/Zd7JHl0rIlgW9YEO4l9OIiKFzmmdRgIyVhHklRZH7QDNYbcUYLjbcfUlO85pmOtDlr/uTetmVuMpXyFMXkcZ2guYo5oBpQHql5GsNzmjjzViWXkOBYo7jikin+1J2L/XDZMPCCj2q4MgmvwdEXJFXoaOm06rIFO9x5EpKti38tQ42Ya+yH8LbunoH7oy+VgnxXhhs0yZP+SGLyNupupAGPi/lDemPk7we3/IERGQNy2BceEN+h7N9ePSQ4qbZQdi8sS5MAcVxP08MVW20GGrx+5tLlKE2Vf3G271dPmXjtDzDKTjzLWr7lH+Uul8y78=;89Clc/8g/gsJqIxnWBA7lw=="
 ---

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "DeepMind found an AI learning technique also works in human brains"
-excerpt: "Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new explanation for how the reward pathways in the brain work. These ..."
+excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
 publishedDateTime: 2020-01-16T04:58:00Z
 webUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/"
 ampWebUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
@@ -19,6 +19,6 @@ topics:
   - AI
   - Google AI
 
-secured: "pvHHan2PXcCmIYm430ev6xJNkKRPBvJ9wQefQpqVhR5p8zGRfGKs23GzuWgNhPgzUs/+UpnZ3Sd32dtuqrPthAlZ0dFBOp//lnmAVLWabKx4bkZKsh6ooyoRQC4H8+wvhbnnf42qm+9TA1m6+Wmyc8XsnoXcOWxD+Z3FW4VYFJ46j9U2dQe/rIH5XpMQYJuiKdpcPBK3haO7VToxsrwV4aBIf3QlvVhRoBxAk3tKktaxPs1jAOk3OgWyNsgKWc3+ici/mrPNzSDRVhSEZJxEXFGdMSrLppcjd7wtHaZ76uF+KePJ/mI+kjcbVT+5brfX8GpyOnjGfhrjBq4hoMYVz+E4hXOI1bDHQJcG0WmbETR0m3bfH4v0hL0v26tMOtnn97/CKPprwEmGqjXHtDFcw91yMWzdergT9U6Tas6qvTZ0DuJZAcrZL39/cFF0ON2IcTo8GDp62VI4TlhYiqxd2ne8ICJDg4J+lnTceBHNQZA=;i9J3hWtidA8XNYmHWNTEpw=="
+secured: "dVE5LGSaMhEer7qUxSdOzGVi5dhUNI+TGJ94QqJhH9Zo8EW6PUGo8KyUBWrPK+N6Vh/1nJJ73nUnXYXPRd9Qtt2O7VWnoiN2tq3hQncLVR0eZzfsC3JD7q3k8JE8BuydIcPxxW9HunQv86J3KGwhUVxGmXPsovpBHfddt5lrMM3dAgrnXxbooJF8vbJpobjhQH0tDwnEB2Di5j8QLXHElQxGXpFefeR8pILfSDtWVzWaGFZbB6B5p7XUn0XGTMi7X1ErtX42HyLLQH3rr52Bf1O6396Kef/ENaxXntXTI6L80g3OMvsjW7bbK37RbTE/aXF0l/zttCrmxHGDSVLpB9U+BXgGpwUEEzSwpKSlH9SDY4VDuvRo8ZadSa8CcrvDXEVF6h4wE+mSkuEtF8y/oDOk3fdxzUyOwUMxP0psp3MFI+eFFN6MWALabM5UpxVnJSGb+Io0VjQD7074rLVVFW0+ByLLVHYTsB/e7wkQyL0=;iTnUO72Yp1j0rsIOGMTUXQ=="
 ---
 

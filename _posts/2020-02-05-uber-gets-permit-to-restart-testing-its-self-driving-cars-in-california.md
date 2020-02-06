@@ -1,25 +1,33 @@
 ---
 category: news
-title: "Uber Gets Permit to Restart Testing Its Self-Driving Cars in California"
-excerpt: "(Reuters) - Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona."
-publishedDateTime: 2020-02-05T20:13:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-02-05/uber-gets-permit-to-restart-testing-its-self-driving-cars-in-california"
+title: "Uber gets permit to restart testing its self-driving cars in California"
+excerpt: "Uber Technologies Inc has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a pedestrian in Arizona. The California Department of Motor Vehicles issued a permit on Wednesday to the company’s self-driving unit,"
+publishedDateTime: 2020-02-05T19:31:00Z
+webUrl: "https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZZ2QG"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZZ2QG"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZZ2QG"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200205&t=2&i=1486288485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG141VL"
+    width: 818
+    height: 545
+    title: "Uber gets permit to restart testing its self-driving cars in California"
 
 related:
   - title: "Uber gets green light to test self-driving cars in California again"
@@ -37,21 +45,6 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/P1TSwyMIOEev0pcnkl0Asmh3kTs=/756x567/2019/08/21/f4944c4f-9607-41a7-ac58-9daaa50231e8/uber-logo-1.jpg"
         width: 756
         height: 567
-  - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
-    excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
-    publishedDateTime: 2020-02-03T07:00:00Z
-    webUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/"
-    ampWebUrl: "https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
-        width: 2400
-        height: 1600
   - title: "Uber can resume testing its self-driving cars in California"
     excerpt: "A newly issued permit has been granted nearly two years after a fatal crash in Arizona. Uber started scaling back its self-driving car tests after one of its vehicles hit and killed a pedestrian in March of 2018. While the company doesn't seem primed to unleash a fleet of autonomous cars, it has been granted a new permit to resume testing in ..."
     publishedDateTime: 2020-02-05T18:47:00Z
@@ -241,19 +234,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
         width: 600
         height: 360
-  - title: "Waymo Self-Driving Car in Manual Mode in Crash"
-    excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
-    publishedDateTime: 2020-02-03T17:40:00Z
-    webUrl: "https://www.fenderbender.com/articles/14449-waymo-self-driving-car-in-manual-mode-in-crash"
-    type: article
-    provider:
-      name: FenderBender
-      domain: fenderbender.com
-    quality: 39
-    images:
-      - url: "https://www.fenderbender.com/ext/resources/logos/10Missions_Logo_White.png"
-        width: 622
-        height: 318
   - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
     excerpt: "Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company’s plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Transportation Department believe specially ..."
     publishedDateTime: 2020-02-06T17:19:00Z
@@ -269,19 +249,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/ioZ0vfVxhHboPpFfI1sv9v84lqY=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNXLH6CJAUI6VELE2MKUVWFFZU.jpg"
         width: 1440
         height: 960
-  - title: "BGU developing system to stop self-driving cars being fooled"
-    excerpt: "In a concerning phenomena, researchers at Ben-Gurion University (BGU) Cyber Security Research Center have found that a phantom image projected on the road in front of a semi-autonomous vehicle can cause its autopilot to break suddenly. This could endanger the lives of drivers and passengers alike. In a statement released Tuesday by BGU, the ..."
-    publishedDateTime: 2020-02-04T13:36:00Z
-    webUrl: "https://www.jpost.com/Jpost-Tech/BGU-developing-system-to-stop-self-driving-cars-being-fooled-616492"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 24
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
-        width: 822
-        height: 537
   - title: "Uber’s Self-Driving Vehicles Get On-Road Permit For CA"
     excerpt: "Uber may soon be able to put its self-driving vehicles back on California roads after several years, with the issuance of a new permit, according to reports. The company had to scale back its autonomous vehicle program following an incident in Arizona where a pedestrian was killed by one of the vehicles. However, the permit — issued by the ..."
     publishedDateTime: 2020-02-06T07:13:00Z
@@ -320,6 +287,6 @@ related:
         width: 900
         height: 598
 
-secured: "9p5qGpc22VwHo1vwEHhxUgVTP7ayiPk6jjmyOU3iwfECd15dqObeWwCOUwS3UeZAcIOSK5zh9wiFeYCoY/qsimDsMdgvK4xxXBkaYmCN+BUtPUx3y41DW+eWc8vgu9dNIi4U+N924yOmzs7GdQZ/0rseUsW37oXjkKpb/6g6KH3CYq5kHD+aJJo5mvSDuOTqxeAF2ebyleU2KtKmE4bL5IbKjPO7pff5iX7IAPMyLsjzvlZKLEXnT3vpyeZW05DPICYX210dLGrIIwPxJOqn+mGDzszU8myCSHE6nn29kZ0g8gn6VcjJfBIPz0+9RQN8OYs3tCzkJdDnm6aKp4CRn0k7BFPx7fYjd75P3WHVUJUi4DqEMhLC5iTSZ0zFfc8qpPxSINnmiyywdZCbCQvU7McJTlBELB+JSxHQQJnScYte3YDJ88YgAjtCDh3b6E3AWJnS7IWkwFHkXjK7CE77tOAMZSq4cz4pM9puzp9Uhpg=;rD8BOE7+Ft4Sm4DLfJH7Pw=="
+secured: "Td2FmJYOLiQN9wW+yim8nocnCUORDMKpoQcyuuRRak7UUdrwt15I/fimVP0AoIaBf7veLb82z3eynHCZBKtZtBAwRWgWws6GxcMQMmisaAPMVBa5hi2IHQ1xqFZI/Wc4pMl5+SFlYwWIEXyJC80EeYfF+W/4f9kxL7lficTpeKGlFZ+4HU8rEdAbJrxquYvd41oWMJj+LwMRPzaJu3iMMCnObZ0sbLAbxxE+f71chdenYPa1BVC/RdBRjjBByHTuqdLToOPBeuu/JiBRIZUUQTGgn92Q+p78EVzutLIhAd0zWM5CP2aimmcGwrUERnRl;G8fcGclgAG+x29qODwCKeg=="
 ---
 

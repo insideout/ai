@@ -20,19 +20,82 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Advocacy Group Warns About Facial-Recognition Tech at Florida Universities"
-    excerpt: "The U.S. Department of Homeland Security uses possibly illegal technology to scan the faces of departing travelers at Miami International Airport, and the Miami-Dade Police Department wants in on a facial-recognition database that studies have warned could yield false positives. There's no telling where the future of surveillance technology ..."
-    publishedDateTime: 2020-01-31T15:00:00Z
-    webUrl: "https://www.miaminewtimes.com/news/fight-for-the-future-warns-about-facial-recognition-on-florida-college-campuses-11473208"
+  - title: "State lawmaker wants to stop cops from using facial-recognition technology"
+    excerpt: "A state lawmaker wants to stop cops from using facial-recognition technology, following a Post report. Sen. Brad Hoylman (D-Manhattan) introduced the bill Monday calling for “action to regulate this increasingly pervasive and dangerously powerful technology, before it’s too late” — days after The Post reported the NYPD’s unofficial ..."
+    publishedDateTime: 2020-01-28T06:53:00Z
+    webUrl: "https://nypost.com/2020/01/28/state-lawmaker-wants-to-stop-cops-from-using-facial-recognition-technology/"
+    ampWebUrl: "https://nypost.com/2020/01/28/state-lawmaker-wants-to-stop-cops-from-using-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/01/28/state-lawmaker-wants-to-stop-cops-from-using-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: Miami New Times
-      domain: miaminewtimes.com
+      name: New York Post
+      domain: nypost.com
+    quality: 42
+    images:
+      - url: "https://thenypost.files.wordpress.com/2020/01/state-lawmaker-wants-to-ban-facial-recognition-tech-in-law-enforcement.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+  - title: "Assembly committee ponders use of facial recognition technology"
+    excerpt: "There’s a facial recognition app local law enforcement has used to identify potential suspects in a criminal investigation, but no more. The state attorney general has banned the use of Clearview AI. It all stems from concerns over the software ..."
+    publishedDateTime: 2020-02-03T22:57:00Z
+    webUrl: "https://www.njtvonline.org/news/video/assembly-committee-ponders-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: NJTV
+      domain: njtvonline.org
+    quality: 39
+    images:
+      - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
+        width: 1920
+        height: 1080
+  - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
+    excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
+    publishedDateTime: 2020-02-03T22:34:00Z
+    webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 28
+    images:
+      - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
+        width: 700
+        height: 394
+  - title: "Christopher Elliott: Facial-recognition technology stokes privacy concerns"
+    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
+    publishedDateTime: 2020-02-02T05:08:00Z
+    webUrl: "https://www.sunjournal.com/2020/02/02/christopher-elliott-facial-recognition-technology-stokes-privacy-concerns/"
+    type: article
+    provider:
+      name: Sun Journal
+      domain: sunjournal.com
     quality: 22
     images:
-      - url: "https://images1.miaminewtimes.com/imager/u/original/11473392/license-plate-readers-tony-webster-ccflicr.jpg"
-        width: 3135
-        height: 2008
+      - url: "https://multifiles.pressherald.com/uploads/sites/11/2019/02/Christopher-Elliott.jpg"
+        width: 450
+        height: 366
+  - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
+    excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
+    publishedDateTime: 2020-02-03T21:46:00Z
+    webUrl: "https://japantoday.com/category/tech/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
+  - title: "Minnesota Legislature begins considering facial-recognition technology regulations"
+    excerpt: "A joint legislative committee has taken the first small steps toward considering what a handful of cities and states around the country have already done — regulating or banning the use of facial recognition software by business and government. It was such a small step considered by a subcommittee of the relatively obscure Legislative ..."
+    publishedDateTime: 2020-02-03T14:21:00Z
+    webUrl: "https://www.minnpost.com/state-government/2020/02/minnesota-legislature-begins-considering-facial-recognition-technology-regulations/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 18
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
+        width: 640
+        height: 461
 
 secured: "mvQ9DiCNE5Gn+5FMZytZPQ66y3iiutfku6R2DyWc46hb7ChO9zXXTE4yOydY4McS1xkILefg0js/NhbiQRWhjJ+uRMcrY7IIhnTQ9HntdrhN8lkpdO4YJ8t/zkhUtjHahm95JjPwY7+uNLxtuRXD9wu/E2Ry3bd51ldVt1xt1d4h280wbrdITq1PDc8xamPRJqTLTL9OJLyopLFuPvsV+rhk0dZVbZ4pB9abb7ZKc9aih+esBwR/vPAE/kXUkZDKzEYdPX8aMrxlepWwwCoerDQeub0AHFZUDdk3dZg/M5MyOFl9ZO2+JkiySZ9bED0ie+clo6ZONobme/4yNS8zhsd4M8bL1N/usKePOsIZ//rCbOvablqDnYOPzfYjxGlov2FIcjpFS86UZFiKt8PhFMi3G2ofswIda9OVgTQL/B6e725ZdQDsmBndxkhXKD5uZhl/V6RyRtQJ2NrzJhgdS6N/JwwcjskXdJBslKl/wE8=;xTmtrM3KlmDZaznaVCpLsA=="
 ---

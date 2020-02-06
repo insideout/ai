@@ -24,6 +24,19 @@ images:
     title: "AI will transform financial services in two years"
 
 related:
+  - title: "New Report Showcases How AI Will Transform Financial Services"
+    excerpt: "The report polled 150 senior financial services executives across both fintech and traditional financial institutions. The study found that 60% of firms invest less than 10% of their R&D resources on AI even though it is an area where returns can be quite high. It also found that 64% of financial services executives expect to become mass ..."
+    publishedDateTime: 2020-02-06T20:09:00Z
+    webUrl: "https://www.lendacademy.com/new-report-showcases-how-ai-will-transform-financial-services/"
+    type: article
+    provider:
+      name: lendacademy.com
+      domain: lendacademy.com
+    quality: 39
+    images:
+      - url: "https://www.lendacademy.com/wp-content/uploads/2020/02/AI_Financial_Services_Report.png"
+        width: 1024
+        height: 512
   - title: "Survey: AI likely to transform financial services industry within two years"
     excerpt: "The World Economic Forum (WEF) and the Cambridge Centre for Alternative Finance (CCAF) jointly released the survey titled Transforming Paradigms: Global AI in Financial Services Survey, according to a media release on WEF's website on Tuesday Over 150 senior financial services executives in both fintech and incumbent financial institutions ..."
     publishedDateTime: 2020-02-05T09:07:00Z

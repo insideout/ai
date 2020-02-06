@@ -5,9 +5,9 @@ excerpt: "Less than a half-year into its existence, the Energy Department’s ne
 publishedDateTime: 2020-02-06T14:00:00Z
 webUrl: "https://www.nextgov.com/emerging-tech/2020/02/energy-names-inaugural-director-new-artificial-intelligence-and-technology-office/162922/"
 type: article
-quality: 30
-heat: 30
-published: false
+quality: 130
+heat: 130
+published: true
 
 provider:
   name: Nextgov
@@ -22,6 +22,6 @@ images:
     height: 400
     title: "Energy Names Inaugural Director of New Artificial Intelligence and Technology Office"
 
-secured: "MJoDbfXILitHsP4dlIDUwF6srV1MZvbtdAwBP+ZqgxiIajfftmCncZDWEufUg9+MiCrdYCRF84/3gIwikKdL/ch1J1KkvMiDd4Fu/Pp1D9Uh0s8jDbLnbo+A7VAGknyBg8dgsD2goDevHsUPu1gfbSczE3fsB36jx+X6pEvL02Bw7RYwPZCBHpOOwWz2b9eVNVcmgOcf4AITfZFe0lVaShKeU5prqamyHs+IFVmNtS3Vz38TrqLggsBZvToo0nuUXDs3oh/6NiD5zzO5QhWYtvKc5wImIxRZK2Az0+zprfwr+vw1j2mUgTKTte7luEox46sOVDHWypbcQEva4cJwvVHf2tdGvTf1SUcKYiNSgDpB4oF+8InTZRyVTEqRrbnoQ0eg8cNEr7de1Bt3uEeMoenMftSBCj7W6EtWBvh8t6Zkxw17iHoC+tnWhtlf+OYywxnSGlsAfT/asoaX3JzTBpgwFE3R2F9oSzRDLLU3gZY=;t7jxdfmjXs0huiMzGlUh2g=="
+secured: "3mcIegY99HAD+2BPtzYVTXpiP2p35DpO/Y9FJIoaNACPGFfnd2EFlzRTAEGK4I9B9sSgPf0lsP/EvyvV3B1SpJp+vTAm3ndl0BEcs8BSlDofZv5McBXbvH0JxQQfbUo+afPDseiT4OvPPQlefVe2Mvgcv2VqtbkuIet5bSKzlGFNxzphf4gwAJV6WpcX86JfK4sAo1Mha9WNnbHbnmgHqIZsLSe4fVfub1R+X2wVscvy+4ZBSzCWjeHK3KRUq/+lMIG7BbiMreJoOGavdGL7PWg3//k+FYPbhGEd1uOnwhbA8V19zZGLhGu5vNXlyVNkYiUgYYFD18Gc/vgLhu4/JdobUMx72eydzJ4y/2i5lBN5oMacTMq7PXekKxWrc+8X6oJUtkprbe5PfDO3+i0zKG0wOzlhc3JrqcjjoLU7FuXx0WW0K5ypY3WnBHIeWRj12Ey+rufCHh33NaXBt3X/wCnJvpElOuhVaysPjiEfnRmtJGvnddnkmpwV3lI4ZGji;LpAhbyUZrW2k8+TE44DlQA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-reportedly-looking
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
 type: article
 quality: 87
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -29,32 +29,6 @@ images:
     title: "Clearview AI reportedly looking to expand globally"
 
 related:
-  - title: "Facebook and Venmo demand Clearview AI stops scraping their data"
-    excerpt: "The facial recognition startup is using photos from the internet to build its database. Following Google and Twitter, Facebook has become the latest company to take legal action against controversial facial recognition startup Clearview AI. According to Buzzfeed News, the company sent a cease-and-desist letter to Clearview sometime this week ..."
-    publishedDateTime: 2020-02-06T14:48:00Z
-    webUrl: "https://www.engadget.com/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-12%252F817d5be0-2b17-11ea-bf2f-87fbf2b24155%26client%3Da1acac3e1b3290917d92%26signature%3Db14f51401056407d35d55f5f6c2b29b8f6862048&client=amp-blogside-v2&signature=d27d50c6ff2fff8a8b1438ffab389237e0ebdc55"
-        width: 600
-        height: 350
-  - title: "YouTube, Venmo tell Clearview AI to stop scraping sites"
-    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does routinely as part of its work with police. Venmo said Wednesday that it is sending a cease-and-desist letter to New York’s Clearview AI. The small firm ..."
-    publishedDateTime: 2020-02-05T23:52:00Z
-    webUrl: "https://www.sfchronicle.com/business/article/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
-    ampWebUrl: "https://www.sfchronicle.com/business/amp/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 37
   - title: "CIA reportedly seeking to hire multiple providers for new cloud computing contracts"
     excerpt: "The cloud providers are said to include Microsoft Corp., IBM Corp. and Oracle ... Krishna most recently led that company’s Cloud and Cognitive Computing unit, and was instrumental in building out its hybrid cloud business. “In other words, the company understands the kind of cloud services C2E will be comprised of, knows how to deliver ..."
     publishedDateTime: 2020-02-06T02:13:00Z

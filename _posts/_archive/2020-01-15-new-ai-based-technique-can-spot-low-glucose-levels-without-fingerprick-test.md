@@ -26,18 +26,22 @@ images:
     title: "New AI-based technique can spot low-glucose levels without fingerprick test"
 
 related:
-  - title: "AI can detect low-glucose levels via ECG without fingerpick test"
-    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-14T02:17:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
+    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
+    publishedDateTime: 2020-01-14T13:07:00Z
+    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
     type: article
     provider:
-      name: ETHealthworld.com
-      domain: indiatimes.com
-    quality: 39
+      name: Medindia
+      domain: medindia.net
+    quality: 53
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg"
+        width: 1200
+        height: 1000
 
-secured: "6TJP60P2rs+Ju1okUK0YkpV8ddcXM1FwgdzPZSZex51ek6s0C/9Xx8bSdns3AoPnx5JRQPOb5eoEJxg7bFJAhGKfPTvlaEXcdAG5QYct/BoSa3TiYu8Nv4BMUB5eMgYFQtt8TffFMHfoUcuSpgSzAns6xqynJs0X/1TAhJJ+oLfm1B3Guc+8nMOCVkxpsasOJeztAPqRVtfz5/NO7LTEUr9kLbsKQtpHyenLo6SgoCUaY6S6dehPxJ6Oe71fBZHu9c6hxwcE7e21b4Nb9NBEH9MCsTPs+xyy8zjhkLFAcsCTapPqXMkIbOI459AhjMfK;C3CAoLtk7yaKjlL4Sw/Jog=="
+secured: "5D5JCacMTo8Zyl7EWUehhIPCywbicnbhBpjL68aGkshDwwCdzg1vdWv0PCkEAZ0ZeGgE8yMbsz/cByZSqkNiVAwOazmgsu7xUuEI9V08YPReUmw0NaVAjxFb+BcFmz8atIt3oOM1CyBpmvXmMEnG4pJFfTkVpTwzhVteQJoxIlw2TvznWjoMc/EQNO+HHeau/pn3HOGt0/Ry7ngckLfWKBt5B0U9Dw3aFaVjm6Sm1t+gzaidvkkq8xKzRWsAl2uYKB5/l9CPl9yXRPWMEkxM+mvXEhszpLHfIrrDUZKKAvY+dKOn3v87EPEnT8TB81Bz;IkVqSDM9kwtrnvuCNQc2hQ=="
 ---
 

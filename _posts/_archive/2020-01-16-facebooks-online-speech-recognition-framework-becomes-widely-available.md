@@ -62,6 +62,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "jAJP8gOBDEzwOA8hDeWq4V4cjAhLO9aVAtPYxJNhhDoXpsMnjwutXNLQOTthD9ugE7g4wzaEyvh8ddGTe2YQAMOb6yWjZ4YAHQoYqn1mCwqrGJ1sgsOF9MyFjAYiF4F4EylCfSuihk+ZhR/rIR+NUDyuyxT8L4nN1HDsRc+RkN4vBYX+lZHOSqcpKGMahR1qu0D+RneIW/9tFfhsyKFXArzA/MP0BrYdV5j/hAGT5Io51THxWpLsbDDq4l3HAMFKyh8qtkxyUP+JS4VG7Dh2jI3oWF777qfCNiagw4cVJlFr2HTa43WYSIBBQsxl05G0;lC4Uy5+4e3ATu64gI4Qp0Q=="
+secured: "APXeD+u72T1n4Izqnz9a5VnnvOUVe0Mw43kh+BHq5TjLet5q5R/fcHVI06nbL6YuyYjrFaShykUgfRqxfottJhXfqlknfIuhfVSniQisBzbYPjt/zld4qHzww99+PBYB8u9peZni8VMUwyL/JXKxJgNhmpBHvbmwD3iyjkV869SfJHaVOOZWjGQ8Svb+d71iMsihd1oq0kGWTu5anGHO+qX9Zev0OiEXmHiQnXkICZpYriVYDzVlVyUsptOihbfc7h+5XE7hRP2tKWtUV/4t756C8jl9eXQMtHw+16A8AcSaJJGxURDDCa4FSJgLstvM;j63oagsMfHLQCM0ULhuOVw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Why most self-driving car companies use these 3 models"
-excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ..."
+excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
 publishedDateTime: 2020-01-21T20:54:00Z
 webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
 ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -54,6 +54,19 @@ related:
       - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious (INTC)"
+    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps. Mobileye CEO Amnon Shashua told Business Insider that autonomous vehicles (AVs) can't be too cautious. If AVs take too long to get to their destinations, people won't want to ride in them, Shashua said. To increase ..."
+    publishedDateTime: 2020-01-25T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1-1028844526"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://images.markets.businessinsider.com/image/5e2b293624306a2d955068f4-2333/mobileye-2020-ces-shashua-5.jpg"
+        width: 1024
+        height: 768
   - title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
     excerpt: "Cofounder and CTO Kyle Vogt said that the company has technology that could allow for highway operation"
     publishedDateTime: 2020-01-23T17:20:00Z
@@ -81,6 +94,6 @@ related:
         width: 640
         height: 431
 
-secured: "g3oqYahQtL5REr02Q7T/XU9WJW74xrBeg39s72Tk+z3KD0O48hnhgmejtW7iDVTEsID7OiFelt7+8Lr8pUKImrqikTGUlYceZ96wIidxSkLZ5ZU7qjjdWv8wdbCdzPJdlx1TisGBx5qTxiHear60OmS+midBhwG3LJfAz2/93sYPDiLWEV3jFaz4Vf4mCQwTnR2HxAr84BoMotbQb76b3EuErshqEXHCMx5Nhg6EmzVe1gCzViPkySqE6JsoxOWiSL9Nk9ieKtAAD0PhQCs6MnI/suFd0cLGo8PCBYoVVI5qkxcB9StBbcY8elg8nhBh;gST6O1Z1KE2/9IvdTWGB9w=="
+secured: "UGDhv7MTNTf8fm3QUbX9P1pU41D0JDMjH/BENHmgLIoYw5jqh2gRw+Mt38k4I8Tg972dIj5fsqudbgUzQo+Ums/R/rauIEJJBFakSdleRYSIOAYMOT8CFeN9xSmYtOiWgtZocRDpfhVDyNQEYNM7faTNYcd6mWfthdW6tG/u7SnOMos6cMKnTf3Pu3MVdAuJIBU9m3xZZaHj0RrG56f59uIKJusCBF6SxLxuTSx30+KnGMZJIF8NODv3aNzGXBpCy0kuMdNoQbhoeptatwCDuI0gncy+PKpqRwA02+B/4IQefk690PJpMjgTyULDyKA/;mlILzKjaRdE/pT+q2DuEwg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-30T17:34:00Z
 webUrl: "https://www.retaildive.com/news/ups-waymo-self-driving-parcel-pickup/571415/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,47 @@ images:
     title: "UPS and Waymo partner on self-driving parcel pickup"
 
 related:
-  - title: "Magna scaling back Lyft partnership as fully self-driving systems look further off"
-    excerpt: "TORONTO — Magna International Inc. is scaling back its partnership with Lyft Inc. to co-develop self-driving technology as it focuses research and development spending on more near-term prospects. It was only about two years ago that the Aurora, Ont.,-based auto parts giant struck an ambitious partnership with ride-hailing firm Lyft to ..."
-    publishedDateTime: 2020-02-02T09:34:00Z
-    webUrl: "https://www.newsoptimist.ca/magna-scaling-back-lyft-partnership-as-fully-self-driving-systems-look-further-off-1.24054007"
+  - title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
+    excerpt: "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages."
+    publishedDateTime: 2020-01-31T11:52:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
     type: article
     provider:
-      name: Obituaries
-      domain: newsoptimist.ca
-    quality: 18
+      name: New York Times
+      domain: nytimes.com
+    quality: 59
     images:
-      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24054008.1579197909!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/cpt10140229-jpg.jpg"
-        width: 560
-        height: 292
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+  - title: "GM's Super Cruise Self-Driving Tech Will Be on 22 Vehicles by 2023"
+    excerpt: "GM is finally expanding its hands-free Super Cruise driver-assist system beyond the Cadillac brand. According to GM president Mark Reuss, the feature will be available as an option on 22 vehicles by 2023, with seven vehicles getting the feature next year and 12 more in 2022 and 2023. This, it goes without saying, is a huge expansion of the ..."
+    publishedDateTime: 2020-02-06T18:42:00Z
+    webUrl: "https://www.caranddriver.com/news/a30795396/gm-super-cruise-self-driving-2023/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 44
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0127-super-cruise-lane-change-photo-final-1580163336.jpg?crop=1.00xw:0.747xh;0,0.165xh&resize=1200:*"
+        width: 1200
+        height: 601
+  - title: "University of Tartu and Bolt presented self-driving vehicles lab’s test car"
+    excerpt: "On 28 January the University of Tartu and Bolt presented the test car procured for the University of Tartu’s self-driving vehicles lab. This high-technology vehicle will be used for experiments in several research and development fields. The aim is to conduct test runs in urban traffic this year already. According to Anne Jääger ..."
+    publishedDateTime: 2020-01-29T13:10:00Z
+    webUrl: "https://www.baltictimes.com/university_of_tartu_and_bolt_presented_self-driving_vehicles_lab_s_test_car/"
+    type: article
+    provider:
+      name: The Baltic Times
+      domain: baltictimes.com
+    quality: 22
+    images:
+      - url: "https://media.baltictimes.com/media/photos/147244_6396144185e3182f4b69e1_big.jpg"
+        width: 855
+        height: 535
 
 secured: "pMgXweY0RXzQulKfIq6czsRYfLuyFYvWtLdurMeUeVDYenfBYTZaeyBsl2RsGw4Fm8yMLpkW74HK21TgCn4y5MAFjHXuC5iCU/O02tEi+1Z1Yu9Pprxs/Sk8dvmcJqQEow7SxwSIlTSM4amCiNRMHgnuPir7zuoW8DFgpBuqOHGQWln2u9/mvjO0Tm7nj4+V0vb3WQ5+tJtwJ2szXwsTJIRkJLEw5H/WbfsnFdYbx+y2o2d17QVYkn8eAncF1qbSeyDnNwi3O3YImEGCI5zto3nY0xwNCXtUJE9Wb6mdPn4GYYgNwIE1BeMzdPpPnxPa;AbySDrsOvStJSQP3cCTlBw=="
 ---

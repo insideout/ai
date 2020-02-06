@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Transgene and NEC Start Two Clinical Trials with TG4050, an AI-Powered Cancer Vaccine for Ovarian and Head & Neck Cancers"
 
-secured: "V5e40HVgZnpMDzps9mVMsq3OhPbGck1WiivujYRO6lpycMrcY/t/i7Jbzz5yKhYgNZ8dctjt9sdqgnUNAlYBjZLmEByH0yKMhDGkX/mZa/WgN1GXIS9Y0KhnDfZKnyTi4fBPzN+qTtjNRtKF6gjCghnXophoKpJz4t26eQ+S7Ufx6bU54U1slbrV+zkOcWANPveRS9Fol/noG3IDbqZQ03VHIVPaW2tPQo5x/ehoW9oBa97cRu0SZXS401inbHcxRRiLTSC+gO5Td+N9a6KKdA5AZMVOcJU/oFMhsbWX0TTEYbydG+SDpk3T5J1oEdP+;flYK17GgjVP1pVbM1Ku1iQ=="
+secured: "hJgkLUMpA1Ll1nN4FuI8jkDOWJP1803iHxglRNOobiCNRttfFJCoCH6QqA9ALjSjU3Q/+IM5vz0alYXbXaLPJ9oPCikqaiIpTeU8MfRPcUG1Q499pBuHzZGo8G1mIfJrME8XTP5lb7vgV1FmOVy20TDfLV8gON+EqFtjcqa67tACGy0/Y/sAeVsLGa4c9HOw7VGCwziRf4uXBo8WtcPJBoBb0DbvfKHmj2Iz0liQy7ABPDDs1shDkQFdL9xwIaYly1EDdiLq3QReL1O+0AGiUHOz6JJj7M8Y+jRONjS+H25y5Xgexte7RnqfhHa32ibe;sqt7G40IRifC0jSYVkgTcg=="
 ---
 

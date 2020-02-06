@@ -54,17 +54,6 @@ related:
       - url: "https://cdn.fleetnews.co.uk/web/1/root/driverless-car.jpg"
         width: 640
         height: 400
-  - title: "This self-driving car has no steering wheel or pedals"
-    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
-    publishedDateTime: 2020-01-31T14:41:00Z
-    webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.html"
-    ampWebUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
-    cdnAmpWebUrl: "https://www-mdjonline-com.cdn.ampproject.org/c/s/www.mdjonline.com/neighbor_newspapers/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_98716362-9f7f-5574-a094-32c7eb4492ee.amp.html"
-    type: article
-    provider:
-      name: Marietta Daily Journal
-      domain: mdjonline.com
-    quality: 24
   - title: "The Future of Sensors for Self-Driving Cars: All Roads, All Conditions"
     excerpt: "But as ADAS and eventually self-driving systems become more advanced, it will be essential for vehicle cameras to perform well in all situations. Camera benchmarking firm DXOMARK has done a lot of work in accurately characterizing camera image quality challenges that are unique to automotive, which its VP of marketing Nicolas Touchard shared ..."
     publishedDateTime: 2020-02-04T14:14:00Z

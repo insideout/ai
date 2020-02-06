@@ -5,9 +5,9 @@ excerpt: "Full Self Driving is an upcoming Tesla feature that currently exists i
 publishedDateTime: 2020-01-14T23:24:00Z
 webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/14/elon-musk-says-teslas-early-access-group-will-get-full-self-driving-soon/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: The Next Web
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "PipzZnTecZoLU7EdGx8TfMuDGDf/bnqZhqLgTYeouArU8IuVxT3W9FloyO5BrqIttWleM1sjwLnzK8yHxYTmr7M+T7rbjXbFWbGy9pleuKa8vNlYbIK7SNu/o4zFLEl3dnQ8qzCC6zTyTocDJR/VBOmaM5kBKUco5V7QOzhNvPGGZYCuxCV2O8jJpTE7cErEbUmrx1sVzAEyzm0k073wXf9oZrhtXZlqPH+tG7Isp9VFXmzoSOvEX9+R2sVx4NKYnWGAQkCHdQi+hdPVg9O3UiRZE3Dc/hNUYFrM6FoaLfDUkbFyh4LRQe+BvzCl7JvL;1LxwmJrYHTxcytqJQ+yyTA=="
+images:
+  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/Elon-Musk-candy-Wonka-hed-796x419.jpg"
+    width: 796
+    height: 419
+    title: "Elon Musk says Tesla’s early access group will get Full Self Driving ‘soon’"
+
+secured: "hBGQP1Yk7t066XGY7teYFOz2cFbsV9NN80hHeu4KMexJXLur7+y0PJSRphe6tyzQfD1hXtTkSbhSoUx5VMdY5TnsUqBwMU1Smiok+fH0Vp9oJadjfmrFvHHTv6wcVzygGE/Kx9L4R/jZQVz+7vTiQNkEAO/WWhaOhIscOCHCQdzQ2wzgGHIj0F/58E2Dx59w7dOy9B61LBAe5fkQUjKQi5/O9909GQgptGR8zFP5Fb9xbg0CrjCH7hEJ9hfW+5770FtGDAsQI1XmExsWGyX3Bvqsd7ncs3AgpmH+XZUKuTC/GNP9G8GVM3kCC8boUnkL;bgBKNXg1+x9FPwWKxMkDJg=="
 ---
 

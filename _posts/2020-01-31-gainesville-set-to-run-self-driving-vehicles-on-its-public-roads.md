@@ -24,72 +24,40 @@ images:
     title: "Gainesville Set To Run Self-Driving Vehicles On Its Public Roads"
 
 related:
-  - title: "Nuro R2 self-driving delivery pod hits US autonomous vehicle milestone"
-    excerpt: "US regulators have granted the first self-driving vehicle exemption, allowing the Nuro R2 to drive autonomously on public streets, though don’t expect to catch a ride in one yourself. The R2 is SoftBank Group-backed Nuro’s driverless delivery vehicle, which the startup hopes will give grocery stores, restaurants, and other retailers a human ..."
-    publishedDateTime: 2020-02-06T15:47:00Z
-    webUrl: "https://www.slashgear.com/nuro-r2-self-driving-delivery-pod-hits-us-autonomous-vehicle-milestone-06608901/"
-    ampWebUrl: "https://www.slashgear.com/nuro-r2-self-driving-delivery-pod-hits-us-autonomous-vehicle-milestone-06608901/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nuro-r2-self-driving-delivery-pod-hits-us-autonomous-vehicle-milestone-06608901/amp/"
+  - title: "Self-driving Nissan Leaf electric car navigated itself 230 miles on UK roads"
+    excerpt: "My own 'driverless' trip was around 13 miles ... Also, on a test track replicating UK roads I also tried another – even more advanced self-driving Nissan LEAF vehicle – using artificial intelligence 'learning' pioneered by Nissan's hi-tech partners at Hitachi. This uses real driving data captured from thousands of drivers and trips ..."
+    publishedDateTime: 2020-02-05T13:20:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-7968813/amp/Self-driving-Nissan-Leaf-electric-car-navigated-230-miles-UK-roads.html"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 41
     images:
-      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/nuro-r2-1.jpeg"
-        width: 1680
-        height: 1120
-  - title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
-    excerpt: "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages."
-    publishedDateTime: 2020-01-31T11:52:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
+      - url: "https://i.dailymail.co.uk/1s/2020/02/05/09/24335922-7968813-image-a-79_1580894146483.jpg"
+        width: 470
+        height: 935
+  - title: "Self-driving electric air taxi passenger trials approved for Canterbury"
+    excerpt: "Yesterday, the Government signed a memorandum of understanding with Wisk, supporting a passenger transport trial with the all-electric self driving plane in Canterbury which would be a world first. \"The Government sees great potential in the development of an innovative unmanned aircraft sector in New Zealand and we are in a prime position to ..."
+    publishedDateTime: 2020-02-05T00:49:00Z
+    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/self-driving-electric-air-taxi-passenger-trials-approved-canterbury"
+    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
+    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDIlMkYwNSUyRmFpci10YXhpcy1jYW50ZXJidXJ5"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 59
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-  - title: "Feds approve self-driving vehicle minus rear and side mirrors"
-    excerpt: "Image by John Howard from Pixabay. DETROIT (AP) – The U.S. highway safety agency for the first time has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards for human-driven cars and trucks. The National Highway Traffic Safety Administration says it granted temporary approval for Silicon ..."
-    publishedDateTime: 2020-02-06T16:04:00Z
-    webUrl: "https://www.wkbn.com/news/national-world/feds-approve-self-driving-vehicle-minus-rear-and-side-mirrors/"
-    ampWebUrl: "https://www.wkbn.com/news/national-world/feds-approve-self-driving-vehicle-minus-rear-and-side-mirrors/amp/"
-    cdnAmpWebUrl: "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/feds-approve-self-driving-vehicle-minus-rear-and-side-mirrors/amp/"
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 39
+  - title: "Nissan Leaf breaks UK record for longest self-driving car journey"
+    excerpt: "Autonomous model completes complex 230-mile trip from Bedfordshire to Sunderland"
+    publishedDateTime: 2020-02-05T13:00:00Z
+    webUrl: "https://www.theguardian.com/business/2020/feb/05/nissan-self-driving-car-leaf-longest-journey"
     type: article
     provider:
-      name: WKBN
-      domain: wkbn.com
-    quality: 44
-    images:
-      - url: "https://www.wkbn.com/wp-content/uploads/sites/48/2020/02/highway.jpg?w=960&h=540&crop=1&resize=1280,720"
-        width: 1280
-        height: 720
-  - title: "First Self-Driving Vehicle with Federal Exemption Is Nuro Delivery Pod"
-    excerpt: "The Nuro R2 is a self-driving delivery vehicle that will transport goods instead of passengers. The vehicle will begin testing on public roads in Houston in the coming weeks. The exemption from NHTSA and the DOT means the vehicle doesn't need a windshield or side mirrors. Autonomous vehicles are more than just robotaxis and long-haul trucking ..."
-    publishedDateTime: 2020-02-06T18:06:00Z
-    webUrl: "https://www.caranddriver.com/news/a30793888/self-driving-nuro-r2-federal-exemption/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp30793888/self-driving-nuro-r2-federal-exemption/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30793888/self-driving-nuro-r2-federal-exemption/"
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 44
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nuro-r2-1581004051.jpeg?crop=1.00xw:0.754xh;0,0.238xh&resize=1200:*"
-        width: 1200
-        height: 603
-  - title: "Patchwork of self-driving laws limiting autonomous truck innovations"
-    excerpt: "Self-driving trucks could change how freight moves across the United States. But with a slow-moving federal government and a patchwork of local laws regulating autonomous truck testing, that future is far from seamless, according to a recent study by the American Transportation Research Institute (ATRI). The government rules created to support ..."
-    publishedDateTime: 2020-02-03T13:55:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21121622/us-patchwork-of-selfdriving-laws-is-limiting-autonomous-truck-innovations"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 4
 
 secured: "LJt4hUtEsFowgKSMiBTPqBdcACRebflszWXdoaDnyFO1guAauIle0o1AhNO1WjYr7KBY79eZh5uxsZRnyEOwG1o1O5f/ASGT8lo1jZZgIRABJqizUFLxT0oZo8sEfVfGXds/nW66ItUa6vYqEi8d86u9XcnWX9OseX+tuaLC/losOP1MIrv/iQdXXIa7ead0a+iYw3uqCyT+9qftqLh9ZAOwBY5FjAjmy8T1Q1LssH9IADB6chH/PLxuz+yoQbQAlteORtkrZlZRMsVlGq7edPLTrJyLGMSR+7zhwBcCE3aDqNI5XTkNFsPV52gMsTQdw6jDgRf01zEaAcN/C3sqegkTaZhtoRJWRMAagv718hbphvsKTGrNW0yXk+4hCVwATSfF3z+BUmuHOuJpZMUt8S69N6KFHx/4m8rvSexYjOskAxJ2HsaMt+YNgN3uvXfRaWf7kN6GGiq99ht67UrV6A0K3kvaEWwktSpVc2BS/R4=;I4tTu/jHOn8zNM1XfrbFog=="

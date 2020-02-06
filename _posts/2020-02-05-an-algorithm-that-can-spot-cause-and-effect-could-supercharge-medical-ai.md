@@ -7,9 +7,9 @@ webUrl: "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-ca
 ampWebUrl: "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/"
 type: article
-quality: 56
-heat: 56
-published: false
+quality: 156
+heat: 156
+published: true
 
 provider:
   name: MIT Technology Review
@@ -24,6 +24,6 @@ images:
     height: 337
     title: "An algorithm that can spot cause and effect could supercharge medical AI"
 
-secured: "dKVNGAHITN6YKWmvsziIyRyfA2qRSsOwuiVHSOD4FVHBe4mc4qEeS8LGvkEsrmuFh8QmVDrm7dQ+AYmo6wk+fe7MPwXCu8ShsUS50dc7K/LC9nGY4Q87me/m4wHEF51UW9lqQyKQgdI98YAxsoa+xE+zgjG/zY7NFrLlfgy7zppEPMR9ejhwoKXKEBiv4B62Kt3YH3yXTpflIl9Q5c8yhWayPF9I5MI8WtBN438vKAhvAi2vpUJTTUy9eE/9uQQjI82Y4b/2RQDtnmU7eGD3E3QSH/aVULLw35EXjPYA5FMhmnVjNzSD2D2unMXkjAEc9Zwb2DNusKSYpdzwjTi0zyksMWs8O/Q9rw0FPkoNPrG39n8K6JqqE22Ojh+95uK4Zn4U+nbOo0CtURoPxDlTZRxTIJP9Ic1bq7iK1rimHI7GtJ06Wf/snayzKIzUngOVqsayBsfoBhHWixBpyxhyDN0HN+/ztoitZyM9K0kAaLA=;h+0mXaN3HVgTjLaYWlmpbw=="
+secured: "Vw16Q8B0huvR6rCMH3OZG6USREEDWIGj+e2O7CwR4LYmgop8szSrwvUFM3Tn3m+YPBNMbdQWLOkN/nuwqv0C9DBQcdZe4wAmhLQMfhwxsb9wtfxxlZArnzEXBYNqTLueD89ydkgIr1o54rBvn2nDw3+yH4r2bAP+uIh/8RrR2Ne/LohfVtS8EsDOePrSgpweiZN2M8ijgtcb2RuZq9yyHWWiq49AI9ytLc3EcMk0G3Pcy4wIt0ulC9M1+HNckwsX5KsRbxswGw6OxEL3l9WNce8POhpTLujFLTZoHs2k9oYkQHr1nvmJkNFxi19oBZav7u7CBhEbzGCJJHik7xcvAl9F9xGqskXlqBmDUSnzpraRghCaFX+nnyBT09z+7DGNW7jlGMPgWr6zv33yVbIbIGDt2vPruJF00p7HkKzbndZi4wPNHu+Cc0YDWN97FaX+VbFLL7DEl7c+Lj8DSH5KGJkvOT1wOc+8l68yPxA0Rxs052L++Z1EEtEr1Eqb0x9A;TWCT8MwrBhTr63+KvSXnnQ=="
 ---
 
