@@ -389,21 +389,6 @@ related:
       - url: "https://www.geek.com/wp-content/uploads/2019/03/Jeff-Bezos-Mars-Conference.jpg"
         width: 1000
         height: 562
-  - title: "Telangana State Election Commission successfully tests facial recognition technique"
-    excerpt: "The Telangana State Election Commission on Wednesday successfully tested the facial recognition application for voter verification at polling stations using real time authentication capabilities. The application using latest technologies like artificial intelligence, big data and machine learning was uploaded in mobile phones and tested in 10 ..."
-    publishedDateTime: 2020-01-22T17:19:00Z
-    webUrl: "https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 53
-    images:
-      - url: "https://www.thehindu.com/news/national/telangana/ndpq8/article30627826.ece/ALTERNATES/LANDSCAPE_615/FACIALRECOGNITIONAPP"
-        width: 615
-        height: 384
   - title: "Twitter sends cease-and-desist letter to facial recognition firm scraping its images"
     excerpt: "Twitter sent a cease-and-desist letter to Clearview AI, the company that created a vast database of photos scraped from public-facing photos, which can be used with facial recognition software, demanding that it delete any data collected from their service, according to a new report. The New York Times reports that Twitter sent Clearview AI the ..."
     publishedDateTime: 2020-01-23T15:01:00Z

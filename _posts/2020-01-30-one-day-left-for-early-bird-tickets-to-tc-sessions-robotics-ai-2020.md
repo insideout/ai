@@ -90,21 +90,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/eb_countdown_3DAYS.png?w=1024"
         width: 1024
         height: 562
-  - title: "Unearth the future of agriculture at TC Sessions: Robotics+AI with the CEOs of Traptic, Farmwise and Pyka"
-    excerpt: "Robotics+AI on March 3 with the founders of Traptic, Pyka, and Farmwise. Traptic, and its co-founder and CEO Lewis Anderson, you may remember from Disrupt SF 2019, where it was a finalist in the Startup Battlefield. The company has developed a robotic berry picker that identifies ripe strawberries and plucks them off the plants with a gentle grip."
-    publishedDateTime: 2020-01-22T17:11:00Z
-    webUrl: "https://techcrunch.com/2020/01/22/unearth-the-future-of-agriculture-at-tc-sessions-roboticsai-with-the-ceos-of-traptic-farmwise-and-pyka/"
-    ampWebUrl: "https://techcrunch.com/2020/01/22/unearth-the-future-of-agriculture-at-tc-sessions-roboticsai-with-the-ceos-of-traptic-farmwise-and-pyka/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/unearth-the-future-of-agriculture-at-tc-sessions-roboticsai-with-the-ceos-of-traptic-farmwise-and-pyka/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 102
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/speaker_3_robotics_agrotech-2.png?w=1024"
-        width: 1024
-        height: 558
   - title: "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020"
     excerpt: "Today’s your last day to score early-bird pricing on tickets to TC Sessions: Robotics + AI 2020, which takes place on March 3. If you want to keep $150 in your wallet, beat the deadline and buy your ticket here before the clock strikes 11:59 p.m. (PT) tonight! Our one-day conference dedicated to robotics and AI — the good, the bad and the ..."
     publishedDateTime: 2020-01-31T17:10:00Z

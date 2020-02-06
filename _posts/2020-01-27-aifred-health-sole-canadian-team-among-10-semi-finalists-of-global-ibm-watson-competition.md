@@ -50,19 +50,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/xprize_lsu_sitevisit-300x214.jpg"
         width: 300
         height: 214
-  - title: "SalesChoice Announces IBM Business Partner Relationship With IBM Watson Analytics for Relationship Analytic Integration"
-    excerpt: "TORONTO, Ontario, Canada– As the leader in AI Predictive Sales and Marketing Cloud Solutions, SalesChoice Inc. is pleased to announce SalesChoice is an official IBM Business Partner and has integrated IBM Watson Analytics into SalesChoice’s AI Insight Application and SalesForce App Exchange Offerings to enable Relationship Analytics to ..."
-    publishedDateTime: 2020-01-22T17:38:00Z
-    webUrl: "https://www.itbusiness.ca/press-release/saleschoice-announces-ibm-business-partner-relationship-with-ibm-watson-analytics-for-relationship-analytic-integration"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 15
-    images:
-      - url: "https://www.itbusiness.ca/wp-content/uploads/2018/02/HQ_LogoVer002.jpg.png"
-        width: 600
-        height: 600
 
 secured: "xajSUYtFCDPe3ysezCQWbDB8xTRLhX987odt6DIIOz9wqysl9WxVFGGb8P3o9WUyeRCLzW30C6kxOLkOVxcWVEJfwHN2DabumEKezPjuDXaohx0U7O+l71ztvfWNNfFcpvbpwnxz9SDcflk7KE5IZkcD1dY4+q6WgkKYgF1DjOFvFW+/hpMhwmOrRkJw56j4dyvdoTwUPoVUmhb+gZ+uyAe3MKWxuZUMKR6OHgXVDn13lV+/Uo9eTue9zx/0v7ElsAdMIcpuLFL8pIC3BwAZHvW7goxixLslvoBEtcmqsndcbt2pJq2Bp+l1Og5YYu/ZiHQCmBgqJ6zqFJV4YZDP+o45LQSjVmYLShD8j2pYotinpSSN1bClB0RWKDxvNimEO5rd4Ebyn7zgmDmyk6n9C3sU1R2ra6/p5VI+s8bDbV7vm+Gj5/ktfFu0mXTXBQvET6OA7bryd4jrKEU3HUH83Ru4gtSgnsdJgkpi4Syw1O4=;UYmkXWVT9V2M7+MC9yciow=="
 ---

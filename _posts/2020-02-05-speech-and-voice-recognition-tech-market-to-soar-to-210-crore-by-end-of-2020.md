@@ -37,15 +37,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 15
-  - title: "Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application, By Region, Competition, Forecast & Opportunities, 2024"
-    excerpt: "Global In Flight Voice Recognition Market, By Technology (Voice Recognition, Speech Recognition), By Aircraft Type (Narrow-body Aircraft, Wide-body Aircraft, Very-large Aircraft, Regional Transport Aircraft),"
-    publishedDateTime: 2020-02-05T18:29:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980506/0/en/Global-In-Flight-Voice-Recognition-Market-By-Technology-By-Aircraft-Type-By-Application-By-Region-Competition-Forecast-Opportunities-2024.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "dg1D4rUPi7M0oOkPGhlPCWx9xJ8gi1WqQREzYAiPd+q7Clti7Rs46xfUQTM9HCBcoqfy8NcvzxSI8Ku+Rb9CCaUfPjrp7aK0QX5pTjaNGXZwLVgRs3rtEbcwnXoN2xC7bRWy3mGpacK22jcPP1qYaY45DK8d76lKinX6N5UQjF3Ni6IqqV6Sb6nS5brTKLsCXEdWwpW4GrFgZIrM//kjXSyKpvWeTQyUjNWs/zizdUfOMJJ7PFaQakG3jaINRc3eddugqWoR4KeVZAytuhaYxrGBJRTg4VjkadSVEqU5aJXMFeLPhBoRf7IhvEF5FrW9dyNRSvQ7P2HI5sK5G4skbXW6gC200A9fCcj7z+nsxXwA6IuMr/2BKW70kNlHBWRjFBL6zCcgnl+PVScBA95zwy0xAlkENvDF9z3r31vxqKkhHU8nwNWhNHs0mXt1YGjHFO9ksRdhOmeH1avGbB/zYJnQZw6GbLyvL9/0S4NamzY=;d2+cudQr55XgW8X0NWyQdA=="
 ---

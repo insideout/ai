@@ -455,21 +455,6 @@ related:
       - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/generalmotors.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
-    excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
-    publishedDateTime: 2020-01-22T17:23:00Z
-    webUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/"
-    ampWebUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 40
-    images:
-      - url: "https://www.motortrend.com/uploads/sites/5/2020/01/Cruise-Origin-Self-Driving-Pod-Loading-Passengers.jpg"
-        width: 2048
-        height: 1152
   - title: "Self-driving semis will soon be sitting in Houston traffic with the rest of us"
     excerpt: "HOUSTON — If you commute on an interstate that cuts through the Houston area, do you think you would notice a self-driving big rig? Waymo, which is the self-driving division of Google, announced Thursday that it's starting to drive its Chrysler Pacifica minivans and long-haul trucks in Texas and parts of New Mexico. The autonomous vehicles ..."
     publishedDateTime: 2020-01-24T01:01:00Z

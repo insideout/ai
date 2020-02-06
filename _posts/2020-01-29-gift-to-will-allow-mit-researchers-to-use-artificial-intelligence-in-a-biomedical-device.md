@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-29T16:00:00Z
 webUrl: "https://www.miragenews.com/gift-to-will-allow-mit-researchers-to-use-artificial-intelligence-in-a-biomedical-device/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -21,23 +21,6 @@ images:
     width: 426
     height: 426
     title: "Gift to will allow MIT researchers to use artificial intelligence in a biomedical device"
-
-related:
-  - title: "Researchers use AI to deblur human faces in photos"
-    excerpt: "In search of a solution, scientists at the Inception Institue of Artificial Intelligence in the United Arab Emirates, the Beijing Institute of Technology, and Stony Brook University developed an AI system that removes blur from images in post-production. They note in a paper that it’s human-aware, meaning it’s able to deblur human faces ..."
-    publishedDateTime: 2020-01-22T17:59:00Z
-    webUrl: "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/"
-    ampWebUrl: "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 187
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/7ec55bc5-ac3d-48a4-8a26-82fe8db7356a-e1579715708955.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
 
 secured: "TGm6n7+fbXcqWxE/wDRT77aYaYTdPT0ZKIILbKepRJBNlQgT5oNZHe9gQ0R/sRZf6QBauv3qG64tM6YZ3LRINq4+lU3KZzgWYOCGtjcnBMJSxwPS+Q23qBZxE7ggIBPAIs0ceVz//p/VAL8DxWdDlhQHKrZu+bsVozybikkAJEd4wfXQepVMKnCMU2jvvKETPSdXFWcPKfK7c7My3jjk0A5xyYLlaeZ63NyMCyOSQlr+MtY7yyQzrkmn9s0en9+8o5ujOuAnSG4Dpqo1XC4hRnygt7lJ7sxGcl6JUFiDRgmkAyFlPKvEU1kh+Huth1SA;OEQXZwyusjZcjqulsyk1Ag=="
 ---

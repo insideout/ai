@@ -27,21 +27,6 @@ images:
     height: 630
     title: "The AI Eye: Google GOOG Cloud to be Cloud Provider for Accenture ACN INTIENT, IBM IBM Adds AI to Intelligent Real Estate Solution"
 
-related:
-  - title: "The AI Eye: IBM Joins I.AM+ for Ethical AI Adoption, Accenture, Qualcomm and InterContinental Hotels Collaborate for Event Planning"
-    excerpt: "Point Roberts, WA and Vancouver, BC - January 22, 2020 (Investorideas.com Newswire) Investorideas.com ( www.investorideas.com ), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
-    publishedDateTime: 2020-01-22T17:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-ibm-joins-iam-for-ethical-ai-adoption-accenture-qualcomm-and-intercontinental-hotels-collaborate-for-event-planning-2020-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-
 secured: "gZsxaMtE3ZhpYAYDgroaZhrzenMbBeUOBcvPi/b5SDgA17F3WIWIOI9rtGrhYhZ8XlBCLuYUl3JG3ncgkIBerZUos38wvtPzpM5ejO7YSVYcS2oZuAeZk89JUf0dhIaxrZp7pSAQLlteZbpQZyB6DvA5sxOgNOgPirBBGVTpGSR0P57dEPNPJVAmMZ1nPZmTni6tHdxO6jBHfMQopQOwJvrttdnJtp8VZvL77qoCMYa3LCsiPpWkfTjR73uBLEqFrUHtp/eJFCEElYSprOhv/5zmUq7YQBdVpt6G2gAJH8tGL+PCUEDT2GMtnu5nitI8;jyGJXITssPvT1OvwDdrBwg=="
 ---
 

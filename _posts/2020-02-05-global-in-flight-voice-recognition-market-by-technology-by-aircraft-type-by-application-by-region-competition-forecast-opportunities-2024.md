@@ -18,32 +18,145 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Speech and voice recognition tech market to soar to ₹210 crore by end of 2020"
-    excerpt: "The market for speech and voice recognition is set to grow to 40.47 per cent to reach ₹210.63 crore by end of 2020, states a new study. The market was ₹149.95 crore as of December 2019. The emergence of voice technology has been brought on by the rapid ..."
-    publishedDateTime: 2020-02-05T15:46:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece/amp/"
+  - title: "Artificial Intelligence in Healthcare Market 2020| Global Analysis, Opportunities And Forecast To 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
+    publishedDateTime: 2020-02-06T09:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 41
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
-      - url: "https://www.thehindubusinessline.com/info-tech/ceo10a/article30744550.ece/ALTERNATES/LANDSCAPE_615/BL06ALEXA"
-        width: 615
-        height: 384
-  - title: "Voice technology market is expected to register a 2.8X growth by 2022: WATConsult report"
-    excerpt: "Below are some of the key findings from the report: · Speech and voice recognition technology market stands at Rs. 149.95 Crore as of December 2019 · It is expected to grow at 40.47% to reach Rs. 210.63 Crore by the end of 2020 · 76% of the users are familiar with the speech and voice recognition technology · On an average, users are ..."
-    publishedDateTime: 2020-02-05T03:40:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/voice-technology-market-is-expected-to-register-a-2-8x-growth-by-2022-watconsult-report/73939347"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/voice-technology-market-is-expected-to-register-a-2-8x-growth-by-2022-watconsult-report/73939347"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/voice-technology-market-is-expected-to-register-a-2-8x-growth-by-2022-watconsult-report/73939347"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "AI In Fintech Market Size, Status and Global Outlook 2020 to 2026"
+    excerpt: "Global AI In Fintech Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries, Product types and end industries."
+    publishedDateTime: 2020-02-04T10:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-status-and-global-outlook-2020-to-2026-2020-02-04"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 15
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Natural language processing (NLP) Market With Flourish CAGR in Forecast Period 2020 to 2027"
+    excerpt: "Ameco Research announced the latest market research report on \"Global Natural language processing (NLP) Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Natural language processing (NLP) Market,"
+    publishedDateTime: 2020-02-05T08:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-with-flourish-cagr-in-forecast-period-2020-to-2027-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Russia and NATO Artificial Intelligence in Military Market Segmentation and Forecast to 2019-2027"
+    excerpt: "The report covers a forecast and an analysis of the Russia and NATO artificial intelligence in military market. The study provides historical data from 2016 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-02-04T11:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-segmentation-and-forecast-to-2019-2027-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Platform Market 2020 Global Analysis, Opportunities And Forecast To 2025"
+    excerpt: "Artificial Intelligence Platform Industry Description This report studies the Artificial Intelligence Platform market, Artificial intelligence (AI, also machine intelligence, MI) is intelligence displayed by machines,"
+    publishedDateTime: 2020-02-06T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) Hardware Market Challenges, Key Players, Market Segments, Development, Opportunities, Forecast Report 2026"
+    excerpt: "New Jersey, United States - The report titled, Artificial Intelligence (AI) Hardware Market has been recently published by Verified Market Research. The Artificial Intelligence (AI) Hardware market has been garnering remarkable momentum in recent years."
+    publishedDateTime: 2020-02-03T18:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-challenges-key-players-market-segments-development-opportunities-forecast-report-2026-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Deep Learning Market Challenges, Key Players, Market Segments, Development, Opportunities, Forecast Report 2026"
+    excerpt: "New Jersey, United States - The report titled, Deep Learning Market has been recently published by Verified Market Research. The Deep Learning market has been garnering remarkable momentum in recent years."
+    publishedDateTime: 2020-02-03T11:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-challenges-key-players-market-segments-development-opportunities-forecast-report-2026-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Trending News For Artificial Intelligence in Aviation Market Emerging Opportunities with Current Trends and Forecast to 2029"
+    excerpt: "Artificial Intelligence in Aviation Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
+    publishedDateTime: 2020-02-06T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-artificial-intelligence-in-aviation-market-emerging-opportunities-with-current-trends-and-forecast-to-2029-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Stadium Market Challenges, Key Players, Market Segments, Development, Opportunities, Forecast Report 2026"
+    excerpt: "New Jersey, United States - The report titled, Artificial Intelligence in Stadium Market has been recently published by Verified Market Research. The Artificial Intelligence in Stadium market has been garnering remarkable momentum in recent years."
+    publishedDateTime: 2020-02-03T17:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-stadium-market-challenges-key-players-market-segments-development-opportunities-forecast-report-2026-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Educational Robots Market 2020-2024 | Evolving Opportunities with BLUE FROG ROBOTICS & BUDDY and fischerwerke GmbH & Co. KG | Technavio"
+    excerpt: "especially among robotics industry players in the educational robotics industry. For instance, an artificial intelligence firm, UBTECH Robotics, which develops educational and entertainment robots, raised about USD 820 million in May 2018. Thus ..."
+    publishedDateTime: 2020-01-31T11:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200131005232/en/Global-Educational-Robots-Market-2020-2024-Evolving-Opportunities"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 18
+    images:
+      - url: "https://mms.businesswire.com/media/20200131005232/en/770583/23/Global_Educational_Robots_Market_2020-2024.jpg"
+        width: 1200
+        height: 627
+  - title: "Speech and Voice Recognition Market Size & Industry Share by Leading Companies, Opportunities, Revenue Growth, Trends and Outlook (2020-2026)"
+    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights(TM) in their new study. The study is titled \"Speech and Voice Recognition Market Size, Share and Global Trend By Component (Solution ..."
+    publishedDateTime: 2020-02-06T05:57:00Z
+    webUrl: "https://www.openpr.com/news/1920861/speech-and-voice-recognition-market-size-industry-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "tTqnQFmsyBN7Wd8PoGhce9lpVx7QyfDwOcPzm4Em8oQPv4aVJGDrQa/RPi2FwmXGL7MlmQx2MBUaknKXHBbUifRdHTdzAhdPmLZ8R+9PnUEbEBKro6DFMrAQ4kyTZISExC6Yd3Z4TG/srbgSc4c5DsZygEMlSq4BUp29L2iM4InLO16ieUQChjIo8FrghcbQOHHhVP5xt9ckNJ/nuj74xo6Ri69BobTP1finRN/qGgMjRNb9kIV90TWTWJfWrnZphZNlucwuao7oJDtmYFRBOEcQ1ZHB06x8pNBczfdgObpdGVJ79iI2ePDJCVAHAbVhFE9T1hqI6Fqv30sAzLIIk6UpBF/t0rJP9nsQXjbts3Nfcs4q+yBn9PjWVPDp2T6dg9+b2HA3iG9ksNrY2htbbalFm9a6sQlTYDXX4RxrihYTdXzvqb4Zn2n77jsszeX9EroIxBZpxVru7Pvo4wbIQelZjJvqZNWQLkGMiaDv8cc=;X4+5sxHrN8UscP3Io7sN0w=="
 ---

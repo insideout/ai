@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T14:03:00Z
 webUrl: "https://www.therobotreport.com/ibm-watson-ai-xprize-announces-10-semifinalist-teams/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -51,19 +51,6 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2020/01/Aifred-1024x768.jpeg"
         width: 1024
         height: 768
-  - title: "SalesChoice Announces IBM Business Partner Relationship With IBM Watson Analytics for Relationship Analytic Integration"
-    excerpt: "TORONTO, Ontario, Canada– As the leader in AI Predictive Sales and Marketing Cloud Solutions, SalesChoice Inc. is pleased to announce SalesChoice is an official IBM Business Partner and has integrated IBM Watson Analytics into SalesChoice’s AI Insight Application and SalesForce App Exchange Offerings to enable Relationship Analytics to ..."
-    publishedDateTime: 2020-01-22T17:38:00Z
-    webUrl: "https://www.itbusiness.ca/press-release/saleschoice-announces-ibm-business-partner-relationship-with-ibm-watson-analytics-for-relationship-analytic-integration"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 15
-    images:
-      - url: "https://www.itbusiness.ca/wp-content/uploads/2018/02/HQ_LogoVer002.jpg.png"
-        width: 600
-        height: 600
 
 secured: "tKkDHZ6B1uTKpLTCw2UC7L7ej2VKPDBn1eXimI7r8Li1uVLpQnbEdakF/nbyWTKWO4XqBXrVZkJetkALePsUbI4jxOUq8ZApex1EBfBXrGkX5b96C9Rpos+xBGc+tSRSSAUGajQLNLWTPBT+Nch5CbZULIViXUWEWf+UimTeC8U6fXtowPSJEkG72iE2a4Fn+9AR3gJp2Vb6f3TMv9hfAAZi7lZscEHUkeQE7y9AexnJdsrrhEJdEc9MXyV7yEIElnrpdWtX/4kFVxSYSrGIyS3a+HZ1PMX3PTgi0zLQKg69Tqcd4nViDvg+m7/4if7Sv9pj6jxPw3XZaAb/rcIar9pGDUS+wO5pCmePlAP+Zc3YtPS3kIOMbHy1QeJR/l2Cg0j61GYRYE2d7LEj/d05j93OwCPON//tAmVKcgh5utV+uTRhNELaB82BCkKAtq66FTQ6iwnF6p5AATf8dLLJLQd74fqwV5akoOMVgnNBYvk=;qsG+FpgOHdaPS0lYp/JXuw=="
 ---

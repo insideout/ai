@@ -27,66 +27,49 @@ images:
     title: "Artificial Intelligence In Military Market: Size, Production, Prospects, Consumption, Cost Structure, Competitive Landscape 2019-2024"
 
 related:
-  - title: "Russia and NATO Artificial Intelligence in Military Market Segmentation and Forecast to 2019-2027"
-    excerpt: "The report covers a forecast and an analysis of the Russia and NATO artificial intelligence in military market. The study provides historical data from 2016 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-02-04T11:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-segmentation-and-forecast-to-2019-2027-2020-02-04"
+  - title: "Artificial Intelligence in Computer Networks Market: Competitive Dynamics & Global Outlook 2026"
+    excerpt: "ReportsnReports released a new research report of 128 pages on title 'Global Artificial Intelligence in Computer Networks Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2026' with detailed analysis,"
+    publishedDateTime: 2020-02-04T09:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-competitive-dynamics-global-outlook-2026-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in the Global Freight Transportation Industry, Forecast to 2025"
-    excerpt: "/PRNewswire/ -- This study analyses the key trends and applications of artificial intelligence in the freight transportation industry by mode of transport"
-    publishedDateTime: 2020-02-04T12:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-the-global-freight-transportation-industry-forecast-to-2025-300998307.html"
+  - title: "Global Natural Language Processing (Statistical, Rule-Based & Hybrid) Market Outlook to 2024"
+    excerpt: "/PRNewswire/ -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends"
+    publishedDateTime: 2020-02-03T19:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-natural-language-processing-statistical-rule-based--hybrid-market-outlook-to-2024-300997768.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 41
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-  - title: "Trending News For Artificial Intelligence in Aviation Market Emerging Opportunities with Current Trends and Forecast to 2029"
-    excerpt: "Artificial Intelligence in Aviation Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
-    publishedDateTime: 2020-02-06T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-artificial-intelligence-in-aviation-market-emerging-opportunities-with-current-trends-and-forecast-to-2029-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Translation Market 2020 The machine translation market is expected to register a CAGR of 7.1% during the forecast period 2020 - 2024"
-    excerpt: "Machine Translation Market 2019 analysis is provided for each region, based on the growth rate, consumer buying patterns, present demand and supply scenarios in Machine Translation Market. This market research report is a beneficial tool for its buyer to increase the profitability of investment,"
-    publishedDateTime: 2020-01-29T06:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-2020-the-machine-translation-market-is-expected-to-register-a-cagr-of-71-during-the-forecast-period-2020---2024-2020-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market Expected to be Valued at $22.9 Billion by End of the Forecast Period, 2019-2024 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends And Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. Valuing $8.3 billion in 2018, the natural language processing (NLP) market is expected to progress ..."
-    publishedDateTime: 2020-02-05T12:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200205005399/en/Natural-Language-Processing-Market-Expected-Valued-22.9"
+    quality: 8
+  - title: "Global Artificial Intelligence in Agriculture Market Expected to Grow in Value Over the Coming Years, with a CAGR of 38.3% - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application, Geographical Outlook - Global Industry Analysis and Growth Forecast to 2024\" report has been added to ResearchAndMarkets.com's ..."
+    publishedDateTime: 2020-02-05T09:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200205005339/en/Global-Artificial-Intelligence-Agriculture-Market-Expected-Grow"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20200205005339/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+  - title: "IoT Chip Market Outlook, 2020-2025 - 5G, AI, ML, Smart Homes, Smart Cities, and IoT Connected Devices in Electronics & Automotive Will Drive Growth"
+    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"IoT Chip Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The global IoT chip market is expected to register a CAGR of 13."
+    publishedDateTime: 2020-02-05T15:38:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980393/0/en/IoT-Chip-Market-Outlook-2020-2025-5G-AI-ML-Smart-Homes-Smart-Cities-and-IoT-Connected-Devices-in-Electronics-Automotive-Will-Drive-Growth.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 0
 
 secured: "F6L6CPXyKAvDhv4qj7g7buGhUImHUD4eD8YYKT1o6ToCTuEreioZuXouuQNdI5vlkcV7h7D9rytgxlkxgpwIo8Ux60HQgJTBa1LjMkRriPStj0541yk2a5L7nOvWIiIsqsaiKP/qhNUEouE1AbFo3fOl3Mdxm4EIi6COL1sqv+vTk0+X2D4oq/Bw04S+Gbj2jwEcRwNiYMEzppotYhUQuj2bgyHds5lLlE7DRBJix/R19fsS92WDlLzO49dPbpg6ZiebCq5F4p1/rkPkexBmszL9LlUtmo/32EopKbu3gsmVMLhMbGjw7X6pPptduSRY;2x7J1vA4PvDm3VNvt8YfRA=="

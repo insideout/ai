@@ -27,36 +27,61 @@ images:
     title: "How Artificial Intelligence is progressing in mental healthcare"
 
 related:
-  - title: "How AI Supports And Accelerates Healthcare"
-    excerpt: "AI is currently most adept at helping to improve and accelerate workflows for researchers and healthcare professionals."
-    publishedDateTime: 2020-01-22T17:40:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/"
+  - title: "How AI In Healthcare Will Influence The Path To Value"
+    excerpt: "From medical malpractice to single-payer healthcare, there is no shortage of topics to debate in healthcare. Though provision, funding and government involvement in our system continue to be central topics,"
+    publishedDateTime: 2020-01-31T13:12:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x446/https://specials-images.forbesimg.com/dam/imageserve/1147479249/960x0.jpg?fit=scale"
+      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1147429610/960x0.jpg?fit=scale"
         width: 711
-        height: 446
-  - title: "How AI is humanizing health care"
-    excerpt: "For some time, leaders of technology-enabled health-care institutions—and today, that means practically all health-care institutions—have been anticipating the potential impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their talent. But in reality many, if not most, have already ..."
-    publishedDateTime: 2020-01-22T17:13:00Z
-    webUrl: "https://www.technologyreview.com/s/614894/how-ai-is-humanizing-health-care/"
-    ampWebUrl: "https://www.technologyreview.com/s/614894/how-ai-is-humanizing-health-care/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614894/how-ai-is-humanizing-health-care/amp/"
+        height: 474
+  - title: "Setting up framework for AI in healthcare"
+    excerpt: "Growing populations, demographic changes and a shortage of health practitioners are also putting pressure on the healthcare sector. At the same time, increasing amounts of digital health data and information have become available. How can we tap this vast data resource? Artificial intelligence (AI) models are now being developed to learn from ..."
+    publishedDateTime: 2020-01-31T18:26:00Z
+    webUrl: "https://www.thestar.com.my/opinion/letters/2020/01/31/setting-up-framework-for-ai-in-healthcare"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
     images:
-      - url: "https://cdn.technologyreview.com/i/images/ge-healthcare-whitepapercoverartartonly12.09.19-2-smaller-cropped_0.png?sw=600&cx=0&cy=93&cw=837&ch=471"
-        width: 600
-        height: 337
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/01/31/534695.jpg"
+        width: 1240
+        height: 936
+  - title: "Artificial Intelligence (AI) in Healthcare Market"
+    excerpt: "A new research document is added in HTF MI database of 50 pages, titled as 'Artificial Intelligence (AI) in Healthcare Market in India (2018-2023)' with detailed analysis, Competitive landscape, forecast and strategies. The study covers geographic analysis that includes regions like North America, Europe, Asia Pacific, Latin America ..."
+    publishedDateTime: 2020-01-27T17:03:00Z
+    webUrl: "https://www.openpr.com/news/1909861/artificial-intelligence-ai-in-healthcare-market-next-big"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+  - title: "Artificial Intelligence in Healthcare"
+    excerpt: "WMR published report on Artificial Intelligence in Healthcare Market 2027: Delivering key insights and providing a competitive advantage to clients through a detailed report. Artificial Intelligence in Healthcare Industry Size, Market Share Value, Competitors Research, Industry Outlook as well Analysis covers various factors like Regional ..."
+    publishedDateTime: 2020-01-30T10:45:00Z
+    webUrl: "https://www.openpr.com/news/1914020/artificial-intelligence-in-healthcare-market-global-outlook"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
+  - title: "Artificial intelligence In Healthcare Market Poised To revolutionize the healthcare sector"
+    excerpt: "The research report on the international Artificial Intelligence in Healthcare market is a compilation of intelligent, broad studies research so one can assist players and stakeholders to make informed business choices in future. It gives precise and reliable suggestions for players to better address challenges inside the global Artificial ..."
+    publishedDateTime: 2020-01-29T11:55:00Z
+    webUrl: "https://www.openpr.com/news/1911994/artificial-intelligence-in-healthcare-market-poised"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
 
 secured: "4gS2hQwG1FagNgL2TCi11jyw6aPeyfbRHVdLVhurWdDIs++2ixf/9AyBZmpef0p29Hcn9m/VPoBXukMT+M1vAcHk0x8e4vA3206AI8GC2IpVZTuwqP+z3SvfHWHqSB8X1+89m0tU8r6xAqhnZj/poyLO9fZCvx3yi+xSYw9fL4qMDI44Z9hHa7utY2PbReq4C/AQFN16HXu458mSzk9cp9YaOCuEtzAZai7c0Ur0tCE0jEzcyoFud4QTGBqOpVGU445FwWWQjC5JNgPaP4/UKv4zNHOPOXS/BP3YyWXzFO1ETGzBV13QTxpXZN1X9hknBIzwRjaqjg80KXcfJA1ALqNMQVyi233QhHbh3/3cHsEIODgLzuuXdG09lKhz58euozJWnWxqQjHzVMFWH9sN6ZR01oTNiSbB/KVIYW7OJbAmaTTUpvv9G0ccco2UriZ4koeZiQ7Ip/tH/WIjWOmbNE3aPhgMpvO5X5pS0XYKkIA=;x2qXkDaz9vA+g+7CzE+FWQ=="
 ---

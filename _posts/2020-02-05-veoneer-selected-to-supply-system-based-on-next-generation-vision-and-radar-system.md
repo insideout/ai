@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Veoneer Selected to Supply System Based on Next Generation Vision and Radar System"
-excerpt: "These are the main build blocks for higher levels of automated driving. Veoneer's camera centric system architecture is based on in-house computer vision algorithms complimented by radar based perception to cover the full spectrum required by Euro NCAP. Hosted in the camera is Zenuity's software, fusing information from the camera and radar ..."
-publishedDateTime: 2020-02-05T11:07:00Z
-webUrl: "https://www.autoblog.com/press-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system_22080/"
+excerpt: "/PRNewswire/ -- Veoneer, Inc. (NYSE: VNE and SSE: VNE SDB), the world's largest pure-play company focused on Advanced Driving Assistance Systems and"
+publishedDateTime: 2020-02-05T06:57:00Z
+webUrl: "https://www.prnewswire.com/news-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system-300999289.html"
 type: article
-quality: 0
-heat: -1
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: Autoblog
-  domain: autoblog.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "Veoneer Selected to Supply System Based on Next Generation Vision and Radar System"
 
 related:
   - title: "Veoneer Selected to Supply System Based on Next Generation Vision and Radar System"
@@ -32,6 +38,6 @@ related:
         width: 1280
         height: 720
 
-secured: "DYEvUmwuygihWwxmgfUukBARCdVmjeZ42ADfnytM6nFRbb7iWbXzE3owI9p5y361IQ7ytWRUtdQjsr1eOqE17AvQ+mNWKqUNM/LAWj7EdtRwyprue7kAUJ2mI8LSHaQcusVH+UJ4ANZqsqbHjBFphc07alyxSUI5d/CEuqm40mec9v9HJ3xWCkrfFZfX6qDTAwKeA29hG2XxkeYPf+GCULSUfS0ndMdvzLACBJCXVKHYR06Ps4fUthqPrehPCvwOqSAJcjBp2wSq41JbZ/TrxnAnVuuoEfH/WDxlA7DKcs2AmI4PDKl2GXbUdnGcTFHb;P7SNzdV87DAzLcbbS9iiXQ=="
+secured: "zX6irsgSMzQcsjULhspb+Y2PAq2nNJVaXa0NELd6Is/CJ8YDO/yyjvyvS2x/rsjrcuMLgKD2WZt3qIqXQeKP/lHCYenSUHxX8V74eX+dkBTv7PRcbTVMvuG7pSaT4tUFvymmFvdgnLsz5OkOz5JnqucOHIBS++QmT11nxzrhgja5+flpKbO/zhDwGVLCpdN+yyOfYquQXntBLsQMY07cCUea53CRgV2NwBVyyYfFirfhthanniq0X1gQClJ3m5OK8ZjiOSW6PYzat22XAt+Kihzk7dBCBF80HTBQfZVzcKKKq4J0A5Zepix90aoUG+Xt;o0Ak9xOUp9/hbUya9wRTug=="
 ---
 

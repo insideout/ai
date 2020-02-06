@@ -466,21 +466,6 @@ related:
       - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/generalmotors.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
-    excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
-    publishedDateTime: 2020-01-22T17:23:00Z
-    webUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/"
-    ampWebUrl: "https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 40
-    images:
-      - url: "https://www.motortrend.com/uploads/sites/5/2020/01/Cruise-Origin-Self-Driving-Pod-Loading-Passengers.jpg"
-        width: 2048
-        height: 1152
   - title: "Waymo Self-driving Minivans Take To More US Roads"
     excerpt: "Alphabet's self-driving vehicle unit Waymo is expanding testing to more regions of the United States to explore \"new transportation solutions.\" Waymo Chrysler Pacifica minivans and long-haul trucks will take to roads in the US states of Texas and New Mexico this week,"
     publishedDateTime: 2020-01-23T18:35:00Z

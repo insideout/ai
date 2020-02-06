@@ -395,21 +395,6 @@ related:
       - url: "https://www.geek.com/wp-content/uploads/2019/03/Jeff-Bezos-Mars-Conference.jpg"
         width: 1000
         height: 562
-  - title: "Telangana State Election Commission successfully tests facial recognition technique"
-    excerpt: "The Telangana State Election Commission on Wednesday successfully tested the facial recognition application for voter verification at polling stations using real time authentication capabilities. The application using latest technologies like artificial intelligence, big data and machine learning was uploaded in mobile phones and tested in 10 ..."
-    publishedDateTime: 2020-01-22T17:19:00Z
-    webUrl: "https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 53
-    images:
-      - url: "https://www.thehindu.com/news/national/telangana/ndpq8/article30627826.ece/ALTERNATES/LANDSCAPE_615/FACIALRECOGNITIONAPP"
-        width: 615
-        height: 384
   - title: "Twitter tells facial recognition app, Clearview AI to stop collecting images"
     excerpt: "The controversial app uses over three billion images to find a match. These images have been sourced from various social media sites including Facebook, YouTube and Twitter."
     publishedDateTime: 2020-01-23T14:37:00Z

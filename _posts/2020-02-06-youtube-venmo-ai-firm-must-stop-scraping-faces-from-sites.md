@@ -1,27 +1,25 @@
 ---
 category: news
 title: "YouTube, Venmo: AI firm must stop scraping faces from sites"
-excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police."
-publishedDateTime: 2020-02-06T02:48:00Z
-webUrl: "https://www.thetelegraph.com/business/technology/article/YouTube-Face-recognition-firm-must-stop-15032752.php"
-ampWebUrl: "https://www.thetelegraph.com/business/technology/amp/YouTube-Face-recognition-firm-must-stop-15032752.php"
-cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/business/technology/amp/YouTube-Face-recognition-firm-must-stop-15032752.php"
+excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
+publishedDateTime: 2020-02-06T04:08:00Z
+webUrl: "https://abcnews.go.com/Business/wireStory/youtube-face-recognition-firm-stop-harvesting-videos-68781053"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Telegraph
-  domain: thetelegraph.com
+  name: ABC
+  domain: go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
+    width: 992
+    height: 558
     title: "YouTube, Venmo: AI firm must stop scraping faces from sites"
 
 related:
@@ -89,6 +87,6 @@ related:
       domain: globalnews.ca
     quality: 30
 
-secured: "eungXeU5mHRG0GpU49YpOWALB4gIcIRK3i6xPn5qTxKVbO1Xkh/0YwIj4yEF06yd8Ugny1syr7tSy4m8PZaIVXoASpWd4xE9CKQ43oQywKPneGm8d60+P56h22Ur8qGVQp4+fLLTE32gWW7OkRerXArbVZVyABOpKUpA7O2WaIZl8AU3lOTZWjemeyduIOifzdAabomwd8olYFPRc3y2px5F7e3upKhXXStweebsvprelLiYKUjnh/eiKPbL+tD6hEoQCswKJjt79GKun3/JfC2qKpCIX2v2xb829UB/HGEGsG0pskd97WCGF9z3XGRV;X3scsMDHyLxgqKcyoujJaw=="
+secured: "9pPCDFxDHWYzMlWcrLpasXkP9PHNvE52cYnrDurJT62cy3L1C1Pge5x0ESGLLXJ1S35gJHWmtWVcd8ycwNOt1VcMQclzkyPWQZMGhBdoyUQN3vV/jC9zjEQgDeRLJYkz+5bPoaeVfeCtCGCnZ+n0UCJnAQ+kp4R5/qJjFRwF8CEZ/uUfHTWCF1PJ7R1YSeUTqctCTt9mrFDFaaNqW2c1LxrHaEASWhCuW68p1aENfcHZdnrpWMyIAdDgxwaXwHPgIWJiKQoHwpNPVEKvPPpK+64BlLYwDRSBaYHe0/PjMxS/ooRU+o+u9qkmYHb/qnUR;8/gOymYxQ6xlJQ0UQZSwAA=="
 ---
 

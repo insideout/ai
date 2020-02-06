@@ -18,28 +18,50 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Artificial Intelligence Market Opportunities, Challenges, Risks and Influences Factors Analysis to Reach CAGR of 47.77% in 2023"
-    excerpt: "Artificial Intelligence Industry 2020 Global Market research report studies latest Artificial Intelligence industry aspects market size, share, trends, growth, business overview and Artificial Intelligence industry scenario during the forecast period (2020-2023)."
-    publishedDateTime: 2020-01-27T17:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-opportunities-challenges-risks-and-influences-factors-analysis-to-reach-cagr-of-4777-in-2023-2020-01-27"
+  - title: "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis"
+    excerpt: "The Leading Distributor of Market Research Reports, DeepResearchReports.com published latest report on \"Global Artificial Intelligence (AI) in Fintech Industry Report\". Artificial Intelligence (AI) in Fintech Market segment by Application."
+    publishedDateTime: 2020-02-03T09:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis-2020-02-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence (AI) Market Growing Rapidly In Automotives Sector: Analysis By Key Players will reach CAGR of 37.32% in 2023"
-    excerpt: "Automotive Artificial Intelligence (AI) Industry 2020 Global Market research report presents you analysis of market size, share, and growth, trends, and cost structure, statistical and comprehensive data of the global market."
-    publishedDateTime: 2020-01-30T19:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-growing-rapidly-in-automotives-sector-analysis-by-key-players-will-reach-cagr-of-3732-in-2023-2020-01-30"
+  - title: "Artificial Intelligence In Computer Networks Market Analysis On Size and Industry Demand 2020- Cisco Systems, IBM Corporation, Baidu, Dell"
+    excerpt: "The report titled \"Artificial Intelligence In Computer Networks Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
+    publishedDateTime: 2020-02-03T11:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-analysis-on-size-and-industry-demand-2020--cisco-systems-ibm-corporation-baidu-dell-2020-02-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 26
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Automatic Speech Recognition Market by Manufacturers, Types, Regions and Application Research Report Forecast to 2024"
+    excerpt: "Bigmarketresearch.com Published \"Global Automatic Speech Recognition Market 2019 Research Report – Forecast to 2024\" – Market Investment Analysis, Business Operation Data, Top Companys, Opportunity, Features,"
+    publishedDateTime: 2020-01-30T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-by-manufacturers-types-regions-and-application-research-report-forecast-to-2024-2020-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+  - title: "Global Speech and Voice Recognition Market"
+    excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice Recognition report helps make known uncertainties that may come up due to changes in business activities or introduction of a new product in the market."
+    publishedDateTime: 2020-02-03T10:10:00Z
+    webUrl: "https://www.openpr.com/news/1916446/global-speech-and-voice-recognition-market-analysis-of-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "IO2jegee8eOKq3vjNGpba+6mDuXpdRkizwKXgvosf+SD4kqe9FxRNTSIdCu6cgKA7K9X1WJeIKAzQZp3dzPaIm8AWS62pARfGQUz1lmqWGiXZksPX9SSVfA2YCJbZE/bKa0Yv4DlHmy7PbLQ4/5m05quEFYAAAbh0euTHxLPKEFDiXL+owMHhvYiAHDxb+G1Rgkba3su2aRiW5pjMg09gBRgSrAPnvTwS45D2uKKp8jm5BTuNwHPEIJDuUn22ebgSSkdoCpMTDPh4rTZpYRDtEcOlV/cfiBXLPvJBO58JLKWRS1S5u/vBi+ZUg2FDNYL;20+6Yj7bj6sXiTV+MHsrjg=="
 ---

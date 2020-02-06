@@ -40,6 +40,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) in Social Media Market Briefing, Technology Advancement and Future Scope Till 2025"
+    excerpt: "The AI Market in Social Media valued at USD 815.33 million in 2019 and is expected to reach USD 3,714.89 million by 2025, recording a CAGR of 28.77%, during the forecast period of 2020-2025. Social media has become one of the primary sources of customer intelligence data."
+    publishedDateTime: 2020-02-06T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-briefing-technology-advancement-and-future-scope-till-2025-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) In Construction Market Technological Enhancement and Advancement Outlook - 2026"
     excerpt: "Latest Industry Research Report On global Artificial Intelligence (AI) In Construction Market Research Report 2020 in-depth analysis of the market state and also the competitive landscape globally. The Artificial Intelligence (AI) In Construction market report provides information regarding market size,"
     publishedDateTime: 2020-02-05T05:18:00Z

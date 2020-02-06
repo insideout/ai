@@ -25,6 +25,6 @@ images:
     height: 773
     title: "U.S. pushes light regulations for AI, in contrast to Europe"
 
-secured: "DUVcKBm667PI8cvxBRA09BgOte8XUkT9ptmoqKTosQcmnzt7MCEPZf6DE2RDNwsqBH2S63E4fKkH1AM/H16NuFL5tvvieRpydFih2KmojUlOsBVC0sfi9VFZ3PLgZYwtSxFrX9ph/Rg+4FQo1GLnyZS5bKYGHup9JXAXjgobkeg0eIpOjHmTmJXbw+hXnIOfdS96N5AafG0nRRyttzN2B9dkHLVM/3cQJHMxkH+eYzBZjZNAHj1I44Jc6oNUtzjJ75jCzwuD90PG8P+teRm15rS1RcZgho4eAe7t45a43hWuo9l8sgSSRBml7BMCU3vz;ZfriZZSepFjLuj5G3r2IAA=="
+secured: "e5O+J5zcUx/08RHCxCkF7roWEw2r/t2zWTdg/Z6OZRFk4KBFzxrWA2D46I6yPtFfk6FL3XBg5/u9au+4kW+xSiulKoAvIJM+seJoegWqiWzqi0OPJGfid6o/kx5o8vZ3qibdCQbd31+vaV30ge1Phub73noKfjNM+w4GGaxtunSyD4J+dHsG6EzFZxGgXfwq5m46vbFcigTJnQb6tu5J7JnzAfZQ2ICVb7uJhq1J57KrVfGj1geUIEyHD4bUHQc1cNLYe3JLYaGglfrj56+8ExyzlCOzmROd31FHtD2/zMj2qp7RbTV/MMC+XKQap0KK;Yk5yUzvJSe8GQrswkX0AIQ=="
 ---
 

@@ -105,21 +105,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/eb_countdown_3DAYS.png?w=1024"
         width: 1024
         height: 562
-  - title: "Unearth the future of agriculture at TC Sessions: Robotics+AI with the CEOs of Traptic, Farmwise and Pyka"
-    excerpt: "Robotics+AI on March 3 with the founders of Traptic, Pyka, and Farmwise. Traptic, and its co-founder and CEO Lewis Anderson, you may remember from Disrupt SF 2019, where it was a finalist in the Startup Battlefield. The company has developed a robotic berry picker that identifies ripe strawberries and plucks them off the plants with a gentle grip."
-    publishedDateTime: 2020-01-22T17:11:00Z
-    webUrl: "https://techcrunch.com/2020/01/22/unearth-the-future-of-agriculture-at-tc-sessions-roboticsai-with-the-ceos-of-traptic-farmwise-and-pyka/"
-    ampWebUrl: "https://techcrunch.com/2020/01/22/unearth-the-future-of-agriculture-at-tc-sessions-roboticsai-with-the-ceos-of-traptic-farmwise-and-pyka/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/unearth-the-future-of-agriculture-at-tc-sessions-roboticsai-with-the-ceos-of-traptic-farmwise-and-pyka/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 102
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/speaker_3_robotics_agrotech-2.png?w=1024"
-        width: 1024
-        height: 558
   - title: "Stanford’s Doggo quadrupedal robot and siblings Pupper and Woofer are coming to TC Sessions: Robotics + AI"
     excerpt: "Doggo’s creators will bring the diminutive robot, plus its smaller and larger siblings Pupper and Woofer, to TC Sessions: Robotics + AI on March 3. P.S. Early-bird ticket sales end this Friday — book your tickets today and save $150. We first heard of Doggo last year when the Stanford Robotics Club showed off the highly capable design ..."
     publishedDateTime: 2020-01-30T18:32:00Z

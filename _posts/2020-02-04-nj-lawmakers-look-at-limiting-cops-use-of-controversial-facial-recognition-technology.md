@@ -187,6 +187,19 @@ related:
       - url: "https://cms.tribuneindia.com/gallary_content/2020/2/2020_2$largeimg_1960177639.jpg"
         width: 660
         height: 440
+  - title: "Banks allowed to use facial recognition"
+    excerpt: "The Bank of Thailand has allowed six commercial banks to offer facial recognition for electronic Know Your Customer (e-KYC) technology to verify the identity of new customers under the regulatory sandbox when opening online deposit accounts. The six banks are Kasikornbank, Bangkok Bank, Siam Commercial Bank, Bank of Ayudhya, TMB Bank and CIMB ..."
+    publishedDateTime: 2020-02-06T10:46:00Z
+    webUrl: "https://www.bangkokpost.com/business/1851949/banks-allowed-to-use-facial-recognition"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20200206/c1_1851949_200206161720_700.jpg"
+        width: 700
+        height: 467
   - title: "Facial recognition datasets and controversies drive biometrics and digital ID news of the week"
     excerpt: "Facial recognition and controversy around the technology were the theme common to most of the past week’s top stories on Biometric Update. After a few weeks of relative calm for facial biometrics, the biggest stories about court cases, regulation, and market growth were all focused on the same modality; and then there was Clearview AI."
     publishedDateTime: 2020-02-01T01:15:00Z

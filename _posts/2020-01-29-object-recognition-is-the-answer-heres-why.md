@@ -3,7 +3,7 @@ category: news
 title: "Object Recognition Is The Answer, Here’s Why"
 excerpt: "From all of the different sensors out there, and all of AI's capabilities, which has the highest likelihood to help solve a problem?"
 publishedDateTime: 2020-01-29T19:35:00Z
-webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why"
+webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/"
 ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 type: article
@@ -70,6 +70,6 @@ related:
         width: 1200
         height: 798
 
-secured: "DdMzegxBdCyk31zz+OUIwdI8BjiX/vRqmRTiHbEOlyMzpM/j0cSaJKdEFfzR5WyhfAUTKMZQ5XvZKjlKIlt1fSXu+5F05WEJVlO6Yy6MoEoqOypSpaEQtsANc7xAiaiIDkAsY4I7ZnRdqIg7M7PaNMnldBAsuPC9XiLY8V5N620Pg7XhVCWsta1O9Apc9e2c4kDvzTTVEcJ4xwNsRloX/QZRLCAGyxds8HTc+h3hl5upXl7d9L6yhIZ1dEwuvpdl3WPEUfPiuG9Pv5zmiYlb+7t9cFlIBSK5cgPUZR06pFUrD6JUj7xx2A4F1H48vzdCgqg5RoY3xmaNV0IAZRX/+pRB7kVd/cqb623qpnShrGO4759m7lvlyWhoOxTQcaVb79EpGUfX48BulobZQcg8LtxpjbtH20Uhe+sWd6JjIupC3besoko9wjaoBKs8iSCsprBnL51XKisJvU1cCjSZ5MRbqfYF1Z1y2GxEARlKI08=;zx2O4eO4xJXocW97ZCkQpQ=="
+secured: "X7KZjz8dcCFrbElf6UTARXhyn6t2XYiY/OamDPP9Ou6gCwwjeKDdW4IcDmdp+bK8s5SQrBqX2LcPs1QpVqpFECjIjMdHsKOKEZ6R7PbI6Mpt+0IORPGIv+9eR/Q4AVhf72cH9P1BqgjE51YhFLlfqrgfiqP7HPDw+BKw6Ms+aw5MSBu949pkrSP19iY+CwS1PeYbzSmyvmzfNYhf8DIsujhffzxX3gW+jvE4NtrlZTehPAezT+s5BexBQcQhLzIjx3N2Hkl0XtYnKF2FG9z2+jgNyoUtnepZvNrfFaZeNxLnCaI+gWQ864ptGNwYzI6X;5yHQEcVxw7CQbW06gYve/g=="
 ---
 
