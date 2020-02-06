@@ -24,31 +24,20 @@ images:
 
 related:
   - title: "YouTube, Venmo: AI firm must stop scraping faces from sites"
-    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn ..."
-    publishedDateTime: 2020-02-05T20:05:00Z
-    webUrl: "https://www.stltoday.com/news/national/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites/article_78d9898b-e5b1-53d2-88fc-d485916aa751.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites/article_78d9898b-e5b1-53d2-88fc-d485916aa751.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites/article_78d9898b-e5b1-53d2-88fc-d485916aa751.amp.html"
+    excerpt: "which the startup does as part of its work with police. Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and ..."
+    publishedDateTime: 2020-02-05T21:50:00Z
+    webUrl: "https://www.stltoday.com/business/local/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites/article_66e1fca2-c084-5d99-b95f-8c741ce100f8.html"
+    ampWebUrl: "https://www.stltoday.com/business/local/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites/article_66e1fca2-c084-5d99-b95f-8c741ce100f8.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/local/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites/article_66e1fca2-c084-5d99-b95f-8c741ce100f8.amp.html"
     type: article
     provider:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 57
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/76/67626ad7-5a62-5ad6-869f-e8453f7a52fd/5e3b1f807ecd6.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-  - title: "YouTube, Venmo tell Clearview AI to stop scraping sites"
-    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does routinely as part of its work with police. Venmo said Wednesday that it is sending a cease-and-desist letter to New York’s Clearview AI. The small firm ..."
-    publishedDateTime: 2020-02-05T23:52:00Z
-    webUrl: "https://www.sfchronicle.com/business/article/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
-    ampWebUrl: "https://www.sfchronicle.com/business/amp/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 37
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/72/f7255497-510d-547d-855b-23242af142eb/5e3b4750cb04e.image.jpg"
+        width: 512
+        height: 341
   - title: "AI company must stop scraping user images from social media sites, top tech firms say"
     excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn ..."
     publishedDateTime: 2020-02-05T22:56:00Z

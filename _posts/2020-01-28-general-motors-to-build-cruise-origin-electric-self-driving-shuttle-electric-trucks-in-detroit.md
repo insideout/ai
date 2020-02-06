@@ -60,21 +60,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480447771&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0M1ZY"
         width: 818
         height: 545
-  - title: "Cruise Origin: Take a Look Inside the New Electric Self-Driving Car Without a Steering Wheel or Pedals"
-    excerpt: "\"We didn't just want to improve on the car. We wanted to reimagine transportation as if the car had never existed,\" Cruise CEO Dan Ammann wrote in a blog post this week."
-    publishedDateTime: 2020-01-22T09:09:00Z
-    webUrl: "https://www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348"
-    ampWebUrl: "https://www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 58
-    images:
-      - url: "https://d.newsweek.com/en/full/1561809/cruise-origin.png"
-        width: 1283
-        height: 970
   - title: "General Motors to invest $3 billion on electric and self-driving cars"
     excerpt: "General Motors announced it will shift company gears from gas-powered cars to electric, and the Detroit-Hamtramck plant will be at the heart of the change, receiving $2.2 billion of the investment CNBC reports. According to Yahoo! News, this investment will bring 2,200 jobs to Detroit. GM president Lloyd Reuss told the Detroit Free Press that ..."
     publishedDateTime: 2020-01-28T18:13:00Z

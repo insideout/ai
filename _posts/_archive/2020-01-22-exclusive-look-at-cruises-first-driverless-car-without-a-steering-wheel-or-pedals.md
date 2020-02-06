@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driv
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look"
 type: article
 quality: 83
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Exclusive look at Cruise’s first driverless car without a steering wheel or pedals"
 
 related:
-  - title: "Cruise Origin: Take a Look Inside the New Electric Self-Driving Car Without a Steering Wheel or Pedals"
-    excerpt: "\"We didn't just want to improve on the car. We wanted to reimagine transportation as if the car had never existed,\" Cruise CEO Dan Ammann wrote in a blog post this week."
-    publishedDateTime: 2020-01-22T09:09:00Z
-    webUrl: "https://www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348"
-    ampWebUrl: "https://www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 58
-    images:
-      - url: "https://d.newsweek.com/en/full/1561809/cruise-origin.png"
-        width: 1283
-        height: 970
   - title: "This self-driving car has no steering wheel or pedals"
     excerpt: "The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rearview mirror."
     publishedDateTime: 2020-01-22T21:50:00Z
@@ -122,6 +107,6 @@ related:
       domain: fox2now.com
     quality: 4
 
-secured: "CcnoDYR66eBDshvIhJM0AUk4O+MGsYNhHP3NvOlw2rt1swHYYnD3kVb9nf6PnnO4EiWgP57aPr7A03BufCQlCrT2EKxvkhEpmcEotJTrNJT3ZMzMsWcukZ2QyRAeuhi1s1Fg/bd4ryLOUDNjOlC0UAlZZbGPQYoceD94o6RDy2o8scb0+HlxnNUEJKkDgu//j4cw2PFGkfX/YZTPnjOQdPNGqBgkjHB1b10ZI3qx3GsIlDu2wg6wunZdXScOlmvVykJ+w+kTMcOgxC75somhrEUzbtvx5q5VkjtSk5XPHKYsLfpWUtfFRi4FPzyeZMXj;Br02kbMOgaz3APby20IPeQ=="
+secured: "xv9+sE0GWMZIKcCPRCcfo94gWu0uJ1tuWABZ51I/yyDWpqJZ9uUmZ9aTZHWPiYvjl7aEBUuEk6M2f623TsdHHA5Z1qg6Ov0aUPfxvk79OnH9tuXP7kNX6GbjtMA7nQHlNJh2LVhoD5C4HZK70teW4aLE690lJvRsdmQZy0oMeyX6oZxDUfW3ZfA99F+5odU5vwiaG1DEsb0aMFU2hjoD8eJofpGPuJzUVuLoIKwyDGE+iLISq2j5bMxD3WuvMfAmiaHItrn13MVQ5OYe+dZxN7YwZZa8MvDu/ssJ/p0S3aGTMZEDdqoTObgFikJbm4Fv;VZTJKoTxLo8gNm5BnSORfA=="
 ---
 

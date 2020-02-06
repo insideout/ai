@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T00:08:00Z
 webUrl: "https://cen.acs.org/physical-chemistry/computational-chemistry/Artificial-intelligence-finds-drug-that-could-fight-Wuhan-coronavirus/98/i6"
 type: article
 quality: 137
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -23,6 +23,19 @@ images:
     title: "Artificial intelligence finds drug that could fight Wuhan coronavirus"
 
 related:
+  - title: "CloudMinds Donates 5G Robots to Wuhan Hospital Amid Coronavirus"
+    excerpt: "WUHAN, China -- CloudMinds Technology Inc. a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity, has, in collaboration with China Mobile, donated and sent 5G-enabled medical assistant Cloud Robots, disinfecting cleaning Cloud Robots, medicine delivery Cloud ..."
+    publishedDateTime: 2020-02-06T01:04:00Z
+    webUrl: "https://www.lightreading.com/cloudminds-donates-5g-robots-to-wuhan-hospital-amid-coronavirus/d/d-id/757320"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
   - title: "AI, 5G help fight coronavirus epidemic in China"
     excerpt: "As China continues to battle an outbreak of the deadly novel coronavirus, some of the cutting-edge technologies from artificial intelligence (AI) and 5G came in handy in the nationwide fight to contain the virus-caused crisis. On Saturday, the Provincial Center for Disease Control and Prevention (CDC) in East China's Zhejiang Province announced ..."
     publishedDateTime: 2020-02-02T12:49:00Z

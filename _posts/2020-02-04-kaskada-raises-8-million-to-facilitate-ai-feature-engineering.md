@@ -40,6 +40,6 @@ related:
       domain: venturebeat.com
     quality: 47
 
-secured: "vyrRwnVIhUutTjNG16hW5saV8u2XiUl1sv+CG9FpHWHb0viyOZuKuEgT/i0tiaTsraoxwQa0Lho+zy8k6uTxrpxopHF4EY8rX/skSJL8nfa9LIXytqCX5ULm8q6exfpgEz75MbfK8lexNqP+Y6SmHwv20gm4h4ZYq5I2IT23rgTze5D7KqY8IgPbiWIFQXsnF6x4rScRu7CRUjJzhWfOrUNV5W9A7i93FaKzViJeeb+BbGu9lJXGAEGkoDjg3N4keZs1+Bp9jJnnmd68LRGFE/adH29Sm7rJeDxcBrQfr3KDDafU9Tn/uQlv/GfySm9H;ULtXZwnP9+6K8Gkc/QHyyg=="
+secured: "G2RL+cr0Z04YYbBhWKMJ2RCyUwPd/rCBMne1N9uq99CitQra+3vltAgnaCBZrVdqXSLEpKH0iW+0EueMo8tHw+PfcyMiRRnVMnEL2lpGjHz741QKjE6Hh+0Qq+c9ahFe+Zy9WPPvPCCtTOj8Yv9qGMvoH0g0oD+HrhSc91tThe6C7tuIHpXbMIofISuAQFScxHxed8Au9WnlwhcQ2rii9/3V10aLzjA8c8/hAxxoVxq0LktFyh3FmqsD6eBW5X3/TMC6EiRd/frQMrepYRXZVLgFfDW5b5sEBYnIcxX1PdP4BLwLC87KCxLWNTLffP9G;CoF3asb32GnEN7tgbWobmQ=="
 ---
 

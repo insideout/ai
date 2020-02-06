@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cmswire.com/information-management/how-ai-enables-enterp
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/how-ai-enables-enterprises-to-get-the-most-out-of-their-data/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -38,6 +38,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud"
+    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
+    publishedDateTime: 2020-02-03T13:44:00Z
+    webUrl: "https://www.biztechafrica.com/article/microsoft-and-genesys-expand-partnership-help-ente/15418/"
+    type: article
+    provider:
+      name: BiztechAfrica
+      domain: biztechafrica.com
+    quality: 30
+    images:
+      - url: "https://www.biztechafrica.com/media/images/stories/microsoft_wDjNDZP.jpg"
+        width: 410
+        height: 270
   - title: "Information Services Group, Inc.: German Enterprises Look to Use Artificial Intelligence, IoT and Digital Platforms to Grow Their Businesses"
     excerpt: "\"CEOs and chief digital officers must understand that artificial intelligence, the Internet of Things, digital platforms, open source and workplace experience tools have a high influence on an enterprise's agility, costs and productivity,\" said Johanna von Geyr, partner, ISG DACH. \"German businesses are using these technologies to improve the ..."
     publishedDateTime: 2020-01-30T09:07:00Z

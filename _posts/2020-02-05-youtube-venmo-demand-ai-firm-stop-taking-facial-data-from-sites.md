@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Google, YouTube and Twitter send cease and desist order to facial recognition app Clearview AI"
-excerpt: "Google, YouTube and Twitter have all sent cease and desist orders to controversial facial recognition app Clearview AI in an effort to stop it taking images to help with police investigations. The tech company's tools allow law enforcement officials to upload a photo of an unknown person they would like to identify, and see a list of ..."
-publishedDateTime: 2020-02-05T17:34:00Z
-webUrl: "https://www.dailymail.co.uk/news/article-7970371/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-ampWebUrl: "https://www.dailymail.co.uk/news/article-7970371/amp/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
-cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7970371/amp/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
+title: "YouTube, Venmo demand AI firm stop taking facial data from sites"
+excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
+publishedDateTime: 2020-02-05T23:47:00Z
+webUrl: "https://www.pbs.org/newshour/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites?ref=hvper.com"
+ampWebUrl: "https://www.pbs.org/newshour/amp/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites"
+cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites"
 type: article
-quality: 62
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Mail Online
-  domain: dailymail.co.uk
+  name: PBS
+  domain: pbs.org
 
 topics:
   - AI
-  - Computer Vision
 
 images:
-  - url: "https://i.dailymail.co.uk/1s/2020/02/05/17/24354446-0-image-a-59_1580923631236.jpg"
-    width: 636
-    height: 382
-    title: "Google, YouTube and Twitter send cease and desist order to facial recognition app Clearview AI"
+  - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/09/2019-09-04T134827Z_154642363_RC1C71B03BD0_RTRMADP_3_GOOGLE-FTC-1024x660.jpg"
+    width: 1024
+    height: 660
+    title: "YouTube, Venmo demand AI firm stop taking facial data from sites"
 
 related:
   - title: "Google and YouTube send cease-and-desist letter to facial recognition app that helps law enforcement"
@@ -91,6 +90,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "Google, YouTube and Twitter send cease and desist order to facial recognition app Clearview AI"
+    excerpt: "Google, YouTube and Twitter have all sent cease and desist orders to controversial facial recognition app Clearview AI in an effort to stop it taking images to help with police investigations. The tech company's tools allow law enforcement officials to upload a photo of an unknown person they would like to identify, and see a list of ..."
+    publishedDateTime: 2020-02-05T17:34:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-7970371/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-7970371/amp/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7970371/amp/Google-YouTube-Twitter-send-cease-desist-order-facial-recognition-app-Clearview-AI.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 62
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/05/17/24354446-0-image-a-59_1580923631236.jpg"
+        width: 636
+        height: 382
   - title: "Google tells facial recognition startup Clearview AI to stop scraping photos"
     excerpt: "Following Twitter, Google and YouTube have become the latest companies to send a cease-and-desist letter to Clearview AI, the startup behind a controversial facial recognition program that more than 600 police departments across North American use. Clearview came under scrutiny earlier this year when The New York Times showed that the company ..."
     publishedDateTime: 2020-02-05T19:13:00Z
@@ -124,21 +138,6 @@ related:
       - url: "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg"
         width: 1280
         height: 720
-  - title: "YouTube, Venmo demand AI firm stop taking facial data from sites"
-    excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
-    publishedDateTime: 2020-02-05T23:47:00Z
-    webUrl: "https://www.pbs.org/newshour/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites?ref=hvper.com"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 57
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/09/2019-09-04T134827Z_154642363_RC1C71B03BD0_RTRMADP_3_GOOGLE-FTC-1024x660.jpg"
-        width: 1024
-        height: 660
   - title: "YouTube tells controversial facial recognition company to stop collecting its user data"
     excerpt: "YouTube on Wednesday sent a cease and desist letter to Clearview AI demanding that the controversial company stop collecting faces from its videos and delete any data it has collected already."
     publishedDateTime: 2020-02-05T22:16:00Z
@@ -201,6 +200,6 @@ related:
       domain: nbcchicago.com
     quality: 19
 
-secured: "qbYPdNpH+konIt7t1P5Ygx8qmhKUCXmzVPyytVjVrSQq0HCsiVRcGEKaCWykoDkdN7XhVoLQ8bWDpYLLLrs3OAnpV7Jit+qCGGxKTrvrrWlEShpH6n4P7Lz35nQf2GVdzOXCgWga9uR0Cq5RqSAzIs/oIWKI9vrzUS+gTSEBHvl/+a9uI5mT+mxlPOCTfD0lrtFTEHr8gsc+LucmA4qS66FJQQwPOp9ffZ8tVlaoCUFmG2gZQfkWS7U6/JLdyAV/ZM1BgHUs7GhN8cOXnoFMC2205KEDe4RhjmVRZHhtGVIva5Ec/k9rRBJehWRCWZMSilAljLHXH7UgrjF1gg1/Rwh2wAY5rIr9FEi7xaHLitdvTa777C7FIKZ3pKSYT/9kE+NqK6/7X8fQRp/KxE1CQK4OtZF6HHdJQEZ3iDM5C+Iel+vYaWNLziI8D2GmvrVbT+Y8IeBRGazsIpONN5zeNkWO81yUvM7im4DI7aWzEt0=;jTvlqToPHQyO3UQ3JOf7GA=="
+secured: "z5kAZMRQr2/IBLzvFzn6T4BCp+Dt3ddLHdo53twEj3wIY3CbwqEqzqWFWjQMLP5Sp0m/CaXsoVNxdPxmN7kmX6ABPw16bXzEbCW+KIQK4T2fBebM1qaCoiXCaSvHJLlXilRdPy1coWLLQObVgcseofxdEiWNIVZGY7ljt+kS87cNr8ApBzh7fuZj+ez53nF9qkZMzlKJiXkv9jawUqxjaAVFCEvGc1afeTKKMKP1eB6zHP7ZvJw/K4s33ogqwwksxh5IKNPkUUal683TpXyak73tbzPGEr8bTCMdr5mVtnixc9FEjUdD5IhYGNtzjd23;R+rWYGeZVSv6XLQeGi+jrg=="
 ---
 

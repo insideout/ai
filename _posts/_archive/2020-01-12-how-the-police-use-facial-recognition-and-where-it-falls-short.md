@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/01/12/technology/facial-recognition-pol
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,23 +29,6 @@ images:
     height: 550
     title: "How the Police Use Facial Recognition, and Where It Falls Short"
 
-related:
-  - title: "Facial recognition at South Wales derby 'a step too far', says police chief"
-    excerpt: "Photograph: Chris Fairweather/Huw Evans/REX/Shutterstock One of the most senior policing figures in Wales has warned that the use of facial recognition technology at the country’s biggest ..."
-    publishedDateTime: 2020-01-08T19:05:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/jan/08/facial-recognition-at-south-wales-derby-a-step-too-far-says-police-chief"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/jan/08/facial-recognition-at-south-wales-derby-a-step-too-far-says-police-chief"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/08/facial-recognition-at-south-wales-derby-a-step-too-far-says-police-chief"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/839306bb7f0f7cdd64db8510b8bd9a66560196f7/0_0_3300_1980/master/3300.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=90e2e9c7d7fea99045bba1078a463cd7"
-        width: 600
-        height: 360
-
-secured: "knlKCu4UpT3w27FZ6zt3h1oKEG4uHDN+P8z/oEkvV+1j4YzPp+0MVCcNCsbeAcs61UHJ+BIwkjDv8DQ2qBinPyOKI5HCJsXuabb8dwdTaXickOazNfMotHp17LCv1Tj99PPo12BYndub8sgWc/oRyBtd7WV6/4sM8DCYdaYaQ79ZItdwh6f061bKQu6+gRbef+VtdNnMcGevPFHZAc2dUEcVKKi73utVOUDe54Y4whng5Fi8T85HdVzPVfvtMyi+qISsDGh1d4jwW9bamD0VVESu+2Ppgk56uNIeI+OssvD5bq+dNcgPVjNgfusxla1N;OlogBiaPBxmbfKkaH8oYEw=="
+secured: "fD8AyrAmo5f/sWPlldHOqJCakOII69HNLq4F+vaY8z0S7SIzdr8179es3L6n46aKWzyFTcR6d6kJf+yYW061Om0kAH0JMQFW01Um8OMBGVCmEjztjFc4x0LRz2WZReIZw3SILL9iapisKMImp4Cy4JjA2M8nwv6+nZiEUl9e8lKFbjwlW+Fi3VtC9vwAdxVg595aJk7Av0iJXiXjBRKsU1Sso6doI5ZnGliN7lLm1JQVC0pl/zeDokmul7oUeOT+g8UuC64eOy7/1ii8dSBkvPlMgZuXlfXkI6pKG3xcF1fVhr6GUruT0S5/T9E9PXCJ;Cxio768wJqAPiCOpKMt58g=="
 ---
 
