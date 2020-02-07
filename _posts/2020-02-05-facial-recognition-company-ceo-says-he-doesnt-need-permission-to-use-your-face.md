@@ -60,6 +60,21 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/17/campaign_images/buzzfeed-prod-web-06/these-senators-want-homeland-security-to-pause-it-2-2613-1552427904-0_dblbig.jpg"
         width: 625
         height: 415
+  - title: "The Two Faces Of Facial Recognition"
+    excerpt: "Businesses, and society as a whole, must be cognizant of the ethical and moral implications of this technology."
+    publishedDateTime: 2020-02-07T13:33:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-two-faces-of-facial-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-two-faces-of-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/07/the-two-faces-of-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/182908695/960x0.jpg?fit=scale"
+        width: 711
+        height: 473
   - title: "Podcast: Why Clearview AI's facial recognition is a privacy nightmare"
     excerpt: "And we also chat about the DIY nature of Billy Eilish's Grammy wins. All of our fears around facial recognition technology are coming true thanks to a little known startup called ClearView AI. This week, Devindra and Cherlynn dive into how ClearView works, and what unchecked access to powerful facial recognition means for the future of privacy."
     publishedDateTime: 2020-01-31T12:30:00Z

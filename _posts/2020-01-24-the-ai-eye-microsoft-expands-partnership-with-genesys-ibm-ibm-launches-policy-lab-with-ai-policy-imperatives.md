@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-24T18:29:00Z
 webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-microsoft-expands-partnership-with-genesys-ibm-nyse-ibm-launches-policy-lab-with-ai-policy-imperatives-2020-01-24"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "The AI Eye: Microsoft Expands Partnership with Genesys, IBM IBM Launches Policy Lab with AI Policy Imperatives"
 
 related:
-  - title: "Microsoft And Genesys Expand Azure Partnership"
-    excerpt: "“By running the Genesys customer experience solution on this dependable cloud environment, enterprises will be able to maximize their investment in Microsoft Azure through simplified management and maintenance requirements, centralized IT expertise, reduced costs, and more.” Through cloud and artificial intelligence (AI), enterprise ..."
-    publishedDateTime: 2020-01-23T20:15:00Z
-    webUrl: "https://winbuzzer.com/2020/01/23/microsoft-and-genesys-expand-azure-partnership-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 54
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-Microsoft.jpg"
-        width: 1024
-        height: 803
   - title: "HCL launches dedicated Microsoft business unit"
     excerpt: "HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft’s ..."
     publishedDateTime: 2020-01-21T16:31:00Z

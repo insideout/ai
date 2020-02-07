@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Top Trends Driving Technology Innovation Investments in 2020 Revealed by Virtusa"
-excerpt: "Financial Services, Insurance, and Life Sciences Leading in Innovation to Start the New Decade SOUTHBOROUGH, Mass., Jan. 28, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation VRTU, +0.29%, a global provider of digital strategy,"
+excerpt: "SOUTHBOROUGH, Mass., Jan. 28, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation VRTU, +0.29%, a global provider of digital strategy, digital engineering, and IT services and solutions that help clients change and disrupt markets through innovation engineering,"
 publishedDateTime: 2020-01-28T13:01:00Z
-webUrl: "https://www.marketwatch.com/press-release/top-trends-driving-technology-innovation-investments-in-2020-revealed-by-virtusa-2020-01-28-9195110"
+webUrl: "https://www.marketwatch.com/press-release/top-trends-driving-technology-innovation-investments-in-2020-revealed-by-virtusa-2020-01-28-9184138"
 type: article
 quality: 49
 heat: 49
@@ -64,6 +64,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "Om2GO8QG8vUFtsVBecFNkpXxHX5ZFUvuOifUX0QkzUBN1FIt1F5NN1kdJxmFs72PNQMbSXn28tpXa/UsaC6ohlRTQsLxSnrauymr9veAIlj4m0IN56sL6WmJoJlbwLA/9rOt9q+YRwNTlGbs2UIyE6IsfiO/EREMbFf7VX3aSngoIdhcmS3/HB3jWynkalpxqqLqGxC6BK+hx1faCmoM4LbpMUQj088XMBrZwVvwSeM60Mt04WZOoQZOR7OGyUZRNG6hpNPCWoL7YpeDS3BpQdJXsc+EwY/51SnEhgWJ4gj0LsbrV1v7lPBMk7dXRxeH;8suumOHLHaIKaNuKtRh9TQ=="
+secured: "JT75YZfaU/88cSoNfD/DOx8Bjjovf/WevDYkyLogBmLSp4aWOJNR3EjMV759q9a3dOPaVgVe6lUdugCl3dq6kYqycjUgbotafqKdh25ZxlmSxf93pWlQ5muP5+IKTDjG3KF/fegwNwan4ciL/36jVfjj4bsyhoGWmxJHiyUuoGzbRv9SEkJ0OxzbawyGdE/zRaZzie1IN0DUv+xA53lmE+Usetisp4uP1KMQc6YW+gyTGAH0z2Fd8sAB9/9jVwG3AqKKsxJLkC/KPAukZBu3Oi4q/M0xc4hEQEPMgOlhgPVdTlm0Wv1ChDXxJV8OB6mD;PTRQcW/X7ZlJ9zt9NPL2tg=="
 ---
 

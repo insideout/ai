@@ -25,6 +25,6 @@ images:
     height: 878
     title: "Capillary Technologies achieves AWS retail competency status"
 
-secured: "cd3aOzwOBO5W5J/GtTuVtg4injlLXfUvSRSpJlvD31Tfzl+8rOaakH/R2wvsI23ho7I1+h29Tb8BYLQVr6QChHXqsRdiPWTddMT1omyRFI4oxLt3GKe2WjIABGz9a6UmskqWtb83uxHWqrvBIpZJURgj0YF2g2yXIewSupva193V7OSSU6x9+2gYfyaEkhTuh+OwM0/fDsudHMwo7V2SbRqxNK9tA0JX2z1tsyx8uehq1+6kzzNNRVhUBq95evjKg6Z1OYizv/+1zgZEcOH3F8J2h/0VinVyoSIft9Ld8vaJWNPi2Z0NyXsrdbodgSlD;n/Uz558Fl5gcxtNzfilrvQ=="
+secured: "8VdqdHai4ILmf9Cmu0+fmk3uGq9aaxa1afSZXKn9YDQPPkh9UZV1FAUX8qpMXJJ6RzVBjBNPstSao8cNJMCQ/KzXJe2+vUJe59g/wIJrKfxxQX0Vj2ufn2cHRagOUmU+kgW+vitBREN8MRjTai0lx5+v2/FSJm1E30H/1wc94xyIOo1dQOvtKqzyf/uaYnuh/rlXRCT+c9Vj4RZD4WVbQNda0q3KXlx/l8h11edFwNW6X19UxJjsagGmTsY95cHv6D/OxfRXb8nzZakc/bdJTOEiilVkrEwC6Xc4h295S644v9zueJQF+dSoH6vAkurU;NnVKpLjxv56SbyWPxythcg=="
 ---
 

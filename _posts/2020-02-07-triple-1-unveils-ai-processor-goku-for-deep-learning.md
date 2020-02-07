@@ -3,10 +3,10 @@ category: news
 title: "TRIPLE-1 unveils AI processor ‘GOKU’ for deep learning"
 excerpt: "KUALA LUMPUR, Feb 7 -- TRIPLE-1 Inc, based in Fukuoka, south-western Japan has announced the development of the AI processor ‘GOKU’ for deep learning that uses the world’s cutting-edge 5-nanometer process. ‘GOKU’ has 10 times higher power efficiency than the conventional process, according to a statement. It utilises core know-how ..."
 publishedDateTime: 2020-02-07T08:59:00Z
-webUrl: "https://www.bernama.com/en/business/news.php?id=1812202"
+webUrl: "https://www.bernama.com/en/news.php?id=1812202"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: "https://www.bernama.com/bm/img/bernama.png"
+    width: 2483
+    height: 2942
+    title: "TRIPLE-1 unveils AI processor ‘GOKU’ for deep learning"
 
 related:
   - title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
@@ -32,6 +38,6 @@ related:
         width: 600
         height: 315
 
-secured: "fpS8SgDPO7JyZGP43S/+05w9dG+jnwfyZYkQTJEXrQaC5uB1h9B4ABsM64s1ulQangmr+PCmtyFBMCtk9ts7v0NTpy4FmH5Sr9cDuyc7dzxTk7JinH34DHqlOyp+VLMU7mGX7OKNYw66A7Aww3i33O1F1YQ6ae9ZFqQJ2dgQ9h1TDShkPViJrJNc1IXgnN+a8TwjWXe+12haxPjdY8xLdM6j42BfQ1CdfhlayldP2QPiEk1T7ljx3HN7yi4rsxMtn022saLd7xCa52tfxHR5SxeePiQ3fN52xyBOqwj/1plwndc7Y6XXHDO8ve0xLhg9;QRemWlDoMWWV5GDcsNI1Cw=="
+secured: "xsgkXkZY6q/PA0bmFdalYXqtbdTj+1tdwMb/+bIjTJQphPQB689YPZ883nzlR3W8+9K8GuHJncuwQ9+TefihGTn2ZOCUTCpWqPjIUl5DFoawVvYQDyf/VRWdhMUEge6AsM9USYi1w4U2kDEiCRMjXmdOS7FwREEKHtySlYpxWRzWJ8PWlv9wdSroSlwIoamOrq3XImNEc5Jf3rGfvU+WLDRKJvA80aUa60o8g4qTVcWJsNWxuGKPGHXfmldGmLXfeGpzEXnJ7/z00IDPCKwscNBkQGeTAekhuKHmNlplD4GgCfFCAthP8kT7tbS1Cnvk;o9r5aXZ4VO3ff1isO717DQ=="
 ---
 

@@ -52,6 +52,21 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/17/campaign_images/buzzfeed-prod-web-06/these-senators-want-homeland-security-to-pause-it-2-2613-1552427904-0_dblbig.jpg"
         width: 625
         height: 415
+  - title: "The Two Faces Of Facial Recognition"
+    excerpt: "Businesses, and society as a whole, must be cognizant of the ethical and moral implications of this technology."
+    publishedDateTime: 2020-02-07T13:33:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-two-faces-of-facial-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-two-faces-of-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/07/the-two-faces-of-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/182908695/960x0.jpg?fit=scale"
+        width: 711
+        height: 473
   - title: "Facial recognition company CEO says he doesn’t need permission to use your face"
     excerpt: "The CEO of facial recognition company Clearview AI, Hoan Ton-That, today gave his first network television interview on “CBS This Morning.” During the brief conversation Ton-That told news-anchor Errol Burnett that he believed he had a First Amendment right to access, scrape, and store billions of files containing images of people’s faces."
     publishedDateTime: 2020-02-05T22:25:00Z

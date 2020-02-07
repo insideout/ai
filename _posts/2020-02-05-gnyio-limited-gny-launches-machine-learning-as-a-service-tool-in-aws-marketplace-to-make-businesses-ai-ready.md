@@ -32,6 +32,15 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/GNY-ML-as-a-Service.jpeg"
         width: 967
         height: 725
+  - title: "Artificial Intelligence in Platform as a Service Market"
+    excerpt: "The latest market intelligence study on Artificial Intelligence in Platform as a Service relies on the statistics derived from both primary and secondary research to present insights pertaining to the forecasting model, opportunities, and competitive landscape of Artificial Intelligence in Platform as a Service market for the forecast period ..."
+    publishedDateTime: 2020-02-07T13:33:00Z
+    webUrl: "https://www.openpr.com/news/1923740/artificial-intelligence-in-platform-as-a-service-market-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "MqwwixLplhBDKiwFS13u4ZQN5IO41iFTeyjyKqcBcAlJFUIxq7HOhIaYl9W8r+UbjS9Opm2HthawUvJ68mZtCe5ZXFnXc1MBo1omvxPFLjt+1Y3FgdIX8iighQG8BuH6YI2IhPG29wZvgu4WsI54bPeZfcuZRZwiX28mzFGcPUTy+WJTyFVFS5bTwJM6naR9U7Df26zPWQbJ2mowKW0FnfY+Y76gKPkpqzgT5BSLIoOZRaXGNhy7R4lwwVMQXxcJVAyeenQzolHYSJ6P9oEFIbCDKWemIjkQLP1HRy1WCL2UttEy8jARjc+wHlMP+Vub;c6m9HmwVu5mXpyuEQd7HmA=="
 ---

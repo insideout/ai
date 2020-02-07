@@ -44,16 +44,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Set To See Huge Growth !!"
-    excerpt: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market, By Component (Technology and Services), By Type (Rule-based, Statistical, Hybrid), By Application (Machine Translation, Automated Information Extraction and others), By Deployment Mode (Cloud and On-Premise), By Geographical Segments- Industry Trends and Forecast ..."
-    publishedDateTime: 2020-01-23T20:07:00Z
-    webUrl: "https://www.openpr.com/news/1906775/global-natural-language-processing-nlp-in-healthcare-and-life"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 2
 
-secured: "EuynsGS/zTKk2+k9LG0NcnQZ5wc9I70/tn5avXjc2X0SQG+F+DVoF6MGTfhsIGz8i1FGuUzqBy4+kbDhDiynZ7DDLOF8Yuf9BN7zGDIFmMuwXGtlWjeL9cEkq4vGr4OjLUKiIo0VodEW+ziP4ty12iIDwQfy3Tce7IatGNst+xY8K/QeVJ4BMbSjyTDlRUokzZGREJaZ1m2H5RkmNAX8QsOmx9uFg5TORJ9qc2o1UWERzTA4jJIWmmIffwQ5CgnvXZ5YhOpL5LP+JyjsO6nM8gv2tHz3JcH+TBHgm2d/Y8XWrjl27IQkUfb3Out2iQpI;HT6dFncO9nTm1mt+yCnbHg=="
+secured: "A7mDPHkZ+HTUJhsJqBo70q+iDO/wfuMfjcFPpNVORSazn1IQcIRdQcOy3ZlpWBB2Bdfsu7zH87D+kYgU5oYww3cKTrMm2mIal0UkNgRvry4jHttv+QYnZ9ix6iZzFU1D1F8qBEi9ibcw1NUsh0fSczctCFUA+sYVeogTPjpt0EhD3XI2Qm4QX5IFx/gbE7NFxucsJHsyCrtr0UOeJifZ4V71ThM3Bsh+g9DA4K3TpLtgHh/0iPFOwss99CjUgyf0NznXvdsfROUt+pCSnDngPaubrvihgzWW68BPN2LSbI5wEGnKpInkuPzU8F9IoM8F;K88q+NLV4ehiUptgpCVOcg=="
 ---
 

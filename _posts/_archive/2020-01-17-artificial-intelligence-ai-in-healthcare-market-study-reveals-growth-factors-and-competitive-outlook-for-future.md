@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T08:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -50,16 +50,7 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 12
-  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Set To See Huge Growth !!"
-    excerpt: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market, By Component (Technology and Services), By Type (Rule-based, Statistical, Hybrid), By Application (Machine Translation, Automated Information Extraction and others), By Deployment Mode (Cloud and On-Premise), By Geographical Segments- Industry Trends and Forecast ..."
-    publishedDateTime: 2020-01-23T20:07:00Z
-    webUrl: "https://www.openpr.com/news/1906775/global-natural-language-processing-nlp-in-healthcare-and-life"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 2
 
-secured: "Hvycx3UkFYzOoiSG+NlPldp3aG7wLT67F1Gs+AHk0yEyvLGUrJ/ZcYxGVTXf/vcnPCFXZTbvBLrr3R8TZP9mvpnk2Ud+b+1Zr+gHjo0xE/3nitAWrwIbQlmLF2CEcedXAk8guVlgZbSRAzORnh+cKRj7YDS34hAYSxHieTcLaIq9TwqchdxUUpOv3i3SybkqUPZgo95ZtKNqHOQmXgf5yh1uYcXvlqHfsNM0o7Fc57wOKjpooQoWoUgH+OsrK8Zn2W8T9oTTpSdn/YGkI9reqVzce46cMYWv+0C2Qzz4F/SH+hRyFlWvQmLJIWD6ow4e;V3ZZOiUMMTdaW0CJG/S0NQ=="
+secured: "fGxhltUxrxFvy1Wsh35qQZZu/anONOSiksp2X1sn8TJ1GSdxxs5bNoiLAqsX7J1jeouPVO+4wHcS6F04HgB4IDSAb9wieaMWU1zfuulhxZY9WOgXnuPiIj+wBR9TiCqqeknyxJu4CDALmfbPfL5gws5dKwtM1GatT7JMC7BOA7OC/V0hUrFoIJADIvp9T+AKteLxA4oBA3JYfVhkm+C1aGpSTeq13QjufER78t8B0zpkRDDTIoZPDUwH6IVXP3cH4BI0w4B3PnOhHU45/cIrIT8MiOG4OFlgn/mW8PooSpyEP19hwi3Md8LuYcKiu5qR;4UdRp5LzsXjYeWHtlCIUog=="
 ---
 

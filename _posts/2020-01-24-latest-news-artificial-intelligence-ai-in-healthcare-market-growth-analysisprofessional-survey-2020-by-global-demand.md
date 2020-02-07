@@ -51,15 +51,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 12
-  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Set To See Huge Growth !!"
-    excerpt: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market, By Component (Technology and Services), By Type (Rule-based, Statistical, Hybrid), By Application (Machine Translation, Automated Information Extraction and others), By Deployment Mode (Cloud and On-Premise), By Geographical Segments- Industry Trends and Forecast ..."
-    publishedDateTime: 2020-01-23T20:07:00Z
-    webUrl: "https://www.openpr.com/news/1906775/global-natural-language-processing-nlp-in-healthcare-and-life"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 2
 
 secured: "ZoSGQZGJgLICScf3PqK+oQSO5YhrRiQedbwK3KHcAoXd+AF1xr8e6ba41OU6zlvM6Wgu4bFeW2Q8q5X4dXYlJxp14FOmEKZhUo1DgjcAdwjrwgNE8QZgpo0kHoKiV0I6XGeMV0yBpwKatB9+u7C6NrBrIbR7ITinUaLnN777cUvge1twVqeVgrD/51s+IJ+htBjtHFZdZQR3DLJKScErcfylO91BQ/VntSRRN1Un4XnOwwu95YNOzYeApf9pIurOabCqzcV4kfl7BhwT6SVx3TDJgFMyy22fUmBJ1FQjBi1krcj7FvTRZ+53HvKIq10h;GDGcR1J6lZ0ko8aLp93Tjw=="
 ---

@@ -5,8 +5,8 @@ excerpt: "Gartner's hype cycle for artificial intelligence (AI) paints an intere
 publishedDateTime: 2020-01-15T08:54:00Z
 webUrl: "https://www.itweb.co.za/content/4r1ly7RoeXeMpmda"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI Hardware
 
-secured: "3Y0IiLN8znzuLaAlnl9rbG8T3agQj0xILi47/GAQp9K7EEHGdoPXPlxda6uszblE3PKdn1p3Ts8WOeFOE9Qi8mdjMKFpqzmYlMiGpOrc7yOXHqkluJqUSrHvr2lCSuNc0f8VoktF2l4tWeX1wAoH4Cg9xDfO0rC9clX0oXT3pgcsIKobzMvvekkw6P3v+syZ8zOLiv9Zn3SvA37GFK9yXXgzGBmu02x5NZ5tUo7JZdG4WTANaqff0+GJzp9XEAN7+sqUCLJso5Oa4y0bdD5d2Kv1IejgPIuL2G5SXRipa01ie6Arx1XwrLV0viEehfpT;lXZ83S5v1DTr8YzYpW79Hw=="
+images:
+  - url: "https://www.itweb.co.za/static/pictures/2019/05/-fs-Machine-learning-2019.jpg"
+    width: 816
+    height: 459
+    title: "Every business can use - and afford - artificial intelligence"
+
+secured: "caB4yPZiHBeH4UjsRrVQq5z2tcwKu8EDRYs653chUSw+Rbmfm48RjzKBg1mSMbfYYJUgSrwXbheK4udzVyGPUeJdAetDRt/8FMXkW8gHeuruqamwzuOAjukcAintFZNLDxHhXq0lIm8VagIZpHAjsWGoNT8u6mMQf3oUrl199jttfkp18wc6elDH4CEZk/9vwWrHfNP1BNThlEWQNnHfoOCkggw9to8ZN0No9mSDb11Mox7CtTFMvc8BMrVaree0xtEACWjdZ3O+5RzXZCTG5ivNUSUzq7qLMdfYI7Uep+FnRz2j/dwfhm9mADFZI984;xwqO3/N+ihrKmvcL6EV+Ng=="
 ---
 

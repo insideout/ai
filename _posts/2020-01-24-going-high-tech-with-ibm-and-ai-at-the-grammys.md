@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-24T18:54:00Z
 webUrl: "https://www.techrepublic.com/videos/going-high-tech-with-ibm-and-ai-at-the-grammys/"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -26,51 +26,6 @@ images:
     width: 770
     height: 578
     title: "Going high-tech with IBM and AI at the Grammys"
-
-related:
-  - title: "Grammys go high-tech with IBM and artificial intelligence"
-    excerpt: "Along with Versace and Jean Paul Gaultier, artificial intelligence and Natural Language Processing will be important accessories on the 62nd Annual Grammys' red carpet. IBM will enhance the red carpet livestream with Grammy Insights with Watson this Sunday at the Staples Center in Los Angeles. The team at IBM took over 18 million documents and ..."
-    publishedDateTime: 2020-01-23T20:17:00Z
-    webUrl: "https://www.techrepublic.com/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 91
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/01/23/cee06460-61dc-4c72-b883-c33e460bdf62/resize/1200x/fde53f4a02e376c99dc52ef6bfbcaa1e/ibm-2020-grammys-photo-app-brandi-carlile-02.jpg"
-        width: 1200
-        height: 862
-  - title: "The Grammys go high-tech with IBM and artificial intelligence"
-    excerpt: "Along with Versace and Jean Paul Gaultier, artificial intelligence and Natural Language Processing will be important accessories on the 62nd Annual Grammys' red carpet. IBM will enhance the red carpet livestream with Grammy Insights with Watson this Sunday at the Staples Center in Los Angeles. The team at IBM took over 18 million documents and ..."
-    publishedDateTime: 2020-01-23T20:17:00Z
-    webUrl: "https://www.techrepublic.com/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/01/23/cee06460-61dc-4c72-b883-c33e460bdf62/resize/1200x/fde53f4a02e376c99dc52ef6bfbcaa1e/ibm-2020-grammys-photo-app-brandi-carlile-02.jpg"
-        width: 1200
-        height: 862
-  - title: "IBM Plays Up Grammys Technology"
-    excerpt: "As the official AI partner of the Grammys, IBM Watson is serving fans the right insights at the right time during the red carpet via “Grammy Insights with Watson.” IBM analyzed over 18 million articles, blogs and bios to serve up bite-sized info right when each artist appears. The real-time insights on the hundreds of Grammy nominees and ..."
-    publishedDateTime: 2020-01-29T11:44:00Z
-    webUrl: "https://www.mediapost.com/publications/article/346199/ibm-plays-up-grammys-technology.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/01/25/screen-shot-2020-01-25-at-54031-pm_BFPRDLz.png"
-        width: 600
-        height: 375
 
 secured: "GUKW0VYKJSckpws//f3U05UlXEcEAAqN5pIEkRfatN1r2dZvqxTPLDx1YGefc/2uMYMfUnK8O/gquVc0iuxypgU/oTwsEdJvoxjsCKnOlSKj0zvDRxVZ5vRI9Cs+MRtT4W1DcjuXfAagEjufL6OfJgHeNLzlnF+4lNdt9bYirEoXubngM4/I3vgHUr6ft9TBJYUtNZWXEs2Up5B21wpkS1QVaoJwQ+zcAZfffPbDx2RPZSW+QtEmjf795Sq3MBmF+38OXlVj7AjaRowe1C+ewhCh3IACzsDifrWOaFDyfVmbCZOLh9e4oCWj2DcGJEoLuLsennCMPKCIkyU1GulKPb3n+MwozY936RnxclRQHGSdAnLXtI3Uo75WCsFJEMDaUihACmMvj9ev17Bd9CJ0emxgkSpJU0AnW3tWuVvuupFcGzmKDlxaW3OheAUzNgw8rycWNWpk7u3xqXvXnRgp1MCKpL5J8quc/k5GYV0FQok=;4tfyNl6i89YJmDIKCj0D1g=="
 ---

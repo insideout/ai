@@ -135,21 +135,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F01%252F29%252F92%252F1adb436cf38e4b8ba6ab5feee3237afa.7da77.jpg%252F1200x630.jpg?signature=xF6AUmM-vbSssyr5JnsUmU94XQM="
         width: 1200
         height: 630
-  - title: "Autonomous, for real. Optimus Ride self-driving shuttles want to be fully driverless in 2020"
-    excerpt: "Optimus Ride, an MIT spinoff, has started operating its autonomous vehicles at Paradise Valley Estates in Fairfield, California. The shuttles, which have been carrying passengers for a couple of months now, follow deployments at the Seaport District in Boston, the Halley Rise mixed-use district in Reston, Virginia, and the Brooklyn Navy Yard in ..."
-    publishedDateTime: 2020-01-23T20:49:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/autonomous-for-real-optimus-ride-self-driving-shuttles-want-to-be-fully-driverless-in-2020/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/autonomous-for-real-optimus-ride-self-driving-shuttles-want-to-be-fully-driverless-in-2020/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/autonomous-for-real-optimus-ride-self-driving-shuttles-want-to-be-fully-driverless-in-2020/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 78
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/cxTt3rulZLzCQQHX2q_jjKRRsyk=/756x567/2020/01/23/5c1b2d6c-ded7-4d52-ac38-f406e31d69a6/optimusrideweb.jpg"
-        width: 756
-        height: 567
   - title: "Uber begins mapping Washington D.C. for self-driving vehicles"
     excerpt: "Following hot on the heels of rival Waymo, Uber announced that it’s bringing self-driving cars to a new city: Washington D.C. In Medium post today, Uber’s Advanced Technologies Group (ATG) — the skunkworks group responsible for autonomous vehicles research — said that it will deploy a fleet of three cars in the nation’s capital ..."
     publishedDateTime: 2020-01-23T21:31:00Z
@@ -234,30 +219,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Waymo’s self-driving trucks and minivans are headed to New Mexico and Texas"
-    excerpt: "Waymo also said it would “explore how the Waymo Driver” — the company’s branded self-driving system — could be used to “create new transportation solutions.” Waymo plans to mostly focus on interstates because Texas has a particularly high freight volume, the company said. The program will begin with mapping conducted by Waymo’s ..."
-    publishedDateTime: 2020-01-23T20:33:00Z
-    webUrl: "https://techcrunch.com/2020/01/23/waymos-self-driving-trucks-and-minivans-are-headed-to-new-mexico-and-texas/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "A pioneer in self-driving cars – Alphabet’s Waymo – will test technology in Texas, including DFW"
-    excerpt: "Keep an eye out around North Texas for a leader in the self-driving car effort: Waymo. The company – part of Google-parent Alphabet – said Thursday it’s going to test drive trucking and minivan-driving between New Mexico and Texas."
-    publishedDateTime: 2020-01-23T20:06:00Z
-    webUrl: "https://www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.html"
-    ampWebUrl: "https://www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 46
-    images:
-      - url: "https://media.bizj.us/view/img/11586802/waymo-truck-3*600xx6000-4000-0-0.png"
-        width: 600
-        height: 400
   - title: "Uber prepares to test its self-driving cars in Washington, DC"
     excerpt: "Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC. Three mapping vehicles equipped with cameras and sensors will spend a few weeks driving around the city and collecting data. High-definition maps are considered ..."
     publishedDateTime: 2020-01-25T14:34:00Z

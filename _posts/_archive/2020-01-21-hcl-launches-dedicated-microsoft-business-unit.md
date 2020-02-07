@@ -33,19 +33,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Microsoft And Genesys Expand Azure Partnership"
-    excerpt: "“By running the Genesys customer experience solution on this dependable cloud environment, enterprises will be able to maximize their investment in Microsoft Azure through simplified management and maintenance requirements, centralized IT expertise, reduced costs, and more.” Through cloud and artificial intelligence (AI), enterprise ..."
-    publishedDateTime: 2020-01-23T20:15:00Z
-    webUrl: "https://winbuzzer.com/2020/01/23/microsoft-and-genesys-expand-azure-partnership-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 54
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-Microsoft.jpg"
-        width: 1024
-        height: 803
   - title: "The AI Eye: Microsoft (Nasdaq: MSFT) Expands Partnership with Genesys, IBM (NYSE: IBM) Launches Policy Lab with AI Policy Imperatives"
     excerpt: "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft's Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" Designate a lead ..."
     publishedDateTime: 2020-01-24T18:26:00Z
@@ -60,6 +47,6 @@ related:
         width: 1280
         height: 1206
 
-secured: "/ahj6tPnd7DObMiBMFlSHXpJPwzpy4PGhdHMuRSjSYTutYIEt6v5GIofJSW3zgiUHeHh/gb85dktKdkSnqwCN9ncrAY9c8n1uYuNnTOk/RGs6dajsWdk7N6Q+Nt5H5D29EpBrWZRhqW/KSAoli2gbtJiGv8RxHz/TjhCeZGXD+nnOIn+kLRMEFPtRhu9asPpRkJ76dWOhAwQZ7gsZYqYBHOME81LQ3uzFQvPNNFRJOXWal1rYcXmqsofAvtOH7dY7tbVfK2BeS6/HG49cTnUoKDhg9RLrZRzR808bZXSzE+na0uZxXa6maxXOr0Y1oQq;pE+Yv+CIjxAeYrBV9pH31A=="
+secured: "lRYJJcpHxdkSVTGpANlFK+rqVf85xE+YgxPe2xFbbS7BCdt0XHw3fxKViro6Zq2S4VVgGz1eEdUtaWuXHx0hmSoxEwQES1SdD2oOI5Y3nVnmWxCWzasNZuMkKua+MRm2Y4cWluOfBVJBYntl2DB4O/0y4Si1aBtNtlY6iQOtT0rAW+cHNszOnq+Z+dN53GnQagqc28UXAJipeBnil+tFrgA5hLsCsiQJnckOhJXWSCre5T0AqY94bVjmE5oBG2+lw3oeAN8RHlvrJz6DocJqk5ckNu9oli3I6aOX5h/irpyidaHonzLLDx/qn8Ywl9yu;EXH/IHiKsBzPKZrqEeRRpA=="
 ---
 

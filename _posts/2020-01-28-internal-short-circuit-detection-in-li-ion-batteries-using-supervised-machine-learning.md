@@ -25,8 +25,8 @@ images:
 
 related:
   - title: "International Business Machines Doing Better Thank You Think"
-    excerpt: "Cloud & Cognitive Services continues to generate positive sales growth on a year-over-year basis albeit at a single-digit rate. This is good and the underlying cloud growth rate is double-digit for the past two quarters on the strength of the Red hat acquisition. Granted, the cloud growth rate does not match that of Amazon (AMZN), Microsoft ..."
-    publishedDateTime: 2020-01-23T20:54:00Z
+    excerpt: "Cloud & Cognitive Services continues to generate positive ... Granted, the cloud growth rate does not match that of Amazon (AMZN), Microsoft (MSFT), or Google (GOOG). But still, in Q4 2019 ..."
+    publishedDateTime: 2020-01-23T20:42:00Z
     webUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-thank-you-think"
     type: article
     provider:

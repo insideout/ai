@@ -27,6 +27,6 @@ images:
     height: 639
     title: "Microsoft Azure Sentinel Debuts in Hong Kong Providing Stronger Cybersecurity Offering for Local Businesses"
 
-secured: "ur3vMm6jD/8nE09liMW1SvIr8vwp4f01blL8XZ+tgq5KnTOjCRHu8kh3FhoNbEHkHt8Dx/OGIKdZ9K+lK+gq8siTbHMAjcr/j9gMBUUU2W37sfwrcvY1M7wiHcTX8PJFkGIP5oMYaNUEbt0YTxY99IAGFGfn1Va1imO9xjhRftfH6WeU4i1CvugkDKbXvXmWWTcjSy2VMH0GcNGfm1wCg1tq4jHak6Z9q0UcGYxSMpcTj7RkYVLmHSkgusqKqhNz/LNlgxFLOqporLbwZS2YOv+UWwFKWvxwBTJhhYt6b3ZT/eB+UBXxAPjWkk/Aqvvu;d/KDnGvid5ohy5vJIwY9xA=="
+secured: "4ggBB3jEmDS/6YsrRNNCZkbQT/xT4GZe80EV2UHpec+j3TyOCykzzoHohrJcMTpjFe9oV5cEMsZF1jNzhR9umj+ey1udIlu57bMMCojb9XT3fAOM1ml35/yd2KxY0fwQ8+gqMdXC3hvJg5wsNCMgps7DB0Q8VqFo/LBmPFwlQwDkHUGiXJ1Uf8FnnM1FtdfnEsGeQMXnc85RJILgA8knP1wLA1cWTW18vBAaUTDFdTw6iDRhJTkKKKMWGMfeEdWx9HPLVWDS9IXEjTqzhxbDivML8gjRlYf9zyWBYs0oIDqdg1KGasKC1sE+30QlYge5;AhDs8XWBr/AqZB/Eq1W8kQ=="
 ---
 

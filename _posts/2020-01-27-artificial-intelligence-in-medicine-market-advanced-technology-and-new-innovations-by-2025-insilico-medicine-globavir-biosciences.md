@@ -19,9 +19,9 @@ topics:
 
 related:
   - title: "Top Trends Driving Technology Innovation Investments in 2020 Revealed by Virtusa"
-    excerpt: "Financial Services, Insurance, and Life Sciences Leading in Innovation to Start the New Decade SOUTHBOROUGH, Mass., Jan. 28, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation VRTU, +0.29%, a global provider of digital strategy,"
+    excerpt: "SOUTHBOROUGH, Mass., Jan. 28, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation VRTU, +0.29%, a global provider of digital strategy, digital engineering, and IT services and solutions that help clients change and disrupt markets through innovation engineering,"
     publishedDateTime: 2020-01-28T13:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-trends-driving-technology-innovation-investments-in-2020-revealed-by-virtusa-2020-01-28-9195110"
+    webUrl: "https://www.marketwatch.com/press-release/top-trends-driving-technology-innovation-investments-in-2020-revealed-by-virtusa-2020-01-28-9184138"
     type: article
     provider:
       name: MarketWatch
