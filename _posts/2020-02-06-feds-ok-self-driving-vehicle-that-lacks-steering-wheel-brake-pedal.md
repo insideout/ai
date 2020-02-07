@@ -41,6 +41,15 @@ related:
       - url: "https://www.wkbn.com/wp-content/uploads/sites/48/2020/02/highway.jpg?w=960&h=540&crop=1&resize=1280,720"
         width: 1280
         height: 720
+  - title: "US lets self-driving vehicle bypass human-driver safety rules"
+    excerpt: "DETROIT (AP) — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
+    publishedDateTime: 2020-02-06T18:08:00Z
+    webUrl: "https://www.pennlive.com/news/2020/02/us-lets-self-driving-vehicle-bypass-human-driver-safety-rules.html"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 4
 
 secured: "EP8MPPveECY5QHb0Tclse1UQfKpsKPwYj/UeXKI7Gqj6Sye+zG924LUR+A4tRdyZ7vw8QuRvVoed3mdU9WYR7qzApgxbfWNZOZo7ptYzRkNv38Oer24bu18u1Z0uhLyu2XScELsNj3e11078LKttSb5cf2MPacJgBQHF2IehkE5zHhhWAQ7mfVsNv2lpruh00Sr8pWEbPJBBrv8kFgd86N0FfFlIioKUfFHwN1dXFHdgMISLh2ygGc4kaQIOJFmlCATlW3rVaT6t2SFS7nNb21mogCWqCBnS1InSApTJo55RojROEMih34PkU/HivMfS9HIlSxKkxB1N8ChPk5t/UBBdJbhN+85BMuaeOs2Z0LNEh4ywc+b9JhtXQHqhjpj9YJE2WANHgefCdGjVxUI5i8mWj7XSxaQvlmbp5PTt/9Sc33iNxHeDwTJco9bkGF/Vw9tkkjCB2UWa8DSpJLO95Q0M14BEGMsGGg7vpGE1GqU=;p/aHPEbayc03c9x4zCGYqQ=="
 ---

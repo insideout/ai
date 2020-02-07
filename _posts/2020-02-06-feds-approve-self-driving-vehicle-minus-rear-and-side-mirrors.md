@@ -41,7 +41,16 @@ related:
       - url: "https://www.chicagotribune.com/resizer/uVwTmX9jWYzsKYN2jswyPYqlKe4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/7C6YIQTGH5C6ZJ2S5N4OOVGOF4.jpg"
         width: 1200
         height: 633
+  - title: "US lets self-driving vehicle bypass human-driver safety rules"
+    excerpt: "DETROIT (AP) — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
+    publishedDateTime: 2020-02-06T18:08:00Z
+    webUrl: "https://www.pennlive.com/news/2020/02/us-lets-self-driving-vehicle-bypass-human-driver-safety-rules.html"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 4
 
-secured: "efJJ1o+8s9aNHrnlb//6Ex+VpoR8pAGvCS02/ExTjbHcRGV+041O+Zbevl/M3jYTVBEmhk0+EkNCjPn2torUCt8TAnvlySwfRIGfRB+v66hOgWv/XQpEY2jw2nxRH4GJA1MWUQllEfpoPD3RaqW+YkXW9NQcDOVldL6lXU1z0W/S1JEgULll61aqQzxAOSZtr8FcZAiv95s5GiZnTaA98EOBAoEZrWxNM+z6HDO3cCBhWmTAqF82Po5nzpXF+87CkVMR72B8CO+93oFsOyoaLFUjf2CyB2oU6V0fFFa5SQ75QJ46KRu/GqXwwlcU45Dd;auuf+q9LrGO7tH6Zpe9AbQ=="
+secured: "5MGQAaK2dhgmc7Nq0At9M69+COlNy6dIgXfRRTJ68OXORTmpRCu691Ug+D/hqaJuf+7F7CS57p9pxRp9gVpjHrw8nweQacIshgDBMW7Jcs8c/559rZgDHAgZbR3NNKMbMxH7E9HyM1KIk4Ylvwo9TBDNSzpjtoYbqHK8E7oaQ3U3lYhrnqcY4UPi+sUh7RYTQGkOuF5AMAL0YKN802MpyfH/omdeRKBt607BRzZizrPBCqrA22LIsBxal/IUTi4HFJ+t4r06i3+UCXtTFY0cnsWnZQINdosrZnkenHjmovvf8+/m4R4/H3ioetL717ni5E58zEqlT/kdLQ8IE8rbCxf2FsKiwr05aH4PiHm19I6dAKRxLRF+BTeAOr1c7MO1eKakeiX/hNwqvgtvhK2ttvs0+0B8FF3O2DW3dAHQtWQTfwOZnTBxQuD8Ww4b2VzqKebgJ6hsD54uNeIGyEos3TWa9/aoJ5DZD06cKy494Ms=;KXgdN3osBAqaCkCpBj+Muw=="
 ---
 

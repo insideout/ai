@@ -1,15 +1,13 @@
 ---
 category: news
 title: "Facial and voice recognition in cars sounds like a privacy nightmare"
-excerpt: "Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data ..."
+excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
 publishedDateTime: 2020-01-09T14:42:00Z
 webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
-ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Mashable
@@ -19,29 +17,17 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8="
-    width: 1200
-    height: 630
-    title: "Facial and voice recognition in cars sounds like a privacy nightmare"
-
 related:
   - title: "What is Voice Recognition"
     excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
     publishedDateTime: 2020-01-11T11:41:00Z
     webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
-    ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
-    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
     type: article
     provider:
       name: TWCN Tech News
       domain: thewindowsclub.com
-    quality: 44
-    images:
-      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
-        width: 600
-        height: 271
+    quality: 4
 
-secured: "CoJTSNs7el18fR1VwlXq/B68cp0FrPYgURejpDX8uAnloRM6wIwQlgLw2hBd3yBHYi5eYgQh7yRuh33vX5WrX5MSnfB9EaAsXrsnyKbUO6mLSxxH8By0KXhO5pR+70/NrxzZIa7Vcdw3HBc12+9J7Yxce0YJTxh4BrIgXjjhVDIRdvBJpzGqf6RVdkb8/KY0G6R+f71PUU9f5ECeVqYgWAJ/4UL8iygFUxiGmUHS+OPXrPQh0Z4gsI6NJ9H1M+d096LhtJ+ct1D6fRAbjcFR2COjH9k0QXBHiCyKsMEXSfjMcHIrDbcKkbgQIDMwoyWX;jG626HWaBoxPrFSsRYqNzQ=="
+secured: "mOmOEDSALrcpKcWmFFjuLDvOUbE650MhtxjSHxhYwefDESq5fg1hc9MON6UQ7GO6YCuE6V+1XchqWi+gzJ7uLI0d/jmKv2Q/KcKIvEDMLtb86llPPGOdY6vN/0UmmmRiiJ8CPL7OaTD1Je++CafzNoiIIYUjwCTKXi7iFSN71/IRO1aTIGBn9joj0hVJttZFIVZm/yKweRr/ot8fyf01lWrDtUlSNNAXsw8zGPySsr2zNKAwxaGSky8QVc2+QQbTprOTtN4aA12RS2aschFCXhZPFDOHvCcDbEyBwkNmFyQIt15tzErvvqICCi6X/JjXLX628bA2cAzGvPF/cHIcDgji3c8lUUzNNog6MwI4/htLBrN+AsQiGKUoy5Rvuq3b/ZZNp9UNkSDOivk36kPk3ZUmQ4iX2SrBr6PXY/24JASPN/GV4uR4fNzpERvtlLh+PuYmLlkN6/E112/+nK46gdKrX1gNwND9FS7hFwxy7/A=;d9mWuTf1lX7GROKUc/oWIA=="
 ---
 

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Germany's Bundesliga has selected AWS as its official technology provider to deliver more in-depth ..."
-publishedDateTime: 2020-01-13T13:00:00Z
-webUrl: "https://www.wallstreet-online.de/nachricht/12054989-bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience/all"
+excerpt: "By developing a new, next-generation statistics platform on AWS, using Amazon SageMaker, a fully managed service to build, train, and deploy ML models, Bundesliga will offer fans real-time ..."
+publishedDateTime: 2020-01-13T13:28:00Z
+webUrl: "https://www.oaoa.com/news/business/article_bff64e43-c5a2-5acc-8ac2-6ada0e8d7d11.html"
 type: article
 quality: 17
 heat: 17
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AI
   - AWS AI
 
-secured: "mQIAa01Chnbj/QtEtOKYEWiL8W4Jngv77JJOXRNcmmbhbjZn1xLyME0PNwjf9xqQp3RlgqRazp4tcGnbjVsl6GM2KwddBj+iyzTZo7WzjSsl67l8gVhCYT0Jlqpav0APBU9x8KsKd7YQ8TggRXdPVB8qgv9m84Xk+QWcZm5RG08gCnlnJ3+yEK5kQOQ6vUBsWGTIwxfU5M3wo3id6tM+UdTuBmcF4LcRz0efI+hrvL3CakT+v5G67TgcZOjH1+PN9oXy2ngNDfKrZdW0ysM1a45Y1h4ingmVcOPKKcVRMnQya3vQnx1y6WYOiIddfyYj;V0n0M8Fzti2w+2xw0BuDQA=="
+secured: "fpbHOqpL1SM0/AwgDLQLiQEYrsPDwbO2jMJieYnYBoiUHq1EZgBbrZz5a+c/LTv9RQslCfGO5THVkw1yLNtUGSu656gyju7M8oAsFJcnGZxB518778zONW+51dkwjrSTrRNmutD1030blJyPZfeH2BUY87poS1Y7ffcJ5sXRw7BdGfUaupT8GLjKekpbmabm2PGLyeIUToMywhQIaMxb+KgzI9NaDtgSC/IbaoIBZlWlUCrkmQbnBO0FgX6hEliZkR0uxgZeDTOOrX224VFZK7EJGHMrcCWmuVSqBqwf9VF0GTzuvpZoY+w4N4ipvaQz;cfOaIIThcNs/+WziVpA/8Q=="
 ---
 

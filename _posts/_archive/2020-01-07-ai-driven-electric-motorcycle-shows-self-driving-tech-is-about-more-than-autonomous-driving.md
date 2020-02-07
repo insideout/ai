@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-elect
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -34,18 +34,30 @@ related:
     excerpt: "Baidu is developing an open source platform that it hopes will become the \"Android\" of self-driving cars, dubbed Apollo. Microsoft joined Baidu's Apollo \"alliance,\" gaining a channel for sales of ..."
     publishedDateTime: 2020-01-12T00:00:00Z
     webUrl: "https://www.cnbc.com/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
     type: article
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 72
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104935725-GettyImages-902802574.jpg?v=1532563703"
-        width: 2000
-        height: 1219
+    quality: 32
+  - title: "Baidu partners with Wind River for autonomous driving technology"
+    excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
+    publishedDateTime: 2020-01-08T11:12:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
+    type: article
+    provider:
+      name: ET Auto.com
+      domain: indiatimes.com
+    quality: 19
+  - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
+    excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
+    publishedDateTime: 2020-01-09T18:30:00Z
+    webUrl: "https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 4
 
-secured: "01F60Fl6ylEThAfkqWUux+Z1DwL/iXxJNmSE+vJIROvC1qIvN3zokwaXMh8FXORY4NGiLOWdbDUX3YGgeLSc0AwcozytkEFPc1ShPlCtjJIRkUfGzB5RpP2QPXfv48BVen83cikP+QSOMoD/7SIGOHgLVihunYUfB4zUk+09wo8bHDOFXD8SF5LFdYVvJAq0hzkyP6P+n1EJquoqM3KB9J7k9xm+NyRd9fX7cDDXwif4eb7QGqUiRWCgiuFj8GWO6yvc4/BTJJ9FBfaYF+UqI5+Zr56Nm8ujCrqLHwjnK+9iKMtxAvrQx1pEQ9Q9RO47;tmKARqnLwJldQgbq9oM27g=="
+secured: "5S7Qo1sb7DVmRZULAE/09mjk9IKqY9oojQ3OTZtbIZ035m+x6OVfXQkUr9bbPbkcsCLNU3GlwRmSNYvtYYxsb/0pZX0fN+clPfEZhtOFjrX9Kq/X1s29lDasTwaeYd4kolv3yP88LWTznsc+43a676DYaQdEKX2jUAEEMhVqdZ8DSuUucXxBVoEwQeKxB+W5v7J8CY2NJ8wNM6Y5HcOQTzrBoZaoThhb+ysYAGe1ahAsXWJBSOT894bH///wyABUDc34UlsMd1As+Ia8cYWRBsHnV6sfW3w7jGxdGD4QSfq/+/0p9L/mTaFiceTISKME;+juATwLmbazYhahrjla3UQ=="
 ---
 

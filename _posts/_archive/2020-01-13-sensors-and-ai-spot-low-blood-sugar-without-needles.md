@@ -5,7 +5,7 @@ excerpt: "“Our innovation consisted in using artificial intelligence for autom
 publishedDateTime: 2020-01-13T15:41:00Z
 webUrl: "https://www.futurity.org/blood-sugar-test-ai-wearable-sensors-2254812/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://www.futurity.org/wp/wp-content/uploads/2020/01/blood-sugar-test-artificial-intelligence-wearable-sensors_1600.jpg"
-    width: 1600
-    height: 915
-    title: "Sensors and AI spot low blood sugar without needles"
 
 related:
   - title: "New Tech Lets You Test Your Blood Sugar Without Needles"
@@ -40,6 +34,6 @@ related:
         width: 1254
         height: 836
 
-secured: "f7IwwqVKmkoRq8ORk6hirL+YuCiuI8JldkUnfSb76c8dxRTCr7G9Xix4JQIFmA0Mjui6kWxWyNcJTvsrjYXc15gO6/TlRfXwz4ZsZd8cNdbsJT90TAx/BPL+F8f5nocHl76p4hhRp5WnPigIxpekR6Eg7jG7x7V9A8Op6J0Bc3fkLLrUFx+oJG1dEwp+uJHNIjwH8zYr2zU/jAYzSPKsu5zljrR8rLt7lnTPH34U/Fn5I4+G4Ph8BSFJL4Gpn8ctQz6mguB4zSns1b42hY/smHgrwoXFo055iDpHrVTsnwkoaWrINi1bBdy5oRi8oQ9F;ASBvJYo8rhsWgJ7av0W4ng=="
+secured: "JP7ZyAwHN8VZmIg+rbu/TgjHU63Lz6NpVJ4ItTQGbMDIAjD2kMUFLAGzjdE02wd1LRA5YI+pTBuBHmLzoqvw7+EQFzXWDWgyAaYOt4kFqU2M0qA6Y2XRoMjNIMfBXjSrJ37JH/ogBuLY3enikXyYiY/dgwU43jFHuqikexiaI8ykToTeEzrIRIpSK4nMWxPQ2VLCrUDo/6TfSBWyKTbioO+aj0jVRMmDmEst+2X0skCdhv3GEgiBQZRdld9Ixwqq2qF4M+L6Uyt8cEjBw/Lwo2EONKLpniVZ4CjL9eVFEd3touKv7MQTtsCSElVBSEDu;jmW65+rj55wx24TKYjSuFw=="
 ---
 

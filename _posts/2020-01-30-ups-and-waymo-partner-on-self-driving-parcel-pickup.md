@@ -52,6 +52,19 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0127-super-cruise-lane-change-photo-final-1580163336.jpg?crop=1.00xw:0.747xh;0,0.165xh&resize=1200:*"
         width: 1200
         height: 601
+  - title: "When can we buy self-driving vehicles? No one knows"
+    excerpt: "Recently, the U.S. Department of Transportation released its fourth edition of guidance for the introduction of automated vehicles. That must mean self-driving vehicles are coming soon, right? Yes. Well, no. Ummm, maybe? Over the past several years, there has been a lot of talk about self-driving vehicles. Whether it’s cars, trucks or both ..."
+    publishedDateTime: 2020-02-06T21:01:00Z
+    webUrl: "https://landline.media/when-can-we-buy-self-driving-vehicles-no-one-knows/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 24
+    images:
+      - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
+        width: 540
+        height: 420
   - title: "University of Tartu and Bolt presented self-driving vehicles lab’s test car"
     excerpt: "On 28 January the University of Tartu and Bolt presented the test car procured for the University of Tartu’s self-driving vehicles lab. This high-technology vehicle will be used for experiments in several research and development fields. The aim is to conduct test runs in urban traffic this year already. According to Anne Jääger ..."
     publishedDateTime: 2020-01-29T13:10:00Z

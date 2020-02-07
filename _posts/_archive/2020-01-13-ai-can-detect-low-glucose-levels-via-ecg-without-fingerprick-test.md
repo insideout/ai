@@ -2,51 +2,41 @@
 category: news
 title: "AI can detect low-glucose levels via ECG without fingerprick test"
 excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-publishedDateTime: 2020-01-13T16:53:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/01/200113111156.htm"
+publishedDateTime: 2020-01-13T16:00:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php"
 type: article
-quality: 49
-heat: -1
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
   - AI in Healthcare
 
 related:
-  - title: "AI replaces prick test to detect blood sugar levels"
-    excerpt: "The novel artificial intelligence system works as well as ... Hence, personalized therapy based on the system can be more effective than therapies used today. The new approach was able to ..."
-    publishedDateTime: 2020-01-13T13:28:00Z
-    webUrl: "https://www.news-medical.net/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
+  - title: "New AI-based technique can spot low-glucose levels without fingerprick test"
+    excerpt: "Researchers have developed a new Artificial Intelligence (AI)-based technique ... Basing on this information, clinicians can adapt the therapy to each individual,” the authors wrote."
+    publishedDateTime: 2020-01-15T10:18:00Z
+    webUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2020%2f1%2fleandro_ecg_63c541f952b746b48ff02d36b07911ca-620x480.jpg"
-        width: 620
-        height: 480
-  - title: "Sensors and AI spot low blood sugar without needles"
-    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... data would not give the same results. Personalized therapy based on the new system could be more effective ..."
-    publishedDateTime: 2020-01-13T15:41:00Z
-    webUrl: "https://www.futurity.org/blood-sugar-test-ai-wearable-sensors-2254812/"
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 17
+  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
+    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
+    publishedDateTime: 2020-01-14T13:07:00Z
+    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
     type: article
     provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 19
+      name: Medindia
+      domain: medindia.net
+    quality: 13
 
-secured: "2vGkCGMAJG+sfBFqjXCAlDjyrsvCz7H+Z0AJ0a/ezAyUsufU3RVwBsZ9Kg8+prfh53l5qygZcqKgzJhbh/C+FyWIoaVs7cYfSqQYI/8ureRK4sVgAfwWLJHyki/fLd2E9MNRP/X1nkI3yzSQheQWXPLTK/jJzW918LzMc2u3t3i/gtlcBdKE4J5uaEYs7npjZI2QzcNcelzOGN08TO4RtXM6bYF8tc5QWqWZswQ8JDqETBz5XvlfLl6Z9E3cpjrOiBw1W5zkFQmdInTzrvi2SzLH5lqrNLphJ5c475IjUfoleqOXvdnSx4CCJOD3mGTB;AbzFD+A450hTa2hL08INIg=="
+secured: "rACJ7N/gdGp2WkcGZdDFPban3dONeuvqe9gNA/cEagPrgNUyoY+ygmhdpwtY4BDtarnRZHpLqLR/c3YUtHnI3KbtMzYeFc2qeIE/wZjgGtrt+4mBTcDkoVA2g3TnXoxzCLid2xBAnqp/vP/yq2nzI+0jWCnpSYbxqOrCbYaU7x4XwLw/hSase21DfKvOro7cfGkiAfJv3zmbK+B+9WtqaAsihVbvmFp4yO883BYOf7/uZiusyO+snjuc2X65yzDHaoBeZycqS0KxaxxWNac4AviC7FVXCJubxubMA5H4SWUqA4yuwHkiLR5ATFB89oGZ;l5ROuRJSHW0OSMpD1Y+6Ww=="
 ---
 

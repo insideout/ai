@@ -65,6 +65,19 @@ related:
       - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
         width: 770
         height: 364
+  - title: "When can we buy self-driving vehicles? No one knows"
+    excerpt: "Recently, the U.S. Department of Transportation released its fourth edition of guidance for the introduction of automated vehicles. That must mean self-driving vehicles are coming soon, right? Yes. Well, no. Ummm, maybe? Over the past several years, there has been a lot of talk about self-driving vehicles. Whether it’s cars, trucks or both ..."
+    publishedDateTime: 2020-02-06T21:01:00Z
+    webUrl: "https://landline.media/when-can-we-buy-self-driving-vehicles-no-one-knows/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 24
+    images:
+      - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
+        width: 540
+        height: 420
 
 secured: "YaFqVozr+Qff+LlBuCCzyEUY6JcHsWD33MRNnha5QoP24KDa6xkiJ7/uAVB1lj2hIM6RHwioXWO1UJ1soryZ+25k2pfE6pxtqqiqaGG3qBrFyTwRMcjSFWMQVlIlkV+zc56misaQhD5KW/7SR6n2aLoOQ8+tHtD9c+TWJ/Z3ZKoJzevFuTZQ4y2gr3IpSTmQ/yxYhfLfV6ODYhBHzyDbLpco6GtrDsBB4ZnAJSttRgcz6rr8JIi83S4jXV65GW9viz4ieRVuc0ilk7dzR3VDtuIpdYma9C+tNCi+gibWcl6WCepEftxkUJp4YCCaApMR;vXxOoBjXWGLI6QnqT7tUkg=="
 ---

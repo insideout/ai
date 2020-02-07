@@ -74,6 +74,24 @@ related:
       - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
         width: 600
         height: 338
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
+    publishedDateTime: 2020-01-20T13:52:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 19
+  - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
+    excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
+    publishedDateTime: 2020-01-21T13:29:00Z
+    webUrl: "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 19
 
 secured: "fNNpLLO0Uu54l6bgCsY23pBQNdXwqVFm8ZjKRQKKKnc6fM3jYEd5Cl7YN2uqaMpuUJteypWSKtpnwFM0TAsX3qYJ5T55yGmKtMDUWm7UFQQiQsn9IBBGbAA2J3h9SSeXVT8hKrEUNo3bUjBRvPd4M71C+yIUPXHXtTQnudRRDgpWMuIrPZkniL2zNNnty4tAPdt8Dkwe468YRL9S2WMPT1Oopfn8tnqMXGIYmEtuSBqzLMQVSPult6WfyLCRw8YDfBwcMnErrbHA8wEgvWO/CAAmMw3GUrf6yWXFVHymUn/WbLKuoEFBj8yC1m6FnrU/C/4wzlUauZNIGgBugiPS0MTOOOLI6lniJXceZ+4IUPp/+B0g5W6VnwTa7/YS6KdL8HmyyOfZJHc98VrdH6msuTWOvmM1uWmuR8970xm4JFlKQ5iO95q+ACXeEurrKNE6O3Vw+xirxQCyGQhDgBIewDV2FpoxbA2b2H/jvm55SHE=;/zuYEeu6Z3DfCap0tGFeJA=="
 ---

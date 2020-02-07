@@ -68,21 +68,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106350993-1579778704338rts2ziu5.jpg?v=1579779171"
         width: 3000
         height: 2000
-  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and ..."
-    publishedDateTime: 2020-01-20T12:27:00Z
-    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-    ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-        width: 1200
-        height: 628
   - title: "The Debate Over Regulating AI Ramps Up"
     excerpt: "In a letter in 2017 to Congress, David Kenny, at the time the senior vice president for Watson and cloud at IBM, wrote that the technology “does not support the fear-mongering commonly associated with the AI debate today. The real disaster would be abandoning or inhibiting cognitive technology before its full potential can be realized."
     publishedDateTime: 2020-01-27T14:16:00Z
@@ -128,6 +113,15 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/b/06/b064a2d9-045d-540d-b183-8334cf9a9299/5e141419b5f14.image.jpg?resize=1024%2C695"
         width: 1024
         height: 695
+  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
+    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and ..."
+    publishedDateTime: 2020-01-20T12:27:00Z
+    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 19
 
 secured: "00YoVfznHce/Scye47xfqyrvstm3jnKwMjC1OPTRY0jXSH2T9Vz32HRtssOxIhonQ40xdIRmObj3hTZDgNYrQg0+CGrW/BQ9vpE8b2RJ8cspKDcXAXmp9cmvp///3/CsX98W3/iLaKcX7/W4BpinqWso6LprHwfK5sDp9RzzSfkSRIbEqlm0XpZadHBYfn86ve3JA0AGw3ZodfKoI/kEdvCfbmKH2+p+7/yvZ/vieeVfSC25lFJ9d/d1Qe1QzMKnANscgTSijC3nB5TXdEUe6D0n+6qE8UorrZuSOYAmH0SYeJOWFZrwCvgSc5vlxWfHG0uHndGNFzHyybMKBY7WRReCrWz22tMmfLyqjzdwD+X2V+bSXaY7e30IjfAh8mNv/4XuTqekvtiNgOTEWlCmlIQqUm6dwl9QjMyEymwLaREjB7aNIbjt2wJuNIGVijVbFcNRMaqGE3FOzxCMBAfS14JgsRcmnEFaxTfrZgkcm7c=;sikSq7LFNHByJWmV9jxPeQ=="
 ---

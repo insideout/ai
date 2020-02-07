@@ -109,8 +109,8 @@ related:
         height: 1668
   - title: "Facebook has sent a cease-and-desist letter to facial recognition startup Clearview AI for scraping billions of photos"
     excerpt: "Facebook has demanded that Clearview stop accessing or using information from its platforms after it scraped billions of images without permission."
-    publishedDateTime: 2020-02-06T17:10:00Z
-    webUrl: "https://www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?op=1"
+    publishedDateTime: 2020-02-06T17:51:00Z
+    webUrl: "https://www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2"
     ampWebUrl: "https://www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
     type: article
@@ -371,6 +371,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "4ePdOmFpYql7t6EYXjNDPtBX1h7Zd/t2k0ShD96GMi1xkG0FzR44dhoAFC66lVr4YWwvmWBv0EEs8UrEedgRqv+la2BvALNMek1iXzQd4k3Mu7RruuFWZ/SbfCy7SgFBQwDY+IS5B5VjTB9TcJK3g7NgNq1DHhNJdqPiNWytpEzgoqHdImDTc1NRWXpz5Mw88/yjzyXCt/advmyu9yvcbeM8ZNcR5w9NBIByevj1Y02wtXFUdCMueBdZxa4QvrJd099tvLaDe627CamCYwcdZZH3HoH5G4i27LjnAt7hU0Qc477S+fKSMbIT49FpZlO2;kQ8ZSkMfm5R2WZ7tkxvHEg=="
+secured: "y7xzgTeUWYYeeV3hRr+YYsFZopMKeWCMwg1tXuNOk5BZowbEUNrImUP9bjDADnbcefpyQTsgzVUsxjNinB6J3Vz6JjuGCCQQgXj1k4TeSA9n2Qbxpjh+B68iXV6gWBJuJl+dc1dx2qbyE5bdAoiNvEJdNHwqXuNMz/SPjq2bvB93P11TUhZTcOHvV+spbc7a6gyeA9uwNbgaa94Ugz6xzxoqSxd6Ec+3dWs3H1ow5nOolrPpwloZ8ExaA+3gpKP96XZL4IFr3gkxkyemBSWDvm6ouSHwSiD91ph52Nh+gRUwBI374oLd8EFl2wfbceB5eGebHCKbe5vzrddYZSznMhnSTooHPZiStSPZmTzUcsSMUAv6LrIJ3ieF+Yv5bzkZLX59c4cfXL+PW+ryhnRLTx7wToKy5JafBJLzJzlVAZimqvWO+Dix4jw3QYYl55uFZEYBxHPStzllHuKvs5tZaKbHoX15ABlWH9GW8oCN9o8=;+I2Y+6uJS0FHmbLJ0wJEVQ=="
 ---
 

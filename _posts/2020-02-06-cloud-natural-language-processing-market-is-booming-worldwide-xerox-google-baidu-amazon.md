@@ -64,6 +64,6 @@ related:
       domain: marketwatch.com
     quality: 49
 
-secured: "10G8ZrYMGOlyP13iSZQ9J35dOOYtmZ+IaQ5I5o+y/dBGFjfq63FGJlvHemjToKqeYY3e9OTZVfSImBzylDwqcyxzbjE+/eFEmQ/Z0a3Qe0ZdgmS7aWxf+83XV09KIq6jLxLQ6+d1a7Z7XmyCuSgoX3Bi73+mQKfgd2V7+0lEqgNTsVLAT3gwkMBl0C1ZXQ73u75G3UuFg+reMV7YhtyGlfgUwD6G61b57urVix01x2SbyIjb59+RJ4JuA+f0CORCRuXsivpX5uNvnTIbu9ceFxFc8T2RQ5MxWdB5lZhO85fG85t6HJ1j9zFweZmlXjCN;b1HEQwiHK0R4fzhSpZUuuA=="
+secured: "iu9lOVBGBCeqozKaYENnBbhedjpcK464m4IVfK641fRxL2jYMIuowNCzPWZV2mulFLP6Pj6UogQ8T1p0cX/7Vu7ivvalJQcfTknrOV8noqpOn50EQxbOdZZ928xHomR9jtDx13wMKwW1jQFRFocz+VI8RCnuDrsvkdCtOkX+aGjRUAtamgO3MBoh5u+xeb2Mlqjw5xHIutlYWtK8HOz/wicGMD27SBd/CucVnqlbiVCYH/ig9W6rHadJyPYmy08Hkqjsq9PKtBdSmvmAqjhKeXT+mGxEXr5s0Y4cfSSDkq9uknN5Wtu3BP1GtwKBb+V2;aCmkwQEoG16mzKTVnqWaRg=="
 ---
 

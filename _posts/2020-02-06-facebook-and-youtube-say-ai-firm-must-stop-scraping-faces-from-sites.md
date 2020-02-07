@@ -96,8 +96,8 @@ related:
         height: 1668
   - title: "Facebook has sent a cease-and-desist letter to facial recognition startup Clearview AI for scraping billions of photos"
     excerpt: "Facebook has demanded that Clearview stop accessing or using information from its platforms after it scraped billions of images without permission."
-    publishedDateTime: 2020-02-06T17:10:00Z
-    webUrl: "https://www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?op=1"
+    publishedDateTime: 2020-02-06T17:51:00Z
+    webUrl: "https://www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2"
     ampWebUrl: "https://www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-cease-desist-letter-facial-recognition-cleaview-ai-photo-scraping-2020-2?amp"
     type: article
@@ -371,6 +371,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "holQRBiZREDWH8j6TkWzBS/qretP2hPuLRcsot1MG/2o1GTXXtNd6YPZS6mFdr6aSLJeaJu7TWHjOH9KPD9abUGo6AT77aymhCdy4mEqimfBfsA+drBikEXL3V3tJJFUcCH+Kk+N5mv0SA8gcIoMbcYwBpTIz8tsicmDP/HmrTKSEqw8M8cGpRLHO/5TTB3XN3j324Hxqk9V7clCGV6LIe3yEIFkj9Xr9HMUHGjysgewA8GVma3mp0KGWvhGvXtVrvCc0fGozY/THQcAz88d5i/sm2/asNf16b9iB5Vr6ddF1X6Bjm4nI+5pM0c6B6Oge3SJ7DRDQxbGytfa+4Za1x+jsbNQ56hHJK6oRmoxHH5vQatWCR6aat5WasxyNTBJQUOdIszy2x7MLIFevHPbEy13W9DM8ShcXMiR/jGfFPtwoy/uRSigoM0D/tblsNKZ9rPo0ThBySl0ftxsfy8QeXfbVMj66590KVk2KL54158HyhkZAN5bQ6rFCyQ/jdAm;APfOCoHws7I7aM234eUMnA=="
+secured: "BUayUefoXjoTsYEBc20iXNecvMStHjgY0uw7Im1lShC+R1odFO4uviB4CLyXsXH9D8eKnfZTfhZ/V2tIOHC2rULt+XrP9+vOo60Ku9cqgSwaNhFWkt0+tiG06WYpDH0IGXBI0+sDsDzUnpmW8kRidd2Jt8PtgvlEEkoZaFDJe2c2rKBha6aqWv+UAhssw1c4B7urZU9iOBteCqYcErcKt4wUDMUAr8e532srb57nzGpTHe0arW9NRwLjDmZh+G6ArCcsrXBo0jD5ClgXfBSqcqiH8qbXQsjyYWya/+jVlP5mTJ7WMqO6DT1SxHeDPNzi7pYi93POa9VAyW0QCJBnCl7suGQWsJc3TAEaAIfEjByXODzbqupuP6yCRvU2BNGCTVFz/wFOySVL5M+CsW3u0ey6BlBAkF3oYyQMdsfJovF3ebG6WqBaK5/wUGLBwA8H8A40+8hCD7awTJ2ZjDmARXrwgcl4mZxNoPrR/lrlsdZmOU732+Gm8DwVkXqzNb4i;tjJ9z/x7az4r/K1FNkSGGA=="
 ---
 

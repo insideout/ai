@@ -45,6 +45,21 @@ related:
       - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/nuro-r2-1.jpeg"
         width: 1680
         height: 1120
+  - title: "Self-driving delivery van ditches 'human controls'"
+    excerpt: "The first self-driving vehicle designed without basic human controls such as steering wheels, pedals or side view mirrors has been granted permission to test on US roads. Nuro, the company behind the design, makes autonomous delivery vans. The vehicle is Nuro's second generation of its vehicles, which it is calling R2 and will be tested in ..."
+    publishedDateTime: 2020-02-06T23:45:00Z
+    webUrl: "https://www.bbc.com/news/technology-51409031"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-51409031"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51409031"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13970/production/_110804208_screen-shot-2020-02-06-at-2_32_43-pm.png"
+        width: 1024
+        height: 576
   - title: "First Self-Driving Vehicle with Federal Exemption Is Nuro Delivery Pod"
     excerpt: "The Nuro R2 is a self-driving delivery vehicle that will transport goods instead of passengers. The vehicle will begin testing on public roads in Houston in the coming weeks. The exemption from NHTSA and the DOT means the vehicle doesn't need a windshield or side mirrors. Autonomous vehicles are more than just robotaxis and long-haul trucking ..."
     publishedDateTime: 2020-02-06T18:06:00Z
@@ -60,21 +75,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nuro-r2-1581004051.jpeg?crop=1.00xw:0.754xh;0,0.238xh&resize=1200:*"
         width: 1200
         height: 603
-  - title: "Self-driving delivery van ditches 'human controls'"
-    excerpt: "The first self-driving vehicle designed without basic human controls such as steering wheels, pedals or side view mirrors has been granted permission to test on US roads. Nuro, the company behind the design, makes autonomous delivery vans. The vehicle is Nuro's second generation of its vehicles, which it is calling R2 and will be tested in ..."
-    publishedDateTime: 2020-02-06T23:51:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-51409031"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51409031"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51409031"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 44
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13970/production/_110804208_screen-shot-2020-02-06-at-2_32_43-pm.png"
-        width: 1024
-        height: 576
 
 secured: "5TwhDlRw+XY1uSoq/9ksrOpn+6ccMA2pdXDWOaOY6EotlKLzNNMUwGeT94smBBgeiRojyTKdfeExUD/xbjQIwodYJ6px4ZBn2ySOIR+dNd37WLVk3t/7pMMPLuByfV9VvNzCltpGIizRQFzXdvMjmf4m1FyDuz9hIuwj6M0AvAaD+g7yYGDNhKbtB/ZojJnHSbkHmRd9ALTnwcD8W0ZtYIr9t/7pM0JDJMNo1vnR3J1jjCFFUVPI+i5ZZsaOfCh9dAOcZI9VJI3UYYSXnvsTJnDlXCLQHSuI/obQvpS0eNEGi490gjGS9wTT75rWb0CLTdPU+7x3DAs9jFYNd5j8tIAeeioiEKzlXH2Vi46hEuMofcNk0xtWIEpMxAc4xygWP4Dq6Y4Yga13QuZ7qGi3xn7r1nUMv8dvLdWt20n4Qz5qnDacQSXeujzukYY8mOQqsKNtVuL9ZrTJjye84euMNgQqggAjab6gCr1ubnAmxek=;0oNX7U7+iOGRSl7gFZkZQw=="
 ---

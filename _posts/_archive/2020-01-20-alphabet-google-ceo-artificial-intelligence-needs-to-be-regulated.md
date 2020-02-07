@@ -4,10 +4,8 @@ title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and ..."
 publishedDateTime: 2020-01-20T12:27:00Z
 webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
-cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
-    width: 1200
-    height: 628
-    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
   - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
@@ -130,6 +122,6 @@ related:
         width: 1024
         height: 695
 
-secured: "6SsgE0V6QqvKqE6a0TurgMa20H5vR95LkXNJusUMyG9/uNS9MJHwx/O/2tldrVBGZlfoPZbOnmTY+4ZccRrl/CAACL5wkIdrFyXgkzOmxj+Lb5HO7K+AyrzSUDG4vKiCSJBTklnwzQKb6cCEC/LjW4tMyiE+dxuCz4hooRHiF1gvAWViAjb+4bGKYhAMsEBwO8K7sOf7r3p1W2q6kDHqOOJ2tREoTmU5R3Pg1Sy6Z8iJDVf/4Rmme+YzAq13Foj4kWSw5MdgExQFj2v9dXD6XKlj/4DmycBSo4k/lYOSNbUfjnbaGyY0clxhVqF9Mm7K;WZRFoe3UQn97ijv/Ajx4uA=="
+secured: "ls8f71kr9t6DVgRgd7grlft8rBrlA4cHraFXZh5xkhFbvrIrdd7XdeEIsL+qoS8+Ay1eT6t/Z5RAYP4KXYFB92R4f6o1NkTQMUqA2BetS2vW1di14vAsfoX/qHyJb2NuB1pnG6Dk50bYxT1wK7+rhLJDPTNUIXcE2YP+m+BdgrmUk8cY4rFroMLu1FGpstNCAyrl2+lXxupM8rzZr1YOdxniFrakThwvzpnsIJHcrpw2jFyFaFBkheraBd8vtVw9VqAg+4eap1BIObT0iUDQbtC96N7tuuQ7VjKs3R2Y84c9PMzfBPkEiA6gEK/A9EkW;aKAhHL1PDZfGJty1sUoRfA=="
 ---
 

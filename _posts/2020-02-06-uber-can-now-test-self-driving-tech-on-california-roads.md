@@ -282,6 +282,17 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 24
+  - title: "Uber gets California nod to restart self-driving test"
+    excerpt: "The California Department of Motor Vehicles issued a permit on Wednesday to the company’s selfdriving unit, Uber Advanced Technologies.Reuters | February 07, 2020, 07:07 IST Uber Technologies has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a ..."
+    publishedDateTime: 2020-02-07T01:37:00Z
+    webUrl: "https://tech.economictimes.indiatimes.com/news/technology/uber-gets-california-nod-to-restart-self-driving-test/73996819"
+    ampWebUrl: "https://tech.economictimes.indiatimes.com/amp/news/technology/uber-gets-california-nod-to-restart-self-driving-test/73996819"
+    cdnAmpWebUrl: "https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/technology/uber-gets-california-nod-to-restart-self-driving-test/73996819"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 24
   - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
     excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
     publishedDateTime: 2020-02-04T16:07:00Z
@@ -308,6 +319,19 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2015/06/Ethics-Wrong-And-Right.jpg"
         width: 900
         height: 598
+  - title: "A Self-Driving Delivery Vehicle Gets Green Light From Federal Highway Safety Agency"
+    excerpt: "The U.S. government's highway safety agency has approved a Bay Area company's request to exempt its self-driving delivery vehicle from federal safety rules governing human-driven cars and trucks. The approval for Mountain View-based Nuro marks the first time the National Highway Traffic Safety Administration has granted an exemption for an ..."
+    publishedDateTime: 2020-02-06T20:46:00Z
+    webUrl: "https://www.kqed.org/news/11800378/a-self-driving-delivery-vehicle-gets-green-light-from-federal-highway-safety-agency"
+    type: article
+    provider:
+      name: KQED
+      domain: kqed.org
+    quality: 18
+    images:
+      - url: "https://ww2.kqed.org/app/uploads/sites/10/2020/02/nuro2-e1581019013601.jpeg"
+        width: 1920
+        height: 1280
 
 secured: "DKsoOvO3ZE+dlwcTpZ+qB78J5M26svwrN23sjPq660IPV3h5MTXHK6QFBvjWDxTTRJ3ePswqG6ai681jvgqWD8H8ZEuW9AL1EMgfjgp4O7zKTtXu+bEvNVoOGGWPENC03Hf2pwCdmzjsXiV7fyAAZ7jNObOb/NafPC+32VpGIMscAFt1zeIYfs7peGbpREnjpsoAcp1Vo88qV9n8kdOvButgKtgBAIpX6sWgpmIOJzEm4Wsdo2EgBeoyQt/Xvkb/J/M/0LsfZr/8OAg96qv5W9HsOmK0vSqmIp5pr5gRd3GHir0W/GAl2fADp71hJe9c2kB0b9ewvH7paE6wjpHXBKBCt58sFb/hCglIJIdAifaogWNDXUcpooXYfdA03yDkbX+cjjajuuWqR1hdMqco3DU3df5ZkJ1QWgPxPDxpfshLd6hJdlyYjOhIfQbrLLY6Hl+Ly4ZXo+JAzwD5Q03rjhXsLZfrXmuOVgCi0rhq7+4=;DATo6od2jAMMuo90WbYyqQ=="
 ---

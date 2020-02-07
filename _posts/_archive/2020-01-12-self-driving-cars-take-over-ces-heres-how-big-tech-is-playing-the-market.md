@@ -4,10 +4,8 @@ title: "Self-driving cars take over CES: Here's how big tech is playing the mark
 excerpt: "Baidu is developing an open source platform that it hopes will become the \"Android\" of self-driving cars, dubbed Apollo. Microsoft joined Baidu's Apollo \"alliance,\" gaining a channel for sales of ..."
 publishedDateTime: 2020-01-12T00:00:00Z
 webUrl: "https://www.cnbc.com/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-ampWebUrl: "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
 type: article
-quality: 72
+quality: 32
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://image.cnbcfm.com/api/v1/image/104935725-GettyImages-902802574.jpg?v=1532563703"
-    width: 2000
-    height: 1219
-    title: "Self-driving cars take over CES: Here's how big tech is playing the market"
 
 related:
   - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
@@ -45,7 +37,25 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg"
         width: 1200
         height: 729
+  - title: "Baidu partners with Wind River for autonomous driving technology"
+    excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
+    publishedDateTime: 2020-01-08T11:12:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
+    type: article
+    provider:
+      name: ET Auto.com
+      domain: indiatimes.com
+    quality: 19
+  - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
+    excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
+    publishedDateTime: 2020-01-09T18:30:00Z
+    webUrl: "https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 4
 
-secured: "m8ex6LtIwLvRruS8SV5H2Ci0LAcyeK2gAXw+ib0zdhjWwhs32LN0/wmm7ivPIaFPKOUq1ZFk5EBJ4K9A36lwm1Qrdhiem3sIDELzubeGg1vvXRUn0NZ8UWiXdeYpXwp7/SYaKQWxPmJ6V9cMV748mseS5yP5roYBrosJZrujvRBRors2VvsMcLv42rGMJRIpEZFtdq/GKD9kYaIiD8SRTkRte9L9ZoEJJhSKI1l63cEO0IXabO1TsX9kWn2Or9jwdW0xjx+1ugDtp1mfNh+oHYsLXFg4xchMCQPolGuYf+0IVet1Vdv/3jQHw+s4P0a0;OCAzLx5YG3g0DojBklARHA=="
+secured: "R9aSUndmtF0+1mR08/zKyaowFrMLcVr26XsUntxXZYlYyFET9RibsGgN0c1eoNwQhkhyN/m5Hgutpew77a5EfUuAzVw9Q+1LPaWHERQYPPRaCij1lsKRshIJSMcrPrtVgBa+EyLQW5LoCA+jSbP1OYd1GlJSOpjVik4ket7PG6dYWeUno6SxbLfo8ykV7gJgBfrKAALc69Nbo+Rm0L1p6AYyDhKWEFjazxaSEAwQNmeEUVewptlYc4z1OE2uXiG/yNUfx1l/nqSxh6gT2zx/ISUIFMNa0axIciSvZRQGi2DlmeYBy4uCie+UP7C2ZOws;DiR5nWQZdcdKuo0l3K4UOQ=="
 ---
 
