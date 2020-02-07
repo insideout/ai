@@ -1,8 +1,8 @@
 ---
 category: news
 title: "In black and white: Counting penguins gets easier with AI, computer vision"
-excerpt: "Antarctica’s immensely popular penguins, whose numbers are declining alarmingly, could soon count on artificial intelligence (AI) and computer vision to come to their rescue. Microsoft, Intel and Hyderabad-based start-up Gramener are harnessing the power of AI in counting Penguin populations on the icy continent faster and more accurately."
-publishedDateTime: 2020-01-23T05:27:00Z
+excerpt: "Antarctica’s immensely popular penguins, whose numbers are declining alarmingly, could soon count on artificial intelligence (AI) and computer vision to come to their rescue. Microsoft and ..."
+publishedDateTime: 2020-01-23T05:23:00Z
 webUrl: "https://www.thehindubusinessline.com/info-tech/in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision/article30631436.ece"
 ampWebUrl: "https://www.thehindubusinessline.com/info-tech/in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision/article30631436.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision/article30631436.ece/amp/"
@@ -25,6 +25,6 @@ images:
     height: 384
     title: "In black and white: Counting penguins gets easier with AI, computer vision"
 
-secured: "UiAoZow0C21JPeMVH6jYj6M1pONbW4xJQFv/p7fF9RAe9d3z7LRiiI74WZHN3FujDIQGeS4nh88Na2j/gVEqpjhJApBk2jHI5rNLCozI3DQqeimQFM8t1Zyp1wedCthNa31dvHlLAsWsDLpSjWyMmmgFofIy3LA+mdrVIJa+Be8kijHdUUj59Kw8P2CRyNU7nvdMK38BauqsqH4zZI24EpuMkgQcM75TEngcTydRJS9Tebi7qynNFCCSeDld9VdUmq9U0gtehSEJJHxaHJ2rPHrFP79MfAXtT1E9AmZWNZZ0RLFfl/PM+UmRJbCnNimieRWCkH84BHQw5Leb+dmOaUDUay9cOWq/IFYXNxCtx6+88z1JTx5gr5qnL/XAl6BnJEpf0MO5yZmUdTs0PCZcSXFBspZ+ojpZIf/WZGod89VCqocw4Iyx0KLYFKS5k1pmkfQy1SDhmjQSaq7AwWJh54AF4Fc5Hzs7lj8wVQr+RIs=;uGnko1/oZ03v1hGazxrF1g=="
+secured: "FjImY7lrIWTpSgY6HgoF2ZQrmbOeNPMbqz3ZAS10NRdueXz041EaZQgLG2NDNX9evfDGa6sPl77gQJjEEno5O9jvdFGdmzcjq814GLQu1CIR30Uky/pjC/1oiwAgGXGBu+EiB7sPIg0UIl8FpnZipTn+VHGpaMROry/Vs4Iqp5mozmCPho+/0lTT2mc3eSVVXJ9GVbKZ/gAXmnMYkVO2tdOiT271zIiQ7H13LTc+4xX0fPr5oZXJdm+H0zgyAg1tArHDHdMVEDi4JXL3ATp3Y3ESTgn4YqXajP23AZN+cM+7b4fA+FCQXuZnXcurWXbl;3f2zQJh7RAzUB506EK1E1g=="
 ---
 

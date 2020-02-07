@@ -54,6 +54,19 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/02/tacc2.jpg"
         width: 742
         height: 681
+  - title: "BrainChip Showcases Vision and Learning Capabilities of its Akida Neural Processing IP and Device at tinyML Summit 2020"
+    excerpt: "\"We recognize the growing need for low-power machine learning for emerging applications and architectures and have worked diligently to provide a solution that performs complex neural network training and inference for these systems. We believe that as a high-performance and ultra-power neural processor, Akida is ideally suited to be ..."
+    publishedDateTime: 2020-02-07T13:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2020/02/07/9094090.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
   - title: "Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures"
     excerpt: "In this paper, we demonstrate a computationally efficient new approach based on deep learning (DL) techniques for analysis, design and optimization of electromagnetic (EM) nanostructures. We use the strong correlation among features of a generic EM problem to considerably reduce the dimensionality of the problem and thus, the computational ..."
     publishedDateTime: 2020-02-04T11:36:00Z

@@ -27,7 +27,7 @@ related:
   - title: "TRIPLE-1 unveils AI processor ‘GOKU’ for deep learning"
     excerpt: "KUALA LUMPUR, Feb 7 -- TRIPLE-1 Inc, based in Fukuoka, south-western Japan has announced the development of the AI processor ‘GOKU’ for deep learning that uses the world’s cutting-edge 5-nanometer process. ‘GOKU’ has 10 times higher power efficiency than the conventional process, according to a statement. It utilises core know-how ..."
     publishedDateTime: 2020-02-07T08:59:00Z
-    webUrl: "https://www.bernama.com/en/news.php?id=1812202"
+    webUrl: "https://www.bernama.com/en/business/news.php?id=1812202"
     type: article
     provider:
       name: bernama.com

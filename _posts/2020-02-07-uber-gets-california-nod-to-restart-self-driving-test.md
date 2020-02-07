@@ -235,6 +235,21 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/09/28/uber-logo.png"
         width: 1200
         height: 675
+  - title: "Self-Driving Cars Rise Alongside Flight Shaming"
+    excerpt: "As self-driving cars move closer to becoming a reality at scale, the impact on corporate travel will be immense. As sustainability becomes a more important factor for companies sending employees around the world, new solutions are needed to reduce the impact of flights on the environment. This week we take a look at some of the innovations ..."
+    publishedDateTime: 2020-02-07T04:15:00Z
+    webUrl: "https://skift.com/2020/02/07/self-driving-cars-rise-alongside-flight-shaming/"
+    ampWebUrl: "https://skift.com/2020/02/07/self-driving-cars-rise-alongside-flight-shaming/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2020/02/07/self-driving-cars-rise-alongside-flight-shaming/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 44
+    images:
+      - url: "https://skift.com/wp-content/uploads/2020/02/waymo_minivan_5.jpg"
+        width: 1024
+        height: 683
   - title: "Uber may resume self-driving vehicle testing for first time since 2018 death"
     excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
     publishedDateTime: 2020-02-06T00:06:00Z
@@ -276,6 +291,19 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 24
+  - title: "California allows Uber’s self-driving cars to get back on its roads"
+    excerpt: "Nearly two years after a car from Uber’s autonomous fleet was involved in a deadly crash in the neighboring US state of Arizona, the Department of Motor Vehicles has granted a permit to the ride-hailing company to test its self-driving cars on public roads. Before the horrendous incident in Arizona, the multinational ride hailing giant was ..."
+    publishedDateTime: 2020-02-07T14:43:00Z
+    webUrl: "https://www.techjuice.pk/california-allows-ubers-self-driving-cars-to-get-back-on-its-roads/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 24
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/02/image-7.jpeg"
+        width: 796
+        height: 419
   - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
     excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
     publishedDateTime: 2020-02-04T16:07:00Z

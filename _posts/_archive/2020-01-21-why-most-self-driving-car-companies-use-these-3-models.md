@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -95,17 +95,6 @@ related:
       - url: "https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg"
         width: 992
         height: 558
-  - title: "The Hype of Self-Driving Cars Gives Way to Reality"
-    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
-    publishedDateTime: 2020-01-23T21:32:00Z
-    webUrl: "https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html"
-    ampWebUrl: "https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true"
-    cdnAmpWebUrl: "https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true"
-    type: article
-    provider:
-      name: AARP
-      domain: aarp.org
-    quality: 24
   - title: "The Hype of Self-Driving Cars Versus the Reality"
     excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
     publishedDateTime: 2020-01-24T00:05:00Z
@@ -140,6 +129,6 @@ related:
       domain: go.com
     quality: 4
 
-secured: "rayKn40/tS2YJB2iLai8Ba97+XTfdrndF432wlQvxQUpJzezjsj7VtBsOhovmMZmzlKE5KlF8rICmF1FeTARA2ldoKoiaN7Lb5o/UjOOBLudyMByGQEw1msSyVZUIM45GCNTVhtmr9X0/MJ3LfvD65DwgEnYKQtof9/6xzLoIEWBhG1P11lHAIGmPFFpab6GixEDTk7GgSsQ1QdoKERIuwUqIhQqb2Misu8DJ4olrga2frgoxTsk2wBipP34ha1rYjtHCWI/l3xpNsVo5oCsTQIjYOvNIwBCLh28rc1PgCOJSOIwiXeN7ngm5mVReZsH;1TNOeib/E1fjPwcVuFiEQw=="
+secured: "Dg9h9/n1qV6N0Tqa51axxmXpcYV/xZ6SIQYNAHWDyvkLt4MBGwDpjTB9TTNZrFvopy7Cp5/XvFQhmub9tmT6rZvYLPgorO/yruRtsFq6WacSU/3+rEkrw26oxQe4RvJBm9U995fVs43QCqjHved9Hg7MhyK6LtM4sF968Ith2NdX9jyOoeHXfHDUSdRBZGeEPJ1thCB3sAsmiNlR7+Oo14m+0/6dflvyPm4iAPBUM4eb+ktt6oIbO2ibcLQIRBi9zrducfMafTqyuXIdOtvqKQI/S15GX+BVACeCwsV76ME1+ZOeFtpurtus+4XRSr3L;2uPoV4koGKRSdWCo1ZFI8A=="
 ---
 

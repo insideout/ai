@@ -104,17 +104,6 @@ related:
       - url: "https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg"
         width: 992
         height: 558
-  - title: "The Hype of Self-Driving Cars Gives Way to Reality"
-    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
-    publishedDateTime: 2020-01-23T21:32:00Z
-    webUrl: "https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html"
-    ampWebUrl: "https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true"
-    cdnAmpWebUrl: "https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true"
-    type: article
-    provider:
-      name: AARP
-      domain: aarp.org
-    quality: 24
   - title: "Test shows promise of self-driving cars for transit"
     excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
     publishedDateTime: 2020-01-25T19:00:00Z

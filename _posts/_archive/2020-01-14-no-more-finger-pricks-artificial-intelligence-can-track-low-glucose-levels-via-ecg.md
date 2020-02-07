@@ -41,16 +41,7 @@ related:
       - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
         width: 675
         height: 365
-  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-13T16:53:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/01/200113111156.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
-secured: "C+qH7rDX07kMWfrwghtOTb7I94eeU31dcUk6iyA9c1KRS5UFK3FKdazw8pIpdQi7+OcFmMjxkLW+dQZpNY0t7SlLrVl2jo7JWsoRennkwDdJSsE9gqSfZwEsr3bQNXCuA9bdOcAfG1l24lISTwpNS7Zyu2AUv2ZPW6Mi0G7oqsYyRvlqtjSJrnC6DSM9I0NNXLTBWBdVHk8HgqVpWpyR8sWh5wLznV7fS/G4UlyTAYkz6g4B2hczIyNsZvAnCMi0IvupTdxbxv62vjK/mr8k5Gq+YOCxq2n9LmK13H2yUDq0Eyd5Qamj2UpBzbllmggW;yWnEDRfmiN2T0QhqtsqT3Q=="
+secured: "LQWogtJAV1V9lsFpPushTdGssc8ABpYaqZnelQenjYmQtpI+0zz+9bv7bJqbMFGP8DxpQBihFC/28zVakzX07hX/nPWf9WuKxH1O8NqCEPc6IThZ7bqL6qnkTexqL3pKBr2IalfSox3WSeItxN0EoUQpo5efvv/Sq5x7SFRgwTzoEFUCdJjS2kxQlGtTFIPIbQe2HU+O8nhxWyUeXzSsLmnk4U6Fst/5FlF9gJKd7DDWdr2J0qSyKderD4Kt8FysfijCep7bdXyRu2zIKOm03L3VyzfsNJSeL3tuWSBK75Zz0puW6gHpmXFdRzpJ6hx3;ZSxHN89AZkw8jA6MW7c+pw=="
 ---
 

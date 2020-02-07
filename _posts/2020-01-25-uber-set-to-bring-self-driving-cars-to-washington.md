@@ -95,17 +95,6 @@ related:
       - url: "https://media.wusa9.com/assets/WUSA/images/cdaca044-3043-4f02-ba14-2589615a5fd5/cdaca044-3043-4f02-ba14-2589615a5fd5_360x203.jpg"
         width: 360
         height: 203
-  - title: "The Hype of Self-Driving Cars Gives Way to Reality"
-    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
-    publishedDateTime: 2020-01-23T21:32:00Z
-    webUrl: "https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html"
-    ampWebUrl: "https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true"
-    cdnAmpWebUrl: "https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true"
-    type: article
-    provider:
-      name: AARP
-      domain: aarp.org
-    quality: 24
   - title: "The Hype of Self-Driving Cars Versus the Reality"
     excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
     publishedDateTime: 2020-01-24T00:05:00Z

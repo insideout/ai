@@ -59,21 +59,21 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
         width: 1200
         height: 800
-  - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
-    excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
-    publishedDateTime: 2020-01-21T13:29:00Z
-    webUrl: "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/"
-    ampWebUrl: "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/?amp"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/?amp"
+  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 59
+      name: Mint
+      domain: livemint.com
+    quality: 74
     images:
-      - url: "https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2019/07/pichai-google-ceo-featured.jpg?fit=1360%2C1020&#038;ssl=1"
-        width: 1360
-        height: 1020
+      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
+        width: 600
+        height: 338
 
 secured: "fNNpLLO0Uu54l6bgCsY23pBQNdXwqVFm8ZjKRQKKKnc6fM3jYEd5Cl7YN2uqaMpuUJteypWSKtpnwFM0TAsX3qYJ5T55yGmKtMDUWm7UFQQiQsn9IBBGbAA2J3h9SSeXVT8hKrEUNo3bUjBRvPd4M71C+yIUPXHXtTQnudRRDgpWMuIrPZkniL2zNNnty4tAPdt8Dkwe468YRL9S2WMPT1Oopfn8tnqMXGIYmEtuSBqzLMQVSPult6WfyLCRw8YDfBwcMnErrbHA8wEgvWO/CAAmMw3GUrf6yWXFVHymUn/WbLKuoEFBj8yC1m6FnrU/C/4wzlUauZNIGgBugiPS0MTOOOLI6lniJXceZ+4IUPp/+B0g5W6VnwTa7/YS6KdL8HmyyOfZJHc98VrdH6msuTWOvmM1uWmuR8970xm4JFlKQ5iO95q+ACXeEurrKNE6O3Vw+xirxQCyGQhDgBIewDV2FpoxbA2b2H/jvm55SHE=;/zuYEeu6Z3DfCap0tGFeJA=="
 ---

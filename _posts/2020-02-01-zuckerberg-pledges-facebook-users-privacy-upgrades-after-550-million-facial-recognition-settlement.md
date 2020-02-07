@@ -554,21 +554,6 @@ related:
       - url: "https://cms.prod.nypr.digital/images/22754/original"
         width: 640
         height: 426
-  - title: "A scary new facial recognition tool underlines the urgent need for privacy laws"
-    excerpt: "But we didn’t realize doom might come this soon. The New York Times reports on a facial recognition tool that hasn’t made the news before — because it’s not from a Silicon Valley luminary with a big public footprint, such as Amazon or Google, but rather a tiny and secretive start-up called Clearview AI whose impact is as high as its ..."
-    publishedDateTime: 2020-01-23T21:48:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 55
-    images:
-      - url: "https://www.washingtonpost.com/resizer/ZLffVZNmmkuoQHCjoik1fm4Z00c=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHDNZORPYQI6JPU6MDGEJQA6P4.jpg"
-        width: 1440
-        height: 961
   - title: "India's railways to use facial recognition despite privacy fears"
     excerpt: "NEW DELHI (THOMSON REUTERS FOUNDATION) - Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday (Jan 28) warned could breach people's privacy in the absence of stringent laws. The system is being trialled in the tech hub of ..."
     publishedDateTime: 2020-01-28T14:55:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-7969929/amp/China-uses-robo
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7969929/amp/China-uses-robots-monitor-residents-body-temperatures-amid-coronavirus-outbreak.html"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,43 @@ images:
     title: "China uses robots to monitor residents' body temperatures amid coronavirus outbreak"
 
 related:
-  - title: "CloudMinds Donates Emergency Shipment of 5G Cloud Robots to Help Combat the Coronavirus Epidemic in Wuhan and Shanghai"
-    excerpt: "China--(BUSINESS WIRE)--CloudMinds Technology Inc. – a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity – has, in collaboration with China Mobile, donated and sent 5G-enabled medical assistant Cloud Robots, disinfecting cleaning Cloud Robots, medicine ..."
-    publishedDateTime: 2020-02-05T14:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200205005304/en/CloudMinds-Donates-Emergency-Shipment-5G-Cloud-Robots"
+  - title: "China Deploying Robots To Contain Spread Of Deadly Coronavirus"
+    excerpt: "Currently, these robots have been deployed in isolation wards, ICUs, operating rooms and fever clinics in major coronavirus treating hospitals, including the Central Hospital of Wuhan. China has called upon members of China's Artificial Intelligence (AI) sector to help fight against the coronavirus. According to reports, robots are being used ..."
+    publishedDateTime: 2020-02-07T14:53:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/robots-deployed-in-order-to-contain-spread-of-deadly-coronavirus.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 54
     images:
-      - url: "https://mms.businesswire.com/media/20200205005304/en/771428/23/CM_Robots_in_Wuhan.jpg"
-        width: 1200
-        height: 627
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/zdxqblrfadpefqou_1581083925.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 708
+  - title: "Artificial intelligence applications surge as China battles to contain coronavirus epidemic"
+    excerpt: "Autonomous robots have also replaced human cleaners at segregated wards to reduce infection ... broadcaster and state media such as People’s Daily for input into the platform, which employs Qihoo 360’s artificial intelligence (AI) and big data technology to ensure that the information is updated and reliable. Users enter the date of their ..."
+    publishedDateTime: 2020-02-03T22:26:00Z
+    webUrl: "https://www.scmp.com/tech/start-ups/article/3048746/artificial-intelligence-applications-surge-china-battles-contain"
+    ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3048746/artificial-intelligence-applications-surge-china-battles-contain"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3048746/artificial-intelligence-applications-surge-china-battles-contain"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 46
+  - title: "Can Artificial Intelligence Prevent Coronavirus from Spreading?"
+    excerpt: "The combination of human expert and artificial intelligence can efficiently eradicate the spread of coronavirus ... Since the usage of AI in several areas of healthcare, like recognizing brain tumors and enhancing treatments, has been successful. Therefore if the technology is used in the case of coronavirus, also there are chances that ..."
+    publishedDateTime: 2020-02-06T08:46:00Z
+    webUrl: "https://www.cioreview.com/news/can-artificial-intelligence-prevent-coronavirus-from-spreading-nid-31151-cid-31.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/3rido.25.jpg"
+        width: 300
+        height: 350
 
 secured: "l0+68T1/uRUBs73Pt6CkKcftJBMHF9+IcXDidhMoHQNWOU37tH/NwziWoGvVuKOOMxXCw3atZTWuTFZRjAo/1e+UP5TSAaelDYZc+/HBq+2KOUTYKopJmbK8q5OevrgbNba/JStSyve9Tilrz1Dri+ELlgKyYWiJTwIGUoZePiOAmwdnC+i6a3bqK0IOy1hl0gKMX4BzneqFkWLtTANVXVelMVjbFQJZfJLh3jFnu3dkfwSId2mMMpIGdcUTT1tqZnu1GBKiCC6EBsuhM8gxzlT49M7KVBUq0fgPNJiRovZbC5LJqdbMNEhuK8kW1mMi;zoxW5WMsEKb4Egc860bybg=="
 ---

@@ -25,6 +25,6 @@ images:
     height: 250
     title: "NVIDIA to build its AI self-driving platform on BlackBerry QNX"
 
-secured: "aJoeshbGMVMKa7Zrfgo0EAkDBAukD/EXGZ8w8LRtjwDOtnbHSu326MxkU3sLjceGnfR+mr4ruKSZL+cMwqdu2Q506gHQpTwgcxsRaCPmJ+13OM0oM+M54ZWfBt0tfZwEOExuJfK9ySoz+ewhVcEjaFpvruDr+CLi+8bDuvgTt9Zoz5DC9D61MhoxkgH/UV8eZ9ahelFAyD8IIs6EbwaTXsdq76VVT0JRKPDpZxo0NnG64I0f1cNCeFLb148r1ed03DAnr5NfBuyI/k58mJtPoLbYdvDMiqsE3019oBRucDsGyKmA4xCJLiumZK9fXdoj;wlqPbVSz7nt6seax9U+5hw=="
+secured: "2GV78QIEXAfFPsUdN29IfNTQVDfzKEltuA1QLH42Yg+0BsFWEBpnMloyw7TZ1n8/jAQs24mvidr8v8VNkrGzw5WYkYQEWGNYDWJirK4jH1oS9UTLngv7cAToQpeak6lJLvMjk53UQ+DEnYoAmdxWNy6uCGYSgDhbYUPXpNb68mQnRZN8X8UxaLxEozZjEzvx+PXP+xzTzPt5LDWRGa7seOjGHXCZ79skz3mv/GntSMzruSx2dfadVW6sXm2G4OU2kBxlqdssHp1ZSHxfKfV8Vr1xgLCIMZiIG72j8M9lwTf2dOY2VN8YFYAoqDf4ZZx6;jRKlRt9g4nyfwoRQqfzXCA=="
 ---
 

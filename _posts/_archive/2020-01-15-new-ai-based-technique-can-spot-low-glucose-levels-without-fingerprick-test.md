@@ -26,20 +26,22 @@ images:
     title: "New AI-based technique can spot low-glucose levels without fingerprick test"
 
 related:
-  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-13T16:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php"
+  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
+    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
+    publishedDateTime: 2020-01-14T13:07:00Z
+    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
+      name: Medindia
+      domain: medindia.net
+    quality: 53
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg"
-        width: 720
-        height: 302
+      - url: "https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg"
+        width: 1200
+        height: 1000
 
-secured: "ETObaoxqIG363v3rwentkNzoWkbHnjv/yoAUVkRVRX9cnPlA73vyO+rU6mfoolv6v7+lHydnyr0Ixf/x9kLwKgCilK6KyKPTyzzf+ncptHsN5VeQeVnC7hs6Wem48YObeZhxz3ffKtwKl4wPkijGpKG7HNcHL5He1JnxfjSTXTHLdK2YyAPPuiaSQlbCC5spiBFzh6rFjwxi5ZFFSCTkNpu+g8afTOJMpwDJGZokeKnwz1QmNY509FYHgMv9oq2TEtokGBPN4Kjsw/mLL2k15/ohWmWT+6xZo0OeWNzlvD/IT7sOSaH2CgzGfiIIfQtT;blFuozR5KW0w4OOZzzweBg=="
+secured: "ZAHlv5BDy2MMLFvIe9C8PmQhPQtsYsfXHFRJfp67Q18E9Gz0ndhXrW9ENuwKvlUgkCTNNH80yENDNVYoewv0n6wyXAFKEgFCeLAvi1wHomCfb5OW3Rbzzs07elUKSSr/dqBBuVmCstXqqF03oL7fzH6LXp6ck4c0WKl3hwvIohiua90o0GbH//3G0FkCuAyJNR/17Pvw3gKOuxLiTkPn9gzzC1mvsrWuawoYIWXb7caKDHeJW97FeZutUP2qYGhOZcRwBgjw+giZpJo5WHcmFgGZGwK9cus9rlvGauqkh9vqu4QURFn7VYL+bLf+6Urz;vYRzR/28QYwyCmXeVJx1Ig=="
 ---
 

@@ -24,6 +24,21 @@ images:
     title: "CIA reportedly seeking to hire multiple providers for new cloud computing contracts"
 
 related:
+  - title: "Clearview AI is looking to expand globally, report says"
+    excerpt: "The facial recognition company reportedly wants to sell its app to law enforcement in 22 more countries. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is reportedly eyeing global expansion. It wants to sell its services to law enforcement in 22 more countries ..."
+    publishedDateTime: 2020-02-06T02:17:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-reportedly-looking-to-expand-globally/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/g3NdohYSdrzYH4i2iNFOSc9gHbQ=/756x567/2020/02/06/8599565c-e194-4d37-9ab7-56f3f399d317/facial-recognition.jpg"
+        width: 756
+        height: 567
   - title: "Clearview AI reportedly looking to expand globally"
     excerpt: "Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is reportedly eyeing global expansion. It wants to sell its services to law enforcement in 22 more countries, BuzzFeed News said Wednesday, citing a Clearview AI document that was reportedly part of a November 2019 ..."
     publishedDateTime: 2020-02-06T01:27:00Z

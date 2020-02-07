@@ -138,21 +138,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483128662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0S1ZS"
         width: 817
         height: 545
-  - title: "Uber begins mapping Washington D.C. for self-driving vehicles"
-    excerpt: "Following hot on the heels of rival Waymo, Uber announced that it’s bringing self-driving cars to a new city: Washington D.C. In Medium post today, Uber’s Advanced Technologies Group (ATG) — the skunkworks group responsible for autonomous vehicles research — said that it will deploy a fleet of three cars in the nation’s capital ..."
-    publishedDateTime: 2020-01-23T21:31:00Z
-    webUrl: "https://venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/"
-    ampWebUrl: "https://venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "Uber's self-driving cars are launching in Washington D.C. for testing"
     excerpt: "The cars will have drivers, and won't be taking passengers, as part of data collection for future development and eventual roll out."
     publishedDateTime: 2020-01-24T16:44:00Z
@@ -168,21 +153,6 @@ related:
       - url: "https://i.insider.com/5e2b1cd3b6d52d20320b5500?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Uber’s self-driving unit starts mapping Washington, D.C. ahead of testing"
-    excerpt: "Uber Advanced Technologies Group will start mapping Washington, D.C., ahead of plans to begin testing its self-driving vehicles in the city this year. Initially, there will be three Uber vehicles mapping the area, a company spokesperson said. These vehicles, which will be manually driven and have two trained employees inside, will collect ..."
-    publishedDateTime: 2020-01-23T21:14:00Z
-    webUrl: "https://techcrunch.com/2020/01/23/ubers-self-driving-unit-starts-mapping-washington-d-c-ahead-of-testing/"
-    ampWebUrl: "https://techcrunch.com/2020/01/23/ubers-self-driving-unit-starts-mapping-washington-d-c-ahead-of-testing/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/23/ubers-self-driving-unit-starts-mapping-washington-d-c-ahead-of-testing/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/12/uber-atg-lidar.jpg?w=1024"
-        width: 1024
-        height: 682
   - title: "UPS Jumps Into The Future With Plan To Buy 10,000 Electric Vans And A Waymo Self-Driving Delivery Pilot"
     excerpt: "Arrival will supply the emission-free vehicles starting this year in a deal that could be worth $400 million. UPS is also investing in the U.K. startup."
     publishedDateTime: 2020-01-29T21:09:00Z

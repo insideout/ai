@@ -50,6 +50,19 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
+  - title: "CitiusTech Announces Partnership with Google Cloud to Accelerate Digital Transformation for Healthcare Organizations"
+    excerpt: "our partnership will support healthcare organizations through digital transformation in key areas such as data analytics, artificial intelligence, machine learning and hybrid cloud,” said Manish Sharma, Sr. Vice President, Strategy & Partnerships at CitiusTech. “Our combined technology will empower payers and providers to drive better ..."
+    publishedDateTime: 2020-02-07T12:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200207005075/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
+    images:
+      - url: "https://mms.businesswire.com/media/20200207005075/en/771908/23/citiustech_logo.jpg"
+        width: 1200
+        height: 627
   - title: "Yseop Announces Augmented Analyst, the Next-Generation AI NLG Platform Featuring the Most Advanced Intelligent Automation ..."
     excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels of user-adoption ..."
     publishedDateTime: 2020-02-06T09:07:00Z
