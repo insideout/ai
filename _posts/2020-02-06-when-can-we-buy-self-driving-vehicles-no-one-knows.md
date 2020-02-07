@@ -65,6 +65,19 @@ related:
       - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
         width: 770
         height: 364
+  - title: "Rules eased for self-driving vehicle"
+    excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
+    publishedDateTime: 2020-02-07T06:44:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?business"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
   - title: "University of Tartu and Bolt presented self-driving vehicles lab’s test car"
     excerpt: "On 28 January the University of Tartu and Bolt presented the test car procured for the University of Tartu’s self-driving vehicles lab. This high-technology vehicle will be used for experiments in several research and development fields. The aim is to conduct test runs in urban traffic this year already. According to Anne Jääger ..."
     publishedDateTime: 2020-01-29T13:10:00Z

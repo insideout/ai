@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/"
 type: article
 quality: 191
-heat: 301
+heat: 331
 published: true
 
 provider:
@@ -55,6 +55,21 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2018/09/12/68bc9baf-bca9-4377-a59d-94d87c57e3be/thumbnail/1200x675/f52ca7b39d4fe3985df2389980bf8973/fibre-broadband.png"
         width: 1200
         height: 675
+  - title: "AISense raises $10 million for AI transcription tool Otter"
+    excerpt: "And a word cloud at the top of each recording tracks the most-used terms. Otter competes with Microsoft’s Microsoft 365, which can host live events with AI-powered features such as facial recognition of attendees and autonomous speech-to-text conversion, as well as comparable meeting transcription tools from Cisco and startups Voicera ..."
+    publishedDateTime: 2020-01-24T02:25:00Z
+    webUrl: "https://venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/"
+    ampWebUrl: "https://venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?fit=1200%2C763&strip=all"
+        width: 1200
+        height: 763
   - title: "Gravyty raises $21 million for AI fundraising platform"
     excerpt: "To help bolster their efforts, Adam Martel and Rich Palmer founded Gravyty in 2016, a Newton, Massachusetts-based startup leveraging AI and machine learning to help nonprofits reach their fundraising goals. In a vote of confidence this week in the startup’s efforts, investment firm K1 Investment Management announced a $21 million investment ..."
     publishedDateTime: 2020-01-27T14:38:00Z
@@ -85,6 +100,28 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Kneron raises $40M for edge biometrics and AI chip development"
+    excerpt: "a developer of AI algorithms and AI-optimized processor designs for use in edge devices such as surveillance cameras and other smart home products, raised an additional $40 million to further develop its products. Kneron, which has over 150 employees, has raised $73m to date. Kneron unveiled its first chip, the KL520 in May 2019. The chip ..."
+    publishedDateTime: 2020-01-27T17:49:00Z
+    webUrl: "https://www.biometricupdate.com/202001/kneron-raises-40m-for-edge-biometrics-and-ai-chip-development"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg"
+        width: 300
+        height: 250
+  - title: "OpsRamp raises $37.5 million to apply AI to DevOps processes"
+    excerpt: "Ever heard of AI for IT management (AIOps)? It’s a burgeoning ecosystem of platforms and products that enhance IT operations by leveraging AI to analyze data collected from various tools and devices. Research and Markets anticipates it’ll be a $14.3 billion segment by 2025, and one of the startups leading the charge is OpsRamp. Raju Chekuri ..."
+    publishedDateTime: 2020-01-30T08:00:00Z
+    webUrl: "https://venturebeat.com/2020/01/30/opsramp-raises-37-5-million-to-apply-ai-to-devops-processes/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "The Development Of Memory And Storage Devices"
     excerpt: "In the computing world, there is a lot of excitement over the technological advancements that that take place such as augmented reality, driverless cars, smart homes, artificial intelligence, voice control etc. But none of this would matter if there were no memory storage devices that could read and transfer data quickly and reliably."
     publishedDateTime: 2020-01-28T10:33:00Z

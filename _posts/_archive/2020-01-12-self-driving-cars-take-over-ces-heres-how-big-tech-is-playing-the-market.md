@@ -4,10 +4,8 @@ title: "Self-driving cars take over CES: Here's how big tech is playing the mark
 excerpt: "Baidu is developing an open source platform that it hopes will become the \"Android\" of self-driving cars, dubbed Apollo. Microsoft joined Baidu's Apollo \"alliance,\" gaining a channel for sales of ..."
 publishedDateTime: 2020-01-12T00:00:00Z
 webUrl: "https://www.cnbc.com/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-ampWebUrl: "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
 type: article
-quality: 72
+quality: 32
 heat: -1
 published: false
 
@@ -23,29 +21,17 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://image.cnbcfm.com/api/v1/image/104935725-GettyImages-902802574.jpg?v=1532563703"
-    width: 2000
-    height: 1219
-    title: "Self-driving cars take over CES: Here's how big tech is playing the market"
-
 related:
   - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
     excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical ..."
     publishedDateTime: 2020-01-07T17:40:00Z
     webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg"
-        width: 1200
-        height: 729
+    quality: 39
 
-secured: "iUl/OHPQaFKJIVpqje8tTxUs2COWVLTw+DcyqjcjWuhtCL1LbkP2l0x1pEZHYEjb8fm457m+IgYGv5PfTEQXz8P5X44buWBh1f928YWVWHURhVqiCe+lKyYUaZS2REgi8+bfMlbGRbrWELdeDu/g02AAoVk+ZfogAHXn1YXz3S11K/7vFTp7jmdC/s0xGFN2Ab+kji8e9nsEA2s51qSERFR+i4Sms51Uw6NjptyyPqkUt1gY0doi+NNIG1Ncm6s3YiOgs1QdfgFYcnCmQl7P/1eIHcTOhTQwBH7I6lyRDU23Eg97/PXgUiloanZDi0m7;ucsOyvpAk2k/qZNqPiaefA=="
+secured: "7uAvRQfF1NoIv7+9gMQddLyr2hlfLg899TeTZwcBoBlrRDGZNFIbdqm0qpJZO42rUd4Poykh9QT1pb+6PZXt4Q+H93H+H03Nhl0XbN0yUoZlLx7ElCNOrz/jkVsFVYXpksMWkoy9FHdiDR7HB/13pcjSb7Kgyqb7Z14pEj8PcJJ5kFOEpm4nHOlbfqHfSNfv6DETI0bd24Rv0eaPBXktpw4gj6tV5EXW9XYGtyl8lIMwv3vBP2WLUJI4CUlNBUOIO2iqKwlp9OLhH8ZttDpY8oQqGvlNGbv4JKGE5xkSuA9Ut2fR587Y17ambNe39JYT;y5zV75eBVDWTZV+OQTtBOQ=="
 ---
 

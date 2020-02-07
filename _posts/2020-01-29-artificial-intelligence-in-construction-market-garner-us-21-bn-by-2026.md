@@ -44,19 +44,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
-    excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. LOS ANGELES, Jan. 23, 2020 /PRNewswire/ -- Acumen Research and Consulting, Recently Published Report titled \" Artificial Intelligence (AI) Market Size,"
-    publishedDateTime: 2020-01-23T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-exceed-us-160-bn-2026-300992123.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/962993/Acumen_Research_and_Consulting_Logo.jpg?p=facebook"
-        width: 597
-        height: 315
   - title: "Image Recognition MarketWorth $ 81.88 billion By 2026 | CAGR 19.6%"
     excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81."
     publishedDateTime: 2020-01-27T05:55:00Z
@@ -66,6 +53,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-01-31T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Voice Assistant Market is Set to Reach USD 5,843.8 million by 2024, Observing a CAGR of 27.7% during 2019-2024: VynZ Research"
     excerpt: "NEW YORK, Jan. 28, 2020 (GLOBE NEWSWIRE) -- The global voice assistant market is expected to grow at a CAGR of 27.7% during the forecast period with its market size predicted to reach USD 5,843.8 million by 2024."
     publishedDateTime: 2020-01-28T16:38:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T09:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis-2020-02-03"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     title: "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis"
 
 related:
-  - title: "Global AI Machine Learning Market: Facts, Figures and Analytical Insights 2019 - 2029"
-    excerpt: "The research study on Global AI Machine Learning market 2019 presents an extensive analysis of current AI Machine Learning market size, drivers, trends, opportunities, challenges, as well as key AI Machine Learning market segments. Further, it explains various definitions and classification of the AI Machine Learning industry, applications ..."
-    publishedDateTime: 2020-01-28T06:41:00Z
-    webUrl: "https://www.openpr.com/news/1910247/global-ai-machine-learning-market-facts-figures"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
   - title: "Global Speech and Voice Recognition Market"
     excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice Recognition report helps make known uncertainties that may come up due to changes in business activities or introduction of a new product in the market."
     publishedDateTime: 2020-02-03T10:10:00Z

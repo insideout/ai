@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-ke
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20181017073142.Medi.jpeg"
         width: 800
         height: 448
-  - title: "The Key To Tesla's Future Is Full Self-Driving"
-    excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
-    publishedDateTime: 2020-02-03T17:07:00Z
-    webUrl: "https://seekingalpha.com/article/4320979-key-to-teslas-future-is-full-self-driving"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "mxeicj7ZOXGism2eCa9jLMXC1QgJuZT/koU1een2qbRmUHOOC6bFLMU7xaRvW1V//5FD0to3Pu6tNguRpaPYRCzVCJOu/7hVTn9OEzedKrO4E10CIKx23GmEkim4GtYdXhbjVPZVfpMVq2h6RtPgg5NoUsqdVVFp3u9pE25zwjE0Udhj6I1FMK9Mh8/gHlgaIW7GrFIdu1F35e8J02w9YTe6GddIAcEbtZOVW/manqbB3Tmz0VODEwUqZRcK2mtrsZhLtsoAuHEvhtv9CS8d3pS/6l1FbLuyTqbqZ8gnDY0JNzsf5fTMdZEVdxNxzwTqx49AV82CSm8krHmpfsA0XYgRuLYjovxo5PemSmINyiv7SUMADz5pgmBwkFa/7TB2GlgCJmtxWzmWJ/O1W159/W0P9c+l9Oeroj4cMfkPMlmtflDAHUjpsL8CThyDDUpW/lSuVyauebQZPc2mQGnDn5/qCL5sZfRfwnqylupCUCU=;SNxV3wzB264wdsce0L9pmg=="
 ---

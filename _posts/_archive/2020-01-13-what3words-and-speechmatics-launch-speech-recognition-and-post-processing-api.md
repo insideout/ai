@@ -47,12 +47,17 @@ related:
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 54
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-        width: 849
-        height: 565
+    quality: 34
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
+    publishedDateTime: 2020-01-16T03:17:00Z
+    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "iNirdHMz9SPKrDr6NM7Adk/H2YcVecPpm2NOcjskz8zhNcgWXUNhdsBHLuof3p8E5s5qY90zWt9d+QRJU7jE4Qa9+hUjW+NSwv9lrgCKjDTcGWgOGlbZWJoNLgGPTLRvVyIi/zZo+l4hFJyBqpDBWdgG6KrxxrhrYcawsKniUBD54O+XoHVJgnLbRVA2opL+rnIKHxJEzC+XlNDHGb5fiTUFQc2FipZ8RSnYHZJtcM15Fdpfar3PnPnm2CCBt4h9WP24v0MfEzyhh1CQEoiYHdkxMBV/CtcfDQDvhPncaB+k6z2XJbvD3PFlh0St8CRj;tj50frAFUywyA+QD3pP0/A=="
+secured: "+lY2lVODSdb9jyI/Xb7XC0zR08VnZEuMlUyJQb+Umf0pQic9tfUHoVVupMHvuogoTDQXSv8dw9Kto+e8KmYaP8UTzsu8XXBJDDAxtcDyP5WKAjdKQX4l3KYGSW73ZN5z7X1KisEQBCTZ+99kz3+E+gFkbo5FmEs4mgFiEg36QtXeZULk0VGzZhViTJ4Ln+QCPiIXpSNbX9N1IqbhO8bTwgtYiB3sMlekzi5cVWcon8Dmjau8kFjrO4oDONJt786YH6q/WAjHDQThRXd5Rhp+qSTv6CZvkIlbvJSKXb+fAzLogLC65DcvKyTbrvXAqWQ/;b++Z8dKSUa/nRcrBQzGOww=="
 ---
 

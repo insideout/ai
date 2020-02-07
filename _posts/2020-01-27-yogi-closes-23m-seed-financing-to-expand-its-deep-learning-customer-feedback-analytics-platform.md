@@ -37,15 +37,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg"
         width: 304
         height: 430
-  - title: "Neurala Partners with AviSight to Deliver AI-Powered Drone Inspections"
-    excerpt: "AI-powered visual inspections pioneer Neurala today announced ... By allowing clients to immediately start shifting reactive maintenance to preventive maintenance, AviSight's solution delivers significant cost savings and most importantly, exponentially ..."
-    publishedDateTime: 2020-01-23T13:37:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2020/01/23/neurala-partners-with-avisight-to-deliver-ai-powered-drone-inspections/14706/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 19
 
 secured: "JKdZtAAkTR+M/B2Qh2Q1xokmPzTfP19ltM2Z+zgFQldDj9eTseJOLDppLPud1V+m6PZ9J4h75MRRktyg4MymU093Z6/48VN54b9IAXm/0W6kt1pb49MNLRPkHsAFQOzkL5+U76+FnvzqFXsXL8x2757ToYjrT5L+bPbOrJDCKenIUw3p6qsX4ktVX7MSBufKLCyp2bCmVMDlYn1u25sphf2o+vPIU5G+yCmv+3w1B6MTVPDI6VY5DPDkexaZPqPJ1yDSWcc7wo0CDp52ME5xYsi46fB3Fag2Tg1rMq9/+bI/MxypsIu7wwoX7hXbk9RSYRQ5Ob2nXslIKiDnrZAK+L2HR6k/h4FwLTby9h1+5LB8LWloE+9g2a9TbzZ6O7K993p2NqPmMN9k0Sq6Zn66MdzcxGteBGP1WRvYuF4MSj5aCp0OD0xdJk72lbRewPZS1vVdCiCumdYMCUkIoPLCm+oCU5x9P0gp+2vwXgBFaa4=;cQHnAZj6+jf2KWrdxhGuvA=="
 ---

@@ -75,21 +75,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg"
         width: 1400
         height: 933
-  - title: "Clearview AI Says Its Facial Recognition Software Identified A Terrorism Suspect. The Cops Say That's Not True."
-    excerpt: "But there are troubling questions about its past. By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 23, 2020, at 8:19 a.m. ET Clearview AI, a facial recognition company that says it’s amassed a database of billions of photos, has a fantastic selling point it offers up to police departments nationwide: It cracked a case of ..."
-    publishedDateTime: 2020-01-23T13:28:00Z
-    webUrl: "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-nypd-facial-recognition"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-nypd-facial-recognition"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-nypd-facial-recognition"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 86
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/22/19/asset/933f4b4c5e00/sub-buzz-1614-1579719794-12.png?output-quality=auto&output-format=auto&downsize=640:*"
-        width: 640
-        height: 341
   - title: "Clearview facial recognition app may pose 'chilling' privacy risk, senator says"
     excerpt: "Democratic Sen. Edward Markey of Massachusetts issued an open letter Thursday demanding answers from the creator of a controversial facial recognition app used by US law enforcement. The letter to Clearview AI CEO Hoan Ton-That follows a New York Times investigation into the software company and its app, which can identify people by comparing ..."
     publishedDateTime: 2020-01-23T19:34:00Z

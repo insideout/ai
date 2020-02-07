@@ -33,19 +33,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
-    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
-    publishedDateTime: 2020-01-16T00:00:00Z
-    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 54
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-        width: 849
-        height: 565
   - title: "what3words and Speechmatics launch speech recognition and post-processing API"
     excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
     publishedDateTime: 2020-01-13T11:55:00Z
@@ -59,7 +46,16 @@ related:
       - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
         width: 620
         height: 500
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 34
 
-secured: "uM1NGI8Kyg1I99/MSeGv9s8HerbMfQ5GOZI8xzi2LS17tO3oUvtDGUWsddsdMFssFn02Mvbvy4UtfWTFZGsxnlXR2LsrFqCkTuK80WarmYLp0LPqV0ODd1IVXmWtwhW+9ouZLxSQ70vrHk36Giib/TqofH6DZbxeOcGqX1u9QZR7ZQl4CLIVgB2Q0zCUPWlVP7jZuc3pu/4EIzUG3/hMbz4eaAQy3qQ94HGmBXYnagZgJZQ6CP0mkkUcrE4sR4ge8AN4lsCnwvLnmw21iDp+d+eQyc9bLBrlspxbcscacYyGh9NlsNY15ZlCD5JwtrnD;6JSUjjoahT7wpdHWCe9z3w=="
+secured: "nEgf5vBSMTep8g1ydUBjui2M4DfEAcIC6nHQsXxlzlICN7Yhik4oK/gkX/PQ6yY5RMXGgS/vFbxNJEd3e2tBCsI/LzK56q7oXj1VsrJhfT/ZGWPZFToXFRzmnYHTXwgq2pMOM5IG4hxAnBFGoZXai9KVwjxoC+HN9rtiCvYuitUTLHtwHjPQhLMsVJ8qFvIkAaHSGr/9zhFG9fP629r1OvEoKyuS6eKRkutkZ32smM5gvtWy8jwdJMOAJH/20INoDBg/LgHmrHwJPtwBF8UGFQX8VClNGH5m8f9ns44Pq5C9XvGAGbBFVaJEFW52RD3E;fl/dsdHYwMG+eJb1OCFrDw=="
 ---
 

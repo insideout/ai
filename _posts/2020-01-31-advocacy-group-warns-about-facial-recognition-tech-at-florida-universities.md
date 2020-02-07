@@ -24,45 +24,36 @@ images:
     title: "Advocacy Group Warns About Facial-Recognition Tech at Florida Universities"
 
 related:
-  - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
-    excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
-    publishedDateTime: 2020-02-04T11:26:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81357/veridium-rolls-out-facial-recognition-tech-and-behavioural-biometrics-product"
+  - title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
+    excerpt: "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr"
+    publishedDateTime: 2020-02-06T19:08:00Z
+    webUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition"
+    ampWebUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
+      name: The Hill
+      domain: thehill.com
+    quality: 54
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-  - title: "MediaTek introduces new smartphone chip system supporting biometric facial recognition"
-    excerpt: "MediaTek has developed a new chip called Helio G80, which is part of its mid-range System on Chip (SoC) product line and close in performance to the G70, with image processing capable of object recognition and facial biometrics, writes xda developers. The G-series assures enhanced performance in mobile games, while keeping prices low for consumers."
-    publishedDateTime: 2020-02-05T19:42:00Z
-    webUrl: "https://www.biometricupdate.com/202002/mediatek-introduces-new-smartphone-chip-system-supporting-biometric-facial-recognition"
+      - url: "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg"
+        width: 980
+        height: 551
+  - title: "Springfield City Council: Moratorium on facial recognition will protect residents rights"
+    excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council took second steps on the moratorium on facial recognition technology at Monday night’s meeting. Facial recognition technology has been discussed for months and has been a polarizing topic between the City Council and Mayor Domenic Sarno and the Springfield Police Department."
+    publishedDateTime: 2020-02-04T01:38:00Z
+    webUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/"
+    ampWebUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
+      name: WWLP
+      domain: wwlp.com
+    quality: 50
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/05143300/MediaTek-smartphone-chip-system-supporting-biometric-facial-recognition.jpg"
-        width: 840
-        height: 500
-  - title: "How smart kiosks are using facial recognition and predictive sales algorithms to bring a dose of humanity and hospitality to restaurant tech"
-    excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience. \"Our ultimate goal for the software is to create the most hospitable experience possible in a digital ..."
-    publishedDateTime: 2020-01-28T21:42:00Z
-    webUrl: "https://www.nrn.com/technology/how-smart-kiosks-are-using-facial-recognition-and-predictive-sales-algorithms-bring-dose"
-    type: article
-    provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 4
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
-        width: 770
-        height: 400
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2019/12/e671a7d8ab384861a2630c67ee570f95.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
 
 secured: "MjwqSxBjJxnxhRjPw2hJA7ck1GCWZgtEaKvjBYGxgkZidluyHSueMpXux/y3e6rnGO1eIZcmfXvZwCiXvTFby3RukM60gAaIrlzTRmsbjmyiMY3HlS+yG8dUtFqzcooyj98cjAKLAbWLJcfZRcN7/1gspm/rIkpb1rhHpASX+pvmvpZqY657ylI4E4D/KMW0+agdQ7b/cKll4YUfPtqN5vKXgpvAYO5+FOpgjGVxLCRWvipi8yEtvGnUPEx1nFhZqKmoam/P2+KW5j8liW7hlRPBPDPr227BQS2JRF1k5KlakbHAXGvVNOJ7RxNzriDQsth6dAuxybX+Z2jaO2XH7LQLDLDdvnEAvMAcGdKQBV979wj+sDumO6pmb+D5kuIbAWdt1+ffGJzmIME6p39zEUEHnCgKAAYpuJGqdaoQFfR8hjW5enBldPEPBwH+z2GKH0KJ369g+uM6hCXBTuI10SjkrbXlabkPfanT7KhIABc=;s69ZBXWvmOIRngtSJWorSg=="
 ---

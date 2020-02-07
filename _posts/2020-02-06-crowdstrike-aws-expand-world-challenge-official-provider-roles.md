@@ -8,8 +8,8 @@ ampWebUrl: "https://racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-
 cdnAmpWebUrl: "https://racer-com.cdn.ampproject.org/c/s/racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Racer
@@ -26,6 +26,21 @@ images:
     title: "CrowdStrike, AWS expand World Challenge official provider roles"
 
 related:
+  - title: "CrowdStrike and AWS Expand Prominent Official Provider Roles in SRO GT World Challenge for 2020"
+    excerpt: "In forming an expanded alliance, SRO Motorsports Group will benefit from AWS’ 175 fully featured services for storage, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), with a broad global reach. Along with being Official ..."
+    publishedDateTime: 2020-02-07T00:36:00Z
+    webUrl: "https://speedwaydigest.com/news/racing-news/54742-crowdstrike-and-aws-expand-prominent-official-provider-roles-in-sro-gt-world-challenge-for-2020"
+    ampWebUrl: "https://speedwaydigest.com/news/racing-news/54742-crowdstrike-and-aws-expand-prominent-official-provider-roles-in-sro-gt-world-challenge-for-2020/amp"
+    cdnAmpWebUrl: "https://speedwaydigest-com.cdn.ampproject.org/c/s/speedwaydigest.com/news/racing-news/54742-crowdstrike-and-aws-expand-prominent-official-provider-roles-in-sro-gt-world-challenge-for-2020/amp"
+    type: article
+    provider:
+      name: speedwaydigest.com
+      domain: speedwaydigest.com
+    quality: 47
+    images:
+      - url: "https://www.speedwaydigest.com/images/jamp/page/a3510f6d4b32fddb7ff67ac85f6cafc3_L.jpg"
+        width: 1200
+        height: 675
   - title: "Expanded Roles for Crowdstrike, AWS in SRO Globally"
     excerpt: "In forming an expanded alliance, SRO Motorsports Group will benefit from AWS’ 175 fully featured services for storage, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), with a broad global reach. Along with being Official ..."
     publishedDateTime: 2020-02-05T22:41:00Z

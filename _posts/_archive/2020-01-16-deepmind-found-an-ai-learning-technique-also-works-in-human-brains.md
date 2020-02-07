@@ -4,11 +4,9 @@ title: "DeepMind found an AI learning technique also works in human brains"
 excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
 publishedDateTime: 2020-01-16T04:58:00Z
 webUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/"
-ampWebUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
-cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - AI
   - Google AI
 
-secured: "JUVB2yYF1H2koBU/li7HrFajJuAcLrlfimg1D548uvUtlBd0rVBe+zU7MaYSpgwIBl0kXXsi7atNK/EJoqPv8Y629+KT7boOUof1qUe28qWVQpqed5ITO5wSx+0oiIAp1rq7Dn1ti1b25PEtoD+7zNC1oh2x94G15Ubm+lxw8pcbZdZzW4tbm9B62WGLMmrOZvRc6AxXxPjf05WXAMPWKbf3INVXpuW4injqxptEwEeWvnBzgUSedTK6HZJS7CWUnn7gvlXofLN++z09p3pwv1R3EsXpfC4UqANKjY3IENb6vN19ZpcA7bwIz65esoQrjVAfzhKj3ZyHVF6mqjGSf8x0Fd/ARd0z+FU06rrnXwuNrw+feNO/NT9Urk0MM7k37E4y6JjIWKHyapfnhERaUwKxxKjwB9PnvHG/59I7vc132m66F9pU/l2xr74vDaAb4slX/j11aAzzENvqha7Aj5Y9yjDpusqDb3YaLTqioyw=;xRt1y+C161N8v3j+UImAdA=="
+secured: "wCpRf4tUyiUxn/MGJnS2iUJAVoBUdHutawP8t0D5BebqjporJIW+sURt39bMpdgU0PhIYNtQZbohdg4H2Jeku9KOD2BMGv3uquAV7SqLOpA/vzD7UvgAYPVbY4jr95JKieM4znUY/1I5vN3HXt8JZvKBbYKPyzjO7YAnUag87uOEDZqXlCWmoa1TIKJo68s/Pkn/xIxTrUP/EKVJX8hVpzD/PzQs52/SCgSC2Hzth6Z+mClrrHFOsMl/bMb0P27fG0/AGFGwBBf6kRGKNxqIQxPeedwaJnM+B6pIVVhk6gkPARKbbiQUvLsbDjCNnFsLJQl/RDw9VC0lQFX57Z8831np21KVhMj3mq54/kmBMJZFHw0nJt5VWCme0BWNYiQ2+QNeiekJtr6WZJo1WjsXXhEKoCXJCeiGC+Q66viBhvPw3B3nDaW9iGHB6J8+VfBCesESXZCN3S+DXA+vLPLOMJSLHmY0A2j9HzJrVYv2LYc=;ysNx+kxhski33U9xU8pxyQ=="
 ---
 

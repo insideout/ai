@@ -54,19 +54,6 @@ related:
       - url: "https://cdn.fleetnews.co.uk/web/1/root/driverless-car.jpg"
         width: 640
         height: 400
-  - title: "This self-driving car has no steering wheel or pedals"
-    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
-    publishedDateTime: 2020-01-23T13:29:00Z
-    webUrl: "https://www.djournal.com/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_6519890d-38c7-523c-b864-2a565adcb0f5.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/6/51/6519890d-38c7-523c-b864-2a565adcb0f5/5e282eceb9f09.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
   - title: "The road ahead for digital signage in self-driving cars"
     excerpt: "Once vehicles become truly autonomous, traveling by car will become a much more passive experience. And while today we're grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them entertained ..."
     publishedDateTime: 2020-02-04T15:59:00Z

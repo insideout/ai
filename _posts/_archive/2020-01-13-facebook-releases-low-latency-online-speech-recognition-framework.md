@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-onl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Facebook releases low-latency online speech recognition framework"
 
 related:
-  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
-    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
-    publishedDateTime: 2020-01-16T00:00:00Z
-    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 54
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-        width: 849
-        height: 565
   - title: "what3words and Speechmatics launch speech recognition and post-processing API"
     excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
     publishedDateTime: 2020-01-13T11:55:00Z
@@ -56,7 +43,25 @@ related:
       - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
         width: 620
         height: 500
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 34
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
+    publishedDateTime: 2020-01-16T03:17:00Z
+    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "6Dpg7HL8MajAsb0xOKA/zpvJZqZQtKiKRJJkAd7L4uVXGe+omgpx+LsTcDSZIKu3LXaUt2XSAlGvhpMT37qa3XEln6ELevCpGJ4HXvc/6t+Gkv1uqlBLkwjIT0oTelR3ROLhpz3/feSAn3/7U2Ci5g0fBKn32LpgCfbAWhujhoWfBaDkYeu98XeBR5lzxMjYvuOGScEyH3Pblbj+8cpr9NJU2wdrCDrOoanZ1GRugvWjbvX91GX4mXDFUiukiwkrwfW0GKzqaEP12pAWFTskAtd2HpbCo/o05NFuyMwh99vifRUn/+vQJShkv/3IaduI;Ttme5zURlAOfX0ALyKGkzQ=="
+secured: "miCWGrVojYNgOguwOlt/HJWgC55faNVHmbRU81qhbX9znUAK8BKCZTxo+Tf9223rTIpBeTZDbiSpZ+8eU8StVPvfjvSHu7aARL3j5883/0ylj+S+BdXu06EEt9BcCNFPsQUndjKrW+mMLbydAxwgyiP6+BsSRP8TrcStB1jgEHPsP7tbG821YjIuxVptO67fhb0lCqA+wmySLE3qM42fLAVhawU73Cq6lw8tmUr0zXVZt3MnaGh9v3VBiaxz//mEwZBTJU+wT2SZNGr8Nyznr+jDS9AHMPrnem8DQAOg8HTHiABWLZnaaOLKwQMWO6bz;4FXRihq5RL7mDMOxdDZ84w=="
 ---
 

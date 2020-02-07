@@ -4,10 +4,8 @@ title: "Baidu partners with Wind River for autonomous driving technology"
 excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
 publishedDateTime: 2020-01-08T11:12:00Z
 webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -24,18 +22,12 @@ related:
     excerpt: "Nvidia has partnered with Uber, Volkswagen and China's Baidu in driverless cars Uber will use Nvidia's graphics chips for the artificial intelligence computing system in its fleet of self-driving ..."
     publishedDateTime: 2020-01-08T15:55:00Z
     webUrl: "https://www.cnbc.com/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
     type: article
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104932964-GettyImages-609845726.jpg?v=1532563704"
-        width: 1024
-        height: 601
+    quality: 64
 
-secured: "paDqfw7lirlLgSt76FDGvvYzHj+vphMgvTrDt+Y8n2zwBylTPjNUCKLtKfYEA6g6k65sfJiZjNb9KCspAv7Pvo80RdoYv+CJO/v8w9GY2hzeEcp0Gf6CjPsiAIg7O+AKdOooouAIel0OW814M+OhSwd1lIHn/BdGGP1/gNV7TGGqmcLcSNQ+x97gVopflwJ9N5+jpZcKsmFM9vFuYHnDMGgsx8f8pU8KDA2/YjvpNYVLZSmPgDWU0drzpwYvZLWnfQsqZpwQti0nFBxQzurkUtzMIbUFnf978Em17udC/g93Qik1g4mCWNDqiRVsyxTy;aTHJvu6JQQCO2lwwBfkL8g=="
+secured: "WylCbf0p7rd0Jv4RyrDEQOkVNXIpgFPlx6jmvf0AdB1K78QBQ3kDiTEt7nbJ4w6krvbvleqz3nIgMrWfL37z8Yqb6kWb5xk9U6SG9XeslK2TD4UwPiVltHGZqCQjvNTAuSlCnF+H4vfAgJ3BxfSFbUph7b/2NBCbdg7kOgWv2O53IxW3+eRq/Ghm8lm3/NwIVexGVBnWCtDIyaqeI/Ek0X4E5dpscE2JqssfQoW0oAQz0qMflouU5OU0UNMt8ER68R/6EsOEUKO6KkIFLRmgY12/02ZNKV4EDDmpuRykK4O7rsp1XXQaP2qbkT5Gvu+q;FQ54k28vX2ukes5VaY8Fqg=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Facebook has announced that it will be making its wav2letter@anywhere 
 publishedDateTime: 2020-01-16T00:00:00Z
 webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-    width: 849
-    height: 565
-    title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
 
 related:
   - title: "Facebook releases low-latency online speech recognition framework"
@@ -52,7 +46,16 @@ related:
       - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
         width: 620
         height: 500
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
+    publishedDateTime: 2020-01-16T03:17:00Z
+    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "XlyZJwnytvyJ/V1xxRQlab5tUK4hZMF3uLRnEeuHiJP9DZg6EAuoPVAxoKzYGzQsgcOPUgEcGqG9FpvPdH6B7kJ0Esi4b7e4j2X1HHO4lrXi4x5+DGfrCi+jRjxXql+WParfHh5b+768Uz+aBoJghFyzotLC+JNo7oGpY/J4DhryAdVbHz9AO/9T1U1YiK8auZrtqqxVmQaVTdq5KwIQVLnxrpgWaJybBOXh+Vq+TVjCarfkttfJdwZU6SzN5CY/jYOwuFks6EQxjNQyt+I6bfN4PjQD3f86GvJwgQiRKr9GUtPkVgDvYFaNvUSRX1Um;MacP3ZY2+g1D3TTQpGztHQ=="
+secured: "bSsRkQ60rhUskH5RLvZEUKo0HPaUgMuMfHNORi2EC8+nRm2kOeVOcXgfNNctxniK13SZ6arHiD+ylyuEJMyojHzFbK9Whcce35zY++nRHr/4GXiUWGJpFursXz24sOLLSofgaA2dHRsUsKZQTMDAmN9XSF6UQxtTJgn7k8ftqZ0Fjxuc6oChPXjYPAKRb3TL/+C3n9Beqsos+QcLvJMLfs+UHEC7BVkqyQZlXPExFuNV47jTw2kFK9QA2qmht39Fcjl9OgHHD2QxktMtFd2LhirreslrRdnVYEYKB7DYvDNvbhkGYatXbUhUmoFpyKv1;4GGuz/m7ZbIT0V7bXk38iw=="
 ---
 

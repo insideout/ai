@@ -5,8 +5,8 @@ excerpt: "ESCONDIDO, Calif., Jan. 21, 2020 (GLOBE NEWSWIRE) -- One Stop Systems,
 publishedDateTime: 2020-01-21T12:31:00Z
 webUrl: "https://www.marketwatch.com/press-release/oss-expands-ai-on-the-flyr-product-line-adding-pci-express-40-expansion-system-with-eight-nvidia-v100s-tensor-core-gpus-2020-01-21-81843117"
 type: article
-quality: 58
-heat: 58
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI Hardware
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "OSS Expands AI on the Fly(R) Product Line, Adding PCI Express 4.0 Expansion System with Eight NVIDIA V100S Tensor Core GPUs"
-
-secured: "u9jTv5O9ftF4odoKHNzZNHwT4Ku/LS6MTvBuR++b34vppSOdnpd9kOVP0jn0wBdQhyTqXFXYucj1i5Dolj3H6cGDj4vDuAQFG+U3bYXBhmFtdfV7FypZ6c/GEoJLOOlHcKST1E5rUrckix7isd+samVgrQfBbJSAdAFfjikh0htHtcjF2jN+2s6i/aowEiE2TCnpbm4EYSw3dkQv4OcSdXvCKsrJQw4U6osVG0kNPm4bGxUj8k5c2SxxunN2NPapCOlHzpCQvw+jDarMHSvIuTL7hkO4VPfUiMPjQc68aJB1//3R95G+mAl4tNqKo1/h;Q03q/n+XL+yIT3ipTIG0Ag=="
+secured: "FxH+Wq/gdO2Tr4E4dTqWnbP0Kp6dLu8yEbZu8LiWNYn067EUvu8J7uU+92TSvAWlIMwQ86tPdBFzgoJ5Eb7weK6c2wkjWKk4MF46uj38rBsri4YpoXx8DU0jlklEB1ieKdgzEsPd2gsfnzzXEQYQP4OsPJhhAKkb/R55y3q8WkV0OdfWxcdWkuONnjqDQQsrdsSA3+jvYwNetvuqLCXGlMH0l9NEAXPomC2gfR342gpZ8bR6LT9bGDE1uBD5ybylP0biMo4ImXzGuJ7xQ3wzFGoKTKFCSENw4PylC04sT0ecnLpktpTnVo05nFJX80Bk;VKhf8S/dsuNxSWmq0CCRBw=="
 ---
 

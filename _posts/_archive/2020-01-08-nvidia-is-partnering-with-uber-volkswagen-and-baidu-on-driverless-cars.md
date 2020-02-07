@@ -4,11 +4,9 @@ title: "Nvidia is partnering with Uber, Volkswagen and Baidu on driverless cars"
 excerpt: "Nvidia has partnered with Uber, Volkswagen and China's Baidu in driverless cars Uber will use Nvidia's graphics chips for the artificial intelligence computing system in its fleet of self-driving ..."
 publishedDateTime: 2020-01-08T15:55:00Z
 webUrl: "https://www.cnbc.com/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
-ampWebUrl: "https://www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
 type: article
-quality: 104
-heat: 114
+quality: 64
+heat: 74
 published: true
 
 provider:
@@ -23,25 +21,17 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://image.cnbcfm.com/api/v1/image/104932964-GettyImages-609845726.jpg?v=1532563704"
-    width: 1024
-    height: 601
-    title: "Nvidia is partnering with Uber, Volkswagen and Baidu on driverless cars"
-
 related:
   - title: "Baidu partners with Wind River for autonomous driving technology"
     excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
     publishedDateTime: 2020-01-08T11:12:00Z
     webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
     type: article
     provider:
       name: ET Auto.com
       domain: indiatimes.com
-    quality: 39
+    quality: 19
 
-secured: "c20Iun/Wp6wmC+3534lj3WyMuAuQA9kFxdGt126a6+J8UeRwobVWtlIoAN9Sa0YrHieQp1JR2KXoIwx0DWtWeA6RPkrIw0treJY5N1QjVhQ4xgEPM0IjwTgggMRt0mz0xx10v150hKzdisbbOd7De/SIOKdrOOPxxpbNnNJJ5PJIh8/X+Iqs3EWurrgscPPCTI67dlbmjDhPMtzhR0SW/P9aaN25DO1J4drLTVD9HaVXeJV0yf7/Xurb7AS/j+30qH089Vro4GmJirhXZD6fkDYNVSSd4vwaBqCJIkwpB+SRP5Rg/BEhmFx+oz4cWIBU;imT2+hvHkqubMEf0z+AVHw=="
+secured: "n188c/d7wmsdi1uvY47tMAQTw1Hb6wjkPCV0V7+Ynmy9cfnj8ANwYd+MzzcemMVaSzWgjLm41gp0A4z4/g3dieGhHPoa4Q/2s4fzDbPhC1mi/qquMe/a2DiHNNhQSwcjAJJGwJJEJryAi1wIOwBZImpcvtMVcIYPuM8U5IYosuHhCHaG8xX4RXsl5jZX+r7pkpDGl4YZ0UBoeh1l1vCjlcgMBWM2b3aM6sQnJAbBMJu37wDmgkT4lI9ArDyl9rym6ztuZLhJyhMyHhy78OPcBrWn0Pdp9nkUofIDsi2/v76+gPgBV5Nwj7FT+ZPf2Hie;CykNCbaWbiEpF41I7sdGZQ=="
 ---
 

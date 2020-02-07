@@ -18,21 +18,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Could Ontario police start using facial recognition cameras?"
-    excerpt: "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ..."
-    publishedDateTime: 2020-02-02T18:19:00Z
-    webUrl: "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras"
-    ampWebUrl: "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp"
-    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp"
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 59
-    images:
-      - url: "https://postmediatorontosun.files.wordpress.com/2020/01/surveillance1000.jpg"
-        width: 1000
-        height: 750
   - title: "Facing facts: Reject a blanket ban on face recognition"
     excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
     publishedDateTime: 2020-02-04T09:00:00Z
@@ -48,77 +33,65 @@ related:
       - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
         width: 1200
         height: 799
-  - title: "Springfield City Council: Moratorium on facial recognition will protect residents rights"
-    excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council took second steps on the moratorium on facial recognition technology at Monday night’s meeting. Facial recognition technology has been discussed for months and has been a polarizing topic between the City Council and Mayor Domenic Sarno and the Springfield Police Department."
-    publishedDateTime: 2020-02-04T01:38:00Z
-    webUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/"
-    ampWebUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/amp/"
-    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/local-news/hampden-county/springfield-city-council-moratorium-on-facial-recognition-will-protect-residents-rights/amp/"
+  - title: "The Government's Nightmare Vision for Face Recognition at Airports and Beyond"
+    excerpt: "The Department of Homeland Security has a scary vision for expanding face recognition surveillance into our everyday lives, threatening a dystopian future in which face surveillance is used throughout our public spaces to scrutinize our identity, check us against watchlists, record our movements, and more. Work on building the infrastructure ..."
+    publishedDateTime: 2020-02-06T22:51:00Z
+    webUrl: "https://www.aclu.org/news/privacy-technology/the-governments-nightmare-vision-for-face-recognition-at-airports-and-beyond/"
     type: article
     provider:
-      name: WWLP
-      domain: wwlp.com
-    quality: 50
+      name: Aclu.org
+      domain: aclu.org
+    quality: 51
     images:
-      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2019/12/e671a7d8ab384861a2630c67ee570f95.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
-  - title: "Police Use Of Facial-Recognition App Comes Under Fire [POLL]"
-    excerpt: "One attorney general has prohibited police departments from using the app. Should law enforcement be allowed to use it?"
-    publishedDateTime: 2020-02-01T14:42:00Z
-    webUrl: "https://patch.com/new-york/yorktown-somers/police-use-facial-recognition-app-comes-under-fire-poll"
-    ampWebUrl: "https://patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
+      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
+        width: 1200
+        height: 630
+  - title: "Should cities and towns ban their government's use of facial recognition technology?"
+    excerpt: "Facial recognition is the most dangerous surveillance technology ever invented. The world has never seen anything like it. It makes snooping and stalking easy and cheap. Left unabated, governments, companies, and individuals will use it to watch us everywhere we go. Dystopian as these outcomes are, that’s not all. Facial recognition also has ..."
+    publishedDateTime: 2020-02-06T22:41:00Z
+    webUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
-    images:
-      - url: "https://patch.com/img/cdn20/shutterstock/57069/20200131/021240/styles/patch_image/public/shutterstock-795306157___31140558320.jpg?width=984"
-        width: 708
-        height: 531
-  - title: "Springfield Mayor Domenic Sarno vows veto if City Council bans police use of facial recognition technology"
-    excerpt: "SPRINGFIELD — Mayor Domenic J. Sarno said Monday he is poised with a veto if the City Council votes to block the Police Department from using facial recognition technology. Sarno said the technology, which is not used in Springfield yet, could someday aid in the arrest of criminals and enhance public safety. Citing the recent abduction of an ..."
-    publishedDateTime: 2020-02-03T19:05:00Z
-    webUrl: "https://www.masslive.com/news/2020/02/springfield-mayor-domenic-sarno-vows-veto-if-city-council-bans-police-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.masslive.com/news/2020/02/springfield-mayor-domenic-sarno-vows-veto-if-city-council-bans-police-use-of-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/02/springfield-mayor-domenic-sarno-vows-veto-if-city-council-bans-police-use-of-facial-recognition-technology.html?outputType=amp"
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 32
+  - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
+    excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
+    publishedDateTime: 2020-02-03T22:34:00Z
+    webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 41
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 28
     images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GNXD2DF67BAWFK25T7SGYLMFAY.jpg"
-        width: 2127
-        height: 2072
-  - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
-    excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
-    publishedDateTime: 2020-02-04T11:05:00Z
-    webUrl: "https://www.wymt.com/content/news/Hardin-County-Animal-Care-and-Control-adopts-facial-recognition-tech-for-lost-pets-567547981.html"
+      - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
+        width: 700
+        height: 394
+  - title: "Doha Bank integrates facial, voice recognition into app"
+    excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
+    publishedDateTime: 2020-02-02T19:02:00Z
+    webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
     type: article
     provider:
-      name: WYMT
-      domain: wymt.com
-    quality: 33
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 26
     images:
-      - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
-        width: 690
-        height: 388
-  - title: "How smart kiosks are using facial recognition to bring a dose of humanity and hospitality to restaurant tech"
-    excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience."
-    publishedDateTime: 2020-02-06T17:27:00Z
-    webUrl: "https://www.nrn.com/fast-casual/how-smart-kiosks-are-using-facial-recognition-bring-dose-humanity-and-hospitality"
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
+        width: 620
+        height: 355
+  - title: "Readers sound off on face recognition, Cuomo’s budget and Biden’s stutter"
+    excerpt: "In the past, the criminal justice system relied on eyewitness memories, which were often not reliable at best. Now with DNA and facial recognition profiles, it’s almost impossible to convict the wrong suspect. Yet it also brings to mind the book “1984,” which was written to show the abuses that an unrestricted government can bring upon ..."
+    publishedDateTime: 2020-01-30T08:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-letter-january-30-20200130-ng2fcp7wzjc6jpttdx5mdmhmti-story.html"
     type: article
     provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 20
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
-        width: 770
-        height: 400
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 18
 
 secured: "jZRyJRvi5/Ez2ErEdKLhvVnZvEHbvcO9stuDPB9eLmy+lfXEsPqH8+9b0N7O+SRE58bTiJSYaMyg+Heh89EVkI4UDI+o48xUf6IkwADqEE+viT+JfMSI9FSbeZK3yyFxO1nJoWAn3znbD/RTKf1lioDEEhc6r2tXQSMxiqPXdYbgJcxIkbg8TC8qRb9TxDC0AR6+FcX1Eqc2mZ1VOWntsAzdwEvC/5FAm0n+6vQMQHOjl+vYchkSCVmJWe8xjG3dpYHVK8siGpzLuPH6+KUEoJ4gKuP+MP8+fdDpuI+mf8ctEOeIx+tp7NhwSBmjizy3g1AiZL5QIVtGLW6PkEM7C+gWYDF4aA0oTcMzo5Bnoqsh3l533+b02Do4nBIzUiEZMvQ0lvCpBYZBYf7KH2pe9cGlrBWlx90+iDSFACg0X1UwkzAWm2EMj/q1c//dpcnQF2lt4LLshOK6vCEcv2MJazh1KvqcIys83Rpd0xoapts=;hQeW084cmKcv43VEqaEDJg=="
 ---

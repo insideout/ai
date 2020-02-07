@@ -4,12 +4,10 @@ title: "Facebook Invented a New Language for Machines to Solve Complex Math Equa
 excerpt: "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ..."
 publishedDateTime: 2020-01-15T20:29:00Z
 webUrl: "https://www.vice.com/en_us/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
-ampWebUrl: "https://www.vice.com/amp/en_us/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
 type: article
-quality: 71
-heat: 71
-published: true
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: VICE
@@ -23,12 +21,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*"
-    width: 640
-    height: 358
-    title: "Facebook Invented a New Language for Machines to Solve Complex Math Equations"
-
-secured: "5tjU8Tj5+HHeGBaKlUFL3ztIj8ATqLxGAVUKibHb0BZcnioG9KqyWd2mIjRIeAjXGDLEpOPYe78va9SHSi2VNc0cnLEpFZ0YRJ0EJTFyE/ZsgjGjyEyS4EcNcB+j8WBuh6I/y5RFsVCX3NDpCisp54hyp2YBgR6o48wiD0XJo5hV+PZxmXRqSZR4kSxhFQRv34DZ3H4vlGtUD+yekwE3qRYTENYQPPllc792pTbxZ87LZi81Il7QfWlWZFFb9n74OlR6e3yLeY4CLBsz9jVI7To2VuFbv0oJCaQTYpWcs9rY/7O238YPu/uUMRIzNTH3;7+ZM0svfjAkPl0x6PXATpA=="
+secured: "jXX1zckpYKK1AZYXvwMtx7uP429K3ieozzQbd+nbIMvbocXJ+MF4wx5p8PnyYCSPMwl4gcB59cVAoiXkOMNMJ5xHm6Ter9YU6ElfadSEJcwJQcu/p/keNZVAD3tYwu3QryJ2nnPCVKXcWTWSaJ7o9/fWh23GNZjcuNpG5OVMweAEuUILVq/rl7uJ34AMekN7iXr9IQXFHPzgbuTOVAhf6l4sbOWE1tFqcbyNRo5IXxF5JfTemVLJhdWRJb7LAy0OajdFUNhRu9+aDMWKxTA+yvP6P8AacrZbtHdLZaaXlqiSv1zRV1HterxOLouLCdpt;equCIJp3efqKjKLvOKpRrQ=="
 ---
 

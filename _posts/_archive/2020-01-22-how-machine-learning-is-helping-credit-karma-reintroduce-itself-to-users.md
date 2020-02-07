@@ -4,12 +4,10 @@ title: "How machine learning is helping Credit Karma reintroduce itself to users
 excerpt: "But it's only recently that the company is turning to machine learning to make sense of hundreds of billions of data points and deliver personalized insights and recommendations to individual members at scale. When it launched in 2008 at the height of the financial crisis, Credit Karma's primary service leveraged credit report data to help ..."
 publishedDateTime: 2020-01-22T11:00:00Z
 webUrl: "https://www.zdnet.com/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: ZDNet
@@ -23,12 +21,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2018/07/26/04dbf63a-2aa4-480b-ad61-5d857987ba31/thumbnail/1200x675/8929444376cb1c585bcdc20bc3026ca3/creditkarmathumbnail.jpg"
-    width: 1200
-    height: 675
-    title: "How machine learning is helping Credit Karma reintroduce itself to users"
-
-secured: "N/mk1bY3Qna2HaZp/9xS8IAcZEt3pR6rtktLY/RK+q4GC43M94k5xyQRaUHH293D4z9PNIxopv+GObK4LN7x2hq8EOacCObPXjX+xfOreJzULcOl6vh7ytvuWYG4h91htAZDukWdCMSssfdWzAOILdhYuaJ3O9aURmtMb/rXRISciCF3xQ92T5wENyFVTmOYznxl7yNqoKzwXf/MYduy3cVaJFjNCdTevIPfuLIwd9xdjIL3d1sp/LJei+/agNstKs7UvyBprSH/fiNpcsU1uXXikXg140FWcwbkOkeGm8BaXSPyzlte2EUH0yrmhiag;9spPUnpJ18fpS+pHKltrXw=="
+secured: "aH05MEXB6tR7lC6JjPaRJh6ibitXG8P8VMqZD2uR3Mp2Lr30H7P1mHAPiBR1TYvweD9TJHzAY69pYHbiQxByT9KiNUn2ZTQtxaHGsVvlGDZKzNdgErTuilAiaikQxTQXl/t1VIjA3SOwluU1JWBRKeUbBBODnhwTRPk3sM4Rb1XfCg463n2ej2HDPllQN7r5GsIgh+ZOc4mqfrJixtYTcOc3/5Nt/fOF7gRe6oC3SbzOoWXPwW0bC0tcZpm+2ifr1qUSnmelWJ1kn+rqIUjGHiEycY9mkEfVuqMvQAClAP1nw2oZ23JgJQCcli6L6Fu3S8nQDsXOm9rfH/RN0m8V79yq9z4NIY6vOToMC+CXNU3hOOYDkoFJ1QCbuI4kfIbJ/cUO0JXPBcWATFmOEMV0Zv55Tqqt6Vv4U4CDcDXf4Lc4HTlpD+ZnV74odrMmzUD/tS2w09TZmdJNj9uz/PlHOVx+9CjVfmW46cllAaQ+2Eg=;Q2qnCBr2MH7VcCBn4by51w=="
 ---
 

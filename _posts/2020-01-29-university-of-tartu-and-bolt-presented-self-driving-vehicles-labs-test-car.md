@@ -78,6 +78,19 @@ related:
       - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
         width: 540
         height: 420
+  - title: "Rules eased for self-driving vehicle"
+    excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
+    publishedDateTime: 2020-02-07T06:44:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?business"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
 
 secured: "YaFqVozr+Qff+LlBuCCzyEUY6JcHsWD33MRNnha5QoP24KDa6xkiJ7/uAVB1lj2hIM6RHwioXWO1UJ1soryZ+25k2pfE6pxtqqiqaGG3qBrFyTwRMcjSFWMQVlIlkV+zc56misaQhD5KW/7SR6n2aLoOQ8+tHtD9c+TWJ/Z3ZKoJzevFuTZQ4y2gr3IpSTmQ/yxYhfLfV6ODYhBHzyDbLpco6GtrDsBB4ZnAJSttRgcz6rr8JIi83S4jXV65GW9viz4ieRVuc0ilk7dzR3VDtuIpdYma9C+tNCi+gibWcl6WCepEftxkUJp4YCCaApMR;vXxOoBjXWGLI6QnqT7tUkg=="
 ---

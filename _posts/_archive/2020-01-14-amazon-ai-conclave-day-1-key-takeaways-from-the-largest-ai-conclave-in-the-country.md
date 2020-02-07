@@ -4,11 +4,9 @@ title: "Amazon AI Conclave Day 1: key takeaways from the largest AI conclave in 
 excerpt: "twice the customer references and that eighty-five percent of all Tensorflow-based projects in the cloud are running on AWS. He also referenced how Freshworks, India’s locally grown and globally ..."
 publishedDateTime: 2020-01-14T06:42:00Z
 webUrl: "https://yourstory.com/2020/01/amazon-ai-conclave-day-1-key-takeaways"
-ampWebUrl: "https://yourstory.com/2020/01/amazon-ai-conclave-day-1-key-takeaways/amp"
-cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/amazon-ai-conclave-day-1-key-takeaways/amp"
 type: article
-quality: 53
-heat: 53
+quality: 13
+heat: 13
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://images.yourstory.com/cs/static/default-ys-image.jpg"
-    width: 300
-    height: 300
-    title: "Amazon AI Conclave Day 1: key takeaways from the largest AI conclave in the country"
-
-secured: "pSxucvTWyh96xVqVjtDcYhQXhQTVwBQoyK9Xnbj8LAsQeLZJ2NSbNbBOBatVEe96NkwLO4tDgX0VFoUxxiLIFJQrqlv1LWcOEfPPqdO9RFzox/64COGl47rJMwxKdm+RUyKCik/qPBS6PwQB7HScQkISzX9Horym9upg7sK5q4vn6aUreQRgmDVB0yyiFW6UDn2Az1IlX2ld4j8bn5McXWyLXGT2sMHC0B3ykCa2i8dOg5rsLvYJecxsHhAEZm/brzKREaGGTNaqSZJ67tNpzJHWYQfl8/+Zc8VwvpLkpJoLhCk3SFotHR5wSkhEnG4X;8bK8YrRagZEisvW0rCaWqg=="
+secured: "cYTRKw5SWh2w3Pjqn8bB1T6JzCrem2WQFzUIMO7xYl8X1Ph1J++xY6/ZJTL+hVupIojP2MHvtAZN1LzNWzycNQ1lfuf4UiCEhNFvCrmRKyMXLFg9gZyMYkaWCgUraKvrpEkTLx2ewFKlbWZiziOQ1PlZnEpTI22O4AESqRolm8JzFz+Rv7AJVoV35EI5O5UkVfnmt5Y05TA3yfEPl9ULRCcuITitUl70u2/QePhXHBJPtx+2XD6vXofT2rvFaKxAuHlPgFSyn/t82uxJS8v8aW1t4Vv1IEp7xfoNDcAjuIeWqiNvI6/D39qfjtAl20w4;AQiwyYio39l+R0gtVNuQ5A=="
 ---
 

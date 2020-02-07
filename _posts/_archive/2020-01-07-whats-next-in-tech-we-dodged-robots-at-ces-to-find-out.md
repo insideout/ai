@@ -5,8 +5,8 @@ excerpt: "Among the robots they will encounter is the Charmin RollBot. That's ro
 publishedDateTime: 2020-01-07T00:01:00Z
 webUrl: "https://www.houstonpublicmedia.org/npr/2020/01/07/794036996/whats-next-in-tech-we-dodged-robots-at-ces-to-find-out/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://media.npr.org/assets/img/2020/01/06/rts2xbuy-b4c5c61a3622ac079bc34126ffc2e1a5a87e0519.jpg"
-    width: 4702
-    height: 3526
-    title: "What's Next In Tech? We Dodged Robots At CES To Find Out"
-
-secured: "3ggcoSB8lKVkyszvw94NRdW8pzDR6aclzI1W922SZUCBIIrqpXIubVEVAk5Dm6NuReyzF5hJl++rtUeShoopr6J27Lr+ZIk6zyfoLxqWB+sy27jRn3mtflE5nwTxx+IcxWjn61FDt2CVolT3Da9PGesG9UQm2M1YAhTiXlfWP5QS8vC5teO9qXssyFslmwwczlnOuyMI8p1FZ9J+vUPY3szH66PwROqDz35cjHgC+e7dqY7ZLeJgdSHh8sSl/AkHRfn9KaZoiXUtskp4dwZ4nRb7jFoW9FSZI9NGFoWh2zoX+XKOJILJN54rtJvfEU/D;ccG9tlGrHlTi13DSMymTEw=="
+secured: "GWBVgVCrFd3lovYqwI0oJgp5ludY9//ci+vRKgj3SAMfFnFpySjsusv+h/gJb+9mOCuzPehnzO2jcKLaqKyNanOD1/Ind6Y7uV8Z9QyfcWEyzO3v7atN010IJijqMdb704BK0+3P32QQ5E//nh+Sy6mg3wtw5Vs1Ox2If6hZqDIrAuRBNo14O15EhrqH81EJyZ5nwvkPS2jlYbKELxGeK8m1BR+Kn0qtOcNic3r2YxHSGf7Eq99kN/miXe9fOFQNm23tPzsKWMkebuFD8VpPEYIoszHXEA9IvtQQ3hu1D6rpJcgSJIXXspFuZEX+7KrD;d/HdBYvTpyMWZUc9UTsABg=="
 ---
 

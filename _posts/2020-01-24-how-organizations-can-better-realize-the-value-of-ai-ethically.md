@@ -50,6 +50,15 @@ related:
       - url: "https://sourcemedia.brightspotcdn.com/dims4/default/280a84a/2147483647/strip/true/crop/3319x1742+0+235/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F84%2F99%2F45d868ad4c9e98dac6b31095bb62%2F348774751.jpg"
         width: 1200
         height: 630
+  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
+    excerpt: "\"The combination of containers and Kubernetes enables faster, more agile app development and facilitates more collaborative cross-team app design and development across organizations,\" Melanie Posey, research vice president at ... developers to easily work with other popular AI frameworks, like Facebook's PyTorch and Google's TensorFlow."
+    publishedDateTime: 2020-01-31T14:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/developer-technologies-digital-transformation-tech-companies-2020-1-1028863737"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 20
 
 secured: "P3L1T/thfXDZ68GWxIJiNkpZZTWN1wxHx3FGFIltctzB9bzHZqmkd49kiKpIMZosFkoxNyTnLkzF/iT3H/zYbP2/vgbcOpCgSeaPCK73VZjDg+XwQG2gqjRTB2Hr5MIhdBMCO1/rl6ERe1OdahuhfaQAWRj1M8nEn8HUXuUOtI3pMs7Je/x17NTM+8wkkDWFUJeapebaC9SngdvSkMwqNf9je9WV7wtEo0DnqVJLKRvVngs9Dqo8gZgnStS+12Zl1MpLKmves98HPZJp8sQs0lb4/PCeUA+stX52RY6db7sX/pct4XRcrrMT273u5XhWTeLukItnF46UKVC2VAZHD3jtuFbBCv1WwxsROOgEV7EXLEgkBissaxyY6c6DZNECgafyKRtRLmSwUwc5YzE8TIk1T7xI+jOWBjyo7VHPAOZCtKeizL839zZUDajlZyG+YorrZrRg6bCSc1pY9L55zDKLsopm4++bYs+JwuqhB9s=;jEZU/B3tgxZ/iX6HE1YUJA=="
 ---
