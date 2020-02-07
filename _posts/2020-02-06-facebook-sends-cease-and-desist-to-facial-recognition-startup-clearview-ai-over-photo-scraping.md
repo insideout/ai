@@ -250,6 +250,19 @@ related:
       name: San Francisco Chronicle
       domain: sfchronicle.com
     quality: 37
+  - title: "Facebook orders creepy AI firm to stop scraping your Instagram photos"
+    excerpt: "Facebook has told Clearview AI, the controversial face-recognition service that works with law enforcement agencies around the country, to stop using images from its networks, the company confirmed Wednesday. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using ..."
+    publishedDateTime: 2020-02-06T15:15:00Z
+    webUrl: "https://www.fastcompany.com/90461077/facebook-joins-fellow-tech-companies-in-publicly-opposing-a-controversial-face-recognition-firm?partner=rss"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-facebook-joins-others-in-contesting-face-recognition-firmand8217s-scraping.jpg"
+        width: 1280
+        height: 720
   - title: "Google demands startup Clearview AI stop scraping photos"
     excerpt: "Google LLC-owned YouTube Wednesday said it has sent a cease-and-desist letter to Clearview AI, telling the startup that it can no longer scrape videos from its platform. Clearview AI came under scrutiny this year after reports that it had been scraping videos of people on social media platforms and then adding faces to its database."
     publishedDateTime: 2020-02-06T05:46:00Z

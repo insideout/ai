@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facil
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/"
 type: article
 quality: 89
-heat: 113
+heat: 109
 published: true
 
 provider:

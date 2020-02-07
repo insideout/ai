@@ -917,17 +917,6 @@ related:
       name: Military.com
       domain: military.com
     quality: 37
-  - title: "Twitter tells facial-recognition trailblazer Cleaview AI to stop using the site’s photos"
-    excerpt: "Twitter sent a letter this week to the small startup company, Clearview AI, demanding that it stop taking photos and any other data from the social media website “for any reason” and delete any data that it previously collected, a Twitter spokeswoman said. The cease-and-desist letter, sent on Tuesday, accused Clearview of violating Twitter ..."
-    publishedDateTime: 2020-01-23T05:01:00Z
-    webUrl: "https://www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/"
-    ampWebUrl: "https://www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 30
   - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
     excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
     publishedDateTime: 2020-02-02T15:07:00Z
@@ -993,6 +982,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "C8mBb3RSFdwr28LYTblupWhHXzS9nnxdYv5icaR5GW7Z1EGQrx9H+Xf3jGUrYFR6MFYjQTprB+IXmePxNbIaOS94HHUpY0UNMN7Dh6Fr/3ugWWL63Ii/OFNblj3qli2FGh/P3SJulVVWdKDdKPU6Vko0DjfN2fE7ZNteEa5azzXdJucO/JaOzyphYIc5oQSknAv5FfyjH5zXd0jZge0XDpM+5Y+BZtbx389zbQoZLreTDd82/A6f36pHpY4mgcUwVi/pOtZtfvXmmTHMd+NU7hYnLCzKEcCXz9vb5YcxLQ/WFrNUcpyP8JTo6jrUnNJQ;OyRt/EtF5wsk5ZQmT8hsCw=="
+secured: "93r/yzC071eeP/A2Ega/Z4dCuZorgbR03sts2fHY/XNLZ9fPlLzrZJ4kVGO+CuGZHuXhKftmJbYd05VVBSm+3CYIj7CVA3VzK6TQDY7j0suWj9Gos3c2hG5Df/7CmnM+cvaEJSIBL2rjqPeRYn9XVdkRi/bMqagyGrDDGSlqW4hAFCilqXTQrbSY6/D0SLusYyxqN+pmE2qINQY42TczLVseDOunEkI30UyiAi/d3ubdq2vGaVyzUWJwxbOuKgbg/UFDjWSnp9jyw2dKAdAvYtv5NoO5Neb6GJkpcIdkZjKGqzfUxwE88xKC1X5naSU2;QkiAnUWcy0anDsyHgCHsfg=="
 ---
 

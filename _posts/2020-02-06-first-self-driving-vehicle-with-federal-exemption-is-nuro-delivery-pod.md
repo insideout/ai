@@ -56,6 +56,21 @@ related:
       - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/nuro-r2-1.jpeg"
         width: 1680
         height: 1120
+  - title: "Self-driving delivery van ditches 'human controls'"
+    excerpt: "The first self-driving vehicle designed without basic human controls such as steering wheels, pedals or side view mirrors has been granted permission to test on US roads. Nuro, the company behind the design, makes autonomous delivery vans. The vehicle is Nuro's second generation of its vehicles, which it is calling R2 and will be tested in ..."
+    publishedDateTime: 2020-02-06T23:51:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-51409031"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51409031"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51409031"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 44
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13970/production/_110804208_screen-shot-2020-02-06-at-2_32_43-pm.png"
+        width: 1024
+        height: 576
 
 secured: "4XYbwXSES6nMvg6OzpxPdf0lp8tE+fQBTp+YboT/jbwWamGFbDNTsZJisninAuKzAxAdOSnaq/m9blAy2a3cvkhHxh281rQ1hr1c1+Ybc2aDfjkekBuNPKvq2btUESgNCQ6xc50WJjuGAeHXOZhH1d8FbZOkZ191euV15ta2At5ZENBEBzrewsmJiLUArkG9r9qtAnbZgQteBvhD3+1+LtTF7OJbCyA4P9NUWwXrPsiZT82J14FVAWeAgiSi29ZnzP0or/4MJjTDff6EXmfw0qmzIH0qvXzbNeSjOoxGlv1WJSW3QctnpeD/U5pLQMxF;wAo8HUjSX+9ktznc+Q95WQ=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/amazon-pollys-brand-voices-taps-ai-to-generate-custom-spokespeople/amp/"
 type: article
 quality: 89
-heat: 124
+heat: 119
 published: true
 
 provider:

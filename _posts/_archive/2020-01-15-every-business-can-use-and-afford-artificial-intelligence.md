@@ -23,6 +23,6 @@ images:
     height: 459
     title: "Every business can use - and afford - artificial intelligence"
 
-secured: "dNmwBCri30qNKlaLaIwdr/4HXU2ideccy0FnVnz2zB3kLsDgfuk2PeYmgOLQnMg8M8GFZdM2kULMKI/G5TXKytYQLKYOVxCgTnAvvtWdgK1AipeY0KD4FtBqx4uzLnj5FDXGsX/SvI9+drrxEPHBaRNhpLJptLYER6+Ur7mYUBOLOFhFH1vdcOtZoMEBiDWwW52Tj+Vw2a3tsWf69B4W/3oiy1Pm3BXdmQcFOT+UR/DWlUxK5+QUStYI+XDL9s4uo1dme3IdQ56HunnT8CtwnuxLo63+Db34opmuOsE6UOS071ZqcIFserCkbojEF1hg;iARqcb8PMcasRRsaTSoXYQ=="
+secured: "S29rChHi6CADJnbETp7Ezg+HXeDbGPLA4dVLwKXaNtGBduQ8xC1csamInsjaL4JCVaAHaZs8k6R7zbo8tTH3yCHVtiI1PWVRAdvGlICAktmRR1t1KtdCejlivaWmLV+7Lb+hGvko3zvgcq/cs0nCmOQDfVWGsrkmQqf/DeAsa7MKbHeDtW4kjHtRoB3cSanV9XZbH2ksE4d/vnCLC3Ygj7FqTB51nEJqm0pkC+s6LHP+PAhv0mP63WYo+xKvgq1KCoTzENQlj+E5mJGQquQgaeNotm4kgrRitzzVMPHVhfbIJ5j3XjG24nqhgPY4Gf6Z;moIHh2eajk+7DqvSTM5Dww=="
 ---
 
