@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Machine Learning as a Service Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
 
-secured: "auc+SJ0AXCY6ZoUCgimZ/dBAfU9+c9LjOlHrjsr7l5rzecttxwkydwfv+A9kfifo8NhNDsnaIAPC1/VbTGFteA4PjHVCoEaYuHOFqlp8egH/OcyKEZLpGjuA6SMGcvWpd0K1i9l93meQ5fe2OrduQ0WI5pkwHSnpXvOq9oc+1nluxKsrfJULLYCIkB31Vz3BSwQwwbZNbZExduKJWBTTgLmjJfowRSwMSfdFW6D3MkdI1zCIP8or2157zjPP/nX55lWEseJ33cdiGINmKRrTK6O8z0AiyN/bjQ4K1L3xJUrjchKNDMlIN3LqUn2K1x3i;/PG7dC0j6ae5CmYjzFG6pA=="
+secured: "LGJ4zgz+JnOtq0+g0r7RWE3TGZ2SSk8w2HQwRZFb6cgrN0I14eWuNZ9nSA5FixQZVsr+Lb3N78JAefMM1V0G83nJwbkPkjj8kvw6s67g38DZal8mtVVe+Wbpplgbnx8pLcFAXRFdFJkuQtSMCl7/8tk5iGtqGIcAZfGRbbTiVy7a2dY3DranNWTRkcmTrNc4L5uUEmUQgqpjsRRRKOLvodYRaJlaUJx6oc6GJ4hvZHIpZSGjQnW1093iJwXcMFFlnNy8OxZVwH1LuFe5s2WJyn/B92fFdlotC6qBvLZG5z/aVzES58yxWUkoNCBdxmp8;/iNHYZ0tHJuDkHzABg2Vvg=="
 ---
 

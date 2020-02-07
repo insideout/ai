@@ -53,21 +53,6 @@ related:
       - url: "https://static.euronews.com/articles/stories/04/46/77/08/1000x563_cmsv2_4b54ef2d-a930-5c2b-8df2-fdd3463c9b63-4467708.jpg"
         width: 1000
         height: 563
-  - title: "China cares as deeply about A.I. ethics as the US, Microsoft CEO says, as he calls for global rules"
-    excerpt: "Microsoft CEO Satya Nadella said he believes \"China cares as deeply about AI ethics as the United States.\" Nadella called for global rules around the use of AI such as facial recognition. Nadella's comments come as the U.S. increases its scrutiny of Chinese AI firms, putting some of the country's major firms on a blacklist. China cares \"as ..."
-    publishedDateTime: 2020-01-23T12:35:00Z
-    webUrl: "https://www.cnbc.com/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 77
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106350993-1579778704338rts2ziu5.jpg?v=1579779171"
-        width: 3000
-        height: 2000
   - title: "The Debate Over Regulating AI Ramps Up"
     excerpt: "In a letter in 2017 to Congress, David Kenny, at the time the senior vice president for Watson and cloud at IBM, wrote that the technology “does not support the fear-mongering commonly associated with the AI debate today. The real disaster would be abandoning or inhibiting cognitive technology before its full potential can be realized."
     publishedDateTime: 2020-01-27T14:16:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/01/30/business/artificial-intelligence-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.amp.html"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -31,19 +31,6 @@ images:
     title: "The Robots Are Coming. Prepare for Trouble."
 
 related:
-  - title: "Reskilling At Scale: How To Prepare For The Age Of Artificial Intelligence?"
-    excerpt: "Artificial intelligence is set to disrupt the job market for all types of industries, changing the way we run our operations, businesses, and dealing with existing or new customers. New kinds of workers will be fundamental, working along with robots and increasing automation to drive company-wide AI strategies. However, it is also true that ..."
-    publishedDateTime: 2020-01-23T12:54:00Z
-    webUrl: "https://analyticsindiamag.com/reskilling-at-scale-how-to-prepare-for-the-age-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/01/reskilling.png"
-        width: 939
-        height: 629
   - title: "Forget Politics And The Rise Of The Robots, Fees Are The Big Worry For Brokers"
     excerpt: "Macro considerations like political uncertainty and the impact of artificial intelligence grab most of the headlines, but a big chunk of the real estate brokers in Europe are worried about something far more immediate: clients continuing to screw down fees. In the annual membership survey of the Society of Industrial & Office Realtors ..."
     publishedDateTime: 2020-02-05T21:50:00Z

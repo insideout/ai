@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/messy-data-is-slowin
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Messy data is slowing down machine learning projects and driving up costs"
 
 related:
-  - title: "Thinking fast & slow: New DFKI project aims at making Deep Learning methods more reliable"
-    excerpt: "Modern computers are in a similar position: Thanks to their training with large amounts of data, Deep Learning methods can deliver fast, yet incomprehensible results. Scientists of the German Research Center for Artificial Intelligence (DFKI) now investigate how these methods can be proven by formal procedures and thus become more reliable ..."
-    publishedDateTime: 2020-01-23T12:41:00Z
-    webUrl: "https://idw-online.de/de/news730408"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 45
-    images:
-      - url: "http://www.idw-online.de/de/institutionlogo20362"
-        width: 500
-        height: 206
   - title: "Benchmarking Deep Learning Architectures for Predicting Readmission to the ICU and Describing Patients-at-Risk"
     excerpt: "To compare different deep learning architectures for predicting the risk of readmission within 30 days of discharge from the intensive care unit (ICU). The interpretability of attention-based models is leveraged to describe patients-at-risk. Several deep learning architectures making use of attention mechanisms, recurrent layers, neural ..."
     publishedDateTime: 2020-01-24T13:06:00Z

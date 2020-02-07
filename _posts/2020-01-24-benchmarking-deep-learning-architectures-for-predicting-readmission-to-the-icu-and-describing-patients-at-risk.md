@@ -39,19 +39,6 @@ related:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg"
         width: 1200
         height: 675
-  - title: "Thinking fast & slow: New DFKI project aims at making Deep Learning methods more reliable"
-    excerpt: "Modern computers are in a similar position: Thanks to their training with large amounts of data, Deep Learning methods can deliver fast, yet incomprehensible results. Scientists of the German Research Center for Artificial Intelligence (DFKI) now investigate how these methods can be proven by formal procedures and thus become more reliable ..."
-    publishedDateTime: 2020-01-23T12:41:00Z
-    webUrl: "https://idw-online.de/de/news730408"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 45
-    images:
-      - url: "http://www.idw-online.de/de/institutionlogo20362"
-        width: 500
-        height: 206
   - title: "5G is fueling Manufacturing “Intelligence of Things” – Choice IoT Says Controlling Data Costs will be Essential"
     excerpt: "The coming decade will feature a revolution in technology that will change everything. Ubiquitous 5G wireless capabilities are right around the corner and with them the “Intelligence of Things” – wireless connectivity combined with Artificial Intelligence. Industries that don’t prepare properly for the new technology are in danger of ..."
     publishedDateTime: 2020-01-27T14:00:00Z

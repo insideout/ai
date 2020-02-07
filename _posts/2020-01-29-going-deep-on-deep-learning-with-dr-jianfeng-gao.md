@@ -101,6 +101,19 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2020/01/offshore-software-development.png"
         width: 700
         height: 400
+  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
+    excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
+    publishedDateTime: 2020-01-31T15:06:00Z
+    webUrl: "https://www.businessinsider.com/developer-technologies-digital-transformation-tech-companies-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+    images:
+      - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
+        width: 1024
+        height: 512
   - title: "Starship delivery robots indicate groundbreaking food delivery tech advancing into Madison"
     excerpt: "Now, three months after being introduced, these robots are in southeast and their AI (artificial intelligence) has greatly improved. They now cross streets faster, though still with some difficulty (missing traffic lights), and can navigate through more environments. If a robot does get stuck, they can be remotely controlled by a human to help ..."
     publishedDateTime: 2020-02-06T17:23:00Z

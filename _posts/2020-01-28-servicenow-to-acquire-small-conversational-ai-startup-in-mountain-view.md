@@ -40,21 +40,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1156805372.jpg?w=1024"
         width: 1024
         height: 682
-  - title: "Why Conversational AI Is The Instant Pot For Customer Service"
-    excerpt: "When you’re adopting AI into your customer service organization, ensure it is a true labor-saving device for your customers and employees."
-    publishedDateTime: 2020-01-23T12:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/why-conversational-ai-is-the-instant-pot-for-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/why-conversational-ai-is-the-instant-pot-for-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/23/why-conversational-ai-is-the-instant-pot-for-customer-service/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/dam/imageserve/1160995648/960x0.jpg?fit=scale"
-        width: 711
-        height: 533
   - title: "ServiceNow acquires Passage AI to advance deep learning AI capabilities"
     excerpt: "based conversational AI platform company. The transaction will advance ServiceNow’s deep learning AI capabilities and will accelerate its vision of supporting all major languages across the company’s Now Platform and products, including ServiceNow ..."
     publishedDateTime: 2020-01-31T01:05:00Z

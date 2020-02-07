@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Six Nations broadcasts to get AWS machine learning stats"
-excerpt: "This is streamed and analysed by AWS platforms like SageMaker and then delivered as insights back to the live TV broadcasts. \"The introduction of the advanced statistics – powered by AWS – in the 2019 Guinness Six Nations Championship was just the start of how we are planning to change the game of rugby through advanced in-game analytics ..."
+excerpt: "This is streamed and analysed by AWS platforms like SageMaker and then delivered as insights back to the live TV broadcasts. \"The introduction of the advanced statistics – powered by AWS – in the 2019 Guinness Six Nations Championship was just the ..."
 publishedDateTime: 2020-01-23T00:30:00Z
 webUrl: "https://www.cloudpro.co.uk/saas/8393/six-nations-broadcasts-to-get-aws-machine-learning-stats"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 667
     title: "Six Nations broadcasts to get AWS machine learning stats"
 
-secured: "ZFhRFPpv7YBoXQGGjOXAPRoSrivOLuKaHd/eWuJxho/040E4Rf5otu8gWa/MOL2dil/+uH/vvUiV8XD2FT22kAAfEsSVYNAVtKbx0myBci5C2LUu6QPCZVZFhvCLi/EokGz27/8PzoJr/638vnGekbpxiygl4+gS8/kCOLAE/DQWip6O37GB301b26yGRz5cQWBxKWIPaN2V1ZRqqS8PUSpMHeIcHrHOdaPgGKAScDKBV7s0qcGCMcvA0j1eTCoxR8ERbTPsIw7/oqhRcHd4jw4bU6BPTa3SPTUXspY/lY4Yq80Rg8Ft71vxJLZAeypP;ob3ude2WbMVMo5P8iJAWew=="
+secured: "bG5/ObntovGgiIUFh03BkSiebgI7LUNCyhOMJ33jSQ7knzK4Z027uEjzMCLrYDP0aJaescDi8Bx/FY+lnY3C+hbnE2JElmRhlkNcty1JaSxUs3FhpMw/2CHN53l6JWBq3ypBbjgV/fknlYo2otewQ3sUvlcc15g3KtFAQrqmTZb6H3VE62WIhhqiDgibUrh+Nfk75qaYcUHP+3riWWShercF8H3OXqWXhA9vwguklFo290z3JixjWwHxhL5SaHEvjR1Ao1kc2yw3nxy4wJfVUa03EilPPlVTpGrd+8N2XnPAvKm3rcCZiGT18BgBMa2H;tKfxHi8Gnx4B2FS56feg6w=="
 ---
 

@@ -39,19 +39,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/01/31/business/31VIEW_GIF/31VIEW_GIF-facebookJumbo.jpg"
         width: 1050
         height: 550
-  - title: "Reskilling At Scale: How To Prepare For The Age Of Artificial Intelligence?"
-    excerpt: "Artificial intelligence is set to disrupt the job market for all types of industries, changing the way we run our operations, businesses, and dealing with existing or new customers. New kinds of workers will be fundamental, working along with robots and increasing automation to drive company-wide AI strategies. However, it is also true that ..."
-    publishedDateTime: 2020-01-23T12:54:00Z
-    webUrl: "https://analyticsindiamag.com/reskilling-at-scale-how-to-prepare-for-the-age-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/01/reskilling.png"
-        width: 939
-        height: 629
 
 secured: "oxsFFvBFQ2ClcvDPyjiEqJrsjvMqsz6UHClLbYGs4n9PF8JJr5edx21M4jkYxFNz+7/xLXMx4FliUEo3GFyN/fgIf3pLv/zviutNkVv+C4edSd8AjsBpdqmNb7EhZVv69/a0mMEb5mc4i/LfEJ7MhAGYZncMDn5HrXzk50tSHejT5HSu/ZOnBOu26OUfamBzmcvdYOZV9ReRM5cshqvdKVVeXHqUoG6m5CSTp92uInBSI9qgZ5z4UkZtKhCMPpov628t3Daa4eXdxUQQLNCzG0y4eqEBMKjx7lMhixsWEB/bgxEe1HcEEBz+xXZ2q9xC2MWppvbSY1k37xDRaaH1MHAWszsoR2rOsqY6EWn7tH8wVOHyQGWFsNa8CjVVSZ+6ykO3s+RaT6ehLXJe/k4hq9gBTFyEce8eOrKahuEtuZ8FTxU6hWg3Idtmi1DsJMO8xEyN74bFssmcs0c+sIZtPngqEr26jatW1FChhQx/55U=;v/ThN80nBOlgMsiS0AAZnA=="
 ---

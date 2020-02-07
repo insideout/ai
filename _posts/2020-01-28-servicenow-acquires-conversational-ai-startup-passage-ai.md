@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/"
 type: article
 quality: 187
-heat: 277
+heat: 267
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "ServiceNow acquires conversational AI startup Passage AI"
 
 related:
-  - title: "Why Conversational AI Is The Instant Pot For Customer Service"
-    excerpt: "When you’re adopting AI into your customer service organization, ensure it is a true labor-saving device for your customers and employees."
-    publishedDateTime: 2020-01-23T12:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/why-conversational-ai-is-the-instant-pot-for-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/why-conversational-ai-is-the-instant-pot-for-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/23/why-conversational-ai-is-the-instant-pot-for-customer-service/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/dam/imageserve/1160995648/960x0.jpg?fit=scale"
-        width: 711
-        height: 533
   - title: "ServiceNow to acquire small conversational AI startup in Mountain View"
     excerpt: "ServiceNow said the purchase would advance the Santa Clara software giant’s deep learning AI capabilities as it seeks to support all widely spoken languages across several products."
     publishedDateTime: 2020-01-28T18:36:00Z

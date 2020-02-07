@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/06/ai-5g-and-medical-iot-can-help-de
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 917
     title: "AI, 5G, and medical IoT can help deliver the promise of precision medicine"
 
-secured: "pXXsk99u38NqYmcVV0nCQSfKL3s8fguFy2O91LHwHnvQmntBrVeQCMCd4ijpp7bUElzujYVe6HRp4lce85svMxADWbmGpW8DQ8fMITXzVL0PNb4Bjn4MfxHzQquM17ZWTi8V8d4ZKleLHR/cdpGiMpSFTTccM/q5+aaxcPFDOxwukVPvY7X7kLt7ojxesBaP8QpfGiSDotqB4gWO1cij+HYpr8O55HcjH8i6E6SNfZucu21HKdEdeuaY2AtRLsTbloPbXUhDwXF67EBo1XmV6WTaEwHBwlr5s0eVayRUwULQ0zHfnYRVL6Wnfrh1QenDwLJH+M+RY6EU0wKcOLSCcZfRk50q4sSGTHhpgNCXUVWRsIuZX2J3HYOde4/iJaVM3WW2Gc04bFfvyT++9ZZKoYtEUkTeDDZ1r8wG7FJHBS76drbVZ5jN9fmShuqcGayTeAswTB3X8YCNQxbsh+2fYrK96JuVvNARyT28Z2OsMeU=;PO2AMTOzzLHhdLLv0LGllw=="
+secured: "LnzDN941DlqOoQ1b9NqUqzEUtW6esuPaUo46Fx5IUhVa8d15ashSF3vb6cMdnfi5SmRFZ1tI+ioMLM+sqIrcpVN2/syDbxPvcpNhXJyiMY9cjfisS8gAY34UEu7Le7Lh5bd1qweLnC1wjFw0604D6FBaYJIu4usyzehHMKeM0uJs8vGAGwiYhty4RAlWMmPMJEJSzaisMdBeVi0HWp3XiLPC+/gGGf3B7tt8AatPUS+fLGluGz0DuHx50QBSFhD2HB70k7tg00uw8hxGFntTDC5e4nbktv7oj4ZJAjU2DhCO1fq1LbIR65FlMwGPLHUhupV8/H3fZpvg7hjtzZJdin4dTgFhLMIrvfCcuPQZY+2SUy8CEEUVIp8EwaLXsedJP7ObNblYPr0QREUVhXQLHm6ho6E7pfLBgCqPZZpXCNKAm4hAabI9KrR0kCMBlZg2d5jDIYQDzFuW43EsIJeNrdbKsAEO3gWd5t59r0U4P0Y=;QYWZzuU0vqeF5EzRYt47pA=="
 ---
 

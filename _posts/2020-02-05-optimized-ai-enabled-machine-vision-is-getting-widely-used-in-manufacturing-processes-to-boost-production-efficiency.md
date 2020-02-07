@@ -97,6 +97,19 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2020/01/offshore-software-development.png"
         width: 700
         height: 400
+  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
+    excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
+    publishedDateTime: 2020-01-31T15:06:00Z
+    webUrl: "https://www.businessinsider.com/developer-technologies-digital-transformation-tech-companies-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+    images:
+      - url: "https://i.insider.com/5763115a91058427008c98db?width=1200&format=jpeg"
+        width: 1024
+        height: 512
   - title: "Going deep on deep learning with Dr. Jianfeng Gao"
     excerpt: "Dr. Jianfeng Gao is a veteran computer scientist, an IEEE Fellow and the current head of the Deep Learning Group at Microsoft Research. He and his team are exploring novel approaches to advancing the state-of-the-art on deep learning in areas like NLP, computer vision, multi-modal intelligence and conversational AI. Today, Dr. Gao gives us an ..."
     publishedDateTime: 2020-01-29T11:13:00Z

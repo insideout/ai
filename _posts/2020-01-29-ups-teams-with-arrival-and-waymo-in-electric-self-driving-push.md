@@ -335,21 +335,6 @@ related:
       - url: "https://media.bizj.us/view/img/11586802/waymo-truck-3*600xx6000-4000-0-0.png"
         width: 600
         height: 400
-  - title: "Self-driving big-rig trucks coming soon? Waymo set to begin mapping interstates in Texas, New Mexico"
-    excerpt: "The Lone Star State may become a little lonelier — at least when it comes to big-rig trucking. Waymo, the self-driving vehicle division of Google parent Alphabet, is about to start mapping in Texas and New Mexico as a prelude to testing its self-driving big-rig trucks. The mapping minivans, to be followed by the large trucks, will run ..."
-    publishedDateTime: 2020-01-23T12:22:00Z
-    webUrl: "https://www.jsonline.com/story/news/nation/2020/01/23/waymo-texas-new-mexico-mapping-self-driving-big-rigs/4546366002/"
-    ampWebUrl: "https://amp.jsonline.com/amp/4546366002"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/4546366002"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 44
-    images:
-      - url: "https://media.gannett-cdn.com/29906170001/29906170001_5975956542001_5975943510001-vs.jpg?pubId=29906170001"
-        width: 640
-        height: 360
   - title: "Uber is bringing its self-driving vehicle testing to D.C. streets"
     excerpt: "Uber will start scanning and mapping District roads Friday in preparation for testing self-driving cars here later this year, the company said Thursday. The ride-hailing company is moving to expand testing on public roads following the conclusion, in November, of a federal investigation into problems with Uber’s technology and management that ..."
     publishedDateTime: 2020-01-23T17:54:00Z
