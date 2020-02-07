@@ -122,6 +122,15 @@ related:
       name: Linux Today
       domain: linuxtoday.com
     quality: 19
+  - title: "5G is fueling Manufacturing “Intelligence of Things” – Choice IoT Says Controlling Data Costs will be Essential"
+    excerpt: "The coming decade will feature a revolution in technology that will change everything. Ubiquitous 5G wireless capabilities are right around the corner and with them the “Intelligence of Things” – wireless connectivity combined with Artificial Intelligence. Industries that don’t prepare properly for the new technology are in danger of ..."
+    publishedDateTime: 2020-01-27T14:00:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/news/2020/01/27/5g-is-fueling-manufacturing-intelligence-of-things-–-choice-iot-says-controlling-data-costs-will-be-essential/14687/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 0
   - title: "The Future of Financial Services: 3 Technologies Poised to Change Your Experience"
     excerpt: "But financial services companies today are already well on their way to changing this experience, and three technologies are key to this transformation: APIs, adaptive intelligence (AI)/machine learning, and blockchain. These key strategies involve leveraging large troughs of data so banks can become an integral part of the consumers’ journey ..."
     publishedDateTime: 2020-02-01T02:16:00Z

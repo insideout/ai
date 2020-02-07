@@ -22,6 +22,6 @@ images:
     height: 576
     title: "PODCAST: AI Palette’s Som Ganchoudhuri on transition from MNC to AI start-up"
 
-secured: "JIp7iU/OOoeSS8m8YBu6qYFr49f5+a+J4JPSaq8hbFOQ6VTkfi2v8LeKmRdSbXDUd7NoZHSYGSKVKEB6kKYkalAiEnY8/CGAZg6u9QYKvoBYKRuw0Ucm8LXbhWLToYENWjQsYaAIC9tG1HwS5VHwUdmQusFhDPTm/zlNhxTz/AU3WYH7Nhd3PVAcstZL9Yjv9gE8vm2dGJ6Rv1tMNpanbtLXhemZrH5x/wzmG1QPVXJDNjtu/Bv11XE1u7KY+/WDsfDnDneYoaKqMcmCn6x4XnIW9Uwqe+NTA0wJH7bT+0zZv5gGQLwUrGsm+NW9dmrz;Q6ZThndjbtKLAk2/Ktplkg=="
+secured: "xYfvHEjV9WHYhBFeXyC+sZMX+nmW6YSTUJpiJuaDiGVnWbPJnF86yGoy6Z/M8z/G110VgLPXCZxoiAmrowC+bNYbX722HVNuulqOH6oBnzdfp6FtxSs9BCJ4sDBY3sg0uNYQVrkV8yEzubSrvYTs/6k+yq+PnVFnqpriSyULvTrdqrfctn/SJEhJNX4s4UB/SGD3SvcOI6QY8/zLjxsYGrPorXzlLZb5mj1iRFICGsCp+4Ovbp+Eq/rwvuIgMfilvQN6EG5mYknJG1dLvszxAi7q6sFKBDo2MyerJ77gpBGlIJnf42wdsynsBqralUX2gcT3p6Wx3ONjcUKJUCfForfUbW5VWvbaH2YXTBKDar57uEwoSCIit8umYHeaI2stjPVh/GwBS8xdDSsHhz4lBtJUNIpBbX3FDWd7sTyF7nIr0mYaAG5i+tKXwi61VWb7n7biMsP02e2sh9Ut44VBMDsUj1mXuy/NaS4wRl8ROFI=;xP6VCoVDFDStNE1/Iekbdg=="
 ---
 

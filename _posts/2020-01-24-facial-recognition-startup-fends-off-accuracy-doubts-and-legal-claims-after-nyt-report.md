@@ -8,8 +8,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/24/21079354/clearview-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition"
 type: article
 quality: 96
-heat: -1
-published: false
+heat: 126
+published: true
 
 provider:
   name: The Verge
@@ -30,21 +30,6 @@ images:
     title: "Facial recognition startup fends off accuracy doubts and legal claims after NYT report"
 
 related:
-  - title: "Dem senator presses facial recognition company after reports of law enforcement collaboration"
-    excerpt: "Sen. Ed Markey (D-Mass.) on Thursday sent a series of questions to the CEO of Clearview AI after reports that the company has been selling facial recognition software with an expansive database to law enforcement."
-    publishedDateTime: 2020-01-23T16:54:00Z
-    webUrl: "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law"
-    ampWebUrl: "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 148
-    images:
-      - url: "https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg"
-        width: 980
-        height: 551
   - title: "Controversial facial recognition firm Clearview AI facing legal claims after damning NYT report"
     excerpt: "Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News. Clearview falsely claimed it helped the NYPD catch a terrorism suspect last year “The ..."
     publishedDateTime: 2020-01-24T17:09:00Z
@@ -75,32 +60,6 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/27/16/campaign_images/5ec0c13d1ba4/20-cashmere-things-so-soft-you-might-want-to-splu-2-326-1580142937-2_dblbig.jpg"
         width: 625
         height: 415
-  - title: "Clearview facial recognition app may pose 'chilling' privacy risk, senator says"
-    excerpt: "Democratic Sen. Edward Markey of Massachusetts issued an open letter Thursday demanding answers from the creator of a controversial facial recognition app used by US law enforcement. The letter to Clearview AI CEO Hoan Ton-That follows a New York Times investigation into the software company and its app, which can identify people by comparing ..."
-    publishedDateTime: 2020-01-23T19:34:00Z
-    webUrl: "https://www.cnet.com/news/senator-demands-answers-from-clearview-ai/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/IxXdPYP12dIlVU2KQR_njg7CUPU=/756x567/2020/01/23/ee631f2b-5f68-46ed-bf92-8888b7960bee/markey-getty.jpg"
-        width: 756
-        height: 567
-  - title: "Facebook forced to pay $550 million settlement over facial recognition lawsuit"
-    excerpt: "Facebook is going to have to pay quite a few people money as part of a facial recognition settlement. The catch is, however, you have to live in Illinois. Since Illinois has some of the strictest biometric privacy laws, a 2015 lawsuit alleges that the social network violated these laws in Illinois through the use of facial recognition ..."
-    publishedDateTime: 2020-01-30T15:39:00Z
-    webUrl: "https://www.digitaltrends.com/news/facebook-forced-to-pay-550-million-settlement-over-facial-recognition/"
-    ampWebUrl: "https://www.digitaltrends.com/news/facebook-forced-to-pay-550-million-settlement-over-facial-recognition/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-forced-to-pay-550-million-settlement-over-facial-recognition/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 65
   - title: "Artists and activists offer privacy hope as facial recognition spreads"
     excerpt: "Now that our online data has been comprehensively mined, our behavioural surplus extracted, Big Tech is coming for our faces. The explosion in facial recognition has outpaced efforts to legislate around it and, in societies such as the UK where it is not compulsory to carry identification, we are being identified whether we like it or not."
     publishedDateTime: 2020-01-29T05:14:00Z
@@ -116,62 +75,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F55c44a8e-3631-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "Facebook will pay $550 million to settle a class-action lawsuit in Illinois surrounding its alleged violations using facial recognition technology"
-    excerpt: "Facebook said on Wednesday it reached a $550 million settlement in principle related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent. The settlement is the largest payment from a company to settle privacy complaints, a press release from the law firms Edelson, Robbins Geller ..."
-    publishedDateTime: 2020-01-29T00:00:00Z
-    webUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1"
-    ampWebUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://i.insider.com/5e3217765bc79c3a250185f8?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-  - title: "PopCom’s Interactive Retail Kiosk Incorporates Facial Recognition, Data Collection"
-    excerpt: "PopShop is designed to allow e-commerce retailers to have a physical self-serve presence in the form of an interactive kiosk that uses facial recognition. The kiosk’s management software collects customer demographic information at the point of sale, along with monitoring inventory, capturing sales data and generating insights for lead ..."
-    publishedDateTime: 2020-01-30T13:48:00Z
-    webUrl: "https://www.dealerscope.com/article/popcoms-interactive-retail-kiosk-incorporates-facial-recognition-data-collection/"
-    type: article
-    provider:
-      name: Dealerscope
-      domain: dealerscope.com
-    quality: 48
-    images:
-      - url: "https://www.dealerscope.com/thumb/?src=/wp-content/uploads/sites/5/2020/01/PopCom-MachinePhoto-3.jpg&w=750"
-        width: 750
-        height: 894
-  - title: "New Jersey law enforcement blocked from using facial recognition tech from Clearview AI"
-    excerpt: "New Jersey is no longer allowing law enforcement in the state to use biometric facial recognition app Clearview AI, following a moratorium put forward by state Attorney General Gurbir Grewal, writes Mashable. “AG asked that all law enforcement agencies in New Jersey stop using Clearview’s technology until we get a better handle on the ..."
-    publishedDateTime: 2020-01-27T20:07:00Z
-    webUrl: "https://www.biometricupdate.com/202001/new-jersey-law-enforcement-blocked-from-using-facial-recognition-tech-from-clearview-ai"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 46
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-  - title: "CPD using controversial facial recognition program that scans billions of photos from Facebook, other sites"
-    excerpt: "Critics say Clearview AI’s software is an invasive overreach because it grabs the photos without the consent of those pictured or even the websites that post them. The Chicago Police Department is using a controversial facial recognition tool that allows investigators to search an image of unknown suspects to see if it matches a database of three billion photos lifted from websites like Facebook,"
-    publishedDateTime: 2020-01-29T05:30:00Z
-    webUrl: "https://chicago.suntimes.com/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 43
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Z1sfgvRN8Spjpfj6rY2OvYwMNYI=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66211429/large.0.jpg"
-        width: 768
-        height: 465
 
 secured: "WvvRv68ra2wY5WV9a5jBD2ta1CMIerNrwKqMpFIeFQ/c9+TnCYje7BY5UsUxpUeUTG/8RwVDRYS0zKGxbcCkaXIUPeeAyT1Yk+xZtD7fu1KO6jTf2+OXlYNIo9RMEmnT41OgdVMSqcbuKRoTGcNGFe4Bu502AeqgAeUSJs5bYNQRAhRRIISRvPp8ft2xb12CLIKjHTjY2MRSSFsL2kiriNNPTfDZQu4fYLEd7z5PnY08PNa9zBjw34g45j/S+gbhfIRFt0x3tZNZ7Q+DTboFNxCiLWBOLr+1UP6FBCZ1yX4GcoTwiOsqmX7bkM511vpNecxK+ZLAaUxk8Zu3baVYbhwnQywSn8Ofnmhydwp3M0wH+snPAFEMIy4ssK5APKq7XR+UQMK2uI4o9r5h5wa48MQqTb6doWEYoRfj1r+hwZIBRLSD58lP3OviPk3Augy+WH6K01bEYGRVNDifQ9pgF1TNztzOVULskb9s6WcF44M=;/aI3D0ikSUCiKDHsRF+omA=="
 ---

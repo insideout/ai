@@ -65,6 +65,19 @@ related:
       - url: "https://www.ft.com/assets/product/dynamic-barriers/markets.jpg"
         width: 619
         height: 376
+  - title: "Artificial Intelligence and the Future of Sales and Marketing"
+    excerpt: "Artificial intelligence (AI) has the potential to significantly improve businesses’ sales and marketing efforts, and thus their fortunes overall. In fact, it may be hard for companies to move forward without it. Two-thirds of the 615 respondents to a recent survey from Harvard Business Review Analytic Services agree that AI in marketing and ..."
+    publishedDateTime: 2020-02-07T09:43:00Z
+    webUrl: "https://hbr.org/sponsored/2020/02/artificial-intelligence-and-the-future-of-sales-and-marketing"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2010/05/HBRAS_research_paper.png"
+        width: 1200
+        height: 675
   - title: "Reckoon's Blockchain & AI Enabled Solution is Shaping the Future of the Retail Industry"
     excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
     publishedDateTime: 2020-02-04T17:39:00Z

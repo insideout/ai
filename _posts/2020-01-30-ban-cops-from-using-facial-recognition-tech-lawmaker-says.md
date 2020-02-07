@@ -18,80 +18,62 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Facing facts: Reject a blanket ban on face recognition"
-    excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
-    publishedDateTime: 2020-02-04T09:00:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+  - title: "Clearview facial recognition app may pose 'chilling' privacy risk, senator says"
+    excerpt: "Democratic Sen. Edward Markey of Massachusetts issued an open letter Thursday demanding answers from the creator of a controversial facial recognition app used by US law enforcement. The letter to Clearview AI CEO Hoan Ton-That follows a New York Times investigation into the software company and its app, which can identify people by comparing ..."
+    publishedDateTime: 2020-01-23T19:34:00Z
+    webUrl: "https://www.cnet.com/news/senator-demands-answers-from-clearview-ai/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 59
+      name: CNET
+      domain: cnet.com
+    quality: 85
     images:
-      - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
-        width: 1200
-        height: 799
-  - title: "The Government's Nightmare Vision for Face Recognition at Airports and Beyond"
-    excerpt: "The Department of Homeland Security has a scary vision for expanding face recognition surveillance into our everyday lives, threatening a dystopian future in which face surveillance is used throughout our public spaces to scrutinize our identity, check us against watchlists, record our movements, and more. Work on building the infrastructure ..."
-    publishedDateTime: 2020-02-06T22:51:00Z
-    webUrl: "https://www.aclu.org/news/privacy-technology/the-governments-nightmare-vision-for-face-recognition-at-airports-and-beyond/"
+      - url: "https://cnet1.cbsistatic.com/img/IxXdPYP12dIlVU2KQR_njg7CUPU=/756x567/2020/01/23/ee631f2b-5f68-46ed-bf92-8888b7960bee/markey-getty.jpg"
+        width: 756
+        height: 567
+  - title: "New Jersey law enforcement blocked from using facial recognition tech from Clearview AI"
+    excerpt: "New Jersey is no longer allowing law enforcement in the state to use biometric facial recognition app Clearview AI, following a moratorium put forward by state Attorney General Gurbir Grewal, writes Mashable. “AG asked that all law enforcement agencies in New Jersey stop using Clearview’s technology until we get a better handle on the ..."
+    publishedDateTime: 2020-01-27T20:07:00Z
+    webUrl: "https://www.biometricupdate.com/202001/new-jersey-law-enforcement-blocked-from-using-facial-recognition-tech-from-clearview-ai"
     type: article
     provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 51
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 46
     images:
-      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
-        width: 1200
-        height: 630
-  - title: "Should cities and towns ban their government's use of facial recognition technology?"
-    excerpt: "Facial recognition is the most dangerous surveillance technology ever invented. The world has never seen anything like it. It makes snooping and stalking easy and cheap. Left unabated, governments, companies, and individuals will use it to watch us everywhere we go. Dystopian as these outcomes are, that’s not all. Facial recognition also has ..."
-    publishedDateTime: 2020-02-06T22:41:00Z
-    webUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+  - title: "Twitter tells facial-recognition app maker to stop collecting its data"
+    excerpt: "Twitter is demanding an artificial intelligence company stop collecting data from the social media platform for its facial recognition database."
+    publishedDateTime: 2020-01-23T22:05:00Z
+    webUrl: "https://thehill.com/policy/technology/479642-twitter-tells-facial-recognition-app-maker-to-stop-collecting-faces"
+    ampWebUrl: "https://thehill.com/policy/technology/479642-twitter-tells-facial-recognition-app-maker-to-stop-collecting-faces?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479642-twitter-tells-facial-recognition-app-maker-to-stop-collecting-faces?amp"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 32
-  - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
-    excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
-    publishedDateTime: 2020-02-03T22:34:00Z
-    webUrl: "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 28
+      name: The Hill
+      domain: thehill.com
+    quality: 44
     images:
-      - url: "https://www.abc.net.au/news/image/11796730-16x9-700x394.jpg"
-        width: 700
-        height: 394
-  - title: "Doha Bank integrates facial, voice recognition into app"
-    excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
-    publishedDateTime: 2020-02-02T19:02:00Z
-    webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
+      - url: "https://thehill.com/sites/default/files/twitter_090419getty.jpg"
+        width: 980
+        height: 551
+  - title: "Facial recognition technology poses ‘enormous’ potential for abuse, NDP says"
+    excerpt: "OTTAWA–Canadian police agencies' use of cutting-edge facial recognition technology presents \"enormous\" potential for abuse, the opposition New Democrats say. The NDP is calling on federal privacy commissioner Daniel Therrien to launch a probe into how the RCMP and other Canadian law enforcement agencies use the controversial tool, which can ..."
+    publishedDateTime: 2020-01-28T19:22:00Z
+    webUrl: "https://www.thespec.com/news-story/9833836-facial-recognition-technology-poses-enormous-potential-for-abuse-ndp-says/"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 26
+      name: The Hamilton Spectator
+      domain: thespec.com
+    quality: 36
     images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
-        width: 620
-        height: 355
-  - title: "Readers sound off on face recognition, Cuomo’s budget and Biden’s stutter"
-    excerpt: "In the past, the criminal justice system relied on eyewitness memories, which were often not reliable at best. Now with DNA and facial recognition profiles, it’s almost impossible to convict the wrong suspect. Yet it also brings to mind the book “1984,” which was written to show the abuses that an unrestricted government can bring upon ..."
-    publishedDateTime: 2020-01-30T08:00:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-letter-january-30-20200130-ng2fcp7wzjc6jpttdx5mdmhmti-story.html"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 18
+      - url: "https://dynamicmedia.zuza.com/zz/m/original_/a/e/aec26bdc-72bd-413c-9494-fc91ef7c420b/B881027028Z.1_20200128125040_000_GH1S8UDK.5-0_Super_Portrait.jpg"
+        width: 587
+        height: 417
 
 secured: "jZRyJRvi5/Ez2ErEdKLhvVnZvEHbvcO9stuDPB9eLmy+lfXEsPqH8+9b0N7O+SRE58bTiJSYaMyg+Heh89EVkI4UDI+o48xUf6IkwADqEE+viT+JfMSI9FSbeZK3yyFxO1nJoWAn3znbD/RTKf1lioDEEhc6r2tXQSMxiqPXdYbgJcxIkbg8TC8qRb9TxDC0AR6+FcX1Eqc2mZ1VOWntsAzdwEvC/5FAm0n+6vQMQHOjl+vYchkSCVmJWe8xjG3dpYHVK8siGpzLuPH6+KUEoJ4gKuP+MP8+fdDpuI+mf8ctEOeIx+tp7NhwSBmjizy3g1AiZL5QIVtGLW6PkEM7C+gWYDF4aA0oTcMzo5Bnoqsh3l533+b02Do4nBIzUiEZMvQ0lvCpBYZBYf7KH2pe9cGlrBWlx90+iDSFACg0X1UwkzAWm2EMj/q1c//dpcnQF2lt4LLshOK6vCEcv2MJazh1KvqcIys83Rpd0xoapts=;hQeW084cmKcv43VEqaEDJg=="
 ---

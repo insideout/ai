@@ -18,21 +18,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Twitter tells facial-recognition app maker to stop collecting its data"
-    excerpt: "Twitter is demanding an artificial intelligence company stop collecting data from the social media platform for its facial recognition database."
-    publishedDateTime: 2020-01-23T22:05:00Z
-    webUrl: "https://thehill.com/policy/technology/479642-twitter-tells-facial-recognition-app-maker-to-stop-collecting-faces"
-    ampWebUrl: "https://thehill.com/policy/technology/479642-twitter-tells-facial-recognition-app-maker-to-stop-collecting-faces?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479642-twitter-tells-facial-recognition-app-maker-to-stop-collecting-faces?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
-    images:
-      - url: "https://thehill.com/sites/default/files/twitter_090419getty.jpg"
-        width: 980
-        height: 551
   - title: "Airport facial-recognition technology stokes privacy concerns"
     excerpt: "But it turns out the practice of collecting their biometric data is far more common than travellers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
     publishedDateTime: 2020-01-23T19:50:00Z

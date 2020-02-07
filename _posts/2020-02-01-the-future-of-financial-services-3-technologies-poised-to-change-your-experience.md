@@ -131,6 +131,15 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 19
+  - title: "5G is fueling Manufacturing “Intelligence of Things” – Choice IoT Says Controlling Data Costs will be Essential"
+    excerpt: "The coming decade will feature a revolution in technology that will change everything. Ubiquitous 5G wireless capabilities are right around the corner and with them the “Intelligence of Things” – wireless connectivity combined with Artificial Intelligence. Industries that don’t prepare properly for the new technology are in danger of ..."
+    publishedDateTime: 2020-01-27T14:00:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/news/2020/01/27/5g-is-fueling-manufacturing-intelligence-of-things-–-choice-iot-says-controlling-data-costs-will-be-essential/14687/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 0
 
 secured: "XHcxO5XcgqSzH8n0VT8RkniiN2uC9zGlLBougosW+1eW7U1xsjk8tg/yYC2L6vMvC3mtli7R6X1x131XpailQBrBVbm/wPxMn5cbe7I49d8ERzzlQVPfSdM2592XND40dLkzxaPfUr4AOLaXI5fjZzg0h+jFfYOv6QL/tG61MjhN4tD+16gmaP0hfk2zNdCngCdvfaakcGXc143IDjaHU+iMd8JtrXP3ecp4RJZyABtOU5mze+tQQOs1ixstnM0tohnl70ZEz/kKDP835ElI3YIguvb2RNWKPIbog2q27z2/cJ1uOWqGTfB63HOZp2RZIQCxf+ZtkOqHqt7gl3oDW/oHiMleimjg8xHxLYcoeVF5NUzDfUCZsyeUxQPFlK9kixfT8wxiBEVE3FFqtVTC+9kO28eEmjA8dmuDFOgaoBD/2VXCPk0GC7yex+WqZvGcyrMMpJvKEHomRDsxAbw5Nw59SSAs30e1etCLBFm+4CU=;2iBQ6p4sFSE9wgba+dwtaw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T09:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06"
 type: article
 quality: 70
-heat: 220
+heat: 230
 published: true
 
 provider:
@@ -98,6 +98,19 @@ related:
     excerpt: "New Jersey, United States - The report titled, Deep Learning Market has been recently published by Verified Market Research. The Deep Learning market has been garnering remarkable momentum in recent years."
     publishedDateTime: 2020-02-03T11:26:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-challenges-key-players-market-segments-development-opportunities-forecast-report-2026-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Healthcare Artificial Intelligence Market Analysis 2020 - Dynamics, Trends, Revenue, Regional Segmented, Outlook & Forecast Till 2026"
+    excerpt: "Global Healthcare Artificial Intelligence Industry Overview The Global Healthcare Artificial Intelligence Market has been servicing the customers for several years. The market has seen several ups and downs due to changing government policies,"
+    publishedDateTime: 2020-02-07T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-analysis-2020---dynamics-trends-revenue-regional-segmented-outlook-forecast-till-2026-2020-02-07"
     type: article
     provider:
       name: MarketWatch

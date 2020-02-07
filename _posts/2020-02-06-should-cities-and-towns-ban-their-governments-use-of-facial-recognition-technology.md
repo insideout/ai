@@ -48,6 +48,19 @@ related:
       - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
         width: 1200
         height: 630
+  - title: "PopCom’s Interactive Retail Kiosk Incorporates Facial Recognition, Data Collection"
+    excerpt: "PopShop is designed to allow e-commerce retailers to have a physical self-serve presence in the form of an interactive kiosk that uses facial recognition. The kiosk’s management software collects customer demographic information at the point of sale, along with monitoring inventory, capturing sales data and generating insights for lead ..."
+    publishedDateTime: 2020-01-30T13:48:00Z
+    webUrl: "https://www.dealerscope.com/article/popcoms-interactive-retail-kiosk-incorporates-facial-recognition-data-collection/"
+    type: article
+    provider:
+      name: Dealerscope
+      domain: dealerscope.com
+    quality: 48
+    images:
+      - url: "https://www.dealerscope.com/thumb/?src=/wp-content/uploads/sites/5/2020/01/PopCom-MachinePhoto-3.jpg&w=750"
+        width: 750
+        height: 894
   - title: "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones?"
     excerpt: "Facial recognition technology, which often relies on opaque algorithms developed by tech companies, is rapidly infiltrating many aspects of people's lives, despite lawyers and technology experts warning that it is inaccurate and discriminatory. Human Rights Commissioner Edward Santow joined a chorus of voices critical of facial recognition ..."
     publishedDateTime: 2020-02-03T22:34:00Z
@@ -83,15 +96,6 @@ related:
       name: New York Daily News
       domain: nydailynews.com
     quality: 18
-  - title: "Ban cops from using facial-recognition tech, lawmaker says"
-    excerpt: "NEW YORK - Facial-recognition technology is a top crime-fighting tool for police departments, including the NYPD. But one state senator hopes to change that in New York. Sen. Brad Hoylman, a Democrat who represents parts of Manhattan, wants to either ban ..."
-    publishedDateTime: 2020-01-30T03:32:00Z
-    webUrl: "https://www.fox5ny.com/news/ban-cops-from-using-facial-recognition-tech-lawmaker-says"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 4
 
 secured: "8d2DQGDXxOASHtjWj+KW9z1iBSBiGsJ1lonk6Sh4fyqeBw1uQtOBZ24zLXWjyYwzNNeBxsCrT56aW+7y2jyyxVu+wPhleMEm2b66fe7MwgkB+wlprVnLyEh7VjkhagwB4ZtfNgfJnjPfB1JufxniP2jyunmyiT4pA/rAYpY5eFuKoZdmnndwHIOuW9yJ96MrHhbbWcGIc+JtT3cZQZHlPdg1zlo5VEuMEOktAy6WwTwU4TtX9PTgir4ymXlKIDGfv2eXuFbMI21gMIvTL4SpvKk2lQV4NHjR6Q7WmhKoFzNo6XaxDpCLz08lDCVt2XUUxoEn41B/vOjJYvo+v4b/97gSTZFnMwjCK1ui4b6n6i7lf2C/bpl2estrqedLBTeH6pvE3M8xuGIinmFc+g55oz8+hkXj6G+m3gkmGn6WavWmj3fNYoWTrjAOUWY3apBnLrUFtKQANxAxAZxLuKexZqua9qk25UUsJf6HUqBJMdE=;Lp4o1qaZzDSpH2ZcV0lUww=="
 ---

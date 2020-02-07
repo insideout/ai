@@ -5,8 +5,8 @@ excerpt: "For AI and Computer Vision projects, the company use TensorFlow and th
 publishedDateTime: 2020-02-07T05:34:00Z
 webUrl: "https://analyticsindiamag.com/how-this-bangalore-based-startup-is-helping-kirana-stores-harness-ai/"
 type: article
-quality: 19
-heat: 19
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,7 +16,14 @@ provider:
 topics:
   - AI
   - Google AI
+  - AI in Finance
 
-secured: "62oHlGuR3TCrPjj4Kg7BnGGHyRg6sOgkx1CRoyWIaBMPqvVfrEF6M5pfFRZZ/77d43aMdIbYq3C7Klgj4EgnXK67KFKZEbKJzs5D/6nyUJtEpXS51navcR3fouv1wbklQ+5Zi8w2ENdPi/ODJbWMjqfgK8UWU8GuMOCP5j0mmAI1dSXch37tbIRztgztSifSprPBvqiEz8g2m87LNA30DKQ94ZcEi0UYs7F6opDZcbFOx9LO9sWs0kogsixRgxxEHlh76XAvi0raDrgdjlRQaZI09WcCppvPjFm4n/OQtYYzioNQdQYMtBjBe+7Wf3NRbZJ4eCC9YIgGU4oMzG9JHbIgRIRdrm16RTLdBtQgUfaEHi1d4QO8ZVDDBZ0dXzvWZ1e/0z7gypNWQfEgTS1g0GsmDY3aNqv6boMU4YyKD67qTMDv/HV01dyClEYBEnDawvCDFeDwKm0gEAsp88YgzCuY4FVcLTvt3HRvkmzR0ls=;UkojSSyUfF94MNsuZ3X25g=="
+images:
+  - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/Founders-Potrait-1024x575.jpg"
+    width: 1024
+    height: 575
+    title: "How This Bangalore-Based Startup Is Helping Kirana Stores Harness AI"
+
+secured: "jU7JzW6Fe0j5jANjulY7JfWrWR+sng8SbYQokhEH0VKgVq2yjlOg1n1nhQ5AOOihj/44xiG/pGZZDVje1xwcGSzNA8AfZKcVEfbw4elkZ971dn7ZxstxPPg/Ig0kDTC63IRxB2sdxXGGxN+Qa43ZjJeMl/qAbBX36qlRf9bVER2jDda0CwYM/7a752VCxtRFdLXoJaTnCj0WRTqKKFRYfibpobnil+nG7ItoO1+4phSTzGav2obizH4KbAEFO47fbuCl5595R8YK0Yc8m/OIBmst/OIrEt6NIxyoa1uaxiB3skGuxhIW97sLh3SgJnmn;2wnhSmr+Q/ibVVHD0LvBSA=="
 ---
 

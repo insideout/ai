@@ -4,10 +4,12 @@ title: "Intel and partners are using computer vision to help save Antarctica’s
 excerpt: "In search of a solution, an Intel-led group of tech companies developed a computer vision solution to help ecologists count the remaining penguins faster and more accurately than before."
 publishedDateTime: 2020-01-20T16:01:00Z
 webUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/"
+ampWebUrl: "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 77
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +23,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "m/jEZnERTGfdaKb8hWzmjoGu8ufDyojTo4ldEt6Aewkm2N8z89UX0/RBHEepM+H3QAJa09nvf1TYTvbMNNAGuemywjHdgKWuj9dCstZgAXCTrnmSCqbtnpoTfyOhYgWGOtKcpe8fZOLFNqY380DOk/9Usu6Ux/385Ynx6VJAxrY7KZKBw/5fks4Z/naJ/0fmIWb9Vy2nOhrpKp6O+c1+gDRnZqcJ+FpZDVesuRBt1ucmKQN+B8F+FwazR0Mk9ZPx1r60UALmch0rbsrbNMbniBPvIuraujxXT1+F2hMXQWK6kt4AvD+/D5StgkFVAOUZ;CmTDW92kH4bJLws6RQamrg=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/01/4435aca3-10d3-4e94-bce1-b9a5ec1a9557-e1579113904720.png?fit=1200%2C600&strip=all"
+    width: 1200
+    height: 600
+    title: "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction"
+
+secured: "il/egWuzIG7jSFQ+YlEsZC7Poj+E8752ryP6/7OlZAghY1WkEbgA6awDp8hr3x3p4Hb7D4W/Y/DQ8e9OfEMAljKlSCzxGGqZMwZyAfz22r5uDUsOERJ4IwzgZd69BLpoH7s5GA/Wenp89p020jpDdbjtUTF9R9alWGt0sMyjkdYEKlQX+OO1VVMoliYXi10P0NIQCmP8+pQZGMpnUvsrNPvG7icz7pkWVebxabQE5hMCtaoY040yQnrCDhY+v5wbKLjKhmItZxqUB6KGiGpug16aFJmGpMD5KOnNphHMBKNSR4CiGVnIzclbC3bQuP1b;TgdlvkXAL+aJTCrNFtxJvA=="
 ---
 

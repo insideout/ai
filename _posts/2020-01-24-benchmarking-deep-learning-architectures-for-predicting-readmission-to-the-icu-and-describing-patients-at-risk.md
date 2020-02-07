@@ -24,30 +24,32 @@ images:
     title: "Benchmarking Deep Learning Architectures for Predicting Readmission to the ICU and Describing Patients-at-Risk"
 
 related:
-  - title: "Messy data is slowing down machine learning projects and driving up costs"
-    excerpt: "A new survey from Trifacta quantified the impact of bad data on machine learning (ML) projects with a third of respondents stating that poor data quality causes ML projects to take longer, cost more and fail to hit the anticipated results. About a third of ..."
-    publishedDateTime: 2020-01-23T17:00:00Z
-    webUrl: "https://www.techrepublic.com/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/"
+  - title: "Catching sesame oil adulteration, with machine learning"
+    excerpt: "Now, researchers from Yanshan University in China have developed a technique to speed up the testing of sesame oil samples based on a combination of 3D fluorescence spectroscopy and machine learning using AlexNet, a convolutional neural network or CNN. 3D fluorescence spectroscopy is already becoming a go-to technology for analysing oil samples ..."
+    publishedDateTime: 2020-01-24T09:15:00Z
+    webUrl: "https://www.securingindustry.com/food-and-beverage/catching-the-sesame-oil-counterfeiters-with-machine-learning/s104/a11243/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 88
+      name: securingindustry.com
+      domain: securingindustry.com
+    quality: 39
     images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg"
-        width: 1200
-        height: 675
-  - title: "5G is fueling Manufacturing “Intelligence of Things” – Choice IoT Says Controlling Data Costs will be Essential"
-    excerpt: "The coming decade will feature a revolution in technology that will change everything. Ubiquitous 5G wireless capabilities are right around the corner and with them the “Intelligence of Things” – wireless connectivity combined with Artificial Intelligence. Industries that don’t prepare properly for the new technology are in danger of ..."
-    publishedDateTime: 2020-01-27T14:00:00Z
-    webUrl: "https://www.manufacturingtomorrow.com/news/2020/01/27/5g-is-fueling-manufacturing-intelligence-of-things-–-choice-iot-says-controlling-data-costs-will-be-essential/14687/"
+      - url: "https://www.securingindustry.com/assets/97/sesame_oil.1.jpg"
+        width: 600
+        height: 400
+  - title: "Near Real-Time Wildfire Progression Monitoring with Sentinel-1 SAR Time Series and Deep Learning"
+    excerpt: "In this communication, we investigated and demonstrated the potential of Sentinel-1 SAR time series with a deep learning framework for near real-time wildfire progression monitoring. The deep learning framework, based on a Convolutional Neural Network (CNN), is developed to detect burnt areas automatically using every new SAR image acquired ..."
+    publishedDateTime: 2020-01-28T10:11:00Z
+    webUrl: "https://www.nature.com/articles/s41598-019-56967-x"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturingtomorrow.com
-    quality: 0
+      name: Nature
+      domain: nature.com
+    quality: 26
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-56967-x/MediaObjects/41598_2019_56967_Fig1_HTML.png"
+        width: 685
+        height: 424
 
 secured: "7lQV+q2eVbPTvmgOQZ/7NyVyfT5zHiBaUFpNNpfgkRqGSdEhmgm6trq1qZ3yoPawqW2arKx91S/3JfgWEChEJr57UXyBK3qyzvH5Ld+BQFW39Z6sRntokSCnhe46PU6aQzaMSYzgB8/8/Xu+5rDJ3CIBJ3sJPdHGY6WTUOzjYNJktzjILX1mSMkFWiy9wrpSp2Tw6F2OYrZx7EiItR/T7r3K3jWreUrvjLBErFlcRUaeBqED1maACQXhSgA3L1xie12JVBuHz61A38mzCFSbcOY1PcwDEUnXDH7nqO6k6WtpE0wxleWp8lMGCiIaUlSHEcdeqYM3T0eMyGlGmziqn/sAQf66Z3uYUV2GxisJ8I8tNyHX+7mdMQBN/ElKPFnHvjXUbhUdiaDAbSeqNAnTcQTAVFnOoGlQMd5zOjUFbcTKGY9Mo01hs7atguSgIFwbPhR76r7wNFy7NpNmOLbYarXmJNzCLeqa9tBX3z7ZwiE=;Xgn9tZdljVLc42LLEpzuog=="
 ---

@@ -41,6 +41,21 @@ related:
       - url: "https://www.chicagotribune.com/resizer/uVwTmX9jWYzsKYN2jswyPYqlKe4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/7C6YIQTGH5C6ZJ2S5N4OOVGOF4.jpg"
         width: 1200
         height: 633
+  - title: "Feds break from policy, allow self-driving vehicle to bypass human-driver safety rules"
+    excerpt: "DETROIT — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t need to meet the same federal safety standards for cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
+    publishedDateTime: 2020-02-06T22:33:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 36
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ALVEY7JR7NCHZKKWPIJVSNBDLY.jpg"
+        width: 6720
+        height: 4480
   - title: "US lets self-driving vehicle bypass human-driver safety rules"
     excerpt: "DETROIT (AP) — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
     publishedDateTime: 2020-02-06T18:08:00Z

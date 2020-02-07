@@ -230,21 +230,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e30bcd88b6cf300071d3b31%2F0x0.jpg"
         width: 1200
         height: 817
-  - title: "Today's Pickup: Waymo To Run Self-Driving Trucks In Texas, New Mexico"
-    excerpt: "Good day, Waymo, the self-driving vehicle unit of Google parent Alphabet Inc (NASDAQ: GOOGL), announced this morning that it is beginning testing of self-driving trucks on"
-    publishedDateTime: 2020-01-23T16:42:00Z
-    webUrl: "https://www.benzinga.com/news/20/01/15173711/todays-pickup-waymo-to-run-self-driving-trucks-in-texas-new-mexico"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15173711"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15173711"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/truck-3401529_1920_199.jpg"
-        width: 1920
-        height: 1280
   - title: "Waymo strikes deal with UPS to deliver parcels with self-driving vehicles"
     excerpt: "Waymo, the self-driving technology developer, has announced that it’s partnering with UPS to start delivering parcels. Taking the opportunity to broaden its alliance with UPS, the company will start the beta test in Phoenix, AZ where its self-driving vehicles are already on the streets, much to the chagrin of the locals. Consumers aren’t ..."
     publishedDateTime: 2020-01-30T16:54:00Z

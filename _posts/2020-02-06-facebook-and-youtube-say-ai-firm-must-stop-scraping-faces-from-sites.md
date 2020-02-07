@@ -8,7 +8,7 @@ ampWebUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-fir
 cdnAmpWebUrl: "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
 type: article
 quality: 157
-heat: 428
+heat: 438
 published: true
 
 provider:
@@ -139,6 +139,21 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HW845_Facebo_ZH_20191212141837.jpg"
         width: 890
         height: 501
+  - title: "Facebook and LinkedIn are latest to demand Clearview stop scraping images for facial recognition tech"
+    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company said, “Which is why we’ve demanded that Clearview stop accessing or using information f ..."
+    publishedDateTime: 2020-02-06T11:56:00Z
+    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/7l1HObT4uIVko8_sSo6v9vlNURg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66260685/acastro_170329_1777_facebook_0001.0.jpg"
+        width: 1400
+        height: 933
   - title: "Google, YouTube and Twitter send cease and desist order to facial recognition app Clearview AI"
     excerpt: "Google, YouTube and Twitter have all sent cease and desist orders to controversial facial recognition app Clearview AI in an effort to stop it taking images to help with police investigations. The tech company's tools allow law enforcement officials to upload a photo of an unknown person they would like to identify, and see a list of ..."
     publishedDateTime: 2020-02-05T17:34:00Z
@@ -371,6 +386,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "FZPL7bF8pdMZmJ1tsvcJwmk6VUC9PyH0BAygxyrZxFZWlFqCVpax5MWqIQrbgmp41Xbb28Zp4DT5PM0k9FC9o2JW7IRyEsYG8xmvmmtJSeg/gDvEO5QiC8nHbbnTqHsL2TgXTiL/z6E7b+thOdkAItWFlTI32Aru0BWl2Fmu+gm2/jWnJN9/fzbG7/6c7MIdC25VeNwypRA1s7rNvm0gospYHyl0P+5kf7Eu4rnxKt8EPUScFzjgiRvnFpjhv0B/bALOYAKGLzlt/tBEW8dlVWc/qAxQysbNxnaCAF/AMM6WEOulOiBaz/NMW8hqW6IlrWtSgEckgpL+//zh3KheWfjn+F2rr7nl66ZHGgH9YBWZyhmykGRZsjz5FczupQdeoLJHrph/fyk8QsmQvkca8bpjqAAKlt/AMFUNSNJ0P04BKqLu4sQQUtWqYxCIK71BNAYHKth+bC4A6ccj8+MAlb8C/euqvKTqiHuabYYIunfIJo5llTz7SmaT0mSdwujS;rgHRL2Yd4cKSGBdEqJHt1Q=="
+secured: "XiWtr06ue/joP27JgHcKESOvTxepUoj2UU1mIkKWYsYy3sXFoYzyn625AZLLP4RNO5Dsuy1eISp2scvY2perpJk9k9JpG1UTZ7jKzXSf9+p0uLmUAZeiiQbNV7kM1KQzNbEqRL3V4KfChnsdpIYw9w4tFiN6tX6vMD1N+Z9wEb/pWo0JiuPC6aQ1f+mEuKUX9OHegfqtJRAXKRSNJ0Wge8PowvwL/wNyjQk4hvQIsxO6Lqrkn1G0V6lpmVC3AmO5kxi9BZQlocD3RVCjhhz5a25Kssjr+4xaBLp8A8PEbpTi79bZid+5/DVLWvQyHaK9LVeX0v22qlsp8+AqKLJQ1AqybBpVFcQclsk3mNTnOmURh9xvqI8Ac6e50mVrrC1lH62o/MRzpGGaGECtXgMxgC/b51Zq3EGMLd+17RsUAsjCWj5m9ENOB/8aUM4C5TyxQzpwnkME7bmCRFB5kR1bxGwfOQpqpAphwHqAGt49ibspbi+e2txrNgBf1lo3OXaM;HFVSjgSTUt/d0KgACI1B/A=="
 ---
 

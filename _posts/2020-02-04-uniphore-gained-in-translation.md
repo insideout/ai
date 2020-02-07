@@ -202,34 +202,6 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2018/11/Google-Translate-AH-new.jpg"
         width: 1920
         height: 1080
-  - title: "Travel the world without any difficulties with these translation devices"
-    excerpt: "Converse in 76 different languages using Mesay 3.0 PRO. This smart voice interpreter allows for simultaneous two-way translation. The ultra-high translating accuracy allows you to communicate with locals easily. At 34% off, the Mesay 3.0 PRO: AI Global Translator is currently $129.99. These aren’t any ordinary headphones. Paired with the Aunu ..."
-    publishedDateTime: 2020-01-23T16:51:00Z
-    webUrl: "https://pocketnow.com/deal-travel-the-world-without-any-difficulties-with-these-translation-devices"
-    ampWebUrl: "https://pocketnow.com/deal-travel-the-world-without-any-difficulties-with-these-translation-devices/amp"
-    cdnAmpWebUrl: "https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/deal-travel-the-world-without-any-difficulties-with-these-translation-devices/amp"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 43
-    images:
-      - url: "https://pocketnow.com/wp/../files/2020/01/sale_25025_primary_image.jpg"
-        width: 630
-        height: 473
-  - title: "Save 34% on the Mesay 3.0 PRO: AI Global Translator"
-    excerpt: "We have a great deal for our readers on the Mesay 3.0 PRO: AI Global Translator in the Geeky Gadgets Deals store today, you can save 34% off the normal price. Wherever you are in the world, language shouldn’t be an obstacle. Thanks to the newest MESAY3, you can now easily converse in 76 different languages. MESAY3 is a smart voice interpreter ..."
-    publishedDateTime: 2020-01-23T16:39:00Z
-    webUrl: "https://www.geeky-gadgets.com/save-34-on-the-mesay-3-0-pro-ai-global-translator-23-01-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/01/Mesay-3.0-PRO.jpg"
-        width: 700
-        height: 525
   - title: "Android to translate spoken words in real-time in the near future"
     excerpt: "What it’s missing, though, is perhaps the holy grail of translation, transcribing and translating spoken words in real-time. That’s exactly what Google demonstrated to a handful of folks in San Francisco, showing off its chops at AI and natural language processing. The simple process, which involved speaking through the Android phone’s ..."
     publishedDateTime: 2020-01-29T03:35:00Z

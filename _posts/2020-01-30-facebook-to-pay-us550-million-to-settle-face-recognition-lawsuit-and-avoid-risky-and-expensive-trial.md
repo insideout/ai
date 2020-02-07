@@ -42,6 +42,36 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 64
+  - title: "Facebook will pay $550 million to settle a class-action lawsuit in Illinois surrounding its alleged violations using facial recognition technology"
+    excerpt: "Facebook said on Wednesday it reached a $550 million settlement in principle related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent. The settlement is the largest payment from a company to settle privacy complaints, a press release from the law firms Edelson, Robbins Geller ..."
+    publishedDateTime: 2020-01-29T00:00:00Z
+    webUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1"
+    ampWebUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/5e3217765bc79c3a250185f8?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+  - title: "CPD using controversial facial recognition program that scans billions of photos from Facebook, other sites"
+    excerpt: "Critics say Clearview AI’s software is an invasive overreach because it grabs the photos without the consent of those pictured or even the websites that post them. The Chicago Police Department is using a controversial facial recognition tool that allows investigators to search an image of unknown suspects to see if it matches a database of three billion photos lifted from websites like Facebook,"
+    publishedDateTime: 2020-01-29T05:30:00Z
+    webUrl: "https://chicago.suntimes.com/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 43
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Z1sfgvRN8Spjpfj6rY2OvYwMNYI=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66211429/large.0.jpg"
+        width: 768
+        height: 465
 
 secured: "jC4B98WlE4fQqtcU48cvBCy30wszryXZL87rM9fp69hWfxX7bQkvtIrRzD0KJHxN7ahBM526yrqtMGbSbiBzFZsWldh1FPdoAhGKQUrxPRjrgUwxon7HiYxWS3UX/cuHypElq5XiiyIQysIYTJF6G5SBs3jb/W+2vfdlCX9QUQH/6nMXz1ZVvA0xV3EdxI0AYxtw1Uv9oO4jJd0AoCI/rE9eO8QcJ/h3pcCg57jJbMf2h4fvhhomdNadjyXJB4e9gf4Acc6aIMldMSAZuwIbyr80U5j0d59dRytazGoC+NnPCOUFieHu5YkG7y9lYAM/Gat4yQtJTqFOvz+00ll+lga+Zi2jq+C6CB26K0yM7e7fK1EZ7yaxj4YVGbo9IAgd+7HeO1ph3UKh3JGCvlQUfaJ1GnTWCvTXmhJrMJ+h/bvtlMj3P9n1zkQxR5VR8Cp57ueop4yG1UBEWJFcNWkGIbLm9KV+eZ2IkKT/TlAGnDY=;NWulsUvZiBfegn4d4Bd6uw=="
 ---
