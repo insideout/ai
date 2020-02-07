@@ -61,21 +61,6 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
-  - title: "Self-driving Waymo van, 2nd vehicle collide in Tempe"
-    excerpt: "PHOENIX – A self-driving minivan and another vehicle collided in Tempe late Thursday but no one was seriously injured, police said. The driverless Waymo van and the car crashed near Warner and Rural roads. The van was carrying one passenger. The driver was taken to a hospital but the injuries weren’t life-threatening. Neither the driver of ..."
-    publishedDateTime: 2020-01-31T14:36:00Z
-    webUrl: "https://ktar.com/story/2952852/self-driving-waymo-van-2nd-vehicle-collide-in-tempe/"
-    ampWebUrl: "https://ktar.com/story/2952852/self-driving-waymo-van-2nd-vehicle-collide-in-tempe/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/2952852/self-driving-waymo-van-2nd-vehicle-collide-in-tempe/amp/"
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 59
-    images:
-      - url: "https://ktar.com/wp-content/uploads/2020/01/waymo-screenshot-.jpg"
-        width: 620
-        height: 370
   - title: "Waymo self-driving vehicle involved in Tempe crash; 1 person injured"
     excerpt: "A Waymo self-driving vehicle was involved in a collision in Tempe in which one person was injured, police said Friday. It wasn't immediately known whether the Waymo vehicle was in self-driving mode when the collision occurred late Thursday night."
     publishedDateTime: 2020-01-31T16:18:00Z

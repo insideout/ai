@@ -44,19 +44,21 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Top Trends Driving Technology Innovation Investments in 2020 Revealed by Virtusa"
-    excerpt: "Financial Services, Insurance, and Life Sciences Leading in Innovation to Start the New Decade SOUTHBOROUGH, Mass., Jan. 28, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation VRTU, +0.29%, a global provider of digital strategy,"
-    publishedDateTime: 2020-01-28T13:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-trends-driving-technology-innovation-investments-in-2020-revealed-by-virtusa-2020-01-28-9195110"
+  - title: "Facebook will pay $550 million to settle a class-action lawsuit in Illinois surrounding its alleged violations using facial recognition technology"
+    excerpt: "Facebook said on Wednesday it reached a $550 million settlement in principle related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent. The settlement is the largest payment from a company to settle privacy complaints, a press release from the law firms Edelson, Robbins Geller ..."
+    publishedDateTime: 2020-01-29T00:00:00Z
+    webUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1"
+    ampWebUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://i.insider.com/5e3217765bc79c3a250185f8?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 900
   - title: "Artificial Intelligence in Telecommunication Market : Advance Technology Research and Innovation in Technology"
     excerpt: "Artificial intelligence (AI) is group of methodology that focus on formation of intelligent machines with the help of human intelligence such as visual perception, speech recognition, decision-making,"
     publishedDateTime: 2020-01-27T03:34:00Z

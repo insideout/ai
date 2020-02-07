@@ -1,171 +1,78 @@
 ---
 category: news
 title: "Top Trends Driving Technology Innovation Investments in 2020 Revealed by Virtusa"
-excerpt: "Financial Services, Insurance, and Life Sciences Leading in Innovation to Start the New Decade SOUTHBOROUGH, Mass., Jan. 28, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation VRTU, +0.29%, a global provider of digital strategy,"
-publishedDateTime: 2020-01-28T13:01:00Z
-webUrl: "https://www.marketwatch.com/press-release/top-trends-driving-technology-innovation-investments-in-2020-revealed-by-virtusa-2020-01-28-9195110"
+excerpt: "Machine Learning for All. In 2020, we believe there will be more efficient algorithms to automate Machine Learning (AutoML). This will spur the adoption of AutoML at the enterprise level ..."
+publishedDateTime: 2020-01-28T00:00:00Z
+webUrl: "https://www.medindia.net/health-press-release/Top-Trends-Driving-Technology-Innovation-Investments-in-2020-Revealed-by-Virtusa-448876-1.htm"
 type: article
-quality: 49
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medindia
+  domain: medindia.net
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.medindia.net/images/common/regis/450_237/hypertension-popup.jpg"
+    width: 300
+    height: 250
     title: "Top Trends Driving Technology Innovation Investments in 2020 Revealed by Virtusa"
 
 related:
-  - title: "Facial Recognition Biometrics Market Advance Technology and New Innovations 2020"
-    excerpt: "Global Facial Recognition Biometrics Market Research Report 2020 provides key analysis on the market status of the Facial Recognition Biometrics manufacturers with market size, growth, share, trends as well as industry cost structure."
-    publishedDateTime: 2020-01-27T05:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020-2020-01-27"
+  - title: "9 Technology Megatrends For Healthcare In 2020"
+    excerpt: "Without the use of high-powered data analytics, artificial intelligence and the internet of things, much of this data would simply sit unused and 2020 megatrends would be nothing more than ideas on a blackboard. These are the healthcare technology megatrends for 2020. Healthcare Consumerism Continues Apace A few years ago, healthcare ..."
+    publishedDateTime: 2020-01-27T19:36:00Z
+    webUrl: "https://www.healthitoutcomes.com/doc/technology-megatrends-for-healthcare-in-0001"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Facial Recognition Biometrics Market 2020 NEC Corporation, Ingersoll Rand, RCG Holdings Ltd."
-    excerpt: "The research document entitled Facial Recognition Biometrics by Market Research Store intends to reveal various facets of the global market with the assistance of the key elements influencing the market,"
-    publishedDateTime: 2020-01-24T09:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-biometrics-market-2020-nec-corporation-ingersoll-rand-rcg-holdings-ltd-2020-01-24"
+      - url: "https://vertassets.blob.core.windows.net/image/650a7ddd/650a7ddd-514f-4450-a889-dd96ef02d3aa/375_250-trends.jpg"
+        width: 375
+        height: 250
+  - title: "6 attraction technology trends for 2020: VR, AR, AI, bots and esports"
+    excerpt: "Last year did not start well for robots. The Henn na chain of hotels in Japan ... An exhibition at the University of Oxford showcased art created by the world’s first ultra-realistic AI humanoid robot artist. Ai-Da uses a robotic arm and pencil to draw what she sees thanks to cameras in her eyeballs. AI algorithms, created by scientists ..."
+    publishedDateTime: 2020-01-30T14:37:00Z
+    webUrl: "https://blooloop.com/features/attraction-technology-trends-2020/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: Blooloop
+      domain: blooloop.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Telecommunication Market : Advance Technology Research and Innovation in Technology"
-    excerpt: "Artificial intelligence (AI) is group of methodology that focus on formation of intelligent machines with the help of human intelligence such as visual perception, speech recognition, decision-making,"
-    publishedDateTime: 2020-01-27T03:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-advance-technology-research-and-innovation-in-technology-2020-01-26"
+      - url: "https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2020/01/09114657/attractions-tech-at-ISE-events-page.jpg"
+        width: 1500
+        height: 937
+  - title: "Israeli technology is finding a home in the Canadian health system"
+    excerpt: "That can lead to more effective therapy, Sekuler said. Given the potential of the product and the reputation ... “There’s a companionship element” to ElliQ, she continued. “It uses cognitive artificial intelligence. It learns about you. It’s sort of like a roommate.” ElliQ can play music at a patient’s request, it will let you ..."
+    publishedDateTime: 2020-01-29T13:04:00Z
+    webUrl: "https://www.cjnews.com/news/canada/israeli-technology-is-finding-a-home-in-the-canadian-health-system"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "New Jersey cops told to halt all use of controversial facial-recognition technology"
-    excerpt: "The state attorney general is ordering all New Jersey police to stop using a powerful new facial-recognition technology that’s pulling millions of photos from social media. The order was issued Friday to county prosecutors, concerning a New York-based company called Clearview AI. “Like many people, I was troubled,” state Attorney General ..."
-    publishedDateTime: 2020-01-25T13:13:00Z
-    webUrl: "https://www.nj.com/news/2020/01/new-jersey-cops-told-to-halt-all-use-of-controversial-facial-recognition-technology.html"
-    ampWebUrl: "https://www.nj.com/news/2020/01/new-jersey-cops-told-to-halt-all-use-of-controversial-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/01/new-jersey-cops-told-to-halt-all-use-of-controversial-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 38
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/KP4ZEP4EZVEE7EUKABDLB57CO4.JPG"
-        width: 5472
-        height: 3080
-  - title: "Facial recognition technology poses ‘enormous’ potential for abuse, NDP says"
-    excerpt: "OTTAWA–Canadian police agencies' use of cutting-edge facial recognition technology presents \"enormous\" potential for abuse, the opposition New Democrats say. The NDP is calling on federal privacy commissioner Daniel Therrien to launch a probe into how the RCMP and other Canadian law enforcement agencies use the controversial tool, which can ..."
-    publishedDateTime: 2020-01-28T19:22:00Z
-    webUrl: "https://www.thespec.com/news-story/9833836-facial-recognition-technology-poses-enormous-potential-for-abuse-ndp-says/"
-    type: article
-    provider:
-      name: The Hamilton Spectator
-      domain: thespec.com
-    quality: 36
-    images:
-      - url: "https://dynamicmedia.zuza.com/zz/m/original_/a/e/aec26bdc-72bd-413c-9494-fc91ef7c420b/B881027028Z.1_20200128125040_000_GH1S8UDK.5-0_Super_Portrait.jpg"
-        width: 587
-        height: 417
-  - title: "Tech Savvy: Facial-recognition technology stokes privacy concerns"
-    excerpt: "Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier says 72% of ..."
-    publishedDateTime: 2020-01-26T06:40:00Z
-    webUrl: "https://www.brainerddispatch.com/business/technology/4880204-Tech-Savvy-Facial-recognition-technology-stokes-privacy-concerns"
-    type: article
-    provider:
-      name: Brainerd Dispatch
-      domain: brainerddispatch.com
+      name: Canadian Jewish News
+      domain: cjnews.com
     quality: 24
     images:
-      - url: "https://www.brainerddispatch.com/incoming/4880195-oiib4n-IMG_7852.jpg/alternates/BASE_LANDSCAPE/IMG_7852.jpg"
-        width: 1140
-        height: 712
-  - title: "Artificial Intelligence in Medical Imaging 2020 Global Market – Innovation, Technologies, Applications, Verticals, Strategies & Forecasts"
-    excerpt: "“Artificial Intelligence in Medical Imaging Market” WiseGuyReports.Com Publish a New Market Research Report On –\" Artificial Intelligence in Medical Imaging"
-    publishedDateTime: 2020-01-27T08:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186686/artificial-intelligence-in-medical-imaging-2020-global-market-innovation-technologies-application"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15186686"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186686"
+      - url: "https://www.cjnews.com/wp-content/uploads/2020/01/Iron-Soldier-f.jpg"
+        width: 800
+        height: 600
+  - title: "Maxeler Technologies Licenses Healthcare Technologies"
+    excerpt: "The AI-driven prescription predictive models suggest effective medications that minimize adverse effects. Many artificial intelligence-based efforts focus on the aforementioned problem but do so using “black box” approaches which solve the problem, but fail to provide interpretability. Since prescribing physicians are hesitant to rely on ..."
+    publishedDateTime: 2020-01-25T08:05:00Z
+    webUrl: "https://www.pr.com/press-release/804084"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
-    images:
-      - url: "https://www.abnewswire.com/uploads/1580118163.jpeg"
-        width: 466
-        height: 310
-  - title: "Global Automatic Speech Recognition Market by Manufacturers, Types, Regions and Application Research Report Forecast to 2024"
-    excerpt: "Bigmarketresearch.com Published \"Global Automatic Speech Recognition Market 2019 Research Report – Forecast to 2024\" – Market Investment Analysis, Business Operation Data, Top Companys, Opportunity, Features,"
-    publishedDateTime: 2020-01-30T07:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-by-manufacturers-types-regions-and-application-research-report-forecast-to-2024-2020-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-  - title: "Facial Recognition Market 2020-2022: Key Findings, Global Segments, Business Trends, Regional Study, Top Key Players Profiles and Future Prospects"
-    excerpt: "“Facial Recognition Market” global facial recognition market had been valued at USD 3.04 billion in the year 2016, which is expected to reach USD 8.93 billion"
-    publishedDateTime: 2020-01-27T09:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186760/facial-recognition-market-2020-2022-key-findings-global-segments-business-trends-regional-study-t"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15186760"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186760"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
-    images:
-      - url: "https://www.abnewswire.com/uploads/1580120204.jpeg"
-        width: 417
-        height: 455
-  - title: "Voice Recognition Systems Market Size Forecast - 2030"
-    excerpt: "[160 Pages Report] PMI's publication of the Voice Recognition Systems Market-Size, Share, Trends, forecast 2030 examines the market for Voice Recognition Systems and the considerations involved in implementation. The 66-page report reviews the growing ..."
-    publishedDateTime: 2020-01-28T12:44:00Z
-    webUrl: "https://www.openpr.com/news/1911316/voice-recognition-systems-market-size-forecast-2030"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
-  - title: "Artificial Intelligence in Medicine Market Advanced Technology and New Innovations by 2025 – InSilico Medicine, Globavir Biosciences"
-    excerpt: "Market Growth Insight has announced the addition of the “Global Artificial Intelligence in Medicine Market Research Report 2018-2025” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. The global artificial intelligence (AI) in medicine market was valued ..."
-    publishedDateTime: 2020-01-27T13:02:00Z
-    webUrl: "https://www.techworld.com.au/mediareleases/37938/artificial-intelligence-in-medicine-market/"
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
+      name: PR
+      domain: pr.com
+    quality: 19
 
-secured: "No1SFjAwZNfElMZ74V6cIHvL9KMLRMKq4EARYf906BbOinBY3h2br5PbgT/Ht/VF1KPla7ytZOmM8Bi9N78cLKMHbLFSQx1P5tqKh0wSJdzisnwSu6c7HO+wl/4ppdQ38FgPFKgj1tUM+23zTjB8sMfZqxdvuSYOzSxqori4hIpize+Oi7toSoBNeTioc8bgqsq1KGcfhWi7Ivkb0jcGDtkle5q0vu1RBF2wRl6hgy3jKgHFWHN/G7rB94TEvqF10+auAFSIaiO/BDdBgx0QdHhS0y+4kWjpe8qNqzAizvg8At/Zi7WwYMZKgZGehKwB;EAj+bI6IyDSAC/HR8nQcbA=="
+secured: "iWOX3ENQVbWw9cphRTMvQnmYSbiL0xpJX4C9mjP7gRQloMa9qznTVQX0a2uEW+AAb7pNnBmGEfOJyhJaIOS4N+CSZs+qXuz8CjzHXCwZRM8zUi0FQjNgrbMdyEfClBT02hJriidPl9ebVHhgvPS47ojQLdOe/2XW68/SF82CRNCxSpP95s7ny/dqBL2ublN+wm3YJTB15+CDgNRDWC5NTs2rKiRlDHpL2NJmW39ULKGPikA3kO7nuhFRaXham/qsidrdsUtWbgiqkNaiRNyaknyyHtfz6cxtwjrNK7n+kAS9Xc5Kv1jaRTirRjEavULb;fFb7Z/rp2yEpDVC6zesPPA=="
 ---
 

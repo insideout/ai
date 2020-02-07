@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-compl
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
 type: article
 quality: 76
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -60,19 +60,6 @@ related:
       - url: "https://cdn.idropnews.com/wp-content/uploads/2019/01/24072607/apple-car-concept-drawing.jpg"
         width: 1000
         height: 600
-  - title: "Uber is trying to bring its self-driving vehicles to the District"
-    excerpt: "This month, Uber announced plans to bring its self-driving vehicles to D.C. The transportation company began collecting data in the District on Jan. 24 to do so. Exciting times ahead in Washington, DC where we'll officially kick-off manual data collection with three self-driving vehicles, starting tomorrow (weather permitting)! Learn more about ..."
-    publishedDateTime: 2020-01-30T18:08:00Z
-    webUrl: "https://technical.ly/dc/2020/01/30/uber-bringing-self-driving-vehicles-district-dc-data-collection/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 24
-    images:
-      - url: "https://technical.ly/dc/wp-content/uploads/sites/5/2020/01/Uber-ATG-self-driving-cars.jpg"
-        width: 680
-        height: 453
   - title: "Autonomous and Self-Driving Vehicle News"
     excerpt: "As a member of the Consortium, Synopsys will actively contribute to the development of a set of recommendations for system architectures and computing platforms that will be used to address the challenges of deploying self-driving vehicles at scale. Waymo announced it will be driving its Chrysler Pacificas and long-haul trucks in Texas and New ..."
     publishedDateTime: 2020-02-03T02:18:00Z
@@ -100,6 +87,6 @@ related:
         width: 1200
         height: 630
 
-secured: "1IO2gzC/4T5uJ6ARresW6y61F2zaIsfum7/+SIXp8uy1O4SAy3+LvGsq6iqYFhUcNF2r8o/uQz+wcSlDmDtK8UE5OJynMS2LiB7ya69yfTNfPzdRzLjRGkcun7jyrUkZhuVIxw9yWpFp3FITYt8EFitD5bJ/ANCkf5qcUL3I70tTAccPj6GFeFgIJ1cSlUGrhvR+dCpxIcV5Ve6uw89k3yUqnox3eQeTsx1d3nhEHNqFcowN/moC2SLTe03+cyQaFCWlv65SaLlOxJQvwYnrV5XX2KSOloOVeiehXurRB/qZJaD8XKX4lDsuKyyn7zqDeDJ8+++nNdXV/BhEg2FE8Si+BO4B1MWKbEGYLJv3GYUhWi4msWQcYvqV1yIfF++k071cAd0/126OKtPJPN0a3MOEhsu5mtVl6LVbneMKkJ+2CAKl2LajCHBP9Qoqfs1gWINcsOB4+msjt3JpkKTLP/iX8rrjfJL/olLqF1s3f5c=;hMEprYBXY3O3asmEWhNGyA=="
+secured: "F8x/ToGaEK78zeKuXbcG1uNVOhBEF3N2eXEzDE8bUy+WHk8+5BWNzPlmJgXjkM55Ucs1JFG5h37QAK2w+oisU4v6+RFnsJWXob48crIYVy1eYk6KVrBX/9+MQw1Wvw34EpY6nptGwtWWROQflxrkB9I14/3ptkFxFxnGZuGAEY8gGNG3jTFUAkbOFsM/1HCitg237fS/uFYLDqOtTkw9viZpeguCaH0BI3nyhYmA5ajNKgTd4ybOaDmo9rNu9GMyMr5+3aI81oz00yymMlkXK8A5CiN59VePXKoYEQEd85scZ2GOvjDDJ0VaRCM3bJau0fx9ZT/EyU0S/FTS7cix5VRg/lk2q6tJS9vo37NKrDkodwv91o+iPVsu6wElUZKRkIFX5NGyMuWQJML1wWlyBhCc6qQeq9u76i5dmNCSu2s6xrTinZYDRiFw4f5CcbAB8nf3vK47O2o51K237C02HyKXivLy2yiamwXgVZd/dkE=;PGT6wzqDvGD8c+QFdeP5bA=="
 ---
 

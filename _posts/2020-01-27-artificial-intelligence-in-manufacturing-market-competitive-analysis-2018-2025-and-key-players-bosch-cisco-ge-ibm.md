@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
-    excerpt: "Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for mainstream adoption, manufacturing leaders are already stuck in a rut ..."
+    excerpt: "According to Gartner, artificial intelligence is still in the early phases of the hype cycle. Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for mainstream adoption, manufacturing leaders are already stuck in a ..."
     publishedDateTime: 2020-01-23T14:34:00Z
     webUrl: "https://www.techrepublic.com/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
     ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
@@ -39,6 +39,19 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2019/04/16/cc5d2e5c-2d75-433f-a9a7-034a858b46e6/resize/1200x/8e5aaa1afe23fa7488ee8e296e79d3e3/istock-861189644ai.jpg"
         width: 1200
         height: 800
+  - title: "What Machine Learning Trends Can We Expect for Manufacturing in 2020?"
+    excerpt: "Google’s Cloud AI Platform, Amazon’s Web Services, IBM’s Watson and Microsoft’s Azure Platform are all excellent examples of AI and machine learning solutions based in the cloud. As we head into 2020, they will continue to dominate across all sectors. What this activity means for manufacturers is quite simple. Not only will it be ..."
+    publishedDateTime: 2020-01-28T12:38:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/article/2020/01/what-machine-learning-trends-can-we-expect-for-manufacturing-in-2020/14643"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 41
+    images:
+      - url: "https://www.manufacturingtomorrow.com/images/articles/14643.jpg"
+        width: 680
+        height: 340
 
 secured: "e3R9bMHv5yiKZ0ghch4SQUjukpioVBAZoincK44PsN+IbDgF7RrPY5fbGbAWzTODsLhos6HhzhYtg3qUuNUjOV3kNqLYrW/HnKjF5rYzz5QmN+zc81ut4wvDPpEg1xNB0NM+9ywPXPxSGs+mSZvYq2thQXZ6qVjSTtc1W/eeKImcd0Qmw2OZ0ojox91DOlppVjpSZgalEcXJSjkqFi532nPqSQEZD6c+seAL1xL74YxEdNz44v3XR7DFv5ocmiUTgoalsDdgHZOIJAG4nAqFMwoFd6EYpg5Fakcg2bDbX7PmpuM9JOQNks4g57Unmuac;fZHZqxWAJPtGEXTKds4+zA=="
 ---

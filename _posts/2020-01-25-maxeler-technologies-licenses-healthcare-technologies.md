@@ -57,6 +57,19 @@ related:
       - url: "https://www.cjnews.com/wp-content/uploads/2020/01/Iron-Soldier-f.jpg"
         width: 800
         height: 600
+  - title: "Top Trends Driving Technology Innovation Investments in 2020 Revealed by Virtusa"
+    excerpt: "Machine Learning for All. In 2020, we believe there will be more efficient algorithms to automate Machine Learning (AutoML). This will spur the adoption of AutoML at the enterprise level ..."
+    publishedDateTime: 2020-01-28T00:00:00Z
+    webUrl: "https://www.medindia.net/health-press-release/Top-Trends-Driving-Technology-Innovation-Investments-in-2020-Revealed-by-Virtusa-448876-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 19
+    images:
+      - url: "https://www.medindia.net/images/common/regis/450_237/hypertension-popup.jpg"
+        width: 300
+        height: 250
 
 secured: "3ryzOvHXLi4UbprLmqjtFiEqrQ2ZliIgYlYTyKwhtf6qTAVRecUpJozQq/Sjb0NIvS57HWy+RSGA8PFi4h3r5z9cOxIYajgaiCMlRDUGPBGsg++LJMpOl/H+u6NHg8Xt+LMuRDw2VWD4HNU6ZC4Rv3La1bQfKzmtvcvjNunDa6VSz+l/K/2XO0d2BiZm11ogH4VpeSrJSIQ0rX6cLdJehGZ+uz9AsOYgyxoEt/7X02ue1QszsvPKuY67SPV89atS9NTWu+MuPlrkZQTZclMtjJgN3M6+HhLJ53uMdYfq1x0zymSBSkoDz39vFLp0wDyn;eyvVz6SWNeBAu8HXR9UIfg=="
 ---

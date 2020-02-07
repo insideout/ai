@@ -37,19 +37,6 @@ related:
       - url: "https://www.thenational.ae/image/policy:1.973944:1580820569/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
         width: 1200
         height: 675
-  - title: "AVs are getting their own rules"
-    excerpt: "By granting an exemption to Nuro's self-driving delivery vans, the National Highway Traffic Safety Administration is beginning to pave the way for the driverless era. In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world ..."
-    publishedDateTime: 2020-02-07T17:37:00Z
-    webUrl: "https://www.axios.com/autonomous-vehicles-regulations-5f371552-7a5c-4d1a-a6ef-69db96964de7.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
-        width: 1920
-        height: 1080
 
 secured: "8mRh2MV7y2Tu3lVfqjqMoBA+PH4l2pC87IyINbHusm9O74MVxLYhHus/feLykjE7UU+E99I8znFYNnV9SavYReOv3FVrY72e4+kxBKEEjh9eCKrvxGen3dAjA32vE1GmPMmJzF2jxKFCfMvJoD11u1WL8NBgWuwMw4/CIGs+82nS/zNmawWIxUiRkuonusIo6tNdtAWkzzxmP7iOAuB/bR7t2RESm8mxw9X3KFqcgwd88Od2wuJiJk207cL1WoPkdpagNE69IAE/Ux0TN3iXmmk8HqvDmgn4OlMzirZAyezJtHmE+iOB2NeQEdbLNObRslJR/cznXN2N97rbsuPSJ/v7/jsjNcM4Spv4qoCrCdji/CJInwRwSV2hxBGag2tygMj27YHRitA7B29LXXzSKSvEBIrNM7lG5B8m5AtG3ak69gtC9jg9OyYhYK0hBhO7TuGA5kNOLQukrmrgdABaMYPd4ZgZJwVthy3P6SiBQ34=;yQRfhmkp+CsDMjUWtF9bUw=="
 ---

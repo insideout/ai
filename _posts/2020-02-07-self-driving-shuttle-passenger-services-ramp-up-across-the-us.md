@@ -24,17 +24,6 @@ images:
     title: "Self-driving shuttle passenger services ramp up across the US"
 
 related:
-  - title: "GM Rolling Out Super Cruise Self-Driving Tech To 22 Models Across The Board By 2023"
-    excerpt: "An enhanced version will be introduced later this year and feature a new automated lane change function. When the self-driving tech is activated, users simply need to tap the turn signal to indicate that they want to change lanes. When an appropriate opening has been found, the vehicle will automatically switch lanes. Besides the new lane ..."
-    publishedDateTime: 2020-02-06T22:31:00Z
-    webUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/"
-    ampWebUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 18
   - title: "Photos: Smart Columbus self-driving shuttle starts rolling in Linden"
     excerpt: "Smart Columbus has launched its self-driving shuttles between COTA routes and community centers in Linden. \"To be part of innovation in a community that deserves access and equity is exciting for us.\""
     publishedDateTime: 2020-02-06T12:00:00Z

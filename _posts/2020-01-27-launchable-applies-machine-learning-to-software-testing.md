@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3516292/launchable-applies-machine
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     width: 1200
     height: 800
     title: "Launchable applies machine learning to software testing"
+
+related:
+  - title: "Uber's self-driving cars are launching in Washington D.C. for testing"
+    excerpt: "The cars will have drivers, and won't be taking passengers, as part of data collection for future development and eventual roll out."
+    publishedDateTime: 2020-01-24T16:44:00Z
+    webUrl: "https://www.businessinsider.com/uber-will-begin-data-collection-for-self-driving-vehicles-on-friday-in-washington-2020-1"
+    ampWebUrl: "https://www.businessinsider.com/uber-will-begin-data-collection-for-self-driving-vehicles-on-friday-in-washington-2020-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-will-begin-data-collection-for-self-driving-vehicles-on-friday-in-washington-2020-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://i.insider.com/5e2b1cd3b6d52d20320b5500?width=1200&format=jpeg"
+        width: 1200
+        height: 600
 
 secured: "cO804Hbt4UESkEkl5cg/rM7lXieu9xUeiDpzrOSz21cIalqVtMUUjZUmBgzhRUZcK70vJVxCRxyUrmc+G3gMWC1nQQJKy3XH7wOxfkjmGH61wJzxUsSYN1xk1cZiy31cNmzSNMof2QSkwqCPJY5rJkq8OqdrhGYBGBRI0oZzZZoPgieYNHslfeGa+/oSWIvQ1FarUZoricArVIFwXro73uBHW2uetQYfsBP1RGqvVfuTrCXRCS4h/Wj2b6N/73DNlLPkTXIeX4bNZtRD2LY4M30G0X0Vl5AAMI4+Sqyme0mrZplNnwl4ApZZMNQ6vFi3;VatebtRqC3Fgk794HmvJoQ=="
 ---

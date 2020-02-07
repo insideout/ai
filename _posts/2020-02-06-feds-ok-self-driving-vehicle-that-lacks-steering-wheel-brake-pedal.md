@@ -56,33 +56,6 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ALVEY7JR7NCHZKKWPIJVSNBDLY.jpg"
         width: 6720
         height: 4480
-  - title: "Nuro Self-Driving Car Scores Federal Regulator Approval(Radio)"
-    excerpt: "Self-driving robot start-up Nuro Inc. has been granted regulatory permission to deploy its grocery delivery vehicles on the nation’s roads, making the company’s autonomous vehicles the first approved to temporarily sidestep car-safety standards."
-    publishedDateTime: 2020-02-07T16:03:00Z
-    webUrl: "https://www.bloomberg.com/news/audio/2020-02-07/nuro-self-driving-car-scores-federal-regulator-approval-radio"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 34
-  - title: "The feds just blessed a custom self-driving vehicle for the first time"
-    excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
-    publishedDateTime: 2020-02-07T12:30:00Z
-    webUrl: "https://arstechnica.com/cars/2020/02/the-feds-just-blessed-a-custom-self-driving-vehicle-for-the-first-time/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
-  - title: "US lets self-driving vehicle bypass human-driver safety rules"
-    excerpt: "DETROIT (AP) — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
-    publishedDateTime: 2020-02-06T18:08:00Z
-    webUrl: "https://www.pennlive.com/news/2020/02/us-lets-self-driving-vehicle-bypass-human-driver-safety-rules.html"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 4
 
 secured: "EP8MPPveECY5QHb0Tclse1UQfKpsKPwYj/UeXKI7Gqj6Sye+zG924LUR+A4tRdyZ7vw8QuRvVoed3mdU9WYR7qzApgxbfWNZOZo7ptYzRkNv38Oer24bu18u1Z0uhLyu2XScELsNj3e11078LKttSb5cf2MPacJgBQHF2IehkE5zHhhWAQ7mfVsNv2lpruh00Sr8pWEbPJBBrv8kFgd86N0FfFlIioKUfFHwN1dXFHdgMISLh2ygGc4kaQIOJFmlCATlW3rVaT6t2SFS7nNb21mogCWqCBnS1InSApTJo55RojROEMih34PkU/HivMfS9HIlSxKkxB1N8ChPk5t/UBBdJbhN+85BMuaeOs2Z0LNEh4ywc+b9JhtXQHqhjpj9YJE2WANHgefCdGjVxUI5i8mWj7XSxaQvlmbp5PTt/9Sc33iNxHeDwTJco9bkGF/Vw9tkkjCB2UWa8DSpJLO95Q0M14BEGMsGGg7vpGE1GqU=;p/aHPEbayc03c9x4zCGYqQ=="
 ---

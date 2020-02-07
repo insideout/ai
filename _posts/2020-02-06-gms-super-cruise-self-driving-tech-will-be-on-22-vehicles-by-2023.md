@@ -8,7 +8,7 @@ ampWebUrl: "https://www.caranddriver.com/news/amp30795396/gm-super-cruise-self-d
 cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,45 +26,17 @@ images:
     title: "GM's Super Cruise Self-Driving Tech Will Be on 22 Vehicles by 2023"
 
 related:
-  - title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
-    excerpt: "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages."
-    publishedDateTime: 2020-01-31T11:52:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
+  - title: "GM Rolling Out Super Cruise Self-Driving Tech To 22 Models Across The Board By 2023"
+    excerpt: "An enhanced version will be introduced later this year and feature a new automated lane change function. When the self-driving tech is activated, users simply need to tap the turn signal to indicate that they want to change lanes. When an appropriate opening has been found, the vehicle will automatically switch lanes. Besides the new lane ..."
+    publishedDateTime: 2020-02-06T22:31:00Z
+    webUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/"
+    ampWebUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 59
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-  - title: "When can we buy self-driving vehicles? No one knows"
-    excerpt: "Recently, the U.S. Department of Transportation released its fourth edition of guidance for the introduction of automated vehicles. That must mean self-driving vehicles are coming soon, right? Yes. Well, no. Ummm, maybe? Over the past several years, there has been a lot of talk about self-driving vehicles. Whether it’s cars, trucks or both ..."
-    publishedDateTime: 2020-02-06T21:01:00Z
-    webUrl: "https://landline.media/when-can-we-buy-self-driving-vehicles-no-one-knows/"
-    type: article
-    provider:
-      name: Land Line
-      domain: landline.media
-    quality: 24
-    images:
-      - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
-        width: 540
-        height: 420
-  - title: "Rules eased for self-driving vehicle"
-    excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
-    publishedDateTime: 2020-02-07T06:44:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?latest"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
+      name: Carscoops
+      domain: carscoops.com
+    quality: 18
 
 secured: "ixVS1sNv+tOY4MSgn9zsk0+fzM2icmMLv5FYZizuu99oOHhfy2vskkDM8rl0beOI4BMkKIr3F6r000FDAgeuhuc9PV/E9jNQ1MfT8I/iIQ4ooEhhtdpL088i/gY4tcEE1+bDh0sAOFan2AGUoi/vjBO31qS5PxHVgd5axUidecTwiW7Jb9kztrm+x/KdggzRs4Rl9pnXMDjKVHm7T2zHmkgLWzKZvlLS+7a8kqGXha0axtT4l2LtcDBjsSrAAnK/pSbgn/8o/8prai3L9yDEN5LGk045KkF/UHYhCyfELEXrDxR8nIVcQKQqb487Jfgh;U4yxj49E2fZsUx7L15xYTg=="
 ---

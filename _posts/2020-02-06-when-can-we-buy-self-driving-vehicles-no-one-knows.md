@@ -24,34 +24,52 @@ images:
     title: "When can we buy self-driving vehicles? No one knows"
 
 related:
-  - title: "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month"
-    excerpt: "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages."
-    publishedDateTime: 2020-01-31T11:52:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
+  - title: "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car"
+    excerpt: "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ..."
+    publishedDateTime: 2020-02-07T22:57:00Z
+    webUrl: "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 59
+      name: TechSpot
+      domain: techspot.com
+    quality: 58
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-  - title: "GM's Super Cruise Self-Driving Tech Will Be on 22 Vehicles by 2023"
-    excerpt: "GM is finally expanding its hands-free Super Cruise driver-assist system beyond the Cadillac brand. According to GM president Mark Reuss, the feature will be available as an option on 22 vehicles by 2023, with seven vehicles getting the feature next year and 12 more in 2022 and 2023. This, it goes without saying, is a huge expansion of the ..."
-    publishedDateTime: 2020-02-06T18:42:00Z
-    webUrl: "https://www.caranddriver.com/news/a30795396/gm-super-cruise-self-driving-2023/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg"
+        width: 800
+        height: 560
+  - title: "Nuro Self-Driving Car Scores Federal Regulator Approval(Radio)"
+    excerpt: "Self-driving robot start-up Nuro Inc. has been granted regulatory permission to deploy its grocery delivery vehicles on the nation’s roads, making the company’s autonomous vehicles the first approved to temporarily sidestep car-safety standards."
+    publishedDateTime: 2020-02-07T16:03:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2020-02-07/nuro-self-driving-car-scores-federal-regulator-approval-radio"
     type: article
     provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 44
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 34
+  - title: "The feds just blessed a custom self-driving vehicle for the first time"
+    excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
+    publishedDateTime: 2020-02-07T12:30:00Z
+    webUrl: "https://arstechnica.com/cars/2020/02/the-feds-just-blessed-a-custom-self-driving-vehicle-for-the-first-time/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 34
+  - title: "AVs are getting their own rules"
+    excerpt: "By granting an exemption to Nuro's self-driving delivery vans, the National Highway Traffic Safety Administration is beginning to pave the way for the driverless era. In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world ..."
+    publishedDateTime: 2020-02-07T17:37:00Z
+    webUrl: "https://www.axios.com/autonomous-vehicles-regulations-5f371552-7a5c-4d1a-a6ef-69db96964de7.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
     images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0127-super-cruise-lane-change-photo-final-1580163336.jpg?crop=1.00xw:0.747xh;0,0.165xh&resize=1200:*"
-        width: 1200
-        height: 601
+      - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
+        width: 1920
+        height: 1080
   - title: "Rules eased for self-driving vehicle"
     excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
     publishedDateTime: 2020-02-07T06:44:00Z
@@ -65,6 +83,15 @@ related:
       - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 399
+  - title: "US lets self-driving vehicle bypass human-driver safety rules"
+    excerpt: "DETROIT (AP) — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
+    publishedDateTime: 2020-02-06T18:08:00Z
+    webUrl: "https://www.pennlive.com/news/2020/02/us-lets-self-driving-vehicle-bypass-human-driver-safety-rules.html"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 4
 
 secured: "tQHmnUGOsAuPDxvz9J6SCNC0fMDFATQS/U3VRcF5BWGVBiv3Djd7vl6pc6RFsVImaUDYKkFuWa5pEnww9qNXvKcbQkEu/K8c4f85BTi1Y15HJI3DFbi8trvsIXpeHc1Nt/d0FvLZJ5JLX7tPfbgl3SY4CTdX1s6sGGQCHOsThaadDB7HQrBvFEBu7w3hNuEFSrncZ8e+Q6QMjuJs+eBb7zrA861fxcL6O2PxQV6gkUcW5oDtF0AQZwkh9FqYqnnEJLneeCc4Cn3uypJD4eVMWCmr4o2Cr2ibBekJuvVf8cIxkgTIV9V1I4mm0IUHFqMv3dXVceGS/lLZxLGSmicQP8acYGSNXJyXrGbs2UNIwlVztSAMm9fZb8awpHFksnADShWuDTY856ZG3NM7LUHcckGY9vbZIXwnSR+Pz6k6AtVDIJf50eC86aI2tNbnQFHVlMLKHDV/v5k65NUPW54Wq6XE4fZaEat+Aamp7SKZLGo=;A3GgFScTkf0Ypr0SxX9seg=="
 ---

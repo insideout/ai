@@ -24,19 +24,19 @@ images:
     title: "RI: Are self-driving cars a solution for transit? An East Coast test shows their promise and challenges"
 
 related:
-  - title: "Are self-driving cars a solution for transit? An East Coast test shows their promise and challenges"
-    excerpt: "In the Seattle area, a collection of companies is joining in AV research. Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. (END OPTIONAL TRIM) The service in ..."
-    publishedDateTime: 2020-01-24T20:40:00Z
-    webUrl: "https://www.heraldcourier.com/business/business_ap/are-self-driving-cars-a-solution-for-transit-an-east/article_f30d1f60-0326-5817-b1bc-360c1ed811da.html"
+  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
+    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens today and runs through Friday in Las Vegas, may provide a clue when it serves ..."
+    publishedDateTime: 2020-01-29T20:15:00Z
+    webUrl: "https://www.readingeagle.com/money/ces-trade-show-to-spotlight-big-tech-trends-in-g/article_f29fcbce-2476-5d9d-8721-4bd8001f7aa8.html"
     type: article
     provider:
-      name: Bristol Herald Courier
-      domain: heraldcourier.com
-    quality: 10
+      name: Reading Eagle
+      domain: readingeagle.com
+    quality: 17
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/custom/image/924d18d2-c893-11e6-a201-97fe62cf4d14.png?resize=600%2C600"
-        width: 600
-        height: 600
+      - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/8/1c/81cfde56-30b2-11ea-bca6-43cdac5fc0d1/5e137cc8c7d77.image.jpg?resize=841%2C630"
+        width: 841
+        height: 630
 
 secured: "DykHKk90hlh8CLd8SmIwOaQP/tDgmFqY7Q+axmQH+5lVU4vbXQKfs0ogKm2fpxuJkxF1J+KR/0DkyFFYJ8GbyrCe0gQ9Wst4WvQZdm2vh3DCWAPcDMKYnkowyGyMEkXQqp1iRuXH3LXHoHBybwNAWD9ZSatNvzyCgWbKM60R+Wj7tnySy8PtCx/ERUAX47XbHh3Ohyi/W3LE/GMD0fO+oJ1llUZ4Fbf3rGbwPandTHDGdzkkBeLIzPNzQCez6l2GvGuj6FahCjLGOI4PdVZ1Pw+X1AYpH7cD07rknVYbDL89hqOmg7yr1KqCzGq+N6UzescBJTKjq8y0mwhoectJFJbIgR8R9ssz0LHJCoMwJU5Bw/S9oHm+5dg7345RxGg88awWUm3dJCKEkIQF3AXjCHqLXvWs3kwkFnD5YvQiHUTB+ooQz5o0hQxNs2FGDdqGs8K80N0VL+NT+QLEg83kdF0rKeJGQXyzdcTXjrNeol0=;BcPJ6IFv2vSAcsWgCTPllA=="
 ---

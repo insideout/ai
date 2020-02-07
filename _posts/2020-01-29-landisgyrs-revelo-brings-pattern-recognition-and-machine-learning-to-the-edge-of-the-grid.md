@@ -68,6 +68,21 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/01/29/mask_3.jpg?itok=o51DKRSy"
         width: 1200
         height: 630
+  - title: "CPD using controversial facial recognition program that scans billions of photos from Facebook, other sites"
+    excerpt: "Critics say Clearview AI’s software is an invasive overreach because it grabs the photos without the consent of those pictured or even the websites that post them. The Chicago Police Department is using a controversial facial recognition tool that allows investigators to search an image of unknown suspects to see if it matches a database of three billion photos lifted from websites like Facebook,"
+    publishedDateTime: 2020-01-29T05:30:00Z
+    webUrl: "https://chicago.suntimes.com/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 43
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Z1sfgvRN8Spjpfj6rY2OvYwMNYI=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66211429/large.0.jpg"
+        width: 768
+        height: 465
   - title: "Army developing binoculars that can identify far-off faces in the dark"
     excerpt: "But as the Army develops increasingly advanced technology, its enemies are also getting better at hacking into these systems, researchers said. Hackers can cripple facial and object recognition systems during development, said MaryAnne Fields, program manager for intelligent systems at the Army Research Office. The Army recently funded work by ..."
     publishedDateTime: 2020-01-31T11:53:00Z

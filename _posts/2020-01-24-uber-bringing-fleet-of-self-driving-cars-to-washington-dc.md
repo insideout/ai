@@ -100,6 +100,19 @@ related:
       - url: "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_SelfDriving1.jpg"
         width: 640
         height: 431
+  - title: "The road ahead for AV in the age of self-driving cars"
+    excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
+    publishedDateTime: 2020-01-28T10:25:00Z
+    webUrl: "https://www.avinteractive.com/features/blogs/road-ahead-av-self-driving-cars-28-01-2020/"
+    type: article
+    provider:
+      name: avinteractive.com
+      domain: avinteractive.com
+    quality: 24
+    images:
+      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
+        width: 620
+        height: 330
 
 secured: "U6sNSadhnVfJF63Wd3zMrtpCP7SdDSIoaFct5PsWWUDvNzhuYVkQrMkl1RpYmneQhP5NwM2taRxAqd1di82tR/CGpaVC6u1e7/4H9tDY0V2h4S0B3QEU3UDlc2ZFy2nBiKSgyKQV1O8Ampetyu9leyGMW6xnXnx2VWDRLIVYv34ajGk2c1wjdpxmFYVRLbd2IZ/FcBe72gQufQQrEvQwiZokwhyiVeSH9MQm8OPqpb801JHXnSCi7pOCXnrBiixxkn+VExJxwj0A2Or4Tmd5tWl2blNzMkTMn7qmBkKU1yi8556vrv88NiJUrhogBBpXiBigw9+foTczTZuurJcfMIebfhUc5Ki0UBX5p0SfgihSlNmX5AxyaaNnlzPUOI4TkUpW7dTSyoZPSoaaz2tR78AXJkLkDlIEWWoWbrohoAdXYkErBDXLki549kbqaLfZK8pPj93coJUFMjyKoucS0c32K3SWomHFI2/ZDQMrg14=;830ui7lo6xA6MsGvjjpjAw=="
 ---

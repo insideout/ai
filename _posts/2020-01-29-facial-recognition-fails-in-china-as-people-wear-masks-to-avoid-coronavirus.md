@@ -54,6 +54,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
         width: 640
         height: 480
+  - title: "CPD using controversial facial recognition program that scans billions of photos from Facebook, other sites"
+    excerpt: "Critics say Clearview AI’s software is an invasive overreach because it grabs the photos without the consent of those pictured or even the websites that post them. The Chicago Police Department is using a controversial facial recognition tool that allows investigators to search an image of unknown suspects to see if it matches a database of three billion photos lifted from websites like Facebook,"
+    publishedDateTime: 2020-01-29T05:30:00Z
+    webUrl: "https://chicago.suntimes.com/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 43
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Z1sfgvRN8Spjpfj6rY2OvYwMNYI=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66211429/large.0.jpg"
+        width: 768
+        height: 465
   - title: "Landis+Gyr's Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
     excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not \"smart.\" Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
     publishedDateTime: 2020-01-29T14:09:00Z

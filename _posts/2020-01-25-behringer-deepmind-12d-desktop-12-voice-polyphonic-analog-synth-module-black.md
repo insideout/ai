@@ -27,15 +27,6 @@ related:
       name: Reverb.com
       domain: reverb.com
     quality: 19
-  - title: "Behringer DeepMind 12 Polyphonic Analog Synth (Open to Trades, Bristol or Nearby)"
-    excerpt: "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging. I will ship with tracking to ..."
-    publishedDateTime: 2020-01-24T05:46:00Z
-    webUrl: "https://reverb.com/item/31558266-behringer-deepmind-12-polyphonic-analog-synth-open-to-trades-bristol-or-nearby"
-    type: article
-    provider:
-      name: Reverb.com
-      domain: reverb.com
-    quality: 14
 
 secured: "O5etYX+6t7QWgO2xQm3jpcPipuWQQtn9IEsSrVRe1r3RvAcumkJmeMLMofRj4gdQWHBSuZxCo4LUcVdhLO0ryayngq87dksRgd/SONyvjYE/IsoXoK0cMkRIire51SlNy8SgP7Wn584eTHtwYUL6uZSQfFC0DTQDtCR+gxWnDzErdrTIQ6K9r5sYiCqa2zQPKpDxDjYCrKp2OvB8Q1m3Rrv0315oqdNYRlK8p6j+JtvBpUyNB6BaE49k0wCaDwMEyRgaz0+Oak2AgH6MgpsG1YQwQq2qdkuPnjlHVOCLygm5f3mSdY1Hfh+I7cXxnAanLEcuJzkitWo/jjNUjTdSZPRHX48jDw3JQwtCKJMwdMzWXXsu/C0AXa38fkiD04NENYCJMJ8WUBG3Yw5bbbmct/3l2748RKpCDjrf7vNkU7dGMSwVABRTlGn6FzDR/a0/TCvB2od4keaNNCM1ONj0ys5t91CROL9PToNxUXvGJdE=;QusGXC5kFP+mYvV6QmqmTQ=="
 ---

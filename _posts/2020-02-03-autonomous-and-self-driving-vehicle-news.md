@@ -69,19 +69,6 @@ related:
       - url: "https://cdn.idropnews.com/wp-content/uploads/2019/01/24072607/apple-car-concept-drawing.jpg"
         width: 1000
         height: 600
-  - title: "Uber is trying to bring its self-driving vehicles to the District"
-    excerpt: "This month, Uber announced plans to bring its self-driving vehicles to D.C. The transportation company began collecting data in the District on Jan. 24 to do so. Exciting times ahead in Washington, DC where we'll officially kick-off manual data collection with three self-driving vehicles, starting tomorrow (weather permitting)! Learn more about ..."
-    publishedDateTime: 2020-01-30T18:08:00Z
-    webUrl: "https://technical.ly/dc/2020/01/30/uber-bringing-self-driving-vehicles-district-dc-data-collection/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 24
-    images:
-      - url: "https://technical.ly/dc/wp-content/uploads/sites/5/2020/01/Uber-ATG-self-driving-cars.jpg"
-        width: 680
-        height: 453
   - title: "Working the bugs out of self-driving vehicles"
     excerpt: "She did so at a technology show in Las Vegas. Autonomous vehicles — self-driving cars and trucks, some call them –remain a technology with plenty of bugs to work out. Those concerned about them point out that they can be dangerous. Indeed, they have ..."
     publishedDateTime: 2020-02-04T06:18:00Z

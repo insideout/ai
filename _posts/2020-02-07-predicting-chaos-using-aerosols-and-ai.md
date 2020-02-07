@@ -24,22 +24,20 @@ images:
     title: "Predicting chaos using aerosols and AI"
 
 related:
-  - title: "Identifying forest loss using Artificial Intelligence"
-    excerpt: "Wellington technology start-up Lynker Analytics has been selected by the Ministry for the Environment (the Ministry) to lead a consortium including UAV Mapping NZ and Carbon Forest Services to inventory the extent of forest loss in New Zealand during 2017 ..."
-    publishedDateTime: 2020-02-04T20:38:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2002/S00054/identifying-forest-loss-using-artificial-intelligence.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2002/S00054/identifying-forest-loss-using-artificial-intelligence.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2002/S00054/identifying-forest-loss-using-artificial-intelligence.htm"
+  - title: "Using Artificial Intelligence in Trading"
+    excerpt: "Artificial intelligence (AI), which is also called machine intelligence ... This advanced technology has been used to power self-driving cars, voice-activated assistants and, now, trading. Traditional trading strategies use technical analysis conducted by humans, to assess investments and detect trading opportunities. This is done by analysing ..."
+    publishedDateTime: 2020-02-07T20:07:00Z
+    webUrl: "https://medium.com/@rfexchange08/using-artificial-intelligence-in-trading-6a09a6b4ed50"
     type: article
     provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 57
+      name: Medium
+      domain: medium.com
+    quality: 69
     images:
-      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
-        width: 268
-        height: 250
+      - url: "https://miro.medium.com/max/1200/1*S3as9DvE-54fw9_q6JXAhQ.jpeg"
+        width: 1200
+        height: 627
 
-secured: "RIQyWZwINEwCFgwXQFGM/l+ieV7ZuioXdQqATlrPtTkfKhCMlwkW/PUgflWmG9cBWcoTYA6xH+m6A9vaFYmlBi+/9++iXHj/41IUMz14tuLwvVdXPTwCR2BsIPiUMypWCzGRAkUfYeeOYC4FJ95wYTkrEdMOX8oSDyUBGQdASdrweFt8d9QmWtF2ma2VXtIDZOeHOqbRwq/zZDV4nWGJux4jQc6/f8ak8bcapHqjRuKBGuo2XfH2VbP3TmO+aVDLQlsTZbHjwwEVhe7/Vrt1wF/tqWXyynoPpDlr/nIJIpaHvaa8IGYVFrw0Tv/L/954;ff22VI/JZk6wdVGDWeM/SA=="
+secured: "Zvn0nSG8LsHHdYWhsVz6l8peCrizoZPFu+BVORJOgtFcgW68YrHZDYdo6zhYb/oHbcFvyBO62G7Vc7zSqvJoLfU2WKj5T6u+ov5BaBWWisy/tU1P1Ry26cuQ5RfZdwu0+zHjhvxSeMW95TSZhk5kVZ1XMgLhMqSkRE79NkMo5akniIg9sghCmnPWyt0nYugEGXNdzNEa33ZRhZx34PS5Z4nTQoTDESCZ+hneUSJoLb83sQ4f6jO0Enf96zIVUOrRdS+J0eZ7z4Y1g6L4bvH+HLExGqv7lLKKC2HU3pTnuuvNnHti1C39FL9hzZvnBpgGlRBD6I5uYbz0xdKesysBy0FUNM3L5t4EzaXGJS1YChtFGVNeO4xPmqRsaD6YG53ra1DXfNYkQLYQKApyHvuKLsNUdoHWMbzSb8ZV/Cn0F/mi0PHfuZh9Mgs54DVpFPmq5VgcW7mziPJs1KMLgCrp8fgKEvX+zEvvgrt+bJxRfZI=;FlxygbGpAtJMloqsw9C8lg=="
 ---
 

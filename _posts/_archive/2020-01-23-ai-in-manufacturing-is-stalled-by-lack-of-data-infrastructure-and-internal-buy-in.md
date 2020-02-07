@@ -1,14 +1,14 @@
 ---
 category: news
 title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
-excerpt: "Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for mainstream adoption, manufacturing leaders are already stuck in a rut ..."
+excerpt: "According to Gartner, artificial intelligence is still in the early phases of the hype cycle. Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for mainstream adoption, manufacturing leaders are already stuck in a ..."
 publishedDateTime: 2020-01-23T14:34:00Z
 webUrl: "https://www.techrepublic.com/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
 
 related:
+  - title: "What Machine Learning Trends Can We Expect for Manufacturing in 2020?"
+    excerpt: "Google’s Cloud AI Platform, Amazon’s Web Services, IBM’s Watson and Microsoft’s Azure Platform are all excellent examples of AI and machine learning solutions based in the cloud. As we head into 2020, they will continue to dominate across all sectors. What this activity means for manufacturers is quite simple. Not only will it be ..."
+    publishedDateTime: 2020-01-28T12:38:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/article/2020/01/what-machine-learning-trends-can-we-expect-for-manufacturing-in-2020/14643"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 41
+    images:
+      - url: "https://www.manufacturingtomorrow.com/images/articles/14643.jpg"
+        width: 680
+        height: 340
   - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
     excerpt: "This technology is used in industry verticals, such as manufacturing, supply chain, and others. Development of artificial intelligence-empowered chips, robots, and others in manufacturing help enhance the overall production line, and thus, has significantly increased the adoption of artificial intelligence in the manufacturing sector."
     publishedDateTime: 2020-01-27T13:01:00Z
@@ -44,6 +57,6 @@ related:
         width: 600
         height: 246
 
-secured: "kGJetUbWtsXm+X0hS5idz732JaR75sq5wf5ps8JIIV+ZSm4IyNshXFqnoLMP5sfvEYLMVoVBRxvPmJ5X5x/mqL2Aj7nL/HOVCOlMyTmLiW1GHJ3zDypzRMhI3liKuXj+R76t7WiKLGlcAsaZUj8NoXevMyyKnflZuV1gSsW06SgGk5o6Pv3epg9Ihwj4bjEftgXEwX5T+Iq1sWt9lN/SiQIBwhTtiR0/VWZZ516nedlxg8UHF4qoaxMTRnSdCVpQibm0AzzqOrs5rMrDuAXFDfPraVYXKkGpKMs5lHmhyzqGGsM+I5E6aKQLYuXcquVv;iTO1lwbnqzkQXig4LWV7Fw=="
+secured: "Ju2vuxW1ynwPurzuGWhdLYJnIuh7x/CnMwS3tX4tJ6kZqmuSoMmhr0OwgfcDfigH9BeIY3Fiut0BXWiuaFDdxiF4daQYI/31TdaIa5+/yoKN+LMpAQXa35IQ2GlmHoj1FBpF2e7/MQWRVc9NKz++WVtdGTulRNxCJeZILwYHUoxiyEZn6zXZyWum7w2QdUFq69o+Pyjy2eB6y7ToUxBFllSGv0+y+cr2Q27qzhw7YaNcQz0ag+BHyXVN77IFRg9OK0f/Ll2414On85c3WSckWUD+svTzH3T1H1EomEjMBC7BzOnhtAQWGC6bVLFh6sOK;8pVMy3bjG5gKvtIvn3Q/EA=="
 ---
 

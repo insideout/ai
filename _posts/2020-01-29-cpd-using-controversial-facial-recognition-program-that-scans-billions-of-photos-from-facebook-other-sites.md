@@ -27,54 +27,88 @@ images:
     title: "CPD using controversial facial recognition program that scans billions of photos from Facebook, other sites"
 
 related:
-  - title: "Facebook Messenger may soon use face recognition to lock the app"
-    excerpt: "Perhaps more importantly, the text suggests that face recognition details will not be stored on Facebook’s servers. Whether it will implement its own technology or use Android’s and iOS’s facilities isn’t yet clear. And whether it will indeed do as it says will be a whole different matter entirely."
-    publishedDateTime: 2020-01-24T05:58:00Z
-    webUrl: "https://www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/"
-    ampWebUrl: "https://www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/"
+  - title: "How LSD, Nuclear Weapons Led to the Development of Facial Recognition"
+    excerpt: "We have Woody Bledsoe to thank for being one of the fathers of facial recognition technology. In the early ’60s, this sharecropper’s son from Maysville, Oklahoma was a pioneer in having machines recognize faces. Bledsoe’s early research into facial recognition technology attracted fans, most particularly, the U.S. government and the CIA ..."
+    publishedDateTime: 2020-01-29T16:44:00Z
+    webUrl: "https://observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/"
+    ampWebUrl: "https://observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
+      name: Observer
+      domain: observer.com
+    quality: 59
     images:
-      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/01/messenger.jpg"
-        width: 1280
-        height: 800
-  - title: "Campaign to Ban Face Recognition at U.S. Colleges Gathers Steam"
-    excerpt: "An organized campaign against the use of biometric surveillance at universities and colleges in the U.S. is ratcheting up pressure on institutions it believes are currently using—or are likely soon to adopt—face recognition technology. Fight for the Future, one of the nation’s leading digital rights organizations, and Students for ..."
-    publishedDateTime: 2020-01-28T13:38:00Z
-    webUrl: "https://gizmodo.com/campaign-to-ban-face-recognition-at-u-s-colleges-gathe-1841302162"
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/GettyImages-1080200064.jpg?quality=80&strip"
+        width: 3500
+        height: 2334
+  - title: "Lightfoot urged to pull the plug on facial recognition technology"
+    excerpt: "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\""
+    publishedDateTime: 2020-02-04T11:33:00Z
+    webUrl: "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
-  - title: "Facebook will pay $550 million to settle a class-action lawsuit in Illinois surrounding its alleged violations using facial recognition technology"
-    excerpt: "Facebook said on Wednesday it reached a $550 million settlement in principle related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent. The settlement is the largest payment from a company to settle privacy complaints, a press release from the law firms Edelson, Robbins Geller ..."
-    publishedDateTime: 2020-01-29T00:00:00Z
-    webUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1"
-    ampWebUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/5e3217765bc79c3a250185f8?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-  - title: "Facebook to pay US$550 million to settle face recognition lawsuit and avoid ‘risky and expensive’ trial"
-    excerpt: "If Facebook had lost it might have been forced to pay US$6 billion, according to Matthew Schettenhelm, Bloomberg Intelligence litigation and government analyst. Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest ..."
-    publishedDateTime: 2020-01-30T04:04:00Z
-    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3048174/facebook-pay-us550-million-settle-face-recognition"
+      - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
+        width: 640
+        height: 480
+  - title: "Facial recognition fails in China as people wear masks to avoid coronavirus"
+    excerpt: "For hundreds of millions of people in China, the spread of the new coronavirus has caused abrupt changes to the smallest of habits -- even a gesture that most in the country are used to by now: Looking into the camera for facial recognition. Residents donning surgical face masks while venturing outside their homes or meeting strangers have ..."
+    publishedDateTime: 2020-01-29T23:09:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3048147/facial-recognition-fails-china-people-wear-masks-avoid-coronavirus"
     type: article
     provider:
       name: South China Morning Post
       domain: scmp.com
-    quality: 0
+    quality: 52
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/01/29/mask_3.jpg?itok=o51DKRSy"
+        width: 1200
+        height: 630
+  - title: "Landis+Gyr's Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
+    excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not \"smart.\" Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
+    publishedDateTime: 2020-01-29T14:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-landisgyrs-revelotrade-brings-pattern-recognition-machine-learning-the-/2020/01/29/9088829.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
+  - title: "Army developing binoculars that can identify far-off faces in the dark"
+    excerpt: "But as the Army develops increasingly advanced technology, its enemies are also getting better at hacking into these systems, researchers said. Hackers can cripple facial and object recognition systems during development, said MaryAnne Fields, program manager for intelligent systems at the Army Research Office. The Army recently funded work by ..."
+    publishedDateTime: 2020-01-31T11:53:00Z
+    webUrl: "https://www.stripes.com/news/army-developing-binoculars-that-can-identify-far-off-faces-in-the-dark-1.617023"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 24
+    images:
+      - url: "https://www.stripes.com/polopoly_fs/1.617025.1580471460!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
+        width: 490
+        height: 506
+  - title: "Chinese AI start-up develops facial recognition to help identify febrile person amid coronavirus outbreak"
+    excerpt: "Chinese artificial intelligence (AI) start-up Face++ has developed a temperature screening tool that can help monitor human body temperature in crowded places and identify individuals who might have a fever using facial recognition technology. The system is on a trial-run in some subway stations and government offices in Beijing’s Haidian ..."
+    publishedDateTime: 2020-02-05T03:35:00Z
+    webUrl: "https://www.globaltimes.cn/content/1178554.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 20
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-05/02fe8773-384a-430e-8315-b01d2eb69fc7.jpeg"
+        width: 500
+        height: 300
 
 secured: "ES1hVdd/sQ23kTmracRLBiXopgKNJgo5+9etiIkcSgKzgoMyuYFTsr/OF2OFMlTtBjqiZc8UqApN5FBt8HF/dckde4kQN4hD7h0c91HTsP4JYfEESDS0u9fhEsOWTPNa083vJhLu28tCk8/lNB9gpF15Hq01kCLfme+2NxAo4adBQcsfqOp1Nvcvvq3csAKwerJqbdC9gYR8827dnYg3JtwflXmxAlKvO/u56xKeTcWycDr2Vx26vdhQxUIDUKx/U9XvHmPTrJUtw3zZuqgOO2mlASp0161tQAYCk1ny5kLZ5oNE37ByWaMro3fH0tLzVs0CF5sOcibZAJgcmviNbYCFCK4/WoV73qhut7DvI46FKfOs+WehvWZ7K5OvV7UCX1oLVfm5cy9v4m4WRbFE9u7W8pSkMH4RDOjvMfSD7S8mMfILRInLdG63shP3ESg2t84xVBIlxuHgHBsp68ve9T5tYqr9FDXBzI+zWFFlh6k=;uLfSlP22jCw9RVyHyyTmJQ=="
 ---

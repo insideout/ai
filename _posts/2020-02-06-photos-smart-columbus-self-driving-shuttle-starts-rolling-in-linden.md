@@ -31,17 +31,6 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/663/14663/Easy_Mile.jpg"
         width: 752
         height: 501
-  - title: "GM Rolling Out Super Cruise Self-Driving Tech To 22 Models Across The Board By 2023"
-    excerpt: "An enhanced version will be introduced later this year and feature a new automated lane change function. When the self-driving tech is activated, users simply need to tap the turn signal to indicate that they want to change lanes. When an appropriate opening has been found, the vehicle will automatically switch lanes. Besides the new lane ..."
-    publishedDateTime: 2020-02-06T22:31:00Z
-    webUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/"
-    ampWebUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 18
 
 secured: "YGq4ZO7OBovz2A8uzo6eYFB9iELxoeW4lUSEVwXtZPr7eAkNVLb48vlxH4/jyePKci3drQ6i2KJS7yYisBNqovmE0lKDI7LieWO1z6A7bZcror70T8FGvVK1QuzpnAtz9yg7uXb+rvrev0UtoAPAKU8WHwj4ZsIZPv6fZ5AIFqa1EIjhaFZ/JxWGAATEpuTNyOAerF4kC8EXyUuTQA/V7PyrMwLibTPQy2WX4dwCloT2roUax3ofrP8Mc/z6HLvJ6N13R42T4CAEq+uycPbHOWe8mP2pAbkJaqipXBN0bO4PYBsdGxmFOw9SQGlBWz7GmIeirY/4gYS0ASxXZ1h2kU+E9PW/k9p7GUEGZEXn1KevgV2GPMzqcgfx+8XSd8eZ1HeG6fj7YZ2c8JazD/Xd7qXZ553QEHqNG2GT7sEqKcFN4h+qYh77g8n9c74gOu67+sqHu/EnaX0Oo9admDd8F40HwVbzFv3br/IhpndPDo8=;rGa4HgcG/845e6SD0UmuLw=="
 ---
