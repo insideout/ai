@@ -2,18 +2,22 @@
 category: news
 title: "Microsoft Azure cloud migration: 3 success stories"
 excerpt: "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes and data type compatibility between legacy warehouse platforms and SQL Server, Thadani say"
-publishedDateTime: 2020-02-03T11:03:00Z
-webUrl: "https://www.itworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html"
-ampWebUrl: "https://www.itworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
-cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
+publishedDateTime: 2020-02-03T11:02:00Z
+webUrl: "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html"
+ampWebUrl: "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
+cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
 type: article
-quality: 74
-heat: -1
-published: false
+quality: 104
+heat: 174
+published: true
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -41,6 +45,21 @@ related:
       - url: "https://www.techshout.com/wp-content/uploads/2020/01/satya-nadella.jpg"
         width: 720
         height: 480
+  - title: "Microsoft looks to expand into AI as cloud computing drives Q2 results"
+    excerpt: "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ..."
+    publishedDateTime: 2020-02-03T20:07:00Z
+    webUrl: "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316"
+    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg"
+        width: 620
+        height: 250
   - title: "Two major security flaws detected in Microsoft Azure Cloud, reveals report"
     excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
     publishedDateTime: 2020-01-30T13:45:00Z
@@ -56,49 +75,19 @@ related:
       - url: "https://images.livemint.com/img/2020/01/30/600x338/micro-kDJG--621x414@LiveMint_1580391521648.JPG"
         width: 600
         height: 337
-  - title: "2 major security flaws detected in Microsoft Azure Cloud: Know what they are"
-    excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
-    publishedDateTime: 2020-01-30T13:27:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431"
+  - title: "Microsoft Open-Sources ONNX Acceleration for BERT AI Model"
+    excerpt: "According to Ning, With ONNX Runtime, AI developers can now easily productionize large transformer models with high performance across both CPU and GPU hardware, using the same technology Microsoft uses to serve their customers. Taking the lessons learned from re-implementing BERT, the Bing and Azure devs updated the ONNX Runtime code to ..."
+    publishedDateTime: 2020-01-28T14:04:00Z
+    webUrl: "https://www.infoq.com/news/2020/01/microsoft-bert-acceleration/"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 71
+      name: InfoQ
+      domain: infoq.com
+    quality: 58
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/01/satya-nadella-1580390767.jpg"
-        width: 1200
-        height: 675
-  - title: "Microsoft earnings get a lift from Windows 7 extended security"
-    excerpt: "“This quarter, we expanded our portfolio of edge appliances. Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and the new ruggedised Azure Stack form factors provide cloud capabilities in even the harshest of conditions, like disaster response.” The company reported a wider range in revenue of ..."
-    publishedDateTime: 2020-01-30T13:09:00Z
-    webUrl: "https://www.computerweekly.com/news/252477573/Microsoft-earnings-get-a-lift-from-Windows-7-extended-security"
-    ampWebUrl: "https://www.computerweekly.com/news/252477573/Microsoft-earnings-get-a-lift-from-Windows-7-extended-security?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252477573/Microsoft-earnings-get-a-lift-from-Windows-7-extended-security?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/searchWinDevelopment/app_development/windevelopment_article_002.jpg"
-        width: 1200
-        height: 400
-  - title: "Genesys Engage call center software coming to Microsoft Azure"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services ![|320x210](upload://l8VPxe2KNadH6qDHIMwvoo2OX3S.png)Genesys is a leading provider of call center solutions. The company delivers more than 70 billion customer interactions per year for ..."
-    publishedDateTime: 2020-01-26T21:00:00Z
-    webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
-        width: 320
-        height: 210
+      - url: "https://res.infoq.com/news/2020/01/microsoft-bert-acceleration/en/headerimage/microsoft-bert-acceleration-1580052141385.jpg"
+        width: 2121
+        height: 1414
   - title: "Microsoft's Azure Strategy Pays Off"
     excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
     publishedDateTime: 2020-02-02T17:39:00Z
@@ -112,7 +101,29 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2020/2/2/saupload_charts.dll"
         width: 635
         height: 395
+  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud"
+    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
+    publishedDateTime: 2020-02-03T13:44:00Z
+    webUrl: "https://www.biztechafrica.com/article/microsoft-and-genesys-expand-partnership-help-ente/15418/"
+    type: article
+    provider:
+      name: BiztechAfrica
+      domain: biztechafrica.com
+    quality: 30
+    images:
+      - url: "https://www.biztechafrica.com/media/images/stories/microsoft_wDjNDZP.jpg"
+        width: 410
+        height: 270
+  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
+    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
+    publishedDateTime: 2020-02-03T09:37:00Z
+    webUrl: "https://www.africanews.com/2020/02/03/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
+    type: article
+    provider:
+      name: Africanews
+      domain: africanews.com
+    quality: 0
 
-secured: "LvUPT7tJXu6j1Rv8s+I2xn17j/42lOBpgsud/raHecFQIo57iA54ANv10jcsRi9L4ID79RoeJgi1/NuF0wTxRVOv301H7OkCWWKzt9gr8kuN+TvyeiVDNLVQY/YoPbT/HUg+pzhwlRunmXwgdxkTMhyytgon0kPv6xp1SirSGIox+V+6yuhTjH+8DG5A0N8bbjrmTtB7/NvkTt2TC7ZDd0FASm8/m6tI1CYCD2/45sNTMEsf+myRmrV7XmeTP7UigUkTBQnJ+vgPjnoY/JiEnE8v9WOSgCsYkM00rS9rEjT68ZvNKz2XWlx9fWfsDX8K;HOAmq5KDXqaJPwHl+VoTaw=="
+secured: "3tej6zlH9J2ThSNySAkpAnZckMenN2/6S/jdAew1dBm9HkKhwBeEG67bv6PXp5T2XSzJSgNyO1UKpKqVz03tOqjPa6jQTUZjXafYXMp3HRxGHOgsFHfpplxgHt/1WQ42GO7dRWuD/clVUozz1ijR/hmm/T7OtW2HkRrPpFMb2Q09T1nY7S8pcLk2ZgfUPVlcXys4qEMqtNJtPNFqvtGotnp7/e+T6waEqLDZIH1h/5yHLn1J0VY5MH2CREKWQK1wySopATziqAGSATZ6ISkfqCh4mAyAEGZb4JzsmWh8dvLEOu68bN+Ybr/Lw2v2W4ki;NBbW+bDQ0l6zL/2F1xyZWw=="
 ---
 

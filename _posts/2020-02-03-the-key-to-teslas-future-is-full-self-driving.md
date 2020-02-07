@@ -18,36 +18,90 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Apple's self-driving car system could use voice, gesture guidance"
-    excerpt: "Interacting with a future self-driving car could be a lot like working with some future interpretation of Apple iOS with voice, gesture and touch-enabled commands at your disposal. It's the overarching view gathered after reading through an Apple patent application filed last August and published last week for a self-driving car voice and ..."
-    publishedDateTime: 2020-01-27T20:49:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-system-voice-gesture-guidance/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
+  - title: "Uber's self-driving cars are a key to its path to profitability"
+    excerpt: "Uber plans to launch its self-driving cars in pockets of cities where weather, demand and other conditions are most favorable."
+    publishedDateTime: 2020-01-28T12:09:00Z
+    webUrl: "https://www.cnbc.com/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: CNBC
+      domain: cnbc.com
     quality: 74
     images:
-      - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
-        width: 1200
-        height: 630
-  - title: "New Apple self-driving car patent could turn Siri into your personal chauffeur"
-    excerpt: "Apple wants to patent a new technology that would allow you to use voice commands to tell your self-driving car where you want to go, with the car doing the navigation, driving, and parking for you. The end result would be a Siri-like system for controlling your self-driving car. The patent application, titled “Guidance of Autonomous Vehicles ..."
-    publishedDateTime: 2020-01-23T19:24:00Z
-    webUrl: "https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp"
+      - url: "https://image.cnbcfm.com/api/v1/image/104181597-GettyImages-605519688.jpg?v=1529473695"
+        width: 1024
+        height: 681
+  - title: "Aurora can now give the public rides in its self-driving cars"
+    excerpt: "Aurora has been given permission by California regulators to transport passengers in its self-driving vehicles, TechCrunch has learned. The California Public Utilities Commission granted Aurora a permit, which was posted on its website Wednesday, to participate in the state’s Autonomous Vehicle Passenger Service pilot. Aurora confirmed the ..."
+    publishedDateTime: 2020-01-29T17:15:00Z
+    webUrl: "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/"
+    ampWebUrl: "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 70
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/lexus-rx450h-apple-smart-car-press-image-1-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/Pacifica_Web-Res.jpg?w=1024"
+        width: 1024
+        height: 661
+  - title: "How Self-Driving Cars Will Transform Cities"
+    excerpt: "S elf-driving cars will completely transform urban city landscapes, and possibly even change the nature of real estate as we know it. This transformation will both create and destroy trillions of dollars in wealth."
+    publishedDateTime: 2020-01-29T15:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 74
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
+        width: 1024
+        height: 512
+  - title: "You may soon see Uber’s self-driving cars on a D.C. road near you"
+    excerpt: "Uber has been testing self-driving cars in other markets, but they haven’t yet made it to D.C. Now, the ride-hailing company is looking to launch the vehicles here."
+    publishedDateTime: 2020-01-24T12:43:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.html"
+    ampWebUrl: "https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
+    images:
+      - url: "https://media.bizj.us/view/img/11587279/uber-self-driving*600xx1500-1000-0-0.jpg"
+        width: 600
+        height: 400
+  - title: "Uber self-driving cars, with humans in control, to cruise Friday"
+    excerpt: "Uber will put self-driving vehicles on Washington, DC roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self-driving in Dallas, San Francisco and Toronto with human ..."
+    publishedDateTime: 2020-01-27T01:46:00Z
+    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 44
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20181017073142.Medi.jpeg"
+        width: 800
+        height: 448
+  - title: "Uber self-driving cars, with humans in control, to cruise Washington"
+    excerpt: "WASHINGTON -- Uber Technologies Inc. will put self-driving vehicles on Washington roads Friday with human drivers in control, the ride-hailing company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self-driving in Dallas ..."
+    publishedDateTime: 2020-01-24T11:37:00Z
+    webUrl: "https://www.autonews.com/mobility-report/uber-self-driving-cars-humans-control-cruise-washington"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 4
 
 secured: "aKHAXoKSeFPztVefO6fjolSC1xMlnKJBpdeVl9sD9lNpS1wMyp+Bz3hXkBtSOcsV0nfX2kHkjFDRD4jbOH01/CTykvjHgjOLFfFNMc1RiIvfa/VpvqvAOQhD6/cUA9RBWY5DB1C/BXl+bTBS4KFL0ue2L0f4fJTDglXfikoyrctwyNCTlylpeQgvf39xUXW3JArR2M37BnopcZJ13oenDzVitViiKKq7kf5PLzkglveVR+zPSkUAOCbIv+0gUzIAYoH2dyC64MD6zT0bPR0k1HofDsAWL2aWQtV20F2PCREIpUWYs+zVbyvFopfJSVbmfFBQoG5pGwRDT4kgIBl2bXPoDRqGrgzPpCl/V7MO4HUp4gHxZNlRNYWQz+howUE08C9sdRAaC0NtpPu18ztdw6snA400B0bZCwa8fpplSfjziYdjmQQz/NBp5oeC79zMMdySBR7KW4Gcho3WiFrGOLCW+3xWjpBRk7Cn1IDjS4I=;Fe3REyORywfJax+Zqnxv9Q=="
 ---

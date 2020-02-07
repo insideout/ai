@@ -24,11 +24,11 @@ topics:
   - Google AI
 
 images:
-  - url: "https://zdnet1.cbsistatic.com/hub/i/2020/01/23/7e3ca7bc-4e64-4e98-b75e-1f207f6510bb/deeepmind-sideways-encoder-jan-2020.png"
-    width: 2344
-    height: 794
+  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/22/bb4eab38-d3e2-4df2-97b1-00c89187ee5d/thumbnail/1200x675/a215d738dcece5fd36b570b0e7ef01a3/thumb.jpg"
+    width: 1200
+    height: 675
     title: "Google DeepMind’s ‘Sideways’ takes a page from computer architecture"
 
-secured: "nc2lmKLnDlazDQFRVe4uSJWw7XMiz50e3iQuD2uEQOdXlESVnKTp4pSVQUzzCZVj2xj3srk6FkY2d0G6j2yPktGltZcHDFGVfYJWOzPzCdBkSvYMhuTJmEaXyNJb96/LkPvRyX9dBFVBVHkvxmIOz2n8nFDtJ3VLU3vMp6iALdSX9fC09DoMe/f6xybR93o14YU6Mj9MQ0AoQ0UHXhRsHl3LjbtaS4UKia+1km4RytpYBQ//Ak9x0kNwkv8t8mK9DIwzSQwuWNjYah/j1MzHMkjasCSER7wil1OhRbBoDWy5Z3m+HEGBEAYM7pJF7MpUJwbXDMeUnRTmkq7tYM+p5ZMBAzvAzkxH9u/LlIY3HW8Ptl6Y2vIrZiZ1Mf+WDHDTyApUJh3dlQfVkHENaUnsKnZ1OCswFiF8kPPVBQh8xZZtkrp1RjWVaMckjfq3bqgu+CvksY6FJCFJ8yY8FvVmW16F6eBPzusPvqUznjw5dX4=;uTsPt+Pe94YaVONMqzq5jQ=="
+secured: "HpkmpyEuT5Ve9bTdJNSqB/zplujDKvFp7bG5+B36t5ikN7KG8qDdFZw3g3jxgcmcbPeUiVVbHfwd6pDOz5LaZRzcaWAaCMZg2f9Fs54WSPJ0LFd0ma91ezp2pHObei93ddFN0rg+7scLUzTWOBMl/2F6Dx6NqX3epK9ypRP5PJ5meWVgjFsEoItMksvxBXzoNaMlVWUPkZbqG3W1sNBvbMtoTFjoaVIuLGB1k/bmhrtlOc6dcd+90qRe17SsMPwjtl262Qjd6Pk2fPMN+VbyRK5w3hikmyyTtraiibp/0yAAbFqsDQYUg7NxEUwtHpxb;p6iTrmcFD0CXP+D/lXtPww=="
 ---
 

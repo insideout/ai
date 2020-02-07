@@ -4,8 +4,10 @@ title: "10 Data and Analytics Trends to Watch in 2020"
 excerpt: "Here are 10 to watch in 2020: Analyst Marcus Borba says Auto machine learning (AutoML), the ability to automate the entire process of developing and managing machine learning models, will also help data scientists focus on what matters versus the mundane. In addition, it will help prevent errors, as well as make machine learning capabilities ..."
 publishedDateTime: 2020-01-22T16:51:00Z
 webUrl: "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191"
+ampWebUrl: "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191/amp"
+cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191/amp"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -49,6 +51,6 @@ related:
         width: 600
         height: 338
 
-secured: "mumFCRQKOPvauvehu3N/eA3lMjXL0YW5nqwcFeUnUgjeYGA+oeigcg5TZK/5nMtkVuippRHdEP8ZKRwlj+PJ5DZN1i19p28kyfxwWNBouHEOwxHUj8hZ6VFmCpnwz+F6nLqZVqrt6gW8HkjJUj5A0KVsczWvSWzq2kswvbVKNbOViCr++x00sL3OuvYDQ4oUvMpAXqQxC/MS9tyGWNSTcyid2Z1uvNQ9dguMnau/KmMKz3Bh+eAELJIHXCwV+1ViTVDCk695TaQgjPxQgV3kx2yGUuhcWN3El8fvCqKkVgi+I83GzLtkFdxae9KOGHUN9lhRWAVqoiaVJVrqQBr/tSOGD6Zo0YjuEmife26ZNRTUpQs73bpuVdsNpTcE0wBW54Vpg2nY/DvQeDWeCcXfmYF5+hB5kTyx2YQNNFGaXXKah0GVwPbpB8r/BI0OnjlTmC3ldes6dMPfCRYX/SqYFMNSlwr+vg++9TBbWrhcHvE=;yRwVY/1IN44rcyMM70MS/w=="
+secured: "IXhf/R+QRTPx4l4PDiMJFjc/3uELRQHNETEmwJAvw6/OPNOjQRrkwpnTWa3oJxvoY6mnC/7Fw+Y1xrdc6srXpBfiLkC8FTQQBVGhKMXOVbdjHjR9ylG2qvrmydxuzMg7AP5ZXauPEhcxDi43H93JRNn8rsVvOn2Rq///iSh1xZcmPgOeTLH+qOeY1cctRn+7ldffGQ2+aaj25ySrtVdgMzx1sWNaFWndk/0jkbk5ZIcY/HPUoBDZxfNV0skhDMCdVF9FtUQ/GgDdsfoGMr1GZW5g/VYrYaxvJRUd9qLARu+aqptmJgk+EwXc/LS0YUErTAuoDHcLRQ+HFTOKX879OqdT7QuRqr0MLn/CoqLsgPbKphrJtPfzej++MBUshHpRESLYih8gmoQ5CcKMrJX4AoSyDvSmwWotHociIlp8N9GyQbb7C/YcszfvQHyp4XyB7kEq/YuPrx7XkOeCCOXvT8Cz3W40vTdMSlbI6Qa/1u4=;wCB2Y1/7rIPrYbTfC2uj6w=="
 ---
 

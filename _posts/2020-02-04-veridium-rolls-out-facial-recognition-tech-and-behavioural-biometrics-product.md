@@ -39,6 +39,19 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg"
         width: 2880
         height: 1800
+  - title: "WeWork wants facial recognition biometrics class action dismissed"
+    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
+    publishedDateTime: 2020-02-07T03:36:00Z
+    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
+    type: article
+    provider:
+      name: Cook County Record
+      domain: cookcountyrecord.com
+    quality: 39
+    images:
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
+        width: 1280
+        height: 640
 
 secured: "VrTSZVi+LDKYNjFjv9tWRtoJys0zE6tREix+dZfyRY5kUwuWOjPFo3WwozUPYmi9UpiP+neru1W7J4EPjS19y4Lbvc+9q/zqBTmGTEwAa2eiAm2vCW4CSCVPIX3RhFkqqvZ1kXTofRQqXPgbvrkx0R8r/RLRr6kk7Ys04nheNXZ11rlAyih+MezMu50Rsplg10oiBJO3hCxA8/hZRxpS1FEvDzGEEBPy/VF7Zm06U5ZglO+MbQqwkCp7n6F01RtBkfqfM0Imom0CFMsUuFYaU8gtbQtnlb/KJ3EB89e5eCvkxeceI31qtDKL/47wKWhW;S+u5dHKwbbApM/Rvx/bZ6A=="
 ---

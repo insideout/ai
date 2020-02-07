@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-throug
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 633
     title: "The Fake Finger That Could Save Fortunes: MIT Spin-Out Raises $10M For Touch-Inspired Measurement Tech"
-
-related:
-  - title: "Digitizing The Finger: Startup Gelsight Hones Measurement System That Could Speed Up Aerospace Work"
-    excerpt: "Using computer vision techniques, the system “turns touch into an image,” says Johnson, allowing it to measure surface features down to the single-digit micron level. The company is starting ..."
-    publishedDateTime: 2020-01-23T17:29:00Z
-    webUrl: "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 20
 
 secured: "9ppnZHtlTuZ2LgnTRs2ivjhEJFPwTkBycxbVUkjCXHAOYvZ0ai9vPQYgMTF1iFNoN5ALMCtmgTbCWycUTAYUZNsYPUOQRTymejfbu6AwppJ5E5b8gGHd2VHQEIjbaQUXwzIVn91MsNHw5SxTyqugPjAu9MfroWixvPPDTPcmFK3F4DVYaUDHOFrD+AGmPgjsnZTgJnzCS9vFwsC+DKqQQHpLJwcUlcrgds9+IlhP5+nzXjUsKlqk5mb1L7HUZwPQvg+HEHIZEc/FjgeHqo7wda5Mw+uAZb4NzeIO698oXjirE1puZZQmR2cmqcHaURrI;hlQhCSwtAhBtAP1Sev8lCQ=="
 ---

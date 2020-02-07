@@ -5,8 +5,8 @@ excerpt: "The tech giant is one of the first companies in China to be given gree
 publishedDateTime: 2020-01-10T05:50:00Z
 webUrl: "https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "+TDsv0aLvidCR+DUcrWgqtwt5MOmB7poXCRis/hOHu9xxydi/HwP1xls6WUa+M2ndDUP50JSsy4qs/lUqPjnh4VeDlnp3/OLc5owJyHGdk4sOCVPS2F6Db0QTlwTBuN6d0IxbaFsHpLShZ259kcR1/1DxALjXFmOVcx8/BORrRxfNrvQnpBhGIeQxvEcXTap8gxxLy3cQzojveM3k8+6Jj6FYBP/xi5c6fpRvytSeKLNQllLy1kv+7xxjx0HTqynM5qb2OkCZM51zxTE3hWQKJz626Hnd2t2cu4jGBeBFoj5RCfdxwo82PXrhbhXS7Bs;+wjayshoSX17zzIeOsI5Ig=="
+images:
+  - url: "https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg"
+    width: 1200
+    height: 800
+    title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
+
+secured: "eF2HER6CrcRpnNdR/ClgkOEZmrXCSM8JGk2OOoGVP9fMXFLcQmFs8EtCy01/WF3lS5XlVKHFqa0VuxLSZd9DFn4+7agVT5+QBSeYNqV9ERpVqWNorrzCMqHyLMD3bIw9Yl14NZAbE7KWz8NRNBuZXhXzWXYUos16JvhOgn3F+8NcQFYwF3zGPOmvCGbFGa6KrIbxthqUfjxwfMdUWYCQliACz269DBVWz3A4gKXlC6b+6P3eXedptP5V1piTzPasIqRUZnkydvXoNl3NDbyevyaOESSgUREZGYlyWrK62vwCdu178nUC5JgGFOk2I1v3;B9G4w82HY6CsYsKFjzohQQ=="
 ---
 

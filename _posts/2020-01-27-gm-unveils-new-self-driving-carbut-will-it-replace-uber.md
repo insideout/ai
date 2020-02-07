@@ -51,19 +51,6 @@ related:
       domain: electrek.co
     quality: 34
   - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
-    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
-    publishedDateTime: 2020-01-23T20:00:00Z
-    webUrl: "https://www.phillytrib.com/news/business/gm-and-honda-unveil-self-driving-car-with-no-steering/article_bc9927eb-6c14-58ce-bada-f62aa511e2e6.html"
-    type: article
-    provider:
-      name: Philadelphia Tribune
-      domain: phillytrib.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/4/71/471d2f5f-2a7c-5ae5-86fd-e3ad2ed8cff4/5e29dd7ea6191.image.jpg?resize=823%2C630"
-        width: 823
-        height: 630
-  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
     excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel,"
     publishedDateTime: 2020-01-24T14:50:00Z
     webUrl: "https://fox2now.com/2020/01/24/gm-and-honda-unveil-self-driving-car-with-no-steering-wheel-or-pedals/"

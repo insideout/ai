@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique"
-excerpt: "An artificial intelligence learning technique has been used to make a breakthrough in understanding several previously unexplained features of the human brain Researchers at Google-owned DeepMind discovered that a recent development in computer science regarding reinforcement learning could be applied to how the brain’s dopamine system works."
-publishedDateTime: 2020-01-16T19:54:00Z
+excerpt: "An artificial intelligence learning technique has been used to make a breakthrough in understanding several previously unexplained features of the human brain Researchers at Google-owned DeepMind ..."
+publishedDateTime: 2020-01-16T21:06:00Z
 webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html"
 type: article
 quality: 58
-heat: -1
+heat: 68
 published: false
 
 provider:
-  name: Independent
+  name: The Independent
   domain: independent.co.uk
 
 topics:
@@ -24,22 +24,18 @@ images:
     title: "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique"
 
 related:
-  - title: "The Brain Predicts Reward Like an AI, Says New DeepMind Research"
-    excerpt: "The idea of reinforcement learning—or learning based on reward—has been around for so long it’s easy to forget we don’t really know how it works. If DeepMind’s new bombshell paper in Nature is any indication, a common approach in AI, one that’s led to humanity’s defeat in the game of Go against machines, may have the answer."
-    publishedDateTime: 2020-01-21T14:00:00Z
-    webUrl: "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/"
-    ampWebUrl: "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/"
+  - title: "DeepMind found an AI learning technique also works in human brains"
+    excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
+    publishedDateTime: 2020-01-16T04:58:00Z
+    webUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/"
+    ampWebUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 74
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2020/01/brain-1787622_1280-dopaminergic-neurons-reward.jpg"
-        width: 1068
-        height: 601
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
 
-secured: "o3JhfrSTieqWputiz+YXFksiWOGzwnH9OyGj8Bqk4ditnSgkiQXPgUctKQOop896XJ7ygrLKI4Vdjx+r4iL/yHV+UeU7T6n/r3i2qo8FjXgdc58O2Y9zKGxLlFDV9ue26raYRl4/i+bvyTMgThpnuE+Y8Zolq9vD376/4FK/8iO8qVPREg8rSucqlvM5hTw9YYLgagVkBrA4Ka6CaORVrvw21+HQMMzWNXr7cQ5hIO7ZAtN5fcE9cb4QEYlVBBMSedINK6qIzEtEQjXaUEfWaH3dEDLshg0lBtO3z2o0Y4vUOjDEQ1kJhL5S2o7qwHN1;GA7ElwZBzHs/dbyhFLKLHw=="
+secured: "E2DjRCdltjlccI4lF5nYGr5hZWtlkdqh3g9KqFAm6xvAjX8PHNYk2hUvefkEi8OKPPm2LvbdTYQLKFnQOi09T3R8U7Lhsl2XGrw7DHjEYm7a3TAT7O9ohTcU2Mw+3nHvFNmbk74/BCh6oIR/OB7kaTawP0WbI0Q2v90K1kz1wkk9gVTs6PmI63eYqHkHfw9PTkoY+Nxdx1FaVcCp9w93n4X7s7MuB/CsUqtAiRndTT6gN0gDIsUDQ+9gwGvdZjmD2/5JvZKA7SjtFTNAMTJdEXYiavFEgXp63ygrIzdelcqASnTTIFWnKgEgofudUcwl;MXhdRNCaAN2T6mhRqmpV4A=="
 ---
 

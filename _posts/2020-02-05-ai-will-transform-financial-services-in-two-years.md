@@ -50,6 +50,19 @@ related:
       - url: "https://media-eng.dhakatribune.com/uploads/2018/07/watermarked/bigstock-ai-artificial-intelligence-m-229617430-1530518085435.jpg"
         width: 600
         height: 315
+  - title: "DevsData LLC: Big Data Trends in Financial Services"
+    excerpt: "... has become one of the main Big Data priorities in the financial services industry. Versive is a company that created software that they claim can help financial institutions and banks analyze massive transaction datasets and cybersecurity data using machine learning. The software is called Versive Security Engine and is touted as being ..."
+    publishedDateTime: 2020-02-07T11:44:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48799255-devsdata-llc-big-data-trends-in-financial-services-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 24
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/575714/devs-data.png"
+        width: 550
+        height: 370
   - title: "Yseop Introduces Automated Report Generation Software to Assist Financial Service Providers with Digital Transformation Efforts"
     excerpt: "The platform is primarily for financial service providers across around a hundred different projects and more ... The Augmented Analyst leverages an NLG engine, extended natural-language understanding (NLU) and machine learning (ML) to formulate conclusions from structured data and translates them into written reports. The platform also makes ..."
     publishedDateTime: 2020-02-06T20:12:00Z

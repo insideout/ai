@@ -63,6 +63,15 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ALVEY7JR7NCHZKKWPIJVSNBDLY.jpg"
         width: 6720
         height: 4480
+  - title: "The feds just blessed a custom self-driving vehicle for the first time"
+    excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
+    publishedDateTime: 2020-02-07T12:30:00Z
+    webUrl: "https://arstechnica.com/cars/2020/02/the-feds-just-blessed-a-custom-self-driving-vehicle-for-the-first-time/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 34
 
 secured: "I6pzfMf57NmDOFW/JE2z4RGwZ4SFCaqjP1rj8sAt9CSntylM3S6tVYeiFM8AxGEWquDSbX2mMapLJcwNMj0R7ZG8ORPYhxAZVljP0NBO14/BDhGLdi1Gv2LrwJzm/ZJ/n7c2/V/fjIX4me8itg8ppimoSE3H65Ch/pIV4ZN6gPIpikYeJ9ffr78JG6nksc79ZZ5FayiFP2UuJxPHpAkm439gvITS2j7sf8r5YNWQmdufkzGk+EKym5cgSW9eSViGflPMR5y9N6STRxe2dhZzlKZ1hFjcdmPG70aTCRh7X/I5LSXl5UFILHGIQ4cLQnt0Tye8KjxTYjuqTluG8t0+ATBNvHkkFnulo8ySFaLWImnfhLAfr/RdfrZnu1iF8djQuOC0uRCmZbdGQicN2ximbO6MPIB0Q/Gx5CbtC7wignW7Loz+WsaVVJH1YWy1LhUpzyQefI2BseAyydxZpEqOjOU+q807lHiaIbkXT8KI9os=;zvC67nTktHkafxTZnizfcg=="
 ---

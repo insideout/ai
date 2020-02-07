@@ -5,8 +5,8 @@ excerpt: "Why is Artificial Intelligence disrupting the healthcare ... From life
 publishedDateTime: 2020-01-16T08:13:00Z
 webUrl: "https://medium.com/@brand_minds/artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-36-1-billion-by-2025-1e2f70b0ca1"
 type: article
-quality: 71
-heat: 71
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "iCpOuvH1YSqNqVB66iAEq939g4J8J/pUqcydKuvPeXrUkhOd00WIMbUAoY0ceh8ateOeI1dIuvN6FvcGQgreX6lhQwPd7HVuM2dOHmONOAHWZjTvccVqLtq31Hg+Tc1Y7yc98Szna4hpUnwTebCoQP52nDCVTyLkBwpe2CwTOR7xrwbeptj282M6449k6O2+1qLGol3ngk+iiNTxepBymxMjEyZCYJF0KPWL+EfV1J4D84mfP8HMDK0X3aPyS9pk0SbBDActWgYENz0KBmB4s//LYAZCLLb3m7CCC5jPN+DcReyvv9wl8XwbHb1fxz6I;ADdBlQDz4q+k9jyTCz5c0g=="
+images:
+  - url: "https://miro.medium.com/max/1200/1*2WDyUt2RRYDNU0_uxIE1pg.jpeg"
+    width: 1200
+    height: 632
+    title: "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025"
+
+secured: "RAQ5V9Py0XTYvM45Ekh7DYRFULelR7G+s/YCw5+IFzAlgIPpeE8wHWgVw3CYNu7zZuwx6RiiseAOMW/ydLOpP7ta4JOT18HhgiHLF2NKGGlvu6FdaoFF5VIpvCXM+0G+tOw/eT6BtWcskYuToP3zxjuBBTKayulzVhfOBY6ZWZSw6GUG8b3vSty/AyO1HNC3Z7SyWcMd+1E98OS6EAp7YNPPHeM/f8ezEcA8TWp9A89zmuLVdJddWjiSqFN2gfpxtsQQcvnJX7aSxaJj6MGK/G/t/6d2MYWI6DXyi8xzx3yP6Ies2NGZRuO0iEdTqRnC;0QjrdJSsvu5n55X/xR97QQ=="
 ---
 

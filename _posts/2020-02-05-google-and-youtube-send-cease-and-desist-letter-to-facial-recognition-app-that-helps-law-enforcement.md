@@ -301,6 +301,19 @@ related:
       - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
         width: 992
         height: 558
+  - title: "Facebook demands Clearview stop scraping images for facial recognition tech"
+    excerpt: "EPA-EFE/FELIPE TRUEBA Facebook has warned US-based tech company Clearview AI to stop using data scraped from its social networks for its facial recognition database. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using information from Facebook or Instagram”, a Facebook ..."
+    publishedDateTime: 2020-02-07T12:48:00Z
+    webUrl: "https://www.neweurope.eu/article/facebook-demands-clearview-stop-scraping-images-for-facial-recognition-tech/"
+    type: article
+    provider:
+      name: New Europe
+      domain: neweurope.eu
+    quality: 37
+    images:
+      - url: "https://www.neweurope.eu/wp-content/uploads/2019/11/h_54166602.jpg"
+        width: 5379
+        height: 3551
   - title: "Facebook is latest to demand Clearview stop using its images for controversial facial recognition"
     excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company ..."
     publishedDateTime: 2020-02-06T11:57:00Z

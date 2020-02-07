@@ -8,8 +8,8 @@ ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-fa
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Daily Telegraph
@@ -26,6 +26,19 @@ images:
     title: "Veridium brings facial recognition to all phones in password-less push"
 
 related:
+  - title: "WeWork wants facial recognition biometrics class action dismissed"
+    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
+    publishedDateTime: 2020-02-07T03:36:00Z
+    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
+    type: article
+    provider:
+      name: Cook County Record
+      domain: cookcountyrecord.com
+    quality: 39
+    images:
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
+        width: 1280
+        height: 640
   - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
     excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
     publishedDateTime: 2020-02-04T11:26:00Z

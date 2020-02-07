@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T17:16:00Z
 webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,28 @@ images:
     title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
 
 related:
-  - title: "Bei Yu Chosen as Microsoft Investigator Fellow"
-    excerpt: "She uses machine learning and natural language processing techniques to improve information quality ... assure that everyone has fair access to relevant and accurate information. Azure cloud computing resources will not only enhance data storage and analysis for my research projects, but also provide the computing power to facilitate teaching ..."
-    publishedDateTime: 2020-01-30T21:36:00Z
-    webUrl: "https://news.syr.edu/blog/2020/01/30/bei-yu-chosen-as-microsoft-investigator-fellow/"
+  - title: "Genesys Engage call center software coming to Microsoft Azure"
+    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services ![|320x210](upload://l8VPxe2KNadH6qDHIMwvoo2OX3S.png)Genesys is a leading provider of call center solutions. The company delivers more than 70 billion customer interactions per year for ..."
+    publishedDateTime: 2020-01-26T21:00:00Z
+    webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
     type: article
     provider:
-      name: Syracuse University News
-      domain: syr.edu
-    quality: 39
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 54
     images:
-      - url: "https://news.syr.edu/wp-content/uploads/2020/01/2020-bei-yu-feature.400x300.jpg"
-        width: 400
-        height: 300
+      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
+        width: 320
+        height: 210
+  - title: "Microsoft Sees Azure Sales Surge 62 Percent"
+    excerpt: "“we are seeing rapid adoption across a comprehensive portfolio of AI tools, infrastructure and services.” He said that there are 6 billion transactions on Azure Cognitive services each month, 7 billion documents processed daily with Azure cognitive search. There are a further 2 billion predictions a month using Azure machine learning ..."
+    publishedDateTime: 2020-01-30T04:21:00Z
+    webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 34
 
 secured: "YiGWSpuqWOQmNLN5S8sBv3QmGTqFyq5WVaVg/9QZstu5/7nlAESqzTPLwhqdB1RzxAtvRCIJWAktMxWuMooUHXLft7PXSxgGSk2OAXrbaYZJB+QMsBKd9YtqtcbHjgWzGs8i7m3NQm2MSy7J0bnPOxuiRcqJQtbWgHo2CbxZAw9Vsj+b94G7AhALkaKEb4oKIwN3JMnNkgOKDUFIOPBQCaljuGYHSUGeZ4QcqnL1lb19j55rkQ48bV0zLSSaCut1NtOdulgXMNTYV1KfleHNoiENoKMtLLQgUT7h8YU+XBMCZMutoJ2i2AqFKQzTtEVf6zD4KeOgJiov2S/gWscKP54Q7riu2uaTRz5VflTWS1QfbSuNbVYaD0feNqFyO0Fj3SbhpFYVbPFwYT8DjcFSWAB/ZzFH+xus3iI8mbBJmlQ4a3kJ+ShhnaedZZav1i233IsjNIYXrBY1ZxjTJ9FHU6izIIFN9g7GEBQzYMxHgxs=;ihZmRkTr32VXa7vaKkz3Cw=="
 ---

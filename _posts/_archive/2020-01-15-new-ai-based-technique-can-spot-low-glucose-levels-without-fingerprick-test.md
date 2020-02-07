@@ -4,10 +4,12 @@ title: "New AI-based technique can spot low-glucose levels without fingerprick t
 excerpt: "Researchers have developed a new Artificial Intelligence (AI)-based technique ... Basing on this information, clinicians can adapt the therapy to each individual,” the authors wrote."
 publishedDateTime: 2020-01-15T10:18:00Z
 webUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/"
+ampWebUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
+cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
   name: TheHealthSite
@@ -17,30 +19,38 @@ topics:
   - AI
   - AI in Healthcare
 
+images:
+  - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
+    width: 675
+    height: 365
+    title: "New AI-based technique can spot low-glucose levels without fingerprick test"
+
 related:
+  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
+    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
+    publishedDateTime: 2020-01-14T13:07:00Z
+    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 53
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg"
+        width: 1200
+        height: 1000
   - title: "AI can detect low-glucose levels via ECG without fingerprick test"
     excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-13T16:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php"
+    publishedDateTime: 2020-01-13T16:53:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/01/200113111156.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg"
-        width: 720
-        height: 302
-  - title: "AI can detect low-glucose levels via ECG without fingerpick test"
-    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-14T02:17:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
-    type: article
-    provider:
-      name: ETHealthworld.com
-      domain: indiatimes.com
-    quality: 19
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
-secured: "F7A6QlhaRcnBFmxnWUVAYrWjUn+o/zr/UjDwKYGFq3K2vFbph+C1KO1eMKkcZjV5ieWgHa3F95Xgbzc1V5D50P4vx6JYRn4GxE0qsevYHdCmF9tMTmyK/XnBBDxSQbWTTXP1ebhyLmZsrp8dd5ayNdGifI/qOVsRcmfIf6U2pH/Bf+9qJfGNOENoR6jZ3lpZgo5WttKAvxTVb+uPjKkdvHM9gImJpStnu77XG95dUHAJ2ZWDPDpMWePCLXEx/ItRwYqpykmW2jV11EpWFZS+yWY1o6rW0FeqFjGIyKmW6Ix8AxAd84DR9NiRsy4mEqMZ;mOrnd+vRkVSAmkKgGda6YQ=="
+secured: "bCh3OyyCmlQcvTKsLp1vTPYuWlJgQD8QwXXqt8HyPZHFr/yoiptuRrAY7w1eF3inJD3uFbPU5gz/NNVwkW2sNeNwhqcUaz+MdFKrMzM86lf4P6YE2lmgnUCWG31Ng5rQ5xWxuYhQLMdA31zO7l0I1xoP2Dg2iF90aUomXz6qUysBhYl5MBG+l8TcFft4p1Z5R2BwaPpllnSCuhY2M4CFNg7fRlq9jh1DDzdXmD1k8KkMaZ1frZQ+XXC4rHjWMHgibJQuSXgcW/gDaCUJLrguAcNFdN0XzC5fuxL+Vp3S3Rp5G4kR8MSkhd0GC+auASNU;/k75kkmxU9yoqLd0pwBfgA=="
 ---
 

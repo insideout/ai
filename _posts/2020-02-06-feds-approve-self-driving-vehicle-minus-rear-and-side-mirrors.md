@@ -56,6 +56,15 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ALVEY7JR7NCHZKKWPIJVSNBDLY.jpg"
         width: 6720
         height: 4480
+  - title: "The feds just blessed a custom self-driving vehicle for the first time"
+    excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
+    publishedDateTime: 2020-02-07T12:30:00Z
+    webUrl: "https://arstechnica.com/cars/2020/02/the-feds-just-blessed-a-custom-self-driving-vehicle-for-the-first-time/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 34
   - title: "US lets self-driving vehicle bypass human-driver safety rules"
     excerpt: "DETROIT (AP) — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
     publishedDateTime: 2020-02-06T18:08:00Z

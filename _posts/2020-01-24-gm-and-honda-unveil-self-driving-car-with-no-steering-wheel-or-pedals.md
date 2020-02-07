@@ -57,19 +57,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 34
-  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
-    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
-    publishedDateTime: 2020-01-23T20:00:00Z
-    webUrl: "https://www.phillytrib.com/news/business/gm-and-honda-unveil-self-driving-car-with-no-steering/article_bc9927eb-6c14-58ce-bada-f62aa511e2e6.html"
-    type: article
-    provider:
-      name: Philadelphia Tribune
-      domain: phillytrib.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/4/71/471d2f5f-2a7c-5ae5-86fd-e3ad2ed8cff4/5e29dd7ea6191.image.jpg?resize=823%2C630"
-        width: 823
-        height: 630
 
 secured: "1O9d5lyWEm3Q428SEuWQwqDl6FFO+XqXzGgiIWMBUQEQ9FywSzq/RRvhop40p9t8MiXqDq2nO3h8r+5iKsyF0oqntKOhddAFydVIYLRUSpw1MciYqn0V6bX4jdxea60Bas+3VG4kw528X8SEVQWIc35s4NiHHm09CDaK/aueGwYsy5LThiH7XPt8X9BLc6v8n368NfwxVNjTd9Bx32doHIuN5cEum75SDnYSZaFQbhoIfj0OaXRjqtKltRDlbmaj1Zm622XJalvBGJwJ0hwIHbQKhLKthsCguMUzNixCJCNkiDRoQFA3E4NU8cjPd8lyighvQmOX0yJQYqL8VoNuXPRcD7sPZUwaP4NDT35mZ6FYEKyCJX7hnJBuobrAxNeuAQa13QMIUVWP13NelvNBUUo7aJ24CtmW0mQKv+yY6YVGzTM0VYnXeOxRftOeg736JvDUEbRH/awYXoDVO/LOuTrQhu5ndgeIdp1c6ithIzc=;NpiEJBu1fbnL8KzBOC8gLA=="
 ---

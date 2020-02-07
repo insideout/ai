@@ -176,21 +176,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Uber is bringing its self-driving cars to Washington, DC"
-    excerpt: "Uber’s self-driving cars will soon be jockeying for space on the streets of Washington, DC, with the ride-hailing company announcing it will begin collecting data to support the development of its fleet of autonomous vehicles. The vehicles will not be operating in autonomous mode, though. They will instead be operated by human drivers to ..."
-    publishedDateTime: 2020-01-23T19:43:00Z
-    webUrl: "https://www.theverge.com/2020/1/23/21078864/uber-self-driving-cars-washington-dc-testing-manual-autonomous"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/23/21078864/uber-self-driving-cars-washington-dc-testing-manual-autonomous"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/23/21078864/uber-self-driving-cars-washington-dc-testing-manual-autonomous"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Loy1FVsB2LJsMuqq5vfbEKmMPpk=/0x0:1500x1000/1400x933/filters:focal(630x380:870x620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66155961/1_aPuu__I3Xa_T7NS1vrhUvA.0.jpeg"
-        width: 1400
-        height: 933
   - title: "Uber's self-driving cars are launching in Washington D.C. for testing"
     excerpt: "The cars will have drivers, and won't be taking passengers, as part of data collection for future development and eventual roll out."
     publishedDateTime: 2020-01-24T16:44:00Z
@@ -284,21 +269,6 @@ related:
       - url: "https://media.bizj.us/view/img/11586802/waymo-truck-3*600xx6000-4000-0-0.png"
         width: 600
         height: 400
-  - title: "Uber is bringing its testing of self-driving vehicles to D.C. streets"
-    excerpt: "Uber will start scanning and mapping District roads Friday in preparation for testing self-driving cars here later this year, the company said Thursday. The ride-hailing company is moving to expand testing on public roads following the conclusion, in November, of a federal investigation into problems with Uber’s technology and management that ..."
-    publishedDateTime: 2020-01-23T18:14:00Z
-    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 44
-    images:
-      - url: "https://www.washingtonpost.com/resizer/6y2sKq-ck-E71CGNwannVKxBqdo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALNBBXR6AUI6VOINKZJIA3B3HI.jpg"
-        width: 1440
-        height: 960
   - title: "Uber prepares to test its self-driving cars in Washington, DC"
     excerpt: "Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC. Three mapping vehicles equipped with cameras and sensors will spend a few weeks driving around the city and collecting data. High-definition maps are considered ..."
     publishedDateTime: 2020-01-25T14:34:00Z
@@ -329,19 +299,6 @@ related:
       - url: "https://media.khou.com/assets/KHOU/images/8b4d1fb4-635f-4bf7-ae2d-7044e834b8fb/8b4d1fb4-635f-4bf7-ae2d-7044e834b8fb_360x203.jpg"
         width: 360
         height: 203
-  - title: "Waymo Self-driving Minivans Take To More US Roads"
-    excerpt: "Alphabet's self-driving vehicle unit Waymo is expanding testing to more regions of the United States to explore \"new transportation solutions.\" Waymo Chrysler Pacifica minivans and long-haul trucks will take to roads in the US states of Texas and New Mexico this week,"
-    publishedDateTime: 2020-01-23T18:35:00Z
-    webUrl: "https://www.ibtimes.com/waymo-self-driving-minivans-take-more-us-roads-2908264"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/23/self-driving-waymo-chrysler-pacifica-minivans-and-long.jpg"
-        width: 1024
-        height: 640
   - title: "UPS And Waymo Partner To Begin Self-Driving Package Pickup In Arizona"
     excerpt: "Waymo’s self-driving vehicles will shuttle packages from The UPS Store locations in Metro Phoenix to UPS facility -- Partnership to develop customer and operational benefits “UPS and Waymo are exploring automated and autonomous technologies to enhance network operations,” said Scott Price, UPS chief strategy and transformation officer."
     publishedDateTime: 2020-01-29T21:47:00Z
@@ -377,17 +334,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 34
-  - title: "Uber taking 'first step towards' self-driving cars in DC"
-    excerpt: "Uber is working towards replacing its human drivers in Washington, D.C., and they are starting the process by collecting data from self-driving cars in the city. The testing will begin Friday and will include a driver who will maintain control of the self-driving vehicle but will map out roads in the car along with a co-rider. The company did ..."
-    publishedDateTime: 2020-01-23T18:31:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/uber-taking-first-step-towards-self-driving-cars-in-dc"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/uber-taking-first-step-towards-self-driving-cars-in-dc?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/uber-taking-first-step-towards-self-driving-cars-in-dc?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 24
   - title: "The road ahead for AV in the age of self-driving cars"
     excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
     publishedDateTime: 2020-01-28T10:25:00Z

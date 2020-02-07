@@ -30,19 +30,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Cyber Security Market - Global Industry Analysis by Size Share Growth Trends and Forecast 2020 - 2025"
-    excerpt: "Global Artificial Intelligence (AI) in Cyber Security Market is expanding at a healthy CAGR between 2020-2025. On the basis of component, the segment is expected to emerge as the leading one in the forecast period."
-    publishedDateTime: 2020-01-31T12:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market---global-industry-analysis-by-size-share-growth-trends-and-forecast-2020---2025-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence In Security Market Booming By Size, Revenue, Trend And Top Growing Companies 2026"
     excerpt: "The Artificial Intelligence In Security Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Security Market study provides comprehensive data on aspects of competitive intelligence,"
     publishedDateTime: 2020-02-05T05:10:00Z

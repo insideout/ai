@@ -4,10 +4,12 @@ title: "European Central Bank Partners with Digital Innovation Platform Reply to
 excerpt: "The European Central Bank (ECB) has partnered with Reply, a platform focused on digital innovation, in order to offer a 48-hour coding marathon, which will focus on teaching participants how to apply the latest artificial intelligence (AI) and machine learning (ML) algorithms. The marathon is scheduled to take place during the final days of ..."
 publishedDateTime: 2020-02-06T14:29:00Z
 webUrl: "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/"
+ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/"
 type: article
-quality: 10
-heat: -1
-published: false
+quality: 67
+heat: 87
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -16,6 +18,13 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
+
+images:
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Euro-Money-Europe-20-bright-300x216.jpeg"
+    width: 300
+    height: 216
+    title: "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon"
 
 related:
   - title: "SD Times news digest: CheerpJ 2.0, Splice Machine partners with Heirloom Computing on modern mainframe apps, and Aiven’s open-source cloud platform"
@@ -31,7 +40,20 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-06-at-10.51.48-AM.png"
         width: 914
         height: 611
+  - title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
+    excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
+    publishedDateTime: 2020-02-04T10:24:00Z
+    webUrl: "https://apnews.com/Business Wire/6cc89506c97d469ba190f5fea31af2a0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
 
-secured: "z8NTe4TbVB3qTj5Six96Thkmoqtl8Z5FQkYEZHTXfRngNMh/1cLSMO0B2GWukQ61ZgurJXSqsbvxfbSrmebf0ejViPwCAwyF5fm0FkmG2VRMkud8i/7d7sRKlyQnU5FA4vnMWeOsQoEfHD7C4IXnm3ue9F1C7FCrAZILFXuBbsPIl/I+fkGnc4veZAMqrykdGDs5xTvRrCR90Izbfp6dYx+RpG8SGfYNUcLyf9cHRv00oit3ln6tGPe/g8N3c67KRul5kKpa6IxXUbRHfbd4EEH96cxnosQtIz7z69dS1gylPXTROoSxfonbMGqSkEUyUeWFpktb2yC4SX11PEKP/HcZDrbvdZyL03bI9qMiLzNxAfMKpspjpyyjfKxS4Y14H5hKJ9GMPjOcJ8wxnpet44yDH7WNIChg31u6Lm/1ESD7UcCJohBLMAHLCVkR6fNc/ivdS9Smz0rJP3R65GLEqpXBsU13VtS5FqwEyOt6x9A=;6YlslBafxepESVs2Tcm5mA=="
+secured: "bN2nYA/YnVjUkKfjy3tDX+k1GGb7yeVN1cHcr//ACWVo/MForZElwKAw/1vqtVLDo764mErW1H9EQtCVvUlHUYLNr0X+X/iReSgBl2Izv8UCTlk63yCb0fCaVrO8sMGcW0TWJ88sTX6ZD/CtrIXxwO0T9tIeqBbeFYjwmChbCS6atOZ2iHtnUt6RzVRgJlWoqQjtOySP7rj0mtWF1Yi5gVnBGMLrlhJOfsdIOwVv2pVsolSwJatojty3yAc1uZsYfo8g9qdqtGxnbG1aFYePCpAeznMLo7d6g/RkqpRXE/PiF6RSi3bkwlRFyNbtK5YI;2rnZQFjv4rp4gUmB6Dhx5Q=="
 ---
 

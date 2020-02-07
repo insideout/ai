@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.trueachievements.com/n40523/xbox-game-pass-subscribers-d
 cdnAmpWebUrl: "https://amp-trueachievements-com.cdn.ampproject.org/c/s/amp.trueachievements.com/n40523/xbox-game-pass-subscribers-doubled"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 670
     height: 377
     title: "xCloud grows and Game Pass doubles in a successful quarter for Microsoft's services"
-
-related:
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
-    publishedDateTime: 2020-02-03T09:37:00Z
-    webUrl: "https://www.africanews.com/2020/02/03/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
-    type: article
-    provider:
-      name: Africanews
-      domain: africanews.com
-    quality: 0
 
 secured: "f/FbZ3ndzchn44z9UIWQ38pR/WpNXi/ERAR4J0kZZaNa43CzY8rCyExWM20HPKOPvRwZexZ5hxUFF9AbjzH4Ygrcpq6JyhtXpNWx+DCYibNVjxcBc1/ocPSkDTaJ/9uxqLdmHvDmpRuPUZrir7mNyyH8VjksNQpfg8gQDw8cVVMzfpCugs1Cn4y/idwoC4+2bdKqIn+eVQo1u772wWHZCQnPW1tGs1PQg1WBySnE2XlWNIEd8BM9mPtxlXJ8cyhKARXSsHj2qP7s9sB4ztZvO0HpDouRyh5GZrnIyipFnBWLs58+sxNph0+dQxK/U6PMYEuD4nZoikK0xd1QP9ZKTphSzHUsTS+dmZfgVGibRxRvxcsa58ISb93ymzfp+pXuIyd9Mtx93T5reHN5Pckl7s/eIC8ktiFYJUv7cIwtcC1+LRC693KQt2lAjt0XGLtgkAj0d39WIXGuWwx5tUhaaMlW+xKiZSM7XE/P0jqOgWs=;iEG8w7NTT8qHABntDAf+AA=="
 ---

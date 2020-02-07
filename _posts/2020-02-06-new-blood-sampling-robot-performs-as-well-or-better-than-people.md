@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200206/New-blood-sampling-ro
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       - url: "https://eurekalert.org/multimedia/pub/web/223630_web.jpg"
         width: 1440
         height: 1158
+  - title: "Blood sampling robot excels in human clinical trial"
+    excerpt: "Repeated failures to start an IV line can increase the likelihood of phlebitis ... Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
+    publishedDateTime: 2020-02-07T11:09:00Z
+    webUrl: "https://www.theengineer.co.uk/blood-sampling-robot-rutgers/"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 39
+    images:
+      - url: "https://theengineer.markallengroup.com/production/2020/02/BloodPrototype-621x500.jpg"
+        width: 621
+        height: 500
   - title: "Robot Does Superior Job Sampling Blood"
     excerpt: "Data from this study will be used to enhance artificial intelligence in the robot to improve its performance. Republished courtesy of Rutgers University-New Brunswick. Photo: A prototype of an automated blood drawing and testing device. Credit: Unnati Chauhan"
     publishedDateTime: 2020-02-06T17:49:00Z

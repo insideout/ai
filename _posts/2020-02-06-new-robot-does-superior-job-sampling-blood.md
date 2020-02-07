@@ -39,6 +39,19 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
         width: 620
         height: 480
+  - title: "Blood sampling robot excels in human clinical trial"
+    excerpt: "Repeated failures to start an IV line can increase the likelihood of phlebitis ... Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
+    publishedDateTime: 2020-02-07T11:09:00Z
+    webUrl: "https://www.theengineer.co.uk/blood-sampling-robot-rutgers/"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 39
+    images:
+      - url: "https://theengineer.markallengroup.com/production/2020/02/BloodPrototype-621x500.jpg"
+        width: 621
+        height: 500
   - title: "Robot Does Superior Job Sampling Blood"
     excerpt: "Data from this study will be used to enhance artificial intelligence in the robot to improve its performance. Republished courtesy of Rutgers University-New Brunswick. Photo: A prototype of an automated blood drawing and testing device. Credit: Unnati Chauhan"
     publishedDateTime: 2020-02-06T17:49:00Z

@@ -96,6 +96,15 @@ related:
       - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
         width: 620
         height: 355
+  - title: "Ban cops from using facial-recognition tech, lawmaker says"
+    excerpt: "NEW YORK - Facial-recognition technology is a top crime-fighting tool for police departments, including the NYPD. But one state senator hopes to change that in New York. Sen. Brad Hoylman, a Democrat who represents parts of Manhattan, wants to either ban ..."
+    publishedDateTime: 2020-01-30T03:32:00Z
+    webUrl: "https://www.fox5ny.com/news/ban-cops-from-using-facial-recognition-tech-lawmaker-says"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 4
 
 secured: "eV0CZTRMYwO4VMIZQo7eL7h27Z4Z3GToT6VYvFBybkshYrEPkJwj+CKwc9rVxym6aNx1GIhPyYxSFAJOU7Oks0xM1iki2MZSJdz8GJ/Hkf+WycsSKIz4fZtNMfufy+a8MAcp0h8KGTbMvtDel4L2LerLCUR2zEjjBDnS1/DB5irKuMsHeor7n8Ih14dmum+vcxirRp3R7oVtJMAdIMWNCI0yQSy9+fEfz7J7LN2nJorF6mn7YFw3PRPF9mLG7clpcBqb4fBjlFzARQ1WMVilOHOV/l2USKE2l/mZEzUpW1NZhks4VluwCZAiK3KX1ZtIo+1tQrOGv//+KUqjaK4qjn+itTC3TwTSyUG3yvPjcA/mxUWZkuU6h+2Y+CqFNbY9PUxX2RQdY1p/SI0E5111383IF1c8ozFdCIqLEBzs/laW6u8ENGDdhiUewKtmz6VgeZUiWmGFR+x1OT/3K4esZ0ouMCzbNYLSITVgCOlHvHA=;+8u96NJdm1YLhtUAY2GQ+A=="
 ---

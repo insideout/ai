@@ -98,6 +98,15 @@ related:
       name: New York Daily News
       domain: nydailynews.com
     quality: 18
+  - title: "Ban cops from using facial-recognition tech, lawmaker says"
+    excerpt: "NEW YORK - Facial-recognition technology is a top crime-fighting tool for police departments, including the NYPD. But one state senator hopes to change that in New York. Sen. Brad Hoylman, a Democrat who represents parts of Manhattan, wants to either ban ..."
+    publishedDateTime: 2020-01-30T03:32:00Z
+    webUrl: "https://www.fox5ny.com/news/ban-cops-from-using-facial-recognition-tech-lawmaker-says"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 4
 
 secured: "j0XIbaVt+6RCTxelcB4TCVvIEobvXr/Bn5cuROKWShicCWqyk0JZED0bo1aCNkTzVesVV7mQX7kzwwuN7mKqUX7f+VULpMAHvFSRp7koDjEjgvgZ3gxxWcY7sFCqz3x6yzF/OatNLTmB3e4fwzryuZsAWPrvJBEZwj4Ff6XFm+j/Zd7JHl0rIlgW9YEO4l9OIiKFzmmdRgIyVhHklRZH7QDNYbcUYLjbcfUlO85pmOtDlr/uTetmVuMpXyFMXkcZ2guYo5oBpQHql5GsNzmjjzViWXkOBYo7jikin+1J2L/XDZMPCCj2q4MgmvwdEXJFXoaOm06rIFO9x5EpKti38tQ42Ya+yH8LbunoH7oy+VgnxXhhs0yZP+SGLyNupupAGPi/lDemPk7we3/IERGQNy2BceEN+h7N9ePSQ4qbZQdi8sS5MAcVxP08MVW20GGrx+5tLlKE2Vf3G271dPmXjtDzDKTjzLWr7lH+Uul8y78=;89Clc/8g/gsJqIxnWBA7lw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-fir
 cdnAmpWebUrl: "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
 type: article
 quality: 157
-heat: 438
+heat: 448
 published: true
 
 provider:
@@ -302,6 +302,19 @@ related:
       - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
         width: 992
         height: 558
+  - title: "Facebook demands Clearview stop scraping images for facial recognition tech"
+    excerpt: "EPA-EFE/FELIPE TRUEBA Facebook has warned US-based tech company Clearview AI to stop using data scraped from its social networks for its facial recognition database. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using information from Facebook or Instagram”, a Facebook ..."
+    publishedDateTime: 2020-02-07T12:48:00Z
+    webUrl: "https://www.neweurope.eu/article/facebook-demands-clearview-stop-scraping-images-for-facial-recognition-tech/"
+    type: article
+    provider:
+      name: New Europe
+      domain: neweurope.eu
+    quality: 37
+    images:
+      - url: "https://www.neweurope.eu/wp-content/uploads/2019/11/h_54166602.jpg"
+        width: 5379
+        height: 3551
   - title: "Facebook is latest to demand Clearview stop using its images for controversial facial recognition"
     excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company ..."
     publishedDateTime: 2020-02-06T11:57:00Z
@@ -386,6 +399,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "evjf8NOobEXOXmgnWVu5wGEE0wYZyOj7oQORX0q5NRk0sUJhVh7PKqrCYi/oA6Y+CIMYQTY+bL2vMWcaJkXXJGHal/Jck4iPTEGt/90/lxrHnmnbVai2gc3zODK8DzQCQYovKyvhx06WtQXHxLxs41x4BqHluv1t3QWfTI4il/hmCFMPJopUBZIgXUQkRvB60YyVzb34WQNf2gGcYoC+oUuiaFlaiRUqYIJEeEbCmIXoMXQkwIQmjrwyMewxL3eAfO6b5AH4xt1jGxK7yl0sL0I1EGhyXeRAVDuHG/yaobdwm28jgJia2VY1ZNJLYa3+RNHRxzheMFDh9RGWuYdovi7EeqpoQ4uL7bxM6Frwd8/ro3uNUGcXH0cfjqfbC+iZFuFMzTxEM4MBXJoY2gNjmHrc1700PeRmnZ29IafgRVzwWClQG4WpzfUNzw6F7NWc7dDz1JkGtnwGmuteo7+Vn/adq3yp3jxoRPM09d5SqqFRZTLkCJB5kjtgPCnnWoM6;LTbYQN9nMjmyYVTHK6ZgeA=="
+secured: "d/U0A4jD4A83z2G0qjkvf5ouVAiRG67VI+Cdd4El+K6jtaHPcn+iBH87uP+6H92egyuR1F1RkrRLEKspjugmvHNvr681LiNBKkUisEZHi3KGtwqKI8wxrzeGSDNdOGK9o8kn+JrcIgtA68W7Qogyk6KKZQluvs6Bhhf3AllVj0Fms5QKc1liYO6Df/H0yYTTxYovvBv32gkB5Y1jv6qm7rDjoMK0kyOjkoIVuMEHmVvPogUwIm12N+WUrcDeX+hd7UytHKxpbvsBywE0RnAD1aoXPjUkIVaoXGvLnFbUBYcnbOYUmkgRmzkHqMbOMHqLhLxwKsVkDiqwO5HPF42SxeIRoVF+dR3moUw7c6QFApkZoVsRuwbOtPLTPs+slNXBDwsL1jQGyBgn932eDwJN58iz35SUN+69lFm3ADGhj7rI+Js1D6vd5XWvaat+loLdowKiQytDPUnxoJxAYGNbxoqLLmzTL/uvZAOcrOxaLyzWOh+HGp6/uQbj54XzDIP7;w5VC59qxpk7JSCXg69OXOQ=="
 ---
 

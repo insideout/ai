@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-28T13:28:00Z
 webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-revenue-of-usd-1894-bn-by-2024-2020-01-28"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: MarketWatch
@@ -41,15 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Self-Driving Bus Market Size, Share, Trend & Growth Forecast to 2027"
-    excerpt: "Autonomous vehicles also known as self-driving car or bus makes use artificial intelligence (AI) software, cameras, and light detection & ranging (LiDAR), RADAR, to sense the surrounding environment and navigate by creating an active 3D map of that location. There are diverse levels of autonomy ranging from semi-autonomous that involve driver ..."
-    publishedDateTime: 2020-02-04T12:24:00Z
-    webUrl: "https://www.openpr.com/news/1918469/self-driving-bus-market-size-share-trend-growth-forecast"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "WUdV2NerUDfHC8Mw5lkQH13SLeiedkHwRnZ4R6on8uxo7cgejJH1vBZAi2JHzqrI9SegorMXEtlXvW4v7ySZnvw5GrL+AAxiWlVe2CpFypsoWyDd3+dDpbIL25CfwNnXwktshWyY9xgXAyjkZzmqMvIfbUbYizuFVh+JMMO+TBXF0y0+LdRJGbBS16GR76OwZUeIhmWA4bzW9W+REXAxa/6ivI1/Bt4aHFxGA1LS0Vawi9nEi47iilxby3n0N8CYqrYT7QnQpsaaoKGW79Nqajn8w+kjO1YLmqB32QVr2iffdGYan2epnXdQo5PkVkbO;bSXJp1t/jRKNZX9ys7RgaQ=="
 ---

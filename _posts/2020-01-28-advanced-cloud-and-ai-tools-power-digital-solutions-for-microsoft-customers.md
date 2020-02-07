@@ -26,21 +26,6 @@ images:
     height: 683
     title: "Advanced cloud and AI tools power digital solutions for Microsoft customers"
 
-related:
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
-    publishedDateTime: 2020-02-03T13:44:00Z
-    webUrl: "https://www.biztechafrica.com/article/microsoft-and-genesys-expand-partnership-help-ente/15418/"
-    type: article
-    provider:
-      name: BiztechAfrica
-      domain: biztechafrica.com
-    quality: 30
-    images:
-      - url: "https://www.biztechafrica.com/media/images/stories/microsoft_wDjNDZP.jpg"
-        width: 410
-        height: 270
-
 secured: "2WkBCh5GXfQgqm7JDj3eZfT6UC5gsKATyiY+mcIWyWCdZB8Uy2QixzDRdyuCtIlNF4FcauxTLaWFAs4Hpsx3QNFdxdt9ZQjCMaVdWwDuvfpIovJ+UHXTyngP62Fj3iNw56hDNhqU1bq5qIK2yuJ0E+RAPq7uTBcXITufntckbxstm97Yw7xokEaVnm2ttUCx+60BGhvqIiSuFZ7G6ywGI7+ehdPlw0MKBpGpPUFmygPpnLW/QhAT1oArI8WI+biNfKL+eIrfEQA2cM22s5af7aM15c0002a8zD6YrueJRfW5PuhjIxbNAsFaTaadCf1p;Uc4donER9XAjePL7mlOacg=="
 ---
 

@@ -39,21 +39,6 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/g3NdohYSdrzYH4i2iNFOSc9gHbQ=/756x567/2020/02/06/8599565c-e194-4d37-9ab7-56f3f399d317/facial-recognition.jpg"
         width: 756
         height: 567
-  - title: "Microsoft looks to expand into AI as cloud computing drives Q2 results"
-    excerpt: "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ..."
-    publishedDateTime: 2020-02-03T20:07:00Z
-    webUrl: "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316"
-    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 74
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg"
-        width: 620
-        height: 250
 
 secured: "U5mP0AMnYrWlqzA2gNIpoHEDPgvdyvUv4+i0++oJo9FEqCm86S9sEaHf3SZZnyuFr7EirzMRRa/yMQftUlTuUTS0si3i7IZSjwIMNODCbumBE4bvxTrqHwrzWbvPJEHRhTebcVVoAg8gAZ3pSQMf4rTMqMiGJYJZmiDfnAEdoNYmnKLLhh19+N/6tN2JzujZFNT+T0Rq1ihiHKH/a89UK4iHYrJiMpsKu7kOEsOYk9r2m45JDZzWrKhM3rY7NdD3jMNAoiXbQwlCH6zb+hw4hN3bFWKgZQjFUTE3Nxy3RxmFSm9BSJoZqJHMvVjJZYr+I8EfVNfzgC+oSCBQ1Q9+fUjcN6NI0123hnwkfz+ke5TsJaZRC7lgCm6Ujxyue4dri2ZgS3endiXl2xcFttR1CJcEf5Sw8hZeuuhldWwzNAvJUI5RCn4l5qsXYwJcBjZnzU/TnPd/zWXqlN/lnVH8HCCZGf7tT8HQmGVk3YzBZbY=;7wIbKAuDwLGZeV4qAN94rQ=="
 ---

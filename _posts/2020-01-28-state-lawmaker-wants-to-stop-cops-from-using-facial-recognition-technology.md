@@ -39,6 +39,32 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg"
         width: 796
         height: 419
+  - title: "New Jersey law enforcement blocked from using facial recognition tech from Clearview AI"
+    excerpt: "New Jersey is no longer allowing law enforcement in the state to use biometric facial recognition app Clearview AI, following a moratorium put forward by state Attorney General Gurbir Grewal, writes Mashable. “AG asked that all law enforcement agencies in New Jersey stop using Clearview’s technology until we get a better handle on the ..."
+    publishedDateTime: 2020-01-27T20:07:00Z
+    webUrl: "https://www.biometricupdate.com/202001/new-jersey-law-enforcement-blocked-from-using-facial-recognition-tech-from-clearview-ai"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 46
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+  - title: "Facial Recognition Technology Uses at Homeland Security Department"
+    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
+    publishedDateTime: 2020-02-07T12:41:00Z
+    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 39
+    images:
+      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+        width: 1200
+        height: 630
   - title: "New Jersey cops told to halt all use of controversial facial-recognition technology"
     excerpt: "The state attorney general is ordering all New Jersey police to stop using a powerful new facial-recognition technology that’s pulling millions of photos from social media. The order was issued Friday to county prosecutors, concerning a New York-based company called Clearview AI. “Like many people, I was troubled,” state Attorney General ..."
     publishedDateTime: 2020-01-25T13:13:00Z
@@ -54,6 +80,19 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/KP4ZEP4EZVEE7EUKABDLB57CO4.JPG"
         width: 5472
         height: 3080
+  - title: "Facial recognition technology poses ‘enormous’ potential for abuse, NDP says"
+    excerpt: "OTTAWA–Canadian police agencies' use of cutting-edge facial recognition technology presents \"enormous\" potential for abuse, the opposition New Democrats say. The NDP is calling on federal privacy commissioner Daniel Therrien to launch a probe into how the RCMP and other Canadian law enforcement agencies use the controversial tool, which can ..."
+    publishedDateTime: 2020-01-28T19:22:00Z
+    webUrl: "https://www.thespec.com/news-story/9833836-facial-recognition-technology-poses-enormous-potential-for-abuse-ndp-says/"
+    type: article
+    provider:
+      name: The Hamilton Spectator
+      domain: thespec.com
+    quality: 36
+    images:
+      - url: "https://dynamicmedia.zuza.com/zz/m/original_/a/e/aec26bdc-72bd-413c-9494-fc91ef7c420b/B881027028Z.1_20200128125040_000_GH1S8UDK.5-0_Super_Portrait.jpg"
+        width: 587
+        height: 417
   - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
     excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
     publishedDateTime: 2020-02-04T11:05:00Z

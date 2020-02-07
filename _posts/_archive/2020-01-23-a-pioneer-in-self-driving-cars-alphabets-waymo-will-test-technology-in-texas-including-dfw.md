@@ -1,25 +1,29 @@
 ---
 category: news
-title: "Waymo’s self-driving trucks and minivans are headed to New Mexico and Texas"
-excerpt: "Waymo also said it would “explore how the Waymo Driver” — the company’s branded self-driving system — could be used to “create new transportation solutions.” Waymo plans to mostly focus on interstates because Texas has a particularly high freight volume, the company said. The program will begin with mapping conducted by Waymo’s ..."
-publishedDateTime: 2020-01-23T20:33:00Z
-webUrl: "https://techcrunch.com/2020/01/23/waymos-self-driving-trucks-and-minivans-are-headed-to-new-mexico-and-texas/"
+title: "A pioneer in self-driving cars – Alphabet’s Waymo – will test technology in Texas, including DFW"
+excerpt: "Keep an eye out around North Texas for a leader in the self-driving car effort: Waymo. The company – part of Google-parent Alphabet – said Thursday it’s going to test drive trucking and minivan-driving between New Mexico and Texas."
+publishedDateTime: 2020-01-23T20:06:00Z
+webUrl: "https://www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.html"
+ampWebUrl: "https://www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.amp.html"
 type: article
-quality: 47
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Business Journals
+  domain: bizjournals.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://media.bizj.us/view/img/11586802/waymo-truck-3*600xx6000-4000-0-0.png"
+    width: 600
+    height: 400
+    title: "A pioneer in self-driving cars – Alphabet’s Waymo – will test technology in Texas, including DFW"
 
 related:
   - title: "Waymo’s self-driving minivans and big rigs arrive in two more states"
@@ -172,21 +176,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Uber is bringing its self-driving cars to Washington, DC"
-    excerpt: "Uber’s self-driving cars will soon be jockeying for space on the streets of Washington, DC, with the ride-hailing company announcing it will begin collecting data to support the development of its fleet of autonomous vehicles. The vehicles will not be operating in autonomous mode, though. They will instead be operated by human drivers to ..."
-    publishedDateTime: 2020-01-23T19:43:00Z
-    webUrl: "https://www.theverge.com/2020/1/23/21078864/uber-self-driving-cars-washington-dc-testing-manual-autonomous"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/23/21078864/uber-self-driving-cars-washington-dc-testing-manual-autonomous"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/23/21078864/uber-self-driving-cars-washington-dc-testing-manual-autonomous"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Loy1FVsB2LJsMuqq5vfbEKmMPpk=/0x0:1500x1000/1400x933/filters:focal(630x380:870x620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66155961/1_aPuu__I3Xa_T7NS1vrhUvA.0.jpeg"
-        width: 1400
-        height: 933
   - title: "Uber's self-driving cars are launching in Washington D.C. for testing"
     excerpt: "The cars will have drivers, and won't be taking passengers, as part of data collection for future development and eventual roll out."
     publishedDateTime: 2020-01-24T16:44:00Z
@@ -256,36 +245,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "A pioneer in self-driving cars – Alphabet’s Waymo – will test technology in Texas, including DFW"
-    excerpt: "Keep an eye out around North Texas for a leader in the self-driving car effort: Waymo. The company – part of Google-parent Alphabet – said Thursday it’s going to test drive trucking and minivan-driving between New Mexico and Texas."
-    publishedDateTime: 2020-01-23T20:06:00Z
-    webUrl: "https://www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.html"
-    ampWebUrl: "https://www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.amp.html"
+  - title: "Waymo’s self-driving trucks and minivans are headed to New Mexico and Texas"
+    excerpt: "Waymo also said it would “explore how the Waymo Driver” — the company’s branded self-driving system — could be used to “create new transportation solutions.” Waymo plans to mostly focus on interstates because Texas has a particularly high freight volume, the company said. The program will begin with mapping conducted by Waymo’s ..."
+    publishedDateTime: 2020-01-23T20:33:00Z
+    webUrl: "https://techcrunch.com/2020/01/23/waymos-self-driving-trucks-and-minivans-are-headed-to-new-mexico-and-texas/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 46
-    images:
-      - url: "https://media.bizj.us/view/img/11586802/waymo-truck-3*600xx6000-4000-0-0.png"
-        width: 600
-        height: 400
-  - title: "Uber is bringing its testing of self-driving vehicles to D.C. streets"
-    excerpt: "Uber will start scanning and mapping District roads Friday in preparation for testing self-driving cars here later this year, the company said Thursday. The ride-hailing company is moving to expand testing on public roads following the conclusion, in November, of a federal investigation into problems with Uber’s technology and management that ..."
-    publishedDateTime: 2020-01-23T18:14:00Z
-    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 44
-    images:
-      - url: "https://www.washingtonpost.com/resizer/6y2sKq-ck-E71CGNwannVKxBqdo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALNBBXR6AUI6VOINKZJIA3B3HI.jpg"
-        width: 1440
-        height: 960
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Uber prepares to test its self-driving cars in Washington, DC"
     excerpt: "Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC. Three mapping vehicles equipped with cameras and sensors will spend a few weeks driving around the city and collecting data. High-definition maps are considered ..."
     publishedDateTime: 2020-01-25T14:34:00Z
@@ -331,19 +299,6 @@ related:
       - url: "https://media.khou.com/assets/KHOU/images/8b4d1fb4-635f-4bf7-ae2d-7044e834b8fb/8b4d1fb4-635f-4bf7-ae2d-7044e834b8fb_360x203.jpg"
         width: 360
         height: 203
-  - title: "Waymo Self-driving Minivans Take To More US Roads"
-    excerpt: "Alphabet's self-driving vehicle unit Waymo is expanding testing to more regions of the United States to explore \"new transportation solutions.\" Waymo Chrysler Pacifica minivans and long-haul trucks will take to roads in the US states of Texas and New Mexico this week,"
-    publishedDateTime: 2020-01-23T18:35:00Z
-    webUrl: "https://www.ibtimes.com/waymo-self-driving-minivans-take-more-us-roads-2908264"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/23/self-driving-waymo-chrysler-pacifica-minivans-and-long.jpg"
-        width: 1024
-        height: 640
   - title: "UPS And Waymo Partner To Begin Self-Driving Package Pickup In Arizona"
     excerpt: "Waymo’s self-driving vehicles will shuttle packages from The UPS Store locations in Metro Phoenix to UPS facility -- Partnership to develop customer and operational benefits “UPS and Waymo are exploring automated and autonomous technologies to enhance network operations,” said Scott Price, UPS chief strategy and transformation officer."
     publishedDateTime: 2020-01-29T21:47:00Z
@@ -379,17 +334,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 34
-  - title: "Uber taking 'first step towards' self-driving cars in DC"
-    excerpt: "Uber is working towards replacing its human drivers in Washington, D.C., and they are starting the process by collecting data from self-driving cars in the city. The testing will begin Friday and will include a driver who will maintain control of the self-driving vehicle but will map out roads in the car along with a co-rider. The company did ..."
-    publishedDateTime: 2020-01-23T18:31:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/uber-taking-first-step-towards-self-driving-cars-in-dc"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/uber-taking-first-step-towards-self-driving-cars-in-dc?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/uber-taking-first-step-towards-self-driving-cars-in-dc?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 24
   - title: "The road ahead for AV in the age of self-driving cars"
     excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
     publishedDateTime: 2020-01-28T10:25:00Z
@@ -448,6 +392,6 @@ related:
       domain: kxan.com
     quality: 4
 
-secured: "3tqrPSLEQ+pWSGfxCmVzbBhYZM0T7OGyrAeQ2j9zK97wl/YhOZRWJIdj9LiYEgnGfeKSD6jzj1aDMjNo/COWzALslKN9IvNXpCNcKIOKzLtTkkXbqLCbvQyyEMylyPV8u+nl+wXjxR3ajURuougtDZV6XQoW7io2bkWyCcH0GseY2HInAcx1wR5DL2uJkVAynZIBLh4NIX4tQTMeYzSHgUY4vc9vPyfBGKGczZt81GGJb9j1ntEYQ3DJs/qaioTCjGxRGnEuu86555p4AIot6drvyh0Gyb9XncsHIUQp3UTXlWvxOriG4wBUa3OxIxzFLOYq/JKXPzHtGMVhgTzvKyquBYLdinpfqNE98jS0fKiS7KCjUaA1CLFDcLV4FMyUBT2j6ocjrKSstdJSGdQPVOuCjmHsECjMY0cE4kB+gUdxLywRLtSmSdBJITzcl/N13tWv1z4iPcmgbrXs8hOZZFmCCsM7UMcLkqevKqSNfGc=;WJnkg66ibi9q4txpWK9/7A=="
+secured: "PNpphqTWXFdN6YSKIHcMM26+ECUDgCVeg0ReWLwDr7virC1oyPSaTNSTh0ZbZNXiM3cpmdznU5NSls75hbM5y64+RoDDGjX27r5t/2oz+G7nVXvfus0Cds6AnB/ieNZ08j6V49AV7JwpNwMvYrJQhPC9dnoorAU8IY93g0D1LZp3ia+JqgjY+SPXvq2erQUgCb/tssScL80eXGDW/KCYDwbXXuWOS31ifFYLyjSYjcspDw8d1vZAHJ6tb6jmhlmW28oy0a9PVfMvbkP6fo+d5ddjzwrhslU19E4YuizkJRPdzjFsSaum448IiwzQxQiMDV2T18bwaaaVV5gEqJqrzjdRw1K2cb1qbTR/J2mHj5KpNagnq5h8Fzy4jZ9ueKZS6+UdeCxSJ3ZiFfKg3WroALy0voPhASuo0zQpfLOO4f81oa2YR3brAziHYOnfdg3JeY1uRfJB2SaJnUZEIrL3ZCORqD4Wu+oX9ZSrWxxNeuE=;O/KxqLV9irOCFJBQ6RR64Q=="
 ---
 

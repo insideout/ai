@@ -70,15 +70,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Computer Vision Software Market Rising Trends and Technology Advancements 2020 to 2026"
-    excerpt: "The report presents an in-depth assessment of the Computer Vision Software Market including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models,"
-    publishedDateTime: 2020-02-04T04:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-rising-trends-and-technology-advancements-2020-to-2026-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
   - title: "AI in Fintech Market Technological Innovation, Current and Future Huge Demand, Scope 2020-2026"
     excerpt: "QY Market Research Store has added the report titled Global AI in Fintech Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
     publishedDateTime: 2020-02-07T09:02:00Z
@@ -105,15 +96,6 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 0
-  - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
-    excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
-    publishedDateTime: 2020-02-05T02:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
     quality: 0
 
 secured: "D2CadV4bxlv6cR/pgVQZf7frfGsVuL5yKPo/fE1DcpA9G2ORqjsfO/3wGo1/rXTn+3FMifxFdq8JBGq0k4B1s4fTvGFGenCtn0G6lbKub2dNZhhvMg2B4WtOsKrv54mw8YIvr4Sf8hvJ59QuGz9An7Ni4bEozV4PvLEigyEkbZpm6zOuOMIeniScQnbx80VDohyv3NRYrRNO9WVX5b6l3105aGxCTLmbr3joeNQwjXgHnApKZ0RAcKD1dU4tSgf1bjTPTYb0+aJbGrCJcl8tho2yZ/MBwymhITV5ebjSdNJeqrlYMs5Cc0bpT73C5qWI;Bo0yrw1d0lbwVHDMLbRLAg=="

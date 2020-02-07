@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Artificial Intelligence Market Size Worth $390.9 Billion by 2025: Grand View Research, Inc."
-excerpt: "/PRNewswire/ -- The global artificial intelligence market size is expected to reach USD 390.9 billion by 2025, according to a new report by Grand"
-publishedDateTime: 2020-02-05T08:35:00Z
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-market-size-worth-390-9-billion-by-2025-grand-view-research-inc-300999236.html"
+excerpt: "Improved image recognition technology is critical in enhanced drones, self-driving cars, and robotics. Key suggestions from the report ... Inc.; Zebra Medical Vision, Inc.; Baidu, Inc.; H2O ai; IBM Watson Health; NVIDIA; Enlitic, Inc.; Google, Inc.; Intel Corporation; and Microsoft Corporation. Read 100 page research report with ToC on ..."
+publishedDateTime: 2020-02-05T08:40:00Z
+webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48774387-artificial-intelligence-market-size-worth-dollar-390-9-billion-by-2025-grand-view-research-inc-008.htm"
 type: article
-quality: 29
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI
-  - AI in Healthcare
-
-images:
-  - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-    width: 1400
-    height: 733
-    title: "Artificial Intelligence Market Size Worth $390.9 Billion by 2025: Grand View Research, Inc."
+  - AI in Autos
 
 related:
   - title: "Machine Learning Market Size Worth Around US$ 76.8 Bn by 2026"
@@ -43,6 +37,6 @@ related:
       domain: cmo.com.au
     quality: 19
 
-secured: "2YjSrUZCznkmdpfd8RoxMJ5WE3j549ePVHd54R+fooLzOrMyNZDbYNjwANJhiyxTjS/MQ2xOz3nSRDH1DRGeZWYbFa1xBAKrCpDxA5+TbMc5owm3K9dfm3/e0qlp10P61vBTdYMgJ/sUR5iR+kpyq4jmOMMnykyVELSUdTXqbYCpBSrJjOD2lw6aG+gJkuhjSZADZC5Up+3QapEccCTthKvvEiHp8Hup9e5TRM4VEoB9Qh4YUvk82QRZtXp4ZQVbJvDY0V3hGXlReWBdYU7eNZ0nAbrAuREMfPuJmahma2dyEkSkLXQWZKF1Lkb7tbvIre4BH1kBUuYkh//7NgGJ1uNAYWDEs7GZJRKktwXIXmSJLzuPZRfgR2tLVMmYWmebJYiMsFuyUYTBGVlBUSqiSxt44E6kUloLNZ4mAKrjpMbLrAKhuMBRSP0WyAeeZQWudbZRnjk/01fK8K7Zna0PW9SJJMXE12HCF+3/6ZrWGSo=;mNL1gozYGSQACoeuBQjnzQ=="
+secured: "BBRGAd4DepHnnSOicLnQ7pPC4G2VH+shQZsHvTCg+NJi1nAJljE0hL6AyPNWlgWgpS2ZZxZbx///Rm/khsW9onWYM7WQIaBBzrJ2W8Klx10MTKdTaNdF0SJ9Y/cjA+xpEX0UUe2KTMJXVMQ0lX+alt3wfsd9gMxDCccQu8BOBezU9H8ReRtJEnaJtGFiCqDAMgMwRW4fxgbIofUT2K1HgoQkQMTV3RNvHD/l9hQTY6gjuLw+ccvfvZB34uF0kYlMNLGXzl7aIGEeIkdKiPPRQq28rUpuhIR75f0r/52yOVIuMf0YVgV+lCglAwCMdACz;6fbmGM19Tt4MEEaCBd15KA=="
 ---
 

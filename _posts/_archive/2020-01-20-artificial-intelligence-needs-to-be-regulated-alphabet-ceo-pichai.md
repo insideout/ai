@@ -4,8 +4,10 @@ title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
 excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
 publishedDateTime: 2020-01-20T12:57:00Z
 webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
+    width: 600
+    height: 338
+    title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
 
 related:
   - title: "ProBeat: Why Google is really calling for AI regulation"
@@ -64,6 +72,6 @@ related:
         width: 1200
         height: 800
 
-secured: "WUINUkqN/8tVoOoHiCmOYBf2sPE8GKMl2hZCT6la9KpOQbIvrxus8H79rMGqcVd8YwLPUlZ0LI8aXBh4ir38lQLM1kum02T3ZKZWqtoAHGjnpioJKlfoIjubMHgp8ZAGh61BwQTlmVEOcgdJqqLCsoRrE/DbEAUdJgKnjEftHPxrt0HiDbw5OAlgYdpZh7RqlWUCSmy6qjT5QdbGLx6tDfDrM5Czo7oTaj206u/NApE1bK5g1+P9ucbZFybbnjFivlzjm+1QL5/eZ8lFa+IXGYSptvwDI7z3CV4DXMvMieLFHj0buEwyR+qS6OTALbSK;ICeFoy0O2STyDR9b++GkYg=="
+secured: "9axQ41kQKx6SoFi9EmaYjvWRSCol1tI7Gnz/2SZqxsfDjTHcUcHR9O/2nqdLdDmF/AcLVbvb/iqUpCDpsDt2OheoYfyskfIcoUUH7F31rP2nGJJOVtYbPe5d2KbBiiNuL5T7dE9AkXhVaUahS3BkahCdCIq5EhWOUtlq19Rd7sqXgSPrqksMRQ6j435PqWOc06daStLngwg5Ew6X6fEhARccriCdOLaAVuAHqapG9tKvHjqpwwI69Quv5SGmHDAZgwWZfftKCpXtSX74PiTgw6LB2j0c1Lva7Z+NIcGqmJSTkQA8yj6rWohns7FFPCn/;OqYphidlbftI2FksMRYzBQ=="
 ---
 

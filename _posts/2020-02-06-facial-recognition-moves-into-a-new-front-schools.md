@@ -82,6 +82,19 @@ related:
       - url: "https://cdn.newsday.com/polopoly_fs/1.41286231.1580616519!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
         width: 1280
         height: 719
+  - title: "Zwicker Wants to Regulate Facial Recognition Technology"
+    excerpt: "TRENTON, NJ – Just recently, the New Jersey Attorney General prohibited law enforcement in all 21 counties from using Clearview AI’s facial recognition software after a New York Times article revealed the start-up had built its database by scrubbing ..."
+    publishedDateTime: 2020-02-07T09:00:00Z
+    webUrl: "https://www.tapinto.net/towns/somerville/sections/police-and-fire/articles/zwicker-wants-to-regulate-facial-recognition-technology"
+    type: article
+    provider:
+      name: TAPinto
+      domain: tapinto.net
+    quality: 39
+    images:
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/hi/facebook_6c84268a82f274cd1c00_hillspixzwickertestimony.jpg"
+        width: 480
+        height: 401
   - title: "European Parliament says no intention to deploy biometric facial recognition for MEP security"
     excerpt: "The European parliament insists it will not roll out biometric facial recognition technology for access control in monitoring within parliament, after information leaked hinting the institution was looking into using it for security purposes, writes The Guardian. The Guardian further states that it reviewed an intranet page titled “artificial ..."
     publishedDateTime: 2020-02-06T20:54:00Z
@@ -95,6 +108,19 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
+  - title: "Biometric facial recognition use by police draws scrutiny but helps rescue thousands of children in India"
+    excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
+    publishedDateTime: 2020-02-06T22:09:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-use-by-police-draws-scrutiny-but-helps-rescue-thousands-of-children-in-india"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
   - title: "Biometric facial recognition use by police draws scrutiny but helps rescue of thousands of children in India"
     excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
     publishedDateTime: 2020-02-06T22:05:00Z

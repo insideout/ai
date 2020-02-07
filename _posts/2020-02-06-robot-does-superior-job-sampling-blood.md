@@ -46,6 +46,19 @@ related:
       - url: "https://eurekalert.org/multimedia/pub/web/223630_web.jpg"
         width: 1440
         height: 1158
+  - title: "Blood sampling robot excels in human clinical trial"
+    excerpt: "Repeated failures to start an IV line can increase the likelihood of phlebitis ... Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
+    publishedDateTime: 2020-02-07T11:09:00Z
+    webUrl: "https://www.theengineer.co.uk/blood-sampling-robot-rutgers/"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 39
+    images:
+      - url: "https://theengineer.markallengroup.com/production/2020/02/BloodPrototype-621x500.jpg"
+        width: 621
+        height: 500
   - title: "New Blood-Sampling Robot Performs Better Than Humans"
     excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance. Rutgers co-authors include Max L. Balter and Alvin I. Chen, who both graduated with doctorates; Enrique J. Pantin at Rutgers ..."
     publishedDateTime: 2020-02-07T10:10:00Z

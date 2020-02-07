@@ -65,6 +65,19 @@ related:
       - url: "https://media-eng.dhakatribune.com/uploads/2018/07/watermarked/bigstock-ai-artificial-intelligence-m-229617430-1530518085435.jpg"
         width: 600
         height: 315
+  - title: "DevsData LLC: Big Data Trends in Financial Services"
+    excerpt: "... has become one of the main Big Data priorities in the financial services industry. Versive is a company that created software that they claim can help financial institutions and banks analyze massive transaction datasets and cybersecurity data using machine learning. The software is called Versive Security Engine and is touted as being ..."
+    publishedDateTime: 2020-02-07T11:44:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48799255-devsdata-llc-big-data-trends-in-financial-services-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 24
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/575714/devs-data.png"
+        width: 550
+        height: 370
 
 secured: "rE/sy/SN89ppRaH32vCnpCRFuTjhuBXUNpgKqrnuB99y2RdLwBWOJkwMAZXp+sEIquSI30U/uVPG7j0YsKBq2LiyjDB+2HiSsqbvlEb++AwoJK6/OR0jZbyUHMF6vwGyzQToHK2h2x7IqkfXOYD2IpE98icoFwCvtYwExnSQQjURcHx0UJEqE+Cy5akeCjrkihfa7kaTtZu/07YHxQa6duTnWLUJlct7vEvYvY6XZq9ekdDd7hb1Pem/skWeCjyOpN2IewqfBrrGJ70ZP3BOkJ0iwHfN9W/7LoaxdBRt2b13xNyiWYR7zLpK40c/dRS51DEuJXI14MKj/YTSCudMu7AfVrHYB+cwpMVvRwv5eILPueTL1U1/lvoVlZlqagGxnATk+un6yKOnT+Ty2rxNNGF7Hcqt7qoTT/zm9tViMAvmuUbdko8OLayBOJv7297akRwiVVEu9JckxlfHaqP9zTs79qSybcBluj5E6jJWui4=;HV1WMUAK8AdW2uQnXyA1gQ=="
 ---
