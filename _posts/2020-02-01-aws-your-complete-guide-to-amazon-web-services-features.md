@@ -2,10 +2,10 @@
 category: news
 title: "AWS: Your complete guide to Amazon Web Services & features"
 excerpt: "In the current age of cloud computing, there is now a multitude of mature services available -- offering security, scalability, and reliability for many business computing needs. What was once a ..."
-publishedDateTime: 2020-02-01T16:38:00Z
-webUrl: "https://www.techradar.com/in/news/aws"
-ampWebUrl: "https://www.techradar.com/in/amp/news/aws"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws"
+publishedDateTime: 2020-02-01T16:37:00Z
+webUrl: "https://www.techradar.com/sg/news/aws"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/aws"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/aws"
 type: article
 quality: 104
 heat: 104
@@ -29,6 +29,6 @@ images:
     height: 450
     title: "AWS: Your complete guide to Amazon Web Services & features"
 
-secured: "l2b7qBOlGp3XHGtLUZla4Ev+7Gr/EK5Fe+VV1GuEucF8W4iTE1q5tGrURtmOLS7KdjVfSzHk8OUbIR9tOUGKQM+nvQ17H9+BvQJEqPboAmjq/zCfLT7VfQ3Muiyuyesc63grjovw98CQaaEbDnuZGHlrilKI5uYzf1Q9IDXwmSn2nFqtWLHY8wSE2/EZNkXrkN2nvkrcwa0TRC8Kra6VNz+Ag+w8zk6eK/uS1Vzd2Hg3LdrCqzf3T27fr2HSJWdZYZ3m5CoD3artKx9X8seybX22STVQMCaqtysbVg8nKaMD1bOB47Kx1JQ2zY+MNu0A;6koGWan47g5WhH+Su1qmmA=="
+secured: "lHU4mxMLCbTJYrotAi8KcvWWFKlzUkRmDE4ETIqIgQsisuq43zY2eOPTHkjP+oefR9FteqttJ/TOBUqjAEY5+ooYhXVuu0tI549SoNsIHweuK1FoxEUPcAzOSLb9VweX/euPiEkHs7exUF1kn/Xap48BVi3wDiD3O+IEIhWvfZE1blAHIg8yGaISbLTdIeCnZ0hucEAWStNQyhZ9ZsXsYLR3wnaDY5iw3BcXZj80TG7dFdQtgizY9rD99s/CJbKShMkouiZ+uat9vlDy+wBAy1+OVBsLNi+1bcskRTlKLaXrOWPPvhSy4s1A/R05PA5i;c6ipe2l1ElfDLjIDj74oVQ=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 627
     title: "At CES 2020, Mobileye Raises the Bar"
 
-secured: "eAfoV/fk+r9yRXUhATqhWpgSFAIP9CFFHnhwsK5has+th2ADNVXtTmTPWBNOcQjNNI7t64Kk/6RJ67Q0b7B7VntGSzyjR9CDHQ/Xa52rXgtDBz4ikAS+TuNAxz8sR4xCaH1diN33iodHw8LwbHGepOteGZyMTIuzAQ5ecYV0JV9j8s4JjaKakiXFvFJhRI+BX0BVJ9iOxUGkipyksC4C1TjluFhJdrByfHYFDWr82mR/Z5pH+dP2YeA9jv2Hh/TAxFH1QeNDEXbQb4zfVAppmx5KqshuhiOYl3jWzDaXDvke5wP5IfB4/OJ6Mm91oGWp;vSwwNhqHuoN6uIhJpcm6pg=="
+secured: "yHxjhBFiZYNge3tEnV6MKlXWy3X/bCXXyu8D1Zd9OrUtprKhEGpCrT9SxzX/HThN32fbwlECLeVa7Rnjq80wGQH3+nvJu/2u0bGK7PAzsJlE4ljYzHcxw8uErw35JxRbuHYL132p25b1/K55gqayFEmzgZ92rIsL0ql4Gh4Se4gXbJbq1RvDHFB7DYj3ZQHAdAx6hCG72MK9etkxB1kNko4sLWIbje9DWfadg+7TllWCL5Qe9bSTwkOugnUBjuTJ2ohnluMAxJ3DPQHZjRztm7BxOpPUcCkuT1oqMPRGZ8WpzjpfrJ/gthagAlw70E6o;OkCteIjr4BR/0r0ThHEliw=="
 ---
 

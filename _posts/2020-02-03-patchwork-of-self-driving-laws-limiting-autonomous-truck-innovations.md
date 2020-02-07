@@ -33,15 +33,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/qxjWQ-jXwV-C9osVN4wWU0S_SLI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QUAWFCR4PUI6VL7CBEHLG63AWE.jpg"
         width: 1440
         height: 960
-  - title: "An engineering student is helping envision a self-driving future for people with disabilities"
-    excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around."
-    publishedDateTime: 2020-02-01T06:41:00Z
-    webUrl: "https://www.sfgate.com/news/article/An-engineering-student-is-helping-envision-a-15021017.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 0
 
 secured: "HeoVNSWtVLYhARBl5V4MiAG/ongXkyqiCQZy5myCALCXyC6Sr2PGOJhzUJeiCE0DWF8xXNeh5T7oKpOncPyHiRtRzeOlbO1t8zmJwr/UVrzTquKLbxOkHSZyu7hqKoBmxEQ9d4PIPDdis62OJfgBTlIixKbUIxhGO0r05YUcQ0rkceJLPK0PXWdZ4WevMmXyZxnIZn87x732TiP0bKpAyl3lo83eG0nxpNMTcSetOCHL6PzX29AH3TXvQIY2Wl60zgn/VvkmWNdJQR49WiEJbkk90HJfIIsxhCEgE4XcGPh3eip1uXDPC78k1vgDKVb9qf5xCnSBs1S8WfEabZ/ZoIapfSwCywvcUF4qRRw7gysaRbVqG5hJ6JdieOrqV7XJxYsWEDEZnErxKzpV9VeKXU+pjt6NampA0mn0V6thcyWmo5AUYlWRzs1LB2OBOEF6AFeXg37z1NivpFtH3AZlnnvzCclbYnXGZ6Nyw9Vtg2k=;E+GCEGEdeNcyeIQlNWn0Mg=="
 ---

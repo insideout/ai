@@ -1,30 +1,44 @@
 ---
 category: news
 title: "The straight line from Google Maps to Clearview AI"
-excerpt: "Twitter, Facebook, LinkedIn, and also Venmo have actually sent out comparable cease-and ... Trending up: Google has actually silently been performing a five-year research study on just how to obtain workers to consume much healthier– therefore much, it shows up to be functioning. The approaches consist of making plates somewhat smaller ..."
-publishedDateTime: 2020-02-07T11:56:00Z
-webUrl: "https://tecake.in/the-straight-line-from-google-maps-to-clearview-ai"
-ampWebUrl: "https://tecake.in/the-straight-line-from-google-maps-to-clearview-ai/?amp"
-cdnAmpWebUrl: "https://tecake-in.cdn.ampproject.org/c/s/tecake.in/the-straight-line-from-google-maps-to-clearview-ai/?amp"
+excerpt: "It’s worse than showing nothing.” People walking around and finding themselves subject to ubiquitous computing — whether they like it or not — is a subject that has been in the news constantly of late, as we debate the rise of for-profit facial recognition and tools like Clearview AI. It’s a story that, to my mind, starts with the ..."
+publishedDateTime: 2020-02-07T11:00:00Z
+webUrl: "https://www.theverge.com/interface/2020/2/7/21126498/google-maps-birthday-privacy-street-view-germany-clearview-ai"
+ampWebUrl: "https://www.theverge.com/platform/amp/interface/2020/2/7/21126498/google-maps-birthday-privacy-street-view-germany-clearview-ai"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/interface/2020/2/7/21126498/google-maps-birthday-privacy-street-view-germany-clearview-ai"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 87
+heat: 97
+published: true
 
 provider:
-  name: tecake.in
-  domain: tecake.in
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: "/assets/images/organizations/theverge.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://i0.wp.com/tecake.in/wp-content/uploads/2020/02/googlemaps.png?fit=1200%2C628&ssl=1"
-    width: 1200
-    height: 628
+  - url: "https://cdn.vox-cdn.com/thumbor/o4YgD9JkSTTTNLwOzs4_EZONwOs=/0x0:1280x800/1400x933/filters:focal(538x298:742x502):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66270774/googlemaps.0.png"
+    width: 1280
+    height: 800
     title: "The straight line from Google Maps to Clearview AI"
 
-secured: "c6NRfYOhjy7236PA2hebjzln93jQIdP+5oR7PQ6akg1iWKlkWQUCmQYWdGlSPu3PItKr/GcBCupRG4xwzr7JPNu/kMpzYmWFgu74nM5Jdf7sj2vhJ9eOsaJIbUKt/JZzUkRrw7CjVB2RUVrH9uPGBiEPUF7AAXqbF+JgN4MKgsh1YFFi2wl1HYfuyJywQkBui14rGMIoMA+WuPAXze074etcc84o7xoCyd0TOFPAKBmRA0I+IEGYb+gtwJNlN6UVzapHQzyExvMTeKKtRe2LTVn5xMC23sBivMKdZVpwPzvS5pDVD06AiMjWaTBb9BQ7;dlFNW0jZMBMkQgLl5fj7kg=="
+related:
+  - title: "How AI has helped improve Google Maps"
+    excerpt: "To commemorate its 15 years, Google this week is giving Maps an update and sharing insight into how technologies like AI have helped make Maps more useful and engaging. \"Major breakthroughs in AI have transformed our approach to mapmaking, helping us bring high-quality maps and local information to more parts of the world faster,\" Jen ..."
+    publishedDateTime: 2020-02-06T11:00:00Z
+    webUrl: "https://www.zdnet.com/article/how-ai-has-helped-improve-google-maps/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+
+secured: "WCt3Q79MA9Nczaq9wkAzw0dtApMuXbubQi33qxgMA4yHu/8TRMp0UJaSZBdck4/IgXal6rRHkh+oFViULJQJTHgFLBni7FUcMUvo7Sjoxb99M9K4QIe2fxNvZ5TIKAcxfuFv4/kF/pa0AuwnIKxTjFr/yq3vsqAWQKngLRVy2W5nSLd8SIjO1GOnizUxSbK/mnpOBmqM9GVT6Bl74tDb6mogDZ9RbsEIJCAqBEgL2+sq0w4aFqFgS+DWah4RhhDICCndcv4oqTNj865gl969C2poEs9A586rltg4ANn8DFE4AL5YwrI6RxoOW4FGOPAn;rywLetZav9sVeDO6a4dxVw=="
 ---
 

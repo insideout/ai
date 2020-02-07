@@ -24,34 +24,30 @@ images:
     title: "Hyland buys blockchain-anchored business Learning Machine"
 
 related:
-  - title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
-    excerpt: "They say ML is a complete science in its own right and thus, need not be called with reference to Artificial Intelligence. AI thrives on data ... For example, if the machine is a self-driving vehicle, it has to create its own scenarios on road. There is no way a programmer can program every step as he or she can’t think of all the ..."
-    publishedDateTime: 2020-02-02T22:16:00Z
-    webUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence"
-    ampWebUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
+  - title: "How Is Artificial Intelligence And Machine Learning Used In Engineering?"
+    excerpt: "and machine learning are bringing changes to the field of engineering and the responsibilities of engineers just like they have in other industries. Many of these changes improve efficiency and effectiveness."
+    publishedDateTime: 2020-02-07T16:48:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
     type: article
     provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 105
     images:
-      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png"
-        width: 412
-        height: 338
-  - title: "Henkel invests in machine-learning software start-up Fero Labs"
-    excerpt: "Henkel AG & Co. KGaA (Dusseldorf, Germany; www.henkel.com) is participating in the latest funding round of Fero Labs (New York, N.Y.; www.ferolabs.com), a start-up aiming to optimize industrial processes by using explainable machine learning. The investment is led by the company’s HenkelX Ventures unit, together with DIVC, a Munich-based ..."
-    publishedDateTime: 2020-02-05T18:45:00Z
-    webUrl: "https://www.chemengonline.com/henkel-invests-in-machine-learning-software-start-up-fero-labs/"
+      - url: "https://thumbor.forbes.com/thumbor/711x290/https://specials-images.forbesimg.com/imageserve/5e3cf820f133f400076be0f6/960x0.jpg?fit=scale"
+        width: 711
+        height: 290
+  - title: "An engineering student is helping envision a self-driving future for people with disabilities"
+    excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around."
+    publishedDateTime: 2020-02-01T06:41:00Z
+    webUrl: "https://www.sfgate.com/news/article/An-engineering-student-is-helping-envision-a-15021017.php"
     type: article
     provider:
-      name: The Magazine
-      domain: chemengonline.com
-    quality: 24
-    images:
-      - url: "https://www.chemengonline.com/wp-content/uploads/2020/02/che_0220-1.jpg"
-        width: 949
-        height: 1280
+      name: SFGate
+      domain: sfgate.com
+    quality: 0
 
 secured: "2Gjfz5pwnZz/2XAcs3B/yAtobaPHX//OKKtS0BgUdMyGc6/qHJ7nDUawlMUDPL3+SEvWOiJGE6PJj8cuJ8utbKWfBqMuIACNZ2XlIH3M8zJZnlw7GEgheolUAmRr6kOZzw3ugg9GUJe5bv1NozIkoqKjxp2t5zE/SXovuImz9+DONHNURzS2g+t7+e9vJxD4U30h6zZBburgIn/wdPILCP0jQqSXOQZDmSHgXAQWStS/JzJO5MMvRJXeOtSoBuyILAlWMv2ig6MsQAs/gT4+oDiVULAnFi1qdCtGIpAWAEKdip052s++o1Djf2GYn5SNyCx5huiN3zYevEUukLSAdz2SOP6pLaihJ1raMCDmXbivaJpdKrLEtSYrWxjjgPe7W5ngUenBdJPGA9B2F9rttyzs5V9YOlGARZgd03df4IT/sHtEG0uSv3FNJhm8vlHhnDxjEU2cpp7l/w5KiHjRTKbGk/Qp4TXdxXQKunmRRds=;6K54l2Xypa7hDxXHDTsDgA=="
 ---

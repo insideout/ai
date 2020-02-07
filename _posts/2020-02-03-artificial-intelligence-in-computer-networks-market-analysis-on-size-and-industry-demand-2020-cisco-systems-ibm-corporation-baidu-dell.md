@@ -63,6 +63,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market is expected to grow by USD 7.2 billion during 2020-2024, according to the latest market research report by Technavio. Request a free sample report Deep learning is popularly used in machine learning, which involves the use of artificial neural networks with several degrees of layers. Moreover ..."
+    publishedDateTime: 2020-02-04T10:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200204005427/en/Global-Deep-Learning-Market 2020-2024-Growing-Application-Deep"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
+    images:
+      - url: "https://mms.businesswire.com/media/20200204005427/en/771085/23/Global_Deep_Learning_Market_2020-2024.jpg"
+        width: 1200
+        height: 627
 
 secured: "9O5PMgOtT2iIemkK8Fxq1KIsct90JtJhz2VKk6LZA1ITrNpcpIjNgRBQHW0aOHf1f1cK+hQ4WCE9YfRqFPyKiTz3Dya4lh/aM1dW3ShqZCJW99W82bTSEdfLf6qATI6iHmPetI7f+S99QQSx3dGJ30DEvUQAbf1GbgVspfbJHKAW2557QiTxer6ta5x0rEpc5NUVpzhY5YLnWE49XjY2tuzIIjuo3F5dD+tg66k+QGW9bc6deXGQ0EoG5qv3rbQhTe45lkf9AoO1E8ddR8dfKwUtfzs55ZkJxQq1kayW7nKgpmRnjxRcs5bcOrDLmXgK;eRCikKFHg8z/PU2HTE7M9A=="
 ---

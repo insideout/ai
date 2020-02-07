@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T03:39:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-trend-and-top-growing-companies-2026-2020-02-06"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -63,6 +63,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market is expected to grow by USD 7.2 billion during 2020-2024, according to the latest market research report by Technavio. Request a free sample report Deep learning is popularly used in machine learning, which involves the use of artificial neural networks with several degrees of layers. Moreover ..."
+    publishedDateTime: 2020-02-04T10:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200204005427/en/Global-Deep-Learning-Market 2020-2024-Growing-Application-Deep"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
+    images:
+      - url: "https://mms.businesswire.com/media/20200204005427/en/771085/23/Global_Deep_Learning_Market_2020-2024.jpg"
+        width: 1200
+        height: 627
 
 secured: "TMfypuzqRnv4J1Op7DJivNbur8wCbd3xBHfKpg56YOLH8j1MuxtZji5AozC1DUD9t4lioNwMWvOMspd3fUS2WZIOYNROTZfLy/epA3VlUuPTT61gx0k3qVYg2nR7U3gTD+gUIt1XcK6cP7TjKiRgbl5G4o0sQB5ea/AFB7mpEmDIjo+mrueIIyj0r0qbBquqJ+b2jupvZHRzKczf9ivZGvTpECZSkjF+thG9wE8buy4jpjYNJKAxJ7JwpTTc64WPbLhOuCFpRwZ/4trkpn31CU69Q5/rPSFVGHnByfU2ojrCkoRaiIR/C7fHTL53C39V;aruEy5i5yAQ7kZVfX1ielg=="
 ---

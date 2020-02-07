@@ -24,58 +24,56 @@ images:
     title: "Tech Savvy: Facial-recognition technology stokes privacy concerns"
 
 related:
-  - title: "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society"
-    excerpt: "Many countries today are struggling to find the proper balance between useful facial recognition and connected-camera technologies and those that threaten our privacy. We’re here to make it easy: Public-facing facial recognition or connected home-security camera systems that offer access to law enforcement are dangerous and should be banned ..."
-    publishedDateTime: 2020-01-31T22:41:00Z
-    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/31/why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society/"
+  - title: "Facial Recognition Biometrics Market Advance Technology and New Innovations 2020"
+    excerpt: "Global Facial Recognition Biometrics Market Research Report 2020 provides key analysis on the market status of the Facial Recognition Biometrics manufacturers with market size, growth, share, trends as well as industry cost structure."
+    publishedDateTime: 2020-01-27T05:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020-2020-01-27"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 58
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg"
-        width: 796
-        height: 419
-  - title: "New Jersey law enforcement blocked from using facial recognition tech from Clearview AI"
-    excerpt: "New Jersey is no longer allowing law enforcement in the state to use biometric facial recognition app Clearview AI, following a moratorium put forward by state Attorney General Gurbir Grewal, writes Mashable. “AG asked that all law enforcement agencies in New Jersey stop using Clearview’s technology until we get a better handle on the ..."
-    publishedDateTime: 2020-01-27T20:07:00Z
-    webUrl: "https://www.biometricupdate.com/202001/new-jersey-law-enforcement-blocked-from-using-facial-recognition-tech-from-clearview-ai"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 46
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-  - title: "State lawmaker wants to stop cops from using facial-recognition technology"
-    excerpt: "A state lawmaker wants to stop cops from using facial-recognition technology, following a Post report. Sen. Brad Hoylman (D-Manhattan) introduced the bill Monday calling for “action to regulate this increasingly pervasive and dangerously powerful technology, before it’s too late” — days after The Post reported the NYPD’s unofficial ..."
-    publishedDateTime: 2020-01-28T06:53:00Z
-    webUrl: "https://nypost.com/2020/01/28/state-lawmaker-wants-to-stop-cops-from-using-facial-recognition-technology/"
-    ampWebUrl: "https://nypost.com/2020/01/28/state-lawmaker-wants-to-stop-cops-from-using-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/01/28/state-lawmaker-wants-to-stop-cops-from-using-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 42
-    images:
-      - url: "https://thenypost.files.wordpress.com/2020/01/state-lawmaker-wants-to-ban-facial-recognition-tech-in-law-enforcement.jpg?quality=90&strip=all&w=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
-  - title: "Facial Recognition Technology Uses at Homeland Security Department"
-    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
-    publishedDateTime: 2020-02-07T12:41:00Z
-    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
+        height: 630
+  - title: "Global Facial Recognition Biometrics Market 2020 NEC Corporation, Ingersoll Rand, RCG Holdings Ltd."
+    excerpt: "The research document entitled Facial Recognition Biometrics by Market Research Store intends to reveal various facets of the global market with the assistance of the key elements influencing the market,"
+    publishedDateTime: 2020-01-24T09:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-biometrics-market-2020-nec-corporation-ingersoll-rand-rcg-holdings-ltd-2020-01-24"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Top Trends Driving Technology Innovation Investments in 2020 Revealed by Virtusa"
+    excerpt: "Financial Services, Insurance, and Life Sciences Leading in Innovation to Start the New Decade SOUTHBOROUGH, Mass., Jan. 28, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation VRTU, +0.29%, a global provider of digital strategy,"
+    publishedDateTime: 2020-01-28T13:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-trends-driving-technology-innovation-investments-in-2020-revealed-by-virtusa-2020-01-28-9195110"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Telecommunication Market : Advance Technology Research and Innovation in Technology"
+    excerpt: "Artificial intelligence (AI) is group of methodology that focus on formation of intelligent machines with the help of human intelligence such as visual perception, speech recognition, decision-making,"
+    publishedDateTime: 2020-01-27T03:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-advance-technology-research-and-innovation-in-technology-2020-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
   - title: "New Jersey cops told to halt all use of controversial facial-recognition technology"
@@ -106,67 +104,63 @@ related:
       - url: "https://dynamicmedia.zuza.com/zz/m/original_/a/e/aec26bdc-72bd-413c-9494-fc91ef7c420b/B881027028Z.1_20200128125040_000_GH1S8UDK.5-0_Super_Portrait.jpg"
         width: 587
         height: 417
-  - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
-    excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
-    publishedDateTime: 2020-02-04T11:05:00Z
-    webUrl: "https://www.wymt.com/content/news/Hardin-County-Animal-Care-and-Control-adopts-facial-recognition-tech-for-lost-pets-567547981.html"
+  - title: "Artificial Intelligence in Medical Imaging 2020 Global Market – Innovation, Technologies, Applications, Verticals, Strategies & Forecasts"
+    excerpt: "“Artificial Intelligence in Medical Imaging Market” WiseGuyReports.Com Publish a New Market Research Report On –\" Artificial Intelligence in Medical Imaging"
+    publishedDateTime: 2020-01-27T08:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186686/artificial-intelligence-in-medical-imaging-2020-global-market-innovation-technologies-application"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15186686"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186686"
     type: article
     provider:
-      name: WYMT
-      domain: wymt.com
-    quality: 33
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
     images:
-      - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
-        width: 690
-        height: 388
-  - title: "How smart kiosks are using facial recognition to bring a dose of humanity and hospitality to restaurant tech"
-    excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience."
-    publishedDateTime: 2020-02-06T17:27:00Z
-    webUrl: "https://www.nrn.com/fast-casual/how-smart-kiosks-are-using-facial-recognition-bring-dose-humanity-and-hospitality"
+      - url: "https://www.abnewswire.com/uploads/1580118163.jpeg"
+        width: 466
+        height: 310
+  - title: "Global Automatic Speech Recognition Market by Manufacturers, Types, Regions and Application Research Report Forecast to 2024"
+    excerpt: "Bigmarketresearch.com Published \"Global Automatic Speech Recognition Market 2019 Research Report – Forecast to 2024\" – Market Investment Analysis, Business Operation Data, Top Companys, Opportunity, Features,"
+    publishedDateTime: 2020-01-30T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-by-manufacturers-types-regions-and-application-research-report-forecast-to-2024-2020-01-30"
     type: article
     provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 20
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+  - title: "Facial Recognition Market 2020-2022: Key Findings, Global Segments, Business Trends, Regional Study, Top Key Players Profiles and Future Prospects"
+    excerpt: "“Facial Recognition Market” global facial recognition market had been valued at USD 3.04 billion in the year 2016, which is expected to reach USD 8.93 billion"
+    publishedDateTime: 2020-01-27T09:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186760/facial-recognition-market-2020-2022-key-findings-global-segments-business-trends-regional-study-t"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15186760"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186760"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
     images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
-        width: 770
-        height: 400
-  - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
-    excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
-    publishedDateTime: 2020-02-03T21:46:00Z
-    webUrl: "https://japantoday.com/category/tech/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
+      - url: "https://www.abnewswire.com/uploads/1580120204.jpeg"
+        width: 417
+        height: 455
+  - title: "Voice Recognition Systems Market Size Forecast - 2030"
+    excerpt: "[160 Pages Report] PMI's publication of the Voice Recognition Systems Market-Size, Share, Trends, forecast 2030 examines the market for Voice Recognition Systems and the considerations involved in implementation. The 66-page report reviews the growing ..."
+    publishedDateTime: 2020-01-28T12:44:00Z
+    webUrl: "https://www.openpr.com/news/1911316/voice-recognition-systems-market-size-forecast-2030"
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
-  - title: "Minnesota Legislature begins considering facial-recognition technology regulations"
-    excerpt: "A joint legislative committee has taken the first small steps toward considering what a handful of cities and states around the country have already done — regulating or banning the use of facial recognition software by business and government. It was such a small step considered by a subcommittee of the relatively obscure Legislative ..."
-    publishedDateTime: 2020-02-03T14:21:00Z
-    webUrl: "https://www.minnpost.com/state-government/2020/02/minnesota-legislature-begins-considering-facial-recognition-technology-regulations/"
-    type: article
-    provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 18
-    images:
-      - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
-        width: 640
-        height: 461
-  - title: "How smart kiosks are using facial recognition and predictive sales algorithms to bring a dose of humanity and hospitality to restaurant tech"
-    excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience. \"Our ultimate goal for the software is to create the most hospitable experience possible in a digital ..."
-    publishedDateTime: 2020-01-28T21:42:00Z
-    webUrl: "https://www.nrn.com/technology/how-smart-kiosks-are-using-facial-recognition-and-predictive-sales-algorithms-bring-dose"
-    type: article
-    provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
+      name: openpr.com
+      domain: openpr.com
     quality: 4
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
-        width: 770
-        height: 400
+  - title: "Artificial Intelligence in Medicine Market Advanced Technology and New Innovations by 2025 – InSilico Medicine, Globavir Biosciences"
+    excerpt: "Market Growth Insight has announced the addition of the “Global Artificial Intelligence in Medicine Market Research Report 2018-2025” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. The global artificial intelligence (AI) in medicine market was valued ..."
+    publishedDateTime: 2020-01-27T13:02:00Z
+    webUrl: "https://www.techworld.com.au/mediareleases/37938/artificial-intelligence-in-medicine-market/"
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
 
 secured: "yHLK/jZIoyKOpUYQ+NmTgtUcdhNCXbpf2cjRtmxboUdtt8tit+zyNMN5HDZQgK4OLpFLnF9BU9eHFO/cBf323f7PL8CgZhdlLWfVyz8JUemp3MqriT36jF/K8HIp6YmlZ8UlQdcHduMeXJSlH4BovTQ5G0aWG3v/AmklBTNlxaYKyNuYNpfHYB1Qb48CC3pdJmSrXkoRtg+w/ui2s+lHza44kU6L6Xabcvtb7WEuu7HxHfrOyDRdA+s6Lm+x9Ex8kD/jbW0kdda4ADm/LCnJWD2G75J49mqa6shN1ybEtTGRncL7WFq1OUmE4gNijoU3KI+v51jMmaPgBBRazq0y/h2OEYLMn0xZqlUr8kLMAcZ744rq03Idtj5NGVPuLV97oVJ0jkorFBq3LxIvl9s5PhZSPgSjtJWoOpOfxZtVXrPAX6PrhmgAcoPY2aAI/IvIQ6kjGtRd9fNNYsLO2XMuHjL0AOh/mLUMOlAGZf3Qjz4=;onb4/PqrgtIzsY4sIjdi+A=="
 ---

@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Position Imaging uses the NRF Innovation Lab to introduce the iPickup™ BOPIS solution for retail"
 
-secured: "G00GSfPdxEOhxQU6hXqUTMvbxXyimiODdbsFHUcdaFdvHa6xqvd9KR2ue44DHDN/MFhs+jWs0NGR5EWOzRcBDmO8vgd1A1MlNIk1In0X25KENc0wklEYd1RCEL/0qQSvspa8oUuPAgTbQBK3krpOAbblccioe38K7+rtWSWlnt4NPHfQpNHBNbrIslRYYDYrC2kayKuoPQpKQl9E5nAwq8hbns6lwOs6Z6Pc6jtfJaHDCmf/+1HLtP7G1iXcOcjM4X5XNT3PkmBtTsOGFKro2c3YOJSEQz8jzB93khRY3yjB79BgP/RGY7HS4cgjfmxB;neRHe57NqiRe3yS5CBEbCw=="
+secured: "1hJZN8h+ciyNxxoiScYxfgqz9XckYSOgqeE62hycInFh5Eacdp3+Mr52rzOoJMAEWcjhHL4BXMeAJaKmq8rHzKg9exXp2Zp/dKKoyfi780+iF4KFQgSBdilK4bbOHZFmDDbPsE6DUgfk8iDJfCfFhvwz1am/RnZdkBaXm3He7jSvMxBYxao6cNyKTMe3BoCyCB1Vd9Q5pyQAhBFj9+zNaMJu/k3XHCeORcLxKQj+5f8JdWuE4yQeU3JZa6djbLzSwUoxCE+9KxM8ejicaA7HuM7upAKpJURmUR3XjtJF+xnGBHsTL0dmjnEHqHpO4FJ/;8mo3SySfJwCzjd1iIt01Pw=="
 ---
 

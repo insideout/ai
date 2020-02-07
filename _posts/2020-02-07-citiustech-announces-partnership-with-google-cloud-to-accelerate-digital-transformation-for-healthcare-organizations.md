@@ -3,7 +3,7 @@ category: news
 title: "CitiusTech Announces Partnership with Google Cloud to Accelerate Digital Transformation for Healthcare Organizations"
 excerpt: "our partnership will support healthcare organizations through digital transformation in key areas such as data analytics, artificial intelligence, machine learning and hybrid cloud,” said Manish Sharma, Sr. Vice President, Strategy & Partnerships at CitiusTech. “Our combined technology will empower payers and providers to drive better ..."
 publishedDateTime: 2020-02-07T12:30:00Z
-webUrl: "https://www.businesswire.com/news/home/20200207005075/en/"
+webUrl: "https://www.businesswire.com/news/home/20200207005075/en/CitiusTech-Announces-Partnership-Google-Cloud-Accelerate-Digital"
 type: article
 quality: 16
 heat: -1
@@ -75,6 +75,6 @@ related:
       domain: calgaryherald.com
     quality: 12
 
-secured: "2geqpSaSPxttJBVuvLRFltocYFdDZ6aV1ENU+pWh7+vQq06A9lBFHiJ2SZZtMYFnQBjcjCGOcUNb4CJn+caBIZlUTDepTXT8tLNK4S+oA+qmG7FEoU41BdRCjELxHYumBbaTjVaIFKbSNInMQskBW23tPgj3uWwkM3lI4vi6yStlsLnKvueWgGyKZ6Oa7EMDj2K/+3XB0TEabWNdoxhC5LZuLW3o+8rImvv9BasDzAO1HN2uJ5o4SoDBrjfkt5LwNlIB9fsU6PePEVh1bACLlyUodtCAJLr4eMVd8qlviaBLaRHTitjn7UyAYuJCtB3p;oQY7Rs8dBFDBXuEQpvfN5A=="
+secured: "X+2j5K4kKcsvMTBP4apABzDL7lh7ssEx6cOMRLC5JoEI6E7X2H9qQtejGD5w3My/X6OcwioHqKmOn0mjMy8nVm4lZWedmfsKl7ihQqA7Qa4oBmU+Y21uvt6D+uB+MlcDphR1HmWRAp6990Lwwqa5BCzhQ3yPPsZaLjftApES3XI7MruE3gl2ORcMwYmN65vbJHoctbyAUZ5eNDoUL+Th1zpd6VXWCzGH+O5WwODzK8g3fM+EXf2Fn2mxkfIgYFYqcgsXfKwVnXKO3O9xOeObv/8cB0n8O8qma11oaxoahCAiKBJlTN92SVu1hWo9U1ru;SNML5Uf7oFveQW2+Hhfb0g=="
 ---
 

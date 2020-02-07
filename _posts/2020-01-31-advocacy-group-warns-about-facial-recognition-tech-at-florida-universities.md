@@ -54,6 +54,19 @@ related:
       - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2019/12/e671a7d8ab384861a2630c67ee570f95.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
+  - title: "Facial Recognition Technology Uses at Homeland Security Department"
+    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
+    publishedDateTime: 2020-02-07T12:41:00Z
+    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 39
+    images:
+      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+        width: 1200
+        height: 630
 
 secured: "MjwqSxBjJxnxhRjPw2hJA7ck1GCWZgtEaKvjBYGxgkZidluyHSueMpXux/y3e6rnGO1eIZcmfXvZwCiXvTFby3RukM60gAaIrlzTRmsbjmyiMY3HlS+yG8dUtFqzcooyj98cjAKLAbWLJcfZRcN7/1gspm/rIkpb1rhHpASX+pvmvpZqY657ylI4E4D/KMW0+agdQ7b/cKll4YUfPtqN5vKXgpvAYO5+FOpgjGVxLCRWvipi8yEtvGnUPEx1nFhZqKmoam/P2+KW5j8liW7hlRPBPDPr227BQS2JRF1k5KlakbHAXGvVNOJ7RxNzriDQsth6dAuxybX+Z2jaO2XH7LQLDLDdvnEAvMAcGdKQBV979wj+sDumO6pmb+D5kuIbAWdt1+ffGJzmIME6p39zEUEHnCgKAAYpuJGqdaoQFfR8hjW5enBldPEPBwH+z2GKH0KJ369g+uM6hCXBTuI10SjkrbXlabkPfanT7KhIABc=;s69ZBXWvmOIRngtSJWorSg=="
 ---

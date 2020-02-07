@@ -53,7 +53,7 @@ related:
   - title: "CitiusTech Announces Partnership with Google Cloud to Accelerate Digital Transformation for Healthcare Organizations"
     excerpt: "our partnership will support healthcare organizations through digital transformation in key areas such as data analytics, artificial intelligence, machine learning and hybrid cloud,” said Manish Sharma, Sr. Vice President, Strategy & Partnerships at CitiusTech. “Our combined technology will empower payers and providers to drive better ..."
     publishedDateTime: 2020-02-07T12:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200207005075/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200207005075/en/CitiusTech-Announces-Partnership-Google-Cloud-Accelerate-Digital"
     type: article
     provider:
       name: Business Wire

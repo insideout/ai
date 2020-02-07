@@ -8,8 +8,8 @@ ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/04/veridium-brings-fa
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/04/veridium-brings-facial-recognition-phones-password-less-push/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Daily Telegraph
@@ -26,32 +26,19 @@ images:
     title: "Veridium brings facial recognition to all phones in password-less push"
 
 related:
-  - title: "WeWork wants facial recognition biometrics class action dismissed"
-    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
-    publishedDateTime: 2020-02-07T03:36:00Z
-    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
+  - title: "Doha Bank integrates facial, voice recognition into app"
+    excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
+    publishedDateTime: 2020-02-02T19:02:00Z
+    webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
     type: article
     provider:
-      name: Cook County Record
-      domain: cookcountyrecord.com
-    quality: 39
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 26
     images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
-        width: 1280
-        height: 640
-  - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
-    excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
-    publishedDateTime: 2020-02-04T11:26:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81357/veridium-rolls-out-facial-recognition-tech-and-behavioural-biometrics-product"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
+        width: 620
+        height: 355
 
 secured: "OkdV6gg4dJ+KLE4bW6jqj+gOQwmJflj4FTouK7je8oNEpSga0gM9HTUAVkxMdvlinPjDTYsbcsIWrOq2SMElSYCQ0uiItEbYCitLA9yiBBTKsXFkpUsTBdpy5mK8x9H0U5epYq36KPV6I6zKQGXvXKNBhiPzlYVhZk4NLUKO4OFo+ObcBBDh81T6VZ9AXunJ2Ka1GRLaIqDDu5rlWJ1X7S5nfkgny2SVBNX4LT2ZrHZA5mH3YOmMcqtKRLZ7BftY4cv/UxpQ3v8FAcmVm3T8u0DKTjXDOxzvA+YAYEfO+Rj/e0g9vjK5xTh7VkfioCASx+LmcVDr8DF4Wi6VQNkyPCy7/9Y+t9mpztV/4E3/yT0aUbzP92U70ReuQerMIXaqRcxd4nhnLESYrGTX3K4/jnfvsSv2qR+NeT002PxKm3oEhQdn/1Yu4UwVZL+2bWhLev7yxAcgvCGD+m7tMQJRgeQa9MXA5vssWjM/Rxs6l4E=;GkLcI0TeiXF74IanWlssgA=="
 ---

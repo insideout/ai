@@ -18,6 +18,19 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Image Recognition Market Worth $81.88 billion by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-02-05T05:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Machine Learning Market Size Worth Around US$ 76.8 Bn by 2026"
     excerpt: "LOS ANGELES, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The global machine learning market is anticipated to grow at a CAGR of around 40.1% over the forecast period 2019 to 2026 and reach the market value of around US$ 76."
     publishedDateTime: 2020-02-05T12:08:00Z
@@ -27,6 +40,30 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Speech and voice recognition tech market to soar to ₹210 crore by end of 2020"
+    excerpt: "The market for speech and voice recognition is set to grow to 40.47 per cent to reach ₹210.63 crore by end of 2020, states a new study. The market was ₹149.95 crore as of December 2019. The emergence of voice technology has been brought on by the rapid ..."
+    publishedDateTime: 2020-02-05T15:46:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/speech-and-voice-recognition-tech-market-to-soar-to-210-crore-by-end-of-2020/article30744552.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 41
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/ceo10a/article30744550.ece/ALTERNATES/LANDSCAPE_615/BL06ALEXA"
+        width: 615
+        height: 384
+  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research(R)"
+    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion by 2025. The growth in the speech and voice recognition market can be attributed to the rising acceptance of advanced technology together with increasing consumer demand for smart devices,"
+    publishedDateTime: 2020-02-06T11:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-worth-268-billion-by-2025-at-a-cagr-of-172-from-2019--meticulous-researchr-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
   - title: "Machine Learning Market Garner Valuation US$ 76.8 Bn by 2026"
     excerpt: "The global machine learning market value is expected to reach around US$ 76.8 Bn by 2026 and growing at a CAGR of around 40.1% over the forecast period 2019 to 2026. Machine learning is a subset of artificial intelligence. The concept has evolved from computational learning and pattern recognition in artificial intelligence. It explores the ..."
     publishedDateTime: 2020-02-05T05:54:00Z
@@ -36,6 +73,46 @@ related:
       name: cmo.com.au
       domain: cmo.com.au
     quality: 19
+  - title: "Global Artificial Intelligence Market for Automotive and Transportation Industry Anticipated to Reach $69.05 Billion by 2029"
+    excerpt: "FREMONT, California, Jan. 30, 2020 /PRNewswire/ -- According to a new market intelligence report by BIS Research, titled 'Global Artificial Intelligence Market for Automotive and Transportation Industry – Analysis and Forecast, 2019-2029', the global AI market for automotive and transportation industry is expected to reach $69.05 billion by 2029."
+    publishedDateTime: 2020-01-30T11:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-market-for-automotive-and-transportation-industry-anticipated-to-reach-69-05-billion-by-2029--300996057.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook"
+        width: 1447
+        height: 908
+  - title: "North America Speech and Voice Recognition Market"
+    excerpt: "Data Bridge Market research has recently released expansive research report with titled \"North America Speech and voice recognition Market\". The report helps out the clients to tackle every strategic aspect including product development, product specification, exploring niche growth opportunities, application modelling, and new geographical ..."
+    publishedDateTime: 2020-02-07T13:42:00Z
+    webUrl: "https://www.openpr.com/news/1923721/north-america-speech-and-voice-recognition-market-2020-study"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
+  - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
+    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
+    publishedDateTime: 2020-02-05T15:33:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980388/0/en/Smart-Learning-Market-Worth-56-5-Billion-by-2024-Proliferation-of-Connected-Devices-in-the-Education-Sector-Drives-Growth.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
+    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
+    publishedDateTime: 2020-02-06T12:07:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980967/0/en/Voice-and-Speech-Recognition-Market-Worth-26-8-Billion-by-2025-at-a-CAGR-of-17-2-from-2019-Meticulous-Research.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "BBRGAd4DepHnnSOicLnQ7pPC4G2VH+shQZsHvTCg+NJi1nAJljE0hL6AyPNWlgWgpS2ZZxZbx///Rm/khsW9onWYM7WQIaBBzrJ2W8Klx10MTKdTaNdF0SJ9Y/cjA+xpEX0UUe2KTMJXVMQ0lX+alt3wfsd9gMxDCccQu8BOBezU9H8ReRtJEnaJtGFiCqDAMgMwRW4fxgbIofUT2K1HgoQkQMTV3RNvHD/l9hQTY6gjuLw+ccvfvZB34uF0kYlMNLGXzl7aIGEeIkdKiPPRQq28rUpuhIR75f0r/52yOVIuMf0YVgV+lCglAwCMdACz;6fbmGM19Tt4MEEaCBd15KA=="
 ---

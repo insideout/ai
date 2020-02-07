@@ -47,6 +47,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 21
+  - title: "From machine learning to SDM; the technologies revolutionising the subsea cable industry"
+    excerpt: "Clearly the flexibility and intelligence will become a top priority. Following the trend from the terrestrial networks, intelligence will be introduced at different levels thanks to SDN interfaces and machine learning algorithms. What makes an event like Submarine Networks EMEA such a great opportunity for professionals interested in the subsea ..."
+    publishedDateTime: 2020-02-07T16:55:00Z
+    webUrl: "https://www.totaltele.com/504859/From-machine-learning-to-SDM-the-technologies-revolutionising-the-subsea-cable-industry"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 10
 
 secured: "UsaD5UFjp9fW+AthUjy/8o+AuLMpgFJsazH8UvstNxjbwnZj4c24ZffiDnj7NNUGdYSoUZD4Cz9TwFWGFulAotqXuHGgSKDy0zieV3VbKxJY27HAVm+mXv1oizxR8LLrMOitVTY/S/+cbw+Om/DETkjYzimHJETR+YFsvcf9JVQhDOijCVHwoUA1ot3sw0QzjcQNg0P32LCOBMI6tfv5NpTNt45caZBbgbYsxn0c3LhBIxkp/Vex5UJcU+3ipAW183MI8EUljeA/y2o/Ep1bCyrLXcojU9DGcafI5uH895SgkZIDLKiFVhh7ChUDgLwf;uBnvknOLP5XuejUHYqeKgQ=="
 ---

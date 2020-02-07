@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-26T21:00:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: BCW
@@ -24,28 +24,94 @@ images:
     title: "Genesys Engage call center software coming to Microsoft Azure"
 
 related:
-  - title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
-    excerpt: "“In particular in the area of computational behavioral phenotyping, where the machine learning and computer vision challenges are very significant and not smaller than the privacy ones, combining our expertise and data with Microsoft’s capabilities in Azure and beyond are a perfect match.” Alexander Szalay is a Bloomberg Distinguished ..."
-    publishedDateTime: 2020-01-28T17:16:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
+  - title: "2 Major Security Flaws Discovered In Microsoft Azure Cloud"
+    excerpt: "“Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,” he explained. “Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
+    publishedDateTime: 2020-01-30T20:09:00Z
+    webUrl: "https://www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/"
+    ampWebUrl: "https://www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/amp/"
+    cdnAmpWebUrl: "https://www-techshout-com.cdn.ampproject.org/c/s/www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 40
+      name: TechShout
+      domain: techshout.com
+    quality: 74
     images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/MSR_Investigator_Fellowship_1400x788-1_new.png"
-        width: 1400
-        height: 789
-  - title: "Microsoft Sees Azure Sales Surge 62 Percent"
-    excerpt: "“we are seeing rapid adoption across a comprehensive portfolio of AI tools, infrastructure and services.” He said that there are 6 billion transactions on Azure Cognitive services each month, 7 billion documents processed daily with Azure cognitive search. There are a further 2 billion predictions a month using Azure machine learning ..."
-    publishedDateTime: 2020-01-30T04:21:00Z
-    webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
+      - url: "https://www.techshout.com/wp-content/uploads/2020/01/satya-nadella.jpg"
+        width: 720
+        height: 480
+  - title: "Microsoft Azure cloud migration: 3 success stories"
+    excerpt: "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes and data type compatibility between legacy warehouse platforms and SQL Server, Thadani say"
+    publishedDateTime: 2020-02-03T11:03:00Z
+    webUrl: "https://www.itworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html"
+    ampWebUrl: "https://www.itworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
+    cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 34
+      name: ITworld
+      domain: itworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2017/11/cloudmigrationpath-100743295-large.jpg"
+        width: 1200
+        height: 771
+  - title: "Two major security flaws detected in Microsoft Azure Cloud, reveals report"
+    excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
+    publishedDateTime: 2020-01-30T13:45:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/two-major-security-flaws-detected-in-microsoft-azure-cloud-reveals-report-11580389929853.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/two-major-security-flaws-detected-in-microsoft-azure-cloud-reveals-report/amp-11580389929853.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/two-major-security-flaws-detected-in-microsoft-azure-cloud-reveals-report/amp-11580389929853.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 72
+    images:
+      - url: "https://images.livemint.com/img/2020/01/30/600x338/micro-kDJG--621x414@LiveMint_1580391521648.JPG"
+        width: 600
+        height: 337
+  - title: "2 major security flaws detected in Microsoft Azure Cloud: Know what they are"
+    excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
+    publishedDateTime: 2020-01-30T13:27:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 71
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/01/satya-nadella-1580390767.jpg"
+        width: 1200
+        height: 675
+  - title: "Microsoft earnings get a lift from Windows 7 extended security"
+    excerpt: "“This quarter, we expanded our portfolio of edge appliances. Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and the new ruggedised Azure Stack form factors provide cloud capabilities in even the harshest of conditions, like disaster response.” The company reported a wider range in revenue of ..."
+    publishedDateTime: 2020-01-30T13:09:00Z
+    webUrl: "https://www.computerweekly.com/news/252477573/Microsoft-earnings-get-a-lift-from-Windows-7-extended-security"
+    ampWebUrl: "https://www.computerweekly.com/news/252477573/Microsoft-earnings-get-a-lift-from-Windows-7-extended-security?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252477573/Microsoft-earnings-get-a-lift-from-Windows-7-extended-security?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/searchWinDevelopment/app_development/windevelopment_article_002.jpg"
+        width: 1200
+        height: 400
+  - title: "Microsoft's Azure Strategy Pays Off"
+    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
+    publishedDateTime: 2020-02-02T17:39:00Z
+    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2020/2/2/saupload_charts.dll"
+        width: 635
+        height: 395
 
 secured: "u3dMw72kaISbrxZjzsqhQTxInYviFBTPYElokRWyGy9hOYzML6kh05FUZTUkPRrmIInstg506yWfMz2n3W+SRwoEuEg6KNP4Y42vNnqeTLwBV4ZaeYrrtEzh2zoW+ZpeJ2Y53eNmrDcRcMckxgrcBSw1ie9Kco6mDzwsucIhHGUBxSacQIyJTSVnHcTeE80OuZ8CRo1OB/62feJrGynJ9cnv/WD913PxF2exQLYqZ4ElbiU9HxwYmaSR9Uq7fPDqYxY7J/fclzTErs8mQFbaban04M28W+SubGFK4bUgk0Fbw407BeoX+ZtWeYIBGJ9gSRaiwu8Os9dbbKmLQwG4DA2jhymrsS9BLEUSLufe3Fmi/JGDPWXb7g4bDA53xtvZZF6m2X1wyIX0JNRj7GN64SAzwt7OUL0BHWj4cK5/Rhu1tKVXUqCJO6uOA20XQRShs1LCax3GrHG/bLO1CHIeHyS23iKqnxn2mtOTEUbc7yY=;AeWvoCUdzf20MS4k5IZS2Q=="
 ---

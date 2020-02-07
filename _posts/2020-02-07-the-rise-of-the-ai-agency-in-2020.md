@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "The Rise Of The AI Agency In 2020"
 
 related:
+  - title: "Love in the time of Artificial Intelligence"
+    excerpt: "The formidable third wheel in the romance between a man and a woman is… a hologram! Netflix’s newest and now-streaming K-drama My Holo Love takes on love in the time of Artificial Intelligence (AI). So-yeon is a woman who distances herself from people because of her face blindness disorder, which is described as the inability to recognize ..."
+    publishedDateTime: 2020-02-07T16:03:00Z
+    webUrl: "https://www.philstar.com/entertainment/2020/02/08/1991213/love-time-artificial-intelligence"
+    ampWebUrl: "https://www.philstar.com/entertainment/2020/02/08/1991213/love-time-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/entertainment/2020/02/08/1991213/love-time-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 57
+    images:
+      - url: "https://media.philstar.com/photos/2020/02/07/kpop_2020-02-07_17-11-54414_thumbnail.jpg"
+        width: 686
+        height: 392
   - title: "Researchers discuss use of artificial intelligence in government agencies"
     excerpt: "Professor Daniel Ho discusses the use of artificial intelligence by government agencies Monday afternoon. (Photo: EMMA TALLEY / The Stanford Daily) By Emma Talley a few seconds ago Almost half of “important” American government agencies have ..."
     publishedDateTime: 2020-02-04T07:40:00Z

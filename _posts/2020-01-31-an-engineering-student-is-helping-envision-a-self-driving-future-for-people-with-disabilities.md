@@ -35,15 +35,6 @@ related:
       name: Fleet Owner
       domain: fleetowner.com
     quality: 4
-  - title: "An engineering student is helping envision a self-driving future for people with disabilities"
-    excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around."
-    publishedDateTime: 2020-02-01T06:41:00Z
-    webUrl: "https://www.sfgate.com/news/article/An-engineering-student-is-helping-envision-a-15021017.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 0
 
 secured: "uJhz2Pa42vJDcVnY0w5+uJIjsDdEuVNl6iA5zxMxxXQOFtSeByJavtpPtcmVHDfpiQNBSaU78ffJ2YISX67iUdvT+f9CaU8Tz6+Qw8r40zAtYUVuUIfZJi0IGJKkLgnpFdmofdLMuvPLXLiud5GNicbwDy06zdgESU/4jW4ch1QyyisXxhYc5n/8MjxclB3kpT5dbhja1ITvkWmoiBlkE71gx/fBCRCHVMPWPFxe+UzOndC+HL5y8OK5bGpXwRqZKlG16VLXjO07ucj8E7t5rBU0IX8gFNLg7EkBEsdPz15fyngaDuQaa6U177sUeRQW+b9L46UrbdnsbEsjijVPKbMbO+AdqvTD+5d9P4lCCLogJcIxVFi3zTqXBkXXMWPy3+UOn7+ZJi8nzS9JjlKPbMPG2jwRITrlhMnL9z/xjcpiboIlLNZAsV2TFYoiIWoxwtZYqi7nBNptYOzKtGoxyXV0McuUePfztFgCCxh9dtc=;z5FLDtzjrqfsxS78EX83LA=="
 ---

@@ -18,30 +18,34 @@ topics:
   - AI in Autos
 
 related:
-  - title: "An engineering student is helping envision a self-driving future for people with disabilities"
-    excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around. The Ohio State University engineering student had opted for a rolling walker over the wheelchair she sometimes uses, but nonetheless she was late."
-    publishedDateTime: 2020-01-31T13:10:00Z
-    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
+  - title: "How Is Artificial Intelligence And Machine Learning Used In Engineering?"
+    excerpt: "and machine learning are bringing changes to the field of engineering and the responsibilities of engineers just like they have in other industries. Many of these changes improve efficiency and effectiveness."
+    publishedDateTime: 2020-02-07T16:48:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 33
+      name: Forbes
+      domain: forbes.com
+    quality: 105
     images:
-      - url: "https://www.washingtonpost.com/resizer/qxjWQ-jXwV-C9osVN4wWU0S_SLI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QUAWFCR4PUI6VL7CBEHLG63AWE.jpg"
-        width: 1440
-        height: 960
-  - title: "Patchwork of self-driving laws limiting autonomous truck innovations"
-    excerpt: "Self-driving trucks could change how freight moves across the United States. But with a slow-moving federal government and a patchwork of local laws regulating autonomous truck testing, that future is far from seamless, according to a recent study by the American Transportation Research Institute (ATRI). The government rules created to support ..."
-    publishedDateTime: 2020-02-03T13:55:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21121622/us-patchwork-of-selfdriving-laws-is-limiting-autonomous-truck-innovations"
+      - url: "https://thumbor.forbes.com/thumbor/711x290/https://specials-images.forbesimg.com/imageserve/5e3cf820f133f400076be0f6/960x0.jpg?fit=scale"
+        width: 711
+        height: 290
+  - title: "Hyland buys blockchain-anchored business Learning Machine"
+    excerpt: "Financial terms of the acquisition by Hyland were not disclosed ... More than 900 such institutions already use Hyland's content services platform. Chris Jagers, CEO of Learning Machine, said in a statement that the deal \"creates significant value for Learning Machine customers who will gain the full benefit of Hyland's notable support ..."
+    publishedDateTime: 2020-02-05T16:11:00Z
+    webUrl: "https://www.crainscleveland.com/technology/hyland-buys-blockchain-anchored-business-learning-machine"
     type: article
     provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 4
+      name: Crain's Cleveland Business
+      domain: crainscleveland.com
+    quality: 39
+    images:
+      - url: "https://www.crainscleveland.com/s3/files/styles/800x600/public/Hyland_Software_Logo_i.jpg"
+        width: 800
+        height: 600
 
 secured: "4J+Sz02bSA760nPQdl0lUD6e390K7i2yFY4y0XcGizykVutWtQfUzJA3MoUDyCQ35sgcOD2pA9JAkz5JMcuh5AMLvlv9UHaScAyqpSHYBSKF/LLKsieVZ6iBRpxluwq43x7uXikQvkVaIwVmnScR51QV2sCU1w7+TcbdUwgn6/gFLUy3rWo0I5HXJU/XntXGrAB2j8FjVST5ZRDDiIluuWL/Ff3UIOv3UzTnxwoyJJ2d5/HeOjGya4hPxfGo0zV/Pq931DqEg5CdH/HC+iwObwlpcNy/x0M+BVviJZ/dXOV+SH0dD8+Ixl17cGyJ9kbiSstO52NthL8j2pCk13P3SEljIB+Utog+DnMhl6EKX7iLTYADt+2c06ztHkbJin5StZbwadjPUYJFdArNznE5YUQonA47CoqEFQ8/h/WJzLybP/bwduD7prRYBJFUp1WN14MFLes9Ty83F7hfeh1GOj9JJsdp7WIGsDQvuBBKIWg=;KzqWQcR2IVoMOcqTkB6KxA=="
 ---

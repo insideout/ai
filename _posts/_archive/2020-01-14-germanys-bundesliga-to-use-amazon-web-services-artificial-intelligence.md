@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -24,6 +24,19 @@ topics:
   - AWS AI
 
 related:
+  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
+    excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames, from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search ..."
+    publishedDateTime: 2020-01-13T12:24:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200113005382/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20200113005382/en/766965/23/AWS_logo_RGB.jpg"
+        width: 1200
+        height: 627
   - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
     excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 ..."
     publishedDateTime: 2020-01-13T15:16:00Z
@@ -34,6 +47,6 @@ related:
       domain: telecompaper.com
     quality: 14
 
-secured: "zvfT9P27PhgH1sEvwwXNbKgj3RWsccn3QixhCEOH35zOJjOEsVQdnfOOpgKkCNjnzRPxF8OkCOQ5jjPSf97vpQ4x6szCJK892FRzftpW2A2Xz9Q4eKR+Bp3TZU3Vl52WHL8wQ7ILoUZq4LFlweBFAcFUWi9f0Wtrj2yFn8FJmijFEzHBkVNRhA3A3+9ld6EPcMnnNpCxhNR4oJauiRHpO0Er/gfA3qteBBjy0ciMhuKK+ybzE9hcGUeBEVwV6Zo8vUE+LnMrDnnSRbrcG63XBCnmIaAcFiDYcGt6C5sI8KnlnC57qyUrZYXUX77KG1E0;ajfp8LE5wfVQIkCLWWVWMQ=="
+secured: "5+EkPEiIMjIDLqxEx5IncGvcqJ0Nv91LbPXwHeFieZaIDm5PbAilfRO2mbSfLq2Y0U0yCdk/6VdShFmssGp0TzN+7hWGUebttoGVxmt8Mt3piSsREn5BJ3hy26/GuCxBwLRXVp9DC5pKnllhK6ZWGlswtfcYrxsukG+bEEAS6wXuNSFotyul0gddGD1K97AB7qVKIa/6M8Rj5wbrQTvNGF/lKkIcU+o1PrP0iYSXnh3L8eyQfPZs/ZyjNkYZbVukI4qmwrwi4PsVd/iw9/g2yLiiQLbgp9trXCvM2Oio8k6310xiEmVJt7/L1ZPz75JZ;1I2Fv1p/v8p3Dju4M7Ho9w=="
 ---
 

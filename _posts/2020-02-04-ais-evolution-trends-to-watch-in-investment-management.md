@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/04/ais-evo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/04/ais-evolution-trends-to-watch-in-investment-management/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 711
     height: 473
     title: "AI's Evolution: Trends To Watch In Investment Management"
+
+related:
+  - title: "Asset management’s 'fourth industrial revolution' is here"
+    excerpt: "Regtech companies are employing machine learning, natural language processing, AI and other technologies in an attempt to streamline compliance processes, increase efficiencies, and lower costs and risks. These solutions offer significant opportunities to asset managers. Already, existing and emerging solutions generate reports automatically ..."
+    publishedDateTime: 2020-02-07T16:21:00Z
+    webUrl: "https://www.financial-planning.com/news/digital-disruption-asset-managements-fourth-industrial-revolution-is-here"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 24
+    images:
+      - url: "https://sourcemedia.brightspotcdn.com/dims4/default/cc4f179/2147483647/strip/true/crop/600x315+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F9f%2F14%2Fc55ce0d648a0be566a7eeaf6b538%2Fmme0220-cover-photo.jpg"
+        width: 1200
+        height: 630
 
 secured: "5fljmSKaX/RwEJNcw2Khb98xSN1OZINMdb+3BrfddM6AIZh89SmdxowN7YlWSz/aIm3WGRCXnunJN3jhHxP5JX9RLvXlVqJnzQzvAeb/rWsAirWAgxyH/JI/bl+o0e5kaTRBHYkiwErH+1ine18CxyDd74js5QQWm6bFysuu4MicP1sZJju5uui6P8ARuy8tqVVji5OrExAYW30XjtcBgfTVBCfU9npfY5uqawVYwJQxDsLqN2vVVal7vUYlOpfIHd37j28pHnM9H8A1JsDima1PL7s43eVnyp7CM9DdomOq4NVYKgfeVBWUJAB5cXO1ZilrAiw3BcSf/brRXZ5pLBkDDZJAFKo4KM6/IgWFMQPV9GYmA4GUxO5NjaHaGKICsSrea1sWhIR1Ve09YRwbxUXTMG5lfS1Lu6nhgBnvBQJ0E9zVn13enBeNST3TGO2XSpjysvTFP1ij5nU7oCsZYX90zacYzhwAMoorMubkHC4=;KTN2QUKC0FJJ6pVHI2BHqA=="
 ---

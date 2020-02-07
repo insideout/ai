@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Google DeepMind’s ‘Sideways’ takes a page from computer architecture"
-excerpt: "Sideways is an alternative to that traditional rule for performing the forward and backward passes. The authors of sideways, Mateusz Malinowski, Grzegorz Świrszcz, João Carreira, and Viorica Pătrăucean, all with the DeepMind unit of Google, noticed that a deep learning neural net is doing less than it could be doing at every moment in ..."
+excerpt: "The authors of sideways, Mateusz Malinowski, Grzegorz Świrszcz, João Carreira, and Viorica Pătrăucean, all with the DeepMind unit of Google, noticed that a deep learning neural net is doing less than it could be doing at every moment in time during the ..."
 publishedDateTime: 2020-01-23T19:02:00Z
 webUrl: "https://www.zdnet.com/article/google-deepminds-sideways-takes-a-page-from-computer-architecture/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/google-deepminds-sideways-takes-a-page-from-computer-architecture/"
@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Google DeepMind’s ‘Sideways’ takes a page from computer architecture"
 
-secured: "DMF8CnnHJSh/Vj2GVbcYo5j8PQKIQ70wcMQUWXt73Oqz6tQIbCjVKo1wrWKdD95mRgWQtNOIO6EArktcHPZwNkibVdD9ksUMPSSw4THUKpAA1mx8yXGir7LCK09p4Ev1pcMM2ZNelDo4n2MGaXoSD6biV5vOy0OeTh0dlGC6Wh31v2MfhPjMkhRyqz5pw6Sq2iIpDgK/4CehEB6zx+Z2AkH4VDrpMXSPCqRDlsuZQOn6CiDj53rV6VR+qMRxgG5Cc4MBIp/FlOnF8lL4J+5RMxkTl7rbvt5Kj02sV3P2aQz1KUYkji6ZYu6uOK3kdQgv;UfT11b0eS3PmrKnP/9/s/w=="
+secured: "oSJ1gCQqvxpjRDlZ/Lz39vigbk9T1SeFInMXnVo/7rLwYKD11w5wppVhy59v5soRtKgFR/eLj+hPFi5PBS1a0w0M1YsSl9cP3oHr4O04PxiC/G1Fox2EmQBlncm9a7h0BCwRFMzEVtH3iVcF6YF5evVFGNNbigWaocm91h5S+t9+/pRDkCW3QtJb6kT0jriul2MMt970CHVCJyqHrmop3ZNBrd7lP2kbjKhbO+VsE62jRiAQiAGAeBSXUhjutxoXtdDcoSjl1B56HzYtCTc6a/ws2hyKL1J8qJfExooZgJF0HjyCqWjZrsuWsAPuNNiK;FuEam+TuwNoF9GZZEzhg/Q=="
 ---
 

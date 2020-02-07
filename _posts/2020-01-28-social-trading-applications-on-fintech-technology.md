@@ -41,21 +41,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/1580155563.jpeg"
         width: 858
         height: 578
-  - title: "Artificial Intelligence in Medical Imaging 2020 Global Market – Innovation, Technologies, Applications, Verticals, Strategies & Forecasts"
-    excerpt: "“Artificial Intelligence in Medical Imaging Market” WiseGuyReports.Com Publish a New Market Research Report On –\" Artificial Intelligence in Medical Imaging"
-    publishedDateTime: 2020-01-27T08:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186686/artificial-intelligence-in-medical-imaging-2020-global-market-innovation-technologies-application"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15186686"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186686"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
-    images:
-      - url: "https://www.abnewswire.com/uploads/1580118163.jpeg"
-        width: 466
-        height: 310
 
 secured: "3U6G6SPxFpgmmX7L6kzFQtGUqQl1AaseYESCxQcIHv6lUg5eBiUHktqaxYI4DL4zcp1MwXBKXeM5QWjP10u5Z6/mahw6pUQgay3O11zA4ciSQVgZAhRcEHM2BagU6o+txEx+pEUhPko9a9s1BFPltJxZYQ7ux+iwPe+0RRh0PWJ4dKEjJuAg5G+VbgLxfmYkx2oQ5Qi6Hl4YA/nDJ1rVJdLlPeauj4LoGxB1eqsTuh8fhF+vfB6VQNi577A6BqPXJ9LVjijCU5+WUKcdtMchuiDbQ+5KMx77lZ4kwJKl8d4Bg9JVQMy3Xr0/mja+ItHVY98yUk9OPMO57ifZoGC6Ieg/e0LO6dyin3rwYvSZhwL9t939WY3BeV/l5sPzB9pFF4TOdeYzExQO78jtUlrPnvjj6rRya45TTwJgH9qrm9gQexpPidVEy+siVYplDGknfejWjlDV6Yls2lpUiukbFJ2Qbcpf4BGBMsA9mgRZTnI=;8uAF4RJC7jqmAmeqou/Mbw=="
 ---

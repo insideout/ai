@@ -1,22 +1,50 @@
 ---
 category: news
 title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Germany's Bundesliga has selected AWS as its official technology provider to deliver more in-depth ..."
-publishedDateTime: 2020-01-13T13:00:00Z
-webUrl: "https://www.wallstreet-online.de/nachricht/12054989-bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience/all"
+excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames, from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search ..."
+publishedDateTime: 2020-01-13T12:24:00Z
+webUrl: "https://www.businesswire.com/news/home/20200113005382/en/"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AWS AI
 
-secured: "u3eP2zGOCFbJa2elTfpoM8TYB6ETM544Bd4rjWmRtXGuzon4hGRRsy9xYQBXB/GH/OHTGdITQL5FvB9/pOwQBJy3yajYlnkGzOgzeixEHjIOPbFGzd1qHYH713vbLa0xsdgyXZNSB3PqUisyNhfNINcNil2zCgDYCLPwwQu8nyctrEXtpA6f6ciCD4klfMO08lAR9biW3EFzKNA1gj9ll4qtMxnlxKxReS3WqoPhJzahGNaQju7BTqC8KCWbVuCvE7+kPFfUs+yG8dmk9w1Eih+oWINOfvw42Njg9XRTL65y18zKlrFjg+TKzOgpk0vf;2l0W/Ip13SAcmz8XZfCFKw=="
+images:
+  - url: "https://mms.businesswire.com/media/20200113005382/en/766965/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
+    title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
+
+related:
+  - title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
+    excerpt: "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ..."
+    publishedDateTime: 2020-01-14T14:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/germany-s-bundesliga-to-use-amazon-web-services-artificial-intelligence-1028816437"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+  - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
+    excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 ..."
+    publishedDateTime: 2020-01-13T15:16:00Z
+    webUrl: "https://www.telecompaper.com/news/bundesliga-picks-aws-to-deliver-real-time-statistics-personalised-match-footage--1322513"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 14
+
+secured: "sJob6f7yI/KfW73UZ5kEJR/ydX5lve9DPEs1JY0Cb8osgVe56fRtAir5Psmgblm0P56mSXwKIlYK9/WeCQy85vsOl9c7mRq3qTok/9eXrc2m+5dlpyeQsX6edNLnO8p4jGBFHODHtIZGIjFdb0n2RgcZRfOPr3AzANYplrAdd04CNtjjd01Ar7AMa0IsP3+zqYc+fdIw1NJgIMHNPt/UJeW/sBklXwemYUXiq9QxVwML6TC7lWZlaBnwgSyD2Oq4eH2oEHc04lu52QivpaYU38gN44ZZVd8dHvgxrt1Ke0rmzxSn7tHW12gif4/vecth;wK+AzmRh7uOdawncAfvhIA=="
 ---
 

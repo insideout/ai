@@ -32,6 +32,15 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+  - title: "From machine learning to SDM; the technologies revolutionising the subsea cable industry"
+    excerpt: "Clearly the flexibility and intelligence will become a top priority. Following the trend from the terrestrial networks, intelligence will be introduced at different levels thanks to SDN interfaces and machine learning algorithms. What makes an event like Submarine Networks EMEA such a great opportunity for professionals interested in the subsea ..."
+    publishedDateTime: 2020-02-07T16:55:00Z
+    webUrl: "https://www.totaltele.com/504859/From-machine-learning-to-SDM-the-technologies-revolutionising-the-subsea-cable-industry"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 10
   - title: "Worldwide Smart Learning Industry Insights, 2019-2024 - Featuring Use Cases of Docebo, G-Cube, Saba Software, Cisco, IBM, and More"
     excerpt: "The major factors driving the growth of the smart learning market include the proliferation of connected devices in the education sector, adoption of eLearning solutions, and growing use of Artificial Intelligence (AI) and Machine Learning (ML) in smart learning. Software segment to grow at the highest CAGR during the forecast period Based on ..."
     publishedDateTime: 2020-02-05T20:10:00Z

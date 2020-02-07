@@ -146,15 +146,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 0
-  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
-    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
-    publishedDateTime: 2020-02-04T19:16:00Z
-    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "8wYLCHCpZR2Z+4RwsR/z5ucT8XZS65ytSPiPW6JZDuZTofJQgektkODnSRp++lsN4umT/MZ8I6iL2TQkpwsbLlx8QRrKjFpwQMXV7EkM9dGWloH8voPDbyhLCd/K/X+ZCp0/SFcrwjsVuiEkedQg7HGRUwyPJa9s0cIdtnyXL2KBQ+AS4qrx5wsrmyKY0ncmmAEidzF/sgBFoa/yQGl7G29AVp2uLTi0L0dD+z765Z46DBzsZyCV7Fo5n46aj2F9EeeXXN7a3SmFDgRQh57NahCSAtJtPXzdnSGidTACwm6XlPtjU67wiz8Fsy+ZvvRE;jTn1l2w9z18eDfW8lxjhlA=="
 ---

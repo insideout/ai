@@ -36,6 +36,6 @@ related:
       domain: newscientist.com
     quality: 54
 
-secured: "8GhE1GFXRiPTu9KF11GUNe58C08VwtswLjasg+3ViOc15AFxSSK+FvfDjKf9U+insl/3nGWx8G1ljlam8K144qcl4uC5j0+gQ9U3Xzill+q4+86wiSikFnk3I1ZqHw4gpnfrL65eoE9rUQ2Z/UuaOzcYmyaa+EOW2AGmqiXySl75VO9ifVs4UPWaYPU2ywuOvi1903IrDuBclmSAborGsylG/gFIxzMg7YTYwNJt/fPKFKKaAGCZGYEvIcsD+asBadBgryod0M4flJDkOEUdMrYY+FHzTPpLapNDeYxGxYwkLorBnSLmRk+uJCjA7cXl;TK77WEe5yRvR/A+SXiPfrA=="
+secured: "iD6LBoN2JP3lr3oMHNXB2hUMZqUYMcKHfVCMDTfZJHByNWt9u+pmFiJrwm3MUvtESff25W2lHrsLuqCeGvy9s/GTWqs86oaXxKzBKsoSXPT9BBBJUyD9z5VBGWHIkwXotJv0t3yof1ZqefsA628gfUvclNyDj+2LtucwngnRrRSjUMyo/TbxLG5sNYvBo/RjzGMIj6Ipz0nCuFAzh/cKkv+7YA7F8anbcUwiDUmJyY64JuphNv5nf+MYjVouwt1xS3JK57pNnDb6Dpdtv46UuabOUjf+P5JmgSJrXu3g3cLfEuhv5QyrFOlkkPem9LUp;OAS/nPIhDgEile3Puj22RA=="
 ---
 

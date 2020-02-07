@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -95,17 +95,6 @@ related:
       - url: "https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg"
         width: 992
         height: 558
-  - title: "The Hype of Self-Driving Cars Versus the Reality"
-    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
-    publishedDateTime: 2020-01-24T00:05:00Z
-    webUrl: "https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html"
-    ampWebUrl: "https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true"
-    cdnAmpWebUrl: "https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true"
-    type: article
-    provider:
-      name: AARP
-      domain: aarp.org
-    quality: 24
   - title: "Test shows promise of self-driving cars for transit"
     excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
     publishedDateTime: 2020-01-25T19:00:00Z
@@ -129,6 +118,6 @@ related:
       domain: go.com
     quality: 4
 
-secured: "L2v7htd+rMAxnpbEDxap/b5ZqHz+TOUisOKxjFXo2Lz9OU9xbswN1sfUSTIjyUMGydLYLmN047C4NVNPaf/lkoXvi+wGotoqhIMFaW0dqG3H6fVtTHgKWksEmcqeUyPonMr2owkuQME7dfu3wa8Kjd8r3QQt40RoGRlS4qrXoEsa8WAoN42BHkDVB25jjJTINMl1kHoJjG1Dknr4PKQJfRaCRcWfvNy350qysoTxEKwNkxNzmnWm+ABtiQf4FaaexpoZXSEEHOmzVsldhhlZ2OqXLmILFaQ1JDwyX3PU35D+exMFru3ifaABlygDkz/0;h1aWTaXPkt9IHa+VhXMcfg=="
+secured: "HlHmrg0q0zJ/cSbWYkm0/UwXJWbMkZe+8MYCpWHDmeDsUrcKuZXLsFCXcUDpWaAIyobadjEHpEp4y7taR1Lpnnr+i5mg3PexPkxvP5p3L/nMyHgfkqCmOOd0p2/iaNDJvAegcTWY66Fo5scSLXPc+cVjplYxmBvxNxxy7dUSdJygHJN+zGJtAo/hCLIWVRswn+Tvdo44XZQFgvC4LaBDIMmLsCr3Y1CO8y/J05mdyCI3XhkDX1d765h0/9QzX54qpn9IdbKVDpRdZZQ/T4TewN10wQj9tJVWcX8h3ohHea9t/ptygQmMoRUHAFACOiKM;Hlxp0IzgfncvGk6Whg3tnA=="
 ---
 

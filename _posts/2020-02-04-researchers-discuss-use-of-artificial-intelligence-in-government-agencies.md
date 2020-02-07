@@ -38,6 +38,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale"
         width: 711
         height: 493
+  - title: "Love in the time of Artificial Intelligence"
+    excerpt: "The formidable third wheel in the romance between a man and a woman is… a hologram! Netflix’s newest and now-streaming K-drama My Holo Love takes on love in the time of Artificial Intelligence (AI). So-yeon is a woman who distances herself from people because of her face blindness disorder, which is described as the inability to recognize ..."
+    publishedDateTime: 2020-02-07T16:03:00Z
+    webUrl: "https://www.philstar.com/entertainment/2020/02/08/1991213/love-time-artificial-intelligence"
+    ampWebUrl: "https://www.philstar.com/entertainment/2020/02/08/1991213/love-time-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/entertainment/2020/02/08/1991213/love-time-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 57
+    images:
+      - url: "https://media.philstar.com/photos/2020/02/07/kpop_2020-02-07_17-11-54414_thumbnail.jpg"
+        width: 686
+        height: 392
 
 secured: "CytF7KuditY902RukyNUEnKgIKrOdwlhfSn98LGIkBLyh3wilf080cADKydHcjE8E5almbOg0IjNYRfN7eA0ifDFocnGtrsbGh9Cnky3jGiF4BV8lfNxPeCavlNbU9YEHOYC9tv/86u9aZTjfIXXMgQtgEnvstIpRH4PyJbB+FngHAJEwl+2V5MrwMaf6/CLcKceiD6ZvLn3coYAU79Gx01xHPtttBgInXYbJpKTuMJQzM1GJpZybYcD4HYBUuf5UEWceOfIlU8zGX7YWv34OnzAyVZmQJhXpTN24tB8nO9wgVKPbfB4swk9mVFuXLQV;T6mhrntOd9PGy1VykeJH4A=="
 ---

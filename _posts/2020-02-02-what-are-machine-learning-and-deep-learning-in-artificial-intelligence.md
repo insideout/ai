@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artifi
 cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
 
 related:
-  - title: "Hyland buys blockchain-anchored business Learning Machine"
-    excerpt: "Financial terms of the acquisition by Hyland were not disclosed ... More than 900 such institutions already use Hyland's content services platform. Chris Jagers, CEO of Learning Machine, said in a statement that the deal \"creates significant value for Learning Machine customers who will gain the full benefit of Hyland's notable support ..."
-    publishedDateTime: 2020-02-05T16:11:00Z
-    webUrl: "https://www.crainscleveland.com/technology/hyland-buys-blockchain-anchored-business-learning-machine"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 39
-    images:
-      - url: "https://www.crainscleveland.com/s3/files/styles/800x600/public/Hyland_Software_Logo_i.jpg"
-        width: 800
-        height: 600
   - title: "Henkel invests in machine-learning software start-up Fero Labs"
     excerpt: "Henkel AG & Co. KGaA (Dusseldorf, Germany; www.henkel.com) is participating in the latest funding round of Fero Labs (New York, N.Y.; www.ferolabs.com), a start-up aiming to optimize industrial processes by using explainable machine learning. The investment is led by the company’s HenkelX Ventures unit, together with DIVC, a Munich-based ..."
     publishedDateTime: 2020-02-05T18:45:00Z

@@ -4,10 +4,12 @@ title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
 excerpt: "The global machine learning market is projected to grow from $7.3B in 2020 to $30.6B in 2024, attaining a CAGR of 43%"
 publishedDateTime: 2020-01-19T19:28:00Z
 webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/"
+ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,12 @@ topics:
   - AI
   - AI in Finance
 
-secured: "WxfO0+p02n9uymTSK5qu5VmeAk+MBwPSbSw1epz9PBiKwO1R9YnZcCPQyOX5sdsupoLAQrrIb5KvIVNYhyN1NJsfUCEIjqUYWpHnkPNPt/5Mr1qy+6C8nYlhk92i51NIQ7I3wTfdnPVrdx7fzogwqqkoY/UIOoGaQFiYVlAJwftSmfMU7ESZr13HhDUqRbp1d6/7+OBbv9JjL9KN1rtUpKdlPdOmEF/OVBn9S26fuW3XNX+mvK8FTxTieM8I9WpdkRD/C7Q9Dz1nLk59BSEJvEIm61YXCwGJp3MpxJ3JpaC1QuMZIDoJ5y2GujE6fqmsR4+PbWlEYiiRk8mUBAS0OKQr2bs0/SX0y8rpqN8Or1wwMA0vxJJreG7FaU0wnfQ7a3OjTnQYeBtr7xVsBO3RvZKRcFqoxqxuf5z1MtvsQzVYrPd6aUW+iPdVDxU8yisUzMPo1xRbu16NEzXHP+Ar7+RT8XBGVb64DqN2Y44QpQo=;NIiJJli2xru5i8dZXcuigg=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24962d8b6cf300071c7301%2F0x0.jpg"
+    width: 854
+    height: 634
+    title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
+
+secured: "IdTmvNX2PwxFu5YXZo1ji8DV9DPufMGKHqX/p6878fU2hLse8HLcCwMYt1MsPDrjbeAn5jJX4VoAVS0Z9dZuNUPXLr0MirDjJ8baW0EZdOTyoRklHLNfr6A+1mgrQ2kKdSuY4/0R9vtja3+3UtbBi/1vA0g3Qv7PQ7BqArNF9vZgUMOmoV4dfTBGYrNHYI5hzDMnzmblCbN2FleEc4fkVo7TR7yMBtd3ogz7OeO+ryvF2DZ7CgS6o4NQXywdVu1234YRWUQM4yV2qgsDXguh6upAEP8D4xMm1uoohVBB3xfwr5j12rXZtncSua4l5pxX;0Q/6RvNDdEx3jrGc6o0CJw=="
 ---
 
