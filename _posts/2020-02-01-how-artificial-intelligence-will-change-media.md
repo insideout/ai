@@ -38,6 +38,21 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/12E666E8-C229-4FDB-A12A437CAD23F0E0.jpg"
         width: 790
         height: 497
+  - title: "How far will Artificial Intelligence go?"
+    excerpt: "It’s not going to happen. Why should it? As Roger Schank notes in his article on “Artificial Intelligence” in the book, “This Idea Must Die”: “You’ll never have a friendly household robot with whom you can have deep, meaningful conversations.” We already have humans we can relate to who are far more complex than any computer."
+    publishedDateTime: 2020-02-07T16:50:00Z
+    webUrl: "https://www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/"
+    ampWebUrl: "https://www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/?amp"
+    cdnAmpWebUrl: "https://www-courierherald-com.cdn.ampproject.org/c/s/www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/?amp"
+    type: article
+    provider:
+      name: Enumclaw Courier-Herald
+      domain: courierherald.com
+    quality: 59
+    images:
+      - url: "https://www.courierherald.com/wp-content/uploads/2020/02/20393828_web1_Opinion-Elfers-ECH-200205-Elfers-Mug_1.jpg"
+        width: 1024
+        height: 683
   - title: "How AI Will Change The Way We Work In 2020"
     excerpt: "If there is one technology that has become the buzzword of this decade, it would be artificial intelligence (AI). In the beginning of 2010s, consumer natural-language processing (NLP) allowed us to talk to our phones and control smart home appliances reliably. At the time, a lot of people expected NLP to explode in other domains, but it never ..."
     publishedDateTime: 2020-01-27T03:30:00Z

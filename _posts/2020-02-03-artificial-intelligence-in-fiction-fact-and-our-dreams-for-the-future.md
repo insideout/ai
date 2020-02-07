@@ -5,8 +5,8 @@ excerpt: "To celebrate the launch of Machina, a new story about the race to buil
 publishedDateTime: 2020-02-03T13:00:00Z
 webUrl: "https://www.tor.com/2020/02/03/artificial-intelligence-in-fiction-fact-and-our-dreams-for-the-future/comment-page-1/"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://i0.wp.com/www.tor.com/wp-content/uploads/2020/01/Artificial_Neural_Network_with_Chip.jpg?fit=1200%2C+9999&crop=0%2C0%2C100%2C686px&quality=100&ssl=1"
@@ -38,6 +39,6 @@ related:
         width: 1000
         height: 543
 
-secured: "K8a0Sn3GqDGHRFYzNfvZ9ndQkJvBaFtnBOQK1WqGSK1PvAtS2t5NHAv++m1+9CXpg9IF2MwWXwKO3qyv2FujkQ5JyjPOm1whBhZ6WL2jSN0VVcpS350K8I7O6ndApI5OWfAgKAmDqLSQ6MJyqEaX+v2j8qCeHB+HjlLIv2vcbGCOhfRgD2BMCKGVlricus6pf6xoqvBYg62tkgbSu2apXes5j1mfdo9lZZ2luP7aTHoAeNzoqn/KDX89BPAO9toasMIch6ym0b/6Zfs7BRCGBbBr9ucNpuFZHM74GXBr6XnVnXe9829OHxy0o4bkQQqU;bMvDteTjqDf7JCRe0CRIJQ=="
+secured: "fDqRe8a1vX7CkYekJWZF4CmPILgltPj2jbk+caNrMEGdg0ttPNlm9Y68wFVuX7yqxAxhdcERFUiAvhyGzudNY+ZYWrYz6HiDfGjmQFftNSWBLDooyr7WJiN4uMIIenfE926b/RZgXweHxOz8hOtt32lrW7NHQNqxzs2s4r623vDbX+aQGo0/DLYPs8LSQC0mNo9CMMKbz0PY39GgsEy4h6pP4KFFCR3ZouZWW97DwgQVZ98828WvIX0pP75M8tRLjWsYg3TW2lZvn5FTq8ep2utnnpsokNrbH5ufjxZ3Vtgk0mIo0rqyiS3EHdpxXpyjyS+13qEBlkcIYh5+oDscUb55M+lhxY9rXxgzHQ67UbIyiQJKgaybc8AlIHjqcoN+5WGswWQz1hejB9Znilt3OvRFTFOpY1UKN2Gveky1yvJUA5rinn7Ohn2OrFVxKkYG368R/Wz8fLrHZICZJ6uTgKoGMvYpw9N5CYC9Ph2il0A=;4YctNgakIdZpzyQBc0sr1A=="
 ---
 

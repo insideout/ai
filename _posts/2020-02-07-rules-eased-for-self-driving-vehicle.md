@@ -3,7 +3,7 @@ category: news
 title: "Rules eased for self-driving vehicle"
 excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
 publishedDateTime: 2020-02-07T06:44:00Z
-webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?business"
+webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?latest"
 type: article
 quality: 24
 heat: -1
@@ -66,6 +66,6 @@ related:
         width: 540
         height: 420
 
-secured: "Wy23ckDwGsibK8MPzhC2hVEdVxIBLTcfAFxoie05toykVmAj3iRo6bhmuQJjUnvWoUsq+6kfgce2jytoUzNnkHvVvpWsiOY5pg9QwKxnIPbtq4v9Ljfh2hKWP42h3LL1pDA+lr6P1HZHvVKy6aqCMPFdUCxHNE2VvE6hkt8sDFKSrMEntTjY76pjBF9A6dRaRLIWbfLEQadeDHqCCdFoR8EuNHYpWerp+IYNNX3BM1+Yc5Z5y1+fQL0lWGVhUtR9m7egErTplVR0n8BiGc8YbDNKd/4up+73Bu41XXjAY/3AShgKFd7r1m6D2ykKnsC7;QAyuwb8psNz+Ds475e2uBA=="
+secured: "+ugJEGsNTo+GDRFGlvzh8qn6OB9BBBfx8zBrgizhW34LYmD+Bpjt48mIiUjBWVIkHyR9pFHCO8B2xAlQrAR1wcZV3LJSxTi79lhY8YUiSk+LbCMHFwH2YN15aCHRdUm180UiwSd32VMaRUAbnVgxrRdEcRUVkW6p/HL8+GmoIYxRlLL3EQV6jU8yVwA2067lw/oP5REAnpTyTiZGCTLWSlQiGA/NmxqrQa2YBycNDkl427qh2kbqReJ9PrOQkekjg0oaLWd2yXtqPS2vDYLyMDl/S1G58Pkn92FibZZF/vDAneiLxHgznAdvrIGuas334kmEa0ba07st54Zd3UX4V/5BZewMBucnI4bRpdL6L+EeerS1Q3Vx+vIlpim1RjWy8QOXvjZuPVC+vMtQweZV3JXD90iQg/630NLNx4cV9Ey1otgNo3flToZ/AyDZJk3yLPxTLNVId5yujM+IAhx8D9E8sJg1hQ9+KmjWWhc6P6s=;/gQPs4jbHNxaOpWbC2yNHA=="
 ---
 

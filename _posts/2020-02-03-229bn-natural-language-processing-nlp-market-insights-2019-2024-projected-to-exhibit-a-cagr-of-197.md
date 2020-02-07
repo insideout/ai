@@ -1,17 +1,19 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-publishedDateTime: 2020-02-03T11:44:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+publishedDateTime: 2020-02-03T10:44:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -78,6 +80,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "LXZ1CMXXwArtAQ/58QbdF0a1HPtMhUebPkW3DTEbV3PE1AdqZmnmOnJq60JwlL9kD2EH41Yg+YFyYR/TSVqadiRHpYIpJzk2F3ii/INgvFgdcDPRccVd1Gx8C6/W9xnW8hELolJaWapL5LxZEzlb3wDCC1ne03UTlcwjTZ9ucfthdrX3GATcIjXr1TDdXH38mecbN7z8LVpPm0J0LR17CzbD/FfOU89K1jvVAHJLf4Pgty3Fa0CPcw4JP7brmkxW5JDeVCQui+9ncm9fpWAuIK0TAncUr5sqFx59DZEStXDEvtIs2yWBWnLgS23jnrBQ;p/+pma9aYE1vGY/dC6ENBA=="
+secured: "phFoLm4D88phNa7QVUK0T0Gyv4oP5iv3eptPil+hc17636e77/X56f71grfoOC7fFWNemqoilP7t4a//9a2GH/eMkp8WNTwDvXcJi/QLDFAjHHaWwKLJKuHD1M0GXIcQT62MWvl2z4fjXK8gxwKFX6k1oXkWtSWx7hpgOIbb+9/em7WEBLSjD+U/H67v5M27opustTgvbKYKDMGnGQELEE5nQX6y12tscwCLA1UTZVQrTnsBQSN1DICxpnoHGulrj20SOcwibdqoFJJseJP4w4mh7M9dtBzVtwMltDfA1OzgXk2hYaBJJtnujfexbp7K;oGLInmPSCZEYyr28U7GRRg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-01T19:04:00Z
 webUrl: "https://www.scientificamerican.com/article/how-artificial-intelligence-will-change-medicine/"
 type: article
 quality: 139
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -24,6 +24,21 @@ images:
     title: "How Artificial Intelligence Will Change Medicine"
 
 related:
+  - title: "How far will Artificial Intelligence go?"
+    excerpt: "It’s not going to happen. Why should it? As Roger Schank notes in his article on “Artificial Intelligence” in the book, “This Idea Must Die”: “You’ll never have a friendly household robot with whom you can have deep, meaningful conversations.” We already have humans we can relate to who are far more complex than any computer."
+    publishedDateTime: 2020-02-07T16:50:00Z
+    webUrl: "https://www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/"
+    ampWebUrl: "https://www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/?amp"
+    cdnAmpWebUrl: "https://www-courierherald-com.cdn.ampproject.org/c/s/www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/?amp"
+    type: article
+    provider:
+      name: Enumclaw Courier-Herald
+      domain: courierherald.com
+    quality: 59
+    images:
+      - url: "https://www.courierherald.com/wp-content/uploads/2020/02/20393828_web1_Opinion-Elfers-ECH-200205-Elfers-Mug_1.jpg"
+        width: 1024
+        height: 683
   - title: "How Artificial Intelligence will change media"
     excerpt: "For More of This and Other Stories, Grab Your Copy of the Standard Newspaper. Subscribe Now »"
     publishedDateTime: 2020-02-01T15:03:00Z

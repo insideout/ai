@@ -27,6 +27,6 @@ images:
     height: 703
     title: "Facebook AI | Text-Based Generation of Interactive Worlds"
 
-secured: "e0Eti3+hNx93vonJwKnGJXCCXhTcA9GlkCjw9bcPZR2gfNrbXi9wmEYxrpMiHH1/NN+G9c0UW9ZDwPARv1GNsn56Icr2R10jMdQEmNkf8JX2ZV29n5tSmwpKpvrrrk0PV0oCvL5/qd0rVpq+Ae6uXMbCWNj/IDUrMk+ms0u7rUQlFN0cDpOO0PgF/UN1tyFRot8WQV7v+k+F5BCO2qTs9O9ngA705FFZZZm+zXCgadzsn/zpfoKwrHe8U7OFD6n7/l8S/AMf3uMC9Yp6887OJlUIbz3ANtsPcTvSkzX/MvF3ohI+v9Ot2f+UzbSrNpvn;DqNyHoomyPU4hEt6urhoMA=="
+secured: "9ZB0+u0r2xUlqNAyCSY90UfGn8cyR7Rl7lmX+J2J9yw7aCmbj9VmvpXFiP+qmmJlpoq38I0ehQmYeFWv4WGk74W+MOPMk9O/2UBaKdgwtymwf2Rr6hwzqZKc/qm4VDQAals6o80bQwuzx68maOHaB1DC0oyVTFvfEqNvCqHDs9H1ds/8fzj6wS2FHTayI62rDyrdSUHfjAiNRhyP8474EMLKdJdWJJYtZONhrYdjBISL6aBEy8Y1fRWM08K9T3vBsaWySV7Dj4NC7rK/NArC1TF2EBr4x2T1djFiNPfaqBDyhfj/+FAiJpIxGCTF3PHk;ThgK66wBWfQB9bSXzGZOSQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T06:33:00Z
 webUrl: "https://thenextweb.com/neural/2020/02/03/alibaba-baidu-google-ai-cornavrius-tools/"
 type: article
 quality: 163
-heat: 223
+heat: 233
 published: true
 
 provider:
@@ -77,6 +77,19 @@ related:
       name: The Express Tribune
       domain: tribune.com.pk
     quality: 39
+  - title: "AI used in the battle against the novel coronavirus outbreak"
+    excerpt: "SenseTime, a Chinese AI pioneer, for instance, is using its super computing power resources to assist professors with research on the novel coronavirus. After receiving a request for more super computing resources, SenseTime has allocated 20 GPU server nodes for free to help Luo Haibin, a professor at the school of pharmaceutical sciences of ..."
+    publishedDateTime: 2020-02-07T18:39:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202002/06/WS5e3be150a3101282172758bf.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202002/06/5e3be150a310128206500b73.png"
+        width: 608
+        height: 405
   - title: "How Darwin meets AI in a Scottish study doing battle with the superbugs"
     excerpt: "Antibiotic resistance is billed as the greatest global threat to humanity in the 21st century. Now, the battle against superbugs is being waged in Scottish computer laboratories, with ground-breaking experiments using artificial intelligence and the theories of Charles Darwin. The tests are tackling a menace that is exacting a high price in ..."
     publishedDateTime: 2020-02-01T11:01:00Z

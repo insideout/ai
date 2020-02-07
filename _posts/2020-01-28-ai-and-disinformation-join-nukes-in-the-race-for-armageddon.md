@@ -54,21 +54,6 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 117
-  - title: "AISense raises $10 million for AI transcription tool Otter"
-    excerpt: "And a word cloud at the top of each recording tracks the most-used terms. Otter competes with Microsoft’s Microsoft 365, which can host live events with AI-powered features such as facial recognition of attendees and autonomous speech-to-text conversion, as well as comparable meeting transcription tools from Cisco and startups Voicera ..."
-    publishedDateTime: 2020-01-24T02:25:00Z
-    webUrl: "https://venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/"
-    ampWebUrl: "https://venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?fit=1200%2C763&strip=all"
-        width: 1200
-        height: 763
   - title: "Gravyty raises $21 million for AI fundraising platform"
     excerpt: "To help bolster their efforts, Adam Martel and Rich Palmer founded Gravyty in 2016, a Newton, Massachusetts-based startup leveraging AI and machine learning to help nonprofits reach their fundraising goals. In a vote of confidence this week in the startup’s efforts, investment firm K1 Investment Management announced a $21 million investment ..."
     publishedDateTime: 2020-01-27T14:38:00Z

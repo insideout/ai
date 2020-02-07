@@ -24,31 +24,22 @@ images:
     title: "Sensors and AI spot low blood sugar without needles"
 
 related:
-  - title: "AI replaces prick test to detect blood sugar levels"
-    excerpt: "The novel artificial intelligence system works as well as ... Hence, personalized therapy based on the system can be more effective than therapies used today. The new approach was able to ..."
-    publishedDateTime: 2020-01-13T13:28:00Z
-    webUrl: "https://www.news-medical.net/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
+  - title: "New Tech Lets You Test Your Blood Sugar Without Needles"
+    excerpt: "“Precision Medicine and Artificial Intelligence: A Pilot Study on Deep ... she works towards her masters in marriage and family therapy and art therapy. In a past life, she worked as the patient ..."
+    publishedDateTime: 2020-01-16T21:44:00Z
+    webUrl: "https://www.healthcentral.com/article/new-glucose-monitoring-device-for-diabetes"
+    ampWebUrl: "https://www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
+    cdnAmpWebUrl: "https://www-healthcentral-com.cdn.ampproject.org/c/s/www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
+      name: HealthCentral
+      domain: healthcentral.com
+    quality: 44
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2020%2f1%2fleandro_ecg_63c541f952b746b48ff02d36b07911ca-620x480.jpg"
-        width: 620
-        height: 480
-  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-13T16:53:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/01/200113111156.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      - url: "https://images.ctfassets.net/yixw23k2v6vo/6HWebXmG36CblFmUEiDiQi/09577f3ff78807e49ae9e3212fed07d7/iStock-1175717080.jpg"
+        width: 1254
+        height: 836
 
-secured: "WpoSFBtC5fECdgpbS0JFSwgkOBOIzhbQUPAipsJHmy4YrUB3M2I9AZTUhDJhqRB++0F2j4tYjy5plZqKpiY9oKaY1QzDYWY8qjMv/1u0hDWfw8kAgel1y61kMsh6+NQjOll50WHAkLgRFuXF+nRmeSgHzuoMDtBGmdXMk2cGE1eWjjAGuIOW0pFdTusInJJF4cmo8sY7EGUpoG2Nv+vTaQMG5PBVimWaS618WkrNv4uGM58mi4dIDug0T+mwTkQN47EydtVt910a/jmyhopDH++Z6viBWx2TGSo96hlMAlY/AUMC0aHXX/Z0vxVextqH;GRwQuUBzrRYYdDaVXtIevw=="
+secured: "q4YY/S0bXZnjMmxI2iS6Sf+KXO+sg6kT8aI1BsccCOOlCz+oWbFizuzTllnppe/1MAGJS9NLLtqdzFlDqyVTZqnUn2SDFQowZALsmEsUAiAHGnu5zvDLWfIOC0XBxhvN4P4gVAiBGL8t5xi6pLOOa72sx71rP+2ZAmuO6PdpaUaAVcI1PQ6xuUXMSPm9YyoxXe/URMgXtpDVn3HA0pIShm1RMoYNk43gDK8q3foaXHRNi9+QJnmU/yPw3ED97jkSPFvvPFt8vE+/4hUGal+RwPzgXsJhYZWB1qWmWa+BqP9kmjCgp/KURVdeFRdn4+Ww;PoYzF2GLryUUgzz50/QvXg=="
 ---
 

@@ -69,6 +69,21 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/20200129163936-google-translate.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
+  - title: "Google: Translate will soon give you near real-time transcriptions"
+    excerpt: "That differs from Google Recorder, which can transcribe offline. Presumably at some point in the future Google will use its AI to perform live transcriptions of one language to another on the device. SEE: Hands on with the Langogo translator: the go-anywhere global language device But live transcriptions of audio from one language to ..."
+    publishedDateTime: 2020-01-29T13:55:00Z
+    webUrl: "https://www.zdnet.com/article/google-translate-will-soon-give-you-near-real-time-transcriptions/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-translate-will-soon-give-you-near-real-time-transcriptions/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-translate-will-soon-give-you-near-real-time-transcriptions/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg"
+        width: 1200
+        height: 675
   - title: "A.I.-powered voice transcription app Otter raises $10M, including from new strategic investor NTT DOCOMO"
     excerpt: "“There is a large business market opportunity for Otter.ai and DOCOMO’s translation service.” DOCOMO is also featuring Otter during demonstrations at DOCOMO Open House 2020 taking place in the Tokyo Big Sight exhibition complex January 23 and 24, 2020. Here, Otter will transcribe the English-language presentations in real-time which will ..."
     publishedDateTime: 2020-01-27T15:31:00Z

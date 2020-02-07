@@ -68,21 +68,6 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2018/09/12/68bc9baf-bca9-4377-a59d-94d87c57e3be/thumbnail/1200x675/f52ca7b39d4fe3985df2389980bf8973/fibre-broadband.png"
         width: 1200
         height: 675
-  - title: "AISense raises $10 million for AI transcription tool Otter"
-    excerpt: "And a word cloud at the top of each recording tracks the most-used terms. Otter competes with Microsoft’s Microsoft 365, which can host live events with AI-powered features such as facial recognition of attendees and autonomous speech-to-text conversion, as well as comparable meeting transcription tools from Cisco and startups Voicera ..."
-    publishedDateTime: 2020-01-24T02:25:00Z
-    webUrl: "https://venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/"
-    ampWebUrl: "https://venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?fit=1200%2C763&strip=all"
-        width: 1200
-        height: 763
   - title: "Aquant raises $30 million for AI that gives customer service agents mission-critical data"
     excerpt: "Assaf Melochna and Shahar Chen, former colleagues at workforce management and service optimization company ClickSoftware, advocate an AI- and machine learning-based solution. The two cofounded Aquant, which algorithmically mines and analyzes data from various sources to learn manufacturing, utilities, and telecom companies’ unique service ..."
     publishedDateTime: 2020-01-30T14:00:00Z

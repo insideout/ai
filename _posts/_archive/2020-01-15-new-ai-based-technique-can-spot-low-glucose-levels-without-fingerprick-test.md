@@ -25,6 +25,6 @@ images:
     height: 365
     title: "New AI-based technique can spot low-glucose levels without fingerprick test"
 
-secured: "/N9U0v+EOnkyc0j/3lO2MJCSwNm1fqsfbuWx364bKeRc7b7y+g4B3r1ce8XsQ5TYGHlE2/CTUWyCIG4PjAuRw5xwaJYXmzvq5ZSBW1x7/Se6mJ9XFe0VvmoXra8F99N17qYuImQpkGwMEhqevyQ6GPCSQ4gw0qoOKLQjyTwObT2dLqQhE2Ok1f06jaJZ8P/ywQwSGsWwwpLqEA5UmewTtAirL5pfHm7crTCZm+obRjltaxQseKZjcC3fUJVnzYKxRNBaif8IiTc5Cx0QYxgameUNQ7av6Hbirm0WGXzdDctwUb9Ol/mGo4wZTJIUFRR2;rLdcQ6g1lz7H5754JKgOhw=="
+secured: "dKahH+vC1gqrvzj235nhyWxEpUW1M5xYr+spnd12TnvC+54kWwn648sQQnHiiaind1rxyF5XktulSaWua2UiTzIzPpem4rS8+Hata3NcE897hAxhki8WqKTJQGeCnFZcPXFyAfIh9bAwPfxM77QwFPsEiIIMxpMgq3hb3MJa5h6tVe0b1/C/x07c+xhp3s4MKX/m7+LeEAJngCduU7uF6mZ72+5C+AYWcH9ZXby9GMPQH1EhmnFGWaFLrVwhU7YxIldK4E+qvrTIYlTabppHV+r+rOZ7mRY73qYNEkodsjqYpcU/cUF5ikSFxCVwEo7+;cqfv8/EEayLo6P3zmjJ+VA=="
 ---
 

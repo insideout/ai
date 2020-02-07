@@ -70,17 +70,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Edge Artificial intelligence (AI) Software Market 2020: Key factors behind market's rapid growth by 2030"
-    excerpt: "The Objective of the \"Global Edge AI Software Market Market\" report is to depict the trends and upcoming for the Edge AI Software Market industry over the forecast years. Edge AI Software Market Market report data has been gathered from industry specialists/experts."
-    publishedDateTime: 2020-01-24T02:56:00Z
-    webUrl: "https://www.benzinga.com/press-releases/20/01/wr15178205/edge-artificial-intelligence-ai-software-market-2020-key-factors-behind-markets-rapid-growth-by-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15178205"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15178205"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
   - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
     excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look for patterns and model possible solutions in understanding health and wellness is a notable aspect bolstering the uptake of cognitive systems in ..."
     publishedDateTime: 2020-01-29T12:14:00Z

@@ -1,13 +1,15 @@
 ---
 category: news
 title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
-excerpt: "Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for ..."
-publishedDateTime: 2020-01-23T16:56:00Z
+excerpt: "Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for mainstream adoption, manufacturing leaders are already stuck in a rut ..."
+publishedDateTime: 2020-01-23T14:34:00Z
 webUrl: "https://www.techrepublic.com/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 84
+heat: 94
+published: true
 
 provider:
   name: TechRepublic
@@ -21,6 +23,27 @@ topics:
   - AI
   - AI Hardware
 
-secured: "66cIj8rzRBkfsAJPKcwQqt5bPfJ5XHDs6dFagcx4UmmzL8BgJoXRhVVhFb0KSZzJIr2E/K2HckAT2s5+fIS8eaGQ1ojxQJyDbHRlaFpMOk6AWmrGB+nVudHC/51x1fyfWTFjSa4twD/gbUvy+Gdk3krEDluaqmvRhVBDrXZDvsllH2IwoYlW9Kzm46BGsRwyfKzgXkq201CUrcdFHw86MjK/lS7thr6CSNeEubTYpGs3sXqcmPqvjjGgPm/kIXVsV5j5Lz3TBw7JGDsoCRNNTEPP2jN8D3DfCgwMuwWn0ZaRlFt4yaIRueRBfwUETri1;99PepkaQxolT4L3UqMWy4w=="
+images:
+  - url: "https://tr3.cbsistatic.com/hub/i/r/2019/04/16/cc5d2e5c-2d75-433f-a9a7-034a858b46e6/resize/1200x/8e5aaa1afe23fa7488ee8e296e79d3e3/istock-861189644ai.jpg"
+    width: 1200
+    height: 800
+    title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
+
+related:
+  - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
+    excerpt: "This technology is used in industry verticals, such as manufacturing, supply chain, and others. Development of artificial intelligence-empowered chips, robots, and others in manufacturing help enhance the overall production line, and thus, has significantly increased the adoption of artificial intelligence in the manufacturing sector."
+    publishedDateTime: 2020-01-27T13:01:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/37937/artificial-intelligence-in-manufacturing-market/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 15
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
+
+secured: "4cQJTr6bx2p+txwzs1/LJ8KX7z59FMCwGbBjrsIvKwNcK1w2YNERGaFJfhSML4us64yPOHWtD/uteUNviloo3MDiVPT3VaAIA6ymR4dy+ZdD2Mz50r2XN72P8XoJsDDrXEMXQOz7HlJEUJkvxZg2CFEsnTJ5NZdLd1P218Y/q0rjopDxEppu7iSlq0xsAtFFLtriCCFafp9LMZGNcQuH7gXvDMaYbzbDCkWpj2JWq/XOZnKRgyCxZwBPAvBhdpshRf0tKRCeuyLSHSkgOqYxKJKHvfRylgfJzyoYZpoFeD9YlnioXfO+x8bGq1jWIa0m;/wX+WIrHyam/PKRZqVZIiQ=="
 ---
 
