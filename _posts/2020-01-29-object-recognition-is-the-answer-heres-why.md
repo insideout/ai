@@ -3,11 +3,13 @@ category: news
 title: "Object Recognition Is The Answer, Here’s Why"
 excerpt: "From all of the different sensors out there, and all of AI's capabilities, which has the highest likelihood to help solve a problem?"
 publishedDateTime: 2020-01-29T19:35:00Z
-webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why"
+webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/"
+ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 119
+published: true
 
 provider:
   name: Forbes
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
+    width: 1200
+    height: 800
+    title: "Object Recognition Is The Answer, Here’s Why"
 
 related:
   - title: "Top 7 Usecases for Touchscreen Object Recognition"
@@ -35,6 +43,19 @@ related:
       - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png"
         width: 1200
         height: 630
+  - title: "The rise of facial recognition technology: where we are and what to expect"
+    excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the first article in a two-part series examining the rapid rise of facial recognition technology. Part one discusses the use of facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal landscape ..."
+    publishedDateTime: 2020-02-04T12:04:00Z
+    webUrl: "https://www.biometricupdate.com/202002/the-rise-of-facial-recognition-technology-where-we-are-and-what-to-expect"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
+        width: 1640
+        height: 800
   - title: "Army is finding ways to thwart hackers using images to mess with object recognition"
     excerpt: "Teaching a computer to categorize things like a human is no easy task, it’s harder though when an adversary is messing with the data. The Army wants to use facial and object recognition software to speed up its decision making and bring analyzed data to the warfighter so they can make informed, split-second decisions. The problem is that ..."
     publishedDateTime: 2020-01-28T22:30:00Z
@@ -49,6 +70,6 @@ related:
         width: 1200
         height: 798
 
-secured: "mgJr1OvshUP2RyZmp/hVBWSmP8f0ABza7JJcbBQrMoFifkim1QXEIM6S2WFy6My4RbLbwz8QRwrIuWkp3T2Pd4NZ5qA3X47MNnl7p2kba5KipaE26xH4gU1gbdQnd8ZK5EE4Q2GF2f+z6NPVwsEtHbzTn7FWUuW/ip2sqqjgxSUrTqaBHR+6B4H6Ht6EPSyoru0/+2cm8oX5TnXtqNRLSvfqKq6B5f1muXLq0UKbSvWhHUVkO12WLYuSwmbTcjY6D1cN5VADgXKcM7ZM8tjLN6G+H+HrhoSyY382OBtmhcS864/tlfq/YCJshZkMmX4cy2sOVe8U9M7bTcgrqJrKnkhZbanPAKwT4bzzscgABfNPvXNwmRuq2B5qmdsVdSihspS9DII4D1/TAd1scCVSj417vMGasX1G6dmaABI1WMgkSxQleGPabDx1JxCkMUU+qhq0DQI6nmZjr8uA14cy0cYZprNoApfEfFiQS3Ie2B8=;NVr6UMjw2CYjLe4Fm6VYww=="
+secured: "OUR/GQEuQemYSQj00Q+Pti0IDNjCId5ZbF2NKPs7nOUjYR0cJMFubiR/0ZHeTUJJwwMN++hPVApPOLwgERSAztsKKMgY2+uziitk0LvJgvLqvCuozc3B3OCnEbthnz0z9Kpsi81XaHwRdjw9ZoSEQY50JKo9/c3hS+JhBD2sBs9e5x8y7RHxNseSbt44qgmY4sVhlYZC1hcnVcBmbyKqujs1kCaQtNtEPu6IXIBLTIq3A1JCuQi/RAYHWhGDPaaQaef/EdOnqDfn5cTs0eiH2kP1Sg6rlODMiVkPNtATaG21hHcLxr5Pu8apKUZ090RQ;sHAVhxIn2BnMOabvXkSz2w=="
 ---
 

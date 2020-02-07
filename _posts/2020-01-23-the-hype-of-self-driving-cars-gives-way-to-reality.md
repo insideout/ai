@@ -20,51 +20,118 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Autonomous, for real. Optimus Ride self-driving shuttles want to be fully driverless in 2020"
-    excerpt: "Optimus Ride, an MIT spinoff, has started operating its autonomous vehicles at Paradise Valley Estates in Fairfield, California. The shuttles, which have been carrying passengers for a couple of months now, follow deployments at the Seaport District in Boston, the Halley Rise mixed-use district in Reston, Virginia, and the Brooklyn Navy Yard in ..."
-    publishedDateTime: 2020-01-23T20:49:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/autonomous-for-real-optimus-ride-self-driving-shuttles-want-to-be-fully-driverless-in-2020/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/autonomous-for-real-optimus-ride-self-driving-shuttles-want-to-be-fully-driverless-in-2020/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/autonomous-for-real-optimus-ride-self-driving-shuttles-want-to-be-fully-driverless-in-2020/"
+  - title: "Why most self-driving car companies use these 3 models"
+    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
+    publishedDateTime: 2020-01-21T20:54:00Z
+    webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
+    ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 74
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
+        width: 1200
+        height: 630
+  - title: "Uber prepares to test its self-driving cars in Washington, DC"
+    excerpt: "Washington, DC (CNN)Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC."
+    publishedDateTime: 2020-01-23T18:49:00Z
+    webUrl: "https://edition.cnn.com/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180323165308-uber-self-driving-cars-super-tease.jpg"
+        width: 1100
+        height: 619
+  - title: "Apple's self-driving car system could use voice, gesture guidance"
+    excerpt: "Interacting with a future self-driving car could be a lot like working with some future interpretation of Apple iOS with voice, gesture and touch-enabled commands at your disposal. It's the overarching view gathered after reading through an Apple patent application filed last August and published last week for a self-driving car voice and ..."
+    publishedDateTime: 2020-01-27T20:49:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-system-voice-gesture-guidance/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 78
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/cxTt3rulZLzCQQHX2q_jjKRRsyk=/756x567/2020/01/23/5c1b2d6c-ded7-4d52-ac38-f406e31d69a6/optimusrideweb.jpg"
-        width: 756
-        height: 567
-  - title: "Aurora can now give the public rides in its self-driving cars"
-    excerpt: "Aurora has been given permission by California regulators to transport passengers in its self-driving vehicles, TechCrunch has learned. The California Public Utilities Commission granted Aurora a permit, which was posted on its website Wednesday, to participate in the state’s Autonomous Vehicle Passenger Service pilot. Aurora confirmed the ..."
-    publishedDateTime: 2020-01-29T17:15:00Z
-    webUrl: "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/"
-    ampWebUrl: "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
     quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/Pacifica_Web-Res.jpg?w=1024"
-        width: 1024
-        height: 661
-  - title: "RIDOT aims to extend program that offers free self-driving shuttle rides in Providence"
-    excerpt: "But even if they don't eliminate the need for human workers, Alviti said the potential advantage of self-driving vehicles is they could become safer and use less energy than human-driven vehicles. And that, in his view, can potentially make small, self-driving vehicles \"better, faster and cheaper\" than traditional buses. Since its May launch ..."
-    publishedDateTime: 2020-01-26T23:33:00Z
-    webUrl: "https://www.providencejournal.com/news/20200126/ridot-aims-to-extend-program-that-offers-free-self-driving-shuttle-rides-in-providence"
-    ampWebUrl: "https://www.providencejournal.com/news/20200126/ridot-aims-to-extend-program-that-offers-free-self-driving-shuttle-rides-in-providence?template=ampart"
-    cdnAmpWebUrl: "https://www-providencejournal-com.cdn.ampproject.org/c/s/www.providencejournal.com/news/20200126/ridot-aims-to-extend-program-that-offers-free-self-driving-shuttle-rides-in-providence?template=ampart"
+      - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
+        width: 1200
+        height: 630
+  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious"
+    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps."
+    publishedDateTime: 2020-01-25T14:44:00Z
+    webUrl: "https://www.businessinsider.com/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1"
     type: article
     provider:
-      name: Providence Journal
-      domain: providencejournal.com
-    quality: 51
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
     images:
-      - url: "https://www.providencejournal.com/apps/pbcsi.dll/bilde?Site=PJ&Date=20200126&Category=NEWS&ArtNo=200129544&Ref=AR"
-        width: 1750
-        height: 1166
+      - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious (INTC)"
+    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps. Mobileye CEO Amnon Shashua told Business Insider that autonomous vehicles (AVs) can't be too cautious. If AVs take too long to get to their destinations, people won't want to ride in them, Shashua said. To increase ..."
+    publishedDateTime: 2020-01-25T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1-1028844526"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://images.markets.businessinsider.com/image/5e2b293624306a2d955068f4-2333/mobileye-2020-ces-shashua-5.jpg"
+        width: 1024
+        height: 768
+  - title: "Uber may bring self-driving cars to DC sooner than you think"
+    excerpt: "WASHINGTON — Self-driving cars may sound like an idea once reserved for science fiction films, but according to Uber, they might become a District reality sooner than you think. On Thursday, the ride-sharing company announced plans to test self-driving cars in D.C., with three road-mapping vehicles hitting the streets as early as Jan. 24."
+    publishedDateTime: 2020-01-24T03:15:00Z
+    webUrl: "https://www.wusa9.com/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427"
+    ampWebUrl: "https://www.wusa9.com/amp/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427"
+    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427"
+    type: article
+    provider:
+      name: WUSA9
+      domain: wusa9.com
+    quality: 44
+    images:
+      - url: "https://media.wusa9.com/assets/WUSA/images/cdaca044-3043-4f02-ba14-2589615a5fd5/cdaca044-3043-4f02-ba14-2589615a5fd5_360x203.jpg"
+        width: 360
+        height: 203
+  - title: "Uber set to bring self driving cars to Washington"
+    excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
+    publishedDateTime: 2020-01-25T00:47:00Z
+    webUrl: "https://www.abccolumbia.com/2020/01/24/uber-set-to-bring-self-driving-cars-to-washington/"
+    type: article
+    provider:
+      name: ABC Columbia
+      domain: abccolumbia.com
+    quality: 39
+    images:
+      - url: "https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg"
+        width: 992
+        height: 558
+  - title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
+    excerpt: "Cofounder and CTO Kyle Vogt said that the company has technology that could allow for highway operation"
+    publishedDateTime: 2020-01-23T17:20:00Z
+    webUrl: "https://www.businessinsider.com/cruise-self-driving-tech-for-city-and-highway-driving-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "The Hype of Self-Driving Cars Versus the Reality"
     excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
     publishedDateTime: 2020-01-24T00:05:00Z
@@ -76,15 +143,28 @@ related:
       name: AARP
       domain: aarp.org
     quality: 24
-  - title: "Graze’s solar-powered, self-driving mower is a view of Elon Musk’s fully-autonomous future"
-    excerpt: "The event featured the company’s strategies for the future as it prepares for a full embrace into its plans for a Full Self-Driving suite that will take the need for human control out of driving a vehicle. While Tesla is focused on navigating vehicles toward control that does not require a human’s input, other industries are diving into the ..."
-    publishedDateTime: 2020-01-24T20:07:00Z
-    webUrl: "https://www.teslarati.com/grazes-solar-powered-self-driving-mower-is-a-view-of-elon-musks-fully-autonomous-future/"
+  - title: "Test shows promise of self-driving cars for transit"
+    excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
+    publishedDateTime: 2020-01-25T19:00:00Z
+    webUrl: "https://www.limaohio.com/top-stories/393877/test-shows-promise-of-self-driving-cars-for-transit"
     type: article
     provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 0
+      name: The Lima News
+      domain: limaohio.com
+    quality: 24
+    images:
+      - url: "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_SelfDriving1.jpg"
+        width: 640
+        height: 431
+  - title: "Uber bringing fleet of self-driving cars to Washington, DC"
+    excerpt: "Uber is bringing a fleet of self-driving cars to the nation's capital to begin mapping out prospective routes -- aided by human drivers at first -- starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle operator ..."
+    publishedDateTime: 2020-01-24T17:00:00Z
+    webUrl: "https://abcnews.go.com/Technology/uber-bringing-fleet-driving-cars-washington-dc/story?id=68504129"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 4
 
 secured: "p1si2D7+kwuHQACxJ1AALF726H9M6kqFs0NQ+FQYxuEMF77kAysj18jfewCHHrYCCo75takVbcfUdCK3FkApcvD7yhsjDavnqXRqeLjhHkoW893aIUoMzxwU5qsg6fzLHqCkjvYvnsX1pHuXW6nzdMXpT2ERj233EFOVz16BmgxTsjEd9aNZDEuZUczPnvBv5VYtzuDVtZC7P0FPAqjdT+125kI8GAqMO5EvfKjIJAmpksNzsLygqZFew0oy3/1rOu8Q/ssPXcx31lxHA9jhN4NKpZxujWQ35VhUkQauiOZrTeItyYNENbu2pneFoiPRU/qBgnkOvlbeKbxSZZdF3gi6VHitAoyPiV+O8wfFTP8pTdHwE+3S3HmViBNJUTS8YxpB06gA3PliBpDdmDZFrs1W03fwV+J8z3umQahvq4Vwr/gsawiNvGcp1e8A/QfOWXsx+S8/yLgSAP4XKqvGh7932QLtAL7IhOVnJdeg3LA=;V5/IeyvRHFnSAhoOwp1Ohw=="
 ---

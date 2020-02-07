@@ -647,17 +647,6 @@ related:
       - url: "https://media-eng.dhakatribune.com/uploads/2020/01/watermarked/new-1580299156638.gif"
         width: 600
         height: 315
-  - title: "Twitter tells facial recognition app, Clearview AI to stop collecting images"
-    excerpt: "The controversial app uses over three billion images to find a match. These images have been sourced from various social media sites including Facebook, YouTube and Twitter."
-    publishedDateTime: 2020-01-23T14:37:00Z
-    webUrl: "https://www.hindustantimes.com/tech/twitter-tells-facial-recognition-app-clearview-ai-to-stop-collecting-images/story-PJQjRcqb2cYNDgZkEsr09M.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/twitter-tells-facial-recognition-app-clearview-ai-to-stop-collecting-images/story-PJQjRcqb2cYNDgZkEsr09M_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/twitter-tells-facial-recognition-app-clearview-ai-to-stop-collecting-images/story-PJQjRcqb2cYNDgZkEsr09M_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 51
   - title: "Lawmakers debate whether to limit how law enforcement uses facial recognition technology"
     excerpt: "ST. PAUL, Minn. (FOX 9) - Minnesota lawmakers will debate Thursday whether to limit how law enforcement uses facial recognition technology. Police are already using facial recognition to scan mug shots and even security footage for suspects, but it is also causing concerns over digital privacy. A Senate committee is holding a hearing ..."
     publishedDateTime: 2020-01-30T16:26:00Z

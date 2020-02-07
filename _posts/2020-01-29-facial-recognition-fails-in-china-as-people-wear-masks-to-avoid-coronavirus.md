@@ -54,19 +54,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
         width: 640
         height: 480
-  - title: "The rise of facial recognition technology: where we are and what to expect"
-    excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the first article in a two-part series examining the rapid rise of facial recognition technology. Part one discusses the use of facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal landscape ..."
-    publishedDateTime: 2020-02-04T12:04:00Z
-    webUrl: "https://www.biometricupdate.com/202002/the-rise-of-facial-recognition-technology-where-we-are-and-what-to-expect"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
-        width: 1640
-        height: 800
   - title: "Landis+Gyr's Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
     excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not \"smart.\" Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
     publishedDateTime: 2020-01-29T14:09:00Z

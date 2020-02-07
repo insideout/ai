@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-30T09:59:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-30?mod=mw_quote_news"
 type: article
 quality: 79
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -64,19 +64,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Automatic Content Recognition Market 2020: Report to Share Key Aspects of The Industry with The Details of Influence Factors- 2025"
-    excerpt: "Avail a detailed research offering a comprehensive analysis of the developments, growth outlook, driving factors, and key players of the Automatic Content Recognition market in the latest research report added by Big Market Research."
-    publishedDateTime: 2020-01-23T14:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-content-recognition-market-2020-report-to-share-key-aspects-of-the-industry-with-the-details-of-influence-factors--2025-2020-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

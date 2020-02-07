@@ -4,9 +4,11 @@ title: "Trustee Wants School District to Get Refund for Recognition Tech"
 excerpt: "Trustee Wants School District to Get Refund for Recognition Tech New York’s Lockport City School District has facial and object recognition that it can no longer use after the state changed the ..."
 publishedDateTime: 2020-01-14T00:07:00Z
 webUrl: "https://www.governing.com/finance/Trustee-Wants-School-District-to-Get-Refund-for-Recognition-Tech.html"
+ampWebUrl: "https://www.governing.com/finance/Trustee-Wants-School-District-to-Get-Refund-for-Recognition-Tech.html?AMP"
+cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/finance/Trustee-Wants-School-District-to-Get-Refund-for-Recognition-Tech.html?AMP"
 type: article
-quality: 4
-heat: 4
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "bdaX795h7CaR2DtQx0d3/RWwgeWkCKU4XkfwHAEd3mj3nkCBgeinj6Tl0NQpli1Z+KR9V5/MKMJpZ3tePyxQMAshhHGAsijx0VFVbjfuy7s9DAZ/eB4JH5facm9Ri65GoLGlT0SvaA5GwaswpUJTJ7zySYMlq1/5xjnH8UBGrsYwoPHPugJRObNBFgnEa17Cx1altvBPGmXVnpymO35XWXFtTdpt6jvWVrSOeBKaVnXuT4lvABdkMhGw8GLZIV2hBCebWa1Jo9nCKz5XQu0V2TbNvIXeC1COV6Qz7hdTpElsqgV0j5yNzPd1FLWzxSil;5UA1XvH3q3ltmHCJBVEtKA=="
+images:
+  - url: "https://media2.govtech.com/images/shutterstock_1112561213.jpg"
+    width: 940
+    height: 627
+    title: "Trustee Wants School District to Get Refund for Recognition Tech"
+
+secured: "+ngRYpLjaFs3Wd/sBq0slToUrzoMb819C8FMN8dMXkQHUKjHBrEXmMjE/QGJpc+8YoOYX9ZhQgKoFvDy/PTmuMpXAGEIhv0Rok3YAUqk0OHkknOH805pBpc1S8bWneS5no5nqYckjp0kD/tDQH+A9ISZmYUwgV3RAtmoVEgXx4CzArD0RjBTazY2dk7ZjNWRUcjz47W9KoFR0wp41oaQqtn104VAZO56nIaaypOuLPffigqyyMRWgFKSTvvMTgfD2xKLAqsvudt3Frwl7TGE6Kuz5GkkTBjUrjCTB/yu0l3x8jrPove80aX5XEQlbuX/;BLcj5NURvQXHgoZc833x+w=="
 ---
 

@@ -113,15 +113,6 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2020/01/Waymo-autonomous-vehicle-city2-580x372.jpg"
         width: 580
         height: 372
-  - title: "Waymo self-driving minivans to deliver UPS packages during pilot in Phoenix"
-    excerpt: "Waymo's self-driving Chrysler Pacifica minivans will shuttle packages from UPS Stores in the Metro Phoenix area to the UPS Tempe hub as part of a pilot that will explore customer and operational benefits and illustrate the ways in which the Waymo Driver can deliver on behalf of clients safely, efficiently, and, eventually, at scale. The pilot ..."
-    publishedDateTime: 2020-01-30T14:55:00Z
-    webUrl: "https://www.telecompaper.com/news/waymo-to-deliver-ups-packages-during-pilot--1324639"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "xQ591GS8kYZM3ViriIbWgmCVY2AA0s6t25esO7ZxMXB+aqKZcPUX5z1fUF10bdUhkBua2ijWxBBJYjy4LQFrF+7jT+c/aA9MqRdlifkIbfbbjhEBTxRb6oVg0t0+Q7HjdoP/gRxn4AToN+g17Z2zqTm43dVca3nGta837TfknFLkguDPyLYV0lwb7q6X/wYatYQEy/JM7vdAaZKEWLcbvPN2EK1WvRhHK1HZ5guV9XAfPf3k/bb1ZbBQWP1AiZyQr+xlZ1cz2r7323BQbxiLIc7/kGInzUYUXsQ/K3iosZgyJ1UQHRNyte7gIse60eFN+R5xpC9PQB+YZBin9FQ+AW6jfVyDj7fmmtPSHsZxRbDtG5Vav9b3wgl9j5Bl1/EQl802GsJEUjlJV+FbEU+4/b/JmDlUdwoAqwJTS7fL7OWxjkn2kgfMHiqntIi+iYzs0HcX1W9cjp8SFJGTiLp3o6+C+jeZFLgqZIfHQTOd0Ew=;zio1VPF+wS9o/pU0v48cBA=="
 ---

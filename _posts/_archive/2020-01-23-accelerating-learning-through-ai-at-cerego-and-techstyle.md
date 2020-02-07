@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-le
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -36,19 +36,6 @@ related:
       - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
         width: 1200
         height: 630
-  - title: "Deep Learning Artificial Intelligence Leader Vyasa Analytics Selected for 2020 MassChallenge HealthTech Accelerator"
-    excerpt: "Vyasa Analytics, an innovative provider of highly scalable deep-learning AI analytics software, has been selected to join the 2020 MassChallenge HealthTech program, a startup accelerator that matches later-stage digital health startups with industry experts to accelerate innovation and transform healthcare. Vyasa was selected to join this ..."
-    publishedDateTime: 2020-01-23T14:45:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deep-learning-artificial-intelligence-leader-vyasa-analytics-selected-/2020/01/23/9086094.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
   - title: "Machine learning and AI in action | TECH(talk)"
     excerpt: "Artificial intelligence and machine learning are being used even more these days. Listen as InfoWorld’s Serdar Yegulalp and IDG TECHtalk hosts Juliet Beauchamp and Ken Mingis discuss how AI and ML are being used and answer viewers’ questions. You can listen to this podcast episode right now using the player at the top of this page."
     publishedDateTime: 2020-01-24T16:45:00Z

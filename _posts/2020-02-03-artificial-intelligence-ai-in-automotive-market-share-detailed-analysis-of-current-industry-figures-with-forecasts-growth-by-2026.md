@@ -66,19 +66,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Automatic Content Recognition Market 2020: Report to Share Key Aspects of The Industry with The Details of Influence Factors- 2025"
-    excerpt: "Avail a detailed research offering a comprehensive analysis of the developments, growth outlook, driving factors, and key players of the Automatic Content Recognition market in the latest research report added by Big Market Research."
-    publishedDateTime: 2020-01-23T14:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-content-recognition-market-2020-report-to-share-key-aspects-of-the-industry-with-the-details-of-influence-factors--2025-2020-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Edge Artificial intelligence (AI) Software Market 2020: Key factors behind market's rapid growth by 2030"
     excerpt: "The Objective of the \"Global Edge AI Software Market Market\" report is to depict the trends and upcoming for the Edge AI Software Market industry over the forecast years. Edge AI Software Market Market report data has been gathered from industry specialists/experts."
     publishedDateTime: 2020-01-24T02:56:00Z

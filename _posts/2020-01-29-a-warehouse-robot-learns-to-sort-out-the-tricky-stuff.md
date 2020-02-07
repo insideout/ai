@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.ht
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -43,21 +43,6 @@ related:
       - url: "https://media.wired.com/photos/5e2f1b2fad484f0008ab9102/191:100/w_1280,c_limit/Biz-A%2520Covariant%2520robot%2520at%2520a%2520KNAPP-powered%2520warehouse%2520Obeta%2520outside%2520Berlin_.jpg"
         width: 1280
         height: 670
-  - title: "Warehouse Robotics to Reach New Heights"
-    excerpt: "But robotics has emerged as a possible game-changer to warehouse operations in industries ... The biggest challenge is the lack of awareness and a clear strategy and the dearth of data needed for main artificial intelligence (AI) and machine learning technology to work at their full potential. Systems that use AI need accurate data, or they ..."
-    publishedDateTime: 2020-01-23T14:12:00Z
-    webUrl: "https://www.globest.com/2020/01/23/warehouse-robotics-to-reach-new-heights-296-213715/"
-    ampWebUrl: "https://www.globest.com/2020/01/23/warehouse-robotics-to-reach-new-heights-296-213715/?amp=1"
-    cdnAmpWebUrl: "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2020/01/23/warehouse-robotics-to-reach-new-heights-296-213715/?amp=1"
-    type: article
-    provider:
-      name: GlobeSt.com
-      domain: globest.com
-    quality: 76
-    images:
-      - url: "https://images.globest.com/contrib/content/uploads/sites/296/2020/01/Warehouse-Robotics-Allied-Market-Research.jpg"
-        width: 620
-        height: 372
   - title: "A warehouse robot learns to sort out the tricky stuff"
     excerpt: "Standing nearby at the Obeta warehouse, the California engineers who made the robot snapped pictures with their smartphones. They spent more than two years designing the system at a startup called Covariant.AI, building on their research at the University of California, Berkeley. Their technology is an indication that, in the coming years ..."
     publishedDateTime: 2020-02-01T15:25:00Z

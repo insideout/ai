@@ -60,6 +60,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480447771&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0M1ZY"
         width: 818
         height: 545
+  - title: "GM investing $2.2 billion into electric, self-driving vehicles"
+    excerpt: "UNITED STATES (WSYR-TV) — General Motors is spending $2.2 billion to refurbish a Detroit factory so it can build electric and self-driving vehicles. The company hopes the new factory will bring in 2,000 jobs to the area. GM has said it plans to start building its first electric pickup truck late next year. The truck will be the first of ..."
+    publishedDateTime: 2020-01-27T17:37:00Z
+    webUrl: "https://www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/"
+    ampWebUrl: "https://www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 44
+    images:
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/generalmotors.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "General Motors to invest $3 billion on electric and self-driving cars"
     excerpt: "General Motors announced it will shift company gears from gas-powered cars to electric, and the Detroit-Hamtramck plant will be at the heart of the change, receiving $2.2 billion of the investment CNBC reports. According to Yahoo! News, this investment will bring 2,200 jobs to Detroit. GM president Lloyd Reuss told the Detroit Free Press that ..."
     publishedDateTime: 2020-01-28T18:13:00Z
@@ -120,6 +135,19 @@ related:
       - url: "https://www.metro.us/sites/default/files/main/articles/2020/01/23/LYNXMPEG0M1ZY_FES376_1579824019_724231618_0.jpg"
         width: 800
         height: 533
+  - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles"
+    excerpt: "GM will invest $3 billion in Detroit-Hamtramck, a plant previously categorized as \"unallocated,\" to build electric and self-driving vehicles."
+    publishedDateTime: 2020-01-27T14:13:00Z
+    webUrl: "https://www.businessinsider.com/gm-is-revitalizing-a-near-death-factory-to-build-electric-and-self-driving-cars-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
+    images:
+      - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Report: Cruise Origin electric self-driving shuttle will be made in Detroit"
     excerpt: "General Motors is reportedly planning to build the Cruise Origin electric driverless shuttle at its Detroit-Hamtramck plant—the former assembly plant for the Chevrolet Volt, as well as the plant expected to make GM’s electric pickup and some of the 20 electric nameplates due by 2023. An employee letter sent by GM’s VP of global ..."
     publishedDateTime: 2020-01-24T19:45:00Z

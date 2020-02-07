@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Tailoring A Computer Vision System: The Art Of Balance"
-excerpt: "A successful computer vision model is a combination of the right platform with proper settings, trained with the appropriate dataset by a well-qualified engineering team."
-publishedDateTime: 2020-01-23T15:47:00Z
+excerpt: "CTO of Athena Security has built an AI system that allows security cams to detect a gun before it goes off and call the police in real-time. Various AI and computer vision technologies have begun ..."
+publishedDateTime: 2020-01-23T14:35:00Z
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/tailoring-a-computer-vision-system-the-art-of-balance/"
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/tailoring-a-computer-vision-system-the-art-of-balance/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/23/tailoring-a-computer-vision-system-the-art-of-balance/amp/"
@@ -24,11 +24,11 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1020317514/960x0.jpg?fit=scale"
-    width: 711
-    height: 474
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-29-2.jpg"
+    width: 640
+    height: 640
     title: "Tailoring A Computer Vision System: The Art Of Balance"
 
-secured: "SU6z8ASpE7uiBcNIWZn1RMbvgbl873IpPdQc2dGg9Iw9sOYLPueb2vJyDrvSBKauExjJLUuMCA3P99QQIpH9q3VcjBBy4wkyjrdgEdN3QKMLmBomydhHJ6EKAkPGOmZQUgeKo7M41Xg6X7WxtCSCOzxqkLRc/4E7w89YheS4CnL7q9VSeKCYN58UlslZ1oh2NMXeML4kSzPIoYRBvckV2bqJyADWrYByXarb3gWCkl3sKYB5IuZNWbc1V52tzDZADOsfYzNoaYQQOGZzUb09t8HwvGWpgY0/kBd5GFG5JMLTAfy4cFBBEXZeVGx1CKW5m85zP+0rei3OEoyDIdUkWItsBEq8Gkv5JOx44ZY/YFeuyDeBsPmiFHLOo2yMXp2kHt3ZihfLkXkhpwgu/swW5+ffYxKwJ9kDFFFt8UsAEZYrhENzsOlzEASJ+LsQcLRo4DzYUibtHSuR4kBeDjmYMQ/QHTna5dAfDttZnN1S+Dc=;fgjk4Jiys/IPTMtBHRtK2Q=="
+secured: "WWHoIrSw555vELr8NxKOiFiBKIuRcYLRyr7mj32cQ7S8eYcxpzEB61fSGprOxtMhZWJ4RiASE64ITSQUCipNVbce+b7knsGBu0Tr7Erg5JnZoQCkShAeWESidOUT5/ydZKJmCZetUHQNL3M0bXpT5pc2r2rUHttQ6hUeDUPxnRgcy+qDM99T9CgXgq3h3mOTvJZucVO5mfn/q7DYpRAjJ7Xhvx1WbMC+TGgr4k0cANvzX6zqEZNgX6Fs7BsKEkU9IczlANLVz8gp2W2Kl/Fe9VJ7e3dDocL4/aZCOByshw0KgzNCHyj335pJweG4dnHM;Qd8+idwZbeBXfBtH1XetIQ=="
 ---
 

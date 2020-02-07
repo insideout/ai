@@ -643,17 +643,6 @@ related:
       - url: "https://media-eng.dhakatribune.com/uploads/2020/01/watermarked/new-1580299156638.gif"
         width: 600
         height: 315
-  - title: "Twitter tells facial recognition app, Clearview AI to stop collecting images"
-    excerpt: "The controversial app uses over three billion images to find a match. These images have been sourced from various social media sites including Facebook, YouTube and Twitter."
-    publishedDateTime: 2020-01-23T14:37:00Z
-    webUrl: "https://www.hindustantimes.com/tech/twitter-tells-facial-recognition-app-clearview-ai-to-stop-collecting-images/story-PJQjRcqb2cYNDgZkEsr09M.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/twitter-tells-facial-recognition-app-clearview-ai-to-stop-collecting-images/story-PJQjRcqb2cYNDgZkEsr09M_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/twitter-tells-facial-recognition-app-clearview-ai-to-stop-collecting-images/story-PJQjRcqb2cYNDgZkEsr09M_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 51
   - title: "Sen. Edward Markey Poses Questions About Clearview AI’s Facial Recognition Tool"
     excerpt: "Sen. Edward Markey (D-Mass.) sent a letter to Clearview AI CEO Hoan Ton-That expressing concerns about the privacy risks posed by the company’s facial recognition tool. In the letter, Markey wrote that Clearview’s tool allows users to capture and upload pictures of strangers and analyze the biometric data of photographed individuals."
     publishedDateTime: 2020-01-27T21:24:00Z

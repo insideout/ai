@@ -114,21 +114,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F55c44a8e-3631-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "Twitter sends cease-and-desist letter to facial recognition firm scraping its images"
-    excerpt: "Twitter sent a cease-and-desist letter to Clearview AI, the company that created a vast database of photos scraped from public-facing photos, which can be used with facial recognition software, demanding that it delete any data collected from their service, according to a new report. The New York Times reports that Twitter sent Clearview AI the ..."
-    publishedDateTime: 2020-01-23T15:01:00Z
-    webUrl: "https://www.dailydot.com/layer8/twitter-clearview-cease-and-desist/"
-    ampWebUrl: "https://www.dailydot.com/layer8/twitter-clearview-cease-and-desist/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/twitter-clearview-cease-and-desist/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 52
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Twitter-Clearview-AI-Cease-And-Desist-1024x512.jpg"
-        width: 1024
-        height: 512
   - title: "Facebook will pay $550 million to settle a class-action lawsuit in Illinois surrounding its alleged violations using facial recognition technology"
     excerpt: "Facebook said on Wednesday it reached a $550 million settlement in principle related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent. The settlement is the largest payment from a company to settle privacy complaints, a press release from the law firms Edelson, Robbins Geller ..."
     publishedDateTime: 2020-01-29T00:00:00Z

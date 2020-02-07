@@ -131,21 +131,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F55c44a8e-3631-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "Twitter sends cease-and-desist letter to facial recognition firm scraping its images"
-    excerpt: "Twitter sent a cease-and-desist letter to Clearview AI, the company that created a vast database of photos scraped from public-facing photos, which can be used with facial recognition software, demanding that it delete any data collected from their service, according to a new report. The New York Times reports that Twitter sent Clearview AI the ..."
-    publishedDateTime: 2020-01-23T15:01:00Z
-    webUrl: "https://www.dailydot.com/layer8/twitter-clearview-cease-and-desist/"
-    ampWebUrl: "https://www.dailydot.com/layer8/twitter-clearview-cease-and-desist/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/twitter-clearview-cease-and-desist/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 52
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Twitter-Clearview-AI-Cease-And-Desist-1024x512.jpg"
-        width: 1024
-        height: 512
   - title: "PopCom’s Interactive Retail Kiosk Incorporates Facial Recognition, Data Collection"
     excerpt: "PopShop is designed to allow e-commerce retailers to have a physical self-serve presence in the form of an interactive kiosk that uses facial recognition. The kiosk’s management software collects customer demographic information at the point of sale, along with monitoring inventory, capturing sales data and generating insights for lead ..."
     publishedDateTime: 2020-01-30T13:48:00Z

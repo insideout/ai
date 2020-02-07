@@ -168,21 +168,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F626535545%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5594%26cropY1%3D275%26cropY2%3D3421"
         width: 1200
         height: 675
-  - title: "UPS testing self-driving minivans in Arizona"
-    excerpt: "ARIZONA (WSYR-TV) — UPS will start testing out self-driving minivans in the Phoenix area in the coming weeks. The tests will involve Chrysler minivans delivering packages from UPS stores to a sorting facility in Tempe, Arizona. Deliveries to customers’ doorsteps are not in the cards for now and during those tests, a driver will be on board ..."
-    publishedDateTime: 2020-01-30T17:37:00Z
-    webUrl: "https://www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/"
-    ampWebUrl: "https://www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/amp/"
-    cdnAmpWebUrl: "https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/amp/"
-    type: article
-    provider:
-      name: LocalSYR
-      domain: localsyr.com
-    quality: 44
-    images:
-      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/upsvan.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
   - title: "Self-driving shuttles tested in Linden"
     excerpt: "Self-driving shuttles began traversing the streets of Linden on Wednesday, and community leaders and residents hope the pilot program will show the need for continuing such service. The two 12-passenger shuttles — one blue and green, the other rainbow-colored — began serving the public at 3:30 p.m. The free Linden LEAP — for Linden ..."
     publishedDateTime: 2020-02-05T21:13:00Z

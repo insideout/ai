@@ -5,8 +5,8 @@ excerpt: "‘I Could Never Trust Them’: The China Factor in Taiwan’s Youth V
 publishedDateTime: 2020-01-10T00:00:00Z
 webUrl: "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "R2qydszj8Ymj3hY10eiBSXj0IXchz1NKwn547oyt9uksp3v7qlSVc2CiIWD4K5NNAgVyAlnVerDq8Tp30sIQR4w5Irwho8jnn4XLkkGn0H1J0TFm7snEOROI6GZh1lweJCg6MhCnhfQrTcFjDeSQpAxJHPGQ52Ir3na+dCVJ2rOkztcp2BIy1ID9ZtEDb3jOW3FyqdR2poTcPwjwb0NpTlMgxe1sUFcwWDCPLig6s1TZZG2EcG+OBJvSGzUcdMyJLc0VdvKbGroW+3dZ6F57mGPdhv1J3mG0lyCIWgqsW1IDZmrR3psz1Jok5MmQncro;VbqGlhCqUIr/Z1biaul10w=="
+images:
+  - url: "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg"
+    width: 600
+    height: 400
+    title: "Meet Russia’s New Killer Robot"
+
+secured: "ghpd/U95sxClFfFHHX/ssWVbnK6GD20YWKGdoKHV0Sk05KHY2fhbsfwgdVwqCwnWW6kQFXE+nl53JFII7Xrk07L+866YAdjQnPf4B+x9nYglqqjS8zKrzWDpspvWz/zQqhd+KdAmVsgR579Koerd2LJxTn2tKSjT39SHg9yl+7RdlWit0bUHUbNmTmWJetVrjA1Ch9hAj4yIBOAFsLho2D8G6gpj5wcqhG4fjUulc1w6SxwwqmWvPFJhTFXzOUjoWhdn3qHN8tlzdwJ8ZpfXSDzbR5uSiFOztEIXn0H95WMkSf74im7OUTUnW2fBf3yO;a9Oj3Jm0FXW6iTSdlWo3pA=="
 ---
 

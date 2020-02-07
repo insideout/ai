@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-way
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/01/31/yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will/amp/"
 type: article
 quality: 81
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -119,15 +119,6 @@ related:
       name: Snopes.com
       domain: snopes.com
     quality: 19
-  - title: "Waymo self-driving minivans to deliver UPS packages during pilot in Phoenix"
-    excerpt: "Waymo's self-driving Chrysler Pacifica minivans will shuttle packages from UPS Stores in the Metro Phoenix area to the UPS Tempe hub as part of a pilot that will explore customer and operational benefits and illustrate the ways in which the Waymo Driver can deliver on behalf of clients safely, efficiently, and, eventually, at scale. The pilot ..."
-    publishedDateTime: 2020-01-30T14:55:00Z
-    webUrl: "https://www.telecompaper.com/news/waymo-to-deliver-ups-packages-during-pilot--1324639"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "VXm6L83f9+nBFwbNWEodVRcnQa9vTBwCLJnQKW0XjnUUKXfqfKUgSxafyH4oEJwrfhLSQRx3ECqOBgsvC9QbB7lS5PwmkrW5oYuekGNbc7kOwZhHHlxaWEyn7TlRhEKFv+DluvMr0YBF4b7x/0oqjtbYB8cPV8b4AG/al46JvxTsrb1C4U5eLo/6UovkfoZAxrPH/GcCzGuz0NffotBPw3bD70bJgNETKGcr79GN5Bud0udKL+U3himGYAXDaTxtkUrok9YFLD3a4KhRLOyD0CSOxl23lUPACqPlIWmcGdxWBJSWX1W0ucqL2GKeKGegmv8hMO6QPbgg//3XoQqdERVao+SaQsmdPuoB3R/z0Psuawbvj9nRjLBUdqI2Z5F1qTa89qArQOz88W4SRQL+iXpjFMRdtyuI0JbLxGtBpnzQ52Hd5awBW9KZyfTAksmMwXFp8EtpvG59kzWeAGHqG1V4rb9+soEDw7cNXGHwyLo=;rtVjtHjGjuInIzC1Hc/tFQ=="
 ---

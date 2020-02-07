@@ -63,6 +63,21 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin-3.jpg?ve=1&tl=1"
         width: 640
         height: 320
+  - title: "GM investing $2.2 billion into electric, self-driving vehicles"
+    excerpt: "UNITED STATES (WSYR-TV) — General Motors is spending $2.2 billion to refurbish a Detroit factory so it can build electric and self-driving vehicles. The company hopes the new factory will bring in 2,000 jobs to the area. GM has said it plans to start building its first electric pickup truck late next year. The truck will be the first of ..."
+    publishedDateTime: 2020-01-27T17:37:00Z
+    webUrl: "https://www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/"
+    ampWebUrl: "https://www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 44
+    images:
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/generalmotors.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "General Motors to invest $3 billion on electric and self-driving cars"
     excerpt: "General Motors announced it will shift company gears from gas-powered cars to electric, and the Detroit-Hamtramck plant will be at the heart of the change, receiving $2.2 billion of the investment CNBC reports. According to Yahoo! News, this investment will bring 2,200 jobs to Detroit. GM president Lloyd Reuss told the Detroit Free Press that ..."
     publishedDateTime: 2020-01-28T18:13:00Z
@@ -123,6 +138,19 @@ related:
       - url: "https://www.metro.us/sites/default/files/main/articles/2020/01/23/LYNXMPEG0M1ZY_FES376_1579824019_724231618_0.jpg"
         width: 800
         height: 533
+  - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles"
+    excerpt: "GM will invest $3 billion in Detroit-Hamtramck, a plant previously categorized as \"unallocated,\" to build electric and self-driving vehicles."
+    publishedDateTime: 2020-01-27T14:13:00Z
+    webUrl: "https://www.businessinsider.com/gm-is-revitalizing-a-near-death-factory-to-build-electric-and-self-driving-cars-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
+    images:
+      - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
 
 secured: "ZpsyVuwmsTav376NWatNIeaz9r6DeNrdR8jj9yn5SoVaKbHartU/sWrZxcZceJqGwn6oaVJ9b1gMyr0FDfVBBDHG1rMPFEMXLv2jmJVdldWrWaYJdn/mpwvQ4eQkETYcJVAGPRemszwojxQ8dNl0jUgHy/QqRkwdZU9fEJmT8STgFdfmcb4cY19h0hgwPDclmgvKHeR6oy2aROtAY34qXZYeBnRHCLfjt2s9mMfaOhNVUQuNza6+mFdU0Y2wej2bxv2DjCfYWrBAVvy1/PcuOeJNvJTGcuSaWjvt2/72KP072gsE7+HTJjU2WTzkBWfzwKc0GU1iWEc0emV6EpbsOuvd7antUuER6lZQiE4n/VSD+R7kJxS/qTd2NLoalb0GuBI1itV/vo4oJld3Z07aOTRSN96GetGY6Zz0y+mesEHgpbOFerRWDvG6ixyV/dm932+nnkc8E4/hmTvLac5GBNelaXgMhri+My/wKlRKnD0=;CV+SedLhSyz8m5A3PjFdzQ=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/qut-to-use-ai-and-ml-in-gol
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qut-to-use-ai-and-ml-in-gold-coast-future-waterways-project/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 2048
     height: 1536
     title: "QUT to use AI and ML in Gold Coast future waterways project"
-
-related:
-  - title: "The future of AI in warfare and counterterrorism"
-    excerpt: "In fact, in some ways Richemond-Barak’s presentation was an attempt to balance a discussion of AI and war that has mostly revolved around the worldwide civil society Campaign to Stop Killer Robots. The campaign was launched ... then even if human operators are in the loop, they may start to undervalue their human intuition and base too ..."
-    publishedDateTime: 2020-01-23T14:49:00Z
-    webUrl: "https://www.jpost.com/Jpost-Tech/The-future-of-AI-in-warfare-and-counterterrorism-615112"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 41
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452274"
-        width: 822
-        height: 537
 
 secured: "aWJbpaOwjvKPKFKfestFAXicX/wdid9NN6gCJcxaRHB9vm1deWN0rwRB1+VHYhO8QYvhOVh15orDoK9pVS7L2Pn9CAuleIPbjykX9wz2br8nrZ05XB0nxRjqW6AnLiyKducurx3/b2mPrHnFV2TvUWGobzF2gOmjq2FAWHrjvBaH6DJnsDL7lD4arGlJ0FhcKIqzvzm2iySVljap+65Uty93EHreGN+dK6PGqZZuG+ji7DXYyFroDGciwzWvijWx88eG0Zwp/BGYjBzUj31hygOuo5MZe0VduZSfTRjd6KN8Bp+2lBrh1hnEKUvYqb7dVLO/FRVYtbyFi8YBp+OpyF1blhyH6sLBQ9rd7vjOYmbZGk9I/5ZWXeVzio9z6LPpxu+2C1eY8zM8koC1+QnR+/5y2y96Td4Khpncmm++iiSuL2PDO1M79uMOkdK4vuzXHxqmzYWDbUksyTk69c+OwS2BmCHEsYSAxtvohe991SA=;693btP6UPo500V/m4veq1A=="
 ---

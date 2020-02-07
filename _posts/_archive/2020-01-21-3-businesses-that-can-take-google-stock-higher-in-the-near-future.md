@@ -4,9 +4,11 @@ title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
 excerpt: "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a license to start testing driverless cars. Waymo is moving forward with plans that could be easier and more lucrative than operating robotaxi services. Specifically, the company is developing self-driving trucks. Compared with providing robotaxi services ..."
 publishedDateTime: 2020-01-21T11:55:00Z
 webUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/"
+ampWebUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
 type: article
-quality: 4
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/Googl_1600.jpg"
+    width: 1600
+    height: 900
+    title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
 
 related:
   - title: "Machine Learning: Automating Businesses for the Future"
@@ -31,38 +39,7 @@ related:
       - url: "https://www.cioreview.com/news_new/sliderimage/dtrw7.105.jpg"
         width: 300
         height: 400
-  - title: "Machine Dubbing: Amazon AI Opens New Chapter in Automating Media Localization"
-    excerpt: "Cloud-dubbing is so 2019. Machine translation researchers are exploring a new frontier in natural language processing, machine dubbing. A January 2020 research paper by a team at Amazon AI, a unit of Amazon Web Services (AWS), explored new techniques to make automatic dubbing appear more natural. As the paper pointed out, the demand for ..."
-    publishedDateTime: 2020-01-24T07:10:00Z
-    webUrl: "https://slator.com/technology/machine-dubbing-amazon-ai-opens-new-chapter-in-automating-media-localization/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 36
-    images:
-      - url: "https://slator.com/assets/2020/01/aws_machinedubbing.png"
-        width: 600
-        height: 400
-  - title: "International Business Machines: Doing Better Than You Think"
-    excerpt: "Cloud & Cognitive Services continues to generate positive ... Granted, the cloud growth rate does not match that of Amazon (AMZN), Microsoft (MSFT), or Google (GOOG). But still, in Q4 2019 ..."
-    publishedDateTime: 2020-01-23T23:04:00Z
-    webUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-you-think"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
-  - title: "International Business Machines Doing Better Thank You Think"
-    excerpt: "Cloud & Cognitive Services continues to generate positive sales growth on a year-over-year basis albeit at a single-digit rate. This is good and the underlying cloud growth rate is double-digit for the past two quarters on the strength of the Red hat acquisition. Granted, the cloud growth rate does not match that of Amazon (AMZN), Microsoft ..."
-    publishedDateTime: 2020-01-23T20:54:00Z
-    webUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-thank-you-think"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
-secured: "Uu1eoPpKOxEvc14JKPnT/ykOIyj2eyDWhBr/7juYtfa89C5iDB0vJF8QZCErN7+lhdm2WssBST/NPu9B60U4rxZ/0dzX6WwvH0zv7vLk7kVdU6OgBzkvgXzeIQurx4/srEbxxrr7ANe0c4kExMNsmoxghczuKHa1CBw4EXHLRsKfIVlwgVldNhSGx0asv3MxbyadRPNS+JdIG2O1Nka/ytsrxxImNfhQjAB3WWOu+D61PailJwL6ZJu6OvHKY2aAKNVcvGhTuDQ4492GXBmTpPi2Dg+puf77oWzgtVmZ2qszakMLyZiKtFe0197s880l6DmNOGPKA7nh3VKWjvu8PTYdPR3QaM5LrHA5WVuIlCRKfH9h9dAxVHCVdTFAEplfgY8bDm3zqUcdpqxvpFqOgkCvdGPgcdozvnV5EeddpkqMm1oJuGsAUs18ZUwAT0G7IywVPP5f5kGdEavYAEQ7sIIIMM4VeyKUdB5/UJnEajg=;Md4FWP/SG7NqMM5f00Ayaw=="
+secured: "jOJ2/e6C2XllaemfzKQLr7WbpJe07LkJWg3B7WOw2iLtcJ56kSXAi6DZRK/EGPo6Rkp8rw3FIL8ULK/WkVdVwGQz6bn+ttW7lBavWwXKIj6mCy+hV5botavHYwFZzFSH0pN8crpC596/8wzJo3Zwr8EsGxgUhwJvBMlDfxfGE8dQpFGT7zYRX4ixLXOa8oot6TjlgzSOC14lyWGEIUyPTEwLX/rzK40AIJ3b6gvp6UIv2kdphXGN4gf44L2+d9n84/trQ8RX/CN1Elusm0dDJQNheDPQ6sMmPUZDDYIBgUWGWO8HCeJ2MQ0eN1X3M/+O;wVIfqHf2Uy79PcjG9fXPLw=="
 ---
 

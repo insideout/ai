@@ -63,19 +63,6 @@ related:
       - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
         width: 320
         height: 210
-  - title: "How Genesys is personalizing the customer experience with Engage, Azure and AI"
-    excerpt: "What cloud, AI and machine learning enable is the ability to make every experience unique to each individual ... Our customers are really excited about this combination of Genesys and Azure. They can simplify their maintenance, reduce costs and streamline the buying process. We believe in the advantages of moving to cloud, and obviously ..."
-    publishedDateTime: 2020-01-23T15:21:00Z
-    webUrl: "https://news.microsoft.com/en-my/2020/01/24/how-genesys-is-personalizing-the-customer-experience-with-engage-azure-and-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 50
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/430/2020/01/12-Body-Barry1-1024x461.jpg"
-        width: 1024
-        height: 461
   - title: "Genesys expands partnership with Microsoft Azure"
     excerpt: "Customers will benefit from a streamlined buying process that puts them on a clear path to the cloud. The companies are also exploring and creating new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers."
     publishedDateTime: 2020-01-23T16:22:00Z
@@ -94,19 +81,6 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 34
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
-    publishedDateTime: 2020-01-23T15:23:00Z
-    webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 14
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
-        width: 1024
-        height: 803
 
 secured: "t7SWu/w7hnO55mjTBTrVJSGndbfzWIM0vTULB4eBjH6SWeYvQxMB5aZY8/ptTEhhDlpOTGu2Kl56fhsgiDV/Lq/TVYaVRWbrVj7dN2JmjSI9r6wXrE/I+bGk2ddcE8N+G27ael/G8bL6K6xEGcQHp8v1CFy9Fw7J7h5XX//11AkcpnCfhd9TSOQ4tDsO9t6uXNVe3xlZtk/0vrCRYXQdvwg+pFwRM1HH83Uuwo0l1eyEztjn/xNxYwAZD5iSxIn0rFB/y/9MXjzWLxxsSNThWWuuRCT0MaXeHof8cRzdEf9MPFV567N4FS2CduGrUUMtJV8Firy6YrIJSjd/pemRhXPFHRdIhx62LlvFSsDEVRZkW8fWQkpkHut4kxdEBwnHIApL3VCM51Qo9XRj9HNbKHCBl2o7lDiJdeRp5IJs7ycIGIyNGAKJyh0JwIqgmK18NUJVUidTjjIuAB41p9j1vricJW+Wdx6g4N76gT+NfuU=;QebpRGhKISS9b6SEuw2hmQ=="
 ---

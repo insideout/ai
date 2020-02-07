@@ -24,88 +24,47 @@ images:
     title: "The rise of facial recognition technology: where we are and what to expect"
 
 related:
-  - title: "How LSD, Nuclear Weapons Led to the Development of Facial Recognition"
-    excerpt: "We have Woody Bledsoe to thank for being one of the fathers of facial recognition technology. In the early ’60s, this sharecropper’s son from Maysville, Oklahoma was a pioneer in having machines recognize faces. Bledsoe’s early research into facial recognition technology attracted fans, most particularly, the U.S. government and the CIA ..."
-    publishedDateTime: 2020-01-29T16:44:00Z
-    webUrl: "https://observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/"
-    ampWebUrl: "https://observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/facial-recognition-development-history-woody-bledsoe-cia/amp/"
+  - title: "Object Recognition Is The Answer, Here’s Why"
+    excerpt: "From all of the different sensors out there, and all of AI's capabilities, which has the highest likelihood to help solve a problem?"
+    publishedDateTime: 2020-01-29T19:35:00Z
+    webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/"
+    ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
     type: article
     provider:
-      name: Observer
-      domain: observer.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/GettyImages-1080200064.jpg?quality=80&strip"
-        width: 3500
-        height: 2334
-  - title: "Lightfoot urged to pull the plug on facial recognition technology"
-    excerpt: "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\""
-    publishedDateTime: 2020-02-04T11:33:00Z
-    webUrl: "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
+        width: 1200
+        height: 800
+  - title: "Top 7 Usecases for Touchscreen Object Recognition"
+    excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of ..."
+    publishedDateTime: 2020-01-27T13:27:00Z
+    webUrl: "https://www.digitalsignagetoday.com/whitepapers/top-7-usecases-for-touchscreen-object-recognition/"
     type: article
     provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 59
+      name: Digital Signage
+      domain: digitalsignagetoday.com
+    quality: 39
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg"
-        width: 640
-        height: 480
-  - title: "Facial recognition fails in China as people wear masks to avoid coronavirus"
-    excerpt: "For hundreds of millions of people in China, the spread of the new coronavirus has caused abrupt changes to the smallest of habits -- even a gesture that most in the country are used to by now: Looking into the camera for facial recognition. Residents donning surgical face masks while venturing outside their homes or meeting strangers have ..."
-    publishedDateTime: 2020-01-29T23:09:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3048147/facial-recognition-fails-china-people-wear-masks-avoid-coronavirus"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 52
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/01/29/mask_3.jpg?itok=o51DKRSy"
+      - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png"
         width: 1200
         height: 630
-  - title: "Landis+Gyr's Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
-    excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not \"smart.\" Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
-    publishedDateTime: 2020-01-29T14:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-landisgyrs-revelotrade-brings-pattern-recognition-machine-learning-the-/2020/01/29/9088829.htm"
+  - title: "Army is finding ways to thwart hackers using images to mess with object recognition"
+    excerpt: "Teaching a computer to categorize things like a human is no easy task, it’s harder though when an adversary is messing with the data. The Army wants to use facial and object recognition software to speed up its decision making and bring analyzed data to the warfighter so they can make informed, split-second decisions. The problem is that ..."
+    publishedDateTime: 2020-01-28T22:30:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2020/01/army-is-finding-ways-to-thwart-hackers-using-images-to-mess-with-object-recognition/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 33
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
-  - title: "Army developing binoculars that can identify far-off faces in the dark"
-    excerpt: "But as the Army develops increasingly advanced technology, its enemies are also getting better at hacking into these systems, researchers said. Hackers can cripple facial and object recognition systems during development, said MaryAnne Fields, program manager for intelligent systems at the Army Research Office. The Army recently funded work by ..."
-    publishedDateTime: 2020-01-31T11:53:00Z
-    webUrl: "https://www.stripes.com/news/army-developing-binoculars-that-can-identify-far-off-faces-in-the-dark-1.617023"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 24
-    images:
-      - url: "https://www.stripes.com/polopoly_fs/1.617025.1580471460!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
-        width: 490
-        height: 506
-  - title: "Chinese AI start-up develops facial recognition to help identify febrile person amid coronavirus outbreak"
-    excerpt: "Chinese artificial intelligence (AI) start-up Face++ has developed a temperature screening tool that can help monitor human body temperature in crowded places and identify individuals who might have a fever using facial recognition technology. The system is on a trial-run in some subway stations and government offices in Beijing’s Haidian ..."
-    publishedDateTime: 2020-02-05T03:35:00Z
-    webUrl: "https://www.globaltimes.cn/content/1178554.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 20
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-05/02fe8773-384a-430e-8315-b01d2eb69fc7.jpeg"
-        width: 500
-        height: 300
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2018/10/military-cyber-talent-e1580247727182.jpg"
+        width: 1200
+        height: 798
 
 secured: "Lcqc72I8qI1FeruToqQOvLmJa881UWCR+ZNWe934DEZZa0cE/7V9fZlEvzNVGhNU277eq7Pxi/Gr3FIfCrrvCvZkMFSGIySaK7/42AZUeL9H1z5K0ZRJzVwitL/NA5K1r1WjMXCG68uJ0v6uV0cspOFe7eKcDCo+CcMlI2PrmWq0rJ2vUqSsT5WXlO1EFbix0KVb69d+lTXcYY/Mrav407UbSYCjXVUHVMNvebHH9hFINWuyBeXeWIXDG280M+feJEJvvaL2rbz+qyodMeGN3gFuQ+mWwWgCMPKjZYllmW+jvqnipgLf0trIWO2OIHal;6HpSK9ZqRmGGZvi8uvZcdg=="
 ---

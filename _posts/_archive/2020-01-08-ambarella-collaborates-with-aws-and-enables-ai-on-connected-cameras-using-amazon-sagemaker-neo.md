@@ -4,10 +4,12 @@ title: "Ambarella collaborates with AWS and enables AI on connected cameras usin
 excerpt: "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped ..."
 publishedDateTime: 2020-01-08T11:10:00Z
 webUrl: "https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html?ref=nav"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 77
+heat: 77
+published: true
 
 provider:
   name: SourceSecurity
@@ -17,17 +19,12 @@ topics:
   - AI
   - AWS AI
 
-related:
-  - title: "Machine Learning with Amazon SageMaker"
-    excerpt: "Luckily — there is! And that is why start talking about AWS SageMaker. This Amazon cloud service was created with only one idea in mind: to put machine learning into the hands of every developer ..."
-    publishedDateTime: 2020-01-07T11:53:00Z
-    webUrl: "https://medium.com/webstep/machine-learning-with-aws-sagemaker-e846c2070e02"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 49
+images:
+  - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg"
+    width: 612
+    height: 355
+    title: "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo"
 
-secured: "iaHQZPWfuBo2cdewmntR9qd7kGGPEv5VOD07WSki8Gn/BcWILB25+v7xOofpLiydgVsCte9jkVhztpjQDzHVyHqbb/uZgfLLpkynmwBX3/ns1hw+CEPx5mwB/BSGjQru8AQeOWlfD0y+wVknIEJW58NLjifNX4uyX9CYqXipJTYgsbx5+ORJ7fjKUj6ZP6NItnepjKds6fHgeQsD9djG64yj1BngRIkOLkD0Hs5DerPgV+dAcxd0b00J87TjcrD/AseT4Oyz1z+gm/MaTEN+olvUjy0dQ2UAW5xUWXrQfsbh8LItc478IMTqTQz8cBfl;6ydK7Ms7EQU+Zc/fR+nE4A=="
+secured: "SF8wn4r5Uqj5+M8XDUigcWg9+qmPrHZDFR93OEEnxEnMZc4kmxFoCOcqdfFMwFOjC2rILYGi68pL+utqooSbmUHhug/+ivwFjz0WlLhG5B0NKwedOcyTzYtaKkSifELnP+zgBNxsw0pniRuCnyxE0WI71KNQ2uHBbGIYfYLAlK827YLVhMGkuv/jE2IEEhidwjtiM7sfYunUQekpTWpqsOB8Iz98DAP1u6C3uZi0seWM3l3mYp4+MM3McruYTnV3w1J0G+XnhDiUYA1O1uTHwc+OsGgPnNv53w4ZjO3y0HJ34fTqVW8OrLr6d6hNjEmj;1sfBsVHnWeaFt1UkE2qscg=="
 ---
 

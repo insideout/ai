@@ -1,8 +1,8 @@
 ---
 category: news
 title: "How AWS is helping boost rugby fans’ engagement in the Guinness Six Nations championship"
-excerpt: "The Six Nations digital team created these capabilities using the AWS managed machine learning service, Amazon SageMaker, to build, train and deploy the models. The 2020 Six Nations will see the cloud services giant provide fans with an expanded range of ..."
-publishedDateTime: 2020-01-23T15:28:00Z
+excerpt: "The Six Nations digital team created these capabilities using the AWS managed machine learning service, Amazon SageMaker, to build, train and deploy the models. The 2020 Six Nations will see the cloud services giant provide fans with an expanded range of real-time, in-game rugby statistics as they follow all the action from the tournament ..."
+publishedDateTime: 2020-01-23T15:57:00Z
 webUrl: "https://www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship"
 ampWebUrl: "https://www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship?amp=1"
@@ -25,6 +25,6 @@ images:
     height: 400
     title: "How AWS is helping boost rugby fans’ engagement in the Guinness Six Nations championship"
 
-secured: "Cxrg0q/sGzSN8TX/nTB+fgzQcoeqNUSSWgtpgU6AOiylsra8zrKFusy57jdqYKQs8HEr7zdx6Q0lgSmVidDD3S4Gsu8ZPc8YiIH/GwVQxDuW/sg2kEmhoww+QjwgElZSNzGooLz63K396fJrCcSP7l77FqjSx7OZcUwGpAaqpv2Vn/Kb6s3/gBtWjp/gBRl6ZREAWnmsYgy5LdeAfLho858mgzBRCguUkGG2Sl3XZgpcHTFgw0sqi9pAHC33xk3mKgzHusVsL7U5PNiZHfW/5Y8U8KpbOEHxDiKjZ5sFPrjH8om+OwWLddioKOukhVJ+iqbJfnKwSp0el99aep390uZJBrtpFEezLJhLE8d2QFdkd5VdF3tKDkGqnIAbKp1rIbArtvc62AIFN56A1g56MkI+yFV7h9gzPRLXI5AabTWA84meoiHKOvzN0p0Wq35D9WCF87ZoGiVVf5hx/CQFYGbesgyBOF7aRG+jHnTe1lM=;zOTKu1epJjKirZxff4SSzw=="
+secured: "lLntD6Mlm+2op4BPX3GiT36qgSFO9+7IY70s+irznoUauVTJ5iT5ZfG2OKzHohajSq3ueGljhzgD8z/kRqrnprdKT9tCBFrB2by2io2oBtuEKzsv2jgQiBHwHeP32wYl4DVTwEdH4yf6sF0lIt78D2FTPTz4Ah4AJh99ba/mhSTzJWBjzAlw+i6hgllwjBgjU45yVWI6WrHmygiZHOn8wulIZq7+hP2hpc9DD7rPfrmRGAEtJD36Y8pryh6xudtfYF2ATt04k9AgxfbBI+yGVMMRC0FX0xsLlUZmvRkLt5sklh9aJUVCjW3V/gMxLhQL;/HvheFu5MXfaIASNgoyJVA=="
 ---
 

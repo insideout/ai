@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-31T11:52:00Z
 webUrl: "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html"
 type: article
 quality: 59
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0127-super-cruise-lane-change-photo-final-1580163336.jpg?crop=1.00xw:0.747xh;0,0.165xh&resize=1200:*"
         width: 1200
         height: 601
-  - title: "UPS and Waymo partner on self-driving parcel pickup"
-    excerpt: "This isn't UPS' first foray into autonomous delivery. The carrier has previously invested in, and run delivery pilots with, the self-driving trucking company TuSimple which plans to run fully autonomous deliveries in 2021. The company claimed it could save UPS up to 30% on transportation costs during peak season by reducing the need to ..."
-    publishedDateTime: 2020-01-30T17:34:00Z
-    webUrl: "https://www.retaildive.com/news/ups-waymo-self-driving-parcel-pickup/571415/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 39
-    images:
-      - url: "https://www.retaildive.com/user_media/cache/9e/37/9e372fece1d2a17b80cd77c603283aa8.jpg"
-        width: 770
-        height: 364
   - title: "When can we buy self-driving vehicles? No one knows"
     excerpt: "Recently, the U.S. Department of Transportation released its fourth edition of guidance for the introduction of automated vehicles. That must mean self-driving vehicles are coming soon, right? Yes. Well, no. Ummm, maybe? Over the past several years, there has been a lot of talk about self-driving vehicles. Whether it’s cars, trucks or both ..."
     publishedDateTime: 2020-02-06T21:01:00Z
@@ -70,9 +57,9 @@ related:
         width: 540
         height: 420
   - title: "Rules eased for self-driving vehicle"
-    excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
+    excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway ..."
     publishedDateTime: 2020-02-07T06:44:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?business"
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?latest"
     type: article
     provider:
       name: Arkansas Democrat-Gazette
@@ -82,19 +69,6 @@ related:
       - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 399
-  - title: "University of Tartu and Bolt presented self-driving vehicles lab’s test car"
-    excerpt: "On 28 January the University of Tartu and Bolt presented the test car procured for the University of Tartu’s self-driving vehicles lab. This high-technology vehicle will be used for experiments in several research and development fields. The aim is to conduct test runs in urban traffic this year already. According to Anne Jääger ..."
-    publishedDateTime: 2020-01-29T13:10:00Z
-    webUrl: "https://www.baltictimes.com/university_of_tartu_and_bolt_presented_self-driving_vehicles_lab_s_test_car/"
-    type: article
-    provider:
-      name: The Baltic Times
-      domain: baltictimes.com
-    quality: 22
-    images:
-      - url: "https://media.baltictimes.com/media/photos/147244_6396144185e3182f4b69e1_big.jpg"
-        width: 855
-        height: 535
 
 secured: "ScRK4OqYEx01hsuMKkJygF/TIMLbZyxdjHEnW8Nq8frhvGysYFnktEF1HDJqlRiHjMJcqB7PuoV/wqWKr4bshLTjtWn6xFBV4m//2KcRffPIL3NRWafS9J/i3GSrQcBvC/kbdx2K8jby1wS3Dug3OUKbCQe2Q4uJlto8T3ziLHfF7WOQ1deIe818MKyigzFcsnP9ty1vvwFKmu5YobMN6nOAtV/mIazw4huPGEBae0uIca2WkfTb3r97uEDKkpRyUi1wlGarKbWBXAg1pSuTbsPd528EMg03cHou1jfQW03pOVa/1c8kZ6VSKf7SI5TO;Y/D8M3DlOvqvmPAcPaYfeA=="
 ---

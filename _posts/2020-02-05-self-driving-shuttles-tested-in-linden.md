@@ -181,21 +181,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "UPS testing self-driving minivans in Arizona"
-    excerpt: "ARIZONA (WSYR-TV) — UPS will start testing out self-driving minivans in the Phoenix area in the coming weeks. The tests will involve Chrysler minivans delivering packages from UPS stores to a sorting facility in Tempe, Arizona. Deliveries to customers’ doorsteps are not in the cards for now and during those tests, a driver will be on board ..."
-    publishedDateTime: 2020-01-30T17:37:00Z
-    webUrl: "https://www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/"
-    ampWebUrl: "https://www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/amp/"
-    cdnAmpWebUrl: "https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/ups-testing-self-driving-minivans-in-arizona/amp/"
-    type: article
-    provider:
-      name: LocalSYR
-      domain: localsyr.com
-    quality: 44
-    images:
-      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/upsvan.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
   - title: "Uber gets DMV permit to test self-driving cars on California roads"
     excerpt: "The California Department of Motor Vehicles on Wednesday issued a permit to Uber that allows the company to test self-driving cars on public roads across the state. The permit issuance comes almost two years after a self-driving car that Uber was testing struck and killed a pedestrian in Tempe,"
     publishedDateTime: 2020-02-05T21:18:00Z
