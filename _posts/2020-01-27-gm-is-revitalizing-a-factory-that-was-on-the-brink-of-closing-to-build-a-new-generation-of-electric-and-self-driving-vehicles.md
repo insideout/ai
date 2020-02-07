@@ -118,21 +118,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?auto=webp&crop=1521,855,x162,y616&format=pjpg&width=1200"
         width: 1200
         height: 675
-  - title: "Uber self-driving cars, with humans in control, to cruise Washington, D.C. Friday"
-    excerpt: "WASHINGTON (Reuters) - Uber Technologies Inc <UBER.N> will put self-driving vehicles on Washington, D.C. roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self ..."
-    publishedDateTime: 2020-01-24T00:58:00Z
-    webUrl: "https://www.metro.us/news/the-big-stories/uber-self-driving-cars-humans-control-to-cruise-washington-dc-friday"
-    ampWebUrl: "https://www.metro.us/news/the-big-stories/uber-self-driving-cars-humans-control-to-cruise-washington-dc-friday?amp"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/news/the-big-stories/uber-self-driving-cars-humans-control-to-cruise-washington-dc-friday?amp"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 39
-    images:
-      - url: "https://www.metro.us/sites/default/files/main/articles/2020/01/23/LYNXMPEG0M1ZY_FES376_1579824019_724231618_0.jpg"
-        width: 800
-        height: 533
   - title: "Report: Cruise Origin electric self-driving shuttle will be made in Detroit"
     excerpt: "General Motors is reportedly planning to build the Cruise Origin electric driverless shuttle at its Detroit-Hamtramck plant—the former assembly plant for the Chevrolet Volt, as well as the plant expected to make GM’s electric pickup and some of the 20 electric nameplates due by 2023. An employee letter sent by GM’s VP of global ..."
     publishedDateTime: 2020-01-24T19:45:00Z

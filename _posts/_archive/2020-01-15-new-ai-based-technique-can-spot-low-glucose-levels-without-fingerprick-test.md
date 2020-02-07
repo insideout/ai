@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-l
 cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,23 +25,6 @@ images:
     height: 365
     title: "New AI-based technique can spot low-glucose levels without fingerprick test"
 
-related:
-  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
-    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
-    publishedDateTime: 2020-01-14T13:07:00Z
-    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 53
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg"
-        width: 1200
-        height: 1000
-
-secured: "0s08Yfv4zqs/DalmuwZ/MlSASO+KL9OlWPri/6CoMSBWmPOc0HhFOSJvKaE/wfp6JTvAItihSEXw0bX9EVWeC6P5gCupz3tMaTAadM9ZjeOdzEgMBHLrP/Tt8/stS8mEGgu3WAnWos/6qwroZuOs/l31nD+Ni/PdvxwvBgn9eiIjsudOPUGdgVJOmv8k/CMJ5Ya7yDFsUWeCMExwjqFjCeOeh63ylA4LTvCn+w+nXXKg47k8qO343G5F8gq4sLmKRB5HNXbLTl9NsOtEeXm2pv4QlyHW0bScOU4f37dOid62sh2HcDmQOFo2D81MeK7D;Y+AKouE9qdGY+3tcS+9FfA=="
+secured: "/N9U0v+EOnkyc0j/3lO2MJCSwNm1fqsfbuWx364bKeRc7b7y+g4B3r1ce8XsQ5TYGHlE2/CTUWyCIG4PjAuRw5xwaJYXmzvq5ZSBW1x7/Se6mJ9XFe0VvmoXra8F99N17qYuImQpkGwMEhqevyQ6GPCSQ4gw0qoOKLQjyTwObT2dLqQhE2Ok1f06jaJZ8P/ywQwSGsWwwpLqEA5UmewTtAirL5pfHm7crTCZm+obRjltaxQseKZjcC3fUJVnzYKxRNBaif8IiTc5Cx0QYxgameUNQ7av6Hbirm0WGXzdDctwUb9Ol/mGo4wZTJIUFRR2;rLdcQ6g1lz7H5754JKgOhw=="
 ---
 

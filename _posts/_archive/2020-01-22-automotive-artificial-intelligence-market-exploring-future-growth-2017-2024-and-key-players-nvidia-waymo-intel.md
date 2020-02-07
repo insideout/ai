@@ -2,26 +2,20 @@
 category: news
 title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
 excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
-publishedDateTime: 2020-01-22T11:03:00Z
-webUrl: "https://www.techworld.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
+publishedDateTime: 2020-01-22T10:53:00Z
+webUrl: "https://www.reseller.co.nz/mediareleases/37810/automotive-artificial-intelligence-market/"
 type: article
-quality: 32
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Australian Techworld
-  domain: techworld.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-    width: 300
-    height: 300
-    title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
@@ -51,6 +45,6 @@ related:
         width: 1200
         height: 630
 
-secured: "X8sk88naHaSs0F8yK05YgXWsRBmvpa7grYqutmNWvEZh8X9iefn1c6PIEricXCGV7d72xPq+XLMQTxvAnVjGQYu+fyBtUZUXKMKG4sHJqWanI5tMYdwWKIxqtr5HyVpsmlyKf8wft4Wnvqym34k9V9oS8rN8Up+PYhxolpUREcsZEnblwlTsuSBHDNcdmGjRMHWg7ubPtndtDfIvdkYdHVPWXNgiDH2fMejtMXFTuKqQxEg6iYdk+teJKFXi+Bh7/fObHHpcbJoMxODfuiB0bxfLhxkvqDOEUmKzyINfQguS5Oua9BwFowab/8wWFwjV;w4Ex1SvDbPSdBCnpia9uWg=="
+secured: "sbEaW/2R0F2ic3hleIMWNIf6i3eFrB6y812Y+rPBtnrZiq+4X+fyXUaQzHijgAW2jwz52rvtKgnhaQm74ARP/1Vn4hWObF+kqdkjfqUWpDesoSaAmw++g4h5Ngh9Rnpw1fcMFPWc9nKZgwfZnPy/PrAF5pB9H4ebUyd/HH5hZZYbLTXmJZjaxEGiSNoNnWxENa/ob/6RZ83EzXs+jGtiNsW8xZua8JPeTEhark1O/MSSF5Slx3jqU/FeGbxfgaSK1XanQ2OMeU2WxvlDZWKUBHvjkdX7V4/pWk1ZBASECYstNHG4wY8wvdtcDnHpBtfq;PKr2tqWvDMLifUDCf3MdSw=="
 ---
 

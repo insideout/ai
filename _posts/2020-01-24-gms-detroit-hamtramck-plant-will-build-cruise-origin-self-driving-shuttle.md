@@ -101,21 +101,6 @@ related:
       - url: "https://images.thestar.com/ubGicgxAN7XcYMEtjqYlMEzp11w=/1200x800/smart/filters:cb(1580139692061)/https://www.thestar.com/content/dam/thestar/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles/gm.jpg"
         width: 1200
         height: 800
-  - title: "Uber self-driving cars, with humans in control, to cruise Washington, D.C. Friday"
-    excerpt: "WASHINGTON (Reuters) - Uber Technologies Inc <UBER.N> will put self-driving vehicles on Washington, D.C. roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self ..."
-    publishedDateTime: 2020-01-24T00:58:00Z
-    webUrl: "https://www.metro.us/news/the-big-stories/uber-self-driving-cars-humans-control-to-cruise-washington-dc-friday"
-    ampWebUrl: "https://www.metro.us/news/the-big-stories/uber-self-driving-cars-humans-control-to-cruise-washington-dc-friday?amp"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/news/the-big-stories/uber-self-driving-cars-humans-control-to-cruise-washington-dc-friday?amp"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 39
-    images:
-      - url: "https://www.metro.us/sites/default/files/main/articles/2020/01/23/LYNXMPEG0M1ZY_FES376_1579824019_724231618_0.jpg"
-        width: 800
-        height: 533
   - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles"
     excerpt: "GM will invest $3 billion in Detroit-Hamtramck, a plant previously categorized as \"unallocated,\" to build electric and self-driving vehicles."
     publishedDateTime: 2020-01-27T14:13:00Z

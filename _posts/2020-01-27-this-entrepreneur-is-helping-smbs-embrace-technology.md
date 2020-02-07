@@ -8,7 +8,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/345546"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345546"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,23 +28,6 @@ images:
     width: 600
     height: 338
     title: "This Entrepreneur Is Helping SMBs Embrace Technology"
-
-related:
-  - title: "7 new ways golf instruction is embracing artificial intelligence and innovative technology"
-    excerpt: "ORLANDO -- Though golf has a tendency to move slower than most industries, the technology innovations we've seen this week beg to differ. Artificial intelligence and robotics have been terms perhaps thrown around in the past, implemented by only the biggest companies, but now we're actually seeing the results of intense research and development."
-    publishedDateTime: 2020-01-24T01:02:00Z
-    webUrl: "https://www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology"
-    ampWebUrl: "https://www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology/amp"
-    cdnAmpWebUrl: "https://www-golfdigest-com.cdn.ampproject.org/c/s/www.golfdigest.com/story/7-new-ways-golf-instruction-is-embracing-artificial-intelligence-and-innovative-technology/amp"
-    type: article
-    provider:
-      name: Golf Digest
-      domain: golfdigest.com
-    quality: 49
-    images:
-      - url: "https://media.golfdigest.com/photos/5e2a231ec1210f000ae31815/master/pass/TrackMan%20Tracy.JPG"
-        width: 6048
-        height: 4024
 
 secured: "mD+yvvX8uElA4xd1ofAoHerqoWl1CoBKrI2WURSvW4qAUmbZGzjjEx8VWijve0j8z1ltPHdb2x+URt0NIRwb3e4e4+93PfVoVoy5W6DUmo4Ia5tRqDbR6Sg5VLSpepdVZgIe8WiuihUnbZ4avtheT/XAY4pKyIRBCGLFzsiiEp1Nzy32k94d9yfGQ+tAXqk2vE1FT4+qy5lf5csstufY0wa1o2pWzio1yxwArJMNh8uU/CPEcAF8nSubglJkrTnSppmwi2t/nL5ihLgY/CMaVR5GGeMj61SJZdmdeG7XZfSe7UmC8SY0OBhyw/A74UqnBZnu5LZq57hYKS+4eXEISP4/JFfFiyen5Rf0/ekSn43hWYzfS3FFjY9sN/0tsbKH5VuU+RpTptgpQscI37Bwz9yRqgkW7skhrwgzGUyL/MS57hWbnWu7HTW54CLUaB5qVOgsL2pXYgQ+U1HE0tVYVulJTzJ77tSSc8BhglansZc=;lXA6TzBGIOkGiWFddPMt3A=="
 ---

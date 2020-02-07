@@ -2,44 +2,55 @@
 category: news
 title: "AI can detect low-glucose levels via ECG without fingerprick test"
 excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-publishedDateTime: 2020-01-13T16:00:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php"
+publishedDateTime: 2020-01-13T16:53:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/01/200113111156.htm"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg"
-    width: 720
-    height: 302
-    title: "AI can detect low-glucose levels via ECG without fingerprick test"
-
 related:
-  - title: "New AI-based technique can spot low-glucose levels without fingerprick test"
-    excerpt: "Researchers have developed a new Artificial Intelligence (AI)-based technique ... Basing on this information, clinicians can adapt the therapy to each individual,” the authors wrote."
-    publishedDateTime: 2020-01-15T10:18:00Z
-    webUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/"
-    ampWebUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
-    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
+  - title: "AI replaces prick test to detect blood sugar levels"
+    excerpt: "The novel artificial intelligence system works as well as ... Hence, personalized therapy based on the system can be more effective than therapies used today. The new approach was able to ..."
+    publishedDateTime: 2020-01-13T13:28:00Z
+    webUrl: "https://www.news-medical.net/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx"
     type: article
     provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 57
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
     images:
-      - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
-        width: 675
-        height: 365
+      - url: "https://www.news-medical.net/image.axd?picture=2020%2f1%2fleandro_ecg_63c541f952b746b48ff02d36b07911ca-620x480.jpg"
+        width: 620
+        height: 480
+  - title: "Sensors and AI spot low blood sugar without needles"
+    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... data would not give the same results. Personalized therapy based on the new system could be more effective ..."
+    publishedDateTime: 2020-01-13T15:41:00Z
+    webUrl: "https://www.futurity.org/blood-sugar-test-ai-wearable-sensors-2254812/"
+    type: article
+    provider:
+      name: Futurity News
+      domain: futurity.org
+    quality: 39
+    images:
+      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/01/blood-sugar-test-artificial-intelligence-wearable-sensors_1600.jpg"
+        width: 1600
+        height: 915
 
-secured: "HKxpWlXlfVxerV9M5GglHyUtXIVf4DNxo0Zgcw9R6pmjJJIS8+mGRk8A8fcRZG5zFOuO0NJUsIxX130YkAxHtYKTpXNok0JePnarE5VvQJEEdHDbxpYQbsyF9B3YjAGcJHoXHnC+DDMxUtOJyHQjMeyTqFwjymSLZV24DZAidRnSE6baiAZs799PnhauGILysml5jbf3gahvRG3X9PBTmwEqhSWIsv/pJl/LpU4IUvUAg9RIEUOhdgUpEcrQch35eTFX2wBUI3wroDcqqRh6xW9afnAJqZoIzmoFHxyJJzjbJv5TQw7URzP0jCaEjXHS;lLUTdtVQ/rxRow5TY+oAXg=="
+secured: "bnLxopP8hsdpEz6BrmSpmy5bUbfykevrs7RRegAxYGFSo52NuGTM5+BRTNtDgDF823jCusEPDeQUqwEUM9HYBG3lutlosOCeNdJ/d28mzLssmiMoJPAxCBP6GiE33o4lL7cM4bRohjB8Sf66rM/mfuZNkSH+MuAxoWLLp4WvBGnK/IVmiB6CRzn0ZMj2wAuKTZuzMNBYpQ0a2JQrYOxTF53HQyPF7M1oOMSpeG2pOD4V3x1/TZDbrRNCUt8PhE3FY//rxklEOqi49fc2g9CWHXx1AOZdRu+sqCGc3Arl42GEWHQyZNobEqZAsiUPI6dR;dWOk+HGp3u0xkjDH+5F0hQ=="
 ---
 

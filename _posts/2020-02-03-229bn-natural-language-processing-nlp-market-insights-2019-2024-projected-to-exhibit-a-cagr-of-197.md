@@ -1,19 +1,17 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
-publishedDateTime: 2020-02-03T10:44:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
+publishedDateTime: 2020-02-03T11:44:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -80,6 +78,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "+OwKzQa5+N9QOq8NvVojI2AIEv7DtHu6ExQIpus68d9CMmMKKTa4t6EaOMh6ay8WPkipJauOdM8l3nzgstWjHyXWdYY+CZSDhoyUqDXGQyDoZdoLXcnNfVw4u0AgPpqF2rZFRCNCyA8NZ5/gl+lxN6J/6+UZ13bAJ49WFwzcbhWa7c1ypty3f0BOuDguz0P4jxuTjJMjrE1p/WC0s23HBjt36XM4vVtQX5N8ILPp/IGt73zTPzjXrBmF6VE6KibrsB9KICHHNxj81rJ6mPSDIQVkZIsetBIsEB6cY7U6QmIv4kd5meGlN237ULWIOl7K;/+Ydiax79SE6cVN8QcMoiQ=="
+secured: "LXZ1CMXXwArtAQ/58QbdF0a1HPtMhUebPkW3DTEbV3PE1AdqZmnmOnJq60JwlL9kD2EH41Yg+YFyYR/TSVqadiRHpYIpJzk2F3ii/INgvFgdcDPRccVd1Gx8C6/W9xnW8hELolJaWapL5LxZEzlb3wDCC1ne03UTlcwjTZ9ucfthdrX3GATcIjXr1TDdXH38mecbN7z8LVpPm0J0LR17CzbD/FfOU89K1jvVAHJLf4Pgty3Fa0CPcw4JP7brmkxW5JDeVCQui+9ncm9fpWAuIK0TAncUr5sqFx59DZEStXDEvtIs2yWBWnLgS23jnrBQ;p/+pma9aYE1vGY/dC6ENBA=="
 ---
 

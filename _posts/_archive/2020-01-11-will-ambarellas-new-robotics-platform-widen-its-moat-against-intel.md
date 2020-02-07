@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Will Ambarella's New Robotics Platform Widen Its Moat Against Intel?"
 
-secured: "IWO0khtOw60hjfThknUC8QgaA81KmsiMBgoIL/QLqfRKqDBvFGg4VszAm5L9K+lLSlbBXZOGq+sRxZVuifgkaIZYQVQTsXZ7N7nWHyiCF6m84Ek3SEb+WzNlqutup7iglriyXeG69RoIS6mGNI/Nv4w6Oo4/CPVNH5HbuwYx9mx3cth1LvYIHbI5X9l/tVy6y/XBpdJZqKFb5pQDmdtggmXDVOO2u/p9F9h+XvxfyyDJlPLWsh8ETHD80q04Mx9M/OKNiPlkTSGCWBUx+BuIa/SEKxip85Xs7VYrCClJ43wOKRIr/w1a9AP2Bx6JXvsh;G//wPO2+hMylP0XBeiDAIQ=="
+secured: "uu9mudK0EZuoJoOYpIkN9xpLWKPzMdM3jcNwY2yXbCjVK3na0dSntZhTbiusNkQtPLrPmVc4TfF52m+6lT0dic3dfO9zgtMyqji55sPuuVfa15VrAxMfnIPnBXF3FzZD6WMD9jaTiE3Pcw/bZj6LjyfinXCwtPelqDqEr1ziyM3k67jEwuhyuk4IygkdvYgMKCQs3f4epPkRbbZCHiFTJjX6Jwm7OMObP2xOytyC1Tzk7FFBjBGAws5dCxVgzXvU5oxOEyimn2PvL/tc6v7SAuRjskRcn4N1dTvJItBLL8dmuPFuAxhnGUGSTXK+wfoo;rSzj28eLvH9Fx/ttypu14Q=="
 ---
 

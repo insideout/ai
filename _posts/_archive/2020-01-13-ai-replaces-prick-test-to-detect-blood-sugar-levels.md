@@ -43,8 +43,12 @@ related:
     provider:
       name: Futurity News
       domain: futurity.org
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/01/blood-sugar-test-artificial-intelligence-wearable-sensors_1600.jpg"
+        width: 1600
+        height: 915
 
-secured: "Yo8CUEQO/UK5b0cj0QN5rGjA+vcDNA8BnRnK5TLMPEKt3TKsobMAh+0ywt23Vv3trc4aDOjUE2PNsrgeXnNvwW0eTQ6dZdgLENgdUvcWJ9bRoH01GRASKqN6T9jreA8ZTTtVIGMyG+ofJvEBYkQjakBQRSq4q5QHR2DfMbO9x9oeQsL6D0PARL2ljVLpIU1IzoI0cPn59FBpfpx33/Dt+JkYkSOU6OkKp/0Cnse8CGEtG7IN9PYYMM+67TSuPiA3cAsZTwDoSdmHpzgP788LNmq/jFUi+0WP3oC4+y/zi019jKWwLhSWRAIlWeI6ztwO;cbFOeYi+aZ4BQBvB0Uux0Q=="
+secured: "lx7dhq2hEz+fKxytorY7INsQycI3bMuyBZgzjUOBPr2I0RxfNc3fwFSn9e1x/nqGtI4hvXo+MbkOl9ptp8OFg9KRwrv+eUtBBTb0uHBI9W9szYmU0YaTWz4XcUZsfBajLi4RP8UQG7Ruc51f6xYa7sS5c3UP4DO7q4CrWdlD7CM25gTqVRsf4A4kBsNJskI6TMIaIkQpegetsjF8/aisHjQchCM75O0K26X3VD7D59ok8+RSsE0XmOB691Y0UCz0m+EWAFggmfi4UAQoDBnWvpVTYKZL2jwR9RwMVpkcSK3eWOQiuSDzQGYL++vnOoey;rW5QXI+oQKWYfCq75UtrBQ=="
 ---
 

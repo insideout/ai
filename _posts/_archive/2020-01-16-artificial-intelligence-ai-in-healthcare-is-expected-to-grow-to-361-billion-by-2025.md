@@ -27,6 +27,6 @@ images:
     height: 632
     title: "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025"
 
-secured: "wvZMKzXJeM5/AiCEeNW3R9461nJrLRlnnJFY4WHwa/fq1Scq7RzyMiYXr9q16PkAZ4PKwUCGkSKjzEry9dktq36XVcqcf9YivHOCHTyCOjVSEhXvcIIfJJRp0SPFjfNK042mEFlsQyaYCn7WUj5UrB1DuWq3TAEusR7TR4YIGI1qh6y+g9mUWiq6mRhCVCAescK3u0buzD4kWeRWwSDBJvSiquBQJt+SaeJg2pxwg8dhCtnWjjDPbRsV1vfNCTx+aGnUwbpDVGAdVIScgFQM47BhCmvg0x22PzPetL3jeBGI31WiSz+xVTPDjBht/dq2;S6FgYMFhVD5UIeOSA1ShqA=="
+secured: "hZrWO6uFghMgEchgqsQtYQU0BWsaCRGXR/CDKDEuRck7J6YqzxbfjEwrv2EnoI0N17r4rMkG3X5zowJlWLxrHrfUcJjJuqOgfzZyeOXgiFsN8Wew4LZFKpE0Kj4jbIKhhVLg6NFt6AVmjhspnXz6qXT90HqsNqXIx2H75k51JbDmLUNLWFWTSqSxWM8VS+Ke+m/l6wZ4iQSc49I6VOwoFnxAC9Javc8RdmJwQSU20tEzCu69x6YIvS/qD26okK6UHMJr23DTZXYK6vqbPuCbbPIi6QVh999JgLZ9BY7LDleOzNrgEyRb8b2FvkdhegVz;SlJCvmkYlLnToHgkcYdwxw=="
 ---
 

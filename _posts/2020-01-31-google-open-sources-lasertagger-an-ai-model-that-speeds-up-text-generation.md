@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/31/google-open-sources-lasertagger-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "Google open-sources LaserTagger, an AI model that speeds up text generation"
 
 related:
-  - title: "Microsoft Open-Sources ONNX Acceleration for BERT AI Model"
-    excerpt: "According to Ning, With ONNX Runtime, AI developers can now easily productionize large transformer models with high performance across both CPU and GPU hardware, using the same technology Microsoft uses to serve their customers. Taking the lessons learned from re-implementing BERT, the Bing and Azure devs updated the ONNX Runtime code to ..."
-    publishedDateTime: 2020-01-28T14:04:00Z
-    webUrl: "https://www.infoq.com/news/2020/01/microsoft-bert-acceleration/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 58
-    images:
-      - url: "https://res.infoq.com/news/2020/01/microsoft-bert-acceleration/en/headerimage/microsoft-bert-acceleration-1580052141385.jpg"
-        width: 2121
-        height: 1414
   - title: "Google Open-Sources Reformer Efficient Deep-Learning Model"
     excerpt: "Researchers from Google AI recently open-sourced the Reformer, a more efficient version of the Transformer deep-learning model. Using a hashing trick for attention calculation and reversible residual layers, the Reformer can handle text sequences up to 1 million words while consuming only 16GB of memory on a single GPU accelerator. With such a ..."
     publishedDateTime: 2020-02-04T14:02:00Z
