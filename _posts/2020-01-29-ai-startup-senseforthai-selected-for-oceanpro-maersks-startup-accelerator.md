@@ -26,7 +26,7 @@ images:
 
 related:
   - title: "AI Startup Senseforth.ai Selected for OceanPro, Maersk's Startup Accelerator"
-    excerpt: "Senseforth.ai, a leader in Conversational AI space, has been selected as part of cohort 3 of OceanPro, Maersk's startup accelerator within the shipping and logistics industry. Maersk recently announced the launch of cohort 3, which focuses on Maersk's e ..."
+    excerpt: "Senseforth.ai, a leader in Conversational AI space, has been selected as part of cohort 3 of OceanPro, Maersk's startup accelerator within the shipping and logistics industry. Maersk recently announced the launch of cohort 3, which focuses on Maersk's e-commerce platforms, optimizing the brand experience and customer journey. Maersk.com is ..."
     publishedDateTime: 2020-01-28T12:07:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-ai-startup-senseforthai-selected-oceanpro-maersks-startup-accelerator-/2020/01/28/9087758.htm"
     type: article

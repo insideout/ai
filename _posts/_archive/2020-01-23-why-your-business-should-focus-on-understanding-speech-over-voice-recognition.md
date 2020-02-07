@@ -4,12 +4,10 @@ title: "Why your business should focus on understanding speech over voice recogn
 excerpt: "If you have ever had to repeat “yes” six times to your automated telephone banking assistant, you’d be forgiven for thinking that automatic speech recognition (ASR) has a long way yet to go."
 publishedDateTime: 2020-01-23T10:36:00Z
 webUrl: "https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/"
-ampWebUrl: "https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/"
 type: article
-quality: 71
-heat: 71
-published: true
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: The Next Web
@@ -23,12 +21,6 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design40-796x417.png"
-    width: 796
-    height: 417
-    title: "Why your business should focus on understanding speech over voice recognition"
-
-secured: "grLou41AT/DTGIDQboo/aoD450vZDguEmOTdS0zheCMwydVbS4FFUgFjno6C3BddpQqLu239vhqzV2GyY9+MXlXOGz5wn7h9kBaA66yd5yja8IzsuCg2tMIf+PQwbh1X/4UHE57c1T2lHD1PwRE9LA2EnDxIzEfpgN5eui3VwESETSkA2UAz4gAGEdGrMGihTO/pzcM5y9U3k6jCjvwgbu6ibnoaknwRzBl4VN+iMYeKgn3mjUMpFXvT7nGMCF3E1qfvNut0vnvW1DBqwn8VDS/72dX/Se8V3FAv8rtqmixqkAkYb2bMbfhikLAxfDlE;18LMWfzCz9rQZrH444xE/Q=="
+secured: "1Xyy6PlFJaZmmTM9TfE9IVyp+Av6trBn4APKNhE0M6MOrelc/4UXuF0lOnY+8brrEqjJVfI913PXCgSKcgsTpmM/iDa0qeDFlTjSjYfQfV5F/ur50FrbcemmZnewPNfjpn7L+RBmpV3RhHVPPYV/lkrU5Hen0l1+nqk5iQlAlhmJdeSvzm5ufibiuMPhwzIeBoQxEZfw13srsfrNZpkuPR9EfnaPtXizrARcUiS4IFZFOUKikA8FdMzXESjPDEhQ6ZFlH6a8WJttTgwb9nrCRkPMIE76dfIt8A0arUo6R2gZmNp+/L8RdVE+3uwoHy0N;FmuZ7pxTksmKPkr/A8LfrA=="
 ---
 

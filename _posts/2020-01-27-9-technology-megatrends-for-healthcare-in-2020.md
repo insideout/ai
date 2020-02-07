@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-27T19:36:00Z
 webUrl: "https://www.healthitoutcomes.com/doc/technology-megatrends-for-healthcare-in-0001"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,41 +24,41 @@ images:
     title: "9 Technology Megatrends For Healthcare In 2020"
 
 related:
-  - title: "Top Trends Driving Technology Innovation Investments in 2020 Revealed by Virtusa"
-    excerpt: "Financial Services, Insurance, and Life Sciences Leading in Innovation to Start the New Decade SOUTHBOROUGH, Mass., Jan. 28, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation VRTU, +0.29%, a global provider of digital strategy,"
-    publishedDateTime: 2020-01-28T13:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-trends-driving-technology-innovation-investments-in-2020-revealed-by-virtusa-2020-01-28-9195110"
+  - title: "6 attraction technology trends for 2020: VR, AR, AI, bots and esports"
+    excerpt: "Last year did not start well for robots. The Henn na chain of hotels in Japan ... An exhibition at the University of Oxford showcased art created by the world’s first ultra-realistic AI humanoid robot artist. Ai-Da uses a robotic arm and pencil to draw what she sees thanks to cameras in her eyeballs. AI algorithms, created by scientists ..."
+    publishedDateTime: 2020-01-30T14:37:00Z
+    webUrl: "https://blooloop.com/features/attraction-technology-trends-2020/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Blooloop
+      domain: blooloop.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Telecommunication Market : Advance Technology Research and Innovation in Technology"
-    excerpt: "Artificial intelligence (AI) is group of methodology that focus on formation of intelligent machines with the help of human intelligence such as visual perception, speech recognition, decision-making,"
-    publishedDateTime: 2020-01-27T03:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-advance-technology-research-and-innovation-in-technology-2020-01-26"
+      - url: "https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2020/01/09114657/attractions-tech-at-ISE-events-page.jpg"
+        width: 1500
+        height: 937
+  - title: "Israeli technology is finding a home in the Canadian health system"
+    excerpt: "That can lead to more effective therapy, Sekuler said. Given the potential of the product and the reputation ... “There’s a companionship element” to ElliQ, she continued. “It uses cognitive artificial intelligence. It learns about you. It’s sort of like a roommate.” ElliQ can play music at a patient’s request, it will let you ..."
+    publishedDateTime: 2020-01-29T13:04:00Z
+    webUrl: "https://www.cjnews.com/news/canada/israeli-technology-is-finding-a-home-in-the-canadian-health-system"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: Canadian Jewish News
+      domain: cjnews.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Medicine Market Advanced Technology and New Innovations by 2025 – InSilico Medicine, Globavir Biosciences"
-    excerpt: "Market Growth Insight has announced the addition of the “Global Artificial Intelligence in Medicine Market Research Report 2018-2025” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. The global artificial intelligence (AI) in medicine market was valued ..."
-    publishedDateTime: 2020-01-27T13:02:00Z
-    webUrl: "https://www.techworld.com.au/mediareleases/37938/artificial-intelligence-in-medicine-market/"
+      - url: "https://www.cjnews.com/wp-content/uploads/2020/01/Iron-Soldier-f.jpg"
+        width: 800
+        height: 600
+  - title: "Maxeler Technologies Licenses Healthcare Technologies"
+    excerpt: "The AI-driven prescription predictive models suggest effective medications that minimize adverse effects. Many artificial intelligence-based efforts focus on the aforementioned problem but do so using “black box” approaches which solve the problem, but fail to provide interpretability. Since prescribing physicians are hesitant to rely on ..."
+    publishedDateTime: 2020-01-25T08:05:00Z
+    webUrl: "https://www.pr.com/press-release/804084"
     type: article
     provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
+      name: PR
+      domain: pr.com
+    quality: 19
 
 secured: "YYZ6bgZyZTH3LMrUoXDJB34jK2RQlOq2JVrirJA+vXmPfTta9XufxIhkc+TnrE6jdbfzV2iwCEguPxt8T/b73ZnoeP1xAsv24AMGiHjTq2TChNHEJWkoIvjK8Wak/qSf01I93t7v81w0MOMwKee6yW9mRVjkqPicIGnljhVJXhJHYazdHsEM0qG2e+4GPWv5TZwPvJd5w8ykMJnzjvCDhfiWfIgq6vTT5PNgkSeesYEhU4EaYTY8rgKjrfy+mTy/gCJWWKUNPockrIrDlYPyPBZmv5Yr/o50EjrlnRJlxmTG0iaE2Q5D8i2F8pe3lkplMo3k1dVfkDiRYgjdJxEv6VMDVDXJcHznRnH0WKfizqbqxhmEq0AdjpRL5vVBqs1GrGvXNsGHe72ja/bE5dBYpvWHEJ8zPhzX0SvxgYMaDEZOxq7kWcCY8lZr6qJ+yl1Zmt9blTURswRI+cOe1Uq+4p1aP5J5L4kKUUHR/hpswM8=;mHZ1KVygXR7yvngpc6w4Kg=="
 ---

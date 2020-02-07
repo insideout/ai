@@ -18,50 +18,32 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis"
-    excerpt: "The Leading Distributor of Market Research Reports, DeepResearchReports.com published latest report on \"Global Artificial Intelligence (AI) in Fintech Industry Report\". Artificial Intelligence (AI) in Fintech Market segment by Application."
-    publishedDateTime: 2020-02-03T09:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis-2020-02-03"
+  - title: "Global Deep Learning System Market Insights on Future Scenario, 2020 to 2028"
+    excerpt: "This report covers an in-depth analysis of the deep learning system market including statistical and qualitative data points with emphasis on the market dynamics including the drivers, opportunities & restraints."
+    publishedDateTime: 2020-01-27T09:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-system-market-insights-on-future-scenario-2020-to-2028-2020-01-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Automatic Speech Recognition Market by Manufacturers, Types, Regions and Application Research Report Forecast to 2024"
-    excerpt: "Bigmarketresearch.com Published \"Global Automatic Speech Recognition Market 2019 Research Report – Forecast to 2024\" – Market Investment Analysis, Business Operation Data, Top Companys, Opportunity, Features,"
-    publishedDateTime: 2020-01-30T07:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-by-manufacturers-types-regions-and-application-research-report-forecast-to-2024-2020-01-30"
+  - title: "Artificial Intelligence In IoT Market Rising Trends, Technology and Demand 2020 to 2026"
+    excerpt: "Global �??Artificial Intelligence In IoT Market Report 2020-2026 provides insightful data about business strategies, qualitative and quantitative analysis of Global Market. The report also calls for market - driven results deriving feasibility studies for client needs."
+    publishedDateTime: 2020-01-29T20:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-rising-trends-technology-and-demand-2020-to-2026-2020-01-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 22
-  - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
-    excerpt: "This technology is used in industry verticals, such as manufacturing, supply chain, and others. Development of artificial intelligence-empowered chips, robots, and others in manufacturing help enhance the overall production line, and thus, has significantly increased the adoption of artificial intelligence in the manufacturing sector."
-    publishedDateTime: 2020-01-27T13:01:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/37937/artificial-intelligence-in-manufacturing-market/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 15
+    quality: 61
     images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
-  - title: "Global Speech and Voice Recognition Market"
-    excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice Recognition report helps make known uncertainties that may come up due to changes in business activities or introduction of a new product in the market."
-    publishedDateTime: 2020-02-03T10:10:00Z
-    webUrl: "https://www.openpr.com/news/1916446/global-speech-and-voice-recognition-market-analysis-of-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "IO2jegee8eOKq3vjNGpba+6mDuXpdRkizwKXgvosf+SD4kqe9FxRNTSIdCu6cgKA7K9X1WJeIKAzQZp3dzPaIm8AWS62pARfGQUz1lmqWGiXZksPX9SSVfA2YCJbZE/bKa0Yv4DlHmy7PbLQ4/5m05quEFYAAAbh0euTHxLPKEFDiXL+owMHhvYiAHDxb+G1Rgkba3su2aRiW5pjMg09gBRgSrAPnvTwS45D2uKKp8jm5BTuNwHPEIJDuUn22ebgSSkdoCpMTDPh4rTZpYRDtEcOlV/cfiBXLPvJBO58JLKWRS1S5u/vBi+ZUg2FDNYL;20+6Yj7bj6sXiTV+MHsrjg=="
 ---

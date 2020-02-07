@@ -5,7 +5,7 @@ excerpt: "Facebook has announced that it will be making its wav2letter@anywhere 
 publishedDateTime: 2020-01-16T00:00:00Z
 webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -17,28 +17,16 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-    width: 849
-    height: 565
-    title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
-
 related:
   - title: "Facebook releases low-latency online speech recognition framework"
     excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
     publishedDateTime: 2020-01-13T17:32:00Z
     webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
-    ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
+    quality: 49
   - title: "what3words and Speechmatics launch speech recognition and post-processing API"
     excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
     publishedDateTime: 2020-01-13T11:55:00Z
@@ -47,12 +35,8 @@ related:
     provider:
       name: Pepsi
       domain: mobilemarketingmagazine.com
-    quality: 36
-    images:
-      - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
-        width: 620
-        height: 500
+    quality: 16
 
-secured: "BNGNIb87I7foEh+YuCzbyiFUJ3PWToYhv60Xv+9j3m6zLTRbfDRQDIxBoS/cA1t9mQnfBKfL1mM5K0cIFHw7i04vRjQl8HuDxpEA6aVNCucUQanEhsAgqr0j7VuwlnBIEQ/f6QpAE8SKSQlwYVKlnCbknF+rQwlmb167nsfTwFdpCsSSp2/Zos2nQJ/Wt3C2NEg+rrOLAUQ9r2gQIVAT96Nq0e53qWB2AALCpGNkerq65qIhQskV1PESpflzwQvzF+SkaRuKxg4O6kdOkKfxT5e22IBJdxq3or6Uo3/rRkrnhJjisjd7QKriE8T6b7jn;KVUN5AR7iOfzAbYpFKvT0w=="
+secured: "0aj3JICifXlaW1Rf+c2RTdBToBmHCA7yOFFdCQjlRBp1P2yad8Mu6w9m3cPg0m+SN7kW3WSi+X2BBAoBAYNLPqIu6M2l/ggsFteKrNZd8roMm8OOBXRrY7MRpT7jBwv6Fiil2QE96cTTTdar4GKAQt+xJkEY1qVyszuhaIs/FmZ07rvkuo5YcPFePjT7tU+XjBqpTpcveEsa7o7Ea0CkOA6PQweIjw5z/b7pRsNScrlRkkG7+eckiFkJwshS4e784CdXA1d/Cj+EhPp/g/27bQwY6DsSHqHpDFm3fqfAWdjMfYdUWAiPnHsDyG/zAvMY;eFJvkyGYb/4unMbSmWBRKg=="
 ---
 

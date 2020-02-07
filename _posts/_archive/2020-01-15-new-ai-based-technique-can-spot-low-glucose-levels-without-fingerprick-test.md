@@ -4,11 +4,9 @@ title: "New AI-based technique can spot low-glucose levels without fingerprick t
 excerpt: "Researchers have developed a new Artificial Intelligence (AI)-based technique ... Basing on this information, clinicians can adapt the therapy to each individual,” the authors wrote."
 publishedDateTime: 2020-01-15T10:18:00Z
 webUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/"
-ampWebUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
-cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 17
+heat: -1
 published: false
 
 provider:
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
-    width: 675
-    height: 365
-    title: "New AI-based technique can spot low-glucose levels without fingerprick test"
 
 related:
   - title: "AI can detect low-glucose levels via ECG without fingerprick test"
@@ -39,7 +31,16 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg"
         width: 720
         height: 302
+  - title: "AI can detect low-glucose levels via ECG without fingerpick test"
+    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
+    publishedDateTime: 2020-01-14T02:17:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    type: article
+    provider:
+      name: ETHealthworld.com
+      domain: indiatimes.com
+    quality: 19
 
-secured: "uxiwXbATbeIlOY/YpIfzjayM0qGqQ2rlhI3DnPdhqrjCxsRGyz66H8ao/yJ7n1lKgU3uZi6B7MWHz25asUvYexdNOfCcaZAJITVcOhvKrgZqzuVFKFvZVXzwYlUYVun9JjrUM0G+PfKLgwkeSLEOk8SuClPM17hj8n3bsCnVa8QlVW0N7UqZFvZf4xXrtRACP9MQXM7kciX4vFrh3BTayXFGWggAvY6P8LCmehOJIDJAHdJM3LQpiv9+1pKt3StL/Dh39j1vCSMnqte/kG+nejvJTBOniDzy0dJPvkW37WebIOK8r1QKaDYIL5GW0Hgh;xIxqmnSJqfXbHimr+rEiPg=="
+secured: "F7A6QlhaRcnBFmxnWUVAYrWjUn+o/zr/UjDwKYGFq3K2vFbph+C1KO1eMKkcZjV5ieWgHa3F95Xgbzc1V5D50P4vx6JYRn4GxE0qsevYHdCmF9tMTmyK/XnBBDxSQbWTTXP1ebhyLmZsrp8dd5ayNdGifI/qOVsRcmfIf6U2pH/Bf+9qJfGNOENoR6jZ3lpZgo5WttKAvxTVb+uPjKkdvHM9gImJpStnu77XG95dUHAJ2ZWDPDpMWePCLXEx/ItRwYqpykmW2jV11EpWFZS+yWY1o6rW0FeqFjGIyKmW6Ix8AxAd84DR9NiRsy4mEqMZ;mOrnd+vRkVSAmkKgGda6YQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindu.com/business/infosys-divests-stake-in-danish-ai
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/infosys-divests-stake-in-danish-ai-firm-for-800000/article30677396.ece/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -23,21 +23,6 @@ images:
     width: 615
     height: 384
     title: "Infosys divests stake in Danish AI firm for $800,000"
-
-related:
-  - title: "SEI invests in AI insights firm ForwardLane"
-    excerpt: "ForwardLane, the leader in providing AI driven intelligence to financial services professionals, is thrilled to announce SEI Venture's strategic investment into the company, to accelerate growth and the provision of powerful, personalized insights for ..."
-    publishedDateTime: 2020-01-23T17:40:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81237/sei-invests-in-ai-insights-firm-forwardlane"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
 
 secured: "CHFRWa8+xysU84JbOP9n9VXJLkTWDbhJBJ3PeoE3cslOAPRfg1Ecd9GNkKxsPjinzuRxLKy8HxsKr6UN0zYFPxeLwLr7jUKd91vzaWh0c7MADZvhfopXR0YKtBhpJlxFq519yTwg0vL1c7i0LSPyCckdDRB+SCOofvXbeaoG7NVNY2uUe68zo0YqrbeJuhMHqn15x38yduF6yIpDW9V4nueystilZToXmPNqVLUc+NS2zkjiTY9bcG/29g3N4tW1j2OA5/OK5wAMeJe0qo6C5rMh1xsUomSkExtuI2bT9zYgrtT9cONK3XYMEEuiULQi;P5zIClBdsPFULY5/klDT4w=="
 ---

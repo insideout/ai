@@ -4,10 +4,8 @@ title: "10 Data and Analytics Trends to Watch in 2020"
 excerpt: "Here are 10 to watch in 2020: Analyst Marcus Borba says Auto machine learning (AutoML), the ability to automate the entire process of developing and managing machine learning models, will also help data scientists focus on what matters versus the mundane. In addition, it will help prevent errors, as well as make machine learning capabilities ..."
 publishedDateTime: 2020-01-22T16:51:00Z
 webUrl: "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191"
-ampWebUrl: "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191/amp"
-cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191/amp"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
@@ -51,6 +49,6 @@ related:
         width: 600
         height: 338
 
-secured: "K2XLhTcNZJpzOa380HRLtPnE171L+Hh3msTgOHxaYekz78xj6//2Hq8kaRWd7d6M355jGIi3YHSpFBe9nsfFjVNuYJolT3OO3RjEp0m5F01fDDBa+4Rat/UFs0PTthNCAP1DOqV3kgI6lRvKiV3A9kMPw7bW/T6cOWh8zD0QCfWZPv79dyIRNxSHYP0U8N6/igb1hDyK9+hbeV3FseAJhw8BQwssElof26lsYxa6RjOPH2qTiWmtidj00aw1epyZXEPyHVYGXNeeHJDTgDG9hgI8c8i2DBQoHkKZKt5VnkY4cYC5GRglVlT/Kk2DlhWmLxB5Jqt5WSm0VVGqo/40rUXTI3BVYUKui98zPhkKD92BIo4tyGG5EUvjYUJOOGd5aGOMb7I3MAzWPkYJdA8cteCWK8D2x0fSZuDuznnmOAiZvi8toZXqF2BQLP0evDbTB5FGTaLHqp8yuo7VxO4v/hyF7FedeJU9HiO3N9hX8p0=;7SCMvFktgJXqhibOkWS3eA=="
+secured: "mumFCRQKOPvauvehu3N/eA3lMjXL0YW5nqwcFeUnUgjeYGA+oeigcg5TZK/5nMtkVuippRHdEP8ZKRwlj+PJ5DZN1i19p28kyfxwWNBouHEOwxHUj8hZ6VFmCpnwz+F6nLqZVqrt6gW8HkjJUj5A0KVsczWvSWzq2kswvbVKNbOViCr++x00sL3OuvYDQ4oUvMpAXqQxC/MS9tyGWNSTcyid2Z1uvNQ9dguMnau/KmMKz3Bh+eAELJIHXCwV+1ViTVDCk695TaQgjPxQgV3kx2yGUuhcWN3El8fvCqKkVgi+I83GzLtkFdxae9KOGHUN9lhRWAVqoiaVJVrqQBr/tSOGD6Zo0YjuEmife26ZNRTUpQs73bpuVdsNpTcE0wBW54Vpg2nY/DvQeDWeCcXfmYF5+hB5kTyx2YQNNFGaXXKah0GVwPbpB8r/BI0OnjlTmC3ldes6dMPfCRYX/SqYFMNSlwr+vg++9TBbWrhcHvE=;yRwVY/1IN44rcyMM70MS/w=="
 ---
 

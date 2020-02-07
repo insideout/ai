@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/cruise-1.png"
         width: 718
         height: 400
-  - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles (GM)"
-    excerpt: "GM will invest $3 billion into its Detroit-Hamtramck plant in order to build electric and self-driving vehicles. The factory had previously been \"unallocated\" as GM shifted from sedan production to pickups and SUVs. The company said that Detroit-Hamtramck could provide 2,200 \"good paying\" manufacturing jobs when running full speed. GM aims to ..."
-    publishedDateTime: 2020-01-27T13:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gm-is-revitalizing-a-near-death-factory-to-build-electric-and-self-driving-cars-2020-1-1028846918"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 4
 
 secured: "UnOv/Lg2cScCyMoJjcw+5uIAyz+v6/HFtq57uHogxJtG+djz7aPaXxhWzSFh/CBtXVV936CG/YWIrabHfa1wF/dU1+D7KStlZ8YkH01fRQCIZiuB7l1G60Wk68qdjcZDu25QmURkSokmX03mofi/kf6qS+o2qQFPOYV/6FyO04SEbB8+0PryTdXD7u/e2pdXrnKXzhdRY6g50uFhB/tz67x2aFc7GsMx4S+dWz0A+TyL6ZiHf9vOIXdPzmRbxZpKkjMuleug1O27O3izHhmCJlcYLVsWoXMKLHsI9dPyFPi7htHg9sbw3Jw0FgrBAoswUg5budu5K1/L97NMx/6T0OYoYwfnfWX/2XfqM7Y3wVODk/hwqipkV2KDxhKKnKH6FL856ZM4optJjUYZqTbBfEJtTNtB4qPXf30kQ+V8t/Qp5A9kC756FfNLoIbkCHkObkl383SJwUlMAvd+g4GWCFSc/YMqeXb+9YZtE+qPFuY=;bGsYfe4hRCYenWMdSaekGw=="
 ---

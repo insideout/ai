@@ -38,7 +38,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 34
+    quality: 36
 
 secured: "LZ6EbMNxnd51QFmTGi8k4pSzKbgyt24raqMbjiKZNtHWViGEYO3m9bkkXMASSZvxnsXxQvheJMa0bNcexiYEbSWf3F5ka+R7QPpGruB/WVLfCT3pogkkJter/bel8RjxiA/29CIx/bBnjhrfuWxcKVtSOjOZ3dECTxB3/SIxUHliAQBkBS/23Ffyq5ZXhaHkw2iZoreFoP2Dld8jN/j6oVB1iyWjFUqRABBkrZJB/VjfQ+pu4doGSwl6NBNuOwRIVerotFphG/Rmlf3dEXMA0x3CsH2HXL/GCYL135feKaJ3CJUQIRz8qV2GRwBLMjuUNgc3EOgNwxi/IK2q0sRQ5OrljaoJ7eG51HxBKgkLL+Fkse1V/aG7UVwsKTH9bThvjz4yGHKTORavNXHcpLQPjWN//yunfpjfGX9o3QKJyYzglsjIeS0NRoUZ6Pux/sY60st3cBdVHPqSeY270Wy1cO3ixQYBvFMjNnisAb9f/HE=;9pmcDAulAyxjGlHR12uEgw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.govtech.com/education/University-of-Michigan-Showcases-N
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html?AMP"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "University of Michigan Showcases New AI Ethics Center"
 
 related:
-  - title: "Artificial intelligence researchers create ethics center at University of Michigan"
-    excerpt: "ANN ARBOR, MI — Researchers at the University of Michigan have been exploring the need to set ethics standards and policies when it comes to the use of artificial intelligence, and they now have their own place to do so. The university has created a new Center of Ethics, Society and Computing (ESC) that will focus on AI, data usage ..."
-    publishedDateTime: 2020-01-23T17:10:00Z
-    webUrl: "https://www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-researchers-create-ethics-center-at-university-of-michigan.html"
-    ampWebUrl: "https://www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-researchers-create-ethics-center-at-university-of-michigan.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2020/01/artificial-intelligence-researchers-create-ethics-center-at-university-of-michigan.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 68
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/N7BM7UM7BZDRLNY65JNKX3LVMY.jpg"
-        width: 1920
-        height: 1080
   - title: "University to Help Society Wrap Their Minds Around Artificial Intelligence"
     excerpt: "The University of Michigan’s Center of Ethics, Society and Computing (ESC) will study ethical limitations and practices of artificial intelligence. “We’re looking ahead to difficult debates about the future path we are steering with technology in society.” (TNS) — Researchers at the University of Michigan have been exploring the need ..."
     publishedDateTime: 2020-01-24T23:35:00Z

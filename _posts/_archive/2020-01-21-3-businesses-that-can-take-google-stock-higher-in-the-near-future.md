@@ -4,11 +4,9 @@ title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
 excerpt: "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a license to start testing driverless cars. Waymo is moving forward with plans that could be easier and more lucrative than operating robotaxi services. Specifically, the company is developing self-driving trucks. Compared with providing robotaxi services ..."
 publishedDateTime: 2020-01-21T11:55:00Z
 webUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/"
-ampWebUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: -1
 published: false
 
 provider:
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/Googl_1600.jpg"
-    width: 1600
-    height: 900
-    title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
 
 related:
   - title: "Machine Learning: Automating Businesses for the Future"
@@ -39,7 +31,38 @@ related:
       - url: "https://www.cioreview.com/news_new/sliderimage/dtrw7.105.jpg"
         width: 300
         height: 400
+  - title: "Machine Dubbing: Amazon AI Opens New Chapter in Automating Media Localization"
+    excerpt: "Cloud-dubbing is so 2019. Machine translation researchers are exploring a new frontier in natural language processing, machine dubbing. A January 2020 research paper by a team at Amazon AI, a unit of Amazon Web Services (AWS), explored new techniques to make automatic dubbing appear more natural. As the paper pointed out, the demand for ..."
+    publishedDateTime: 2020-01-24T07:10:00Z
+    webUrl: "https://slator.com/technology/machine-dubbing-amazon-ai-opens-new-chapter-in-automating-media-localization/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 36
+    images:
+      - url: "https://slator.com/assets/2020/01/aws_machinedubbing.png"
+        width: 600
+        height: 400
+  - title: "International Business Machines: Doing Better Than You Think"
+    excerpt: "Cloud & Cognitive Services continues to generate positive ... Granted, the cloud growth rate does not match that of Amazon (AMZN), Microsoft (MSFT), or Google (GOOG). But still, in Q4 2019 ..."
+    publishedDateTime: 2020-01-23T23:04:00Z
+    webUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-you-think"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
+  - title: "International Business Machines Doing Better Thank You Think"
+    excerpt: "Cloud & Cognitive Services continues to generate positive sales growth on a year-over-year basis albeit at a single-digit rate. This is good and the underlying cloud growth rate is double-digit for the past two quarters on the strength of the Red hat acquisition. Granted, the cloud growth rate does not match that of Amazon (AMZN), Microsoft ..."
+    publishedDateTime: 2020-01-23T20:54:00Z
+    webUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-thank-you-think"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
-secured: "cTBFboJo9Ljtry/nVl8sqsMIfHeCpWmdqQ/IHBH4IYjKWd2udgL8NEATHyAcFX7ER+9QpJ+5Rbs3b7g+b3SnZH3v34k8qJwfFAvpqBAvcj8cRgCGfhNEqAvnSqrwoEzsbPG99QdSRkDLCmCCOsHteCyRnYWkqGQ6nElv1fYNsQ0IcBibhwLmOJUVeYpSzcCHZdA+3y+fIAr8cUcJ+m41c21DInYXcybhTlq9LYfUY+a72M+wu8OB1JUk1K7yWox2JkbY2072mj6KpDXZaBVMGCofXiS5rlt5YHWBhfi39FO8GdwxOTRZzzvSO3nKb8j2;xZbh35nFjthp7vnAuEnSvw=="
+secured: "d9sZJjRT7dlONdO2h9I5ImpDUHMUz5qLLoWRthX5rMMWbH1hYhTCEbA8Czb/znVxGcXOpGLgO5h9Zrxd1cTs123T1INsVz5Aa2sksKxIO9nuFlOi4X7Jkw55HGCH1hhMdyVnNGr0K8wrjkQa4mQ23Z3jteDMZZyeYgfNSmR5h8nnl97bp6jqjz1ktPRxHU4mwQNbWA1Q4mAT11qeOvKVLjHG6Ae3wWK8C4xGn4k09Ln/6MoJznkCpBw1AxAjLMWVFQh3HcBACMEB3cfADtP9epktVzcWxljtqozxwyu0x+trc5dGJ4N77nrZpPetDQUF11oDWFbJrKDLy9fQpZMSudW2hQfJITzWF5FZ8kxOPR0qOUc+wwiVR+iXITcAdlTdzcXwbtUvaDXQJAkXlt5B8WVuMRyt3vnsDQUOU2zrtBtJFaErOzhHdwbF85t2qsRUyRLUKUyRsKBpZOYB/CU2XEvLi21tDr6yYdmw55Px5H4=;iNKz407oQU3lCh5Kncoq5A=="
 ---
 

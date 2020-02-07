@@ -26,99 +26,34 @@ images:
     title: "Microsoft looks to expand into AI as cloud computing drives Q2 results"
 
 related:
-  - title: "Microsoft Azure cloud migration: 3 success stories"
-    excerpt: "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes and data type compatibility between legacy warehouse platforms and SQL Server, Thadani say"
-    publishedDateTime: 2020-02-03T11:02:00Z
-    webUrl: "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html"
-    ampWebUrl: "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
+  - title: "Clearview AI reportedly looking to expand globally"
+    excerpt: "Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is reportedly eyeing global expansion. It wants to sell its services to law enforcement in 22 more countries, BuzzFeed News said Wednesday, citing a Clearview AI document that was reportedly part of a November 2019 ..."
+    publishedDateTime: 2020-02-06T01:27:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-reportedly-looking-to-expand-globally/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://images.idgesg.net/images/article/2017/11/cloudmigrationpath-100743295-large.jpg"
-        width: 1200
-        height: 771
-  - title: "2 Major Security Flaws Discovered In Microsoft Azure Cloud"
-    excerpt: "“Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,” he explained. “Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
-    publishedDateTime: 2020-01-30T20:09:00Z
-    webUrl: "https://www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/"
-    ampWebUrl: "https://www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/amp/"
-    cdnAmpWebUrl: "https://www-techshout-com.cdn.ampproject.org/c/s/www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/amp/"
+      - url: "https://cnet3.cbsistatic.com/img/g3NdohYSdrzYH4i2iNFOSc9gHbQ=/756x567/2020/02/06/8599565c-e194-4d37-9ab7-56f3f399d317/facial-recognition.jpg"
+        width: 756
+        height: 567
+  - title: "CIA reportedly seeking to hire multiple providers for new cloud computing contracts"
+    excerpt: "The cloud providers are said to include Microsoft Corp., IBM Corp. and Oracle ... Krishna most recently led that company’s Cloud and Cognitive Computing unit, and was instrumental in building out its hybrid cloud business. “In other words, the company understands the kind of cloud services C2E will be comprised of, knows how to deliver ..."
+    publishedDateTime: 2020-02-06T02:13:00Z
+    webUrl: "https://siliconangle.com/2020/02/05/cia-seeking-hire-multiple-providers-new-cloud-computing-contracts/"
     type: article
     provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 74
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
     images:
-      - url: "https://www.techshout.com/wp-content/uploads/2020/01/satya-nadella.jpg"
-        width: 720
-        height: 480
-  - title: "Two major security flaws detected in Microsoft Azure Cloud, reveals report"
-    excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
-    publishedDateTime: 2020-01-30T13:45:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/two-major-security-flaws-detected-in-microsoft-azure-cloud-reveals-report-11580389929853.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/two-major-security-flaws-detected-in-microsoft-azure-cloud-reveals-report/amp-11580389929853.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/two-major-security-flaws-detected-in-microsoft-azure-cloud-reveals-report/amp-11580389929853.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 72
-    images:
-      - url: "https://images.livemint.com/img/2020/01/30/600x338/micro-kDJG--621x414@LiveMint_1580391521648.JPG"
-        width: 600
-        height: 337
-  - title: "Microsoft Open-Sources ONNX Acceleration for BERT AI Model"
-    excerpt: "According to Ning, With ONNX Runtime, AI developers can now easily productionize large transformer models with high performance across both CPU and GPU hardware, using the same technology Microsoft uses to serve their customers. Taking the lessons learned from re-implementing BERT, the Bing and Azure devs updated the ONNX Runtime code to ..."
-    publishedDateTime: 2020-01-28T14:04:00Z
-    webUrl: "https://www.infoq.com/news/2020/01/microsoft-bert-acceleration/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 58
-    images:
-      - url: "https://res.infoq.com/news/2020/01/microsoft-bert-acceleration/en/headerimage/microsoft-bert-acceleration-1580052141385.jpg"
-        width: 2121
-        height: 1414
-  - title: "Microsoft's Azure Strategy Pays Off"
-    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
-    publishedDateTime: 2020-02-02T17:39:00Z
-    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2020/2/2/saupload_charts.dll"
-        width: 635
-        height: 395
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
-    publishedDateTime: 2020-02-03T13:44:00Z
-    webUrl: "https://www.biztechafrica.com/article/microsoft-and-genesys-expand-partnership-help-ente/15418/"
-    type: article
-    provider:
-      name: BiztechAfrica
-      domain: biztechafrica.com
-    quality: 30
-    images:
-      - url: "https://www.biztechafrica.com/media/images/stories/microsoft_wDjNDZP.jpg"
-        width: 410
-        height: 270
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
-    publishedDateTime: 2020-02-03T09:37:00Z
-    webUrl: "https://www.africanews.com/2020/02/03/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
-    type: article
-    provider:
-      name: Africanews
-      domain: africanews.com
-    quality: 0
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/4829690897_425f2fec31_o.jpg"
+        width: 850
+        height: 609
 
 secured: "PQ00wVA6kPCsn65H9HuaRTrterwBCa6Xv0K4b5JuBbPY+EGlNE6YyauEsuyqDEnpMAa3Asl224QmN0VXxY7XcI3PdOxXBuYyoLTjDIr79rL5Q8uzrN52Fa+rBgEpMQV28mA9VpE3CVQb5XCdifRIklwYIGktepYuEZ9cpvdFoo6wifPLsWgIewjbUf2MfGb/SLG9GcgCOaWqASGrh3A9Aq88rRQ8V90VhHscRQQdGfal0ABCKxxDPKQUfVnNHFjfyyQ3Hbaii09mrmaXvO6pRqgONAMKu5Z7WW+uKUgMPsThaHKKn5IXsam2KhL44x+G9pNXAwrKlmqfYoMo+3+Yc6azz6TuHztdes5EXbRcG98g8g7i/jYNG9zfKZ56c2GBeoWx79LzUGL0i5m4U4HywAALDJ9KbSlIHHk2vLqlWcZhWzh0Afov4JPRKbNk5BmeB6mjJ7ErDRM8zIY1EQ3ytlGKeuYBYEK777xNZIeVXIE=;LLtRRXuFJwXVALkMBg1rxA=="
 ---

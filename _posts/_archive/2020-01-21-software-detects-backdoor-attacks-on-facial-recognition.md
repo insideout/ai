@@ -4,10 +4,8 @@ title: "Software detects backdoor attacks on facial recognition"
 excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
 publishedDateTime: 2020-01-21T00:00:00Z
 webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
-ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
-cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
-    width: 446
-    height: 300
-    title: "Software detects backdoor attacks on facial recognition"
 
 related:
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
@@ -387,36 +379,6 @@ related:
       - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202001/nn_tco_uk_police_launch_facial_recognition_200124_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
-  - title: "As use of facial recognition expands, travelers worry about privacy"
-    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
-    publishedDateTime: 2020-01-23T17:36:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/travel/as-use-of-facial-recognition-expands-travelers-worry-about-privacy/2020/01/23/ee6d7650-3d59-11ea-baca-eb7ace0a3455_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/travel/as-use-of-facial-recognition-expands-travelers-worry-about-privacy/2020/01/23/ee6d7650-3d59-11ea-baca-eb7ace0a3455_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/travel/as-use-of-facial-recognition-expands-travelers-worry-about-privacy/2020/01/23/ee6d7650-3d59-11ea-baca-eb7ace0a3455_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 59
-    images:
-      - url: "https://www.washingtonpost.com/resizer/qlSIvIjsFWvc-xUok2uPzgvC_tQ=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SQXXU3R5MYI6VL7CBEHLG63AWE.jpg"
-        width: 1440
-        height: 918
-  - title: "Rogue NYPD cops are using facial recognition app Clearview"
-    excerpt: "Rogue NYPD officers are using facial recognition software that the department’s own facial recognition unit doesn’t want to touch because of concerns about security and potential for abuse, The Post has learned. The NYPD’s facial recognition unit kicked the tires on a controversial app, Clearview, which has scraped millions of photos from ..."
-    publishedDateTime: 2020-01-23T17:23:00Z
-    webUrl: "https://nypost.com/2020/01/23/rogue-nypd-cops-are-using-sketchy-facial-recognition-app-clearview/"
-    ampWebUrl: "https://nypost.com/2020/01/23/rogue-nypd-cops-are-using-sketchy-facial-recognition-app-clearview/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/01/23/rogue-nypd-cops-are-using-sketchy-facial-recognition-app-clearview/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://thenypost.files.wordpress.com/2020/01/nypd-3-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
   - title: "London police to use facial recognition cameras, stoking privacy fears"
     excerpt: "LONDON (AP) — London police will start using facial recognition cameras to pick out suspects from street crowds in real time, in a major advance for the controversial technology that raises worries about automated surveillance and erosion of privacy rights. The Metropolitan Police Service said Friday that after a series of trials, the cameras ..."
     publishedDateTime: 2020-01-24T21:59:00Z
@@ -649,17 +611,6 @@ related:
       - url: "https://media-eng.dhakatribune.com/uploads/2020/01/watermarked/new-1580299156638.gif"
         width: 600
         height: 315
-  - title: "Twitter tells facial recognition app, Clearview AI to stop collecting images"
-    excerpt: "The controversial app uses over three billion images to find a match. These images have been sourced from various social media sites including Facebook, YouTube and Twitter."
-    publishedDateTime: 2020-01-23T14:37:00Z
-    webUrl: "https://www.hindustantimes.com/tech/twitter-tells-facial-recognition-app-clearview-ai-to-stop-collecting-images/story-PJQjRcqb2cYNDgZkEsr09M.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/twitter-tells-facial-recognition-app-clearview-ai-to-stop-collecting-images/story-PJQjRcqb2cYNDgZkEsr09M_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/twitter-tells-facial-recognition-app-clearview-ai-to-stop-collecting-images/story-PJQjRcqb2cYNDgZkEsr09M_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 51
   - title: "Sen. Edward Markey Poses Questions About Clearview AI’s Facial Recognition Tool"
     excerpt: "Sen. Edward Markey (D-Mass.) sent a letter to Clearview AI CEO Hoan Ton-That expressing concerns about the privacy risks posed by the company’s facial recognition tool. In the letter, Markey wrote that Clearview’s tool allows users to capture and upload pictures of strangers and analyze the biometric data of photographed individuals."
     publishedDateTime: 2020-01-27T21:24:00Z
@@ -967,6 +918,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "pe/fe82/EYT6u9vRMxnhoZjGAx7cEdsdcO402Q2Ns2aO+YLe7DffOX6Z69pqWgRtGLwqh0P+SmLUudarXVnOXQOR4v4WCZJjru0jnxZVUNvyYk9tORF8UQp79rb0ySBzzeyVJxiacd5QQb99BBqYEGeWMRDY0CWFH9f3CZq3BgMGUFw/KPUHE9xcqeMIgBvQlvaofdDYuSirsMInCHRJ6fof4HTWE/uPp6XQL+9zWvaTTnxpqds4DWZ+z100dQp/T/Dsm8WSOjThrbMbUWz8qt9XT9sBo8NdnHf9g1rAer4Z02hzuOTQcJRmJjUwTtAG;aYLR3kg7Ax/HcgaqVQpH4A=="
+secured: "tznLHsiJUxSbknFUKTxj5v4BAXhbnFaGrcB0TNCz14Qyh9Qa+oiJ6KCbSpuq7F+uGTZALznFhuxs7G/+3mBvcSE2UgT/3dTsCsVn/SX9fekYIJwfhi6EmGlXe9toFoCK5tN8qMwKPgjrGJvnd/pN0zcP2BQl3scOWQBmEUOdHCSHd4Plj9mD15/cY4UGEa08s5KYNbJrwYMvt00UpVg1MfXHVTuVM0WxvuxXrCIr81TbeVBgKhEkdLPQrNjZ7RnLLOTJr/Pfkmqe/3p3Zpsoy6RaXMKdaejCa/Gs0vBP1vxDvjuLvR8Zk2/LcVdQe3A0;oNgb5669874+aRPsz/aFcA=="
 ---
 

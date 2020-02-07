@@ -8,7 +8,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/an-engineer
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -26,43 +26,15 @@ images:
     title: "An engineering student is helping envision a self-driving future for people with disabilities"
 
 related:
-  - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans"
-    excerpt: "The transportation narrative has shifted to self-driving. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead."
-    publishedDateTime: 2020-02-02T08:58:00Z
-    webUrl: "https://www.businessinsider.com/tesla-self-driving-tech-wall-street-getting-bored-waymo-cruise-2020-1"
+  - title: "Patchwork of self-driving laws limiting autonomous truck innovations"
+    excerpt: "Self-driving trucks could change how freight moves across the United States. But with a slow-moving federal government and a patchwork of local laws regulating autonomous truck testing, that future is far from seamless, according to a recent study by the American Transportation Research Institute (ATRI). The government rules created to support ..."
+    publishedDateTime: 2020-02-03T13:55:00Z
+    webUrl: "https://www.fleetowner.com/technology/article/21121622/us-patchwork-of-selfdriving-laws-is-limiting-autonomous-truck-innovations"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/5e32d55a24306a7e802e8322?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "Tesla's Video Shows What Full Self-Driving Autopilot Sees"
-    excerpt: "Tesla's Autopilot plans are aggressive to say the least. CEO Elon Musk has noted that the company's current-generation vehicles already have the hardware for Full Self-Driving (FSD). The limiting factor, according to Musk, is the software. Clearly, the CEO wants self-driving, so to make it a reality, the Autopilot team is now recruiting via the ..."
-    publishedDateTime: 2020-02-03T17:11:00Z
-    webUrl: "https://www.caranddriver.com/news/a30733506/tesla-autopilot-full-self-driving-video/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp30733506/tesla-autopilot-full-self-driving-video/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30733506/tesla-autopilot-full-self-driving-video/"
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 59
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/algorithms-1580508501.jpeg?crop=1.00xw:0.802xh;0,0.120xh&resize=1200:*"
-        width: 800
-        height: 401
-  - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans (TSLA)"
-    excerpt: "Tesla's business is now good. But it's an electric-car business, and the transportation-of-the-future narrative has shifted to self-driving cars. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead. Visit Business Insider's homepage for more stories. The year 2019 was a pivot in the story about the future ..."
-    publishedDateTime: 2020-02-02T13:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-self-driving-tech-wall-street-getting-bored-waymo-cruise-2020-1-1028865731"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 4
   - title: "An engineering student is helping envision a self-driving future for people with disabilities"
     excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around."
     publishedDateTime: 2020-02-01T06:41:00Z

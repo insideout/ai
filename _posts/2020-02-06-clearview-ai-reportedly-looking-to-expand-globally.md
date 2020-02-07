@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-reportedly-looking
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Clearview AI reportedly looking to expand globally"
 
 related:
+  - title: "Microsoft looks to expand into AI as cloud computing drives Q2 results"
+    excerpt: "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ..."
+    publishedDateTime: 2020-02-03T20:07:00Z
+    webUrl: "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316"
+    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg"
+        width: 620
+        height: 250
   - title: "CIA reportedly seeking to hire multiple providers for new cloud computing contracts"
     excerpt: "The cloud providers are said to include Microsoft Corp., IBM Corp. and Oracle ... Krishna most recently led that company’s Cloud and Cognitive Computing unit, and was instrumental in building out its hybrid cloud business. “In other words, the company understands the kind of cloud services C2E will be comprised of, knows how to deliver ..."
     publishedDateTime: 2020-02-06T02:13:00Z

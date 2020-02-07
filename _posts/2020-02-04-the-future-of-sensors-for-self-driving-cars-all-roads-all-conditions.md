@@ -24,58 +24,60 @@ images:
     title: "The Future of Sensors for Self-Driving Cars: All Roads, All Conditions"
 
 related:
-  - title: "The hunt for security flaws in self-driving cars steps up a gear"
-    excerpt: "Last week, seven projects in the UK dedicated to developing tools that will improve cybersecurity in self-driving vehicles received a grand total of £1.2 million ($1.56 million), or about £171,500 ($222,847) each, to boost their research – a sum partly funded by the government's Centre for Connected and Autonomous Vehicles (CCAV)."
-    publishedDateTime: 2020-01-29T11:43:00Z
-    webUrl: "https://www.zdnet.com/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/"
+  - title: "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done"
+    excerpt: "When you get behind the wheel of a car, it is a solemn duty and one that holds you responsible for what the car ends up doing. While driving, if you suddenly realize that you are about to ram into another car,"
+    publishedDateTime: 2020-01-30T14:33:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Forbes
+      domain: forbes.com
     quality: 74
     images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/31/cba611cd-8679-462a-b4f1-0bf604e5d1bb/thumbnail/1200x675/4253ba1d55270145e9da1a11a543ec27/thumb.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1037080322%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8678%26cropY1%3D427%26cropY2%3D5309"
         width: 1200
-        height: 675
-  - title: "£1.2m awarded to progress self-driving vehicle cyber security projects"
-    excerpt: "Seven projects have received Government funding to support the development of connected and self-driving vehicle cyber security testing capabilities. Organisations from around the country are involved in the projects, including Honda Europe, University of Warwick, University of Bristol, IBM and the Millbrook and HORIBA MIRA testing grounds."
-    publishedDateTime: 2020-01-29T16:26:00Z
-    webUrl: "https://www.fleetnews.co.uk/smart-transport/news/12m-awarded-to-progress-self-driving-vehicle-cyber-security-projects"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/smart-transport/news/12m-awarded-to-progress-self-driving-vehicle-cyber-security-projects"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/smart-transport/news/12m-awarded-to-progress-self-driving-vehicle-cyber-security-projects"
+        height: 677
+  - title: "You Don't Really Need 5G, Your Self-Driving Car Does"
+    excerpt: "Self-driving cars or autonomous vehicles (AVs) are the killer app for 5G wireless internet. Right now, AVs are Clint Eastwood style lone gunslingers, roving the highways in search of a free lane. They see the world through camera lenses and LIDAR (similar to radar, but using lasers instead of radio waves). When they encounter other AVs ..."
+    publishedDateTime: 2020-01-25T12:58:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/you-dont-really-need-5g-your-self-driving-car-does-117286"
     type: article
     provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 44
-    images:
-      - url: "https://cdn.fleetnews.co.uk/web/1/root/driverless-car.jpg"
-        width: 640
-        height: 400
-  - title: "The road ahead for digital signage in self-driving cars"
-    excerpt: "Once vehicles become truly autonomous, traveling by car will become a much more passive experience. And while today we're grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them entertained ..."
-    publishedDateTime: 2020-02-04T15:59:00Z
-    webUrl: "https://www.digitalsignagetoday.com/blogs/the-road-ahead-for-digital-signage-in-self-driving-cars/"
-    type: article
-    provider:
-      name: Digital Signage
-      domain: digitalsignagetoday.com
+      name: The National Interest
+      domain: nationalinterest.org
     quality: 24
     images:
-      - url: "https://nmgprod.s3.amazonaws.com/media/files/a1/bd/a1bda8354a4cc5b99751ce3b0f639642/cover_image.jpg.640x360_q85_crop.jpg"
-        width: 640
-        height: 360
-  - title: "The man who invented the self-driving car (in 1986)"
-    excerpt: "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ..."
-    publishedDateTime: 2020-02-02T17:32:00Z
-    webUrl: "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/"
+      - url: "https://nationalinterest.org/sites/default/files/main_images/segrs.jpg"
+        width: 1304
+        height: 733
+  - title: "Are self-driving cars a solution for transit? A Providence test shows their promise and challenges"
+    excerpt: "“You won’t see them on the road for many, many years to come, because they don’t visualize what’s ahead as well as human drivers do.” She predicted completely self-driving vans will arrive in 2021, in Jacksonville, Fla., replacing a worn-out monorail corridor. As AVs develop, there may be an interim phase of driverless cars that halt ..."
+    publishedDateTime: 2020-02-01T05:09:00Z
+    webUrl: "https://www.theday.com/article/20200201/BIZ07/200209995"
     type: article
     provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 4
+      name: The Day
+      domain: theday.com
+    quality: 10
+    images:
+      - url: "https://www.theday.com/storyimage/NL/20200201/BIZ07/200209995/AR/0/AR-200209995.jpg&imageversion=16by9&Maxw=960"
+        width: 960
+        height: 540
+  - title: "Safety and Security are Two Major Points of Focus for the Players of Global Self-Driving Car Market -Transparency Market Research"
+    excerpt: "/PRNewswire/ -- There are several factors that are responsible for an exceptional growth of global self-driving car market says Transparency Market"
+    publishedDateTime: 2020-02-06T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/safety-and-security-are-two-major-points-of-focus-for-the-players-of-global-self-driving-car-market--transparency-market-research-301000238.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1085206/Transparency_Market_Research_Logo.jpg?p=publish&p=facebook"
+        width: 1200
+        height: 800
 
 secured: "rsIF1PvtwFJf05u8Ms6/zJG54WyC/srLTT9ld+Wrh5WK7GBOolQu8dNClkptAw/fHk2YS3oNO8MUEx1cLkSrNETF/28BZnyTss7pc4xxmTmjichKfx+yLA4SuXUCg1+9fJu/SfYI35vapXY1jrLXMHoHXTB/cMQMQmlsHi2sqBSDeTbbI+wDNXVaOdjIy9qLBwhqL42xI/6C/JRVnbrVqXM5H6FthjpeWYwd1whgJA+b1g4ZBlEXh35zZg5Ly53EdedVLJWzRz0YshQxnu89uHnsXOpMrbClQMHe262l2rBBNPSh+MOGpXrF00A1qc50+4l2XFfJBwwQl2wcaku6u0B1kWMWphOvCZ2iurhLeWGPNHDG4L9zRmSerlcH2p3mBKWPLR1hvnheYvUGAVIc0555T12zMZECLZC10YiZ1Zfw/iu2ULXMDvfyI0Lx1Og2mRCsxfqrANm/ffmfQmemm/8pp2OyJ43GPgvnD6t5BYg=;EZ3UMd2Rl4kzxqsG+e8L4A=="
 ---

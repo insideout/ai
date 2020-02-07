@@ -54,6 +54,15 @@ related:
       - url: "https://sportscar365.com/wp-content/uploads/2020/02/73018940_2712581678765521_2531507724886212608_n-1000x600.jpg"
         width: 1000
         height: 600
+  - title: "Expanded Partnerships for Crowdstrike, AWS Globally"
+    excerpt: "In forming an expanded alliance, SRO Motorsports Group will benefit from AWS’ 175 fully featured services for storage, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), with a broad global reach. Along with being Official ..."
+    publishedDateTime: 2020-02-07T10:01:00Z
+    webUrl: "https://sportscar365.com/sro/expanded-roles-for-crowdstrike-aws-in-sro-globally/"
+    type: article
+    provider:
+      name: Sportscar365
+      domain: sportscar365.com
+    quality: 19
 
 secured: "pJOLAwQOugPRtnIWKjGnwSl3+Xu7ruGnxbkSB3YceIRmnbIHQ4HYuQ9MyD5PphFRxpyt+prtYRnLcCtuI2ihP/s+fZCqwKOH2ZlUL6Sii5gNU1iYQTCyl25ThmwPvW6iVAmGy75svlxx6OugCHC3KjGe7F+9zVbPvR0r0cvPK+1i4oO57pISVE5UOjkhhLui/0Lgm8Es9kdSJBsDHFyT6MmC/WUrLjKaPHqS+NKRHFQ3T4YEhPIuu1J7rmQhSE3vZfrGVWYkp6XgK8FV0ZukUPRHg4j8jf/sbDhKfr1UPABE7NnAMZfKi7wI6N7WbftD;X1fwwhEOr9J//Blngx+2fQ=="
 ---

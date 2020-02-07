@@ -8,7 +8,7 @@ ampWebUrl: "https://www.popularmechanics.com/technology/amp30647618/satellites-m
 cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30647618/satellites-machine-learning-gps/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 591
     height: 296
     title: "How Machine Learning Will Lead to Better Maps"
+
+related:
+  - title: "Europe Deep Learning in Machine Vision Market Is Expected to Reach Usd 104.59 Million"
+    excerpt: "Press release from: Data Bridge Market Research Pvt. Ltd. Europe Deep Learning in Machine Vision Market,By Application (Image Classification, Optical Character Recognition, Bar Code Detection, Anomaly Detection), By End-User (Automotive, Electronics, Food & Beverage, Healthcare, Aerospace & Defense, Others), ByGeography (Germany, France ..."
+    publishedDateTime: 2020-01-23T18:49:00Z
+    webUrl: "https://www.openpr.com/news/1906733/europe-deep-learning-in-machine-vision-market-is-expected"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 12
 
 secured: "maKSM9v7U9ghDFaG4x5UzlVW24FqgbYGoyk8bp7wk269+pEGoOv3puN1/k73+i2zijhI5kyI4nKVOfxXLgyDCTp5D4JQ8P5XWB9dJOw4LvNvbT19Y4yKtfj2oxq57GTWN1RkXw4Au9fR34eO7Pek5QTLPY/ZbfqFBbV1eV7pZraRkw65r0DZ03Bv7cAKfWXAiqwQpbiBYxBI/sRUmGTKbZWBj6mg6gCJ+9uNwq3ZSyc8wO5S8/lliP8sCkKLu/37aFbahAtoxf0omloajL/psaJuW7UL0oLyUix3nYDQIsMAonSn3lwM24JJZ85Mc1Md8ZsjEHwr3gILSvhD+3L9eHkIeYvbb5RfLs7m1aKYLrVtaHFYuFT1vuLSCqvd8KBO3Kuhzdk8XJVpt1iNeSp9tAWdwDxZRD4ZKSU0znx7UYe4uNWrTXBGO0xhLhKucpLIg0AwD0pf+MkvBY2TUrci8XzsVBqFZMvG7ozvTFMV5Ug=;3cl35+MRzTVCuLD61qLbTg=="
 ---

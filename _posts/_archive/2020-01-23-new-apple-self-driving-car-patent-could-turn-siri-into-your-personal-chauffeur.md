@@ -8,8 +8,8 @@ ampWebUrl: "https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp"
 type: article
 quality: 70
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: Digital Trends
@@ -30,21 +30,30 @@ images:
     title: "New Apple self-driving car patent could turn Siri into your personal chauffeur"
 
 related:
-  - title: "Apple Patents Self-Driving Car Technology That Functions Through Interactions"
-    excerpt: "A recently published Apple patent reveals that the Cupertino tech giant is looking into a self-driving car technology that uses interactions to control the vehicle."
-    publishedDateTime: 2020-01-30T01:59:00Z
-    webUrl: "https://www.ibtimes.com/apple-patents-self-driving-car-technology-functions-through-interactions-2911435"
-    ampWebUrl: "https://www.ibtimes.com/apple-patents-self-driving-car-technology-functions-through-interactions-2911435?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/apple-patents-self-driving-car-technology-functions-through-interactions-2911435?amp=1"
+  - title: "Apple's self-driving car system could use voice, gesture guidance"
+    excerpt: "Interacting with a future self-driving car could be a lot like working with some future interpretation of Apple iOS with voice, gesture and touch-enabled commands at your disposal. It's the overarching view gathered after reading through an Apple patent application filed last August and published last week for a self-driving car voice and ..."
+    publishedDateTime: 2020-01-27T20:49:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-system-voice-gesture-guidance/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 41
+      name: CNET
+      domain: cnet.com
+    quality: 74
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/07/29/applecarsoftware.jpg"
+      - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
         width: 1200
-        height: 800
+        height: 630
+  - title: "The Key To Tesla's Future Is Full Self-Driving"
+    excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
+    publishedDateTime: 2020-02-03T17:07:00Z
+    webUrl: "https://seekingalpha.com/article/4320979-key-to-teslas-future-is-full-self-driving"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "rSFxQudjfI2JQWP8bqXqu6iEVKWm+vDKpEmfsxnwj/Z/xu6fWC222ANHuxwRKH5FkYwpkBX3MHP+b/HvWlRifJuxFknL48idnI0u1wWr3fZBodaDO6g1nvAc2Uef0JmKjnfJ8NG/ilWLJ/LIGhnWRcDWRWTuMvKfuJd7uSL2NP9qDCO/ZICJ7tkky/JQ6MAPC/G7oEKg9o+1b4ESifyfInbPaFKkCIiV6KW8suNzHiJC8ITmoOzy4N3os8JJF8dnVfxQRnsGjEW8Gkfr76SAsYnhTZsi+BAGBso79+etK8vPR8DTz8rerm8JpdtzaaMShW6leUbHSMtJLYUVT8/bnODzDLTfEDuVEs3rFSDEVrsdsN8qcoauQDTewVsBePzmriPWkV8ZCaV5LexpxTrxxvGLFeTyl7feU/nysGZ2oGnfPPwjrkDXEC+MstQTo7gVF6RxWWmu/dXkXFH3b9C2pTOY5asI+FUVq41UhNS/rbM=;h0/eTEfYyWQxtxzN1aRG2g=="
 ---

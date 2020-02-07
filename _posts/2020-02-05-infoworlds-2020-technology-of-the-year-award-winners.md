@@ -5,7 +5,7 @@ excerpt: "With PyTorch support now available in the data science packages of all
 publishedDateTime: 2020-02-05T11:02:00Z
 webUrl: "https://www.infoworld.com/article/3518995/infoworlds-2020-technology-of-the-year-award-winners.html"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - Microsoft AI
 
 related:
   - title: "BAFTA Award Winner Andy Serkis Praises The Enabling Power Of Technology"

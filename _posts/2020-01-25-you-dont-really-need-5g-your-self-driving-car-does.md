@@ -39,30 +39,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1037080322%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8678%26cropY1%3D427%26cropY2%3D5309"
         width: 1200
         height: 677
-  - title: "Self-driving cars have an overlooked upside"
-    excerpt: "Upon reading the Jan. 24 Metro article “Uber bringing its tests of self-driving cars to D.C.,” one major benefit that I have yet to read about popped to mind: tipping. A lot of people will save money if they don’t need to tip a driver. I’ve always tipped, but it is appealing to have that need disappear. It will also be kind of a relief ..."
-    publishedDateTime: 2020-01-27T22:12:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/self-driving-cars-have-an-overlooked-upside/2020/01/27/ae33aa1e-4074-11ea-99c7-1dfd4241a2fe_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/self-driving-cars-have-an-overlooked-upside/2020/01/27/ae33aa1e-4074-11ea-99c7-1dfd4241a2fe_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/self-driving-cars-have-an-overlooked-upside/2020/01/27/ae33aa1e-4074-11ea-99c7-1dfd4241a2fe_story.html?outputType=amp"
+  - title: "The Future of Sensors for Self-Driving Cars: All Roads, All Conditions"
+    excerpt: "But as ADAS and eventually self-driving systems become more advanced, it will be essential for vehicle cameras to perform well in all situations. Camera benchmarking firm DXOMARK has done a lot of work in accurately characterizing camera image quality challenges that are unique to automotive, which its VP of marketing Nicolas Touchard shared ..."
+    publishedDateTime: 2020-02-04T14:14:00Z
+    webUrl: "https://www.extremetech.com/computing/305691-the-future-of-sensors-for-self-driving-cars-all-roads-all-conditions"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 44
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
     images:
-      - url: "https://www.washingtonpost.com/resizer/LmozzyHTYJdM70nJ5Z-81opmU7U=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5AO2UBSBDQI6VNP4535IJDG6TE.jpg"
-        width: 1440
-        height: 1080
-  - title: "AI Self-Driving Cars Will Spur Americans To Be Savvier About Their Personal Finances, But Not For The Reasons That You Think"
-    excerpt: "It is said that many Americans are so busy trying to earn money that they don’t have time to think about how to best leverage and save money. This seemingly puzzling statement highlights that we are all on a frantic and mind-numbing treadmill of trying to earn income,"
-    publishedDateTime: 2020-01-28T13:25:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/01/28/ai-self-driving-cars-will-spur-americans-to-be-savvier-about-their-personal-finances-but-not-for-the-reasons-that-you-think/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 22
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/02/GettyImages-1148108337.jpg"
+        width: 1344
+        height: 756
   - title: "Are self-driving cars a solution for transit? A Providence test shows their promise and challenges"
     excerpt: "“You won’t see them on the road for many, many years to come, because they don’t visualize what’s ahead as well as human drivers do.” She predicted completely self-driving vans will arrive in 2021, in Jacksonville, Fla., replacing a worn-out monorail corridor. As AVs develop, there may be an interim phase of driverless cars that halt ..."
     publishedDateTime: 2020-02-01T05:09:00Z
