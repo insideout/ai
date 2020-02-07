@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T08:13:00Z
 webUrl: "https://medium.com/@brand_minds/artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-36-1-billion-by-2025-1e2f70b0ca1"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     height: 632
     title: "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025"
 
-secured: "oo3LqoeT8itIEu+rMsrLPdKuik19jy5V0+M0fgbEm5I9WRExdoIAndw2mnveMx7Q/ektE2IXjr06A6hks7sB9aENpanojnNpuINCmyLXmLc3iAi3su/qdMOOTDWg3HMANm8NBpJpH5D9FopF2HVcf2F65b/pvSZgvaB3WbDHSRrpq+QFTQfMEHka5uymwUwOIUCfIZNtnHnjgDdOZUslsfYCb3vWiCJyqwG8L58L5X8pB9FmrifW/IBC8yfxpQyEEdB7iYqjIZv1F1tO6lBgISl1xfM5QA60NmKnN0uzW0ecXEVqQv3XuaC3WlPA4Dos;A/bW+EJg9JbN6+5OPTiDkg=="
+related:
+  - title: "Global Artificial Intelligence in Healthcare Market"
+    excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global ..."
+    publishedDateTime: 2020-01-16T03:17:00Z
+    webUrl: "https://www.openpr.com/news/1896627/global-artificial-intelligence-in-healthcare-market-2020"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
+
+secured: "xp2uaDJhtKy2dbN8y4MqzicqmzC2KSXfBEUPjk7uGpdWEmwS3oPggkTqf7DjNHGqzTNRCxNkFR9Uyh/DOCCH25Vu8htPx8AFL2mFrHwd7ST+nhbe/qfjCv1RXP4oh72s1LQjPcoU+5SR1sdPeNGbiY+wzzF86YxZbBWPd+HapgRYLAMrUEgeWgQ3jsufULweTDAi/HRr2irGs7+yyU+URxXlYZBtXTaan67bu/WJhCNb73kxVltk/eMY5D72+qsIkG/VjPJV5bDgHeqAV9WW0R9Zfn6an9Fx/3wW2ud3RE9CjlwT48hA2x+llo8A5pDl;dtNHjfPqeEPJkCNTQltTQQ=="
 ---
 

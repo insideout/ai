@@ -97,6 +97,19 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 0
+  - title: "24.7% Growth Rate for Social and Emotional Learning (SEL) Market by 2024 | Latest Innovation, Advance Technology, Top Companies - ReportsnReports"
+    excerpt: "Browse 130 Market Data Tables and 87 Figures spread through 199 Pages and in-depth TOC on \"Social and Emotional Learning (SEL) Market Research Report\" https://www.reportsnreports.com/reports/2891963-social-and-emotional-learning-sel-market-by-component-solutions-sel-platform-and-sel-assessment-tool-services-type-web-and-application-end-user-pre ..."
+    publishedDateTime: 2020-02-07T13:12:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/24-7-growth-rate-for-social-and-emotional-learning-sel-market-by-2024-latest-innovation-advance-technology-top-companies-reportsnreports-8485879"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 0
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
 
 secured: "D2CadV4bxlv6cR/pgVQZf7frfGsVuL5yKPo/fE1DcpA9G2ORqjsfO/3wGo1/rXTn+3FMifxFdq8JBGq0k4B1s4fTvGFGenCtn0G6lbKub2dNZhhvMg2B4WtOsKrv54mw8YIvr4Sf8hvJ59QuGz9An7Ni4bEozV4PvLEigyEkbZpm6zOuOMIeniScQnbx80VDohyv3NRYrRNO9WVX5b6l3105aGxCTLmbr3joeNQwjXgHnApKZ0RAcKD1dU4tSgf1bjTPTYb0+aJbGrCJcl8tho2yZ/MBwymhITV5ebjSdNJeqrlYMs5Cc0bpT73C5qWI;Bo0yrw1d0lbwVHDMLbRLAg=="
 ---

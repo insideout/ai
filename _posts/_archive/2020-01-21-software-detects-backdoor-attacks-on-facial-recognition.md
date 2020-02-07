@@ -4,8 +4,10 @@ title: "Software detects backdoor attacks on facial recognition"
 excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
 publishedDateTime: 2020-01-21T00:00:00Z
 webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
+ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
+    width: 446
+    height: 300
+    title: "Software detects backdoor attacks on facial recognition"
 
 related:
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
@@ -544,21 +552,6 @@ related:
       - url: "https://cms.prod.nypr.digital/images/22754/original"
         width: 640
         height: 426
-  - title: "A scary new facial recognition tool underlines the urgent need for privacy laws"
-    excerpt: "But we didn’t realize doom might come this soon. The New York Times reports on a facial recognition tool that hasn’t made the news before — because it’s not from a Silicon Valley luminary with a big public footprint, such as Amazon or Google, but rather a tiny and secretive start-up called Clearview AI whose impact is as high as its ..."
-    publishedDateTime: 2020-01-23T21:48:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 55
-    images:
-      - url: "https://www.washingtonpost.com/resizer/ZLffVZNmmkuoQHCjoik1fm4Z00c=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHDNZORPYQI6JPU6MDGEJQA6P4.jpg"
-        width: 1440
-        height: 961
   - title: "Zuckerberg Pledges Facebook Users Privacy Upgrades After $550 Million Facial Recognition Settlement"
     excerpt: "Facebook Inc has reached a $550 million settlement of claims it collected and stored millions of users' biometric data without their consent, as Chief Executive Mark Zuckerberg pledged better protections for users to address privacy concerns that have dogged the social media company."
     publishedDateTime: 2020-02-01T20:13:00Z
@@ -918,6 +911,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "tznLHsiJUxSbknFUKTxj5v4BAXhbnFaGrcB0TNCz14Qyh9Qa+oiJ6KCbSpuq7F+uGTZALznFhuxs7G/+3mBvcSE2UgT/3dTsCsVn/SX9fekYIJwfhi6EmGlXe9toFoCK5tN8qMwKPgjrGJvnd/pN0zcP2BQl3scOWQBmEUOdHCSHd4Plj9mD15/cY4UGEa08s5KYNbJrwYMvt00UpVg1MfXHVTuVM0WxvuxXrCIr81TbeVBgKhEkdLPQrNjZ7RnLLOTJr/Pfkmqe/3p3Zpsoy6RaXMKdaejCa/Gs0vBP1vxDvjuLvR8Zk2/LcVdQe3A0;oNgb5669874+aRPsz/aFcA=="
+secured: "+nwxGaHKZmXTFpRCpcPaZ5Kir5qAElsFWcSRICUOWFQNb/S9DzPgf2E0JvH2CJLbLp6RDyvlGPaQNos/e5GwI2Fr+Nf/PWM/KpYhj+MmdtdVL862TilNOsyGLMPemvQZpN4ng95aFXtwR8iC0JBMLG0YJATqkRJ6NjLwGozGNz99RSvI1QWsnaHUbxQsjQ5V7WX8YKJVDYxLvoL79tm7RpSZ+RgCgKdD36iOhKw7H5oFS2MNctE/xhw+74lS4E9GMLcnti3QHRxkV0ZNrVyCqYjkSHQSYvDWyT6qvRTBEafoiQZa5Yqln9lYxYjK0HT7;ww283tcodGRdjKkVNLiE/Q=="
 ---
 

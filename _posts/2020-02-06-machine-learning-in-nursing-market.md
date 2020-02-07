@@ -19,17 +19,32 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Artificial Intelligence Is Seeping into Home Buying Market"
-    excerpt: "But some buyers still want what automation doesn’t have: human interaction without security threats. (TNS) — Artificial intelligence (AI) is quietly infiltrating the real estate industry — without looking like a futuristic takeover but rather a boon for buyers and sellers. Mortgage lenders, realtors, title companies, property appraisers ..."
-    publishedDateTime: 2020-02-05T00:01:00Z
-    webUrl: "https://www.governing.com/community/Artificial-Intelligence-Seeping-into-Home-Buying-Market.html"
-    ampWebUrl: "https://www.governing.com/community/Artificial-Intelligence-Seeping-into-Home-Buying-Market.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/community/Artificial-Intelligence-Seeping-into-Home-Buying-Market.html?AMP"
+  - title: "Global Deep Learning Industry"
+    excerpt: "/PRNewswire/ -- Deep Learning market worldwide is projected to grow by US$31 Billion, driven by a compounded growth of 41%.Hardware, one of the"
+    publishedDateTime: 2020-02-07T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-deep-learning-industry-301000864.html"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 37
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+  - title: "Worldwide Smart Learning Industry Insights, 2019-2024 - Featuring Use Cases of Docebo, G-Cube, Saba Software, Cisco, IBM, and More"
+    excerpt: "The major factors driving the growth of the smart learning market include the proliferation of connected devices in the education sector, adoption of eLearning solutions, and growing use of Artificial Intelligence (AI) and Machine Learning (ML) in smart learning. Software segment to grow at the highest CAGR during the forecast period Based on ..."
+    publishedDateTime: 2020-02-05T20:10:00Z
+    webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/news/-worldwide-smart-learning-industry-insights-2019-2024-featuring-/2020/02/05/9092923.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+    images:
+      - url: "https://images.tmcnet.com/channels/call-center-scheduling/new/images/wp-right1.jpg"
+        width: 336
+        height: 280
 
 secured: "lvJhrQa0CW+qrX32UX14gHe1GLpSG0WXKhc0JcFE+sk9YnuWjedA0ObxN+lYTGToho1dQJwZ/UsJnHSnW/u5Wf4487+kGIBfPp9s3zO3V1+hocBm9W9EeQQ5JKtn1dhxtNt+dScyJUoP7HbsN//wyOt3Z6kOfYud8BFoMqJc2VfD3YuercsNeh6CdJzNCpsBxgsUMTeCjVjqSh26lTnc9V2otrNP0xR4s1h3owCWx03er4AeEP6OSKOdPSJ2ACUSDtRDxm2+ja5IYo9+hs1DPxaXqBj2nPSTfc96YZdjVATlvx0a+idRbo4KyOcFRvQp;aEZND8L2b2c0Jwjo8+ZetQ=="
 ---

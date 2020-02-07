@@ -38,10 +38,10 @@ related:
       domain: telegraph.co.uk
     quality: 59
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg"
-        width: 2501
-        height: 1563
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/07/224014877_trans_NvBQzQNjv4Bq4fbnCPI-RDmeGIOcGAVXQHMK-NyMFVVFzJdJCyg9hyQ.jpg"
+        width: 741
+        height: 463
 
-secured: "ivY4EfpZayNDAKx1onmu9SGMr65aUcD44GJS0/I/195yBINzZvX5DA+j9lzs5DIKlVyNXeLXu5y6XzL+1pypa1+OzN3x7YDpoUnFkj5QQd5YVCfQMpiibo2FmOPn2zx3O9EWvyBjas7wpsut/SDevj7/tS/vs/ePzUQhmf3UR8mNxgRY4yrLe36CN645ae4Sf9S1UmriwoIBINKuXJA+99aENRlCILnl5QnJ8U80LG0Q7vaUEgvOtWRnLbv0KSvxmgTx6tfgH9UnVCBG+NTKbXDfydXSqbPRPdgGxlpPEIv0edSh62KkSrg52dOguF1b;oACVXbXalMNPFZrfmZTnLA=="
+secured: "8sWWjIOGt67yB5VtDDyCrjb3+SUvBgHyUO+tWQqqgTIDkTwd0lM3/kFur2g9qB1QtFA0c1QwK3Fvqtl0zRooTcZrPug6b3DEn6tGuaaD7253x2LV7u9sdLajwX1TUKKDFzRdzqd4IWgp1B49VKz61c4iDbhae62rMh7iBVbiYKUCp+BREFVf3z3TXfkvVjj6bFszT/cyWwYGzqbVXTioitzQQ+NI0QHUdB89FjVXnryR3taaN7IQEHpRrp3RB0EVZXpT5Aj++DG1fkwP+53w4LwMSU8GAgUIApj132pLw8YdkAeWfJro9L40lV/3K6/0;vAxGkEXXYw+R2oVWp5QYww=="
 ---
 

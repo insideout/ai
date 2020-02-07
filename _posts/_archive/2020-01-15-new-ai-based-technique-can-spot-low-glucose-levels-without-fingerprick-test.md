@@ -26,22 +26,18 @@ images:
     title: "New AI-based technique can spot low-glucose levels without fingerprick test"
 
 related:
-  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
-    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
-    publishedDateTime: 2020-01-14T13:07:00Z
-    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+  - title: "AI can detect low-glucose levels via ECG without fingerpick test"
+    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
+    publishedDateTime: 2020-01-14T02:17:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 53
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg"
-        width: 1200
-        height: 1000
+      name: ETHealthworld.com
+      domain: indiatimes.com
+    quality: 39
 
-secured: "ZAHlv5BDy2MMLFvIe9C8PmQhPQtsYsfXHFRJfp67Q18E9Gz0ndhXrW9ENuwKvlUgkCTNNH80yENDNVYoewv0n6wyXAFKEgFCeLAvi1wHomCfb5OW3Rbzzs07elUKSSr/dqBBuVmCstXqqF03oL7fzH6LXp6ck4c0WKl3hwvIohiua90o0GbH//3G0FkCuAyJNR/17Pvw3gKOuxLiTkPn9gzzC1mvsrWuawoYIWXb7caKDHeJW97FeZutUP2qYGhOZcRwBgjw+giZpJo5WHcmFgGZGwK9cus9rlvGauqkh9vqu4QURFn7VYL+bLf+6Urz;vYRzR/28QYwyCmXeVJx1Ig=="
+secured: "99On+KMML9F6CbHBpqGLXgnbngW23B3RCIus+GevTGZ6HqkE4ctZP6MCwR6CrEEZXbP8pT17j++WnVuqvWAMmEmnM33MvlRKwe35I37GlZO7/WVzNw+Q8GzoRPLC+4L1ps9kn6pKFr58fshqHTjTyta4x/PY6Am9pQ2JgkJ1FMywpW9DZ9FCsCK/f/sUmqsWd4tqpP5YPuFkzcPfrYhOOTx4SYsq8WWGUxy0SczDNx6QgHSksbXeHV18NtCD1GW3N9AMQMJDCeNCBswy41582VWmDxIimdIN6EsrCgGJE+uX16/fBU6RmEQY1NjNP7gF;arabjk1AuPXGBLpvh8/jNA=="
 ---
 

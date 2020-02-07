@@ -5,8 +5,8 @@ excerpt: "Artificial intelligence continues to reshape all aspects of everyday l
 publishedDateTime: 2020-01-19T01:31:00Z
 webUrl: "https://www.gulf-times.com/story/653656/AI-and-machine-learning-topics-of-lecture-at-NU-Q"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "XxZbNhZz+pW7bTBDVdgKFkFi0bPJEJ6AWh/BnOLfMjI1mPrYchPox9SpClAQ3+shazhIpINfsOsRfLl3Fbev812L3QkdIZNtTKYo6Oian2a8bU/YgPnbmDOnqIVBkAxVqz+7rNRP5m7nCsKcqSAKjg2iPQJxUOQcvSBvI407dji6CijuLglkCt0PHLU9ZqhlU227w3+qsc0IMj4IlMpc7UKs9k7ko04p7dFeohO53k+hUPgj04qBKyV65QvXDftmD8ehcs92m+aFalplQmObAKuQxVF8SWPkI81f9BEoKQ85oo1H8cBOrbjtO12DbQJ/;yJd1BnD14jd+0qKI6SLn7Q=="
+images:
+  - url: "https://img.gulf-times.com/Content/Upload/Slider/120201913050956207162.jpg"
+    width: 620
+    height: 355
+    title: "AI and machine learning topics of lecture at NU-Q"
+
+secured: "oIhPNr41hs5l648NW35I0hL0yAoQ+Wk3idwqDpuYJUOpN35z2Wiu0V178YvMAwCLkx6QshP1aibQaFT8rI10iO9YjBo2TaPyYoM/mb0s1wd5Lo+c5/BojKKyN19bV3BbusPexJrl2+vwNWWYFZqcObZK/lYfX7IGU7U2gRoNI2np1IFpyaLP2or1ZpvzujldW/5Q2MxVB89/OyupHDeYJ+8qelg6PCT+CLNMMpPSC+bEL6Zcqg+IzuGWaxy5j6MZ1VoUm6s6nUr4EzEenc1wsKjH22QOfO7s33KY8iWc1xcD9B4zm/ILo1ZD/jkpI0hR;OJapGcqpLEiATrLyC4tB1g=="
 ---
 

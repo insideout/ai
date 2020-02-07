@@ -27,6 +27,6 @@ images:
     height: 709
     title: "Amazon signals big ambitions for automobiles with expanded presence at CES"
 
-secured: "rb2DumkJNXRDJKTLsC10uNEEN0NHQeDcB+ErfwIrVihleDxFNkEIw68FQq3seX6WigstePyxpH/iNjTXIm8fcLchq3mbEYxc3hTQL5KvrPkNrDqmF1vBwmUJkGkmvLlLY8kpDcYpOuSQ8blV0Lm40HlGwJj6+2+Prhnl7km9+h7a18/XqU3txeo3j1RvVycJPJUteyelImJe6og6t7hPfuosRGipYt3Dysr+tUWSLU9RFjoGcC21sqz3EOmdP1wrx4ggdP8gqXudmoS52zOJQ9AtjgL1xY+VrFw+JppXnjV3J5VLW6mpo30tKo/gyBEv;0Aha3GfcPwh+aZfq0hGplA=="
+secured: "k4LhHuK7NUsg9zBW0MjA0s+4u+MwjvUER3zhYsjHDX5iZ8HAh/hXy1nrPXyi8uhbVK7f61POQBhe9Rz4mFwzvjeY4N45Bo9phZwC/ldF5s1OiFwZShLgUMnhm0sr5DnIP1+78GBeRlIHbjYzvjtaFAe2MfpxJNwqCXPHSToN26vXw+NGsHZ6nzqrSG4fSi/0u6WfVdeOuAl3doVh/FH0xXmx5MhHqa8878EbU3rLoGXGuE99m6nisTdc1yXTIVDmU4UD9VJ9CTbVP5oVqhQTtAbSDlBzMryxp7PUh6G+YeUzehZhd70vw8bmBYfBSV2W;UA29iCRiLZfgJkqed+mj1w=="
 ---
 

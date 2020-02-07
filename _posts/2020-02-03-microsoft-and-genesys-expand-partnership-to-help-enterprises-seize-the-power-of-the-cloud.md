@@ -24,6 +24,36 @@ images:
     title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud"
 
 related:
+  - title: "Microsoft Azure cloud migration: 3 success stories"
+    excerpt: "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes and data type compatibility between legacy warehouse platforms and SQL Server, Thadani say"
+    publishedDateTime: 2020-02-03T11:02:00Z
+    webUrl: "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html"
+    ampWebUrl: "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/article/2017/11/cloudmigrationpath-100743295-large.jpg"
+        width: 1200
+        height: 771
+  - title: "2 Major Security Flaws Discovered In Microsoft Azure Cloud"
+    excerpt: "“Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,” he explained. “Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
+    publishedDateTime: 2020-01-30T20:09:00Z
+    webUrl: "https://www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/"
+    ampWebUrl: "https://www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/amp/"
+    cdnAmpWebUrl: "https://www-techshout-com.cdn.ampproject.org/c/s/www.techshout.com/security/2020/30/2-major-security-flaws-discovered-in-microsoft-azure-cloud/amp/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 74
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2020/01/satya-nadella.jpg"
+        width: 720
+        height: 480
   - title: "Microsoft looks to expand into AI as cloud computing drives Q2 results"
     excerpt: "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ..."
     publishedDateTime: 2020-02-03T20:07:00Z
@@ -39,30 +69,47 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg"
         width: 620
         height: 250
-  - title: "Microsoft to show off HoloLens, edge computing services at Mobile World Congress 2020"
-    excerpt: "Though the updated HoloLens hardware was and is impressive, the cloud services connected to those devices ... These will include mixed-reality, intelligent voice and other cognitive technologies, plus reinforcement learning for \"autonomous and optimized environments.\" Cyra Richardson, Microsoft General Manager for Microsfot's cross-company ..."
-    publishedDateTime: 2020-01-30T18:04:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-to-show-off-hololens-edge-computing-services-at-mobile-world-congress-2020/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-show-off-hololens-edge-computing-services-at-mobile-world-congress-2020/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-show-off-hololens-edge-computing-services-at-mobile-world-congress-2020/"
+  - title: "Two major security flaws detected in Microsoft Azure Cloud, reveals report"
+    excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
+    publishedDateTime: 2020-01-30T13:45:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/two-major-security-flaws-detected-in-microsoft-azure-cloud-reveals-report-11580389929853.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/two-major-security-flaws-detected-in-microsoft-azure-cloud-reveals-report/amp-11580389929853.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/two-major-security-flaws-detected-in-microsoft-azure-cloud-reveals-report/amp-11580389929853.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
-  - title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
-    excerpt: "“In particular in the area of computational behavioral phenotyping, where the machine learning and computer vision challenges are very significant and not smaller than the privacy ones, combining our expertise and data with Microsoft’s capabilities in Azure and beyond are a perfect match.” Alexander Szalay is a Bloomberg Distinguished ..."
-    publishedDateTime: 2020-01-28T17:16:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 40
+      name: Mint
+      domain: livemint.com
+    quality: 72
     images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/MSR_Investigator_Fellowship_1400x788-1_new.png"
-        width: 1400
-        height: 789
+      - url: "https://images.livemint.com/img/2020/01/30/600x338/micro-kDJG--621x414@LiveMint_1580391521648.JPG"
+        width: 600
+        height: 337
+  - title: "Microsoft Open-Sources ONNX Acceleration for BERT AI Model"
+    excerpt: "According to Ning, With ONNX Runtime, AI developers can now easily productionize large transformer models with high performance across both CPU and GPU hardware, using the same technology Microsoft uses to serve their customers. Taking the lessons learned from re-implementing BERT, the Bing and Azure devs updated the ONNX Runtime code to ..."
+    publishedDateTime: 2020-01-28T14:04:00Z
+    webUrl: "https://www.infoq.com/news/2020/01/microsoft-bert-acceleration/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 58
+    images:
+      - url: "https://res.infoq.com/news/2020/01/microsoft-bert-acceleration/en/headerimage/microsoft-bert-acceleration-1580052141385.jpg"
+        width: 2121
+        height: 1414
+  - title: "Microsoft's Azure Strategy Pays Off"
+    excerpt: "It now has 56 datacenters globally. Last quarter, Microsoft also expanded its portfolio of edge appliances. The recently released Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and its form factors provide cloud capabilities even in the harshest of conditions, making it ideal for a disaster response."
+    publishedDateTime: 2020-02-02T17:39:00Z
+    webUrl: "https://seekingalpha.com/article/4320820-microsofts-azure-strategy-pays-off"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2020/2/2/saupload_charts.dll"
+        width: 635
+        height: 395
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
     excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year. Register for the upcoming webinar ..."
     publishedDateTime: 2020-02-03T09:37:00Z

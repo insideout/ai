@@ -99,6 +99,19 @@ related:
       name: Reseller News
       domain: reseller.co.nz
     quality: 0
+  - title: "24.7% Growth Rate for Social and Emotional Learning (SEL) Market by 2024 | Latest Innovation, Advance Technology, Top Companies - ReportsnReports"
+    excerpt: "Browse 130 Market Data Tables and 87 Figures spread through 199 Pages and in-depth TOC on \"Social and Emotional Learning (SEL) Market Research Report\" https://www.reportsnreports.com/reports/2891963-social-and-emotional-learning-sel-market-by-component-solutions-sel-platform-and-sel-assessment-tool-services-type-web-and-application-end-user-pre ..."
+    publishedDateTime: 2020-02-07T13:12:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/24-7-growth-rate-for-social-and-emotional-learning-sel-market-by-2024-latest-innovation-advance-technology-top-companies-reportsnreports-8485879"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 0
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
 
 secured: "SmL3PZKZCw7ECZvI9mlbVVISSQwwIbmpdpif/Ns4a0r+u1R3s7aG6aM/cPg7qNX6xcyy4H49hdczEMwtTaJPw1yfMNedLzF43Am1wnfE5FWIICkJPNqVQe8ZXGlLB4LVHfY5OsiIWAFpNQTw8lOg4YjyO0+kshB3Pvk0C+sL4Yj9S1ij8D59zPkDtX5v5PFUdf1xFmtGywjTgBwij3tVBJeCa15MLaaFOLoFFV+hHKiaSzNSf5vaEhrK1MNcELixI023a52Z4Ji74W/cEvpVK70ACxJecP2mXhiRADlUbPgt4H/eEeLjiW9qnYwx7ViW;PQ5JXHDfcp+oANO3T31hpw=="
 ---

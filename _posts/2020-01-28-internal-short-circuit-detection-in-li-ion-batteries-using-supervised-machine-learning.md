@@ -23,17 +23,6 @@ images:
     height: 423
     title: "Internal short circuit detection in Li-ion batteries using supervised machine learning"
 
-related:
-  - title: "International Business Machines Doing Better Thank You Think"
-    excerpt: "Cloud & Cognitive Services continues to generate positive ... Granted, the cloud growth rate does not match that of Amazon (AMZN), Microsoft (MSFT), or Google (GOOG). But still, in Q4 2019 ..."
-    publishedDateTime: 2020-01-23T20:42:00Z
-    webUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-thank-you-think"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
-
 secured: "W4gSo8mAm9reE/21nqfF7Xs5zBRqmvbUlW2rf1t/7heXAuSS1UHFdJGUcwBi2sW5JGbRjQt7XjVkyO9qgQkT2J3Ml2pFidFLnxnweBh8zr4LTKuM8gly3/EzoxlHzMSOE7k43aIcvsnDKpq8E9Aehl3dQ98VsqPIaN+XYtMeb2vik0ZmsJen06Tfz6DEJEStR5boyNmV7t0dY2EdRgkEwHx+q1+QdvuryMoQZxcmnM4j2E0ZYKPUHru01e9yru25WhC0obWRB7mtJ0nbHOOedfc11IIc/fjIMaJP3SwwE7iwrW3tUSQoSPYlYg+WJ+R3Gji9cX0wF8H7QKXXTnPQfGSxzZOmfiBwJLpoNY2y1K/fzp9mnlnEZlg2+q6Fs3JgskjLsOD3dav6xSmrAJ78lWAPl1w88snPDf5mKaK+1mfaPPhQta5NBjsuABAqCSGhl3lU5jYBhLY3HPuuFBIHoMbsLMe4HDL3qcU9G4Y0nrY=;ACmi7f4surhyuRKiu4+CPQ=="
 ---
 

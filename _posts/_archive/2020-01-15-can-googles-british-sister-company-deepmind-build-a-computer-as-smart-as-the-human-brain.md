@@ -20,11 +20,11 @@ topics:
   - Google AI
 
 images:
-  - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/16/160120_AiBRAIN_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwfSM8Sv5nIxQonD2k-JCC_U.jpg"
-    width: 1261
-    height: 788
+  - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/07/224014877_trans_NvBQzQNjv4Bq4fbnCPI-RDmeGIOcGAVXQHMK-NyMFVVFzJdJCyg9hyQ.jpg"
+    width: 741
+    height: 463
     title: "Can Google's British sister company DeepMind build a computer as smart as the human brain?"
 
-secured: "at6UehzdAZ4RFqXhXjdAgFnumIOgftKLxhoQsBY4clBoObb8V3krY5dBnyVwJCGlyDeBTMbHkTzRS86IzBwoKC3UvFiOAUJM/xdaA9CSg2YCWRztKlpXqiyUD2qNuUXYQFuRYx/Pxu3b89RhVbQfU6xXwCHwBVvvdLTDpSgkwSSGUrRn0/ut3TLRpmzGgCbJsTBhPdjqKmMIAq95SQ65IQWjVY0S5lH2YvvzCLbtSmpeW3HS7y8cV3hJp/QNHrIauahil2GHQgINflBtDy/26EIqcHM8C6Mlw8TcEu5KegS47n1ZxsARKZXt2B8NFCAo;Sc9h7vOKMg5J1carVP8xpw=="
+secured: "g+6GHIx7LbnxSr8z6BJm4y381mbuRnsKfXEcLObWEECJjng/gmMy7D6a6zCTMdDjASCCUfKStktzuI9FASXGYPPQyO50jbwp1HmuGyjWUb8+pZI6skqesrbcOjXKb/od90eZxu7F/RTXQEj4MnjfCnXkjbuR1jJTHbMfYhlxbfdgitvzFASvWCFEizmEXC2irCDjT7/ZfqGs3W+qu1TXjjxasfT5vyibt43z8GJZV7LfQICkrcJLzxHtj6F+Tt52etd1kQC8QGvayvCd+VpUhdMzi75t4jbr6hCmF55YwG+lqwHfNfuPfSmJRLT3bywa;hWjLs+m8OvJT98gfdz1bnA=="
 ---
 

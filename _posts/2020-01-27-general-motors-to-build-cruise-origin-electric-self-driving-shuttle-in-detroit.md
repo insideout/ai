@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-sh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp"
 type: article
 quality: 70
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "General Motors to build Cruise Origin electric self-driving shuttle in Detroit"
 
 related:
-  - title: "Uber self-driving cars, with humans in control, to cruise Washington, D.C. Friday"
-    excerpt: "Uber Technologies Inc ( UBER.N) will put self-driving vehicles on Washington, D.C. roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles."
-    publishedDateTime: 2020-01-23T23:02:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZM2PH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZM2PH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZM2PH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480447771&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0M1ZY"
-        width: 818
-        height: 545
   - title: "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit"
     excerpt: "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ..."
     publishedDateTime: 2020-01-28T17:46:00Z

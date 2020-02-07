@@ -25,6 +25,6 @@ images:
     height: 384
     title: "In black and white: Counting penguins gets easier with AI, computer vision"
 
-secured: "FjImY7lrIWTpSgY6HgoF2ZQrmbOeNPMbqz3ZAS10NRdueXz041EaZQgLG2NDNX9evfDGa6sPl77gQJjEEno5O9jvdFGdmzcjq814GLQu1CIR30Uky/pjC/1oiwAgGXGBu+EiB7sPIg0UIl8FpnZipTn+VHGpaMROry/Vs4Iqp5mozmCPho+/0lTT2mc3eSVVXJ9GVbKZ/gAXmnMYkVO2tdOiT271zIiQ7H13LTc+4xX0fPr5oZXJdm+H0zgyAg1tArHDHdMVEDi4JXL3ATp3Y3ESTgn4YqXajP23AZN+cM+7b4fA+FCQXuZnXcurWXbl;3f2zQJh7RAzUB506EK1E1g=="
+secured: "vClOivJDaSYRKUl1QM07w9GVr7hIgStSIPrKIyId8HJDo8mhgziIBRQoyk4Pdz+irM9EYMGHUvWc6ZmJiKAqsRuLw+xlk4GOdzJ0OZCbS9a253+mgr1rcsiViXvjOd9UNY4GkD3YmlqJI/WT76avelqn1g301dRJL2JBm0rMw4YKWKFInfRng4JK7jFrXmzpphYzTsXw0oasErvcZD15iHYigEvwdLGE4zCtN7eA40wcrKJ9OhnizJyZtDRhtcp6x5ZC2K6IFjXQgMj7ZRy1XtfzPLWoWdeaAaKYVJALbWT0pgSfNH8mb6J2vU4sxzb1;1DnhbE5pePetFpgtPpx4hQ=="
 ---
 
