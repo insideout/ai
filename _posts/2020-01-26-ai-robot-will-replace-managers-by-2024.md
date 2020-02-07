@@ -8,7 +8,7 @@ ampWebUrl: "https://english.newstracklive.com/ampnews/69-percent-of-routine-work
 cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -65,17 +65,6 @@ related:
       name: Easier
       domain: easier.com
     quality: 19
-  - title: "Artificial Intelligence: 69% of routine work currently done by managers will be completely automated by 2024, says Gartner"
-    excerpt: "By 2024, artificial intelligence (AI) and emerging technologies such as virtual personal assistants and chatbots will replace almost 69 per cent of the manager’s workload, predicts research and advisory firm Gartner, Inc. Such technologies are rapidly making headway into the workplace, Gartner said. “The role of manager will see a complete ..."
-    publishedDateTime: 2020-01-23T08:39:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-69-of-routine-work-currently-done-by-managers-will-be-completely-automated-by-2024-says-gartner/1832651/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-69-of-routine-work-currently-done-by-managers-will-be-completely-automated-by-2024-says-gartner/1832651/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-69-of-routine-work-currently-done-by-managers-will-be-completely-automated-by-2024-says-gartner/1832651/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 11
 
 secured: "0iS7OfzdNmnEfE4G+PG5G0szcoMlcLZHrS1kv4i5EDZHY/cHYJ0xijxCOk2XaGeU0Y5rQ9niNh5n5UKyERZ+rRinSBbWPjPRO+W8ughFfvuzShP3wurbpx8XwBj3JI5q6rSBazKF1bXv7npJPMnIuC8yOO1XT1dSNy0wsRRFpb4QlY7L8aRxPNUXBkR1kNUiFbiRCLEzdl48S7sk+kOBnJdvHHAazjsr59bTlDJ1ILUEXJT6jodA7jxmOGtSwog9NA1cEI8+uikwQwZAiMwCB3cUFW8LcX1F6G3fwbjIDW7j6ndnU23FQlI/k6Ig/I4I;aCqeQClclJWJvOoGezbMbg=="
 ---

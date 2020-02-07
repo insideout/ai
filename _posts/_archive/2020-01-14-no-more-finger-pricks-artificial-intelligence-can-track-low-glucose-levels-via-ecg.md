@@ -18,15 +18,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-13T16:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
   - title: "New AI-based technique can spot low-glucose levels without fingerprick test"
     excerpt: "Researchers have developed a new Artificial Intelligence (AI)-based technique ... Basing on this information, clinicians can adapt the therapy to each individual,” the authors wrote."
     publishedDateTime: 2020-01-15T10:18:00Z
@@ -37,6 +28,6 @@ related:
       domain: thehealthsite.com
     quality: 17
 
-secured: "AaigEV5gGMc2edlQjLteTwBQ8F1F46rtrgqxWH+Du9R8Qs/zHYh2iR1Y5ByUpE3uL1R1Y56woSqpIFGb9GYCZ27QNdcWeR7dlLeY8UGTfC86HJdaSIibT88SMcs6sEIUew+G0u1zwHuYIqPzQOm7bDM7U8pmQ420YRjPS7zkt2OLZxEs2TThu5ONcNW1RjXyGekdEEf1PMLR/5FL6l0D3+SYLccdLS/+h4upFjdeE+SLVYZh0yLeXDoCIKEQILJ2gpKvivI6MTC6TJEeoriquSiGwHj/y2CpeD0iedAotGnLJRB++3YJdY9zZ5awLBj1;Ux+IeObfFpirc77GN4Oyhg=="
+secured: "ey8D6pVykNnSHC9kR/AthvPxhLI2Dws4vzCtmHLl0xdudobouzxGF0nCs5YbSSSWgMZ5MOG/D97NHLXLnh/R6Dp6DjLZCpJ891zAOlESA8U3mh7+hL7EcE37b7FROgR5Mxf9nNwTaZqWeeXoSntrd1xjSCguIjReHgn7la1hwjOeclTnBHGak0VgnIcJItsMgRPmslNVren+qZyXYdd2RIXZOFJ0dZtZFJt8jY8jwuPTR93vxrVlcAQoLUd+T1YJ9StSSCuMbZrS7ktzbonqhoVV5KgCafFYVzskqQ2BX4tE9/FOe839pZk6+K9ECSHi;PMcOxUpvkjc3UDwXHuGl0A=="
 ---
 

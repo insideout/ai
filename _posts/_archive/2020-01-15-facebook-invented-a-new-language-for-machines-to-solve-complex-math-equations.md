@@ -4,10 +4,12 @@ title: "Facebook Invented a New Language for Machines to Solve Complex Math Equa
 excerpt: "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ..."
 publishedDateTime: 2020-01-15T20:29:00Z
 webUrl: "https://www.vice.com/en_us/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
+ampWebUrl: "https://www.vice.com/amp/en_us/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
 type: article
-quality: 31
-heat: 31
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: VICE
@@ -21,6 +23,23 @@ topics:
   - AI
   - Facebook AI
 
-secured: "EY5vk6n0DLIrXookkgmsq11hOdvggt6C6JJNG2claj5Z57xD+Mk+kwCQ4RtbsV5nAkHM/vBeJarHYNrBwWZvvfFxy4l9L2tUHURjw64xkELSv5D1/HvTE1LfQBXC2ujGO5aW5xQflhvl0LgzH6avZ7zCOyJiIt37f1hTVigPnyBPCFyVWlsRrFkIJPz7Xu64Js2/IA2cVQlUh9/WxdlDwhM+qaHCeQXfsL0aZIZBTo0Ik1FMslR+LSxfDtpBJ6IYO+XTsI3oI4ErnqgpEeqQylIwRcjILxpiEMv889EJnAYR65FLCNoZC7xbfi+KSBzl;ezHu96o8kyvSOY9cGKO3Fw=="
+images:
+  - url: "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*"
+    width: 640
+    height: 358
+    title: "Facebook Invented a New Language for Machines to Solve Complex Math Equations"
+
+related:
+  - title: "Facebook Invented a New Language for Machines to Solve Complex Math Equations"
+    excerpt: "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ..."
+    publishedDateTime: 2020-01-16T01:33:00Z
+    webUrl: "https://www.vice.com/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 31
+
+secured: "8rqpdirl9mfSjIp4DASIqpGN+S15xPfdivaEe3Lit7frNNCjYaIlgOofGFZoyURX7bHw5sofq/SILSKxrIVadw4Fh+b9t1kCoEy2ctKMX770In9YDI4t8BNyLCap6SuJ+tRTU97lwHTUcH+3JSApcw9R9DH4Fcva4LUesfV+8L+Wju3A0sEZX/rcgsr/yOVIz58+QRIFHkR8Q9dF+vveKoxOc17hALy0mzXYekrSe/FoLU9RtwDqSUNEH0snqrrBlW8p7CZZZARpK2hY7JeGIbs+EkGOJa7CYgNaKdouMq3bap2VH/pXxylnUlsVDyLS;dizRONPoqPXkHVG3qF+N6A=="
 ---
 

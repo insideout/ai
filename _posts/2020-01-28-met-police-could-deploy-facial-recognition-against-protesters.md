@@ -264,21 +264,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F9f7434c0-4327-11ea-ae6f-03d3c1d12ff6%26client%3Da1acac3e1b3290917d92%26signature%3D688df7a5ec53e987c3851a64443c2d368e65336a&client=amp-blogside-v2&signature=1168fd01514e69d66ffbe6501fb414d35ba55583"
         width: 600
         height: 350
-  - title: "Facial recognition reveals AI's darker sides"
-    excerpt: "The emergence of artificial intelligence technology in everyday life can be unsettling, says WEF AI expert Kay Firth-Butterfield in an interview with DW. That is why regulation is urgently needed."
-    publishedDateTime: 2020-01-23T09:00:00Z
-    webUrl: "https://www.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841"
-    ampWebUrl: "https://amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841"
-    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841"
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 74
-    images:
-      - url: "https://www.dw.com/static/stills/images/vdt/2020/beng200123_004_qwibutterfiel_01g.jpg"
-        width: 512
-        height: 288
   - title: "NYPD pushes back against facial recognition ban"
     excerpt: "A state lawmaker’s call for the ban of police’s use of facial recognition is facing unsurprising public push back from New York City law enforcement — with one former NYPD top cop calling the proposed ban “asinine” on Sunday. “That proposal up in Albany is insane,” former police commissioner Bill Bratton told John Catsimatidis on ..."
     publishedDateTime: 2020-02-02T07:20:00Z

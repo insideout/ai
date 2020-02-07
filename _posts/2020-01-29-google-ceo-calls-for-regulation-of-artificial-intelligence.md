@@ -113,15 +113,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/10/11/64/18914618/5/rawImage.jpg"
         width: 1920
         height: 1244
-  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and ..."
-    publishedDateTime: 2020-01-20T12:27:00Z
-    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 19
 
 secured: "ZaPxRWfqBcgBEPfV852Tj+yQqOeslMAnSw3AhlXBggDElUffkrBnNI3uqMQXA2egVEGmYQsn1Xs/nkE3q9JnFwF3e56CypjU3aSZ27+zdX4gFffRfcp3n1sfOeonLoJtrF7/uSllOtgFjNLLgync4mCFcDUvYxS0bMK9dcf0zxOF9YUlM+pO8chz+qzD6P8iU8gV//y1fX+7IY0lfAVQsz+PEFnG3q/XvcP4lGHUdHTqLAFEdirAMwF+Qya6Qxenh92WxpRcK7ofGvQLDTzM19kLImH4z9haCnnjtVnP+i7ZA8oC9Apu0l3uQJmzpOakXI/HZnTtc3wJZaAWDrjcsjukQA/yDGC35ax2BPHs79NCBybJrGPseeSsz19k5nndf3Cz/+UEW6dIUockceCd/ael4AdKn9g89jR9HL200UTL7erxTeHKTmuVWCl5r9zGCZDOwzGcAYVzviUNz/r/8/fVSYeu9zQziOsp0j0cKCI=;q6EJpa+Ba742M7OE46bXfQ=="
 ---

@@ -1,8 +1,8 @@
 ---
 category: news
 title: "HCL launches dedicated Microsoft business unit"
-excerpt: "The decision will extend Microsoft’s offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10."
-publishedDateTime: 2020-01-21T16:30:00Z
+excerpt: "HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft’s ..."
+publishedDateTime: 2020-01-21T16:31:00Z
 webUrl: "https://www.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK.html"
 ampWebUrl: "https://m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html"
 cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html"
@@ -19,30 +19,6 @@ topics:
   - AI
   - Microsoft AI
 
-related:
-  - title: "HCL launches dedicated Microsoft business unit in Noida"
-    excerpt: "The decision will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10, the company said in a statement. \"Increasingly, customers are making bold ..."
-    publishedDateTime: 2020-01-23T05:36:00Z
-    webUrl: "https://www.siliconindia.com/news/business/HCL-launches-dedicated-Microsoft-business-unit-in-Noida-nid-211952-cid-3.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/MfYXru58.jpg"
-        width: 570
-        height: 367
-  - title: "HCL launches dedicated Microsoft business unit"
-    excerpt: "Noida, Jan 21 : HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft's offerings of business applications, Microsoft ..."
-    publishedDateTime: 2020-01-22T05:12:00Z
-    webUrl: "https://www.newkerala.com/news/2020/10673.htm"
-    type: article
-    provider:
-      name: New Kerala
-      domain: newkerala.com
-    quality: 19
-
-secured: "6srJU2MOOEwhlo28X3iUUvZiLrIZWbUV2QOWJ1JFv4tKOwKWkVZA+VphgJW6If4eoaWjbWyM08EEIFJRpGzNazUxcIkh0iXiiwrqUIIUXwpNgQq99jsEjsPsfaLFxRJsViM5iMFKTX+/z0rcERagaZdb3yihIdt31lMezhUns0KT0GyFpFoCmsfrjH37mM3QNLSoEybmwifin9+BrkuvNw16zXFpfeoFw9pq+cgVFYfzQYjhBddZ5wIMAYKDWUJ4c7flaIhLx9lOqJTvwNlkpphYI4pVvJQmJxZNzA56IzdgBxT5Zyi1I7BUGY8Dkw9JvTwRSsSyXFyOVK222HqOFJSNZsDbJORU5l57rrNdBAWMmx/1sMKke8bstXH2nEsiPwZuq5mkKVAsXJZEO3guI90O6NC5nUMYQ1KvVTVKqRHQRDkB4UsfQYvKpVkp/aZfaufjuQmJhAEs+26BsRx+PA==;XjRCstRJROj1iIIdogqe6A=="
+secured: "mCrne6nGv8Lq+J2uMVsuh/dAwmFQvkwUGi6w7D61cSRwJMobmXyEs4qgR7HKQ9SWUY2DLpGwbBtzSKOeT26XZVqvXcfGe/7YwLAERi1brScOSQORs3WPSLWlcz6zJgQRCgtrHsWkOi8xHVRrwjIOD9vTA5455V+Xz0NMqIJzWPXw5KMJ7o8jbWt7DW+fcA726rmvliowMBJ9V3N7/mO0NspRgwJEpxO7jbeQKEKEcVLxuI3eQbAN4e60qxu4uHILRS2csW/J2ejvisrfbemTd0Hiuk/zXwjEro1CvWdpBYEsgq37k2XDRMMHLWxVkEEa;wCOL3EhNL1lBe02IgqjDvA=="
 ---
 

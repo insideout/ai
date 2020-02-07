@@ -4,11 +4,9 @@ title: "New Tech Lets You Test Your Blood Sugar Without Needles"
 excerpt: "“Precision Medicine and Artificial Intelligence: A Pilot Study on Deep ... she works towards her masters in marriage and family therapy and art therapy. In a past life, she worked as the patient ..."
 publishedDateTime: 2020-01-16T21:44:00Z
 webUrl: "https://www.healthcentral.com/article/new-glucose-monitoring-device-for-diabetes"
-ampWebUrl: "https://www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
-cdnAmpWebUrl: "https://www-healthcentral-com.cdn.ampproject.org/c/s/www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: -1
 published: false
 
 provider:
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://images.ctfassets.net/yixw23k2v6vo/6HWebXmG36CblFmUEiDiQi/09577f3ff78807e49ae9e3212fed07d7/iStock-1175717080.jpg"
-    width: 1254
-    height: 836
-    title: "New Tech Lets You Test Your Blood Sugar Without Needles"
 
 related:
   - title: "Sensors and AI spot low blood sugar without needles"
@@ -36,6 +28,6 @@ related:
       domain: futurity.org
     quality: 19
 
-secured: "1wCg4M7ziGBngwIWAW8ZJF2emFA8H4C7nVPVCbGyWk55WMEcPkQ3m6ITAsmzHHIwmCcFGLKpexbe9NpILmHX4no1+trdQdtLH4cZsaVO0UvIzPsgjsTn/dc4bIRAqX9u/KMa6nefsZjn4v/NrkKRDO8x+rH19pv/lu17gj8s9b8KYmpTEAUoWD0Xaxn5vsm75HTdZGMK8TLqX6sJUTE0jKCj20to/quQvX5V45Fp4Sc+pKCqTQFNJvTIX3cKYUqz2oozKbnOfrnkVNb8kX4ps3I6xaimO/AfrsTPkV1YPUtIAwTBa9CNIMV2YcrUIpgf;biBShOJdG/c83cfbLZWrgQ=="
+secured: "/hzJYZnDWgfyJMiav2nlJ/VjicT6si1OKXg9qDggmGcqMQlwSgrFnFNOFbV6oxMJS/9S7R1WHY/GpDfvvNe6KpvoWUpEUpSY+FEeg+8Fx4NFAXY2EMOBKtmTcW1q6uvraWF3fMq8poTaS82FOW1WvxRS79z1aC94mb6d6K+7QgwTed30PWsH1Ztg1JFhNxw+vNxrP4/oEMgP8SJsa5VCsyYdPmeYluAytAkXP2Je0KbW6FK48agIUesZ1dSf9p+MvRXBjFOyGO9mEl30lUkmoiJ5iqUgdwg5hnqtKeQbyfvXISDZne9yg5d7aJnLpnWh;ExvVEkOmPtAID4TlQ2bdvg=="
 ---
 

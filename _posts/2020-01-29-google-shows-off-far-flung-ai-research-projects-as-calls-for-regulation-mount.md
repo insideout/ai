@@ -64,35 +64,11 @@ related:
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:57:00Z
     webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
     type: article
     provider:
       name: Mint
       domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
-  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
-    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
-    publishedDateTime: 2020-01-20T13:52:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 19
-  - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
-    excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
-    publishedDateTime: 2020-01-21T13:29:00Z
-    webUrl: "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 19
+    quality: 34
 
 secured: "4+l5ZGtCSSWYdPPtIn4EMaHpAkQwCqX9ROT7kJUkq28bpvZs/pKoUB7naCxe4ADacVvTIOd1DVhFq6eObeyNLbTGHqWDYfriy7fsRzhWWxUwwjfQNm3rLPU6Puz23HpUOIKkr+WPk1I/O11ch/NA5yzQugJ0pX11tsEwtB56/injXuNCNFnJumIGkcdL8qqML1cueeUF0O6EXDDaCgpZJqPNWVkcmuFkd1SFdOswLGGHKd/upSNftSdPPHe4MWjpHNyrspUWpelIGm325ovNMIBj6ouVIn3mx/oIBDp+KZuEYBSDigWSp+QjbMF7ZTor7orpLhJlvB0jrSRh8we6uGAl3GmJdLl2c5NUWASD7GeWDTCsaS0gv8f9DqrQs3fxEBsoTaRtBD0h85UUjWloO/yrHd9eow2yGV90Vd40PTsLXSV6gptN00/tYtaz2Y/YdDfXwNYY8ws70xaBqQ0HhudOGYx8773+lv9Hc0qdIrQ=;aR/CBZ/k8+M/WWbn220hMg=="
 ---

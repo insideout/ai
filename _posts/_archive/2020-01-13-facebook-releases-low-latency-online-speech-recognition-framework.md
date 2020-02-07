@@ -41,6 +41,6 @@ related:
       domain: mobilemarketingmagazine.com
     quality: 16
 
-secured: "Cw7+5T/oO6gU/8v1FvToeFlRvUkeE3QWsga2wB5IrTDaVx3BGLe5+hlXKAL+lF5mj7kCHu7nHZ1+QVQ4b5RbSkSYFaEmWcEw05p4fpoCEzelhVviS4xzRG0jx+RBhYmBHHJ9k3M+fYZCgNrr+LXXZONtvN+XQ94us5NzomsfqsI4mlng1W95b6ay8LIjKwrrYzBjKM06+2DI42itdFo0wKRGbHDwX+0WMRDtkbNpvFj1IwJh0wHlKXUjY5XG0TnEjdgR8w6F+gG2ZvcEaLUR5R0MmznxE0CnpJGdXWQP4NVa2dlOSw12n72DAyemMtaa;jXMz7EyaUl5EDbR9Nj83LQ=="
+secured: "cS+610yjhSNhXBjD+/ORDERdFQ5f3ToKteujL9m9idAskg+ZA92pYK0TwWKDnGUbvgjmBarNDA9ol6GU8MpxmXFEiEsPE1nXPqdsH/+CdU8xpSki8xLVA+1gPVYJJnqr3YQWseuBOqXVoUtjcwkxlBcJIQq19qu5E94MVeVG8EEWqddBzznVQs2LdChqYdQ/x/HeWBXi0o+CEvZQiGdY340G7mvW7hj8DhT1iLxvooauN0XQl3bNGU+KQn6Kd32mtqXaq7qmxltAal1UlRr48BC0eGbohpAXmj1G2IedRxAeMpCHvx0IwRch+axh037p;kchF2Gj9I843Fav7YVThug=="
 ---
 

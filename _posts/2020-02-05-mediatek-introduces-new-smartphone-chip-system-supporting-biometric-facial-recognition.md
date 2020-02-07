@@ -50,6 +50,19 @@ related:
       - url: "https://images1.miaminewtimes.com/imager/u/original/11473392/license-plate-readers-tony-webster-ccflicr.jpg"
         width: 3135
         height: 2008
+  - title: "How smart kiosks are using facial recognition and predictive sales algorithms to bring a dose of humanity and hospitality to restaurant tech"
+    excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience. \"Our ultimate goal for the software is to create the most hospitable experience possible in a digital ..."
+    publishedDateTime: 2020-01-28T21:42:00Z
+    webUrl: "https://www.nrn.com/technology/how-smart-kiosks-are-using-facial-recognition-and-predictive-sales-algorithms-bring-dose"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 4
+    images:
+      - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
+        width: 770
+        height: 400
 
 secured: "tnO6K3iSXp64BgQ98M8MfyMiLYdPs2wT+Zdk2xAzrhmybfRrDD9WCS+rrI86468j5hijZvOWpEsq2DO2dZNkxdJHdXqdejQz5rEA1Ab4+KzVpKTvK32wfjFMBK9grUIiBhE4yLWcCrZzMVWwrwkQ7qQuY2GkUYZhPxH2q8PR+6CdrI/tGE9bDfw5RPpn8AyuWteiSDzP2MBkTFCCLXtq/WDsWQvKItfZpwJ4CG2rsXgLyU/8EhqH/TUs4CdkgnUAW9aFkwDccL7Rfz/zjSF+V4GosM9+lSPJTHRuF5rXbjzbaqUOeVVSGUwNsP/d87JAOErrrTbljOnsY7gbIvneHOTsSkXUfIWGb2bDsd/uIL2RPq+uzkJz7ECjkn23V5Npy7gmbPW1xmxsrRz1V0me54nGtQInRy9yTQNxRTy/U7ZiA7K9B/2NKlc2UQNW3BJlaYwAVYTs8P/1jPf9gyU6K/IsCOcrSfyplNkamauUymA=;l10C3DBpLzT24N+CnNAAZA=="
 ---

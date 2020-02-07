@@ -58,6 +58,6 @@ related:
       domain: ttnews.com
     quality: 4
 
-secured: "5S7Qo1sb7DVmRZULAE/09mjk9IKqY9oojQ3OTZtbIZ035m+x6OVfXQkUr9bbPbkcsCLNU3GlwRmSNYvtYYxsb/0pZX0fN+clPfEZhtOFjrX9Kq/X1s29lDasTwaeYd4kolv3yP88LWTznsc+43a676DYaQdEKX2jUAEEMhVqdZ8DSuUucXxBVoEwQeKxB+W5v7J8CY2NJ8wNM6Y5HcOQTzrBoZaoThhb+ysYAGe1ahAsXWJBSOT894bH///wyABUDc34UlsMd1As+Ia8cYWRBsHnV6sfW3w7jGxdGD4QSfq/+/0p9L/mTaFiceTISKME;+juATwLmbazYhahrjla3UQ=="
+secured: "IingIEbAeDw/LGD1MFxB+ILtm4+ImWyIczaw7jYCzun083Asj+ZKkjk8aUmoj2invzrpjdgxjk5vgGLNB06kYR5OLC5XLD6yi+Clp42ueQURJUgxfXeIFWFkjq4hjUmHvM1aRglv8ytNmJ7utQojrvl0Cgva2DV9IzdQESjK0rLNgJV8h8bgeREd0xfGpZ1vSyeB9n8RRuAFdDGG+VF1WhnKsUvkbDS2EggmGDnwqrIwo1i5ypuHtXHAakZ1OuMaZ294oSUlsjimt+gtWCXFSwKKjZYRgdSc9EH+NL4tb6MIbTbd6DSVUgTaiytATSWJ;XYcFxaklJxyBB7tZegPsEQ=="
 ---
 

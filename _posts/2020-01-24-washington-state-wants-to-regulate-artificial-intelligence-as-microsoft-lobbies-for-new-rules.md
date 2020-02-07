@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/washington-state-wants-regulate-artifi
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/"
 type: article
 quality: 175
-heat: 245
+heat: 235
 published: true
 
 provider:
@@ -117,15 +117,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/b/06/b064a2d9-045d-540d-b183-8334cf9a9299/5e141419b5f14.image.jpg?resize=1024%2C695"
         width: 1024
         height: 695
-  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and ..."
-    publishedDateTime: 2020-01-20T12:27:00Z
-    webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 19
 
 secured: "YFbB48SGT4Pg0US/rkyALo0qGJ+sQDckhEgUKj8f6WdI38bUfcQG64sRBhou1Kjz7GsY4oV3q6C2f1iEaTtuOtK19/lP6dhrPbRw6M6gZxqMtUfmrD6xYJOskCwELUbe8U4JBcDve+WzoEqXfbL0EqRbGiXoe+zxpfWdtjjPPMCYi6haBzDXpRkYdEF9CbOGEk+jRTbVN600BWAoP10mrSmsTqqmyMVcr6BxbAagw7EIs6k8DXXq7IWp4AG8LIXlRjRooutVN7wW0sLHJ8V5WzoEEuzrZsngJF/fzGjFhBxf5HVtAyXicnEkrvnXPlvwEW+BiDcbzckNg1nYqfPtdV96rDd172kyDWjqxmw/lKgORjpQAALR6zhuQ+IT6gH+uwIb2uHVJbreBKFHU/uVQ+BCQLwe9oZiTiBK+OlMdeWPlxrnBWxGk92BlN172B/2FOoJSiWJG/r9lQ+f6e0T9tHxksQQJNSQiCeVpy68K8vTVa/AcR/WCF1sv7/m/tpA;i03cTk2mehFKW3AfoNd34w=="
 ---

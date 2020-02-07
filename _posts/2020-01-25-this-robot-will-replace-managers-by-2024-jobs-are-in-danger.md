@@ -65,17 +65,6 @@ related:
       name: Easier
       domain: easier.com
     quality: 19
-  - title: "Artificial Intelligence: 69% of routine work currently done by managers will be completely automated by 2024, says Gartner"
-    excerpt: "By 2024, artificial intelligence (AI) and emerging technologies such as virtual personal assistants and chatbots will replace almost 69 per cent of the manager’s workload, predicts research and advisory firm Gartner, Inc. Such technologies are rapidly making headway into the workplace, Gartner said. “The role of manager will see a complete ..."
-    publishedDateTime: 2020-01-23T08:39:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-69-of-routine-work-currently-done-by-managers-will-be-completely-automated-by-2024-says-gartner/1832651/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-69-of-routine-work-currently-done-by-managers-will-be-completely-automated-by-2024-says-gartner/1832651/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-69-of-routine-work-currently-done-by-managers-will-be-completely-automated-by-2024-says-gartner/1832651/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 11
 
 secured: "K9pgoWLuGYBk+Tf4KRn/pTXqimk7LQlTot7vRVVBnsSNU2WyCBiYI1/aBDXaIl4HY9VP0gKJCdNVKLCw6HE5f4l1lH1u8vNGE6yb2GQmKQOzNH5srZqF1X3aonDjjwx2y8NCqOmoj5w7SgTYZcmvMaxtteMhb0dX+HxSXnmTOaxQhKeECtc1QaRbKXqJiyNyqa9p4oGKaJ4OqzskHPiwVENuGZ9xcxQANcTNoTe89NSueHZgZYVQHn/NIcHhVW1t6WG8Fy2jx1aEBMW65LK7vD2Y1cvJc5WW15dt397R0NAnTG8gn55tKx2DZkK3Kv3q;317kJB9SfVe7BoHsPrxV7w=="
 ---

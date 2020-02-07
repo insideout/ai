@@ -253,21 +253,6 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg"
         width: 1200
         height: 800
-  - title: "Facial recognition reveals AI's darker sides"
-    excerpt: "The emergence of artificial intelligence technology in everyday life can be unsettling, says WEF AI expert Kay Firth-Butterfield in an interview with DW. That is why regulation is urgently needed."
-    publishedDateTime: 2020-01-23T09:00:00Z
-    webUrl: "https://www.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841"
-    ampWebUrl: "https://amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841"
-    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841"
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 74
-    images:
-      - url: "https://www.dw.com/static/stills/images/vdt/2020/beng200123_004_qwibutterfiel_01g.jpg"
-        width: 512
-        height: 288
   - title: "Met Police could deploy facial recognition against protesters"
     excerpt: "The operational use of live facial recognition (LFR) by UK law enforcers could artificially inflate tension between political activists and police during protests, as participants may feel under pressure to conceal their identities because of privacy concerns. According to the Network for Police Monitoring (Netpol), which monitors and resists ..."
     publishedDateTime: 2020-01-28T16:38:00Z

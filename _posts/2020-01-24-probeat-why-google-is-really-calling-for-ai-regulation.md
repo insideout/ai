@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-call
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -63,35 +63,11 @@ related:
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:57:00Z
     webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
     type: article
     provider:
       name: Mint
       domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
-  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
-    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
-    publishedDateTime: 2020-01-20T13:52:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 19
-  - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
-    excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
-    publishedDateTime: 2020-01-21T13:29:00Z
-    webUrl: "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 19
+    quality: 34
 
 secured: "aXZW1j7cc9dRArp+VUcamiUV/jFhWIfpenbalqT5BnDoHw38lDegTrgS+mY9KTdnXzHp+kv73v2nhngDVfVep7+EVNIrQB0FKegjgORhryesH51lqEK2QbXMaKpk7a4qSIVtg46ZjptlsDwsTuke73w9OHl9vPfRkqXwv9a2zWjDdg+RlczL+H8pgu8N64Rp6JgVlDB/azsXeENGf1SHEkppbWPzWLGe4Zj+yLhNRcfInS6Rx96cePzeVI+FszDIxmEuJP8T0Qpb/cKZ/Y4zrwWUFKDTiR8A+Qm/hGTV1P+w1ROtLDaTkxvfvGOrrmfjhUZrJaHqWPlQHgGNr0y9C54iXeeQqCp5mUf8FBIhjAaRZbsQvtDKqSVK5+fuD0tJeXex/ISTTlFX6v/sw44c4B7v6jTgnYerEvvo+DKaObx5UtFxhc9FVqsoMZLrbEtNmXW9784Kdw8CJMnaWUkPpjVeYTCYSdCkp1qptTyZGpM=;+wMbqHzzzbCYec+vR4yCWA=="
 ---

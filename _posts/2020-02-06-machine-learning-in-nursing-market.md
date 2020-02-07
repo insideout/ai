@@ -5,7 +5,7 @@ excerpt: "Request Sample Copy of this Report at https://www.qyreports.com/reques
 publishedDateTime: 2020-02-06T11:30:00Z
 webUrl: "https://www.openpr.com/news/1921686/machine-learning-in-nursing-market-report-business-strategy"
 type: article
-quality: 4
+quality: 21
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Machine Learning
 
 related:
   - title: "Artificial Intelligence Is Seeping into Home Buying Market"
