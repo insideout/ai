@@ -32,19 +32,6 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2020/01/4910966596252f146b0d4k-1024x575.jpg"
         width: 1024
         height: 575
-  - title: "IBM takes a step towards argument mining"
-    excerpt: "... team has spent several years developing an AI that can do that. Last year IBM demonstrated its work-in-progress technology in a live debate against a world-champion human debater, the equivalent of Watson's Jeopardy! showdown. Such stunts provided a ..."
-    publishedDateTime: 2020-01-23T11:22:00Z
-    webUrl: "https://www.fudzilla.com/news/50177-ibm-takes-a-step-towards-argument-mining"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/833cbb5cf00e32637111be49c35faa2a_L.jpg"
-        width: 620
-        height: 464
 
 secured: "gkkFjzaR5Wov/OycX53EQbpl8ccplZCdnxF6ZFQMx+ILvsV448wYRsey/yqLY0Q5yc6VJDnelOpKpVaLkFYUDwpNRQkFlmJNtDSgJnSNMk68lgh4IhywChiQ7MGvi/N7RL7PBPMUrdhUgJUt+jTONdV1O7GmqzRQHApV8G7qCZiuDMbilX/nfuCXTeztUmSr8JIdIYklsbXymcjSxwwklFgybVw8IhvZNDi4zx18GGEC4MoF3ykVkbdeoeSr5fR0IG/IDEWzZVyQhTSVTyh7yaHxUr5p//bDce+P+c/jm4ip5CEJl+f96I6FNLfP6xmWzuFdKFkFIP690cGHbyEorEJhUchI5HMJTI/35AohwEbtRR83EbPpOECvU/+7ihSSn9fARFUAbg6ryfSVI9dc5SW/10nR25T3VAdACISzEZhpa6aqTLD9fYOFpG+q4f3r4Uzc5NI1JilCOHfQDdsOKLlOhjdVQO1TPuZKNe6T3LE=;JkzTQngf71gLu7cw89Ya5Q=="
 ---

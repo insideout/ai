@@ -83,21 +83,6 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
         width: 8000
         height: 4940
-  - title: "Artificial Intelligence Needs Private Markets for Regulation—Here’s Why"
-    excerpt: "It seems the White House wants to ramp up America’s artificial intelligence (AI) dominance. Earlier this month, the U.S. Office of Management and Budget released its “Guidance for Regulation of Artificial Intelligence Applications,” for federal agencies to oversee AI’s development in a way that protects innovation without making the ..."
-    publishedDateTime: 2020-01-23T10:30:00Z
-    webUrl: "https://observer.com/2020/01/artificial-intelligence-regulation-private-markets/"
-    ampWebUrl: "https://observer.com/2020/01/artificial-intelligence-regulation-private-markets/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/artificial-intelligence-regulation-private-markets/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 57
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/brain-4723976_1920.jpg?quality=80&strip"
-        width: 1920
-        height: 1108
   - title: "The AI regulation wave is coming: Industry should ride it"
     excerpt: "AI industry engagement on regulations is the smart play. Martijn Rasser is a senior fellow at the Center for a New American Security, a Washington D.C., think tank. He previously was an executive with a Silicon Valley-based AI startup."
     publishedDateTime: 2020-01-24T12:17:00Z

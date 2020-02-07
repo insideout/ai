@@ -32,7 +32,11 @@ related:
     provider:
       name: Tor.com
       domain: tor.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.tor.com/wp-content/uploads/2020/01/Artificial_Neural_Network_with_Chip.jpg?fit=1200%2C+9999&crop=0%2C0%2C100%2C686px&quality=100&ssl=1"
+        width: 1200
+        height: 686
 
 secured: "YmwyORokAhxorjbbupk4WareuzZmW2ng8JrQSBqfJI0Ws5vSiXGhoR+5eFYDUuPdpt9V0ugOKxqwLfvQlHO9bdsibSjMi/pi1o21SDIxcM3c51nLLrKr9zXLZh3qLsPPHy7xTwFL5DfgBu025JtaRxRWYQ4glM7yfScYYYSe3rcG8jUqy6t5EW+xZBwy5WP5vXFzub/F7FHmNhISJbmhioH59BHx8LljE2t6/XTpsI7V+wb+3U4JJXl9OsHjf2qK+KYSssjXbXXE2py95fY++wNZ+DLTCOdOAWm/1Q7E0h62VnI82Ja/FvBzCJke0VyV;qR7HrzXDDhl9CWfb/foqUQ=="
 ---

@@ -83,21 +83,6 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
         width: 8000
         height: 4940
-  - title: "Artificial Intelligence Needs Private Markets for Regulation—Here’s Why"
-    excerpt: "It seems the White House wants to ramp up America’s artificial intelligence (AI) dominance. Earlier this month, the U.S. Office of Management and Budget released its “Guidance for Regulation of Artificial Intelligence Applications,” for federal agencies to oversee AI’s development in a way that protects innovation without making the ..."
-    publishedDateTime: 2020-01-23T10:30:00Z
-    webUrl: "https://observer.com/2020/01/artificial-intelligence-regulation-private-markets/"
-    ampWebUrl: "https://observer.com/2020/01/artificial-intelligence-regulation-private-markets/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/artificial-intelligence-regulation-private-markets/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 57
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/brain-4723976_1920.jpg?quality=80&strip"
-        width: 1920
-        height: 1108
   - title: "Google CEO calls for regulation of artificial intelligence"
     excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
     publishedDateTime: 2020-01-29T16:49:00Z

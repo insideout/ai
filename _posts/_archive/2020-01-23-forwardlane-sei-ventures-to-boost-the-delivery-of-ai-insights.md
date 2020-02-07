@@ -23,21 +23,6 @@ images:
     height: 250
     title: "ForwardLane & SEI Ventures to boost the delivery of AI Insights"
 
-related:
-  - title: "SEI Ventures and ForwardLane Partner to Scale AI Insights for Financial Service Professionals"
-    excerpt: "/PRNewswire/ -- ForwardLane, the leader in providing AI driven intelligence to financial services professionals, is thrilled to announce SEI"
-    publishedDateTime: 2020-01-23T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sei-ventures-and-forwardlane-partner-to-scale-ai-insights-for-financial-service-professionals-300991802.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1080972/ForwardLane_Logo.jpg?p=facebook"
-        width: 1284
-        height: 673
-
 secured: "TNMx+whqChPXlkEXpa0nliaF5iTSIj7ODbpBtmlaS8/WFqBszt7uqAjUbnX0b7EJBTpnVzJbgBsiSkew4iHQLMd1GXIjHjE1qnzutrfeRIzD+XZNTFhxEzj6khpWdlpvqCxkzQpPOFv3iYrQsGpSJ1Fu7zsH7M0BLJYQEN9LR67BMwhHKc91VyE5z0CcnFwf91R8F8t36fDuJCtgacmHiQvbIaSgIo44XpqlQ65Bzq+wGmytLTPd3J5CuIPezL/WoTHqmn5aOcLH8syvOJ64zwLYvmDEWTnMO9E1xaJILnEjbmB0hmx5ltL6cHM0boFEHFaxede/EU51CC2hs1D8zn7O7ZGQiKokRHyl7WXqBLNgXUbhiyRpFFSjF9+fuLlET+1avlTTwo8hba8wHEX2ZtYb9ZOLLzgm9IwUDPTS+floXg/jjMJb+Z/uBR6Q7z1Q2yfrrO4eV0omJy50rMFFBQI3OfzGe6DuSfivY+OyHL4=;3Fn2hMQwj3Csw8NRHN8ZGw=="
 ---
 

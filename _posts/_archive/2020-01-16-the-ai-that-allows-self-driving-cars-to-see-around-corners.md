@@ -4,9 +4,11 @@ title: "The AI that allows self-driving cars to ‘see’ around corners"
 excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards."
 publishedDateTime: 2020-01-16T15:04:00Z
 webUrl: "https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/"
+ampWebUrl: "https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/"
+cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -17,17 +19,29 @@ topics:
   - AI
   - AI in Autos
 
+images:
+  - url: "https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg"
+    width: 2501
+    height: 1563
+    title: "The AI that allows self-driving cars to ‘see’ around corners"
+
 related:
   - title: "Artificial Intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents"
     excerpt: "An artificial intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents, according to its developers. Researchers from Stanford ..."
     publishedDateTime: 2020-01-17T09:32:00Z
     webUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
     type: article
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 0
+    quality: 31
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/01/17/15/23528232-0-image-a-10_1579275858378.jpg"
+        width: 636
+        height: 382
 
-secured: "o/AqtL6VVyV+mfhDenNDcAkpAXvICq7jF4CQvzizoriDlDD2PwPVs/RGIGvKuUaJ7/h47dgAjscHIoSEwxialE+SMKtjAnfoqMH9ZTjwjwppxL+V71H4kzdU2M+TaYAXt2G6UpeayG3tZe10lly427XvvrhyUihHqLTdUaGLacPPw+8X+aThuqo0pzIH7fCV2r68YQaUGZwxGB8hOTL7kiHj1yESBOd1ji222cfe/2qZtzQpLQ0X+k/+n3RJ1/MTIqcXVB0Pzev+/w+rAn5+gx7uhO0DTxLDrn8fW61aTiES5KveIaZQGMa4sVvz9KSJ;DzCM+/X2kNIOgRFn3kspew=="
+secured: "wBIYN1WiuuXYLLH8BPrW8jdgl8iMXw9IeaifSyrgmU6aVP0qJ+8Ho5kvNoRuSuHz3WNueOeCez5wCuwmigNsQ+yKXHoG9mU0dxpq1r+/JPDb78XD5ohGXBg6LDyx+BbelrTCQ09SpL1m7UHUt9K/b/SVBRoa8Keme3D+5ARM8rIFJQ8erC/nVhCZ24YEHKNGQINhKqoUI9upfnCaietgJF73r7/vx8B+NVRcpwdOKf/t1hx+V+C6Q44tPIje3B7aowj5YrP3hyIVBgxn1x5wC2uVecWhSs1DRg1CWpKXFPQucBaXow4KHzCMnp8K6t//;p15zVV0weiryWqxzkc83uQ=="
 ---
 

@@ -39,6 +39,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Life Sciences Market to Flourish With An Impressive CAGR BY 2020-2025 : IBM Corporation, NuMedii Inc"
+    excerpt: "Artificial Intelligence in Life Sciences Market Report has newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques."
+    publishedDateTime: 2020-02-04T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-to-flourish-with-an-impressive-cagr-by-2020-2025-ibm-corporation-numedii-inc-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "AQKoMZryXRIZZIm6SZAK5TQEQ/mClAOA/hr/4CiPE6d+VscuzE+pM9j4vWl1GYQIMdh9WQe6kdOQHf1n9fYqVCxJ//QVqZrCI5UL9YTWg5LRlpgYjP0wYh8/3NHSqm3gGslW75On06jNbz1/xhnuC5GYSsuK/RLMNcsu7KHCUZ36ZkMhdV7xLmV2fWnBRxhgnofhglLXThTlk9VlM/BVdufOUEhA1280g0FIglKzg9uO/57XC/r8sjHPdX63dlZTqkuC3ArQCT/hyo1JgMp4Pq8tiG9km7BsR72yDyDPi8vMqKkKs6RCevHkkA+mxNqYLOYe8q3TbcQEDymn4x4p5qsqGcUJofIIMmCe46s60I3dg4XqO1HrFBOGIAX/PGIAwQ3l/Bh7a5YjaQIitKSfCuFTm7blN96Bny1w7lQUwD95T8MGm0tGtwRSSaRmAiCbueXvuUdOvjjM4028YlIv22j+X745sTGSMrY8Cprm8nA=;ISHzUOX2leXhXOuO7GPfug=="
 ---

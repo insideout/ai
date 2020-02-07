@@ -901,15 +901,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/c3/ac371e57-1c1a-5fad-9cdc-c4772d24a273/5e2b5b66b25a8.image.jpg?crop=1745%2C982%2C0%2C102&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
-  - title: "Facial recognition’s reckoning, Fourth Amendment edition"
-    excerpt: "Last week, The New York Times reported on a facial recognition technology company offering law enforcement, federal government agencies, and companies the ability to identify people simply by uploading a photograph. Clearview AI has compiled more than three billion images by scanning Facebook and other platforms. It analyzes uploaded facial ..."
-    publishedDateTime: 2020-01-23T11:17:00Z
-    webUrl: "https://www.aei.org/technology-and-innovation/facial-recognitions-reckoning-fourth-amendment-edition/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
   - title: "40 groups have called for a US moratorium on facial recognition technology"
     excerpt: "The news: US government use of facial recognition technology should be banned “pending further review,” according to 40 organizations that signed a letter calling for a recommendation to be made to the president. The letter, drafted by the privacy advocacy group Electronic Privacy Information Center, or EPIC, cites the recent New York ..."
     publishedDateTime: 2020-01-29T15:27:00Z

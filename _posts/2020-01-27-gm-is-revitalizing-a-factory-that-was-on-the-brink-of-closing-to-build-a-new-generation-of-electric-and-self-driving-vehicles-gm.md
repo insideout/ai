@@ -318,21 +318,6 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/truck-3401529_1920_199.jpg"
         width: 1920
         height: 1280
-  - title: "Self-driving big rigs coming soon? Waymo set to begin mapping interstates in Texas, New Mexico"
-    excerpt: "The Lone Star State may become a little lonelier — at least when it comes to big-rig trucking. Waymo, the self-driving vehicle division of Google parent Alphabet, is about to start mapping in Texas and New Mexico as a prelude to testing its self-driving big-rig trucks. The mapping minivans, to be followed by the large trucks, will run ..."
-    publishedDateTime: 2020-01-23T11:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/01/23/waymo-texas-new-mexico-mapping-self-driving-big-rigs/4546366002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4546366002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4546366002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 47
-    images:
-      - url: "https://media.gannett-cdn.com/29906170001/29906170001_5975956542001_5975943510001-vs.jpg?pubId=29906170001"
-        width: 640
-        height: 360
   - title: "Waymo’s self-driving trucks and minivans are headed to New Mexico and Texas"
     excerpt: "Waymo also said it would “explore how the Waymo Driver” — the company’s branded self-driving system — could be used to “create new transportation solutions.” Waymo plans to mostly focus on interstates because Texas has a particularly high freight volume, the company said. The program will begin with mapping conducted by Waymo’s ..."
     publishedDateTime: 2020-01-23T20:33:00Z

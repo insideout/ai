@@ -4,8 +4,10 @@ title: "10 Data and Analytics Trends to Watch in 2020"
 excerpt: "Here are 10 to watch in 2020: Analyst Marcus Borba says Auto machine learning (AutoML), the ability to automate the entire process of developing and managing machine learning models, will also help data scientists focus on what matters versus the mundane. In addition, it will help prevent errors, as well as make machine learning capabilities ..."
 publishedDateTime: 2020-01-22T16:51:00Z
 webUrl: "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191"
+ampWebUrl: "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191/amp"
+cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191/amp"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -49,6 +51,6 @@ related:
         width: 600
         height: 338
 
-secured: "kwT+keIdPb5+2o9CGZqoMMYcREyBI/F49TEk48/s/IuIgnDvYdXqBh2I4ZVnz/wxx66YycxTPxHrTjdud3LQV0ClOet07dN6TOCcd0R35HTmYFHGy7NUC9GPC8MJal8xsh+BFsMoyi77gH+mvR2t6T0v9uJpwtDx5+MTlIozyQdVsj9BMwYsrexAWpRni4ebD+HMtRw7ZKU3lKMEZik3k+OryFp1jTg4KOZovfvRIRtQeujnixB0+2KPyPw1cGwyc53tkmm7DM/d7rRiwNiJ6OTkcJ8f2ClJaO1l9R7d6Qr4lyCbawVIu7EFdLPW1XopnV++lKifJpSgzVWPc7twLzV/3088TGOBvQE9WAKKfp5Q3RMbaPWpUfaelPIPQ6O+bKi+cr9fIQCtTu/S0oiDy8iXuRPta5TjNdXSt5u530bvtT57Q3uTdFeY9G5SbHokXJ1j4aHChzdH+BccT4XDdkXAwAosAxS8hmN4QGFFcYs=;9bNsxiYr05aGbN2y/Km8xw=="
+secured: "RefLJfF7KiagPhP3fYmDWZ0RTcXvzwn2/f7uE3i+XBnp2EByAK+YqGyc/rN1wpWgRiq3YdNIKuSgOy7csZ++4JLNGhTOQxPQJkGHku8OnkkNTbMpnwpgUjirn2T4V/Vqpv4s5/oETJwpIRHhvQfMjwzPObyFN6IGNG+QqHjkpq/59y89w2B/UvwnikDiyWyx5fWJj2wi8Bg5ydelbaF8kit4KRmT59mkppVk8JXVicx6M+9+FocC01kw2Ado+aLffPvXf1n0JHbXY83SePsJgE0xtAH1mMJtZo7SPY3YHp7SceOUb8k1u8JRnJItuqLxsKs2W1JZKc2svXXYHo2/IgHjwxnP4eGUeO5W94OMtZc1b38FzmxFwAE3XU+VvTJz/QvD6h573dAE/ju0uF/5+XgnsoOylfoF7j1bcscA8nbHTUNbwfEgZHGU7TGQi83X377RNccsx23HYPu+eUOpVDw7UyjZjjWKDaDkWibHiX0=;HoINDZnahJ6tStfk1nerqw=="
 ---
 

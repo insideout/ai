@@ -894,15 +894,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
-  - title: "Facial recognition’s reckoning, Fourth Amendment edition"
-    excerpt: "Last week, The New York Times reported on a facial recognition technology company offering law enforcement, federal government agencies, and companies the ability to identify people simply by uploading a photograph. Clearview AI has compiled more than three billion images by scanning Facebook and other platforms. It analyzes uploaded facial ..."
-    publishedDateTime: 2020-01-23T11:17:00Z
-    webUrl: "https://www.aei.org/technology-and-innovation/facial-recognitions-reckoning-fourth-amendment-edition/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
   - title: "ZenGo Defends Integrity of Facial Recognition"
     excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
     publishedDateTime: 2020-01-29T18:54:00Z

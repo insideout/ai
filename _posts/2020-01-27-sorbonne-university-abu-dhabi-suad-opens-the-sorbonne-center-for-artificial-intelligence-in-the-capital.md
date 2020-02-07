@@ -40,21 +40,6 @@ related:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
         height: 878
-  - title: "Sorbonne University Abu Dhabi welcomes Dr. Jim Kurose to the opening of the Sorbonne Center for Artificial Intelligence"
-    excerpt: "Sorbonne University Abu Dhabi (SUAD) is honoured to host Dr. Jim Kurose, Former Assistant Director for Computer and Information Science and Engineering at the US National Science Foundation, Former Assistant Director for Artificial Intelligence at the White House Office of Science and Technology Policy and Visiting Professor and Advisor at SCAI ..."
-    publishedDateTime: 2020-01-23T11:24:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Sorbonne_University_Abu_Dhabi_welcomes_Dr_Jim_Kurose__to_the_opening_of_the_Sorbonne_Center_for_Artificial_Intelligence-ZAWYA20200123100014/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200123100014/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200123100014/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 33
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
 
 secured: "eRg+KKum9mrhzPHhW4UmVsAiKEv578T1LmXzsgPW0js48U4mcmNhP5pwHkF6M0c/YLa4Og1AmwchZqnk/JS6gbRBRNYk2MLqKTIS+TyvHSAUG1+PSkgF74e/lkYNwLuuTLv0tn2srYPx6Bi8eSU7Nue7gFwgse5kzytLz/GPMyFjQAGIsTTcm1TPaLzi18FBK4pYOr9mrcRnoqulsTdluMuExEFMZf4HCe+xU4ml8JcaEhfZ2meXkEVdxsTT6Qnk6hku6ImjP8dPTTS2WgsKS5rEEQXlUkLNXXUTk1IXiw9X7fr0wAAkxzEegg9Em7kf3x38dNrjYy58Eeir9JwcOq2z9yAQebdg9gOoNh+0RIbMBkVGMn4GCL7im3G/z75rlQA1WrLpr4b3NoMfgM6ElOSIFuIBdVQAbkvy1C2HHQ3M31hAr4a9/kNFOS5XT9v/mBtv64VzV7yWSbOnrDSuUp+TD2epEIZyu0z/Z7BNrTY=;+6KpUWRuMTMauo3tAkjNUw=="
 ---

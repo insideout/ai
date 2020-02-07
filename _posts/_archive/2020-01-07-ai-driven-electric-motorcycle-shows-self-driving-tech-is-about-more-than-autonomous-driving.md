@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-elect
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -34,30 +34,18 @@ related:
     excerpt: "Baidu is developing an open source platform that it hopes will become the \"Android\" of self-driving cars, dubbed Apollo. Microsoft joined Baidu's Apollo \"alliance,\" gaining a channel for sales of ..."
     publishedDateTime: 2020-01-12T00:00:00Z
     webUrl: "https://www.cnbc.com/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
     type: article
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 32
-  - title: "Baidu partners with Wind River for autonomous driving technology"
-    excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
-    publishedDateTime: 2020-01-08T11:12:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
-    type: article
-    provider:
-      name: ET Auto.com
-      domain: indiatimes.com
-    quality: 19
-  - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
-    excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
-    publishedDateTime: 2020-01-09T18:30:00Z
-    webUrl: "https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 4
+    quality: 72
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104935725-GettyImages-902802574.jpg?v=1532563703"
+        width: 2000
+        height: 1219
 
-secured: "IingIEbAeDw/LGD1MFxB+ILtm4+ImWyIczaw7jYCzun083Asj+ZKkjk8aUmoj2invzrpjdgxjk5vgGLNB06kYR5OLC5XLD6yi+Clp42ueQURJUgxfXeIFWFkjq4hjUmHvM1aRglv8ytNmJ7utQojrvl0Cgva2DV9IzdQESjK0rLNgJV8h8bgeREd0xfGpZ1vSyeB9n8RRuAFdDGG+VF1WhnKsUvkbDS2EggmGDnwqrIwo1i5ypuHtXHAakZ1OuMaZ294oSUlsjimt+gtWCXFSwKKjZYRgdSc9EH+NL4tb6MIbTbd6DSVUgTaiytATSWJ;XYcFxaklJxyBB7tZegPsEQ=="
+secured: "xSBWkKt5R2pkSmCP3E1KEksoPZd52hcjoH5tQqEECbb95BuVOZhFEGuQwXEvjxRJPjuj0h955UKbTZdkI5lMyEkx4zsZITN9eNdSPHU8S0AG4Zna+T/fZUaZvVLCEvbHww+GPsjSv5CqlWiymOFVchWM2OQKsO/HhpL/jhUP6EmwF/6ZIvAAH7jQ5RMLsrnc4c/FwIeT4qomat0tXUL1UZafRNvs2+Z0Xm0S4yCk6aLqZyLIZScK3Drff8BnE7vELl5Hqi3WTyh1zlTks6irs4w15IhZcYyyDPOdwaDm/m6I5VNmBiVXjTgENVfLH0Mx;n06OAF5yX43gXz/uHwBSqA=="
 ---
 

@@ -4,10 +4,12 @@ title: "Nvidia is partnering with Uber, Volkswagen and Baidu on driverless cars"
 excerpt: "Nvidia has partnered with Uber, Volkswagen and China's Baidu in driverless cars Uber will use Nvidia's graphics chips for the artificial intelligence computing system in its fleet of self-driving ..."
 publishedDateTime: 2020-01-08T15:55:00Z
 webUrl: "https://www.cnbc.com/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
+ampWebUrl: "https://www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html"
 type: article
-quality: 64
-heat: 64
-published: false
+quality: 104
+heat: 114
+published: true
 
 provider:
   name: CNBC
@@ -21,6 +23,25 @@ topics:
   - AI
   - AI in Autos
 
-secured: "8dBjYJePvHz8x6Ry8vq5Rev/BAyJwnMH2HY8vpYBr6CEDlLB7Hpu8cr8w+boyaOjCd1vo2+7Ntp0icCSg92ONR727RXKTf0pmY6CQLbXzkf/2WuSX2fy3vMxk68JKlfCOe74IAQ1rgdqIY1LlpQYLfVBPzaj3hMW0KbBMoe7wDrmT95OZUmvz6ngpveqo0gI+7Mk1Kgwtsku7DlK5toHlH2mewnIfEyU+Si0fkO+nuij0rS/pv8tbAGytK+5KcuyaThgpL/UOBL9OvbFoXe/azySpTC5lHcQ94Kync3RSh7F0v0eW+HIJtV3BKatGpbv;JCFk0RGaQVnUCopW6iL5qg=="
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/104932964-GettyImages-609845726.jpg?v=1532563704"
+    width: 1024
+    height: 601
+    title: "Nvidia is partnering with Uber, Volkswagen and Baidu on driverless cars"
+
+related:
+  - title: "Baidu partners with Wind River for autonomous driving technology"
+    excerpt: "this will cater to the next generation of self-driving vehicles. New Delhi: Chinese internet search engine Baidu has joined hands with Wind River, a software tech provider to develop an autonomous ..."
+    publishedDateTime: 2020-01-08T11:12:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435"
+    type: article
+    provider:
+      name: ET Auto.com
+      domain: indiatimes.com
+    quality: 39
+
+secured: "0mLcIxeGs6aeQT5CSwaW6dCkWxX+gg29hgqGrjgm6VLgUsruqSIy/TGPbzdQ4e2BejyfeH08niJ8mltqDMx5vJ0DBz/v3UBUDjzBIA9t5/MvQOL42Ur3vliC2UkUfI9jdyh4wausn9vE240ExrbY7nArYCHUd+X/n6DoOgRckBQJFFbePJ2JNEYUsRkVx2JsTfXR/7HxtbXNAK+gtvkNhi5h+Ttkc/zjIsLIrfL3ldl/h9f/vQZqMStcSHfpvnaDDb8ggLUKNkeMJ8LU6Y8wQImmK2gBYxGtG7RG5EcQEZq2hUDZWjjsdh/yKXqQbKB4;7O9yfTkBYgTWmxCJHeae9g=="
 ---
 

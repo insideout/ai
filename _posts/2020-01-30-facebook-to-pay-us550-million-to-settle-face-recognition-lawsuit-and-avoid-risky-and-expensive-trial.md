@@ -42,26 +42,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 64
-  - title: "Face Recognition and Micro Expressions with OpenCV and AWS Rekognition"
-    excerpt: "Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use."
-    publishedDateTime: 2020-01-23T11:56:00Z
-    webUrl: "https://medium.com/analytics-vidhya/face-recognition-and-microespressions-with-opencv-and-aws-rekognition-2ea2bc83f7da"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 49
-  - title: "It's too late to ban face recognition – here's what we need instead"
-    excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
-    publishedDateTime: 2020-01-23T11:43:00Z
-    webUrl: "https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/"
-    ampWebUrl: "https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
 
 secured: "jC4B98WlE4fQqtcU48cvBCy30wszryXZL87rM9fp69hWfxX7bQkvtIrRzD0KJHxN7ahBM526yrqtMGbSbiBzFZsWldh1FPdoAhGKQUrxPRjrgUwxon7HiYxWS3UX/cuHypElq5XiiyIQysIYTJF6G5SBs3jb/W+2vfdlCX9QUQH/6nMXz1ZVvA0xV3EdxI0AYxtw1Uv9oO4jJd0AoCI/rE9eO8QcJ/h3pcCg57jJbMf2h4fvhhomdNadjyXJB4e9gf4Acc6aIMldMSAZuwIbyr80U5j0d59dRytazGoC+NnPCOUFieHu5YkG7y9lYAM/Gat4yQtJTqFOvz+00ll+lga+Zi2jq+C6CB26K0yM7e7fK1EZ7yaxj4YVGbo9IAgd+7HeO1ph3UKh3JGCvlQUfaJ1GnTWCvTXmhJrMJ+h/bvtlMj3P9n1zkQxR5VR8Cp57ueop4yG1UBEWJFcNWkGIbLm9KV+eZ2IkKT/TlAGnDY=;NWulsUvZiBfegn4d4Bd6uw=="
 ---

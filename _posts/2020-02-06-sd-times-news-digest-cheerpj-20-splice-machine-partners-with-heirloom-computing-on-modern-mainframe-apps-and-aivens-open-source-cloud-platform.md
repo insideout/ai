@@ -27,6 +27,17 @@ images:
     height: 611
     title: "SD Times news digest: CheerpJ 2.0, Splice Machine partners with Heirloom Computing on modern mainframe apps, and Aiven’s open-source cloud platform"
 
+related:
+  - title: "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon"
+    excerpt: "The European Central Bank (ECB) has partnered with Reply, a platform focused on digital innovation, in order to offer a 48-hour coding marathon, which will focus on teaching participants how to apply the latest artificial intelligence (AI) and machine learning (ML) algorithms. The marathon is scheduled to take place during the final days of ..."
+    publishedDateTime: 2020-02-06T14:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 10
+
 secured: "fa8CnSalEMUk26HKgjtJMFsA8I19WMkUimJJOvQnc/HtKi4hV5LC/PSNxV0XI0HE/8IJTgFavj12tl7rsTlrAgvfktUE4lH930DC9Wdewd/O1/I/MmWPd6bmNegWpcZ03MMm6ScByETbtgYXT3MRinWCzxb6+i7ZDseREiW/6M7eyrZeFWoxHfuYhdAQKWA8KIqxWpdjt4wApIDvqAJ9DwaGKIe5jTtak6r07esDZBb5NIyrNZ9kiHwOtFEvPrSvsyIGUnV8ioQosJk64afFjCeMS01cUVmwE2m8SVG1bC4cwB5ztJdqEw+lm+25kzs1aGd2t11St0okQt2/j5GmIg6zsXM5xcRxyZvW+Swah5BR/9a0VN4ypR8BQmPBBjoxE/dbfJEuyYE1A+OHvVl8oQorBP9U5Xl5PwzOysWKDFel/A5nW/IGTc3gdw4ky+2+ez7OGnaN0EYNlEhBrcn0uROZe9zZzp2Vt6dGjHWsXJg=;RzjqESb0LIe1x3xGEJ3ZKA=="
 ---
 

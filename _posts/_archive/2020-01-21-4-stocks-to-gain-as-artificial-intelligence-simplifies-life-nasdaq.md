@@ -4,10 +4,12 @@ title: "4 Stocks to Gain as Artificial Intelligence Simplifies Life | Nasdaq"
 excerpt: "Since its invention in 1955, Artificial Intelligence (AI) has constantly been studied by several researchers and many big firms have invested billions each year just to accomplish one goal ..."
 publishedDateTime: 2020-01-21T08:58:00Z
 webUrl: "https://www.nasdaq.com/articles/4-stocks-to-gain-as-artificial-intelligence-simplifies-life-2020-01-21"
+ampWebUrl: "https://www.nasdaq.com/articles/4-stocks-to-gain-as-artificial-intelligence-simplifies-life-2020-01-21?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-gain-as-artificial-intelligence-simplifies-life-2020-01-21?amp"
 type: article
-quality: 64
-heat: 64
-published: false
+quality: 104
+heat: 104
+published: true
 
 provider:
   name: Nasdaq
@@ -17,6 +19,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "lIdt0FENEot9VQZvE0F1DE7eq/yYxSBK5fd0Ch7Vt95bovUTUOoUKa7ti1jfN51EwVt56Mt27BHxU5vixFgiKbgg4E3HB7s4gCW+0PR3eijENp239RvWoSNAIYYktCqx47Sjy2Lq/Dcmzdb/TDiWMKsesnFYMHimVCydJkr+BE7J0n1hPoeGJQrMhh29q9sEt3p1/S0mc9qeonwMDQn9e/ZE2/DSW33BAnDtoGzGXn03kEXKtfqbboIgfQHmotgJ9ufrQ9Mte3atbHkivncADcoE9GThFabiyO9fZlEghpLYzZeqQ+Jo1HHfXzzZX4Bw;tdFoBxHvoE+PLqxnCNUB3w=="
+images:
+  - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
+    width: 1024
+    height: 512
+    title: "4 Stocks to Gain as Artificial Intelligence Simplifies Life | Nasdaq"
+
+secured: "nzS/uJmsQoT4CFLdLtmoKTeMo81QpthVWJRsuSHYj2Fc/rmvP+KvESw/lDoEB3HZKB1hz26jRi0OwzcsBF28zSGK7KDS4DMae/Gq+dU792svjjOhsFUqfe4wEOVXOAJpfIXnQ7mxRRkGWK2aBNQD4EZsOnNj2C5VADf68VqXuIwcyBJBmvTn8K2s8pgFRtgwpiJhiZoTZfLP55C6NGNFHnmkdIROA15CVeinOsE4+/1+ri70M/nS8261DnwQ9Wjd0bKNYtyxXXB3b6hhvIYYEUBhFJIjoyKWPz1ku7INCrfYerSuMGlprn62tP03FkiP;jpQCei2nNN/kwwWRljB6jg=="
 ---
 

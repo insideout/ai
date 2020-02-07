@@ -4,8 +4,10 @@ title: "Software detects backdoor attacks on facial recognition"
 excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
 publishedDateTime: 2020-01-21T00:00:00Z
 webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
+ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
+    width: 446
+    height: 300
+    title: "Software detects backdoor attacks on facial recognition"
 
 related:
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
@@ -959,6 +967,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "2gZBJK8NRmge32BJT3W8hp7KOsn2iko5Zp9ktwP/1071LblczHbVwZxlDO3UpqCyJLBJIoIrU9NqQKP+qtgMQs2Rw+jbssFYhhbXxn7XOfE05HENRrqaj4xkb8++WHIQecMuZHJ3XvtYtlYNCI8sSxBeBodBIAfsj2c4sD8piLorYF9g7dx+1x/sTfF0rYDtWK2WjybUeK4NUPBhab6AwAp05xX1Zo4Gf3PfgBHNqVNvUn3KLci8ZFtuwfXnRBxHTt4hLS+23wxX5mKBeJ2wlb+yXyYVnnHj5bu42e0IfVBl2MfwVpaCxegUyD6FDCTv;N7yIhBlRrBID5n/riZx3Xw=="
+secured: "pe/fe82/EYT6u9vRMxnhoZjGAx7cEdsdcO402Q2Ns2aO+YLe7DffOX6Z69pqWgRtGLwqh0P+SmLUudarXVnOXQOR4v4WCZJjru0jnxZVUNvyYk9tORF8UQp79rb0ySBzzeyVJxiacd5QQb99BBqYEGeWMRDY0CWFH9f3CZq3BgMGUFw/KPUHE9xcqeMIgBvQlvaofdDYuSirsMInCHRJ6fof4HTWE/uPp6XQL+9zWvaTTnxpqds4DWZ+z100dQp/T/Dsm8WSOjThrbMbUWz8qt9XT9sBo8NdnHf9g1rAer4Z02hzuOTQcJRmJjUwTtAG;aYLR3kg7Ax/HcgaqVQpH4A=="
 ---
 

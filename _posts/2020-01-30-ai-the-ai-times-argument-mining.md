@@ -24,19 +24,6 @@ images:
     title: "A|I: The AI Times – Argument mining"
 
 related:
-  - title: "IBM takes a step towards argument mining"
-    excerpt: "... team has spent several years developing an AI that can do that. Last year IBM demonstrated its work-in-progress technology in a live debate against a world-champion human debater, the equivalent of Watson's Jeopardy! showdown. Such stunts provided a ..."
-    publishedDateTime: 2020-01-23T11:22:00Z
-    webUrl: "https://www.fudzilla.com/news/50177-ibm-takes-a-step-towards-argument-mining"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/833cbb5cf00e32637111be49c35faa2a_L.jpg"
-        width: 620
-        height: 464
   - title: "A|I: The AI Times – Google’s “AI-first” approach"
     excerpt: "Montreal-based Aifred Health has been named one of the top 10 semi-finalists of the global IBM Watson AI XPrize. Covariant, a Berkeley-based startup, has come out of stealth and thinks its robots are ready for the big time."
     publishedDateTime: 2020-02-05T11:03:00Z

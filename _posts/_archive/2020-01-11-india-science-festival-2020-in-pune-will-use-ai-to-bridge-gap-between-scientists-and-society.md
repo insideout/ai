@@ -4,9 +4,11 @@ title: "India Science Festival 2020 in Pune will use AI to bridge gap between sc
 excerpt: "AI (artificial intelligence) driverless cars, and brain-controlled helicopters to be major attractions at the Indian Science Festival 2020 which will be held at the Indian Institute of Science ..."
 publishedDateTime: 2020-01-11T00:00:00Z
 webUrl: "https://www.hindustantimes.com/cities/india-science-festival-2020-in-pune-will-use-ai-to-bridge-gap-between-scientists-and-society/story-xinYFEbXnrUREdE7mzi4IJ.html"
+ampWebUrl: "https://m.hindustantimes.com/cities/india-science-festival-2020-in-pune-will-use-ai-to-bridge-gap-between-scientists-and-society/story-xinYFEbXnrUREdE7mzi4IJ_amp.html"
+cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/cities/india-science-festival-2020-in-pune-will-use-ai-to-bridge-gap-between-scientists-and-society/story-xinYFEbXnrUREdE7mzi4IJ_amp.html"
 type: article
-quality: 8
-heat: 8
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -17,6 +19,6 @@ topics:
   - AI
   - AI in Autos
 
-secured: "esu1WCP+kK+hvFnfDDJgWh4qF/u0UlDTxGVnBGCIpk5yT37Z5cpwnJEQTkJK7uVzmmVmvlieXBCOZjmRJIqVdWsYgNar+d55K1NQxXHFD2+g60m450akItoWkBV5uSZsZ1RkxyUt8u9ygdoC6Li0oOKclpJALwsF1wl6uVsixFPh1beU4pUfqA3E/fHux06+Tonhg4sVrd9IQOT6xGQQzen8Jo7I00+t4IFHmIxXEQ7cDwIvsaj/osTJ0MwijdLVS8O6Rxf2F9bUMfqmsKvCfCi/LQOkCOcPvBG6zYIqdR6HXblZsiX88R2TJ0QhsVkT;RcFAkAzJso5G+WwUs8UN9Q=="
+secured: "cpgfX5WOq1Mn1/uLw+zfNN5g9Hhf+r8O1zmMkltF32UzWxllQLhQlPsEuREu7ua3yvyb4pk44As757iqUP7GElt5Vk2b3AlHhtvKwWM0BMdgoLZkGGr02L1IQ9zPv9rmiGphxuE10kSEq+U9dXZrJ3EhYLoUQDgmDRzk3IbwVTvGu4Mu5ccKWaN0nlNmErguTAHEHx3tMdZPYYGmczlE3ltPCG/Bob8BuD+s7p4CoN2BNGcNrC9gP2dxzl0Psax3LjSQ3zQ5IvUASJucOit3XBVCDJ996kjuNFZaQvRyMvhy0qElP3ktjFHLhv5fR7RK;GTSVxA7e0ccpvRoQ/s6oXg=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Regular Samsung Camera app — Dog Camera detects dog —Dog Camera sn
 publishedDateTime: 2020-01-13T22:20:00Z
 webUrl: "https://medium.com/swlh/build-a-dog-camera-using-flutter-and-tensorflow-312022b716c6"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Google AI
 
-secured: "NZyfSfmXBjToFWqsPlskbEV1ZfzXBf/iG15EwfoKtauAkYS/6FSWsRou3KPSZ+KI4BT3dWvgxpU+8E5W2m9his0Hs9g62f8wbgSvpl0e56mEpokaX5PRj2Qi1BERoQKTDXrKlqikfxORFd28EAX7nbeB71ENoBZs4VbDC0E4iW7NPwxgufb+mDRK8T1xFECkg90C9nbNZcEw9ToecL9Lcere9BAlj7svRw7M53P4G/T6QICa5uThyp7kb96HcpMK17MWGF5fJtb4OQyaaI9l+OL9lAxSuiJgKCE3cMY6EnqvfbqtPUDDew7U+zrLqGMC;dJHlOuj8zoKvZn7CvQ+Umg=="
+images:
+  - url: "https://miro.medium.com/max/687/1*wGZ5U_ywKHkvQ_WXb7anOw.png"
+    width: 687
+    height: 294
+    title: "Build a Dog Camera using Flutter and Tensorflow"
+
+secured: "1XPGs/d6V7vReS+75nfzrhRHTsN6HmsK65jjrVcQ8qixe5YOptZIhiOUUSGiYbLJCw3dPJrkGVcmuw6JSMETfRxOViMG6GUZz43b+DUJG8lb0tGp2cGowjGkfUnljMS/z72aR/NDi3tjBtJaUfrfgkYO6amTXpjMPOFmVX63UnjjzHcH5r0YaYP1jrJYLVmFBbuZgEVPqy0d0BJ14pVeS/07uJOY0GsUlMpA9WMQY4UcC9nlhVBlFMS7q9Wl310rPeybtf58U398IAQbYv7AsNFUFrT4RPra9mWH4Rs2frFyVrKpMY30vjcpn55nn8fv;gCnHQf1uBcq2lf62kv+bCA=="
 ---
 
