@@ -50,6 +50,19 @@ related:
       - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
         width: 1200
         height: 782
+  - title: "Self-driving vehicles may soon be tested at an airport near you"
+    excerpt: "The agency that runs the New York region’s three major airports is dipping its pinky toe into self-driving technology. The Port Authority of New York and New Jersey is asking the private sector for ideas about how it might use autonomous vehicles within its vast transportation empire, which encompasses the region’s three big airports ..."
+    publishedDateTime: 2020-02-05T10:01:00Z
+    webUrl: "https://www.politico.com/states/new-jersey/story/2020/02/04/self-driving-vehicles-may-soon-be-tested-at-an-airport-near-you-1258791"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/7b/33/c6be3da24fa0a31c8ab4f6ac8ee5/john-f.%20Kennedy%20International%20Airport%20900%20getty.jpg"
+        width: 900
+        height: 489
 
 secured: "mqMnT+1VGXOkZ1A2dSMXIn9rVYJTkkcluw66GotzHjkgBbATTyMLFB1k8QjG3wYJMgM5RbKiw6hTEt1gWM0reObMwD12hJNNsIQKXWQumyxclNQ92RrgH0Rl3QLktTwXdKPfEbMOwx+HfGNiAhqfmJmxEE4kD9ba3sbAkq6QsRV5fFcTdL2jOzA4kDXt49HU7fVzKdxAWiidtgdkZ5oL5/RcgZlZTW4CGLepu5157rXxPdKVoo/rRpiyRfzNcQGdwS75dETQ050tQoRW30mEIpd+lCNzskfk10qwyXRJtKPx3tQ4pnI0QVKR33DgiLld;DiESd8q2JZaNzHeDZpPsJg=="
 ---

@@ -33,6 +33,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+  - title: "Self-driving vehicles may soon be tested at an airport near you"
+    excerpt: "The agency that runs the New York region’s three major airports is dipping its pinky toe into self-driving technology. The Port Authority of New York and New Jersey is asking the private sector for ideas about how it might use autonomous vehicles within its vast transportation empire, which encompasses the region’s three big airports ..."
+    publishedDateTime: 2020-02-05T10:01:00Z
+    webUrl: "https://www.politico.com/states/new-jersey/story/2020/02/04/self-driving-vehicles-may-soon-be-tested-at-an-airport-near-you-1258791"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/7b/33/c6be3da24fa0a31c8ab4f6ac8ee5/john-f.%20Kennedy%20International%20Airport%20900%20getty.jpg"
+        width: 900
+        height: 489
   - title: "Self-driving Cars market 2019-2025 emerging industry trends focuses on growth factors by major players Toyota, BMW, Volvo, Mercedes-Benz, Audi,"
     excerpt: "Ongoing Trends of Self-driving Cars Market :- Automatic/Self Driving Car is a vehicle that is capable of sensing its environment and navigating without human input. Autonomous vehicles feel their surroundings with such techniques as radar,"
     publishedDateTime: 2020-02-03T10:26:00Z

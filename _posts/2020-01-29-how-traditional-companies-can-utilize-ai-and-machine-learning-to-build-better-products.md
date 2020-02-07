@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/how-tradit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/amp/"
 type: article
 quality: 98
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       - url: "https://sourcemedia.brightspotcdn.com/dims4/default/280a84a/2147483647/strip/true/crop/3319x1742+0+235/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F84%2F99%2F45d868ad4c9e98dac6b31095bb62%2F348774751.jpg"
         width: 1200
         height: 630
-  - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
-    excerpt: "\"The combination of containers and Kubernetes enables faster, more agile app development and facilitates more collaborative cross-team app design and development across organizations,\" Melanie Posey, research vice president at ... developers to easily work with other popular AI frameworks, like Facebook's PyTorch and Google's TensorFlow."
-    publishedDateTime: 2020-01-31T14:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/developer-technologies-digital-transformation-tech-companies-2020-1-1028863737"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
 
 secured: "HFzF3MBhAr50k3edD/rftDRW9p62isFgVAkGAH2a9bQvw48NUWIRtTDSNZMm30HEcgxlKrP73Ukm/LrUUo+vvaxtE81mwDPHZDJ9jUCMjHbvVZwRWRI0xQuDp0RYmy/0ZtE275dERy17du+m3+FEQCoMPTh2xGHpQrXuIogUzNJg4sJOdJKEe97FRDDEnA6yKqD4W76zeVPNOMIylOTfdk6P/uSg09z7SG6rH9s+Jms59yw1rt5qucFUWlDEnKx/2y18nWRmUZpFlBIHZvtJYMsPO5T5hPNg4GL/KQMxT+4hjYuy/tspV5lCkBbyC3XjNGVHzreWEcBOrVxZYtuzlp6le4ePnOfHuXAPqJwPrEP5hj/67R1IGbHGun/5CFiCcLONvTrl62j5pYmYBUMplEVcEon12hVeyLaIG2+s1jeE45D0S4eEM1fdShVuLRhH2D32Gimg0XBIT9s/y/x8BStDm7DeXBSWIf9nP9mQmuc=;tRHlz3M2DY8/oHa0n+cgtg=="
 ---

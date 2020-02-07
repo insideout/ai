@@ -71,21 +71,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200205&t=2&i=1486288485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG141VL"
         width: 818
         height: 545
-  - title: "Uber self-driving cars allowed back on California roads"
-    excerpt: "Ride-hailing firm Uber has been issued a permit by the Department of Motor Vehicles in California to test self-driving cars on public roads. It comes nearly two years after one of Uber's self-driving cars was involved in a fatal crash in Arizona. Uber scaled back its autonomous car operations following the incident. Receiving a permit in ..."
-    publishedDateTime: 2020-02-05T19:33:00Z
-    webUrl: "https://www.bbc.com/news/technology-51393808"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-51393808"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51393808"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C8A8/production/_110786315_ubergettyimages-605519896.jpg"
-        width: 1024
-        height: 576
   - title: "Uber's self-driving cars return home"
     excerpt: "A familiar name is back on the approved list for testing autonomous cars in California. The California Department of Motor Vehicles added Uber Advanced Technologies Group Wednesday morning as the latest company allowed to test self-driving vehicles on public roads with a driver behind the wheel. But just because Uber is permitted to test in ..."
     publishedDateTime: 2020-02-05T18:36:00Z
@@ -116,6 +101,21 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/8k-lRQK2Dutoix3kDWRdfo1bBIc=/2020/02/06/26455c98-4cd8-44fa-a8b3-880df866df5c/ogi-nuro.jpg"
         width: 1200
         height: 630
+  - title: "U.S. House panel to hold hearing on future of self-driving cars"
+    excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies,"
+    publishedDateTime: 2020-02-07T20:50:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-autonomous-congress-idUSKBN2012K2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2012K2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2012K2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200207&t=2&i=1487254704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG161PZ"
+        width: 902
+        height: 545
   - title: "Uber gets California DMV license to test self-driving cars on public roads"
     excerpt: "In May 2018, Uber announced it wouldn’t renew its permit to test self-driving vehicles in California, citing caution in the wake of a fatal accident involving one of its autonomous cars in Arizona. (The California Department of Motor Vehicles requires that companies apply to test autonomous cars in the state.) But in a bid to close the gap wi ..."
     publishedDateTime: 2020-02-05T17:00:00Z
@@ -196,6 +196,21 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2018/03/self-driving-vehicle-fatali1.jpg?w=1024&h=706"
         width: 1024
         height: 705
+  - title: "Uber self-driving cars allowed back on California roads"
+    excerpt: "Ride-hailing firm Uber has been issued a permit by the Department of Motor Vehicles in California to test self-driving cars on public roads. It comes nearly two years after one of Uber's self-driving cars was involved in a fatal crash in Arizona. Uber scaled back its autonomous car operations following the incident. Receiving a permit in ..."
+    publishedDateTime: 2020-02-05T19:34:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-51393808"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51393808"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51393808"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 44
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C8A8/production/_110786315_ubergettyimages-605519896.jpg"
+        width: 1024
+        height: 576
   - title: "Uber self-driving cars can be tested in California"
     excerpt: "The California Department of Motor Vehicles on Wednesday added Uber to a list of companies with permits to test self-driving cars in the state, according to the ride-hailing app. Continue Reading Below The move comes nearly two years after an autonomous car struck and killed a pedestrian in Tempe, Arizona, because the employee ..."
     publishedDateTime: 2020-02-05T19:39:00Z
@@ -252,6 +267,21 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 41
+    images:
+      - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
+        width: 600
+        height: 360
+  - title: "Uber to bring back self-driving cars in California for first time since 2018 death"
+    excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
+    publishedDateTime: 2020-02-06T00:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 38
     images:
       - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
         width: 600

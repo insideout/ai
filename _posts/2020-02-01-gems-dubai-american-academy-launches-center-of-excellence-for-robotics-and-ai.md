@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itp.net/business/91271-gems-dubai-american-academy-launc
 cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai?amp"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -24,6 +24,21 @@ images:
     width: 2550
     height: 1663
     title: "GEMS Dubai American Academy launches center of excellence for robotics and AI"
+
+related:
+  - title: "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration"
+    excerpt: "“The robot can learn how well the user can operate on his or her own and adjust ... not to mention the application itself. “Artificial intelligence is a hot topic,” Lynch acknowledged. “At the highest level, embodied intelligence has to have some physical connection to the world. It’s not just chatbots but AI that receives information ..."
+    publishedDateTime: 2020-02-07T21:42:00Z
+    webUrl: "https://www.therobotreport.com/center-robotics-biosystems-northwestern-human-robot-collaboration/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 77
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/cooperative-mobile-manipulators-1024x683.jpg"
+        width: 1024
+        height: 683
 
 secured: "3Rf2wXEdWO8Q8U6gi2AzgVj0x1gnsDDn1d+42yZ6QiP6PyH2QhSRyBKM+XsrdO92cWbVqPG3HCCYGzPcoUpelj2SopypZpK8AYZhOr+rLAEcoFm+Uf4g1OG57GGa+bmjGbcpJcwtEQ2qRlax5rDOroCVkFUP93Q3Q6WQXP6B17L9jk5Jvk/bQPnOLp4Uhz+m8fjRaANlSNKaNNRPI/JoCOYNPMqdYtOHiaAWTocSzBTNOrFYtGHrdIP3d75rMuGkLjXGJKX00e08RoWex9nEFN6T0oEAOLMeYzeK0y5+G9ZeRRzqFh+s6lmQcHpj8Zz3;478x6j0TGW7FTeFf0VjxAg=="
 ---

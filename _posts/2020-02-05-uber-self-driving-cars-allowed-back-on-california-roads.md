@@ -2,22 +2,18 @@
 category: news
 title: "Uber self-driving cars allowed back on California roads"
 excerpt: "Ride-hailing firm Uber has been issued a permit by the Department of Motor Vehicles in California to test self-driving cars on public roads. It comes nearly two years after one of Uber's self-driving cars was involved in a fatal crash in Arizona. Uber scaled back its autonomous car operations following the incident. Receiving a permit in ..."
-publishedDateTime: 2020-02-05T19:33:00Z
-webUrl: "https://www.bbc.com/news/technology-51393808"
-ampWebUrl: "https://www.bbc.com/news/amp/technology-51393808"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51393808"
+publishedDateTime: 2020-02-05T19:34:00Z
+webUrl: "https://www.bbc.co.uk/news/technology-51393808"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51393808"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51393808"
 type: article
-quality: 74
+quality: 44
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -105,6 +101,21 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/8k-lRQK2Dutoix3kDWRdfo1bBIc=/2020/02/06/26455c98-4cd8-44fa-a8b3-880df866df5c/ogi-nuro.jpg"
         width: 1200
         height: 630
+  - title: "U.S. House panel to hold hearing on future of self-driving cars"
+    excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies,"
+    publishedDateTime: 2020-02-07T20:50:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-autonomous-congress-idUSKBN2012K2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2012K2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2012K2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200207&t=2&i=1487254704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG161PZ"
+        width: 902
+        height: 545
   - title: "Uber gets California DMV license to test self-driving cars on public roads"
     excerpt: "In May 2018, Uber announced it wouldn’t renew its permit to test self-driving vehicles in California, citing caution in the wake of a fatal accident involving one of its autonomous cars in Arizona. (The California Department of Motor Vehicles requires that companies apply to test autonomous cars in the state.) But in a bid to close the gap wi ..."
     publishedDateTime: 2020-02-05T17:00:00Z
@@ -260,6 +271,21 @@ related:
       - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
         width: 600
         height: 360
+  - title: "Uber to bring back self-driving cars in California for first time since 2018 death"
+    excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
+    publishedDateTime: 2020-02-06T00:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 38
+    images:
+      - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
+        width: 600
+        height: 360
   - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
     excerpt: "Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company’s plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Transportation Department believe specially ..."
     publishedDateTime: 2020-02-06T17:19:00Z
@@ -350,6 +376,6 @@ related:
         width: 1920
         height: 1280
 
-secured: "4KjrWyrI0sl6rqNwYzIFPPhYTBeA/C1U0eQvmzTv23NXnLL7BwjIel5GVnEdcu7wLaQt3vmj7Unn1uixsES2m0VVJwi7OPOWSrBWBT/3RIhk3MN3P5DHwOe99XjkrCfwSO6R5nf/NO73lQEoIgGByJs1A2zw2Knk/R9a3Shm7yI/RiabaQc2B77K9NtJRhZ9P65OLhpLa5GXU12yO6KJHLS3ilXHHgGNrRMHkCkOePeLlN9CY82YfhfO+WdkTtNk8JKAFTiY/uBdaZ+jpln8XHFW+r/GmzSLiZoS+SPzmgjSblxX6K77tN5qE0OvIM/p9uWUhhK2KYUbaDDpQmDtL6YghV7JXFMpCB015EpEJNFP84b4s6UH30UsjihRCjVrppvPeiGd1nLhDCM8ALZa2aWCQMvLzQnIMzpf96r0kdytZTpDw6LbbuMG9IwcOPSwNibPszTptWQrfgIl90yVOg6rO3EWlX1KEsKjsIgvvAs=;aOsql2uKcF5YbDyyrn3jVA=="
+secured: "TyMzzF4a7uNjOGWfLkIhDjImJbZ5r1CEyCzQIOQMmuoLtLhs7BYc0+SrEMqdV4C9FWRlF+zCuoG1FD3YC2fx0Gs6InCY5Y64vwepSdQYkEL/4jiEGUa5tFlSAsOftT/i5aGJY28hcnN64OrAuci050zNgS2TQdv9q77H22WyvqI+zsapw+tUj+eFin3X6Rmy+tyDHFLTqQcKuVjGo/WUg9EGg8jj0ccxsUht2XQnS58nqZnzP+oL7PW1KBGyWpLe7HzCGdth+B7dt3w/B2//mo/paCtwfN6VsHETaInEKJHHOlZWMc0sN1ZzL7GTAb76;64YsJriIr6ZzK1UFiOD/Sg=="
 ---
 
