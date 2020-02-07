@@ -27,6 +27,6 @@ images:
     height: 800
     title: "Running a GPU enabled Azure Custom Vision Docker container on a Nvidia Jetson Nano"
 
-secured: "Tt/MgmJN/pteUfYKxTUepdy1TP3PdE5auFa3uy4ZDO7i2JQExvLp+QTluilvIHy0aE/rrEBrhQ3gD3WGGz+pp2GZP1qzCZ7JMY+9tWfxoaw/aSOZvHaFPIKdxRgIcfoi9fpu1SGGz94zOmPQJWD3+G3qZQkZlY8h8eCiXw1dJXJCJYLL6p+1NLwZL9HPjP7rGNsNuKGFOQpjrGl/Qfv9RMyuHHkJxdTgF0Fu/Dt2pJ+p5/OwYBpDQ+j27COxyjm2+fL+hI7YEeY8VEDyODlasL/pKe0Uk3CY4lU7ebyRwvdHdrx5nIUiNp9d9Mv8pHxO;T58ayvUPXDuj8vrYOvbgRQ=="
+secured: "s7n74sZkkjW6KsGEKjf0Sj+Yb0a9bq+1fC4UdOTOcJNS90tCNmKtVyCmxS/H0ThRYk6rYzBiq1nFsMFGYh5SrujsV2c4/tQkZDNsKiJ4z5rBdlGvyTs4Di1PGncHvQFMDYb3mJd5OmaKMTaxVIBElxH6kB8MWxt4KJ1qiz1kyLWiayGIEB8aHVrwTjiEgJOdtpFUEDLm15XGe4Kit1knAlzVpzp0yCFb6kSPJB8CH9rMuMNJwf5aNr2GxymjtS/BUuKzgw59/vysbZSYTN0agszV08/SdZT1VMfH/ysLlvKo09M9vpz08s4g0Jq52GzY;kH/o4wNPM/xCBiAou5kTAA=="
 ---
 

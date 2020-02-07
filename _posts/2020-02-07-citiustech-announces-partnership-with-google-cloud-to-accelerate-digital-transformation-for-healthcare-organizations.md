@@ -1,26 +1,26 @@
 ---
 category: news
 title: "CitiusTech Announces Partnership with Google Cloud to Accelerate Digital Transformation for Healthcare Organizations"
-excerpt: "our partnership will support healthcare organizations through digital transformation in key areas such as data analytics, artificial intelligence, machine learning and hybrid cloud,” said Manish Sharma, Sr. Vice President, Strategy & Partnerships at CitiusTech. “Our combined technology will empower payers and providers to drive better ..."
-publishedDateTime: 2020-02-07T12:30:00Z
-webUrl: "https://www.businesswire.com/news/home/20200207005075/en/CitiusTech-Announces-Partnership-Google-Cloud-Accelerate-Digital"
+excerpt: "... healthcare organizations through digital transformation in key areas such as data analytics, artificial intelligence, machine learning and hybrid cloud,\" said Manish Sharma, Sr. Vice President, Strategy & Partnerships at CitiusTech. \"Our combined technology will empower payers and providers to drive better outcomes and improve care quality.\""
+publishedDateTime: 2020-02-07T13:34:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-citiustech-announces-partnership-with-google-cloud-accelerate-digital-/2020/02/07/9094107.htm"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: "https://mms.businesswire.com/media/20200207005075/en/771908/23/citiustech_logo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://images.tmcnet.com/tmc/iot-mag/images/iot-mag-0115.jpg"
+    width: 252
+    height: 335
     title: "CitiusTech Announces Partnership with Google Cloud to Accelerate Digital Transformation for Healthcare Organizations"
 
 related:
@@ -75,6 +75,6 @@ related:
       domain: calgaryherald.com
     quality: 12
 
-secured: "HXHgwEJl/QQ7xd/F/xWqPa2MC7BwAk3hsodNMSgQTWQoF0kEiDWwfUCLHFXO3//yPXozpH4wIpjKIFoQPvdSXmDi3jXBY3enCbE/KSh2ZoVh7loMZPQQDV9/LwuVCuzE6qNgO3iSs53qQKSYqA0Y96qWYs5Ux91ux3N1W/YjU6R7j7zLVMAScO1rgeCMlZc9KvIfh5bgYmFSXWdPkMUWQn3eSVDfx64GMsmIrLUsco3I1D9f/cy7dUklZqi0rjra5xEiYGWwvvCrDNhnIvqq4+kjFJ+n1BdiIfFGRqbIavam7mKXkSO7fM4KQoM+0xsyXI/ZwzBhBR3Tgejrj4PjQiuVuYxXJAyrn+jlhzGnKCQIusqJjH2TsVFrp8rTeZ/wUMxM8e/ZgKrfvS6sgaoLUTNFYYZprm5N0A4xA7L5oulIh2XPfIPfvJHOLR/lL2CPlVlm8b80xCjO7aVwu2g+PHvAT/Zik7sl1Peyb/siUbc=;9z273f3+vWHoAyb3HkgYtg=="
+secured: "cYtyU9vYsLyDVv25hZWo1Ep9IauSrGJImHcLcPRBtlanMu1MMup29EppopuU70qkmlvmbMVU/yMgCyGJqmtq86sUjsIn0AdJ/fbZ5li3DSx2GEWRpc8nLtfayIa5XTRsehLonuO+bj+vNrvg/Lh7mhWos9Vb0OXsOVoLF41Ea0ciKatLcJJCJbGYdl72CvvGTEpM3lfs8uZmosHoDlj6CKOkhORgkAS4F6eDKAFs5kL+4hC2RS8oHyzSeDo4aDer/81nMWjA+5uV6BaHLVSTqAwTj/ULZrNAR5Xz+saZwED/keLaWjM5YnmcTBarRPvi;nNHD4KVQ9k01Q2YO+tYwjg=="
 ---
 

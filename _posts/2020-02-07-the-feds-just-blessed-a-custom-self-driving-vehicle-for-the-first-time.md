@@ -67,6 +67,15 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ALVEY7JR7NCHZKKWPIJVSNBDLY.jpg"
         width: 6720
         height: 4480
+  - title: "Nuro Self-Driving Car Scores Federal Regulator Approval(Radio)"
+    excerpt: "Self-driving robot start-up Nuro Inc. has been granted regulatory permission to deploy its grocery delivery vehicles on the nation’s roads, making the company’s autonomous vehicles the first approved to temporarily sidestep car-safety standards."
+    publishedDateTime: 2020-02-07T16:03:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2020-02-07/nuro-self-driving-car-scores-federal-regulator-approval-radio"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 34
   - title: "US lets self-driving vehicle bypass human-driver safety rules"
     excerpt: "DETROIT (AP) — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
     publishedDateTime: 2020-02-06T18:08:00Z

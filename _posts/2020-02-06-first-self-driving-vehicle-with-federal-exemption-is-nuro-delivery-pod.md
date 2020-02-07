@@ -71,6 +71,21 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13970/production/_110804208_screen-shot-2020-02-06-at-2_32_43-pm.png"
         width: 1024
         height: 576
+  - title: "CA Startup Gets Approval to Deploy Thousands of Self-Driving Delivery Vehicles With No Steering Wheel"
+    excerpt: "The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or pizza."
+    publishedDateTime: 2020-02-07T19:49:00Z
+    webUrl: "https://ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/"
+    ampWebUrl: "https://ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 29
+    images:
+      - url: "https://tribktla.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
+        width: 1200
+        height: 800
 
 secured: "IDK5sY0E6cUxSzKGNh8KJD+i+4cUEUjqaqXnAz0fHtnnJhA/v8X8bjzMFN8kz/kXzMzENttu40wgxC/otNw1RY1nYr7sCmlBcBX2hDME7EDUmTLp0okrJzhp9EFx58OAz37DCiHILCdZrKggr/WVtd/WiQLrnhD4IwD4g1U0dkqYT3hGcP60vR9vCY9qNuotl/cDLFySh2y+1Wf87LknuW7M0NIQwHxdksJb0esjFWQLo1jn2yVQ0djxMcn4za7G1nHQBhgsa9MbAtB62FNrjsDp/37z+GsGDxskGTjinTk2QdUyrf7bU5kFDmzgnrgie6sD5mrCba5FAT8RogPEWcXxEpdkD5T2bN/c7ZRwS7P3V4g9SY0vT2x1semaGWPMzHSTn8GS3yNgzFOveUQtjdUzLkE5Zxl/7J1h8w1nH6CSIho4yL2QQdd3MKq3Ym9kwrl5iTxUS+2IeXQyn5zmI+Hn7VUdTURZ0XKw+mYPs30=;uUPu6mU32/Htg8inbsDx9w=="
 ---

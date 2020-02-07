@@ -71,21 +71,6 @@ related:
       - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Uber may bring self-driving cars to DC sooner than you think"
-    excerpt: "WASHINGTON — Self-driving cars may sound like an idea once reserved for science fiction films, but according to Uber, they might become a District reality sooner than you think. On Thursday, the ride-sharing company announced plans to test self-driving cars in D.C., with three road-mapping vehicles hitting the streets as early as Jan. 24."
-    publishedDateTime: 2020-01-24T03:15:00Z
-    webUrl: "https://www.wusa9.com/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427"
-    ampWebUrl: "https://www.wusa9.com/amp/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427"
-    type: article
-    provider:
-      name: WUSA9
-      domain: wusa9.com
-    quality: 44
-    images:
-      - url: "https://media.wusa9.com/assets/WUSA/images/cdaca044-3043-4f02-ba14-2589615a5fd5/cdaca044-3043-4f02-ba14-2589615a5fd5_360x203.jpg"
-        width: 360
-        height: 203
   - title: "Uber set to bring self driving cars to Washington"
     excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
     publishedDateTime: 2020-01-25T00:47:00Z

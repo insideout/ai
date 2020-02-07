@@ -75,6 +75,21 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nuro-r2-1581004051.jpeg?crop=1.00xw:0.754xh;0,0.238xh&resize=1200:*"
         width: 1200
         height: 603
+  - title: "CA Startup Gets Approval to Deploy Thousands of Self-Driving Delivery Vehicles With No Steering Wheel"
+    excerpt: "The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or pizza."
+    publishedDateTime: 2020-02-07T19:49:00Z
+    webUrl: "https://ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/"
+    ampWebUrl: "https://ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 29
+    images:
+      - url: "https://tribktla.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
+        width: 1200
+        height: 800
 
 secured: "4DlKBNEOSESytvAN9M3aJCEHpzmvk5CV+unrUzHz6KqGnu0YNMAPZp9zhkY/DB8HyjSerpvTmQrGw7AihZ+hoDEZpSqcWTYOyBrm7f2aE9LCyUSiKJTj+2lbViFBePKpEFMUCymWhSkrzJ7JogDw0eo2Rmmt+6LY0Kn/yijwpE4SkeXmok4I/H5A86zo34l65emUfEMGzLOL2Dy+oVc2p9u/lz4v/R4emcBYTtVXTxFpu+cTySziiVfWYe/hdfB5ON76HKtJAfnIBwfGq3JtOuIFWiak5mgGqmA2FuCcSzqbXRWGO+h8YDDSGPRY7dBr0CsnGCKGtRZIhjk5hLJEO4+ukgxxNRswJm00XhLtnBdDTXAeGMI409Og2LESdjDRPyWhDAJ87yxZm9TFfbTQSSGOY34QJJJtkq90IG1DLwlkGthtuc4ma1xFgyzuwJAhQnTFprzrLTSWBhV9TL9soqOAO1P1eWVQDxndr2Zpqlo=;Cb9sm+k+MiH3VvYIwoajaQ=="
 ---

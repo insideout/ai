@@ -24,6 +24,6 @@ images:
     height: 400
     title: "Form D Friday: More than $40M raised across space, clean energy and AI startups"
 
-secured: "/RMFQ6pl/IbXxNNx6NCSXPX3A5u5XUY0Tq7GXiYUoE/c0xMCkc2rYOl3cr87GVnRrESASnNbWs3Y84+/Q+So+yAsl2m1w+sWfzhJ7Ci/DBkrKSLAqnbS9fer01X+x2FsGEfGyuGjtMUR8WZtCCyF/iYWX7Qdt1+mMPzegxTaOKBuu0FNofEIk4jJlhug2A1yS7groFhL+ZVafge3osYeArqJxnUdQNr7AnNf+9VS5IHhDS2/avg46aRqJ9ZO4ItFMbVpurso2ZNK/B5K1aaeHd6RB27I+t+Y+SPHf2CetBiwBToBlWh2GJFj/gqTg0e3;CjO0yG7lJf/9z7NAyAoQPA=="
+secured: "lG6geJ0GlM+VMM5dbV2fs3hXPI1JchsY/TuUCxfARLYwafxhaTZVQ+eaKLstmvTTtRTCYKe9r4IzVG/CLW0/WRawSBsqkfnz1qYCEo8j9rk0bfG28KN7PLD12gKnViHDlhfpdg2ZECN0OmoMzzD2GkiqZTdWGpIveZr6Dw237h8ouFJmCSEAOpzB6nYaCqAlBnRKpZs8f/QMOLh/szsRyz6D0tKvOzVAZsQ2L/MXhjRqk2rpzsZ4UX5tqM5T86lgWw4hcMoU3DXhO1Ve+NtDTZQX+r0smSbB8jDUgxkzaLJClQxFEqy5Beb7GUnCzrAEmed0VQ4m4bihXXXv0Vb4iIHiYYONlDDk6psZ4lkQN3RdO7KM5m7wacdS8sEVF35SGlDYFHhVUuVoOz7GNsDrljSAZquaz1YUFfO85d/3wC32KWopcuzoPvfWbDadwLCLqpfniVeWXszzzYcIsFMc0QE6OMk9KCwPYK4MMdDK8Iw=;Hqb+Ka1gGMzM92uCWJcFGw=="
 ---
 

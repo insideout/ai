@@ -80,21 +80,6 @@ related:
       - url: "https://images.markets.businessinsider.com/image/5e2b293624306a2d955068f4-2333/mobileye-2020-ces-shashua-5.jpg"
         width: 1024
         height: 768
-  - title: "Uber may bring self-driving cars to DC sooner than you think"
-    excerpt: "WASHINGTON — Self-driving cars may sound like an idea once reserved for science fiction films, but according to Uber, they might become a District reality sooner than you think. On Thursday, the ride-sharing company announced plans to test self-driving cars in D.C., with three road-mapping vehicles hitting the streets as early as Jan. 24."
-    publishedDateTime: 2020-01-24T03:15:00Z
-    webUrl: "https://www.wusa9.com/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427"
-    ampWebUrl: "https://www.wusa9.com/amp/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427"
-    type: article
-    provider:
-      name: WUSA9
-      domain: wusa9.com
-    quality: 44
-    images:
-      - url: "https://media.wusa9.com/assets/WUSA/images/cdaca044-3043-4f02-ba14-2589615a5fd5/cdaca044-3043-4f02-ba14-2589615a5fd5_360x203.jpg"
-        width: 360
-        height: 203
   - title: "Test shows promise of self-driving cars for transit"
     excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
     publishedDateTime: 2020-01-25T19:00:00Z

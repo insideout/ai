@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-se
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/amp/"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -75,6 +75,21 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nuro-r2-1581004051.jpeg?crop=1.00xw:0.754xh;0,0.238xh&resize=1200:*"
         width: 1200
         height: 603
+  - title: "CA Startup Gets Approval to Deploy Thousands of Self-Driving Delivery Vehicles With No Steering Wheel"
+    excerpt: "The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or pizza."
+    publishedDateTime: 2020-02-07T19:49:00Z
+    webUrl: "https://ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/"
+    ampWebUrl: "https://ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 29
+    images:
+      - url: "https://tribktla.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
+        width: 1200
+        height: 800
 
 secured: "5TwhDlRw+XY1uSoq/9ksrOpn+6ccMA2pdXDWOaOY6EotlKLzNNMUwGeT94smBBgeiRojyTKdfeExUD/xbjQIwodYJ6px4ZBn2ySOIR+dNd37WLVk3t/7pMMPLuByfV9VvNzCltpGIizRQFzXdvMjmf4m1FyDuz9hIuwj6M0AvAaD+g7yYGDNhKbtB/ZojJnHSbkHmRd9ALTnwcD8W0ZtYIr9t/7pM0JDJMNo1vnR3J1jjCFFUVPI+i5ZZsaOfCh9dAOcZI9VJI3UYYSXnvsTJnDlXCLQHSuI/obQvpS0eNEGi490gjGS9wTT75rWb0CLTdPU+7x3DAs9jFYNd5j8tIAeeioiEKzlXH2Vi46hEuMofcNk0xtWIEpMxAc4xygWP4Dq6Y4Yga13QuZ7qGi3xn7r1nUMv8dvLdWt20n4Qz5qnDacQSXeujzukYY8mOQqsKNtVuL9ZrTJjye84euMNgQqggAjab6gCr1ubnAmxek=;0oNX7U7+iOGRSl7gFZkZQw=="
 ---

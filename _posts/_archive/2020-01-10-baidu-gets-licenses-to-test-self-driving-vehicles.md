@@ -23,21 +23,6 @@ images:
     height: 800
     title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
 
-related:
-  - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
-    excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
-    publishedDateTime: 2020-01-09T18:30:00Z
-    webUrl: "https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/qualcomm2.jpg?itok=5ZO9Ahao"
-        width: 470
-        height: 246
-
-secured: "zYa09fcuIoJLhkUjzg3l8aDZzSM5Avu5fgKXFwpLcxuUFSBXrIcXH9hYCTkfbrZUJEe5YvxLUEixiqn50gd8EnYrt/BwY5k9VydMS0fOR5BZSWQFiTIFd+y6xktvkGIGPZrUHB2NOQEDxr0eYpJLjZsPax0rq5EhYb+i+axNsoU7njMrT1+G3jYcfWkklg95Pfry2YhCTMTUO6yRtTGfmtWEx1ZtSr5krOynrTrCMporb/G1pMDPVfYbZ8fs1a1Nuv3n2uwGpEAqszwzzlZWn9FPQqJhIedxCQ8/VWYPPSLWS6zDe8TknWxR2hiEbwpx;yNPeMRYv7YGsdGIL7zjqzw=="
+secured: "VpxIs9M1cATBbvLGOJx/Y67i8mLXxJKjzbENxnIeIL94oUAtYHx1EBeogBuiB4ItSuYLamQZ6yPOewI4k4aqeWwoy1T7OMS6JJ/BijSfSR7ACSykxkyYcZ9JZFnUr9amTD2GUqsROqhCmKzG8g2XuesXW9qNez8LRT8OXfvMotZ245J54c3TOHoRv0axCmeg20jWI0mINI4y8uQ+OpxlIxGZ2NCCNSqJsfsw0bWGprcmz2rNVHn80VobeB6JxCfAzLIr0UxHvtfDIqoABJQmHhRo1PRPOdn6DoJd5x6QJgwcpHwIpOZIdCNaZQV66umG;2yEdDU00ATfyYaCrkKLF4g=="
 ---
 
