@@ -404,15 +404,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
-  - title: "Self-driving semi trucks may be coming to a highway near you"
-    excerpt: "A self-driving vehicle company started testing autonomous long-haul trucks on Texas roads this week. Waymo, a subsidiary of Google’s parent company Alphabet Inc., will roll out the trucks on several highways,"
-    publishedDateTime: 2020-01-25T01:38:00Z
-    webUrl: "https://www.kxan.com/traffic/self-driving-semi-trucks-may-be-coming-to-a-highway-near-you/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 4
 
 secured: "ul/koNZLTzQLO1eOxFmx0/c90h0C7nXmKnRNemdLiil7xvIqtrODk+ZEfC6/0P13uVT9zZiAvbSInRe9enKzYeymxNxZxBfrilV20criqQ6fKaK00htuSfnHfnGPBvplgZ16y+grRFWPaU7cyu5IBIjiebCBwHRoWSe190NEyK62D+HJfZ+XOLmHK+o/w26hFU86SZiyJ5r1/JapJn15M+nUA92m/k/eF0zsuLdkXIP2bFD8THfhIszwDENyXLo2Y6q80mmwlzZOLixA8HK8N5TmQIJcWOCHsBhlXcNbTlSiFrvNqlUzNF2cSIqyJvR+sMj5xj056BWupaZVK1lrxcautc/rgVa1zv9zuuaf41ocXrnV3d85o3Vch45TMvud2rGKvm2ACnfb0/BNGaxB7fWVAGpIYweawLtISgdhHL3xATsBuLcK3eKR2cXxXCcgtrXHZvwuQdZEkj80kUElo7VCcIlyhBRALgBrxcNw+v4=;52S5RFx5Odfwz1kg8PH3jw=="
 ---

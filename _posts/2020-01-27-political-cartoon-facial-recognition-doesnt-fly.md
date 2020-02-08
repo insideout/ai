@@ -56,21 +56,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e31b7ba8b6cf300071d4b8f%2F0x0.jpg"
         width: 1200
         height: 800
-  - title: "New Jersey Bars Police From Using Clearview Facial Recognition App"
-    excerpt: "Reporting about the powerful tool with a database of three billion photos “troubled” the state’s attorney general, who asked for an inquiry into its use. New Jersey police officers are now barred from using a facial recognition app made by a start-up that has licensed its groundbreaking technology to hundreds of law enforcement agencies around the country."
-    publishedDateTime: 2020-01-25T01:47:00Z
-    webUrl: "https://www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.html"
-    ampWebUrl: "https://www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2020/01/24/business/24clearview01/24clearview01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
   - title: "British watchdog urges caution over police facial recognition plans"
     excerpt: "LONDON, Jan 28 (Thomson Reuters Foundation) - Britain’s surveillance watchdog urged the government to set up inspections of police on Tuesday, amid concern over the growing use of facial recognition technology to locate offenders. The government’s Surveillance Camera Commissioner Tony Porter said it was not clear that the right balance ..."
     publishedDateTime: 2020-01-28T17:25:00Z

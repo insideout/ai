@@ -4,8 +4,10 @@ title: "Software detects backdoor attacks on facial recognition"
 excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
 publishedDateTime: 2020-01-21T00:00:00Z
 webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
+ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
+    width: 446
+    height: 300
+    title: "Software detects backdoor attacks on facial recognition"
 
 related:
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
@@ -91,21 +99,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
-  - title: "Clearview AI faces lawsuit following facial recognition privacy concerns"
-    excerpt: "A lawsuit is taking aim at Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people. The app is under fire after a New York Times investigation into the software company earlier this week. The app identifies people by comparing photos to a database scraped from social media and ..."
-    publishedDateTime: 2020-01-25T00:40:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-faces-lawsuit-following-facial-recognition-privacy-concerns/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-following-facial-recognition-privacy-concerns/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-following-facial-recognition-privacy-concerns/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 103
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/8FqC5fGGG-ESQmUCNaRaTsCGlKc=/756x567/2020/01/25/86869401-a05f-455d-9af6-b4215f70ceea/facial-recognition.jpg"
-        width: 756
-        height: 567
   - title: "Facial recognition scanners at US airports under scrutiny as Philadelphia launches pilot program"
     excerpt: "PHILADELPHIA – A growing number of airports across the U.S. are using facial recognition scanners. Philadelphia International Airport (PHL) is the latest to roll out the technology. “So, this is an electronic way, basically, to verify identity,” said Jeni Best, a branch manager with U.S. Customs and Border Protection (CBP). At PHL ..."
     publishedDateTime: 2020-01-29T22:10:00Z
@@ -735,6 +728,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "TXu8L7rs1idkF5we7bdrmdLLWgYhOZWFv22Z7qNRke786oUO9NGFoAaTVyryZgoxI+LKPgIhjmjWQRxAEGO+ud+GBhLVCqa3J0dYdpK6YOC1CEkkCE/JxpSJYq/Zt/mywgTan5pGePTNW65GmklVFGyCIE+relLZVR183JLaKo6e1nlRbtHz9KzJ4tcyjrhrv5U+YQEUYYY01xKubkssAjCtvV9WcsfCkm4XO3pAWA2X1PGsV268mU4MUS7kiwaL0Dn/AEevuIy0AxZBzI663OlGkyit4evEWbFjPIJ7UKaHBqQnErNad1ZsQTWqvEF+;pV9AyhzLqfxehvzJDLF/Xg=="
+secured: "ZDMAcrAkE1iwidw/0A5Z7TxEH18k2A89bBtRcUa8qoFT4BGcsloiDIHmrdEQ3a8AE6quI+C4rWR+mju0E7LhcTjyoO9Z61mdQZ6VEXnsJ5unuMczTvr2oGkeS4iEEzXFZGqlwlmcp1hePwYIWhIXNJIXBEOwrCpxlAY1OYbCEx2MuIM3EV13kNQW8p05kB7rCH4u/VkbiHjO60YjcogHbOGTVtC7ht9H4GvcoBs+NXJkq93EzKymnUnVDqOBMMtbCRIgq+wGWrNssrZoDC/LDTeUn+gE5vBuGe+0FRDV6ZTWrT7UKbCWOWDPSF7h1CyL;lR+Nh9yCMuqOoZoMNcwHzg=="
 ---
 

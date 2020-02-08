@@ -4,10 +4,12 @@ title: "Digitizing The Finger: Startup Gelsight Hones Measurement System That Co
 excerpt: "Using computer vision techniques, the system “turns touch into an image,” says Johnson, allowing it to measure surface features down to the single-digit micron level. The company is starting ..."
 publishedDateTime: 2020-01-23T17:29:00Z
 webUrl: "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/"
+ampWebUrl: "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/amp/"
 type: article
-quality: 20
-heat: -1
-published: false
+quality: 60
+heat: 70
+published: true
 
 provider:
   name: Forbes
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e29cf2ff133f400076a7e73%2F0x0.jpg"
+    width: 1200
+    height: 633
+    title: "Digitizing The Finger: Startup Gelsight Hones Measurement System That Could Speed Up Aerospace Work"
 
 related:
   - title: "The U.S. Has the Most Startups That Could Change the World"
@@ -34,6 +42,6 @@ related:
       domain: wtop.com
     quality: 24
 
-secured: "YbDhyKEL/cqJCrUvLqOp5rHplET7/g4/NTWHL2eMErwUmqEOvS6h5wXvU1ho0w0AaHm1suRqez+dY8pvisjrXIHi7RXsCQEMRF7nlof6HWrZFZuOLhArZEX1v1HqZBNjb5TTQ62u06RWuU9o8iwtGvV9ZDy9HPMQfxnJozCopaTT7rZOImXaQ70UaTGTAwyNYU/qIGDzTjQ+2mvqSurbII6pXzRzu/IAkwie1etkVSqs89D1giMfAYlJH0XKtp5G1fEtYTPPcba0iiS1Yxuoqmm3AWgIW7x/qS+FgaD+f+syqKhF7XY93IcifC9q/PJq;kMmfD8oFzNNhGWJfs+oCxQ=="
+secured: "b6OaOzR9xv7yUR5urrWPRl91i9XjEk00KotyC9tN4lpyxHlRz/sj/soi0G8iSfQciufEEVd+dzUm+oDtctSdf47qklBZW4xY4l67YNPStfJFnwIaZtqChn2NH7CMxy+Ju9Tnrn5IsIZDD9zS+R2ZpjEY1mwvi2jAWgp6WBz3Toqx/Xbr9jqeSiG3mM7BYwNLDcf2H7EswOqbYBqIAL7/gzgKr/Y1m3xXYFzY/IASipB45JKq9O4bSB8uMsAKRTcnc/W2VVbsjqptQYqQAiw18YBkWqtN+I4WwiLtBWmbZWB7ZhQ4OSdUAfa1cuk+ojhG;ocsC8hapL4SiPR4PPJ2T3A=="
 ---
 

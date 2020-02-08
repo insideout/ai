@@ -99,21 +99,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
-  - title: "Clearview AI faces lawsuit following facial recognition privacy concerns"
-    excerpt: "A lawsuit is taking aim at Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people. The app is under fire after a New York Times investigation into the software company earlier this week. The app identifies people by comparing photos to a database scraped from social media and ..."
-    publishedDateTime: 2020-01-25T00:40:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-faces-lawsuit-following-facial-recognition-privacy-concerns/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-following-facial-recognition-privacy-concerns/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-following-facial-recognition-privacy-concerns/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 103
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/8FqC5fGGG-ESQmUCNaRaTsCGlKc=/756x567/2020/01/25/86869401-a05f-455d-9af6-b4215f70ceea/facial-recognition.jpg"
-        width: 756
-        height: 567
   - title: "Facial recognition scanners at US airports under scrutiny as Philadelphia launches pilot program"
     excerpt: "PHILADELPHIA – A growing number of airports across the U.S. are using facial recognition scanners. Philadelphia International Airport (PHL) is the latest to roll out the technology. “So, this is an electronic way, basically, to verify identity,” said Jeni Best, a branch manager with U.S. Customs and Border Protection (CBP). At PHL ..."
     publishedDateTime: 2020-01-29T22:10:00Z
@@ -286,6 +271,21 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1192370013-760x380.jpg"
         width: 760
         height: 380
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
+    publishedDateTime: 2020-01-21T00:00:00Z
+    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    type: article
+    provider:
+      name: United States Army
+      domain: army.mil
+    quality: 59
+    images:
+      - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
+        width: 446
+        height: 300
   - title: "Facial recognition cameras to be used across London"
     excerpt: "Facial recognition cameras are to be deployed across London for the first time to help police target serious offenders, the Metropolitan Police (Met) announced. Technology in Britain Metropolitan Police camera In a major new move to fight violent crime, \"watch lists\" of Britain's most serious offenders will be developed to facilitate live ..."
     publishedDateTime: 2020-01-25T12:44:00Z
@@ -691,15 +691,6 @@ related:
       - url: "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Facial-recognition-scanner-kids.jpg"
         width: 800
         height: 400
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
-    publishedDateTime: 2020-01-21T00:00:00Z
-    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 19
   - title: "Facebook settles facial recognition dispute"
     excerpt: "Facebook has settled a long-running legal dispute about the way it scans and tags people's photos. It will pay $550m (£421m) to a group of users in Illinois, who argued that its facial recognition tool was in violation of the state's privacy laws. The case has been ongoing since 2015, and the settlement was announced in its quarterly earnings."
     publishedDateTime: 2020-01-30T13:22:00Z

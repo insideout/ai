@@ -1,17 +1,19 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-publishedDateTime: 2020-02-03T11:44:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+publishedDateTime: 2020-02-03T10:44:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -78,6 +80,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "l5Ia5U/lzngD7gdxzsj5/02OXLpS/77PbYrwPWX3KLukQQokRmaiy2zbO8ltcsJxQwim90A5fcoqzS0xbjVoslo2SDmxZEgEXAo+mGsUT577R4rO54DtnkI+/uzzghAQy7MQBo/ioatTr71CXoiB8ONpbeshOfNSDGIu2j135QneMqInMz5qCf/v0+pfbawN9ISd7oKbrT1aLtqIqtEu3vtm96xT8nNvRF+Qb7tpplzIx1gz7iNKUq8c6mTL1z4aTSmOrN+DauUgPJSJW0RV58sQOeU9xpCqvZsQ/lTS91+ZtO5nl7wUGNroCRZOd+VB;FZFTSWCYFZJsmCPPS7qYAQ=="
+secured: "qloH5Tf+mhfDgH/LUgObuD4jZDhv3CIvHQSKnoO0exTXikRaTMGhLShvlCOZaTZpL0CO97OTTuXUyd+zg0O70zjVNqVeA07N3wMBjeTDBCq4rBiB638nQcz3jL5AZrwILlw+qxt/VUMq02YYdUi1oOIM8vb+0gowzAWGo/+8PHvb0Ya8bsqYPCPmAE7f4iXsBazRytKNUjuWwcPeVuE1Ujsus5z+HXvZnqjiFOc+EwDK2a8VjAS7KdnP8KNxvQkVNIAE7KlY3sm45BhUEFZY7L4zFHbkiLVJHzf6P1K0synyBybG+zgBw4TxZCIxOjwv;MzzvujpKnarLFP5OQpN1aw=="
 ---
 

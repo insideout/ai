@@ -343,6 +343,19 @@ related:
       - url: "https://d1hfln2sfez66z.cloudfront.net/02-06-2020/t_6b8a407e593d4132b60e39783d84274f_name_328EAE6F609D4EC69F4DE76964CD220E.jpg"
         width: 1280
         height: 720
+  - title: "Facial Recognition Has Its Eye on the U.K."
+    excerpt: "For Americans concerned about a developing Big Brother at home, recent judicial and regulatory developments on facial recognition technology in the U.K. may provide a glimpse into a potential future. As the U.S. government and the U.S. public consider the potential future use and regulation of facial surveillance, the debate in the U.K. can ..."
+    publishedDateTime: 2020-02-07T13:41:00Z
+    webUrl: "https://www.lawfareblog.com/facial-recognition-has-its-eye-uk"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 39
+    images:
+      - url: "https://lawfare.s3-us-west-2.amazonaws.com/staging/s3fs-public/20094558872_e897053335_c.jpg"
+        width: 800
+        height: 530
   - title: "ACLU criticizes facial recognition company using photos without permission"
     excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
     publishedDateTime: 2020-02-06T05:25:00Z

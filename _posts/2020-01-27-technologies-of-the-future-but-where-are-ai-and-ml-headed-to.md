@@ -35,7 +35,11 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/Neural-Network.jpg"
+        width: 700
+        height: 394
 
 secured: "vVx8zMPrTifP8IUUXVnQKEnDGsEK8VaDfE6VqREDnQqQ2Sp57U3jvNbVIKy93RUolU39Anxk9JgLE+8dzGVUynBFEGccg9CzyE/rAmg96EfTm6zEmABiABU0Jo80ce7cOp1lbFDi0c5337zm79oNUmV2NzFqZufv0TCzrIYReQMiesV6By2dFAPLo08BsxKfSECxrk/gRrG6qLl/X5xuDwRrVrayawo5l8sND3Nj6bG6a3r9cllpDD326yhNbKGZzRt1QYSPzgUAPdQFi+q87ge7zPdBdOsaS1kRZsp+oTjJe4cFQDmmb9OTsMxfk/MeVjlNozgC2ng8IbxJHybND/ofvze6UlWedfW2LULiMQnX0NmP4Mu1m/9sRat0OzdynywU+t/TtHdGClnfVz1pSFKNTCDTUQeH8EKck02aala+5ELOELO9ZCQz+6ok39IbyWpsttYD3UkS+Z4fbXQhi/ZYcgjMbRQNMyPiBGjK1P0=;7gh8+w4tqWkRbU9kCxuDxw=="
 ---

@@ -332,6 +332,19 @@ related:
       - url: "https://d1hfln2sfez66z.cloudfront.net/02-06-2020/t_6b8a407e593d4132b60e39783d84274f_name_328EAE6F609D4EC69F4DE76964CD220E.jpg"
         width: 1280
         height: 720
+  - title: "Facial Recognition Has Its Eye on the U.K."
+    excerpt: "For Americans concerned about a developing Big Brother at home, recent judicial and regulatory developments on facial recognition technology in the U.K. may provide a glimpse into a potential future. As the U.S. government and the U.S. public consider the potential future use and regulation of facial surveillance, the debate in the U.K. can ..."
+    publishedDateTime: 2020-02-07T13:41:00Z
+    webUrl: "https://www.lawfareblog.com/facial-recognition-has-its-eye-uk"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 39
+    images:
+      - url: "https://lawfare.s3-us-west-2.amazonaws.com/staging/s3fs-public/20094558872_e897053335_c.jpg"
+        width: 800
+        height: 530
   - title: "Zwicker Wants to Regulate Facial Recognition Technology"
     excerpt: "TRENTON, NJ – Just recently, the New Jersey Attorney General prohibited law enforcement in all 21 counties from using Clearview AI’s facial recognition software after a New York Times article revealed the start-up had built its database by scrubbing ..."
     publishedDateTime: 2020-02-07T09:00:00Z

@@ -5,7 +5,7 @@ excerpt: "However, the conventional ML process is human-dependent, and not all c
 publishedDateTime: 2020-01-24T18:37:00Z
 webUrl: "https://www.analyticsinsight.net/neural-architecture-and-automl-technology/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/Neural-Network.jpg"
+    width: 700
+    height: 394
+    title: "Neural Architecture and AutoML Technology"
 
 related:
   - title: "Technologies of the future, but where are AI and ML headed to?"
@@ -34,6 +40,6 @@ related:
         width: 800
         height: 400
 
-secured: "ziZjzbYnS8c7oaWQUi1OCpbAn7Vf3pq6gIvaH8WoZBjr4nESPfDmAgc+eFHJ36wVEfsYOiYpqyl2iS7ahz8h3DeObNAdfkk7HB+gqdoPshzLixRWJYG98FI38GMgRXT4Jd6XeUbqN/2nC9+GwIQk+u7d1zgxrp1fG4Z3Jga7HcKBq6AjFeYaHQ9sdje4TXKFmaq6x3N+tOzFdvw597c09/ZzFNWm22sN9UZhgrZ9wx25gb49TmIm21n+37cXPfrM/zjw1sHCtNfRqp/BQKH45d9STHDyX8cOCOKUh49LYAT9BPteXwV7K4TTXqSt6z5KTSnVnnX9K7xrwiAO1QoNM1zYVpvWYAUKq+HDbA0uRdte1AfBgKS6KQ4MVKcQKjJ97wD3ymEV12bBCUmFl5/TL/XiOJ3YyvlvVH+s2KfgAVveddyiFNjzjxb3f3eT9uc8RNI3ZExzoTZaQRvbnXljFqs3DZiOEP5tac1wcC1ZnJQ=;VUHMh5lanZulAzJn/rOlsA=="
+secured: "9vNV0MucglJL3A14u6hIQ78fsD3LrVVN4GdBDtzfl3WHOoCUa+ic3JKD2m+RUXqtbNrdny4GyMjAwWtZos1acjOwuHBJb9+fwhV/t3AH6MR7wHVj79D2txz0OA5Oce/7jTB9bAqWKx1TUVJcitgPr03RdIYjUp14paRGdxn4B/p7O+rf0UOAVEhf1KETEhXVHVsec0I6RsTnuYI4dQm5yOM7u6M29LCIyiNHUU9/H/SpVi/iDMX04feowAE+N8OeUP0DOm29LaoZpPr/gMdHFKSpVZQV+YK/sMFr2CB5t7Tf66CdlPVqWIuLetNDz6z1;+qCCDr4RZLOH8rF0TeOH+Q=="
 ---
 

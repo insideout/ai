@@ -4,10 +4,12 @@ title: "Samsung and GE are on track to solve the pain of menu planning"
 excerpt: "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. The newest version of Samsung's Family Hub smart refrigerator ..."
 publishedDateTime: 2020-01-24T15:21:00Z
 webUrl: "https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: CNET
@@ -21,6 +23,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "oWJkE78WZ99Q2IyVtwjeTEd09pTuAu1aMv0HDiRUPbmdI0QgAPj+2cmMg9iGp/gmzIhNdXBXbbvnbWRAexYt7tSgF5u/pYxzxAFzv7XaAaZLug1qQewkNSLHPnVO2qYgy/bxnx89wvOCyjYVfAK0ahCTcDKClc5tZ2en4O3gDMTt95O6tc8QU7YnmqvIZfTb6FSJukEusitygOa7w2NR7ChsLprZkeBftKZJ6lcI46j0Qb2GICeVmFmVSoNuFaYKEdiEk1PW9co6Id9InBprrjdAFKHIEhFstUZixIWNpClAa89H0hliNhMx400gLwRB;HuvLodvkphsJLTlKY0fkYQ=="
+images:
+  - url: "https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg"
+    width: 756
+    height: 567
+    title: "Samsung and GE are on track to solve the pain of menu planning"
+
+secured: "UqwEmV+QAOP0YFKgzIgE6nlbN/aVVTUbSRZwwYlPtlWAYt9heK3Brnt9kZtHs8shzGb4AeEgO9QqK6TXLoexsgXthJit5pdep7ePho/M6ahG8I+cLCehr2y00bFOjG1ZmUla+z1wLfb1eJbgeu6yp/Zde2FA3YVsNLMiNTrQGeKkx1wqSQDlT8Nfg8ciyJuv96hlzFhGha/lJOYl6KryG6XniJcFey9E7iUeic+TQTGQoNc4zcY2P3vDn61gVJmP90B+fojq0pdDdo/742CRSX14+QeWzI4QLAya/KqgXpnnm34dxHOuSV6Q1lnLcrPS;W07lhx30BZz8SXoDmwCKYQ=="
 ---
 

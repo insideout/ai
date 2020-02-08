@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/01/29/tech/ups-waymo-self-driving-packa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html"
 type: article
 quality: 89
-heat: 379
+heat: 369
 published: true
 
 provider:
@@ -408,15 +408,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
-  - title: "Self-driving semi trucks may be coming to a highway near you"
-    excerpt: "A self-driving vehicle company started testing autonomous long-haul trucks on Texas roads this week. Waymo, a subsidiary of Google’s parent company Alphabet Inc., will roll out the trucks on several highways,"
-    publishedDateTime: 2020-01-25T01:38:00Z
-    webUrl: "https://www.kxan.com/traffic/self-driving-semi-trucks-may-be-coming-to-a-highway-near-you/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 4
 
 secured: "TSBv/yyEC87GvFuB2XI6Ljr0hfQyQG+nJHFHGBG9lfYntmZ8losw9shT34y23h2nh2LztT7+dHCh6B7bmi7eWfqM+1v6didYfXhgYx8eD+RijEo5A/mISncxavv4591DLVT1SzAlSPgcaMb3HitxKpAR63JrtsabwFjdE3kmNrt4xslK3xJhJU9tNZo2wqMiWZHgVAHL52IH1jqZ+0a+bSf0Bqeb5Npf3YPhcSff53lapAxbyBxfiQ75b/fe475xwCfO0H4tJ4f13VZuDl3D3dh6Lz/yO5N9S84V8nvo5t4aLgsGS1HMV/DJZJ9bERDmIa1BF0jZB2i/q/tDRz7DopK79HSi2pF9BhMA/yynBZuhb1mLbzAk7t/zGkDLSXrXv4T3aBcWnSTLPb1QgLJhWk/oTIpS+bcuxmrmj7pSvq2wk5siBoyIBem/BPaon3S5SNrnO0y1rAKO6x9BkuWz1VR8nHVEKA3By2MBdFMwReM=;0WZWfLT0/y7g1lIyD16Jbw=="
 ---
