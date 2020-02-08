@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025"
-excerpt: "Why is Artificial Intelligence disrupting the healthcare ... From life coaching to cognitive behavioural therapy to faith-based healing, therapy bots support users’ mental health and help ..."
+excerpt: "Why is Artificial Intelligence disrupting the healthcare industry? The reasons Artificial Intelligence is changing healthcare are quite obvious. AI is quicker and better than human doctors ..."
 publishedDateTime: 2020-01-16T08:13:00Z
 webUrl: "https://medium.com/@brand_minds/artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-36-1-billion-by-2025-1e2f70b0ca1"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 632
     title: "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025"
 
-secured: "0NP/tiFJYApKxzZRrQbi4lHKpaTBGwz6neQNExeGuxoVZAAZv4GiswQLgEdKLE1QsPwF2bnQIh6Ps0w66YKus298AAJoJxp+Xs/YecTGz3m1np2rIotcxUUhtXIA3316HlKRmAJ8TOxbJ+CLQE+o2QjHXCqJ9V3+fqhzgyIm7I7b3sxnlaeCATDmLTAcVJw/aL2s/Zqv2+chZHjyNi9+vvidQ9sh926jNx6CtIuaB9a150wjM6m9RT2GeflMse6iJLhMx/R8qJQFZaH4KE0kX7GgjgjloUvSeBkWzOIJ52mWRsfPdYB1OAp1Q59x+cZC;TqovwKvLXS7rSEm4xmb34A=="
+secured: "ZYhKwLEAlCI03TP3nyKOqqxFY9mpZ6O1NQ58B+A0LITDL2CUDUEWyiz+m/9QXjOMwrQZIrJtJ0QvEJyQQgk/JudDv8mYzoI4lENtMa2ZFt1yM807Rvk3Nk4hVQ5PK308P85JLD3VeM8bsow0yuyh+I/mEo5+aHiVkjt1RCEoxTlU1xHgYn3w/gjrtK1QrKShJUCsVmBqnZocG8g9d/3qk1vGOrUcyDVmsdT2L60G+utrNcEb8WyYx5IkQfm139nL4jaSugN0ijtEEUmfvz5UgwSbf5QzhUCP40CUWaCD2miO1BIRuSWahBrob/RctlCa;IIROkah4TRoydJbVdv15aQ=="
 ---
 

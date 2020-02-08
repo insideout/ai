@@ -71,6 +71,30 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/27/16/campaign_images/5ec0c13d1ba4/20-cashmere-things-so-soft-you-might-want-to-splu-2-326-1580142937-2_dblbig.jpg"
         width: 625
         height: 415
+  - title: "New Jersey halts police use of creepy Clearview AI facial-recognition app"
+    excerpt: "New Jersey is ahead of the curve — at least when it comes to stopping its law enforcement from using the creepy and potentially biased facial-recognition app Clearview AI. The app, which scraped billions of photos from the likes of Facebook, YouTube, Venmo, and other online platforms, drew the world's attention last weekend following a ..."
+    publishedDateTime: 2020-01-24T23:59:00Z
+    webUrl: "https://mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey/"
+    ampWebUrl: "https://mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 88
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F01%252F24%252F53%252Fc9b7bd94080a4f81b5f99ec464adff04.08837.jpg%252F1200x630.jpg?signature=yAzYMITbCIxJTHhBnTyFoFDHPXg="
+        width: 1200
+        height: 630
+  - title: "ZenGo Defends Integrity of Facial Recognition"
+    excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
+    publishedDateTime: 2020-01-29T18:54:00Z
+    webUrl: "https://mobileidworld.com/biometrics-news-zengo-defends-integrity-facial-recognition-012905/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 19
 
 secured: "WXbuKZ4yTAfc5m6QgstRjur8dPvkxFmdWeRpQwD/bY6e60VdVL3qgzW91wmFGBVNIWwO3N6y56QmKGaqbdIPHTKYQnZFkWAj7WqkA6PP5g70uwTY+fsI91ds24LWB0dPzi8MwOZCRPjh4L/OS0urpAhk8V758OYPjTYQqkBR6z157Nh+oZ8sEqtFtJVthueM80OS+A/Nax0ZDFvfv4SXtP1xFgIineBAsoGgsRGL0z2uJQmsjmNSrTcFSOrwjlQJtVhLZa3XjR41lN214TLzx8vSbNCnlWFpHnHo/cb5OzEoR4olN2OC6rwbN8018rmtpdq5Mv1akKEUFCkXVkt9XakXyrz7x1Lyi9FvIlD0pV5FxMtJIGhITpaM0l+phcFRA57tnPpsXt/wdsPo35vyA5/yNv14JtxgyOJyZG2/AUwYJP9ZfrWuDs23ZvSkPP/F+1+5TBnercs6n8Ik7q5gDTgMWCmSg2DkHvoqZX0P15A=;iEmKaOdPFxI5zsZY3uGKTg=="
 ---

@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Samsung and GE are on track to solve the pain of menu planning"
-excerpt: "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. I spent 15 minutes trying out the newest version of the Samsung Family Hub smart fridge at Samsung's CES booth this year. It was just me, the fridge, and version 5.0 of the software that runs the 21-inch touchscreen ..."
-publishedDateTime: 2020-01-24T13:07:00Z
+excerpt: "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. The newest version of Samsung's Family Hub smart refrigerator ..."
+publishedDateTime: 2020-01-24T15:21:00Z
 webUrl: "https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
 ampWebUrl: "https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
@@ -46,6 +46,6 @@ related:
         width: 756
         height: 567
 
-secured: "7PRvM1Vq/p7dSi9nYghGZJU6qAeKeoC2aZBYisX3ExPBaJZLisg4lidNr1PwAnV9IgvVhHL6CIjXn5ROTut2Hzmn4dntaiXnqhAnL3nK8wggSnGtKUQdKf4DTHFsTMDYA0ooD/ke1yoOcTyxltL9f3yzWMneoBQDq0yQhFDW25+cBbkgZW+XJeL9KV1OC11DkvXor5DkLCPwiU2+Qm1z8EIwuVcg2gMsgq2Zk6m1usN+/DwLhrUEv4i/QjK3n76k07ffj1uCnqoaO6G+WmdUGoWGsfXGWl+dXECnxpY2yrw1m/2O5RLWeIxAyTrX1VN/Kz41xiGEqLPlZbjLsMgeU25t1JiNh3NCC9Mp58vuck0+n4QY9HauU09tYtNDRBHO47FsT1pWYbQppGLLuTY13LuO7SFYy6C+FJXySyP6KNgwyq26ernLGyv8YxGkEh07YbYPX1qpa+NKtYNsv5AVJ9p0ZdXIOrGZofy6yNg+h5I=;7U2uVSIvBLLiW9rik3KQVA=="
+secured: "2EjBpXxaYr2+pKZOIPMWWYNPbVLJEQiHeRs8XJitZNtK/ulkGaP6i6t7CKr9a93rwIUAuSqII4o258nUPywVOnxS7lwH8ph2vy5QMmkEWaGi+GLBjztATA6HP0/wBqL67xb7HhcBGaOYbGaCf8baGPn+sTx6PB8sTeKsu8cBG8RAx6X8s5NuhLP/FzNXM9VM14dSjLAQyrwrY2/nZ7nzr+QZrKQMt/TClCN232+QEWVynwKUoXSmxInG8N1rY7ovJ7V4Rl4lZV24zJIy1AAf7D0E8sCrJZhFI4Ut4rOiEx9t2lVi6avJDLpOhWitVmIP;EVgr3E//KcIJBI9dAG3KDQ=="
 ---
 

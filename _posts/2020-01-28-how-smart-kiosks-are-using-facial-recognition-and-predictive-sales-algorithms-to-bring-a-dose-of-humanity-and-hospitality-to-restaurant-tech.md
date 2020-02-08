@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T21:42:00Z
 webUrl: "https://www.nrn.com/technology/how-smart-kiosks-are-using-facial-recognition-and-predictive-sales-algorithms-bring-dose"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 770
     height: 400
     title: "How smart kiosks are using facial recognition and predictive sales algorithms to bring a dose of humanity and hospitality to restaurant tech"
-
-related:
-  - title: "PopCom’s Interactive Retail Kiosk Incorporates Facial Recognition, Data Collection"
-    excerpt: "PopShop is designed to allow e-commerce retailers to have a physical self-serve presence in the form of an interactive kiosk that uses facial recognition. The kiosk’s management software collects customer demographic information at the point of sale, along with monitoring inventory, capturing sales data and generating insights for lead ..."
-    publishedDateTime: 2020-01-30T13:48:00Z
-    webUrl: "https://www.dealerscope.com/article/popcoms-interactive-retail-kiosk-incorporates-facial-recognition-data-collection/"
-    type: article
-    provider:
-      name: Dealerscope
-      domain: dealerscope.com
-    quality: 48
-    images:
-      - url: "https://www.dealerscope.com/thumb/?src=/wp-content/uploads/sites/5/2020/01/PopCom-MachinePhoto-3.jpg&w=750"
-        width: 750
-        height: 894
 
 secured: "BrTfUXiSiXWEXCSnkB1ncJs6zkD+9BEQaaJg8TWgtg0Jw4JgWrgGAwjka/EI0J3aN7q8VMKcFtN1l1cuDuebEeaB9R4ogLiypxAisawJJV26ScopUZsmTeWNwhRNOPPuXEOPNophrBCtVCZ7brqRq5k9bslvAYY1Y9o6YjOA6rQRI59tX2H62oOLNG5vWMBCI6wjulrjqU4aC5uZTNBm//LTD/nV+QebXQf1IxzhWM3gH3AI32u0X9cglijaTtZvSiq3WAiSKAqKZHvALExtKD89sJYxckxFI9uPMdmDka3ZmeYhxImTH3CXFVQzD3wul04O0NSp6jV+uHSnh7Fx/q2IqUF3PlwoYlA0yhS3ZbOBhjMTNrik4IFQ4isUpngiGI17mc9FjiDArFP94pPIe3+BLe6BPUEXZMxAUdgKDpRrq08dC6SWocIqsRdnjR9LdZNsKMgzK3GeThgx+wRDDEjRxFnQdW6v6ARk1TgXMI8=;FsrOh5x/Gi08sOH2h8RXqQ=="
 ---

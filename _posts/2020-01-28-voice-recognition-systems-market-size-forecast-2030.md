@@ -31,21 +31,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Facebook will pay $550 million to settle a class-action lawsuit in Illinois surrounding its alleged violations using facial recognition technology"
-    excerpt: "Facebook said on Wednesday it reached a $550 million settlement in principle related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent. The settlement is the largest payment from a company to settle privacy complaints, a press release from the law firms Edelson, Robbins Geller ..."
-    publishedDateTime: 2020-01-29T00:00:00Z
-    webUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1"
-    ampWebUrl: "https://www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-reaches-550-million-settlement-in-facial-recognition-lawsuit-2020-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://i.insider.com/5e3217765bc79c3a250185f8?width=1200&format=jpeg"
-        width: 1200
-        height: 900
   - title: "Top Trends Driving Technology Innovation Investments in 2020 Revealed by Virtusa"
     excerpt: "Financial Services, Insurance, and Life Sciences Leading in Innovation to Start the New Decade SOUTHBOROUGH, Mass., Jan. 28, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation VRTU, +0.29%, a global provider of digital strategy,"
     publishedDateTime: 2020-01-28T13:01:00Z
@@ -87,32 +72,6 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/KP4ZEP4EZVEE7EUKABDLB57CO4.JPG"
         width: 5472
         height: 3080
-  - title: "Facial recognition technology poses ‘enormous’ potential for abuse, NDP says"
-    excerpt: "OTTAWA–Canadian police agencies' use of cutting-edge facial recognition technology presents \"enormous\" potential for abuse, the opposition New Democrats say. The NDP is calling on federal privacy commissioner Daniel Therrien to launch a probe into how the RCMP and other Canadian law enforcement agencies use the controversial tool, which can ..."
-    publishedDateTime: 2020-01-28T19:22:00Z
-    webUrl: "https://www.thespec.com/news-story/9833836-facial-recognition-technology-poses-enormous-potential-for-abuse-ndp-says/"
-    type: article
-    provider:
-      name: The Hamilton Spectator
-      domain: thespec.com
-    quality: 36
-    images:
-      - url: "https://dynamicmedia.zuza.com/zz/m/original_/a/e/aec26bdc-72bd-413c-9494-fc91ef7c420b/B881027028Z.1_20200128125040_000_GH1S8UDK.5-0_Super_Portrait.jpg"
-        width: 587
-        height: 417
-  - title: "Tech Savvy: Facial-recognition technology stokes privacy concerns"
-    excerpt: "Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier says 72% of ..."
-    publishedDateTime: 2020-01-26T06:40:00Z
-    webUrl: "https://www.brainerddispatch.com/business/technology/4880204-Tech-Savvy-Facial-recognition-technology-stokes-privacy-concerns"
-    type: article
-    provider:
-      name: Brainerd Dispatch
-      domain: brainerddispatch.com
-    quality: 24
-    images:
-      - url: "https://www.brainerddispatch.com/incoming/4880195-oiib4n-IMG_7852.jpg/alternates/BASE_LANDSCAPE/IMG_7852.jpg"
-        width: 1140
-        height: 712
   - title: "Artificial Intelligence in Medical Imaging 2020 Global Market – Innovation, Technologies, Applications, Verticals, Strategies & Forecasts"
     excerpt: "“Artificial Intelligence in Medical Imaging Market” WiseGuyReports.Com Publish a New Market Research Report On –\" Artificial Intelligence in Medical Imaging"
     publishedDateTime: 2020-01-27T08:50:00Z
@@ -137,21 +96,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
-  - title: "Facial Recognition Market 2020-2022: Key Findings, Global Segments, Business Trends, Regional Study, Top Key Players Profiles and Future Prospects"
-    excerpt: "“Facial Recognition Market” global facial recognition market had been valued at USD 3.04 billion in the year 2016, which is expected to reach USD 8.93 billion"
-    publishedDateTime: 2020-01-27T09:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186760/facial-recognition-market-2020-2022-key-findings-global-segments-business-trends-regional-study-t"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15186760"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186760"
+  - title: "40 groups have called for a US moratorium on facial recognition technology"
+    excerpt: "The news: US government use of facial recognition technology should be banned “pending further review,” according to 40 organizations that signed a letter calling for a recommendation to be made to the president. The letter, drafted by the privacy advocacy group Electronic Privacy Information Center, or EPIC, cites the recent New York ..."
+    publishedDateTime: 2020-01-29T15:27:00Z
+    webUrl: "https://www.technologyreview.com/f/615098/facial-recognition-clearview-ai-epic-privacy-moratorium-surveillance/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
-    images:
-      - url: "https://www.abnewswire.com/uploads/1580120204.jpeg"
-        width: 417
-        height: 455
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
   - title: "Artificial Intelligence in Medicine Market Advanced Technology and New Innovations by 2025 – InSilico Medicine, Globavir Biosciences"
     excerpt: "Market Growth Insight has announced the addition of the “Global Artificial Intelligence in Medicine Market Research Report 2018-2025” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. The global artificial intelligence (AI) in medicine market was valued ..."
     publishedDateTime: 2020-01-27T13:02:00Z

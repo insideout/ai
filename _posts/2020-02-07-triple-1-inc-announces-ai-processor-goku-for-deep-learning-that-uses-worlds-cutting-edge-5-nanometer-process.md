@@ -37,6 +37,19 @@ related:
       - url: "https://www.bernama.com/bm/img/bernama.png"
         width: 2483
         height: 2942
+  - title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
+    excerpt: "It may differ from the actual product.) - Development background In recent years, various companies have entered the AI chip market, including not only giant IT companies but also fast-growing start-ups in China. As competition for edge AI chip development intensifies, oligopoly supply by several major companies continues in the deep-learning ..."
+    publishedDateTime: 2020-02-08T00:26:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/triple--inc-announces-ai-processor-goku-for-deep-learning/article_070b466a-90ec-5054-bc5b-16e2a2c9413a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 16
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
 
 secured: "VnLW/1DyQImpYKbDF7nZzEyK0rbX5pxmUP135QLLVOm7Glw9y/KDPNJJ2q/sTJe98E5TK8GpDfT1hpn+GMvt8xh8K+lfyhVRAysGLsbEMClTGrzZiy8UsImNYiAzJMSo7I67J1YRt+5R8FLrbucccXsIUm3MmmjDSXKn02AV0iEPBCDJFshxrPcFHUeGZ5Uki6Rmdz3hJJX021Q910/52C6vXvXF1ZeB/+z7dESeer8GX1fWRC2lvWc1KMeTOjQmRlDpQmPVsIySvPxmuUu0+WL+WygnRDuUaJvGxHTiVmUMmq34kPIL0Q5+siRvXRDN;1e/2Z2Mi9NfWx1xcakNM2Q=="
 ---

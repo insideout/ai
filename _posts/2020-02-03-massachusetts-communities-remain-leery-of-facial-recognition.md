@@ -140,6 +140,21 @@ related:
       - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY0NTY0MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTU4NDQ5NTUzOH0.8EDL8JLOZU1EoGTIjwzqEWj6Xb8zz-JrM5xwbkRPUcg/img.gif?width=1200&coordinates=0%2C45%2C0%2C45&height=600"
         width: 1440
         height: 810
+  - title: "Facebook will pay $550 million in facial recognition lawsuit settlement"
+    excerpt: "Facebook has agreed to pay $550 million as part of a settlement stemming from a facial recognition class-action lawsuit brought up in Illinois. The social media giant was sued by Illinois residents, alleging that it broke the Illinois Biometric Information Privacy Act with its use of facial recognition technology to suggest people to be tagged ..."
+    publishedDateTime: 2020-01-30T13:49:00Z
+    webUrl: "https://www.dailydot.com/layer8/facebook-facial-recognition-settlement/"
+    ampWebUrl: "https://www.dailydot.com/layer8/facebook-facial-recognition-settlement/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facebook-facial-recognition-settlement/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Facebook-Facial-Recognition-Lawsuit-Settlement-1024x512.jpg"
+        width: 1024
+        height: 512
   - title: "Volusia Sheriff’s Office adds facial recognition technology"
     excerpt: "DAYTONA BEACH — The Volusia County Sheriff’s Office has begun using controversial facial recognition technology that some privacy experts say can intrude on personal privacy. But Sheriff Mike Chitwood said in an interview on Monday that the department is putting in safeguards to protect privacy as it tries out Clearview AI. The company ..."
     publishedDateTime: 2020-02-03T17:59:00Z
@@ -179,45 +194,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 57
-  - title: "Facial recognition in civic polls yield good result"
-    excerpt: "The Telangana State Election Commission has come out with the results of the “Facial Recognition” trials it conducted during the recently held civic body elections. According to the data released, the tests have yielded an accuracy of 80 per cent meaning that eight in every 10 people were correctly recognised by the application used on a ..."
-    publishedDateTime: 2020-02-04T13:23:00Z
-    webUrl: "https://www.tribuneindia.com/news/facial-recognition-in-civic-polls-yield-good-result-35824"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://cms.tribuneindia.com/gallary_content/2020/2/2020_2$largeimg_1960177639.jpg"
-        width: 660
-        height: 440
-  - title: "Banks allowed to use facial recognition"
-    excerpt: "The Bank of Thailand has allowed six commercial banks to offer facial recognition for electronic Know Your Customer (e-KYC) technology to verify the identity of new customers under the regulatory sandbox when opening online deposit accounts. The six banks are Kasikornbank, Bangkok Bank, Siam Commercial Bank, Bank of Ayudhya, TMB Bank and CIMB ..."
-    publishedDateTime: 2020-02-06T10:46:00Z
-    webUrl: "https://www.bangkokpost.com/business/1851949/banks-allowed-to-use-facial-recognition"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20200206/c1_1851949_200206161720_700.jpg"
-        width: 700
-        height: 467
-  - title: "DHS to be grilled on facial recognition"
-    excerpt: "Another) facial recognition hearing: House lawmakers will press the Department of Homeland Security on its use of facial surveillance as the technology remains under fire on the federal level and has been banned in several cities. — The moment telecom’s been waiting for: FCC Chairman Ajit Pai will unveil his C-Band auction plan for 5G today ..."
-    publishedDateTime: 2020-02-06T15:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/02/06/dhs-to-be-grilled-on-facial-recognition-785115"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
   - title: "Facial recognition company CEO speaks out"
     excerpt: "Watch \"CEO of controversial facial recognition company speaks out about privacy concerns\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-02-06T17:07:00Z

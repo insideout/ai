@@ -69,21 +69,21 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
         width: 1119
         height: 630
-  - title: "Springfield City Council debates, postpones vote banning police use of facial recognition technology"
-    excerpt: "SPRINGFIELD -- After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
-    publishedDateTime: 2020-02-04T02:51:00Z
-    webUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/02/springfield-city-council-debates-postpones-vote-banning-police-use-of-facial-recognition-technology.html?outputType=amp"
+  - title: "Watchdog calls for probe after Sheffield's Meadowhall facial recognition police trial"
+    excerpt: "A facial recognition camera trial has sparked further calls for government to intervene in the into the use of the controversial technology. South Yorkshire Police shared three pictures of serious offenders and one of a vulnerable missing person with Meadowhall shopping centre, Sheffield, in 2018 so officers could better understand ..."
+    publishedDateTime: 2020-01-28T09:38:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-7937289/Watchdog-calls-probe-Sheffields-Meadowhall-facial-recognition-police-trial.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-7937289/amp/Watchdog-calls-probe-Sheffields-Meadowhall-facial-recognition-police-trial.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7937289/amp/Watchdog-calls-probe-Sheffields-Meadowhall-facial-recognition-police-trial.html"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 44
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 52
     images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QCLDUALHANGKPFFLNERXQHYXQQ.jpg"
-        width: 2016
-        height: 1512
+      - url: "https://i.dailymail.co.uk/1s/2020/01/28/09/23971966-0-image-a-2_1580203901768.jpg"
+        width: 636
+        height: 382
   - title: "Veridium Launches Facial Recognition Technology vFace Alongside Behavioural Biometric Capabilities"
     excerpt: "/PRNewswire/ -- Authentication platform Veridium launches its facial recognition technology, vFace. This software makes facial recognition more"
     publishedDateTime: 2020-02-04T14:25:00Z

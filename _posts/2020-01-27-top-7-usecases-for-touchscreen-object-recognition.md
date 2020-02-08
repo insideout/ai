@@ -39,6 +39,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
         width: 1200
         height: 800
+  - title: "Face recognition is not the enemy"
+    excerpt: "Face recognition fearmongering is in full swing, with at least a small contingent of Americans breathlessly warning that its use by law enforcement is going to portend the end of privacy as we know it. Slow down. This technology is a great advance over the way we used to identify suspects, eyewitness memory. It promises to identify the guilty ..."
+    publishedDateTime: 2020-01-26T10:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-face-recognition-is-not-the-enemy-20200126-pjz4z367bvgfhaws465je5o52m-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-face-recognition-is-not-the-enemy-20200126-pjz4z367bvgfhaws465je5o52m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-face-recognition-is-not-the-enemy-20200126-pjz4z367bvgfhaws465je5o52m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/zSmItPl11VfSZK_HlthWE4t6ueI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/TRO2XAVMCJDFDHJMTP7WVOQS3E.jpg"
+        width: 1200
+        height: 799
   - title: "The rise of facial recognition technology: where we are and what to expect"
     excerpt: "This is a guest post by Jeffrey N. Rosenthal and David J. Oberly of Blank Rome LLP. This is the first article in a two-part series examining the rapid rise of facial recognition technology. Part one discusses the use of facial recognition technology and the risks/challenges associated therewith, as well as an overview of the legal landscape ..."
     publishedDateTime: 2020-02-04T12:04:00Z

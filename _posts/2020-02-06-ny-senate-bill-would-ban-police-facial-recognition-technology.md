@@ -18,36 +18,124 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Paper Masks Are Fooling Facial Recognition Software"
-    excerpt: "Facial recognition is being widely embraced as a security tool — law enforcement and corporations alike are rolling it out to keep tabs on who's accessing airports, stores, and smartphones. As it turns out, the technology is fallible. Researchers with the artificial-intelligence firm Kneron announced that they were able to fool some facial ..."
-    publishedDateTime: 2020-02-07T16:44:00Z
-    webUrl: "https://www.entrepreneur.com/article/346056"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/346056"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346056"
+  - title: "Moscow rolls out live facial recognition system with an app to alert police"
+    excerpt: "Moscow is the latest major city to introduce live facial recognition cameras to its streets, with Mayor Sergei Sobyanin announcing that the technology is operating “on a mass scale” earlier this month, according to a report from Russian business paper Vedomosti. It follows news earlier this week that London is integrating live facial ..."
+    publishedDateTime: 2020-01-30T16:13:00Z
+    webUrl: "https://www.theverge.com/2020/1/30/21115119/moscow-live-facial-recognition-roll-out-ntechlab-deployment"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/30/21115119/moscow-live-facial-recognition-roll-out-ntechlab-deployment"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/30/21115119/moscow-live-facial-recognition-roll-out-ntechlab-deployment"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: The Verge
+      domain: theverge.com
+    quality: 187
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/MhpGO7zrsTCtAIUSdhcRrwBwTqs=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66220173/1130169832.jpg.0.jpg"
+        width: 1400
+        height: 933
+  - title: "London Police to Deploy Facial Recognition Cameras Despite Privacy Concerns and Evidence of High Failure Rate"
+    excerpt: "Police in London are moving ahead with a deploying a facial recognition camera system despite privacy concerns and evidence that the technology is riddled with false positives. The Metropolitan Police, the U.K.’s biggest police department with jurisdiction over most of London, announced Friday it would begin rolling out new “live facial ..."
+    publishedDateTime: 2020-01-24T16:35:00Z
+    webUrl: "https://time.com/5770976/london-facial-recognition-police/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 165
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/01/london-cctv.jpg"
+        width: 1024
+        height: 683
+  - title: "Remember FindFace? The Russian Facial Recognition Company Just Turned On A Massive, Multimillion-Dollar Moscow Surveillance System"
+    excerpt: "Built on several tens of thousands of cameras and what's claimed to be one of the most advanced facial recognition systems on the planet, Moscow has been quietly switching on a massive surveillance project this month."
+    publishedDateTime: 2020-01-29T17:50:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/"
+    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/01/29/findface-rolls-out-huge-facial-recognition-surveillance-in-moscow-russia/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 159
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e31b7ba8b6cf300071d4b8f%2F0x0.jpg"
+        width: 1200
+        height: 800
+  - title: "New Jersey Bars Police From Using Clearview Facial Recognition App"
+    excerpt: "Reporting about the powerful tool with a database of three billion photos “troubled” the state’s attorney general, who asked for an inquiry into its use. New Jersey police officers are now barred from using a facial recognition app made by a start-up that has licensed its groundbreaking technology to hundreds of law enforcement agencies around the country."
+    publishedDateTime: 2020-01-25T01:47:00Z
+    webUrl: "https://www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.html"
+    ampWebUrl: "https://www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
     quality: 89
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200207163845-face-recognition.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
-  - title: "U.S. Homeland Security has used facial recognition on over 43.7 million people"
-    excerpt: "This morning in a hearing before House lawmakers on Capitol Hill, Department of Homeland Security (DHS) officials detailed the administration’s use of facial recognition technologies across the ..."
-    publishedDateTime: 2020-02-06T22:15:00Z
-    webUrl: "https://venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/"
-    ampWebUrl: "https://venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/amp/"
+      - url: "https://static01.nyt.com/images/2020/01/24/business/24clearview01/24clearview01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+  - title: "British watchdog urges caution over police facial recognition plans"
+    excerpt: "LONDON, Jan 28 (Thomson Reuters Foundation) - Britain’s surveillance watchdog urged the government to set up inspections of police on Tuesday, amid concern over the growing use of facial recognition technology to locate offenders. The government’s Surveillance Camera Commissioner Tony Porter said it was not clear that the right balance ..."
+    publishedDateTime: 2020-01-28T17:25:00Z
+    webUrl: "https://uk.reuters.com/article/britain-data-privacy/british-watchdog-urges-caution-over-police-facial-recognition-plans-idUKL8N29X4CD?feedType=RSS&feedName=technology-media-telco-SP"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKL8N29X4CD"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKL8N29X4CD"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/OnPaste.20200206-165030.png?fit=2560%2C1440&strip=all"
-        width: 2560
-        height: 1440
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
+  - title: "British watchdog urges caution over police facial recognition plans"
+    excerpt: "LONDON (Thomson Reuters Foundation) - Britain’s surveillance watchdog urged the government to set up inspections of police on Tuesday, amid concern over the growing use of facial recognition technology to locate offenders. The government’s Surveillance Camera Commissioner Tony Porter said it was not clear that the right balance between ..."
+    publishedDateTime: 2020-01-29T00:00:00Z
+    webUrl: "https://www.reuters.com/article/us-britain-data-privacy/british-watchdog-urges-caution-over-police-facial-recognition-plans-idUSKBN1ZR273"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZR273"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZR273"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
+  - title: "Facebook to Pay $550 Million to Settle Facial Recognition Suit"
+    excerpt: "It was another black mark on the privacy record of the social network, which also reported its quarterly earnings. Facebook said on Wednesday that it had agreed to pay $550 million to settle a class-action lawsuit over its use of facial recognition technology in Illinois,"
+    publishedDateTime: 2020-01-29T23:18:00Z
+    webUrl: "https://www.nytimes.com/2020/01/29/technology/facebook-privacy-lawsuit-earnings.html"
+    ampWebUrl: "https://www.nytimes.com/2020/01/29/technology/facebook-privacy-lawsuit-earnings.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/29/technology/facebook-privacy-lawsuit-earnings.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: "https://static01.nyt.com/images/2020/01/29/business/29facebook/29facebook-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+  - title: "Facebook To Pay $550 Million To Settle Facial Recognition Lawsuit"
+    excerpt: "Topline: Facebook on Wednesday agreed to pay $550 million to settle a lawsuit accusing it of collecting data and images of users’ faces without permission—the largest ever cash settlement resolving a privacy-related lawsuit."
+    publishedDateTime: 2020-01-30T02:19:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/01/29/facebook-to-pay-550-million-to-settle-facial-recognition-lawsuit/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/01/29/facebook-to-pay-550-million-to-settle-facial-recognition-lawsuit/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/01/29/facebook-to-pay-550-million-to-settle-facial-recognition-lawsuit/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e323b18a854780006afebe7%2F0x0.jpg"
+        width: 1200
+        height: 784
   - title: "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027"
     excerpt: "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,"
     publishedDateTime: 2020-02-04T18:47:00Z
@@ -74,36 +162,36 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg"
         width: 796
         height: 420
-  - title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
-    excerpt: "FACIAL recognition technology is being used in an increasing number of airports around the world to speed up the time it takes for passengers to go through security. But it comes with growing concern over privacy as it's revealed photos of travellers could be stored for up to 75 years. Philadelphia International Airport (PHL) is the latest to ..."
-    publishedDateTime: 2020-02-04T11:36:00Z
-    webUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/"
-    ampWebUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+  - title: "Political Cartoon: Facial recognition doesn’t fly"
+    excerpt: "In our attempt to catch up with the advances police state technology, Philadelphia International Airport has begun experimenting with facial recognition technology. Soon Philadelphia, too, can help airlines, police, and any federal agency that wants to mess around with our lives to compile a data base to keep track of every previously free ..."
+    publishedDateTime: 2020-01-27T10:07:00Z
+    webUrl: "https://www.inquirer.com/opinion/cartoons/airline-facial-recognition-privacy-police-state-20200127.html"
+    ampWebUrl: "https://www.inquirer.com/opinion/cartoons/airline-facial-recognition-privacy-police-state-20200127.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/cartoons/airline-facial-recognition-privacy-police-state-20200127.html?outputType=amp"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 62
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
-        width: 960
-        height: 640
-  - title: "Facial recognition lawsuit: Underdog Illinois vs. heavyweight Facebook"
-    excerpt: "Facial recognition software is on the rise, so it’s no wonder why Facebook wanted to include this tech in their platform, starting in 2010. The use case here was to aid in photo tagging. By using facial recognition software, Facebook users were being prompted to tag various people it thinks are your friends. Now, Facebook does give the ..."
-    publishedDateTime: 2020-01-31T17:44:00Z
-    webUrl: "https://theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/"
-    ampWebUrl: "https://theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/amp/"
-    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/business-news/facial-recognition-lawsuit-underdog-illinois-vs-heavyweight-facebook/amp/"
-    type: article
-    provider:
-      name: The American Genius
-      domain: theamericangenius.com
+      name: Philadelphia Inquirer
+      domain: inquirer.com
     quality: 59
     images:
-      - url: "https://theamericangenius.com/wp-content/uploads/2020/01/illinois-31500_1280-1-1000x600.png"
-        width: 1000
-        height: 600
+      - url: "https://www.inquirer.com/resizer/8Y9p5OBYNaTZeZsKjcmSVjJLI5M=/1200x0/center/middle/www.inquirer.com/resizer/ZredMOWFeZ_6GGKBI3QfD4Rzyn4=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/3LDY36LFVJAZPBQV26RVIOJXVM.tif"
+        width: 1200
+        height: 820
+  - title: "Facial recognition: authoritarian intrusion or crime-fighting tool?"
+    excerpt: "How do you feel about facial recognition technologies? That question is sparking angst in Britain right now, after it emerged last week that London’s Metropolitan Police plan to deploy cameras with facial recognition and artificial intelligence capabilities. Local newspapers dubbed it “Big Brother Goes London Wide” – and civil liberties ..."
+    publishedDateTime: 2020-01-29T16:03:00Z
+    webUrl: "https://www.ft.com/content/7e6131be-4298-11ea-abea-0c7a29cd66fe"
+    ampWebUrl: "https://amp.ft.com/content/7e6131be-4298-11ea-abea-0c7a29cd66fe"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7e6131be-4298-11ea-abea-0c7a29cd66fe"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F0e6ec05e-41e6-11ea-bdb5-169ba7be433d?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
   - title: "Could Ontario police start using facial recognition cameras?"
     excerpt: "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ..."
     publishedDateTime: 2020-02-02T18:19:00Z
@@ -149,133 +237,34 @@ related:
       - url: "https://tribwgntv.files.wordpress.com/2020/02/capture-1.jpeg?quality=85&strip=all&w=1200"
         width: 1200
         height: 675
-  - title: "Facing facts: Reject a blanket ban on face recognition"
-    excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
-    publishedDateTime: 2020-02-04T09:00:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-facing-facts-20200204-7iqk4u5qp5aylgxvqspuxyrjmu-story.html?outputType=amp"
+  - title: "Metropolitan Police Service now using Live Facial Recognition technology"
+    excerpt: "LONDON – The Metropolitan Police Service announced Friday that it will start using Live Facial Recognition (LFR) technology. Met Police says the use of live facial recognition tech will be used in specific locations in London. They say this will help tackle serious crime, including serious violence, gun and knife crime, child sexual ..."
+    publishedDateTime: 2020-01-25T19:55:00Z
+    webUrl: "https://fox13now.com/2020/01/25/metropolitan-police-service-now-using-live-facial-recognition-technology/"
+    ampWebUrl: "https://fox13now.com/2020/01/25/metropolitan-police-service-now-using-live-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://fox13now-com.cdn.ampproject.org/c/s/fox13now.com/2020/01/25/metropolitan-police-service-now-using-live-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 59
-    images:
-      - url: "https://www.nydailynews.com/resizer/qf5_laX9PPmFbc5H3GTH_irqSkE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EVWB46YSZJFJVKQADKUPQO54JY.jpg"
-        width: 1200
-        height: 799
-  - title: "Springfield, Mass., Puts Off Facial Recognition Vote"
-    excerpt: "(TNS) — After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
-    publishedDateTime: 2020-02-04T21:47:00Z
-    webUrl: "https://www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html"
-    ampWebUrl: "https://www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Springfield-Mass-Puts-Off-Facial-Recognition-Vote.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-SPRINGFIELD-CITY-COUNCIL-DEBATES-POSTPONES-MLV.JPG"
-        width: 840
-        height: 630
-  - title: "Facial Recognition Experts to Testify to House Committee"
-    excerpt: "(TNS)—A Congressional committee will hold a hearing Thursday on the Department of Homeland Security's use of facial recognition following a government report that found the technology often has difficulty accurately reading faces, based on race, gender and age -- which critics say could easily result in bias. The House Homeland Security ..."
-    publishedDateTime: 2020-02-06T21:56:00Z
-    webUrl: "https://www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html"
-    ampWebUrl: "https://www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Facial-Recognition-Experts-to-Testify-to-House-Committee.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_387869113.jpg"
-        width: 946
-        height: 630
-  - title: "Facial recognition moves into a new front: schools"
-    excerpt: "LOCKPORT, N.Y. — Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent ..."
-    publishedDateTime: 2020-02-06T13:00:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 59
-    images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/FACIAL-RECOGNITION-EDUC-2-1-300x450.jpg"
-        width: 300
-        height: 450
-  - title: "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society"
-    excerpt: "Many countries today are struggling to find the proper balance between useful facial recognition and connected-camera technologies and those that threaten our privacy. We’re here to make it easy: Public-facing facial recognition or connected home-security camera systems that offer access to law enforcement are dangerous and should be banned ..."
-    publishedDateTime: 2020-01-31T22:41:00Z
-    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/31/why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
+      name: KSTU
+      domain: fox13now.com
     quality: 58
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg"
-        width: 796
-        height: 419
-  - title: "Hardin County animal shelter using facial recognition technology for lost pets"
-    excerpt: "Users will be able to search the shelter and surrounding areas to find missing pets, locate the family of a found pet or search for adoptable pets."
-    publishedDateTime: 2020-02-04T02:03:00Z
-    webUrl: "https://www.wlky.com/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    ampWebUrl: "https://www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/hardin-county-animal-shelter-using-facial-recognition-technology-for-lost-pets/30758670"
-    type: article
-    provider:
-      name: WLKY
-      domain: wlky.com
-    quality: 55
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+      - url: "https://localtvkstu.files.wordpress.com/2020/01/courtesy-met-police.jpg?quality=85&strip=all&w=1200"
         width: 1200
-        height: 675
-  - title: "Facial recognition scanners at US airports under more scrutiny"
-    excerpt: "Facial recognition systems are being rolled out across American airports. But passengers aren’t completely sure about the new technology. A growing number of airports across the US are using facial recognition scanners – and photos of non-US citizens ..."
-    publishedDateTime: 2020-02-03T23:58:00Z
-    webUrl: "https://www.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
-    ampWebUrl: "https://amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
-    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/travel/travel-advice/airports/facial-recognition-scanners-at-us-airports-under-more-scrutiny/news-story/c8262bd9c0f0f9605b09b736d127543c"
+        height: 800
+  - title: "Amazon’s New Facial Recognition Smells Your Fear"
+    excerpt: "Amazon Rekognition is the company’s controversial face detection and analysis technology. The name alone sounds like it comes from a Paul Verhoeven movie. Since its launch in 2016, critics have ..."
+    publishedDateTime: 2020-01-30T00:00:00Z
+    webUrl: "https://www.geek.com/tech/amazons-new-facial-recognition-smells-your-fear-1800027/"
     type: article
     provider:
-      name: News.com.au
-      domain: news.com.au
+      name: Geek.com
+      domain: geek.com
     quality: 54
-  - title: "The Government's Nightmare Vision for Face Recognition at Airports and Beyond"
-    excerpt: "The Department of Homeland Security has a scary vision for expanding face recognition surveillance into our everyday lives, threatening a dystopian future in which face surveillance is used throughout our public spaces to scrutinize our identity, check us against watchlists, record our movements, and more. Work on building the infrastructure ..."
-    publishedDateTime: 2020-02-06T22:51:00Z
-    webUrl: "https://www.aclu.org/news/privacy-technology/the-governments-nightmare-vision-for-face-recognition-at-airports-and-beyond/"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 51
     images:
-      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
-        width: 1200
-        height: 630
-  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition settlement"
-    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
-    publishedDateTime: 2020-02-03T23:02:00Z
-    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
-    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    type: article
-    provider:
-      name: Canoe.com
-      domain: canoe.com
-    quality: 50
-    images:
-      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
+      - url: "https://www.geek.com/wp-content/uploads/2019/03/Jeff-Bezos-Mars-Conference.jpg"
         width: 1000
-        height: 750
+        height: 562
   - title: "DFRobot launches AI camera with facial recognition for classroom STEM education"
     excerpt: "A new artificial intelligence-powered camera has been launched by DFRobot to bring facial biometrics, object recognition and tracking, and other applications to classrooms. DFRobot provides teaching tools for STEM education, and announced the launch of the camera at the recent Bett 2020 in London. The new HuskyLens is an AI vision sensor ..."
     publishedDateTime: 2020-02-04T19:15:00Z
@@ -289,19 +278,84 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
         width: 660
         height: 300
-  - title: "EU Prepares for Coming of Facial Recognition– On Its Privacy Terms"
-    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy. Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next ..."
-    publishedDateTime: 2020-02-03T12:59:00Z
-    webUrl: "https://www.insurancejournal.com/news/international/2020/02/03/557118.htm"
+  - title: "Police to Roll Out Live Facial Recognition Cameras in London"
+    excerpt: "Police to Roll Out Live Facial Recognition Cameras in London LONDON (Reuters) - British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government's own surveillance watchdog. First used in the capital at the Notting Hill ..."
+    publishedDateTime: 2020-01-26T10:57:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-01-24/police-to-roll-out-live-facial-recognition-cameras-in-london"
     type: article
     provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "London Police are setting up live facial recognition cameras and people are not happy about it"
+    excerpt: "London is already the most camera-crazy city outside of China, but now some of those cameras will be running facial recognition software as well. If you’re on one of the many “bespoke” watch lists held by the Metropolitan Police (the Met), cameras in tourist-heavy areas will be looking out for you. They’ve been trialing the system for ..."
+    publishedDateTime: 2020-01-24T18:11:00Z
+    webUrl: "https://knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/"
+    ampWebUrl: "https://knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/amp/"
+    cdnAmpWebUrl: "https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/amp/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 47
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2018/11/security-cameras.jpg"
+        width: 1528
+        height: 900
+  - title: "Police Use Of Facial-Recognition App Comes Under Fire [POLL]"
+    excerpt: "One attorney general has prohibited police departments from using the app. Should law enforcement be allowed to use it?"
+    publishedDateTime: 2020-02-01T14:42:00Z
+    webUrl: "https://patch.com/new-york/yorktown-somers/police-use-facial-recognition-app-comes-under-fire-poll"
+    ampWebUrl: "https://patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/yorktown-somers/amp/28555183/police-use-facial-recognition-app-comes-under-fire-poll"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: "https://patch.com/img/cdn20/shutterstock/57069/20200131/021240/styles/patch_image/public/shutterstock-795306157___31140558320.jpg?width=984"
+        width: 708
+        height: 531
+  - title: "Met Police deploy NEC biometric facial recognition tech across London"
+    excerpt: "The Metropolitan Police in the U.K. has rolled out in London real-time facial recognition technology developed by NEC, reports CBR. The implementation “will be intelligence-led and deployed to specific locations in London. This will help tackle serious crime, including serious violence, gun and knife crime, child sexual exploitation and help ..."
+    publishedDateTime: 2020-01-24T18:24:00Z
+    webUrl: "https://www.biometricupdate.com/202001/met-police-deploy-nec-biometric-facial-recognition-tech-across-london"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 39
     images:
-      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
-        width: 900
-        height: 598
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+  - title: "London Police Deploy Controversial Facial Recognition Cameras"
+    excerpt: "Facial recognition technology is more widespread than ever — many people have phones in their pockets that use advanced sensors and algorithms to make sure no one else can access their data. However, law enforcement is also increasingly using facial recognition data to scan crowds for known criminals. The city of London is the latest to add ..."
+    publishedDateTime: 2020-01-25T12:11:00Z
+    webUrl: "https://www.extremetech.com/extreme/305288-london-police-deploy-controversial-facial-recognition-cameras"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2018/10/598521-facial-recognition.jpg"
+        width: 810
+        height: 456
+  - title: "London Police push forward with controversial facial recognition tech"
+    excerpt: "The London Metropolitan Police Service has announced it will begin the operational use of Live Facial Recognition (LFR) technology, despite there still being many critics and concerns. The technology itself has come under criticism not only for poor ..."
+    publishedDateTime: 2020-01-27T16:26:00Z
+    webUrl: "https://telecoms.com/502056/london-police-push-forward-with-controversial-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 39
+    images:
+      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
+        width: 300
+        height: 250
   - title: "EU Ponders Temporary Facial Recognition Ban"
     excerpt: "A facial recognition ban of up to five years is currently being considered by the European Union (EU) amid growing concerns about the potential misuse of the new technology. According to a draft white paper, first obtained by news website EURACTIV on 17 January, the European Commission (the executive arm of the EU) is in the midst of ..."
     publishedDateTime: 2020-02-04T11:00:00Z
@@ -315,6 +369,19 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/eu-ponders-temporary-facial-recognition-ban_1500.jpg"
         width: 1500
         height: 860
+  - title: "Facial recognition in civic polls yield good result"
+    excerpt: "The Telangana State Election Commission has come out with the results of the “Facial Recognition” trials it conducted during the recently held civic body elections. According to the data released, the tests have yielded an accuracy of 80 per cent meaning that eight in every 10 people were correctly recognised by the application used on a ..."
+    publishedDateTime: 2020-02-04T13:23:00Z
+    webUrl: "https://www.tribuneindia.com/news/facial-recognition-in-civic-polls-yield-good-result-35824"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 39
+    images:
+      - url: "https://cms.tribuneindia.com/gallary_content/2020/2/2020_2$largeimg_1960177639.jpg"
+        width: 660
+        height: 440
   - title: "Choosing Not to Decide: City Postpones Facial Recognition Vote"
     excerpt: "Springfield City Council in Massachusetts decided to not vote on a proposed five-year ban prohibiting police from using facial recognition technology. A councilor said they’re “clearly not ready for a vote.” (TNS) — After months of discussion and ..."
     publishedDateTime: 2020-02-05T00:04:00Z
@@ -326,69 +393,69 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "Facial recognition provides big boost in finding lost pets"
-    excerpt: "Hardin County Animal Care and Control is taking advantage of a new tool to help locate and identify lost dogs and cats. The shelter recently announced its partnership with Finding Rover, a company that uses facial recognition imaging systems. According to ..."
-    publishedDateTime: 2020-02-06T09:55:00Z
-    webUrl: "https://www.thenewsenterprise.com/news/local/facial-recognition-provides-big-boost-in-finding-lost-pets/article_97fb94a1-4134-5020-b0d9-9931d297c14b.html"
+  - title: "Banks allowed to use facial recognition"
+    excerpt: "The Bank of Thailand has allowed six commercial banks to offer facial recognition for electronic Know Your Customer (e-KYC) technology to verify the identity of new customers under the regulatory sandbox when opening online deposit accounts. The six banks are Kasikornbank, Bangkok Bank, Siam Commercial Bank, Bank of Ayudhya, TMB Bank and CIMB ..."
+    publishedDateTime: 2020-02-06T10:46:00Z
+    webUrl: "https://www.bangkokpost.com/business/1851949/banks-allowed-to-use-facial-recognition"
     type: article
     provider:
-      name: The News-Enterprise
-      domain: thenewsenterprise.com
+      name: Bangkok Post
+      domain: bangkokpost.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thenewsenterprise.com/content/tncms/assets/v3/editorial/3/1a/31a4f67f-c4b3-5f0e-9d69-8a954c0d14b6/5e3ba2ce8fd0d.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-  - title: "Groups Call For Chicago PD To Stop Using Facial Recognition Technology"
-    excerpt: "A coalition of groups in Chicago is calling on the city's police department to end its use of facial recognition technology, citing racial bias and privacy concerns. The Chicago Sun-Times recently published reports detailing the city's use of the ..."
-    publishedDateTime: 2020-02-06T14:43:00Z
-    webUrl: "https://www.newsy.com/stories/groups-want-chicago-pd-to-stop-using-facial-recognition/"
+      - url: "https://static.bangkokpost.com/media/content/20200206/c1_1851949_200206161720_700.jpg"
+        width: 700
+        height: 467
+  - title: "DHS to be grilled on facial recognition"
+    excerpt: "Another) facial recognition hearing: House lawmakers will press the Department of Homeland Security on its use of facial surveillance as the technology remains under fire on the federal level and has been banned in several cities. — The moment telecom’s been waiting for: FCC Chairman Ajit Pai will unveil his C-Band auction plan for 5G today ..."
+    publishedDateTime: 2020-02-06T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/02/06/dhs-to-be-grilled-on-facial-recognition-785115"
     type: article
     provider:
-      name: Newsy
-      domain: newsy.com
+      name: Politico
+      domain: politico.com
     quality: 39
     images:
-      - url: "https://cdn.newsy.com/images/videos/m/1580993170_OND4F3.jpg"
-        width: 640
-        height: 360
-  - title: "WeWork wants facial recognition biometrics class action dismissed"
-    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
-    publishedDateTime: 2020-02-07T03:36:00Z
-    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+  - title: "Facial Recognition app could be a threat to privacy"
+    excerpt: "U.S. — A facial recognition software used by more than 600 law enforcement agencies across the country is proving to be controversial and a threat to privacy. The Clearview app can take a person’s photograph and potentially match it using a database of billions of pictures taken from the internet including social media sites. “Right now ..."
+    publishedDateTime: 2020-02-06T06:49:00Z
+    webUrl: "https://www.actionnewsjax.com/news/local/duval-county/facial-recognition-app-could-be-threat-privacy/JLJMHU55TZDTBI5VD27GWSDKOA/"
     type: article
     provider:
-      name: Cook County Record
-      domain: cookcountyrecord.com
+      name: Action News Jax
+      domain: actionnewsjax.com
     quality: 39
     images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
+      - url: "https://d1hfln2sfez66z.cloudfront.net/02-06-2020/t_6b8a407e593d4132b60e39783d84274f_name_328EAE6F609D4EC69F4DE76964CD220E.jpg"
         width: 1280
-        height: 640
-  - title: "Zwicker Wants to Regulate Facial Recognition Technology"
-    excerpt: "TRENTON, NJ – Just recently, the New Jersey Attorney General prohibited law enforcement in all 21 counties from using Clearview AI’s facial recognition software after a New York Times article revealed the start-up had built its database by scrubbing ..."
-    publishedDateTime: 2020-02-07T09:00:00Z
-    webUrl: "https://www.tapinto.net/towns/somerville/sections/police-and-fire/articles/zwicker-wants-to-regulate-facial-recognition-technology"
+        height: 720
+  - title: "Students nationwide fight to 'Ban Facial Recognition' technology on campus"
+    excerpt: "A new campaign calls for colleges to ban the use of facial recognition technology. Some schools have already begun using the technology, according to reports. Students for Sensible Drug Policy and Fight for the Future, a nonprofit advocacy group in the area of digital rights, are working together to launch a campaign against colleges using ..."
+    publishedDateTime: 2020-01-25T22:33:00Z
+    webUrl: "https://www.campusreform.org/?ID=14269"
     type: article
     provider:
-      name: TAPinto
-      domain: tapinto.net
-    quality: 39
+      name: Campus Reform
+      domain: campusreform.org
+    quality: 37
     images:
-      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/hi/facebook_6c84268a82f274cd1c00_hillspixzwickertestimony.jpg"
-        width: 480
-        height: 401
-  - title: "Facial recognition technology helps Volusia County make arrests in 4 cases"
-    excerpt: "VOLUSIA COUNTY, Fla. — Thanks to facial recognition technology, the Volusia County Sheriff’s Office was able to make four arrests out of 30 cases last year. The Sheriff’s Office is using a database of more than 2 billion photos including those on social media and other public sites. The department purchased a license to give the new ..."
-    publishedDateTime: 2020-02-04T02:19:00Z
-    webUrl: "https://www.wftv.com/news/local/volusia-county/facial-recognition-technology-helps-volusia-county-make-arrests/Q6YYQDNJQNC6RJQDW5BZU7CQW4/"
+      - url: "https://s3.amazonaws.com/campusreform/14269/bigstock-Simulation-Of-A-Screen-Of-Cctv-285169480.jpg"
+        width: 903
+        height: 600
+  - title: "ACLU criticizes facial recognition company using photos without permission"
+    excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
+    publishedDateTime: 2020-02-06T05:25:00Z
+    webUrl: "https://www.wftv.com/news/local/volusia-county/american-civil-liberties-union-criticizes-facial-recognition-company-using-photos-without-permission/ONZWHDR5XVDQVJAZ7L6UQBG2A4/"
     type: article
     provider:
       name: WFTV
       domain: wftv.com
     quality: 37
     images:
-      - url: "https://www.wftv.com/resizer/-nAp2UpM5mI0OsyKgu3KnyTIIk4=/1200x628/d1hfln2sfez66z.cloudfront.net/02-04-2020/t_623fb723a99a4dc1bcd5790a0f4c3715_name_VOL_AI_FACIAL_RECOG_TECH.jpg"
+      - url: "https://www.wftv.com/resizer/FEuhDKbanUBenwSvls9DOPgdPUk=/1200x628/d1hfln2sfez66z.cloudfront.net/02-06-2020/t_3e9a381ac94d421ebfec67f453fca035_name_VOL_AI_FACIAL_RECOG_TECH___10pm_frame_2373.jpg"
         width: 1200
         height: 628
   - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
@@ -404,133 +471,47 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
-  - title: "House Hearing on Facial Recognition Technology Uses at Homeland Security Dept."
-    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
-    publishedDateTime: 2020-02-06T17:06:00Z
-    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
+  - title: "‘Orwellian state surveillance’: Met police presents facial recognition cameras on London streets & faces backlash online"
+    excerpt: "The London Metropolitan police have announced that they will be deploying facial recognition cameras for the first time on the streets of the capital within the next month, prompting fears the move will erode civil liberties. Met police say that the ..."
+    publishedDateTime: 2020-01-24T23:06:00Z
+    webUrl: "https://www.rt.com/uk/479119-police-facial-recognition-cameras/"
+    ampWebUrl: "https://www.rt.com/uk/479119-police-facial-recognition-cameras/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/479119-police-facial-recognition-cameras/amp/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: RT
+      domain: rt.com
+    quality: 34
     images:
-      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
-        width: 1200
-        height: 630
-  - title: "Hardin County Animal Care and Control adopts facial recognition tech for lost pets"
-    excerpt: "HARDIN COUNTY, Ky. (WAVE) - A local animal shelter is using new facial recognition technology in order to help locate and identify lost dogs and cats. Hardin County Animal Care and Control has announced a partnership with Finding Rover, a company that specializes in facial recognition imaging systems. The partnership allows the shelter to ..."
-    publishedDateTime: 2020-02-04T11:05:00Z
-    webUrl: "https://www.wymt.com/content/news/Hardin-County-Animal-Care-and-Control-adopts-facial-recognition-tech-for-lost-pets-567547981.html"
+      - url: "https://cdni.rt.com/files/2020.01/xxl/5e2b1ec285f5406a5c364e7c.jpg"
+        width: 1240
+        height: 697
+  - title: "Government watchdog attacks Met Police over roll out of facial recognition cameras"
+    excerpt: "The Metropolitan Police has been criticised after announcing it will start using facial recognition cameras to target serious offenders in London. In a move to combat violent crime, the force plans to use controversial new technology to carry out live checks in popular locations. The cameras will target suspects involved in serious violence ..."
+    publishedDateTime: 2020-01-25T22:28:00Z
+    webUrl: "https://politicshome.com/news/uk/home-affairs/policing/news/109365/government-watchdog-attacks-met-police-over-roll-out"
     type: article
     provider:
-      name: WYMT
-      domain: wymt.com
+      name: PoliticsHome
+      domain: politicshome.com
     quality: 33
     images:
-      - url: "https://media.graytvinc.com/images/pets+mgn1.jpg"
-        width: 690
-        height: 388
-  - title: "Milestone adds Innovatrics SmartFace facial recognition to video management software"
-    excerpt: "VMS provider, Milestone, has integrated SmartFace biometric facial recognition system from Innovatrics with its XProtect video management software to analyze multiple, simultaneous real-time video streams, improve functionality, tool performance and support compatibility standards, the company announced. SmartFace leverages Innovatrics ..."
-    publishedDateTime: 2020-02-03T16:56:00Z
-    webUrl: "https://www.biometricupdate.com/202002/milestone-adds-innovatrics-smartface-facial-recognition-to-video-management-software"
+      - url: "https://res.cloudinary.com/dods/image/upload/c_fill,g_center,h_500,w_1120/v1/polhome/UK%20public%20affairs/pa-49806341_inv3p9.jpg"
+        width: 1120
+        height: 500
+  - title: "Doha Bank integrates facial, voice recognition into app"
+    excerpt: "The new technique introduced by Doha Bank allows customers to log in to the app using voice recognition, in a “first of its kind step” adopted by a bank in Qatar. In addition to voice recognition, the new feature allows bank’s customers to use face identification to help them navigate the Doha Bank’s app safely. The newly-integrated ..."
+    publishedDateTime: 2020-02-02T19:02:00Z
+    webUrl: "https://www.gulf-times.com/story/654852/Doha-Bank-integrates-facial-voice-recognition-into"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 26
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/03115129/innovatrics-smartface-biometric-facial-recognition.jpg"
-        width: 1280
-        height: 720
-  - title: "European Parliament says no intention to deploy biometric facial recognition for MEP security"
-    excerpt: "The European parliament insists it will not roll out biometric facial recognition technology for access control in monitoring within parliament, after information leaked hinting the institution was looking into using it for security purposes, writes The Guardian. The Guardian further states that it reviewed an intranet page titled “artificial ..."
-    publishedDateTime: 2020-02-06T20:54:00Z
-    webUrl: "https://www.biometricupdate.com/202002/european-parliament-says-no-intention-to-deploy-biometric-facial-recognition-for-mep-security"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-  - title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
-    excerpt: "Online dating giant Match Group is launching selfie biometrics to help protect people using its apps, partypoker is considering the technology to curtail bots, multi-accounting, and ghosting, local elections in Kompally, India have authenticated voter identity with facial recognition through a smartphone, Alipay technology is being used for car ..."
-    publishedDateTime: 2020-02-03T20:25:00Z
-    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-to-verify-dates-gamblers-voters-car-rentals-and-online-exam-takers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 25
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-  - title: "How smart kiosks are using facial recognition to bring a dose of humanity and hospitality to restaurant tech"
-    excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience."
-    publishedDateTime: 2020-02-06T17:27:00Z
-    webUrl: "https://www.nrn.com/fast-casual/how-smart-kiosks-are-using-facial-recognition-bring-dose-humanity-and-hospitality"
-    type: article
-    provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 20
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
-        width: 770
-        height: 400
-  - title: "NEC to provide facial recognition technology for Mitsui Fudosan hotels"
-    excerpt: "NEC Corp will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\", a newly developed hotel brand by Mitsui Fudosan and Mitsui Fudosan Hotel Management. NEC said its \"Smart Hospitality Service\" helps to ensure safe, secure, and efficient stays by utilizing facial recognition technology for a wide range of ..."
-    publishedDateTime: 2020-02-03T21:46:00Z
-    webUrl: "https://japantoday.com/category/tech/nec-to-provide-facial-recognition-technology-for-mitsui-fudosan-hotels"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
-  - title: "Chicago-Area Groups Demand End to Facial Recognition Amid Concerns"
-    excerpt: "There are new calls to end the use of facial recognition technology in Chicago, as dozens of groups joined the American Civil Liberties Union to say the practice violates privacy and is biased against minorities. A coalition of 75 groups known as Press Pause Chicago arrived at City Hall Tuesday morning with a petition for Mayor Lori Lightfoot."
-    publishedDateTime: 2020-02-04T23:36:00Z
-    webUrl: "https://www.nbcchicago.com/news/local/chicago-area-groups-demand-end-to-facial-recognition-amid-concerns/2213205/"
-    type: article
-    provider:
-      name: NBC Chicago
-      domain: nbcchicago.com
-    quality: 19
-  - title: "Minnesota Legislature begins considering facial-recognition technology regulations"
-    excerpt: "A joint legislative committee has taken the first small steps toward considering what a handful of cities and states around the country have already done — regulating or banning the use of facial recognition software by business and government. It was such a small step considered by a subcommittee of the relatively obscure Legislative ..."
-    publishedDateTime: 2020-02-03T14:21:00Z
-    webUrl: "https://www.minnpost.com/state-government/2020/02/minnesota-legislature-begins-considering-facial-recognition-technology-regulations/"
-    type: article
-    provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 18
-    images:
-      - url: "https://www.minnpost.com/wp-content/uploads/2020/01/LightRailSecurityCameras640.jpg"
-        width: 640
-        height: 461
-  - title: "Army researchers investigate long-range facial recognition by combining infrared sensors and face databases"
-    excerpt: "Stars and Stripes reports. Continue reading original article The Military & Aerospace Electronics take: 4 Feb. 2020 --The advanced facial recognition technology could aid soldiers in the field, but comes with some growing cyber security challenges ..."
-    publishedDateTime: 2020-02-04T11:47:00Z
-    webUrl: "https://www.militaryaerospace.com/sensors/article/14104030/facial-recognition-infrared-sensors"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 1
-  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
-    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
-    publishedDateTime: 2020-02-04T19:16:00Z
-    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/220201195218221391252.jpg"
+        width: 620
+        height: 355
 
 secured: "U8W9AmKPgzTbqj2XXUiPxvll2yX1G/x1hiAyEJw588xI2AiTe9uHj2qI7ix2UMoZymSGZZaxAESHpS/1IXSF+I98dVEU5hKWmaBzNx9kol0hK7KyT5uHdIn45IiDjTgmGtJBTxftEUz7q2xN4vPHtxTRH+6KxywRAdMNrHx4khqzRKzBSL9Q6w2xUipa9pyegrDfarwDOFcJPxcv+RElGY4MTxFpuUKvsld7MiBjo19U2ACf0u/0rcRXP8ccdVfJAcyCr5JlaEEufICluYl4qswdCYU/pTCF1EYRTzQucUOLWLB50g63V+6+KrM6imWv;rfz65Ws1qHnEu8m1jaLP/w=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Object Recognition Is The Answer, Here’s Why"
 
 related:
+  - title: "Face recognition is not the enemy"
+    excerpt: "Face recognition fearmongering is in full swing, with at least a small contingent of Americans breathlessly warning that its use by law enforcement is going to portend the end of privacy as we know it. Slow down. This technology is a great advance over the way we used to identify suspects, eyewitness memory. It promises to identify the guilty ..."
+    publishedDateTime: 2020-01-26T10:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-face-recognition-is-not-the-enemy-20200126-pjz4z367bvgfhaws465je5o52m-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-face-recognition-is-not-the-enemy-20200126-pjz4z367bvgfhaws465je5o52m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-face-recognition-is-not-the-enemy-20200126-pjz4z367bvgfhaws465je5o52m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/zSmItPl11VfSZK_HlthWE4t6ueI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/TRO2XAVMCJDFDHJMTP7WVOQS3E.jpg"
+        width: 1200
+        height: 799
   - title: "Top 7 Usecases for Touchscreen Object Recognition"
     excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of ..."
     publishedDateTime: 2020-01-27T13:27:00Z

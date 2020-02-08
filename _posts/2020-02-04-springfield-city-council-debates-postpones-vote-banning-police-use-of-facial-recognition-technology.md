@@ -26,77 +26,49 @@ images:
     title: "Springfield City Council debates, postpones vote banning police use of facial recognition technology"
 
 related:
-  - title: "Moscow Court Case Challenges City's Facial Recognition Use After Launch"
-    excerpt: "A court on Friday will hear a legal challenge to Moscow's rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month."
-    publishedDateTime: 2020-02-03T15:07:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/02/03/technology/31reuters-russia-technology-facialrecognition.html"
+  - title: "Rift emerges between regulators and businesses over Portland’s proposed facial recognition ban"
+    excerpt: "Portland still seems on pace to impose a dual ban prohibiting facial recognition use by both government agencies and private entities such as retailers and other businesses. But a City Hall session today illuminated what could become a more pronounced point of contention: some local businesses and tech firms could oppose a private-use ban."
+    publishedDateTime: 2020-01-29T01:01:00Z
+    webUrl: "https://www.geekwire.com/2020/rift-emerges-regulators-businesses-portlands-proposed-facial-recognition-ban/"
+    ampWebUrl: "https://www.geekwire.com/2020/rift-emerges-regulators-businesses-portlands-proposed-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/rift-emerges-regulators-businesses-portlands-proposed-facial-recognition-ban/amp/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
+      name: GeekWire
+      domain: geekwire.com
+    quality: 77
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-  - title: "Springfield City Council finalizes facial recognition ordinance"
-    excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council further discussed a possible ban on facial recognition technology Wednesday. The city council’s public safety subcommittee met to finalize an ordinance to introduce at the next city council meeting."
-    publishedDateTime: 2020-01-30T01:31:00Z
-    webUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/"
-    ampWebUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/amp/"
-    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/amp/"
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/06/bigstock-Portland-Oregon-USA-skyline-247939699-630x420.jpg"
+        width: 630
+        height: 420
+  - title: "Facial recognition technology poses ‘enormous’ potential for abuse, NDP says"
+    excerpt: "OTTAWA–Canadian police agencies' use of cutting-edge facial recognition technology presents \"enormous\" potential for abuse, the opposition New Democrats say. The NDP is calling on federal privacy commissioner Daniel Therrien to launch a probe into how the RCMP and other Canadian law enforcement agencies use the controversial tool, which can ..."
+    publishedDateTime: 2020-01-28T19:22:00Z
+    webUrl: "https://www.thespec.com/news-story/9833836-facial-recognition-technology-poses-enormous-potential-for-abuse-ndp-says/"
     type: article
     provider:
-      name: WWLP
-      domain: wwlp.com
-    quality: 59
+      name: The Hamilton Spectator
+      domain: thespec.com
+    quality: 36
     images:
-      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2020/01/facial-recognition-ordinance.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
-  - title: "Groups Call on Chicago to Ban Facial Recognition Technology"
-    excerpt: "(TNS) — Chicago Mayor Lori Lightfoot should ban the city’s use of facial recognition technology of the kind the Chicago Police Department utilizes on the grounds it’s racially biased and an invasion of residents’ privacy, a group of activists said Tuesday. The groups want to halt the department’s new contract to use technology ..."
-    publishedDateTime: 2020-02-06T22:37:00Z
-    webUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
+      - url: "https://dynamicmedia.zuza.com/zz/m/original_/a/e/aec26bdc-72bd-413c-9494-fc91ef7c420b/B881027028Z.1_20200128125040_000_GH1S8UDK.5-0_Super_Portrait.jpg"
+        width: 587
+        height: 417
+  - title: "Facial Recognition Market 2020-2022: Key Findings, Global Segments, Business Trends, Regional Study, Top Key Players Profiles and Future Prospects"
+    excerpt: "“Facial Recognition Market” global facial recognition market had been valued at USD 3.04 billion in the year 2016, which is expected to reach USD 8.93 billion"
+    publishedDateTime: 2020-01-27T09:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186760/facial-recognition-market-2020-2022-key-findings-global-segments-business-trends-regional-study-t"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15186760"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186760"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
-        width: 1119
-        height: 630
-  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
-    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
-    publishedDateTime: 2020-02-03T23:00:00Z
-    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
-    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
-    type: article
-    provider:
-      name: Canoe.com
-      domain: canoe.com
-    quality: 46
-    images:
-      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
-        width: 1000
-        height: 750
-  - title: "Veridium Launches Facial Recognition Technology vFace Alongside Behavioural Biometric Capabilities"
-    excerpt: "/PRNewswire/ -- Authentication platform Veridium launches its facial recognition technology, vFace. This software makes facial recognition more"
-    publishedDateTime: 2020-02-04T14:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/veridium-launches-facial-recognition-technology-vface-alongside-behavioural-biometric-capabilities-300998683.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.abnewswire.com/uploads/1580120204.jpeg"
+        width: 417
+        height: 455
 
 secured: "pAW0cHjEhH634nY6KEOvD2NCy2Z4sW43Hbvls2Y3NAnJSRHtouvqYaQLG8lJkbpN0TqPDSw0a0KaNvtXn8uvkWfj+xDlQI+mt6ItNQanQaXgJflbNM31uGLSInB/zotNBqBQofAHtbsjQYIXGejL4lZN9ivT8bm7DCQ+UR5X/n5+FttZ1O09/i+wEd3Znpj63vS3OgXpKqTF/i+hR/9s8RDZSqZUjDeWKB1e6CJfbLO7Gr41vPAdMDyS2yIrBDeZcamy18AS5B0b0c2USsMhkAcZXUXEorOJGBATXqNULMPiMnfiXrnllDDjjXBfa31DI8Dkj9Teng62yKToTAn8BRdjUaGZiBRO9r/uLdmbBNC/jcqME0DIdOGrDGzYch3hLazDt1QpJ1jbA1i0oz+ffS7ZaBAXX8liG0qxPDW2vnOhpI8JN0+Uo/r2pCXrBwKWM1XEtV5n2lWLp3+xFaPbeZBaWATkfJgbwPu4igP6xbw=;HbYwZ0B7v5tux43P2wvLOw=="
 ---

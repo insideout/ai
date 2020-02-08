@@ -41,21 +41,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F05%252F10%252F4aaadf8a926d46b39e4d6356ddcdf6e0.18786.jpg%252F1200x630.jpg?signature=agz3Wv8-4-Yn4EO3NpvjhHOw8ng="
         width: 1200
         height: 630
-  - title: "Frustration grows in China as face masks compromise facial recognition"
-    excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
-    publishedDateTime: 2020-02-05T18:51:00Z
-    webUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/"
-    ampWebUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 89
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/02/AP_20033108187249-e1580856451154.jpg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 789
   - title: "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos"
     excerpt: "Clearview AI has licensed its face surveillance systems to over 600 law enforcement agencies ranging from the FBI and the Department of Homeland Security to local police departments. It operates with virtually next to no oversight, claims it’s exempt from biometric data laws, and marketed its tools to law enforcement as a sort of face ..."
     publishedDateTime: 2020-02-05T04:35:00Z
@@ -101,21 +86,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
-  - title: "Congressional committee to hear testimony on facial recognition"
-    excerpt: "A Congressional committee will hold a hearing Thursday on the Department of Homeland Security’s use of facial recognition following a government report that found the technology often has difficulty accurately reading faces, based on race, gender and age ..."
-    publishedDateTime: 2020-02-06T04:01:00Z
-    webUrl: "https://www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/"
-    ampWebUrl: "https://www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/02/05/congressional-committee-to-hear-testimony-on-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 59
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/01/mlkms11.jpg?w=1024&h=676"
-        width: 1024
-        height: 675
   - title: "How to Tell if Your College is Using Facial Recognition to Monitor People on Campus"
     excerpt: "The list shows you what universities have publicly said they won’t use facial recognition as well as those that have said they already do or are considering it. Beside each entry is a button you can click on to tweet at that college to express your opinion on the matter. Beyond just a place to tweet your university, the site also offers the ..."
     publishedDateTime: 2020-02-02T02:35:00Z
@@ -144,43 +114,6 @@ related:
       - url: "https://www.democracynow.org/images/story/25/51025/full_hd/SEG2-AI.jpg"
         width: 1920
         height: 1080
-  - title: "Facial recognition coming to Europe, but terms and conditions applied"
-    excerpt: "Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next month."
-    publishedDateTime: 2020-02-02T11:57:00Z
-    webUrl: "https://www.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facial-recognition-coming-to-europe-but-terms-and-conditions-applied/story-pWEJ8KEWfQtJBb9FQamuHK_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
-  - title: "Facial Recognition app could be a threat to privacy"
-    excerpt: "U.S. — A facial recognition software used by more than 600 law enforcement agencies across the country is proving to be controversial and a threat to privacy. The Clearview app can take a person’s photograph and potentially match it using a database of billions of pictures taken from the internet including social media sites. “Right now ..."
-    publishedDateTime: 2020-02-06T06:49:00Z
-    webUrl: "https://www.actionnewsjax.com/news/local/duval-county/facial-recognition-app-could-be-threat-privacy/JLJMHU55TZDTBI5VD27GWSDKOA/"
-    type: article
-    provider:
-      name: Action News Jax
-      domain: actionnewsjax.com
-    quality: 39
-    images:
-      - url: "https://d1hfln2sfez66z.cloudfront.net/02-06-2020/t_6b8a407e593d4132b60e39783d84274f_name_328EAE6F609D4EC69F4DE76964CD220E.jpg"
-        width: 1280
-        height: 720
-  - title: "ACLU criticizes facial recognition company using photos without permission"
-    excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
-    publishedDateTime: 2020-02-06T05:25:00Z
-    webUrl: "https://www.wftv.com/news/local/volusia-county/american-civil-liberties-union-criticizes-facial-recognition-company-using-photos-without-permission/ONZWHDR5XVDQVJAZ7L6UQBG2A4/"
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 37
-    images:
-      - url: "https://www.wftv.com/resizer/FEuhDKbanUBenwSvls9DOPgdPUk=/1200x628/d1hfln2sfez66z.cloudfront.net/02-06-2020/t_3e9a381ac94d421ebfec67f453fca035_name_VOL_AI_FACIAL_RECOG_TECH___10pm_frame_2373.jpg"
-        width: 1200
-        height: 628
   - title: "N.J. lawmakers look at limiting cops’ use of controversial facial-recognition technology"
     excerpt: "New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill (A1210) in front of the the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
     publishedDateTime: 2020-02-04T00:13:00Z

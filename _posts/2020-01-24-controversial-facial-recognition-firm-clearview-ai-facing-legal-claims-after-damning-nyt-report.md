@@ -60,6 +60,21 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/27/16/campaign_images/5ec0c13d1ba4/20-cashmere-things-so-soft-you-might-want-to-splu-2-326-1580142937-2_dblbig.jpg"
         width: 625
         height: 415
+  - title: "New Jersey halts police use of creepy Clearview AI facial-recognition app"
+    excerpt: "New Jersey is ahead of the curve — at least when it comes to stopping its law enforcement from using the creepy and potentially biased facial-recognition app Clearview AI. The app, which scraped billions of photos from the likes of Facebook, YouTube, Venmo, and other online platforms, drew the world's attention last weekend following a ..."
+    publishedDateTime: 2020-01-24T23:59:00Z
+    webUrl: "https://mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey/"
+    ampWebUrl: "https://mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 88
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F01%252F24%252F53%252Fc9b7bd94080a4f81b5f99ec464adff04.08837.jpg%252F1200x630.jpg?signature=yAzYMITbCIxJTHhBnTyFoFDHPXg="
+        width: 1200
+        height: 630
   - title: "Artists and activists offer privacy hope as facial recognition spreads"
     excerpt: "Now that our online data has been comprehensively mined, our behavioural surplus extracted, Big Tech is coming for our faces. The explosion in facial recognition has outpaced efforts to legislate around it and, in societies such as the UK where it is not compulsory to carry identification, we are being identified whether we like it or not."
     publishedDateTime: 2020-01-29T05:14:00Z
@@ -75,6 +90,15 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F55c44a8e-3631-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+  - title: "ZenGo Defends Integrity of Facial Recognition"
+    excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
+    publishedDateTime: 2020-01-29T18:54:00Z
+    webUrl: "https://mobileidworld.com/biometrics-news-zengo-defends-integrity-facial-recognition-012905/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 19
 
 secured: "XVbk3xDLhFG1qh3aJEVNK1hD4bm0C2cGHQHGVjYCRAxKLBJmgctZzgKUsgUv+K/52qudcrabqUnf8jygp9Wp570r4rp1viEEci3ZGpIiaDb8jo0AmZHTAS5hV+XRofH8AoCBN0ZZLLuO5P5BtEKoupw+myhwY2+Re/lGS2hSROKnBOVax3+XnVIxT3UtGJH6VdQAZ70mqbJflx/nBH96RjVXJzb5AXzX1ojDsJKuhmag2g8rTuoLly319AZc1PXvySMDfi7twUgRb+KBJAYEK5eJHvohsSmKPHeEEQYhadu4ljtMi5qYQ4mOxYbTP84KgQiMKs7lEQoDUbq1hCp5shlYHs8cRI+7hVap2Aazo5yHXZGKhSB970k8SZaGqJF22YmSCBgWo/JTJ3BU2HwIeAGZU34AHsfBhWNhugCgmjur+5l0VjKfOFgiaQYoAJXcxorhgGffgLk/ku7YfF2LPlv4I1T0cSidqomlSazsZkE=;KdxEHxy0XoSVLJhXHkloOQ=="
 ---

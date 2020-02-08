@@ -50,15 +50,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 34
-  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
-    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel,"
-    publishedDateTime: 2020-01-24T14:50:00Z
-    webUrl: "https://fox2now.com/2020/01/24/gm-and-honda-unveil-self-driving-car-with-no-steering-wheel-or-pedals/"
-    type: article
-    provider:
-      name: Fox2Now St. Louis
-      domain: fox2now.com
-    quality: 4
 
 secured: "iL2ZpfB35Lee8BBHYInqhuIUL36e+3kCBRLsZFzGNEQD5Bb7w8/0Dw6p2ZUxYj9DKlhZYkWHNaDPfhlj9ybhvsPJIkH2OxsKitzXRAohUBWi8UagYM7mt7bkdn5lHJZJ1BIp/3ZRJm618Cm0UTBFlo6rltp51Ml0n7GniVS45xzWIzCyWrdaDDXRjdoRnuQ0vvHXB8xg9U4n2vsSCfSm7BX7unwVJIwQ/PFv9SNEoRf5/4/dGzlvayBWEhHiwqhdk83HhFH2f3pfRx3xFBnzxSZMPBTINW2vKGbGs0tD3rwoGS0J2YYSGAO/Fr5As4KTAklKgWpTafT5OIj9FwGolcP5G1Ob+G101bukEKbrQs8cNPeYiEu5G2+5Cb868PEmuny3VPhVN6CTb04r8JzqQSjknIknbFkTF0TgIWNxjO/KJig1wdcC2LZfaCRika9kPO+pSGNZeTkplo4VdAQ1PNjCpf2s7gduPe1xA5duM3I=;SjHlPyElZe4Fo+PXvHn5wA=="
 ---

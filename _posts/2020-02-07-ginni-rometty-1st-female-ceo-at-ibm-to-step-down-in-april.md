@@ -25,6 +25,6 @@ images:
     height: 720
     title: "Ginni Rometty, 1st female CEO at IBM, to step down in April"
 
-secured: "BuV/qtC28MKkL2FNTHjaE1Knu+3awJiG0A58iFNbVBdmY78lTsQ993eSg6wdp/z/+6DpVdtghtXK9Q1NYIjb7RaLwtk8yaXeGy//gMDClUH8ZIgS83y56xaTciKo5K6NdYvgGcLif1YlKzsLDCNEXtjyyhJt0vDXiY4JcuzagD+BscWiAQHGJj5LjGyYTFxdyaO8/HFu725dldseFSJlbFADhoSHDGSYPQQFb2B+lhb/JPUK+bo8ARQYzTRdJmdCa4JatMmqTqiBSFPRK20zI2UT7RIF5RmPGsPoLRnzyUsw0dt36e3N3S3UWJEhvrdG;2DfhdVaHVwtZCbfX6F82lw=="
+secured: "0V6cLU7jgybmwz994ayhyFQOPmSqBjgCqILibjIxcOOHeTKE5L+0p7dgspgLjsJab29GKdG4sfsIgGWxD0IcLH3iun28zFqpo/9eKfC2LnkrZpLVp+d8Zud98E/adZ7cQ0gKAPYvlQleOBy/bc3vK2H3Z3ztUfMtzJ/Gz+x4+1vV7MVtNBf5ZIdMHwoPx5giNFbotJ5+DixqImBdA+DaAl11caguNjVjdkqHTmzW1g+IduHEmEfO/+FR4RdI70ZHEZeAEGaloTBQG7fgSu7NBuOq0uc4yhK30ukKhPu4OcZoR7s/o3NA+osRIqK8QfnFcwoqY54mIhj0M/30dH/mmVPBSjjxHc4JN1OGoMNke53YcHWhuwL53lvrFxOiuJw6cg4gJ+NGtuNEzxJWGhz7zXh5E7WBcLnE6isele1afSzmJHJqnD6xmfHVSPN1woP+feiyw4d0lZwhs9Jxz7hEQyzP+aO8UeG/Ft995+nT8Ys=;LzlURfY8bCkE782KhjJyeg=="
 ---
 

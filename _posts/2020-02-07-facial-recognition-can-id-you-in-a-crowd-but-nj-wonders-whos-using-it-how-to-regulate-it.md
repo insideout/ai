@@ -41,19 +41,6 @@ related:
       - url: "https://images.wsj.net/im-151698/social"
         width: 1280
         height: 640
-  - title: "Assembly committee ponders use of facial recognition technology"
-    excerpt: "There’s a facial recognition app local law enforcement has used to identify potential suspects in a criminal investigation, but no more. The state attorney general has banned the use of Clearview AI. It all stems from concerns over the software ..."
-    publishedDateTime: 2020-02-03T22:57:00Z
-    webUrl: "https://www.njtvonline.org/news/video/assembly-committee-ponders-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: NJTV
-      domain: njtvonline.org
-    quality: 39
-    images:
-      - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
-        width: 1920
-        height: 1080
   - title: "Telangana municipal elections: Face recognition app yielded 80% accuracy in polls, say officials"
     excerpt: "Otherwise the result would have been above 90 per cent. Even then the result was encouraging, the official said. The Telangana State Election Commission used facial recognition app in a bid to counter impersonation of voters. The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an ..."
     publishedDateTime: 2020-02-04T11:29:00Z
