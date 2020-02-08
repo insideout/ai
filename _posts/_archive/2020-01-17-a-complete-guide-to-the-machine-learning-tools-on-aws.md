@@ -27,6 +27,6 @@ images:
     height: 512
     title: "A Complete Guide to the Machine Learning Tools on AWS"
 
-secured: "bJVLoO8mOioGfzipK06qRJ8kLh42JcWeyyE4rvCRHH4JBS8575t63S6m0PnakdLriyrMmoPjoy5wVotpC2udy19+tnJy99Q4MO0O/udX/hanPl8deak1PIhNR7xm8EhI0gcrPepv6ynGNwgi91xmjdc2tUg9UuwnvBq/F0M3qkU6qDx7GQJPJU5h9XL0iXW2EW533QE7KvQIM3K6O14jKoA9sD5Xm+HZsP6Wj4V56OrkRQh2UnFt8cha/uKom13v33a62Wqgq41GKrOe8FijT34eiOtEVABDi9errCbyTJOav6WLyd7M1pMcGwU+FeAU;QTQfWmU1UKPs2DpR4Ugg0A=="
+secured: "uI1mWsjPOZUaguj+nhg2ELRNORrDNMIlsiMSPhv01VL/eV7zEAuIX8sCwvdfLfhH93pZiVL/x2XxCz3fZ+FOb6haBGaggEjsse1zABFgrxGFHWm7z7sVgRtpt+Y43rT2NaRxEHAuQydGeUmVcJiXxbzmQDYrD1Ek2cm5RLxL43AyXtmYTWyeYCcWxbNOHEF4uPFD/R7wJ8LY2WV92UBjBb+ZzEDPuEPdl4glAjt7wu7T+ebEDEI+QLLfWMjptbxOz4cq63rmKlXOGcNm1/YkZe7CuajlCMFEtkxNVKhlplGAgL1f/8i5GKV+4IPvD+Dn;+/zEEVhhqMi7uU3MvkkAcQ=="
 ---
 

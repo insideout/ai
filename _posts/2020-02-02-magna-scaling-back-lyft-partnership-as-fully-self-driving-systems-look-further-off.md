@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-02T09:34:00Z
 webUrl: "https://www.newsoptimist.ca/magna-scaling-back-lyft-partnership-as-fully-self-driving-systems-look-further-off-1.24054007"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -22,34 +22,6 @@ images:
     width: 560
     height: 292
     title: "Magna scaling back Lyft partnership as fully self-driving systems look further off"
-
-related:
-  - title: "Magna: The Ultimate Winner Of Self-Driving Is Boringly Profitable"
-    excerpt: "Companies at the forefront of the self-driving revolution have collectively deployed $100 billion into this futuristic technology over the past few years. Canadian auto parts giant Magna International stands to gain from this wave of investments. The company has strategic alliances with manufacturers and innovators which allow it to deploy new ..."
-    publishedDateTime: 2020-02-06T17:35:00Z
-    webUrl: "https://seekingalpha.com/article/4322027-magna-ultimate-winner-of-self-driving-is-boringly-profitable"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2020/2/4/saupload_Dollar-Car-cropped_thumb1.png"
-        width: 640
-        height: 390
-  - title: "U of T-Waterloo research data to put self-driving cars to ultimate test: Canadian winter"
-    excerpt: "A new dataset will enable engineers to test and refine new algorithms for self-driving cars that can overcome the perception challenges posed by snowy weather (Image courtesy Steven Waslander) Newly released data from a collaboration between the University of Toronto, the University of Waterloo and Scale AI will help train future self-driving ..."
-    publishedDateTime: 2020-02-03T21:51:00Z
-    webUrl: "https://www.utoronto.ca/news/u-t-waterloo-research-data-put-self-driving-cars-ultimate-test-canadian-winter"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 15
-    images:
-      - url: "https://www.utoronto.ca/sites/default/files/2019_02_27_0027_lidar_frame_90.jpg?162288"
-        width: 1140
-        height: 760
 
 secured: "FHVQP7iwOZpsqlb8VTDFuG5DF9rVcsuvO1XjveEEZbau9E8rFMlNaW797QfNq1MvMUiTwRe4UW+uiQvgAc49XU8GwQPT6ZcLDx4b2wrHYViI3CtP6KvuBaS8QFbk5QFaonT33gmAoEoSHQH/u3DfIQkTiXooUQ+j0Q7rqYe+qJd+HU7uvXcgrgI5/SExeJ/6alVF4pyeBrhjG2RO+CrUIsZJ4v0KOGaj7WiuT5yjvF0LKX3RQvPfNlQv+YxJspEOpnGCkEMzKiOUnQDfPBXrawQPH8maTG9WQJqDWOYMl0rla2Mp9YuiYajG87SlFvrR5JccgAJiLalasylA9EI9Z/No+NDU3M9Vlkj10gnDODiicbrMAU81uE9fRNSulqnbySBQdq6ipeR7j+eUojYGckaR5vHY9pjxeKL2BwDCZn4/sIZP5dij4yVZrXLaS9yNMozLAtXVzpLl8nL/zBgHsdUDb5v0FkshcIIJtM9/tnE=;LKgCqIy6xYAtzLnYbExG+Q=="
 ---

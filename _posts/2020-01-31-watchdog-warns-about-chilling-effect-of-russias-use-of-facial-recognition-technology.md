@@ -199,6 +199,15 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
         width: 1640
         height: 800
+  - title: "Editorial: Implementing facial recognition tech would be a violation of students’ privacy"
+    excerpt: "That is, UCLA is watching you. New policies for the implementation of facial recognition technology were introduced in drafted revisions to UCLA Interim Policy 133, which governs the university’s management and use of security camera systems. The Campus Safety Alliance, which first received the draft from campus administrators in December ..."
+    publishedDateTime: 2020-01-30T07:08:00Z
+    webUrl: "https://dailybruin.com/2020/01/29/editorial-implementing-facial-recognition-tech-would-be-a-violation-of-students-privacy/"
+    type: article
+    provider:
+      name: Daily Bruin
+      domain: dailybruin.com
+    quality: 10
 
 secured: "mvQ9DiCNE5Gn+5FMZytZPQ66y3iiutfku6R2DyWc46hb7ChO9zXXTE4yOydY4McS1xkILefg0js/NhbiQRWhjJ+uRMcrY7IIhnTQ9HntdrhN8lkpdO4YJ8t/zkhUtjHahm95JjPwY7+uNLxtuRXD9wu/E2Ry3bd51ldVt1xt1d4h280wbrdITq1PDc8xamPRJqTLTL9OJLyopLFuPvsV+rhk0dZVbZ4pB9abb7ZKc9aih+esBwR/vPAE/kXUkZDKzEYdPX8aMrxlepWwwCoerDQeub0AHFZUDdk3dZg/M5MyOFl9ZO2+JkiySZ9bED0ie+clo6ZONobme/4yNS8zhsd4M8bL1N/usKePOsIZ//rCbOvablqDnYOPzfYjxGlov2FIcjpFS86UZFiKt8PhFMi3G2ofswIda9OVgTQL/B6e725ZdQDsmBndxkhXKD5uZhl/V6RyRtQJ2NrzJhgdS6N/JwwcjskXdJBslKl/wE8=;xTmtrM3KlmDZaznaVCpLsA=="
 ---

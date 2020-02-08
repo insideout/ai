@@ -28,7 +28,7 @@ related:
   - title: "AI Startup Senseforth.ai Selected for OceanPro, Maersk’s Startup Accelerator"
     excerpt: "BANGALORE, India--(BUSINESS WIRE)--Senseforth.ai, a leader in Conversational AI space, has been selected as part of cohort 3 of OceanPro, Maersk’s startup accelerator within the shipping and logistics industry. Maersk recently announced the launch of cohort 3, which focuses on Maersk’s e-commerce platforms, optimizing the brand experience ..."
     publishedDateTime: 2020-01-28T11:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200128005392/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200128005392/en/AI-Startup-Senseforth.ai-Selected-OceanPro-Maersk’s-Startup"
     type: article
     provider:
       name: Business Wire

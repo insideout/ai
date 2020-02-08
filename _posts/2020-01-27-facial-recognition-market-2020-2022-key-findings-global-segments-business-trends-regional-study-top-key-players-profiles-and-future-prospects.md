@@ -41,6 +41,36 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/06/bigstock-Portland-Oregon-USA-skyline-247939699-630x420.jpg"
         width: 630
         height: 420
+  - title: "Artists and activists offer privacy hope as facial recognition spreads"
+    excerpt: "Now that our online data has been comprehensively mined, our behavioural surplus extracted, Big Tech is coming for our faces. The explosion in facial recognition has outpaced efforts to legislate around it and, in societies such as the UK where it is not compulsory to carry identification, we are being identified whether we like it or not."
+    publishedDateTime: 2020-01-29T05:14:00Z
+    webUrl: "https://www.ft.com/content/15fb3c5a-2178-11ea-b8a1-584213ee7b2b"
+    ampWebUrl: "https://amp.ft.com/content/15fb3c5a-2178-11ea-b8a1-584213ee7b2b"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/15fb3c5a-2178-11ea-b8a1-584213ee7b2b"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F55c44a8e-3631-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+  - title: "Government privacy watchdog under pressure to recommend facial recognition ban"
+    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
+    publishedDateTime: 2020-01-27T21:31:00Z
+    webUrl: "https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition"
+    ampWebUrl: "https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 55
+    images:
+      - url: "https://thehill.com/sites/default/files/blogs/facescan_facialrecognition_020314thinkstock.jpg"
+        width: 645
+        height: 363
   - title: "Springfield City Council debates, postpones vote banning police use of facial recognition technology"
     excerpt: "SPRINGFIELD -- After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
     publishedDateTime: 2020-02-04T02:51:00Z

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-accurately-predic
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: TechRepublic
@@ -27,23 +27,6 @@ images:
     width: 1200
     height: 729
     title: "AI accurately predicts Billie Eilish 'bad guy' Grammy win"
-
-related:
-  - title: "62nd Grammy winners predicted by artificial intelligence"
-    excerpt: "If you've got coin on who'll win at the 62nd annual Grammys this Sunday, predictive tips are available, and it's not insider trading, it's artificial intelligence (AI). Last year, Boston-based data science company DataRobot successfully chose 2019's song of the year, Childish Gambino's \"This is America.\" This year, DataRobot hopes to revisit ..."
-    publishedDateTime: 2020-01-24T20:03:00Z
-    webUrl: "https://www.techrepublic.com/article/62nd-grammy-winners-predicted-by-artificial-intelligence/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/62nd-grammy-winners-predicted-by-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/62nd-grammy-winners-predicted-by-artificial-intelligence/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 189
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/01/23/1d4356f0-3881-4265-b4fd-2612966a6fcf/thumbnail/1200x675/a2c5ba1e810155f718f9a0d3cfc5302c/20200123-teena-karen.jpg"
-        width: 1200
-        height: 675
 
 secured: "trVYSebepTfJLD1wk8rfKv74wz+s9tcBLCUCph31T/MVxfRYmdcRCShQkKzudvb0p3djn/5N2IzQwu0pELi4X8ZWWN4bDqNKBaXYMWvVd9J38OBrSxaWTVSAbcGdLUN15Kqgix/CKKcU40xgajqSoPVJruYwrdxmuXvTnfmyE+bZgshoOs09fCuQe9cXPTSmyS0Lu4yL8+zCpZk34n9/7bTpf+YkQMKL3HtA8wFslJSBI0m7hoMIf8tUCjEezp1dSNLX+EAaQnxGEC8HzO+yqa+GKDOR5a17h2/zZ4QBGnXlR510ROYZmvKMt1QtGShWcPMFcSLG7eIEjeuqFDA51vquhJHI79KbNX7lmWiImHHn4zdgxbzUUaoW/fqwi/cu8cr5RMiKjvqevQqUqX9dlMCi7iruwpQtfj5B0rcG7RMYudmyVWQR+cxGSWzncm9LL1ZiKfXAj5FdDKGysVPAm43v8T/qjFW0dSMaFB9JR70=;fDqVBXWjF3QedUgz2PEK4w=="
 ---

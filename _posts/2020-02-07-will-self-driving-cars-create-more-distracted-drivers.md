@@ -24,30 +24,34 @@ images:
     title: "Will self-driving cars create more distracted drivers?"
 
 related:
-  - title: "US House panel will discuss self-driving cars next week"
-    excerpt: "Witnesses include officials from automotive, tech and transportation trade groups. On February 11th, a House panel will hold a hearing that could help shape the future of self-driving vehicles in the US. The Consumer Protection and Commerce Subcommittee ..."
-    publishedDateTime: 2020-02-08T06:41:00Z
-    webUrl: "https://www.engadget.com/2020/02/08/us-house-panel-self-driving-cars-hearing/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/"
+  - title: "Those Three Clever Dogs Trained To Drive A Car Provide Valuable Lessons For AI Self-Driving Cars"
+    excerpt: "We’ve all seen dogs traveling in cars, including how they like to peek out an open window and enjoy the fur-fluffing breeze and dwell in the cacophony of scents that blow along in the flavorful wind."
+    publishedDateTime: 2020-02-08T12:42:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3840%252C2160%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe8321670-4a05-11ea-bd5b-cd741edc3230%26client%3Da1acac3e1b3290917d92%26signature%3D6aee8e9932ff3d82e71bea7b1cb228158bfd2a07&client=amp-blogside-v2&signature=62165aa1622e9790a5b5bbd711a47ca73626cfb6"
-        width: 600
-        height: 350
-  - title: "Prediction: Market for Artificial Intelligence in Cars Will Grow 1,200% in Next Six Years"
-    excerpt: "The market for artificial intelligence in the automotive industry will go from $1 billion today to ... for more assistive and autonomous features for improved driving comfort and safety, as well as realizing the goal of self-driving cars and trucks. AI-powered features are already being developed, tested and offered on consumer vehicles."
-    publishedDateTime: 2020-02-07T19:07:00Z
-    webUrl: "https://www.machinedesign.com/mechanical-motion-systems/article/21122520/prediction-market-for-artificial-intelligence-in-cars-will-grow-1200-in-next-six-years"
+      - url: "https://thumbor.forbes.com/thumbor/711x507/https://specials-images.forbesimg.com/imageserve/1150260060/960x0.jpg?fit=scale"
+        width: 711
+        height: 507
+  - title: "The road ahead for digital signage in self-driving cars"
+    excerpt: "Once vehicles become truly autonomous, traveling by car will become a much more passive experience. And while today we're grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them entertained ..."
+    publishedDateTime: 2020-02-04T15:59:00Z
+    webUrl: "https://www.digitalsignagetoday.com/blogs/the-road-ahead-for-digital-signage-in-self-driving-cars/"
     type: article
     provider:
-      name: Machine Design
-      domain: machinedesign.com
-    quality: 10
+      name: Digital Signage
+      domain: digitalsignagetoday.com
+    quality: 24
+    images:
+      - url: "https://nmgprod.s3.amazonaws.com/media/files/a1/bd/a1bda8354a4cc5b99751ce3b0f639642/cover_image.jpg.640x360_q85_crop.jpg"
+        width: 640
+        height: 360
 
 secured: "VhLqd/NIqHck/yTCyMszcyctCdYJlLElJ24ujUlLzw3ynUWZIRr53FrCX2TNYeXZEiPfLNQPvDwiuHAHQm+StWjG3Cqr28yVCZEyt9zLXTwp7hT10zsy++XXWQE7Mw2+308mqRHJTOxFFukroTO/fCS9ZtdXIPQqWq08QJdYuziF6SkyU+lgTp1WrAKyfFuc7r3p88l5s/yisAQOM787D6Z/d6JaEwp2cSYieXqznPFiNs3ykXLnBycdTSzRIZg+w564ByqJmb5DXd2g1nsiTs/mEUruN+OiU+O8Tj9SWpS/sWbjIMnXckT3pMSbq024;s9VMUk9xaSbLK8HKHHJHFQ=="
 ---

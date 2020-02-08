@@ -201,6 +201,15 @@ related:
       name: Radio Free Europe/Radio Liberty
       domain: rferl.org
     quality: 16
+  - title: "Editorial: Implementing facial recognition tech would be a violation of students’ privacy"
+    excerpt: "That is, UCLA is watching you. New policies for the implementation of facial recognition technology were introduced in drafted revisions to UCLA Interim Policy 133, which governs the university’s management and use of security camera systems. The Campus Safety Alliance, which first received the draft from campus administrators in December ..."
+    publishedDateTime: 2020-01-30T07:08:00Z
+    webUrl: "https://dailybruin.com/2020/01/29/editorial-implementing-facial-recognition-tech-would-be-a-violation-of-students-privacy/"
+    type: article
+    provider:
+      name: Daily Bruin
+      domain: dailybruin.com
+    quality: 10
 
 secured: "ABKe4+tTCVZlSACIzhqXmiAYKJ/lw7VXdHDU0mymd2hTHDXqtipkwUNh11Qf6B0Iw9lxCoXUbBQGkGNWwWXxmiYEeNQLBTqm06Nbik+K8a/UPu2c0QxqCIEK2bHqfpWkAbe3sKlYZN12ynwE19ssaA9AiRXRRcOWtbhu7Db/z2W3IL+2ZP79+gPUNEB202/7PtRTXZPuUJqNQw4Hlu29Ev7YuQkFamPcZT0IZ2u1n63lnTEZlWVSn2Q9XEZFBfwC/QnDnVK76Z3FzDeUt55S8erGjfhpFvIUQtL2JZKu0n08Xw5/0GBHz/cTxQ9mXcIafqhpheTB8J7kAFDr1+PsWQ3s+d7iLSprnYF9y2uHJSQkw+Ck7AvJO+GUqAeiv1BbPp/KFCNnQaEqAlAgyBK3XVPAsjtHbDAXYYequarWQ2pzOKH89pRe4DIJNyWDKcw8tw8OBge4Bvtx3lrHqU3ec5Q7mmBtot3AstIlFWX/fuE=;YjsgcShE9Vq1UF+/Ro1Wvg=="
 ---

@@ -24,34 +24,56 @@ images:
     title: "Can Artificial Intelligence Prevent Coronavirus from Spreading?"
 
 related:
-  - title: "Coronavirus: China deploys robots to prevent cross-infection"
-    excerpt: "According to an engineer from Dongfulong, these two artificial intelligence disinfection machines can achieve a 6-log killing effect on microorganisms. 6-log refers to a 99.9999% reduction in bacteria. Further, more than 30 smart disinfection robots manufactured by Shanghai Titanium Robot Technology Co., Ltd. are also in the isolation ward ..."
-    publishedDateTime: 2020-02-07T12:41:00Z
-    webUrl: "https://www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robots-to-prevent-cross-infection/"
-    ampWebUrl: "https://www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robots-to-prevent-cross-infection/?amp"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robots-to-prevent-cross-infection/?amp"
+  - title: "How AI Is Tracking the Coronavirus Outbreak"
+    excerpt: "Alessandro Vespignani, a professor at Northeastern University who specializes in modeling contagion in large populations, says it will be particularly challenging to identify new instances of the coronavirus from social media posts, even using the most advanced AI tools, because its characteristics still aren’t entirely clear. “It’s ..."
+    publishedDateTime: 2020-02-08T07:00:00Z
+    webUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/"
+    ampWebUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 59
+      name: Wired
+      domain: wired.com
+    quality: 91
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/02/disinfection-robot-6.png"
-        width: 580
-        height: 428
-  - title: "China Deploying Robots To Contain Spread Of Deadly Coronavirus"
-    excerpt: "Currently, these robots have been deployed in isolation wards, ICUs, operating rooms and fever clinics in major coronavirus treating hospitals, including the Central Hospital of Wuhan. China has called upon members of China's Artificial Intelligence (AI) sector to help fight against the coronavirus. According to reports, robots are being used ..."
-    publishedDateTime: 2020-02-07T14:53:00Z
-    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/robots-deployed-in-order-to-contain-spread-of-deadly-coronavirus.html"
+      - url: "https://media.wired.com/photos/5e3dfca7e601630009b7e800/master/pass/Tracking-the-coronavirus-with-AI_1153872548.jpg"
+        width: 2400
+        height: 1350
+  - title: "Huawei, Chinese chip makers keep factories humming despite coronavirus outbreak"
+    excerpt: "State media reported that the chip maker did not cease operations over the Lunar New ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis ..."
+    publishedDateTime: 2020-02-03T13:55:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3048763/huawei-chinese-chip-makers-keep-factories-humming-despite-coronavirus"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3048763/huawei-chinese-chip-makers-keep-factories-humming-despite-coronavirus"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3048763/huawei-chinese-chip-makers-keep-factories-humming-despite-coronavirus"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 54
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 35
+  - title: "Coronavirus: Modelling an outbreak"
+    excerpt: "Its AI also continuously scans news reports from recognised sources in 65 different languages, subjecting them to natural language processing and analysis that further inform its ML algorithms. This, the company says, not only allowed it to get ahead of the game in identifying the Wuhan outbreak but also meant that it was able to predict ..."
+    publishedDateTime: 2020-02-07T14:49:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/02/coronavirus-modelling-an-outbreak/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 24
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/zdxqblrfadpefqou_1581083925.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 708
+      - url: "https://eandt.theiet.org/media/10504/2019-ncov-centers-for-disease-control-and-prevention-cdc.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132252160040000000"
+        width: 1200
+        height: 450
+  - title: "Coronavirus outbreak to further strain global AI information exchanges already under pressure from tech war"
+    excerpt: "Chinese search giant Baidu and Tongdun Technology, a Hangzhou-based risk management start-up, are among the leading conference sponsors along with US firms IBM, Google AI, Amazon and Apple. China’s smartphone giants cut size of contingent to world’s biggest mobile show In a written response, Baidu said 28 papers submitted by its own authors ..."
+    publishedDateTime: 2020-02-06T22:56:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 19
 
 secured: "c35wR+SCqKuv7BGr0ah4YwczpjXk1X7IlSa1vwz7KEmnfRziMblRenEe8OqaX02KYXd+2ur0VCJ8VlidB6+yBzEWZPnuNxhDwe8pTPAy5SIvngLiWdpNVArtDv9t5sDzOmbcMqhaZ7K5tuvvYKcBPDVqYR/pAHVfAF9D/Y1OLDboaHA+/C6eSQvnt/XPB3tR3y9VOY05m0klkAUo5bINONsMLzjz+vNgmuYwj63o7ufYSNf8yi81hKXz454uy+Iou4wpNZIyhem9RudiH+nRq2ZFw9+v2ZY5c/pQ5/SnFevUpgRWjqjMkJmhHnOFUUpI;gykvd6IxlvGCzK0EaLOoMw=="
 ---

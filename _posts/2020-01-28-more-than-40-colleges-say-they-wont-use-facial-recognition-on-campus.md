@@ -26,112 +26,92 @@ images:
     title: "More than 40 colleges say they won’t use facial recognition on campus"
 
 related:
-  - title: "Despite privacy concerns, facial recognition cameras to be rolled out in London"
-    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
-    publishedDateTime: 2020-01-24T19:57:00Z
-    webUrl: "https://mashable.com/video/london-facial-recognition-cameras/"
-    ampWebUrl: "https://mashable.com/video/london-facial-recognition-cameras.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/london-facial-recognition-cameras.amp"
+  - title: "Moscow Court Case Challenges City's Facial Recognition Use After Launch"
+    excerpt: "A court on Friday will hear a legal challenge to Moscow's rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month."
+    publishedDateTime: 2020-02-03T15:07:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/02/03/technology/31reuters-russia-technology-facialrecognition.html"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 85
+      name: New York Times
+      domain: nytimes.com
+    quality: 69
     images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F24%252F8f%252Fe45391542f244300abce8e004744f264.dbee4.png%252F1200x630.png?signature=Jv-_6kRL_ZmhIw_aPKprHejEK2o="
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
-  - title: "Digital Trends Live: London’s facial-recognition cameras, Super Nintendo World"
-    excerpt: "On this episode of Digital Trends Live, hosts Greg Nibler and Nicole Raney discuss the biggest-trending news in tech, including facial-recognition cameras being deployed in London, Waymo’s self-driving car expansion, Apple’s self-driving car patent, Super Nintendo World’s migration to the U.S., and more. We then take a deeper look at ..."
-    publishedDateTime: 2020-01-24T19:52:00Z
-    webUrl: "https://www.digitaltrends.com/digital-trends-live/episode-301/"
-    ampWebUrl: "https://www.digitaltrends.com/digital-trends-live/episode-301/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/digital-trends-live/episode-301/?amp"
+  - title: "Springfield City Council finalizes facial recognition ordinance"
+    excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council further discussed a possible ban on facial recognition technology Wednesday. The city council’s public safety subcommittee met to finalize an ordinance to introduce at the next city council meeting."
+    publishedDateTime: 2020-01-30T01:31:00Z
+    webUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/"
+    ampWebUrl: "https://www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/local-news/hampden-county/springfield-city-council-finalizes-facial-recognition-ordinance/amp/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 70
-    images:
-      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/n13_super_nintendo_world_universal_studios_japan-1200x630-c-ar1.91.jpg"
-        width: 970
-        height: 507
-  - title: "Artists and activists offer privacy hope as facial recognition spreads"
-    excerpt: "Now that our online data has been comprehensively mined, our behavioural surplus extracted, Big Tech is coming for our faces. The explosion in facial recognition has outpaced efforts to legislate around it and, in societies such as the UK where it is not compulsory to carry identification, we are being identified whether we like it or not."
-    publishedDateTime: 2020-01-29T05:14:00Z
-    webUrl: "https://www.ft.com/content/15fb3c5a-2178-11ea-b8a1-584213ee7b2b"
-    ampWebUrl: "https://amp.ft.com/content/15fb3c5a-2178-11ea-b8a1-584213ee7b2b"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/15fb3c5a-2178-11ea-b8a1-584213ee7b2b"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
+      name: WWLP
+      domain: wwlp.com
     quality: 59
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F55c44a8e-3631-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-  - title: "Government privacy watchdog under pressure to recommend facial recognition ban"
-    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
-    publishedDateTime: 2020-01-27T21:31:00Z
-    webUrl: "https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition"
-    ampWebUrl: "https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp"
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2020/01/facial-recognition-ordinance.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
+  - title: "Groups Call on Chicago to Ban Facial Recognition Technology"
+    excerpt: "(TNS) — Chicago Mayor Lori Lightfoot should ban the city’s use of facial recognition technology of the kind the Chicago Police Department utilizes on the grounds it’s racially biased and an invasion of residents’ privacy, a group of activists said Tuesday. The groups want to halt the department’s new contract to use technology ..."
+    publishedDateTime: 2020-02-06T22:37:00Z
+    webUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Groups-Call-on-Chicago-to-Ban-Facial-Recognition-Technology.html?AMP"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 55
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://thehill.com/sites/default/files/blogs/facescan_facialrecognition_020314thinkstock.jpg"
-        width: 645
-        height: 363
-  - title: "Facebook pays $550M to settle facial recognition privacy lawsuit"
-    excerpt: "The settlement came after Facebook was sued for collecting facial recognition data to use in tagging photos, which allegedly violated the Illinois Biometric Information Privacy Act. Illinois is the only state to have biometric privacy laws that allow people to sue for damages if their rights are violated."
-    publishedDateTime: 2020-01-30T15:58:00Z
-    webUrl: "https://www.christianforums.com/threads/facebook-pays-550m-to-settle-facial-recognition-privacy-lawsuit.8147300/"
-    ampWebUrl: "https://www.christianforums.com/threads/facebook-pays-550m-to-settle-facial-recognition-privacy-lawsuit.8147300/?amp=1"
-    cdnAmpWebUrl: "https://www-christianforums-com.cdn.ampproject.org/c/s/www.christianforums.com/threads/facebook-pays-550m-to-settle-facial-recognition-privacy-lawsuit.8147300/?amp=1"
+      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
+        width: 1119
+        height: 630
+  - title: "Watchdog calls for probe after Sheffield's Meadowhall facial recognition police trial"
+    excerpt: "A facial recognition camera trial has sparked further calls for government to intervene in the into the use of the controversial technology. South Yorkshire Police shared three pictures of serious offenders and one of a vulnerable missing person with Meadowhall shopping centre, Sheffield, in 2018 so officers could better understand ..."
+    publishedDateTime: 2020-01-28T09:38:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-7937289/Watchdog-calls-probe-Sheffields-Meadowhall-facial-recognition-police-trial.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-7937289/amp/Watchdog-calls-probe-Sheffields-Meadowhall-facial-recognition-police-trial.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7937289/amp/Watchdog-calls-probe-Sheffields-Meadowhall-facial-recognition-police-trial.html"
     type: article
     provider:
-      name: Christian Forums
-      domain: christianforums.com
-    quality: 39
-  - title: "Facial recognition could be 'spectacular own goal', police warned amid accuracy concerns"
-    excerpt: "Facial recognition could be a “spectacular own goal” for police if it fails to be inaccurate and effective, the government has been warned. MPs raised concerns about the technology after the Metropolitan Police announced the start of live deployments in London. Only eight arrests were made as a result of facial matches in almost three years ..."
-    publishedDateTime: 2020-01-28T06:04:00Z
-    webUrl: "https://www.independent.co.uk/news/uk/home-news/facial-recognition-police-technology-arrests-accuracy-london-a9304911.html"
-    type: article
-    provider:
-      name: Independent
-      domain: independent.co.uk
-    quality: 30
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 52
     images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/02/19/13/facial-recognition-tech-190219.jpg"
-        width: 846
-        height: 634
-  - title: "Tech Savvy: Facial-recognition technology stokes privacy concerns"
-    excerpt: "Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier says 72% of ..."
-    publishedDateTime: 2020-01-26T06:40:00Z
-    webUrl: "https://www.brainerddispatch.com/business/technology/4880204-Tech-Savvy-Facial-recognition-technology-stokes-privacy-concerns"
+      - url: "https://i.dailymail.co.uk/1s/2020/01/28/09/23971966-0-image-a-2_1580203901768.jpg"
+        width: 636
+        height: 382
+  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
+    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
+    publishedDateTime: 2020-02-03T23:00:00Z
+    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
+    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
     type: article
     provider:
-      name: Brainerd Dispatch
-      domain: brainerddispatch.com
-    quality: 24
+      name: Canoe.com
+      domain: canoe.com
+    quality: 46
     images:
-      - url: "https://www.brainerddispatch.com/incoming/4880195-oiib4n-IMG_7852.jpg/alternates/BASE_LANDSCAPE/IMG_7852.jpg"
-        width: 1140
-        height: 712
-  - title: "Editorial: Implementing facial recognition tech would be a violation of students’ privacy"
-    excerpt: "That is, UCLA is watching you. New policies for the implementation of facial recognition technology were introduced in drafted revisions to UCLA Interim Policy 133, which governs the university’s management and use of security camera systems. The Campus Safety Alliance, which first received the draft from campus administrators in December ..."
-    publishedDateTime: 2020-01-30T07:08:00Z
-    webUrl: "https://dailybruin.com/2020/01/29/editorial-implementing-facial-recognition-tech-would-be-a-violation-of-students-privacy/"
+      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
+        width: 1000
+        height: 750
+  - title: "Veridium Launches Facial Recognition Technology vFace Alongside Behavioural Biometric Capabilities"
+    excerpt: "/PRNewswire/ -- Authentication platform Veridium launches its facial recognition technology, vFace. This software makes facial recognition more"
+    publishedDateTime: 2020-02-04T14:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/veridium-launches-facial-recognition-technology-vface-alongside-behavioural-biometric-capabilities-300998683.html"
     type: article
     provider:
-      name: Daily Bruin
-      domain: dailybruin.com
-    quality: 10
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
 
 secured: "VuMPvYxEU7hxYQ7+juaGzI8yGatgCBrQ+httXmSaWZCiDBKB+FHSuYZTLcNlqeQYOUG4jlXlPQGtyzmvZBHLsne76gQNiGOVWM7LbZs+k/HJq5TmflD1DfGxDaZKm03nevT+ha2sXjI72jB/juEzWDFhqCth+6pdyG7G74Lwn/RkBG32yvWXo8/BavP7C7Z5ylWMmxsAlYO+KMypu3jsdgidVt7QrU1WP+gOEKbi5uDY0oqDfeUUxI0NWmOpNiDatQKYkUXKr41qZnMEqULR1Xc/cW0sC//MgWo0mWWc9DRfXyofHX/A8eLxaVgRIA43YgwPs7ULadm+NE27e/54L5/5BkH91iwJMF8x9fpZXiWOtn1ednpGQ0qpn+Tgl/cFFDJR7/WoYTjDYT5234RXL9ClYIE2lQXfXvanw6W646Biez0c3VXR4N3ATWjT/F2UlNNknEpG6vNJxy+MrCIDOjNzqWiS/lYedfpOQIzc1RA=;tvloGLzKYr+pHKixkgGz7Q=="
 ---

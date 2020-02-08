@@ -28,6 +28,6 @@ images:
     height: 917
     title: "AI, 5G, and medical IoT can help deliver the promise of precision medicine"
 
-secured: "CTbXLXm3vdNxSBsZujfkucQRNF82r65jnj/ouvm8AkQ95ZQ1kQPGvIv0zkCT+t/orM5HtR+lojsQF8SeLkoQR8HZTJrEapbosSMYD6wNuYbHSj/iBV6Ay1fq/JgwayhWb0pqkZ7OOVf0c9780OhxveWYDhJchhHyWvKnbFfqvy/joE+p0XRo1S2WDdYZDcubZGhHwGo3D2iT0LctmsjuwM9bLLV2/AmAH+qlxSgjUY4zT6t5VXiKc4/eKrcBEjKTqn5X9RheEJWHrOF9mx+q1RUmtOGp9qV7PPUZCvrlMJn1pjNSqexTFNaZYgPIpygai1hlNSXRRaHpsrfuclVk//VzXEOcs1s1rhtRUIhr3/ywFYxBuvttZb9UfdHIU8OBaTsJzhx+lFbwhIIrQXn2K+zLVjfPbuz2gO4+yov9qGA9Ay53u6ryFlCNgtnfkmuXfvoSFfHKDUGA/J0nDE9KQYVO1rnkI6soljaep/cVczU=;dnn5qyhH1GuW8zZ4KDfyGw=="
+secured: "Es4+XMaQRYQKf/cTgkOnr35QGBygac/dKfzSYBzb+myE5Sj6RkMijscJHOJOFDMW5ElYssELKcaGQYQbGwRNLV6jez+cUEctVCOtJLJMBQAWO95ZI+/tHaglOcJuyD3WXGbsS1feyTTnqLuPIhZE4i3xo6tCE+qbdzjUXUa45J1BDI7gM/Se/F8RV5V0WmbNib2bzvZGjO4MaTbHF+8aUcU7aVipGt+gC2e1M9teRx3ROfI9DKy2QAAJ+d7HmLu1BoDu6BXulcDL3n0D1+terUMLbK6sRkOPhZzc/YxxIExjfoKdiRUAh9N/D3kHGnFtTeSklRSSqhSU1axHXDpJCFjnKtd6SamR0Irt2CBHYXj7BXGblybAcyQmYKf1gMQkHzIDiiTAjsCHuo5g3QxC3dqn8W/Vbv1+qA07cy6+au78wVSBWqKU6mpQnyYC16Gj9///7Nn/++e8fuC5sTYjh76jnP+M/vzp8w8B+P16nWE=;T5aJqAUeYWlFl35z16aS8A=="
 ---
 

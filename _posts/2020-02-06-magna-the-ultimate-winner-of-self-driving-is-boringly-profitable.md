@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T17:35:00Z
 webUrl: "https://seekingalpha.com/article/4322027-magna-ultimate-winner-of-self-driving-is-boringly-profitable"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,32 +24,43 @@ images:
     title: "Magna: The Ultimate Winner Of Self-Driving Is Boringly Profitable"
 
 related:
-  - title: "Magna scaling back Lyft partnership as fully self-driving systems look further off"
-    excerpt: "TORONTO — Magna International Inc. is scaling back its partnership with Lyft Inc. to co-develop self-driving technology as it focuses research and development spending on more near-term prospects. It was only about two years ago that the Aurora, Ont.,-based auto parts giant struck an ambitious partnership with ride-hailing firm Lyft to ..."
-    publishedDateTime: 2020-02-02T09:34:00Z
-    webUrl: "https://www.newsoptimist.ca/magna-scaling-back-lyft-partnership-as-fully-self-driving-systems-look-further-off-1.24054007"
+  - title: "Cadillac Brings Self-Driving Smarts to the New Escalade"
+    excerpt: "He is a member of the Academy of Motion Pictures Arts and Sciences. TopicsCadillac Self-Driving Cars SUVs WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from ..."
+    publishedDateTime: 2020-02-08T07:00:00Z
+    webUrl: "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/"
+    ampWebUrl: "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/2021-escalade-super-cruise-self-driving/amp"
     type: article
     provider:
-      name: Obituaries
-      domain: newsoptimist.ca
-    quality: 18
+      name: Wired
+      domain: wired.com
+    quality: 74
     images:
-      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24054008.1579197909!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/cpt10140229-jpg.jpg"
-        width: 560
-        height: 292
-  - title: "U of T-Waterloo research data to put self-driving cars to ultimate test: Canadian winter"
-    excerpt: "A new dataset will enable engineers to test and refine new algorithms for self-driving cars that can overcome the perception challenges posed by snowy weather (Image courtesy Steven Waslander) Newly released data from a collaboration between the University of Toronto, the University of Waterloo and Scale AI will help train future self-driving ..."
-    publishedDateTime: 2020-02-03T21:51:00Z
-    webUrl: "https://www.utoronto.ca/news/u-t-waterloo-research-data-put-self-driving-cars-ultimate-test-canadian-winter"
+      - url: "https://media.wired.com/photos/5e3c9fc2184f8b00092042da/master/pass/Transpo-2021-Cadillac-Escalade-053.jpg"
+        width: 2400
+        height: 1600
+  - title: "2021 Cadillac Escalade: 38-Inch Display, Better Self-Driving"
+    excerpt: "Night Vision is optional on the top four lines. Super Cruise is enhanced Level 2 self-driving, meaning the car lane-centers and paces the car ahead. Unlike other L2 vehicles, it uses lidar reference maps of major US highways to help the car know exactly where it is. (There is no onboard lidar on shipping Cadillacs.) The 2021 Super Cruise also ..."
+    publishedDateTime: 2020-02-06T15:15:00Z
+    webUrl: "https://www.extremetech.com/extreme/305850-2021-cadillac-escalade-38-inch-display-better-self-driving"
     type: article
     provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 15
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
     images:
-      - url: "https://www.utoronto.ca/sites/default/files/2019_02_27_0027_lidar_frame_90.jpg?162288"
-        width: 1140
-        height: 760
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/02/Escalade-0764B8300.jpg"
+        width: 1344
+        height: 743
+  - title: "Photos: Smart Columbus self-driving shuttle starts rolling in Linden"
+    excerpt: "Smart Columbus has launched its self-driving shuttles between COTA routes and community centers in Linden. \"To be part of innovation in a community that deserves access and equity is exciting for us.\""
+    publishedDateTime: 2020-02-06T12:00:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2020/02/06/photossmart-columbus-self-driving-shuttle-starts.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "lg1f/I0bewBJX5H5tGpzUYCKSbm3VbKbiPpINKZ6zSL+7CUf8TSLSsEHDEBY7W31LMjMdmQ+y3FRroBlNOSlkChKamQadMqXr7cj0M30oU0QH/rA70HsE45k7Y+WbzELbHQc3GXngSB8RqIefuG71LKMzjd+LPG1k7woMyF9Xoc5KdZQ9uEEw+nMJyg9H/rpfSHQbEhHS8tF0T1d9B+zHAvGswoWGBL33mCDkfldCwj2I/48kjbwLOzBd1iCuiEuwCk0Z/WGKEMMk97dUna0Gi522qi9DhnrM8e80eDZgAqcNFSiaYZ64KXjRXLIdncCGJdogmO3JR4lSdlLEN6AGffT8QUNPdgpGFO+FO9S/RpuZHW7DucfnorDR4JgpT8tjgqc0D1zyBVzeomrGwTZazjdReqBAcvxTJl2SUjYGP4fZFGHZ9LJwsP0Z8E7ZK6AS4A3CRCur3AoziMXJpzk3eVDUVQ+gnlim1Xopr8TZE0=;7UghYY9sTPABw1PiwN7bew=="
 ---

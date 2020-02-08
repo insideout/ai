@@ -1,28 +1,28 @@
 ---
 category: news
-title: "China Turns To Artificial Intelligence, Data In Fight Against Coronavirus"
-excerpt: "As Chinese authorities race to contain the spread of a new virus, which has infected more than 30,000 people and killed more than 700 in China, Beijing is turning to a familiar set of tools to find and prevent potential infections: data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if ..."
-publishedDateTime: 2020-02-08T04:02:00Z
-webUrl: "https://www.ndtv.com/world-news/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2176916"
-ampWebUrl: "https://www.ndtv.com/world-news/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2176916?amp=1&akamai-rum=off"
-cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2176916?amp=1&akamai-rum=off"
+title: "China turns to artificial intelligence, data in fight against coronavirus"
+excerpt: "As Chinese authorities race to contain the spread of a new virus, which has infected more than 34,000 people and killed more than 700 in China, Beijing is turning to a familiar set of tools to find and prevent potential infections: data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if ..."
+publishedDateTime: 2020-02-08T12:05:00Z
+webUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.html"
+ampWebUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: NDTV
-  domain: ndtv.com
+  name: The New Indian Express
+  domain: newindianexpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://c.ndtvimg.com/2020-02/806ehkf4_coronavirus-china-afp_625x300_07_February_20.jpg"
-    width: 650
-    height: 400
-    title: "China Turns To Artificial Intelligence, Data In Fight Against Coronavirus"
+  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg"
+    width: 600
+    height: 390
+    title: "China turns to artificial intelligence, data in fight against coronavirus"
 
 related:
   - title: "How Chinese tech giants are assisting in the battle against coronavirus with AI"
@@ -124,6 +124,6 @@ related:
       domain: globaltimes.cn
     quality: 19
 
-secured: "9tJR12lCr1s2vcrNy3ZW02elm8qBRtdG58h2B5ReXLYSF9XyDYZaeBPVjwiIVh01vzdjzGge4aDsZAfOCwYLjJRNwV+sOF9vpiXTaVMtLUfPyYm0sxDnP8zuOYbRWQ+5/Bt3bQiIQfKg5VvAYqBAva0VhUSxYedCciVLQY90YBNW0IG3zudcZVKY3x4yXD8Wtp+epOtPKrtQ5I2hDWwZdk+T2fd8KrdlLjE0Fk0iWYcLPWwMQElRToOJPFBkbHWdyXG40JkTk9BzJDlKhj7RDRDK3ZY6SFDAUaVz4wxXqfSba9IM90nPet5JbGcnaTO4;hKF/M+rXqOduXO9D8Xucbg=="
+secured: "HFDLP7Ww49f/shYWEjGLBLBMmLjn0jq1weQjnyhkRxgN+Lt90j4Z/vAvtZxw4363jRBjfyS0Tqot/AKyu8ENB8lMgkJNz/DF+LDbG+yn7FsuuGarpZEAzjhy9iLAFBqeWK240sc7nrDdWVMczwuc23NaQi/6A2uSOTXoUQPwoVgej3USPaO0YvAJE/zTDIH2NkRwY/etOlvkMl29KuOXq+j+6oHGxqRyoXly+oC8SEF4c5dc4bqDnoHHGggH/9hvxcG7kD+WxOIW7qOaGa6zrfIOlzJY+1uaEyfSQ11Ibdwrf9EzZvfh/fJzeLr2vMnS;izZbYkjkkGGPFTBzOpm6Rg=="
 ---
 

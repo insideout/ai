@@ -7,8 +7,8 @@ webUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-
 ampWebUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
 cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
@@ -18,12 +18,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
-    width: 675
-    height: 365
-    title: "New AI-based technique can spot low-glucose levels without fingerprick test"
 
 related:
   - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
@@ -41,7 +35,18 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg"
         width: 1200
         height: 1000
+  - title: "AI can detect low-glucose levels via ECG without fingerpick test"
+    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
+    publishedDateTime: 2020-01-14T02:17:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    type: article
+    provider:
+      name: ETHealthworld.com
+      domain: indiatimes.com
+    quality: 39
 
-secured: "0wNEq50ahXCHukaAQwiEsKK9/Bp2sktMbmd2041Rov5mr1VUfwlm+4+zlMS7XbX6I6gkTWdCPp6jCWE16fb8/8P5UqqekvABfijj+230YATxeOnz4IpTRRL2Iw99I7/i8jGDtqDE8Tt7RDNHCjVGtQYZygdTjUwn2VVkP3YRuJBjYOGljFWh7Deotg5bi5WxaPx0kY5mTchtJgw5r0GtxXw/DbRK0r+H+54IccHpQVYl9EK0UpeCfcATzGvRNJYxGSwodW+qn7VcaZ7F/tlZ/pYF8QetAnXA8Pa0BkqEAykR9hq4Y9qZWxHJxqYdT0PX;i60C66ZlqFE5Zj8FndocoA=="
+secured: "ZaRMJXntKsrFc22FCvaUL5XLmj3TQbR7bE1IBVRygvLw69OeIXk5b7TED8dWGB3yFZf/BjCpkbO3SV5FKEIgd8KE/hcdmsQXG/7sdIfy/vgvle6Jjetc3iD/fSn6y5+zFP3quwniMrN9RKIvphrSgCKR0GPeOMw2vw1NQ3o6JaJ53HVm9e9oXR0w0cP8GEC4jz8xtHYOsvLr0iWwXkK6pu3lcBisBcFNSEP/C+lMCqsZpWgF5rZ0ayUzURD1ku2mv6v5p7UUk9jd0jTZYtMRyA3aF14iK/y8DhTgyUv33Fz//6vP4/ql+6MyX+FMguUL;oOAW0IUZlM+nZmXkfP5k9g=="
 ---
 

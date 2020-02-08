@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T13:34:00Z
 webUrl: "https://www.therobotreport.com/january-2020-robotics-investments-recap/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "Robotics investments recap: January 2020"
 
 related:
+  - title: "Top 10 Robotics Investment and Funding in January 2020"
+    excerpt: "Robotics and artificial intelligence company Berkshire Grey has raised US$263 million in Series B financing to continue providing global Fortune 100 companies with retail, eCommerce and logistics fulfillment automation. SoftBank, Khosla Ventures, New Enterprise Associates and Canaan all participated in this financing round, Berkshire Grey said ..."
+    publishedDateTime: 2020-02-08T12:49:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-robotics-investment-funding-january-2020/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-Robotics-Investments-and-Funding-in-January-2020-1.png"
+        width: 1592
+        height: 942
   - title: "Top Artificial Intelligence Funding in January 2020"
     excerpt: "Particularly, artificial intelligence is one such technology that is making headlines every ... “We have developed a new category of heart disease diagnostic products powered by AI that promise to revolutionize healthcare by delivering accurate, cost-effective and timely expert-level diagnostics,” said Yann Fleureau, co-founder and CEO ..."
     publishedDateTime: 2020-02-08T08:55:00Z

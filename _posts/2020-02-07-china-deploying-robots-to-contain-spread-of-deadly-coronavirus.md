@@ -39,19 +39,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2020/02/disinfection-robot-6.png"
         width: 580
         height: 428
-  - title: "Can Artificial Intelligence Prevent Coronavirus from Spreading?"
-    excerpt: "The combination of human expert and artificial intelligence can efficiently eradicate the spread of coronavirus ... Since the usage of AI in several areas of healthcare, like recognizing brain tumors and enhancing treatments, has been successful. Therefore if the technology is used in the case of coronavirus, also there are chances that ..."
-    publishedDateTime: 2020-02-06T08:46:00Z
-    webUrl: "https://www.cioreview.com/news/can-artificial-intelligence-prevent-coronavirus-from-spreading-nid-31151-cid-31.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/3rido.25.jpg"
-        width: 300
-        height: 350
 
 secured: "YiDjvMj6Q4uRD2l1FAFB55S1sBySC0Ct+0ksqzgfse0iAScYs0rI9S6kTNFUM2A1wNqApgi+i38me1yID259z5664UmP5Dv0hA893fZVwkQtgHAulliGj10I0khb9THbGreC/YLy1Ae2nBEpA4SyNZxd+Yayg/TvrFbSedC0+GyEM1aaKE34Sag0JqnWnocWLqcVeC1wndPd8d+D9LKCmueGiDBIHhmkMeAFQflbhX30KtAnhu2SWNqmhbwdraHMEnAe/6JDlyK6g5m7t9ozQ4uzOfUb+UYdtV3IGjo1944CfgeuxY7YUWsm8sjW0/Mt;rSb4AIq7s5R5ZXfMKA9vLQ=="
 ---

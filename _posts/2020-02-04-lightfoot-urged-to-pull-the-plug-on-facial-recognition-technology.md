@@ -8,7 +8,7 @@ ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/2112256
 cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology"
 type: article
 quality: 59
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -201,6 +201,15 @@ related:
       name: Radio Free Europe/Radio Liberty
       domain: rferl.org
     quality: 16
+  - title: "Editorial: Implementing facial recognition tech would be a violation of students’ privacy"
+    excerpt: "That is, UCLA is watching you. New policies for the implementation of facial recognition technology were introduced in drafted revisions to UCLA Interim Policy 133, which governs the university’s management and use of security camera systems. The Campus Safety Alliance, which first received the draft from campus administrators in December ..."
+    publishedDateTime: 2020-01-30T07:08:00Z
+    webUrl: "https://dailybruin.com/2020/01/29/editorial-implementing-facial-recognition-tech-would-be-a-violation-of-students-privacy/"
+    type: article
+    provider:
+      name: Daily Bruin
+      domain: dailybruin.com
+    quality: 10
 
 secured: "VCkLtMGHDnqx1h+svAsBPlPkSmC6XMFRIykrOWEsc4vn7ZDyrJhhIVKSnRGQzSB9WHlZ036mHe2xMvACfSL/5gR/9mp8HAJfYK8VDb22jjf7cVN05ajSOYBhs9Pc+7aKQs/FljAYwAyOfsBIBpusctZAF/Td2STXG1oGW6VZMkM4ltdUoin5i3TfqjXvozxR6krElDy7YAyWJ4HdzhsyYpMFdsfwghieiQvugx4O9nmxPPqxKZyhMITkiTHeUTjAO4ECCk9kTXLTA9o+hz/XdbDLGLvLNg3ZHOD7o5s67vAWg8H1D2OX/eHJGn/QeUhTt7pcwvYQxnZ+VUh2w6yKcAlzbqMhfIE4drrD6GhJXl+MYQbrA2UeDauxC7MikVuagDBLmvW8O6+MH7L6bJPOwO8OD7532kg8sEp+/PqiSyKUEMWW1zpZ3+CX22GP3e8vatYiul2+DO2/E3gzQZO7dOPCqydRqD5y+gla0FEHdQg=;7rwoiCeoT5+HQ67n5Ss1kg=="
 ---

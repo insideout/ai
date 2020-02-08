@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-mi
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-million-over-face-recognition-issue/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     title: "Facebook will need to pay $550 million over face recognition issue"
 
 related:
+  - title: "Facebook pays $550M to settle facial recognition privacy lawsuit"
+    excerpt: "The settlement came after Facebook was sued for collecting facial recognition data to use in tagging photos, which allegedly violated the Illinois Biometric Information Privacy Act. Illinois is the only state to have biometric privacy laws that allow people to sue for damages if their rights are violated."
+    publishedDateTime: 2020-01-30T15:58:00Z
+    webUrl: "https://www.christianforums.com/threads/facebook-pays-550m-to-settle-facial-recognition-privacy-lawsuit.8147300/"
+    ampWebUrl: "https://www.christianforums.com/threads/facebook-pays-550m-to-settle-facial-recognition-privacy-lawsuit.8147300/?amp=1"
+    cdnAmpWebUrl: "https://www-christianforums-com.cdn.ampproject.org/c/s/www.christianforums.com/threads/facebook-pays-550m-to-settle-facial-recognition-privacy-lawsuit.8147300/?amp=1"
+    type: article
+    provider:
+      name: Christian Forums
+      domain: christianforums.com
+    quality: 39
   - title: "Want your photo removed from our facial recognition database? Just send us your photo and government-issued ID…"
     excerpt: "My hunch is that you wouldn’t be happy when you find out a company has been scooping up the personal photos you upload to Facebook or Twitter, and feeding them into its facial recognition database without your permission. But that’s precisely what a controversial firm you’ve probably never heard of called Clearview AI has been doing."
     publishedDateTime: 2020-01-25T08:25:00Z

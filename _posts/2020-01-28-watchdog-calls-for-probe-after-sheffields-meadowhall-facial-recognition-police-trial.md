@@ -39,6 +39,21 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "More than 40 colleges say they won’t use facial recognition on campus"
+    excerpt: "More than 40 colleges have said they have no intention to use facial recognition technology on their campuses amid a push from digital rights group Fight for the Future and Students for Sensible Drug Policy. The two groups launched a campaign earlier this month to ask colleges in the United States about their policies surrounding the use of the ..."
+    publishedDateTime: 2020-01-28T13:32:00Z
+    webUrl: "https://www.dailydot.com/layer8/facial-recognition-colleges/"
+    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-colleges/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-colleges/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Facial-Recognition-Campus-Fight-for-the-Future.jpg"
+        width: 1711
+        height: 856
   - title: "Springfield City Council finalizes facial recognition ordinance"
     excerpt: "SPRINGFIELD, Mass. (WWLP) – The Springfield City Council further discussed a possible ban on facial recognition technology Wednesday. The city council’s public safety subcommittee met to finalize an ordinance to introduce at the next city council meeting."
     publishedDateTime: 2020-01-30T01:31:00Z

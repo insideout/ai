@@ -8,8 +8,8 @@ ampWebUrl: "https://www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robo
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robots-to-prevent-cross-infection/?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Gizmochina
@@ -39,19 +39,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/zdxqblrfadpefqou_1581083925.jpeg?tr=f-jpeg"
         width: 1242
         height: 708
-  - title: "Can Artificial Intelligence Prevent Coronavirus from Spreading?"
-    excerpt: "The combination of human expert and artificial intelligence can efficiently eradicate the spread of coronavirus ... Since the usage of AI in several areas of healthcare, like recognizing brain tumors and enhancing treatments, has been successful. Therefore if the technology is used in the case of coronavirus, also there are chances that ..."
-    publishedDateTime: 2020-02-06T08:46:00Z
-    webUrl: "https://www.cioreview.com/news/can-artificial-intelligence-prevent-coronavirus-from-spreading-nid-31151-cid-31.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/3rido.25.jpg"
-        width: 300
-        height: 350
 
 secured: "OOvH3Mia6En14+LWkABoB0/SpADe5kGxhzA19YLxbmmH8myDzbOKAFP+D4HUFGuMaYJAoCmXTjEkp4TDJfgUPsYnuExvUHgMKMNz40oyLabl66j+Uj4ZH3vaJsJ03A/3Y1shJAbxwwmkSmnnXp0UEFMIhn/aKuJyfA5TJUHCAxrSBNBi72PKoWyb3PJ+sG8YJqowQ0g6v/yOelbVu+LP1dx1unrNTXsb3xXAaTNske+lD2wRSUxwWlRKXRoPjZtHdnPzv76otWGQXAJJ+ZO+Ht727lgeT+lq412bvAj4/VXDa9boZrpsITnHpUmPVlOO5UqbHDkX///+sQNRDP4QgQxTeKTA0RA7T4AWBtDrnndX10/Rvu2znVnKsfL0rzpQbm/wCqqwbboBphvNGq+Jqkb2L+KfFcJsxX7FhsKH3VHxoKK/3cE8qkxJ+n25RWEC3Q2Ti50of4HK8XfvaYtkDZu4tQu2Wp6iw7XhPoKj8y8=;WYogIGQlmzbkq3xzKzxiWg=="
 ---

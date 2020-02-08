@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "US House panel will discuss self-driving cars next week"
 
 related:
-  - title: "Will self-driving cars create more distracted drivers?"
-    excerpt: "Technologies like smartphones have made it easier to get distracted, but on the flip side, tech also seems to offer a solution. Self-driving vehicles could eliminate the dangers of distraction, but in their current state, they may do more harm than good. Distraction while driving is a serious issue. In 2017, crashes involving distracted drivers ..."
-    publishedDateTime: 2020-02-07T16:42:00Z
-    webUrl: "https://techaeris.com/2020/02/07/will-self-driving-cars-create-more-distracted-drivers/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 24
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2018/02/Uber-Self-Driving-Car-FI-1000x543.jpg"
-        width: 1000
-        height: 543
   - title: "Prediction: Market for Artificial Intelligence in Cars Will Grow 1,200% in Next Six Years"
     excerpt: "The market for artificial intelligence in the automotive industry will go from $1 billion today to ... for more assistive and autonomous features for improved driving comfort and safety, as well as realizing the goal of self-driving cars and trucks. AI-powered features are already being developed, tested and offered on consumer vehicles."
     publishedDateTime: 2020-02-07T19:07:00Z

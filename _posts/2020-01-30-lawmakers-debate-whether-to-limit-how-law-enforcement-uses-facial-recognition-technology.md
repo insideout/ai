@@ -529,15 +529,6 @@ related:
       - url: "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300001386cOEAQ"
         width: 272
         height: 270
-  - title: "London Police turn to facial recognition to tackle 'serious crime'"
-    excerpt: "London police have a new tool to fight crime: live facial recognition technology. Police says the tech will aid in catching criminals, while also helping those in need of assistance. The Metropolitan Police Service will begin using Live Facial Recognition, or LFR, according to a press release Friday. Tech company NEC will provide the facial ..."
-    publishedDateTime: 2020-01-24T19:58:00Z
-    webUrl: "https://www.cnet.com/news/london-police-turn-to-facial-recognition-to-tackle-serious-crime/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 49
   - title: "Facebook will cough up $550 million to settle facial recognition case"
     excerpt: "Remember the time when Facebook used to automatically tag you in photos uploaded by your friends using facial recognition? Now the company has agreed to pay $550 million to settle a class-action lawsuit for using the technology in Illinois. A report by the New York Times noted that the suit alleged Facebook of violating Illinois biometric ..."
     publishedDateTime: 2020-01-30T06:38:00Z

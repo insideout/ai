@@ -23,17 +23,6 @@ images:
     height: 501
     title: "Self-driving shuttle passenger services ramp up across the US"
 
-related:
-  - title: "Photos: Smart Columbus self-driving shuttle starts rolling in Linden"
-    excerpt: "Smart Columbus has launched its self-driving shuttles between COTA routes and community centers in Linden. \"To be part of innovation in a community that deserves access and equity is exciting for us.\""
-    publishedDateTime: 2020-02-06T12:00:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2020/02/06/photossmart-columbus-self-driving-shuttle-starts.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
-
 secured: "57Djx68jxtbC8sYg55FU/hQyMXIugVA6V13a0ZAcvEchqzJjAuY1hWcA+yMDckIB6aNus2A6ubc1Y3qZu13aPWQlAXGFXNu9EIr2RB7qB/Ilb/lmY3vb63NPiI5Sn+1uTyL9BRQdBxWcqtfZtl9YDM1BP/uPQaCGfp/Ba379jA8lSFbCsZI6+9yb8zEkfH/L1g/pPx5AK+bi3l5aNsddl5II8w4wGl88uqTvb8dOCvel8yNG9VumXVru/TMDu0LScw/1Bxry9aykWG+GspT0Ryjr7jmiVDy3+SvyAI8g7CAZMQpjlbgH3gqTBmZwaCm1lvX2d4vwgGLzToNVjPMDX3VTb7YoyBd2pVetkMaRVr/7NIls4Ne4JwDDV+mN8VMzSLMk7GkZq9wz5a/2WfCW3OAAlz+hr27p4egqhgVS+XOQ+BY6BXEOQNzie/KKO6jqNUGAOzfvjnftueAGSYlUi8WjlCMIlMBVPKGoK0uGrvs=;DQgUv4i8uTgFQZTCWefi9g=="
 ---
 

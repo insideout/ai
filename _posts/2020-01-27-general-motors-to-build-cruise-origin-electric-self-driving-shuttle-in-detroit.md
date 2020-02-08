@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-sh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp"
 type: article
 quality: 70
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -103,15 +103,6 @@ related:
       - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Report: Cruise Origin electric self-driving shuttle will be made in Detroit"
-    excerpt: "General Motors is reportedly planning to build the Cruise Origin electric driverless shuttle at its Detroit-Hamtramck plant—the former assembly plant for the Chevrolet Volt, as well as the plant expected to make GM’s electric pickup and some of the 20 electric nameplates due by 2023. An employee letter sent by GM’s VP of global ..."
-    publishedDateTime: 2020-01-24T19:45:00Z
-    webUrl: "https://www.greencarreports.com/news/1126870_report-cruise-origin-electric-self-driving-shuttle-will-be-made-in-detroit"
-    type: article
-    provider:
-      name: Green Car Reports
-      domain: greencarreports.com
-    quality: 2
 
 secured: "FzBJ2Tsf9mQ61hmbSRusOVGQs7tdXDOcUDe3TGMQCKL096CcgP+1x7sec8n+mwYrfQoXtwJrKb6iXjpbuZc2fdbM2ytDRxs0/7yZnPFJ8dTI7R+py+poMVp7Y45yjitlGv11mupYSMfAojcZW8saIbG4UsZovOenSM4NAxlgzTW9r3Sxf1gavZc2O/RN8C3vPjdGG2prPFaEUC92QiETqbEbC+HvrAv1tToVngS/QeT6R3VaNBPGzJ8hXOZFLv8DzOKYoYR6/fNuXauoFtf6Gmp/Y829/YkSDC5WWUSJN3K6+5+yQse9NX7zvsakietcorOgOBcsKWMCny0z00FricXmrPHmHB/lsq2SQDmfrVQZR9ins40gqO5WG9aucl3sDvjuFzUFrk2NHuObpCWQa3HDjdVnxjTbfCcWNj7dBYPGOlu5rQ5+4vXur0kSjjZpdZk0qptB3pAH9VBy9vlqKTMiIcA+M4FDO2Fwf38aITM=;FpsHeqvzEuH2RkvBUAYlQQ=="
 ---
