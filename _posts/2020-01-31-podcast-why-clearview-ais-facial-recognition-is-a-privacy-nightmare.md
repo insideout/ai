@@ -58,21 +58,6 @@ related:
       - url: "https://mondrian.mashable.com/2019%252F09%252F04%252F64%252Fbb5d4702626344ae995bccc7d17b927c.1137a.png%252F1200x630.png?signature=thQUzMw0eD4MHb166K_fP84zwIY="
         width: 1200
         height: 630
-  - title: "New Jersey halts police use of creepy Clearview AI facial-recognition app"
-    excerpt: "New Jersey is ahead of the curve — at least when it comes to stopping its law enforcement from using the creepy and potentially biased facial-recognition app Clearview AI. The app, which scraped billions of photos from the likes of Facebook, YouTube, Venmo, and other online platforms, drew the world's attention last weekend following a ..."
-    publishedDateTime: 2020-01-24T23:59:00Z
-    webUrl: "https://mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey/"
-    ampWebUrl: "https://mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 88
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F24%252F53%252Fc9b7bd94080a4f81b5f99ec464adff04.08837.jpg%252F1200x630.jpg?signature=yAzYMITbCIxJTHhBnTyFoFDHPXg="
-        width: 1200
-        height: 630
   - title: "This company scraped social media to feed its AI facial recognition tool. Is that legal?"
     excerpt: "Recent reporting has revealed the existence of a company that has probably scraped your personal data for its facial recognition database. Though social platforms forbid it, the company has ..."
     publishedDateTime: 2020-02-03T21:39:00Z

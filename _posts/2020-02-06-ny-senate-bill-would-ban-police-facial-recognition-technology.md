@@ -363,21 +363,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
-  - title: "‘Orwellian state surveillance’: Met police presents facial recognition cameras on London streets & faces backlash online"
-    excerpt: "The London Metropolitan police have announced that they will be deploying facial recognition cameras for the first time on the streets of the capital within the next month, prompting fears the move will erode civil liberties. Met police say that the ..."
-    publishedDateTime: 2020-01-24T23:06:00Z
-    webUrl: "https://www.rt.com/uk/479119-police-facial-recognition-cameras/"
-    ampWebUrl: "https://www.rt.com/uk/479119-police-facial-recognition-cameras/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/479119-police-facial-recognition-cameras/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 34
-    images:
-      - url: "https://cdni.rt.com/files/2020.01/xxl/5e2b1ec285f5406a5c364e7c.jpg"
-        width: 1240
-        height: 697
   - title: "Government watchdog attacks Met Police over roll out of facial recognition cameras"
     excerpt: "The Metropolitan Police has been criticised after announcing it will start using facial recognition cameras to target serious offenders in London. In a move to combat violent crime, the force plans to use controversial new technology to carry out live checks in popular locations. The cameras will target suspects involved in serious violence ..."
     publishedDateTime: 2020-01-25T22:28:00Z

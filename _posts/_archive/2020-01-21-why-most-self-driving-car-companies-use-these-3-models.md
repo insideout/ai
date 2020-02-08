@@ -1,15 +1,13 @@
 ---
 category: news
 title: "Why most self-driving car companies use these 3 models"
-excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
+excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ..."
 publishedDateTime: 2020-01-21T20:54:00Z
 webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
-ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
-quality: 74
-heat: 134
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: Mashable
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
-    width: 1200
-    height: 630
-    title: "Why most self-driving car companies use these 3 models"
 
 related:
   - title: "Apple's self-driving car system could use voice, gesture guidance"
@@ -41,58 +33,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
         width: 1200
         height: 630
-  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious"
-    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps."
-    publishedDateTime: 2020-01-25T14:44:00Z
-    webUrl: "https://www.businessinsider.com/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious (INTC)"
-    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps. Mobileye CEO Amnon Shashua told Business Insider that autonomous vehicles (AVs) can't be too cautious. If AVs take too long to get to their destinations, people won't want to ride in them, Shashua said. To increase ..."
-    publishedDateTime: 2020-01-25T13:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1-1028844526"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://images.markets.businessinsider.com/image/5e2b293624306a2d955068f4-2333/mobileye-2020-ces-shashua-5.jpg"
-        width: 1024
-        height: 768
-  - title: "Uber set to bring self driving cars to Washington"
-    excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
-    publishedDateTime: 2020-01-25T00:47:00Z
-    webUrl: "https://www.abccolumbia.com/2020/01/24/uber-set-to-bring-self-driving-cars-to-washington/"
-    type: article
-    provider:
-      name: ABC Columbia
-      domain: abccolumbia.com
-    quality: 39
-    images:
-      - url: "https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg"
-        width: 992
-        height: 558
-  - title: "Test shows promise of self-driving cars for transit"
-    excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
-    publishedDateTime: 2020-01-25T19:00:00Z
-    webUrl: "https://www.limaohio.com/top-stories/393877/test-shows-promise-of-self-driving-cars-for-transit"
-    type: article
-    provider:
-      name: The Lima News
-      domain: limaohio.com
-    quality: 24
-    images:
-      - url: "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_SelfDriving1.jpg"
-        width: 640
-        height: 431
   - title: "The road ahead for AV in the age of self-driving cars"
     excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
     publishedDateTime: 2020-01-28T10:25:00Z
@@ -106,7 +46,16 @@ related:
       - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
         width: 620
         height: 330
+  - title: "The Key To Tesla's Future Is Full Self-Driving"
+    excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
+    publishedDateTime: 2020-02-03T17:07:00Z
+    webUrl: "https://seekingalpha.com/article/4320979-key-to-teslas-future-is-full-self-driving"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
-secured: "lcq4pSgtrcKmuBxaW6uEM5Spmdw4VS4R69ZCILVoRiVFPBdhhqOoAg+1kDudii0ch1xOAJ3m43GTmU9vFztr0EiDrqLhPKgVh1HudfaByses9B/qDRcutaTRj05vAdIPp8m0cTSb3lv4bb5yNc2PvcjyF5vughClbavERo8/ScLRQ7pjIaDg7DTYeblLPU0gWHOtmL4+mTnsi0P111zzRFRaBmXxc5fKkr3Nrr79wXiOemy6o/LwhzarVZzT1uX6iTGJozDnqljyafPrTcZGUFzd9+qv2jdAAFjSzxWzmtCL1T0G0ZXkCoU6Gs+tP1Xv;0qe5cDAQ2/UXNikuSPmW1g=="
+secured: "/4cb55zcfPx6QVAUlNzg2nrCIlglFDcF+WVKDKAacydAaamNcBi7G6VC+FzZPIE4ZSkzTLG315v6PxqxDNdFuruI1F0Rk654AaCO+a7yfwg17Skuz+86p8F5+uZq9tTMhIUm1SvrlWlcNHvsTo7P/cmyU96zeNQ+TlH6lk4B/KsRtCnx2O3hhygCytFGYqLaQdWox4hpkDOsPI6MJ513BXHy47n76ZCuyaUJdN1WKxmZtImBTYYOsVCflxgYreuGuNlpeMkvhuiZNy4KXPFXrk2fUumaGIpwu8UqHro3G3bDBLJRaln4z650YkZRgi9hYAsQX4zzBuzfGn22AXvCrnQMjxmWzE7W3RYJX1YnKMayhqq3x/oq0V7v3rP6jVYvVyepmceX7Ww+qt1yBU5WSXbl2lWKFqvSfOdfIeSUC7ojQFhOYlZ1l3g45nhszcefJAiRP28AfOIaEJi+BzVS01KSim0gxySS33yHJGUyEiI=;7YT0LOXTKbOmOXDxeAxo9Q=="
 ---
 

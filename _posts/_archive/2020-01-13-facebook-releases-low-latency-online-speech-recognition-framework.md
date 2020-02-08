@@ -4,12 +4,10 @@ title: "Facebook releases low-latency online speech recognition framework"
 excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
 publishedDateTime: 2020-01-13T17:32:00Z
 webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
-ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
 type: article
-quality: 89
-heat: 99
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat
@@ -23,12 +21,6 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
-    width: 1200
-    height: 600
-    title: "Facebook releases low-latency online speech recognition framework"
-
 related:
   - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
     excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
@@ -38,12 +30,8 @@ related:
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 54
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-        width: 849
-        height: 565
+    quality: 34
 
-secured: "Aje0QLJ1Cmgtjo6r+tOtDPhMtVlVMjYHiqIfomX79ornNsorZ7sZwP+zgtSRLrRo9qKDZ03M56R63aMe/lJY2KGNXmNjBhiq89AXzQW1h3HwZPKEAP6KVexZzgjE8SDUqXxPhRofNavJsvxIAeeM4m1JRSbFvd9GKiEzA+XVBeSOxNrjSdFNrAH3RKUnAJCf9x6vd1+vDqL0vDqPKalbWJqCaPoEke0xc+WORL8KZFhk0cTHrfriEbIgF4atW1YCwjUNxMfLRtsz4ADx5ZU6DbFWyse5JwDSz4x+Ul1Kon9aRbc9+BqjFOe2dBKi9Fsk;n8sxZ9mQpuAP6YWpU0VD7Q=="
+secured: "vZSJ/6Bsz9adXY9dCZobX57/Qu4R6TMFipMlBjPomOWWgJVd0hRq7QUx1YUMKnqcuN6S+hDRmOsLlYDcFchxu0/LtMdBwxm3v2jqtq19q0cDX8fKTsxkGJa+FyoOr81cEMEm8ode0Ja27YW4ZzWi5uKgp3DJS9Ud4kBTx5ihUNgyIHos8LuDpRxl4ev4o6W3sBFSCYv1QoBS5sGgEy3kzwfoXWYKAZJfsINMlThFxo7Q6EAGmPyr/nZabu2zIM5Na/V0WkLfp2Gfxu23Q1cUip9vi3hLanKS0VuNdpBUzTc3PNHXGzB5Seze8ie6eqqX;EQYhIaEPLa0oPLWJeFsv3Q=="
 ---
 

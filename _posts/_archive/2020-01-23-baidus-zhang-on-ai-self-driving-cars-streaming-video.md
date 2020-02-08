@@ -78,16 +78,20 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20181017073142.Medi.jpeg"
         width: 800
         height: 448
-  - title: "The Key To Tesla's Future Is Full Self-Driving"
-    excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
-    publishedDateTime: 2020-02-03T17:07:00Z
-    webUrl: "https://seekingalpha.com/article/4320979-key-to-teslas-future-is-full-self-driving"
+  - title: "Uber set to bring self driving cars to Washington"
+    excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
+    publishedDateTime: 2020-01-25T00:47:00Z
+    webUrl: "https://www.abccolumbia.com/2020/01/24/uber-set-to-bring-self-driving-cars-to-washington/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
+      name: ABC Columbia
+      domain: abccolumbia.com
+    quality: 39
+    images:
+      - url: "https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg"
+        width: 992
+        height: 558
 
-secured: "omXYOo9ylfNUE2VtN3JXfc+/ysLBq342MdkLKMPIfHlnux2y1d0Bs+ZcPxv3sxu7DmGlEAeXI1LL0K3Zn/N0Z55w/306JafvR593PHxVL+rB1M/7TqAdnUXoZjH0pC/fhq87cMyFV5LwPPSvWRJqpoJJz0GiGPosg2BHG540Cl4sUfCVeaDXDbbIEi8ik0gumUZnebUMoVY1AcdhwT25BEjdSBKApMQcfd6kZ4rZeRfh84mbWThPjmyrCZsUo9UgNkh/0I7FVKfjNiubK1A4DF3DDbfA8BpFfGW3OFmue5nbNpYfGlncJH//QzT2rqIQ;Z5hGd/p2lYwgbKXO11BIFQ=="
+secured: "Q74XiL7OHDcJzRa6wHzsnIxd9HrkFON+PVsrCgW+71AkRTxIfo2YYVzDNK1zno1YpL0I0es5LIS2ZJpZF3RmWo4feaMw5LxsG77ZSd6qaOAfpOMwXvRW37mQv/hoHqQAConNmI4R124CdRZNZrIUyhOdxuFj3+tYaIsa4ph9a40bbvM7zzpIkEVOwkIDk/oZmcS/vGTjPZqY71AcVXaXarMWnTqLa4W4eNfFqrEw13XiyLQzy6SCbhNQRpL5NLdNpLXM7i4m4fQq0aDZmsx+RgyxHGSTAUqpJrJePTr+L2Q5F4DkO02wl5HfzUl5zINR;cGPB7RSJiJr1FKmqa7xBRw=="
 ---
 

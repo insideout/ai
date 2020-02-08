@@ -39,6 +39,15 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2020/02/disinfection-robot-6.png"
         width: 580
         height: 428
+  - title: "Coronavirus | China turns to Artificial Intelligence, big data"
+    excerpt: "data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if they have taken the same flight or train as confirmed virus patients, scraping data from lists published by state media. In Guangzhou, southern Guangdong province, robots at one public plaza have even been deployed to scold passers ..."
+    publishedDateTime: 2020-02-08T16:45:00Z
+    webUrl: "https://www.thehindu.com/news/international/coronavirus-china-turns-to-artificial-intelligence-big-data/article30771991.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 19
 
 secured: "YiDjvMj6Q4uRD2l1FAFB55S1sBySC0Ct+0ksqzgfse0iAScYs0rI9S6kTNFUM2A1wNqApgi+i38me1yID259z5664UmP5Dv0hA893fZVwkQtgHAulliGj10I0khb9THbGreC/YLy1Ae2nBEpA4SyNZxd+Yayg/TvrFbSedC0+GyEM1aaKE34Sag0JqnWnocWLqcVeC1wndPd8d+D9LKCmueGiDBIHhmkMeAFQflbhX30KtAnhu2SWNqmhbwdraHMEnAe/6JDlyK6g5m7t9ozQ4uzOfUb+UYdtV3IGjo1944CfgeuxY7YUWsm8sjW0/Mt;rSb4AIq7s5R5ZXfMKA9vLQ=="
 ---

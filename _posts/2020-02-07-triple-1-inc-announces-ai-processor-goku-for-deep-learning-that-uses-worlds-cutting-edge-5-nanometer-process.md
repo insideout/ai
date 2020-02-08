@@ -1,27 +1,21 @@
 ---
 category: news
 title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
-excerpt: "\"GOKU\" is an AI processor for deep learning that uses the world-leading 5-nm process born from the development of the TSMC 7-nm process \"KAMIKAZE.\" It utilizes core know-how such as design ability, optimization of power consumption, and yield improvement in cutting-edge processes cultivated in the \"KAMIKAZE\" project started in February 2017."
-publishedDateTime: 2020-02-07T08:07:00Z
-webUrl: "https://www.tmcnet.com/usubmit/2020/02/07/9093993.htm"
+excerpt: "/PRNewswire/ -- TRIPLE-1, Inc. (henceforth \"TRIPLE-1\"), based in Fukuoka, southwestern Japan, has announced the development of the AI processor \"GOKU\" for"
+publishedDateTime: 2020-02-07T07:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/triple-1-inc-announces-ai-processor-goku-for-deep-learning-that-uses-worlds-cutting-edge-5-nanometer-process-301000799.html"
 type: article
-quality: 33
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
 
 related:
   - title: "TRIPLE-1 unveils AI processor ‘GOKU’ for deep learning"
@@ -51,6 +45,6 @@ related:
         width: 1280
         height: 720
 
-secured: "TYED0d2U4NJQFfhP/tbVQKpKla42A8MnGO/7Z9TQ9JrukHzySAhhg6NqrNbutXVEJpJWTSH7ieiH6LGcnPWk5L8HHfHtJOdDFtaJ8Ke7+2w2gXZF3gnQe9FjV+UwkfDeF6LS1xzfsklOkPBlZz8oO2NyEuuFoxD8mfL4Mj210z7J7tyBcxdVm1gqUWvgMzzuDA1MH5NBD//b9Q70XGxm1nNfDaOJ/xpEI4D33osT+Z+exHDaEwRXhVdVf5MeQmnUM3fcZtsVmbYdtYhBczDAXKAspeFYqKWj530Wop1Rlfra+56g3vkG+SHt9EA9/+w2;hsrTw2524oukYHrlvyfgFg=="
+secured: "uR+N2cneJpZwVavXTMLb/hLQicR7eRLwhU6rHYhcQULsdMRBfh937lezbSzEsTacQkOlcLG4j3yiUnSmxhwshx+T952gYuBhlt28dWVqavQRikG0O9RVXaNUP/CsMwGId/47aOfvRk5ZrE14POMg6DImZG6yNH4/vmCGtZiZ3mc/6ennSRU3lt6vWWBWENqKruPvZ83lTwZS4uxr4N3fX0gFjc7A6mp9KQ3tQxNPMoBRVSFtl6AE7AvEA47wNaqav9hLP6ktSVxMjX0skslTt+8hH0vAqhH9hHrHucmMUzla1eNwmXsraLjQcxwELxxm;GlRQN/32/z4Cm4BR5rQ7vg=="
 ---
 

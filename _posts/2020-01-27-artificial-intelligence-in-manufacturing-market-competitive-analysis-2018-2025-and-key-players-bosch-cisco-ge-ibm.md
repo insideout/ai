@@ -24,34 +24,37 @@ images:
     title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
 
 related:
-  - title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
-    excerpt: "According to Gartner, artificial intelligence is still in the early phases of the hype cycle. Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for mainstream adoption, manufacturing leaders are already stuck in a ..."
-    publishedDateTime: 2020-01-23T14:34:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
+  - title: "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis"
+    excerpt: "The Leading Distributor of Market Research Reports, DeepResearchReports.com published latest report on \"Global Artificial Intelligence (AI) in Fintech Industry Report\". Artificial Intelligence (AI) in Fintech Market segment by Application."
+    publishedDateTime: 2020-02-03T09:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis-2020-02-03"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2019/04/16/cc5d2e5c-2d75-433f-a9a7-034a858b46e6/resize/1200x/8e5aaa1afe23fa7488ee8e296e79d3e3/istock-861189644ai.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
-  - title: "What Machine Learning Trends Can We Expect for Manufacturing in 2020?"
-    excerpt: "Google’s Cloud AI Platform, Amazon’s Web Services, IBM’s Watson and Microsoft’s Azure Platform are all excellent examples of AI and machine learning solutions based in the cloud. As we head into 2020, they will continue to dominate across all sectors. What this activity means for manufacturers is quite simple. Not only will it be ..."
-    publishedDateTime: 2020-01-28T12:38:00Z
-    webUrl: "https://www.manufacturingtomorrow.com/article/2020/01/what-machine-learning-trends-can-we-expect-for-manufacturing-in-2020/14643"
+        height: 630
+  - title: "Global AI Machine Learning Market: Facts, Figures and Analytical Insights 2019 - 2029"
+    excerpt: "The research study on Global AI Machine Learning market 2019 presents an extensive analysis of current AI Machine Learning market size, drivers, trends, opportunities, challenges, as well as key AI Machine Learning market segments. Further, it explains various definitions and classification of the AI Machine Learning industry, applications ..."
+    publishedDateTime: 2020-01-28T06:41:00Z
+    webUrl: "https://www.openpr.com/news/1910247/global-ai-machine-learning-market-facts-figures"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturingtomorrow.com
-    quality: 41
-    images:
-      - url: "https://www.manufacturingtomorrow.com/images/articles/14643.jpg"
-        width: 680
-        height: 340
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
+  - title: "Global Speech and Voice Recognition Market"
+    excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice Recognition report helps make known uncertainties that may come up due to changes in business activities or introduction of a new product in the market."
+    publishedDateTime: 2020-02-03T10:10:00Z
+    webUrl: "https://www.openpr.com/news/1916446/global-speech-and-voice-recognition-market-analysis-of-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "e3R9bMHv5yiKZ0ghch4SQUjukpioVBAZoincK44PsN+IbDgF7RrPY5fbGbAWzTODsLhos6HhzhYtg3qUuNUjOV3kNqLYrW/HnKjF5rYzz5QmN+zc81ut4wvDPpEg1xNB0NM+9ywPXPxSGs+mSZvYq2thQXZ6qVjSTtc1W/eeKImcd0Qmw2OZ0ojox91DOlppVjpSZgalEcXJSjkqFi532nPqSQEZD6c+seAL1xL74YxEdNz44v3XR7DFv5ocmiUTgoalsDdgHZOIJAG4nAqFMwoFd6EYpg5Fakcg2bDbX7PmpuM9JOQNks4g57Unmuac;fZHZqxWAJPtGEXTKds4+zA=="
 ---

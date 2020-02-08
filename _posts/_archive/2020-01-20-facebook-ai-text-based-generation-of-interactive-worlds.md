@@ -5,8 +5,8 @@ excerpt: "In an attempt to make the relationship between such game elements more
 publishedDateTime: 2020-01-20T21:00:00Z
 webUrl: "https://medium.com/syncedreview/facebook-ai-text-based-generation-of-interactive-worlds-36cce3790fe3"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: "https://miro.medium.com/max/1200/1*wjzxkhVEKIvah_Ye22bz_g.png"
-    width: 1200
-    height: 703
-    title: "Facebook AI | Text-Based Generation of Interactive Worlds"
-
-secured: "rp9WQPsNhA9NcY0pdXZMy6cujLaknJ6YzK5UBn4fzTEXCtlyB29QuLAPY0X1v3MIGfqL5BYPy1dfuy2XJUrjXfiSIeLiW53SPK9ICodDYsGLo7SdCpiiYwaZNgvGHqIMwon0LyDDi946+hu/rtXZ/pMw2R495gDOCqYwmKVm1x9FPw5aEJUVOLXJQVqx6n+K+vY63qyYrIEayjjyACvf1s29aQTTLI84UFbgv7o2jmmRLbCtcS65Y0KeU13bOl53YV8ZcuVzdGhVQTYH2pJzLYYZyzssDwLJShYR4KZkcVkostRtEYs8QkoR4vf/aNmC;TQueda5FateEWZFo/1H3fg=="
+secured: "s/vhnJRBJlY1Xb06xPiSRhU81dcHffMLJ3B7UaWsgHEL6VaRfbIkoTxXXc1gPGO1C4y2fxhVVViuNV9Fu9LwqVIbJjhEMXpC0Gc/Umz85d5bexrjncNimxDiESpZam0MteY+aq1s6uBiN5TvjRFYx3Vp14uWgjwiceNFajlfxXEvFAikrWadcpUntOhkjO2NAgopEEcMHEi+A/DcbDo+LyY+kPLKw+ye8GSVE6wy699V6yTPD8co3hpc2LuROJciR3Nf6b4tlVbGqQ4M8Otnm7TWaAhUAMX4T+JGjUSJ8G675lPRAuYqHx8QXkOH4ZfK;9Y8a3KrB3VG+aralEMZCfg=="
 ---
 

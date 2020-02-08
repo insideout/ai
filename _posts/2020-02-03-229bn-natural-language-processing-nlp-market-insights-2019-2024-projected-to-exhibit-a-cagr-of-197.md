@@ -1,19 +1,17 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
-publishedDateTime: 2020-02-03T10:44:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
+publishedDateTime: 2020-02-03T11:44:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -80,6 +78,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "YPpkDs0b0dyXzOzCej75vlgO46XakY3kQhKRQceOFoqRoaNgkDGIQ9n4wFz1GVwJKW7V4+yLeyJxuYcx3gA3lh2JMCCdhvK8q9jSx+NWXBnuDowC+ewDxN+dWJN9w/YeUb1+BT95yt/WoQWuY3OEovfXg7JFMSyN1gsjnkA/6Tjr9XNcxL1cSU38a5x9jRq3ZlKUt4ExhbG3f8JYElrfT4CAe7cMliEeCcJV/DafdmT5VSDY1IEWr4FL/HuCO5Lr8zLeaoEfw46oGpKGPEsbKfd/dXud8Edr7pRbMrnfNmuMJY/oNmmcuuUUZAcfsO++;pyh0aOh3ow4HPLd5DapD5A=="
+secured: "l5Ia5U/lzngD7gdxzsj5/02OXLpS/77PbYrwPWX3KLukQQokRmaiy2zbO8ltcsJxQwim90A5fcoqzS0xbjVoslo2SDmxZEgEXAo+mGsUT577R4rO54DtnkI+/uzzghAQy7MQBo/ioatTr71CXoiB8ONpbeshOfNSDGIu2j135QneMqInMz5qCf/v0+pfbawN9ISd7oKbrT1aLtqIqtEu3vtm96xT8nNvRF+Qb7tpplzIx1gz7iNKUq8c6mTL1z4aTSmOrN+DauUgPJSJW0RV58sQOeU9xpCqvZsQ/lTS91+ZtO5nl7wUGNroCRZOd+VB;FZFTSWCYFZJsmCPPS7qYAQ=="
 ---
 

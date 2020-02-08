@@ -1,14 +1,12 @@
 ---
 category: news
 title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
-excerpt: "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a license to start testing driverless cars. Waymo is moving forward with plans that could be easier and more lucrative than operating robotaxi services. Specifically, the company is developing self-driving trucks. Compared with providing robotaxi services ..."
+excerpt: "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a ... Specifically, the company is developing self-driving trucks. Compared with providing robotaxi ..."
 publishedDateTime: 2020-01-21T11:55:00Z
 webUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/"
-ampWebUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -19,27 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/Googl_1600.jpg"
-    width: 1600
-    height: 900
-    title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
-
-related:
-  - title: "Machine Learning: Automating Businesses for the Future"
-    excerpt: "Predictive analytics, artificial intelligence, and machine learning enhances the consumer-centric services and has changed the ways different business activities are performed. The most immediate way by which businesses utilize machine learning is for bettering their competitiveness by automating back-office processes. The majority of which is ..."
-    publishedDateTime: 2020-01-25T03:33:00Z
-    webUrl: "https://www.cioreview.com/news/machine-learning-automating-businesses-for-the-future-nid-31096-cid-207.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/dtrw7.105.jpg"
-        width: 300
-        height: 400
-
-secured: "DyIjxtwJKTh0pyuwmIb5prG6M1Oy4ZlzX+aYtthj2hVLb3q/aUsQYwnOtrg6xZjqWHpdvdm232OlKjvWnjOyAp/cal5jVxZTyAeHox4EA0VLku0+MMKBW+Gs0uFEb1gwzcWEDXCJChcN+Tt5HPY2f2yF0chuO3u/vl/S7dMVCT/RhCSiBFH9Sm62jFT++9AfJo1zxvcykC1qVLxa9sskwShI+7huRxvVc4uxKrG3XimR9mb2nOXMKSM9uG2hdccBvpE50Mz457xWvcg7muXwYXkCVRCcFE7MUp5BJGZM1ibO/9h82NSyrvxvS7ut53w2;ESmoOwc/rcd4xc9kKiWsKQ=="
+secured: "2O3r8dr8cxrbBelwCejWEiQPmDr941qLxGPr3mGIFbuj7hqrzzGDBDd+jsSGWT8JV/EwYU6p0PIf4PrTS0RhVDhiT20pJFP2t3pfOBAA44HCFGwz5Ujl2qQysqeRcqeIFvgRpJyrIllVz+QXlA38Y6153khUDJLK2FMhA1FJySWCgWpbbok35zsv/F1DAMrXRkPCRV/CzqE3Q8wV6frAy17hJFSFKEf+UVdndN44AbMpznZOxdrLDirEBjuvA/hJ89mMtwRyPlQ3ZRcfcaKURGKwKC7FNVhb5er60pGnxCvKyzI9ckTVXuWtPSpydfLKGws9doufKDOmxSU9jXhmFX/ZBDWaZC18TldNIevAJ2EjTvNOePOW01hxuwwacZrkzMTKbY6pAWgj3mPcoweMAWhIGq993bnBhM9uzwYIrlbFuswp5h84b0RvW1DvUQWCHI+4NKPy+WPzEyPdl+/rhVq/Sf21n/9ut1CfCqDBXXw=;EvuaOzsHOY3WbtTmY1XOOw=="
 ---
 

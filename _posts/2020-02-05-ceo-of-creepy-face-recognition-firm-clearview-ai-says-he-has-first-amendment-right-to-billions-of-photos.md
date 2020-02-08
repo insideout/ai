@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
       - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
         width: 1200
         height: 630
+  - title: "Clearview AI says the First Amendment lets it scrape the internet. Lawyers disagree"
+    excerpt: "On a CBS This Morning segment on Wednesday, Clearview AI CEO Hoan Ton-That said his company has a First Amendment right to access public data, including photos from YouTube, Facebook, Twitter, LinkedIn and Venmo. It uses those photos for a controversial database primarily accessed by law enforcement. (Disclosure: CBS News and CNET are owned by ..."
+    publishedDateTime: 2020-02-07T11:54:00Z
+    webUrl: "https://www.cnet.com/news/clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 41
 
 secured: "cpiAjLR+Vameqc9bjZJYEqaryLLjtS5m1VHanuGPuu9qrfqO4XEtg81SwblVcxqP4+n1GWW4s0OGW5Gf2G+rI9dJ4aypAVlPAx4SqGaIdj43D4LxrgBtjj2fM6ior1mvF4int/E2RUHyZbAiVQb1MLMLFRJQVkyuWhP+zfok1esr41LIhMZEe46KlrqXHhhcg4VWD4eWSrbcdkqmMZr4HzXT8v5v6a+YhnKGMLgBu4B15Ws+snWwUjAw7Hf95VZXyUm5b6j15se6I3Zl0F3DeGxrDSTTpQ6c4KLf9dmnWcIyrFPsuLXeTWtY91JnR0tSnGDuNrSC8hzL9a9Mgkh7BYdK7yCBVx6H8mVNdxWcVKtlcC/XRXHiOEUvRwfX3mOM7Ia5AIh3Jo1w2xJFUuSosn6AHnMJUojv6GkOKLWPehHLnnwT4RpPqY+OFEuEuNvQvJtvGWBUGN4GHLiG7tPq3e9CgqVXYc5sXdb4UVT6ijg=;NIGaBA+/RODvlOxyE3voqw=="
 ---

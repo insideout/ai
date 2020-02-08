@@ -4,12 +4,10 @@ title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
 excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
 publishedDateTime: 2020-01-20T12:57:00Z
 webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: Mint
@@ -19,25 +17,17 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-    width: 600
-    height: 338
-    title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-
 related:
   - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:18:00Z
     webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
     type: article
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 69
+    quality: 49
 
-secured: "DKZB08aFqvBTn8cN++PRm76Qwfq2g6VtB5k7r98mf5fwCXTT3lUrjXOjO5sVEGBaz/BS/50lfwwvu2giYNFDoIHzi1oe3MMn+YftaaeLRRFNEjFvrj32dHcRq7B6mUclu5lEPWfF9ONpvEGdX7WPc3sNobpZcMzZCbfJ6xeuLWn26/B5jw6Dovbu8Q4GBgmvUBgsk95Yshpc7uUQDn4yyCzb6d4wzol9BgzPl1OIzN1Fn6h8CiAGYSue90ZTgoi0stXBQV6pxx0cYM9zsmW8zvWZUAJzNR6wKyGjq62xMwtETlPc5Z7H3ko6HSkbTiHk;hcBYc/qDbs5KHP9H0Ig8xw=="
+secured: "xSZApKF+4FlprHx8jzeBgFPFV5DcU83wVNjL+QE9m8dhKgFOIXi5JaNoH3cu0SiviU0HVcAlIByKj5bI/LbNT1Pb3IeQr/SaCCqI3LJ+w9t023AmMb7VZPE2gR4n4A5FsWpzHhblEGf6WANsphtnP0rZ6m4DEkuQVOFyz/Umo9eIVHabFx9k5HGfT9YtLrfthhQ9zyhY4P2BLTzXsPAFrBm2tw8mNKCaEU8pJPCajhtWksr09ffBZU6yu8r90giNKS4HpHeT0PojsM7oTCsWJ7uXB7eiIV0VRP6KNrnm4xsoqVsUXOQQx8GRLGs6hol0;s4emT1QF3Vw8T8fIUrEHkA=="
 ---
 

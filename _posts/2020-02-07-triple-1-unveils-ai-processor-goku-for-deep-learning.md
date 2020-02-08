@@ -25,19 +25,6 @@ images:
 
 related:
   - title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
-    excerpt: "\"GOKU\" is an AI processor for deep learning that uses the world-leading 5-nm process born from the development of the TSMC 7-nm process \"KAMIKAZE.\" It utilizes core know-how such as design ability, optimization of power consumption, and yield improvement in cutting-edge processes cultivated in the \"KAMIKAZE\" project started in February 2017."
-    publishedDateTime: 2020-02-07T08:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2020/02/07/9093993.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
-  - title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
     excerpt: "It may differ from the actual product.) - Development background In recent years, various companies have entered the AI chip market, including not only giant IT companies but also fast-growing start-ups in China. As competition for edge AI chip development intensifies, oligopoly supply by several major companies continues in the deep-learning ..."
     publishedDateTime: 2020-02-08T00:26:00Z
     webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/triple--inc-announces-ai-processor-goku-for-deep-learning/article_070b466a-90ec-5054-bc5b-16e2a2c9413a.html"
@@ -50,6 +37,15 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+  - title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
+    excerpt: "/PRNewswire/ -- TRIPLE-1, Inc. (henceforth \"TRIPLE-1\"), based in Fukuoka, southwestern Japan, has announced the development of the AI processor \"GOKU\" for"
+    publishedDateTime: 2020-02-07T07:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/triple-1-inc-announces-ai-processor-goku-for-deep-learning-that-uses-worlds-cutting-edge-5-nanometer-process-301000799.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
 
 secured: "Iu605j+85lhbDaUy+pyiKqHTa5ZuwOeJgsrKkLbgimetQRslEjbgzqTzuBiws3m0qXLiXSDqBh04V1JcNRaWb4BChstSsaeBVrhE8cYTjw1xaqJs7KawgbAqaYmva4a9/3UXT/yR+e239pg0nCu+nifwa/ynto340i1eFRWLilasK8uc88+z8ARLbS9NRkGQ6zBDODizd1MgY9RXw3eh0ASqzT4X+2xkFGUxsU7tjh7emG5lHHW7iwKM8TJxg86/fnijkY3woip2VvclSu/ucMdh9oMyOCNWv2tpVPZbeT98cq7ueLef/kD23SSkhTHO;0znwIXWY6cK0pUGBefYaRQ=="
 ---
