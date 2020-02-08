@@ -78,6 +78,19 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2010/05/HBRAS_research_paper.png"
         width: 1200
         height: 675
+  - title: "Reckoon's Blockchain & AI Enabled Solution is Shaping the Future of the Retail Industry"
+    excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
+    publishedDateTime: 2020-02-04T17:39:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/reckoons-blockchain--ai-enabled-solution-is-shaping-the-future-of-the-retail-industry-300998820.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1086082/Reckoon_Global_WishBasket_Shopping_Protocol.jpg?p=facebook"
+        width: 1199
+        height: 628
 
 secured: "ztIcN0rm8g95wp75dz84kBAGCP2rAHPowottelINMttwCUKFSpaJqEpQVc2PV5irYXWvGZWukM2A1Y1BasChLrEwabGBMIqDknEdXmXmtheSXIxHibZDJHcyVB9gsliem4mxuXhzBvIwx9CgFbW8kQVFQeLC4cYKDPU2GZEdDmHY7apyBkI0pMB2n7+dZVaRHr+aMKCf4R3i6kIHUyl1dK4VU/GD7X6mf6gRa4sLkonnKHluTG7eNhCbywy++VNtRU7lNmeraaTzzehnEzoEX+iSaI5nsTfyYQ15hIdutLc4xWWQaf/LA0RjgxnDlUW0emd4jTPaQkN+DctMQLGysoG9jtx++xjdwzz0P+0jNybwRyRexQ5s9/Lt0c9WzkT1JKIYya1uzh71i/BMsFF0vAqxtBsnZk/OrDiG2t3C2oCQX3GwNcM0AN+I2Gs22mZRMBuovfPguam16amkRLShRH6px+qAxedvO51IifWTZ4Q=;/DRMZnq7+0Az6+qI5PBeHQ=="
 ---

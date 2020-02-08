@@ -23,21 +23,6 @@ images:
     title: "Artificial Intelligence Company in Crystal City Wins Plans Expansion After Big Investment"
 
 related:
-  - title: "Tech firm, after $75M investment, plots global expansion"
-    excerpt: "uses artificial intelligence and machine learning to analyze customer interactions via call centers and other channels. That analysis provides its more than 400 clients — which include some of the world’s largest brands, financial institutions and communications companies — with actionable recommendations for improving customer service ..."
-    publishedDateTime: 2020-01-24T11:38:00Z
-    webUrl: "https://www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion"
-    ampWebUrl: "https://www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion?amp"
-    cdnAmpWebUrl: "https://www-businessobserverfl-com.cdn.ampproject.org/c/s/www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion?amp"
-    type: article
-    provider:
-      name: Business Observer
-      domain: businessobserverfl.com
-    quality: 44
-    images:
-      - url: "https://www.businessobserverfl.com/sites/default/files/278691_standard.jpeg"
-        width: 1933
-        height: 1289
   - title: "Axel Maier joins welath investment AI startup MDOTM"
     excerpt: "His knowledge of the asset management industry will be key in speeding up the international expansion of the Fintech company, which - after the 2018 series A funding - managed a rapid expansion in Europe thanks to its cutting-edge investment solutions that use AI to adapt to the financial markets’ complexity and to the customization needs of ..."
     publishedDateTime: 2020-01-27T12:22:00Z

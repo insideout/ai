@@ -500,21 +500,6 @@ related:
       - url: "https://localtvkstu.files.wordpress.com/2020/01/courtesy-met-police.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 800
-  - title: "Police introduce facial recognition cameras to hunt ‘watchlist’ of criminals"
-    excerpt: "Scotland Yard has announced plans to use controversial facial recognition across London, despite concerns over the technology’s accuracy and privacy issues. The Metropolitan Police said every ..."
-    publishedDateTime: 2020-01-24T11:57:00Z
-    webUrl: "https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/"
-    ampWebUrl: "https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 56
-    images:
-      - url: "https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/01/PRI_118868082.jpg?quality=90&strip=all&zoom=1&resize=600%2C400&ssl=1"
-        width: 600
-        height: 400
   - title: "Government privacy watchdog under pressure to recommend facial recognition ban"
     excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
     publishedDateTime: 2020-01-27T21:31:00Z

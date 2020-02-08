@@ -90,15 +90,6 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20181017073142.Medi.jpeg"
         width: 800
         height: 448
-  - title: "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)"
-    excerpt: "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ..."
-    publishedDateTime: 2020-01-23T00:00:00Z
-    webUrl: "https://www.bizjournals.com/nashville/video/6082077878001"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "The Key To Tesla's Future Is Full Self-Driving"
     excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
     publishedDateTime: 2020-02-03T17:07:00Z
@@ -108,15 +99,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
-  - title: "Uber self-driving cars, with humans in control, to cruise Washington"
-    excerpt: "WASHINGTON -- Uber Technologies Inc. will put self-driving vehicles on Washington roads Friday with human drivers in control, the ride-hailing company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self-driving in Dallas ..."
-    publishedDateTime: 2020-01-24T11:37:00Z
-    webUrl: "https://www.autonews.com/mobility-report/uber-self-driving-cars-humans-control-cruise-washington"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 4
 
 secured: "hRUbVZRwDQb4gk02jFh2wFSdyhX3+VZ9EavgBkXEW940OiHk+50J2qATkB02rRYDCi8GlijgtFvQl/BrtfzyY0CJh85A8fnOvyQgL8vciaezZL7Z1yw30QCsIHftS0erQ4wJ541DR/k/wZHfmKQDc5b4TawxJUkChMTVotRvie1Ke4/GN6uEfta2nqqBu/OOGrNaiV7WIci+WnzSkmtLD4gJ0/QG7LOn4cD2HtvLLWDsgrU80Lygo03gunPy9MEiKFQx4DZ0aXaefEe9kBaj+y8+MuNjkSbd0RdjhoHE9uYJFTfOwr2B7K+T2N1+zlBaaGpUZU0AUvPvSrmAKlqcDIGsJS8c4KL7m0Z+asNVcwxwuKVc9nUZBYKgNl3vDjEh2PmC/qQBnM42wjlebCG2OlODJsKhm7bpm/5pEdWHfo/W7JZzNl5gxQMLl7p/pnnL73LTueyDJeULy+k8TRr7OCbPH2+plz60LzMgA4ikrcQ=;LPoPWyOXcwsUwkLacqdF9Q=="
 ---

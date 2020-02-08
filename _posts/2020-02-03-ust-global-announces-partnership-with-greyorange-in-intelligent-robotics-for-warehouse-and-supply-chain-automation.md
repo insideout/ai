@@ -50,6 +50,30 @@ related:
       - url: "https://images.tmcnet.com/tmc/iot-mag/images/iot-mag-0115.jpg"
         width: 252
         height: 335
+  - title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
+    excerpt: "PARIS--(BUSINESS WIRE)--Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels ..."
+    publishedDateTime: 2020-02-06T09:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200206005222/en/Yseop-Launches-Augmented-Analyst-Next-Generation-AI-NLG"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
+    images:
+      - url: "https://mms.businesswire.com/media/20200206005222/en/771287/23/Manche_H_YSEOP.jpg"
+        width: 1200
+        height: 627
+  - title: "Yseop Announces Augmented Analyst, the Next-Generation AI NLG Platform Featuring the Most Advanced Intelligent Automation ..."
+    excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels of user-adoption ..."
+    publishedDateTime: 2020-02-06T09:07:00Z
+    webUrl: "https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4"
+    ampWebUrl: "https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
+    cdnAmpWebUrl: "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
+    type: article
+    provider:
+      name: Calgary Herald
+      domain: calgaryherald.com
+    quality: 12
 
 secured: "cIkaVzmioK6umzFAdl/vTpooru3s3Rggn8D6ON8bMvD17Y8OLktttuJLs6QVqviJBxCwRK1J2wfRyKftg2B8ZWjWkwXpPzAlAtAg2FPSXM5SfcYWLEsWZoYygB1zrpkpkbH8vDObzz+NNAkiOvLFfzvpOt82Lid4KAFPWUpDwPbx4e/PSe+glswiorwjoaPN63UjHkpQLbM/PQT0LvOD3T82961ZLmz8rMXlYT4PnMnyQZ8Od1Bj0smTdi1eqghr3gwoMIOR3nCYSUjVOImHOCMDC83e8TBODNgsSXglUe6rGly9nIUS1s/0NA/py9/h;6owg8H9zaX+PLQjt7Ojb+Q=="
 ---

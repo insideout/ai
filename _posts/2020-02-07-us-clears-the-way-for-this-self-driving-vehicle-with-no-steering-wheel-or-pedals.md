@@ -101,21 +101,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/8k-lRQK2Dutoix3kDWRdfo1bBIc=/2020/02/06/26455c98-4cd8-44fa-a8b3-880df866df5c/ogi-nuro.jpg"
         width: 1200
         height: 630
-  - title: "U.S. House panel to hold hearing on future of self-driving cars"
-    excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies,"
-    publishedDateTime: 2020-02-07T20:50:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-autonomous-congress-idUSKBN2012K2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2012K2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2012K2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200207&t=2&i=1487254704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG161PZ"
-        width: 902
-        height: 545
   - title: "Uber gets California DMV license to test self-driving cars on public roads"
     excerpt: "In May 2018, Uber announced it wouldn’t renew its permit to test self-driving vehicles in California, citing caution in the wake of a fatal accident involving one of its autonomous cars in Arizona. (The California Department of Motor Vehicles requires that companies apply to test autonomous cars in the state.) But in a bid to close the gap wi ..."
     publishedDateTime: 2020-02-05T17:00:00Z
@@ -404,6 +389,6 @@ related:
         width: 1920
         height: 1280
 
-secured: "2SIsSleirBl1+kEjPOtVYGWlT836iPSypIbGOwl++7EVdaEu6bWtuLg900mghQTcxqRU/GjaRFlhUsxkHwv9jSR9HAV1pCusRYI/flisqZRfc48W3qUNcpmjQ9xpN+upV3HGOBPyGWedwUMxtng503ZqsGlDQ1PErusvhC9OCY+YJKi4Msn5IJi61auY/CPq94ehgJyBmfYsYudSf2V5eiPW1sOiSI4f1xEQHXBdDz65fQtPMv9v6ZaB/tZPCjCYqvTTflH72wD7voKQwN+FZuwsUlwj7hvRFrIc4craBdw722aIudEGh8KvnoHZEkgL;D9cB2HzJaFmAcuhWIkgObA=="
+secured: "i50qzBjbFXpth3/nENKDkfoUT20SMmlR+yFH8vPJZrtzWiqSSbeifnqdMHptbx1/xH+Lpfn6qNBE/kxqvT/hwYmAdd0wF+BKn/JcuDy8zmTuR9/hyZAJCB9SHzSHmHjP2JpkdqX7gNjDCmCqqZZq+HdenCo9lBWfjXXSXwB5py3evh/bl8rnLR7weC4XqxITXHi4DlX39uTTCUvsejHI8OTYkORtDQ6PlBxaUcVgAmzTWKHfm1zjAskyPRZZTHl6zLm0k7l7vAELnrBs/KnoOG8ChTivxau+3m98sNyk/QBGeyoIu6ajs5WrNQ6AorQHoOXlu/nDjYPAAS0/S/jHQDthc40F37bcmniIJDY7216gsT5BD6OmtK6ATCQLN1UIXjst/BlhdGuC+OJQ+WakRdYRphXnVuHvfK+5hIMsQWfzOsnsTBVwUB9eJcKQdkF5PTlSV4G4X9MlCbso+HSkf0hDyQ6HaO7hl16y9+erBGs=;EW5ouHs8jdY6BM/lclub9A=="
 ---
 

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Police are about to deploy 'privacy destroying' facial recognition cameras across London"
-excerpt: "Facial recognition cameras are set to be deployed across London for the first time, the Metropolitan Police has announced. The roll out of the live facial recognition technology is expected to begin within a month and is designed to help the police tackle serious crime by locating and arresting wanted suspects – but privacy groups have ..."
-publishedDateTime: 2020-01-24T12:59:00Z
-webUrl: "https://www.zdnet.com/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
+title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
+excerpt: "The Metropolitan Police is to begin using its controversial live facial recognition (LFR) technology on a standard basis, despite concerns about the impact of the surveillance software and its legality. In a statement on Friday the force's assistant commissioner, Nick Ephgrave, said the Met was making the technology \"operational\" following 10 ..."
+publishedDateTime: 2020-01-24T12:54:00Z
+webUrl: "https://news.sky.com/story/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
+ampWebUrl: "https://news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
+cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
 type: article
-quality: 80
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Sky
+  domain: sky.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg"
-    width: 1200
-    height: 675
-    title: "Police are about to deploy 'privacy destroying' facial recognition cameras across London"
+  - url: "https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615"
+    width: 1600
+    height: 900
+    title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
 
 related:
   - title: "London police deploy real-time facial recognition cameras"
@@ -298,6 +294,21 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F01%252F24%252F8f%252Fe45391542f244300abce8e004744f264.dbee4.png%252F1200x630.png?signature=Jv-_6kRL_ZmhIw_aPKprHejEK2o="
         width: 1200
         height: 630
+  - title: "Police are about to deploy 'privacy destroying' facial recognition cameras across London"
+    excerpt: "Facial recognition cameras are set to be deployed across London for the first time, the Metropolitan Police has announced. The roll out of the live facial recognition technology is expected to begin within a month and is designed to help the police tackle serious crime by locating and arresting wanted suspects – but privacy groups have ..."
+    publishedDateTime: 2020-01-24T12:59:00Z
+    webUrl: "https://www.zdnet.com/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg"
+        width: 1200
+        height: 675
   - title: "Rift emerges between regulators and businesses over Portland’s proposed facial recognition ban"
     excerpt: "Portland still seems on pace to impose a dual ban prohibiting facial recognition use by both government agencies and private entities such as retailers and other businesses. But a City Hall session today illuminated what could become a more pronounced point of contention: some local businesses and tech firms could oppose a private-use ban."
     publishedDateTime: 2020-01-29T01:01:00Z
@@ -504,21 +515,6 @@ related:
       - url: "https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
         width: 620
         height: 349
-  - title: "Police introduce facial recognition cameras to hunt ‘watchlist’ of criminals"
-    excerpt: "Scotland Yard has announced plans to use controversial facial recognition across London, despite concerns over the technology’s accuracy and privacy issues. The Metropolitan Police said every ..."
-    publishedDateTime: 2020-01-24T11:57:00Z
-    webUrl: "https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/"
-    ampWebUrl: "https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 56
-    images:
-      - url: "https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/01/PRI_118868082.jpg?quality=90&strip=all&zoom=1&resize=600%2C400&ssl=1"
-        width: 600
-        height: 400
   - title: "Government privacy watchdog under pressure to recommend facial recognition ban"
     excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
     publishedDateTime: 2020-01-27T21:31:00Z
@@ -534,21 +530,6 @@ related:
       - url: "https://thehill.com/sites/default/files/blogs/facescan_facialrecognition_020314thinkstock.jpg"
         width: 645
         height: 363
-  - title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
-    excerpt: "The Metropolitan Police is to begin using its controversial live facial recognition (LFR) technology on a standard basis, despite concerns about the impact of the surveillance software and its legality. In a statement on Friday the force's assistant commissioner, Nick Ephgrave, said the Met was making the technology \"operational\" following 10 ..."
-    publishedDateTime: 2020-01-24T12:54:00Z
-    webUrl: "https://news.sky.com/story/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
-    ampWebUrl: "https://news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 54
-    images:
-      - url: "https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615"
-        width: 1600
-        height: 900
   - title: "Amazon’s New Facial Recognition Smells Your Fear"
     excerpt: "Amazon Rekognition is the company’s controversial face detection and analysis technology. The name alone sounds like it comes from a Paul Verhoeven movie. Since its launch in 2016, critics have ..."
     publishedDateTime: 2020-01-30T00:00:00Z
@@ -913,6 +894,6 @@ related:
       domain: dailybruin.com
     quality: 10
 
-secured: "kK2+xlnrM4UBzseaXS2pm2ovLXWc5t3q96H+sk78q/gbpCsay9eKqJMHlC0dNn9Krs2uWu0H6L2lAsTH+8AgeQyW5zaAQjeYJz+Jh71QpITKZo/4jYY3ext4PhtlGzqd8Ufietw0XcQxBRx0IeZXeIkzq13CAoAYtMZpkMpPxXsDhz8DZ8TcK93Eg24RE8eIAAiDb2vbX+3FUlrhrmcnH050vu2rccMe0mlDvQYXakR4S/2tfF0S0wJZ4eZ6LvGMMKB2wvOFk104TIF8o5Vu/2m14WmVNy1RRtU3cHGZOQHY8/Y002B2o9Xh/8crlQ/m2lzY7y+y+9XjM4H+Z/86JZnDZR6+Be3TsqEsNjVJzD+OzJCG9RBGeZkMYxLJV7e0M4e95/yytTdt97UfTQh/21cOwiaVIM/101WcNzGZAu54hgZGKYwtjmo3y2Fa4nWznx+nswzQqm6iVyQELoMx1uLUms4ojbUeUtXedrSCOj0=;MgVnOED3ikvjLSEl+D1DnA=="
+secured: "8Afzz2dTaMVjMZtj7jDDZEgXEkUu7Gsn8N4bUUE5MdSdIPoLrueY6bTsoDJ8hDf3zGpYH7KVUJpgM6d+sfAgvMComudiAp7Nyj/lOFxwM+b2uK4AiLqPrGWB60Z89kauA6tcFn3h9w9Z1lCPhs1NRZ9YQWNpz34N/jGQw0ql1YQkZab5zLz42HePgfZTVl834sCQ7Gt9AdIz4NezoiHZPMcMk9iyLZYX3Puo+JDv+xunuANk/NhwDBOtp0a6GHeVBIeJnM/4C3xQHsqR8rSFAl8lYpLFEh/fJFTAiHblu7Y7B+0hF8TrR+uslJNg79wG;koteWl5TRYji2HDbPpp91w=="
 ---
 

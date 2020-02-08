@@ -114,21 +114,6 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/8FqC5fGGG-ESQmUCNaRaTsCGlKc=/756x567/2020/01/25/86869401-a05f-455d-9af6-b4215f70ceea/facial-recognition.jpg"
         width: 756
         height: 567
-  - title: "Twitter demands AI company stops using its images to fuel facial recognition"
-    excerpt: "Twitter had demanded that an AI company stops taking images from its website to be used with facial recognition software, and deletes the images it has collected thus far. Clearview recived a cease and desist letter from Twitter, after it emerged it has harvested more than three billion photographs from sites such as Twitter and Facebook ..."
-    publishedDateTime: 2020-01-24T11:58:00Z
-    webUrl: "https://www.itpro.co.uk/policy-legislation/data-governance/354628/twitter-demands-ai-company-stops-using-its-images-to-fuel"
-    ampWebUrl: "https://www.itpro.co.uk/policy-legislation/data-governance/354628/twitter-demands-ai-company-stops-using-its-images-to-fuel?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/data-governance/354628/twitter-demands-ai-company-stops-using-its-images-to-fuel?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 101
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/v1579864686/FacialRecognitionApp.jpg"
-        width: 4707
-        height: 3138
   - title: "Facial recognition scanners at US airports under scrutiny as Philadelphia launches pilot program"
     excerpt: "PHILADELPHIA – A growing number of airports across the U.S. are using facial recognition scanners. Philadelphia International Airport (PHL) is the latest to roll out the technology. “So, this is an electronic way, basically, to verify identity,” said Jeni Best, a branch manager with U.S. Customs and Border Protection (CBP). At PHL ..."
     publishedDateTime: 2020-01-29T22:10:00Z
@@ -219,21 +204,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1139859542.jpg?fit=1800%2C1415&strip=all"
         width: 1800
         height: 1415
-  - title: "London police begin using live facial recognition tech across the capital"
-    excerpt: "Meanwhile, Europe wants to ban the technology for up to five years. London's Metropolitan Police Service has begun using live facial recognition (LFR) technology. At key areas throughout the city, signposted cameras will scan the faces of passing people, alerting officers to potential matches with wanted criminals. According to the Met ..."
-    publishedDateTime: 2020-01-24T12:05:00Z
-    webUrl: "https://www.engadget.com/2020/01/24/london-police-live-facial-recognition-public-streets/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/01/24/london-police-live-facial-recognition-public-streets/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/24/london-police-live-facial-recognition-public-streets/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 88
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5760%252C3840%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252Fc5114770-e5eb-11e9-a9df-f281948b7062%26client%3Da1acac3e1b3290917d92%26signature%3D2f7e99f345791a940f75a8565dcf76868e4974ae&client=amp-blogside-v2&signature=2998c7c1c78777521b7e4451311fe444f830f18e"
-        width: 600
-        height: 350
   - title: "How to enable facial recognition in the BitWarden mobile password manager"
     excerpt: "The latest version of the BitWarden Android client supports facial recognition. Find out how to enable it. You need to be using a password manager. Period. There are simply too many reasons to be doing so and too few reasons to not. For the longest time I used EnPass, but eventually decided I wanted to migrate to an open source solution that ..."
     publishedDateTime: 2020-01-29T19:19:00Z
@@ -309,19 +279,6 @@ related:
       - url: "https://static-news.moneycontrol.com/static-mcnews/2017/03/railway-wagons-rail-goods-freight-transportation-coal-cement-378x213.jpg"
         width: 378
         height: 213
-  - title: "Met Police to deploy facial recognition cameras"
-    excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of suspects but an ..."
-    publishedDateTime: 2020-01-24T11:41:00Z
-    webUrl: "https://www.bbc.com/news/uk-51237665"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 69
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg"
-        width: 1024
-        height: 576
   - title: "London to deploy live facial recognition to find wanted faces in crowd"
     excerpt: "Officials at the Metropolitan Police Service of London announced last Friday that the organization will soon begin to use \"Live Facial Recognition\" (LFR) technology deployed around London to identify people of interest as they appear in surveillance video and alert officers to their location. The system, based on NEC's NeoFace Watch system ..."
     publishedDateTime: 2020-01-28T22:39:00Z
@@ -911,6 +868,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "0HZo/yEPRN4XG9MAiR/LT89ZW9Cz5EJJA19DVGkzhKIGznSPKaW0HWxsqYiUEAVIXV6ogqb9vYhja2zhZn7w/Udzm6bJRGLchMhkC43eS5nZWox/mehbEqBzhsP0I1AnpfdkDbB38Bf1ufB8VCGb7Cs25pcoU/wJlvhCAysUHVOLN79gDn5852DJsl2+vVjFaTiuH1jhwwvyNqzKjZCHwu6qBYMJ7n5IPK8pBy1aHm/xZ10zWVZMWH9T0KO8KlsAJYB40rH7fPmIG3BrTCgHEDqJCat2DbLqEqrHvwljNzWnRbwr+QFZc8lMwjcGsDkr;pU5gLqRpj+bcR1YMXXWVZA=="
+secured: "O5e8hDqGGA0bfgoBKt0Nw9S4YRnYUUiDXCnNrucmz0ROanEVQyyAUF/wWX2Ip8ZcV5fIO8jN2cnzsX3LQQHo73ODMGQp7vXueDhKHr1Ll1XzbtgYUci/sWA1Uv17Bbxm+SA1GZNMGg5EKgEs4cx386zhbmRkXnr0y3oesbcxjgoY7LARQTtkdWmcxnLGmBJqRi4cocpIyid+7e+q5OzZg0kZF0MseMnLzi7lUxbVQqpgT/XNayG07SGPLlY9A7kpfwyF8Gr7n2isywAdLDAEbasQadQufdymPu4UI11Xs9wlFMn6bfWt87YFNHrpBHbZ;JoeRI+ZAWistpsNo0ouQnw=="
 ---
 

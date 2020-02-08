@@ -1,21 +1,33 @@
 ---
 category: news
-title: "Facial recognition cameras to be rolled out in London amid privacy concerns"
-excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
-publishedDateTime: 2020-01-24T12:51:00Z
-webUrl: "https://mashable.com/article/live-facial-recognition-london/"
+title: "Police to roll out live facial recognition cameras in London"
+excerpt: "British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog."
+publishedDateTime: 2020-01-24T12:55:00Z
+webUrl: "https://www.reuters.com/article/us-britain-security-cameras-idUSKBN1ZN1H2"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZN1H2"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZN1H2"
 type: article
-quality: 47
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200124&t=2&i=1480741019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0N1A7"
+    width: 882
+    height: 545
+    title: "Police to roll out live facial recognition cameras in London"
 
 related:
   - title: "London police deploy real-time facial recognition cameras"
@@ -106,21 +118,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1074319514%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4681%26cropY1%3D279%26cropY2%3D2913"
         width: 1199
         height: 675
-  - title: "Police to roll out live facial recognition cameras in London"
-    excerpt: "British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog."
-    publishedDateTime: 2020-01-24T12:55:00Z
-    webUrl: "https://www.reuters.com/article/us-britain-security-cameras-idUSKBN1ZN1H2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZN1H2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZN1H2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200124&t=2&i=1480741019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0N1A7"
-        width: 882
-        height: 545
   - title: "New Jersey Bars Police From Using Clearview Facial Recognition App"
     excerpt: "Reporting about the powerful tool with a database of three billion photos “troubled” the state’s attorney general, who asked for an inquiry into its use. New Jersey police officers are now barred from using a facial recognition app made by a start-up that has licensed its groundbreaking technology to hundreds of law enforcement agencies around the country."
     publishedDateTime: 2020-01-25T01:47:00Z
@@ -507,21 +504,6 @@ related:
       - url: "https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
         width: 620
         height: 349
-  - title: "Police introduce facial recognition cameras to hunt ‘watchlist’ of criminals"
-    excerpt: "Scotland Yard has announced plans to use controversial facial recognition across London, despite concerns over the technology’s accuracy and privacy issues. The Metropolitan Police said every ..."
-    publishedDateTime: 2020-01-24T11:57:00Z
-    webUrl: "https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/"
-    ampWebUrl: "https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 56
-    images:
-      - url: "https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/01/PRI_118868082.jpg?quality=90&strip=all&zoom=1&resize=600%2C400&ssl=1"
-        width: 600
-        height: 400
   - title: "Government privacy watchdog under pressure to recommend facial recognition ban"
     excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
     publishedDateTime: 2020-01-27T21:31:00Z
@@ -624,6 +606,15 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
+  - title: "Facial recognition cameras to be rolled out in London amid privacy concerns"
+    excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
+    publishedDateTime: 2020-01-24T12:51:00Z
+    webUrl: "https://mashable.com/article/live-facial-recognition-london/"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 47
   - title: "London Police are setting up live facial recognition cameras and people are not happy about it"
     excerpt: "London is already the most camera-crazy city outside of China, but now some of those cameras will be running facial recognition software as well. If you’re on one of the many “bespoke” watch lists held by the Metropolitan Police (the Met), cameras in tourist-heavy areas will be looking out for you. They’ve been trialing the system for ..."
     publishedDateTime: 2020-01-24T18:11:00Z
@@ -907,6 +898,6 @@ related:
       domain: dailybruin.com
     quality: 10
 
-secured: "nNtYVL5Ml9ZZY4+a+HP3gk8mvv4LbVWdUF0aoLJs1KVL+KN8lW6BnKzXuCyHR7tGcVolC7RckdJbdjb5X2H1HzBRIrsAZ15uH4TMiDMXL7orsdmgY6Eyg8LMl7q7pxwi63nkj94hJFdMwO8pcFN0zDm0U3BgdW+Hqpk+FXO0u/i88iXBZVRHC3VQltbUtV2MtMzkMnc9oYaNPUlg4qetmT7yoAfW1MQo8MITbnFMeKmBWSraLtlsWl9wvUTQARWAzjGVGimTRfFe+YASbSQVlHAnCRhfdF+WViftDTCfy8pDAZIJ+diuE+ZGfGXi+cOOZ5iGLz+ZDOCIeTY4PTmEEfRlnICYgPwbbiDOSOjkyGtV8ZjBg/HsqkQnr0HP49ituwPF0HZHHSTa2joitnvdmrxuk99wI/U5KRrvRrQk19zEwdiuGwhJkvkAMVgxH15GnMumEk8kTLxpdNFIm6JUGSjOMVjWUOyiF+YPJC8TyN4=;ZOo576zUDieVyqm+qMlZZQ=="
+secured: "UtMu1smuatlezkHzDKyMRMSyBj290k0aUnzpBCCiE0RkPym2cbQJ5wzpso1NTZucE91NQAoJaXrJyqsQyqaPPCQCzsKhPiZMusrm50+z3rN2KQo/BGvBeOPAe5NAGST/L/fAlrOH7IM+SQJhrXNaauPoD9dN2OYNE88ufDxdC9c+HhXreyWi2avVX5O17v49Hx9iSzjEC1sR/6+hBu83dkSN1eEcb7pJRYo/Fp9aA4ynD4qh+algp0MOcIFlyKpJED0rT0md2cv4THqtMo9++ng6j47dG1EwGiFWB8ts2MngJP1FgTZVq7MhhqXwlyP3EdmZSwLq1qBnq07puJuKhAfDDn3AO3l9ofreccd6kbAUSqSIdb60GcpJqimkPqjXD1vb8Uri20qU5EYePPwPDlI1Y5yGMtASNFaVffbe++9koqU8qYBn3GAJNHjp6ZRp9moVLn/IA78W898AdiCh26wgl7ompwygRtUp/NwfQUY=;V9cEEqCtIq29/UzcNl2c4A=="
 ---
 

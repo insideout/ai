@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-27T12:22:00Z
 webUrl: "https://www.finextra.com/pressarticle/81256/axel-maier-joins-welath-investment-ai-startup-mdotm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     title: "Axel Maier joins welath investment AI startup MDOTM"
 
 related:
-  - title: "Tech firm, after $75M investment, plots global expansion"
-    excerpt: "uses artificial intelligence and machine learning to analyze customer interactions via call centers and other channels. That analysis provides its more than 400 clients — which include some of the world’s largest brands, financial institutions and communications companies — with actionable recommendations for improving customer service ..."
-    publishedDateTime: 2020-01-24T11:38:00Z
-    webUrl: "https://www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion"
-    ampWebUrl: "https://www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion?amp"
-    cdnAmpWebUrl: "https://www-businessobserverfl-com.cdn.ampproject.org/c/s/www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion?amp"
-    type: article
-    provider:
-      name: Business Observer
-      domain: businessobserverfl.com
-    quality: 44
-    images:
-      - url: "https://www.businessobserverfl.com/sites/default/files/278691_standard.jpeg"
-        width: 1933
-        height: 1289
   - title: "Artificial Intelligence Company in Crystal City Wins Plans Expansion After Big Investment"
     excerpt: "Scoutbee, a tech company based in Crystal City, is looking to scale up after winning $60 million in a round of investment funding. The company builds software that links artificial intelligence (AI) technology and big data to create more efficient supply shipments. The technology can track trends and make predictions based on extensive data ..."
     publishedDateTime: 2020-01-27T17:04:00Z

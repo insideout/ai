@@ -1,19 +1,17 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
-publishedDateTime: 2020-02-03T10:44:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
+publishedDateTime: 2020-02-03T11:44:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -80,6 +78,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "i0w4w6RuwY1y+wtBFRyCQJDe7sh8zc+/JUBYq0wVvYlR7z2mJDj9EVMGg93My4TazpfpQrOxPPYuqjXQPFWoHkFx/C6OOOgNObf2Cr29PX77r7oD4bamb3RqvNS6k5WAkwYhNzjSOr4b3GYjgTrcpVL+3mcT25PwihCCIWcUJI5DSzhUfD0ePLiMNnQOJPpd422icigrlkuo3Y6hoo9TDBFCeMj0uGIELY3pizTPLM4yyna2TW2uqXI/z9D5mfCVfj0U430nFUS2Q2CQXlnQN+PkuSBJb7mso2L4NtzDdz5PEbUuySTNRTQHxHXx0Nz/;5SEs9ondz/EAfxl06TEK+g=="
+secured: "av9Ylz3+svzMpSLSHEHi9JMD+TMBwOdwCB+N97sBMqpwk0ZXpCcsoe3J3g/02QVzuSLsih2208G2TQUbkbICj3zE7e8SuGeRJyO/SHG86IGJlXaTcKcmK6UvHgAV4X9yIye54b4KttQIfASmFShuGlYJyjVuckiOAL35a0/FqhdV3I+4SjVV27DkIxC8YL4Lauo4jtpybQkJO14gFJOk0GkvnAjQLi8WVwKhySLuwSHgG7kAGB7JNK8UwaI3wnxfwugpUpIpA705DI6TZVUVFeZzhYkQ3C390t70nprG1Z8B/pmDZjwCfVVCjEaU0ZL7;wDJ2IMy+nGJXUwHjzjJOhA=="
 ---
 

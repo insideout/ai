@@ -7,8 +7,8 @@ webUrl: "https://www.fxempire.com/education/article/watch-out-what-do-elon-musk-
 ampWebUrl: "https://amp.fxempire.com/en/watch-out-what-do-elon-musk-and-bill-gates-know-about-artificial-intelligence/439421"
 cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/watch-out-what-do-elon-musk-and-bill-gates-know-about-artificial-intelligence/439421"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Google AI
   - AI in Autos
   - AI in Robotics
+  - Microsoft AI
 
 images:
   - url: "https://responsive.fxempire.com/cover/615x410/_n/_fxempire_/2017/09/iStock-137336221.jpg"

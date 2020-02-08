@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-25T03:33:00Z
 webUrl: "https://www.cioreview.com/news/machine-learning-automating-businesses-for-the-future-nid-31096-cid-207.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,28 +24,21 @@ images:
     title: "Machine Learning: Automating Businesses for the Future"
 
 related:
-  - title: "Benchmarking Deep Learning Architectures for Predicting Readmission to the ICU and Describing Patients-at-Risk"
-    excerpt: "To compare different deep learning architectures for predicting the risk of readmission within 30 days of discharge from the intensive care unit (ICU). The interpretability of attention-based models is leveraged to describe patients-at-risk. Several deep learning architectures making use of attention mechanisms, recurrent layers, neural ..."
-    publishedDateTime: 2020-01-24T13:06:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-58053-z"
+  - title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
+    excerpt: "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a license to start testing driverless cars. Waymo is moving forward with plans that could be easier and more lucrative than operating robotaxi services. Specifically, the company is developing self-driving trucks. Compared with providing robotaxi services ..."
+    publishedDateTime: 2020-01-21T11:55:00Z
+    webUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/"
+    ampWebUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 19
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 44
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58053-z/MediaObjects/41598_2020_58053_Fig1_HTML.png"
-        width: 330
-        height: 685
-  - title: "International Business Machines: Doing Better Than You Think"
-    excerpt: "Cloud & Cognitive Services continues to generate positive ... Granted, the cloud growth rate does not match that of Amazon (AMZN), Microsoft (MSFT), or Google (GOOG). But still, in Q4 2019 ..."
-    publishedDateTime: 2020-01-23T23:03:00Z
-    webUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-you-think"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
+      - url: "https://investorplace.com/wp-content/uploads/2019/07/Googl_1600.jpg"
+        width: 1600
+        height: 900
 
 secured: "hnxKVKT0LOmYSmomGj653mg7IpNkHUU76YYIqJnWSpnlEfKaqpRm3qZpZWj4oQL7K/RckYRaEKmkvKb4AyiQPhX2VMic7e8Epog4V85r6eCkqSGEXOf1WPa/1RcGTIvkFYMfmaB+N5f/2TojsBvuilxyC0d48g5/8/oMhz0KXdiO2bpRYpATmohGiLRJIhBmichePg7T8bzrYmZ3qyp4Sb8cgjZERW6kQuZepstZcX1D8rKwienEcRS1yUxNEg/r7KR+2PQD6VtOvtBBap1A6t3E1yzRPgGqWCdgxM8og0l64BwAWSIGWQh1q5NACmRp4IfDHpDLwL6CsrDbtqAKCawzRu20eXJ0sFdZRmTvsODinV6GktgrrLbGnqqsfnKyxKkYlYV/kRrCdggRAg+rhnIkZakWERDbGfT8HE9xTJU8J1QMmg1vhvf7lPUzEtyc1SODszamJy5pY/mmw2jICgl/S+RrEYHOdkSUmi+OXzk=;ELzLJfh2bFAadnuiVlrC8Q=="
 ---

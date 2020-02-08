@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
-excerpt: "The Metropolitan Police is to begin using its controversial live facial recognition (LFR) technology on a standard basis, despite concerns about the impact of the surveillance software and its legality. In a statement on Friday the force's assistant commissioner, Nick Ephgrave, said the Met was making the technology \"operational\" following 10 ..."
-publishedDateTime: 2020-01-24T12:54:00Z
-webUrl: "https://news.sky.com/story/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
-ampWebUrl: "https://news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
-cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
+title: "Facial recognition cameras to be rolled out in London amid privacy concerns"
+excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
+publishedDateTime: 2020-01-24T12:51:00Z
+webUrl: "https://mashable.com/article/live-facial-recognition-london/"
 type: article
-quality: 54
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Sky
-  domain: sky.com
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615"
-    width: 1600
-    height: 900
-    title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
 
 related:
   - title: "London police deploy real-time facial recognition cameras"
@@ -515,21 +507,6 @@ related:
       - url: "https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
         width: 620
         height: 349
-  - title: "Police introduce facial recognition cameras to hunt ‘watchlist’ of criminals"
-    excerpt: "Scotland Yard has announced plans to use controversial facial recognition across London, despite concerns over the technology’s accuracy and privacy issues. The Metropolitan Police said every ..."
-    publishedDateTime: 2020-01-24T11:57:00Z
-    webUrl: "https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/"
-    ampWebUrl: "https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 56
-    images:
-      - url: "https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/01/PRI_118868082.jpg?quality=90&strip=all&zoom=1&resize=600%2C400&ssl=1"
-        width: 600
-        height: 400
   - title: "Government privacy watchdog under pressure to recommend facial recognition ban"
     excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
     publishedDateTime: 2020-01-27T21:31:00Z
@@ -545,6 +522,21 @@ related:
       - url: "https://thehill.com/sites/default/files/blogs/facescan_facialrecognition_020314thinkstock.jpg"
         width: 645
         height: 363
+  - title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
+    excerpt: "The Metropolitan Police is to begin using its controversial live facial recognition (LFR) technology on a standard basis, despite concerns about the impact of the surveillance software and its legality. In a statement on Friday the force's assistant commissioner, Nick Ephgrave, said the Met was making the technology \"operational\" following 10 ..."
+    publishedDateTime: 2020-01-24T12:54:00Z
+    webUrl: "https://news.sky.com/story/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
+    ampWebUrl: "https://news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 54
+    images:
+      - url: "https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615"
+        width: 1600
+        height: 900
   - title: "Amazon’s New Facial Recognition Smells Your Fear"
     excerpt: "Amazon Rekognition is the company’s controversial face detection and analysis technology. The name alone sounds like it comes from a Paul Verhoeven movie. Since its launch in 2016, critics have ..."
     publishedDateTime: 2020-01-30T00:00:00Z
@@ -617,15 +609,6 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
-  - title: "Facial recognition cameras to be rolled out in London amid privacy concerns"
-    excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
-    publishedDateTime: 2020-01-24T12:51:00Z
-    webUrl: "https://mashable.com/article/live-facial-recognition-london/"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 47
   - title: "London Police are setting up live facial recognition cameras and people are not happy about it"
     excerpt: "London is already the most camera-crazy city outside of China, but now some of those cameras will be running facial recognition software as well. If you’re on one of the many “bespoke” watch lists held by the Metropolitan Police (the Met), cameras in tourist-heavy areas will be looking out for you. They’ve been trialing the system for ..."
     publishedDateTime: 2020-01-24T18:11:00Z
@@ -909,6 +892,6 @@ related:
       domain: dailybruin.com
     quality: 10
 
-secured: "8Afzz2dTaMVjMZtj7jDDZEgXEkUu7Gsn8N4bUUE5MdSdIPoLrueY6bTsoDJ8hDf3zGpYH7KVUJpgM6d+sfAgvMComudiAp7Nyj/lOFxwM+b2uK4AiLqPrGWB60Z89kauA6tcFn3h9w9Z1lCPhs1NRZ9YQWNpz34N/jGQw0ql1YQkZab5zLz42HePgfZTVl834sCQ7Gt9AdIz4NezoiHZPMcMk9iyLZYX3Puo+JDv+xunuANk/NhwDBOtp0a6GHeVBIeJnM/4C3xQHsqR8rSFAl8lYpLFEh/fJFTAiHblu7Y7B+0hF8TrR+uslJNg79wG;koteWl5TRYji2HDbPpp91w=="
+secured: "nNtYVL5Ml9ZZY4+a+HP3gk8mvv4LbVWdUF0aoLJs1KVL+KN8lW6BnKzXuCyHR7tGcVolC7RckdJbdjb5X2H1HzBRIrsAZ15uH4TMiDMXL7orsdmgY6Eyg8LMl7q7pxwi63nkj94hJFdMwO8pcFN0zDm0U3BgdW+Hqpk+FXO0u/i88iXBZVRHC3VQltbUtV2MtMzkMnc9oYaNPUlg4qetmT7yoAfW1MQo8MITbnFMeKmBWSraLtlsWl9wvUTQARWAzjGVGimTRfFe+YASbSQVlHAnCRhfdF+WViftDTCfy8pDAZIJ+diuE+ZGfGXi+cOOZ5iGLz+ZDOCIeTY4PTmEEfRlnICYgPwbbiDOSOjkyGtV8ZjBg/HsqkQnr0HP49ituwPF0HZHHSTa2joitnvdmrxuk99wI/U5KRrvRrQk19zEwdiuGwhJkvkAMVgxH15GnMumEk8kTLxpdNFIm6JUGSjOMVjWUOyiF+YPJC8TyN4=;ZOo576zUDieVyqm+qMlZZQ=="
 ---
 

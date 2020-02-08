@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Police to roll out live facial recognition cameras in London"
-excerpt: "British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog."
-publishedDateTime: 2020-01-24T12:55:00Z
-webUrl: "https://www.reuters.com/article/us-britain-security-cameras-idUSKBN1ZN1H2"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZN1H2"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZN1H2"
+title: "Police are about to deploy 'privacy destroying' facial recognition cameras across London"
+excerpt: "Facial recognition cameras are set to be deployed across London for the first time, the Metropolitan Police has announced. The roll out of the live facial recognition technology is expected to begin within a month and is designed to help the police tackle serious crime by locating and arresting wanted suspects – but privacy groups have ..."
+publishedDateTime: 2020-01-24T12:59:00Z
+webUrl: "https://www.zdnet.com/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
 type: article
-quality: 89
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,10 +24,10 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200124&t=2&i=1480741019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0N1A7"
-    width: 882
-    height: 545
-    title: "Police to roll out live facial recognition cameras in London"
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg"
+    width: 1200
+    height: 675
+    title: "Police are about to deploy 'privacy destroying' facial recognition cameras across London"
 
 related:
   - title: "London police deploy real-time facial recognition cameras"
@@ -118,6 +118,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1074319514%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4681%26cropY1%3D279%26cropY2%3D2913"
         width: 1199
         height: 675
+  - title: "Police to roll out live facial recognition cameras in London"
+    excerpt: "British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog."
+    publishedDateTime: 2020-01-24T12:55:00Z
+    webUrl: "https://www.reuters.com/article/us-britain-security-cameras-idUSKBN1ZN1H2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZN1H2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZN1H2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200124&t=2&i=1480741019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0N1A7"
+        width: 882
+        height: 545
   - title: "New Jersey Bars Police From Using Clearview Facial Recognition App"
     excerpt: "Reporting about the powerful tool with a database of three billion photos “troubled” the state’s attorney general, who asked for an inquiry into its use. New Jersey police officers are now barred from using a facial recognition app made by a start-up that has licensed its groundbreaking technology to hundreds of law enforcement agencies around the country."
     publishedDateTime: 2020-01-25T01:47:00Z
@@ -283,21 +298,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F01%252F24%252F8f%252Fe45391542f244300abce8e004744f264.dbee4.png%252F1200x630.png?signature=Jv-_6kRL_ZmhIw_aPKprHejEK2o="
         width: 1200
         height: 630
-  - title: "Police are about to deploy 'privacy destroying' facial recognition cameras across London"
-    excerpt: "Facial recognition cameras are set to be deployed across London for the first time, the Metropolitan Police has announced. The roll out of the live facial recognition technology is expected to begin within a month and is designed to help the police tackle serious crime by locating and arresting wanted suspects – but privacy groups have ..."
-    publishedDateTime: 2020-01-24T12:59:00Z
-    webUrl: "https://www.zdnet.com/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg"
-        width: 1200
-        height: 675
   - title: "Rift emerges between regulators and businesses over Portland’s proposed facial recognition ban"
     excerpt: "Portland still seems on pace to impose a dual ban prohibiting facial recognition use by both government agencies and private entities such as retailers and other businesses. But a City Hall session today illuminated what could become a more pronounced point of contention: some local businesses and tech firms could oppose a private-use ban."
     publishedDateTime: 2020-01-29T01:01:00Z
@@ -504,21 +504,6 @@ related:
       - url: "https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
         width: 620
         height: 349
-  - title: "Police introduce facial recognition cameras to hunt ‘watchlist’ of criminals"
-    excerpt: "Scotland Yard has announced plans to use controversial facial recognition across London, despite concerns over the technology’s accuracy and privacy issues. The Metropolitan Police said every ..."
-    publishedDateTime: 2020-01-24T11:57:00Z
-    webUrl: "https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/"
-    ampWebUrl: "https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 56
-    images:
-      - url: "https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/01/PRI_118868082.jpg?quality=90&strip=all&zoom=1&resize=600%2C400&ssl=1"
-        width: 600
-        height: 400
   - title: "Government privacy watchdog under pressure to recommend facial recognition ban"
     excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
     publishedDateTime: 2020-01-27T21:31:00Z
@@ -913,6 +898,6 @@ related:
       domain: dailybruin.com
     quality: 10
 
-secured: "UtMu1smuatlezkHzDKyMRMSyBj290k0aUnzpBCCiE0RkPym2cbQJ5wzpso1NTZucE91NQAoJaXrJyqsQyqaPPCQCzsKhPiZMusrm50+z3rN2KQo/BGvBeOPAe5NAGST/L/fAlrOH7IM+SQJhrXNaauPoD9dN2OYNE88ufDxdC9c+HhXreyWi2avVX5O17v49Hx9iSzjEC1sR/6+hBu83dkSN1eEcb7pJRYo/Fp9aA4ynD4qh+algp0MOcIFlyKpJED0rT0md2cv4THqtMo9++ng6j47dG1EwGiFWB8ts2MngJP1FgTZVq7MhhqXwlyP3EdmZSwLq1qBnq07puJuKhAfDDn3AO3l9ofreccd6kbAUSqSIdb60GcpJqimkPqjXD1vb8Uri20qU5EYePPwPDlI1Y5yGMtASNFaVffbe++9koqU8qYBn3GAJNHjp6ZRp9moVLn/IA78W898AdiCh26wgl7ompwygRtUp/NwfQUY=;V9cEEqCtIq29/UzcNl2c4A=="
+secured: "kK2+xlnrM4UBzseaXS2pm2ovLXWc5t3q96H+sk78q/gbpCsay9eKqJMHlC0dNn9Krs2uWu0H6L2lAsTH+8AgeQyW5zaAQjeYJz+Jh71QpITKZo/4jYY3ext4PhtlGzqd8Ufietw0XcQxBRx0IeZXeIkzq13CAoAYtMZpkMpPxXsDhz8DZ8TcK93Eg24RE8eIAAiDb2vbX+3FUlrhrmcnH050vu2rccMe0mlDvQYXakR4S/2tfF0S0wJZ4eZ6LvGMMKB2wvOFk104TIF8o5Vu/2m14WmVNy1RRtU3cHGZOQHY8/Y002B2o9Xh/8crlQ/m2lzY7y+y+9XjM4H+Z/86JZnDZR6+Be3TsqEsNjVJzD+OzJCG9RBGeZkMYxLJV7e0M4e95/yytTdt97UfTQh/21cOwiaVIM/101WcNzGZAu54hgZGKYwtjmo3y2Fa4nWznx+nswzQqm6iVyQELoMx1uLUms4ojbUeUtXedrSCOj0=;MgVnOED3ikvjLSEl+D1DnA=="
 ---
 

@@ -69,6 +69,15 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/EBT-L-PITOLLI_72356810-2.jpg?w=1024&h=607"
         width: 1024
         height: 606
+  - title: "U.S. House Panel to Hold Hearing on Future of Self-Driving Cars"
+    excerpt: "U.S. House Panel to Hold Hearing on Future of Self-Driving Cars WASHINGTON (Reuters) - A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars."
+    publishedDateTime: 2020-02-07T21:06:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-02-07/us-house-panel-to-hold-hearing-on-future-of-self-driving-cars"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "Awf5kGfaDFHPo1BLeNRcoySmRzn4H0ESBS9yJtttrMV4AwptAQ8WE+ExaCDqkjC57z2Ubh69U/hht3rLDtASR5xp8EWuNsfuxUhFG6oPWT7uvgT6+jNngxpU7pR46veVI4xcLK2G/To90tTLDQJP0YSelFVjsC/VDqhP9LNf56jzNwSmjcEsiOgeBnizCoQTYjM0CIfunwHBB4n6KUa5Gwo4/MtmQH+7Truq9Y1KoSxLE2umKyTnSpfnSlXFRu9BPX+ybyNAEstT0FewAAF/O6c51DQ23sIgbR7tEUhwmiZDyPWDpqR+bp7dQkj//Q9uU/RC9uJM14p9NILwgV7HeRv37obaNQjWs1yhOR3p4WhXKexqd7xVdtN5PfZluVTMeH+n3axDEBGfgHCM1vsTsFutqnuO84uaP7v07GVmcZJ6etDE+cTs0jsvDZXL5T9twlqUPbXrgIBvP0p/w3ExavOeBJe473d45olKKukhS1k=;RdEjpirL+C38lKKGobSPRA=="
 ---

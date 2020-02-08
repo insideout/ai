@@ -46,6 +46,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/02/globe-tech-e1580494461811.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "China Turns To Artificial Intelligence, Data In Fight Against Coronavirus"
+    excerpt: "As Chinese authorities race to contain the spread of a new virus, which has infected more than 30,000 people and killed more than 700 in China, Beijing is turning to a familiar set of tools to find and prevent potential infections: data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if ..."
+    publishedDateTime: 2020-02-08T04:02:00Z
+    webUrl: "https://www.ndtv.com/world-news/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2176916"
+    ampWebUrl: "https://www.ndtv.com/world-news/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2176916?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2176916?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 71
+    images:
+      - url: "https://c.ndtvimg.com/2020-02/806ehkf4_coronavirus-china-afp_625x300_07_February_20.jpg"
+        width: 650
+        height: 400
   - title: "Chinese hospitals start to use AI-powered robots to treat coronavirus patients"
     excerpt: "A Chinese hospital has started to use two robots powered by artificial intelligence and capable of disinfecting themselves to help treat coronavirus patients. The pair of droids began to deliver medicine and food to sufferers as well as collecting bed sheets and medical rubbish yesterday in the province of Guangdong, said the local health ..."
     publishedDateTime: 2020-01-30T18:29:00Z

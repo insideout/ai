@@ -17,6 +17,17 @@ topics:
   - AI
   - Machine Learning
 
+related:
+  - title: "World IoT Chip Markets to 2029: Increasing Demand for IoT Chips in Smart Manufacturing Applications Augments Robust Industry Growth"
+    excerpt: "/PRNewswire/ -- The \"Global IoT Chip Market: Focus on Type, End-use Industry and Region - Analysis and Forecast, 2019-2029\" report has been added"
+    publishedDateTime: 2020-01-24T15:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/world-iot-chip-markets-to-2029-increasing-demand-for-iot-chips-in-smart-manufacturing-applications-augments-robust-industry-growth-300992810.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+
 secured: "9VCkabWsAgwLKFrija9FOq5AmTmxNPMrlNxHQA/D4RuwjSMZLDVxRA5o3Rve+us//8Ki5hDhhGKNjoCxKwckCbNuK1vxcOe2mK+i70YVW2Rh+CZhEBNdXdyIblLzuL2Q57vN+yDr3xRgmefFL5vqCJmwjrZN4xF9filhP4KOn/n62No1+qbdwCql5e3WLeBX8rlHHTE4aw7txAFTQ7TK00vhK6RCsgGAciPebRJYhcSEIc4PJezHti0JdiZhoaWugoRdk88AM8HVz7mgMraluPacSWE9QpqNXoqzBXafoDzQ/J4SctrsJJ+WvEXtX7W0;GQzAmvitAOfgKTAx5nEmwg=="
 ---
 
