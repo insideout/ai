@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T00:00:00Z
 webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,23 @@ images:
     height: 565
     title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
 
-secured: "tSDKMIUVVWWW3+IRCXaNxFWAWiInbPokLPJCmpO7YbAPzSN8dgeYNdkAQIP3H8Qin8IdKO9Ap7VT1tzeP/n0D3dnOK7TwZfQFqGfDzwf5kJNRFbVhopHjW3krlVPWcORFvpyuw3zeARREpZD2yy4f8lQu+r1KeINN5H+QjbnEX7Cw2xBKBGJ00RJCZEgEFQL5mIJ8WionXhCC+GxTlmoOjXc6DAUm30UHBYs3zFcistWjHdWsTBcj0+uPkAV9ZHfGpq7EA/7vxSZ5rBrtEUk4iyzOvzfPqMIW//8SbltEROJkWqs75Kg+gCZA2NTwwrm;nAJTeMAyRrKUdfQ4JEnl7Q=="
+related:
+  - title: "Facebook releases low-latency online speech recognition framework"
+    excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
+    publishedDateTime: 2020-01-13T17:32:00Z
+    webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
+    ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
+
+secured: "x/SrLveaBnXcOVmjeG4uXkTrQh1E8dmzLEKMHTPCp9CCUK5BpexVxh4WH7T3wFizdvW9LF1nMga497XQ+Vz6BV7z42PDiXFkGcOvouqyHu6nEH6pKKBQCopUZcM/51tsrjOuvSSs0dncUM8e4xTvEiVxTpViJOB+0Rv396034N6/ZKSpaRqMntO3A1BkXkhTsofwcCB33cILYeauh7yTvU1oXahFyYdOBrYvhRCYBlICBgc71Ptt2/aLmIqrlwS0jAsvzajQWH56jd5wEmLIVTItS+Obs2APeCDnSTEMYh+21f8SCLGOop0sG6Vsfppa;XlXnhxSOlN3ifdS8X+ZDlg=="
 ---
 

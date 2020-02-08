@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-as
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/03/apple-details-ai-to-help-voice-assistants-recognize-hotwords-and-multilingual-speakers/amp/"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 1200
     height: 600
     title: "Apple details AI to help voice assistants recognize hotwords and multilingual speakers"
+
+related:
+  - title: "Automatic Speech Transcription And Speaker Recognition Simultaneously Using Apple AI"
+    excerpt: "Last year, Apple witnessed several controversies regarding its speech recognition technology. To provide quality control in the company’s voice assistant Siri, Apple asked its contractors to regularly hear the confidential voice recordings in the name of the “Siri Grading Program”. However, to this matter, the company later apologised and ..."
+    publishedDateTime: 2020-02-08T08:43:00Z
+    webUrl: "https://analyticsindiamag.com/automatic-speech-transcription-and-speaker-recognition-simultaneously-using-apple-ai/"
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 32
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/aim_Apple.jpg"
+        width: 1600
+        height: 800
 
 secured: "ARdUVAQQGDAd0Ex2xe+l32LDsAmhD4f4qJ5jUrpTBsUAiQ30tXXTzuAhDZUWKpysHIqZq3qtmlwttOsYCkp500j2Ft51yShu+l3hYWCcpKeI59ZeG87jLwzMhI7oDt1Tj2LVNQ4eS3fiNWxnKMsXJPrUADywUA5zY2nTt8OPT9D5vydaqnr9cSgUFhewb4ja9S9Y3PIUG4/ZMOVKp/UARugyuhmXIyHNQWMTp6cYQwJhdaqPzAVvz3liP6aL8TG/cODCrlvUJMP3bT/Ew8B4l+jQQ296wh2/mKzqtYhTt9FcpTmd7rSoUfR22YqvQneTIg493CMmAahUMK/5w4/FlzxQEMasTUwd/4GQ0s3jJXBS2bwHVnsjK7dwEoRcgxz/+KcV1sdC/GachNpbw2p5Gohp5Gt9WRHDOpWHGIabmmvj6/Er/KzSfQ89me6TYHJhGZ4RzOETwVc0JuLwtqmb2cJMwVMwl1v7n6PwwdWfXW4=;5wK8Wk+60jPbj6NAiz8hVQ=="
 ---

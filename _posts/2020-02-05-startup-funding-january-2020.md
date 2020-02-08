@@ -36,6 +36,19 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2019/01/bg-robotic-omnichannel-fulfillmentflexbot-with-order1200xx3840-2160-0-0.png"
         width: 1200
         height: 675
+  - title: "Top Artificial Intelligence Funding in January 2020"
+    excerpt: "Particularly, artificial intelligence is one such technology that is making headlines every ... “We have developed a new category of heart disease diagnostic products powered by AI that promise to revolutionize healthcare by delivering accurate, cost-effective and timely expert-level diagnostics,” said Yann Fleureau, co-founder and CEO ..."
+    publishedDateTime: 2020-02-08T08:55:00Z
+    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-funding-january-2020/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-Artificial-Intelligence-Funding-in-January-2020.png"
+        width: 1568
+        height: 1046
 
 secured: "OkuZD052xDSj3JlTph2yXC0R/6oo61W/qy+04sIMWwCpieEk74NycBueSyNv49pqtJq2jX87r2bO5rKkUtnfFJXC7sTDlxuC313PFC3Qc0A1TWJdJvjB9THhASqH4zmmuUUJVYGt18fNKQKW2pN9mMg6mKvfY/vBAnaYhvW52OJ+OotKa9WOWHOBtkXTB1CIL26c5k+ODc8GDTGfPbmkSkEFgcy95vdftqbGL4hCrrkD+6ry832Ed+PLx3IjDGjRJAdFHSDq7X6cn+XIv2VaC9zHMNAZQgqtmINxP5ONx1/LfEFJJuE+/VcCM1tKBY3E;zKNwtYCloAfGKPFQFv12xQ=="
 ---

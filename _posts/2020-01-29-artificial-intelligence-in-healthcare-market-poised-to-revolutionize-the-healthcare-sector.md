@@ -34,8 +34,8 @@ related:
         width: 711
         height: 474
   - title: "How Artificial Intelligence is progressing in mental healthcare"
-    excerpt: "According to the report, suicide is among the top 20 leading causes of death worldwide. Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers at the University of South Carolina’s Viterbi School of ..."
-    publishedDateTime: 2020-01-24T15:08:00Z
+    excerpt: "Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers ..."
+    publishedDateTime: 2020-01-24T15:06:00Z
     webUrl: "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare-11579878039985.html"
     ampWebUrl: "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html"
     cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html"
@@ -43,7 +43,7 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 76
+    quality: 74
     images:
       - url: "https://images.livemint.com/img/2020/01/24/600x338/Asset_1579878227723.jpg"
         width: 600

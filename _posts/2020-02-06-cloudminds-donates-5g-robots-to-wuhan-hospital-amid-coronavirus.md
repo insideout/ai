@@ -37,6 +37,19 @@ related:
       - url: "https://acs-h.assetsadobe.com/is/image//content/dam/cen/98/6/WEB/09806-scicon1-bar.jpg/?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
         width: 700
         height: 456
+  - title: "China Uses Data Tracking And Artificial Intelligence To Fight Coronavirus"
+    excerpt: "Authorities in China have turned to data tracking and artificial intelligence to help combat the spread of the new virus. Robots also deployed in hospitals. In an effort to help contain the spread of the deadly coronavirus which has infected more than 30,000 people and killed more than 600 people on the mainland, Chinese authorities have turned ..."
+    publishedDateTime: 2020-02-08T08:37:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/china-uses-data-tracking-and-ai-to-combat-new-virus.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 38
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/7s4xbfkmap9ztguf_1581145729.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 708
   - title: "AI, 5G help fight coronavirus epidemic in China"
     excerpt: "As China continues to battle an outbreak of the deadly novel coronavirus, some of the cutting-edge technologies from artificial intelligence (AI) and 5G came in handy in the nationwide fight to contain the virus-caused crisis. On Saturday, the Provincial Center for Disease Control and Prevention (CDC) in East China's Zhejiang Province announced ..."
     publishedDateTime: 2020-02-02T12:49:00Z

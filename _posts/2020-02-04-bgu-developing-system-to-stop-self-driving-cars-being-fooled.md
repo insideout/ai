@@ -54,6 +54,21 @@ related:
       - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
         width: 2400
         height: 1600
+  - title: "Waymo Workers: People Keep Injecting Drugs in Self-Driving Cars"
+    excerpt: "In 2018, self-driving car company Waymo launched Waymo One, a rideshare service à la Uber or Lyft but with autonomous cars. In December 2019, it took the program to the next level by offering some passengers rides in Arizona cars without safety drivers behind the wheel. Now, in a trashy twist, Waymo workers have told The Verge that passengers ..."
+    publishedDateTime: 2020-02-07T20:17:00Z
+    webUrl: "https://futurism.com/the-byte/waymo-people-injecting-drugs-self-driving-cars"
+    ampWebUrl: "https://futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/02/waymo-workers-people-keep-injecting-drugs-self-driving-cars-600x315.jpg"
+        width: 600
+        height: 315
   - title: "Waymo Self-Driving Car in Manual Mode in Crash"
     excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
     publishedDateTime: 2020-02-03T17:40:00Z

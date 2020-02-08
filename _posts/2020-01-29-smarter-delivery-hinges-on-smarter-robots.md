@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: "https://localtvwreg.files.wordpress.com/2020/01/fooddelivery.jpeg?quality=85&strip=all&w=1200"
         width: 1200
         height: 675
-  - title: "Starship delivery robots arrive at Ole Miss"
-    excerpt: "The robots leverage machine learning, artificial intelligence and a series of on-board sensors to navigate on sidewalks and avoid obstacles. Each robot can carry up to 20 pounds, as well as cross streets, climb curbs, travel at night and operate in both rain and snow."
-    publishedDateTime: 2020-01-24T15:21:00Z
-    webUrl: "https://www.cr80news.com/news-item/starship-delivery-robots-arrive-at-ole-miss/"
-    type: article
-    provider:
-      name: CR80News
-      domain: cr80news.com
-    quality: 39
-    images:
-      - url: "https://www.cr80news.com/wp-content/uploads/2020/01/OleMiss_Starship.png"
-        width: 1772
-        height: 926
   - title: "Smarter Delivery Hinges on Smarter Robots"
     excerpt: "Companies and researchers world-wide are racing to develop artificial-intelligence systems that can enable warehouse robots to handle new and varied objects--telling the difference between a cardboard box and a small circuit board for instance--without the need for extensive additional training or human help. Such capabilities would make ..."
     publishedDateTime: 2020-01-30T03:14:00Z

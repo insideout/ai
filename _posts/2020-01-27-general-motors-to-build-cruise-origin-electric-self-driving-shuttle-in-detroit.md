@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-sh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp"
 type: article
 quality: 70
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -90,21 +90,6 @@ related:
       - url: "https://images.thestar.com/ubGicgxAN7XcYMEtjqYlMEzp11w=/1200x800/smart/filters:cb(1580139692061)/https://www.thestar.com/content/dam/thestar/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles/gm.jpg"
         width: 1200
         height: 800
-  - title: "GM's Detroit-Hamtramck plant will build Cruise Origin self-driving shuttle"
-    excerpt: "GM's Detroit-Hamtramck plant will build Cruise Origin self-driving shuttle The automaker will lay out plans Monday to build self-driving and electric vehicles at the plant that had been targeted for closure Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/24/gms-detroit-hamtramck ..."
-    publishedDateTime: 2020-01-24T15:08:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2020/01/24/gms-detroit-hamtramck-plant-build-cruise-origin-self-driving-shuttle/4546684002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/4546684002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4546684002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 42
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?auto=webp&crop=1521,855,x162,y616&format=pjpg&width=1200"
-        width: 1200
-        height: 675
   - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles"
     excerpt: "GM will invest $3 billion in Detroit-Hamtramck, a plant previously categorized as \"unallocated,\" to build electric and self-driving vehicles."
     publishedDateTime: 2020-01-27T14:13:00Z

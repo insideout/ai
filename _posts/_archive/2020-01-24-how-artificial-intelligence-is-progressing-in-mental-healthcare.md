@@ -1,13 +1,13 @@
 ---
 category: news
 title: "How Artificial Intelligence is progressing in mental healthcare"
-excerpt: "According to the report, suicide is among the top 20 leading causes of death worldwide. Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers at the University of South Carolina’s Viterbi School of ..."
-publishedDateTime: 2020-01-24T15:08:00Z
+excerpt: "Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers ..."
+publishedDateTime: 2020-01-24T15:06:00Z
 webUrl: "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare-11579878039985.html"
 ampWebUrl: "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html"
 type: article
-quality: 76
+quality: 74
 heat: -1
 published: false
 
@@ -18,7 +18,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-  - Facebook AI
 
 images:
   - url: "https://images.livemint.com/img/2020/01/24/600x338/Asset_1579878227723.jpg"
@@ -92,6 +91,6 @@ related:
       domain: openpr.com
     quality: 24
 
-secured: "4gS2hQwG1FagNgL2TCi11jyw6aPeyfbRHVdLVhurWdDIs++2ixf/9AyBZmpef0p29Hcn9m/VPoBXukMT+M1vAcHk0x8e4vA3206AI8GC2IpVZTuwqP+z3SvfHWHqSB8X1+89m0tU8r6xAqhnZj/poyLO9fZCvx3yi+xSYw9fL4qMDI44Z9hHa7utY2PbReq4C/AQFN16HXu458mSzk9cp9YaOCuEtzAZai7c0Ur0tCE0jEzcyoFud4QTGBqOpVGU445FwWWQjC5JNgPaP4/UKv4zNHOPOXS/BP3YyWXzFO1ETGzBV13QTxpXZN1X9hknBIzwRjaqjg80KXcfJA1ALqNMQVyi233QhHbh3/3cHsEIODgLzuuXdG09lKhz58euozJWnWxqQjHzVMFWH9sN6ZR01oTNiSbB/KVIYW7OJbAmaTTUpvv9G0ccco2UriZ4koeZiQ7Ip/tH/WIjWOmbNE3aPhgMpvO5X5pS0XYKkIA=;x2qXkDaz9vA+g+7CzE+FWQ=="
+secured: "KDOkEIjx7gPc1+ilT46ylQRYCkXf9CytDx1vjCA+FVt9qXm4gyHps1A/vVAItjXI74dx/FhMZXqwAIfbmDLEz8S3NLy0L/dpw0E2KmKxZkYqT5ZHdZ1YdZ3lzci22644t2p65HKurlX4U0TEbs6/NNkFEEceZmyHSiEJlHy6kBoYKhOqUoeT6IAtLaBLfowf31n4J0S9dpU1M8UwMGHIQdSLEA3w2JWyk5Ar8ESvrWQA0Dcn7CkgYU6cbBjWl5F2Tof0yn/2xXDocdD1Pk8ZMygCCzYiWU3leSy4TW+0ASL+egs2Vgqussv3kUlQ/AIW;rf/0w8a2Taz7wVcsenNwAA=="
 ---
 

@@ -49,6 +49,19 @@ related:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600
         height: 600
+  - title: "China Uses Data Tracking And Artificial Intelligence To Fight Coronavirus"
+    excerpt: "Authorities in China have turned to data tracking and artificial intelligence to help combat the spread of the new virus. Robots also deployed in hospitals. In an effort to help contain the spread of the deadly coronavirus which has infected more than 30,000 people and killed more than 600 people on the mainland, Chinese authorities have turned ..."
+    publishedDateTime: 2020-02-08T08:37:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/china-uses-data-tracking-and-ai-to-combat-new-virus.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 38
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/7s4xbfkmap9ztguf_1581145729.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 708
 
 secured: "mcHGCi8zFYQdMtbE+xSQyIUX9kZkV6EZS4qKSw2R+/Jd6IviwUvJy2hZKxY5upGhIz7lZq4UYHrn7IWIsfAxKaTH5opRy7CcEK55ENtLrrGhguJD88nzlkVCq/UNf14O1pE6j1IqGGQawwdGIdR+1jxBB59WB/DFrpLh0HzXVinYj74CWQFzLEzmTNcjc3cHcsTbWxEJTjBKgknbX5szpsVWd0gHLbv2lM4eYSxBg6OtDeyJSmD3D+1l9AtECSYb5QgjW6CHtf6vL5uG8+Bip+7KZvqeww8shZhkH3mj2rwKKQtg4jopJyqYORsxPHVpLrL+ET3sH90KjzSsTn63dzL7BnOG10PqfdIR11ckFKoL0y3NueHXzGbGUKq5FDEjbhwMeZxbNzz+OzSD+U2MsFqzPk+PXLIYszNC4PJ5jsbghqplAwQjMGngW5vKSGzKRr4/7LXsO1Jg/STF5ttkXXqOhaIV5CxEwpmC5j2D/0c=;uK7cg41hSX+aZ4yVOw4JoA=="
 ---

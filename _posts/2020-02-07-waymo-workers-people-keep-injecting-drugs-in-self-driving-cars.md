@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Waymo Self-Driving Car in Manual Mode in Crash"
-excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
-publishedDateTime: 2020-02-03T17:40:00Z
-webUrl: "https://www.fenderbender.com/articles/14449-waymo-self-driving-car-in-manual-mode-in-crash"
+title: "Waymo Workers: People Keep Injecting Drugs in Self-Driving Cars"
+excerpt: "In 2018, self-driving car company Waymo launched Waymo One, a rideshare service à la Uber or Lyft but with autonomous cars. In December 2019, it took the program to the next level by offering some passengers rides in Arizona cars without safety drivers behind the wheel. Now, in a trashy twist, Waymo workers have told The Verge that passengers ..."
+publishedDateTime: 2020-02-07T20:17:00Z
+webUrl: "https://futurism.com/the-byte/waymo-people-injecting-drugs-self-driving-cars"
+ampWebUrl: "https://futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
+cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: FenderBender
-  domain: fenderbender.com
+  name: Futurism
+  domain: futurism.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://www.fenderbender.com/ext/resources/logos/10Missions_Logo_White.png"
-    width: 622
-    height: 318
-    title: "Waymo Self-Driving Car in Manual Mode in Crash"
+  - url: "https://wp-assets.futurism.com/2020/02/waymo-workers-people-keep-injecting-drugs-self-driving-cars-600x315.jpg"
+    width: 600
+    height: 315
+    title: "Waymo Workers: People Keep Injecting Drugs in Self-Driving Cars"
 
 related:
   - title: "GM’s Cruise now has 1,800 employees working on self-driving cars, up from 1,000 in March 2019"
@@ -54,21 +56,19 @@ related:
       - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
         width: 2400
         height: 1600
-  - title: "Waymo Workers: People Keep Injecting Drugs in Self-Driving Cars"
-    excerpt: "In 2018, self-driving car company Waymo launched Waymo One, a rideshare service à la Uber or Lyft but with autonomous cars. In December 2019, it took the program to the next level by offering some passengers rides in Arizona cars without safety drivers behind the wheel. Now, in a trashy twist, Waymo workers have told The Verge that passengers ..."
-    publishedDateTime: 2020-02-07T20:17:00Z
-    webUrl: "https://futurism.com/the-byte/waymo-people-injecting-drugs-self-driving-cars"
-    ampWebUrl: "https://futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
+  - title: "Waymo Self-Driving Car in Manual Mode in Crash"
+    excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
+    publishedDateTime: 2020-02-03T17:40:00Z
+    webUrl: "https://www.fenderbender.com/articles/14449-waymo-self-driving-car-in-manual-mode-in-crash"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 39
     images:
-      - url: "https://wp-assets.futurism.com/2020/02/waymo-workers-people-keep-injecting-drugs-self-driving-cars-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.fenderbender.com/ext/resources/logos/10Missions_Logo_White.png"
+        width: 622
+        height: 318
   - title: "This self-driving car has no steering wheel or pedals"
     excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
     publishedDateTime: 2020-01-31T14:41:00Z
@@ -94,6 +94,6 @@ related:
         width: 822
         height: 537
 
-secured: "jNZ64W2eJgA0MUgZj49Szrg2G3pO3VsfQ5bYaJz4we1SwzVzJr2z46kS+oKWdQHcbpO7B+/TMyRR7vKADmXWoMBGtBOX2FeO2QY80X7w/zsgn+g6xTZkAA6i26YX3vFuRqEjf58xGgMpw+8eP2l/qSuvMwQy3ZEXIvFIQtK2QnHxNbipxgGYiHUxKSqiRaatJmy0mjqjKBxASCsIawKkMYYnZnKgK3xLocKyn3RJa00PmI4m9c+T9TIbZhkcE8cxcXsShu6ieGpis4/dDOyrsyetmiqH9HBoo4/DECjjtPfQz56p/OkCgpuz4g+hlOmj;VoxroJYPI9XWp4vqtuLkiQ=="
+secured: "7kH4+RHYYSx/sItEV9bct6LF1MgftGWmP9/NYshNsK86Mw0hbAiPOlD1PCrcbglpf6KBc0m2pz3cmJGTFhnoH4fqJN2ZBymDeqy/apE45fh/uWYI2IifkDMTN5diymjfWd36F84+Dpwxe+r8vEBim6UN+3mJNgV2ly5fiSUWubTdCR53JT7fEP0jlqavoQZG/ZZFYKOd8w+rzkwRa2VrmEiaVEDKgcBnQiJTPHbP/OH0eUeQ4ja42ctk4gtH/lc3ZJexsujI/k2j4Tm9/KCi9aSj9VEKzJAf7qfxSRSxUhUjahpt9J3y482BF4hg4tJd;gbeX8AJ0/dG4wWab+6rD4g=="
 ---
 

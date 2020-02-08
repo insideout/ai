@@ -23,6 +23,6 @@ images:
     height: 800
     title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
 
-secured: "mospnlw/Oos5Olg+sAWn/z12siBmTLT5GUcHOs7BtaQPpM5g1Ot8tU/OaT430EbGkCXVgdv6aJe2yHdWpcoXLn/FfcAgKjtSxwJ3yeEJuUd8iAPmNi/HnQG8Jctja/Eu1h4sa14S3AlNn8lBzZUT/aRkXZv0sr42OWuKTBIJRrPoP+rTLZbEgRgOIf7aj7J2LZPo7/dIh6k4mKCImjzwT4wqhWByniyLAuQTCks5pwvqP5/Ki/mMz9SozsIJeCsMWQC+Y7xLG8Tf31iIp4hLHQNApuFKtYvsXxhVOhx1nRw6ha4qE+BbCa+j/iVsPpI3;83VApVmFNsrt7WzOQM5MLg=="
+secured: "u/c6AytwzYalqtAgs1x/5iCYjr4NKLpFM2Tkx33oUL4QSV59ygktJs6C3YJD1vPqVG+px18X420SI31lDuvnOcDgGDH98x9bpogvKMeb/9fXspxBx8R0uRHBM40+l+mY3iY9ic3YyOPHTKpy6GKHKJeL1R4YFie0aGazmhyfwYfPAAP99cf6gVdcQ2gfB7lbSwNJWi3Fc4acAigcMarwzrNrztogwvD/qvIiIo/zgZjR4r/Lg9bfrVGZsKI9fz16LipnFvIrlbdsKFsFLTVH3SPMDD9LqQ0vfKOHtr2ppot1qSEk1wK55OedHb5NsvSo;gDXwt/zwy7SaWM21+NU8pA=="
 ---
 

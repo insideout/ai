@@ -41,15 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "World IoT Chip Markets to 2029: Increasing Demand for IoT Chips in Smart Manufacturing Applications Augments Robust Industry Growth"
-    excerpt: "/PRNewswire/ -- The \"Global IoT Chip Market: Focus on Type, End-use Industry and Region - Analysis and Forecast, 2019-2029\" report has been added"
-    publishedDateTime: 2020-01-24T15:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/world-iot-chip-markets-to-2029-increasing-demand-for-iot-chips-in-smart-manufacturing-applications-augments-robust-industry-growth-300992810.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
 
 secured: "vki55sg34Ikb96RReYwQ34pIg0irwAMbrZtX3S+rsBOwwkPqgNFtbziI4+V5fYYAzLd7DZcJ8+9vMkZaJeJ6g5gpyaXOqg+nMCsxarbuNowcKGq0HvIjs2SnPk5+hqCeecf5PsAvSZ7qZZE0RWZyp+aqnTgbH7PCVFIL2+E3fOUjdRWzMC8ScwdYV10qQ53+Hv9V59IS3GSlIIv3Jb8R/EYmHOaqkIJA1nl3TmcPE/yDOtXff5ytna4+6WIJQ91nmVlZYdY44UR3Q2RqOgPr21GwsyXDukQ+zt/viEXqC9c9eO2Ol/U4SIciKs/MxTV+;u51Bp9GiO9YfxbvAU2fz9A=="
 ---

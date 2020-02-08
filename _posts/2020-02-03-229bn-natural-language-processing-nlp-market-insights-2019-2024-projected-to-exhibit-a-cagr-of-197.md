@@ -1,19 +1,17 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
-publishedDateTime: 2020-02-03T10:44:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
+publishedDateTime: 2020-02-03T11:44:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -80,6 +78,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "wFeAqhTg1ytFBHgyedyDbphnh+XHGG1AQIMWLwnS+46YPxzFt9Tqpqdfzsy7+60/DpWZJC+UisdIfKiSo80EAB4OvxibDYVYDjjI12L4l9N2f4awsyTNHSFC+xSZy6VZxQUm4Jpvp7lHE1xva6GcfQpfjs1QGJtmUruAsbsc5skpeQHtk0mZfRsjx41eBYCaqgiFVwYkP5SNMhOGBP3Zga9LTeJzB9e8dqH+Whw4EvNa7WMVFkpYtRsjbu8O5xcCQm4cvd16ADbqaVkBXll9jQXFVpgacdeDR79iKebDuI+cPFZI9D1rZKTy/EARLv+t;dDb9RSAyQSZfbHn5/KhaCg=="
+secured: "LdJ8kvNKU57ewBp6bTOb4eOMxb1Ip7SrELMr94ewHejQMCd0GfCEksMOtSJrkAbltBU2C75pJpP9I3O8B6i94Phryo/p8ZWPZ3YszUHHdbmAKQiK0JIRJYlfIhiQ3bZMSAjuIEibEvZGcbS30OntDNT8YH2tmLz8qWRhooQYUIrhIJyox8cHj4w4Vd6hiOy4+7vitz92I619kMMpAtmxL1SV1QDuv6pYt+3M8rRaPxNVRYPamuzQ8dKAGr9A1MndlPyO4JHgNnbB1QBDUXBPRuvzgxyYbQmhToz+QH4/0qmUIaBg7A68EVklESyLDWFz;6RsBca1mCC67inC9B+B8sQ=="
 ---
 

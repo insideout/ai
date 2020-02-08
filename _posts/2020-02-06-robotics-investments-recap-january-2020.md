@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T13:34:00Z
 webUrl: "https://www.therobotreport.com/january-2020-robotics-investments-recap/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "Robotics investments recap: January 2020"
 
 related:
+  - title: "Top Artificial Intelligence Funding in January 2020"
+    excerpt: "Particularly, artificial intelligence is one such technology that is making headlines every ... “We have developed a new category of heart disease diagnostic products powered by AI that promise to revolutionize healthcare by delivering accurate, cost-effective and timely expert-level diagnostics,” said Yann Fleureau, co-founder and CEO ..."
+    publishedDateTime: 2020-02-08T08:55:00Z
+    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-funding-january-2020/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-Artificial-Intelligence-Funding-in-January-2020.png"
+        width: 1568
+        height: 1046
   - title: "Startup Funding: January 2020"
     excerpt: "Iguazio has raised a total of $72M. EdgeCortix continued its seed funding round, raising $1M and bringing total investment to $4M. Based in Singapore and Tokyo, the startup has an edge-AI acceleration engine that automates AI model fine-tuning, deployment, and acceleration on edge devices. Key is the company’s software and hardware co-design ..."
     publishedDateTime: 2020-02-05T08:05:00Z
