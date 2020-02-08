@@ -24,9 +24,9 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://tr3.cbsistatic.com/hub/i/r/2019/04/16/cc5d2e5c-2d75-433f-a9a7-034a858b46e6/resize/1200x/8e5aaa1afe23fa7488ee8e296e79d3e3/istock-861189644ai.jpg"
+  - url: "https://tr1.cbsistatic.com/hub/i/r/2019/12/04/70d05d50-7fdc-4611-acee-d1c6867906c0/thumbnail/1200x675/075730befe930c61f707faeac9381bfe/20191125-veronica-karen.jpg"
     width: 1200
-    height: 800
+    height: 675
     title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
 
 related:
@@ -57,6 +57,6 @@ related:
         width: 600
         height: 246
 
-secured: "1peuep9plKJOaLhSw5WV3gLjEu8XSVi1MX4Ehh+MX3M8+TxMb32eW2nnxazhji6F3Da0t9uNz/UMt6WEsBQhZL6f18GHECc8NwBfpuQlARztYz+MzC1/01E3Rx06/wYcvnkea54Ukf4bdq/4EHFh2Z8kp9RU31gHGrRC5J8g4iox3EbUUBfgPCSpQ+3fmyJxo30XcLnK98wxnXSUxY2aemBhI8gAWCmH58L5MHly962yspVsgC77onTIslTdWidvFvt7pQ8xALXpQPMPjyZT4ZPOtw6qcyVCPlBOkottwbpR0PFWNlFQy7PFoPnM+Z4T;d0vDiR+4DF7d6hhCPlvSVg=="
+secured: "nsFDU+iEDe19gXzK4PrsCKtYp+EbvBjiIxhOENDTiWjDf2oFmNUuYkXTYMXIW73ovjCLdTStVOuTr9XCVxnzCOwxA6oO5W/RDlcehEZIUDt1KP9LAkZboP1YLVecK6OPjZ+hOKeG8+GvXG5RlXYQ9OmbNYlFHDA2oa9qCl8nxXSmc4lXcc3mHUMRGBbaPIU+pdBQSivr/W/eVmKUhM8WMo7T4Gi4j9Q7IjxnLpXqJkSXHqUcNX0PO5QjaDb0CwBigHVS1fcxytSttVyTNPCzSj4KOXWR2xn88XW77UbVfj0nkFDdlugK6TWxbIAD3vGD;cFzFozj+IJ0qn/H/qKanZQ=="
 ---
 

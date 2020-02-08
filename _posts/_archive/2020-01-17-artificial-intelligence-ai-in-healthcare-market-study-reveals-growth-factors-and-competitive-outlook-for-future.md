@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T04:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     height: 630
     title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
 
-related:
-  - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
-    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
-    publishedDateTime: 2020-01-22T10:53:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/37810/automotive-artificial-intelligence-market/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 12
-
-secured: "AbMxg+9un/PoZ9cUl0/9FkDQI9WSy9mJyVDqI5tGtaB2XQtb4z1BaLyH/ojKBD7dL0YWeZKZ8YNM20eqvmsmBfZt5pkJD6u3iTPDluMvefLE6k5im1qMKfsPN67U0KFu6+E06llpMZckWfgsWQdebteLiQt0k221LPvm90Tf4KgpzudKE6ew1JwVncE2JYQNhUxxvexDIsUK4V2D3YkGXkqpg63lPKN4q9cvhRGhJFKyT+/lEUlVXa/2v5DJSilSDXvE9LcZ3C6TjK281KfTvY83MIVyt3wMMYbe9/LKOsVJih4UjMV3xnTxsojgrTXw;OiHuVsCcD/wggzYhjU7TPA=="
+secured: "rDeonjr7EEe8vg4eW2YRiy8fUWYod8yrn00uM+zeRulOjjq2NxiMWEqWrnGY9O/D6OKKS7I/N0c/hUFaoBcrI05ZVo/NgqqJ0ITZ0o4wGMZLCmG4b/m1JjM8adLndP44cU8bj5Hl7Kta6F94lJU3bEAi5dAHCUa4sjPmJck1DUWuxkBm5ZxBfqi2husjduhxGSMvA7iUt9ksLAX4IKuJ31y50y3vdT1sJ6PJ8TUf1K1U3tUUEFfyRuVX//YKiJo32BlT1urd4n8Z3mbyBnLptLf61WzKo9TUqluJLoY8NeUnDqZQXZ2UtQASN4W2M3nv;fYyAdakV/9PeUlre+SHM8g=="
 ---
 

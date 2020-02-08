@@ -99,6 +99,28 @@ related:
       - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "GM will invest $3B to scale production of electric, self-driving vehicles"
+    excerpt: "General Motors Co. said today that it will spend $3 billion to retool one of its main Michigan auto plants for the production of electric and self-driving vehicles. The lion’s share of the planned investment, $2.2 billion, will go directly into facility upgrades. GM said that it will bring in new “machines, conveyors, controls and tooling ..."
+    publishedDateTime: 2020-01-27T17:55:00Z
+    webUrl: "https://siliconangle.com/2020/01/27/gm-will-invest-3b-scale-production-electric-self-driving-vehicles/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/cruise-1.png"
+        width: 718
+        height: 400
+  - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles (GM)"
+    excerpt: "GM will invest $3 billion into its Detroit-Hamtramck plant in order to build electric and self-driving vehicles. The factory had previously been \"unallocated\" as GM shifted from sedan production to pickups and SUVs. The company said that Detroit-Hamtramck could provide 2,200 \"good paying\" manufacturing jobs when running full speed. GM aims to ..."
+    publishedDateTime: 2020-01-27T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gm-is-revitalizing-a-near-death-factory-to-build-electric-and-self-driving-cars-2020-1-1028846918"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 4
 
 secured: "Ha5PCycSo0019QEDzcEzlzs6xF5wOKonC5eVXd0BM+9cZKFkgGpZxzuzh9VLEcaPe/1jE99tBcFI3O4Bj7YOCR7CNIjvRN+/GCRO04REsnsqfMk5+5k9FViZD83AYsfH+XdBQc+QQcntTzQIYU73aGEYJQrd6y2B83Ge9MJHG3A6IE+lIh8j9reITv/3fEC4+2maGXM76F7UjaEtFh8nATnx1Uk0CFLAtPVokLp5Vsj5WkMeTuhw4Lwq9kRF++0lfw3gZ0RB3DpD/eO7O7Ym35bZCw0GRQzOO5Pd+gLWVrKGED+Nw7Desdfa/f9bRQpBHoJz9Oig4sLmeGZ2mpAWjJ8xDBMNcG9z5WHOvyYfRPjKukIhgCbVk2j/3dxrD0YRBO2VK9MwNLaVPjSgCwG45vwkE8ioRTd9i1NM8WjydmCE7C+nniIriPBOpZ+xKb8watrI6a8bhRFrtputW0TOb7ih9o4VvM5fyEakYa8CVqk=;gIyfTe7xDnbPp+pssHtaJw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T12:12:00Z
 webUrl: "https://www.digitaltrends.com/cool-tech/brain-training-future-swarm-robot-armies/"
 type: article
 quality: 61
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,23 @@ provider:
 topics:
   - AI
   - AI in Robotics
+
+related:
+  - title: "DARPA Is Using Gamers’ Brain Waves to Train Robot Swarms"
+    excerpt: "A team of artificial intelligence researchers at the University at Buffalo plans to study the brain ... gamers to build an advanced AI — so that it can then coordinate the actions of entire fleets of autonomous military robots. The U.S. Defense Advanced Research Projects Agency — better known as DARPA — has awarded the UB team a $ ..."
+    publishedDateTime: 2020-02-08T20:13:00Z
+    webUrl: "https://futurism.com/the-byte/darpa-gamers-brain-waves-train-robots-swarms"
+    ampWebUrl: "https://futurism.com/darpa-gamers-brain-waves-train-robots-swarms/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/darpa-gamers-brain-waves-train-robots-swarms/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 74
+    images:
+      - url: "https://wp-assets.futurism.com/2020/02/darpa-gamer-brainwaves-train-killer-robots-600x315.jpg"
+        width: 600
+        height: 315
 
 secured: "Wf5JN4vttDvHg0RqF176s7VCKuc3VVr1fKYvN3MXh+zF7sh/JD17H/IU36+yuJG0rkJ3AS/CZ5p8MA3nSFfthCaJRg+W5FNpD65WDPm5vh2GbzSIEUSzcTLYpxiA68IMYT9rHyK3/j3W9Vg3b560WxScMVsGwfGUnZPIlHrOvImkmb0Cn9Tg6HefBRCsdyT6VJLzfATlBtN6pJ2QDRSwPpqV1NiJDaxlgw/JFVrPW7/KiMZcApDE7UJgPPtn5gMjsIDSvGdIfM9nvaTczX+FPzysawd04jkTuwjMLhkyV7f1tFYqn7e/9M6xesXOrtArmrcBLrbrLeIIYT8FtoW39vZi1Owl0CsCVEl57s4W46WUL5ed+N9EJ4TciRXQNCXbgddjXfLb/w3pi7NxTwl2tIciN1uHWhW14UI74kIjedABWv4dPeXD8PWY0w5DXTlEwQrWH4/Ou0BugGzgqv3YoXQLsAhMzVAp0aiiu3ohMVU=;FKeBe6AIduLAQFGMgmxdWQ=="
 ---

@@ -20,22 +20,18 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
-    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
-    publishedDateTime: 2020-01-14T13:07:00Z
-    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
+  - title: "AI can detect low-glucose levels via ECG without fingerpick test"
+    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
+    publishedDateTime: 2020-01-14T02:17:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 53
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg"
-        width: 1200
-        height: 1000
+      name: ETHealthworld.com
+      domain: indiatimes.com
+    quality: 39
 
-secured: "k9zhgvVo/zRAd5JPVlHToGuPYnc5PgupjCxgBqetyFxrNCKWu/cEUWjAiSuTkX3i+PspJ7mX5aQbf3rjIEJedvpGGAlyEfjUetIkKlOXowGTTndM9yYeSxVdDkxpsCTDTKuLiVktAuF3dEyPG5uZMLCPuNxEyWJpZPe1egbAWDoyM60082AOjcSnhVs0znmcwUIw4duqeQ7IaVPuPINZGJjt6t+2CqqQAFyfOq9m9PJmjvvx7NqSCkGayYFNBRVxEI8egTMzlqJugDomHqeAGgR/Me2mnKIRVj0b9bBmx+L+W1IEfDb9j2NFqoMO+Crc;PFPZJ1ihGc0FNKUALLgPAA=="
+secured: "2fuCv63lSFJWPly65O+Z4kpuYl4fY+fS3Q9szmjCfdXEs/Rx/CADRmXyygC6+1qnxb8qf7qL9dExu9rrJkorAoBR8QbCCuRxexhDxtbEOicB0M2L//3jCGQUIpiKwlojXlkEip+Vbb5F/uaSSKSKpw8AaqjzCylQnU3xT5HyZ8i0jLoKmywDfW1plyT0JbEBY+aGnOnzFKPG/CuVPgm0TP+VdKE9I5ka/fIu9tR32ZAbhVL40ULcDkM4qp2wl+at3NR6/8aXtXEXzRKvb3tZOH5NY0Hr3PIjpqPncGgHX1hHaOuVo3lheNo/4OkG1Q4z;CfOYtr8Rm2BABgwhF7Q5iA=="
 ---
 

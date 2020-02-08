@@ -23,6 +23,6 @@ images:
     height: 1703
     title: "Socionext Collaborates with Foxconn to Deliver Edge-AI Solutions for Retail, Manufacturing"
 
-secured: "94kJiXoLewPih384LmJvlXd6YKqF3rf8EjBcO9A1wJa8N3wRLqaukQL4LjmQYRQa60BlGNa592BmjzPoPsi0Sq5bv9vvcUfwx116W1sVgsokXjF6fWL35B8PuORQ4P1FEMFG++Pd2qT/kElggAmZgbtmJMk6GltmWFgQPD0do8pczQgZa1sIiVS2ypYQiOjsEVb3/LWrj9RgSQ1YUntSXiFhGqG14uXil2FHTWfDqXRA/tHgZ8iCpgNFxgVMBEZ/pEV/qzElxIXWnQCiXwtxcD6YNJBiRPn8XHubDrZGJamJZzxJngUqveVZl93TRB1f;BoRmIH0pGrcfsBqTRi9YsA=="
+secured: "3fyx6KbW3rWGkLVzHoUWfP6hma+MEnhlIGN3doG+lxRlAQIcFErISkYXqKrq4HhpM0tZ9BnpGbQQgOPfeqbydqSQ0DMYze+/BfhhOHF0iMTcATNfRJk8aMCNDzEtxnHk8Yv0/ECwB4FOukJYbFjyZ/Ktt5+JHgpLab+KS986iWXPgUaOQKaUP9K9NJCcJoG+Zkj13WultKbSRh8WsQexdQcwcPxRjHW0XkJOiY8FpMEBbop/a48sQuFTsQF/RIoggUOTmCsDwWe0zAp3TEeLmF+K4EZehCeiBdf8o44D2zIaHg8leqc45ZSi5ZCbHIk+;t13y4RnjyYCMWOw0BTO6kg=="
 ---
 
