@@ -105,6 +105,21 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/8k-lRQK2Dutoix3kDWRdfo1bBIc=/2020/02/06/26455c98-4cd8-44fa-a8b3-880df866df5c/ogi-nuro.jpg"
         width: 1200
         height: 630
+  - title: "U.S. House panel to hold hearing on future of self-driving cars"
+    excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies,"
+    publishedDateTime: 2020-02-07T20:50:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-autonomous-congress-idUSKBN2012K2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2012K2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2012K2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200207&t=2&i=1487254704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG161PZ"
+        width: 902
+        height: 545
   - title: "Uber issued permit to test self-driving vehicles on California public roads"
     excerpt: "The company says it will notify key local, state, and federal stakeholders before it returns to the city. “San Francisco is a great city to gather key learnings for self-driving technology given it’s complex and ever changing environment. While we do not have an update as to exactly when we’ll resume autonomous testing, receiving our ..."
     publishedDateTime: 2020-02-05T17:10:00Z

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Learning Platform Udacity launches Intro to Machine Learning with TensorFlow Nanodegree program"
-excerpt: "Learning platform Udacity has launched a new Nanodegree program : Intro to Machine Learning with TensorFlow. The Nanodegree program incorporates advanced areas such as manipulating data, supervised & unsupervised learning, along with deep learning."
+excerpt: "Learning platform Udacity has launched a new Nanodegree program : Intro to Machine Learning with TensorFlow. The Nanodegree program incorporates advanced areas such as manipulating data, supervised & unsupervised learning, along with deep learning. Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ML ..."
 publishedDateTime: 2020-01-25T04:45:00Z
 webUrl: "https://techstory.in/learning-platform-udacity-launches-intro-to-machine-learning-with-tensorflow-nanodegree-program-2020/"
 type: article
@@ -60,6 +60,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "NYCmC3IBgO6bXySKCj8gz2qGNxbYTYQYOIRUoDrKHKvFTueY3w76bFTxB55khZbLRvERuov891jdiLIKeMhxYNYl3CBAY/122pW6PKAoI5ut8v548RWcPrF5LMFKMwNsyZGFAs9cH17HZvGtkb3r13INnarh+ZBTI48unZPGxofkT+Y9PYdGltN3dGLS4coqXx8UVI0emHknRvmWOpiIh1+VlQSN2BEXq1eadjwTNoqnVVqW55LZMMFwW2/3plP7ozJTSCD8IrViM5G9BKDrmQ9bWU+mltZxqLkPz7MttXDEkgaMHjnfveCZ+ocJ2hvJ7RdiEGHftKO5Y8laFFOLcV8SRzpYsmhERjTA52dTT3kNTCDtnf8+HmPzYdpmgc0os5+E+O1vReJra54abjalBazXzx7TZiB8UdG7eoIXg9jxb/7b6Xq3jTub6WykhsuvkNtmXTWTYe5jSOGyFFAsldCqnI1lwO/My4snVI9Y2vw=;GFP+jMoszHcgzgirRuPXiw=="
+secured: "72y/7gg2700tSyUPEwWyxiMbbSSklxkJfWlExwYIiA4AX1yODQqBmSA5EDty0lR1iRwA2Odwtf5Rh+I5LhBN8mHVulAReSNjg1CXPeXfc8+5H6x++siDo42IpFJMnyTGPl6JlFAMCy5o8TL0reTYTF+Jj2M8BNpjbEjLqxbNiW93g5XVXbtXItYunPPcLlCWJ935/yDmR3hKTRaoIO5VJ9Qs6Jnu1nUcEJSoq51Oz4Phzkbwi/ILbH3KzeHEORyoISlACAhb5amGnS+wuhQ7efnubLoJGfLWMH4OHseX16KscSXOIxWCe8iNl1vHCjNB;8WFh4bXbfoEtaV+9kkuBWg=="
 ---
 

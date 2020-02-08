@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     title: "US House panel will discuss self-driving cars next week"
 
 related:
-  - title: "U.S. House Panel to Hold Hearing on Future of Self-Driving Cars"
-    excerpt: "U.S. House Panel to Hold Hearing on Future of Self-Driving Cars WASHINGTON (Reuters) - A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars."
-    publishedDateTime: 2020-02-07T21:06:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-02-07/us-house-panel-to-hold-hearing-on-future-of-self-driving-cars"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Prediction: Market for Artificial Intelligence in Cars Will Grow 1,200% in Next Six Years"
     excerpt: "The market for artificial intelligence in the automotive industry will go from $1 billion today to ... for more assistive and autonomous features for improved driving comfort and safety, as well as realizing the goal of self-driving cars and trucks. AI-powered features are already being developed, tested and offered on consumer vehicles."
     publishedDateTime: 2020-02-07T19:07:00Z

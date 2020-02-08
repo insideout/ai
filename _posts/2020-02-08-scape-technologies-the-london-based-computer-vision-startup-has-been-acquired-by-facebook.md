@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/08/scapebook/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/08/scapebook/amp/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 767
     title: "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook"
 
-secured: "v/hJsmc30iKs8/RY6yBSdl+79R4YghWJVj7NQTZLzlw8Y0QL9dCbsGmG6Mov10I0nfiP0o2ORrPcdbslKqbjPCvryRUjD+72tvJ6YzH3j3ILoBz4UMorHSqg1te/4/zNerGpeRnEtwrR9vvTB2wHwQep0Ek/OtthhJX6uCcifXkmkPRiM5KLD+zxNzM2CR4dtg36G1r84ekgHN138rDJ+C7WqKCY4tXZTP01dKX+xVN3z52gQS2dx9Uz+J3hZl9TkEnwKQpAz+UlqMMbiMHARHuKQGqg6cDlZrZOYP04Py9vH7iWJyAtaxhG9JjXMkSI5Em9EXJuQbHau55zDp9ZIIjM8P6XGej9vcEUjDJ6Sd7G22kIhow6njcGsjLec5NP4EL7PzTDexKqdNcmzS7g1lthzDt3AE/1xVzXJTZbggY952tJOSZ+sl4BZxaWo47wPup+BziN9og+kXStUD3ZuEHYRfLB0yqo6ymHlFGgjzo=;OLJkhurQpkBCA1Njh0D1iA=="
+related:
+  - title: "Facebook acquires computer vision firm Scape - report"
+    excerpt: "Facebook (NASDAQ:FB) has acquired computer vision start-up Scape Technologies, TechCrunch reports. The deal for London-based Scape could be around $40M, according to the report, and it says filings indicate that Facebook has more than 75% of the company. They also indicate that VC representatives on Scape's board have been replaced by two ..."
+    publishedDateTime: 2020-02-08T21:05:00Z
+    webUrl: "https://seekingalpha.com/news/3539871-facebook-acquires-computer-vision-firm-scape-report"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
+
+secured: "BCBsDBp9yo/9m6mIVtwHCc5pVohIhscb6MzdIg0x3Q4XfMB8e/6tlb6xrhOtHwVwNV/NpVMwrrkhsLrkFyUTwLt+JxYpM7A8xOO9saVvD+CGP6LI4NUH7wWtOqrCE/TSKTimUgIU6Ag7viOk6qRRvBxTsgbeogmbHna0s9iNTtaT1zde2CnUDeqJhInG1YQQMFGgYRoAUjSYJDLZZAU5OUeYU99m7w+7gWCO05BlymRJ0CkzGSNT7US/wMRbzw3y8504FGAWQVux1KmyJ7V54RMBdDVYOOkO9VrfyYBkv3GUlxZ50sPfejs9U5WWa9RPywq9o6hEoV7tMEKuxK78vaphXt2qmZwgy7elpHWsqDwPWQD+hk8C1zFioNWU3L0OH8qWgdbwTtKvaxwkG0XYgOenoMZbye1Zj/JNg46pRWnDHLUuDpe/QF0bzXpwUz1rb2KkKUr2D9eUdGeCO7v4kM+fkkzH9psrtthInSMnEf0=;IQkgivGAJ6g+iaRb2XIjPA=="
 ---
 
