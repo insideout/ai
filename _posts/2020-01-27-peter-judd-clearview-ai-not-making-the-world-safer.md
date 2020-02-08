@@ -35,15 +35,6 @@ related:
       - url: "https://media.wired.com/photos/5e2a1bb2123c60000827363b/master/pass/ai-scraping-88622242.jpg"
         width: 2400
         height: 1350
-  - title: "Class-action lawsuit filed against controversial Clearview AI startup"
-    excerpt: "A lawsuit -- seeking class-action status -- was filed this week in Illinois against Clearview AI, a New York-based startup that has scraped social media networks for people's photos and created one of the biggest facial recognition databases in the world. The secretive startup was exposed last week in an explosive New York Times report which ..."
-    publishedDateTime: 2020-01-24T17:05:00Z
-    webUrl: "https://www.zdnet.com/article/class-action-lawsuit-filed-against-controversial-clearview-ai-startup/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
 
 secured: "2TAO3COY6eohmXDe6jPGgRT7dKunK4EZMxoGPo/nsr4wD5udxBNrnnQCRkdvr+BCFiiZp5/TpdW+iF0gNiDyqDQZr9LmWPDWWmlc5AuuP4aMDVVTxgp7HmRPpmRGt/4mwrL/89Lal3/tAqnR/b/NeqVEsfEVGdDlFBJ/dvxDY1ELX+3GxYVKZS6oqJLqJiR7eGlPITzunbLy7OtCZs/jlte6Inj/Lhg1K2CCAcEjHDI3BrY9Vnd56xUdr2/LZoRScnhbvMqkH2qCwMt59+yMNArZWIpP7XlB+2IlgbHNsEYfkiZF/C94vDSOGjMe2OcI9ABWml4iHsew31jlqJZSquo0mg1mcQI4beYwdBubU8LCGGyR+LxoA5+ZXV1h5BfNGDX2HUd4l7iZ8BnXb3B+btj4gXG2McgG87Vs89pb47Rl8P4w5RcwBfzVSz0yYzw02FnwUNvrqGfuYYsI3v8TpptVvUZFR9m9WkoBccyuF6M=;Z83vztehXWSMDsMqR417ZQ=="
 ---

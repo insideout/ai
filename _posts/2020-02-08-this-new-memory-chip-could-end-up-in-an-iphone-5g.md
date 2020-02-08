@@ -3,9 +3,9 @@ category: news
 title: "This new memory chip could end up in an iPhone 5G"
 excerpt: "The new chip is likely to make its way into the next iPhone ... The rising popularity of high pixel cameras (like the 108 million pixel sensor set on the Xiaomi CC9 Pro), concurrent apps demanding huge bandwidth and AI means that LPDDR5 is likely to become the defacto memory tech for flagship smartphones in 2020. It remains to be seen whether ..."
 publishedDateTime: 2020-02-08T05:00:00Z
-webUrl: "https://www.techradar.com/au/news/this-new-memory-chip-could-end-up-in-an-iphone-5g"
-ampWebUrl: "https://www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g"
+webUrl: "https://www.techradar.com/uk/news/this-new-memory-chip-could-end-up-in-an-iphone-5g"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g"
 type: article
 quality: 89
 heat: 89
@@ -29,6 +29,6 @@ images:
     height: 545
     title: "This new memory chip could end up in an iPhone 5G"
 
-secured: "UWqcyv0juPS2viuxOCekTN9mt/7nEcFTNo2F2Js52NuXD74jhxtuDWaaxlipu/dbN3OE2h/4KfcIKxPMfiV9BIFFtInYTCtq2YY8zHkzb2LA5GyOYE61neaasN3N+NAzD4y3IcelJMqsp6hsrr21u+mehEUeYcu+b/ALlclY4CbenohTuL5k33OFHgDpynhqTrJwO0FM5pfv3dP4bxdz7OH3cI7kd+CmPEVjOYTcVQnz0friogcU5mWwB0it+ZaIajUu7yDhulp2RVAe75bClSL3zNbcjjKTZ8/SgmD4TzcLxCDyU14S6UM/ioZ1pIuOPlTi1ExyLofclXN7Oid7ws+rbpErX95GUrONhiGjk95H2QYKZcyDv75rgJB0IiwHOyk01ph4DVQjNHEW54BTi5iVZaAqbRx368OUzobnqOQiP+GQYv5jevXq7HTHeoh6LNZlhBCSLIMtcpzGGk6gPI4WFcmgNDnU5R7343nOfUY=;FMycZe8OOUMZxuvN1kXI6w=="
+secured: "Vhp1JL24F2uDn+6aGZhrtWPfxG1GEMZ7qaiYTxnL6WSR4x1hh6W89AyTEr5iXe+MatZgkvi85w0NsDgKZVP2eeYkxzFAIZ3CoVYozaRAooPNcvpcDl4CiTs76jqvrRBV6DFp0YTn/bwVFa/cAHFL3OydSw+0CXhru4qkF7QQaV7CWC8OkGSof67RXFZJ8JVaiHxycaSBw9xuV2OPM05JRXJ1M6wnqY7N+YlU2w8WJ6uUu0Jiaa6kbKMvtg5UyoM2bp/rIy7GWQeUKUUCepYUq47vX0mU2Zv7YZhDFs+dwJ00DPGJ7K4hVPopLNWTu5QG;ZE92moMncUv7b6GyAh47/g=="
 ---
 

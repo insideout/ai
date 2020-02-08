@@ -314,21 +314,6 @@ related:
       - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202001/nn_tco_uk_police_launch_facial_recognition_200124_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
-    publishedDateTime: 2020-01-21T00:00:00Z
-    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 59
-    images:
-      - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
-        width: 446
-        height: 300
   - title: "Facial Recognition Cameras Coming to London"
     excerpt: "Whether you think it’s a brilliant security measure or an alarming violation of privacy, facial recognition technology is booming right now. The latest controversy surrounding its use comes from London, with the announcement that facial recognition cameras will be permanently situated around the city. The Metropolitan Police announced the ..."
     publishedDateTime: 2020-01-25T18:29:00Z
@@ -771,6 +756,15 @@ related:
       - url: "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Facial-recognition-scanner-kids.jpg"
         width: 800
         height: 400
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
+    publishedDateTime: 2020-01-21T00:00:00Z
+    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    type: article
+    provider:
+      name: United States Army
+      domain: army.mil
+    quality: 19
   - title: "Facebook settles facial recognition dispute"
     excerpt: "Facebook has settled a long-running legal dispute about the way it scans and tags people's photos. It will pay $550m (£421m) to a group of users in Illinois, who argued that its facial recognition tool was in violation of the state's privacy laws. The case has been ongoing since 2015, and the settlement was announced in its quarterly earnings."
     publishedDateTime: 2020-01-30T13:22:00Z

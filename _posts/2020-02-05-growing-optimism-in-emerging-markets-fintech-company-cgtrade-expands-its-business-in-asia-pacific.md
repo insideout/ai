@@ -23,6 +23,17 @@ images:
     height: 786
     title: "Growing Optimism in Emerging Markets, Fintech Company CGTRADE Expands Its Business in Asia Pacific"
 
+related:
+  - title: "RBI's Low KYC: A Blessing in Disguise for Fintech Companies"
+    excerpt: "Predominantly, RBI is encouraging fintech companies to leverage emerging technologies, including artificial intelligence (AI) and face matching and recognition technologies, to ensure that the integrity of the process as well as the information furnished by the customer is genuine and authentic."
+    publishedDateTime: 2020-02-08T08:54:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/fintech-rbis-low-kyc-a-blessing-in-disguise-for-fintech-companies-4922451.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 4
+
 secured: "h3V5lyPQF8CUS5WbxFHrAx/LtgQKFLI8azxxqOigqueaJFLjtq4fErxCZNdli2v4F9YIl+xsdjQkzBOsooRdbuQF4pawZtUVMuJyuz2W7uirPVcimRjA9OZe3daFFgfbIzQvnzkc+R5ipck4bU2pBRE49DUS8Ylv0Tyx8Bfkd0LVd4kefwI2JYyqhWqKU+OQUa8/MEs7uxodO/rXcQmPxm0O/j1ajL8LqnBCRW9h7ACNW26UGy4do1gkG/+6Dg6ryjGVQ3jvE0Al3k2L2kGCH46Feo9Bs858KmzYfS/xEMtRLMPHrqB0XbxWu3mRZ1TE;h8dB8ougYC0CZ//CFZTcvA=="
 ---
 

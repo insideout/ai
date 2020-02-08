@@ -61,6 +61,19 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
+  - title: "Combining deep learning with token selection for patient phenotyping from electronic health records"
+    excerpt: "For this reason, in this paper we study deep learning neural networks in combination with natural language processing to analyze text data from clinical discharge summaries. We provide a detail analysis of patient phenotyping, i.e., the automatic prediction of ten patient disorders, by investigating the influence of network architectures ..."
+    publishedDateTime: 2020-01-29T11:52:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-58178-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 27
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58178-1/MediaObjects/41598_2020_58178_Fig1_HTML.png"
+        width: 575
+        height: 685
   - title: "Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures"
     excerpt: "In this paper, we demonstrate a computationally efficient new approach based on deep learning (DL) techniques for analysis, design and optimization of electromagnetic (EM) nanostructures. We use the strong correlation among features of a generic EM problem to considerably reduce the dimensionality of the problem and thus, the computational ..."
     publishedDateTime: 2020-02-04T11:36:00Z
@@ -74,6 +87,19 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-020-0276-y/MediaObjects/41524_2020_276_Fig1_HTML.png"
         width: 685
         height: 536
+  - title: "Fugro wins ISFOG 2020 machine-learning competition"
+    excerpt: "A team of Fugro employees has won a global competition in geotechnical machine-learning. Competing with 60 other teams from industry and academia around the world, the Fugro team came first in the pile-driving prediction event organised as part of the International Symposium on Frontiers in Offshore Geotechnics (ISFOG) 2020 conference ..."
+    publishedDateTime: 2020-02-06T14:06:00Z
+    webUrl: "https://www.directionsmag.com/pressrelease/9527"
+    type: article
+    provider:
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 24
+    images:
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/February/6/7/39d7ac5e-f4b5-445a-b757-4205f399e7a7-sized"
+        width: 800
+        height: 600
   - title: "Connecting Image Denoising and High-Level Vision Tasks via Deep Learning"
     excerpt: "Abstract: Image denoising and high-level vision tasks are usually handled independently in the conventional practice of computer vision, and their connection is fragile. In this paper, we cope with the two jointly and explore the mutual influence between them with the focus on two questions, namely (1) how image denoising can help improving ..."
     publishedDateTime: 2020-01-31T00:40:00Z

@@ -33,19 +33,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/MhpGO7zrsTCtAIUSdhcRrwBwTqs=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66220173/1130169832.jpg.0.jpg"
         width: 1400
         height: 933
-  - title: "London Police to Deploy Facial Recognition Cameras Despite Privacy Concerns and Evidence of High Failure Rate"
-    excerpt: "Police in London are moving ahead with a deploying a facial recognition camera system despite privacy concerns and evidence that the technology is riddled with false positives. The Metropolitan Police, the U.K.’s biggest police department with jurisdiction over most of London, announced Friday it would begin rolling out new “live facial ..."
-    publishedDateTime: 2020-01-24T16:35:00Z
-    webUrl: "https://time.com/5770976/london-facial-recognition-police/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 165
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/01/london-cctv.jpg"
-        width: 1024
-        height: 683
   - title: "Remember FindFace? The Russian Facial Recognition Company Just Turned On A Massive, Multimillion-Dollar Moscow Surveillance System"
     excerpt: "Built on several tens of thousands of cameras and what's claimed to be one of the most advanced facial recognition systems on the planet, Moscow has been quietly switching on a massive surveillance project this month."
     publishedDateTime: 2020-01-29T17:50:00Z

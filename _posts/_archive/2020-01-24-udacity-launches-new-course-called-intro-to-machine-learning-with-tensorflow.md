@@ -4,10 +4,8 @@ title: "Udacity launches new course called Intro to Machine Learning with Tensor
 excerpt: "The Udacity course, Intro to Machine Learning with TensorFlow, includes areas like manipulating data, supervised and unsupervised learning, and deep learning Udacity announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow. The next-generation program in machine learning (ML) introduces learners to the ..."
 publishedDateTime: 2020-01-24T11:44:00Z
 webUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/"
-ampWebUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
-cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
@@ -21,8 +19,8 @@ topics:
 
 related:
   - title: "Udacity launches new Intro to Machine Learning with TensorFlow Nanodegree program"
-    excerpt: "Silicon-valley based global lifelong learning platform Udacity recently announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow. The next-generation program in machine learning (ML) introduces learners to the fundamentals of Machine Learning in a way that is effective and engaging at the same time."
-    publishedDateTime: 2020-01-25T04:27:00Z
+    excerpt: "The new program offers practitioner level skills in new-generation Machine Learning through hands-on projects. Silicon-valley based global lifelong learning platform Udacity recently announced the ..."
+    publishedDateTime: 2020-01-25T04:29:00Z
     webUrl: "https://www.deccanchronicle.com/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
     ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
     cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
@@ -35,19 +33,6 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-uite3ht17d3qokiucq4k6ha7u0-20200125095642.Medi.jpeg"
         width: 800
         height: 448
-  - title: "Concentric launches with a deep learning approach to fixing broken file permissions"
-    excerpt: "To combat this significant threat, Concentric is the first company to leverage deep learning capabilities to identify and autonomously quantify risk by developing an accurate and detailed semantic understanding of all data. The company uses these insights to efficiently and effectively protect business-critical data and meet security ..."
-    publishedDateTime: 2020-01-31T02:25:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/01/31/concentric-semantic-intelligence/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 33
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg"
-        width: 304
-        height: 430
   - title: "Learning Platform Udacity launches Intro to Machine Learning with TensorFlow Nanodegree program"
     excerpt: "Learning platform Udacity has launched a new Nanodegree program : Intro to Machine Learning with TensorFlow. The Nanodegree program incorporates advanced areas such as manipulating data, supervised & unsupervised learning, along with deep learning."
     publishedDateTime: 2020-01-25T04:45:00Z
@@ -71,6 +56,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "nFuHTQquQpd4S1laO3S3w8UmxHSg/CTzCUxuLIgri4mHozgY0DuIB8RyNRAYRdDJumPZn+4VpcaCNb2lj5MWomfXkZeD2qkQTIUezu8VHIUki+pw9OhryFoafrORZe28RdKK6el91d9VK5jQj3ly50uyunLpC1Wz0Z3OKGDgQPgTtO169kXpAFRpNmN+8epM7iCR1ZCgFSO7lKYTASY0G4uSKIXvaowpvtXYVlMRG0dfTsfB7oJEBJ3r5bI+ch6B6Io3+0qIFehVJN0BHItnhxcZsPIKn1GDNa7wNu8sJQPtWqLNdvQLXYI3PGrDqe7a;Qt7oDXfyKJDXZcwlshAmJQ=="
+secured: "uiUFyibiO14+ubiwh/ER8axJESsz/NzOgLx6d7XjbfzM5uS99u03VIWpYLK4gJ2E/1POPimiCUnBq7ypJvY1YIzVS1IdZhx2Mnq1LRrtg3f7jdV6CW8GUUlA1oOTMMgNHsQn6OBa9w7Y/UGU1lVnATNFYIdDG3T48W7PGMC0coTZXh8bLD5E/vt2Qr1yLf9QIyQKmtvtTkZzX+3QjspMqyNoHlJ3RqmB3+4zR+vujiOQH9hvheWQLw3cgBW7ANtOG7FXx+UYHN4cB23p9kVqAqoCM9EHa5iYy9OQnMPgDVveFxVV3tGQmWvXmweNugCN;vTmkwPWPcqv6HKj5vnVMVQ=="
 ---
 

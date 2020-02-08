@@ -24,96 +24,42 @@ images:
     title: "Test shows promise of self-driving cars for transit"
 
 related:
-  - title: "Why most self-driving car companies use these 3 models"
-    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
-    publishedDateTime: 2020-01-21T20:54:00Z
-    webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
-    ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
+  - title: "Mass Production Of A Self-Driving Restaurant Robot Is Coming"
+    excerpt: "Bear Robotics has received a Series A investment of $32 million and has plans to mass-produce its self-driving restaurant robot called Penny. The robot works as a food runner and can deliver items to a table."
+    publishedDateTime: 2020-01-25T03:17:00Z
+    webUrl: "https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/"
+    ampWebUrl: "https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
+      name: Forbes
+      domain: forbes.com
     quality: 74
     images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F43189452%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D0%26cropY2%3D2667"
         width: 1200
-        height: 630
-  - title: "Apple's self-driving car system could use voice, gesture guidance"
-    excerpt: "Interacting with a future self-driving car could be a lot like working with some future interpretation of Apple iOS with voice, gesture and touch-enabled commands at your disposal. It's the overarching view gathered after reading through an Apple patent application filed last August and published last week for a self-driving car voice and ..."
-    publishedDateTime: 2020-01-27T20:49:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-system-voice-gesture-guidance/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
+        height: 800
+  - title: "GM will invest $3B to scale production of electric, self-driving vehicles"
+    excerpt: "General Motors Co. said today that it will spend $3 billion to retool one of its main Michigan auto plants for the production of electric and self-driving vehicles. The lion’s share of the planned investment, $2.2 billion, will go directly into facility upgrades. GM said that it will bring in new “machines, conveyors, controls and tooling ..."
+    publishedDateTime: 2020-01-27T17:55:00Z
+    webUrl: "https://siliconangle.com/2020/01/27/gm-will-invest-3b-scale-production-electric-self-driving-vehicles/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
     images:
-      - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
-        width: 1200
-        height: 630
-  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious"
-    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps."
-    publishedDateTime: 2020-01-25T14:44:00Z
-    webUrl: "https://www.businessinsider.com/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/cruise-1.png"
+        width: 718
+        height: 400
+  - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles (GM)"
+    excerpt: "GM will invest $3 billion into its Detroit-Hamtramck plant in order to build electric and self-driving vehicles. The factory had previously been \"unallocated\" as GM shifted from sedan production to pickups and SUVs. The company said that Detroit-Hamtramck could provide 2,200 \"good paying\" manufacturing jobs when running full speed. GM aims to ..."
+    publishedDateTime: 2020-01-27T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gm-is-revitalizing-a-near-death-factory-to-build-electric-and-self-driving-cars-2020-1-1028846918"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious (INTC)"
-    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps. Mobileye CEO Amnon Shashua told Business Insider that autonomous vehicles (AVs) can't be too cautious. If AVs take too long to get to their destinations, people won't want to ride in them, Shashua said. To increase ..."
-    publishedDateTime: 2020-01-25T13:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1-1028844526"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://images.markets.businessinsider.com/image/5e2b293624306a2d955068f4-2333/mobileye-2020-ces-shashua-5.jpg"
-        width: 1024
-        height: 768
-  - title: "Uber set to bring self driving cars to Washington"
-    excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
-    publishedDateTime: 2020-01-25T00:47:00Z
-    webUrl: "https://www.abccolumbia.com/2020/01/24/uber-set-to-bring-self-driving-cars-to-washington/"
-    type: article
-    provider:
-      name: ABC Columbia
-      domain: abccolumbia.com
-    quality: 39
-    images:
-      - url: "https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg"
-        width: 992
-        height: 558
-  - title: "The road ahead for AV in the age of self-driving cars"
-    excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
-    publishedDateTime: 2020-01-28T10:25:00Z
-    webUrl: "https://www.avinteractive.com/features/blogs/road-ahead-av-self-driving-cars-28-01-2020/"
-    type: article
-    provider:
-      name: avinteractive.com
-      domain: avinteractive.com
-    quality: 24
-    images:
-      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
-        width: 620
-        height: 330
-  - title: "Uber bringing fleet of self-driving cars to Washington, DC"
-    excerpt: "Uber is bringing a fleet of self-driving cars to the nation's capital to begin mapping out prospective routes -- aided by human drivers at first -- starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle operator ..."
-    publishedDateTime: 2020-01-24T17:00:00Z
-    webUrl: "https://abcnews.go.com/Technology/uber-bringing-fleet-driving-cars-washington-dc/story?id=68504129"
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
     quality: 4
 
 secured: "iMLgumH6av33MrzW8y6bljTtuFIEky9AQizeFChYeDlJEOR82tdPtHnVJB5Lt/ROvFTsu04yw+LePk56Vi29KW+hRw5eIVsOyrZnTBrxEIVHR4RL1XKKzLTna0kcEo/OAHpfGKVFoDWD/YeZizcfpWj9BreXwHQoZ+fymfiZsKnDT5TTAqSnXe8jC1BxDXgfifHQ7gJLAbWimabufC1jO6g5S7J69RLgtx+S3InQN7sibRngmHL+J5UsCf0e+30qhuWymgc5vrw1t72zcohSuPGdf1SYUJBowJju3UrocNhE67cVd0DzmsttzWpKd54WRd8ZSMHn/VQrtmmJhGNCEkBtSYU8W0hRv2v6Qo0qeV4qrBXVZefj/CF1WAh7Gd9vbfyo5nCd1ZreBno+X5nBIxwUzjwA1PczCZS2WY0ZomQGgEOaa5sMc7SXBEbRy0DTK3VMHyXF2364m3vFSQahItkeQUsnznXbptcObidy5P4=;rqgRtuXZBpYFSsDKJHOUmQ=="

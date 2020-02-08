@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/clearview-ai-scraping-web/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-ai-scraping-web/amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     title: "Scraping the Web Is a Powerful Tool. Clearview AI Abused It"
 
 related:
-  - title: "Class-action lawsuit filed against controversial Clearview AI startup"
-    excerpt: "A lawsuit -- seeking class-action status -- was filed this week in Illinois against Clearview AI, a New York-based startup that has scraped social media networks for people's photos and created one of the biggest facial recognition databases in the world. The secretive startup was exposed last week in an explosive New York Times report which ..."
-    publishedDateTime: 2020-01-24T17:05:00Z
-    webUrl: "https://www.zdnet.com/article/class-action-lawsuit-filed-against-controversial-clearview-ai-startup/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "Peter Judd: Clearview AI not making the world safer"
     excerpt: "His company, Clearview AI, has done the unthinkable. It unleashed an artificial intelligence that has ... In Australia, it is almost comatose when it comes to tech ethics. If I could afford some $50 minutes with a savvy lawyer I would tell them: Your face is not a book. Or a song. Or a movie to be pirated. Your identity is not currency for ..."
     publishedDateTime: 2020-01-27T23:36:00Z

@@ -54,6 +54,32 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Retail Market Outlook and Opportunities in Grooming Regions : Edition 2020-2026"
+    excerpt: "The global Artificial Intelligence In Retail market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments,"
+    publishedDateTime: 2020-02-08T09:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-outlook-and-opportunities-in-grooming-regions-edition-2020-2026-2020-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Machine Learning Operationalization Software Market 2019-2025 Global Industry Analysis"
+    excerpt: "The Global Machine Learning Operationalization Software Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application,"
+    publishedDateTime: 2020-02-08T09:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operationalization-software-market-2019-2025-global-industry-analysis-2020-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Russia and NATO Artificial Intelligence in Military Market Segmentation and Forecast to 2019-2027"
     excerpt: "The report covers a forecast and an analysis of the Russia and NATO artificial intelligence in military market. The study provides historical data from 2016 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
     publishedDateTime: 2020-02-04T11:13:00Z

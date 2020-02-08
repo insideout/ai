@@ -4,12 +4,10 @@ title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
 excerpt: "The global machine learning market is projected to grow from $7.3B in 2020 to $30.6B in 2024, attaining a CAGR of 43%"
 publishedDateTime: 2020-01-19T19:28:00Z
 webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/"
-ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes
@@ -23,12 +21,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24962d8b6cf300071c7301%2F0x0.jpg"
-    width: 854
-    height: 634
-    title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
-
-secured: "ykicCr/QYy6uOnJ44Gt8MUzUAFWm20R3Isbt7nn1Ewfkabu4gC5aBsgTwgOmhEwx6iJ7LLRcPYotT1affyHwnmSPqqM6rUvzUCdBC2Q698pjzVmjzFk4LdX6hLn8cDwi0QkiwBk/61NOPBocKk1K9J99P0IDCDnfbDpm01GoZ0B+DJX8C8uB4OBxPiheb2ias+7MBGP7kvomcdqvfXJntodTmhCIDEG4H0nZZvDgZb6OQZQSNFFh9bzUPi1/kSswLHiPNEedmfnS+3Gp82EiCNKt5pk1afPlEXpjtiThui7ijWlop+FzcFnnsW1BPIoH;pNJVWxvxvzqnVWH/oS4AYg=="
+secured: "VaAXj5q63pQS3NyAXpFABSQu65IIsFb+G8/PA+9cBekDsaAapwbZeEVB4jJGUahKaQMHUyhG2ZuAfVMDZMaUF2wifHiLZu5n7Za6SSuhkeuQLghYC8YswMMtrHBGYImtQjJSWUxoBJ1b+HgRNe0Fz+W9JVumtcP42OQXaPCFFWNr2QniDzHrLVQhp2EHWsEhDIIXVI1RTUjB0WMJxyehPv7bYjOgG0euv647ocxV1AnrQ0u9PSuLy3fi0r762SrUQRpXlEfV2BgzdHvMdO//QXe2asENTeZo78WWKjaerf55LTd1vqiu4yzt3Mc75M3rxJtt2QLZwJ/RQxmTCTAXgsE8ZKDWlM8XDF/Z2lWvEFHYSkV7MoDdVOtx5KeuLyjagrt7syEIeWD6W3cTVKApSZ5iWrn9RshFGWNpTKqCvoC1AQk+d7oWe0TkcJwAkA2jznhOw7bgupeXlw0PWI5toT7EBEmWSBnfPXFcy2ftRw4=;LL+6tNOUROG0Z/Gjjxx/6Q=="
 ---
 

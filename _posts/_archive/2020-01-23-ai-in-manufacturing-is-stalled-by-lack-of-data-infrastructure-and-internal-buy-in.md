@@ -4,12 +4,10 @@ title: "AI in manufacturing is stalled by lack of data infrastructure and intern
 excerpt: "According to Gartner, artificial intelligence is still in the early phases of the hype cycle. Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for mainstream adoption, manufacturing leaders are already stuck in a ..."
 publishedDateTime: 2020-01-23T14:34:00Z
 webUrl: "https://www.techrepublic.com/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
 type: article
-quality: 84
-heat: 104
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: TechRepublic
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - AI Hardware
-
-images:
-  - url: "https://tr3.cbsistatic.com/hub/i/r/2019/04/16/cc5d2e5c-2d75-433f-a9a7-034a858b46e6/resize/1200x/8e5aaa1afe23fa7488ee8e296e79d3e3/istock-861189644ai.jpg"
-    width: 1200
-    height: 800
-    title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
 
 related:
   - title: "What Machine Learning Trends Can We Expect for Manufacturing in 2020?"
@@ -43,20 +35,7 @@ related:
       - url: "https://www.manufacturingtomorrow.com/images/articles/14643.jpg"
         width: 680
         height: 340
-  - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
-    excerpt: "This technology is used in industry verticals, such as manufacturing, supply chain, and others. Development of artificial intelligence-empowered chips, robots, and others in manufacturing help enhance the overall production line, and thus, has significantly increased the adoption of artificial intelligence in the manufacturing sector."
-    publishedDateTime: 2020-01-27T13:01:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/37937/artificial-intelligence-in-manufacturing-market/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 15
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
 
-secured: "AV20+i/G9TpPGWhJ9lefgvD6VnWSukadGp3OMo3WlLxXWvWgDzomREzBwfJxfeOTDBSpQjCLTcdp+YAJ2gQdeneY2aPwkFEHS90bBl+qBwVrAuKb6vSQPE7G1GpAXPaFz82rv2z7hIhWvI1VZ9NQDh+XU8nEYmJ6IpReU5/Nm9+rMd3LpOEHLpRFLH+gNvZta/gt4xPC9flvKxwxrCjSB7J4TD62EOJThb0ebpsPwjZAZ2XPvQYDEZI23RYrPLZ/lVYNxEtEiIvWDU/vFAK7LPx0u1uq2nLPLuSc8jxAnkzTX2qLb5UxIV1+6RO7Ca5Z;keqPpcVc30QQ84877xeTww=="
+secured: "gXofedxNpqfkNP04azgzpRNPrDeZlb5AC9/0d0YHLrrSAd+i6K98m/dQKyj5vnJ0oauNsZSjlkGo5mIOlCV+d/DqZV22cwNXkvXlrsVDLA8PUWio4WR6DUgNir5Zn8T/LZ15Bie5CRvyfCr8cMQe+uBnfTkwQSKvbhFsmDBpqfCj+owCPoqY5fH6Ll/YnLHfEzjxHBvdQ6CEQT6KJElKFkEtBYgo6/EliwGMTJI/fkqiqg7fFRF7letwX07kyz+qJ208U6UcB7peLfV8M4VcvtcJ67IdVs4T44/PADj9hiitldTWXnGf/K61GWCMN9FVE5htZ/uGYEcU4MtTT8cqs96UsvQrU+NmD3BnXiRoQRBiUBDarpRD6nmueEf6bgEx9Kh0zZMO9z7gvw/Y2tRWhvmbf08XgXQcslo7uqzrinz3j4yMW7d5Ybdxy2M+8+zSr8o6fpg9yA91z6GQ2FLO62gudrpdIFhSZJ9ncMcdnqM=;q5e4tpfX3kGdRwOZ47EeMg=="
 ---
 

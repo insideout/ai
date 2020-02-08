@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/30/21115119/moscow-live
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/30/21115119/moscow-live-facial-recognition-roll-out-ntechlab-deployment"
 type: article
 quality: 187
-heat: 547
+heat: 537
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Moscow rolls out live facial recognition system with an app to alert police"
 
 related:
-  - title: "London Police to Deploy Facial Recognition Cameras Despite Privacy Concerns and Evidence of High Failure Rate"
-    excerpt: "Police in London are moving ahead with a deploying a facial recognition camera system despite privacy concerns and evidence that the technology is riddled with false positives. The Metropolitan Police, the U.K.’s biggest police department with jurisdiction over most of London, announced Friday it would begin rolling out new “live facial ..."
-    publishedDateTime: 2020-01-24T16:35:00Z
-    webUrl: "https://time.com/5770976/london-facial-recognition-police/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 165
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/01/london-cctv.jpg"
-        width: 1024
-        height: 683
   - title: "Remember FindFace? The Russian Facial Recognition Company Just Turned On A Massive, Multimillion-Dollar Moscow Surveillance System"
     excerpt: "Built on several tens of thousands of cameras and what's claimed to be one of the most advanced facial recognition systems on the planet, Moscow has been quietly switching on a massive surveillance project this month."
     publishedDateTime: 2020-01-29T17:50:00Z

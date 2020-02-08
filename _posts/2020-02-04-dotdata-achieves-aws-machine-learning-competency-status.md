@@ -5,9 +5,9 @@ excerpt: "dotData has been recognized as a leader by Forrester in the 2019 New W
 publishedDateTime: 2020-02-04T08:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/dotdata-achieves-aws-machine-learning-competency-status-2020-02-04"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: MarketWatch
@@ -21,27 +21,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "dotData Achieves AWS Machine Learning Competency Status"
-
-related:
-  - title: "Fugro wins ISFOG 2020 machine-learning competition"
-    excerpt: "A team of Fugro employees has won a global competition in geotechnical machine-learning. Competing with 60 other teams from industry and academia around the world, the Fugro team came first in the pile-driving prediction event organised as part of the International Symposium on Frontiers in Offshore Geotechnics (ISFOG) 2020 conference ..."
-    publishedDateTime: 2020-02-06T14:06:00Z
-    webUrl: "https://www.directionsmag.com/pressrelease/9527"
-    type: article
-    provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 24
-    images:
-      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/February/6/7/39d7ac5e-f4b5-445a-b757-4205f399e7a7-sized"
-        width: 800
-        height: 600
-
-secured: "K1ahm+KDIlCP2xUiOEvBY+rUkHIFBMU7zABJ/R/OWd66xq0eRbFv6NIphISw44CVcblZWgEOLVQnBjZmjskGBj7rsRMQeZQmiQRJUedjup8HBKZvrRBBjPh1lWTkgwYwsDwjM3LtvH18afhHeiQmeCoM2eehbpmY7cXSfKxvLO5fMAEivRzL0mSClpmXRpDjHCosVGSESv33d0Q/MYygd78P0zBjYT+kYdR5kU+PVrEfPmLUewex5ZGPzDtx0k7z0EeO4dB9akAqxQ2tS0h5snWUUXXq55i5Fco4AQ7Ct68GyeJMSnBgdgoZf3vEWgj0;yum1PFKkv8liN/1m96mUPw=="
+secured: "PSvtsOKH62KRBuAoTB6HjUm+yMnIedADl1MQBNe6E3T6lwuevOQc0/JazqVhLgmznW5BWV2EcopmanvuKmurHbxN1JbiI/1D11p3jXuXcUfMErKu68Q2RQXAbLaCoL7T7+Lm4fvgm4jrns4+Er1+NrvmcnwCYis2VY0LUGi/sTV09XL43cH1K9LwqixtjBWSDAgcUzupYYFUp6TNu33EKTcZJ+ptqEpwLr5LIBQmnr3k4Cax1AEBM7ByaZwVIE1TOzmM8Zm0QL2OgdLNGTq0zTpA6SG9Xp9TToGmANRQOwUoYktX5BLJqiVRJd7DtoBE;OBPn5X5H4qfF76y08pP2TQ=="
 ---
 
