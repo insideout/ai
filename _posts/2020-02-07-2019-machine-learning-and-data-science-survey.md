@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-07T19:56:00Z
 webUrl: "https://medium.com/@ubajakacj/2019-machine-learning-and-data-science-survey-4b882aced1a8"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medium
@@ -26,6 +26,21 @@ images:
     width: 515
     height: 338
     title: "2019 Machine Learning and Data Science Survey"
+
+related:
+  - title: "Dataiku Launches Dataiku Community to Bring Together Professionals in Data Science, Machine Learning and AI"
+    excerpt: "/PRNewswire/ -- Dataiku, one of the world's leading Enterprise AI and machine learning platforms, today announced the launch of the Dataiku Community,"
+    publishedDateTime: 2020-02-05T15:51:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dataiku-launches-dataiku-community-to-bring-together-professionals-in-data-science-machine-learning-and-ai-300999601.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/831360/Dataiku_Inc_Logo.jpg?p=facebook"
+        width: 900
+        height: 470
 
 secured: "dxHT4K2wKymZWDvzwWa8VMOxLNcxVjcNmMMw1zzpzOpoPf596t+TpkElTEpJolJ8VHLBMgCQ8+x0JCvERe6plCz0Ef1806FO2rCzqAvHSjSIf0bXUiNpgiECNEOyoNuomFIJpiQL/TqpyDAdWcEXxFP/2c+IvuNtoNF3gfzyaag4uanWSMcijbQH8vX7hjHRKmWbgX9Zn44XM2OI14/UjMNIwLzBqxWAM66sDqk0h7dCi7Thsj8Xdf7C72KLSDF+olA+AfKtqG0+EybeLC2MJl14lYKanfgg/Nrx5K7a3/4g2/u21QW2z3js+crv5zzBKhfqrn9DxpZArF2XIvo7DhShSm7nCOwCvot9CqPZVSirzfJ4qB5W4BDNaB11GkAz5uvY/wupfCNUTH0YChlMDeDjFGAcO3Cc65aZHWBOLJUqivaZiYiNYriaFhE92cYfJ0E2O1O98Rmq21nH1Nd7ZGdHJ48Z+Eg3/33BmPy3/94=;FX6dXEA1pQ4RIb4lu9uxeQ=="
 ---

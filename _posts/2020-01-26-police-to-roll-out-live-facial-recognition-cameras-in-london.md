@@ -831,19 +831,6 @@ related:
       - url: "https://res.cloudinary.com/dods/image/upload/c_fill,g_center,h_500,w_1120/v1/polhome/UK%20public%20affairs/pa-49806341_inv3p9.jpg"
         width: 1120
         height: 500
-  - title: "Facial recognition to be rolled out across London by police, despite privacy concerns"
-    excerpt: "Police are to start using controversial facial recognition across London, despite concerns over the technology's accuracy and privacy issues. The Metropolitan Police said every deployment would be “bespoke” and target lists of wanted offenders or vulnerable missing people. Assistant Commissioner Nick Ephgrave said live facial recognition ..."
-    publishedDateTime: 2020-01-24T10:36:00Z
-    webUrl: "https://www.independent.co.uk/news/uk/crime/facial-recognition-london-met-police-scotland-yard-privacy-a9299986.html"
-    type: article
-    provider:
-      name: Independent
-      domain: independent.co.uk
-    quality: 32
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/07/27/18/facial-recognition-stratford-1.jpg"
-        width: 2048
-        height: 1536
   - title: "Facial Recognition Comedy bridges storytelling, social commentary at SF’s Cafe du Nord"
     excerpt: "On Friday, comedy collective Facial Recognition Comedy took the stage at Cafe du Nord in San Francisco as part of the lineup for the 19th Annual SF Sketchfest. Despite the group’s fairly recent rise to prominence in the comedy world, with a nationally ..."
     publishedDateTime: 2020-01-30T14:00:00Z

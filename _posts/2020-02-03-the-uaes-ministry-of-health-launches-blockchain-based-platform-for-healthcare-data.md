@@ -24,36 +24,95 @@ images:
     title: "The UAE’s Ministry of Health launches blockchain-based platform for healthcare data"
 
 related:
-  - title: "MoHAP showcases latest updates of its Smart Healthcare Center \"PaCE\" at Arab Health 2020"
-    excerpt: "“MoHAP takes pride in the key role of PaCE in integrating the AI by 100% into health services, in line with the UAE Strategy for Artificial Intelligence and the UAE Centennial 2071, in addition to attracting future treatment protocols. This comes as part of MoHAP’s strategy to provide comprehensive, innovative, and fair healthcare services ..."
-    publishedDateTime: 2020-01-29T10:46:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/MoHAP_showcases_latest_updates_of_its_Smart_Healthcare_Center_PaCE_at_Arab_Health_2020-ZAWYA20200129102522/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200129102522/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200129102522/"
+  - title: "How AI and Blockchain are Powering the Next Generation of Healthcare"
+    excerpt: "With artificial intelligence (AI), a greater amount of information about our bodies ... whose Watson Supercomputer has analyzed more than 115,000 patients to gauge impact of symptoms are leading the charge in introducing AI into healthcare as a means to save precious resources like money and time. How can we use cutting edge technologies ..."
+    publishedDateTime: 2020-02-07T20:49:00Z
+    webUrl: "https://www.fxempire.com/education/article/how-ai-and-blockchain-are-powering-the-next-generation-of-healthcare-521998"
+    ampWebUrl: "https://amp.fxempire.com/en/how-ai-and-blockchain-are-powering-the-next-generation-of-healthcare/521998"
+    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/how-ai-and-blockchain-are-powering-the-next-generation-of-healthcare/521998"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 50
+      name: FXEmpire.com
+      domain: fxempire.com
+    quality: 76
     images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
-  - title: "MoHAP takes part in the 45th Arab Health 2020 with innovative preventive healthcare projects and smart services"
-    excerpt: "With a focus on preventive healthcare and round-the-clock smart services with no human intervention to bolster the sustainable development and knowledge economy, MoHAP is introducing a number of innovative projects based on next-generation technologies including; the Fourth Industrial Revolution, Artificial Intelligence (AI), and exploring ..."
-    publishedDateTime: 2020-01-25T06:56:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/MoHAP_takes_part_in_the_45th_Arab_Health_2020_with_innovative_preventive_healthcare_projects_and_smart_services-ZAWYA20200125061827/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200125061827/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200125061827/"
+      - url: "https://responsive.fxempire.com/cover/615x410/_n/_fxempire_/2018/08/Blockchain-Concept-99.jpg"
+        width: 615
+        height: 410
+  - title: "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe"
+    excerpt: "From robot chefs to smart patches that analyze your sleeping habits, here are 11 of the most exciting health tech companies in Europe."
+    publishedDateTime: 2020-02-04T09:29:00Z
+    webUrl: "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1"
+    ampWebUrl: "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+      - url: "https://i.insider.com/5e32f5e524306a1e385a2fb7?width=1200&format=jpeg"
+        width: 1000
+        height: 500
+  - title: "A more diverse workforce and ensuring data ethics is at the heart of educational systems."
+    excerpt: "A greater focus needs to be placed on educating the next generation in STEM, developing a more diverse workforce and ensuring data ethics is at the heart of educational systems. Iain will be speaking at the AI Summit on March 5th in Croke Park, Dublin."
+    publishedDateTime: 2020-02-07T15:40:00Z
+    webUrl: "https://www.businesspost.ie/commercial-reports/a-more-diverse-workforce-and-ensuring-data-ethics-is-at-the-heart-of-educational-systems-b9deac9c"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 30
+    images:
+      - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTViNTQ5NTk5LTdiMmMtNTU3ZS1hYjVlLTI0OTM3NTA4MWQxZCZ0eXBlPXByZXZpZXcmcT04MCZmdW5jdGlvbj1vcmlnaW5hbFwiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJ1c2luZXNzcG9zdC5pZVxcXC9zYnAtbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjE5Yjg2NDYzMzMzYTU3NzJjMmM2ODZhOWNmMDJiZWZlYTk0YzE5NjcifQ==/a-more-diverse-workforce-and-ensuring-data-ethics-is-at-the-heart-of-educational-systems.io?uuid=5b549599-7b2c-557e-ab5e-249375081d1d&type=preview&q=80&function=original"
+        width: 647
+        height: 340
+  - title: "Reckoon's Blockchain & AI Enabled Solution is Shaping the Future of the Retail Industry"
+    excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
+    publishedDateTime: 2020-02-04T17:39:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/reckoons-blockchain--ai-enabled-solution-is-shaping-the-future-of-the-retail-industry-300998820.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1086082/Reckoon_Global_WishBasket_Shopping_Protocol.jpg?p=facebook"
+        width: 1199
+        height: 628
+  - title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
+    excerpt: "PARIS--(BUSINESS WIRE)--Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels ..."
+    publishedDateTime: 2020-02-06T09:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200206005222/en/Yseop-Launches-Augmented-Analyst-Next-Generation-AI-NLG"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
+    images:
+      - url: "https://mms.businesswire.com/media/20200206005222/en/771287/23/Manche_H_YSEOP.jpg"
         width: 1200
-        height: 878
+        height: 627
+  - title: "Yseop Announces Augmented Analyst, the Next-Generation AI NLG Platform Featuring the Most Advanced Intelligent Automation ..."
+    excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels of user-adoption ..."
+    publishedDateTime: 2020-02-06T09:07:00Z
+    webUrl: "https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4"
+    ampWebUrl: "https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
+    cdnAmpWebUrl: "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
+    type: article
+    provider:
+      name: Calgary Herald
+      domain: calgaryherald.com
+    quality: 12
+  - title: "UAE’s Ministry of Health and Prevention Teams Up with Other Local Agencies to Launch Blockchain Platform for Managing Healthcare Records"
+    excerpt: "According to the UAE Ministry’s plans for integrating artificial intelligence (AI) into healthcare service systems, the platform will incorporate key AI capabilities. Dr. Amin Hussein Al Amiri, the assistant undersecretary of the Ministry of Health and Prevention’s Public Health Policy and Licenses, noted: “The AI-based projects will play ..."
+    publishedDateTime: 2020-02-06T02:19:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/02/157036-uaes-ministry-of-health-and-prevention-teams-up-with-other-local-agencies-to-launch-blockchain-platform-for-managing-healthcare-records/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 1
 
 secured: "jTuQyI6KGm+q5KANrTraj1rKBkVvptaTEeW7KFK4Z11Gk+HGKZUvGVDcFZXPqNtdeU24JWzSO+QZEDylTRL6TRPkxp8rlTDWqV6jkxKx4XWEWKNcrClTJzeDmT4OyaPBtLVDM64WVoWuZII13T2dUMdw5m7asPKAShGYf40rtDuj6G0gYRjdYlOT7EzkXnLzr9eOVhNvdV+IhDFP6PcrgtsbeXzJ5eJpU9c2gdXQwZ/2aZTiowQR89p/cgJt3KKbnhnO8nMou9Gx2VWLk/3aQaaJJQmZ1hERdgC5yPhq3bgWT/Bp2LFEpPiI/pnUiY8nGVk/+kFkw8Gl7QertYzoWPBB76JN3tZoq+aNab4X3jNpODkAohTLh/TGt45gHh1d+lUznixmyx9dJrcIr4gYzeZ21TuIWjDpiFT+v/FRmQP9PaRWl+ZNUAyKv3LAx2vX11ii1yaQ0I4UKDI4K8Vt5nvBele4ym4Gd4B1pukepCo=;qHpWQdvSJCvWE4U1lG+CDg=="
 ---

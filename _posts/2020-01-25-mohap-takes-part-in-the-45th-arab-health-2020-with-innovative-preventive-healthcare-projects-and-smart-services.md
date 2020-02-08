@@ -41,19 +41,6 @@ related:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
         height: 878
-  - title: "The UAE’s Ministry of Health launches blockchain-based platform for healthcare data"
-    excerpt: "This follows a vision laid out by the UAE government with the AE Artificial Intelligence Strategy project. “The transition to the AI technologies is in line with the directives of the wise leadership to make the UAE a leading global model in the proactive confrontation of future challenges and focus on smart health care,” said Dr. Amin ..."
-    publishedDateTime: 2020-02-03T17:11:00Z
-    webUrl: "https://siliconangle.com/2020/02/03/uaes-ministry-health-launches-blockchain-based-platform-healthcare-data/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2016/08/doctor-ipad-technology.jpg"
-        width: 440
-        height: 293
 
 secured: "3mANj3hBts6E3Lh51+4P+QrgtJ8V971Qo7RdNIOvLoy5JkxussD77/rKt57pQa0WQl09uac/ngarGiAtSjxNQPnPcAH5e/4Y3bUTZl1vbXMnAMIle6/f6DVO7QNH82djlrGc3hsDu8nkVQF2Y88xSfgvx3LK97qb905a/8y7W7N/r1ZhOGVaP6SfW/54tqFO53+kgIUZ87LP26QgVoZaKpufRPO7l2aBCorrrsKZMGRqomCnEDLiikyjviSe54gF7JYECxxMIZh0ShX4EX38SfpCf1Z0CoRBjp1yNcRe/CzNOGxtkzGTiw/2coAuMDY5;6lOxw5y3bo0yRHehvUWD9g=="
 ---

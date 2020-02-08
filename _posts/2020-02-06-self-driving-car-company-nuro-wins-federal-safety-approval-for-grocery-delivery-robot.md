@@ -286,6 +286,21 @@ related:
       - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
         width: 600
         height: 360
+  - title: "US clears the way for this self-driving vehicle with no steering wheel or pedals"
+    excerpt: "The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. Nuro, based in Mountain View, California, is now able to launch up to 5,000 of its R2 autonomous vehicles over the next two years, according to the US Department of Transportation. The R2 has no ..."
+    publishedDateTime: 2020-02-07T01:05:00Z
+    webUrl: "https://www.click2houston.com/news/national/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/"
+    ampWebUrl: "https://www.click2houston.com/news/national/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/?outputType=amp"
+    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/news/national/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/?outputType=amp"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 39
+    images:
+      - url: "https://www.click2houston.com/resizer/-IrHs1Ft08vHH4FTgXNxjvfCOHM=/1280x720/smart/arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/SWQC3PNMGZG3JNS7O5DKQ44P3A.png"
+        width: 1280
+        height: 720
   - title: "Uber to bring back self-driving cars in California for first time since 2018 death"
     excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
     publishedDateTime: 2020-02-06T00:06:00Z

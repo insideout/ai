@@ -23,73 +23,95 @@ images:
     title: "Reckoon's Blockchain & AI Enabled Solution is Shaping the Future of the Retail Industry"
 
 related:
-  - title: "The Future of Fintech: AI & Blockchain"
-    excerpt: "In The Future of Fintech: AI & Blockchain slide deck, Business Insider Intelligence explores the opportunities and hurdles of adopting the two technologies within financial services."
-    publishedDateTime: 2020-02-01T03:19:00Z
-    webUrl: "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech"
+  - title: "How AI and Blockchain are Powering the Next Generation of Healthcare"
+    excerpt: "With artificial intelligence (AI), a greater amount of information about our bodies ... whose Watson Supercomputer has analyzed more than 115,000 patients to gauge impact of symptoms are leading the charge in introducing AI into healthcare as a means to save precious resources like money and time. How can we use cutting edge technologies ..."
+    publishedDateTime: 2020-02-07T20:49:00Z
+    webUrl: "https://www.fxempire.com/education/article/how-ai-and-blockchain-are-powering-the-next-generation-of-healthcare-521998"
+    ampWebUrl: "https://amp.fxempire.com/en/how-ai-and-blockchain-are-powering-the-next-generation-of-healthcare/521998"
+    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/how-ai-and-blockchain-are-powering-the-next-generation-of-healthcare/521998"
+    type: article
+    provider:
+      name: FXEmpire.com
+      domain: fxempire.com
+    quality: 76
+    images:
+      - url: "https://responsive.fxempire.com/cover/615x410/_n/_fxempire_/2018/08/Blockchain-Concept-99.jpg"
+        width: 615
+        height: 410
+  - title: "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe"
+    excerpt: "From robot chefs to smart patches that analyze your sleeping habits, here are 11 of the most exciting health tech companies in Europe."
+    publishedDateTime: 2020-02-04T09:29:00Z
+    webUrl: "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1"
+    ampWebUrl: "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 69
+    quality: 67
     images:
-      - url: "https://static.businessinsider.com/image/5e305ac224306a476129d512"
-        width: 400
-        height: 224
-  - title: "How experts are using artificial intelligence to shape the future of fashion"
-    excerpt: "Digital supermodels, virtual trial rooms and analytics could possibly change the way we shop in the future. In the age of artificial intelligence, analytics and big data—which collectively translate unstructured data to meaningful solutions, trends and patterns—how does the fashion industry keep up? For instance, excess stock arises from ..."
-    publishedDateTime: 2020-01-27T13:05:00Z
-    webUrl: "https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion"
-    ampWebUrl: "https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp"
-    cdnAmpWebUrl: "https://www-vogue-in.cdn.ampproject.org/c/s/www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp"
+      - url: "https://i.insider.com/5e32f5e524306a1e385a2fb7?width=1200&format=jpeg"
+        width: 1000
+        height: 500
+  - title: "The UAE’s Ministry of Health launches blockchain-based platform for healthcare data"
+    excerpt: "This follows a vision laid out by the UAE government with the AE Artificial Intelligence Strategy project. “The transition to the AI technologies is in line with the directives of the wise leadership to make the UAE a leading global model in the proactive confrontation of future challenges and focus on smart health care,” said Dr. Amin ..."
+    publishedDateTime: 2020-02-03T17:11:00Z
+    webUrl: "https://siliconangle.com/2020/02/03/uaes-ministry-health-launches-blockchain-based-platform-healthcare-data/"
     type: article
     provider:
-      name: Vogue India
-      domain: vogue.in
-    quality: 54
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
     images:
-      - url: "https://assets.vogue.in/photos/5e2ed96a3af48200081e835e/16:9/w_1920,c_limit/f.jpg"
-        width: 656
-        height: 369
-  - title: "AI will rewrite the future of fund management"
-    excerpt: "At this early stage, AI already delivers investible insights, superior client experience and lower unit cost. Sign up to the weekly FTfm newsletter and receive the best of the FT’s asset management coverage delivered to your inbox every Monday morning. It is set to disrupt fund management and unleash a winner-takes-all dynamic, as seen in ..."
-    publishedDateTime: 2020-01-27T05:00:00Z
-    webUrl: "https://www.ft.com/content/a984124e-b4e5-4436-a206-6621459b57f4"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2016/08/doctor-ipad-technology.jpg"
+        width: 440
+        height: 293
+  - title: "A more diverse workforce and ensuring data ethics is at the heart of educational systems."
+    excerpt: "A greater focus needs to be placed on educating the next generation in STEM, developing a more diverse workforce and ensuring data ethics is at the heart of educational systems. Iain will be speaking at the AI Summit on March 5th in Croke Park, Dublin."
+    publishedDateTime: 2020-02-07T15:40:00Z
+    webUrl: "https://www.businesspost.ie/commercial-reports/a-more-diverse-workforce-and-ensuring-data-ethics-is-at-the-heart-of-educational-systems-b9deac9c"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 30
     images:
-      - url: "https://www.ft.com/assets/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
-  - title: "Artificial Intelligence and the Future of Sales and Marketing"
-    excerpt: "Artificial intelligence (AI) has the potential to significantly improve businesses’ sales and marketing efforts, and thus their fortunes overall. In fact, it may be hard for companies to move forward without it. Two-thirds of the 615 respondents to a recent survey from Harvard Business Review Analytic Services agree that AI in marketing and ..."
-    publishedDateTime: 2020-02-07T09:43:00Z
-    webUrl: "https://hbr.org/sponsored/2020/02/artificial-intelligence-and-the-future-of-sales-and-marketing"
+      - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTViNTQ5NTk5LTdiMmMtNTU3ZS1hYjVlLTI0OTM3NTA4MWQxZCZ0eXBlPXByZXZpZXcmcT04MCZmdW5jdGlvbj1vcmlnaW5hbFwiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJ1c2luZXNzcG9zdC5pZVxcXC9zYnAtbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjE5Yjg2NDYzMzMzYTU3NzJjMmM2ODZhOWNmMDJiZWZlYTk0YzE5NjcifQ==/a-more-diverse-workforce-and-ensuring-data-ethics-is-at-the-heart-of-educational-systems.io?uuid=5b549599-7b2c-557e-ab5e-249375081d1d&type=preview&q=80&function=original"
+        width: 647
+        height: 340
+  - title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
+    excerpt: "PARIS--(BUSINESS WIRE)--Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels ..."
+    publishedDateTime: 2020-02-06T09:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200206005222/en/Yseop-Launches-Augmented-Analyst-Next-Generation-AI-NLG"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2010/05/HBRAS_research_paper.png"
+      - url: "https://mms.businesswire.com/media/20200206005222/en/771287/23/Manche_H_YSEOP.jpg"
         width: 1200
-        height: 675
-  - title: "Stock Bots: The Future of Financial Trading?"
-    excerpt: "Stock Bots: The Future of Financial Trading? Humans still program the algorithms and design their ... They cannot think or feel, and despite the hype around machine learning, it’s still contentious and complicated to describe them as intelligent. Like human traders, however, they make decisions, observe others making decisions, and adjust ..."
-    publishedDateTime: 2020-01-29T15:56:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/stock-bots-future-financial-trading-117806"
+        height: 627
+  - title: "Yseop Announces Augmented Analyst, the Next-Generation AI NLG Platform Featuring the Most Advanced Intelligent Automation ..."
+    excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels of user-adoption ..."
+    publishedDateTime: 2020-02-06T09:07:00Z
+    webUrl: "https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4"
+    ampWebUrl: "https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
+    cdnAmpWebUrl: "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
     type: article
     provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 24
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/sdfgg.jpg"
-        width: 1305
-        height: 863
+      name: Calgary Herald
+      domain: calgaryherald.com
+    quality: 12
+  - title: "UAE’s Ministry of Health and Prevention Teams Up with Other Local Agencies to Launch Blockchain Platform for Managing Healthcare Records"
+    excerpt: "According to the UAE Ministry’s plans for integrating artificial intelligence (AI) into healthcare service systems, the platform will incorporate key AI capabilities. Dr. Amin Hussein Al Amiri, the assistant undersecretary of the Ministry of Health and Prevention’s Public Health Policy and Licenses, noted: “The AI-based projects will play ..."
+    publishedDateTime: 2020-02-06T02:19:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/02/157036-uaes-ministry-of-health-and-prevention-teams-up-with-other-local-agencies-to-launch-blockchain-platform-for-managing-healthcare-records/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 1
 
 secured: "09wxOthqGhpOoRmQyhsvGGyoPWv+6qR3DR6vL/VWIh2ShENgdoja4J0/F4v6raWiqyI2sQ6sDfCYQFwZytVthdcOBK/b7aXClkbLMxEraynr5PoZYL0K+cqLoGqZesjnHq7Tw/y6ligph9E3B1B6XIooP2Yyd+1RApuZLxglrheIxUYZoUOahp9IdkxDu9Vfdj5GkfwnloWdm0++DS4Bn7gk46lrV+e2k6a/QOjARcdy+kKJnT0v2VZaCgy+Q/Vn+GJERVDvWG2Ci9g7Qzmvof+9N30BF9l94N4EQNf9T9jCWCt2aQ+kh+oxUfBNQNgJLN/Kg+W9vK6o3aGm+XJBbWirO0INKhXQnzhWoBmixHTCzrNA669mCAXwoIDOHW0E6gNmabm2lNraSTy7iavcNQ98M8HTQbFQkBfIyMQjDfDkPXGT1J/N1V2sh4JPymY9oKCr3Domd66JDJMkc2TdX3dOnwc/qU8LBb1kumhiFeE=;zw0jWySqGpB+8oXqXFvs2g=="
 ---

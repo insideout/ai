@@ -41,7 +41,18 @@ related:
       - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
         width: 675
         height: 365
+  - title: "AI can detect low-glucose levels via ECG without fingerpick test"
+    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
+    publishedDateTime: 2020-01-14T02:17:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
+    type: article
+    provider:
+      name: ETHealthworld.com
+      domain: indiatimes.com
+    quality: 39
 
-secured: "zfGl9ObEttRU62pqxOyVCEDXuFFZSquzQyAh5ZegwXjD4f/5op9ZC3ej67LHbF6VtPVuMkcH/WmrchwM47ubnnD2IiNCTwLdrlJA/KIXN9h76/0Ys3z3uAPj649tP0Et2Yng7g77aTx3uJI/aSBtJERw9ELLvFyVpJ08cKu6QFlFkgi15lRRdlGGRxwtDx7loQib0PQtECHBUA+DiiPxdpc725bvz89W1v8z8vx+MvijG6gWP55ZCTWUxM81IYJ/ezmZGhaArG/HXbu1g/INT0cauNs4a2qgLGSybGU4H+FcXpAuhCNREeqGiwwP4cgX;/Koup3if4cNGRi7KEqLTBA=="
+secured: "AGODwBSFQWPkuqNFmQeXuWw+ea5X222xydU29MQ/oyXKEB2Aq1tR8lW4y7YhboXJ9EGKAgNgy9mrquH+6kkDHzNYxMZj5lednT46oRedGJO6hMDOKCzYTgwRmb73nVBDTIdGvLhhFutAtEYteC/H9PnVdDGYtMohJHgIdoPm+vwZL3nq5EjfBB6V9lUje2Va5mTZIdrKeciOuZVhrHfEk8ZH3nhKPQev6KRqrsRx5Mhyi3OAi+LlDWkF9+wwy9Nhe1MxTvH7D56hYSTg1Eyrb4k8ZiLkDAvJ5BPgddabuDJ5cWFkI6D9N/oHGBWOOv6Q;+ehhYHjia17AX/8lA1BwJw=="
 ---
 

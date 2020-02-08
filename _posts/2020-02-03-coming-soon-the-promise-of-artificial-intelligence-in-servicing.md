@@ -38,21 +38,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2f4189a854780006afa33e%2F0x0.jpg"
         width: 1200
         height: 768
-  - title: "Bringing culture to the boardroom: how financial services can embrace culture"
-    excerpt: "New technologies like AI and machine learning are reshaping both capabilities and job roles ... Culture’s current position According to recent Hibob research, looking at how C-Suite regard workplace culture, the financial service (FS) sector is notably less likely to discuss it at board-level than most verticals. In fact, only 66% of FS ..."
-    publishedDateTime: 2020-01-24T10:32:00Z
-    webUrl: "https://www.globalbankingandfinance.com/bringing-culture-to-the-boardroom-how-financial-services-can-embrace-culture/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/bringing-culture-to-the-boardroom-how-financial-services-can-embrace-culture/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/bringing-culture-to-the-boardroom-how-financial-services-can-embrace-culture/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 41
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/01/business-22.jpg"
-        width: 1000
-        height: 667
   - title: "Healthcare CIOs in 2020: 3 key priorities & how the role is evolving"
     excerpt: "During an advisory call hosted by Becker's Hospital Review, four CIOs shared insight into their priorities for 2020, differing thoughts on emerging technologies, the benefits and challenges of going digital, the changing healthcare landscape and ... vulnerable we still are,\" Mr. Davis said. 3. Artificial intelligence. CIOs are split in terms ..."
     publishedDateTime: 2020-02-03T18:37:00Z

@@ -39,20 +39,7 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
-    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
-    publishedDateTime: 2020-01-16T00:00:00Z
-    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 54
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-        width: 849
-        height: 565
 
-secured: "rU1W7bQqLqDLjjQ5+ynYd0SmUgtx/CfxX8oTtcvlY/tu34yo2HazsMZ5xIZHk0XQe9tJIbFQRcWct3XD3f0iYD+doqS31reoC9Q58R/a/i7EhtDNchRrByCRNQMP3oXw3+i6oWYXfFQ7Oizqr1S0cGMH8P6vJvYgouRshXcn94NTWlZYItVJvomKh1fZYUaAHcByzV66+Wb0jTHcz5T9nplBA1E4BD8crF5hDn3lCXYn6TkXzxq/zElajNom30nUXVMxQpGDGKvF+gjlI6pvwPFVNTrY7mUjRmW23QHfGUI7/Nx43X7vr2+OI8dvMZbi;WXdJO/+m/UNEBg/LOJmWnQ=="
+secured: "50nCc8vohngzTNHkLvmDwY6hDzKcPqq5EbH8BCTrWGeJywS3S0DMAl2LV+xXGqsog6A2i7GYsVQ5+vjyLpCg7EJ64i4xfqlEPACYG+ArjE+AmaRbfpcxBbw2F69UXQsUycli+4dwPcLfzagGgYarw6N5v0xiLaLiu+hDaHfXKJUP39wwFboiJT/6WAQDN8Dc8COsKh2o0/mGGaBuxAhysn+mrkCpEUhS7VlYvPUPHS2pT/qjr44OIo905reKm0sDZsQ+xfA9um902uZiCo8fz+buaCLsDAG/5Wlke1jaABUk7YdM4C6bCK2FdZHoOn1u;PHwTjQI+a+1aWdtgmTK3eA=="
 ---
 

@@ -30,6 +30,6 @@ images:
     height: 511
     title: "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care"
 
-secured: "HDupS+DIshsQLUkCSYOBa6M2cQHZ2Z0tp3UVu/6B53FlOQDr/gDd32cAgRcWAGAUQpLr5jdPps6mVLTDvpscm70emUAHKZVnoDodQLNCWmogSxfc2cWn6uxMbdwptVrvSNn9K0oGTTyOx+smwxjIlNdwIO6Zr3x/+tih6eAeVQmIMKMhdfZwzgsz7FEafBQmi3VnaWmJtHt6TpyWvOCqY8dLCzJ3fTEkOtHlTZod/zP65YAHoPrUE3330TJorT13/38F1nTxvLIl4v4GWmBGYDPP/4CojyEEomT+v717Ct/wMcysR6KebwuslUTjq6O1;P5C9SR5Ic6pAmG20h/+/7g=="
+secured: "YE8TXinQ7e+Uq+KwXgpl4mnT3ymfGGAXa+nDYk1zBLM6j41e5QYJHE0IFWTgWhF2j7F9O1lAQLiOHz7lXLZA3cZ9gdpf2W+BDu4W+H5xux5aRYnZWpfx0RFqoYt3GxFGI5AhtWub/ZAOOcUYKmAMJlzJfcaap0PDQZWlsNPTvyLUBaly1mto77v5Ic1YxgTy+pEJ9xY+zBVQ5l2Pmd/NzwfGjmhCLjwPuWR8jCoReFs9+XXBCz4Fg+bEGo13WdD0xi0ry0EaP8uIr4FiYUnLK2ecI3Gqh9WmW615+cwxcWBl1u7Z2pdhJshNjFwOhiJudO2owYXbxO/aoVHYbqKHjPwu6SjUgzemlfLRBK6rykNz4njwBDWn72go10s3j2yW7R5fCrcOp3IpDQ+DyT0A43B8mhQr+1Yx6CmJdhO4VJCjTnR6TLq1jUVI3ztNKgxo1x95QIBALNoKYtoj89tavzSx2e757Em/nFGWnsr7SO0=;f3UZX8hlGFnuVd9EJ3JgAw=="
 ---
 
