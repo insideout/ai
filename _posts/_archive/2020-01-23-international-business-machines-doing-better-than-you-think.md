@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T23:03:00Z
 webUrl: "https://seekingalpha.com/article/4318707-international-business-machines-better-you-think"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,21 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-related:
-  - title: "Machine Learning: Automating Businesses for the Future"
-    excerpt: "Predictive analytics, artificial intelligence, and machine learning enhances the consumer-centric services and has changed the ways different business activities are performed. The most immediate way by which businesses utilize machine learning is for bettering their competitiveness by automating back-office processes. The majority of which is ..."
-    publishedDateTime: 2020-01-25T03:33:00Z
-    webUrl: "https://www.cioreview.com/news/machine-learning-automating-businesses-for-the-future-nid-31096-cid-207.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/dtrw7.105.jpg"
-        width: 300
-        height: 400
-
-secured: "P0IduAkG3R25jaGM6uGWxeV69j/3loAcY2DiW356gaGHKrU/cKT7HmbCD6/TGTj7LRfsWVy3AUvaeGdsWuf3/EjTSy6O8LBGPUeFULCqoG7OZIPNxDfOawMl14kTYq399nMSnquIRWqKzkK5HEhsKE3nynaBFbNE2EEhKhDLgV/1rtHvqqSAHSOau094PgpqqfPzwMH3nabqfGT/lLdO6j1s4h0z6i5n4HB91vupY55v6fU6bFgwkeLKe49qvtYgHou47cojMC/vokSiM2xrLW4GEEnnPS83IZIQRGvaTLBqK93AJkBtVUMCOSstsFSp;UTMG48MCR8Psn0eYpVIhZw=="
+secured: "I3C2IxZJG6WbzYU+3tAAWcYPmlRhtiqqUNND+a6IX3U2HuEVG8V73Ur0QwblMB7ZFwq1hmaesMpt7RTGUcDBHrWxMIVr1SUUM97uJ6TKKFSj6TBkT1lE50pCQVHQ6U3O4TH2Y6IpGCUAb6XMgychFfxa86SPHQt0RImrZ9UuwPQKNAnbJL+6j1nvmivtgkOovRmWqnyuoEFsw8641WsJc7JbyKFjZ4YPep2hrFwVMXX+XAjs1gcxHONS36LShW5pbhlc5/U+rNB4+e05vHtLlFRcFgcgSXwsh2a+nQW1NJyqTrNfV8k4pPA9Cz8oAHK+;xxWgpXZ0WVyVK6VLVrEFNw=="
 ---
 

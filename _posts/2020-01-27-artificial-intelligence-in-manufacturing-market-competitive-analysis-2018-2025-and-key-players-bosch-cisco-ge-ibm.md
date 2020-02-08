@@ -36,9 +36,9 @@ related:
       domain: techrepublic.com
     quality: 84
     images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2019/12/04/70d05d50-7fdc-4611-acee-d1c6867906c0/thumbnail/1200x675/075730befe930c61f707faeac9381bfe/20191125-veronica-karen.jpg"
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2019/04/16/cc5d2e5c-2d75-433f-a9a7-034a858b46e6/resize/1200x/8e5aaa1afe23fa7488ee8e296e79d3e3/istock-861189644ai.jpg"
         width: 1200
-        height: 675
+        height: 800
   - title: "What Machine Learning Trends Can We Expect for Manufacturing in 2020?"
     excerpt: "Google’s Cloud AI Platform, Amazon’s Web Services, IBM’s Watson and Microsoft’s Azure Platform are all excellent examples of AI and machine learning solutions based in the cloud. As we head into 2020, they will continue to dominate across all sectors. What this activity means for manufacturers is quite simple. Not only will it be ..."
     publishedDateTime: 2020-01-28T12:38:00Z

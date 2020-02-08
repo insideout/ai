@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Facebook Shares Drop After $550 Million Facial Recognition Settlement"
-excerpt: "Facebook has settled a lawsuit over its facial recognition practices for $550 million. Originally filed in an Illinois federal court 2015, the lawsuit’s plaintiffs were represented in the class-action by the Edelson, Labaton Sucharow, and Robbins Geller Rudman & Dowd law firms. The suit against the social media giant accused it of violating ..."
-publishedDateTime: 2020-02-01T01:24:00Z
-webUrl: "https://hauteliving.com/hautelawyer/635121/facebook-shares-drop-550-million-facial-recognition/"
+title: "Facial-recognition tech questioned, defended at House committee hearing"
+excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
+publishedDateTime: 2020-02-07T20:31:00Z
+webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
 type: article
-quality: 19
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Haute Living
-  domain: hauteliving.com
+  name: SC Media
+  domain: scmagazine.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
+    width: 700
+    height: 379
+    title: "Facial-recognition tech questioned, defended at House committee hearing"
 
 related:
   - title: "Facial recognition company CEO says he doesn’t need permission to use your face"
@@ -270,19 +276,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
-  - title: "Facial-recognition tech questioned, defended at House committee hearing"
-    excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
-    publishedDateTime: 2020-02-07T20:31:00Z
-    webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
-        width: 700
-        height: 379
   - title: "Biometric facial recognition use by police draws scrutiny but helps rescue thousands of children in India"
     excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
     publishedDateTime: 2020-02-06T22:09:00Z
@@ -309,6 +302,15 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
+  - title: "Facebook Shares Drop After $550 Million Facial Recognition Settlement"
+    excerpt: "Facebook has settled a lawsuit over its facial recognition practices for $550 million. Originally filed in an Illinois federal court 2015, the lawsuit’s plaintiffs were represented in the class-action by the Edelson, Labaton Sucharow, and Robbins Geller Rudman & Dowd law firms. The suit against the social media giant accused it of violating ..."
+    publishedDateTime: 2020-02-01T01:24:00Z
+    webUrl: "https://hauteliving.com/hautelawyer/635121/facebook-shares-drop-550-million-facial-recognition/"
+    type: article
+    provider:
+      name: Haute Living
+      domain: hauteliving.com
+    quality: 19
   - title: "Tech company develops facial recognition camera for the STEM classroom"
     excerpt: "An electronics company has developed an artificial intelligence (AI)-powered, facial recognition camera exclusively for the science, technology, engineering and mathematics (STEM) classroom. Dubbed HuskyLens, the camera developed by DFRobot is an easy-to-use camera designed to teach STEM students about facial biometrics and object recognition ..."
     publishedDateTime: 2020-02-06T17:21:00Z
@@ -337,6 +339,6 @@ related:
       domain: news965.com
     quality: 0
 
-secured: "JFShEPQ8R/O37leJseceMPUmOJFJALLC15UwUkleiqOkt4JjCT44yyZ5uZMbM8+qobygVCTJUqQdrnW1o7rngp5t5lfpP5srYTBIgu9IfGyFSXiGKmHwR/zUgcbC8HAWHRWPINBKIgjP9e98KycpM98jQlRuiuawk2B9cFZLHL4A/e6wMywUrMlw/DrmQDCWFMFbnSaYkE8yoV2sbxKEjdFTlfRzav3P9yTc/tE4fmFQGIT7/CfDn6uihEiDa4ggrgTWhsTDT/f88OQ1nZkDCTPkamNwuaV5BZ0MsyIRQQzIEualvCsr3atFEV+/dc+UuTwu1WA6QJ7AX2tx5iwg+wyFwPePhP+AuDiNWBZPXV1nMV3wDMCWbOTJT4B/sr3HMACQF9sNWHZyCSnTxdAMRopRJ1bXd51IWbkmyqdg0nRCPA+5/zSbl3Wxr+L6vN4To635nwx6eBIPd2ZzXAXSwhLpL0pdt621JcqHfUJxcq0=;5SDnl4RHcaAE2c7EnDLhkQ=="
+secured: "h8Bp9PAx3gL8XRiyRd9cVm1sBMd3wvT4gE45Z5YXUwvzpOre9Hagk3I9bm/2nGTpyFx6ypudTpBuIRhBU1vnKkxuZkVv+n+jwypFt5PlfjNjX5nWMN4XT08D5N08/4x3LQfd8NHRN3wEW8/5l2g8WnrCkFhCkYiHz3YFbB9953FMxMA7yyj6HCQ3mw+vi+ghOBAYSVliMGeER7KmR1v1F6BN6F9jW9hH3nI4+BintBmdDxtg7pICQjUY3Qfb2dbpYECOWTeSv/8niTbms6UmlbEj71GnnGXd/t0c6c014dG++e17d0GUl7zxj+ZImfpy;hx5Z5ObSl+HT+NruBOObQA=="
 ---
 

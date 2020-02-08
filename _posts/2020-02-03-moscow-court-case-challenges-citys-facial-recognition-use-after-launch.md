@@ -267,6 +267,19 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
+  - title: "Facial-recognition tech questioned, defended at House committee hearing"
+    excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
+    publishedDateTime: 2020-02-07T20:31:00Z
+    webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
+        width: 700
+        height: 379
   - title: "Biometric facial recognition use by police draws scrutiny but helps rescue thousands of children in India"
     excerpt: "“No court has ever found the First Amendment gives a constitutional right to use publicly available information for facial recognition,” Cahn told BuzzFeed News. “Just because Clearview may have a right to scrape some of this data, that doesn’t mean that they have an immunity from lawsuits from those of us whose information is being ..."
     publishedDateTime: 2020-02-06T22:09:00Z
