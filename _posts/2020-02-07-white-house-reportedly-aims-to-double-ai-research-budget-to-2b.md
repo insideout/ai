@@ -29,6 +29,6 @@ images:
     height: 664
     title: "White House reportedly aims to double AI research budget to $2B"
 
-secured: "+qRT64iZdzUr0Q+SBG6J8ouUvcxE4Tw07pV1f9ixF7tDkd7Yetaebv9EXjJRLQ8SE0Icz1vc7fCQDW+aoY54/mSnGSGzcq66EuxXulILvE/BVjJwsuWWnQSg36rkuWBCMkDkr6lRJkGY00mTWeDeGvf+bsKuZnmhyAiABQa+M8Iv3ePGiDqLMclMSYB0hEZMa3Wu5tQ+Kq6giSjcW8n4nz2euRU+fVlh75qmmmFwepaqS6hjDfNDK0zi1OJIKtSP1K4lYvVeSUknTgCTSHgxlkYJRGWr9YWsjcGMoKa90VhqnAvXmVKiOy42Y575f5ud;8CYtS6nL99RPBx0B3ab1qA=="
+secured: "58FkOCxGI2Yf4AqyyHAWbFivGM4X9hb0Frx7YcbH7x+quU3pV7AI4yh1RCnQSd/wTajI9/RN1khhBcefRPREyE4TlC6wNAPk/GkzuglOPLqQllmi2TVr43nYalCKM6goGP3wxpc7ndHA3gqH0Ujwd6+Adu+5Lla/zJfAk7YTYwm9d5CufNDX2LzewTj1ZSNDFSJozgdvXd8t9N8o8fQobgsvjAL5RzjFoU/oHyD/tZS2uamtR+zJcHM1+ow8KcvI9x1nS+Q0875JsLXWyaIBkEvz/ud5bxFgZMe9Ki8UUM4eNUys/7fri3m6KmY1/NvcQ39/EuwWhdBaLQp5a0w4MX5e8O2bcrbRcw1aXV/M9cVq/oog4IeX3V+sqqkJnGSyX/s474LgQmIvb+lmaCJE6ij0OO6zthWLR4bHZV+7RkXh4Jg+6CvhP+CLSWlpaV9jTKDOHu5jD1gLFwQPU/f42x+cM0y25o4AhZM50bk3T7Q=;0N4kqH+zNWqVvzNeT+jkjg=="
 ---
 

@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
-    excerpt: "/PRNewswire/ -- TRIPLE-1, Inc. (henceforth \"TRIPLE-1\"), based in Fukuoka, southwestern Japan, has announced the development of the AI processor \"GOKU\" for"
-    publishedDateTime: 2020-02-07T07:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/triple-1-inc-announces-ai-processor-goku-for-deep-learning-that-uses-worlds-cutting-edge-5-nanometer-process-301000799.html"
+    excerpt: "\"GOKU\" is an AI processor for deep learning that uses the world-leading 5-nm process born from the development of the TSMC 7-nm process \"KAMIKAZE.\" It utilizes core know-how such as design ability, optimization of power consumption, and yield improvement in cutting-edge processes cultivated in the \"KAMIKAZE\" project started in February 2017."
+    publishedDateTime: 2020-02-07T08:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2020/02/07/9093993.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 33
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "Iu605j+85lhbDaUy+pyiKqHTa5ZuwOeJgsrKkLbgimetQRslEjbgzqTzuBiws3m0qXLiXSDqBh04V1JcNRaWb4BChstSsaeBVrhE8cYTjw1xaqJs7KawgbAqaYmva4a9/3UXT/yR+e239pg0nCu+nifwa/ynto340i1eFRWLilasK8uc88+z8ARLbS9NRkGQ6zBDODizd1MgY9RXw3eh0ASqzT4X+2xkFGUxsU7tjh7emG5lHHW7iwKM8TJxg86/fnijkY3woip2VvclSu/ucMdh9oMyOCNWv2tpVPZbeT98cq7ueLef/kD23SSkhTHO;0znwIXWY6cK0pUGBefYaRQ=="
 ---

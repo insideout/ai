@@ -32,6 +32,19 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+  - title: "How Will Machine Learning Serve the Hotel Industry in 2020 and Beyond?"
+    excerpt: "Machine learning will help the hotel industry to remain tech-savvy and also help them to save money, improve service, and grow more efficient. Fremont, CA: Artificial intelligence (AI) implementation grew tremendously last year alone such that any business that does not consider the implications of machine learning (ML) will find itself in ..."
+    publishedDateTime: 2020-02-07T23:24:00Z
+    webUrl: "https://www.cioreview.com/news/how-will-machine-learning-serve-the-hotel-industry-in-2020-and-beyond-nid-31155-cid-40.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
+    images:
+      - url: "https://www.cioreview.com/newsimages/705x485_w12f.jpg"
+        width: 705
+        height: 485
   - title: "From machine learning to SDM; the technologies revolutionising the subsea cable industry"
     excerpt: "Clearly the flexibility and intelligence will become a top priority. Following the trend from the terrestrial networks, intelligence will be introduced at different levels thanks to SDN interfaces and machine learning algorithms. What makes an event like Submarine Networks EMEA such a great opportunity for professionals interested in the subsea ..."
     publishedDateTime: 2020-02-07T16:55:00Z

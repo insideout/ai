@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-compl
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
 type: article
 quality: 76
-heat: 117
+heat: 116
 published: true
 
 provider:

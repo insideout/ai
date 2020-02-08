@@ -8,7 +8,7 @@ ampWebUrl: "https://mspoweruser.com/microsoft-announces-changes-to-office-com-an
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-announces-changes-to-office-com-and-office-365-app-launcher/amp/"
 type: article
 quality: 59
-heat: 81
+heat: 79
 published: true
 
 provider:

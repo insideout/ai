@@ -85,6 +85,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200206005722/en/771844/23/Global_Artificial_Intelligence_%28AI%29_in_Social_Media_Market_2019-2023.jpg"
         width: 1200
         height: 627
+  - title: "Global Swarm Intelligence Market 2020"
+    excerpt: "It's vital you keep your market knowledge up to datesegmented byModel (ACO, PSO, Others), Capability (Optimization, Routing Scheduling, Clustering ), Application (Robotics, Drones/UAV ... and invited their authors to speak and discuss their findings on artificial intelligence and swarm intelligence along with their applications in real-life."
+    publishedDateTime: 2020-02-07T12:52:00Z
+    webUrl: "https://www.openpr.com/news/1923585/global-swarm-intelligence-market-2020-climbs-on-positive"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
   - title: "Global Surgical Imaging Market is Expected to Reach USD 7.50 Billion by 2025 : Fior Markets"
     excerpt: "Global Surgical Imaging Market by Device (Angiography, C-arms, Endoscopy, Laparoscopy, Surgical Navigation Systems), Modality, Application, Region, Global Industry Analysis, Market Size, Share, Growth,"
     publishedDateTime: 2020-02-05T07:02:00Z

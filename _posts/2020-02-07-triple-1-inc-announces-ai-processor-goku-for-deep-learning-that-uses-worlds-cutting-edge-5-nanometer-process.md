@@ -1,26 +1,26 @@
 ---
 category: news
 title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
-excerpt: "/PRNewswire/ -- TRIPLE-1, Inc. (henceforth \"TRIPLE-1\"), based in Fukuoka, southwestern Japan, has announced the development of the AI processor \"GOKU\" for"
-publishedDateTime: 2020-02-07T07:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/triple-1-inc-announces-ai-processor-goku-for-deep-learning-that-uses-worlds-cutting-edge-5-nanometer-process-301000799.html"
+excerpt: "\"GOKU\" is an AI processor for deep learning that uses the world-leading 5-nm process born from the development of the TSMC 7-nm process \"KAMIKAZE.\" It utilizes core know-how such as design ability, optimization of power consumption, and yield improvement in cutting-edge processes cultivated in the \"KAMIKAZE\" project started in February 2017."
+publishedDateTime: 2020-02-07T08:07:00Z
+webUrl: "https://www.tmcnet.com/usubmit/2020/02/07/9093993.htm"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
     title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
 
 related:
@@ -38,6 +38,6 @@ related:
         width: 2483
         height: 2942
 
-secured: "ztKvj0rgq/maLOYEN3EFxYYgKpgOwYc+SSUhej1Fj+/+BXQ89U2vpgxmCevMG6HNg2NKMy9Rxhl4iYNcf9aVJlnedqAMt9y7jy1LmBI7VItAyzfjrcOV6xGUMy4J0NQuiS74DMfvUDeRMMm8zwzyqgqoMKPzYtbjHbgwNI9pkeRaaDGed/r710zPrScedRcyMQAdhAl5ZbHyw+fTCKl0yP+9LBw1e5R6BRnDKLPnFKwSBXiHz31TUoQ8i+37gG7Ug5Yq5qkjvF3Ruip9pMFSh/KPQ0Z652fKf2ElpNyHxep+LE7Z4Ng22WNO+5Rom64d;ZKLpu7M77olMJqofgrHJvQ=="
+secured: "1fwj2cCYdky0bWcHfq5/8I4vYBEKMQKaSner7nD+KFLkDnQGf6JqMjFnupoNHh14A44t5qcuzlHgz6f4hC81PhmmWY1J/go55JtwnxbUSkguXUOx7CafQD0yfPs/LeMNrZjZ5oBqp4V4Mo52CnfXrRJ0fK6IRE3NZyL8Axadu5hd4fLd7IBXhGdmk/gK/oVp5HDN8s6Fz/7yAuySd9Qm+2FaczQ6SDHBqaKi5zQXsonh29vQfv/S0BXhpVdBT8XvWMkG6vWLd8vJ9xOpBYIYpmt7HvRFudcyOUsbbJw7nEAf5Fm+QFTFBOdnQBV2zJRQ;F7LMfbN/buDcG+KoLITrNw=="
 ---
 

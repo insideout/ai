@@ -59,19 +59,6 @@ related:
       name: PR
       domain: pr.com
     quality: 19
-  - title: "Top Trends Driving Technology Innovation Investments in 2020 Revealed by Virtusa"
-    excerpt: "Machine Learning for All. In 2020, we believe there will be more efficient algorithms to automate Machine Learning (AutoML). This will spur the adoption of AutoML at the enterprise level ..."
-    publishedDateTime: 2020-01-28T00:00:00Z
-    webUrl: "https://www.medindia.net/health-press-release/Top-Trends-Driving-Technology-Innovation-Investments-in-2020-Revealed-by-Virtusa-448876-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 19
-    images:
-      - url: "https://www.medindia.net/images/common/regis/450_237/hypertension-popup.jpg"
-        width: 300
-        height: 250
 
 secured: "YYZ6bgZyZTH3LMrUoXDJB34jK2RQlOq2JVrirJA+vXmPfTta9XufxIhkc+TnrE6jdbfzV2iwCEguPxt8T/b73ZnoeP1xAsv24AMGiHjTq2TChNHEJWkoIvjK8Wak/qSf01I93t7v81w0MOMwKee6yW9mRVjkqPicIGnljhVJXhJHYazdHsEM0qG2e+4GPWv5TZwPvJd5w8ykMJnzjvCDhfiWfIgq6vTT5PNgkSeesYEhU4EaYTY8rgKjrfy+mTy/gCJWWKUNPockrIrDlYPyPBZmv5Yr/o50EjrlnRJlxmTG0iaE2Q5D8i2F8pe3lkplMo3k1dVfkDiRYgjdJxEv6VMDVDXJcHznRnH0WKfizqbqxhmEq0AdjpRL5vVBqs1GrGvXNsGHe72ja/bE5dBYpvWHEJ8zPhzX0SvxgYMaDEZOxq7kWcCY8lZr6qJ+yl1Zmt9blTURswRI+cOe1Uq+4p1aP5J5L4kKUUHR/hpswM8=;mHZ1KVygXR7yvngpc6w4Kg=="
 ---

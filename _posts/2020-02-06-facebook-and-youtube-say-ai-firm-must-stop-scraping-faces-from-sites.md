@@ -8,7 +8,7 @@ ampWebUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-fir
 cdnAmpWebUrl: "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
 type: article
 quality: 157
-heat: 448
+heat: 447
 published: true
 
 provider:

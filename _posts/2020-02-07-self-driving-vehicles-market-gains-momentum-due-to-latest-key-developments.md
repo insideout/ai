@@ -48,6 +48,19 @@ related:
       - url: "https://static.politico.com/7b/33/c6be3da24fa0a31c8ab4f6ac8ee5/john-f.%20Kennedy%20International%20Airport%20900%20getty.jpg"
         width: 900
         height: 489
+  - title: "Self-driving vehicle coming to Fargo area later this year"
+    excerpt: "FARGO — A self-driving vehicle is expected to hit the road in the Fargo area later this year. The Federal Highway Administration has awarded the North Dakota Department of Transportation a $241,687 grant to improve work zone safety with a self-driving vehicle."
+    publishedDateTime: 2020-02-07T23:34:00Z
+    webUrl: "https://www.inforum.com/news/government-and-politics/4927364-Self-driving-vehicle-coming-to-Fargo-area-later-this-year"
+    type: article
+    provider:
+      name: INFORUM
+      domain: inforum.com
+    quality: 24
+    images:
+      - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
+        width: 1140
+        height: 712
   - title: "Self-driving Cars market 2019-2025 emerging industry trends focuses on growth factors by major players Toyota, BMW, Volvo, Mercedes-Benz, Audi,"
     excerpt: "Ongoing Trends of Self-driving Cars Market :- Automatic/Self Driving Car is a vehicle that is capable of sensing its environment and navigating without human input. Autonomous vehicles feel their surroundings with such techniques as radar,"
     publishedDateTime: 2020-02-03T10:26:00Z

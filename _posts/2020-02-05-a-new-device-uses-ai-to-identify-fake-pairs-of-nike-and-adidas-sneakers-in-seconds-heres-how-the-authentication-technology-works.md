@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp"
 type: article
 quality: 157
-heat: 168
+heat: 167
 published: true
 
 provider:

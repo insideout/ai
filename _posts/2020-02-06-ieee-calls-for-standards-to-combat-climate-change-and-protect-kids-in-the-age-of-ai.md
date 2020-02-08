@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-comba
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/"
 type: article
 quality: 83
-heat: 94
+heat: 93
 published: true
 
 provider:

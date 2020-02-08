@@ -71,6 +71,21 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13970/production/_110804208_screen-shot-2020-02-06-at-2_32_43-pm.png"
         width: 1024
         height: 576
+  - title: "Self-Driving Delivery Vehicle Receives OK for U.S. Streets"
+    excerpt: "They’ll arrive in Houston, Texas, soon. (TNS) — A self-driving delivery vehicle with no driver's seat, steering wheel or brake pedal has become the first to be cleared by the federal government to operate without the presence of a human. Nuro Inc., a robotics company based in Mountain View, Calif., has been given permission to put up to ..."
+    publishedDateTime: 2020-02-07T22:04:00Z
+    webUrl: "https://www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html"
+    ampWebUrl: "https://www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_156230078.jpg"
+        width: 950
+        height: 629
   - title: "CA Startup Gets Approval to Deploy Thousands of Self-Driving Delivery Vehicles With No Steering Wheel"
     excerpt: "The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or pizza."
     publishedDateTime: 2020-02-07T19:49:00Z

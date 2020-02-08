@@ -86,6 +86,21 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nuro-r2-1581004051.jpeg?crop=1.00xw:0.754xh;0,0.238xh&resize=1200:*"
         width: 1200
         height: 603
+  - title: "Self-Driving Delivery Vehicle Receives OK for U.S. Streets"
+    excerpt: "They’ll arrive in Houston, Texas, soon. (TNS) — A self-driving delivery vehicle with no driver's seat, steering wheel or brake pedal has become the first to be cleared by the federal government to operate without the presence of a human. Nuro Inc., a robotics company based in Mountain View, Calif., has been given permission to put up to ..."
+    publishedDateTime: 2020-02-07T22:04:00Z
+    webUrl: "https://www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html"
+    ampWebUrl: "https://www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_156230078.jpg"
+        width: 950
+        height: 629
 
 secured: "DzV2QusQjiq5fKFddOshoT9EGE16r0jd7YhQmyU0p9kqF5QuyAtW8WgT4ga0wywH6/KDto13rXXg9ixLfeJBUFN8qD4z981J48AqOlFkvkar2dhrA69VZbm5K0wR6RjpHoV2pzGcHXeilkAlmxo8gHcriaKtxks55mv/7GlTENsfvtM5EbdB5VD5OxLbTGC6WtfN1nfVubvzzmmSVwmpu8yNuIK3E4FpFpNDPODzNN4mVQu0X/DX8WDNQ7Xu1weNU6fWET6GsIGatLkIT555lXg6FgNKDLJpZMVIcEioNYRo7ahwcotKzTpigkgZW0WRRUHoadmhxSxT662uAvZ58BJY3BXfUbryOd8fY1UMx0FeduwTkwhW3mvy7TpmtWrRXrSxsv1KxPspNBhRB9Ja26lWfVtBZCKG4f4ZdF1pn34PJsDLhk+hCq+XK3ytRdoUlUP9FWksX8+MmeY43OVXklnfjMjepnBU5wid6flvyng=;ymWwkdgLc//zotVkTzsoKg=="
 ---
