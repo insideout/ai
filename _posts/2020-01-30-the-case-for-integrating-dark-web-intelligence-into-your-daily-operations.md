@@ -44,7 +44,7 @@ related:
     provider:
       name: Nextgov
       domain: nextgov.com
-    quality: 45
+    quality: 47
     images:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/01/27/NGai20200127/open-graph.jpg"
         width: 400

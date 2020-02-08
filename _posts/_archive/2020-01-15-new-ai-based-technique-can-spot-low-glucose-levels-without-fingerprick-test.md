@@ -8,8 +8,8 @@ ampWebUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-l
 cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: TheHealthSite
@@ -41,18 +41,7 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg"
         width: 1200
         height: 1000
-  - title: "AI can detect low-glucose levels via ECG without fingerpick test"
-    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-14T02:17:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
-    type: article
-    provider:
-      name: ETHealthworld.com
-      domain: indiatimes.com
-    quality: 39
 
-secured: "POy2lqBesuu+G6Xjt1Yz7AMZOTg9frabI0RAm3GdYrw2LGaCIEiMtfRN7nEvHQtrZmhmw6Tf4fZMQdtJfhjK4T6cBfctyGvIJ1QnN2Q787KDFkBJfbomge9JN0pWdbGAM5e+M2/hsYZVvO1C5ioDPMbuquBl893SplfkB+CnR3BwgDyVk2DBH5EFRSLCn/B5RcUw0PP2RdmT+5UP05trAXvshK+bx1zgDFN9gcy+Nqby6u6xjcMZykM/BQqaOr7EX75mNJmDIfROmZn0GBKW9GOcwTDbD9e7LqBnW3ihconqZd5aYZY78MDQvP7p5xT0;UuFoIBaTG6mbVhVUNceT5Q=="
+secured: "4clITmPkO1wKCkhwMk3Lp0fNL/CurslTW9CrGxdGkC8slV4xdr+HqZgs43eSFB9ItRf+bb47wpEu9NrwDZM86w8MySwpXvIl08k7nU3Cz4do5oTwcESS/5ox8KKj1D/wN1RPMa3nFnhMFqoUNhX/Nyv+67+v+AnB5xWocei27YQLuvl24/oQATToS1YOxKRhJBB6LVIvKxNlXTnvbrklEtBTmJ1xcVr6aCHabiDeVK39QWFse/rZUEmgvVfEhRNy0f/PKhbe308rqGT6Oczu0blPgZs2bU2EZq48o4Fj65MoS7O7yGurl7pFhb7CyEXe;ACCY6oA60+M6ku2w/LniDQ=="
 ---
 

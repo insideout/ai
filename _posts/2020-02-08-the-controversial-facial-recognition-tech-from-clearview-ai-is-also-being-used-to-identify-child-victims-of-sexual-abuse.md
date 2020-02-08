@@ -7,7 +7,7 @@ webUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-
 ampWebUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
 type: article
-quality: 62
+quality: 79
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://i.insider.com/5e3db92a0ce3d1240312779c?width=1200&format=jpeg"
@@ -423,6 +424,6 @@ related:
         width: 500
         height: 300
 
-secured: "lvx3eaQ5J+FSCnvN5Qow776jzqSu2x4BiGkADi6EsvPfVzqho4vTKlRo76PlbGOvMSUt4YAjlsLCRDjcrkCSPamqJO/CJ5o7NvRfXmifCGcv1HO0I/EKeecTesbwkBM9cHJyHdwkkp7u4E17LtjwGH6QAFeSlEEGLiHyUj1H8ADlrafqZNL3YSeHBDAMCkn/QDo2xUmWI7IQswpVRxAIsTMF0LgziwSNrEuWPlr861Dl/E0wup60NeOOqSw1sS40j4vKIMZ5brSWp8iLqddzcVs+I3KBtN5AznxqBfMeUTFwoHtBABAXlVhHuhLWJQRS;eGhMhar/NHESfub151xTcA=="
+secured: "p4Mxkm4FCGKoqQtsiwcFi8iNEf/dRHbydvj4KHyy+0QGPnJldxVNO+KuifwbGkJV50/G+m0P6CZ7XIGv0WSX8QeXg6vk9OdI9K2PTnKGTs93Bwh5OQ/5Y4phVvYMSWlx1T5eGsq5VA2nCuHhLB/621xldey3vtjpz0U2D1lnulArbU9EJDpaL+WgNxw4Ifkjb3t04GTP4iYHC3IgohhbKOfnhKKCPKrTNEY/fUcOKJTgmPKd1daOvzCaPbwbouWSn8Q5VrHPHw5fqdGtD1YmfNwTMiw8XSTJovN8AKN5lvD82Xuj/jIF4N2W4hIcWuew4E2fXceDsa/LWKxB+2C+3Pkcu9vYIC6ZLdeNKZUHQDzsB2djkqZS4sgaEbSsOovOn0zZDTPmAF3S1ubqyQOoRb9AulRk+DralTglq6DmbeXJKsvtgzep4oLPXWZPRXDnePmejkE2qLFYRGZ1oAnry83h5QA1nhiG5BSxSffkkQ4=;B9pWsr2NuSkx90A+giU77A=="
 ---
 

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Rand Group Creates Data Sciences Practice, Expands Analytics Services"
-excerpt: "/PRNewswire/ -- Rand Group today announces the creation of a Data Sciences Practice. The practice combines mathematics, statistics, research,"
+excerpt: "The practice combines mathematics, statistics, research, modeling, software engineering, database development and business acumen knowledge to deliver reporting, analytics, machine learning, and artificial intelligence ... to Rand Group and have overseen analytics products and services used by 14,000+ companies and 200,000+ users."
 publishedDateTime: 2020-02-07T16:25:00Z
-webUrl: "https://www.prnewswire.com/news-releases/rand-group-creates-data-sciences-practice-expands-analytics-services-301001033.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rand-group-creates-data-sciences-practice-expands-analytics-services/article_f7a1ea13-fb46-5aa6-b4cc-cf63eb20c723.html"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://mma.prnewswire.com/media/1087777/Rand_Group_Logo.jpg?p=facebook"
-    width: 700
-    height: 366
-    title: "Rand Group Creates Data Sciences Practice, Expands Analytics Services"
-
-secured: "xIWCeZQkC4GcxrBlI+d/BvE7j/FU0E63ScYtYcoXdKRniJhOa0WmivFpKqJftKdZ9lQwCD+K9WZWxs5UqX1/YXteQSiHEVIIuAOBU2qkqOPt1XbEy8Dybq3oiqlEZIxqUYIjgXqCd8U6scGSyVnIQTY+2VI+4bc4DNWRvuc8Vw6fRyoHfyVFgluGJKM05T1M5YXavkbyLihgtcYxUmo3aEUODgrKRbAPa4Ha5xBGD3eGCNrYLNL0sKa2K4rsAT/FnQ+rcJiDRuSeKtomBA2O2hn99s4olzup1GWZUfNNopCcvV08crzOZQa8QOx4NHfD;IT/RsVyAOsVOtOeXy0fY0w=="
+secured: "cMTsAkZ+AtUY+PoITk8sj8oq/Qf0Iya+ECe4u6NZ0Xak5DRLJ7hQmNVPek2yLEQiZjMiYJ9wYSzdYpzPdNNw/hRTlPu6UU7vmzqGELT4r6Ju6AB4Rat7Gjq3vgx4N42fZmQKrxZkpL8vqGZjhJcyE+IojS5FRgJWNQoK8QT9wNhywqiFyJWIjL36dar1t+XVQdND24oRo33dMKxykUqOuOI9UMAZVGx2qMh2yFf/M8hvleuUex0bSY8ILe3rXauqrUgd52OwPFa2jxpmquL2rP9GdEjys7Bo8EWoaD2RyX2Egz+9NqnH+1fcORHW6cl+9+MZWDIjWdx0Zdv4kFP0asIckquCuKF2AN7ZF1ImvPCTVKUQ1fDNPl+TPt32w0lWsBf0zmXvzl5/gWti/n8HQdMt3EWZZDkHv0D294723Yr7kxSvVICdKnzt3xx3PxqBA16dAVJ+91+qGiy4zKuCOaWDlMuZ9rsqcln7vqGSFQw=;SMldvXm48FRYLYjBafKPZA=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "But concern is rising, in 2017, researchers at MIT showed how easy it 
 publishedDateTime: 2020-01-28T20:00:00Z
 webUrl: "https://www.nextgov.com/emerging-tech/2020/01/spies-ai-future-artificial-intelligence-us-intelligence-community/162683/?oref=ng-category-lander-river"
 type: article
-quality: 45
+quality: 47
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.nextgov.com/media/img/upload/2020/01/27/NGai20200127/open-graph.jpg"

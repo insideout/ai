@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/01/31/can-we-keep-facial-recogniti
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/"
 type: article
 quality: 89
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -159,21 +159,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/389/2018/02/021418nys-senate.jpg"
         width: 620
         height: 372
-  - title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
-    excerpt: "London’s police department said Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China. The decision is a major development in the use of a technology that has set off a worldwide debate about the balance between ..."
-    publishedDateTime: 2020-01-24T22:12:00Z
-    webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html"
-    ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 35
-    images:
-      - url: "https://www.sun-sentinel.com/resizer/JWw4oWSSzU1KnkDFxSfTwAIh7XI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/5K7NL5R2ENFQFBCYE7MGEEKD2Y.jpg"
-        width: 1200
-        height: 800
   - title: "Advocacy Group Warns About Facial-Recognition Tech at Florida Universities"
     excerpt: "The U.S. Department of Homeland Security uses possibly illegal technology to scan the faces of departing travelers at Miami International Airport, and the Miami-Dade Police Department wants in on a facial-recognition database that studies have warned could yield false positives. There's no telling where the future of surveillance technology ..."
     publishedDateTime: 2020-01-31T15:00:00Z

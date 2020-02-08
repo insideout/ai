@@ -168,21 +168,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/389/2018/02/021418nys-senate.jpg"
         width: 620
         height: 372
-  - title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
-    excerpt: "London’s police department said Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China. The decision is a major development in the use of a technology that has set off a worldwide debate about the balance between ..."
-    publishedDateTime: 2020-01-24T22:12:00Z
-    webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html"
-    ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 35
-    images:
-      - url: "https://www.sun-sentinel.com/resizer/JWw4oWSSzU1KnkDFxSfTwAIh7XI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/5K7NL5R2ENFQFBCYE7MGEEKD2Y.jpg"
-        width: 1200
-        height: 800
   - title: "Facial-recognition tech may have value, but real-time surveillance goes too far"
     excerpt: "If you stroll through some parts of London, facial-recognition systems linked to street cameras analyze whether you look like someone wanted for a crime. This technology isn’t very accurate — it often makes false matches — and warrantless surveillance that can identify people in public in real time corrodes individual rights that ought to ..."
     publishedDateTime: 2020-02-04T09:29:00Z
