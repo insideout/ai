@@ -108,6 +108,15 @@ related:
       name: Manufacturing
       domain: manufacturingtomorrow.com
     quality: 0
+  - title: "A Visualized Botnet Detection System based Deep Learning for the Internet of Things Networks of Smart Cities"
+    excerpt: "This paper proposes a botnet detection system based on a two-level deep learning framework for semantically discriminating botnets and legitimate behaviors at the application layer of the domain name system (DNS) services. In the first level of the framework, the similarity measures of DNS queries are estimated using Siamese networks based on a ..."
+    publishedDateTime: 2020-02-08T01:40:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/8985278"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
 
 secured: "s9Muo49602DDY1uAXQ2xOEaBbmmAOO5a7KcdHfJ9D8hrFnhwx821ouDugsz8tGW4agSn+NLIrd9nGu5krDUAUb78tKmegts1YgSKBfksvSJUSfIjgl+9DIadbYFqxu3neuawdZ6lnaqAEAS9nljxH3rEzr3fVah1D3GYviXuohKajr9MsSwSdJN1FspfzErqtF2iLpQD5FdMU0vBleGODDCX7oTPqsTmTPdKKSDeTqAnVDdi2hPBmK9DX+KtBoaP4NDEMa02NEVpMF0dVXuvC3mH6UPCKbas4NDIj2f4bWhanie5vjRVcvJa4ccrfshlDu1JrT45y666hIk3a9C6EUT6LDa+6BfkbYvZy5XPipswXSkqrWOxcb7uwzqVlV39c1QvZ1tQwpOSnpYDDZhTVgkiXzVJau4STEKkNLfRUF3t+LCbgSakEAlidqWTra38E0Wd7SfkuxCYQ0PfU/y2fLixMYJFGHCVp+6Ut613gqg=;G5OuFbjB4QU4jsj5o0IxWA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T20:14:00Z
 webUrl: "https://www.automationworld.com/products/product/21112764/basler-ag-vision-system-for-machine-learning-ml-edge-computing-applications"
 type: article
 quality: 54
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
     provider:
       name: Manufacturing
       domain: manufacturingtomorrow.com
+    quality: 0
+  - title: "A Visualized Botnet Detection System based Deep Learning for the Internet of Things Networks of Smart Cities"
+    excerpt: "This paper proposes a botnet detection system based on a two-level deep learning framework for semantically discriminating botnets and legitimate behaviors at the application layer of the domain name system (DNS) services. In the first level of the framework, the similarity measures of DNS queries are estimated using Siamese networks based on a ..."
+    publishedDateTime: 2020-02-08T01:40:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/8985278"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
     quality: 0
 
 secured: "LrBStntAQKMJicpZxwEEm0Cvd5rXqMu3L5+BTqzceRowIBsM9N4LjjwhGK47x0f4yj4tk/Y631yMRqVc3Rbc07QnV4DNFVSAJ647I2MxJaItUzh3P/NKsB2N6Bg7yAihObdA7suhxQYAQBBnBjleu8GrqWwKX6ABnJfqQJAVSS/WQdDuRsp/cCnJguAIohOrp7TyJn+w+TfnZtzZaTZ7xHuEdh/h2LS1c3+LX6Sls7ISUUDKInxTv7fzLZzEL1xMU7S+BZFvuv9VSw/Bdaf+srqtUqKmEgMgfyigkvQno0jLeBlVHeV6vkHYzkbnMbr9qGk96hsQte7p+CsAZ/sTeV2r8u6aqI+k6PWKGk577DzWFStT5oo4UaQQIlLJdQ/OVk+HxEN/sfIDB/iUduiMjOdHvTERPeiT2GK7wu3HQhIUs+XQqvZkM/2i0xSxmTk/WYUlsIR/RYDe0DtRUhC9C/Q0lcSyjFrqqifd9mWXZfw=;9N2mWnIgiw0EjqEhHSVkYQ=="

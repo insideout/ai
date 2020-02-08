@@ -41,22 +41,7 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8="
         width: 1200
         height: 630
-  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
-    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object ..."
-    publishedDateTime: 2020-01-09T20:49:00Z
-    webUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
-    ampWebUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1112561213.jpg"
-        width: 940
-        height: 627
 
-secured: "3hFQSPYSokak9CTNqETz0VOeEz2BQ2odAkL1o9822M4tq/u0tMqi2mhOfiSpUNI/t9S2h4aPgfj5TnQo85/TQa1bqIj+UIWuH+zpwRmS9w43GF8V2Lk/WJrMNLCKUv038jvT1TA2u9XYlVm3YNEEOWfkMXv21WgU16jCafy0hzRvELCZ+XqPh7vphqPXlcomag/3iGdbltA8cGoW6YCxN5ebipU7NGk7CUmTc9sooc0CMa61BHTYTJt975Il+TXGhvEZRMY5G6BdocXitHa2JHAxNzT1EO2yq1k8PFD1/Eirlxd1SZYF9YfGlffy5lN5;ZEVLk9gYA4894ziEjtCXtg=="
+secured: "p9YtHx2LyAbAp3MoGmUrPfTTxLraZfcBkjz8rnm+mSGEDNXRnJlUvsd9XU1qul/aVp8uWISnC/A8/XNaRb8PDlQjG9Q52LN4kYtub2CfBtas7/Bw0FHVNkj7kWHAtnhjI+v9BVuhlGBE5z7Bp4/lenXdC2k8nIxGerV2cXN2/4v/lzVbbFhB/u9VJHyVROTqwzriuSulq7ieqGeIeBtnxrUYK//mKTC7VJn/wV6Ep2dx2LrPhMd7fiC0eO7DlLnSQl3nD9gR5uAOyJflVOKmJxMbVBp3cMO+XQlXhnXJ0frsjWsFQ5evPE+qEsDpkbMm;cUiRFvHRWMjlHpEs1JEWyw=="
 ---
 

@@ -106,6 +106,15 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 4
+  - title: "A Visualized Botnet Detection System based Deep Learning for the Internet of Things Networks of Smart Cities"
+    excerpt: "This paper proposes a botnet detection system based on a two-level deep learning framework for semantically discriminating botnets and legitimate behaviors at the application layer of the domain name system (DNS) services. In the first level of the framework, the similarity measures of DNS queries are estimated using Siamese networks based on a ..."
+    publishedDateTime: 2020-02-08T01:40:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/8985278"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
 
 secured: "bSsiNvcTdD4E1GeGZ43e0kzAobhUpgPPe3LKCC8Dc5dYPp979tyWxs9ZGmE600HpQYqYwJ42nssBnB9ITMJjT6Z2z+lmyjb0TmqQcvtHq9ykOOYr2ssD3pKAEBwGCnaQCsMo772FU1lQOKWvbzPxUA4lsMpklUXdQeSP+LRBro5AQn0OhD/aychptzBD41YRI9KxG3iU1mBeO+9h54T42eIW9N7wrMz5PXI0uxvH5xT38zVtQ+D10UA4qrTOmbZRbByZxqRHOJm460+0AaSbkYJk98eu0i22X4tAZk4rcUqJOtIs6ztbbIeDkggdzvZ4;vvLlXlxIYSgRfsqKJavxyA=="
 ---

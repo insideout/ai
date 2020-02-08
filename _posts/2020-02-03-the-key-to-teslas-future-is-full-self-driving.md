@@ -93,6 +93,15 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20181017073142.Medi.jpeg"
         width: 800
         height: 448
+  - title: "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)"
+    excerpt: "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ..."
+    publishedDateTime: 2020-01-23T00:00:00Z
+    webUrl: "https://www.bizjournals.com/nashville/video/6082077878001"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "Uber self-driving cars, with humans in control, to cruise Washington"
     excerpt: "WASHINGTON -- Uber Technologies Inc. will put self-driving vehicles on Washington roads Friday with human drivers in control, the ride-hailing company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self-driving in Dallas ..."
     publishedDateTime: 2020-01-24T11:37:00Z

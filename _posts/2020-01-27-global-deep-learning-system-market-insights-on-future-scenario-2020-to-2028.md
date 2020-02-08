@@ -54,19 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "GPU Market research, Industry Outlook, Current Trends and Forecast by 2024"
-    excerpt: "The GPU Market Forecast Report provides details analysis of keyword industry which will accelerate your business. GPU market report covers the current state of business and the growth prospects of the worldwide keyword Market."
-    publishedDateTime: 2020-01-24T08:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-market-research-industry-outlook-current-trends-and-forecast-by-2024-2020-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Natural Language Processing Market Share, Growth, Trends And Forecast To 2026"
     excerpt: "Feb 05, 2020 (Xherald via COMTEX) -- The Natural Language Processing Market 2020-2026 is a valuable source of insightful data for business strategists. This Natural Language Processing Market study provides comprehensive data on aspects of competitive intelligence, market research, strategy, planning, pricing and forecasting that enhances the ..."
     publishedDateTime: 2020-02-05T06:04:00Z

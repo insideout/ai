@@ -43,19 +43,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "GPU Market research, Industry Outlook, Current Trends and Forecast by 2024"
-    excerpt: "The GPU Market Forecast Report provides details analysis of keyword industry which will accelerate your business. GPU market report covers the current state of business and the growth prospects of the worldwide keyword Market."
-    publishedDateTime: 2020-01-24T08:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-market-research-industry-outlook-current-trends-and-forecast-by-2024-2020-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Global Deep Learning System Market Insights on Future Scenario, 2020 to 2028"
     excerpt: "This report covers an in-depth analysis of the deep learning system market including statistical and qualitative data points with emphasis on the market dynamics including the drivers, opportunities & restraints."
     publishedDateTime: 2020-01-27T09:21:00Z

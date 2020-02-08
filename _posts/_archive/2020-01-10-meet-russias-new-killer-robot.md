@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Meet Russia’s New Killer Robot"
 
-secured: "5oUzGe9P90ao7V/tP96trsyLrmF+9gGNcBAF1RuiQL/aMFJK2j0Bicc6Wqsl8pU6jduPnmRvB7MoObYRRh6T8RqB1RJ0Iizi7zbfQtS0ULhX6GVyj6pYhnFm9iy/X7QAa5hwF7s7ltQPULbnHL2D6K6CdFH2pGyY8cIuzMZonSQvDExYCRQAxNw12AXnPbg+UD3/WgUSfwvtNjcokFmFvO0ktjT6y60euFpSgU8Y3b84gFR7wV6NvIh9f1yqs3sThq/cwcn5upVsVWeW+f3dADDC6r+PGGVTC0mOK9QyfN864RpV4ZwnjHagBfTa1Lwk;BJ7/zc0xe0oopOKz2xyhNA=="
+secured: "cyn5QoR3a+02ZaVyiMfhWo519vUpys1evEduLjynVrqa4KtG5x7/W25nJaArH7ZIGuEwL8vr8RyzQLC5N5dkuhvts5zFYyRQHM9lqbSNsGIgng4Y7+JvauxYBIlYiizW9TLwvBjC1krVmCZMmp5s9tc9yxRU/9rgBNEIg4HTOSyBRj8qGfhMJeZun+Lj2DgncgYFACr+BQNuAU2SpEVlJZlek7G5kr1A5//W68XKkBCTwAJ+SXaxow81cRUoB3Cvj837h+V4cnyqWsZl94K9vv7jdZPRCgjbfxlsFN7DoyzsM+PbsI47MK6OVE/ddGGO;6+OzNYNwALn4o9cYz8aYcQ=="
 ---
 

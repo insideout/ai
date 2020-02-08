@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Facial and voice recognition in cars sounds like a privacy nightmare"
 
 related:
-  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
-    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object ..."
-    publishedDateTime: 2020-01-09T20:49:00Z
-    webUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html"
-    ampWebUrl: "https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1112561213.jpg"
-        width: 940
-        height: 627
   - title: "What is Voice Recognition"
     excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
     publishedDateTime: 2020-01-11T11:41:00Z
@@ -57,6 +42,6 @@ related:
         width: 600
         height: 271
 
-secured: "IKK1bzbUie8OMw+CF3urFTbb8wiSPa72rYpe87FXpVAkolDpYOvySNzz2dzodC6+2FqHtZaiNzri8pSWuW/JVQFhIvpALHTgBP7vmn0ud/MrPQcJSgv/qvhQpE73K2YXZrnhht2Nn1igDqBJ0OVDmtbM+dL9qrGLgWGB01OrzI+AWaLxWpspqVxiHTSwXxUU/IR9cDk9buWPvDoDgj6ku2qEUCg0GshEuAcwVMWWRPdUe96ofjZnoW2GsFJVPhsCHvdgYy8uScZZAwjl3boNt9eoSK01x7/SeC5oyCMyO/IjZEqw9Tli98uPAUea0Z9v;oxTwGSvgI8uIt62/SrqKtA=="
+secured: "iQLLLKAPzNS9FLqzG9IO6N2NIJyM15mwM6o8QuChf8ZtJip10yuW3CeztP9Tke24snFYCydhFa3H4LXUWnOmUBuUH20J0/8f7BB2JCeEYOo4Kdfq1KMFcDrD1yo0NfusDu+zYG1u351Lgv9j6UM9cn4Kce1s049ORsuj32i7npjMj9ELtMY3QGVlLO3WWl3YkqVsU0zbXl/8W1q8HKzPsGPkeMfUY/y+gODNh0cNVG17unV9g2S77bhuwCA3zoN0hpcVN2sv4VBNH/WzJrmcBlcK7mJ7OEcBRe7ML7yPjKRib0hNV0NTlvvxDxzL6Emj;jCb08AFc8LLSLa1kwQXvrA=="
 ---
 

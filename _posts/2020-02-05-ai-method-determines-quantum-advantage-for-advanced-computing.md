@@ -19,6 +19,21 @@ topics:
   - AI
 
 related:
+  - title: "AI For A Competitive Advantage"
+    excerpt: "If implemented gradually and accompanied by training for employees to maximize the technology’s impact, AI can promise to unlock many new doors for any organization."
+    publishedDateTime: 2020-02-08T01:24:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/711x558/https://specials-images.forbesimg.com/dam/imageserve/1079012854/960x0.jpg?fit=scale"
+        width: 711
+        height: 558
   - title: "Artificial intelligence 'sees' quantum advantages"
     excerpt: "What the Russian researchers did is they replaced the experts with artificial intelligence. They trained the machine to distinguish between networks and tell if a given network will deliver quantum advantage. This pinpoints the networks that are good candidates for building a quantum computer. The team used a neural network geared toward image ..."
     publishedDateTime: 2020-02-04T20:00:00Z
