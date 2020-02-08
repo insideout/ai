@@ -25,6 +25,6 @@ images:
     height: 355
     title: "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo"
 
-secured: "XkSI0no1bNVpUtWDi+PJdD5JvdIu5wBYI+tpNuv+4XuaHNtBi7ta0cVuOAWOudSfdy8OoTV0buTIvtoXW5TyxV2LkgZieBeWT71LR5WV0tygSie3cucKxOukWN3/ytuDE+EIvd0tqkaLC0cp6k8LPfuKywMNUUJG3AaFqgiXtVsnGnHcGHOyA3viF83N4nWg7tSoklELTyzWRffKPPRQmA7UcUlTXZEf/I4+GddSgQlAYC5zQaRsXjzesqIZwAKbZlwDVSderARebsiNxtd9wjW2HBqZ4L8HiqWZUON589tSNUV3xUwSG2oKH3ig7Kw/;eOlGKSI/jZMoHZU9ta5vrA=="
+secured: "Kc4czWyzv8bnYvAZ6Qym9fxACdlcUBJbXySjPN1mtand3z3LgBIWOK7imceeuuoVGb408v6KGTXLMYNaNxVgS+2TjydK1lgTXCb1vKcjo2FrsKyrYNfwqYORzbC8/+ZY3M8Zhn/7pDla3xhdtQoEZnvSwtCrSJLscyCwR1G/idXsfBVROpr0I/NrTvKMrop3QZj41Vgog+nPuCcXxhjjoYibAfQbxPJZBml/JXU7Ds5IMYeOYEkrdOXf3RP8Fv70yUhenyg0vqnt7NifO8y3MaJLl8XFN8bj5Flebr80GNOGYzASOAaTOtoqu/sicICt;zjRu/FYfaUzRuCroZlOiZg=="
 ---
 

@@ -1,0 +1,64 @@
+---
+category: news
+title: "Tesla Self-Driving Computer architect Jim Keller is confident about solving autonomous driving"
+excerpt: "Jim Keller, Tesla’s former head of Autopilot hardware and the designer of Tesla’s Self-Driving Computer chip, says that he is confident about solving autonomous driving after working at Tesla. We first exclusively reported on Tesla quietly hiring Keller, a legendary chip designer, from AMD back in 2016 and we were fairly excited by the ..."
+publishedDateTime: 2020-02-08T02:43:00Z
+webUrl: "https://electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/"
+ampWebUrl: "https://electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/amp/"
+cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/amp/"
+type: article
+quality: 77
+heat: -1
+published: false
+
+provider:
+  name: Electrek
+  domain: electrek.co
+  images:
+    - url: "/assets/images/organizations/electrek.co-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AI in Autos
+
+images:
+  - url: "https://electrek.co/wp-content/uploads/sites/3/2020/02/Tesla-chip-designer-Jim-keller.jpg?quality=82&strip=all&w=1000"
+    width: 1000
+    height: 484
+    title: "Tesla Self-Driving Computer architect Jim Keller is confident about solving autonomous driving"
+
+related:
+  - title: "Tesla accused of abruptly pulling self-driving from a used Model S"
+    excerpt: "An extensive Jalopnik report details an (anonymous) person who bought a second-hand Model S 75D with both Enhanced Autopilot and Full Self Driving (FSD) as listed features. Except, somehow, those features were remotely removed, without notice from Tesla, as part of a software update. Last November, a California secondhand dealer picked up the ..."
+    publishedDateTime: 2020-02-07T10:40:00Z
+    webUrl: "https://www.engadget.com/2020/02/07/tesla-model-s-fsd-issues/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5615%252C3744%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F573a2860-4997-11ea-b8ff-def49bb616f0%26client%3Da1acac3e1b3290917d92%26signature%3Dbc650a616fa7b08a85ec932a5a5f8db81960ac55&client=amp-blogside-v2&signature=55e283838481287341c2ce50730f8e43eb0dd682"
+        width: 600
+        height: 350
+  - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans"
+    excerpt: "The transportation narrative has shifted to self-driving. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead."
+    publishedDateTime: 2020-02-02T08:58:00Z
+    webUrl: "https://www.businessinsider.com/tesla-self-driving-tech-wall-street-getting-bored-waymo-cruise-2020-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/5e32d55a24306a7e802e8322?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+
+secured: "dgp0eHClY37a9zbVnrGiNlVP9Lkkkekag8TWgFHUMsPIomJL6UhZI7CidM8N1PtiQ/3gAzMjFnAfsFN/bqJnUb3JFegaXVAzQ4EGvrdGUoEmgFSf1fpvXrkO4UYJQHXPawbldfUdJo2IaAjlz3/uY/11pRneI/lOF5MXVmL9UudqErHQcYJAOfdPYXdesMrk11OgxEILZO3GO/eVhsi863WIM2+Ae79qV1sksiiVTWBNXlHOAl8TIW+F0jO2SLuz7DKuj9PDIEyPARS+zAIRvI+WDWPSNYoIhDNtnNELKWJU0ijrp76PnacgGqU5LOC/;ge+no+//pwmFew3zsUXyXQ=="
+---
+

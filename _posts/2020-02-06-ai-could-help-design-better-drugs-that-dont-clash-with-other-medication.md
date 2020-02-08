@@ -5,8 +5,8 @@ excerpt: "The results: When the researchers tested their system on two common dr
 publishedDateTime: 2020-02-06T17:36:00Z
 webUrl: "https://www.technologyreview.com/f/615153/ai-adverse-drug-interactions-chemistry-health-care/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://cdn.technologyreview.com/i/images/gettyimages-76008293.jpg?sw=1200&cx=0&cy=77&cw=3000&ch=1688"

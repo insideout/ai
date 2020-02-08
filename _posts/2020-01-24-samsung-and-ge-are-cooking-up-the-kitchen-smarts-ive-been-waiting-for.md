@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg"
         width: 756
         height: 567
-  - title: "From Host Analytics to Planful - CEO Grant Halloran on the Planful rebranding, and why continuous planning is a change worth pushing for"
-    excerpt: "Behind the name change, I see potent questions on how financial planning is changing ... One looming question is the role of machine learning and AI. I expect we'll hear a lot more about this at Planful's next user events. But for now, Halloran said: Where we're going in the future is bringing machine learning, so you can actually allow ..."
-    publishedDateTime: 2020-01-24T09:57:00Z
-    webUrl: "https://diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change"
-    ampWebUrl: "https://diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 11
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-01/building-blocks.jpg"
-        width: 1275
-        height: 864
 
 secured: "PEqCGwMMqaTn/EK5DihRaf/ye02pqHsPicCP1Au0qj3xKraVvcwBpykq+a5k5lDFPcudPmrAR5/9vQKQsEdcmWWq74F4Hfc1m2pSWO0zWmLKjRdNXJ0ZUS1UEmjFBcCFZuNkKOBksk1B66KrCpdSDrIlZC17DQVitFlLp+p2p3+lfMuZh1lPNtDWoSaiDvxPT1KwRT64A8ZSx9WSeaaq5Y9N1sdCvYy2FuR6M9j8pOXpXGIEogc55fojNvTqM5kwf9SrnV39nOxcwgmo5mMfEetpVllJMjb606CB+yxNQrNkfDWjwgMy4veDiqbFUUTHAmYm74ICK5uPvwx6l+G5GVz9aJx+Fy+lDWRiPobOUZYDhwv6xeFO+f6i8A14OuxJpHO46XTV1IiLLAQiyhgarSgi+lc2acrNXQcS322yxTWeJ0PFb02rT6DmVCYY7tl0mjVZ3Tv3enlMjOrlkQiyO+cVwpI28CKPGjf6mOMd8i0=;exGixhNNdnVTQGswgOcD/Q=="
 ---

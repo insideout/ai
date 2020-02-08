@@ -86,15 +86,6 @@ related:
       - url: "https://media.bizj.us/view/img/11587279/uber-self-driving*600xx1500-1000-0-0.jpg"
         width: 600
         height: 400
-  - title: "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)"
-    excerpt: "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ..."
-    publishedDateTime: 2020-01-23T00:00:00Z
-    webUrl: "https://www.bizjournals.com/nashville/video/6082077878001"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "The Key To Tesla's Future Is Full Self-Driving"
     excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
     publishedDateTime: 2020-02-03T17:07:00Z

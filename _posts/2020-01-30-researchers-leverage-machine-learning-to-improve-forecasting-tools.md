@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-30T03:41:00Z
 webUrl: "https://www.weathernationtv.com/news/researchers-leverage-machine-learning-to-improve-forecasting-tools/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -18,19 +18,28 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Carnegie Learning and The University of Memphis to Create a Learner Data Institute to Improve Educational Outcomes"
-    excerpt: "Their expertise in areas like natural language processing serves as a great complement to our statistical and machine learning approaches to using learner problem-solving data to provide actionable insights to teachers and iteratively refine the cognitive models that underlie MATHia.\" MATHia, the 1:1 artificial intelligence-driven math learning ..."
-    publishedDateTime: 2020-02-04T13:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-carnegie-learning-the-university-memphis-create-learner-data-/2020/02/04/9091621.htm"
+  - title: "Benchmarking Deep Learning Architectures for Predicting Readmission to the ICU and Describing Patients-at-Risk"
+    excerpt: "To compare different deep learning architectures for predicting the risk of readmission within 30 days of discharge from the intensive care unit (ICU). The interpretability of attention-based models is leveraged to describe patients-at-risk. Several deep learning architectures making use of attention mechanisms, recurrent layers, neural ..."
+    publishedDateTime: 2020-01-24T13:06:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-58053-z"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
+      name: Nature
+      domain: nature.com
+    quality: 19
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58053-z/MediaObjects/41598_2020_58053_Fig1_HTML.png"
+        width: 330
+        height: 685
+  - title: "Machine Learning Tool Predicts Hospitalizations for Asthma Patients"
+    excerpt: "January 27, 2020 - Using machine learning, researchers developed a more accurate model to predict hospital encounters for asthma patients, which could improve asthma outcomes and reduce care costs, according to a study published in JMIR Medical Informatics. Asthma affects 8.4 percent of the US population, researchers said, and leads to 2.1 ..."
+    publishedDateTime: 2020-01-27T19:26:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-tool-predicts-hospitalizations-for-asthma-patients"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
 secured: "bfvbh9F6vEET1THLPrNYWWbPdFIcLUcUw+5w+QAUk57DaMiToX1Ylt1/TgzBBvsnqMIkGP3Hacga+U31iPiObZtRQUk9XcHDZV5Osz944CdocLPfWk1LF87xNYsCnJvxMIPTEpCdzzxYz2Y6HNaDea0elYDtHkpnGvfQPG+wCzx87iJfkMhGgisuRo+dVGZz4LiYXAxEUCyY0fEB3nDlX7unHNeaqNs19IazfTlNIqCvHMULrySFhib/oUScYyWT4D5t+pcZ3wAIs4QSDU7B8fSrTZYQsdYv8z4IQZo11AW/cowH//8Ym0lma/wlVleWe7awuR6b5oY1REMSuZFcRIr9Fbe7Aww2ZgQAxyIm3iGBSl3+bjgNyEEL4hfnbPRKpFuStJUEWJFxdS2ESvldQ5mCugdkap6ePax7CPOywggd2Wl/ouwSBYOmvA9iyM4URu0vqGvV9+NTudbodWZDR66ymW9G+sGrD6h5YrPGueI=;3Xdsit89/cMGpV+CwUE/5g=="
 ---

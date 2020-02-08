@@ -38,19 +38,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Facial Recognition Biometrics Market 2020 NEC Corporation, Ingersoll Rand, RCG Holdings Ltd."
-    excerpt: "The research document entitled Facial Recognition Biometrics by Market Research Store intends to reveal various facets of the global market with the assistance of the key elements influencing the market,"
-    publishedDateTime: 2020-01-24T09:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-biometrics-market-2020-nec-corporation-ingersoll-rand-rcg-holdings-ltd-2020-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Facebook will pay $550 million to settle a class-action lawsuit in Illinois surrounding its alleged violations using facial recognition technology"
     excerpt: "Facebook said on Wednesday it reached a $550 million settlement in principle related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent. The settlement is the largest payment from a company to settle privacy complaints, a press release from the law firms Edelson, Robbins Geller ..."
     publishedDateTime: 2020-01-29T00:00:00Z

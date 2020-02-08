@@ -43,19 +43,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Facial Recognition Biometrics Market 2020 NEC Corporation, Ingersoll Rand, RCG Holdings Ltd."
-    excerpt: "The research document entitled Facial Recognition Biometrics by Market Research Store intends to reveal various facets of the global market with the assistance of the key elements influencing the market,"
-    publishedDateTime: 2020-01-24T09:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-biometrics-market-2020-nec-corporation-ingersoll-rand-rcg-holdings-ltd-2020-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Top Trends Driving Technology Innovation Investments in 2020 Revealed by Virtusa"
     excerpt: "Financial Services, Insurance, and Life Sciences Leading in Innovation to Start the New Decade SOUTHBOROUGH, Mass., Jan. 28, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation VRTU, +0.29%, a global provider of digital strategy,"
     publishedDateTime: 2020-01-28T13:01:00Z

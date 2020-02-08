@@ -1,17 +1,19 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-publishedDateTime: 2020-02-03T11:44:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+publishedDateTime: 2020-02-03T10:44:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -78,6 +80,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "4Iy1ehlL7hFBOMGeAJpaqVNbV4sLR8IAzVQXCLMw2g/XMpippaM/MOPWqP4q5gqCt56FgR5adwBHDHLo4Dc1AJy3XgwBMPJQ6K/g9Xwuf8c1Djml0hCILba0APIwKEEawofIEhVTtzFecSKz9IGQm4sE8LfcfrO3y4vmBJkJpqJxFXfq8bejFKwiWTLqJkjxptmTDJlMw0vZ5VXo6GdnaEUDxPmjGHS/55T7F9Y1IhUkFKcZ1yT4Vh1vWuNT1ZiAsWsiSCj9CDRfFrtqAXpkPQyoM/GtJ3HGdRE5hDTd9u8gzeQ+x4z+828tQByCoR+n;PtE+lNrBfC2nCzwmg6Lx4A=="
+secured: "i0w4w6RuwY1y+wtBFRyCQJDe7sh8zc+/JUBYq0wVvYlR7z2mJDj9EVMGg93My4TazpfpQrOxPPYuqjXQPFWoHkFx/C6OOOgNObf2Cr29PX77r7oD4bamb3RqvNS6k5WAkwYhNzjSOr4b3GYjgTrcpVL+3mcT25PwihCCIWcUJI5DSzhUfD0ePLiMNnQOJPpd422icigrlkuo3Y6hoo9TDBFCeMj0uGIELY3pizTPLM4yyna2TW2uqXI/z9D5mfCVfj0U430nFUS2Q2CQXlnQN+PkuSBJb7mso2L4NtzDdz5PEbUuySTNRTQHxHXx0Nz/;5SEs9ondz/EAfxl06TEK+g=="
 ---
 

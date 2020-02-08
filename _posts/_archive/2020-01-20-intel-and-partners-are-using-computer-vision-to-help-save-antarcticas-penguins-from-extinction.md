@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction"
 
-secured: "bFMB/kDdDT6bRlsp2RDub1Yo+dfajKZpThoWDMyYEQjdvexQDVjCiVl8W5PmByT88zhMrRl15JKYqo/wx5UIb/GyZQ4Z5j15Wm/dYWxNXyhh7Ubzt6KBaB7RDXw2hQixarsM1tLBNWgN1waN8+8OZyo+kPetiv6tSaAl8LnQ4qU1R7b/Yy/zlriQjZa4F1aAaP6YXEZI00kkXNn9j+z0Rz2LTW30VTgMFe65C0aKaYM5xWVkj/IS/ns0+Melj9T62pbYPlokaVTc62kxpRgO06omscFMLdsxEwoJKmggME+/2ffNO4CVpVu/0E3IvnSi;5rWOHazV+Q3NyonEf2oxww=="
+secured: "iLUjiSdCw4OQimyunlf/0ql7f7PFlYlMdpzFbUBMKWU2EN5WsZGjhj4aUOvyvZwjEEontoRHWb3Gj0kQQCuGen6mtltik4lN5rVwYlFsVwkC45y78HUlSXsinMb3SfiIYktQ2etsqWXWk5F4/3zrKdKmCCCGT8G6tGbRxhqUWEh8DOdK63VHka0450EgfQ8OvB+nuJD0++71+PXv805Yk+pmmrpwX2gU7nBkANN2OKs9/BibnrDC+9LjHCBecdg7XIIQRu+AB8slX3QBK9ZfzzeZpE2kn74Q+U4nvT5MA/p+QxGFNkgXZpd7YtIIVX8n;VeliBVZWCUCD4ZS8EmSx8A=="
 ---
 

@@ -38,6 +38,17 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "HCL launches dedicated Microsoft business unit"
+    excerpt: "HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft’s ..."
+    publishedDateTime: 2020-01-21T16:31:00Z
+    webUrl: "https://www.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
 
 secured: "PmmL44+BGscsgfO2dFxEak860p6TAQJCJfRq9pjyY9CIkvn8NeHmskXEy9M6/ooVkIB8Jh2EwxhdkC3TiTD6C5gOfYGoWS1Sw1be1HHj2QsC/+3lOdfe6HM5A3o26kWHP0YUHnOu4yN3xJVzO5EkCS44RAs0ojvmcQmsXwdEAA8x4eJXI1KXjtxyBOLbVu0P4+wlLgGrO6SKcijY2UMbCOtxRWknB7MrRZVqagALIHbWYPT1M2SS6Pur2WaJowIn3AhcWQwwlIwZxty8GVdz1SGbweKIhSK/xWIxk+eX097vSJwdrc5o4NhwPaXOJUtL;AuTfjxf9Kfp4B2x1oni/VA=="
 ---

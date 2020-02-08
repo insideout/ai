@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Tesla accused of abruptly pulling self-driving from a used Model S"
 
 related:
+  - title: "Tesla Self-Driving Computer architect Jim Keller is confident about solving autonomous driving"
+    excerpt: "Jim Keller, Tesla’s former head of Autopilot hardware and the designer of Tesla’s Self-Driving Computer chip, says that he is confident about solving autonomous driving after working at Tesla. We first exclusively reported on Tesla quietly hiring Keller, a legendary chip designer, from AMD back in 2016 and we were fairly excited by the ..."
+    publishedDateTime: 2020-02-08T02:43:00Z
+    webUrl: "https://electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/"
+    ampWebUrl: "https://electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 77
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/02/Tesla-chip-designer-Jim-keller.jpg?quality=82&strip=all&w=1000"
+        width: 1000
+        height: 484
   - title: "Wall Street is quietly retreating from its enthusiasm for Tesla's self-driving car plans"
     excerpt: "The transportation narrative has shifted to self-driving. Tesla is working on an autonomous solution, but the likes of Waymo and Cruise are far ahead."
     publishedDateTime: 2020-02-02T08:58:00Z
