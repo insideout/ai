@@ -336,6 +336,19 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 24
+  - title: "Self-driving cars are getting their own rules"
+    excerpt: "By granting an exemption to Nuro's self-driving delivery vans, the National Highway Traffic Safety Administration is beginning to pave the way for the driverless era. In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world ..."
+    publishedDateTime: 2020-02-08T00:30:00Z
+    webUrl: "https://www.axios.com/autonomous-vehicles-regulations-5f371552-7a5c-4d1a-a6ef-69db96964de7.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
+        width: 1920
+        height: 1080
   - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
     excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
     publishedDateTime: 2020-02-04T16:07:00Z
@@ -376,6 +389,6 @@ related:
         width: 1920
         height: 1280
 
-secured: "3nxKTD0sGbLpME37u6Q152qzguEDbrTyMBXyhch2Q5lkm1jqwhQkU+i1Wp+DqXVJud7Cu4k4H3eb7khNhlLRiD7v3Kr/e0MFST20UVE9KPdxO8t4rHrbra9JyIhtVsjMpRGC/qABnvW5dMySC8eejvBugWWEHXCqkwdlJ3F8lT+DkqSxDdxOFeVsepyLUiOnDfs6+u5n353NPUkKW1IgVEAnlB1XV3J9HS7JNtxgthAaHuXk+ZnHWMJA7NsbBwhHEvae6ehlxJAEY95DsAtrsVxcJki9sz95rB6dD/CN/aNOaaNfp28C4zQF9VNnhU3Z;Tr+bGSIq4UQI0FtQ2nwOnA=="
+secured: "Nus5vZ8sKSWilA6HcPNpGd7dejySxjDZNqPWRci5EKQk1TaZZ2nq8ZTL941wrnYldJ0wTUEOzoWD518yvalvVEAhrvWufMBvSS0R0Q6ts3ZfXWWfq3Xr/60eWgtSUAKQDeP7s8kLfv4Q5LmruKIN21IF9Q9zbuzII2s0sL19LR4L3ELmSS78a7NGAV/7hjoh1u8kEemVh0e0H580MHlvdiJ+C6uWfDGGvrhIUNvu8iaNI9IRDq6TP/lExasyeupdtdUx5EF25pvjV8cYKvIs72JzIV1i5Vgf3xgVHP/00R7rGWqBEnYb4wNu3R9ZUC1iQf1ZSXvCWtR7Ko6TJ1V4ugQVTOIIaIQu4ynnoiYrQB+VlLHKGFC/5u8F4XjCGoKrgfs4v/nC64s9YT8es6Q5VU1KJPZuh/n9mNaxl3XzSLlDSgqJfPMJrK46u8ZyWS6865Z99L2b93ayAn7aApwFGdHa8ADalxOeQcOIvtIJdRE=;0guH4wBsOCrCuJ7hc2+jcQ=="
 ---
 

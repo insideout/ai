@@ -1,19 +1,17 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
-publishedDateTime: 2020-02-03T10:44:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
+publishedDateTime: 2020-02-03T11:44:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -80,6 +78,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "phFoLm4D88phNa7QVUK0T0Gyv4oP5iv3eptPil+hc17636e77/X56f71grfoOC7fFWNemqoilP7t4a//9a2GH/eMkp8WNTwDvXcJi/QLDFAjHHaWwKLJKuHD1M0GXIcQT62MWvl2z4fjXK8gxwKFX6k1oXkWtSWx7hpgOIbb+9/em7WEBLSjD+U/H67v5M27opustTgvbKYKDMGnGQELEE5nQX6y12tscwCLA1UTZVQrTnsBQSN1DICxpnoHGulrj20SOcwibdqoFJJseJP4w4mh7M9dtBzVtwMltDfA1OzgXk2hYaBJJtnujfexbp7K;oGLInmPSCZEYyr28U7GRRg=="
+secured: "4Iy1ehlL7hFBOMGeAJpaqVNbV4sLR8IAzVQXCLMw2g/XMpippaM/MOPWqP4q5gqCt56FgR5adwBHDHLo4Dc1AJy3XgwBMPJQ6K/g9Xwuf8c1Djml0hCILba0APIwKEEawofIEhVTtzFecSKz9IGQm4sE8LfcfrO3y4vmBJkJpqJxFXfq8bejFKwiWTLqJkjxptmTDJlMw0vZ5VXo6GdnaEUDxPmjGHS/55T7F9Y1IhUkFKcZ1yT4Vh1vWuNT1ZiAsWsiSCj9CDRfFrtqAXpkPQyoM/GtJ3HGdRE5hDTd9u8gzeQ+x4z+828tQByCoR+n;PtE+lNrBfC2nCzwmg6Lx4A=="
 ---
 

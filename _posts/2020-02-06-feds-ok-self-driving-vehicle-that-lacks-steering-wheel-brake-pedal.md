@@ -43,14 +43,14 @@ related:
         height: 720
   - title: "Feds break from policy, allow self-driving vehicle to bypass human-driver safety rules"
     excerpt: "DETROIT — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t need to meet the same federal safety standards for cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
-    publishedDateTime: 2020-02-06T22:33:00Z
-    webUrl: "https://www.pennlive.com/nation-world/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html"
-    ampWebUrl: "https://www.pennlive.com/nation-world/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
+    publishedDateTime: 2020-02-06T23:59:00Z
+    webUrl: "https://www.syracuse.com/us-news/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html"
+    ampWebUrl: "https://www.syracuse.com/us-news/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
     type: article
     provider:
-      name: Penn Live
-      domain: pennlive.com
+      name: syracuse.com
+      domain: syracuse.com
     quality: 36
     images:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ALVEY7JR7NCHZKKWPIJVSNBDLY.jpg"

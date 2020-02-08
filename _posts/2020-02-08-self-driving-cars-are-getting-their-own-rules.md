@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Uber to bring back self-driving cars in California for first time since 2018 death"
-excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
-publishedDateTime: 2020-02-06T00:06:00Z
-webUrl: "https://www.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-ampWebUrl: "https://amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+title: "Self-driving cars are getting their own rules"
+excerpt: "By granting an exemption to Nuro's self-driving delivery vans, the National Highway Traffic Safety Administration is beginning to pave the way for the driverless era. In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world ..."
+publishedDateTime: 2020-02-08T00:30:00Z
+webUrl: "https://www.axios.com/autonomous-vehicles-regulations-5f371552-7a5c-4d1a-a6ef-69db96964de7.html"
 type: article
-quality: 38
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Axios
+  domain: axios.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
-    width: 600
-    height: 360
-    title: "Uber to bring back self-driving cars in California for first time since 2018 death"
+  - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
+    width: 1920
+    height: 1080
+    title: "Self-driving cars are getting their own rules"
 
 related:
   - title: "Uber gets green light to test self-driving cars in California again"
@@ -286,6 +284,21 @@ related:
       - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
         width: 600
         height: 360
+  - title: "Uber to bring back self-driving cars in California for first time since 2018 death"
+    excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
+    publishedDateTime: 2020-02-06T00:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/feb/05/uber-california-self-driving-vehicles"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 38
+    images:
+      - url: "https://i.guim.co.uk/img/media/6bf1e5ba3746d4d4c2f7b2e2b9b2fef567a5db30/0_0_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=645ee6609d2467bc00f07a6bf3b87a7b"
+        width: 600
+        height: 360
   - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
     excerpt: "Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company’s plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Transportation Department believe specially ..."
     publishedDateTime: 2020-02-06T17:19:00Z
@@ -336,19 +349,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 24
-  - title: "Self-driving cars are getting their own rules"
-    excerpt: "By granting an exemption to Nuro's self-driving delivery vans, the National Highway Traffic Safety Administration is beginning to pave the way for the driverless era. In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world ..."
-    publishedDateTime: 2020-02-08T00:30:00Z
-    webUrl: "https://www.axios.com/autonomous-vehicles-regulations-5f371552-7a5c-4d1a-a6ef-69db96964de7.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
-        width: 1920
-        height: 1080
   - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
     excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
     publishedDateTime: 2020-02-04T16:07:00Z
@@ -389,6 +389,6 @@ related:
         width: 1920
         height: 1280
 
-secured: "QexaQF7oHgt5vAR0cGmxh9qvbqX/bOnKUU6dOotmoZ6Ml5EUYSoHHZYXw1hLlzd60jd0//Qx9FFJlxQ7dBfomMDHHEP7lp1hhHSiL5AIzOAk4C2BojKX3vyrwo77PNLqSfhA3rMi0ZyV79YY0/+ogzkkpt93r+j9/Sfr6RhNe6ffEqL+9ZhkT7OWR25vniC4lKiFAYdE6StYKNMHcHPhAXPxl0PL19FPIEarGaAcOy/2EqpS5SRjVdaAiU81I7FuLCk8gj+a9BM6G9YDwdNwYORFGF26ZuRSp2oqyaXN9Wo/h0T04Cp7lZ/Ea5eUjeZI;5CPasOvMoUbidn96h9iErQ=="
+secured: "cK6tI8nyuyElwBHbYTru/BYClEKMUJEVOHVPlZca1LjdZuNa+FfkLak12IZtpBmst3td5UuNXXlePY7KzIyTt9TGtdmCnXQo3gOMWdItQVwv1PKio5avysGLeUOwNcrjRp3Z0OigjmGRINxKn8hBMibRwd88PplX1m3M0ffNiPtxDQPhvH1gUvyYj5cPcqumpXlPv2sZVgpxTAOiPP8jjvwNkHG/T3fHqnO3Kjei1DsnNSN5MqDCDlNL6PP5/BMQtxq+l82OXZB24jelGNmri8fg1bTI2EknEb9DzO8/9wnMPxRy8MTh0IzCz9tenPvE;EVjkpqoizfXleIZM1mL9Rw=="
 ---
 

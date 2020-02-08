@@ -2,18 +2,18 @@
 category: news
 title: "Feds break from policy, allow self-driving vehicle to bypass human-driver safety rules"
 excerpt: "DETROIT — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t need to meet the same federal safety standards for cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
-publishedDateTime: 2020-02-06T22:33:00Z
-webUrl: "https://www.pennlive.com/nation-world/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html"
-ampWebUrl: "https://www.pennlive.com/nation-world/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
-cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
+publishedDateTime: 2020-02-06T23:59:00Z
+webUrl: "https://www.syracuse.com/us-news/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html"
+ampWebUrl: "https://www.syracuse.com/us-news/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
+cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Penn Live
-  domain: pennlive.com
+  name: syracuse.com
+  domain: syracuse.com
 
 topics:
   - AI
@@ -57,6 +57,6 @@ related:
         width: 1200
         height: 633
 
-secured: "KfSlyWduhibPjftxmverH46e6GCfIoAVdgRLTQeSDMdNe+jMrHFs+QYzqo3VMpkrR5u5AvHM6QDImjKNTK+u6prBlDxJZ5ohDy/Urt2A6fLvGoGYHdW8eEMs8PhZfRhn35uaAByF11IXskNjzY0+kygDj9bK7j07WJMbflIJBGnaUjXixHFIFJiemIfSzzks8SK3u55WxsIPpEahPgxwDOFSRiosMk3pKSrLJejwTA6Bv7O2/4CyxR5YtCQ+MY00kVN3R2fh8hmom0pMqPEizust/6CJ8FYGcay1jtAz9Sezo82ViqO8j6JzZmaoeF1BhKwfp70VDSV+oqf6zgnNEEMsXmyG3buD5cEm5iSImLYQoU2dG5Qtx/5rRir0dhxPXaMWCdiCI2QhpHWOQN9JtPXpGcdSP/8JTk8apJdouiq6mKxK/WfIOW7a7RGzy8GHKZPbu6ZpCAHx6ECwAVrcKy3SvooFkB1S3+gNB3IDuE4=;ISHxOhsLzcEc8wgCLJBw1g=="
+secured: "j4LAbRgiL0mAMQpD/26ix2b/6nIOhtb8vqYd1GYFiHbB5UIYJEpsDQfGsgUOJ4AyumVTys0tt7FAdvKl89chObIYIfxePwLFZd8Kv9pOnRAHojGJ1imqrVRhy/QhUxv7+ocVcgeo+YzEiajnbZBNL5VtxB6Ccsln5IcpjqfrltaKrUQkKHFXt7BM7jE3gqbiqL457pv2ftFe0aOwdlE365PTcMWqZtZuiMLp2Lwk2lIJBYysohfzAd2Bn9lLaranPztMQobh7Rob5NO79a39X3rGCjErxmV8C7mioOR6pmQvcaiCghgH2Nmp7Y1RaOlA;mf+O+pTo1lFLd9gFfdoQfA=="
 ---
 

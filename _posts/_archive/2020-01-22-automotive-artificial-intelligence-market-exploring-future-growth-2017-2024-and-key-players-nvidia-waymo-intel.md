@@ -31,20 +31,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Latest News| Artificial Intelligence (AI) in Healthcare Market Growth Analysis|Professional Survey 2020 by Global Demand"
-    excerpt: "The development of ARTIFICIAL INTELLIGENCE technology is helping the healthcare ecosystem to growing ARTIFICIAL INTELLIGENCE in Healthcare Industry.  It has been witnessing a lot of transformations and growth with new technological breakthroughs in various applications,"
-    publishedDateTime: 2020-01-24T07:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-news-artificial-intelligence-ai-in-healthcare-market-growth-analysisprofessional-survey-2020-by-global-demand-2020-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
-secured: "XXBBgPDcqbUL4hBv1ZHzbp71HeVJha5n0wzbbn47q6BbH5BQkGw7wlpzlnPgbkUhNht37iHVnjc4I0Z+fWx9TCpvIBbryKEfFlSJb8Rd784uMwnLm4fY1kVMACdEPwqyGzwBO8654Outa2x+kq1nKcDzbzmjB2Y8G/UD5sewUdODkPdVrCwwK2C+Otwfodw4/P6RKIS1FeqCaGYEpC13nfdRx6/9DY4nYkAQ/Xj0k+e6MdnUoAfU1FpzM3JNkbB+QXK0xFtxLgaadv3e7TalRyBY/gOpHs4eVlLx+J/lo5YBLtZLlVXPR3FJZ0lInAvn;zkWr11LioztYTxVE965mfA=="
+secured: "SV9+bEa/QSL3Tonzzq2l0SFdHCG4giIQ7zOHUGvnCpzf3BJHBG53ACmYVYDVeMqtJhIhoYBVJfr/tn/ELeQ7szZ54rEbno8CnDOl248r9XwH51sKfr72UMHAGqpf5+i/+MMrlPSAIU7w1v64F3uWHC8LgHonc/PYrzj2l8lIICxjBi12KNyWskTF7O5sN8GkszVIJxyrf4ey/mK9DltbkjeYVEZP7eKvMAavUgCcjmLgnBYmnGnfKNx6NC47qRxws1Ol8Unpt7n4vwMtkh/q6OWlufo/H91SySLw5jgBmJJ6hlUauUaq3WZ2qztLR9mO;903ArlTTrHekv+Xzp8129g=="
 ---
 
