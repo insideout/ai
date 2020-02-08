@@ -63,21 +63,6 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
         width: 1024
         height: 512
-  - title: "You may soon see Uber’s self-driving cars on a D.C. road near you"
-    excerpt: "Uber has been testing self-driving cars in other markets, but they haven’t yet made it to D.C. Now, the ride-hailing company is looking to launch the vehicles here."
-    publishedDateTime: 2020-01-24T12:43:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.html"
-    ampWebUrl: "https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: "https://media.bizj.us/view/img/11587279/uber-self-driving*600xx1500-1000-0-0.jpg"
-        width: 600
-        height: 400
   - title: "Uber self-driving cars, with humans in control, to cruise Friday"
     excerpt: "Uber will put self-driving vehicles on Washington, DC roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self-driving in Dallas, San Francisco and Toronto with human ..."
     publishedDateTime: 2020-01-27T01:46:00Z
@@ -102,16 +87,7 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
-  - title: "Uber self-driving cars, with humans in control, to cruise Washington"
-    excerpt: "WASHINGTON -- Uber Technologies Inc. will put self-driving vehicles on Washington roads Friday with human drivers in control, the ride-hailing company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self-driving in Dallas ..."
-    publishedDateTime: 2020-01-24T11:37:00Z
-    webUrl: "https://www.autonews.com/mobility-report/uber-self-driving-cars-humans-control-cruise-washington"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 4
 
-secured: "zZDYdH6lgRC8YU92aIUI1QdBoV/o+ZAj7dSijSspFo621/23IZLtjroLYgDpihjU9KoKNFMBLw3wYGLpm8lWDvXiUspN/jKjR7D/bpmWVE64PxBxeOjdjtY4UQGhbH6ZPvQzjXwu/3L433FJPrdEZiD+qOld5m7txiWIxPK/t8d8/iyBt5FNM4OHgFZqiRbq5YNOpglx3ckCesTvfWQLrN2yRpFDMWKijWyqTtsC0nT3IBlK7inNzS9RVxoJM/Bjt/KIM2xToF2OaDXEjsUj52v878QS//HTAXEuf+mCiVDplpe0P2GhLWWhx9iOlaAw;HruBc7dO8y2jue8AbLqUAg=="
+secured: "zY2q2pHC6C8vnhpATV+TMkfSylbk30POn9bHmm5bIPJOCZTQQoqocyN7+pM4kadhdmckcLq6/y7ndvhBLG12jm3ezhoNBqSnr+/4X3FBcgEb0/F5ICYVNQ/8/gqfXS8L65gC/ByFFlAbbiQycjLrlAWPwuJT10vnAWHhnMmy5Y2XES5Qb+S1WBr8XaJGKoaNhLnCPTxI1Zta2lmP1lNB+tGmvH60qmrpAjxsFg25YozsDySmaL+K+CAUKA/z6J41HfFYAtZOzlcllB5H6wEuQH1ZVBB3/y1EGuD53koMwqV8uiKvF4HWRlfnG5UsbgzO;dgtWkjnT8P8NIKRlH6TrmQ=="
 ---
 

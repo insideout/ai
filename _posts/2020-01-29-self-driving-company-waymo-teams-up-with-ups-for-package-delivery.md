@@ -349,15 +349,6 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/634/14634/WaymoUPSPartnership_Still.jpg"
         width: 752
         height: 423
-  - title: "Uber's self-driving vehicles are coming to Washington, DC"
-    excerpt: "Why it matters: Waymo isn't the only company that wants to move the world toward a self-driving future. Uber is pushing for a similar goal, albeit at a slower, more deliberate pace following some past controversies involving its autonomous car tech. Regardless, the company is hitting another major milestone today: its fleet of self-driving ..."
-    publishedDateTime: 2020-01-24T12:28:00Z
-    webUrl: "https://www.techspot.com/news/83694-uber-self-driving-vehicles-coming-washington-dc.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 34
   - title: "Tokyo Olympics To Coincide With Biggest Self-Driving Demonstration In History"
     excerpt: "Set to take place in early July, just two weeks before the Tokyo Olympics, the multi-manufacturer group will produce some 80 self-driving vehicles"
     publishedDateTime: 2020-01-29T04:40:00Z

@@ -129,36 +129,6 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127916599001_6127918301001-vs.jpg"
         width: 1280
         height: 720
-  - title: "Facial recognition to be rolled out in London amid privacy concerns"
-    excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
-    publishedDateTime: 2020-01-24T12:51:00Z
-    webUrl: "https://mashable.com/article/live-facial-recognition-london/"
-    ampWebUrl: "https://mashable.com/article/live-facial-recognition-london.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/live-facial-recognition-london.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F24%252F32%252F24514062c79b4e99813b05f461a715ab.0ae06.jpg%252F1200x630.jpg?signature=o9ainWP9-9NbdcBxB-ZiRttGoEc="
-        width: 1200
-        height: 630
-  - title: "London police to deploy facial recognition cameras across the city"
-    excerpt: "Live facial recognition cameras will be deployed across London, with the city’s Metropolitan Police announcing today that the technology has moved past the trial stage and is ready to be permanently integrated into everyday policing. The cameras will be ..."
-    publishedDateTime: 2020-01-24T12:57:00Z
-    webUrl: "https://www.theverge.com/2020/1/24/21079919/facial-recognition-london-cctv-camera-deployment"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/24/21079919/facial-recognition-london-cctv-camera-deployment"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079919/facial-recognition-london-cctv-camera-deployment"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 89
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/7pxwMUlds7-o0Q6HyWeu1-EN94c=/0x0:6720x4480/1400x933/filters:focal(2823x1703:3897x2777):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66159634/1161938926.jpg.0.jpg"
-        width: 1400
-        height: 933
   - title: "London Cops Will Use Facial Recognition to Hunt Suspects"
     excerpt: "There will soon be a new bobby on the beat in London: artificial intelligence. London’s Metropolitan Police said Friday that it will deploy facial recognition technology to find wanted criminals and missing persons. It said the technology will be deployed at “specific locations,” each with a “bespoke watch list” of wanted persons ..."
     publishedDateTime: 2020-01-25T07:00:00Z

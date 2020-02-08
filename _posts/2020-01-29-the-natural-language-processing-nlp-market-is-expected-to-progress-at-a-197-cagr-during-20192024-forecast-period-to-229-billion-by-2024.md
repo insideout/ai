@@ -55,6 +55,17 @@ related:
       - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
         width: 400
         height: 400
+  - title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
+    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+    publishedDateTime: 2020-02-03T10:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
   - title: "Machine Translation Market 2020 The machine translation market is expected to register a CAGR of 7.1% during the forecast period 2020 - 2024"
     excerpt: "Machine Translation Market 2019 analysis is provided for each region, based on the growth rate, consumer buying patterns, present demand and supply scenarios in Machine Translation Market. This market research report is a beneficial tool for its buyer to increase the profitability of investment,"
     publishedDateTime: 2020-01-29T06:11:00Z
@@ -68,15 +79,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-    publishedDateTime: 2020-02-03T11:44:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 1
 
 secured: "p6vhSaunepTog692Ps+CZP0b98E7huTyfrsdKJD/fDifDz6nLEpPQ21lo5+qNjAqCdDj6vrVQQwD9RpUJDX8Kcg5o81L73Nda8jM6GQ3y88Dd8YIsc2jfKmcDk7AsPhtU/X4QiKkxW8EKK+wRrm7a3G73nEr3bctuenE6eXbiTORVwLV0yrIknKFrCMvUzExWwEmDb0RQRgtkNABDl0kNx+LLxZvPbLZVmdcUjvGJE/n1PHd4CC2aGAu/SDuQS86okQC7PBN8FTiqO7mJ/jY38oN0bpV35y9bZlFLd2vF/XlW76RsDkqQVp7VsGPeWwL;3DDG9LUAXbL4XlUo8xv9lQ=="
 ---

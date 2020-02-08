@@ -5,8 +5,8 @@ excerpt: "Chris Lattner, the legendary Apple engineer known for creating Swift, 
 publishedDateTime: 2020-02-07T23:00:00Z
 webUrl: "https://www.businessinsider.com/chris-lattner-former-apple-google-engineer-swift-ai-startup-sifive-2020-2"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Google AI
 
 images:
   - url: "https://i.insider.com/587521c5f10a9a2a768b4942?width=1200&format=jpeg"

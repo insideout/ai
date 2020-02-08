@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Met police to deploy live facial recognition in London"
-excerpt: "London’s Metropolitan Police has announced that it will deploy live facial recognition to identify citizens across the capital, flying in the face of calls from the British government, regulators and citizens to pause use of the highly invasive and often inaccurate biometric technology. The Met said that standalone cameras would scan passers ..."
-publishedDateTime: 2020-01-24T13:47:00Z
-webUrl: "https://www.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735"
-ampWebUrl: "https://amp.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735"
-cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735"
+title: "Met police to begin using live facial recognition cameras"
+excerpt: "Civil liberties groups condemn move as ‘a breathtaking assault on our rights’"
+publishedDateTime: 2020-01-24T13:16:00Z
+webUrl: "https://www.theguardian.com/technology/2020/jan/24/met-police-begin-using-live-facial-recognition-cameras"
+ampWebUrl: "https://amp.theguardian.com/technology/2020/jan/24/met-police-begin-using-live-facial-recognition-cameras"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/24/met-police-begin-using-live-facial-recognition-cameras"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: The Guardian
+  domain: theguardian.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F823b5d34-3eae-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500"
-    width: 500
-    height: 281
-    title: "Met police to deploy live facial recognition in London"
+  - url: "https://i.guim.co.uk/img/media/45c2df697a98316f59a3dc14ee1bcb27bb2b4aba/0_94_3500_2100/master/3500.jpg?width=605&quality=85&auto=format&fit=max&s=3a6698f9b36d3cdd8fcc3e6ad0aed500"
+    width: 605
+    height: 363
+    title: "Met police to begin using live facial recognition cameras"
 
 related:
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
@@ -129,36 +129,6 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127916599001_6127918301001-vs.jpg"
         width: 1280
         height: 720
-  - title: "Facial recognition to be rolled out in London amid privacy concerns"
-    excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
-    publishedDateTime: 2020-01-24T12:51:00Z
-    webUrl: "https://mashable.com/article/live-facial-recognition-london/"
-    ampWebUrl: "https://mashable.com/article/live-facial-recognition-london.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/live-facial-recognition-london.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F01%252F24%252F32%252F24514062c79b4e99813b05f461a715ab.0ae06.jpg%252F1200x630.jpg?signature=o9ainWP9-9NbdcBxB-ZiRttGoEc="
-        width: 1200
-        height: 630
-  - title: "London police to deploy facial recognition cameras across the city"
-    excerpt: "Live facial recognition cameras will be deployed across London, with the city’s Metropolitan Police announcing today that the technology has moved past the trial stage and is ready to be permanently integrated into everyday policing. The cameras will be ..."
-    publishedDateTime: 2020-01-24T12:57:00Z
-    webUrl: "https://www.theverge.com/2020/1/24/21079919/facial-recognition-london-cctv-camera-deployment"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/24/21079919/facial-recognition-london-cctv-camera-deployment"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079919/facial-recognition-london-cctv-camera-deployment"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 89
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/7pxwMUlds7-o0Q6HyWeu1-EN94c=/0x0:6720x4480/1400x933/filters:focal(2823x1703:3897x2777):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66159634/1161938926.jpg.0.jpg"
-        width: 1400
-        height: 933
   - title: "London Cops Will Use Facial Recognition to Hunt Suspects"
     excerpt: "There will soon be a new bobby on the beat in London: artificial intelligence. London’s Metropolitan Police said Friday that it will deploy facial recognition technology to find wanted criminals and missing persons. It said the technology will be deployed at “specific locations,” each with a “bespoke watch list” of wanted persons ..."
     publishedDateTime: 2020-01-25T07:00:00Z
@@ -374,21 +344,21 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/01/2010-10-18T120000Z_926960977_LM1E6AI119B01_RTRMADP_3_BRITAIN-DEFENCE-STRATEGY-1024x576.jpg"
         width: 1024
         height: 576
-  - title: "Met police to begin using live facial recognition cameras"
-    excerpt: "Civil liberties groups condemn move as ‘a breathtaking assault on our rights’"
-    publishedDateTime: 2020-01-24T13:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/jan/24/met-police-begin-using-live-facial-recognition-cameras"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/jan/24/met-police-begin-using-live-facial-recognition-cameras"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/24/met-police-begin-using-live-facial-recognition-cameras"
+  - title: "Met police to deploy live facial recognition in London"
+    excerpt: "London’s Metropolitan Police has announced that it will deploy live facial recognition to identify citizens across the capital, flying in the face of calls from the British government, regulators and citizens to pause use of the highly invasive and often inaccurate biometric technology. The Met said that standalone cameras would scan passers ..."
+    publishedDateTime: 2020-01-24T13:47:00Z
+    webUrl: "https://www.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735"
+    ampWebUrl: "https://amp.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: The Financial Times
+      domain: ft.com
     quality: 59
     images:
-      - url: "https://i.guim.co.uk/img/media/45c2df697a98316f59a3dc14ee1bcb27bb2b4aba/0_94_3500_2100/master/3500.jpg?width=605&quality=85&auto=format&fit=max&s=3a6698f9b36d3cdd8fcc3e6ad0aed500"
-        width: 605
-        height: 363
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F823b5d34-3eae-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
   - title: "Facial Recognition Cameras Coming to London"
     excerpt: "Whether you think it’s a brilliant security measure or an alarming violation of privacy, facial recognition technology is booming right now. The latest controversy surrounding its use comes from London, with the announcement that facial recognition cameras will be permanently situated around the city. The Metropolitan Police announced the ..."
     publishedDateTime: 2020-01-25T18:29:00Z
@@ -868,6 +838,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "G2Yc3gLN9LVoVnd2nN2UXmWTb61d1ULWa/d/i0jineu63ZcGlBzvDvEx+SDNeCBSWSBZ43z26yCx6DYfvtNvaW3FmBUDu8SUzrn8qs9h+Z10lplYO5an9aiHzd9EjUfXkrc8tqJHG8kDpxLer0oVcQiWXWRCkLXnoqX1Ck1qG86vkNO423y/gEiXHTVyS4Iw86ONofniixeTE1Bay3IpbVN+H1TnJ3q0kigqLjbAuEcZWeDJH6/bJFmygAd3bL+ycuzi9dPzgPD1qsuCXC8lKt20vzP7jUPV8i+KgjXubVlb3XDQ/sZsBqf4/qLJLh9aet/Pg1iMc9++yk9mswfsniwd0lnvb8fU1F6wnNwJ7S6pzVs2Z3FBdC1Lh2tUR5NxBqAOEVAn6h+4FeyQW/HZ+Ij55LY+1HMMl1oUIvQP/uhhkF3GvphQgOve616Y4kteS64pS7sN2c1xX+KBaJEKVYH5BBtm9b8FSf2QZOruJaU=;p3QI9ZAyI/fI7TJBy+NCsQ=="
+secured: "xCoNu2dgHZEqro+AA5HO22R4avMaoiBlplBVBOLLeUn1NSY7b/bPiBWGZMV92eKmgDaCvg5j27UqKYSC7rjPIWKVa0OgpWSfMRwz+3cQg1xuWAZEfBsKdhLl75BdUzkZN4TnEbn94S9AGZkh1YHs3SpoY7kSx7bN4Dl8pJiKXginSnXFI0d4CY4UM3HF5vITTagyuVn6fNy9Li1scu0+B1eAA1BwYpvUZQQj11wUCoGrZJigj3IP36SRoO0Dfp+4IdJ/WPRULFBC4YZfrsVtMrsRNBva8EUNPbLuZMNLOHQ+we5BQlIw65DqX+oowKt+De20IChNHZ0zjn6IeDjNXxMhHq4kvx+t5Psi2rIXjFarL8rRpFU9lKqcICnLMSeellLnsk6yBjsIJ8k+yBGuQ5puJAgkehwDa/HmliiNSpWVcCVBF9Gfj42YztK8ZtanKcfps+xywWyiwX+5fWokuUA5TELjcPJFY0+fP5xyvH4=;rE+NtzV6VOsKFDPIgD7WCQ=="
 ---
 

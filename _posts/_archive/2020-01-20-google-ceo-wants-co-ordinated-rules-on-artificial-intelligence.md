@@ -4,8 +4,10 @@ title: "Google CEO wants co-ordinated rules on artificial intelligence"
 excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
 publishedDateTime: 2020-01-20T13:52:00Z
 webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+    width: 1000
+    height: 652
+    title: "Google CEO wants co-ordinated rules on artificial intelligence"
 
 related:
   - title: "ProBeat: Why Google is really calling for AI regulation"
@@ -63,31 +71,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
         width: 1200
         height: 800
-  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:57:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
-        width: 600
-        height: 338
   - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
     excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
     publishedDateTime: 2020-01-21T13:29:00Z
     webUrl: "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/"
+    ampWebUrl: "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/?amp"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/?amp"
     type: article
     provider:
       name: inc42.com
       domain: inc42.com
-    quality: 19
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2019/07/pichai-google-ceo-featured.jpg?fit=1360%2C1020&#038;ssl=1"
+        width: 1360
+        height: 1020
 
-secured: "o+qKD1R75vjXmjMCTf//t9LnLx2b+hxXiRrOkXoGlbLtwyNjdaLU80wHTbv7xSDmhs2vJXtvb3d4DuM71I4w+sTJ7rWPDH+yfi6DzLE/wgIMaxgZ7LORlYe8uyimwvn3PPu4p8JuVhSCju4AfmZ3VU2mjeyln7Xi61fKEmNx5QhvitMSzYexQSTA2MYzwOJUduxJTC2BI13HC4BKnVwdB8pC20iyi1F/ebAx+UJeP8jizjkW6sfkKylmt+hrZKpiZYxQ2NgGpMW+1dcq4cZPv+AKmNNHuPMXwlb7EE6RKZeDkV0ikHZzcamKSnV7yu3P;/70M4dFnp5NXxaqhLPsLIw=="
+secured: "8a3t1wsA0uLu/ixzYci1s9sEAu1dXURIYRX9+42NindftOgEnHkFsZIHXdoh4TpOGOms1aW2yiJNqcbemzplOXMj+yTLQrglk6sPm8KeC3OE4D2jrn1Z90T9laG8h4towzOy9m4pXkgf8alC3VJpsKUQID9JAiQ+RyPMGjTzGYXNfsAL28AkorpuoA3xX85HPvIhIyzXJcnyLPxRVKbSn4QQb4pOQFxSf2vwmsMVjZtlku+1p5tsYcZeDTcgoojONvzy3n98qvlDVo9nPSiEybtyGfKka/2DHlggLSya6UxGFR6cBmRFTIp11MBHbjKv;vCQRxPA62qe4iBCxDwk7lg=="
 ---
 

@@ -68,21 +68,6 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
         width: 8000
         height: 4940
-  - title: "The AI regulation wave is coming: Industry should ride it"
-    excerpt: "AI industry engagement on regulations is the smart play. Martijn Rasser is a senior fellow at the Center for a New American Security, a Washington D.C., think tank. He previously was an executive with a Silicon Valley-based AI startup."
-    publishedDateTime: 2020-01-24T12:17:00Z
-    webUrl: "https://www.sfchronicle.com/opinion/openforum/article/The-AI-regulation-wave-is-coming-Industry-should-14999873.php"
-    ampWebUrl: "https://www.sfchronicle.com/opinion/openforum/amp/The-AI-regulation-wave-is-coming-Industry-should-14999873.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/openforum/amp/The-AI-regulation-wave-is-coming-Industry-should-14999873.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 57
-    images:
-      - url: "https://s.hdnux.com/photos/01/10/11/64/18914618/5/rawImage.jpg"
-        width: 1920
-        height: 1244
 
 secured: "ZaPxRWfqBcgBEPfV852Tj+yQqOeslMAnSw3AhlXBggDElUffkrBnNI3uqMQXA2egVEGmYQsn1Xs/nkE3q9JnFwF3e56CypjU3aSZ27+zdX4gFffRfcp3n1sfOeonLoJtrF7/uSllOtgFjNLLgync4mCFcDUvYxS0bMK9dcf0zxOF9YUlM+pO8chz+qzD6P8iU8gV//y1fX+7IY0lfAVQsz+PEFnG3q/XvcP4lGHUdHTqLAFEdirAMwF+Qya6Qxenh92WxpRcK7ofGvQLDTzM19kLImH4z9haCnnjtVnP+i7ZA8oC9Apu0l3uQJmzpOakXI/HZnTtc3wJZaAWDrjcsjukQA/yDGC35ax2BPHs79NCBybJrGPseeSsz19k5nndf3Cz/+UEW6dIUockceCd/ael4AdKn9g89jR9HL200UTL7erxTeHKTmuVWCl5r9zGCZDOwzGcAYVzviUNz/r/8/fVSYeu9zQziOsp0j0cKCI=;q6EJpa+Ba742M7OE46bXfQ=="
 ---

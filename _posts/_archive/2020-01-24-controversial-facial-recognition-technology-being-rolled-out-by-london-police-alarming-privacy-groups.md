@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Police To Deploy Live Facial Recognition On London Streets"
-excerpt: "To the horror of civil liberties campaigners, London's Metropolitan Police has announced plans to use live facial recognition cameras in the capital. The cameras will be used 'at locations where intelligence suggests we are most likely to locate serious offenders',"
-publishedDateTime: 2020-01-24T13:56:00Z
-webUrl: "https://www.forbes.com/sites/emmawoollacott/2020/01/24/police-to-deploy-live-facial-recognition-on-london-streets/"
-ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2020/01/24/police-to-deploy-live-facial-recognition-on-london-streets/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/01/24/police-to-deploy-live-facial-recognition-on-london-streets/amp/"
+title: "Controversial facial recognition technology being rolled out by London police, alarming privacy groups"
+excerpt: "LONDON -- Facial recognition technology is set to be rolled out across London by the Metropolitan Police Service beginning Friday, despite concerns over the technology’s effectiveness and objections from privacy advocates. The use of Live Facial Recognition (LFR) technology will be “intelligence-led and deployed to specific locations” and ..."
+publishedDateTime: 2020-01-24T13:36:00Z
+webUrl: "https://abcnews.go.com/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552"
+ampWebUrl: "https://abcnews.go.com/amp/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552"
 type: article
-quality: 89
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABC
+  domain: go.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1074319514%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4681%26cropY1%3D279%26cropY2%3D2913"
-    width: 1199
-    height: 675
-    title: "Police To Deploy Live Facial Recognition On London Streets"
+  - url: "https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
+    title: "Controversial facial recognition technology being rolled out by London police, alarming privacy groups"
 
 related:
   - title: "London police deploy real-time facial recognition cameras"
@@ -88,36 +84,21 @@ related:
       - url: "https://static01.nyt.com/images/2020/01/24/business/24london-recog/merlin_164586807_ce9d6b5f-ebc8-4e9a-85f4-1a9c9ac578f1-facebookJumbo.jpg"
         width: 1050
         height: 549
-  - title: "London Police Will Begin Using Real-Time Facial Recognition"
-    excerpt: "The city, stepping into a debate over privacy, says it will use the technology “to tackle serious crime.” London’s police department said on Friday that it would begin using facial recognition technology in the city to identify people in real time,"
-    publishedDateTime: 2020-01-24T12:58:00Z
-    webUrl: "https://www.nytimes.com/2020/01/24/business/london-police-facial-recognition.html"
-    ampWebUrl: "https://www.nytimes.com/2020/01/24/business/london-police-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/24/business/london-police-facial-recognition.amp.html"
+  - title: "Police To Deploy Live Facial Recognition On London Streets"
+    excerpt: "To the horror of civil liberties campaigners, London's Metropolitan Police has announced plans to use live facial recognition cameras in the capital. The cameras will be used 'at locations where intelligence suggests we are most likely to locate serious offenders',"
+    publishedDateTime: 2020-01-24T13:56:00Z
+    webUrl: "https://www.forbes.com/sites/emmawoollacott/2020/01/24/police-to-deploy-live-facial-recognition-on-london-streets/"
+    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2020/01/24/police-to-deploy-live-facial-recognition-on-london-streets/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/01/24/police-to-deploy-live-facial-recognition-on-london-streets/amp/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://static01.nyt.com/images/2020/01/24/business/24london-recog/merlin_164586807_ce9d6b5f-ebc8-4e9a-85f4-1a9c9ac578f1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-  - title: "Police to roll out live facial recognition cameras in London"
-    excerpt: "British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog."
-    publishedDateTime: 2020-01-24T12:55:00Z
-    webUrl: "https://www.reuters.com/article/us-britain-security-cameras-idUSKBN1ZN1H2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN1ZN1H2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZN1H2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200124&t=2&i=1480741019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0N1A7"
-        width: 882
-        height: 545
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1074319514%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4681%26cropY1%3D279%26cropY2%3D2913"
+        width: 1199
+        height: 675
   - title: "New Jersey Bars Police From Using Clearview Facial Recognition App"
     excerpt: "Reporting about the powerful tool with a database of three billion photos “troubled” the state’s attorney general, who asked for an inquiry into its use. New Jersey police officers are now barred from using a facial recognition app made by a start-up that has licensed its groundbreaking technology to hundreds of law enforcement agencies around the country."
     publishedDateTime: 2020-01-25T01:47:00Z
@@ -283,21 +264,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F01%252F24%252F8f%252Fe45391542f244300abce8e004744f264.dbee4.png%252F1200x630.png?signature=Jv-_6kRL_ZmhIw_aPKprHejEK2o="
         width: 1200
         height: 630
-  - title: "Police are about to deploy 'privacy destroying' facial recognition cameras across London"
-    excerpt: "Facial recognition cameras are set to be deployed across London for the first time, the Metropolitan Police has announced. The roll out of the live facial recognition technology is expected to begin within a month and is designed to help the police tackle serious crime by locating and arresting wanted suspects – but privacy groups have ..."
-    publishedDateTime: 2020-01-24T12:59:00Z
-    webUrl: "https://www.zdnet.com/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg"
-        width: 1200
-        height: 675
   - title: "Rift emerges between regulators and businesses over Portland’s proposed facial recognition ban"
     excerpt: "Portland still seems on pace to impose a dual ban prohibiting facial recognition use by both government agencies and private entities such as retailers and other businesses. But a City Hall session today illuminated what could become a more pronounced point of contention: some local businesses and tech firms could oppose a private-use ban."
     publishedDateTime: 2020-01-29T01:01:00Z
@@ -519,21 +485,6 @@ related:
       - url: "https://thehill.com/sites/default/files/blogs/facescan_facialrecognition_020314thinkstock.jpg"
         width: 645
         height: 363
-  - title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
-    excerpt: "The Metropolitan Police is to begin using its controversial live facial recognition (LFR) technology on a standard basis, despite concerns about the impact of the surveillance software and its legality. In a statement on Friday the force's assistant commissioner, Nick Ephgrave, said the Met was making the technology \"operational\" following 10 ..."
-    publishedDateTime: 2020-01-24T12:54:00Z
-    webUrl: "https://news.sky.com/story/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
-    ampWebUrl: "https://news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 54
-    images:
-      - url: "https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615"
-        width: 1600
-        height: 900
   - title: "Amazon’s New Facial Recognition Smells Your Fear"
     excerpt: "Amazon Rekognition is the company’s controversial face detection and analysis technology. The name alone sounds like it comes from a Paul Verhoeven movie. Since its launch in 2016, critics have ..."
     publishedDateTime: 2020-01-30T00:00:00Z
@@ -606,15 +557,6 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
-  - title: "Facial recognition cameras to be rolled out in London amid privacy concerns"
-    excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
-    publishedDateTime: 2020-01-24T12:51:00Z
-    webUrl: "https://mashable.com/article/live-facial-recognition-london/"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 47
   - title: "London Police are setting up live facial recognition cameras and people are not happy about it"
     excerpt: "London is already the most camera-crazy city outside of China, but now some of those cameras will be running facial recognition software as well. If you’re on one of the many “bespoke” watch lists held by the Metropolitan Police (the Met), cameras in tourist-heavy areas will be looking out for you. They’ve been trialing the system for ..."
     publishedDateTime: 2020-01-24T18:11:00Z
@@ -645,21 +587,6 @@ related:
       - url: "https://www.wate.com/wp-content/uploads/sites/42/2020/01/f217abc1137446e4b14d048dc5f2b05e.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "Controversial facial recognition technology being rolled out by London police, alarming privacy groups"
-    excerpt: "LONDON -- Facial recognition technology is set to be rolled out across London by the Metropolitan Police Service beginning Friday, despite concerns over the technology’s effectiveness and objections from privacy advocates. The use of Live Facial Recognition (LFR) technology will be “intelligence-led and deployed to specific locations” and ..."
-    publishedDateTime: 2020-01-24T13:36:00Z
-    webUrl: "https://abcnews.go.com/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552"
-    ampWebUrl: "https://abcnews.go.com/amp/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552"
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
-    quality: 43
-    images:
-      - url: "https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
   - title: "Met Police deploy NEC biometric facial recognition tech across London"
     excerpt: "The Metropolitan Police in the U.K. has rolled out in London real-time facial recognition technology developed by NEC, reports CBR. The implementation “will be intelligence-led and deployed to specific locations in London. This will help tackle serious crime, including serious violence, gun and knife crime, child sexual exploitation and help ..."
     publishedDateTime: 2020-01-24T18:24:00Z
@@ -898,6 +825,6 @@ related:
       domain: dailybruin.com
     quality: 10
 
-secured: "GpXgCePU2nD2xlS2U107vpTr32SNJnleDikYvXm7dSHYh2q31wZfcoIy36k/MI48RoFu+dHbTTYD2riOKV5BdJL3QQZeq6bimROcs3omM/n73R3MJNM7wOAIcPEFbGAwnYgRvcgXb4JPdRTusfzp7CMvzu7BgIAGQAuP9c8l35bB+UgTmUs/2jH+/qzHPyyaQrXCbMWKk1yNARaaLM6pqdX+GVupmj5KszvJOPA6wrmRyRUa6Fghxs660tjZMDjdHwXPucyLwjjJvkYHL1DJwHRTbO2w03fA55O6R3Hr0/192PrNuPECE4r8Nj8TkIGt6SKpotxBy0wAAbmDOQ5ExcfEibBxSEck7TkrsQjIUMlhSE2/NIPmGJhCs2cqhoaNCjkeBTCTe74yv2Pho2aplVLZSQwL+SHNG0Gd8E4bN6dhv2egHBjv30VzoCPiCnNRDnWbefn1hdWRt8b5DTmZcKbmNb/5RLhgJWRuyyQhr+4=;PgOdOVUsNdjAl1hmWPjMBg=="
+secured: "bAfHpDFgglXdF7R2LiE8odaOw+a72ZpjhUCy3f4KVXg/i7BvtMbaIJNirnS2LSYSG0S6sxk/O9hLsbo9hxBgYqqDHUjsAojq/XWJFyIVuz4fgAqD8h4M3FscCfs181e872XRXDu4lw/2Fs+VVnt5NPjM2cFp0OPnjdSZi0bsx+xnqVjgBK0AI7e7LN6r+u6mF2j+KCIJ0wqczngLKzKwZM9wa9czoThUhAJ5HtLAkZ+vWGSbv1CQxZ+cLLLqiIsbSBwXhkSWMip1etIWawGxRHL22vG5CMvUmXgKwgvNDGtbUGwvT+gHA2VHgpkzrCaaQXVALBLc5Hu4hRJjH4KON1l5Uw2OHIyMCB4nhoAaiPIr0xrZgIdTQGDxoCDhvmbUVpn5xgupG6QolOUZYl+mYj7a4xjXl7UQSg1Uho5b3zvL/oNdxvo00RFYP8r2ekzO8FpxTsdEVrtdY1DzaY3Lp2rSOo/FcLpjpC2q9USb2tQ=;+XQAl40GEhxNWG9Ako7QLw=="
 ---
 

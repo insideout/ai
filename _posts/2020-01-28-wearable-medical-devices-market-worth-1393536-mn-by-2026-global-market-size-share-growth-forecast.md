@@ -416,19 +416,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Smart Robot Market: 2018 Industry Analysis, Size, Trends, Growth and Forecast 2025 | ABB, iRobot Corporation, Grey orange"
-    excerpt: "A smart robot uses an artificial intelligence (AI) system that can learn from its environment and its experience. Smart robots can collaborate while working together as well as learning from the behavior of humans. Flexibility &amp; scalability in operation along with the high performance fuels the growth of the smart robot market. With the ..."
-    publishedDateTime: 2020-01-24T12:31:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/37910/smart-robot-market-2018-industry-analysis-size/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 14
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
   - title: "Self-Driving Bus Market Size, Share, Trend & Growth Forecast to 2027"
     excerpt: "Autonomous vehicles also known as self-driving car or bus makes use artificial intelligence (AI) software, cameras, and light detection & ranging (LiDAR), RADAR, to sense the surrounding environment and navigate by creating an active 3D map of that location. There are diverse levels of autonomy ranging from semi-autonomous that involve driver ..."
     publishedDateTime: 2020-02-04T12:24:00Z

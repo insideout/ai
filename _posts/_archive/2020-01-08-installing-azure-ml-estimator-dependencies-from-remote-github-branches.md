@@ -27,6 +27,6 @@ images:
     height: 1070
     title: "Installing Azure ML Estimator Dependencies from Remote GitHub Branches"
 
-secured: "tTvnMIR2LE3GwKSrqKdh3nqruBY4/0IJaUrxS67xtW5YA6rAhdZmuJTCZsV4LWMzPDCA22Q9Q3UvZ6QpEATQkt/SAfkg1eHQ/bhgVBLVQIP4KvopTQdN3tJU0NJiZwU1TPtEkThA1y+DT6oRpsuHFWAGHwIHeEOnHHMiV5iPIWdzeaNLk5Qcooe+/rKBHL3hZKjKhatgE4ckMlMqiS6enGz/u9W+nPF3Fqgrn7dyOViQYLA/A3IbDkgxHJSb5Mu7wAGadBAhUPbwKtIAjPT+XCHS55xxAM97017ec415UaimIAylk8j6Zhex5dcMAUw2;P+ep8plydsrTeB5UH4F16Q=="
+secured: "W9AqhxDQWLY5eEKFMwZ65VOiJgZWbFPHL17rGxGFb1KraQtWoqny33xfvrkpxPyODxw84FgxB1T7PGqjLGOGJw35qJmJcHvp/FICbDjqQiMycW0eCeI/nszsXnv42J2n/CXrMPwGJ0soSyCMAt8SIlVkHTvCjcpiBEHHWTAtPRW0sfL2K+IScK/LeMvvIZzzW+N9PcIkfe8IxXcnjJgwxDv7l+/t7DS5gciuFyTphwCno8uTMLwZRfxR2bq1+j29wGK0EEc+OsnMeFPZCCykf5LPFauur1DiGjZDlu8t3at2LeBoW1Mk8K9fZKnUUScd;/qitSgBNJ2iZMNLvHAEm6w=="
 ---
 

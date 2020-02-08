@@ -54,21 +54,6 @@ related:
       - url: "https://static.euronews.com/articles/stories/04/46/77/08/1000x563_cmsv2_4b54ef2d-a930-5c2b-8df2-fdd3463c9b63-4467708.jpg"
         width: 1000
         height: 563
-  - title: "The AI regulation wave is coming: Industry should ride it"
-    excerpt: "AI industry engagement on regulations is the smart play. Martijn Rasser is a senior fellow at the Center for a New American Security, a Washington D.C., think tank. He previously was an executive with a Silicon Valley-based AI startup."
-    publishedDateTime: 2020-01-24T12:17:00Z
-    webUrl: "https://www.sfchronicle.com/opinion/openforum/article/The-AI-regulation-wave-is-coming-Industry-should-14999873.php"
-    ampWebUrl: "https://www.sfchronicle.com/opinion/openforum/amp/The-AI-regulation-wave-is-coming-Industry-should-14999873.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/openforum/amp/The-AI-regulation-wave-is-coming-Industry-should-14999873.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 57
-    images:
-      - url: "https://s.hdnux.com/photos/01/10/11/64/18914618/5/rawImage.jpg"
-        width: 1920
-        height: 1244
   - title: "Google CEO calls for regulation of artificial intelligence"
     excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
     publishedDateTime: 2020-01-29T16:49:00Z
