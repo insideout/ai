@@ -142,19 +142,6 @@ related:
       - url: "https://thenypost.files.wordpress.com/2020/01/state-lawmaker-wants-to-ban-facial-recognition-tech-in-law-enforcement.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-  - title: "Washington Post: Facial recognition software threatens privacy"
-    excerpt: "Privacy doomsayers have always said that the failure to regulate surveillance technology would result in the end of anonymity. But we didn’t realize doom might come this soon. The New York Times reports on a facial recognition tool that hasn’t made the news before — because it’s not from a Silicon Valley luminary with a big public footprint,"
-    publishedDateTime: 2020-01-25T05:15:00Z
-    webUrl: "https://www.omaha.com/opinion/washington-post-facial-recognition-software-threatens-privacy/article_773a0ed9-fd11-5243-be10-f91711809bd0.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/c5/1c5209a2-538c-52cf-9de3-6ac39f163359/5e2b59269014b.image.jpg?crop=1766%2C993%2C0%2C89&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
   - title: "NY State Senate Bill Would Ban Police Use of Facial Recognition Technology"
     excerpt: "A new bill in the New York State Senate would prevent police from using facial recognition technology and some other kinds of biometric surveillance while creating a task force to research future use of the technology. The bill, introduced Monday by State Sen. Brad Hoylman, D-Manhattan, would still allow police and other law enforcement ..."
     publishedDateTime: 2020-01-27T19:44:00Z

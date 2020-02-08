@@ -8,7 +8,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-i
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -36,8 +36,12 @@ related:
     provider:
       name: TheHealthSite
       domain: thehealthsite.com
-    quality: 37
+    quality: 57
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
+        width: 675
+        height: 365
 
-secured: "aoo6+mxGJTrU8Df3I3mcy9JqAMAIG40Ta97ZkhIdFN5QTjVJg+nDsYUSDkjUHNDiiwPcL/8lkyJz8FW6qQ3AvMmPQMv9YrW1hqxJS6xUj7mpCxK1r3SWm0QJSFjaHJXbB0yC0/016hVxn1gD0MpetzXhxPQiSeQGIbQcUMkiX53MceoPFEMlobqAlIo60GU+/eCvEFVqxWyRsyHQ0+nTPuwMup6zyS9gxUXK52O3IttIojT8fS4Qojw3HJnGDWSX0vSxxIA87Eu7Xdvrv4VTyvcIYKCw86zoXGNV58MlYbAGX3l6CNfOPNVf0TsfPORw;zzebp13ZCP0FoaBJR1ltsg=="
+secured: "Mc38+oupG4edfxlt3+q/81T2vTE8wEG+xOzAzW38D8fTqppj4H2Q5O+RRQ+CDAQO7eWJyaOxKMHx+eIv+IHmwGIFL+I8Jm2Sksijigh8jpyYjpcfPrIgDyfYHknph1sCfPGJywx8beZR3L13iPyLjCCrPIYDqnQ2DCG93vYqXJKjAVsW+eiTv+uJUcCTe9fD7WPxxNz1KF6vyiVVrALku6P2DwY7EHOyvIfkNfNqdKk++PLAczgC5JSqvr8nluzw2J+sMo28lyYpteAe2MXdFt9dEmLGDEyo/v5QPg74MN+/cLj5OEuG9N+XAdTB28E2;fzpDCxPDB9/xUaZIHEzZwQ=="
 ---
 

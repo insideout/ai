@@ -41,21 +41,6 @@ related:
       - url: "https://media.newstracklive.com/uploads/technology-news/gadgets-news-info/Jan/26/big_thumb/sdtyfstyfsf_5e2d2d0e90399.JPG"
         width: 1122
         height: 675
-  - title: "This robot will replace managers by 2024, jobs are in danger"
-    excerpt: "In the coming times, new technologies such as Artificial Intelligence (AI) can make everyday tasks easier ... It further states that restaurants are implementing AI robotics technology so that paralyzed employees can also control robotic waiters from remote locations. Due to technologies like Braille readers and virtual reality, institutions ..."
-    publishedDateTime: 2020-01-25T05:14:00Z
-    webUrl: "https://english.newstracklive.com/news/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065108-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065108-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065108-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 59
-    images:
-      - url: "https://media.newstracklive.com/uploads/technology-news/science-and-technology-news/Jan/24/big_thumb/dftsfsdfsd_5e2aed4318f2e.JPG"
-        width: 771
-        height: 675
   - title: "Can robots replace human traders?"
     excerpt: "The potential use of artificial intelligence to replace human traders has obvious cost benefits. But can a robot really outperform a human? Robots struggle in day trading New technology has enabled us to effectively teach artificial intelligence the rules of trading. But it is noticeable that no investment bank in the world has replaced all of ..."
     publishedDateTime: 2020-01-29T01:34:00Z

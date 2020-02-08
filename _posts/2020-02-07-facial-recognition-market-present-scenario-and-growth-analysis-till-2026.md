@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast, 2020-2026"
-excerpt: "New York, Feb. 06, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast,"
-publishedDateTime: 2020-02-06T16:56:00Z
-webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-by-level-of-automation-and-component-global-opportunity-analysis-and-industry-forecast-2020-2026-2020-02-06"
+title: "Facial Recognition Market Present Scenario and Growth Analysis till 2026"
+excerpt: "QY Market Research Store has added the report titled Global Facial Recognition Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
+publishedDateTime: 2020-02-07T08:27:00Z
+webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-present-scenario-and-growth-analysis-till-2026-2020-02-07"
 type: article
-quality: 28
+quality: 68
 heat: -1
 published: false
 
@@ -19,13 +19,13 @@ provider:
 
 topics:
   - AI
-  - AI in Autos
+  - Computer Vision
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
-    title: "Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast, 2020-2026"
+    title: "Facial Recognition Market Present Scenario and Growth Analysis till 2026"
 
 related:
   - title: "Artificial Intelligence in Healthcare Market 2020| Global Analysis, Opportunities And Forecast To 2026"
@@ -50,19 +50,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Facial Recognition Market Present Scenario and Growth Analysis till 2026"
-    excerpt: "QY Market Research Store has added the report titled Global Facial Recognition Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
-    publishedDateTime: 2020-02-07T08:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-present-scenario-and-growth-analysis-till-2026-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -223,6 +210,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast, 2020-2026"
+    excerpt: "New York, Feb. 06, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast,"
+    publishedDateTime: 2020-02-06T16:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-by-level-of-automation-and-component-global-opportunity-analysis-and-industry-forecast-2020-2026-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Educational Robots Market 2020-2024 | Evolving Opportunities with BLUE FROG ROBOTICS & BUDDY and fischerwerke GmbH & Co. KG | Technavio"
     excerpt: "especially among robotics industry players in the educational robotics industry. For instance, an artificial intelligence firm, UBTECH Robotics, which develops educational and entertainment robots, raised about USD 820 million in May 2018. Thus ..."
     publishedDateTime: 2020-01-31T11:00:00Z
@@ -291,6 +291,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "HRBaeYd8Lj3dRxANfRCtGRzUQ3JNFCrX5WFRbSqmOIUVTkw1nyhPYMovjmLBOU125FlR/ne5dB7tkAnroXPb1NFAEQ7CPj859ww9j2Q1SvJK/LqwW6FQZ5y5TdmR7AovYoE0oTSTkPGo3sFlvsLuFLNGcUiQO9bSeuVgR3dwwRqiFPNzbORbnBCsAPF+Jl+nybdgOv7mkrU7N+3HHIwWue1avu0pNlfJSkPzWMpXyU5+TnUwYy8ur34jvTazWFLFtz3TJJOUFrnOwge50Okf0cdnAEIAULxFgq8zNxe5XKFH2vLK7yV+LgASAwfmdEbG;ye4/aBxCyBbIJ8o8VaGmJg=="
+secured: "Q8BJfyAucoRhVs4sCyJcYxUWJMFTtoUZaP5P88MN9Ki16excO6lmv2OKd38Ojx+GxFk0neN+pRbhTjv3XfOCF8L0ugFegQmHyIJamxciXgU0eLRU4qZFe5sosQBEHGew76JUurfZsmg2ZdJSyb+ptkQIB2aiGM/+M5gg102YNKD2FUUpyxo8H1U6ZRlpctEdMcMXNxSBiNvxGPYdjmwvER5vM+GBl8EuZD7jD8Nf41Kg1fQvarXBuYjg7ivG4NR7mR7ALBudICGLUTjNwyxylMhCqen5dvyu9qpj8jcJegKglL2x1qTFaHYB96bZubaY;BjdrLfHi4mPcBom3Gm7vxQ=="
 ---
 
