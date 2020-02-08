@@ -8,8 +8,8 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-cops-run-w
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: BuzzFeed News
@@ -30,36 +30,21 @@ images:
     title: "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount"
 
 related:
-  - title: "Facial recognition startup fends off accuracy doubts and legal claims after NYT report"
-    excerpt: "Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News. Clearview falsely claimed it helped the NYPD catch a terrorism suspect last year “The ..."
-    publishedDateTime: 2020-01-24T17:09:00Z
-    webUrl: "https://www.theverge.com/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition"
+  - title: "Facebook curbs its controversial facial recognition features"
+    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
+    publishedDateTime: 2020-01-29T19:06:00Z
+    webUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change/"
+    ampWebUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/facebook-facial-recognition-policy-change.amp"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 96
+      name: Mashable
+      domain: mashable.com
+    quality: 89
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg"
-        width: 1400
-        height: 933
-  - title: "Controversial facial recognition firm Clearview AI facing legal claims after damning NYT report"
-    excerpt: "Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News. Clearview falsely claimed it helped the NYPD catch a terrorism suspect last year “The ..."
-    publishedDateTime: 2020-01-24T17:09:00Z
-    webUrl: "https://www.theverge.com/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 92
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://mondrian.mashable.com/2019%252F09%252F04%252F64%252Fbb5d4702626344ae995bccc7d17b927c.1137a.png%252F1200x630.png?signature=thQUzMw0eD4MHb166K_fP84zwIY="
+        width: 1200
+        height: 630
   - title: "New Jersey halts police use of creepy Clearview AI facial-recognition app"
     excerpt: "New Jersey is ahead of the curve — at least when it comes to stopping its law enforcement from using the creepy and potentially biased facial-recognition app Clearview AI. The app, which scraped billions of photos from the likes of Facebook, YouTube, Venmo, and other online platforms, drew the world's attention last weekend following a ..."
     publishedDateTime: 2020-01-24T23:59:00Z
@@ -75,30 +60,47 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F01%252F24%252F53%252Fc9b7bd94080a4f81b5f99ec464adff04.08837.jpg%252F1200x630.jpg?signature=yAzYMITbCIxJTHhBnTyFoFDHPXg="
         width: 1200
         height: 630
-  - title: "Artists and activists offer privacy hope as facial recognition spreads"
-    excerpt: "Now that our online data has been comprehensively mined, our behavioural surplus extracted, Big Tech is coming for our faces. The explosion in facial recognition has outpaced efforts to legislate around it and, in societies such as the UK where it is not compulsory to carry identification, we are being identified whether we like it or not."
-    publishedDateTime: 2020-01-29T05:14:00Z
-    webUrl: "https://www.ft.com/content/15fb3c5a-2178-11ea-b8a1-584213ee7b2b"
-    ampWebUrl: "https://amp.ft.com/content/15fb3c5a-2178-11ea-b8a1-584213ee7b2b"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/15fb3c5a-2178-11ea-b8a1-584213ee7b2b"
+  - title: "CPD using controversial facial recognition program that scans billions of photos from Facebook, other sites"
+    excerpt: "Critics say Clearview AI’s software is an invasive overreach because it grabs the photos without the consent of those pictured or even the websites that post them. The Chicago Police Department is using a controversial facial recognition tool that allows investigators to search an image of unknown suspects to see if it matches a database of three billion photos lifted from websites like Facebook,"
+    publishedDateTime: 2020-01-29T05:30:00Z
+    webUrl: "https://chicago.suntimes.com/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 43
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F55c44a8e-3631-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-  - title: "ZenGo Defends Integrity of Facial Recognition"
-    excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
-    publishedDateTime: 2020-01-29T18:54:00Z
-    webUrl: "https://mobileidworld.com/biometrics-news-zengo-defends-integrity-facial-recognition-012905/"
+      - url: "https://cdn.vox-cdn.com/thumbor/Z1sfgvRN8Spjpfj6rY2OvYwMNYI=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66211429/large.0.jpg"
+        width: 768
+        height: 465
+  - title: "EU Prepares for Coming of Facial Recognition– On Its Privacy Terms"
+    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy. Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next ..."
+    publishedDateTime: 2020-02-03T12:59:00Z
+    webUrl: "https://www.insurancejournal.com/news/international/2020/02/03/557118.htm"
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 19
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 39
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
+        width: 900
+        height: 598
+  - title: "Facial Recognition Comedy bridges storytelling, social commentary at SF’s Cafe du Nord"
+    excerpt: "On Friday, comedy collective Facial Recognition Comedy took the stage at Cafe du Nord in San Francisco as part of the lineup for the 19th Annual SF Sketchfest. Despite the group’s fairly recent rise to prominence in the comedy world, with a nationally ..."
+    publishedDateTime: 2020-01-30T14:00:00Z
+    webUrl: "https://www.dailycal.org/2020/01/30/facial-recognition-comedy-bridges-storytelling-social-commentary-at-sfs-cafe-du-nord/"
+    type: article
+    provider:
+      name: The Daily Californian
+      domain: dailycal.org
+    quality: 31
+    images:
+      - url: "https://i2.wp.com/www.dailycal.org/assets/uploads/2020/01/Facial-Recognition_Facial-Recognition-Comedy.Courtesy.jpg?ssl=1"
+        width: 900
+        height: 580
 
 secured: "w/IUAmi1GxEs3XNsvkm8RfnQqJmbyskeQ9b0pcyhftOooPPeu4B1kUCvPeu+DneD+cQnKAixV7On16EcAbIXs0E2lPNUqlFkmMDfaKvZa1BD201x/okerENISp/vtlJGi9+ctk83uhWAtrCcxZt/dOVx5hJ8qAO+5fQ91DT7TP/ucsVq98OVrn53unG2i9/gohvNIK2UXuOZfm/RBOvDYqkRvF7x+Q42RBN9q8/D00e0Mr/BvjFlFUxZ9PxEkb8YB8fLVXm2lHH7gsToxEidbMJqK/hiZ8KM+ajE6PjmfDSiVjR6VAB8kO8ArjtGh3iUETV2kWMNl64ygXv8mNSFsKgK8s85eOOazpix9u0Ww+66RjlxNkqrwxhW5ysymEOTxqh4ho8SbNLJwfslcRUv1YV5HlHQQPuZrhirrRTaxnAowibCdWFKEpwnfJjel2RI3UwzrLNs0VRhjSB+gNkG25+qBwBAXco3I1gwZuY/u/8=;wDVhl5meYVk8+qgEJBMW2g=="
 ---

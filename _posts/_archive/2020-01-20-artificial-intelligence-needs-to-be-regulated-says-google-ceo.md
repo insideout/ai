@@ -4,9 +4,11 @@ title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
 excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
 publishedDateTime: 2020-01-20T12:18:00Z
 webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: -1
 published: false
 
 provider:
@@ -21,6 +23,23 @@ topics:
   - AI
   - AI in Autos
 
-secured: "rTZU6kF9pTxoXEGZ2yAM8rPqwM9CH6WBi1ciVYYgG8sd/HQZuJCdN+Nu7pyfyefgDauCFyYFrM/nQ4MY7eAFpqWIIMNAK1E8cRWi/wi+ESZCpcEFcVm7tLgCdO44fSTuZJ4O8gfg18VTVYk4Yj3kc8Fc9rpt16En2JfegSpZmxBDmGaeoAjK3xbgDHYypkPsQrnO9byo9DROK2n318o/jiaUqsnziZ9YueGUG1/JGOMSSyxHR17y4uQRPeVTtdvICCMa4SPvpyn9yCGGdHr0pONtF1Rs3L+M/0fMFegr1YYApyFPuMF0BNUuMB5sFyM3;7jFv1tgeBdNmZUIVfLOogA=="
+related:
+  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
+        width: 600
+        height: 338
+
+secured: "/T+FjUJURsVU252ncOl94OkbXul/umFFhLYmOVXyUwResEa/i4J2yvP0foBXLacjYpZido9SvIP6iMlNxph/2iHkoR83gx+qnOlw29klQjWjZOJA+vt6HyBNd199oU1qjyifAN+BZi/nTllh6no71hTNkSXCaOc5mHKQNUtOZdpexJkZ4h183QI9qweC7CjAC8eHPTB6av35FCvYDXYEA48eAnY+Ll++LThetuffj0OzFiwdaCPGCRF1LjDpgkflQgDh88b80Vx8JVsf//i5uy4QnXUZvvxpQEeHJlRVyvEL+uZyu1J3KSdTbg74R0Il;FgGCGvoJZGouFIe0iBkQnQ=="
 ---
 

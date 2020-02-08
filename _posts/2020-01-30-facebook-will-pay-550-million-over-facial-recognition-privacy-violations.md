@@ -54,21 +54,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
-  - title: "Facebook curbs its controversial facial recognition features"
-    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
-    publishedDateTime: 2020-01-29T19:06:00Z
-    webUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change/"
-    ampWebUrl: "https://mashable.com/video/facebook-facial-recognition-policy-change.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/facebook-facial-recognition-policy-change.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2019%252F09%252F04%252F64%252Fbb5d4702626344ae995bccc7d17b927c.1137a.png%252F1200x630.png?signature=thQUzMw0eD4MHb166K_fP84zwIY="
-        width: 1200
-        height: 630
   - title: "Facebook pays up $550M for facial recognition privacy lawsuit"
     excerpt: "The settlement came after Facebook was sued for collecting facial recognition to use in tagging photos, which allegedly violate the Illinois Biometric Information Privacy Act. Tagging someone in a photo on Facebook creates a link to their profile, with the feature finally made opt-in by Facebook last year. Facebook's photo tag suggestions come ..."
     publishedDateTime: 2020-01-30T00:50:00Z
@@ -248,21 +233,6 @@ related:
       - url: "https://www.dealerscope.com/thumb/?src=/wp-content/uploads/sites/5/2020/01/PopCom-MachinePhoto-3.jpg&w=750"
         width: 750
         height: 894
-  - title: "CPD using controversial facial recognition program that scans billions of photos from Facebook, other sites"
-    excerpt: "Critics say Clearview AI’s software is an invasive overreach because it grabs the photos without the consent of those pictured or even the websites that post them. The Chicago Police Department is using a controversial facial recognition tool that allows investigators to search an image of unknown suspects to see if it matches a database of three billion photos lifted from websites like Facebook,"
-    publishedDateTime: 2020-01-29T05:30:00Z
-    webUrl: "https://chicago.suntimes.com/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 43
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Z1sfgvRN8Spjpfj6rY2OvYwMNYI=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66211429/large.0.jpg"
-        width: 768
-        height: 465
   - title: "New facial recognition cameras get green light in London"
     excerpt: "Elizabeth Howcroft Police officers are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government's own surveillance watchdog. First used in the capital at the Notting Hill carnival in 2016, the cameras will alert police when they spot ..."
     publishedDateTime: 2020-01-28T03:40:00Z
@@ -300,19 +270,6 @@ related:
       - url: "https://d1b7flq4e9knh1.cloudfront.net/news/files/2020/02/20200203Cruz.jpg"
         width: 1920
         height: 1080
-  - title: "EU Prepares for Coming of Facial Recognition– On Its Privacy Terms"
-    excerpt: "The European Union has accepted there is no escape from facial recognition, but is seeking to ensure any roll-out that includes U.S. and Chinese players will abide by European values like strict personal privacy. Facial recognition has emerged as a hot-button issue as the EU prepares to outline its plans to regulate artificial intelligence next ..."
-    publishedDateTime: 2020-02-03T12:59:00Z
-    webUrl: "https://www.insurancejournal.com/news/international/2020/02/03/557118.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 39
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2016/10/biometrics-image-sharing-selfies.jpg"
-        width: 900
-        height: 598
   - title: "Facial recognition technology helps Volusia County make arrests in 4 cases"
     excerpt: "VOLUSIA COUNTY, Fla. — Thanks to facial recognition technology, the Volusia County Sheriff’s Office was able to make four arrests out of 30 cases last year. The Sheriff’s Office is using a database of more than 2 billion photos including those on social media and other public sites. The department purchased a license to give the new ..."
     publishedDateTime: 2020-02-04T02:19:00Z
@@ -339,6 +296,15 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
+  - title: "ZenGo Defends Integrity of Facial Recognition"
+    excerpt: "The original Tweet has since been deleted, but the exchange implied that ZenGo’s facial recognition could be spoofed with a high-quality image of the user. In its response, ZenGo vociferously objected to that claim. The company detailed the steps it takes to ensure the integrity of its system, which include stress tests with high-resolution ..."
+    publishedDateTime: 2020-01-29T18:54:00Z
+    webUrl: "https://mobileidworld.com/biometrics-news-zengo-defends-integrity-facial-recognition-012905/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 19
 
 secured: "3gLYuwttlX//VBIB/my4b65qVLRkvj+rRXdBXHSVfDq+HiQZmUMb46JX6JoJr9+4is3Ek6KOuv/7IZ8fbfDk6f7Epjq2vtUzh8V5DmjSkKpMbebZdkHtTuso4iZ6fU4B9qFxlZQYy3zshX01NeuHzH9OCCv4L6D1qaMUS/TUPSdwMpW5b0srtAzNwq/7VePU308Mq9pvHqJRG02wwHLsx00TaXuh/WnoIs5/RE1eXoJocdQ/TtelulTFaWkdi8b+xm1iRSg23Q16hckCojSI+V9C+gDHQQqDe/F97RZ4Rzb2whw/HhJaORYYj7VxkQo3OqXad4DMwXy3FFohN+TaMdTSXb0O1vtk9/TIoHPCgzCdPFmPStKjLtBNfy3uPYJJeOJBDoNCEpfG//GnfznmnCyiVP2KEi39PayB3jQ3gbTiwzfVwhjt4+IQzSG0Kr32xIRGGmQWyzpeP5X1kthIG2ibC4w6n24pUHP9+lDqrE8=;rxUYli4gbaK/eIHxLLPlcw=="
 ---

@@ -4,10 +4,12 @@ title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
 excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
 publishedDateTime: 2020-01-20T12:57:00Z
 webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
   name: Mint
@@ -17,53 +19,25 @@ topics:
   - AI
   - AI in Autos
 
-related:
-  - title: "ProBeat: Why Google is really calling for AI regulation"
-    excerpt: "On Sunday, the Financial Times published an op-ed penned by Sundar Pichai titled “Why Google thinks we need to regulate AI.” Whether he wrote it himself or merely signed off on it, Pichai clearly wants the world to know that as the CEO of Alphabet and Google, he believes AI is too important not to be regulated. He has concerns about the ..."
-    publishedDateTime: 2020-01-24T18:30:00Z
-    webUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/"
-    ampWebUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Assessing Google CEO Sundar Pichai's call for fair AI regulations"
-    excerpt: "Google CEO Sundar Pichai and other AI researchers say limited regulation is needed to protect people from irresponsible use cases. Google CEO Sundar Pichai and other executives working on artificial intelligence are now calling for limited government regulation as the European Union mulls potential five-year bans of facial recognition software."
-    publishedDateTime: 2020-01-29T16:55:00Z
-    webUrl: "https://www.techrepublic.com/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg"
-        width: 1200
-        height: 800
-  - title: "Google shows off far-flung AI research projects as calls for regulation mount"
-    excerpt: "\"Right now, one of the problems in machine learning is we tend to tackle each problem separately,\" said head of Google AI Jeff Dean at Google's San Francisco offices Tuesday."
-    publishedDateTime: 2020-01-29T18:16:00Z
-    webUrl: "https://www.cnbc.com/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
-        width: 1200
-        height: 800
+images:
+  - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
+    width: 600
+    height: 338
+    title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
 
-secured: "E2lVhWSdmXZ5OKjzI0vX1+Dm26+91iWzNf/EtNoE66JTkPrYSKcZAp7qs0fHpnKRKz9gAJlwcuaeFIiVBBw+/VKf/IZbwboSEzr+rfEjN+yqzGtfdVHSLkF+6/5zK8s4e31iNPHHVYIPTHV0ZKhpPu9E/AwHVop+DO16cMuHjSYcEX4FwviBSQaYN86Ku7LNY+zBOt4K2GSzRT03VlGjZlUR1r+waNk3irqZNyJq+dMKBetYQkfcSyBjCF0Wuy2BZbC10aGg2veH8Kw0gOwBqCVaD1NhyURIbJ+u1XV4dIdNWW1fffl3rTeyrwwVevqv;kUvlSDccOx5um9SFKU7Xxg=="
+related:
+  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+
+secured: "w7oMlC9yglpEby4kfR1zne2uNaBNuHz3S3GuIWfIuJvFSDxx6NTZVmJgzsEx1NK9htD790zRgM5BW+4/Sydu55Dxtke93fYbNT8DfvEVeIn6gmTKmc7p/01sfJ2jSGNZ9t7Eu246dj0cINmVZkcmb1jlkodun2x6pBa2F5JV3slLlgvQxFXtsoW8AMg4bW3hroClZY37FcEyP/VZvO14n36gHmIPs61WcIaKOm5kIFhExByUc4kirMctNMDfAEomxzPk4EpwnjShM7K2YKkfH6sGyslxWtCGJHxo0AGYyN297ncOx0AEqv0mqNhougWh;nl4lmGfAN2BasLD0nFOP9A=="
 ---
 

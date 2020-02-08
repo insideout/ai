@@ -25,49 +25,64 @@ images:
     title: "Google CEO calls for regulation of artificial intelligence"
 
 related:
-  - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
-    excerpt: "Washington state could become a pioneer in regulating artificial intelligence if lawmakers, and homegrown tech giant Microsoft, get their way. A series of bills introduced this legislative session seek to blaze a trail for this new frontier of technological innovation. The legislation focuses on biometric screening and digital profiling."
-    publishedDateTime: 2020-01-24T18:23:00Z
-    webUrl: "https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/"
-    ampWebUrl: "https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/"
+  - title: "Assessing Google CEO Sundar Pichai's call for fair AI regulations"
+    excerpt: "Google CEO Sundar Pichai and other AI researchers say limited regulation is needed to protect people from irresponsible use cases. Google CEO Sundar Pichai and other executives working on artificial intelligence are now calling for limited government regulation as the European Union mulls potential five-year bans of facial recognition software."
+    publishedDateTime: 2020-01-29T16:55:00Z
+    webUrl: "https://www.techrepublic.com/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 175
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2017/03/statecapitol-630x417.jpg"
-        width: 630
-        height: 417
-  - title: "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation"
-    excerpt: "A debate on the future of artificial intelligence (AI ... revolutionising areas like voice recognition and translation. In healthcare it's expected to allow huge leaps in drug development. But facial recognition is an AI technology that is much less ..."
-    publishedDateTime: 2020-01-30T13:36:00Z
-    webUrl: "https://www.euronews.com/2020/01/30/artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regula"
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg"
+        width: 1200
+        height: 800
+  - title: "Google shows off far-flung AI research projects as calls for regulation mount"
+    excerpt: "\"Right now, one of the problems in machine learning is we tend to tackle each problem separately,\" said head of Google AI Jeff Dean at Google's San Francisco offices Tuesday."
+    publishedDateTime: 2020-01-29T18:16:00Z
+    webUrl: "https://www.cnbc.com/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
     type: article
     provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 126
+      name: CNBC
+      domain: cnbc.com
+    quality: 86
     images:
-      - url: "https://static.euronews.com/articles/stories/04/46/77/08/1000x563_cmsv2_4b54ef2d-a930-5c2b-8df2-fdd3463c9b63-4467708.jpg"
-        width: 1000
-        height: 563
-  - title: "The Debate Over Regulating AI Ramps Up"
-    excerpt: "In a letter in 2017 to Congress, David Kenny, at the time the senior vice president for Watson and cloud at IBM, wrote that the technology “does not support the fear-mongering commonly associated with the AI debate today. The real disaster would be abandoning or inhibiting cognitive technology before its full potential can be realized."
-    publishedDateTime: 2020-01-27T14:16:00Z
-    webUrl: "https://www.nextplatform.com/2020/01/27/the-debate-over-regulating-ai-ramps-up/"
-    ampWebUrl: "https://www.nextplatform.com/2020/01/27/the-debate-over-regulating-ai-ramps-up/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/27/the-debate-over-regulating-ai-ramps-up/amp/"
+      - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
+        width: 1200
+        height: 800
+  - title: "Government’s AI adviser calls for tougher regulation of social media"
+    excerpt: "New regulations on social media companies should be tightened to include more transparency around how firms target users online, an independent advisory board on artificial intelligence (AI ... The CDEI has published three sets of recommendations as part of its research, urging the Government to hold any companies which use online targeting ..."
+    publishedDateTime: 2020-02-04T00:05:00Z
+    webUrl: "https://www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/amp/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
+      name: Evening Express
+      domain: eveningexpress.co.uk
     quality: 59
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
-        width: 8000
-        height: 4940
+      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2020/02/2.48304518-496x372.jpg"
+        width: 496
+        height: 372
+  - title: "Electricity Can’t Hold a Candle to Artificial Intelligence in Significance, Says Alphabet CEO"
+    excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. “AI is one of the most profound things we’re working on as humanity. It’s more profound than fire or electricity,” Alphabet Inc. CEO Sundar Pichai said in an interview at the World Economic Forum in Davos ..."
+    publishedDateTime: 2020-01-29T01:16:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/01/28/556768.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 28
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2016/02/Google-Corporate-Headquarters.jpg"
+        width: 900
+        height: 600
 
 secured: "ZaPxRWfqBcgBEPfV852Tj+yQqOeslMAnSw3AhlXBggDElUffkrBnNI3uqMQXA2egVEGmYQsn1Xs/nkE3q9JnFwF3e56CypjU3aSZ27+zdX4gFffRfcp3n1sfOeonLoJtrF7/uSllOtgFjNLLgync4mCFcDUvYxS0bMK9dcf0zxOF9YUlM+pO8chz+qzD6P8iU8gV//y1fX+7IY0lfAVQsz+PEFnG3q/XvcP4lGHUdHTqLAFEdirAMwF+Qya6Qxenh92WxpRcK7ofGvQLDTzM19kLImH4z9haCnnjtVnP+i7ZA8oC9Apu0l3uQJmzpOakXI/HZnTtc3wJZaAWDrjcsjukQA/yDGC35ax2BPHs79NCBybJrGPseeSsz19k5nndf3Cz/+UEW6dIUockceCd/ael4AdKn9g89jR9HL200UTL7erxTeHKTmuVWCl5r9zGCZDOwzGcAYVzviUNz/r/8/fVSYeu9zQziOsp0j0cKCI=;q6EJpa+Ba742M7OE46bXfQ=="
 ---

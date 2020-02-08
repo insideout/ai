@@ -41,15 +41,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/7/d5/7d505b47-b933-5dcc-9088-5a0c11dc44d1/5e28d08cb51ef.image.jpg?resize=1024%2C784"
         width: 1024
         height: 784
-  - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
-    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
-    publishedDateTime: 2020-01-24T17:57:00Z
-    webUrl: "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 34
 
 secured: "MR7iKfwmp7bDARIPjJc3arKHHbPKuNMHvjnBmEcQiW1YG7avr9MazZwokBCf2eRw+ejwQvSCzmC9/hNAxfcEILs4xAYstqpVNbZ1Nm3MAUAJwLzUVYyvYAaShb5G2SkzzEWQGRRKSdFoTGOE50ZPs+SpExHae8ZXPZhEWUNklVgHA6A9dangC3AYLkYaKLlPfb1LIa7QRZI/XVCYzSIbNQZY2IIsX7OIiyf28+Pcato4c6E2fXDd3id0KAhMQ1i0l9DBXyMW+CLDwi7idw0waSd0243e7TsR/sUqlbzNRDJZ+c1XCfOHCTccDBWpDWS4XWKBDYeWmuroO1QvisKs9oEvTN7Vjd9NMRXT6WTyNiOajXtG6RqsfZew0PI3nwZxKuCLZ1WUWbgehVO8AZ8gud6lXV4QZnY8Zc8umraeHsUffTqlhkOWbLXMa2JLrblvz8ssziCRX+jxiOh9BbVXD+1m99ElXENTrTpiD3gcUj0=;v6Sx6IYeYp4oaiLdXZ9sIw=="
 ---

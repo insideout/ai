@@ -38,15 +38,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1165431212/960x0.jpg?fit=scale"
         width: 711
         height: 474
-  - title: "How Organizations Can Better Realize The Value Of AI, Ethically"
-    excerpt: "and data privacy can be overwhelming. While there’s loads of promise and opportunity, there are also concerns about data misuse and personal privacy being at risk. As we evaluate these topics and as the Fourth Industrial Revolution unfolds,"
-    publishedDateTime: 2020-01-24T17:43:00Z
-    webUrl: "https://www.forbes.com/sites/workday/2020/01/24/how-organizations-can-better-realize-the-value-of-ai-ethically/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
 
 secured: "cQSQKOBWT6aggsCmnZiCLnaVnc+u3jQzep6VJ8UpX1Du5hmOvl+a/jQjBoUorlXH23cNH4qvjrvQzEApzTb1OI8K89oghcVqmYcl437jKdt03eJPkn+C1d2J67vLTOuyxEmVtt5bpCHuCpY81xQAZ7FL2kTBB6rn+gIzeJNnf3Jk3ix5VYIfGLhNnulLCiAkA1DPY4HlTcm7tFSu56IENZ6tebbjd+bp9RSyyfWvGvWvSy+NvTuguQgjAVjfNCYZQqeed5pi4WAqjAIPPPVXGgBmlvnugwOtXVGlcL4xQNW3gkzr46TnjdpWIBsLijLw;pNzt3gTEY0c9JPshAhb7SQ=="
 ---

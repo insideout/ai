@@ -28,21 +28,21 @@ images:
     title: "How to invest in artificial intelligence"
 
 related:
-  - title: "Investing in AI: A Beginner's Guide"
-    excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
-    publishedDateTime: 2020-01-24T19:00:00Z
-    webUrl: "https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx"
+  - title: "Rich countries should invest in LatAm to create AI talent"
+    excerpt: "Uruguay, the second best-prepared country on the Insead ranking, has launched its public consultation on AI in April 2019 and spent the whole year working on the plan, which is just about ready. The report also mentions Chile's plan to address the infrastructure, priority areas and ethics, standards and regulations around AI. On Brazil ..."
+    publishedDateTime: 2020-01-29T23:08:00Z
+    webUrl: "https://www.zdnet.com/article/rich-countries-should-invest-in-latam-to-create-ai-talent/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 91
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=1200&op=resize"
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2018/09/25/f2e8efdb-8c6c-4884-a8eb-4a1d5b6e2b3c/thumbnail/1200x675/7f2125eac9be0743c7a93613eb1919e4/istock-919118256.jpg"
         width: 1200
-        height: 800
+        height: 675
 
 secured: "zVKcUcnUU2xHMQWiWGB9obxEeoaieOX/AWyfG+NPVFOgM0bnbg2Y4irYQXA8vauYhbYaJ/lpe8XItQr8TshDsQqpmFlMrKG/B5P5M+yvc33++RkYDGKPKqyYQNpNkdXDyRamGMgqdt2amS5WXnOlvhi6uekBEk2hByTLfKsvEKuN3LXDrVFj/YLTKNMqi7XnVRv//tZKSBg067YFlZ011EHyx7HTKM8g8pBY91Ieh27KG2GszhCF8hP17CBIkHoNsnlvXyi4euq7nC+U2saX95J4+3T/8C/PllsXOHT+Gi6SE5zgF+0SB4RiubYtqJNkemqeeJU7kI53r7R+1UAzh4Y6JEHq7nN6OcLUrH3aMbqUlR3dBAqJeg+/xLPlnV0YqZV4iPqZpsiGtkBcjw1lC2YJWJE89qVkuM3B9Ak9A/hv3NTHuPvlc2Jx4ecNRxbH8Rmx3DvIIY3Wn0jGTmTmpnyYkpuAi6Jqkvk7Ma+SsM4=;PVAik9Ih1yFE6ofkUn+iVw=="
 ---

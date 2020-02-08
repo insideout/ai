@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/assessing-google-ceo
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: TechRepublic
@@ -29,21 +29,6 @@ images:
     title: "Assessing Google CEO Sundar Pichai's call for fair AI regulations"
 
 related:
-  - title: "ProBeat: Why Google is really calling for AI regulation"
-    excerpt: "On Sunday, the Financial Times published an op-ed penned by Sundar Pichai titled “Why Google thinks we need to regulate AI.” Whether he wrote it himself or merely signed off on it, Pichai clearly wants the world to know that as the CEO of Alphabet and Google, he believes AI is too important not to be regulated. He has concerns about the ..."
-    publishedDateTime: 2020-01-24T18:30:00Z
-    webUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/"
-    ampWebUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "Google shows off far-flung AI research projects as calls for regulation mount"
     excerpt: "\"Right now, one of the problems in machine learning is we tend to tackle each problem separately,\" said head of Google AI Jeff Dean at Google's San Francisco offices Tuesday."
     publishedDateTime: 2020-01-29T18:16:00Z
@@ -59,15 +44,49 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
         width: 1200
         height: 800
-  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
-    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
-    publishedDateTime: 2020-01-20T12:57:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+  - title: "Government’s AI adviser calls for tougher regulation of social media"
+    excerpt: "New regulations on social media companies should be tightened to include more transparency around how firms target users online, an independent advisory board on artificial intelligence (AI ... The CDEI has published three sets of recommendations as part of its research, urging the Government to hold any companies which use online targeting ..."
+    publishedDateTime: 2020-02-04T00:05:00Z
+    webUrl: "https://www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/governments-ai-adviser-calls-for-tougher-regulation-of-social-media/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 34
+      name: Evening Express
+      domain: eveningexpress.co.uk
+    quality: 59
+    images:
+      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2020/02/2.48304518-496x372.jpg"
+        width: 496
+        height: 372
+  - title: "Google CEO calls for regulation of artificial intelligence"
+    excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
+    publishedDateTime: 2020-01-29T16:49:00Z
+    webUrl: "https://www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.html"
+    ampWebUrl: "https://www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.amp.html"
+    cdnAmpWebUrl: "https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/google-ceo-calls-for-regulation-of-artificial-intelligence/article_4186aa82-4401-567d-b9f1-c6980a8e093d.amp.html"
+    type: article
+    provider:
+      name: Winston-Salem Journal
+      domain: journalnow.com
+    quality: 57
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/b/06/b064a2d9-045d-540d-b183-8334cf9a9299/5e141419b5f14.image.jpg?resize=1024%2C695"
+        width: 1024
+        height: 695
+  - title: "Electricity Can’t Hold a Candle to Artificial Intelligence in Significance, Says Alphabet CEO"
+    excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. “AI is one of the most profound things we’re working on as humanity. It’s more profound than fire or electricity,” Alphabet Inc. CEO Sundar Pichai said in an interview at the World Economic Forum in Davos ..."
+    publishedDateTime: 2020-01-29T01:16:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/01/28/556768.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 28
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2016/02/Google-Corporate-Headquarters.jpg"
+        width: 900
+        height: 600
 
 secured: "fNNpLLO0Uu54l6bgCsY23pBQNdXwqVFm8ZjKRQKKKnc6fM3jYEd5Cl7YN2uqaMpuUJteypWSKtpnwFM0TAsX3qYJ5T55yGmKtMDUWm7UFQQiQsn9IBBGbAA2J3h9SSeXVT8hKrEUNo3bUjBRvPd4M71C+yIUPXHXtTQnudRRDgpWMuIrPZkniL2zNNnty4tAPdt8Dkwe468YRL9S2WMPT1Oopfn8tnqMXGIYmEtuSBqzLMQVSPult6WfyLCRw8YDfBwcMnErrbHA8wEgvWO/CAAmMw3GUrf6yWXFVHymUn/WbLKuoEFBj8yC1m6FnrU/C/4wzlUauZNIGgBugiPS0MTOOOLI6lniJXceZ+4IUPp/+B0g5W6VnwTa7/YS6KdL8HmyyOfZJHc98VrdH6msuTWOvmM1uWmuR8970xm4JFlKQ5iO95q+ACXeEurrKNE6O3Vw+xirxQCyGQhDgBIewDV2FpoxbA2b2H/jvm55SHE=;/zuYEeu6Z3DfCap0tGFeJA=="
 ---

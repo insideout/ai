@@ -4,10 +4,12 @@ title: "Facial and voice recognition in cars sounds like a privacy nightmare"
 excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
 publishedDateTime: 2020-01-09T14:42:00Z
 webUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/"
+ampWebUrl: "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
   name: Mashable
@@ -17,17 +19,29 @@ topics:
   - AI
   - Natural Language Processing
 
+images:
+  - url: "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8="
+    width: 1200
+    height: 630
+    title: "Facial and voice recognition in cars sounds like a privacy nightmare"
+
 related:
   - title: "What is Voice Recognition"
     excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
     publishedDateTime: 2020-01-11T11:41:00Z
     webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
+    ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
+    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
     type: article
     provider:
       name: TWCN Tech News
       domain: thewindowsclub.com
-    quality: 4
+    quality: 44
+    images:
+      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
+        width: 600
+        height: 271
 
-secured: "+2dbcaPZn4oefDyNqb/qzOv7P4WiXAwEbtDHId/n+eYz0wvMB/IC0TtMXRxhb/UMnQlEIc4bSS4JN1iUzBhXPEwH79OqywXgSzune6x7696VL6O2A7Q6eFAIGGgl5xnIplq74fNzQJ60oWtqTRj/XksXmDiez1vNt1GvKvTZf5TftQ0gcp0+rKrRKKqSoej5krutQJiNhW8gVVyVR21+7hKA2STDEOlTYYA1YJS5wO6VRxtcjtgP4vDmmkDKc4HwtOnX3ot+a2JwqiyeC0tcenQWAej38E3XHTicuckufdYsiQtNg3pdYcTt0b2dUlou82I45I+NjKfVFVldIIdIdRE2AQYJAZA/erk2B9j31sGVs3aF3/NhhTuGuosZUgkrIj2vvNgjDvF+otBNaXeAr8211Ecsgb2JE3WTkeFF/NHhO9VN8yxSvvBk220ojIvzbL516o6wuj+lPZ02De7jtzo8PcVjKnD9exfnknCk4rw=;G0ULy51UVB5V01JI9EOOrw=="
+secured: "bEZhOwH9gvxpeNCbz/Ita0xWEHUFVU8EVecmoB2M4sYQLLrrQgyze10UF7KYaTnJoEHdcFH6Xha5K0ENaXMvcMOwpEwpXh9d32q1ZEPgAEwISdukqwtXQybk1pRhAwslJIdwCvCpnTgPUfegJrSbdNrTFRODpGykJ1cXXU5R/AkJVTqDe5Mmuo1wUPJu5DCTtu4LH2zYV0nk/tdyvAuzpQZ5rJACjOckkE/TksotV0yPxumVPvdFzJjRdpdSEROiCluvzjq+Jo2Un/U9Qxooba2UskwWbWUI34Q5ncXP1fVur2HmGiw4DovchBeQACSF;0oECeMdOSZcAeilkFgktsg=="
 ---
 

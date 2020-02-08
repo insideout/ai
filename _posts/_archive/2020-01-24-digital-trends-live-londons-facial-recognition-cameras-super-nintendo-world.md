@@ -1,46 +1,50 @@
 ---
 category: news
-title: "Despite privacy concerns, facial recognition cameras to be rolled out in London"
-excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
-publishedDateTime: 2020-01-24T19:57:00Z
-webUrl: "https://mashable.com/video/london-facial-recognition-cameras/"
-ampWebUrl: "https://mashable.com/video/london-facial-recognition-cameras.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/london-facial-recognition-cameras.amp"
+title: "Digital Trends Live: London’s facial-recognition cameras, Super Nintendo World"
+excerpt: "On this episode of Digital Trends Live, hosts Greg Nibler and Nicole Raney discuss the biggest-trending news in tech, including facial-recognition cameras being deployed in London, Waymo’s self-driving car expansion, Apple’s self-driving car patent, Super Nintendo World’s migration to the U.S., and more. We then take a deeper look at ..."
+publishedDateTime: 2020-01-24T19:52:00Z
+webUrl: "https://www.digitaltrends.com/digital-trends-live/episode-301/"
+ampWebUrl: "https://www.digitaltrends.com/digital-trends-live/episode-301/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/digital-trends-live/episode-301/?amp"
 type: article
-quality: 85
-heat: 155
-published: true
+quality: 70
+heat: -1
+published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://mondrian.mashable.com/2020%252F01%252F24%252F8f%252Fe45391542f244300abce8e004744f264.dbee4.png%252F1200x630.png?signature=Jv-_6kRL_ZmhIw_aPKprHejEK2o="
-    width: 1200
-    height: 630
-    title: "Despite privacy concerns, facial recognition cameras to be rolled out in London"
+  - url: "https://icdn3.digitaltrends.com/image/digitaltrends/n13_super_nintendo_world_universal_studios_japan-1200x630-c-ar1.91.jpg"
+    width: 970
+    height: 507
+    title: "Digital Trends Live: London’s facial-recognition cameras, Super Nintendo World"
 
 related:
-  - title: "Digital Trends Live: London’s facial-recognition cameras, Super Nintendo World"
-    excerpt: "On this episode of Digital Trends Live, hosts Greg Nibler and Nicole Raney discuss the biggest-trending news in tech, including facial-recognition cameras being deployed in London, Waymo’s self-driving car expansion, Apple’s self-driving car patent, Super Nintendo World’s migration to the U.S., and more. We then take a deeper look at ..."
-    publishedDateTime: 2020-01-24T19:52:00Z
-    webUrl: "https://www.digitaltrends.com/digital-trends-live/episode-301/"
-    ampWebUrl: "https://www.digitaltrends.com/digital-trends-live/episode-301/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/digital-trends-live/episode-301/?amp"
+  - title: "Despite privacy concerns, facial recognition cameras to be rolled out in London"
+    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
+    publishedDateTime: 2020-01-24T19:57:00Z
+    webUrl: "https://mashable.com/video/london-facial-recognition-cameras/"
+    ampWebUrl: "https://mashable.com/video/london-facial-recognition-cameras.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/london-facial-recognition-cameras.amp"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 70
+      name: Mashable
+      domain: mashable.com
+    quality: 85
     images:
-      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/n13_super_nintendo_world_universal_studios_japan-1200x630-c-ar1.91.jpg"
-        width: 970
-        height: 507
+      - url: "https://mondrian.mashable.com/2020%252F01%252F24%252F8f%252Fe45391542f244300abce8e004744f264.dbee4.png%252F1200x630.png?signature=Jv-_6kRL_ZmhIw_aPKprHejEK2o="
+        width: 1200
+        height: 630
   - title: "More than 40 colleges say they won’t use facial recognition on campus"
     excerpt: "More than 40 colleges have said they have no intention to use facial recognition technology on their campuses amid a push from digital rights group Fight for the Future and Students for Sensible Drug Policy. The two groups launched a campaign earlier this month to ask colleges in the United States about their policies surrounding the use of the ..."
     publishedDateTime: 2020-01-28T13:32:00Z
@@ -56,6 +60,21 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/01/Facial-Recognition-Campus-Fight-for-the-Future.jpg"
         width: 1711
         height: 856
+  - title: "Artists and activists offer privacy hope as facial recognition spreads"
+    excerpt: "Now that our online data has been comprehensively mined, our behavioural surplus extracted, Big Tech is coming for our faces. The explosion in facial recognition has outpaced efforts to legislate around it and, in societies such as the UK where it is not compulsory to carry identification, we are being identified whether we like it or not."
+    publishedDateTime: 2020-01-29T05:14:00Z
+    webUrl: "https://www.ft.com/content/15fb3c5a-2178-11ea-b8a1-584213ee7b2b"
+    ampWebUrl: "https://amp.ft.com/content/15fb3c5a-2178-11ea-b8a1-584213ee7b2b"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/15fb3c5a-2178-11ea-b8a1-584213ee7b2b"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F55c44a8e-3631-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
   - title: "Government privacy watchdog under pressure to recommend facial recognition ban"
     excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
     publishedDateTime: 2020-01-27T21:31:00Z
@@ -118,6 +137,6 @@ related:
       domain: dailybruin.com
     quality: 10
 
-secured: "f1L8erV4OAV4YiRvRIu+5Ft8Zf/DZeW1fUc93ZseyIcMe4WiR777LEmvstY15tNB/zwe6O0ZSFSPaeft//tJPqM5wTtWdFQp1NeN5SGU3GPzR+h9yLb17C+GtyLwKEfYCXfWeqSnv2WspX4MQGUNSjlxgTnO7YbQ38Hl8diqMuiS4+HBBO45BAWZw/0b/2f+IO3VQJxP60ik//c4/eE88IbSplkzmS7sKdT2EMNQ/ftvnAtqRzeFb2AnnSn1nchN2ZrcK4ieFvrgNUIOlp6DnbyuUIHYE1mTvy1tPNzkoVwf+y73l1UiGcSHFM2k/KVpyS8kG7sx/KZ0cHcRJ6SgUR/o5nNc/ckqM65qPYCPb8neAgnLYhwTGEqVFfgpfEzrK+eFLi8zar47x/zwLP62UKx9t/l20WUNhHMzsiuy81DdwqIkRVBKD0wirCwxeU4HTEij9JMxZbIlesBrcXwqGWQh/OKW0KTC3xogorMVPSw=;+hfUi+AUYUSNPMBDdzk7AQ=="
+secured: "Y09GvHLyzevPbnT7RBDj55w7UIZJUQne0aWUx740VQeKqeyQwxOXyrW6hZkytkbzu5is/T3d9zjC3jFqw3WK7xgtwX/SXNPNITMRivkaMuDh6cmSXR4V7efjCPWzTYxlepSQvKpKKNmunFQIh3G0l5sUuqMjlKDN9JFjBh1/xTFfaaU0pU1TSJRkBIxj/BPYZqJzlTL09QFfdd/UhUoKod4TYFSmBBb0wTnQZGmPdt269HM+0KyZlgHH3cul4zCuKINn4XMgs3VD8wtlYuC7f1YNxEu33ZOWZdey+4Q7gPUR2pSCZMo4iEiI8bi8ZHXNxVIBRJpwpyoUoyNFlOZGbe7XRXtpfbvpCYfc7RBHUCJ+Bbruif08LakPSHmthqyApgJkmAVz0rLXqcFQ2yafNLBAu1HkrC4wmF8eEf1lsvXQR4TPfvNmhU6Vf0QD96u2d1EIjIMOHQoHgRkL/1DJ08rMxS3yJWavlSQTTOs51g8=;MyN5AtNTWSX0GKnVzul79Q=="
 ---
 

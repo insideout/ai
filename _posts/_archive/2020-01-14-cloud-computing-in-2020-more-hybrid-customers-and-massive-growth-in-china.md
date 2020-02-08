@@ -4,10 +4,12 @@ title: "Cloud computing in 2020: More hybrid customers and massive growth in Chi
 excerpt: "Alluxio founder also says pyTorch or TensorFlow will emerge as the top choice among machine learning frameworks. Engineers who can manage structured and unstructured data will be the most in ..."
 publishedDateTime: 2020-01-14T22:28:00Z
 webUrl: "https://www.techrepublic.com/article/cloud-computing-in-2020-more-hybrid-customers-and-massive-growth-in-china/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/cloud-computing-in-2020-more-hybrid-customers-and-massive-growth-in-china/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-computing-in-2020-more-hybrid-customers-and-massive-growth-in-china/"
 type: article
-quality: 32
-heat: 32
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: TechRepublic
@@ -21,6 +23,12 @@ topics:
   - AI
   - Google AI
 
-secured: "uOc2TRrSUG8ofIfkf6hhO8bSiA5bd2sKDWk2uBhkjqyLPZqtv6/wNrLjPKhLbL6xi0FuxwXX4iZNJNDFLevex36qHTXDfzxXpv8+1mUIY3jUK4oO8i/31eAJxcXO7ZBEokRRaE8AZrWzE0qSH8qJh24jBuGLMpcIfJJHt7ZM8PjJsGrhwEoYQJ17bMoFHsgqugL8uWtOCZQ1oK+ElLWFhEA5VHGW69nqbMyjpsvNfADZSDdURpv9ZD+9/GqP4BvA1g7zDYwTu9wvL+/wiNUu8n+kSxq4PmE768iSk81z8NSbwZk62MsLp3ciqz+PuMAY;Bpoq/7VNi0ZtpXwgfV6krA=="
+images:
+  - url: "https://tr3.cbsistatic.com/hub/i/r/2019/12/09/e3a165fc-623f-466d-ae37-59fc4475fbb3/thumbnail/1200x675/e9f044ddc5203cb1472e5e59a5d352a1/20191209-enterprise-tom.jpg"
+    width: 1200
+    height: 675
+    title: "Cloud computing in 2020: More hybrid customers and massive growth in China"
+
+secured: "v+FerWSLhXftyye8iwN583CInoIZr9DYRw/NKsGiOF3E86zbxgJI63GXCAfah7svmvIX/g3W3RnJVuS/ndueetNxlLlgsAjphOHTpyHePDKU2LphgDorrGUKLVfFzWWJF/zpxmOs6TZz1Un7oeSLJyeWN4p/iNMWf5HRsdyPpE5/ZX/n6ngYmchj4ihZ0GVjMtyhiBNgu9eZ/ZIMQ+icKy/5VGW1TUOXpMTZWgsXx3dvUCFy1cYbPCUoS1ceVYJ4L3B0No44d1yeWEyqIgI3/d4829mcQBKnQJx5G1YyV6Zep7983/rzh6Q/a1aTT8m+;eRKeh7VBG/TMxoLQisaAUA=="
 ---
 

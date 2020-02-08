@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/how-tradit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/amp/"
 type: article
 quality: 98
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     title: "How Traditional Companies Can Utilize AI And Machine Learning To Build Better Products"
 
 related:
-  - title: "How Organizations Can Better Realize The Value Of AI, Ethically"
-    excerpt: "and data privacy can be overwhelming. While there’s loads of promise and opportunity, there are also concerns about data misuse and personal privacy being at risk. As we evaluate these topics and as the Fourth Industrial Revolution unfolds,"
-    publishedDateTime: 2020-01-24T17:43:00Z
-    webUrl: "https://www.forbes.com/sites/workday/2020/01/24/how-organizations-can-better-realize-the-value-of-ai-ethically/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "How companies can embrace AI as a catalyst for creativity"
     excerpt: "Combined with a lack of understanding of the technology, employers don’t have the internal structure and personnel needed to launch the power of AI into their business model, says Augustine Walker, senior director of product management for Veritone, an AI solutions provider. “There isn't a lot of focus on what tools are out there so that I ..."
     publishedDateTime: 2020-01-27T11:14:00Z

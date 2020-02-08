@@ -41,15 +41,6 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/Cruise-Origin-in-SFs-Castro-District.jpg?quality=80&strip"
         width: 1920
         height: 1183
-  - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
-    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
-    publishedDateTime: 2020-01-24T17:57:00Z
-    webUrl: "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 34
 
 secured: "iL2ZpfB35Lee8BBHYInqhuIUL36e+3kCBRLsZFzGNEQD5Bb7w8/0Dw6p2ZUxYj9DKlhZYkWHNaDPfhlj9ybhvsPJIkH2OxsKitzXRAohUBWi8UagYM7mt7bkdn5lHJZJ1BIp/3ZRJm618Cm0UTBFlo6rltp51Ml0n7GniVS45xzWIzCyWrdaDDXRjdoRnuQ0vvHXB8xg9U4n2vsSCfSm7BX7unwVJIwQ/PFv9SNEoRf5/4/dGzlvayBWEhHiwqhdk83HhFH2f3pfRx3xFBnzxSZMPBTINW2vKGbGs0tD3rwoGS0J2YYSGAO/Fr5As4KTAklKgWpTafT5OIj9FwGolcP5G1Ob+G101bukEKbrQs8cNPeYiEu5G2+5Cb868PEmuny3VPhVN6CTb04r8JzqQSjknIknbFkTF0TgIWNxjO/KJig1wdcC2LZfaCRika9kPO+pSGNZeTkplo4VdAQ1PNjCpf2s7gduPe1xA5duM3I=;SjHlPyElZe4Fo+PXvHn5wA=="
 ---

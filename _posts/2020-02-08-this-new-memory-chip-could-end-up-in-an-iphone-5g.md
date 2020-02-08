@@ -3,9 +3,9 @@ category: news
 title: "This new memory chip could end up in an iPhone 5G"
 excerpt: "The new chip is likely to make its way into the next iPhone ... The rising popularity of high pixel cameras (like the 108 million pixel sensor set on the Xiaomi CC9 Pro), concurrent apps demanding huge bandwidth and AI means that LPDDR5 is likely to become the defacto memory tech for flagship smartphones in 2020. It remains to be seen whether ..."
 publishedDateTime: 2020-02-08T05:00:00Z
-webUrl: "https://www.techradar.com/uk/news/this-new-memory-chip-could-end-up-in-an-iphone-5g"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g"
+webUrl: "https://www.techradar.com/au/news/this-new-memory-chip-could-end-up-in-an-iphone-5g"
+ampWebUrl: "https://www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g"
 type: article
 quality: 89
 heat: 89
@@ -29,6 +29,6 @@ images:
     height: 545
     title: "This new memory chip could end up in an iPhone 5G"
 
-secured: "Vhp1JL24F2uDn+6aGZhrtWPfxG1GEMZ7qaiYTxnL6WSR4x1hh6W89AyTEr5iXe+MatZgkvi85w0NsDgKZVP2eeYkxzFAIZ3CoVYozaRAooPNcvpcDl4CiTs76jqvrRBV6DFp0YTn/bwVFa/cAHFL3OydSw+0CXhru4qkF7QQaV7CWC8OkGSof67RXFZJ8JVaiHxycaSBw9xuV2OPM05JRXJ1M6wnqY7N+YlU2w8WJ6uUu0Jiaa6kbKMvtg5UyoM2bp/rIy7GWQeUKUUCepYUq47vX0mU2Zv7YZhDFs+dwJ00DPGJ7K4hVPopLNWTu5QG;ZE92moMncUv7b6GyAh47/g=="
+secured: "TGrwLb15r1aySUcOVrXe1E1lsMzsEGSIoNcbVMlcgitDLAPxUuK8OUfgUc1C2wgLVNbPFdGe560r8x3XEZA9vOxDj0foCE7Sodv/39uesyjd+QyjlTO5JottRX3gDRN1JDm6hUtg41hR+a3IYQteJ6z0YbrTaMTGxrtFzYMt4LUWhAw8/RddXmktzPm22PNrtNzn+6cALagwZ1yC2TagCvsWaBA4+izBJfv+jLF+gT9LLK/duABwyE30WtaiSZXSmLSq1VsfV6smXMqbnGHA4ep/dyMd5c+TqxUotONz4rapLH2PlShccUN3QC3+2Wjb;+wp05WgbtaoXHcPaXY8EjA=="
 ---
 

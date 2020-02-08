@@ -282,34 +282,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "London Police are setting up live facial recognition cameras and people are not happy about it"
-    excerpt: "London is already the most camera-crazy city outside of China, but now some of those cameras will be running facial recognition software as well. If you’re on one of the many “bespoke” watch lists held by the Metropolitan Police (the Met), cameras in tourist-heavy areas will be looking out for you. They’ve been trialing the system for ..."
-    publishedDateTime: 2020-01-24T18:11:00Z
-    webUrl: "https://knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/"
-    ampWebUrl: "https://knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/amp/"
-    cdnAmpWebUrl: "https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/amp/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 47
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2018/11/security-cameras.jpg"
-        width: 1528
-        height: 900
-  - title: "Met Police deploy NEC biometric facial recognition tech across London"
-    excerpt: "The Metropolitan Police in the U.K. has rolled out in London real-time facial recognition technology developed by NEC, reports CBR. The implementation “will be intelligence-led and deployed to specific locations in London. This will help tackle serious crime, including serious violence, gun and knife crime, child sexual exploitation and help ..."
-    publishedDateTime: 2020-01-24T18:24:00Z
-    webUrl: "https://www.biometricupdate.com/202001/met-police-deploy-nec-biometric-facial-recognition-tech-across-london"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
   - title: "London Police Deploy Controversial Facial Recognition Cameras"
     excerpt: "Facial recognition technology is more widespread than ever — many people have phones in their pockets that use advanced sensors and algorithms to make sure no one else can access their data. However, law enforcement is also increasingly using facial recognition data to scan crowds for known criminals. The city of London is the latest to add ..."
     publishedDateTime: 2020-01-25T12:11:00Z

@@ -19,15 +19,19 @@ topics:
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
-    excerpt: "Artificial Intelligence (AI) in Healthcare Market - Global Drivers, Opportunities, Trends, and Forecasts to 2022 Artificial Intelligence (AI) refers to the creation of intelligent systems that are able to perform tasks without human interventions and instructions."
-    publishedDateTime: 2020-01-17T08:30:00Z
+    excerpt: "Jan 17, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI ... practices can be used for alerts & reminder, diagnostic, therapy planning, information retrieval, and image interpretation."
+    publishedDateTime: 2020-01-17T04:30:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
-secured: "+WYY9iZWtiBi6/CutCaNb6CYdP7smeSDXkc0jANzr31/Yoluh03tDqpBaGtWmbsOUU36r4H5jYs9v6/p5/8jRIsTKWjkQKQYfccdUD5ew7H99Zx0szSU3QwByB22+V6hN0rq1tNLSrUdrmcfs2lJ6kjhStn7xbn15cXV5f5UbxOyTVOFaq5FQofDDB1de+6WYBkBgbjaTn7ymWR+rN+90mz3cTciPS56pth01VfwSTrLrjSTFDH8LS8BhxFLQbPyWnfVBloWconFhI2trnNCormSW40rRSiZsP6UsF6M5g7cF7XeAZI2CUGjN1xt9X0U;w70agwCZnpxAyGS2UjCl+g=="
+secured: "d+sgtkAqmf+yR1uGXQnY/PH88YR8Vfp0J51plIsApEy5pBC3eLB2inw/+BNOzSxLtSqDWf/idtI6Ng+nirVO8y53wUzgLCm73w9qv2QuaaJ3+QuGGUAEvvojEM2cxjlqZMK5k9tONywOBldXfJlGn4g1oYS2JU2rbW8H6ojqkQ3eInjKWl1y7QRK+0z3pg2/FNLfnyaXNn1pFgx04TwCtiyrxZpIhQ1PNzzRevFrtA4yVB3iK/RymEPp8mIC4cehYu3XhlQ+kW0BzvwpSPb9GDUNEaIJNJTYpxHGIsXVzQMRg98ywrSYpTW7eoC438UX;yThQlAJZntAkpfyAY362IA=="
 ---
 
