@@ -8,7 +8,7 @@ ampWebUrl: "https://www.adweek.com/digital/adweeks-surreal-super-bowl-ad-pitchin
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/adweeks-surreal-super-bowl-ad-pitching-bot-highlights-ais-strengths-and-shortcomings/amp/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 450
     height: 253
     title: "Adweek’s Surreal Super Bowl Ad-Pitching Bot Highlights AI’s Strengths and Shortcomings"
-
-related:
-  - title: "Here’s What We Learned by Teaching an AI to Write Super Bowl Ads"
-    excerpt: "Super Bowl ads, the bot’s creators decided to touch base on how it’s going, what we’ve all learned and where this project seems to hint that AI is headed, at least in the realm of creativity. Here’s the conversation between Adweek emerging tech reporter Patrick Kulp and creative and innovation editor David Griner: David Griner ..."
-    publishedDateTime: 2020-01-24T13:47:00Z
-    webUrl: "https://www.adweek.com/creativity/heres-what-we-learned-by-teaching-an-ai-to-write-super-bowl-ads/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 117
 
 secured: "AEWgbfBcAqNg2Zygwu8A5PWp/iAdMHR9iQpRZbSoAqduBazuvkHtALf6Gv0MteTjVWX7tgjGh/LNU65q8ki0oaF/GXLKnfS5d/0wYjGhZgcuniBTutqSIgYQaaBSJ/y9zaF242I2T7zeAhxiM2dud57QRxr3CPmfd3JzG6fSsF7UlINEJjwbGumN/8O9My4ZMb6FFFx8ZUAdLOpGs7NZXw0W3x27L183jTVZIUI/Yy+X5wkHHnQsC0glNKJEvdPiApPgbasPBAVGnNxcybMWiJ0QhobSvY1+zhrH97xpw56tNxFCxAoOz6mQPFLVBL1u;wrzbCwqqqq3aYF6sX9Narw=="
 ---

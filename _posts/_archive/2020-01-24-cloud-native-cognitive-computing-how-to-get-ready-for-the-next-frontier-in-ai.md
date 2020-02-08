@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Cloud-Native Cognitive Computing How to Get Ready For The Next Frontier in AI"
-excerpt: "Cognitive computing is a compute-intensive undertaking, which is of course why cognitive services are so closely linked to cloud-based environments. The leading providers in this field – Amazon AWS, Microsoft Azure, Google Cloud, and IBM Watson – are all cloud computing heavyweights. They offer highly modular services with capabilities such ..."
-publishedDateTime: 2020-01-24T13:44:00Z
+excerpt: "which is of course why cognitive services are so closely linked to cloud-based environments. The leading providers in this field – Amazon AWS, Microsoft Azure, Google Cloud, and IBM Watson ..."
+publishedDateTime: 2020-01-24T00:00:00Z
 webUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792"
 ampWebUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
 type: article
-quality: 38
-heat: 38
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -18,7 +18,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-  - Natural Language Processing
 
 related:
   - title: "Two Paths Converge in the Cloud: Realizing Value from Legacy Migrations and Native Cloud Development"
@@ -35,6 +34,6 @@ related:
         width: 1200
         height: 800
 
-secured: "MaTVhquWpIQhS8XgIPb7TG0eLUfTGzdLapTH1ibsG2oP+F1KyvkktjVJcVxnCz+zIWcIZf671fKvpJDOoOb0dGlkSbhjJQRGaWQP08P00wFZt7Gw+Id+Qa39E0vuHpmm83G58HIt2ikFk0sIt3y3iACrJl31U5YThj5BCgCXUfAlCmsYOTmtoUasmcpeiyshbgGGpHpro/Bafs4i8FOaa2dUUJ6pXGeiKcKoFUNdiVIvqUdLE5kvfDgHVsDY1gwUAhvazgBPTLbjwUT9+1XfdZyNfh5w2oGZrzPduzhrRqbE88lWsdMm/5g1und9YFTpXjBaHTf/scjQR9OwlUaxsAaBLLW8qfPuGlmRYW4ad47T96HArft0+ZThv5GT5ds/BRkTNEtznuNkhIts39VShMf3LdsfbuSBbr3LhGoZsrWAhRZPunYsXYz49VTS9eO28jFrQjjjmfa3kQvWg8iglssZ6Z6cUYcfiOAzhxh4YUM=;Wbd6k0QrUkV3L5vCajtxVA=="
+secured: "36h4Zw9R/fk5AV/d1meL5RY6FRI16iwiZ8ezOvzJC0YLRHCX3wFZpknj6MhpFwsATGtDX1T62o0ALiZD4r3ifAK33DiEu6WCnTVl0FMYgZic2cCX0NU9rLbSKp3wX+o0PYpuvZtLPLfKen90A8Q485xy9yMxVu75RHogj2pTKvGiHSDwcmye108EQ177mKdQdvK9s44WKfsPgZe0I3gJqj0nh0qrm1WR1uJ9WPmA5D7sX+K7R5AGezLQm+nYF4DcPj1dt1GNMiVqMeWv2/tnc+vjDXe2q+3BJG3IR1Lr3OKfPOK5MlWtjBfXeKo2hsk8;JesMBzaDnz1qc040/N3X+Q=="
 ---
 

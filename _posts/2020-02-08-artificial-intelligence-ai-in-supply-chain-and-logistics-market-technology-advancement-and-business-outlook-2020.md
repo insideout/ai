@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) In Construction Market Technological Enhancement and Advancement Outlook - 2026"
-excerpt: "Latest Industry Research Report On global Artificial Intelligence (AI) In Construction Market Research Report 2020 in-depth analysis of the market state and also the competitive landscape globally. The Artificial Intelligence (AI) In Construction market report provides information regarding market size,"
-publishedDateTime: 2020-02-05T05:18:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-technological-enhancement-and-advancement-outlook---2026-2020-02-05"
+title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020"
+excerpt: "The report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
+publishedDateTime: 2020-02-08T04:54:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020-2020-02-08"
 type: article
-quality: 63
+quality: 64
 heat: -1
 published: false
 
@@ -19,12 +19,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - Facebook AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
-    title: "Artificial Intelligence (AI) In Construction Market Technological Enhancement and Advancement Outlook - 2026"
+    title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020"
 
 related:
   - title: "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020"
@@ -53,15 +55,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020"
-    excerpt: "The report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-08T04:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020-2020-02-08"
+  - title: "Artificial Intelligence (AI) In Construction Market Technological Enhancement and Advancement Outlook - 2026"
+    excerpt: "Latest Industry Research Report On global Artificial Intelligence (AI) In Construction Market Research Report 2020 in-depth analysis of the market state and also the competitive landscape globally. The Artificial Intelligence (AI) In Construction market report provides information regarding market size,"
+    publishedDateTime: 2020-02-05T05:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-technological-enhancement-and-advancement-outlook---2026-2020-02-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -129,6 +131,6 @@ related:
         width: 600
         height: 315
 
-secured: "4DsF5OcRX14k3BYWuEzqQZqAAJIovd+aAsqXNa/khBSS/EWTXISs3hJEluHZd7n2c9fLFRImEwLkakPD9goV7Z2ya2rTitZWcRkF2e/vYWwIs0ikHhwxC8SpcSHNTITdrNjKTyRI95bMkcKHNdFtMWnOwQvRm57PR9nqgIvXkf4+jw2EohRWrcPZdPN2j1eX9pXX6Y7Ue0GHoLQc0nJDb68gtFSuEm2E6ufc1wTLsvqN9/Qrc6vdhl/dwx9EdLYsMT82x7mFv++RgWogfkCJ6I+S6CzkDTg6W1mHqQCuP0EjIxXv9ArHlLiuBXInykt2;mTEEUN2UkW0FY4bLxxOiuQ=="
+secured: "zPWDCc9YZS4XmZhv68PwykXE0AkChXMAbH4YrRx7q+1w0qCX7D4e2tn/aXlpfOlcdBuQQuoOHm1RrQDrrq+bIQmOBELmB2YgKpL9IenoN6/jwkuLM8LU+8m+mO7eikUSRJJg5LEYP+QuRzbGsb8FgIzwEXHl4+jqsm4GFwCnHDj9lTF1H/hXWc/jzmeaBaPw/lavYuPuWF1II8EhnSnTlFj/grPffKGyUA46K+a4FyxksB5WKJsXvCyByn7y/qb0rQduynf1d4HlRmDkEytV5vnWJw1B3qS7xw35Sx0xeL0dwKs1AkUq1uOMFQD9smeg;UDhn1DSlXPOWsMSghe0alQ=="
 ---
 

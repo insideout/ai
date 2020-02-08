@@ -92,6 +92,19 @@ related:
       name: Penn Live
       domain: pennlive.com
     quality: 4
+  - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
+    excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
+    publishedDateTime: 2020-02-07T03:43:00Z
+    webUrl: "https://siliconangle.com/2020/02/06/silicon-valley-startup-nuro-becomes-gets-self-driving-vehicle-exemption-u-s-department-transportation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 0
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
+        width: 4000
+        height: 2666
 
 secured: "tQHmnUGOsAuPDxvz9J6SCNC0fMDFATQS/U3VRcF5BWGVBiv3Djd7vl6pc6RFsVImaUDYKkFuWa5pEnww9qNXvKcbQkEu/K8c4f85BTi1Y15HJI3DFbi8trvsIXpeHc1Nt/d0FvLZJ5JLX7tPfbgl3SY4CTdX1s6sGGQCHOsThaadDB7HQrBvFEBu7w3hNuEFSrncZ8e+Q6QMjuJs+eBb7zrA861fxcL6O2PxQV6gkUcW5oDtF0AQZwkh9FqYqnnEJLneeCc4Cn3uypJD4eVMWCmr4o2Cr2ibBekJuvVf8cIxkgTIV9V1I4mm0IUHFqMv3dXVceGS/lLZxLGSmicQP8acYGSNXJyXrGbs2UNIwlVztSAMm9fZb8awpHFksnADShWuDTY856ZG3NM7LUHcckGY9vbZIXwnSR+Pz6k6AtVDIJf50eC86aI2tNbnQFHVlMLKHDV/v5k65NUPW54Wq6XE4fZaEat+Aamp7SKZLGo=;A3GgFScTkf0Ypr0SxX9seg=="
 ---

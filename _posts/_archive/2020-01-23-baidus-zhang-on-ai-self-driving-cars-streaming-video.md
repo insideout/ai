@@ -88,6 +88,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "zY2q2pHC6C8vnhpATV+TMkfSylbk30POn9bHmm5bIPJOCZTQQoqocyN7+pM4kadhdmckcLq6/y7ndvhBLG12jm3ezhoNBqSnr+/4X3FBcgEb0/F5ICYVNQ/8/gqfXS8L65gC/ByFFlAbbiQycjLrlAWPwuJT10vnAWHhnMmy5Y2XES5Qb+S1WBr8XaJGKoaNhLnCPTxI1Zta2lmP1lNB+tGmvH60qmrpAjxsFg25YozsDySmaL+K+CAUKA/z6J41HfFYAtZOzlcllB5H6wEuQH1ZVBB3/y1EGuD53koMwqV8uiKvF4HWRlfnG5UsbgzO;dgtWkjnT8P8NIKRlH6TrmQ=="
+secured: "d9CN01hKa68qvUnVfeyIkn9YQA83I4w5G78vEwdbdCCs+6aD7vmrqSlIg/0hsrDZWzpT9xtFl+rVp0ijUS+F2nT4/XW6jQ9U0oWqE864NIaU73psaU55232udNTC8Ga6MwqTH48/a63WM5uegRkGXm6xDZmdxW3StoeSivz4SYM/ND7A6bmRG8xQ5Mvmrv1vydkPF9BKrLklOo4KdM59wSGxpxji9GqgDDHC0ngjJSWHuOVM38LZNBf66KTs5BWWDmgbFymMfJKQPn/UmrwEXpWkDNc3Nxe0ScnDVbSKeDrMDEOaV0Rnj9mPILBOrXVm;YUmu/Mt5sHgmSEasOLSdPA=="
 ---
 

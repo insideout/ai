@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "dotData Achieves AWS Machine Learning Competency Status"
-    excerpt: "/PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that it"
-    publishedDateTime: 2020-02-04T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dotdata-achieves-aws-machine-learning-competency-status-300998268.html"
+    excerpt: "dotData has been recognized as a leader by Forrester in the 2019 New Wave for AutoML platforms. dotData has also been recognized as the \"best machine learning platform\" for 2019 by the AI ..."
+    publishedDateTime: 2020-02-04T08:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/dotdata-achieves-aws-machine-learning-competency-status-2020-02-04"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "cTRINAm6sE8Na+zI8n7rIw1dUmlVDVzPsbJf4EXgCRvoYp9JNDC7MP5leKOzAH+7qPbovU9XVkDCnMiqmsk4iT/w2wemrqEtFdTta6OgCZhlkgnxDKzus2diUprHsIflewFMNINorNBcpMMmfsAX1W63HA6Wa2HyMVfRJsq5BtFmcyndgU7fSJbN2YYHJ+zukFZqrC+euxcx9E4+iFAADxcd3i8g0yFs4bYoQ96g8ffuUGtFbsebKwz5bgQdRSZq76ktHk/08J/jsqfphEVRxeQ0ncAB3Qti29kwCgdqElrH9LiZB1i+H6BrU7B9Mcfx;S7xDKOl5Deqni5x2z/2PPA=="
 ---

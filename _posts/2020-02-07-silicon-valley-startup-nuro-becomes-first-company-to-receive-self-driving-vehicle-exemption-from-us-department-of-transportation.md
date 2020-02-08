@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Nuro Self-Driving Car Scores Federal Regulator Approval(Radio)"
-excerpt: "Self-driving robot start-up Nuro Inc. has been granted regulatory permission to deploy its grocery delivery vehicles on the nation’s roads, making the company’s autonomous vehicles the first approved to temporarily sidestep car-safety standards."
-publishedDateTime: 2020-02-07T16:03:00Z
-webUrl: "https://www.bloomberg.com/news/audio/2020-02-07/nuro-self-driving-car-scores-federal-regulator-approval-radio"
+title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
+excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
+publishedDateTime: 2020-02-07T03:43:00Z
+webUrl: "https://siliconangle.com/2020/02/06/silicon-valley-startup-nuro-becomes-gets-self-driving-vehicle-exemption-u-s-department-transportation/"
 type: article
-quality: 34
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
+    width: 4000
+    height: 2666
+    title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
 
 related:
   - title: "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car"
@@ -37,6 +39,15 @@ related:
       - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg"
         width: 800
         height: 560
+  - title: "Nuro Self-Driving Car Scores Federal Regulator Approval(Radio)"
+    excerpt: "Self-driving robot start-up Nuro Inc. has been granted regulatory permission to deploy its grocery delivery vehicles on the nation’s roads, making the company’s autonomous vehicles the first approved to temporarily sidestep car-safety standards."
+    publishedDateTime: 2020-02-07T16:03:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2020-02-07/nuro-self-driving-car-scores-federal-regulator-approval-radio"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 34
   - title: "The feds just blessed a custom self-driving vehicle for the first time"
     excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
     publishedDateTime: 2020-02-07T12:30:00Z
@@ -94,20 +105,7 @@ related:
       name: Penn Live
       domain: pennlive.com
     quality: 4
-  - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
-    excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
-    publishedDateTime: 2020-02-07T03:43:00Z
-    webUrl: "https://siliconangle.com/2020/02/06/silicon-valley-startup-nuro-becomes-gets-self-driving-vehicle-exemption-u-s-department-transportation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
-        width: 4000
-        height: 2666
 
-secured: "NoQcuaQ04VnWY4g3uAgsJMp7qQMalpy+IOxADxf0TZ1q2fUycH3w7F+8TJpmh7LoUFJDXTZ0MmBqre2eqXUwRjWCSjVo5UhLwfgheRJAQy5/hI0zIVeLmvrPMkkQYqNI7M+IldRCKjbtO96ZvT4F34hSgSEQY6Ebk5nfhexzayQg8ra7jo29bulD5MakTjP+h3iof0D8UQmRrJlhK/Xm/DNTnNU5kXG8sMoFkgstxFzaa7aDkF3ea/R/F5p6FdImoS0ounzN0wlBS5M9pbj+MfouYd8yj1KQSPJB60eOmhtx6R7iWzrISVTXhBNvLRO0;TgK+lT/IOeoD2lUK64p7kQ=="
+secured: "bJlpZ/xmOUqltzu28klhZ203gj1/8wsDuCMIrMJ+za1eiLk/1Cbs9yi10WFIkn4FywsZRDQ9a1GvjDOfsTjOI5K06yInKLELhipjhgfrJ/tussMYpD0VPU4RkrdglriWeAi6HZMo/6Lg0yi1onWNYV9VC/kkqEsYzQouSJiUsW22eNrej+iVHlUkqJ33jj6vxG6hTDZIoQjezGVmMpyUSdScnSzl9MgoQa2H62aPZqNL7+5p+Fqjmat6d0lXZiZWDl/sKK1k2ChUrA7w0S373J//GKYYTlG/KuuZuhCSwbv+VrAj7HQHqzpZqRt61KtA;fzZ/zAa/e2VOgEk+0p/bDA=="
 ---
 

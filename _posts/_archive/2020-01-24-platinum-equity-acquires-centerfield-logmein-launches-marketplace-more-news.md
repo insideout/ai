@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Platinum Equity Acquires Centerfield, LogMeIn Launches Marketplace, More News"
-excerpt: "In other customer experience software news ... The companies are also developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services, and officials promised more information about these upcoming integrations later this year. Headquartered in Daly City, Calif., Genesys has more than 5,000 ..."
-publishedDateTime: 2020-01-24T13:11:00Z
+excerpt: "Microsoft Dynamics 365 and Azure Cognitive Services, and officials promised more information about these upcoming integrations later this year. Headquartered in Daly City, Calif., Genesys has more ..."
+publishedDateTime: 2020-01-24T12:47:00Z
 webUrl: "https://www.cmswire.com/customer-experience/platinum-equity-acquires-centerfield-logmein-launches-marketplace-more-news/"
 ampWebUrl: "https://www.cmswire.com/customer-experience/platinum-equity-acquires-centerfield-logmein-launches-marketplace-more-news/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/platinum-equity-acquires-centerfield-logmein-launches-marketplace-more-news/amp/"
@@ -25,6 +25,6 @@ images:
     height: 480
     title: "Platinum Equity Acquires Centerfield, LogMeIn Launches Marketplace, More News"
 
-secured: "mTGsigIGl52zURXdeLdu5NgtwaR/9iwQ48MtF5fr8/mo/NT5HmmXM3FeiD+1m7ECy5y2SK2JQ/hncxOZZPW2mLDMxgSHKsPGvJD1xptTM5rqAxzeWPEB5BOwz/OE77H3AoLl/nHnXk3I+3Rc0HLhh6LlhYJ/+eLsU5GGcqzK/xuZ+MGEzv4qcd9zrg2knGtKX5RlAAfxQFGtvbx08xG1kFOADnIeFbLQ/+Ca6oO1ujA4aGmdme59di8s0MrJW2MIyJUyVxnGTjsng12Bi1ZkJL/eaj29+dPTpWWwSbCVmEc4Rip43vVlx8v0h4x15rPaOBA27loEr0fjjZ6MB4axYdX+vGGbIyFEbKjHKvQUwCquw0TM5m+vXd2OHYUvcf4whMGU1996cnLFhugZegY54qDRwrcqMzXbIR+E07JTtYzA3rWbctZSvk6l8a62/MelL4WAz+z3Bt99T2RN+oeLm5YGnQRmCZ6Xx0ug+/RxVPE=;EYxAuNsH03Zf30Jddbz8zw=="
+secured: "nphlvqB6Ql0RN0GLTxlVhkW7GUbxxRC/GM/PyBgjgAkSqRF0ZyUE1famDtHBc9usjS/g6/ao+XUO25xMsNkUTJm0EvZuychsGepvSHKrPjZRHKqRDhetRaRVtZpxezFKkFfzpbKKKMWG0ewbEr2qRmrBmkZMnliQYVlr2orRth90Cfrq8V4EaSHtPHHPTj13BpaXFEQDL2LdFhlPpltxVDCrZneGHZzbBDFbmKrOxHacueRB1MxVj4z77DsYDEBs9Ru1gHGwishDjDANhP4RfQaKvOXqig2NlBqxx6K2/JFadPrQz7JvOEHnPT7kOiUi;LxBgL3u77QFW1yIqqfkiFw=="
 ---
 

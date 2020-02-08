@@ -1,27 +1,30 @@
 ---
 category: news
 title: "dotData Achieves AWS Machine Learning Competency Status"
-excerpt: "/PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that it"
-publishedDateTime: 2020-02-04T12:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/dotdata-achieves-aws-machine-learning-competency-status-300998268.html"
+excerpt: "dotData has been recognized as a leader by Forrester in the 2019 New Wave for AutoML platforms. dotData has also been recognized as the \"best machine learning platform\" for 2019 by the AI ..."
+publishedDateTime: 2020-02-04T08:00:00Z
+webUrl: "https://www.marketwatch.com/press-release/dotdata-achieves-aws-machine-learning-competency-status-2020-02-04"
 type: article
-quality: 56
-heat: 66
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
-  - AWS AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "dotData Achieves AWS Machine Learning Competency Status"
 
 related:
@@ -39,6 +42,6 @@ related:
         width: 800
         height: 600
 
-secured: "ckSXOQjewVFJ9k6Z/05TqGVDt7WQjQ7h7ehIzyP7T1z+aeyIu0JKoNy2BchhYS4ykq0gnezSrGRc5fH5waZPU5plsxi1hUI9epAUamHWXDiVoJoSIq54CAh0aC3BVO0K5EWsNBk7LjvIcwvM4+45nb8OykcAjI4SVUmaVqz1ocIHKfa+tL6SnFE5x9e3p2PL0xbj7OH5qnVasXjN9kvYlcmcJCjrsfccmgOpfdE0I/bdAMo4viQ6rs0DTXL6+HQKSAEgLW/E8liczaDURVZnYpnDFt7q8xjRqOFxn0UmLb0AlXaaFyvcgx7FGunMo4V6;2ubqEFeZNk/NSknsZ9LQ/w=="
+secured: "9flERRJlgS6u/YHxWjCHG9qMPZG5KG7VQsDvPacrh4GnR8SHfpYgWFh81P3m8I8jJ+qgfTWYz+l1+FRWB4CqxWZQpzBNpWGYWpZzBYiMox6ce8Xd8zVIRB19/vr+rFwUMHgXalJkn5RGiYZzEhsyZC3R4DCls3zaQCrvQDSJ4/qaVehNTz7b9s6eylv4gdGeMl15FSnFhP6KThSX3K2FvJxIWAaCaSa8owz6hBpbQuNEeF6w12l/E19NWpP87p1RGaarGpbIepiQ42T7oWm9AL0HsKRL7uUTcSWXoVJRnh98XGsuetUuN7BIc4Yy5mIb;FZLkW8hPG3DKBFKPx68oDA=="
 ---
 

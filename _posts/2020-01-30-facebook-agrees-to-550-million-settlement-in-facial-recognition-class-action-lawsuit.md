@@ -336,36 +336,6 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/01/2010-10-18T120000Z_926960977_LM1E6AI119B01_RTRMADP_3_BRITAIN-DEFENCE-STRATEGY-1024x576.jpg"
         width: 1024
         height: 576
-  - title: "Met police to begin using live facial recognition cameras"
-    excerpt: "Civil liberties groups condemn move as ‘a breathtaking assault on our rights’"
-    publishedDateTime: 2020-01-24T13:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/jan/24/met-police-begin-using-live-facial-recognition-cameras"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/jan/24/met-police-begin-using-live-facial-recognition-cameras"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/24/met-police-begin-using-live-facial-recognition-cameras"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/45c2df697a98316f59a3dc14ee1bcb27bb2b4aba/0_94_3500_2100/master/3500.jpg?width=605&quality=85&auto=format&fit=max&s=3a6698f9b36d3cdd8fcc3e6ad0aed500"
-        width: 605
-        height: 363
-  - title: "Met police to deploy live facial recognition in London"
-    excerpt: "London’s Metropolitan Police has announced that it will deploy live facial recognition to identify citizens across the capital, flying in the face of calls from the British government, regulators and citizens to pause use of the highly invasive and often inaccurate biometric technology. The Met said that standalone cameras would scan passers ..."
-    publishedDateTime: 2020-01-24T13:47:00Z
-    webUrl: "https://www.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735"
-    ampWebUrl: "https://amp.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F823b5d34-3eae-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
   - title: "Facial Recognition Cameras Coming to London"
     excerpt: "Whether you think it’s a brilliant security measure or an alarming violation of privacy, facial recognition technology is booming right now. The latest controversy surrounding its use comes from London, with the announcement that facial recognition cameras will be permanently situated around the city. The Metropolitan Police announced the ..."
     publishedDateTime: 2020-01-25T18:29:00Z

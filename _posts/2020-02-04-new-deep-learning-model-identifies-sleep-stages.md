@@ -8,7 +8,7 @@ ampWebUrl: "https://m.timesofindia.com/videos/news/new-deep-learning-model-ident
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/new-deep-learning-model-identifies-sleep-stages/amp_videoshow/73923466.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,17 @@ related:
       - url: "https://eurekalert.org/multimedia/pub/web/223195_web.jpg"
         width: 1440
         height: 960
+  - title: "Here’s how deep learning model identifies sleep stages"
+    excerpt: "The model identifies sleep stages as accurately as an experienced physician. (Unsplash) Researchers at the University of Eastern Finland have developed a new deep learning model that can identify sleep stages as accurately as an experienced physician. Sleep is manually classified into five stages, which are wake, rapid eye movement (REM ..."
+    publishedDateTime: 2020-02-08T06:52:00Z
+    webUrl: "https://www.hindustantimes.com/more-lifestyle/here-s-how-deep-learning-model-identifies-sleep-stages/story-b9Ccp3P6rDUT9xRObSXwQN.html"
+    ampWebUrl: "https://m.hindustantimes.com/more-lifestyle/here-s-how-deep-learning-model-identifies-sleep-stages/story-b9Ccp3P6rDUT9xRObSXwQN_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/more-lifestyle/here-s-how-deep-learning-model-identifies-sleep-stages/story-b9Ccp3P6rDUT9xRObSXwQN_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
 
 secured: "edkbh1zWZ9aIZ19KenPgw/3NNzSXEORRIjVRLvBF43Ur3Hp1OMLnvKJDYq2VCWuqxZ7Rrc/jQzt31CwXWx4nWu3BVjBoGkvquQpS/vOPNWAb0VCPOsngx1xMjSkSUzxX26cxrPc5NNrTms/8auvnsQ8jmvheXdBUrYBMJU/VPiaut0LEmlOJMuU6OnJM9SFpUUeC86d8jqarS0PS0dCvTJ/pcir8psi4uSsNQYIJAzWOXCrwusUBoKsVOc0+grpL3kBNwI8xExHFDL26/FHKU6ywU7LASsL/vf+frkaSG8Yox2DoqgO+t6kUoZvBEwGx+XquJl1rpwJ/KYaJ8hZbO/ZHlvsbrhrHBgWsgBB+0d4agUgC8koqPReONMqD3pvRrS0n3MdnVYyxZNgI7CW+A8c3JwLAyaQkf5925tr7XvKqSvmo7e41tUPKkAvoscK/9ui4i24X4kMtrVIwif93GcWh6dHlLABxG75vD9mslQ0=;FqWuHZ/W+kBhjBZKiIgy4A=="
 ---
