@@ -56,6 +56,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/OnPaste.20200206-165030.png?fit=2560%2C1440&strip=all"
         width: 2560
         height: 1440
+  - title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
+    excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
+    publishedDateTime: 2020-02-07T18:22:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12/"
+    ampWebUrl: "https://amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
+    cdnAmpWebUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
   - title: "Springfield, Mass., Puts Off Facial Recognition Vote"
     excerpt: "(TNS) — After months of discussion and more than two hours of debate Monday night, the City Council was unable to reach agreement on a proposed moratorium intended to block the Police Department from the use of facial recognition technology. Instead, the council decided to continue the issue Monday rather than push for a vote on the ..."
     publishedDateTime: 2020-02-04T21:47:00Z

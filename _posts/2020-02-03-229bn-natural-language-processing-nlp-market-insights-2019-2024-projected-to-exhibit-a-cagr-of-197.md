@@ -1,17 +1,19 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-publishedDateTime: 2020-02-03T11:44:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+publishedDateTime: 2020-02-03T10:44:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -78,6 +80,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "Ln3PvUiS0flu5EDL4Jwkx0xVaSBRzdqvcXEb3bkI/7R5FIaKPypce8h01WfAfsFs14QxeeqdHhh+sT90DFhnr709dX2uOuLiMk/2ZPcnmcZvblRa9Hkn7LmyspQJWuzoByKG6ZURUAcBAWVvI9vBShvinpfiIPFqrK7Jl45F/ynWlhht7NJhL5qs8R5ibRmHxLCi0MvlPN/IzkkK9PI0XiNGI7y/rFdS9+4W/CF9lVs6vqRX6o2e9tNxVQmaj+WWgfJxwn3ybyYB6Y9KiH8kUh8nc9JQvKHMISXwI0W0BYEWXe8l7r/XOC/po748XBvX;pSncunTapT+z06e3IOnRsw=="
+secured: "YPpkDs0b0dyXzOzCej75vlgO46XakY3kQhKRQceOFoqRoaNgkDGIQ9n4wFz1GVwJKW7V4+yLeyJxuYcx3gA3lh2JMCCdhvK8q9jSx+NWXBnuDowC+ewDxN+dWJN9w/YeUb1+BT95yt/WoQWuY3OEovfXg7JFMSyN1gsjnkA/6Tjr9XNcxL1cSU38a5x9jRq3ZlKUt4ExhbG3f8JYElrfT4CAe7cMliEeCcJV/DafdmT5VSDY1IEWr4FL/HuCO5Lr8zLeaoEfw46oGpKGPEsbKfd/dXud8Edr7pRbMrnfNmuMJY/oNmmcuuUUZAcfsO++;pyh0aOh3ow4HPLd5DapD5A=="
 ---
 

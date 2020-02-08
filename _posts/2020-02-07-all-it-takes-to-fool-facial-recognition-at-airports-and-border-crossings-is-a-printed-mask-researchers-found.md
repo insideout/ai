@@ -1,27 +1,33 @@
 ---
 category: news
-title: "The Government's Nightmare Vision for Face Recognition at Airports and Beyond"
-excerpt: "The Department of Homeland Security has a scary vision for expanding face recognition surveillance into our everyday lives, threatening a dystopian future in which face surveillance is used throughout our public spaces to scrutinize our identity, check us against watchlists, record our movements, and more. Work on building the infrastructure ..."
-publishedDateTime: 2020-02-06T22:51:00Z
-webUrl: "https://www.aclu.org/news/privacy-technology/the-governments-nightmare-vision-for-face-recognition-at-airports-and-beyond/"
+title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
+excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
+publishedDateTime: 2020-02-07T18:22:00Z
+webUrl: "https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12/"
+ampWebUrl: "https://amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
+cdnAmpWebUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
 type: article
-quality: 51
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Aclu.org
-  domain: aclu.org
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
-    width: 1200
-    height: 630
-    title: "The Government's Nightmare Vision for Face Recognition at Airports and Beyond"
+  - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
+    width: 750
+    height: 563
+    title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
 
 related:
   - title: "Paper Masks Are Fooling Facial Recognition Software"
@@ -54,21 +60,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/OnPaste.20200206-165030.png?fit=2560%2C1440&strip=all"
         width: 2560
         height: 1440
-  - title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
-    excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
-    publishedDateTime: 2020-02-07T18:22:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12/"
-    ampWebUrl: "https://amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
-    cdnAmpWebUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
   - title: "Facial recognition lawsuit: Underdog Illinois vs. heavyweight Facebook"
     excerpt: "Facial recognition software is on the rise, so it’s no wonder why Facebook wanted to include this tech in their platform, starting in 2010. The use case here was to aid in photo tagging. By using facial recognition software, Facebook users were being prompted to tag various people it thinks are your friends. Now, Facebook does give the ..."
     publishedDateTime: 2020-01-31T17:44:00Z
@@ -142,6 +133,19 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pet-facial-recogniation-1580785378.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
+  - title: "The Government's Nightmare Vision for Face Recognition at Airports and Beyond"
+    excerpt: "The Department of Homeland Security has a scary vision for expanding face recognition surveillance into our everyday lives, threatening a dystopian future in which face surveillance is used throughout our public spaces to scrutinize our identity, check us against watchlists, record our movements, and more. Work on building the infrastructure ..."
+    publishedDateTime: 2020-02-06T22:51:00Z
+    webUrl: "https://www.aclu.org/news/privacy-technology/the-governments-nightmare-vision-for-face-recognition-at-airports-and-beyond/"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 51
+    images:
+      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
+        width: 1200
+        height: 630
   - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition settlement"
     excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
     publishedDateTime: 2020-02-03T23:02:00Z
@@ -346,6 +350,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "ZwAtWnwg6y+FlgQldXoDr3JrcV4EoBar85ovY11u4VdXwUQSshU/3n0VBc3Du6zZglShqj80ZlvFJ6/cW9kEgKeFPwV5tagBhWinYFLtzmmJknihsPYXs3T7roqp2V9RIWfEh1E4IpY3cG3PXtidHtasp+xmTSE4gtPAVCwqDccGttFNYGCUwffPZmywdUmgsrh10xbgjMBB+xyYCkf3VWtzIdx+QxqocS9maWMvG6A/QhG+S0U1pb6ZKm+4zsZOOsdSKAx+QLeCw4GeuwD6e4hiz+twcj/EbcQKfl0fTIYCNtmr66JAHyvLrNqZDUDe;uum3iER/fKkG+p/TsIfcLg=="
+secured: "7NTEApLXPbHgyInPYDJns1S2gtvJ6mYwBp/QCvRir0241gSplw3FlkkDX6ka/KY/FcBmfsdyYpj5ZQsWfFJ2FlF5dvZOmfIVpIHVrWmTUTGN0qLUDDRZ3+iyd+rSmXBDxlFPihNnLOZ8c1FJWUot1RAMHP8pHVZuVn+5wTX4mCz22ghZUqaQYKmgVtP+XvlHOG17XJkeoQDegmDCxx9f7/Z2ekAgDPMlh9j+UPHhj7rR1MCGGhXGwGNM7KWv+f4ovS9O81Y5Yq9t0yb9UOfKvj4B+DGF0p97eJ3fu8o8DMI8vWlARjLs6uE6zew5t2xs;zjNf3jlfPn+t8l20u70C3w=="
 ---
 

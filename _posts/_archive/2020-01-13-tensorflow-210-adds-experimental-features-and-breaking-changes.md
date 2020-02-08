@@ -23,6 +23,6 @@ images:
     height: 400
     title: "TensorFlow 2.1.0 adds experimental features and breaking changes"
 
-secured: "RKd/buBrdUk1NZGqMNStr5KJ/sCuUFk3a7REret2G7SKCYvIagZtfWgTBJB6AhqshuQCEhc4joKLTfrAfLbT1OpeIkfyAcYnNaQk8w1LaODGktGzvdF3D1i7XVtupKxt18DDt9l3BI5P5Ne7GBRi4aHXH1R3Ur2Ng5/Em5X6GbqUBBKFzAihgADWLuNOFgNW5Xl9GswR78vM386Y5QQsdfw1xSlvjuV1uOABoQird2razY4lE5VDXO/AU2lb+rtlUviihfj7lGNXtwlT57cAynu4N8oG0A1xrri/wJny5i8830P0WUYGsQt7GghHZF0M;PrAHAlpp+6ZGOKOeHsKoKg=="
+secured: "aYr7bwO/WGL3+0XthnmMfFMtOpE4s3BgHdOjV4/4zU+Kor3hz9sRJE387Lztwc6HXS9nChb+FubukOzc5R6MoNZqa+HA9zafWwc+UZhVKUc3uTc46sqr6EI9i0PtMW4l3DhHEhlqGBeDA6Q0kCf/r+2Z5Scl4aMgkfe/laP6V7ZPwhXVsHJO2Mxj9+kEktlNAyAAa80JNY5rp9TKrd2ClGDzPlq1KcnJVkY/XERuEN0BGuFaUmeW1pvFx2Fba+oXv0eK8JnWMQbrqJsucLy+tht7LxUGyvfDhEtulup+LR95y+t7x3yZXG0VlKRcLztt;7YE6i/Qko1G4gONFzAX9GA=="
 ---
 

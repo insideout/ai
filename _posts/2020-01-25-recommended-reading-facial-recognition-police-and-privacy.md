@@ -148,21 +148,6 @@ related:
       - url: "https://media.wired.com/photos/5e2b36a1520cce000867c6a7/master/pass/Biz-londonaerial-912614070.jpg"
         width: 2400
         height: 1600
-  - title: "AI Weekly: Calls for facial recognition moratorium highlight need for protection from surveillance tech"
-    excerpt: "The debate over whether to ban or place moratoriums on the use of facial recognition started last year in cities like San Francisco, but the debate reignited this week when Alphabet and Google CEO Sundar Pichai said he’s open to a moratorium on facial recognition. “It [facial recognition regulation] can be immediate, but maybe there’s a ..."
-    publishedDateTime: 2020-01-24T21:02:00Z
-    webUrl: "https://venturebeat.com/2020/01/24/ai-weekly-calls-for-facial-recognition-moratorium-highlight-need-for-protection-from-surveillance-tech/"
-    ampWebUrl: "https://venturebeat.com/2020/01/24/ai-weekly-calls-for-facial-recognition-moratorium-highlight-need-for-protection-from-surveillance-tech/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/ai-weekly-calls-for-facial-recognition-moratorium-highlight-need-for-protection-from-surveillance-tech/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1139859542.jpg?fit=1800%2C1415&strip=all"
-        width: 1800
-        height: 1415
   - title: "How to enable facial recognition in the BitWarden mobile password manager"
     excerpt: "The latest version of the BitWarden Android client supports facial recognition. Find out how to enable it. You need to be using a password manager. Period. There are simply too many reasons to be doing so and too few reasons to not. For the longest time I used EnPass, but eventually decided I wanted to migrate to an open source solution that ..."
     publishedDateTime: 2020-01-29T19:19:00Z

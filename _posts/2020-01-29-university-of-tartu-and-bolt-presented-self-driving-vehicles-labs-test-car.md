@@ -23,21 +23,6 @@ images:
     height: 535
     title: "University of Tartu and Bolt presented self-driving vehicles lab’s test car"
 
-related:
-  - title: "Are self-driving cars a solution for transit? An East Coast test shows their promise and challenges"
-    excerpt: "In the Seattle area, a collection of companies is joining in AV research. Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. (END OPTIONAL TRIM) The service in ..."
-    publishedDateTime: 2020-01-24T20:40:00Z
-    webUrl: "https://www.heraldcourier.com/business/business_ap/are-self-driving-cars-a-solution-for-transit-an-east/article_f30d1f60-0326-5817-b1bc-360c1ed811da.html"
-    type: article
-    provider:
-      name: Bristol Herald Courier
-      domain: heraldcourier.com
-    quality: 10
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/custom/image/924d18d2-c893-11e6-a201-97fe62cf4d14.png?resize=600%2C600"
-        width: 600
-        height: 600
-
 secured: "YaFqVozr+Qff+LlBuCCzyEUY6JcHsWD33MRNnha5QoP24KDa6xkiJ7/uAVB1lj2hIM6RHwioXWO1UJ1soryZ+25k2pfE6pxtqqiqaGG3qBrFyTwRMcjSFWMQVlIlkV+zc56misaQhD5KW/7SR6n2aLoOQ8+tHtD9c+TWJ/Z3ZKoJzevFuTZQ4y2gr3IpSTmQ/yxYhfLfV6ODYhBHzyDbLpco6GtrDsBB4ZnAJSttRgcz6rr8JIi83S4jXV65GW9viz4ieRVuc0ilk7dzR3VDtuIpdYma9C+tNCi+gibWcl6WCepEftxkUJp4YCCaApMR;vXxOoBjXWGLI6QnqT7tUkg=="
 ---
 

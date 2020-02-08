@@ -151,21 +151,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3000%252C1967%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1049%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-09%252F7cd3aa20-d5c9-11e9-bfdf-f6cf4ed8fd54%26client%3Da1acac3e1b3290917d92%26signature%3D97a83aa9ae2218b6dd359d390851ef7dc3f57940&client=amp-blogside-v2&signature=b11fbb43be2b690ae62c9c1c250d6081b105e1ff"
         width: 600
         height: 350
-  - title: "AI Weekly: Calls for facial recognition moratorium highlight need for protection from surveillance tech"
-    excerpt: "The debate over whether to ban or place moratoriums on the use of facial recognition started last year in cities like San Francisco, but the debate reignited this week when Alphabet and Google CEO Sundar Pichai said he’s open to a moratorium on facial recognition. “It [facial recognition regulation] can be immediate, but maybe there’s a ..."
-    publishedDateTime: 2020-01-24T21:02:00Z
-    webUrl: "https://venturebeat.com/2020/01/24/ai-weekly-calls-for-facial-recognition-moratorium-highlight-need-for-protection-from-surveillance-tech/"
-    ampWebUrl: "https://venturebeat.com/2020/01/24/ai-weekly-calls-for-facial-recognition-moratorium-highlight-need-for-protection-from-surveillance-tech/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/ai-weekly-calls-for-facial-recognition-moratorium-highlight-need-for-protection-from-surveillance-tech/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1139859542.jpg?fit=1800%2C1415&strip=all"
-        width: 1800
-        height: 1415
   - title: "How to enable facial recognition in the BitWarden mobile password manager"
     excerpt: "The latest version of the BitWarden Android client supports facial recognition. Find out how to enable it. You need to be using a password manager. Period. There are simply too many reasons to be doing so and too few reasons to not. For the longest time I used EnPass, but eventually decided I wanted to migrate to an open source solution that ..."
     publishedDateTime: 2020-01-29T19:19:00Z

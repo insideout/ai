@@ -3,11 +3,11 @@ category: news
 title: "The controversial facial recognition tech from Clearview AI is also being used to identify child victims of sexual abuse"
 excerpt: "A software startup that scraped billions of images from Facebook, Google, and YouTube is helping to identify child victims of sexual abuse."
 publishedDateTime: 2020-02-08T12:03:00Z
-webUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2"
+webUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2/"
 ampWebUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
 type: article
-quality: 79
+quality: 62
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - Computer Vision
 
 images:
   - url: "https://i.insider.com/5e3db92a0ce3d1240312779c?width=1200&format=jpeg"
@@ -236,6 +235,6 @@ related:
       domain: racingpost.com
     quality: 19
 
-secured: "8lbTHv+R3Amb5ncsJpW6xj4HMZz8h5QrJJnv/J4pQz28RGaL/zyank1ZzWPiSbB7Z7m8U5gVfNai/Ym8VSW7KPythTeuF61zqN6OcPB97QbA0Z64yQu+ankfL7x8i7f/2x2Mg7s3tAM5ZJbfFBh8EAabnBMa3EHjuXEVPnxHjLHVmmCf+kRPWhJ+9/iUGImd5vyD+e/rSWDvu3XMVZgz+9gSa5cHpVluxCuQHgyGYk3zS/0qvU7dTOCXJkqxcChdGd7A3OYiGxXuv2A3Aef4xr8KN2HP5DSDEKjvLcWFgGvxz132yD1+YO8I67qgXIbG;v1trodYfeV/Jqvzqy8Cq0A=="
+secured: "UQabTgUa+YFBT5Nd8g4EeahLi8xa+TWdaH04+X1dwl4Yqkkp47g7OuO0uS31kDvmS0gL3DR0OPzZUZXAjxnojUJWC1NaAzeGbuhU3mKn/R+JlepPzhMSwrZ6YbXTSS9wDbNnqY0+o1K9qbN3zRW3fhK0fh2Ab9sELa5Zm+J0oZ+bWTx/f7YHUpYmHlWi3CSh3HqcpJjw74fwyJJqGudC47B08I5JR6LIX1UkaPnxQbjqt2+SSVjkel68e0YE0xMw71wzolf4xHFMiDEIovh2TpbXBl7JGPCAdy3J2ysA160lRyiXPSlnl71UnfiB4b4y;XYvzBmBVfic8Sjc326Qh+A=="
 ---
 

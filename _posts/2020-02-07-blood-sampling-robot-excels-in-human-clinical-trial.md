@@ -24,6 +24,19 @@ images:
     title: "Blood sampling robot excels in human clinical trial"
 
 related:
+  - title: "Rutgers robot draws blood better than humans in first trials"
+    excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the healthcare robot to improve its performance."
+    publishedDateTime: 2020-02-08T13:36:00Z
+    webUrl: "https://www.therobotreport.com/rutgers-robot-draws-blood-better-humans-first-trial/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/alte-cinci-decese-provocate-de-gripa-1024x826.jpg"
+        width: 1024
+        height: 826
   - title: "New blood-sampling robot performs as well or better than people"
     excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
     publishedDateTime: 2020-02-06T20:38:00Z
@@ -52,15 +65,6 @@ related:
       - url: "https://eurekalert.org/multimedia/pub/web/223630_web.jpg"
         width: 1440
         height: 1158
-  - title: "Robot Does Superior Job Sampling Blood"
-    excerpt: "Data from this study will be used to enhance artificial intelligence in the robot to improve its performance. Republished courtesy of Rutgers University-New Brunswick. Photo: A prototype of an automated blood drawing and testing device. Credit: Unnati Chauhan"
-    publishedDateTime: 2020-02-06T17:49:00Z
-    webUrl: "https://www.laboratoryequipment.com/560529-Robot-Does-Superior-Job-Sampling-Blood/"
-    type: article
-    provider:
-      name: Laboratory Equipment
-      domain: laboratoryequipment.com
-    quality: 19
   - title: "New Blood-Sampling Robot Performs Better Than Humans"
     excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance. Rutgers co-authors include Max L. Balter and Alvin I. Chen, who both graduated with doctorates; Enrique J. Pantin at Rutgers ..."
     publishedDateTime: 2020-02-07T10:10:00Z

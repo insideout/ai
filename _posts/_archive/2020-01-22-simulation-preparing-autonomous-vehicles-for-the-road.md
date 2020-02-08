@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Simulation: Preparing Autonomous Vehicles For The Road"
-excerpt: "Google, Apple, Baidu and automakers globally are currently working on their versions of the autonomous vehicle. Right now, the war to be the “first” to complete a fully autonomous vehicle is at full speed."
-publishedDateTime: 2020-01-22T14:36:00Z
+excerpt: "Heikki Laine is VP of Product and Marketing at Cognata, a company that specializes in simulated testing for autonomous cars. Google, Apple, Baidu and automakers globally are currently working on ..."
+publishedDateTime: 2020-01-22T12:08:00Z
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/"
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/amp/"
@@ -29,6 +29,6 @@ images:
     height: 640
     title: "Simulation: Preparing Autonomous Vehicles For The Road"
 
-secured: "/UOZa0M8KEt8IDeUw4qEaGoJy/LVgq/EVsqEX3yiKo5luQlDYbf5ejbDreOWFSk0yRBAJmHP3VXyK2C9fwghkbkzwu6sJ6v1N1XS2VXa7cz463XUPBL5LwJ7hlGoILwC1azJu8Gru5x6sMHs3BWYq5M01bpXIO4pZs3n5rNrQw7yhjEFSfyJIrBWmq/2aTLicRvTOc4rt/TdjWrmEfeU5t7RRs37XwyQi/ueV4bLgFfFhHU7z12IqRWaaPNcyFNSr8JiXuejPlov+82tFRn6a+9NPkv1K9xxhWHI6Xa7WbA=;Id/DFl9mvoIRFzdX1G23VA=="
+secured: "lpZnJp+NnNsDGIyRBVJc9Ye255G58HdvyCe0C32UUQZkWNk9KHeLYxHLGB5l0xYoDPQOj9het9x8cK+7m+WcPcu8i5vDq8YwrMPhj27ogR9bThSKzmMTV+5S+3AdmkPPWXgagKclEosX0GSLDNalhHM3Xy7mJoa/Xainq5A9OS+HXpjuN+kAIenwc91bdkkT+C/C6PU6yeHVhbKad8OWvhm3eSn0GcyRhIeiN3ZRKInocRf2TqKaTl5FbMVSOD1TyuFztr77hku1Gif8io28cbTWZseNCiwMjZDPRKeyuLVW33yfSSV6SHMPZFHSMKGC;Ionu3r+IvtwnFHQ0CyE3RA=="
 ---
 
