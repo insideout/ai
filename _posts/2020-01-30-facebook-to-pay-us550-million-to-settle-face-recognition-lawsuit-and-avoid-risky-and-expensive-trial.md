@@ -18,45 +18,36 @@ topics:
   - Facebook AI
 
 related:
-  - title: "Facebook will need to pay $550 million over face recognition issue"
-    excerpt: "Remember back in 2010 when Facebook started tagging you on photos? That was the starting year of the company’s facial recognition software. However, the feature came without anyone’s consent. Shortly after, a case against Facebook was set in motion and the legal dispute officially started in 2015. Join GizChina on Telegram In 2018 the case ..."
-    publishedDateTime: 2020-01-31T19:11:00Z
-    webUrl: "https://www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-million-over-face-recognition-issue/"
-    ampWebUrl: "https://www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-million-over-face-recognition-issue/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/31/facebook-will-need-to-pay-550-million-over-face-recognition-issue/amp/"
+  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition settlement"
+    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
+    publishedDateTime: 2020-02-03T23:02:00Z
+    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
+    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
+      name: Canoe.com
+      domain: canoe.com
+    quality: 50
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/01/105135707-GettyImages-944827400.jpg"
-        width: 678
-        height: 381
-  - title: "Facebook pays $550M to settle facial recognition privacy lawsuit"
-    excerpt: "The settlement came after Facebook was sued for collecting facial recognition data to use in tagging photos, which allegedly violated the Illinois Biometric Information Privacy Act. Illinois is the only state to have biometric privacy laws that allow people to sue for damages if their rights are violated."
-    publishedDateTime: 2020-01-30T15:58:00Z
-    webUrl: "https://www.christianforums.com/threads/facebook-pays-550m-to-settle-facial-recognition-privacy-lawsuit.8147300/"
-    ampWebUrl: "https://www.christianforums.com/threads/facebook-pays-550m-to-settle-facial-recognition-privacy-lawsuit.8147300/?amp=1"
-    cdnAmpWebUrl: "https://www-christianforums-com.cdn.ampproject.org/c/s/www.christianforums.com/threads/facebook-pays-550m-to-settle-facial-recognition-privacy-lawsuit.8147300/?amp=1"
+      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
+        width: 1000
+        height: 750
+  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
+    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
+    publishedDateTime: 2020-02-03T23:00:00Z
+    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
+    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
     type: article
     provider:
-      name: Christian Forums
-      domain: christianforums.com
-    quality: 39
-  - title: "Want your photo removed from our facial recognition database? Just send us your photo and government-issued ID…"
-    excerpt: "My hunch is that you wouldn’t be happy when you find out a company has been scooping up the personal photos you upload to Facebook or Twitter, and feeding them into its facial recognition database without your permission. But that’s precisely what a controversial firm you’ve probably never heard of called Clearview AI has been doing."
-    publishedDateTime: 2020-01-25T08:25:00Z
-    webUrl: "https://www.grahamcluley.com/clearview-ai-facial-recognition-database-twitter/"
-    type: article
-    provider:
-      name: Graham Cluley
-      domain: grahamcluley.com
-    quality: 19
+      name: Canoe.com
+      domain: canoe.com
+    quality: 46
     images:
-      - url: "https://cdn.grahamcluley.com/wp-content/uploads/2020/01/clearview-ai.jpeg"
-        width: 730
-        height: 380
+      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
+        width: 1000
+        height: 750
 
 secured: "jC4B98WlE4fQqtcU48cvBCy30wszryXZL87rM9fp69hWfxX7bQkvtIrRzD0KJHxN7ahBM526yrqtMGbSbiBzFZsWldh1FPdoAhGKQUrxPRjrgUwxon7HiYxWS3UX/cuHypElq5XiiyIQysIYTJF6G5SBs3jb/W+2vfdlCX9QUQH/6nMXz1ZVvA0xV3EdxI0AYxtw1Uv9oO4jJd0AoCI/rE9eO8QcJ/h3pcCg57jJbMf2h4fvhhomdNadjyXJB4e9gf4Acc6aIMldMSAZuwIbyr80U5j0d59dRytazGoC+NnPCOUFieHu5YkG7y9lYAM/Gat4yQtJTqFOvz+00ll+lga+Zi2jq+C6CB26K0yM7e7fK1EZ7yaxj4YVGbo9IAgd+7HeO1ph3UKh3JGCvlQUfaJ1GnTWCvTXmhJrMJ+h/bvtlMj3P9n1zkQxR5VR8Cp57ueop4yG1UBEWJFcNWkGIbLm9KV+eZ2IkKT/TlAGnDY=;NWulsUvZiBfegn4d4Bd6uw=="
 ---

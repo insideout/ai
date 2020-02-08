@@ -41,6 +41,19 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/06/bigstock-Portland-Oregon-USA-skyline-247939699-630x420.jpg"
         width: 630
         height: 420
+  - title: "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society"
+    excerpt: "Many countries today are struggling to find the proper balance between useful facial recognition and connected-camera technologies and those that threaten our privacy. We’re here to make it easy: Public-facing facial recognition or connected home-security camera systems that offer access to law enforcement are dangerous and should be banned ..."
+    publishedDateTime: 2020-01-31T22:41:00Z
+    webUrl: "https://thenextweb.com/artificial-intelligence/2020/01/31/why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 58
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg"
+        width: 796
+        height: 419
   - title: "Government privacy watchdog under pressure to recommend facial recognition ban"
     excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
     publishedDateTime: 2020-01-27T21:31:00Z

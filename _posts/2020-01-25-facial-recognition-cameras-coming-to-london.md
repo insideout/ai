@@ -314,21 +314,6 @@ related:
       - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
         width: 446
         height: 300
-  - title: "London police to use facial recognition cameras, stoking privacy fears"
-    excerpt: "LONDON (AP) — London police will start using facial recognition cameras to pick out suspects from street crowds in real time, in a major advance for the controversial technology that raises worries about automated surveillance and erosion of privacy rights. The Metropolitan Police Service said Friday that after a series of trials, the cameras ..."
-    publishedDateTime: 2020-01-24T21:59:00Z
-    webUrl: "https://www.pbs.org/newshour/world/london-police-to-use-facial-recognition-cameras-stoking-privacy-fears"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/world/london-police-to-use-facial-recognition-cameras-stoking-privacy-fears"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/london-police-to-use-facial-recognition-cameras-stoking-privacy-fears"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 59
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/01/2010-10-18T120000Z_926960977_LM1E6AI119B01_RTRMADP_3_BRITAIN-DEFENCE-STRATEGY-1024x576.jpg"
-        width: 1024
-        height: 576
   - title: "Facial recognition cameras to be used across London"
     excerpt: "Facial recognition cameras are to be deployed across London for the first time to help police target serious offenders, the Metropolitan Police (Met) announced. Technology in Britain Metropolitan Police camera In a major new move to fight violent crime, \"watch lists\" of Britain's most serious offenders will be developed to facilitate live ..."
     publishedDateTime: 2020-01-25T12:44:00Z
@@ -584,19 +569,6 @@ related:
       - url: "https://contentstorage-nax2.emarketer.com/ab38dfa809dcc6b9c4e1d34ceba68d21/default-image-share.png"
         width: 1280
         height: 720
-  - title: "London’s Met Police to Use Live Facial Recognition Technology"
-    excerpt: "Critics of facial recognition took a big hit today, as London's Metropolitan Police service has announced they will begin using Live Facial Recognition (LFR) technology on citizens in the massive European city. As perhaps one of the most controversial technologies in recent memory, debate about the use of facial recognition to police citizens ..."
-    publishedDateTime: 2020-01-24T22:05:00Z
-    webUrl: "https://tech.co/news/met-police-live-facial-recognition-2020-01"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2020/01/24164816/london-met-facial-recogntion.jpg"
-        width: 1920
-        height: 960
   - title: "Adroit Forecasts $12 Billion Facial Recognition Market"
     excerpt: "Adroit Market Research has released a new report that predicts that the global facial recognition market will climb above $12 billion by 2025. That figure eclipses previous reports from MarketsandMarkets and Reports and Data. The former predicted that the global facial recognition market would reach $7 billion by 2024, while the latter forecast ..."
     publishedDateTime: 2020-01-27T22:20:00Z

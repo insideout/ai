@@ -22,6 +22,19 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Landis+Gyr's Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
+    excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not \"smart.\" Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
+    publishedDateTime: 2020-01-29T14:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-landisgyrs-revelotrade-brings-pattern-recognition-machine-learning-the-/2020/01/29/9088829.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
   - title: "Elon Musk calls it ‘financially insane’ to buy a car that isn’t an EV capable of full self-driving"
     excerpt: "He said that by next year, their goal is the same thing but without requiring supervision, and then some time after that,… Leggi"
     publishedDateTime: 2020-01-27T11:11:00Z

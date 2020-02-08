@@ -20,37 +20,36 @@ topics:
   - AI Hardware
 
 related:
-  - title: "AI functioning semis set to soar"
-    excerpt: "The processor segment will expand slightly faster, growing to $68.5 billion in 2025, up from $22.2 billion in 2019. This total tracks sales of semiconductor content in systems that run AI functions. These chips include memory and processing devices within systems that can run AI applications. AI chips are used widely in various markets ..."
-    publishedDateTime: 2020-02-05T12:24:00Z
-    webUrl: "https://www.ept.ca/2020/02/ai-functioning-semis-set-to-soar/"
+  - title: "Waymo Content Search can find billions of objects encountered over 20M miles in seconds"
+    excerpt: "As of early 2020, Waymo self-driving vehicles have driven 20 million miles on public roads. That makes for vast amounts of recorded sensor data to improve the autonomous system. Waymo today detailed its Content Search tool and database with billions of encountered road objects ... road debris can include everything from plastic bags to tire ..."
+    publishedDateTime: 2020-02-06T22:49:00Z
+    webUrl: "https://9to5google.com/2020/02/06/waymo-content-search/"
+    ampWebUrl: "https://9to5google.com/2020/02/06/waymo-content-search/amp/"
+    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/02/06/waymo-content-search/amp/"
     type: article
     provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 39
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 134
     images:
-      - url: "https://www.ept.ca/wp-content/uploads/sites/29/2020/01/AI-Semis-1024x719.jpg"
-        width: 1024
-        height: 719
-  - title: "Semiconductors with AI functions to triple revenue by 2025"
-    excerpt: "Chips that are used for artificial intelligence (AI) applications are set for massive growth in the next five years as use of the technology expands across a variety of markets, according to new research from IHS Markit. Memory and processing semiconductors with AI functions will grow to $128.9 billion in 2025, three times the $42.8 billion ..."
-    publishedDateTime: 2020-01-30T13:13:00Z
-    webUrl: "https://electronics360.globalspec.com/article/14617/semiconductors-with-ai-functions-to-triple-revenue-by-2025"
+      - url: "https://9to5google.com/wp-content/uploads/sites/4/2019/03/waymo-expansion-mesa-arizona.jpg?quality=82&strip=all&w=1000"
+        width: 1000
+        height: 500
+  - title: "Waymo’s AI Content Search tool lets engineers quickly find objects in driving records"
+    excerpt: "AI is the method by which self-driving cars perceive joggers, cyclists, traffic lights, road signs, trees, shrubs, and more, and it informs the way in which they choose to behave when encountered with those signals. The vehicles in Waymo’s fleet aren’t an exception to the rule — they tap AI to make real-time driving decisions, in part by ..."
+    publishedDateTime: 2020-02-06T18:30:00Z
+    webUrl: "https://venturebeat.com/2020/02/06/waymos-ai-content-search-tool-lets-engineers-find-objects-within-its-driving-records/"
+    ampWebUrl: "https://venturebeat.com/2020/02/06/waymos-ai-content-search-tool-lets-engineers-find-objects-within-its-driving-records/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/waymos-ai-content-search-tool-lets-engineers-find-objects-within-its-driving-records/amp/"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
-  - title: "Sales of semiconductors performing AI functions set to triple by 2025, says IHS"
-    excerpt: "The processor segment will expand slightly faster, growing to US$68.5 billion in 2025, up from US$22.2 billion in 2019. AI chips are used widely in various markets, including automotive, communication, computers, consumer electronics, industrial and healthcare. The largest single market for memory devices in AI applications is the computer ..."
-    publishedDateTime: 2020-01-30T02:42:00Z
-    webUrl: "https://www.digitimes.com/news/a20200130PR200.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 15
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/waymo-ipace-e1572290208222.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
 
 secured: "3F/+Apyeg2jdisqlR1LMFFm8IJCJtfzeHO+pACu2vn9AVwQtOT+8O8rHvygxyWpmGNb88U3vKuWXOSIp8VslmXi+4XmyvniUfxoyZBi6vpSbhfTuvXEwKy62sHroHzu0/Oge9jhs71d5I0prtbwyvvbP6nh13ZVcjrsUVqz9q/gDdSMVskir2y0uuddwKI/XdjarJ5elFy6SvQkz8enzLHznlySW9jRR1ZKKHtXfgXSqt4vypjEEKsdkezSVCCtt15anM2veKW6F3QqY8codbwY9q00NU0qxmgT0Oqrs7KPvYHvS+rLZigwvFCeKW2vFyCSDnR//s79lFCjAft3yuQ1JgoG/AOmmV1OPGj6sk+WMvSJjWIu77oKYu4YeoiaZfRNFe32BgMjbqIFDpOV+jHhfi3bQBctJHI1ierrMlnkWg0+veLSnblmnorOIN6ePWqOgPvhFh436+tffFlYGP8OqvRDRqvx1HyQEC5ufMhA=;ORWL1ZAxV/5kcJffkfGHsA=="
 ---

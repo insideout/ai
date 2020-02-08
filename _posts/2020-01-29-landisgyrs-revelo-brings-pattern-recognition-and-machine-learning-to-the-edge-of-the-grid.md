@@ -25,19 +25,24 @@ images:
     title: "Landis+Gyr's Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
 
 related:
-  - title: "Facial recognition fails in China as people wear masks to avoid coronavirus"
-    excerpt: "For hundreds of millions of people in China, the spread of the new coronavirus has caused abrupt changes to the smallest of habits -- even a gesture that most in the country are used to by now: Looking into the camera for facial recognition. Residents donning surgical face masks while venturing outside their homes or meeting strangers have ..."
-    publishedDateTime: 2020-01-29T23:09:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3048147/facial-recognition-fails-china-people-wear-masks-avoid-coronavirus"
+  - title: "Tesla Q4 2019 earnings call: 'Full Self-Driving', battery day and insurance discounts"
+    excerpt: "Another Tesla quarterly earnings call has come and gone, and from it, we've learned a few things. Namely that there's still a ways to go until \"Full Self-Driving\" is realized and that Tesla owners will be able to take advantage of using their vehicles for Tesla ridesharing even before the robotaxi fleet gets off the ground. According to Elon ..."
+    publishedDateTime: 2020-01-30T01:35:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-q4-2019-earnings-call-recap/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 52
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/01/29/mask_3.jpg?itok=o51DKRSy"
-        width: 1200
-        height: 630
+      name: CNET
+      domain: cnet.com
+    quality: 42
+  - title: "Elon Musk calls it ‘financially insane’ to buy a car that isn’t an EV capable of full self-driving"
+    excerpt: "He said that by next year, their goal is the same thing but without requiring supervision, and then some time after that,… Leggi"
+    publishedDateTime: 2020-01-27T11:11:00Z
+    webUrl: "https://www.informazione.it/n/E58F4EC8-B79C-4A79-A2C4-4A525596CD49/Elon-Musk-calls-it-financially-insane-to-buy-a-car-that-isn-t-an-EV-capable-of-full-self-driving"
+    type: article
+    provider:
+      name: informazione.it
+      domain: informazione.it
+    quality: 0
 
 secured: "frjA0cHUaGKddRfaHPMGubvrdK+MKh4WtXq5BmNue/P6f02A7SsRli/+WVqJN1FfAhZDxu54zvXhVc0EqG/78sRHPc7g5wfUL9TkbF6JbEcnsnZHzdTNb6/OZKOg/EA/KbiykZJtNYdUJU3c0VOcgDgJjH/JDCW1VVA6DiBrDSMJ+/oURhegfMgdfTUAurOqpP1ss//fWQfeeaNUFDnw8+JoOH/1+GCX7AKpu/bV0kOnSHc/6PhAZCwSzF1UlS0O7nH1sfdFimFn5pCxg3EZFd+9pHaQ20BXGcFWNxReW/ybnR380tBO39iUQAvucHqD;wN1eSXpbGqaew+44M+G9zA=="
 ---

@@ -5,7 +5,7 @@ excerpt: "It may differ from the actual product.) - Development background In re
 publishedDateTime: 2020-02-08T00:26:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/triple--inc-announces-ai-processor-goku-for-deep-learning/article_070b466a-90ec-5054-bc5b-16e2a2c9413a.html"
 type: article
-quality: 16
+quality: 33
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"

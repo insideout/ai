@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T11:10:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
 type: article
 quality: 79
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -146,6 +146,15 @@ related:
     provider:
       name: ARN
       domain: arnnet.com.au
+    quality: 0
+  - title: "Voice Recognition Software Market is Thriving Worldwide with Nuance, Microsoft, Alphabet, IBM, Amazon, Sensory"
+    excerpt: "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Global Voice Recognition Software Market various segments and emerging territory. Advance Market Analytics released the research report of Global Voice Recognition Software Market, offers a detailed overview of ..."
+    publishedDateTime: 2020-02-04T19:16:00Z
+    webUrl: "https://www.openpr.com/news/1919007/voice-recognition-software-market-is-thriving-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
     quality: 0
 
 secured: "Y72uPaUdyAYjksbs18DGRBPP6d7LeUJAy9zodPDHleRffRN+sjIh4PGChUmmRzEzZ8FA0ksDbKiJpM9ou1nb0nlTq/97ifT8i7vyI1WLXtok3iZWcuS4adqPH7xU+f/wfnHisTQvcJhxeryH59e1osukwaEEK03i9H1JmS2zrdl7KDm8vXrlzQp3g5YpKOadHOdmOzGePW0rtp0Kum3xc+lLJQaZhbWMdC43yoWk6+ps1QIyfNX/7/Prfb0np+IBSuD6BtPPA77F+bRf8PXmHPVBbBFbTep2uNXDA/SsKgpiN3IPpJCIsxlJZxtAXIjp;b/SSbN5BpEKfrcnsdr3EqA=="
