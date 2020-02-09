@@ -98,19 +98,6 @@ related:
       - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
         width: 1920
         height: 1080
-  - title: "Rules eased for self-driving vehicle"
-    excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
-    publishedDateTime: 2020-02-07T06:44:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?latest"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
   - title: "US lets self-driving vehicle bypass human-driver safety rules"
     excerpt: "DETROIT (AP) — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
     publishedDateTime: 2020-02-06T18:08:00Z
@@ -119,6 +106,15 @@ related:
     provider:
       name: Penn Live
       domain: pennlive.com
+    quality: 4
+  - title: "Rules eased for self-driving vehicle"
+    excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
+    publishedDateTime: 2020-02-07T06:44:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 4
   - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
     excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."

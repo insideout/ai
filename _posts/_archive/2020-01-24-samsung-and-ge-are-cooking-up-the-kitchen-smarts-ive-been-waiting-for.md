@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Samsung and GE are cooking up the kitchen smarts I've been waiting for"
-excerpt: "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. I spent 15 minutes trying out the newest version of the Samsung Family Hub smart fridge at Samsung's CES booth this year. It was just me, the fridge, and version 5.0 of the software that runs the 21-inch touchscreen ..."
-publishedDateTime: 2020-01-24T15:23:00Z
+excerpt: "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. The newest version of Samsung's Family Hub smart refrigerator ..."
+publishedDateTime: 2020-01-24T15:21:00Z
 webUrl: "https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
 ampWebUrl: "https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
@@ -34,18 +34,12 @@ related:
     excerpt: "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. The newest version of Samsung's Family Hub smart refrigerator ..."
     publishedDateTime: 2020-01-24T15:21:00Z
     webUrl: "https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/"
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg"
-        width: 756
-        height: 567
+    quality: 49
 
-secured: "PEqCGwMMqaTn/EK5DihRaf/ye02pqHsPicCP1Au0qj3xKraVvcwBpykq+a5k5lDFPcudPmrAR5/9vQKQsEdcmWWq74F4Hfc1m2pSWO0zWmLKjRdNXJ0ZUS1UEmjFBcCFZuNkKOBksk1B66KrCpdSDrIlZC17DQVitFlLp+p2p3+lfMuZh1lPNtDWoSaiDvxPT1KwRT64A8ZSx9WSeaaq5Y9N1sdCvYy2FuR6M9j8pOXpXGIEogc55fojNvTqM5kwf9SrnV39nOxcwgmo5mMfEetpVllJMjb606CB+yxNQrNkfDWjwgMy4veDiqbFUUTHAmYm74ICK5uPvwx6l+G5GVz9aJx+Fy+lDWRiPobOUZYDhwv6xeFO+f6i8A14OuxJpHO46XTV1IiLLAQiyhgarSgi+lc2acrNXQcS322yxTWeJ0PFb02rT6DmVCYY7tl0mjVZ3Tv3enlMjOrlkQiyO+cVwpI28CKPGjf6mOMd8i0=;exGixhNNdnVTQGswgOcD/Q=="
+secured: "wsBbZOPhiLYIgCh0uvMwXDAeZ+fs4YmhWhbi17t0t+zOmKen/wv7AqZOAtM9Hyjw0fvR7VC9zRJ4ioXZnyysNjC7xMGKVDWpdg/sKdiHpMG+0qOQ3vQEq56Ix69/A0p4/dpZH9G+qrA+ZgNZVvFZrLn019ebfqE+zjaiSfJVsLs8l+Bjs26pxWBmyrKZ1QEuiGgOzaQGmIfZRJ3lLjXAZDrpRcTefyVBK98Tz0S9nysGStev5/tLgBh/eu4cnjTcp4xZOiGwuajRtzo9LmcU5fR3htvBPQUxp2+ZdILLtuRys2/R8dzzx2IiVvYialoC;IxlWiuqfjsCa0TFI47hD/w=="
 ---
 

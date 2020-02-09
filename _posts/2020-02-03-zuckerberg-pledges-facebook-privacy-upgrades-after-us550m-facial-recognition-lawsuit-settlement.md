@@ -41,6 +41,15 @@ related:
       - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
         width: 1000
         height: 750
+  - title: "Illinois privacy law leads to $550M Facebook settlement over facial recognition"
+    excerpt: "CHICAGO — Adam Pezen, Carlo Licata and Nimesh Patel are among millions of people who have been tagged in Facebook photos at some point in the past decade, sometimes at the suggestion of an automated tagging feature powered by facial recognition technology. It was their Illinois addresses, though, that put the trio’s names atop a lawsuit ..."
+    publishedDateTime: 2020-02-09T20:40:00Z
+    webUrl: "https://www.bostonherald.com/2020/02/09/illinois-privacy-law-leads-to-550m-facebook-settlement-over-facial-recognition/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 15
   - title: "Facebook to pay US$550 million to settle face recognition lawsuit and avoid ‘risky and expensive’ trial"
     excerpt: "If Facebook had lost it might have been forced to pay US$6 billion, according to Matthew Schettenhelm, Bloomberg Intelligence litigation and government analyst. Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest ..."
     publishedDateTime: 2020-01-30T04:04:00Z

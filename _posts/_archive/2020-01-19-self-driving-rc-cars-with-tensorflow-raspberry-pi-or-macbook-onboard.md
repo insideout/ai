@@ -5,8 +5,8 @@ excerpt: "These two sources are fed into a neural network using TensorFlow. You 
 publishedDateTime: 2020-01-19T00:00:00Z
 webUrl: "https://hackaday.com/2017/06/06/self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard/?source=post_page---------------------------"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://hackaday.com/wp-content/uploads/2017/06/self-driving-rc-cars.jpg"
-    width: 3872
-    height: 2408
-    title: "Self-Driving RC Cars With TensorFlow; Raspberry Pi Or MacBook Onboard"
-
-secured: "2hrN75QjsFzb+uYl+TKpJo9gBIipC/9wr8Mxozv/DwqJMzfHzOxE3z2kv/BXuLtehxgXSgGD0JvIpCNtFBvhFzRifceERZVGpVwBrEZYqe1VlwLw8bHpaQTmlDYorPqx2SMuAPcx0/Y5RQWgxi6OWmkyXfe3luyAN9xl55QsiOVQftwv2z+dmFlmSy+XFyuz5kfD97m1PjK4s9AnYC7NBrmjfS4n0dHGSFvXf491c0w5CZGFaYUr+ZxCtdStTracx5lJC3mhVTlhaujgGo36zbTsGWgLrDQY/+fcAuU6BDeH1laSlT0X+SHIwo1nCbOz;rLbTS+igcMRjguVI8M02Ug=="
+secured: "erG6FqvlIptkmWbNihTsA8pHhG5aWH3y/0z4OXhSQCYmCNvYVYWkmEK+t7rA8i0F1QIGqEPUdYGOQpYA9IjhfMyZcCIXO8cH5GIp9SXMDeiwJlA+P7H2BnVnSaz4tvgzF5VpuW0SlDHioaoUPSs4L72xrrnbGs6QqqoHxnuxW+EoBbNFl538KfkRtS3/e6PwY/pYuyvbJhNPNN0JIDt5hd1EvKYVc1Qqf2EY1pBmgn5BdVlx3KjjyC+/MIn9mofDILyFGVmmRrOMuvR+X0eEPVYVIbr1fN3xufj/gZKpuEwpoysZ9URSFOAPlwCLCwSs;HCh7Rz7dvb8MKnnWrQr60g=="
 ---
 

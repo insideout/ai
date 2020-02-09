@@ -30,13 +30,11 @@ related:
     excerpt: "The Udacity course, Intro to Machine Learning with TensorFlow, includes areas like manipulating data, supervised and unsupervised learning, and deep learning Udacity announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow. The next-generation program in machine learning (ML) introduces learners to the ..."
     publishedDateTime: 2020-01-24T11:44:00Z
     webUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/"
-    ampWebUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
     type: article
     provider:
       name: Dataquest
       domain: dqindia.com
-    quality: 36
+    quality: 16
   - title: "Learning Platform Udacity launches Intro to Machine Learning with TensorFlow Nanodegree program"
     excerpt: "Learning platform Udacity has launched a new Nanodegree program : Intro to Machine Learning with TensorFlow. The Nanodegree program incorporates advanced areas such as manipulating data, supervised & unsupervised learning, along with deep learning. Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ML ..."
     publishedDateTime: 2020-01-25T04:45:00Z
@@ -45,12 +43,8 @@ related:
     provider:
       name: tech
       domain: techstory.in
-    quality: 27
-    images:
-      - url: "https://i1.wp.com/techstory.in/wp-content/uploads/2020/01/Udacity.jpg?fit=768%2C403&#038;ssl=1"
-        width: 768
-        height: 403
+    quality: 7
 
-secured: "O++s82eA0IH+Btq5VR2I5gigJCnumYZVHw9N3GxWgJB/JYsNGzexj+LOQVBEbFN0/88IvtaCKTXWnJGX04tEYXVA/dR+WtcMvYfSGVE+rEameWkWPvbaVYQNSrw5Og4wkMZN94dBdFRTnYzYoAowlgb01P07EbwR5op5G/XzHHaQRQC02BB9MCM11EOXZj+L8D431N+6lZ9yKVLjvhw7OycZcGguwOZHDoGjlmjWD0Sxz26XxjHpiGU+5Sn7Hw/3QvJyxl6D0JHPUmMx4yvAwg8RIKr3EI5F/6+W/y7tGB77xRTiD+yeOuWqkXAbG0QZ;ZHlYUegTsrfQSHt4S3Sadg=="
+secured: "eWH4TwLdb2W/dq4Y3FF/Je4eoIzF2KBvyFC/nsOyv6pXjLdW5kqkcaX/Z0w8yLu19j+iL0w4Ojsjt3YJLpzzElMb5c6CvhQC1Cgi/RuYXC5hUWH+7wTFdOQEQ+HOFfoeRRGYRgslIL1au3yxOBe5WmlOnSqPAdjmX/u3Qpd4Vvp6V5D+1xoQzK6hiZfyC7N2QI+b8gHzBIM0pDu7Ms20h/q091Fbdkc0BqxtHzsXhp6w0/mct40K986bwqFjFQaicd2Q5jvufZsZgYgfw8us+rNco6cjwblqvb1i/6KIYIkhI0NdE2RZenNs8X1GFXAb;kraYxtHPBHex8BPd6PMXsA=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Speech recognition makes it easier for us to be lazy with our devices 
 publishedDateTime: 2020-01-24T00:00:00Z
 webUrl: "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://hackaday.com/wp-content/uploads/2010/07/capture7.jpg"
-    width: 356
-    height: 244
-    title: "Get Started With Speech Recognition"
-
-secured: "ZXy4ACGNRKHbFzhty0a+D2Z3uml38Q9XaM75+OsmcdGt3DjcO2988X8gOJl6fsJp4rvlUzCDDEJ7a3ujM3FCKt0bMYTkifQpnDthU8bPl0t0FGHts6Ooda1LIe2usn8c28OPJKKaCNsB+QAasu+tFERCc3As/XPgQHGyDeJeTvQBXW4Yuk+n/mMrPmvfnU8X3YKY3AM9FuOZePYeMMgSXw/YRmNUvyiEGiy+7bPvGFkW/WvbXJuviRiGuupmwZq9YFJC8n8zUjOxuVRiD5hZK6KSeSA01tKgFsJ4vSRkHvTbgNgh80eGrwhFgDKmqor4;UwxJ1EA21O1g0/NtfEnPPg=="
+secured: "J6UaxboNTjkFfcLty+C8J6zNNinQRaiRq6Svflr10MLncbxIvDj9pFtYP+bk+gv6lNKtaJV2XrjerFjdtp8P2PpDDPdysFpeJMUvZOSukDd+cCij1JntGymCA95JzkSvr12L2eFts8qC4qMjPA50NSPs5TFahQ00SmZsshRhYNONIoiwjz43McP9kkKyWshiTY8VOO9F0FKeR9g/5sNeQPKDHtcJVhXnIqC5pRSvo/XXmRgIZ1F7SWUsDBLkTFmQGI6edkqP4UVBd3Lwnhkx23hP7C1G3F77nYeC5SRtLGzbZZnNhhl/CbIgRr9RWKfg;v6zFCG0l7O+dHnmOCikHDg=="
 ---
 

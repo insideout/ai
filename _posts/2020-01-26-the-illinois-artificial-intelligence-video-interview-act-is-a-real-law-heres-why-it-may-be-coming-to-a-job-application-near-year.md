@@ -24,23 +24,6 @@ images:
     height: 675
     title: "The 'Illinois Artificial Intelligence Video Interview Act' is a real law. Here's why it may be coming to a job application near year."
 
-related:
-  - title: "Now artificial intelligence is screening job seekers’ videos. A new Illinois law requires businesses to disclose their use of the technology."
-    excerpt: "Illinois residents who made finding a new job one of their 2020 resolutions will have a better understanding of how employers use artificial intelligence to assess video interviews, under a new state law that is the first of its kind. The Illinois Artificial Intelligence Video Interview Act, which took effect Jan. 1, requires companies to ..."
-    publishedDateTime: 2020-01-26T04:28:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-illinois-law-limits-online-video-job-interviews-20200124-y2fuvlfzxzftnatx7olabgrule-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-illinois-law-limits-online-video-job-interviews-20200124-y2fuvlfzxzftnatx7olabgrule-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-illinois-law-limits-online-video-job-interviews-20200124-y2fuvlfzxzftnatx7olabgrule-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 22
-    images:
-      - url: "https://www.chicagotribune.com/resizer/gC8OQs4VQJyuVQc8pQCa5qnV2zw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/ICOYESEI3FC7LC3FDXDATNBUPY.jpg"
-        width: 1200
-        height: 792
-
 secured: "VSakIXm2jIR0k6rqc8kBuX0guh+xTknb/bjNw3q9u6i9E/AeSWAmfwIkHl5Aro2y89Wgvg5Wz49ESr+RySGbM1ptITKTh/Eh7qrXt1h337B87ZNhmQO4Swq4hJxRSE3ykj5j8i8qUyz/wIqGlZ9Lrwk5bCIb5kKysH25dn3nGo9DfJC5sIF8u7R2CL2lsAMAGLLO7JwH9MqVJqFs75Zoq0IRL082cvAWlJEGsB7Vqku26MX7fa6E/914HC1ZJATdHLTiSCcEQ2Kvp9Eqyiyjo+RrygHipC8/5pz3LwgVzxTHnxuxw+qRhl7tqEybaumCqAMuKlxgbPzdrYoIDqMaL39go20JvRb3c+FA2ID/eS25sue+O/eqvugMeqtI4wNjYd9QFOxZpDqI6L8v2y48afqkpJevloGJ+h9Ft8UFYSEH3ALM9k+ITqFscDrAXUkjI34uFibI3iCTWsqKv3NEQ/exk92uUbC/Rkxosro8Mo8=;TAuMD/zYxWzwWJ4PoBlcmw=="
 ---
 

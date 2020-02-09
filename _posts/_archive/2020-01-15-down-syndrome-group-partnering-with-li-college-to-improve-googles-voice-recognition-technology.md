@@ -4,10 +4,8 @@ title: "Down Syndrome Group Partnering With L.I. College To Improve Google’s V
 excerpt: "ROCKVILLE CENTRE, N.Y. (CBSNewYork) — Some Long Islanders are helping to teach Google how to better understand them. They’re people with speech differences and they’re helping improve the ..."
 publishedDateTime: 2020-01-15T00:08:00Z
 webUrl: "https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/"
-ampWebUrl: "https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/"
-cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/"
 type: article
-quality: 11
+quality: 0
 heat: -1
 published: false
 
@@ -24,18 +22,12 @@ related:
     excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
     publishedDateTime: 2020-01-11T11:41:00Z
     webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
-    ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
-    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
     type: article
     provider:
       name: TWCN Tech News
       domain: thewindowsclub.com
-    quality: 44
-    images:
-      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
-        width: 600
-        height: 271
+    quality: 4
 
-secured: "87GhLGRETjZWs/ILMJfHFF9F+IlcyoDcKH6+pox1HuzQCU24OHkFHTsc9mQJlgeXAz3wykSax8RXcxYRzSaHvXpFT/zpPsKTMP7zCjCd3qOeunnoCW4sHC15kfL6lXPlQER74UxkFl9giS31YxKwMz3zDn1Q9w1QqMPodUOrJ2RfDMnR4HLdzSg1Rm3kM4InB/ezRQHwJc+wZyGQ9hXtGJ0ipQb+1lq7mmXm69A7ZwNI9MWKTYJc94XCitK0FE0gGD3HEFTCqa+J4BIpENIatJBlZUvQHQ5iXjUIJr7KRZ6VAmLKaAQeqg3TZs4rkNuY;jjDwyleoX9VoVqwVlOMJEw=="
+secured: "45ptYXWV176MBdlRh68bfub6dsk3g5D9s+gWj4XPFhrVR44/1u06BZz6Ja3qpesKkXO7XH+Q+1JSiUk+r7K4U/o+YQq2agBcClkgmXwuCYv5uDuuYtO2jxAnh+vCbzzm9r89mmVEFXkegJQ75KsF2DkfqRap5ebjTa+ZE6X+G9WPFX8UIIGjmX57PqqvR4mpUGh3ETtGQYSlWGAfRh6KyOe4PrqweKk2roS1lliKtvRr26Vyp5TwER01Y3HVT52Wep/J3Rf/Ueadnn1V1usFjcmT4Ref49/nSV6sJKrmMNb7NPJxK+hhmO90XEN7ogV1;FSr03w77VpnMkws7TqJRNQ=="
 ---
 

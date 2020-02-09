@@ -131,19 +131,6 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/01/microSD-card.jpg"
         width: 1000
         height: 750
-  - title: "Developments in Artificial Intelligence for Mental Health Care"
-    excerpt: "Advances in artificial intelligence have considered computers to help doctors in diagnosing disease ... Advances in big data analysis techniques will before soon grant the automation of literature research yielding high-quality information on a wide range of complementary and alternative medicine (CAM) modalities. Getting big data that is ..."
-    publishedDateTime: 2020-01-26T04:35:00Z
-    webUrl: "https://www.analyticsinsight.net/developments-in-artificial-intelligence-for-mental-health-care/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/Mental-Health.png"
-        width: 1200
-        height: 675
   - title: "Year begins with bang for AI drug development"
     excerpt: "The company noted that less than 5% of AI professionals are working in health, despite this being the area of ‘most urgent application’. As a result, Microsoft will work with nonprofits, academia, and research organizations to provide them access to AI ..."
     publishedDateTime: 2020-01-31T15:55:00Z

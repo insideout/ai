@@ -4,11 +4,9 @@ title: "GM's Cruise unveils its first driverless vehicle"
 excerpt: "This is not Cruise's first foray into driverless cars ... are in a race to launch self-driving cars using the latest artificial intelligence (AI) technologies although they are being held back ..."
 publishedDateTime: 2020-01-22T04:24:00Z
 webUrl: "https://www.bbc.co.uk/news/technology-51171398"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51171398"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51171398"
 type: article
-quality: 59
-heat: 59
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B3CE/production/_110603064_03063.jpg"
-    width: 1024
-    height: 576
-    title: "GM's Cruise unveils its first driverless vehicle"
-
-secured: "fSoDCR0YxMFeH9q9MjFvof+KSEf+FGZMJFmzi9aw89I8aNqs6b1NMHeJ4mcZ6jpyGdZq8P0pz5dYt5evPhsoubTWxbl74X9y8X9GnJ0SA6c46zT6bP5LV+dsx2BZSu9zAnsniU2iwi9CYahjPUfbTxLKEkQLt+0q10+yKclOEBan5wnD3k1BRD/DjGjkuOZgyNlroz0bBvLNgpjcOQogVA0HZOx8QXCWB044YtGuUVKndupIaCCfdC1bbiy+LOega/O0jkyne45D9E8sGXCX3brYVsadv7lqHcQgFHr/TLNZFwtWQ0QtyzZTQ2oN9rSF;5K5yWIfsWt+6Kyp7vBeTuw=="
+secured: "34bODr34VYIftbfKD/vUOwVYh6EHH3qtLoLZHO7eFOwqSKK0XGmq8EveLLGmVbvKvNxODM0fWdlNVbO6ioJ7MpUum0Vt72eU1WaAYbwNKMdM8aP6+wf3qLYJnKEXiD062/gCrQ3zPZwU0HCnvhr0FyIyoKfY83DFXGq/eTXFwsurIE3q4drDlY1S0OChg4MBR9PniAULUGnv+ucIIvDB4qhQdmzWgnSRGeBpXpFzZqOqfEKJxzgyMqRwOHT4+vR7E0CuhVFcMiQPRXbz07Afl8ETqx1392lz6UJbSVX9VULDbSeDaQfrpAdTFcjBwilT;29nyPpwRZBorry6ni1Aw/w=="
 ---
 

@@ -80,6 +80,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "rXKMTH0pvUZvMT0kp1+uEzKDBFqSy39jZp/+SWA9+Y+8ViscGpMkTt2cFfmU2gouhEr7bngEujvohwsg8EzVF9tiWt2vUcBPMRwFRYCnLjbVxiivHTZkBAEsATlb2ib0/y1vtNSc5HwSe/XgeZd1wTZUshU7pkeMHdVfFSku35/wreRYgrzXBTSFkmjluQEiYmZ8uMK1UMNQlNOHz8wWCc27neOi8G+Sz3BL01p25f8o14mHq1qhwb8LaijYuwQJtzupo3zo74SqCQP3G/ttbRwgA3KnBz7X1eQaDYKp6/YLlMWGvnvYD5vTHuFfXjUT;ZYjyQgJzp7W5Hvi+hemO7w=="
+secured: "L9tdYg7AzMoLFAQMxZ2XW+up3DQcSK3uJDqihsGE0yRLOvwFKwnzQu4X+mUZLHl+uUneCELVVJy2a4lLhLJ0x23mE+YSOk5ancHnn/ld873CeHQygboRI9/1WT2fTIydeeM6Tk1h729oVoU5ljXr3Gk6OG73iSudgkGunXkYbxye4GEVSbi8dd5DWAQ1UOw4jZ1w2fIeYNdgJG+9o+MaPDW/NghX1HTqVPEwJEkTuknbTq28d/ecl8gVFDkjXutNdA4SByoh56s9BhhtbU7AgZwh2+8QuWnKJusi+39+qzGn/ona26cfjn3dYq15YOQD;ye8f2Ly24iPTXPbF+O4mgQ=="
 ---
 

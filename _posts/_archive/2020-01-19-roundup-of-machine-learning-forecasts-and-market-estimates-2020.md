@@ -4,12 +4,10 @@ title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
 excerpt: "The global machine learning market is projected to grow from $7.3B in 2020 to $30.6B in 2024, attaining a CAGR of 43%"
 publishedDateTime: 2020-01-19T19:28:00Z
 webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/"
-ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes
@@ -23,12 +21,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24962d8b6cf300071c7301%2F0x0.jpg"
-    width: 854
-    height: 634
-    title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
-
-secured: "i3pWgSZ9qyqPnpBSNTcDlbOp8EptqOM5dpfnyVZPkqkqMCHo6ieSHMvlEoEdm+HNpxnAz8ZkcrUWUoO+aAAO1UgR/ofbGFUhbd/MjVdek3CSZDJ0SMWg3SRy0kRUOe69uuH/pnPCXW3lqkU+PTO6RW8nz26NviQx4r2MmveRw2lRYcxdfcEu+xcMf9aje1S+2K9q8uLSONLVNk05HAAwqbmv07FgLSGjIX1oAUN0W1BvSg05NY1rndr/+QkEfGsCoIwSdIhP1CvlcGAuElYZ6dY7bDMrEF3B7ZRTNOfhCkersSArzuQDwWmzeoCw2Gz3;75FQ8DcqHsTqOt3yCA7yQA=="
+secured: "WODij5dXd/q5iJMZDWZYfliq5N7XM1vEvGm37zCW+QQLV2dfGb3H7Uyhw47KS6xusX4MVHexG5xEiX+P8z+jqCiOs/2lkRnxkImgASiiNcT6KynSzekvmODGjf6CKWjxCh7tJ3VdTMyXraqGWcSSwwm+sxhMRYLm0eut+QSZkFRGtd7LYYjKs7Dlad7ujehRIoDol3rbEL7aFDnZeeTWVW8eRINNjVoFSgZICDcl0QBYcyL4JNOx5efVyEUHwFXUgVTxXpWw/MBP6diy6a5Gx9iCjSM/PBIScDAc7p6lzNKo9jDXzeuseILhCTLu4k2QiIYDB/iJmaukOsPOO64WPo0rumK82QEdSEZpKbFhuUumGBji23r1NwxlffnXaPs/tGA4fVylMWzRLMGXORH0jxGmUU+1FDBZtP3w3m2YmKMmTshx0OFt/MKMRTv8CdHN+AcD/R4Z5vZgaHsVSt09KU7llNho5PKppsuURzt10qA=;XyySEAVWwNcKFSNZFiMe1w=="
 ---
 

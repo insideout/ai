@@ -3,9 +3,9 @@ category: news
 title: "Rules eased for self-driving vehicle"
 excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
 publishedDateTime: 2020-02-07T06:44:00Z
-webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?latest"
+webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-    width: 600
-    height: 399
-    title: "Rules eased for self-driving vehicle"
 
 related:
   - title: "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car"
@@ -134,6 +128,6 @@ related:
         width: 4000
         height: 2666
 
-secured: "KKYDPA187/Y7YBBQs2+zA1vBA8YWG8UVUnoR6Yx001Xp+bLUS28CiHPmaLmK2mJNtHP1pOheX8U/ayM4Zg2YowV+BCrRn8Jd9QbFm6yzdQGrNHWjkLR1qLbuVyQBOAaJSNbAKNSKsfQm5i99kIX02C+V1dyXlK0okYJlOyb/2HLKqVtFAUu9prS/Cp0DkF5mriI0/E9aRwhrVvTMg9RrU+z224IHvySbvhXb85HArOa/tZYr3OhiYN4BVCwd+9EBzZ9SfQgxkUk92h05n4iSU0foqMir2WBGGyjo4mrQ8kGtBYAbY9mAdETaHZpsNwr3vKLTnnztiqM5XvKVmQEuEwlUyiGERD/j2JqMjxzg3zYA80kxYWaosXYVcUtnUWYr7GUMNciFHZrRf6ifIYEHm06Iu20uf5cntwHiA9KtOsI6QxhRM7ALd47PWxjLvkTqoDUXX9EGXQD5VhP1NYCFpEQPs/NzFTXmIhdkd08J/AQ=;byF6R83ekvZ9FFIWUw0pFw=="
+secured: "IpGjTmMMninS/FJu1PhaOGP3bVL/7SFu+y4kt2OhEO1IvM7mELSEG9DeXmEjirQRAHvUb5KsZPh9AniR63d6oaYizt2Sv+0ViNgJPgAZyXNqlaI9ipc07LPYNJdwBQyAi8zDSykPk1dVU2Q1w3WiY20s72UEiAuYqjuVFXikxAhnY0BKRp6WpKuyAw5fF3QaSd1LEwM8sSIJ1vITqjmVDz2cUa/ifLNpWjlEQ2xsQMOdULCQO7PW77cIkpz0Jpsqb4HRL7vYQG0b2efHxcsOYbgcsayo6gGdw0+/CrqONE6UBE/PDC4ILAwcAe0XX6KbKBvGxcGb5D3ZgDypeJLsboKtHWrcKROiQU2k0Zp/eSt6EAWWkS1zGJMBqA6/ZkpxvPwmQKwu54IsS6ofqP7oTcdzkXS1PzYRMQcYFd/Up148ZgtvQf0uTdDFE3Ib4VvObSUIuPUhA7DHt5Q8yR01L0mCsYZTHXDzOqdDOQVGM9o=;x9xGeOXWVTHTfTouZfDBYg=="
 ---
 
