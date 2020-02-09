@@ -1,7 +1,7 @@
 ---
 category: news
 title: "10 Data and Analytics Trends to Watch in 2020"
-excerpt: "Here are 10 to watch in 2020: Analyst Marcus Borba says Auto machine learning (AutoML), the ability to automate the entire process of developing and managing machine learning models, will also help data scientists focus on what matters versus the mundane. In addition, it will help prevent errors, as well as make machine learning capabilities ..."
+excerpt: "Here are 10 to watch in 2020: Analyst Marcus Borba says Auto machine learning (AutoML), the ability to automate the entire process of developing and managing machine learning models, will also help data scientists focus on what matters versus the mundane."
 publishedDateTime: 2020-01-22T16:51:00Z
 webUrl: "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191"
 ampWebUrl: "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191/amp"
@@ -51,6 +51,6 @@ related:
         width: 600
         height: 338
 
-secured: "nocHIYxKDLiL+d/f7oc1NavbDc/ShTt97ZbEjY04V64t+gW+w9n0gj9oquJqv/l6023OK7FMOCm5lwfRYuiGlz/dc1/H8wm4oT9+upSHLjfNKKaYRzHaR3iPkvtkYVZX7HGJFT4N2fVVZy67rNHutymvwADw32N2CNXuFlG7Exn0jxcJkmTqQEfKXBDrUEz2EClsvI9pdFHUbLhRQCY9UwblsU7m5vdawRw7kqMIrK2LL4Boe9S7DRLRn4SjDB3H9Rbk5WfVizpMJMWaiaMtNjk45m5lG+AlvprpvKcuOm630ZlW7xGhjNusuK47WQJGFCJjjBIUlz+Mh708TJte85pNkUqz3dRnn5tDve63lRpyyssqLgu+jDSyRLgctTGGjMjA0HoekZ3tTXH/tA1wX2UAq/9ZHMSfeUP/KN+q5bQ7kC8KhQpfLJJw+jtfG6SBQbR6Zb8HzkSnQ/wKhDwazIxhAYErahugYoF7j8dPx5o=;QhOzPiyUyNN+NF2Nj/YyiQ=="
+secured: "kyEHSl+2LWGJHIxQdNf5hjXeePILgqry1yiqqcRGbZPetTALKhH9fn9EgBhffwzPfNesiar6AOa24pn+U8I7dOh+conlAlD2G34A9klwcXBQ5vMtLP2uqGfMX9NmMgSmJ5Jda0e54UmVKuhz5NAlWxQ69k2iMP2VaJrYhtS70a+wsPH8/AY+lr/49W/7oxxfal43LuJHWYxSNRouWJiVtVRMXkmIOv2YcsWlnHGCw6JnLPwy+e/zQpzmuRiGo3AdPQXOlofeRj57iZ6iEDiUxvcIzGUG+bgHbG9m6Nb3COjtCY50utiJkLs/v1zGOW8W;7JllT/TUg0v9nRgmvXa4sg=="
 ---
 

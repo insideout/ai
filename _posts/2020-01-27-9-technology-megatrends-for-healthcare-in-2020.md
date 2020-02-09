@@ -50,15 +50,6 @@ related:
       - url: "https://www.cjnews.com/wp-content/uploads/2020/01/Iron-Soldier-f.jpg"
         width: 800
         height: 600
-  - title: "Maxeler Technologies Licenses Healthcare Technologies"
-    excerpt: "The AI-driven prescription predictive models suggest effective medications that minimize adverse effects. Many artificial intelligence-based efforts focus on the aforementioned problem but do so using “black box” approaches which solve the problem, but fail to provide interpretability. Since prescribing physicians are hesitant to rely on ..."
-    publishedDateTime: 2020-01-25T08:05:00Z
-    webUrl: "https://www.pr.com/press-release/804084"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 19
 
 secured: "YYZ6bgZyZTH3LMrUoXDJB34jK2RQlOq2JVrirJA+vXmPfTta9XufxIhkc+TnrE6jdbfzV2iwCEguPxt8T/b73ZnoeP1xAsv24AMGiHjTq2TChNHEJWkoIvjK8Wak/qSf01I93t7v81w0MOMwKee6yW9mRVjkqPicIGnljhVJXhJHYazdHsEM0qG2e+4GPWv5TZwPvJd5w8ykMJnzjvCDhfiWfIgq6vTT5PNgkSeesYEhU4EaYTY8rgKjrfy+mTy/gCJWWKUNPockrIrDlYPyPBZmv5Yr/o50EjrlnRJlxmTG0iaE2Q5D8i2F8pe3lkplMo3k1dVfkDiRYgjdJxEv6VMDVDXJcHznRnH0WKfizqbqxhmEq0AdjpRL5vVBqs1GrGvXNsGHe72ja/bE5dBYpvWHEJ8zPhzX0SvxgYMaDEZOxq7kWcCY8lZr6qJ+yl1Zmt9blTURswRI+cOe1Uq+4p1aP5J5L4kKUUHR/hpswM8=;mHZ1KVygXR7yvngpc6w4Kg=="
 ---

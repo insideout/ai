@@ -50,15 +50,6 @@ related:
       - url: "https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2020/01/09114657/attractions-tech-at-ISE-events-page.jpg"
         width: 1500
         height: 937
-  - title: "Maxeler Technologies Licenses Healthcare Technologies"
-    excerpt: "The AI-driven prescription predictive models suggest effective medications that minimize adverse effects. Many artificial intelligence-based efforts focus on the aforementioned problem but do so using “black box” approaches which solve the problem, but fail to provide interpretability. Since prescribing physicians are hesitant to rely on ..."
-    publishedDateTime: 2020-01-25T08:05:00Z
-    webUrl: "https://www.pr.com/press-release/804084"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 19
 
 secured: "EHD8otaiUisNQnf4lzU6FhCxVEGcR6J7od/kDrWfkOPzuxGRHMt3uMeWAbV0AsfX7Oebj39Jb0knwB5glSskXlz+/AMSpjDZkD5jYOrGibYH81SOhRDQtMKZXqKvJHkbYfrMdl3aNFp8NTRsNG1oH5muBouVj58AeTyTPhU12k2CBBMZAflGhDXQDXr3zmurMco4FEDuFfAODVPwPdyRHJBH3V3Cq4UJ3/p4NLsHplw3UhKXhybrgzhbsEaFbl4XSFlwLJunvK9KRlPo9t/VSe2Zrpe2wSZkbiGXn3SSjZ77sme0CQ/eXRpyDeGlUdqjnFw2oXbIUbA3ARcJdvGgwZjv1SO++KHVw1ipA5ismIQ2fPDELB3mPj1HsqArKcL8oNNzDXO6asIvr4erII4u5RM7dTj5LgA5vkCVsVdIqqOoxS7WwxaAia+Ll3aOI0vPwSJCn+suHwI1IVHEaK6aratVUyHuWgJpX67yofAO0bU=;lalSkuGkoIsgAVY0gdbmkA=="
 ---
