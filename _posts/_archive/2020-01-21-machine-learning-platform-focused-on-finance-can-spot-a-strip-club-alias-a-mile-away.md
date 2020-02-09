@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
 
-secured: "4ys+5NulAdx//JpIABK3Z8T3C3dJcGWZ+2KeXSAYB5qMJ4fh+QBUv078xnhZnouGFDrLYdyF7c/YEzGNjeFZX7qRZjcwHdvH4xmrswo8jRxWNWa9SOPNcLVElhQ148fsik0sNBzK/vsCa3bm2utJr/hdF/h++Y51rw7RMF0D2e6Qys3MdBDomxiO/2XHNk+ciSNquQska9Eaqg9100dl6lC1lwctULrRcAIO/I+xKke3uiJ6+30Hdk5Tr2/+6wLx8I3cRj5jZmT2VdEfAW4C58lwSAMYG2B4R0d/ppVi2kCapBgtk6KLMDgoafd6hwsl;RsN5PT7FN6yzt8R6OfpE1A=="
+secured: "azopJ+C09m4VXODuCq3AC2usLc1F/rwetTB/6nYyzsTPDJNODoU7QvgzWqa79ufLfFZ4YK8rce+XLCwjKctIJsXtIKRdX22S92lkzza5m577nT7mKdwROWmuT55nNZVilF6gkFnBkbGxwe1mUpcYrqbEhp+PFCBj0BNxd/2bBPWD7oNvapUj8syyjCohEALJ5FiQTcmZxnAUfZc0M+Al4NGrG1yxRKvM6DwiIr19s1ucu05gsTnhXztd3QfC7MttyWaEOrgzLzHOSeK/6nATrkgpOt5yNEpA3OmaveLicbo0hs3L4fgeYuVJ9VYIaWYL;HtxuqIsAbfIiXpFAch4Y7g=="
 ---
 
