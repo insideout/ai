@@ -2,26 +2,20 @@
 category: news
 title: "Facebook buys start-up that uses AI vision to find location"
 excerpt: "Facebook has acquired Scape Technologies -- a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). \"However by looking at other ..."
-publishedDateTime: 2020-02-09T12:38:00Z
-webUrl: "https://www.dailypioneer.com/2020/technology/facebook-buys-start-up-that-uses-ai-vision-to-find-location.html"
+publishedDateTime: 2020-02-09T17:58:00Z
+webUrl: "https://news.webindia123.com/news/Articles/Science/20200209/3501949.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/facebook-buys-start-up-that-uses-ai-vision-to-find-location-2020-02-09.jpg"
-    width: 1000
-    height: 800
-    title: "Facebook buys start-up that uses AI vision to find location"
 
 related:
   - title: "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook"
@@ -75,6 +69,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "4NqwzyC0a6V84HFMBpCXI52CECYbLOUlW1QqMbljX44i1BKx0agqgcclZdVkS57NlJoWmCO14VVA/yxNwvURhTSkMHC69bz3WWCE4gQNIozTb5bkP/EdkOOCQTm++d/dWy5dQpcevB+16I2xn9uvAVzka0XQU5UO5tzu/uu7F14cgvc527E3gEyT8QN7J/61yaNrS+Untbw8Ce159DN0B0WG7ui+obAx/W5KvYfs/sOhfRorcrTsakUG7/Fg7znF+RSAI0w7+EqLeYGFWkVaZMi8QmUmo31Mw2y/DsV3jcLJ8fowUObSdYyvdncDbRquT4bV9ZfvskAtoaSd/17imJjU2DyhDPmmkb+7gDdxvON7rX6lnv8tMMvEZMw8FDyUT5wBToap8AjS5Z+ucWJKrPdhcQ8i9nzc/jx3olG0SDsBsAq7Y/5vU67sxoJ4FuJkH06PhEfUuGvFJZ4+8YjKUQjC0y6T02qZyDzk9xzW3RY=;cjNRLzuhtZdYDJ4eHXL65A=="
+secured: "JX1Cd+VqKt++uCVEydP8AL2ZkBY6G9NOCvjP/LudXASuEqilTVctM7tsEINch0feRzu9pUf5iggE2U9qQjCGfi5Ag9YqOasqsgw/hysmF4XGs6vnIJITLYMhEbH8yG9VQhonNXdUvn4qUfIttKbe/NHEoElVUgvkhU/4+IcWRdAmpv04evfMXgGsqb+3GccWvqty/beEnr7GuTW4JtR2hP7PFb6gmJTCUUkM3vT0epM0iMAja0rxOwRUurJgFtWFyvIwOnQ8x870QcEXyDWNfR7gq4lcpJHNePT+oGBp6eFeaqiohxi6RYCnapqEPEl3;Ohe1yfoUT5poZ0ldMQDFvA=="
 ---
 

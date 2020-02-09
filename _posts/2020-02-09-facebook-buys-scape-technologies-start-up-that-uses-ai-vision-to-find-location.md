@@ -50,19 +50,6 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2019/11/Mark-Zuckerberg-F8.jpg"
         width: 805
         height: 503
-  - title: "Facebook buys start-up that uses AI vision to find location"
-    excerpt: "Facebook has acquired Scape Technologies -- a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). \"However by looking at other ..."
-    publishedDateTime: 2020-02-09T12:38:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/facebook-buys-start-up-that-uses-ai-vision-to-find-location.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/facebook-buys-start-up-that-uses-ai-vision-to-find-location-2020-02-09.jpg"
-        width: 1000
-        height: 800
   - title: "Facebook acquires computer vision firm Scape - report"
     excerpt: "Facebook (NASDAQ:FB) has acquired computer vision start-up Scape Technologies, TechCrunch reports. The deal for London-based Scape could be around $40M, according to the report, and it says filings indicate that Facebook has more than 75% of the company. They also indicate that VC representatives on Scape's board have been replaced by two ..."
     publishedDateTime: 2020-02-08T21:05:00Z
@@ -71,6 +58,15 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
+    quality: 19
+  - title: "Facebook buys start-up that uses AI vision to find location"
+    excerpt: "Facebook has acquired Scape Technologies -- a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). \"However by looking at other ..."
+    publishedDateTime: 2020-02-09T17:58:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200209/3501949.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 19
 
 secured: "KTYcNhbhGD2yeFgOkEkwhMbaMk/4q8i+I0wYt5sEO9/gerGHrZEFmT4VlKSup2D4ia73BO0t3pHGRQXoc7VlIsChykjtUoQorr73dXlX9JyHiiwqlN5vJDpTl4kuw66o8dUFkfIMChoctltFW8AOlH5ECCimN4cN9Th5KwXv1eybff6jbSIWOuPYNqOZhbjR0+juwi/SreaH3E7ymvBI2h0FX/1chpePQ7l81M8dIpSylcWS/sqaqKLTwoQ3Wnpyvybuuhd/rgvg63AAxBRLLNgQHzfBLmAszQZogjUI9+M6blE5re0nqZNrYK5skzuPsIyMgavoKRg4pQxps4AmaiZCbNCxZ+oZzCWUoQrq0qlB0KPskOcBgFOsCUxlCtuPjtdhY6G+LeshVq0wAuxYcLS97L2ozjldDLojyJdLOiXlFmCfZEL7whC443w+InvLLBwxPbG497siIDG89o1yMjL6q/d99RUh3rHwmTtwRf4=;yGw/0KrfuQiBXuuVWhnZUQ=="

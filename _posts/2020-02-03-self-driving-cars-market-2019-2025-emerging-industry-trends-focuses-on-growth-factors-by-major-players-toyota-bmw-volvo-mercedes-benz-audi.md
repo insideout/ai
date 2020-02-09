@@ -28,54 +28,34 @@ images:
     title: "Self-driving Cars market 2019-2025 emerging industry trends focuses on growth factors by major players Toyota, BMW, Volvo, Mercedes-Benz, Audi,"
 
 related:
-  - title: "Self-driving Vehicles Market Gains Momentum due to Latest Key Developments"
-    excerpt: "Self-driving Vehicles are capable enough to see or sense its environment, without any human intervention, with the help of sensors. Increasing technological advancements such as artificial intelligence and machine learning languages are propelling the market growth of this market."
-    publishedDateTime: 2020-02-07T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-gains-momentum-due-to-latest-key-developments-2020-02-07"
+  - title: "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities"
+    excerpt: "Tech start-up Pix Moving has engineered a pioneering autonomous mobile living unit based on self-driving cars and is proposing Pix City as a flexible, tech-evolving future city"
+    publishedDateTime: 2020-02-09T17:04:00Z
+    webUrl: "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/"
+    ampWebUrl: "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-  - title: "Gainesville Set To Run Self-Driving Vehicles On Its Public Roads"
-    excerpt: "That self-driving vehicle and two others, now undergoing test runs, are expected to become available as a new form of public transportation in Gainesville by the end of the year, according to Thomas Idoyaga, a spokesman for the city’s Office of Mobility. The EasyMile shuttles, developed in Europe, are 13 feet long, 10 feet high and 6 1/2 feet ..."
-    publishedDateTime: 2020-01-31T21:48:00Z
-    webUrl: "https://www.wuft.org/news/2020/01/30/gainesville-set-to-become-first-u-s-city-with-self-driving-buses-on-public-roads/"
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e403a4b8b6cf300071e3efc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D0%26cropY2%3D563"
+        width: 1000
+        height: 563
+  - title: "UPS, Waymo partner to start self-driving package pickup"
+    excerpt: "In the Arizona pilot, the vehicle will drive autonomously with a Waymo-trained driver on board to monitor operations. UPS invests in technologies that bolster its tightly integrated smart global logistics network. Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone ..."
+    publishedDateTime: 2020-02-06T03:22:00Z
+    webUrl: "https://www.fibre2fashion.com/news/textile-news/ups-waymo-partner-to-start-self-driving-package-pickup-254957-newsdetails.htm"
     type: article
     provider:
-      name: WUFT
-      domain: wuft.org
+      name: Fibre2Fashion
+      domain: fibre2fashion.com
     quality: 39
     images:
-      - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
-        width: 1200
-        height: 782
-  - title: "Self-driving vehicles may soon be tested at an airport near you"
-    excerpt: "The agency that runs the New York region’s three major airports is dipping its pinky toe into self-driving technology. The Port Authority of New York and New Jersey is asking the private sector for ideas about how it might use autonomous vehicles within its vast transportation empire, which encompasses the region’s three big airports ..."
-    publishedDateTime: 2020-02-05T10:01:00Z
-    webUrl: "https://www.politico.com/states/new-jersey/story/2020/02/04/self-driving-vehicles-may-soon-be-tested-at-an-airport-near-you-1258791"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/7b/33/c6be3da24fa0a31c8ab4f6ac8ee5/john-f.%20Kennedy%20International%20Airport%20900%20getty.jpg"
-        width: 900
-        height: 489
-  - title: "Self-driving vehicle coming to Fargo area later this year"
-    excerpt: "FARGO — A self-driving vehicle is expected to hit the road in the Fargo area later this year. The Federal Highway Administration has awarded the North Dakota Department of Transportation a $241,687 grant to improve work zone safety with a self-driving vehicle."
-    publishedDateTime: 2020-02-07T23:34:00Z
-    webUrl: "https://www.inforum.com/news/government-and-politics/4927364-Self-driving-vehicle-coming-to-Fargo-area-later-this-year"
-    type: article
-    provider:
-      name: INFORUM
-      domain: inforum.com
-    quality: 24
-    images:
-      - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
-        width: 1140
-        height: 712
+      - url: "https://static.fibre2fashion.com/Newsresource/images/254/ups_266546.jpg"
+        width: 710
+        height: 450
 
 secured: "mqMnT+1VGXOkZ1A2dSMXIn9rVYJTkkcluw66GotzHjkgBbATTyMLFB1k8QjG3wYJMgM5RbKiw6hTEt1gWM0reObMwD12hJNNsIQKXWQumyxclNQ92RrgH0Rl3QLktTwXdKPfEbMOwx+HfGNiAhqfmJmxEE4kD9ba3sbAkq6QsRV5fFcTdL2jOzA4kDXt49HU7fVzKdxAWiidtgdkZ5oL5/RcgZlZTW4CGLepu5157rXxPdKVoo/rRpiyRfzNcQGdwS75dETQ050tQoRW30mEIpd+lCNzskfk10qwyXRJtKPx3tQ4pnI0QVKR33DgiLld;DiESd8q2JZaNzHeDZpPsJg=="
 ---

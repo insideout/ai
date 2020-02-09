@@ -23,6 +23,6 @@ images:
     height: 600
     title: "Toyota, Ford, Aptiv, Baidu Lead Crowd Pushing Mobility at CES"
 
-secured: "F/ZU8Efs5lDHbNjrVggyAR1Uqv2t0nAoShutE/juaEzm522LOsXkWLoiVMeiW1zcl+D/NPwxY89H1X72F5osy6enMiiBpHK17YY/fK5Zs6rlgremlJfBkcMP4C8Tru7VSCf+glsziS+zylZ0RlU1COyNN3Bfu7u5w02NtgVi/PrJPMGwRHj2ZGIiGWlTzhcbzRqXycUC9yELsPuFeZ5hwY87U1SXD/27iDaWT6E7XbDG32+7xMaX8PUQL3pSPJjjsZJ1yDN3RtnIuOCtX14K+d4eWVUkLfCSXzYbZYSU9z2ij9fHZCYh9c2TyKWRnL40;VUkAoP27aL2kP08Z27L2ZA=="
+secured: "Zvcgjx5stH+wNMnPGXKVpAjK1UTP64SqnN+DbV7X/n62yZgMwWusMzPmmRrbWjJc7gOI64cQnhBGG3dv3PlELqql8bzVWh2S6utpJmuoqEndp8tRR9dLqYcnVGGdmK0x1EzXqICCgXCgU6xf3W4lt4lvgy71uDbZYI7UF3mu/djWtsp83L57sr4ZLtWmgxCbFdCd5GwOgVAcE0ZjEBoWclGu8/jM86nVqJCX48h+ZRHxV3ADSo7j3o1rGCTs4/3jWX5dcUAth7AWLwGgkUX74NAd+iCl1rYtoEpKUWQVzodS5WzqGQIHrHMY8lcnUQCf;gyIgAdaJq1KRJTUjfceiLg=="
 ---
 

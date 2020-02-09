@@ -37,6 +37,15 @@ related:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400
         height: 400
+  - title: "Deep Learning for Extreme Weather Forecasting (image)"
+    excerpt: "A schematic representation of the capsule neural network Rice University engineers created to forecast extreme weather events. Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system."
+    publishedDateTime: 2020-02-04T14:45:00Z
+    webUrl: "https://www.eurekalert.org/multimedia/pub/223339.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "lvKQW2z6V1VvefxSBUIR/BiTlHiaKI5Bcbikp79TRXSUTfyX1stO7sVWcHNHZmrLwdYOdcGHkkkZw74He59xNaSdHeVZUcXyFPDmuKzrEKOkUMgFpGTo4jAblO3IvHrgO/ZaOZYECNOtuSVWbOHawiZOBCFULj2FnpL6ycPgGJ3lX4vm+yu4SmNR3ep5x5IrRtM3ykTwX5hl65CPh7UW0v/PsRHR3kA62wvtqCO2yuhfNIlas+6hCh1wYflMQTxisT+2vdj//G+GPcMZmWqWfkVQuHUU+IQe3lkIMlk3T5jCkjIZ5bSxnDCFjJuUazw5;TH2YAk1TRBacdL9/z6Dtnw=="
 ---

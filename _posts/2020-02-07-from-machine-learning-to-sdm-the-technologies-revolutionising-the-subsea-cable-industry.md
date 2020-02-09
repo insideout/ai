@@ -44,15 +44,6 @@ related:
       - url: "https://www.cioreview.com/newsimages/705x485_w12f.jpg"
         width: 705
         height: 485
-  - title: "Machine Learning in Nursing Market"
-    excerpt: "Request Sample Copy of this Report at https://www.qyreports.com/request-sample/?report-id=224317 Report defines competitors in this market of Global Machine Learning in Nursing Market. The Top Most Key Players in the market are as Microsoft Azure, HIPAA. The growth rate of the sales and income figures of the Machine Learning in Nursing market ..."
-    publishedDateTime: 2020-02-06T11:30:00Z
-    webUrl: "https://www.openpr.com/news/1921686/machine-learning-in-nursing-market-report-business-strategy"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
   - title: "Worldwide Smart Learning Industry Insights, 2019-2024 - Featuring Use Cases of Docebo, G-Cube, Saba Software, Cisco, IBM, and More"
     excerpt: "The major factors driving the growth of the smart learning market include the proliferation of connected devices in the education sector, adoption of eLearning solutions, and growing use of Artificial Intelligence (AI) and Machine Learning (ML) in smart learning. Software segment to grow at the highest CAGR during the forecast period Based on ..."
     publishedDateTime: 2020-02-05T20:10:00Z

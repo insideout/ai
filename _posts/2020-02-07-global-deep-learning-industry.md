@@ -37,15 +37,6 @@ related:
       - url: "https://www.cioreview.com/newsimages/705x485_w12f.jpg"
         width: 705
         height: 485
-  - title: "Machine Learning in Nursing Market"
-    excerpt: "Request Sample Copy of this Report at https://www.qyreports.com/request-sample/?report-id=224317 Report defines competitors in this market of Global Machine Learning in Nursing Market. The Top Most Key Players in the market are as Microsoft Azure, HIPAA. The growth rate of the sales and income figures of the Machine Learning in Nursing market ..."
-    publishedDateTime: 2020-02-06T11:30:00Z
-    webUrl: "https://www.openpr.com/news/1921686/machine-learning-in-nursing-market-report-business-strategy"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
   - title: "From machine learning to SDM; the technologies revolutionising the subsea cable industry"
     excerpt: "Clearly the flexibility and intelligence will become a top priority. Following the trend from the terrestrial networks, intelligence will be introduced at different levels thanks to SDN interfaces and machine learning algorithms. What makes an event like Submarine Networks EMEA such a great opportunity for professionals interested in the subsea ..."
     publishedDateTime: 2020-02-07T16:55:00Z

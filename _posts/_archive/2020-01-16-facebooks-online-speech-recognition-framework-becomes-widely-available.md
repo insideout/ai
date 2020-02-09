@@ -62,6 +62,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "cUrVDKNxjo5oEm3XZhUnlXZDMN5Bfqp7HzxhKlW3iFwkzLreJVzOMuA4f8OyllMLMALgFPa9K4GiZMGs7uA5Tv2flCuk8SEerW3c5PrtsUFF6MNFuHlJv0dxXGl/NjTVR5edbFO22TE+z+Tn9xBw1T2adNVEADeC8BdQ2ketLpkyVqwmcFr9QtS2R4IVQttFEDOu+eyXJuMmQCMS0vRZnxmubOk5aZfvbmFsRu072F2UdltmN2KSlBYBMWJQkFg9lp4opsascVX+QDOb2Lf/1RfHJ9K1IvjFqZs5/XUgTujWV/reRHW7VIhE8JXaSOxZ;C8Wdg+IBALV+6QE0I/rFnQ=="
+secured: "wfxIpkkUWmL6c7vwS1BbVb5murla/mChHrdKqVoxDyZeXwiIpjxLMNtZmpOQU4aG7Ecmjsw/ju+na3xqZTxB58NfYgifhBUmTmxjyagDQPp5emhGSWf9HTnKUJD0JejtX/MHnPUxjJxuquqsA+b4gGSnJSrojHNA/N5RQ0KL+CsDZh9f4KIwZwWts7XKDIyMAIA7uLG6EK+NCzT1xyt1zYxdH9wdPEAbi7cReTD6jFQZVUlv+Vu2qWiRL7kZhcd6CzeARlxHjtbICnlDkAXm37/Ga/cVyTOEgmCOyVVa9GP9GTYvITdm/4hvU1hdyYPJ;WSUYRcKA6iakiybWIe+Nwg=="
 ---
 

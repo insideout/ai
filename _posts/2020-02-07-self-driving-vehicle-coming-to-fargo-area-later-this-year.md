@@ -59,19 +59,6 @@ related:
       - url: "https://static.politico.com/7b/33/c6be3da24fa0a31c8ab4f6ac8ee5/john-f.%20Kennedy%20International%20Airport%20900%20getty.jpg"
         width: 900
         height: 489
-  - title: "Self-driving Cars market 2019-2025 emerging industry trends focuses on growth factors by major players Toyota, BMW, Volvo, Mercedes-Benz, Audi,"
-    excerpt: "Ongoing Trends of Self-driving Cars Market :- Automatic/Self Driving Car is a vehicle that is capable of sensing its environment and navigating without human input. Autonomous vehicles feel their surroundings with such techniques as radar,"
-    publishedDateTime: 2020-02-03T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2019-2025-emerging-industry-trends-focuses-on-growth-factors-by-major-players-toyota-bmw-volvo-mercedes-benz-audi-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "yxF3V/T5oKbkgohByFkS/eBifpCWwJHygXvCBiY+qIy2SF928NM9ogGdK73lYQAXfHkdf19DT1dhEfvTNA9ZYjbrO1o3EPfOx3s3RFwIUtwQuY4huGvcQYxmo40HXm3e/jr/BmfP4/SOc0YJo537IyU/RcRWgLwRJuwr8FyTqAwd9f+ns91BKdtPX/DNz9OynlTBiA2C7LK4iq30q6RaDs2ghFB+01xaXXj2r2S0jr6jfZtO/uA2m7nq3M77JhhSI1eGrSEdvg7J5uH30X7RbTezIO99AjPhUWEP33+2SfWU76+gvEkcq+WV5sQEQPr2MOfcgaU94snZtUpAZzY0McwjAub134DqnNT340z7K+k7hCEZYhwJH/xteuWBfAuOstnInn7jtfz/buafr785e2ELrzje32DFwo9Y5ph1KndjHK7s1zEGaGwer1i5nxWL1C5jDtzZ9qXUpJ36rXVkgMatFD79NVdpqvBZvbm54yw=;UJ8Dwwc8Rml2rGacAKYHDw=="
 ---
