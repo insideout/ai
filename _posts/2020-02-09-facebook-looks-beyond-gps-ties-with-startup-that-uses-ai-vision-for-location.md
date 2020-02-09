@@ -42,17 +42,19 @@ related:
         width: 1024
         height: 767
   - title: "Facebook buys start-up that uses AI vision to find location"
-    excerpt: "Facebook has acquired Scape Technologies -- a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). \"However by looking at other ..."
-    publishedDateTime: 2020-02-09T12:38:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/facebook-buys-start-up-that-uses-ai-vision-to-find-location.html"
+    excerpt: "Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). “However by looking at ..."
+    publishedDateTime: 2020-02-09T16:45:00Z
+    webUrl: "https://www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html/amp"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 59
     images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/facebook-buys-start-up-that-uses-ai-vision-to-find-location-2020-02-09.jpg"
-        width: 1000
+      - url: "https://www.thestatesman.com/wp-content/uploads/2020/02/QT-facebook.jpg"
+        width: 1200
         height: 800
   - title: "Facebook buys Scape Technologies, start-up that uses AI vision to find location"
     excerpt: "Founded in 2017, Scape Technologies was developing a “Visual Positioning Service” based on computer vision which lets developers build apps that require location accuracy far beyond the capabilities of GPS alone."

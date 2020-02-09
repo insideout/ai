@@ -101,6 +101,21 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_156230078.jpg"
         width: 950
         height: 629
+  - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
+    excerpt: "WASHINGTON — Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
+    publishedDateTime: 2020-02-09T10:11:00Z
+    webUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot"
+    ampWebUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
+    cdnAmpWebUrl: "https://www-swtimes-com.cdn.ampproject.org/c/s/www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
+    type: article
+    provider:
+      name: Southwest Times Record
+      domain: swtimes.com
+    quality: 37
+    images:
+      - url: "https://www.swtimes.com/apps/pbcsi.dll/bilde?Site=AR&Date=20200209&Category=ENTERTAINMENTLIFE&ArtNo=200209775&Ref=AR"
+        width: 6720
+        height: 4480
 
 secured: "DzV2QusQjiq5fKFddOshoT9EGE16r0jd7YhQmyU0p9kqF5QuyAtW8WgT4ga0wywH6/KDto13rXXg9ixLfeJBUFN8qD4z981J48AqOlFkvkar2dhrA69VZbm5K0wR6RjpHoV2pzGcHXeilkAlmxo8gHcriaKtxks55mv/7GlTENsfvtM5EbdB5VD5OxLbTGC6WtfN1nfVubvzzmmSVwmpu8yNuIK3E4FpFpNDPODzNN4mVQu0X/DX8WDNQ7Xu1weNU6fWET6GsIGatLkIT555lXg6FgNKDLJpZMVIcEioNYRo7ahwcotKzTpigkgZW0WRRUHoadmhxSxT662uAvZ58BJY3BXfUbryOd8fY1UMx0FeduwTkwhW3mvy7TpmtWrRXrSxsv1KxPspNBhRB9Ja26lWfVtBZCKG4f4ZdF1pn34PJsDLhk+hCq+XK3ytRdoUlUP9FWksX8+MmeY43OVXklnfjMjepnBU5wid6flvyng=;ymWwkdgLc//zotVkTzsoKg=="
 ---

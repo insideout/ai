@@ -23,6 +23,6 @@ images:
     height: 667
     title: "Six Nations broadcasts to get AWS machine learning stats"
 
-secured: "iO05iP3fXiKDflCkmaB04JjybrXagG6FLjyF4jImogvEHdVimfAtvtL2TQ9HXzaSFrwA26/XTWzMG2EhmY3pZns7vgk+Zfrr5EaWwJyyzIKAZXyRAdqiCZhKdioH5LZKLHYgI+KZyykZibOt6qgmsMNRzdP2T0P8/I1XZMVzB9Lc/JjA+3WlEMDZ+7VmqXgpd1Sn+hlsSccD5ERE3G/9EzceBTEqayB1II4ZS50Me2oqGvO9l/mXj32a7abhkS3SuAK+Ce1QDxDTCmkS3pJBY9aZJLKn22j51rjhFCVCV9JsHAI9rh4swCSrIpgAlptC;hyxJUjYRAgny0hL3fNvOCg=="
+secured: "ErNS76SW0QQcgaazReAO5hSfbcj4VP0euVfJ0UujaWs19o2beXZ6JDKMS29sGVwvRGLI4tIsTtrWpCRVk/zO+KG4ivYp+NJyaEWz1YewfV+as28bQXcdknWpL8NpNHNybqrV0d1YtuoxLYvHl045w+79i/GX6+Ix+63GJuJidWg8NfVvCckSoqtonLpKw/nkgi3aRwttUsxevSAhY7j2p4d4R11SBhnDw0f2cqvp7CyzYEn/D0Rv5TLw3e4hsjQ8uHMEaaOcGA7cOsvgpu7bU6+vlBFmNViLY7PGPKbNjA2c5IFviUEg19suO//sX0jc;EeiEDeWC1T4KPV0xmZMLZA=="
 ---
 

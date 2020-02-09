@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Facebook buys start-up that uses AI vision to find location"
-excerpt: "Facebook has acquired Scape Technologies -- a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). \"However by looking at other ..."
-publishedDateTime: 2020-02-09T12:38:00Z
-webUrl: "https://www.dailypioneer.com/2020/technology/facebook-buys-start-up-that-uses-ai-vision-to-find-location.html"
+excerpt: "Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). “However by looking at ..."
+publishedDateTime: 2020-02-09T16:45:00Z
+webUrl: "https://www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html"
+ampWebUrl: "https://www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html/amp"
+cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html/amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: The Statesman
+  domain: thestatesman.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/facebook-buys-start-up-that-uses-ai-vision-to-find-location-2020-02-09.jpg"
-    width: 1000
+  - url: "https://www.thestatesman.com/wp-content/uploads/2020/02/QT-facebook.jpg"
+    width: 1200
     height: 800
     title: "Facebook buys start-up that uses AI vision to find location"
 
@@ -75,6 +77,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "1UCB0s2gnVrxWkbBQG9lbizHqzyBXU2F4NuqsbRP+hUXUZk/19S/suzbzDslSPCldevVNGwE96Xgj5qSLozNpb2SBVz7SjL2YzfwoJoEAGEzOdKN7dQctkkhEqqxpsvXcl7a/TOsa+/GCtFGN7gBGQLuAbhG/DONhmpEs+BHADdOOeIj+zY2RCCzJDagbvpTG7uUf52uIUKCzye+n/ORo41qujEIyLK5tM/DvGKQWmoj/+r5aFPSryZeUjnAjdVXtTWtqPjoPdQkBykqQbMIaDUuMDm7OnKBnNNiKBtNVE6K3vTebi2Xx9uIY5wCP6h0;hc8WvI54Yf3Bh9uTWSuQBQ=="
+secured: "AU0XJ0Y5GoQZaCTnMN+0L0ohIIkqVJ3wNpMNHww2Pl+A47FU2qlfA2f/W7tFCxfWDpvhqts9yGTqX1P78qI2vqpHeDJIq5dgaNkV+//edD10u/U5yFLjSFq2EQjxfDhv8KekL9e7SclNShn3p4/tuBAqhi9R73zP3QzSJZ+2gzMph++3eSXzAdvBWGsSD52i3hehULJfNBN/EoCBNzUx7fcGcy8VqwouCF4Ix54guK5gtu/SGOVmzR0Q5CBKVxDuttxUDeCWMNXoJJp2W/OgYANmTAd9Iq0wGlp2HZJn5XP4ZhBr6pUcZ7VsE1KP69kP;6UEEUTh7Rt4PSFccs+jktA=="
 ---
 

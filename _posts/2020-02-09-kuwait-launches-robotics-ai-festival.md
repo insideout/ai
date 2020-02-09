@@ -25,6 +25,6 @@ images:
     height: 316
     title: "Kuwait launches Robotics, AI Festival"
 
-secured: "KduxmmfwMvqhEbgIiRhMOlVhd7I+JGAl29V4GObmFU29YTxi0x+5r224GJcklefTHKz6NOR2O6NHoRWuEmfQyBK3UR65xueBHl26cCjE5RzeHtEpEzefCPg11A5M+N/M5NDNkm4alNGTFwKbP8Q9b6pjkhFH5QnpZgWyNKl9hHCM5Dy8NnwjGC5k3rNjubJT4hiXGpNm5dGfHDsYIrJUQam6fnDuSCi3bkTizjtG4lVbNuHRygntajDRehLoTe5W/MuptilciGEAm6XuXECQ6po89ENgfvmXVkjS8x1W3TBn8HLuTr/Ejekq13KKbbyE;izAM/Sd1m6HDa3f64Yvbxg=="
+secured: "2xeOyO4XKO+tbl+vQlLIhqnTjlVZ+LugaTTl9KzdCw+FuMxe6T2jgeoXdG5/E3BXDY7AnH4Tfou6qEXQoMFNKHHl+zLT/uTgqu7lhIXqAiGPPE3Q4ERqgs2VnmFExyl/DSkd00XtDdhPZTjaYfe7Gi1M5nW8uxXCZdXkyZg3ZNWRwS8KF+MgfZPf2ACajq+G+QeVy+Eggi7gyv6Leq1SMUp1YMfvty9YU6pCeMyaggaR3vQNDW3uYQsnQJz4VAEB6WMEqt+F1ME5dMs5RzzgB04tK6lEQdTUDQENefEkzrG9X1P7sRldjzS5mfOcTLVu;5Eo9cn+yq1hkXxDlKAX43A=="
 ---
 

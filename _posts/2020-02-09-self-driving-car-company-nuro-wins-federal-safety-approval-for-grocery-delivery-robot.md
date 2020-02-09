@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Self-Driving Delivery Vehicle Receives OK for U.S. Streets"
-excerpt: "They’ll arrive in Houston, Texas, soon. (TNS) — A self-driving delivery vehicle with no driver's seat, steering wheel or brake pedal has become the first to be cleared by the federal government to operate without the presence of a human. Nuro Inc., a robotics company based in Mountain View, Calif., has been given permission to put up to ..."
-publishedDateTime: 2020-02-07T22:04:00Z
-webUrl: "https://www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html"
-ampWebUrl: "https://www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html?AMP"
-cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html?AMP"
+title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
+excerpt: "WASHINGTON — Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
+publishedDateTime: 2020-02-09T10:11:00Z
+webUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot"
+ampWebUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
+cdnAmpWebUrl: "https://www-swtimes-com.cdn.ampproject.org/c/s/www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
 type: article
-quality: 44
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Governing
-  domain: governing.com
+  name: Southwest Times Record
+  domain: swtimes.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://media2.govtech.com/images/shutterstock_156230078.jpg"
-    width: 950
-    height: 629
-    title: "Self-Driving Delivery Vehicle Receives OK for U.S. Streets"
+  - url: "https://www.swtimes.com/apps/pbcsi.dll/bilde?Site=AR&Date=20200209&Category=ENTERTAINMENTLIFE&ArtNo=200209775&Ref=AR"
+    width: 6720
+    height: 4480
+    title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
 
 related:
   - title: "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots"
@@ -86,21 +86,21 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nuro-r2-1581004051.jpeg?crop=1.00xw:0.754xh;0,0.238xh&resize=1200:*"
         width: 1200
         height: 603
-  - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
-    excerpt: "WASHINGTON — Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
-    publishedDateTime: 2020-02-09T10:11:00Z
-    webUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot"
-    ampWebUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
-    cdnAmpWebUrl: "https://www-swtimes-com.cdn.ampproject.org/c/s/www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
+  - title: "Self-Driving Delivery Vehicle Receives OK for U.S. Streets"
+    excerpt: "They’ll arrive in Houston, Texas, soon. (TNS) — A self-driving delivery vehicle with no driver's seat, steering wheel or brake pedal has become the first to be cleared by the federal government to operate without the presence of a human. Nuro Inc., a robotics company based in Mountain View, Calif., has been given permission to put up to ..."
+    publishedDateTime: 2020-02-07T22:04:00Z
+    webUrl: "https://www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html"
+    ampWebUrl: "https://www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html?AMP"
     type: article
     provider:
-      name: Southwest Times Record
-      domain: swtimes.com
-    quality: 37
+      name: Governing
+      domain: governing.com
+    quality: 44
     images:
-      - url: "https://www.swtimes.com/apps/pbcsi.dll/bilde?Site=AR&Date=20200209&Category=ENTERTAINMENTLIFE&ArtNo=200209775&Ref=AR"
-        width: 6720
-        height: 4480
+      - url: "https://media2.govtech.com/images/shutterstock_156230078.jpg"
+        width: 950
+        height: 629
   - title: "CA Startup Gets Approval to Deploy Thousands of Self-Driving Delivery Vehicles With No Steering Wheel"
     excerpt: "The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or pizza."
     publishedDateTime: 2020-02-07T19:49:00Z
@@ -117,6 +117,6 @@ related:
         width: 1200
         height: 800
 
-secured: "sW0gKmmo9etSxBsMYaziTiKqP+aB6ub2bHc9H0HhrlhVUnbMEU1Q0eAq+7LXK445XfBksTeYSrhPG8oOr15lYpJv6mO1QyR/vbZ9XBoFG4U74WyvPcFlyGf6NymmvZLXx08Y08YpLd1jzIODLEfTlB59xPKtYE46k3t0jq/+pZxGx0lRXYz26vuz5V67taUefJZBtqtHaWexEA4HWYPB6CuxMpShLXEU+6+pXxfi67hKMjbjcsCLJWcqQlK3purVf7I4B1qyzQ5DRPMCf3tCHnqvu2rcJB4TgXos8CrbbDU/7MVtrWFqZUJF8m079mad;0kJRwTQiIrdwznagNMgJfw=="
+secured: "KLuJvFxRM1FZ0lVZF72PKqtsHHnIeoDJpdsMHTjgYkTWsm1ZlNy1mj/oqausdy2j3SYwb7GzqQX27BpQ3dK3ScgnCjj770U3bfrCC82MzobjS4UhyWbz7R3+VfyHd5MQfnxfgeUaVfWevFx2m/vqCIrptIAQfQvtXFQVU/M2vz8pofvJB0BgnwPGL71ufqST5poRAy86z4Ai8/3eKOtmKPaedP1nNTrfW2t/pZslN45ANRes8gP0wlwTYW0ZhDMYmk7gI5bxHw+YPDxqAcaj87oen1PFUAePO9uZNAuB7Nxe1NRstUjuilyEOV5rlVxu;csVQ6bjG7KoBtnmBUs10kA=="
 ---
 

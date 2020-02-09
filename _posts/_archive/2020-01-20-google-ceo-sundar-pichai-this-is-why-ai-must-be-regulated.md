@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-th
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -56,7 +56,18 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
+    publishedDateTime: 2020-01-20T13:52:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 39
 
-secured: "Q8LNeBpAn8DQw0rhqIJrvcNsaFHKeIjSK0JLVUGcTO9HqtbJyvVCpoVVp90gFkh2jOvfR6NbMmeodXz+Oc55hn5G6/fPV+cQjGA+yXiZITSLFK5ERjACtYmEJi/L3byP/vHL/Y4TYLFPEDdHX6uWLwI5frfeAItmShs6GX0UiH6poFu86NOy0alHyYHYCPJv2FTAiUNxGvTozIRjT3da1VppFYS7LwIsH5IgRqOL5dpzfbae/tyjlApArLWojxNGbjaPcSwPIKE/LS42jFd9tJTRteP3xRc2AD0xfVfUfOg7HcdRKSrIlu6SOAlquuO5;7blEOAgaarIke2KKdyLqLg=="
+secured: "p7VaB1yFLCP2dD1J+33pJhrg/xyf+tvukf7RWfA80n1NFuHjJ7SDLHa9Z2IzWCeJXBGEwlocWJkCtNQENeEZjnC5kZd4FtfcLt1yP+8gXwD/N3o2KcxHLe3b11G8JAhVq3/F769DUQgucQ3oKGrmthxUuoGr11+kYe/z9JFh2c/Tnhcomv3WcvP78BU/XV4jcbyrK/4qhYGdvA9j9ojkL0t8hW+GupFxoJwpV7qDaoFf/gwnhkQSj9iyo2xPRGKXVmc3R3zuzKLDd9ZYkC4ut3i4yZaJ26mjfGrWVT0veQnK5IqRbHhL00aio5uyypoV;jcIIWGEGwiwwjiA98UIkDA=="
 ---
 

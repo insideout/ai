@@ -86,6 +86,21 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_156230078.jpg"
         width: 950
         height: 629
+  - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
+    excerpt: "WASHINGTON — Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
+    publishedDateTime: 2020-02-09T10:11:00Z
+    webUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot"
+    ampWebUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
+    cdnAmpWebUrl: "https://www-swtimes-com.cdn.ampproject.org/c/s/www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
+    type: article
+    provider:
+      name: Southwest Times Record
+      domain: swtimes.com
+    quality: 37
+    images:
+      - url: "https://www.swtimes.com/apps/pbcsi.dll/bilde?Site=AR&Date=20200209&Category=ENTERTAINMENTLIFE&ArtNo=200209775&Ref=AR"
+        width: 6720
+        height: 4480
   - title: "CA Startup Gets Approval to Deploy Thousands of Self-Driving Delivery Vehicles With No Steering Wheel"
     excerpt: "The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or pizza."
     publishedDateTime: 2020-02-07T19:49:00Z
