@@ -78,15 +78,6 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20181017073142.Medi.jpeg"
         width: 800
         height: 448
-  - title: "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)"
-    excerpt: "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ..."
-    publishedDateTime: 2020-01-23T00:00:00Z
-    webUrl: "https://www.bizjournals.com/nashville/video/6082077878001"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "aKHAXoKSeFPztVefO6fjolSC1xMlnKJBpdeVl9sD9lNpS1wMyp+Bz3hXkBtSOcsV0nfX2kHkjFDRD4jbOH01/CTykvjHgjOLFfFNMc1RiIvfa/VpvqvAOQhD6/cUA9RBWY5DB1C/BXl+bTBS4KFL0ue2L0f4fJTDglXfikoyrctwyNCTlylpeQgvf39xUXW3JArR2M37BnopcZJ13oenDzVitViiKKq7kf5PLzkglveVR+zPSkUAOCbIv+0gUzIAYoH2dyC64MD6zT0bPR0k1HofDsAWL2aWQtV20F2PCREIpUWYs+zVbyvFopfJSVbmfFBQoG5pGwRDT4kgIBl2bXPoDRqGrgzPpCl/V7MO4HUp4gHxZNlRNYWQz+howUE08C9sdRAaC0NtpPu18ztdw6snA400B0bZCwa8fpplSfjziYdjmQQz/NBp5oeC79zMMdySBR7KW4Gcho3WiFrGOLCW+3xWjpBRk7Cn1IDjS4I=;Fe3REyORywfJax+Zqnxv9Q=="
 ---

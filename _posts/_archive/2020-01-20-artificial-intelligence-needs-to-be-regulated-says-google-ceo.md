@@ -66,6 +66,6 @@ related:
       domain: businesslive.co.za
     quality: 39
 
-secured: "YbFyoiQ2znDWSPvGtgGwTEHl4zyQC09Rf+VfqjIl92bcWNV7OB5V817bpSaYHgaz7+6cOrAB1tEjAy1RBk0PZ1/VZxpomVnN9sb31t0CME457+4k8P9YAqrVS1uMufDHf9YNnb34CrJp+8uEkcN8aEVCMfimD+UjQYbjt4jugkrnz6aZR7Tvl9ztCKc4mRbjhHEueaO2cYgAMlL3g9s8UGZa4c3AZ1fJu0WWlT351Xnugr8OZ8ViKLHpc++PvrTbbpLF2rQoS7MybLKi7soBZRA6bqPFNR1y5dPxRkdzfn18vdCpmQhhcnlwO/uquC8g;G7niG0g75XVYEN1dmCSb/A=="
+secured: "1cUNCXjbCnqYzj0j8zAJ3YZAT3BPCZAD5ukiBXlzv+q4QbOJKraFyr4c8TiHJ0sdv35oBRt3NoWnauTEdkhl4wxAnuA8VY+bvqwV9BUDBE8jG87TK0GrgDnGqtZKK+Y8OiniiPkncS9diPUQkmtM+k8N7pkhFjAkfJmxGndqxm1HGUOKtyFCuV0elloA05U8S0GO6rqtvHHReLreZqWVQryQindJN4mvW3Rlsf+wm//a7KPtUqvdbcOUZIS7EQDhr8cqbq5QZvkOiL0S0WCW/AWo+HgV0Ej+rabKsETaBY/9jxWBO8rcEM+FR0I87oXg;91ikj5od79PuDDQf94U/hw=="
 ---
 

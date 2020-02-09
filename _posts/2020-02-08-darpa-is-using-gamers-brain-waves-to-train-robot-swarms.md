@@ -8,7 +8,7 @@ ampWebUrl: "https://futurism.com/darpa-gamers-brain-waves-train-robots-swarms/am
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/darpa-gamers-brain-waves-train-robots-swarms/amp"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -36,6 +36,6 @@ related:
       domain: digitaltrends.com
     quality: 61
 
-secured: "Ou1ahAHGdAaCd5PSuACHwbLk3Cu7RWBNOqGOoYGm9rZfTlUJObY4tB4hvxJEs+2R9cO8d/SwuEVeKfdMkX6Bmd7kpryGVebz1ghw7GFy5LtMf3c2X8xLwokKJMCMm+s3RuehFN7EE8W0VpPVtGthpDFZTs4fpPUTMIFHRh4ZOfvj1yPjG+R3qMPDlTu+zxNhhmqjycs7FNAAZgVcuDzGkLdX56jIkqhUz5Gaxeq6Elca5yfaxBW2Dce+e397H4X5MR01HmN24PAQqXcpXAPW3CmnjgEGyVEIUpqcGBsqhuXx+9Sw5fGxzAx7iJ1YlwCg2xtE3lsYpQQVWbU1z+802c0uouOqWbb9Ud4i/LuAt52dvMSaX2HxjImpY/J3tZcQxLNdefL2iAXecCBX9Y2Bpij2AJhg6LImrybxyGupWSRKmpN+rlTUfIbaSNIXQ3X4QryG3xfojGeXwK4xHTCmfBH3TIQl/LcuswUXZoVKvSc=;B90PlCtvDPrtecFIvz7Z0w=="
+secured: "lKRZMvYsRTF2FtWKiXEBvmS7HTlQMN5HVG4JmG4nSR0tpZKVEGObbei1g19e8EAeEERlO90kPZ05HnAqD3tobjkpnHjdCm5usc6wM2UBUohUOgp+qv6saCudr6LmYSSv2Tn8k91EWDm5xoZHjTJwnZTf1ReA+AprqrZD7v5i8JK2xjioa74S7j+dWef8dNazDF4fcWLK5sw0q3+vxGzKcqDZD+OkqR4loIcPzpE1m8u5gtfE9Y//d2N2ez2TGvTdtQNjgq4FD/dvqCi8KGvJRHzu0YWmdY3yE+FmSL0jI8ofJmAuHPw2Kce3Y77Uy0rfOSoQHx5zI2jnZmAY6/57O95rFJNWZNlIrqNDQUxpGFKHd5oeXFP9L/JEdlcNDePBUfmsg3EAskNPPxwG/h7qyKcl3YnnHCnjvnSFP5LkBNZd5C84cJgl75Wv8wJOutBqZTlyhQblnQ9HFI5xLeMZfTyR0QKcns47KphNhIFW59M=;7pAZIArftbeFW1EMvEL2Bw=="
 ---
 

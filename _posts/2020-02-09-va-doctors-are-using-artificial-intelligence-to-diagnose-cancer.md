@@ -1,20 +1,21 @@
 ---
 category: news
 title: "VA doctors are using artificial intelligence to diagnose cancer"
-excerpt: "Sophisticated artificial intelligence is capable of drastically altering how cancer is diagnosed and treated by learning to distinguish imagery of tissue containing cancerous cells from pictures of healthy tissue, a recent study in the Federal Practitioner journal claims. “Based on a set of images selected to represent a specific tissue or ..."
-publishedDateTime: 2020-02-09T04:13:00Z
-webUrl: "https://www.militarytimes.com/off-duty/military-culture/2020/02/09/va-doctors-are-using-artificial-intelligence-to-diagnose-cancer/"
+excerpt: "“The potential of these technologies to improve health care delivery to veteran patients seems to be limited only by the imagination of the user.”"
+publishedDateTime: 2020-02-09T04:12:00Z
+webUrl: "https://www.armytimes.com/off-duty/military-culture/2020/02/09/va-doctors-are-using-artificial-intelligence-to-diagnose-cancer/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Military Times
-  domain: militarytimes.com
+  name: Army Times
+  domain: armytimes.com
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.armytimes.com/resizer/to_jNb_D6OzaD4pxQxunjGcZKrk=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/Q466XCMKUVDILI2TKHH3ZGBGCY.jpg"
@@ -22,6 +23,6 @@ images:
     height: 630
     title: "VA doctors are using artificial intelligence to diagnose cancer"
 
-secured: "RnbGiTEZJtE+8UyEzeao02jzl5HQds2NXMY2pCEluS5kAPg7y+O8nKX6HYLbjTNpwgwnk83TzJanXd4jSmB8UvYhQFkMWE46+NWvFZfOSC9meV0Z+g/+WJ4xqdLfYnkrriQRUd4cf0nKWWgvEbsXmJo3NKrmZl+ikchyLxo7sSVMuvWFN5JWi/8/tvpB4TqBmDm83pp4uNqaJ4t2LsDbOVSqYc4PFuaQDmIO2sb4wL42GSqeutikGdrdYw3PjOKp7Qs9NfX3GpT8sPS269vrB8Gb1TTIGAdcvN408fmdsmdlLKmSrt0HAbQh9ukcYoyn;839cg5nlxA1Zsk5PJyTU6A=="
+secured: "I+t42fvDDl9VEqkslB/zNsAaTD8HNPvVKhSeyqTUEx+hr8xb+W4TkyyPMmxcdjXogwNoXV8XSn90rNGAoJIZP2NuyPhO/LLJLq8MEOTEevnytCe2RQYxGZfVoeEY9QsoHWNxV4XO7DagSjevbuKM5fow3CIAGb724HJ1iArT9SYZlSKj9TuDAZyVOATAr/y3CgCRxRDluDSxqyaSzyJIGRZnDRCttuHnpJUG5RNvXmXZ2qdCLdXqSDdWfu2hOG1P4HLgjJk8R7DF2J3Sm7kn6qIgVgfaHTo6eWMdpf6NP48MkVFfQQWcmXxTdNpQ6cMj;OT70fzsTfDA1FXEodvJSew=="
 ---
 

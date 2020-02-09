@@ -80,19 +80,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/servicenow-1.png"
         width: 718
         height: 400
-  - title: "Conversational AI—A New Wave Of Chat-Enabled Customer Service"
-    excerpt: "Anyone who has tried using Google Translate on domain-specific documents can attest to just how ... Proprietary algorithms, like Automatic Semantic Understanding (ASU), can greatly enhance the language understanding capabilities of conversational AI. ASU gives virtual agents a competitive edge in understanding the underlying intent of a ..."
-    publishedDateTime: 2020-01-26T03:20:00Z
-    webUrl: "https://insidebigdata.com/2020/01/25/conversational-ai-a-new-wave-of-chat-enabled-customer-service/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/01/AI_shutterstock_1069670762.jpg"
-        width: 300
-        height: 300
   - title: "ServiceNow to Acquire Passage AI"
     excerpt: "SANTA CLARA, Calif.--(BUSINESS WIRE)--ServiceNow (NYSE: NOW), the company making work, work better for people, today announced it has signed an agreement to acquire Passage AI, a Mountain View, Calif.-based conversational AI platform company. The transaction will advance ServiceNow’s deep learning AI capabilities and will accelerate its ..."
     publishedDateTime: 2020-01-28T19:36:00Z

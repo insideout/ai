@@ -2,26 +2,26 @@
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
-publishedDateTime: 2020-02-04T10:24:00Z
-webUrl: "https://apnews.com/Business Wire/6cc89506c97d469ba190f5fea31af2a0"
+publishedDateTime: 2020-02-04T09:00:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
 type: article
-quality: 16
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Finance
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 
 related:
   - title: "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon"
@@ -53,6 +53,6 @@ related:
         width: 914
         height: 611
 
-secured: "V0iS0vmSgsVVEvLppZc7Kayynw5+dISOV7D80gkk1OEAzC3dZ3UEXZOAcuBBuy54tW9tsCdVAFKtPl0xIgk58HEsV+62GwmBCG3/yN8apqpy8q6PbsZgrH44Z6D16sWT1Wg5EJbktsr6O65Y/qNuk1ML2AS78eaayHWZpGCZpCZD7JeV2G+JrYNx9bSV+ETKCPtQMgJZZ6zVGw0b9re95ysjkXzOPC8jGcdFmaT6k0hww4XQOyfVtGxcyPNqpvGhR2VwqNKjQ0VwDxP+Mwc5MMyutjaBYHRqEgQ+bH0xQAkHUjDr5mJkhlpTXLSfGgd9;/LXNFVlvdOqf9GIm0AaTJw=="
+secured: "HePGT30FzTlxs0Er6aVzvRzSSOUfTrx0JNOJLha/bKfpH13mnNXfTRwY7S4hKdGA5LSDt+hTEzOe3bvB6WiUq+Ucfe5T2VmtXFqoOJc4Db4Ue7zpqI94QkWZodqu3uSVRwJMAsTzTKPfmsJS7ISLXRIM1Nl3Law9Zffew/sSSQomzjCkCQjggxdLXb/wX3XGQoXNUQ9rfvFK9eLZiueay16VwpgRhDbCyWnomL0YDlp7O/rxyXx9gEnJIr0o9n6yukWSsDY9MKKt3SJt2HmJ2dNGpu2n+jtd+nv0Xq/TmaGLjHvcUyk26t/KlGz4gq9l;1mskOpnRWPzsifw0RHByWw=="
 ---
 
