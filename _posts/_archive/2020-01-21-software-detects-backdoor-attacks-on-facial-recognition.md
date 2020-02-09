@@ -114,21 +114,6 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127916599001_6127918301001-vs.jpg"
         width: 1280
         height: 720
-  - title: "London Cops Will Use Facial Recognition to Hunt Suspects"
-    excerpt: "There will soon be a new bobby on the beat in London: artificial intelligence. London’s Metropolitan Police said Friday that it will deploy facial recognition technology to find wanted criminals and missing persons. It said the technology will be deployed at “specific locations,” each with a “bespoke watch list” of wanted persons ..."
-    publishedDateTime: 2020-01-25T07:00:00Z
-    webUrl: "https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/"
-    ampWebUrl: "https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/5e2b36a1520cce000867c6a7/master/pass/Biz-londonaerial-912614070.jpg"
-        width: 2400
-        height: 1600
   - title: "Recommended Reading: Facial recognition, police and privacy"
     excerpt: "The best long-form writing on technology and more on the web. The secretive company that might end privacy as we know it Kashmir Hill, The New York Times Clearview is a startup that developed a facial recognition system that matches a photo of a person to publicly available images. Those can be from Facebook, YouTube or even Venmo. It's ..."
     publishedDateTime: 2020-01-25T13:30:00Z
@@ -728,6 +713,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "v1qV9EyQVPpr6/Ws4mW05Y7Zf9BQ1bTOIKzk0HdRdRR4rfE45MXlSFKEQTgJ+N3qi+6Lh0sX7gneTtKusO5Mw7SSgIm8uZluXVaSAs7bTlZwUTx2pgDEaKfGDfwSpL2KKqL63Xi2yAOXoS3YKxAXA/TwxrkbYAJ3LcnaC/lPYwpUlGqV94e33JnNedRWTKYLWOIxjiZxXAuyjd/9skyQzP5nwghSdI21Wu4SkMK0rz8+CENWfw5K4dBgGZGvV1kl6hDEz3nvh0Ma5NhnjRv+5SIHsyDhxywbjSznrNSIdd16WP2kAvKtolX4jT2yCV7M;SlWvH+fGJDUVrfv3XRfKBA=="
+secured: "sl/agvWhE1yY17dlODxs3nP5nPeC64fwuW4xbLQO0+lEwCEgpx3QnY8Pqy3wBV1CHTZDSnoHTusxWsP7nQUcglF1uRWHMSZ+XvWpHLotQ6z5KXxJfDCsjFB8XYQG5bAiBBt4o8UGiNJFVNzEGZgFn313AeQysGC3O4QsIE8XZXU9shGUOV8Zk2SrjDBXtGqE0Na6CjHWBA4bsc48DYYB0djguqVhl87XbonM+z1t0VuvPG0PWxQxlL0dKiQttL1wM4DmlEwjH9150NHaOjf37AYpl3P21p9WT0N9yl3pnpRLen8XdmNDxQo+KUL5Mlte;uakeFFUY+hATnEMLDpTwnw=="
 ---
 

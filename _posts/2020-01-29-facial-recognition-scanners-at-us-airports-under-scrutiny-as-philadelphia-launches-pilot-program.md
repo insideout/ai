@@ -103,21 +103,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
-  - title: "London Cops Will Use Facial Recognition to Hunt Suspects"
-    excerpt: "There will soon be a new bobby on the beat in London: artificial intelligence. London’s Metropolitan Police said Friday that it will deploy facial recognition technology to find wanted criminals and missing persons. It said the technology will be deployed at “specific locations,” each with a “bespoke watch list” of wanted persons ..."
-    publishedDateTime: 2020-01-25T07:00:00Z
-    webUrl: "https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/"
-    ampWebUrl: "https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/5e2b36a1520cce000867c6a7/master/pass/Biz-londonaerial-912614070.jpg"
-        width: 2400
-        height: 1600
   - title: "Recommended Reading: Facial recognition, police and privacy"
     excerpt: "The best long-form writing on technology and more on the web. The secretive company that might end privacy as we know it Kashmir Hill, The New York Times Clearview is a startup that developed a facial recognition system that matches a photo of a person to publicly available images. Those can be from Facebook, YouTube or even Venmo. It's ..."
     publishedDateTime: 2020-01-25T13:30:00Z

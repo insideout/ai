@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/06/ai-5g-and-medical-iot-can-help-de
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine/amp/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

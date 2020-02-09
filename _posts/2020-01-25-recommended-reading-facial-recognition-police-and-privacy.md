@@ -118,21 +118,6 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127916599001_6127918301001-vs.jpg"
         width: 1280
         height: 720
-  - title: "London Cops Will Use Facial Recognition to Hunt Suspects"
-    excerpt: "There will soon be a new bobby on the beat in London: artificial intelligence. London’s Metropolitan Police said Friday that it will deploy facial recognition technology to find wanted criminals and missing persons. It said the technology will be deployed at “specific locations,” each with a “bespoke watch list” of wanted persons ..."
-    publishedDateTime: 2020-01-25T07:00:00Z
-    webUrl: "https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/"
-    ampWebUrl: "https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/5e2b36a1520cce000867c6a7/master/pass/Biz-londonaerial-912614070.jpg"
-        width: 2400
-        height: 1600
   - title: "How to enable facial recognition in the BitWarden mobile password manager"
     excerpt: "The latest version of the BitWarden Android client supports facial recognition. Find out how to enable it. You need to be using a password manager. Period. There are simply too many reasons to be doing so and too few reasons to not. For the longest time I used EnPass, but eventually decided I wanted to migrate to an open source solution that ..."
     publishedDateTime: 2020-01-29T19:19:00Z

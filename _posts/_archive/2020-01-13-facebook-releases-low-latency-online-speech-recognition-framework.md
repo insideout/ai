@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-onl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Facebook releases low-latency online speech recognition framework"
 
 related:
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 54
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
+        width: 849
+        height: 565
   - title: "what3words and Speechmatics launch speech recognition and post-processing API"
     excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
     publishedDateTime: 2020-01-13T11:55:00Z
@@ -44,6 +57,6 @@ related:
         width: 620
         height: 500
 
-secured: "PgFcBmzhNALNQz/vbnPvt7H/TrMTYytTN8EnxjZzhGH57HWGTwj7KUu5GYJxvYUlTrBJOF7+Ekqty8Wg1ualf37FqDA0DitS7nFnpoyKoIClhUbcZtrLUunA13cRkLh+CcSvQceAJcG5jYmv45TEwYbRKDGPSjwSQxbX1UbuPT2/iiuY8e+8Tgn8q/HuSpn2tOnR95jP18H44m8KoiPGYK+Yii9NlfMJWC6Rittht/Ul8pkWb8VlnykJCiyrw27nqiUr1wXB78tDGJ4+FjmhGh5TuInGiLxuVyGif7exz70/93490KocgQdytIuECjOe;8TrjgOkcuNtgRto8c52oTg=="
+secured: "7klLW6Bz9a9t1zBAXPMryXUDy0N+qX+s0LlO+eYnQvlcVAUiBBvBwP2+SzI1rWLzfto7aELVP+XtbqWF1iviQEQCmD9UVg9ra6AzYzm0dWR/D1Y8AkXjYHpj7J2dYTmSpT8A5BlmwyghuId5v7tn5t3V1Tl0o4OzmCbRN/rRV+72NVhqtHb7X5s5Fr35nXhi0bIRINcR2fsXSRunTHRnGqgbbpkvyIbrTddgeKolW/d4NabPC6u0fWJfyXJG+eFPSDu/mQWpl0pLNJuKQ3nbRRjeLUwFB+6ziQEjvALiVCIXA//lFnIYIveCGwKHWIMj;vQ+jvbB5X685I8WFqMwXHw=="
 ---
 

@@ -39,21 +39,6 @@ related:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
         height: 878
-  - title: "MoHAP takes part in the 45th Arab Health 2020 with innovative preventive healthcare projects and smart services"
-    excerpt: "With a focus on preventive healthcare and round-the-clock smart services with no human intervention to bolster the sustainable development and knowledge economy, MoHAP is introducing a number of innovative projects based on next-generation technologies including; the Fourth Industrial Revolution, Artificial Intelligence (AI), and exploring ..."
-    publishedDateTime: 2020-01-25T06:56:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/MoHAP_takes_part_in_the_45th_Arab_Health_2020_with_innovative_preventive_healthcare_projects_and_smart_services-ZAWYA20200125061827/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200125061827/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200125061827/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
 
 secured: "jTuQyI6KGm+q5KANrTraj1rKBkVvptaTEeW7KFK4Z11Gk+HGKZUvGVDcFZXPqNtdeU24JWzSO+QZEDylTRL6TRPkxp8rlTDWqV6jkxKx4XWEWKNcrClTJzeDmT4OyaPBtLVDM64WVoWuZII13T2dUMdw5m7asPKAShGYf40rtDuj6G0gYRjdYlOT7EzkXnLzr9eOVhNvdV+IhDFP6PcrgtsbeXzJ5eJpU9c2gdXQwZ/2aZTiowQR89p/cgJt3KKbnhnO8nMou9Gx2VWLk/3aQaaJJQmZ1hERdgC5yPhq3bgWT/Bp2LFEpPiI/pnUiY8nGVk/+kFkw8Gl7QertYzoWPBB76JN3tZoq+aNab4X3jNpODkAohTLh/TGt45gHh1d+lUznixmyx9dJrcIr4gYzeZ21TuIWjDpiFT+v/FRmQP9PaRWl+ZNUAyKv3LAx2vX11ii1yaQ0I4UKDI4K8Vt5nvBele4ym4Gd4B1pukepCo=;qHpWQdvSJCvWE4U1lG+CDg=="
 ---

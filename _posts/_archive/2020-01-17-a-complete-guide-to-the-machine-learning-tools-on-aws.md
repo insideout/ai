@@ -1,9 +1,9 @@
 ---
 category: news
 title: "A Complete Guide to the Machine Learning Tools on AWS"
-excerpt: "Amazon Rekognition is a computer vision solution from AWS that helps developers to build applications that can recognize objects from images and videos. In addition to automatic object recognition ..."
+excerpt: "If you are a fan of self-driving cars, AWS DeepRacer is a small autonomous race car designed by AWS that runs using machine learning. DeepRacer helps you test your reinforcement learning models ..."
 publishedDateTime: 2020-01-17T20:13:00Z
-webUrl: "https://medium.com/awstutor/a-complete-guide-to-the-machine-learning-tools-on-aws-76dbf4e5aca3"
+webUrl: "https://medium.com/swlh/a-complete-guide-to-the-machine-learning-tools-on-aws-76dbf4e5aca3"
 type: article
 quality: 69
 heat: 69
@@ -27,6 +27,6 @@ images:
     height: 512
     title: "A Complete Guide to the Machine Learning Tools on AWS"
 
-secured: "MOBF9zsglxUrKAox0C6jNEchtjJ5lj/MwowSvguq7OkwFiYYxYvK4AbHv2/pSyjdIAkErAVQ8qkskhg3r6E9d/nMaFxQas9J1hDWd2VxPzvMrfTflqFOEZFtBQD3s9SKfmdzkEKa7X2Lwvbe3R9Ayl54freyRnqe0i8f3+DhSld6yoFsVG1tPsW9wWOp8LX0rSPc3Qvph+xnp8a3qVAZKIkXEJKQsRwA1oeP9aEMPl6uQH9qkPcsZ/3LJK63W/LEH1+vNxwmvcI9wY6v7MkYecM77fzX8EOV+xxkN0WqIFf+S0pPpXeHTewWvxGIeYtC;RThU/gaK/czXsDZsyQcVBw=="
+secured: "Fhnx4MyFV6aHvB/GdBm886PP7iSsVW7bnrxUPSwLCXQ3kqZwo3XzZvquNR278P4Jn91cOk8ZU0x+M6++VFKoJg5nsqW1SU6r0B1ITySK6qU2xwZZ0hBKUE4YgGlaAlQFwV1jXLOnhjsC1yzxy35bfWKbpvHfW5PFxCU/AQd+J9sFRmPGc9kDv5wda6XSeCh42ctnpJgWwzxzuvvWgbZnJMUlZma3kYz9PFJA0asQI3Zx37TAhgOamMRAwyKhOEl9upitMRyR81ZEgZSdt8sTNOTx/6hqA6IqHkilekUpRh4OgBWSqmrQajP5Fa0olaCe;pl/WURhbCYpN5c5BI8op4Q=="
 ---
 

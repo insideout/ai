@@ -8,7 +8,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-low-glucose-levels-via-ecg-without-fingerpick-test/73236467"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -30,8 +30,12 @@ related:
     provider:
       name: TheHealthSite
       domain: thehealthsite.com
-    quality: 37
+    quality: 57
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2019/08/artificial-intelligence-for-kidney-failure.jpg"
+        width: 675
+        height: 365
 
-secured: "Zw/cxHHlQLqwE1hWal8Snx4704aeVoWXyVo/ImzQwth5nb/BqaQCdh+5cvYr1p1f7tzUR/i4PAmwA2rCY5BclgAYtd2WP+NcwaE68Z1/TXK6Wu12ZExWIkuPxieJQyIIZWkiRqZdDBuxkwsqmfGgwEXY8EYvzlwYiZpUlJlB/oLXzy1vrpSZfmeap73mwdG0KIVEh712rMqiHw7NHrnRuYjs3V6Nc6YhjRbrKV5g6dfihLdBT5iC2hiDL7/pKhrb7J/Gv4+ITZNbULmn1Jxpl81yuVu95Qb0jf8dFoNQNjA1xtJTY+07IPsNHBuQBdkK;+PubaHH0Y/fvaRaJDmugLA=="
+secured: "PVuTc79TDWvCJN/5OGbu2mtylWGvDHd6lGimoHuJAKzTKgyw0Ulw1NRdW1mgQPO1rDMLm2xPZoFTCJcKHi2DaBuQ4J1qi1r5jc5BjH7UajCabmh4wTI2XRUcocsT740/9+QZoq/fI+YZByMIGnTC37dC68o2wiRUXNZhngbdoPCgoBz8poC28+efrVQIbWggd6QETO0exwfMSy8B2L+2MCsYzFBbiZ9KTw/qw8MA9lekI0LpuIuNcSY36+xc3iROYRDUdVawinRyxJ2jPP+KRQJfLojFkdAsyRNb/TQkHse/VesH3S09Nh5X0aDgauNY;fWvecbNW6lDNEO1loDk8jg=="
 ---
 

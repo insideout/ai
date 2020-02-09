@@ -29,6 +29,6 @@ images:
     height: 674
     title: "New AI dog trainer uses computer vision and a treat launcher"
 
-secured: "17b4vDN/ehZjrUQYbN9NlapBoF3sKvHyyvQH4N6HFDD1n1WUcO/mFtuA0lyiXcLYISL8yaTtve5U0J/VWumU5zGT5lTeJiLPe5cw8WPNU9OWRiG2CQ9p4lgJ/s6YVCisQYBaLDPJjklphnXikM5ru5/xB61x6vZwwoGz9/xBQAFEfNUc98KfGVaVKJnJxN9paqv8LPEE/SVtqK3Ef5oM6GMaMeFO4o2LHk6nD2vnS1EfIGQ3E4JBeEKwMBLgmrBaXflmVkePUbGfHXLyxG30MHjH+L2Y/LRRm8L6upq+LJ13BZ9bKTY/Pe5MvKO4CdZZ;1T6kIX6gTRGXxgqQGWGWkA=="
+secured: "N4zQq9uJJCYnUm5P8x5/F6nz4Zi76KntMGxEnZOvHZLt9trOAt3QSjOyvpQfohm3lEKm/qsc2cBGDCLU53p5lkZyaKupjxJ5TLY6G3ygmp5RVrd2GvRpDE8u1cf2+cLmCGZKLpDVg9qcQVmKil8u525alf5VQQml8+wLQm9AoOT5BJaqX6LqUHhtha0NODno7p6wfVIela1AJ0p/LPoQmGFZNEdsu7pwue9pI5MrtdQ4MQFhHwOfqEwDH7sCdbyLRywv/92nSCAa3dftssAoVcd12dlZY/3cFPkVVj/g3OxQK6Geg17PWra8XGFtPQ4Q;iV4SgKfCQLLSf5/xR5EKLw=="
 ---
 
