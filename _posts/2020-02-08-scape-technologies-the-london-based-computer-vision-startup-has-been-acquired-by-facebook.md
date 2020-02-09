@@ -45,6 +45,19 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2019/11/Mark-Zuckerberg-F8.jpg"
         width: 805
         height: 503
+  - title: "Facebook buys start-up that uses AI vision to find location"
+    excerpt: "Facebook has acquired Scape Technologies -- a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). \"However by looking at other ..."
+    publishedDateTime: 2020-02-09T12:38:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/facebook-buys-start-up-that-uses-ai-vision-to-find-location.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/facebook-buys-start-up-that-uses-ai-vision-to-find-location-2020-02-09.jpg"
+        width: 1000
+        height: 800
   - title: "Facebook buys Scape Technologies, start-up that uses AI vision to find location"
     excerpt: "Founded in 2017, Scape Technologies was developing a “Visual Positioning Service” based on computer vision which lets developers build apps that require location accuracy far beyond the capabilities of GPS alone."
     publishedDateTime: 2020-02-09T14:04:00Z
@@ -64,15 +77,6 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 19
-  - title: "Facebook buys start-up that uses AI vision to find location"
-    excerpt: "Facebook has acquired Scape Technologies -- a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). \"However by looking at other ..."
-    publishedDateTime: 2020-02-09T17:58:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200209/3501949.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
     quality: 19
 
 secured: "BCBsDBp9yo/9m6mIVtwHCc5pVohIhscb6MzdIg0x3Q4XfMB8e/6tlb6xrhOtHwVwNV/NpVMwrrkhsLrkFyUTwLt+JxYpM7A8xOO9saVvD+CGP6LI4NUH7wWtOqrCE/TSKTimUgIU6Ag7viOk6qRRvBxTsgbeogmbHna0s9iNTtaT1zde2CnUDeqJhInG1YQQMFGgYRoAUjSYJDLZZAU5OUeYU99m7w+7gWCO05BlymRJ0CkzGSNT7US/wMRbzw3y8504FGAWQVux1KmyJ7V54RMBdDVYOOkO9VrfyYBkv3GUlxZ50sPfejs9U5WWa9RPywq9o6hEoV7tMEKuxK78vaphXt2qmZwgy7elpHWsqDwPWQD+hk8C1zFioNWU3L0OH8qWgdbwTtKvaxwkG0XYgOenoMZbye1Zj/JNg46pRWnDHLUuDpe/QF0bzXpwUz1rb2KkKUr2D9eUdGeCO7v4kM+fkkzH9psrtthInSMnEf0=;IQkgivGAJ6g+iaRb2XIjPA=="

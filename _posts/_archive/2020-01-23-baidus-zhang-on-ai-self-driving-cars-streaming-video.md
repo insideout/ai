@@ -88,6 +88,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "GzaqvrwySvobBIhPR2zguyA9/kHKpI3RjC+VItA3Lb2rNVsqQnaauYTAK+FEhAn4UAgujIy2bASYsHgO4sPrAvlz00rtIPwOyNkwxfmCsyYZwfMmc1FPD0UGtc02CredaXafMw/63nbBi/McI9vz3USI40u/Yzur/k1lwWy+unWMeY7T+Okgc3KXWWF9sqFSUc4dY9ql0AAZfh7RbA1FPZr6L3M/BjsThTXcIDAtbYuDO8nuBb5AWM4Xnpz0VXSqyhG6ikFZG/jFSXjMKFX4Dh/YsZJb0OHjnV2UfekUe6ctBiymV3GA+9FH1tLC7z/e;TciuesdRQRIyrNB6uJEu5w=="
+secured: "FM2hEhNKxWP3Uzhi6TCVwBKXkWZlQTqiJF5+G9r3X19s3eGt2fx7qgi6yVO+/0IhtRyhuToiiFQ5Sa/UrXPsVIrn0iiqJ76odEYesX4XKDs75YCLgufJco3V6ZHZ+kn+HKmllrOKexAaKDAnD6wTTvEKwUgppvScPzohIvP1cudn4JXbJ8CBcqz1gBWftSoQ2xRQ6fHPH4gyMqv1D6UFkxdHYbYHd7ZNO7JNId0uHfBdoxJkzovryDsSP2Zlmc48IREDjHJjqsAHoSaGmlBz0OVWd0H4mhqDDQjqpSu68770+o99t09nI1j50Aoqtk3O;x7P70j4QUU1K79oqBM1F9A=="
 ---
 

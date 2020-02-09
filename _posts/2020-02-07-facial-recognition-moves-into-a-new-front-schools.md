@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
-excerpt: "FACIAL recognition technology is being used in an increasing number of airports around the world to speed up the time it takes for passengers to go through security. But it comes with growing concern over privacy as it's revealed photos of travellers could be stored for up to 75 years. Philadelphia International Airport (PHL) is the latest to ..."
-publishedDateTime: 2020-02-04T11:36:00Z
-webUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/"
-ampWebUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+title: "Facial recognition moves into a new front: Schools"
+excerpt: "Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent of the district ..."
+publishedDateTime: 2020-02-07T00:02:00Z
+webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-facial-recognition-moves-into-schools-20200206-h7uhvpxvvzgohekefidh2wwjzu-story.html"
+ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-facial-recognition-moves-into-schools-20200206-h7uhvpxvvzgohekefidh2wwjzu-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-facial-recognition-moves-into-schools-20200206-h7uhvpxvvzgohekefidh2wwjzu-story.html?outputType=amp"
 type: article
-quality: 62
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Sun
-  domain: thesun.co.uk
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
-    width: 960
-    height: 640
-    title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
+  - url: "https://www.orlandosentinel.com/resizer/zWvr_c3ngJ0dRE6pWXHg4ThFrc0=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WLUPWCDK2RCB3JO3N6PDNYRV2Q.jpg"
+    width: 1200
+    height: 800
+    title: "Facial recognition moves into a new front: Schools"
 
 related:
   - title: "Can we keep facial recognition from enabling a surveillance state?"
@@ -41,6 +41,21 @@ related:
       - url: "https://img.vidible.tv/prod/2020-01/31/5e33a59c7a51ca78cb66fec7/5e33b0dc093398265b55af20_o_U_v1.png"
         width: 1280
         height: 720
+  - title: "Airports keep our photos from facial recognition scanners for 75 years – sparking privacy fears"
+    excerpt: "FACIAL recognition technology is being used in an increasing number of airports around the world to speed up the time it takes for passengers to go through security. But it comes with growing concern over privacy as it's revealed photos of travellers could be stored for up to 75 years. Philadelphia International Airport (PHL) is the latest to ..."
+    publishedDateTime: 2020-02-04T11:36:00Z
+    webUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/"
+    ampWebUrl: "https://www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/travel/10887767/us-airports-keeping-photos-75-years/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 62
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000522410272.jpg?strip=all&w=960&quality=100"
+        width: 960
+        height: 640
   - title: "Facing facts: Reject a blanket ban on face recognition"
     excerpt: "State Sen. Brad Hoylman never got the memo. He wants a sweeping ban on the use of face recognition technology by police all across New York, a prohibition that would force cops to fall back on flawed human recollections. Hoylman claims his radical step is needed because we are hurtling at full speed into a dystopian future that “threatens to ..."
     publishedDateTime: 2020-02-04T09:00:00Z
@@ -86,21 +101,6 @@ related:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/FACIAL-RECOGNITION-EDUC-2-1-300x450.jpg"
         width: 300
         height: 450
-  - title: "Facial recognition moves into a new front: Schools"
-    excerpt: "Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent of the district ..."
-    publishedDateTime: 2020-02-07T00:02:00Z
-    webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-facial-recognition-moves-into-schools-20200206-h7uhvpxvvzgohekefidh2wwjzu-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-facial-recognition-moves-into-schools-20200206-h7uhvpxvvzgohekefidh2wwjzu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-facial-recognition-moves-into-schools-20200206-h7uhvpxvvzgohekefidh2wwjzu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 59
-    images:
-      - url: "https://www.orlandosentinel.com/resizer/zWvr_c3ngJ0dRE6pWXHg4ThFrc0=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WLUPWCDK2RCB3JO3N6PDNYRV2Q.jpg"
-        width: 1200
-        height: 800
   - title: "New Jersey state attorney general prohibits police from using facial recognition software"
     excerpt: "New Jersey’s attorney general, Gurbir S. Grewal, has instructed prosecutors across the state to stop using Clearview AI, a private facial recognition software. Clearview AI's tools allow law enforcement officials to upload a photo of an unknown person ..."
     publishedDateTime: 2020-01-27T23:15:00Z
@@ -209,6 +209,6 @@ related:
       domain: emarketer.com
     quality: 3
 
-secured: "3TIB4nZFP6Kedf8t0eVPKh6+nbYoJ0UBcgyFnynCY4tfmP1IdICOhnlnTzUfqUJrhepdnAl9xkIftWmlSZPTz/US+FMwFJ19IA0gMjJuvZ3Yj+NOCqdCZjcQbq91DDYg+ifpxiyNzs7iCumi6o+oeqkxh9YuuddFHSCe7eprZ00yQ6orcuZotX1aCCUMqDpKmiIUDMuAuM4zqQkqGUvfchOVyY0jLXZaOXwXhJJytVtbSyKRmmKBX736AnIds4cudNiqRljkgtcyNUezXrtePNWMhhO8Q5Ml0Cbgd0ogYNHz1eB6zGQ8i48m6GApCTzTvQgEfRyGVRHbTEFoWAg4dO3ghbTXwjoUZBd7yoWJFb3e33Uo272fkHQ4GoxgClQ2PZVQ2X+oiflQbMc/SxA+mNj1i1c1zmAHyXp8DBaV/3R5o7+/huKCXCIYOJ2on/NWt02NfQQD4O4BDZ4BaSR7CxydnKvcBG7G5vBK5wcgiyg=;Z+MdI5k+7wKcb5HNOmCjhw=="
+secured: "jPl/pqicx83QDSdjdLwgyMJyNDFLKOz4Y7bg4ZqyMhZJm410OzKmjvLfqeFfwxFDJtVlxJJLVBgQ+/nydjDwm+xh8cJslbBiGhTPYlBCcfyqpjfsmRqz0k6i4UPXmGKx+os8N9HjkcmpqflkMDB5sOaSzoLXDL7eV8xIhrXRAU4vG5aiY4ua1rodRGiWPbd9VkCuDlFiNdtlUSzdZOyBo8fnYDBJePdD7P66oL9czzh3+ExuI9D2gp/ikpZvxSVP3IPSDPQ4eWKVBHW3EfdKmSw/JdnP3Hu6AIk0RlNhahYxttkqEWuV+jYNtdQq6VbY;Psgl5HEmKOyLrIkWKgrFdQ=="
 ---
 

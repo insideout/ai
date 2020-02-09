@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-onl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,16 +56,7 @@ related:
       - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
         width: 620
         height: 500
-  - title: "Speech and Voice Recognition Market"
-    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
-    publishedDateTime: 2020-01-16T03:17:00Z
-    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
-secured: "LyI/8ZmITRjdqoZFoY+dZdkQVnU//PMosM73n3MDC2SvuR1uMoT7STrfun/emjxIa9tHKA0IoTGAvoqn09a//U2UoSsptKHpcf76MzwbPhS8VuXesMQg/LkW5qBPWkTty4Y12knxYdb0kM0Y0jLPO9v4Za+tBp0i8thP+vata0un3WMi5Vl+yUvaqV1kRZQ0i+JpGRD5Zs6T+cLYeSyPaSg5E5Xo8LHIMOcZl3EVj/8tO8EMGG3DdxX95zav3I6WJbJHoc6IJwkCkW8uI/xc1xDhAwBnUkEP7HJBGOL5S0DR+FizdG71QPvhKchiuicx;exEXR2ih31Ga7OjR2B3wuA=="
+secured: "ShXmYZE4eg2302pi/hrvOL/PNduKZZqyIdmNKKYTy2Vuq7czAf7kcbCUUQzmTVg31tJQNowryOMzOxLTzMYcd8JqmwmG4eIMHtW6kpEEANK9izzew6sirPXFvYgASaiIZH9ZONsEwM55Fic6SVYM3z9oPt++jAgFiHvKAy4v2HLs2GwaYlpq2c0J6FgC/3FOkdWIndPYwRZEF/Gw+dpdtttMpcPfJYDdkR4B2+wiN+LR4GVkF4bJr/FHLYFMWP8qZjLGA8KkBs+lLEEugXrXGAUuWyr20F9xnbbjjBhB74lf7mgzss7F5b2o99a3x7Li;Mk9bIUnkbXBj8KMULmhDRQ=="
 ---
 

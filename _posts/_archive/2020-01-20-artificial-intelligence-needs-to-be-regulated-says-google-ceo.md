@@ -54,22 +54,7 @@ related:
       - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
         width: 600
         height: 338
-  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
-    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
-    publishedDateTime: 2020-01-20T13:52:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
-        width: 1000
-        height: 652
 
-secured: "eTJMSBFslUbpxZQy62iYleUSBK5BDyR5WzjjuyS0BObsJyPpcroKnAr4twAF76kqzz3OjxOtKQxCsRJLw8uIwyD2ydnKS1jhhjSPatsBDGim61MzschBZV2wXZSJ21Mm4rdzw/ge6LLhfk2EFnIVeR94/2j/JlWF4JhYiUQ0hQvlLK1NUxUA+hjO4/duLzzhFhloXFBL1eA2TuNsuPs+ZbRPptJRhvHuer9+Gt+GNSwrH4xk+NdqbwDLSzqWmU00sppkUurT8PHZx4HFZtWp293mli4AtrvXg9wvZ+MomWMsolpVkB4MJNCHyCPuTOsc;thvlnD31a01LqC/uvYXGeQ=="
+secured: "nuINuOjX2s8qO0CTzBzAfOzBJqu9OCOnRV3OpivY2crin4UlD6dW4S619f3aHOaNlrnQtaFFMEIr68YbogrvphA2U/RegwY+LyILOeIaqDHUZ2HY2KepNf9t0B+z/snwaPTvHMla7mu0XlURI3mMXdwSE4c6/sRt4AYGHMl/uow+UUQtwpM9bdB8HpMspAOEZbQCdiXdy/IeunRcHEoFTL26Q5pJseVM4hNsblqGMvTos26qCa9hmY12ptVH3HRadWNuptZ39u/GXvfzg23L63hXE1Y0oyqgsK1twpRMyRHZIHrxrZsuA8ZVdn2ZnjfN;9UwQY/gE2Lzdn0UNUkqWYg=="
 ---
 

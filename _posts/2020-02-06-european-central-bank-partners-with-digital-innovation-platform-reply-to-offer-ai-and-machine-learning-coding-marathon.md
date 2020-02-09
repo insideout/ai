@@ -41,18 +41,16 @@ related:
         width: 914
         height: 611
   - title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
-    excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
-    publishedDateTime: 2020-02-04T10:24:00Z
-    webUrl: "https://apnews.com/Business Wire/6cc89506c97d469ba190f5fea31af2a0"
+    excerpt: "The European Central Bank (ECB), in collaboration with Reply, leader in digital technology innovation, is organising the \"Supervisory Data Hackathon\", a coding marathon focussing on the application of Machine Learning and Artificial Intelligence."
+    publishedDateTime: 2020-02-04T09:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/b15243725/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15243725"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15243725"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
 
 secured: "bN2nYA/YnVjUkKfjy3tDX+k1GGb7yeVN1cHcr//ACWVo/MForZElwKAw/1vqtVLDo764mErW1H9EQtCVvUlHUYLNr0X+X/iReSgBl2Izv8UCTlk63yCb0fCaVrO8sMGcW0TWJ88sTX6ZD/CtrIXxwO0T9tIeqBbeFYjwmChbCS6atOZ2iHtnUt6RzVRgJlWoqQjtOySP7rj0mtWF1Yi5gVnBGMLrlhJOfsdIOwVv2pVsolSwJatojty3yAc1uZsYfo8g9qdqtGxnbG1aFYePCpAeznMLo7d6g/RkqpRXE/PiF6RSi3bkwlRFyNbtK5YI;2rnZQFjv4rp4gUmB6Dhx5Q=="
 ---

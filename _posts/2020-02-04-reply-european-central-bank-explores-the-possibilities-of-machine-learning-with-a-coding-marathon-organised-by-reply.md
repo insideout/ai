@@ -1,27 +1,23 @@
 ---
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
-excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
-publishedDateTime: 2020-02-04T10:24:00Z
-webUrl: "https://apnews.com/Business Wire/6cc89506c97d469ba190f5fea31af2a0"
+excerpt: "The European Central Bank (ECB), in collaboration with Reply, leader in digital technology innovation, is organising the \"Supervisory Data Hackathon\", a coding marathon focussing on the application of Machine Learning and Artificial Intelligence."
+publishedDateTime: 2020-02-04T09:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/b15243725/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15243725"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15243725"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Finance
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 
 related:
   - title: "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon"
@@ -53,6 +49,6 @@ related:
         width: 914
         height: 611
 
-secured: "PEsY7KKH/XHmz8cY4yHcrUdYCeVdCIorXS7Zr18qPS2BmIuap0tEDS0NzBaU2hy7mRZuhhZLd1TcjXsuv+wRLv8PrcEH6RpFtGSyndGsy/wOT2UIJRMAaKpnpad76ym2pdikiE56XJveee/VGIq8mEL9VeI+jg/J96EFDa8lngguWxDYbdB9mRbaHL0A5anMfcRADd7VihkH1GxWKBodLnS9qml50elg+ESKQq9VTmxdqeq3GBeNc4Ywp9/4DulShEDPg9XjxYPBc0oltE4UYzEW8bTLSnGLjtwGrIAVKtuSdRgF4RUK2i2o3tuCpG7D;BqXqs1viuhoxH4asQkAldQ=="
+secured: "+60HTI3vRYiQjCLt/0F4Kxcocwrb1o26lPOBQbwI99E3nnMzKzg1KoItCDLzUGsOu01gma9KcCjr0R6cmqkWlbbky09Rn9H7C4spEiZOCleYzKqWQmr5NpTOI/JiF1C1brUT7HT4Xkf1hptblJeyTUuvD4Uxbc5YyOJB9lKC/0SnUwsV1ewaIeaQLKy66V802HxkXK5LXAWfNhZkmoEDlrADyQjgDSFCUPwnyEGHTHwsuv3b1S/hxqXg+IhLdsgLlYfFSCqDA+05Ye0kBinLKhK9yXcKjbdFZGR7+vMymd6xjv2PiMc4B8WlulA+aP25;wJZA5t/PxoytnBksU/twHg=="
 ---
 

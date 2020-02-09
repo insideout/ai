@@ -69,6 +69,21 @@ related:
       - url: "https://wp-assets.futurism.com/2020/02/waymo-workers-people-keep-injecting-drugs-self-driving-cars-600x315.jpg"
         width: 600
         height: 315
+  - title: "House panel to a hold hearing on the future of self-driving cars"
+    excerpt: "WASHINGTON — A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San ..."
+    publishedDateTime: 2020-02-09T18:48:00Z
+    webUrl: "https://www.autoblog.com/2020/02/09/house-hearing-self-driving-cars/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2019/12/26125219/Cadillac-CT6-SuperCruiseEngaged.jpg"
+        width: 800
+        height: 450
   - title: "This self-driving car has no steering wheel or pedals"
     excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
     publishedDateTime: 2020-01-31T14:41:00Z

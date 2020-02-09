@@ -86,6 +86,21 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2020/01/mlkms11.jpg?w=1024&h=676"
         width: 1024
         height: 675
+  - title: "Facial recognition moves into a new front: Schools"
+    excerpt: "Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent of the district ..."
+    publishedDateTime: 2020-02-07T00:02:00Z
+    webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-facial-recognition-moves-into-schools-20200206-h7uhvpxvvzgohekefidh2wwjzu-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-facial-recognition-moves-into-schools-20200206-h7uhvpxvvzgohekefidh2wwjzu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-facial-recognition-moves-into-schools-20200206-h7uhvpxvvzgohekefidh2wwjzu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 59
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/zWvr_c3ngJ0dRE6pWXHg4ThFrc0=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WLUPWCDK2RCB3JO3N6PDNYRV2Q.jpg"
+        width: 1200
+        height: 800
   - title: "New Jersey state attorney general prohibits police from using facial recognition software"
     excerpt: "New Jersey’s attorney general, Gurbir S. Grewal, has instructed prosecutors across the state to stop using Clearview AI, a private facial recognition software. Clearview AI's tools allow law enforcement officials to upload a photo of an unknown person ..."
     publishedDateTime: 2020-01-27T23:15:00Z

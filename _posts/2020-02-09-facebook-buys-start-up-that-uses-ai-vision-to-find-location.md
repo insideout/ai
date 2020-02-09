@@ -2,20 +2,26 @@
 category: news
 title: "Facebook buys start-up that uses AI vision to find location"
 excerpt: "Facebook has acquired Scape Technologies -- a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). \"However by looking at other ..."
-publishedDateTime: 2020-02-09T17:58:00Z
-webUrl: "https://news.webindia123.com/news/Articles/Science/20200209/3501949.html"
+publishedDateTime: 2020-02-09T12:38:00Z
+webUrl: "https://www.dailypioneer.com/2020/technology/facebook-buys-start-up-that-uses-ai-vision-to-find-location.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/facebook-buys-start-up-that-uses-ai-vision-to-find-location-2020-02-09.jpg"
+    width: 1000
+    height: 800
+    title: "Facebook buys start-up that uses AI vision to find location"
 
 related:
   - title: "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook"
@@ -69,6 +75,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "JX1Cd+VqKt++uCVEydP8AL2ZkBY6G9NOCvjP/LudXASuEqilTVctM7tsEINch0feRzu9pUf5iggE2U9qQjCGfi5Ag9YqOasqsgw/hysmF4XGs6vnIJITLYMhEbH8yG9VQhonNXdUvn4qUfIttKbe/NHEoElVUgvkhU/4+IcWRdAmpv04evfMXgGsqb+3GccWvqty/beEnr7GuTW4JtR2hP7PFb6gmJTCUUkM3vT0epM0iMAja0rxOwRUurJgFtWFyvIwOnQ8x870QcEXyDWNfR7gq4lcpJHNePT+oGBp6eFeaqiohxi6RYCnapqEPEl3;Ohe1yfoUT5poZ0ldMQDFvA=="
+secured: "1UCB0s2gnVrxWkbBQG9lbizHqzyBXU2F4NuqsbRP+hUXUZk/19S/suzbzDslSPCldevVNGwE96Xgj5qSLozNpb2SBVz7SjL2YzfwoJoEAGEzOdKN7dQctkkhEqqxpsvXcl7a/TOsa+/GCtFGN7gBGQLuAbhG/DONhmpEs+BHADdOOeIj+zY2RCCzJDagbvpTG7uUf52uIUKCzye+n/ORo41qujEIyLK5tM/DvGKQWmoj/+r5aFPSryZeUjnAjdVXtTWtqPjoPdQkBykqQbMIaDUuMDm7OnKBnNNiKBtNVE6K3vTebi2Xx9uIY5wCP6h0;hc8WvI54Yf3Bh9uTWSuQBQ=="
 ---
 

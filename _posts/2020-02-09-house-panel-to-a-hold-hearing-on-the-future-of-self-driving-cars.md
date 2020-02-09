@@ -1,27 +1,29 @@
 ---
 category: news
-title: "BGU developing system to stop self-driving cars being fooled"
-excerpt: "In a concerning phenomena, researchers at Ben-Gurion University (BGU) Cyber Security Research Center have found that a phantom image projected on the road in front of a semi-autonomous vehicle can cause its autopilot to break suddenly. This could endanger the lives of drivers and passengers alike. In a statement released Tuesday by BGU, the ..."
-publishedDateTime: 2020-02-04T13:36:00Z
-webUrl: "https://www.jpost.com/Jpost-Tech/BGU-developing-system-to-stop-self-driving-cars-being-fooled-616492"
+title: "House panel to a hold hearing on the future of self-driving cars"
+excerpt: "WASHINGTON — A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San ..."
+publishedDateTime: 2020-02-09T18:48:00Z
+webUrl: "https://www.autoblog.com/2020/02/09/house-hearing-self-driving-cars/"
+ampWebUrl: "https://www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
+cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Jerusalem Post Blogs
-  domain: jpost.com
+  name: Autoblog
+  domain: autoblog.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
-    width: 822
-    height: 537
-    title: "BGU developing system to stop self-driving cars being fooled"
+  - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2019/12/26125219/Cadillac-CT6-SuperCruiseEngaged.jpg"
+    width: 800
+    height: 450
+    title: "House panel to a hold hearing on the future of self-driving cars"
 
 related:
   - title: "GM’s Cruise now has 1,800 employees working on self-driving cars, up from 1,000 in March 2019"
@@ -69,21 +71,6 @@ related:
       - url: "https://wp-assets.futurism.com/2020/02/waymo-workers-people-keep-injecting-drugs-self-driving-cars-600x315.jpg"
         width: 600
         height: 315
-  - title: "House panel to a hold hearing on the future of self-driving cars"
-    excerpt: "WASHINGTON — A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San ..."
-    publishedDateTime: 2020-02-09T18:48:00Z
-    webUrl: "https://www.autoblog.com/2020/02/09/house-hearing-self-driving-cars/"
-    ampWebUrl: "https://www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 44
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2019/12/26125219/Cadillac-CT6-SuperCruiseEngaged.jpg"
-        width: 800
-        height: 450
   - title: "Waymo Self-Driving Car in Manual Mode in Crash"
     excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
     publishedDateTime: 2020-02-03T17:40:00Z
@@ -108,7 +95,20 @@ related:
       name: Marietta Daily Journal
       domain: mdjonline.com
     quality: 24
+  - title: "BGU developing system to stop self-driving cars being fooled"
+    excerpt: "In a concerning phenomena, researchers at Ben-Gurion University (BGU) Cyber Security Research Center have found that a phantom image projected on the road in front of a semi-autonomous vehicle can cause its autopilot to break suddenly. This could endanger the lives of drivers and passengers alike. In a statement released Tuesday by BGU, the ..."
+    publishedDateTime: 2020-02-04T13:36:00Z
+    webUrl: "https://www.jpost.com/Jpost-Tech/BGU-developing-system-to-stop-self-driving-cars-being-fooled-616492"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 24
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
+        width: 822
+        height: 537
 
-secured: "5MTBir8fsgksU1FO1S4rX0BNBymvxe2AW2wV6wMS7uJTQV16NPyofhgvtf1mK2D+WHvgfz72QEpJTBb1O8MruCMaBtYSsM66xtYYthXbZx6+j7dw3xcccVFPw805UXODeb0r0hBFrBqD35xgIj3Rg86BfshYeuWY+wWd/XiRtk41JVZOPWBLhLBAus53p12VWlRG6bUAnbRFdNW/qzwHiBfIQIJnNkwDNl66iQ/iBLlFswmD8zKKqCdbwS/gMUDLVPU9/MWgoqCAGWDGO3EN1v/wU6manjev2hbsMNrFgt6nMzhuHau8yD+t5B34FOaknSnPShWDyoww2yXe+krcQSflDJ6TtMVAosO9GYofHPaqCVZjOdgImoj6tXVV2B2JKHqLpiJ+z0iVdYq8NkFsjw/3AoWCSkAswxylcY0f/TzE2z/kC8EoYqscZ8gz4wD+I//eo5LA1y66D5QWwqPY6Gd08p0T+gh+Jyq6ofYFmZU=;Ts+U4tskRWSXNG/43wULKA=="
+secured: "sI9n1EbUvBldg6k8BgpE8LBzxckaLivSd4iL/TyUzAkqXe1p8HqSLFRkk04RUjUIErPuVZrdZc0tqCqwtnbvUkouDVvCU9u3Eh0fcvYZvrUiGvxsdph9K+SIsxJlA1vqmI0fQ2zHvSXXKY5vFZWiMAoJptXTNjFzj8cg9SSj3MgaxuHCrDnRRNGBFgOI01YcPJLaA77k+jcKuVDCd3L8WrvdoglF8pk8uh1BdEPLjJg94QTVSoROf/7DmR1GrcvkECV0oJvqaozwpa6mbVdi7D1jQYYqhatE8XByetPy8/5C1mnKL8yDzDiu9ZCr20uX;NsK0CMSH1izGALVP12t/DA=="
 ---
 

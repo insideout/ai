@@ -56,6 +56,21 @@ related:
       - url: "https://media.wired.com/photos/5e31fb604770d00009f20a9d/master/pass/Transpo-snowycar-969384808.jpg"
         width: 2400
         height: 1600
+  - title: "House panel to a hold hearing on the future of self-driving cars"
+    excerpt: "WASHINGTON — A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San ..."
+    publishedDateTime: 2020-02-09T18:48:00Z
+    webUrl: "https://www.autoblog.com/2020/02/09/house-hearing-self-driving-cars/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2019/12/26125219/Cadillac-CT6-SuperCruiseEngaged.jpg"
+        width: 800
+        height: 450
   - title: "Waymo Self-Driving Car in Manual Mode in Crash"
     excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
     publishedDateTime: 2020-02-03T17:40:00Z
