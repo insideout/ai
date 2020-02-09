@@ -1,28 +1,30 @@
 ---
 category: news
 title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
-excerpt: "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a ... Specifically, the company is developing self-driving trucks. Compared with providing robotaxi ..."
-publishedDateTime: 2020-01-21T13:14:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/3-businesses-that-can-take-google-stock-higher-in-the-near-future-1028831901"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/3-businesses-that-can-take-google-stock-higher-in-the-near-future-1028831901"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/3-businesses-that-can-take-google-stock-higher-in-the-near-future-1028831901"
+excerpt: "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a license to start testing driverless cars. Waymo is moving forward with plans that could be easier and more lucrative than operating robotaxi services. Specifically, the company is developing self-driving trucks. Compared with providing robotaxi services ..."
+publishedDateTime: 2020-01-21T11:55:00Z
+webUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/"
+ampWebUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
 type: article
-quality: 54
-heat: 54
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI
   - AI in Autos
 
-secured: "xzP2DfxPHtEu7/pLlDK8KxmOvb7Cb00K3WgmtS/TGvJIHmJE6+kdyOTAAiI5QQgnpttteGDF3uLpACw0tb4Qb3nWuL9sFy6fp6kvBpkI3WfQyUImbbUNu5aoSoPwfdiob+2JH3r1kZbmUfcJsz7KJG48oCPJEZ7cmPf7IVSbnsbDVJrcOrI+EzpVEkU6d3w3N4dXkuDT369IUPhxirhyooO9NxtIF6bhJJlJl6Lpd+Xz/150+Rt/KB7fsNDNP6oehICG7b8pV7XYGv0sEf2biLKVj6GpXozn1Slt9HTApIngCCuBvIcGPicE3szmUUtd;mQNqhA6fgUOdMPbJPrn2xQ=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/Googl_1600.jpg"
+    width: 1600
+    height: 900
+    title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
+
+secured: "5GgR5QLm92FoRL8IBql+wwySZmBXmFTH7N4zlGUa6e+CVEIE7xn0WTue8ZXB8vyqs3AWdn0cW4Jf7RS+CN74QhrpE8mbMp8IZxCPAFUzyoWXV/2OkJyGltrEcnU6GHAowkGCDd0CmUok1H0yw02UrsUWvYVRgnajaj40gop6NGpmbQgOeTvrflddteR0ANc0Na1wRlxJV2cJuxve+VPsa6N7rCXmskgv4ohcIzZQmRCbP62K8jgNaZecfzSTsBVxXw3u2oim81/wOp0d3GtnpLBtjEQ55roo1BUTXfwn5GkOUsjGynuySa5x5nYdUdXl;NEaJOXv45wKL7yJ7p/qq8A=="
 ---
 

@@ -99,6 +99,21 @@ related:
       - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
+  - title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
+    excerpt: "Using software to scan Facebook photos is not a major privacy issue. If technology can keep us safe, it should be used. Of all the ways that our data and likeness are being captured, the Chicago Police Department’s use of facial recognition software,"
+    publishedDateTime: 2020-02-09T07:00:00Z
+    webUrl: "https://chicago.suntimes.com/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 51
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/SJDNyFPKND1oloaCAHgrhYqlrzE=/0x0:5689x3000/1400x1050/filters:focal(4044x1028:4954x1938):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66279860/edita_facial.0.jpg"
+        width: 1400
+        height: 1050
   - title: "Tech giants hammer facial recognition startup"
     excerpt: "Facebook, YouTube, Twitter, Venmo and Linkedin have sent Clearview AI cease-and-desist letters in the wake of a blockbuster report that the facial recognition startup has scraped billions of people's faces from their websites, the New York Times reports."
     publishedDateTime: 2020-02-08T21:15:00Z

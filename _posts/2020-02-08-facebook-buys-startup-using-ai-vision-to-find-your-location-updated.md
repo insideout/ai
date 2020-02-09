@@ -1,27 +1,33 @@
 ---
 category: news
-title: "YouTube demands face recognition firm stop harvesting videos"
-excerpt: "NEW YORK — YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny ..."
-publishedDateTime: 2020-02-05T19:53:00Z
-webUrl: "https://www.pressherald.com/2020/02/05/youtube-demands-face-recognition-firm-stop-harvesting-videos/"
+title: "Facebook buys startup using AI vision to find your location (updated)"
+excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
+publishedDateTime: 2020-02-08T17:28:00Z
+webUrl: "https://www.engadget.com/2020/02/08/facebook-buys-computer-vision-startup-scape/"
+ampWebUrl: "https://www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Portland Press Herald
-  domain: pressherald.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://i1.wp.com/multifiles.pressherald.com/uploads/sites/10/2020/02/Clearview-YouTube-Facial_Recognition_21500.jpg?fit=1000%2C667&#038;ssl=1"
-    width: 1000
-    height: 667
-    title: "YouTube demands face recognition firm stop harvesting videos"
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F7a46c7b0-4a8b-11ea-bbbf-1c3d171afeaf%26client%3Da1acac3e1b3290917d92%26signature%3D2d974150179ef44b8290709e15088aefd3cda7fc&client=amp-blogside-v2&signature=f00fad49113cfed9099a2e85502dd4e6422c103b"
+    width: 600
+    height: 350
+    title: "Facebook buys startup using AI vision to find your location (updated)"
 
 related:
   - title: "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites"
@@ -63,21 +69,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F06%252Fc6%252F5335378eb82744b8b802e7bfae6244aa.18786.jpg%252F1200x630.jpg?signature=83PU2mA_LKCXx5zQ3q2x6kyFAW4="
         width: 1200
         height: 630
-  - title: "Facebook buys startup using AI vision to find your location (updated)"
-    excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
-    publishedDateTime: 2020-02-08T17:28:00Z
-    webUrl: "https://www.engadget.com/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F7a46c7b0-4a8b-11ea-bbbf-1c3d171afeaf%26client%3Da1acac3e1b3290917d92%26signature%3D2d974150179ef44b8290709e15088aefd3cda7fc&client=amp-blogside-v2&signature=f00fad49113cfed9099a2e85502dd4e6422c103b"
-        width: 600
-        height: 350
   - title: "Facebook buys startup using AI vision to find your location"
     excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
     publishedDateTime: 2020-02-08T17:28:00Z
@@ -138,6 +129,19 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/09/2019-09-04T134827Z_154642363_RC1C71B03BD0_RTRMADP_3_GOOGLE-FTC-1024x660.jpg"
         width: 1024
         height: 660
+  - title: "YouTube demands face recognition firm stop harvesting videos"
+    excerpt: "NEW YORK — YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny ..."
+    publishedDateTime: 2020-02-05T19:53:00Z
+    webUrl: "https://www.pressherald.com/2020/02/05/youtube-demands-face-recognition-firm-stop-harvesting-videos/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/multifiles.pressherald.com/uploads/sites/10/2020/02/Clearview-YouTube-Facial_Recognition_21500.jpg?fit=1000%2C667&#038;ssl=1"
+        width: 1000
+        height: 667
   - title: "YouTube: Face recognition firm must stop harvesting videos"
     excerpt: "NEW YORK -- YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following ..."
     publishedDateTime: 2020-02-05T19:49:00Z
@@ -285,6 +289,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "E9M2G8RJFdHHSBiuQgEG70GDFSmb4GmgR1mSSBq9+5z8DvwTYJtVlLORgSM4FkmLm9a/Ej3xZVmvm1kzxwm0+lnpz3XvkKzPvh5bwBV0EqDO1O0VsDT7GnDf9jNpPPurK9mTJL6a04RN0cmRnOF19bZaxiw/jEFi1GB5sRMTJKSBWFOZGUR4SD8a2uaudiYkU6aRoeWBK+WNYb81FDRRXk/EzDTkWEj0L537/vpGJ9YnqQfyZe42mJ+tinqUDXXWqTb+8pH9m+EMw6v9xiDb11VzKgEC+ps4gpWA7hLzVSd9/cdQsLBmEM/4WH3sDh4wyeg8oAzmjGbbs0KVSegGzd9YQd58YkhSlxdBJ2w/r9Va/PpxSABY7AJRHFVjA8inWVoS1Ii90VbbbDSQIGOqwixegvZR8jZ2Roum6wroUxdio7hauec2lFa08Rz0/aL7VuvwtKBWYBCC3Ti3CM8NKzUex+aoKfsLVmRomB5ps44=;neW8Nq3KuABByJFI82jdZg=="
+secured: "EaStjUtyaFdmPqbJXPjHQzuBTH82cQUvFEeYsBlgu2MZZdZANYfLKWu3gD3gzr9gDcy6z7bwZ9e4zIPlpquH9qrpp5IXd1gmVYVFVoYTDK7gi72VMoI91L6B7bNvNhGtm8W8MgMQyHGkotc24NzxeN6xKtU+xARCHGBcaBCiM3Dg5ZfAa+YFmaLKJnPx5IJRF2jjt3965auNERsRRBYZPw09R3vkQzzYqSnSuU4f90QPLLZ3ajLeawKsXywzH490/X1OHvGIhdL5hEjx0+tePO0wtWBQMkNLMw2W46HxzHPTGQh6t/JKdVBYqo9HvKny;+OMj3KxLX9MiJOuTru/53Q=="
 ---
 

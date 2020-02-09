@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Internet giants reject controversial facial-recognition start-up"
-excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
-publishedDateTime: 2020-02-06T12:46:00Z
-webUrl: "https://eandt.theiet.org/content/articles/2020/02/internet-giants-reject-controversial-facial-recognition-start-up/"
+title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
+excerpt: "Using software to scan Facebook photos is not a major privacy issue. If technology can keep us safe, it should be used. Of all the ways that our data and likeness are being captured, the Chicago Police Department’s use of facial recognition software,"
+publishedDateTime: 2020-02-09T07:00:00Z
+webUrl: "https://chicago.suntimes.com/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
 type: article
-quality: 4
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: IET
-  domain: theiet.org
+  name: Chicago Sun-Times
+  domain: suntimes.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://cdn.vox-cdn.com/thumbor/SJDNyFPKND1oloaCAHgrhYqlrzE=/0x0:5689x3000/1400x1050/filters:focal(4044x1028:4954x1938):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66279860/edita_facial.0.jpg"
+    width: 1400
+    height: 1050
+    title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
 
 related:
   - title: "Clearview AI Wants To Sell Its Facial Recognition Software To Authoritarian Regimes Around The World"
@@ -93,21 +101,6 @@ related:
       - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
-  - title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
-    excerpt: "Using software to scan Facebook photos is not a major privacy issue. If technology can keep us safe, it should be used. Of all the ways that our data and likeness are being captured, the Chicago Police Department’s use of facial recognition software,"
-    publishedDateTime: 2020-02-09T07:00:00Z
-    webUrl: "https://chicago.suntimes.com/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 51
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/SJDNyFPKND1oloaCAHgrhYqlrzE=/0x0:5689x3000/1400x1050/filters:focal(4044x1028:4954x1938):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66279860/edita_facial.0.jpg"
-        width: 1400
-        height: 1050
   - title: "WeWork wants facial recognition biometrics class action dismissed"
     excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
     publishedDateTime: 2020-02-07T03:36:00Z
@@ -134,7 +127,16 @@ related:
       - url: "https://static.axios.com/img/axios-icon.png"
         width: 400
         height: 400
+  - title: "Internet giants reject controversial facial-recognition start-up"
+    excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
+    publishedDateTime: 2020-02-06T12:46:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/02/internet-giants-reject-controversial-facial-recognition-start-up/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 4
 
-secured: "VY4MDMbXPNqRDujLWyZ3hlGqo/yUXt0CSHevcJIls6Ag53QKPDIBmqXJ539ZTo7mF+l7qvwidnEsz09kXfHnZSaayh2k1NY3B3Ty8XuEs/mwkvEMbxfLQd3P1tOK/X+qV63c7jGgvMhrYBVWixnen9NIIInn6lXcW/0luIdCvTH+edDyQ1nvGFWFLFYXs2Ry/eNQw5uc2UEJZOBTp31ZRfR/fEiRceayBXnWHyTWap1JvAcA5fBrb4Q38j63ZvLHyzNMaPdVjtECfeFz1iu4QyrTUlx1014ovAv8ACp9GXTCRVtQLRai7T22LFpQdLpG7hJNwZQv0svWtwKBkM0us5h0tkn1HJn5ZlTvkmRge0FpFBIS4tODkoErSao3utH4jA5RyyFniH98D+EQS2z4SNfqKcGP04UjeBWZt6KuFgTnz8eSALtK/m9LXc3TwXClf1UQXTL4ttdd5s7lNADRrwYbvl/KuG9sBpFS94TPlGQ=;gj7+yHvBJ+Nf8bRhunkiKg=="
+secured: "yRW7gKQ6+zmSqCu2ZjK1mcX+5KBH+tGhEnyRuoRnBC9juzmrfK2wbAqf4hOdeOr5vJjl7fV5A4l2de4SruD2j1QRN0Mu879Vyt3lzVBM5dqkV7G202gSZYNm2/ClPYx290w160ucI5/XUF2OiDp65hexdSfFHBgVUWB4Xd3u0sRWTrxUyirdrRUK4tbj7s8+oQrAW3TdDpJDN2Ewwcl9SJcdj38z+INNfEE99yjCkIFhGCUMA0F3uV8jCbX9uH261zr1hxuv0nZUwOAQWa6qtt60OjoMqfyTJkTnaHvRFAJ4kRFfwSTRsPnJujAXQNl+;lVBdSmWztkVJQQtdAjp+0A=="
 ---
 

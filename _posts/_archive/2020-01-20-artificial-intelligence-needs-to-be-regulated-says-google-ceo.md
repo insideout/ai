@@ -54,22 +54,7 @@ related:
       - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
         width: 600
         height: 338
-  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
-    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
-    publishedDateTime: 2020-01-20T13:52:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
-        width: 1000
-        height: 652
 
-secured: "hu5Ill4JeOL63R9SWhPxldqj9jMN7ByQTwGlvmIyJZrgFF4hOk2n2YZbxDOkQcojK0QQ1OG/WO9o2khZIOThm6rjxHgWdQKXCtpIC7RNZxW2EZ2LMxrgd7hLmfoxZPm1lj+S9hLE/gqymdSZrsBKkINNpYHSF7A30OsBqA2cMrR2x4NgL4uFEiMQ+CGWDzu8591vJ/3xXb+r1GtdMxuQw3Incq1NijYaaDplB2qXyCDvjdsrv+am1VNaJfXxBnmY9qeI3sMuoiS+LKHb0V1dE0Topa6Z5oD0Fe/hvbFcTbwNMS4LTbATMOVuA8bgjHTF;+/U3dIZPjZp5v/JkQ19btQ=="
+secured: "Kv/rhbqjumsrDO9svnV/6raV4dYY4eIVhjaPncMMJ8oxdysi3ysLSoKOCsa0/+yeBB0s5HZG2OrlZBV0ZZ3tvr5jC4+2IFptRzefwMeo/HRyXmIR46hqSt7YTkJn6pYUDdyGJ3ylu46Mw6UuL3zL1wfmdFDZf3TzHRQ2fhtac/jZ1JzcAjr1EYXvM+au1TAT/g2vYU8Q86yA1b2zAAWJnBda9LyMiKliQcdMkvgK4X8sBtHoHUTVvJ4SWFD6tiKxXvWuXKMbvdsWOxQyTWmertDhcNgXhAJO6P9N9GLCx7keMKPgjV2iI0WWlTQp7HCd;SXOEJd6iwCnlIAsEFKytAQ=="
 ---
 

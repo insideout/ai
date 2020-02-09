@@ -64,6 +64,21 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F06%252Fc6%252F5335378eb82744b8b802e7bfae6244aa.18786.jpg%252F1200x630.jpg?signature=83PU2mA_LKCXx5zQ3q2x6kyFAW4="
         width: 1200
         height: 630
+  - title: "Facebook buys startup using AI vision to find your location (updated)"
+    excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
+    publishedDateTime: 2020-02-08T17:28:00Z
+    webUrl: "https://www.engadget.com/2020/02/08/facebook-buys-computer-vision-startup-scape/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F7a46c7b0-4a8b-11ea-bbbf-1c3d171afeaf%26client%3Da1acac3e1b3290917d92%26signature%3D2d974150179ef44b8290709e15088aefd3cda7fc&client=amp-blogside-v2&signature=f00fad49113cfed9099a2e85502dd4e6422c103b"
+        width: 600
+        height: 350
   - title: "Facebook buys startup using AI vision to find your location"
     excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
     publishedDateTime: 2020-02-08T17:28:00Z

@@ -90,6 +90,21 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/g3NdohYSdrzYH4i2iNFOSc9gHbQ=/756x567/2020/02/06/8599565c-e194-4d37-9ab7-56f3f399d317/facial-recognition.jpg"
         width: 756
         height: 567
+  - title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
+    excerpt: "Using software to scan Facebook photos is not a major privacy issue. If technology can keep us safe, it should be used. Of all the ways that our data and likeness are being captured, the Chicago Police Department’s use of facial recognition software,"
+    publishedDateTime: 2020-02-09T07:00:00Z
+    webUrl: "https://chicago.suntimes.com/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 51
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/SJDNyFPKND1oloaCAHgrhYqlrzE=/0x0:5689x3000/1400x1050/filters:focal(4044x1028:4954x1938):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66279860/edita_facial.0.jpg"
+        width: 1400
+        height: 1050
   - title: "WeWork wants facial recognition biometrics class action dismissed"
     excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
     publishedDateTime: 2020-02-07T03:36:00Z

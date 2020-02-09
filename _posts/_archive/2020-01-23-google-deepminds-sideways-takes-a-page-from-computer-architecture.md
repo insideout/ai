@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Google DeepMind’s ‘Sideways’ takes a page from computer architecture"
 
-secured: "xhmG5aseRAMUTim4Q4yaFR+0doIO3Qr1HW+qTzeslUY2Enk4WkdHNGPTrgnN/pecuXQcPC6EQEoNAT7xdRh0mtxT2djgbvIjsNKsF/9BNZzbSiKuo5WTuxu4qjddZRsc/kPaoMyn4kyPxi6w1abKU0Y/4k/z1mTWlFOdz1P1ImeOtqjcE3vFicuU7ShVdlAvdJU5kjDLGhvJyt8CFzWkLa5oJ6DRQ3u2safmCL8EQF3Ecn7NIn4QYQfowIE+PsNbcQXd+PonfsOMQ1RRPdmd6z7hJN1tHX5OieV4cH7luqcDK9+xYSRZ0W5mkfjbCU2t;hadybAoyK1htkb0vMVaWQA=="
+secured: "d/6Ft1Q1qu34Q1zC+Z6xw4osPqfJy1/AzU6laYBR9fhv8T3S4XbBdxuf4tXsof7jCePodyURcxL6C+/rl4wjqo4bjBmOdDUxffJ5NJ9pd6zGiBAX5oVrYE2LiOg2OjuVN5BJJkzdQzz7xLFXVtqoK1wOpTsuhX50X8pEnyBt0QMK7mC/SeYyJ5SReh9QbX4FkPzLhEvZ8f7EYTNN/eEueAH9UiXTxAU8N2M8otxl1MJRjilvMu/0c44cVCrzTLI3YXf+CHYDF4ZrFgSOD5q6v+TwHq3OWseLpKwJ91yRVOH56ZDqyFJr9WjAtgG1rH1x;C3biTaw8jHkHGw/9r3uBtA=="
 ---
 
