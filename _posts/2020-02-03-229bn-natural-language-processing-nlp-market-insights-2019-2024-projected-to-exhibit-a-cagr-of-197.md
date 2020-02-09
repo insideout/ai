@@ -1,17 +1,19 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-publishedDateTime: 2020-02-03T11:44:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+publishedDateTime: 2020-02-03T10:44:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15234779"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15234779"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -78,6 +80,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "AilRlfY/XPyuyS1gxDliHQTN6yObFNOoFnBWylcu7H6jRf+fm6VkK3rrir9UICtVXW25X2des0ZgEQkRJtrKdap+pLof9RC4xcsshGonbO9UOH44Gjbdyb1K6Mz810qkgoyQLIWj5EDv9IE8XNYZU7UYpXyVZWHDkzSy3aSm2XSrn+M6n5/s+T/OHWvMclApzSheK7l2fVd/mgDNF8WoTBKBkxQwpfXXbJBZHakIEe61cbYjsiIJamb+MgQ1JMOP8pcmBUSfGNxKlfcquQoOKAccZafAvrQmAydBap/1JT3lHcfT+HVvSYzTLpwsIxPx;T945JZd2VYJZvhGX2tRMqg=="
+secured: "rXKMTH0pvUZvMT0kp1+uEzKDBFqSy39jZp/+SWA9+Y+8ViscGpMkTt2cFfmU2gouhEr7bngEujvohwsg8EzVF9tiWt2vUcBPMRwFRYCnLjbVxiivHTZkBAEsATlb2ib0/y1vtNSc5HwSe/XgeZd1wTZUshU7pkeMHdVfFSku35/wreRYgrzXBTSFkmjluQEiYmZ8uMK1UMNQlNOHz8wWCc27neOi8G+Sz3BL01p25f8o14mHq1qhwb8LaijYuwQJtzupo3zo74SqCQP3G/ttbRwgA3KnBz7X1eQaDYKp6/YLlMWGvnvYD5vTHuFfXjUT;ZYjyQgJzp7W5Hvi+hemO7w=="
 ---
 
