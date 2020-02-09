@@ -2,28 +2,22 @@
 category: news
 title: "How far will Artificial Intelligence go?"
 excerpt: "It’s not going to happen. Why should it? As Roger Schank notes in his article on “Artificial Intelligence” in the book, “This Idea Must Die”: “You’ll never have a friendly household robot with whom you can have deep, meaningful conversations.” We already have humans we can relate to who are far more complex than any computer."
-publishedDateTime: 2020-02-07T16:50:00Z
-webUrl: "https://www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/"
-ampWebUrl: "https://www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/?amp"
-cdnAmpWebUrl: "https://www-courierherald-com.cdn.ampproject.org/c/s/www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/?amp"
+publishedDateTime: 2020-02-08T08:30:00Z
+webUrl: "https://www.rentonreporter.com/opinion/how-far-will-artificial-intelligence-go/"
+ampWebUrl: "https://www.rentonreporter.com/opinion/how-far-will-artificial-intelligence-go/?amp"
+cdnAmpWebUrl: "https://www-rentonreporter-com.cdn.ampproject.org/c/s/www.rentonreporter.com/opinion/how-far-will-artificial-intelligence-go/?amp"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Enumclaw Courier-Herald
-  domain: courierherald.com
+  name: Renton Reporter
+  domain: rentonreporter.com
 
 topics:
   - AI
   - AI in Robotics
-
-images:
-  - url: "https://www.courierherald.com/wp-content/uploads/2020/02/20393828_web1_Opinion-Elfers-ECH-200205-Elfers-Mug_1.jpg"
-    width: 1024
-    height: 683
-    title: "How far will Artificial Intelligence go?"
 
 related:
   - title: "How Artificial Intelligence Will Change Medicine"
@@ -39,6 +33,21 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/12E666E8-C229-4FDB-A12A437CAD23F0E0.jpg"
         width: 790
         height: 497
+  - title: "How far will Artificial Intelligence go?"
+    excerpt: "It’s not going to happen. Why should it? As Roger Schank notes in his article on “Artificial Intelligence” in the book, “This Idea Must Die”: “You’ll never have a friendly household robot with whom you can have deep, meaningful conversations.” We already have humans we can relate to who are far more complex than any computer."
+    publishedDateTime: 2020-02-07T16:50:00Z
+    webUrl: "https://www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/"
+    ampWebUrl: "https://www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/?amp"
+    cdnAmpWebUrl: "https://www-courierherald-com.cdn.ampproject.org/c/s/www.courierherald.com/opinion/how-far-will-artificial-intelligence-go/?amp"
+    type: article
+    provider:
+      name: Enumclaw Courier-Herald
+      domain: courierherald.com
+    quality: 59
+    images:
+      - url: "https://www.courierherald.com/wp-content/uploads/2020/02/20393828_web1_Opinion-Elfers-ECH-200205-Elfers-Mug_1.jpg"
+        width: 1024
+        height: 683
   - title: "How Artificial Intelligence will change media"
     excerpt: "For More of This and Other Stories, Grab Your Copy of the Standard Newspaper. Subscribe Now »"
     publishedDateTime: 2020-02-01T15:03:00Z
@@ -76,17 +85,6 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/augin.jpg"
         width: 960
         height: 640
-  - title: "How far will Artificial Intelligence go?"
-    excerpt: "It’s not going to happen. Why should it? As Roger Schank notes in his article on “Artificial Intelligence” in the book, “This Idea Must Die”: “You’ll never have a friendly household robot with whom you can have deep, meaningful conversations.” We already have humans we can relate to who are far more complex than any computer."
-    publishedDateTime: 2020-02-08T08:30:00Z
-    webUrl: "https://www.rentonreporter.com/opinion/how-far-will-artificial-intelligence-go/"
-    ampWebUrl: "https://www.rentonreporter.com/opinion/how-far-will-artificial-intelligence-go/?amp"
-    cdnAmpWebUrl: "https://www-rentonreporter-com.cdn.ampproject.org/c/s/www.rentonreporter.com/opinion/how-far-will-artificial-intelligence-go/?amp"
-    type: article
-    provider:
-      name: Renton Reporter
-      domain: rentonreporter.com
-    quality: 39
   - title: "How artificial intelligence will change HR in 2020"
     excerpt: "As technology is evolving, so is work culture. With the rise of the gig economy and decentralised workspaces, employees are beginning to look for meaningful work experiences. This year, HR will step back and invest in solutions that enhance employee experience, going beyond looking at just productivity and efficiency. Seamless learning ..."
     publishedDateTime: 2020-01-26T20:45:00Z
@@ -108,6 +106,6 @@ related:
       domain: electronicdesign.com
     quality: 15
 
-secured: "h7hzB+3JgEhsgULAsIpITX10+CLBOlG/A52K+3gtc6dDfe6LVz5+jpc3H2WUYM+dphOCcvvcm2ww1bvs/fPe7JOzw/w9S4H47pWwkxVnexKLtIcZ8TlvBb6M4vJrJ+KOaMpCbnNd0cy38ySh2bTEdj3RzOAx2CtdjBFZqoC8B+NO6+mlVgMlG+404gexe3NnSNKkmliengpiqU/5UI7fbLwXAo9t2q0kN+HYRRpQc3J8KgHTB4d7w+JyQtBKCFq7I4qyfn3x3S7q+VNVYRVqSt8JdurbTxOB4ZTZ3dUq2cOiGymV4ag9OXYjjTPc4VTQwqjTfHuv8RqmpUi/xODalwkEVfwvc54yWnpfpA+oJLJf2tP+oRXPaTsd3TofIpOeUTR3KYhEzhO8ALBUmcVuiS2uTn94g0nct1NxIcidj+nKi4ChtG7StAggEJaEAbbR/qwqiIjCHZjXTiwErNv2IykJj6wfIc62K0xY0nHhZEM=;JkBCEHe4npai7p/dKsNeKQ=="
+secured: "JyJNd9KADQEam3SqlweE0G2BP0yVUFcooBYIEKr/4IRnd3H8tcdqiFnOCw27LWVuT8DmculFxOXhpY1zXlDcX6ZV6WZINc3AYrjhjXqGmcQydobDAogawTQ7sYt5ce4PEeCXKcAutt3CgoG4Ft9x60giVABgWC8jlWmsTPvykCDNdxJuygR67AF+0r6ilDWPGf1j0qRxhdfUrVTR52rhJYi9XuU1SJL7q9fGbnInuSaa/q8YTqMPrxTD/PlufuOQC3KcuRPW0KwPyj2o6TDICIeAwcTUxpCtbxHUJ7sak6KbJW7dIi1i/7QZksW9h9Ld;n7HRW0R8pvxlOdJZHwbMUA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -54,19 +54,6 @@ related:
       - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious (INTC)"
-    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps. Mobileye CEO Amnon Shashua told Business Insider that autonomous vehicles (AVs) can't be too cautious. If AVs take too long to get to their destinations, people won't want to ride in them, Shashua said. To increase ..."
-    publishedDateTime: 2020-01-25T13:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1-1028844526"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://images.markets.businessinsider.com/image/5e2b293624306a2d955068f4-2333/mobileye-2020-ces-shashua-5.jpg"
-        width: 1024
-        height: 768
   - title: "Test shows promise of self-driving cars for transit"
     excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
     publishedDateTime: 2020-01-25T19:00:00Z
@@ -94,6 +81,6 @@ related:
         width: 620
         height: 330
 
-secured: "wHJIvkST6Nm3+xUUFJ6Ly22FMZkoI0oP2bVF0avuH9O0rgJPK+EVuNasnhqLhq8NhPbJ9352+s0E1vdtvdZbxeReD6+CTtkXp9iXO8eovWD+NBRzp9zfKs5VyiWAvaF4rmVALZxvTEuvQAFEGvpbZjtQZNfDkddgGgCcabCcQLksYrt1SwAfeb/g77Rsn4kCIDz1NPnKXURQAo2ZSCBprk5hIs5wzehCseaN7nkp11j3OpXbnRP3oYo1l/kPvajT/8F0qYMVRc3f47UI+Nb5I9hEQsud4sKmIDaRUhOTOmr9lWBpFqqQH8SLE7N3opNi;m5Q0ZasToZrxqnyLgO3eYg=="
+secured: "T3DtTlYoOyIQ8C+QKcq+DShkB/+aWvI2IuxRxs/wBDk4kzHQ/I66rOh/wXZHdrCC9XkPeAb+faa4XUekMkDU/e8XzMQni1rgWY7I2+M0jc/MgUk/u4Vq54g8luHd9vlOkud9cKalug623ZC7ykba2TBbd8Eho1rkEw6eGUwup+CtiV5QXDTfXcvAQzWCG9uGliXb9ivypnBXUkKPvoEb6vFiV50THuiiMV7hw438XmUS/iizxM3wQ/ni87x30/D6yVku0c/m1lgp/lY8xomHs2gZ0DfM+qlvWrs980GiEda0bX9Ye6EuUlJT1t73XTF9;4/BrrhVbBa8UmZe4m0SBjQ=="
 ---
 

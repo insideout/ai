@@ -114,21 +114,6 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127916599001_6127918301001-vs.jpg"
         width: 1280
         height: 720
-  - title: "Recommended Reading: Facial recognition, police and privacy"
-    excerpt: "The best long-form writing on technology and more on the web. The secretive company that might end privacy as we know it Kashmir Hill, The New York Times Clearview is a startup that developed a facial recognition system that matches a photo of a person to publicly available images. Those can be from Facebook, YouTube or even Venmo. It's ..."
-    publishedDateTime: 2020-01-25T13:30:00Z
-    webUrl: "https://www.engadget.com/2020/01/25/recommended-reading-the-facial-recognition-startup-helping-poli/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/01/25/recommended-reading-the-facial-recognition-startup-helping-poli/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/25/recommended-reading-the-facial-recognition-startup-helping-poli/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3000%252C1967%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1049%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-09%252F7cd3aa20-d5c9-11e9-bfdf-f6cf4ed8fd54%26client%3Da1acac3e1b3290917d92%26signature%3D97a83aa9ae2218b6dd359d390851ef7dc3f57940&client=amp-blogside-v2&signature=b11fbb43be2b690ae62c9c1c250d6081b105e1ff"
-        width: 600
-        height: 350
   - title: "How to enable facial recognition in the BitWarden mobile password manager"
     excerpt: "The latest version of the BitWarden Android client supports facial recognition. Find out how to enable it. You need to be using a password manager. Period. There are simply too many reasons to be doing so and too few reasons to not. For the longest time I used EnPass, but eventually decided I wanted to migrate to an open source solution that ..."
     publishedDateTime: 2020-01-29T19:19:00Z
@@ -698,6 +683,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "zm3nIW/cg22hvXas+9Uavc0Cch4DYsNfLXTBK4QH0Bb3WvwyPuQrXD2fdplrZUc65n5qjVZZVH8HOFSiJeDkVwFZP7UORxe53mHrP2HxZhf4fgWfnHo7Er5g9RggB4mLfQ2Qregw7n/cRcuhjX9CgEEsOcO3PUqjqVgtM/6vEgpbiznpjbhEqTXD+oiGId7jiE9BoW67cJ1RTJ+yI47mHudv67nbI0T94z0oitX1zCvL9Q//jbpEBF6YVPxsysZGzYwJ4iLyJl4hvx1ak44Tzjhd46N76GfR32Up9qRUc0aJtfRMhkQkrY+H6Tz7aSHu;zUi5M9l95NovCHOFjsWfTw=="
+secured: "dMGTxnDXFMnamVeINpaPRhVL6UdCzJU0S7g5tcw3EarVSsTjynQxBBjEsSuC1k2hO9jpd5/nIsxtWRN72rciTMaW7A6EzHCVqQg8k2+sJlgAGMthPpF1vrpAl86VqRaIE030PAHaa50rPAtVlMjClwr14XUpUgT2CbWa+nURa0OwmUw18OwcJ8RTkMdaFfsbGHnfNu2SCFTBQrgcfKEXNX3XlBoyc/WMyFweZdSYoY2VUjpmPFHL0Lg0+tY7toTTmNb634v6aHzymuSi9ueDnuVkTkgxjeXUuUXYl4j97vYiNJSCIoL9YCgKKli1Wb5w;P9+PhdB2FAT4b50iKiV1eA=="
 ---
 

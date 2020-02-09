@@ -84,6 +84,17 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/01/augin.jpg"
         width: 960
         height: 640
+  - title: "How far will Artificial Intelligence go?"
+    excerpt: "It’s not going to happen. Why should it? As Roger Schank notes in his article on “Artificial Intelligence” in the book, “This Idea Must Die”: “You’ll never have a friendly household robot with whom you can have deep, meaningful conversations.” We already have humans we can relate to who are far more complex than any computer."
+    publishedDateTime: 2020-02-08T08:30:00Z
+    webUrl: "https://www.rentonreporter.com/opinion/how-far-will-artificial-intelligence-go/"
+    ampWebUrl: "https://www.rentonreporter.com/opinion/how-far-will-artificial-intelligence-go/?amp"
+    cdnAmpWebUrl: "https://www-rentonreporter-com.cdn.ampproject.org/c/s/www.rentonreporter.com/opinion/how-far-will-artificial-intelligence-go/?amp"
+    type: article
+    provider:
+      name: Renton Reporter
+      domain: rentonreporter.com
+    quality: 39
   - title: "How the “Artificial Intelligence of Things” Will Change the World as We Know It"
     excerpt: "Alongside the growth of the IoT, artificial intelligence (AI) has emerged as the next technology phenomenon ... Where latency means inefficiency, and inefficiency costs money, voice interfaces must be built on the AIoT, not the cloud. Domestic healthcare is another sector that could benefit significantly from AIoT. AIoT-enabled devices ..."
     publishedDateTime: 2020-02-06T21:33:00Z

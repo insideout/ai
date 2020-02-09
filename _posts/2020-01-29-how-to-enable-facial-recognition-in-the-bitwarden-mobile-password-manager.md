@@ -118,21 +118,6 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127916599001_6127918301001-vs.jpg"
         width: 1280
         height: 720
-  - title: "Recommended Reading: Facial recognition, police and privacy"
-    excerpt: "The best long-form writing on technology and more on the web. The secretive company that might end privacy as we know it Kashmir Hill, The New York Times Clearview is a startup that developed a facial recognition system that matches a photo of a person to publicly available images. Those can be from Facebook, YouTube or even Venmo. It's ..."
-    publishedDateTime: 2020-01-25T13:30:00Z
-    webUrl: "https://www.engadget.com/2020/01/25/recommended-reading-the-facial-recognition-startup-helping-poli/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/01/25/recommended-reading-the-facial-recognition-startup-helping-poli/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/25/recommended-reading-the-facial-recognition-startup-helping-poli/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3000%252C1967%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1049%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-09%252F7cd3aa20-d5c9-11e9-bfdf-f6cf4ed8fd54%26client%3Da1acac3e1b3290917d92%26signature%3D97a83aa9ae2218b6dd359d390851ef7dc3f57940&client=amp-blogside-v2&signature=b11fbb43be2b690ae62c9c1c250d6081b105e1ff"
-        width: 600
-        height: 350
   - title: "Facebook settles lawsuit over its use facial recognition for $550 million"
     excerpt: "It also announced Q4 profits of $7.3 billion. After years of wrangling in courts, Facebook has settled a lawsuit over its use of facial recognition. Last year it agreed to stop turning on the tech to scan photos by default, which built a template of your facial data, and automatically suggested tags in photos based on it. During an earnings ..."
     publishedDateTime: 2020-01-30T05:23:00Z

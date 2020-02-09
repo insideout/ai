@@ -63,21 +63,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "New Jersey cops told to halt all use of controversial facial-recognition technology"
-    excerpt: "The state attorney general is ordering all New Jersey police to stop using a powerful new facial-recognition technology that’s pulling millions of photos from social media. The order was issued Friday to county prosecutors, concerning a New York-based company called Clearview AI. “Like many people, I was troubled,” state Attorney General ..."
-    publishedDateTime: 2020-01-25T13:13:00Z
-    webUrl: "https://www.nj.com/news/2020/01/new-jersey-cops-told-to-halt-all-use-of-controversial-facial-recognition-technology.html"
-    ampWebUrl: "https://www.nj.com/news/2020/01/new-jersey-cops-told-to-halt-all-use-of-controversial-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/01/new-jersey-cops-told-to-halt-all-use-of-controversial-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 38
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/KP4ZEP4EZVEE7EUKABDLB57CO4.JPG"
-        width: 5472
-        height: 3080
   - title: "Tech Savvy: Facial-recognition technology stokes privacy concerns"
     excerpt: "Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier says 72% of ..."
     publishedDateTime: 2020-01-26T06:40:00Z
