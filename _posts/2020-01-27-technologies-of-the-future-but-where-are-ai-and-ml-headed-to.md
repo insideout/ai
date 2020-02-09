@@ -28,7 +28,7 @@ images:
 
 related:
   - title: "Neural Architecture and AutoML Technology"
-    excerpt: "However, the conventional ML process is human-dependent, and not all companies have the assets to put resources into an experienced data science team. AutoML might be the answer to such circumstances. AutoML focuses on automating each part of the machine learning (ML) work process to increase effectiveness and democratize machine learning so ..."
+    excerpt: "AutoML might be the answer to such circumstances. AutoML focuses on automating each part of the machine learning (ML) work process to increase effectiveness and democratize machine learning so that non-specialists can apply machine learning to their issues ..."
     publishedDateTime: 2020-01-24T18:37:00Z
     webUrl: "https://www.analyticsinsight.net/neural-architecture-and-automl-technology/"
     type: article

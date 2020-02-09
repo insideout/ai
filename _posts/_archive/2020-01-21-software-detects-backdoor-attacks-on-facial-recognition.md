@@ -271,21 +271,6 @@ related:
       - url: "https://www.insidehook.com/wp-content/uploads/2020/01/london-camera.jpg?fit=768%2C510"
         width: 768
         height: 510
-  - title: "Facial recognition cameras to be used across London"
-    excerpt: "Facial recognition cameras are to be deployed across London for the first time to help police target serious offenders, the Metropolitan Police (Met) announced. Technology in Britain Metropolitan Police camera In a major new move to fight violent crime, \"watch lists\" of Britain's most serious offenders will be developed to facilitate live ..."
-    publishedDateTime: 2020-01-25T12:44:00Z
-    webUrl: "https://www.poandpo.com/news/facial-recognition-cameras-to-be-used-across-london-2512020542"
-    ampWebUrl: "https://www.poandpo.com/news/facial-recognition-cameras-to-be-used-across-london-2512020542.amp"
-    cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news/facial-recognition-cameras-to-be-used-across-london-2512020542.amp"
-    type: article
-    provider:
-      name: poandpo.com
-      domain: poandpo.com
-    quality: 59
-    images:
-      - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0120/metropolitan_police_camera.jpg"
-        width: 1200
-        height: 672
   - title: "Facebook denies nosing around facial recognition tech"
     excerpt: "Facebook responded to speculation it was developing its own facial recognition software for its Messenger app, stating reports were innaccurate and it would instead use on-device systems to handle provision of security. In a Twitter post, Facebook’s EMEA communications manager Alexandru Voica explained the company was not looking to develop a ..."
     publishedDateTime: 2020-01-27T12:37:00Z
@@ -713,6 +698,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "DhG3GRjwBkNJ2cspJ0FDYyBCxQrqf29jp29qLH/nopUr47M1LBv1vbE1cNKOOe3EkbBQTPmMuvwOSDRx3e87fo4S9nmNqW+LmSrGva4FohycpqLUZ4tkRfhEfrqs1LIxMseLAsMJxz565hR7Ib1cZxxAHSdIzQRS2H76sMjiHIWXe/ky1X69qIFE/SCgafA3ORGDuIviPz61VgD/hKywRq+Kle8N4yE0q8akMPn2rE5foBxcAoGfyr9oLVDlqjIIpKrwtvupm2tsyibaAMdn1jTAmr9Y4uS+FVhY9UmUVm7JSlMwOcbQn/RKFPORGaFx;ymooLDZ9OHZb9UxjvqU7Zw=="
+secured: "zm3nIW/cg22hvXas+9Uavc0Cch4DYsNfLXTBK4QH0Bb3WvwyPuQrXD2fdplrZUc65n5qjVZZVH8HOFSiJeDkVwFZP7UORxe53mHrP2HxZhf4fgWfnHo7Er5g9RggB4mLfQ2Qregw7n/cRcuhjX9CgEEsOcO3PUqjqVgtM/6vEgpbiznpjbhEqTXD+oiGId7jiE9BoW67cJ1RTJ+yI47mHudv67nbI0T94z0oitX1zCvL9Q//jbpEBF6YVPxsysZGzYwJ4iLyJl4hvx1ak44Tzjhd46N76GfR32Up9qRUc0aJtfRMhkQkrY+H6Tz7aSHu;zUi5M9l95NovCHOFjsWfTw=="
 ---
 

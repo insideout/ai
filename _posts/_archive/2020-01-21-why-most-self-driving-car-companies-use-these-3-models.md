@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -67,19 +67,6 @@ related:
       - url: "https://images.markets.businessinsider.com/image/5e2b293624306a2d955068f4-2333/mobileye-2020-ces-shashua-5.jpg"
         width: 1024
         height: 768
-  - title: "How to Invest in Self-Driving Car Stocks"
-    excerpt: "Hence, driverless cars need programs to run. Most often this includes some form of artificial intelligence (AI) software such as machine learning, neural networks or deep learning. . Sensors – Finally, self-driving cars need sensors in order to fully ..."
-    publishedDateTime: 2020-01-17T11:02:00Z
-    webUrl: "https://investmentu.com/self-driving-car-stocks/"
-    type: article
-    provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 24
-    images:
-      - url: "https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg"
-        width: 730
-        height: 467
   - title: "Test shows promise of self-driving cars for transit"
     excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
     publishedDateTime: 2020-01-25T19:00:00Z
@@ -107,6 +94,6 @@ related:
         width: 620
         height: 330
 
-secured: "F8pzCKE8ywYixiKMCpyXvTtbIVN12e2nOOcP4eb9BMxC5zcxZfsT1H44LAAbPid+cAM8Ma6UEosYSprkP4KiEZ7DWVLHKHDoeR9vMQkihZoM8pLuLiaweuEMXOZv/cFmAhdi96MAOzFYTxZz5wmgY6gKzvyNTbF6rylJFrFIYE9J7DFW4AhSYClnsYHcwhG/iGAuB1XmzK/he4lmS3EJ9OtLVzZUaQhUMyqmjBWyNmB8tCpKL9Ebp94wH/tffAmWMPqIZijEOVttUYFRzuQDmL8b53xGwSgejHZIlGtnTn1wBDbU9E6YAxxEE7MGd+gf;Jehps9ZxltfCw0mePGUZwA=="
+secured: "wHJIvkST6Nm3+xUUFJ6Ly22FMZkoI0oP2bVF0avuH9O0rgJPK+EVuNasnhqLhq8NhPbJ9352+s0E1vdtvdZbxeReD6+CTtkXp9iXO8eovWD+NBRzp9zfKs5VyiWAvaF4rmVALZxvTEuvQAFEGvpbZjtQZNfDkddgGgCcabCcQLksYrt1SwAfeb/g77Rsn4kCIDz1NPnKXURQAo2ZSCBprk5hIs5wzehCseaN7nkp11j3OpXbnRP3oYo1l/kPvajT/8F0qYMVRc3f47UI+Nb5I9hEQsud4sKmIDaRUhOTOmr9lWBpFqqQH8SLE7N3opNi;m5Q0ZasToZrxqnyLgO3eYg=="
 ---
 

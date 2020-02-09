@@ -23,6 +23,6 @@ images:
     height: 576
     title: "Information Security and Artificial Intelligence news"
 
-secured: "xeGUI56og+gthtgCcCRDHgWH4Pfbv1hvZ2Lp155QF97rNr0OtzB8prxMD/BPSzs96p5+cucEOxHRWp/B+nX1Sqtc82hlX7mzu4e7uTsct7vGCH63Gm7Kj6RJrOjM952g1UsBd/P3psE6f6/QHDe1U7SiASAM2JaEaCQwTf/kSnG27b6sW/BtT6FBe7EhrFw3zK0qTZ3wBjCMLF4TMzeqOWBuvDmC438OmWhYHjmY3+5/DPKWevK4VdLUMAcL6z9PkRbT/0J5T83/60dqKBreOytUTLx8P/2PePwAIhlKSvHxf5576p3T7rasS8zsKsNy;1mcorXywcI2cx/MmM0E4xQ=="
+secured: "i8vRJ1zl+wmhdyTRtUSRne+lmlL+S/flR6X4ZdrMISdnAyHLk85uBRggrXvtNe0FWeCiloSW6wZ4KJAaOwjCSXF+3RqWhwgv4d5RmQOI+FMgX7AnJsj8LTmojRSUbBoL5bvHSsnSTaKcxoN/7d8vYzlJUHg5S7vDNVed1zFrc9cxVwUHZi4HZNp/ISBisOonBWaqKjebBh4YCIOM73T8Avo5jCQHCi01NCv+YR9/VGsT5CdeCQNO3fuUOdBtm0L9xsVYJNoD0Em+jlr7ME8ph3l2upA/rnqpDI361lwC9zMRnue6pzkKzKtr/OaQHg5v9iiuycUIq0J/m8fJlKjJjDWg6P6oYtyk/43QT02/W1Yuyr25UYZ+buVVX+JqA27SSxtQ4j5Fzlx4qXctpSbY+mzJHj5KA6V7BcEvnuCio9xjsLbA+sqFRPyWRZc++N1NYl3LD7CaeRAxlYNeRX6rDsu+EpKwQAbLaiAIBJlzA38=;Y29t+Q9Gz3pp2gPVjRIq/A=="
 ---
 

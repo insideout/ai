@@ -252,19 +252,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "London Police Deploy Controversial Facial Recognition Cameras"
-    excerpt: "Facial recognition technology is more widespread than ever — many people have phones in their pockets that use advanced sensors and algorithms to make sure no one else can access their data. However, law enforcement is also increasingly using facial recognition data to scan crowds for known criminals. The city of London is the latest to add ..."
-    publishedDateTime: 2020-01-25T12:11:00Z
-    webUrl: "https://www.extremetech.com/extreme/305288-london-police-deploy-controversial-facial-recognition-cameras"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2018/10/598521-facial-recognition.jpg"
-        width: 810
-        height: 456
   - title: "London Police push forward with controversial facial recognition tech"
     excerpt: "The London Metropolitan Police Service has announced it will begin the operational use of Live Facial Recognition (LFR) technology, despite there still being many critics and concerns. The technology itself has come under criticism not only for poor ..."
     publishedDateTime: 2020-01-27T16:26:00Z

@@ -69,6 +69,21 @@ related:
       - url: "https://static.toiimg.com/photo/msid-74007661/74007661.jpg"
         width: 1200
         height: 900
+  - title: "Music by numbers? Robot conducts human orchestra"
+    excerpt: "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. \"This work is a metaphor of the relations between humans and technology. Sometimes the android will get ..."
+    publishedDateTime: 2020-02-09T05:49:00Z
+    webUrl: "https://www.asiaone.com/digital/music-numbers-robot-conducts-human-orchestra"
+    ampWebUrl: "http://www.asiaone.com/digital/music-numbers-robot-conducts-human-orchestra?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/www.asiaone.com/digital/music-numbers-robot-conducts-human-orchestra?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 59
+    images:
+      - url: "http://www.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2020/20200207_robot_r.jpg?h=215d3f1a&itok=_fCoJwA7"
+        width: 600
+        height: 316
   - title: "Music by numbers? Robot conducts human orchestra in Sharjah"
     excerpt: "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. \"This work is a metaphor of the relations between humans and technology. Sometimes the android will get ..."
     publishedDateTime: 2020-02-05T13:39:00Z
