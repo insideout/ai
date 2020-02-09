@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
 
-secured: "vzGYcD24zsVVVHWYiGtHVx2uNvKibkokMNvfmm6bOPUv8Ss+y4g23ma79XGOGseWFM8LHvDnuA+g3tOu4b++qWBlyMXFOsOJBqkKhmOf/BuL3XmRizdnfB2xj5FH6+Oq/U7weqrCiyiuDmL9shGwfza0YMF5fYUogfP1ImsNdco6d++1UY59EzcX4uB2E8INkqcdRjlNec10bxDFmyxVpgvZ996QiXyvJIt18C1s18hpV65qK2KuuTZfAPaBKU6I6X7m4V7ixwZDjeNe6WXoVVh1GnemTKh9miuEDgwodsesFBL6LzOxrYY2TteAqqHT;YIkhi4SjqeXIfW2UmO8waQ=="
+secured: "Iultzkdg1jdPtrp/TBOkviDotg0Iu4RVb35KXl6UgR+qrEyBIyF4SWz0qx+ocmpVT3l6QcylP8vruNBA530kP7B6+6vW9+sjnHmq8y8NmaELZmdJhN3PIeQKGCaBVSTqbyL6FA0RnNWKXhnXk+X3TQ6W6Xe9YHUvIoOAcluu6ldi1QjDbu9hG2kbr8WDjA7/EXJnXYHjNnVV3/Iut82pD0V+hV2zT49wsfUh8cRwlX88rDx+81EgwFRQ4H2LiBABccFEAxjuPJg7nwUSusWNSaGnBEsfmY6jSuSGaLA19Mzcni8U1D961IAgIBldqkq+;37nWQ01aq0sbmCs63IuOdw=="
 ---
 

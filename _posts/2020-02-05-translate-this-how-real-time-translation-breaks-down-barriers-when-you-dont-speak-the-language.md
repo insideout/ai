@@ -25,6 +25,19 @@ images:
     height: 675
     title: "Translate this: How real-time translation breaks down barriers when you don't speak the language"
 
+related:
+  - title: "Say what? How tech is helping translate between languages – and how far it still has to go"
+    excerpt: "Half of the internet’s content is in English, says Google AI director of product Barak Turovsky, but only 20 per cent of the global population has any English skills. And while Microsoft’s text translation technology now supports up to 70 languages and its speech translation can decipher around 40, says Microsoft technical fellow and chief ..."
+    publishedDateTime: 2020-02-09T08:45:00Z
+    webUrl: "https://www.scmp.com/lifestyle/gadgets/article/3049362/say-what-how-tech-helping-translate-between-languages-and-how-far"
+    ampWebUrl: "https://amp.scmp.com/lifestyle/gadgets/article/3049362/say-what-how-tech-helping-translate-between-languages-and-how-far"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/gadgets/article/3049362/say-what-how-tech-helping-translate-between-languages-and-how-far"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 14
+
 secured: "r/ZB5U6z7BNKLR95500Kk0pGPPzRachdoa6ItQj4h712qJPFsOkjHWYgG2STFHW4N9+QGvRumtBktSggF1yuI10i3DE1m/EKVtoV8P1cZXJ/tRHnCliVSXj/J+tgfSargcEjfiToSnIqn7mB5qgdPaE9vDLeTThMuBgrxS6khjay3WFjFvHCZw8cqWjuvFqjoi//+Bgmc1kxxnYkHQb1mUMqZcSr1lxUg4dnoE34BQsKjagT3CXlTB+iQ7Mjcg6CHU4uI6KDJY35sMcNsn0/99BGiSYJWUxYggCwNOdVitX6NV2L3EKphD8SOa4bmj2sP8w5dx1zItOf0jmIvw7ZX+i3fG69AK7coVC6KX91X70P/2bgNBJdlE22UoypKK3F3rbXDcpJ/tRNrceLqPe1icQ4n9oboLgOwTxC/5frAD6HGWTR2Hk9lykqZQkm2GgmT3+G4EQ9lQW1EA2OhFMWXHD83gXP7gSXtkLNbx5QTNc=;qjG2wJWmWublLhUcajJA3g=="
 ---
 
