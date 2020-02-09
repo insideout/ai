@@ -59,6 +59,19 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/02/tacc2.jpg"
         width: 742
         height: 681
+  - title: "Deep learning computer system can predict weather changes"
+    excerpt: "Rice University engineers have created a deep learning computer system that taught itself to accurately predict extreme weather events, like heat waves, up to five days in advance using minimal information about current weather conditions. Ironically, Rices self-learning ‘capsule neural network’ uses an analog method of weather forecasting ..."
+    publishedDateTime: 2020-02-09T09:40:00Z
+    webUrl: "https://www.gulf-times.com/story/655435/Deep-learning-computer-system-can-predict-weather-"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 39
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/220209123935183112931.jpg"
+        width: 620
+        height: 355
   - title: "Combining deep learning with token selection for patient phenotyping from electronic health records"
     excerpt: "For this reason, in this paper we study deep learning neural networks in combination with natural language processing to analyze text data from clinical discharge summaries. We provide a detail analysis of patient phenotyping, i.e., the automatic prediction of ten patient disorders, by investigating the influence of network architectures ..."
     publishedDateTime: 2020-01-29T11:52:00Z

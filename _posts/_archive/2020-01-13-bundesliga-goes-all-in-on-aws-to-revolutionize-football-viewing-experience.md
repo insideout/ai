@@ -49,6 +49,6 @@ related:
       domain: telecompaper.com
     quality: 14
 
-secured: "zBumzHCMRCvQ1lSe1LEl8w3C+1oJwJjy+utOk8k51AvNLpyv2l1NJc+ft41UjJHrrKLWjSAJdH+TR3ACVjubeI0p/SD+Uzr47o399f9UN3POMya8Vn99SA9kfUYL8ZJSVqyx8xpTaQlST1Ntrt6r8n9olwfzXfMcHGsk/0C/Tb7NqYjUTYKP49YCPKDHmh/5GGGLvd9LMZwyFK9EdZ8EP43wm7OrGXyfTacM3LjtScXbD0qE/eEO2RbMuJjdAiRQ3sDTBreM65lfdCJrc+bFj4qWVGzfITmKj4+jzwFo0F/WT5DdlpQSTxY9Fo1DXiN0;aIxQcrHjnvm4GwDPflSrQg=="
+secured: "N8/pJgTguhWiExjXtvquJpvYDqC66ZqL+yqDkNGOpYlFSV6siGYwvgy2KnBthBHeXRb/ujKVwCwdjUxwPBxmAVAtfk4m3a3lIo3MSOpQfEH771jsdcxDRxn+2FKkAmHjtIjTKx2TaA1Jy6P4OyMu2r1zdyN7UAJVcq+lQJtbw1ofOY+cw54Q/2KXQxYur7lC53ZiOap1Xy4HhL/vs3QB3roUGd1HrBltxjUTwpQpKghG+zwkGrG0jYkDd3Z/hPfkP9OMG5Ct5xJa8S6ZcaAKJ9/n0Glp/kFAG1b6s+ZaRipApncHdfu1UgJ7MErLKz8M;fd1/3G3hhisTX3cRKgcnhg=="
 ---
 

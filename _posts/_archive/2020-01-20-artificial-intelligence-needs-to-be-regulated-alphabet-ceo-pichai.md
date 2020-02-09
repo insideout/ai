@@ -41,7 +41,33 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/20/8a43aa65-ab15-4748-ae46-fd15a2c75df8/googlesundarpichaicbs.jpg"
         width: 1101
         height: 828
+  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
+    publishedDateTime: 2020-01-20T13:52:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+        width: 1000
+        height: 652
 
-secured: "9QFCL2MmyFJ8MVghtCTIafut6ALc3SUIAdBLXxqgEFR49/0DGi5TCXpFqF17tR1YlZVsy3s6F/Z6vX2Ke1XYTRS5E2v4bTuGdcyg6uxr0j7lYp6X89aZ0kPXWNJbScUeKsqTh5Rb83ieHmEE22Ke3h7UyVNO3wdac1Fl23HK0JoIgWXGSD3YdwqTY4+39l2xupijgo6wAsf6/2AGCXPrppv21hkj5BCissJBLj4RL/xq8eS+l8Y79dtu5VoEojFOk4feshT8EjGbCjwso8Uv8twBsUeN3nIvr01CVvl7W5DJK0ohZ/ItriI+XDpgUBZS;ZMqkLFTRYKnFdJOZN94sAw=="
+secured: "HU3tOG/rcYVbfKrQcVWZb2wiGdHVH/owQH1VPwIb4WEK0ws1UFnJaJz1dU2YJJlDQmbeK7r3dTneDCxMD02+6biWF6k9D/8yyBBQiV+YzzNJTG1+XABWEQ5LH9MlDsHz0CQlPrvjBK3dpvm8GDIxw7jaoFM7fupFIquvt49EVYv0p8MG3ee85OabvdWsJzcZtac3nUo3LqRZjbXvByLSfC4ADmQh22qJq2PsB3omMlZnl2fYtSPETro86wdKLuTowOQkfd71aXi2DErzyK+MTjDgt317DTbM3bfjSz8cH73JH4+H9Eu8DZKP1EnyrwoQ;lQh76jZkkQMS8ou3RQ296g=="
 ---
 

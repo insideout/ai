@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T20:14:00Z
 webUrl: "https://www.automationworld.com/products/product/21112764/basler-ag-vision-system-for-machine-learning-ml-edge-computing-applications"
 type: article
 quality: 54
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -46,6 +46,19 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/02/tacc2.jpg"
         width: 742
         height: 681
+  - title: "Deep learning computer system can predict weather changes"
+    excerpt: "Rice University engineers have created a deep learning computer system that taught itself to accurately predict extreme weather events, like heat waves, up to five days in advance using minimal information about current weather conditions. Ironically, Rices self-learning ‘capsule neural network’ uses an analog method of weather forecasting ..."
+    publishedDateTime: 2020-02-09T09:40:00Z
+    webUrl: "https://www.gulf-times.com/story/655435/Deep-learning-computer-system-can-predict-weather-"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 39
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/220209123935183112931.jpg"
+        width: 620
+        height: 355
   - title: "BrainChip Showcases Vision and Learning Capabilities of its Akida Neural Processing IP and Device at tinyML Summit 2020"
     excerpt: "\"We recognize the growing need for low-power machine learning for emerging applications and architectures and have worked diligently to provide a solution that performs complex neural network training and inference for these systems. We believe that as a high-performance and ultra-power neural processor, Akida is ideally suited to be ..."
     publishedDateTime: 2020-02-07T13:06:00Z

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Deep Learning for Predicting Severe Weather"
-excerpt: "Researchers from Rice University have introduced a data-driven framework that formulates extreme weather prediction as a pattern recognition problem, employing state-of-the-art deep learning techniques. Their findings were published in the February 2020 edition of the American Geophysical Union’s Journal of Advances in Modeling Earth Systems."
-publishedDateTime: 2020-02-06T15:25:00Z
-webUrl: "https://insidehpc.com/2020/02/deep-learning-for-predicting-severe-weather/"
+title: "Deep learning computer system can predict weather changes"
+excerpt: "Rice University engineers have created a deep learning computer system that taught itself to accurately predict extreme weather events, like heat waves, up to five days in advance using minimal information about current weather conditions. Ironically, Rices self-learning ‘capsule neural network’ uses an analog method of weather forecasting ..."
+publishedDateTime: 2020-02-09T09:40:00Z
+webUrl: "https://www.gulf-times.com/story/655435/Deep-learning-computer-system-can-predict-weather-"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: insideHPC
-  domain: insidehpc.com
+  name: Gulf Times
+  domain: gulf-times.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://insidehpc.com/wp-content/uploads/2020/02/tacc2.jpg"
-    width: 742
-    height: 681
-    title: "Deep Learning for Predicting Severe Weather"
+  - url: "https://img.gulf-times.com/Content/Upload/Slider/220209123935183112931.jpg"
+    width: 620
+    height: 355
+    title: "Deep learning computer system can predict weather changes"
 
 related:
   - title: "Vision System for Machine Learning (ML) Edge Computing Applications"
@@ -46,19 +46,19 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 49
-  - title: "Deep learning computer system can predict weather changes"
-    excerpt: "Rice University engineers have created a deep learning computer system that taught itself to accurately predict extreme weather events, like heat waves, up to five days in advance using minimal information about current weather conditions. Ironically, Rices self-learning ‘capsule neural network’ uses an analog method of weather forecasting ..."
-    publishedDateTime: 2020-02-09T09:40:00Z
-    webUrl: "https://www.gulf-times.com/story/655435/Deep-learning-computer-system-can-predict-weather-"
+  - title: "Deep Learning for Predicting Severe Weather"
+    excerpt: "Researchers from Rice University have introduced a data-driven framework that formulates extreme weather prediction as a pattern recognition problem, employing state-of-the-art deep learning techniques. Their findings were published in the February 2020 edition of the American Geophysical Union’s Journal of Advances in Modeling Earth Systems."
+    publishedDateTime: 2020-02-06T15:25:00Z
+    webUrl: "https://insidehpc.com/2020/02/deep-learning-for-predicting-severe-weather/"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
+      name: insideHPC
+      domain: insidehpc.com
     quality: 39
     images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/220209123935183112931.jpg"
-        width: 620
-        height: 355
+      - url: "https://insidehpc.com/wp-content/uploads/2020/02/tacc2.jpg"
+        width: 742
+        height: 681
   - title: "BrainChip Showcases Vision and Learning Capabilities of its Akida Neural Processing IP and Device at tinyML Summit 2020"
     excerpt: "\"We recognize the growing need for low-power machine learning for emerging applications and architectures and have worked diligently to provide a solution that performs complex neural network training and inference for these systems. We believe that as a high-performance and ultra-power neural processor, Akida is ideally suited to be ..."
     publishedDateTime: 2020-02-07T13:06:00Z
@@ -157,6 +157,6 @@ related:
       domain: ieee.org
     quality: 0
 
-secured: "s9Muo49602DDY1uAXQ2xOEaBbmmAOO5a7KcdHfJ9D8hrFnhwx821ouDugsz8tGW4agSn+NLIrd9nGu5krDUAUb78tKmegts1YgSKBfksvSJUSfIjgl+9DIadbYFqxu3neuawdZ6lnaqAEAS9nljxH3rEzr3fVah1D3GYviXuohKajr9MsSwSdJN1FspfzErqtF2iLpQD5FdMU0vBleGODDCX7oTPqsTmTPdKKSDeTqAnVDdi2hPBmK9DX+KtBoaP4NDEMa02NEVpMF0dVXuvC3mH6UPCKbas4NDIj2f4bWhanie5vjRVcvJa4ccrfshlDu1JrT45y666hIk3a9C6EUT6LDa+6BfkbYvZy5XPipswXSkqrWOxcb7uwzqVlV39c1QvZ1tQwpOSnpYDDZhTVgkiXzVJau4STEKkNLfRUF3t+LCbgSakEAlidqWTra38E0Wd7SfkuxCYQ0PfU/y2fLixMYJFGHCVp+6Ut613gqg=;G5OuFbjB4QU4jsj5o0IxWA=="
+secured: "YpIRpCU5ka2jZv7Wpk0+Y8Pw52WGqrmYdBnu7UGyi4KmRv7BamFiTpOcpkigGuTIIrY7ZLRXUIAPHHn9lxorFPyDzm79vvuM9Dhaw2fMabydZJmAkjPMyQAluNarcTARR99MdsFzzgswOpvy5r75fZJTVehpc5nGqnOzyyzllPBFnmeZ11IgX9LOVs9J5sniBJ6O6gJ/8bZB4brHWd4BstZXYcVgmDu73nRu3CdDtt8hfPekXXtndhzYoj68QmwCZtQUPK87BWXkSimWIxhFOQ310pIioxoXa49j10/CjVy9mpHLZpCj7jBWFzrudhsw;Iccn1HtBLl7TPzOeCAEI+A=="
 ---
 
