@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artifici
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,23 @@ images:
     height: 382
     title: "Artificial Intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents"
 
-secured: "3A9mVurXjQpXbJo6KqzkqdCN7wGvMX3vIsWMm6VFeUfMvclv8W0CPPza6dpyZ46BgkX5udiVe5lbMswF6CW1V8mJzM5tcGNJfWN3nN8pGlzl9s8AsC/atLOhwOWWyQB9rhuw1XKOYrQP9c7RA+ARXGjNi/0bIc0aLIpy1jw6OvzGFah1/HKv71z2tCNSv+IPXd1Aj3v2an338b9Y9eoJJkWHC3D+Ekg2QmaUFF21HLSGarh1D9T5w6gvhtv+JhVv+5aaWgGOXf82fKUWV0OJ1ewOGPH+kplbqi6kN1Vhm2yVjuybg1DC2o83xzCldwqN;GocFklXPUv456VgDlibYcA=="
+related:
+  - title: "The AI that allows self-driving cars to ‘see’ around corners"
+    excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards."
+    publishedDateTime: 2020-01-16T15:04:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/07/224014877_trans_NvBQzQNjv4Bq4fbnCPI-RDmeGIOcGAVXQHMK-NyMFVVFzJdJCyg9hyQ.jpg"
+        width: 741
+        height: 463
+
+secured: "Q8m5vV6Hg72VWSa93ataw9zrQs2x9RXzNxOgj66QtZcQE5BV2EtCL4NbwB/VkGe0LEXNkowLKm0wKBRwdeqhuyYG6Y5Ho2KDqrD5745mQiXH+OVwktDSoNzJihD5+v4Fv9rrGPDuP/ASGH9jl+Tt3LHNeTcDAbgEN8VDZxLpSzQgik95lrsva5uzf/WCCP/HSegBHfGAxZiiWjpChn+XxjQAuemF4+eR56xfxRJc7hrZce45WQu2Z1Vg1B5R0GUCnjT14JCybVhUf6HGSCmBDGShTnbxzG282oYKUgVhOFuaZkwOM49yfpec1XH/456U;qZYHoRkUT0HGOO+AYDA4mg=="
 ---
 

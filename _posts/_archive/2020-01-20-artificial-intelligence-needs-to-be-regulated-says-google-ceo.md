@@ -24,6 +24,21 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
+    excerpt: "The project applied Google-developed object recognition AI to drone surveillance technology. Google vowed in its AI principles not to create AI that would harm people, but Pichai noted that ..."
+    publishedDateTime: 2020-01-20T14:16:00Z
+    webUrl: "https://www.zdnet.com/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2016/06/12/ffe20b09-169b-4947-99b6-1441d403581d/thumbnail/1200x675/841f911a4f69b0820b1c609e3d6b1d4a/51rilp0-t8l-sy300.jpg"
+        width: 1200
+        height: 675
   - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:57:00Z
@@ -40,6 +55,6 @@ related:
         width: 600
         height: 338
 
-secured: "soIAtfVIjXErrnznc4COddjg9/UskNhlneIBXWRpYkEWlkATV8DMuI31EAsc92+v2rkFjYp4ShjUooRdHjFONtGu6GM4NW8dJO+pWq3HHYoqf7UoBotRU08qcYxx+it/o2ZmvJVrLuE5LcBcv3yVKsi4bq9N4sf1TBNvOWtchPdFeZldvRqGwVEUhHb6oz3gx4wWJPypGfcsRDZb7yn8VeWrDjAM+MTfHe7H0w35AOnA27bkN10NZ0MMXwiep/yCz4FDtqz1veKePLrUReB3DM9/v918FZumMTPR5JjmftJkmkHvvxth2gVJQP+vuCHG;XXHX0cTvFzEjTvk20Bl+uw=="
+secured: "Rhhi5gDLByzVCBy6vAD0n0VXiJ8KZN5vhkQVT7kts2oPqku4GRDv4hBpP2p/t4GQPn10faATZL7LNxC1NWHriX9yKsPntAkkUnVmJAxL9Agf1TKQpUk8p9fUewFobh38FIfIpxg83umH8Cpk8jMsPUNbX9J8SitAXJd7a+abQ7Qgw2cboCzS1SFu4ejfANj3qW07Mio5dpL/U8+4Z7zrx2mhnGyVWxtW+YSTDcZ3oOpv6BEGinxgQYaFlMPSYu6u8Lu7hIkJVWzU8LdfiEeiiW143eRarGESj63piTNj8xe+/xjZIw1FoyZI519jJBcL;KlocjqmGJKvsXs4yW9O45Q=="
 ---
 
