@@ -54,7 +54,22 @@ related:
       - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
         width: 600
         height: 338
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
+    publishedDateTime: 2020-01-20T13:52:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+        width: 1000
+        height: 652
 
-secured: "l7LsXl6Rx33RD2/VAgxZ87Oi1mHhfERrCF3j0yrXOrI45uZRkFMoyPVOKEFCHnJYKWNWgwPZCkLtMNFs6MH+Iqh3LlxNADv22b7jVi3C2Nz/Ter3uq5fLPzu4+jbz23dfpyCbJ4dep/P0E5yCtPzWYwec+sO3qahTGJ/C4LJrfUGwckS5Cz5ucSZUSbGwQrEnGsNn0hofMWz6CHPAyUUCZBaKWDO11D7aYGBd/jHw91VzRUoJ8J7UDvMMK/GJ1kD0U/xvDgfsKWF0hRxxtgWMjGA+B8lrNfpHa2NxibuoI84K3qySM9QHW7sMeggl9IT;k8iGlYaRrWQi//k7kk1NCQ=="
+secured: "SkAAI8cZ2ZGfyheHeRrFgdLdKzf7yo9uRnTyXS2L2FxAxFe1MszTWWwa63mtdZ6CUWJeDee+hpIf0jrGZlRpR+uScLMdaiJsnLQYyOmCNGnowhv+9JPzAj1Sv7I2SGZ95+3Wu9E1kekNgtY5ovJe9p0bleSRJSno9cpiOdNBIC2tQKVzx/PWFOXy57M4r60q+0RkqEjPT7B4x5vw5xeTnA9Y2YA/38Om15wYT78QKjRVC01/qxtVncV13cxfmSftV7DwYz3axkst5QXxtSPGLfjTGJ14gbAL7hiGiQOWnv4kPJRfasz1sRBXtR5QWHvU;XF1N5qrkYdD8iONDO6Vbaw=="
 ---
 

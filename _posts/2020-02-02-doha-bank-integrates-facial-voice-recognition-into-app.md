@@ -301,19 +301,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "Students nationwide fight to 'Ban Facial Recognition' technology on campus"
-    excerpt: "A new campaign calls for colleges to ban the use of facial recognition technology. Some schools have already begun using the technology, according to reports. Students for Sensible Drug Policy and Fight for the Future, a nonprofit advocacy group in the area of digital rights, are working together to launch a campaign against colleges using ..."
-    publishedDateTime: 2020-01-25T22:33:00Z
-    webUrl: "https://www.campusreform.org/?ID=14269"
-    type: article
-    provider:
-      name: Campus Reform
-      domain: campusreform.org
-    quality: 37
-    images:
-      - url: "https://s3.amazonaws.com/campusreform/14269/bigstock-Simulation-Of-A-Screen-Of-Cctv-285169480.jpg"
-        width: 903
-        height: 600
   - title: "Veridium rolls out facial recognition tech and behavioural biometrics product"
     excerpt: "Today, authentication platform Veridium launches its proprietary facial recognition technology, vFace. This pioneering software makes facial recognition more accessible, bringing high-end security to users around the world for mobile banking and other high risk consumer apps. vFace enables facial recognition on all mobile devices with a front ..."
     publishedDateTime: 2020-02-04T11:26:00Z
@@ -327,19 +314,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
-  - title: "Government watchdog attacks Met Police over roll out of facial recognition cameras"
-    excerpt: "The Metropolitan Police has been criticised after announcing it will start using facial recognition cameras to target serious offenders in London. In a move to combat violent crime, the force plans to use controversial new technology to carry out live checks in popular locations. The cameras will target suspects involved in serious violence ..."
-    publishedDateTime: 2020-01-25T22:28:00Z
-    webUrl: "https://politicshome.com/news/uk/home-affairs/policing/news/109365/government-watchdog-attacks-met-police-over-roll-out"
-    type: article
-    provider:
-      name: PoliticsHome
-      domain: politicshome.com
-    quality: 33
-    images:
-      - url: "https://res.cloudinary.com/dods/image/upload/c_fill,g_center,h_500,w_1120/v1/polhome/UK%20public%20affairs/pa-49806341_inv3p9.jpg"
-        width: 1120
-        height: 500
   - title: "NY Senate bill would ban police facial recognition technology"
     excerpt: "ALBANY — As more reports have highlighted controversies involving law enforcement use of facial recognition technology, the state Legislature has a bill on its agenda to ban the practice in New York. State Sen. Brad Hoylman, D-27, introduced a bill last week that would ban any law enforcement agency or member from acquiring, accessing or ..."
     publishedDateTime: 2020-02-06T00:26:00Z

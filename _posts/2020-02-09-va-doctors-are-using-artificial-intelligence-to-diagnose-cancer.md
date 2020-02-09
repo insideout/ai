@@ -23,6 +23,6 @@ images:
     height: 630
     title: "VA doctors are using artificial intelligence to diagnose cancer"
 
-secured: "byunKhYFyjOKG+XZGxgd2avAVM18iGzoVyYTjODK/Ogx4szfdDft/P/8/TS3vftqzOHaUQZsQzilRI3JUDVwb0yD2ca/ads8yIxY8u2HeL4CDGSv8jr8zJTtI6t2f1X+QI6mCZcmzcKNHXulgDs3FM/XuZELOdG3SnDzVyZDc5ta4fir/5+TtDkfqSaKf/MkUtVVdxKo6dkgrY0sfgaE0vRWEf5piRaCPtos7cIV608WzBKMb3WImeT7QUxKnqQWIZi8vxsJLGiZ2furJT9aVVXYi6CuEzYbe8/ta9+hYwCZyKfUIdX5dKOFUOgYF+Jr;jQeJP5BrpcespfUed603pw=="
+secured: "cgdKtNkNI6zcD3pU2GN9PNsYu7YM5hCj8XCWlGP+4kajAZskfmSFBs7uTye7jv+xFhNQZSOOzhS0buisI+ZvHD2dsk8E6zTGQwizqkH1TgNL6QQBoqsO8qpITANJOVZoIcmn31d+/aaswXalh2rCIM6EXIw5lC8t+4xAsU7tUtKyZLxAN71i3Tlhwmt4grdp/6xrWzJKgTQTh7OWGT+Q9jB1ZEjwJ0DSkQsbRWR4NnZLPQsoRsFapJppoRjVnVkce6zM7h4u8AjvumD47f8ynDLE268hmLbEuf+EceKu70P7CSQwFI6MR260kWqCkaYo;OFyTgCrU4rLwopg0O6JwVg=="
 ---
 

@@ -52,7 +52,16 @@ related:
       - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
         width: 849
         height: 565
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
+    publishedDateTime: 2020-01-16T03:17:00Z
+    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "DgefMq5963Xx+j6QIZySvKFn8QmNTPDK3Fcop85Yaza74c9i90Fa5N2x+PmoG7eNX4F61JgquH1kGDwfQfFFiV3ulIUlQD1XlDWBN4AViEMD1v32nZBrv9FIkc0Al/MQLFuGZKHqAck6E46Zj7XgedCTSeSnI9NRsJYROXjUTCnywUnArfODFhVgEylkt93wN4g0vdEWC4VaYxrR48ilqu5rz6Au3hyklWMH186yb1ZB2G3chhgoqjPKOfTsORUtCrGTAmICsK8U60JMI5hvzMyWHfI7yrVYLdZGo7+8Wqo7560q2kvSuy/6j7aqe+Rm;v8GWFZn2f6NCb8COe7rgpQ=="
+secured: "nyPGoYTzCWLvsHShDDm7oOoK/Ur5O/g+ZtIH2dXk/ZE1jlEN81YUKK2TGtwSZBg731LCd1zxYC9T+thoCX1LLHXOgpynndQYPPUSnGaq08ohqlGrdDpJ8NdUvtNOc9/Oau70FOW4uO4fgTf0uora+6rhE0h8l3kmXh67H1tu/gXEJkvFiYXTfFZyCxu64H2HpcMa7nc3RFwtOQ/c2GD8OBCv+ZUDqEQ9qqK2DRK3BsSlrtptSAE40v+gFbOH1RPFuZAQKo6rrFQ7IZ7ZKbEpkeDBtNt1t8YCKsQW6GM0Td3PHpLQPgfW1aKqQHmkuDO8;b7ovLQbFiAeY4yEATG5bjQ=="
 ---
 
