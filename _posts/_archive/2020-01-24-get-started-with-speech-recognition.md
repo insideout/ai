@@ -23,21 +23,6 @@ images:
     height: 244
     title: "Get Started With Speech Recognition"
 
-related:
-  - title: "Raspberry Pi offline speech recognition system using Mozilla’s Deepspeech Engine"
-    excerpt: "Raspberry Pi enthusiasts interested in setting up off-line speech recognition on their Raspberry Pi 4 mini PC may be interested in a project published to the Hackster.io website this week by member Dmitry Maslov. The project is based on Mozilla’s Deepspeech Engine 0.6.1 and is equipped with a re-speaker and offers a service “faster than ..."
-    publishedDateTime: 2020-01-23T14:35:00Z
-    webUrl: "https://www.geeky-gadgets.com/raspberry-pi-offline-speech-recognition-system-using-mozillas-deepspeech-engine-23-01-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 34
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/01/Raspberry-Pi-offline-speech-recognition.jpg"
-        width: 700
-        height: 500
-
-secured: "SWP02lDD92UBKPOOpAy0mbxUdElL1rSQIqraUhGJd0rQ0IvuAc5IMqtXNiIY7m3icgYmb3MfZjxc/2k/jwAzSibfom70xbFXliaKEjq1JlC20UQoCsgjY+8UUAVRt9WWqVOx4cZzCHSTDDjOlj/R0pvgDiZt+slj7W3fvLEMldnVeXVu5u8uEE5Qe1R2azSp7mGpSd+etqCY/k9YlUydA09bQZMtW9bMEnIdPnQLjOORLGelkHudak8mH9iwGU1aao0koX8b9eDfZ8bU1HCZ7axvw+/KiSV+xoDR4MI0K7InpwD2Bm0+Z9BPg2EHsNP0;OMPbFpKezXvMM/h1ICVCEA=="
+secured: "Ggmx8JAtU3xJqnCdE5zlAsDx0Uo8nG5G9PHCq/m1qKwi6XfPxKcZMntVcEfsWBOwPLrUlnvh5uPGzTwAw/zoDFWtIPqbScMrCW5Gx9yd+WzhDeY7cRRFD6R4KyBcyRQeUyF0jZGsfVfJA8uedOeEqlnDRBFboJZ8HhC6en5B8HovWzDSzUhMkZLV2kAYPqsaB7r4H6KuWsa9qsDvIXbhxWnCX1/HNsRSA1YyVoFaPktomRQFr1Ny7iYyMct32UY0zIXUac7Azv0rC7usJjGFSvJOK5NYt6j13TEqMY8JKV6+bclYVhUt8qJqfUQKsPyu;ZiV8w/lwVv4eO+TJ3tlKWg=="
 ---
 
