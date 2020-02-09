@@ -29,6 +29,6 @@ images:
     height: 640
     title: "Simulation: Preparing Autonomous Vehicles For The Road"
 
-secured: "lpZnJp+NnNsDGIyRBVJc9Ye255G58HdvyCe0C32UUQZkWNk9KHeLYxHLGB5l0xYoDPQOj9het9x8cK+7m+WcPcu8i5vDq8YwrMPhj27ogR9bThSKzmMTV+5S+3AdmkPPWXgagKclEosX0GSLDNalhHM3Xy7mJoa/Xainq5A9OS+HXpjuN+kAIenwc91bdkkT+C/C6PU6yeHVhbKad8OWvhm3eSn0GcyRhIeiN3ZRKInocRf2TqKaTl5FbMVSOD1TyuFztr77hku1Gif8io28cbTWZseNCiwMjZDPRKeyuLVW33yfSSV6SHMPZFHSMKGC;Ionu3r+IvtwnFHQ0CyE3RA=="
+secured: "g0rE+/W9peabd5uUsaNwuVP3YzaJ6o8IbIkHdDcbRWWBTHAFNGPfX1EWxOTNciCvBYREbU3rkRe8ewE0jzM3EFMUIoWy+nC81Af6WKs4/YuAxYaqEsT0RrcqxR7p7pftshRTigaLnkWTf9aMxnDy3IRWE4A8ugadhpkJRzpxLeLd8e0sEk+UbI+Hu6D3M24baKougxThozWeMdnPzYzzA3CcS92SRIy2qYuagEaypzWsfE8HRsW64VVnSJIfa9eY0/2zKmi0bpHzQAd/5CZMG+wi5d6vUxkL/stsnPfEU5NbOKsxFFeqBztZLllblw8q;NEMApK9e2GnZmzZgdesaew=="
 ---
 

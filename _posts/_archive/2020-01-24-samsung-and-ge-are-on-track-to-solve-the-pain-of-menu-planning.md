@@ -29,6 +29,6 @@ images:
     height: 567
     title: "Samsung and GE are on track to solve the pain of menu planning"
 
-secured: "Ex/Ym8i46plNaP4RbRp0CSc1k2F1/f/PCCv6FIs0MWuiOSSpczvk/TwTdfBPi6pmVp7FAx5BBUkvfCettK1i6Ui3/myJ62VJR+RThua08YXhHLQrJ9OM6x93o5o/+l5xRDFJLDAB9bM68n9tTZHE1c3qk6oSYDzWDYlGJt+NaGD9ewEwCpqFn3vKyAkEaDGkatxIRxDmlIklleRL6gg7U5m6BVY9Tnki93KNMPM11Fk9KsKHJ9c61lQtpcg3Zn08Y7jJwRigQBEIKWN9halwUbI69nRCTkwQq/K7aHsrx2/d2fsUGlyj+6mHXlStQDZl;o6BWHmfyai6Xt/BxOr0mHA=="
+secured: "8/cOCYQQwvo2rLX5u8YEikyCphvarsw7sDk+k3rMx/iYZtNBOzXZYluTnU9zmZVuhOD16X+oWoXvKQRMUkHupgT6vKA+pw9ZzS2qntja8HwCnmvEliWZMJ9ELw2FnY4AYpJl4XZKyt52BPjlnV74YinYS+9UcN29nq2e0Avx0Wnsczd0p2H4RYvgWwasHUz+YL2VlyLH2n7SpL0NjlyJf6QnsktRRVrKXdj41MyUrLr9Y7SoCYUU2IIYJZnaGXGIubl8T9LuQF+t2KVNsaKpwXJAsLNdQf/8NcpdA6c072woUFgLRVLQtfBagCUAAQZ+;rZyJqbg6KgHPrhzEwMbCBw=="
 ---
 
