@@ -1,33 +1,27 @@
 ---
 category: news
-title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
-excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
-publishedDateTime: 2020-02-07T18:22:00Z
-webUrl: "https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12/"
-ampWebUrl: "https://amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
-cdnAmpWebUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
+title: "Tech giants hammer facial recognition startup"
+excerpt: "Facebook, YouTube, Twitter, Venmo and Linkedin have sent Clearview AI cease-and-desist letters in the wake of a blockbuster report that the facial recognition startup has scraped billions of people's faces from their websites, the New York Times reports."
+publishedDateTime: 2020-02-08T21:15:00Z
+webUrl: "https://www.axios.com/clearview-tech-giant-facial-recognition-startup-0961b589-2462-46cf-9ee4-dbcfd5266049.html"
 type: article
-quality: 85
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Axios
+  domain: axios.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
-    width: 750
-    height: 563
-    title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
+  - url: "https://static.axios.com/img/axios-icon.png"
+    width: 400
+    height: 400
+    title: "Tech giants hammer facial recognition startup"
 
 related:
   - title: "Clearview AI Wants To Sell Its Facial Recognition Software To Authoritarian Regimes Around The World"
@@ -90,6 +84,21 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/g3NdohYSdrzYH4i2iNFOSc9gHbQ=/756x567/2020/02/06/8599565c-e194-4d37-9ab7-56f3f399d317/facial-recognition.jpg"
         width: 756
         height: 567
+  - title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
+    excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
+    publishedDateTime: 2020-02-07T18:22:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12/"
+    ampWebUrl: "https://amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
+    cdnAmpWebUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
   - title: "WeWork wants facial recognition biometrics class action dismissed"
     excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
     publishedDateTime: 2020-02-07T03:36:00Z
@@ -103,19 +112,6 @@ related:
       - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
         width: 1280
         height: 640
-  - title: "Tech giants hammer facial recognition startup"
-    excerpt: "Facebook, YouTube, Twitter, Venmo and Linkedin have sent Clearview AI cease-and-desist letters in the wake of a blockbuster report that the facial recognition startup has scraped billions of people's faces from their websites, the New York Times reports."
-    publishedDateTime: 2020-02-08T21:15:00Z
-    webUrl: "https://www.axios.com/clearview-tech-giant-facial-recognition-startup-0961b589-2462-46cf-9ee4-dbcfd5266049.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://static.axios.com/img/axios-icon.png"
-        width: 400
-        height: 400
   - title: "Internet giants reject controversial facial-recognition start-up"
     excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
     publishedDateTime: 2020-02-06T12:46:00Z
@@ -126,6 +122,6 @@ related:
       domain: theiet.org
     quality: 4
 
-secured: "MmVZEU1tz6GqepdWMKgICKTloocL0otSs+25D+VfyXLZjaTyqIy/sRKcpLpXfhlKQjwByjhMf4xXNUNPOejoySzZSUxIpt0rgwOR+wUi0m1mDFTJkX60Q8hZo+9BSlsNwIaoErLH0CD/BOYEPZEerNQKgXWcgVhXsqflp0Bz83n5+JcBWy70g3wAjFn1uGI9U/LUPeRDaedWjOWwsVLbM0fFQadcObGSTSVv6OoZh2e4ch+9Ei13ocmlK29Q11l2pnpp4kGhYTl9TMJJPfi0g4OhISW1vLQF2Lv9LnGxpIJbv/asDjq4Q2VtPBrBgpXgk0UzFustGGD+82qu1quMvo0BQ66CN83jq30ZCLVfgB8k0G/FOWDsG+khCgPYD2TwS9y1nR2ApNIahKBxJ8E/6VQN0JZwexqV4FnmHfCaCguCojStt3WYYUH/zyGbp/JYF56Efq8LqamtgOlb1FwEs3igS5LfLB1a10vLQSloAww=;+9MaLCeAUrXLYA6lWEUM9g=="
+secured: "HOHHnqzGGST6moYFfi557/O3U4qqmTE0mE96yNGQvva1OF5VGuMDzkiSJj26Tf2XKHdbIb69KV9IfkqdkIe+ZDIvApZWHENwWkJnAzdpDKlOSvGqNFMI7GQwGljaZotUZu1wqlrnbxkbbsnk5RZ6vXf3boXpn4BLLlPnQaaYD8pv+TmDMMzsYqdFw3lWh0rnmI7QmNHGwDNC8Xlmj0W+HWJZInygSTAX6tA74HS+Iy/aeubZhRBrPV2tEGatmChFbhqhiuCAKr3ye5qdj4rhtqrEWlGzv2h4sgS1mJSMFknxhJU6M0JlKJsq8Uah2YtB;Wup7ELRZJ3RMVpIWlU+Vcg=="
 ---
 

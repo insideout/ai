@@ -8,7 +8,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-f
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-authoritarian-regimes-22"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -103,6 +103,19 @@ related:
       - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
         width: 1280
         height: 640
+  - title: "Tech giants hammer facial recognition startup"
+    excerpt: "Facebook, YouTube, Twitter, Venmo and Linkedin have sent Clearview AI cease-and-desist letters in the wake of a blockbuster report that the facial recognition startup has scraped billions of people's faces from their websites, the New York Times reports."
+    publishedDateTime: 2020-02-08T21:15:00Z
+    webUrl: "https://www.axios.com/clearview-tech-giant-facial-recognition-startup-0961b589-2462-46cf-9ee4-dbcfd5266049.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://static.axios.com/img/axios-icon.png"
+        width: 400
+        height: 400
   - title: "Internet giants reject controversial facial-recognition start-up"
     excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
     publishedDateTime: 2020-02-06T12:46:00Z

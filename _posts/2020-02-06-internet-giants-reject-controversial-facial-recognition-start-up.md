@@ -106,6 +106,19 @@ related:
       - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
         width: 1280
         height: 640
+  - title: "Tech giants hammer facial recognition startup"
+    excerpt: "Facebook, YouTube, Twitter, Venmo and Linkedin have sent Clearview AI cease-and-desist letters in the wake of a blockbuster report that the facial recognition startup has scraped billions of people's faces from their websites, the New York Times reports."
+    publishedDateTime: 2020-02-08T21:15:00Z
+    webUrl: "https://www.axios.com/clearview-tech-giant-facial-recognition-startup-0961b589-2462-46cf-9ee4-dbcfd5266049.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://static.axios.com/img/axios-icon.png"
+        width: 400
+        height: 400
 
 secured: "VY4MDMbXPNqRDujLWyZ3hlGqo/yUXt0CSHevcJIls6Ag53QKPDIBmqXJ539ZTo7mF+l7qvwidnEsz09kXfHnZSaayh2k1NY3B3Ty8XuEs/mwkvEMbxfLQd3P1tOK/X+qV63c7jGgvMhrYBVWixnen9NIIInn6lXcW/0luIdCvTH+edDyQ1nvGFWFLFYXs2Ry/eNQw5uc2UEJZOBTp31ZRfR/fEiRceayBXnWHyTWap1JvAcA5fBrb4Q38j63ZvLHyzNMaPdVjtECfeFz1iu4QyrTUlx1014ovAv8ACp9GXTCRVtQLRai7T22LFpQdLpG7hJNwZQv0svWtwKBkM0us5h0tkn1HJn5ZlTvkmRge0FpFBIS4tODkoErSao3utH4jA5RyyFniH98D+EQS2z4SNfqKcGP04UjeBWZt6KuFgTnz8eSALtK/m9LXc3TwXClf1UQXTL4ttdd5s7lNADRrwYbvl/KuG9sBpFS94TPlGQ=;gj7+yHvBJ+Nf8bRhunkiKg=="
 ---

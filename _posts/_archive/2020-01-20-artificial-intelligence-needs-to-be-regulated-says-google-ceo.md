@@ -54,7 +54,22 @@ related:
       - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
         width: 600
         height: 338
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
+    publishedDateTime: 2020-01-20T13:52:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+        width: 1000
+        height: 652
 
-secured: "Rhhi5gDLByzVCBy6vAD0n0VXiJ8KZN5vhkQVT7kts2oPqku4GRDv4hBpP2p/t4GQPn10faATZL7LNxC1NWHriX9yKsPntAkkUnVmJAxL9Agf1TKQpUk8p9fUewFobh38FIfIpxg83umH8Cpk8jMsPUNbX9J8SitAXJd7a+abQ7Qgw2cboCzS1SFu4ejfANj3qW07Mio5dpL/U8+4Z7zrx2mhnGyVWxtW+YSTDcZ3oOpv6BEGinxgQYaFlMPSYu6u8Lu7hIkJVWzU8LdfiEeiiW143eRarGESj63piTNj8xe+/xjZIw1FoyZI519jJBcL;KlocjqmGJKvsXs4yW9O45Q=="
+secured: "kMb6ai1hTtwgzLwiRcbk47dBujeC/KFemksfqnr12Zb13hj+2a6CbbtZj35T+rxoBCzIeqcCtaa76TcWdqFsv1UoCVlnDKWgL6kaGhvzRJBQTDAxqNn2VAUxN5ixeC4e6eq03ZcYYaUBHjBaYCFwwVnItQ0u5dYc4zq1wHxfL4d0+CgQfuZmfVrKBbP5hKrJqxd6xwxLPLXx4ooYxoH0lAbRql3xaijmOzie5Q5/GYlub96h+asjXfncEVEQBQOEXFb3cIjPRH40u/5wkNh6TX56naoZZbC8/MLoXfLuhGv1nhoZUVh4Eje/ECgILrpF;LMD4oNW/Z9/e5yJfnm0ySA=="
 ---
 

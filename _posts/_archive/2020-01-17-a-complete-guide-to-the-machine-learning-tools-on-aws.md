@@ -27,6 +27,6 @@ images:
     height: 512
     title: "A Complete Guide to the Machine Learning Tools on AWS"
 
-secured: "t90448+DVm6fTujGQyyp/Oj4yO0yavhyF7GE62a7kdjU5nqPnBan5DLiVHkWFTt7xu46etQXIpb6cDFUPCUnQptxClptcwuHcB8gaPHpXogSZk4Bq9xe5kTP/0wDGjx6kV0c34B3Oi4SCYjJQmWObkW5huL7pAZ7D7Qb5/C5dwePBHSBHJon6E+qr8AXglvwBSaSFv5WBSLRSRN4UQrAafAUrhfgn8B1dvNZB4n40k+7hA10hqBurtGF9KhFMC81/4ds9NzlfpFYgUC7uINlhb8+r77Pe5koomJNync2vYy8VVsCaUBYq8cr0rfkJpTu;DlhRL8sNDG8+VTl9KwSrOw=="
+secured: "n2S25at51vhJZ8YRBp8vwwFX+rESp/yFveUveI/l8eH0LWp7KNlENVX/+n2WVlKm2GQZ2XSVgsbmB8cBoFzyRfnoZbx5CV5ugD5RCIxHgYCXrz6hpKCQuBb7I/9kizg0wDDGzO94Ggvvqj1A7Cb9WvIxSyuM2xKtntnHWypvZeTo8cN6zxxxnf2BSUxDHyu95z1cTv9Pxx3XuFd66JIGSpU0SHYNkENQ2+315wzTOc1aAth5hIh+ubcHGnDQh8DlxvImMlTYLc4zmV9RZexiAz6L7P02ENWkYnnbDywvsT12PpxDB8PzvkCTPW9HYqpE;pJl0wJVM2p71YP8xD8QgkQ=="
 ---
 

@@ -52,7 +52,22 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
+    publishedDateTime: 2020-01-20T13:52:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+        width: 1000
+        height: 652
 
-secured: "FMqJypE2GMyeM28r0c5D+sJ9Xuu+08haIa7783vzdf7X+oyHfNn9U7+e+CUYyEVwSsFQIFRqvfhGfRNBsRk1VxtaYZaryjvFW50ChoqJ/aH+h+uucsa5ZFenLtWiQxUmvjynYsQAg6vOkISYbh7f9NLrcMUOUvXbdFwSfYPYAQAe+SJSz9+xZEVtul2TVjMNFf7yYcTH9KGcXDDhGY2k02EnE0mLSGA8W00TuMAYEiYAgdD1aZGrkjuUBx/47OTUq9rFwieL4ynTag9jCY1VcB/Vb3BWh0tt6zwA1dZ/4pWbHBu/SNmu7ytd13go2PZX;g3NsJ988++oyF61g/aAmsw=="
+secured: "UzLesWldZNj6M+YeW60/yWBYm4VPd5ikLkl+28QwOeeWqPB/G1TWDNCGNpKkc3gfBJflsmfV43xn3jIZY1MlhdMfT8RC1Xz20I9ABgss4fMyLepOBK/oip+qt/gY9y7dsqHqH+VmyypbLLg6rEt4GMWF+Z7R9IsP0JBjaV490fsEOL89zBjDraZXiuzZ5+OUEausYEzL7tYZDgi0Vafqnex9IAxVB2LezaJHsxGEHoI1RC4rGqswzKkUdBuubY4/H5/HNPsnA9Z+Vr7Ow6YKnZHXZqo/cSSt6R0GZRjc6FYuh0X9OZCLIt4TH4mK5//H;2GOw9HIthIieF9WuUGYquw=="
 ---
 

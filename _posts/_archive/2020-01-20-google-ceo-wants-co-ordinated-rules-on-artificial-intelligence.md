@@ -26,67 +26,48 @@ images:
     title: "Google CEO wants co-ordinated rules on artificial intelligence"
 
 related:
-  - title: "ProBeat: Why Google is really calling for AI regulation"
-    excerpt: "On Sunday, the Financial Times published an op-ed penned by Sundar Pichai titled “Why Google thinks we need to regulate AI.” Whether he wrote it himself or merely signed off on it, Pichai clearly wants the world to know that as the CEO of Alphabet and Google, he believes AI is too important not to be regulated. He has concerns about the ..."
-    publishedDateTime: 2020-01-24T18:30:00Z
-    webUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/"
-    ampWebUrl: "https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/"
+  - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
+    excerpt: "The project applied Google-developed object recognition AI to drone surveillance technology. Google vowed in its AI principles not to create AI that would harm people, but Pichai noted that ..."
+    publishedDateTime: 2020-01-20T14:16:00Z
+    webUrl: "https://www.zdnet.com/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2016/06/12/ffe20b09-169b-4947-99b6-1441d403581d/thumbnail/1200x675/841f911a4f69b0820b1c609e3d6b1d4a/51rilp0-t8l-sy300.jpg"
         width: 1200
-        height: 600
-  - title: "Assessing Google CEO Sundar Pichai's call for fair AI regulations"
-    excerpt: "Google CEO Sundar Pichai and other AI researchers say limited regulation is needed to protect people from irresponsible use cases. Google CEO Sundar Pichai and other executives working on artificial intelligence are now calling for limited government regulation as the European Union mulls potential five-year bans of facial recognition software."
-    publishedDateTime: 2020-01-29T16:55:00Z
-    webUrl: "https://www.techrepublic.com/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/"
+        height: 675
+  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
+      name: Mint
+      domain: livemint.com
+    quality: 74
     images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg"
-        width: 1200
-        height: 800
-  - title: "Google shows off far-flung AI research projects as calls for regulation mount"
-    excerpt: "\"Right now, one of the problems in machine learning is we tend to tackle each problem separately,\" said head of Google AI Jeff Dean at Google's San Francisco offices Tuesday."
-    publishedDateTime: 2020-01-29T18:16:00Z
-    webUrl: "https://www.cnbc.com/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html"
+      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
+        width: 600
+        height: 338
+  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
-        width: 1200
-        height: 800
-  - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
-    excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
-    publishedDateTime: 2020-01-21T13:29:00Z
-    webUrl: "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/"
-    ampWebUrl: "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/?amp"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/?amp"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2019/07/pichai-google-ceo-featured.jpg?fit=1360%2C1020&#038;ssl=1"
-        width: 1360
-        height: 1020
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
 
-secured: "8a3t1wsA0uLu/ixzYci1s9sEAu1dXURIYRX9+42NindftOgEnHkFsZIHXdoh4TpOGOms1aW2yiJNqcbemzplOXMj+yTLQrglk6sPm8KeC3OE4D2jrn1Z90T9laG8h4towzOy9m4pXkgf8alC3VJpsKUQID9JAiQ+RyPMGjTzGYXNfsAL28AkorpuoA3xX85HPvIhIyzXJcnyLPxRVKbSn4QQb4pOQFxSf2vwmsMVjZtlku+1p5tsYcZeDTcgoojONvzy3n98qvlDVo9nPSiEybtyGfKka/2DHlggLSya6UxGFR6cBmRFTIp11MBHbjKv;vCQRxPA62qe4iBCxDwk7lg=="
+secured: "2wUwtO+HN9iNu1CdOfhSrWdUmv0ZQ4fT3PuDlN/Z31yZm+ZcthQFFDAef+yuD3s0O+cBPFusi25pFajaXtomIvWVF7lmDs3USkIQze5Qi5+Fk/vQZ8WfkvpPTt6hereUkDiT1tnkVWXsZEP1Q92vGQIX/kUKqBfGdfhxYsqSi4uGlJe+DGjZYv4CN0mlTFqC79LGJX12jp01d6jJd1l4HJP9uFrrcBaP40fg6pRDgMmMMq3aijQZK/viIsWo+PsJ3gBbRYklYTGKTB6EEArFNpO57pgN/YgdhD1V3yzFAcFCHtE1DoCroANx7H2RSwo0;tzm+EzSqA74Zj5YFxd4hOA=="
 ---
 

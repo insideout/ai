@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-th
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -56,7 +56,22 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ..."
+    publishedDateTime: 2020-01-20T13:52:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+        width: 1000
+        height: 652
 
-secured: "mSFKCXVVDFq1dA4XIhnsv2JLOkI8L33khfAGruIxnBiFp9v8dwnU68QT57r3P7fqvndl7BXDdGG7P1j/TxOugpEYrz4p9X8dGGRwz7BUkXfXQXs0SucdDSKSJi1fd+u1x2HqmY5d8Ml6yyvUO08kAT2daTv8fx3rmELL4Gwv/T+R4+uTNWspEqq/H/7Xy3Pg0Xf6Rl5ib4e+BvhzYOt/ySPleYAL44Sr5KxOCSXlgqfi6/lKi6tkBqw1kIbTMU3VHXFoXfG2Lt+lJRUU5eZWZyEm+KXc9FvkGJZ6VQLX+V4dJPQ7vUFtpKhHczdsfcc9;HyH79uZLR5vjjKIXbO0WKw=="
+secured: "77+eb6IzDY99X1pM+mGm/AUQBSgrmOhmp9eOp0ooeF2R5aGbtmZoAV+2KPXyrEHSbXLt79I5vTRs8EIl+WBKEu5SHmat/dmBnEPzV2PHluIslasyBVZnKbuiroGJtw0YcXf5Cha4mbW4b3LrQ3TP+5U1kqfKAOShuJwwuKHN16OJs47zWqC3Dk+z0C9ywTCIKUg2HF3D6wHchD2IHJWHuf0PzFqtsg3RYivwaGj9Qo1pGcFgbKW1w+muq+V1n2/Zpn9h4jJJjhpHuGl7yzLSSlIf4sYFd6WvVKglH3i9+6DwU5NolZMId/RmbUYqWGJB;4b7ycQ3cgtrZ4HFXR6AUOQ=="
 ---
 

@@ -1,47 +1,28 @@
 ---
 category: news
 title: "dotData Achieves AWS Machine Learning Competency Status"
-excerpt: "dotData has been recognized as a leader by Forrester in the 2019 New Wave for AutoML platforms. dotData has also been recognized as the \"best machine learning platform\" for 2019 by the AI ..."
-publishedDateTime: 2020-02-04T08:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/dotdata-achieves-aws-machine-learning-competency-status-2020-02-04"
+excerpt: "... ML Competency status only eight months after joining the AWS Partner Network (APN). The certification recognizes dotData as an APN Partner that accelerates the full-cycle ML and data science process and provides validation that dotData has deep expertise in artificial intelligence (AI) and ML on AWS and can deliver their organization's ..."
+publishedDateTime: 2020-02-04T13:11:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-dotdata-achieves-aws-machine-learning-competency-status-/2020/02/04/9091610.htm"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - Machine Learning
+  - AWS AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
     title: "dotData Achieves AWS Machine Learning Competency Status"
 
-related:
-  - title: "Fugro wins ISFOG 2020 machine-learning competition"
-    excerpt: "A team of Fugro employees has won a global competition in geotechnical machine-learning. Competing with 60 other teams from industry and academia around the world, the Fugro team came first in the pile-driving prediction event organised as part of the International Symposium on Frontiers in Offshore Geotechnics (ISFOG) 2020 conference ..."
-    publishedDateTime: 2020-02-06T14:06:00Z
-    webUrl: "https://www.directionsmag.com/pressrelease/9527"
-    type: article
-    provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 24
-    images:
-      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/February/6/7/39d7ac5e-f4b5-445a-b757-4205f399e7a7-sized"
-        width: 800
-        height: 600
-
-secured: "oP4LlRTJljo3OMGapCnFi0ioHaja1KtdxYJPoygYbVMfflK2fQygJ2Okj6qdaFI9DRDfjFMZVfAG2lY2E90rE/qqUA3tv4J3rVjmDkDrdnORBe5pslXWv3Jg5/RQA2n0GxULD3ZcvOpSI+F1+twRnW0ofny2HXcTzfa9lIgpPSG61tIypejBJDyXP0F3cvM2pHLuWlUcixVZS52Yj7+EbKemv+90fZKl/Z82x0cww8QDmg8zcNDdd/STQCfqmlHYfLi+3GeaP1wMh8xOPpWXI1CoFxqbcj949vkwgM1VWLsO1SjnmvED/Cvxw2NpiFPI;rxgFnWkDHI28Mh1jpUpniA=="
+secured: "FlfEexfuzUc5zZbftQyIL9ltsfAcSCT1VgCwnBtIw3yl+pB7aAM9RUA/v9iw/xuHhcmphFnOCO7w9SojgBS4twEkVAjrfN7l7wXNualzVU4zPzGTTPT1tudEui4DV9T6EPZmFtMoQUoskGJSM8Go8QU3fN1LKFCkK7eF/cOvXInY2D6tm7hwoJc0nRmPXcZAuABM1gb9SgQzW+kzTIqOR1hylhmWjuXaebg0V7R7RaP4KHz0Pc3o0gFR2ieFgCPfOJptdIAKovIPehbPWW1kEcUmAL88//o1ifQXTD0c5fhGSvpfiTCOWG8w9Hde6+hN;btaGL7Lpa/M1dnHFoPGHKg=="
 ---
 
