@@ -57,6 +57,6 @@ related:
       domain: bloomberg.com
     quality: 69
 
-secured: "J6UHhjXeODBzKQcwRsuLS6emJ/Jo85btZ7E5QAi7irkKHEKGb2HiPuiQK722gFSvHX3NhX0QH1HI3Xa41vQAlwlDAKOrFNfBBImGPPYvAQknroOkTHyAUJUketvdZY/dEBrtrqNileMcNrQ11bSHvtjNLLrxqtRKX2k73Hx2h0TZa/ZuuL2lc/OIrL+bOuel2TF8CZFGBRKItYirl/se4AhkqU17RtnhxZnY3nZdK932N8ZCyGIWrvuIrGu52iotjklapLeWlbphI/Y/mLdHb4e+/apxLT6/7fXkJy2fVt49uBFZy+c89uO/YgyrVWm9;QBBjmyNaotuhijhpnbHHzA=="
+secured: "1J8Vtp2QoqxDz2pwmcDki5FvZ7cVNQl0XLJo6OewDt17F+gA3/5QA/O93KC2rkYpk5RtrjTAtSHUwnBQSOeBihhFhN3kxc6Z4oTOcj0MmTwN/ZTRochlw3eSOPbeUd428u5jTNu+PNps8JXvBJYMyF9ZmG/jRXJff4SqXNSybpv94tUJQDgWtottxldzSUqpcVSARhCBYH8PWZwEvbDoF/3itgRivIRi3k7DXarx7RU9w41/Jik9L/QF7dFkYElipJrWPTVkOOMfM9r/rAIlDKyznjwdS+GwhofBbgDUpVxzNbJfL+yDLBdZmSkNU5PO;gcOWauyLhEwCG53jKfUIJw=="
 ---
 

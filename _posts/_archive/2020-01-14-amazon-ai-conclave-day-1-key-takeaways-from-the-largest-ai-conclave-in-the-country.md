@@ -25,6 +25,6 @@ images:
     height: 300
     title: "Amazon AI Conclave Day 1: key takeaways from the largest AI conclave in the country"
 
-secured: "z+F2jVq1kJbuPkFBbME8PLU2HPtTHysM8icRPWeLLU/DS2388unyuk12ddBpOwfitwgMAyJIj47hAknFDjtzlwP4JPgAppamq0dgO1i73BoIqgTxMs0VzTQgnVw8mRhZ0HNg4b8QBwFdf8h5Jy6YwmY0y6sD/LvrFZgkYCsnm9xl5mjjDoN3/M3FCQk7knB31iZS2vvg+UZN+ipHfGJgTTwwAwOBFFFR8r3K4XO7dXUkzjqNdJ/4bIbtW3ws8J/TKz22mIXyIgdiUGFJ8NT2zHTw8e5GC4vt8lI25iE7fIerMQ0PhohObK5H+WmjsSx5;tpxd26l6lxZ1ivq6f7Yy4w=="
+secured: "cVEn7ueH3nGcmyzmw2ExVSwmPvyMMoR2hyP3umYRycKsg60lOfdTpiqJpY+OQ1guzkNLR8O4FP9D0p20VXRJJSueQJrLgwFaN7GL6eC5DsRvANp+eFg0WKBhKwDUNQiN/AC62GJIks+N32kvMSLjOY7b6jQVI+zJUiWCeZI791e5XLw9T+yB4Uoi868YTKgpIFMaCMeVkQPp04pxv4jXbFHbM9HYmn+amo7S5HuQe+kUENLbQv428ChF+P36JsJhoP+w6r9ITbhmoqkSDVgjHDtldE884sUWlMath3wKUfxkkBEQcVIXUWEsQu+HLo0g;vdikdBenKN4QpcNPV2eLXg=="
 ---
 

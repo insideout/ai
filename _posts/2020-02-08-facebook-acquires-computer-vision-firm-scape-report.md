@@ -61,6 +61,17 @@ related:
       - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/facebook-buys-start-up-that-uses-ai-vision-to-find-location-2020-02-09.jpg"
         width: 1000
         height: 800
+  - title: "Facebook buys Scape Technologies, start-up that uses AI vision to find location"
+    excerpt: "Founded in 2017, Scape Technologies was developing a “Visual Positioning Service” based on computer vision which lets developers build apps that require location accuracy far beyond the capabilities of GPS alone."
+    publishedDateTime: 2020-02-09T14:04:00Z
+    webUrl: "https://www.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
 
 secured: "i5J1dhAc9XiJAl8dyfPRzX0WcQOjITOJvP/0m5yFJXaUJ6UVz5eagv1+emO88nDsfaMDft3CJjPc6B1s4aFacKKUxtRTX7bjv7xU5LGw/D/hQFrF7jsvHWyF6XNsnBxGlKlCepGBtikt06ouoweCHml3JALTdKo8lBdduC/MojmGkgnT2TdjEnVT4Qulfh/Wzi/+w0IWUWOjVZLNkh+COc2zPuSAda+BHs12OV8BuvXAw+QnwFefn0YW6sK6k2kvOVZ/v794vJyylFAtMo/2x4QKwtIiwhgVXwMS7Ky4vx2CzptlznmmT7TWBlYIIHZK;kh5Iva99dRIW/bk4G8SgJg=="
 ---

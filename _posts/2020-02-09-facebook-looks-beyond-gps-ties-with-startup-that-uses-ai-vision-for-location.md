@@ -54,6 +54,17 @@ related:
       - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/facebook-buys-start-up-that-uses-ai-vision-to-find-location-2020-02-09.jpg"
         width: 1000
         height: 800
+  - title: "Facebook buys Scape Technologies, start-up that uses AI vision to find location"
+    excerpt: "Founded in 2017, Scape Technologies was developing a “Visual Positioning Service” based on computer vision which lets developers build apps that require location accuracy far beyond the capabilities of GPS alone."
+    publishedDateTime: 2020-02-09T14:04:00Z
+    webUrl: "https://www.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
   - title: "Facebook acquires computer vision firm Scape - report"
     excerpt: "Facebook (NASDAQ:FB) has acquired computer vision start-up Scape Technologies, TechCrunch reports. The deal for London-based Scape could be around $40M, according to the report, and it says filings indicate that Facebook has more than 75% of the company. They also indicate that VC representatives on Scape's board have been replaced by two ..."
     publishedDateTime: 2020-02-08T21:05:00Z

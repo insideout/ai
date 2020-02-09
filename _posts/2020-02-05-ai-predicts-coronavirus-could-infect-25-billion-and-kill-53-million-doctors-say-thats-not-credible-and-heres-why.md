@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-corona
 ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/amp/"
 type: article
-quality: 66
-heat: 86
+quality: 166
+heat: 186
 published: true
 
 provider:
@@ -55,6 +55,6 @@ related:
       domain: thesun.co.uk
     quality: 7
 
-secured: "oatYiHNVe7HaA8i7X/zlfrSGJlOEMrBvIC4iTfa+zodV5JaMuebtEUShq93ePlSX3R+4bIkIROZcyn1H57JD5PYoXT6HsBjjsWAZhx3R5c4F/3pICqkyV32zkuJIF7pHKKpgVWjO+8ecaCRuZG6pkYSAnhhj022ICDGBiS23SSXCsog8Mar7vcqf3261p0KXE0AQZXp5yZ++izcxWISewDKeMZ7L8pvwZFyrPk582VsNFvnz5Urg4ViTekL1cHf/+r5IhHbVT0URwfvqnprjaSw94vuK3s4auYSrWb7mLYaOMdVrB9ovMykPs+Pn+z0pVZHk1JaDl9rkjBDSYKPG+VqgMlbUGiZHqSlh5PZhGhjbwk7p4dGiTult2Y8wpG2QzebGA4/VobXbLir9NqUr7x2JtQf7lp25atdkZTiOk4LBcyrddKb6bbMZ3X7pgvKbTPTR6hYMbYK4IqOYo4tj7L6t97PjeweoGV114p1Cck0=;Mmnrie/EIsXf97QGMxGV8g=="
+secured: "3aDvSl+kTT8mglx1G8pR0P0i8/k7VeJVAbbGzOpHJn7NSMhRyu3rJIfoXC7XpfuX96eTsnz091L4VFqUZT8j5fbem38ILM2oUoYIyYhb9sQ/4Pm3GYdhADZwHv0OESGOExobsMZP/FmhTurk5o2gIPVlnKD0ueyGo/rb11P79wrGi6xTTjMAqOYEXZvO7YkkBkZ0t3SkQZs4RMZf0gwkOr4kQN4eV48NLQjrs9cO9io/azqltWP9JjVnPPAZYNF9qAFl+uCz82nj2OChkokm5dMGqoXOh5y7V8jc+yelOLIf7yAUBYdonQz52UfH4HKOwXmpmNBqDoLV1SP2G8SxlPvhC0RuVK0GotJP6SxU1HM6jUV5Ymj5V61xjBtLhz/KJqDjxshXrvYYYgEbVT/gkv8AkZqVSYDl0Boq84Y/RkQPnGD5wDM/kuS5Ax4dPaco7kk2xOC49H7xQaNnN35u6ezJnJsYCMxyH3zLVb4uC3Amjn5toi1ZkUQVzUH8MLZx;79HaU2sl6dIC5cOM10IIng=="
 ---
 
