@@ -23,6 +23,6 @@ images:
     height: 507
     title: "Kubota launches wacky driverless concept tractor"
 
-secured: "y1Pl+kxN+0wJ/kJuh/gUe7GfwGwp+W+uJ/5kvNSIrHbhoEstaeP3cHxStKLK6zHeocaLvOW59S8MsdVVWozBpFlkYD4qxJPB9iJvbGQy3Yo7Y+2tUXAx/dfYhfJIJ5P8u+VrhbjtlHcDY9tk0nbWyACnBpRJPHX3rxqeLk9kG5k6OjYUOy2RkK7PNT/qU9sf6V9iV/8iKuEWepdJgy8is279BZMiHKKQtsWnCtUA6y38hnVuuxukt0XTB8PgtsMzLY2kibUt7CWLUv7qz28QVnDSAgEOBYuPZQiNse5RJJCDjESzBlEY5LwsU8YfSdNM;+Yhw2GCjbAzvXe3f6gTs6w=="
+secured: "fXuHwb/UpxfaMdsyUT6tuWed+PvUZU1kI+OrFIip6DuwKCxEYF8tDC7FEhdEcDo0XUK+kGnDnuMD5S9q30RDNRWSTP1/B/xWJI2/cf6Rmghj2yzWpxDS7WP8LHtBIr/yxoaJlYB+oCXRFOzzS6AgTQ6C3icZt+i9oBcnASVNRgfJFIwbjar7Ue/nZKzJ1dHv6EE3nop7W/Tlb8S2opOIGv/Zjkn+vC7dQ0zHT9L9weIar43S9LXnVQFOCEqrICa17/7G5eYOBKZfZBW+DCxoE9RzSJrDM6T1bK2xbqyBfBe3MqIBqKSSCgvIkJNN4anb;gCwxNGw9BEafnbWOe30qUA=="
 ---
 

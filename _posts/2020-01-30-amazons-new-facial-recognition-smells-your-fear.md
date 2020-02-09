@@ -204,21 +204,6 @@ related:
       - url: "https://cdn.newsday.com/polopoly_fs/1.41286231.1580616519!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
         width: 1280
         height: 719
-  - title: "Metropolitan Police Service now using Live Facial Recognition technology"
-    excerpt: "LONDON – The Metropolitan Police Service announced Friday that it will start using Live Facial Recognition (LFR) technology. Met Police says the use of live facial recognition tech will be used in specific locations in London. They say this will help tackle serious crime, including serious violence, gun and knife crime, child sexual ..."
-    publishedDateTime: 2020-01-25T19:55:00Z
-    webUrl: "https://fox13now.com/2020/01/25/metropolitan-police-service-now-using-live-facial-recognition-technology/"
-    ampWebUrl: "https://fox13now.com/2020/01/25/metropolitan-police-service-now-using-live-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://fox13now-com.cdn.ampproject.org/c/s/fox13now.com/2020/01/25/metropolitan-police-service-now-using-live-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: KSTU
-      domain: fox13now.com
-    quality: 58
-    images:
-      - url: "https://localtvkstu.files.wordpress.com/2020/01/courtesy-met-police.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 800
   - title: "DFRobot launches AI camera with facial recognition for classroom STEM education"
     excerpt: "A new artificial intelligence-powered camera has been launched by DFRobot to bring facial biometrics, object recognition and tracking, and other applications to classrooms. DFRobot provides teaching tools for STEM education, and announced the launch of the camera at the recent Bett 2020 in London. The new HuskyLens is an AI vision sensor ..."
     publishedDateTime: 2020-02-04T19:15:00Z

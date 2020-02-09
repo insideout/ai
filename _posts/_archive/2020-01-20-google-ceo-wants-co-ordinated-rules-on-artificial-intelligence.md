@@ -20,9 +20,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s500"
-    width: 500
-    height: 326
+  - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+    width: 1000
+    height: 652
     title: "Google CEO wants co-ordinated rules on artificial intelligence"
 
 related:
@@ -38,9 +38,9 @@ related:
       domain: zdnet.com
     quality: 89
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/20/8a43aa65-ab15-4748-ae46-fd15a2c75df8/googlesundarpichaicbs.jpg"
-        width: 1101
-        height: 828
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2018/05/21/22cfedf0-6b65-4037-aef1-56ddd9f5688f/thumbnail/1200x675/ecfc0c68c8aa0215f390b73ca8ee8018/comcast-thumb.jpg"
+        width: 1200
+        height: 675
   - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:57:00Z
@@ -68,6 +68,6 @@ related:
       domain: bloomberg.com
     quality: 69
 
-secured: "Zz8hegv70a+B2eIZFAeaS69WbhAd+GNVPIKQLGWLEbQslnU3TAZfjg6ZX1QLHsRdLa9Sv5SJ1kdpUrX04nPvMt2iII5mZeYN4Ujg+zNyOG3hMjEVPzUrCIL41TPoBb5tCq/kjWdzqXXG+iEi03n2vcLbHy12XcMKQ+6lwSJvTfa65lVaugNv4XtNCCZDgu+99rKbYL+3IKIH4O3r+ZCzOd9MIc0MfsPh2BkV65Kkn2mPwxfwHhNgA4ouO3hdh71feVcwB43+TmCaFjz/EJjfbjmnvQibv5VZgS6sty0x06I5DX3U6qIYoCWy5PzMlYJN;25r+XzoenkLqLCKQDT289g=="
+secured: "fPZCFFLY3K2NpnsB9GwHOztx2ak6Sslm9VJ5fOPFm0vKIPfAOyY3AvAewuxQPYS8mgvHxjS+TtWGUGvP09F+UYP2memV8pgHsB9HId44QMJQ2Ya/MBQSoxarjHDrXn06V3OvG4NcftdMph8/PgYMDsnY+Y/joMmIQvQmmmtwK8W53g4jh0fXV1I2TcrEFMlXGJQccR6mdTRTs7qMYVt8g9VO/fGk/za5jyJyoLCXwjCi4rmzUk8/ASSdcizKsNt9NMYj71Mn4DV/zfh4UmZpOWFslKXV2eUXtZynodDfZyD5A1fI/9NC4oUTSu4WwuYh;YzQusxvGBmgXb1+FrMTCjg=="
 ---
 

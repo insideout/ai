@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/08/scapebook/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/08/scapebook/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,17 +30,34 @@ images:
     title: "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook"
 
 related:
-  - title: "Facebook buys start-up that uses AI vision to find location"
-    excerpt: "San Francisco, Feb 9 (IANS) Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent)."
-    publishedDateTime: 2020-02-09T11:33:00Z
-    webUrl: "https://newsd.in/facebook-buys-start-up-that-uses-ai-vision-to-find-location/"
-    ampWebUrl: "https://newsd.in/facebook-buys-start-up-that-uses-ai-vision-to-find-location/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facebook-buys-start-up-that-uses-ai-vision-to-find-location/amp/"
+  - title: "Facebook Looks Beyond GPS, Ties With Startup That Uses AI Vision For Location"
+    excerpt: "Facebook co-founder and CEO Mark Zuckerberg (File Photo). San Francisco: Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority ..."
+    publishedDateTime: 2020-02-09T12:49:00Z
+    webUrl: "https://www.india.com/news/india/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/"
+    ampWebUrl: "https://www.india.com/news/india/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
     type: article
     provider:
-      name: Newsd
-      domain: newsd.in
+      name: India.com
+      domain: india.com
+    quality: 56
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2019/11/Mark-Zuckerberg-F8.jpg"
+        width: 805
+        height: 503
+  - title: "Facebook buys start-up that uses AI vision to find location"
+    excerpt: "Facebook has acquired Scape Technologies -- a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). \"However by looking at other ..."
+    publishedDateTime: 2020-02-09T12:38:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/facebook-buys-start-up-that-uses-ai-vision-to-find-location.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
     quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/facebook-buys-start-up-that-uses-ai-vision-to-find-location-2020-02-09.jpg"
+        width: 1000
+        height: 800
   - title: "Facebook acquires computer vision firm Scape - report"
     excerpt: "Facebook (NASDAQ:FB) has acquired computer vision start-up Scape Technologies, TechCrunch reports. The deal for London-based Scape could be around $40M, according to the report, and it says filings indicate that Facebook has more than 75% of the company. They also indicate that VC representatives on Scape's board have been replaced by two ..."
     publishedDateTime: 2020-02-08T21:05:00Z
