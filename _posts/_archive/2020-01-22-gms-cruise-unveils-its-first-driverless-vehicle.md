@@ -25,6 +25,6 @@ images:
     height: 576
     title: "GM's Cruise unveils its first driverless vehicle"
 
-secured: "x9tGLTpDdLcl6Zuo5//OZJOKBaUHG+V1sMzUWQBq5s/VCNlVEdRHAEBN0m4z/uKQHvNsXRxXK9am1vV1oomwqm7dTbkCeHlntX9DQh3QK3uXL/xhnymMVT+LDL2uxrOrr/q/W0CgCq9TLKHw9debpFe6AGHApjTMJuO5rVGuEBcC8lAf5TELZH7VaUvQrTvbphMgosLmqHkDxnVHXp/9l0bcm8rUGm2egGnwHEx/V+tU2ATBP70VV7Z2BD3RNLqbKD8OE+orhwuajjWcpR5n4OWjlQoHSdYv1deo2v/Bzm5BKLzQPtkZX51noggJ0NIt;C+9f4OrrkhHX7YviepaWqw=="
+secured: "FnAFigi67LfdpGzq6ysiWRSgPw5stUmVbJTgFYlCVn8vfB6qlhYWIWuanhvKW+2PMq6teCJ2yzY2+cC7RcGuETMPqUyNFfRZX5u0dNY7uMaSE1RGHOf/JH4ijIm0/mBfe+/5gvOcNUpu/9y98IoNnim3Lk5hrnZU2TclRU+U+2Efh6a/5pyWKT8qx0fNpcmB48ovP4T3NxuXDMQFzKanVB79njUKx0wMicmJfNGc9JFgRkq4RzrpkyEMKBHgLf6CGiqrHM1KKQsYWd9o6uR2WSFqmoy+SJM2WI/pE0oOdeZui8q48QGtAf+nFVJJ7c8v;SWvGYpUpi3YmMWkhZeo1rg=="
 ---
 

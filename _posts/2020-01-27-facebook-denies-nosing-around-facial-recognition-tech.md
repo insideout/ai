@@ -256,21 +256,6 @@ related:
       - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
         width: 446
         height: 300
-  - title: "Facial Recognition Cameras Coming to London"
-    excerpt: "Whether you think it’s a brilliant security measure or an alarming violation of privacy, facial recognition technology is booming right now. The latest controversy surrounding its use comes from London, with the announcement that facial recognition cameras will be permanently situated around the city. The Metropolitan Police announced the ..."
-    publishedDateTime: 2020-01-25T18:29:00Z
-    webUrl: "https://www.insidehook.com/daily_brief/tech/facial-recognition-cameras-coming-to-london"
-    ampWebUrl: "https://www.insidehook.com/daily_brief/tech/facial-recognition-cameras-coming-to-london/amp"
-    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/facial-recognition-cameras-coming-to-london/amp"
-    type: article
-    provider:
-      name: InsideHook
-      domain: insidehook.com
-    quality: 59
-    images:
-      - url: "https://www.insidehook.com/wp-content/uploads/2020/01/london-camera.jpg?fit=768%2C510"
-        width: 768
-        height: 510
   - title: "Ban Facial Recognition on College Campuses, Activists Say"
     excerpt: "A campaign to ban facial recognition on college campuses has just been launched by the non-profit organizations Fight for the Future and Students for Sensible Drug Policy. Facial recognition technology is already being deployed in some public school systems, so the organizers want to get ahead of the spread of pervasive surveillance to higher ..."
     publishedDateTime: 2020-01-28T21:20:00Z

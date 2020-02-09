@@ -23,6 +23,6 @@ images:
     height: 244
     title: "Get Started With Speech Recognition"
 
-secured: "Ggmx8JAtU3xJqnCdE5zlAsDx0Uo8nG5G9PHCq/m1qKwi6XfPxKcZMntVcEfsWBOwPLrUlnvh5uPGzTwAw/zoDFWtIPqbScMrCW5Gx9yd+WzhDeY7cRRFD6R4KyBcyRQeUyF0jZGsfVfJA8uedOeEqlnDRBFboJZ8HhC6en5B8HovWzDSzUhMkZLV2kAYPqsaB7r4H6KuWsa9qsDvIXbhxWnCX1/HNsRSA1YyVoFaPktomRQFr1Ny7iYyMct32UY0zIXUac7Azv0rC7usJjGFSvJOK5NYt6j13TEqMY8JKV6+bclYVhUt8qJqfUQKsPyu;ZiV8w/lwVv4eO+TJ3tlKWg=="
+secured: "jqO8ZCsacrAavH53JjdXvDKxDrWf62o33dx3Ciip9BYBaW8M+YoE6+Q7WiboD0H1YtNolTSV6CycCyW7V7HqCcZFJcsqoBJN/+8mVLYFXpKRM/vcguOIYrdU5xRTr1gFkmuYey4B08Ict87xqDagWGF27oOXuQCxNnUbnWPoWiJeRdyVx7++TDIybJ3lS8nnuZBZcBsPHfKR2t+oj7/yYWsjdkKUqYhY4ut1LfeycrXNwXX4QF70qBtCq1U0WegQ2YLZE2yudfTycEwtDS+kJVttr+ON3sEH1wj8V/eAxgs8BvMSZunYQbi1tImneqvg;wgg4Ogo4L/Fa1+F6o0XbOQ=="
 ---
 

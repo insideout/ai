@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/08/scapebook/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/08/scapebook/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     title: "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook"
 
 related:
+  - title: "Facebook buys start-up that uses AI vision to find location"
+    excerpt: "San Francisco, Feb 9 (IANS) Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent)."
+    publishedDateTime: 2020-02-09T11:33:00Z
+    webUrl: "https://newsd.in/facebook-buys-start-up-that-uses-ai-vision-to-find-location/"
+    ampWebUrl: "https://newsd.in/facebook-buys-start-up-that-uses-ai-vision-to-find-location/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facebook-buys-start-up-that-uses-ai-vision-to-find-location/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 39
   - title: "Facebook acquires computer vision firm Scape - report"
     excerpt: "Facebook (NASDAQ:FB) has acquired computer vision start-up Scape Technologies, TechCrunch reports. The deal for London-based Scape could be around $40M, according to the report, and it says filings indicate that Facebook has more than 75% of the company. They also indicate that VC representatives on Scape's board have been replaced by two ..."
     publishedDateTime: 2020-02-08T21:05:00Z

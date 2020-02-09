@@ -241,21 +241,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1192370013-760x380.jpg"
         width: 760
         height: 380
-  - title: "Facial Recognition Cameras Coming to London"
-    excerpt: "Whether you think it’s a brilliant security measure or an alarming violation of privacy, facial recognition technology is booming right now. The latest controversy surrounding its use comes from London, with the announcement that facial recognition cameras will be permanently situated around the city. The Metropolitan Police announced the ..."
-    publishedDateTime: 2020-01-25T18:29:00Z
-    webUrl: "https://www.insidehook.com/daily_brief/tech/facial-recognition-cameras-coming-to-london"
-    ampWebUrl: "https://www.insidehook.com/daily_brief/tech/facial-recognition-cameras-coming-to-london/amp"
-    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/facial-recognition-cameras-coming-to-london/amp"
-    type: article
-    provider:
-      name: InsideHook
-      domain: insidehook.com
-    quality: 59
-    images:
-      - url: "https://www.insidehook.com/wp-content/uploads/2020/01/london-camera.jpg?fit=768%2C510"
-        width: 768
-        height: 510
   - title: "Facebook denies nosing around facial recognition tech"
     excerpt: "Facebook responded to speculation it was developing its own facial recognition software for its Messenger app, stating reports were innaccurate and it would instead use on-device systems to handle provision of security. In a Twitter post, Facebook’s EMEA communications manager Alexandru Voica explained the company was not looking to develop a ..."
     publishedDateTime: 2020-01-27T12:37:00Z
@@ -683,6 +668,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "PtOt46VWthOgR6rh1ogTIwvkp7RDa0sVjf8QxOQtHbC+PRKYrFUEPYeOkMJ/NyXn62hifT8t1j1jDTcyecfYOPVOlq6Ma1w4WJTL1lhWbgyvRJLee1QhZCImyfQM/qLgh10NF9DFl/dRri+kdof0tXpyXNR8CbLGuedSQHmX1/x422hE/Suzw4sDGyRblPADz6WCzMisAuZuh06t94GI+QZN6xeOA3Xp341VKhA6ejDaJuYomjmRWp+yKJyZwqTqGWpHlDpPrQGk6YD49SgBKKweioKvsgx9wp+BShGA7eQQ0XRyQwVNIV3CqLk0wJ4z;DzPsXwgNrR0CXLlYGuluJQ=="
+secured: "B9KCkVOoqXjXAn17+0kbzvSl2aLQ0EbKAyK5b6VrCWRSGGMtNKY/rpDhUv+xrd6W59Rk9x03NykHDtYz3Gektl5zIcwdj/sCw9TWT+PYJNyQQ4xPIVHnplK6S6dIFfPq9TgErzRXUdKV6Bmbt9u0Mhux3okbCrNs8UTBcElEmiTPWdcZJKju+vmLFO36ivkDMGf/6NIFzVJY6ElmUF1fZGI7sNSNmOaJkXLDzPKn/zQmIoVtEQo1OaH67zqSfsSCGYxRobCrxUiN2RpWJIVqRutYLIDNA30EKRbvzsnaV3BiubDOaSUthX9Zj4px/7Mk;JYfvS1KmlAHZ1GIRc9YZAQ=="
 ---
 

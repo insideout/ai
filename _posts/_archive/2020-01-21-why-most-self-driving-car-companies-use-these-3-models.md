@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
         width: 1200
         height: 630
-  - title: "Test shows promise of self-driving cars for transit"
-    excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
-    publishedDateTime: 2020-01-25T19:00:00Z
-    webUrl: "https://www.limaohio.com/top-stories/393877/test-shows-promise-of-self-driving-cars-for-transit"
-    type: article
-    provider:
-      name: The Lima News
-      domain: limaohio.com
-    quality: 24
-    images:
-      - url: "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_SelfDriving1.jpg"
-        width: 640
-        height: 431
   - title: "The road ahead for AV in the age of self-driving cars"
     excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
     publishedDateTime: 2020-01-28T10:25:00Z
@@ -68,6 +55,6 @@ related:
         width: 620
         height: 330
 
-secured: "YBfLPqjdSjx4z23G+T/U4LI7PkWobVmwoHekPrrpoFUzFvw7E7l1hQSB/WCHoI4Zs5rmAcVpbM0JO3tIMhPVRAP+qLdcmmqcavk9fS9jd9Nd4pzCUKeRfkTy7fgNwi3bkQUd1dAmpxNzTdPIk+xOUkQvNoK/GmXpWUPJKL7/wVSdyBsDtfBNTWbQ+HfSi/qEkpWZMwYH3aEMrz4Nd9ggfXHa9909yisQGxwTwnageuCtkq6m+wyI6P/4B3VdVDE8tNNz0ZkzSu+KIlCfKzR2p3uEVgCC8/1g7KMmhEbGaurlUmMnP1PGTj32tES3AjVB;aqbspMSNknguWg24IkRHQw=="
+secured: "OoDONr+erQ6TxjpCRPceWDxOQY+g75dvqJC0MbZ0UCcEc11JedsVPu5otGbvFt0nGZNttet9KL4OuhMJ8WGYJPloV7Jp96CnvtOaMhJokXQ19KBXTTP89uLcbD2qPHz2C2jUuuePtcsAufhW8NEazxEm8O2wYJhG+UDyH4SEyJEnRyMqAtvWQRtHt6FVGuK0Sgifap0gAP265x2Ca7VIZcmxF98oiNRwPozpUMGIMAf3wbcHZ+7KWgA/5FnBvwckfJH0Cpt9DmSlvJnHxq70pHWEdanPEvQUzyhwx9EA5g/jVtaLGdSdTDDx4vsV9r+T;i21/fl/2pzm8dhkbfT1NVQ=="
 ---
 

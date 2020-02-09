@@ -64,10 +64,10 @@ related:
       domain: businesslive.co.za
     quality: 59
     images:
-      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
-        width: 1000
-        height: 652
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s500"
+        width: 500
+        height: 326
 
-secured: "Zid0V6ZstpuHVRf2wbBmGrOe7KYEIddcPg5Ll3Q9SWXXg90zd9qxQUDdedIBLBuWO6Vd7PLh/DSRql/dgJ+pv+87qFoFXi98tix4h4p4Or2viDtEFnA3Wa+uXo4mvd7kwj4pwEaB3Ai17W/+rojwUJv/MapPbemWDKyifB2RHpYK8Co93+VehWTdANQ7N5BuyyTPLsTGjK8GEeFNBUah46Onjm1M86HC4FPwtl+Ph/VRofQKw97pQJU+1ZtkQAVYlWsWqmcht9RPUWZiq83P0HASKh298tARI0JND9uop94CdJvGO5Md7qrgP3sPd8wG;viYFTIjmkN3eeetj5umBqQ=="
+secured: "1Qk0iALaTef01hzvXuKx8GVMJKaea8xdl2h7Z+1/HhdFnWAIN5mbAj0difTcKrDDYjxCbU3trkQ7J5mz9B11CYQyg3AK7jFcQNzLEjjDOlOob3suqGVKAluI1pVXc4ZM4qSfEN1Yn8HVQtqYcJw1iW0213uvRs8fv0iqfZErjBO27ldkFZpCVpSy0PMA02+iQ5q89Z+cC19JiZQZBY4rV10EBSNaGhIBfo81mOW8uEQ7/z5MnUYVCgczSthzFz5KV9WgqeajbxOfUeOBsNDJ2R4kc+UuVsK8V8Z2JmTTadYzC2CHy0NYCQ7qWoAw1O8m;Ptn0gzvKEfpDX4kgkFnLIg=="
 ---
 

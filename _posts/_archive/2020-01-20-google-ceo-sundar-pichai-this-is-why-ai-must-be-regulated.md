@@ -68,10 +68,10 @@ related:
       domain: businesslive.co.za
     quality: 59
     images:
-      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
-        width: 1000
-        height: 652
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s500"
+        width: 500
+        height: 326
 
-secured: "bW+uFaJltbvahYsynOwY+gAa8+awDH00O8hVn7jZua7slk3TanyAHM02JUqdzyYyEKSLwfnarh879TEDjYmxH0HtDf8DTOIOBMybpBVawKrEPkO6Kh8tdUMfcd30vSa9ROmzxCI2RQbaETC/zQ25Th/olMEUrwmm4GY4SFLjR7ndXtWpcWbITQPtXtZlDgl+3nO9Fh4sVZ2bH5daAFwAvWkWCQK/4Sl+f0Tw4XcdbkZzgBGbsmx/XzeJhbx8pAbGt9bOel2Vv77maAuj+gpe3EtbKyj7ccgGYHONW+bHzlJzUWmJI2cSoSLp7ROlcPVW;8rpotJwFchCehVB690FJsw=="
+secured: "LCEQwN2YhKTpX7Gems8bMABcKv6/1i4D/7uv5d/OcWyxl0qRuHeijn76oZxJvAdop+OEixVb434Dj9VW8/idAzkZoN+DUCW03hZCZsDMrWLDI+QX+g99ozSbo362s5iD9oOJVIwYSR6wmYQ0/rPgAWhIDgKC70r5Wr1JI/yEdQ44MbzzaBy5JiFB7kK8yQMrn1tpsQ82hrEel0E06XYLnis36FZvNMtD6ATnHR/7te6oSysu/EoY2gKtswHPFvPwKWGvlPYGphSeqIdJqWeX4Y0YwrzEoqT8IB+8U1bDLVLFMw3wQrI0poJ4qrNot9OO;3liN91dBKybt+XkelZUarQ=="
 ---
 

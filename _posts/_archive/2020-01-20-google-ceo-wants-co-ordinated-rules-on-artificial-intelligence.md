@@ -20,9 +20,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
-    width: 1000
-    height: 652
+  - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s500"
+    width: 500
+    height: 326
     title: "Google CEO wants co-ordinated rules on artificial intelligence"
 
 related:
@@ -68,6 +68,6 @@ related:
       domain: bloomberg.com
     quality: 69
 
-secured: "F9bpeh3b8H/XdE9nlcKwFgy523dB/SK10zcPNleE8AvQORpNMLV48zgFPRu5jWJScgVex8QXTAYtvpJaDdybczf5Q1ISDVwqKG01nz1ZtbSrCJshZPBeyqJdkqo1qVZG1eewfuBBTYqRLMYwx4ecn838Bdbe1xKegKf2UatAaYKXutKInUbJGMhNR0eK5bFis6BkQbQur6rch4NnFizGuQx58MPVmzwcQeztUxUQ8GP20jI605s5iILpwQ+vicDihjy0cjoLp8xx8onbDmJJxXx+oDa3BkoZN1PUikoc1YovGFQofD3AqhfWIjSU7KNR;pDG1txS7zo4+D+YzR7ShrA=="
+secured: "Zz8hegv70a+B2eIZFAeaS69WbhAd+GNVPIKQLGWLEbQslnU3TAZfjg6ZX1QLHsRdLa9Sv5SJ1kdpUrX04nPvMt2iII5mZeYN4Ujg+zNyOG3hMjEVPzUrCIL41TPoBb5tCq/kjWdzqXXG+iEi03n2vcLbHy12XcMKQ+6lwSJvTfa65lVaugNv4XtNCCZDgu+99rKbYL+3IKIH4O3r+ZCzOd9MIc0MfsPh2BkV65Kkn2mPwxfwHhNgA4ouO3hdh71feVcwB43+TmCaFjz/EJjfbjmnvQibv5VZgS6sty0x06I5DX3U6qIYoCWy5PzMlYJN;25r+XzoenkLqLCKQDT289g=="
 ---
 

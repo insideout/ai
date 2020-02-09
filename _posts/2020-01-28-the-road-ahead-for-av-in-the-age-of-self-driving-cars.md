@@ -54,19 +54,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
         width: 1200
         height: 630
-  - title: "Test shows promise of self-driving cars for transit"
-    excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
-    publishedDateTime: 2020-01-25T19:00:00Z
-    webUrl: "https://www.limaohio.com/top-stories/393877/test-shows-promise-of-self-driving-cars-for-transit"
-    type: article
-    provider:
-      name: The Lima News
-      domain: limaohio.com
-    quality: 24
-    images:
-      - url: "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_SelfDriving1.jpg"
-        width: 640
-        height: 431
 
 secured: "p/DSmsv45oE3yFDtdF6326J2jnCg2grdzmCLa2xwcn1KVrGShwJknPQ9hMXCCCdjpDDL53+dM+jrQ2OqZ/F879PIBW85kLmb0hVMnUrxl2XbJwnhJsXJzFNlrnuNQ7oou+99tJwLpyHgeG8Te0L5pe77gSm/0H8NXRZtVDzgwLC5Sg6P5poDvsniX4IPbooiLqE455Hf+wT3c1z8/sHUp+Q7sJWN+aUnEIZc73C8uHG4KOrBu66AJYmzSTya4xX3dgHV76rQNzjKOOqXLovdXt09LpGgQjh4jSS3nSaEyJUiGi3shhkzvQ+nZ7blDKkc;SroK/6eE8UABbvfPAMBXew=="
 ---
