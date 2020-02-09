@@ -254,21 +254,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Uber prepares to test its self-driving cars in Washington, DC"
-    excerpt: "Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC. Three mapping vehicles equipped with cameras and sensors will spend a few weeks driving around the city and collecting data. High-definition maps are considered ..."
-    publishedDateTime: 2020-01-25T14:34:00Z
-    webUrl: "https://www.wktv.com/content/news/567294012.html"
-    ampWebUrl: "http://www.wktv.com/templates/AMP?contentID=567294012"
-    cdnAmpWebUrl: "https://www-wktv-com.cdn.ampproject.org/c/www.wktv.com/templates/AMP?contentID=567294012"
-    type: article
-    provider:
-      name: WKTV
-      domain: wktv.com
-    quality: 44
-    images:
-      - url: "http://media.heartlandtv.com/designimages/WKTV-StoryDefault-640x380.jpg"
-        width: 640
-        height: 380
   - title: "UPS And Waymo Partner To Begin Self-Driving Package Pickup In Arizona"
     excerpt: "Waymo’s self-driving vehicles will shuttle packages from The UPS Store locations in Metro Phoenix to UPS facility -- Partnership to develop customer and operational benefits “UPS and Waymo are exploring automated and autonomous technologies to enhance network operations,” said Scott Price, UPS chief strategy and transformation officer."
     publishedDateTime: 2020-01-29T21:47:00Z

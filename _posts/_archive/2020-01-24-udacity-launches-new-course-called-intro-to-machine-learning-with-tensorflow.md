@@ -48,16 +48,7 @@ related:
       - url: "https://i1.wp.com/techstory.in/wp-content/uploads/2020/01/Udacity.jpg?fit=768%2C403&#038;ssl=1"
         width: 768
         height: 403
-  - title: "New Udacity Nanodegree programme offers hands-on ML training"
-    excerpt: "US-based learning platform Udacity has launched a new Nanodegree programme titled 'Intro to Machine Learning with TensorFlow' that offers practitioner-level skills in new-generation Machine Learning (ML) through hands-on projects. Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ML models powered by ..."
-    publishedDateTime: 2020-01-25T14:31:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200125/3495220.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
-secured: "3Atu88GBat8MjOXuELkISuFpOjuSdv8t659JRAii3Yt6Q+/HOilU2MS6iBVK/j0yWPM2rs06VdCv3zNRQdjSznYxCyPpTp8E6xEYGVIR97eaCuak+1HBCxGsklevgqxPwIXB54s6V1C1COVo88+cLg9fUKs3Tb3eaE0VPPvF3B4uSJL9vPCRMnd9jMVQFQ3GRJIk+GMZiFDh6PWR3gVnyhiF9dv3uHRGm4rJpBjbMz7Fcj4mSJumCOQJPr0229qxXmt6GcR5esqBjRe683bhds74UFl+MQYOaxvtWZpknrdIi5MYsJgceBEZ+lqYumxd;/9A9ShN/xqk+T+azsnMNFg=="
+secured: "rSnB3PpP+wQSfC8PjAdlrunBA6l7HdJU93IEOAlL3mY1dkngg4rKfy22lyeQahPjMBrrEBPAXCbBHEN5qw9owA1ROY3XYMEOSm8QRUxnLFasfhG/PbDYIrzNaPgI43PhleTj8VIjjrkrfeClhlLuZ6/cO4cpFCk03sjzkP2qlmooS8TYRFBShUjC5624L5JPnJzqhZquBxhymrOEU7P3+1+s/JnBEbtYXCSanZnh3FK8ndzodGoAjCd7DelfG3T/htk3WqOEminTA6y6HI8XAS32rRe+AEw4dG5ueVTwBM5KgbeVuYqcLSgadBlgxzVQ;h2tpl/TZANptj/ugvX3/ow=="
 ---
 

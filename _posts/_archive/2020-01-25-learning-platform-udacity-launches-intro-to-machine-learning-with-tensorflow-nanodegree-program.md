@@ -50,16 +50,7 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 36
-  - title: "New Udacity Nanodegree programme offers hands-on ML training"
-    excerpt: "US-based learning platform Udacity has launched a new Nanodegree programme titled 'Intro to Machine Learning with TensorFlow' that offers practitioner-level skills in new-generation Machine Learning (ML) through hands-on projects. Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ML models powered by ..."
-    publishedDateTime: 2020-01-25T14:31:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200125/3495220.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
-secured: "eMcGrRoOJGhNJspgzL8eUVwXT7tPHjrfxVLrrT/OwgS4suPDc/rOlEs3oInnypVRIg3WGg2389/R8C3TxJT+7VThJdDm8m8eT0ElKyVHFULca7qb1jQuO8I/cWbVbGEKyNM8vq/qHNcjyU+xJCb6itcgoKpnXDReMVZno4mIEaa70HBnjrZIrXUOctdPu+rDCqpgDwQyZL0txlFuKid0jFIV5QNJFIVaAXCXsRQ2pDDazvyQ3gk7WJ+TEPhudpO0ZOmYng8u7t6h+WlCkn0jarGpSvnde1Hl6ny5J0cs1Ls+W83aBiDeRGbku/OsTxCP;m0+SQip3boQg6goBAsbz/g=="
+secured: "STjM5/XVOen05ebS5ujF4aGO0OE6ZHtEldqsO1r5a/b+EJ88JuucGZ7r6gyCZEHE4/RBIw2DCj5lV2OnpHI+kpSWHNUh9zhjwbdwJ5pMMP7EFYUQwKGicCQsiMuBqn+PPQnQiV7aulhu88cb3yEIpGyp0Ff/WBNtXB9+p+sewsszstX/WTyyMxTJ76dKIzt3kuAInXiDbowUZ56KA1aRASlHdygc6cGafaNynv3RPW7A29EF491XjeR4YFDFsVDMjYkx/xKQT0WRSp0GdPKYO8X0US069Xi/4nQ9hI6oKLclXlyMM4RX16u0qcIeV5/s;keTGOpDWUIAMGHzcoTVqJQ=="
 ---
 

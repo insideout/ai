@@ -25,6 +25,6 @@ images:
     height: 337
     title: "An algorithm that learns through rewards may show how our brain does too"
 
-secured: "xelfv3vamuZLybg5g9BhhDaoz5JEbMMgQCUDmwEl4/7SlKIM4cej7ab+LtC64iyynDXBiu1Ch16f8+R3m9+Dvun1/DY0w3oJuBGM5Y3xK0ogLsG95BhsvhrNbv49ithVOECJpdYoDbWbLqKHbRCZSP/2ARbkuDuvSmFTfeNQp5eQZ3ur+5Viv2dnimV71sHY8/oDkGzRwblihh7UyCkswxtEeg732O5avEOblB+AmMZ5ef/XF6WsaP54V9ZGicyY8v9m4eQZ3gpOioNGoz9UV4XtFGSIc5J0L4rVn4pT9cj/kT5Gx6vH+6wJUA1zusoq;Og0uFt6f5DCE+uwcnezwnA=="
+secured: "lUYWxid05ILk4VDaDgfuACOlgcs4D4iLcEAuz1L2JEqrW4bq1/++FVmlRqE6IL+kxgIG4g4Lh2JTCJA+RKlgEPUGtEupaaGmCOE76os/qtx9fO17BRQRjoV/ccbXvdW4ZMvNiUNqjLxuxWVXvDHJaASPc8AjmtDSP3Eza2EAuhX07GWO2a1ygGPAB/cz59rH4W6sfIOy224Xfw+xX5iN+AsciQ4xK38FAsDib91YhSRtCbbzT9x+hJz/NWLneoRZyvDA7EPekMWkIf0DfNS4fp/JaEtqryLuiGFR/XCDleme6ZniBp884nFBulqhLr4L;21v+ZF1efRnBagQXGLjR9A=="
 ---
 

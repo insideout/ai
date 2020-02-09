@@ -8,7 +8,7 @@ ampWebUrl: "https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voi
 cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,23 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "WBG6oKyDgV3a+klLpRPM4Sdu/aDoodVZQ0xi2WvKLB6DzeIukrRZhMi4MflfZFb/R2Cc2n4gGXgjXkrwEVw1QzQyQsz+oRP+/buDaj2sd/xHJhswGmhhtgoxa0RpCfnB9wwnrzPPjTyWNth4onyapL6vTbnQ/AqBf8fKI0F17u/gO+ZJE762HHyuQR30skYppeI2Yy2pesOOHxrgnnUJocKHpmVJbSuhASk4ToOHMI1SR3Fn3em80KUAsMCEmXy3XpkiVex3EQZQJ+IAqFeB5qyRzDJpAicMBFo26FWw3dbyoEmpqMf/8uRAanamqdZI;7jkg1Qhbx2W79uEXrtHONQ=="
+related:
+  - title: "What is Voice Recognition"
+    excerpt: "Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills ..."
+    publishedDateTime: 2020-01-11T11:41:00Z
+    webUrl: "https://www.thewindowsclub.com/voice-recognition-technology"
+    ampWebUrl: "https://www.thewindowsclub.com/voice-recognition-technology/amp"
+    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 44
+    images:
+      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png"
+        width: 600
+        height: 271
+
+secured: "7MWaKdzfULffKuF5+/IuQ0xw4OMPbWb9DbWi/ztr4GFV6XeIhip0AWwTNFEfffovA/b6HHOdX1iHUNycpBWSDIerjYGTlJo2CUAayLtZK1X9e1aa1hP6CPCcqSSTd1rpQ77YJdEoCqVmG2dK/wa2+CQTI41qrmQRTZXSNFnQI0jN5N5qcqR4XV6QfdZW5t0deGUmPGsO9lgykqq9BS91nCFV7NC08TTsC8uymUG4/LmE8f0SPBJL2MD6mn5SvwYgTVORo1h6peKcE18iucuKCOABm9vCR5ZQnVPZZLT1uDB0mK6et6cHeVMLsmn6PVjY;vA12TsyH9G1y7ahtpYdeTg=="
 ---
 

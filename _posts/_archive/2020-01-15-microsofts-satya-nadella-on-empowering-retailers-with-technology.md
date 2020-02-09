@@ -23,6 +23,6 @@ images:
     height: 3860
     title: "Microsoft’s Satya Nadella on Empowering Retailers With Technology"
 
-secured: "URaxMrcWlh6rvFCPK9bhGk++9MTGCJ9Xe5CwK2p597rfKd0rouGyBUZRKr8hpbiST5QvAd0YZTZod4Mjt3b5gR+EYVtasr5sX7zkSWnZIgvltdvKct19zIhiLnPyE/l/9tyDzdmJAIbG4YpYt4tS2gtuKgkYVHJwgopNQ86Z20MB+ehA4/yBXU+dcYFZPnIvyzQ8w8B8KgnVxBdlkgA4TIoyE3F696iMZek2suj1SdlACwov1tN0dgmim73QIS4TBQBWMVZTvp+cUnb38B5MASS0si9rrPr8/iHW+9nZCwB4aYo6tUR7XDrhP6z0QRhM;JwDPw/AbC/0RDsh7CsZupQ=="
+secured: "stPci/1vnQFs0Y5axhxh0XPHKc/ywww/IFx1VFTt3A1yr7i3buEkoZ0aFyvgkfpO9P/64uWWwq7lfUCRHMS8OTBEs/91x3FVRBJNbF1sJVgWs5jqm1DVnVCwNNdS0ypgkvm0yaJzfGLL4S0VDrMVMbpFY61/6kvbv4IozZFKk8cm9ZVPedMbzycQn656fXYj50CKX+h5RWClCIqU3I5ndxe0lxh37Doe8jlxqxIGLHKHITPZcpToHDanrIsgXuSN9j8FEYK9Fj6L95ITbW6uPOsBfU9M6wzlEmT9vUal+GJORq+VlkZXjGXkFjpyb8TY;x98V+Ni/PViDrS35DcO2ZA=="
 ---
 

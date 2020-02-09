@@ -24,9 +24,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2016/06/12/ffe20b09-169b-4947-99b6-1441d403581d/thumbnail/1200x675/841f911a4f69b0820b1c609e3d6b1d4a/51rilp0-t8l-sy300.jpg"
-    width: 1200
-    height: 675
+  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/20/8a43aa65-ab15-4748-ae46-fd15a2c75df8/googlesundarpichaicbs.jpg"
+    width: 1101
+    height: 828
     title: "Google CEO Sundar Pichai: This is why AI must be regulated"
 
 related:
@@ -72,6 +72,6 @@ related:
         width: 1000
         height: 652
 
-secured: "egHIaJzsh/oW/XxAsRPvvSYsX1tvWUvVJFgy+hPxKtCAMuCfynxIQT18rvuEGM+lp6TA6mtk4ZA9pg1VHMxtSJ4MhZNMEqtb0A18BM3fv5fzV0T3PjNaFGjdP1IFzUQ+QdDgYFqHFqFIOt/slQmhbTgRK7ApiKuKEEkXEC7i1Seq8P1/uQCik+yjcO7fzbxsjkbnhBSyA9bj/XMsig92pBn1GLqmz82VC+/RVBnDJrN71SoHgeKWPrQgZwW4dPIkT7oKDTd+iw7aHeZjTD0sm1xNH3qxULylAf6ywUnrczM61sQ3ceXNldJoK6TUIaEa;MX84OKFTdhdUwcNuawDXxA=="
+secured: "oOiDJKK5RSf/bvPs6K45nlKY6LCLwnmToKg4Zvc+ebJWrwj2v6xqqBFYnAnoO/YbzxyUzKJenutJzfgG7FoYFq/z5ArJH1j+lNGfWIsDS2r3N67JeGkRkAPntt1VV11kUb5Bm6Da4+H842fPr1B00sSpzZFJq5mhIYAAPKH5RJ5YgV9Xpm8FLF0FCzm5f8W4xI8o689A4iefslnLpdFkzuVsyf0BVe7evWSpB+7nNb1LzN8jhqGEKP6LPRSgvKiyjtxJx28wy7Mbc9JZbyCc63kHxOYNk7vdm9HiieUmiwrP+v5pK6ndILXEcWDwJ+3P;ZvISNx9kN5EyVG4QoR44IQ=="
 ---
 

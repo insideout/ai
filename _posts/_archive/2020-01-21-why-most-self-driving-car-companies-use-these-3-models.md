@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
         width: 1200
         height: 630
-  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious"
-    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps."
-    publishedDateTime: 2020-01-25T14:44:00Z
-    webUrl: "https://www.businessinsider.com/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "Test shows promise of self-driving cars for transit"
     excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
     publishedDateTime: 2020-01-25T19:00:00Z
@@ -81,6 +68,6 @@ related:
         width: 620
         height: 330
 
-secured: "T3DtTlYoOyIQ8C+QKcq+DShkB/+aWvI2IuxRxs/wBDk4kzHQ/I66rOh/wXZHdrCC9XkPeAb+faa4XUekMkDU/e8XzMQni1rgWY7I2+M0jc/MgUk/u4Vq54g8luHd9vlOkud9cKalug623ZC7ykba2TBbd8Eho1rkEw6eGUwup+CtiV5QXDTfXcvAQzWCG9uGliXb9ivypnBXUkKPvoEb6vFiV50THuiiMV7hw438XmUS/iizxM3wQ/ni87x30/D6yVku0c/m1lgp/lY8xomHs2gZ0DfM+qlvWrs980GiEda0bX9Ye6EuUlJT1t73XTF9;4/BrrhVbBa8UmZe4m0SBjQ=="
+secured: "Zy+t71xrDYpcFwoLx0/CTXAhOL7he3hrI7dLxIXm6ZPq7AF5pg+KzwGhyDHA3vKnJhNL4KY8Dyx3M3BG41vbOAX8JH0OZXEKBY2eA/zRl1Kbj0f1R50dMBqh/crtehJFmtO5FCCDesxr5ZRR+Ju/BuiJET6foGkTnxRKy0rJLCyUJTpB8PS+5w05LNWYsfAEEVHSH80bn6N+vd1kpnBWkF4ar4LY1DHsINXV/l1AHAkaFFkk3zh7NVYzds5k1Eu4Cqz2jy5D9rgWEC0T0gd2+nCRfmazKrsGETQVXQ/fzUy37PFHy9KqH1iuD/B7C8dB;aA7mNCU0oDedtPeg4sm9Lg=="
 ---
 

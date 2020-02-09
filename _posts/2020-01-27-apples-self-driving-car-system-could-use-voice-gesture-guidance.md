@@ -45,19 +45,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
         width: 1200
         height: 630
-  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious"
-    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps."
-    publishedDateTime: 2020-01-25T14:44:00Z
-    webUrl: "https://www.businessinsider.com/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "Test shows promise of self-driving cars for transit"
     excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
     publishedDateTime: 2020-01-25T19:00:00Z

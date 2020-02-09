@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T09:52:00Z
 webUrl: "https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ topics:
   - AI
   - AI in Autos
 
-secured: "fzjQP1e/uOOF3bFdcW3PiPdtsR8YBhT0w/Z+eDobCfld4Y6F1SRuhp3l7EzdlLWfvBhlE2TFWwZrJaD/SUX1tAjmZRcYzL2x3hN/RGBkaDEoJaPu0CiaYvfWTLg5+8qgaUvvXRPlbMFRw4kCkJNbsDnfp2S8lI5rNXIfZC/bYkzkAd8JI5EE1L4gA6swXbX0eNvMq6mcBITEfTVEo49wJsjY3O9R41gOXzMBHy5kGMkUJ8nf4XcWg32PF2xEXooyJQBCCWm+9ciHaPV+7XptIJq8mvcGAoaHSAnwS8R0uFgeMEj/I91grrDBM0L+MZWk;x0/Bvfr7tuCBMVf0uABrfA=="
+related:
+  - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
+    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements ..."
+    publishedDateTime: 2020-01-22T11:00:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/37810/automotive-artificial-intelligence-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 12
+
+secured: "3NI5W4g/8FueGupLQhTIJ8qlXAJ+HDbzA5dWP1Fp54yq1WYYGsyuQ3EHl3Yag0SqTseeFZmeqygfdNqwG+EDe++zUZDuFjYrm+tq0v61G4JvfhXrsmSoLpnubNP4qmtxUreQS7oTgGfgmlS7bcg3I//f5NcM5e7WHbi56Dv1zdR5E1kU9j/J5gqnhO2+FIX/LgPKnfixulmOCXsUaPiFKUCkxPmpPhoi/O58CJDB6kNMK+ee7KEhFH1sHgDIMuLfSNwa9eGfmSEBs6GWUzO82QPEHg3u0RJmH4KgfkFeeaw0bphU5tmSwpGeOPOYJV9u;o2YsRr34ySErMhQeGW/yGg=="
 ---
 

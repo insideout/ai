@@ -250,21 +250,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Uber prepares to test its self-driving cars in Washington, DC"
-    excerpt: "Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC. Three mapping vehicles equipped with cameras and sensors will spend a few weeks driving around the city and collecting data. High-definition maps are considered ..."
-    publishedDateTime: 2020-01-25T14:34:00Z
-    webUrl: "https://www.wktv.com/content/news/567294012.html"
-    ampWebUrl: "http://www.wktv.com/templates/AMP?contentID=567294012"
-    cdnAmpWebUrl: "https://www-wktv-com.cdn.ampproject.org/c/www.wktv.com/templates/AMP?contentID=567294012"
-    type: article
-    provider:
-      name: WKTV
-      domain: wktv.com
-    quality: 44
-    images:
-      - url: "http://media.heartlandtv.com/designimages/WKTV-StoryDefault-640x380.jpg"
-        width: 640
-        height: 380
   - title: "UPS testing self-driving minivans in Arizona"
     excerpt: "ARIZONA (WSYR-TV) — UPS will start testing out self-driving minivans in the Phoenix area in the coming weeks. The tests will involve Chrysler minivans delivering packages from UPS stores to a sorting facility in Tempe, Arizona. Deliveries to customers’ doorsteps are not in the cards for now and during those tests, a driver will be on board ..."
     publishedDateTime: 2020-01-30T17:37:00Z

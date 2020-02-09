@@ -38,6 +38,19 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F0A1/production/_110810616_p082lg33.jpg"
         width: 1024
         height: 576
+  - title: "Smart cities: How artificial intelligence could change London"
+    excerpt: "Computers are scanning London's roads, with a 98% accuracy rate in identifying vehicles and people. And they are are learning all the time. The new system can run 24/7 and is part of the \"smart city\" revolution. Using data from the scanners, planners can change streets and target investment."
+    publishedDateTime: 2020-02-09T07:56:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-england-london-51415491/smart-cities-how-artificial-intelligence-could-change-london"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F0A1/production/_110810616_p082lg33.jpg"
+        width: 1024
+        height: 576
 
 secured: "KqxdbM3nfedpyee+KgOOuZ1lLiNShUbq1cQWlO5dXmv79b057ylt4fyuIZ6tUv6F20xHCCL7JWOkZ6Bafybukn0YELktBryO9Vjiid/R1BvO58V3hFfGgb5yZx942Oautac0VuMa1OYN6fsIAKzm1u8NQLfOxfKl8/geV5gJeMbtOButZU932MTfrZsRQzRumwT+0WQtCU3xjAzbX+5MsWZD5VofMR+qH8QO2kxSeUj5ozwGjX4gwq/20pLbJ75YqwDOMlo9y9Dsqr8AUkrmJvyRRpzy6FCeWbn2rGRgG45z759/3uO8CgBuC0oowen4;oieYYpegMXa9ibjGxmhlLw=="
 ---

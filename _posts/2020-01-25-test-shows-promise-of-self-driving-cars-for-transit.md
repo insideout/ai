@@ -54,19 +54,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
         width: 1200
         height: 630
-  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious"
-    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps."
-    publishedDateTime: 2020-01-25T14:44:00Z
-    webUrl: "https://www.businessinsider.com/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "The road ahead for AV in the age of self-driving cars"
     excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
     publishedDateTime: 2020-01-28T10:25:00Z

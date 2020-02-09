@@ -38,9 +38,9 @@ related:
       domain: zdnet.com
     quality: 89
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2016/06/12/ffe20b09-169b-4947-99b6-1441d403581d/thumbnail/1200x675/841f911a4f69b0820b1c609e3d6b1d4a/51rilp0-t8l-sy300.jpg"
-        width: 1200
-        height: 675
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/20/8a43aa65-ab15-4748-ae46-fd15a2c75df8/googlesundarpichaicbs.jpg"
+        width: 1101
+        height: 828
   - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:57:00Z
@@ -68,6 +68,6 @@ related:
       domain: bloomberg.com
     quality: 69
 
-secured: "GGeF3Alq/ZY/m2MigA1QVpEzylXGSrsHYlHruiYmBjVGsn26J3JrY8lG1hwClAXzF8MbJLHqaRH3jUeKQD4IOO9VagaZe4KV+WsZAodX/WYgl4h/Ovu/qWvod1uVKrJryHP4CMAbjsbZLPl8YXZKGjpAqr4XdVeBcslOs+G8aMhPklBIuBbeg3abtYjhNha58E0Cm4d6a9SPPEaKk9AlxevHw/cSokeCCfEoW4DypDtFJDOJEoVF9TbVpR79JbCcdw03GOKJGfiJ8tMPiICQM1sRUNPJpJET7qt7GwbqCqqce5HD1gPdbrz8lOTiW8U3;Aik27zHTAy5+syeAj+UIog=="
+secured: "D9NoqoutKZ4iPEO2f4k1teesw+69Tn5Gh20WxHR8zVBUaT5NEC5OChwTR8fF7t7KVyDJ/BbcEJSNJWCOeM+14ApAxukSfsgbsfJ+Hdg2EgjJDRrWcJSF7ru0/x7mHuQeY6N8oaALH0G2ZmNe9hlGQ5Km9gPlGEF2da7CLtc3Jxn7Is7jwMafGfRH4Ns455lSZSqJsY/e258E3eK7Sg2mpSIxjL/HM2c8RJPMbBQleP2cOz2WWBHWISIQoaqBu9fA2LDQ06/5lUhTM6LrLMD4K4Z4317+F+948LOaJSO2evUPPW0wT+fRaUg00eg01ein;gFps4yO9Oc3/D/rEy9EZqA=="
 ---
 

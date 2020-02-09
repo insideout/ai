@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for
 ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/"
 type: article
-quality: 93
-heat: 103
+quality: 97
+heat: 107
 published: true
 
 provider:
@@ -24,6 +24,8 @@ topics:
   - AI in Autos
   - AI Ethics
   - Microsoft AI
+  - Facebook AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1144319087%2F0x0.jpg"
@@ -46,6 +48,6 @@ related:
         width: 1305
         height: 870
 
-secured: "l8vqq1w40aWLoBp0hv87/vFXO5pOv6n29IK5bl93pNMzfBUfVz+kEgL4PCX1BHTVZY8FlOJq90Lov7d1U9usp8xeK6ExE+k3ibWXOakr5K32lt2sd1Q/2XSzIBanSMHpg6DHlvz0+JUYvEUMJSSsWUJxwRfTrB4frh9dyaqsLSwEY9Mpz0HrX0A3IHBYx7l1S6Qu42gc8nwoqvMVkrqSXe1iDCjHODqygKzd9wWTS54wy8Vrue5Vg3TWL1BovT1RPxCajDcOW8X5vw2YcfETh+XI3BXa4xj78h1lHVu1aI/c6DXc2AGui5bws5RIb9pm;8gsgCMTbpzcYARXW215JvQ=="
+secured: "p0H22Sg3CZ+KZQKQ8So+V9BGTYvF3Hq+QMsQWwOzsC676NnJCe10C02AbnBUs87DM0DC/BKO3j+EYS4YS2Nq2Q+Ba9hEjJhZnlgcG4dkCfVCbRE69AGZWAmGexw/Y/5UAg54R9XInTRbehzD/lYSpr5it8NlSY7pY/tJnIQDft3g1n3nb9JZITw8yTeVpItCDVH7b/3uIYgPwavJ5/XhIbIvkkISyI5sfYgyX0ERwODAfRBSn0d+T6sm6t4VvaMJQXeJdhtB/3jL/oPKRaBwn/8u5Qs2RnPg0zuX5htesxKn1bPEKbC2xoGj7fjUInGpmSOMJDtDcPiiIXBPQaufxhBgOgiGac3Z8n1HuX7vXJGL+Dh6AHpcaNLvuQit8Wi6SwMZe+3Ejcts2VEqCoWKAQzDkc7SAJxOf/ZdQdF1PLoTQ1N4FjzTJCB/EgEb6boTA7mBy2OJjl2DF1yM1Ey+9tYdfRYnm6nfPvo5XTpvYmg=;DoeS6YMn8870H9ptqXFEMA=="
 ---
 

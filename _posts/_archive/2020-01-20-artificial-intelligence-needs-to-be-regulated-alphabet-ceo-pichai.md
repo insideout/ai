@@ -38,9 +38,9 @@ related:
       domain: zdnet.com
     quality: 89
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2016/06/12/ffe20b09-169b-4947-99b6-1441d403581d/thumbnail/1200x675/841f911a4f69b0820b1c609e3d6b1d4a/51rilp0-t8l-sy300.jpg"
-        width: 1200
-        height: 675
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/20/8a43aa65-ab15-4748-ae46-fd15a2c75df8/googlesundarpichaicbs.jpg"
+        width: 1101
+        height: 828
   - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:18:00Z
@@ -68,6 +68,6 @@ related:
         width: 1000
         height: 652
 
-secured: "k78J1ujUSn5ScHs1Mvp0/mkKSWFm0DkIJMcFo2G8W7InbqEG7FJjjZfvfzA5tUFSRcpMdMvCXB9DcJCsoVYt3ouUZGZQaqQhxirsriLBPbVQXv508GxCLJQ/FacUIIIteG5Gj9RS1gLiZ4Myat1wgxAQhdvLrFU/sfQjOBS+cpYlC18GCTD0xj5oKNUpfKmGmzI487P2ynN7e1+nTNpn3R4XzWGVaq0ULGSBgsBmD5a7ElVxaYNy3xdcyCejGKas76VQ0q+P3fhWxLuDN+5PPFtffImN65R0g7tUgV7n51PaZ8F+j9dAqYi5RFb7CQto;ZzfLrw05rSuY+mHbVcN7Rw=="
+secured: "ZBCgnBLstlUvMpPyLae94hHoRZHv4BG/v6EqYodzganHJtWqAYi0gTXHyQrQdtNN48Bel16hqDSSQn4qhjynBgvQmec41r4Nd2S9mKo4eskWUm6K/ERkVMISSpzq4JyP+fEhXaTKDGO/9DEj2qh0G0eXXmjYbUE3732UfJjnbvQ+w9PMyEvk5mJKjiP/Tk+FIfrDQvL9DWD1ckwzZEQo6VTjT7GcA7C2Xg0bkPNID6fngAlvWHswHtizIahjJN3fAH9/sGHxKT/cF1YvCI83UNFe0iqPREJ/qd5kfpzVoAFIZyL3Sg1a5uxzwePNx8UE;bYXENE62WpTDULmq/mZdFg=="
 ---
 
