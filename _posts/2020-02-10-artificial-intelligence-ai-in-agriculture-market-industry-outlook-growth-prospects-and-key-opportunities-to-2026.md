@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Artificial Intelligence in Healthcare Market 2020| Global Analysis, Opportunities And Forecast To 2026"
-excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
-publishedDateTime: 2020-02-06T09:54:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06"
+title: "Artificial Intelligence (AI) in Agriculture Market : Industry Outlook, Growth Prospects And Key Opportunities To 2026"
+excerpt: "A new market research report by Big Market Research on Artificial Intelligence (AI) in Agriculture market reveals that the market is estimated to grow with a substantial growth rate from 2019-2026. This report is a valuable document for major players and the new entrants to scrutinize the market in detail."
+publishedDateTime: 2020-02-10T04:03:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-industry-outlook-growth-prospects-and-key-opportunities-to-2026-2020-02-10"
 type: article
-quality: 70
-heat: 300
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -19,16 +19,27 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
-  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
-    title: "Artificial Intelligence in Healthcare Market 2020| Global Analysis, Opportunities And Forecast To 2026"
+    title: "Artificial Intelligence (AI) in Agriculture Market : Industry Outlook, Growth Prospects And Key Opportunities To 2026"
 
 related:
+  - title: "Artificial Intelligence in Healthcare Market 2020| Global Analysis, Opportunities And Forecast To 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N."
+    publishedDateTime: 2020-02-06T09:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-02-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "AI In Fintech Market Size, Status and Global Outlook 2020 to 2026"
     excerpt: "Global AI In Fintech Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries, Product types and end industries."
     publishedDateTime: 2020-02-04T10:28:00Z
@@ -85,19 +96,6 @@ related:
     excerpt: "Ameco Research announced the latest market research report on \"Global Natural language processing (NLP) Market: Global Industry Size, Share, Trends and Forecast, 2020-2027″. In a latest study on the Global Natural language processing (NLP) Market,"
     publishedDateTime: 2020-02-05T08:59:00Z
     webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-with-flourish-cagr-in-forecast-period-2020-to-2027-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Agriculture Market : Industry Outlook, Growth Prospects And Key Opportunities To 2026"
-    excerpt: "A new market research report by Big Market Research on Artificial Intelligence (AI) in Agriculture market reveals that the market is estimated to grow with a substantial growth rate from 2019-2026. This report is a valuable document for major players and the new entrants to scrutinize the market in detail."
-    publishedDateTime: 2020-02-10T04:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-industry-outlook-growth-prospects-and-key-opportunities-to-2026-2020-02-10"
     type: article
     provider:
       name: MarketWatch
@@ -305,6 +303,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "5kTCHGct4dfTQVCLplG4xXFXCro5iv1DZOJ2HNfEPEPye0LVZ0rt7e/Cv91ZQ1fAaKxUxF6LA0cXUxw7/7+SgxdspNK0nvWW6hD5Ar7LiTL94BSUxW32bM2s6UUa5YHVE4B4Sc1RTkXqRCizFx41uGWeJua1XwqKb50ohOZXBpATP/29ULjf0qu3Ivw0zO4FyOlv6OPbwSGeYN34zZUHohqChVBF94VhcHePb2uHtH88D+i456Czo4BbffTLbyGF5Vz8jJ1WbOlvTzTI++zYD+cYq5ZaAAX6GzR+Mz8GxBnO1+hLAhA3ZRQcsj5wK592;5KAnavonLhLuCY1YXKDroQ=="
+secured: "0h3cUm3TNB4swK8BBaXB8gfrxJKG4bMZpNRDq0cj/XfIoZ+iJBwHXmIOpOqqkO80/XJ6Odro/vx3yj7VPrWVQhTNCKvh4x0xY98IdPEMYiIKvabbwMFxF6DqmHewSG5ccDpoxSBSuajUl/N/hcLH04QSxwtNiwvMuLGDofKae/RmwlhgJnL87HBvZr+o/P4MmbHxZXn+O22ub33zgOFYXsjaCMotl6DFXVJPCzNAVfX14jUevYmJZEM7a+1TA3ThHkLEYCGP986BiGohpHCeeEtzTQZOctwlL7B33S9tP9rl9KyhpHh24qRQ6rR7ENRE;HwbFd5+q4DA1RlXZFalznQ=="
 ---
 

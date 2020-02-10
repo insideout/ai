@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-29T13:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/case-study-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-2025-2020-01-29"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: MarketWatch
@@ -28,21 +28,6 @@ images:
     title: "Case Study: Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2020-2025"
 
 related:
-  - title: "MoHAP showcases bundle of future, innovative and artificial intelligence-base healthcare services and solutions at Arab Health 2020"
-    excerpt: "The ministry will showcase innovative projects based on next-generation technologies including; the Fourth Industrial Revolution, Artificial Intelligence (AI), Virtual Reality (VR) and Blockchain. It will also focus on preventive healthcare and round-the-clock smart services with no human intervention. This will be the widest participation ever ..."
-    publishedDateTime: 2020-01-26T12:22:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/MoHAP_showcases_bundle_of_future_innovative_and_artificial_intelligencebase_healthcare_services_and_solutions_at_Arab_Health_2020-ZAWYA20200126120415/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200126120415/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200126120415/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 44
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
   - title: "Artificial Intelligence in Life Sciences Market to Flourish With An Impressive CAGR BY 2020-2025 : IBM Corporation, NuMedii Inc"
     excerpt: "Artificial Intelligence in Life Sciences Market Report has newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques."
     publishedDateTime: 2020-02-04T06:20:00Z

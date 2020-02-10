@@ -56,6 +56,21 @@ related:
       - url: "https://www.thestatesman.com/wp-content/uploads/2020/02/QT-facebook.jpg"
         width: 1200
         height: 800
+  - title: "Facebook buys start-up that uses AI vision to find location"
+    excerpt: "London-based Scape Technologies’ cloud-based ‘Visual Positioning Service’ translates images into 3D maps that deliver a precise outdoor location across entire cities Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal ..."
+    publishedDateTime: 2020-02-10T05:28:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/internet/facebook-buys-start-up-that-uses-ai-vision-to-find-location/article30780730.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/internet/facebook-buys-start-up-that-uses-ai-vision-to-find-location/article30780730.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/internet/facebook-buys-start-up-that-uses-ai-vision-to-find-location/article30780730.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/internet/4duh9o/article30780729.ece/ALTERNATES/LANDSCAPE_615/10NETFACEBOOKSTART-UP"
+        width: 615
+        height: 384
   - title: "Facebook acquires computer vision startup Scape Technologies"
     excerpt: "Facebook Inc. reportedly has acquired London computer vision startup Scape Technologies Ltd. in an apparent move to build out its augmented reality capabilities. The price of the deal was not disclosed, but TechCrunch reported that it could have been about $40 million. Founded in 2016, Scape has built a localization engine that is designed ..."
     publishedDateTime: 2020-02-10T02:28:00Z

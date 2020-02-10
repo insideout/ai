@@ -47,6 +47,6 @@ related:
       domain: telecompaper.com
     quality: 14
 
-secured: "YRccXnCBPWCgj9pXQAjQuwzVtPFUNZmGqI+VKPBjMOHPqkuL37GuVmbIDIfXzIiarfBYuCTj3WNZkihUbGuv0EpF2w5EzXdB4l+HXf26q5sKdPpJCoXLzg5qJrpPnMAssGRuWU9cj4+Hw/gCoYEfEoZLT8STbxxhrvvl0Tzra9PcGuyAmN9/8hVS6RIbL5BLLhVGtv66UDzlCOQ07Aneq4MS9xHfxV/BAoKLHVhK+1y+RmQZ+XxtOavKTd53CnRk7zXyYb9mHsQsKudfnzVMoOdxQ18v9pqSgpGlmfGOcBpR6EpKIaMEH/WcuVrV5nFr;sruMAWNpAhZs9f1JFGKExw=="
+secured: "YTcJ4Qb6hD7gZgr5euclYKlaMEgPAAKNkRko3UPj6gjqHPNKhPW+oq3Tdy8ng7fPdtg4yBXtKIyJfnXv66DsKHPuW/OymdftsVkwW/dM3ymeEniOl5UDblgS/fId8Qa9fhI29lwXbV5Akxi/ELaXEA0m6l6IlFbd2cfo40qiGqB0NJT+Pik509ELtGSz/DqlU00wqw8AesVHWDV+osyOXunIvInGE166QFsnyCJ8Srh13XFaEK9PwvNIV2Z6gyiAcfBZSQoRv+tesSIhDVLM2c8gEKDIdNuhrfa2mhw+BSS1+gryOa+2OoYfAS5bSkdr;ZxmuRWoBlzrqohmAwaOo+Q=="
 ---
 

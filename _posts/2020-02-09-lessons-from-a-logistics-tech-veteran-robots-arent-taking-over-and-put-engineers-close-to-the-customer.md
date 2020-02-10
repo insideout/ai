@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 387
     title: "Lessons from a logistics tech veteran: Robots aren’t taking over and put engineers close to the customer"
 
-secured: "tGsscvlHV2S+Ac7pqRAonmwS0WF7gCmC3c6h6ZbPpvjTcnBIqcRVR6NtkNUdusntsFfFlU2uALuWsWDG+I+7snakPdRYIR/aoBNRr1c7fbZO0odxjSa0gbO3bd92gx+eT6tsPVxunQ3lEzzwwUAnMK2Eo8dJ31eg4jzekV4GA9MmWkSSXGq0dTdG03kqCMR50+VKmMgB/s9SWb/6B59F2s0bcdM6c8+f3Ke2/L1i6zMWxMw4E+NEZ5kDkUJJCLP8l6M9JgbgV5GMvm5Wuau4gsrBDbGovWi5Bo451pvYrddYidx/PUizgUsPzuvCLOiJcLYS2ZaFovbNmzLNS16KYtCdO/Jru+eVDWkh8hkiIuS8b3zyTvU1TElWTnqbSAsPg8Go/85KoRSZKyBHzhOdTvbuZl0ZovTXHGcn7IIjL84SSIOAjtdnjz6phx8pf3ZrjGM+pb14bvd97C70kAVh0yOy236CcgA3sPGL3/2/uyk=;/XXjKW/bx9N9WQOqMtY+Qw=="
+secured: "hay8+2MTLUIhFGtLMOx2rwBVp0Wuyxjl0gsgd7cr3S6bmHl3LDn5PG3eRxMsCWVO+0fxLiN8rkTtBujSCbnsfZdilmOUV38dU9YXdcIVhS8+JZu4+73BR0UvFJwr52HNOLuZb4EpCP8hqs6CtdmBrSr5Qm/71kdzyESoczz2FRs1Efxm9cfJt0+pAADr1NkZL354OPSip+TjX/wMaPHGHecpxLqcGZnx0J19xH/UWpQBwMoux40wzYzYlsx9QEDM55mQ+IvmjQ5X1XV70CisTdIOAMROJxGSXwl7bei+wfV30bCTL01sA+eQ3zL5fl/Wk9GbwJbuDovMAS19CKQZs5esNqFMFbKxy7nym/FkOICh55ZVRKdQJZlkRWg+8mo/EgvugKDJdsFBez6tI4wXGMrwteFME0jPA3OuWtRltQLwP+CSWeVT4b/k+cCITvJ9MsVvOWlZtmU+vCQWf2Q3Djk/gv1LBZaUdjZhvRyuiyQ=;Z+8WkZXDmaf+5n/7r3RM6Q=="
 ---
 

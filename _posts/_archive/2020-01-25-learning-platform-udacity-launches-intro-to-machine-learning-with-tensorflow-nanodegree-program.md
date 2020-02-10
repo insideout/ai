@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Learning Platform Udacity launches Intro to Machine Learning with TensorFlow Nanodegree program"
-excerpt: "Learning platform Udacity has launched a new Nanodegree program : Intro to Machine Learning with TensorFlow. The Nanodegree program incorporates advanced areas such as manipulating data, supervised & unsupervised learning, along with deep learning."
+excerpt: "Learning platform Udacity has launched a new Nanodegree program : Intro to Machine Learning with TensorFlow. The Nanodegree program incorporates advanced areas such as manipulating data, supervised & unsupervised learning, along with deep learning. Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ML ..."
 publishedDateTime: 2020-01-25T04:45:00Z
 webUrl: "https://techstory.in/learning-platform-udacity-launches-intro-to-machine-learning-with-tensorflow-nanodegree-program-2020/"
 type: article
@@ -40,7 +40,7 @@ related:
         width: 800
         height: 448
   - title: "Udacity launches new course called Intro to Machine Learning with TensorFlow"
-    excerpt: "The Udacity course, Intro to Machine Learning with TensorFlow, includes areas like manipulating data, supervised and unsupervised learning, and deep learning Udacity announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow."
+    excerpt: "The Udacity course, Intro to Machine Learning with TensorFlow, includes areas like manipulating data, supervised and unsupervised learning, and deep learning Udacity announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow. The next-generation program in machine learning (ML) introduces learners to the ..."
     publishedDateTime: 2020-01-24T11:44:00Z
     webUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/"
     ampWebUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
@@ -51,6 +51,6 @@ related:
       domain: dqindia.com
     quality: 36
 
-secured: "VPXz2lE9+0mxPEWMG8YoqAIDZebrx3/Bd/qo5HMM5ozQkGWywVOzjSI4rtT11K50sQjCwiAsuc/awcEyRro6wXtBE/D/6IRRxjzBeYxTHGe3GoI8mlOWKCq3op1ty25OPopcDY6J+4xbPHbOsfcr09Nqx4IOrA9WYnfrVWH5oUeBaneYw6tevn0pkmBbw3hR5oH3usDSD0Sr4tPlYkpW/MXWEqK/2bFVmjMK1BKggXUCjqhkSQWzQXoFsaQrN9tZNh3QsQ06f03S4Itd1Io8wTIIfMJVT5l/bR5cxYmeRwPmZbYalJq7xIfTViiYKrB+;MqUljCXHVLgNQQgvoK1v+Q=="
+secured: "QsMHLcdEBDQ00OfkPx5qFVEIIRyyqelTwuA1DHgzsx8Cg69J0ijK0k/2DHKIoZSmZGR8rp9zc63FPcYeOzxvoHF69WNRVQEXWWf8wXwyIpsS5DbgzRoReiqd72n01FVGTzEUuT/nohJQQFhgN73/5oXzCnOBY6VfTVspj0tUZEziG5LS5vKHgc7Qck2NOsp2VCs8EQmWos4JgN072AtBzNE9GPlQRL1vMh9EfijjKO0/a58QQ/ShcwsxpSCpbHhk9ymkZ16xpLKQMeqACkwY5PwQ2WtyG7WrlqpPqqfDuaFJmmbSTrQOu7K6arpyZLQ+;3/rIdlmB1ikKqvgqGfcPiQ=="
 ---
 

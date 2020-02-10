@@ -23,6 +23,6 @@ images:
     height: 2408
     title: "Self-Driving RC Cars With TensorFlow; Raspberry Pi Or MacBook Onboard"
 
-secured: "7gFBnChvBn8f/puUy+gmUzRohbjJf/eW8nN60XNAAOue6ohq5b3a9jCh5ai04Gx2WTKqbEKwD3ux0YobRbb3uWsMgm9a6JWQzTc+gG6S/inpE6bO3aNUEA0QyKQFjGCVnDcq6E9/iOAzXd9b0OcK3pkRJCKq3+MklSCg2CwugeP6bsKgt1Jbtq3inqilbJHAjuZktl60DSnK6rwpztV4OUmgvIRg9zPsw48GXBakK7r22f5lvrcX9dg5n+X7ajDhxbQXjNwnKTJZdo1ZIuaPhQMOOlScKcvCpHJRnOO5xuKXAYoqjKIgC8Etz8vYI+F/;qErBTRkVzhqAX9rdC/o1vA=="
+secured: "tJVc22mFNrWeCymh7ZwuRY9DwuGNygR/YHN3UBryulNiXfGxvBzQQsdjgST0KEvZ6Iiou1h9lovuEjWx1SGcDvI/WPNz+r58vCFB+1IkAaN+dhRvg+3st8RDrWWw3sMoe9B4UY4AWfrFp5gTN5RnsAD1KhT0h6ixo/GSt9v0dFUElm0hwDPXG1SP1t+eplD/7ihdy5lcnUv5qfayVElH95PK8xGJ85B8LEHrolBLl1BTCvVryu2StjLG8ey4hz2GoK3EMRHNJ3dTXQcNh+2yRtMaqh4VB0N6Hnggr3lY/dx9FIQqrR6g8JkbaZ/IczUI;0MWKSijXB19IBxeUgC74hw=="
 ---
 

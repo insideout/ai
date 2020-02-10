@@ -23,6 +23,6 @@ images:
     height: 853
     title: "Why there will be no ‘winner takes all’ in the cloud in 2020"
 
-secured: "/PkVN+t0iFgNvvpeGbqtHDODk6jWZiEq2vryi3hRISWUKqkH/6GYtsOosvKdGzsZsEUCA69VbhBiPOJjRTXMdnRoPOlznYd54wc6qC63GICf6SwoDRrhvbGWmDxFZ8nPrxpVrAbK8dumIxQf13myLgOpVAOsk2hrglK3wRVpZq47ldiNYHkVHAPV0jRz0GJdGEitTGRvTowL9nDDaGvWWS1JxCnX5k2flXLlXbxsz5S3EiRBmH0upjAqPPboqKbSUlsEjb1WvBan+0RJ4Mp3WSQp7TUjWUyI0EQjZN7QzvhOpWHi//iYS1K5Dr6dKbeo;j4hl17/Q3sGHGYydztObig=="
+secured: "b3SzU7ZVZZZkHxudWgn3pqJg6W4Ryhz24K1ml4TzuXIvYoMFtylz+DmxQ0d+GKoSw2KTcdMe3hb4Lb/+KzaNh2UOaSjU7fK8JR9DJD/xXwfUO2K/u2o//zqF/0UIcN/+DxeWbgcVHBLSSXC+RflK8P0SGXYxdYIgCtKWaqRmpKVPbYPtmPF8Sm4c8JCMEI9kYTMwywVsEc8sdXA9pl3ELu5vFHdTMdhEZOIohHWo4aFXuddfexonPCOWno098/R/ehVBYlgKI1QXnVpZQhULl0jmlLMSB/cdfRw2CGH0Ytlkd3rxlEcOa++t0IfLbaqunD7NicrUi6cm6ckXDHdEQgj4NokyWsVH/ae2ycED8TqOhzyIhpgUJFomSQd/cx3GE3GvPsqfkWFH2QaQIE7yA+FoI9iQtd5rt7d5XVrM5EG4BPGly6iEbkO5Dq0XtiV3SzMRBGAq41EcwsKSum0BM6yd7TLyvcICSqAqWmPcXhg=;iAiE/UQvYdPBL3q19nGajw=="
 ---
 

@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Facebook buys Scape Technologies, start-up that uses AI vision to find location"
-excerpt: "Founded in 2017, Scape Technologies was developing a “Visual Positioning Service” based on computer vision which lets developers build apps that require location accuracy far beyond the capabilities of GPS alone."
-publishedDateTime: 2020-02-09T14:04:00Z
-webUrl: "https://www.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM.html"
-ampWebUrl: "https://m.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM_amp.html"
-cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM_amp.html"
+title: "Facebook buys start-up that uses AI vision to find location"
+excerpt: "London-based Scape Technologies’ cloud-based ‘Visual Positioning Service’ translates images into 3D maps that deliver a precise outdoor location across entire cities Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal ..."
+publishedDateTime: 2020-02-10T05:28:00Z
+webUrl: "https://www.thehindu.com/sci-tech/technology/internet/facebook-buys-start-up-that-uses-ai-vision-to-find-location/article30780730.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/internet/facebook-buys-start-up-that-uses-ai-vision-to-find-location/article30780730.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/internet/facebook-buys-start-up-that-uses-ai-vision-to-find-location/article30780730.ece/amp/"
 type: article
-quality: 35
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://www.thehindu.com/sci-tech/technology/internet/4duh9o/article30780729.ece/ALTERNATES/LANDSCAPE_615/10NETFACEBOOKSTART-UP"
+    width: 615
+    height: 384
+    title: "Facebook buys start-up that uses AI vision to find location"
 
 related:
   - title: "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook"
@@ -50,21 +56,6 @@ related:
       - url: "https://www.thestatesman.com/wp-content/uploads/2020/02/QT-facebook.jpg"
         width: 1200
         height: 800
-  - title: "Facebook buys start-up that uses AI vision to find location"
-    excerpt: "London-based Scape Technologies’ cloud-based ‘Visual Positioning Service’ translates images into 3D maps that deliver a precise outdoor location across entire cities Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal ..."
-    publishedDateTime: 2020-02-10T05:28:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/internet/facebook-buys-start-up-that-uses-ai-vision-to-find-location/article30780730.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/internet/facebook-buys-start-up-that-uses-ai-vision-to-find-location/article30780730.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/internet/facebook-buys-start-up-that-uses-ai-vision-to-find-location/article30780730.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/internet/4duh9o/article30780729.ece/ALTERNATES/LANDSCAPE_615/10NETFACEBOOKSTART-UP"
-        width: 615
-        height: 384
   - title: "Facebook Looks Beyond GPS, Ties With Startup That Uses AI Vision For Location"
     excerpt: "Facebook co-founder and CEO Mark Zuckerberg (File Photo). San Francisco: Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority ..."
     publishedDateTime: 2020-02-09T12:49:00Z
@@ -93,6 +84,17 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/scape.png"
         width: 1030
         height: 773
+  - title: "Facebook buys Scape Technologies, start-up that uses AI vision to find location"
+    excerpt: "Founded in 2017, Scape Technologies was developing a “Visual Positioning Service” based on computer vision which lets developers build apps that require location accuracy far beyond the capabilities of GPS alone."
+    publishedDateTime: 2020-02-09T14:04:00Z
+    webUrl: "https://www.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
   - title: "Facebook acquires computer vision firm Scape - report"
     excerpt: "Facebook (NASDAQ:FB) has acquired computer vision start-up Scape Technologies, TechCrunch reports. The deal for London-based Scape could be around $40M, according to the report, and it says filings indicate that Facebook has more than 75% of the company. They also indicate that VC representatives on Scape's board have been replaced by two ..."
     publishedDateTime: 2020-02-08T21:05:00Z
@@ -103,6 +105,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "KTYcNhbhGD2yeFgOkEkwhMbaMk/4q8i+I0wYt5sEO9/gerGHrZEFmT4VlKSup2D4ia73BO0t3pHGRQXoc7VlIsChykjtUoQorr73dXlX9JyHiiwqlN5vJDpTl4kuw66o8dUFkfIMChoctltFW8AOlH5ECCimN4cN9Th5KwXv1eybff6jbSIWOuPYNqOZhbjR0+juwi/SreaH3E7ymvBI2h0FX/1chpePQ7l81M8dIpSylcWS/sqaqKLTwoQ3Wnpyvybuuhd/rgvg63AAxBRLLNgQHzfBLmAszQZogjUI9+M6blE5re0nqZNrYK5skzuPsIyMgavoKRg4pQxps4AmaiZCbNCxZ+oZzCWUoQrq0qlB0KPskOcBgFOsCUxlCtuPjtdhY6G+LeshVq0wAuxYcLS97L2ozjldDLojyJdLOiXlFmCfZEL7whC443w+InvLLBwxPbG497siIDG89o1yMjL6q/d99RUh3rHwmTtwRf4=;yGw/0KrfuQiBXuuVWhnZUQ=="
+secured: "a3i3VpdIOB8fTJ7mmhQVjP3t1ktP2TuqF8oPE1Q2YsOOa3Fe9EnoYSxtXKzeqy23XlGWF/gUCk4bt4e0UsSXiopsnS4aN+w5IDuoBbQyKvlTmT/zA66wutmbJJFRXcn+F054GdiMD6+UrHQq/LbZy6mMOQjpVRVg+IiVq7+qGlrZeqtupaw7iP0HNnxvF6vi1A5XgRN76miwLzJKXUoJJDq2WyTA8AY18b9bOd/UWhgOFYrLQJIGyupVpJ0npLZ94a+Rg+uOCsId9K3HpAifvq3ZgKYUpYufZZeDd99QfQq56ISQzuuq8CM11MtvSxuw;dT8V1pjWk5GUyJ4ThpqgaA=="
 ---
 

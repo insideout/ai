@@ -23,6 +23,6 @@ images:
     height: 335
     title: "dotData Achieves AWS Machine Learning Competency Status"
 
-secured: "F9JaEONc6tVS8FX2+C8MHjLNKis2NTXgK/gzttm7q2h2dmLs/+DBsEL3huqoEgX9ouruQ8Boa/S29w4O++6PoRXNQ8yOookj8YNtW0vA5fzUSo+fqIu4JFgjMvOBkSTRqaNygnv1srG7orUu+tK3RJGLG4yaY/G1DmnW4sOQbq6mwU98S+aU1E8L4jroyn5brKJxffOJK0FlQdrmy3rDRS0xU/dqVvA/E9yax7bloLgqPJ1ifhMHydWkd+tCD10SiTC5k0igisy9IJexWBMiINEgY355QIjZ0XdLVveVuG0OenQ4jlfBVH03hg86rSzv;p1iLBUMiqwCphh2q4QtQpw=="
+secured: "jkr7LGDH5kvrk022kcbmgC7WKiogdtJKVtv47bE71OfC3UQCAe51cyJlqt7wUzkb/tc/LUCfSN4XivgfM6Kg+5Djg/OXEJ9HlHY9OtJP75bynjgdQIul6wEqnNM/aDJ3zzn4kpVSttAgmajg/X1GbCXD/HGVG1LK02Pc7j4WcRqYbJQpoCeCTI1Zpt5BjDZUkUspt4apYINAP0MhcW87XJ8Fg3q2nkfu/LzKaGxBeFjJIq7Qkp5EaZN31Z+Laziw6wl5ci08L429lmFD95iz7cozo7Zo4gLWBtXjlQ3myhhNk505FRVldPIhEGRE92+D;ylztnNjdUUwiNDnuwz8gHg=="
 ---
 
