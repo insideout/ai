@@ -5,9 +5,6 @@ excerpt: "... ML Competency status only eight months after joining the AWS Partn
 publishedDateTime: 2020-02-04T13:11:00Z
 webUrl: "https://www.tmcnet.com/usubmit/-dotdata-achieves-aws-machine-learning-competency-status-/2020/02/04/9091610.htm"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: TMCnet
@@ -17,12 +14,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "dotData Achieves AWS Machine Learning Competency Status"
-
-secured: "X5Ck45WbV3bJixkxjnUNHt/kR+52z8r9DdB9081jmna+e7ToEhQRVVuvaNMUqhO2Vzvlg1YpbC+9KnzPvXSjHNqqdXav1KvQpwMd6M+GCS+PhJ+UxBO7zRrubHqUpQAcT56xrNLnJTx0LjOLsmhLzaasvP/XfNeJ+E9XlB/kJy1ElWkKat8c/5+mD8jVxOfwQBfI1uvcn8SkK8fNnYL+2Ene/EWwCNhDwMrcryuJ5z/Jd9O9YgtSgmgykYI2wUkVEyxZxmMhlPGoQzb+ZeNwORbxV+HX3K+I2J1Gj3Yb6y4MKJZyJcJGk+KesfFd20R7;e0CfxydUorrN9VQzjetf6A=="
+secured: "w4EhCQ1zoUxRoUnVYEQhibz9zKKMsmloK7ZNCep1V1WArbBQiJu1Mqbwcek2z6O56ngSV2z0BV0zx27fhS9n2smIlINGLsBHgew7G1JkWLy6vhDiyfF6FdwBYif0PahdtxeU6pfEYuFCI9NTwiZgf1LJNp9Zmor+pktUJeQ0p8tQmN5tSHhXdjlI3unzPQygQ+PP5MrUG1DJRBZQJzqaB9Lr5BAICIu9nUlIhztXDLGl35vX1FrhdLvl0Vrt6GGLRWoHTaptpPZYZH4BcVyCZs4HWibqX0w1IzX7/4P1Pmajy1bNRWcw5iOfrFTlv7FA;SL3IVy8JCPfPPQ6lZX3BWg=="
 ---
 
