@@ -1,23 +1,19 @@
 ---
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
-excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
+excerpt: "The European Central Bank (ECB), in collaboration with Reply, leader in digital technology innovation, is organising the \"Supervisory Data Hackathon\", a coding marathon focussing on the application of Machine Learning and Artificial Intelligence."
 publishedDateTime: 2020-02-04T09:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
+webUrl: "https://www.benzinga.com/pressreleases/20/02/b15243725/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15243725"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15243725"
 type: article
-quality: 46
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -53,6 +49,6 @@ related:
         width: 914
         height: 611
 
-secured: "cIpSwtUktCJ8I4hhIK4cUHLsT9UVL4XNRjitFbyaXOiyXMI0Djkw19rSW7kAZ/1g7PuDnDP2mg5Gv9kbmxDTPX5iSwPrZIct4S0wSLMP/VyjX94wdX+mUDQRc2G1e8uWuCdPhjNBss+fSljGqMMYFrgnCltxUiUP0Xnft8Q7uJgOutqT2X1xURqlYjfOt4D3TwE86q2cKW7m/Df0JYAN/RNEPCVFhBA1HLFAOUcfiGM/bBR1nP+FOdeIDthPwqueKVpiaUAgiyCs2Pp3Q8/eZw8mhsjzufya3gYbpm04U08eV/fHDpiZKp8LstCqrsu+;uQNyJu3xALEAniN1OiXaig=="
+secured: "TLiEadzzPrbbrq5dohqbc6KRAVH84B6UoNqcQWqYtS5TBbBOX36pjSmaKY/fWq39QE+35H4ibK64Mv3cWhpdwXFLwxSiksc/3QsjOwB3fIDuyDG+BcSleOXBGxn1ZFaEzd472t/ajeWN/mlEJuv3oAV2K43+2eTv/BXuUZ9VhKZLMm5HJjQeCVRdsrlCp/dz/WW4igV9NgZFQe4/0S9wKBRxRMYjzcLo+S8KNAzVMOjfC+Jc6h6xm/niSbVI0kMFsQ/q2CLFGn6NtNRSBBQ7UYh5gq+JqVIGqcTuh31ykRit3+2tL0TmACkd4GwRYddG;Hs7e1uk+fxPPOeJRLIlhmA=="
 ---
 

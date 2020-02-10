@@ -4,8 +4,10 @@ title: "Software detects backdoor attacks on facial recognition"
 excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
 publishedDateTime: 2020-01-21T00:00:00Z
 webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
+ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
+    width: 446
+    height: 300
+    title: "Software detects backdoor attacks on facial recognition"
 
 related:
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
@@ -460,19 +468,6 @@ related:
       name: BuzzFeed News
       domain: buzzfeednews.com
     quality: 45
-  - title: "Consumers Are Still Split on Facial Recognition"
-    excerpt: "Reuven Carlyle proposed a bill to require companies that make facial recognition tech to first obtain consumer consent, and notify those consumers that when they walk into a store or access a website, it’s in use. \"Despite concerns, retailers are exploring biometric technology, including behavioral tracking and facial and voice recognition ..."
-    publishedDateTime: 2020-01-26T05:08:00Z
-    webUrl: "https://www.emarketer.com/content/consumers-are-still-split-on-facial-recognition"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 41
-    images:
-      - url: "https://contentstorage-nax2.emarketer.com/ab38dfa809dcc6b9c4e1d34ceba68d21/default-image-share.png"
-        width: 1280
-        height: 720
   - title: "Adroit Forecasts $12 Billion Facial Recognition Market"
     excerpt: "Adroit Market Research has released a new report that predicts that the global facial recognition market will climb above $12 billion by 2025. That figure eclipses previous reports from MarketsandMarkets and Reports and Data. The former predicted that the global facial recognition market would reach $7 billion by 2024, while the latter forecast ..."
     publishedDateTime: 2020-01-27T22:20:00Z
@@ -660,6 +655,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "u8YIcwtQLEiuZebr9XRkATKNyEK2sht8t5COeF86mqbWQHh89YHC1mZTXifHyjiEqIHRuV25YotemzAhQxM9VKLF8Ei6Dbkq4Yz/qutO9QJ0N0B6L9tXw+AYWzWPfNXtMMlepwHtgXi/4LcZpvEo26PqauPm09hoO93jJlAwSMfsoIJQ2Y5O8vYoZO0Uq9o22vpntH0Mng8fBQ2Cw39sOCaFcT3TEgz1w9susAAFbHGbCDVFzR6yIaUHS/dAp0/1QsAOtL79V+FU+C/bshHcxPfg+S3Q0FvIdAB09C7ee9X6hWDW6LmGBF40eSdPtWtZ;3xZzJiTaxLZZFRbLc4Mgng=="
+secured: "bEnh9RA8cOejZ9URKxiIzm9GieM6+FWYbiOvrqfyL8nQiD362uYzNh15idg93DtYscKjnOQa/F2hYmsRu3gbJ0dLE6z3KJl6d4F3kzd79FGdkPcWXf0GfHEvMUSoLRhC7DQe35NZ7Nly2+XDmnAyisTs2zLi2pqqvc0a9s337UTjcDkHE1D+HE9RXq5Jx/fO/pMjAY+aczUz36MYeUxM+3rjyvF/2G6QQoHJOx5KFJJIQbhq7/ZPkGD1aSVENu9r02I4wzOtTqLLDUC9RFm92d/Kz/tEW9lMsyu/13fm3O0UnQDEg6C4RSyUOlzyBrmA;5CNoFoq3u3P2aIZulikX2Q=="
 ---
 

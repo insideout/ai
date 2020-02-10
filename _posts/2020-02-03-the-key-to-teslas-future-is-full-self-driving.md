@@ -18,43 +18,75 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Apple's self-driving car system could use voice, gesture guidance"
-    excerpt: "Interacting with a future self-driving car could be a lot like working with some future interpretation of Apple iOS with voice, gesture and touch-enabled commands at your disposal. It's the overarching view gathered after reading through an Apple patent application filed last August and published last week for a self-driving car voice and ..."
-    publishedDateTime: 2020-01-27T20:49:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-system-voice-gesture-guidance/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
+  - title: "Uber's self-driving cars are a key to its path to profitability"
+    excerpt: "Uber plans to launch its self-driving cars in pockets of cities where weather, demand and other conditions are most favorable."
+    publishedDateTime: 2020-01-28T12:09:00Z
+    webUrl: "https://www.cnbc.com/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: CNBC
+      domain: cnbc.com
     quality: 74
     images:
-      - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
-        width: 1200
-        height: 630
-  - title: "Why most self-driving car companies use these 3 models"
-    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
-    publishedDateTime: 2020-01-21T20:54:00Z
-    webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
+      - url: "https://image.cnbcfm.com/api/v1/image/104181597-GettyImages-605519688.jpg?v=1529473695"
+        width: 1024
+        height: 681
+  - title: "Aurora can now give the public rides in its self-driving cars"
+    excerpt: "Aurora has been given permission by California regulators to transport passengers in its self-driving vehicles, TechCrunch has learned. The California Public Utilities Commission granted Aurora a permit, which was posted on its website Wednesday, to participate in the state’s Autonomous Vehicle Passenger Service pilot. Aurora confirmed the ..."
+    publishedDateTime: 2020-01-29T17:15:00Z
+    webUrl: "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/"
+    ampWebUrl: "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 34
-  - title: "The road ahead for AV in the age of self-driving cars"
-    excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
-    publishedDateTime: 2020-01-28T10:25:00Z
-    webUrl: "https://www.avinteractive.com/features/blogs/road-ahead-av-self-driving-cars-28-01-2020/"
-    type: article
-    provider:
-      name: avinteractive.com
-      domain: avinteractive.com
-    quality: 24
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
-        width: 620
-        height: 330
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/Pacifica_Web-Res.jpg?w=1024"
+        width: 1024
+        height: 661
+  - title: "How Self-Driving Cars Will Transform Cities"
+    excerpt: "S elf-driving cars will completely transform urban city landscapes, and possibly even change the nature of real estate as we know it. This transformation will both create and destroy trillions of dollars in wealth."
+    publishedDateTime: 2020-01-29T15:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-self-driving-cars-will-transform-cities-2020-01-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 74
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
+        width: 1024
+        height: 512
+  - title: "Uber self-driving cars, with humans in control, to cruise Friday"
+    excerpt: "Uber will put self-driving vehicles on Washington, DC roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self-driving in Dallas, San Francisco and Toronto with human ..."
+    publishedDateTime: 2020-01-27T01:46:00Z
+    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 44
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20181017073142.Medi.jpeg"
+        width: 800
+        height: 448
+  - title: "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)"
+    excerpt: "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ..."
+    publishedDateTime: 2020-01-23T00:00:00Z
+    webUrl: "https://www.bizjournals.com/nashville/video/6082077878001"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "aKHAXoKSeFPztVefO6fjolSC1xMlnKJBpdeVl9sD9lNpS1wMyp+Bz3hXkBtSOcsV0nfX2kHkjFDRD4jbOH01/CTykvjHgjOLFfFNMc1RiIvfa/VpvqvAOQhD6/cUA9RBWY5DB1C/BXl+bTBS4KFL0ue2L0f4fJTDglXfikoyrctwyNCTlylpeQgvf39xUXW3JArR2M37BnopcZJ13oenDzVitViiKKq7kf5PLzkglveVR+zPSkUAOCbIv+0gUzIAYoH2dyC64MD6zT0bPR0k1HofDsAWL2aWQtV20F2PCREIpUWYs+zVbyvFopfJSVbmfFBQoG5pGwRDT4kgIBl2bXPoDRqGrgzPpCl/V7MO4HUp4gHxZNlRNYWQz+howUE08C9sdRAaC0NtpPu18ztdw6snA400B0bZCwa8fpplSfjziYdjmQQz/NBp5oeC79zMMdySBR7KW4Gcho3WiFrGOLCW+3xWjpBRk7Cn1IDjS4I=;Fe3REyORywfJax+Zqnxv9Q=="
 ---

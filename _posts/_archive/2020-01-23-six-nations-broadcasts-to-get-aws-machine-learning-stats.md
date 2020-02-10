@@ -5,8 +5,8 @@ excerpt: "This is streamed and analysed by AWS platforms like SageMaker and then
 publishedDateTime: 2020-01-23T00:30:00Z
 webUrl: "https://www.cloudpro.co.uk/saas/8393/six-nations-broadcasts-to-get-aws-machine-learning-stats"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "zZJx1+K67rVExvlCykh2n01BxaSzUAaf7v6rxI1mW3SfuqboXH28DQtY2Wt95K1Tz1XS+m4cD2l8PYA6hjePzN4HET6MxtY0daG2utFCo22IiXtIPBt2sZmnWSWSCGU7EirXAmgflelLBxq5f88QRSK/KfBd32EwuyHPYL8lEbuwpeE5SV7pJ8SPsR2W1tnWRjeqW0Cz58OOioTieYGYJpXI9Nmma4yzbfVuJVFRpyx3Lzdxhm4j6Modevty+s+hL4roe7J2sAx/AF8lrntkSl1pRQ6ZLjWUo7GmA0iLqkkwQT+8uPoKAiM0m5Qc1NTciXa+0ogT83xQ0yMsOEbufYCZocNEK5chxZLAarYePLaTUQDcL68pOGWTndCG2qWHY71ijiw/HWRGFvCW5HflozCoy54ell0dXDBlsOq1CpXpnYs0xTu62CpxnB0sMnZyeeoXjKkJ5ly3eqEMyzqLMIa27YxT9tlyqDQNMP31/Go=;GxNQwQ1q8R02PBvn9OtqXA=="
+images:
+  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/01/englandvscotland.jpg"
+    width: 1000
+    height: 667
+    title: "Six Nations broadcasts to get AWS machine learning stats"
+
+secured: "nAmWPt6OTAPdYKzTSkoNb7jPxGuZ9tq1SDPjnnYFoRTIWzHiPP+cYbgrVarXlNai7NWax6jRbAjWJPBvYbR9VL9ItSD4goHOw34Rb73wp7T7aAwNz3ihYXZnrGnRI7EK5EFmnc39g55ScLU86BK/peJk0SLAgJR8XuIOuEkzdhCFtkzNmBWoZFaLLN/Zmd7wu8zzXcdg4ylrsPMO+NM+IspYwGY/OiRoPGrWVameRK4bYsFE/boM0jFbtLx353EEvBhjp+0HRiA/f3PpPPtR1tyjmq1ID1WUqzV1ZTWEGgMdnPnu0O3uwA2Jw9MbpkW+;Jjg/6UOwGCVPDeACWSdD5g=="
 ---
 

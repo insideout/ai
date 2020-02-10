@@ -5,8 +5,8 @@ excerpt: "As of 2016, over 30 companies are applying AI into the creation of dri
 publishedDateTime: 2020-01-14T18:14:00Z
 webUrl: "https://www.prnewswire.com/news-releases/moreover-asia-pacific-is-expected-to-grow-with-the-highest-cagr-of-60-4-over-the-forecast-period-of-2019-2025--300986492.html"
 type: article
-quality: 0
-heat: 0
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "XbBH/YXYzQNz0biICYXIihEvU5qtzGscKii34+MJSxax0CujuQDI5JzWKavK9E3VI+2UAWZ4Zh5h/ftqP6hwed+k6kKqYj7OSzE+ZH4tkDKAdt6vnmK3nYIuTZJtnCeq+WUocNt6W0NOg2C+Ry30Yq9dV2M/IOLSOq1aEW/6hvL/q/ZRhYjdC4xj7/v6tddwia+zw4Mn7TmgJK3EejA8ih2uwNJDPIEchnG4ibyGTZVcp91joHxtgiwK6iuI9n8NBCe3Tf9Z4l/t45GgLXafBYYwDZLNk9MezfBItiu7cCbYIotd4HLK9mn3jZlQySCD;a9hJkGQC0CsyaP0ljFKSTA=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "Moreover, Asia-Pacific is expected to grow with the highest CAGR of 60.4% over the forecast period of 2019-2025"
+
+secured: "hMDxGh2EwVXTyCeL54cLv4uIhc5afReQnqK6UPNQJSQUe9r2cLgVrH7UY4CWWLjkN/MDGNBt39bhCaSQlD1vRvPNwfBTKs3OIXyFj9IWJObeN6B1FVAcsoG1pWB6qVx+YaREH7+rLNzw+QwtD9LMOFYa5Uk0J4+nMPVyHKi4shSoqiqeIMQvah2FFQYbbhKehcwiIRxpAYX2r3Ras/dbDy8IyJ/PQea2nbHAHHFonBIdH5I3nMBgMTCyC7caZ8Fp78qCifDYu3qMy8uM/XF5l5sFX3XLId5kWl3p/8p3paX5cOPE8h5IcYN7/MIAVoUK;1OpV6CZYlu90+aqdn62LPA=="
 ---
 

@@ -239,6 +239,21 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1192370013-760x380.jpg"
         width: 760
         height: 380
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
+    publishedDateTime: 2020-01-21T00:00:00Z
+    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    type: article
+    provider:
+      name: United States Army
+      domain: army.mil
+    quality: 59
+    images:
+      - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
+        width: 446
+        height: 300
   - title: "Facebook denies nosing around facial recognition tech"
     excerpt: "Facebook responded to speculation it was developing its own facial recognition software for its Messenger app, stating reports were innaccurate and it would instead use on-device systems to handle provision of security. In a Twitter post, Facebook’s EMEA communications manager Alexandru Voica explained the company was not looking to develop a ..."
     publishedDateTime: 2020-01-27T12:37:00Z
@@ -466,19 +481,6 @@ related:
       name: BuzzFeed News
       domain: buzzfeednews.com
     quality: 45
-  - title: "Consumers Are Still Split on Facial Recognition"
-    excerpt: "Reuven Carlyle proposed a bill to require companies that make facial recognition tech to first obtain consumer consent, and notify those consumers that when they walk into a store or access a website, it’s in use. \"Despite concerns, retailers are exploring biometric technology, including behavioral tracking and facial and voice recognition ..."
-    publishedDateTime: 2020-01-26T05:08:00Z
-    webUrl: "https://www.emarketer.com/content/consumers-are-still-split-on-facial-recognition"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 41
-    images:
-      - url: "https://contentstorage-nax2.emarketer.com/ab38dfa809dcc6b9c4e1d34ceba68d21/default-image-share.png"
-        width: 1280
-        height: 720
   - title: "Army Taps Academia to Address Hacker Risks in Facial Recognition Tech"
     excerpt: "The U.S. Army and Duke University have partnered to address cyber risks that threaten the use of object and facial recognition in artificial intelligence training. Researchers at the university have developed a software that detects backdoor hacking attempts orchestrated against recognition systems, the Army said Tuesday. Army Research ..."
     publishedDateTime: 2020-01-27T21:24:00Z
@@ -616,15 +618,6 @@ related:
       - url: "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Facial-recognition-scanner-kids.jpg"
         width: 800
         height: 400
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
-    publishedDateTime: 2020-01-21T00:00:00Z
-    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 19
   - title: "Facebook settles facial recognition dispute"
     excerpt: "Facebook has settled a long-running legal dispute about the way it scans and tags people's photos. It will pay $550m (£421m) to a group of users in Illinois, who argued that its facial recognition tool was in violation of the state's privacy laws. The case has been ongoing since 2015, and the settlement was announced in its quarterly earnings."
     publishedDateTime: 2020-01-30T13:22:00Z

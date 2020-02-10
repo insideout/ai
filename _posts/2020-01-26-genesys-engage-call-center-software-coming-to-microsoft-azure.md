@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-26T21:00:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/MSR_Investigator_Fellowship_1400x788-1_new.png"
         width: 1400
         height: 789
-  - title: "Genesys expands partnership with Microsoft Azure"
-    excerpt: "Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers."
-    publishedDateTime: 2020-01-23T16:21:00Z
-    webUrl: "https://www.telecompaper.com/news/genesys-expands-partnership-with-microsoft-azure--1323890"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "Microsoft Sees Azure Sales Surge 62 Percent"
     excerpt: "“we are seeing rapid adoption across a comprehensive portfolio of AI tools, infrastructure and services.” He said that there are 6 billion transactions on Azure Cognitive services each month, 7 billion documents processed daily with Azure cognitive search. There are a further 2 billion predictions a month using Azure machine learning ..."
     publishedDateTime: 2020-01-30T04:21:00Z

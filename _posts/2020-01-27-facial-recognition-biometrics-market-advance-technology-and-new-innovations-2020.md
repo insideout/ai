@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-27T05:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020-2020-01-27"
 type: article
 quality: 64
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -67,19 +67,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
-  - title: "Tech Savvy: Facial-recognition technology stokes privacy concerns"
-    excerpt: "Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier says 72% of ..."
-    publishedDateTime: 2020-01-26T06:40:00Z
-    webUrl: "https://www.brainerddispatch.com/business/technology/4880204-Tech-Savvy-Facial-recognition-technology-stokes-privacy-concerns"
-    type: article
-    provider:
-      name: Brainerd Dispatch
-      domain: brainerddispatch.com
-    quality: 24
-    images:
-      - url: "https://www.brainerddispatch.com/incoming/4880195-oiib4n-IMG_7852.jpg/alternates/BASE_LANDSCAPE/IMG_7852.jpg"
-        width: 1140
-        height: 712
   - title: "Artificial Intelligence in Medical Imaging 2020 Global Market – Innovation, Technologies, Applications, Verticals, Strategies & Forecasts"
     excerpt: "“Artificial Intelligence in Medical Imaging Market” WiseGuyReports.Com Publish a New Market Research Report On –\" Artificial Intelligence in Medical Imaging"
     publishedDateTime: 2020-01-27T08:50:00Z
