@@ -25,19 +25,6 @@ images:
     title: "Speechmatics and Soho2 apply machine learning to analyse voice data"
 
 related:
-  - title: "Speechmatics opens third international office to address U.S. speech recognition market"
-    excerpt: "Speechmatics has opened an office in Denver, Colorado, the third international office space the UK-based automated speech recognition software provider has opened in just three months, following Chennai, India and Brno, Czech Republic, the company announced. By opening its first office in the U.S., Speechmatics wants to leverage the country’s ..."
-    publishedDateTime: 2020-02-07T19:16:00Z
-    webUrl: "https://www.biometricupdate.com/202002/speechmatics-opens-third-international-office-to-address-u-s-speech-recognition-market"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
   - title: "Data Science and Machine Learning Service Market Is Thriving Worldwide with Mango Solutions, LatentView Analytics, Microsoft, Fico"
     excerpt: "Latest released 2020 version of market study on Global Data Science and Machine Learning Service Market with 94+ market data Tables, Pie Chat, Graphs & Figures spread through Pages and easy to understand in depth analysis. \" Global Data Science and Machine Learning Service Market by Type (, Consulting & Management Solution), by End-Users ..."
     publishedDateTime: 2020-02-06T07:23:00Z

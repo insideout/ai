@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-04T04:55:00Z
 webUrl: "https://gadget.co.za/ai-transforms-limpopo-healthcare/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: gadget.co.za
@@ -37,6 +37,15 @@ related:
       - url: "https://media.bizj.us/view/img/11591979/gettyimages-1160047562*1200xx2121-1198-0-98.jpg"
         width: 1200
         height: 677
+  - title: "3 Ways to Enhance Healthcare Interoperability with Health IT"
+    excerpt: "Healthcare needs to lean on other emerging technologies and strategies to boost interoperability. Taking advantage of the surge of artificial intelligence in healthcare, empowering patient engagement with health data, and bolstering health information exchanges, industry leaders can begin to chip away at the healtcare interoperability problem."
+    publishedDateTime: 2020-02-10T14:33:00Z
+    webUrl: "https://ehrintelligence.com/news/3-ways-to-enhance-healthcare-interoperability-with-health-it"
+    type: article
+    provider:
+      name: EHR Intelligence
+      domain: ehrintelligence.com
+    quality: 19
 
 secured: "WyXfTHQlFGEt6IumcrD1NkPhz4+jvbxWt54vdWtg8ud/CYgU9CClnJzhAnhpqmf7sTqsFtMAysSHME1zfL642VZK3vVuYSUaArdsdVR/7Vv0oYLoMW9H5/TENeSc98JIL44zXfQC/WXnz7QAATocnzlXcCqAZUDJS3cZ4wZcPlmvx07nsC/WQi+FSpEl8CvSXGd8TBNj0Z6GkLe/3ldtYdAHIHODVpQRA8pMe8BV5Febbh2R73C/mqk8fcETaxvtYnsJR2so4qqh6pJfhOJGjYknNmflapJgQFXs0xqcYtEFMm+iAOyvH4wOEvBsXLvb;Af8FnpM59aQ0QAMzWGwwUg=="
 ---

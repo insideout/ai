@@ -5,7 +5,7 @@ excerpt: "The companies are also exploring and developing new integrations for G
 publishedDateTime: 2020-01-23T14:37:00Z
 webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
 type: article
-quality: 14
+quality: 0
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
-    width: 1024
-    height: 803
-    title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
 
 related:
   - title: "Genesys Engage call center software coming to Microsoft Azure"
@@ -64,6 +58,6 @@ related:
       domain: pymnts.com
     quality: 34
 
-secured: "KZsTyaVX3sfN7ielDOMW0TGQaOoEJlgE14Ou3NF2zG237UKGyfV7x/pOCWWqauDeAsaxFN1bX7sT2c5HTlCKXhdgmDbCudF9Y1TFx1xwisM26zQvxNXYZaL/x7Bf3j8Ifcc7aUvQOghikifev/fHQjG61+BReqw0kLDZK+/xd70txbOuz4u/Kc+s161itJzFkQyqbKxUmizM9afQ2+AvSYsvYb2b+t3lWE+MhAXtFHs+Qt5djqHaLwDwFIMfHXPamsLxhLUeHQNTnGqW2RsmZ5U7CxvYQVVKKEmKWVFFWihLOTBd1x2tNWiq6kumd24L;tK+auXbSsDnqNEmFJ4fnCg=="
+secured: "Qs3psyM9s22tRsJH59zdjKL3UkHWy676NdB5heWplm5DscuAxgVc2p+qGsERf1cZBBbvSut0fNPeDyD9gCyqDl8vvd4UPEWFiHt1rVtEMZzBx/edUwDfkPno2qk++Y+1Kk86A3GofC0ydinYSxLOc10swvnpZ4DibaT1QjXhaergeF/0kbenTtY62u/3WCsfKG6oBWR26Ll/sty/VouLh8x0wb3EoTSW6v2bm2QDli6QydZhom6de/5ASvykwAWxt4lCU4nkFegk0Jfyce07KO/MSAgthcaJFnhgzHqZZ73bA3qekDRbaxb6EqTq7RVz;K8gyK63DhFc37mBkyyBRrw=="
 ---
 

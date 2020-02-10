@@ -5,6 +5,9 @@ excerpt: "Artificial Intelligence for Digital Breast Tomosynthesis ... technolog
 publishedDateTime: 2020-01-27T13:03:00Z
 webUrl: "https://www.globenewswire.com/news-release/2020/01/27/1975391/0/en/iCAD-Showcases-Technology-for-Cancer-Discovery-to-Recovery-including-ProFound-AI-Platform-and-Xoft-System-at-Arab-Health-2020-in-Dubai.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: GlobeNewswire

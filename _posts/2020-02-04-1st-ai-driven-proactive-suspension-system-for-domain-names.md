@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T11:40:00Z
 webUrl: "https://apnews.com/Business Wire/e87cd5d598324dd8a60cf563ad86623b"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,23 @@ images:
     width: 700
     height: 450
     title: "1st AI-driven proactive suspension system for domain names"
+
+related:
+  - title: "Protecting privacy in an AI-driven world"
+    excerpt: "This report from The Brookings Institution’s Artificial Intelligence and Emerging Technology (AIET ... The Brookings Institution is a nonprofit organization devoted to independent research and policy solutions. Its mission is to conduct high-quality, independent research and, based on that research, to provide innovative, practical ..."
+    publishedDateTime: 2020-02-10T14:10:00Z
+    webUrl: "https://www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/"
+    ampWebUrl: "https://www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/"
+    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/"
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 59
+    images:
+      - url: "https://www.brookings.edu/wp-content/uploads/2017/04/es_20170425_fintechapps.jpg"
+        width: 4566
+        height: 3024
 
 secured: "nIW6eit53sTsZU3tQSmM55W+czzskpU0jLoZhu0kHy/QCZ+9aGXvFH3w1AWQCsHQ6EtqbTwtlG+xEQichYb4OmRDuQvNDKKrmmohIIljUw81db2cYCA5J+NiFyJJ69xy2TSFAlziT32dtpq5ZI9Ts4AiVmuvftwbTBWXK/RilbJ4OXKLKCC6aHg7HCXkrc5VGOZp9Mg/zUe1m666x3sOsObfgBZABJFBadZs2RdB/eLT+5r2cpaO/0b13MepwNKzlj9mEdvWOOOEUn46QOiMcDrq43KE7V3UcnoEDbMqzddGs+wLUlSdpMXWFPEQA+pQ;ZjS0Ci+mdNs7qniQD8fLBw=="
 ---

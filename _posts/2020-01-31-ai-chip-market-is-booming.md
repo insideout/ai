@@ -83,6 +83,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 0
+  - title: "Global Smart Learning Market Size is Projected to Grow to USD 56.5 Billion by 2024, at a CAGR of 19.5% - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Smart Learning Market by Component (Hardware ... Enterprise users include organizations catering to various verticals, such as retail; government; healthcare; and Banking, Financial Services and Insurance (BFSI). Corporate users implement these solutions as a tool to train and assess employees for providing ..."
+    publishedDateTime: 2020-02-10T11:56:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200210005444/en/Global-Smart-Learning-Market-Size-Projected-Grow"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200210005444/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "BK7rHyXixpvkvW+pJnv4YGAnhOinWVRAIRrlgVtdtBYc7kKBUYXg/ufx/tfvwZPbPbbZ4kpNWfP5tGikpbNPXgdmmdyCW8tBcT+o6iALSZ6nLtQ4i9QHPbLlmL0c76Xs94pVD79LNXkR1tWgVphFRwhcbDrf/JMkIiI+teWhz3qWm5DBMCt9hDsw/X7o5zpWRCe+gIQz0ayUilzgxHUTiO0DFMZhZ9Zda+FQH+7DP4RsPW+csPWkfqu26VNIZ0j1o0SVTA+8jFYn/yFkM0E9JDpkZ5R907PHNRH03nkrddcAH6oRqiqlwMiGqZRpp7RyjhnZs48Ku7r95TYO7X6n7nB1fKaAa8hcMFsX9BtIkcc27UVGl7b++Pt6SlVBqbCugTVPoEWGH/SNlTquTzpcdrl6XBxJZlJjJavnrhHUCrkUPWImR8LcOdSuA9wVNNjWajrc+S86Eq5llheWDxhJMG1KtHOmUkCcHLQLx95LVmI=;NkOUlIqoMdy3efDMtAkp3Q=="
 ---

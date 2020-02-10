@@ -4,11 +4,9 @@ title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
 excerpt: "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a license to start testing driverless cars. Waymo is moving forward with plans that could be easier and more lucrative than operating robotaxi services. Specifically, the company is developing self-driving trucks. Compared with providing robotaxi services ..."
 publishedDateTime: 2020-01-21T11:55:00Z
 webUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/"
-ampWebUrl: "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/Googl_1600.jpg"
-    width: 1600
-    height: 900
-    title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
-
-secured: "hLloihtNN/HuQGPGdNhUaX7t7nmbEd17pPsReSFgLzEx5u3jnT9gOiOfn9ZgZIiQ6UFJ3i/9Wrifl/uu6OL9z2Y9s8VF37JUlq8BvXDv/kjNy/VKQfemvNT2dk17PfjAdFYDUncWmJGHxlw7CIqH1pTuyF98rFH1C3mIwYPAobADCfQM6G3+uxgiENxc/fqICkYDjvMoKiVWeQeI5ngxHDI+keO6M4PpGbiJeYiNUhTjExFqgSoBPWyhmSFEVKPtrH4IsHEbrUsDdi58T2LbWzdIKb4sVUUKQb/8NQ74b+BqC9pw1hTmffdB0u5EhUAA;zbBzAtvWrOA5KuGOTYlBiw=="
+secured: "Jz4xW4YqZ1RS1n5sEulYFTvFbjlkr7zzqgcQ+/nxl7P1XgoK7rZYtVqkBfcaDooZ+vlxXgOKl34OzSCe/9SF3IVckoXNv1Lir4yROY0mi6+ekpfj1Wd4+64ZqT9yboVPmxsxekJWscaV5fkvsNCr/FHtOkDBny4v4kppG9mLaPsm1cHW6893PKwmUq68i7NkHVew22KhoMNmqD9BO+7sGA1GmyzhsREHArry84OjbOQrJPnZNxv42Ql+tuUfGXpAMT+j4q0Sj3BQxE6iPHHKrJ9QVRTGDHriZYlCoLpnwIMH6rYZwH84wSGZW6azIOcj34mU8x1GNdaky6BOgMSfK/kb9jL75Asg88I5TvBFmK6tc02fTEluJdLvaGua5NpS9O3A1EogvaJYxd8RsyhJOpcX5IcBwAf3MAWJ6WPKpppgy5/93J4Ef8CX5rEtKGaWs2/iBqsMLiHW8swjCRCjGKYE2ieLvxDNVcLJy4yknXY=;1GxzgygnJxXUbEZzWtSH3g=="
 ---
 

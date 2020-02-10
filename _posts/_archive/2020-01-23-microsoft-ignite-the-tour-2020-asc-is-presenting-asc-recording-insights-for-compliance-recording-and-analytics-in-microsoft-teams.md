@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Microsoft Ignite The Tour 2020: ASC is Presenting ASC Recording Insights for Compliance Recording and Analytics in Microsoft Teams"
-excerpt: "ASC Recording Insights offers Microsoft Teams users a comprehensive tool for legally compliant recording and archiving as well as for the evaluation of all conversations within Teams. Conversations include audio and video calls, chats, meetings, and additional data. Speech Services, a component of Azure Cognitive Services, transcribe audio ..."
-publishedDateTime: 2020-01-23T15:30:00Z
+excerpt: "With Microsoft Azure Cognitive Services, you can this communication data into insights and thus enable proactive compliance management. The app is already available for download in the Microsoft Teams Store and at Microsoft AppSource. The entire range of ..."
+publishedDateTime: 2020-01-23T14:21:00Z
 webUrl: "https://www.realwire.com/releases/Microsoft-Ignite-The-Tour-2020-ASC-is-Presenting-ASC-Recording-Insights"
 type: article
-quality: 9
+quality: 0
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://www.realwire.com/twitter_writeitfiles/ASC_Ignite_Overview_neu.jpg"
-    width: 600
-    height: 334
-    title: "Microsoft Ignite The Tour 2020: ASC is Presenting ASC Recording Insights for Compliance Recording and Analytics in Microsoft Teams"
 
 related:
   - title: "Microsoft Previews New App Reporting and Consent Tools in Azure AD"
@@ -38,6 +32,6 @@ related:
         width: 647
         height: 450
 
-secured: "6cRcYJwsu6d66G0Hns9a3ZDNt+K5l0c0EI1UB+oRWF6SbjI4kd/GSKUWxGTo2lA5GwaFy22gsbAueyYRAS3WRM5yR30bxPCgU4fEXmj1IED0qWkj28/Nnl3a10hYb0vAaCWiCXtWHy1nZ6Ahjs561oz20QcSVWW/PKc8IqqwhbjlBtSJ8g8+hLxYNiB9a2SirvXVcy5Esj+fu46Ak5ju1+C5G9DiOa3JXwrWxo7jmKx4Ii8HCwkZVa1XKLyyAPhZHzpCqyDcJrwjhjQf7CqaExW0GRZUKCkB5GNa2Bi+2DE4FP4E31+xNEmQpa9Nt+Ij;kGVvO8tjUGXxRY3mj1uN3A=="
+secured: "8M/G4cuyAtYXZu+QWtHmnf7HDq/p9nhAV69ZnjxvO0ulmIG38NDfYZmrb0bdld0eKZhAzaylXMp4uD7jbPsKpnwUZYM4uXOBL0z9DKLdzQWSkp6qkWBiBSubyfVe3JgHwV70QZD9QCyUAemdRzc0E52c0EmlYdYdI5aOU1Fm8evwnnla5AybrOnuTeFP8b33YfncL+gNi/nf+9cZSwQ5XQYPYqRviA7Q1mAWpR58jz8/yPJAUYlpLYB18o0/nfu3k+FneOVdZJhdlHOG8IbZ9jLuPEsYkRlV5aFBjhp/3+CV0enkdL27bK9mJ1SqSf66;rih5wI1JCY7Ild1Cop+iXw=="
 ---
 

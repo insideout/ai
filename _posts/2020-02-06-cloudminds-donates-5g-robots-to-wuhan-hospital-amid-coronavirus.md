@@ -63,6 +63,19 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-01-30/9fd8b87b-e675-4089-8601-8034ae4dc9fe.jpeg"
         width: 500
         height: 300
+  - title: "Drug makers are using AI to help find an answer to the coronavirus"
+    excerpt: "Companies that use artificial intelligence to suss out molecules for potential drugs are among those looking for an answer to the coronavirus. On Tuesday, Benevolent AI published a letter in The Lancet, explaining how it found a drug that could be repurposed to fight the coronavirus using artificial intelligence. The most promising choice is a ..."
+    publishedDateTime: 2020-02-10T13:00:00Z
+    webUrl: "https://www.fastcompany.com/90461383/drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus?partner=feedburner"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
+        width: 1280
+        height: 720
 
 secured: "f7u1/bJMcZAqTQrhAFLG+mUo6oBKllvlazhI/+zjPKyEe9vhSEg3utJRLOO/Y/AWJK/iA1S07yTxLJJ6zRfX6jgzzBtahdM/u8v2TFyreDG/aNvzUiPn0V7NX7AMLX6hBvkT10Vrd0zsncP5HGlyOGmmNn+GKpDitrwfZLuTK75xLU8FDtt1h29shtQ7utmMmsjdIiQg0IXEV9P29laXa+imSlpCjRJJIf/Q9BhCn7gO0ZbQfcIyklzivbr9pTyC2/jk/ZhhFEFmbKOSOZ1O5f4ok5C91tNpRFcnu/dV2yHboKc7P8iFuN+t0bcX+U5L;WFs8X8Oyc6T+LpFmn+4eow=="
 ---

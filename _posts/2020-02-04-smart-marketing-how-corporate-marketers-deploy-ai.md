@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marke
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -86,6 +86,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 0
+  - title: "Global Smart Learning Market Size is Projected to Grow to USD 56.5 Billion by 2024, at a CAGR of 19.5% - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Smart Learning Market by Component (Hardware ... Enterprise users include organizations catering to various verticals, such as retail; government; healthcare; and Banking, Financial Services and Insurance (BFSI). Corporate users implement these solutions as a tool to train and assess employees for providing ..."
+    publishedDateTime: 2020-02-10T11:56:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200210005444/en/Global-Smart-Learning-Market-Size-Projected-Grow"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200210005444/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "M1IKHMCXr0itgtJ/PToDMt7w92Sit34TIJ7K1+JQRkqwfPzhFs6GxQhJ1j3I88jwaSkiKGFwbzJD8mForgYJRFDWHn3MJYmvk19Z17O6bYVHOXcazJccK3SBZZboYbLlh6lcDzbsLF64uCASAwxy+zmLUiaWufGI/D/nMNdXLHWFb13DMBpCkNLpx7cXIFgmo01FszYOB1T56Wd7AxrGsLJpARBOU7VMK6yyorf73KTr+h/umJCXied78CZVbs+E62mwvkx4O9WFUKGGC16si7pfZOqh3kCfUy8DRfhyKJ+MJ9K6OAII5UonHXIHVVb3bg1/bLpL3X35lpncASt4yVVqsmT7dNus40ykaWxVbL6EaCfAH+jwUS1QTJmViQIsOa4Q4fMNSKB0UtC1Ibx+V7haVEgqgWyOWT2bVAj5FmCj6ddvhQnXNEppD+DK/Jvw1RpE+NiStzKHRvTI5Hs0CAaKFmV6VKVQ4epPqOwt/FE=;7TnZ7zQDQfEBC1UOWf76dw=="
 ---

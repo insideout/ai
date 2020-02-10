@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/what-is-computer-vision?amp=true"
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/what-is-computer-vision?amp=true"
 type: article
 quality: 89
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "What Is Computer Vision?"
 
 related:
-  - title: "Vision System for Machine Learning (ML) Edge Computing Applications"
-    excerpt: "The NXP i.MX 8M Plus features a dual camera image signal processor providing real-time processing for crystal clear images and a neural network accelerator delivering up to 2.3 TOPs for extensive machine learning capabilities. In combination with the new camera modules, the resulting vision system is suitable for intelligent, vision-based ..."
-    publishedDateTime: 2020-02-03T20:14:00Z
-    webUrl: "https://www.automationworld.com/products/product/21112764/basler-ag-vision-system-for-machine-learning-ml-edge-computing-applications"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 54
-    images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2020/02/2001_np_Basler.5e387e91c4560.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
   - title: "Deep learning computer system can predict weather changes"
     excerpt: "Rice University engineers have created a deep learning computer system that taught itself to accurately predict extreme weather events, like heat waves, up to five days in advance using minimal information about current weather conditions. Ironically, Rices self-learning ‘capsule neural network’ uses an analog method of weather forecasting ..."
     publishedDateTime: 2020-02-09T09:40:00Z
@@ -57,6 +44,6 @@ related:
         width: 620
         height: 355
 
-secured: "6TDX59+LE1tNqZvEiy1Xpy8ySrAh6UHpxPpyksy94a9ghNsm8w+B+uUnUZ+m4r4Ff/wEUV1KkWWXnWaAteNdEbjO/2JJaM7cL1Pm7ODDoEbfzuCJczQzKFs/2TF4eA/cEY6hdab/Zna/X96NqJV+8SPPywdDsLMQuChhHGgc69dSqazMFy5lpmpWr18NamLp+CIyzpk42q8pulG0LXgS3WTV9wgsRa5pI3dsIDK/dnrIRKwTNTXQQxVN5rdt7t5ygG5Kg3wFP4oLeYfi4cPBFY+J1HS2Az5LWQ2lAJH7q4Z0qG46bG9jqDWXUHtnweR0Ru9rDGxt3KPyejpO3UiSiTZUxXrKMBfIOuFY+TZrBiQ/m6e9HLZBH1dzEyA3tLCmU3X6tC/z3wnTaNT7R8VruBP8PfbtZwEXsG9UrFxURVPk4bM0BnRlIbKjFFyX57L29qEkwDuhxKf86uu8WzwiimLdpTMTgAFw9TYJJNyTiSU=;0DIsaOx7I4LB2uv/jLreIg=="
+secured: "vdXT21j9t2zouFLfT6nHE/p+/gm1wUEEO8OEqF8/l6H/gAjGtxj0XM8Boo+EIIWM1ZBy/+sCUq9rryIEYto7RJ1Z+r3DGwMWUrRF9jO5y5nJ7dvADxfke6QJ4Ro7kRXOOL4dDjdN4FVs2sY8b3plrHxsM4rOOpAPUC2rEyG1cI8SQWOJ3mmDE9h8g83Lp96PdLSyPmmmRD/rE5TfaxqS21fr42aHHBOvJ25sUSjrV/dyQQUKjndSkIDbqOZ8HB4T2zCbnzyFDRE/SIJ1otFvMRzJnHdcP57aOx4UiN/g/G9GbwsiJWh5rSwGBPOe1E1n2pr4D7dHd/9jvGqJRFWBsJxLV8WBdsMcmF7VFk6vNfoGSd/K0RUfPf8+Kj5mEIyBv8aXqFXfu+NscoLnbczfoL+qi43GuoLG9b8tV1WPtriaP5Gzmt198s3wkUz0xrYO5WMBFEUtonU+/y8+JkNOb7I0c7ddDCu/hF3DDo06CVA=;3gL3sOM79CIY48QxzO4LFQ=="
 ---
 

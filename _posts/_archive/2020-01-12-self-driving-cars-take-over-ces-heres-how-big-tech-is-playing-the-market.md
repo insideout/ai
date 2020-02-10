@@ -4,12 +4,10 @@ title: "Self-driving cars take over CES: Here's how big tech is playing the mark
 excerpt: "Baidu is developing an open source platform that it hopes will become the \"Android\" of self-driving cars, dubbed Apollo. Microsoft joined Baidu's Apollo \"alliance,\" gaining a channel for sales of ..."
 publishedDateTime: 2020-01-12T00:00:00Z
 webUrl: "https://www.cnbc.com/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-ampWebUrl: "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: CNBC
@@ -23,12 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://image.cnbcfm.com/api/v1/image/104935725-GettyImages-902802574.jpg?v=1532563703"
-    width: 2000
-    height: 1219
-    title: "Self-driving cars take over CES: Here's how big tech is playing the market"
-
-secured: "/3wZoSoOxNxeWxP2p/6+oX/ZOQQaRAMRwNCEHtFVCxd547S9NWHeD6EOi1Ho2fFjgGNo/AWcIMfZ5AvsWj3QBrHOTlayl40RkyEzqbFXyMR1L7fWHVXMjoIhMULoi25d/1aaUF8SvqkE0+QG7kYuFhaCs2daj0vYlLP+cz+teHPliVImVCay5AJhF+BqvM6iD9NFG2+9CMPAa9tidq1oh8OjOKabQ7myNQde/4Dik1XXtpWwmZaMUZDzyt1yh6TuH86TnnZzggw404NyFh42dqK5sEBjJ44Scw2zHhm8juQj2NL8QBT9cRJeq7AMs8eg;kyGFrifG9UqyzEJRubOhfA=="
+secured: "dfQpEiQ+Stkjfe3vza/GBrg+zLOgF8/sJhkU75s1dn86Td/CAkhrBG12F1rqIbH10Am0otR0vKlFiy3Yw03D8SmgQuJY0ZarXpwJo371La5j1iMu2DYaOYXp1V4QxtcLG1ywP5zBnxZTWUFzuj41Y2lKsFVPG2opvAPV6OhOrG3g8KUrE2JSHvUrOFLy1h2JB3nGcSIQHHxJoF3UZDpvLMkWxh7ZLFlwWqcpMDCVD8BmZSU9BgVs2Bh40Fpk48TDB9PFmnPRLWrYw8r+hAYhGORdJNfI/GOe7jMxuHYLyF6itcCAlVGW8iM2ccNSl7iF;yKYgLM5MBOnphDnuMU4Kpw=="
 ---
 

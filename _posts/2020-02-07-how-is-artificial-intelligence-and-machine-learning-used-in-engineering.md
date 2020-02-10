@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificia
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
 type: article
 quality: 105
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -31,21 +31,6 @@ images:
     title: "How Is Artificial Intelligence And Machine Learning Used In Engineering?"
 
 related:
-  - title: "How is AI affecting brand storytelling?"
-    excerpt: "According to recent research by IDC, the total global spending on Artificial Intelligence (AI) systems will touch $98 billion by 2023 ... The show will be webcast from the Mint Facebook page at 10 am on February 11. Sunder Madakshira (Adobe India), Sukhpreet Singh (Dish TV & Watcho), Krishnan Chatterjee (SAP), Hareesh Tibrewala (Mirum India ..."
-    publishedDateTime: 2020-02-10T06:11:00Z
-    webUrl: "https://www.livemint.com/brand-post/how-is-ai-affecting-brand-storytelling-11581312837902.html"
-    ampWebUrl: "https://www.livemint.com/brand-post/how-is-ai-affecting-brand-storytelling/amp-11581312837902.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/how-is-ai-affecting-brand-storytelling/amp-11581312837902.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2020/02/10/600x338/Rameet_1581314636290.jpg"
-        width: 600
-        height: 338
   - title: "Hyland buys blockchain-anchored business Learning Machine"
     excerpt: "Financial terms of the acquisition by Hyland were not disclosed ... More than 900 such institutions already use Hyland's content services platform. Chris Jagers, CEO of Learning Machine, said in a statement that the deal \"creates significant value for Learning Machine customers who will gain the full benefit of Hyland's notable support ..."
     publishedDateTime: 2020-02-05T16:11:00Z

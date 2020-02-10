@@ -24,23 +24,41 @@ images:
     title: "Speechmatics opens third international office to address U.S. speech recognition market"
 
 related:
-  - title: "Speechmatics and Soho2 apply machine learning to analyse voice data"
-    excerpt: "The industry-first solution is designed to leverage the latest advancements in any-context speech recognition for machine learning driven content analysis. Soho2 has significant depth in delivering machine-learning driven solutions to market. The new ..."
-    publishedDateTime: 2020-02-03T15:05:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81340/speechmatics-and-soho2-apply-machine-learning-to-analyse-voice-data"
+  - title: "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers"
+    excerpt: "This intelligence report provides a comprehensive analysis of the \"Global Vehicle Speech Recognition System Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects."
+    publishedDateTime: 2020-02-10T09:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers-2020-02-10"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 41
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-  - title: "Data Science and Machine Learning Service Market Is Thriving Worldwide with Mango Solutions, LatentView Analytics, Microsoft, Fico"
-    excerpt: "Latest released 2020 version of market study on Global Data Science and Machine Learning Service Market with 94+ market data Tables, Pie Chat, Graphs & Figures spread through Pages and easy to understand in depth analysis. \" Global Data Science and Machine Learning Service Market by Type (, Consulting & Management Solution), by End-Users ..."
-    publishedDateTime: 2020-02-06T07:23:00Z
-    webUrl: "https://www.openpr.com/news/1921056/data-science-and-machine-learning-service-market-is-thriving"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Speech and Voice Recognition Market"
+    excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice Recognition report helps make known uncertainties that may come up due to changes in business activities or introduction of a new product in the market."
+    publishedDateTime: 2020-02-03T10:10:00Z
+    webUrl: "https://www.openpr.com/news/1916446/global-speech-and-voice-recognition-market-analysis-of-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
+  - title: "North America Speech and Voice Recognition Market"
+    excerpt: "Data Bridge Market research has recently released expansive research report with titled \"North America Speech and voice recognition Market\". The report helps out the clients to tackle every strategic aspect including product development, product specification, exploring niche growth opportunities, application modelling, and new geographical ..."
+    publishedDateTime: 2020-02-07T13:42:00Z
+    webUrl: "https://www.openpr.com/news/1923721/north-america-speech-and-voice-recognition-market-2020-study"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
+  - title: "Speech and Voice Recognition Market Size & Industry Share by Leading Companies, Opportunities, Revenue Growth, Trends and Outlook (2020-2026)"
+    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights(TM) in their new study. The study is titled \"Speech and Voice Recognition Market Size, Share and Global Trend By Component (Solution ..."
+    publishedDateTime: 2020-02-06T05:57:00Z
+    webUrl: "https://www.openpr.com/news/1920861/speech-and-voice-recognition-market-size-industry-share"
     type: article
     provider:
       name: openpr.com

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T00:59:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/veoneer-selected-to-supply-system-based-on-next-generation-vision/article_eb78d130-f696-5fe9-926c-05eabef501e4.html"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -32,11 +32,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+    quality: 0
 
 secured: "XIMLVav6loxfdrKGbQvuITKpyzVkx80yaivP3MPfpogTXPioJ0tvD4d7vMxmS9dMSWgpWywqipgWN8PURqqpQAqoKtgych3o0Kcz4o5MFaN/s1eXhkvj9tW2Gk/EusSQc/uv2rnjMOe7YypcOabkjIWGRChUaf9uM56/J0svKJUispBct+XpQIzCnbghFxX5oyw9nIpA2OFbuje9d+pf0ohvMh8axJ4AGOwmo7a8jvUkepNwiPdxprL3u2Ajc8aBoDatdJA7ttqNeSG/hIpZXnpDoIvIXWLXE/MdPXUZV6lkgNGSwshgVzruW4BYaK+x;DdKDu6Izk/COly/iBK8Fyw=="
 ---

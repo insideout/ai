@@ -1,15 +1,13 @@
 ---
 category: news
 title: "LinkedIn is using AI to spot and remove inappropriate user accounts"
-excerpt: "Social networks including Facebook, Twitter, and Pinterest tap AI and machine learning systems to detect and remove abusive content, as does LinkedIn. The Microsoft-owned platform — which has over 660 million users, 303 million of which are active monthly — today detailed its approach to handling profiles containing inappropriate content ..."
-publishedDateTime: 2020-01-16T20:24:00Z
+excerpt: "In October 2019, it pulled back the curtains on a model that automatically generates text descriptions for images uploaded to LinkedIn, achieved using Microsoft’s Cognitive Services platform and ..."
+publishedDateTime: 2020-01-16T20:26:00Z
 webUrl: "https://venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/"
-ampWebUrl: "https://venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/amp/"
 type: article
-quality: 91
-heat: 91
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat
@@ -22,14 +20,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
-  - Natural Language Processing
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2016/04/20160325_135925-e1579206214251.jpg?fit=1200%2C600&strip=all"
-    width: 1200
-    height: 600
-    title: "LinkedIn is using AI to spot and remove inappropriate user accounts"
-
-secured: "4p4NFnQpIa+3IgVWWRM7MZR5dlKyz0kxHwKkkAUgqJogB9fG8DW5j4PMmcFNvQqOyKpmxXHkSDDA50olqYmpi1Hd+nXDa21btwBizrfSy8praPnbgmhi8SleHAfrXHD40gIlSuY8Y7pxbH9j06BOd00PR1PFyBfGHk3jt13E9MQLaQIbEB7PB5gEHlZJCmfkvWrNQvEjZWO6k9QiY1oTyozX4gTL0xOXzUNUOwZf9mjQcje4j9eZ0BwgN63d7GzWrjsQYUCW4r40qW7WHRub8fSp5bTogzskk/wwH0i3F3bNmnRfAaNJxz0Ps/nA8FoI/M/S6kvtDxsw4OX7uSZobpSWgyf2HVM3HetlMvxaWjVmUbzlURlGX1D1lnucKFdT1zdCKLGvBLvvKySni5Hhx5xexdo9xnzG5G/9cnPTpqfa65VUy+jWjaSIw88dxfVBdxrf62TcK4N/0YY50jy3bw==;/zqSYwGbSqmHyJzuohF+RA=="
+secured: "kzpslbZ8dZTl5daLdz3WbkpQiFH/xkpDTYREnS8sog3o7pSH1xMViJ+7OWwiNy3iC4RMPB4YUTkcX760xMFQw83JSIAP8psCSZsJE3AfTajZ/kUgGZ48RVEXInpzs9aPXu/aDD8S2pxZSif8Os6MxeHMpdSsKTmNu3cIuTc1m5ZE/ht0Cq4gNh04aJHmNmmqUvdw2rkTSx+TLklUXu/TMuoZsuss/ShS4nPZ8dQbhA/CjIdj13hOmsNKx6gC5QVopcrswol9o95+MDCtfm2XEalSL/+8aW/rc+oI274eWx169opx9mx+fOMShK3z2oN7;AvJNDIpczMUtR+67e46LMw=="
 ---
 

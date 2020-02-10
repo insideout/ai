@@ -79,6 +79,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Military Market Latest Advancement And New Upcoming Trends To 2029"
+    excerpt: "A recent market research analysis titled, Artificial Intelligence in Military Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence in Military market covering industry surroundings,"
+    publishedDateTime: 2020-02-10T09:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-latest-advancement-and-new-upcoming-trends-to-2029-2020-02-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "AI in Fintech Market Technological Innovation, Current and Future Huge Demand, Scope 2020-2026"
     excerpt: "QY Market Research Store has added the report titled Global AI in Fintech Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
     publishedDateTime: 2020-02-07T09:02:00Z

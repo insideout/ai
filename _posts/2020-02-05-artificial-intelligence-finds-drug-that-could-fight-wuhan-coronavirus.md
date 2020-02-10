@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T00:08:00Z
 webUrl: "https://cen.acs.org/physical-chemistry/computational-chemistry/Artificial-intelligence-finds-drug-that-could-fight-Wuhan-coronavirus/98/i6"
 type: article
 quality: 137
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -62,6 +62,19 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-01-30/9fd8b87b-e675-4089-8601-8034ae4dc9fe.jpeg"
         width: 500
         height: 300
+  - title: "Drug makers are using AI to help find an answer to the coronavirus"
+    excerpt: "Companies that use artificial intelligence to suss out molecules for potential drugs are among those looking for an answer to the coronavirus. On Tuesday, Benevolent AI published a letter in The Lancet, explaining how it found a drug that could be repurposed to fight the coronavirus using artificial intelligence. The most promising choice is a ..."
+    publishedDateTime: 2020-02-10T13:00:00Z
+    webUrl: "https://www.fastcompany.com/90461383/drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus?partner=feedburner"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
+        width: 1280
+        height: 720
 
 secured: "yLde8gLlZpdjJMwvK3pQ47F8pq9WgNHis/UnsicSTftLWtdMFptFb7xANtUM01rhdkGEfKTkhre7DyGPJ1gCDmZQ37uKcCT9Fqw3scz+OvyzzJqE5Q/H8kmcNwMHD0o5BJJPawYNmHk+hnyCeeTlsnxWSImWwF1Vr/fiiuOzelU4RrnfdS6levIOZdj2fcU7D9rBbWb+aOmeXzMQ7Ve525vvGTKXqjiDX/i/6YJmt3ESvzdGbyzYHSdBEOKDahHVS04lwHmJziY9twwPVzL9RdE+3ceGLBatVQ2tHInfjp2YIq5ci0IbYnhyxdnNzds+53uOSNxLIk2u7waCJEZNRPAJYezHTY7tCY2ZomLSmoo=;SAdky/RO04rEyqZUiulySg=="
 ---

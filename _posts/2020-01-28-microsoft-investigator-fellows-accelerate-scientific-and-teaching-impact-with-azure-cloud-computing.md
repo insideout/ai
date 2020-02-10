@@ -58,11 +58,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 14
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-0019-Edit-1-1024x803.jpg"
-        width: 1024
-        height: 803
+    quality: 0
 
 secured: "YiGWSpuqWOQmNLN5S8sBv3QmGTqFyq5WVaVg/9QZstu5/7nlAESqzTPLwhqdB1RzxAtvRCIJWAktMxWuMooUHXLft7PXSxgGSk2OAXrbaYZJB+QMsBKd9YtqtcbHjgWzGs8i7m3NQm2MSy7J0bnPOxuiRcqJQtbWgHo2CbxZAw9Vsj+b94G7AhALkaKEb4oKIwN3JMnNkgOKDUFIOPBQCaljuGYHSUGeZ4QcqnL1lb19j55rkQ48bV0zLSSaCut1NtOdulgXMNTYV1KfleHNoiENoKMtLLQgUT7h8YU+XBMCZMutoJ2i2AqFKQzTtEVf6zD4KeOgJiov2S/gWscKP54Q7riu2uaTRz5VflTWS1QfbSuNbVYaD0feNqFyO0Fj3SbhpFYVbPFwYT8DjcFSWAB/ZzFH+xus3iI8mbBJmlQ4a3kJ+ShhnaedZZav1i233IsjNIYXrBY1ZxjTJ9FHU6izIIFN9g7GEBQzYMxHgxs=;ihZmRkTr32VXa7vaKkz3Cw=="
 ---

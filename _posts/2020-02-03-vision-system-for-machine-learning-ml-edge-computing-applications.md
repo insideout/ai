@@ -24,34 +24,58 @@ images:
     title: "Vision System for Machine Learning (ML) Edge Computing Applications"
 
 related:
-  - title: "What Is Computer Vision?"
-    excerpt: "Moving on to more specialized fields, computer vision is fast becoming an indispensable tool in medicine. Deep-learning algorithms are showing impressive accuracy at analyzing medical images. Hospitals and universities are using computer vision to predict ..."
-    publishedDateTime: 2020-02-09T17:27:00Z
-    webUrl: "https://www.pcmag.com/news/what-is-computer-vision"
-    ampWebUrl: "https://www.pcmag.com/news/what-is-computer-vision?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/what-is-computer-vision?amp=true"
+  - title: "Arm unveils 2 new AI edge computing chips"
+    excerpt: "It today announced two new AI-capable processors — the Arm Cortex-M55 and Ethos-U55, a neural processing unit (NPU) — designed for internet of things (IoT) endpoint devices, alongside supporting software libraries, toolchains, and models. The company claims that the two chips, which are expected to arrive in market in early 2021 ..."
+    publishedDateTime: 2020-02-10T14:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/10/arm-unveils-2-new-ai-edge-computing-chips/"
+    ampWebUrl: "https://venturebeat.com/2020/02/10/arm-unveils-2-new-ai-edge-computing-chips/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/arm-unveils-2-new-ai-edge-computing-chips/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
     images:
-      - url: "https://i.pcmag.com/imagery/articles/061CyMCZV6G2sXUmreKHvXS-1.fit_lim.size_1200x630.v_1581020108.jpg"
-        width: 1120
-        height: 630
-  - title: "Deep learning computer system can predict weather changes"
-    excerpt: "Rice University engineers have created a deep learning computer system that taught itself to accurately predict extreme weather events, like heat waves, up to five days in advance using minimal information about current weather conditions. Ironically, Rices self-learning ‘capsule neural network’ uses an analog method of weather forecasting ..."
-    publishedDateTime: 2020-02-09T09:40:00Z
-    webUrl: "https://www.gulf-times.com/story/655435/Deep-learning-computer-system-can-predict-weather-"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/segars-2-e1580937121468.jpg?fit=1203%2C600&strip=all"
+        width: 1203
+        height: 600
+  - title: "ARM’s new edge AI chips promise IoT devices that won’t need the cloud"
+    excerpt: "Edge AI is one of the biggest trends in chip technology. These are chips that run AI processing on the edge — or, in other words, on a device without a cloud connection. Apple recently bought a company that specializes in it, Google’s Coral initiative is meant to make it easier, and chipmaker ARM has already been working on it for years."
+    publishedDateTime: 2020-02-10T14:00:00Z
+    webUrl: "https://www.theverge.com/2020/2/10/21130800/arm-new-edge-ai-chips-processing-npu-cortex-m55-u55-iot"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/10/21130800/arm-new-edge-ai-chips-processing-npu-cortex-m55-u55-iot"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/10/21130800/arm-new-edge-ai-chips-processing-npu-cortex-m55-u55-iot"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
+      name: The Verge
+      domain: theverge.com
+    quality: 104
     images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/220209123935183112931.jpg"
-        width: 620
-        height: 355
+      - url: "https://cdn.vox-cdn.com/thumbor/-rDHx30xs1UWS9j8noL2vBx-200=/0x0:814x458/1400x933/filters:focal(342x164:472x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66283236/InfographicPreview.0.0.jpg"
+        width: 814
+        height: 458
+  - title: "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices"
+    excerpt: "The microcontroller, the Cortex-M55, joins the company’s ubiquitous Cortex-M family of processor designs. Arm said the chip will provide more AI performance than any other product in the series. Cambridge, U.K.-based Arm doesn’t make any chips itself but rather sells blueprints under license to semiconductor manufacturers. The Cortex-M ..."
+    publishedDateTime: 2020-02-10T14:21:00Z
+    webUrl: "https://siliconangle.com/2020/02/10/arms-new-cortex-m55-ethos-u55-chips-promise-x480-faster-ai-iot-devices/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/arm.png"
+        width: 718
+        height: 400
+  - title: "Arm unveils AI chip for small devices"
+    excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
+    publishedDateTime: 2020-02-10T14:53:00Z
+    webUrl: "https://seekingalpha.com/news/3540046-arm-unveils-ai-chip-for-small-devices"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
 
 secured: "LrBStntAQKMJicpZxwEEm0Cvd5rXqMu3L5+BTqzceRowIBsM9N4LjjwhGK47x0f4yj4tk/Y631yMRqVc3Rbc07QnV4DNFVSAJ647I2MxJaItUzh3P/NKsB2N6Bg7yAihObdA7suhxQYAQBBnBjleu8GrqWwKX6ABnJfqQJAVSS/WQdDuRsp/cCnJguAIohOrp7TyJn+w+TfnZtzZaTZ7xHuEdh/h2LS1c3+LX6Sls7ISUUDKInxTv7fzLZzEL1xMU7S+BZFvuv9VSw/Bdaf+srqtUqKmEgMgfyigkvQno0jLeBlVHeV6vkHYzkbnMbr9qGk96hsQte7p+CsAZ/sTeV2r8u6aqI+k6PWKGk577DzWFStT5oo4UaQQIlLJdQ/OVk+HxEN/sfIDB/iUduiMjOdHvTERPeiT2GK7wu3HQhIUs+XQqvZkM/2i0xSxmTk/WYUlsIR/RYDe0DtRUhC9C/Q0lcSyjFrqqifd9mWXZfw=;9N2mWnIgiw0EjqEhHSVkYQ=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/08/how-to-rise-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/08/how-to-rise-above-the-itops-chaos-using-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -42,6 +42,17 @@ related:
       - url: "https://source.wustl.edu/wp-content/uploads/2020/02/ChaosFeature.jpg"
         width: 760
         height: 507
+  - title: "Predicting chaos using aerosols and AI"
+    excerpt: "This kind of AI is first fed information about a real-world process, then, based on that data, it creates a simulation of that process. Motivated by game theory, a generative adversarial network receives both the ground truth (real) and randomly generated data (fake) and tries to determine which is real and which is fake. This process repeats ..."
+    publishedDateTime: 2020-02-10T13:54:00Z
+    webUrl: "https://phys.org/news/2020-02-chaos-aerosols-andai.html"
+    ampWebUrl: "https://phys.org/news/2020-02-chaos-aerosols-andai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-chaos-aerosols-andai.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 37
 
 secured: "nOlUYrOY/x7ibYNqRLhp4ceO0xzwddGgLmx0C2pmG3vzAsNodU1k1LGFlzEVLnuACMw1VhXCXNAP2et6iLkMEJCJXTVPjENPggNQ2sCxjk//exE49bCKWEi7OEj68plYGj5DfAk0DJRmLAJXdO3t6meN4Bb1wTMSGKQB/sDUjEMOshrvW9nfDeWft0h2VFfp0PYyKnKYQXxSvJdWhUe/+3LVHHX8/OhvmmL7gekTzgRhmnBU3/4Xiqo3kMh4RH2+K+2FscEXm7XaddFagoFjw1rbb/HwaBltkfNfyav5gF8ILC8q2w0MVOKL9zq/PEPquPG/u58UHPlFRhB/Uw1lOqxh4hHLIe2tu4k81lk7al8NQuwMvTpu4Tq1TMkXHp+jp8Xlp64ALFV8TZun/SM6lYFUbRe641NM9ogiQRzOZM+uDesHtNio1LoY35YmAo7INu4927mTsI6KQVkXoGsM2dQOHqj2o61WvsDUs3vnck4=;qg1EOoFhIjuLy3isJYuodQ=="
 ---

@@ -2,240 +2,16 @@
   "page": 16,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-15-retailers-hope-in-store-tech-will-keep-shoppers-in-stores.md",
-      "title": "Retailers Hope In-Store Tech Will Keep Shoppers in Stores",
-      "excerpt": "Dubbed AWM Frictionless, the system includes digital shelving and object-recognition cameras that can keep track of which customers leave with which items. Customers have to do facial recognition ...",
-      "heat": 89,
+      "path": "_posts/_archive/2020-01-22-ai-startups-raised-record-266-billion-globally-in-2019.md",
+      "title": "AI startups raised record $26.6 billion globally in 2019",
+      "excerpt": "Global venture capital increased 20% in 2019, while acquisitions jumped 24.8% from the previous year. According to a new report from CB Insights, AI companies raised $26.58 billion across 2,235 deals in 2019, up from 1,940 deals the previous year that totaled $22.148 billion. The 2019 numbers included 10 rounds of more than $100 million that ...",
+      "heat": 111,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wsj.com/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202",
-      "publishedDateTime": "2020-01-15T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-144177/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Retailers Hope In-Store Tech Will Keep Shoppers in Stores",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions.md",
-      "title": "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions",
-      "excerpt": "Amazon Polly turns text into lifelike speech, which allows you to create voice-enabled applications. AWS is excited to announce the general availability of all standard voices in the Middle East (Bahrain) and Asia Pacific (Hong Kong) Regions. Customers in these Regions can now synthesize over 60 standard",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T12:32:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health.md",
-      "title": "Study: Millennial parents are more likely to consider AI for their kids' health",
-      "excerpt": "A new IEEE study shows millennial parents would embrace self-driving school busses, 3D-printed organs and AI-powered assistants. TechRepublic's Karen Roby interviewed Dr. Karen Panetta, dean of engineering at Tufts University, about the tech organization IEEE and a recent study concerning AI and healthcare. The following is an edited transcript ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "publishedDateTime": "2020-01-15T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/15/0474ddc4-0751-4943-ba45-8001b2a71c49/thumbnail/1200x675/d7a62e7ff462af441cef021bc9ac5d6c/20191212-panetta-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Study: Millennial parents are more likely to consider AI for their kids' health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-the-enterprise-ai-challenge-common-misconceptions.md",
-      "title": "The Enterprise AI Challenge: Common Misconceptions",
-      "excerpt": "The buzz about the power of AI to disrupt industries and transform businesses is not hype; it's real. Just look at what AI-powered FAANG companies have done in advertising, retail, entertainment and other industries.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/the-enterprise-ai-challenge-common-misconceptions/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/the-enterprise-ai-challenge-common-misconceptions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/the-enterprise-ai-challenge-common-misconceptions/amp/",
-      "publishedDateTime": "2020-01-15T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-20-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The Enterprise AI Challenge: Common Misconceptions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-using-azure-to-understand-azure.md",
-      "title": "Using Azure to Understand Azure",
-      "excerpt": "Azure Machine Learning (AML) is a great example. Over the years, my team has developed a portfolio of production models, spanning everything from behavioral clustering to anomaly detection.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/data-science-at-microsoft/using-azure-to-understand-azure-1c8f5dc60a0a",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/719/1*AtWm6tnTQH5QjELGerSUUg.jpeg",
-          "width": 719,
-          "height": 396,
-          "title": "Using Azure to Understand Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech.md",
-      "title": "Verbit raises $31 million for human-in-the-loop AI transcription tech",
-      "excerpt": "The voice and speech recognition tech market is anticipated to be worth $31.82 billion by 2025, driven by new applications in the banking, health care, and automotive industries. And Tom Livne ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/",
-      "publishedDateTime": "2020-01-15T09:27:00-08:00",
+      "webUrl": "https://venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/amp/",
+      "publishedDateTime": "2020-01-22T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -254,10 +30,10 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?fit=1200%2C600&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/AIStartupFunding.png?fit=1200%2C616&strip=all",
           "width": 1200,
-          "height": 600,
-          "title": "Verbit raises $31 million for human-in-the-loop AI transcription tech",
+          "height": 616,
+          "title": "AI startups raised record $26.6 billion globally in 2019",
           "attribution": null
         }
       ],
@@ -267,42 +43,35 @@
       ],
       "topics": [
         "AI",
-        "Natural Language Processing"
+        "AI in Robotics",
+        "AI Hardware"
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-15-what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020.md",
-      "title": "What are neural-symbolic AI methods and why will they dominate 2020?",
-      "excerpt": "The recent commercial AI revolution has been largely driven by deep neural networks. First invented in the 1960s, deep NNs came into their own once fueled by the combination of internet-scale datasets and distributed GPU farms. But the field of AI is much richer than just this one type of algorithm. Symbolic reasoning algorithms such ...",
-      "heat": 93,
+      "path": "_posts/_archive/2020-01-22-air-new-zealand-using-computer-vision-ai.md",
+      "title": "Air New Zealand using computer vision AI",
+      "excerpt": "Air New Zealand is trialling the latest in computer vision artificial intelligence (AI) in its search for innovative ways to continually improve aircraft turn times and better on-time performance. The new technology, made available through a partnership with leading technology start-up Assaia and alongside Auckland Airport, uses computer vision ...",
+      "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/",
-      "ampWebUrl": "https://thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/amp/",
-      "publishedDateTime": "2020-01-15T11:27:00-08:00",
+      "webUrl": "https://www.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm",
+      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm",
+      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm",
+      "publishedDateTime": "2020-01-22T12:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Scoop",
+        "domain": "scoop.co.nz",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design36-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "What are neural-symbolic AI methods and why will they dominate 2020?",
+          "url": "https://m.scoop.co.nz/stories/images/1512/smcnz.png",
+          "width": 268,
+          "height": 250,
+          "title": "Air New Zealand using computer vision AI",
           "attribution": null
         }
       ],
@@ -312,67 +81,20 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware",
-        "Machine Learning",
-        "Natural Language Processing"
+        "Computer Vision"
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-15-why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech.md",
-      "title": "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech",
-      "excerpt": "For autonomous service providers or a service provider that owns its conventional vehicles, every mile and minute incurs a cost.",
-      "heat": 78,
+      "path": "_posts/_archive/2020-01-22-at-davos-alphabets-ceo-calls-healthcare-the-major-ai-opportunity.md",
+      "title": "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity",
+      "excerpt": "shared some upbeat thoughts on how AI and healthcare could intersect. \"Cancer [is] often missed and the difference in outcome is profound,\" he said, according to Reuters. \"In lung cancer, for example, five experts agree this way and five agree the other way. We know we can use artificial intelligence to make it better.\" Two years ago at ...",
+      "heat": 134,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/",
-      "publishedDateTime": "2020-01-15T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-21-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-will-qualcomm-overtake-nvidia-in-driverless-cars.md",
-      "title": "Will Qualcomm Overtake NVIDIA in Driverless Cars?",
-      "excerpt": "Today, a growing list of companies -- including Ford, Toyota, Daimer's Mercedes-Benz, and Baidu-- have partnered with NVIDIA across various self-driving projects. NVIDIA's automotive revenue accounted for 5% of its top line last quarter. Qualcomm launched its first line of Snapdragon Automotive chipsets in early 2016. It tried to buy NXP ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx",
-      "publishedDateTime": "2020-01-15T08:15:00-08:00",
+      "webUrl": "https://www.fool.com/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx",
+      "publishedDateTime": "2020-01-22T14:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -391,10 +113,10 @@
       },
       "images": [
         {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553428%2Fimage-6-a-woman-sits-in-a-driverless-car.jpg&w=700&op=resize",
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554275%2Fgettyimages-1132912559.jpg&w=700&op=resize",
           "width": 700,
-          "height": 466,
-          "title": "Will Qualcomm Overtake NVIDIA in Driverless Cars?",
+          "height": 420,
+          "title": "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity",
           "attribution": null
         }
       ],
@@ -404,336 +126,56 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-15-zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning.md",
-      "title": "Zinier raises $90 million to embed field service work with AI and machine learning",
-      "excerpt": "Zinier’s eponymous suite delivers insights, general recommendations, and specific tasks by running operations metrics through proprietary AI and machine learning algorithms. As for ISAC, it triggers preventative actions based on equipment health while anticipating stock transfers, and it scans technicians’ calendars to help define ongoing ...",
-      "heat": 128,
+      "path": "_posts/_archive/2020-01-22-chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre-still-attracting-less-money-than-the-us.md",
+      "title": "China’s AI start-ups are closing more funding deals, yet they’re still attracting less money than the US",
+      "excerpt": "“We haven't seen many AI applications that are beyond imagination, most are used in surveillance cameras.” become a world leader in the field by 2030 . Beijing-based chip designer Horizon Robotics, for example, was one of 24 AI startups worldwide to reach unicorn status last year, joining the ranks of privately held companies valued at over ...",
+      "heat": 152,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2020-01-15T05:00:00-08:00",
+      "webUrl": "https://www.scmp.com/tech/venture-capital/article/3047161/chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre",
+      "ampWebUrl": "https://amp.scmp.com/tech/venture-capital/article/3047161/chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/venture-capital/article/3047161/chinas-ai-start-ups-are-closing-more-funding-deals-yet-theyre",
+      "publishedDateTime": "2020-01-22T10:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Mockup-1-e1578777547819.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Zinier raises $90 million to embed field service work with AI and machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries.md",
-      "title": "2020 Trending: Deep Learning AI Market to give boost to retail, healthcare, automotive, BSFI and telecom Industries",
-      "excerpt": "The Deep Learning AI marketis poised to grow at an excess of 30% CAGR during the forecast period from 2019-2023.In terms of investments in the field of artificial intelligence & deep learning, the U.S.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries-2020-01-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T20:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "2020 Trending: Deep Learning AI Market to give boost to retail, healthcare, automotive, BSFI and telecom Industries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-5-technology-trends-for-the-roaring-20s-part-2-ai-knowledge-graphs-infinity-and-beyond.md",
-      "title": "5 technology trends for the roaring 20s, part 2: AI, Knowledge Graphs, infinity and beyond",
-      "excerpt": "GraphCore, which became the first AI chip unicorn in late 2018, has recently announced its chips are now used in Microsoft Azure Cloud. Far from over, the AI chip race is only just beginning. Up until the beginning of the 2010s, the world was mostly running on relational databases and spreadsheets. To a large extent, it still does. But if the ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/5-technology-trends-for-the-roaring-20s-part-2-ai-knowledge-graphs-infinity-and-beyond/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-technology-trends-for-the-roaring-20s-part-2-ai-knowledge-graphs-infinity-and-beyond/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-technology-trends-for-the-roaring-20s-part-2-ai-knowledge-graphs-infinity-and-beyond/",
-      "publishedDateTime": "2020-01-16T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2016/09/14/9cc18f42-baa4-4abc-bd77-00a03b8e1d7e/10-google-knowledge-graph.jpg",
-          "width": 770,
-          "height": 560,
-          "title": "5 technology trends for the roaring 20s, part 2: AI, Knowledge Graphs, infinity and beyond",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Hardware",
-        "AI Ethics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-a-look-inside-augmented-analytics-and-its-business-value-in-2020.md",
-      "title": "A Look Inside Augmented Analytics And Its Business Value In 2020",
-      "excerpt": "Here's what you need to know about augmented analytics -- and how to deploy the technology to support your business development goals.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/",
-      "publishedDateTime": "2020-01-16T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x395/https://blogs-images.forbes.com/forbesbusinessdevelopmentcouncil/files/2020/01/a.jpg?width=960",
-          "width": 711,
-          "height": 395,
-          "title": "A Look Inside Augmented Analytics And Its Business Value In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-ai-and-robots-could-be-the-future-of-agriculture-strictly-robots.md",
-      "title": "AI and robots could be the future of agriculture — Strictly Robots",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/farmwise-ai-robots-farming/",
-      "ampWebUrl": "https://mashable.com/video/farmwise-ai-robots-farming.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/farmwise-ai-robots-farming.amp",
-      "publishedDateTime": "2020-01-16T13:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F16%252Ffb%252F4ce1af61f56d418791bd1943a0e241bf.d3358.png%252F1200x630.png?signature=2_OfVvw_btp4UlWKx25cVJvrcxI=",
-          "width": 1200,
-          "height": 630,
-          "title": "AI and robots could be the future of agriculture — Strictly Robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-ai-for-good-starts-with-collaboration.md",
-      "title": "AI For Good Starts With Collaboration",
-      "excerpt": "In the age of innovation, we are focused on technologies such as artificial intelligence, virtual reality, augmented reality, and more. Often the application of these technologies comes as an afterthought once the technology has been developed.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
-      "publishedDateTime": "2020-01-16T02:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/500x279/https://specials-images.forbesimg.com/imageserve/5e202a29735f8c000799f8da/960x0.jpg?fit=scale",
-          "width": 500,
-          "height": 279,
-          "title": "AI For Good Starts With Collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-ai-in-fintech-market-big-changes-to-have-big-impact.md",
-      "title": "AI in Fintech Market - Big Changes to Have Big Impact",
-      "excerpt": "Advance Market Analytics recently introduced AI in Fintech Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. AI in Fintech Market explores effective study on varied sections of Industry like opportunities,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market---big-changes-to-have-big-impact-2020-01-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T02:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Fintech Market - Big Changes to Have Big Impact",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
         "AI",
-        "AI in Finance"
+        "AI Hardware"
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-16-ai-to-data-privacy-how-hiring-tools-and-trends-will-drive-workplace-changes-in-2020.md",
-      "title": "AI To Data Privacy: How Hiring Tools And Trends Will Drive Workplace Changes In 2020",
-      "excerpt": "Tremendous shifts in the workplace are driving significant changes in recruiting and hiring as employers attempt to find qualified candidates in today’s highly competitive labor market. Here’s what employers must keep in mind in 2020.",
-      "heat": 90,
+      "path": "_posts/_archive/2020-01-22-clearview-ais-facial-recognition-app-is-a-nightmare-for-stalking-victims.md",
+      "title": "Clearview AI’s facial-recognition app is a nightmare for stalking victims",
+      "excerpt": "The latest example of Silicon Valley’s hubris is the facial-recognition app Clearview AI. The small startup’s app is so powerful that someone could walk up to you on the street, snap your photo, and quickly find out your name, address, and phone number ...",
+      "heat": 88,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/alonzomartinez/2020/01/16/ai-to-data-privacy-how-hiring-tools-and-trends-will-drive-workplace-changes-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/alonzomartinez/2020/01/16/ai-to-data-privacy-how-hiring-tools-and-trends-will-drive-workplace-changes-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alonzomartinez/2020/01/16/ai-to-data-privacy-how-hiring-tools-and-trends-will-drive-workplace-changes-in-2020/amp/",
-      "publishedDateTime": "2020-01-16T09:25:00-08:00",
+      "webUrl": "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/",
+      "ampWebUrl": "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp",
+      "publishedDateTime": "2020-01-22T09:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
         "images": [
           {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -745,226 +187,10 @@
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1193887587%2F0x0.jpg",
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg",
           "width": 1200,
-          "height": 763,
-          "title": "AI To Data Privacy: How Hiring Tools And Trends Will Drive Workplace Changes In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-allen-institute-for-ais-incubator-expands-with-10m-fund-from-high-profile-vcs.md",
-      "title": "Allen Institute for AI’s Incubator expands with $10M fund from high-profile VCs",
-      "excerpt": "Blue Canoe, for instance, does natural language processing with a focus on accent modification; Xnor.ai is working on ultra-low-power implementations of machine learning algorithms, and was just acquired yesterday by Apple for a reported $200M. Apple buys edge-based AI startup Xnor.ai for a reported $200M “We think the next generation of so ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/16/allen-institute-for-ais-incubator-expands-with-10m-fund-from-high-profile-vcs/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/16/allen-institute-for-ais-incubator-expands-with-10m-fund-from-high-profile-vcs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/16/allen-institute-for-ais-incubator-expands-with-10m-fund-from-high-profile-vcs/amp/",
-      "publishedDateTime": "2020-01-16T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/AI2-05.jpg?w=1024",
-          "width": 1024,
-          "height": 605,
-          "title": "Allen Institute for AI’s Incubator expands with $10M fund from high-profile VCs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-alphabets-google-boosts-cloud-offerings-with-appsheet-buyout.md",
-      "title": "Alphabet's Google Boosts Cloud Offerings With AppSheet Buyout",
-      "excerpt": "Alphabet ’s GOOGL division Google is on a buying spree. The company recently acquired a Seattle-based, no-code application development platform, AppSheet. The terms of the deal have not yet been disclosed.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16",
-      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16?amp",
-      "publishedDateTime": "2020-01-16T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Alphabet's Google Boosts Cloud Offerings With AppSheet Buyout",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-amazon-details-the-ai-behind-alexas-whisper-mode.md",
-      "title": "Amazon details the AI behind Alexa’s Whisper Mode",
-      "excerpt": "In October 2018, months after a brief reveal, Amazon brought Whisper Mode to select third- and first-party Alexa devices. It expanded the feature to all locales in November 2019, such that all smart and smart home appliances powered by Alexa — the company’s virtual assistant — now respond to whispered speech by whispering back. Amazon was ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/amp/",
-      "publishedDateTime": "2020-01-16T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon details the AI behind Alexa’s Whisper Mode",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-announcing-the-agenda-for-robotics-ai-march-3-at-uc-berkeley.md",
-      "title": "Announcing the agenda for Robotics + AI — March 3 at UC Berkeley",
-      "excerpt": "We’re bringing TC Sessions: Robotics + AI back to UC Berkeley on March 3, and we’re excited to announce our jam ... Student tickets are just $50 and can be purchased here. Got a startup? Book a startup exhibitor package today and demo your company in front of 1,000+ attendees. Each table comes with four attendee tickets, so you can divide ...",
-      "heat": 229,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/",
-      "publishedDateTime": "2020-01-15T16:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/header_agenda.png?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": "Announcing the agenda for Robotics + AI — March 3 at UC Berkeley",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-aoc-is-sounding-the-alarm-about-the-rise-of-facial-recognition-this-is-some-real-life-black-mirror-stuff.md",
-      "title": "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'",
-      "excerpt": "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1/",
-      "ampWebUrl": "https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1",
-      "cdnAmpWebUrl": "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1",
-      "publishedDateTime": "2020-01-15T17:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'",
+          "height": 628,
+          "title": "Clearview AI’s facial-recognition app is a nightmare for stalking victims",
           "attribution": null
         }
       ],
@@ -978,140 +204,16 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-16-apple-acquires-artificial-intelligence-company-xnoraiheres-what-that-company-is.md",
-      "title": "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is",
-      "excerpt": "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ...",
-      "heat": 66,
+      "path": "_posts/_archive/2020-01-22-cramer-i-love-the-clarity-of-vision-from-netflix-ceo-reed-hastings-on-ai-and-avoiding-ads.md",
+      "title": "Cramer: 'I love the clarity of vision' from Netflix CEO Reed Hastings on AI and avoiding ads",
+      "excerpt": "CNBC's Jim Cramer said Netflix's earnings call fostered optimism about a company he once called \"an open sore on the market.\"",
+      "heat": 76,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained",
-      "ampWebUrl": "https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained",
-      "publishedDateTime": "2020-01-16T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/twa6yTzs-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-apple-acquires-on-device-ai-startup-xnorai-for-200-million.md",
-      "title": "Apple acquires on-device AI startup Xnor.ai for $200 million",
-      "excerpt": "In brief: Apple is on a spending spree for AI startups, and the latest is a Seattle-based startup that makes on-device machine learning tools that literally sip power and cost very little to ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html",
-      "publishedDateTime": "2020-01-16T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-15-ts3_thumbs-d0f.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "Apple acquires on-device AI startup Xnor.ai for $200 million",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-apple-acquires-xnorai-leaving-wyze-cams-blind-to-people.md",
-      "title": "Apple acquires Xnor.ai leaving Wyze cams blind to people",
-      "excerpt": "It’s no that often, however, that you hear of such an acquisition causing a different company direct problems. That’s exactly the strange situation behind Apple’s reported purchase of Seattle-based startup Xnor.ai which is apparently the real reason why Wyze is losing a key feature of its smart security cameras. Although perhaps virtually ...",
-      "heat": 147,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/",
-      "ampWebUrl": "https://www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/amp/",
-      "publishedDateTime": "2020-01-15T19:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/wyze_insert_2.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "Apple acquires Xnor.ai leaving Wyze cams blind to people",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-apple-buys-an-ai-start-up-that-came-from-microsoft-co-founder-paul-allens-research-lab.md",
-      "title": "Apple buys an A.I. start-up that came from Microsoft co-founder Paul Allen's research lab",
-      "excerpt": "Apple on Wednesday confirmed that it has acquired a start-up that developed software for running artificial intelligence workloads on less-powerful devices.",
-      "heat": 65,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html",
-      "publishedDateTime": "2020-01-15T18:23:00-08:00",
+      "webUrl": "https://www.cnbc.com/2020/01/22/cramer-loves-vision-from-netflix-ceo-reed-hastings-on-ai-and-ads.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/22/cramer-loves-vision-from-netflix-ceo-reed-hastings-on-ai-and-ads.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/cramer-loves-vision-from-netflix-ceo-reed-hastings-on-ai-and-ads.html",
+      "publishedDateTime": "2020-01-22T08:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNBC",
@@ -1130,10 +232,98 @@
       },
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/103407475-GettyImages-146170267.jpg?v=1532564184",
+          "url": "https://image.cnbcfm.com/api/v1/image/106193847-1571685003084img_3993r.jpg?v=1571685072",
           "width": 3000,
-          "height": 2108,
-          "title": "Apple buys an A.I. start-up that came from Microsoft co-founder Paul Allen's research lab",
+          "height": 2000,
+          "title": "Cramer: 'I love the clarity of vision' from Netflix CEO Reed Hastings on AI and avoiding ads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-disruption-20-how-iot-and-ai-are-breaking-up-the-business-world.md",
+      "title": "Disruption 2.0: How IoT And AI Are Breaking Up The Business World",
+      "excerpt": "Once again, businesses are under attack. We are in the midst of \"Disruption 2.0,\" and this time, the attack comes from within. Previously, in the age of Disruption 1.0, startups were spearheading the battle against established businesses.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/",
+      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/",
+      "publishedDateTime": "2020-01-22T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192770754%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3500%26cropY1%3D177%26cropY2%3D2147",
+          "width": 1200,
+          "height": 676,
+          "title": "Disruption 2.0: How IoT And AI Are Breaking Up The Business World",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-exclusive-look-at-cruises-first-driverless-car-without-a-steering-wheel-or-pedals.md",
+      "title": "Exclusive look at Cruise’s first driverless car without a steering wheel or pedals",
+      "excerpt": "The hard drive, stored in the trunk and housing the vehicle’s artificial intelligence and perception software ... GM submitted a petition for permission to deploy a fully driverless Chevy Bolt in 2018, but it has yet to receive a response. And it will most likely need another exemption before the Origin is allowed to hit the road, too.",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look",
+      "publishedDateTime": "2020-01-21T17:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_Cq8RBeDpZ0BOd8CsPhQ7orclbI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66141735/vpavic_200121_3874_0010.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Exclusive look at Cruise’s first driverless car without a steering wheel or pedals",
           "attribution": null
         }
       ],
@@ -1143,20 +333,235 @@
       ],
       "topics": [
         "AI",
-        "Facebook AI"
+        "AI in Autos"
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-16-apple-buys-edge-based-ai-startup-xnorai-for-a-reported-200m.md",
-      "title": "Apple buys edge-based AI startup Xnor.ai for a reported $200M",
-      "excerpt": "Xnor.ai, spun off in 2017 from the nonprofit Allen Institute for AI (AI2), has been acquired by Apple for about $200 million. A source close to the company corroborated a report this morning from GeekWire to that effect. Apple confirmed the reports with its standard statement for this sort of quiet acquisition: “Apple buys smaller technology ...",
-      "heat": 319,
+      "path": "_posts/_archive/2020-01-22-facebook-has-trained-an-ai-to-navigate-without-needing-a-map.md",
+      "title": "Facebook has trained an AI to navigate without needing a map",
+      "excerpt": "The news: A team at Facebook AI has created a reinforcement learning algorithm that lets a robot find its way in an unfamiliar environment without using a map. Using just a depth-sensing camera ... Two billion steps and counting: Facebook trained bots for three days inside AI Habitat, a photorealistic virtual mock-up of the interior of a ...",
+      "heat": 137,
       "tags": null,
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/15/apple-buys-edge-based-ai-startup-xnor-ai-for-a-reported-200m/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/15/apple-buys-edge-based-ai-startup-xnor-ai-for-a-reported-200m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/15/apple-buys-edge-based-ai-startup-xnor-ai-for-a-reported-200m/amp/",
-      "publishedDateTime": "2020-01-15T17:07:00-08:00",
+      "webUrl": "https://www.technologyreview.com/f/615078/facebook-has-trained-an-ai-to-navigate-without-needing-a-map/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/russia-953111920.jpg?sw=1200&cx=0&cy=58&cw=1920&ch=1080",
+          "width": 1200,
+          "height": 675,
+          "title": "Facebook has trained an AI to navigate without needing a map",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-facial-recognition-technology-doesnt-have-to-destroy-privacy.md",
+      "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
+      "excerpt": "Regulation moves at a snail's pace, so it's up to CEOs, executives, and employees to reject projects that put profit over privacy. Clearview AI facial-recognition tech is just the latest example of 'innovation' that could quickly get out of hand.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy",
+      "ampWebUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
+      "publishedDateTime": "2020-01-22T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00592rlQabuAGHAibpsW8pn-1.fit_scale.size_1028x578.jpg",
+          "width": 1028,
+          "height": 578,
+          "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-five-methods-for-marketing-your-bespoke-cloud-service-to-developers.md",
+      "title": "Five Methods For Marketing Your Bespoke Cloud Service To Developers",
+      "excerpt": "By focusing on what your audience needs, you can craft a marketing approach that is just as tailored as your product. Give developers the confidence that you have something that is built just for them,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/amp/",
+      "publishedDateTime": "2020-01-22T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x515/https://specials-images.forbesimg.com/dam/imageserve/645973085/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 515,
+          "title": "Five Methods For Marketing Your Bespoke Cloud Service To Developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-github-now-uses-ai-to-recommend-open-issues-in-project-repositories.md",
+      "title": "GitHub now uses AI to recommend open issues in project repositories",
+      "excerpt": "The initial version, which launched in May 2019, surfaced recommendations based on labels applied to issues by project maintainers. But an updated release shipped last month incorporates an AI algorithm that Github says surfaces issues in about 70% of repositories recommended to users. Github says it’s the first deep-learning-enabled product ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
+      "publishedDateTime": "2020-01-22T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "GitHub now uses AI to recommend open issues in project repositories",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-gm-cruise-unveils-self-driving-electric-car-for-ride-sharing.md",
+      "title": "GM Cruise unveils self-driving electric car for ride-sharing",
+      "excerpt": "Cruise, GM’s self-driving startup, has unveiled the Cruise Origin, a new autonomous electric vehicle that will power an all-electric completely autonomous ride-sharing service. The vehicle is a result of a partnership between GM’s startup and Honda. For a few years now, GM has connected self-driving and electrification together. At first ...",
+      "heat": 344,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/",
+      "ampWebUrl": "https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/",
+      "publishedDateTime": "2020-01-21T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 470,
+          "title": "GM Cruise unveils self-driving electric car for ride-sharing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-googles-collections-feature-now-pushes-people-to-save-recipes-products-using-ai.md",
+      "title": "Google’s Collections feature now pushes people to save recipes & products, using AI",
+      "excerpt": "Google is giving an AI upgrade to its Collections feature — basically, Google’s own take on Pinterest, but built into Google Search. Originally a name given to organizing images, the Collections feature that launched in 2018 let you save for later perusal any type of search result — images, bookmarks or map locations — into groups ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/22/googles-collections-feature-now-pushes-people-to-save-recipes-products-using-a-i/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/22/googles-collections-feature-now-pushes-people-to-save-recipes-products-using-a-i/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/googles-collections-feature-now-pushes-people-to-save-recipes-products-using-a-i/amp/",
+      "publishedDateTime": "2020-01-22T15:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -1175,55 +580,10 @@
       },
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/01/ai-platforms1.png?w=1024",
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-22-at-4.09.14-PM.png?w=1024",
           "width": 1024,
-          "height": 576,
-          "title": "Apple buys edge-based AI startup Xnor.ai for a reported $200M",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-apple-reportedly-acquires-xnorai-to-boost-on-device-ai.md",
-      "title": "Apple reportedly acquires Xnor.ai to boost on-device AI",
-      "excerpt": "Did you know that, according to CEO Tim Cook, Apple acquires a company every two to three weeks? It’s just added another startup to its long line of AI acquisitions. According to a report by GeekWire, the Cupertino-based company has made a deal with Xnor.ai, an edge-based AI startup, for $200 million. What is edge-based AI, you may ask?",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/apple/2020/01/16/apple-reportedly-acquires-xnor-ai-to-boost-on-device-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/xnorai-796x482.jpg",
-          "width": 796,
-          "height": 482,
-          "title": "Apple reportedly acquires Xnor.ai to boost on-device AI",
+          "height": 984,
+          "title": "Google’s Collections feature now pushes people to save recipes & products, using AI",
           "attribution": null
         }
       ],
@@ -1236,23 +596,23 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-16-artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-361-billion-by-2025.md",
-      "title": "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025",
-      "excerpt": "Why is Artificial Intelligence disrupting the healthcare industry? The reasons Artificial Intelligence is changing healthcare are quite obvious. AI is quicker and better than human doctors ...",
-      "heat": 91,
+      "path": "_posts/_archive/2020-01-22-gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce.md",
+      "title": "GTCI: AI offers significant opportunities for emerging markets, but skills are scarce",
+      "excerpt": "Will the proliferation of AI and machine learning reinforce the worldwide digital divide? It’s one of the questions the Global Talent Competitiveness Index (GTCI) and Global Cities Talent Competitiveness Index (GCTCI) seek to answer by benchmarking the ability of countries and cities to compete for talent. An answer has historically proven ...",
+      "heat": 80,
       "tags": null,
       "type": "article",
-      "webUrl": "https://medium.com/@brand_minds/artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-36-1-billion-by-2025-1e2f70b0ca1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T00:13:00-08:00",
+      "webUrl": "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/",
+      "publishedDateTime": "2020-01-22T03:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1264,10 +624,54 @@
       },
       "images": [
         {
-          "url": "https://miro.medium.com/max/1200/1*2WDyUt2RRYDNU0_uxIE1pg.jpeg",
-          "width": 1200,
-          "height": 632,
-          "title": "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025",
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/robot-on-computer.jpg?fit=1198%2C599&strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": "GTCI: AI offers significant opportunities for emerging markets, but skills are scarce",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-how-ai-supports-and-accelerates-healthcare.md",
+      "title": "How AI Supports And Accelerates Healthcare",
+      "excerpt": "AI is currently most adept at helping to improve and accelerate workflows for researchers and healthcare professionals.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/",
+      "publishedDateTime": "2020-01-22T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x446/https://specials-images.forbesimg.com/dam/imageserve/1147479249/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 446,
+          "title": "How AI Supports And Accelerates Healthcare",
           "attribution": null
         }
       ],
@@ -1281,23 +685,23 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-16-artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020.md",
-      "title": "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020",
-      "excerpt": "HTF MI newly added the Global Artificial Intelligence Platform Market Study that gives meticulous investigation of current scenario of the Market size, share, demand, growth, trends, and forecast in the coming years.",
-      "heat": 76,
+      "path": "_posts/_archive/2020-01-22-how-bank-of-america-uses-ai-to-improve-customer-service-and-take-on-competitors.md",
+      "title": "How Bank of America uses AI to improve customer service and take on competitors",
+      "excerpt": "Indeed, most banks have a dedicated data science team and have had for some time, with AI and machine learning (ML) increasingly taking a supporting role ... Thanks to regulations such as the European Commission’s Markets in Financial Instruments Directive 2, this data is available to all of BoA’s competitors, and vice versa.",
+      "heat": 130,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020-2020-01-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T09:03:00-08:00",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp",
+      "publishedDateTime": "2020-01-22T14:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
         "images": [
           {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1309,142 +713,10 @@
       },
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-artist-refik-anadol-turns-data-into-art-with-help-from-ai.md",
-      "title": "Artist Refik Anadol Turns Data Into Art, With Help From AI",
-      "excerpt": "The results, shown on giant screens or projected onto walls or entire buildings, use data points in a kind of AI pointillism. Anadol explains his creative process in a new WIRED video. It features works including Machine Hallucination, a 360-degree video installation made from 10 million photos of New York. Anadol used machine learning to group ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/",
-      "ampWebUrl": "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp",
-      "publishedDateTime": "2020-01-16T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e1f7e0294f53e000834150c/master/pass/Biz-AnadolInstall-DSC06728.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Artist Refik Anadol Turns Data Into Art, With Help From AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-can-ai-save-our-oceans-lets-start-with-the-data.md",
-      "title": "Can AI Save Our Oceans? Let’s Start With The Data.",
-      "excerpt": "Coral is the ocean’s life system and without it, we will soon also have an ocean without life. In spite of the terrible news, there are some glimmers of light and hope spots that we can point to, especially in the areas of AI for the benefit of the ocean. This will be the first in a series of articles that puts a spotlight on the top ...",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/swlh/can-ai-save-our-oceans-lets-start-with-the-data-ccd0dc91f302",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1920/0*Vm-4leo8UaKkERJE.jpg",
-          "width": 960,
-          "height": 540,
-          "title": "Can AI Save Our Oceans? Let’s Start With The Data.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast.md",
-      "title": "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast",
-      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
-      "heat": 63,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast-2020-01-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast",
+          "url": "https://media.itpro.co.uk/image/upload/v1579733058/itpro/BoA_Erica_AI.png",
+          "width": 2173,
+          "height": 1082,
+          "title": "How Bank of America uses AI to improve customer service and take on competitors",
           "attribution": null
         }
       ],
@@ -1454,20 +726,20 @@
       ],
       "topics": [
         "AI",
-        "Natural Language Processing"
+        "AI in Finance"
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-16-cornerstone-acquires-clustree-for-its-ai-powered-skills-engine.md",
-      "title": "Cornerstone acquires Clustree for its AI-powered skills engine",
-      "excerpt": "Cornerstone On Demand, which makes human capital management (HCM) software, on Thursday announced it is acquiring Clustree, a French technology company with an AI-powered skills engine and an extensive skills ontology. Cornerstone is paying $18.5 million in all cash, and the deal is expected to close this quarter. Cornerstone plans to ...",
-      "heat": 67,
+      "path": "_posts/_archive/2020-01-22-how-machine-learning-is-helping-credit-karma-reintroduce-itself-to-users.md",
+      "title": "How machine learning is helping Credit Karma reintroduce itself to users",
+      "excerpt": "But it's only recently that the company is turning to machine learning to make sense of hundreds of billions of data points and deliver personalized insights and recommendations to individual members at scale. When it launched in 2008 at the height of the financial crisis, Credit Karma's primary service leveraged credit report data to help ...",
+      "heat": 73,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
-      "publishedDateTime": "2020-01-16T13:25:00-08:00",
+      "webUrl": "https://www.zdnet.com/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
+      "publishedDateTime": "2020-01-22T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1475,6 +747,257 @@
         "images": [
           {
             "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/07/26/04dbf63a-2aa4-480b-ad61-5d857987ba31/thumbnail/1200x675/8929444376cb1c585bcdc20bc3026ca3/creditkarmathumbnail.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "How machine learning is helping Credit Karma reintroduce itself to users",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-how-machine-learning-uncovers-opportunities-for-business-optimization.md",
+      "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
+      "excerpt": "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
+      "publishedDateTime": "2020-01-22T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 494,
+          "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-ibm-announces-partnership-with-williams-ai-startup-at-davos.md",
+      "title": "IBM announces partnership with will.i.am's AI startup at Davos",
+      "excerpt": "will.i.am's tech company, I.AM+, and IBM have created a global partnership to ensure enterprise-level security for customer data as AI adoption speeds up and pushes further into the mainstream. Human-like conversational experiences are at the forefront of I.AM's Omega AI platform, and speed and security are priorities for its worldwide ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibm-announces-partnership-with-will-i-ams-ai-startup-at-davos/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-announces-partnership-with-will-i-ams-ai-startup-at-davos/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-announces-partnership-with-will-i-ams-ai-startup-at-davos/",
+      "publishedDateTime": "2020-01-21T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/01/13/3c7764b3-0c4d-4013-852c-47a48205a2b6/thumbnail/1200x675/dd4e6645aefafbe56471a7db5ec4cde2/20200113-ibm-jamie-teena.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM announces partnership with will.i.am's AI startup at Davos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-ibm-chief-calls-for-precision-regulation-on-ai-that-weighs-privacy-against-benefits-to-society.md",
+      "title": "IBM chief calls for 'precision regulation' on AI that weighs privacy against benefits to society",
+      "excerpt": "\"You want to have innovation flourish and you've got to balance that with security,\" IBM CEO Ginni Rometty said in a CNBC interview from Davos.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
+      "publishedDateTime": "2020-01-22T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106348968-1579704741780dp40l17y.jpg?v=1579704990",
+          "width": 5424,
+          "height": 3724,
+          "title": "IBM chief calls for 'precision regulation' on AI that weighs privacy against benefits to society",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-making-siri-smarter-is-that-why-apple-bought-xnorai-9to5mac.md",
+      "title": "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac",
+      "excerpt": "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ...",
+      "heat": 159,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/",
+      "ampWebUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/",
+      "publishedDateTime": "2020-01-21T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-oakland-startup-nets-221m-to-build-out-whats-no-longer-science-fiction.md",
+      "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
+      "excerpt": "When Sean Byrnes started his automated data analytics company, Outlier, in 2015 the idea of using artificial intelligence to boil down the massive amounts of data businesses collect into a few valuable insights sounded like science fiction.",
+      "heat": 140,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.html",
+      "ampWebUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.amp.html",
+      "publishedDateTime": "2020-01-22T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11585539/sean-byrnes-horizontal*600xx3917-2620-288-433.jpg",
+          "width": 600,
+          "height": 401,
+          "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-octi-launches-a-social-network-built-around-augmented-reality.md",
+      "title": "Octi launches a social network built around augmented reality",
+      "excerpt": "Octi has created a new social network that uses augmented reality to connect the act of seeing your friends in real life with ... Ultimately, he’s hoping to turn this into a WeChat-style platform for outside developers to build social tools and content. And because Octi works on iPhone 7 and above (with plans for an Android version later ...",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/22/octi-social-network-launch/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1494,580 +1017,258 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-16-creating-a-more-accessible-world-with-azure-ai.md",
-      "title": "Creating a more accessible world with Azure AI",
-      "excerpt": "At Microsoft, we are inspired by how artificial intelligence is transforming organizations of all sizes, empowering them to reimagine what’s possible. AI has immense potential to unlock solutions to some of society’s most pressing challenges. One challenge is that according to the World Health Association,",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/creating-a-more-accessible-world-with-azure-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T00:00:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e79a07b9-c903-4f16-8e4f-ee19d7dfdf0d.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Creating a more accessible world with Azure AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-democratizing-the-optimization-of-ais-arcane-neural-networks.md",
-      "title": "Democratizing the optimization of AI’s arcane neural networks",
-      "excerpt": "We’re only a few weeks into the new year, but already we’re seeing signs that automated machine learning modeling, sometimes known as autoML, is rising to a new plateau of sophistication. Specifically, it appears that a promising autoML approach known as “neural architecture search” will soon become part of data scientists’ core toolkits.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3514568/democratizing-the-optimization-of-ais-arcane-neural-networks.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T04:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/08/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-957654482_1200x800-100767998-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Democratizing the optimization of AI’s arcane neural networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-dewo-uses-ai-to-minimize-digital-distractions.md",
-      "title": "Dewo uses AI to minimize digital distractions",
-      "excerpt": "A productivity-tracking tool that taps AI to create up-to-the-minute time sheets on employees’ behalves, Timely quickly found success, racking up thousands of paying customers across over 160 countries and attracting the attention of investors like Concentric, Investinor, 500 Startups, and SNÖ Ventures. (Memory raised $5 million in an ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/amp/",
-      "publishedDateTime": "2020-01-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/2d083e56-d88b-4bd4-a29b-3fdf6cb8c495-e1579106323862.png?fit=1202%2C598&strip=all",
-          "width": 1202,
-          "height": 598,
-          "title": "Dewo uses AI to minimize digital distractions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-dont-want-a-robot-stealing-your-job-take-a-course-on-ai-and-machine-learning.md",
-      "title": "Don't want a robot stealing your job? Take a course on AI and machine learning.",
-      "excerpt": "TL;DR: Jump into the world of AI with the Essential AI and Machine Learning Certification Training Bundle for $39.99, a 93% savings. From facial recognition to self-driving vehicles, machine learning is taking over modern life as we know it. It may not be the flying cars and world-dominating robots we envisioned 2020 would hold, but it's ...",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle/",
-      "ampWebUrl": "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp",
-      "publishedDateTime": "2020-01-16T11:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F16%252Ff8%252Fd507fcc0136c43698089928d54f4e01c.9f182.jpg%252F1200x630.jpg?signature=OfjGlytH34ga9iy1BfOWSJ8VERQ=",
-          "width": 1200,
-          "height": 630,
-          "title": "Don't want a robot stealing your job? Take a course on AI and machine learning.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics",
-        "Google AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.md",
-      "title": "EU mulls 5-year ban on facial recognition tech in public areas",
-      "excerpt": "BRUSSELS, Jan 16 (Reuters) - The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems ...",
-      "heat": 419,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html",
-      "publishedDateTime": "2020-01-16T12:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
-          "width": 1200,
-          "height": 630,
-          "title": "EU mulls 5-year ban on facial recognition tech in public areas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas.md",
-      "title": "EU mulls five-year ban on facial recognition tech in public areas",
-      "excerpt": "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters.",
-      "heat": 429,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL?feedType=RSS&feedName=technologyNews",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL",
-      "publishedDateTime": "2020-01-16T13:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "EU mulls five-year ban on facial recognition tech in public areas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-exclusive-apple-acquires-xnorai-edge-ai-spin-out-from-paul-allens-ai2-for-price-in-200m-range.md",
-      "title": "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range",
-      "excerpt": "The workforce count is now reportedly upwards of 70 people. Xnor machine learning engineer Hessam Bagherinezhad, hardware engineer Saman Nderiparizi and CXO Ali Farhadi show off a chip that can use solar-powered AI to detect people. (GeekWire Photo / Alan Boyle) The ups and downs of the Wyze Labs deal provided the first hints that something big ...",
-      "heat": 285,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/",
-      "ampWebUrl": "https://www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/amp/",
-      "publishedDateTime": "2020-01-15T16:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/05/180506-xnor-630x354.jpg",
-          "width": 630,
-          "height": 354,
-          "title": "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
-      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "publishedDateTime": "2020-01-15T17:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
-          "width": 640,
-          "height": 358,
-          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-facial-recognition-scanners-are-coming-to-philadelphias-airport-starting-tuesday.md",
-      "title": "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday",
-      "excerpt": "Facial-recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only non-citizens are required to be scanned.",
-      "heat": 194,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html",
-      "ampWebUrl": "https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp",
-      "publishedDateTime": "2020-01-16T02:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philadelphia Inquirer",
-        "domain": "inquirer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg",
-          "width": 1200,
-          "height": 908,
-          "title": "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say.md",
-      "title": "Facial recognition's accuracy is the least of our worries, lawmakers say",
-      "excerpt": "One of the issues with facial recognition today is its high error rates with people of color and women. But lawmakers on Wednesday pointed to a broader concern as well: Facial recognition's effects on civil liberties and privacy. At the House Oversight Committee's third hearing on facial recognition, members of Congress looked to address the ...",
-      "heat": 138,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/",
-      "publishedDateTime": "2020-01-15T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/H6AUA_n2v1b3OwxJS1xtij9rQtg=/756x567/2020/01/15/727e8cd0-4aa7-4ebb-b416-cb1ccbf3c7b7/gettyimages-1198303844.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Facial recognition's accuracy is the least of our worries, lawmakers say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-googles-ai-language-model-reformer-can-process-the-entirety-of-novels.md",
-      "title": "Google’s AI language model Reformer can process the entirety of novels",
-      "excerpt": "We believe Reformer gives the basis for future use of Transformer models, both for long text and applications outside of natural language processing,” added Kaiser and Kitaev. In an interview late last year, Google AI chief Jeff Dean told VentureBeat that larger context would be a principal focus of Google’s work going forward.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/amp/",
-      "publishedDateTime": "2020-01-16T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AI language model Reformer can process the entirety of novels",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-healthcare-ai-firm-hiring-considering-ma-after-150m-raise.md",
-      "title": "Healthcare AI firm hiring, considering M&A after $150M raise",
-      "excerpt": "A healthcare AI company founded by a billionaire investor plans to substantially grow its team and potentially make some acquisitions after raising $150 million.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/boston/news/2020/01/16/healthcare-ai-firm-hiring-considering-m-a-after.html",
-      "ampWebUrl": "https://www.bizjournals.com/boston/news/2020/01/16/healthcare-ai-firm-hiring-considering-m-a-after.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/01/16/healthcare-ai-firm-hiring-considering-m-a-after.amp.html",
-      "publishedDateTime": "2020-01-16T03:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11580528/jeffelton-photo-2018*600xx2832-1892-0-905.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Healthcare AI firm hiring, considering M&A after $150M raise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-heres-why-apple-paid-200-million-for-an-ai-startup.md",
-      "title": "Here's Why Apple Paid $200 Million for an AI Startup",
-      "excerpt": "Apple has reportedly acquired AI start-up Xnor.ai for about $200 million, according to a report from GeekWire, citing \"sources with knowledge of the deal.\" Xnor specializes in developing complex ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/16/why-apple-paid-200-million-for-ai-startup.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/16/why-apple-paid-200-million-for-ai-startup.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/16/why-apple-paid-200-million-for-ai-startup.aspx",
-      "publishedDateTime": "2020-01-16T12:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553780%2Fa-circuit-board-with-a-chip-labeled-ai-at-the-center.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": "Here's Why Apple Paid $200 Million for an AI Startup",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-how-ai-technology-will-change-the-way-we-treat-advertising-in-2020.md",
-      "title": "How AI Technology Will Change The Way We Treat Advertising In 2020",
-      "excerpt": "Very soon, marketing personalization strategies will largely depend on smart automation technologies to make each customer part of a fascinating branding experience.",
+      "path": "_posts/_archive/2020-01-22-pathfactory-and-6sense-join-forces-to-equip-abm-marketers-with-unrivalled-dataset.md",
+      "title": "PathFactory and 6sense Join Forces To Equip ABM Marketers With Unrivalled Dataset",
+      "excerpt": "TORONTO, Jan. 22, 2020 /PRNewswire-PRWeb/ -- PathFactory (the leader in content intelligence) announced a partnership today with 6sense (the leading Account Based Orchestration Platform, powered by AI) that will give marketers complete visibility into the quality of account engagement,",
       "heat": 117,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/",
-      "publishedDateTime": "2020-01-16T10:27:00-08:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/01/n15163274/pathfactory-and-6sense-join-forces-to-equip-abm-marketers-with-unrivalled-dataset",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15163274",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15163274",
+      "publishedDateTime": "2020-01-22T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-researchers-use-ai-to-deblur-human-faces-in-photos.md",
+      "title": "Researchers use AI to deblur human faces in photos",
+      "excerpt": "In search of a solution, scientists at the Inception Institue of Artificial Intelligence in the United Arab Emirates, the Beijing Institute of Technology, and Stony Brook University developed an AI system that removes blur from images in post-production. They note in a paper that it’s human-aware, meaning it’s able to deblur human faces ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/",
+      "publishedDateTime": "2020-01-22T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/7ec55bc5-ac3d-48a4-8a26-82fe8db7356a-e1579715708955.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers use AI to deblur human faces in photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-robot-burns-poems-created-by-artificial-intelligence.md",
+      "title": "‘Robot Burns’ poems created by artificial intelligence",
+      "excerpt": "But now a student at the University of Glasgow has used a “Robot Burns” artificial intelligence (AI) poem generator programme to create almost “instant works” by Robert Burns, in honour of a fellow student, Chris, who took his own life on Burns Day, on 25 January 2016. Perry Gibson, who is studying for a PhD in computing science ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792",
+      "ampWebUrl": "https://www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792/amp",
+      "cdnAmpWebUrl": "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792/amp",
+      "publishedDateTime": "2020-01-21T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Scotsman",
+        "domain": "scotsman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images-e.jpimedia.uk/imagefetch/w_620,f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5078791.1579641847!/image/image.jpg",
+          "width": 620,
+          "height": 413,
+          "title": "‘Robot Burns’ poems created by artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-servicenow-acquires-loom-systems-to-expand-aiops-coverage.md",
+      "title": "ServiceNow acquires Loom Systems to expand AIOps coverage",
+      "excerpt": "ServiceNow announced today that it has acquired Loom Systems ... reduce L1 incidents,” he told TechCrunch. Loom co-founder and CEO Gabby Menachem not surprisingly sees a similar value proposition. “By joining forces, we have the unique opportunity to bring together our AI innovations and ServiceNow’s AIOps capabilities to help customers ...",
+      "heat": 267,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/22/servicenow-acquires-loom-systems-to-expand-aiops-coverage/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/22/servicenow-acquires-loom-systems-to-expand-aiops-coverage/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/servicenow-acquires-loom-systems-to-expand-aiops-coverage/amp/",
+      "publishedDateTime": "2020-01-22T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1173020463.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "ServiceNow acquires Loom Systems to expand AIOps coverage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust.md",
+      "title": "Singapore releases latest AI Framework edition to improve governance and trust",
+      "excerpt": "Almost a year to the day since the Singapore government released its first edition of the Model AI Governance Framework, a second edition has been announced at the 2020 World Economic Forum (WEF), aimed at improving consumer trust on the use and governance of artificial intelligence (AI). The updated version [PDF] of the Model AI Governance ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/",
+      "publishedDateTime": "2020-01-21T20:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/01/22/0d371627-35ec-44a9-83fe-7238305ce185/singapore-model-ai-governance-framework-second-edition-compendium-of-use-cases-pdf1.png",
+          "width": 913,
+          "height": 582,
+          "title": "Singapore releases latest AI Framework edition to improve governance and trust",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better.md",
+      "title": "Tech in the classroom? Microsoft says AI and VR could help future students focus better",
+      "excerpt": "while AI-powered speech recognition and translation tools let students hear what is being said in their native language. Anthony Salcito, the vice president of Microsoft Education, said at the conference: \"We need to recognize the need to embrace a hybrid intelligence to be able to achieve more. With new technology, we will have to think ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better/",
+      "publishedDateTime": "2020-01-22T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/02/40cd7c2c-f3c9-4ab1-a8e0-7e2ad0a0e566/thumbnail/1200x675/8af153799adc1462f393ed4bae80a6bf/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Tech in the classroom? Microsoft says AI and VR could help future students focus better",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-the-changing-face-of-the-cashier.md",
+      "title": "The Changing Face Of The Cashier",
+      "excerpt": "Convenience is king, and today's consumers are demanding a frictionless, omnichannel in-store experience that is personalized and efficient.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/the-changing-face-of-the-cashier/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/the-changing-face-of-the-cashier/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/the-changing-face-of-the-cashier/amp/",
+      "publishedDateTime": "2020-01-22T04:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -2086,10 +1287,55 @@
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/973718316/960x0.jpg?fit=scale",
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1152642020/960x0.jpg?fit=scale",
           "width": 711,
           "height": 474,
-          "title": "How AI Technology Will Change The Way We Treat Advertising In 2020",
+          "title": "The Changing Face Of The Cashier",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-theres-nowhere-to-hide-anymore-this-ai-can-see-around-corners.md",
+      "title": "There's nowhere to hide anymore: This AI can see around corners",
+      "excerpt": "Hiding behind a wall might not be practical for much longer thanks to new technology that uses artificial intelligence to see and even read around corners. A team of researchers from Princeton, Stanford, Rice and Southern Methodist universities devised a system that uses powerful lasers similar to a laser pointer. The beam is bounced off a ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/",
+      "publishedDateTime": "2020-01-21T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/exUfnlVhyXneSn2qZmf2J9UfJ-k=/756x567/2020/01/09/e0e4d486-f8d6-46bd-b260-426ee82d8d3f/rs-show-ces-2020-sld-laser-lights-holdingstill.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "There's nowhere to hide anymore: This AI can see around corners",
           "attribution": null
         }
       ],
@@ -2102,16 +1348,151 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-16-how-deepmind-is-unlocking-the-secrets-of-dopamine-and-protein-folding-with-ai.md",
-      "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
-      "excerpt": "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition ...",
-      "heat": 111,
+      "path": "_posts/_archive/2020-01-22-top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook.md",
+      "title": "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook",
+      "excerpt": "The Global AI Technology Market Research Report Forecast 2020-2023 is a valuable source of insightful data for business strategists. It provides the AI Technology overview with growth analysis and historical & futuristic cost,",
+      "heat": 92,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/",
-      "publishedDateTime": "2020-01-15T16:23:00-08:00",
+      "webUrl": "https://www.marketwatch.com/press-release/top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook-2020-01-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T01:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-what-are-important-ai-machine-learning-trends-for-2020.md",
+      "title": "What are Important AI & Machine Learning Trends for 2020?",
+      "excerpt": "To help you stay well prepared for 2020, we’ve summarized the latest trends across different research areas, including natural language processing, conversational AI, computer vision, and reinforcement learning.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/",
+      "publishedDateTime": "2020-01-22T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e287240a854780006af35ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
+          "width": 1200,
+          "height": 675,
+          "title": "What are Important AI & Machine Learning Trends for 2020?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-what-you-need-to-know-about-ai-in-2020.md",
+      "title": "What You Need To Know About AI In 2020",
+      "excerpt": "In 2017, when I wrote about the preconditions for AI to flourish, the adoption of AI was just beginning. Now, IDC is predicting that by 2025, at least 90% of new enterprise applications will embed AI and \"over 50% of user interface interactions will use AI-enabled computer vision,",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/amp/",
+      "publishedDateTime": "2020-01-22T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F545163577%2F0x0.jpg%3Ffit%3Dscale",
+          "width": 1200,
+          "height": 776,
+          "title": "What You Need To Know About AI In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-22-why-the-hybrid-ai-compromise-isnt-a-solution-at-all.md",
+      "title": "Why the hybrid AI compromise isn’t a solution at all",
+      "excerpt": "In recent years, AI has emerged as an undisputed competitive advantage, which means smart business leaders facing the digital transformation have some really familiar questions: How do you measure success? What questions do you need to ask to ensure that you’re making the right decisions right out of the gate? And most importantly ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/why-the-hybrid-ai-compromise-isnt-a-solution-at-all/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/why-the-hybrid-ai-compromise-isnt-a-solution-at-all/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/why-the-hybrid-ai-compromise-isnt-a-solution-at-all/amp/",
+      "publishedDateTime": "2020-01-22T04:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -2130,10 +1511,134 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-172856538.jpg?fit=3398%2C1704&strip=all",
+          "width": 3398,
+          "height": 1704,
+          "title": "Why the hybrid AI compromise isn’t a solution at all",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-a-beginners-guide-to-the-ai-apocalypse-wall-e-syndrome.md",
+      "title": "A beginner’s guide to the AI apocalypse: Wall-E syndrome",
+      "excerpt": "Without our current AI – Google Search and Amazon Alexa, and so on – we might start to feel a little unwise or uneducated. “Google it” has forever changed our society. But does that mean ...",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/23/a-beginners-guide-to-the-ai-apocalypse-wall-e-syndrome/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-23T13:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/walle-796x365.jpg",
+          "width": 796,
+          "height": 365,
+          "title": "A beginner’s guide to the AI apocalypse: Wall-E syndrome",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-accelerating-learning-through-ai-at-cerego-and-techstyle.md",
+      "title": "Accelerating Learning Through AI At Cerego And TechStyle",
+      "excerpt": "Cerego, an AI-based learning management system, helps fashion retailer TechStyle accelerate learning for call center agents.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/",
+      "publishedDateTime": "2020-01-23T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in.md",
+      "title": "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in",
+      "excerpt": "According to Gartner, artificial intelligence is still in the early phases of the hype cycle. Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for mainstream adoption, manufacturing leaders are already stuck in a ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/",
+      "publishedDateTime": "2020-01-23T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/12/04/70d05d50-7fdc-4611-acee-d1c6867906c0/thumbnail/1200x675/075730befe930c61f707faeac9381bfe/20191125-veronica-karen.jpg",
           "width": 1200,
-          "height": 600,
-          "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
+          "height": 675,
+          "title": "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in",
           "attribution": null
         }
       ],
@@ -2143,34 +1648,256 @@
       ],
       "topics": [
         "AI",
-        "Google AI"
+        "AI Hardware"
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-16-how-nigeria-can-earn-forex-from-robotics-ai-expert-politics-nairaland.md",
-      "title": "How Nigeria Can Earn Forex From Robotics, AI ― Expert - Politics - Nairaland",
-      "excerpt": "Training Nigeria’s youth in robotics and artificial intelligence (AI) will eventually give Nigeria forex earnings. This is because companies in the Western world have a demand for affordable robotics and AI products and Nigeria is in a good position to provide such. This is the position of Dr Olusola Ayoola, a robotics and AI expert ...",
-      "heat": 66,
+      "path": "_posts/_archive/2020-01-23-ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo.md",
+      "title": "AI Startup Eightfold Hires First Finance Chief As it Eyes Expansion, Potential IPO",
+      "excerpt": "The Mountain View, Calif.-based startup last week named Celia Poon as its finance chief.",
+      "heat": 181,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nairaland.com/5635671/how-nigeria-earn-forex-robotics",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T15:36:00-08:00",
+      "webUrl": "https://www.wsj.com/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520",
+      "publishedDateTime": "2020-01-22T19:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nairaland",
-        "domain": "nairaland.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-146435/social",
+          "width": 1280,
+          "height": 640,
+          "title": "AI Startup Eightfold Hires First Finance Chief As it Eyes Expansion, Potential IPO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing.md",
+      "title": "Amazon explores a way to preserve privacy in natural language processing",
+      "excerpt": "The team analyzed the privacy implications of different choices of epsilon value in the context of natural language processing, where word embeddings — mappings from the space of words into a vector (i.e., the space of real numbers) — often depend on the frequency with which words co-occur with each other. This presents a challenge where ...",
+      "heat": 188,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/",
+      "publishedDateTime": "2020-01-23T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon explores a way to preserve privacy in natural language processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-apple-is-quietly-expanding-its-artificial-intelligence-ecosystem.md",
+      "title": "Apple is Quietly Expanding its Artificial Intelligence Ecosystem",
+      "excerpt": "Apple (NASDAQ:AAPL) recently acquired Xnor.ai, a Seattle-based start-up that develops low-power, edge-based artificial intelligence tools. Apple didn't disclose the terms of the deal, but GeekWire claimed that the deal was worth about $200 million. Apple reportedly paid a similar amount for Turi, another Seattle-based company that specializes ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx",
+      "publishedDateTime": "2020-01-23T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554243%2Fgettyimages-1037156090.jpg&w=700&op=resize",
+          "width": 700,
+          "height": 466,
+          "title": "Apple is Quietly Expanding its Artificial Intelligence Ecosystem",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-babylon-health-is-building-an-integrated-ai-based-health-app-to-serve-a-city-of-300k-in-england.md",
+      "title": "Babylon Health is building an integrated, AI-based health app to serve a city of 300K in England",
+      "excerpt": "After announcing a $550 million fundraise last August, U.K. AI-based health services startup Babylon Health is putting some of that money to use with its widest-ranging project to date. The company has inked a 10-year deal with the city of Wolverhampton in England to provide an integrated health app covering 300,000 people, the entire ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/22/babylon-health-is-building-an-integrated-ai-based-health-app-to-serve-a-city-of-300k-in-england/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/22/babylon-health-is-building-an-integrated-ai-based-health-app-to-serve-a-city-of-300k-in-england/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/babylon-health-is-building-an-integrated-ai-based-health-app-to-serve-a-city-of-300k-in-england/amp/",
+      "publishedDateTime": "2020-01-22T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-187137135.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Babylon Health is building an integrated, AI-based health app to serve a city of 300K in England",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-bjork-and-an-ai-collaborated-on-an-eerie-soundtrack-for-a-hotel-lobby.md",
+      "title": "Bjork and an AI collaborated on an eerie soundtrack for a hotel lobby",
+      "excerpt": "But of course, it's not supernatural. It's Microsoft's AI at work, using feedback from a camera installed on the hotel's roof to determine which of Bjork's selected works to play. Kórsafn translates to \"choral archives,\" and fittingly it features snippets drawn from the musician's favorite arrangements of her career, performed by Iceland's ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/",
+      "publishedDateTime": "2020-01-23T11:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1283%252C855%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1066%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F9f340d60-3e17-11ea-b7ee-921f199d781e%26client%3Da1acac3e1b3290917d92%26signature%3D254e091e559ab3eaf5f4923ed1197a20bb1b3a95&client=amp-blogside-v2&signature=ce88369268ff40ee32d9a7d6cc9648bb3bd4f20a",
+          "width": 600,
+          "height": 350,
+          "title": "Bjork and an AI collaborated on an eerie soundtrack for a hotel lobby",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-california-robotics-company-sues-business-partner-over-ai-ocean-vehicle.md",
+      "title": "California Robotics Company Sues Business Partner Over AI Ocean Vehicle",
+      "excerpt": "Los Angeles County robotics company Apium sued a maritime vehicles manufacturer for breach of contract and trade secret misappropriation in federal court Wednesday. Apium partnered with Aquabotix Technology Corp. in the competitive and fast-moving artificial intelligence space to develop robots that could swarm in the ocean, according to a ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.law.com/therecorder/2020/01/22/california-robotics-company-sues-business-partner-over-ai-ocean-vehicle/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://331746-1018445-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/01/Ayoola-Olusola-1.jpg",
-          "width": 350,
-          "height": 419,
-          "title": "How Nigeria Can Earn Forex From Robotics, AI ― Expert - Politics - Nairaland",
+          "url": "https://images.law.com/contrib/content/uploads/sites/403/2020/01/APIUM-Swarm-Robotics-Article-202001222322.jpg",
+          "width": 620,
+          "height": 372,
+          "title": "California Robotics Company Sues Business Partner Over AI Ocean Vehicle",
           "attribution": null
         }
       ],
@@ -2181,6 +1908,215 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-can-ai-drive-education-forward.md",
+      "title": "Can AI Drive Education Forward?",
+      "excerpt": "Teachers are asked to incorporate more technology in the classroom but they are not necessarily given the time to learn and make the most out of it.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/",
+      "ampWebUrl": "https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/",
+      "publishedDateTime": "2020-01-23T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049273190%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Can AI Drive Education Forward?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-can-artificial-intelligence-be-used-to-diagnose-brain-aneurysms.md",
+      "title": "Can Artificial Intelligence be used to Diagnose Brain Aneurysms?",
+      "excerpt": "A recent study published in JAMA Netw Open by Park and colleagues from Stanford University set out to investigate whether augmenting CT scan angiogram data with Artificial Intelligence (AI) deep learning models improved the diagnosis rates for patients with aneurysms. Over 9000 CT scan angiograms performed at Stanford University Medical center ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/health/Can-Artificial-Intelligence-be-used-to-Diagnose-Brain-Aneurysms.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/health/Can-Artificial-Intelligence-be-used-to-Diagnose-Brain-Aneurysms.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/health/Can-Artificial-Intelligence-be-used-to-Diagnose-Brain-Aneurysms.aspx",
+      "publishedDateTime": "2020-01-23T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_795315856_cbabc9b5539d4423beb8578dae2344fa-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Can Artificial Intelligence be used to Diagnose Brain Aneurysms?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-career-consultants-help-job-seekers-beat-ai-robot-interviews.md",
+      "title": "Career consultants help job seekers beat AI robot interviews",
+      "excerpt": "In order to give everyone a fair try, we need a system that’s less biased. With the cool, calculating depictions of artificial intelligence in modern media, it’s tempting to say that AI could help us solve our resume screening woes. After all, nothing says unbiased like a machine…right? Wrong. I mean, if you need an example of what can go ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theamericangenius.com/tech-news/career-consultants-help-job-seekers-beat-ai-robot-interviews/",
+      "ampWebUrl": "https://theamericangenius.com/tech-news/career-consultants-help-job-seekers-beat-ai-robot-interviews/amp/",
+      "cdnAmpWebUrl": "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/tech-news/career-consultants-help-job-seekers-beat-ai-robot-interviews/amp/",
+      "publishedDateTime": "2020-01-23T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Genius",
+        "domain": "theamericangenius.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://theamericangenius.com/wp-content/uploads/2020/01/franck-v-JjGXjESMxOY-unsplash-1-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "Career consultants help job seekers beat AI robot interviews",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-clearview-facial-recognition-app-may-pose-chilling-privacy-risk-senator-says.md",
+      "title": "Clearview facial recognition app may pose 'chilling' privacy risk, senator says",
+      "excerpt": "Democratic Sen. Edward Markey of Massachusetts issued an open letter Thursday demanding answers from the creator of a controversial facial recognition app used by US law enforcement. The letter to Clearview AI CEO Hoan Ton-That follows a New York Times investigation into the software company and its app, which can identify people by comparing ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/senator-demands-answers-from-clearview-ai/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/",
+      "publishedDateTime": "2020-01-23T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/IxXdPYP12dIlVU2KQR_njg7CUPU=/756x567/2020/01/23/ee631f2b-5f68-46ed-bf92-8888b7960bee/markey-getty.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview facial recognition app may pose 'chilling' privacy risk, senator says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud.md",
+      "title": "Cortex Labs helps data scientists deploy machine learning models in the cloud",
+      "excerpt": "It’s one thing to develop a working machine learning model, it’s another to put it to work in an application. Cortex Labs is an early-stage startup with some open-source tooling designed to help data scientists take that last step. The company’s founders were students at Berkeley when they observed that one of the problems around creating ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/",
+      "publishedDateTime": "2020-01-23T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Cortex Labs helps data scientists deploy machine learning models in the cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
       ]
     }
   ],

@@ -46,6 +46,21 @@ related:
       - url: "https://static01.nyt.com/images/2020/02/07/business/07CLEARVIEW-01/07CLEARVIEW-01-facebookJumbo.jpg"
         width: 1050
         height: 550
+  - title: "ACLU Said Clearview AI’s Facial Recognition Accuracy Study Is “Absurd”"
+    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and forced Clearview to remove it last month. Clearview AI, the facial ..."
+    publishedDateTime: 2020-02-10T16:25:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 106
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
+        width: 640
+        height: 440
   - title: "Is Clearview AI’s facial recognition legal? We need to figure it out soon"
     excerpt: "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information."
     publishedDateTime: 2020-02-06T10:00:00Z
@@ -118,7 +133,7 @@ related:
       domain: cnn.com
     quality: 89
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200210034400-20200209-facial-recognition-gfx-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207150324-05-clearview-hoan-ton-that-super-tease.jpg"
         width: 1100
         height: 619
   - title: "Facebook, YouTube demand facial recognition company stop scraping faces from sites"
@@ -289,6 +304,19 @@ related:
       name: CNET
       domain: cnet.com
     quality: 57
+  - title: "Mitek claims spoof-proof breakthrough in facial recognition"
+    excerpt: "As the industry-first provider of Liveness Detection, Mitek is extending its technology to offer virtually spoof-proof facial comparison across all digital channels (native and web) - through one simple selfie. There are no additional steps for the consumer. Mitek’s extended Liveness Detection provides customers with additional security ..."
+    publishedDateTime: 2020-02-10T14:47:00Z
+    webUrl: "https://www.finextra.com/pressarticle/81436/mitek-claims-spoof-proof-breakthrough-in-facial-recognition"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
   - title: "Google and YouTube want Clearview AI to stop scraping images and video for facial recognition database"
     excerpt: "Facebook told CBS News that it, too, is reviewing the company's controversial practices, but so far hasn't made any decision on what to do about it. The social giant is on thin ice when it comes to facial recognition, after being brought to court for silently doing it in the background using photos uploaded by its users."
     publishedDateTime: 2020-02-06T11:51:00Z

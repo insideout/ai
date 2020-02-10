@@ -233,21 +233,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1192370013-760x380.jpg"
         width: 760
         height: 380
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
-    publishedDateTime: 2020-01-21T00:00:00Z
-    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 59
-    images:
-      - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
-        width: 446
-        height: 300
   - title: "Facebook denies nosing around facial recognition tech"
     excerpt: "Facebook responded to speculation it was developing its own facial recognition software for its Messenger app, stating reports were innaccurate and it would instead use on-device systems to handle provision of security. In a Twitter post, Facebook’s EMEA communications manager Alexandru Voica explained the company was not looking to develop a ..."
     publishedDateTime: 2020-01-27T12:37:00Z
@@ -614,6 +599,15 @@ related:
       - url: "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Facial-recognition-scanner-kids.jpg"
         width: 800
         height: 400
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
+    publishedDateTime: 2020-01-21T00:00:00Z
+    webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
+    type: article
+    provider:
+      name: United States Army
+      domain: army.mil
+    quality: 19
   - title: "Facebook Settles $550 Million Facial Recognition Lawsuit"
     excerpt: "100% of the fees we collect are used to support our nonprofit mission. Learn more. Facebook has agreed to pay $550 million to settle a class-action lawsuit that alleged the company’s use of facial recognition technology violated the Illinois Biometric Information Privacy Act. The case marks one of the largest cash settlements ever reached in ..."
     publishedDateTime: 2020-01-31T00:05:00Z

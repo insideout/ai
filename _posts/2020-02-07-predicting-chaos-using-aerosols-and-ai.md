@@ -39,6 +39,17 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3da204f133f400076beb5a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D0%26cropY2%3D563"
         width: 1000
         height: 563
+  - title: "Predicting chaos using aerosols and AI"
+    excerpt: "This kind of AI is first fed information about a real-world process, then, based on that data, it creates a simulation of that process. Motivated by game theory, a generative adversarial network receives both the ground truth (real) and randomly generated data (fake) and tries to determine which is real and which is fake. This process repeats ..."
+    publishedDateTime: 2020-02-10T13:54:00Z
+    webUrl: "https://phys.org/news/2020-02-chaos-aerosols-andai.html"
+    ampWebUrl: "https://phys.org/news/2020-02-chaos-aerosols-andai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-chaos-aerosols-andai.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 37
 
 secured: "Zvn0nSG8LsHHdYWhsVz6l8peCrizoZPFu+BVORJOgtFcgW68YrHZDYdo6zhYb/oHbcFvyBO62G7Vc7zSqvJoLfU2WKj5T6u+ov5BaBWWisy/tU1P1Ry26cuQ5RfZdwu0+zHjhvxSeMW95TSZhk5kVZ1XMgLhMqSkRE79NkMo5akniIg9sghCmnPWyt0nYugEGXNdzNEa33ZRhZx34PS5Z4nTQoTDESCZ+hneUSJoLb83sQ4f6jO0Enf96zIVUOrRdS+J0eZ7z4Y1g6L4bvH+HLExGqv7lLKKC2HU3pTnuuvNnHti1C39FL9hzZvnBpgGlRBD6I5uYbz0xdKesysBy0FUNM3L5t4EzaXGJS1YChtFGVNeO4xPmqRsaD6YG53ra1DXfNYkQLYQKApyHvuKLsNUdoHWMbzSb8ZV/Cn0F/mi0PHfuZh9Mgs54DVpFPmq5VgcW7mziPJs1KMLgCrp8fgKEvX+zEvvgrt+bJxRfZI=;FlxygbGpAtJMloqsw9C8lg=="
 ---

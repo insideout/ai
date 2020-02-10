@@ -64,6 +64,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Global Artificial Intelligence Market for Automotive and Transportation Industry Anticipated to Reach $69.05 Billion by 2029"
+    excerpt: "FREMONT, California, Jan. 30, 2020 /PRNewswire/ -- According to a new market intelligence report by ... for developing self-driving cars. Similarly, in November 2019, Intel's Mobileye collaborated ..."
+    publishedDateTime: 2020-01-30T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-for-automotive-and-transportation-industry-anticipated-to-reach-69-05-billion-by-2029-1028859000"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
   - title: "Machine Learning Market Garner Valuation US$ 76.8 Bn by 2026"
     excerpt: "The global machine learning market value is expected to reach around US$ 76.8 Bn by 2026 and growing at a CAGR of around 40.1% over the forecast period 2019 to 2026. Machine learning is a subset of artificial intelligence. The concept has evolved from computational learning and pattern recognition in artificial intelligence. It explores the ..."
     publishedDateTime: 2020-02-05T05:54:00Z
@@ -73,28 +82,6 @@ related:
       name: cmo.com.au
       domain: cmo.com.au
     quality: 19
-  - title: "Global Artificial Intelligence Market for Automotive and Transportation Industry Anticipated to Reach $69.05 Billion by 2029"
-    excerpt: "FREMONT, California, Jan. 30, 2020 /PRNewswire/ -- According to a new market intelligence report by BIS Research, titled 'Global Artificial Intelligence Market for Automotive and Transportation Industry – Analysis and Forecast, 2019-2029', the global AI market for automotive and transportation industry is expected to reach $69.05 billion by 2029."
-    publishedDateTime: 2020-01-30T11:49:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-market-for-automotive-and-transportation-industry-anticipated-to-reach-69-05-billion-by-2029--300996057.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 12
-    images:
-      - url: "https://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook"
-        width: 1447
-        height: 908
-  - title: "North America Speech and Voice Recognition Market"
-    excerpt: "Data Bridge Market research has recently released expansive research report with titled \"North America Speech and voice recognition Market\". The report helps out the clients to tackle every strategic aspect including product development, product specification, exploring niche growth opportunities, application modelling, and new geographical ..."
-    publishedDateTime: 2020-02-07T13:42:00Z
-    webUrl: "https://www.openpr.com/news/1923721/north-america-speech-and-voice-recognition-market-2020-study"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
   - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
     excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
     publishedDateTime: 2020-02-05T15:33:00Z

@@ -271,6 +271,21 @@ related:
       - url: "https://skift.com/wp-content/uploads/2020/02/waymo_minivan_5.jpg"
         width: 1024
         height: 683
+  - title: "How to build a morally ethical self-driving car"
+    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
+    publishedDateTime: 2020-02-10T14:32:00Z
+    webUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/"
+    ampWebUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 44
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/02072020_Self-Driving-Car_122510-300x220.jpg"
+        width: 300
+        height: 220
   - title: "Uber to bring back self-driving cars in California for first time since 2018 death"
     excerpt: "California has granted the company a permit to test its autonomous vehicles on public roads"
     publishedDateTime: 2020-02-06T00:06:00Z
@@ -364,6 +379,32 @@ related:
       - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
         width: 1920
         height: 1080
+  - title: "Hearing to review self-driving car legislation"
+    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
+    publishedDateTime: 2020-02-10T11:13:00Z
+    webUrl: "https://www.eenews.net/eedaily/2020/02/10/stories/1062290541"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
+    quality: 24
+    images:
+      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_73911.jpg"
+        width: 618
+        height: 318
+  - title: "Uber Gets OK To Test Self-Driving Cars In California"
+    excerpt: "The state of California has granted Uber a permit to test its self-driving vehicles on public roads. The Department of Motor Vehicles gave the approval to the Uber Advanced Technologies Group to test autonomous vehicles as long as a driver is in the vehicle. Uber is the latest company to be added to the entities with autonomous vehicle testing ..."
+    publishedDateTime: 2020-02-10T13:35:00Z
+    webUrl: "https://www.mediapost.com/publications/article/346759/uber-gets-ok-to-test-self-driving-cars-in-californ.html?edition=117136"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 24
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2018/12/19/uberselfdrivingcar-600_tmkffdC.jpg"
+        width: 600
+        height: 375
   - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
     excerpt: "TOLEDO, Ohio — Have you thought about driving an autonomous car? You will find self-driving cars shiny, fancy, and many times the stars of the North American International Auto Show in Detroit. Self driving cars promise freedom; from steering for you to accelerating the car down the road while you kick back and relax, it is the future that ..."
     publishedDateTime: 2020-02-04T16:07:00Z

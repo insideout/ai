@@ -5,6 +5,9 @@ excerpt: "A Russian court on Friday heard a legal challenge to Moscow’s rollou
 publishedDateTime: 2020-02-08T10:21:00Z
 webUrl: "https://www.reuters.com/article/russia-technology-facialrecognition-idUSL8N2A055X"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Reuters

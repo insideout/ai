@@ -17,6 +17,17 @@ topics:
   - AI
   - Machine Learning
 
+related:
+  - title: "The battle for ethical AI at the world’s biggest machine-learning conference"
+    excerpt: "But researchers are now realizing that they need to embed ethics into the formulation of their research and understand the potential harms of algorithmic injustice, says Meredith Whittaker, an AI ..."
+    publishedDateTime: 2020-01-24T18:08:00Z
+    webUrl: "https://www.nature.com/articles/d41586-020-00160-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 16
+
 secured: "hLx6cIIPGCjvexq8ewKU0N6meHYSmIesAwOMvgN0TAcyY9Su2yHIPN8m1ca1XpljihSs54F997dV/LTM1bZtlB7uREYq8ibB2Ez2SvbMD6M8PJZDcOuhYJvMq5ia7VlzpyZEapCp+jhzfDtgzdIf+XgMHTyOnv5DFhli3GYTtPzehodiUTd3iYRAXW7w3WgUi1vME6Ys+xsYjm4HxtkCsSNnsVtIu2aU/FEZbmF88FdUboaBu47PJ5dTPMPVVYy4gMxJOAbwaLqZe53G2Tvvwya5Bxrlp/WPOmEz/IYRblrHxDvAoZpJODKPCKKqyD6vZyJqCL7Og1t+C8sJqnUfc/q2tC9Ju84kjOv8ab3u53tucleYRYSr7nBcvHtH5hQIKLwEmUUgEL/1KIowFgMY0gkuHi/BCLbYBTExQ4F+mLFPERj/K4uigHFbIxQQpY2EKaH5qFV2+YL7BKzX2aXJrf6wTmI1sfsMrr3HNsj2n1E=;bfBy+dveSaeWAWakRKXuZQ=="
 ---
 

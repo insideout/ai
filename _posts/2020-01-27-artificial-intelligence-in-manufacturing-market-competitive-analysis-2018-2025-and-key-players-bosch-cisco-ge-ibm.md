@@ -46,15 +46,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 27
-  - title: "Global Speech and Voice Recognition Market"
-    excerpt: "The Speech and Voice Recognition report also displays important product developments and tracks recent acquisitions, mergers and research in the ICT industry by the major players. Speech and Voice Recognition report helps make known uncertainties that may come up due to changes in business activities or introduction of a new product in the market."
-    publishedDateTime: 2020-02-03T10:10:00Z
-    webUrl: "https://www.openpr.com/news/1916446/global-speech-and-voice-recognition-market-analysis-of-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "e3R9bMHv5yiKZ0ghch4SQUjukpioVBAZoincK44PsN+IbDgF7RrPY5fbGbAWzTODsLhos6HhzhYtg3qUuNUjOV3kNqLYrW/HnKjF5rYzz5QmN+zc81ut4wvDPpEg1xNB0NM+9ywPXPxSGs+mSZvYq2thQXZ6qVjSTtc1W/eeKImcd0Qmw2OZ0ojox91DOlppVjpSZgalEcXJSjkqFi532nPqSQEZD6c+seAL1xL74YxEdNz44v3XR7DFv5ocmiUTgoalsDdgHZOIJAG4nAqFMwoFd6EYpg5Fakcg2bDbX7PmpuM9JOQNks4g57Unmuac;fZHZqxWAJPtGEXTKds4+zA=="
 ---

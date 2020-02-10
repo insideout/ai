@@ -224,6 +224,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Automotive Self-driving Chip Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of the Global Automotive Self-driving Chip Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of the Automotive Self-driving Chip market."
+    publishedDateTime: 2020-02-10T09:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-02-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast, 2020-2026"
     excerpt: "New York, Feb. 06, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Self-Driving Bus Market by Level of Automation and Component: Global Opportunity Analysis and Industry Forecast,"
     publishedDateTime: 2020-02-06T16:56:00Z
@@ -285,15 +298,6 @@ related:
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
-    quality: 0
-  - title: "Speech and Voice Recognition Market Size & Industry Share by Leading Companies, Opportunities, Revenue Growth, Trends and Outlook (2020-2026)"
-    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights(TM) in their new study. The study is titled \"Speech and Voice Recognition Market Size, Share and Global Trend By Component (Solution ..."
-    publishedDateTime: 2020-02-06T05:57:00Z
-    webUrl: "https://www.openpr.com/news/1920861/speech-and-voice-recognition-market-size-industry-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
     quality: 0
   - title: "Voice Recognition for Automotive Market Trends, Opportunities, Key Players, Growth, Analysis, Outlook & Forecasts To 2025"
     excerpt: "The market study on the global Voice Recognition for Automotive Market will include the entire ecosystem of the industry, covering five major regions namely North America, Europe, Asia Pacific, Latin America and Middle East & Africa, and the major countries falling under those regions. The study will feature estimates in terms of sales revenue ..."

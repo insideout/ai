@@ -7,8 +7,8 @@ webUrl: "https://www.infoworld.com/article/3518453/interested-in-machine-learnin
 ampWebUrl: "https://www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518453/interested-in-machine-learning-better-learn-pytorch.amp.html"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
