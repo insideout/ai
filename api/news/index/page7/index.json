@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_posts/2020-02-05-ai-predicts-coronavirus-could-infect-25-billion-and-kill-53-million-doctors-say-thats-not-credible-and-heres-why.md",
+      "title": "AI Predicts Coronavirus Could Infect 2.5 Billion And Kill 53 Million. Doctors Say That’s Not Credible, And Here’s Why",
+      "excerpt": "An AI-powered simulation run by a technology executive says that Coronavirus could infect as many as 2.5 billion people within 45 days and kill as many as 52.9 million of them. Fortunately, however, conditions of infection and detection are changing,",
+      "heat": 186,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/02/05/ai-predicts-coronavirus-could-infect-25b-and-kill-53m-doctors-say-thats-not-credible-and-heres-why/amp/",
+      "publishedDateTime": "2020-02-05T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3aefd26059b1000722d2e6%2F0x0.jpg",
+          "width": 1088,
+          "height": 616,
+          "title": "AI Predicts Coronavirus Could Infect 2.5 Billion And Kill 53 Million. Doctors Say That’s Not Credible, And Here’s Why",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_posts/2020-02-05-an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai.md",
       "title": "An algorithm that can spot cause and effect could supercharge medical AI",
       "excerpt": "Several other companies—including Ada and Your.MD—also offer diagnosis-by-chatbot but Babylon Health has singled itself out for criticism in part because of the overblown claims it makes for its AI. For example, in 2018 the company announced that its AI could diagnose medical conditions better than a human doctor. A study in The Lancet a ...",
@@ -1020,18 +1065,18 @@
     {
       "path": "_posts/2020-02-05-veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system.md",
       "title": "Veoneer Selected to Supply System Based on Next Generation Vision and Radar System",
-      "excerpt": "These are the main build blocks for higher levels of automated driving. Veoneer's camera centric system architecture is based on in-house computer vision algorithms complimented by radar based perception to cover the full spectrum required by Euro NCAP. Hosted in the camera is Zenuity's software, fusing information from the camera and radar ...",
+      "excerpt": "/PRNewswire/ -- Veoneer, Inc. (NYSE: VNE and SSE: VNE SDB), the world's largest pure-play company focused on Advanced Driving Assistance Systems and",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.autoblog.com/press-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system_22080/",
+      "webUrl": "https://www.prnewswire.com/news-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system-300999289.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T03:07:00-08:00",
+      "publishedDateTime": "2020-02-04T22:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -2036,43 +2081,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-robotics-investments-recap-january-2020.md",
-      "title": "Robotics investments recap: January 2020",
-      "excerpt": "In January 2020, reported transactions among robotics, drone, autonomous vehicles, and artificial intelligence companies totaled $1.16 billion. There were fewer deals around self-driving vehicles than in the past several months, but investors still supported supply chain, surgical systems, and agricultural automation. At the same time ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/january-2020-robotics-investments-recap/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2019/01/bg-robotic-omnichannel-fulfillmentflexbot-with-order1200xx3840-2160-0-0.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Robotics investments recap: January 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

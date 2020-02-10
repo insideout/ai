@@ -265,7 +265,8 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Google AI"
       ]
     },
     {
@@ -1684,6 +1685,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-01-the-ai-eye-microsoft-expands-partnership-with-genesys-ibm-ibm-launches-policy-lab-with-ai-policy-imperatives.md",
+      "title": "The AI Eye: Microsoft Expands Partnership with Genesys, IBM IBM Launches Policy Lab with AI Policy Imperatives",
+      "excerpt": "Point Roberts, WA and Vancouver, BC - January 24, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-microsoft-expands-partnership-with-genesys-ibm-nyse-ibm-launches-policy-lab-with-ai-policy-imperatives-2020-01-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-01T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-01-the-future-of-fintech-ai-blockchain.md",
       "title": "The Future of Fintech: AI & Blockchain",
       "excerpt": "In The Future of Fintech: AI & Blockchain slide deck, Business Insider Intelligence explores the opportunities and hurdles of adopting the two technologies within financial services.",
@@ -2063,35 +2101,6 @@
         "AI",
         "AI in Autos",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-03-229bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-197.md",
-      "title": "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%",
-      "excerpt": "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T02:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -62,11 +62,11 @@
     {
       "path": "_posts/2020-01-11-toyota-ford-aptiv-baidu-lead-crowd-pushing-mobility-at-ces.md",
       "title": "Toyota, Ford, Aptiv, Baidu Lead Crowd Pushing Mobility at CES",
-      "excerpt": "This year, the mobility sector had its largest presence at CES yet. Self-driving tech was well-represented in the CES innovation awards, and news announcements from the sector were plentiful.",
+      "excerpt": "rise of self-driving tech. Earlier this year, Xconomy Boston’s Jeff Engel reported ... plans to release the car in China next year. Baidu, essentially China’s Google, also made a couple ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://xconomy.com/detroit-ann-arbor/2018/01/11/ces-roundup-toyota-ford-aptiv-baidu-lead-crowd-pushing-mobility/",
+      "webUrl": "https://xconomy.com/detroit-ann-arbor/2018/01/11/ces-roundup-toyota-ford-aptiv-baidu-lead-crowd-pushing-mobility/3/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-01-10T16:00:00-08:00",
@@ -1532,19 +1532,27 @@
     {
       "path": "_posts/2020-01-21-3-businesses-that-can-take-google-stock-higher-in-the-near-future.md",
       "title": "3 Businesses That Can Take Google Stock Higher in the Near Future",
-      "excerpt": "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a license to start testing driverless cars. Waymo is moving forward with plans that could be easier and more lucrative than operating robotaxi services. Specifically, the company is developing self-driving trucks. Compared with providing robotaxi services ...",
+      "excerpt": "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a ... Specifically, the company is developing self-driving trucks. Compared with providing robotaxi ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-businesses-that-can-take-google-stock-higher-in-the-near-future-1028831901",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T03:55:00-08:00",
+      "publishedDateTime": "2020-01-21T05:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2017/09/data-science-certification7-100734862-large.jpg"

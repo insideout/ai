@@ -2,8 +2,8 @@
 category: news
 title: "We Need Green Digital Public Infrastructure"
 excerpt: "Nevertheless, we’ve become accustomed to the ubiquitous chatbots. A chatbot is “trained” by natural language processing (NLP), a component of AI, to understand, decipher, and generate human language. Through voice queries or typed requests, chatbots can “talk” to us while we shop, look for recommendations, or seek solutions to ..."
-publishedDateTime: 2020-02-10T07:07:00Z
-webUrl: "https://www.psychologytoday.com/gb/blog/greening-the-media/202002/we-need-green-digital-public-infrastructure"
+publishedDateTime: 2020-02-10T10:27:00Z
+webUrl: "https://www.psychologytoday.com/us/blog/greening-the-media/202002/we-need-green-digital-public-infrastructure"
 type: article
 
 provider:
@@ -14,6 +14,6 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "5oNlMMNaOphUOKjnpo98d+k6+YyhgMsBKXHF12uJHdfxBXA9zZvdSyQD5g2VfuJ12PYTzwddAMjurazHXD+qaiOoDWcdfxBvQLeCbnylpIYi416AmPAI5mZEGBCfNG/JWzR1ebjyu77pK19CaEevfxDj21HVczFHE7xX7ZKIsJF7g8JPvk8/WeqBwNwzM3Hrbu4jBdzEou0yoc+2AmUp2UlgXd87vPdyOeE2jSQtldunlwb7/l90s9ROqTQ3Pk6CfdVC99jL+EsOb7FVLZ5rwhD8+lA8P1evzNvt6UGMahxTDPMt6tXpY7Ga7tDq3DlflbnMGYQ4xNgn0hH/7oKpq+rzGN/R+c7WlYb4lX6UpDE1kd7RJQz+zTX0j/Piw3YCTs3YFy3vHuWdFiEDz7zF/pcKCXxVWBa5RohZkW2CyVewtcP2pxzadMZcK5v6jhkV8jqIE6oPKa/G+Ziv34l0wdK91tTkQIuP/Da6so3gGYY=;aQaysyDRhSARCMhJA2GECg=="
+secured: "K9/CSyH+JdgN5SBCCOImI7/jiiBUb5icGSUmLtleY/aQLNKlLK9Zgq8hIHaAO/0lGmebjv889JrxxGyEM8GkL+QCDY1gUy+3KgCuoezfYlv7ATeb00TlfGZCN5Jj5yuUmEgk3A49EQTgxAWyHm99vzKY+5NgdvYoNJlPPg93wXjg3Yi/l79Nx2URoR26NF+33HK4xrijYIeI+6l/kD+eDxuLX3snhU2j1G45Du/oHzwo4ZTaDX9WVmQOxVduiwnUxuDqMmY7P1TZTsCBlQhNPj9es9KgfGIhegvCHrcVsct/bFFkDjYNhyC0jYnb/wyok5ydeOiAKRkwFtfxLWCLxatB4PTSGBm190wpPmjEyuw/49yv6+/TBmBDnixFT2m+FmucETcfzHdBgQTUd/KO0aQ739Vl/OxCdP+fdUr2GXT00RCRtygupLmrDMEOyNC8WeGPcZHumBKRptBQTucHeJ8S86cibRSrO3drJz9BBK0=;sf4YD57ig0p6Z9A9WI6gPQ=="
 ---
 

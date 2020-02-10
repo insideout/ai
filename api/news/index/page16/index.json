@@ -2,6 +2,364 @@
   "page": 16,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-17-gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity.md",
+      "title": "Gap nixes plan to spin off Old Navy amid cost, complexity",
+      "excerpt": "Also: Gap picks Microsoft Azure as preferred cloud vendor: Here's a look at the digital transformation ... Either way, Gap will have a laundry list of projects including: Data analytics and data science infrastructure. Machine learning efforts to improve marketing and supply chain. Customer targeting. Executing a mobile-first strategy.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity/",
+      "publishedDateTime": "2020-01-17T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/07/23/1ce990cb-03ad-4814-af69-e4abc58ddfcc/thumbnail/1200x675/f3e8f8bcd73481326d927b2638178e1c/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Gap nixes plan to spin off Old Navy amid cost, complexity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-google-hopes-to-draw-more-cloud-customers-by-making-ai-easier-to-use.md",
+      "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
+      "excerpt": "Google's first Cloud AutoML tool will be for recognizing objects in images. It follows Google's Cloud Machine Learning Engine service and the Cloud Vision application programming interface.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/01/17/google-launches-cloud-automl.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
+      "publishedDateTime": "2020-01-17T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103643296-636_0045.jpg?v=1529471578",
+          "width": 3970,
+          "height": 2652,
+          "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-google-says-yes-to-no-code-acquires-appsheet.md",
+      "title": "Google Says Yes To No-Code, Acquires AppSheet",
+      "excerpt": "and some of its innovations fail to ever gain enough traction to survive (such as Google Wave, Google Answers and Google +).",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/",
+      "publishedDateTime": "2020-01-17T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/640x374/https://specials-images.forbesimg.com/imageserve/5e21d179980ca10006aaab8e/960x0.jpg?fit=scale",
+          "width": 640,
+          "height": 374,
+          "title": "Google Says Yes To No-Code, Acquires AppSheet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai.md",
+      "title": "Hedera Hashgraph CPO: “The Adoption Of Blockchain Is Going Faster Than I’ve Seen In IoT And AI”",
+      "excerpt": "“This is about building use cases, proving the value, developing, and technology, deploying on a POC, and so forth,” said Lionel Chocron, CPO of Hedera Hashgraph.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/justinoconnell/2020/01/17/hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/justinoconnell/2020/01/17/hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinoconnell/2020/01/17/hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai/amp/",
+      "publishedDateTime": "2020-01-17T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e21f534a854780006e8c6b8/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "Hedera Hashgraph CPO: “The Adoption Of Blockchain Is Going Faster Than I’ve Seen In IoT And AI”",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-heres-what-bosch-hopes-to-learn-from-deploying-autonomous-cars-in-san-jose.md",
+      "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
+      "excerpt": "German supplier Bosch is notably moving full speed ahead with its quest to make driverless cars a reality. Kay Stepper, Bosch’s senior vice president of automated driving, sat down with Digital Trends to talk about the state of autonomous driving in 2020, and what’s next for the artificial intelligence technology that powers the prototypes ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
+      "publishedDateTime": "2020-01-17T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/bosch-daimler-autonomous-s-class-1-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-how-jpmorgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services.md",
+      "title": "How JPMorgan And Fidelity Could Leverage Blockchain To Modernize Financial Services",
+      "excerpt": "Large enterprises like JPMorgan, Fidelity and ICE are looking into using multi-party computations for a new breed of financial services business models. Leveraging blockchain and MPCs will lead to opening of massive opportunities for new services and products.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/",
+      "ampWebUrl": "https://www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/amp/",
+      "publishedDateTime": "2020-01-16T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1fb5e2a854780006e89f78%2F0x0.jpg",
+          "width": 1200,
+          "height": 757,
+          "title": "How JPMorgan And Fidelity Could Leverage Blockchain To Modernize Financial Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently.md",
+      "title": "How NHS 111 London Is Using AI To Ensure Patients Get The Care They Need Urgently",
+      "excerpt": "In London, the National Health Service’s 111 helpline receives up to 32,000 urgent calls every week. Here's how AI is helping the organisation deliver urgent medical health accurately and quickly.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently/",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently/amp/",
+      "publishedDateTime": "2020-01-17T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1187779623%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How NHS 111 London Is Using AI To Ensure Patients Get The Care They Need Urgently",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape.md",
+      "title": "I had a lovely time in an AI-generated Björk hotel lobby soundscape",
+      "excerpt": "I'm in that hotel lobby, listening. There's a pattern to the music. It's connected to a camera on the roof, gazing at moving clouds and birds. The composition is AI-driven. The best part is, it's invisible and it works. I stay and listen for an hour. Björk created a new AI-generated experimental ambient musical piece in collaboration with ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/",
+      "publishedDateTime": "2020-01-17T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/Tiid1ZAgHJWSHQdKzyENKcS7TFo=/756x567/2020/01/16/ceedacb8-85c9-4017-8972-6591c818f319/mg-2832.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "I had a lovely time in an AI-generated Björk hotel lobby soundscape",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-17-machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026.md",
       "title": "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026",
       "excerpt": "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,",
@@ -1795,354 +2153,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-deep-learning-system-market-to-see-massive-growth-by-2025-google-graphcore-teradeep.md",
-      "title": "Deep Learning System Market to See Massive Growth by 2025 |Google, Graphcore, TeraDeep",
-      "excerpt": "HTF MI recently introduced latest version Global Deep Learning System Market Study 2019. It covered product Scope, Market Share, Size, Revenue, Opportunities, Growth Rate, Sales Growth, Demand, Supply,",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-to-see-massive-growth-by-2025-google-graphcore-teradeep-2020-01-20",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-20T01:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning System Market to See Massive Growth by 2025 |Google, Graphcore, TeraDeep",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-facebook-says-technical-error-caused-vulgar-translation-of-chinese-leaders-name.md",
-      "title": "Facebook Says Technical Error Caused Vulgar Translation of Chinese Leader's Name",
-      "excerpt": "YANGON (Reuters) - Facebook Inc on Saturday blamed a technical error for Chinese leader Xi Jinping’s name appearing as “Mr Shithole” in posts on its platform when translated into English from Burmese,",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/world/articles/2020-01-18/facebook-apologizes-after-vulgar-translation-of-chinese-leaders-name",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-19T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-google-boss-sundar-pichai-calls-for-ai-regulation.md",
-      "title": "Google boss Sundar Pichai calls for AI regulation",
-      "excerpt": "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ...",
-      "heat": 287,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/technology-51178198",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51178198",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198",
-      "publishedDateTime": "2020-01-20T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Google boss Sundar Pichai calls for AI regulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-google-ceo-sundar-pichai-this-is-why-ai-must-be-regulated.md",
-      "title": "Google CEO Sundar Pichai: This is why AI must be regulated",
-      "excerpt": "The project applied Google-developed object recognition AI to drone surveillance technology. Google vowed in its AI principles not to create AI that would harm people, but Pichai noted that ...",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/",
-      "publishedDateTime": "2020-01-20T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/21/6ce19da7-3092-4a61-be99-bf1db720f106/thumbnail/1200x675/eedfdc0b103f7d3a5a5c12a3dedb0c0e/google-ceo-sundar-pichai-this-is-why-ai-5e25da8d12c36800019a229e-1-jan-21-2020-18-53-35-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google CEO Sundar Pichai: This is why AI must be regulated",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-google-pushes-sensible-ideas-for-how-to-regulate-ai.md",
-      "title": "Google Pushes ‘Sensible’ Ideas for How to Regulate AI",
-      "excerpt": "Silicon Valley executives and lobbyists like to say they embrace regulation. Now they’re launching a frenzy of lobbying on what they want that regulation to be—and Europe is set to be one of the first battlegrounds.",
-      "heat": 307,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003",
-      "publishedDateTime": "2020-01-20T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-145573/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Google Pushes ‘Sensible’ Ideas for How to Regulate AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-how-artificial-intelligence-will-make-decisions-in-tomorrows-wars.md",
-      "title": "How Artificial Intelligence Will Make Decisions In Tomorrow’s Wars",
-      "excerpt": "Artificial intelligence isn't only a consumer and business-centric technology. Yes, companies use AI to automate various tasks, while consumers use AI to make their daily routines easier. But governments–and in particular militaries–also have a massive interest in the speed and scale offered by AI.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/01/20/how-artificial-intelligence-will-make-decisions-in-tomorrows-wars/",
-      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/01/20/how-artificial-intelligence-will-make-decisions-in-tomorrows-wars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/01/20/how-artificial-intelligence-will-make-decisions-in-tomorrows-wars/amp/",
-      "publishedDateTime": "2020-01-20T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2584aea854780006cb3ed7%2F0x0.jpg",
-          "width": 1200,
-          "height": 753,
-          "title": "How Artificial Intelligence Will Make Decisions In Tomorrow’s Wars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-image-recognition-market-will-grow-at-a-cagr-of-196-during-forecast-period.md",
-      "title": "Image Recognition Market Will Grow at a CAGR of 19.6% During Forecast Period.",
-      "excerpt": "The global image recognition market size is projected to reach USD 81.88 billion by 2026.with a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-will-grow-at-a-cagr-of-196-during-forecast-period-2020-01-20",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-19T22:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Image Recognition Market Will Grow at a CAGR of 19.6% During Forecast Period.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction.md",
-      "title": "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction",
-      "excerpt": "In search of a solution, an Intel-led group of tech companies developed a computer vision solution to help ecologists count the remaining penguins faster and more accurately than before.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/",
-      "publishedDateTime": "2020-01-20T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/4435aca3-10d3-4e94-bce1-b9a5ec1a9557-e1579113904720.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

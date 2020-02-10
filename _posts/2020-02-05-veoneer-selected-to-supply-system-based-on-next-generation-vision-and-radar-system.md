@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Veoneer Selected to Supply System Based on Next Generation Vision and Radar System"
-excerpt: "These are the main build blocks for higher levels of automated driving. Veoneer's camera centric system architecture is based on in-house computer vision algorithms complimented by radar based perception to cover the full spectrum required by Euro NCAP. Hosted in the camera is Zenuity's software, fusing information from the camera and radar ..."
-publishedDateTime: 2020-02-05T11:07:00Z
-webUrl: "https://www.autoblog.com/press-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system_22080/"
+excerpt: "/PRNewswire/ -- Veoneer, Inc. (NYSE: VNE and SSE: VNE SDB), the world's largest pure-play company focused on Advanced Driving Assistance Systems and"
+publishedDateTime: 2020-02-05T06:57:00Z
+webUrl: "https://www.prnewswire.com/news-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system-300999289.html"
 type: article
 
 provider:
-  name: Autoblog
-  domain: autoblog.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Computer Vision
 
-secured: "rN1QIVv5ymN/r6U1pJesVMqJaOYAKacbYbIXeZ37/kwDsoOMmB4xhelCy5deJqTHxLYZDhjCYGv6ta5xIJCf6ZdoCM/usEjL68iQVaQAZ1obPM/TTqsXcS65IE6QJWX/qY4GRya7vds2XeCFAP96M68YTxe6ytMSSM7ZEqwkMvATfC4WDG6SnLUrT+fPI2eRtcnvhK/sNGv/2ZHdDacGcKYw6oVf3ClYFREwl9XJy8oBPrjm/zB65sxAsPVscHYi7d9nsKUCYfFviRj4Rc6xKu0DnHQc2fCywIuVEUjwGBkVeN9usiAybU1QtUMksv8f;S2ARzFO6f7Uez1dCh5q7uQ=="
+secured: "J/4Azp9g3tsw267KwgzbOrH3lXUeaq881HETSnxGDM81EvZz9bkJ7tCBc4gr5jbsD3Tr7CY0gi/Z6sQX13zVcy2HcqX3v2ukY3T4uQ5kLOhsUVAvSgxiFS2+qXsbY43MT9qpDBB1SWGVt5AI9pQVaPAAV9aQV4RfqTZuwDwJr2tiWG9vh0sdHpvnlyJUPalK5pE1xv1Ub4uQAEnEODfygqSts5OwXMbK0fl5jEmSbxKcFJVfwJs+M8Iluhr2S4jyTanMxZE8F0nqsagpduRWlDzzthTiuBEDHEAIC98Hk3w0TUp712JDdDbMpw/D8hUh;X4b+zwgnrCSXApUqFgXZNQ=="
 ---
 

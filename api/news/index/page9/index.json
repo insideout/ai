@@ -2,6 +2,51 @@
   "page": 9,
   "value": [
     {
+      "path": "_posts/2020-02-08-this-new-memory-chip-could-end-up-in-an-iphone-5g.md",
+      "title": "This new memory chip could end up in an iPhone 5G",
+      "excerpt": "The new chip is likely to make its way into the next iPhone ... The rising popularity of high pixel cameras (like the 108 million pixel sensor set on the Xiaomi CC9 Pro), concurrent apps demanding huge bandwidth and AI means that LPDDR5 is likely to become the defacto memory tech for flagship smartphones in 2020. It remains to be seen whether ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/au/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "publishedDateTime": "2020-02-07T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/n5GsBjxkGK8epc7bMzP4ug-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "This new memory chip could end up in an iPhone 5G",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_posts/2020-02-08-those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars.md",
       "title": "Those Three Clever Dogs Trained To Drive A Car Provide Valuable Lessons For AI Self-Driving Cars",
       "excerpt": "We’ve all seen dogs traveling in cars, including how they like to peek out an open window and enjoy the fur-fluffing breeze and dwell in the cacophony of scents that blow along in the flavorful wind.",
@@ -568,6 +613,35 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-another-record-breaking-year-for-canadian-vc-as-ai-fintech-cybersecurity-reach-new-heights.md",
+      "title": "Another record breaking year for Canadian VC as AI, FinTech, cybersecurity reach new heights",
+      "excerpt": "“Deal share by stage to Canadian AI startups suggests the ecosystem is maturing, as a number of companies have progressed from seed- to early- to expansion-stage over the past few years,” the report noted. FinTech companies also saw a striking rise in funding, as well as deal activity, raising $776 million in 2019, a 104 percent boost from 201",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://betakit.com/another-record-breaking-year-for-canadian-vc-as-ai-fintech-cybersecurity-reach-new-heights/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-artificial-intelligence-and-public-standards-committee-publishes-report.md",
       "title": "Artificial Intelligence and Public Standards: Committee publishes report",
       "excerpt": "The work of the Office for AI, the Alan Turing Institute, the Centre for Data Ethics and Innovation (CDEI), and the Information Commissioner’s Office (ICO) are all commendable. But on transparency and data bias in particular, there is an urgent need for practical guidance and enforceable regulation. “We conclude that the UK does not need a ...",
@@ -660,6 +734,72 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-automatic-content-recognition-acr-market-to-increase-valuation-with-surging-investments-by-2023.md",
+      "title": "Automatic Content Recognition (ACR) Market To Increase Valuation With Surging Investments By 2023",
+      "excerpt": "Market Segmentation MRFR's analysis of the entire automatic content recognition market has been segmented on the basis of technology, end-user application, and region. Technology employed in the global ACR market include speech recognition, digital watermarks, and passive fingerprinting. Speech recognition has been recognized as the largest and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1925178/automatic-content-recognition-acr-market-to-increase",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-automotive-recognition-system-market-latest-demand-by-2020-2024-with-leading-players-like-cognivue-eyesight-technologies-intel-qualcomm.md",
+      "title": "Automotive Recognition System Market latest demand by 2020-2024 with leading players like - CogniVue, EyeSight Technologies, Intel, Qualcomm",
+      "excerpt": "Ongoing Trends of Automotive Recognition System Market :- The Automotive Recognition System market industry report highlights the important components related to the top sellers of Automotive Recognition System industry that influence the market.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-recognition-system-market-latest-demand-by-2020-2024-with-leading-players-like---cognivue-eyesight-technologies-intel-qualcomm-2020-02-10",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T02:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -811,21 +951,29 @@
       ]
     },
     {
-      "path": "_posts/2020-02-10-global-artificial-intelligence-ai-market-size-share-trends-analysis-2018-2025.md",
-      "title": "Global Artificial Intelligence (AI) Market Size, Share & Trends Analysis 2018-2025",
-      "excerpt": "Dublin, Feb. 10, 2020 (GLOBE NEWSWIRE) -- The \"Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By Technology (Deep Learning, Machine Learning), By End Use (Advertising & Media,",
+      "path": "_posts/2020-02-10-fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence.md",
+      "title": "FIFA’s Plans To Improve VAR Offside Calls With Artificial Intelligence",
+      "excerpt": "FIFA has begun the early stages of testing for a new semi-automated offside system that combines AI with limb tracking technology. I spoke to FIFA's head of technology and innovation to find out how it works and when fans might first get to see it in action.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/02/g15286814/global-artificial-intelligence-ai-market-size-share-trends-analysis-2018-2025",
+      "webUrl": "https://www.forbes.com/sites/steveprice/2020/02/10/fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T01:19:00-08:00",
+      "publishedDateTime": "2020-02-10T03:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -836,6 +984,37 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-global-artificial-intelligence-ai-market-size-share-trends-analysis-2018-2025.md",
+      "title": "Global Artificial Intelligence (AI) Market Size, Share & Trends Analysis 2018-2025",
+      "excerpt": "Dublin, Feb. 10, 2020 (GLOBE NEWSWIRE) -- The \"Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/02/10/1982156/0/en/Global-Artificial-Intelligence-AI-Market-Size-Share-Trends-Analysis-2018-2025.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T02:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare",
+        "AI in Robotics"
       ]
     },
     {
@@ -961,6 +1140,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-oscar-for-parasite-quenches-koreans-long-thirst-for-recognition.md",
+      "title": "Oscar for ‘Parasite’ Quenches Koreans’ Long Thirst for Recognition",
+      "excerpt": "As Bong Joon-ho’s film received Academy Awards for best picture and best director, the honors set off cheers and a burst of pride in a country fearful of being overlooked. A TV screen showing images of the South Korean director Bong Joon-ho at a railway station in Seoul on Monday.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/02/10/world/asia/Parasite-Oscar-bong-joon-ho.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-quantum-computing-market-is-poised-to-surpass-649883-million-by-2030-ps-intelligence.md",
       "title": "Quantum Computing Market is Poised to Surpass $64,988.3 Million By 2030: P&S Intelligence",
       "excerpt": "Quantum Computing Market Research Report: By Offering (Hardware, Software, Service), Deployment Type (On-Premises, Cloud-Based), Application",
@@ -976,6 +1192,42 @@
         "name": "GlobeNewswire",
         "domain": "globenewswire.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning.md",
+      "title": "This AI model improves and colorizes old videos and the results are stunning",
+      "excerpt": "Last week, my colleague Tristan wrote about an AI developer who used machine learning to upscale the famous 1895 train scene to 4K at 60 frames per second. While this was a great short watch, it made me wonder about using AI to restore and enhance old videos. Thankfully, I stumbled upon a paper featured by the Two Minute Papers YouTube ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/10/this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1015,6 +1267,35 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-two-pittsburgh-companies-are-semifinalists-in-global-ibm-tech-prize.md",
+      "title": "Two Pittsburgh Companies Are Semifinalists In Global IBM Tech Prize",
+      "excerpt": "An international competition for tech companies making a humanitarian difference has two Pittsburgh-based semifinalists. Marinus Analytics and CleanRobotics are among ten companies still in the running for the IBM Watson AI XPRIZE. The quest for the $3 million first prize began in the summer of 2016 with 62 teams. The competition’s winner ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wesa.fm/post/two-pittsburgh-companies-are-semifinalists-global-ibm-tech-prize",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WESA",
+        "domain": "wesa.fm",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -1098,10 +1379,10 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.psychologytoday.com/gb/blog/greening-the-media/202002/we-need-green-digital-public-infrastructure",
+      "webUrl": "https://www.psychologytoday.com/us/blog/greening-the-media/202002/we-need-green-digital-public-infrastructure",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-09T23:07:00-08:00",
+      "publishedDateTime": "2020-02-10T02:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",
@@ -1533,333 +1814,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-16-waymo-acquires-ai-startup-latent-logic.md",
-      "title": "Waymo acquires AI startup Latent Logic",
-      "excerpt": "Waymo has acquired Latent Logic, a startup formed as an Oxford University spinoff that specializes in \"imitation learning\" for artificial intelligence technology. The company has focused its work on simulation environments that help train algorithms for ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "ampWebUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "cdnAmpWebUrl": "https://leftlanenews-com.cdn.ampproject.org/c/s/leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "publishedDateTime": "2019-12-16T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leftlane",
-        "domain": "leftlanenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://leftlanenews.com/images/content/2019-08/WaymoIPACE-city2_700.jpg",
-          "width": 700,
-          "height": 449,
-          "title": "Waymo acquires AI startup Latent Logic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-17-amazon-releases-a-new-tool-to-improve-machine-learning-processes.md",
-      "title": "Amazon Releases A New Tool To Improve Machine Learning Processes",
-      "excerpt": "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/",
-      "publishedDateTime": "2019-12-17T01:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df8a126e961e10007393d3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453",
-          "width": 1199,
-          "height": 675,
-          "title": "Amazon Releases A New Tool To Improve Machine Learning Processes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-18-how-the-driverless-vehicles-dilemma-highlights-wider-system-safety-issues.md",
-      "title": "How the driverless vehicles dilemma highlights wider system safety issues",
-      "excerpt": "Artificial intelligence (AI) is already playing a significant part ... This question of bias is a crucial one when considering system safety issues. Our theoretical driverless vehicle needs to know how to value individuals in its “save or sacrifice ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider?amp",
-      "publishedDateTime": "2019-12-17T22:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1576169739/itpro/2019/12/AI_Ethics_good_vs_bad.jpg",
-          "width": 6222,
-          "height": 3500,
-          "title": "How the driverless vehicles dilemma highlights wider system safety issues",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-18-why-some-cities-states-and-lawmakers-want-to-curb-facial-recognition-technology.md",
-      "title": "Why some cities, states and lawmakers want to curb facial recognition technology",
-      "excerpt": "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of ...",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usatoday.com/story/tech/2019/12/17/face-recognition-ban-some-cities-states-and-lawmakers-push-one/2680483001/",
-      "ampWebUrl": "https://amp.usatoday.com/amp/2680483001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2680483001",
-      "publishedDateTime": "2019-12-17T16:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/11/19/USAT/4673ca8f-44ed-4dcf-99a0-2c54536bf6fc-AFP_AFP_1LW6JF.JPG?crop=3104,2328,x175,y0&quality=50&width=640",
-          "width": 640,
-          "height": 480,
-          "title": "Why some cities, states and lawmakers want to curb facial recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-19-12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks.md",
-      "title": "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks",
-      "excerpt": "However, previous research in visually-grounded language understanding have been mostly task-specific. Researchers from the Facebook AI Research, Georgia Institute of Technology, and Oregon State University found that the skills required for different V&L ...",
-      "heat": 65,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/syncedreview/12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks-e4553d91599d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*0vHYTrZBDprt8NP4KByFkg.png",
-          "width": 1200,
-          "height": 419,
-          "title": "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-19-tiny-robotic-insect-can-withstand-multiple-heavy-hits-from-a-fly-swatter.md",
-      "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
-      "excerpt": "Scientists have pulled inspiration from insects in order to create a tiny ... It might sound like science fiction, but it's actually more plausible than you might think.' It is also designed ...",
-      "heat": 141,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "publishedDateTime": "2019-12-19T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2019/12/19/17/22463342-0-image-a-30_1576777846491.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-ai-accelerator-card-offers-face-object-recognition-applications.md",
-      "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
-      "excerpt": "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ...",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecuriMetrics HIIDE",
-        "domain": "findbiometrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://findbiometrics.com/wp-content/uploads/computervision.jpeg",
-          "width": 400,
-          "height": 258,
-          "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-computer-vision-and-the-ccpa-what-you-need-to-know.md",
-      "title": "Computer Vision and the CCPA: What You Need to Know",
-      "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png",
-          "width": 1200,
-          "height": 744,
-          "title": "Computer Vision and the CCPA: What You Need to Know",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],
