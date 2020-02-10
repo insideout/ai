@@ -228,15 +228,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
         width: 660
         height: 300
-  - title: "Police to Roll Out Live Facial Recognition Cameras in London"
-    excerpt: "Police to Roll Out Live Facial Recognition Cameras in London LONDON (Reuters) - British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government's own surveillance watchdog. First used in the capital at the Notting Hill ..."
-    publishedDateTime: 2020-01-26T10:57:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-01-24/police-to-roll-out-live-facial-recognition-cameras-in-london"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "London Police push forward with controversial facial recognition tech"
     excerpt: "The London Metropolitan Police Service has announced it will begin the operational use of Live Facial Recognition (LFR) technology, despite there still being many critics and concerns. The technology itself has come under criticism not only for poor ..."
     publishedDateTime: 2020-01-27T16:26:00Z

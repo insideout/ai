@@ -1,19 +1,23 @@
 ---
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
-excerpt: "The European Central Bank (ECB), in collaboration with Reply, leader in digital technology innovation, is organising the \"Supervisory Data Hackathon\", a coding marathon focussing on the application of Machine Learning and Artificial Intelligence."
+excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
 publishedDateTime: 2020-02-04T09:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/b15243725/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15243725"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15243725"
+webUrl: "https://markets.businessinsider.com/news/stocks/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
 type: article
-quality: 16
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -49,6 +53,6 @@ related:
         width: 914
         height: 611
 
-secured: "TLiEadzzPrbbrq5dohqbc6KRAVH84B6UoNqcQWqYtS5TBbBOX36pjSmaKY/fWq39QE+35H4ibK64Mv3cWhpdwXFLwxSiksc/3QsjOwB3fIDuyDG+BcSleOXBGxn1ZFaEzd472t/ajeWN/mlEJuv3oAV2K43+2eTv/BXuUZ9VhKZLMm5HJjQeCVRdsrlCp/dz/WW4igV9NgZFQe4/0S9wKBRxRMYjzcLo+S8KNAzVMOjfC+Jc6h6xm/niSbVI0kMFsQ/q2CLFGn6NtNRSBBQ7UYh5gq+JqVIGqcTuh31ykRit3+2tL0TmACkd4GwRYddG;Hs7e1uk+fxPPOeJRLIlhmA=="
+secured: "h0SmwudimPZJGc6DPVzZqyflvPv/b7myEuuBux5nlJwOCIPsW764347v15P1UZFgbNAQa9bCWqte+RWoE4ROvzCXzhQQXa2B8IhKsfux6I6HxuHjRLg6cBNaEAt8fUeMrxEzRIW+QLWznir5Sc1IZ3zxtvGBHvvv7FVHE9y5ox9/kH1rQl974E9tyHmfNMRJTNc7bCK0rtfIRFuAY8Aq/oEz0yvyeLID6J77oPBXcYsk0G55S4Lpy9IFGXYC7lcJqPXsl3oFL9uFZ/h9had1BFsp5KbK/F38VyvdMzAGR428AR0hHqoqJ0zmlErE/wDH;Wh8Bp8Z/REXK+9tOctqo8Q=="
 ---
 

@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Is this facial recognition app going too far? We tested it"
-excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
-publishedDateTime: 2020-02-10T01:12:00Z
-webUrl: "https://www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.html"
-ampWebUrl: "https://www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.amp.html"
+excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality,"
+publishedDateTime: 2020-02-10T02:12:00Z
+webUrl: "https://www.cnn.com/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200210034400-20200209-facial-recognition-gfx-super-tease.jpg"
+    width: 1100
+    height: 619
+    title: "Is this facial recognition app going too far? We tested it"
 
 related:
   - title: "Clearview’s Facial Recognition App Is Identifying Child Victims of Abuse"
@@ -442,6 +452,6 @@ related:
         width: 500
         height: 300
 
-secured: "y3jSysyjBCZawUTGuM9rUDu6EUWcMzTtGm6NagF6t/xL2xfvJVjyH3s7CFojVAXHY4zpwIygIwgtwWx2ClyoSiNvqmW0qdXA4sFgi5Xhuu5gW0it4CFpZMcNnnkGJDMyyOcpoKaN0Rl1TXEadIMV1R2nujJhnFjkSvTjo1IlX7dSwyJ4tr8JALEkWdHJIByLM8PL8x+ByNX29e8DTWqR4dGMn7+h1pLhObHzBdz/IuKlfVcAvlJdKTFenyIO+ULL+mQHOcZzAm4aKX9gK6nahzfAeueZMw00Ry9d0OnJYnOcYAh6ncgNWFSuhN3JmJdzOuFql3WuoqvJddKbfbWjSD+x25NwGyS+Rb72oqIn69Ib/YzMo9bggcDhsWzDS5Ki0wnEIkrZLpzB62Y/+48Rap/g2sO5AxUrqswE6TxF1zlYLcfMOcHcTlYfBZZERyu5z3Fs8bG1efF7b/l7rZpk/YjTNVJcToHFn/obZAiOIQk=;e1IgdrDC5QD/kNaxatfJ7Q=="
+secured: "rQcov1wf64cmJO/XrOnQEqnh97j/uA/4f2Yl5UlS50r4MMOlBGNQNtbVigRgxiIUGXja7y3CdRTo7etcrGQhSUYrtsyxqYpGkOvFbqW3QcR50l9W9SDREvyJzOMQT9X2Ygxs3ptmHC3Az5aDCnw2L3LBSm+DX2x7fcakMDaVdCbvkbv+CrIjrUiiSrPv9OBdOEi0LFVQ9ZsIcNnzR7e3S+0K+kSorFrf+oAchl4jCLh0MsjNYMKTKH5VtPHpWVCi8ThZ9sQEK1Dm6x/iftj8mc3GRzlLdQ1O9Tec/WJXASt4SIIBAHedlLeuXVxZZ03h;FXp0YhYiwuoXCecJZGks5w=="
 ---
 

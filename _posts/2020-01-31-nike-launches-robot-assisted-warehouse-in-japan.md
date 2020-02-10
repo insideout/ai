@@ -23,17 +23,6 @@ images:
     height: 512
     title: "Nike launches robot-assisted warehouse in Japan"
 
-related:
-  - title: "Drones, robots to inspect aging bridges, roads in Japan"
-    excerpt: "In a room at a research and development facility operated by the Kawasaki city government for start-up companies ... filled with camera- and monitor-equipped robots of various shapes and sizes, they use computers to inscribe lines on photos of a cracked concrete wall, and teach an artificial intelligence program how to identify the spots ..."
-    publishedDateTime: 2020-01-26T10:35:00Z
-    webUrl: "https://technology.inquirer.net/95624/drones-robots-to-inspect-aging-bridges-roads-in-japan"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 19
-
 secured: "UXx6D2M5s+1nJYQJXQ6UHdMiXNl3ihQkiGXj4iqN6ok5/OAvetndls8CnyBVaJWeAIvlTlMLGAjR/PhceG4f5iVDcz90FJXgsMH68xRKJsSglbg+D+V8FmYEcUCPEqLkXMDlFTQl1IbUMia5UEXhMkj0L2EnT+sTyEJjZNKE03VnrPbQERm6Sia0ltlLXr3NaAPTbnKj7J7vrlZgrmXfHLJoD8ugtjFRMSjcb+amCyhovwXPOJ2tN/9WY1wCCwp+usvjKZGtJs016dLrHR/ut8CZ5RhEKJHcqcuUq56yeQQvb5LX5IN0IaxDhFvieTBk;Kl1FAICGy29HeapL4dhL7g=="
 ---
 

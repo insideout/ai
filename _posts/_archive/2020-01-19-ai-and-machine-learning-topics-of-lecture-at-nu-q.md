@@ -23,6 +23,6 @@ images:
     height: 355
     title: "AI and machine learning topics of lecture at NU-Q"
 
-secured: "Ch4QyV13uRflHb2gbMztC53WntTg6B6OjUqCmArwi1txWazGBk7N4tfa2EOhm/W9225HkK8qDngenOaSxXmedDRteSD1eHjNWNZncBtKgri60fTKqpXHVdPzYhXwiXxIGUgiQJbpiORcc2c3bCqNcjWSRuQ+XKrw+UnpvCXMu4mKP977Mdh3+JCT+dxz9BwxsNBF+/Hn4Ugel6Nijy36lQURSPNgJfhFz6h0FGOM/dsxrVIsal/1f3MyGaTUsNojSHbkfLr7Sk/h+tp+z/hu0wfa+ADcUQIegRhu8l6g/B4nYYIEfnyzWypioGCaWjhh;29SrO2OBhO7vk+x1OQ+Bdg=="
+secured: "I/t8Xvugmg1PcE4NkUy023NQT/pBd6p+KOLxDhOOp8y4ZU31nleTEaVTMIdoIkbPvhERLXhPcA42qaP+Vwjo66kRVblQc4wZ7s506UzU80NFMhPTkgaze/SL0poYSTyU/A2CbHHItV3bzol0z9zuePK5t4N16jQ9LmRqyBJm3Kcwt6a+Gb+Fm+7Pxwm1TWxYo79f+LA8MrhXvcIqBde+GUZEo7fU0GAMhP3jD2cvIH9OPcThvwMxON0eYGXwzn+KnBIRIvwauoReE/0+e/tGMpAb9nVfHER57F0AZ1qQcH8UV4Fb0tt5drFkTi8K+iyw;RrPIZIQ7g3ZKSa0YkXQNGQ=="
 ---
 

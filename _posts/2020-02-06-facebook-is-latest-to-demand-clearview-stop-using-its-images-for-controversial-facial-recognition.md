@@ -112,6 +112,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/182908695/960x0.jpg?fit=scale"
         width: 711
         height: 473
+  - title: "Is this facial recognition app going too far? We tested it"
+    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality,"
+    publishedDateTime: 2020-02-10T02:12:00Z
+    webUrl: "https://www.cnn.com/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200210034400-20200209-facial-recognition-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
   - title: "Facebook, YouTube demand facial recognition company stop scraping faces from sites"
     excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship ..."
     publishedDateTime: 2020-02-06T19:05:00Z
@@ -367,17 +382,6 @@ related:
       - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/hi/facebook_6c84268a82f274cd1c00_hillspixzwickertestimony.jpg"
         width: 480
         height: 401
-  - title: "Is this facial recognition app going too far? We tested it"
-    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
-    publishedDateTime: 2020-02-10T01:12:00Z
-    webUrl: "https://www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.html"
-    ampWebUrl: "https://www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 39
   - title: "ACLU criticizes facial recognition company using photos without permission"
     excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
     publishedDateTime: 2020-02-06T05:25:00Z

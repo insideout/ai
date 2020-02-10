@@ -213,15 +213,6 @@ related:
       - url: "https://www.geek.com/wp-content/uploads/2019/03/Jeff-Bezos-Mars-Conference.jpg"
         width: 1000
         height: 562
-  - title: "Police to Roll Out Live Facial Recognition Cameras in London"
-    excerpt: "Police to Roll Out Live Facial Recognition Cameras in London LONDON (Reuters) - British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government's own surveillance watchdog. First used in the capital at the Notting Hill ..."
-    publishedDateTime: 2020-01-26T10:57:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-01-24/police-to-roll-out-live-facial-recognition-cameras-in-london"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Police Use Of Facial-Recognition App Comes Under Fire [POLL]"
     excerpt: "One attorney general has prohibited police departments from using the app. Should law enforcement be allowed to use it?"
     publishedDateTime: 2020-02-01T14:42:00Z
