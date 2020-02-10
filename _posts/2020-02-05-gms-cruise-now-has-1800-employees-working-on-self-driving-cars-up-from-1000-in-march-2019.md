@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/amp/"
 type: article
 quality: 163
-heat: 223
+heat: 233
 published: true
 
 provider:
@@ -112,6 +112,15 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
         width: 822
         height: 537
+  - title: "Self-Driving Cars as Edge Computing Devices"
+    excerpt: "Matt Ranney explains the architecture of Uber ATG’s self-driving cars and takes a look at how the software is developed, tested, and deployed. Jade Abbott discusses machine learning and the unexpected details of putting models in production besides just the code, model and infrastructure: DataOps, robustness and uncertainty tests, model drift ..."
+    publishedDateTime: 2020-02-10T22:40:00Z
+    webUrl: "https://www.infoq.com/presentations/uber-atg/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 4
 
 secured: "F63CMRfOPKN1MhSHxe8fGn4p9SPp1Tb2FgDzbwp42kO/bxTmTl6lFRHeqwHHcBbEdk3u6gUUMvyGi1M5HZzZpk9bMVxT7EJSXbqaF/zx6KR1JnPiGJOah4uZpObCOAVcVyTs/m5ayp8sXdI3yRloLKsgcqR58H8+SLc/hZkJQDNdU6NcPhC2yrmO6B5O1JxpuyrB32Kz9zaIBA1FbffCtasEdC2lgf9ikMjZ9kDv7xcuF2bXwUmlb1HHLfe3toBIRCFrpTK/ZzvlHh93qwxmr0WeFfZwMbqQINqU7zGVXM/CIZ+Vpvx7ixNMHObIceMslhr+Pf+Qpvx4yDmWx1Wfqq+1OFGVq6NAdgaon7wVN/mtNNSbDs77N0SGjqneBA3JN6964veC1Vkao4kQjB7lbw55HtHJbsXH9wfYmuJ64H4/j3P6ab2UHwcgKYfrHAl03WsSgKm+rEZgGXc76PyskYgo80EGKw5DfMtRV4y7KlltWc2sXFmKqru9lxPa7Gl8;iyf9oANgWoUewH79PlQ2GA=="
 ---

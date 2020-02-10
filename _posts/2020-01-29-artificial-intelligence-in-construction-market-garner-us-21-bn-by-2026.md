@@ -31,15 +31,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Image Recognition MarketWorth $ 81.88 billion By 2026 | CAGR 19.6%"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-27T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-marketworth-8188-billion-by-2026-cagr-196-2020-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Global Voice Assistant Market is Set to Reach USD 5,843.8 million by 2024, Observing a CAGR of 27.7% during 2019-2024: VynZ Research"
     excerpt: "NEW YORK, Jan. 28, 2020 (GLOBE NEWSWIRE) -- The global voice assistant market is expected to grow at a CAGR of 27.7% during the forecast period with its market size predicted to reach USD 5,843.8 million by 2024."
     publishedDateTime: 2020-01-28T16:38:00Z

@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/ai-on-steroids-much-bigger-neural-nets-to
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/"
 type: article
-quality: 78
-heat: 78
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -23,6 +23,8 @@ topics:
   - AI
   - Machine Learning
   - Facebook AI
+  - AI Hardware
+  - AI Ethics
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/79d4074f-3054-45ef-97ca-091d778943cd/hinton-bengio-lecun-press-briefing-feb-10th-2020.jpg"
@@ -30,6 +32,6 @@ images:
     height: 4887
     title: "AI on steroids: Much bigger neural nets to come with new hardware, say Bengio, Hinton, and LeCun"
 
-secured: "Y2To5msPzjCngs8ywF8jTuYe8lrWyz/n2GvGqu5QoreEzty7H7yowR6oGCdv8DginedW44xEHo+Vu4uIcGe7oKx1Dm8sFLFRnBRX05xldwABZbLZXOFBCIfaAIaPcOPIuy6LwrqL/B3iMCizZDAGUOEp5mEbvdvlw9U6WajcvCepBaaNODtnLxY/mlYc0NbTFzu6QgwAX4VkAK5bSCYroH0yNbbFvxYboL9eUi4li9ruBH6z0ZiZ4auMV4NFqlYG4oQUQtb58aMyniMhNe7Fdek35FdPJiBu44xphXfCxkmXRR+awKC8jJ3l5rzRZEC6;POBc5CcXuJgDX7jybMjUhA=="
+secured: "fWyiiiem6PuQ6WVu8ij26N7xFVbHL3pfx2s1aFqc1YZ1zEWeERgLAIInLjqzV7EQong3HTD4sJg6jYDMhihLhesIT4LeQY7B5ZvdSl+j8rYw4zFgZ7sdusJ7zk1E4tthm4mUdGhQxUiEqaEV+EU7Y1NREM5zSkXUBqO9AMgwgXUb8uSHpYjY2cQqxUxPGDDaJPWa1G0rdN3cez+Y6xbDf+gQTuCTxaE41BhUUFD9JPhtwyDY3LCgPLXMlxSUXULIXTm0N0WiTnnvHeiTqTWqQb0W7baL9uVRDlfxETjqdRUN/NN0KEk4ekryfvDGbK6QRkFyWcjtjEsMLAp3Bm++RYyDAhVXfvMNpwU0nJt+7wGypzaDAm6ihk70bi+6D7PNo4RONyZsotZfcYCTaYqZxjtQeYMSSis4ein7uOugEcH52fGAVHztvVV1X/q2idj34u/gcJr0XY1fW9AUdPubPiA1NejxX34OJPMH+n55KH8=;RxG9xcGksMrYCXexcUp95g=="
 ---
 

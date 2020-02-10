@@ -415,15 +415,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
-  - title: "Speech and Voice Recognition Market Global Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2026"
-    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
-    publishedDateTime: 2020-01-27T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-global-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2026-2020-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 3
   - title: "Global Artificial Intelligence in Medicine Market Size, Share & Forecast 2020-2023 | Global Industry Overview and Latest Trend and Growth Analysis"
     excerpt: "Global \"Artificial Intelligence in Medicine\" Market report 2020 intends to give inside and out data about Artificial Intelligence in Medicine industry with market outlook, trends, business strategies and future prospects of industry. It includes the present market status with some changing size and trends that can affect the market growth rate."
     publishedDateTime: 2020-01-31T11:30:00Z

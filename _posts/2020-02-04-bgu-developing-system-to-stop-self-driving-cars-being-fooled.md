@@ -108,6 +108,15 @@ related:
       name: Marietta Daily Journal
       domain: mdjonline.com
     quality: 24
+  - title: "Self-Driving Cars as Edge Computing Devices"
+    excerpt: "Matt Ranney explains the architecture of Uber ATG’s self-driving cars and takes a look at how the software is developed, tested, and deployed. Jade Abbott discusses machine learning and the unexpected details of putting models in production besides just the code, model and infrastructure: DataOps, robustness and uncertainty tests, model drift ..."
+    publishedDateTime: 2020-02-10T22:40:00Z
+    webUrl: "https://www.infoq.com/presentations/uber-atg/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 4
 
 secured: "5MTBir8fsgksU1FO1S4rX0BNBymvxe2AW2wV6wMS7uJTQV16NPyofhgvtf1mK2D+WHvgfz72QEpJTBb1O8MruCMaBtYSsM66xtYYthXbZx6+j7dw3xcccVFPw805UXODeb0r0hBFrBqD35xgIj3Rg86BfshYeuWY+wWd/XiRtk41JVZOPWBLhLBAus53p12VWlRG6bUAnbRFdNW/qzwHiBfIQIJnNkwDNl66iQ/iBLlFswmD8zKKqCdbwS/gMUDLVPU9/MWgoqCAGWDGO3EN1v/wU6manjev2hbsMNrFgt6nMzhuHau8yD+t5B34FOaknSnPShWDyoww2yXe+krcQSflDJ6TtMVAosO9GYofHPaqCVZjOdgImoj6tXVV2B2JKHqLpiJ+z0iVdYq8NkFsjw/3AoWCSkAswxylcY0f/TzE2z/kC8EoYqscZ8gz4wD+I//eo5LA1y66D5QWwqPY6Gd08p0T+gh+Jyq6ofYFmZU=;Ts+U4tskRWSXNG/43wULKA=="
 ---

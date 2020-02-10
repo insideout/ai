@@ -420,15 +420,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
-  - title: "Speech and Voice Recognition Market Global Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2026"
-    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
-    publishedDateTime: 2020-01-27T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-global-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2026-2020-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 3
   - title: "Continuous Positive Airway Pressure (CPAP) Humidifiers Market Growth Prospects, Trends and Forecast up to 2027"
     excerpt: "Continuous positive airway pressure (CPAP) humidifiers are vital accessories in sleep apnea therapy. Using a humidifier a patient can alleviate symptoms ... However, new developments in medical device technology such as development of CPAP hot humidifiers and artificial intelligence allow to image the new future of devices at higher level ..."
     publishedDateTime: 2020-02-03T12:52:00Z

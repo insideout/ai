@@ -108,6 +108,15 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
         width: 822
         height: 537
+  - title: "Self-Driving Cars as Edge Computing Devices"
+    excerpt: "Matt Ranney explains the architecture of Uber ATG’s self-driving cars and takes a look at how the software is developed, tested, and deployed. Jade Abbott discusses machine learning and the unexpected details of putting models in production besides just the code, model and infrastructure: DataOps, robustness and uncertainty tests, model drift ..."
+    publishedDateTime: 2020-02-10T22:40:00Z
+    webUrl: "https://www.infoq.com/presentations/uber-atg/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 4
 
 secured: "jNZ64W2eJgA0MUgZj49Szrg2G3pO3VsfQ5bYaJz4we1SwzVzJr2z46kS+oKWdQHcbpO7B+/TMyRR7vKADmXWoMBGtBOX2FeO2QY80X7w/zsgn+g6xTZkAA6i26YX3vFuRqEjf58xGgMpw+8eP2l/qSuvMwQy3ZEXIvFIQtK2QnHxNbipxgGYiHUxKSqiRaatJmy0mjqjKBxASCsIawKkMYYnZnKgK3xLocKyn3RJa00PmI4m9c+T9TIbZhkcE8cxcXsShu6ieGpis4/dDOyrsyetmiqH9HBoo4/DECjjtPfQz56p/OkCgpuz4g+hlOmj;VoxroJYPI9XWp4vqtuLkiQ=="
 ---

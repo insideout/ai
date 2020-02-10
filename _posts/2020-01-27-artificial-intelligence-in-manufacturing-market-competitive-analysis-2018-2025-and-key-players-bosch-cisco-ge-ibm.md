@@ -59,6 +59,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 27
+  - title: "Global Automatic Speech Recognition Market by Manufacturers, Types, Regions and Application Research Report Forecast to 2024"
+    excerpt: "Bigmarketresearch.com Published \"Global Automatic Speech Recognition Market 2019 Research Report – Forecast to 2024\" – Market Investment Analysis, Business Operation Data, Top Companys, Opportunity, Features,"
+    publishedDateTime: 2020-01-30T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-by-manufacturers-types-regions-and-application-research-report-forecast-to-2024-2020-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "e3R9bMHv5yiKZ0ghch4SQUjukpioVBAZoincK44PsN+IbDgF7RrPY5fbGbAWzTODsLhos6HhzhYtg3qUuNUjOV3kNqLYrW/HnKjF5rYzz5QmN+zc81ut4wvDPpEg1xNB0NM+9ywPXPxSGs+mSZvYq2thQXZ6qVjSTtc1W/eeKImcd0Qmw2OZ0ojox91DOlppVjpSZgalEcXJSjkqFi532nPqSQEZD6c+seAL1xL74YxEdNz44v3XR7DFv5ocmiUTgoalsDdgHZOIJAG4nAqFMwoFd6EYpg5Fakcg2bDbX7PmpuM9JOQNks4g57Unmuac;fZHZqxWAJPtGEXTKds4+zA=="
 ---

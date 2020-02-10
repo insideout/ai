@@ -8,7 +8,7 @@ ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upg
 cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
         width: 1000
         height: 750
+  - title: "40 groups have called for a US moratorium on facial recognition technology"
+    excerpt: "The news: US government use of facial recognition technology should be banned “pending further review,” according to 40 organizations that signed a letter calling for a recommendation to be made to the president. The letter, drafted by the privacy advocacy group Electronic Privacy Information Center, or EPIC, cites the recent New York ..."
+    publishedDateTime: 2020-01-29T15:27:00Z
+    webUrl: "https://www.technologyreview.com/f/615098/facial-recognition-clearview-ai-epic-privacy-moratorium-surveillance/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
   - title: "Illinois privacy law leads to $550M Facebook settlement over facial recognition"
     excerpt: "CHICAGO — Adam Pezen, Carlo Licata and Nimesh Patel are among millions of people who have been tagged in Facebook photos at some point in the past decade, sometimes at the suggestion of an automated tagging feature powered by facial recognition technology. It was their Illinois addresses, though, that put the trio’s names atop a lawsuit ..."
     publishedDateTime: 2020-02-09T20:40:00Z

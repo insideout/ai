@@ -29,20 +29,7 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 83
-  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-    excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific ..."
-    publishedDateTime: 2020-01-13T12:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
-secured: "jEOIQt0HZahCUwGonGNXMcLatUXH/MqnctiNlZv6tQa3U3wiFfj10NzU1tBs1VgoL/Vt6xcJU6fDyU76U44YUhapXp1y3LxVmPbrmkcn3taq/i0GgoJin+OdRZ5jJ3BaJWtKidqdo36wpquuMSyH8u50y4AT2dJCpBgU7NRJwHiIft3M65AWlC5ofmg4sMImk2qgzZApJL/2luCSpPOZ5bt3kxKqeoH0GFqrLBffb+/8X1lRlyu8djQxj/X2dzt2+0GIxotFm+S7KwX5MNxK38p+PE3iKQ/Vsj0yTOUA+UgISzYoaH1A/BHGRwTXUb1e;5AN9VT0ZPwMfLGVw6K/gTw=="
+secured: "dgiajCReTnKoiHg5J40FpLsbwenpkwSnZn0gdgyFtiPySifunHbd/n4HXvz2AZKTghp5LfuA2e4+gMbvpPNzCC6Gvm/tS9FSLKD58v/npij3UrkEpU5ZeLHVym0vxDB4xExnuMYeiRwwUqiPvVUudLEWLn1+n/XrLTfqX31dsZMnl3df7Rw8QyNkCFCbmFdXDTynZNNwVGT0dY8lqPObvDivtziD9nKLD190gJdSroiwlcMfOZXIHu+zvGhsfxPSUDzbX+MpANveN1QUe8GeJ3DG0zAx6z06nKu4JpmdJS4vErIqvHayHy8nv3WR6EcX;CMI3fjCa/5dFTr80qOE8ng=="
 ---
 

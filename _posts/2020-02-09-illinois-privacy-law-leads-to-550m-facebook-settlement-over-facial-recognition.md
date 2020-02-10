@@ -48,6 +48,15 @@ related:
       - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
         width: 1000
         height: 750
+  - title: "40 groups have called for a US moratorium on facial recognition technology"
+    excerpt: "The news: US government use of facial recognition technology should be banned “pending further review,” according to 40 organizations that signed a letter calling for a recommendation to be made to the president. The letter, drafted by the privacy advocacy group Electronic Privacy Information Center, or EPIC, cites the recent New York ..."
+    publishedDateTime: 2020-01-29T15:27:00Z
+    webUrl: "https://www.technologyreview.com/f/615098/facial-recognition-clearview-ai-epic-privacy-moratorium-surveillance/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
   - title: "Facebook to pay US$550 million to settle face recognition lawsuit and avoid ‘risky and expensive’ trial"
     excerpt: "If Facebook had lost it might have been forced to pay US$6 billion, according to Matthew Schettenhelm, Bloomberg Intelligence litigation and government analyst. Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest ..."
     publishedDateTime: 2020-01-30T04:04:00Z

@@ -50,6 +50,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 27
+  - title: "Global Automatic Speech Recognition Market by Manufacturers, Types, Regions and Application Research Report Forecast to 2024"
+    excerpt: "Bigmarketresearch.com Published \"Global Automatic Speech Recognition Market 2019 Research Report – Forecast to 2024\" – Market Investment Analysis, Business Operation Data, Top Companys, Opportunity, Features,"
+    publishedDateTime: 2020-01-30T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-by-manufacturers-types-regions-and-application-research-report-forecast-to-2024-2020-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
   - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
     excerpt: "This technology is used in industry verticals, such as manufacturing, supply chain, and others. Development of artificial intelligence-empowered chips, robots, and others in manufacturing help enhance the overall production line, and thus, has significantly increased the adoption of artificial intelligence in the manufacturing sector."
     publishedDateTime: 2020-01-27T13:01:00Z

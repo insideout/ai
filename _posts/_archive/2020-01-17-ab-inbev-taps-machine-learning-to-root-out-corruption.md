@@ -29,6 +29,6 @@ images:
     height: 640
     title: "AB InBev Taps Machine Learning to Root Out Corruption"
 
-secured: "HL6yigT5jWs5C9JK1Gh9zrJd6PnOK+aasHqi4PHxaQHqxkiOkpuRxQrh7PKGBnGUingCdVFTYKh02DeKAw5dqR+IT8OmPufyGPJKPWZRbH/ZdTSJbznM4DGPU563smZuVnMJbVYjiUcnBbPhwL8uDw0v9NqvSOhQm5vH7fgN+Fx1cm3+ilzTDq/RASwgKFFckvVFBUx8b+QARB+adecTxdUeSviznMHG2WLe5042ePl3wZlaLhelxbDTzKTVlz12PnbXFeo9D+daRMoQg7Lj1/sZcYpkOxyaNQkokamaJ9ovPsDOrD25JQ3URPFeasWA;6EsWe2NexxloxpcRhSf/zA=="
+secured: "JLJaWgE+kiy00JwcrZEylVqgjpgqJ+OFhyqqpsEkMFEAwFJRcs1lXNl/aDvibqzToGypbj6Y6a+VOieiEa3B8crOfvOihuCNAyG0a3FtF3f5BXAvyAURt+C+RDdGebYtWdzcDh0YnlOA3tvstuaS7AEA4FhOeJt4xsg7tXDkZmBH6+EozQerlUp1Vkh9+kC2MCEDn6gOAFvgr+/8OzGXIrnLSsd72g+GH6p+JW2bsA6GtLqCIU+oRNNtHoGEWAp6DXyc0+ajsxhKTWzaenO/beusNkKGfLmkBPoIgwnTcc9kJ+9M/pwXO5mzfUhlPwb1;ZdJpImeoy1KSN3TpC/kJNg=="
 ---
 

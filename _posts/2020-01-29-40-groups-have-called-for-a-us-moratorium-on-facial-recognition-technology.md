@@ -18,86 +18,53 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Facial Recognition Biometrics Market Advance Technology and New Innovations 2020"
-    excerpt: "Global Facial Recognition Biometrics Market Research Report 2020 provides key analysis on the market status of the Facial Recognition Biometrics manufacturers with market size, growth, share, trends as well as industry cost structure."
-    publishedDateTime: 2020-01-27T05:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020-2020-01-27"
+  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition settlement"
+    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
+    publishedDateTime: 2020-02-03T23:02:00Z
+    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
+    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: Canoe.com
+      domain: canoe.com
+    quality: 50
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Top Trends Driving Technology Innovation Investments in 2020 Revealed by Virtusa"
-    excerpt: "Financial Services, Insurance, and Life Sciences Leading in Innovation to Start the New Decade SOUTHBOROUGH, Mass., Jan. 28, 2020 (GLOBE NEWSWIRE) -- Virtusa Corporation VRTU, +0.29%, a global provider of digital strategy,"
-    publishedDateTime: 2020-01-28T13:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-trends-driving-technology-innovation-investments-in-2020-revealed-by-virtusa-2020-01-28-9195110"
+      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
+        width: 1000
+        height: 750
+  - title: "Zuckerberg pledges Facebook privacy upgrades after US$550M facial recognition lawsuit settlement"
+    excerpt: "Facebook had originally been sued in 2015, when users accused the Menlo Park, Calif.-based company of violating Illinois’ Biometric Information Privacy Act by using facial recognition technology to collect biometric data. Users said Facebook did this by obtaining data through its “Tag Suggestions” feature, which allowed users to recognize ..."
+    publishedDateTime: 2020-02-03T23:00:00Z
+    webUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement"
+    ampWebUrl: "https://canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
+    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/technology/zuckerberg-pledges-facebook-privacy-upgrades-after-us550m-facial-recognition-lawsuit-settlement/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Canoe.com
+      domain: canoe.com
+    quality: 46
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Facial recognition datasets and controversies drive biometrics and digital ID news of the week"
-    excerpt: "Facial recognition and controversy around the technology were the theme common to most of the past week’s top stories on Biometric Update. After a few weeks of relative calm for facial biometrics, the biggest stories about court cases, regulation, and market growth were all focused on the same modality; and then there was Clearview AI."
-    publishedDateTime: 2020-02-01T01:15:00Z
-    webUrl: "https://www.biometricupdate.com/202001/facial-recognition-datasets-and-controversies-drive-biometrics-and-digital-id-news-of-the-week"
+      - url: "https://postmediacanoe.files.wordpress.com/2020/01/zuckerberg1000.jpg"
+        width: 1000
+        height: 750
+  - title: "Illinois privacy law leads to $550M Facebook settlement over facial recognition"
+    excerpt: "CHICAGO — Adam Pezen, Carlo Licata and Nimesh Patel are among millions of people who have been tagged in Facebook photos at some point in the past decade, sometimes at the suggestion of an automated tagging feature powered by facial recognition technology. It was their Illinois addresses, though, that put the trio’s names atop a lawsuit ..."
+    publishedDateTime: 2020-02-09T20:40:00Z
+    webUrl: "https://www.bostonherald.com/2020/02/09/illinois-privacy-law-leads-to-550m-facebook-settlement-over-facial-recognition/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 27
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-  - title: "Artificial Intelligence in Medical Imaging 2020 Global Market – Innovation, Technologies, Applications, Verticals, Strategies & Forecasts"
-    excerpt: "“Artificial Intelligence in Medical Imaging Market” WiseGuyReports.Com Publish a New Market Research Report On –\" Artificial Intelligence in Medical Imaging"
-    publishedDateTime: 2020-01-27T08:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/ab15186686/artificial-intelligence-in-medical-imaging-2020-global-market-innovation-technologies-application"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15186686"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186686"
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 15
+  - title: "Facebook to pay US$550 million to settle face recognition lawsuit and avoid ‘risky and expensive’ trial"
+    excerpt: "If Facebook had lost it might have been forced to pay US$6 billion, according to Matthew Schettenhelm, Bloomberg Intelligence litigation and government analyst. Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest ..."
+    publishedDateTime: 2020-01-30T04:04:00Z
+    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3048174/facebook-pay-us550-million-settle-face-recognition"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
-    images:
-      - url: "https://www.abnewswire.com/uploads/1580118163.jpeg"
-        width: 466
-        height: 310
-  - title: "Global Automatic Speech Recognition Market by Manufacturers, Types, Regions and Application Research Report Forecast to 2024"
-    excerpt: "Bigmarketresearch.com Published \"Global Automatic Speech Recognition Market 2019 Research Report – Forecast to 2024\" – Market Investment Analysis, Business Operation Data, Top Companys, Opportunity, Features,"
-    publishedDateTime: 2020-01-30T07:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-by-manufacturers-types-regions-and-application-research-report-forecast-to-2024-2020-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-  - title: "Voice Recognition Systems Market Size Forecast - 2030"
-    excerpt: "[160 Pages Report] PMI's publication of the Voice Recognition Systems Market-Size, Share, Trends, forecast 2030 examines the market for Voice Recognition Systems and the considerations involved in implementation. The 66-page report reviews the growing ..."
-    publishedDateTime: 2020-01-28T12:44:00Z
-    webUrl: "https://www.openpr.com/news/1911316/voice-recognition-systems-market-size-forecast-2030"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
-  - title: "Artificial Intelligence in Medicine Market Advanced Technology and New Innovations by 2025 – InSilico Medicine, Globavir Biosciences"
-    excerpt: "Market Growth Insight has announced the addition of the “Global Artificial Intelligence in Medicine Market Research Report 2018-2025” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. The global artificial intelligence (AI) in medicine market was valued ..."
-    publishedDateTime: 2020-01-27T13:02:00Z
-    webUrl: "https://www.techworld.com.au/mediareleases/37938/artificial-intelligence-in-medicine-market/"
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
+      name: South China Morning Post
+      domain: scmp.com
     quality: 0
 
 secured: "HEFFZj+bukcdRb0RYzn4aKADx5wcHGMAEztgZLYHVqTz2PcAncLHdTtCD42wzHoeAeBj/i7CWd0LhIpKnL0xpZfzAcytuETWeqz2Bhwiqe+kIu04bMiRL6WgXvdadUnZT6OC//3TK7VrPLLq5q7ptAt/1lEe9jPytAyzcDVhKcTX+jwgC4Pa8YZreKx5P4RGkxD69LpJan0W8981p6YLNqgdiYzC4FnQ+Tf36ny6c9Afgoplg8GG9gMA+R6z1s5enCEAD1pSMjeAcUCp8KDEbsxBS1kXuDqqB1vDpbMzC3qc1OMSuOo6z7xpj2+e3HP/H8LwEF40ypwxctI1htS64pqrQxvJS1ApXPWFEJtPbDK9Pz5q4SbQAK0rxH4ThEkE+JzFKd1Reu3AyzDshrOQzQ0o+5L93U6mlOW66tS/NrGgUa3UT7g9zOYvQ15PwuY9mf8HN8SUi+YTA2qjRjchZZ6v1VQ2Ylb1hU+kQcVph9Q=;W30ESV4gDn5TDvUpz8yD5w=="
