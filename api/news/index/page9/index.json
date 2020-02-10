@@ -2,6 +2,51 @@
   "page": 9,
   "value": [
     {
+      "path": "_posts/2020-02-07-white-house-reportedly-aims-to-double-ai-research-budget-to-2b.md",
+      "title": "White House reportedly aims to double AI research budget to $2B",
+      "excerpt": "The White House is pushing to dedicate an additional billion dollars to fund artificial intelligence research, effectively doubling the budget for that purpose ... applications that may grow to become the next globe-spanning monopoly, a la Google or Facebook — which themselves, as quasi-sovereign powers, invest heavily in the field for ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/07/white-house-reportedly-aims-to-double-ai-research-budget-to-2b/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/07/white-house-reportedly-aims-to-double-ai-research-budget-to-2b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/07/white-house-reportedly-aims-to-double-ai-research-budget-to-2b/amp/",
+      "publishedDateTime": "2020-02-07T14:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1139876920.jpg?w=1024",
+          "width": 1024,
+          "height": 664,
+          "title": "White House reportedly aims to double AI research budget to $2B",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-08-ai-for-a-competitive-advantage.md",
       "title": "AI For A Competitive Advantage",
       "excerpt": "If implemented gradually and accompanied by training for employees to maximize the technology’s impact, AI can promise to unlock many new doors for any organization.",
@@ -913,8 +958,7 @@
       ],
       "topics": [
         "AI",
-        "AI in Healthcare",
-        "AI Ethics"
+        "AI in Healthcare"
       ]
     },
     {
@@ -1114,6 +1158,44 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-aclu-said-clearview-ais-facial-recognition-accuracy-study-is-absurd.md",
+      "title": "ACLU Said Clearview AI’s Facial Recognition Accuracy Study Is “Absurd”",
+      "excerpt": "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and forced Clearview to remove it last month. Clearview AI, the facial ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-ai-and-automation-together-forever.md",
       "title": "AI and automation: together forever?",
       "excerpt": "While it has not yet arrived, the time is approaching in packaging and processing manufacturing when it will be nearly impossible to discuss advancements in automation without addressing congruent developments in artificial intelligence (AI). AI and automation are particularly intertwined in robotics, supplying workforce-enhancing solutions ...",
@@ -1139,6 +1221,35 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-ai-brain-scans-may-alter-how-doctors-treat-depression.md",
+      "title": "AI, brain scans may alter how doctors treat depression",
+      "excerpt": "DALLAS - Feb. 10, 2020 - Artificial intelligence may soon play a critical role in choosing which depression therapy is best for patients. A national trial initiated by UT Southwestern in 2011 to better understand mood disorders has produced what scientists are calling the project's flagship finding: a computer that can accurately predict ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-02/usmc-abs020420.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1237,6 +1348,35 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-ai-in-the-auto-market-to-eclipse-12b-by-2026.md",
+      "title": "AI in the Auto Market to Eclipse $12B by 2026",
+      "excerpt": "In July 2019, Intel launched Pohoiki Beach, a new AI-enabled chip that features 8 million neural networks and can reach up to 10,000X faster computing speeds compared to traditional CPUs. Furthermore, the increased use of sensors, including high-resolution cameras, LiDARs, and ultrasonic sensors for vehicle situational awareness, is fueling the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.electronicdesign.com/markets/automotive/article/21122595/ai-in-the-auto-market-to-eclipse-12b-by-2026",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-ai-the-growing-case-for-transparency.md",
       "title": "AI: The growing case for transparency",
       "excerpt": "As artificial intelligence (AI) becomes a part of our lives, the need to move beyond the black-box approach is becoming more and more urgent. We already have a legal framework relating to data protection – GDPR in the European Union and POPI here in South Africa are examples – but, as yet, we lack any regulatory framework for what companies ...",
@@ -1251,6 +1391,34 @@
       "provider": {
         "name": "ITWeb",
         "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-am-best-to-host-webinar-on-digital-intelligence-in-underwriting.md",
+      "title": "AM Best to Host Webinar on Digital Intelligence in Underwriting",
+      "excerpt": "A panel of life insurance underwriting experts will examine how the evolving capabilities of artificial intelligence and machine learning are helping underwriting professionals to assess risk with greater speed and accuracy. The session will also examine how insurance professionals are adapting to and leveraging next-generation underwriting ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tmcnet.com/usubmit/-am-best-host-webinar-digital-intelligence-underwriting-/2020/02/10/9094960.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1671,167 +1839,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-automotive-recognition-system-market-latest-demand-by-2020-2024-with-leading-players-like-cognivue-eyesight-technologies-intel-qualcomm.md",
-      "title": "Automotive Recognition System Market latest demand by 2020-2024 with leading players like - CogniVue, EyeSight Technologies, Intel, Qualcomm",
-      "excerpt": "Ongoing Trends of Automotive Recognition System Market :- The Automotive Recognition System market industry report highlights the important components related to the top sellers of Automotive Recognition System industry that influence the market.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-recognition-system-market-latest-demand-by-2020-2024-with-leading-players-like---cognivue-eyesight-technologies-intel-qualcomm-2020-02-10",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-automotive-self-driving-chip-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026.md",
-      "title": "Automotive Self-driving Chip Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026",
-      "excerpt": "The report provides rational insights along with historical and forecast data to aid in better understanding of the Global Automotive Self-driving Chip Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of the Automotive Self-driving Chip market.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-02-10",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T01:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-behind-the-red-carpet-the-pre-oscars-facial-the-a-list-love.md",
-      "title": "Behind the red carpet: The pre-Oscars facial the A-list love",
-      "excerpt": "Increasingly, recognition is being given to not only the hair and make-up artists forming the ... From a home in the Hollywood Hills she performed her Ultimate TT Facial, which is all about granting a glowing, lifted and sculpted face (see Ratajkowski as your poster girl). \"First I double-cleansed with the Laura Mercier Balancing Crème ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.harpersbazaar.com/uk/beauty/skincare/a30851936/emily-ratajkowski-oscars-facial/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harper's Bazaar",
-        "domain": "harpersbazaar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-business-intelligence-doesnt-need-more-ai-it-needs-more-humans.md",
-      "title": "Business Intelligence Doesn’t Need More AI; It Needs More Humans",
-      "excerpt": "And humans bring certain things to the decision making table AI never will, qualities like compassion, morality, risk-taking, altruism, and ethics. It’s true that in recent years, there have been several attempts to imbue AI systems with codes of ethics. But whose ethics? Ethics and values differ significantly from culture to culture.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.business2community.com/business-intelligence/business-intelligence-doesnt-need-more-ai-it-needs-more-humans-02282393",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T05:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-change-healthcare-releases-the-2020-industry-pulse-report.md",
-      "title": "Change Healthcare Releases the 2020 Industry Pulse Report",
-      "excerpt": "The report also reveals where payers and providers are well-aligned, such as around Social Determinants of Health, specific tactics to improve consumer engagement, and the immense potential for artificial intelligence (AI) and machine learning (ML) to improve healthcare. Also, for the first time in its decade-long history, Industry Pulse Report ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200210005115/en/Change-Healthcare-Releases-2020-Industry-Pulse-Report",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
