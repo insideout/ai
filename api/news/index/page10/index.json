@@ -2,6 +2,63 @@
   "page": 10,
   "value": [
     {
+      "path": "_posts/2020-02-10-artificial-joints-for-orthopedic-purposes-market-in-finland-2019-researchandmarketscom.md",
+      "title": "Artificial Joints for Orthopedic Purposes Market in Finland, 2019 - ResearchAndMarkets.com",
+      "excerpt": "Country Coverage: Data Coverage: Reasons to Buy this Report: In this report, you can find information that helps you to make informed decisions on the following issues: While doing this research, the researchers combined the accumulated expertise of their analysts and the capabilities of artificial intelligence. The AI-based platform ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200210005418/en/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-automatic-content-recognition-acr-market-to-increase-valuation-with-surging-investments-by-2023.md",
+      "title": "Automatic Content Recognition (ACR) Market To Increase Valuation With Surging Investments By 2023",
+      "excerpt": "Market Segmentation MRFR's analysis of the entire automatic content recognition market has been segmented on the basis of technology, end-user application, and region. Technology employed in the global ACR market include speech recognition, digital watermarks, and passive fingerprinting. Speech recognition has been recognized as the largest and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1925178/automatic-content-recognition-acr-market-to-increase",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-automotive-recognition-system-market-latest-demand-by-2020-2024-with-leading-players-like-cognivue-eyesight-technologies-intel-qualcomm.md",
       "title": "Automotive Recognition System Market latest demand by 2020-2024 with leading players like - CogniVue, EyeSight Technologies, Intel, Qualcomm",
       "excerpt": "Ongoing Trends of Automotive Recognition System Market :- The Automotive Recognition System market industry report highlights the important components related to the top sellers of Automotive Recognition System industry that influence the market.",
@@ -189,6 +246,43 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-deal-prepare-for-the-robot-age-with-essential-ai-training.md",
+      "title": "Deal: Prepare for the robot age with Essential AI training",
+      "excerpt": "That might be an apocalyptic view, but learning how our future conquerors operate is definitely a worthwhile career move. Tech Deals is now offering the Essential AI and Machine Learning Certification Training Bundle as a budget-friendly guide. Explore computer vision and machine learning. Across your training, you’ll dabble with computer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/essential-ai-training-1080950/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -674,6 +768,36 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-farnell-showcasing-next-generation-technologies-in-ai-and-machine-learning-connectivity-sensing-and-power-at-embedded-world.md",
+      "title": "Farnell Showcasing Next-Generation Technologies in AI and Machine Learning, Connectivity, Sensing and Power at Embedded World",
+      "excerpt": "Taking centre stage at the exhibition will be Farnell's investment in next-generation technologies for Artificial Intelligence (AI) and machine learning ... Sensing and Power Management -The Avnet Azure Sphere Starter Kit with Microsoft Azure hardware security and cloud solution for IoT applications. -STMicroelectronics' new multi-sensor ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/news-releases/farnell-showcasing-next-generation-technologies-in-ai-and-machine-learning-connectivity-sensing-and-power-at-embedded-world",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence.md",
       "title": "FIFA’s Plans To Improve VAR Offside Calls With Artificial Intelligence",
       "excerpt": "FIFA has begun the early stages of testing for a new semi-automated offside system that combines AI with limb tracking technology. I spoke to FIFA's head of technology and innovation to find out how it works and when fans might first get to see it in action.",
@@ -736,6 +860,43 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-flagging-suspicious-healthcare-claims-with-amazon-sagemaker.md",
+      "title": "Flagging suspicious healthcare claims with Amazon SageMaker",
+      "excerpt": "The National Health Care Anti-Fraud Association (NHCAA) estimates that healthcare fraud costs the nation approximately $68 billion annually—3% of the nation’s $2.26 trillion in healthcare spending. This is a conservative estimate; other estimates range as high as 10% of annual healthcare expenditure,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T09:12:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1335,27 +1496,19 @@
     {
       "path": "_posts/2020-02-10-keysight-to-highlight-solutions-that-help-organizations-accelerate-defenses-with-dynamic-network-intelligence-at-rsa-2020.md",
       "title": "Keysight to Highlight Solutions that Help Organizations Accelerate Defenses with Dynamic Network Intelligence at RSA 2020",
-      "excerpt": "on Tuesday, February 25 th, 3:40 PM – 4:30 PM. The session will explore cybersecurity and privacy issues brought by the rise of artificial intelligence and machine learning. An elite panel of experts including Sean Cordero, head of Cloud Strategy for Netskope, Justin Harvey, Global Managing Director of Accenture, Chris Morales, head of ...",
+      "excerpt": "Keysight and its technology partners will share security expertise on topics such as breach and attack simulation, cloud security, encryption and TLS 1.3, network visibility and automation in the Keysight booth daily Keysight will hold a special panel session, \"Are Artificial Intelligence and Machine Learning Being Used Against You - And Is It ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/keysight-to-highlight-solutions-that-help-organizations-accelerate-defenses-with-dynamic-network-intelligence-at-rsa-2020-1028889897",
+      "webUrl": "https://www.tmcnet.com/usubmit/-keysight-highlight-solutions-that-help-organizations-accelerate-defenses-/2020/02/10/9094936.htm",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T07:00:00-08:00",
+      "publishedDateTime": "2020-02-10T08:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1371,18 +1524,18 @@
     {
       "path": "_posts/2020-02-10-mcloud-announces-tuck-in-acquisition-of-ai-visual-inspection-technology-from-airfusion.md",
       "title": "mCloud Announces Tuck-In Acquisition of AI Visual Inspection Technology from AirFusion",
-      "excerpt": "Acquisition brings AssetCare™ to major wind operators and OEMs in continental Europe, with plans to extend AI-powered wind turbine blade inspection to customers globally, including China and North America,",
+      "excerpt": "Headquartered in Vancouver, Canada with offices in twelve locations worldwide, the mCloud family includes an ecosystem of operating subsidiaries that deliver high-performance IoT, AI, 3D, and mobile capabilities to customers, all integrated into AssetCare. With over 100 blue-chip customers and more than 35,000 assets connected in thousands of ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/02/n15288782/mcloud-announces-tuck-in-acquisition-of-ai-visual-inspection-technology-from-airfusion",
+      "webUrl": "https://www.tmcnet.com/usubmit/-mcloud-announces-tuck-acquisition-ai-visual-inspection-technology-/2020/02/10/9094767.htm",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T04:51:00-08:00",
+      "publishedDateTime": "2020-02-10T05:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1452,165 +1605,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-new-ai-technology-from-arm-delivers-unprecedented-on-device-intelligence-for-iot.md",
-      "title": "New AI Technology From Arm Delivers Unprecedented On-Device Intelligence for IoT",
-      "excerpt": "Arm Cortex-M55: Arm’s most AI-capable Cortex-M processor Cortex-M processors have become the computing platform of choice for developers, with Arm partners shipping more than 50 billion chips based on Cortex-M into a vast range of customer applications. With the addition of the Cortex-M55, Arm is offering its most AI-capable Cortex-M ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200210005346/en/New-AI-Technology-Arm-Delivers-Unprecedented-On-Device",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-new-startup-prickle-announces-chrome-extension-to-demystify-pricing-fluctuations.md",
-      "title": "New Startup Prickle Announces Chrome Extension to Demystify Pricing Fluctuations",
-      "excerpt": "Tech startup Prickle launches its premiere product Melbourne, Australia -- Prickle is a revolutionary new Google Chrome browser extension that helps consumers track the changing price of any product online,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/new-startup-prickle-announces-chrome-extension-to-demystify-pricing-fluctuations-2020-02-10",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-next-wave-of-ai-chatbots-driving-force-for-business-communications.md",
-      "title": "Next Wave of AI Chatbots: Driving force for business communications",
-      "excerpt": "Now, AI isn’t just for Fortune 500 companies anymore. Due to the innovation in AI over the past few years, small businesses now can leverage AI technology to improve their operations, connect more deeply with their customers and, ultimately, boost their sales. AI is progressing quickly, AI-powered chatbots are now capable of delivering a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ciol.com/next-wave-of-ai-chatbots-driving-force-for-business-communications/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-oscar-for-parasite-quenches-koreans-long-thirst-for-recognition.md",
-      "title": "Oscar for ‘Parasite’ Quenches Koreans’ Long Thirst for Recognition",
-      "excerpt": "As Bong Joon-ho’s film received Academy Awards for best picture and best director, the honors set off cheers and a burst of pride in a country fearful of being overlooked. A TV screen showing images of the South Korean director Bong Joon-ho at a railway station in Seoul on Monday.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/02/10/world/asia/Parasite-Oscar-bong-joon-ho.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-predicting-chaos-using-aerosols-and-ai.md",
-      "title": "Predicting chaos using aerosols and AI",
-      "excerpt": "This kind of AI is first fed information about a real-world process, then, based on that data, it creates a simulation of that process. Motivated by game theory, a generative adversarial network receives both the ground truth (real) and randomly generated data (fake) and tries to determine which is real and which is fake. This process repeats ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://phys.org/news/2020-02-chaos-aerosols-andai.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

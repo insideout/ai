@@ -1,23 +1,19 @@
 ---
 category: news
 title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific ..."
-publishedDateTime: 2020-01-13T12:22:00Z
-webUrl: "https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13"
+excerpt: "By developing a new, next-generation statistics platform on AWS, using Amazon SageMaker, a fully managed service to build, train, and deploy ML models, Bundesliga will offer fans real-time ..."
+publishedDateTime: 2020-01-13T13:28:00Z
+webUrl: "https://www.oaoa.com/news/business/article_bff64e43-c5a2-5acc-8ac2-6ada0e8d7d11.html"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AI
   - AWS AI
 
-secured: "bLL8K8z+wm4CS/jIvrckVJWYzUBVWGJFBtwTmpcaHsLvrhkg0yH10rPjhsG9UkmxjDPrwj6vTVXGAHaWJkXuSMKyc/76BOR8r7/lNF6rz2CyipK+GOPxgEcvCny1akBxkLa2KN9+WxJ8WzjUSaq46ykBW7v4E15j/3FC4XPQqjEwgP2WEyCxxgjR6EXKjkKgMbxyMj6/iEXPTK/4f0EEk/KXe2LJ5C97WjbaBzJ3a6Ib/QWX+ZYJWRcgp1e8af9Gk+7VhaGEI+KXHzlMq+yINlG1Ue0bzV0aaHuXryNCcS+hlnWK/oTiY/HZkXxrbLN4;UHCSH2+yKDq8g29bQglwmQ=="
+secured: "o9lr8YWJ6yUVtQcPT0VGSRDkxqnlRYLpE9UYsnVQC8WOFUG2io8xBS/xJuyEwHz+q917owU7vkxaXrzSEglEpLLmsII72bXbm7pLxeHNXeCRVXVMq9jHA6PMOxyeCssktX+uO7c+IyoyafpE7ItT2Diz7ztBxEFZ9hwCH/FfeiJprPKzuvHaQbaIySbztMI9+jEeulgvOl6rR+uzlnA1WEKTFAOChHU5wmjataQAQrtBo75BScn6ehB8ylU7Oii254SwxymkTcpDPwVr1yV1wuD8S5zrMSsCeee3jz/IcusOFbyAc58IKm8opXGg3HlI;FWn2DUOAXbzGReGV2mS1Ig=="
 ---
 

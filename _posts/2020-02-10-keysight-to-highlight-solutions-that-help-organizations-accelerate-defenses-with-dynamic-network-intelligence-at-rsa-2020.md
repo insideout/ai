@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Keysight to Highlight Solutions that Help Organizations Accelerate Defenses with Dynamic Network Intelligence at RSA 2020"
-excerpt: "on Tuesday, February 25 th, 3:40 PM – 4:30 PM. The session will explore cybersecurity and privacy issues brought by the rise of artificial intelligence and machine learning. An elite panel of experts including Sean Cordero, head of Cloud Strategy for Netskope, Justin Harvey, Global Managing Director of Accenture, Chris Morales, head of ..."
-publishedDateTime: 2020-02-10T15:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/keysight-to-highlight-solutions-that-help-organizations-accelerate-defenses-with-dynamic-network-intelligence-at-rsa-2020-1028889897"
+excerpt: "Keysight and its technology partners will share security expertise on topics such as breach and attack simulation, cloud security, encryption and TLS 1.3, network visibility and automation in the Keysight booth daily Keysight will hold a special panel session, \"Are Artificial Intelligence and Machine Learning Being Used Against You - And Is It ..."
+publishedDateTime: 2020-02-10T16:05:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-keysight-highlight-solutions-that-help-organizations-accelerate-defenses-/2020/02/10/9094936.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "N0kA8eDRg7S/wZIC9mHNWSoE6eCt37n/Zs7hKDhJhqvPGkfXa4NWZ8MWtauXeaIAnAmjGLUDQP6B5dSYORvGrfyb/m8n3EvgxZqDGy2UO2bPlhMgYTRZQXqGdHNFg5KdViAsKJ2UcGebvYO6nw5LWOsTVaC/SV8bAponMc/B3sSnbDDhNcsz7dsEMGWkkJtaQ0Hnt8CJSVE5+DBkJ+prlFUqv3SW5QcPTMxn1T8KbLfA1EXCAe3em7PoxGVhOI2N0yhouxlQMNHwu9azvYCN8b6Q9HPhRLQe8tptW7A7BgkBLZMlCgLAaPIobf6Kwz7C;rB8PZv/ftce9/ODFWmInsw=="
+secured: "0JengMyUf4Olz0LTjHgb6eN2lsJWxglqoxp9+Y9sV5c1bud5TOreara08tdJlOumeYHjiVR212hkNoJigvUGm8WZtDCkmPSASkshpcMwmtVEmNnCYaTW3tgl3DP9l6PwQmJGHuiRvq97uIA+k5RNjQ7pytc5JL8MKAyESj5qRLe8PfpBdaz90j8pVMM2x1j4M6vnhaTiPjhJb692h7e1fTXVQx7b2j7ROLjT9OlAvPE/aKsAEQY9NhHHa7OtnfXrnRdveRyPtzYsQyeXfdeS+/BWzYheTRCCDLvFL42y9H0APfGUsPSnB+zm9doiP326;hkekvmrTi1OnfiaUeQHcCg=="
 ---
 

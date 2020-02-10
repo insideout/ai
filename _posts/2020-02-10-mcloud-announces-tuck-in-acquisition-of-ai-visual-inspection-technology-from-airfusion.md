@@ -1,19 +1,19 @@
 ---
 category: news
 title: "mCloud Announces Tuck-In Acquisition of AI Visual Inspection Technology from AirFusion"
-excerpt: "Acquisition brings AssetCare™ to major wind operators and OEMs in continental Europe, with plans to extend AI-powered wind turbine blade inspection to customers globally, including China and North America,"
-publishedDateTime: 2020-02-10T12:51:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/n15288782/mcloud-announces-tuck-in-acquisition-of-ai-visual-inspection-technology-from-airfusion"
+excerpt: "Headquartered in Vancouver, Canada with offices in twelve locations worldwide, the mCloud family includes an ecosystem of operating subsidiaries that deliver high-performance IoT, AI, 3D, and mobile capabilities to customers, all integrated into AssetCare. With over 100 blue-chip customers and more than 35,000 assets connected in thousands of ..."
+publishedDateTime: 2020-02-10T13:53:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-mcloud-announces-tuck-acquisition-ai-visual-inspection-technology-/2020/02/10/9094767.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI Hardware
 
-secured: "J1/i/f5AYqPZ0k2DnVWMW0AJQl65Y0kGFqYQhOY9H4BKuQ5lsJHek4me6eV5G4Y0su1+0KD0Ni5b9cIxgEa5IoLLjRwvWimyOg0HdbcanEOC2i6q8OY3JDrNWmoaHojSxGN/iPIMfwPVWu2gh6n8bUFYaJzNdHcSc9y1HVtFTz7FMKD4OacmBeoDIqdO9VnGAztr7ggZqzOeAu0Of/r50T3iH6o+zgl/xNviD06MLN7Bp2PrNS5C1BJ6Q7g63rMzsEd+sS5zWgtzYCBZ5/crWogF7a7QaxslbErhy6RlHcCf5LPDJiObmiOOoHSfw2G5;GHrFFxyU3a+54P4PFkwcTw=="
+secured: "lXJRxc9V5OjHPX2qZ4c6DMQr6xk3quu2hITB4TnDi1NLed7ZIYcvzO4O+hlERPEnpwuGMSsx0qN9Z7rag7vfmqknjJ+p1/WV0KAdCPXqgKRPsFzR7Fb7Zsa+2O5vgURxYN/aqKZYOJEwX0DwLBjkqQidps2BphuqHv4en0gUJXJ0r+CVcNcr9o1Vz0ru56K0qI2Eta+78Yh4YrQV1VkAHTGWsGaAQehgfuuCkA7jdybxKzEGPMa6p9fe2N5HPzpHBJNeRiGIc3S/SIE8yYRu6PW/pkg3ZFYH7eSxF11R02PkIy4ZBq62WepCbYZpGfok;WSYzxA/XloCHG3CNGpQIeg=="
 ---
 

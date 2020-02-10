@@ -163,6 +163,35 @@
       ]
     },
     {
+      "path": "_posts/2020-01-21-kubota-launches-wacky-driverless-concept-tractor.md",
+      "title": "Kubota launches wacky driverless concept tractor",
+      "excerpt": "In celebration of its 130th birthday, Kubota has unveiled a driverless concept tractor that’s battery powered and uses artificial intelligence to operate autonomously. The four-track X Tractor ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fwi.co.uk/machinery/technology/kubota-launches-wacky-driverless-concept-tractor",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T02:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Farmers Weekly",
+        "domain": "fwi.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/2020-01-21-machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away.md",
       "title": "Machine learning platform focused on finance can spot a strip club alias a mile away",
       "excerpt": "AppZen's expanded platform combines natural language processing, computer vision, and a data augmentation engine to give the machine the ability to build context around all financial information ... and expenses to make sure companies are not paying for goods and services that fall outside company policies. Kale said the process is the ...",
@@ -1076,6 +1105,35 @@
       ]
     },
     {
+      "path": "_posts/2020-01-25-smart-way-to-stay-unforgettable.md",
+      "title": "Smart way to stay unforgettable",
+      "excerpt": "MAXIS has come up with a unique 5G-enabled innovation called unforgetTABLE, a smart table capable of monitoring object recognition and brainwave analytics. Alzheimer’s Disease Foundation ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thestar.com.my/metro/metro-news/2020/01/25/smart-way-to-stay-unforgettable",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-01-25-udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodegree-program.md",
       "title": "Udacity launches new Intro to Machine Learning with TensorFlow Nanodegree program",
       "excerpt": "The new program offers practitioner level skills in new-generation Machine Learning through hands-on projects. Silicon-valley based global lifelong learning platform Udacity recently announced the ...",
@@ -1658,95 +1716,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020.md",
-      "title": "Facial Recognition Biometrics Market Advance Technology and New Innovations 2020",
-      "excerpt": "Global Facial Recognition Biometrics Market Research Report 2020 provides key analysis on the market status of the Facial Recognition Biometrics manufacturers with market size, growth, share, trends as well as industry cost structure.",
-      "heat": 144,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020-2020-01-27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-26T21:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Facial Recognition Biometrics Market Advance Technology and New Innovations 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-fueling-intelligent-energy-with-iot.md",
-      "title": "Fueling intelligent energy with IoT",
-      "excerpt": "At Microsoft, building a future that we can all thrive in is at the center of everything we do. On January 16, as part of the announcement that Microsoft will be carbon negative by 2030, we discussed how advances in human prosperity, as measured by GDP growth, are inextricably tied to the use of energy.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/fueling-intelligent-energy-with-iot/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T00:00:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e97a92db-78b6-4875-bc47-04160885964b.png",
-          "width": 837,
-          "height": 593,
-          "title": "Fueling intelligent energy with IoT",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
       ]
     }
   ],
