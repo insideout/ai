@@ -2,34 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-01-31-oscar-nominated-live-action-shorts-tragedies-near-tragedies-and-soccer-loving-kids.md",
-      "title": "Oscar-nominated live-action shorts: Tragedies, near-tragedies and soccer-loving kids",
-      "excerpt": "The five live-action short films vying for the 2020 Oscar either dance on the border of tragedy or fall headlong into it ... “I heard the recording of the emergency call on YouTube and it stuck with me for months,” said Girard. “I started to create a back story to every character so I could understand them and find their own particular ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-01-31/oscar-nominated-live-action-shorts",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-31T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-31-top-cloud-providers-in-2020-aws-microsoft-azure-and-google-cloud-hybrid-saas-players.md",
       "title": "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
       "excerpt": "At AWS re:Invent 2019, CEO Andy Jassy outlined a vision for the cloud service provider, including its artificial intelligence service, a stack made for analytics and a bevy of purpose-built databases. The broader message from Jassy, however, was that AWS will be relentlessly innovating. Jassy also took a few thinly veiled jabs at rivals like ...",
@@ -349,7 +321,7 @@
       "path": "_posts/2020-02-01-big-brother-facial-recognition-cameras-are-watching-you-more-than-ever-right-across-britain.md",
       "title": "Big Brother facial recognition cameras are watching YOU more than ever right across Britain",
       "excerpt": "The secret expansion of controversial facial recognition technology has been laid bare after an investigation by The Mail on Sunday discovered it is now being used by ten police forces, councils and hundreds of shops. Civil liberties groups are increasingly worried by the spread of the 'Big Brother' cameras which record a person's face as they ...",
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.dailymail.co.uk/news/article-7956429/Big-Brother-facial-recognition-cameras-watching-right-Britain.html",
@@ -451,7 +423,7 @@
       "path": "_posts/2020-02-01-how-artificial-intelligence-will-change-medicine.md",
       "title": "How Artificial Intelligence Will Change Medicine",
       "excerpt": "Using powerful computers, scientists have scrutinized this bounty with some fine results, but it has become clear that we can learn much more with an assist from artificial intelligence. Over the next decade deep-learning neural networks will likely transform how we look for patterns in data and how research is conducted and applied to human ...",
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.scientificamerican.com/article/how-artificial-intelligence-will-change-medicine/",
@@ -1122,7 +1094,7 @@
       "path": "_posts/2020-02-03-artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis.md",
       "title": "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis",
       "excerpt": "The Leading Distributor of Market Research Reports, DeepResearchReports.com published latest report on \"Global Artificial Intelligence (AI) in Fintech Industry Report\". Artificial Intelligence (AI) in Fintech Market segment by Application.",
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis-2020-02-03",
@@ -1809,7 +1781,7 @@
       "path": "_posts/2020-02-04-ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you.md",
       "title": "AI, machine learning, robots, and marketing tech coming to a store near you",
       "excerpt": "It's not going to work. It can turn into a big food fight.\" Retailers are increasingly realizing the value of artificial intelligence and machine learning as a way to churn through troves of data collected from customers through e-commerce sites. While these tools require the kind of digital base that both Mitchell-Keller and Colaneri mentioned ...",
-      "heat": 229,
+      "heat": 249,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/",
@@ -2025,7 +1997,7 @@
       "path": "_posts/2020-02-04-artificial-intelligence-in-computer-networks-market-competitive-dynamics-global-outlook-2026.md",
       "title": "Artificial Intelligence in Computer Networks Market: Competitive Dynamics & Global Outlook 2026",
       "excerpt": "ReportsnReports released a new research report of 128 pages on title 'Global Artificial Intelligence in Computer Networks Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2026' with detailed analysis,",
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-competitive-dynamics-global-outlook-2026-2020-02-04",
@@ -2108,6 +2080,50 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-benchsci-raises-22-million-for-ai-powered-drug-discovery-tools.md",
+      "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
+      "excerpt": "Assessing the health of pharmaceutical R&D by unearthing hidden patterns in procurement data is a task made simpler by AI. At least, that’s the pitch given by David Qixiang Chen, Elvis Wianda, Liran Belenzon, and Tom Leung, who cofounded BenchSci in 2015. The Toronto, Canada-based biotech company taps AI to run experiments that accelerate ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
+      "publishedDateTime": "2020-02-04T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/products-screenshot-min-e1580583276382.png?fit=1258%2C600&strip=all",
+          "width": 1258,
+          "height": 600,
+          "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

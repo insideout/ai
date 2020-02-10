@@ -23,6 +23,6 @@ images:
     height: 543
     title: "Another record breaking year for Canadian VC as AI, FinTech, cybersecurity reach new heights"
 
-secured: "x5tDYdFqBrkZDsCg7UQ/ZZtEB6vZyaWKo3Oqks7jVp6fZ82KOE9YLg8cupxFhzMh/p4NQaqXUK0CAhzkN/GE/5BDpBn36trfcZF4y6yKfx3ktagRFS6XH2cTYiYEqEToWh6pfd0ioDWKItwIhq71DvzCaALG4CKxIYBPLwvpbwmRaqbsF77kZLd02/4R/FgDU7m8g7LSh2GBdB1jT+eBkwtQ/+8u2CugoyJsT+wG+SaRQ2a+wE/0eX4r8QmOvri7HgICFY1lfJP2l9DbICoYJPqlLNlCTXmu6AD6etTzRNv0ZavOeDGwEUKxlhXjIPWl;aGYcFuYmvFbYQ1ZgjgPwBA=="
+secured: "qWavle/7edMPKsmUIOpndQzooZEnNmsWWdRY4iJvYcY5mXD77L901s/RYVbXmR6Gu01ZQqtxi572e3XVV3Je0Cx9VbxSqnHeqe5euXv48wqa5vZ1XUmokM4rc9Q1DpW6jAFBnkmzD8q7pdtgDP0+dYfnmDys6Uu7dYRVqTLLplp7+r2iZvHc8bFCjeryRWo5lRnUh5cS+BjVKiL0q/SEhau1pRRhe/HyDX6o+evWItfKZzgXOtC7nUdda85JI+JKbbWOxVrjxTqD//ZFLsUMPWwuq4Y9Dt7dyX1uEP0mHh79QvD3LBkCsWBPqONqZXYsd+afn+67ymVXq3trIeafmHnxy24L995ZOl32BhFmVCkWJP3eIRCFW2JHcXGFvqkDIdnC7YWNwCgg3B/yny8/VYE9xERvErU7kwC/CHNwAp/T6bZ7/oVUd0Kc236oa8123kjsWlHAXR4mAHQ8QRNHfY8j7R3ElnQffOMXF813xb4=;mtSTm728DZeYGCwjw/Jm3g=="
 ---
 

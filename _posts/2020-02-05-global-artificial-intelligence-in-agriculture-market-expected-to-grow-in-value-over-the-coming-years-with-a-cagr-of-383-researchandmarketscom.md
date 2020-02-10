@@ -50,6 +50,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Military Market: Size, Production, Prospects, Consumption, Cost Structure, Competitive Landscape 2019-2024"
+    excerpt: "The Global Artificial Intelligence In Military Market report provides information by Key Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share,"
+    publishedDateTime: 2020-02-03T08:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-production-prospects-consumption-cost-structure-competitive-landscape-2019-2024-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Natural Language Processing (Statistical, Rule-Based & Hybrid) Market Outlook to 2024"
     excerpt: "/PRNewswire/ -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry - Industry Trends"
     publishedDateTime: 2020-02-03T19:00:00Z
@@ -59,6 +72,19 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 8
+  - title: "Image Recognition Market Competitive Landscape Outlook To 2029 | Attrasoft Inc, NEC Corporation, Google Inc"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing ..."
+    publishedDateTime: 2020-02-07T11:27:00Z
+    webUrl: "https://apnews.com/Wired Release/a8d7aa85bcfa1fb52dce7fe6e811cac3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
   - title: "IoT Chip Market Outlook, 2020-2025 - 5G, AI, ML, Smart Homes, Smart Cities, and IoT Connected Devices in Electronics & Automotive Will Drive Growth"
     excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"IoT Chip Market - Growth, Trends, and Forecast (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The global IoT chip market is expected to register a CAGR of 13."
     publishedDateTime: 2020-02-05T15:38:00Z

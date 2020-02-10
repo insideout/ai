@@ -8,7 +8,7 @@ ampWebUrl: "https://www.tweaktown.com/news/70457/facebook-twitter-sent-cease-and
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70457/facebook-twitter-sent-cease-and-desist-letters-to-creepy-ai-startup/amp.html"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,51 @@ images:
     title: "Facebook & Twitter sent cease and desist letters to creepy AI startup"
 
 related:
-  - title: "Twitter will start labeling manipulated and deepfaked content"
-    excerpt: "Facebook, for example, likewise labels fake or otherwise altered images as 'false,' but won't remove this type of content unless it is a video generated using AI to make it appear that someone is saying something they never said. According to Reuters, Twitter will take into account the text in a tweet and 'other contextual signals' to decide ..."
-    publishedDateTime: 2020-02-05T20:32:00Z
-    webUrl: "https://www.dpreview.com/news/6681020299/twitter-will-start-labeling-manipulated-and-deepfaked-content"
-    ampWebUrl: "https://m.dpreview.com/news/6681020299/twitter-will-start-labeling-manipulated-and-deepfaked-content.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/6681020299/twitter-will-start-labeling-manipulated-and-deepfaked-content.amp"
+  - title: "Facebook quietly acquired another UK AI startup and almost no one noticed"
+    excerpt: "Over the last few years, Facebook has been busy building out AI capabilities in areas like computer vision, natural language processing (NLP) and ‘deep learning,’ in part by acquiring promising startups in the space. Understandably, this has seen the U.S. social networking giant look to the U.K. for AI talent, including an acqui-hire of NLP ..."
+    publishedDateTime: 2020-02-10T19:10:00Z
+    webUrl: "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/"
+    ampWebUrl: "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/"
     type: article
     provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 42
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
     images:
-      - url: "https://1.img-dpreview.com/files/p/E~TC4x3S590x0~articles/6681020299/twitter_main_II.jpeg"
-        width: 590
-        height: 442
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/halftone-maze.png?w=1024"
+        width: 1024
+        height: 544
+  - title: "Facebook has acquired Scape Technologies, the London-based computer vision startup"
+    excerpt: "Scape Technologies, the London-based computer vision startup working on location accuracy beyond the capabilities of GPS, has been acquired by Facebook, according to a regulatory filing. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc. now has majority control of the company (more than 75%)."
+    publishedDateTime: 2020-02-10T10:38:00Z
+    webUrl: "https://techcrunch.com/2020/02/08/scapebook/"
+    ampWebUrl: "https://techcrunch.com/2020/02/08/scapebook/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/08/scapebook/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/localization.png?w=1024"
+        width: 1024
+        height: 767
+  - title: "Facebook Acquires Computer Vision Startup Scape Technologies"
+    excerpt: "According to regulatory filings uncovered by Tech Crunch, Facebook has acquired Scape Technologies, a London-based computer vision startup. Facebook has yet to publicly acknowledge the acquisition. A company spokesperson told Tech Crunch that it “acquire[s] smaller tech companies from time to time. We don’t always discuss our plans.”"
+    publishedDateTime: 2020-02-10T14:19:00Z
+    webUrl: "https://www.roadtovr.com/facebook-acquires-computer-vision-startup-scape-technologies/"
+    ampWebUrl: "https://www.roadtovr.com/facebook-acquires-computer-vision-startup-scape-technologies/amp/"
+    cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/facebook-acquires-computer-vision-startup-scape-technologies/amp/"
+    type: article
+    provider:
+      name: Road to VR
+      domain: roadtovr.com
+    quality: 59
+    images:
+      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/02/scape-technologies.jpg"
+        width: 1920
+        height: 1080
 
 secured: "WH+ZqtmHOvt/Gskpv+k2FFMC8NYVmEZ7yDr7s9506K8Zmo2AoCmousiBMjWTcN8JBHCgcxuUSD+CfDwQhKGo68cW9SodUWSt7q3Zy8eOZHgEJQHhmrIi2k4v5Z6T06jG6PiZ67QEybDGdgMHgezqTpI0gLDYTepkKnPpHY7IikBho3IqI8RYEgW0IupZalMLCLZu6wk5bosqSimqxXJZMNylfSBsbuiBeaXlJWA5DuRrHc5+Glivt6LNP+XA2XlEdZLr2FL05VZFgfsyE3KSQWP1R9AN6Ijyy4OmMtxJaulCs3bPBbl0saZWt5bTY3bfu+gHuuxZlBASWDsqNHSAa7/26ohSARCYTzi8uROpzsRovJNhrmZGUMY0sJumqQ6oGGk6pXdnjunC/FYmHHKP9U2PmadBAZyliprOuygvgcwdKxBJZgGijoRZNk+/Yh19T6MXxp7jIfDwDOOiTQ7oocFghJVL1JtR4EeDZ6xVDq0=;6PMLa2II4JkW9YzD0EJ/Ag=="
 ---

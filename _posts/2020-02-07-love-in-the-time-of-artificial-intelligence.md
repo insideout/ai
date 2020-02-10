@@ -40,6 +40,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale"
         width: 711
         height: 493
+  - title: "How Artificial Intelligence will Change the Retail Industry in 2020?"
+    excerpt: "Artificial intelligence is the hottest and most promising development in the tech landscape for years. According to the market, global Artificial Intelligence revenues increased from $ 643.7 million in 2016 to $ 36.8 billion in 2025. Almost all market segments, industries, and business domains are actively interested in AI and are looking to ..."
+    publishedDateTime: 2020-02-10T18:43:00Z
+    webUrl: "https://medium.com/@venkat34.k/how-artificial-intelligence-will-change-the-retail-industry-in-2020-592fc2037d74"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 82
+    images:
+      - url: "https://miro.medium.com/max/1200/1*KJGBPm15gz6RlWMu91EUWw.jpeg"
+        width: 1200
+        height: 800
   - title: "Researchers discuss use of artificial intelligence in government agencies"
     excerpt: "Professor Daniel Ho discusses the use of artificial intelligence by government agencies Monday afternoon. (Photo: EMMA TALLEY / The Stanford Daily) By Emma Talley a few seconds ago Almost half of “important” American government agencies have ..."
     publishedDateTime: 2020-02-04T07:40:00Z

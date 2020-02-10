@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-01T19:04:00Z
 webUrl: "https://www.scientificamerican.com/article/how-artificial-intelligence-will-change-medicine/"
 type: article
 quality: 139
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -87,17 +87,6 @@ related:
       name: Renton Reporter
       domain: rentonreporter.com
     quality: 39
-  - title: "How artificial intelligence will change HR in 2020"
-    excerpt: "As technology is evolving, so is work culture. With the rise of the gig economy and decentralised workspaces, employees are beginning to look for meaningful work experiences. This year, HR will step back and invest in solutions that enhance employee experience, going beyond looking at just productivity and efficiency. Seamless learning ..."
-    publishedDateTime: 2020-01-26T20:45:00Z
-    webUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/"
-    ampWebUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 37
   - title: "How the “Artificial Intelligence of Things” Will Change the World as We Know It"
     excerpt: "Alongside the growth of the IoT, artificial intelligence (AI) has emerged as the next technology phenomenon ... Where latency means inefficiency, and inefficiency costs money, voice interfaces must be built on the AIoT, not the cloud. Domestic healthcare is another sector that could benefit significantly from AIoT. AIoT-enabled devices ..."
     publishedDateTime: 2020-02-06T21:33:00Z

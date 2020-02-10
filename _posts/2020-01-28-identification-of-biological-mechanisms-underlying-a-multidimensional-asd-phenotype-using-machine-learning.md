@@ -37,19 +37,6 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58178-1/MediaObjects/41598_2020_58178_Fig1_HTML.png"
         width: 575
         height: 685
-  - title: "Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures"
-    excerpt: "In this paper, we demonstrate a computationally efficient new approach based on deep learning (DL) techniques for analysis, design and optimization of electromagnetic (EM) nanostructures. We use the strong correlation among features of a generic EM problem to considerably reduce the dimensionality of the problem and thus, the computational ..."
-    publishedDateTime: 2020-02-04T11:36:00Z
-    webUrl: "https://www.nature.com/articles/s41524-020-0276-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-020-0276-y/MediaObjects/41524_2020_276_Fig1_HTML.png"
-        width: 685
-        height: 536
   - title: "Discrimination By Artificial Intelligence In A Commercial Electronic Health Record—A Case Study"
     excerpt: "When artificial intelligence (AI) is built into electronic health record (EHR ... What role should regulators, such as the Food and Drug Administration (FDA), have in ensuring that AI in health care is trustworthy and equitable? AI has the potential to transform health care, but implementation at the point of care is fraught with challenges."
     publishedDateTime: 2020-01-31T15:09:00Z

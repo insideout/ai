@@ -50,19 +50,6 @@ related:
       - url: "https://media.bizj.us/view/img/10755766/gettyimages-802851578*1200xx5000-2813-0-290.jpg"
         width: 1200
         height: 675
-  - title: "Fugro wins ISFOG 2020 machine-learning competition"
-    excerpt: "A team of Fugro employees has won a global competition in geotechnical machine-learning. Competing with 60 other teams from industry and academia around the world, the Fugro team came first in the pile-driving prediction event organised as part of the International Symposium on Frontiers in Offshore Geotechnics (ISFOG) 2020 conference ..."
-    publishedDateTime: 2020-02-06T14:06:00Z
-    webUrl: "https://www.directionsmag.com/pressrelease/9527"
-    type: article
-    provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 24
-    images:
-      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/February/6/7/39d7ac5e-f4b5-445a-b757-4205f399e7a7-sized"
-        width: 800
-        height: 600
 
 secured: "s9Muo49602DDY1uAXQ2xOEaBbmmAOO5a7KcdHfJ9D8hrFnhwx821ouDugsz8tGW4agSn+NLIrd9nGu5krDUAUb78tKmegts1YgSKBfksvSJUSfIjgl+9DIadbYFqxu3neuawdZ6lnaqAEAS9nljxH3rEzr3fVah1D3GYviXuohKajr9MsSwSdJN1FspfzErqtF2iLpQD5FdMU0vBleGODDCX7oTPqsTmTPdKKSDeTqAnVDdi2hPBmK9DX+KtBoaP4NDEMa02NEVpMF0dVXuvC3mH6UPCKbas4NDIj2f4bWhanie5vjRVcvJa4ccrfshlDu1JrT45y666hIk3a9C6EUT6LDa+6BfkbYvZy5XPipswXSkqrWOxcb7uwzqVlV39c1QvZ1tQwpOSnpYDDZhTVgkiXzVJau4STEKkNLfRUF3t+LCbgSakEAlidqWTra38E0Wd7SfkuxCYQ0PfU/y2fLixMYJFGHCVp+6Ut613gqg=;G5OuFbjB4QU4jsj5o0IxWA=="
 ---

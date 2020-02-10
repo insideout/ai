@@ -22,6 +22,21 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "US Army to use gamers’ brain waves to train military robot swarms"
+    excerpt: "The U.S. Defense Advanced Research Projects Agency, known as DARPA, awarded a team from the University of Buffalo's Artificial Intelligence Institute a $316,000 grant for the study. Although swarm robotics is inspired by many things, including ant colonies ..."
+    publishedDateTime: 2020-02-10T19:58:00Z
+    webUrl: "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots"
+    ampWebUrl: "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 104
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/creative-commons-robot-swarm.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
   - title: "DARPA Is Using Gamers’ Brain Waves to Train Robot Swarms"
     excerpt: "A team of artificial intelligence researchers at the University at Buffalo plans to study the brain ... gamers to build an advanced AI — so that it can then coordinate the actions of entire fleets of autonomous military robots. The U.S. Defense Advanced Research Projects Agency — better known as DARPA — has awarded the UB team a $ ..."
     publishedDateTime: 2020-02-08T20:13:00Z

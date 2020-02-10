@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-fac
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-facial-recognition-cameras-watching-right-Britain.html"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
       - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
         width: 770
         height: 400
+  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
+    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
+    publishedDateTime: 2020-02-08T04:26:00Z
+    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 13
 
 secured: "NWFyCpgCFF1oABX+hHX6V+9c3mnqCDrx8P8C7Gu/Y6SSa6RAWSu21jPmSYW2OdrbZ0FI5EaX3Y89gB6KPYSoChQ2PQ+b3MxmWwVYQ/OrWR4su4F6xeqH8n0d+Gsq6lEPmLT75AjKIdyZ/hJVPHRtmVE9Q2uTCYPniyp3kymwCrGQK0KoBNa/wxPyolDAocfDh+Lmd+uDls/gbbCAxlJz8K/Eu8/IFpCkdFzn2+A4aKr2+7tkVrxBK7zJKto54dWw8AThtoINFSZTvqipbFNAjnfkUiZpcwj7JcaqPobEuJviDCOpHxEErEch/aw1PXOT;mfDXipmFlF5Wvw+iiLHZqw=="
 ---

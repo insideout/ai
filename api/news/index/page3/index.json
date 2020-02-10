@@ -2,51 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-01-29-rift-emerges-between-regulators-and-businesses-over-portlands-proposed-facial-recognition-ban.md",
-      "title": "Rift emerges between regulators and businesses over Portland’s proposed facial recognition ban",
-      "excerpt": "Portland still seems on pace to impose a dual ban prohibiting facial recognition use by both government agencies and private entities such as retailers and other businesses. But a City Hall session today illuminated what could become a more pronounced point of contention: some local businesses and tech firms could oppose a private-use ban.",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/rift-emerges-regulators-businesses-portlands-proposed-facial-recognition-ban/",
-      "ampWebUrl": "https://www.geekwire.com/2020/rift-emerges-regulators-businesses-portlands-proposed-facial-recognition-ban/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/rift-emerges-regulators-businesses-portlands-proposed-facial-recognition-ban/amp/",
-      "publishedDateTime": "2020-01-28T17:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/06/bigstock-Portland-Oregon-USA-skyline-247939699-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Rift emerges between regulators and businesses over Portland’s proposed facial recognition ban",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-01-29-robots-pose-biggest-risk-to-the-poorest-countries.md",
       "title": "Robots Pose Biggest Risk to the Poorest Countries",
       "excerpt": "At the end of the 20th century, globalization narrowed the gap between rich and poor nations. But history shows that isn’t always the case. In the years following the fall of the Berlin Wall in 1989,",
@@ -2145,6 +2100,34 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-31-oscar-nominated-live-action-shorts-tragedies-near-tragedies-and-soccer-loving-kids.md",
+      "title": "Oscar-nominated live-action shorts: Tragedies, near-tragedies and soccer-loving kids",
+      "excerpt": "The five live-action short films vying for the 2020 Oscar either dance on the border of tragedy or fall headlong into it ... “I heard the recording of the emergency call on YouTube and it stuck with me for months,” said Girard. “I started to create a back story to every character so I could understand them and find their own particular ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-01-31/oscar-nominated-live-action-shorts",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

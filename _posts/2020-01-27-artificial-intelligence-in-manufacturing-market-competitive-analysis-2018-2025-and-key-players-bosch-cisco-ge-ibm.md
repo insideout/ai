@@ -37,6 +37,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Computer Networks Market Analysis On Size and Industry Demand 2020- Cisco Systems, IBM Corporation, Baidu, Dell"
+    excerpt: "The report titled \"Artificial Intelligence In Computer Networks Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
+    publishedDateTime: 2020-02-03T11:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-analysis-on-size-and-industry-demand-2020--cisco-systems-ibm-corporation-baidu-dell-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global AI Machine Learning Market: Facts, Figures and Analytical Insights 2019 - 2029"
     excerpt: "The research study on Global AI Machine Learning market 2019 presents an extensive analysis of current AI Machine Learning market size, drivers, trends, opportunities, challenges, as well as key AI Machine Learning market segments. Further, it explains various definitions and classification of the AI Machine Learning industry, applications ..."
     publishedDateTime: 2020-01-28T06:41:00Z

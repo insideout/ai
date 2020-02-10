@@ -94,17 +94,6 @@ related:
       name: Renton Reporter
       domain: rentonreporter.com
     quality: 39
-  - title: "How artificial intelligence will change HR in 2020"
-    excerpt: "As technology is evolving, so is work culture. With the rise of the gig economy and decentralised workspaces, employees are beginning to look for meaningful work experiences. This year, HR will step back and invest in solutions that enhance employee experience, going beyond looking at just productivity and efficiency. Seamless learning ..."
-    publishedDateTime: 2020-01-26T20:45:00Z
-    webUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/"
-    ampWebUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 37
 
 secured: "nb4t2+or5c72x9kGKRZqYFX+vD3MMCq29B39xuC3yuXT0sWQuXMB7z+IAmsCaqPasBIjYHpDBWyFhZkXauHYyHOITUE89uPhRz8y/1CigYVwRJG0TPQQkztkhh0h0DVBAtJQ1SAkJK7uY+EqNy2QN556AIz3st5sRMsHW6UvZkIpjJBX3nxL/tJnYzSKwzpRHLJfvHC+zgG06g4grW/PZguuMBODUVqASyBeu8WKkhOwepFdzaQE/+cBB6641gVDsDEtpjmuZZ21OItcQakUVOcUJzkeCW7ovR0AvlsTIsoKZTGIKTHniGj6E0+uQIa41q3kqTiIZau3wq2cMl69eD9pKnBy5Xa4Wdp0LhZuUA7qK/XRaYGyCVzaE+jT0lv5llBSxsc9U2fXKvARZpo56ry0XsrFqPlU0Z4pDZ/JmsNXj90wqmWJeoyp3IDVTRKRYktlaGJbTSjrbkk7sU1qH2VWwEg8uk9WyQu6Tsfd3yQ=;3MowdJr1qH2ivWDjhbK2xA=="
 ---

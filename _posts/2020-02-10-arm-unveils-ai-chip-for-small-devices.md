@@ -74,6 +74,19 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/arm.png"
         width: 718
         height: 400
+  - title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
+    excerpt: "Cambridge [UK], Feb 10 (ANI): Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which basically means processing on a device without a cloud connection, The Verge reports. The ARM ..."
+    publishedDateTime: 2020-02-10T15:52:00Z
+    webUrl: "https://www.aninews.in/news/tech/others/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices20200210212119/"
+    type: article
+    provider:
+      name: Asian News International
+      domain: aninews.in
+    quality: 50
+    images:
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/technology-chips-micro-computer-embed-steel-royalty-free-thumbnail_1.jpg"
+        width: 600
+        height: 450
 
 secured: "2ECyH7A7a+TsuZuFZfdlfEc/P3DLYufoASVUMqsF/TLQXiCq3WBBk87hWkvGBUhV60gxOYWTTMAkzZl9V+em9RQ2NXkV4PSpqBj1lJ+rjbzO2ynt/5PPYlx4lwVArxv2nbF9voCa5rEOP4KETL6+5qQvC5AV6S/11sZLhr7FmGdZcD9PSMk+I6FmPSBmjyNvaOJealKuNEzcn/DOj6yAYUZuSBqGpiWoXA2A21axlHoKC4l3XBGcMVg9vN4LYlqWoUlJKeqbbguamgU7Tnx1ZBiy6uwA0ySSYkijpod0gukJAExLzM7lo5pl1Dh9ny09;lBi4IWR3HfzrOyVEDftMJA=="
 ---

@@ -1498,43 +1498,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-28-advantages-of-machine-learning-and-data-analytics-courses.md",
-      "title": "Advantages of Machine Learning and Data Analytics Courses",
-      "excerpt": "Advantages of Machine Learning and Data Analytics Courses: Considering that the data enormity is consistently on the rise, the urgent need to figure out such methods that can help to gain valuable insights on the same can be felt. As a result, the demand for professionals with adequate data science skills cannot be neglected. There is no ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/",
-      "ampWebUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
-      "cdnAmpWebUrl": "https://www-newznew-com.cdn.ampproject.org/c/s/www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
-      "publishedDateTime": "2020-01-27T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "seat",
-        "domain": "newznew.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.newznew.com/wp-content/uploads/2020/01/892730_f4e5_3.jpg",
-          "width": 750,
-          "height": 422,
-          "title": "Advantages of Machine Learning and Data Analytics Courses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-01-28-ai-can-boost-radiation-therapy-for-cancer-patients.md",
       "title": "AI can Boost Radiation Therapy for Cancer Patients",
       "excerpt": "Artificial intelligence (AI) can now instantly translate complex clinical data into an optimal plan of attack which can help cancer patients start their radiation therapy sooner and thereby decrease the odds of the cancer spreading, reports a new study.",
@@ -2170,6 +2133,44 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-28-ibm-watson-ai-xprize-announces-10-semifinalist-teams.md",
+      "title": "IBM Watson AI XPRIZE announces 10 semifinalist teams",
+      "excerpt": "The XPRIZE Foundation, which designs and runs competitions to “solve humanity’s grand challenges,” has announced the 10 semifinalist teams advancing in the IBM Watson AI XPRIZE. The four-competition is intended to demonstrate how people can collaborate with artificial intelligence to tackle pressing global problems. Sponsored by IBM ...",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/ibm-watson-ai-xprize-announces-10-semifinalist-teams/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/IBM-AI-XPRIZE-logo.jpg",
+          "width": 1440,
+          "height": 650,
+          "title": "IBM Watson AI XPRIZE announces 10 semifinalist teams",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "AI Ethics"
       ]
     }
   ],

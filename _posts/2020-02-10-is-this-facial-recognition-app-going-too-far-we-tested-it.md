@@ -75,6 +75,21 @@ related:
       - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg"
         width: 1200
         height: 628
+  - title: "ACLU rejects Clearview AI's facial recognition accuracy claims"
+    excerpt: "It accuses Clearview of faking endorsements to boost inaccurate tech. Clearview AI's facial recognition isn't just raising privacy issues-- there are also concerns over its accuracy claims. The ACLU has rejected Clearview's assertion that its technology is \"100% accurate\" based on the civil liberty group's methodology for testing Amazon's ..."
+    publishedDateTime: 2020-02-10T18:45:00Z
+    webUrl: "https://www.engadget.com/2020/02/10/aclu-rejects-clearview-ai-facial-recognition-claims/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/10/aclu-rejects-clearview-ai-facial-recognition-claims/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/10/aclu-rejects-clearview-ai-facial-recognition-claims/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4860%252C3240%252C0%252C495%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe54aedf0-4c27-11ea-a9fe-866995234731%26client%3Da1acac3e1b3290917d92%26signature%3Dde699115449a716bcec325db3e7903662dbd4881&client=amp-blogside-v2&signature=3eefa1557daf961b15de1298ae8254f93b9244fb"
+        width: 600
+        height: 350
   - title: "YouTube demands Clearview AI stop scraping its videos for facial recognition database"
     excerpt: "YouTube has sent a cease and desist letter to Clearview AI demanding that the controversial facial recognition startup stop scraping YouTube videos to gather faces for its database and delete any images it’s already collected. The demand, first reported by CBS News, says that YouTube forbids anyone from collecting data from its platform that ..."
     publishedDateTime: 2020-02-05T16:45:00Z
@@ -480,6 +495,6 @@ related:
         width: 500
         height: 300
 
-secured: "Qaz+ou+ZZKvM5MZm4o+gZl1G34bVnmBM1Tmym9CWOwkknRq9DmEt3Mp+pbpB/GKwsfrSBN66hGvDRE1k8DQf9GWUmD5cxIRB+onHqrdC/w+i5mW94eka9zoZK8wv9OeenJWvFhEX6NP4YqskMMhoy0qrN0SpJ+sdwwRnniwTetspUtq/XKJhl8e1l1l06Z2oYjsjbMyAxfF/9fesOl82rihzFP8FICaUvUiSjTNN2NoB2CHU7LwXm6ll7223/vewxyTkNycLHKWlXN6pReaNa1AhJI/tZVkcBxHzq5g+emRq8WGJFrgW6xNSrfIfadaT;re7vC/iblpcuZ7ciY1eAAQ=="
+secured: "t6GsZDmE8dfcWC25f05gvSCwVyJFs5+4rbLaXPgkQ/IO6Fof39jIFvVeYp6KSNKHiuWfdybnuZPBsFgIAlklnjwpiii/u6hgvEg9UuDVTg4Zw0/BtR8GPwmF3RL6x7bogQRD+1i+t8z0MJU5uSl7muwQM4D3/gyxWeS2V/1OE53pyPvji8j3dW7ECTSUJUhLf5pj6sA+jTThEf0YuGmC0je/PBkqpXahh+I42Eq7k5Nni4Dsmzx2cQN3l5lTitez3EgDkgwjNXO97XPKnv56qp8NRVRKbtWXJ4t8mH53pDfTirODDs2qxZ/wKiMBVacxgm/i54ZRFEL86uG2sExVwuguOAKAOqbL4SEJ+TshfZwxIdSDsVkd9jBau+ZO7rKhaZ8W8HK0/8AX+TdcxwpzZJL0226fHTFrQ9Qr+XwTxrFRk/ETC9OdLKMnmvbNXt6R/Z9QxPybdgSPj/bIdqL9NK0rwlaRES/F0+ZzpipEuKA=;tN/hfV2QVKDDy1HcVVCgZg=="
 ---
 

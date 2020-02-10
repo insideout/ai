@@ -24,23 +24,10 @@ images:
     title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
 
 related:
-  - title: "Artificial Intelligence In Aviation Market Trend And Top Growing Companies 2026"
-    excerpt: "Global Artificial Intelligence In Aviation Market Insights, Forecast to 2026 The report discusses many vital industry facets that influence \"Global Artificial Intelligence In Aviation Market\" industry acutely which includes extensive study of competitive edge,"
-    publishedDateTime: 2020-02-07T03:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-trend-and-top-growing-companies-2026-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Solutions Market Value Estimation to Expand From 2020 to 2029"
-    excerpt: "A recent market research analysis titled, Artificial Intelligence Solutions Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence Solutions market covering industry surroundings,"
-    publishedDateTime: 2020-02-09T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-value-estimation-to-expand-from-2020-to-2029-2020-02-09"
+  - title: "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%"
+    excerpt: "The overall machine learning as a service market worldwide was valued at US$ 1,117.9 Mn in 2018 and is set to grow with a CAGR of 35.4% during the forecast period. Rapid technological advancements and the growing adoption of cloud-based technologies worldwide are primarily driven by the Machine Learning As A Service market."
+    publishedDateTime: 2020-01-29T15:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354-2020-01-29"
     type: article
     provider:
       name: MarketWatch
@@ -50,67 +37,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Enterprise AI Market Statistics and Growth Prediction 2020 to 2025 | IBM Corporation, Oracle, HP"
-    excerpt: "Artificial Intelligence in recent years has moved on to become a key component for enterprise applications and has posed as an important factor for successful business strategies. With AI, enterprises are now able to achieve far more in quite less time."
-    publishedDateTime: 2020-02-06T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-statistics-and-growth-prediction-2020-to-2025-ibm-corporation-oracle-hp-2020-02-06"
+  - title: "The Global Deep Learning Market is expected to grow by USD 7.2 bn during 2020-2024, progressing at a CAGR of 45% during the forecast period"
+    excerpt: "New York, Feb. 04, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Deep Learning Market 2020-2024\" - https://www.reportlinker.com/p04391092/?utm_source=GNW Our reports on global deep learning market provides a holistic analysis,"
+    publishedDateTime: 2020-02-04T14:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-deep-learning-market-is-expected-to-grow-by-usd-72-bn-during-2020-2024-progressing-at-a-cagr-of-45-during-the-forecast-period-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Medical Imaging Market Sees Promising Growth during 2019-2025"
-    excerpt: "An extensive elaboration of the Global Artificial Intelligence in Medical Imaging market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
-    publishedDateTime: 2020-02-08T02:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-sees-promising-growth-during-2019-2025-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Computer Networks Market Analysis On Size and Industry Demand 2020- Cisco Systems, IBM Corporation, Baidu, Dell"
-    excerpt: "The report titled \"Artificial Intelligence In Computer Networks Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-03T11:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-analysis-on-size-and-industry-demand-2020--cisco-systems-ibm-corporation-baidu-dell-2020-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Energy Growing Popularity and Emerging Trends in the Market | ABB, Alphabet, GE, IBM,"
-    excerpt: "The latest update of Global Artificial Intelligence in Energy Market study provides comprehensive information on the development activities by industry players, growth opportunities and market sizing for Artificial Intelligence in Energy,"
-    publishedDateTime: 2020-01-31T04:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-growing-popularity-and-emerging-trends-in-the-market-abb-alphabet-ge-ibm-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-  - title: "International Emotion Recognition Market to Double by 2024"
-    excerpt: "The emotion recognition market includes both voice and facial recognition technologies, in addition to biosensors that can track other physiological markers. Of those, biosensors made up the biggest portion of the market in 2019, though voice recognition is expected to fuel much of the growth moving forward. According to MarketsandMarkets ..."
-    publishedDateTime: 2020-02-07T17:07:00Z
-    webUrl: "https://mobileidworld.com/biometrics-news-international-emotion-recognition-market-to-double-by-2024/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/chart.jpeg"
-        width: 400
-        height: 295
 
 secured: "EGrGo/dPMU9XQuwR3CA6ZMFcNULBevDYUJ1LsnZiVs3O/K+jQbvtVH1wLsQakfyL7gV5vDyHxmMcXk5PDMxbHx3LOeKe2zpdM/IZIFuXn4HvAka5eCvuVlRzAfSs6Nl1uUiR/OkKoS5jfN3WDGTSIQLritH62h6MxFdJGHLar/46tx7UNIhOnlD+wzY1ZcTKNu0i5TK8dAIaOcX1Jgf69yHYI3xNYSCiGpeVXwbu5mEByaZ5By2Gx9oSmCS6rQmMha5VNE90+Qzlf4b16+OKJMUMk7asC9IqY95yem/dg1XIy7Ixt/2QgQtFqYPK6MPrM9dBI3OqMQwhjqFHoK4ukJFZatdWLh6dskcI/3hr01n7ZXQUPn/B1uJDcP9Jlb9Mir6SiDAbh7waNgWKMFkrsReeZmlBBUO6/m2+ezIgm2kj4y6hBaQlB2hkeNvjfsnjB17TU7BYcYyynqcmNio6Rj4yq4ei8KntZoV1OctAO9A=;UZ72QZLrSmiELAxtP/f0LQ=="
 ---

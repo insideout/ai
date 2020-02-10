@@ -31,6 +31,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Computer Networks Market Analysis On Size and Industry Demand 2020- Cisco Systems, IBM Corporation, Baidu, Dell"
+    excerpt: "The report titled \"Artificial Intelligence In Computer Networks Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
+    publishedDateTime: 2020-02-03T11:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-analysis-on-size-and-industry-demand-2020--cisco-systems-ibm-corporation-baidu-dell-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
     excerpt: "This technology is used in industry verticals, such as manufacturing, supply chain, and others. Development of artificial intelligence-empowered chips, robots, and others in manufacturing help enhance the overall production line, and thus, has significantly increased the adoption of artificial intelligence in the manufacturing sector."
     publishedDateTime: 2020-01-27T13:01:00Z

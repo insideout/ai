@@ -40,16 +40,7 @@ related:
       name: Pepsi
       domain: mobilemarketingmagazine.com
     quality: 16
-  - title: "Speech and Voice Recognition Market"
-    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
-    publishedDateTime: 2020-01-16T03:17:00Z
-    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
-secured: "AaHwC8pzHCid/lkfMLu6DSIArIqmuiuSwhfcGlmD1RqPJzBDKWKRAjp8JUTFxWOaE/XyA3QrJRkduMejWHxM0h9jcwb5ypx55u3WV82Ufpnapv77eSefixH6uZSOZ9uUxtIumI2LFgaq3y7sfJ4qChQHSYTFvijVWUkSOOdTCzv37c5plx+lRaRgzWXQtX9FOGs5UpQgT9r5KX0kSH3VkiX8os71SnMwWzF9mNDb/r61Hl31tpCGON6E3f4EOAyzFGA+D8aePSqcrYl7A/tvPT9yMvSniuMtusdNK5PmYScKE30NJ3hX5FKPHeOJ/47w;PZP/T4yZ1nTBKRU67M/eVw=="
+secured: "ghlv3mx9AgZaN3FxRMw3n8VKc0Kmc/BpJlnvLtPVKNUzyiDeeTGsYZY7tNMwFj75apnH+rFaic4o1ipind16O1cZH/DpFKJeDJVK8z5kh4obZs5gDwVMBnLWpTffwEV/9ZLT/vY5qHNBd+CA58lrP8RpNPtX0srCG0bRjxvc8+xW/U9bjuubK2M8sJeqV/9oq7l8QGQGAlwFIy15nn6eNdgrRKeHRUwTqptzQ0F+kOHWHrxiDlQZcM94zdXOabmtB1DoDwaZPNriQhFvTQ9GPyj8DfJgyC+Drp1n3PXCpUAt5wFIFoB7LwLXqIbnH2yG;eWk6jJ6s+FzcX/wZfp9/7w=="
 ---
 

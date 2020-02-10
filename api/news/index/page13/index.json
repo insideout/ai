@@ -2,6 +2,265 @@
   "page": 13,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-16-artist-refik-anadol-turns-data-into-art-with-help-from-ai.md",
+      "title": "Artist Refik Anadol Turns Data Into Art, With Help From AI",
+      "excerpt": "The results, shown on giant screens or projected onto walls or entire buildings, use data points in a kind of AI pointillism. Anadol explains his creative process in a new WIRED video. It features works including Machine Hallucination, a 360-degree video installation made from 10 million photos of New York. Anadol used machine learning to group ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/",
+      "ampWebUrl": "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp",
+      "publishedDateTime": "2020-01-16T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e1f7e0294f53e000834150c/master/pass/Biz-AnadolInstall-DSC06728.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Artist Refik Anadol Turns Data Into Art, With Help From AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-can-ai-save-our-oceans-lets-start-with-the-data.md",
+      "title": "Can AI Save Our Oceans? Let’s Start With The Data.",
+      "excerpt": "Coral is the ocean’s life system and without it, we will soon also have an ocean without life. In spite of the terrible news, there are some glimmers of light and hope spots that we can point to, especially in the areas of AI for the benefit of the ocean. This will be the first in a series of articles that puts a spotlight on the top ...",
+      "heat": 67,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/swlh/can-ai-save-our-oceans-lets-start-with-the-data-ccd0dc91f302",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1920/0*Vm-4leo8UaKkERJE.jpg",
+          "width": 960,
+          "height": 540,
+          "title": "Can AI Save Our Oceans? Let’s Start With The Data.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast.md",
+      "title": "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast",
+      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
+      "heat": 63,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast-2020-01-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-cornerstone-acquires-clustree-for-its-ai-powered-skills-engine.md",
+      "title": "Cornerstone acquires Clustree for its AI-powered skills engine",
+      "excerpt": "Cornerstone On Demand, which makes human capital management (HCM) software, on Thursday announced it is acquiring Clustree, a French technology company with an AI-powered skills engine and an extensive skills ontology. Cornerstone is paying $18.5 million in all cash, and the deal is expected to close this quarter. Cornerstone plans to ...",
+      "heat": 67,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
+      "publishedDateTime": "2020-01-16T13:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-creating-a-more-accessible-world-with-azure-ai.md",
+      "title": "Creating a more accessible world with Azure AI",
+      "excerpt": "At Microsoft, we are inspired by how artificial intelligence is transforming organizations of all sizes, empowering them to reimagine what’s possible. AI has immense potential to unlock solutions to some of society’s most pressing challenges. One challenge is that according to the World Health Association,",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/creating-a-more-accessible-world-with-azure-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T00:00:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e79a07b9-c903-4f16-8e4f-ee19d7dfdf0d.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Creating a more accessible world with Azure AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-democratizing-the-optimization-of-ais-arcane-neural-networks.md",
+      "title": "Democratizing the optimization of AI’s arcane neural networks",
+      "excerpt": "We’re only a few weeks into the new year, but already we’re seeing signs that automated machine learning modeling, sometimes known as autoML, is rising to a new plateau of sophistication. Specifically, it appears that a promising autoML approach known as “neural architecture search” will soon become part of data scientists’ core toolkits.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3514568/democratizing-the-optimization-of-ais-arcane-neural-networks.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T04:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-957654482_1200x800-100767998-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Democratizing the optimization of AI’s arcane neural networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-16-dewo-uses-ai-to-minimize-digital-distractions.md",
       "title": "Dewo uses AI to minimize digital distractions",
       "excerpt": "A productivity-tracking tool that taps AI to create up-to-the-minute time sheets on employees’ behalves, Timely quickly found success, racking up thousands of paying customers across over 160 countries and attracting the attention of investors like Concentric, Investinor, 500 Startups, and SNÖ Ventures. (Memory raised $5 million in an ...",
@@ -1899,251 +2158,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-bjork-creates-an-ai-composition-that-creates-music-that-creates-music-to-the-weather.md",
-      "title": "Björk creates an AI composition that creates music that creates music to the weather",
-      "excerpt": "The AI will create dynamic new variations of Björk's original arrangements based on the changing weather patterns and position of the sun . Called ‘Kórsafn,’ which means ‘choir archive’ in Icelandic, the composition will be played continuously ...",
-      "heat": 160,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-7900725/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html",
-      "publishedDateTime": "2020-01-17T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/01/17/22/23542750-0-image-a-28_1579300849679.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Björk creates an AI composition that creates music that creates music to the weather",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces.md",
-      "title": "EU mulls 5-year ban on facial recognition tech in public spaces",
-      "excerpt": "(Reuters) — The European Union is considering banning facial recognition technology in public areas for up to five years to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive — set out in an 18-page white paper — comes amid a global debate about the systems driven by ...",
-      "heat": 339,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/amp/",
-      "publishedDateTime": "2020-01-17T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?fit=1200%2C601&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": "EU mulls 5-year ban on facial recognition tech in public spaces",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-european-union-to-restrict-the-development-of-artificial-intelligence.md",
-      "title": "European Union to restrict the development of artificial intelligence",
-      "excerpt": "These rules will restrict artificial intelligence developers and ensure that these modern technologies are developed in an ethical way. The competent authority of the European Union plans to implement these new regulations in “high-risk sectors”. They include health care, transportation, and other fields. Member states in the European ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/",
-      "ampWebUrl": "https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-01-17T05:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2019/07/EU.png",
-          "width": 788,
-          "height": 525,
-          "title": "European Union to restrict the development of artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-every-entrepreneur-should-befriend-a-robot.md",
-      "title": "Every Entrepreneur Should Befriend a Robot",
-      "excerpt": "For entrepreneurs just beginning their start-up journey, RPA is not usually a priority with product development ... Today, pragmatic Artificial Intelligence (AI) and natural language processing can enable robots to understand real world documents even if the document includes ‘noise’ (e.g. hard to read, poorly scanned etc).",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/345180",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345180",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345180",
-      "publishedDateTime": "2020-01-17T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20170424101436-shutterstock-417941752.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Every Entrepreneur Should Befriend a Robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
-      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "ampWebUrl": "https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "publishedDateTime": "2020-01-17T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
-          "width": 640,
-          "height": 358,
-          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-17-facial-recognition-scanners-are-coming-to-philadelphias-airport-starting-tuesday.md",
-      "title": "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday",
-      "excerpt": "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ...",
-      "heat": 174,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html",
-      "ampWebUrl": "https://www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html?outputType=amp",
-      "publishedDateTime": "2020-01-17T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morning Call PA",
-        "domain": "mcall.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.mcall.com/resizer/662IptMsHi99xN6J-SNxQSoolGk=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GUF353ITLREW5CDR7K74JGZARY.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

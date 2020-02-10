@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-29T15:18:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354-2020-01-29"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market is expected to grow by USD 7.2 billion during 2020-2024, according to the latest market research report by Technavio. Request a free sample report Deep learning is popularly used in machine learning, which involves the use of artificial neural networks with several degrees of layers. Moreover ..."
+    publishedDateTime: 2020-02-04T10:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200204005427/en/Global-Deep-Learning-Market 2020-2024-Growing-Application-Deep"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
+    images:
+      - url: "https://mms.businesswire.com/media/20200204005427/en/771085/23/Global_Deep_Learning_Market_2020-2024.jpg"
+        width: 1200
+        height: 627
 
 secured: "Yrz797aGdppbBi91XZrYHk2+TXp4pp7B4wccrHVsXv7wtI48pMf03vzI8WZoTIDlsbU63nNhSRrlnbkKabF2Pyrll/WYCOR5QEAbW340rm1ziBwsO11qkFttMlnSTRmeRxBKq5YZzaepk76DHBbpbp/NMZJK9/TJklQh3sI7kSYKpi04ALNtMsyjr+JPNC6oVZTCa6DVCDDDD908kyoB6nS6OY+XJ/1c+U1uqWpr9gEmn4yGicNeLWBQJVfhGrOOwYLZ7usdSnhkBgnmwjGpQSPd60FJnxwvTe4QKNbbyw/9KGeQo/R+3kA2h2JsHhjT;RU2EkjyQG0z5Vg8lCNI9Yw=="
 ---

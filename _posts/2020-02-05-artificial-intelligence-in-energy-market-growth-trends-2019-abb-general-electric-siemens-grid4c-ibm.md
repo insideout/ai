@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T06:32:00Z
 webUrl: "https://www.openpr.com/news/1919332/artificial-intelligence-in-energy-market-growth-trends-2019"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -15,6 +15,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial Intelligence in Energy Growing Popularity and Emerging Trends in the Market | ABB, Alphabet, GE, IBM,"
+    excerpt: "The latest update of Global Artificial Intelligence in Energy Market study provides comprehensive information on the development activities by industry players, growth opportunities and market sizing for Artificial Intelligence in Energy,"
+    publishedDateTime: 2020-01-31T04:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-growing-popularity-and-emerging-trends-in-the-market-abb-alphabet-ge-ibm-2020-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
 
 secured: "6kTQcdw277ikdzGA2LNCFktVseGanNGNO/Elwxae94r+X9Ntd2m80NJ/NpDSojIRZSp3ETNwoWy8JyunbQmWCKyqPmIZ+x4ntnoJxjPLIo8o5hcAaKNTZ/4eX98XT66MvJZ2CBofOr+RcnGT3NIGEkDHic9jzKz8xVuOP8t6xKBu8wM1e7NWO3waJjNlFClLOiPYVZ0Pm76n3PIJmQDqTUuxu8Ib/7BDs5Q9Bu95c1SersD00k53GyIz26xPrSwDEmaB5uRNBSEpBkNDqB8iYxrKYZfU/zUiV7IC4vnReMgWfCpVGyzkit+V45E8YP91;9ASNCjw+AlcaORZ8ukxCPQ=="
 ---

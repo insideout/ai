@@ -33,15 +33,6 @@ related:
       name: Deep
       domain: thefastmode.com
     quality: 14
-  - title: "MYCOM OSI Announces Strategic Collaboration Agreement with Amazon Web Services to deliver Carrier-grade Service Assurance with the Cloud"
-    excerpt: "Running on AWS, MYCOM OSI’s Assurance Cloud™ embeds its award-winning Experience Assurance ... telco and IT networks by integrating real time assurance with closed loop automation and analytics driven by Artificial Intelligence (AI) and Machine Learning (ML). “When selecting a cloud provider, the thing that matters most is a cloud ..."
-    publishedDateTime: 2020-02-04T09:09:00Z
-    webUrl: "https://www.realwire.com/releases/MYCOM-OSI-Announces-Strategic-Collaboration-Agreement-with-AWS"
-    type: article
-    provider:
-      name: realwire.com
-      domain: realwire.com
-    quality: 0
 
 secured: "8CupdfXPD6wxZQvu8wcVSYL0EX0wC+f9zz1m9kv4zWAm4uUKmbL8v6gc1VNXm5aXe9ZVtu7N49zZBAnj1A57Q7jri1Xs103g6YpvKn93u7ROQBG5DwRLzwkiQvodXCTmf6mYJbB2KrflyPCrlLXwJy8oGO4fyyU4lfS7FQk3qJsQMEoQFRDJvFe1UdtZytvtI4CP1m4uuUkNXBHgCcY/IODmCtWD+X0iSkVJDwh9G+KVCon8uImFtb97kuazrZd7HfuqmEenhA4tOUrqzxbvFWivA3LQ4rItGMdHqFUJGFKmpPSvTwQ/UDdZ34kgSr/U;oXkFbEBOzj23Jh5j5OAcug=="
 ---

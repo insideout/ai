@@ -24,19 +24,6 @@ images:
     title: "Gainesville Set To Become First U.S. City With Self-Driving Buses On Public Roads"
 
 related:
-  - title: "Uber Gets on Road to Self-Driving with Data Collection in DC"
-    excerpt: "Now its adding another city to that list 一Washington DC. Starting on January 24, Uber will bring its self-driving cars to District roads for data collection. Importantly, these cars will be in manual driving mode 一 meaning a Mission Specialist (a specially trained vehicle operator) will maintain control of the vehicle at all times."
-    publishedDateTime: 2020-01-26T20:02:00Z
-    webUrl: "https://www.autoconnectedcar.com/2020/01/uber-gets-on-road-to-self-driving-with-data-collection-in-dc/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 24
-    images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/volvo-uber_self-diriving800x534-c.jpg"
-        width: 700
-        height: 467
   - title: "Greenville entrepreneur sees safer roads ahead with self-driving cars"
     excerpt: "But what is possible in the short term are localized autonomous vehicle services, such as self-driving Uber or Lyft vehicles, that operate within set parameters. “Autonomous vehicles tend to work completely and safely within a certain domain,” Taylor said. Through three-dimensional mapping, the surroundings of a small downtown area like ..."
     publishedDateTime: 2020-01-30T17:00:00Z

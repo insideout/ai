@@ -39,6 +39,15 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x290/https://specials-images.forbesimg.com/imageserve/5e3cf820f133f400076be0f6/960x0.jpg?fit=scale"
         width: 711
         height: 290
+  - title: "An Engineer’s trek into Machine Learning"
+    excerpt: "My trek mates and I climbing Mayali Pass in Uttarakhand Himalaya, India You are a Software Engineer. You notice Artificial Intelligence, Machine Learning, Deep Learning, Data Science buzzwords all around. You wonder what these phrases mean, whether all this is for real and useful or is yet another hype and passing fad. You want to figure out ..."
+    publishedDateTime: 2020-02-10T18:43:00Z
+    webUrl: "https://medium.com/slanglabs/an-engineers-trek-into-machine-learning-658bcae3e109"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 49
   - title: "An engineering student is helping envision a self-driving future for people with disabilities"
     excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around."
     publishedDateTime: 2020-02-01T06:41:00Z

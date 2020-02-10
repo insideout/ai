@@ -84,6 +84,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence"
+    excerpt: "But, again, it becomes important to mention digital marketing without an effective resolution to the customer means nothing. And, here, AI or Artificial Intelligence comes into the picture. Today, most of the companies are merging the two technologies to create outstanding business operations, which can help in business growth."
+    publishedDateTime: 2020-02-10T18:43:00Z
+    webUrl: "https://medium.com/@inforobertsmith36/7-things-digital-marketing-industry-need-to-know-about-artificial-intelligence-17cab74ff304"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 63
+    images:
+      - url: "https://miro.medium.com/max/1200/1*9CF2YcL5UfPcmS034ycptg.jpeg"
+        width: 1200
+        height: 628
   - title: "The top 8 technologies that companies are using to modernize their IT in the age of cloud computing and AI, according to experts"
     excerpt: "As more companies move to the cloud and release code hundreds of times a day, these are eight developer technologies that they rely on today."
     publishedDateTime: 2020-01-31T15:06:00Z
@@ -110,6 +123,19 @@ related:
       - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/Research_Podcast_Jianfeng_Social_1200x627.png"
         width: 1200
         height: 627
+  - title: "Deep learning of circulating tumour cells"
+    excerpt: "Moreover, our network excelled in identifying different important subclasses of objects. Deep learning was faster and superior to classical image analysis approaches and enabled the identification of new biological phenomena. Fig. 1: Overview of the analysis workflow used. Fig. 2: Comparison of the t-SNE maps of the latent space for a standard ..."
+    publishedDateTime: 2020-02-10T19:12:00Z
+    webUrl: "https://www.nature.com/articles/s42256-020-0153-x"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-020-0153-x/MediaObjects/42256_2020_153_Fig1_HTML.png"
+        width: 685
+        height: 521
   - title: "Starship delivery robots indicate groundbreaking food delivery tech advancing into Madison"
     excerpt: "Now, three months after being introduced, these robots are in southeast and their AI (artificial intelligence) has greatly improved. They now cross streets faster, though still with some difficulty (missing traffic lights), and can navigate through more environments. If a robot does get stuck, they can be remotely controlled by a human to help ..."
     publishedDateTime: 2020-02-06T17:23:00Z

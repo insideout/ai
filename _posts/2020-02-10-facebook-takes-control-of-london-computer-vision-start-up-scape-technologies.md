@@ -18,21 +18,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Facebook has acquired Scape Technologies, the London-based computer vision startup"
-    excerpt: "Scape Technologies, the London-based computer vision startup working on location accuracy beyond the capabilities of GPS, has been acquired by Facebook, according to a regulatory filing. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc. now has majority control of the company (more than 75%)."
-    publishedDateTime: 2020-02-10T10:38:00Z
-    webUrl: "https://techcrunch.com/2020/02/08/scapebook/"
-    ampWebUrl: "https://techcrunch.com/2020/02/08/scapebook/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/08/scapebook/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/localization.png?w=1024"
-        width: 1024
-        height: 767
   - title: "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook"
     excerpt: "Scape Technologies, the London-based computer vision startup working on location accuracy beyond the capabilities of GPS, has been acquired by Facebook, according to a regulatory filing. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc. now has majority control of the company (more than 75%)."
     publishedDateTime: 2020-02-08T10:36:00Z
@@ -63,21 +48,6 @@ related:
       - url: "https://www.thestatesman.com/wp-content/uploads/2020/02/QT-facebook.jpg"
         width: 1200
         height: 800
-  - title: "Facebook Acquires Computer Vision Startup Scape Technologies"
-    excerpt: "According to regulatory filings uncovered by Tech Crunch, Facebook has acquired Scape Technologies, a London-based computer vision startup. Facebook has yet to publicly acknowledge the acquisition. A company spokesperson told Tech Crunch that it “acquire[s] smaller tech companies from time to time. We don’t always discuss our plans.”"
-    publishedDateTime: 2020-02-10T14:19:00Z
-    webUrl: "https://www.roadtovr.com/facebook-acquires-computer-vision-startup-scape-technologies/"
-    ampWebUrl: "https://www.roadtovr.com/facebook-acquires-computer-vision-startup-scape-technologies/amp/"
-    cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/facebook-acquires-computer-vision-startup-scape-technologies/amp/"
-    type: article
-    provider:
-      name: Road to VR
-      domain: roadtovr.com
-    quality: 59
-    images:
-      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/02/scape-technologies.jpg"
-        width: 1920
-        height: 1080
   - title: "Facebook Looks Beyond GPS, Ties With Startup That Uses AI Vision For Location"
     excerpt: "Facebook co-founder and CEO Mark Zuckerberg (File Photo). San Francisco: Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority ..."
     publishedDateTime: 2020-02-09T12:49:00Z

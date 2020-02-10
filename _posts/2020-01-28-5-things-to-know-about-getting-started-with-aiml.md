@@ -31,15 +31,6 @@ related:
       - url: "https://miro.medium.com/max/800/0*70d1mypOZTlJ0xsF.jpg"
         width: 800
         height: 450
-  - title: "Get Started With Speech Recognition"
-    excerpt: "Speech recognition makes it easier for us to be lazy with our devices – or perhaps set up the coolest voice-controlled project around. After the voice controlled home automation post ..."
-    publishedDateTime: 2020-01-24T00:00:00Z
-    webUrl: "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 19
 
 secured: "2sCayQK7JeLJdpw/07ELvL4NBEqwZM6TzuXcN6E6C+oGVGg/OqqCj0qf4pQyxZ4ijw9BRYzdK+i/tnmBNeom7798UnVNDI8X6WNrgde1QXSCx36NJzATpC3zsx2+5A1RfHP4QoNct6ApYk8ROy5py3SgyTw06jQlYJ9T1NAn6HAXKeFCj2rZ+EIGRGVqKdL9ILzChh40X4E6q9PutZ1quQBNAx7yze/DEA74fsBoCcRGPIHHTvZ1tBwNVxisr9Vb2QD0hgh95C4GdI3TNwZZYfDYM6cruRd0e5HRBDa7crkPGujXedIxKfPndYKGgMp1hOHsvemQn+cTxDBDi/WtAXI98boPFOEeS2ieOUOUjDGuHBCmW5bGmDdrOChtK6hxvEDEEKT4lzfwfH/tGpf9tvmhUnYUo3SPOadQCh5jwZE2o08ptH6AIMyw9SWP3FFdbXoKhpUhlWSNODqQUBTBhMsPTOcsQJKE8nyE9/Nq0mU=;ap8iKLfbH+JJylBDTqcAbQ=="
 ---

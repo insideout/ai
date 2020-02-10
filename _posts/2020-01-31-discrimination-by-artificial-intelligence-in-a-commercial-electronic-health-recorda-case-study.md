@@ -31,19 +31,6 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58178-1/MediaObjects/41598_2020_58178_Fig1_HTML.png"
         width: 575
         height: 685
-  - title: "Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures"
-    excerpt: "In this paper, we demonstrate a computationally efficient new approach based on deep learning (DL) techniques for analysis, design and optimization of electromagnetic (EM) nanostructures. We use the strong correlation among features of a generic EM problem to considerably reduce the dimensionality of the problem and thus, the computational ..."
-    publishedDateTime: 2020-02-04T11:36:00Z
-    webUrl: "https://www.nature.com/articles/s41524-020-0276-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-020-0276-y/MediaObjects/41524_2020_276_Fig1_HTML.png"
-        width: 685
-        height: 536
   - title: "Identification of biological mechanisms underlying a multidimensional ASD phenotype using machine learning"
     excerpt: "To establish more precise genotype–phenotype correlations in ASD, we developed a novel machine-learning integrative approach, which seeks to delineate associations between patients’ clinical profiles and disrupted biological processes, inferred from their copy number variants (CNVs) that span brain genes. Clustering analysis of the relevant ..."
     publishedDateTime: 2020-01-28T16:43:00Z

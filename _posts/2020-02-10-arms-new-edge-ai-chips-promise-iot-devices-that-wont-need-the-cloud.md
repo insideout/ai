@@ -71,6 +71,19 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/arm.png"
         width: 718
         height: 400
+  - title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
+    excerpt: "Cambridge [UK], Feb 10 (ANI): Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which basically means processing on a device without a cloud connection, The Verge reports. The ARM ..."
+    publishedDateTime: 2020-02-10T15:52:00Z
+    webUrl: "https://www.aninews.in/news/tech/others/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices20200210212119/"
+    type: article
+    provider:
+      name: Asian News International
+      domain: aninews.in
+    quality: 50
+    images:
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/technology-chips-micro-computer-embed-steel-royalty-free-thumbnail_1.jpg"
+        width: 600
+        height: 450
   - title: "Arm unveils AI chip for small devices"
     excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
     publishedDateTime: 2020-02-10T14:53:00Z
@@ -81,6 +94,6 @@ related:
       domain: seekingalpha.com
     quality: 34
 
-secured: "voXVHCq99QPGsNspiWTDN/6GGIolSTu/pnzqbwU1akyhoTK3YPEKCEmQ9q2YaI4Jn5MT8PWOVRR7Ve1MxXn7KR/Fh0m1325bubJ//zSM2Sf0J4ojOfNS1cxgNibZz6ATYdanja6YQ0Fz3RCEawWQVLxXlX2eZI9qSDDB6lAY9r1p1BtCJ7ZQTIAK9uiFIsJhvHYNl5r4rLGUTdyENNEZqEdqZypRdOAcSnluAg6+/1NDpK/mGEK+7K4TbqBHXfLgWEE2Q0LreAGMBX8Y/ahUtsHFOILpOsH7mBbx2ifZhwcpurA8epXAM02i0FOfIIGy;0FFQgVo6cRmRuChFkIyAIg=="
+secured: "jDLKUIShg/cSqJMzwys+w0bmFPI50WzkukvP4TVRMU+jENKr21tCbe9OEy64qXSelmUKdVYjlTTFX9NMylE8O1/LOZltYPd4uUH0HUWcUtBo0vhrrDxK1nLQ6SBnqb6yC4vlnrJi/I7SYceOPFOzQfUrn491Uq7G4d38wTiNfLNtBtgyPM6mjNv23KwP9uBV3LKV4luVbIMtkv2Z+ry/IB/cv8T3aKeLQqVUSamXMIDXLDrQarYI6dsHVo3j0Vc7+L1+io2omIkEjcXV7S8iVxPmqJvYft/8We3rphMtVy0s0QuTRjs0edzIEAgUB4AidId2sdT8q36Htfgmi/eF0Ur7lgakHEFj4+EGCIeNO7dYhzzra2bkwXvZQcX9cc6lhxAWBC4vLqsSBVsUimuTA3dCliM+C75/xmR09rNodK0uFcZriPsTCkiwgu1l708mWvzkZ9jHABQ6Mb+XaxID4I8H6CP2NHqo2OnGUO8o4U4=;LXVNxv0VWg5vaUbRVRvWyQ=="
 ---
 

@@ -91,15 +91,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 9
-  - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
-    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
-    publishedDateTime: 2020-02-05T15:33:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980388/0/en/Smart-Learning-Market-Worth-56-5-Billion-by-2024-Proliferation-of-Connected-Devices-in-the-Education-Sector-Drives-Growth.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "d1Bjg/f5aUQPOrZi3Ws1xMzR7ODY7RjhP9yl511lGF3vuiK2Hx2WDVQUdoXPWvGXyHvxiFN/qIZrHX48oD7W43t+rjHuEmpsbf9nM66j9O/1jzXj3IZvk9Yc5jqAbqu7yPNSl2fUDV3gBaTQUXAi/JEIjiU53sz9uAIi2PwV1UHLHOOS7RXIpz7pBaUxaZJgsczUZrwUFljeauoNCFrNWIguFG5SOMb73K9dX7lu3q4t0OgylYqL0yzvL6UlQovqb6rtrxec6s/XzMyWs4lfRxJOpRgrb3OzwUjnIbUilJojdAbjIFyGemxHKDd4HxFC;zdITyNq2F6y7pz75VW2ubg=="
 ---

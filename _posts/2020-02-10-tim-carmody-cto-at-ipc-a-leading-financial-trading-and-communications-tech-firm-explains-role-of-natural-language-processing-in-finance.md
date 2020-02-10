@@ -25,6 +25,6 @@ images:
     height: 450
     title: "Tim Carmody: CTO at IPC, a Leading Financial Trading and Communications Tech Firm, Explains Role of Natural Language Processing in Finance"
 
-secured: "SFS/UJ18OfM1yzX+Pr1/suoKl+wtadP8Ng3Cf5iOO44fehyFOF9pu2FHmC3VhoM2dVLbgFJhP/42NIR+EAK4vvfJauX/UrBelvMdq4Jd/W/3vp1f5Kk3403BsgHvEKvnn/9FJdPkBRVrscAc30WoW0Pq1Bz6FuKD5Obw0Z+57XCJpfCLsd3UXKqRB61T9lAEYS8AaRhSnZPh7QLCN9DGdV1XC3at56dHSCvAJpa6RR+Ql5jVUyeWnHzjTtYlRQcV2miX2oHQvHDbaotQYazW9UrY7Pnm9LFVGmlaBuaGy9ApshEh5NOVJ2xVwaG0Qqi0;QnHy2HAyYgCT4g/5/B1WyQ=="
+secured: "zQoef0sVtXrJ34SC6Tc1GcbVytPVPJm4SHH7zS1yGKrURufu+xsvooFng+jw0UCYdo2XVz9AgfcAw68/OvfL9IFDM/AKxPl6fiM+lM98woMPi7IaVzyafHWcEfejmbv9jKbWi4sGmcPgJPMlKgUsA7ONzj+V9zq4YgOAif2Qxu/UJJQQ37pWByD+S+5lKMTvaSqzuz9UHoZY8bYgXViJlju5tm5n+pTRgaMaUvB25gYl34RG9QpFpyYC9Py5W3GbQGkyJMQyaO9fvhHzyMa5hzy0Qhk5fPA72h2xOWO47Z+VYPpgXQ+H8+e5vLhfK83EUP/+wz7s1sQh11x57LtAi0SrvdMNREH9Yn+bbeVRNImw3KVgVvd40WRekTHPKHsPRStGzqu9Z8I8UYYOXINTiXj1tuomvE5JlMUt0Pox4kZP5PO6SEIGjZuzOFKrPv7sSSSzAj33p/BklRQXuSgz6KVme6ByUBKBJujxQdQDufQ=;Qz4ucREng9Zonml3E0mZjw=="
 ---
 

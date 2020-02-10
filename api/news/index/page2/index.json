@@ -2,44 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-01-28-ibm-watson-ai-xprize-announces-10-semifinalist-teams.md",
-      "title": "IBM Watson AI XPRIZE announces 10 semifinalist teams",
-      "excerpt": "The XPRIZE Foundation, which designs and runs competitions to “solve humanity’s grand challenges,” has announced the 10 semifinalist teams advancing in the IBM Watson AI XPRIZE. The four-competition is intended to demonstrate how people can collaborate with artificial intelligence to tackle pressing global problems. Sponsored by IBM ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/ibm-watson-ai-xprize-announces-10-semifinalist-teams/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/IBM-AI-XPRIZE-logo.jpg",
-          "width": 1440,
-          "height": 650,
-          "title": "IBM Watson AI XPRIZE announces 10 semifinalist teams",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/2020-01-28-launch-your-product-at-transform-2020-the-ai-event-for-enterprise-decision-makers.md",
       "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
       "excerpt": "VentureBeat’s Tech Showcase is back at Transform 2020: Accelerating your business with AI, July 15-16 in San Francisco. We’re on the lookout for disruptive AI companies of all sizes that are ready to present their tech on the main stage. Those selected to present will do so in front of hundreds of industry decision makers. Every presenter ...",
@@ -733,7 +695,7 @@
       "path": "_posts/2020-01-28-ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.md",
       "title": "Uber's self-driving cars are a key to its path to profitability",
       "excerpt": "Uber plans to launch its self-driving cars in pockets of cities where weather, demand and other conditions are most favorable.",
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnbc.com/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html",
@@ -1420,7 +1382,7 @@
       "path": "_posts/2020-01-29-getting-started-with-aws-deepracer-2020-edition.md",
       "title": "Getting Started with AWS Deepracer (2020 edition)",
       "excerpt": "Since the last time, I wrote a blog on how to win at Deepracer? a LOT has changed on the Deepracer Console. You could read that to know the very basics of Deepracer and Reinforcement Learning.",
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://medium.com/vaibhav-malpanis-blog/getting-started-with-deepracer-2020-edition-a7896dd07c48",
@@ -1799,7 +1761,7 @@
       "path": "_posts/2020-01-29-machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354.md",
       "title": "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%",
       "excerpt": "The overall machine learning as a service market worldwide was valued at US$ 1,117.9 Mn in 2018 and is set to grow with a CAGR of 35.4% during the forecast period. Rapid technological advancements and the growing adoption of cloud-based technologies worldwide are primarily driven by the Machine Learning As A Service market.",
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354-2020-01-29",
@@ -2133,6 +2095,51 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-29-rift-emerges-between-regulators-and-businesses-over-portlands-proposed-facial-recognition-ban.md",
+      "title": "Rift emerges between regulators and businesses over Portland’s proposed facial recognition ban",
+      "excerpt": "Portland still seems on pace to impose a dual ban prohibiting facial recognition use by both government agencies and private entities such as retailers and other businesses. But a City Hall session today illuminated what could become a more pronounced point of contention: some local businesses and tech firms could oppose a private-use ban.",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/rift-emerges-regulators-businesses-portlands-proposed-facial-recognition-ban/",
+      "ampWebUrl": "https://www.geekwire.com/2020/rift-emerges-regulators-businesses-portlands-proposed-facial-recognition-ban/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/rift-emerges-regulators-businesses-portlands-proposed-facial-recognition-ban/amp/",
+      "publishedDateTime": "2020-01-28T17:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/06/bigstock-Portland-Oregon-USA-skyline-247939699-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Rift emerges between regulators and businesses over Portland’s proposed facial recognition ban",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

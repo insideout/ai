@@ -2,138 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-07-the-rise-of-the-ai-agency-in-2020.md",
-      "title": "The Rise Of The AI Agency In 2020",
-      "excerpt": "In a world of increasing information and races to the bottom, AI is more obviously an important competitive advantage for many organizations.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/",
-      "publishedDateTime": "2020-02-07T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 493,
-          "title": "The Rise Of The AI Agency In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-the-straight-line-from-google-maps-to-clearview-ai.md",
-      "title": "The straight line from Google Maps to Clearview AI",
-      "excerpt": "It’s worse than showing nothing.” People walking around and finding themselves subject to ubiquitous computing — whether they like it or not — is a subject that has been in the news constantly of late, as we debate the rise of for-profit facial recognition and tools like Clearview AI. It’s a story that, to my mind, starts with the ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/interface/2020/2/7/21126498/google-maps-birthday-privacy-street-view-germany-clearview-ai",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/interface/2020/2/7/21126498/google-maps-birthday-privacy-street-view-germany-clearview-ai",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/interface/2020/2/7/21126498/google-maps-birthday-privacy-street-view-germany-clearview-ai",
-      "publishedDateTime": "2020-02-07T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/o4YgD9JkSTTTNLwOzs4_EZONwOs=/0x0:1280x800/1400x933/filters:focal(538x298:742x502):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66270774/googlemaps.0.png",
-          "width": 1280,
-          "height": 800,
-          "title": "The straight line from Google Maps to Clearview AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-this-girls-only-app-uses-ai-to-screen-a-users-gender-what-could-go-wrong.md",
-      "title": "This girls-only app uses AI to screen a user’s gender — what could go wrong?",
-      "excerpt": "But in an era of ever-expanding surveillance, with companies like Clearview AI identifying people’s faces without their knowledge or consent, an app built on dubious biometric screening and extensive data collection should be cause for concern. While Giggle’s website says the app is “designed to give girls choice, control and connection ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
-      "publishedDateTime": "2020-02-07T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/KylgpuoqoH4U00P5Fk8WjdgX0uE=/0x0:904x683/1400x933/filters:focal(380x270:524x414):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66274336/giggle_girl_banner_1.0.png",
-          "width": 904,
-          "height": 683,
-          "title": "This girls-only app uses AI to screen a user’s gender — what could go wrong?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-07-triple-1-unveils-ai-processor-goku-for-deep-learning.md",
       "title": "TRIPLE-1 unveils AI processor ‘GOKU’ for deep learning",
       "excerpt": "KUALA LUMPUR, Feb 7 -- TRIPLE-1 Inc, based in Fukuoka, south-western Japan has announced the development of the AI processor ‘GOKU’ for deep learning that uses the world’s cutting-edge 5-nanometer process. ‘GOKU’ has 10 times higher power efficiency than the conventional process, according to a statement. It utilises core know-how ...",
@@ -309,7 +177,7 @@
       "path": "_posts/2020-02-07-what-is-machine-learning-exploring-its-impact-on-customer-experience.md",
       "title": "What is machine learning? Exploring its impact on customer experience",
       "excerpt": "As machine learning algorithms become increasingly integrated into home and business applications, this offspring of artificial intelligence is certainly grabbing headlines. From self-driving cars ...",
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://medium.com/@mahiprashanth866/what-is-machine-learning-exploring-its-impact-on-customer-experience-350bf3115497",
@@ -574,43 +442,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-08-darpa-is-using-gamers-brain-waves-to-train-robot-swarms.md",
-      "title": "DARPA Is Using Gamers’ Brain Waves to Train Robot Swarms",
-      "excerpt": "A team of artificial intelligence researchers at the University at Buffalo plans to study the brain ... gamers to build an advanced AI — so that it can then coordinate the actions of entire fleets of autonomous military robots. The U.S. Defense Advanced Research Projects Agency — better known as DARPA — has awarded the UB team a $ ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://futurism.com/the-byte/darpa-gamers-brain-waves-train-robots-swarms",
-      "ampWebUrl": "https://futurism.com/darpa-gamers-brain-waves-train-robots-swarms/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/darpa-gamers-brain-waves-train-robots-swarms/amp",
-      "publishedDateTime": "2020-02-08T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/02/darpa-gamer-brainwaves-train-killer-robots-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "DARPA Is Using Gamers’ Brain Waves to Train Robot Swarms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-08-how-ai-is-making-software-development-easier-for-companies-and-coders.md",
       "title": "How AI Is Making Software Development Easier For Companies And Coders",
       "excerpt": "Software developers are increasingly using AI to write and review code, detect bugs, test software, and even optimize development projects.",
@@ -782,10 +613,55 @@
       ]
     },
     {
+      "path": "_posts/2020-02-08-scape-technologies-the-london-based-computer-vision-startup-has-been-acquired-by-facebook.md",
+      "title": "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook",
+      "excerpt": "Scape Technologies, the London-based computer vision startup working on location accuracy beyond the capabilities of GPS, has been acquired by Facebook, according to a regulatory filing. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc. now has majority control of the company (more than 75%).",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/08/scapebook/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/08/scapebook/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/08/scapebook/amp/",
+      "publishedDateTime": "2020-02-08T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/localization.png?w=1024",
+          "width": 1024,
+          "height": 767,
+          "title": "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-08-the-next-ai-platform-2020-edition.md",
       "title": "The Next AI Platform: 2020 Edition",
       "excerpt": "Fernanda brings a strong accelerated high performance computing systems view to the table along with extensive large-scale workload perspectives that blend AI and traditional modeling and simulation. She is a currently GPU Developer Advocate for Bioinformatics at NVIDIA. She was previously in the HPC User Assistance Group as an HPC Programmer ...",
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.nextplatform.com/2020/02/08/the-next-ai-platform-2020-edition-march-10-san-jose/",
@@ -987,6 +863,51 @@
           "width": 1200,
           "height": 675,
           "title": "Artificial Intelligence Is Not Ready For The Intricacies Of Radiology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-09-artificial-intelligence-solutions-market-value-estimation-to-expand-from-2020-to-2029.md",
+      "title": "Artificial Intelligence Solutions Market Value Estimation to Expand From 2020 to 2029",
+      "excerpt": "A recent market research analysis titled, Artificial Intelligence Solutions Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence Solutions market covering industry surroundings,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-value-estimation-to-expand-from-2020-to-2029-2020-02-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-09T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Solutions Market Value Estimation to Expand From 2020 to 2029",
           "attribution": null
         }
       ],
@@ -1265,51 +1186,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-10-ai-in-education-market-2020-strategic-assessment-google-ibm-pearson-microsoft-aws-nuance-communications-cognizant.md",
-      "title": "AI In Education Market 2020 Strategic Assessment - Google, IBM, Pearson, Microsoft, AWS, Nuance Communications, Cognizant",
-      "excerpt": "The AI In Education Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-education-market-2020-strategic-assessment---google-ibm-pearson-microsoft-aws-nuance-communications-cognizant-2020-02-10",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-09T22:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI In Education Market 2020 Strategic Assessment - Google, IBM, Pearson, Microsoft, AWS, Nuance Communications, Cognizant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-ai-in-public-service-must-be-accountable.md",
       "title": "AI in public service must be accountable",
       "excerpt": "A new report from the Committee for Standards in Public life looking at the risks of artificial inteligence (AI) has recommended that ethics is embedded in AI governance frameworks. According to the Artificial intelligence and public standards report, automated decision-making will revolutionise many human-centric administrative tasks in the ...",
@@ -1347,10 +1223,54 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu.md",
+      "title": "Arm focuses on AI with its new Cortex-M CPU and Ethos-U NPU",
+      "excerpt": "“But the next thing or the next step is even more exciting to me: to get AI everywhere. And here we are talking about bringing the benefits of AI down to the IoT endpoints, including microcontrollers and therefore to a much larger scale of users and applications — literally billions more.” That’s very much what this combination of ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/10/arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/10/arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu/amp/",
+      "publishedDateTime": "2020-02-10T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1146397412.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Arm focuses on AI with its new Cortex-M CPU and Ethos-U NPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-arm-unveils-2-new-ai-edge-computing-chips.md",
       "title": "Arm unveils 2 new AI edge computing chips",
       "excerpt": "It today announced two new AI-capable processors — the Arm Cortex-M55 and Ethos-U55, a neural processing unit (NPU) — designed for internet of things (IoT) endpoint devices, alongside supporting software libraries, toolchains, and models. The company claims that the two chips, which are expected to arrive in market in early 2021 ...",
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/10/arm-unveils-2-new-ai-edge-computing-chips/",
@@ -1390,6 +1310,50 @@
         "AI",
         "AI Hardware",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-behind-the-code-meet-zia-mohammad.md",
+      "title": "Behind the Code: Meet Zia Mohammad",
+      "excerpt": "As a product manager on IBM’s Watson Platform team, Zia Mohammad oversees Natural Language Understanding offerings such as Language Translator and Tone Analyzer. Zia also teaches at IBM’s Project Management Bootcamp. We talked to him about why he chose to work in AI, where he sees the field going in",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/02/behind-the-code-meet-zia-mohammad/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T11:35:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/02/2020_02_05_-Marketing_Materials_Blog_Image.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "Behind the Code: Meet Zia Mohammad",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     },
     {
@@ -1529,6 +1493,54 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-deep-learningcomputer-vision-object-detection-infection-classification-on-malaria-images-using-mask-region-based-convolutional-neural-network.md",
+      "title": "Deep Learning(Computer Vision): Object Detection & Infection Classification on Malaria Images using Mask-Region Based Convolutional Neural Network",
+      "excerpt": "I am going use Keras, with a Tensorflow backend to create models for Object Detection. Deep Learning is a sub-field of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. Deep learning (also known as deep structured learning or differential programming) is part of a ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/analytics-vidhya/deep-learning-computer-vision-object-detection-infection-classification-on-malaria-images-3769b4f51de9",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/811/1*TOubTYal5304uIdNHhNrJg.png",
+          "width": 811,
+          "height": 665,
+          "title": "Deep Learning(Computer Vision): Object Detection & Infection Classification on Malaria Images using Mask-Region Based Convolutional Neural Network",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "Google AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks.md",
       "title": "DeepMind trains robots to insert USB keys and stack colored blocks",
       "excerpt": "Robots perform better at a range of tasks when they draw on a growing body of experience. That’s the assertion of a team of researchers hailing from DeepMind, who in a preprint paper propose a technique called reward sketching. They claim it’s an effective way of eliciting human preferences to learn a reward function — a function ...",
@@ -1574,16 +1586,16 @@
       ]
     },
     {
-      "path": "_posts/2020-02-10-facebook-has-acquired-scape-technologies-the-london-based-computer-vision-startup.md",
-      "title": "Facebook has acquired Scape Technologies, the London-based computer vision startup",
-      "excerpt": "Scape Technologies, the London-based computer vision startup working on location accuracy beyond the capabilities of GPS, has been acquired by Facebook, according to a regulatory filing. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc. now has majority control of the company (more than 75%).",
-      "heat": 153,
+      "path": "_posts/2020-02-10-facebook-quietly-acquired-another-uk-ai-startup-and-almost-no-one-noticed.md",
+      "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
+      "excerpt": "Over the last few years, Facebook has been busy building out AI capabilities in areas like computer vision, natural language processing (NLP) and ‘deep learning,’ in part by acquiring promising startups in the space. Understandably, this has seen the U.S. social networking giant look to the U.K. for AI talent, including an acqui-hire of NLP ...",
+      "heat": 116,
       "tags": null,
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/08/scapebook/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/08/scapebook/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/08/scapebook/amp/",
-      "publishedDateTime": "2020-02-10T02:38:00-08:00",
+      "webUrl": "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/",
+      "publishedDateTime": "2020-02-10T11:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -1602,10 +1614,10 @@
       },
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/localization.png?w=1024",
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/halftone-maze.png?w=1024",
           "width": 1024,
-          "height": 767,
-          "title": "Facebook has acquired Scape Technologies, the London-based computer vision startup",
+          "height": 544,
+          "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
           "attribution": null
         }
       ],
@@ -1614,8 +1626,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Computer Vision"
+        "AI"
       ]
     },
     {
@@ -1653,6 +1664,51 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-fiat-chrysler-and-autox-confirm-plans-to-work-on-robotaxis.md",
+      "title": "Fiat Chrysler and AutoX confirm plans to work on robotaxis",
+      "excerpt": "FCA will face plenty of competition in China, where self-driving car tests have been permitted on public roads since 2017. Alibaba, Baidu, Chinese ridesharing company Didi Chuxingare and Tencent are all working on autonomous vehicle platforms. Volvo and Ford are both involved with Baidu. Meanwhile, Volkswagen's autonomous driving subsidiary ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/10/fiat-chrysler-autox-robotaxis-china/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/10/fiat-chrysler-autox-robotaxis-china/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/10/fiat-chrysler-autox-robotaxis-china/",
+      "publishedDateTime": "2020-02-10T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4000%252C2499%252C0%252C168%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1000%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252Fd4964650-4c34-11ea-a374-cfaa3a243dce%26client%3Da1acac3e1b3290917d92%26signature%3Da8fc029f8045afc06de7644470a82b686457cff2&client=amp-blogside-v2&signature=9fe2063928992a00bf65af16b4d39b2a6b5c5b19",
+          "width": 600,
+          "height": 350,
+          "title": "Fiat Chrysler and AutoX confirm plans to work on robotaxis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1926,6 +1982,133 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-machine-learning-the-tool-of-the-century.md",
+      "title": "Machine Learning: The Tool of the Century",
+      "excerpt": "There are 3 main types of artificial intelligence: narrow, general, and super. We have yet to achieve super, or even general intelligence. Artificial narrow intelligence (ANI) includes machine learning, which is being used to make self-driving cars, show you advertisements, and improve disease diagnosis. Machine learning is the field in which ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/datadriveninvestor/machine-learning-the-tool-of-the-century-fe5a20309920",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*3z-djqopm88GYDz2OB3qDg.png",
+          "width": 1200,
+          "height": 672,
+          "title": "Machine Learning: The Tool of the Century",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models.md",
+      "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
+      "excerpt": "Microsoft Research today announced DeepSpeed, a new deep learning optimization library that can train massive 100-billion-parameter models. In AI, you need to have larger natural language models for better accuracy. But training larger natural language models is time consuming and the costs associated with it are very high. Microsoft claims ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/",
+      "ampWebUrl": "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
+      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/",
+      "publishedDateTime": "2020-02-10T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSPoweruser",
+        "domain": "mspoweruser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mspoweruser.com/wp-content/uploads/2020/02/Microsoft-Deepspeed-deeplearning.jpg",
+          "width": 1305,
+          "height": 717,
+          "title": "Meet Microsoft DeepSpeed, a new deep learning library that can train massive 100-billion-parameter models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-worse-for-workers.md",
+      "title": "Prepare For ‘Robomageddon’: New Study Says AI Makes Jobs Easier, But Worse For Workers",
+      "excerpt": "Are you prepared for \"Robomageddon\"? As robotics and advanced automation continue to spread throughout the American workplace, a new study shows that attitudes are a mixed bag.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bryanrobinson/2020/02/10/prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-bad-for-workers/",
+      "ampWebUrl": "https://www.forbes.com/sites/bryanrobinson/2020/02/10/prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-bad-for-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanrobinson/2020/02/10/prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-bad-for-workers/amp/",
+      "publishedDateTime": "2020-02-10T11:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/1179632186/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "Prepare For ‘Robomageddon’: New Study Says AI Makes Jobs Easier, But Worse For Workers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security.md",
       "title": "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security",
       "excerpt": "In the midst of an unprecedented stock market rally and record-low unemployment, many Americans still struggle to meet their financial needs. Neel Yerneni and Tucker Haas have created Quo to provide Americans with the financial security they need in today's economy.",
@@ -1974,7 +2157,7 @@
       "path": "_posts/2020-02-10-softbank-owned-arm-to-launch-new-ai-chip-for-small-devices.md",
       "title": "SoftBank-owned Arm to launch new AI chip for small devices",
       "excerpt": "Arm Ltd, a semiconductor technology firm owned by SoftBank Group, unveiled a chip technology aimed at putting artificial intelligence functions on tiny devices such as sensors designed to detect patterns in human speech or other streams of data.",
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-arm-tech-idUSKBN2041MK",
@@ -2013,185 +2196,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-the-future-of-deep-learning-is-unsupervised-ai-pioneers-say.md",
-      "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
-      "excerpt": "Machines can do well at recognizing images and understanding language—when humans are involved with training. But for AI to reach new heights, the technology must figure out how to learn on its own, according to three AI pioneers.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/the-future-of-deep-learning-is-unsupervised-ai-pioneers-say-11581330600",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-152543/social",
-          "width": 1280,
-          "height": 640,
-          "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-tyson-takes-computer-vision-to-the-chicken-plant.md",
-      "title": "Tyson Takes Computer Vision to the Chicken Plant",
-      "excerpt": "The meat processor plans to expand the use of computer vision to track how much chicken moves through its plants, part of an effort to invest more in automation and artificial intelligence to cut costs and reduce waste.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602",
-      "publishedDateTime": "2020-02-10T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-152065/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Tyson Takes Computer Vision to the Chicken Plant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds.md",
-      "title": "UK public sector failing to be open about its use of AI, review finds",
-      "excerpt": "He has also personally championed a chatbot startup, Babylon Health, that’s using AI for healthcare triage — and which is now selling a service in to the NHS. Policing is another area where AI is being accelerated into UK public service delivery, with a number of police forces trialing facial recognition technology — and London’s Met ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/10/uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/10/uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds/amp/",
-      "publishedDateTime": "2020-02-10T06:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1074644658-2.jpg?w=1024",
-          "width": 1024,
-          "height": 662,
-          "title": "UK public sector failing to be open about its use of AI, review finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers.md",
-      "title": "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers",
-      "excerpt": "This intelligence report provides a comprehensive analysis of the \"Global Vehicle Speech Recognition System Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
-      "heat": 115,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers-2020-02-10",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T01:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

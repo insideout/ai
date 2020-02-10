@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/10/arm-unveils-2-new-ai-edge-computi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/arm-unveils-2-new-ai-edge-computing-chips/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -72,6 +72,19 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/arm.png"
         width: 718
         height: 400
+  - title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
+    excerpt: "Cambridge [UK], Feb 10 (ANI): Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which basically means processing on a device without a cloud connection, The Verge reports. The ARM ..."
+    publishedDateTime: 2020-02-10T15:52:00Z
+    webUrl: "https://www.aninews.in/news/tech/others/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices20200210212119/"
+    type: article
+    provider:
+      name: Asian News International
+      domain: aninews.in
+    quality: 50
+    images:
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/technology-chips-micro-computer-embed-steel-royalty-free-thumbnail_1.jpg"
+        width: 600
+        height: 450
   - title: "Arm unveils AI chip for small devices"
     excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
     publishedDateTime: 2020-02-10T14:53:00Z
@@ -82,6 +95,6 @@ related:
       domain: seekingalpha.com
     quality: 34
 
-secured: "VSixj4s02+OhBZP0b/GRykl7iv4+sVR9ZTp1YiMi6GwPthYm76mX6tnzI7PjVNgIXpv1bkuIKv2FNXMD/tx+A+eW6M63h6aumjx4C6h0a4gswKZmck0bgzwa6hxgSPeoQCUfyptl0Vwphx2O68+hVC5SkLdL2baYZSg+FBGUPOgFuZlOwjvMbK5O46DIIq1gjxI4C8vHBwODE+TRcM0PFOJK3Tf1aGblvsmHtUzeUuxY9+MdLkHbNI2kk1WqvMcGZyd40hIRXPfeahZ2Qj4Uf84FmXgk1haH92MXzKfN40agmA7vYiCAHZY09js+DOQg;tlVc8n5YECPKxSc1vchRpA=="
+secured: "FQ6OhFW0y01K749Tjgv3MmnFbFHKFicai4iQm/7pUoYIN5tbAzwPdfOEkYBQvD1F2H7HNJHWulWqi5MQhtS+1+MKF9b/MmJKlKxsYMFNfgdJ6jTgvIgvpeZOyWjcapBrEWGyC5SBYoOrjwX9GsiNkIGm5aNtIJv17BqI5oyr7VzZ1uM3//m0cucl7xlA4HI194bbyjeWT+NZATJhrkjfcfmxXookicZnlG9vH6KTLjcnshe7YARwpU7TKPX2yCfkU5g6EtxykNggmbx5RmktmJ6prd7kakx9sLovGqq7AzsduN7EZ3nqB75/DMY71kVhHSNPexfx2ZRJNyGI9uFMKYJhj3BrOHMV76DUr3mFkR1ncSdkwkBNfKkFPlPeQrA5o/R5boTxa9JoCd/Kl1PMqa7MegMQmDWsL75fP6S73fGuiG8PdSUJQT3vAVq7TCSZZ0vkBpvj5tgmTwSyjLnQLxL76coImlZ6uXOEbIJR1+g=;QEq42Q0B2kS2YBVOvwFqcQ=="
 ---
 

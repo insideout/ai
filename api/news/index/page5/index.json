@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-04-benchsci-raises-22-million-for-ai-powered-drug-discovery-tools.md",
-      "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
-      "excerpt": "Assessing the health of pharmaceutical R&D by unearthing hidden patterns in procurement data is a task made simpler by AI. At least, that’s the pitch given by David Qixiang Chen, Elvis Wianda, Liran Belenzon, and Tom Leung, who cofounded BenchSci in 2015. The Toronto, Canada-based biotech company taps AI to run experiments that accelerate ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
-      "publishedDateTime": "2020-02-04T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/products-screenshot-min-e1580583276382.png?fit=1258%2C600&strip=all",
-          "width": 1258,
-          "height": 600,
-          "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-04-blackpool-pothole-fixing-artificial-intelligence-saves-1m.md",
       "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
       "excerpt": "An innovative pilot scheme using artificial intelligence to assess potholes has saved more than £1m of taxpayers' cash, a council has said. Blackpool Council said it was the first local authority to use AI technology to detect damage to roads. It uses satellite images to inspect roads in seconds rather than sending engineers, and was trialled ...",
@@ -982,7 +938,7 @@
       "path": "_posts/2020-02-05-analyst-artificial-intelligence-ai-in-cyber-security-market-companies-have-room-for-growth.md",
       "title": "Analyst : Artificial Intelligence (AI) in Cyber Security Market Companies Have Room for Growth",
       "excerpt": "Latest launched research document on Global Artificial Intelligence (AI) in Cyber Security Market study of 95 Pages provides detailed analysis with presentable graphs, charts and tables. The Research Study presents a complete assessment of the Market and highlights future trend,",
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/analyst-artificial-intelligence-ai-in-cyber-security-market-companies-have-room-for-growth-2020-02-05",
@@ -1664,7 +1620,7 @@
       "path": "_posts/2020-02-05-image-recognition-market-worth-8188-billion-by-2026.md",
       "title": "Image Recognition Market Worth $81.88 billion by 2026",
       "excerpt": "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81.",
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05",
@@ -2108,6 +2064,50 @@
           "width": 1829,
           "height": 917,
           "title": "AI, 5G, and medical IoT can help deliver the promise of precision medicine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020.md",
+      "title": "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020",
+      "excerpt": "The Global AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market research provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The market report also calculate the market size,",
+      "heat": 170,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020-2020-02-06",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T22:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020",
           "attribution": null
         }
       ],

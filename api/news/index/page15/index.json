@@ -2,6 +2,214 @@
   "page": 15,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-20-alphabet-ceo-sundar-pichai-explains-why-ai-needs-to-be-regulated.md",
+      "title": "Alphabet CEO Sundar Pichai explains why AI needs to be regulated",
+      "excerpt": "This is the stance of Alphabet (parent company of Google) CEO Sundar Pichai, expressed in the form of an op-ed article in the Financial Times Monday. Pichai calls AI \"one of the most promising new technologies,\" but also highlights possible risks stemming from careless use of AI, naming a few historical examples in which breakthrough new tech ...",
+      "heat": 347,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/sundar-pichai-alphabet-ai-google/",
+      "ampWebUrl": "https://mashable.com/article/sundar-pichai-alphabet-ai-google.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/sundar-pichai-alphabet-ai-google.amp",
+      "publishedDateTime": "2020-01-20T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F01%252F20%252F79%252F61988a2acf3348d3985c33672ff66ae4.70784.jpg%252F1200x630.jpg?signature=ugPIR8TnhrvpRwI6agEgUWNPm6E=",
+          "width": 1200,
+          "height": 630,
+          "title": "Alphabet CEO Sundar Pichai explains why AI needs to be regulated",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-can-ai-systems-be-unethical-the-answer-is-yes.md",
+      "title": "Can AI Systems Be Unethical? The Answer Is Yes",
+      "excerpt": "To avoid biased outcomes, data sets need to be neutralized in a manner that these biases disappear, or are at least minimised as much as possible. Tony Fish, visiting lecturer for AI and Ethics at LSE, said, “if we teach our kids morality then why not teach the machines? However there is a problem here—we are trying to build the moral ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.huffingtonpost.in/entry/artificial-intelligence-systems-unethical-human-bias_in_5e256b92c5b673621f78de5a",
+      "ampWebUrl": "https://m.huffingtonpost.in/amp/entry/artificial-intelligence-systems-unethical-human-bias_in_5e256b92c5b673621f78de5a/",
+      "cdnAmpWebUrl": "https://m-huffingtonpost-in.cdn.ampproject.org/c/s/m.huffingtonpost.in/amp/entry/artificial-intelligence-systems-unethical-human-bias_in_5e256b92c5b673621f78de5a/",
+      "publishedDateTime": "2020-01-20T03:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost India",
+        "domain": "huffingtonpost.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/5e256c2c2400005100dd1232.jpeg?cache=Ggd6J1zlka&ops=scalefit_630_noupscale",
+          "width": 630,
+          "height": 354,
+          "title": "Can AI Systems Be Unethical? The Answer Is Yes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-computer-vision-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
+      "title": "Computer Vision Market- What Are The Main Factors That Contributing Towards Industry Growth?",
+      "excerpt": "At Verified Market Intelligence, we provide a market study that encompasses both qualitative and quantitative assessments of latest trends for the market segmentations classified by our analysts. According to our research team,",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-20",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-19T21:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Computer Vision Market- What Are The Main Factors That Contributing Towards Industry Growth?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters.md",
+      "title": "DARPA-backed Soft Robotics raises $23 million for autonomous grippers and sorters",
+      "excerpt": "As for the SuperPick, it’s a robot-agnostic solution comprising a vision system and AI engine that reports real-time metrics ... Sign up for Funding Weekly to start your week with VB's top funding stories.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/",
+      "publishedDateTime": "2020-01-20T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/SoftRobotics_Eggs-e1579543568131.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DARPA-backed Soft Robotics raises $23 million for autonomous grippers and sorters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-deep-learning-system-market-to-see-massive-growth-by-2025-google-graphcore-teradeep.md",
+      "title": "Deep Learning System Market to See Massive Growth by 2025 |Google, Graphcore, TeraDeep",
+      "excerpt": "HTF MI recently introduced latest version Global Deep Learning System Market Study 2019. It covered product Scope, Market Share, Size, Revenue, Opportunities, Growth Rate, Sales Growth, Demand, Supply,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-to-see-massive-growth-by-2025-google-graphcore-teradeep-2020-01-20",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-20T01:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning System Market to See Massive Growth by 2025 |Google, Graphcore, TeraDeep",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-20-facebook-says-technical-error-caused-vulgar-translation-of-chinese-leaders-name.md",
       "title": "Facebook Says Technical Error Caused Vulgar Translation of Chinese Leader's Name",
       "excerpt": "YANGON (Reuters) - Facebook Inc on Saturday blamed a technical error for Chinese leader Xi Jinping’s name appearing as “Mr Shithole” in posts on its platform when translated into English from Burmese,",
@@ -1010,6 +1218,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-21-facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage.md",
+      "title": "Facebook’s AI learns the relationships between physical places from first-person video footage",
+      "excerpt": "That’s why a team of researchers from the University of Texas and Facebook AI Research investigated in a paper Ego-Topo, a technique that decomposes a space captured in a video into a ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/",
+      "publishedDateTime": "2020-01-21T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/df0f4b81-fa76-42d4-bee8-2b4c4e8cd50d-e1579627646898.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s AI learns the relationships between physical places from first-person video footage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-21-google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition.md",
       "title": "Google and Microsoft spar over EU plan to ban facial recognition",
       "excerpt": "(Reuters) — The EU’s proposal for a temporary ban on facial recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said ...",
@@ -1896,266 +2149,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-varicent-software-acquires-augmented-intelligence-company-symonai.md",
-      "title": "Varicent Software Acquires Augmented Intelligence Company Symon.AI",
-      "excerpt": "Varicent, the leading provider of next generation Sales Performance Management (SPM), today announced that it has acquired Symon.AI, a visionary technology platform built on sophisticated Natural Language and Machine Learning algorithms that provide easy to use,",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/varicent-software-acquires-augmented-intelligence-company-symonai-2020-01-21-12159517",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Varicent Software Acquires Augmented Intelligence Company Symon.AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-vmware-to-acquire-nyansa-for-ai-based-network-analytics.md",
-      "title": "VMware to acquire Nyansa for AI-based network analytics",
-      "excerpt": "VMware on Tuesday announced it intends to acquire Nyansa, a Palo Alto, Calif.-based firm that offers AI-based network analytics. The deal is expected to close in VMware's first quarter of FY2021. The terms of the deal were not disclosed. VMware plans to combine Nyansa Voyance, the AIOps platform for network analytics and IoT security ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/",
-      "publishedDateTime": "2020-01-21T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-worried-about-privacy-at-home-theres-an-ai-for-that.md",
-      "title": "Worried About Privacy at Home? There's an AI for That",
-      "excerpt": "so the AI can run on much slower chips. The trade-off is a less ambitious bot: A voice recognition AI for a coffee maker only needs to recognize about 200 words, all related to the task of brewing java. I don't need light switches that tell dad jokes.",
-      "heat": 189,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/edge-ai-appliances-privacy-at-home/",
-      "ampWebUrl": "https://www.wired.com/story/edge-ai-appliances-privacy-at-home/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/edge-ai-appliances-privacy-at-home/amp",
-      "publishedDateTime": "2020-01-20T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e20c8de4868fe0008ec3596/master/pass/WI020120_MG_Thompson_AngryNerd_01-CROP.jpg",
-          "width": 1700,
-          "height": 2400,
-          "title": "Worried About Privacy at Home? There's an AI for That",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model.md",
-      "title": "Adobe’s AI lets you preview any item of clothing on a virtual body model",
-      "excerpt": "They also say it achieved state-of-the-art results across qualitative metrics, including Fréchet Inception Distance (FID), which takes photos from both the target distribution and the system being evaluated (in this case SieveNet) and uses an AI object recognition system to capture important features and suss out similarities. SieveNet isn’t ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/amp/",
-      "publishedDateTime": "2020-01-22T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/8d194448-ea6c-4e6a-8ef4-2e26bf92cd0a-e1579709264687.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Adobe’s AI lets you preview any item of clothing on a virtual body model",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-agency-from-william-gibson-splits-the-seams-between-ai-and-humans.md",
-      "title": "Agency from William Gibson splits the seams between AI and humans",
-      "excerpt": "It involves Bay Area tech startups and AR headsets, spinning a vibe that doesn't feel far off from the life I actually live right now covering emergent tech. There's a mysterious AI program: an assistant, a person, named Eunice. Someone. I don't want to give much more away. I'd prefer you let the book take you on this journey. Eunice meets and ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/",
-      "publishedDateTime": "2020-01-22T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/6eQsnz77aQNhAqQrV6v1SBzBXdc=/756x567/2020/01/21/aaa44387-8e97-463e-bef4-c4adcb32b2e8/william-gibson.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Agency from William Gibson splits the seams between AI and humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-ai-in-the-court-are-robot-judges-next.md",
-      "title": "AI in the court: Are robot judges next?",
-      "excerpt": "Los Angeles is now working on a Jury Chat Bot project that will leverage true AI, Snorri Ogata, CIO of the LA Superior Court, told ZDNet. It's being built on top of the Microsoft Cognitive Services platform, leveraging features like natural language understanding, QnA maker (to build \"FAQ on steroids,\" as Ogata put it) and translation services.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-in-the-court-are-robot-judges-next/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/",
-      "publishedDateTime": "2020-01-22T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/20/4ae4c042-fca1-4511-9ed4-a9ca543376fd/thumbnail/1200x675/75aab1fe59aac1c4c387f2acdc3a60c4/20200120-steph-karen-judges.png",
-          "width": 1200,
-          "height": 675,
-          "title": "AI in the court: Are robot judges next?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Robotics"
       ]
     }
   ],

@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/02/08/scapebook/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/08/scapebook/amp/"
 type: article
 quality: 83
-heat: 153
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,36 +30,21 @@ images:
     title: "Facebook has acquired Scape Technologies, the London-based computer vision startup"
 
 related:
-  - title: "Scape Technologies, the London-based computer vision startup, has been acquired by Facebook"
-    excerpt: "Scape Technologies, the London-based computer vision startup working on location accuracy beyond the capabilities of GPS, has been acquired by Facebook, according to a regulatory filing. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc. now has majority control of the company (more than 75%)."
-    publishedDateTime: 2020-02-08T10:36:00Z
-    webUrl: "https://techcrunch.com/2020/02/08/scapebook/"
-    ampWebUrl: "https://techcrunch.com/2020/02/08/scapebook/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/08/scapebook/amp/"
+  - title: "Facebook quietly acquired another UK AI startup and almost no one noticed"
+    excerpt: "Over the last few years, Facebook has been busy building out AI capabilities in areas like computer vision, natural language processing (NLP) and ‘deep learning,’ in part by acquiring promising startups in the space. Understandably, this has seen the U.S. social networking giant look to the U.K. for AI talent, including an acqui-hire of NLP ..."
+    publishedDateTime: 2020-02-10T19:10:00Z
+    webUrl: "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/"
+    ampWebUrl: "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 79
+    quality: 86
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/localization.png?w=1024"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/halftone-maze.png?w=1024"
         width: 1024
-        height: 767
-  - title: "Facebook buys start-up that uses AI vision to find location"
-    excerpt: "Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). “However by looking at ..."
-    publishedDateTime: 2020-02-09T16:45:00Z
-    webUrl: "https://www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2020/02/QT-facebook.jpg"
-        width: 1200
-        height: 800
+        height: 544
   - title: "Facebook Acquires Computer Vision Startup Scape Technologies"
     excerpt: "According to regulatory filings uncovered by Tech Crunch, Facebook has acquired Scape Technologies, a London-based computer vision startup. Facebook has yet to publicly acknowledge the acquisition. A company spokesperson told Tech Crunch that it “acquire[s] smaller tech companies from time to time. We don’t always discuss our plans.”"
     publishedDateTime: 2020-02-10T14:19:00Z
@@ -75,51 +60,22 @@ related:
       - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/02/scape-technologies.jpg"
         width: 1920
         height: 1080
-  - title: "Facebook Looks Beyond GPS, Ties With Startup That Uses AI Vision For Location"
-    excerpt: "Facebook co-founder and CEO Mark Zuckerberg (File Photo). San Francisco: Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority ..."
-    publishedDateTime: 2020-02-09T12:49:00Z
-    webUrl: "https://www.india.com/news/india/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/"
-    ampWebUrl: "https://www.india.com/news/india/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
+  - title: "Facebook & Twitter sent cease and desist letters to creepy AI startup"
+    excerpt: "This AI has been fed over 3 billion publically available images and can now identify almost anyone at the drop of a hat. Clearview, the company behind the AI, has been pushing into government and law enforcement as they believe what they have created can assist in investigations. According to a Facebook spokesperson who spoke to Buzzfeed News ..."
+    publishedDateTime: 2020-02-07T07:48:00Z
+    webUrl: "https://www.tweaktown.com/news/70457/facebook-twitter-sent-cease-and-desist-letters-to-creepy-ai-startup/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/70457/facebook-twitter-sent-cease-and-desist-letters-to-creepy-ai-startup/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70457/facebook-twitter-sent-cease-and-desist-letters-to-creepy-ai-startup/amp.html"
     type: article
     provider:
-      name: India.com
-      domain: india.com
-    quality: 56
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 57
     images:
-      - url: "https://s3.india.com/wp-content/uploads/2019/11/Mark-Zuckerberg-F8.jpg"
-        width: 805
-        height: 503
-  - title: "Facebook buys Scape Technologies, start-up that uses AI vision to find location"
-    excerpt: "Founded in 2017, Scape Technologies was developing a “Visual Positioning Service” based on computer vision which lets developers build apps that require location accuracy far beyond the capabilities of GPS alone."
-    publishedDateTime: 2020-02-09T14:04:00Z
-    webUrl: "https://www.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 35
-  - title: "Facebook acquires computer vision firm Scape - report"
-    excerpt: "Facebook (NASDAQ:FB) has acquired computer vision start-up Scape Technologies, TechCrunch reports. The deal for London-based Scape could be around $40M, according to the report, and it says filings indicate that Facebook has more than 75% of the company. They also indicate that VC representatives on Scape's board have been replaced by two ..."
-    publishedDateTime: 2020-02-08T21:05:00Z
-    webUrl: "https://seekingalpha.com/news/3539871-facebook-acquires-computer-vision-firm-scape-report"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
-  - title: "Facebook takes control of London computer vision start-up Scape Technologies"
-    excerpt: "Facebook has acquired majority control of London-based computer vision start-up company Scape Technologies, TechCrunch reported. A regulatory filing with Companies House shows that Facebook now controls more than 75 percent of the company. Scape Technologies is developing hyper-accurate location recognition technology for augmented reality (AR ..."
-    publishedDateTime: 2020-02-10T12:10:00Z
-    webUrl: "https://www.telecompaper.com/news/facebook-takes-control-of-london-computer-vision-start-up-scape-technologies--1325962"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 16
+      - url: "https://images.tweaktown.com/news/7/0/70457_01_facebook-sends-cease-and-desist-to-facial-recognition-startup-clearvie.png"
+        width: 620
+        height: 343
 
-secured: "xlk7TjC/mmCue5YUiIFwqGvFH8H6Dt7jICfzKjIbP6Hj1vIoqAwmlO7F9WeMB1sVUxT8jqbW+N30Rkqf28twH2Rtstc9AnQT9yRMfZJHQqIfU+ZuTk9d6U40L0OCmA2X45gHJZ9s5e0LFzS/FJOuEIumxK2wAakibk3ile6htU80gE2ZkqNxFHVY0i9a1WTSHRwYb3CwozMZLBolVUKZADXyDgPjjOek523Ye3n1mbDH/bwnnwmkuNanYptwxI+nljbPoL9PpyWmzzYPYGfcUupKyIuXapMf0bTXuLPIlBvT+zhya2/CYNIlwK0Ing3Z;S9KiO/u2dRYZeZx1A+BpoQ=="
+secured: "8FCF5sGoSMUkfhPFxZyzAf/0OAik3lN8xpeolVZHEjrkrk7D0dshyk9eWU0LbeiMvrmEhrtPJcMo8u+/8ksb0L79LAA1SxUW9xkyuk2mO3q4UvHVDrn5dhlE5atlP41VXAR45XoGVuQ+8WGhQ5x5tQ59fx0omVtQrfZ8iBZBxQutYZwH11+HFsVcLF44lzyan9wSG+vn3zYHuqGRhhb81lTtd6+ZwuW3msHHolnGMmqDEklvsx4YpIsiGvz241HOKI3KsonRXTAxBfD023Mlw4zFKdCVCVZgYl8brw3q/JykQmiM630cYFocytiG+CLNRyiGaJZ3jKUOaeCO31vmy8ZLq0AMZ+E9DuPsZn/lYvuG26uryjMGZ7DuoTbnCqSqoaLxeDHJXjMAs+k5p2Ae6n9tEH+1/fOS4ocrrtu8yaupTzIx1kel81hbH92mutgp8bEGZYtnEFIlVKIVZRCXYPmWTwPuzeZIABAYugJPDGg=;Dy69JA38tAaUsL2rzKq4Gg=="
 ---
 

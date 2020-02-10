@@ -8,8 +8,8 @@ ampWebUrl: "https://futurism.com/darpa-gamers-brain-waves-train-robots-swarms/am
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/darpa-gamers-brain-waves-train-robots-swarms/amp"
 type: article
 quality: 74
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Futurism
@@ -26,6 +26,21 @@ images:
     title: "DARPA Is Using Gamers’ Brain Waves to Train Robot Swarms"
 
 related:
+  - title: "US Army to use gamers’ brain waves to train military robot swarms"
+    excerpt: "The U.S. Defense Advanced Research Projects Agency, known as DARPA, awarded a team from the University of Buffalo's Artificial Intelligence Institute a $316,000 grant for the study. Although swarm robotics is inspired by many things, including ant colonies ..."
+    publishedDateTime: 2020-02-10T19:58:00Z
+    webUrl: "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots"
+    ampWebUrl: "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 104
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/creative-commons-robot-swarm.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
   - title: "Good at StarCraft? DARPA wants to train military robots with your brainwaves"
     excerpt: "The idea of using modern machine learning artificial intelligence is that it could give robot swarms the ability to more ... “We are around the halfway mark.” At present, they’ve yet to start the start the data-gathering phase of the project, although Chowdhury has a good idea of the format that it will take. The plan is to carry out ..."
     publishedDateTime: 2020-02-05T12:12:00Z
@@ -36,6 +51,6 @@ related:
       domain: digitaltrends.com
     quality: 61
 
-secured: "hS+4zWZTQXrJUj6TQCqm6mg4jmuX5p/jO37+XZ0AEyBNsAlMXopGJ7vdASBfGyIKdL+IS6Y98SCeSDA7UrRtg3cjZTb/7oH/k8ifj9g8W6erG+qhERJWNJUa24DzCVfwFaLKDRAGWReiOxBcdSSSyFqeq2TcEdynug8ifjPGngej+A3lgBqecDabbBj12O/qVCDiAMJfI3TRK8hsKyP7XSdINNO6kajfAIzK5Elk8AYvOkV5MfmCbDKySHfNHxwYZZpXrJZI5fwibpnIu7W967Aiw6kzTmopOmbDTZXl7JYMSg5O7/ppm9oXg5Ssz3gzhaAMU156XgR5qoDC57aCaTdpvyc0JXhjASgUXqKTz6x9zW3m+AwEUwTaQP+JcTW8egkcFtl4IWIcLMANupi8ic7QNtMKlZrHDDLLU+8sz9bvVxS4TnIZOlxcLsuX7H/OkE4fAHtYOULyTuvXTSG6bdpEcTXim3ZmSAjsIL4U+D4=;fFxY/xiQ/nO3i9FXhHe5gg=="
+secured: "fqv9UV4gZFs3Oqc2CDamHAZgnxfikF99n+aWCOkZZXAq832E4jid92UFUL8hFRfjateQo+zh47K4Xhjgg53Y2t5thXadtWc8Ez5QV7KJqIuOKrFN/VmY6MmdBjCtcfAOhqP39hMe63Zl+HZpiy6CeZAP/Vy7cntsv6opxmFQ7Fsf0i1hHsQVI7FN/13QQZZoRK7Rn1X1vUU4ibwTfSjxm4lI/SCRP+rjXWnbWYLHkbOvW0yWn4xQ99LE/L1syHVgNy0WSb/7oGgekijcm5shW8GCUxtBeNeaMJPpKBGWIFpRaWX8HE8YoUvS0c4ovIvl5LYid7GcFh/2/HCCdtZoF4aSrRQ9aMzbov8u6POaLT9RL4HnmUa8ysqOVK+mxKwy4E3Pp1XMYl6IkpX4fEri99cXjd4NuVqtBf/8GGTayu+Ao0TB25xHvT8pUkosvgmE7ABcQuqN/W3OA+YWGOwQpXuF1JtLQFObRqMyU54h/zI=;yFKmC3oJHLaABfXEM5bvww=="
 ---
 

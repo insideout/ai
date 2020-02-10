@@ -63,22 +63,7 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
         width: 1024
         height: 512
-  - title: "Uber self-driving cars, with humans in control, to cruise Friday"
-    excerpt: "Uber will put self-driving vehicles on Washington, DC roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self-driving in Dallas, San Francisco and Toronto with human ..."
-    publishedDateTime: 2020-01-27T01:46:00Z
-    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/270120/uber-self-driving-cars-with-humans-in-control-to-cruise-friday.html"
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 44
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20181017073142.Medi.jpeg"
-        width: 800
-        height: 448
 
-secured: "d6zCnoOY2q8iDUzzommN8HLOpKmbkZ2Bsh/Ka6n3WHGN8Obt0yNjLsRpcNH+xzegzIYTN87r+J5ZZushCP3FSxfyKKI7XOq1JcQWbMnx+3wIhepyQO67nzoC1nBxBcPwiW9FRMova8U9Ya50s1HP2GF2IZYfrUukh7Jq/FDNT7AixcdxKIK3HVwohE1/5TRWWJUMRO6/wQngac+n6jFEfawzUY+JBWvBrWACQhxGzCIhCMpxolGTkGYx25Z8zUKHAOJbLOlDww0JVA63M2j+AfNKIpSUcKDnsNud3N2eaKFEr2NSkr4LtVbM2JWN0Jm+;KZp3zLozmm0kFzK7+VzUPA=="
+secured: "usR4Wh0m+MeOdgT85Bv/4mVYPOxHNxagZKZYvkayZpyWAptBVlMi0CydXfYkNowfSRpt9iBdJiREy8S6tgAuA9Y1toGLiIwcfHlZnHwCiaRzovRKitF61ScAXSAhX8Dmj0Eme22SR5WKgdH4A42ZxShWXD023dIh3dTqvhAkk5EVlddOr0L9moeYrDnuJll6NSiUI3Q2w49X4XZEOHRR1fmbXoKoNDzXtxudL6vSWikxVEAcOD7ZkH7YFzwW1sblv0qfT4mDZvdejpHmpf4UY74GhxaBbnYrylYUYTPcpYD0UuheDeq7LiCEUZAp/saW;TM00ekL/SWUVQbChfltkag=="
 ---
 

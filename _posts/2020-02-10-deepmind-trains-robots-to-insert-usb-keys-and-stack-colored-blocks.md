@@ -29,6 +29,6 @@ images:
     height: 600
     title: "DeepMind trains robots to insert USB keys and stack colored blocks"
 
-secured: "XbYN6cui6zCYfkeIiw3k4fYARsZD8HKk2106TdB3st9R2MXoPJsaurq/dGQLOiqTCvLapQHgI9Fss6RjHnETVTVmYP0BKP5j5x5ss8tFPGVVbZ/MpsaC+/42S4lUhP/HNEeh8+DjSUH283cvLTfkI3RsB5559rang8BWYx2wPGaGK+8AF+edmn8P/mn2NvDjF5b8A3jMXpGtLt9/XCjv5aPSyGvFnVO38u7tg6SaAtdBbzbt8fE+Xa8KHQvt/1x9LslnrKbenU2R6ak2FDJ4doyKKk0Do3gVHP1tTwPdZL3GJtHm1eEQHdhhfbKwgx8V;ig6/5o2aP38+GlYkJ8dN9A=="
+secured: "b/xYWuG7K1bTuEYTfR/1AAg13AfMxwQTZNJ962Nnb1kFWsjgLvYTNosy5l5Muoo8Y3YSSJ84RM/lbQ+TxPxdJleU/l2qqDFdQR45fHuHmQ6ZXu5ppqW60sKn9XdJQq6jPqEW0SplJL0+aH0YnQnmXTr1zmDGM2+wjw9fLMt0IDnhl8oGZAaFKyoVaEzfj4tc7bh/KhfxhQPr0iIBPR3fiBV2pEjK1rZeda9BsAHMxXlJi+/R1XTVveZQMSx8CyHkcEANJeQ+w9E6P9stfRvvNVOa8rB0/Ygth5uKF1ABod/GTahlg+GuaSbbmbvU4H5XU4PMjV0wVj9c/f8Vnc0Sj7uDZwuOXocGo0FwIAc0fltZXhG+UiFTdWNexmIrI9Wp0F5NQrh+V+llmXYDriG5OHzP9TGhtzUusADubjTAF1cQLa0ChTz7IgB1GUXPUR8u5u31uRp6SqHWYjNHVXltwZ5LBjEnVs6os0JUeLpOZ+c=;i2zJijGwedAmT1ZQdsoeHQ=="
 ---
 

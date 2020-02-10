@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/02/07/business/clearview-facial-recogni
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/02/07/business/clearview-facial-recognition-child-sexual-abuse.amp.html"
 type: article
 quality: 188
-heat: 518
+heat: 528
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg"
         width: 1200
         height: 628
+  - title: "ACLU rejects Clearview AI's facial recognition accuracy claims"
+    excerpt: "It accuses Clearview of faking endorsements to boost inaccurate tech. Clearview AI's facial recognition isn't just raising privacy issues-- there are also concerns over its accuracy claims. The ACLU has rejected Clearview's assertion that its technology is \"100% accurate\" based on the civil liberty group's methodology for testing Amazon's ..."
+    publishedDateTime: 2020-02-10T18:45:00Z
+    webUrl: "https://www.engadget.com/2020/02/10/aclu-rejects-clearview-ai-facial-recognition-claims/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/10/aclu-rejects-clearview-ai-facial-recognition-claims/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/10/aclu-rejects-clearview-ai-facial-recognition-claims/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4860%252C3240%252C0%252C495%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe54aedf0-4c27-11ea-a9fe-866995234731%26client%3Da1acac3e1b3290917d92%26signature%3Dde699115449a716bcec325db3e7903662dbd4881&client=amp-blogside-v2&signature=3eefa1557daf961b15de1298ae8254f93b9244fb"
+        width: 600
+        height: 350
   - title: "YouTube demands Clearview AI stop scraping its videos for facial recognition database"
     excerpt: "YouTube has sent a cease and desist letter to Clearview AI demanding that the controversial facial recognition startup stop scraping YouTube videos to gather faces for its database and delete any images it’s already collected. The demand, first reported by CBS News, says that YouTube forbids anyone from collecting data from its platform that ..."
     publishedDateTime: 2020-02-05T16:45:00Z

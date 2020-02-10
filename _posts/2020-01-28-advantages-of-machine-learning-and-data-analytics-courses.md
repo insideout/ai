@@ -8,8 +8,8 @@ ampWebUrl: "https://www.newznew.com/advantages-of-machine-learning-and-data-anal
 cdnAmpWebUrl: "https://www-newznew-com.cdn.ampproject.org/c/s/www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: seat
@@ -41,15 +41,6 @@ related:
       - url: "https://images.livemint.com/img/2020/02/01/600x338/084cced672fc4c9298778d2c38c17dbb-084cced672fc4c9298778d2c38c17dbb-1_1575394011772_1580552380015.jpg"
         width: 600
         height: 338
-  - title: "10 Data and Analytics Trends to Watch in 2020"
-    excerpt: "Here are 10 to watch in 2020: Analyst Marcus Borba says Auto machine learning (AutoML), the ability to automate the entire process of developing and managing machine learning models, will also help data scientists focus on what matters versus the mundane."
-    publishedDateTime: 2020-01-22T16:51:00Z
-    webUrl: "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 4
 
 secured: "lxIRBLU7Lqt6h5AIxpCaBewP7j4y5NCCgH3SH8vvps+M4EXgeG/it7Fuz5pfTR6b8X1By+QjZEcpp95elY/iI+g+XgPwTSG56/iHUrggOZ7/uMR3Ku1fx1IEdY66sGfC0i5W2Al77ArAExVAo9RtFbCtKjF+AfTtEjKo6KT67kNG+voBahkm4IBl7WxbGYaFYemOhNOpsepHHfAOwgz00muEE7JKgcJixKVXx7J/PzxuH42DbLDCYgXPbGeQnZreJX9nc6hm7mPu65ja2s4lY1E4hkXLbl8N2MNA8EPZ1X7LjXlwokx1T/qm5o7KsGq0;X1z2p2PmSEfsbSYDLJ05tw=="
 ---

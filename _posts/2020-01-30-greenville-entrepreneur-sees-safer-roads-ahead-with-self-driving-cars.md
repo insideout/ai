@@ -37,19 +37,6 @@ related:
       - url: "https://www.wuft.org/news/files/2020/01/Vehicle--1200x782.jpg"
         width: 1200
         height: 782
-  - title: "Uber Gets on Road to Self-Driving with Data Collection in DC"
-    excerpt: "Now its adding another city to that list 一Washington DC. Starting on January 24, Uber will bring its self-driving cars to District roads for data collection. Importantly, these cars will be in manual driving mode 一 meaning a Mission Specialist (a specially trained vehicle operator) will maintain control of the vehicle at all times."
-    publishedDateTime: 2020-01-26T20:02:00Z
-    webUrl: "https://www.autoconnectedcar.com/2020/01/uber-gets-on-road-to-self-driving-with-data-collection-in-dc/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 24
-    images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/volvo-uber_self-diriving800x534-c.jpg"
-        width: 700
-        height: 467
 
 secured: "OUqJDzaeV/hkCGKxd0w8keaoeFRLDC79+DaJE8/Bx2PSmbSAPiTBosRJvfPrmD+I2OW+ud7CAz3SVLS73P8lr3X9XBCm993cI2iWO2Tiq0YoUi3bTJgUM12NDf6Snsg7Oo3xrLwFmOZrtLjOt9CnA8EnwAceif/Ayj3DksiTZ3kDI02LGr2qE1HLhEcC7d97TS4YuKfNCsznE7QJfwQ7eIlFpnite73iQpPDbxMtZDILSmMJx/e3GSDPbhGxeH5bhZ+ZVV5ah9bcmz8qy3pUx8YIDCsKtJdS06jouBksvktaTZZxELfWg7JZv4qy6IIP;bcNEmCCQoIXro2rvQy5u2Q=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificia
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
 type: article
 quality: 105
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     title: "How Is Artificial Intelligence And Machine Learning Used In Engineering?"
 
 related:
+  - title: "An Engineer’s trek into Machine Learning"
+    excerpt: "My trek mates and I climbing Mayali Pass in Uttarakhand Himalaya, India You are a Software Engineer. You notice Artificial Intelligence, Machine Learning, Deep Learning, Data Science buzzwords all around. You wonder what these phrases mean, whether all this is for real and useful or is yet another hype and passing fad. You want to figure out ..."
+    publishedDateTime: 2020-02-10T18:43:00Z
+    webUrl: "https://medium.com/slanglabs/an-engineers-trek-into-machine-learning-658bcae3e109"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 49
   - title: "Hyland buys blockchain-anchored business Learning Machine"
     excerpt: "Financial terms of the acquisition by Hyland were not disclosed ... More than 900 such institutions already use Hyland's content services platform. Chris Jagers, CEO of Learning Machine, said in a statement that the deal \"creates significant value for Learning Machine customers who will gain the full benefit of Hyland's notable support ..."
     publishedDateTime: 2020-02-05T16:11:00Z

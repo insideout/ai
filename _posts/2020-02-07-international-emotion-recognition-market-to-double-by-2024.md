@@ -24,93 +24,150 @@ images:
     title: "International Emotion Recognition Market to Double by 2024"
 
 related:
-  - title: "Artificial Intelligence In Aviation Market Trend And Top Growing Companies 2026"
-    excerpt: "Global Artificial Intelligence In Aviation Market Insights, Forecast to 2026 The report discusses many vital industry facets that influence \"Global Artificial Intelligence In Aviation Market\" industry acutely which includes extensive study of competitive edge,"
-    publishedDateTime: 2020-02-07T03:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-trend-and-top-growing-companies-2026-2020-02-06"
+  - title: "Deep Learning(Computer Vision): Object Detection & Infection Classification on Malaria Images using Mask-Region Based Convolutional Neural Network"
+    excerpt: "I am going use Keras, with a Tensorflow backend to create models for Object Detection. Deep Learning is a sub-field of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. Deep learning (also known as deep structured learning or differential programming) is part of a ..."
+    publishedDateTime: 2020-02-10T18:43:00Z
+    webUrl: "https://medium.com/analytics-vidhya/deep-learning-computer-vision-object-detection-infection-classification-on-malaria-images-3769b4f51de9"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: Medium
+      domain: medium.com
+    quality: 67
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Solutions Market Value Estimation to Expand From 2020 to 2029"
-    excerpt: "A recent market research analysis titled, Artificial Intelligence Solutions Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence Solutions market covering industry surroundings,"
-    publishedDateTime: 2020-02-09T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-value-estimation-to-expand-from-2020-to-2029-2020-02-09"
+      - url: "https://miro.medium.com/max/811/1*TOubTYal5304uIdNHhNrJg.png"
+        width: 811
+        height: 665
+  - title: "Image Anomaly Detection / Novelty Detection Using Convolutional Auto Encoders In Keras & Tensorflow 2.0"
+    excerpt: "In many computer vision systems the goal is to detect when something out of the ordinary has occurred: the anomaly. Often, we do not know in advance what the anomalous image will look like and it may be impossible to obtain image data that can represent all of the anomalies that we wish to detect. This lack of suitable data rules out ..."
+    publishedDateTime: 2020-02-10T18:43:00Z
+    webUrl: "https://medium.com/@judewells/image-anomaly-detection-novelty-detection-using-convolutional-auto-encoders-in-keras-1c31321c10f2"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: Medium
+      domain: medium.com
+    quality: 53
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://miro.medium.com/max/1200/1*C6Z6i1_2EJn13jVEsAOkRQ.png"
         width: 1200
-        height: 630
-  - title: "Enterprise AI Market Statistics and Growth Prediction 2020 to 2025 | IBM Corporation, Oracle, HP"
-    excerpt: "Artificial Intelligence in recent years has moved on to become a key component for enterprise applications and has posed as an important factor for successful business strategies. With AI, enterprises are now able to achieve far more in quite less time."
-    publishedDateTime: 2020-02-06T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-statistics-and-growth-prediction-2020-to-2025-ibm-corporation-oracle-hp-2020-02-06"
+        height: 683
+  - title: "mCloud Announces Tuck-In Acquisition of AI Visual Inspection Technology from AirFusion"
+    excerpt: "Headquartered in Vancouver, Canada with offices in twelve locations worldwide, the mCloud family includes an ecosystem of operating subsidiaries that deliver high-performance IoT, AI, 3D, and mobile capabilities to customers, all integrated into AssetCare. With over 100 blue-chip customers and more than 35,000 assets connected in thousands of ..."
+    publishedDateTime: 2020-02-10T13:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mcloud-announces-tuck-acquisition-ai-visual-inspection-technology-/2020/02/10/9094767.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Medical Imaging Market Sees Promising Growth during 2019-2025"
-    excerpt: "An extensive elaboration of the Global Artificial Intelligence in Medical Imaging market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
-    publishedDateTime: 2020-02-08T02:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-sees-promising-growth-during-2019-2025-2020-02-07"
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
+  - title: "Efficient Model Selection for Deep Neural Networks on Massively Parallel Processing Databases"
+    excerpt: "In this session we will present an efficient way to train many deep learning model configurations at the same time with Greenplum, a free and open source massively parallel database based on PostgreSQL. The implementation involves distributing data to the workers that have GPUs available and hopping model state between those workers ..."
+    publishedDateTime: 2020-02-04T15:28:00Z
+    webUrl: "https://insidehpc.com/2020/02/efficient-model-selection-for-deep-neural-networks-on-massively-parallel-processing-databases/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 30
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Computer Networks Market Analysis On Size and Industry Demand 2020- Cisco Systems, IBM Corporation, Baidu, Dell"
-    excerpt: "The report titled \"Artificial Intelligence In Computer Networks Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-03T11:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-analysis-on-size-and-industry-demand-2020--cisco-systems-ibm-corporation-baidu-dell-2020-02-03"
+      - url: "https://insidehpc.com/wp-content/uploads/2020/02/frank.jpg"
+        width: 300
+        height: 300
+  - title: "Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures"
+    excerpt: "In this paper, we demonstrate a computationally efficient new approach based on deep learning (DL) techniques for analysis, design and optimization of electromagnetic (EM) nanostructures. We use the strong correlation among features of a generic EM problem to considerably reduce the dimensionality of the problem and thus, the computational ..."
+    publishedDateTime: 2020-02-04T11:36:00Z
+    webUrl: "https://www.nature.com/articles/s41524-020-0276-y"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Nature
+      domain: nature.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Energy Growing Popularity and Emerging Trends in the Market | ABB, Alphabet, GE, IBM,"
-    excerpt: "The latest update of Global Artificial Intelligence in Energy Market study provides comprehensive information on the development activities by industry players, growth opportunities and market sizing for Artificial Intelligence in Energy,"
-    publishedDateTime: 2020-01-31T04:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-growing-popularity-and-emerging-trends-in-the-market-abb-alphabet-ge-ibm-2020-01-31"
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-020-0276-y/MediaObjects/41524_2020_276_Fig1_HTML.png"
+        width: 685
+        height: 536
+  - title: "Veoneer Selected to Supply System Based on Next Generation Vision and Radar System"
+    excerpt: "These are the main build blocks for higher levels of automated driving. Veoneer's camera centric system architecture is based on in-house computer vision algorithms complimented by radar based perception to cover the full spectrum required by Euro NCAP. Hosted in the camera is Zenuity's software, fusing information from the camera and radar ..."
+    publishedDateTime: 2020-02-06T00:59:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/veoneer-selected-to-supply-system-based-on-next-generation-vision/article_eb78d130-f696-5fe9-926c-05eabef501e4.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-  - title: "Global Deep Learning Market 2020-2024 | Growing Application of Deep Learning to Boost Market Growth | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market is expected to grow by USD 7.2 billion during 2020-2024, according to the latest market research report by Technavio. Request a free sample report Deep learning is popularly used in machine learning, which involves the use of artificial neural networks with several degrees of layers. Moreover ..."
-    publishedDateTime: 2020-02-04T10:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200204005427/en/Global-Deep-Learning-Market 2020-2024-Growing-Application-Deep"
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 18
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+  - title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
+    excerpt: "PARIS--(BUSINESS WIRE)--Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels ..."
+    publishedDateTime: 2020-02-06T09:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200206005222/en/Yseop-Launches-Augmented-Analyst-Next-Generation-AI-NLG"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 19
+    quality: 15
     images:
-      - url: "https://mms.businesswire.com/media/20200204005427/en/771085/23/Global_Deep_Learning_Market_2020-2024.jpg"
+      - url: "https://mms.businesswire.com/media/20200206005222/en/771287/23/Manche_H_YSEOP.jpg"
         width: 1200
         height: 627
+  - title: "Forter Introduces its Machine Learning-based Loyalty Program Protection Solution"
+    excerpt: "To share a press release or news update, please email our Features Editor, Ameya at: ameya.dusane@martechadvisor.com Loyalty program fraud rose 89% year on year, predominantly driven by the amount of personally identifiable information (PII) available from increasing numbers of data breaches. With direct and indirect losses from loyalty and ..."
+    publishedDateTime: 2020-02-05T14:35:00Z
+    webUrl: "https://www.martechadvisor.com/news/ecommerce/forter-introduces-its-machine-learning-based-loyalty-program-protection-solution/"
+    type: article
+    provider:
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 14
+  - title: "Teresa Carlson, AWS Worldwide Public Sector VP, Named to 2020 Wash100 for Cloud Innovation, Business Expansion and New Educational Platforms"
+    excerpt: "AWS began work under the extended contract on Dec. 12 ... at the National Institute of Standards and Technology (NIST), will serve as a keynote speaker during Potomac Officers Club’s 2nd Annual Artificial Intelligence Summit 2020 on Thursday, Feb. 13th."
+    publishedDateTime: 2020-02-07T10:21:00Z
+    webUrl: "https://www.govconwire.com/2020/02/teresa-carlson-aws-worldwide-public-sector-vp-named-to-2020-wash100-for-cloud-innovation-business-expansion-and-new-educational-platforms/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 4
+    images:
+      - url: "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf30000138MApEAM"
+        width: 272
+        height: 270
+  - title: "Deltapath's Noise Cancellation Gateway Helps Businesses Improve Communication and Collaboration Over Phone Calls and Fuels Artificial Intelligence"
+    excerpt: "The Noise Cancellation Gateway leverages Dolby's renowned audio expertise and technology. It filters nonhuman voices and focuses on improving two major areas garnering a lot of attention: voice calls and artificial intelligence. Voice calls remain a popular mode of communication, but the new work-from-anywhere trend is increasing the number of ..."
+    publishedDateTime: 2020-02-04T19:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2020/02/04/9092104.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
+  - title: "Smart Learning Market Worth $56.5 Billion by 2024 - Proliferation of Connected Devices in the Education Sector Drives Growth"
+    excerpt: "Dublin, Feb. 05, 2020 (GLOBE NEWSWIRE) -- The \"Smart Learning Market by Component (Hardware, Software (Integrated Solution and Standalone Solution), and Services), Learning Type (Synchronous Learning and Asynchronous Learning),"
+    publishedDateTime: 2020-02-05T15:33:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980388/0/en/Smart-Learning-Market-Worth-56-5-Billion-by-2024-Proliferation-of-Connected-Devices-in-the-Education-Sector-Drives-Growth.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+  - title: "Veoneer Selected to Supply System Based on Next Generation Vision and Radar System"
+    excerpt: "/PRNewswire/ -- Veoneer, Inc. (NYSE: VNE and SSE: VNE SDB), the world's largest pure-play company focused on Advanced Driving Assistance Systems and"
+    publishedDateTime: 2020-02-05T06:57:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system-300999289.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "14a6M0XrCUXSRcQ85J85+Ze3KpLl21/+/Bjq/Pzs7yon5r9DrgGTB2LVPuvYaTAFgsjFrbebomMpzyc39jvbBDbKdOqSHnoRdeuTE812sghmaqTMNp5NwrhISIxE03kPpzqEDGk7TpPTSnvJuth8UwTUranRFWaEYr+0RDdIq3vs4JJ90fPoZKnp4QaqZxLMiXHsP7CM46lpL73bbhCzy+NjJsgcrMCA1OjmOGC1BEuSyeBC9UwnQJiK+xaiDtdhd8XqHsj4nMcGZHVKcXaW+QYiWRA3JDv5T7JvOHSBjXbRqNY/nlC4IeHLf/PDKXirxkKLCL5P53x323+Swx5D8j0qOM1vQz9w7QmSBULzj0hkgI/UDqCswgJ1NlYak5MT+8CbhatI42qlUqPcVRgSfCJKTeZlo2FFkpUIRowkm6NlkOTtc4ZA/dNJ+QGIsNVnSwpObUU3JRG1DclWlRAXdl/ftimUR+63UxxBn0mXkc8=;2lwpYi0p3X0bc0kOPPyaeA=="
 ---
