@@ -77,8 +77,12 @@ related:
     provider:
       name: businesslive.co.za
       domain: businesslive.co.za
-    quality: 39
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+        width: 1000
+        height: 652
 
-secured: "uTUrMaOnNdzVHN4KxXBQV9Et+HqQFIQt+fr92ZKj2cnEJdTEgVLsmYY9jM9HihMAOiZDNfQs/LL9U44nY++Zqf3IUpr1Fyi9L5wjolf9uNKU9ocPL6nLmu0rMbm6HoYPMoiyQgq+mP14IhyWeVGHsDKlJPxSie4LG6WpfftDaYAtRNW0Jab8JNtsaQUl9g8gSOcUj+Z9BOpaX3NzRwAQe91ADW5AZblNi4+fxryxG48heF0FFIIbryVJ/TCGUQMyN0yF1jNrPnLHhWjLscmvAUKTXw0YLsYmZw6zoZ6Zj93MA7VFk8u/20DgWzea7q4J;YfqYd7gKHHG8uo0Vsb2QJg=="
+secured: "hJhrOaPqFYV/vxlAqzpQV35+OP189DhSEBP8+2T37kdrp6p2G3DB14tyHnoZTAfQGy20A0yrCEUOxlQLUI7NhquhAPNO278Ql+7w371YvA4qAA+LukGBDriaQsnS7kQW9zdYgmGwHU2Aj/TIHKi7SPperMFDcSD+bW1JjkHTisLSp534tmQ10lvDu2wTNsN83yY0NHtPZFCBCUk8Cjz1QBO6xyEPXweiN7LtdihJha2AKwJh0vWG28LidzPpSxO3Pqwdd/jsIgdHmjfQJmA05MKEaiBybBaqCgwWwbQVwYHTQs19sOrpsgD94/yt3Vs/;WBYKGHMNhKsZtVMgibUz9A=="
 ---
 

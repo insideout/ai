@@ -41,6 +41,19 @@ related:
       - url: "https://images.theconversation.com/files/313995/original/file-20200206-43084-jm3jye.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
         width: 754
         height: 503
+  - title: "AI Could Constantly Scan The Internet For Data Privacy Violations To Enforce Compliance"
+    excerpt: "My research group at the University of Maryland, Baltimore County, has developed novel technologies for machines to understand data privacy laws and enforce compliance with them using artificial intelligence. These technologies will enable companies to make sure their services comply with privacy laws and also help governments identify in real ..."
+    publishedDateTime: 2020-02-10T02:47:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/02/ai-could-constantly-scan-the-internet-for-data-privacy-violations-to-enforce-compliance/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 31
+    images:
+      - url: "https://edge.alluremedia.com.au/m/g/2020/02/Screen-Shot-2020-02-10-at-10.25.41-am.png"
+        width: 1095
+        height: 629
 
 secured: "TiZ+MSiFZWC61rB2XItrkmqj9SPWungylYjPRSbXhgvK6a63OvkFcIfDoH6jgVSv4UWuZoXONI5zVET2/OcaMObsHOKyBQ3v8zcNmPJuzkDQUB/PbzsbFxxy+qJ5mPwV0v2/4nFzGWMbViJ7odQd662xqY9mjJMbzISJxsEADY0Y52CwwX5R1Kz1Og94FB4nRNOnJHFA2udykjtRUsJJWL1EsBwf57tcVkb2B0VEVpqx9PfCHNshTZUGG9krnXDRZyIiSTgz6O5MyLhESksAdPlYNi1dHXXAtm6fFGkjdlGTU2Om2NzmyaQ/KLLWEuhKdCrV/JaBeMW25ZCtt/9yJPynHCdc8XVAggyyJ9Ff1T+EqaiRHJmd1Cxmnoq3NlEAYOADb+v1kNy8xV4PziEl1NkiwQ4QQyZ/SaWNRA/QMRyq+K3AdUoQ2jtt38fWn2PS0lWixj42NFmWBMRZp9ij+AR+x4f3p3Xm1RMVeFOog8E=;T1+8ExoXq5IphypGLHWugg=="
 ---

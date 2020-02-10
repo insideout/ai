@@ -3,9 +3,9 @@ category: news
 title: "Rules eased for self-driving vehicle"
 excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
 publishedDateTime: 2020-02-07T06:44:00Z
-webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/"
+webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?latest"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 399
+    title: "Rules eased for self-driving vehicle"
 
 related:
   - title: "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car"
@@ -128,6 +134,6 @@ related:
         width: 4000
         height: 2666
 
-secured: "IpGjTmMMninS/FJu1PhaOGP3bVL/7SFu+y4kt2OhEO1IvM7mELSEG9DeXmEjirQRAHvUb5KsZPh9AniR63d6oaYizt2Sv+0ViNgJPgAZyXNqlaI9ipc07LPYNJdwBQyAi8zDSykPk1dVU2Q1w3WiY20s72UEiAuYqjuVFXikxAhnY0BKRp6WpKuyAw5fF3QaSd1LEwM8sSIJ1vITqjmVDz2cUa/ifLNpWjlEQ2xsQMOdULCQO7PW77cIkpz0Jpsqb4HRL7vYQG0b2efHxcsOYbgcsayo6gGdw0+/CrqONE6UBE/PDC4ILAwcAe0XX6KbKBvGxcGb5D3ZgDypeJLsboKtHWrcKROiQU2k0Zp/eSt6EAWWkS1zGJMBqA6/ZkpxvPwmQKwu54IsS6ofqP7oTcdzkXS1PzYRMQcYFd/Up148ZgtvQf0uTdDFE3Ib4VvObSUIuPUhA7DHt5Q8yR01L0mCsYZTHXDzOqdDOQVGM9o=;x9xGeOXWVTHTfTouZfDBYg=="
+secured: "EEAlkHruVy5NFUgGTGKBx8vU8gQYO11o+RsX4hOV7bwG8YGP+KZtbiiod9+9PK3xOPKScYLaRBkTCJpGoWTyUhPrasWe2ecShRYIYbKbPMhxRRE+hCwxvUTh6OATxN7bwVGSqeCoR3yLL+GMnCiF3Ka+DX59FzUggbSbJ9A74CpvuSKlHjooeQjPj5fEuwCp/gLo+VLFLbTdPgxRkL+QRTqoyw4GZbQUZzdS2Q19vfeNSjIDz6lhWkj/qvSIn5UWsotzuG0YGZtDY8lR1OgWm2pV/NZzIhCn9aeMeYRQSapuKkKVZe6tXPh5vQeM1I5q;w2dzcHRZWDJNPvKbOEbrMw=="
 ---
 

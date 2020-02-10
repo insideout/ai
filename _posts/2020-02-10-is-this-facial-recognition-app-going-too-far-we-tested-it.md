@@ -1,33 +1,23 @@
 ---
 category: news
-title: "Frustration grows in China as face masks compromise facial recognition"
-excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
-publishedDateTime: 2020-02-05T18:51:00Z
-webUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/"
-ampWebUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
-cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
+title: "Is this facial recognition app going too far? We tested it"
+excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
+publishedDateTime: 2020-02-10T01:12:00Z
+webUrl: "https://www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.html"
+ampWebUrl: "https://www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.amp.html"
 type: article
-quality: 89
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Quartz
-  domain: qz.com
-  images:
-    - url: "/assets/images/organizations/qz.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://cms.qz.com/wp-content/uploads/2020/02/AP_20033108187249-e1580856451154.jpg?quality=75&strip=all&w=1400"
-    width: 1400
-    height: 789
-    title: "Frustration grows in China as face masks compromise facial recognition"
 
 related:
   - title: "Clearview’s Facial Recognition App Is Identifying Child Victims of Abuse"
@@ -75,6 +65,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/hzn0DYF6-yhz7E7TYeTKLCBBFIs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66255869/acastro_180806_1777_youtube_cancel_0001.0.jpg"
         width: 1400
         height: 933
+  - title: "Frustration grows in China as face masks compromise facial recognition"
+    excerpt: "As millions don masks across the country, the Chinese are discovering an unexpected consequence to covering their faces. It turns out that face masks trip up facial recognition-based functions, a technology necessary for many routine transactions in China. Suddenly, certain mobile phones, condominium doors, and bank accounts won’t unlock with ..."
+    publishedDateTime: 2020-02-05T18:51:00Z
+    webUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/"
+    ampWebUrl: "https://qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1796833/coronavirus-face-masks-foil-facial-recognition-cameras/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 89
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/02/AP_20033108187249-e1580856451154.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 789
   - title: "Paper Masks Are Fooling Facial Recognition Software"
     excerpt: "Facial recognition is being widely embraced as a security tool — law enforcement and corporations alike are rolling it out to keep tabs on who's accessing airports, stores, and smartphones. As it turns out, the technology is fallible. Researchers with the artificial-intelligence firm Kneron announced that they were able to fool some facial ..."
     publishedDateTime: 2020-02-07T16:44:00Z
@@ -360,17 +365,6 @@ related:
       - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/hi/facebook_6c84268a82f274cd1c00_hillspixzwickertestimony.jpg"
         width: 480
         height: 401
-  - title: "Is this facial recognition app going too far? We tested it"
-    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
-    publishedDateTime: 2020-02-10T01:12:00Z
-    webUrl: "https://www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.html"
-    ampWebUrl: "https://www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 39
   - title: "ACLU criticizes facial recognition company using photos without permission"
     excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
     publishedDateTime: 2020-02-06T05:25:00Z
@@ -448,6 +442,6 @@ related:
         width: 500
         height: 300
 
-secured: "ftwmj9M+jzlFid3vY2ZgLKx30mGjbuQS7ON+Mef0tBz43wJgm6rrVuUhYAZrjTJtfGTle+AVjAd9zmJCJpG8OlfTXZ1TvKQOYMAKymWwN+/uloLW3dzLiHDfkigi8zAHlwRiPwAcTkIFI5qAbM82c+FjM+6jTJihwDQqzqQ2fEC96vBP/8jz6FCp0gcSpZRCjCs4A2l6Aa77Uyf6nMyq6+YpKqB2ubxImrwQBFE7cDR7gCyL9GhDkqLGzd43mrGR+N/o84mUy9RC/C4nPrFk+7/f9KROIgpKDsyu7D1sAIlprQFCJGHbLLdJkFhxUQIF83EPHzkwRoV9KjzPqbQHqFFHk52ZPProy/2L79drOctSGsLCkn2XwM+CfyhM8GB5c3omJWXg3jIb2P4mEw8z/otFPw/lfdHKS1E+4ujsF3xd6gJdkQhKXPmoufCBRWP+f8k/Lk+Ht4mCQzgeGiIDZ7NUCMQ+mSqn0bqgy9KHgsE=;wVca4OlG2s1phEEfvxD3Tg=="
+secured: "y3jSysyjBCZawUTGuM9rUDu6EUWcMzTtGm6NagF6t/xL2xfvJVjyH3s7CFojVAXHY4zpwIygIwgtwWx2ClyoSiNvqmW0qdXA4sFgi5Xhuu5gW0it4CFpZMcNnnkGJDMyyOcpoKaN0Rl1TXEadIMV1R2nujJhnFjkSvTjo1IlX7dSwyJ4tr8JALEkWdHJIByLM8PL8x+ByNX29e8DTWqR4dGMn7+h1pLhObHzBdz/IuKlfVcAvlJdKTFenyIO+ULL+mQHOcZzAm4aKX9gK6nahzfAeueZMw00Ry9d0OnJYnOcYAh6ncgNWFSuhN3JmJdzOuFql3WuoqvJddKbfbWjSD+x25NwGyS+Rb72oqIn69Ib/YzMo9bggcDhsWzDS5Ki0wnEIkrZLpzB62Y/+48Rap/g2sO5AxUrqswE6TxF1zlYLcfMOcHcTlYfBZZERyu5z3Fs8bG1efF7b/l7rZpk/YjTNVJcToHFn/obZAiOIQk=;e1IgdrDC5QD/kNaxatfJ7Q=="
 ---
 

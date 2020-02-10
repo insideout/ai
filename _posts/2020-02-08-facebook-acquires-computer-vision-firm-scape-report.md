@@ -63,6 +63,19 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2019/11/Mark-Zuckerberg-F8.jpg"
         width: 805
         height: 503
+  - title: "Facebook acquires computer vision startup Scape Technologies"
+    excerpt: "Facebook Inc. reportedly has acquired London computer vision startup Scape Technologies Ltd. in an apparent move to build out its augmented reality capabilities. The price of the deal was not disclosed, but TechCrunch reported that it could have been about $40 million. Founded in 2016, Scape has built a localization engine that is designed ..."
+    publishedDateTime: 2020-02-10T02:28:00Z
+    webUrl: "https://siliconangle.com/2020/02/09/facebook-acquires-computer-vision-startup-scape-technologies/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/scape.png"
+        width: 1030
+        height: 773
   - title: "Facebook buys Scape Technologies, start-up that uses AI vision to find location"
     excerpt: "Founded in 2017, Scape Technologies was developing a “Visual Positioning Service” based on computer vision which lets developers build apps that require location accuracy far beyond the capabilities of GPS alone."
     publishedDateTime: 2020-02-09T14:04:00Z

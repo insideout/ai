@@ -369,6 +369,17 @@ related:
       - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/hi/facebook_6c84268a82f274cd1c00_hillspixzwickertestimony.jpg"
         width: 480
         height: 401
+  - title: "Is this facial recognition app going too far? We tested it"
+    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
+    publishedDateTime: 2020-02-10T01:12:00Z
+    webUrl: "https://www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.html"
+    ampWebUrl: "https://www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 39
   - title: "Facebook demands Clearview stop scraping images for facial recognition tech"
     excerpt: "EPA-EFE/FELIPE TRUEBA Facebook has warned US-based tech company Clearview AI to stop using data scraped from its social networks for its facial recognition database. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using information from Facebook or Instagram”, a Facebook ..."
     publishedDateTime: 2020-02-07T12:48:00Z

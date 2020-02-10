@@ -368,6 +368,17 @@ related:
       - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/hi/facebook_6c84268a82f274cd1c00_hillspixzwickertestimony.jpg"
         width: 480
         height: 401
+  - title: "Is this facial recognition app going too far? We tested it"
+    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
+    publishedDateTime: 2020-02-10T01:12:00Z
+    webUrl: "https://www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.html"
+    ampWebUrl: "https://www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/is-this-facial-recognition-app-going-too-far-we-tested/video_3e225dbe-0175-5473-a969-52824d80127c.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 39
   - title: "ACLU criticizes facial recognition company using photos without permission"
     excerpt: "The American Civil Liberties Union is joining a list of organizations criticizing a company that works with police departments to track down suspects through facial recognition. Clearview AI says only law enforcement has access to its database, but the ACLU is worried if it will stop there, or if the company later decides to sell its images to ..."
     publishedDateTime: 2020-02-06T05:25:00Z

@@ -26,6 +26,19 @@ images:
     title: "AI Could Constantly Scan the Internet for Data Privacy Violations, a Quicker, Easier Way to Enforce Compliance"
 
 related:
+  - title: "AI Could Constantly Scan The Internet For Data Privacy Violations To Enforce Compliance"
+    excerpt: "My research group at the University of Maryland, Baltimore County, has developed novel technologies for machines to understand data privacy laws and enforce compliance with them using artificial intelligence. These technologies will enable companies to make sure their services comply with privacy laws and also help governments identify in real ..."
+    publishedDateTime: 2020-02-10T02:47:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/02/ai-could-constantly-scan-the-internet-for-data-privacy-violations-to-enforce-compliance/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 31
+    images:
+      - url: "https://edge.alluremedia.com.au/m/g/2020/02/Screen-Shot-2020-02-10-at-10.25.41-am.png"
+        width: 1095
+        height: 629
   - title: "Artificial intelligence assists in the study of autonomous vehicle performance in winter conditions"
     excerpt: "For University of Waterloo professor Krzysztof Czarnecki, his hope is that the data set will put the wider research community on “equal footing” with companies that testing self-driving cars in winter conditions, including Alphabet’s Waymo, Argo, and Yandex. “We want to engage the research community to generate new ideas and enable ..."
     publishedDateTime: 2020-02-07T23:24:00Z
