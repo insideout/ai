@@ -23,6 +23,6 @@ images:
     height: 649
     title: "Dynatrace Announces Updates To Its Infrastructure Monitoring & Expands Kubernetes Support"
 
-secured: "m3rxgb+Sa0eI2fqroRorwRigT3VBEw+nDjue1SQ3Cf9cB2bpIZxhXg+56shBAJDIInHObBBA3Ij+Cd+ImHcWbkbOp0S7bm8zSU2nMlfOBLzSg9oU+0VVXtgY7UmmqA9xcvKCUYy6qVW8Nd1gABrkvoPqxxDUArZhuQcm2Fabkc9YthbQ2RoicgOSDNXJrov8vYMC6BNoeNC5mqzsxaZDONBSRMQT3kRTKJBjT4GFsMDNWVG7lkkCzbEalF4LlP/PyGNhaffLqLT7yYlhc9PA7cO5Qu7vQAkA1L9V/Ck5pdfMxtG5raCs0AedMQAWv8Pp;KlNdVi56d6/eqoBs1y8Zng=="
+secured: "tIjjHCv1FuBafOxD/48kApmrZNytl6pKsM6JUKa/RvZhbRag2Uh5O4GCyRAgyhj1RSnWznDj+1FfB/CiY5EvcxNh/ebTPHxMzkcBGPR2YUj0mitvIEbPFaICSCE/ajOjThLv9AVOLFGRAHkzTOA/Iuw+6Djs2nJz5w3BXMHdtl7S+jqRpg5+fst/uvMgBMkzQgvbSeCQTmai3Py+BTLUFHe+XMubAiGvhvF5s6oFDMSED+unvLhBzJLO/C3F2tOm6Z8d1RlyFyzgEc1zyV+2MhzeU5F7SGV3Wx8xCJATv6GYkc/bKDZ4nFBiCc9X/pbpsUXympVszea/P+pqWl3cufvTX870Ok8sAo769hc5uqRupJd7FTGxVb4AqjU3E0lfRHS6o5gfKdXpYdE6/Bfs3VLBkM9OOH67hgPzHXifdrQSZyoh5Z4uH+cFw/7ANWb5YYC4Dho10UWx63Lh/PuA6iBYuy29mX0SVPnoYkpBOO0=;VNkcwNtbRuMmO1PwF+FY1g=="
 ---
 

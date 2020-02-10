@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
-excerpt: "Online dating giant Match Group is launching selfie biometrics to help protect people using its apps, partypoker is considering the technology to curtail bots, multi-accounting, and ghosting, local elections in Kompally, India have authenticated voter identity with facial recognition through a smartphone, Alipay technology is being used for car ..."
-publishedDateTime: 2020-02-03T20:25:00Z
-webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-to-verify-dates-gamblers-voters-car-rentals-and-online-exam-takers"
+title: "eConnect Presents on Facial Recognition at the Western Indian Gaming Conference 2020"
+excerpt: "eConnect, Inc., a Las Vegas-based software company which provides hospitality companies with a platform for actionable information, reinforced by video, will be speaking at the Western Indian Gaming Conference and Trade Show."
+publishedDateTime: 2020-02-10T00:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/p15286237/econnect-presents-on-facial-recognition-at-the-western-indian-gaming-conference-2020"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15286237"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15286237"
 type: article
-quality: 25
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-    width: 1600
-    height: 1035
-    title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
 
 related:
   - title: "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns"
@@ -138,17 +134,6 @@ related:
       - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
         width: 1200
         height: 630
-  - title: "eConnect Presents on Facial Recognition at the Western Indian Gaming Conference 2020"
-    excerpt: "eConnect, Inc., a Las Vegas-based software company which provides hospitality companies with a platform for actionable information, reinforced by video, will be speaking at the Western Indian Gaming Conference and Trade Show."
-    publishedDateTime: 2020-02-10T00:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/p15286237/econnect-presents-on-facial-recognition-at-the-western-indian-gaming-conference-2020"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15286237"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15286237"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
   - title: "Telangana municipal elections: Face recognition app yielded 80% accuracy in polls, say officials"
     excerpt: "Otherwise the result would have been above 90 per cent. Even then the result was encouraging, the official said. The Telangana State Election Commission used facial recognition app in a bid to counter impersonation of voters. The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an ..."
     publishedDateTime: 2020-02-04T11:29:00Z
@@ -160,6 +145,19 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 26
+  - title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
+    excerpt: "Online dating giant Match Group is launching selfie biometrics to help protect people using its apps, partypoker is considering the technology to curtail bots, multi-accounting, and ghosting, local elections in Kompally, India have authenticated voter identity with facial recognition through a smartphone, Alipay technology is being used for car ..."
+    publishedDateTime: 2020-02-03T20:25:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-to-verify-dates-gamblers-voters-car-rentals-and-online-exam-takers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 25
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
   - title: "NJ lawmakers debate cops’ use of controversial facial-recognition tech"
     excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
     publishedDateTime: 2020-02-05T18:04:00Z
@@ -218,6 +216,6 @@ related:
       domain: militaryaerospace.com
     quality: 1
 
-secured: "sYjR5QMzOWkQgcZw0LJu5sPWUsz9INcwwJwlz7Mi/YaTf/IrB+7IGL3EGgL7HlTqpUi22F5yO4o8oBImHMDT3iPgsYh5ZuZNFUtTq+RmHpfF1hhLZx8AzP0CQCH0mC8xMKDue3N0KNlok9CM3ej6ki30DG/uyx6pHfpU2uPeCCIffSfY8i0/qN8CyRcVXqNpckftYn4yB3neCZc9qo7m2afQC1Um4VMBhvW0X25MFqPEJAQyuQ555mUWQVBvlip0rlElB1MRHvmVSuSmRkE3kZDJD2unt5Cz/nEVRundCHyjkgbPIT1PMW1xocONAU4m;qLhxnbA0O9mZv2oWzZ1n5Q=="
+secured: "/prRVjKp511n41Cy8u3qbsiWDhsl3nktdgeAlUCgWtnAcqhvqko6JjrtK0iH6C4SnNNh6lG7sclZcCBcKrqUQiA/yGF7m8FIUjG8TCRc2cfLcrJLv7VDTuALLFzvvJqfUcxBsN/jJC+ckGMiYhX1S2MvwW4B6folHHSch58I8Bn0O5hobsD1gXSghdirs9pLoVRCcuHUnPcy9wLiCH5QEpv6mIpScen/0iC8uHJL4L+kqaNqksfW/VJp8psnaCS+yzCH1I3mzhcOwjh1I9KfQuMkJO5vrlUC3oM0cZGHpQ6/uc4R2c7sDCwBfd9wiGjd;4Hh70XVSTZQOwv1Q3qb7Mw=="
 ---
 

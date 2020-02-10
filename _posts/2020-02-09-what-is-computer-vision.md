@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/what-is-computer-vision?amp=true"
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/what-is-computer-vision?amp=true"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:
@@ -57,6 +57,6 @@ related:
         width: 620
         height: 355
 
-secured: "rw9au6rI5dqf1senk755BFru3jt+WABhZ0sndXxtO+tsXym3Tnkq79kpBWFHlEcOu+7yze7uEADcRnTCeMQDPqUg/xczKHvp0HCa4RuSTPCoH38hT8kFPiDunR58h/aqxxeIW+e3rHlCDgZkbhjaDz4KIiI/SBu3eWQVE/7+DphUQlPr5+iu/nJh4UBmmSdpoAC5tkdGTFrFLLtqp/cWrM2RL/WNu4ljUIKF9Uhyx0sJ4rxBPqS0jJGrngWvx0QCENUsMY4hVedE7NmtoNQlbB+lx5XyKPnXZti3qVLH6s5c+uPNjQG2dvLE/K8fxyFUeQ1FmsI5DEAARBp20V9hCf8e4+3zl1hzz7sOS/O78ZWpQ4jvIH4zOu/++u/bB42vhT6lt3mSPeajwP6x6JqZhUvIrfdH/Fhio/b4NPkoYnDvjbSsCFvx7giX3GnDDIOdfrsTmTKXMT/VtKS7SxCGMQKzKWj6JT1BXkn4oF/8W/Y=;Vcih7puI+LJlNwZMczSr4A=="
+secured: "zrDWGVMd+jYjSeLKNlwIqnP5+8zOOZLa7U3dFeW+LUm+I5+iMbNUla++0nzB8BNyjBzy1x5XEZuJht5ty0zgtqu03je4hNJiRU3FE6fjYz6Np0TlVIubH8JuT9T+peBJ6+zRCj7RgHpc7e3oypkT1klDV2AprtfUWW+WWQh1C0uSu4ezcEyHWOtQmxKcKc5IIDdJHUEAM32Tuhuo+5QzgeCIrACMHdvMTfNv8QAK71e17Tgx8ZorwWbY1Ek5WEP0N0xjMHZZmFZuOnQlums6jYz2tNap2dntHh48nwnYhiSlKCbxto3iuFdozkN/B+CJj7lfArgzY4hbPvve51uYx1gKbBUdFFz3+vHX66tIIp77Y83s5WTd27nI7yYEIZ2YvUh4c/wUfPBNutbK44yntoVFGKaU/VLBDV9oiDCHHukX2n3np6ajz4KQfNzCUODVKWsxfMxymOjRkFwVG4DfhlZVV76OUJoGFf/Zvw78i2M=;ZMHMSuLDa/8FCEgok0Jczg=="
 ---
 

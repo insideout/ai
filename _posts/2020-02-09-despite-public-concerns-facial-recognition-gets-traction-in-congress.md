@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
-excerpt: "Online dating giant Match Group is launching selfie biometrics to help protect people using its apps, partypoker is considering the technology to curtail bots, multi-accounting, and ghosting, local elections in Kompally, India have authenticated voter identity with facial recognition through a smartphone, Alipay technology is being used for car ..."
-publishedDateTime: 2020-02-03T20:25:00Z
-webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-to-verify-dates-gamblers-voters-car-rentals-and-online-exam-takers"
+title: "Despite public concerns, facial recognition gets traction in Congress"
+excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs ..."
+publishedDateTime: 2020-02-09T00:00:00Z
+webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx"
 type: article
-quality: 25
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Federal Computer Week
+  domain: fcw.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-    width: 1600
-    height: 1035
-    title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
+  - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
+    width: 760
+    height: 368
+    title: "Despite public concerns, facial recognition gets traction in Congress"
 
 related:
   - title: "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns"
@@ -97,19 +97,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/thenewsenterprise.com/content/tncms/assets/v3/editorial/3/1a/31a4f67f-c4b3-5f0e-9d69-8a954c0d14b6/5e3ba2ce8fd0d.image.jpg?resize=945%2C630"
         width: 945
         height: 630
-  - title: "Despite public concerns, facial recognition gets traction in Congress"
-    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs ..."
-    publishedDateTime: 2020-02-09T00:00:00Z
-    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
-    images:
-      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
-        width: 760
-        height: 368
   - title: "N.J. lawmakers look at limiting cops’ use of controversial facial-recognition technology"
     excerpt: "New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill (A1210) in front of the the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
     publishedDateTime: 2020-02-04T00:13:00Z
@@ -160,6 +147,19 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 26
+  - title: "Biometric facial recognition to verify dates, gamblers, voters, car rentals and online exam takers"
+    excerpt: "Online dating giant Match Group is launching selfie biometrics to help protect people using its apps, partypoker is considering the technology to curtail bots, multi-accounting, and ghosting, local elections in Kompally, India have authenticated voter identity with facial recognition through a smartphone, Alipay technology is being used for car ..."
+    publishedDateTime: 2020-02-03T20:25:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometric-facial-recognition-to-verify-dates-gamblers-voters-car-rentals-and-online-exam-takers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 25
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
   - title: "NJ lawmakers debate cops’ use of controversial facial-recognition tech"
     excerpt: "TRENTON, N.J. — New Jersey lawmakers debated cops’ use of facial-recognition technology Monday, after the state attorney general ordered police to stop using one controversial company. The bill in front of the state Assembly’s Science, Innovation and Technology Committee would require towns to hold public hearings before officers use any ..."
     publishedDateTime: 2020-02-05T18:04:00Z
@@ -218,6 +218,6 @@ related:
       domain: militaryaerospace.com
     quality: 1
 
-secured: "sYjR5QMzOWkQgcZw0LJu5sPWUsz9INcwwJwlz7Mi/YaTf/IrB+7IGL3EGgL7HlTqpUi22F5yO4o8oBImHMDT3iPgsYh5ZuZNFUtTq+RmHpfF1hhLZx8AzP0CQCH0mC8xMKDue3N0KNlok9CM3ej6ki30DG/uyx6pHfpU2uPeCCIffSfY8i0/qN8CyRcVXqNpckftYn4yB3neCZc9qo7m2afQC1Um4VMBhvW0X25MFqPEJAQyuQ555mUWQVBvlip0rlElB1MRHvmVSuSmRkE3kZDJD2unt5Cz/nEVRundCHyjkgbPIT1PMW1xocONAU4m;qLhxnbA0O9mZv2oWzZ1n5Q=="
+secured: "UOJELacQD9U/zHnnDUabx6B1WDVnqSbw7hH2PD/ij0gAwRsjzp+EAB0RqIsifKdno7VhseOm3wPCszRkQk39eBuVVeuN9pl8yN44gJmOG2EUb8UqM5WQBMlSHFwl2vlKga3K6JKbGmXD9R0PKxxc3Dy0taNTiDgfpd7YCMK2hOthsTU9Y6lNn1mLpBeRnAGDyls2H0MTcYd3cDPUUQrP/0JXX5FksAHSgL/2iio87ZLDQCKk1vk3eLaUZvDZ5TQ0DKZfbbdv4CwUBJKiwsORLVLtbi6Id83KyE+nfzcV7pVS4DMxl3D+mx8yWcPX+Axq;wfe8i8u2RLjgDi01puMpAQ=="
 ---
 

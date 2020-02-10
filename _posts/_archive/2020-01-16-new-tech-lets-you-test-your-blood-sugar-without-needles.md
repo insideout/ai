@@ -25,6 +25,6 @@ images:
     height: 836
     title: "New Tech Lets You Test Your Blood Sugar Without Needles"
 
-secured: "VGvTmsxIx7u4YUl8A6bTTBJ+/EKbrqTLy6bKokoS0HFAUQPGrCb8IK+vl3BTbVSo4fN2tOu5lj5kDpMyJkf6itTsnW8lBaFzKMwDM1o/hf3g4ejFtYBM5WZexnWrT9jgK/udkDEw00s+yOmj5cGhACgRU0IZY9RAcya22wwADyBaFUt7mDKq8lSK4AXCNR664WmafkPfgTGbq1SdjEuLsHDIJEgzHbuBQrbWI9ZR30wpz+BrB/k5A5sBtDzOmeQ6aC+lyhRIqAuhh+wle/QXLdHmBHjVmgHEDSDeLGtlvyK5JBlVvvGL/MzZvnjnS5O0;CaZeIxNibzJ7zM5RJij0Yw=="
+secured: "Y2dfctw/e5FZAjsCUffaJSrBJF1Q16iA50j0zCn8McT2XIQNdCKeMsKqhZBZOR3/E1kAUiX8wogdY0atcTNC/NPG5p/1EwkyjtIlOekjHNjrHehuAf5bSBUlOSJCtw5AthwD2JMpvm4eBBrXR2+TtWeGjBbguGtumyhPxStm9ec96rxqiL9Cciyd1pVKxLbyTZDgZWwUI4N7XVCDizUipw/kC8uxLW6R/h407kY5aMO4w0fo8m96DLEMhbZ/C3AVQWbkgfVTappUSHoOm8K1ahAtbso3g88dqR4A2RxR2J9zrnbg1+GT12aVaeeASnkd;V5mWFrmU45h3ynwivOWLhA=="
 ---
 
