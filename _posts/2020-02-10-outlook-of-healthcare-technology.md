@@ -50,15 +50,6 @@ related:
       - url: "https://media.bizj.us/view/img/11591979/gettyimages-1160047562*1200xx2121-1198-0-98.jpg"
         width: 1200
         height: 677
-  - title: "3 Ways to Enhance Healthcare Interoperability with Health IT"
-    excerpt: "Healthcare needs to lean on other emerging technologies and strategies to boost interoperability. Taking advantage of the surge of artificial intelligence in healthcare, empowering patient engagement with health data, and bolstering health information exchanges, industry leaders can begin to chip away at the healtcare interoperability problem."
-    publishedDateTime: 2020-02-10T14:33:00Z
-    webUrl: "https://ehrintelligence.com/news/3-ways-to-enhance-healthcare-interoperability-with-health-it"
-    type: article
-    provider:
-      name: EHR Intelligence
-      domain: ehrintelligence.com
-    quality: 19
 
 secured: "g4W9/NlfFNO7sPdoqab+Y3k2uK6Z/yPlI9tFdAY/tyEu1a+jK/Rp5OXRK5BJ2yl85eWqHsWbNznduAd4XgIPQG3yN6mQFab4cWTXt7la88HAypW39Gs/7UDhUw/hLX2Rs89RSSAa1OEBmRLd/nwVeNKQ111azXYCRO8r4wJCEs2be02ijYV+hZA8U4zWFKGSdq4xQswisn/ScPXvnrRZ3sKmktOcpHUtqvkZmNU6ZR5O+LZfbFEzUy9FAPsEnycXVGpKJGyJ1NV0Enk2+07XASy+ZWWrgg7I50pLBsCoQivtW8Jm4MMQxr8AOqBqdaqZ;A237Fdx8j6QWCagQjW9uQg=="
 ---

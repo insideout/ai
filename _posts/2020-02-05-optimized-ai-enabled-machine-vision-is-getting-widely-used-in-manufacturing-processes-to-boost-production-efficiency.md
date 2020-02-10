@@ -54,6 +54,21 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F01%252F31%252F78%252F2cf65c6ab12943cb81d1691f4bb64888.ea787.png%252F1200x630.png?signature=y2owegQIwA9L6yfJDveE8u36QJI="
         width: 1200
         height: 630
+  - title: "Talking to Robots With David Ewing Duncan"
+    excerpt: "I love learning about anything new in the world of emerging technology, AI (artificial intelligence), ML (machine learning), VR (virtual reality ... He asked them “What kind of robot would you want to meet or be afraid to meet in the future?” The book is structured to give us some possible future scenarios. David’s opinion (and mine ..."
+    publishedDateTime: 2020-02-10T21:22:00Z
+    webUrl: "https://www.entrepreneur.com/article/346085"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/346085"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346085"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 89
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200210211852-MikeDEDcorrectdimensions.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
   - title: "Learning Automated Trading Can Give You a Major Investing Advantage"
     excerpt: "From there, you'll learn how to use machine learning tools like Python to automate your trading to limit your losses and maximize your gains. You'll even get access to an Interactive brokers platform to practice automating your trading and learn momentum trading skills for forex markets. By the end of the training, you'll be fully ready to ..."
     publishedDateTime: 2020-02-02T18:00:00Z
@@ -214,6 +229,19 @@ related:
       - url: "https://mumbrella.com.au/wp-content/uploads/2019/05/iStock-917159056.jpg"
         width: 1254
         height: 836
+  - title: "How Increasing Power and Advanced Cooling Techniques Are Converging for AI, Supercomputing and Cloud Data Centers"
+    excerpt: "This is driving innovation from companies like Cerebras, whose recently announced Wafer Scale Engine (WSE) is widely regarded as the most powerful processor in AI today. Comprised of 84 processing cells that span an entire wafer and yet function as a single chip, the WSE dramatically reduces the latency associated with a traditional singulated ..."
+    publishedDateTime: 2020-02-10T21:44:00Z
+    webUrl: "https://www.embedded-computing.com/guest-blogs/how-increasing-power-and-advanced-cooling-techniques-are-converging-for-ai-supercomputing-and-cloud-datacenters"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 18
+    images:
+      - url: "http://share.opsy.st/5e41cd6c4aabb-cranium-2099120_1280.png"
+        width: 1160
+        height: 1280
 
 secured: "wPD8ob+696YUoVuUxGNNDKwYCS5Z0zjKy/CF1L0QvxbzMwVTVuiXhmtzuARHY7GsXzQRtIY6YnTAoK6jjHC6Uh0ugQaZ63hRLUbLcvYtm7le1bw/wiwPydrym+aMe+7uRR+f/X13uToURHAx0ukwzpQxmwU17Ghp2h6UMk1mC8Cr3MyTcLh9yQqtg3w9FVedToK75/RY5/LEmnL6i8lVQU+EwQO80xGpuW2Wy6WJ19fS6Bbv9EZVV2GjE+6xSGFpuQOSCTR7hcOLU14zh2mOvQ+1Tr5FVADLBX+va/KzW2TnhE8fIvtmn6/YJdW8Ip3cbUs3iEmh1V3p24vFPKE2WjfPl/Kud9vcNkUGJaf6uBzYEph3iU+IYqPmGDH02RGRJmew6wFa1/3YzlEqH7hWbfaaLeb/DDR3sE+2YehvOfNjC6YDufqVmNg6uxIXHVQCMs0Fy+TUR4NM1hYA7Aa0GBm3nAeqkj9LQaGORqH2xsE=;s3WAkO2/bdFYvOZwMHF6SA=="
 ---

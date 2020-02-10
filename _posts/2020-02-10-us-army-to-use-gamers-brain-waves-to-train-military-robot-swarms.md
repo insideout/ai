@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: "https://wp-assets.futurism.com/2020/02/darpa-gamer-brainwaves-train-killer-robots-600x315.jpg"
         width: 600
         height: 315
+  - title: "The Government Wants to Use Your Brainwaves to Train Swarms of Military Robots"
+    excerpt: "DARPA has given a $316,000 federal grant to the University at Buffalo Artificial Intelligence Institute to study gamers' brain waves and eye movements. The aim is to improve organization and strategy among autonomous air and ground robots. Why would the U.S. want to invest in robot swarms? Because bevies of bots are already being pursued ..."
+    publishedDateTime: 2020-02-10T21:27:00Z
+    webUrl: "https://www.popularmechanics.com/technology/robots/a30855506/darpa-swarm-robots-video-game/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/robots/amp30855506/darpa-swarm-robots-video-game/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp30855506/darpa-swarm-robots-video-game/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 70
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gamer-1581356216.jpg?crop=1xw:0.7501831501831502xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
   - title: "Good at StarCraft? DARPA wants to train military robots with your brainwaves"
     excerpt: "The idea of using modern machine learning artificial intelligence is that it could give robot swarms the ability to more ... “We are around the halfway mark.” At present, they’ve yet to start the start the data-gathering phase of the project, although Chowdhury has a good idea of the format that it will take. The plan is to carry out ..."
     publishedDateTime: 2020-02-05T12:12:00Z

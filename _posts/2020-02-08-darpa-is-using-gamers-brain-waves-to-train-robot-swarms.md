@@ -41,6 +41,21 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/creative-commons-robot-swarm.jpg?ve=1&tl=1"
         width: 640
         height: 320
+  - title: "The Government Wants to Use Your Brainwaves to Train Swarms of Military Robots"
+    excerpt: "DARPA has given a $316,000 federal grant to the University at Buffalo Artificial Intelligence Institute to study gamers' brain waves and eye movements. The aim is to improve organization and strategy among autonomous air and ground robots. Why would the U.S. want to invest in robot swarms? Because bevies of bots are already being pursued ..."
+    publishedDateTime: 2020-02-10T21:27:00Z
+    webUrl: "https://www.popularmechanics.com/technology/robots/a30855506/darpa-swarm-robots-video-game/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/robots/amp30855506/darpa-swarm-robots-video-game/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp30855506/darpa-swarm-robots-video-game/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 70
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gamer-1581356216.jpg?crop=1xw:0.7501831501831502xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
   - title: "Good at StarCraft? DARPA wants to train military robots with your brainwaves"
     excerpt: "The idea of using modern machine learning artificial intelligence is that it could give robot swarms the ability to more ... “We are around the halfway mark.” At present, they’ve yet to start the start the data-gathering phase of the project, although Chowdhury has a good idea of the format that it will take. The plan is to carry out ..."
     publishedDateTime: 2020-02-05T12:12:00Z
@@ -51,6 +66,6 @@ related:
       domain: digitaltrends.com
     quality: 61
 
-secured: "RwNSV1Cd5i/qrv8rSTW5aAiSCvyckiN/cL1KqGPVEMsW1kpzE3rgxlk+AH6JuLesLHSaq9U9fE4i6OUhcA/ahY6hYwh+wRhXtgDktHwH22MmxhOikvlnycmVF3z6paLGwh+Zf2QuQCTJ5NXGv3PjNQ58HvoZkFNn0pUKjzuZ/r7azFl9ZGp5XvIoX2Xnq3GX4k9TK+EIb7euADK/NEXDyUxjGzQAY5c2SEJX52nmwKyYZx0p4/VQLB/FRjgCKyyF5niUrMluBlr2XP6fxNP5JtS9jAYUyftEpE+9qIn4eEI2ABqkPc++qyNPgJJZVY7f4A55aqgBuZ9lBJie9kPN/x/0h0NE0am6puRW3/y90DYXCnJyuANUya64QdJfK3OcIWV2GYW3as3kICdwF/IbQE7XrGqwy+sX2rEDZtMOqTfiL9Qrv74Bu6Gg0q4R9EuyjLC5G1Z3cWUB8Qok8dPNjCVVNwQBMXEV0at8RrPBPKM=;FJtoMoBW6Tl7j7XpQTX2UQ=="
+secured: "bJ4bWizMLOacS9vsQIT3xEFqV0Cu3KEpY8K/nNI4r4CL7Rxegr2Yzv4BmX2/nMP6iPhhe7duyoO5ahJ0PkST14L8Q6bFfMy6UPKBRF/elTbjDTHWPd8KlNDc7T6MJIi/Dbo2X/Gt2g6P8EZEONko4Vp475dbPBYTHwuaZkl5F9OFYOm44bBCbIrXUZPbRhK25YNb2S0INH4Yo8xqOPSc1UFCWMu43EE5ANv++mdY8ol8TZUmjpiZlSXfsxBHVWpZxRZXLmJn467PLdmmZAfTh4/Zdb0M6mt2lWQxVPWzk9+5usmJcArJ82VcnzS4v+7ZbHqIzbfyt0V6u44mtP0VPMvO6S4y6RQaWjvbrdOW+k3pewuR4R5fms2fhMJzf5bU7YWgl2LtynNKUJvUcwaju7a0E87Q1Q6tJyRlWbYAyibKWqb7SLKw1EVdmleB/9aGWOEnpWI8Ts94z3t3dGu8nLJgaxHgUqEwIH7HmkjCBt4=;J1Ucp1BDLmxz7ptZkEgcNg=="
 ---
 

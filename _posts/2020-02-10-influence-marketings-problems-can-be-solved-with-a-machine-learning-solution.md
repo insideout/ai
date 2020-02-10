@@ -54,6 +54,21 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F01%252F31%252F78%252F2cf65c6ab12943cb81d1691f4bb64888.ea787.png%252F1200x630.png?signature=y2owegQIwA9L6yfJDveE8u36QJI="
         width: 1200
         height: 630
+  - title: "Talking to Robots With David Ewing Duncan"
+    excerpt: "I love learning about anything new in the world of emerging technology, AI (artificial intelligence), ML (machine learning), VR (virtual reality ... He asked them “What kind of robot would you want to meet or be afraid to meet in the future?” The book is structured to give us some possible future scenarios. David’s opinion (and mine ..."
+    publishedDateTime: 2020-02-10T21:22:00Z
+    webUrl: "https://www.entrepreneur.com/article/346085"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/346085"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346085"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 89
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200210211852-MikeDEDcorrectdimensions.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
   - title: "Learning Automated Trading Can Give You a Major Investing Advantage"
     excerpt: "From there, you'll learn how to use machine learning tools like Python to automate your trading to limit your losses and maximize your gains. You'll even get access to an Interactive brokers platform to practice automating your trading and learn momentum trading skills for forex markets. By the end of the training, you'll be fully ready to ..."
     publishedDateTime: 2020-02-02T18:00:00Z
@@ -201,6 +216,19 @@ related:
       - url: "https://media-cdn.wehco.com/img/photos/2020/02/07/cdoughertycolumn24539147173_t1070_h10763943e31ed1ed1283106f30b9da2ac5376c82.jpg"
         width: 1070
         height: 721
+  - title: "How Increasing Power and Advanced Cooling Techniques Are Converging for AI, Supercomputing and Cloud Data Centers"
+    excerpt: "This is driving innovation from companies like Cerebras, whose recently announced Wafer Scale Engine (WSE) is widely regarded as the most powerful processor in AI today. Comprised of 84 processing cells that span an entire wafer and yet function as a single chip, the WSE dramatically reduces the latency associated with a traditional singulated ..."
+    publishedDateTime: 2020-02-10T21:44:00Z
+    webUrl: "https://www.embedded-computing.com/guest-blogs/how-increasing-power-and-advanced-cooling-techniques-are-converging-for-ai-supercomputing-and-cloud-datacenters"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 18
+    images:
+      - url: "http://share.opsy.st/5e41cd6c4aabb-cranium-2099120_1280.png"
+        width: 1160
+        height: 1280
   - title: "Optimized AI-enabled machine vision is getting widely used in manufacturing processes to boost production efficiency"
     excerpt: "According to Hsu, neural networks carrying out deep learning algorithms are very complex. On top of that, the different AI accelerators designed by leading chip makers, including Google's TPU and NVIDIA's GPU as well as Intel's and AMD's AI processors, may deliver different performances on the same neural network due to their individual ..."
     publishedDateTime: 2020-02-05T02:19:00Z
@@ -215,6 +243,6 @@ related:
         width: 336
         height: 224
 
-secured: "fQ/g+5hRBWQf1KBjXlfPt1zQmpfr9BcyPncq0qVsutnYo4Ypy+nwV9gfHcQphlfJLShpvOLanE/rfNfnjILfMjaLuBeXtkR8C6qU+X/qaLaq1IiIXpydzRCJLjWiD0jufjm9NeN08TQB+4sMlXAe1nyi20YIq2EBBQhf/nsHYksVjM3MnQd+u9KtOTsqo2ay+2aJJQQCBpxgH9YnlcRlUF64NCgssIJOu2JgzQhxMy4AQS6m64TxFjDJ/aVzfxSKbvVi5WqUHJXPVxsxW//B/SAsz07yrCnkGhDd7VTq5TwI+sapCL9C6p1BfAFs8pll;aY15C0eWc8h3qqoPTv32vA=="
+secured: "UU22UiM8Ppyjux43eMgg0o8S9k4h2Z5O8sS54HyrS09DWRZ2zQ+xhbdpbDF7jmNfJd7gc+zCRHfhOrSB3f+OORM+EfiGllz4tU+YTtcmpevU8c24xEx02cUeAc385ERH/w+48vvIHP5DtwPPTaLO9Xi6e9vjx4hY4cr/S2j9bGYA1ncOXpgLng4hW24CLSnoDc1D9hcpcfESE7PsDGoA3TIdLuYdZrKBfO+pz3+nJzoscCGSTRi4TtbHO86mQyG2itX+4QCGfua8tSR+LknOWJRXOzRKNVctEFRA/uzE6etsRsUiByqOF0vyAR0TNKqzTHmAX++hQFymKXnoQJW/fGDEG6KXqjZrFUPUbRNK0BLf32h72LZUXAIXilVCHDnqwQCiT+a5Cn8Ab+Mea8K5N0NG+Ugrw0WkcpIzOy117mTZKUEZXT08+1VD6NKn1jeJT6v3LMWD4VgP+VDY4+PGWzlJP5bxS6t/Jxzg/Hitm7g=;Wk2Zp3+0QC21vgC/BlB0iA=="
 ---
 

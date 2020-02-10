@@ -2,94 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-01-28-meena-is-googles-attempt-at-making-true-conversational-ai.md",
-      "title": "Meena is Google’s attempt at making true conversational AI",
-      "excerpt": "Conversational AI is a catch-all term for natural language models for artificial intelligence that can interpret human words, speak to people, or carry out tasks or computation with natural language. But talk to any of the best-known AI assistants today — Alexa, Siri, Google Assistant — and they’re not exactly conversational. They can ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/amp/",
-      "publishedDateTime": "2020-01-28T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/google.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Meena is Google’s attempt at making true conversational AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-28-microsofts-project-tokyo-helps-visually-impaired-users-see-with-ai-and-ar.md",
-      "title": "Microsoft’s Project Tokyo helps visually impaired users ‘see’ with AI and AR",
-      "excerpt": "Project Tokyo, which is still ongoing, follows on the heels of efforts like Microsoft’s Seeing AI, a mobile app designed to help low- and impaired-vision users navigate the world around them. More recently, the tech giant debuted Soundscape, a navigation app that uses binaural audio to help visually impaired users build mental maps and make ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/28/microsofts-project-tokyo-helps-visually-impaired-users-see-with-ai-and-ar/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/28/microsofts-project-tokyo-helps-visually-impaired-users-see-with-ai-and-ar/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/microsofts-project-tokyo-helps-visually-impaired-users-see-with-ai-and-ar/amp/",
-      "publishedDateTime": "2020-01-28T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Project-Tokyo-07-1920x1280-1.jpg?fit=1920%2C1280&strip=all",
-          "width": 1920,
-          "height": 1280,
-          "title": "Microsoft’s Project Tokyo helps visually impaired users ‘see’ with AI and AR",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-28-miso-robotics-unveils-its-next-gen-robot-kitchen-assistant.md",
       "title": "Miso Robotics unveils its next-gen robot kitchen assistant",
       "excerpt": "This might seem like cause for alarm, but Miso Robotics, a startup developing automation products for fast-food and quick-service ... On the software side, it benefits from improvements to Miso AI (Miso’s eponymous cloud-based platform) that expand the number of cookable food categories to over a dozen, including chicken tenders, chicken ...",
@@ -1592,7 +1504,7 @@
       "path": "_posts/2020-01-29-in-coronavirus-response-ai-is-becoming-a-useful-tool-in-a-global-outbreak-data-experts-say.md",
       "title": "In coronavirus response, AI is becoming a useful tool in a global outbreak, data experts say",
       "excerpt": "A version of this story appeared in STAT ... expert epidemiologists. But for the first time in a global outbreak, it is becoming a useful tool in efforts to monitor and respond to the crisis, according to health data specialists. In prior outbreaks, AI ...",
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.statnews.com/2020/01/29/coronavirus-response-artificial-intelligence-becoming-useful/",
@@ -1926,7 +1838,7 @@
       "heat": 119,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/",
+      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why",
       "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/",
       "publishedDateTime": "2020-01-29T11:35:00-08:00",
@@ -2133,6 +2045,95 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-29-smarter-delivery-hinges-on-smarter-robots.md",
+      "title": "Smarter Delivery Hinges on Smarter Robots",
+      "excerpt": "Companies and researchers are racing to develop artificial-intelligence systems that can enable warehouse robots to handle new and varied objects without the need for extensive additional training or human help.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
+      "publishedDateTime": "2020-01-29T01:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-148470/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Smarter Delivery Hinges on Smarter Robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-29-stanfords-doggo-quadrupedal-robot-and-siblings-pupper-and-woofer-are-coming-to-tc-sessions-roboticsai.md",
+      "title": "Stanford’s Doggo quadrupedal robot and siblings Pupper and Woofer are coming to TC Sessions: Robotics+AI",
+      "excerpt": "Doggo’s creators will bring the diminutive robot, plus its smaller and larger siblings Pupper and Woofer, to TC Sessions: Robotics+AI on March 3. P.S. Early bird ticket sales end this Friday – book your tickets today and save $150. We first heard of Doggo last year when the Stanford Robotics Club showed off the highly capable design ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/29/stanfords-doggo-quadrupedal-robot-and-siblings-pupper-and-woofer-are-coming-to-tc-sessions-roboticsai/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/29/stanfords-doggo-quadrupedal-robot-and-siblings-pupper-and-woofer-are-coming-to-tc-sessions-roboticsai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/stanfords-doggo-quadrupedal-robot-and-siblings-pupper-and-woofer-are-coming-to-tc-sessions-roboticsai/amp/",
+      "publishedDateTime": "2020-01-29T13:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/doggo_pupper.jpg?w=1024",
+          "width": 1024,
+          "height": 484,
+          "title": "Stanford’s Doggo quadrupedal robot and siblings Pupper and Woofer are coming to TC Sessions: Robotics+AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

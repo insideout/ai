@@ -31,6 +31,19 @@ related:
       - url: "https://images.wsj.net/im-152543/social"
         width: 1280
         height: 640
+  - title: "Prudential offers machine learning training for all 1,200 employees"
+    excerpt: "More than 170 staff have signed up for the free course in machine learning since it launched on Feb 1, said Prudential yesterday. Machine learning is a branch of artificial intelligence (AI) that focuses on developing computer programmes that can learn from new data so as to perform tasks without needing explicit instructions from humans."
+    publishedDateTime: 2020-02-10T21:08:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/prudential-offers-machine-learning-training-for-all-1200-employees"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 56
+    images:
+      - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
+        width: 1200
+        height: 799
   - title: "How AI is powering the Future of Work: key considerations for business and tech leaders"
     excerpt: "Business executives are now needed to deeply understand the potential of AI and translate it into a viable roadmap for their business ... Machine Learning (ML), deep learning, Natural Language Processing (NLP), and other AI-related concepts. On a broader scale, we also need universities and colleges to improve the existing knowledge base ..."
     publishedDateTime: 2020-02-10T14:25:00Z

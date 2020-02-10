@@ -39,6 +39,15 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale"
         width: 711
         height: 459
+  - title: "The Man Behind the 1990s' Hottest Supercar Is Coming Out with a Self-Driving Pod"
+    excerpt: "The Motiv is similarly quite small, very lightweight, and runs on electric power. It has an aluminum suspension, ultra-lightweight high-strength extruded aluminum in the chassis, and composite body panels and doors that hold its weight below 992 pounds (sans batteries, at least). Measuring just 100 inches long and 52 inches wide, the compact ..."
+    publishedDateTime: 2020-02-10T21:54:00Z
+    webUrl: "https://www.motortrend.com/news/motiv-mclaren-f1-designer-autonomous-pod/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 0
 
 secured: "SbX2pHL/JMQDBFeFj1cScrqJwjIL0z91A4/XpFM0eiaANQsRNACnVVjOHS+3ilE1aH2qPd/3vknmz0PZOWD2Zz9TnLRG8X23g4Kw2+Ag1tVFUXi8Lw6V4TeNEe05Copklp+A3Pu0p6RvWNiF/iO/YfaN0JCEUJt9f1JEjNIWZ2P/mg8Qdks1g34HwaYqniC3GaA1Oh/OokKc1Kvd6QV0bksyMwb4R/5JfSUI5bOIYZx02zxfeqZ1N/BOrcPn836bo2iBuK29t4fpY0zcml3m9H+/K+bY2cRv+48gh/hH/tB95W3eAGW0ZUfJhVlsikKt;Uuvo1AB6ztHTbUUs3tKOsA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-01T03:19:00Z
 webUrl: "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: "https://assets.vogue.in/photos/5e2ed96a3af48200081e835e/16:9/w_1920,c_limit/f.jpg"
         width: 656
         height: 369
-  - title: "AI will rewrite the future of fund management"
-    excerpt: "At this early stage, AI already delivers investible insights, superior client experience and lower unit cost. Sign up to the weekly FTfm newsletter and receive the best of the FT’s asset management coverage delivered to your inbox every Monday morning. It is set to disrupt fund management and unleash a winner-takes-all dynamic, as seen in ..."
-    publishedDateTime: 2020-01-27T05:00:00Z
-    webUrl: "https://www.ft.com/content/a984124e-b4e5-4436-a206-6621459b57f4"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/assets/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
   - title: "Reckoon's Blockchain & AI Enabled Solution is Shaping the Future of the Retail Industry"
     excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
     publishedDateTime: 2020-02-04T17:39:00Z

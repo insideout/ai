@@ -51,19 +51,6 @@ related:
       - url: "https://assets.vogue.in/photos/5e2ed96a3af48200081e835e/16:9/w_1920,c_limit/f.jpg"
         width: 656
         height: 369
-  - title: "AI will rewrite the future of fund management"
-    excerpt: "At this early stage, AI already delivers investible insights, superior client experience and lower unit cost. Sign up to the weekly FTfm newsletter and receive the best of the FT’s asset management coverage delivered to your inbox every Monday morning. It is set to disrupt fund management and unleash a winner-takes-all dynamic, as seen in ..."
-    publishedDateTime: 2020-01-27T05:00:00Z
-    webUrl: "https://www.ft.com/content/a984124e-b4e5-4436-a206-6621459b57f4"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/assets/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
   - title: "Stock Bots: The Future of Financial Trading?"
     excerpt: "Stock Bots: The Future of Financial Trading? Humans still program the algorithms and design their ... They cannot think or feel, and despite the hype around machine learning, it’s still contentious and complicated to describe them as intelligent. Like human traders, however, they make decisions, observe others making decisions, and adjust ..."
     publishedDateTime: 2020-01-29T15:56:00Z

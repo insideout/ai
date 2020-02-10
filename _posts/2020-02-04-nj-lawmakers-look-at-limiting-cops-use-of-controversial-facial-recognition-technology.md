@@ -112,6 +112,19 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
         width: 760
         height: 368
+  - title: "Despite public concerns, facial recognition gets traction in Congress"
+    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs' scope and application. Some in Congress are calling for a moratorium on the government's use of the technology, but programs used by the Department ..."
+    publishedDateTime: 2020-02-10T01:59:00Z
+    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx?admgarea=TC_Agencies"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
+    images:
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
+        width: 760
+        height: 368
   - title: "House Hearing on Facial Recognition Technology Uses at Homeland Security Dept."
     excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
     publishedDateTime: 2020-02-06T17:06:00Z

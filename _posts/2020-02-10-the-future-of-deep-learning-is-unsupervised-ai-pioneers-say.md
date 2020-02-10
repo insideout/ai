@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T12:16:00Z
 webUrl: "https://www.wsj.com/articles/the-future-of-deep-learning-is-unsupervised-ai-pioneers-say-11581330600"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "The Future of Deep Learning Is Unsupervised, AI Pioneers Say"
 
 related:
+  - title: "Prudential offers machine learning training for all 1,200 employees"
+    excerpt: "More than 170 staff have signed up for the free course in machine learning since it launched on Feb 1, said Prudential yesterday. Machine learning is a branch of artificial intelligence (AI) that focuses on developing computer programmes that can learn from new data so as to perform tasks without needing explicit instructions from humans."
+    publishedDateTime: 2020-02-10T21:08:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/prudential-offers-machine-learning-training-for-all-1200-employees"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 56
+    images:
+      - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
+        width: 1200
+        height: 799
   - title: "How AI is powering the Future of Work: key considerations for business and tech leaders"
     excerpt: "Business executives are now needed to deeply understand the potential of AI and translate it into a viable roadmap for their business ... Machine Learning (ML), deep learning, Natural Language Processing (NLP), and other AI-related concepts. On a broader scale, we also need universities and colleges to improve the existing knowledge base ..."
     publishedDateTime: 2020-02-10T14:25:00Z
@@ -62,6 +75,6 @@ related:
       domain: insidebigdata.com
     quality: 17
 
-secured: "6yFvltFjWbUJ4/wanvFrM5DHo0N/tWAGun16HfyhMmRujHVXM+tzOjdNmnyps6rx1oYz7k/HzMCQra/BE+l77I+o6jQdF1wx0eGLyUQbpnWRJ2bPkUlQPDSwwATsEOPqQZf0qCvseh/DC19PIi1qFa3EpVmgGzTSUwA+tyF8PTtol6cfFz7Yfyte7r6L0veQPH+fGSalUw4Wq1unWBkIl7D6BQOn9DCHvf0mPSlOGoiDwo5ZsbS6tt5y07o90pe4lAdPtJcCYhTztwMJK+Blc1VitGe54bM864v9qf408/shWLyM3Whkd/5bCLzJowpcz4RBpUdoIxgMR0jK6Jrv8lNfMQBeuev+/YVnfVUoKU2t5AnODgnCm5HoB/cy1eqO5DNpEIHPHnRydBehHNgID0KtJBquwNhVVmIacxG5frvuuW11EaU5iofww7K9+3dGJbbc0ffp3sXdCsHRix7q7yeVqu2tA1EfF0/Wt3DmNBM=;c5+WtkT3nllQdXX2hxCY+Q=="
+secured: "68EShpzFhT446JLxQBcra+heAzk+nR45fHeL4KIBS3iBOrFVqIO/xodRsuU6OV3+ghZ2oXEGr526OCBrFw83boaD6YcMlAvjEmFcKhZIXLamdwJx8OupDzDm5caE3GGmiWG9e65in0JRiENVqeIh65cKmObJ5DQCIAiaNuELCOOCz9YlgK0wYXO1gtxx33zG9OndrghFNPFLNB+9AdVMbL8iOVZcCmfz32w7KVfv6f+H1dPS9moJJv7lH+zvlZIR6a5Zl5lmaZcsKnXVrtjN3GFBqdhv2iClZuOX0ykOypAuQb4tDIY57p/+cX45Nah2ssqGArRap9OvOkH6OphHE8HG7uFFSqtaMGUdDN2mVAXEvYbAKu6JmxWhsbUuWFTvafFKvOmlB7qi5UEVqgwz2eHMouIMgMvmPl8PRVISj+N5hfSHYMZTov64RvjCQgCzDdQy7IDepmFtcy84xhHH/KUWG5iZHG5Ifzx9rrHHbUs=;6eOncO08jYKXONwJjUkgyw=="
 ---
 

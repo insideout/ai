@@ -52,6 +52,21 @@ related:
       - url: "https://wp-assets.futurism.com/2020/02/darpa-gamer-brainwaves-train-killer-robots-600x315.jpg"
         width: 600
         height: 315
+  - title: "The Government Wants to Use Your Brainwaves to Train Swarms of Military Robots"
+    excerpt: "DARPA has given a $316,000 federal grant to the University at Buffalo Artificial Intelligence Institute to study gamers' brain waves and eye movements. The aim is to improve organization and strategy among autonomous air and ground robots. Why would the U.S. want to invest in robot swarms? Because bevies of bots are already being pursued ..."
+    publishedDateTime: 2020-02-10T21:27:00Z
+    webUrl: "https://www.popularmechanics.com/technology/robots/a30855506/darpa-swarm-robots-video-game/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/robots/amp30855506/darpa-swarm-robots-video-game/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp30855506/darpa-swarm-robots-video-game/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 70
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gamer-1581356216.jpg?crop=1xw:0.7501831501831502xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
 
 secured: "Wf5JN4vttDvHg0RqF176s7VCKuc3VVr1fKYvN3MXh+zF7sh/JD17H/IU36+yuJG0rkJ3AS/CZ5p8MA3nSFfthCaJRg+W5FNpD65WDPm5vh2GbzSIEUSzcTLYpxiA68IMYT9rHyK3/j3W9Vg3b560WxScMVsGwfGUnZPIlHrOvImkmb0Cn9Tg6HefBRCsdyT6VJLzfATlBtN6pJ2QDRSwPpqV1NiJDaxlgw/JFVrPW7/KiMZcApDE7UJgPPtn5gMjsIDSvGdIfM9nvaTczX+FPzysawd04jkTuwjMLhkyV7f1tFYqn7e/9M6xesXOrtArmrcBLrbrLeIIYT8FtoW39vZi1Owl0CsCVEl57s4W46WUL5ed+N9EJ4TciRXQNCXbgddjXfLb/w3pi7NxTwl2tIciN1uHWhW14UI74kIjedABWv4dPeXD8PWY0w5DXTlEwQrWH4/Ou0BugGzgqv3YoXQLsAhMzVAp0aiiu3ohMVU=;FKeBe6AIduLAQFGMgmxdWQ=="
 ---

@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/"
 ampWebUrl: "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/"
 type: article
-quality: 86
-heat: 116
+quality: 88
+heat: 118
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/02/halftone-maze.png?w=1024"
