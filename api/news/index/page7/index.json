@@ -2,6 +2,301 @@
   "page": 7,
   "value": [
     {
+      "path": "_posts/2020-02-05-an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai.md",
+      "title": "An algorithm that can spot cause and effect could supercharge medical AI",
+      "excerpt": "Several other companies—including Ada and Your.MD—also offer diagnosis-by-chatbot but Babylon Health has singled itself out for criticism in part because of the overblown claims it makes for its AI. For example, in 2018 the company announced that its AI could diagnose medical conditions better than a human doctor. A study in The Lancet a ...",
+      "heat": 156,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/",
+      "ampWebUrl": "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/",
+      "publishedDateTime": "2020-02-05T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/pills_1.jpg?sw=600&cx=1&cy=54&cw=1079&ch=607",
+          "width": 600,
+          "height": 337,
+          "title": "An algorithm that can spot cause and effect could supercharge medical AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-analyst-artificial-intelligence-ai-in-cyber-security-market-companies-have-room-for-growth.md",
+      "title": "Analyst : Artificial Intelligence (AI) in Cyber Security Market Companies Have Room for Growth",
+      "excerpt": "Latest launched research document on Global Artificial Intelligence (AI) in Cyber Security Market study of 95 Pages provides detailed analysis with presentable graphs, charts and tables. The Research Study presents a complete assessment of the Market and highlights future trend,",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/analyst-artificial-intelligence-ai-in-cyber-security-market-companies-have-room-for-growth-2020-02-05",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T22:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Analyst : Artificial Intelligence (AI) in Cyber Security Market Companies Have Room for Growth",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-artificial-intelligence-finds-drug-that-could-fight-wuhan-coronavirus.md",
+      "title": "Artificial intelligence finds drug that could fight Wuhan coronavirus",
+      "excerpt": "Chemistry matters. Join us to get the news you need. Yes! I want to get the latest chemistry news from C&EN in my inbox every week. ACS values your privacy. By submitting your information, you are gaining access to C&EN and subscribing to our weekly newsletter. We use the information you provide to make your reading experience better, and we ...",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cen.acs.org/physical-chemistry/computational-chemistry/Artificial-intelligence-finds-drug-that-could-fight-Wuhan-coronavirus/98/i6",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T16:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C&EN",
+        "domain": "acs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://acs-h.assetsadobe.com/is/image//content/dam/cen/98/6/WEB/09806-scicon1-bar.jpg/?$responsive$&wid=700&qlt=90,0&resMode=sharp2",
+          "width": 700,
+          "height": 456,
+          "title": "Artificial intelligence finds drug that could fight Wuhan coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-artificial-intelligence-software-market-to-witness-huge-growth-by-2025.md",
+      "title": "Artificial Intelligence Software Market to Witness Huge Growth by 2025",
+      "excerpt": "A New Syndicate Global Artificial Intelligence Software Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-to-witness-huge-growth-by-2025-2020-02-05",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Software Market to Witness Huge Growth by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-ceo-of-creepy-face-recognition-firm-clearview-ai-says-he-has-first-amendment-right-to-billions-of-photos.md",
+      "title": "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos",
+      "excerpt": "Clearview AI has licensed its face surveillance systems to over 600 law enforcement agencies ranging from the FBI and the Department of Homeland Security to local police departments. It operates with virtually next to no oversight, claims it’s exempt from biometric data laws, and marketed its tools to law enforcement as a sort of face ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190",
+      "ampWebUrl": "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp",
+      "publishedDateTime": "2020-02-04T20:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--51OlzhBf--/c_scale,f_auto,fl_progressive,q_80,w_800/v7g6u3pj00bddvrigfbb.png",
+          "width": 800,
+          "height": 450,
+          "title": "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-classic-1896-short-film-gets-upscaled-to-4k-using-neural-networks.md",
+      "title": "Classic 1896 short film gets upscaled to 4K using neural networks",
+      "excerpt": "One of the most famous short films in cinema is an 1896 ... 4K, brought its frame rate up to 60fps, and even added sound. The effect is impressive, turning a movie that’s over 120 years old into something that seems like it could have been filmed today (via Digg). Denis Shiryaev, who did the upscaling, said he used several neural networks to ...",
+      "heat": 202,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/tldr/2020/2/5/21124838/classic-1896-short-film-upscaled-4k-neural-networks-arrival-la-ciotat-station",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/tldr/2020/2/5/21124838/classic-1896-short-film-upscaled-4k-neural-networks-arrival-la-ciotat-station",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/tldr/2020/2/5/21124838/classic-1896-short-film-upscaled-4k-neural-networks-arrival-la-ciotat-station",
+      "publishedDateTime": "2020-02-05T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/ahJh6OSLElB9iVplP4gk4iPKyWs=/0x0:480x311/1400x933/filters:focal(202x118:278x194):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66256594/Feb_05_2020_09_01_49.0.gif",
+          "width": 480,
+          "height": 311,
+          "title": "Classic 1896 short film gets upscaled to 4K using neural networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-clearview-ai-wants-to-sell-its-facial-recognition-software-to-authoritarian-regimes-around-the-world.md",
+      "title": "Clearview AI Wants To Sell Its Facial Recognition Software To Authoritarian Regimes Around The World",
+      "excerpt": "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 5, 2020, at 6:09 p.m. ET As legal pressures and US lawmaker scrutiny mounts, Clearview AI, the facial recognition company that claims to have a database of more than 3 billion photos scraped from websites and social media, is looking to grow around the world. A document ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-authoritarian-regimes-22",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-authoritarian-regimes-22",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-authoritarian-regimes-22",
+      "publishedDateTime": "2020-02-05T15:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/17/campaign_images/buzzfeed-prod-web-06/these-senators-want-homeland-security-to-pause-it-2-2613-1552427904-0_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": "Clearview AI Wants To Sell Its Facial Recognition Software To Authoritarian Regimes Around The World",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-05-cor-a-500-startups-ai-management-software-startup-automates-time-tracking-for-firms.md",
       "title": "COR, A 500 Startups AI Management Software Startup, Automates Time Tracking For Firms",
       "excerpt": "The challenge of accurate time tracking creates problems for creative agencies in taking on new projects. Three cofounders from 500 Startups have created software to ensure these firms can increase their profitability as they scale to take on more work.",
@@ -720,6 +1015,35 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system.md",
+      "title": "Veoneer Selected to Supply System Based on Next Generation Vision and Radar System",
+      "excerpt": "These are the main build blocks for higher levels of automated driving. Veoneer's camera centric system architecture is based on in-house computer vision algorithms complimented by radar based perception to cover the full spectrum required by Euro NCAP. Hosted in the camera is Zenuity's software, fusing information from the camera and radar ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autoblog.com/press-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system_22080/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T03:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1749,347 +2073,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-the-evolution-of-computing-for-ai-machine-learning-infographic.md",
-      "title": "The evolution of computing for AI & machine learning - Infographic",
-      "excerpt": "See the divided uses cases for Vector processing vs Scale processing by downloading your free Infographic from our content partners NEC X",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datacenterdynamics.com/en/whitepapers/evolution-computing-ai-machine-learning-infographic/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/NEXC_INFORGRAPHIC.2e16d0ba.fill-1200x630.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The evolution of computing for AI & machine learning - Infographic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-tinder-users-can-now-block-inappropriate-users-thanks-to-artificial-intelligence.md",
-      "title": "Tinder users can now block inappropriate users thanks to artificial intelligence",
-      "excerpt": "Machine learning has made its way to Tinder, with the $1.2 billion dating app now using artificial intelligence (AI) to block people for inappropriate behavior. The at-least-initial anonymity of dating apps demonstrates that trolling behavior isn't reserved for Reddit or other forum-heavy websites. The popular dating app Tinder has made ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/tinder-users-can-now-block-inappropriate-users-thanks-to-artificial-intelligence/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tinder-users-can-now-block-inappropriate-users-thanks-to-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tinder-users-can-now-block-inappropriate-users-thanks-to-artificial-intelligence/",
-      "publishedDateTime": "2020-02-06T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/02/06/f0bddc71-bfa6-4c79-9a42-db243b6fc1ca/resize/1200x/a5dcceb097c9efc8fc93ea0388f42181/tinder-app-gettyimages-1192325872.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Tinder users can now block inappropriate users thanks to artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-uber-gets-green-light-to-test-self-driving-cars-in-california-again.md",
-      "title": "Uber gets green light to test self-driving cars in California again",
-      "excerpt": "Uber's self-driving could be allowed roads again in California. According to report Thursday from Reuters, the ride sharing company received a permit on Wednesday from the California Department of Motor Vehicles to test the autonomous vehicles with a backup driver. Uber did not immediately respond to request for comment, but told Reuters it ...",
-      "heat": 359,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
-      "publishedDateTime": "2020-02-06T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/P1TSwyMIOEev0pcnkl0Asmh3kTs=/756x567/2019/08/21/f4944c4f-9607-41a7-ac58-9daaa50231e8/uber-logo-1.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Uber gets green light to test self-driving cars in California again",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-waymo-content-search-can-find-billions-of-objects-encountered-over-20m-miles-in-seconds.md",
-      "title": "Waymo Content Search can find billions of objects encountered over 20M miles in seconds",
-      "excerpt": "As of early 2020, Waymo self-driving vehicles have driven 20 million miles on public roads. That makes for vast amounts of recorded sensor data to improve the autonomous system. Waymo today detailed its Content Search tool and database with billions of encountered road objects ... road debris can include everything from plastic bags to tire ...",
-      "heat": 154,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://9to5google.com/2020/02/06/waymo-content-search/",
-      "ampWebUrl": "https://9to5google.com/2020/02/06/waymo-content-search/amp/",
-      "cdnAmpWebUrl": "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/02/06/waymo-content-search/amp/",
-      "publishedDateTime": "2020-02-06T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Google",
-        "domain": "9to5google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://9to5google.com/wp-content/uploads/sites/4/2019/03/waymo-expansion-mesa-arizona.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 500,
-          "title": "Waymo Content Search can find billions of objects encountered over 20M miles in seconds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-who-is-responsible-in-a-crash-with-a-self-driving-car.md",
-      "title": "Who Is Responsible In A Crash With A Self-Driving Car?",
-      "excerpt": "It's not just the car manufacturers. It turns out that people take advantage of conservative self-driving cars to act more reckless.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/",
-      "ampWebUrl": "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/",
-      "publishedDateTime": "2020-02-06T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 459,
-          "title": "Who Is Responsible In A Crash With A Self-Driving Car?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-will-advancements-in-tech-make-homo-sapiens-go-extinct.md",
-      "title": "Will Advancements In Tech Make Homo Sapiens Go Extinct?",
-      "excerpt": "The field of prosthetics has advanced by leaps and bounds over the past century. However, is the future as bright as we think it is?",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/",
-      "publishedDateTime": "2020-02-06T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x511/https://specials-images.forbesimg.com/dam/imageserve/107254334/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 511,
-          "title": "Will Advancements In Tech Make Homo Sapiens Go Extinct?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai.md",
-      "title": "Worlds gets $10 million to help enterprises observe their physical environments with AI",
-      "excerpt": "Worlds, whose AI helps large organizations observe their physical spaces to ensure security, safety, and productivity, has raised $10 million in a first round of funding. The Dallas-based startup uses multiple cameras to track spaces in 3D over time, providing a more reliable view of what’s happening than typical 2D security video would.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/",
-      "publishedDateTime": "2020-02-06T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Worlds.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Worlds gets $10 million to help enterprises observe their physical environments with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-2019-machine-learning-and-data-science-survey.md",
-      "title": "2019 Machine Learning and Data Science Survey",
-      "excerpt": "Every year, since 2017, the Kaggle community sets out to conduct an industry-wide survey on the State of Data Science and Machine Learning. This is for the year 2019. The dataset was gathered from a pool of 19,717 usable respondents from 171 countries and territories, cleaned and prepared by the Kaggle community. The young, mostly Indians and ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@ubajakacj/2019-machine-learning-and-data-science-survey-4b882aced1a8",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T11:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1030/1*TlJDveTXMsiz48_94nFeKQ.png",
-          "width": 515,
-          "height": 338,
-          "title": "2019 Machine Learning and Data Science Survey",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,159 @@
   "page": 2,
   "value": [
     {
+      "path": "_posts/2020-01-21-software-detects-backdoor-attacks-on-facial-recognition.md",
+      "title": "Software detects backdoor attacks on facial recognition",
+      "excerpt": "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "United States Army",
+        "domain": "army.mil",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-21-the-brain-predicts-reward-like-an-ai-says-new-deepmind-research.md",
+      "title": "The Brain Predicts Reward Like an AI, Says New DeepMind Research",
+      "excerpt": "If DeepMind’s new bombshell paper in Nature is any indication, a common approach in AI, one that’s led to humanity’s defeat in the game of Go against machines, may have the answer. We all subconsciously learn complex behaviors in response to positive ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-21-why-most-self-driving-car-companies-use-these-3-models.md",
+      "title": "Why most self-driving car companies use these 3 models",
+      "excerpt": "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/self-driving-cars-most-common-vehicles/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T12:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-22-10-data-and-analytics-trends-to-watch-in-2020.md",
+      "title": "10 Data and Analytics Trends to Watch in 2020",
+      "excerpt": "Here are 10 to watch in 2020: Analyst Marcus Borba says Auto machine learning (AutoML), the ability to automate the entire process of developing and managing machine learning models, will also help data scientists focus on what matters versus the mundane.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-22-a-look-at-whats-coming-in-tensorflow-20.md",
+      "title": "A look at what’s coming in TensorFlow 2.0",
+      "excerpt": "Leading up to the release of TensorFlow 2.0, the team behind the library has revealed some of its plans for the upcoming version of the machine learning framework. According to the TensorFlow team ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/a-look-at-whats-coming-in-tensorflow-2-0/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_posts/2020-01-22-automotive-artificial-intelligence-market-exploring-future-growth-2017-2024-and-key-players-nvidia-waymo-intel.md",
       "title": "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel",
       "excerpt": "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ...",
@@ -302,6 +455,35 @@
             "attribution": null
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-23-microsoft-ignite-the-tour-2020-asc-is-presenting-asc-recording-insights-for-compliance-recording-and-analytics-in-microsoft-teams.md",
+      "title": "Microsoft Ignite The Tour 2020: ASC is Presenting ASC Recording Insights for Compliance Recording and Analytics in Microsoft Teams",
+      "excerpt": "With Microsoft Azure Cognitive Services, you can this communication data into insights and thus enable proactive compliance management. The app is already available for download in the Microsoft Teams Store and at Microsoft AppSource. The entire range of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.realwire.com/releases/Microsoft-Ignite-The-Tour-2020-ASC-is-Presenting-ASC-Recording-Insights",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-23T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "realwire.com",
+        "domain": "realwire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -627,6 +809,35 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-25-what-do-aml-bsa-ctf-regulators-think-of-machine-learning.md",
+      "title": "What do AML-BSA-CTF Regulators think of Machine Learning?",
+      "excerpt": "In her address entitled \"What Are We Learning about Artificial Intelligence in Financial Services?\", she told delegates she is optimistic about the potential for AI and machine learning in particular, but guarded on how new machine learning models can be audited. Dr. Brainard's well informed speech begins, \"Modern machine learning applies and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.finextra.com/blogposting/18373/what-do-aml-bsa-ctf-regulators-think-of-machine-learning",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-25T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1632,318 +1843,6 @@
           "width": 1200,
           "height": 675,
           "title": "Mosquitoes spread disease, but this is how AI is biting back",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-natural-language-processing-nlp-market-growth-opportunity-and-2027.md",
-      "title": "Natural Language Processing (NLP) Market Growth, Opportunity And 2027",
-      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-growth-opportunity-and-2027-2020-01-27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-26T22:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market Growth, Opportunity And 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020.md",
-      "title": "Privacy, Business-Critical Transparency And Expert AI To Reshape The Compliance Industry In 2020",
-      "excerpt": "This year, businesses should make compliance a priority with the advent of new regulations and an industry emphasis on privacy.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/27/privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/27/privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/27/privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020/amp/",
-      "publishedDateTime": "2020-01-27T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1063784754/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Privacy, Business-Critical Transparency And Expert AI To Reshape The Compliance Industry In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-software-developers-can-create-better-programs-with-ai.md",
-      "title": "Software developers can create better programs with AI",
-      "excerpt": "And despite the best efforts of programmers and other pros, finished applications can be hampered by bugs. One factor that can alleviate some of these obstacles is artificial intelligence (AI), according to a new report from Deloitte. SEE: Managing AI and ML in the enterprise 2019: Tech leaders expect more difficulty than previous IT projects ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/software-developers-can-create-better-programs-with-ai/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/software-developers-can-create-better-programs-with-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/software-developers-can-create-better-programs-with-ai/",
-      "publishedDateTime": "2020-01-27T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/04/09/a33f1b50-d50c-49b6-982d-0a7075fb78e8/resize/1200x/cd334e92d3b4e6c98d332bc696ea00b2/istock-904420104-1.jpg",
-          "width": 1200,
-          "height": 771,
-          "title": "Software developers can create better programs with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-taiwan-is-opening-a-giant-ai-focused-business-park.md",
-      "title": "Taiwan Is Opening A Giant AI-Focused Business Park",
-      "excerpt": "The government of Hsinchu County, near Taipei, will open a 126,000-square-meter AI business park near one of Taiwan’s major all-purpose high-tech zones and two top universities.",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ralphjennings/2020/01/27/taiwan-is-opening-a-giant-ai-focused-business-park/",
-      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2020/01/27/taiwan-is-opening-a-giant-ai-focused-business-park/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2020/01/27/taiwan-is-opening-a-giant-ai-focused-business-park/amp/",
-      "publishedDateTime": "2020-01-26T22:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2a897aa854780006af60ec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D147%26cropY2%3D2847",
-          "width": 1200,
-          "height": 675,
-          "title": "Taiwan Is Opening A Giant AI-Focused Business Park",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it.md",
-      "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
-      "excerpt": "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ...",
-      "heat": 671,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "publishedDateTime": "2020-01-27T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png",
-          "width": 1200,
-          "height": 763,
-          "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-this-entrepreneur-is-helping-smbs-embrace-technology.md",
-      "title": "This Entrepreneur Is Helping SMBs Embrace Technology",
-      "excerpt": "“We are an expert Azure managed services partner, driving the cloud transformation for over ... analysis services, artificial intelligence, bots and machine learning,” Richard said. Founded in 2012, G7CR Technologies counts brands such as Alibaba.com, Amazon, Digicert, Microsoft and Softlayer as its global technology partners.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/345546",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345546",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345546",
-      "publishedDateTime": "2020-01-27T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200127105642-DrChristopherRichardedit.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Entrepreneur Is Helping SMBs Embrace Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-tinder-asks-does-this-bother-you.md",
-      "title": "Tinder Asks ‘Does This Bother You’?",
-      "excerpt": "If the answer is yes, Tinder will direct them to its report form. The new feature is available in 11 countries and nine languages currently, with plans to eventually expand to every language and country where the app is used. Major social media platforms like Facebook and Google have enlisted AI for years to help flag and remove violating content.",
-      "heat": 172,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/",
-      "ampWebUrl": "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp",
-      "publishedDateTime": "2020-01-27T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Tinder Asks ‘Does This Bother You’?",
           "attribution": null
         }
       ],

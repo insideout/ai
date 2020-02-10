@@ -2,6 +2,954 @@
   "page": 10,
   "value": [
     {
+      "path": "_posts/_archive/2019-12-20-facebook-discovers-fakes-that-show-evolution-of-disinformation.md",
+      "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
+      "excerpt": "The network exposed by Facebook used fake profile photos generated with artificial intelligence.Credit...Graphika/The Atlantic Council’s Digital Forensic Research Lab Facebook said on Friday that it had removed hundreds of accounts with ties to the Epoch ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.html",
+      "ampWebUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
+      "publishedDateTime": "2019-12-20T15:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2019/12/20/business/20takedown3/20takedown3-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-20-facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos.md",
+      "title": "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos",
+      "excerpt": "Facebook says it worked with independent researchers Graphika and the Atlantic Council’s Digital Forensic Research Lab (DFRLab ... most notably that the network was using artificial intelligence to generate fake profile photos. The network banned ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/",
+      "ampWebUrl": "https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/",
+      "publishedDateTime": "2019-12-20T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F939701722%2F0x0.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-21-computer-vision-and-the-ccpa-what-you-need-to-know.md",
+      "title": "Computer Vision and the CCPA: What You Need to Know",
+      "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601?source=topic_page---------2------------------1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-20T16:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png",
+          "width": 1200,
+          "height": 744,
+          "title": "Computer Vision and the CCPA: What You Need to Know",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-21-facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages.md",
+      "title": "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages",
+      "excerpt": "Facebook and Twitter have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior,",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
+      "publishedDateTime": "2019-12-20T20:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-138654/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-21-what-is-natural-language-processing-nlp.md",
+      "title": "What is Natural Language Processing (NLP)?",
+      "excerpt": "Aristo found its answers from among billions of documents using natural language processing (NLP), a branch of computer science and artificial intelligence that enables computers to extract meaning from unstructured text. Though we're still a long way from ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp",
+      "ampWebUrl": "https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1",
+      "publishedDateTime": "2019-12-21T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02Bp7I29l1NFftRcxQQllxT-1.fit_lpad.size_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "What is Natural Language Processing (NLP)?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-artificial-intelligence-can-help-detect-blood-cancer-study.md",
+      "title": "Artificial Intelligence can help detect blood cancer: Study",
+      "excerpt": "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added ... out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze.",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/",
+      "ampWebUrl": "https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/",
+      "publishedDateTime": "2019-12-22T02:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2019/12/cancer-news.jpg",
+          "width": 675,
+          "height": 365,
+          "title": "Artificial Intelligence can help detect blood cancer: Study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages.md",
+      "title": "Facebook says group used AI-generated faces to push pro-Trump messages",
+      "excerpt": "Facebook Inc has taken down a well-financed ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html",
+      "publishedDateTime": "2019-12-22T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG",
+          "width": 600,
+          "height": 337,
+          "title": "Facebook says group used AI-generated faces to push pro-Trump messages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach.md",
+      "title": "Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach",
+      "excerpt": "This article, introduces to the multiple AutoML tools for a real life problem. Different than the other articles about AutoML, we will use multiple AutoML tool for the same project or multiple ...",
+      "heat": 63,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@sadievrenseker/real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach-96edcdc70932",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*B7sxpiEDrzG1YH09fMeH_w.png",
+          "width": 1200,
+          "height": 634,
+          "title": "Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-top-25-ai-startups-who-raised-the-most-money-in-2019.md",
+      "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
+      "excerpt": "Its Cognito platform accelerates threat detection and investigation using artificial intelligence to collect ... and robotics teams at companies like Waymo, OpenAI, Lyft, Zoox, Pinterest, and Airbnb focus on building differentiated models vs.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
+      "publishedDateTime": "2019-12-22T13:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-23-artificial-intelligence-that-tracks-down-leukemia-discovered.md",
+      "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
+      "excerpt": "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\"",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "publishedDateTime": "2019-12-23T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-24-artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023.md",
+      "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
+      "excerpt": "Dec 24, 2019 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2019 report focuses on the budding trends of market, market share, its segmentation, regional outlook and have explored different segments of the market. The Artificial ...",
+      "heat": 63,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-24T01:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-24-getting-started-with-azureml-notebook-vms.md",
+      "title": "Getting Started With AzureML Notebook VMs",
+      "excerpt": "TLDR; Azure Machine Learning (AML), a cloud-based environment you can use to train, deploy, automate, manage, and track ML models. In the following tutorial we will walk through how to set up an ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/microsoftazure/getting-started-with-azureml-notebook-vms-f637b6e09ed4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-23T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*r9E_9IOr95ZxpA_2nOzC_g.png",
+          "width": 1200,
+          "height": 589,
+          "title": "Getting Started With AzureML Notebook VMs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-artificial-intelligence-can-now-track-down-blood-cancer.md",
+      "title": "Artificial intelligence can now track down blood cancer",
+      "excerpt": "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
+      "ampWebUrl": "https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
+      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
+      "publishedDateTime": "2019-12-26T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Asian Age",
+        "domain": "asianage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": "Artificial intelligence can now track down blood cancer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-aws-ceo-claims-alibaba-cloud-isnt-a-threat.md",
+      "title": "AWS CEO claims Alibaba Cloud isn't a threat",
+      "excerpt": "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/articleshow/72974967.cms",
+      "ampWebUrl": "https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms",
+      "publishedDateTime": "2019-12-25T21:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-72975031,height-275,width-412,imgsize-563589/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/aws-andy-jassy.jpg",
+          "width": 412,
+          "height": 275,
+          "title": "AWS CEO claims Alibaba Cloud isn't a threat",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-data-science-vs-artificial-intelligence-eliminate-your-doubts.md",
+      "title": "Data Science vs Artificial Intelligence — Eliminate your Doubts",
+      "excerpt": "While Data Science makes use of Artificial Intelligence in its operations, it does not completely represent AI. In this article, we will understand the concept of Data Science vs Artificial ...",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/quick-code/data-science-vs-artificial-intelligence-eliminate-your-doubts-912b3b2c805",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/730/0*K2hTcclvkZAbCzkZ.jpg",
+          "width": 730,
+          "height": 365,
+          "title": "Data Science vs Artificial Intelligence — Eliminate your Doubts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-revisiting-the-rise-of-ai-how-far-has-artificial-intelligence-come-since-2010.md",
+      "title": "Revisiting the rise of A.I.: How far has artificial intelligence come since 2010?",
+      "excerpt": "To most people, few things say “A.I. is here” quite like seeing an artificial intelligence defeat two champion Jeopardy ... In 2010, Google officially unveiled its autonomous car program, now called Waymo. Over the decade that followed, dozens of other companies (including tech heavy hitters like Apple) have started to develop their ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/?amp",
+      "publishedDateTime": "2019-12-26T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/christies-ai-art-header-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Revisiting the rise of A.I.: How far has artificial intelligence come since 2010?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-samsung-prepares-neon-ai-for-ces-debut.md",
+      "title": "Samsung Prepares Neon AI for CES Debut",
+      "excerpt": "Samsung is preparing an \"artificial intelligence being\" that could become your \"best friend\": It will debut at CES, award-winning director Shekhar Kapur said on Twitter today. The project, called ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut",
+      "ampWebUrl": "https://www.pcmag.com/news/samsung-prepares-neon-ai-for-ces-debut?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/samsung-prepares-neon-ai-for-ces-debut?amp=true",
+      "publishedDateTime": "2019-12-26T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.pcmag.com/images/pcmag-social-share.jpg",
+          "width": 997,
+          "height": 1201,
+          "title": "Samsung Prepares Neon AI for CES Debut",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-27-neurodiversity-in-artificial-intelligence.md",
+      "title": "Neurodiversity in Artificial Intelligence",
+      "excerpt": "Artificial Intelligence is Helping to Create Jobs for ... Many of them also need routine visual therapy to increase hand-eye coordination. Recognizing the need for therapy, and playing to this ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2019-12-27T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e060ce1e961e100073a0424%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5499%26cropY1%3D192%26cropY2%3D3286",
+          "width": 1200,
+          "height": 675,
+          "title": "Neurodiversity in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-27-tesla-patents-data-pipeline-and-deep-learning-system-for-autonomous-driving.md",
+      "title": "Tesla patents data pipeline and deep learning system for autonomous driving",
+      "excerpt": "As Tesla is working toward deploying an autonomous driving system as soon as next year, the automaker is patenting a data pipeline and deep learning system that could help them develop it faster. The system has been revealed in a new patent application by ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/",
+      "ampWebUrl": "https://electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/amp/",
+      "publishedDateTime": "2019-12-27T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Tesla patents data pipeline and deep learning system for autonomous driving",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-28-whats-in-a-name-the-deep-learning-debate.md",
+      "title": "What’s in a name? The ‘deep learning’ debate",
+      "excerpt": "The history of the term deep learning shows that the use of it has been opportunistic at times but has had little to do in the way of advancing the science of artificial intelligence. Hence ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/whats-in-a-name-the-deep-learning-debate/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/whats-in-a-name-the-deep-learning-debate/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/whats-in-a-name-the-deep-learning-debate/",
+      "publishedDateTime": "2019-12-28T10:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2019/12/28/50dde239-b04b-4b84-91b3-b811dff91a53/bengio-and-marcus.png",
+          "width": 1177,
+          "height": 621,
+          "title": "What’s in a name? The ‘deep learning’ debate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-29-misty-robotics-eyes-23-million-developers-to-build-skills-marketplace.md",
+      "title": "Misty Robotics Eyes 23 Million Developers To Build Skills Marketplace",
+      "excerpt": "Sphero spin off Misty Robotics is building a skills marketplace for its Misty II robot by crowdsourcing the talents of the global developer community. Now hobbyists with a few lines of Javascript or C# code can create their dream assistant who out of the box can see,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/amp/",
+      "publishedDateTime": "2019-12-29T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e087da825ab5d0007cf756b%2F0x0.jpg%3FcropX1%3D178%26cropX2%3D1606%26cropY1%3D0%26cropY2%3D804",
+          "width": 1200,
+          "height": 676,
+          "title": "Misty Robotics Eyes 23 Million Developers To Build Skills Marketplace",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-30-2020-supply-chain-technology-trends-where-do-young-technologies-fit-on-a-maturity-curve.md",
+      "title": "2020 Supply Chain Technology Trends: Where Do Young Technologies Fit On A Maturity Curve?",
+      "excerpt": "When it comes to talking about technology trends, it is very helpful to talk about the maturity of newer technologies that are getting a lot of buzz.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2020/12/30/2020-supply-chain-technology-trends-where-do-young-technologies-fit-on-a-maturity-curve/",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2020/12/30/2020-supply-chain-technology-trends-where-do-young-technologies-fit-on-a-maturity-curve/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2020/12/30/2020-supply-chain-technology-trends-where-do-young-technologies-fit-on-a-maturity-curve/amp/",
+      "publishedDateTime": "2019-12-30T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0a0450ab5be600076292aa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1308%26cropY1%3D140%26cropY2%3D876",
+          "width": 1200,
+          "height": 676,
+          "title": "2020 Supply Chain Technology Trends: Where Do Young Technologies Fit On A Maturity Curve?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2019-12-30-a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown.md",
       "title": "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?",
       "excerpt": "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ...",
@@ -1176,963 +2124,6 @@
           "width": 1024,
           "height": 512,
           "title": "Ambarella & AWS Bring ML Solutions to Edge Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-04-deepmind-achieved-starcraft-ii-grandmaster-level-but-at-what-cost.md",
-      "title": "DeepMind achieved StarCraft II GrandMaster Level, but at what cost?",
-      "excerpt": "Thanks to the advancement in deep learning and reinforcement learning, DeepMind achieved groundbreaking success first in Atari, then in Go, and finally in Starcraft II. One of the major benefits ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/swlh/deepmind-achieved-starcraft-ii-grandmaster-level-but-at-what-cost-32891dd990e4",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-04T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*V5bzG3H6ZKWh87AIxxv-dw.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": "DeepMind achieved StarCraft II GrandMaster Level, but at what cost?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-04-gone-today-hair-tomorrowfollica-raises-funds-to-begin-human-trial-of-baldness-treatment.md",
-      "title": "Gone Today, Hair Tomorrow—Follica Raises Funds to Begin Human Trial of Baldness Treatment",
-      "excerpt": "A proof of concept study involving 15 to 20 patients (Follica has no shortage of volunteers, as several hundred people sent in e-mails when word of Cotsarelis’s work reached the public ...",
-      "heat": 128,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://xconomy.com/boston/2008/01/04/gone-today-hair-tomorrow-follica-raises-funds-to-begin-human-trial-of-baldness-treatment/2/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Xconomy",
-        "domain": "xconomy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.xconomy.com/wordpress/wp-content/images/2019/02/28152625/Special-Report-Image-of-Report-cover1.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Gone Today, Hair Tomorrow—Follica Raises Funds to Begin Human Trial of Baldness Treatment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-04-microsoft-takes-azure-to-the-next-level.md",
-      "title": "Microsoft takes Azure to the next level",
-      "excerpt": "Microsoft first developed its cloud computing ... new capabilities for Azure Cognitive Services, Azure Digital Twins, and general availability of Azure IoT Central. Azure came to blockchain ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/01/MicrosoftAzure.jpg",
-          "width": 660,
-          "height": 371,
-          "title": "Microsoft takes Azure to the next level",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-05-digital-dream-labs-will-revive-shuttered-startup-ankis-vector-robot.md",
-      "title": "Digital Dream Labs will revive shuttered startup Anki’s Vector robot",
-      "excerpt": "Anki, the San Francisco startup behind AI-imbued robotics toys like Overdrive and Cozmo as well as Vector, shut down in April 2019 immediately after laying off its workforce of just over 200 people.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/05/digital-dream-labs-will-revive-shuttered-startup-ankis-vector-robot/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/05/digital-dream-labs-will-revive-shuttered-startup-ankis-vector-robot/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/05/digital-dream-labs-will-revive-shuttered-startup-ankis-vector-robot/amp/",
-      "publishedDateTime": "2020-01-05T11:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/IMG_20181021_031525-e1578251998719.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Digital Dream Labs will revive shuttered startup Anki’s Vector robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-05-is-venture-capital-investment-in-ai-excessive.md",
-      "title": "Is Venture Capital Investment In AI Excessive?",
-      "excerpt": "Not only are startups raising increasingly eye-opening amounts of money, but venture capital funds themselves are raising skyrocketing levels of new capital if they focus their portfolios on AI and related areas.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/",
-      "publishedDateTime": "2020-01-05T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F541851156%2F0x0.jpg",
-          "width": 1200,
-          "height": 1125,
-          "title": "Is Venture Capital Investment In AI Excessive?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020.md",
-      "title": "3 steps to implement ethics in AI for competitive advantage in 2020",
-      "excerpt": "Every major company and government deploying AI at scale has publicly declared some form of statement on ethics in AI and articulated a set of guiding principles. In fact, Harvard’s Berkman ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/amp/",
-      "publishedDateTime": "2020-01-06T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/VB_FeatureImage_1200x600.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "3 steps to implement ethics in AI for competitive advantage in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown.md",
-      "title": "A reality check on Artificial Intelligence: Are healthcare claims overblown?",
-      "excerpt": "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ...",
-      "heat": 66,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/?_hsenc=p2ANqtz-_ucienVNAlV7PYrc8Pz1SdpbQZM1e6fOgT2csx5o75U-OoWGIFoIWftsKvfLkMBOeR_vMULzw5v9Q-IemMihui_cvgvQ&_hsmi=81510974&rf=1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-05T22:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2019/11/GettyImages-1137784739.jpg",
-          "width": 703,
-          "height": 497,
-          "title": "A reality check on Artificial Intelligence: Are healthcare claims overblown?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia.md",
-      "title": "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA",
-      "excerpt": "An extensive analysis of the Global Artificial Intelligence (AI) Chips market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins.",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-06T11:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-artificial-intelligence-application-with-android-using-microsoft-cognitive-services.md",
-      "title": "Artificial Intelligence application with Android using Microsoft cognitive services.",
-      "excerpt": "I am going to show you a small tutorial for creating an AI (Artificial Intelligence) application with Android using the API of Microsoft cognitive services. The API of Microsoft cognitive services allows you to recognize computer text, faces, describe ...",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@jorgearturorangel99/artificial-intelligence-application-with-android-using-microsoft-cognitive-services-f03b51f5015d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-05T23:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/540/1*AiEug6LtZTfx2UJ8fgKSjw.jpeg",
-          "width": 540,
-          "height": 960,
-          "title": "Artificial Intelligence application with Android using Microsoft cognitive services.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter.md",
-      "title": "BlackBerry and AWS team up to make smart vehicles even smarter",
-      "excerpt": "Additionally, the platform will integrate the BlackBerry QNX operating system and over-the-air software update services with AWS IoT cloud services for secure connectivity and telematics, Amazon SageMaker for developing machine learning models and AWS IoT edge services for in-vehicle machine learning inference. Senior vice president and co-head ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
-      "ampWebUrl": "https://www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
-      "publishedDateTime": "2020-01-06T10:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2mY8X5N3SSLuWtVUUnBDre-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "BlackBerry and AWS team up to make smart vehicles even smarter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise.md",
-      "title": "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise",
-      "excerpt": "AI is the key to enabling an intelligent enterprise, but companies must overcome two major hurdles to make AI a reality within their organization. Companies around the world are transforming into “intelligent enterprises” – organizations that leverage disruptive technologies to boost productivity,",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/",
-      "ampWebUrl": "https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/",
-      "publishedDateTime": "2020-01-06T11:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e2c98ab5be6000762cf62%2F0x0.jpg",
-          "width": 1181,
-          "height": 663,
-          "title": "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-deep-learning-vs-machine-learning-understand-the-differences.md",
-      "title": "Deep learning vs. machine learning: Understand the differences",
-      "excerpt": "Without doing that you risk creating neural networks that only memorize their inputs instead of learning to be generalized predictors. A deep neural network for a real problem might have upwards of 10 hidden layers. Its topology might be simple ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.javaworld.com/article/3512638/deep-learning-vs-machine-learning-understand-the-differences.html?page=2",
-      "ampWebUrl": "https://www.javaworld.com/article/3512638/deep-learning-vs-machine-learning-understand-the-differences.amp.html",
-      "cdnAmpWebUrl": "https://www-javaworld-com.cdn.ampproject.org/c/s/www.javaworld.com/article/3512638/deep-learning-vs-machine-learning-understand-the-differences.amp.html",
-      "publishedDateTime": "2020-01-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JavaWorld",
-        "domain": "javaworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/succession_brain-sharing_intellectual-knowledge_sharing-100746954-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Deep learning vs. machine learning: Understand the differences",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems.md",
-      "title": "DeepMind researchers introduce hybrid solution to robot control problems",
-      "excerpt": "They’re often difficult to tackle, because it’s not always obvious which algorithms or control policies might best fit. That’s why researchers at Google parent company Alphabet’s DeepMind recently proposed a technique — continuous-discrete hybrid learning — that optimizes for discrete and continuous actions simultaneously ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/06/deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/06/deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems/amp/",
-      "publishedDateTime": "2020-01-06T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/deepmind_robotics-e1578341793570.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DeepMind researchers introduce hybrid solution to robot control problems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-facebook-ai-text-based-generation-of-interactive-worlds.md",
-      "title": "Facebook AI | Text-Based Generation of Interactive Worlds",
-      "excerpt": "In an attempt to make the relationship between such game elements more natural, researchers from Facebook AI Research, French computer science research lab Loria, and University College London recently proposed a new machine learning method for ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/syncedreview/facebook-ai-text-based-generation-of-interactive-worlds-36cce3790fe3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-06T12:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*wjzxkhVEKIvah_Ye22bz_g.png",
-          "width": 1200,
-          "height": 703,
-          "title": "Facebook AI | Text-Based Generation of Interactive Worlds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-machine-translation-market-research-and-technology-developments-2020-to-2024.md",
-      "title": "Machine Translation Market Research and Technology Developments 2020 to 2024",
-      "excerpt": "Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language,",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-06T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Translation Market Research and Technology Developments 2020 to 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-microsoft-research-proposes-face-swapping-ai-and-face-forgery-detector.md",
-      "title": "Microsoft Research proposes face-swapping AI and face forgery detector",
-      "excerpt": "In a pair of academic papers published by teams at Microsoft Research and Peking University ... In June 2019, a report revealed that a spy used an AI-generated profile picture to fool contacts in LinkedIn. And just last December, Facebook discovered hundreds of accounts with profile photos of fake faces synthesized using AI.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/amp/",
-      "publishedDateTime": "2020-01-06T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/3b33aff6-35d5-414f-bb88-adb09af8b7a6-e1578332008715.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Microsoft Research proposes face-swapping AI and face forgery detector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-robots-artificial-intelligence-highlight-ces-expo.md",
-      "title": "Robots, artificial intelligence highlight CES expo",
-      "excerpt": "The annual gadget fest in Las Vegas started this week with \"CES Unveiled,\" an event highlighted by several new robotic and artificial intelligence technology, including one that acts as a pet. (Jan. 6)",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fltimes.com/robots-artificial-intelligence-highlight-ces-expo/video_f52d8126-6f46-54e2-9e89-503ffb536d94.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-06T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finger Lakes Times",
-        "domain": "fltimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/f/52/f52d8126-6f46-54e2-9e89-503ffb536d94/5e13998eab3cc.preview.jpg?crop=960%2C720%2C160%2C0&resize=840%2C630&order=crop%2Cresize",
-          "width": 840,
-          "height": 630,
-          "title": "Robots, artificial intelligence highlight CES expo",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us.md",
-      "title": "Tech trade ban: Exporting AI is going to get harder, says US",
-      "excerpt": "The US government is making it harder for US companies to export artificial-intelligence software that helps organizations automate object recognition from geospatial imagery. The export ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us/",
-      "publishedDateTime": "2020-01-06T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/31/c45c0834-cacf-4fb3-8544-50f658eeb76b/thumbnail/1200x675/e0c52fee5b4d38162a8ffa35af46d4d8/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Tech trade ban: Exporting AI is going to get harder, says US",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-06-trump-administration-to-begin-collecting-dna-from-detained-immigrants.md",
-      "title": "Trump administration to begin collecting DNA from detained immigrants",
-      "excerpt": "The assessment also says that CPB will not collect DNA from people older than 79 or from people who have a physical or cognitive disability ... the Department of Health and Human Services said it was using DNA testing to reunite separated families.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/1/6/21052229/ice-cbp-immigration-dna-collection-detainees-trump-administration",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/6/21052229/ice-cbp-immigration-dna-collection-detainees-trump-administration",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/6/21052229/ice-cbp-immigration-dna-collection-detainees-trump-administration",
-      "publishedDateTime": "2020-01-06T14:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/PPB59OZ1ir42Az3bKi98Gf66LO0=/0x0:3888x2592/1400x933/filters:focal(1633x985:2255x1607):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66036718/1142459922.jpg.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Trump administration to begin collecting DNA from detained immigrants",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-07-ai-chip-company-syntiant-joins-qualcomm-extension-program.md",
-      "title": "AI Chip Company Syntiant Joins Qualcomm Extension Program",
-      "excerpt": "Syntiant, an AI chip company providing custom always-on voice solutions at the edge, today announced that it is now a member of the Qualcomm Extension Program, offering OEMs and ODMs accelerated integration of its ultra-low-power neural network technology with Qualcomm Bluetooth audio platforms and SOCs.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-joins-qualcomm-extension-program-2020-01-07",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI Chip Company Syntiant Joins Qualcomm Extension Program",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-07-ai-in-2020-from-experimentation-to-adoption.md",
-      "title": "AI in 2020: From Experimentation to Adoption",
-      "excerpt": "Advances in data discovery and management, skills training and AI explainability are driving the rate of AI adoption faster than many predicted.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/",
-      "ampWebUrl": "https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/",
-      "publishedDateTime": "2020-01-07T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e135cf50bf81b0006244a5e%2F0x0.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "AI in 2020: From Experimentation to Adoption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-07-amazon-doubles-down-on-ring-partnerships-with-law-enforcement.md",
-      "title": "Amazon Doubles Down on Ring Partnerships With Law Enforcement",
-      "excerpt": "In other cases, municipalities may be utilizing other technology—such as Amazon’s Rekognition product—to extract data even if the security cameras themselves aren’t the most sophisticated. When asked whether Amazon had considered applying facial recognition software technology to Ring cameras, Limp pointed out that Amazon hasn’t ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/",
-      "ampWebUrl": "https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp",
-      "publishedDateTime": "2020-01-07T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e151678fa6692000820d0e8/master/pass/Biz_Ring-1174747225.jpg",
-          "width": 2300,
-          "height": 1533,
-          "title": "Amazon Doubles Down on Ring Partnerships With Law Enforcement",
           "attribution": null
         }
       ],

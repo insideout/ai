@@ -62,11 +62,11 @@
     {
       "path": "_posts/2020-01-11-toyota-ford-aptiv-baidu-lead-crowd-pushing-mobility-at-ces.md",
       "title": "Toyota, Ford, Aptiv, Baidu Lead Crowd Pushing Mobility at CES",
-      "excerpt": "rise of self-driving tech. Earlier this year, Xconomy Boston’s Jeff Engel reported ... plans to release the car in China next year. Baidu, essentially China’s Google, also made a couple ...",
+      "excerpt": "This year, the mobility sector had its largest presence at CES yet. Self-driving tech was well-represented in the CES innovation awards, and news announcements from the sector were plentiful.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://xconomy.com/detroit-ann-arbor/2018/01/11/ces-roundup-toyota-ford-aptiv-baidu-lead-crowd-pushing-mobility/3/",
+      "webUrl": "https://xconomy.com/detroit-ann-arbor/2018/01/11/ces-roundup-toyota-ford-aptiv-baidu-lead-crowd-pushing-mobility/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-01-10T16:00:00-08:00",
@@ -601,6 +601,35 @@
       ]
     },
     {
+      "path": "_posts/2020-01-15-can-googles-british-sister-company-deepmind-build-a-computer-as-smart-as-the-human-brain.md",
+      "title": "Can Google's British sister company DeepMind build a computer as smart as the human brain?",
+      "excerpt": "One company that has taken up the task of solving intelligence is DeepMind, the British AI firm bought by Google in 2014. “It's been part of the company's roadmap from the beginning to include ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/01/15/can-googles-british-sister-company-deepmind-build-computer-smart/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_posts/2020-01-15-deepmind-found-an-ai-learning-technique-also-works-in-human-brains.md",
       "title": "DeepMind found an AI learning technique also works in human brains",
       "excerpt": "Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new explanation ...",
@@ -812,6 +841,43 @@
       ]
     },
     {
+      "path": "_posts/2020-01-16-linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts.md",
+      "title": "LinkedIn is using AI to spot and remove inappropriate user accounts",
+      "excerpt": "In October 2019, it pulled back the curtains on a model that automatically generates text descriptions for images uploaded to LinkedIn, achieved using Microsoft’s Cognitive Services platform and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_posts/2020-01-16-new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher.md",
       "title": "New AI dog trainer uses computer vision and a treat launcher",
       "excerpt": "Dog training generally requires a human dog trainer, but what if it didn't and delivered better results? That's the promise of a startup called Companion Labs that has unveiled its first AI ...",
@@ -904,6 +970,35 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-16-the-ai-that-allows-self-driving-cars-to-see-around-corners.md",
+      "title": "The AI that allows self-driving cars to ‘see’ around corners",
+      "excerpt": "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1018,6 +1113,35 @@
       ]
     },
     {
+      "path": "_posts/2020-01-17-artificial-intelligence-system-that-allows-self-driving-cars-to-see-around-corners-in-real-time-could-help-prevent-accidents.md",
+      "title": "Artificial Intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents",
+      "excerpt": "An artificial intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents, according to its developers. Researchers from Stanford ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T01:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/2020-01-17-google-hopes-to-draw-more-cloud-customers-by-making-ai-easier-to-use.md",
       "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
       "excerpt": "Google's first Cloud AutoML tool will be for recognizing objects in images. It follows Google's Cloud Machine Learning Engine service and the Cloud Vision application programming interface.",
@@ -1052,6 +1176,35 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-17-how-the-xnorai-purchase-opens-apples-ai-future.md",
+      "title": "How the Xnor.ai purchase opens Apple’s AI future",
+      "excerpt": "smarter person and object identification in Photos and smart object recognition in ARKit. Another place where Apple may be able to make a difference is in CCTV video, improving playback and person ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1379,27 +1532,19 @@
     {
       "path": "_posts/2020-01-21-3-businesses-that-can-take-google-stock-higher-in-the-near-future.md",
       "title": "3 Businesses That Can Take Google Stock Higher in the Near Future",
-      "excerpt": "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a ... Specifically, the company is developing self-driving trucks. Compared with providing robotaxi ...",
+      "excerpt": "Cruise still isn’t offering driverless rides to the public, and Baidu only recently got a license to start testing driverless cars. Waymo is moving forward with plans that could be easier and more lucrative than operating robotaxi services. Specifically, the company is developing self-driving trucks. Compared with providing robotaxi services ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-businesses-that-can-take-google-stock-higher-in-the-near-future-1028831901",
+      "webUrl": "https://investorplace.com/2020/01/3-businesses-that-can-take-google-stock-higher-in-the-near-future/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T05:14:00-08:00",
+      "publishedDateTime": "2020-01-21T03:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1448,159 +1593,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-21-software-detects-backdoor-attacks-on-facial-recognition.md",
-      "title": "Software detects backdoor attacks on facial recognition",
-      "excerpt": "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "United States Army",
-        "domain": "army.mil",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-21-the-brain-predicts-reward-like-an-ai-says-new-deepmind-research.md",
-      "title": "The Brain Predicts Reward Like an AI, Says New DeepMind Research",
-      "excerpt": "If DeepMind’s new bombshell paper in Nature is any indication, a common approach in AI, one that’s led to humanity’s defeat in the game of Go against machines, may have the answer. We all subconsciously learn complex behaviors in response to positive ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-21-why-most-self-driving-car-companies-use-these-3-models.md",
-      "title": "Why most self-driving car companies use these 3 models",
-      "excerpt": "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/self-driving-cars-most-common-vehicles/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-22-10-data-and-analytics-trends-to-watch-in-2020.md",
-      "title": "10 Data and Analytics Trends to Watch in 2020",
-      "excerpt": "Here are 10 to watch in 2020: Analyst Marcus Borba says Auto machine learning (AutoML), the ability to automate the entire process of developing and managing machine learning models, will also help data scientists focus on what matters versus the mundane.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-22T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-22-a-look-at-whats-coming-in-tensorflow-20.md",
-      "title": "A look at what’s coming in TensorFlow 2.0",
-      "excerpt": "Leading up to the release of TensorFlow 2.0, the team behind the library has revealed some of its plans for the upcoming version of the machine learning framework. According to the TensorFlow team ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/a-look-at-whats-coming-in-tensorflow-2-0/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],
