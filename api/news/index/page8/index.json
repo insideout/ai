@@ -2,6 +2,87 @@
   "page": 8,
   "value": [
     {
+      "path": "_posts/2020-02-06-coronavirus-fears-will-leave-empty-seats-at-a-top-ai-conference.md",
+      "title": "Coronavirus Fears Will Leave Empty Seats at a Top AI Conference",
+      "excerpt": "Yang was due to present an award-winning paper describing a way for an AI algorithm to perform image recognition by drawing from different datasets without ever revealing their contents. He decided to cancel his trip due to the global health emergency triggered by the coronavirus in China. Yang estimates that around 800 attendees from mainland ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/",
+      "ampWebUrl": "https://www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/amp",
+      "publishedDateTime": "2020-02-05T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e3b32fd281efd000882f15d/master/pass/Biz-emptyplane-86146996.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Coronavirus Fears Will Leave Empty Seats at a Top AI Conference",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-crowdstrike-aws-expand-world-challenge-official-provider-roles.md",
+      "title": "CrowdStrike, AWS expand World Challenge official provider roles",
+      "excerpt": "In forming an expanded alliance, SRO Motorsports Group will benefit from AWS’ 175 fully featured services for storage, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), with a broad global reach. Along with being official ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/",
+      "ampWebUrl": "https://racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/amp/",
+      "cdnAmpWebUrl": "https://racer-com.cdn.ampproject.org/c/s/racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/amp/",
+      "publishedDateTime": "2020-02-06T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Racer",
+        "domain": "racer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://racerdigital.files.wordpress.com/2020/02/aws-crowdstrike-1.jpeg?w=1000&h=430&crop=1",
+          "width": 1000,
+          "height": 430,
+          "title": "CrowdStrike, AWS expand World Challenge official provider roles",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-06-energy-names-inaugural-director-of-new-artificial-intelligence-and-technology-office.md",
       "title": "Energy Names Inaugural Director of New Artificial Intelligence and Technology Office",
       "excerpt": "Less than a half-year into its existence, the Energy Department’s new Artificial Intelligence and Technology Office officially unveiled its leader. According to a Thursday announcement, the agency’s undersecretary for science officially swore in Cheryl Ingstad as the inaugural director of AITO on Feb. 4. “AI technologies will be as ...",
@@ -2065,94 +2146,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-08-ai-for-a-competitive-advantage.md",
-      "title": "AI For A Competitive Advantage",
-      "excerpt": "If implemented gradually and accompanied by training for employees to maximize the technology’s impact, AI can promise to unlock many new doors for any organization.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/amp/",
-      "publishedDateTime": "2020-02-07T17:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x558/https://specials-images.forbesimg.com/dam/imageserve/1079012854/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 558,
-          "title": "AI For A Competitive Advantage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-08-an-ai-regulation-strategy-that-could-really-work.md",
-      "title": "An AI regulation strategy that could really work",
-      "excerpt": "When even the companies developing AI themselves agree with the need for regulation, it is time to stop discussing abstract principles and get down to the business of how to regulate a rapidly advancing technology landscape. It is clear that our regulatory system needs an update. If we try to regulate 21st century technology and beyond ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-could-really-work/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-could-really-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-could-really-work/amp/",
-      "publishedDateTime": "2020-02-08T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/markets.jpg?fit=3840%2C2160&strip=all",
-          "width": 3840,
-          "height": 2160,
-          "title": "An AI regulation strategy that could really work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

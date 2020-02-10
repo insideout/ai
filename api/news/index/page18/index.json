@@ -2,6 +2,652 @@
   "page": 18,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-18-how-to-build-ethical-ai.md",
+      "title": "How to build ethical AI",
+      "excerpt": "There are serious ethical and societal issues we must confront quickly.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence",
+      "ampWebUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
+      "publishedDateTime": "2020-01-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/humanoid_robot_07272018_1_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "How to build ethical AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-secure-technologies-and-artificial-intelligence-in-focus-for-airbus-at-intersec-2020.md",
+      "title": "Secure Technologies and Artificial Intelligence in Focus for Airbus at Intersec 2020",
+      "excerpt": "In addition, the company will also be showcasing various projects around the use of Artificial Intelligence for mission-critical application. The latter include facial, license plate, and object recognition, which run on the Tactilon Agnet mission-critical collaborative platform integrated with other systems through Application Programming ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/uae/en/press-releases/story/Secure_Technologies_and_Artificial_Intelligence_in_Focus_for_Airbus_at_Intersec_2020-ZAWYA20200118065157/",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/ZAWYA20200118065157/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200118065157/",
+      "publishedDateTime": "2020-01-17T23:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Secure Technologies and Artificial Intelligence in Focus for Airbus at Intersec 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars.md",
+      "title": "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars",
+      "excerpt": "There’s a child’s riddle that asks you to indicate what can be held in your left hand and yet cannot be held in your right hand. Take a moment to ponder this riddle. Your first thought might be that anything that could be held in your left hand should also be able to be held in your right hand,",
+      "heat": 314,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-01-18T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172913287%2F0x0.jpg%3FcropX1%3D931%26cropX2%3D6060%26cropY1%3D0%26cropY2%3D3415",
+          "width": 1200,
+          "height": 799,
+          "title": "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-the-3-best-artificial-intelligence-stocks-to-buy-now-for-your-portfolio.md",
+      "title": "The 3 Best Artificial Intelligence Stocks to Buy Now for Your Portfolio",
+      "excerpt": "Artificial intelligence (AI) is probably today's hottest tech growth trend. Spending on AI systems will soar from $37.5 billion in 2019 to $97.9 billion in 2023 -- that's a 28.4% compound annual growth rate -- according to estimates by research firm IDC. And that's a conservative projection. So it makes great sense for investors to want some ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx",
+      "publishedDateTime": "2020-01-18T14:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553710%2Fbest-ai-stocks-best-artificial-intelligence-stocks-2020-nvda-stock-nvidia-stock-mu-stock-micron-stock-crm-stock-salesforce-stock.jpg&w=700&op=resize",
+          "width": 700,
+          "height": 466,
+          "title": "The 3 Best Artificial Intelligence Stocks to Buy Now for Your Portfolio",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-the-secretive-company-that-might-end-privacy-as-we-know-it.md",
+      "title": "The Secretive Company That Might End Privacy as We Know It",
+      "excerpt": "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person, along with links to where ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html",
+      "publishedDateTime": "2020-01-18T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/26/business/19clearview/19clearview-facebookJumbo-v4.png",
+          "width": 1050,
+          "height": 549,
+          "title": "The Secretive Company That Might End Privacy as We Know It",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-2020-the-year-of-artificial-intelligence-for-your-business.md",
+      "title": "2020: The Year Of Artificial Intelligence For Your Business",
+      "excerpt": "Close to 40% of businesses use artificial intelligence (AI). This number was estimated at 5% to 10%, but a survey by IBM showed that we grossly underestimated the scale of AI’s existence. Most importantly, this number is set to grow to 80% to 90% over the next 18-24 months. Furthermore, AI specialists are the number one job role for 2020.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/345112",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345112",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345112",
+      "publishedDateTime": "2020-01-18T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20190109070104-shutterstock-529299211.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "2020: The Year Of Artificial Intelligence For Your Business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.md",
+      "title": "Artificial intelligence to drive China VC investments in 2017: KPMG",
+      "excerpt": "and monetize it,\" a KPMG China partner, Lyndon Fung, told CNBC's \"Street Signs\" on Thursday. He cited self-driving cars as an example of artificial intelligence technology that is poised to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
+      "publishedDateTime": "2020-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104227109-GettyImages-596727272.jpg?v=1529473923",
+          "width": 1024,
+          "height": 666,
+          "title": "Artificial intelligence to drive China VC investments in 2017: KPMG",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-dive-into-ai-and-machine-learning-with-this-40-training.md",
+      "title": "Dive into AI and machine learning with this $40 training",
+      "excerpt": "With four courses and over 280 lessons, this bundle will introduce you to the exciting and lucrative world of machine learning and AI The interconnected worlds of machine learning and AI can be found at the heart of some of today's most exciting and important technologies—from quantum computing and Google algorithms to medical innovations and ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/19/ai-and-machine-learning-training/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/",
+      "publishedDateTime": "2020-01-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F8b238210-38a9-11ea-917e-fb2730af35ad%26client%3Da1acac3e1b3290917d92%26signature%3D38805b0262324ddf51afce57692f092fd86987eb&client=amp-blogside-v2&signature=d5a5d6b2ff11988bc4300d6be4722d34508587fa",
+          "width": 600,
+          "height": 350,
+          "title": "Dive into AI and machine learning with this $40 training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition.md",
+      "title": "From Washington state to Washington DC, lawmakers rush to regulate facial recognition",
+      "excerpt": "Amid the start of an impeachment trial; talk of mounting hostility with Iran; new trade deals with China, Canada, and Mexico; and the final presidential debate before the start of the Democratic presidential primary season, you might’ve missed it, but it was also a momentous week for facial recognition regulation. A bipartisan group in ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/",
+      "publishedDateTime": "2020-01-19T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all",
+          "width": 2215,
+          "height": 1353,
+          "title": "From Washington state to Washington DC, lawmakers rush to regulate facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-how-quartz-used-ai-to-sort-through-the-luanda-leaks.md",
+      "title": "How Quartz used AI to sort through the Luanda Leaks",
+      "excerpt": "But they had a problem: That’s a heck of a lot of files. ICIJ partnered with Quartz’s AI Studio to find a solution. We built a system using artificial intelligence to “read” all the documents and help journalists from Quartz, ICIJ and other partner organizations find the kinds of documents they expected in the cache of leaks ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/",
+      "ampWebUrl": "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/",
+      "publishedDateTime": "2020-01-19T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/01/Cover-TheEngineer-V2.jpeg_effected_logo.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "How Quartz used AI to sort through the Luanda Leaks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-how-software-developers-sparked-management-transformation.md",
+      "title": "How Software Developers Sparked Management Transformation",
+      "excerpt": "20 Years Ago, The IT Department Was Often The Firm’s Worst Performing Unit. Now The Rest Of The Firm Can’t Keep Up",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/",
+      "ampWebUrl": "https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/",
+      "publishedDateTime": "2020-01-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1198341263%2F0x0.jpg",
+          "width": 1200,
+          "height": 728,
+          "title": "How Software Developers Sparked Management Transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-lioness-ai-sex-toy-can-teach-you-about-your-orgasms.md",
+      "title": "Lioness AI sex toy can teach you about your orgasms",
+      "excerpt": "Lioness has been pioneering sex tech since 2017, but CES 2020 was the first time the company was allowed to exhibit its AI-enabled sex toy at one of the world’s biggest tech shows. The Consumer Technology Association backtracked on its earlier policies and allowed sex-positive sex tech companies to display their wares at CES, which took place ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/19/lioness-ai-sex-toy-can-teach-you-about-your-orgasms/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/19/lioness-ai-sex-toy-can-teach-you-about-your-orgasms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/19/lioness-ai-sex-toy-can-teach-you-about-your-orgasms/amp/",
+      "publishedDateTime": "2020-01-19T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/lioness-guidance_feature-1.jpg?fit=1200%2C713&strip=all",
+          "width": 1200,
+          "height": 713,
+          "title": "Lioness AI sex toy can teach you about your orgasms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-19-why-agile-methodologies-miss-the-mark-for-ai-ml-projects.md",
+      "title": "Why Agile Methodologies Miss The Mark For AI & ML Projects",
+      "excerpt": "What drives AI and ML projects is not programmatic code, but rather the data from which learning must be derived. What is needed is a project management methodology that takes into account the data-centric needs of AI and application-focused uses of models.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/amp/",
+      "publishedDateTime": "2020-01-19T01:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1a23e2a854780006e84fa0%2F0x0.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Why Agile Methodologies Miss The Mark For AI & ML Projects",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-12-ai-milestones-1-shakey-the-robot.md",
+      "title": "12 AI Milestones: 1. Shakey The Robot",
+      "excerpt": "from 1966 to 1972, SHAKEY was the world’s first mobile intelligent robot. According to the 2017 IEEE Milestone citation, it “could perceive its surroundings, infer implicit facts from explicit ones, create plans,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/01/20/12-ai-milestones-shakey-the-robot/amp/",
+      "publishedDateTime": "2020-01-20T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e247090a854780006e8dc0c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D125%26cropY2%3D3219",
+          "width": 1200,
+          "height": 675,
+          "title": "12 AI Milestones: 1. Shakey The Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation.md",
+      "title": "AI Chipset Market is Expanding Due to Adoption of Industrial Automation",
+      "excerpt": "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/01/ab15149083/ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15149083",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083",
+      "publishedDateTime": "2020-01-20T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1579519636.jpeg",
+          "width": 417,
+          "height": 455,
+          "title": "AI Chipset Market is Expanding Due to Adoption of Industrial Automation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-20-ai-does-for-security-what-apac-firms-cannot.md",
       "title": "AI does for security what APAC firms cannot",
       "excerpt": "Artificial intelligence (AI) will increasingly play a critical role in helping Asia-Pacific businesses cope with a fast-evolving threat landscape as well as an attack surface that is fast expanding amidst a hyperconnected environment. Organisations today face several key issues brought on by the adoption of cloud, Internet of Things (IoT ...",
@@ -1513,650 +2159,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition.md",
-      "title": "Google and Microsoft spar over EU plan to ban facial recognition",
-      "excerpt": "(Reuters) — The EU’s proposal for a temporary ban on facial recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/",
-      "publishedDateTime": "2020-01-20T21:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/sundar-pichai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google and Microsoft spar over EU plan to ban facial recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-google-ceo-backs-temporary-ban-on-facial-recognition.md",
-      "title": "Google CEO backs temporary ban on facial recognition",
-      "excerpt": "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar",
-      "ampWebUrl": "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp",
-      "publishedDateTime": "2020-01-21T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": "Google CEO backs temporary ban on facial recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-google-temporary-ban-on-facial-recognition-tech-might-be-necessary.md",
-      "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
-      "excerpt": "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary",
-      "ampWebUrl": "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true",
-      "publishedDateTime": "2020-01-21T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.pcmag.com/images/pcmag-social-share.jpg",
-          "width": 997,
-          "height": 1201,
-          "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos.md",
-      "title": "IBM spearheading AI regulation and ethics debate at Davos",
-      "excerpt": "IBM also suggests that companies appoint chief AI ethics officials, carry out assessments to determine how much harm an AI system may pose, and maintain documentation about data when “making determinations or recommendations with potentially significant implications for individuals” so that the decisions can be explained. Spearheading the ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesslive.co.za/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
-      "publishedDateTime": "2020-01-21T05:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/jDCyDuJDTIlYc8w2p3497rWrABJ42N0xyjTuW-w7wX4jzNQfMRfjVN0NoRucfSfjCoGVTzbEz6NzKPJvz5nUjCCQivQq8oCT=s1000",
-          "width": 1000,
-          "height": 666,
-          "title": "IBM spearheading AI regulation and ethics debate at Davos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-ibm-unveils-policy-lab-advocates-precision-regulation-of-ai.md",
-      "title": "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI",
-      "excerpt": "IBM advocates for the appointment of AI ethics officials to guarantee compliance with providers’ and owners’ expectations. They’d be accountable for internal guidance and compliance mechanisms like AI ethics boards, which would oversee risk assessments and harm mitigation strategies, and for improving public acceptance and trust of ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/",
-      "publishedDateTime": "2020-01-21T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-ibms-biology-inspired-ai-generates-better-hash-codes-than-classical-approaches.md",
-      "title": "IBM’s biology-inspired AI generates better hash codes than classical approaches",
-      "excerpt": "To overcome this limitation, researchers at Princeton, the University of San Diego, IBM Research, and the MIT-IBM Watson AI Lab developed BioHash, which applies “local” and “biologically plausible” synaptic plasticity rules to produce hash codes. They say that it outperforms previously published benchmarks for various hashing methods ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/amp/",
-      "publishedDateTime": "2020-01-21T11:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/87c3b4c5-3db3-461e-b3f9-266dfa23d445-1-e1579635316665.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s biology-inspired AI generates better hash codes than classical approaches",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way.md",
-      "title": "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way",
-      "excerpt": "What should kids know about the advent of self-driving cars? Is it necessary to teach them about self-driving cars or is it something that isn’t worth bringing to their attention? If kids are going to get taught about self-driving cars,",
-      "heat": 138,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/",
-      "publishedDateTime": "2020-01-21T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049271976%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-looking-for-an-affordable-phone-wait-for-qualcomms-new-mid-range-chipsets.md",
-      "title": "Looking for an affordable phone? Wait for Qualcomm’s new mid-range chipsets",
-      "excerpt": "Combined with an improved Adreno 618 GPU, users can expect a significant leap in day-to-day as well as gaming performance over the Snapdragon 712. Imaging is one of the key focus areas for Qualcomm and the 720G gets a Spectra 350L ISP that enables image capture at up to 192MP as well as HEIF support. There are improvements in the AI engine as ...",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/",
-      "ampWebUrl": "https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/",
-      "publishedDateTime": "2020-01-21T00:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/01/Qualcomm-Snapdragon-460-662-and-720G-Mobile-Platforms-Chip-Case-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Looking for an affordable phone? Wait for Qualcomm’s new mid-range chipsets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-machine-learning-spam-in-google.md",
-      "title": "Machine Learning Spam in Google",
-      "excerpt": "Spammers are taking advantage of Google Rich Results algorithms in order to place content at the top of Google search. Spammers are taking advantage of machine learning technologies to automatically create video content from web pages and vice versa. The same technology can be used to create text content from podcasts and podcast content from ...",
-      "heat": 159,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/",
-      "ampWebUrl": "https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/",
-      "publishedDateTime": "2020-01-21T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/01/machine-learning-spam-5e26c3c13dc1a.png",
-          "width": 1600,
-          "height": 840,
-          "title": "Machine Learning Spam in Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-macworld-speculates-that-apple-bought-xnorai-to-make-siri-smarter.md",
-      "title": "Macworld speculates that Apple bought Xnor.ai to make Siri smarter",
-      "excerpt": "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/",
-      "ampWebUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/",
-      "publishedDateTime": "2020-01-21T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 500,
-          "title": "Macworld speculates that Apple bought Xnor.ai to make Siri smarter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-microsoft-disagrees-with-eu-facial-recognition-ban.md",
-      "title": "Microsoft disagrees with EU facial-recognition ban",
-      "excerpt": "Microsoft disagrees with the EU's plan to ban facial recognition, saying the only way to make the technology better is to use it. The European Commission is considering a five-year ban on facial recognition in public spaces in order to buy time to assess risks and develop legislation. The move comes as other public authorities, notably the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp",
-      "publishedDateTime": "2020-01-21T02:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Microsoft disagrees with EU facial-recognition ban",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers.md",
-      "title": "Microsoft makes performance, speed optimizations to ONNX machine-learning runtime available to developers",
-      "excerpt": "Many of the deep learning models from Microsoft's Project Turing-- machine reading comprehension for the semantic search portion of Microsoft Search -- runs on the ONNX runtime, as well.",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
-      "publishedDateTime": "2020-01-21T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/21/875b8c65-4f5f-486c-8179-9d5bc4aa4d5e/onnxoptimization.jpg",
-          "width": 954,
-          "height": 719,
-          "title": "Microsoft makes performance, speed optimizations to ONNX machine-learning runtime available to developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-more-privacy-better-battery-life-ai-everywhere-what-apples-xnorai-deal-says-about-its-ambitions.md",
-      "title": "More privacy, better battery life, AI everywhere: What Apple’s Xnor.ai deal says about its ambitions",
-      "excerpt": "Arm Holdings CEO Simon Segars shows an Xnor.ai board at a 2019 event. Speaking on stage last year about the rise of artificial intelligence on devices, Arm Holdings CEO Simon Segars touted the capabilities of the chip giant’s Cortex-M4 processor to help identify objects using image recognition technology. But the circuit board on the slide ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/privacy-better-battery-life-ai-everywhere-apples-xnor-ai-deal-says-ambitions/",
-      "ampWebUrl": "https://www.geekwire.com/2020/privacy-better-battery-life-ai-everywhere-apples-xnor-ai-deal-says-ambitions/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/privacy-better-battery-life-ai-everywhere-apples-xnor-ai-deal-says-ambitions/amp/",
-      "publishedDateTime": "2020-01-21T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/01/arm-630x373.jpg",
-          "width": 630,
-          "height": 373,
-          "title": "More privacy, better battery life, AI everywhere: What Apple’s Xnor.ai deal says about its ambitions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-neurips-competition-tackles-climate-data-challenges.md",
-      "title": "NeurIPS competition tackles climate data challenges",
-      "excerpt": "The Earth’s climate is a highly complex, dynamic system. It is difficult to understand and predict how different climate variables interact. Finding causal relations in climate research today relies mostly on expensive and time-consuming model simulations. Fortunately, with the explosion in the availability",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/neurips-competition-tackles-climate-data-challenges/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T11:09:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/21/neurips-f.jpg",
-          "width": 800,
-          "height": 440,
-          "title": "NeurIPS competition tackles climate data challenges",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-philips-new-oled805-and-oled855-tvs-will-use-ai-power-to-pimp-your-picture.md",
-      "title": "Philips' new OLED805 and OLED855 TVs will use AI power to pimp your picture",
-      "excerpt": "Philips has revealed its first wave of new OLED TVs for 2020 – and it's going all-in on AI picture ... OLED855 and OLED805 televisions their debuts. Essentially identical in terms of specs aside from the style of their respective stands (the 805 has a two-legged \"chamfered stand\" while the 855 has a central mount), both make use of the ...",
-      "heat": 145,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/philips-new-oled805-and-oled855-tvs-will-use-ai-power-to-pimp-your-picture",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,94 @@
   "page": 9,
   "value": [
     {
+      "path": "_posts/2020-02-08-ai-for-a-competitive-advantage.md",
+      "title": "AI For A Competitive Advantage",
+      "excerpt": "If implemented gradually and accompanied by training for employees to maximize the technology’s impact, AI can promise to unlock many new doors for any organization.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/05/ai-for-a-competitive-advantage/amp/",
+      "publishedDateTime": "2020-02-07T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x558/https://specials-images.forbesimg.com/dam/imageserve/1079012854/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 558,
+          "title": "AI For A Competitive Advantage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-an-ai-regulation-strategy-that-could-really-work.md",
+      "title": "An AI regulation strategy that could really work",
+      "excerpt": "When even the companies developing AI themselves agree with the need for regulation, it is time to stop discussing abstract principles and get down to the business of how to regulate a rapidly advancing technology landscape. It is clear that our regulatory system needs an update. If we try to regulate 21st century technology and beyond ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-could-really-work/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-could-really-work/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-could-really-work/amp/",
+      "publishedDateTime": "2020-02-08T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/markets.jpg?fit=3840%2C2160&strip=all",
+          "width": 3840,
+          "height": 2160,
+          "title": "An AI regulation strategy that could really work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-08-biased-algorithms-learn-from-biased-data-3-kinds-biases-found-in-ai-datasets.md",
       "title": "Biased Algorithms Learn From Biased Data: 3 Kinds Biases Found In AI Datasets",
       "excerpt": "Algorithmic bias negatively impacts society, and has a direct negative impact on the lives of traditionally marginalized groups.",
@@ -600,6 +688,35 @@
       ]
     },
     {
+      "path": "_posts/2020-02-09-behringer-deepmind-12-polyphonic-analog-synth.md",
+      "title": "Behringer DeepMind 12 Polyphonic Analog Synth",
+      "excerpt": "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/32028185-behringer-deepmind-12-polyphonic-analog-synth",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-08T17:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-09-kuwait-launches-robotics-ai-festival.md",
       "title": "Kuwait launches Robotics, AI Festival",
       "excerpt": "Kuwait launched on Sunday the Robotics and Artificial Intelligence (AI) Festival to promote the scientific awareness in Kuwait. At the opening ceremony, Salam Al-Ablani, scientific culture director of the Kuwait Foundation for Advancement of Science (KFAS), said that the festival aims at boosting the scientific culture in smart industries and ...",
@@ -1091,6 +1208,35 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-ai-in-public-service-must-be-accountable.md",
+      "title": "AI in public service must be accountable",
+      "excerpt": "A new report from the Committee for Standards in Public life looking at the risks of artificial inteligence (AI) has recommended that ethics is embedded in AI governance frameworks. According to the Artificial intelligence and public standards report, automated decision-making will revolutionise many human-centric administrative tasks in the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerweekly.com/news/252478163/AI-in-public-service-must-be-accountable",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-ai-the-growing-case-for-transparency.md",
       "title": "AI: The growing case for transparency",
       "excerpt": "As artificial intelligence (AI) becomes a part of our lives, the need to move beyond the black-box approach is becoming more and more urgent. We already have a legal framework relating to data protection – GDPR in the European Union and POPI here in South Africa are examples – but, as yet, we lack any regulatory framework for what companies ...",
@@ -1214,6 +1360,35 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.md",
+      "title": "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices",
+      "excerpt": "Cambridge [UK], Feb 10 (ANI): Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which basically means processing on a device without a cloud connection, The Verge reports. The ARM ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.aninews.in/news/tech/others/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices20200210212119/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asian News International",
+        "domain": "aninews.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-arm-unveils-2-new-ai-edge-computing-chips.md",
       "title": "Arm unveils 2 new AI edge computing chips",
       "excerpt": "It today announced two new AI-capable processors — the Arm Cortex-M55 and Ethos-U55, a neural processing unit (NPU) — designed for internet of things (IoT) endpoint devices, alongside supporting software libraries, toolchains, and models. The company claims that the two chips, which are expected to arrive in market in early 2021 ...",
@@ -1247,7 +1422,8 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Google AI"
       ]
     },
     {
@@ -1295,6 +1471,43 @@
         "name": "SiliconANGLE",
         "domain": "siliconangle.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-arms-new-edge-ai-chips-promise-iot-devices-that-wont-need-the-cloud.md",
+      "title": "ARM’s new edge AI chips promise IoT devices that won’t need the cloud",
+      "excerpt": "Edge AI is one of the biggest trends in chip technology. These are chips that run AI processing on the edge — or, in other words, on a device without a cloud connection. Apple recently bought a company that specializes in it, Google’s Coral initiative is meant to make it easier, and chipmaker ARM has already been working on it for years.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/10/21130800/arm-new-edge-ai-chips-processing-npu-cortex-m55-u55-iot",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1535,6 +1748,35 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-behind-the-red-carpet-the-pre-oscars-facial-the-a-list-love.md",
+      "title": "Behind the red carpet: The pre-Oscars facial the A-list love",
+      "excerpt": "Increasingly, recognition is being given to not only the hair and make-up artists forming the ... From a home in the Hollywood Hills she performed her Ultimate TT Facial, which is all about granting a glowing, lifted and sculpted face (see Ratajkowski as your poster girl). \"First I double-cleansed with the Laura Mercier Balancing Crème ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.harpersbazaar.com/uk/beauty/skincare/a30851936/emily-ratajkowski-oscars-facial/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harper's Bazaar",
+        "domain": "harpersbazaar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-business-intelligence-doesnt-need-more-ai-it-needs-more-humans.md",
       "title": "Business Intelligence Doesn’t Need More AI; It Needs More Humans",
       "excerpt": "And humans bring certain things to the decision making table AI never will, qualities like compassion, morality, risk-taking, altruism, and ethics. It’s true that in recent years, there have been several attempts to imbue AI systems with codes of ethics. But whose ethics? Ethics and values differ significantly from culture to culture.",
@@ -1590,241 +1832,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-csiro-innovation-fund-backs-ai-startup-aiming-to-speed-up-hep-c-cancer-treatment.md",
-      "title": "CSIRO innovation fund backs AI startup aiming to speed up hep C, cancer treatment",
-      "excerpt": "\"When we were programming robots we were using AI techniques to help robots recognise what a soccer ball looks like ... real-world patient journeys and trends to work out how to get treatments into patients' hands sooner. The startup's work has increased treatment rates for hepatitis C, HIV and cancer patients. Prospection is working with ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.smh.com.au/business/small-business/csiro-innovation-fund-backs-ai-startup-aiming-to-speed-up-hep-c-cancer-treatment-20200210-p53za0.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sydney Morning Herald",
-        "domain": "smh.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws.md",
-      "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
-      "excerpt": "Yoshua Bengio of Canada's MILA institute, Geoffrey Hinton of the University of Toronto, and Yann LeCun of Facebook, who have called themselves co-conspirators in the revival of the once moribund field of \"deep learning,\" took the stage Sunday night at the Hilton hotel in midtown Manhattan for the 34th annual conference of the Association for ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-deep-learning-has-limits-but-its-commercial-impact-has-just-begun.md",
-      "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
-      "excerpt": "Deep learning may be bumping up against conceptual limits as a model of intelligence, but opportunities to apply it to transform industries and enact massive real-world change still abound.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
-      "publishedDateTime": "2020-02-09T17:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e40aef58b6cf300071e457e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-diversity-in-tech-needed-to-reduce-ai-bias-academic-says.md",
-      "title": "Diversity in Tech Needed to Reduce AI Bias, Academic Says",
-      "excerpt": "One reason software makers struggle to develop unbiased artificial-intelligence algorithms is that little progress has been made to boost racial diversity at tech companies, according to an NYU official who studies the role of race and media in society.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/diversity-in-tech-needed-to-reduce-ai-bias-academic-says-11581330601",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T04:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus.md",
-      "title": "Drug makers are using AI to help find an answer to the coronavirus",
-      "excerpt": "Companies that use artificial intelligence to suss out molecules for potential drugs are among those looking for an answer to the coronavirus. On Tuesday, Benevolent AI published a letter in The Lancet, explaining how it found a drug that could be repurposed to fight the coronavirus using artificial intelligence. The most promising choice is a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fastcompany.com/90461383/drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus?partner=feedburner",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-edgy-arms-new-ai-processor-can-be-strapped-to-cortex-m-cpus-for-a-boost-to-iot-workloads.md",
-      "title": "Edgy: Arm's new AI processor can be strapped to Cortex-M CPUs for a boost to IoT workloads",
-      "excerpt": "The initial deep-learning system can be written in any framework as long as it can be converted to run on TensorFlow Lite or PyTorch Mobile for the microNPU. These are both popular languages to process machine-learning workloads on edge devices, something Arm calls \"endpoint AI\", such as microcontrollers, cameras or sensors. \"Enabling AI ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/02/10/arm_cortex_m_ai_accelerator/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-enterprise-hits-and-misses-quantum-gets-real-koch-buys-infor-and-shadows-failed-app-gets-lit-up.md",
-      "title": "Enterprise hits and misses - quantum gets real, Koch buys Infor, and Shadow's failed app gets lit up",
-      "excerpt": "Each use case carries its own risks/opportunities, and need for transparency, particularly when you combine quantum and \"AI.\" However, based on the recent sessions he attended ... Google is obviously wary of the AWS and Azure comparisons. But it's not easy to break it all out anyhow (Google added GSuite revenues in also).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://diginomica.com/enterprise-hits-and-misses-quantum-gets-real-koch-buys-infor-and-shadows-failed-app-gets-lit",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

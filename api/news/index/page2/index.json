@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_posts/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence.md",
+      "title": "Google CEO wants co-ordinated rules on artificial intelligence",
+      "excerpt": "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-20T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/2020-01-20-top-vc-deals-john-chambers-starts-a-fund-and-ex-baidu-exec-scores-funding-for-self-driving-cars.md",
       "title": "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars",
       "excerpt": "James Peng and Tiancheng Lou, formerly of Baidu and Google respectively, raised $112 million in series A funding for their new self-driving tech ... parent company of CNBC and CNBC.com.)",
@@ -503,6 +532,43 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-23-china-cares-as-deeply-about-ai-ethics-as-the-us-microsoft-ceo-says-as-he-calls-for-global-rules.md",
+      "title": "China cares as deeply about A.I. ethics as the US, Microsoft CEO says, as he calls for global rules",
+      "excerpt": "Because facial recognition or object recognition by itself is not good or bad; it is just a technology. Its the use case that's good or bad. So we have to be able to sort of even think about ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1697,98 +1763,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-googles-ai-proves-better-at-detecting-breast-cancer-than-doctors.md",
-      "title": "Google's AI Proves Better at Detecting Breast Cancer Than Doctors",
-      "excerpt": "In a Google-funded study, a team of independent researchers from various hospitals and universities, researchers from Google Health, and engineers from DeepMind (a Google-owned UK-based AI company) compared analyses of nearly 29,000 mammograms from UK and U.S.-sourced datasets. The study reports that they found 9.7% and 2.7% reductions in false ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871",
-      "ampWebUrl": "https://gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871/amp",
-      "publishedDateTime": "2020-01-27T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--_hVs12nR--/c_scale,f_auto,fl_progressive,q_80,w_800/qekkgajclhpxym2z6td1.png",
-          "width": 800,
-          "height": 448,
-          "title": "Google's AI Proves Better at Detecting Breast Cancer Than Doctors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-how-artificial-intelligence-and-machine-learning-produced-robots-we-can-talk-to.md",
-      "title": "How artificial intelligence and machine learning produced robots we can talk to",
-      "excerpt": "You have probably already talked to a robot without even knowing it. But what are chatbots and how do they work? Business Insider explores this growing market.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/chatbots-talking-ai-robot-chat-machine",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5dfcd92d855cc25a74213a12?width=1200&format=jpeg",
-          "width": 650,
-          "height": 325,
-          "title": "How artificial intelligence and machine learning produced robots we can talk to",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "Machine Learning"
       ]
     }
   ],

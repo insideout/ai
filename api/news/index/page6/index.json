@@ -2,6 +2,88 @@
   "page": 6,
   "value": [
     {
+      "path": "_posts/2020-02-01-the-ai-eye-microsoft-expands-partnership-with-genesys-ibm-ibm-launches-policy-lab-with-ai-policy-imperatives.md",
+      "title": "The AI Eye: Microsoft Expands Partnership with Genesys, IBM IBM Launches Policy Lab with AI Policy Imperatives",
+      "excerpt": "Point Roberts, WA and Vancouver, BC - January 24, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-microsoft-expands-partnership-with-genesys-ibm-nyse-ibm-launches-policy-lab-with-ai-policy-imperatives-2020-01-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-01T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-01-the-future-of-fintech-ai-blockchain.md",
+      "title": "The Future of Fintech: AI & Blockchain",
+      "excerpt": "In The Future of Fintech: AI & Blockchain slide deck, Business Insider Intelligence explores the opportunities and hurdles of adopting the two technologies within financial services.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T19:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.businessinsider.com/image/5e305ac224306a476129d512",
+          "width": 400,
+          "height": 224,
+          "title": "The Future of Fintech: AI & Blockchain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_posts/2020-02-01-the-future-of-work-dont-fear-the-robot.md",
       "title": "The future of work: Don’t fear the robot",
       "excerpt": "Thus the challenge of government trying to guide the future of work. Globalization and the advancement of artificial intelligence further complicate the ability to anticipate the necessary policy steps. “We are not in a robot apocalypse where there will be no jobs in the future,” Mendonca said. But that economy is going to reward the ...",
@@ -2030,80 +2112,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-policy-implications-of-artificial-intelligence-and-machine-learning-in-diabetes-management.md",
-      "title": "Policy Implications of Artificial Intelligence and Machine Learning in Diabetes Management.",
-      "excerpt": "Machine learning (ML) is increasingly being studied for the screening, diagnosis, and management of diabetes and its complications. Although various models of ML have been developed, most have not led to practical solutions for real-world problems. There has been a disconnect between ML developers, regulatory bodies, health services researchers ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.physiciansweekly.com/policy-implications-of-artificial-intelligence-and-machine-learning-in-diabetes-management/",
-      "ampWebUrl": "https://www.physiciansweekly.com/policy-implications-of-artificial-intelligence-and-machine-learning-in-diabetes-management/amp/",
-      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/policy-implications-of-artificial-intelligence-and-machine-learning-in-diabetes-management/amp/",
-      "publishedDateTime": "2020-02-04T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.physiciansweekly.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Policy Implications of Artificial Intelligence and Machine Learning in Diabetes Management.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-04-reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply.md",
-      "title": "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply",
-      "excerpt": "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-04T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

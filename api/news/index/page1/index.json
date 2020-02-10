@@ -62,11 +62,11 @@
     {
       "path": "_posts/2020-01-11-toyota-ford-aptiv-baidu-lead-crowd-pushing-mobility-at-ces.md",
       "title": "Toyota, Ford, Aptiv, Baidu Lead Crowd Pushing Mobility at CES",
-      "excerpt": "This year, the mobility sector had its largest presence at CES yet. Self-driving tech was well-represented in the CES innovation awards, and news announcements from the sector were plentiful.",
+      "excerpt": "rise of self-driving tech. Earlier this year, Xconomy Boston’s Jeff Engel reported ... plans to release the car in China next year. Baidu, essentially China’s Google, also made a couple ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://xconomy.com/detroit-ann-arbor/2018/01/11/ces-roundup-toyota-ford-aptiv-baidu-lead-crowd-pushing-mobility/",
+      "webUrl": "https://xconomy.com/detroit-ann-arbor/2018/01/11/ces-roundup-toyota-ford-aptiv-baidu-lead-crowd-pushing-mobility/3/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-01-10T16:00:00-08:00",
@@ -189,6 +189,35 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-13-cloud-natural-language-processing-nlp-research-analysis-report-by-size-share-trends-and-growth-forecast-2018-2025.md",
+      "title": "Cloud Natural Language Processing (NLP) Research Analysis Report by Size, Share, Trends and Growth Forecast, 2018-2025",
+      "excerpt": "A leading market research firm Facts & Factors (FnF) added a research report on “Cloud Natural Language Processing (NLP) Market“ By Type (Rule-Based, Statistical, and Hybrid), By Deployment ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1894966/cloud-natural-language-processing-nlp-research-analysis",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-13T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1556,35 +1585,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence.md",
-      "title": "Google CEO wants co-ordinated rules on artificial intelligence",
-      "excerpt": "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI ... by its self-driving car unit, Waymo. The Google chief said that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-20T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

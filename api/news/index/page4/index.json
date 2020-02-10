@@ -2,6 +2,86 @@
   "page": 4,
   "value": [
     {
+      "path": "_posts/2020-01-28-this-chicago-software-firm-hired-300-people-last-year-it-just-raised-100-million-and-plans-to-hire-more.md",
+      "title": "This Chicago software firm hired 300 people last year. It just raised $100 million and plans to hire more.",
+      "excerpt": "Software firm ActiveCampaign raised $100 million in venture capital funding and plans to continue a hiring spree that added 300 people in the past year. “We’re not slowing down,” said CEO and founder Jason VandeBoom. The Chicago company makes software for targeted marketing and managing customer data. Demand for those types of tools is ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html",
+      "ampWebUrl": "https://www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html?outputType=amp",
+      "publishedDateTime": "2020-01-28T03:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/pLXUUaKhyPqMSfI_wcdjQdC9An8=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/YP7LCJEF7JBGNGKYYZ5CZAMOLY.jpg",
+          "width": 1200,
+          "height": 673,
+          "title": "This Chicago software firm hired 300 people last year. It just raised $100 million and plans to hire more.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-28-this-chinese-cars-ai-assistant-can-reincarnate-your-dead-cat-and-order-you-sympathy-gifts.md",
+      "title": "This Chinese car's AI assistant can reincarnate your dead cat and order you sympathy gifts",
+      "excerpt": "Still, in the end, it's just one of the most bizarre, sad and genuinely upsetting attempts at marketing I've ever seen. Based on a true story, this video is, ostensibly, trying to show you how Nomi -- Nio's in-car AI assistant (which looks like a sphere on your dash with small cat ears) listens and adapts to your habits, making your life more ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/nio-nomi-ai-assistant-cat-sympathy-gifts/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nio-nomi-ai-assistant-cat-sympathy-gifts/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nio-nomi-ai-assistant-cat-sympathy-gifts/",
+      "publishedDateTime": "2020-01-28T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/2O8yG9zzozJ3AYugjpviEAtmVQE=/2020/01/28/da562e83-4257-4d6c-b806-08cf3b500833/screen-shot-2020-01-27-at-4-24-34-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": "This Chinese car's AI assistant can reincarnate your dead cat and order you sympathy gifts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-01-28-this-young-innovator-is-a-champion-of-ai-for-good.md",
       "title": "This Young Innovator Is A Champion Of AI For Good",
       "excerpt": "At the AIMed conference 2019, UCI’s sophomore, and Dalai Lama Scholar Karishma Muthukumar gave an opening speech about her big idea of using empathy-based artificial intelligence to improve human connection in the healthcare field.",
@@ -2042,96 +2122,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-artificial-intelligence-in-construction-market-big-changes-to-have-big-impact.md",
-      "title": "Artificial Intelligence In Construction Market - Big Changes to Have Big Impact",
-      "excerpt": "The Exploration study offers in-depth assessment of Artificial Intelligence In Construction Market and helps market participants to gain strong insights of the industry to make valuable decision. The study highlights assessment of the market by giving lot of focus on futuristic trend,",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market---big-changes-to-have-big-impact-2020-01-30",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence In Construction Market - Big Changes to Have Big Impact",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-artificial-intelligence-in-healthcare-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
-      "title": "Artificial Intelligence In Healthcare Market- What Are The Main Factors That Contributing Towards Industry Growth?",
-      "excerpt": "Jan 30, 2020 (AmericaNewsHour) -- A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market. The report analyzes the artificial intelligence in healthcare ...",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-30?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence In Healthcare Market- What Are The Main Factors That Contributing Towards Industry Growth?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],
