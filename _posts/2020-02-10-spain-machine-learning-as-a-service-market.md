@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Artificial Intelligence in Platform as a Service Market"
-excerpt: "The latest market intelligence study on Artificial Intelligence in Platform as a Service relies on the statistics derived from both primary and secondary research to present insights pertaining to the forecasting model, opportunities, and competitive landscape of Artificial Intelligence in Platform as a Service market for the forecast period ..."
-publishedDateTime: 2020-02-07T13:33:00Z
-webUrl: "https://www.openpr.com/news/1923740/artificial-intelligence-in-platform-as-a-service-market-trends"
+title: "Spain machine learning as a service market"
+excerpt: "Financial Services, and Insurance, IT and Telecom, Research and Academic, Government and Public Sector, Retail & Ecommerce, Manufacturing, Healthcare and Pharmaceuticals, Travel & Logistics, Energy and Utility, Media and Entertainment), Country (Spain) Competitive Landscape and Spain Machine Learning as a Service Market Share Analysis Spain ..."
+publishedDateTime: 2020-02-10T06:49:00Z
+webUrl: "https://www.openpr.com/news/1924565/spain-machine-learning-as-a-service-market-outlook-2020-on-a-verge"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 related:
   - title: "GNY Launches ML As A Service Tool In AWS Marketplace To Make Businesses AI-Ready"
@@ -39,16 +40,16 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 31
-  - title: "Spain machine learning as a service market"
-    excerpt: "Financial Services, and Insurance, IT and Telecom, Research and Academic, Government and Public Sector, Retail & Ecommerce, Manufacturing, Healthcare and Pharmaceuticals, Travel & Logistics, Energy and Utility, Media and Entertainment), Country (Spain) Competitive Landscape and Spain Machine Learning as a Service Market Share Analysis Spain ..."
-    publishedDateTime: 2020-02-10T06:49:00Z
-    webUrl: "https://www.openpr.com/news/1924565/spain-machine-learning-as-a-service-market-outlook-2020-on-a-verge"
+  - title: "Artificial Intelligence in Platform as a Service Market"
+    excerpt: "The latest market intelligence study on Artificial Intelligence in Platform as a Service relies on the statistics derived from both primary and secondary research to present insights pertaining to the forecasting model, opportunities, and competitive landscape of Artificial Intelligence in Platform as a Service market for the forecast period ..."
+    publishedDateTime: 2020-02-07T13:33:00Z
+    webUrl: "https://www.openpr.com/news/1923740/artificial-intelligence-in-platform-as-a-service-market-trends"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 19
+    quality: 17
 
-secured: "NQedvb1R+IXVOfgdGhFGey2afJA0ZMiebNZpRTpbpO4Z9A43ey4BoSl1I/h6nWIpJ4As7eYXhclv2jm1LLw2+vv0HIbUfRE+Q4+MNC/3LBL8fKvBFtPCEZnh2PjnLWsmyj8IIdNCJWJnOKWfHGTwUIDu8eSXNCIr9IRsSo/nlHHSAeFClUiFlOYYAWWMEFTT6vI2exWjsTaaBUduksv3DWg5vfXGb60FTDaXdeZekUuO5zuTbikZOUdpG9EbCj/OjtBgoQkjWiVn6EnwsfEkw37QHxkpCEW3zY7Obh81muwwZigampGvJgSRLzRakbPd;xoq4jVFz+bowO3RDgc1CMQ=="
+secured: "+9nUUG4ZvYB+lHECQx6Cy9tn2jJhOu0GuOsSVtk8r/tVXNHwMrOKcEgf+d1AdwJRiaRvh1oq78ImobWEHUDqL+SCdbgCABcZoag1eaxD9macIpJq9hcFMJ2dqPcrjMAoGnLldtWaQBawmo11+wdrLauvW4XzW5HLjs7DB3hdT3EAeBop78sdiAMdvO0FGMyXkK8+dxS2d4p0iED0/orkpJ6/6gdQIMH0OvQC5j+yDf5Tlvtve1w3XpVi3/zyKwXF/AH0AwCgJGlzGXcJOyDeoYUaGR0U3O4VVnfWvjjSDRQeV+RBYtxCICXCiSXqb0Kf;2cS3FwzC+6T+FrJ4nIQMRQ=="
 ---
 

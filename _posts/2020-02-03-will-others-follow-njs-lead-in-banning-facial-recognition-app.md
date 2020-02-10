@@ -577,17 +577,6 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/Opinion_Lee-Reiber.jpg"
         width: 2000
         height: 1083
-  - title: "Army Researchers Working to Protect Facial Recognition Software from Hacks"
-    excerpt: "So one of the goals of the NYU-sponsored CSAW HackML competition in 2019 was to develop a software that would prevent cyberattackers from hacking into the facial and object recognition software the military uses to train its AI. \"Object recognition is a key component of future intelligent systems, and the Army must safeguard these systems from ..."
-    publishedDateTime: 2020-01-26T13:39:00Z
-    webUrl: "https://www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html"
-    ampWebUrl: "https://www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html/amp"
-    cdnAmpWebUrl: "https://www-military-com.cdn.ampproject.org/c/s/www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html/amp"
-    type: article
-    provider:
-      name: Military.com
-      domain: military.com
-    quality: 37
   - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
     excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
     publishedDateTime: 2020-02-02T15:07:00Z

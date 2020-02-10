@@ -33,6 +33,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 31
+  - title: "Spain machine learning as a service market"
+    excerpt: "Financial Services, and Insurance, IT and Telecom, Research and Academic, Government and Public Sector, Retail & Ecommerce, Manufacturing, Healthcare and Pharmaceuticals, Travel & Logistics, Energy and Utility, Media and Entertainment), Country (Spain) Competitive Landscape and Spain Machine Learning as a Service Market Share Analysis Spain ..."
+    publishedDateTime: 2020-02-10T06:49:00Z
+    webUrl: "https://www.openpr.com/news/1924565/spain-machine-learning-as-a-service-market-outlook-2020-on-a-verge"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
   - title: "Artificial Intelligence in Platform as a Service Market"
     excerpt: "The latest market intelligence study on Artificial Intelligence in Platform as a Service relies on the statistics derived from both primary and secondary research to present insights pertaining to the forecasting model, opportunities, and competitive landscape of Artificial Intelligence in Platform as a Service market for the forecast period ..."
     publishedDateTime: 2020-02-07T13:33:00Z

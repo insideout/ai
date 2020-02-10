@@ -594,17 +594,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "Army Researchers Working to Protect Facial Recognition Software from Hacks"
-    excerpt: "So one of the goals of the NYU-sponsored CSAW HackML competition in 2019 was to develop a software that would prevent cyberattackers from hacking into the facial and object recognition software the military uses to train its AI. \"Object recognition is a key component of future intelligent systems, and the Army must safeguard these systems from ..."
-    publishedDateTime: 2020-01-26T13:39:00Z
-    webUrl: "https://www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html"
-    ampWebUrl: "https://www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html/amp"
-    cdnAmpWebUrl: "https://www-military-com.cdn.ampproject.org/c/s/www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html/amp"
-    type: article
-    provider:
-      name: Military.com
-      domain: military.com
-    quality: 37
   - title: "Data Protection Day: Privacy Commissioner Warns About Facial Recognition Tech"
     excerpt: "Facial recognition is the process by which a person can be identified or otherwise recognized from a digital image. Facial recognition is one form of biometric identification; others include fingerprints, voice recognition and retinal scans. Facial recognition is based on unique, measurable characteristics that can be used to verify or ..."
     publishedDateTime: 2020-01-28T15:21:00Z

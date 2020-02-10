@@ -39,6 +39,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x290/https://specials-images.forbesimg.com/imageserve/5e3cf820f133f400076be0f6/960x0.jpg?fit=scale"
         width: 711
         height: 290
+  - title: "How is AI affecting brand storytelling?"
+    excerpt: "According to recent research by IDC, the total global spending on Artificial Intelligence (AI) systems will touch $98 billion by 2023 ... The show will be webcast from the Mint Facebook page at 10 am on February 11. Sunder Madakshira (Adobe India), Sukhpreet Singh (Dish TV & Watcho), Krishnan Chatterjee (SAP), Hareesh Tibrewala (Mirum India ..."
+    publishedDateTime: 2020-02-10T06:11:00Z
+    webUrl: "https://www.livemint.com/brand-post/how-is-ai-affecting-brand-storytelling-11581312837902.html"
+    ampWebUrl: "https://www.livemint.com/brand-post/how-is-ai-affecting-brand-storytelling/amp-11581312837902.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/how-is-ai-affecting-brand-storytelling/amp-11581312837902.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2020/02/10/600x338/Rameet_1581314636290.jpg"
+        width: 600
+        height: 338
   - title: "An engineering student is helping envision a self-driving future for people with disabilities"
     excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around."
     publishedDateTime: 2020-02-01T06:41:00Z

@@ -579,17 +579,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "Army Researchers Working to Protect Facial Recognition Software from Hacks"
-    excerpt: "So one of the goals of the NYU-sponsored CSAW HackML competition in 2019 was to develop a software that would prevent cyberattackers from hacking into the facial and object recognition software the military uses to train its AI. \"Object recognition is a key component of future intelligent systems, and the Army must safeguard these systems from ..."
-    publishedDateTime: 2020-01-26T13:39:00Z
-    webUrl: "https://www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html"
-    ampWebUrl: "https://www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html/amp"
-    cdnAmpWebUrl: "https://www-military-com.cdn.ampproject.org/c/s/www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html/amp"
-    type: article
-    provider:
-      name: Military.com
-      domain: military.com
-    quality: 37
   - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
     excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
     publishedDateTime: 2020-02-02T15:07:00Z
@@ -655,6 +644,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "6wloFXxGpmeH+D2A22DlJBmxH4qRqHm0Z92dZookRDXm6GzGDeDeoNS/CAn7gEH+braK944rEPXv+ATcXYRwPmM8Y++Ufvwa9dTnYT7kztYFpPTOLfqz+c5ykJ68BEp32dGa8/GqflEtFRY4rB5Msa1SGtF/tIpvS6WcQwcIYSo3XKNyChCm194LU2+pTD2lvINdNcVzplz405lRByyY8FPWR/jUfrQfSszJ+6dP/8Uf1qbIaF3d+PxtxpH7tR0o9fJZ9hFvAiLupi973JoIsN+8ccSRFALG15sxAMGzImuw+LNSRPWRe/cQWEcfJU7T;miqtE+QogsBBD71RZjVx/w=="
+secured: "hAaqANN4Kw70Ped2QpQBOhcnQ0YAFwmgwt31uQK4yJ3LpZWqyyZLveau5oFpvo4sKrryF+aTHL254Et5nLEYQOFsN1rlr4KfrZIOxJHkoHTAVlgycM/8uEdatSMXSHotL5sxBHUdNmaTQZ16Z8MP8jBI7OyOtMxD37x9FIXUNrSbZWxOlTj3Ks4yCV2z+SlX+dTpCxCdH1KGefPtX2auEn3PFduLs5gItA9658YDREil+tmmOVBjOjlF334miDCKBqFPPR7UKN0jDbYxAeuzmoeWeGB6AOfURBU63LM/BBN+nparp4GJbkYU+xWkekkd;IHLuuLFWpI4epMijNVzV+g=="
 ---
 

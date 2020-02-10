@@ -29,6 +29,6 @@ images:
     height: 640
     title: "Tailoring A Computer Vision System: The Art Of Balance"
 
-secured: "ZYAui7rgi6+WaHLIO/PU9fqmmRNdAHck9WFueIF4CYFj1M+qq+/O7v3MWG7TzxGnRYqlTdQDHue5ynRjeQQyC9tU0xxLrlGwyIXscFs/k0cGGLfu+lujFXhjk3sHp5MfoAxxE/1v0hqntJ6vAV7ZRnkCqE5OZObXKo/ThBAmYO8TbiMZ9/zDDWjpbSB+yyEGl/NDDp0FHi7cixesdJst3QUjfvqUSKuzIyMV3R/8IukeMJSJcompaKuuBQBDWAMVp2f5sRsNrWHoqUK72HkL/txRUDeP2qobzQboKpTjgSHoEJwYnDEzRMeWi48XH+fF;RwCTx8tu7GQyFtcnyrZixg=="
+secured: "X2QcZgcGgiLyjxhU4M7vyppPvH39gXCHoh1tu1xjY0xwkVyeNlO+NaR/vOl7xjnIqiEOu0IkOffBgD/UwPM3gKYj4YNavEpvNwOcrtdjFH0kfvx0hyM5pzGmhbqKgGdSUzxDVw011BscjWMHKOZ6rTDO+hFTlVlTTSlhgIsGtt1em3snhtis2wpTZfAXAUeHLakVqFw2nM9bVN4Oh4vwP4xb7pLth/0jJfyGP6spkSZ86UGdkeZKz0EVBLPQsPXzxAqf315eSa7PYrwBZvnjy8yLxR8IOJrvdJXcTj82Mk9EvmdANEqfp5WKQ8+Xvxh6;2Qg1y51Hd7gKPy1gbO8rgA=="
 ---
 

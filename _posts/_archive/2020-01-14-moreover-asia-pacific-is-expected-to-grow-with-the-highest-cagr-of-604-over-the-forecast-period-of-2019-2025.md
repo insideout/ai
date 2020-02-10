@@ -23,6 +23,6 @@ images:
     height: 315
     title: "Moreover, Asia-Pacific is expected to grow with the highest CAGR of 60.4% over the forecast period of 2019-2025"
 
-secured: "0BLmJhE445utZ/N4f+kZF53WzXwHbwnoTvkMFdQ+E6NNsiFZyMac6Vt896JnTEdvRWLHZN8/2mlqpHnfy0efDeEB8vVp0RCIWq0Rrja9KaYRFVNPCjfJG6m4mIjQeSeU4eiqjd+q0TlR7a9khfeosPz/FIJjCI34j0tmbXtvaF/Sbexbs2GKYBhkaIyj9gQ6PMZd/ExT6jIMXSwCtmAEm0+/D/qDqK771ryiEmx68wkGNKuUD+0NWOADPXLDHBcALiLlqNmNQWK+w4vk3UxzJMd8/hmTjTxnRMjeFo3wxjqDHn1zMjcBSveiC2OAaFp4;RefpJYTkOwMBXNCndzSRGw=="
+secured: "EhUpvqaUVqq/aRqfW8xk1XBQF6eICZf0IgqR0JYsxXa4MS4m+aL4NWXOWY5p0GU6jF9J8Dqq0vzfgRKa7QqGdPwz8C37+ilfDc7pD/459PszpcKwp2xwyY/ZSizykdigvakkx8ArgeaNnD7OKjthvklat4QCcFU6ZNlFQagqdD0YQiI8oydPxO2klZHNwn3CrnzFiTbyzoxF3fCkJfI5WXgXwqnR7RxZJkT3MODsrDAP6OW1OVFORgis83Gcn02eWbIRzmHx+CTl/GphCk7mx6whAN2b6JACdAdAgqaYWYJHWgmrSBq/16cLbQend4p1;H5TuMzJhGA7R9S2YAj8u9g=="
 ---
 
