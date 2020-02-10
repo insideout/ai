@@ -5,9 +5,9 @@ excerpt: "But the tweaks made an AI interpret the sentences completely different
 publishedDateTime: 2020-02-07T17:17:00Z
 webUrl: "https://www.technologyreview.com/f/615158/software-that-swaps-out-words-can-now-fool-the-ai-behind-alexa-and-siri/"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 139
+heat: 139
+published: true
 
 provider:
   name: MIT Technology Review
@@ -23,6 +23,6 @@ images:
     height: 675
     title: "Software that swaps out words can now fool the AI behind Alexa and Siri"
 
-secured: "dU0JcOUealZzLm1kDboZN59PUvqfvNsEPm5SVO4LgG73pa/3eM/miCprQ75almDS/NjW5PMBCt1qU+eJ0LpmijMDjOd+MyXWCgWiIXBNxut2shoKH5AuAxhs5NGywtfFvoMPuXMn7THnDJTwtFImVunZWJCtgVLF1eNC7wEuebhq4BvzqY/zIJXocQtO9a7VGcYv7p2WLo2s+DH3QKPV9A1riiV5JKqsbMMyrgfbnvEazi0zF5Lijt8asc4t47HR/vmARrYTw2GrgAnRLTMKNB28bBHZLtWKSm2Ayuzmq6no2yerOYfT39VtVxrEtxDmW777gU0PdW6EoUCdpRshkCN9+kmXRrT7woUnoOlo2VqnBKmdE9FBENCAzZPfc+en0aadXbuXFjjbCiqu/sgPYv4JDui1uwkBia/Gx/7Sih9X3bAHJ9qToubz00VsF2y5F6isQQXcgjzFAKxARs9NqhUViSURJyQ3XWL3s0lwVAE=;3OsBefrZTaWJLFj9LOqdTQ=="
+secured: "Uq9nRhSg9bbMzyZ7VRLPXmkFU8USHTCmlgRnLhC6qaKskQs4b/H+QdvQd85pS0Qf+CrNA1ie70Bka541MU8t1XE4zl4nppoeeBxkHo+5rqYN1icljgN+aKIhBkEEj6ObteIFheXsKfmWQjzbDpSOafpsPgToIhyjYInaqJz3GUoea4wNVHBX+PFUMfyu6oIv9TptkNnaTIr25Kep8pDyudU3loPZBk3IPdyVhiNklYHZpOZuxPgEC21KfRztge5glPQFJqp6XkZq4/0WaudofsMT3T77s6ShQ91zkIxST2DkHKES9mHLJfvHGkXmTVUDTpFnceUXZZboXKFBlW3EzM16KvEIg201KOuYxB4NP1o3THNTgKjCi1rwrMoLXsNwBqBomjMcksT36oilGEUEYLfPu8bCxnOc78NKXLNlH2StIBZJEBxteMeSkbqPP8x2Az9A1dbBLWXibSjycTO4EOkVzdhIB+werSshV2BEkP7CEktcjchFOO85+gQU2RKx;5SXR6NY0NQjtFsfsx7kYog=="
 ---
 

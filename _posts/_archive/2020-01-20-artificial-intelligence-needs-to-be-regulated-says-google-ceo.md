@@ -4,9 +4,11 @@ title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
 excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
 publishedDateTime: 2020-01-20T12:18:00Z
 webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: -1
 published: false
 
 provider:
@@ -26,21 +28,33 @@ related:
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
     publishedDateTime: 2020-01-20T12:57:00Z
     webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
     type: article
     provider:
       name: Mint
       domain: livemint.com
-    quality: 34
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
+        width: 600
+        height: 338
   - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
     excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
     publishedDateTime: 2020-01-20T12:36:00Z
     webUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/"
+    ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
     type: article
     provider:
       name: POLITICO
       domain: politico.eu
-    quality: 19
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg"
+        width: 1200
+        height: 628
 
-secured: "bv09YstBwIpYX0DR2aWqOS/Z7nt7oe6EwZn4UgFcx/qBFMFkaVWrpv9OB+SUNw9R37Bk/8tb3fDie6ZN0HmozUiYQ15oUnN+BKBfnD+ENSB4G8X8oJnJHsprnli1KEkp7yjieiTkyILcqE+Gw7EKxPRCBZh4I6oCZjlC7eaUFKGmboof1TTHosk8veul07RuS7KEW5+1PJV8n51wFYSLqk013MalcIe5qTMpRbKNzU4gObdihZo7pnzC+CXfYQEmCIxtp8abY2iHyFv+501iYa7N46htbV0oJJTqldZKdGtD8AiTFosuixuBJcPsDzn7;LzQhukCRj4D5By7Qa4zRYw=="
+secured: "v/00d1gQq6I/cxB/Alvd38rvTbe8ygCwtfNXZfZbBW6pjhuxw9xQZFWBhDa0iOUjkM6nSUk4DjIQ1EOGlb+xreUSVsdJFYYolKcs/mMhqHusEWPpltqVk9tBHayXLLPoMMhxsEZ2u3Wg8MpXuHVUa0F5DGch8MRqI1P9jXB6uTItClnKJ5LKMu0tsG4dFbAEB9tcSNJryWDU1pyoGlIJf5EE2vENlolyFu9vs4DSGTZSCYX06jivsA3+Wb6ZY3vffB1sVb4Y6uQl5HZdsa5xu68w2wzKk/f2kGHiFBhhpmDubkVOYUFy7P1ZMmQuZRLH;/4tmcLd1BfGhHaVyuYF/vA=="
 ---
 

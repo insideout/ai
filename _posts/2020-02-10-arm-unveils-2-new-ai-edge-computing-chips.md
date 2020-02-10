@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/02/10/arm-unveils-2-new-ai-edge-computi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/arm-unveils-2-new-ai-edge-computing-chips/amp/"
 type: article
 quality: 106
-heat: 156
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -41,24 +41,37 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 104
+    quality: 204
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/-rDHx30xs1UWS9j8noL2vBx-200=/0x0:814x458/1400x933/filters:focal(342x164:472x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66283236/InfographicPreview.0.0.jpg"
         width: 814
         height: 458
-  - title: "Vision System for Machine Learning (ML) Edge Computing Applications"
-    excerpt: "The NXP i.MX 8M Plus features a dual camera image signal processor providing real-time processing for crystal clear images and a neural network accelerator delivering up to 2.3 TOPs for extensive machine learning capabilities. In combination with the new camera modules, the resulting vision system is suitable for intelligent, vision-based ..."
-    publishedDateTime: 2020-02-03T20:14:00Z
-    webUrl: "https://www.automationworld.com/products/product/21112764/basler-ag-vision-system-for-machine-learning-ml-edge-computing-applications"
+  - title: "Arm launches new AI chip for small devices and sensors"
+    excerpt: "Chips with this technology are scheduled to hit the market in 2021 and have been designed to carry out the advanced mathematics needed by artificial intelligence (AI) software in order to detect vibrations or pick out spoken keywords from a user."
+    publishedDateTime: 2020-02-10T17:15:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/02/arm-launches-new-ai-chip-for-small-devices-and-sensors/"
     type: article
     provider:
-      name: Automation World
-      domain: automationworld.com
+      name: IET
+      domain: theiet.org
     quality: 54
     images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2020/02/2001_np_Basler.5e387e91c4560.png?auto=format&fit=max&w=1200"
+      - url: "https://eandt.theiet.org/media/10578/arm-ai-chip-business.jpg?crop=0,0.385,0.0000000000000015158245029549,0.12281250000000059&cropmode=percentage&width=1200&height=450&rnd=132258279820000000"
         width: 1200
-        height: 800
+        height: 450
+  - title: "Arm Ltd to launch new AI chip for small devices"
+    excerpt: "Chips with the technology will hit the market in 2021 and aim to carry out the special kinds of math needed by artificial intelligence (AI) software that can detect vibrations or pick out spoken keywords from a user. The chips are designed to function with very low amounts of electricity. That allows devices such as sensors to last for years at ..."
+    publishedDateTime: 2020-02-10T20:16:00Z
+    webUrl: "https://www.itnews.com.au/news/arm-ltd-to-launch-new-ai-chip-for-small-devices-537779"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/ARM_ltd.PNG"
+        width: 955
+        height: 489
   - title: "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices"
     excerpt: "The microcontroller, the Cortex-M55, joins the company’s ubiquitous Cortex-M family of processor designs. Arm said the chip will provide more AI performance than any other product in the series. Cambridge, U.K.-based Arm doesn’t make any chips itself but rather sells blueprints under license to semiconductor manufacturers. The Cortex-M ..."
     publishedDateTime: 2020-02-10T14:21:00Z
@@ -85,15 +98,21 @@ related:
       - url: "https://aniportalimages.s3.amazonaws.com/media/details/technology-chips-micro-computer-embed-steel-royalty-free-thumbnail_1.jpg"
         width: 600
         height: 450
-  - title: "Arm unveils AI chip for small devices"
-    excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
-    publishedDateTime: 2020-02-10T14:53:00Z
-    webUrl: "https://seekingalpha.com/news/3540046-arm-unveils-ai-chip-for-small-devices"
+  - title: "Edgy: Arm's new AI processor can be strapped to Cortex-M CPUs for a boost to IoT workloads"
+    excerpt: "The initial deep-learning system can be written in any framework as long as it can be converted to run on TensorFlow Lite or PyTorch Mobile for the microNPU. These are both popular languages to process machine-learning workloads on edge devices, something Arm calls \"endpoint AI\", such as microcontrollers, cameras or sensors. \"Enabling AI ..."
+    publishedDateTime: 2020-02-10T14:10:00Z
+    webUrl: "https://www.theregister.co.uk/2020/02/10/arm_cortex_m_ai_accelerator/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/02/10/arm_cortex_m_ai_accelerator/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/10/arm_cortex_m_ai_accelerator/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
+      name: The Register
+      domain: theregister.co.uk
+    quality: 49
+    images:
+      - url: "https://regmedia.co.uk/2019/08/19/chip_shutterstock.jpg"
+        width: 648
+        height: 365
 
 secured: "FQ6OhFW0y01K749Tjgv3MmnFbFHKFicai4iQm/7pUoYIN5tbAzwPdfOEkYBQvD1F2H7HNJHWulWqi5MQhtS+1+MKF9b/MmJKlKxsYMFNfgdJ6jTgvIgvpeZOyWjcapBrEWGyC5SBYoOrjwX9GsiNkIGm5aNtIJv17BqI5oyr7VzZ1uM3//m0cucl7xlA4HI194bbyjeWT+NZATJhrkjfcfmxXookicZnlG9vH6KTLjcnshe7YARwpU7TKPX2yCfkU5g6EtxykNggmbx5RmktmJ6prd7kakx9sLovGqq7AzsduN7EZ3nqB75/DMY71kVhHSNPexfx2ZRJNyGI9uFMKYJhj3BrOHMV76DUr3mFkR1ncSdkwkBNfKkFPlPeQrA5o/R5boTxa9JoCd/Kl1PMqa7MegMQmDWsL75fP6S73fGuiG8PdSUJQT3vAVq7TCSZZ0vkBpvj5tgmTwSyjLnQLxL76coImlZ6uXOEbIJR1+g=;QEq42Q0B2kS2YBVOvwFqcQ=="
 ---

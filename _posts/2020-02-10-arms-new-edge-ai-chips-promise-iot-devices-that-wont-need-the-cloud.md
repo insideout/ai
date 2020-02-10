@@ -7,9 +7,9 @@ webUrl: "https://www.theverge.com/2020/2/10/21130800/arm-new-edge-ai-chips-proce
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/10/21130800/arm-new-edge-ai-chips-processing-npu-cortex-m55-u55-iot"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/10/21130800/arm-new-edge-ai-chips-processing-npu-cortex-m55-u55-iot"
 type: article
-quality: 104
-heat: -1
-published: false
+quality: 204
+heat: 264
+published: true
 
 provider:
   name: The Verge
@@ -45,19 +45,32 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/segars-2-e1580937121468.jpg?fit=1203%2C600&strip=all"
         width: 1203
         height: 600
-  - title: "Vision System for Machine Learning (ML) Edge Computing Applications"
-    excerpt: "The NXP i.MX 8M Plus features a dual camera image signal processor providing real-time processing for crystal clear images and a neural network accelerator delivering up to 2.3 TOPs for extensive machine learning capabilities. In combination with the new camera modules, the resulting vision system is suitable for intelligent, vision-based ..."
-    publishedDateTime: 2020-02-03T20:14:00Z
-    webUrl: "https://www.automationworld.com/products/product/21112764/basler-ag-vision-system-for-machine-learning-ml-edge-computing-applications"
+  - title: "Arm launches new AI chip for small devices and sensors"
+    excerpt: "Chips with this technology are scheduled to hit the market in 2021 and have been designed to carry out the advanced mathematics needed by artificial intelligence (AI) software in order to detect vibrations or pick out spoken keywords from a user."
+    publishedDateTime: 2020-02-10T17:15:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/02/arm-launches-new-ai-chip-for-small-devices-and-sensors/"
     type: article
     provider:
-      name: Automation World
-      domain: automationworld.com
+      name: IET
+      domain: theiet.org
     quality: 54
     images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2020/02/2001_np_Basler.5e387e91c4560.png?auto=format&fit=max&w=1200"
+      - url: "https://eandt.theiet.org/media/10578/arm-ai-chip-business.jpg?crop=0,0.385,0.0000000000000015158245029549,0.12281250000000059&cropmode=percentage&width=1200&height=450&rnd=132258279820000000"
         width: 1200
-        height: 800
+        height: 450
+  - title: "Arm Ltd to launch new AI chip for small devices"
+    excerpt: "Chips with the technology will hit the market in 2021 and aim to carry out the special kinds of math needed by artificial intelligence (AI) software that can detect vibrations or pick out spoken keywords from a user. The chips are designed to function with very low amounts of electricity. That allows devices such as sensors to last for years at ..."
+    publishedDateTime: 2020-02-10T20:16:00Z
+    webUrl: "https://www.itnews.com.au/news/arm-ltd-to-launch-new-ai-chip-for-small-devices-537779"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/ARM_ltd.PNG"
+        width: 955
+        height: 489
   - title: "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices"
     excerpt: "The microcontroller, the Cortex-M55, joins the company’s ubiquitous Cortex-M family of processor designs. Arm said the chip will provide more AI performance than any other product in the series. Cambridge, U.K.-based Arm doesn’t make any chips itself but rather sells blueprints under license to semiconductor manufacturers. The Cortex-M ..."
     publishedDateTime: 2020-02-10T14:21:00Z
@@ -84,16 +97,22 @@ related:
       - url: "https://aniportalimages.s3.amazonaws.com/media/details/technology-chips-micro-computer-embed-steel-royalty-free-thumbnail_1.jpg"
         width: 600
         height: 450
-  - title: "Arm unveils AI chip for small devices"
-    excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
-    publishedDateTime: 2020-02-10T14:53:00Z
-    webUrl: "https://seekingalpha.com/news/3540046-arm-unveils-ai-chip-for-small-devices"
+  - title: "Edgy: Arm's new AI processor can be strapped to Cortex-M CPUs for a boost to IoT workloads"
+    excerpt: "The initial deep-learning system can be written in any framework as long as it can be converted to run on TensorFlow Lite or PyTorch Mobile for the microNPU. These are both popular languages to process machine-learning workloads on edge devices, something Arm calls \"endpoint AI\", such as microcontrollers, cameras or sensors. \"Enabling AI ..."
+    publishedDateTime: 2020-02-10T14:10:00Z
+    webUrl: "https://www.theregister.co.uk/2020/02/10/arm_cortex_m_ai_accelerator/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/02/10/arm_cortex_m_ai_accelerator/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/10/arm_cortex_m_ai_accelerator/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
+      name: The Register
+      domain: theregister.co.uk
+    quality: 49
+    images:
+      - url: "https://regmedia.co.uk/2019/08/19/chip_shutterstock.jpg"
+        width: 648
+        height: 365
 
-secured: "jDLKUIShg/cSqJMzwys+w0bmFPI50WzkukvP4TVRMU+jENKr21tCbe9OEy64qXSelmUKdVYjlTTFX9NMylE8O1/LOZltYPd4uUH0HUWcUtBo0vhrrDxK1nLQ6SBnqb6yC4vlnrJi/I7SYceOPFOzQfUrn491Uq7G4d38wTiNfLNtBtgyPM6mjNv23KwP9uBV3LKV4luVbIMtkv2Z+ry/IB/cv8T3aKeLQqVUSamXMIDXLDrQarYI6dsHVo3j0Vc7+L1+io2omIkEjcXV7S8iVxPmqJvYft/8We3rphMtVy0s0QuTRjs0edzIEAgUB4AidId2sdT8q36Htfgmi/eF0Ur7lgakHEFj4+EGCIeNO7dYhzzra2bkwXvZQcX9cc6lhxAWBC4vLqsSBVsUimuTA3dCliM+C75/xmR09rNodK0uFcZriPsTCkiwgu1l708mWvzkZ9jHABQ6Mb+XaxID4I8H6CP2NHqo2OnGUO8o4U4=;LXVNxv0VWg5vaUbRVRvWyQ=="
+secured: "h5eI2oRKaQWEZjYTi6n46ruHwfhLOc/bQVukxNE4+rHEixvqlQ87OgklhpO2OehIJyeNMVRNqBnVh/aXYUpKuWaETIFgmC6SnMqc+7P8fd3xLwYhx6a3b0G9NVHgYxvmc1AgaAJ/Q8R+4rSxuseCqUVxECF+jTVmn4L70jaHicT+G8smLbY5E/c62eYE7QeCgdPxRgHrY9toOqEbL2rP+WXczw8rLmmxFjviGRIDNNy6H2WRFcJ0acspN+FY2zy1sctfEMlTdw5wuOuCobnO5fpGDvazDZf/83OQa4AtHDixo6pjvGXiujOmhRjbCPOyUTiTfHka9WCiSVJemK14v1DrOy8GcUT4ahhG0QHEbCgnRX5TfkgncFvY9EzRDiMrbhZXD5tDDtQB/7rKv/NddJoj/age/2Pt0Kv1FGvln9HrAMmjo8prOQ6J5VnGUJKncsPs1dPVE+M2M8zq2OCl0MQKqabKLSglkb1adbFxlWS6FDMilwXZ0/l0Ckyl52DE;QQiMo7+bQ1XY5PmESZxKoQ=="
 ---
 

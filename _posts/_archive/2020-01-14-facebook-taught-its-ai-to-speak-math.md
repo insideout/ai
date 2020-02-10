@@ -4,10 +4,12 @@ title: "Facebook taught its AI to speak math"
 excerpt: "My numerical idiocy aside, Facebook has trained an AI to solve ... Essentially the research team taught the AI to unpack mathematical equations much in the same way that we do for complex phrases ..."
 publishedDateTime: 2020-01-14T17:16:00Z
 webUrl: "https://www.engadget.com/2020/01/14/facebook-taught-its-ai-to-speak-math/"
+ampWebUrl: "https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Engadget
@@ -21,6 +23,12 @@ topics:
   - AI
   - Facebook AI
 
-secured: "E0a0cMEoE9lJJQu1BDSRtszDkCGTlK7whRvl39HWaK32G3XFn770HBOa06a6Cv0F3WQR8ZkIq22VzlATuRQJTQl4SXs53OxFUSGElBFuaboDPxo1DdcFCcL9++NshNNvxUNtrUQLbNxU+Nu98y8bAIpXwk9TZIwXisi7jDk/aN8JZinHbBzA892gQYtcxL/gVmuZwBgIL2jvZmkyS5U5Zghq7ja7ySVzzNHr19NMgZT71pTNYRNzw3NXoGfYvLyJjVeI5X6NWXJXN2DZn25mSvhQgODtXVJojlvBx6OtAxT4R9Dg2kzo6d1B+jLPen8T;Y42PWaLDfQXeF8yixuYkpw=="
+images:
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7952%252C5304%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252Fa6df90d0-fc30-11e9-bf3d-41e8fa5d6f01%26client%3Da1acac3e1b3290917d92%26signature%3Df51c7486a6dd8080945bf5ef5ac7482111cf2c46&client=amp-blogside-v2&signature=7c28bf857a46eba7eeca3ef58ca21d26e24a1234"
+    width: 600
+    height: 350
+    title: "Facebook taught its AI to speak math"
+
+secured: "6n0/K/10hF0PnMWIvqsimjrNpg0PY9iZ3D0muWiDM91UQQq6WIhHtWYdYBBpr/AJQAJk++z3M3UHsugIW+hucgkUQN+O00IKafGYgoA5z+hUHjsVsGHOwTlkoXzqG4eJu76dUxN6sJWP0e7BLW5oIceNSMk20oIFoxsqsogD4ioZMZm+Ly0KU3XyXtf1fRRHsPKSBszS7OT/bTECJ8eX4oAf2A1ctLV667jHnygUdIB/m5hVcH6oBk9twuHdD9nhlWLBhcEtMuJoZ8wl7Bf/H2FXdfcVGrVllNhKVCibba9TsYQY43WCFuwZWB3Wt1Eq;1InBXBC+mdLDSeNsVYeo+A=="
 ---
 

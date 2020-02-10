@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T05:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
 type: article
 quality: 54
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
+    excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
+    publishedDateTime: 2020-02-10T20:50:00Z
+    webUrl: "https://apnews.com/Wired Release/e55c43f30b343441bc07f67fa9cdb516"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
   - title: "Speech and voice recognition tech market to soar to ₹210 crore by end of 2020"
     excerpt: "The market for speech and voice recognition is set to grow to 40.47 per cent to reach ₹210.63 crore by end of 2020, states a new study. The market was ₹149.95 crore as of December 2019. The emergence of voice technology has been brought on by the rapid ..."
     publishedDateTime: 2020-02-05T15:46:00Z

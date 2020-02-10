@@ -41,6 +41,21 @@ related:
       - url: "https://i.insider.com/5e3b13600ce3d1277b0b323b?width=1200&format=jpeg"
         width: 800
         height: 400
+  - title: "China is betting on slow but steady to win the self-driving car race"
+    excerpt: "Just don’t expect that revolution to come quickly. In the United States, individual states are taking the lead in deciding how self-driving cars will be rolled out in their communities ..."
+    publishedDateTime: 2020-02-10T20:43:00Z
+    webUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/"
+    ampWebUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 74
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2019/08/WeRide-2019-e1565581419367.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 788
   - title: "Apple and Its Rivals Have Spent $16 Billion on Self-Driving Cars"
     excerpt: "The report outlines the estimated spending by the top 11 companies working on self-driving vehicles, which is topped out by Alphabet’s Waymo, GM’s Cruise, and Uber, which The Information estimates have spent about half of the money being invested in developing the new technologies, while Apple, Baidu, Ford, and Toyota account for “most of ..."
     publishedDateTime: 2020-02-05T17:42:00Z

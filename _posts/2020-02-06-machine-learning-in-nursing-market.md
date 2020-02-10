@@ -27,11 +27,50 @@ related:
     provider:
       name: Medium
       domain: medium.com
-    quality: 54
+    quality: 71
     images:
       - url: "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png"
         width: 1200
         height: 672
+  - title: "Artificial Intelligence and the Future of Sales and Marketing"
+    excerpt: "Artificial intelligence (AI) has the potential to significantly improve businesses’ sales and marketing efforts, and thus their fortunes overall. In fact, it may be hard for companies to move forward without it. Two-thirds of the 615 respondents to a recent survey from Harvard Business Review Analytic Services agree that AI in marketing and ..."
+    publishedDateTime: 2020-02-07T09:43:00Z
+    webUrl: "https://hbr.org/sponsored/2020/02/artificial-intelligence-and-the-future-of-sales-and-marketing"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2010/05/HBRAS_research_paper.png"
+        width: 1200
+        height: 675
+  - title: "Fugro wins ISFOG 2020 machine-learning competition"
+    excerpt: "A team of Fugro employees has won a global competition in geotechnical machine-learning. Competing with 60 other teams from industry and academia around the world, the Fugro team came first in the pile-driving prediction event organised as part of the International Symposium on Frontiers in Offshore Geotechnics (ISFOG) 2020 conference ..."
+    publishedDateTime: 2020-02-06T14:06:00Z
+    webUrl: "https://www.directionsmag.com/pressrelease/9527"
+    type: article
+    provider:
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 24
+    images:
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/February/6/7/39d7ac5e-f4b5-445a-b757-4205f399e7a7-sized"
+        width: 800
+        height: 600
+  - title: "Machine-Learning Studies on Spin Models"
+    excerpt: "With the recent developments in machine learning, Carrasquilla and Melko have proposed a paradigm that is complementary to the conventional approach for the study of spin models. As an alternative to investigating the thermal average of macroscopic physical quantities, they have used the spin configurations for the classification of the ..."
+    publishedDateTime: 2020-02-07T18:26:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-58263-5"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58263-5/MediaObjects/41598_2020_58263_Fig1_HTML.png"
+        width: 685
+        height: 647
 
 secured: "lvJhrQa0CW+qrX32UX14gHe1GLpSG0WXKhc0JcFE+sk9YnuWjedA0ObxN+lYTGToho1dQJwZ/UsJnHSnW/u5Wf4487+kGIBfPp9s3zO3V1+hocBm9W9EeQQ5JKtn1dhxtNt+dScyJUoP7HbsN//wyOt3Z6kOfYud8BFoMqJc2VfD3YuercsNeh6CdJzNCpsBxgsUMTeCjVjqSh26lTnc9V2otrNP0xR4s1h3owCWx03er4AeEP6OSKOdPSJ2ACUSDtRDxm2+ja5IYo9+hs1DPxaXqBj2nPSTfc96YZdjVATlvx0a+idRbo4KyOcFRvQp;aEZND8L2b2c0Jwjo8+ZetQ=="
 ---

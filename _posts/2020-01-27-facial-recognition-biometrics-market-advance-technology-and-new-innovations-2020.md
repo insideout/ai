@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-27T05:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020-2020-01-27"
 type: article
 quality: 64
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Telecommunication Market : Advance Technology Research and Innovation in Technology"
-    excerpt: "Artificial intelligence (AI) is group of methodology that focus on formation of intelligent machines with the help of human intelligence such as visual perception, speech recognition, decision-making,"
-    publishedDateTime: 2020-01-27T03:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-advance-technology-research-and-innovation-in-technology-2020-01-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

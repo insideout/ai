@@ -188,6 +188,19 @@ related:
       - url: "https://media-cdn.wehco.com/img/photos/2020/02/07/cdoughertycolumn24539147173_t1070_h10763943e31ed1ed1283106f30b9da2ac5376c82.jpg"
         width: 1070
         height: 721
+  - title: "Influence marketing’s problems can be solved with a machine-learning solution"
+    excerpt: "But the rapid growth of this channel (in little over 10 years) has brought with it significant debate on its effectiveness and ethics. And those criticisms warrant the introduction of machine learning. Criticisms levelled at the industry and individual influencers have included: a lack of transparency of the effectiveness of influencers ..."
+    publishedDateTime: 2020-02-10T20:08:00Z
+    webUrl: "https://mumbrella.com.au/influence-marketings-problems-can-be-solved-with-a-machine-learning-solution-616382"
+    type: article
+    provider:
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 21
+    images:
+      - url: "https://mumbrella.com.au/wp-content/uploads/2019/05/iStock-917159056.jpg"
+        width: 1254
+        height: 836
   - title: "Optimized AI-enabled machine vision is getting widely used in manufacturing processes to boost production efficiency"
     excerpt: "According to Hsu, neural networks carrying out deep learning algorithms are very complex. On top of that, the different AI accelerators designed by leading chip makers, including Google's TPU and NVIDIA's GPU as well as Intel's and AMD's AI processors, may deliver different performances on the same neural network due to their individual ..."
     publishedDateTime: 2020-02-05T02:19:00Z
@@ -202,6 +215,6 @@ related:
         width: 336
         height: 224
 
-secured: "nqs6cxN39+uxVVLxtfr9z+uMAepbSJx7ugzPhZ6UlPsE9sU5iOYqwUd44APlRTNml2y6Xqr9RNc69itHzyTcluHzaLPFTwI4g5KXNVNqJsJMLANlJvoPk7oEspKgvYBODK9/ln9YO4+NbaJdOE7Xh/BiP8c4GMb8aB5IzC+Z3qBO+1i8w9buyR8sEPLZ/FTCzApHfC/Axusd4333dpfHdgVulunvLupyZvKybMrP3ketSi6JtQcWwpODDXXuXlOEsl98EpXqEOqAfigIuSWBqbbeT5FKTMsAgsqwqSFEA7XYRJQSSreWEecFUAxyPgrN;XtA4e0aQ0whCl+pZ5ctUHQ=="
+secured: "B+uJEjgxuY83AzcQq56RqwR9IMSsZlPBchYGaL7BHvMkAGj2c/fweAseNzr0etcpi8NErscgKBu2ctd1hBGsEpXYSLay3zfWnxr+EOCo8jZBOUFlap0jk243TBehIaMhPEaxJV3CrL0uX6tiJxlLH3q2higCCs6sKmEoY44kwEaP43eIU2ErXPzwI6TtS5qRAYy4MWm1UpV3V85CCmZ0NPCgVc2HOduT3x5DPWJjow5RbBts9rfurgrT/p8g4t/TiQDQRXN+a1PpH2FkX/OJsR8M06RkHTQoULhezBZ7KOk++kLZWr50TWnWbjuBQGmga4LSlNwcJfNKydQ9VP3WCxVVm3bM34o4P9PhOCFVgKejTh8VFeiv5Xuf/yI425PkltgPFjza2KhyaSQ89+IcUGAydSGR+Tv7NpHbHZmO6qZzddTpchPLqT7eJ/4YzeU3IgM6A19qcyniAQfkdnFQTlDpJr2/KOBfiBfRWkuhROs=;AThbUPy8LUDBUZ5n00cwUw=="
 ---
 

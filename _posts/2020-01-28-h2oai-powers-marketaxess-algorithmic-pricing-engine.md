@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T08:40:00Z
 webUrl: "https://ibsintelligence.com/ibs-journal/ibs-news/h2o-ai-powers-marketaxess-algorithmic-pricing-engine/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,22 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://mms.businesswire.com/media/20200126005001/en/767274/23/logo.jpg"
+        width: 1200
+        height: 627
+  - title: "Itiviti Partners With AI Innovator Imandra to Integrate Machine Learning Into Client Onboarding and Testing Tools"
+    excerpt: "NEW YORK, Jan. 30, 2020 /PRNewswire/ -- Itiviti, a leading technology, and service provider to financial institutions worldwide, has signed an exclusive partnership agreement with Imandra Inc., the AI pioneer behind the Imandra automated reasoning engine."
+    publishedDateTime: 2020-01-30T07:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/n15215015/itiviti-partners-with-ai-innovator-imandra-to-integrate-machine-learning-into-client-onboarding-an"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15215015"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15215015"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
 
 secured: "Rx8lcGCtLgw3geShWQfD2bMjO0iIU5FYRFRgVrjdtzREN0Wt6rsU6c4V1r49QGAw2aZ9DmX6UEEwZ3VJDVLUUSW0K7hTHNKMeFIJ4vX+FgVT17+iok423o3Fb8yljICPgQBjUMiXPd9V9JkoTNOIIMIw2EI/Hbuh0e+FrE69K/dBkVzAXCjcy9xJpWqUoNdduv8pQJXEFOAVqun5HUJyoGAkXBOgYlMM9uOIrica4P3Qm02zxlT1zuig1muN0TL0cSniuX+PrOswSAkLW4DvAihu7E7kWbMvhwzn63p1McheQYJKJ9Sy9OvlcEmdqxrSMDRWR4I93Hra7wJ+maC60xxG/K6q/9xNeJCPbeySan3B1QIGuHTTDbj1q0eJuyov3tEJJzxsPrjGk5lU58hhnIm2dBNpiNya5Xcx54at9XpoxfWtZLk0YC7CpDuyFwV8cxqUYBJTBGMj+8zLN6165nhrUVY6JA73gnztLVQdSHo=;y+cFPbpHxr/gEOT6sg39Sg=="
 ---

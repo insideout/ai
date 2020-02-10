@@ -53,9 +53,9 @@ related:
   - title: "Facebook Looks Beyond GPS, Ties With Startup That Uses AI Vision For Location"
     excerpt: "Facebook co-founder and CEO Mark Zuckerberg (File Photo). San Francisco: Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority ..."
     publishedDateTime: 2020-02-09T12:49:00Z
-    webUrl: "https://www.india.com/news/india/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/"
-    ampWebUrl: "https://www.india.com/news/india/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
+    webUrl: "https://www.india.com/technology/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/"
+    ampWebUrl: "https://www.india.com/technology/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
     type: article
     provider:
       name: India.com

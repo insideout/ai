@@ -25,6 +25,6 @@ images:
     height: 292
     title: "Enterprise hits and misses - quantum gets real, Koch buys Infor, and Shadow's failed app gets lit up"
 
-secured: "S9ijjfKicXJFIf0EQHF7xK++tPjwzwO27QPc+wyeAkvAox8AfiO8nStuXSaTvlLyUkSPO9VsMVHrqQSQbHtyBRn9ce+OPYubYFfZ1NSPQuCFNnWoLRARIzwlrBOVwWL5yspo7Pa21+D3jvK8UanwemPLGVKXTghdrwmhImrstCDO+hn3dohVHyzWZPPO5jZBBNcQCIIV3TfkXPQl0hU6W3RBvudIAchdoYgYhRN/g58NrNRJwR0a1LQNoKCjVfM9bvbLhESddaK3pHLYSmBMm1urChMVmNiMUKqO1ujW5+1+YzaBG3nQCFeO2cUoHXar;T76dPUFpgIRzzcHo7NWrYg=="
+secured: "cbxoRHYMOMTMssN4zfjf0EaTmEeynVd2M62hO/v/i59aCqcRXB+BiK10WGhtTqu2kkyMCIChbFF77ZZVsVci6ZwC17vDVL6aH+5oZvRU27GfhdSR0ExPTgRQhfi57HDUxhB0EbHv9XdHumSwWlL2JOAsTKPKfYIaksifAn4wbdVWK5m/yk6Y0fBdxg08W4KmdZlZiMT10IZejDsxr/ALkTWOZTvWBjJniXofhPBaoIJZjhk7zdbnCaRDgbtj+S1RbpI+LKVPIQDQVSykt5Iqvg8jMIFWS+uEH7rLW7rA68nyBWel9WcBapuSGTfFxyRk2zI2FfQ+gGhy6kfJQUhwwcOpmAEVFRSLjfIYzQvtHYkDUxrTY2jGJdZxSOTdpAFDuOhQwjRaCIYAM9pDhL3jJXLFy3At9RcOBODUJA+b9omTyceZXKQC187RlMYR/tWUiTpInCQYI+Ay6BNVPzdfZ+6A/jJuQzM56vvfLgOsMXU=;9y+VSyzzjC0zUSwTwAJ0LA=="
 ---
 

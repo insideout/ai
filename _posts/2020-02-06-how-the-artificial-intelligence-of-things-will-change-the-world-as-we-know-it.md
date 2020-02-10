@@ -61,15 +61,6 @@ related:
       - url: "https://www.standardmedia.co.ke/images/saturday/how_artificial_intel5e3593e117b93.jpg"
         width: 800
         height: 500
-  - title: "How AI Will Change The Way We Work In 2020"
-    excerpt: "If there is one technology that has become the buzzword of this decade, it would be artificial intelligence (AI). In the beginning of 2010s, consumer natural-language processing (NLP) allowed us to talk to our phones and control smart home appliances reliably. At the time, a lot of people expected NLP to explode in other domains, but it never ..."
-    publishedDateTime: 2020-01-27T03:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/345535"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
   - title: "How Augmented Intelligence Will Change the Face of AI Adoption in 2020?"
     excerpt: "When it comes to leadership, the new challenge for CIOs adopting AI technologies comes down to one thing: ethics. It has now become paramount that CIOs know what uses of AI could cause problems – whether bad, biased or unethical – and what they can do to make sure their business remains on the right side. In 2020, the industry will see CIOs ..."
     publishedDateTime: 2020-01-30T06:40:00Z

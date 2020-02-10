@@ -314,51 +314,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-27-apples-self-driving-car-system-could-use-voice-gesture-guidance.md",
-      "title": "Apple's self-driving car system could use voice, gesture guidance",
-      "excerpt": "Interacting with a future self-driving car could be a lot like working with some future interpretation of Apple iOS with voice, gesture and touch-enabled commands at your disposal. It's the overarching view gathered after reading through an Apple patent application filed last August and published last week for a self-driving car voice and ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/apple-self-driving-car-system-voice-gesture-guidance/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/",
-      "publishedDateTime": "2020-01-27T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Apple's self-driving car system could use voice, gesture guidance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-01-27-berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups.md",
       "title": "Berlin venture studio Merantix raises $27M fund to concentrate on AI startups",
       "excerpt": "Berlin-based Merantix, a venture studio which specifically concentrates on building ‘AI companies’, says it has raised a new €25M fund ($27M). Anchor investors include Trusted Insight, the Robert Wood Johnson Foundation, the W.K. Kellogg Foundation, as well as further family offices from Europe. Co-founder Adrian Locher said in a ...",
@@ -540,7 +495,7 @@
       "path": "_posts/2020-01-27-facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020.md",
       "title": "Facial Recognition Biometrics Market Advance Technology and New Innovations 2020",
       "excerpt": "Global Facial Recognition Biometrics Market Research Report 2020 provides key analysis on the market status of the Facial Recognition Biometrics manufacturers with market size, growth, share, trends as well as industry cost structure.",
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020-2020-01-27",
@@ -2171,6 +2126,50 @@
         "AI",
         "IBM AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-28-launch-your-product-at-transform-2020-the-ai-event-for-enterprise-decision-makers.md",
+      "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
+      "excerpt": "VentureBeat’s Tech Showcase is back at Transform 2020: Accelerating your business with AI, July 15-16 in San Francisco. We’re on the lookout for disruptive AI companies of all sizes that are ready to present their tech on the main stage. Those selected to present will do so in front of hundreds of industry decision makers. Every presenter ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/",
+      "publishedDateTime": "2020-01-28T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/ShowcasePic-1.jpg?fit=2000%2C925&strip=all",
+          "width": 2000,
+          "height": 925,
+          "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

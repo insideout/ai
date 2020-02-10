@@ -67,15 +67,6 @@ related:
       - url: "https://www.standardmedia.co.ke/images/saturday/how_artificial_intel5e3593e117b93.jpg"
         width: 800
         height: 500
-  - title: "How AI Will Change The Way We Work In 2020"
-    excerpt: "If there is one technology that has become the buzzword of this decade, it would be artificial intelligence (AI). In the beginning of 2010s, consumer natural-language processing (NLP) allowed us to talk to our phones and control smart home appliances reliably. At the time, a lot of people expected NLP to explode in other domains, but it never ..."
-    publishedDateTime: 2020-01-27T03:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/345535"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
   - title: "How far will Artificial Intelligence go?"
     excerpt: "It’s not going to happen. Why should it? As Roger Schank notes in his article on “Artificial Intelligence” in the book, “This Idea Must Die”: “You’ll never have a friendly household robot with whom you can have deep, meaningful conversations.” We already have humans we can relate to who are far more complex than any computer."
     publishedDateTime: 2020-02-08T08:30:00Z

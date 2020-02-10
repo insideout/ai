@@ -201,6 +201,19 @@ related:
       - url: "https://media-cdn.wehco.com/img/photos/2020/02/07/cdoughertycolumn24539147173_t1070_h10763943e31ed1ed1283106f30b9da2ac5376c82.jpg"
         width: 1070
         height: 721
+  - title: "Influence marketing’s problems can be solved with a machine-learning solution"
+    excerpt: "But the rapid growth of this channel (in little over 10 years) has brought with it significant debate on its effectiveness and ethics. And those criticisms warrant the introduction of machine learning. Criticisms levelled at the industry and individual influencers have included: a lack of transparency of the effectiveness of influencers ..."
+    publishedDateTime: 2020-02-10T20:08:00Z
+    webUrl: "https://mumbrella.com.au/influence-marketings-problems-can-be-solved-with-a-machine-learning-solution-616382"
+    type: article
+    provider:
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 21
+    images:
+      - url: "https://mumbrella.com.au/wp-content/uploads/2019/05/iStock-917159056.jpg"
+        width: 1254
+        height: 836
 
 secured: "wPD8ob+696YUoVuUxGNNDKwYCS5Z0zjKy/CF1L0QvxbzMwVTVuiXhmtzuARHY7GsXzQRtIY6YnTAoK6jjHC6Uh0ugQaZ63hRLUbLcvYtm7le1bw/wiwPydrym+aMe+7uRR+f/X13uToURHAx0ukwzpQxmwU17Ghp2h6UMk1mC8Cr3MyTcLh9yQqtg3w9FVedToK75/RY5/LEmnL6i8lVQU+EwQO80xGpuW2Wy6WJ19fS6Bbv9EZVV2GjE+6xSGFpuQOSCTR7hcOLU14zh2mOvQ+1Tr5FVADLBX+va/KzW2TnhE8fIvtmn6/YJdW8Ip3cbUs3iEmh1V3p24vFPKE2WjfPl/Kud9vcNkUGJaf6uBzYEph3iU+IYqPmGDH02RGRJmew6wFa1/3YzlEqH7hWbfaaLeb/DDR3sE+2YehvOfNjC6YDufqVmNg6uxIXHVQCMs0Fy+TUR4NM1hYA7Aa0GBm3nAeqkj9LQaGORqH2xsE=;s3WAkO2/bdFYvOZwMHF6SA=="
 ---

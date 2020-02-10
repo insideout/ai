@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/waymo-self-driving-car-workers-compl
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits"
 
 related:
+  - title: "China is betting on slow but steady to win the self-driving car race"
+    excerpt: "Just don’t expect that revolution to come quickly. In the United States, individual states are taking the lead in deciding how self-driving cars will be rolled out in their communities ..."
+    publishedDateTime: 2020-02-10T20:43:00Z
+    webUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/"
+    ampWebUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 74
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2019/08/WeRide-2019-e1565581419367.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 788
   - title: "Dubai prepares to roll out self-driving vehicles"
     excerpt: "Over the last few years we’ve seen plenty of progress being made with autonomous cars, self-driving vehicles and even pilotless air taxis. Now, Dubai’s RTA has taken another step towards getting the initiative off the ground. As we move another step closer, the Roads and Transport Authority (RTA) has revealed a new set of rules over ..."
     publishedDateTime: 2020-02-04T12:16:00Z

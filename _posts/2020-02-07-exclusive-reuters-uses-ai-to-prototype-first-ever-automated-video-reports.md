@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/simonchandler/2020/02/07/reuters-uses-ai-t
 ampWebUrl: "https://www.forbes.com/sites/simonchandler/2020/02/07/reuters-uses-ai-to-prototype-first-ever-automated-video-reports/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/02/07/reuters-uses-ai-to-prototype-first-ever-automated-video-reports/amp/"
 type: article
-quality: 85
-heat: 85
+quality: 185
+heat: 185
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Exclusive: Reuters Uses AI To Prototype First Ever Automated Video Reports"
 
-secured: "hmIngaQtAa2Mk3LxeUpBLJ4gqdf/B5quv5FwhBihsFbuXdkEHw1Ot0c3erloWCh6BzT6nQUlXitLL8Z+zcanZB9uccb+EmqE96DLNZn4SkrUkrstEAfDdVaekihe5xOallhbG1VHw+LqqiZe8/ZUoedO0w5rLKNywDNsvYOC/xM/Xh53kI7mT1eEUfRMqCKbA0SIvr8D59nkXQnSbeTixrAB8ksRi4rglLlBHkUfmqaUiH7N9rzFtLF7W7giH/bDxWWwD8HiLMM55IVNtoV9XqeFrZMMpcaHGb66YZJpj/VY4Y80Zz1FqLjFL81GF980cUNjQ3kJIw71/aovffeENj8skdVEwr0V85dlOHQw69EhE5FXBh2wI8jF9ptXcbg94+f8ZEpYzoeJzZQkLIBXOKDkECTdUXkDtkwlvgavy12rDRcjImmpchtbTBhzhrapPO4bk7lvUHfb0QmSYkRE7AyjL3VzF6AlQmYYziKTGDg=;j64SH5f3zyWxzQybYO7XUA=="
+secured: "EP5pI+rhFR+KKpRVT/UtsIkxHRHYHhNZNqP2tLSCGg9DGDcMScvlA9ehU8fuGoPVdPBm8TKQXDHZdSWNAI0gwdudvRBqmtuewCjExNbXXzpvuRAK5D/o8KOlowkFNjUYQad9mFTSXOJjgPHjC3WwJvvQLbYPMSlu8PTufOni7DY9pdb6tXIUQ8hFinekdFo/NapD8C4Pa75S7LGz9oIhFva0/n0lFyVDt0GtBcbQm4ymQjlxayEKuFuh6AfSkIKSMjB44Fbzku3MEtTsucIB3OeyyNhlLGW4DAmr8OP6Rof9Rz6BxlZphlls1JYwb1iMl/Cxe5TtiXLJyoL9MUxhAsS7utpuXdXQQ7A7i2RnPIeSRCkol6tTHSVhmLCuWNE549sPbTyoCeKATTCRSewEcLn2quDxbvSVszIXXmMM2R0GB6UfAK4jUrctYPqPHCYjDFq2gACWdqg2LCUKb2xDv+F5CaEUTt1gm9HuS/yTe9uP/nEB+cfoT9g4Id3yclzh;sGUTIUmZx4cXZjDb0NFsXw=="
 ---
 

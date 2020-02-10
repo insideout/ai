@@ -188,6 +188,19 @@ related:
       - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
         width: 1200
         height: 630
+  - title: "Influence marketing’s problems can be solved with a machine-learning solution"
+    excerpt: "But the rapid growth of this channel (in little over 10 years) has brought with it significant debate on its effectiveness and ethics. And those criticisms warrant the introduction of machine learning. Criticisms levelled at the industry and individual influencers have included: a lack of transparency of the effectiveness of influencers ..."
+    publishedDateTime: 2020-02-10T20:08:00Z
+    webUrl: "https://mumbrella.com.au/influence-marketings-problems-can-be-solved-with-a-machine-learning-solution-616382"
+    type: article
+    provider:
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 21
+    images:
+      - url: "https://mumbrella.com.au/wp-content/uploads/2019/05/iStock-917159056.jpg"
+        width: 1254
+        height: 836
   - title: "Optimized AI-enabled machine vision is getting widely used in manufacturing processes to boost production efficiency"
     excerpt: "According to Hsu, neural networks carrying out deep learning algorithms are very complex. On top of that, the different AI accelerators designed by leading chip makers, including Google's TPU and NVIDIA's GPU as well as Intel's and AMD's AI processors, may deliver different performances on the same neural network due to their individual ..."
     publishedDateTime: 2020-02-05T02:19:00Z

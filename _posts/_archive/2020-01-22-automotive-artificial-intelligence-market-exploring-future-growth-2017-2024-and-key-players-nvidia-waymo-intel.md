@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T10:53:00Z
 webUrl: "https://www.reseller.co.nz/mediareleases/37810/automotive-artificial-intelligence-market/"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -18,16 +18,16 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
-    excerpt: "Jan 17, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI ... practices can be used for alerts & reminder, diagnostic, therapy planning, information retrieval, and image interpretation."
-    publishedDateTime: 2020-01-17T04:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17"
+  - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
+    excerpt: "NVIDIA Corporation, Waymo, Intel Corporation ... are some of the key players operating in the global automotive artificial intelligence market."
+    publishedDateTime: 2020-01-20T09:52:00Z
+    webUrl: "https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "FelR+J3zkQQLrkfHTIjq5Dr+Kget7IcTdasPCsxsfqWvQc3vbH08bZq7rwpXNC2tIuTFmpTd7FUlM8qgGYAUMwmUU0n2aba74DviiIZbI2ja9f2aO/cMj/VOd8GXXaPMl6lSgQZY3XbkXtED9QXeJ/ks7mJZgFbf/MtJjYBCj1UdpEKyp2GbjB8LMJlhxJfhaXBASU2EYf1DJF1YtDhEwm4EGb6OO8iHu6Z98hx4uChrffAHSI+TPI8ixKOWJqF4gG1DeFTnF1EIr0jsQHQq5Zwir6GdY+x4iqo7QkkRkSw4OA8v1GH7FClcBEZDsVyr;HvmQ7ZcviW0ySnlpwtchpg=="
+secured: "FfJFbmBpU4lZ8IZPuDdrjGzNHldeYy5348FKmezds+7LA9v7qXlHHw58jQepssmWqAzynrU6cJY2a/W0OwEe9mkn55ybibu5vsg1OF/cJ2JiXukcDAd/mn48YiN4dhFyR/V92jKRKTsaya7EWeFmcxya7C9aAyMo0t2ilxhNrP3Bj7CumrO7adzK4ohJ0cSiaavJ2X7pQIA2b8h5gM4lrKIfksDifnOP89DZtuWDtU6UYKELawT0mXDkbYmTVlZJD4CxgSmW+2t3P1qmYKMiOrCZKkf3MEkC/3R/F1BpL/qkVNSZyuI3pjVDE/5SVR1t;Asv6E1YredHONZaFp2HN/g=="
 ---
 

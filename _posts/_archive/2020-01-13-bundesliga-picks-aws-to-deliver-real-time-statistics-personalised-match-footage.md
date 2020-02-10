@@ -22,12 +22,14 @@ related:
     excerpt: "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ..."
     publishedDateTime: 2020-01-14T14:43:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/germany-s-bundesliga-to-use-amazon-web-services-artificial-intelligence-1028816437"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 63
+    quality: 83
 
-secured: "+7W3RAqtt6XLvhG6lXqHr2mt5Dc7Xn/s5F+bTqh89lN97j1LrFmSaMXGHHHqpB7s64m5CBIu+qZY7HjR9UMeLyW1xnH+YPrihjGgvKytumy8//EODolzrOBFLBKUXztHAoRUp9SH/gEVLJilZjPTnyFdhAdS9g+gWq4lroZX/rCTVbh22UvZdpAkxxeVTPj9japB8Jcbnh8dDFMWRqUh59EAJzuFEWxdrYH37N2eXibbRzeKd55FBZYeKv+sJulz4H17YGKdSrTpSJ3V/5iOMx3gdDHEzWiFA4iIfBNOeE9kQx7ExmswaU65yEOvs+bA;yRAAEHSsy0aU7TMhkbduWQ=="
+secured: "Cp0emGDjXmpRrVZBCD5pjI2xqyiSHEOEWbS4iIYwnxumGa+qkpeL/0xD46OtVaVHC7IhfMzpVaaswMHdevDjmQpAEf0TTf91167zLa9Vx38StCzVWYpZnHdncRtk44Fk47uqEUG5Qn+JAPpNcCeKTyiEjVslZu5UrS0Rq14ch+qw24R/CvtYT9mg7UuOv2BYuCJOz7EaA6pFYNjy+1O9j25diBjREl/vWBABIXDAkeuj3nhmf3jGlWJogZnJBLocjXssmj6t/AuSfGV2IAeJu5BgTR46vZ6YNGb2qUq1QgwEZXsCTQcktt+QIjq8ryuM;cEf/H3xQpMOA7viXD2C61g=="
 ---
 

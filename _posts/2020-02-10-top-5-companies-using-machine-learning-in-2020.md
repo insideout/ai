@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T18:43:00Z
 webUrl: "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9"
 type: article
 quality: 71
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -81,32 +81,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Fugro wins ISFOG 2020 machine-learning competition"
-    excerpt: "A team of Fugro employees has won a global competition in geotechnical machine-learning. Competing with 60 other teams from industry and academia around the world, the Fugro team came first in the pile-driving prediction event organised as part of the International Symposium on Frontiers in Offshore Geotechnics (ISFOG) 2020 conference ..."
-    publishedDateTime: 2020-02-06T14:06:00Z
-    webUrl: "https://www.directionsmag.com/pressrelease/9527"
-    type: article
-    provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 24
-    images:
-      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/February/6/7/39d7ac5e-f4b5-445a-b757-4205f399e7a7-sized"
-        width: 800
-        height: 600
-  - title: "Machine-Learning Studies on Spin Models"
-    excerpt: "With the recent developments in machine learning, Carrasquilla and Melko have proposed a paradigm that is complementary to the conventional approach for the study of spin models. As an alternative to investigating the thermal average of macroscopic physical quantities, they have used the spin configurations for the classification of the ..."
-    publishedDateTime: 2020-02-07T18:26:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-58263-5"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58263-5/MediaObjects/41598_2020_58263_Fig1_HTML.png"
-        width: 685
-        height: 647
   - title: "Growing Optimism in Emerging Markets, Fintech Company CGTRADE Expands Its Business in Asia Pacific"
     excerpt: "This includes United States fintech investment advisory company CGQuant and its subsidiary CGTrade. CGTrade has set up operation centres across Asia Pacific regions including Malaysia, Singapore, Taiwan, Hong Kong. The company, utilizing powerful internal and external resources of CGQuant including AI big data algorithms, provides top-level ..."
     publishedDateTime: 2020-02-05T11:20:00Z
@@ -121,6 +95,6 @@ related:
         width: 1760
         height: 786
 
-secured: "i9Bft7o0feNz1oNUdt0bvMEKKxuaDMPWqJgizNUV9CEP9RHefnNChdYn5Wi1t+e5zGAHKScqQdZLpkCj7fsG8dcLY2k+VkoSC0qDNhDqxri/91dE4s/WRTt26H789QuAiuUmfpaDk9BsQwel5HcgPK3gAif4TpKuU7Z3mcQ8TIf3ljhoi3MaRj+D37CyjEwb3LmQbltRSDaqws4yd1o2M/S0G9j9QmdMMi8Szz71vsbwnW2bIr6tVT6Ba3/n/2gzEnpHaeeOxEtJzHNp8KAwNtlCZ8IcWG7z8mjRdNt9IzfuYxclQXwzbCzSHaM3vXv+;HayvR68wTQnXY7PtDVvALg=="
+secured: "4WDbfdXPWGzFS+WazpKWs9o4Pcy/hTsf7cdKoD8wKeGsOZhzTAlEnORTLIEfUMqmkYXhv8Zu8n8kbU8Qmj+PggdrduySQ0nE/eOozfa5KtopU6WdJNOTsgMddm4G9WfHu8vHDTJvgtfH7WdpvTOGXVnU4olG3T+Og5THbrkabCk56o+RiE2fwcUZ5jg4e13Y/Dpct9nvO3iDfzSUzM0j+sC+shaUpVhx5DW3M1sM6+tvu18T0uyM+G/Rxg3fI5KMI1OpyHg5PVwl2Y5FEtGRdTxm4jbtwil0HErzdAAacR+jqYWGosy/EeSu7YGJQJ2Q2qpzvnjV9lyTkMy49gaQh+SGJ3QCRL67mKHEfDady1Abc7HStE7rkgwIgQjXLamSqGugS53bGZ8t8i6J1bF2zYIO4D6HfFZpu6eGQm7KLV2bbnW1K4GgmC7IX+7aybDIK/yhNGSLjpHGA7R/hCDoXyxYr+YmsjRJ/drR0QvTbnw=;O5Xn6i5qyBwTnJVPtINzBQ=="
 ---
 

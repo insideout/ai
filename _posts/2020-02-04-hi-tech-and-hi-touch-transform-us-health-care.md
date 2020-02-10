@@ -37,6 +37,19 @@ related:
       - url: "https://gadget.co.za/wp-content/uploads/2020/02/hospital-clinic-medical-doctor-technology-910x600.jpg"
         width: 910
         height: 600
+  - title: "Outlook Of Healthcare Technology"
+    excerpt: "As healthcare becomes increasingly complex ... These electronic records create opportunities to track and improve patient care and to find new, more efficient treatment methods by incorporating artificial intelligence technologies. From a management perspective, digitizing and managing this data in a manner that protects privacy and makes ..."
+    publishedDateTime: 2020-02-10T20:19:00Z
+    webUrl: "https://www.healthitoutcomes.com/doc/outlook-of-healthcare-technology-0001"
+    type: article
+    provider:
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 39
+    images:
+      - url: "https://vertassets.blob.core.windows.net/image/b6566dd4/b6566dd4-46d8-4fce-99ce-702b4c6c708b/375_250-crystal_ball_future_istock_518433454.png"
+        width: 375
+        height: 250
   - title: "3 Ways to Enhance Healthcare Interoperability with Health IT"
     excerpt: "Healthcare needs to lean on other emerging technologies and strategies to boost interoperability. Taking advantage of the surge of artificial intelligence in healthcare, empowering patient engagement with health data, and bolstering health information exchanges, industry leaders can begin to chip away at the healtcare interoperability problem."
     publishedDateTime: 2020-02-10T14:33:00Z

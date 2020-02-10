@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T04:55:00Z
 webUrl: "https://gadget.co.za/ai-transforms-limpopo-healthcare/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "AI transforms Limpopo healthcare"
 
 related:
+  - title: "Outlook Of Healthcare Technology"
+    excerpt: "As healthcare becomes increasingly complex ... These electronic records create opportunities to track and improve patient care and to find new, more efficient treatment methods by incorporating artificial intelligence technologies. From a management perspective, digitizing and managing this data in a manner that protects privacy and makes ..."
+    publishedDateTime: 2020-02-10T20:19:00Z
+    webUrl: "https://www.healthitoutcomes.com/doc/outlook-of-healthcare-technology-0001"
+    type: article
+    provider:
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 39
+    images:
+      - url: "https://vertassets.blob.core.windows.net/image/b6566dd4/b6566dd4-46d8-4fce-99ce-702b4c6c708b/375_250-crystal_ball_future_istock_518433454.png"
+        width: 375
+        height: 250
   - title: "Hi-tech and hi-touch transform U.S. health care"
     excerpt: "A technological transformation is touching almost every aspect of health care. Devices connected by the Internet of Things are putting care in both patients’ and practitioners’ hands. Big data is gathering invaluable troves of information,"
     publishedDateTime: 2020-02-04T20:27:00Z

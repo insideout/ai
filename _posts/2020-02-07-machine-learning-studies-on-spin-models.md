@@ -24,71 +24,32 @@ images:
     title: "Machine-Learning Studies on Spin Models"
 
 related:
-  - title: "Top 5 companies using Machine Learning in 2020"
-    excerpt: "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ..."
+  - title: "The Role of Machine Learning in Marketing"
+    excerpt: "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ..."
     publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9"
+    webUrl: "https://medium.com/@bo.lau/the-role-of-machine-learning-in-marketing-60918b8f51e2"
     type: article
     provider:
       name: Medium
       domain: medium.com
     quality: 71
     images:
-      - url: "https://miro.medium.com/max/800/1*IVYvNXzk1XVr7XM9Hu9X-A.png"
-        width: 800
-        height: 445
-  - title: "Using Artificial Intelligence in Trading"
-    excerpt: "Artificial intelligence (AI), which is also called machine intelligence ... This advanced technology has been used to power self-driving cars, voice-activated assistants and, now, trading. Traditional trading strategies use technical analysis conducted by humans, to assess investments and detect trading opportunities. This is done by analysing ..."
-    publishedDateTime: 2020-02-07T20:07:00Z
-    webUrl: "https://medium.com/@rfexchange08/using-artificial-intelligence-in-trading-6a09a6b4ed50"
+      - url: "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png"
+        width: 1200
+        height: 672
+  - title: "Artificial Intelligence and the Future of Sales and Marketing"
+    excerpt: "Artificial intelligence (AI) has the potential to significantly improve businesses’ sales and marketing efforts, and thus their fortunes overall. In fact, it may be hard for companies to move forward without it. Two-thirds of the 615 respondents to a recent survey from Harvard Business Review Analytic Services agree that AI in marketing and ..."
+    publishedDateTime: 2020-02-07T09:43:00Z
+    webUrl: "https://hbr.org/sponsored/2020/02/artificial-intelligence-and-the-future-of-sales-and-marketing"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
     images:
-      - url: "https://miro.medium.com/max/1200/1*S3as9DvE-54fw9_q6JXAhQ.jpeg"
+      - url: "https://hbr.org/resources/images/article_assets/2010/05/HBRAS_research_paper.png"
         width: 1200
-        height: 627
-  - title: "Artificial Intelligence In Aviation Market Trend And Top Growing Companies 2026"
-    excerpt: "Global Artificial Intelligence In Aviation Market Insights, Forecast to 2026 The report discusses many vital industry facets that influence \"Global Artificial Intelligence In Aviation Market\" industry acutely which includes extensive study of competitive edge,"
-    publishedDateTime: 2020-02-07T03:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-trend-and-top-growing-companies-2026-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Medical Imaging Market Sees Promising Growth during 2019-2025"
-    excerpt: "An extensive elaboration of the Global Artificial Intelligence in Medical Imaging market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
-    publishedDateTime: 2020-02-08T02:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-sees-promising-growth-during-2019-2025-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Security Market Booming By Size, Revenue, Trend And Top Growing Companies 2026"
-    excerpt: "The Artificial Intelligence In Security Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Security Market study provides comprehensive data on aspects of competitive intelligence,"
-    publishedDateTime: 2020-02-05T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-booming-by-size-revenue-trend-and-top-growing-companies-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+        height: 675
   - title: "Fugro wins ISFOG 2020 machine-learning competition"
     excerpt: "A team of Fugro employees has won a global competition in geotechnical machine-learning. Competing with 60 other teams from industry and academia around the world, the Fugro team came first in the pile-driving prediction event organised as part of the International Symposium on Frontiers in Offshore Geotechnics (ISFOG) 2020 conference ..."
     publishedDateTime: 2020-02-06T14:06:00Z
@@ -102,19 +63,15 @@ related:
       - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/February/6/7/39d7ac5e-f4b5-445a-b757-4205f399e7a7-sized"
         width: 800
         height: 600
-  - title: "Growing Optimism in Emerging Markets, Fintech Company CGTRADE Expands Its Business in Asia Pacific"
-    excerpt: "This includes United States fintech investment advisory company CGQuant and its subsidiary CGTrade. CGTrade has set up operation centres across Asia Pacific regions including Malaysia, Singapore, Taiwan, Hong Kong. The company, utilizing powerful internal and external resources of CGQuant including AI big data algorithms, provides top-level ..."
-    publishedDateTime: 2020-02-05T11:20:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48776422-growing-optimism-in-emerging-markets-fintech-company-cgtrade-expands-its-business-in-asia-pacific-200.htm"
+  - title: "Machine Learning in Nursing Market"
+    excerpt: "Request Sample Copy of this Report at https://www.qyreports.com/request-sample/?report-id=224317 Report defines competitors in this market of Global Machine Learning in Nursing Market. The Top Most Key Players in the market are as Microsoft Azure, HIPAA. The growth rate of the sales and income figures of the Machine Learning in Nursing market ..."
+    publishedDateTime: 2020-02-06T11:30:00Z
+    webUrl: "https://www.openpr.com/news/1921686/machine-learning-in-nursing-market-report-business-strategy"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 10
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/575314/1.png"
-        width: 1760
-        height: 786
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
 
 secured: "sDerhod4UMdQYN4OWLmtduSH1N4+krQY/ZNb3jHfLuHn1a0mzNXENztXltsjFidTBhsIrLHKvmD9944AptAtVE3tBjV+9FEB7l6o4Z8C/JUv9QKSdyqVTM+5DHvYkm31MpAVFJuHvyWs3QVY5R4gtPaJuHfHLbHyv0qtGEGBT45NRAN0ji13LqTqVF0ZAI+szlM3L2z+cv3cfe6dHpgffIxvIjaTf7ItI12t1rjiuY74XjIqeGjqnRT1OOTWgTKzlyGhXKrC+Pi6Jv7/lqazzHmr+ESho5WSg9fLkSMRNTu5kYY2/jGlsU1eK9rwYk34;nlu9kZEHQenwpmEISDnUrg=="
 ---

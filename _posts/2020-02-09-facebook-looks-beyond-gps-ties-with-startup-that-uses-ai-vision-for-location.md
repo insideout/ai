@@ -3,9 +3,9 @@ category: news
 title: "Facebook Looks Beyond GPS, Ties With Startup That Uses AI Vision For Location"
 excerpt: "Facebook co-founder and CEO Mark Zuckerberg (File Photo). San Francisco: Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority ..."
 publishedDateTime: 2020-02-09T12:49:00Z
-webUrl: "https://www.india.com/news/india/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/"
-ampWebUrl: "https://www.india.com/news/india/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
-cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
+webUrl: "https://www.india.com/technology/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/"
+ampWebUrl: "https://www.india.com/technology/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
+cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
 type: article
 quality: 56
 heat: -1
@@ -86,6 +86,6 @@ related:
       domain: telecompaper.com
     quality: 16
 
-secured: "3KSc3Giy8hgCPaQss79AIOnljMr9o/v7Ik6gLicXD3IQGOOCwfR/x6Acn9Xq+Qv3ezC4zL2MWRlcKdcLbKmxXfSOkDXFfl3GPBdt6qRhS+PZV0IlP5LDzCrRU6h7kuoaz8Dd3IOxi/T+ZBZqU5Ce6hf+kCQrPWTR9MNH5YBZmrrd4edDTTNJEFmgrnbHKaCcFTzxzg2snhjTubO+tGg9waUhOZZLg3co9lZDGrQ8FqYpCmL1zzRdOhnVwMdJ/PSy+406z61M/QteqdH2EyMGQmTqfHBJUXSQijVGxOBqTs/N7ti3FTFfV3Oo8JEt/KP83KqiJeqcQ4N4xuLbYI6+JXyMcut9Om4EOwJNyagpiQT7mJKR0RNm4XcE8mJbvF85K3OseezcAZxwSWWjCopPufDZA73jg8ApGCLgI9M+vocE1NWsPr0l10t9KCOY0h1tuIy2wBJswjGb8ZH4+63fbWE2zMxa3hfbVA1NT78n7cU=;WPE3VeWduvS3RL/+BgGiAg=="
+secured: "xT+4OXZJtzLAe/azFqK46hXZSH3/fCef4REVonySdYNVICJlOocwCI/RAy7p4uJe5x9XfIkwu5U6m5gTG9WfzpsE79wLQlhsZztnzxNR7dZ6ew9MAwWAsB1rniMkEnKL3mM2pgtB8olA4zPejCXcrdFTmPI9PtJkQXFTKeXJI3Y5E3JyQvEicqIb01UlDWRGt3CCPJ42+Pe02+wTUCo5cmP8WfD/NfC7OP+HVlHTcDuDHDHcqz1sOZXkdx3/Whj3vLmV1ra67mi/mSGtmk0Y5R9tFG0TXfMYPn+1PfKrw91hmvn//FNRCW9KOEv++iDT;MbvMfWHUEVdtiRc/oBB1Og=="
 ---
 

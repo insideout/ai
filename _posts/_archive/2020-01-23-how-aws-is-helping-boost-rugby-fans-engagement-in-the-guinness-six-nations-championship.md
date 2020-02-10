@@ -4,9 +4,11 @@ title: "How AWS is helping boost rugby fans’ engagement in the Guinness Six Na
 excerpt: "The Six Nations digital team created these capabilities using the AWS managed machine learning service, Amazon SageMaker, to build, train and deploy the models. The 2020 Six Nations will see the cloud services giant provide fans with an expanded range of real-time, in-game rugby statistics as they follow all the action from the tournament ..."
 publishedDateTime: 2020-01-23T15:57:00Z
 webUrl: "https://www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship"
+ampWebUrl: "https://www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship?amp=1"
 type: article
-quality: 10
-heat: 10
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "japYCetVv4MW0e93qMhJH57Jck0680peXHVop0gFldmqDPNkcgfOPqxD7R3gu+Z0gtQFl9IhqvizNE3+pEfE+p/LGxXHfEHJTsqFMnBEfbMOPs70ofPMj/ebJnsWVVJ6y/nMmHaBY4DoFN1g8V0L/hg4aZGQoW9i3OU/HHIVvRKH3E80fQA+8g+RkaJhd6zLRhYfgY2LnaStbQEvfXGD8N1MdFHZL/TU2SmI8bhhCAY2R6Gk3smE+TmmNeC4VxWhG6zQqR8zU9+mI1zDnoZITf86uSTaOGrvHs7Zfo6rhijPaWSVVj3hdMM8XyBd+g72YSFlm9Y/88906q7AHtL8DPm8oOQ1OK58OE76snI1qqe3WvrDfW1oEiXyzlzkPxxd7+pfVQhy4l9km0eQFhPTTrqFPahHgXd/uI7W4zYs1V6fdFtM/dkGx7EcVjUo+ZUh8x4EOcZ82KHKygEBaKKm13KGfnNz0Up1A5Vrk2daN1Y=;I1S5RKRm4rhi2GdlsEOMuA=="
+images:
+  - url: "https://cdn.ttgtmedia.com/visuals/LeMagIT/hero_article/Rugby_AdobeStock_46421708.jpeg"
+    width: 1200
+    height: 400
+    title: "How AWS is helping boost rugby fans’ engagement in the Guinness Six Nations championship"
+
+secured: "0L1YNTdwaX8Eve6xd+6m6PZc+ATawqYa/CL4HElp3UyRGC95cZQRtLPhjPL9CZ6Q9CT8Ckb9Iy/ZMxiMQC15+AoXmEks0qVce7BJtxOnx4Ev3rABet0vjABy+uzdUn7Sk7gFOyS8DbnJ1ooC8zRjt7MSNqkyrNhGZ9/wvE0z1adm/JRjnRSqViH6ROPXZx3t2EJivoHH/+//BFsUbt3PL3N8EAhwUYkTFVE3D63NO81/72tj7lExUUg+wd6Pd5N20vK3/3qSN4HfwgtRAJNKa6Oa7dP/1aIXnq/Sxc0Hy/Yy2n17Nrb5ODiPvIIDPpr4;W8CVxuCU6NvTI16hy5hQBw=="
 ---
 
