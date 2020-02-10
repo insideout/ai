@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Udacity launches new course called Intro to Machine Learning with TensorFlow"
-excerpt: "The Udacity course, Intro to Machine Learning with TensorFlow, includes areas like manipulating data, supervised and unsupervised learning, and deep learning Udacity announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow. The next-generation program in machine learning (ML) introduces learners to the ..."
+excerpt: "The Udacity course, Intro to Machine Learning with TensorFlow, includes areas like manipulating data, supervised and unsupervised learning, and deep learning Udacity announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow."
 publishedDateTime: 2020-01-24T11:44:00Z
 webUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/"
 ampWebUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
@@ -36,7 +36,7 @@ related:
         width: 800
         height: 448
   - title: "Learning Platform Udacity launches Intro to Machine Learning with TensorFlow Nanodegree program"
-    excerpt: "Learning platform Udacity has launched a new Nanodegree program : Intro to Machine Learning with TensorFlow. The Nanodegree program incorporates advanced areas such as manipulating data, supervised & unsupervised learning, along with deep learning. Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ML ..."
+    excerpt: "Learning platform Udacity has launched a new Nanodegree program : Intro to Machine Learning with TensorFlow. The Nanodegree program incorporates advanced areas such as manipulating data, supervised & unsupervised learning, along with deep learning."
     publishedDateTime: 2020-01-25T04:45:00Z
     webUrl: "https://techstory.in/learning-platform-udacity-launches-intro-to-machine-learning-with-tensorflow-nanodegree-program-2020/"
     type: article
@@ -49,6 +49,6 @@ related:
         width: 768
         height: 403
 
-secured: "ZLTCfKimUxS4GfnBvpBXBuOABZ3S9Fhz7MxlSb+dXnSexMqfXzJyAb0j/Yywht5kLVolprltzQnVn5RNUfAnah/GLweb3cGp0/GC3fp94zN5S3RZVtYk+zmiInFsmzIyaurkYMaLVaio9Xsv5RkdFo+LFHErkuVh5bv6qJ1PfdmsY1KKJuOhPbqDagXdy93vE1M0kiDzRItIlU94GnCAGfFRruaik1cGcK+/Gu3Ocld99cEz5T5g3I9w8Zxj4qeqEJCsFtx8K232MTMJM3YdBUSgnJfqdRjbRASFXXPea/hqnyW1bZmcOBnlTrF7HdLi;/ey2ZyetTHrq1ndCaWV/DA=="
+secured: "ANp1wqhRkHElKSqnCA/iDo9v1cBz6aVOLOk8cxkHGpL93H+K0jkn+dy5UsVz1kDC7Qr1OjRFiFe6bx4xyhQ2ay2ljm8QHOQ5TGLDRTUfyfwzXb0MYq4EFHAaxlu523tolbD7CJctv8xW1YooAE4wYzzjbx802x+yeU4mH/L6Ea5pR2tJp2xixo/jmXL4HxeGxTGIYyMFFO17jr57k2GwPpL3RQPE9U5Ik/8BBME4tAW+04nqEC62U6w7+oUmd+85apimb2kV7MulX8O8F9jog2pF4Ko7HwLwr7MTm04GZWrzN2M4PTnmUuhBQFsJgqrk;j6bDwN9IUu6PosmoupWYFg=="
 ---
 

@@ -28,20 +28,42 @@ images:
     title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
 
 related:
-  - title: "Microsoft Weekly: Series X ports, patches for a price, and stories in the cloud"
-    excerpt: "In either video or written form, Microsoft is inviting folks to share technical content relating to interesting experiences with Azure. These can revolve around open source, apps, DevOps + infrastructure, Big Data and Distributed Systems, Machine Learning and Data Science, as well as research. Submitted stories will be vetted by a committee of ..."
-    publishedDateTime: 2020-01-26T12:04:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-weekly-series-x-ports-patches-for-a-price-and-stories-in-the-cloud"
+  - title: "Genesys Engage call center software coming to Microsoft Azure"
+    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services ![|320x210](upload://l8VPxe2KNadH6qDHIMwvoo2OX3S.png)Genesys is a leading provider of call center solutions. The company delivers more than 70 billion customer interactions per year for ..."
+    publishedDateTime: 2020-01-26T21:00:00Z
+    webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 65
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 54
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1580038361_msw-20200126_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
+        width: 320
+        height: 210
+  - title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
+    excerpt: "“In particular in the area of computational behavioral phenotyping, where the machine learning and computer vision challenges are very significant and not smaller than the privacy ones, combining our expertise and data with Microsoft’s capabilities in Azure and beyond are a perfect match.” Alexander Szalay is a Bloomberg Distinguished ..."
+    publishedDateTime: 2020-01-28T17:16:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 40
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/MSR_Investigator_Fellowship_1400x788-1_new.png"
+        width: 1400
+        height: 789
+  - title: "Microsoft Sees Azure Sales Surge 62 Percent"
+    excerpt: "“we are seeing rapid adoption across a comprehensive portfolio of AI tools, infrastructure and services.” He said that there are 6 billion transactions on Azure Cognitive services each month, 7 billion documents processed daily with Azure cognitive search. There are a further 2 billion predictions a month using Azure machine learning ..."
+    publishedDateTime: 2020-01-30T04:21:00Z
+    webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 34
 
-secured: "U23Fjo1kbpU3Wx/vNlS+4gQR+3nSm78DQkaD4fP0pdw05QbE5rm6/vePEXsW6cuj/RqalApfR9EgyHjnXdM7rPTOfF6qoxulz7BdytV995f5OnIdW7gFbpST20zml9Ng8iHGlGvBJB3qvVgxMBkt97rQ8JTIDln6Bt1A04Be9aKjijqUhWrYZAKePoMkJGhXK7gR2MvbbP99rMv8Oegc7iXSBe1n2Ao469X9B2t77gt95ID/EQB/j12cOVdcEQlqhb/4KI1kYwPsE0EDBXIraxqAN9CjfGLd9FMiWcPfZXwn77XmHxmtugkfsPbffPSF;VpUhhK1or21Ey8Zs+FXP+Q=="
+secured: "lh6F5LqsouFH2qq0zt17NTDOPIG5rgTBd9Jm6EIe8BkOCwYcus5kSh89I685GtJ2QWGvukmSha02ixKXIMIv2AhUY5uhveT8JiQ0RN8kQ0KNa/4Ahy12wDM8jPvq85zH/6tfxQSSkTCp5S4Idx/xW8109W0pPiqVEqXrRrZiM7V55YidCdZNl3Q98Vur6LFRE+LDnN3FV4Hv2rpIKTVgmw9Uidw093xPKzg0bQnlcq/vL8jqpnF+1z5jJeQrSXQBUm2FQLJkX63Icj9JU2PTPTNbP4Gfl9Sqi2dQemOlMaEjzIk0z9OBQ+kinIAXIqFv;VqoYSrWYwRAAOp0Uzp5b/g=="
 ---
 

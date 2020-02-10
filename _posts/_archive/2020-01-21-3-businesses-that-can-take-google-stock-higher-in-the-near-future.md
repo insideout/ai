@@ -25,6 +25,6 @@ images:
     height: 900
     title: "3 Businesses That Can Take Google Stock Higher in the Near Future"
 
-secured: "5shQuNQLB+uSnB1xDNUFlUX+MCOy4YCb0/yfMMmfm8MMYtB2fgbhetQvvy647W91B6cvnHOrwhNPUYzYcnhHrDgkG2hqkSOmnO337EnlyYMMU7J20HKnr1ArT1FI0l0EvyFUVY7OPMoQDrM8VaJVSlatJtuLwL9sFDu12VqAqMy9nkqJRHlWsk5O3H6NPtmZIQAOZBwudMsa4SSyu+W8OL/DNJnhorN8Cg9Yzzm71fSM++uJij8zlNYq96H4EQHNykNWQyCYRL6hTKPAg1+BS4zzr3e7S+hRjH871kmL00kVKTMI1cuUOB9h5WrWE80J;8qfDknjgPscbLKR8dhIx9Q=="
+secured: "Eb5bhvIyAamkWRlk0O70U/PZD15gsxrPI/G7dLbeU1Xm4viuP/L/XsfnFi+XZk/AaginJG6X95dlfRv5Epy2YfGCTQNXvDyXgRnZvarjokiQ4qVS1UlwGzWV3oMcRY4ov5weSERahRIyGajKdlY2MgIh+ZB58BCkWJLmuXylLHCZRxBLxw36OVuP9jgj6aptIwi/3KOlDTbtwe5tD1etm7U4JSv3iAQZtg9cks/QvPNn8SgvPEfILFQulTWyrwlDGiHlFTnmhbbXVfurRrkkUbicfNxgEzuzzHLY2QsDVLfFf3aSfERVy5Rf6FrQVepe;zP9QQo7I6jLPTIpZUrlnaA=="
 ---
 

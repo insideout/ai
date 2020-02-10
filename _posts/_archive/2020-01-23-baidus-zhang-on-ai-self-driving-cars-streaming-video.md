@@ -88,6 +88,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "UqXolQyCOdu1tQZAiOkXnEg9LXz+nhXZjhL22FwpJxxvRYo1HDbKRCqiYGE5hKU0Auwn9Hiy2qHOZX1iXUy+CItdLz3gAxAfJfOYSLEBrv+sdoAalrGUR8V/Quo0jnL25j3juoxusOGQwqU/kwJ/6vpl4+bkbi4HR+aW2SK5IFnVNUxyWDZ4j5B74QJwvSmI5bA/38dmb2D7qYfEX09ykYyGx1MORGMqqeMQgPHRearKVUIyg7hTJp2gNB3Pc1PjjNglE/h/oertq6J+fQjEWORZCCAaTun913k5ncoEsEsqk8tG8GKESwjIMz3DO+S/;gAbxHtDkoG+4N38apZR0fA=="
+secured: "ybUQLEIghdpMfUPrgGy+AaMJJzneFqbGDPoXKors3/3JWc0J9sQh4s+esoYi5QozdHKucetHeAnw9gWHLNSe+z5/g7uIGZRned+DJjn2lD881BoriJFpZKvyBlgfgYBicL2saVSLXyUQaBf8zB9mKZ1NZbiM7o+QiPlPN2gu7XMYKwIivdQAVS8WsL76qFNE2fbmLyIEJtwqYXQ3dLTRHGCxwpKE0XhZN0jvqyeW8VyKOGGJNwYyxIPobOuSmTkl4akZuWVoV0eQQCfnE1KRvhkCDtg39czVFteH7725OhsdhM82rB1aMFDubPS1bwkX;l4B1gljunhiBtW7bc8h+yQ=="
 ---
 

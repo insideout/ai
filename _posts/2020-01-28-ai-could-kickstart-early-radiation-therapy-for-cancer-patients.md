@@ -81,19 +81,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 36
-  - title: "Digital innovation is leading the charge to better patient outcomes"
-    excerpt: "For example, among the many things artificial intelligence can do is take complex and repetitive tasks and complete ... that works with manufacturers to support these types of safety net programs. Getting a patient started on a therapy and providing access to a prescribed treatment are the first steps. Then adherence comes into play, especially ..."
-    publishedDateTime: 2020-01-26T12:00:00Z
-    webUrl: "https://www.fiercepharma.com/pharma/digital-innovation-leading-charge-to-better-patient-outcomes"
-    type: article
-    provider:
-      name: FiercePharma
-      domain: fiercepharma.com
-    quality: 24
-    images:
-      - url: "https://qtxasset.com/fiercepharma/1579625981/GettyImages-1144557228.png?O_7gvn8MxnV_Pt2xdnIccj9nTU1E_N6w"
-        width: 800
-        height: 600
 
 secured: "UQxtwQZiqO87+94XOOSZTQVLiZjIudMmUBce3nTziE0csuIkTq3IeHYkw3x5XvZLaAJnrRjUi/iHhk6n/qAiD+J9ZB/mKNVXcvRIiBBZljR6gXNxGZdKMn+tyjanBpTgxT4k4ZnpSv6g93A0BWarlGKVXX2D8nlakttcU7NWfMVeuYLi68RfCfvx6jlGur5RulMhXwf9wLMZksxpYHb06BnLUvbajPz5Sd84bVkebCaXWl98lz/HjHXusQ4kxWYXIKB6WwTAEEMMK3DvmkZkp/slpkwYwUqVT9objIAwJ2WskrWoFB8VvA7MmGeTRgdWFuAejKJvwp+IMFZzN4yTvAm/8p7koK3rtVlkA9acCMfD+sb2+p0exaN7ZF3ngoNK44kmdkLGd6A3hn6VAPBUygQ4BqsIAEI4ZWIzAfCWGEPC6gFia5/Bg+m7rj0Y/Uol+Ptqs+Zoc2p7KTm4uVUQADruMMnMPrye8js+FkN6Mik=;HgUYygUcQ62Kbi3kyMRkvA=="
 ---

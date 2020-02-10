@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T20:53:00Z
 webUrl: "https://www.statnews.com/2020/02/07/fda-approves-ai-based-software-ultrasound-pictures-heart/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,32 @@ images:
     title: "FDA approves AI-based software that helps doctors take ultrasound pictures of the heart"
 
 related:
+  - title: "FDA clears AI-guided software for capturing cardiac ultrasound images"
+    excerpt: "Caption Guidance from medical artificial intelligence vendor Caption Health leverages an interactive AI user interface that guides users on how to maneuver the ultrasound probe to acquire standard echocardiographic images and video clips of diagnostic quality. “Echocardiograms are one of the most widely used diagnostic tools in the diagnosis ..."
+    publishedDateTime: 2020-02-10T04:34:00Z
+    webUrl: "https://www.healthdatamanagement.com/news/fda-clears-ai-guided-software-for-capturing-cardiac-ultrasound-images"
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 37
+    images:
+      - url: "https://sourcemedia.brightspotcdn.com/dims4/default/56f8bb8/2147483647/strip/true/crop/800x420+81+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fab%2F47%2Fdc5a503744c88de5d83f41a0ecc8%2Fcaptionai-hero-image-crop.png"
+        width: 1200
+        height: 630
+  - title: "FDA authorizes marketing of software that uses artificial intelligence for cardiac diagnostics"
+    excerpt: "The Caption Guidance software is an accessory to compatible diagnostic ultrasound systems and, according to the release, uses artificial intelligence to obtain pictures of the heart that are of “acceptable diagnostic quality.” The software is intended for 2D transthoracic echocardiography for adult patients, particularly for standard views ..."
+    publishedDateTime: 2020-02-07T21:33:00Z
+    webUrl: "https://www.healio.com/cardiology/imaging/news/online/{80b0f3b5-1a02-4d48-a78d-a53ece9a5651}/fda-authorizes-marketing-of-software-that-uses-artificial-intelligence-for-cardiac-diagnostics"
+    type: article
+    provider:
+      name: Healio
+      domain: healio.com
+    quality: 25
+    images:
+      - url: "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png"
+        width: 1024
+        height: 1024
   - title: "FDA Authorizes Marketing of First Cardiac Ultrasound Software That Uses Artificial Intelligence to Guide User"
     excerpt: "/PRNewswire/ -- Today, the U.S. Food and Drug Administration authorized marketing of software to assist medical professionals in the acquisition of"
     publishedDateTime: 2020-02-07T17:57:00Z

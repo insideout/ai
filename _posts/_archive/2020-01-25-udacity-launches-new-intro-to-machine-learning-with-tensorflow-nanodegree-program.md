@@ -27,7 +27,7 @@ images:
 
 related:
   - title: "Udacity launches new course called Intro to Machine Learning with TensorFlow"
-    excerpt: "The Udacity course, Intro to Machine Learning with TensorFlow, includes areas like manipulating data, supervised and unsupervised learning, and deep learning Udacity announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow. The next-generation program in machine learning (ML) introduces learners to the ..."
+    excerpt: "The Udacity course, Intro to Machine Learning with TensorFlow, includes areas like manipulating data, supervised and unsupervised learning, and deep learning Udacity announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow."
     publishedDateTime: 2020-01-24T11:44:00Z
     webUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/"
     ampWebUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
@@ -38,7 +38,7 @@ related:
       domain: dqindia.com
     quality: 36
   - title: "Learning Platform Udacity launches Intro to Machine Learning with TensorFlow Nanodegree program"
-    excerpt: "Learning platform Udacity has launched a new Nanodegree program : Intro to Machine Learning with TensorFlow. The Nanodegree program incorporates advanced areas such as manipulating data, supervised & unsupervised learning, along with deep learning. Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ML ..."
+    excerpt: "Learning platform Udacity has launched a new Nanodegree program : Intro to Machine Learning with TensorFlow. The Nanodegree program incorporates advanced areas such as manipulating data, supervised & unsupervised learning, along with deep learning."
     publishedDateTime: 2020-01-25T04:45:00Z
     webUrl: "https://techstory.in/learning-platform-udacity-launches-intro-to-machine-learning-with-tensorflow-nanodegree-program-2020/"
     type: article
@@ -51,6 +51,6 @@ related:
         width: 768
         height: 403
 
-secured: "5YD+HE6VPEP3Bcn+uIrLLZxLSEpOJzXlkvNFmnNj5ukMtDVatfPw4coub97JS2PplD6cIdFYqguCeLFXBPV+kjTwr67ZSUsCyyGlWO2fTerre7onh3Wo4MOVNoMiauyuDfMwUi5KrbgSW0X0vYcZ33TxOL8Kq6/9eSbikRSMgoQN4jfzPvNifEL/y3egJaiP1IydtCS/3FG1/G9kb572Lhhkpy6KFGIqgtXGm/fBO3vBIgN1RWmvz9+WDKZSRHA6K92RLIbqYwR53gxMPjfjUAuIx35/EpwjXfzk29TAs0j81jWfIS1L3qEpFgCN1Wdu;Mt5w29zZamPgEwUdU3tUyw=="
+secured: "NkmcXqmogkpcuz6UfA0IzrccIOJM+NcePnmGpc7jERO2au6tJiHu7xVoTs88FkVAOA+F2rPlaqAgV6WUXRKf4NE5lvB4Y0MzYdp+3xjqmIc5ZVGZO+EALzfjg8hCIfvo4BbEt5ycUPaxcMSo/C0wCGvJ/dCPR3GE7NE209jbAAbmzAx4wQPhf2WXPYK8UlbQeFSYnLBSwuJN3ALDjGImpXwJUpiN2p4jr6I/7fXV5Ihy+1Ib5s1Z4o/ioaQ1T4CsmWKrsIQd5lKMldCoX6ZcHHJlTKDngY5ViBSdlYOUNmLb016PpVSbAGrR4TJvp3nc;yjV6wLl2XEwdmGRjSAl+oQ=="
 ---
 

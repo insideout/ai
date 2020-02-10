@@ -83,19 +83,6 @@ related:
       name: IET
       domain: theiet.org
     quality: 34
-  - title: "Digital innovation is leading the charge to better patient outcomes"
-    excerpt: "For example, among the many things artificial intelligence can do is take complex and repetitive tasks and complete ... that works with manufacturers to support these types of safety net programs. Getting a patient started on a therapy and providing access to a prescribed treatment are the first steps. Then adherence comes into play, especially ..."
-    publishedDateTime: 2020-01-26T12:00:00Z
-    webUrl: "https://www.fiercepharma.com/pharma/digital-innovation-leading-charge-to-better-patient-outcomes"
-    type: article
-    provider:
-      name: FiercePharma
-      domain: fiercepharma.com
-    quality: 24
-    images:
-      - url: "https://qtxasset.com/fiercepharma/1579625981/GettyImages-1144557228.png?O_7gvn8MxnV_Pt2xdnIccj9nTU1E_N6w"
-        width: 800
-        height: 600
 
 secured: "cMBMy/VNB1C31tf+690lcIPC+8Qr3HS5REFAh9VW4lVCC4BuUyYREFEgXMuh9QAxQ2kicq3rMjyA3KemNz+1luSwmRn4aUhUGYIN7wDQRK3rYFBDLHinQCwsPtAyVQXdu6K+S15fPe+6Hl6bvK6RPlqwSpIoQVmdgVqeWlzMJ4l0ftw5rK+CTPmOf1FVRiCeUyh/Uld9L9Kwq/1GfbjCdmWdenF/kY9c9jdWcYX0TqdXHBIXi91ud2V5UqxZqOIHStPFYf3oCWqMzv5o5n7KPqRlsWoG1HG3eRP+BOhvANHNSrUjAzEcxiSqVuSQZJT2lwfxowxxRVGXyKLEZYyspc0gUJUy9AlbkJLCn/+KVkGIN8Blaia+srWjGKxT35Duie31NGm3HI/KBHgG3JzHeztu0Y6M8YssjHu1oXXzZenOwZJXeusu+znfKeu9J5ioPKR6X1zQJ12rSBy1JMVzC7Ic1ZhJbPSF2nzVMvYAEac=;frJlI25j2KcyYojxEkGvXw=="
 ---

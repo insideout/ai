@@ -23,6 +23,6 @@ images:
     height: 630
     title: "Driverless farm machinery may lead to new business model"
 
-secured: "eDjO1Kz/5ahMcYFQerfjgL3ZZlqODAO2MQjuuPLZShrvqlUOO9TMVk0PQeZnPeWfuLu1Kfaw4Lm42mmBzs7+rF9FBgCEUTlbHcd7YHhS4W9Vs00vbNGx7sI18gYRpCtgC1vDqIjGquEs2akf5shKCBUpbfrd5GMQQSYNNkAsgbr4ZZYuuVJjRPVKkjsPw6HSDWzv09vbf9djfTBXREWdlwOAcrJgy/bYWHdz6rG/1H5KwqISE5jsV1tl46BdlsKNWo08iLTVxXDEkVWMl/bYwRXsA/zzhNiyBOfPNo8bWrI583lhLvCkbnQvYLapK3to;97G6txTsozRevZ9LdXtxDQ=="
+secured: "zYMhFWcc3uzNPxReUNNkFc+3p9+Cbi8KGnv02fhat4rVMDfuzBW3I8O8Q8cYCHiq79RMTEP9hb6w18PHJGGtSsZraprfd8eFKEfxNGh1EyPTUgfBXCAb7O//hK55ysr9bQixFD6+S9VXFD5NBx844wQvokxXKgA7mlhKJHvZXyi5vVSkZrFPKttW6y5/ZG7QAsydctBHhhZ+qxWBh8HVITfphFliDaqPBmwhCatvl2Fp3667+g8ts571avNrG8dRDXRwCMiv2eDzn11oXNgJLeqhEWDCYakQeuxjr4Ug3RAhjRKx9lyzl+GPP1fqU8+W;6MzV3/hy/r6Lu3I+GDRTRQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -83,19 +83,6 @@ related:
       name: IET
       domain: theiet.org
     quality: 34
-  - title: "Digital innovation is leading the charge to better patient outcomes"
-    excerpt: "For example, among the many things artificial intelligence can do is take complex and repetitive tasks and complete ... that works with manufacturers to support these types of safety net programs. Getting a patient started on a therapy and providing access to a prescribed treatment are the first steps. Then adherence comes into play, especially ..."
-    publishedDateTime: 2020-01-26T12:00:00Z
-    webUrl: "https://www.fiercepharma.com/pharma/digital-innovation-leading-charge-to-better-patient-outcomes"
-    type: article
-    provider:
-      name: FiercePharma
-      domain: fiercepharma.com
-    quality: 24
-    images:
-      - url: "https://qtxasset.com/fiercepharma/1579625981/GettyImages-1144557228.png?O_7gvn8MxnV_Pt2xdnIccj9nTU1E_N6w"
-        width: 800
-        height: 600
 
 secured: "zRL85ciT6ztaD0m44mSQiSIVxswu1CH+FBFvgeJ9ObujUgH/yo9hNqX5aF86scD+dwbhV3QLOtu+3SdAkpgDwchQUR41e9quf6ybpYrLfE9yqV82GeoBYnLZ7MsmoNS38JGA0xfvSIbvUdilsWIslwk0PlXebPNFeUuQGw+7OxefN13XWwR2ryXWKgKI7nRlslQtk1+dA4fO+8SgiFPDOCKvR5zBL48Y3Fz/82u+Gnm8OC/WzU0amGilqmUzjxrYE7E1id78MmAGpWyrK37QXGO0OZqIBGUMS42gZolwd52Vv14CXnfdxN5L8ZHmP4vrRBolZGCAPMDpBUwcpj0BDjhuMAPm2+jvDaHMXFjOQY7fX+b058WXj3hYSSJYU4c8ev5421G6mYFGOSXyTn7t06UMgvaQe8EUZ19vigOwIoRhrPfKuq6Jth7ZbSy15EwZZmsGcvoYXJE/ARTPzjZ9AJ3zjU9wATaZfea4Zk76r9U=;DeyDOjpNDs2lhU46CYVO9Q=="
 ---
