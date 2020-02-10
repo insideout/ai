@@ -2,6 +2,133 @@
   "page": 9,
   "value": [
     {
+      "path": "_posts/2020-02-08-biased-algorithms-learn-from-biased-data-3-kinds-biases-found-in-ai-datasets.md",
+      "title": "Biased Algorithms Learn From Biased Data: 3 Kinds Biases Found In AI Datasets",
+      "excerpt": "Algorithmic bias negatively impacts society, and has a direct negative impact on the lives of traditionally marginalized groups.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/amp/",
+      "publishedDateTime": "2020-02-07T19:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3e257cf133f400076bf4fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5785%26cropY1%3D413%26cropY2%3D3667",
+          "width": 1200,
+          "height": 675,
+          "title": "Biased Algorithms Learn From Biased Data: 3 Kinds Biases Found In AI Datasets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-cadillac-brings-self-driving-smarts-to-the-new-escalade.md",
+      "title": "Cadillac Brings Self-Driving Smarts to the New Escalade",
+      "excerpt": "He is a member of the Academy of Motion Pictures Arts and Sciences. TopicsCadillac Self-Driving Cars SUVs WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/",
+      "ampWebUrl": "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/2021-escalade-super-cruise-self-driving/amp",
+      "publishedDateTime": "2020-02-07T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e3c9fc2184f8b00092042da/master/pass/Transpo-2021-Cadillac-Escalade-053.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Cadillac Brings Self-Driving Smarts to the New Escalade",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-darpa-is-using-gamers-brain-waves-to-train-robot-swarms.md",
+      "title": "DARPA Is Using Gamers’ Brain Waves to Train Robot Swarms",
+      "excerpt": "A team of artificial intelligence researchers at the University at Buffalo plans to study the brain ... gamers to build an advanced AI — so that it can then coordinate the actions of entire fleets of autonomous military robots. The U.S. Defense Advanced Research Projects Agency — better known as DARPA — has awarded the UB team a $ ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://futurism.com/the-byte/darpa-gamers-brain-waves-train-robots-swarms",
+      "ampWebUrl": "https://futurism.com/darpa-gamers-brain-waves-train-robots-swarms/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/darpa-gamers-brain-waves-train-robots-swarms/amp",
+      "publishedDateTime": "2020-02-08T12:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/02/darpa-gamer-brainwaves-train-killer-robots-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "DARPA Is Using Gamers’ Brain Waves to Train Robot Swarms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-08-how-ai-is-making-software-development-easier-for-companies-and-coders.md",
       "title": "How AI Is Making Software Development Easier For Companies And Coders",
       "excerpt": "Software developers are increasingly using AI to write and review code, detect bugs, test software, and even optimize development projects.",
@@ -343,6 +470,43 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-08-update-1-moscow-court-case-challenges-citys-facial-recognition-use-after-launch.md",
+      "title": "UPDATE 1-Moscow court case challenges city's facial recognition use after launch",
+      "excerpt": "A Russian court on Friday heard a legal challenge to Moscow’s rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/russia-technology-facialrecognition-idUSL8N2A055X",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-08T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -731,6 +895,35 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-3-ways-to-enhance-healthcare-interoperability-with-health-it.md",
+      "title": "3 Ways to Enhance Healthcare Interoperability with Health IT",
+      "excerpt": "Healthcare needs to lean on other emerging technologies and strategies to boost interoperability. Taking advantage of the surge of artificial intelligence in healthcare, empowering patient engagement with health data, and bolstering health information exchanges, industry leaders can begin to chip away at the healtcare interoperability problem.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://ehrintelligence.com/news/3-ways-to-enhance-healthcare-interoperability-with-health-it",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EHR Intelligence",
+        "domain": "ehrintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-8-powerful-examples-of-ai-for-good.md",
       "title": "8 Powerful Examples Of AI For Good",
       "excerpt": "Many of the headlines about artificial intelligence warn of its dangers. However, artificial intelligence (AI) can be and is being used for good in many ways from improving the accessibility for people with disabilities to building our resilience to natural disasters.",
@@ -952,6 +1145,167 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu.md",
+      "title": "Arm focuses on AI with its new Cortex-M CPU and Ethos-U NPU",
+      "excerpt": "“But the next thing or the next step is even more exciting to me: to get AI everywhere. And here we are talking about bringing the benefits of AI down to the IoT endpoints, including microcontrollers and therefore to a much larger scale of users and applications — literally billions more.” That’s very much what this combination of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/10/arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-arm-introduces-cortex-m55-ethos-npu-to-bring-machine-learning-to-more-devices.md",
+      "title": "Arm introduces Cortex-M55, Ethos NPU to bring machine learning to more devices",
+      "excerpt": "Arm announced new products designed to bring artificial intelligence to new types of tiny sensors. The portfolio additions include new machine learning IP, the Arm Cortex-M55 processor and Arm Ethos-U55 NPU, a micro neural processing unit for the Cortex-M platform for microcontrollers. The new IP and supporting unified toolchain enable AI ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telecompaper.com/news/arm-introduces-cortex-m55-ethos-npu-to-bring-machine-learning-to-more-devices--1325986",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecompaper",
+        "domain": "telecompaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-arm-unveils-2-new-ai-edge-computing-chips.md",
+      "title": "Arm unveils 2 new AI edge computing chips",
+      "excerpt": "It today announced two new AI-capable processors — the Arm Cortex-M55 and Ethos-U55, a neural processing unit (NPU) — designed for internet of things (IoT) endpoint devices, alongside supporting software libraries, toolchains, and models. The company claims that the two chips, which are expected to arrive in market in early 2021 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/10/arm-unveils-2-new-ai-edge-computing-chips/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-arm-unveils-ai-chip-for-small-devices.md",
+      "title": "Arm unveils AI chip for small devices",
+      "excerpt": "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://seekingalpha.com/news/3540046-arm-unveils-ai-chip-for-small-devices",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-arms-new-cortex-and-ethos-chips-promise-up-to-480x-faster-ai-for-iot-devices.md",
+      "title": "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices",
+      "excerpt": "The microcontroller, the Cortex-M55, joins the company’s ubiquitous Cortex-M family of processor designs. Arm said the chip will provide more AI performance than any other product in the series. Cambridge, U.K.-based Arm doesn’t make any chips itself but rather sells blueprints under license to semiconductor manufacturers. The Cortex-M ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/02/10/arms-new-cortex-m55-ethos-u55-chips-promise-x480-faster-ai-iot-devices/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1210,6 +1564,35 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-change-healthcare-releases-the-2020-industry-pulse-report.md",
+      "title": "Change Healthcare Releases the 2020 Industry Pulse Report",
+      "excerpt": "The report also reveals where payers and providers are well-aligned, such as around Social Determinants of Health, specific tactics to improve consumer engagement, and the immense potential for artificial intelligence (AI) and machine learning (ML) to improve healthcare. Also, for the first time in its decade-long history, Industry Pulse Report ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200210005115/en/Change-Healthcare-Releases-2020-Industry-Pulse-Report",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-csiro-innovation-fund-backs-ai-startup-aiming-to-speed-up-hep-c-cancer-treatment.md",
       "title": "CSIRO innovation fund backs AI startup aiming to speed up hep C, cancer treatment",
       "excerpt": "\"When we were programming robots we were using AI techniques to help robots recognise what a soccer ball looks like ... real-world patient journeys and trends to work out how to get treatments into patients' hands sooner. The startup's work has increased treatment rates for hepatitis C, HIV and cancer patients. Prospection is working with ...",
@@ -1236,6 +1619,44 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws.md",
+      "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
+      "excerpt": "Yoshua Bengio of Canada's MILA institute, Geoffrey Hinton of the University of Toronto, and Yann LeCun of Facebook, who have called themselves co-conspirators in the revival of the once moribund field of \"deep learning,\" took the stage Sunday night at the Hilton hotel in midtown Manhattan for the 34th annual conference of the Association for ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
       ]
     },
     {
@@ -1348,6 +1769,36 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-edgy-arms-new-ai-processor-can-be-strapped-to-cortex-m-cpus-for-a-boost-to-iot-workloads.md",
+      "title": "Edgy: Arm's new AI processor can be strapped to Cortex-M CPUs for a boost to IoT workloads",
+      "excerpt": "The initial deep-learning system can be written in any framework as long as it can be converted to run on TensorFlow Lite or PyTorch Mobile for the microNPU. These are both popular languages to process machine-learning workloads on edge devices, something Arm calls \"endpoint AI\", such as microcontrollers, cameras or sensors. \"Enabling AI ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/02/10/arm_cortex_m_ai_accelerator/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-enterprise-hits-and-misses-quantum-gets-real-koch-buys-infor-and-shadows-failed-app-gets-lit-up.md",
       "title": "Enterprise hits and misses - quantum gets real, Koch buys Infor, and Shadow's failed app gets lit up",
       "excerpt": "Each use case carries its own risks/opportunities, and need for transparency, particularly when you combine quantum and \"AI.\" However, based on the recent sessions he attended ... Google is obviously wary of the AWS and Azure comparisons. But it's not easy to break it all out anyhow (Google added GSuite revenues in also).",
@@ -1374,432 +1825,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-facebook-has-acquired-scape-technologies-the-london-based-computer-vision-startup.md",
-      "title": "Facebook has acquired Scape Technologies, the London-based computer vision startup",
-      "excerpt": "Scape Technologies, the London-based computer vision startup working on location accuracy beyond the capabilities of GPS, has been acquired by Facebook, according to a regulatory filing. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc. now has majority control of the company (more than 75%).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/08/scapebook/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-facebook-releases-open-source-library-for-3d-deep-learning-pytorch3d.md",
-      "title": "Facebook Releases Open-Source Library For 3D Deep Learning: PyTorch3D",
-      "excerpt": "This opened a whole new field altogether — differentiable programming. In a significant boost to 3D deep learning research, Facebook AI has released PyTorch3D, a highly modular and optimised library with unique capabilities to make 3D deep learning easier with PyTorch. PyTorch3d provides efficient, reusable components for 3D Computer Vision ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/facebook-releases-open-source-library-for-3d-deep-learning-pytorch3d/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-facebook-takes-control-of-london-computer-vision-start-up-scape-technologies.md",
-      "title": "Facebook takes control of London computer vision start-up Scape Technologies",
-      "excerpt": "Facebook has acquired majority control of London-based computer vision start-up company Scape Technologies, TechCrunch reported. A regulatory filing with Companies House shows that Facebook now controls more than 75 percent of the company. Scape Technologies is developing hyper-accurate location recognition technology for augmented reality (AR ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telecompaper.com/news/facebook-takes-control-of-london-computer-vision-start-up-scape-technologies--1325962",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecompaper",
-        "domain": "telecompaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence.md",
-      "title": "FIFA’s Plans To Improve VAR Offside Calls With Artificial Intelligence",
-      "excerpt": "FIFA has begun the early stages of testing for a new semi-automated offside system that combines AI with limb tracking technology. I spoke to FIFA's head of technology and innovation to find out how it works and when fans might first get to see it in action.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/steveprice/2020/02/10/fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-flighthub-justfly-on-robots-and-travel.md",
-      "title": "FlightHub & JustFly on robots and travel",
-      "excerpt": "Once programmed, some robots function autonomously. Still, many robots require more guidance, especially when used with third-party software for voice recognition, accident detection, virtual reality applications, and others. When combined with artificial intelligence (AI), robots become far more sophisticated. AI’s ability to record and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/10/flighthub-justfly-on-robots-and-travel/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-global-artificial-intelligence-ai-market-size-share-trends-analysis-2018-2025.md",
-      "title": "Global Artificial Intelligence (AI) Market Size, Share & Trends Analysis 2018-2025",
-      "excerpt": "Dublin, Feb. 10, 2020 (GLOBE NEWSWIRE) -- The \"Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/02/10/1982156/0/en/Global-Artificial-Intelligence-AI-Market-Size-Share-Trends-Analysis-2018-2025.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T02:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-global-emotion-detection-and-recognition-market-projected-to-reach-usd-59498-million-by-2026-facts-factors.md",
-      "title": "Global Emotion Detection and Recognition Market Projected to Reach USD 59,498 Million By 2026: Facts & Factors",
-      "excerpt": "According to the report, At 25% CAGR Rate, Global emotion detection and recognition market anticipated to reach",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-emotion-detection-and-recognition-market-projected-to-reach-usd-59498-million-by-2026-facts-factors-2020-02-10",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-global-smart-learning-market-size-is-projected-to-grow-to-usd-565-billion-by-2024-at-a-cagr-of-195-researchandmarketscom.md",
-      "title": "Global Smart Learning Market Size is Projected to Grow to USD 56.5 Billion by 2024, at a CAGR of 19.5% - ResearchAndMarkets.com",
-      "excerpt": "The proliferation of connected devices in the education sector The major factors driving the growth of the smart learning market include the proliferation of connected devices in the education sector, adoption of eLearning solutions, and growing use of Artificial Intelligence (AI) and Machine Learning (ML) in smart learning. Software segment to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200210005444/en/Global-Smart-Learning-Market-Size-Projected-Grow",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T03:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-googles-meena-is-impressive-but-ai-chatbots-are-still-cheap-imitations-of-humans.md",
-      "title": "Google’s Meena is impressive, but AI chatbots are still “cheap imitations” of humans",
-      "excerpt": "But so far, current AI can only engage in language-related tasks as long as the problem domain ... Sequence to sequence models are especially good for language-related tasks such as translation and question-answering. There are other types of seq2seq models such as LSTM (long short-term memory) and GRU (gated recurrent unit) networks.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/syndication/2020/02/10/googles-meena-is-impressive-but-ai-chatbots-are-still-cheap-initiations-of-humans/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-hearing-to-review-self-driving-car-legislation.md",
-      "title": "Hearing to review self-driving car legislation",
-      "excerpt": "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eenews.net/eedaily/2020/02/10/stories/1062290541",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "E&E",
-        "domain": "eenews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-hitachi-and-vietcredit-start-a-demonstration-experiment-to-provide-new-financial-services-using-ai.md",
-      "title": "Hitachi and VietCredit Start a Demonstration Experiment to Provide New Financial Services Using AI",
-      "excerpt": "Hitachi, Ltd. (TSE:6501), Hitachi Asia (Vietnam) Co, Ltd., a local subsidiary of Hitachi in Vietnam, and VietCredit Finance Company, a consumer financial institute in Vietnam, today announced that the three companies have reached an agreement on the start of a demonstration experiment (the Demonstration) to provide new financial services using digital technology such as AI.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/02/a15286483/hitachi-and-vietcredit-start-a-demonstration-experiment-to-provide-new-financial-services-using-ai",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-09T22:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-how-e-scooters-self-driving-cars-and-flying-taxis-will-shape-the-future-of-your-commute.md",
-      "title": "How e-scooters, self-driving cars, and flying taxis will shape the future of your commute",
-      "excerpt": "Tomorrow, the bosses of some of the most forward-thinking — and best-funded — mobility companies will gather in London at the Move 2020 conference. With electric scooters, self-driving cars and even flying taxis on the agenda, City A.M. takes a deep dive into three modes of transport which could revolutionise the way we get to work.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cityam.com/e-scooters-self-driving-cars-flying-taxis-future-commute/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T00:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-how-the-expansion-of-artificial-neural-networks-can-drive-your-business.md",
-      "title": "How The Expansion Of Artificial Neural Networks Can Drive Your Business",
-      "excerpt": "ANN is basically the framework for letting many different machine learning algorithms work together to process very complex operations.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

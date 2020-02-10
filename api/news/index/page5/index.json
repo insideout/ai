@@ -2,6 +2,87 @@
   "page": 5,
   "value": [
     {
+      "path": "_posts/2020-01-30-artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regulation.md",
+      "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
+      "excerpt": "A debate on the future of artificial intelligence (AI ... revolutionising areas like voice recognition and translation. In healthcare it's expected to allow huge leaps in drug development. But facial recognition is an AI technology that is much less ...",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.euronews.com/2020/01/30/artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regula",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/04/46/77/08/1000x563_cmsv2_4b54ef2d-a930-5c2b-8df2-fdd3463c9b63-4467708.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-30-artificial-intelligence-platform-market-research-technology-outlook-2019-2024.md",
+      "title": "Artificial Intelligence Platform Market Research Technology Outlook 2019-2024",
+      "excerpt": "The Artificial Intelligence Platform Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2024. The Artificial Intelligence Platform market report is a valuable source of data for business strategists.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-research-technology-outlook-2019-2024-2020-01-30",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T13:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Platform Market Research Technology Outlook 2019-2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-01-30-backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done.md",
       "title": "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done",
       "excerpt": "When you get behind the wheel of a car, it is a solemn duty and one that holds you responsible for what the car ends up doing. While driving, if you suddenly realize that you are about to ram into another car,",
@@ -2018,87 +2099,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-01-the-future-of-work-dont-fear-the-robot.md",
-      "title": "The future of work: Don’t fear the robot",
-      "excerpt": "Thus the challenge of government trying to guide the future of work. Globalization and the advancement of artificial intelligence further complicate the ability to anticipate the necessary policy steps. “We are not in a robot apocalypse where there will be no jobs in the future,” Mendonca said. But that economy is going to reward the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sfchronicle.com/opinion/diaz/article/The-future-of-work-Don-t-fear-the-robot-15021304.php",
-      "ampWebUrl": "https://www.sfchronicle.com/opinion/diaz/amp/The-future-of-work-Don-t-fear-the-robot-15021304.php",
-      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/diaz/amp/The-future-of-work-Don-t-fear-the-robot-15021304.php",
-      "publishedDateTime": "2020-01-31T16:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Francisco Chronicle",
-        "domain": "sfchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/10/24/70/18959912/5/rawImage.jpg",
-          "width": 2048,
-          "height": 1374,
-          "title": "The future of work: Don’t fear the robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-01-what-if-ai-could-anticipate-our-wants-and-needs.md",
-      "title": "What If AI Could Anticipate Our Wants and Needs?",
-      "excerpt": "The lines of code that animate these machines will inevitably lack nuance, forget to spell out caveats, and end up giving AI systems goals and incentives that don’t align with our true preferences. A now-classic thought experiment illustrating this problem was posed by the Oxford philosopher Nick Bostrom in 2003. Bostrom imagined a ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theatlantic.com/technology/archive/2020/02/real-danger-artificial-intelligence/605914/",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/605914/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/605914/",
-      "publishedDateTime": "2020-02-01T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/assets/media/img/mt/2020/01/AI_Genie_3K_Lede/lead.jpg?mod=1580505331",
-          "width": 570,
-          "height": 321,
-          "title": "What If AI Could Anticipate Our Wants and Needs?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

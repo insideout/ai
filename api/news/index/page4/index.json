@@ -2,6 +2,96 @@
   "page": 4,
   "value": [
     {
+      "path": "_posts/2020-01-28-this-young-innovator-is-a-champion-of-ai-for-good.md",
+      "title": "This Young Innovator Is A Champion Of AI For Good",
+      "excerpt": "At the AIMed conference 2019, UCI’s sophomore, and Dalai Lama Scholar Karishma Muthukumar gave an opening speech about her big idea of using empathy-based artificial intelligence to improve human connection in the healthcare field.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/this-young-innovator-is-a-champion-of-ai-for-good/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/this-young-innovator-is-a-champion-of-ai-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/this-young-innovator-is-a-champion-of-ai-for-good/amp/",
+      "publishedDateTime": "2020-01-28T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2f1c45f133f400076acafb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D616%26cropY1%3D76%26cropY2%3D423",
+          "width": 616,
+          "height": 348,
+          "title": "This Young Innovator Is A Champion Of AI For Good",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-28-ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.md",
+      "title": "Uber's self-driving cars are a key to its path to profitability",
+      "excerpt": "Uber plans to launch its self-driving cars in pockets of cities where weather, demand and other conditions are most favorable.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html",
+      "publishedDateTime": "2020-01-28T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104181597-GettyImages-605519688.jpg?v=1529473695",
+          "width": 1024,
+          "height": 681,
+          "title": "Uber's self-driving cars are a key to its path to profitability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/2020-01-28-using-ai-people-who-are-blind-are-able-to-find-familiar-faces-in-a-room.md",
       "title": "Using AI, people who are blind are able to find familiar faces in a room",
       "excerpt": "Theo is now one of several members of the blind and low-vision community who are working with Regan, Grayson, researcher Cecily Morrison and her team on Project Tokyo, a multipronged research effort to create intelligent personal agent technology that uses artificial intelligence ... “To get the vision of Project Tokyo done, you have to ...",
@@ -2042,87 +2132,6 @@
         "AI",
         "Natural Language Processing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regulation.md",
-      "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
-      "excerpt": "A debate on the future of artificial intelligence (AI ... revolutionising areas like voice recognition and translation. In healthcare it's expected to allow huge leaps in drug development. But facial recognition is an AI technology that is much less ...",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.euronews.com/2020/01/30/artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regula",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/04/46/77/08/1000x563_cmsv2_4b54ef2d-a930-5c2b-8df2-fdd3463c9b63-4467708.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-artificial-intelligence-platform-market-research-technology-outlook-2019-2024.md",
-      "title": "Artificial Intelligence Platform Market Research Technology Outlook 2019-2024",
-      "excerpt": "The Artificial Intelligence Platform Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2024. The Artificial Intelligence Platform market report is a valuable source of data for business strategists.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-research-technology-outlook-2019-2024-2020-01-30",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T13:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Platform Market Research Technology Outlook 2019-2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

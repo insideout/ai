@@ -2,6 +2,584 @@
   "page": 10,
   "value": [
     {
+      "path": "_posts/2020-02-10-facebook-has-acquired-scape-technologies-the-london-based-computer-vision-startup.md",
+      "title": "Facebook has acquired Scape Technologies, the London-based computer vision startup",
+      "excerpt": "Scape Technologies, the London-based computer vision startup working on location accuracy beyond the capabilities of GPS, has been acquired by Facebook, according to a regulatory filing. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc. now has majority control of the company (more than 75%).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/08/scapebook/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T02:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-facebook-releases-open-source-library-for-3d-deep-learning-pytorch3d.md",
+      "title": "Facebook Releases Open-Source Library For 3D Deep Learning: PyTorch3D",
+      "excerpt": "This opened a whole new field altogether — differentiable programming. In a significant boost to 3D deep learning research, Facebook AI has released PyTorch3D, a highly modular and optimised library with unique capabilities to make 3D deep learning easier with PyTorch. PyTorch3d provides efficient, reusable components for 3D Computer Vision ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/facebook-releases-open-source-library-for-3d-deep-learning-pytorch3d/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-facebook-takes-control-of-london-computer-vision-start-up-scape-technologies.md",
+      "title": "Facebook takes control of London computer vision start-up Scape Technologies",
+      "excerpt": "Facebook has acquired majority control of London-based computer vision start-up company Scape Technologies, TechCrunch reported. A regulatory filing with Companies House shows that Facebook now controls more than 75 percent of the company. Scape Technologies is developing hyper-accurate location recognition technology for augmented reality (AR ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telecompaper.com/news/facebook-takes-control-of-london-computer-vision-start-up-scape-technologies--1325962",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecompaper",
+        "domain": "telecompaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-facial-recognition-the-next-step-in-fight-against-rabies.md",
+      "title": "Facial recognition: the next step in fight against rabies",
+      "excerpt": "The research team, based out of Washington State University’s Paul G. Allen School for Global Animal Health, is working with PiP My Pet, a company that developed a mobile application that uses facial recognition to reunite lost pets with their owners. The only twist; rather than locate the lost, the company designed a new app to track which ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence.md",
+      "title": "FIFA’s Plans To Improve VAR Offside Calls With Artificial Intelligence",
+      "excerpt": "FIFA has begun the early stages of testing for a new semi-automated offside system that combines AI with limb tracking technology. I spoke to FIFA's head of technology and innovation to find out how it works and when fans might first get to see it in action.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/steveprice/2020/02/10/fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-fintech-trends-everyone-should-look-for-in-2020.md",
+      "title": "Fintech Trends Everyone Should Look For in 2020",
+      "excerpt": "Now, fintech companies can understand more about us through our online behaviour, browsing history and app usage on our likes and dislikes, preferences, credit and repayment history and more. With AI being omnipresent across multiple channels, fintech companies are looking to combine the power of both to deliver better services and experiences ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.paymentsjournal.com/fintech-trends-everyone-should-look-for-in-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PaymentsJournal",
+        "domain": "paymentsjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-flighthub-justfly-on-robots-and-travel.md",
+      "title": "FlightHub & JustFly on robots and travel",
+      "excerpt": "Once programmed, some robots function autonomously. Still, many robots require more guidance, especially when used with third-party software for voice recognition, accident detection, virtual reality applications, and others. When combined with artificial intelligence (AI), robots become far more sophisticated. AI’s ability to record and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/10/flighthub-justfly-on-robots-and-travel/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-global-artificial-intelligence-ai-market-size-share-trends-analysis-2018-2025.md",
+      "title": "Global Artificial Intelligence (AI) Market Size, Share & Trends Analysis 2018-2025",
+      "excerpt": "Dublin, Feb. 10, 2020 (GLOBE NEWSWIRE) -- The \"Artificial Intelligence Market Size, Share & Trends Analysis Report By Solution, By",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/02/10/1982156/0/en/Global-Artificial-Intelligence-AI-Market-Size-Share-Trends-Analysis-2018-2025.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T02:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-global-emotion-detection-and-recognition-market-projected-to-reach-usd-59498-million-by-2026-facts-factors.md",
+      "title": "Global Emotion Detection and Recognition Market Projected to Reach USD 59,498 Million By 2026: Facts & Factors",
+      "excerpt": "According to the report, At 25% CAGR Rate, Global emotion detection and recognition market anticipated to reach",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-emotion-detection-and-recognition-market-projected-to-reach-usd-59498-million-by-2026-facts-factors-2020-02-10",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-global-smart-learning-market-size-is-projected-to-grow-to-usd-565-billion-by-2024-at-a-cagr-of-195-researchandmarketscom.md",
+      "title": "Global Smart Learning Market Size is Projected to Grow to USD 56.5 Billion by 2024, at a CAGR of 19.5% - ResearchAndMarkets.com",
+      "excerpt": "The proliferation of connected devices in the education sector The major factors driving the growth of the smart learning market include the proliferation of connected devices in the education sector, adoption of eLearning solutions, and growing use of Artificial Intelligence (AI) and Machine Learning (ML) in smart learning. Software segment to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200210005444/en/Global-Smart-Learning-Market-Size-Projected-Grow",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T03:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-googles-meena-is-impressive-but-ai-chatbots-are-still-cheap-imitations-of-humans.md",
+      "title": "Google’s Meena is impressive, but AI chatbots are still “cheap imitations” of humans",
+      "excerpt": "But so far, current AI can only engage in language-related tasks as long as the problem domain ... Sequence to sequence models are especially good for language-related tasks such as translation and question-answering. There are other types of seq2seq models such as LSTM (long short-term memory) and GRU (gated recurrent unit) networks.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/syndication/2020/02/10/googles-meena-is-impressive-but-ai-chatbots-are-still-cheap-initiations-of-humans/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-hearing-to-review-self-driving-car-legislation.md",
+      "title": "Hearing to review self-driving car legislation",
+      "excerpt": "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eenews.net/eedaily/2020/02/10/stories/1062290541",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "E&E",
+        "domain": "eenews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-hitachi-and-vietcredit-start-a-demonstration-experiment-to-provide-new-financial-services-using-ai.md",
+      "title": "Hitachi and VietCredit Start a Demonstration Experiment to Provide New Financial Services Using AI",
+      "excerpt": "Hitachi, Ltd. (TSE:6501), Hitachi Asia (Vietnam) Co, Ltd., a local subsidiary of Hitachi in Vietnam, and VietCredit Finance Company, a consumer financial institute in Vietnam, today announced that the three companies have reached an agreement on the start of a demonstration experiment (the Demonstration) to provide new financial services using digital technology such as AI.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/02/a15286483/hitachi-and-vietcredit-start-a-demonstration-experiment-to-provide-new-financial-services-using-ai",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-09T22:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-house-panel-to-hold-hearing-to-advance-rules-on-self-driving-vehicles.md",
+      "title": "House Panel to Hold Hearing to Advance Rules on Self-Driving Vehicles",
+      "excerpt": "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.insurancejournal.com/news/national/2020/02/10/557962.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurance Journal",
+        "domain": "insurancejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-how-ai-is-powering-the-future-of-work-key-considerations-for-business-and-tech-leaders.md",
+      "title": "How AI is powering the Future of Work: key considerations for business and tech leaders",
+      "excerpt": "Business executives are now needed to deeply understand the potential of AI and translate it into a viable roadmap for their business ... Machine Learning (ML), deep learning, Natural Language Processing (NLP), and other AI-related concepts. On a broader scale, we also need universities and colleges to improve the existing knowledge base ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/02/ai-transformation-future-work-business-tech-leaders",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-how-e-scooters-self-driving-cars-and-flying-taxis-will-shape-the-future-of-your-commute.md",
+      "title": "How e-scooters, self-driving cars, and flying taxis will shape the future of your commute",
+      "excerpt": "Tomorrow, the bosses of some of the most forward-thinking — and best-funded — mobility companies will gather in London at the Move 2020 conference. With electric scooters, self-driving cars and even flying taxis on the agenda, City A.M. takes a deep dive into three modes of transport which could revolutionise the way we get to work.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cityam.com/e-scooters-self-driving-cars-flying-taxis-future-commute/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T00:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-how-the-expansion-of-artificial-neural-networks-can-drive-your-business.md",
+      "title": "How The Expansion Of Artificial Neural Networks Can Drive Your Business",
+      "excerpt": "ANN is basically the framework for letting many different machine learning algorithms work together to process very complex operations.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-how-to-start-implementing-ai-into-your-daily-routine.md",
+      "title": "How to start implementing AI into your daily routine",
+      "excerpt": "Tonya Hall and Byron Reese, author, futurist, and CEO of GigaOm, talk about the revolutionary ways that AI will change our lives and why we should start implementing the technology into our daily routines.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/how-to-start-implementing-ai-into-your-daily-routine/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-indians-are-suspicious-of-voice-assistants-but-not-enough-to-forgo-their-convenience.md",
       "title": "Indians are suspicious of voice assistants, but not enough to forgo their convenience",
       "excerpt": "The report pegs speech and voice recognition technology market in India at Rs149.95 crore ($22.54 million) as of December 2019. This is expected to grow to Rs210.63 crore by 2020-end. Nearly, 78% of the respondents said they are familiar with voice recognition technology, according to the report. Voice assistants in India are widely being ...",
@@ -41,27 +619,19 @@
     {
       "path": "_posts/2020-02-10-mcloud-announces-tuck-in-acquisition-of-ai-visual-inspection-technology-from-airfusion.md",
       "title": "mCloud Announces Tuck-In Acquisition of AI Visual Inspection Technology from AirFusion",
-      "excerpt": "Headquartered in Vancouver, Canada with offices in twelve locations worldwide, the mCloud family includes an ecosystem of operating subsidiaries that deliver high-performance IoT, AI, 3D, and mobile capabilities to customers, all integrated into AssetCare. With over 100 blue-chip customers and more than 35,000 assets connected in thousands of ...",
+      "excerpt": "Acquisition brings AssetCare™ to major wind operators and OEMs in continental Europe, with plans to extend AI-powered wind turbine blade inspection to customers globally, including China and North America,",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mcloud-announces-tuck-in-acquisition-of-ai-visual-inspection-technology-from-airfusion-1028889157",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/02/n15288782/mcloud-announces-tuck-in-acquisition-of-ai-visual-inspection-technology-from-airfusion",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-02-10T04:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -91,6 +661,100 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-mitek-claims-spoof-proof-breakthrough-in-facial-recognition.md",
+      "title": "Mitek claims spoof-proof breakthrough in facial recognition",
+      "excerpt": "As the industry-first provider of Liveness Detection, Mitek is extending its technology to offer virtually spoof-proof facial comparison across all digital channels (native and web) - through one simple selfie. There are no additional steps for the consumer. Mitek’s extended Liveness Detection provides customers with additional security ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.finextra.com/pressarticle/81436/mitek-claims-spoof-proof-breakthrough-in-facial-recognition",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-new-ai-technology-from-arm-delivers-unprecedented-on-device-intelligence-for-iot.md",
+      "title": "New AI Technology From Arm Delivers Unprecedented On-Device Intelligence for IoT",
+      "excerpt": "CAMBRIDGE, England--(BUSINESS WIRE)--Today, Arm announced significant additions to its artificial intelligence (AI) platform, including new machine learning (ML) IP, the Arm ® Cortex ®-M55 processor and Arm Ethos™-U55 NPU, the industry’s first microNPU (Neural Processing Unit) for Cortex-M, designed to deliver a combined 480x leap in ML ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200210005346/en/New-AI-Technology-Arm-Delivers-Unprecedented-On-Device",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-new-startup-prickle-announces-chrome-extension-to-demystify-pricing-fluctuations.md",
+      "title": "New Startup Prickle Announces Chrome Extension to Demystify Pricing Fluctuations",
+      "excerpt": "Tech startup Prickle launches its premiere product Melbourne, Australia -- Prickle is a revolutionary new Google Chrome browser extension that helps consumers track the changing price of any product online,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/new-startup-prickle-announces-chrome-extension-to-demystify-pricing-fluctuations-2020-02-10",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -233,6 +897,36 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-public-sector-lacking-openness-and-transparency-in-the-use-of-ai-and-machine-learning-warns-report.md",
+      "title": "Public sector lacking openness and transparency in the use of AI and machine learning, warns report",
+      "excerpt": "\"Our concerns here overlap with key themes from the field of AI ethics.\" The risk is that AI will undermine the three principles of openness, objectivity, and accountability, Evans added. \"This review found that the government is failing on openness. Public sector organisations are not sufficiently transparent about their use of AI and it is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computing.co.uk/news/4010414/public-sector-ai",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-quantum-computing-market-is-poised-to-surpass-649883-million-by-2030-ps-intelligence.md",
       "title": "Quantum Computing Market is Poised to Surpass $64,988.3 Million By 2030: P&S Intelligence",
       "excerpt": "Quantum Computing Market Research Report: By Offering (Hardware, Software, Service), Deployment Type (On-Premises, Cloud-Based), Application",
@@ -258,6 +952,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security.md",
+      "title": "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security",
+      "excerpt": "In the midst of an unprecedented stock market rally and record-low unemployment, many Americans still struggle to meet their financial needs. Neel Yerneni and Tucker Haas have created Quo to provide Americans with the financial security they need in today's economy.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -294,6 +1025,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-softbank-owned-arm-to-launch-new-ai-chip-for-small-devices.md",
+      "title": "SoftBank-owned Arm to launch new AI chip for small devices",
+      "excerpt": "Arm Ltd, a semiconductor technology firm owned by SoftBank Group, unveiled a chip technology aimed at putting artificial intelligence functions on tiny devices such as sensors designed to detect patterns in human speech or other streams of data.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-arm-tech-idUSKBN2041MK",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -456,6 +1224,35 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-transperfect-dataforce-selected-by-catalia-health-to-add-spanish-language-capabilities-to-its-personal-healthcare-companion-mabu.md",
+      "title": "TransPerfect DataForce Selected by Catalia Health to Add Spanish-Language Capabilities to Its Personal Healthcare Companion, Mabu",
+      "excerpt": "/PRNewswire/ -- TransPerfect, the world's largest provider of language and technology solutions for global business, today announced that Catalia Health",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/transperfect-dataforce-selected-by-catalia-health-to-add-spanish-language-capabilities-to-its-personal-healthcare-companion-mabu-301001920.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-two-pittsburgh-companies-are-semifinalists-in-global-ibm-tech-prize.md",
       "title": "Two Pittsburgh Companies Are Semifinalists In Global IBM Tech Prize",
       "excerpt": "An international competition for tech companies making a humanitarian difference has two Pittsburgh-based semifinalists. Marinus Analytics and CleanRobotics are among ten companies still in the running for the IBM Watson AI XPRIZE. The quest for the $3 million first prize began in the summer of 2016 with 62 teams. The competition’s winner ...",
@@ -548,6 +1345,43 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds.md",
+      "title": "UK public sector failing to be open about its use of AI, review finds",
+      "excerpt": "The use of AI in the UK public sector remains limited ... supporting the government’s intention for the Centre for Data Ethics and Innovation (CDEI), which was announced in 2017, to perform ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/10/uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -773,1079 +1607,6 @@
           "width": 1022,
           "height": 512,
           "title": "Meet the new face-detection algorithm that will change image search",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2016-02-23-trolls-vs-pirates-halostryker-oral-arguments.md",
-      "title": "Trolls vs Pirates: Halo/Stryker Oral Arguments",
-      "excerpt": "Wall’s approach was to highlight the general nature of the the statute ... MR. WALL: [W]e and the PTO and many of Respondents’ amici recognize, the system as it currently stands is out of balance. And we have tried, and I believe we have succeeded ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patentlyo.com/patent/2016/02/pirates-halostryker-arguments.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2016-02-23T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patently-O",
-        "domain": "patentlyo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2017-05-01-a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-13.md",
-      "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
-      "excerpt": "Artificial Intelligence and the fourth industrial revolution has made some considerable progress over the last couple of years. Most of this current progress that is usable has been developed for ...",
-      "heat": 161,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2017-04-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/freeze/max/1200/1*KdbQDJccO7aoNIvDrjUhzA.gif",
-          "width": 1200,
-          "height": 675,
-          "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2017-07-27-kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video.md",
-      "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
-      "excerpt": "According to an essay in The Huffington Post, pop singer Kesha, while writing “Learn to Let Go,” was also inspired by ... where she encounters signposts from her past—including a cleverly devised fake swimming pool—that parallel the funny, often ...",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/",
-      "ampWebUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
-      "cdnAmpWebUrl": "https://www-slantmagazine-com.cdn.ampproject.org/c/s/www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
-      "publishedDateTime": "2017-07-27T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slant Magazine",
-        "domain": "slantmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.slantmagazine.com/wp-content/uploads/2017/07/music_learntoletgo-600x600.jpg",
-          "width": 600,
-          "height": 600,
-          "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2018-08-22-society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix.md",
-      "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
-      "excerpt": "In the movie The Matrix, humans are imprisoned in a virtual world by a powerful artificial intelligence system in a dystopian future. What they take to be ... with their senses is actually made of AI-generated code. Life in our current society is very ...",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@caityjohnstone/society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix-787c7e2539ae",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-08-21T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*pmMn-OBDF907eDRG",
-          "width": 1200,
-          "height": 900,
-          "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2018-08-29-everything-you-need-to-know-about-key-differences-between-ai-data-science-machine-learning-and-big-data.md",
-      "title": "Everything you need to know about key differences between AI, Data Science, Machine Learning and Big Data",
-      "excerpt": "“All right, but what’s the difference between data science and AI ... claims that: “Machine learning is a part of research on artificial intelligence, seeking to provide knowledge to ...",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/dlabs-pl/everything-you-need-to-know-about-key-differences-between-ai-data-science-machine-learning-and-4ad7ab0b516b",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1024/1*Ps0DH-MFVfZKjkhgFoL3Kg.jpeg",
-          "width": 1024,
-          "height": 683,
-          "title": "Everything you need to know about key differences between AI, Data Science, Machine Learning and Big Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-01-12-serbian-parliament-apologizes-for-1995-srebrenica-bosnia-massacre-president-boris-tadic-says-it-strengthens-links-to-eu.md",
-      "title": "Serbian Parliament apologizes for 1995 Srebrenica, Bosnia, massacre; President Boris Tadic says it strengthens links to EU",
-      "excerpt": "Rajko Kuzmanovic, the president of the Bosnian Serb ministate, said the declaration was \"unacceptable and counterproductive.\" Associated Press writers Jovana Gec in Belgrade, Irena Gajic in Banja Luka, Bosnia-Herzegovina contributed to this report.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cleveland.com/world/2010/03/serbian_parliament_apologizes.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-01-12T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Plain Dealer",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cleveland.com/resizer/EMGywyN0Qp1ASZhljB-bu95oGhQ=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.cleveland.com/home/cleve-media/width2048/img/world_impact/photo/serbia-boris-tadic-massacre-033110jpg-af71bef030ec35fb.jpg",
-          "width": 1280,
-          "height": 860,
-          "title": "Serbian Parliament apologizes for 1995 Srebrenica, Bosnia, massacre; President Boris Tadic says it strengthens links to EU",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-09-30-face-recognition-on-a-raspberry-pi-using-3d-model-for-face-alignment.md",
-      "title": "Face recognition on a Raspberry Pi using 3D model for face alignment",
-      "excerpt": "Many face detectors exist in the literature each having its advantages and disadvantages. Here we used the “Viola & Jones ... recognition task easier. For example we could use a 2D alignment ...",
-      "heat": 152,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@appstud/face-recognition-on-a-raspberry-pi-using-3d-model-for-face-alignment-4bdc38d50dd1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-09-30T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/640/1*Y5Z8dUctqXo2LnLmxkZlzA.jpeg",
-          "width": 640,
-          "height": 480,
-          "title": "Face recognition on a Raspberry Pi using 3D model for face alignment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-16-waymo-acquires-ai-startup-latent-logic.md",
-      "title": "Waymo acquires AI startup Latent Logic",
-      "excerpt": "Waymo has acquired Latent Logic, a startup formed as an Oxford University spinoff that specializes in \"imitation learning\" for artificial intelligence technology. The company has focused its work on simulation environments that help train algorithms for ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "ampWebUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "cdnAmpWebUrl": "https://leftlanenews-com.cdn.ampproject.org/c/s/leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "publishedDateTime": "2019-12-16T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leftlane",
-        "domain": "leftlanenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://leftlanenews.com/images/content/2019-08/WaymoIPACE-city2_700.jpg",
-          "width": 700,
-          "height": 449,
-          "title": "Waymo acquires AI startup Latent Logic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-17-amazon-releases-a-new-tool-to-improve-machine-learning-processes.md",
-      "title": "Amazon Releases A New Tool To Improve Machine Learning Processes",
-      "excerpt": "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/",
-      "publishedDateTime": "2019-12-17T01:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df8a126e961e10007393d3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453",
-          "width": 1199,
-          "height": 675,
-          "title": "Amazon Releases A New Tool To Improve Machine Learning Processes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-18-how-the-driverless-vehicles-dilemma-highlights-wider-system-safety-issues.md",
-      "title": "How the driverless vehicles dilemma highlights wider system safety issues",
-      "excerpt": "Artificial intelligence (AI) is already playing a significant part ... This question of bias is a crucial one when considering system safety issues. Our theoretical driverless vehicle needs to know how to value individuals in its “save or sacrifice ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354325/how-the-driverless-vehicles-dilemma-highlights-wider?amp",
-      "publishedDateTime": "2019-12-17T22:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1576169739/itpro/2019/12/AI_Ethics_good_vs_bad.jpg",
-          "width": 6222,
-          "height": 3500,
-          "title": "How the driverless vehicles dilemma highlights wider system safety issues",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-18-why-some-cities-states-and-lawmakers-want-to-curb-facial-recognition-technology.md",
-      "title": "Why some cities, states and lawmakers want to curb facial recognition technology",
-      "excerpt": "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of ...",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usatoday.com/story/tech/2019/12/17/face-recognition-ban-some-cities-states-and-lawmakers-push-one/2680483001/",
-      "ampWebUrl": "https://amp.usatoday.com/amp/2680483001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2680483001",
-      "publishedDateTime": "2019-12-17T16:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/11/19/USAT/4673ca8f-44ed-4dcf-99a0-2c54536bf6fc-AFP_AFP_1LW6JF.JPG?crop=3104,2328,x175,y0&quality=50&width=640",
-          "width": 640,
-          "height": 480,
-          "title": "Why some cities, states and lawmakers want to curb facial recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-19-12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks.md",
-      "title": "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks",
-      "excerpt": "However, previous research in visually-grounded language understanding have been mostly task-specific. Researchers from the Facebook AI Research, Georgia Institute of Technology, and Oregon State University found that the skills required for different V&L ...",
-      "heat": 65,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/syncedreview/12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks-e4553d91599d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*0vHYTrZBDprt8NP4KByFkg.png",
-          "width": 1200,
-          "height": 419,
-          "title": "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-19-tiny-robotic-insect-can-withstand-multiple-heavy-hits-from-a-fly-swatter.md",
-      "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
-      "excerpt": "Scientists have pulled inspiration from insects in order to create a tiny ... It might sound like science fiction, but it's actually more plausible than you might think.' It is also designed ...",
-      "heat": 141,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "publishedDateTime": "2019-12-19T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2019/12/19/17/22463342-0-image-a-30_1576777846491.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-ai-accelerator-card-offers-face-object-recognition-applications.md",
-      "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
-      "excerpt": "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ...",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecuriMetrics HIIDE",
-        "domain": "findbiometrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://findbiometrics.com/wp-content/uploads/computervision.jpeg",
-          "width": 400,
-          "height": 258,
-          "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-computer-vision-and-the-ccpa-what-you-need-to-know.md",
-      "title": "Computer Vision and the CCPA: What You Need to Know",
-      "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png",
-          "width": 1200,
-          "height": 744,
-          "title": "Computer Vision and the CCPA: What You Need to Know",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-facebook-discovers-fakes-that-show-evolution-of-disinformation.md",
-      "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
-      "excerpt": "The network exposed by Facebook used fake profile photos generated with artificial intelligence.Credit...Graphika/The Atlantic Council’s Digital Forensic Research Lab Facebook said on Friday that it had removed hundreds of accounts with ties to the Epoch ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.html",
-      "ampWebUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
-      "publishedDateTime": "2019-12-20T15:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2019/12/20/business/20takedown3/20takedown3-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos.md",
-      "title": "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos",
-      "excerpt": "Facebook says it worked with independent researchers Graphika and the Atlantic Council’s Digital Forensic Research Lab (DFRLab ... most notably that the network was using artificial intelligence to generate fake profile photos. The network banned ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/",
-      "ampWebUrl": "https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/",
-      "publishedDateTime": "2019-12-20T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F939701722%2F0x0.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-21-computer-vision-and-the-ccpa-what-you-need-to-know.md",
-      "title": "Computer Vision and the CCPA: What You Need to Know",
-      "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601?source=topic_page---------2------------------1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-20T16:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png",
-          "width": 1200,
-          "height": 744,
-          "title": "Computer Vision and the CCPA: What You Need to Know",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-21-facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages.md",
-      "title": "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages",
-      "excerpt": "Facebook and Twitter have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior,",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
-      "publishedDateTime": "2019-12-20T20:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-138654/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-21-what-is-natural-language-processing-nlp.md",
-      "title": "What is Natural Language Processing (NLP)?",
-      "excerpt": "Aristo found its answers from among billions of documents using natural language processing (NLP), a branch of computer science and artificial intelligence that enables computers to extract meaning from unstructured text. Though we're still a long way from ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp",
-      "ampWebUrl": "https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1",
-      "publishedDateTime": "2019-12-21T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02Bp7I29l1NFftRcxQQllxT-1.fit_lpad.size_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "What is Natural Language Processing (NLP)?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-22-artificial-intelligence-can-help-detect-blood-cancer-study.md",
-      "title": "Artificial Intelligence can help detect blood cancer: Study",
-      "excerpt": "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added ... out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze.",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/",
-      "ampWebUrl": "https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/",
-      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/",
-      "publishedDateTime": "2019-12-22T02:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheHealthSite",
-        "domain": "thehealthsite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://st1.thehealthsite.com/wp-content/uploads/2019/12/cancer-news.jpg",
-          "width": 675,
-          "height": 365,
-          "title": "Artificial Intelligence can help detect blood cancer: Study",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-22-facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages.md",
-      "title": "Facebook says group used AI-generated faces to push pro-Trump messages",
-      "excerpt": "Facebook Inc has taken down a well-financed ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html",
-      "publishedDateTime": "2019-12-22T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG",
-          "width": 600,
-          "height": 337,
-          "title": "Facebook says group used AI-generated faces to push pro-Trump messages",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-22-real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach.md",
-      "title": "Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach",
-      "excerpt": "This article, introduces to the multiple AutoML tools for a real life problem. Different than the other articles about AutoML, we will use multiple AutoML tool for the same project or multiple ...",
-      "heat": 63,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@sadievrenseker/real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach-96edcdc70932",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*B7sxpiEDrzG1YH09fMeH_w.png",
-          "width": 1200,
-          "height": 634,
-          "title": "Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-22-top-25-ai-startups-who-raised-the-most-money-in-2019.md",
-      "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
-      "excerpt": "Its Cognito platform accelerates threat detection and investigation using artificial intelligence to collect ... and robotics teams at companies like Waymo, OpenAI, Lyft, Zoox, Pinterest, and Airbnb focus on building differentiated models vs.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
-      "publishedDateTime": "2019-12-22T13:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-23-artificial-intelligence-that-tracks-down-leukemia-discovered.md",
-      "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
-      "excerpt": "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\"",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
-      "publishedDateTime": "2019-12-23T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-24-artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023.md",
-      "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
-      "excerpt": "Dec 24, 2019 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2019 report focuses on the budding trends of market, market share, its segmentation, regional outlook and have explored different segments of the market. The Artificial ...",
-      "heat": 63,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-24T01:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
           "attribution": null
         }
       ],

@@ -2,6 +2,116 @@
   "page": 8,
   "value": [
     {
+      "path": "_posts/2020-02-06-energy-names-inaugural-director-of-new-artificial-intelligence-and-technology-office.md",
+      "title": "Energy Names Inaugural Director of New Artificial Intelligence and Technology Office",
+      "excerpt": "Less than a half-year into its existence, the Energy Department’s new Artificial Intelligence and Technology Office officially unveiled its leader. According to a Thursday announcement, the agency’s undersecretary for science officially swore in Cheryl Ingstad as the inaugural director of AITO on Feb. 4. “AI technologies will be as ...",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/02/energy-names-inaugural-director-new-artificial-intelligence-and-technology-office/162922/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-06T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/upload/2020/02/05/NGai20200205/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Energy Names Inaugural Director of New Artificial Intelligence and Technology Office",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon.md",
+      "title": "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon",
+      "excerpt": "The European Central Bank (ECB) has partnered with Reply, a platform focused on digital innovation, in order to offer a 48-hour coding marathon, which will focus on teaching participants how to apply the latest artificial intelligence (AI) and machine learning (ML) algorithms. The marathon is scheduled to take place during the final days of ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/",
+      "publishedDateTime": "2020-02-06T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Euro-Money-Europe-20-bright-300x216.jpeg",
+          "width": 300,
+          "height": 216,
+          "title": "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-06-facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites.md",
+      "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
+      "excerpt": "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ...",
+      "heat": 357,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/",
+      "ampWebUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/",
+      "cdnAmpWebUrl": "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/",
+      "publishedDateTime": "2020-02-05T18:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Snopes.com",
+        "domain": "snopes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452",
+          "width": 800,
+          "height": 452,
+          "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-06-how-ai-can-help-keep-your-customers-onside.md",
       "title": "How AI Can Help Keep Your Customers Onside",
       "excerpt": "After years of hype around the potential of artificial intelligence (AI), the augmented workforce is finally a reality for many businesses. But while much of the attention so far has focused on relatively simplistic chatbots helping field basic customer enquiries,",
@@ -2043,133 +2153,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-08-biased-algorithms-learn-from-biased-data-3-kinds-biases-found-in-ai-datasets.md",
-      "title": "Biased Algorithms Learn From Biased Data: 3 Kinds Biases Found In AI Datasets",
-      "excerpt": "Algorithmic bias negatively impacts society, and has a direct negative impact on the lives of traditionally marginalized groups.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/amp/",
-      "publishedDateTime": "2020-02-07T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3e257cf133f400076bf4fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5785%26cropY1%3D413%26cropY2%3D3667",
-          "width": 1200,
-          "height": 675,
-          "title": "Biased Algorithms Learn From Biased Data: 3 Kinds Biases Found In AI Datasets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-08-cadillac-brings-self-driving-smarts-to-the-new-escalade.md",
-      "title": "Cadillac Brings Self-Driving Smarts to the New Escalade",
-      "excerpt": "He is a member of the Academy of Motion Pictures Arts and Sciences. TopicsCadillac Self-Driving Cars SUVs WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/",
-      "ampWebUrl": "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/2021-escalade-super-cruise-self-driving/amp",
-      "publishedDateTime": "2020-02-07T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e3c9fc2184f8b00092042da/master/pass/Transpo-2021-Cadillac-Escalade-053.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Cadillac Brings Self-Driving Smarts to the New Escalade",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-08-darpa-is-using-gamers-brain-waves-to-train-robot-swarms.md",
-      "title": "DARPA Is Using Gamers’ Brain Waves to Train Robot Swarms",
-      "excerpt": "A team of artificial intelligence researchers at the University at Buffalo plans to study the brain ... gamers to build an advanced AI — so that it can then coordinate the actions of entire fleets of autonomous military robots. The U.S. Defense Advanced Research Projects Agency — better known as DARPA — has awarded the UB team a $ ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://futurism.com/the-byte/darpa-gamers-brain-waves-train-robots-swarms",
-      "ampWebUrl": "https://futurism.com/darpa-gamers-brain-waves-train-robots-swarms/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/darpa-gamers-brain-waves-train-robots-swarms/amp",
-      "publishedDateTime": "2020-02-08T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/02/darpa-gamer-brainwaves-train-killer-robots-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "DARPA Is Using Gamers’ Brain Waves to Train Robot Swarms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

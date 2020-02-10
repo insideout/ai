@@ -2,6 +2,89 @@
   "page": 7,
   "value": [
     {
+      "path": "_posts/2020-02-04-robot-bartender-begins-serving-drinks-in-tokyo-pub.md",
+      "title": "Robot bartender begins serving drinks in Tokyo pub",
+      "excerpt": "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitor customers to analyse their expressions with artificial intelligence software. \"I like it because dealing with people can be a hassle. With this you can just come and get drunk,\" Satoshi Harada, a restaurant ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.html",
+      "ampWebUrl": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html",
+      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html",
+      "publishedDateTime": "2020-02-04T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newshub",
+        "domain": "newshub.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub/_jcr_content/par/image.dynimg.768.q75.jpg/v1580834704692/reuters-PUB-ROBOT-1120.jpg",
+          "width": 768,
+          "height": 438,
+          "title": "Robot bartender begins serving drinks in Tokyo pub",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-04-robot-nutrition-ai-drug-discovery-and-neuro-rehabilitation-11-of-the-most-exciting-healthcare-startups-in-europe.md",
+      "title": "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe",
+      "excerpt": "From robot chefs to smart patches that analyze your sleeping habits, here are 11 of the most exciting health tech companies in Europe.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1",
+      "ampWebUrl": "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp",
+      "publishedDateTime": "2020-02-04T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e32f5e524306a1e385a2fb7?width=1200&format=jpeg",
+          "width": 1000,
+          "height": 500,
+          "title": "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-04-smart-marketing-how-corporate-marketers-deploy-ai.md",
       "title": "Smart Marketing: How Corporate Marketers Deploy AI",
       "excerpt": "Marketers report a 27% increase in the use of AI and machine learning in marketing toolkits over 6 months prior. Top uses include AI for content personalization, targeting, predictive analytics. Organizational challenges to maximize the impact of AI in marketing are discussed.",
@@ -895,6 +978,35 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-05-global-artificial-intelligence-based-cybersecurity-market-2018-2022-29-cagr-projection-through-2022-technavio.md",
+      "title": "Global Artificial Intelligence-based Cybersecurity Market 2018-2022 | 29% CAGR Projection Through 2022 | Technavio",
+      "excerpt": "Register for a free trial today and gain instant access to 17,000+ market research reports. This market report segments the global artificial intelligence-based cybersecurity market by end-users (BFSI, government, ICT, healthcare, and others) and geography (America, APAC, and EMEA). The Americas region led the market in 2017, followed by APAC ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-based-cybersecurity-market-2018-2022-/2020/02/05/9092782.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1983,116 +2095,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-energy-names-inaugural-director-of-new-artificial-intelligence-and-technology-office.md",
-      "title": "Energy Names Inaugural Director of New Artificial Intelligence and Technology Office",
-      "excerpt": "Less than a half-year into its existence, the Energy Department’s new Artificial Intelligence and Technology Office officially unveiled its leader. According to a Thursday announcement, the agency’s undersecretary for science officially swore in Cheryl Ingstad as the inaugural director of AITO on Feb. 4. “AI technologies will be as ...",
-      "heat": 130,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nextgov.com/emerging-tech/2020/02/energy-names-inaugural-director-new-artificial-intelligence-and-technology-office/162922/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/upload/2020/02/05/NGai20200205/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Energy Names Inaugural Director of New Artificial Intelligence and Technology Office",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon.md",
-      "title": "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon",
-      "excerpt": "The European Central Bank (ECB) has partnered with Reply, a platform focused on digital innovation, in order to offer a 48-hour coding marathon, which will focus on teaching participants how to apply the latest artificial intelligence (AI) and machine learning (ML) algorithms. The marathon is scheduled to take place during the final days of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157182-european-central-bank-partners-with-digital-innovation-platform-reply-to-offer-ai-and-machine-learning-coding-marathon/amp/",
-      "publishedDateTime": "2020-02-06T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Euro-Money-Europe-20-bright-300x216.jpeg",
-          "width": 300,
-          "height": 216,
-          "title": "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-06-facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites.md",
-      "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
-      "excerpt": "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ...",
-      "heat": 357,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/",
-      "ampWebUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/",
-      "cdnAmpWebUrl": "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/",
-      "publishedDateTime": "2020-02-05T18:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Snopes.com",
-        "domain": "snopes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452",
-          "width": 800,
-          "height": 452,
-          "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

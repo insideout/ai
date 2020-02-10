@@ -68,6 +68,43 @@
       ]
     },
     {
+      "path": "_posts/2020-01-21-facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage.md",
+      "title": "Facebook’s AI learns the relationships between physical places from first-person video footage",
+      "excerpt": "That’s why a team of researchers from the University of Texas and Facebook AI Research investigated in a paper Ego-Topo, a technique that decomposes a space captured in a video into a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_posts/2020-01-21-machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away.md",
       "title": "Machine learning platform focused on finance can spot a strip club alias a mile away",
       "excerpt": "AppZen's expanded platform combines natural language processing, computer vision, and a data augmentation engine to give the machine the ability to build context around all financial information ... and expenses to make sure companies are not paying for goods and services that fall outside company policies. Kale said the process is the ...",
@@ -1752,50 +1789,6 @@
         "AI in Robotics",
         "AI in Healthcare",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-ibm-uses-ai-to-predict-progress-of-huntingtons-disease-symptoms.md",
-      "title": "IBM uses AI to predict progress of Huntington's disease symptoms",
-      "excerpt": "It could help with patient care and, hopefully, treatment. IBM is using its AI-based health prediction skills to help tackle the challenge of Huntington's disease. The tech firm has teamed up with CHDI Foundation on an artificial intelligence model that can predict when patients will experience Huntington's symptoms and, crucially, determine ...",
-      "heat": 227,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/",
-      "publishedDateTime": "2020-01-27T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5650%252C3993%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1131%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252Fbb8db680-412a-11ea-af7c-8cd9ae0fdc0c%26client%3Da1acac3e1b3290917d92%26signature%3Dc206e2ec62c0d6552fd703fc0d803d344403e1cb&client=amp-blogside-v2&signature=6f5b99c9084bd61fc8e4b93c1e3b30dbf4c3f5dd",
-          "width": 600,
-          "height": 350,
-          "title": "IBM uses AI to predict progress of Huntington's disease symptoms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
