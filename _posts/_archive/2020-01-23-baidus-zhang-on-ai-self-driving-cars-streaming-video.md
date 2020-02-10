@@ -88,6 +88,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "OsuBSE0AImXTd+AWEpYw5QafymO1sSivannTcQq+p6zSVJfRVGQ1xaOVw8p/eYUWF4zCerWoAgzGdOmmR7lGBie9clriFGtxUjbj5GG+GboDI4+zRTcn/PshKjZOspfZjV0MkwJU68TxG3oY5/+R9IT0iANCCJjRBVYEGirBpU+wV96dlDKLe4fuUZpIctOABBGGlNZFLpDV0jRknyjpAQDinkg3yPsmZzTAQQulQgnrl3mi5h2R+C8cfSEYQAvKcdbM3z+NNVDloiwtvp4OHa/pdK/nt3iuu7+v2vxIpCg9SkRcf0g3Pthgr3h46Wi2;iKe28NJpReyaNOZx+lt3oQ=="
+secured: "xccMZVMICBE8czLkNfNTmRa9PT9kR4BpElo/7bvXd9h6ky5IR9SNZjfyJ5VdXeEY/8TCuqnUBE4v3sImfm75i9GOc2/Bx+lVKYFjbflpZNgi32110zAJKdLXijGa8puN5IPUFkphjDAUJdSxOvnUYrPs3eaXHejtceuPEiSiwIaEVs78LSleokQirFT11e4ArswQ8qkM+TDNynYZ+sOOYjPqfGA83ByXwA94vlFeanWcNnNZmLtjXV24xz/51XuBHSxlQkSZzf+ZzLLFK3Qjb5/R0QnOxrBwvQ+9P4vxxPI/akH1/ysTWiLYe7S2Lblv;yEgjziXdDvHd+1eD9r4DzA=="
 ---
 

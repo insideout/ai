@@ -1,22 +1,20 @@
 ---
 category: news
 title: "VA doctors are using artificial intelligence to diagnose cancer"
-excerpt: "“The potential of these technologies to improve health care delivery to veteran patients seems to be limited only by the imagination of the user.”"
-publishedDateTime: 2020-02-09T04:12:00Z
-webUrl: "https://www.armytimes.com/off-duty/military-culture/2020/02/09/va-doctors-are-using-artificial-intelligence-to-diagnose-cancer/"
+excerpt: "Sophisticated artificial intelligence is capable of drastically altering how cancer is diagnosed and treated by learning to distinguish imagery of tissue containing cancerous cells from pictures of healthy tissue, a recent study in the Federal Practitioner journal claims. “Based on a set of images selected to represent a specific tissue or ..."
+publishedDateTime: 2020-02-09T04:13:00Z
+webUrl: "https://www.militarytimes.com/off-duty/military-culture/2020/02/09/va-doctors-are-using-artificial-intelligence-to-diagnose-cancer/"
 type: article
-quality: 41
-heat: 41
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Army Times
-  domain: armytimes.com
+  name: Military Times
+  domain: militarytimes.com
 
 topics:
   - AI
-  - AI in Healthcare
-  - AI Ethics
 
 images:
   - url: "https://www.armytimes.com/resizer/to_jNb_D6OzaD4pxQxunjGcZKrk=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/Q466XCMKUVDILI2TKHH3ZGBGCY.jpg"
@@ -24,6 +22,6 @@ images:
     height: 630
     title: "VA doctors are using artificial intelligence to diagnose cancer"
 
-secured: "W1+xB12u/xlqdGv4yk0kjWM/O9COIne7VYPBQizEZV6Yms75QqEfiE9wM9P0TYCAWgbf09U/ozdnf/wvfSaWjeZ2nLAFl9x4tG1+chpAsExEMzmjppzpPErXyk1R3cXfVxCwBnTnpJGaASX6ELmehtFm5DlIsDQabSEjODt9AfC43GVmUMSOGqWCERIjNsrawMXmbnM05Ed9sBVr+HWCGKYKWAfaehTMFBD0TS64muodxb2iAQFk4M2yerVyQErnR+tumZvCFyjerzFopLgGwVpPiABPEhMW34g8zYB6k5eD5ZNrvt4VRJkh2Yv5QQiLqbxHKJMZHUv4pMFZVkobIychIC+iyoIy1fxc4rCAgYcP4YJoqD4ygyp390OZR+h8ed28T3b+IknXYR1UOfLNbZ/SbHLr9TwUC5gKYI6LETq9ylObwq9bvtVfA3DjeDyH+tbHvt1zVa9WUejiCOewPc37wQBVXIJ7bHyCvNsBrU4=;F95nqzaWUzRIRtKzuifPcg=="
+secured: "xF2f78dc0fPAfknU5QNFxVls9N36GYoQKRmnOF9FDewKAGY6azqhS/mY+diTxF+G9GFozgzDTnkEOpiaNo2H/1VKKZdb3+zvpWEsohAVcT2/UScf4tknf6ERguKg3juAUfGIG0CZtFGl2NzguyY+seBPbLbCC4uSwLw3omckZ1nvAEELpujOFoeIPZshB6fPqdPG8Eqvsvrxc/iZzzwHvZ7LpjXinyexTjswexDFsLsbsg07Otiza55CPskNKTL1068InVhbeuqNRUSf9Uivx3e5Z3dEEXukFxjeyORQ+4phk3jA0K0RqNTQe+xtH2XF;2YTkdAI/injrjAKKqDnNnw=="
 ---
 
