@@ -84,21 +84,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/8a91385a-4630-4ae0-a791-1dbe7d1f8780-e1580153727148.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Microsoft Partners With Genesys, Leverages Cloud Computing to Improve Customer Experience"
-    excerpt: "Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year."
-    publishedDateTime: 2020-01-27T06:32:00Z
-    webUrl: "https://www.martechadvisor.com/news/cloud-integration/microsoft-partners-with-genesys-leverages-cloud-computing-to-improve-customer-experience/"
-    ampWebUrl: "https://www.martechadvisor.com/news/cloud-integration/microsoft-partners-with-genesys-leverages-cloud-computing-to-improve-customer-experience/"
-    cdnAmpWebUrl: "https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/cloud-integration/microsoft-partners-with-genesys-leverages-cloud-computing-to-improve-customer-experience/"
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 50
-    images:
-      - url: "https://images.martechadvisor.com/images/uploads/content_images/microsoft_partners_with_genesys_leverages_cloud_computing_to_improve_customer_experience_5e2e8262cd225.jpg"
-        width: 786
-        height: 524
   - title: "Verizon boosts customer service with NLP"
     excerpt: "Each request had to be read and individually acted on until Global Technology Solutions (GTS), Verizon's IT group, leveraged natural language processing (NLP) and deep learning to automate the process. \"In essence the Digital Worker takes tasks that can be executed automatically away from the engineers so that we can use the engineers' time in ..."
     publishedDateTime: 2020-02-04T11:24:00Z

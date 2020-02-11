@@ -18,19 +18,28 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "ID R&D Optimizes Voice Recognition Platform with Latest IDVoice Update"
-    excerpt: "ID R&D has drastically reduced the computational footprint of its flagship voice recognition platform. The newly released IDVoice v2.11 lowers the size of the biometric engine from 40MB to less than 1MB, making the SDK much easier to install on a wide variety of edge and IoT devices. This is a companion discussion topic for the original entry ..."
-    publishedDateTime: 2020-01-27T20:19:00Z
-    webUrl: "https://businesscomputingworld.co.uk/t/id-r-d-optimizes-voice-recognition-platform-with-latest-idvoice-update/246234"
+  - title: "Learning Management System Market Growth Opportunities 2026, Segmentation and Key Players Forecast by 2026"
+    excerpt: "Top Players in Learning Management System Market are D2L Corporation, CrossKnowledge, IBM Corporation, Edmodo, Cornerstone, McGraw-Hill Education, Saba Software, Inc., Upside Learning Solutions, Oracle Corporation,"
+    publishedDateTime: 2020-01-29T09:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/learning-management-system-market-growth-opportunities-2026-segmentation-and-key-players-forecast-by-2026-2020-01-29"
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
-      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
-        width: 512
-        height: 512
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Machine Learning in Finance Market by Scope, Growth Prospective, Application & Forecast"
+    excerpt: "[160 Pages Report] PMI's publication of the Machine Learning in Finance Market-Size, Share, Trends, forecast 2030 examines the market for Machine Learning in Finance and the considerations involved in implementation. The 66-page report reviews the growing market for Machine Learning in Finance, plus the latest trends, opportunities and challenges."
+    publishedDateTime: 2020-01-27T12:35:00Z
+    webUrl: "https://www.openpr.com/news/1909375/machine-learning-in-finance-market-by-scope-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 11
 
 secured: "OkDtFiU4L21NKMz65aK9LKo3M1mxgM6BFvWS9WUpiauOYnMvrtcmjQUFMTShFYQrvDKlWE0mjZUXS+zk0vbU+WtBFhJ5/hzB+dfcMq47V4oTAQhEVFJupI+3I1DxmiLUbLEBSF3cs8BHsQHLSakxv30ScZCoviSBZesU/nZ6v0wift3bLBlEWcyFjGKQTjpZjgEZVxSj+Xsd3yeYO69iKckbnf7RXEIiesxYCyuGmvQ1I72ae4dnn3SVAdteogRt11Tr50SZBV+fT/AFlmmbPHjrPhJW7GGoFGTw5QS/hej9OUfb0pdrQ44ivtQuDrUi;xupYGAUnFuF3fG7hOPxQmA=="
 ---

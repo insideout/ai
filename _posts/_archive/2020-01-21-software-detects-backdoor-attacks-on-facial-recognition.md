@@ -4,10 +4,8 @@ title: "Software detects backdoor attacks on facial recognition"
 excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from ..."
 publishedDateTime: 2020-01-21T00:00:00Z
 webUrl: "https://www.army.mil/article/231628/software_detects_backdoor_attacks_on_facial_recognition"
-ampWebUrl: "https://www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
-cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/231628/software_detects_backdoor_attacks_on_facial_recognition"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://www.army.mil/e2/c/images/2020/01/13/574588/size1.jpg"
-    width: 446
-    height: 300
-    title: "Software detects backdoor attacks on facial recognition"
 
 related:
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
@@ -494,17 +486,6 @@ related:
       - url: "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300000xo9XQEAY"
         width: 272
         height: 270
-  - title: "Facial Recognition Market to hit $12 billion by..."
-    excerpt: "Dallas, Texas, Jan. 27, 2020 (GLOBE NEWSWIRE) -- The \"Global Facial Recognition Market by Technology (2D facial recognition, 3D facial recognition, facial analytics recognition), Application, End User (BFSI,"
-    publishedDateTime: 2020-01-27T06:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/g15186496/facial-recognition-market-to-hit-12-billion-by-2025-global-insights-on-top-trends-key-technologies"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15186496"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15186496"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Privacy Groups Urge Suspension of Federal Facial Recognition use"
     excerpt: "A group of privacy and civil liberties groups wrote a letter to the Privacy and Civil Liberties Board (PCLOB) urging the board to demand that the President and Secretary of Homeland Security suspend the use of facial recognition systems by Federal agencies. The Consumer Federation of America, Electronic Frontier Foundation, and Electronic ..."
     publishedDateTime: 2020-01-27T17:19:00Z
@@ -644,6 +625,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "MPioq8jflHOPqRSezy2rkxgA1Wxn0DwsUlrshtWErzUE18ADRr27c4lkTsW8NdzCIy9Dv6HfFRfDHcfInrq/laXwdsYV+muBEn9BhNHSMmK3Z610AZ8Op4qhpATVaiyQsDEx58jlsgSQx1XZH7y8fNfyvPuK+DNZ1g8LmV/c0zSzGBnkyCOgKIHZ37kOyzkJ0GCtvugmTZ1I24s61QqyO5w906bk7URiJRBpcc7DeE9gXvq3hRKottCb3ZSgDnxLfqufg025JYeRW4mStYsvlDXCOceBuvVEDFYfRuL/9nzNQksFq2tRNrdQ6vPC1+w/;Y+nU+0Ru2TVRc5oIp6FQHQ=="
+secured: "OBNOxFScfAL6fvrbri1I0lIbEK3sBofzVD/hs2G9K9PN7cW0RpjaawYVhMDn9QTNOsPbhDPEEO4T9KIROr3eD0LpuoWYT0BSn2TiRXXO9aroYpKiCfruLLIe3R+uaxOJ5g+YBIdVGDjHnCKDhzbod6wMfY2Ghv4NSw09O9PxbIKhWmkBx7/AyHPLHdzdq7FDQ6Bv2Tl+usrwL6+zjTp29NMTyL1bfXLZYMocvZvNP9R4eb7JuAqK2oULo8k1goPQiS166ivecUFERJarb867tOZC2LTyK+AdeTCc4DOU+uWnglRsknOIaJTD4Oxs930s;KHgaU/sXuVF2cia/i50Iug=="
 ---
 

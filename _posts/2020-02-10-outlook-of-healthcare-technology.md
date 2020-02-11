@@ -24,32 +24,36 @@ images:
     title: "Outlook Of Healthcare Technology"
 
 related:
-  - title: "AI transforms Limpopo healthcare"
-    excerpt: "Practice Head of Artificial Intelligence at Mint Management Technologies. “Firstly, the initial pilot was co-sponsored by Microsoft and it wouldn’t have happened without that investment. It was one of those interesting examples where we have the tool, which is AI, and the problem, which is our public health care, specifically primary health ..."
-    publishedDateTime: 2020-02-04T04:55:00Z
-    webUrl: "https://gadget.co.za/ai-transforms-limpopo-healthcare/"
+  - title: "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes"
+    excerpt: "AI and ML are revolutionizing many healthcare processes that, although not medical in nature, directly affect provider efficiency and productivity — as well as the patient experience."
+    publishedDateTime: 2020-02-11T00:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/"
     type: article
     provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 101
     images:
-      - url: "https://gadget.co.za/wp-content/uploads/2020/02/hospital-clinic-medical-doctor-technology-910x600.jpg"
-        width: 910
-        height: 600
-  - title: "Hi-tech and hi-touch transform U.S. health care"
-    excerpt: "A technological transformation is touching almost every aspect of health care. Devices connected by the Internet of Things are putting care in both patients’ and practitioners’ hands. Big data is gathering invaluable troves of information,"
-    publishedDateTime: 2020-02-04T20:27:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/news/2020/02/04/hi-tech-and-hi-touch-transform-u-s-health-care.html"
+      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1199231029/960x0.jpg?fit=scale"
+        width: 711
+        height: 474
+  - title: "How AI and Blockchain are Powering the Next Generation of Healthcare"
+    excerpt: "With artificial intelligence (AI), a greater amount of information about our bodies ... whose Watson Supercomputer has analyzed more than 115,000 patients to gauge impact of symptoms are leading the charge in introducing AI into healthcare as a means to save precious resources like money and time. How can we use cutting edge technologies ..."
+    publishedDateTime: 2020-02-07T20:49:00Z
+    webUrl: "https://www.fxempire.com/education/article/how-ai-and-blockchain-are-powering-the-next-generation-of-healthcare-521998"
+    ampWebUrl: "https://amp.fxempire.com/en/how-ai-and-blockchain-are-powering-the-next-generation-of-healthcare/521998"
+    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/how-ai-and-blockchain-are-powering-the-next-generation-of-healthcare/521998"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
+      name: FXEmpire.com
+      domain: fxempire.com
+    quality: 76
     images:
-      - url: "https://media.bizj.us/view/img/11591979/gettyimages-1160047562*1200xx2121-1198-0-98.jpg"
-        width: 1200
-        height: 677
+      - url: "https://responsive.fxempire.com/cover/615x410/_n/_fxempire_/2018/08/Blockchain-Concept-99.jpg"
+        width: 615
+        height: 410
 
 secured: "g4W9/NlfFNO7sPdoqab+Y3k2uK6Z/yPlI9tFdAY/tyEu1a+jK/Rp5OXRK5BJ2yl85eWqHsWbNznduAd4XgIPQG3yN6mQFab4cWTXt7la88HAypW39Gs/7UDhUw/hLX2Rs89RSSAa1OEBmRLd/nwVeNKQ111azXYCRO8r4wJCEs2be02ijYV+hZA8U4zWFKGSdq4xQswisn/ScPXvnrRZ3sKmktOcpHUtqvkZmNU6ZR5O+LZfbFEzUy9FAPsEnycXVGpKJGyJ1NV0Enk2+07XASy+ZWWrgg7I50pLBsCoQivtW8Jm4MMQxr8AOqBqdaqZ;A237Fdx8j6QWCagQjW9uQg=="
 ---

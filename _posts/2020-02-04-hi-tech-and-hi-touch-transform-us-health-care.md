@@ -37,19 +37,6 @@ related:
       - url: "https://gadget.co.za/wp-content/uploads/2020/02/hospital-clinic-medical-doctor-technology-910x600.jpg"
         width: 910
         height: 600
-  - title: "Outlook Of Healthcare Technology"
-    excerpt: "As healthcare becomes increasingly complex ... These electronic records create opportunities to track and improve patient care and to find new, more efficient treatment methods by incorporating artificial intelligence technologies. From a management perspective, digitizing and managing this data in a manner that protects privacy and makes ..."
-    publishedDateTime: 2020-02-10T20:19:00Z
-    webUrl: "https://www.healthitoutcomes.com/doc/outlook-of-healthcare-technology-0001"
-    type: article
-    provider:
-      name: HealthITOUTCOMES
-      domain: healthitoutcomes.com
-    quality: 39
-    images:
-      - url: "https://vertassets.blob.core.windows.net/image/b6566dd4/b6566dd4-46d8-4fce-99ce-702b4c6c708b/375_250-crystal_ball_future_istock_518433454.png"
-        width: 375
-        height: 250
 
 secured: "Y2PfhVZn9dIRcvE3LwQNmvgMWSUyqacwB00oaY8qIpbm0Av7tPe6pmctgfNbnDfNzqs2fP+lnEOZko5aEQ4yzPXWfed2M5mMRldLnRmEtMcFRln4uIelIFn11IPCb09un8TRZtufpEODr6cjrq1Mcu08/Rn2mlPc0f3Q/zRacleDdYl7I+6RiwIuo9bsMPahsIqoP2qDQv4hr5mFqYke+M4pXHBiT57NAPYXkE5ms+NU6xiriw32Y12rux30/q6YIuraeqk3OaaQCW16fOX5gHLu6fQarQTF0VtJwaaRknwvFTBXPLWJ0QK4SOa7awdBl/cqNxAVbIIk7vPJMIUpZVBnnjBilA/a5czUMDQ31yRAOgety4NtG2O8uFLfCQrzPWr0wG0wsfCIpWR702x4epE83iRFYUtSB0umDPZBAdLjqtz4jIyx5K2+F2PzSq+o0XoeEarTxrp+C4MeaoHFgEAZoBI2PvsNTSZt62ZDfVY=;TTKLLoxksWfvsXqEbdCXJw=="
 ---

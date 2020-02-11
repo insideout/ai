@@ -74,21 +74,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/roambee.jpg?fit=1200%2C720&strip=all"
         width: 1200
         height: 720
-  - title: "Microsoft Partners With Genesys, Leverages Cloud Computing to Improve Customer Experience"
-    excerpt: "Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be released about these upcoming integrations later this year."
-    publishedDateTime: 2020-01-27T06:32:00Z
-    webUrl: "https://www.martechadvisor.com/news/cloud-integration/microsoft-partners-with-genesys-leverages-cloud-computing-to-improve-customer-experience/"
-    ampWebUrl: "https://www.martechadvisor.com/news/cloud-integration/microsoft-partners-with-genesys-leverages-cloud-computing-to-improve-customer-experience/"
-    cdnAmpWebUrl: "https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/cloud-integration/microsoft-partners-with-genesys-leverages-cloud-computing-to-improve-customer-experience/"
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 50
-    images:
-      - url: "https://images.martechadvisor.com/images/uploads/content_images/microsoft_partners_with_genesys_leverages_cloud_computing_to_improve_customer_experience_5e2e8262cd225.jpg"
-        width: 786
-        height: 524
   - title: "Amazon Connect Helps AWS Partner Improve Annoying Customer Service Calls"
     excerpt: "“Think of Connect as the sun, and Earth, Venus and Mars are like Lex and Polly and Lambda and SageMaker and other things that make the whole experience more impactful,” VoiceFoundry CEO John Marino said, referring to AWS services for building conversation bots, text-to-speech, serverless compute and machine learning services. “But Connect ..."
     publishedDateTime: 2020-01-29T20:32:00Z

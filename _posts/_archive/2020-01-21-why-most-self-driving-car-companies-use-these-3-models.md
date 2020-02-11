@@ -4,12 +4,10 @@ title: "Why most self-driving car companies use these 3 models"
 excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
 publishedDateTime: 2020-01-21T20:54:00Z
 webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
-ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
-quality: 74
-heat: 94
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: Mashable
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU="
-    width: 1200
-    height: 630
-    title: "Why most self-driving car companies use these 3 models"
 
 related:
   - title: "Apple's self-driving car system could use voice, gesture guidance"
@@ -54,7 +46,16 @@ related:
       - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
         width: 620
         height: 330
+  - title: "The Key To Tesla's Future Is Full Self-Driving"
+    excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
+    publishedDateTime: 2020-02-03T17:07:00Z
+    webUrl: "https://seekingalpha.com/article/4320979-key-to-teslas-future-is-full-self-driving"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
-secured: "oSXNeWGI0JOIZfl3OYqaZdX9hJKZLtPbpXVTcTgH6QEqgVMNllJXHO5t3gfHuzh7V9ZGEmvJKVa5YmdZsRAVdXAHIipMh2cFNAN0JBoidUBL6lxyemwCYzuFg1/LQkyTQj/CqnZd/E4m4tTX3EGSH+X2jjrojZphtxDBqvcuwIcGVbBjlTcMfSsLP86D5Dq4wUQBv5fpCqBpsGxTPwzDLLy8I23r3wVReptAKmkhekJjou6HEjqxwhrStZ81hhp+kuiUuqFDxPTKzJo/+jxIK9SRhsdAJi1gcPZtrh07AcLLfeAojIR3jpArXfq4z1tS;oFJZ/WcTx0+pqwceCnAq1Q=="
+secured: "oalJ9rq5wJU7OFsvLlIM30cHEwCZSVjGrOQCh0OJ8fUow+EZZE+76PF3GOvFE2sMlNnkUW1ooZlY1K/E99I2ogCethX51bW9Cwe0aG4Qv8/O22rpBwgtEIvMANkrpOW01XWCpgrvVUzWCNW7SFXIWFQHnrqclUtDyC4ZCXQnhOmc8/7ZQVbS819FqXQYj6evvKU2IKOgObJ7OJd/KQ9hSwUX/uUqb5BDaxQglQkAoL37KHix44tSgL+YqTFXOdcsPrlPMMdvX+Xc0XVAbOB8CRylh8I7xXjFr2dWYxbLOFPZJmfSTV5yN/Kt27knpnnisgSnQ3Zue0vFFdkqBrTj121dUqhqgUFniRE7Kz44ER4/7TpRJhQTAtuNYTILAP9ZKNY7ze9zCq4iqbXFgWONq8jcvHqzvtS8ZqNNchyuGtJgPZiRmACsQ/+myocSeUxOjQJ6wM/yj0zFNYNLcDF8d092+Kz50/UDIEmrecg96Zw=;dgqkw7ELxhLuT5tHPLWPNg=="
 ---
 

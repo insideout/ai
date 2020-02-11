@@ -21,6 +21,17 @@ topics:
   - AI
   - AI in Autos
 
+related:
+  - title: "Australians Slow to Embrace New Technologies but Want Self-driving Cars"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-02-10T23:02:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-02-10/australians-slow-to-embrace-new-technologies-but-want-self-driving-cars"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 34
+
 secured: "v02y5TiaZexZtz0+U4hyE+s98s4p66OhPTIOnwUy4HSrBl9WsbcjDtCHYn+8iWsuL9HsbEE0QvLdpkQX8vpKJWgZtYq4RWdcVQRZarEYYqtm7GlIRv/w1xGoN7F1IYfLLibxTz2ZpT/fMQxh7xZgMDn4HCDXI1GzhcTtwvhN119Sj240Eh/RIVsZnx2OzI401Fc9xgEX0Yr2ohVsPLFrBe7vXJ7vg87LciU1iYMAH8k3q6EhTbIEK6B+h4EnK5wVRwI3xEwO8Qx6OGD/zhmgJkWpDFs26mXzWWGB3ELGj+v/P7TwUV72L+aLInSDTzIle5XxjyJ0nXodLuqLs2Sy99K+6rg0BWGIdCGzvVen68k6h5MSlv4Mzi0IG8NUjMxUJcT/2d/8IvTOegFIfjuylKitjFp3o+oBC5LKMNBaofeYDd35ZbMeOgu5pXtPaM6VQNJUxZgvT50xDDPaTiOtRj8bikNwtmWFsQhr0xsGcIY=;uq7H7xBNUzJJVBQwSUJosQ=="
 ---
 

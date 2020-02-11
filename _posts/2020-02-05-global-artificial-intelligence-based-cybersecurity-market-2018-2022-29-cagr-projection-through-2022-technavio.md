@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Global Artificial Intelligence-based Cybersecurity Market 2018-2022 | 29% CAGR Projection Through 2022 | Technavio"
-excerpt: "This market report segments the global artificial intelligence-based cybersecurity market by end-users (BFSI, government, ICT, healthcare, and others) and geography (America, APAC, and EMEA). The Americas region led the market in 2017, followed by APAC and ..."
+excerpt: "Register for a free trial today and gain instant access to 17,000+ market research reports. This market report segments the global artificial intelligence-based cybersecurity market by end-users (BFSI, government, ICT, healthcare, and others) and geography (America, APAC, and EMEA). The Americas region led the market in 2017, followed by APAC ..."
 publishedDateTime: 2020-02-05T15:08:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-based-cybersecurity-market-2018-2022-/2020/02/05/9092782.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2020/02/05/9092782.htm"
 type: article
 quality: 17
 heat: 17
@@ -23,6 +23,6 @@ images:
     height: 270
     title: "Global Artificial Intelligence-based Cybersecurity Market 2018-2022 | 29% CAGR Projection Through 2022 | Technavio"
 
-secured: "Y5cFQUwTi+3OGBkLF2dS1VEbaTwXQfRXgvxmzdWa322mQ2NQvpm8IoKBKyxwk52k3tquFbDh6Ur61LwWrTti9xA6kElxIbgeesWyYCVSRndFm3o4qYHHk0f/99qdZIVaGevl2OkiqUXE2lYjnJ8dO2IZXR0u5An3/sidOsPn9CbZwEgp/4zg8iDB2u4dzxQGB/RSEWjE1TXjsdRkHyg1YKUDJ52Q0/9AFxWbUdTrXaeos2C5EHDVwvP0oLJFDGndc3rZshy/54q7KpowGlYwg8hle1kafA+MCWzWF784dME6P1FkGQBUFmtLdtuPb3iHfsX/2bhe/sf+K9XhdCqHTGNwVrM/LnkKMKhCE5GCKnSTwpgzSb0JKGKSHF1q6d8uFr0HMe7QsETwgbsscZwhtCRIAAXquvhMx+wqnPRr10K+QDygIo4WdLnt8k21L3O/5BqtC7NRY5RPe3H9i2HaGL9zbuq8Q6emgnkNrgT+FRo=;1VmyN8LMRNfI2ZQrrszcRA=="
+secured: "AYh63mvzsdHCnJVS06Z9bErfXCL5biwsyyhIa0VYO3Tozqhl/CFHHZZZ2MvHHfhegcTIqOb6HeTiYv7oiem2ihU+hdQrbH3zwSjOv5LVMU5QpzVs7vkYiKTcH1OxVlj6UdRQ5o6I+7G4gAIM1l0km1+a7EC3wRMSP4UL/87P+9zPoR/KZ9GuFlsLAzrxlZgN+aVlCiDk2SCzkl6gOS0tVREZ1zfOB4WFDUrHxOCqCuSVKt6DrCXUZurBjzokdJw17pGrhzuXfJw8IYLMKOfKpJwckuCO9jFjmc+JLTNaqH6f2Ye1mf9s2rbJyN1P7C0g;A1UXosDOBXcvAhAEALWdEA=="
 ---
 

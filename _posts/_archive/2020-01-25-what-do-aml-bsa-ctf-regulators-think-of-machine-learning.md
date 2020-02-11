@@ -1,12 +1,12 @@
 ---
 category: news
 title: "What do AML-BSA-CTF Regulators think of Machine Learning?"
-excerpt: "In her address entitled \"What Are We Learning about Artificial Intelligence in Financial Services?\", she told delegates she is optimistic about the potential for AI and machine learning in particular, but guarded on how new machine learning models can be ..."
+excerpt: "In her address entitled \"What Are We Learning about Artificial Intelligence in Financial Services?\", she told delegates she is optimistic about the potential for AI and machine learning in particular, but guarded on how new machine learning models can be audited. Dr. Brainard's well informed speech begins, \"Modern machine learning applies and ..."
 publishedDateTime: 2020-01-25T18:54:00Z
 webUrl: "https://www.finextra.com/blogposting/18373/what-do-aml-bsa-ctf-regulators-think-of-machine-learning"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://cdn2.hubspot.net/hubfs/178283/iStock-844535726.jpg"
-    width: 702
-    height: 497
-    title: "What do AML-BSA-CTF Regulators think of Machine Learning?"
-
-secured: "ShXP0AtsWQzaib6ANIzL4qxo8yharUVzzPaU0PwNz8z+cbXMPkUkDLWW+HF5JRYLH0J+Vtm5Hc4E+7AuidbcGadBcVjvyCmviHsNB0A44SULnVqjWMdiWhWL20fFgRazhDlmtcAqZeEdGQ2KVDCcEQ100/xnsctn6UIb9tIpbTGvixaCMOj9pZj+KHDUd2VLVUn1fKABLtJg26KPWiaCUa5NFtaxr9RRUcZ3caKEUmEREZ9yfzt0DeOZQfoRqEPH8l9pJ3fmiMJKWCzQAwMmi40U5YebI9XunkLsIexfZ18RUiEx91pd5tf/ecRZHgVW;0a38ehMKGshyDe+geawlDw=="
+secured: "RgHWntTFQ/iwjvxXvkb4y3zLQ3P5KTJjNWy7piDX1uicH97K5nMuj3544os+HDGCavIbYrvz/F9uRwLw1tRQ5JdIN+eOWUoLecxkkljZnKwx69m7I95g0f2cCsKSGEtD0WE4B1+4gDb7qmrYk8VQgu+60//LDP5RxJKTbg7FDSARmcnemaSnTE2+e9qbAMHfJiTQ/xUye36Xb+lKbHvKLYhPzrqlU8E6sJJ15EFtGzo31hhOMg3A3E93rGOXD04EtPMfh4joBu4XqdbFEdSLKbR9TeFUkr+71Qpua1k3oL+QKiGI2ao5t40rtezybESkn8KkNl5E3mBHcAYsombyTYAxQeItJmjeYv0CIto94GKZrIjl0ULtEirf+U5zZl4cFIQypmQwQlQY61MknMbAo16ABlbqSL6TNj7R4HJnrcI+OM43K2ClXPHZ4MkXR4WJKjNVMGklrQtzG4KJoNC1aSBDw+a+1VWUJB0sydsUyqM=;uJdQJ0mqF2NS3yO8qEjB+g=="
 ---
 

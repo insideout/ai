@@ -2,43 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-01-28-pope-meets-with-microsoft-and-ibm-to-push-for-ethics-in-artificial-intelligence.md",
-      "title": "Pope meets with Microsoft and IBM to push for ethics in Artificial Intelligence",
-      "excerpt": "A year ago in the Vatican, the pope met with Brad Smith, president of Microsoft. Both believe Artificial Intelligence research should be based on firm ethical foundations. As a result, they will meet again at the end of February to sign the “Call for Ethics.” John Kelly III, executive vice-president of IBM, will also participate.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.romereports.com/en/2020/01/28/pope-meets-with-microsoft-and-ibm-to-push-for-ethics-in-artificial-intelligence/",
-      "ampWebUrl": "https://www.romereports.com/en/amp/2020/01/28/pope-meets-with-microsoft-and-ibm-to-push-for-ethics-in-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-romereports-com.cdn.ampproject.org/c/s/www.romereports.com/en/amp/2020/01/28/pope-meets-with-microsoft-and-ibm-to-push-for-ethics-in-artificial-intelligence/",
-      "publishedDateTime": "2020-01-28T01:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ROME REPORTS",
-        "domain": "romereports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.romereports.com/media/cache/small/images/captura2020-01-03-13h26m09s335.jpg",
-          "width": 640,
-          "height": 480,
-          "title": "Pope meets with Microsoft and IBM to push for ethics in Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/2020-01-28-reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai.md",
       "title": "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI",
       "excerpt": "Most exciting of all is that the tiny eighteen-person team has some very novel takes on deep learning forms of AI, the product of seasoned vets in machine learning technology and products. This is no me-too chat bot service, it would appear. Founders include Bindu Reddy, who was previously head of \"AI Verticals\" for Amazon's AWS. The company ...",
@@ -1879,7 +1842,7 @@
       "path": "_posts/2020-01-29-rift-emerges-between-regulators-and-businesses-over-portlands-proposed-facial-recognition-ban.md",
       "title": "Rift emerges between regulators and businesses over Portland’s proposed facial recognition ban",
       "excerpt": "Portland still seems on pace to impose a dual ban prohibiting facial recognition use by both government agencies and private entities such as retailers and other businesses. But a City Hall session today illuminated what could become a more pronounced point of contention: some local businesses and tech firms could oppose a private-use ban.",
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.geekwire.com/2020/rift-emerges-regulators-businesses-portlands-proposed-facial-recognition-ban/",
@@ -2095,7 +2058,7 @@
       "path": "_posts/2020-01-29-this-tech-startup-used-ai-to-predict-coronavirus-outbreak-even-before-who.md",
       "title": "This Tech Startup Used AI To Predict Coronavirus Outbreak Even Before WHO",
       "excerpt": "The total number of confirmed coronavirus cases in China stands at over 5000. Given the gravity of the situation, computer programmers in a tech firm, BlueDot, are making use of AI and machine learning to detect the warning signs of Coronavirus, reports ET. SEE ALSO: Watch out for this extremely fake, weirdly racist viral post about coronavirus ...",
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "type": "article",
       "webUrl": "https://in.mashable.com/science/10923/this-tech-startup-used-ai-to-predict-coronavirus-outbreak-even-before-who",
@@ -2125,6 +2088,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-29-underwater-robot-autonomously-gathers-seabed-samples.md",
+      "title": "Underwater robot autonomously gathers seabed samples",
+      "excerpt": "That's why researchers have now enabled one to autonomously gather samples from the ocean floor. Led by associate scientist Rich Camilli, a team at Woods Hole Oceanographic Institution (WHOI) recently developed artificial intelligence-based automated planning software that's designed to work with ROVs. Last month, that technology was put to use ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/",
+      "ampWebUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
+      "publishedDateTime": "2020-01-29T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e96142e/2147483647/strip/true/crop/5995x4000+3+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2F7b%2F17%2F8c16daaf43d4a75daf3621615d66%2Fdsc-0144.jpeg",
+          "width": 1160,
+          "height": 774,
+          "title": "Underwater robot autonomously gathers seabed samples",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

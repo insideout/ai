@@ -54,26 +54,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/01/28/09/23971966-0-image-a-2_1580203901768.jpg"
         width: 636
         height: 382
-  - title: "Should cities and towns ban their government's use of facial recognition technology?"
-    excerpt: "Facial recognition is the most dangerous surveillance technology ever invented. The world has never seen anything like it. It makes snooping and stalking easy and cheap. Left unabated, governments, companies, and individuals will use it to watch us everywhere we go. Dystopian as these outcomes are, that’s not all. Facial recognition also has ..."
-    publishedDateTime: 2020-02-06T22:41:00Z
-    webUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 32
-  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
-    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
-    publishedDateTime: 2020-02-08T04:26:00Z
-    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 13
 
 secured: "NnIxqW2ujz9R0Ero2t6hxF3Tu+4aT6UUeceUejIzhD58viv3yDo6WlnBUzQ3WJLUSXr6FPSMIB5JIjDLOMli/BP5v69WUpC6DuYwghrNbtFlz0cq8LsuxEGhkGdEfVZ+G3no9K7ZA3DTdVVFO9erB+tllOcRxlLAlVMH7Ou0juG7qNkn6B3+Uw7UdR8GFDVbC24kRHwO5hh6R/bTZHisGbojmGCTX4u8qOQI61e2uuZO2hjuUH/PgiCDrMfa/up00aRrdnWmflISOQwkaujfWOPWuf5CexiC0Mtj5hZNWJU4sPxOtmlZP05TTMpAIzNX;Q2euk0Etu/mkBwGIQTkVWQ=="
 ---

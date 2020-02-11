@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.fxempire.com/en/with-gpu-sales-cooling-after-crypto-craz
 cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/with-gpu-sales-cooling-after-crypto-craze-investors-ask-whats-to-happen-with-the-mining-infrastructure/524520"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,34 @@ images:
     width: 615
     height: 410
     title: "With GPU Sales Cooling After Crypto Craze, Investors Ask What’s to Happen With the Mining Infrastructure"
+
+related:
+  - title: "Machine Learning Infrastructure ~Terraforming SageMaker Part 1~"
+    excerpt: "The MLOps cover these areas mainly: Amazon SageMaker is AWS based machine learning platform that enables developers to build machine learning models, train data, deploy an inference point on the ..."
+    publishedDateTime: 2020-02-07T22:01:00Z
+    webUrl: "https://medium.com/@yuyasugano/machine-learning-infrastructure-terraforming-sagemaker-part-1-e5e22e368248"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/765/1*ZdKHNcpoyZaePOlGoy4Qlg.png"
+        width: 765
+        height: 436
+  - title: "Machine Learning Infrastructure ~Terraforming SageMaker Part 2~"
+    excerpt: "[1] Amazon SageMaker is AWS based machine learning platform that enables developers to build machine learning models, train data, deploy an inference point on the public cloud. It consists of ..."
+    publishedDateTime: 2020-02-07T19:56:00Z
+    webUrl: "https://medium.com/@yuyasugano/machine-learning-infrastructure-terraforming-sagemaker-part-2-f2460a9a4663"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/564/1*R5ZFzVkwjQ3W3uNkHDU0pg.png"
+        width: 564
+        height: 453
 
 secured: "NdzuL4/j/MlqX9PAZJenusD0EwWOdRds+2C2HeW7bA2Z8YLHkuhgCZIDSAi1mP2T8kr6lGKsJbgVDL0VZJKI6O6dWOvyBVZOqv3gQtTGEpt1qEcJZkIOCPR5AHpxPaHg/yPfZGDtVpbLjbcrroiXwq1B6orHF0UB5qO8ynvAWarYxVRTkJzjnulDZMvkxPsMQjKVhCNQ0roX0X2ltkdGQoeoz3Mr6XzEoOeJifCAx+KDtheMCl+7p6DQ3YTp1hfLkGhuYXhZVxFP3l9VRqzVOzWsfQzgT2wPBMp+vITLE80APzOrWPkShx1LbBpG7buPzUQnSIJPgGtZxAHzzf8ybqQvwOgMNVcwCxvAxinR6TjLQPq3RGwXp2FhLdAC+YMWKEFNBrQkuljizC6tY7LV/tGX+YYG3D6AFbsjUH7U6JRKKsXzhDPv4ferc+gknto8hFcE99ZOPGks18W4xyMWapJ35JVObLktF/1QpjFMQSg=;jCd9kdXLFJYq24xFWp69lg=="
 ---

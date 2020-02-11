@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-fac
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7956429/amp/Big-Brother-facial-recognition-cameras-watching-right-Britain.html"
 type: article
 quality: 64
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/01/28/09/23971966-0-image-a-2_1580203901768.jpg"
         width: 636
         height: 382
-  - title: "Should cities and towns ban their government's use of facial recognition technology?"
-    excerpt: "Facial recognition is the most dangerous surveillance technology ever invented. The world has never seen anything like it. It makes snooping and stalking easy and cheap. Left unabated, governments, companies, and individuals will use it to watch us everywhere we go. Dystopian as these outcomes are, that’s not all. Facial recognition also has ..."
-    publishedDateTime: 2020-02-06T22:41:00Z
-    webUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 32
   - title: "How smart kiosks are using facial recognition to bring a dose of humanity and hospitality to restaurant tech"
     excerpt: "The self-service kiosk is getting personal. As adoption of the devices grows in restaurants, a new wave of smart kiosks is using technology like facial recognition and machine learning to bring more hospitality to the ordering experience."
     publishedDateTime: 2020-02-06T17:27:00Z
@@ -65,15 +54,6 @@ related:
       - url: "https://www.nrn.com/sites/nrn.com/files/IMG_3575.jpg"
         width: 770
         height: 400
-  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
-    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
-    publishedDateTime: 2020-02-08T04:26:00Z
-    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 13
 
 secured: "NWFyCpgCFF1oABX+hHX6V+9c3mnqCDrx8P8C7Gu/Y6SSa6RAWSu21jPmSYW2OdrbZ0FI5EaX3Y89gB6KPYSoChQ2PQ+b3MxmWwVYQ/OrWR4su4F6xeqH8n0d+Gsq6lEPmLT75AjKIdyZ/hJVPHRtmVE9Q2uTCYPniyp3kymwCrGQK0KoBNa/wxPyolDAocfDh+Lmd+uDls/gbbCAxlJz8K/Eu8/IFpCkdFzn2+A4aKr2+7tkVrxBK7zJKto54dWw8AThtoINFSZTvqipbFNAjnfkUiZpcwj7JcaqPobEuJviDCOpHxEErEch/aw1PXOT;mfDXipmFlF5Wvw+iiLHZqw=="
 ---

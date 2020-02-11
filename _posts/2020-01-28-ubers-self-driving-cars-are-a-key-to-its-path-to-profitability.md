@@ -60,14 +60,14 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
         width: 1024
         height: 512
-  - title: "The Key To Tesla's Future Is Full Self-Driving"
-    excerpt: "I view this as a further erosion of the FSD concept. Wired took note of his definition early 19': “I think we will be ‘feature-complete’ on full self-driving this year, meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention this year,” Musk said during a ..."
-    publishedDateTime: 2020-02-03T17:07:00Z
-    webUrl: "https://seekingalpha.com/article/4320979-key-to-teslas-future-is-full-self-driving"
+  - title: "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)"
+    excerpt: "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ..."
+    publishedDateTime: 2020-01-23T00:00:00Z
+    webUrl: "https://www.bizjournals.com/nashville/video/6082077878001"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 19
 
 secured: "mxeicj7ZOXGism2eCa9jLMXC1QgJuZT/koU1een2qbRmUHOOC6bFLMU7xaRvW1V//5FD0to3Pu6tNguRpaPYRCzVCJOu/7hVTn9OEzedKrO4E10CIKx23GmEkim4GtYdXhbjVPZVfpMVq2h6RtPgg5NoUsqdVVFp3u9pE25zwjE0Udhj6I1FMK9Mh8/gHlgaIW7GrFIdu1F35e8J02w9YTe6GddIAcEbtZOVW/manqbB3Tmz0VODEwUqZRcK2mtrsZhLtsoAuHEvhtv9CS8d3pS/6l1FbLuyTqbqZ8gnDY0JNzsf5fTMdZEVdxNxzwTqx49AV82CSm8krHmpfsA0XYgRuLYjovxo5PemSmINyiv7SUMADz5pgmBwkFa/7TB2GlgCJmtxWzmWJ/O1W159/W0P9c+l9Oeroj4cMfkPMlmtflDAHUjpsL8CThyDDUpW/lSuVyauebQZPc2mQGnDn5/qCL5sZfRfwnqylupCUCU=;SNxV3wzB264wdsce0L9pmg=="
