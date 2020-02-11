@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       - url: "https://images.hgmsites.net/hug/lexus-ls-concept-2017-tokyo-motor-show_100629241_h.jpg"
         width: 1920
         height: 1204
+  - title: "Can self-driving cars handle Canadian winters?"
+    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
+    publishedDateTime: 2020-02-11T16:22:00Z
+    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 4
   - title: "The Man Behind the 1990s' Hottest Supercar Is Coming Out with a Self-Driving Pod"
     excerpt: "The Motiv is similarly quite small, very lightweight, and runs on electric power. It has an aluminum suspension, ultra-lightweight high-strength extruded aluminum in the chassis, and composite body panels and doors that hold its weight below 992 pounds (sans batteries, at least). Measuring just 100 inches long and 52 inches wide, the compact ..."
     publishedDateTime: 2020-02-10T21:54:00Z

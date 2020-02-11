@@ -39,6 +39,15 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/1w7EjZRDn4rDOY8DsJ_aggz42gg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66290964/jbareham_170417_1617_0001.0.jpg"
         width: 1400
         height: 933
+  - title: "Artificial Intelligence and Facial Recognition Could Change How Vegas Casinos Work"
+    excerpt: "The applications of AI into casinos and poker online could be massive. However, most industry experts agree that there is more value in incorporating facial recognition into the overall customer experience. For example, a facial recognition system can easily identify customers as they come in. Facial recognition tech installed on slot machines ..."
+    publishedDateTime: 2020-02-11T16:13:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2020/02/11/444432-artificial-intelligence-facial-recognition-could-change-how-vegas.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
   - title: "Tech company develops facial recognition camera for the STEM classroom"
     excerpt: "An electronics company has developed an artificial intelligence (AI)-powered, facial recognition camera exclusively for the science, technology, engineering and mathematics (STEM) classroom. Dubbed HuskyLens, the camera developed by DFRobot is an easy-to-use camera designed to teach STEM students about facial biometrics and object recognition ..."
     publishedDateTime: 2020-02-06T17:21:00Z
@@ -47,6 +56,15 @@ related:
     provider:
       name: Engineering360 News
       domain: globalspec.com
+    quality: 19
+  - title: "Poker Players Are Asking for Facial Recognition Technology"
+    excerpt: "There has been a lot of talk about the idea of introducing facial recognition technology into casinos. Proponents of this idea have argued that a facial recognition system could unlock an array of benefits for casino owners and players. First, it’s a good way of tracking patrons and signing in VIP players without a fuss. Casinos also have the ..."
+    publishedDateTime: 2020-02-11T16:08:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2020/02/11/444431-poker-players-asking-facial-recognition-technology.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
   - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
     excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."

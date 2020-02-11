@@ -106,6 +106,21 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/02/11/a4f44ba3-79b4-4f42-b5a9-ba5aa4375bd6/lg-cns-3-lg-cns.jpg"
         width: 2400
         height: 1600
+  - title: "Clearview AI’s false claims of accuracy increase the dangers of its face recognition software"
+    excerpt: "The facial recognition company has been embroiled in a storm of controversy since The New York Times revealed that it was helping police match photos of suspects’ faces to images scraped from websites and social media platforms to aid in their investigations. Clearview says that it has amassed a database of more than three billion images ..."
+    publishedDateTime: 2020-02-11T17:49:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 93
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-4-796x417.png"
+        width: 796
+        height: 417
   - title: "Paper Masks Are Fooling Facial Recognition Software"
     excerpt: "Facial recognition is being widely embraced as a security tool — law enforcement and corporations alike are rolling it out to keep tabs on who's accessing airports, stores, and smartphones. As it turns out, the technology is fallible. Researchers with the artificial-intelligence firm Kneron announced that they were able to fool some facial ..."
     publishedDateTime: 2020-02-07T16:44:00Z
@@ -372,6 +387,15 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-05/02fe8773-384a-430e-8315-b01d2eb69fc7.jpeg"
         width: 500
         height: 300
+  - title: "Controversial facial recognition app reveals it can access photos that are no longer online"
+    excerpt: "A facial recognition company has amassed a three-billion-strong database of social media photographs including pictures which are private or have been deleted. Clearview AI, which identifies people by cross-referencing their mugshot with its mammoth image archive, has sent chills up the backs of privacy campaigners since it began selling its ..."
+    publishedDateTime: 2020-02-11T16:57:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-7991767/Controversial-facial-recognition-app-reveals-access-photos-no-longer-online.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 9
 
 secured: "RCpt+WSKBAhNSOee48o8n8G48WSXPp3Dv5sBamUw51nqw+ngV1jHu+97jeMXFHYNFV8v0MVncA7TrqDPRwLczb1ZmlYkgwMdJXTmZ/Bh7p/OTWDdiVJCe33m7GltUcQwmG2NAnfKINCnuuJPP6qi/cQoUQsgx7eJsUJhWuZupRXFb5FaBkXZtC6U+16ESoaQ3EOq9/h3FO7oGzhArCeJ12yg/x0XhkvZgvj/tpN6pfe1kZN+cm1WHju2V00G9WxIpcTEB7v9ZqY3P8rf7dCh8sMmSNdfChQRv0CbEApJ2sljs8tIoTuvSTHqG0uP9xJqHCKcC8+SdXQkHKytim5xc9PXEjcUbX2TeDLyfgHXP5qfn4taypKRoUJ1I8T08aoOdyKVlKDnLluyI35CCk4k/M7mN1Z7kO6Ej0viPSNrFodSW4CaJokQs7Q7ZqHZUq5mlUbSTblBkealhnBgXTeds4PRoNbRpdNjQdY41LA+INU=;bNhll6D4Mjdd1cwiEypprg=="
 ---

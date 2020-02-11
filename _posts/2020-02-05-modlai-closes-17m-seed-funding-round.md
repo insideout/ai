@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T10:56:00Z
 webUrl: "https://www.gamesindustry.biz/articles/2020-02-05-modl-ai-closes-usd1-7m-seed-funding-round"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,21 +23,24 @@ images:
     title: "Modl.ai closes $1.7m seed funding round"
 
 related:
-  - title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
-    excerpt: "former principal product manager for Microsoft Business AI & Research; Mike Palmer, founding member of InfoPath and an engineering manager in Office; and Martin Sawicki, former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary ..."
-    publishedDateTime: 2020-02-11T15:26:00Z
-    webUrl: "https://venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/"
-    ampWebUrl: "https://venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/amp/"
+  - title: "Israeli Start-up Kardome Receives Investment from Hyundai During Successful Seed Funding Round"
+    excerpt: "Kardome, an Israeli startup that develops voice-control technology for machines ... We plan to use Kardome's robust voice AI technology to boost customer's value and gain competitive advantage by enhancing user experience and safety features.\""
+    publishedDateTime: 2020-02-05T08:58:00Z
+    webUrl: "https://www.autoblog.com/press-releases/israeli-start-up-kardome-receives-investment-from-hyundai-during-successful-seed-funding-round_22077/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://i2.wp.com/mms.businesswire.com/media/20200211005446/en/772660/4/Docugami_Team_Offsite_February_2020.jpg?strip=all&ssl=1"
-        width: 480
-        height: 346
+      name: Autoblog
+      domain: autoblog.com
+    quality: 5
+  - title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
+    excerpt: "former principal product manager for Microsoft Business AI & Research; Mike Palmer, founding member of InfoPath and an engineering manager in Office; and Martin Sawicki, former engineering manager for Microsoft Office and Azure. The Docugami science team ..."
+    publishedDateTime: 2020-02-11T15:04:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200211005446/en/Docugami-Announces-10-Million-Seed-Funding-Led"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
 
 secured: "beK+IyVF4Qocs7R4gCFXj+YcrZ5e+Vl/TeMEahkGOaQVIVqiJijZWL1SYHFr8faxKKMQj+m8qZAn2FnKWxjOwhkD62eWRNGPRgTfhzegaJ61laQzA/ZgwZc0kDI27GmdX3aFcgKGgVGbKR6fi+u6yC2ePjnr9Qm+1Hnvvl2TNCu244uW2WgCibeNw4cPMNHOh4PjPiucwSxjXuDG2qhyirdfZO/vClI83AkLAHXPgRbi0RxkRlxhOj5rfahnCRk/lYhgG5YBvGzZyTR9CWPU0kt3sgFcrMD5D919hBxSvUIHRPdZBBZ8j6G+gpIpqPiFkBMRTi0uRAdPcjvk/d3xeM52lNVCnIWe9TO+f+BSMRcONrkU0uKbmECh2s0Bjch4JH+DpweedbYnlaKkp7YDrgzwqsP1JS/LoF13QDu/Awa9709M/t+EG+1DwUtVvTBgRExJRCyDKPAUsrsbV/P3/bOZK95ppsWYpJ5uFm5RsFs=;fHux690llCGNqzjj8Vz2dQ=="
 ---

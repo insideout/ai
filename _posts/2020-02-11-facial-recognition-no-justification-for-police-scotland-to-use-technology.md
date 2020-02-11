@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-scotland-51449166"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-scotland-51449166"
 type: article
 quality: 86
-heat: 256
+heat: 266
 published: true
 
 provider:
@@ -194,6 +194,19 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
         width: 700
         height: 379
+  - title: "London police deploy face scan tech, stirring privacy fears"
+    excerpt: "LONDON -- London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
+    publishedDateTime: 2020-02-11T17:27:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/london-police-deploy-face-scan-tech-stirring-privacy-68912068"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 24
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_442d9d60b4c0411e944a2c141ab5c4dc_16x9_992.jpg"
+        width: 992
+        height: 558
   - title: "MSPs warn Police Scotland about use of live facial recognition technology"
     excerpt: "Members of the Scottish Parliament (MSPs) have insisted that current live facial recognition technology is not fit for use by Police Scotland. A new report from the Parliament's Justice Sub-Committee warns Police Scotland that before introducing live facial recognition technology it must demonstrate the legal basis they would rely on for using ..."
     publishedDateTime: 2020-02-11T10:26:00Z
@@ -240,6 +253,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "YmXvZcUFAkss7Zje/RfjTE74zeS9nVM+GKLJHVz1dN2HwP4Ro1UWHbEpmkq6yb9zQO7ieh8JYNYQrFEIbnxUnla8Sx20iKvQBywyaoBpHBDxO4hpRoji3CvlH+e1A0/ItJTWz1MpjkXr/JeyErfeLKUkg/U99gnOY6ZtACKmHXbe3Y5K2EJWJGP6chBNZR7OFAFHA8S/vRf1x2fLtKP2rqUEXV/JDN9TPIHS8nUeCBSXE3oCLpf3ZqK06lBinTqxj2kwtXeeJSvNzWJO4pV8m5seYaHklBSiGaozLSC91L0WO/iX0LaNCIBAGtYSMbEFimoGWSENK9t0PIQWV8nrRBdiUW98VtIYpdPkou6x3r/KslhXKFHP/rUHYTeLOwqTtTmJxbC2Yp4cEY7m6Io5ufskn8SQnv5Ndx92y2MMOxtcczwQlzcgNAM0ST7tBmsY3jhjJzVSsy08iFePhX6wrkVaKKWdRp798VnPuKLbO0k=;howbkCGIYOFl66UqyvfyiA=="
+secured: "yJc1PkuSNROCb/E5vP7sOSLElRzMUZtNnoZxTH4Er+2eBuxPHD95O5QhkxT8XmHAlfktA5iF4z+FF5j9VeKZiex6YATuW9UM7tk5adkNbSKf+uj0ZSACCXbqRUfXsROJHnIInxy0ca0oUz6PrpLt/T71wVa9ri1elKa4rqGLGdYgGet2NiWWuwrsULjWknF8VzyDpGD9js7hZYtZdm84pOtaPcY4xskFjG1YpuGi73fqLxcYPbqSCoM4o9kUWlk9i25LdL8I441JsYEzSHmD+xhlADkr93YK8h8pB33KUHDq7Qx8nwbWpFBnJbWWVTUhZ5Cc5aweAW1QshzFWWObXUlVtZjrau0/REhe6dXQDMj4PMyTpGunQJJNHzVQvzfl2jWdxk7CVJUeNkJmPSJjWinxx80vBdFUoDBC40XniON/lodBDmsqdimDYBb+lSscotReeHJ0juyWM9fcxk+AoO5mGeZYiqS4CbnDrL8ox/w=;YOclX6QqYy0jg5LIGxTm3g=="
 ---
 

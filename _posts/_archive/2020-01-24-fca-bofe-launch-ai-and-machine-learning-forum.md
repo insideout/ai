@@ -5,8 +5,8 @@ excerpt: "According to a survey conducted by the Bank of England last year, mach
 publishedDateTime: 2020-01-24T00:23:00Z
 webUrl: "https://www.finextra.com/newsarticle/35147/fca--bofe-launch-ai-and-machine-learning-forum"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://www.finextra.com/finextra-images/top_pics/xl/fca_logo.jpg"
-    width: 480
-    height: 270
-    title: "FCA & BofE launch AI and machine learning forum"
-
-secured: "tzTpFlc2D1W09TKcOeXrwMZ6gWT2g3p9AgjTt4KDPRYFViHe0VmL4GXUPBPPu8iaUBiJWt70JZLQiZvW54jbn2ctmt0jpHGUWsqAdZVX3nTQ7B3zR4Jexc88da2uzux12dl8uVxu78ArBPNQjbzOPNFjlQmd7bnkn3C0u0x+Pg2Mx+FwmvGUiSXc0l6HNZAunojLj9IyGlu27VFZCYqEeAayjpt5ieA35iuNlcX+nj4/KMuaMXj6h+lvtIeHFzZQgSnyn9tjXzeXgNp5PCQ44dlPPI2XYTSR//S4cc/1Mtc3x/37nmbqE3pvVnO9gcf3;k3Kk1xM2taWcdAwQoS9n9A=="
+secured: "SQHPVM+xxVqz70Vtp7uiKiUNRz7SCTNgM5u+X5me1YGX8vGiS4sYcnrHi2SNT48rsBZPNPDVtcphJe9XNuV2PsO1qQ9NdXP/R6V2yTjtyq4lru6iRNTbVxlyjFGUxUkjWRbdAo3Z6RbTScrtoSbQJ4mev+IAYmFlp2gqegjadGPvHEsYWBHbbXl3S3BkuQJ4aTNJLsskAsVys4Ln6yDnf/RSFEC6XAYJDq4QbCyEV/DHYmezC8d0Y+NPEqgxdx7vqXNRm5tmUMZE8lQ66OYayx4fvQ+nyskO86dpFaRrUGYdCSPsunrhxWcL9pwseB6W;hB+H9K6MtQe8fDQKFuXuhg=="
 ---
 

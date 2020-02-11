@@ -18,19 +18,19 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Miami, LA Firms Sue Google Over Facial Recognition Photo Scans"
-    excerpt: "Law firms in Miami and Los Angeles claim in a class action that the Google Photos service uses facial recognition technology that violates an Illinois biometric privacy law with stiff statutory penalties. The lawsuit filed in U.S. District Court for the Northern District of California claims Google failed to get the consent or written release ..."
-    publishedDateTime: 2020-02-07T21:16:00Z
-    webUrl: "https://www.law.com/dailybusinessreview/2020/02/07/google-hit-with-class-action-under-illinois-biometric-privacy-law-over-facial-recognition-392-82075/"
+  - title: "Army looks to block data ‘poisoning’ in facial recognition, AI"
+    excerpt: "The Army has many data problems. But when it comes to the data that underlies facial recognition, one sticks out: Enemies want to poison the well. Adversaries are becoming more sophisticated at providing “poisoned,” or subtly altered, data that will mistrain artificial intelligence and machine learning algorithms. To try and safeguard ..."
+    publishedDateTime: 2020-02-11T17:17:00Z
+    webUrl: "https://www.fedscoop.com/army-looks-block-data-poisoning-facial-recognition/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 54
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/392/2020/02/Google-Headquarters-Shutterstock.com_.jpg"
-        width: 620
-        height: 372
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg"
+        width: 2309
+        height: 1299
 
 secured: "g41ilWyj0eiNHBsoVKjnlOCrgnZNE2L5icvMZuia+bV1Xv/UQ6Ofsr2UxZCRT1E/CEXxxrpaJmuOPZm8BQST0y2J3nDjtY6hZSzfB0yAgy0eI0+1MR7PNH+G2FblLgrvehNrzk+D+j7KoY3X+44omjIofE565O489z9ZkgBJye5WX1CC+faHmDbiwRvqhJM9okvE1IRcYbQthAvGtKJaUiHJb6XrLt9fqkdYSDgeC8YU86FwWbi/QvzWrM15vrpGhAKF7fv62f8iwOhCjQtqRB0vg82UbYSeQGUgF2WrXR7cp51EB0cGx/LqedoW0K/iU1qwRxTk1PuXiVMS3MM/vznnEALCAGTCGFleX9DgnVejAr5iJnTV4/TIhdD0K/AYsXIfvxD1W7Pn3VECID6Zv3r20bNn7shiIYqsxsLTrnJylKia/w7uu12woI+hi/woPNsZ4G8XcEn8nG5eVaVoKqohIIb7T9FyvuCnsQukxCo=;RSOPKUymIKWSgdkTTHL2nw=="
 ---

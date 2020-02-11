@@ -24,17 +24,15 @@ images:
     title: "You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It’s Making the World a Weirder Place"
 
 related:
-  - title: "Peter Judd: Clearview AI not making the world safer"
-    excerpt: "His company, Clearview AI, has done the unthinkable. It unleashed an artificial intelligence that has ... In Australia, it is almost comatose when it comes to tech ethics. If I could afford some $50 minutes with a savvy lawyer I would tell them: Your face is not a book. Or a song. Or a movie to be pirated. Your identity is not currency for ..."
-    publishedDateTime: 2020-01-27T23:36:00Z
-    webUrl: "https://www.geelongadvertiser.com.au/news/opinion/peter-judd-clearview-ai-not-making-the-world-safer/news-story/1e9a8cdc08f739644d11d74df8ca8219"
-    ampWebUrl: "https://amp.geelongadvertiser.com.au/news/opinion/peter-judd-clearview-ai-not-making-the-world-safer/news-story/1e9a8cdc08f739644d11d74df8ca8219"
-    cdnAmpWebUrl: "https://amp-geelongadvertiser-com-au.cdn.ampproject.org/c/s/amp.geelongadvertiser.com.au/news/opinion/peter-judd-clearview-ai-not-making-the-world-safer/news-story/1e9a8cdc08f739644d11d74df8ca8219"
+  - title: "Why asking an AI to explain itself can make things worse"
+    excerpt: "For Ehsan, who studies the way humans interact with AI at the Georgia Institute of Technology in Atlanta, the intended message was clear: “Don’t get freaked out—this is why the car is doing what it’s doing.” But something about the alien-looking street scene highlighted the strangeness of the experience rather than reassured."
+    publishedDateTime: 2020-01-29T15:25:00Z
+    webUrl: "https://www.technologyreview.com/s/615110/why-asking-an-ai-to-explain-itself-can-make-things-worse/"
     type: article
     provider:
-      name: Geelong Advertiser
-      domain: geelongadvertiser.com.au
-    quality: 39
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
 secured: "dKYd+y15VIjLc0GnAQIfXR6Wkumt2VDFBXbtjPkXA4vvBur7AGnuVrNbrtqt0Dz6XRbexnEo+/8jOVLkPiXib2bze9B4M+yj4Uc47u/+IekMKnpNRoZ8U6uUQApnfp3rZuTPLzrFeLyYGayqd1G4Qtst2YvQW/N83/FQIu6Lzx/tiDS3WkK5GwvKyo5FT6OBYNPtCkgUUe+/d3Q6Ib6CtVchA563N/dPbLBHo13dVohnB801lWd6YUBzv0C5PQ2uSg5c342lLl7RBhO8a+iLxLCQzsigL4WUG55eFgfaMu7bSiHvXDB1M80i4vHJZnrhRfeJ2aZzCgg6UGZnyTc4KYe/bJovyJamprJDX85ZC8Ckn6U/kRx6mxCac0yLAn45LRJ7rYDwGI7aIXg9P+vzRnv98MTm5nW25LHdbASs4E9vxQrSHyiWZstiQFuBP5tOvK5OZKZ39wnQUY52URwkPB2BMLhvfiMhamDtF8wmHUE=;AVZtqJ1W65sUAzBU5XK0kQ=="
 ---

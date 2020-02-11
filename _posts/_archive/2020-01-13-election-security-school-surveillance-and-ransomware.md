@@ -4,11 +4,9 @@ title: "Election Security, School Surveillance and Ransomware"
 excerpt: "Should school security include facial recognition technology? A school district in upstate New York has begun using facial and object recognition technology as a security precaution. According to ..."
 publishedDateTime: 2020-01-13T22:55:00Z
 webUrl: "https://www.governing.com/security/Election-Security-School-Surveillance-and-Ransomware.html"
-ampWebUrl: "https://www.governing.com/security/Election-Security-School-Surveillance-and-Ransomware.html?AMP"
-cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Election-Security-School-Surveillance-and-Ransomware.html?AMP"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://media2.govtech.com/images/election_security3.jpg"
-    width: 940
-    height: 630
-    title: "Election Security, School Surveillance and Ransomware"
-
-secured: "lzdahuHaIYCl2tLvI0NgDEQhstmIbGTWB5/UhgGPeDxj9mtdtdOS/Sx2mlVxrUp6qFw4LBiRrwKOIUAT+1L1IN41Hx9sACVzMfNLPJxVveiLmDFUTZyXemNTrMPlr5y+LoISjgYqKp5w/CQakkbVRnhvtAKV0rnKfnNuYzeXVx85HRxBdXskMiOitCEJ1IMW8fEndVNB/9mYGUY55JMcyGEC/HxdJEjr8Yv4gG3eT4dp+xC47LGnVZ58DgDj6DHyONlBo7mKD058IbNiyRm1ItY2MENHEwyna9yHFhoT+ARQlTJWD45r0xfi126OhS1A;rfjDClpJ4vr/nqqPHHQeqQ=="
+secured: "R4U37PP4EHX4kQD6q6TtudGb1BJL76XtQSPsMdOK0rQIRn0CegLEAMjU2y0dORFTSgHGWLAG1pGxu5l5R9zrsPRDEkyxdYEAjUYCjsns5Ltl1b5Xo3cC5D+AhZk95mSkpr19KZh4YJ8f2C/vuQ/P/srR4ao6wRXF4IZ/pGO/rsj6ygqp23yQ1TheQjN0v5l0JlpfARGWt+d6Wum0qCWeKzVfU/Doi9m6po5DbowCYo1npdrYuLBisPAYktr5+UTwE3haD61f08RSsKopg1IITi3IzMA9ZnbpXQWsD5kQk5Zk1V91YTKmltoNLmcMwH3D;2QCxTI3+Ot+5Z7irBhpFjA=="
 ---
 

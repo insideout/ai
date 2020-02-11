@@ -4,12 +4,10 @@ title: "Facebook taught its AI to speak math"
 excerpt: "My numerical idiocy aside, Facebook has trained an AI to solve ... Essentially the research team taught the AI to unpack mathematical equations much in the same way that we do for complex phrases ..."
 publishedDateTime: 2020-01-14T17:16:00Z
 webUrl: "https://www.engadget.com/2020/01/14/facebook-taught-its-ai-to-speak-math/"
-ampWebUrl: "https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Engadget
@@ -23,12 +21,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7952%252C5304%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252Fa6df90d0-fc30-11e9-bf3d-41e8fa5d6f01%26client%3Da1acac3e1b3290917d92%26signature%3Df51c7486a6dd8080945bf5ef5ac7482111cf2c46&client=amp-blogside-v2&signature=7c28bf857a46eba7eeca3ef58ca21d26e24a1234"
-    width: 600
-    height: 350
-    title: "Facebook taught its AI to speak math"
-
-secured: "/JVnlxmUqYgATsF7lMZXt/N6YBlDDlvK5bgrtdcnAmG4EX4Zdj9mnADl930wc9LnXyFakcyCNuHi0CAe/lIR3JWJv3wt+4YwrlTIrPcy4emjaRhv6zJofJWFJFvsdo3DZfHQqLffQgOnTmJJP7xeWUl68fW68eQ0D48Ae7M5nsXDiT4jVzlmaF+/yckB4RsAmkb2z7loOsGoEhv0Xm1GN1jmcfE7AASxP3wq8VBuOIeGoElBlnotT2RCE7c2dc9M/RCirFBrwBGAIOf8tzlsbKv4RSrZmyCBn7QA5f2Ury5ga/47XgaWFy/MRtvnzFJ7;q7wt92jKXDoqSpj+vQ3VNA=="
+secured: "1SAQuH5NG8Ov5eLpC0oxWQFdRiN1oqQAjLmx0uTNiQ8kUvjQZqHJI5o3i0haxcDzewz7ZYwlCkzpWZZMHVyUuTHWOczN48zgQlg4oRy6X24jwODmSeMO4p6GackiAhNJmQv/rZQFiMX1m75SWvHnoUuYdrVd9TPtPTEBLhWoSoIj87AVZPXdnNzrpvofqKyLY5au9jHuQ0Nd8yJT5iYo+J/f7kSBkZje6/rOJyvBeru62zoTVX+6BpexIozO62zYZg+SrHuvgjIriB5to/U55qxEeb0wuU+ivJui/bIDx1j25I0eIEglbyZpSKbsTMvl;L/vPgvsEuk7Pbv2SO1YXpw=="
 ---
 

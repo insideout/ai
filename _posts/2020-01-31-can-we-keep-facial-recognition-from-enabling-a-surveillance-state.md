@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/01/31/can-we-keep-facial-recogniti
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -41,21 +41,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
-  - title: "New Jersey state attorney general prohibits police from using facial recognition software"
-    excerpt: "New Jersey’s attorney general, Gurbir S. Grewal, has instructed prosecutors across the state to stop using Clearview AI, a private facial recognition software. Clearview AI's tools allow law enforcement officials to upload a photo of an unknown person ..."
-    publishedDateTime: 2020-01-27T23:15:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-7935911/New-Jersey-state-attorney-general-prohibits-police-using-facial-recognition-software.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7935911/amp/New-Jersey-state-attorney-general-prohibits-police-using-facial-recognition-software.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7935911/amp/New-Jersey-state-attorney-general-prohibits-police-using-facial-recognition-software.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 50
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/01/27/22/23954704-0-image-a-25_1580165914401.jpg"
-        width: 636
-        height: 382
   - title: "Advocacy Group Warns About Facial-Recognition Tech at Florida Universities"
     excerpt: "The U.S. Department of Homeland Security uses possibly illegal technology to scan the faces of departing travelers at Miami International Airport, and the Miami-Dade Police Department wants in on a facial-recognition database that studies have warned could yield false positives. There's no telling where the future of surveillance technology ..."
     publishedDateTime: 2020-01-31T15:00:00Z

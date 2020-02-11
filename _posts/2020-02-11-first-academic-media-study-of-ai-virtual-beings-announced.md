@@ -1,27 +1,21 @@
 ---
 category: news
 title: "First Academic Media Study of AI Virtual Beings Announced"
-excerpt: "The study will follow the Microsoft M12-backed AI startup, Twenty Billion Neurons, and examine how different forms of media take part in the generation and production of AI knowledge and practices. Sudmann's study will shed light on how people, practices and technology from fields as diverse as computer science, product development, design ..."
-publishedDateTime: 2020-02-11T14:06:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-first-academic-media-study-ai-virtual-beings-announced-/2020/02/11/9095789.htm"
+excerpt: "/PRNewswire/ - Media scholar Andreas Sudmann today announced the beginning of the first ethnographic study of its kind aimed at examining AI-powered"
+publishedDateTime: 2020-02-11T13:01:00Z
+webUrl: "https://www.prnewswire.com/news-releases/first-academic-media-study-of-ai-virtual-beings-announced-301002461.html"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "First Academic Media Study of AI Virtual Beings Announced"
-
-secured: "kVG8XAh8CKxiiX2LujE2uHBGUOYo85lG3BI+RXvZFWaNeI1pwab6hJebhbNyWXbz+D1Jau8JakqZBBYBg4LTWb7tnyYVRBJunT6/utlSoBSPlwy+HekKIpXwXqNIFGhcpp6oyRug1S403a8yzMz++F304F4+qNkYUkfk/UOz1Vt+lPQy/Qs2E5OmPHdgVb34fe/kJu1zfCJQnIkbrMT7AtGN2FKKE9xsSqzpOwcZoz0eFxxHe1XVP75SFcvb7bP7AssTSKfTbFczz/RLsP6dMchtOeoirIE6naoBfdVxn5M7An9FNYhOp3BdyGGWhE+9;+iVxyBy9J89z4mfeK6T4aA=="
+secured: "2Nn9EUuzw9gr3ZaG7SSHcI0uMQMQ+BU7fQLcnI5v0KkZEpEURRbGb8WSA9/D3ggcpNDwi0RHvEZngXMRUL4hSXhivnxfPXQjqNUc+6OFJ7fIc1YPOdsIAoX5QqQIitlFxZ6bPPA8wVguHQmecNHqQ+tNDtT0CceeuvBB8IuBIGWsDCmN3SWvP3x4J7o+nJW6q0YJu7VYpViexpPy4Bmo3a3+/MHYu/sM3XAuPPoga8U4Qr/FMak5RWvj/bcuqsNkJNecuOcSu4AJQiBrwD5lGoF5hKv3vppRNozG7Ys/maES1noDCjG8XeBPzM20qwtw;bN9Qqx0Ov6vThtbBtaSnzg=="
 ---
 

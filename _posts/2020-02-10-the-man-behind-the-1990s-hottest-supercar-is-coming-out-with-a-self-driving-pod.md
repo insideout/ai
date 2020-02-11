@@ -59,6 +59,15 @@ related:
       - url: "https://images.hgmsites.net/hug/lexus-ls-concept-2017-tokyo-motor-show_100629241_h.jpg"
         width: 1920
         height: 1204
+  - title: "Can self-driving cars handle Canadian winters?"
+    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
+    publishedDateTime: 2020-02-11T16:22:00Z
+    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 4
 
 secured: "wLYgXGf1GvaQ5h3v2rBfkpyXLKpxpsb4b+LUshFcGqgeneKeQA48D6oQPbJ2Bwv/eJPGWeAmBU3es+yVlXDDgKiKLq3hlcdSqYerfVFk3EEhtiI7JxHUgg+vt9BUW7UBMBH6qDMG5aywUzsIbosLz6p9q1jMPMXNBU4P0BlNgWPEd6SW3A2bg/pfP8cwr7g/gamlcEjvTjuyUGvdvrCb2qskXAK5ACTwsiKuFccD3NlBtY9jI5NyWQ0aU5AI2ek6KauIsFk6w0LxXYrRCePS0Pqi1jmPs3KbHv2sgXY7tosMiseyhZwthnOgyTBO+w4pstxGX7pzdBonsnOH2RZ1a3Za/IO0rU+lR/zU9wehiheJNeN6h4LH0yaby9Cv/b8v8fyeIfZuXl9CjD2uJ/73x7ZImpZ8BTuHeKOHqbH520NXngILyWkH4GN/UMfH+x09gwOhwttvOHlyeRKTx00ILZVUasBNQnXjOy6fm39OxmQ=;moe/sMsP1v05ILk3uOEjjg=="
 ---

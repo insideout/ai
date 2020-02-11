@@ -4,12 +4,10 @@ title: "Facebook releases low-latency online speech recognition framework"
 excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
 publishedDateTime: 2020-01-13T17:32:00Z
 webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
-ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
 type: article
-quality: 89
-heat: 109
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat
@@ -23,12 +21,6 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
-    width: 1200
-    height: 600
-    title: "Facebook releases low-latency online speech recognition framework"
-
 related:
   - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
     excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
@@ -38,11 +30,7 @@ related:
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 54
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
-        width: 849
-        height: 565
+    quality: 34
   - title: "what3words and Speechmatics launch speech recognition and post-processing API"
     excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
     publishedDateTime: 2020-01-13T11:55:00Z
@@ -51,12 +39,8 @@ related:
     provider:
       name: Pepsi
       domain: mobilemarketingmagazine.com
-    quality: 36
-    images:
-      - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
-        width: 620
-        height: 500
+    quality: 16
 
-secured: "MNNk839uIShYmmOPYGflV7gLXGCX8d54PpBgWcXFT8T9QXksRYDZYEQJ+00/5/Gtq3RzLtbVCDUxtecMW8KCzt2MEkWCDtRV8dtUOH56IDaUN0oFKpklEHxx7bot/i6eOH+NSydQnaRmVQkZCFYbOzEk/D0C8TlGfqRSiZ9xmr44qxhc4mx4SGKhhB1px+cjSYhKGPOXr2wI9kWu6c6/EadhQNsZ6jlcPSYF9ljmZ8+HsPpciyUIblgXsV40vA1ZnqT/9pkrayPi5RatXPOm+CNydjTxZO0IdBHqDwmZSC9jtfv90LNJDrjVIe7YMVJN;SvBO2o6AVDkaVB1lT1lznQ=="
+secured: "Amv3WX99492z1uyO8DonZbaeZYLMiHSmahdU0xoqWE6wDKF2KvctldiL4fXQuzvZjVhXP69QGg5n4vWdnxb8kDFGzxiLUp6UFi1PFLOg0JQf1uVHAVvVvVu90QlJDXHkS5WVVai9GMqb5Skzkpk4C0WkZKNq0hH2AcanViRikZ1cyovYJtT9yqx8VKVLeaGh67kUSB+8/2jwdozq6QQHyAdXqYC3xP/3m0RYGY/NIBO+fip+dMPidtVDtRS1t2ELuLRU3o8ipktJMrfn9FbDFXCsH8WQYt9nBpASw9IFLTgGqRQkhp8DhXWBiSsb4fDh;Fgce7ChTsLS2kFIRu122uw=="
 ---
 

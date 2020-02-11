@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgra
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/ff5f354/fc6d1fdc-dffc-47f8-bcdb-4760220f6a01/2/LFR-370x229.jpg"
         width: 370
         height: 229
+  - title: "Artificial Intelligence and Facial Recognition Could Change How Vegas Casinos Work"
+    excerpt: "The applications of AI into casinos and poker online could be massive. However, most industry experts agree that there is more value in incorporating facial recognition into the overall customer experience. For example, a facial recognition system can easily identify customers as they come in. Facial recognition tech installed on slot machines ..."
+    publishedDateTime: 2020-02-11T16:13:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2020/02/11/444432-artificial-intelligence-facial-recognition-could-change-how-vegas.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
   - title: "Tech company develops facial recognition camera for the STEM classroom"
     excerpt: "An electronics company has developed an artificial intelligence (AI)-powered, facial recognition camera exclusively for the science, technology, engineering and mathematics (STEM) classroom. Dubbed HuskyLens, the camera developed by DFRobot is an easy-to-use camera designed to teach STEM students about facial biometrics and object recognition ..."
     publishedDateTime: 2020-02-06T17:21:00Z
@@ -51,6 +60,15 @@ related:
     provider:
       name: Engineering360 News
       domain: globalspec.com
+    quality: 19
+  - title: "Poker Players Are Asking for Facial Recognition Technology"
+    excerpt: "There has been a lot of talk about the idea of introducing facial recognition technology into casinos. Proponents of this idea have argued that a facial recognition system could unlock an array of benefits for casino owners and players. First, it’s a good way of tracking patrons and signing in VIP players without a fuss. Casinos also have the ..."
+    publishedDateTime: 2020-02-11T16:08:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2020/02/11/444431-poker-players-asking-facial-recognition-technology.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
   - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
     excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
@@ -62,6 +80,6 @@ related:
       domain: cbslocal.com
     quality: 13
 
-secured: "HUy0DdZnbCW2bZtBhs0t0GcSSrrxzuSjlPZGDjKSPkarWX2VwUlBBA/KYnus3tUV4Uct6hbcLmVDEoXK3bYr9BqnI6t2CDSpXhAJZDyhHVC/b7QBTdpdCXwEkp3nr6F+q+ruCTMqXjsloYMswbKFQt69feNvcGl27QYJsvdVHC3D552MQTUfdGpE79aRp0GqTBQgFKp+cBfykfEYT1ObpNogLSqSEWaiDEeh2O5FREEQLrQspwFi4khaiox5kzXcylv8RMTWJicfwYMQFWEWOte6MPH/Z4jZLD8zhE+tNJo9/003wS8aTa/+DUkU7dOSYPOp2+CfpEFpUcZWRNw88XO7QxNB7MrPcaYNH1gRLPBqhc9PI4fT6NZsFoJtME+zsWxwH+LYAG4E0R1D/+ANSl928c4OGZ525Vgn0JlsLo2jK49sLESoP9UYxouuxcTjZyHbvQ6dnajOIIO6O0FhVunSFP43VwDJJ33vZBReQ6A=;0brw+uI/ipzbRznxt5oCcg=="
+secured: "aNGClI6UYQOA9+tRBG8bcM6sJPRolea3alNm3o+RRAoVhydKd5LLLRQZrGZ0nplFeSkfCq6cfyusZGRx4WSNIg7uvlR+2RZ3yirMGCra2qBbgvcPzYge8UgK8J7BB5vt6fT4WfpqmI1QFuBaEdfppY2ymrb4kK6lyVBfdguMABCw5hDMVZ0z/Rln4LA1MJwnXtSY/GOVJIO7VHl10LDz2hTf8uvZbpQ+nLO0i1zfkx7aEzK/B0BHlf0eWN3stLgW32PgSd9ah07M9CgPogXeSN03vSGwZK6O7xIFniRo6WcStAMTgGGbryj5bk1BokmIJkODw4UgUKO2bbJDMV/zzGDK7HU71oer+prNXRwszaE0oZ5fzzEFQx4EhlAZKOTm5tKbMw2+cZ9dgnLddAc+lxJnd22U9wp1PXE/+KrtRc0lBa7nKPltLLp1X+l8ndR+0aMGU4jFVxLiwhP8peqy7x0rvSj5iWiNSGqY2XXgNAg=;lEcx2nGWFDqy3ol4KeoiuQ=="
 ---
 

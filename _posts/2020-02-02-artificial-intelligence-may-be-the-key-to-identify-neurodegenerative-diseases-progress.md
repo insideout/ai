@@ -47,17 +47,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 43
-  - title: "Artificial intelligence predicts treatment outcome for diabetes-related vision loss"
-    excerpt: "\"The algorithm could also be adapted to predict therapy response for many other eye diseases, including neovascular age-related macular degeneration.\" Predicting treatment responseThe algorithm developed by the researchers is based on a novel convolutional neural network (CNN) architecture, a type of artificial intelligence that can analyze ..."
-    publishedDateTime: 2020-01-28T17:26:00Z
-    webUrl: "https://medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 33
 
 secured: "09/8mEwy6ahV6/iTIwXHMvHJmqkQWgznSpyWN2x7Xf+KzezmdTMn1nzugbb0NsiYuCDt+2yBCxVwOWFXsntyEo5phOYfWoNqHlLMR+WbgexR1q9Kwxxcja59TfvgJZ4xGEBXrYfSllcFzn22QFE/PcM9asdJVUooWVwCUU8JkncWjXifqfmqlV8xujzXYAX+md8JhpAMGXWrTh38eVtB/ehQ+N5kb+R6MOGvWLvfVE1zwthKKVdcSVXCPGNn5c9Dbz2HJz11S0FvjTlJUSSxBf4c7zhn5M/R61EEr7JTfY44OL9Py33pevlpEkSrbjyG;+CmxMP8SIEPXnyqRKWdy4Q=="
 ---

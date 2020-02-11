@@ -47,6 +47,19 @@ related:
       - url: "https://www.cioreview.com/news_new/sliderimage/3rido.25.jpg"
         width: 300
         height: 350
+  - title: "How Artificial Intelligence Is Transforming Businesses"
+    excerpt: "Essentially, AI is a term that is used to describe computer software that simulates human-like/human intelligence processes ... Deep learning relies on artificial neural networks to learn from data. It can be used to help with various different functions, including fraud detection and self-driving cars. In self-driving cars, deep learning ..."
+    publishedDateTime: 2020-02-11T17:21:00Z
+    webUrl: "https://www.propertywire.com/how-artificial-intelligence-is-transforming-businesses"
+    type: article
+    provider:
+      name: PropertyWire
+      domain: propertywire.com
+    quality: 39
+    images:
+      - url: "https://www.propertywire.com/wp-content/uploads/2020/02/shutterstock_1384554629.jpg"
+        width: 900
+        height: 500
   - title: "Huawei, Chinese chip makers keep factories humming despite coronavirus outbreak"
     excerpt: "State media reported that the chip maker did not cease operations over the Lunar New ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis ..."
     publishedDateTime: 2020-02-03T13:55:00Z

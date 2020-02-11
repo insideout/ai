@@ -109,13 +109,13 @@ related:
       domain: benzinga.com
     quality: 2
   - title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-    publishedDateTime: 2020-02-03T11:44:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+    publishedDateTime: 2020-02-03T10:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 1
 
 secured: "d1Bjg/f5aUQPOrZi3Ws1xMzR7ODY7RjhP9yl511lGF3vuiK2Hx2WDVQUdoXPWvGXyHvxiFN/qIZrHX48oD7W43t+rjHuEmpsbf9nM66j9O/1jzXj3IZvk9Yc5jqAbqu7yPNSl2fUDV3gBaTQUXAi/JEIjiU53sz9uAIi2PwV1UHLHOOS7RXIpz7pBaUxaZJgsczUZrwUFljeauoNCFrNWIguFG5SOMb73K9dX7lu3q4t0OgylYqL0yzvL6UlQovqb6rtrxec6s/XzMyWs4lfRxJOpRgrb3OzwUjnIbUilJojdAbjIFyGemxHKDd4HxFC;zdITyNq2F6y7pz75VW2ubg=="

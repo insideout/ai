@@ -27,19 +27,6 @@ images:
     title: "Assisted Intelligence vs. Augmented Intelligence and Autonomous Intelligence"
 
 related:
-  - title: "Going in depth into big data and intelligence with HPE"
-    excerpt: "Add some strategic acquisitions, such as BlueData and MapR, and the company is poised to capitalize on the new super powers of big data, artificial intelligence, and, of course, cloud computing. “It’s part of an entire workflow,” stated Patrick Osborne (pictured), vice president and general manager of big data, analytics and scale-out ..."
-    publishedDateTime: 2020-01-27T23:33:00Z
-    webUrl: "https://siliconangle.com/2020/01/27/going-in-depth-into-big-data-and-intelligence-with-hpe-cubeconversations/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/Patrick-Osbourne.jpg"
-        width: 5472
-        height: 3648
   - title: "Yseop introduces natural language processing augmented analyst tool"
     excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented Analyst, a new enterprise-wide NLG automated report generation platform. Augmented Analyst is designed to help financial companies accelerate their digital transformation. Stemming from the imperative to move ..."
     publishedDateTime: 2020-02-06T12:07:00Z

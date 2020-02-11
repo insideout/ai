@@ -1372,43 +1372,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-06-the-evolution-of-computing-for-ai-machine-learning-infographic.md",
-      "title": "The evolution of computing for AI & machine learning - Infographic",
-      "excerpt": "See the divided uses cases for Vector processing vs Scale processing by downloading your free Infographic from our content partners NEC X",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datacenterdynamics.com/en/whitepapers/evolution-computing-ai-machine-learning-infographic/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/NEXC_INFORGRAPHIC.2e16d0ba.fill-1200x630.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The evolution of computing for AI & machine learning - Infographic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-06-tinder-users-can-now-block-inappropriate-users-thanks-to-artificial-intelligence.md",
       "title": "Tinder users can now block inappropriate users thanks to artificial intelligence",
       "excerpt": "Machine learning has made its way to Tinder, with the $1.2 billion dating app now using artificial intelligence (AI) to block people for inappropriate behavior. The at-least-initial anonymity of dating apps demonstrates that trolling behavior isn't reserved for Reddit or other forum-heavy websites. The popular dating app Tinder has made ...",
@@ -1537,7 +1500,7 @@
       "path": "_posts/2020-02-06-who-is-responsible-in-a-crash-with-a-self-driving-car.md",
       "title": "Who Is Responsible In A Crash With A Self-Driving Car?",
       "excerpt": "It's not just the car manufacturers. It turns out that people take advantage of conservative self-driving cars to act more reckless.",
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/",
@@ -1894,7 +1857,7 @@
       "path": "_posts/2020-02-07-clearviews-facial-recognition-app-is-identifying-child-victims-of-abuse.md",
       "title": "Clearview’s Facial Recognition App Is Identifying Child Victims of Abuse",
       "excerpt": "Though a breakthrough for law enforcement, the technique could allow the little-known start-up to collect an extraordinarily sensitive set of data and images. Law enforcement agencies across the United States and Canada are using Clearview AI — a secretive facial recognition start-up with a database of three billion images — to identify children who are victims of sexual abuse.",
-      "heat": 438,
+      "heat": 458,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.nytimes.com/2020/02/07/business/clearview-facial-recognition-child-sexual-abuse.html",
@@ -2112,6 +2075,52 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-07-geek-of-the-week-trupanions-david-jaw-uses-machine-learning-to-help-facilitate-better-pet-care.md",
+      "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
+      "excerpt": "As the leader of the data science department at Trupanion in Seattle, David Jaw’s projects are actually around pets. Jaw, GeekWire’s latest Geek of the Week, uses artificial intelligence and machine learning to help automate medical insurance claims for pets, streamlining the process and removing the worry about what’s covered and what ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/david-jaw-2/",
+      "ampWebUrl": "https://www.geekwire.com/2020/david-jaw-2/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/david-jaw-2/amp/",
+      "publishedDateTime": "2020-02-07T14:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/hank_home_011-630x511.jpg",
+          "width": 630,
+          "height": 511,
+          "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
       ]
     }
   ],

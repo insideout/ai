@@ -1,33 +1,21 @@
 ---
 category: news
 title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
-excerpt: "former principal product manager for Microsoft Business AI & Research; Mike Palmer, founding member of InfoPath and an engineering manager in Office; and Martin Sawicki, former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary ..."
-publishedDateTime: 2020-02-11T15:26:00Z
-webUrl: "https://venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/"
-ampWebUrl: "https://venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/docugami-announces-10-million-seed-funding-round-led-by-signalfire/amp/"
+excerpt: "former principal product manager for Microsoft Business AI & Research; Mike Palmer, founding member of InfoPath and an engineering manager in Office; and Martin Sawicki, former engineering manager for Microsoft Office and Azure. The Docugami science team ..."
+publishedDateTime: 2020-02-11T15:04:00Z
+webUrl: "https://www.businesswire.com/news/home/20200211005446/en/Docugami-Announces-10-Million-Seed-Funding-Led"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 4
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://i2.wp.com/mms.businesswire.com/media/20200211005446/en/772660/4/Docugami_Team_Offsite_February_2020.jpg?strip=all&ssl=1"
-    width: 480
-    height: 346
-    title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
 
 related:
   - title: "Modl.ai closes $1.7m seed funding round"
@@ -43,7 +31,16 @@ related:
       - url: "https://images.eurogamer.net/2020/articles/2020-02-05-10-45/modl.ai_team.jpg"
         width: 1500
         height: 1000
+  - title: "Israeli Start-up Kardome Receives Investment from Hyundai During Successful Seed Funding Round"
+    excerpt: "Kardome, an Israeli startup that develops voice-control technology for machines ... We plan to use Kardome's robust voice AI technology to boost customer's value and gain competitive advantage by enhancing user experience and safety features.\""
+    publishedDateTime: 2020-02-05T08:58:00Z
+    webUrl: "https://www.autoblog.com/press-releases/israeli-start-up-kardome-receives-investment-from-hyundai-during-successful-seed-funding-round_22077/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 5
 
-secured: "Z5jLCKM0tGpMH3wpknJr1AEdp1r4d/e4Bgm+CZbZyI1lwtex6tC0Sbxyk4xsrbCqKe6V497gYRB0k4l1V8wxNcAyYRIroCuDtUZFYnzlqzsvQauSGMVF90EHnQng6GOjASRlo7f4pdzRlKvMWKTlRVYw8xM4r7Oj76dldcHIbO5kDeJLrLa5lg6sTCETmG+3KxTZUIBIEQShKTzwpOh8upjz+lht5d2Kqm91OhBCwbuazHU82Oe1H6IraScNbWoOPOsqeonSxKMdltHKz+mit2Uv0uo3jGHMWa/vVqicpHOX+3MmN16XWo8VJY45vzWd;5aecPJl2onY3t5I1bmpB+w=="
+secured: "qJvCSNZ695n5N/8Of/zP9ASBQMgCRj4/W9lqOuZQai1hRAUQefU5tx7COPoSB0qK82CL+1rmbRMcB/lYDAJ84K4ViEIUqN/jiLcbbvZ8R3Z1ji3Vv+EE+BuZJcB0bQv6J/zItJSaxFlBXnFG3HYEpiu+r/R3EQo1KUBLr4uLyQZKs45Cu35k0wnyD4Rx4gS74iPfMfvZuRHqisx1C8UbIK3Xw5WK7ln8xQuO5Kj9xCmvXDnxv1uKt0VItRmzRlsfWejIunGyrZJZIHvlV/RG6a4aK/SntNTviKV0N4t18qyJOHi+2VqbODxzroE3nPGOX8veH1tnFq1GdgIULvGm4NvZMRgZG1CHTTusbKaXsQ3D7CC2Her7ywQCDRoW8TLuAdOZ9bUrXy20/7cSlnenaJi4YlLA3g/dznHPVLe2CDZTzBS/1xlWpYe5g3SD0tY53KWQabA/AdBJx7PPXKRwmwfKfNlnsbj9BVLGC98R5B4=;NNjSjxPuVyiyRqn1spP1Yg=="
 ---
 

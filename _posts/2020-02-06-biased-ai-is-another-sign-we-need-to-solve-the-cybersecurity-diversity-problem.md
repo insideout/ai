@@ -19,6 +19,21 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "McAfee CTO: How AI is changing both cybersecurity and cyberattacks"
+    excerpt: "McAfee, one of the big players in the industry, is adding AI capabilities to its own suite of tools that protect users from increasingly automated attacks. A whole wave of startups — like Israel ..."
+    publishedDateTime: 2020-02-11T17:04:00Z
+    webUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/"
+    ampWebUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/11-McAfee-interview.jpg?fit=2160%2C1078&strip=all"
+        width: 2160
+        height: 1078
   - title: "Adversarial artificial intelligence winning the cyber security battle"
     excerpt: "Artificial intelligence (AI) has come a long way since its humble beginnings. Once thought to be a technology that would struggle to find its place in the real world, it is now all around us. It’s in our phones, our cars, and our homes. It can influence the ads we see, the purchases we make and the television we watch. It’s also fast ..."
     publishedDateTime: 2020-02-06T09:43:00Z

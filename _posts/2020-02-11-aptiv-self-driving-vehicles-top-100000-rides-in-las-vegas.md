@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-dri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/APTIVvegas026-1100x734-1.jpeg?fit=1100%2C734&strip=all"
         width: 1100
         height: 734
+  - title: "Aptiv’s Self-Driving Vehicles Top 100,000 Rides In Las Vegas"
+    excerpt: "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides."
+    publishedDateTime: 2020-02-11T17:07:00Z
+    webUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/"
+    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41bec0a854780006b0f2a8%2F0x0.jpg"
+        width: 1200
+        height: 675
   - title: "Waymo self-driving vehicle in collision in Phoenix suburb"
     excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was involved in a collision with another vehicle in a Phoenix suburb and the driver of the Waymo vehicle was taken to a hospital with non-life threatening injuries,"
     publishedDateTime: 2020-02-09T03:32:00Z
@@ -111,6 +126,6 @@ related:
         width: 1140
         height: 712
 
-secured: "VuDnTmw4JtYy2NrHBogt7A7s1Pn/+8WECQ5kaGF3ZEmSwhRpNs6hzHoFjnyMQyG8DF3yQYvSv3c3P6PomlL4dzHXWWn6nFt8viLEKehhusTK3CkOB16E5pd9km1jMq3jquTpMiAOHsEbOoBga5jk6Bxv8ekGUQaqUsEOmNOI8gpBLsGjL68o9POEnGkkbaWeoyyaOo5SsjeyQ4S7aIwSRlN999tfao6+5D98THKdWt9uq9/LjO+7o+6AwibwDH6IwnF63mnd1xNP/2VG1Hfij5Fs7LNx4xYestvPuqVw1Ju9vfvgLayQT878pjfhIHGbbLMw9qMPYBRvUjyQg1h8BAAsNwPs2XJMfKRk8uFDpljc1E3rU9PyOMSnQE92rnIv3QSOgr1Xlmz3vyxNAYt+3TltE0JXk8LbnSx++AN+AF6ZTinmQWKe/BLzfYbTm5eSDGhUg5aaVWIC3o275Bc59WWKa56SPKhLjbh0iGAkoHU=;Jx9dHqXj9B166FWQ/HiIKg=="
+secured: "kON6uOXhIIymvfXGDAJiV3g1Fv4bvuZCqND1IusGXFys74SWhzSQFEDcKz4QJzdAdEwPY8IiMLh8m5CVLifYJhEZIH9ty0l9PaBWXDrWl7LxkIehdQKn/rerIy4TFOQsuk7OONjBrUcPgIm1e2MXelb9ly2JqucM5g8JDEkzUACWScy358VPEQGF1izFCpI2PtVRE/uFWGOc6nwzRW4WrHmarLW2QXl0l+eZ+HbIgdtxyLykTcntscf9M0QZkDhgZDZTQZQoL4iGZPlBDu4AWRe4BLi4LUkuLkABbM40B04He6UHo7CDQI+sciNdf8vtFhEakQFAM9tov9pcDYUw709M5pv3T9dmlXP/ocQKMsnOOchj5iGb2CFs4GLdqNAk7cFp8DKoGFsR3/VTyym9RqfhF0ABrO9Zr5uSajD3XM9TZMRGAGim3oyb+zhKDOucaZhj22hlDRqotDma3V+ai8jMxKmZAGs+nfsTiwEvwB4=;pJRgpZOZJO+xAA9WeZd7UA=="
 ---
 

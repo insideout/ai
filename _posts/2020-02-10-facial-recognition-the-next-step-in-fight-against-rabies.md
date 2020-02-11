@@ -8,7 +8,7 @@ ampWebUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-f
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     title: "Facial recognition: the next step in fight against rabies"
 
 related:
+  - title: "EU backs away from proposed five-year facial recognition ban"
+    excerpt: "Instead, it will recommend that member states assess the technology themselves. The European Union won't issue a ban on facial recognition tech, as it once proposed, the Financial Times reports. In a previous draft of a paper on artificial intelligence, the European Commission suggested a five-year moratorium on facial recognition, so that the ..."
+    publishedDateTime: 2020-02-11T15:49:00Z
+    webUrl: "https://www.engadget.com/2020/02/11/european-commission-facial-recognition-guidelines/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 49
   - title: "Facial recognition provides big boost in finding lost pets"
     excerpt: "Hardin County Animal Care and Control is taking advantage of a new tool to help locate and identify lost dogs and cats. The shelter recently announced its partnership with Finding Rover, a company that uses facial recognition imaging systems. According to ..."
     publishedDateTime: 2020-02-06T09:55:00Z

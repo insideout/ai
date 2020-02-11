@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T09:43:00Z
 webUrl: "https://www.information-age.com/adversarial-artificial-intelligence-winning-cyber-security-battle-123487325/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     title: "Adversarial artificial intelligence winning the cyber security battle"
 
 related:
+  - title: "McAfee CTO: How AI is changing both cybersecurity and cyberattacks"
+    excerpt: "McAfee, one of the big players in the industry, is adding AI capabilities to its own suite of tools that protect users from increasingly automated attacks. A whole wave of startups — like Israel ..."
+    publishedDateTime: 2020-02-11T17:04:00Z
+    webUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/"
+    ampWebUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/11-McAfee-interview.jpg?fit=2160%2C1078&strip=all"
+        width: 2160
+        height: 1078
   - title: "Biased AI Is Another Sign We Need to Solve the Cybersecurity Diversity Problem"
     excerpt: "Individuals with diverse perspectives on AI, technology, data, ethics and diversity need to collaborate on governance. Remember, “minimize” is not the same as “remove.” A risk-based framework is the only pragmatic way to put AI governance into practice. Resources should be directed toward mitigating biases in artificial intelligence ..."
     publishedDateTime: 2020-02-06T12:17:00Z

@@ -4,8 +4,10 @@ title: "Top Machine Learning Services in the Cloud"
 excerpt: "GPU accelerated machine learning training on IBM Cloud supports the Keras, PyTorch, Tensorflow and Caffe frameworks. Value proposition for potential buyers: For organizations that have already bought into Microsoft Azure cloud, Azure Machine Learning is good fit, providing a cloud environment to train, deploy and manage machine learning models."
 publishedDateTime: 2020-02-08T09:16:00Z
 webUrl: "https://www.datamation.com/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
+ampWebUrl: "https://www.datamation.com/amp/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
+cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
 type: article
-quality: 21
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +19,7 @@ topics:
   - AI
   - Microsoft AI
   - Machine Learning
+  - IBM AI
 
 related:
   - title: "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings"

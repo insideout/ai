@@ -4,11 +4,9 @@ title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence
 excerpt: "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ..."
 publishedDateTime: 2020-01-14T14:43:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/germany-s-bundesliga-to-use-amazon-web-services-artificial-intelligence-1028816437"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Germany-s-Bundesliga-To-Use-Amazon-Web-Services-Artificial-Intelligence-1028816437"
 type: article
-quality: 83
-heat: 103
+quality: 63
+heat: 73
 published: true
 
 provider:
@@ -24,19 +22,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-    excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames, from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search ..."
-    publishedDateTime: 2020-01-13T12:24:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200113005382/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
-    images:
-      - url: "https://mms.businesswire.com/media/20200113005382/en/766965/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
   - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
     excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 ..."
     publishedDateTime: 2020-01-13T15:16:00Z
@@ -47,6 +32,6 @@ related:
       domain: telecompaper.com
     quality: 14
 
-secured: "1wVnS3XASSqMoVGju8exrkA1OYutVQ8Rul8rF6GHh2/eP1how/rieZu/mNgnxpleSMWYGr7HNtyCZCIo2SCjLkq6iNyxQB/8c1zeGWValJT3ZxyI43EAdIZVOxXF1Bj0gzf9oK6aa3gmuNeloHmYXZgbNCxdk1e2PkcyLrsZqk7HVdUlW56USenZapm12xklH4sYbTjlSjg/pbu1VhHgafAnAmaAEeh168fyvNszk15zbv+QovXheOv6tu0jmklMclhiWf2UepB7pVu6e2wxnyjVk3XcD9q8+Ib5q6KHyelEG4OxafYb3v9J5f+HPJ4R;1P1iFNshuWNpOyl2Nh2ENw=="
+secured: "yKZHVcRzRuNyLfx3gaSwpELENNpeiDCFGWmcdoO9hvHAklGA33X0l/DegpLk0PgXtJCJ3xKZVyaztvJx+/GN65guICbNaJnZHWjJGQ+XsxHzPlwOva6mYlwRq8l40hflWMabTLVL33fLGCyECQfyxjPFD48+hTOml/T7OiA+IJopWHOxgxlc5A+XQdljdig6HKYN/D/htJIgaAP4OlqZdViWB3UuYBv9NC1XKmSTWRHblipy9t5AUOjAAqX/xXT7fDoMCe659Gy9RM27uoFoqp8700hoj76LKZvFBAy+rW/3Ts2Nzj5n8mQPdwkddeQ1;H964ywd49BhWZ2t8knNN9w=="
 ---
 

@@ -44,6 +44,15 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/networking_header.png?w=1024"
         width: 1024
         height: 562
+  - title: "NVIDIA VP Claire Delaunay will discuss empowering robotics startups at TC Sessions: Robotics+AI"
+    excerpt: "which works to develop AI and general intelligence for robotics and Joshua Wilson, cofounder and CEO of Freedom Robotics, which works to help companies launch and scale robotics systems. Tickets are on sale now for $345 and you’ll save $50 when you book now as prices go up at the door. We have two Startup Demo Packages left for $2200."
+    publishedDateTime: 2020-02-11T16:39:00Z
+    webUrl: "https://techcrunch.com/2020/02/11/nvidia-vp-claire-delaunay-will-discuss-empowering-robotics-startups-at-tc-sessions-roboticsai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
   - title: "Robotics Market size Witness Growth Acceleration During 2025"
     excerpt: "Venture capitalists have opened up to funding companies designing and manufacturing industrial robots. Advancements in artificial intelligence and development of sophisticated sensors are projected to augment the development of self-programming robots. Make an Inquiry before Buying: https://www.trendsmarketresearch.com/checkout/3132/Single In ..."
     publishedDateTime: 2020-02-05T08:23:00Z

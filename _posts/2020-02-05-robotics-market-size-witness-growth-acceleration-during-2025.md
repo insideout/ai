@@ -48,6 +48,15 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/robotics_header_2000x1099-1.png?w=1024"
         width: 1024
         height: 562
+  - title: "NVIDIA VP Claire Delaunay will discuss empowering robotics startups at TC Sessions: Robotics+AI"
+    excerpt: "which works to develop AI and general intelligence for robotics and Joshua Wilson, cofounder and CEO of Freedom Robotics, which works to help companies launch and scale robotics systems. Tickets are on sale now for $345 and you’ll save $50 when you book now as prices go up at the door. We have two Startup Demo Packages left for $2200."
+    publishedDateTime: 2020-02-11T16:39:00Z
+    webUrl: "https://techcrunch.com/2020/02/11/nvidia-vp-claire-delaunay-will-discuss-empowering-robotics-startups-at-tc-sessions-roboticsai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
 
 secured: "03wT1raILQZlc7aQzRe28iP7B8YUsHPS2FWE3JN8/RIgPocL7KQ5pyN/p/7kscpVGg2Pd/NZtbodP1hzV+jBFbuDtccsa4IdO6Cut06TwmJ+dbzIhh84xVfI7EZIOm5XJfKA6IMwxWgty09tLG28wIf63bweFIRvaA4k8B04MkpOMJCw66k0aOftXeylR8tR21ubEdOFDtZm1tt3ZKsBkrfEPFgtWszDmF7wQ1pQPNalccJP/FApWLMPsI7JzjocTtGQ/NNwsBaKXzxkmMDB8S4cPku/tuazljWMTxKa9YwTk5qsr0NN9gjUDC+eRUbw;UcgciMPmV2W3CJ4i6pqaVQ=="
 ---

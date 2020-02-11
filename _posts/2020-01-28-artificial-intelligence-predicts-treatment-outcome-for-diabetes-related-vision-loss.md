@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Artificial intelligence predicts treatment outcome for diabetes-related vision loss"
-excerpt: "\"The algorithm could also be adapted to predict therapy response for many other eye diseases, including neovascular age-related macular degeneration.\" Predicting treatment responseThe algorithm developed by the researchers is based on a novel convolutional neural network (CNN) architecture, a type of artificial intelligence that can analyze ..."
-publishedDateTime: 2020-01-28T17:26:00Z
+excerpt: "A new approach that uses artificial intelligence to analyze retinal images ... agents are widely used as the first line of therapy for diabetic macular edema, but they don't work for everyone."
+publishedDateTime: 2020-01-28T17:21:00Z
 webUrl: "https://medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.html"
 ampWebUrl: "https://medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.amp"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -19,45 +19,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "New AI tool predicts disease progression and evolution in neurodegenerative disorders"
-    excerpt: "Researchers at the Montreal Neurological Institute, Canada have found that testing blood using an artificial intelligence (AI) algorithm successfully predicted disease progression in neurodegenerative disorders, as well as identifying underlying molecular pathways that were predictive of disease evolution. The findings have important ..."
-    publishedDateTime: 2020-01-28T14:45:00Z
-    webUrl: "https://www.news-medical.net/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 50
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1181851309_9d7d8e56f4574ebfaffa83f8825898fa-620x480.jpg"
-        width: 620
-        height: 480
-  - title: "AI-analyzed blood test can predict the progression of neurodegenerative disease"
-    excerpt: "A new study shows artificial intelligence (AI) analysis of blood samples can predict and explain disease progression, which could one day help doctors choose more appropriate and effective treatments for patients. Evaluating the effectiveness of therapies for neurodegenerative diseases is often difficult because each patient's progression is ..."
-    publishedDateTime: 2020-01-31T01:10:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/01/200128080919.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 43
-  - title: "Artificial Intelligence may be the key to identify neurodegenerative diseases' progress"
-    excerpt: "Montreal (Quebec) [Canada], Feb 2 (ANI): Artificial intelligence (AI) algorithms show the potential to predict neurodegenerative diseases progression among humans. This amalgamation of computer science and medicine could potentially assist doctors to adopt ..."
-    publishedDateTime: 2020-02-02T15:54:00Z
-    webUrl: "https://www.aninews.in/news/science/artificial-intelligence-may-be-the-key-to-identify-neurodegenerative-diseases-progress20200202212253/"
-    type: article
-    provider:
-      name: Asian News International
-      domain: aninews.in
-    quality: 29
-    images:
-      - url: "https://aniportalimages.s3.amazonaws.com/media/details/artificial-intelligence-4469138_960_720.JPG"
-        width: 600
-        height: 450
-
-secured: "0Flx5+ZJVTVZdmsjwTk/QG26Y33xo+ZHS6oQzxWWyoYArTuCIeBb87woD+MNaLz8yRDGoy5ntNf9vkV1pZaB3PKZ4Z6lcffnoQJuSDG1/mqg7kjH7MIt2pC8nOGctiU4cbAPGARiRJqC4PQkonFw7ZzwS/MLKVRURin93II8rS3IaC3idB9B8yivanpFNHO65uD8Jktt8e7LB3wD5P7yDT9/Rv2a3bKi0ZCqM8EEhGiI5gmE3QZu40KHd1oxZjiTIT3ituKNfsn5Gec3/ai17JIU7FOUsJ9hpejztynmjCdpkm43s9nPY9iL7N/tR7mO3ft4ACHBhZiM2mfobTdtrCQrBPVLqoAI+dkqeIHbVTMAufrToemQyJmJZNEvzWSbQfYmmJWvNduoQHggsAVCMuMDcV1s4oFXlKHYCzCrHX3lLlF/q9cylOJr0KecT41LW0yRXc/KSBby1GYlb+88y0TbrWSwJO6qV5Z53aEprg0=;Ka2dam7+IZ0qnMuqGgQhlg=="
+secured: "3oIjP4+dTyjqyYmerfEougVcM3TPonZLpLNaP45hTKlNck7j3WZdE3nlnBeZgZyjUHYPKwNQzD6GmvAlvdeLlaIdI0eJBKxIeC9l+TnK3flStaQDFhRYnbHj0OV1IKF3o7s6TAaLT/1c3juE/SvsCCHIZsGc/6fNJRPXQQJ99IWcXGkfZk4l/gVDvcP319u2KEpgBhTCjXRtvSkL1HOjew/bgxkqZ8a0pivBkruuM0d5OeyQDfp70AIcCdZ5rGS5wRiO8uTSnzIC51yv6PeXpy+M5NNHCBlMiB0WuE9kWNOl+kB1aPg5nyHALRp4I6TF;f0RQeyhTfDV86tbeZfHgCg=="
 ---
 

@@ -50,21 +50,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
-  - title: "New Jersey state attorney general prohibits police from using facial recognition software"
-    excerpt: "New Jersey’s attorney general, Gurbir S. Grewal, has instructed prosecutors across the state to stop using Clearview AI, a private facial recognition software. Clearview AI's tools allow law enforcement officials to upload a photo of an unknown person ..."
-    publishedDateTime: 2020-01-27T23:15:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-7935911/New-Jersey-state-attorney-general-prohibits-police-using-facial-recognition-software.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7935911/amp/New-Jersey-state-attorney-general-prohibits-police-using-facial-recognition-software.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7935911/amp/New-Jersey-state-attorney-general-prohibits-police-using-facial-recognition-software.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 50
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/01/27/22/23954704-0-image-a-25_1580165914401.jpg"
-        width: 636
-        height: 382
   - title: "Consumers Warm Up to Facial Recognition to Keep Them Safe, but for Marketing and Advertising, No Thanks"
     excerpt: "As facial recognition systems become increasingly accurate, more governments and law enforcement organizations are tapping them to verify people’s identities, nab criminals and keep transactions secure. In recent months, France’s government announced a nationwide facial recognition ID program, a UK court ruled that live facial recognition ..."
     publishedDateTime: 2020-01-29T02:39:00Z

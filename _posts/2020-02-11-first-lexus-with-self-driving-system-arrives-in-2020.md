@@ -52,6 +52,15 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
         width: 600
         height: 600
+  - title: "Can self-driving cars handle Canadian winters?"
+    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
+    publishedDateTime: 2020-02-11T16:22:00Z
+    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 4
   - title: "The Man Behind the 1990s' Hottest Supercar Is Coming Out with a Self-Driving Pod"
     excerpt: "The Motiv is similarly quite small, very lightweight, and runs on electric power. It has an aluminum suspension, ultra-lightweight high-strength extruded aluminum in the chassis, and composite body panels and doors that hold its weight below 992 pounds (sans batteries, at least). Measuring just 100 inches long and 52 inches wide, the compact ..."
     publishedDateTime: 2020-02-10T21:54:00Z
@@ -62,6 +71,6 @@ related:
       domain: motortrend.com
     quality: 0
 
-secured: "v+0KZD7h5Btvt5zy+oc5YreJybfVVdbzA4yXUYKfLu1WxPwY//fbfaEDETbY+x14kMr8NbK1MVKSAfxQzVltIAE2pIMaLrISoxZ0DBSyrglxgKX/M5YX03ZaOkqc0bk6z89Sh8/AGufDxV9HY5WXJrVkYnxc6CVnw6QbdBVl3iJtCgxyIa9+4U6YIHXCVAtqbbfk7NnyOL3bgWNfUSAgoaCdOdPShxDNnUYkfDK+674ghMgNfRAxI+KfM7nX3X3ViDBP/64ydgJJfi7f9POYfYdW1yDjUaIqV89D+5EkzrMWnu5I6xo3uzvKPB+Rbad3;vePE+hy+6sdy143BHJ3v2Q=="
+secured: "plJQxv9iMBGC/2/i8K8w7Gitjn9jBWCG6xeC5UN0XiNOUx5EI4GJXgrgqBn/oBZg4jYnoN/jisX2amOR4Rys8iSqXqkp0YRuC1nRA63V1Kj/ozmusP1WOUz8fSBEnCtB5FDUu9zI5+O70YwQzPIIN8u77QgM0S10Jbyv/3Q/hKgsNnQ+Ll+hN1db8D18nKs6gMQiMU5cjqDiGRisPOZxfeAe7+PSCO68ZflpLqEhZ2I9NcBEYyDIPYktiVDwEtPtQzP+HB5RCXoR+dc8u5ilVDetbt7c+cug2pmxGeiqIHopVS7zQDmrisGb8wol5OlHL8dkXhBnbsgucfbt3tQAPKHeoerPK00YGlQNv4NGCHZUd9ZvChXfE7IiGv41ijhglmwoq4r0y3Z81j4fG8PAhg/agUGF5+fQie7u4TVv92og7/NP3HBJ4LzbCaj89PaDscFgaIHmQ5N9eaB5jLiJQeKbarSBIDUsGZJxsYrtnSk=;i94uZ0PV1yNOkh090SbzkQ=="
 ---
 

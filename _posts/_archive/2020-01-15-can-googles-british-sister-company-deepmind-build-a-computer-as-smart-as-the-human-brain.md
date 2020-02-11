@@ -4,11 +4,9 @@ title: "Can Google's British sister company DeepMind build a computer as smart a
 excerpt: "One company that has taken up the task of solving intelligence is DeepMind, the British AI firm bought by Google in 2014. “It's been part of the company's roadmap from the beginning to include ..."
 publishedDateTime: 2020-01-15T18:09:00Z
 webUrl: "https://www.telegraph.co.uk/technology/2020/01/15/can-googles-british-sister-company-deepmind-build-computer-smart/"
-ampWebUrl: "https://www.telegraph.co.uk/technology/2020/01/15/can-googles-british-sister-company-deepmind-build-computer-smart/amp/"
-cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/15/can-googles-british-sister-company-deepmind-build-computer-smart/amp/"
 type: article
-quality: 64
-heat: 64
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/16/160120_AiBRAIN_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwfSM8Sv5nIxQonD2k-JCC_U.jpg"
-    width: 1261
-    height: 788
-    title: "Can Google's British sister company DeepMind build a computer as smart as the human brain?"
-
-secured: "wa/0WuiQV5vW8E+5zEcivGLKR/XX6a9QxIwcCTfxELKT8qFE2mcvbfCtjF+46HvFQ0zFEvmNq1cCH4SoR5yei50ueThItgVPlOQTv45UG+aFyWkC/D2yWaWXAO0UX/2SH4Y6ypNhqAxkax1+lZz7vEliAZv0C7kpK+ivvtrXc1st6v+qx7pKeETQ928h2dtmumcq8VC9XW4F2bC8RLDVY69Li23K4LwCGjuZEw6Dz4e4PTzL3B3Yq6sVlpqfHyvWqhpTqVXfOXxy03mzD6TASZWFvPJF0uwnlZg89O3XRco/XlUHVr83i5n5csALaUJs;Vl6qycc6b+La2ddbn2v71A=="
+secured: "F1jJDg1Tqx8LEMwJNquonGi4ucOztQD7ncWAEVmiI373JLIbMgVSvMCNPMzG7UttV0Nqxqq3lFXrS0lSDY8UVKw40evg/GjxjF8IJRmTgEsHCebI/N2QevXj4ec8OuZ8jDXXE8PLQgXFDRfPPbdyl+OR7ytoojLqPof71rySOpzsfUUphJbwQwPSS7DwOt49s1MY31lIdcp32xByidsA6uEN8VcAZXbippxcgR+oHzwqsCFLKqDFMFbvZR0EE/UiccX/n0FMt3joAobv7PaycqGx+G6hh0qRzfpLEqH1SE1MtWGu4w3K972e1YYUoiZj;gr9AUl3Q7A6QTJrA1LLfyg=="
 ---
 

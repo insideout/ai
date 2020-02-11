@@ -23,17 +23,6 @@ images:
     height: 372
     title: "Miami, LA Firms Sue Google Over Facial Recognition Photo Scans"
 
-related:
-  - title: "Illinois privacy law leads to $550M Facebook settlement over facial recognition"
-    excerpt: "CHICAGO — Adam Pezen, Carlo Licata and Nimesh Patel are among millions of people who have been tagged in Facebook photos at some point in the past decade, sometimes at the suggestion of an automated tagging feature powered by facial recognition technology. It was their Illinois addresses, though, that put the trio’s names atop a lawsuit ..."
-    publishedDateTime: 2020-02-09T20:40:00Z
-    webUrl: "https://www.bostonherald.com/2020/02/09/illinois-privacy-law-leads-to-550m-facebook-settlement-over-facial-recognition/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 15
-
 secured: "MH/YZOdjtq4MKRMI7acz/G2hMQiUut+djphLHlMM/KpRaYh3WiSZtMzDhesvTwWhzWh/ttshlKyGeAklCaPRUNWzHZwMn1EOLOV/sjSar0/YgvLm4VI8EJxYjyelknImL3dD6tXzPh0aiPrtBqSrTa00xT0KcvUbBAV3oPBEamIHvDKkhqr8V9QHQnhvhhYAyqmWZeVvX8Xu7OQTXKxY2A9XyOcUumvZPd7/YfDTm4GR/j3h/o7ghjakMyrPk81Be/fM8dC3yFeW6UG7/ZEmGFNzgXfQyrSriqoX5yHKXJAWDUjHwYzdbFlyqXkeJA0J0aqmuVYy+e5QCohJq9gBITFlDS8meBGqMXLO1/aokDiVmBwmXYqkWzsjbWaTjzGdNq/80GsKvndNpg/Rg+2XpWCngeewU38vjc05DUKF5lKt3KHMl/DWx3lz6WMFDqiAuEg10Hqlr6rapmRsVSFPrpKZ+1K4gDITcf3YlvvNw34=;fGuo+DVYy0tiQAQ9cln8fw=="
 ---
 

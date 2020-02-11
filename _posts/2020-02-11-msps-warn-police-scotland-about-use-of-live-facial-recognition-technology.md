@@ -197,6 +197,19 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
         width: 700
         height: 379
+  - title: "London police deploy face scan tech, stirring privacy fears"
+    excerpt: "LONDON -- London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
+    publishedDateTime: 2020-02-11T17:27:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/london-police-deploy-face-scan-tech-stirring-privacy-68912068"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 24
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_442d9d60b4c0411e944a2c141ab5c4dc_16x9_992.jpg"
+        width: 992
+        height: 558
   - title: "Facial recognition technology is 'unfit' for use by Police Scotland, MSPs say"
     excerpt: "Police identified \"live\" facial recognition technology in its plans for 2026. The force already uses retrospective technology to search and match. MSPs on Holyrood’s policing committee raised concerns over human rights and called for Scottish Government ..."
     publishedDateTime: 2020-02-11T09:23:00Z

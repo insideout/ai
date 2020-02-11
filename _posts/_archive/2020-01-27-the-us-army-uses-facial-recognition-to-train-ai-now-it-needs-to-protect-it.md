@@ -4,10 +4,8 @@ title: "The US Army uses facial recognition to train AI. Now, it needs to protec
 excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 101
+quality: 61
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
-    width: 1200
-    height: 763
-    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -1625,6 +1617,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "r/ntBVTNRg7He6trm2+QH9AaT6u6jXNfZj0dB/5w6cDx643wldggRq/y071lzNe7YKHxS03eAjMi10Wrz6n/3RlLapZmLKTPU64+nFqkAiyJN8mhIaXD/LY8nOhsSmWT6hHNHKgPiVoagCdHSS6E/80HZYxGA+mq8GRqollLrSTIJuvjcYmF7+E0V4hDz1AEuwatB5N3kROvhQv8UPclB0UF67lzhlt/86d3fedeXA7OP7AApD5S74MU1vwoXf6dpV3mBjPQE4XnDZP/gDRaFe824JYb7/xANcUIujNosJVEBU+cF3DWFdIbOQMy9rZP;C+OpsVT91vvgy6Dcolffzw=="
+secured: "23UBRkMdFWJRFJ33wRyBiqcCToMsbdG62bHMWdvKgOD7hhMPBqcGKkpXR+3TDCv7BQN3NPepOtLWaPQ6QIcVPbjfw5U8c4TF8+NQWrjQ/h7r17a3aSDI8j6aqbU8tdjUIu0ffY7oFJggroPLk1xIvZmqdVGhBhpjwZkd9uWtXXZhU0GsDDwoTtVsg0BLR/G7q7LoVEeCPp1oB44q4llCqwhFCc+qL1sX3YFgAbFY03LCU1rU4h57ZGB+kzsQltFME4Wb5JHbbRgX0SuEgD9SmClMOp70MPT/ac2ibSEX6GaP+xnfnK6130g9jxBh9SDeIXlyiQWxqVhnz6iGGG7OAaaXZYbaupZ9FJc9JAo6y5PoC4olty9uuAGV8CPV9N+jrwlC4MM4/0A+fc12f3l6DW0X7XUVj5JSSsbvpWNuKuJlfmNXPuw5nS6E91BWTkIb4sp3G7sNEQReDecRvg3bdYDyYADoZPvbf4SXoOVjXVk=;Li9jinmlCXdfpr15W4/Kog=="
 ---
 

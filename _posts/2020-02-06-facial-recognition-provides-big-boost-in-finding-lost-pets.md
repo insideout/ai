@@ -39,6 +39,15 @@ related:
       - url: "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg"
         width: 792
         height: 528
+  - title: "EU backs away from proposed five-year facial recognition ban"
+    excerpt: "Instead, it will recommend that member states assess the technology themselves. The European Union won't issue a ban on facial recognition tech, as it once proposed, the Financial Times reports. In a previous draft of a paper on artificial intelligence, the European Commission suggested a five-year moratorium on facial recognition, so that the ..."
+    publishedDateTime: 2020-02-11T15:49:00Z
+    webUrl: "https://www.engadget.com/2020/02/11/european-commission-facial-recognition-guidelines/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 49
 
 secured: "Zth9SsTcZhbXWnLh4V/x1mc87zgezgbAW8w+UU1xwh/Z2KEDSxutHwyJqvp+34J/yON1M9r9eBQwwQdyIC0a21kJNwsUV8lDzLaFcevGree2H6MtvpMUfFBmEWCV816IEF70M/rXITnsFZ32OTqP21jEf96KDrZBE2G9tJ/oQ3/XdfRVYsOZJ+FV6eQmvMoJIIyXl45gF8CUl8ulJTj2gCeP8vaIjpkf28ML0y0mExpT3MK83XtnqdW+0lNJfOvl1pFuhQ0j60eXkJIJMJoCd8O/fOf4JgqJvQ7hEZjSWydxKPAakQt9VR94iFKv/w1irG0DXOUbNx64KIpLg/wAu788tcfQXi/3ZQLFyTK+UUJ5nG+cPwtHXbnk5FhJEY8Uu/V5STuM2Yx4gNqX7I3pyJzVRx2hqm0BK2QH0f2SivNZoEv0pBzLLLe5g0U1H8RIx1CCdcpbyrKXcgXPN0s8pga1omU2VJ0feVRZBk8FdFg=;1h18AI6dPNbWA/6TllmN9A=="
 ---

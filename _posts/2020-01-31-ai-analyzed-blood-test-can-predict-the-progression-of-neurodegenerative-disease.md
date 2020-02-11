@@ -36,17 +36,6 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1181851309_9d7d8e56f4574ebfaffa83f8825898fa-620x480.jpg"
         width: 620
         height: 480
-  - title: "Artificial intelligence predicts treatment outcome for diabetes-related vision loss"
-    excerpt: "\"The algorithm could also be adapted to predict therapy response for many other eye diseases, including neovascular age-related macular degeneration.\" Predicting treatment responseThe algorithm developed by the researchers is based on a novel convolutional neural network (CNN) architecture, a type of artificial intelligence that can analyze ..."
-    publishedDateTime: 2020-01-28T17:26:00Z
-    webUrl: "https://medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 33
   - title: "Artificial Intelligence may be the key to identify neurodegenerative diseases' progress"
     excerpt: "Montreal (Quebec) [Canada], Feb 2 (ANI): Artificial intelligence (AI) algorithms show the potential to predict neurodegenerative diseases progression among humans. This amalgamation of computer science and medicine could potentially assist doctors to adopt ..."
     publishedDateTime: 2020-02-02T15:54:00Z
