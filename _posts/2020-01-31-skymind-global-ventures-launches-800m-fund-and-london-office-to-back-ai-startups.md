@@ -29,21 +29,47 @@ images:
     title: "Skymind Global Ventures launches $800M fund and London office to back AI startups"
 
 related:
-  - title: "Berlin venture studio Merantix raises $27M fund to concentrate on AI startups"
-    excerpt: "Berlin-based Merantix, a venture studio which specifically concentrates on building ‘AI companies’, says it has raised a new €25M fund ($27M). Anchor investors include Trusted Insight, the Robert Wood Johnson Foundation, the W.K. Kellogg Foundation, as well as further family offices from Europe. Co-founder Adrian Locher said in a ..."
-    publishedDateTime: 2020-01-27T14:54:00Z
-    webUrl: "https://techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/"
-    ampWebUrl: "https://techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/amp/"
+  - title: "AI startup Cresta launches from stealth with millions from Greylock and a16z"
+    excerpt: "Cresta is more focused on using AI suggestions to help human contact center workers make the most of an individual ... Udacity co-founder Sebastian Thrun is the startup’s board chairman and is listed as a co-founder. Enam met Thrun during his PhD research at Stanford focused on workplace productivity. Cresta is launching from stealth and ..."
+    publishedDateTime: 2020-02-03T23:01:00Z
+    webUrl: "https://techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/"
+    ampWebUrl: "https://techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 184
+    quality: 84
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/Rasmus_Adrian_Davos.jpg?w=605"
-        width: 605
-        height: 340
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/CrestaFounders.jpeg?w=1024"
+        width: 1024
+        height: 767
+  - title: "Covariant launches from stealth to bring universal AI to robots"
+    excerpt: "/PRNewswire/ -- Covariant, a leading AI Robotics company, launched from stealth today to announce that its artificial intelligence has been deployed and"
+    publishedDateTime: 2020-01-29T10:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/covariant-launches-from-stealth-to-bring-universal-ai-to-robots-300995185.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1083489/Covariant_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
+  - title: "Dave Copps’ stealthy AI startup emerges with $10 million in backing"
+    excerpt: "“As the number of IoT devices continues to grow, so will the need for AI and machine learning solutions to help manage the massive influx of data these devices will create.” Worlds’ funding round continues the fast start this year for Dallas-based ..."
+    publishedDateTime: 2020-02-07T13:58:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2020/02/07/dave-copps-stealthy-ai-startup-comes-out-with-10-million-in-backing/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 37
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Nvbis_8VTU4PHPL2W_pxLvpoOP8=/1200x630/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/TOIOGQZAJP6BPQADYQ2HKTRVA4.png"
+        width: 1200
+        height: 630
 
 secured: "a4DZy6JcJvjOU1nVNA9qVas/kSg/1Uxu0o3imOoWrctE5Q7ioAgn6666n0pv7WnYCoZss13j342F0wiHzrWpZobo8Kmko9Vm1cPwQJVkhfbsnvJJZmbW4HxExqQswWFoDi/KQt5qSW4+W2nGukSe8u9dNBfDOa+DDcDTsyU2sKNvHeT6GAx+L8TGeTb9IZxTrY7OQtICe0w1BGGLv1zjTrPUEazKF2qsMkchJbwmvccw7ci5gbD/bphmVIeqW3+TQgcs0OyGZyxoqEVoUMpWNa3zwSyEiSfFs8DvAZxdlTsXz3NYqyhWp/tbcJ+pwDJkmPcFIEHg3Ou71adeTUdkiWY6/MOvMx3SS5eeda72qxW+ZmPa/9aP7G7WVkrSZ6mjxH+yeSPAXDvg9lVV5crBOejVWRhSWP/WebuBiLhCdF8VmojNNMycT4p53kPGNqHN3R1j1L2N0R1dKx7+jAiViSvOqT0YWP+tQSa8ddUIlkE=;IbxLy0B99PJjKCnMdGrG1Q=="
 ---

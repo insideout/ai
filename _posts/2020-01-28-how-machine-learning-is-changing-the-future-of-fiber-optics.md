@@ -23,21 +23,6 @@ images:
     height: 720
     title: "How Machine Learning Is Changing The Future Of Fiber Optics"
 
-related:
-  - title: "How Artificial Intelligence Is Changing Social Media Marketing"
-    excerpt: "Every time you open Instagram, there are some new ads for you. All these ads relate to what you search for. You move to the explore section and can find thousands of related posts that interest you. But, how is that possible?"
-    publishedDateTime: 2020-01-27T15:02:00Z
-    webUrl: "https://businesscomputingworld.co.uk/t/how-artificial-intelligence-is-changing-social-media-marketing/245726"
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 37
-    images:
-      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
-        width: 512
-        height: 512
-
 secured: "SFz63SQIHnJeDtUZDXfhKRC2cLsBYv2xMYa+zfpuJzv3aE1IfpueCbsAk1eK6XJHNvlTwO+fSX83wWzEcqLev1VvMRGyEDmxEFfmchEMUN1D/AO5Nqsd6RGi5QmBvdoEMLfwk/Ucyl+ruG0t9NgV6SOeWkPyfqboUEl5MFAQrJwvdE2FfYBPU1I4e1/U7vSUr0Ok8nw8dgIX+7ZXL+mlm7NAAPHTTvheitmwYODf4hoOMz67ClCiQnXMVs01daObuZYtKnDgsjD84BIHzQnD9NFoFh0AP6AAcHS6DxKUNox7tIuMnWd+Z3XeJpUd3XQqdtzZn0Ihu7Ij/m/IMLAwkdo1EDkYAd2hrOcahJRAgaHgBNpH9jDsjYTkq+yfc5Ddl3a1YyvgzaB0Fd8odRervZ6z1Hybil6OBmh2kFA6ySw3n/e3P21ICavPCzYpAB2BfhE+2DSyzpuT7jgveUvRyoOo8f8+QbPPRgEsC6N5YlM=;p9fgkz+t7k8ObpYe9OHZMA=="
 ---
 

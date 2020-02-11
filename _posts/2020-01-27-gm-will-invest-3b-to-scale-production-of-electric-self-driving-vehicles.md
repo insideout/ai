@@ -24,21 +24,6 @@ images:
     title: "GM will invest $3B to scale production of electric, self-driving vehicles"
 
 related:
-  - title: "General Motors to build Cruise Origin electric self-driving shuttle in Detroit"
-    excerpt: "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ..."
-    publishedDateTime: 2020-01-27T14:56:00Z
-    webUrl: "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit"
-    ampWebUrl: "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 70
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin-3.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
   - title: "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit"
     excerpt: "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ..."
     publishedDateTime: 2020-01-28T17:46:00Z
@@ -99,19 +84,6 @@ related:
       - url: "https://images.thestar.com/ubGicgxAN7XcYMEtjqYlMEzp11w=/1200x800/smart/filters:cb(1580139692061)/https://www.thestar.com/content/dam/thestar/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles/gm.jpg"
         width: 1200
         height: 800
-  - title: "GM is revitalizing a factory that was on the brink of closing to build a new generation of electric and self-driving vehicles"
-    excerpt: "GM will invest $3 billion in Detroit-Hamtramck, a plant previously categorized as \"unallocated,\" to build electric and self-driving vehicles."
-    publishedDateTime: 2020-01-27T14:13:00Z
-    webUrl: "https://www.businessinsider.com/gm-is-revitalizing-a-near-death-factory-to-build-electric-and-self-driving-cars-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
-    images:
-      - url: "https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
 
 secured: "hnLE8/OpgbYVd2KesKgpxL+p8Zj+8UtSCj87F3wZRdnAHvdKvZ35QNqGmEyATFDNhfB5CkQtoyWorxEYjnmn5/2XwlTVaZfjRoVtadi/iACmvS62c37NsWTqpD9EW5R6dy5Dk9LV2DjiePaMxkqnjyKmkNVzWrWGm9aNPnfBh7oGe2Xx2BIrfuTDphYZlpB3ZWTRv32dSN/M03bdsy7vq1esYUWbKiLnb4LRNE4844M5MwN0tMdhbivWZP08VreJfdG7K2AwfnIWzLBtFvAgoJIwp0JJszmygMez3z0ikg+UXGUafew2VP1QMP+IU+xQuJKaRNjPJHe4Pn5PVz0VMHPdMrHJGv+x1VxS+VZcNJ2hRV9N59MxQKdhSvqsfl+6/dvhCjivF+2kMzmKKy/G6vYGdHNkBQUzx3iZEDLvCR/ASz3BPlx8HzX4nHaI44boNPQG+Ni2KoYbgEp9nfhxmAqtBTTXPnvZ0qrCStTCqMk=;Ww7TlTboo+MgXYxkWXhY/g=="
 ---

@@ -84,6 +84,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/8a91385a-4630-4ae0-a791-1dbe7d1f8780-e1580153727148.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Aquant raises $30 million for AI that gives customer service agents mission-critical data"
+    excerpt: "Assaf Melochna and Shahar Chen, former colleagues at workforce management and service optimization company ClickSoftware, advocate an AI- and machine learning-based solution. The two cofounded Aquant, which algorithmically mines and analyzes data from various sources to learn manufacturing, utilities, and telecom companies’ unique service ..."
+    publishedDateTime: 2020-01-30T14:00:00Z
+    webUrl: "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/"
+    ampWebUrl: "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Amazon Connect Helps AWS Partner Improve Annoying Customer Service Calls"
     excerpt: "“Think of Connect as the sun, and Earth, Venus and Mars are like Lex and Polly and Lambda and SageMaker and other things that make the whole experience more impactful,” VoiceFoundry CEO John Marino said, referring to AWS services for building conversation bots, text-to-speech, serverless compute and machine learning services. “But Connect ..."
     publishedDateTime: 2020-01-29T20:32:00Z

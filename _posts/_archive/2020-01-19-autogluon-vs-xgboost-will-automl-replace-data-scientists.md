@@ -27,6 +27,6 @@ images:
     height: 900
     title: "AutoGluon vs. XGBoost — Will AutoML Replace Data Scientists?"
 
-secured: "tMBDm/EoucS9gtdSX/CZoIofKYoxg0NXCw/V0lRNirfgibdfS1GlYduHI/FvceqVrIlKKph/r8O90tseHP2R7kV+0Xs4a9RoXa7+obhZ4G3dGHzxY6W1i3XE7Wmymu1uhmclMCOy9k1gAlW1OqwxZd9rVldGGRyxqJKs1Ky934zfYQHOADpY9BZ5molncOo4taC1PoyxjhdwM6m65rtwd128510kfzNIF4IgCKt32jgQi1bb/Vw1oAwx0e/iCV39FbCyjDz5XJ6vSVw9vq5+lXN3YIot58oZZACr+AAlJYZ1K8qV96odf2/YYj8CdYgu;5BuaiuzQwJY2Edz9xiIhXQ=="
+secured: "FGgIyEzAit6BEbl2+7hsKkew62QjKYG8QcLAIG/7hFVYrRuryeIg4fUDjiAcYwUtLUlp4djqjtRNOMQwmR22joZD2Iw/WxgkRt2TyDpZsuJazWEIeZXPpUI3aXovAYqDrzGa2qfgF5AEV1zWw69Ps5wkI9OrQ3bo4rEmPirTM5bXM8FXNhqFGVCHW9/NK2hp2MMzxyptKlJAJs5G6Y3gyV/OvKqKOaj4i99hHDG2ez73415vXZuYWzbC1/pi1hgeSgcLc5FlMd3vKPExo9XkVv9U4tvvM5XAVLA6kdO2cY8Wf+RlfriW/B5iEanWGD9f;mptpP9EdccDJLYNqNzaIEw=="
 ---
 

@@ -26,15 +26,6 @@ images:
     title: "HPE keeps financial firms compliant with analytics"
 
 related:
-  - title: "How can finance keep up with digital transformation in financial services?"
-    excerpt: "Digital transformation is more than a buzzword in financial services, writes Sage Intacct's Diana Ermini ... Driven by AI and behavioral economics, machine learning, robotics, and advanced analytics, these emerging technologies are ushering in extraordinary operational efficiencies, accelerating time-to-market, and enabling superior customer ..."
-    publishedDateTime: 2020-02-06T12:33:00Z
-    webUrl: "https://diginomica.com/finance-digital-transformation-financial-services"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 2
   - title: "Accenture to Acquire Mudano, Enhancing Its Analytics and Data Transformation Services to Financial Services Firms in the UK"
     excerpt: "Follow @AccentureAI and visit www.accenture.com/appliedintelligence. Mudano is a data and machine learning business focused exclusively on the financial services sector. Headquartered in London, Mudano provides data solutions and consulting services to help financial services firms transition to an AI-powered future. Its unique combination of ..."
     publishedDateTime: 2020-02-03T13:10:00Z

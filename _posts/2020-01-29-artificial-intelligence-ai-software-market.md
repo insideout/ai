@@ -32,6 +32,24 @@ related:
       - url: "https://mms.businesswire.com/media/20200204005613/en/771099/4/Global_Artificial_Intelligence_%28AI%29_Market_in_Food_and_Beverage_%28F%26B%29_Industry_2017-2021.jpg"
         width: 480
         height: 270
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability."
+    publishedDateTime: 2020-02-11T06:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Hits Record Value of USD 18.5 Billion By 2025"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Manufacturing Market Is Anticipated To Reach Around USD 18.5 Billion By 2025\" Research Report provides the newest industry data and industry future trends,"
+    publishedDateTime: 2020-02-11T06:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-manufacturing-market-hits-record-value-of-usd-185-billion-by-2025-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
   - title: "Artificial Intelligence (AI) in Security Market"
     excerpt: "Global Artificial Intelligence (AI) in Security Market would thus note a steady growth over the forecast period of 2020 - 2025. The robust CAGR (Compound Annual Rate Growth) will chart an upward growth curve and create lucrative growth opportunities in the global Artificial Intelligence (AI) in Security Market. In, turn, this will lead to ..."
     publishedDateTime: 2020-02-04T13:02:00Z

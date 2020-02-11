@@ -23,6 +23,21 @@ images:
     height: 430
     title: "Cybraics partners with AVANT to expand reach of its AI-backed threat detection services"
 
+related:
+  - title: "Yogi Closes $2.3M Seed Financing to Expand Its Deep Learning Customer Feedback Analytics Platform"
+    excerpt: "NEW YORK--(BUSINESS WIRE)--Yogi, a customer feedback analytics platform deploying deep learning for actionable product insights, announced today that it has raised $2.3M in seed funding, with RTP Ventures leading, and Felton Group LLC, the family office of Jaffray Woodriff, participating in the capital raise. Existing investors Entrepreneurs ..."
+    publishedDateTime: 2020-01-27T15:23:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200127005161/en/Yogi-Closes-2.3M-Seed-Financing-Expand-Deep"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
+    images:
+      - url: "https://mms.businesswire.com/media/20200127005161/en/769544/23/YogiLogo.jpg"
+        width: 1200
+        height: 627
+
 secured: "qFn/oUXNa0G6iPJWwJWx35YsHqS2e6Mi+/BERrkb0qOnZ1zzgp8Lwk3ZhHyysUXZgqB0XtfqU8btJGdtH8ZD6aPXpTLGBbQQCgIbGU3HPdnNCBcID0vLTHP021hZTfUXpxujypkIRPZyEmK5ClAqS1+MGIuQiRS5omB+dyVSIQFwEWQj8tPVkmdcBcfitTHqRXX4pJaPh3NIGcZRzuzxEfqAjd0RGrmNKgOBYpd2H35PDlIdL4Xy6pDAHZcD5XFZ1nxngpqTuuvxCr2AmByvdVatmnq4t3Bwop+3vlCgBmd8SuQthIzqSzVdgw5r46JpQ1QHvoDXzRM8JOPHOPUVwrwxSXNoP5RLT7gtTQoBZ22sCAgGVBQ77mEK+EhyD3PQLRTcOeSS/eGEyl0oIyZMOu0exXtyIDL0W2ryZsHtVrhZLWK3KMkeatZRLXYUFhOZyxubjJYXZ8YliRcF2AaSZJEVzLmZUkNoQl1fpHkgTn0=;R4KwvWSz6cbX+74g/uQ2YQ=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "H2O also has an industry leading AutoML functionality that automatical
 publishedDateTime: 2020-01-26T23:16:00Z
 webUrl: "https://www.businesswire.com/news/home/20200126005001/en/H2O.ai-Empowers-MarketAxess-Innovate-Inform-Trading-Strategies"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: "https://mms.businesswire.com/media/20200126005001/en/767274/23/logo.jpg"
-    width: 1200
-    height: 627
-    title: "H2O.ai Empowers MarketAxess to Innovate and Inform Trading Strategies"
 
 related:
   - title: "H2O.ai powers MarketAxess’ algorithmic pricing engine"
@@ -37,18 +31,7 @@ related:
       - url: "https://32thcv3s4g2f4bru3o3jkumf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/h2o.jpg"
         width: 300
         height: 300
-  - title: "Itiviti Partners With AI Innovator Imandra to Integrate Machine Learning Into Client Onboarding and Testing Tools"
-    excerpt: "NEW YORK, Jan. 30, 2020 /PRNewswire/ -- Itiviti, a leading technology, and service provider to financial institutions worldwide, has signed an exclusive partnership agreement with Imandra Inc., the AI pioneer behind the Imandra automated reasoning engine."
-    publishedDateTime: 2020-01-30T07:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/01/n15215015/itiviti-partners-with-ai-innovator-imandra-to-integrate-machine-learning-into-client-onboarding-an"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15215015"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15215015"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
 
-secured: "xqAHJz9siY+NN2AVYF2FTno8BolU0EKqRWIv3/qz2mOZCY0anoAxuXxkj7GcTA1LYjygKR+D20sssF24oo0WP36x8apVi+W80Yju8hiCIW7PGbem0V8ulQr8pl8QmtVNy0JoN1cqBzgHrF9FARwXxyv7i8hWYhEc8Cpk6qVKfeqNSthUJNr1P0fxmDQQm4t27Gi9z9EQQlBq0DTPSrp1UDqKcx9KVhtVaKAU9cUolykEUIw4p8dN0duw+3RueIOznYUmRdVBUAOTPakXBnFhfYoJN7UZ6kuf3UwYkvv3QbNMvXq0hxFFKRekqQTZfepT;HvAAEega8MCu5yojemQLcg=="
+secured: "KjzqibmqwrhZnEoCuWGD2RFEvkBMZG4Y1N5qFezm7YyGJMeWG9gKjkU+O7W9dCzgoIhssBNClINI7NIXdUqW/CxZvAskO7D1bac4IauRcCdL0aRMK4ZQ6gEsvMLJZE6GTfUL9CIr5Or37/GMmMkXw+21PqiUMoCyX3+e6u03oCUUkQaMDfzd8LndpV3ndYq1FhkRQ1T1AdOH7Jp71W4Q53QdZ29UglNz0ym0lW/I05WJ2JdhNX3ZtY+HDNkC0DmgjJOlcJs0rqLjDvkt7Ne42eNACsEOD6oyoAM7b0laFP9qVwu+a1R0G5fZpFO7ovEqLN/EKbrgeuB6WjWdQWs1EsAxxNROf8+m9Cx/8d/LzTfDrX6wvcDg88viyrgcAvEtjH0K/3w8hPf4esIacVhY/R/RuJjseNgyGz+2s/8isaw47zOjGvDG9R3I96upa44c94hC4PmDL/7kKNJjRDpoHMDiCRQ9fIvXuf6oFVo8dUQ=;+PjUFhxyNOuPPHJ0Vm5Clw=="
 ---
 

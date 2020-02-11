@@ -8,8 +8,8 @@ ampWebUrl: "https://www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robo
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/02/07/coronavirus-china-deploys-robots-to-prevent-cross-infection/?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Gizmochina
@@ -39,15 +39,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/zdxqblrfadpefqou_1581083925.jpeg?tr=f-jpeg"
         width: 1242
         height: 708
-  - title: "Coronavirus | China turns to Artificial Intelligence, big data"
-    excerpt: "data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if they have taken the same flight or train as confirmed virus patients, scraping data from lists published by state media. In Guangzhou, southern Guangdong province, robots at one public plaza have even been deployed to scold passers ..."
-    publishedDateTime: 2020-02-08T16:45:00Z
-    webUrl: "https://www.thehindu.com/news/international/coronavirus-china-turns-to-artificial-intelligence-big-data/article30771991.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 19
 
 secured: "OOvH3Mia6En14+LWkABoB0/SpADe5kGxhzA19YLxbmmH8myDzbOKAFP+D4HUFGuMaYJAoCmXTjEkp4TDJfgUPsYnuExvUHgMKMNz40oyLabl66j+Uj4ZH3vaJsJ03A/3Y1shJAbxwwmkSmnnXp0UEFMIhn/aKuJyfA5TJUHCAxrSBNBi72PKoWyb3PJ+sG8YJqowQ0g6v/yOelbVu+LP1dx1unrNTXsb3xXAaTNske+lD2wRSUxwWlRKXRoPjZtHdnPzv76otWGQXAJJ+ZO+Ht727lgeT+lq412bvAj4/VXDa9boZrpsITnHpUmPVlOO5UqbHDkX///+sQNRDP4QgQxTeKTA0RA7T4AWBtDrnndX10/Rvu2znVnKsfL0rzpQbm/wCqqwbboBphvNGq+Jqkb2L+KfFcJsxX7FhsKH3VHxoKK/3cE8qkxJ+n25RWEC3Q2Ti50of4HK8XfvaYtkDZu4tQu2Wp6iw7XhPoKj8y8=;WYogIGQlmzbkq3xzKzxiWg=="
 ---

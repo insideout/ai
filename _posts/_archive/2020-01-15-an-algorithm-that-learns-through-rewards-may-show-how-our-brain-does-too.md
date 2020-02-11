@@ -4,11 +4,9 @@ title: "An algorithm that learns through rewards may show how our brain does too
 excerpt: "In a paper published in Nature today, DeepMind, Alphabet’s AI subsidiary, has once again used lessons from reinforcement learning to propose a new theory about the reward mechanisms within our ..."
 publishedDateTime: 2020-01-15T18:17:00Z
 webUrl: "https://www.technologyreview.com/s/615054/deepmind-ai-reiforcement-learning-reveals-dopamine-neurons-in-brain/"
-ampWebUrl: "https://www.technologyreview.com/s/615054/deepmind-ai-reiforcement-learning-reveals-dopamine-neurons-in-brain/amp/"
-cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615054/deepmind-ai-reiforcement-learning-reveals-dopamine-neurons-in-brain/amp/"
 type: article
-quality: 58
-heat: 58
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://cdn.technologyreview.com/i/images/sadiseasesofnervou00gord-web.jpg?sw=600&cx=118&cy=106&cw=2723&ch=1532"
-    width: 600
-    height: 337
-    title: "An algorithm that learns through rewards may show how our brain does too"
-
-secured: "10/zXhPnRD57OdMEk+U/hwAYGIVxMUgFLmjJqYlwLiK6JOcUBZaEBo6Xy3Ce9WnZ/V4aAR/sjD0/d+EMGjOhffUAEZnhZGaQsXt/ImRiZ0p1zspYbNh6NAYZqVWHkSxGrKfGsoQl+elSa50043CE2O2ls3xp7OZwZheQr3Es0JIIcmqGyIniiqttf6VXPnOsq3xJuY1CpEIFtGENn7OBF7p8WsFCMcoT5PPhmx6d9fG7DXxihFGCrZMS/0ktE92btevk5M/rPfD4t4qmH1M5n0FjsSkm5Ju6XOGqnNVTOI2Gq+l8fw82cdpZt7wpdUVL;JN6VSNguh3LEmHntbBc5uQ=="
+secured: "dlUVpIb/L/eU4VR8pyj4JGw91W5yVRwMP3fgLhNq+M1dTr2vpxEag0Lc4Kb8qzljund3nkx4RE1H7HYzbUxp1geIc6W1J5zmvMFPQ8foqwABCrVWyzfmvaLb5R3U8ISfkFGMzmGxkXMm1i7cbUAI9zVhnoS/3whrr+q1cA0plJCnxshLIGSJiRLMUAJrgf5HIbAwwjcWseNP79f1UHwwY7AafYwCdSfWH5YBMLu8i09OBFbzxuW/OSCkhIzaAkBFFc+GtgpI/lqW/1bfU3ESM1F8yB8jgdu8dYa/Ybolm0idUisei6Ev8cXKqgvwvWZ/;f5BckVj8Q1ZAwF/H4qke6Q=="
 ---
 

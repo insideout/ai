@@ -2,177 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-09-kuwait-launches-robotics-ai-festival.md",
-      "title": "Kuwait launches Robotics, AI Festival",
-      "excerpt": "Kuwait launched on Sunday the Robotics and Artificial Intelligence (AI) Festival to promote the scientific awareness in Kuwait. At the opening ceremony, Salam Al-Ablani, scientific culture director of the Kuwait Foundation for Advancement of Science (KFAS), said that the festival aims at boosting the scientific culture in smart industries and ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsghana.com.gh/kuwait-launches-robotics-ai-festival/",
-      "ampWebUrl": "https://www.newsghana.com.gh/kuwait-launches-robotics-ai-festival/",
-      "cdnAmpWebUrl": "https://www-newsghana-com-gh.cdn.ampproject.org/c/s/www.newsghana.com.gh/kuwait-launches-robotics-ai-festival/",
-      "publishedDateTime": "2020-02-09T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Ghana",
-        "domain": "newsghana.com.gh",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.newsghana.com.gh/wp-content/uploads/2019/12/newsghanalogo.png",
-          "width": 640,
-          "height": 316,
-          "title": "Kuwait launches Robotics, AI Festival",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-09-lessons-from-a-logistics-tech-veteran-robots-arent-taking-over-and-put-engineers-close-to-the-customer.md",
-      "title": "Lessons from a logistics tech veteran: Robots aren’t taking over and put engineers close to the customer",
-      "excerpt": "Editor’s note: The following is a guest post written by David Glick, CTO at Flexe, a Seattle logistics startup. I’ve spent a lot of time in warehouses ... You may have seen videos of robots zipping around the warehouse and heard the rumors of AI and automation replacing jobs. I don’t agree. Logistics is a $1.6 trillion industry; a ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/",
-      "ampWebUrl": "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/",
-      "publishedDateTime": "2020-02-09T10:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/Glick-Guest-Post-Pic-630x387.png",
-          "width": 630,
-          "height": 387,
-          "title": "Lessons from a logistics tech veteran: Robots aren’t taking over and put engineers close to the customer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-09-study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life.md",
-      "title": "Study warns AI may trick humans with false evidence of alien life",
-      "excerpt": "A newly published study warns that using AI to detect these techno-signatures may be risky, however, with the potential to make humans think they have discovered evidence of alien life when no such evidence actually exists. The new study points toward Ceres, the dwarf planet that briefly dazzled humanity with then-mysterious bright spots that ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life-09609133/",
-      "ampWebUrl": "https://www.slashgear.com/study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life-09609133/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life-09609133/amp/",
-      "publishedDateTime": "2020-02-09T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/02/space_colorful_main_uns.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": "Study warns AI may trick humans with false evidence of alien life",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-09-tech-start-up-pix-moving-uses-self-driving-ideas-to-make-flexible-cities.md",
-      "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
-      "excerpt": "Tech start-up Pix Moving has engineered a pioneering autonomous mobile living unit based on self-driving cars and is proposing Pix City as a flexible, tech-evolving future city",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/",
-      "ampWebUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
-      "publishedDateTime": "2020-02-09T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e403a4b8b6cf300071e3efc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D0%26cropY2%3D563",
-          "width": 1000,
-          "height": 563,
-          "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-09-what-is-computer-vision.md",
       "title": "What Is Computer Vision?",
       "excerpt": "Moving on to more specialized fields, computer vision is fast becoming an indispensable tool in medicine. Deep-learning algorithms are showing impressive accuracy at analyzing medical images. Hospitals and universities are using computer vision to predict ...",
@@ -1810,7 +1639,7 @@
       "path": "_posts/2020-02-10-vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers.md",
       "title": "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers",
       "excerpt": "This intelligence report provides a comprehensive analysis of the \"Global Vehicle Speech Recognition System Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers-2020-02-10",
@@ -1849,6 +1678,51 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-virie-and-the-upgrading-financial-globalization.md",
+      "title": "Virie and the Upgrading Financial Globalization",
+      "excerpt": "Digital platforms, blockchain, and machine learning are generating new channels and innovating financial systems. The new league of markets like Virie is ... Virie lets you transact in your choice of fiat or virtual currency, or even other goods or services in exchange. The Virie Market keeps the user in the spotlight and works around this ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@goddessathena051/virie-and-the-upgrading-financial-globalization-d9d3ff60a37d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/freeze/max/480/1*ltzTsd0__NMjb1gH4Js6EA.gif",
+          "width": 480,
+          "height": 270,
+          "title": "Virie and the Upgrading Financial Globalization",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1940,6 +1814,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-11-china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted.md",
+      "title": "China tech giants chip in to combat coronavirus, global shows impacted",
+      "excerpt": "Meanwhile, Alibaba's rival JD.com on Monday said its smart assistant platform, powered by artificial intelligence (AI), had been integrated with the WeChat account of the Wuhan Mayor's Office. The messaging app, which provides updated information and services related to the coronavirus, taps the AI capabilities--including semantic ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
+      "publishedDateTime": "2020-02-11T00:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_posts/2020-02-11-current-facial-recognition-technology-is-not-fit-for-purpose-say-msps.md",
       "title": "Current facial recognition technology ‘is not fit for purpose’, say MSPs",
       "excerpt": "Current facial recognition technology is not fit for purpose and Police Scotland should not invest in it until major concerns are resolved, according to a damning report published today by MSPs. Holyrood’s justice sub-committee on policing has told the force that before introducing the technology, it has to “demonstrate the legal basis ...",
@@ -2019,6 +1930,52 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-how-will-your-career-be-impacted-by-artificial-intelligence.md",
+      "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
+      "excerpt": "Nobody can predict the future with absolute precision. But when it comes to the impact of artificial intelligence (AI) on people’s careers, the recent past provides some intriguing clues. Rhonda Scharf’s book Alexa Is Stealing Your Job: The Impact of Artificial Intelligence on Your Future offers some insights and predictions that are well worth our consideration.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-02-11T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x511/https://specials-images.forbesimg.com/imageserve/5e17b6d42ffdbd000701d5f4/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 511,
+          "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
       ]
     },
     {
@@ -2175,6 +2132,34 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2016-02-23-trolls-vs-pirates-halostryker-oral-arguments.md",
+      "title": "Trolls vs Pirates: Halo/Stryker Oral Arguments",
+      "excerpt": "Wall’s approach was to highlight the general nature of the the statute ... MR. WALL: [W]e and the PTO and many of Respondents’ amici recognize, the system as it currently stands is out of balance. And we have tried, and I believe we have succeeded ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patentlyo.com/patent/2016/02/pirates-halostryker-arguments.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2016-02-23T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patently-O",
+        "domain": "patentlyo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

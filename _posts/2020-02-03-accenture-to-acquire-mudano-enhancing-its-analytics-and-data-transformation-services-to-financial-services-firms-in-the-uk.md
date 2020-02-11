@@ -39,15 +39,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2015/03/FEATURE-Compliance-stamp-SHUTTERSTOCK-620x248.jpg"
         width: 620
         height: 248
-  - title: "How can finance keep up with digital transformation in financial services?"
-    excerpt: "Digital transformation is more than a buzzword in financial services, writes Sage Intacct's Diana Ermini ... Driven by AI and behavioral economics, machine learning, robotics, and advanced analytics, these emerging technologies are ushering in extraordinary operational efficiencies, accelerating time-to-market, and enabling superior customer ..."
-    publishedDateTime: 2020-02-06T12:33:00Z
-    webUrl: "https://diginomica.com/finance-digital-transformation-financial-services"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 2
 
 secured: "g6qeIbgFwlmZWwfmtfSwbWuou9ikl/79rWS10oM+ysD0WKYN6muSgIP6L9Q4zc6FW4hkRwsn/E3pMsF5J3sW69TRQKuEx9lQtyrg71QOVPEykLi5PATbtKNQBCyS94JFUAsfEPN0YAP1eGLZrUn+upuI4FoXgC0w5zymXLldFZ4TnoQZnaaCiQbPI/fiDLmnVltcwhzea4InJjVTrm3aiieCbQ2T4JASbZ4bjqLKqUGVEuOjqyFeNV8lCALFK3Nt/jkgm4OnuA7FLdJlvE8riVSwUr/OKcwcVhBTVsbPm11v6qBRgiZGQijPKMjGlh1G;7pYg7CvNmUGsyaEaXIHMuA=="
 ---

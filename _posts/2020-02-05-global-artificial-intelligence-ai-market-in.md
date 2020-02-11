@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/15254403"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15254403"
 type: article
 quality: 76
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     title: "Global Artificial Intelligence (AI) Market in..."
 
 related:
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability."
+    publishedDateTime: 2020-02-11T06:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Hits Record Value of USD 18.5 Billion By 2025"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Manufacturing Market Is Anticipated To Reach Around USD 18.5 Billion By 2025\" Research Report provides the newest industry data and industry future trends,"
+    publishedDateTime: 2020-02-11T06:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-manufacturing-market-hits-record-value-of-usd-185-billion-by-2025-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
   - title: "Artificial Intelligence (AI) Software Market"
     excerpt: "Artificial Intelligence (AI) Software Market research Report is a valuable supply of perceptive information for business strategists. This Artificial Intelligence (AI) Software Market study provides comprehensive data which enhances the understanding, scope and application of this report. A thorough study of the competitive landscape of the ..."
     publishedDateTime: 2020-01-29T13:52:00Z

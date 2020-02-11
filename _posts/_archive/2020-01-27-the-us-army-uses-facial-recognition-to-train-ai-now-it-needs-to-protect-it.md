@@ -4,10 +4,8 @@ title: "The US Army uses facial recognition to train AI. Now, it needs to protec
 excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 101
+quality: 61
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
-    width: 1200
-    height: 763
-    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -1703,6 +1695,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "KCT/+eYkgjtA2Cci/90Adu2hcBFYJ2Nx1x97M2zYN0C3Q6eK43QWeZOJCOYR9OIbKp5Pu5aSZHUpmuc6uKt3v8b8ceyTwL8Juh0WGdsXG0YJ0uqrcGFJleVnz2qbJV4kCjQousxsCNg01CCiPhAfKmhmXd/M7Vs+60I6Oi1RlioVzn4r6+JibykM7drGuxXztJurZ4TxbgteNM5ULqb34YR9ajgWE+9K53IO+HkQ72L7/aFH3MYnlawIvjLHzaEjAcEqUTCHUdvQMaAhRSPoL1Z1qvY6U/vU5X+MbpSYW9bEHqG2ueI8OZZeIokaL0jz;SXOgfq/z1Nn+YXAL23decg=="
+secured: "tShY6aKbSmetK6rjqCB+ow/5MHRJAfpxruPBqkWSqDxZfxTPebniudeIqHHfaUkDyzKXqQL7efoDoZyJX2Hx1cq5XaCyCIu7eH/uIB9EdmhtT/oYMugXX7pGGZY8CU1ub8WPk4axj8ycdJZQR/mQWE7pDXxSmQNKwC3UiCq7CY8BhVt0M7oYMfTE69+36BSs96aGUTx7t9RUqaCTNo3yhBrdcWvXe+QWUsrXvUlrbH1MQo7U7Jhp7gl+T4ug9VodHUB72NxshuAXreE9czV5Beij0JDjFF4b6R7yASsEca8sYV/a6C5w1fLgBfWWO9s+nHrsw+HnhzxWMO/dqqDVjNnHpMCshe/FDeKswFjMb3jSLOTqS9Ogj+fZ8iofaNlzW1Q2gNh/sVV8o0IuV0t7qN2QRJNZk0bTbIynybPE7pHUPY0m3Kj3A+P698Z0KhMUuRALr/qUX1nGTSXfZDIlyyj8ymc0w+RFy3DMuq0LxRs=;ebfzebElWkHaNOlZ0RRVSA=="
 ---
 

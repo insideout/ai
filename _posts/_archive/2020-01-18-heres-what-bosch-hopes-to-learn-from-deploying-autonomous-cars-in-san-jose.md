@@ -4,12 +4,10 @@ title: "Here’s what Bosch hopes to learn from deploying autonomous cars in San
 excerpt: "That’s where artificial intelligence comes to the rescue ... and you could hail a lounge-like driverless cab to go pick it up."
 publishedDateTime: 2020-01-18T09:17:00Z
 webUrl: "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/"
-ampWebUrl: "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Digital Trends
@@ -23,12 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/bosch-daimler-autonomous-s-class-1-2-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 628
-    title: "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose"
-
-secured: "j/JXIrBj0S40dDmuoxMvLozUyWAFL7pgpBevx/DhypFS8TLoSNHeCsNkv93QMxGjdctmFMdpR78Kud9fNKlCwC7akadmGdHmBT9s3V/ivagWqbtl5FBz+UvBwGmbZ6guNN1PdgV0rjsbH12UQKP6ZizVJDoDKNW2LAdrpKPZF5svjWfaSvTUVgVaxr6NimiGpYrMReAhsmT/Fz5UZphdAsaLh03rw262kgFbqMg797pCla/5+0gCJpruVlb4NU0iZUWRz5GrOdY1aRfPT93n8E3hXk2hA56qyB4EJhHk1GkOaYbQGm4jIpwHUYAIevGl;0mFtFpCMgtuOe9LoG/rqkw=="
+secured: "LkLw6ov9y39PSlFc4FgWX8ceetdDSBivifZNZTGbPxA50SJbBNrFoGrhgD18KED/t+V75YhIY/sgyzmrpKHY7GmjHIMaB1fP1Ml76wa204JPf7Jv4M6jhCFS4DS6MdhAJM3L+il1NlmGwJ2lsLHpt7GBBBQ1LHzTEYX1H4ADI2uPqrPoGZvNPL1equz3YIXdmG5WkWqDeAD2adA7L6w/yqej/FLxl2pxqcMLKoWygy+twBukqtFH3w/lCLntMagCA8oVUn4GjSSaM0pDmFKyRMa4f3zRmHgnZoLq5nitZl6sKjxSTuy7IPSeJZOKmANa;KwxKp1Ckdb5S6bBtQ4TPlA=="
 ---
 

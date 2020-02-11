@@ -4,12 +4,10 @@ title: "Tailoring A Computer Vision System: The Art Of Balance"
 excerpt: "CTO of Athena Security has built an AI system that allows security cams to detect a gun before it goes off and call the police in real-time. Various AI and computer vision technologies have begun ..."
 publishedDateTime: 2020-01-23T14:35:00Z
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/tailoring-a-computer-vision-system-the-art-of-balance/"
-ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/01/23/tailoring-a-computer-vision-system-the-art-of-balance/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/23/tailoring-a-computer-vision-system-the-art-of-balance/amp/"
 type: article
-quality: 104
-heat: 104
-published: true
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Forbes
@@ -23,12 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-29-2.jpg"
-    width: 640
-    height: 640
-    title: "Tailoring A Computer Vision System: The Art Of Balance"
-
-secured: "r3KK9KOB/a8sjh9NL1JOeYDaF7OuZswot88bHCcRtWkexu/ZnaRCsLNS6cF/tKbPagUnWOkpyOn+tAUko7pmrtphGVulzr5nilfdP4/fsuvhwCqFqOTMn6ScFEcSWmLg7fbpFQNP+YxESh5nugn/PFEGOzt7J1TxbezIM4LsdusoYwgEUKvTxbnkZ2rYl1GiOuNgM8ojp3OugHGYBvYhIhps/M9ZoIgDCTQap/sj+s5B3Eoqj2Bae+0fKEb8w5fxKkd8dXNPI7H3ijawHbEJTEKgkjpP0nEkt+KGbE9p8DxCdFzEBb37oy2n5NMiL5CQ;MC6IHJgm7+WR6NgQtoTtZA=="
+secured: "5CxYatUGjXgT4SBypr2kpel1GHfCUJ53bGGDlTgm6pplCNm9vhGoNma3B/h+7dpTI8ZTRBKQJBrpnU2XXRMD5Ex3L7QnpyaCM75NcMgdFJ1eofYUfZ6Cc9+nWdzDYzjryD8J7ztiI4yC4VpevhHlaMasG9FcYxbUwqiPoZR+ouDIAbJkYBJQsjzPxI7mUAYXNLPyurPdwpl6uOeenbDLGt3mnP8ZjpU89eCb5OGGvB7tK+C4yMnVBEL4kZ9Tomkvkrg3If5T7wdRcaqcb1/8jRUhlKLHSRxgD434/6k0dZpjPvrFiqOG4Jfn0GUM/t7d;ZoZpTpUBxAuQ10d3vOSy/Q=="
 ---
 
