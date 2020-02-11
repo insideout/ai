@@ -1,28 +1,28 @@
 ---
 category: news
 title: "dotData Achieves AWS Machine Learning Competency Status"
-excerpt: "/PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that it"
-publishedDateTime: 2020-02-04T12:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/dotdata-achieves-aws-machine-learning-competency-status-300998268.html"
+excerpt: "... ML Competency status only eight months after joining the AWS Partner Network (APN). The certification recognizes dotData as an APN Partner that accelerates the full-cycle ML and data science process and provides validation that dotData has deep expertise in artificial intelligence (AI) and ML on AWS and can deliver their organization's ..."
+publishedDateTime: 2020-02-04T13:11:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-dotdata-achieves-aws-machine-learning-competency-status-/2020/02/04/9091610.htm"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - Machine Learning
+  - AWS AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
     title: "dotData Achieves AWS Machine Learning Competency Status"
 
-secured: "LL1YjIhv+zssggKsjt9XoESRdS7D7HUMLLckocH+ax/QOmUEiP46k13I9KM93vxK8nOXK013oMrXFABdbVIw5o7oslPY8xQe/G1NC4tQJMiD9E1wNOn8yjRnd5qD6f8p9cEI/DHX+gfU8MmA2REnAvR2shU4UdZAqiEIjSiEoELL3F5AZcx0b5dDv2nAWBu1JGQ6fd3x+MOasjW7IH8B3OiPnAE1pw3gVo8LKgrrDz7YiufP7RcgX4Qui/jQ2KuKBCq/FyhmN9lkGUiRyevLuVgaOtFyxn9myZcQKpGRgu8a9kqFlF/Grp5w9LIFxL+z;8vc1Eba504n3svQrdyEg7w=="
+secured: "804om57FCVTzy5kXbOgsbHPSXGOf5LCIZ0SfUe5KWlRfjoCqPEJABn3uImRR1mFwhDiZzSXMm/XxPcIPaxxuFS8nDQIZNFKWPybrhhOnnTlZwVLnctgLkgzCgb+ucPoO7Ewo0j7rnRpoo44ei0t4Km4y9YBL5wGAHX/VLsuJs3lOm9ojIpC7bQ+ENbVwt+QrkHfnaWfs1Qd3o0A3/6N4lRYxGQM/O8FY3mVZjw8q/Md2t7VKOO1mwLDTPxj0TEeyorYgdhjD77JtE+bVkT3V4u5RhN2KrcGCGDxiT/oPzXudb9YaotZDIdwgxiCZyZgc;lHr80Chq+XT3s3hElwAYcw=="
 ---
 

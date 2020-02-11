@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T08:46:00Z
 webUrl: "https://www.vccircle.com/incubate-fund-india-leads-seed-funding-in-ed-tech-startup-wizklub"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 810
     height: 508
     title: "Incubate Fund India leads seed funding in ed-tech startup WizKlub"
-
-related:
-  - title: "A startup that teaches coding to six year olds raises ₹7 crore in seed funding"
-    excerpt: "Its SmartTech programme ropes in children as young as six years — helping them build skills and confidence to create tech products via coding, robotics, smart devices and AI. \"After-school-education for the K6 segment in India has been highly fragmented. At the same time, the rise of the middle class allows parents in urban India to start ..."
-    publishedDateTime: 2020-01-28T05:48:00Z
-    webUrl: "https://www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/articleshow/73687943.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/amp_articleshow/73687943.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/amp_articleshow/73687943.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 53
-    images:
-      - url: "https://www.businessinsider.in/thumb/73688111.cms?height=275&width=412"
-        width: 412
-        height: 275
 
 secured: "6GQoE5TKCH+AkBjPAlre/sx/pkl2a7/FjxyORCRh33mg0QVkToJw5UTdo1sEfiBFGM5XidCR1Is+79222vlYtF0G5Gs+K55wIaxm6RWNZzQ7uI5yWzoV7DUToYD0F0sYZIWUvJBnjKyQGgYlbqi829ky3CY/O5raNcy9iF4iEMU6lykhLnymi768uQQo9dztlA+k1zzpHh06VVoO7WCvo9es9HG3K1Ls6PK6/7505bt5FV3Ey5UYFg8h9ytT44Q+iIXVIJA7V8Ls2xh4FCrtsqXT4YGddQ7I93E9vFng07FWkoyAZUlfLtLM/csl6AXo;s4m/KjEm74baeyfSYbsPug=="
 ---

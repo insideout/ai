@@ -18,156 +18,45 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Iguazio raises $24 million for AI development and management tools"
-    excerpt: "AI adoption levels are higher than they’ve ever been in the enterprise. According to a January survey conducted by Gartner, corporate use of AI grew 270% over the past four years. But developing, deploying, and managing AI applications at scale requires a platform that supports doing so, which is what startup company Iguazio provides."
-    publishedDateTime: 2020-01-27T12:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/"
-    ampWebUrl: "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/"
+  - title: "UST Global Announces Partnership With GreyOrange in Intelligent Robotics for Warehouse and Supply Chain Automation"
+    excerpt: "/PRNewswire/ -- UST Global, leading digital transformation solutions company, announced a partnership with GreyOrange, a global software and mobile"
+    publishedDateTime: 2020-02-03T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ust-global-announces-partnership-with-greyorange-in-intelligent-robotics-for-warehouse-and-supply-chain-automation-300997567.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 191
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/Logo_-_updated.jpg?fit=1200%2C627&strip=all"
-        width: 1200
-        height: 627
-  - title: "Fundraiser Enablement Solutions Company Gravyty Raises $21 Million"
-    excerpt: "Fundraiser enablement solutions company Gravyty announced it raised $21 million from K1 Investment Management Gravyty ... build donor pipeline at scale, inspire giving, and raise revenue on their missions to change our world. “Higher Education is going to change more in the next ten years than it has in the past 100. I believe this means ..."
-    publishedDateTime: 2020-01-29T12:02:00Z
-    webUrl: "https://pulse2.com/gravyty-raises-21-million/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 117
-  - title: "AI and disinformation join nukes in the race for armageddon"
-    excerpt: "Some analysts say China is surging ahead with the development of artificial intelligence (AI), and perhaps even dominating the field. Huawei's founder Ren Zhengfei would beg to differ. The US government has yet to figure out the implications of AI, but China hasn't even started thinking about it, Ren told the World Economic Forum in Davos last ..."
-    publishedDateTime: 2020-01-28T05:11:00Z
-    webUrl: "https://www.zdnet.com/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2018/09/12/68bc9baf-bca9-4377-a59d-94d87c57e3be/thumbnail/1200x675/f52ca7b39d4fe3985df2389980bf8973/fibre-broadband.png"
-        width: 1200
-        height: 675
-  - title: "Gravyty raises $21 million for AI fundraising platform"
-    excerpt: "To help bolster their efforts, Adam Martel and Rich Palmer founded Gravyty in 2016, a Newton, Massachusetts-based startup leveraging AI and machine learning to help nonprofits reach their fundraising goals. In a vote of confidence this week in the startup’s efforts, investment firm K1 Investment Management announced a $21 million investment ..."
-    publishedDateTime: 2020-01-27T14:38:00Z
-    webUrl: "https://venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/"
-    ampWebUrl: "https://venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/stewardship-mac2.png?fit=1200%2C697&strip=all"
-        width: 1200
-        height: 697
-  - title: "Aquant raises $30 million for AI that gives customer service agents mission-critical data"
-    excerpt: "Assaf Melochna and Shahar Chen, former colleagues at workforce management and service optimization company ClickSoftware, advocate an AI- and machine learning-based solution. The two cofounded Aquant, which algorithmically mines and analyzes data from various sources to learn manufacturing, utilities, and telecom companies’ unique service ..."
-    publishedDateTime: 2020-01-30T14:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/"
-    ampWebUrl: "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Kneron raises $40M for edge biometrics and AI chip development"
-    excerpt: "a developer of AI algorithms and AI-optimized processor designs for use in edge devices such as surveillance cameras and other smart home products, raised an additional $40 million to further develop its products. Kneron, which has over 150 employees, has raised $73m to date. Kneron unveiled its first chip, the KL520 in May 2019. The chip ..."
-    publishedDateTime: 2020-01-27T17:49:00Z
-    webUrl: "https://www.biometricupdate.com/202001/kneron-raises-40m-for-edge-biometrics-and-ai-chip-development"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg"
-        width: 300
-        height: 250
-  - title: "OpsRamp raises $37.5 million to apply AI to DevOps processes"
-    excerpt: "Ever heard of AI for IT management (AIOps)? It’s a burgeoning ecosystem of platforms and products that enhance IT operations by leveraging AI to analyze data collected from various tools and devices. Research and Markets anticipates it’ll be a $14.3 billion segment by 2025, and one of the startups leading the charge is OpsRamp. Raju Chekuri ..."
-    publishedDateTime: 2020-01-30T08:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/30/opsramp-raises-37-5-million-to-apply-ai-to-devops-processes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 47
-  - title: "The Development Of Memory And Storage Devices"
-    excerpt: "In the computing world, there is a lot of excitement over the technological advancements that that take place such as augmented reality, driverless cars, smart homes, artificial intelligence, voice control etc. But none of this would matter if there were no memory storage devices that could read and transfer data quickly and reliably."
-    publishedDateTime: 2020-01-28T10:33:00Z
-    webUrl: "https://www.androidheadlines.com/2020/01/the-development-of-memory-and-storage-devices.html"
-    ampWebUrl: "https://www.androidheadlines.com/2020/01/the-development-of-memory-and-storage-devices.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/the-development-of-memory-and-storage-devices.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
     images:
-      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/01/microSD-card.jpg"
-        width: 1000
-        height: 750
-  - title: "IBM Debuts IC922 Power Server for AI Inferencing and Data Management"
-    excerpt: "Few details were discussed at the briefing and in response to an emailed question about those plans, IBM responded, “IBM believes that just as training required specialized software, so does AI inference. Our Watson Machine Learning Accelerator product family continues to evolve to leverage the latest capabilities of IBM Power Systems for AI ..."
-    publishedDateTime: 2020-01-28T17:30:00Z
-    webUrl: "https://www.hpcwire.com/2020/01/28/ibm-launches-ic922-power-server-for-ai-inferencing-and-data-management/"
+      - url: "https://mma.prnewswire.com/media/540539/UST_Global_Logo.jpg?p=facebook"
+        width: 1443
+        height: 757
+  - title: "Fractal and ideaForge Announce Global Technology Partnership to Launch AI-powered Drones"
+    excerpt: "MUMBAI, Feb. 4, 2020 /PRNewswire/ -- Fractal (https://fractal.ai), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 100 companies, has announced a technology partnership with ideaForge (https://www.ideaforge.co.in) - a global leader in Unmanned Aerial Vehicle (UAV) Technology. Both organizations will ..."
+    publishedDateTime: 2020-02-04T10:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fractal-ideaforge-announce-global-technology-partnership-launch-ai-/2020/02/04/9091388.htm"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 41
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
     images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/IBM-IC922.png"
-        width: 1094
-        height: 564
-  - title: "Year begins with bang for AI drug development"
-    excerpt: "The company noted that less than 5% of AI professionals are working in health, despite this being the area of ‘most urgent application’. As a result, Microsoft will work with nonprofits, academia, and research organizations to provide them access to AI ..."
-    publishedDateTime: 2020-01-31T15:55:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2020/01/31/AI-takes-leap-forward-in-drug-research"
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
+  - title: "CitiusTech Announces Partnership with Google Cloud to Accelerate Digital Transformation for Healthcare Organizations"
+    excerpt: "... healthcare organizations through digital transformation in key areas such as data analytics, artificial intelligence, machine learning and hybrid cloud,\" said Manish Sharma, Sr. Vice President, Strategy & Partnerships at CitiusTech. \"Our combined technology will empower payers and providers to drive better outcomes and improve care quality.\""
+    publishedDateTime: 2020-02-07T13:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-citiustech-announces-partnership-with-google-cloud-accelerate-digital-/2020/02/07/9094107.htm"
     type: article
     provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 39
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
     images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/article/2020/01/31/ai-takes-leap-forward-in-drug-research/10657792-1-eng-GB/AI-takes-leap-forward-in-drug-research.jpg"
-        width: 788
-        height: 443
-  - title: "Ethiopia to launch artificial intelligence development center"
-    excerpt: "The regulation is expected to provide quality services, products and solutions for beginner developers working on artificial intelligence. Though the country had no regulatory framework to govern and embrace such technologies, individuals efforts has been bearing fruits in applying AI and robotics in Ethiopia. In 2018 a robotics lab iCog ..."
-    publishedDateTime: 2020-01-27T12:35:00Z
-    webUrl: "https://newbusinessethiopia.com/technology/ethiopia-to-launch-artificial-intelligence-development-center/"
-    type: article
-    provider:
-      name: newbusinessethiopia.com
-      domain: newbusinessethiopia.com
-    quality: 19
-  - title: "The Robots Are Coming for Fund Management Jobs"
-    excerpt: "Remember Aibo, the computerized dog Sony Corp. started selling in 1999 as the first personal robot? Hiro Mizuno, the chief investment officer of Japan’s Government Pension Investment Fund, does. So he asked Sony’s computer science lab unit to build him a cyberhound using artificial intelligence to help oversee the external fund managers who ..."
-    publishedDateTime: 2020-01-31T07:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/the-robots-are-coming-for-fund-management-jobs/2020/01/31/68cc62dc-43f7-11ea-99c7-1dfd4241a2fe_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 19
+      - url: "https://images.tmcnet.com/tmc/iot-mag/images/iot-mag-0115.jpg"
+        width: 252
+        height: 335
 
 secured: "ZDdnHRoMnObmLTGO0IjAfv03AYVGYBq9VDknQOcH0Zph41C5AWXJNYkX50OOMzq097vS8T5IcfYYlRNHX9GjxsA18RNK3A8D+5hM9I4J0v1UVpQ19PydnHu/UCgp4EwUsRKHK5poFhMNQUNsmksI7tMada8zg68X8rKQdSe5xtXpyf2GkajTXsVIbIny7xtbKrE+7ozmpn3rYwuJeKqqvOHQ7EtdvgqAy85F4NyaB3+njqPQDqd5UphlM78pYVzo9XFy2MLhj2XbNlOaGcW/dHa1ihdXh1FGUUg4nh/BhJfZutHkPnZV5l9/aQBa3GmX;VrQ6i8V9WOLSibc+hTvnDg=="
 ---

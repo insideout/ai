@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Why most self-driving car companies use these 3 models"
-excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ..."
+excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
 publishedDateTime: 2020-01-21T20:54:00Z
 webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
 ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
@@ -41,20 +41,20 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
         width: 1200
         height: 630
-  - title: "How to Invest in Self-Driving Car Stocks"
-    excerpt: "Hence, driverless cars need programs to run. Most often this includes some form of artificial intelligence (AI) software such as machine learning, neural networks or deep learning. . Sensors – Finally, self-driving cars need sensors in order to fully ..."
-    publishedDateTime: 2020-01-17T11:02:00Z
-    webUrl: "https://investmentu.com/self-driving-car-stocks/"
+  - title: "The road ahead for AV in the age of self-driving cars"
+    excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
+    publishedDateTime: 2020-01-28T10:25:00Z
+    webUrl: "https://www.avinteractive.com/features/blogs/road-ahead-av-self-driving-cars-28-01-2020/"
     type: article
     provider:
-      name: Investment U
-      domain: investmentu.com
+      name: avinteractive.com
+      domain: avinteractive.com
     quality: 24
     images:
-      - url: "https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg"
-        width: 730
-        height: 467
+      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
+        width: 620
+        height: 330
 
-secured: "CbauJS4SFANUsgc27qv4au+UrsjP7xI5FfF8S/goJfDN7TmP0lz75cYNgOcAzvYp565LKq9Tb8W1J1oMifQKP/DH6TpnZJm97bdDCa9dE4eHV3VqRebOoxZuAb93YWBxdDb/ALWRBVfRKNOea/TobbmBN7xBYupZWrkgry57wv4cxgk1fPiiJT2bL/MN7pC17BtLNeUYxPUo4fz/GV2mm2n1CrAQOY9NGE0HOAs+8I49Oxk2Hq6Jw4Ot5950CnT/G+B2kbA2f0tQfYR2YLoi1yFie8sW88UokcgXaW0RtSL+tVCoeR6FVgXY/XUFr7gN;m3DAuVnr1zrAzY17JLJ9JQ=="
+secured: "gGXbIyVZ6VZFKowQs9+b9ihOXNVB3bE/b54/hbJ+9pM+rjk5VDwx+vuZakc1Blo4gYgwkl/2OUAhzAJ4fQIXedzME5qKGITGeNSfAAWAGoFYX85r1/wyggAOaWYygXgUfZuguztF4S99CRWTSgsxllf3XqwfnqvPFXfMwRqz+ePGxvKtcrxVzXYX30w/FFStVBwKliOKaRV5saMtjZ2B/U1TVABnZTeQE4JcaZRsX9DhU5+BA4plrSzzqFwk/j8VZhbxKuZDterjUpk4xHscimcmCDrGmA5tk3cjgJ5/1NVEkVsgrX0HKxlAlaoHv0Jj;gxF7dkB3UN8ZOa6YVYK6qw=="
 ---
 

@@ -34,15 +34,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 42
-  - title: "Elon Musk calls it ‘financially insane’ to buy a car that isn’t an EV capable of full self-driving"
-    excerpt: "He said that by next year, their goal is the same thing but without requiring supervision, and then some time after that,… Leggi"
-    publishedDateTime: 2020-01-27T11:11:00Z
-    webUrl: "https://www.informazione.it/n/E58F4EC8-B79C-4A79-A2C4-4A525596CD49/Elon-Musk-calls-it-financially-insane-to-buy-a-car-that-isn-t-an-EV-capable-of-full-self-driving"
-    type: article
-    provider:
-      name: informazione.it
-      domain: informazione.it
-    quality: 0
 
 secured: "frjA0cHUaGKddRfaHPMGubvrdK+MKh4WtXq5BmNue/P6f02A7SsRli/+WVqJN1FfAhZDxu54zvXhVc0EqG/78sRHPc7g5wfUL9TkbF6JbEcnsnZHzdTNb6/OZKOg/EA/KbiykZJtNYdUJU3c0VOcgDgJjH/JDCW1VVA6DiBrDSMJ+/oURhegfMgdfTUAurOqpP1ss//fWQfeeaNUFDnw8+JoOH/1+GCX7AKpu/bV0kOnSHc/6PhAZCwSzF1UlS0O7nH1sfdFimFn5pCxg3EZFd+9pHaQ20BXGcFWNxReW/ybnR380tBO39iUQAvucHqD;wN1eSXpbGqaew+44M+G9zA=="
 ---

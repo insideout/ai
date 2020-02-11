@@ -24,54 +24,21 @@ images:
     title: "Fugro wins ISFOG 2020 machine-learning competition"
 
 related:
-  - title: "The Role of Machine Learning in Marketing"
-    excerpt: "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ..."
-    publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/@bo.lau/the-role-of-machine-learning-in-marketing-60918b8f51e2"
+  - title: "Google’s Machine Learning Is Making You More Effective In 2020"
+    excerpt: "to email as well as increasing ways to help me complete or enhance a document, spreadsheet, or presentation with the Explore function."
+    publishedDateTime: 2020-02-11T04:43:00Z
+    webUrl: "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/"
+    ampWebUrl: "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 71
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F881497148%2F0x0.jpg%3FcropX1%3D148%26cropX2%3D3119%26cropY1%3D1497%26cropY2%3D3169"
         width: 1200
-        height: 672
-  - title: "Artificial Intelligence and the Future of Sales and Marketing"
-    excerpt: "Artificial intelligence (AI) has the potential to significantly improve businesses’ sales and marketing efforts, and thus their fortunes overall. In fact, it may be hard for companies to move forward without it. Two-thirds of the 615 respondents to a recent survey from Harvard Business Review Analytic Services agree that AI in marketing and ..."
-    publishedDateTime: 2020-02-07T09:43:00Z
-    webUrl: "https://hbr.org/sponsored/2020/02/artificial-intelligence-and-the-future-of-sales-and-marketing"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2010/05/HBRAS_research_paper.png"
-        width: 1200
-        height: 675
-  - title: "Machine-Learning Studies on Spin Models"
-    excerpt: "With the recent developments in machine learning, Carrasquilla and Melko have proposed a paradigm that is complementary to the conventional approach for the study of spin models. As an alternative to investigating the thermal average of macroscopic physical quantities, they have used the spin configurations for the classification of the ..."
-    publishedDateTime: 2020-02-07T18:26:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-58263-5"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58263-5/MediaObjects/41598_2020_58263_Fig1_HTML.png"
-        width: 685
-        height: 647
-  - title: "Machine Learning in Nursing Market"
-    excerpt: "Request Sample Copy of this Report at https://www.qyreports.com/request-sample/?report-id=224317 Report defines competitors in this market of Global Machine Learning in Nursing Market. The Top Most Key Players in the market are as Microsoft Azure, HIPAA. The growth rate of the sales and income figures of the Machine Learning in Nursing market ..."
-    publishedDateTime: 2020-02-06T11:30:00Z
-    webUrl: "https://www.openpr.com/news/1921686/machine-learning-in-nursing-market-report-business-strategy"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
+        height: 676
 
 secured: "cTRINAm6sE8Na+zI8n7rIw1dUmlVDVzPsbJf4EXgCRvoYp9JNDC7MP5leKOzAH+7qPbovU9XVkDCnMiqmsk4iT/w2wemrqEtFdTta6OgCZhlkgnxDKzus2diUprHsIflewFMNINorNBcpMMmfsAX1W63HA6Wa2HyMVfRJsq5BtFmcyndgU7fSJbN2YYHJ+zukFZqrC+euxcx9E4+iFAADxcd3i8g0yFs4bYoQ96g8ffuUGtFbsebKwz5bgQdRSZq76ktHk/08J/jsqfphEVRxeQ0ncAB3Qti29kwCgdqElrH9LiZB1i+H6BrU7B9Mcfx;S7xDKOl5Deqni5x2z/2PPA=="
 ---

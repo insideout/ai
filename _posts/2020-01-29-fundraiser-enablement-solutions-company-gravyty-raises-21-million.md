@@ -17,155 +17,60 @@ topics:
   - AI
 
 related:
-  - title: "Iguazio raises $24 million for AI development and management tools"
-    excerpt: "AI adoption levels are higher than they’ve ever been in the enterprise. According to a January survey conducted by Gartner, corporate use of AI grew 270% over the past four years. But developing, deploying, and managing AI applications at scale requires a platform that supports doing so, which is what startup company Iguazio provides."
-    publishedDateTime: 2020-01-27T12:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/"
-    ampWebUrl: "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/"
+  - title: "Construction startup Scaled Robotics raises a €2M seed round"
+    excerpt: "This morning, the small Barcelona-based construction startup announced that it has raised a €2 million seed investment ... both investors who share our vision of changing the industry through a combination of robotics and artificial intelligence.”"
+    publishedDateTime: 2020-02-03T15:16:00Z
+    webUrl: "https://techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/"
+    ampWebUrl: "https://techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/construction-startup-scaled-robotics-raises-a-e2m-seed-round/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 191
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/Logo_-_updated.jpg?fit=1200%2C627&strip=all"
-        width: 1200
-        height: 627
-  - title: "AI and disinformation join nukes in the race for armageddon"
-    excerpt: "Some analysts say China is surging ahead with the development of artificial intelligence (AI), and perhaps even dominating the field. Huawei's founder Ren Zhengfei would beg to differ. The US government has yet to figure out the implications of AI, but China hasn't even started thinking about it, Ren told the World Economic Forum in Davos last ..."
-    publishedDateTime: 2020-01-28T05:11:00Z
-    webUrl: "https://www.zdnet.com/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-03-at-10.09.42-AM.png?w=1024"
+        width: 1024
+        height: 655
+  - title: "Spanish robotics start-up raises €2 million"
+    excerpt: "A robotics start-up company based in Barcelona, Spain ... both investors who share our vision of changing the industry through a combination of robotics and artificial intelligence.” According to Fossgård, the products from Scaled Robotics are garnering a particularly strong interest in Europe, “Scaled Robotics has developed a product ..."
+    publishedDateTime: 2020-02-06T11:32:00Z
+    webUrl: "https://www.khl.com/construction-europe/spanish-robotics-start-up-raises-2-million/142285.article"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: KHL
+      domain: khl.com
+    quality: 49
+  - title: "Miso Robotics Reimagines Kitchen Automation with Robotic Kitchen Assistant on a Rail"
+    excerpt: "In my mind, that validated the software platform approach we took in designing Flippy's brain,\" noted Dr. Ryan Sinnet, CTO of Miso Robotics. While the next generation of the product has been taking shape, the team has continued to make breakthroughs in the artificial intelligence software that powers Flippy. This has resulted in software that ..."
+    publishedDateTime: 2020-01-28T13:24:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2020/01/28/miso-robotics-reimagines-kitchen-automation-with-robotic-kitchen-assistant-on-a-rail/14722/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 42
+  - title: "MassRobotics Expands: Innovation Hub Serves Robotics, AI and Connected Devices Startups, STEM Programs and Global Robotics Community"
+    excerpt: "/PRNewswire/ -- MassRobotics, the independent, nonprofit serving as an innovation hub for robotics and smart connected devices, officially opened its"
+    publishedDateTime: 2020-02-04T15:28:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/massrobotics-expands-innovation-hub-serves-robotics-ai-and-connected-devices-startups-stem-programs-and-global-robotics-community-300998727.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
     images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2018/09/12/68bc9baf-bca9-4377-a59d-94d87c57e3be/thumbnail/1200x675/f52ca7b39d4fe3985df2389980bf8973/fibre-broadband.png"
-        width: 1200
-        height: 675
-  - title: "Gravyty raises $21 million for AI fundraising platform"
-    excerpt: "To help bolster their efforts, Adam Martel and Rich Palmer founded Gravyty in 2016, a Newton, Massachusetts-based startup leveraging AI and machine learning to help nonprofits reach their fundraising goals. In a vote of confidence this week in the startup’s efforts, investment firm K1 Investment Management announced a $21 million investment ..."
-    publishedDateTime: 2020-01-27T14:38:00Z
-    webUrl: "https://venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/"
-    ampWebUrl: "https://venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/amp/"
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+  - title: "Cognitive skills startup WizKlub raises INR 7 Cr in seed round"
+    excerpt: "The WizKlub SmartTech Program, a first-of-its-kind for children as young as 6 years, builds lifelong skills and confidence to create tech products by application of coding, robotics, smart devices and AI. The startup has 150+ centers in Bengaluru and has progressed 3000+ children through its programs. The company also offers HOTS and SmartTech ..."
+    publishedDateTime: 2020-01-28T06:43:00Z
+    webUrl: "https://indiaeducationdiary.in/cognitive-skills-startup-wizklub-raises-inr-7-cr-in-seed-round/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/stewardship-mac2.png?fit=1200%2C697&strip=all"
-        width: 1200
-        height: 697
-  - title: "Aquant raises $30 million for AI that gives customer service agents mission-critical data"
-    excerpt: "Assaf Melochna and Shahar Chen, former colleagues at workforce management and service optimization company ClickSoftware, advocate an AI- and machine learning-based solution. The two cofounded Aquant, which algorithmically mines and analyzes data from various sources to learn manufacturing, utilities, and telecom companies’ unique service ..."
-    publishedDateTime: 2020-01-30T14:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/"
-    ampWebUrl: "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Kneron raises $40M for edge biometrics and AI chip development"
-    excerpt: "a developer of AI algorithms and AI-optimized processor designs for use in edge devices such as surveillance cameras and other smart home products, raised an additional $40 million to further develop its products. Kneron, which has over 150 employees, has raised $73m to date. Kneron unveiled its first chip, the KL520 in May 2019. The chip ..."
-    publishedDateTime: 2020-01-27T17:49:00Z
-    webUrl: "https://www.biometricupdate.com/202001/kneron-raises-40m-for-edge-biometrics-and-ai-chip-development"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg"
-        width: 300
-        height: 250
-  - title: "OpsRamp raises $37.5 million to apply AI to DevOps processes"
-    excerpt: "Ever heard of AI for IT management (AIOps)? It’s a burgeoning ecosystem of platforms and products that enhance IT operations by leveraging AI to analyze data collected from various tools and devices. Research and Markets anticipates it’ll be a $14.3 billion segment by 2025, and one of the startups leading the charge is OpsRamp. Raju Chekuri ..."
-    publishedDateTime: 2020-01-30T08:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/30/opsramp-raises-37-5-million-to-apply-ai-to-devops-processes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "The Development Of Memory And Storage Devices"
-    excerpt: "In the computing world, there is a lot of excitement over the technological advancements that that take place such as augmented reality, driverless cars, smart homes, artificial intelligence, voice control etc. But none of this would matter if there were no memory storage devices that could read and transfer data quickly and reliably."
-    publishedDateTime: 2020-01-28T10:33:00Z
-    webUrl: "https://www.androidheadlines.com/2020/01/the-development-of-memory-and-storage-devices.html"
-    ampWebUrl: "https://www.androidheadlines.com/2020/01/the-development-of-memory-and-storage-devices.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/the-development-of-memory-and-storage-devices.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/01/microSD-card.jpg"
-        width: 1000
-        height: 750
-  - title: "IBM Debuts IC922 Power Server for AI Inferencing and Data Management"
-    excerpt: "Few details were discussed at the briefing and in response to an emailed question about those plans, IBM responded, “IBM believes that just as training required specialized software, so does AI inference. Our Watson Machine Learning Accelerator product family continues to evolve to leverage the latest capabilities of IBM Power Systems for AI ..."
-    publishedDateTime: 2020-01-28T17:30:00Z
-    webUrl: "https://www.hpcwire.com/2020/01/28/ibm-launches-ic922-power-server-for-ai-inferencing-and-data-management/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 41
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/IBM-IC922.png"
-        width: 1094
-        height: 564
-  - title: "Year begins with bang for AI drug development"
-    excerpt: "The company noted that less than 5% of AI professionals are working in health, despite this being the area of ‘most urgent application’. As a result, Microsoft will work with nonprofits, academia, and research organizations to provide them access to AI ..."
-    publishedDateTime: 2020-01-31T15:55:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2020/01/31/AI-takes-leap-forward-in-drug-research"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 39
-    images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/article/2020/01/31/ai-takes-leap-forward-in-drug-research/10657792-1-eng-GB/AI-takes-leap-forward-in-drug-research.jpg"
-        width: 788
-        height: 443
-  - title: "Zensar's Smart Application Development and Maintenance services incorporate Artificial Intelligence"
-    excerpt: "Zensar, a leading digital solutions and technology services company that specializes in partnering with organizations across industries on their digital transformation journey, announced that its Smart Application Development and Maintenance (SmartADM) services now incorporate Robotics, Automation and Artificial Intelligence (AI). Sandeep ..."
-    publishedDateTime: 2020-01-28T11:30:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=261380"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 20
-  - title: "Ethiopia to launch artificial intelligence development center"
-    excerpt: "The regulation is expected to provide quality services, products and solutions for beginner developers working on artificial intelligence. Though the country had no regulatory framework to govern and embrace such technologies, individuals efforts has been bearing fruits in applying AI and robotics in Ethiopia. In 2018 a robotics lab iCog ..."
-    publishedDateTime: 2020-01-27T12:35:00Z
-    webUrl: "https://newbusinessethiopia.com/technology/ethiopia-to-launch-artificial-intelligence-development-center/"
-    type: article
-    provider:
-      name: newbusinessethiopia.com
-      domain: newbusinessethiopia.com
-    quality: 19
-  - title: "The Robots Are Coming for Fund Management Jobs"
-    excerpt: "Remember Aibo, the computerized dog Sony Corp. started selling in 1999 as the first personal robot? Hiro Mizuno, the chief investment officer of Japan’s Government Pension Investment Fund, does. So he asked Sony’s computer science lab unit to build him a cyberhound using artificial intelligence to help oversee the external fund managers who ..."
-    publishedDateTime: 2020-01-31T07:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/the-robots-are-coming-for-fund-management-jobs/2020/01/31/68cc62dc-43f7-11ea-99c7-1dfd4241a2fe_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: India Education Diary
+      domain: indiaeducationdiary.in
     quality: 19
 
 secured: "0owOfvXF7BURdxlXXJeBZYbScDSujz55/W2wOz02cF3MHPj9y8xyCfc8xiMMMXQ+i6szxxSKRx8UbRAOB35QhrF2axjMvuO3ehrFGy6UFvMIs2m/ZRtL+JJZG6yAQhTetDsHlmgDNj2fWketBfxnGagI/VaDXvqC9ptguAC4Vu8m6bRm/T9WCQG45yjqoQIOFd3twlcWwBQnYyc68LEaZTDr1IhZtODbWaq22rU5WLdYKSYD3aSRMMeLtR121a6wAIE0XINlXIH4lCp2oFfguB9iifcpIivipjCmgXA2PXWZNg23iC0iS+0htBnrYVsXKoQupgB731eHMsLJWS/4xw1XxrKkL6tth4UhB9WUddgSv4i0V5Ld5eySYFsQN8FYoxQx90ZDpJOT3Rh5aUfgbZSOTw177oEkAvTUZCZVmCXGEsFEz2F2z1BMWsOjuJ61nqd0RMXjPLFr6Xd4TW+q5zwbClpwxcwAnJqo1lXm+G8XYfj7+2MPzcOZqqSr5g0P;jmsqIg5DTDgBWW5DqNdiAA=="

@@ -5,8 +5,8 @@ excerpt: "Pooja Khamar, MD, PhD; Rachana Chandapura, MTech; Rohit Shetty, MD, Ph
 publishedDateTime: 2020-02-10T16:31:00Z
 webUrl: "https://www.healio.com/ophthalmology/journals/jrs/2020-2-36-2/{42126c34-181e-4541-a810-8e5e387b6ece}/epithelium-zernike-indices-and-artificial-intelligence-can-differentiate-epithelial-remodeling-between-flap-and-flapless-refractive-procedures"
 type: article
-quality: 1
-heat: 1
+quality: 3
+heat: 3
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png"

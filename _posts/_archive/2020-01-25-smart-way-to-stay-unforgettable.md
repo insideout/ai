@@ -23,6 +23,6 @@ images:
     height: 845
     title: "Smart way to stay unforgettable"
 
-secured: "hpG5hrTDVYbfvIBpBGJrxrpfiVLh29EA5hyRjdOeB10t0BogU3okAYTLiLopNn15PLQ9qX1/Na2P70S3DCrZksay1ie0ROQ/rNw4+g8I9D3Zus5gQm+JLescDD9qUTn7wpkzRWyGldt2RiDwt5brl7jzsoiPK6rSMDSE63HlrpcgoPZXv2tfPiTKERzsY1TwWA+REEnapHQK67O+Trcros9VhVh5nd4m7Acw+kOnvjvuQ69KSGe6QNjm36pUW2j7GFu9xOB0rn1l1psL175vlghn9LLLcaVzv5Tim0AApEDB8/Jxt688fCLXUgR2oqET;gY7NyCaO+qJ/q+ZiSAQznA=="
+secured: "hfBDaY2n0NM99AGkV1fOHIByy8di7p3clyGP4+FKR69vZbBfauOv8XCnwwBSm+Vkp2j4G9VGJ5AybpOMj5UnyF0GPpF10XIg3u223RZH1bhqtx0WZ/Hw6B6fx5hxajpe1IfjL7osc9jA/eIac57LeH563uZV/vygbFj2ehyLKXXFDamjgSb2FNBxMFi+fUOK19wDpFcxmMaFcPOSktshcAwOeN2jeCB/thUo6lWhy6TLmyjgEn+eIsTWLVp252/qGnM7Ugl4UyL0inWU72gRSlZn4aNfC8I8CscwtbzsAjYc3LY6cXaThAvdQBQVG8o6;jXCBwZydwiQvW8kSa0DViA=="
 ---
 

@@ -36,6 +36,15 @@ related:
       - url: "https://mma.prnewswire.com/media/540539/UST_Global_Logo.jpg?p=facebook"
         width: 1443
         height: 757
+  - title: "Zensar's Smart Application Development and Maintenance services incorporate Artificial Intelligence"
+    excerpt: "Zensar, a leading digital solutions and technology services company that specializes in partnering with organizations across industries on their digital transformation journey, announced that its Smart Application Development and Maintenance (SmartADM) services now incorporate Robotics, Automation and Artificial Intelligence (AI). Sandeep ..."
+    publishedDateTime: 2020-01-28T11:30:00Z
+    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=261380"
+    type: article
+    provider:
+      name: Equity Bulls
+      domain: equitybulls.com
+    quality: 20
   - title: "CitiusTech Announces Partnership with Google Cloud to Accelerate Digital Transformation for Healthcare Organizations"
     excerpt: "... healthcare organizations through digital transformation in key areas such as data analytics, artificial intelligence, machine learning and hybrid cloud,\" said Manish Sharma, Sr. Vice President, Strategy & Partnerships at CitiusTech. \"Our combined technology will empower payers and providers to drive better outcomes and improve care quality.\""
     publishedDateTime: 2020-02-07T13:34:00Z

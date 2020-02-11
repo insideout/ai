@@ -7,8 +7,8 @@ webUrl: "https://www.technologyreview.com/s/615054/deepmind-ai-reiforcement-lear
 ampWebUrl: "https://www.technologyreview.com/s/615054/deepmind-ai-reiforcement-learning-reveals-dopamine-neurons-in-brain/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615054/deepmind-ai-reiforcement-learning-reveals-dopamine-neurons-in-brain/amp/"
 type: article
-quality: 38
-heat: 38
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - Google AI
 
-secured: "YD/dqbWwZHEbZg4k6/Kh/9mov1UDPwxzO35Q09geEKOu/89EO4GFhwiIfIfrjGMCgumqf+3hkM0shWBKmzkwsNv9vvZtXSNW7GHiXgWA5hn7PHp5TpbHluh8MtX3Hvfpez6nMo7CzGmzudviJ/jdno5X1Y+oIbV9lHVIu1Rxye9CzSYFvIxeWwCfYA1W4f62Bro2zVgnegGqohQGaYxvLritsEdeijvBj5pVZdqwZI5MOFhnaZViwuCCsgczYq4hmVqSdJf1IrfcXrVTFTKeY8MYeueLY0H7bs2uKnYOBL/z9WegT7hZyHWlPoPO4oX4;8YctqLKF9+WlRWHVXH0gPg=="
+images:
+  - url: "https://cdn.technologyreview.com/i/images/sadiseasesofnervou00gord-web.jpg?sw=600&cx=118&cy=106&cw=2723&ch=1532"
+    width: 600
+    height: 337
+    title: "An algorithm that learns through rewards may show how our brain does too"
+
+secured: "Xe6DoebrHVIo4YKdIXGedS68szkp1zM+gPMMKqNYUxsmys0+YCiG0KceixZr/E0wxa24dEXJ/OMe1kJ1aR9aPtMlbhoGzuLitUT7UnlZim+NZtbSj/wDr87a1xox15Jf4P+roa2skXg2s5ryZjPrJ0SASvr3KSBtstUH7tiQSUpBiWrAIIl7BR56BmmdKqnr+uRs7bEwqmzuMJ22EsDQBRteZCVwsayUhd+dX5cAyR1Q3u2fz0MwyGpMAgmlL+AB97fp7Ys8SAtHPpEiLSIPu+iu0BXKpDr14rkRgSpWBog0Ul0uqD6cqQhkVYpU7WpC;h+8y7FMg7VfK0rPWFnd7WA=="
 ---
 

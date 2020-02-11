@@ -78,19 +78,6 @@ related:
       - url: "https://www.housingwire.com/wp-content/uploads/2020/01/F1-header.png"
         width: 1010
         height: 599
-  - title: "The road ahead for AV in the age of self-driving cars"
-    excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
-    publishedDateTime: 2020-01-28T10:25:00Z
-    webUrl: "https://www.avinteractive.com/features/blogs/road-ahead-av-self-driving-cars-28-01-2020/"
-    type: article
-    provider:
-      name: avinteractive.com
-      domain: avinteractive.com
-    quality: 24
-    images:
-      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
-        width: 620
-        height: 330
   - title: "Big Data Trends in Financial Services"
     excerpt: "... has become one of the main Big Data priorities in the financial services industry. Versive is a company that created software that they claim can help financial institutions and banks analyze massive transaction datasets and cybersecurity data using machine learning. The software is called Versive Security Engine and is touted as being ..."
     publishedDateTime: 2020-02-03T13:34:00Z

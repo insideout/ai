@@ -50,19 +50,6 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2010/05/HBRAS_research_paper.png"
         width: 1200
         height: 675
-  - title: "Fugro wins ISFOG 2020 machine-learning competition"
-    excerpt: "A team of Fugro employees has won a global competition in geotechnical machine-learning. Competing with 60 other teams from industry and academia around the world, the Fugro team came first in the pile-driving prediction event organised as part of the International Symposium on Frontiers in Offshore Geotechnics (ISFOG) 2020 conference ..."
-    publishedDateTime: 2020-02-06T14:06:00Z
-    webUrl: "https://www.directionsmag.com/pressrelease/9527"
-    type: article
-    provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 24
-    images:
-      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/February/6/7/39d7ac5e-f4b5-445a-b757-4205f399e7a7-sized"
-        width: 800
-        height: 600
   - title: "Machine Learning in Nursing Market"
     excerpt: "Request Sample Copy of this Report at https://www.qyreports.com/request-sample/?report-id=224317 Report defines competitors in this market of Global Machine Learning in Nursing Market. The Top Most Key Players in the market are as Microsoft Azure, HIPAA. The growth rate of the sales and income figures of the Machine Learning in Nursing market ..."
     publishedDateTime: 2020-02-06T11:30:00Z

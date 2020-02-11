@@ -29,45 +29,6 @@ images:
     title: "Aquant raises $30 million for AI that gives customer service agents mission-critical data"
 
 related:
-  - title: "Iguazio raises $24 million for AI development and management tools"
-    excerpt: "AI adoption levels are higher than they’ve ever been in the enterprise. According to a January survey conducted by Gartner, corporate use of AI grew 270% over the past four years. But developing, deploying, and managing AI applications at scale requires a platform that supports doing so, which is what startup company Iguazio provides."
-    publishedDateTime: 2020-01-27T12:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/"
-    ampWebUrl: "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 191
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/Logo_-_updated.jpg?fit=1200%2C627&strip=all"
-        width: 1200
-        height: 627
-  - title: "Fundraiser Enablement Solutions Company Gravyty Raises $21 Million"
-    excerpt: "Fundraiser enablement solutions company Gravyty announced it raised $21 million from K1 Investment Management Gravyty ... build donor pipeline at scale, inspire giving, and raise revenue on their missions to change our world. “Higher Education is going to change more in the next ten years than it has in the past 100. I believe this means ..."
-    publishedDateTime: 2020-01-29T12:02:00Z
-    webUrl: "https://pulse2.com/gravyty-raises-21-million/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 117
-  - title: "AI and disinformation join nukes in the race for armageddon"
-    excerpt: "Some analysts say China is surging ahead with the development of artificial intelligence (AI), and perhaps even dominating the field. Huawei's founder Ren Zhengfei would beg to differ. The US government has yet to figure out the implications of AI, but China hasn't even started thinking about it, Ren told the World Economic Forum in Davos last ..."
-    publishedDateTime: 2020-01-28T05:11:00Z
-    webUrl: "https://www.zdnet.com/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2018/09/12/68bc9baf-bca9-4377-a59d-94d87c57e3be/thumbnail/1200x675/f52ca7b39d4fe3985df2389980bf8973/fibre-broadband.png"
-        width: 1200
-        height: 675
   - title: "Gravyty raises $21 million for AI fundraising platform"
     excerpt: "To help bolster their efforts, Adam Martel and Rich Palmer founded Gravyty in 2016, a Newton, Massachusetts-based startup leveraging AI and machine learning to help nonprofits reach their fundraising goals. In a vote of confidence this week in the startup’s efforts, investment firm K1 Investment Management announced a $21 million investment ..."
     publishedDateTime: 2020-01-27T14:38:00Z
@@ -83,96 +44,34 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/stewardship-mac2.png?fit=1200%2C697&strip=all"
         width: 1200
         height: 697
-  - title: "Kneron raises $40M for edge biometrics and AI chip development"
-    excerpt: "a developer of AI algorithms and AI-optimized processor designs for use in edge devices such as surveillance cameras and other smart home products, raised an additional $40 million to further develop its products. Kneron, which has over 150 employees, has raised $73m to date. Kneron unveiled its first chip, the KL520 in May 2019. The chip ..."
-    publishedDateTime: 2020-01-27T17:49:00Z
-    webUrl: "https://www.biometricupdate.com/202001/kneron-raises-40m-for-edge-biometrics-and-ai-chip-development"
+  - title: "A startup that teaches coding to six year olds raises ₹7 crore in seed funding"
+    excerpt: "Its SmartTech programme ropes in children as young as six years — helping them build skills and confidence to create tech products via coding, robotics, smart devices and AI. \"After-school-education for the K6 segment in India has been highly fragmented. At the same time, the rise of the middle class allows parents in urban India to start ..."
+    publishedDateTime: 2020-01-28T05:48:00Z
+    webUrl: "https://www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/articleshow/73687943.cms"
+    ampWebUrl: "https://www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/amp_articleshow/73687943.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/amp_articleshow/73687943.cms"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 53
     images:
-      - url: "https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg"
-        width: 300
-        height: 250
-  - title: "OpsRamp raises $37.5 million to apply AI to DevOps processes"
-    excerpt: "Ever heard of AI for IT management (AIOps)? It’s a burgeoning ecosystem of platforms and products that enhance IT operations by leveraging AI to analyze data collected from various tools and devices. Research and Markets anticipates it’ll be a $14.3 billion segment by 2025, and one of the startups leading the charge is OpsRamp. Raju Chekuri ..."
-    publishedDateTime: 2020-01-30T08:00:00Z
-    webUrl: "https://venturebeat.com/2020/01/30/opsramp-raises-37-5-million-to-apply-ai-to-devops-processes/"
+      - url: "https://www.businessinsider.in/thumb/73688111.cms?height=275&width=412"
+        width: 412
+        height: 275
+  - title: "Yogi Closes $2.3M Seed Financing to Expand Its Deep Learning Customer Feedback Analytics Platform"
+    excerpt: "NEW YORK--(BUSINESS WIRE)--Yogi, a customer feedback analytics platform deploying deep learning for actionable product insights, announced today that it has raised $2.3M in seed funding, with RTP Ventures leading, and Felton Group LLC, the family office of Jaffray Woodriff, participating in the capital raise. Existing investors Entrepreneurs ..."
+    publishedDateTime: 2020-01-27T15:23:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200127005161/en/Yogi-Closes-2.3M-Seed-Financing-Expand-Deep"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "The Development Of Memory And Storage Devices"
-    excerpt: "In the computing world, there is a lot of excitement over the technological advancements that that take place such as augmented reality, driverless cars, smart homes, artificial intelligence, voice control etc. But none of this would matter if there were no memory storage devices that could read and transfer data quickly and reliably."
-    publishedDateTime: 2020-01-28T10:33:00Z
-    webUrl: "https://www.androidheadlines.com/2020/01/the-development-of-memory-and-storage-devices.html"
-    ampWebUrl: "https://www.androidheadlines.com/2020/01/the-development-of-memory-and-storage-devices.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/the-development-of-memory-and-storage-devices.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
     images:
-      - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/01/microSD-card.jpg"
-        width: 1000
-        height: 750
-  - title: "IBM Debuts IC922 Power Server for AI Inferencing and Data Management"
-    excerpt: "Few details were discussed at the briefing and in response to an emailed question about those plans, IBM responded, “IBM believes that just as training required specialized software, so does AI inference. Our Watson Machine Learning Accelerator product family continues to evolve to leverage the latest capabilities of IBM Power Systems for AI ..."
-    publishedDateTime: 2020-01-28T17:30:00Z
-    webUrl: "https://www.hpcwire.com/2020/01/28/ibm-launches-ic922-power-server-for-ai-inferencing-and-data-management/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 41
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/IBM-IC922.png"
-        width: 1094
-        height: 564
-  - title: "Year begins with bang for AI drug development"
-    excerpt: "The company noted that less than 5% of AI professionals are working in health, despite this being the area of ‘most urgent application’. As a result, Microsoft will work with nonprofits, academia, and research organizations to provide them access to AI ..."
-    publishedDateTime: 2020-01-31T15:55:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2020/01/31/AI-takes-leap-forward-in-drug-research"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 39
-    images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/article/2020/01/31/ai-takes-leap-forward-in-drug-research/10657792-1-eng-GB/AI-takes-leap-forward-in-drug-research.jpg"
-        width: 788
-        height: 443
-  - title: "Zensar's Smart Application Development and Maintenance services incorporate Artificial Intelligence"
-    excerpt: "Zensar, a leading digital solutions and technology services company that specializes in partnering with organizations across industries on their digital transformation journey, announced that its Smart Application Development and Maintenance (SmartADM) services now incorporate Robotics, Automation and Artificial Intelligence (AI). Sandeep ..."
-    publishedDateTime: 2020-01-28T11:30:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=261380"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 20
-  - title: "Ethiopia to launch artificial intelligence development center"
-    excerpt: "The regulation is expected to provide quality services, products and solutions for beginner developers working on artificial intelligence. Though the country had no regulatory framework to govern and embrace such technologies, individuals efforts has been bearing fruits in applying AI and robotics in Ethiopia. In 2018 a robotics lab iCog ..."
-    publishedDateTime: 2020-01-27T12:35:00Z
-    webUrl: "https://newbusinessethiopia.com/technology/ethiopia-to-launch-artificial-intelligence-development-center/"
-    type: article
-    provider:
-      name: newbusinessethiopia.com
-      domain: newbusinessethiopia.com
-    quality: 19
-  - title: "The Robots Are Coming for Fund Management Jobs"
-    excerpt: "Remember Aibo, the computerized dog Sony Corp. started selling in 1999 as the first personal robot? Hiro Mizuno, the chief investment officer of Japan’s Government Pension Investment Fund, does. So he asked Sony’s computer science lab unit to build him a cyberhound using artificial intelligence to help oversee the external fund managers who ..."
-    publishedDateTime: 2020-01-31T07:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/the-robots-are-coming-for-fund-management-jobs/2020/01/31/68cc62dc-43f7-11ea-99c7-1dfd4241a2fe_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 19
+      - url: "https://mms.businesswire.com/media/20200127005161/en/769544/23/YogiLogo.jpg"
+        width: 1200
+        height: 627
 
 secured: "ixWcwVSdxhPnYJe2Erhpgq5LZEhK8KQRIFzd6sfjhZcLzsSJjdO6/QWcBzngR2+IewYlKJuZZyaWvRTiyLI5sqjK7EieD3Q2iHDAVCHcZOTyy3MbeUGHFlk16ia3FPb3AIiQCHzHvdF72h2y0y6SRbANh4MgJG05/dcwRUOevQROx6XKXRxXQFQTwGkwXbOPC8dfzCmGflnEaKVyZhpeP1GLcFaGuBMXdNnCEWh9NAbzXrp1uqG8ayzRZnzdz2mAsRmNX540XlYXq1dEnXAXZCH6yYta14z7wLNlpDlENP+tfki6Tq9BY8PKJcP42HG+cP6GpY/8KKgtEpDcbtYQyepFfVmS4gNBbL/WK+NcXTECkiKdsNnXH1y7COay1PJ++eg9Wgz72op2GEjewOvHSnHeGn1oXMFH3Bd29x1ou+v9bf3hPp/b0MDy1a1Vxv7PIQ3Oma7ISOWXZUmL6izuGO6vvXiysvDfq7jo9FEHQ1w=;Z+6JBBON+IU7wXLvK3Us7g=="
 ---

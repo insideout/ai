@@ -37,19 +37,6 @@ related:
       - url: "https://physicsworld.com/wp-content/uploads/2020/01/machine-learning-fig9.247.jpg"
         width: 914
         height: 453
-  - title: "Iguazio Deployed by Payoneer to Prevent Fraud with Real-time Machine Learning"
-    excerpt: "NEW YORK--(BUSINESS WIRE)--Iguazio, the data science platform for real time machine learning applications, today announced that Payoneer, the digital payment platform empowering businesses around the world to grow globally, has selected Iguazio’s platform to provide its 4 million customers with a safer payment experience. By deploying Iguazio ..."
-    publishedDateTime: 2020-01-27T12:06:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200127005311/en/Iguazio-Deployed-Payoneer-Prevent-Fraud-Real-time-Machine"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 38
-    images:
-      - url: "https://mms.businesswire.com/media/20200127005311/en/769537/23/Iguazio+logo+light+png.jpg"
-        width: 1200
-        height: 627
 
 secured: "bc1Vcyu27l1eNYe0sZEerrsexdZ77KZ9z2rMAp0akvp9HfTEaoVEakWRNbXkmxUqeEand+1p1pQr/uqgCZWNGpMK6tPRaIVl4HtKl0lRqtaHOy0qQyxdRcNCFPCgkD/MpN7mXTvxmtbXtF53/Zgax2RmXT9NWBpkd5/HS+iJ2FS+AiowKoVRkUzaEG2pdO38E+os5CzgSZFyfnnBjD/gyDAbp/A6hjXTT86zc0z6pQ9onoiyrYyHxfa53UmCyL0HQ4BVRm1bMqkUJitfNEZc9TJoKxR54zXOB0eEaIAP+C3/LN9dARUlPvdeBCa8bgMHl7Cm+rdx324CrN8SgZdHyXUz7JYnxwQDsRZdon66zuHTgETpMDOCyojAPjUaHfNIsrn2qfLqw/8N04wX+wdUOltjzQswYVoU4fSEQmavPBYW713sV4x2oPWjP/EtxXRr5jIJnHsPsrWhXiPhVbsfTl5o4KtpeSEvgtNWmbB9h+E=;xumDFmGoJuLWJsI/v/LMFA=="
 ---
