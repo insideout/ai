@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354744
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator?amp"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 528
     title: "MPs claim AI 'doesn't need' a new regulator"
 
-secured: "ydqc2G4pJB7Smc7WA/3TtPy2FB6LDkn45Bdzk/wcxgqHRXCICeTtzpDWJRIERSdJlXXI1O7QKuAMS1kmzH4pB0ejKZtV7B5/D1pvlv/qA7nJTMnoT5TzQzkYGmdEVbc4tDzehR3SLJWvxufnKtyWqx9XgnoakN/aJFFmWC4SN95NHhx1/LFm9LLDCn/dKdYEKf38Ds8ndXPflJphPRcbLhthTHpWBGpCbrJTHbf0zKAYNgnp+Sjh/L7kbX2MnhBM/+tXar9kYnfg2H5IbNU7//mnraRQ1hLBPEUge36kriBQOyCZfjGYev+BzeLcsbO0;UCkPIJyV8ASlzzv7YDShQQ=="
+secured: "6rZ39xeebDxZCbwTbVck7oIBIPNQM6grBdOJc2OE3UoVKVcdpd1gxpTamyzzYYU/FRaRt5amgE7kQOJ0Z/tgNvs4WVOUdeXZxBNAGVeV7dCU9cgMImJblYTw5QTx2Dh5FEbpVbKPJ1M/6zEJ+feqBgOz+AeBsPP6eBVTfsMQwiNtdUM5lZCYV2vd0bMB1HMAi2hjICJ4jpEbVuHJjGHDMpAkgoGQ14j/d5xsxgJncu3MrRVyyYATNNXzrJGClBl3YnkXCVEqQxf8BHS7UuklaJv2U5NPTDi+jPoy4UrvA8iV8B8cicWWduawVocxQh5uiw9JdTVSLPScY7y3+YbIdwIFqPvJDR+PrP9UzrTq1YCFguuPM4Z8xv2ZlaUmTespV/P/agTiPZ86rmLKkrGkakuY6/5/rp6xK+KBmO8fMFYDSbm5S1jMaWYcMWwptOe8/PXDiP4Y8lhkTajgSaHmRff4bH3iy8ZQnfxmpbw4tzk=;B2dMEALUozm+S7dXjbmyUw=="
 ---
 

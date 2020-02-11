@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T09:58:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential-2020-01-28"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 630
     title: "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential"
-
-related:
-  - title: "Global Artificial Intelligence Market"
-    excerpt: "Artificial Intelligence Market report is an extensive analysis of all available companies with their growth factors, research & methodology, Artificial Intelligence Market Dynamics, Business Overview, Sales, Revenue, Artificial Intelligence Market Share and Competition with other Manufacturers."
-    publishedDateTime: 2020-01-27T17:36:00Z
-    webUrl: "https://www.openpr.com/news/1909875/global-artificial-intelligence-market-analysis-data-of-leading"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
 
 secured: "Q9qqVKpQIcM9JQi5u+MvQJtvSGFE6HHWOCLtpsZBZJoqvcSaL1ns+VdVHS02KgS8S4944HigWu0djJtaGzPMdlKCWA7bK0zUNHbv6UqVkE9niRSwxiidEvTH6Ma2hqSw1HmAuV99iA4+Nzun9/EDufauzeQ/xW55KCqKSgVXMFCP8JiG9JH9qr2qFUkqSwHvMma2z95sJS9gZlq0orvdNfOzhrKc37gDhC5Cjm4NFH8B3zRPzHUg5PWxTOvuggOrxMP8eF5eRSNz2hUKNUUw0MhVwufjbbcTZytk4WExWpnQ2jutU70q1W2+fE+dwxDT;skTNAJN6wAlyDvO3d4EBig=="
 ---

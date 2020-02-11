@@ -69,19 +69,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/custom/image/5b4e41b6-2b8d-11ea-8eae-5b294050394f.png"
         width: 800
         height: 448
-  - title: "Self-driving vehicle coming to Fargo area to improve work safety"
-    excerpt: "FARGO — A self-driving vehicle is expected to hit the road in the Fargo area later this year. The Federal Highway Administration has awarded the North Dakota Department of Transportation a $241,687 grant to improve work zone safety with a self-driving ..."
-    publishedDateTime: 2020-02-08T01:37:00Z
-    webUrl: "https://www.thedickinsonpress.com/business/transportation/4927484-Self-driving-vehicle-coming-to-Fargo-area-to-improve-work-safety"
-    type: article
-    provider:
-      name: Dickinson Press
-      domain: thedickinsonpress.com
-    quality: 24
-    images:
-      - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
-        width: 1140
-        height: 712
 
 secured: "EP8MPPveECY5QHb0Tclse1UQfKpsKPwYj/UeXKI7Gqj6Sye+zG924LUR+A4tRdyZ7vw8QuRvVoed3mdU9WYR7qzApgxbfWNZOZo7ptYzRkNv38Oer24bu18u1Z0uhLyu2XScELsNj3e11078LKttSb5cf2MPacJgBQHF2IehkE5zHhhWAQ7mfVsNv2lpruh00Sr8pWEbPJBBrv8kFgd86N0FfFlIioKUfFHwN1dXFHdgMISLh2ygGc4kaQIOJFmlCATlW3rVaT6t2SFS7nNb21mogCWqCBnS1InSApTJo55RojROEMih34PkU/HivMfS9HIlSxKkxB1N8ChPk5t/UBBdJbhN+85BMuaeOs2Z0LNEh4ywc+b9JhtXQHqhjpj9YJE2WANHgefCdGjVxUI5i8mWj7XSxaQvlmbp5PTt/9Sc33iNxHeDwTJco9bkGF/Vw9tkkjCB2UWa8DSpJLO95Q0M14BEGMsGGg7vpGE1GqU=;p/aHPEbayc03c9x4zCGYqQ=="
 ---

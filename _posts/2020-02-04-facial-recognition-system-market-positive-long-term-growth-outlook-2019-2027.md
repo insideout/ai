@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-04T18:47:00Z
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04"
 type: article
 quality: 66
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -119,6 +119,15 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
+    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion by 2025, Says \"Meticulous Research, where Asia Pacific speech and voice recognition market is expected to grow at the highest CAGR. Voice and speech recognition technologies authorize contactless control to several devices and ..."
+    publishedDateTime: 2020-02-11T11:51:00Z
+    webUrl: "https://www.openpr.com/news/1927505/top-companies-operating-in-the-global-speech-and-voice"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "r/2hRTcXCZPfKdUnoBoPkMQisKGM55YRfQnOyWYKc8GklaRoQekWnboWSfKMlD3CbEPlKS9W94vvuaqDdySjLJikqHnQbxdtK5qZuFhMujvZCkLuGgbqiqJsc5G2bcay/2AETpTlbfuo7va5cCmuEBa/22SPEH3gEEDysr+35zbPUayTOKlHocpUE/pUk1vHUkqPHQvDDPgD1Btoe31WGVJpbwu+naBOcy/n8/Kyj8CxqsZBfmIihmbIS7ATyyd85hTxs9fY8roXc8u4ZP76WMXWo/lZgwLl0LQFCXu3a/jUd/mrJBXu9WDn8tIMutEy;GiuGhV4jfOkdMebAIVz+og=="
 ---

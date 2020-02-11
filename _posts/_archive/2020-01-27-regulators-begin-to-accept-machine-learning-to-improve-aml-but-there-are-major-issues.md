@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Regulators Begin to Accept Machine Learning to Improve AML but There Are Major Issues"
-excerpt: "This wide-ranging article identifies how regulators have slowly opened up to accept the use of machine learning models as a method of detecting AML activity, yet they remain concerned regarding the models’ lack of transparency. It reviews public comments made by key regulators regarding technology and the need to maintain balance between ..."
+title: "Regulators Begin to Accept Machine Learning to Improve AML, But There Are Major Issues"
+excerpt: "In her address entitled “What Are We Learning about Artificial Intelligence in Financial Services?”, she told delegates she is optimistic about the potential for AI and machine learning in particular, but guarded on how new machine learning models can be audited. Dr. Brainard’s well informed speech begins, “Modern machine learning appli ..."
 publishedDateTime: 2020-01-27T18:03:00Z
 webUrl: "https://www.paymentsjournal.com/regulators-begin-to-accept-machine-learning-to-improve-aml-but-there-are-major-issues/"
 ampWebUrl: "https://www.paymentsjournal.com/regulators-begin-to-accept-machine-learning-to-improve-aml-but-there-are-major-issues/amp/"
 cdnAmpWebUrl: "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/regulators-begin-to-accept-machine-learning-to-improve-aml-but-there-are-major-issues/amp/"
 type: article
-quality: 69
-heat: 69
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -17,15 +17,29 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
   - AI in Finance
 
 images:
   - url: "https://www.paymentsjournal.com/wp-content/uploads/2020/01/2389352-1024x684.jpg"
     width: 1024
     height: 684
-    title: "Regulators Begin to Accept Machine Learning to Improve AML but There Are Major Issues"
+    title: "Regulators Begin to Accept Machine Learning to Improve AML, But There Are Major Issues"
 
-secured: "ntv8ONmDU4X8uspq3zfWNw7Ov3NC9XDF9oqFVHJm6WpAT9iCBBahsw8Vvg2X3OYbtkg0T96K4ngHuh4TS0tRQ1SQ73I6tmT7vGcWBM/lQ+d7kpd1h5C67DHffZo+4qRl0rBDEG3zTPZ+w0DXHZWUBzkaNZl5B3K6oPa0chlrX1Led93T+PJeJmYbFKpm1lOfNbU2Y1I8k+H/UHCRyf/BEILgkVvIYi5iOya5svdLTWgvhSRocHW5FXsEL/VfoGwnPKNFxekHKcJBJL5b/mZLCadIXfZKOsvdcDTCcAyEuPCLJVaiVOHKVlx/WwdI2F//jGz0HoDnOaFuTo5VtwLjanwYEEIH8LIxDtewBBxfEWBuOMiNu/M8TaEEukpnucAwxhqc4X5QRDAeEqC832pNVV46gpVzkDooUGaPfpzWdTwaCfTnDJnD9u3+iC2hzBkeoTnqrLliLKGiU5q9UrZWzmH9+R3y2YOPURynZy5LjRA=;IFT67TjuSUuSwSQ6PtYCrA=="
+related:
+  - title: "What do AML-BSA-CTF Regulators think of Machine Learning?"
+    excerpt: "In her address entitled \"What Are We Learning about Artificial Intelligence in Financial Services?\", she told delegates she is optimistic about the potential for AI and machine learning in ..."
+    publishedDateTime: 2020-01-25T18:37:00Z
+    webUrl: "https://www.finextra.com/blogposting/18373/what-do-aml-bsa-ctf-regulators-think-of-machine-learning"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://cdn2.hubspot.net/hubfs/178283/iStock-844535726.jpg"
+        width: 702
+        height: 497
+
+secured: "QEqNA10jttLN3zTGq1sjuDWamiwxLmzstJGxZD5ohaJBVuWw2QQ7DKfLNJIBHkbzrWu2R8Cm5m64AbrKjYuO3KaUUOixNhkW4/7AKjy51+3/3HkCXu9HbL4LgKXwYztPJzE39KIX1aeZqRuBICPKKMo8I0C2H0jfLzInwkqnsK6nWh0G570lPk2cvnqNLIBNNh0MqlCoIAmsoOtPodZFd5r9mfUBNp/jHrbJOyfrKx1okF3g4frzkYbLSy4Ivl8XkSi0ooAxCWd66acWBIfpCZdHqVZMdxYxdyZz67kLGJ4lOO+H9KGpZAg9rsnGhqNp;uXfs9lj9FdkMoQIjqJnpOg=="
 ---
 

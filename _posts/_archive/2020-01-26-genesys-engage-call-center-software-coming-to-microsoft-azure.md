@@ -5,7 +5,7 @@ excerpt: "Microsoft and Genesys expanded their partnership to provide a new clou
 publishedDateTime: 2020-01-26T21:00:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
+    width: 320
+    height: 210
+    title: "Genesys Engage call center software coming to Microsoft Azure"
 
 related:
   - title: "2 major security flaws detected in Microsoft Azure Cloud: Know what they are"
@@ -49,6 +55,6 @@ related:
         width: 1200
         height: 400
 
-secured: "OXiyzvROp8RaQ4SDIDIrB1OOZCMh95bVdb9yMP3dgZuvjFkA2h7kN4qYfLsB+WD6l/z5ZYrHJcceHLUBXYPBhNL/mymBGCLuFByqxtNUwHmlnGR/bg5mJ8vPdz6ox7/0dKQ879VjQBD6tjkpnue+WHT1DyL2QYkSol0FSJdPHBhQaeh8E058Umnvwd1UEtp2AwsUFObMHxDeE3GHQIEIJhIvDeooxG3HJOIwYfekOLYbJOK1UY6dnjOPblqjpNfl2oeJhqWow3oonLkgAhKucqEUS+gy+lrXu9qHrX585svY7VFgza1P7FIRSUWTI0jV;FHCqWKaiPN64mV7yKs8yog=="
+secured: "mgO1QxgkEvRpqrxYd2HFPFNiov+QSoImQ47KsrX6ULB68xgdaBMu2yP9IIkUrdTL4ZV/TtsCRedaW1nR2kCfHTtfG0aD9iP6mXhETtv8zzYYz6acBTJra4YC3jhrxxEc4v1G2a63OXd3EwSGcJMfmm9RT7vLgEnl9f9UldfZU7hJc4Sev/H9Fcg0Q8kp+o5VQ9PhqIZxbB5/gJAZRGMrjIxKrH6iQQ3L4Lnvm2PbfeasiXd6KWUjS8Vs6G9FNFiQGB1/thlURebJkCA2//fKxQanVlX2iSSrJsvKszTsvoEadi/IqqbxdSUL66ecELOr;VokO27qPt8zuPSkEOw0HCg=="
 ---
 

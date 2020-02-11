@@ -4,10 +4,12 @@ title: "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores fund
 excerpt: "James Peng and Tiancheng Lou, formerly of Baidu and Google respectively, raised $112 million in series A funding for their new self-driving tech ... parent company of CNBC and CNBC.com.)"
 publishedDateTime: 2020-01-20T00:00:00Z
 webUrl: "https://www.cnbc.com/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
+ampWebUrl: "https://www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html"
 type: article
-quality: 36
-heat: 36
-published: false
+quality: 76
+heat: 86
+published: true
 
 provider:
   name: CNBC
@@ -21,6 +23,23 @@ topics:
   - AI
   - AI in Autos
 
-secured: "78qF6xE3KSNYtmt+Cre0MMPONLN57LoP81jCKb/jDwvj7+hKdTg/2Xk56uef/yw7j0O8W/nKjbHGMQ9U8xKz4idf72KkUkGWlUjCnYCvG+BkQGF+HPKMJHZGtbxrpFGxExlme1mWueMJqq89cylLEv1EB4IE8R0dSzcQCS78QOHmGli75Ct7S2MKG3ZpNOLbxag6mW0xR4JKCLk1XXMeyhmpP1kI5rAddwmldv/oLffRvtrdD/2OAxoXSvRiHRa9ujYMMiWpXJCCVeyF4ZXkeErUA4b8zwYF427CcmSdNIy5chKrJfa3LkgXjRWVBw33;5aALu2Nc3BYcjZqvHREQPg=="
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/104874500-GettyImages-647709384-pony-ma.jpg?v=1532563719"
+    width: 2004
+    height: 1336
+    title: "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars"
+
+related:
+  - title: "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)"
+    excerpt: "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ..."
+    publishedDateTime: 2020-01-23T00:00:00Z
+    webUrl: "https://www.bizjournals.com/nashville/video/6082077878001"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+
+secured: "/orV9n3YL6ca6IxjvzTYBPv1m9EUhZUi2fFYgMtLzdpkLc8/b4q0fDHZJpTdIpUVPmn+HLHBDtLQWRGv5NNel2572mA0h++mbqM4wbmfU3A2LL1lhJsEtJO8d2BcD/v9GTQltAYuPy5eT1145r6X8OCpY15j4XdtN3jR3UgqjL0d11AznYiKb9eXUaoEnF5IlfpM75W6teYxCxoP3YB5YMlKoclvZwH6qEuhZxrYYM9f2YhP/+iBEihYfUrYtbMs5O1CmSKLS9xCd8ZtNVsvi8qxaZawDjjv0ArUDNxHBuk+2KzYBhFYje2EEZje1uVP;gVh8riUciUO7nhIxX+r+2A=="
 ---
 

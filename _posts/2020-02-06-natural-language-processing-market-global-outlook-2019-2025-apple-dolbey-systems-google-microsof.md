@@ -119,6 +119,15 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
+    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion by 2025, Says \"Meticulous Research, where Asia Pacific speech and voice recognition market is expected to grow at the highest CAGR. Voice and speech recognition technologies authorize contactless control to several devices and ..."
+    publishedDateTime: 2020-02-11T11:51:00Z
+    webUrl: "https://www.openpr.com/news/1927505/top-companies-operating-in-the-global-speech-and-voice"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "MC2IaaKMfc4I+rSY6J1SnF2zNQ966YpGFIFG/eH3S51Dh9SgeaeXY3BZ56ERSjWoPi7IcB4GLrg+Gx34VW89vYwOqnZrVFmHWk8o82OdIYzbYlTN/EaC1LwH++/M/LuhZba1APm17qdgyU4SZebDa+Y8rNhP0NdjD/ZV1Z/UJqw9pwTwD/VQ/Sc70EQ3Huh6egqnRH1NYZuKj2zi2xtZ53++t90gvTI0/1hXrWjclmMiKpymwLJ3uEXSORxxpqKPF7yExxCZ7naQJejgHpdiJT1GODY+uwIvGXZoFBhKVlxrmAC/C2LrHGCNhpsu2zo3;DA6sev77aYEe/HTtvFxFFg=="
 ---

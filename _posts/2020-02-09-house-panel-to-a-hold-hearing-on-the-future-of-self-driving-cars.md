@@ -41,6 +41,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/07/20190718_Cruise_AV_ISO_FINAL_MB_WBGRND-1-e1573598957728.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app"
+    excerpt: "What started out as a temporary pilot project to test a robotaxi service in Las Vegas has turned into a multi-year partnership between self-driving software company Aptiv and Lyft and a new milestone that suggests the operation is ramping up. The companies announced Tuesday that they’ve given 100,000 paid rides in Aptiv’s self-driving ..."
+    publishedDateTime: 2020-02-11T11:07:00Z
+    webUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/"
+    ampWebUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024"
+        width: 1024
+        height: 576
   - title: "Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars"
     excerpt: "In late 2018, Krzysztof Czarnecki, a professor at Canada’s University of Waterloo, built a self-driving car and trained it to navigate surrounding neighborhoods with an annotated driving data set from researchers in Germany. The vehicle worked well enough to begin with, recognizing Canadian cars and pedestrians just as well as German ones."
     publishedDateTime: 2020-02-03T07:00:00Z
@@ -71,6 +86,17 @@ related:
       - url: "https://wp-assets.futurism.com/2020/02/waymo-workers-people-keep-injecting-drugs-self-driving-cars-600x315.jpg"
         width: 600
         height: 315
+  - title: "What Lyft and Aptiv learned from 100,000 self-driving car trips"
+    excerpt: "Lyft and Aptiv’s partnership to develop self-driving cars for ridesharing has reached a major milestone. Aptiv cars operating on the Lyft network in Las Vegas have completed 100,000 trips. The two companies will not discuss scaling up the program, but said the Vegas deployment will serve as a “blueprint” for more widespread use of self ..."
+    publishedDateTime: 2020-02-11T10:00:00Z
+    webUrl: "https://www.digitaltrends.com/cars/lyft-and-aptiv-reach-100000-self-driving-car-rides-in-las-vegas/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/lyft-and-aptiv-reach-100000-self-driving-car-rides-in-las-vegas/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/lyft-and-aptiv-reach-100000-self-driving-car-rides-in-las-vegas/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
   - title: "Waymo Self-Driving Car in Manual Mode in Crash"
     excerpt: "Feb. 3, 2020—A Waymo self-driving minivan operating in manual mode was involved in a rear-end collision in a Phoenix suburb, reported Houston Chronicle. The collision occurred late Thursday night in Tempe when the sedan “erratically swerved\" in front of the Waymo vehicle, “braking aggressively and abruptly slowing down to a full stop on a ..."
     publishedDateTime: 2020-02-03T17:40:00Z

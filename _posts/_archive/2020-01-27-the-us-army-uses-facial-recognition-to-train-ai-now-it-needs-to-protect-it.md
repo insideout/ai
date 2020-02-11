@@ -4,8 +4,10 @@ title: "The US Army uses facial recognition to train AI. Now, it needs to protec
 excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 61
+quality: 101
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+    width: 1200
+    height: 763
+    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -1181,19 +1189,6 @@ related:
       - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
         width: 512
         height: 512
-  - title: "Privacy Groups Urge Suspension of Federal Facial Recognition use"
-    excerpt: "A group of privacy and civil liberties groups wrote a letter to the Privacy and Civil Liberties Board (PCLOB) urging the board to demand that the President and Secretary of Homeland Security suspend the use of facial recognition systems by Federal agencies. The Consumer Federation of America, Electronic Frontier Foundation, and Electronic ..."
-    publishedDateTime: 2020-01-27T17:19:00Z
-    webUrl: "https://www.meritalk.com/articles/privacy-groups-urge-suspension-of-federal-facial-recognition-use/"
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 39
-    images:
-      - url: "https://cdn.meritalk.com/wp-content/uploads/2017/03/facial-recognition.jpg"
-        width: 800
-        height: 450
   - title: "EU Considers Ban on Use of Facial Recognition Technology"
     excerpt: "The European Union is considering a temporary ban on the use of facial recognition technology because of data privacy concerns. Next month Margrethe Vestager, the European commissioner for digital policy and antitrust, will publish a paper setting out the EU’s plans for regulating artificial intelligence over the next five years. This paper ..."
     publishedDateTime: 2020-01-28T23:34:00Z
@@ -1682,6 +1677,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "EvjPcEvwK+0vDhWk0DtozrDCxjkRCiw8vylh5R9IrQn6ZCLhq75arxREK7NnND2Jm5AXLWNRmvPY/60HeJyaLytAJ1PDA0GVtD+1ertXtkrrZJ1XEs5iI2Pw9FbqMu7o4XDXMasdceE62x0Hzj576ApelN0t5VZ88SYty4k46S3AL4o+xn5vSZBbFASWn2HL/aDiAkIP18GjU+cdh5x2EmiItlVD6qEtmmBPqD6q0zOKBfZe0stmR4I7NQW2NQ6aV4gwGmz6HjEMtcAkqxCV9LMj++p08U8g4SycL9F8Jc/HEVZ0oh0vfDxVMoZ/riXXIMQc0Iax2UBeVUnrWAeOv5O1m/eiRUJXps39xRbkkBCkiuaBOvpsHll1zdLeZ/eIS0h5z87DaixfJyweUmBPmmTPwJB7Fpllx1BczH/1zcE1fSCmW0Ql3cIrIgI0WqUx4pRzbd2SXqAfunT3TYThw5JLQyHojqIAo9yOXPYntrk=;fzPXhDqulHUlWim6pSiw3w=="
+secured: "jsX8Bi4YwTPTy54TdrFhJteXhYDEZM1Y7bTLBUeyF0Rq4JG5IasSYNGZEhRxSKCztwK4yuxmRy1YbgyKZ0c7L1beli1osJ2tgYjhYa0SM/hDQf+U+iWYVkndg9ltizKrCzrUT4W/xDTuDTzsx+DGPd+8qd/oBOme4hgsvlrniZnzPWEfNWRFfb0HmHSZER7A4VbLpV8EkMHE0qL/ltALpvMocMUwOF4cP7kL/NlRUdSnK5woh4oCmGbTOcQg4tzRYjTrt6nrmpPa2qUz2rex7qIIzZvkm/RmQH+uJ/n7l8cP+S5Tr+qSM09J7SKfjkX5;jMToW61Qi51AwPxlTwRYcg=="
 ---
 

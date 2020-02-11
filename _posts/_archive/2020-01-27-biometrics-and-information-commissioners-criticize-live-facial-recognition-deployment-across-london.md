@@ -1,27 +1,27 @@
 ---
 category: news
-title: "40 groups call for US moratorium of facial recognition technology"
-excerpt: "The news: Government use of facial recognition technology should be banned “pending further review,” according to 40 organizations that signed a letter calling for a recommendation to be made to the president. The letter, drafted by the privacy advocacy group Electronic Privacy Information Center, or EPIC, cites the recent New York Times ..."
-publishedDateTime: 2020-01-27T19:07:00Z
-webUrl: "https://www.technologyreview.com/f/615098/facial-recognition-clearview-ai-epic-privacy-moratorium-surveillance/"
+title: "Biometrics and Information Commissioners criticize live facial recognition deployment across London"
+excerpt: "The UK government’s Biometrics Commissioner has criticized, alongside MPs and human rights organizations, the Metropolitan Police’s deployment of live facial recognition-equipped cameras across London, writes Public Technology. The Commissioner claims a recent High Court decision does not give the police free reign to roll out biometric ..."
+publishedDateTime: 2020-01-27T19:14:00Z
+webUrl: "https://www.biometricupdate.com/202001/biometrics-and-information-commissioners-criticize-live-facial-recognition-deployment-across-london"
 type: article
-quality: 139
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: MIT Technology Review
-  domain: technologyreview.com
+  name: Biometric Companies
+  domain: biometricupdate.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0_0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432"
-    width: 768
-    height: 432
-    title: "40 groups call for US moratorium of facial recognition technology"
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+    width: 1600
+    height: 1035
+    title: "Biometrics and Information Commissioners criticize live facial recognition deployment across London"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -69,6 +69,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e31b7ba8b6cf300071d4b8f%2F0x0.jpg"
         width: 1200
         height: 800
+  - title: "40 groups call for US moratorium of facial recognition technology"
+    excerpt: "The news: Government use of facial recognition technology should be banned “pending further review,” according to 40 organizations that signed a letter calling for a recommendation to be made to the president. The letter, drafted by the privacy advocacy group Electronic Privacy Information Center, or EPIC, cites the recent New York Times ..."
+    publishedDateTime: 2020-01-27T19:07:00Z
+    webUrl: "https://www.technologyreview.com/f/615098/facial-recognition-clearview-ai-epic-privacy-moratorium-surveillance/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 139
+    images:
+      - url: "https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0_0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432"
+        width: 768
+        height: 432
   - title: "India's railways to use facial recognition amid privacy fears"
     excerpt: "Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday warned could breach people’s privacy in the absence of stringent laws."
     publishedDateTime: 2020-01-28T14:33:00Z
@@ -84,6 +97,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
+  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
+    publishedDateTime: 2020-01-27T09:55:00Z
+    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+        width: 1200
+        height: 763
   - title: "British watchdog urges caution over police facial recognition plans"
     excerpt: "LONDON, Jan 28 (Thomson Reuters Foundation) - Britain’s surveillance watchdog urged the government to set up inspections of police on Tuesday, amid concern over the growing use of facial recognition technology to locate offenders. The government’s Surveillance Camera Commissioner Tony Porter said it was not clear that the right balance ..."
     publishedDateTime: 2020-01-28T17:25:00Z
@@ -462,15 +490,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
-  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
-    publishedDateTime: 2020-01-27T09:55:00Z
-    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 61
   - title: "Ban Facial Recognition on College Campuses, Activists Say"
     excerpt: "A campaign to ban facial recognition on college campuses has just been launched by the non-profit organizations Fight for the Future and Students for Sensible Drug Policy. Facial recognition technology is already being deployed in some public school systems, so the organizers want to get ahead of the spread of pervasive surveillance to higher ..."
     publishedDateTime: 2020-01-28T21:20:00Z
@@ -1179,19 +1198,6 @@ related:
       - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
         width: 512
         height: 512
-  - title: "Privacy Groups Urge Suspension of Federal Facial Recognition use"
-    excerpt: "A group of privacy and civil liberties groups wrote a letter to the Privacy and Civil Liberties Board (PCLOB) urging the board to demand that the President and Secretary of Homeland Security suspend the use of facial recognition systems by Federal agencies. The Consumer Federation of America, Electronic Frontier Foundation, and Electronic ..."
-    publishedDateTime: 2020-01-27T17:19:00Z
-    webUrl: "https://www.meritalk.com/articles/privacy-groups-urge-suspension-of-federal-facial-recognition-use/"
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 39
-    images:
-      - url: "https://cdn.meritalk.com/wp-content/uploads/2017/03/facial-recognition.jpg"
-        width: 800
-        height: 450
   - title: "EU Considers Ban on Use of Facial Recognition Technology"
     excerpt: "The European Union is considering a temporary ban on the use of facial recognition technology because of data privacy concerns. Next month Margrethe Vestager, the European commissioner for digital policy and antitrust, will publish a paper setting out the EU’s plans for regulating artificial intelligence over the next five years. This paper ..."
     publishedDateTime: 2020-01-28T23:34:00Z
@@ -1485,19 +1491,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 32
-  - title: "Biometrics and Information Commissioners criticize live facial recognition deployment across London"
-    excerpt: "The UK government’s Biometrics Commissioner has criticized, alongside MPs and human rights organizations, the Metropolitan Police’s deployment of live facial recognition-equipped cameras across London, writes Public Technology. The Commissioner claims a recent High Court decision does not give the police free reign to roll out biometric ..."
-    publishedDateTime: 2020-01-27T19:14:00Z
-    webUrl: "https://www.biometricupdate.com/202001/biometrics-and-information-commissioners-criticize-live-facial-recognition-deployment-across-london"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 25
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
   - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
     excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
     publishedDateTime: 2020-02-02T15:07:00Z
@@ -1680,6 +1673,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "3M2l+/hO5XAowutLrGN553RKp6VTqnQRijFot0arEVx/zeYVZCSFkvRHPUSeecW0K7+IlITLMwHP3G8NwSfmqfsiJvlJHtLylo0TUfdtjl0O40iU8GjUV/NxJHXcLUjaJh+sWy9gWHkXpoGs2K/+8wq174EtA9FrhOKgbzeS6v/g+yDPhEr6ralZPNxS7PYZJOIZWbaXaCNxkNqNmv7sC0toodax59ipOs0M7lWm/OZ8/GX7uO2z++ViFPi70crWtkgKvL07Da7HqcD3gRTBsyvhxG1kvzdzVscVVXOEOskIYJWcH3sw8H1jxclub8CtUsOtaiT/8qpPIiA43y9o33aggV3wffxuZaIJ2K6VI6taD+OxKk3uNFKmjwtZZ70GD2Az+SLN7ihqPqZAcFH8ZDI8NsB9L2TaW7a6b1BCEUkWE5Xcr2emCT+t4RPU51lXmxpdZ4L0OxK3MPh2ylPFDdVE0mCrsEahhuUQqvP7CuUJuSSL3JsVqG54vIOOJITd;2a2pQC31CprbnkZH6e5JZg=="
+secured: "FkH7UylLK3Uuh3mknug+qxvW6cQj3ypcVKgPhEq3QjEZ4VSWCiBOfMiT/pbvp3Hnt9rIl62SO5zclNY235jJ3pCOz86gRdwek2lt7E0+YRJxs93HEIAn30imLCKHjVV3Wr7p8jTrVbZIYaDEwkuRuXMrCFbFqSdIYDD9MSFzcjxkym3/5sx+DKPzMz9cBSDP1DMrHcG+A6QQG6z8zC1U2t0ibfAPBMFLfvigsZe3eaWoGhfuujC73gBTCVK3LyUtkWw6qqnA8nCCB9bkbfjRHslfZO6FlYIPnVOAzMQwWcokMkCDzFqd45GPpPgPLTFV;dEBPEuGZu4qo+GYzBO61Ow=="
 ---
 

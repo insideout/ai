@@ -5,7 +5,7 @@ excerpt: "With Microsoft Azure Cognitive Services, you can this communication da
 publishedDateTime: 2020-01-23T14:21:00Z
 webUrl: "https://www.realwire.com/releases/Microsoft-Ignite-The-Tour-2020-ASC-is-Presenting-ASC-Recording-Insights"
 type: article
-quality: 0
+quality: 9
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://www.realwire.com/twitter_writeitfiles/ASC_Ignite_Overview_neu.jpg"
+    width: 600
+    height: 334
+    title: "Microsoft Ignite The Tour 2020: ASC is Presenting ASC Recording Insights for Compliance Recording and Analytics in Microsoft Teams"
 
 related:
   - title: "Microsoft Previews New App Reporting and Consent Tools in Azure AD"
@@ -32,6 +38,6 @@ related:
         width: 647
         height: 450
 
-secured: "PBhDrILGfLsE3Cj0oPLhhjh7ZjzlWm8Ulg9zeL3Iq1dzFIaddOiNn9M4FPdMxdbLH7IPEg3R2iW/FlJOGW2P02JCB7H0tV89R1k/FsCIMzCiv4XNRL1VyC/vSeaI2KIIBcClfrQgjHwlm1Tt3LHfWhyC+w9Jzl7qXPgr4fh1es9Zb1vAhZQdHQ46g7Dw7Ia1JXGjLaOStUNoemEbml5vkR9s8+3+uUDJ8Acje6bjVGC1DHqurkwTwiPp0trP97yNGUZ+37HSNUMcUaBdBL9RcvEvQFFiBN0oMooJvsRMoq+GRcEUD8oaS7b+xQ5IJEAh;O2pYc3uNJH0U7vVJK/gHrQ=="
+secured: "IeefAQWPukjLciyGkCS/qI0UCAym8LzGjViRIlbkTFaed2i/+4piN29A+AzdxCqK+7RzdvbGc1X6rcV03ThO3SFd1+BFzUzRXpRC9XJ2MSooKXMVQJyUmI9oyUTguX3Q3MG12j2QUHsW6gCyIJmY6wDcJcgyB4IhbHsn8MWYv/wyuZPk0wFx1kqwlnKXlMYp9CZ2roxbXOgqCOctTy+UFy9xbcYwedDMF0nOuRkFNaInObC7nlqaJFyeTdZgVZjpat4I6Bv9cNmYdB0mQM7RJL2Fcf7p2KmpIQz4n7ITBFiU1qs0IKY2KM9B0eoRRPzC;CBmVnnS674QaQ3buvh5eaQ=="
 ---
 

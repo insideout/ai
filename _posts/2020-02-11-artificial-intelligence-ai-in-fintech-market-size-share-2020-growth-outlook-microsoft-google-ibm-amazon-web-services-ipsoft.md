@@ -35,6 +35,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Machine Learning Market 2020 Global Insights and Strategic Assessment - Microsoft, Sap, Sas Institute, Amazon Web Services"
+    excerpt: "The Machine Learning Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
+    publishedDateTime: 2020-02-11T10:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2020-global-insights-and-strategic-assessment---microsoft-sap-sas-institute-amazon-web-services-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "y+4wcZ+F7TX1qyylQ0HPcGRDYjgQPzt0/EeTwG8kbkcCttWwvd420j8NNZpVe9rScT+VPQXQ096dMdVEGXOOpXt7WRvntsQTL4bT2lGdZb/Dfs6xffV56ua3D4HjAfG6KNbOG/BWYS/PKL5xarNkYrEOSylS+js0Plw7csQ6XvTzNZGJGADFPKuyk7GA/2amYXy3Dv+8WDgLZRdqI3Z8CFy++QVAXbpheIEEZYjLjCYRmSGf79NDu4OreHY9sJbpPri4314l50vhW1Dh8ax5p7JbI51Hm7tljpX7+c8pIt1yAG3ctuio0AliDXEmf4Gk;nfZI22ibClOdrYxte+ZMRA=="
 ---

@@ -39,17 +39,6 @@ related:
       - url: "https://www.azorobotics.com/images/news/ImageForNews_11070_15803031966954841.png"
         width: 699
         height: 257
-  - title: "Artificial intelligence predicts treatment outcome for diabetes-related vision loss"
-    excerpt: "\"The algorithm could also be adapted to predict therapy response for many other eye diseases, including neovascular age-related macular degeneration.\" Predicting treatment responseThe algorithm developed by the researchers is based on a novel convolutional neural network (CNN) architecture, a type of artificial intelligence that can analyze ..."
-    publishedDateTime: 2020-01-28T17:26:00Z
-    webUrl: "https://medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 33
   - title: "Personality-Assisted Multi-Task Learning for Generic and Personalized Image Aesthetics Assessment"
     excerpt: "As an important subjective trait, personality is believed to be a key factor in modeling individual’s subjective preference. In this paper, we present a personality-assisted multi-task deep learning framework for both generic and personalized image aesthetics assessment. The proposed framework comprises two stages. In the first stage ..."
     publishedDateTime: 2020-02-04T02:59:00Z

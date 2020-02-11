@@ -21,17 +21,17 @@ topics:
   - AI
 
 related:
-  - title: "This is the pitch deck that the CEO of AI startup Directly used to convince its top customers Microsoft and Samsung to invest in a $20 million round"
-    excerpt: "Directly's top customers, Microsoft and Samsung, are also key investors in the AI customer support startup. They just raised $20 million."
-    publishedDateTime: 2020-02-08T10:49:00Z
-    webUrl: "https://www.businessinsider.com/directly-ai-customer-support-startup-microsoft-samsung-investors-2020-1?IR=T"
+  - title: "Apple's reported $200 million acquisition of Xnor.ai is part of the bigger red-hot trend of edge computing"
+    excerpt: "Here's why edge AI was worth $200 million to Apple."
+    publishedDateTime: 2020-02-03T09:10:00Z
+    webUrl: "https://www.businessinsider.com/apple-xnor-ai-acquisition-what-is-the-future-of-edge-computing-2020"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 28
+    quality: 49
     images:
-      - url: "https://i.insider.com/5e30cf1d62fa8157b1286fe4?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5e3452225bc79c17000bff84?width=1200&format=jpeg"
         width: 1200
         height: 600
 

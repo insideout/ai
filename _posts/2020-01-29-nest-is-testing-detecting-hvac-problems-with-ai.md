@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-pr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "Nest is testing detecting HVAC problems with AI"
 
 related:
-  - title: "Viewpoint: Problems with big tech entering healthcare"
-    excerpt: "Amazon, Apple and Google are among the three companies that have made recent strides to enter the $3 trillion healthcare sector. Amazon is expanding its online pharmacy; Google is investing heavily in artificial intelligence and Apple is transforming its Apple Watch to include more medical features. While these initiatives may improve the ..."
-    publishedDateTime: 2020-01-27T18:36:00Z
-    webUrl: "https://www.beckershospitalreview.com/cybersecurity/viewpoint-problems-with-big-tech-entering-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/cybersecurity/7.jpg"
-        width: 400
-        height: 300
   - title: "Concentric launches with a deep learning approach to fixing broken file permissions"
     excerpt: "Concentric Inc. launched today with $7.5 million in a Series A funding and an approach to document-level security that relies upon the artificial intelligence technique of deep learning to identify documents that are unprotected or inappropriately shared by analyzing their contents. The company, which was founded by an executive team with ..."
     publishedDateTime: 2020-01-29T22:08:00Z

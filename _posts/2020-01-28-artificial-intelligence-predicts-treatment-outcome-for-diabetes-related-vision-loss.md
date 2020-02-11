@@ -20,43 +20,43 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "New Algorithm Could Enable Personalized Treatment for Diabetic Macular Edema"
-    excerpt: "The algorithm could also be adapted to predict therapy response for many other eye diseases, including neovascular age-related macular degeneration. The team’s algorithm is based on an innovative convolutional neural network (CNN) architecture, a kind of artificial intelligence with the ability to investigate images by giving importance to a ..."
-    publishedDateTime: 2020-01-29T16:59:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11070"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11070"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11070"
+  - title: "New AI tool predicts disease progression and evolution in neurodegenerative disorders"
+    excerpt: "Researchers at the Montreal Neurological Institute, Canada have found that testing blood using an artificial intelligence (AI) algorithm successfully predicted disease progression in neurodegenerative disorders, as well as identifying underlying molecular pathways that were predictive of disease evolution. The findings have important ..."
+    publishedDateTime: 2020-01-28T14:45:00Z
+    webUrl: "https://www.news-medical.net/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx"
     type: article
     provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 41
+      name: News Medical
+      domain: news-medical.net
+    quality: 50
     images:
-      - url: "https://www.azorobotics.com/images/news/ImageForNews_11070_15803031966954841.png"
-        width: 699
-        height: 257
-  - title: "New AI could predict outcome of diabetes-related vision loss"
-    excerpt: "In a new study, researchers found that using artificial intelligence (AI) to analyze retinal images could one day help doctors ... Anti-vascular endothelial growth factor (VEGF) agents are widely used as the first line of therapy for diabetic macular edema, but they don’t work for everyone. There’s a need to identify who would benefit ..."
-    publishedDateTime: 2020-01-29T10:46:00Z
-    webUrl: "https://knowridge.com/2020/01/new-ai-could-predict-outcome-of-diabetes-related-vision-loss/"
+      - url: "https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1181851309_9d7d8e56f4574ebfaffa83f8825898fa-620x480.jpg"
+        width: 620
+        height: 480
+  - title: "AI-analyzed blood test can predict the progression of neurodegenerative disease"
+    excerpt: "A new study shows artificial intelligence (AI) analysis of blood samples can predict and explain disease progression, which could one day help doctors choose more appropriate and effective treatments for patients. Evaluating the effectiveness of therapies for neurodegenerative diseases is often difficult because each patient's progression is ..."
+    publishedDateTime: 2020-01-31T01:10:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/01/200128080919.htm"
     type: article
     provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 39
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 43
+  - title: "Artificial Intelligence may be the key to identify neurodegenerative diseases' progress"
+    excerpt: "Montreal (Quebec) [Canada], Feb 2 (ANI): Artificial intelligence (AI) algorithms show the potential to predict neurodegenerative diseases progression among humans. This amalgamation of computer science and medicine could potentially assist doctors to adopt ..."
+    publishedDateTime: 2020-02-02T15:54:00Z
+    webUrl: "https://www.aninews.in/news/science/artificial-intelligence-may-be-the-key-to-identify-neurodegenerative-diseases-progress20200202212253/"
+    type: article
+    provider:
+      name: Asian News International
+      domain: aninews.in
+    quality: 29
     images:
-      - url: "https://knowridge.com/wp-content/uploads/2020/01/New-AI-could-predict-outcome-of-diabetes-related-vision-loss-.jpg"
-        width: 640
-        height: 426
-  - title: "Personality-Assisted Multi-Task Learning for Generic and Personalized Image Aesthetics Assessment"
-    excerpt: "As an important subjective trait, personality is believed to be a key factor in modeling individual’s subjective preference. In this paper, we present a personality-assisted multi-task deep learning framework for both generic and personalized image aesthetics assessment. The proposed framework comprises two stages. In the first stage ..."
-    publishedDateTime: 2020-02-04T02:59:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/8970458"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/artificial-intelligence-4469138_960_720.JPG"
+        width: 600
+        height: 450
 
 secured: "0Flx5+ZJVTVZdmsjwTk/QG26Y33xo+ZHS6oQzxWWyoYArTuCIeBb87woD+MNaLz8yRDGoy5ntNf9vkV1pZaB3PKZ4Z6lcffnoQJuSDG1/mqg7kjH7MIt2pC8nOGctiU4cbAPGARiRJqC4PQkonFw7ZzwS/MLKVRURin93II8rS3IaC3idB9B8yivanpFNHO65uD8Jktt8e7LB3wD5P7yDT9/Rv2a3bKi0ZCqM8EEhGiI5gmE3QZu40KHd1oxZjiTIT3ituKNfsn5Gec3/ai17JIU7FOUsJ9hpejztynmjCdpkm43s9nPY9iL7N/tR7mO3ft4ACHBhZiM2mfobTdtrCQrBPVLqoAI+dkqeIHbVTMAufrToemQyJmJZNEvzWSbQfYmmJWvNduoQHggsAVCMuMDcV1s4oFXlKHYCzCrHX3lLlF/q9cylOJr0KecT41LW0yRXc/KSBby1GYlb+88y0TbrWSwJO6qV5Z53aEprg0=;Ka2dam7+IZ0qnMuqGgQhlg=="
 ---

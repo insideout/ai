@@ -46,19 +46,6 @@ related:
       - url: "https://static.politico.com/7b/33/c6be3da24fa0a31c8ab4f6ac8ee5/john-f.%20Kennedy%20International%20Airport%20900%20getty.jpg"
         width: 900
         height: 489
-  - title: "Self-driving vehicle coming to Fargo area later this year"
-    excerpt: "FARGO — A self-driving vehicle is expected to hit the road in the Fargo area later this year. The Federal Highway Administration has awarded the North Dakota Department of Transportation a $241,687 grant to improve work zone safety with a self-driving vehicle."
-    publishedDateTime: 2020-02-07T23:34:00Z
-    webUrl: "https://www.inforum.com/news/government-and-politics/4927364-Self-driving-vehicle-coming-to-Fargo-area-later-this-year"
-    type: article
-    provider:
-      name: INFORUM
-      domain: inforum.com
-    quality: 24
-    images:
-      - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
-        width: 1140
-        height: 712
 
 secured: "LJt4hUtEsFowgKSMiBTPqBdcACRebflszWXdoaDnyFO1guAauIle0o1AhNO1WjYr7KBY79eZh5uxsZRnyEOwG1o1O5f/ASGT8lo1jZZgIRABJqizUFLxT0oZo8sEfVfGXds/nW66ItUa6vYqEi8d86u9XcnWX9OseX+tuaLC/losOP1MIrv/iQdXXIa7ead0a+iYw3uqCyT+9qftqLh9ZAOwBY5FjAjmy8T1Q1LssH9IADB6chH/PLxuz+yoQbQAlteORtkrZlZRMsVlGq7edPLTrJyLGMSR+7zhwBcCE3aDqNI5XTkNFsPV52gMsTQdw6jDgRf01zEaAcN/C3sqegkTaZhtoRJWRMAagv718hbphvsKTGrNW0yXk+4hCVwATSfF3z+BUmuHOuJpZMUt8S69N6KFHx/4m8rvSexYjOskAxJ2HsaMt+YNgN3uvXfRaWf7kN6GGiq99ht67UrV6A0K3kvaEWwktSpVc2BS/R4=;I4tTu/jHOn8zNM1XfrbFog=="
 ---

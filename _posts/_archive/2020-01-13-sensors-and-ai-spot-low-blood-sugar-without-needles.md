@@ -5,8 +5,8 @@ excerpt: "“Our innovation consisted in using artificial intelligence for autom
 publishedDateTime: 2020-01-13T15:41:00Z
 webUrl: "https://www.futurity.org/blood-sugar-test-ai-wearable-sensors-2254812/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: -1
 published: false
 
 provider:
@@ -17,17 +17,29 @@ topics:
   - AI
   - AI in Healthcare
 
+images:
+  - url: "https://www.futurity.org/wp/wp-content/uploads/2020/01/blood-sugar-test-artificial-intelligence-wearable-sensors_1600.jpg"
+    width: 1600
+    height: 915
+    title: "Sensors and AI spot low blood sugar without needles"
+
 related:
   - title: "New Tech Lets You Test Your Blood Sugar Without Needles"
     excerpt: "“Precision Medicine and Artificial Intelligence: A Pilot Study on Deep ... she works towards her masters in marriage and family therapy and art therapy. In a past life, she worked as the patient ..."
     publishedDateTime: 2020-01-16T21:44:00Z
     webUrl: "https://www.healthcentral.com/article/new-glucose-monitoring-device-for-diabetes"
+    ampWebUrl: "https://www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
+    cdnAmpWebUrl: "https://www-healthcentral-com.cdn.ampproject.org/c/s/www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
     type: article
     provider:
       name: HealthCentral
       domain: healthcentral.com
-    quality: 4
+    quality: 44
+    images:
+      - url: "https://images.ctfassets.net/yixw23k2v6vo/6HWebXmG36CblFmUEiDiQi/09577f3ff78807e49ae9e3212fed07d7/iStock-1175717080.jpg"
+        width: 1254
+        height: 836
 
-secured: "L7KFKd1mUXOAF2fm1LhJgHEi8ibOEn8YoKGAMMs02Q/0n3P/sViZv2fmgEBVfe0i+lfhGcIp8oT2aP+J2PY1EnZw/PZvVO8/LcwKM5QkRExYiFDR5nHgMzs2BHEEsqt8juArc9gBJHacGfLf7Aa9yGbN/jG/T5mFxeK2zXW4wNZNuX3VWemF9QzFnR3Mr41W7n8v33lQ8beyUSOUaKoQBQYiF5PqgI4uBJAsFzWYuwHrzxKNXutKYylZa+uymA5ncRkTSo3z1N3pFuuP0Xnj0cBIlkjxT8ObhnBsiNAzhMKjZ6cJiQKgJHNNp2PiZXW5;EQlyQcL6ZZt6K+6JhT6FWQ=="
+secured: "INN7qoudYlD2LRk9luINjuGB8HMtZn5X2OW7dnCRizP1MdgPBJfmBdVtlXax8OfBDthIHN99P/JNaIU4fcdCa0emzTGw4oUeaZwjH8FhEbDOmJ+xTioLOB8/tASYVfFV6MrC6PsDLqcbKcHsTjg3QDEIpww/xFzF49efLP+zhvKcNi423ykwiEWo85uVfLvPDYR01WJfLUYEiLaEkGLj2WyPqHsl3CcKlEoLwgJl2BzmfLJV99sS5xrSTQpmhTywtuuJ8ojRAH2IGUE3MAQ1Kxb8JxIJJ86G3HPoRWoqyRaMUnFmy/gonuEkWf2B7QlE;DeVYE0Ei749eGocgyqvv5g=="
 ---
 

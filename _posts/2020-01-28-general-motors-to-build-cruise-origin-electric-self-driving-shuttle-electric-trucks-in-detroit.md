@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-sh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp"
 type: article
 quality: 62
-heat: 92
+heat: 72
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit"
 
 related:
-  - title: "GM investing $2.2 billion into electric, self-driving vehicles"
-    excerpt: "UNITED STATES (WSYR-TV) — General Motors is spending $2.2 billion to refurbish a Detroit factory so it can build electric and self-driving vehicles. The company hopes the new factory will bring in 2,000 jobs to the area. GM has said it plans to start building its first electric pickup truck late next year. The truck will be the first of ..."
-    publishedDateTime: 2020-01-27T17:37:00Z
-    webUrl: "https://www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/"
-    ampWebUrl: "https://www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/gm-investing-2-2-billion-into-electric-self-driving-vehicles/amp/"
-    type: article
-    provider:
-      name: LocalSYR
-      domain: localsyr.com
-    quality: 44
-    images:
-      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2020/01/generalmotors.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
   - title: "General Motors to invest $3 billion on electric and self-driving cars"
     excerpt: "General Motors announced it will shift company gears from gas-powered cars to electric, and the Detroit-Hamtramck plant will be at the heart of the change, receiving $2.2 billion of the investment CNBC reports. According to Yahoo! News, this investment will bring 2,200 jobs to Detroit. GM president Lloyd Reuss told the Detroit Free Press that ..."
     publishedDateTime: 2020-01-28T18:13:00Z
@@ -60,19 +45,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/plP6WIWUE6s5XsYSHU4OYd_Lem0=/0x0:600x396/1400x1050/filters:focal(252x150:348x246):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66206932/700378499.0.jpg"
         width: 600
         height: 396
-  - title: "GM will invest $3B to scale production of electric, self-driving vehicles"
-    excerpt: "General Motors Co. said today that it will spend $3 billion to retool one of its main Michigan auto plants for the production of electric and self-driving vehicles. The lion’s share of the planned investment, $2.2 billion, will go directly into facility upgrades. GM said that it will bring in new “machines, conveyors, controls and tooling ..."
-    publishedDateTime: 2020-01-27T17:55:00Z
-    webUrl: "https://siliconangle.com/2020/01/27/gm-will-invest-3b-scale-production-electric-self-driving-vehicles/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/cruise-1.png"
-        width: 718
-        height: 400
 
 secured: "pjDsoPfD7lcmfnyaE77vemCmu9yoL6FGBWF6rXFkfLoB32qIwjzjmzxp/Yz8ae2jQpErv6JjEuzQpG6s0X61TndUcCJKGeIXsudc+pY8FchMs5kTLjQfWZM7qzfMNnViGwZRZPK7U5Ylkf90f+XYpVvwS/Ht3CuNHZnkAiZovSvTg1pHaDEq/3oiLHYZm8svBRcopPX26TfuW4NDw/Fr0d9XgH+DMYCMP10s47cognufkT4XWw0j/9B6mOmA50whRGJ3BoJefBvaNy5CUmX4sXYDv47AfjnFPdoHv3XpM4yDdGFOmMUXKP7s5tD0OgzLfs3iL91tGrYSY1xXNqb8noK/kLccfwBF56Fw1IfbFPZM1V0v3Vy4JyimvABG0n+c5i8TcE5DICh7qfskdu6AyivUqUNgDB3RGCS2g02E7d51U+xrWb0x0Ng+e/bxZfVXRIIKETzjJHk2i3XX+lBdRlGj2A8BLatO0yxtO0uJXRM=;KCOt003CZFUdJxzvh3utDQ=="
 ---

@@ -26,19 +26,6 @@ images:
     title: "GM's Super Cruise Self-Driving Tech Will Be on 22 Vehicles by 2023"
 
 related:
-  - title: "Waymo self-driving vehicle in collision in Phoenix suburb"
-    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was involved in a collision with another vehicle in a Phoenix suburb and the driver of the Waymo vehicle was taken to a hospital with non-life threatening injuries,"
-    publishedDateTime: 2020-02-09T03:32:00Z
-    webUrl: "https://www.herald-dispatch.com/ap/ap_business/waymo-self-driving-vehicle-in-collision-in-phoenix-suburb/article_92c577c4-c2b3-5bc3-b384-d67125bbb2e3.html"
-    type: article
-    provider:
-      name: The Herald-Dispatch
-      domain: herald-dispatch.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
-        width: 600
-        height: 600
   - title: "GM Rolling Out Super Cruise Self-Driving Tech To 22 Models Across The Board By 2023"
     excerpt: "An enhanced version will be introduced later this year and feature a new automated lane change function. When the self-driving tech is activated, users simply need to tap the turn signal to indicate that they want to change lanes. When an appropriate opening has been found, the vehicle will automatically switch lanes. Besides the new lane ..."
     publishedDateTime: 2020-02-06T22:31:00Z

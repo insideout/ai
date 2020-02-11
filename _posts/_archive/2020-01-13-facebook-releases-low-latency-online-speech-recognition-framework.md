@@ -4,10 +4,12 @@ title: "Facebook releases low-latency online speech recognition framework"
 excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
 publishedDateTime: 2020-01-13T17:32:00Z
 webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
+ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 119
+published: true
 
 provider:
   name: VentureBeat
@@ -21,7 +23,26 @@ topics:
   - AI
   - Natural Language Processing
 
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
+    width: 1200
+    height: 600
+    title: "Facebook releases low-latency online speech recognition framework"
+
 related:
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 54
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
+        width: 849
+        height: 565
   - title: "what3words and Speechmatics launch speech recognition and post-processing API"
     excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
     publishedDateTime: 2020-01-13T11:55:00Z
@@ -35,16 +56,16 @@ related:
       - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
         width: 620
         height: 500
-  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
-    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
-    publishedDateTime: 2020-01-16T00:00:00Z
-    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
+    publishedDateTime: 2020-01-16T03:17:00Z
+    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 34
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "QgUDhScbwhpILrcMjn5+3ANw4EGg6ifIzibmzKwNFvrxV7SmBMqRB3ARX0I1Ha2GJ4Z26dkiZKRBN8b61yj6lPrtRqyTOdMLU5ZHKdqKxq6ogxsS5O+qVBraGacy0xxO+L/mDfpbbBIb7Fz0e4prVPTqxrIEHWpUXb3A2Pf5zmxIiUte6hCwsgGmNFnOLbRPsLneDvP1EEie4krol0sp1zVWewHJBoaQlMP1Mhjfmf6COi5aQMmzsdsmTGbJtK3kQfu3+O2j/HSjeNyRut7/PImehIBlJgU5wQQZ2ANXoQVkSkwLoTAynGp/BqtX1Xyx;G8vZ+/5jb+9iMzIgqLb6Bw=="
+secured: "81Wm/dLPipW+QCdnXv9+HKssjRxbwa23xwpHVLMrha0Eob8iq49z6l8YseDtEidZ1YUsLa09ZkVGLjekfrbda2mxY5DhHj3Y9BqOn2Z4bNlNEztV5nm8Kk/It0KmlIl/0Ix/Ze0m8q+HqP7V6t9IjvEpEJENtHXiKpdC4dZYzKuvQFZ1Tb+dkptNycK3qI/k3ela0bCJwydv6+SF394Q7/3vkMmEqjv+SHVEeDDwOMEEf0ox0EDF8Doe2IvhosRfPCPoyjmI9xZ654tbqUEfB88wLj8hrABOOOREMcdquJHL2l866OjKyIeh3mx/zH/c;f+WUfKIb/HKRI2Ojb2Iaew=="
 ---
 

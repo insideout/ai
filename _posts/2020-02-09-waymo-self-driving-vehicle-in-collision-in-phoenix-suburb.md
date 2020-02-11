@@ -24,32 +24,88 @@ images:
     title: "Waymo self-driving vehicle in collision in Phoenix suburb"
 
 related:
-  - title: "GM's Super Cruise Self-Driving Tech Will Be on 22 Vehicles by 2023"
-    excerpt: "GM is finally expanding its hands-free Super Cruise driver-assist system beyond the Cadillac brand. According to GM president Mark Reuss, the feature will be available as an option on 22 vehicles by 2023, with seven vehicles getting the feature next year and 12 more in 2022 and 2023. This, it goes without saying, is a huge expansion of the ..."
-    publishedDateTime: 2020-02-06T18:42:00Z
-    webUrl: "https://www.caranddriver.com/news/a30795396/gm-super-cruise-self-driving-2023/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
+  - title: "Aptiv \"Self-Driving Vehicles\" Top 100,000 Rides In Las Vegas"
+    excerpt: "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides."
+    publishedDateTime: 2020-02-11T11:05:00Z
+    webUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/"
+    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
     type: article
     provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0127-super-cruise-lane-change-photo-final-1580163336.jpg?crop=1.00xw:0.747xh;0,0.165xh&resize=1200:*"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41bec0a854780006b0f2a8%2F0x0.jpg"
         width: 1200
-        height: 601
-  - title: "GM Rolling Out Super Cruise Self-Driving Tech To 22 Models Across The Board By 2023"
-    excerpt: "An enhanced version will be introduced later this year and feature a new automated lane change function. When the self-driving tech is activated, users simply need to tap the turn signal to indicate that they want to change lanes. When an appropriate opening has been found, the vehicle will automatically switch lanes. Besides the new lane ..."
-    publishedDateTime: 2020-02-06T22:31:00Z
-    webUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/"
-    ampWebUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
+        height: 675
+  - title: "Aptiv’s self-driving cars have given Lyft passengers over 100,000 rides"
+    excerpt: "The two hit 5,000 rides sometime in August 2018 — in a matter of months — and by May 2019, Aptv’s self-driving BMW 5 Series cars equipped with lidar sensors, cameras, radars, and cameras had given 50,000 Lyft passenger rides. But that’s small potatoes compared with the two companies’ latest milestone. Today, Lyft and Aptiv announced ..."
+    publishedDateTime: 2020-02-11T11:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/11/aptivs-self-driving-cars-have-given-lyft-passengers-over-100000-rides/"
+    ampWebUrl: "https://venturebeat.com/2020/02/11/aptivs-self-driving-cars-have-given-lyft-passengers-over-100000-rides/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/aptivs-self-driving-cars-have-given-lyft-passengers-over-100000-rides/amp/"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 18
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/APTIVvegas026-1100x734-1.jpeg?fit=1100%2C734&strip=all"
+        width: 1100
+        height: 734
+  - title: "When can we buy self-driving vehicles? No one knows"
+    excerpt: "Recently, the U.S. Department of Transportation released its fourth edition of guidance for the introduction of automated vehicles. That must mean self-driving vehicles are coming soon, right? Yes. Well, no. Ummm, maybe? Over the past several years, there has been a lot of talk about self-driving vehicles. Whether it’s cars, trucks or both ..."
+    publishedDateTime: 2020-02-06T21:01:00Z
+    webUrl: "https://landline.media/when-can-we-buy-self-driving-vehicles-no-one-knows/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 24
+    images:
+      - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
+        width: 540
+        height: 420
+  - title: "Rules eased for self-driving vehicle"
+    excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
+    publishedDateTime: 2020-02-07T06:44:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?latest"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+  - title: "Self-driving vehicle coming to Fargo area later this year"
+    excerpt: "FARGO — A self-driving vehicle is expected to hit the road in the Fargo area later this year. The Federal Highway Administration has awarded the North Dakota Department of Transportation a $241,687 grant to improve work zone safety with a self-driving vehicle."
+    publishedDateTime: 2020-02-07T23:34:00Z
+    webUrl: "https://www.inforum.com/news/government-and-politics/4927364-Self-driving-vehicle-coming-to-Fargo-area-later-this-year"
+    type: article
+    provider:
+      name: INFORUM
+      domain: inforum.com
+    quality: 24
+    images:
+      - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
+        width: 1140
+        height: 712
+  - title: "Self-driving vehicle coming to Fargo area to improve work safety"
+    excerpt: "FARGO — A self-driving vehicle is expected to hit the road in the Fargo area later this year. The Federal Highway Administration has awarded the North Dakota Department of Transportation a $241,687 grant to improve work zone safety with a self-driving ..."
+    publishedDateTime: 2020-02-08T01:37:00Z
+    webUrl: "https://www.thedickinsonpress.com/business/transportation/4927484-Self-driving-vehicle-coming-to-Fargo-area-to-improve-work-safety"
+    type: article
+    provider:
+      name: Dickinson Press
+      domain: thedickinsonpress.com
+    quality: 24
+    images:
+      - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
+        width: 1140
+        height: 712
 
 secured: "8enk8Z08OrZ7Dn6JhK5hGQtiko08btI0TP94GfvPtseRA+ikOEpe5vx5iZnRxnOMDqMtZK1awCpUcF4/1RQEBkwIPdTlrtBAdMIAF8gxBL4Lind7o1roIi8O6YvWS2khl0hpe9y76JA9C2UMqaG75tPA+iQsY+JuvbPiw0zSr9xRQBOlzugQ6nRNwQL4e3HyeTROCSco/Ay9ykVpxvHkUq+sKtZBwJHhXbeN8+9R4NRGWkMuKszf5MrRifV18MDc7O1iSAv5eqU463atkJ62+Rp9cH6reoyQQO1sWHs4tM1BNJnJ6cA0PPU+j/3VXKhR;18B9j1bvu5ZZisLtEJsegQ=="
 ---

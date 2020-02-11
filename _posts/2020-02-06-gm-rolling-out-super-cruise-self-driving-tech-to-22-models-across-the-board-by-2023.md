@@ -35,19 +35,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0127-super-cruise-lane-change-photo-final-1580163336.jpg?crop=1.00xw:0.747xh;0,0.165xh&resize=1200:*"
         width: 1200
         height: 601
-  - title: "Waymo self-driving vehicle in collision in Phoenix suburb"
-    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was involved in a collision with another vehicle in a Phoenix suburb and the driver of the Waymo vehicle was taken to a hospital with non-life threatening injuries,"
-    publishedDateTime: 2020-02-09T03:32:00Z
-    webUrl: "https://www.herald-dispatch.com/ap/ap_business/waymo-self-driving-vehicle-in-collision-in-phoenix-suburb/article_92c577c4-c2b3-5bc3-b384-d67125bbb2e3.html"
-    type: article
-    provider:
-      name: The Herald-Dispatch
-      domain: herald-dispatch.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
-        width: 600
-        height: 600
 
 secured: "a0fuoY9KDl2R24aeJ7REFA45tJcfKVwd849gNsCv3t+gZkaemvIfBGDX4qrHeCTdgVshBqNFlYh/F/6Z6Y7786aHGP00r8L6qWqsSiMXKsp2vo2kCxX8hzeBVzWxBIHOkbqrQe0VI9Hmi+nFqAwN0cbUok3VvooE5x4k4KtYzWEUzodnOFgThJnFHX7B0JUBC+u82BbM90LvgXT7IgMLSolEqosqkvwqdcy9S3yO3oc3VNexAZ80KBaXdXETjdTeY5L+XFEpj7bM674ZqocPtbHXdvJ0K9J1kUiVYNXbw17jeuUvjBr5U6mqBaBUUom67aA0CiTf5kpI7XatBAbI7fG3HOs4TLRZaTUQIE37njsjpzcFXqsGOa8erq6MySFT0P/Nvcz1h05RjzGPvWQu7+Z8QBB1szPLUt04YU7108DNJcBFr/BBBbEun2gAwQKLfDSJn4DZwO98Ucm2aI/9tPo1ekY8/na/wTaCPB7hBL8=;QcYl03VEu2Q30g3RTDWRjw=="
 ---

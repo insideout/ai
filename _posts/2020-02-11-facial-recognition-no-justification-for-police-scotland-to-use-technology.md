@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-scotland-51449166"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-scotland-51449166"
 type: article
 quality: 86
-heat: 236
+heat: 256
 published: true
 
 provider:
@@ -75,6 +75,21 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
         width: 1200
         height: 400
+  - title: "“No justifiable basis” for Police Scotland to use live facial recognition technology"
+    excerpt: "Members of Scottish Parliament said that facial recognition software is known to discriminate against females and members of the BAME community. Whilst Police Scotland has outlined its ambitions to make use of facial recognition technology in its 10-year strategy, which plans to introduce its use by 2026, Members of Scottish Parliament have ..."
+    publishedDateTime: 2020-02-11T11:26:00Z
+    webUrl: "https://diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology"
+    ampWebUrl: "https://diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-08/00F53187-544B-4807-ACF1-7877845AA4B7.jpeg"
+        width: 640
+        height: 426
   - title: "Facial Recognition Technology Uses at Homeland Security Department"
     excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
     publishedDateTime: 2020-02-07T12:41:00Z
@@ -209,7 +224,16 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 0
+  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
+    excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
+    publishedDateTime: 2020-02-11T11:18:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/11/1982878/0/en/Emotion-Detection-Recognition-Markets-Forecast-to-2024-Rising-Need-for-Socially-Intelligent-Artificial-Agents.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
-secured: "/dsEeQYKZSbmWnnVwdPii0ttsI33OjmxZyqkorgVPyujm/YvZHr/WvStVUCS+QIEhEg04N21vxFA37UBG6f7k2VysZLmuWF49AvC6fZ4KrlYHf2V8hhMpoARPISwxhjzSnPrTV7ZOmEigbD5SQd6pGnh/AfZV7IGG3pPeKAqnj1VaSMih5B57zO8h8eS8m4ZoRoG+JKRmHrbzY9WRKeINIKlxcbIkP+H12mHe+yhSWnYXjfAzg8zAo5dGpvY2HcnSmsJaDMio/4J1kRuzG+saKI1yvlGH5fxAY7raYoLbQ3xmXJEIaUkqGtC7BOqRzPI;RqUhGfpQfW53E3QJST1yrg=="
+secured: "YmXvZcUFAkss7Zje/RfjTE74zeS9nVM+GKLJHVz1dN2HwP4Ro1UWHbEpmkq6yb9zQO7ieh8JYNYQrFEIbnxUnla8Sx20iKvQBywyaoBpHBDxO4hpRoji3CvlH+e1A0/ItJTWz1MpjkXr/JeyErfeLKUkg/U99gnOY6ZtACKmHXbe3Y5K2EJWJGP6chBNZR7OFAFHA8S/vRf1x2fLtKP2rqUEXV/JDN9TPIHS8nUeCBSXE3oCLpf3ZqK06lBinTqxj2kwtXeeJSvNzWJO4pV8m5seYaHklBSiGaozLSC91L0WO/iX0LaNCIBAGtYSMbEFimoGWSENK9t0PIQWV8nrRBdiUW98VtIYpdPkou6x3r/KslhXKFHP/rUHYTeLOwqTtTmJxbC2Yp4cEY7m6Io5ufskn8SQnv5Ndx92y2MMOxtcczwQlzcgNAM0ST7tBmsY3jhjJzVSsy08iFePhX6wrkVaKKWdRp798VnPuKLbO0k=;howbkCGIYOFl66UqyvfyiA=="
 ---
 

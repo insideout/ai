@@ -28,11 +28,17 @@ related:
     excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
     publishedDateTime: 2020-01-13T17:32:00Z
     webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
+    ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 49
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
     excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
     publishedDateTime: 2020-01-16T00:00:00Z
@@ -41,8 +47,21 @@ related:
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
+        width: 849
+        height: 565
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
+    publishedDateTime: 2020-01-16T03:17:00Z
+    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "7TDkw9g+3gbDCL34K2BcazEY0m1jXVnA91zHdXuTcTQoDACMmxObh8oik8bxAUv8kIz9rH1zVhEjdYWvXcSiztoCZFK1F2Av9Zkk9hQoiizt631PlRUGDxePlNOlp3T2nQJgVMIpBhQbWG7MecjgKeD1bZ3dFYiKrom8Y5IeCkWadusBgZ4DOUdS00WzkeYVeJrDAtST94LwBNyiEcKIxM2SG73wK0I9d3ob//FYBuyXqme0/9Cy4oUGiQJxSXamL0KcapFobE4Gyuy8OuR0c2C7AglQq4RPQ2KjOGr2mHW0frEhDCkVFrNWtY8PhW2c;sYlTrDdEA8n3TBqx3qBDTQ=="
+secured: "QpO8qVsMAe5Fv+GUrpexTy6m2RcbIai870JHajXMrdOoUH7miDh/rqqlJvP7y1kpEJD/Mxh9Kwk+M2bFkqLtJNsid3AZsBiMnIHfLeXWD7YX1hXWyIWloONGsf2TmnYh7B8fjzFm7VMQdMYmqbYiLtoWHnJ91tMb29i05An8IdnRTD5nRgJeMtBP8d4Q3GRutDwSfn4tbX9mwYJQkcC+5LlABX3Ux3wApJ09JEKqX8xizZgRrtcVpC9edINLuWqqLwzhNscTc9ReVpjaUzSeLAiB4pM2AVaGsNCs66wsrdYu4Up3fixkoZpkjhXS/Cm4;FeYR0sruZhlbcxPWj9J5Gg=="
 ---
 

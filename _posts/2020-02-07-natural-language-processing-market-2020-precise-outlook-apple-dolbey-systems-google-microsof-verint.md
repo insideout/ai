@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-07T09:58:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-precise-outlook---apple-dolbey-systems-google-microsof-verint-2020-02-07"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: MarketWatch
@@ -28,6 +28,19 @@ images:
     title: "Natural Language Processing Market 2020 Precise Outlook - Apple, Dolbey Systems, Google, Microsof, Verint"
 
 related:
+  - title: "Machine Learning Market 2020 Global Insights and Strategic Assessment - Microsoft, Sap, Sas Institute, Amazon Web Services"
+    excerpt: "The Machine Learning Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
+    publishedDateTime: 2020-02-11T10:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2020-global-insights-and-strategic-assessment---microsoft-sap-sas-institute-amazon-web-services-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) In Fintech Market Size, Share 2020, Growth Outlook – Microsoft, Google, IBM, Amazon Web Services, IPsoft"
     excerpt: "Global Artificial Intelligence (AI) In Fintech Market is a comprehensive report which provides a detailed overview of the major driver, opportunities, challenges, current market trends and strategies impacting the global Artificial Intelligence (AI) In Fintech market in conjunction with calculation and forecast of size,"
     publishedDateTime: 2020-02-11T08:08:00Z

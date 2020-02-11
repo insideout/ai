@@ -4,9 +4,11 @@ title: "DeepMind found an AI learning technique also works in human brains"
 excerpt: "Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new explanation ..."
 publishedDateTime: 2020-01-15T18:40:00Z
 webUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/"
+ampWebUrl: "https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
+cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -17,6 +19,6 @@ topics:
   - AI
   - Google AI
 
-secured: "Xr9/Uap0mDmiZEeW8y0LRq1n9uoFxEJlem4OrXMsrrFTub1JtiyIPA6WkbC9NDHzy+tsSWA5dEf1uCjlX7772ipASRYxfWMtp2h7gOg1E1pmDnTgNw0R/M6aghpnoDFXlPulNNpQQ8VSU55PZ/1x46iEm6CFN/0Mu7Z2595zacevq2JPUAz9yP7H8lQNJPE9WLkDQACoElbGIczuA3Y9IaefBpl7yPmGDF/pN7jv+aq5+kA+IWm+IWojzHZfgcLEZyfQDiPDsUPaKHRj/uGOfsNF//y34MVZm0KJcMk/Dmz19J92mLIzF8vQdeMlrn7M;rJeguvatMoVezZSHGPo5dA=="
+secured: "/V58THtOP2M3pqUJvQjw2KHhhvPe3nSuxp7KTGVzyTPzH7IQQ/PTSal3aOMXGFGWL6Ji/dypDeBnFSimvRj/sRYTsnUsILfpuqpnuFFNzm0XOKFar155ChaqeMI3zP5N2Yuap19vrx0c51sK/2xEKim61bmLHVdwWiM913t13W9w9HBFgnzBkQOASnE5WLu4DbClA+YjJjk454sQHDru9FKESnTpOUTrAYZ4mZ9mCRqJji7JUV3t9Z3gDZ/xbA2pxgkx7RUDWgvQy5t9uGROTLumqcXEkICVKL6omb9DWWNPLKcjfpHzJj63ap3yExUi;H/LG0Sew6XKuUaj9IJ7CKg=="
 ---
 

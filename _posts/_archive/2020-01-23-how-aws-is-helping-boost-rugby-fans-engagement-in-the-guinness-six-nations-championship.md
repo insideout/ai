@@ -4,9 +4,11 @@ title: "How AWS is helping boost rugby fans’ engagement in the Guinness Six Na
 excerpt: "The Six Nations digital team created these capabilities using the AWS managed machine learning service, Amazon SageMaker, to build, train and deploy the models. The 2020 Six Nations will see the cloud services giant provide fans with an expanded range of real-time, in-game rugby statistics as they follow all the action from the tournament ..."
 publishedDateTime: 2020-01-23T15:57:00Z
 webUrl: "https://www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship"
+ampWebUrl: "https://www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252477240/How-AWS-is-helping-boost-rugby-fans-engagement-in-the-Guinness-Six-Nations-championship?amp=1"
 type: article
-quality: 10
-heat: 10
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "oq13KbBDW/6sDEZcQKH9GdKiqPcQvqi06RGBFDw09//5r5cam87D6asTJlf1i18XyStJATVd5djxDteD2FAMJhjj7WnzakGdN+GOsEZins+NYNcdjTts2WpXwTrXi5kAAmNtxDBQHcIX+RYFykC4JGqKvrtSlppVsMEoGQOnbUAF9sb+8GVxwD8LD4m6+jATbXjdBfOlORltxtyuNGNFy+E/1zD5sOCD3/WVbavhi5f5LVjBEzuwXi+U5PpVmT3a3Ffd9VnoLwdSpJ2/X4yYqIZP7hEwRzt2p5YFSqylKy2avQ3Nv59rg27OPv3JNGklClA7VsSv4eRD2Uwl/fTeN+6b69p06V3rXbcn7T44uiRiGxZA1kq0d3+VKGe7Z0B/I2BVfEUCqqURnr8jIK5ADuX0H2eMJ46K7+tShJMCKg1Hf9i83Di4D/fHjPi3hZvLbcsCA+fnJGlMY9GgJtWoXYu4LXptD7wiPWj9WaMSHtY=;+PALVdkn7xfJ7TWs26vg5w=="
+images:
+  - url: "https://cdn.ttgtmedia.com/visuals/LeMagIT/hero_article/Rugby_AdobeStock_46421708.jpeg"
+    width: 1200
+    height: 400
+    title: "How AWS is helping boost rugby fans’ engagement in the Guinness Six Nations championship"
+
+secured: "kck8wGUPMwmS+6agOSQAOERS+tKBLfIowoDMVy0fq/JcVQYrYigRJDe8xKrXwUs13G5efqICFdRwlNxEccjYqBW8DcGR3Y3/OFQOKJOmCrIuU/V5zJ+/ighxj7t6Oyz/WS0dBEOwGRKcYUZK9w3gXx5HgbyQ+weH1LcPeTeFnjWD4XnalqMjPlLlp1bjydsTJlU5OucnYt8GHkcVoD+z6U5Yf58KRtoVku3Jd56OJ86i/cKamyITHSRd1WpcH59XoZOsuanD5RwtQh/jONDMuAC9QEPTKTMuqyKnfTzrkFiByTdMeY87o3cXQjBgxRZB;Tg3Pln29XHftChA4cQr9jQ=="
 ---
 

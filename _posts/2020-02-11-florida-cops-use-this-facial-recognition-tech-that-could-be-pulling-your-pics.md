@@ -221,6 +221,17 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/7l1HObT4uIVko8_sSo6v9vlNURg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66260685/acastro_170329_1777_facebook_0001.0.jpg"
         width: 1400
         height: 933
+  - title: "Chinese firm working on facial recognition that can identify you under a mask"
+    excerpt: "These masks don’t do much, medically speaking, but it’s considered the polite thing to do. Now, let’s also say that the government there is notorious for widespread and unregulated use of facial-recognition technology as a way to both fight crime and to identify and silence political dissidents. This government has taken to banning face ..."
+    publishedDateTime: 2020-02-11T10:00:00Z
+    webUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/"
+    ampWebUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 66
   - title: "Google, YouTube and Twitter send cease and desist order to facial recognition app Clearview AI"
     excerpt: "Google, YouTube and Twitter have all sent cease and desist orders to controversial facial recognition app Clearview AI in an effort to stop it taking images to help with police investigations. The tech company's tools allow law enforcement officials to upload a photo of an unknown person they would like to identify, and see a list of ..."
     publishedDateTime: 2020-02-05T17:34:00Z
@@ -357,6 +368,6 @@ related:
         width: 500
         height: 300
 
-secured: "5OlbjoAfN6li9mXKNzp5wHDt0ugE4HLyHaztmq5Cw0kshMI/KFnei8OmWf/SqhJ5cj4xoXQo+ivD4Nn/NJTpBFjN8FmH9nR2wKtf0wbB7NDn3Iq9ON8gbYnKxGjJmWqqHEEzinLbrnPHnJUpHmMrasPm/UobbDDTjdW/PegOhq8e98RFLQrKkR2Tu/ccVJSxJkZb7X460X90mq6frKNJD8GJfaS/0itxSIaUBmg5/qZaAl+cO5EMHKjKvDqtJqboyGg+dSwkvc2sCqF+rsQfaTOEBVKwDmuEpiV3XiZ3f40FFBXgMqXpdIAMsai8UPhP;Xi8kpjwOqqX1DVZ6jnHDDA=="
+secured: "cdxUQG3gVtA/G2q4isalggoTVc+Ahgr8rMMuToa+38u1FjN2srOyeEQdgTyHx0xXL7D4k7aroCaDr1T1B1DqIVqYElxf1w3a8sL5hEbBsRJp5d4lPerctkt9mBIKErpHmJe1M4A6W1ETlCDjwLSxpiIeoDgfQLCtZk+ErzraHXmd5WIj8oW+HgtT2r3RT4HGDmEMMCr2DASgdvhpOyrE9a+jsSlgm7e4FV32qZVhwa8rM0ibdlyxYaziSaOa7pbdH91tV/BOWkg1dZBDhT3POU0AU6yNat3LUyufk9Q6Yq7XpUTrk8rYQDcpWqPHagMy717PfXJW9njFbR0NkOtoLAq8feMfxUmu08t17H4AJQeqkZ8bWfAeT4RUb8NUCfRVOFnIVL5V/qlyiil5PGT/oxRgLMHXUTIlj0xiOtJ5kMYPZx2nS0V1eyBa1HfyfUv87QWZ0qnyFGocXueLHB7LQ+bXa8FChhL4Fk77MK4KjlQ=;y1Que7QKBqxANh908FFBcg=="
 ---
 

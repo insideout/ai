@@ -21,21 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM uses AI to predict progress of Huntington's disease symptoms"
-    excerpt: "It could help with patient care and, hopefully, treatment. IBM is using its AI-based health prediction skills to help tackle the challenge of Huntington's disease. The tech firm has teamed up with CHDI Foundation on an artificial intelligence model that can predict when patients will experience Huntington's symptoms and, crucially, determine ..."
-    publishedDateTime: 2020-01-27T17:17:00Z
-    webUrl: "https://www.engadget.com/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 187
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5650%252C3993%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1131%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252Fbb8db680-412a-11ea-af7c-8cd9ae0fdc0c%26client%3Da1acac3e1b3290917d92%26signature%3Dc206e2ec62c0d6552fd703fc0d803d344403e1cb&client=amp-blogside-v2&signature=6f5b99c9084bd61fc8e4b93c1e3b30dbf4c3f5dd"
-        width: 600
-        height: 350
   - title: "New AI tool predicts disease progression and evolution in neurodegenerative disorders"
     excerpt: "Researchers at the Montreal Neurological Institute, Canada have found that testing blood using an artificial intelligence (AI) algorithm successfully predicted disease progression in neurodegenerative disorders, as well as identifying underlying molecular pathways that were predictive of disease evolution. The findings have important ..."
     publishedDateTime: 2020-01-28T14:45:00Z
@@ -51,19 +36,30 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1181851309_9d7d8e56f4574ebfaffa83f8825898fa-620x480.jpg"
         width: 620
         height: 480
-  - title: "IBM study: AI could eventually predict Huntington's disease onset from one MRI"
-    excerpt: "An artificial intelligence-based method of mapping the brain shows promise in addressing the wide variability in onset and advancement of Huntington's disease symptoms, a new IBM Research study suggests. The study was published in the journal Scientific Reports and conducted by researchers from IBM's T.J. Watson Research Center in Yorktown ..."
-    publishedDateTime: 2020-01-28T14:08:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ibm-study-ai-could-eventually-predict-huntington-s-disease-onset-from-one-mri.html"
+  - title: "Artificial intelligence predicts treatment outcome for diabetes-related vision loss"
+    excerpt: "\"The algorithm could also be adapted to predict therapy response for many other eye diseases, including neovascular age-related macular degeneration.\" Predicting treatment responseThe algorithm developed by the researchers is based on a novel convolutional neural network (CNN) architecture, a type of artificial intelligence that can analyze ..."
+    publishedDateTime: 2020-01-28T17:26:00Z
+    webUrl: "https://medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-intelligence-treatment-outcome-diabetes-related.amp"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 35
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 33
+  - title: "Artificial Intelligence may be the key to identify neurodegenerative diseases' progress"
+    excerpt: "Montreal (Quebec) [Canada], Feb 2 (ANI): Artificial intelligence (AI) algorithms show the potential to predict neurodegenerative diseases progression among humans. This amalgamation of computer science and medicine could potentially assist doctors to adopt ..."
+    publishedDateTime: 2020-02-02T15:54:00Z
+    webUrl: "https://www.aninews.in/news/science/artificial-intelligence-may-be-the-key-to-identify-neurodegenerative-diseases-progress20200202212253/"
+    type: article
+    provider:
+      name: Asian News International
+      domain: aninews.in
+    quality: 29
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
-        width: 400
-        height: 300
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/artificial-intelligence-4469138_960_720.JPG"
+        width: 600
+        height: 450
 
 secured: "a6NpWUeIYJ1CTnHD/3lBPh8W6hlzqZudpJcW346vH5wj8bY/a7mvlHoJJANwjEY/JiRpWpnXdJ0HcFsJ9iaLutaAQqkUFn3RSMf43WaqK4+feJDAzNG4ApYHtehTrr96ARMeLX9pu6tWveQ3wLpuRvDtXJxPxUwyQ3xC6nI3wWfo9CzBKnx8FVIIJF4CGw43dNF5oGfZXXg1czdndU9RCaHcfWyTrioXVuEXvlMsQSQ4fqVZIQKmB8+3zzNSV6mboK1BQ0BWwBHORfCmjSZL1frHGVaDrt9ACWox9sHhu7EOjIWExM/UMKOYNohmly5Y;EFaMfeXQWYDn1FFumHvnEw=="
 ---
