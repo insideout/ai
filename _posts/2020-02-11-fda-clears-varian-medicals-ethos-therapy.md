@@ -1,0 +1,37 @@
+---
+category: news
+title: "FDA clears Varian Medical's Ethos therapy"
+excerpt: "an Adaptive Intelligence solution. Ethos therapy is an artificial intelligence -driven holistic solution that provides an opportunity to transform cancer care. This new solution is designed to deliver an entire adaptive treatment in a typical 15-minute timeslot, from patient setup through treatment delivery."
+publishedDateTime: 2020-02-11T14:37:00Z
+webUrl: "https://seekingalpha.com/news/3540517-fda-clears-varian-medicals-ethos-therapy"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: Seeking Alpha
+  domain: seekingalpha.com
+
+topics:
+  - AI
+  - AI in Healthcare
+
+related:
+  - title: "Varian Receives FDA 510(k) Clearance for Ethos Therapy"
+    excerpt: "today announced it has received FDA 510(k) clearance for its Ethos™ therapy, an Adaptive Intelligence™ solution."
+    publishedDateTime: 2020-02-11T12:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/varian-receives-fda-510k-clearance-for-ethos-therapy-301002481.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+
+secured: "/ewdUtcDlVEQlGwxGrPbdJeYosZjsyYUpn5nCyerxEeMpsa1Uya66UiHwOvuqSnKIpMEDDVo6+kBY+AS92Z4H5pNxtbwmIuquDdomd2SALXHGsriIGMVr1zGJi3SqhmQqVbaW1ACNckFK4thqJuP1v7hYZty1rChStl3IeXnR7xrbNeF4eqGJY52Ef3QswqzTBrNj2vDJTvXcdmbdSvKBMvuNxp8x1VhgTL1tvEUhHBS7s9VIflJ6Ph9EH4n5NtPwRuxQJ+1LTlf1w8SFlLB9LA+4ekb6sRpjofHneA5A6PE2neiD1EXFY1m2ZiJUKkn;CNIdpoeo9TtgfrGPqkxAjw=="
+---
+

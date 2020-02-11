@@ -1,102 +1,125 @@
 ---
 category: news
 title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
-excerpt: "Machine vision is a mature technology with established incumbents. However, significant advancements in chipsets, software, and standards are bringing deep learning innovation into the machine vision sector. According to a recent analysis by global tech market advisory firm ABI Research, total shipments for machine vision sensors and cameras ..."
-publishedDateTime: 2020-02-11T10:29:00Z
-webUrl: "https://www.abiresearch.com/press/installed-base-machine-vision-systems-industrial-manufacturing-reach-near-100-million-2025/"
+excerpt: "/PRNewswire/ -- Machine vision is a mature technology with established incumbents. However, significant advancements in chipsets, software, and standards"
+publishedDateTime: 2020-02-11T08:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/installed-base-of-machine-vision-systems-in-industrial-manufacturing-to-reach-near-100-million-by-2025-301002034.html"
 type: article
-quality: 0
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: ABI Research
-  domain: abiresearch.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
-  - Machine Learning
+  - Computer Vision
+
+images:
+  - url: "https://mma.prnewswire.com/media/276887/abi_research_logo.jpg?p=facebook"
+    width: 643
+    height: 337
+    title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
 
 related:
-  - title: "Top 5 companies using Machine Learning in 2020"
-    excerpt: "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ..."
-    publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 71
-    images:
-      - url: "https://miro.medium.com/max/800/1*IVYvNXzk1XVr7XM9Hu9X-A.png"
-        width: 800
-        height: 445
-  - title: "Using Artificial Intelligence in Trading"
-    excerpt: "Artificial intelligence (AI), which is also called machine intelligence ... This advanced technology has been used to power self-driving cars, voice-activated assistants and, now, trading. Traditional trading strategies use technical analysis conducted by humans, to assess investments and detect trading opportunities. This is done by analysing ..."
-    publishedDateTime: 2020-02-07T20:07:00Z
-    webUrl: "https://medium.com/@rfexchange08/using-artificial-intelligence-in-trading-6a09a6b4ed50"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/1200/1*S3as9DvE-54fw9_q6JXAhQ.jpeg"
-        width: 1200
-        height: 627
-  - title: "Artificial Intelligence In Aviation Market Trend And Top Growing Companies 2026"
-    excerpt: "Global Artificial Intelligence In Aviation Market Insights, Forecast to 2026 The report discusses many vital industry facets that influence \"Global Artificial Intelligence In Aviation Market\" industry acutely which includes extensive study of competitive edge,"
-    publishedDateTime: 2020-02-07T03:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-trend-and-top-growing-companies-2026-2020-02-06"
+  - title: "Artificial Intelligence (AI) in Medicine Market, 2025- Global Market Projected to Reach USD18,119 million by 2025, Growing at a CAGR of 49.6%"
+    excerpt: "Artificial Intelligence in Medicine Market by Product Type (Hardware, Software, and Services), Technology (Deep Learning, Querying Method, Natural Language Processing, and Context Aware Processing), and Application (Drug Discovery & Repurposing,"
+    publishedDateTime: 2020-02-05T02:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medicine-market-2025--global-market-projected-to-reach-usd18119-million-by-2025-growing-at-a-cagr-of-496-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Medical Imaging Market Sees Promising Growth during 2019-2025"
-    excerpt: "An extensive elaboration of the Global Artificial Intelligence in Medical Imaging market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
-    publishedDateTime: 2020-02-08T02:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-sees-promising-growth-during-2019-2025-2020-02-07"
+  - title: "North American $30+ Billion Artificial Intelligence (AI) Chip Market Outlook to 2027: Projecting a CAGR of 32%"
+    excerpt: "Dublin, Jan. 31, 2020 (GLOBE NEWSWIRE) -- The \"North America Artificial Intelligence Chip Market to 2027 - Regional Analysis and Forecasts"
+    publishedDateTime: 2020-01-31T09:18:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/01/31/1977988/0/en/North-American-30-Billion-Artificial-Intelligence-AI-Chip-Market-Outlook-to-2027-Projecting-a-CAGR-of-32.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 31
+  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research(R)"
+    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion by 2025. The growth in the speech and voice recognition market can be attributed to the rising acceptance of advanced technology together with increasing consumer demand for smart devices,"
+    publishedDateTime: 2020-02-06T11:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-worth-268-billion-by-2025-at-a-cagr-of-172-from-2019--meticulous-researchr-2020-02-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 26
+  - title: "Global Artificial Intelligence Market for Automotive and Transportation Industry Anticipated to Reach $69.05 Billion by 2029"
+    excerpt: "FREMONT, California, Jan. 30, 2020 /PRNewswire/ -- According to a new market intelligence report by ... for developing self-driving cars. Similarly, in November 2019, Intel's Mobileye collaborated ..."
+    publishedDateTime: 2020-01-30T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-for-automotive-and-transportation-industry-anticipated-to-reach-69-05-billion-by-2029-1028859000"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
+  - title: "Global LegalTech Artificial Intelligence Market is Expected to Grow at a CAGR of More Than 37.7% Over"
+    excerpt: "PUNE, India, Feb. 4, 2020 /PRNewswire/ -- The digital reforms in the legal industry have transformed the traditional courtrooms and law practices, thus strengthening the prevalence of Artificial Intelligence (AI) in legal technology or legaltech. The increasing burden of legal activities, carried out around the globe, over a limited number of ..."
+    publishedDateTime: 2020-02-04T15:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2020/02/04/9091877.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Security Market Booming By Size, Revenue, Trend And Top Growing Companies 2026"
-    excerpt: "The Artificial Intelligence In Security Market 2020-2026 is a valuable source of insightful data for business strategists. This Artificial Intelligence In Security Market study provides comprehensive data on aspects of competitive intelligence,"
-    publishedDateTime: 2020-02-05T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-booming-by-size-revenue-trend-and-top-growing-companies-2026-2020-02-05"
+      - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
+        width: 400
+        height: 400
+  - title: "Machine Translation Market 2020 The machine translation market is expected to register a CAGR of 7.1% during the forecast period 2020 - 2024"
+    excerpt: "Machine Translation Market 2019 analysis is provided for each region, based on the growth rate, consumer buying patterns, present demand and supply scenarios in Machine Translation Market. This market research report is a beneficial tool for its buyer to increase the profitability of investment,"
+    publishedDateTime: 2020-01-29T06:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-2020-the-machine-translation-market-is-expected-to-register-a-cagr-of-71-during-the-forecast-period-2020---2024-2020-01-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 19
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Growing Optimism in Emerging Markets, Fintech Company CGTRADE Expands Its Business in Asia Pacific"
-    excerpt: "This includes United States fintech investment advisory company CGQuant and its subsidiary CGTrade. CGTrade has set up operation centres across Asia Pacific regions including Malaysia, Singapore, Taiwan, Hong Kong. The company, utilizing powerful internal and external resources of CGQuant including AI big data algorithms, provides top-level ..."
-    publishedDateTime: 2020-02-05T11:20:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48776422-growing-optimism-in-emerging-markets-fintech-company-cgtrade-expands-its-business-in-asia-pacific-200.htm"
+  - title: "The natural language processing (NLP) market is expected to progress at a 19.7% CAGR during 2019–2024 (forecast period) to $22.9 billion by 2024"
+    excerpt: "New York, Jan. 29, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Natural Language Processing Market\" - https://www.reportlinker.com/p05842957/?utm_source=GNW Valuing $8."
+    publishedDateTime: 2020-01-29T07:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/g15205612/the-natural-language-processing-nlp-market-is-expected-to-progress-at-a-19-7-cagr-during-2019-2024"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15205612"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15205612"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 10
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/575314/1.png"
-        width: 1760
-        height: 786
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+  - title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
+    excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+    publishedDateTime: 2020-02-03T10:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
+  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
+    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025"
+    publishedDateTime: 2020-02-06T12:07:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980967/0/en/Voice-and-Speech-Recognition-Market-Worth-26-8-Billion-by-2025-at-a-CAGR-of-17-2-from-2019-Meticulous-Research.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
-secured: "9sOc9etmjkGmKJcZZTPYyvrngIlJ/7IrJG1SLeqzVwWdZdQ4xSM0oyRdnd4pWYmF9yTM4E+XoN3KHbrQtWsWy4qBR/Ad0Oeh4Rwk877ITVCZSR+NmaaYonB6kQzQ8lS+3BwJyPIg+MYAKAHUxoXdxEIq63qD7otDCEO7zLuP5M5u5knRyCNHCoDnGi/AdgAkAYT991PPcD1IBQh7VxCIy3RxF2z8QujjXJr6x8Ln0MG/QrzfDo9L3+veXJTKSgca21TWiY+4F4jX0581/Dv6KgqZUrZ5R6h8x+RrdAXOMu0yzvGVhnsZdyeaTFJhDyVl;qRtEOkIH9OPKw3Pj6Dskww=="
+secured: "hSFuU6mRmh7yMdl6BUeewcs3kMEy/LEfCU3AD2cBF0Ryur7XQUDK7atJcXtOuELc9evMZWo8Doj1FM/MLsblvDVQ0q0jfpuW8nm1qS6FOvuVngTJ00onzh10HWhef6ajJLU/z+eZXsQuKtJIQO4qwHhwHCrLIN37at+07T9N8VRmUlWJLN+ZsVbL+mwBUENR5ChlJ5qjmVnsCKsF8y/JcfR3tYGKZVTi7GKtrguqJrxWTCKONF8vyGnWso5FVyaUbcmaRbDBwIp4gqQmHvTaTJX/LJQyzbZmXDevUfCvlqFLDTpMSizTdOi3jkS1LlAZ;gXI6DtTZLzI+XmUq6J161g=="
 ---
 

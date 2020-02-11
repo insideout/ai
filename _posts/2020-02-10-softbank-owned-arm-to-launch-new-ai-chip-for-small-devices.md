@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2041MK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2041MK"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "SoftBank-owned Arm to launch new AI chip for small devices"
 
 related:
+  - title: "SoftBank-owned Arm's latest chip designs feature improved AI performance on edge IoT devices"
+    excerpt: "Chip designer Arm unveiled two new chip designs that can provide better artificial intelligence functionality on edge IoT devices."
+    publishedDateTime: 2020-02-11T14:39:00Z
+    webUrl: "https://www.businessinsider.com/arms-artificial-intelligence-chips-show-pull-of-voice-tech-2020-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+    images:
+      - url: "https://i.insider.com/5e42b5504b661b3875464416?width=600&format=jpeg&auto=webp"
+        width: 600
+        height: 450
   - title: "Arm unveils AI chip for small devices"
     excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
     publishedDateTime: 2020-02-10T14:53:00Z

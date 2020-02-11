@@ -2,6 +2,95 @@
   "page": 11,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-12-microsoft-outsourced-skype-cortana-voice-analysis-to-china-with-virtually-no-security-in-place-report.md",
+      "title": "Microsoft Outsourced Skype, Cortana Voice Analysis to China With Virtually No Security in Place: Report",
+      "excerpt": "According to the Guardian, workers who were tasked with transcribing and vetting these clips in order to improve Microsoft’s voice-recognition technology were given no cybersecurity support to keep the recordings from theft or seizure by governments. A contractor on the project, who was based out of Beijing, told the paper that new hires ...",
+      "heat": 68,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163",
+      "ampWebUrl": "https://gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163/amp",
+      "publishedDateTime": "2020-01-12T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--yLbSiilu--/c_scale,f_auto,fl_progressive,q_80,w_800/rnlvvsunsjuyaznjm5th.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Microsoft Outsourced Skype, Cortana Voice Analysis to China With Virtually No Security in Place: Report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-12-researchers-are-we-on-the-cusp-of-an-ai-winter.md",
+      "title": "Researchers: Are we on the cusp of an ‘AI winter’?",
+      "excerpt": "some researchers believe it would be wrong to call this new phase an AI winter. Robot Wars judge Noel Sharkey, who is also a professor of AI and robotics at Sheffield University, told the BBC that he likes the term \"AI autumn\" - and several others agree.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-51064369",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51064369",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51064369",
+      "publishedDateTime": "2020-01-11T16:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/136BA/production/_110464597_atlas.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Researchers: Are we on the cusp of an ‘AI winter’?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-12-self-driving-cars-take-over-ces-heres-how-big-tech-is-playing-the-market.md",
       "title": "Self-driving cars take over CES: Here's how big tech is playing the market",
       "excerpt": "Baidu is developing an open source platform that it hopes will become the \"Android\" of self-driving cars, dubbed Apollo. Microsoft joined Baidu's Apollo \"alliance,\" gaining a channel for sales of ...",
@@ -1183,7 +1272,7 @@
       "path": "_posts/_archive/2020-01-14-germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence.md",
       "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
       "excerpt": "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ...",
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://markets.businessinsider.com/news/stocks/germany-s-bundesliga-to-use-amazon-web-services-artificial-intelligence-1028816437",
@@ -1992,96 +2081,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
-      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "publishedDateTime": "2020-01-15T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
-          "width": 640,
-          "height": 358,
-          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-future-proof-your-tech-skills-with-the-ultimate-deep-learning-bundle.md",
-      "title": "Future-proof your tech skills with the Ultimate Deep Learning Bundle",
-      "excerpt": "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/ultimate-deep-learning-1073754/",
-      "ampWebUrl": "https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/",
-      "publishedDateTime": "2020-01-15T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Businessman-and-robot-shaking-hands-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Future-proof your tech skills with the Ultimate Deep Learning Bundle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -162,6 +162,32 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-020-0153-x/MediaObjects/42256_2020_153_Fig1_HTML.png"
         width: 685
         height: 521
+  - title: "Evolving L&D: Before artificial intelligence, master adaptive learning"
+    excerpt: "Machine Learning Natural Language Processing Deep Learning Neural Networks “Artificially intelligent systems have to not only analyze activities and predict outcomes - they also need to learn from those predictions over time.” He also points out that even in our attempt to understand AI, a lack of a highly precise and universally embraced ..."
+    publishedDateTime: 2020-02-11T14:32:00Z
+    webUrl: "https://www.hrdive.com/spons/evolving-ld-before-artificial-intelligence-master-adaptive-learning/572014/"
+    type: article
+    provider:
+      name: HR Dive
+      domain: hrdive.com
+    quality: 39
+    images:
+      - url: "https://www.hrdive.com/user_media/cache/d4/49/d449d9cf9eb38eb0e348de33ab507062.jpg"
+        width: 770
+        height: 364
+  - title: "Talking to Robots With David Ewing Duncan"
+    excerpt: "I love learning about anything new in the world of emerging technology, AI (artificial intelligence), ML (machine learning), VR (virtual reality ... He asked them “What kind of robot would you want to meet or be afraid to meet in the future?” The book is structured to give us some possible future scenarios. David’s opinion (and mine ..."
+    publishedDateTime: 2020-02-11T14:08:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/Talking-to-Robots-With-David-Ewing-Duncan-15045274.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/10/41/32/19011219/13/rawImage.jpg"
+        width: 2000
+        height: 1333
   - title: "Starship delivery robots indicate groundbreaking food delivery tech advancing into Madison"
     excerpt: "Now, three months after being introduced, these robots are in southeast and their AI (artificial intelligence) has greatly improved. They now cross streets faster, though still with some difficulty (missing traffic lights), and can navigate through more environments. If a robot does get stuck, they can be remotely controlled by a human to help ..."
     publishedDateTime: 2020-02-06T17:23:00Z

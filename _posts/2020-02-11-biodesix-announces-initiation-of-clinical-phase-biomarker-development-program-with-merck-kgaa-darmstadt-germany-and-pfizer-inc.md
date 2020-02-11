@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Biodesix Announces Initiation of Clinical Phase Biomarker Development Program with Merck KGaA, Darmstadt, Germany and Pfizer Inc."
-excerpt: "Biodesix, Inc. announced initiation of the next phase of their biomarker development program with Merck KGaA, Darmstadt, Germany and Pfizer Inc., New York, NY. The companies have completed initial discovery and development of a new proteomic test that identifies likely responders to the anti-PD-L1 checkpoint inhibitor (BAVENCIO®) (avelumab)."
-publishedDateTime: 2020-02-11T11:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/biodesix-announces-initiation-of-clinical-phase-biomarker-development-program-with-merck-kgaa-darmstadt-germany-and-pfizer-inc-2020-02-11"
+excerpt: "Based on data found in the circulating proteome and genome, Biodesix designs tests that support treatment decisions including patient selection for immunotherapies, novel therapy combinations ... combines Biodesix’s strengths in test discovery and development, artificial intelligence, and their applications to immunotherapy, with the ..."
+publishedDateTime: 2020-02-11T12:22:00Z
+webUrl: "https://www.businesswire.com/news/home/20200211005158/en/Biodesix-Announces-Initiation-Clinical-Phase-Biomarker-Development"
 type: article
-quality: 25
-heat: 25
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+  - url: "https://mms.businesswire.com/media/20200211005158/en/772467/23/Biodesix_r_rgb.jpg"
     width: 1200
-    height: 630
+    height: 627
     title: "Biodesix Announces Initiation of Clinical Phase Biomarker Development Program with Merck KGaA, Darmstadt, Germany and Pfizer Inc."
 
-secured: "8duLy4+hpwFJzBRFYimcFhHrRkjRUCHraoA9fe0CxEQO+Zc1uxMCoEbAL043zyGC4r1HENUG+qsEGEP6WKKI8TK7wL6l/WttCUJNwbwEqdOklZG2nvA8+WVHYxZFDoN03KetzZ4C0pe94THuaZxvq1sZAN94C6+gcRNl+DzQiIXwO4OWzIoV9LM49F4LTxTC/WyYhKgDeLObbmrvYuIs9w+rfkzbKQH+s0wc3DqF/ly0VzppINJV0EFPZrvu8CrIqrzPCHaYClsf1a1ppZ0V5JYXp2nWV5b+0TDMgtweOSDqX6lu92gKM2dOOYi0gwaJ;7wYxr9Zj163NL/9vcXMlKw=="
+secured: "wjoSq44GR4Aj+AvNv0Mv+B3ggQ6gopD55KaAAkIVHRy2FbOoh83utvSzU5/ls8pDqaOGhE49JXCa2wiTfspFV3TavHv60LEvA6ZeT12ybNWlWmZep7a362lxFFsodw2zaYSS948nSpK3ZnMMWG+goet0ykPKYFhK+s/vooFkTV7gjsh/KtPYvG0pmgZihGGFnarU9htm9X39iMUols+X3LuR/VF3oMy1tTpqTzyUBHyohvMEwtgD8XO1ZQZdbg9VtR1OIN/RJkYJaV+W15kK/luCYum4EX+wZ052j9bTYhOuBkBaBuIAqMytYV2sE5oD;/gkuBC4KTdUPhgMVVO1QkQ=="
 ---
 

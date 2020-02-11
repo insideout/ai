@@ -25,6 +25,6 @@ images:
     height: 376
     title: "Google needs to fix its notoriously bad bilingual speech recognition on Assistant and Gboard (Updated)"
 
-secured: "Bww3hhZSc4wu6BStB11cAbzKMg/RW57OlbWq+pCOZJQnEG5jdEjANF7ZTm18/l/xO/9PM+W2tzN0fdiP9Z8V5B1SXqiGDzQ1004f9KEz8I32EH50Sx59Ovkvhm/UeykweIK+TntL4RJZfcDc9gQrR/oZV4jBbr9U+KVO2USX4tE3sLcsJkm6ih0dc5LtLzp5r7v+EdjWF0rqz5pP/sLgaT98WyWPC/Ga05gRuzMXIOEUfLwQdDS27yE0+eC6N3GN2UE6M0DbMv7x6EN/RKtmaThir3sR5koTjV8nZGQA98GxNmjx4Z/XlZGi/NLZfCBe;eqaEZedlL6i0mkKlmHxbaQ=="
+secured: "2HiLVqLD/vfKCiiYCbmAISxFrSZQX18Dzn99gjz7HhDpUvctBeYrTdWL8/BUuE1r0fAPdva5krM4btXFDLWjAbr1HE+q1Y70VQraKiiffcikZELUqMFygnRgDkAUYurEcMXJ+BQw15nI7OwNxxq73fThF6zqpntC/A/laiStTpnBU7xEKknNgyIic/hSx7u1uXQNQ7eVjGmI3zQS0rdG2u+ItSZ9La+ymmIz3D/mYTqaE0fIH48fFAGHL/2KFOqdAWLVuHp6gFvAFZfNrj69LSjrdLr+zVCYrXBbCKwOWLuAsKFvv070z3jXnkRf7mTl;0XM7+6fMuWuKzCN+DoUTvA=="
 ---
 

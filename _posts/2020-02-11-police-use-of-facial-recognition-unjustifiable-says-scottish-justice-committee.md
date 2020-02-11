@@ -41,6 +41,21 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg"
         width: 1024
         height: 576
+  - title: "EU backs away from call for blanket ban on facial recognition tech"
+    excerpt: "Brussels has backed away from plans to call for a five-year blanket moratorium on the use of facial recognition technology in public spaces, instead leaving the responsibility of choosing to impose a ban to member states, despite concerns from privacy groups that civil liberties could be infringed by the biometric software. In a draft of a ..."
+    publishedDateTime: 2020-02-11T14:49:00Z
+    webUrl: "https://www.ft.com/content/ff798944-4cc6-11ea-95a0-43d18ec715f5"
+    ampWebUrl: "https://amp.ft.com/content/ff798944-4cc6-11ea-95a0-43d18ec715f5"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ff798944-4cc6-11ea-95a0-43d18ec715f5"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1b149884-4cd0-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
   - title: "Current facial recognition technology ‘is not fit for purpose’, say MSPs"
     excerpt: "Current facial recognition technology is not fit for purpose and Police Scotland should not invest in it until major concerns are resolved, according to a damning report published today by MSPs. Holyrood’s justice sub-committee on policing has told the force that before introducing the technology, it has to “demonstrate the legal basis ..."
     publishedDateTime: 2020-02-11T06:04:00Z
@@ -202,21 +217,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 15
-  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
-    excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling, NLP, ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition),"
-    publishedDateTime: 2020-02-11T10:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15297123/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artifi"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15297123"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15297123"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
   - title: "Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application, By Region, Competition, Forecast & Opportunities, 2024"
     excerpt: "Global In Flight Voice Recognition Market, By Technology (Voice Recognition, Speech Recognition), By Aircraft Type (Narrow-body Aircraft, Wide-body Aircraft, Very-large Aircraft, Regional Transport Aircraft),"
     publishedDateTime: 2020-02-05T18:29:00Z
     webUrl: "https://www.globenewswire.com/news-release/2020/02/05/1980506/0/en/Global-In-Flight-Voice-Recognition-Market-By-Technology-By-Aircraft-Type-By-Application-By-Region-Competition-Forecast-Opportunities-2024.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
+    excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
+    publishedDateTime: 2020-02-11T11:18:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/11/1982878/0/en/Emotion-Detection-Recognition-Markets-Forecast-to-2024-Rising-Need-for-Socially-Intelligent-Artificial-Agents.html"
     type: article
     provider:
       name: GlobeNewswire

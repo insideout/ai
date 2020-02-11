@@ -2,6 +2,96 @@
   "page": 9,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-02-googles-deepmind-created-an-ai-for-spotting-breast-cancer-that-can-outperform-human-radiologists.md",
+      "title": "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists",
+      "excerpt": "It indicates a way to close an interaction, or dismiss a notification. Google Health and DeepMind have created an AI tool capable of spotting breast cancer with as much accuracy as a human ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-02T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e0dc2ff855cc233a169d124?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-02-new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation.md",
+      "title": "New eBay platform using AI to enable image search and internal innovation",
+      "excerpt": "In a blog post, eBay's Sanjeev Katariya, vice president and chief architect of the eBay AI and platforms, and Ashok Ramani, director of product management, computer vision, natural and language ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/",
+      "publishedDateTime": "2020-01-02T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/08/14/04431cd4-496f-4b8b-8c84-626bb46b9b53/thumbnail/1200x675/341ae9baa20fd565a197f478b55bbb38/20190731-brandonai-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "New eBay platform using AI to enable image search and internal innovation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-02-samsungs-new-family-hub-refrigerator-uses-computer-vision-to-keep-tabs-on-groceries.md",
       "title": "Samsung’s new Family Hub refrigerator uses computer vision to keep tabs on groceries",
       "excerpt": "If you’re in the market for a new fridge, no need to fret — Samsung’s got you covered. This morning, ahead of the 2020 Consumer Electronics Show (CES), the tech giant debuted the latest ...",
@@ -2053,96 +2143,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-08-artificial-humans-named-neon-are-stars-of-ces.md",
-      "title": "'Artificial humans' named Neon are stars of CES",
-      "excerpt": "Neon, the super-realistic digitally simulated avatar, has taken CES by storm. Build upon the Core R3 neural network, the Neon avatars can provide incredibly lifelike renderings of people to be used as AI assistants,",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
-      "publishedDateTime": "2020-01-08T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106325550-1578454163254screenshot2020-01-07at10.28.04pm.png?v=1578507662",
-          "width": 2818,
-          "height": 1594,
-          "title": "'Artificial humans' named Neon are stars of CES",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-08-artificial-intelligence-ai-market-forecast-2023-how-much-of-the-stock-market-is-traded-by-ai.md",
-      "title": "Artificial Intelligence (AI) Market Forecast 2023 | How Much of the Stock Market is Traded by AI",
-      "excerpt": "Artificial Intelligence (AI) Market Research Report – Forecast To 2023 Market Highlights The global market for artificial intelligence (AI) can expect to attain a highly impressive growth rate of 48% during the forecast period (2017-2023),",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-forecast-2023-how-much-of-the-stock-market-is-traded-by-ai-2020-01-08",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-07T23:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Market Forecast 2023 | How Much of the Stock Market is Traded by AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

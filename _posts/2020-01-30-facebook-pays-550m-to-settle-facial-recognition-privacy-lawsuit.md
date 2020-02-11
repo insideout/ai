@@ -205,21 +205,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2020/01/31/James-Stickland_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg"
         width: 2880
         height: 1800
-  - title: "Government privacy watchdog under pressure to recommend facial recognition ban"
-    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB), an independent agency, is coming under increasing pressure to recommend the federal government stop using facial recognition."
-    publishedDateTime: 2020-01-27T21:31:00Z
-    webUrl: "https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition"
-    ampWebUrl: "https://thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/480152-government-privacy-watchdog-under-pressure-to-recommend-facial-recognition?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 55
-    images:
-      - url: "https://thehill.com/sites/default/files/blogs/facescan_facialrecognition_020314thinkstock.jpg"
-        width: 645
-        height: 363
   - title: "Zuckerberg Pledges Facebook Users Privacy Upgrades After $550 Million Facial Recognition Settlement"
     excerpt: "Facebook Inc has reached a $550 million settlement of claims it collected and stored millions of users' biometric data without their consent, as Chief Executive Mark Zuckerberg pledged better protections for users to address privacy concerns that have dogged the social media company."
     publishedDateTime: 2020-02-01T20:13:00Z
@@ -248,19 +233,6 @@ related:
       - url: "https://i.insider.com/5e3217765bc79c3a250185f8?width=1200&format=jpeg"
         width: 1200
         height: 900
-  - title: "Sen. Edward Markey Poses Questions About Clearview AI’s Facial Recognition Tool"
-    excerpt: "Sen. Edward Markey (D-Mass.) sent a letter to Clearview AI CEO Hoan Ton-That expressing concerns about the privacy risks posed by the company’s facial recognition tool. In the letter, Markey wrote that Clearview’s tool allows users to capture and upload pictures of strangers and analyze the biometric data of photographed individuals."
-    publishedDateTime: 2020-01-27T21:24:00Z
-    webUrl: "https://www.executivegov.com/2020/01/sen-edward-markey-poses-questions-about-clearview-ais-facial-recognition-tool/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 50
-    images:
-      - url: "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300001386cOEAQ"
-        width: 272
-        height: 270
   - title: "Indian Railways will be using facial recognition to fight crime by end of 2020"
     excerpt: "Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday warned could breach people’s privacy in the absence of stringent laws."
     publishedDateTime: 2020-01-29T13:34:00Z
@@ -354,19 +326,6 @@ related:
       - url: "https://thenypost.files.wordpress.com/2020/01/state-lawmaker-wants-to-ban-facial-recognition-tech-in-law-enforcement.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-  - title: "Army Taps Academia to Address Hacker Risks in Facial Recognition Tech"
-    excerpt: "The U.S. Army and Duke University have partnered to address cyber risks that threaten the use of object and facial recognition in artificial intelligence training. Researchers at the university have developed a software that detects backdoor hacking attempts orchestrated against recognition systems, the Army said Tuesday. Army Research ..."
-    publishedDateTime: 2020-01-27T21:24:00Z
-    webUrl: "https://www.executivegov.com/2020/01/army-taps-academia-to-address-hacker-risks-in-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 39
-    images:
-      - url: "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300000xo9XQEAY"
-        width: 272
-        height: 270
   - title: "NEC to Provide Facial Recognition Technology for Mitsui Fudosan Hotels"
     excerpt: "NEC Corporation (TSE: 6701), a leader in the integration of IT and network technologies, today announced it will provide a \"Smart Hospitality Service\" utilizing facial recognition technology for \"Sequence\","
     publishedDateTime: 2020-01-28T07:12:00Z

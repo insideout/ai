@@ -81,6 +81,19 @@ related:
       - url: "https://mma.prnewswire.com/media/831667/Absolute_Market_Insights_Logo.jpg "
         width: 400
         height: 400
+  - title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
+    excerpt: "/PRNewswire/ -- Machine vision is a mature technology with established incumbents. However, significant advancements in chipsets, software, and standards"
+    publishedDateTime: 2020-02-11T08:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/installed-base-of-machine-vision-systems-in-industrial-manufacturing-to-reach-near-100-million-by-2025-301002034.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/276887/abi_research_logo.jpg?p=facebook"
+        width: 643
+        height: 337
   - title: "The natural language processing (NLP) market is expected to progress at a 19.7% CAGR during 2019–2024 (forecast period) to $22.9 billion by 2024"
     excerpt: "New York, Jan. 29, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Natural Language Processing Market\" - https://www.reportlinker.com/p05842957/?utm_source=GNW Valuing $8."
     publishedDateTime: 2020-01-29T07:33:00Z

@@ -35,6 +35,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Adobe launches macOS Voice Control in Adobe XD"
+    excerpt: "The feature uses on-device Siri speech recognition technology, which according to Apple, ensures personal data is kept private. Now, with Adobe XD's enhanced labeling, users of Apple's Voice Control feature will be able to use their voice to launch the platform, access all of its core design features, create prototype interactions in ..."
+    publishedDateTime: 2020-02-11T14:00:00Z
+    webUrl: "https://www.zdnet.com/article/adobe-launches-macos-voice-control-in-adobe-xd/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-launches-macos-voice-control-in-adobe-xd/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-launches-macos-voice-control-in-adobe-xd/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
   - title: "Adobe pushes growth in ANZ market with launch of Adobe Experience Platform"
     excerpt: "“The Microsoft Azure Australia data centre will enable Australia and New Zealand businesses to ... Do you want to leverage data governance as an enabler?Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics to the limits?"
     publishedDateTime: 2020-02-11T02:00:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-launches-experience-p
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-launches-experience-platform-out-of-azure-in-australia/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -24,6 +24,17 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Adobe launches macOS Voice Control in Adobe XD"
+    excerpt: "The feature uses on-device Siri speech recognition technology, which according to Apple, ensures personal data is kept private. Now, with Adobe XD's enhanced labeling, users of Apple's Voice Control feature will be able to use their voice to launch the platform, access all of its core design features, create prototype interactions in ..."
+    publishedDateTime: 2020-02-11T14:00:00Z
+    webUrl: "https://www.zdnet.com/article/adobe-launches-macos-voice-control-in-adobe-xd/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-launches-macos-voice-control-in-adobe-xd/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-launches-macos-voice-control-in-adobe-xd/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
   - title: "Adobe Launches Experience Platform In Australia And New Zealand"
     excerpt: "The Microsoft Azure Australia data centre will enable Australia and New Zealand businesses to ... journey,” said Adobe Experience Platform product marketing group manager Ronell Hugh. “Leveraging Adobe Sensei AI and machine learning, brands can apply a layer of intelligence to connect data and content to ensure the delivery of the right ..."
     publishedDateTime: 2020-02-10T22:10:00Z

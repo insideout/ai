@@ -315,7 +315,7 @@
       "path": "_posts/2020-02-10-flighthub-justfly-on-robots-and-travel.md",
       "title": "FlightHub & JustFly on robots and travel",
       "excerpt": "Once programmed, some robots function autonomously. Still, many robots require more guidance, especially when used with third-party software for voice recognition, accident detection, virtual reality applications, and others. When combined with artificial intelligence (AI), robots become far more sophisticated. AI’s ability to record and ...",
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/10/flighthub-justfly-on-robots-and-travel/",
@@ -712,7 +712,7 @@
       "path": "_posts/2020-02-10-softbank-owned-arm-to-launch-new-ai-chip-for-small-devices.md",
       "title": "SoftBank-owned Arm to launch new AI chip for small devices",
       "excerpt": "Arm Ltd, a semiconductor technology firm owned by SoftBank Group, unveiled a chip technology aimed at putting artificial intelligence functions on tiny devices such as sensors designed to detect patterns in human speech or other streams of data.",
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-arm-tech-idUSKBN2041MK",
@@ -930,7 +930,7 @@
       "path": "_posts/2020-02-10-top-5-companies-using-machine-learning-in-2020.md",
       "title": "Top 5 companies using Machine Learning in 2020",
       "excerpt": "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ...",
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "type": "article",
       "webUrl": "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9",
@@ -1329,6 +1329,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-11-ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-of-financial-aid-applications.md",
+      "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
+      "excerpt": "Otterbot is a free, AI-powered texting service that can help high school seniors apply for financial aid that covers tuition and fees for college and other training. Last year, Washington ranked 48th among U.S. states for the percent of students who completed federal financial aid applications or FAFSA, a standardized form used for awarding ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/",
+      "ampWebUrl": "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/",
+      "publishedDateTime": "2020-02-11T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/20190330_155633-e1556638491703-630x407.jpg",
+          "width": 630,
+          "height": 407,
+          "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-11-amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia.md",
       "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
       "excerpt": "... reckons it can win the high-end GPU battle – and dethrone Nvidia These are all the best graphics cards of 2020 Remember this is a GPU aimed at data center and heavyweight compute usage – the likes of AI applications – but seemingly we’re looking at something of a beast of a card with a 1,090MHz base clock and 1,333MHz boost, with ...",
@@ -1497,7 +1541,7 @@
       "path": "_posts/2020-02-11-facial-recognition-no-justification-for-police-scotland-to-use-technology.md",
       "title": "Facial recognition: 'No justification' for Police Scotland to use technology",
       "excerpt": "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ...",
-      "heat": 246,
+      "heat": 256,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.bbc.com/news/uk-scotland-51449166",
@@ -1812,6 +1856,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-11-robot-with-coronavirus-advice-hits-times-square.md",
+      "title": "Robot with coronavirus advice hits Times Square",
+      "excerpt": "Worried about the spread of coronavirus? A five-foot tall (1.5 meter) Promobot might have your answer. The robot with a friendly face rolled into Times Square on Monday to help provide information about the new virus.",
+      "heat": 172,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
+      "publishedDateTime": "2020-02-11T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106384789-1581430324237gettyimages-1166054633.jpeg?v=1581430362",
+          "width": 5042,
+          "height": 3456,
+          "title": "Robot with coronavirus advice hits Times Square",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-11-three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes.md",
       "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
       "excerpt": "AI and ML are revolutionizing many healthcare processes that, although not medical in nature, directly affect provider efficiency and productivity — as well as the patient experience.",
@@ -2078,86 +2166,6 @@
           "width": 1200,
           "height": 675,
           "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2017-07-27-kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video.md",
-      "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
-      "excerpt": "According to an essay in The Huffington Post, pop singer Kesha, while writing “Learn to Let Go,” was also inspired by ... where she encounters signposts from her past—including a cleverly devised fake swimming pool—that parallel the funny, often ...",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/",
-      "ampWebUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
-      "cdnAmpWebUrl": "https://www-slantmagazine-com.cdn.ampproject.org/c/s/www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
-      "publishedDateTime": "2017-07-27T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slant Magazine",
-        "domain": "slantmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.slantmagazine.com/wp-content/uploads/2017/07/music_learntoletgo-600x600.jpg",
-          "width": 600,
-          "height": 600,
-          "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2018-08-22-society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix.md",
-      "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
-      "excerpt": "In the movie The Matrix, humans are imprisoned in a virtual world by a powerful artificial intelligence system in a dystopian future. What they take to be ... with their senses is actually made of AI-generated code. Life in our current society is very ...",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@caityjohnstone/society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix-787c7e2539ae",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-08-21T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*pmMn-OBDF907eDRG",
-          "width": 1200,
-          "height": 900,
-          "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
           "attribution": null
         }
       ],

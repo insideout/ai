@@ -2,6 +2,95 @@
   "page": 19,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-27-this-entrepreneur-is-helping-smbs-embrace-technology.md",
+      "title": "This Entrepreneur Is Helping SMBs Embrace Technology",
+      "excerpt": "“We are an expert Azure managed services partner, driving the cloud transformation for over ... analysis services, artificial intelligence, bots and machine learning,” Richard said. Founded in 2012, G7CR Technologies counts brands such as Alibaba.com, Amazon, Digicert, Microsoft and Softlayer as its global technology partners.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/345546",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345546",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345546",
+      "publishedDateTime": "2020-01-27T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200127105642-DrChristopherRichardedit.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This Entrepreneur Is Helping SMBs Embrace Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-27-tinder-asks-does-this-bother-you.md",
+      "title": "Tinder Asks ‘Does This Bother You’?",
+      "excerpt": "If the answer is yes, Tinder will direct them to its report form. The new feature is available in 11 countries and nine languages currently, with plans to eventually expand to every language and country where the app is used. Major social media platforms like Facebook and Google have enlisted AI for years to help flag and remove violating content.",
+      "heat": 172,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/",
+      "ampWebUrl": "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp",
+      "publishedDateTime": "2020-01-27T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Tinder Asks ‘Does This Bother You’?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-27-ubers-ai-plays-text-based-games-like-a-human.md",
       "title": "Uber’s AI plays text-based games like a human",
       "excerpt": "Can AI learn to play text-based games like a human? That’s the question applied scientists at Uber’s AI research division set out to answer in a recent study. Their exploration and imitation-learning-based system — which builds upon an earlier framework called Go-Explore — taps policies to solve a game by following paths (or ...",

@@ -30,6 +30,19 @@ related:
       - url: "https://images.eurogamer.net/2020/articles/2020-02-05-10-45/modl.ai_team.jpg"
         width: 1500
         height: 1000
+  - title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
+    excerpt: "View the full release here: https://www.businesswire.com/news/home/20200211005446/en/ Founded in March 2018 by former Microsoft executive Jean Paoli and four other senior engineering leaders from Microsoft, Docugami harnesses a wide range of artificial intelligence techniques, including natural language processing, image recognition ..."
+    publishedDateTime: 2020-02-11T14:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-docugami-announces-10-million-seed-funding-round-led-/2020/02/11/9095880.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://mms.businesswire.com/media/20200211005446/en/772660/4/Docugami_Team_Offsite_February_2020.jpg"
+        width: 480
+        height: 346
 
 secured: "xb8Yepdvw10Wsg7FSBQNpgIOaw06DySF1p9e3TAjvebMsQBJCbZ3ayA7+AmF/Ds6Nw4ZGV6PABtOTe3emEDnRWKq+3/oirCgxRyOqahLcKnJSiFWYfedih0+sAC0g+DsSvnAZNiQVeJs/uqv18E2RzLdCp9PjHEEhyEfvyFvzpsxspVaKpGVyfJB7YO9ldFlhIQm2Q6jOZgq2R+1upq7IiAm89Ae17PvzXr7+srQU4y/CUE/MEG13uZ3M6Ho9ynBLNrmQztMd98MDFhKJGjU17XGiwCO6vMEUi2o6dBwRjdUDwyWMu3kH17EFX19HU7h;i9n2lTzhg+/5eyADHitvvw=="
 ---
