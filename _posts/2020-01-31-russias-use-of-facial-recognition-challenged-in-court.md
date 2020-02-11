@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-51324841"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51324841"
 type: article
 quality: 189
-heat: 1409
+heat: 1379
 published: true
 
 provider:
@@ -60,19 +60,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e31b7ba8b6cf300071d4b8f%2F0x0.jpg"
         width: 1200
         height: 800
-  - title: "40 groups call for US moratorium of facial recognition technology"
-    excerpt: "The news: Government use of facial recognition technology should be banned “pending further review,” according to 40 organizations that signed a letter calling for a recommendation to be made to the president. The letter, drafted by the privacy advocacy group Electronic Privacy Information Center, or EPIC, cites the recent New York Times ..."
-    publishedDateTime: 2020-01-27T19:07:00Z
-    webUrl: "https://www.technologyreview.com/f/615098/facial-recognition-clearview-ai-epic-privacy-moratorium-surveillance/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 139
-    images:
-      - url: "https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0_0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432"
-        width: 768
-        height: 432
   - title: "India's railways to use facial recognition amid privacy fears"
     excerpt: "Most major railway stations in India will use facial recognition to fight crime by the end of 2020, a senior official said, in a move that digital rights campaigners on Tuesday warned could breach people’s privacy in the absence of stringent laws."
     publishedDateTime: 2020-01-28T14:33:00Z
@@ -1378,19 +1365,6 @@ related:
       - url: "https://cdn.newsy.com/images/videos/m/1580993170_OND4F3.jpg"
         width: 640
         height: 360
-  - title: "NY State Senate Bill Would Ban Police Use of Facial Recognition Technology"
-    excerpt: "A new bill in the New York State Senate would prevent police from using facial recognition technology and some other kinds of biometric surveillance while creating a task force to research future use of the technology. The bill, introduced Monday by State Sen. Brad Hoylman, D-Manhattan, would still allow police and other law enforcement ..."
-    publishedDateTime: 2020-01-27T19:44:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2020/01/27/ny-state-senate-bill-would-ban-police-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2018/02/021418nys-senate.jpg"
-        width: 620
-        height: 372
   - title: "Facial recognition technology helps Volusia County make arrests in 4 cases"
     excerpt: "VOLUSIA COUNTY, Fla. — Thanks to facial recognition technology, the Volusia County Sheriff’s Office was able to make four arrests out of 30 cases last year. The Sheriff’s Office is using a database of more than 2 billion photos including those on social media and other public sites. The department purchased a license to give the new ..."
     publishedDateTime: 2020-02-04T02:19:00Z
@@ -1482,19 +1456,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 32
-  - title: "Biometrics and Information Commissioners criticize live facial recognition deployment across London"
-    excerpt: "The UK government’s Biometrics Commissioner has criticized, alongside MPs and human rights organizations, the Metropolitan Police’s deployment of live facial recognition-equipped cameras across London, writes Public Technology. The Commissioner claims a recent High Court decision does not give the police free reign to roll out biometric ..."
-    publishedDateTime: 2020-01-27T19:14:00Z
-    webUrl: "https://www.biometricupdate.com/202001/biometrics-and-information-commissioners-criticize-live-facial-recognition-deployment-across-london"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 25
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
   - title: "Who’s watching you? Unregulated facial recognition technology has some Massachusetts communities pressing pause to protect civil liberties"
     excerpt: "Another technology, considered far more controversial, is causing some communities to consider its ramifications: facial recognition, a piece of unregulated software that can scan faces captured by cameras and match them with people. Some in law enforcement, as well as public officials, civil liberties advocates and even those working in the ..."
     publishedDateTime: 2020-02-02T15:07:00Z

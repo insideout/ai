@@ -132,6 +132,19 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
         width: 760
         height: 368
+  - title: "Met Police begins deploying live facial recognition cameras in Stratford"
+    excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
+    publishedDateTime: 2020-02-11T11:37:00Z
+    webUrl: "https://www.computing.co.uk/news/4010475/met-police-live-facial-recognition"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 38
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/ff5f354/fc6d1fdc-dffc-47f8-bcdb-4760220f6a01/2/LFR-370x229.jpg"
+        width: 370
+        height: 229
   - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
     excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
     publishedDateTime: 2020-02-11T05:28:00Z
@@ -228,6 +241,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "nOVWqp0+w9O3AP3GBg6zUcHjoBShpSO/mkyZXRT0yoUuUj0XpfNSYRMg/lzccf3uQNp0kSHvVNhnY0zeghgyR3ArIrn0dE3NsGwt+BYFQrKAddUaC947z6Jxyz+kJtG9lVDwuTklVC0+b/qF06PUQVdXk6GFKXzdreiVrQFC+tx9BeCPUfCNF+euCzOF/4Uvg8rDyBdmZk+h2ONaJdevbwMKZg/ngyOp9kj1EWUN4BoP9rt0FjNzSfV2UsHWI3UDPcpGzTPo5Wl2iQ4S7F9OpudN3ruLd8Dn2KCZB7JYujAe0pyBWOvZcbsRwGo2LOSZ;pOHKpdKzjRfXBWbAMbGRGg=="
+secured: "O2Ps14MUgmtOlHoX596Nhs0YeJbKRbA4PHqyTFwul/4DkiKD3YrSeRSDwWuggCkBDPOWlOk6zRBkArlnbgltizqx7k2qPoRbV6Q26bcjd6ipKbj2UnK/GyEeVB4mZddpXvrv2JJfPCcXu3kmb3c6/Xn4CHrH8hbBRMhOx00cBs687eKqi9e6djpN8Ahw+Wbke/gFD0BooYdbDGP77KX1L1MF79gMTPr76hwc5GjiMcneUowuI/kfaTpM87lyX8r/JM+RRHTJvMr6izfy56hRHa+39A0wFX1GIuCU6OjQut3skfzEErf8NpOTxr6mC9bD;DmgEZJ3WVyzIYCaHRrj8+g=="
 ---
 

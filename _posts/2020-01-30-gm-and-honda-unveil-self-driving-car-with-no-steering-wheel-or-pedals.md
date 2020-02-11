@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-s
 cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/gm-and-honda-unveil-self-driving-car-with-no-steering/article_7eb5bc43-e0a7-500d-8ec5-84c32192b4c1.amp.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,21 +26,21 @@ images:
     title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
 
 related:
-  - title: "GM Unveils New Self-Driving Car—But Will It Replace Uber?"
-    excerpt: "Origin is a new all-electric, self-driving vehicle. And it made its debut last week, when it was unveiled in San Francisco. This car-of-tomorrow—that’s happening today—was designed by GM, Cruise (a GM subsidiary) and Honda Motors. Think of the Origin like a driverless shuttle, basically a box with wheels. Did we also mention that Origin ..."
-    publishedDateTime: 2020-01-27T19:14:00Z
-    webUrl: "https://observer.com/2020/01/gm-cruise-origin-self-driving-car-uber/"
-    ampWebUrl: "https://observer.com/2020/01/gm-cruise-origin-self-driving-car-uber/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/gm-cruise-origin-self-driving-car-uber/amp/"
+  - title: "An engineering student is helping envision a self-driving future for people with disabilities"
+    excerpt: "The weekend she was supposed to be presenting a plan to improve transit service for people with disabilities using self-driving shuttles, Jen Schlegel was confronting her own problems getting around. The Ohio State University engineering student had opted for a rolling walker over the wheelchair she sometimes uses, but nonetheless she was late."
+    publishedDateTime: 2020-01-31T13:10:00Z
+    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/an-engineering-student-is-helping-envision-a-self-driving-future-for-people-with-disabilities/2020/01/30/a2120b90-3d5e-11ea-b90d-5652806c3b3a_story.html?outputType=amp"
     type: article
     provider:
-      name: Observer
-      domain: observer.com
-    quality: 44
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 33
     images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/Cruise-Origin-in-SFs-Castro-District.jpg?quality=80&strip"
-        width: 1920
-        height: 1183
+      - url: "https://www.washingtonpost.com/resizer/qxjWQ-jXwV-C9osVN4wWU0S_SLI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QUAWFCR4PUI6VL7CBEHLG63AWE.jpg"
+        width: 1440
+        height: 960
 
 secured: "iL2ZpfB35Lee8BBHYInqhuIUL36e+3kCBRLsZFzGNEQD5Bb7w8/0Dw6p2ZUxYj9DKlhZYkWHNaDPfhlj9ybhvsPJIkH2OxsKitzXRAohUBWi8UagYM7mt7bkdn5lHJZJ1BIp/3ZRJm618Cm0UTBFlo6rltp51Ml0n7GniVS45xzWIzCyWrdaDDXRjdoRnuQ0vvHXB8xg9U4n2vsSCfSm7BX7unwVJIwQ/PFv9SNEoRf5/4/dGzlvayBWEhHiwqhdk83HhFH2f3pfRx3xFBnzxSZMPBTINW2vKGbGs0tD3rwoGS0J2YYSGAO/Fr5As4KTAklKgWpTafT5OIj9FwGolcP5G1Ob+G101bukEKbrQs8cNPeYiEu5G2+5Cb868PEmuny3VPhVN6CTb04r8JzqQSjknIknbFkTF0TgIWNxjO/KJig1wdcC2LZfaCRika9kPO+pSGNZeTkplo4VdAQ1PNjCpf2s7gduPe1xA5duM3I=;SjHlPyElZe4Fo+PXvHn5wA=="
 ---

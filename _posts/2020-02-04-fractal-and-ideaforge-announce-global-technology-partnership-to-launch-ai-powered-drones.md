@@ -36,6 +36,19 @@ related:
       - url: "https://mma.prnewswire.com/media/540539/UST_Global_Logo.jpg?p=facebook"
         width: 1443
         height: 757
+  - title: "Computer Vision, AR and Robotics: Introducing New Wave of Intelligent Automation"
+    excerpt: "Especially of value in the current time of resource scarcity. According to Deep, computer vision, augmented reality and robotics are some other significant technologies that are making the automation process efficient while capturing, aggregating and democratizing data to further augment and empower the human worker experience. Computer Vision ..."
+    publishedDateTime: 2020-02-03T07:54:00Z
+    webUrl: "https://www.analyticsinsight.net/computer-vision-ar-and-robotics-introducing-new-wave-of-intelligent-automation/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 34
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/ia.jpg"
+        width: 640
+        height: 479
   - title: "Zensar's Smart Application Development and Maintenance services incorporate Artificial Intelligence"
     excerpt: "Zensar, a leading digital solutions and technology services company that specializes in partnering with organizations across industries on their digital transformation journey, announced that its Smart Application Development and Maintenance (SmartADM) services now incorporate Robotics, Automation and Artificial Intelligence (AI). Sandeep ..."
     publishedDateTime: 2020-01-28T11:30:00Z

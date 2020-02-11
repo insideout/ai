@@ -125,6 +125,19 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
         width: 760
         height: 368
+  - title: "Met Police begins deploying live facial recognition cameras in Stratford"
+    excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
+    publishedDateTime: 2020-02-11T11:37:00Z
+    webUrl: "https://www.computing.co.uk/news/4010475/met-police-live-facial-recognition"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 38
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/ff5f354/fc6d1fdc-dffc-47f8-bcdb-4760220f6a01/2/LFR-370x229.jpg"
+        width: 370
+        height: 229
   - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
     excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
     publishedDateTime: 2020-02-11T05:28:00Z
@@ -230,6 +243,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "ZeDkVRai8nH0y2eqtEBfuI7Ok17bez+yoEkGKEkNj8KasCQHFtx8fYnrD+Ktiy4m5CUtD4cOOKj7tOuyXL379/0uUGTtgKKhyGBAOO1+WvgD8SFBy28Xvl8TqhsfM7bi1dWw48UpjiCKOY3w7UjMrMoP0AZOzHlhRJvV4pVgkVyup+TESb3jSB0diZfzNbllWoivabSE5Q+mCpi3+lY/n112LH/TlB7viAv+vfRZYm7rN9YH72pvEG3SLMBMoROEDeWooGZdhIOMtvkTDrgUcA5IyV7Y7k95zqQNusp0RIkug/88h1dA6ooWa0oXcR+r;8pqqLFkx6j8pRkofsfRRAA=="
+secured: "eJyfiqvXwyRSPn8DCs15k6sVigwYYeTMgsANHlLTLr9TZ+3ZBpmfhyzbO93Cy/XjYxfP6q0HGklMRUR0J2r6HSjU12IOdvKQQ13V0/rHoIiL/UZlfjKOJ1GCL/V7z+4sSZ0gcjTZS8MjDdywqdSjO3dlvwNVD5csjqk+n25Sw7A26lb6uTE7xsvg+zJOrkWiI6SsWuYmYLC10mGqjRMjpwS7dhIEuXU2UcmmapHukRbEvbKj3S93n4OPJopR737doviSqd87gJwOlyFOlqnR7zJuZpefcIJlfwCkuYxBYNiq2DSC9zY4yYbWA5HpCyErf6XDl3LywGY2O7VBMqH2ImEiXZBAP/yC0YLSuNREfN0nUkO0Z1j/AO8x91Nj0iDxRctj+L5DhPCniALF5sEPOlGItPcYurHxRg9cVNiq+4VX3VGorPVyHsam3RCPNjQ1+28GqNEhYf6qacl52nkQdT9eQ0NudsrZtHucxeVI/kM=;lXR5oG/nUxcCgpHAqm9YYA=="
 ---
 

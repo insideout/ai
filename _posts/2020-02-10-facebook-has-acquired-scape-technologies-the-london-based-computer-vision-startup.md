@@ -60,6 +60,21 @@ related:
       - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/02/scape-technologies.jpg"
         width: 1920
         height: 1080
+  - title: "Facebook Acquires Third AI Startup In UK For $40M"
+    excerpt: "Facebook acquires a new AI startup in Deeptide Ltd. The deal went almost unnoticed save for the blog post of Deeptide's founder back in December There was no disclosed acquisition cost but sources speculates it to be $40 million Facebook's \"acquire and conquer\" strategy has landed it another startup to boost its AI game."
+    publishedDateTime: 2020-02-11T11:58:00Z
+    webUrl: "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901"
+    ampWebUrl: "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/28/facebook-reports-it-is-closer-to-setting-up.jpg"
+        width: 1024
+        height: 682
   - title: "Facebook & Twitter sent cease and desist letters to creepy AI startup"
     excerpt: "This AI has been fed over 3 billion publically available images and can now identify almost anyone at the drop of a hat. Clearview, the company behind the AI, has been pushing into government and law enforcement as they believe what they have created can assist in investigations. According to a Facebook spokesperson who spoke to Buzzfeed News ..."
     publishedDateTime: 2020-02-07T07:48:00Z

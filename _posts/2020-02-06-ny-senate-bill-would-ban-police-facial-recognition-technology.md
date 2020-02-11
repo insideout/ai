@@ -313,19 +313,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
         width: 660
         height: 300
-  - title: "New Jersey law enforcement blocked from using facial recognition tech from Clearview AI"
-    excerpt: "New Jersey is no longer allowing law enforcement in the state to use biometric facial recognition app Clearview AI, following a moratorium put forward by state Attorney General Gurbir Grewal, writes Mashable. “AG asked that all law enforcement agencies in New Jersey stop using Clearview’s technology until we get a better handle on the ..."
-    publishedDateTime: 2020-01-27T20:07:00Z
-    webUrl: "https://www.biometricupdate.com/202001/new-jersey-law-enforcement-blocked-from-using-facial-recognition-tech-from-clearview-ai"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 46
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
   - title: "Facebook agrees to $550M slap on the wrist following facial recognition suit"
     excerpt: "That feature suggested the names of people in photos so that users could more easily tag them to a corresponding Facebook account. In order to accomplish this, Facebook reportedly used a form of facial recognition technology. Facebook discontinued Tag Suggestions in 2019. According to Lauren Gard, a spokesperson for one of the plaintiffs ..."
     publishedDateTime: 2020-01-30T01:47:00Z

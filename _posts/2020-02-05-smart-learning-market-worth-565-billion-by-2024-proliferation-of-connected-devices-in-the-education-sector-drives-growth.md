@@ -110,19 +110,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
-  - title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
-    excerpt: "PARIS--(BUSINESS WIRE)--Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels ..."
-    publishedDateTime: 2020-02-06T09:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200206005222/en/Yseop-Launches-Augmented-Analyst-Next-Generation-AI-NLG"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 15
-    images:
-      - url: "https://mms.businesswire.com/media/20200206005222/en/771287/23/Manche_H_YSEOP.jpg"
-        width: 1200
-        height: 627
   - title: "Forter Introduces its Machine Learning-based Loyalty Program Protection Solution"
     excerpt: "To share a press release or news update, please email our Features Editor, Ameya at: ameya.dusane@martechadvisor.com Loyalty program fraud rose 89% year on year, predominantly driven by the amount of personally identifiable information (PII) available from increasing numbers of data breaches. With direct and indirect losses from loyalty and ..."
     publishedDateTime: 2020-02-05T14:35:00Z

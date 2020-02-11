@@ -37,6 +37,19 @@ related:
       - url: "https://mma.prnewswire.com/media/540539/UST_Global_Logo.jpg?p=facebook"
         width: 1443
         height: 757
+  - title: "Computer Vision, AR and Robotics: Introducing New Wave of Intelligent Automation"
+    excerpt: "Especially of value in the current time of resource scarcity. According to Deep, computer vision, augmented reality and robotics are some other significant technologies that are making the automation process efficient while capturing, aggregating and democratizing data to further augment and empower the human worker experience. Computer Vision ..."
+    publishedDateTime: 2020-02-03T07:54:00Z
+    webUrl: "https://www.analyticsinsight.net/computer-vision-ar-and-robotics-introducing-new-wave-of-intelligent-automation/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 34
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/ia.jpg"
+        width: 640
+        height: 479
   - title: "Fractal and ideaForge Announce Global Technology Partnership to Launch AI-powered Drones"
     excerpt: "MUMBAI, Feb. 4, 2020 /PRNewswire/ -- Fractal (https://fractal.ai), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 100 companies, has announced a technology partnership with ideaForge (https://www.ideaforge.co.in) - a global leader in Unmanned Aerial Vehicle (UAV) Technology. Both organizations will ..."
     publishedDateTime: 2020-02-04T10:21:00Z

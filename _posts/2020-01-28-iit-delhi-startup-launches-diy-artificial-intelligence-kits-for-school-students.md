@@ -34,17 +34,6 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/29/126485-buddhi.JPG?itok=Iz0u1-WE"
         width: 918
         height: 506
-  - title: "New Delhi: IIT-D startup launches DIY AI kits for school students"
-    excerpt: "New Delhi: An IIT-Delhi startup has come up with Do-IT-Yourself (DIY) educational kits for school students to learn the basics of artificial intelligence (AI). The kit includes many technical novelties such as AI computing-engine, friendly AI training or inference applications and real-world AI actuation circuit boards. According to officials ..."
-    publishedDateTime: 2020-01-27T19:07:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/new-delhi-iit-d-startup-launches-diy-ai-kits-for-school-students-600458"
-    ampWebUrl: "https://www.thehansindia.com/amp/hans/young-hans/new-delhi-iit-d-startup-launches-diy-ai-kits-for-school-students-600458"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/young-hans/new-delhi-iit-d-startup-launches-diy-ai-kits-for-school-students-600458"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 37
   - title: "IIT Delhi Startup Launches Artificial Intelligence Kit: Here’s How School Students can Build Smart Robots"
     excerpt: "Artificial intelligence-powered smart home and spaces Artificial intelligence-powered smart dispenser Artificial intelligence-powered smart robots Those interested to learn more about the BUDDHI AI DIY Kit can visit the buddhikit.in website for more details, and can contact the developers for more information and partnerships."
     publishedDateTime: 2020-01-31T08:26:00Z

@@ -54,19 +54,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
         width: 1200
         height: 630
-  - title: "How to Invest in Self-Driving Car Stocks"
-    excerpt: "Hence, driverless cars need programs to run. Most often this includes some form of artificial intelligence (AI) software such as machine learning, neural networks or deep learning. . Sensors – Finally, self-driving cars need sensors in order to fully ..."
-    publishedDateTime: 2020-01-17T11:02:00Z
-    webUrl: "https://investmentu.com/self-driving-car-stocks/"
-    type: article
-    provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 24
-    images:
-      - url: "https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg"
-        width: 730
-        height: 467
 
 secured: "p/DSmsv45oE3yFDtdF6326J2jnCg2grdzmCLa2xwcn1KVrGShwJknPQ9hMXCCCdjpDDL53+dM+jrQ2OqZ/F879PIBW85kLmb0hVMnUrxl2XbJwnhJsXJzFNlrnuNQ7oou+99tJwLpyHgeG8Te0L5pe77gSm/0H8NXRZtVDzgwLC5Sg6P5poDvsniX4IPbooiLqE455Hf+wT3c1z8/sHUp+Q7sJWN+aUnEIZc73C8uHG4KOrBu66AJYmzSTya4xX3dgHV76rQNzjKOOqXLovdXt09LpGgQjh4jSS3nSaEyJUiGi3shhkzvQ+nZ7blDKkc;SroK/6eE8UABbvfPAMBXew=="
 ---

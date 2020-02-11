@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
         width: 1200
         height: 630
-  - title: "How to Invest in Self-Driving Car Stocks"
-    excerpt: "Hence, driverless cars need programs to run. Most often this includes some form of artificial intelligence (AI) software such as machine learning, neural networks or deep learning. . Sensors – Finally, self-driving cars need sensors in order to fully ..."
-    publishedDateTime: 2020-01-17T11:02:00Z
-    webUrl: "https://investmentu.com/self-driving-car-stocks/"
-    type: article
-    provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 24
-    images:
-      - url: "https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg"
-        width: 730
-        height: 467
   - title: "The road ahead for AV in the age of self-driving cars"
     excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
     publishedDateTime: 2020-01-28T10:25:00Z
@@ -68,6 +55,6 @@ related:
         width: 620
         height: 330
 
-secured: "o+7TAtcxmh/ii6GvCx7kpHZ56afnaVbvoz0ZY3VnkXRw1qsFzSTXr8HczGHGX8elxmJGPhkA7jUwjNB9QqytXjwdMEWYZaxg8GPQ/VNuWaQqUj7N2b+R8RQkPo7l1rkHwdMrEoC3V7xD9nnyPmdnPq07p39uzNxht5nNWls0pcB0wQmaoYIpvz46kG9MGKq01TjbpaGpnmBeH/tvGXhFfigxGIND321rrRNGlGHf4VNFtWh4uDIZWoafKfg1NFXwSHpkZngBF/5rtRGkqXSgoj73cj6ptd45rSkuoQpI6Qt5QfTXoKzMWE9TFNKm+xN0;vbGwOW7jgI0J7gnn7MOFww=="
+secured: "oWY3tXaKj3CivhNP/eVZAFJEfOlxWK4G06jdDL3JsUR/zBkPVf2wSD4rRtnp3QfoX78rn0qnDRS/Kodv5GNDP5DoP6EvzVctIq2A0nShYN2/ux9Qy9TQ5VeTgG1Zgn64Jf4r6hLX31wOHoxtr6kNRvPeU0TyB1ZyDmt/M52R10FahoUiEnja+ycwu00BE9F0iUUwSKTlwREch6uWsSVDuoiE8cxUTYssZpwTNeeMnC+UGRM0/eIWjmLiVgwg2P4Db6KffROLpPEz9wrPNx9SJAUk+ggd4QZYpfD3WaiYSIVe5GYz1YjvykrR4bEvsZMc;VOjhU1Rd/kwD8+47plvKAg=="
 ---
 
