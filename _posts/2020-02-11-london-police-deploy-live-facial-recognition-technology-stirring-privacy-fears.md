@@ -1,26 +1,26 @@
 ---
 category: news
 title: "London police deploy live facial recognition technology, stirring privacy fears"
-excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. London police ..."
-publishedDateTime: 2020-02-11T20:40:00Z
-webUrl: "https://www.wowt.com/content/news/London-police-deploy-live-facial-recognition-technology-stirring-privacy-fears-567766371.html"
+excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
+publishedDateTime: 2020-02-11T18:47:00Z
+webUrl: "https://www.hawaiinewsnow.com/2020/02/11/london-police-deploy-live-facial-recognition-technology-stirring-privacy-fears/"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: WOWT.com
-  domain: wowt.com
+  name: KHNL
+  domain: hawaiinewsnow.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://media.graytvinc.com/images/0211_facial+recognition+sign_CNN.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.hawaiinewsnow.com/resizer/5WPDfcRoZsIEZzSuFgW7EurnGtA=/1200x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/52R5YBRIHZBEHP5HNAANYUWTEE.jpg"
+    width: 1200
+    height: 675
     title: "London police deploy live facial recognition technology, stirring privacy fears"
 
 related:
@@ -101,6 +101,6 @@ related:
       domain: cbslocal.com
     quality: 13
 
-secured: "ooyCJ1B1NOxsMAc7RGK/HIZIaUZCANM5XvOcr7j4p/xo2CeXgPexrUZEvDICCvF4wCTYbUjZbqSyCAZf11hrqa/9M9g+BFtREn34KA4WSfwYqVOnxwguR4KEyo33B9wXInCEzOkyEHGPmDhgrz+gq8qnPXEIhZo5cWZC1Qd8C8X3VvpTZljBiANBT9ZidQipmxqgT5rp5QUfFxgLOUFUaeA+VhI5twAP/NmhKlXonWfpTGFUplMi1AkoKjUXS5qc2oxkqlwsszobr3seU+VFhZWIDQcq8lzlutW8MG5+LRjenFN7h2sQCWG1IJzEAZiA;0c7O/UqNuVltM/QwfDaEUQ=="
+secured: "ZOss2LVNPjPdNoINKHfDHA1UR/KfS5wLKnFpoHwuE92HUbWrO/oTbZcFW+9jNXDTQS5X1vp9QeoG5CWhHG1NK/jCeUiixAshjVdMV6DbdMOaK4kqMPkEsSVDYGIMDSY5M1C70XzHOSLz7hLLjg2xksIUCnrZELXJ/PH5JHCnCtU3nxZFil/7JvuJ9O8WJprCsdANt61geXH+lLDWIqhTwB8eNXHFHGGoyyfwSsIGN3mbgOaWKT+Tbu3AstQlNRniD8j5oHyJVRJ4ZHvwdZl9YjhC4K4sueIwC3nceNrSK9JGVanI3ZvhZnzVhQ8sc2ra;dWb/G2VRhccwJbxRCGE8ow=="
 ---
 

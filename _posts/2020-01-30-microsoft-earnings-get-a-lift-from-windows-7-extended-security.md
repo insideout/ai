@@ -49,7 +49,11 @@ related:
     provider:
       name: BCW
       domain: businesscomputingworld.co.uk
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
+        width: 320
+        height: 210
 
 secured: "zn/Qkize6J82Rv//1yIAcMiYhxTMeuIxbTOL+jwNTcLI3iS3zBzXWGrXxpf8HssAlfr2lddUFnEFo2/W4Ss0rJWS162VQ5sPF+tWX5aL1ExIlbkuiBTjKWAtIxFnRoTYrLN23bHUEGP3b3BG964LDDuQgY4cfEFCb8oFGtj4KuCRg/wo3GaCasqwtGK1GdSCkdUN6Ey084F6EATX+q36g9xRh9p/p11Ii8XsA3ZWG9vNiK2+uJxhQKFxw0L3X8kOxcGX6jV0JpXXE97Cz9OUO4U0bBtWZ9VBQScHuz330Ui2aB2hlMUOFYHh51S8oa7g;RE1V2BabnsXY4VwtiiNJZg=="
 ---

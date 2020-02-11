@@ -5,7 +5,7 @@ excerpt: "Facebook has announced that it will be making its wav2letter@anywhere 
 publishedDateTime: 2020-01-16T00:00:00Z
 webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,16 +17,28 @@ topics:
   - AI
   - Natural Language Processing
 
+images:
+  - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
+    width: 849
+    height: 565
+    title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+
 related:
   - title: "Facebook releases low-latency online speech recognition framework"
     excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
     publishedDateTime: 2020-01-13T17:32:00Z
     webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
+    ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 49
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "what3words and Speechmatics launch speech recognition and post-processing API"
     excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
     publishedDateTime: 2020-01-13T11:55:00Z
@@ -41,6 +53,6 @@ related:
         width: 620
         height: 500
 
-secured: "MAGeH9O9D9EmnkUUyY3fIxxbn++wwvVRsEFYSfZH/vSqPzcS1hhE9E16pJ3ilwR+cVB8jTaLRxBFLT6TCg5t7//9KS2pw5htRk3z5EuGRiIAmvfIjCwBEXeifcONzCy4BXrOtzXH8Qk6P6nj3wzJHlD7I1QWoZMNVf/+EZy4WJnEz3X/TeEMOLobd1JghP4w1BS4QZpUq9m9wBxsRpguyCDLpJ+E62v0cz2srdkgCaYb0yrFWh402JeipN98/7xzsNfRdyJ1I6lKJuGzOg0wBQZP8aTsKa/HMF1wxAIiyJxNeups05LGd9gZkd11uyEv;/c1JVdgyNYHjYN1pwlQIJg=="
+secured: "YLcH/h4tPmzrmz+IFed5GvRwgjuKdPM9QRobicsdUTgdBJO0c3h7hcaQ3McO7FYWs9ARFmrB37EgZFl7uIGiC0WAt49ButaMV72pc741qTALdNnoroHBWgG7M5O3MAll30VnxbHetsdjK8foGU8qmRE5hiRQN5TO5uRrBwgD7cv9p5DQD28CaZKwJnMotDRWIzO9pyVFVS+Z+ltZ4IRrR2M94R8wwpV7NFYqxDlwS4nY8ec82nl9mf9Qei9RHRUpnjXLhOWMT1U18pLkWWs8xJc9PA//FladXu80WV5tKPyEkYY/jMDcakOrtpSq6tRo;3lKh8Dalc+2l+Vlcny2nPg=="
 ---
 

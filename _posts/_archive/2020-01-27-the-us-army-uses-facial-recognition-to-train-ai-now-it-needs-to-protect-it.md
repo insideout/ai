@@ -4,8 +4,10 @@ title: "The US Army uses facial recognition to train AI. Now, it needs to protec
 excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 61
+quality: 101
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
+    width: 1200
+    height: 763
+    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
   - title: "Russia's use of facial recognition challenged in court"
@@ -1153,19 +1161,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/378/2020/01/Facial-Recognition.jpg"
         width: 4000
         height: 2110
-  - title: "New facial recognition cameras get green light in London"
-    excerpt: "Elizabeth Howcroft Police officers are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government's own surveillance watchdog. First used in the capital at the Notting Hill carnival in 2016, the cameras will alert police when they spot ..."
-    publishedDateTime: 2020-01-28T03:40:00Z
-    webUrl: "https://www.independent.ie/world-news/europe/britain/new-facial-recognition-cameras-get-green-light-in-london-38894038.html?token=1068783628"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 39
-    images:
-      - url: "https://www.independent.ie/irish-news/news/22ee3/38894012.ece/ALTERNATES/h342/25NewFacial"
-        width: 608
-        height: 342
   - title: "Why a facial recognition ban won’t protect your privacy"
     excerpt: "As a rule, new technologies usually become more popular when they become more advanced, but not so for facial recognition. The technology is both more effective than ever, and also facing a growing backlash from consumers, activists, and lawmakers at the state and federal levels. Concerns about facial recognition are understandable, but they ..."
     publishedDateTime: 2020-01-30T12:00:00Z
@@ -1602,6 +1597,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "Il85ywajo0LA1Ft4oCyRhb+1+seZOQQgvR1BTVgXkhofTCUqOyp1O4w3+9gruLGvn6ieQART6nRW3QNqPMr/XzafbulK5fFoSA1O+37TLfqDd70KuVxNPq8sKupUHzS5tm7muS5BiZSX9Q9koYRyQRwJfu0BaMxqrf1vIT1+VE+VTWc1jy4NOVaHXtHmxMSuYkeFBnO3P8BhRzQ31fw23NJnj+CW3wELSleOhFTZZqtlTrHhx+BuxJhbYie2OF4k1Oy/Gb2j4crIXa0LJhAduwXuFy2/u3ft4QMFSG4z0HtTKxBp+G4GVsNSYnAfyPg+QlW/l3I0OLGGYuNQBvNQOdzKPTNkNf8yVPQrF0rrK3fdyhksLbk7TOpSg/aI/6WkIBdcREoB2OpWf1EeaD5i+5NiHvMSPUf8yhfiSe50wvCT76QizNSmBXs2JhHTTAheFLPLp6zpXLUaAmbv7bPmnfIxUALbspEPvmRUPNJoXZQ=;XL2AWlhVPEapRoA7i+hFAQ=="
+secured: "0W/T9lx4Q93NCkddh+xMWlxj14ztGU5dhkXn4uRwqEvr0MyXdTo2p5NXoZwFjnJzypcU/Ys+SJJhJN8Bqg4fh8xAbh6XIKR6f2nOuIX5y+9KHUfPT3GRp14gPo3vTSWxI6JSzMskZEb7FzZR1MZT2D7fgjSnov3A94c64UVP6iItgubgds04qlV7/QSd9XhJLrRNzeKDtAfNKlfXAjHXWqRf4QDcihKp6x8euMhuJlIbJGTDrPIFy9WBub3knIJ+yQpydxxh//AOuvTulaBrKe8AjsubYYdsJbzS+FJl19WqTbQ6CTNCQ/QTFSnBuzrR;wkiI/LtG8yc8B3p0ld4giQ=="
 ---
 

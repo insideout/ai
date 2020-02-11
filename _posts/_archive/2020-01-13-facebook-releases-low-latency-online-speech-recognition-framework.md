@@ -4,10 +4,12 @@ title: "Facebook releases low-latency online speech recognition framework"
 excerpt: "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ..."
 publishedDateTime: 2020-01-13T17:32:00Z
 webUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/"
+ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 109
+published: true
 
 provider:
   name: VentureBeat
@@ -21,7 +23,26 @@ topics:
   - AI
   - Natural Language Processing
 
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
+    width: 1200
+    height: 600
+    title: "Facebook releases low-latency online speech recognition framework"
+
 related:
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 54
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
+        width: 849
+        height: 565
   - title: "what3words and Speechmatics launch speech recognition and post-processing API"
     excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
     publishedDateTime: 2020-01-13T11:55:00Z
@@ -35,16 +56,7 @@ related:
       - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
         width: 620
         height: 500
-  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
-    excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
-    publishedDateTime: 2020-01-16T00:00:00Z
-    webUrl: "https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 34
 
-secured: "lziKhLDsjjwgdSLerXpGA/X3rh1++QLDdUJplmjnx7zzTVQczxAIvAwTwP0ujQM8g3wRoR0StnTmAlop+aOEmg618Z/lpRotMaG4OejOmMfXM89CYVpcxwF1YGCkMFKPRVjaAq0297C38qycBKAIlmb6GX3AZ01/AhiKkpAsbakXm0IBd1oyI/7+9/lIdV2UcOf5dg1tJL/A1qdnG1zzX+SaWCEMmObYBULYDsqKqnNWXkoTO8Msi6N6Vr/G1JV4gRSneMsk6XJ8dFS3RcG68mciZqY4JKA6Iy1MR662WjW9n58WtR1QxVUGBv6Fg+pI;uUBG47B/QaBwoMuAPjvm3A=="
+secured: "XeOZRlG1p24NmiXwrIZ9BKIKtKTrkAcm1aPOBfMQcmDISQO4J8Ei4J2/GIwgixHuwyCBIKRdRuKDVVaBoA4WMsots52bqrrX3EBtv3B33amuy6FqGjTvD7NubZn5QjyluFEQhQm9T1dHes3PfXn+Zlvnah7aHU7KZbbypOQJsKRKWcbeiGZUqQJ5Bs0ffiN/t7NuUiNruGUmkb86/KVrS8BsHrxzWtIn4kUBmifKOnq4UZ5Q/WJCbqRsmq9F2NYF9myKfdWE8eskIw+qjW06slljlKPRjpmjfKa1y1AJzfhJZ8RhFbS1JcxdXTPPF2Nd;Y/1JAAL+eVuf7TWnzGD/nw=="
 ---
 

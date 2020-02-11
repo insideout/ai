@@ -4,10 +4,12 @@ title: "Google hopes to draw more cloud customers by making A.I. easier to use"
 excerpt: "Google's first Cloud AutoML tool will be for recognizing objects in images. It follows Google's Cloud Machine Learning Engine service and the Cloud Vision application programming interface."
 publishedDateTime: 2020-01-17T17:25:00Z
 webUrl: "https://www.cnbc.com/2018/01/17/google-launches-cloud-automl.html"
+ampWebUrl: "https://www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: CNBC
@@ -21,6 +23,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "yCMQbARAPAGSWoFVm+P3ERcs+lCO0d4XlCQhjtnSsn6/D0lqe/rqPPrudtmQNA6Wz+EIYe9MFn4vHRESRQUAYLL+zrh2gyGtsmq2ZfV0OgTe7poPlTVmheprbzm5PHFIlb9UPUtCynAC373omY00wLalWfEfL/s2BQrin00Y4BV5a8zunHufr8um/QeaVG5jNp/hRl6CjflD2j3+yujrDsUERTnsXD4qX3t08igFGSq9PgKDVqHTO3b3x/TbADQmwq+86FcEo3nMlY63JZ+268LyVfEJMgaI3QX0RL3uf360gx1YaMkxGxzN/D8vrGiB;Gwtl1wVH4F8bHGeU0QzOcA=="
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/103643296-636_0045.jpg?v=1529471578"
+    width: 3970
+    height: 2652
+    title: "Google hopes to draw more cloud customers by making A.I. easier to use"
+
+secured: "tItPehV72poQ0C4Oo3pQenXWciOvt46CbOyehZKDlWxXIsyusnUtj8g6J7LsPNO1qprJpgtWJlFR+foRQEZmwVYs7EJqLXLXSrZ1m4ZxfuZiFvpgdZ4Jdw9AzfrvSZSgDjsVq7gY/Y8AxbEpmL9SmmCrik2q0ww+OJBgQjrZ6sjgGiXezEvqQjaXQ/E+vQdNRW6RHvdtj3WhINWKopTAmt61ZUhLaIusgkAGUsrN40YLUsFZZLMEbo9SZ/XeICL9vwy/se5NEBFDJm3D9p6cKUP9fwrmKDSrifuJoGyr0J2vvVwtnV1Ahlle1pfZoZAT;31a+zbmwXXrmma8A9tfNUA=="
 ---
 

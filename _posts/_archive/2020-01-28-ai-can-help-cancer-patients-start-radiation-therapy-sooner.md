@@ -1,11 +1,13 @@
 ---
 category: news
 title: "AI can help cancer patients start radiation therapy sooner"
-excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait ..."
+excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans."
 publishedDateTime: 2020-01-28T02:41:00Z
 webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
+    width: 620
+    height: 480
+    title: "AI can help cancer patients start radiation therapy sooner"
 
 related:
   - title: "AI can Boost Radiation Therapy for Cancer Patients"
@@ -33,6 +41,19 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/zika-virus-kills-brain-cancer-cells.jpg"
         width: 1200
         height: 1000
+  - title: "AI can jump-start radiation therapy for cancer patients"
+    excerpt: "DALLAS - Jan. 27, 2020 - Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating ..."
+    publishedDateTime: 2020-01-27T21:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/usmc-ac012720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/222662_web.jpg"
+        width: 720
+        height: 527
   - title: "AI can jump-start radiation therapy for cancer patients"
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans."
     publishedDateTime: 2020-01-28T07:36:00Z
@@ -53,15 +74,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 36
-  - title: "AI can jump-start radiation therapy for cancer patients"
-    excerpt: "DALLAS - Jan. 27, 2020 - Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating ..."
-    publishedDateTime: 2020-01-27T21:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-01/usmc-ac012720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
   - title: "AI could kickstart early radiation therapy for cancer patients"
     excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically, cancer patients must wait from several days to over a week to begin therapy while doctors ..."
     publishedDateTime: 2020-01-28T13:03:00Z
@@ -72,6 +84,6 @@ related:
       domain: theiet.org
     quality: 34
 
-secured: "2IIxJYgBAHHeBVZvadw59wOPJC05jnowXbN20piwUErhikD+3TUIQ88oUEjF6vn2O02CjGpScEc11AI9MHYURTQw8b95Q3fV44GmKR2g2psCI5Sar0o7+H4C7RYSCfFUNL0qtTg55IIDz6bGxA5ISWZ6frwiah46Xj5ZJ6OSV+TG/FZXQjz4PUsQzmHbFmCjjhtePmvpFbinv45diYz/ty0BJsjouZhwGZkaX7fiFVycqqz6kc2y1l4IGRxJ4IYwGJEvLBMRFToZbKeEPa3KwI17WfdA+H/Kc2F8+mQyDTTtA3+VbtmqM1Zu+QsVz6K/qhi8WKPYZRvhMSCRBOt0FStJxNFKzed7Cp0HBnip06cGpPfO0JjcWjWDuigs+ZA7qfpxks/Q8SEKwSRTX0jazNrfUTIdBjiXDXOVF3rbA2uVXg20UjVVDZ2Uhb6af+bQaBwN2hXx/ij/tU9YqcjMXeIRY9l0yEfGY+kly8eKUmc=;DwztR+LWw8mP9qDctTApRQ=="
+secured: "TQC0ccl/aJVNvvAUhMwMeSC/o6BphaBrVX5N1+21iXFkao2Y+zi8qrUMHbbFxk6G8WfgV43AAr3d7aW4F0wJqHjVLv+pR3lf3s1klTlq8FSOenpChxpWJ17vuv8FdZjuKJrgAQAj3lzu9G/XG4aQopugDm167JyGf9qf44pE1gMCmyXdkbhzAkz/WPofFxhlRtbgXKUtJAGhou5eiX6v1hQUWMTf747LrPlL1uk+FjYEpchPPfOcQgaj2U/0p3ebSUm++cp2iCRjF2aAhRQJrq6dyo3mM9rmBHGTo/5OfBO6tULhlG3cKHLR+WZrqbaj;kqpXulOvgMdEb8c3P5eEBg=="
 ---
 

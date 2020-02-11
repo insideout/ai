@@ -52,6 +52,21 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/17/campaign_images/buzzfeed-prod-web-06/these-senators-want-homeland-security-to-pause-it-2-2613-1552427904-0_dblbig.jpg"
         width: 625
         height: 415
+  - title: "Police Facial Recognition Tech Snags Pics from Social Sites"
+    excerpt: "Clearview AI stands apart from other facial recognition companies because it pulls photos from commercial sites, like Facebook and Twitter, for its image database. Some are concerned by the company’s access. (TNS) — Surveillance footage showed a man suspected of fleeing officers during a traffic stop. Still, after several days, Pinellas ..."
+    publishedDateTime: 2020-02-11T21:55:00Z
+    webUrl: "https://www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html"
+    ampWebUrl: "https://www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_590075333.jpg"
+        width: 940
+        height: 627
   - title: "Miami, LA Firms Sue Google Over Facial Recognition Photo Scans"
     excerpt: "Law firms in Miami and Los Angeles claim in a class action that the Google Photos service uses facial recognition technology that violates an Illinois biometric privacy law with stiff statutory penalties. The lawsuit filed in U.S. District Court for the Northern District of California claims Google failed to get the consent or written release ..."
     publishedDateTime: 2020-02-07T21:16:00Z

@@ -150,6 +150,17 @@ related:
       name: MarTech Advisor
       domain: martechadvisor.com
     quality: 14
+  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
+    excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling, NLP, ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition),"
+    publishedDateTime: 2020-02-11T10:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15297123/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artifi"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15297123"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15297123"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
   - title: "Deltapath's Noise Cancellation Gateway Helps Businesses Improve Communication and Collaboration Over Phone Calls and Fuels Artificial Intelligence"
     excerpt: "The Noise Cancellation Gateway leverages Dolby's renowned audio expertise and technology. It filters nonhuman voices and focuses on improving two major areas garnering a lot of attention: voice calls and artificial intelligence. Voice calls remain a popular mode of communication, but the new work-from-anywhere trend is increasing the number of ..."
     publishedDateTime: 2020-02-04T19:33:00Z
@@ -181,14 +192,14 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 0
-  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
-    excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
-    publishedDateTime: 2020-02-11T11:18:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/11/1982878/0/en/Emotion-Detection-Recognition-Markets-Forecast-to-2024-Rising-Need-for-Socially-Intelligent-Artificial-Agents.html"
+  - title: "Veoneer selected to supply system based on next generation vision and radar system"
+    excerpt: "These are the main build blocks for higher levels of automated driving. Veoneer’s camera centric system architecture is based on in-house computer vision algorithms complimented by radar based perception to cover the full spectrum required by Euro NCAP. Hosted in the camera is Zenuity’s software, fusing information from the camera and radar ..."
+    publishedDateTime: 2020-02-11T13:46:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system/"
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
+      name: Automotive World
+      domain: automotiveworld.com
     quality: 0
 
 secured: "grfjHQnfQiAgLXLq2ElZ/VTEPqcLtzfRb4BjC6HE8qG9VVYscyz4j6tI2Dr6K4TVXvq0ICbZ0xH9cMa3XCLFW90zZmGCHE0kwXDaOVZ8zAzz3qrQHd6FVyD6PKtihxdH+0YRfFUo4ZXe2TDuya7aRBeXLDRQO5T78LRB5YbIswgp2AiVCamn6zUEGu4c7PfryeTD8RCsOdm0cwZxvVOOnNpPfNntpxsOz9gpYQ83CIIPDcabV9BeRErfnoyKMGD7sbrYFJTTvO5leN6zitqu9pp8IPcnYQToos/KWnhDcjPxqBoe1O8tbH49Zv4e8Yfe4cp5kzdOaXsqdy346MRf3uwMsl+0Ooa5bRQRMrAotLBnGCjGj4Xk69V1ATGShP7hPUC+RpN7i10i9qCyhjhLb7NACRcwOY9G6/vJ6RF/xJBuSNfqkZtqqrZ47KYMXl/GIfyKDE3YcEqb/6sLykft4fGeKYePvfgU+Nac+Ntioos=;HaTrms5fcI3DO5PCo365Yw=="

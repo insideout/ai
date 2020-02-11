@@ -70,18 +70,18 @@ related:
         width: 370
         height: 229
   - title: "London police deploy live facial recognition technology, stirring privacy fears"
-    excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. London police ..."
-    publishedDateTime: 2020-02-11T20:40:00Z
-    webUrl: "https://www.wowt.com/content/news/London-police-deploy-live-facial-recognition-technology-stirring-privacy-fears-567766371.html"
+    excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
+    publishedDateTime: 2020-02-11T18:47:00Z
+    webUrl: "https://www.hawaiinewsnow.com/2020/02/11/london-police-deploy-live-facial-recognition-technology-stirring-privacy-fears/"
     type: article
     provider:
-      name: WOWT.com
-      domain: wowt.com
+      name: KHNL
+      domain: hawaiinewsnow.com
     quality: 35
     images:
-      - url: "https://media.graytvinc.com/images/0211_facial+recognition+sign_CNN.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.hawaiinewsnow.com/resizer/5WPDfcRoZsIEZzSuFgW7EurnGtA=/1200x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/52R5YBRIHZBEHP5HNAANYUWTEE.jpg"
+        width: 1200
+        height: 675
   - title: "Poker Players Are Asking for Facial Recognition Technology"
     excerpt: "There has been a lot of talk about the idea of introducing facial recognition technology into casinos. Proponents of this idea have argued that a facial recognition system could unlock an array of benefits for casino owners and players. First, it’s a good way of tracking patrons and signing in VIP players without a fuss. Casinos also have the ..."
     publishedDateTime: 2020-02-11T16:08:00Z

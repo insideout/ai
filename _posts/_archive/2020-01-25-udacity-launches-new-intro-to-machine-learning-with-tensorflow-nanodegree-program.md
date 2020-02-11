@@ -27,15 +27,17 @@ images:
 
 related:
   - title: "Udacity launches new course called Intro to Machine Learning with TensorFlow"
-    excerpt: "The Udacity course, Intro to Machine Learning with TensorFlow, includes areas like manipulating data, supervised and unsupervised learning, and deep learning Udacity announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow."
+    excerpt: "The Udacity course, Intro to Machine Learning with TensorFlow, includes areas like manipulating data, supervised and unsupervised learning, and deep learning Udacity announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow. The next-generation program in machine learning (ML) introduces learners to the ..."
     publishedDateTime: 2020-01-24T11:44:00Z
     webUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/"
+    ampWebUrl: "https://www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/udacity-launches-new-course-called-intro-machine-learning-tensorflow/amp/"
     type: article
     provider:
       name: Dataquest
       domain: dqindia.com
-    quality: 16
+    quality: 36
 
-secured: "FQ0NPSF1QeKnVz43sND/3wrGc9PenTxqH0mysePinZL0aWN8zmjb9jw73CCkzZN8Z74dhCsmBsbxmKUVS9zaWpndY9pg2X83vIA8Bdrm8oOsgAIfoqc9EegxHAO2t92olrQzxtR9HiiGM0gYoYno0Zb4iWk561wbA69NGqclgqdFWpJE8DbiGKXobjq+Nt8+JSoO0jK4EAL6l7QJADUs1QpcdcXbqJwfDdgzGgwhvEiSirjzhyCxwatPckSZwVARj5kHI9YXIqSMyVu+FouuJWKEjIu9wX3ufkX44jx7oNsQxljOewbgd2jc0C5IjXfF;Xbor8bN/oxbSHXlc+WjjPA=="
+secured: "GQ9wWNhnO0FE75HIsmBxVU1B32EMd1DgvHos0vZ0APvvtTt9KFR8K8bAzZUkN2tcx/AzLObuxe5/8Xn9K+MRI0Ob2KHhkbBpgAVCsHzLGRkfrW9nJ9X8EgKUsb4sTvu7e7q+ytyMFN7qbyqOIL5cJfhuFDF6HUKvPZYscmtztktjGUI3RpArPYBTm04fmgwksfw1atJ1u+S1yfSQutja77V9RYfvFIXzZjgna+fRhlSyNHfwsNs6nO6r7Q/W68dkGn3kB77lmK1yw021isdN6BOnHliYD3U4d2zu9GBACqHf5LmC2xqqJuolTzfbloh9;otnT5wniLvJ23UJ31rzmug=="
 ---
 

@@ -22,6 +22,17 @@ images:
     height: 364
     title: "How artificial intelligence will save teachers time"
 
+related:
+  - title: "How Artificial Intelligence Might Save Time"
+    excerpt: "Teachers: Could you use an extra 13 hours in your work week, or for your personal life? That might be possible in the future, according to a report published last month by McKinsey & Company: \"How Artificial Intelligence Will Impact K-12 Teachers.\" The report estimates that 20 percent to 40 percent of the tasks teachers spend time on—grading ..."
+    publishedDateTime: 2020-02-11T21:42:00Z
+    webUrl: "https://www.edweek.org/ew/articles/2020/02/12/how-artificial-intelligence-might-save-time.html"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 17
+
 secured: "2kBGqz9XRexEY53iVYt5aFgo0Re6sGgf3dvzw00ieBOOuYK4wBtwKVGhkmgvTSdm7GFpKGheyT2/hiOs73c7pRSjD/Ahjftiknw3Gx9QCgPy9c8YrqLoS8ZPRO3P8R1CUxX6ywQ2QVgukzwPyfP/Ld59myXOx3JswOn+3afeJRAqalL/dOAWRX/8Cc8j08aP4ZGl3dTKnycazVTxG+5vTg2VSIUxH0k5yhFpsjKAGfmFMcJgL9kSPBHLlqkqDha0XOqsQTC4v90DkIIHQEH/WSrhDb9W4Ze7l/nwLZZZEaXXdnnd5uFHPy4FbLVrC2kfh3WkmzXF4PQ7IsVz+QvHAQ74wTSFIATFv+sZX1pMcLjVlOXN+LYJw3uAKsvOXewI3DpYRGJ5q5iev1OuDKYo+JsU7WyPTIYtAVPrKkCWtzkMwoYnMCcXM7xAI4wuuS5c+ELi+Xt2t0o5eg5cU4wgh4NYYipnu+vlS5V71Dpy/T8=;zArfpI+/vvkS2id04NG9GA=="
 ---
 

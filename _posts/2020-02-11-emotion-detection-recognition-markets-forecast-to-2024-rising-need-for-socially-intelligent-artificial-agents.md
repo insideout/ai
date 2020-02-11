@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
-excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
-publishedDateTime: 2020-02-11T11:18:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/11/1982878/0/en/Emotion-Detection-Recognition-Markets-Forecast-to-2024-Rising-Need-for-Socially-Intelligent-Artificial-Agents.html"
+excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling, NLP, ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition),"
+publishedDateTime: 2020-02-11T10:18:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15297123/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artifi"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15297123"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15297123"
 type: article
-quality: 0
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -188,7 +190,16 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 0
+  - title: "Veoneer selected to supply system based on next generation vision and radar system"
+    excerpt: "These are the main build blocks for higher levels of automated driving. Veoneer’s camera centric system architecture is based on in-house computer vision algorithms complimented by radar based perception to cover the full spectrum required by Euro NCAP. Hosted in the camera is Zenuity’s software, fusing information from the camera and radar ..."
+    publishedDateTime: 2020-02-11T13:46:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/veoneer-selected-to-supply-system-based-on-next-generation-vision-and-radar-system/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 0
 
-secured: "u4I6qbyocH6olu9GOWEHSMElGDA2j+viLXq2mvhDao40jeS+4q7nHwPOOngsUAb+fSyLYGGw/VuwLeVfCQLi2l488EBOVe1rSuvCCK1OMJwqQ/Iet+1Xq+jrC0mUrlpz53Hwz/8UlKz4JFty2yWRaCCEc2tuH0Z1eM4OtNnJd2lPstTyyhl2VT3o08U0Ayq0cSp1/CQyiD+t7M0Ej5CmveKXH1YSnv7JSM8zfWOCmmcONz8+gD5dFiUeRR6TbN/nDFoK/8qQBJI1wUc+8Tm3jq5YYlzZS3Y1goesEd0WzoKqrhCptY+o6rGKpKD5GZLg;3NBChPZJvOx7Fm7P72ZX1w=="
+secured: "4sedINgD0C829imiuZNoaq00GiiQjUW2hXaxWwpuy9BnSteDMpkYvaModAqW/tUgayVUgUnvEEtEQ3DmBXoF/+6nzIzdDOACfTt0YSq/rEwXZUAroj7i/T99CCKgHa50JSuRDSSxlNB0roaohaxL2VyxGOp4jFgaJ+YzZ02yQhvdw3H+GORDo8leGEDkZ8dg6U1UP8mjirGQu1v/mEpaERfQ1+wDibDYXReHtrCNy1FgBP+KL4DzlzPGILmblGbE2XVSgHXxc7uKahRSEI3u2pD5+dzT6164VQqSpsZmLhOZ3kXtEBtewKyNWQzX0fzj;sNrrA+TsaB61vcXmbkHK/g=="
 ---
 
