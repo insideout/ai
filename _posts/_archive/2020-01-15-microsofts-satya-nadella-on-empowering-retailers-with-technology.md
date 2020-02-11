@@ -5,8 +5,8 @@ excerpt: "At Microsoft's stores in 190 markets, the cloud, predictive analytics,
 publishedDateTime: 2020-01-15T18:51:00Z
 webUrl: "https://wwd.com/business-news/technology/microsofts-satya-nadella-on-empowering-retailers-with-technology-1203424736/"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "B3DKGEgJtra5K//ZbzstZD3OhcPsh+mDJcCTR5Y/ZpztAvOQPBbOzl+8J2FHaAETmqYs76Zt+ss6SQnEKnl3fup0ibR+qOs/KMvYUqskL8e6BHvU4DFWcPvqmZq/3vl5ztsHkBKzgN6OlM3hBTWpzBOoSK+jmt+94F73LpUjFo+jAxYDvlKeRyqmu4mz1h76wVBHN5XK2HFN5lLHgNd09Y7dD38csyj0vgEAT59c9YiJpKksdKf/rICRIqVc3zyk1UqZ9rhl/rFdopQNs/sZpMmysxy9eyTbYdf9jfyFqpd3jPkFUA5C1lN9IVc/NvyO;/9iev97hhaDzV8wt7h11Gw=="
+images:
+  - url: "https://pmcwwd.files.wordpress.com/2020/01/satya.keynote-21.jpg?crop=0px%2C0px%2C5790px%2C3862px&#038;resize=640%2C415"
+    width: 5790
+    height: 3860
+    title: "Microsoft’s Satya Nadella on Empowering Retailers With Technology"
+
+secured: "1JmgzvL4R+xioAhhFCoXpQLthYoy8f6vH46SdGi0PhGqpUkrGSKckqjl7JR0IcXt2UoAF3KJCzKP95c/G+N2fasQzWC6iwLaV/Gy/6UFuio5XPpaYEwq/j7VT9cLW4gf3YE7Nvz28Eyr1+KIDrYpOGw5oroKgMVr6m9yI8VEU5KRS8rRtp2OZMk1ZqvKSEa0VBur4dn09AgoMEkFc9ViqpvCZ+sQ3e6NeSVjvAb5Wxtp83DK6mob3imsbz7GkmvvpdvRQ3fBmOto69fCdL/S883A/gB3CiZ2dF+FfbQ9cZoN5oPn/0j5P15HoDLHGXET;6qdfPhtHEJBzCyREsgKCfA=="
 ---
 

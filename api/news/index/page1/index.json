@@ -268,51 +268,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-27-apples-self-driving-car-system-could-use-voice-gesture-guidance.md",
-      "title": "Apple's self-driving car system could use voice, gesture guidance",
-      "excerpt": "Interacting with a future self-driving car could be a lot like working with some future interpretation of Apple iOS with voice, gesture and touch-enabled commands at your disposal. It's the overarching view gathered after reading through an Apple patent application filed last August and published last week for a self-driving car voice and ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/apple-self-driving-car-system-voice-gesture-guidance/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/",
-      "publishedDateTime": "2020-01-27T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Apple's self-driving car system could use voice, gesture guidance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-01-27-berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups.md",
       "title": "Berlin venture studio Merantix raises $27M fund to concentrate on AI startups",
       "excerpt": "Berlin-based Merantix, a venture studio which specifically concentrates on building ‘AI companies’, says it has raised a new €25M fund ($27M). Anchor investors include Trusted Insight, the Robert Wood Johnson Foundation, the W.K. Kellogg Foundation, as well as further family offices from Europe. Co-founder Adrian Locher said in a ...",
@@ -478,51 +433,6 @@
           "width": 1200,
           "height": 630,
           "title": "Deep Learning Market Size Worth US$ 56,427.2 Mn By 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-everything-you-want-to-know-about-automated-machine-learning-pipeline.md",
-      "title": "Everything You Want to Know About Automated Machine Learning Pipeline",
-      "excerpt": "The answer lies in the emergence of the automated machine learning pipeline technology also known as the AutoML pipeline. Through this article, we shall evaluate the business value of customized ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@Countants/everything-you-want-to-know-about-automated-machine-learning-pipeline-df9e44612ff",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T01:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/469/0*AK8e-vVQ9ltxh3dc",
-          "width": 469,
-          "height": 235,
-          "title": "Everything You Want to Know About Automated Machine Learning Pipeline",
           "attribution": null
         }
       ],
@@ -978,51 +888,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-27-the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it.md",
-      "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
-      "excerpt": "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ...",
-      "heat": 661,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "publishedDateTime": "2020-01-27T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png",
-          "width": 1200,
-          "height": 763,
-          "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-01-27-this-entrepreneur-is-helping-smbs-embrace-technology.md",
       "title": "This Entrepreneur Is Helping SMBs Embrace Technology",
       "excerpt": "“We are an expert Azure managed services partner, driving the cloud transformation for over ... analysis services, artificial intelligence, bots and machine learning,” Richard said. Founded in 2012, G7CR Technologies counts brands such as Alibaba.com, Amazon, Digicert, Microsoft and Softlayer as its global technology partners.",
@@ -1194,30 +1059,30 @@
       ]
     },
     {
-      "path": "_posts/2020-01-28-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding.md",
-      "title": "A startup that teaches coding to six year olds raises ₹7 crore in seed funding",
-      "excerpt": "Its SmartTech programme ropes in children as young as six years — helping them build skills and confidence to create tech products via coding, robotics, smart devices and AI. \"After-school-education for the K6 segment in India has been highly fragmented. At the same time, the rise of the middle class allows parents in urban India to start ...",
-      "heat": 73,
+      "path": "_posts/2020-01-28-advantages-of-machine-learning-and-data-analytics-courses.md",
+      "title": "Advantages of Machine Learning and Data Analytics Courses",
+      "excerpt": "Advantages of Machine Learning and Data Analytics Courses: Considering that the data enormity is consistently on the rise, the urgent need to figure out such methods that can help to gain valuable insights on the same can be felt. As a result, the demand for professionals with adequate data science skills cannot be neglected. There is no ...",
+      "heat": 79,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/articleshow/73687943.cms",
-      "ampWebUrl": "https://www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/amp_articleshow/73687943.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/amp_articleshow/73687943.cms",
-      "publishedDateTime": "2020-01-27T21:48:00-08:00",
+      "webUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/",
+      "ampWebUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
+      "cdnAmpWebUrl": "https://www-newznew-com.cdn.ampproject.org/c/s/www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
+      "publishedDateTime": "2020-01-27T23:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
+        "name": "seat",
+        "domain": "newznew.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.businessinsider.in/thumb/73688111.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": "A startup that teaches coding to six year olds raises ₹7 crore in seed funding",
+          "url": "https://www.newznew.com/wp-content/uploads/2020/01/892730_f4e5_3.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "Advantages of Machine Learning and Data Analytics Courses",
           "attribution": null
         }
       ],
@@ -1226,7 +1091,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -2162,6 +2028,135 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-28-reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai.md",
+      "title": "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI",
+      "excerpt": "Most exciting of all is that the tiny eighteen-person team has some very novel takes on deep learning forms of AI, the product of seasoned vets in machine learning technology and products. This is no me-too chat bot service, it would appear. Founders include Bindu Reddy, who was previously head of \"AI Verticals\" for Amazon's AWS. The company ...",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reality-engines-offers-a-deep-learning-tour-de-force-to-challenge-amazon-et-al-in-enterprise-ai/",
+      "publishedDateTime": "2020-01-28T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/28/52508ce2-f9c8-402a-b6b2-8a1250faa0f2/binduheadshot6.jpg",
+          "width": 940,
+          "height": 512,
+          "title": "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Microsoft AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-28-realityengines-launches-its-autonomous-ai-service.md",
+      "title": "RealityEngines launches its autonomous AI service",
+      "excerpt": "RealityEngines.AI, an AI and machine learning startup founded by a number of former Google executives and engineers, is coming out of stealth today and announcing its first set of products. When the company first announced its $5.25 million seed round last year, CEO Bindu Reddy wasn’t quite ready to disclose RealityEngines’ mission beyond ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/28/realityengines-launches-its-autonomous-ai-service/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/28/realityengines-launches-its-autonomous-ai-service/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/realityengines-launches-its-autonomous-ai-service/amp/",
+      "publishedDateTime": "2020-01-28T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/Model-Workflow.png?w=705",
+          "width": 705,
+          "height": 565,
+          "title": "RealityEngines launches its autonomous AI service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-28-replace-punxsutawney-phil-with-robot-animal-rights-group-says.md",
+      "title": "Replace Punxsutawney Phil With Robot, Animal Rights Group Says",
+      "excerpt": "People for the Ethical Treatment of Animals are advocating a radical change in how Groundhog Day is celebrated.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/pennsylvania/pittsburgh/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "ampWebUrl": "https://patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "publishedDateTime": "2020-01-28T14:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/22920172/20200128/033110/styles/patch_image/public/phil2-getty___28150658187.jpg?width=984",
+          "width": 897,
+          "height": 673,
+          "title": "Replace Punxsutawney Phil With Robot, Animal Rights Group Says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

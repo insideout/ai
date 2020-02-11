@@ -51,6 +51,19 @@ related:
       - url: "https://miro.medium.com/max/1200/1*KJGBPm15gz6RlWMu91EUWw.jpeg"
         width: 1200
         height: 800
+  - title: "China 2020: Rise of the AI driven Services"
+    excerpt: "Historically, Chinese technology companies were largely known for imitating successful business models in the US (such as Alibaba compared to Amazon or Baidu ... its self-driving car platform ..."
+    publishedDateTime: 2020-02-07T19:56:00Z
+    webUrl: "https://medium.com/@denisbarrier/china-2020-rise-of-the-ai-services-revolution-1192a7cd4818"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/1200/1*p41V0ILqV5v14YumjuEc4w.jpeg"
+        width: 1200
+        height: 900
   - title: "Love in the time of Artificial Intelligence"
     excerpt: "The formidable third wheel in the romance between a man and a woman is… a hologram! Netflix’s newest and now-streaming K-drama My Holo Love takes on love in the time of Artificial Intelligence (AI). So-yeon is a woman who distances herself from people because of her face blindness disorder, which is described as the inability to recognize ..."
     publishedDateTime: 2020-02-07T16:03:00Z

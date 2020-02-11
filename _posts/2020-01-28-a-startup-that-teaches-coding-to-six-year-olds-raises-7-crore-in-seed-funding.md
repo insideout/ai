@@ -8,8 +8,8 @@ ampWebUrl: "https://www.businessinsider.in/business/startups/news/wizklub-a-star
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/wizklub-a-startup-that-teaches-coding-to-six-year-olds-raises-7-crore-in-seed-funding/amp_articleshow/73687943.cms"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Business Insider India
@@ -38,15 +38,6 @@ related:
       - url: "https://assets.vccircle.com/uploads/2018/09/Seedfunding.jpg"
         width: 810
         height: 508
-  - title: "Ibibo founder’s fintech startup INDwealth pulls in Series C funding"
-    excerpt: "The company operates a financial advisory platform that uses AI and machine learning to allow users to manage their investments, liabilities, future cash flows and taxation. VCCircle has reached out to INDwealth on the details of the investment and will update this report accordingly. The Series C round comes after the fintech startup secured $ ..."
-    publishedDateTime: 2020-01-27T07:44:00Z
-    webUrl: "https://www.vccircle.com/ibibo-founder-s-fintech-startup-indwealth-pulls-in-series-c-funding"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 4
 
 secured: "iEPCuMImz6BqGtYzzIKtmo2ILtSTAjKiETDmmBHOS4YVOkulohgzyrd7XPgh76hUzb1De8fbvWobM+ekW2jlGKlHzgBsFMRkOrPI4d06CzXDYyQHvTOum6cAsXzkhy3Wujhktcey+EPe+EXgN4i7loicM0GGLcF/P0KcEJx5H7IxcF/dIMnnaOoCS+hcykZPXBFChtK+MWZUvoI6s2xh9PGv0J80q4B1QxCJcHaLCsXZf/pZ6zd/er5Ul/O0Oq5L83hgsW7aJj754qszvR25B4J02GGk+5FdVCGtFwBDD2wBEeQO4JoYTGXXHn0h34TL;2rba3Pq3KTDMTY1Fzl4tfQ=="
 ---

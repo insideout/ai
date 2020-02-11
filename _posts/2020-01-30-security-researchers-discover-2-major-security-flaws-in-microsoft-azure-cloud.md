@@ -48,19 +48,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "AI in Fintech Market Checkout the Unexpected Future 2025 | key Players Microsoft, Google, Salesforce"
-    excerpt: "The research study forecast Revenue Opportunities and Sales Volume Area taken into consideration the primaries from industry experts and includes relevant data such as (revenue, market Size, growth rate,"
-    publishedDateTime: 2020-01-27T07:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-checkout-the-unexpected-future-2025-key-players-microsoft-google-salesforce-2020-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "2 major security flaws detected in Microsoft Azure Cloud"
     excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
     publishedDateTime: 2020-01-31T03:14:00Z

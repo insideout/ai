@@ -23,43 +23,39 @@ images:
     title: "Going in depth into big data and intelligence with HPE"
 
 related:
-  - title: "Fueling intelligent energy with IoT"
-    excerpt: "At Microsoft, building a future that we can all thrive in is at the center of everything we do. On January 16, as part of the announcement that Microsoft will be carbon negative by 2030, we discussed how advances in human prosperity, as measured by GDP growth, are inextricably tied to the use of energy."
-    publishedDateTime: 2020-01-27T08:00:19Z
-    webUrl: "https://azure.microsoft.com/blog/fueling-intelligent-energy-with-iot/"
+  - title: "Assisted Intelligence vs. Augmented Intelligence and Autonomous Intelligence"
+    excerpt: "Among the models included under this umbrella are machine learning, natural language processing, image recognition and neural networks. The main difference between assisted and augmented intelligence is that augmented intelligence can combine existing data and information to suggest new solutions rather than simply identifying patterns and ..."
+    publishedDateTime: 2020-01-31T18:05:00Z
+    webUrl: "https://fedtechmagazine.com/article/2020/01/assisted-intelligence-vs-augmented-intelligence-and-autonomous-intelligence-perfcon"
+    ampWebUrl: "https://fedtechmagazine.com/article/2020/01/assisted-intelligence-vs-augmented-intelligence-and-autonomous-intelligence-perfcon?amp"
+    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2020/01/assisted-intelligence-vs-augmented-intelligence-and-autonomous-intelligence-perfcon?amp"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 72
+      name: fedtechmagazine.com
+      domain: fedtechmagazine.com
+    quality: 43
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e97a92db-78b6-4875-bc47-04160885964b.png"
-        width: 837
-        height: 593
-  - title: "5G is fueling \"Intelligence of Things\" - Choice IoT Says Controlling Data Costs will be Essential"
-    excerpt: "SYOSSET, N.Y., Jan. 27, 2020 /PRNewswire-PRWeb/ -- As industries worldwide spend billions to expand 5G networks and operate in the \"Intelligence of Things\" (the place in technology ... some form of coast-to-coast 5G coverage by the end of 2020. Sadana listed healthcare, hospitality, and transportation as a few of the many industries that ..."
-    publishedDateTime: 2020-01-27T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/5g-is-fueling-intelligence-of-things-choice-iot-says-controlling-data-costs-will-be-essential-1028846401"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/5g-is-fueling-intelligence-of-things-choice-iot-says-controlling-data-costs-will-be-essential-1028846401"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5g-is-fueling-intelligence-of-things-choice-iot-says-controlling-data-costs-will-be-essential-1028846401"
+      - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202001/GettyImages-1148091277.jpg?itok=MD1pYBMo"
+        width: 1440
+        height: 500
+  - title: "Yseop introduces natural language processing augmented analyst tool"
+    excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented Analyst, a new enterprise-wide NLG automated report generation platform. Augmented Analyst is designed to help financial companies accelerate their digital transformation. Stemming from the imperative to move ..."
+    publishedDateTime: 2020-02-06T12:07:00Z
+    webUrl: "https://www.finextra.com/pressarticle/81403/yseop-introduces-natural-language-processing-augmented-analyst-tool"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
-  - title: "Defense Supply Chain Summit: Leveraging the Intelligent Enterprise"
-    excerpt: "machine learning (MI), artificial intelligence (AI), Internet of Things (IoT), security, and application development from 66 Availability Zones (AZs) across 21 geographic regions. Millions of active customers trust AWS—including the fastest-growing startups, largest enterprises, and leading government agencies—to power their infrastructure ..."
-    publishedDateTime: 2020-01-30T21:14:00Z
-    webUrl: "https://www.govexec.com/feature/defense-supply-chain-summit/"
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "Yseop introuces natural language processing augmented analyst tool"
+    excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented Analyst, a new enterprise-wide NLG automated report generation platform. Augmented Analyst is designed to help financial companies accelerate their digital transformation. Stemming from the imperative to move ..."
+    publishedDateTime: 2020-02-06T11:02:00Z
+    webUrl: "https://www.finextra.com/pressarticle/81403/yseop-introuces-natural-language-processing-augmented-analyst-tool"
     type: article
     provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 39
-    images:
-      - url: "https://cdn.govexec.com/media/featured/sap_supply_chain_2020_cal.png"
-        width: 575
-        height: 330
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "MQGR38C7q3o8vl+eT32NpszH8iwukC6k+7ltRnm2sUxKQXUxd6d1kSwGmaJFGSmShJa0j3b/bKbm7uJNHGY/wO87CPmaKdd9t0z8mhX3t5leH4uQOkn9RQ+V5THe61PmLX2+wnD5+GxqtJZ3Y5rYsBANtgWUi1VZpyij1iFQpywEviT3cKHn9O+ay09SW5PCwY3VcVyHF3JSDJ0R6KH11OU6+C0dOsufowbbS4usO/j9siBiz4QKeLz8ad0Xw4c8tdgpLR8K9vqnP/Eyqfi/jfBCO2LPIs4SXe5xHNjsBnU0AVwsxiOHWwZij+EyFlWC;L4Uo4IBiCd7HKsgrST+VSg=="
 ---

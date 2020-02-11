@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T15:41:00Z
 webUrl: "https://www.futurity.org/blood-sugar-test-ai-wearable-sensors-2254812/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -28,12 +28,18 @@ related:
     excerpt: "“Precision Medicine and Artificial Intelligence: A Pilot Study on Deep ... she works towards her masters in marriage and family therapy and art therapy. In a past life, she worked as the patient ..."
     publishedDateTime: 2020-01-16T21:44:00Z
     webUrl: "https://www.healthcentral.com/article/new-glucose-monitoring-device-for-diabetes"
+    ampWebUrl: "https://www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
+    cdnAmpWebUrl: "https://www-healthcentral-com.cdn.ampproject.org/c/s/www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes"
     type: article
     provider:
       name: HealthCentral
       domain: healthcentral.com
-    quality: 4
+    quality: 44
+    images:
+      - url: "https://images.ctfassets.net/yixw23k2v6vo/6HWebXmG36CblFmUEiDiQi/09577f3ff78807e49ae9e3212fed07d7/iStock-1175717080.jpg"
+        width: 1254
+        height: 836
 
-secured: "xuvg1lN0Zqs4Gliq+22CBrfqNoqFCxG+wGYdqaWNDAarLFER6QGe6JVLUITraFoT4CpWvab2WwCBstsoaF87KzmB/Zi0OE3dkpmJQtM5dFbJD0Vk9bZNL0k4ozWuJerUw5RUWMRh0K9BTA/1g8sobVy7ST50OqOPNMQa/KzkVPduU+QtKvedfg3gQ1B9GEmwUyaCL6AWvGU1/M67ocTcF7FJ6KkOcqCaUiT1hpkTYK5g1HmBEsQc3Il9mdDTTJT7bkB2fzadYBEYCCEzcJyxxqaWKaoB7dg6PqsP8pVbo9S3DmNNZwZ7E5gZuizF+Rr+;icYmy35z03uKwtdWsuSaJQ=="
+secured: "E0MOZlLQIDzVfCaNGvk2282cadzDRL1Uty7MuzFNM2sZM+FpGCrzhByHv2IkIzPdWAXFTQGosMGNwaHcPC6uqIYt4RT8ccs0xpg5vd83+px7ZqXTwt1YFHqQdinrY9Uvw+mIhDpE0IlWduM+42KZQeR25Jwp/Xie3Q+K3FwqAQkThtHc4tBx8ifZzdTowUStGVEUjkes2o9yLH8Jkg5/bX+wzJRiNwUN9GztAyab0IFbFMcRSDv1R0Z1K0lxAKhplBSyYBtTrZwkovNyNUomueB4HV4riQJTAIA+nfpkCiaaSmTqjTNmG83C2onXe2j0;rVf3zgNlVqurfh1E1n8+1w=="
 ---
 

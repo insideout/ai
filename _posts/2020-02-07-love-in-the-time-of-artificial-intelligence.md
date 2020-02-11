@@ -53,6 +53,19 @@ related:
       - url: "https://miro.medium.com/max/1200/1*KJGBPm15gz6RlWMu91EUWw.jpeg"
         width: 1200
         height: 800
+  - title: "China 2020: Rise of the AI driven Services"
+    excerpt: "Historically, Chinese technology companies were largely known for imitating successful business models in the US (such as Alibaba compared to Amazon or Baidu ... its self-driving car platform ..."
+    publishedDateTime: 2020-02-07T19:56:00Z
+    webUrl: "https://medium.com/@denisbarrier/china-2020-rise-of-the-ai-services-revolution-1192a7cd4818"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/1200/1*p41V0ILqV5v14YumjuEc4w.jpeg"
+        width: 1200
+        height: 900
   - title: "Researchers discuss use of artificial intelligence in government agencies"
     excerpt: "Professor Daniel Ho discusses the use of artificial intelligence by government agencies Monday afternoon. (Photo: EMMA TALLEY / The Stanford Daily) By Emma Talley a few seconds ago Almost half of “important” American government agencies have ..."
     publishedDateTime: 2020-02-04T07:40:00Z

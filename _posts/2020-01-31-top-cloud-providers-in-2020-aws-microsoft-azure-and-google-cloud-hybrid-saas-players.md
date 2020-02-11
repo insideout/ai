@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
 type: article
 quality: 112
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -40,19 +40,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "AI in Fintech Market Checkout the Unexpected Future 2025 | key Players Microsoft, Google, Salesforce"
-    excerpt: "The research study forecast Revenue Opportunities and Sales Volume Area taken into consideration the primaries from industry experts and includes relevant data such as (revenue, market Size, growth rate,"
-    publishedDateTime: 2020-01-27T07:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-checkout-the-unexpected-future-2025-key-players-microsoft-google-salesforce-2020-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

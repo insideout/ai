@@ -23,17 +23,6 @@ images:
     height: 300
     title: "H2O.ai powers MarketAxess’ algorithmic pricing engine"
 
-related:
-  - title: "H2O.ai Empowers MarketAxess to Innovate and Inform Trading Strategies"
-    excerpt: "H2O also has an industry leading AutoML functionality that automatically runs through all the algorithms and their hyperparameters to produce a leaderboard of the best models. The H2O platform is extensively used in industries such as financial services that require the machine learning at scale. About H2O.ai H2O.ai is an open source leader in ..."
-    publishedDateTime: 2020-01-26T23:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200126005001/en/H2O.ai-Empowers-MarketAxess-Innovate-Inform-Trading-Strategies"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-
 secured: "Rx8lcGCtLgw3geShWQfD2bMjO0iIU5FYRFRgVrjdtzREN0Wt6rsU6c4V1r49QGAw2aZ9DmX6UEEwZ3VJDVLUUSW0K7hTHNKMeFIJ4vX+FgVT17+iok423o3Fb8yljICPgQBjUMiXPd9V9JkoTNOIIMIw2EI/Hbuh0e+FrE69K/dBkVzAXCjcy9xJpWqUoNdduv8pQJXEFOAVqun5HUJyoGAkXBOgYlMM9uOIrica4P3Qm02zxlT1zuig1muN0TL0cSniuX+PrOswSAkLW4DvAihu7E7kWbMvhwzn63p1McheQYJKJ9Sy9OvlcEmdqxrSMDRWR4I93Hra7wJ+maC60xxG/K6q/9xNeJCPbeySan3B1QIGuHTTDbj1q0eJuyov3tEJJzxsPrjGk5lU58hhnIm2dBNpiNya5Xcx54at9XpoxfWtZLk0YC7CpDuyFwV8cxqUYBJTBGMj+8zLN6165nhrUVY6JA73gnztLVQdSHo=;y+cFPbpHxr/gEOT6sg39Sg=="
 ---
 

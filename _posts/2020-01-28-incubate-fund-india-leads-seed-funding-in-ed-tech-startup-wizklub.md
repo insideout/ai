@@ -39,15 +39,6 @@ related:
       - url: "https://www.businessinsider.in/thumb/73688111.cms?height=275&width=412"
         width: 412
         height: 275
-  - title: "Ibibo founder’s fintech startup INDwealth pulls in Series C funding"
-    excerpt: "The company operates a financial advisory platform that uses AI and machine learning to allow users to manage their investments, liabilities, future cash flows and taxation. VCCircle has reached out to INDwealth on the details of the investment and will update this report accordingly. The Series C round comes after the fintech startup secured $ ..."
-    publishedDateTime: 2020-01-27T07:44:00Z
-    webUrl: "https://www.vccircle.com/ibibo-founder-s-fintech-startup-indwealth-pulls-in-series-c-funding"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 4
 
 secured: "6GQoE5TKCH+AkBjPAlre/sx/pkl2a7/FjxyORCRh33mg0QVkToJw5UTdo1sEfiBFGM5XidCR1Is+79222vlYtF0G5Gs+K55wIaxm6RWNZzQ7uI5yWzoV7DUToYD0F0sYZIWUvJBnjKyQGgYlbqi829ky3CY/O5raNcy9iF4iEMU6lykhLnymi768uQQo9dztlA+k1zzpHh06VVoO7WCvo9es9HG3K1Ls6PK6/7505bt5FV3Ey5UYFg8h9ytT44Q+iIXVIJA7V8Ls2xh4FCrtsqXT4YGddQ7I93E9vFng07FWkoyAZUlfLtLM/csl6AXo;s4m/KjEm74baeyfSYbsPug=="
 ---

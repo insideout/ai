@@ -48,19 +48,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "AI in Fintech Market Checkout the Unexpected Future 2025 | key Players Microsoft, Google, Salesforce"
-    excerpt: "The research study forecast Revenue Opportunities and Sales Volume Area taken into consideration the primaries from industry experts and includes relevant data such as (revenue, market Size, growth rate,"
-    publishedDateTime: 2020-01-27T07:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-checkout-the-unexpected-future-2025-key-players-microsoft-google-salesforce-2020-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Security researchers discover 2 major security flaws in Microsoft Azure Cloud"
     excerpt: "Researchers at Check Point were able to prove that a hacker could compromise tenant applications, data, and accounts by creating a free user in Azure Cloud and running malicious Azure functions."
     publishedDateTime: 2020-01-30T12:50:00Z
