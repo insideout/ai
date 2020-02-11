@@ -18,28 +18,17 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Learning Management System Market Growth Opportunities 2026, Segmentation and Key Players Forecast by 2026"
-    excerpt: "Top Players in Learning Management System Market are D2L Corporation, CrossKnowledge, IBM Corporation, Edmodo, Cornerstone, McGraw-Hill Education, Saba Software, Inc., Upside Learning Solutions, Oracle Corporation,"
-    publishedDateTime: 2020-01-29T09:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/learning-management-system-market-growth-opportunities-2026-segmentation-and-key-players-forecast-by-2026-2020-01-29"
+  - title: "Vision Sensor Market is Forecasted to Hit $9.2 Billion by 2030: P&S Intelligence"
+    excerpt: "Vision Sensor Market Research Report: By Type (Monochrome, Color), Application (Inspection, Gauging, Code Reading, Localization), Industry (Automotive, Food &"
+    publishedDateTime: 2020-01-28T06:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/g15195351/vision-sensor-market-is-forecasted-to-hit-9-2-billion-by-2030-p-s-intelligence"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15195351"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15195351"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Voice Recognition Systems Market Size Forecast - 2030"
-    excerpt: "[160 Pages Report] PMI's publication of the Voice Recognition Systems Market-Size, Share, Trends, forecast 2030 examines the market for Voice Recognition Systems and the considerations involved in implementation. The 66-page report reviews the growing ..."
-    publishedDateTime: 2020-01-28T12:44:00Z
-    webUrl: "https://www.openpr.com/news/1911316/voice-recognition-systems-market-size-forecast-2030"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "9VCkabWsAgwLKFrija9FOq5AmTmxNPMrlNxHQA/D4RuwjSMZLDVxRA5o3Rve+us//8Ki5hDhhGKNjoCxKwckCbNuK1vxcOe2mK+i70YVW2Rh+CZhEBNdXdyIblLzuL2Q57vN+yDr3xRgmefFL5vqCJmwjrZN4xF9filhP4KOn/n62No1+qbdwCql5e3WLeBX8rlHHTE4aw7txAFTQ7TK00vhK6RCsgGAciPebRJYhcSEIc4PJezHti0JdiZhoaWugoRdk88AM8HVz7mgMraluPacSWE9QpqNXoqzBXafoDzQ/J4SctrsJJ+WvEXtX7W0;GQzAmvitAOfgKTAx5nEmwg=="
 ---

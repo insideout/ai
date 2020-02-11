@@ -8,8 +8,8 @@ ampWebUrl: "https://www.theweek.in/news/india/2020/02/04/Face-recognition-app-yi
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/india/2020/02/04/Face-recognition-app-yielded-80-accuracy-in-polls-Officials.amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Week
@@ -41,6 +41,17 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/voting_ink_ians_505_040220042120.jpg"
         width: 505
         height: 264
+  - title: "Telangana municipal elections: Face recognition app yielded 80% accuracy in polls, say officials"
+    excerpt: "Otherwise the result would have been above 90 per cent. Even then the result was encouraging, the official said. The Telangana State Election Commission used facial recognition app in a bid to counter impersonation of voters. The first-of-its-kind facial recognition app used in the recently concluded municipal polls in Telangana yielded an ..."
+    publishedDateTime: 2020-02-04T11:29:00Z
+    webUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/"
+    ampWebUrl: "https://www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-face-recognition-app-yielded-80-accuracy-in-polls-say-officials/1855803/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 26
 
 secured: "g5EFZqTrkh62VF3lnhB/fuy7lAcyEGF2mPWMl1g8fI/5Fa93HjY/hdF6ETXop+YNZUTkbfauRkYoXMQ/2tBIx2cVuR0Yzl4+VCFhoawiOqquLvLl85u6dH4kbO62RaVEpqV3ZWGg6Pz3EWt1lN4iFOBmERW46CdQF7lvA46PCEWmYPlZHIrVaj7yQVZO4QVjoZWOOmLABhNh/OcAS/roiXfu27/d56xYyiyIAnAo/hLphKddx0AwdzRwyAc/qOUU+nYCtUih1+gYmBJMJKD5Qt/uRI9M0mT9xIwU2hMsdZ/rwZs97CNz8Rx13HZbmLDa;iAeSKdxFjX04FI80IY0kEA=="
 ---

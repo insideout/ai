@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/uber-gets-green-light-to-test-s
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/"
 type: article
 quality: 89
-heat: 389
+heat: 399
 published: true
 
 provider:
@@ -448,6 +448,15 @@ related:
       - url: "https://ww2.kqed.org/app/uploads/sites/10/2020/02/nuro2-e1581019013601.jpeg"
         width: 1920
         height: 1280
+  - title: "Self-driving cars are being tested all over Houston"
+    excerpt: "From West University to Texas Southern University, self-driving cars are all around Houston. But how soon will it be before there are no drivers in them?"
+    publishedDateTime: 2020-02-11T01:00:00Z
+    webUrl: "https://www.khou.com/video/news/local/self-driving-cars-are-being-tested-all-over-houston/285-b2c221a2-a6c4-40b3-be2c-bd3074396bc8"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 4
 
 secured: "i1pJEwa9fGsWSsYagxabpBdr1TS6muz4xEFkv5nx82EtwX18Jewmjt1UUODlrUBo6Zm1fzOwIp048KsyN2X32UWUoKo9EGHXsKf0j/V6a7n8AdgIU6vMdcoN7mqImDvrJuaNrA+WNILtR9zCvTdGB1VKfhIkaQK0Zp6Ae+8imUCdJmawCcs2AopM4GNEwMYTOMHcHvw42XlIU0onQ3RjWpLvXawbLA8q3vGvPFR1molNyVFqHNz/jSe4qf5P1zrzlcN9kgD2Ra9E0FL67fc4HQp8fO2oduzG3maLims/cbyhL31NvlO1FXFPDHMcdgnuxnOd6NLmyWtHjjkEF+Igj2hjc+6IJYNgrmb3SCoIMoyvBrvnuVaqycIiU+3HEByDxwBRrUb0gg2V9wxTfTCri6J/WD2TF+ClQktfJ8hFtFxta17gsiqgKgaptGlyILsWmRyIDBlaviz217xBBJeVD0YDmHusqvo0Mr/lHiiMqek=;zAfGxbn89tDkN7i562xGtw=="
 ---

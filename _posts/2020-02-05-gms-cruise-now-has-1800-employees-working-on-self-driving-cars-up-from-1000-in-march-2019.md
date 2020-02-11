@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/gms-cruise-now-has-roughly-1800-employees-working-on-self-driving-cars/amp/"
 type: article
 quality: 163
-heat: 233
+heat: 243
 published: true
 
 provider:
@@ -120,6 +120,15 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
+    quality: 4
+  - title: "Self-driving cars being tested all across Houston"
+    excerpt: "Several self-driving cars are being tested right here in Houston. Kroger, Dominos, even METRO are testing the technology. For now, the automated vehicles have a person on board. Cars that can operate without a driver are rolling around West University and Texas Southern University. The shuttle, funded by METRO, maneuvers through traffic on a ..."
+    publishedDateTime: 2020-02-11T01:04:00Z
+    webUrl: "https://www.khou.com/article/news/local/self-driving-cars-are-all-over-houston/285-b29c5839-ffd0-4355-88bf-61568031a13f"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
     quality: 4
 
 secured: "F63CMRfOPKN1MhSHxe8fGn4p9SPp1Tb2FgDzbwp42kO/bxTmTl6lFRHeqwHHcBbEdk3u6gUUMvyGi1M5HZzZpk9bMVxT7EJSXbqaF/zx6KR1JnPiGJOah4uZpObCOAVcVyTs/m5ayp8sXdI3yRloLKsgcqR58H8+SLc/hZkJQDNdU6NcPhC2yrmO6B5O1JxpuyrB32Kz9zaIBA1FbffCtasEdC2lgf9ikMjZ9kDv7xcuF2bXwUmlb1HHLfe3toBIRCFrpTK/ZzvlHh93qwxmr0WeFfZwMbqQINqU7zGVXM/CIZ+Vpvx7ixNMHObIceMslhr+Pf+Qpvx4yDmWx1Wfqq+1OFGVq6NAdgaon7wVN/mtNNSbDs77N0SGjqneBA3JN6964veC1Vkao4kQjB7lbw55HtHJbsXH9wfYmuJ64H4/j3P6ab2UHwcgKYfrHAl03WsSgKm+rEZgGXc76PyskYgo80EGKw5DfMtRV4y7KlltWc2sXFmKqru9lxPa7Gl8;iyf9oANgWoUewH79PlQ2GA=="

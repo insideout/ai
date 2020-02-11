@@ -115,6 +115,15 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 4
+  - title: "Self-driving cars being tested all across Houston"
+    excerpt: "Several self-driving cars are being tested right here in Houston. Kroger, Dominos, even METRO are testing the technology. For now, the automated vehicles have a person on board. Cars that can operate without a driver are rolling around West University and Texas Southern University. The shuttle, funded by METRO, maneuvers through traffic on a ..."
+    publishedDateTime: 2020-02-11T01:04:00Z
+    webUrl: "https://www.khou.com/article/news/local/self-driving-cars-are-all-over-houston/285-b29c5839-ffd0-4355-88bf-61568031a13f"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 4
 
 secured: "EKLcMGT2vgtgTubzzafML2D82jeNpVGP9pJHFPSvPCPqxYbd69uWriivlbs4wKlDsscw/nk3jJeI9ZARYJvx7GcmTM2VRyqeITn01RO8XQadsIZHnzWEr0o/hunDHwbcPAYbVVOKHVLcHzpFGHKINYMr8xZqrSHSj0yc1kJEr87OkGl0HCTloNHOLlpabPArJYuMCM+De0GVEeE8K9CYJ6889rNhxg/VqzVAdx54DM2hps3sOJpDlKnKi4tjBZSrjj+7GHXmNLwJSZxdhX8wXIMMNSrOY3lWTLjtOx32lzqpYj3dlS1vwCRctvZ5/jJQ;dd5bu9vsH+/n0AtG6rODxg=="
 ---

@@ -23,21 +23,6 @@ images:
     height: 1035
     title: "Facial recognition datasets and controversies drive biometrics and digital ID news of the week"
 
-related:
-  - title: "Veridium Launches Facial Recognition Technology vFace Alongside Behavioural Biometric Capabilities"
-    excerpt: "/PRNewswire/ -- Authentication platform Veridium launches its facial recognition technology, vFace. This software makes facial recognition more"
-    publishedDateTime: 2020-02-04T14:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/veridium-launches-facial-recognition-technology-vface-alongside-behavioural-biometric-capabilities-300998683.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-
 secured: "BFC6OBk+b9826XbKRQSa6gth8JovFHkoXPlPLUUGiI07iVn6eC+n/noWBoMx20f8oCyqtuFpTM5n97ziYmXvEw79euY8CTeG+OT+oTDiZOfriLf0G4AAHzFfu2HoXtzuwRpJSckT+PmcSbe1rnSxMNNlvJccctayd/AR5kvpw8l4OERIz2G3WZBhZTEaIi4jBymfDg80W8R4WPR1336Bvx7Afw6CJmYI24W7jemPsknnGR5OweKZRbFNfQxxTOI+0BiSBmtDyrSuPB951ylCjVHkUduDNlyMBEQ7sd3Ny4UZtKzbXFkWigdkyC+SuAGBx0uy61uYdouTyZI4R7TaAweZukq/68WyDfVCwotiO8iRdYN9qs8ymTm66Jpc9QmHMN3oZL0RBnYXAc8+mi0RHg2/HqTE6zE5qdQCLpq/J5xZz8ZAGfeoIBAd8fy8a7iHK55MGy/D2FDFCvDbbGkhinMpi9NZXlN4/txCL6X9Lgw=;/CWlfZADQkGQWWdzngznVQ=="
 ---
 

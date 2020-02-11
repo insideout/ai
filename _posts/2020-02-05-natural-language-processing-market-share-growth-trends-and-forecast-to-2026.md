@@ -54,32 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Deep Learning System Market Insights on Future Scenario, 2020 to 2028"
-    excerpt: "This report covers an in-depth analysis of the deep learning system market including statistical and qualitative data points with emphasis on the market dynamics including the drivers, opportunities & restraints."
-    publishedDateTime: 2020-01-27T09:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-system-market-insights-on-future-scenario-2020-to-2028-2020-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market Top Key Players, Drivers and Trends to 2027"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-01-27T09:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-top-key-players-drivers-and-trends-to-2027-2020-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis"
     excerpt: "New York, January 31, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp IBM,"
     publishedDateTime: 2020-01-31T06:30:00Z

@@ -115,6 +115,15 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448962"
         width: 822
         height: 537
+  - title: "Self-driving cars being tested all across Houston"
+    excerpt: "Several self-driving cars are being tested right here in Houston. Kroger, Dominos, even METRO are testing the technology. For now, the automated vehicles have a person on board. Cars that can operate without a driver are rolling around West University and Texas Southern University. The shuttle, funded by METRO, maneuvers through traffic on a ..."
+    publishedDateTime: 2020-02-11T01:04:00Z
+    webUrl: "https://www.khou.com/article/news/local/self-driving-cars-are-all-over-houston/285-b29c5839-ffd0-4355-88bf-61568031a13f"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 4
 
 secured: "GR0t3bsQ2bMJbMqZ6SRaKCIvYud2h4N0VoQd1I6Tl5uy3/wkdVTjR3zKBoUr17albg2EqvZzoyhRTfdbfcCLeCugCPz5MCaOQP17ktrqDsOLKPYk0AUxoFfVsGojE+iDek8fTofkbBkyFqeOQXH49VpoWS4aN5QO3jHbxxDwwOwxtJpPK8Y787JS/T2K1m8fcFiRLSYiaKC8HSuLCauKu7fysrTGmKoglsCzx0Qgi2TXf1UQbA/u5qoMcli//muBihETnjmZKQ7Cj9fdHyVTxBQ25kPwtKfkUI6ioWXjsRUqVa4HaYlvZ9lyf1YhnEZCLec6qlSCfA9VO8Jdoa27IzfyGCPjYSX3j6IQvgOv2XD+NeB2YtzPDXF2A4cScQWxVTPHRTBfdRiATrn6IqpmTesLysGSTp0KUu8hiyjZ5BNWq/pMwR2dpwB1gH6yBAUVv5FnwDlSMlk1MbXL6iB/rfGB8yBS2sFXMi6G4/Ur5Zo=;4Fx55bJQDGjEWaSxTifaPQ=="
 ---

@@ -444,6 +444,15 @@ related:
       - url: "https://ww2.kqed.org/app/uploads/sites/10/2020/02/nuro2-e1581019013601.jpeg"
         width: 1920
         height: 1280
+  - title: "Self-driving cars are being tested all over Houston"
+    excerpt: "From West University to Texas Southern University, self-driving cars are all around Houston. But how soon will it be before there are no drivers in them?"
+    publishedDateTime: 2020-02-11T01:00:00Z
+    webUrl: "https://www.khou.com/video/news/local/self-driving-cars-are-being-tested-all-over-houston/285-b2c221a2-a6c4-40b3-be2c-bd3074396bc8"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 4
 
 secured: "QexaQF7oHgt5vAR0cGmxh9qvbqX/bOnKUU6dOotmoZ6Ml5EUYSoHHZYXw1hLlzd60jd0//Qx9FFJlxQ7dBfomMDHHEP7lp1hhHSiL5AIzOAk4C2BojKX3vyrwo77PNLqSfhA3rMi0ZyV79YY0/+ogzkkpt93r+j9/Sfr6RhNe6ffEqL+9ZhkT7OWR25vniC4lKiFAYdE6StYKNMHcHPhAXPxl0PL19FPIEarGaAcOy/2EqpS5SRjVdaAiU81I7FuLCk8gj+a9BM6G9YDwdNwYORFGF26ZuRSp2oqyaXN9Wo/h0T04Cp7lZ/Ea5eUjeZI;5CPasOvMoUbidn96h9iErQ=="
 ---
