@@ -3,7 +3,7 @@ category: news
 title: "Global Artificial Intelligence-based Cybersecurity Market 2018-2022 | 29% CAGR Projection Through 2022 | Technavio"
 excerpt: "This market report segments the global artificial intelligence-based cybersecurity market by end-users (BFSI, government, ICT, healthcare, and others) and geography (America, APAC, and EMEA). The Americas region led the market in 2017, followed by APAC and ..."
 publishedDateTime: 2020-02-05T15:08:00Z
-webUrl: "https://www.tmcnet.com/usubmit/2020/02/05/9092782.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-based-cybersecurity-market-2018-2022-/2020/02/05/9092782.htm"
 type: article
 quality: 17
 heat: 17
@@ -23,6 +23,6 @@ images:
     height: 270
     title: "Global Artificial Intelligence-based Cybersecurity Market 2018-2022 | 29% CAGR Projection Through 2022 | Technavio"
 
-secured: "hsAzTFj/clmy4pHPTWpgZlQJelwuU4CqKhKlrAMFSoBdfDpzKsyaVASf0Ewk1C3MnMHxUrmOV9URmOGQxVJvfWJuOGx650vhPGZSV9wT4kihWdOvK8YXzojVXkzAspXjpzUWwvYR/bBrBkwrRFzawF/16WX5wnM+VQVFb9eitzW1Vgo0fI/QW3Wd6h9p09WWdestMcBHBR2p8VBq30gHEAstfVWtRiYQw4Y7kSFivGMPTn769JSP2w9TiA3cx5gxpFMQkR62uVJJOoswOcAQhQH+XxblwZvthGb442p2wudrSQEKsF11RiJRoNGM2JLyf/1cgJzjw+Eh/hbMErizqH4OIE9xPPBO3TA8FSEW0iG6YgZzOtp10ytaLLVyQrArDhVpvlBTq6IP4SylyJRsdnUr9KpIL/R1DhTJPWrlbRj+DBbOqOvCyhjwioyPFCbxVGCEzguQC7XuX+qKv31WCFcgNzRekBGXmHm0j3LlJz0=;NOCW8lt0knsfS84gp5sgZA=="
+secured: "VMls8TqcBRvWVWUcwgzWL1KA4cvN31l3VNf1hes91s3w/m7IAUp2Sk8amhK2KQ1b1wMUPiJIfQrCNOPsS/dUJMAeIx29x/lASQxlnPviagVqlaVtf1Z/pXQz5l+a4zilBEmYy16VXsdHP+ZsFFWTWP6ZHfnFpLPvtjLTY8Efw84yWaFhwpXSE4iFPPgifkd/sfLOTbt4VSC7uTlRbbT/zzo5o7fUHPeaKULNwUCfjZbJVWefnv9nzEPkdPXRPdi7qom1UWt8oeZJH+B+U0ziIsVkihgH2OVqP6RUZ3tyxQbMPifPwuoano+SD7pkI6/L;vS6BMyRVgSfco/8DMkjGzg=="
 ---
 

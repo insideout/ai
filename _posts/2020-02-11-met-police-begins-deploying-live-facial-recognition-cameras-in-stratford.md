@@ -69,6 +69,19 @@ related:
       - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
         width: 800
         height: 480
+  - title: "Facial recognition has been championed for keeping data safe - but some targeting practices are making customers uneasy"
+    excerpt: "eMarketer shares key 2020 insights on which uses of facial recognition technology will be the best received by audiences and how advertisers can adjust their strategies accordingly."
+    publishedDateTime: 2020-02-11T22:23:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-privacy-safety-trends"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "London police deploy live facial recognition technology, stirring privacy fears"
     excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
     publishedDateTime: 2020-02-11T18:47:00Z

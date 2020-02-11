@@ -25,6 +25,6 @@ images:
     height: 630
     title: "Election Security, School Surveillance and Ransomware"
 
-secured: "n9UMxyNtLw/nJPy9a++Nskc2/lWlGBQv/a6BAS9XVzu0GdgtNzuCZl/0/rLrnYhCg3pDVUpTLCHnFF4UrhEf6hezoAtMvNsXQdn8dIz0LA3kDdeHzCFFwZuSDttC/qUoi0OJH+/jg06tLfJMJ2iOlNwfcK+Ogs+KpIm7V1mDjZfbkfPQWaLByByRXynTpG+0Ks8tFXFsIx+10DjGe49B7ghDx/nxY0ti0gl9WMPSXkU80xGIn/+O7JfW95kxdrXZ0AkSx5g4zGlVu2xNztITFKDaqyRbqDsJGDgDOE3R/4MAGOBxub95CxVxIvjOJszE;sT4LPjklhJyRAxivwsr65g=="
+secured: "7Ry1M5LHV6/FDLeTY57Dqu/Ftbgn0r7RAPPNWFOuHcUsSGvBUT9PzB4ZATsY8mJYLi4S0v8HYCEruFZEKAjibKViTSK4HfMgoWL6Cwka51UxtD8g8j2TsypVJQTObp3entRVn9IcIIwYBzdFUlyDey0laJilycpwVPt73YGAvTNbKWeCDmRRd5IqI72PR8N1AZwj/Jqi2SmihBN4RLizUu708dcFY+4DbwtUlZYuAOXUFUwNXmMD/Qszi5MfRzxoSESAbMeUXZpnhzLZ0lv95OAKne1sTYxAHEUvmdmj5/BFhxAIiss42DfM9JjUrUcm;09LjPzopWUjLACHeMl9e7g=="
 ---
 

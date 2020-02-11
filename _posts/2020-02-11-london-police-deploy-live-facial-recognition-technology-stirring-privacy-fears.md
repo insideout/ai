@@ -69,6 +69,19 @@ related:
       - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
         width: 800
         height: 480
+  - title: "Facial recognition has been championed for keeping data safe - but some targeting practices are making customers uneasy"
+    excerpt: "eMarketer shares key 2020 insights on which uses of facial recognition technology will be the best received by audiences and how advertisers can adjust their strategies accordingly."
+    publishedDateTime: 2020-02-11T22:23:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-privacy-safety-trends"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Met Police begins deploying live facial recognition cameras in Stratford"
     excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
     publishedDateTime: 2020-02-11T11:37:00Z
@@ -101,6 +114,6 @@ related:
       domain: cbslocal.com
     quality: 13
 
-secured: "ZOss2LVNPjPdNoINKHfDHA1UR/KfS5wLKnFpoHwuE92HUbWrO/oTbZcFW+9jNXDTQS5X1vp9QeoG5CWhHG1NK/jCeUiixAshjVdMV6DbdMOaK4kqMPkEsSVDYGIMDSY5M1C70XzHOSLz7hLLjg2xksIUCnrZELXJ/PH5JHCnCtU3nxZFil/7JvuJ9O8WJprCsdANt61geXH+lLDWIqhTwB8eNXHFHGGoyyfwSsIGN3mbgOaWKT+Tbu3AstQlNRniD8j5oHyJVRJ4ZHvwdZl9YjhC4K4sueIwC3nceNrSK9JGVanI3ZvhZnzVhQ8sc2ra;dWb/G2VRhccwJbxRCGE8ow=="
+secured: "Q4QOanbYX46Wh9km7VXTVEdqYVybm9oqPA9RFqSU5mJQhOS6W8uRJgwwTQhDD6KBsbihWRZ80MZvyN+/Peri66qeHxU4xYeaje5SzZhzA3z8QIaDPbv2Jfe3/94ZD2T8OJ0M1jBDDri1GkjvcXdcGI4x1OVnmbTxvYCG5EMCACzNL1Jvk9BLtJIS44C6mYIP5y9ZI9CyNoY9pMZ/3p3RHbiNosGhVoguEnzswZp9JI48WNS9OpFKUuhO0EIQLqG7yHOJF0YHNEcjYvU2uxMUSfwDBTMsMLzxcwEP7hO9iBB95pPYoZqyAHaQtFZAEPhmgkKyaN2KbF/keypQkCuANXM/lvIhP33wFTMo1zIWl/EavEv66MDrlEqu9ltA3bMQ2hH05PtfnL4/53bOdXVGh/ErzLhk2lJfkcSwAxhBalrE7KfC7+5RxJBAljAnGSuEV6Wp0K1qWqHPzF0crfaJkTj6Xuiplkgc+sZ7wFcFxJk=;Wg3Ub7XGKLePL4EDwqAZPg=="
 ---
 

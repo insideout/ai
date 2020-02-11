@@ -125,6 +125,19 @@ related:
       - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
         width: 1140
         height: 712
+  - title: "Federal Policymakers to Draft Self-Driving Vehicles Bill"
+    excerpt: "WASHINGTON — Policymakers in the U.S. House of Representatives are aiming to draft a bipartisan measure that would guarantee the deployment of life-saving technologies in self-driving vehicles, the chairman of a key committee said Feb. 11. “We can ..."
+    publishedDateTime: 2020-02-11T22:37:00Z
+    webUrl: "https://www.ttnews.com/articles/federal-policymakers-draft-self-driving-vehicles-bill"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/pallone.jpg?itok=zhaIX2_q"
+        width: 470
+        height: 246
 
 secured: "BPML+/Ny0fcQH1IjfscIpJ83zJx1/z9AsFZNushuyJcZ0x2zX5A9wzTGv1gEx5OVV8WpW5jLctZQstfj/Z0gL5E3iX9dCjgFj1D7ONm7UxmvUUPoJ4iOGOFTJCmXlSeP8JfmcNmYXoNmtlwbsIrQOHyDkCNPDPOyXwHTKbWhoUrI8HQx0FZyX6++tN9ANa9XMMW/NEnExuHLjX28Odcj7BVxUrXPVYsOWkC5fN6WBr81uO5kZb5vZqRreyVqYwSLgBiT9lZlsUrO29O5TQTWYbn+gU/Q70FHRkeeJvJvYaEoJZVhsTtpHkWUrKS6XSXKynxHrnSGfYz975reVko4tEOMrwpiPH2gT+wqYYuogvswnkCZsTBOI/Un8DHOLfmUAOu24/O7v/DD9ytycDyQyBnsyX6QSI0IeWbWuER/6/nmx+HVHW0ih2Jui7cnfl7ssOsEnX+xzSpebmh+sX6EPGE3JkqqCJZu9EiOWhuYKu0=;nHNdeWyG+MkKznDilVcdQA=="
 ---

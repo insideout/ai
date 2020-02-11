@@ -60,6 +60,19 @@ related:
       - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
         width: 800
         height: 480
+  - title: "Facial recognition has been championed for keeping data safe - but some targeting practices are making customers uneasy"
+    excerpt: "eMarketer shares key 2020 insights on which uses of facial recognition technology will be the best received by audiences and how advertisers can adjust their strategies accordingly."
+    publishedDateTime: 2020-02-11T22:23:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-privacy-safety-trends"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Met Police begins deploying live facial recognition cameras in Stratford"
     excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
     publishedDateTime: 2020-02-11T11:37:00Z

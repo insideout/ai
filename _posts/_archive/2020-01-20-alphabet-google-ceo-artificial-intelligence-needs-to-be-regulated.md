@@ -8,7 +8,7 @@ ampWebUrl: "https://www.politico.eu/article/alphabet-google-ceo-artificial-intel
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     height: 628
     title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
-secured: "BApjL0e66iIE0rHSXAbnl2QHQbGU1fZVpArqLF1yarNQ7CGKrvOZE4UzpuaDFJDNyc1931nIbMojn/xe11mkSfoDdbAMiJey4EEiVsohH8iaBGl3XuporThQDzb9aISM5tA8tn1i1swrYNLIowdqZOJ9LF1vBhzQagTt2rgn10Ngdv6degOyLPKjL68fUc3hrim0pDk68IwzvDUOhOLrKuqmVuuk7lqgV2822rhdrlVLZX4csYC2thKwm3xOR99HHw4Lc6vENqHTMifwd3dzQyfimZ1JJxhM6fEydEOT4/9BWZiqopWvRuaKwD951gKW;dvypZfw4BTMf2kniNkfXKg=="
+related:
+  - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai-11579523805785.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai/amp-11579523805785.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2020/01/20/600x338/2020-01-20T124135Z_63936257_RC2OJE9VOL8S_RTRMADP_3_GOOGLE-EU_1579524423925_1579524439703.JPG"
+        width: 600
+        height: 338
+  - title: "Artificial Intelligence ‘Needs to Be Regulated,’ Says Google CEO"
+    excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ..."
+    publishedDateTime: 2020-01-20T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-20/google-chief-says-similar-ai-rules-in-europe-u-s-critical"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+
+secured: "UIOY2LDILZYT/o2KOKUH450nu0yvIMrh5O9VQOWWN55VwE648j01WJU5WhZZa//+fFOv7i/X/nkEcahoBONZtfnE6H9R/xlOAmQvpSOSCB0EpT45ypQWl8qJGL/1LYMxLSBUgE2q3u0HcMI1Uw9cF3T5AuLPwqF7hy/PhuGbnSUCrXu5VoIGbq9Q6E3kfctLC26g+jXK2f3a1EtL8l/V2+u0ID4H4POqKSOsVBc08yTdDubl1x/O/8sPdN1esEtXe8ttZDAdETuMojVEUHOY+WmXhJ7rhfb9Loh6QjBLfBDyiNUc1GH4YRHm+jbDYY5A;LzWiXygto8PDBhXDFIAgVg=="
 ---
 

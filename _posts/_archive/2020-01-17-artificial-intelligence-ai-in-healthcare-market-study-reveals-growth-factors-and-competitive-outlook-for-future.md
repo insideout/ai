@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T04:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17"
 type: article
 quality: 78
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     height: 630
     title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
 
-secured: "3ce5x7Kt6xq9wLJDC0Lo2+Lwl9txYesIQ/oa/mCp+A5fRpn1EujRAzc9qYTh6HrRIRQiKCzC98Cf9iW3AGBO9ZSYvEcqu4z2DSsSZBIHlwpBRpAfY2whF/nOFqxLU3IBwYjlfN8d05ztPiyFIX0APhsiNkrV2MMeO6jftTFK57+E8otTmUn6KoS8cFKLl17QsJBts7cCVhE/48s1oXuuc6yQBxH+go4hnJALopJ/avXTHsfWPHMlTbhL+Hr6K08ie/szR+HnlDWyAPLc5mdKhvmAytpIgWVZXQg/o1oQKvpy/BgFpW4Fe36atzsfQgz7;NGAGOb+I+RLmYwRfw8wOhQ=="
+related:
+  - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
+    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers ..."
+    publishedDateTime: 2020-01-22T10:53:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/37810/automotive-artificial-intelligence-market/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 12
+
+secured: "aSHEu2nZbieRPn6yYUmgM+PMxO+Dj49rEKvQFwUh6AlOqi2NzSBZyjYyLb2KRtOgwMK5nTXrHvTg44wC8XDVryiaP93epOyipMm5GwUQUyN0aSJ9Pi3z1UyU/wA2T2ZxSkK6AghT5pRuiGcP0Pxwm+ElxUI6IhgvMW/C2leYa8ZBFBPcuGuU2kWTlDWKAzSunZ3SmKRxWayr3M23TklbGSROCI81INIvcsiJx2ekRdHDkNBxdU/Qyn7a+lCgGZBeAxm5LQIrJhV6aL98yvW0vF6SlbUZjAvGaVo9x8SMzkEXRv6I5CWfZXIM771kiVLX;fBbVh20XCjAEqANoFPeqMw=="
 ---
 

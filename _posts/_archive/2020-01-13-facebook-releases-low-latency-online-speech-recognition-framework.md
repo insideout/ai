@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-onl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,20 +43,7 @@ related:
       - url: "https://findbiometrics.com/wp-content/uploads/iStock_Social-Media.jpg"
         width: 849
         height: 565
-  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
-    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
-    publishedDateTime: 2020-01-13T11:55:00Z
-    webUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
-    type: article
-    provider:
-      name: Pepsi
-      domain: mobilemarketingmagazine.com
-    quality: 36
-    images:
-      - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
-        width: 620
-        height: 500
 
-secured: "XeOZRlG1p24NmiXwrIZ9BKIKtKTrkAcm1aPOBfMQcmDISQO4J8Ei4J2/GIwgixHuwyCBIKRdRuKDVVaBoA4WMsots52bqrrX3EBtv3B33amuy6FqGjTvD7NubZn5QjyluFEQhQm9T1dHes3PfXn+Zlvnah7aHU7KZbbypOQJsKRKWcbeiGZUqQJ5Bs0ffiN/t7NuUiNruGUmkb86/KVrS8BsHrxzWtIn4kUBmifKOnq4UZ5Q/WJCbqRsmq9F2NYF9myKfdWE8eskIw+qjW06slljlKPRjpmjfKa1y1AJzfhJZ8RhFbS1JcxdXTPPF2Nd;Y/1JAAL+eVuf7TWnzGD/nw=="
+secured: "9e3rvUmda3w182P6jLkOpxppJkE593RfRM7+AY35OXbGML10X3FuYiKdcVbJocbxHFKOwoVi/oDMo154eeMpqeREBBpVC5cK4lPVSwYsdRXPAxmx8BJNTkR0UKh0jON+JEMNuIC3/V3ljJE0muSNNlPhoj4N9cvR6i7i0Ef9+oFjQWo+s5ZE8X7YwtT5+h3xPNpxzcO6V17+RUwnDo4Eir+UybHQxra7xcuit/oLfZAmol+rWmgI6UMLSyNJTuwVL7hNx7d9IOYGrJ2Ex4VsqGKjTV7Sq93//1sATqyL838QxFMuaVX0y03dR/RTiIK1;5RsQuphGzZJhQTVuy3MhwQ=="
 ---
 

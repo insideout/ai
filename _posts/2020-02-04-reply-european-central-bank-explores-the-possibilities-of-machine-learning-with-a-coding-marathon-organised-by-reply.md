@@ -2,16 +2,22 @@
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
-publishedDateTime: 2020-02-04T10:24:00Z
-webUrl: "https://apnews.com/Business Wire/6cc89506c97d469ba190f5fea31af2a0"
+publishedDateTime: 2020-02-04T09:00:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
 type: article
-quality: 0
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -47,6 +53,6 @@ related:
         width: 914
         height: 611
 
-secured: "LU4dmUwhXgJLnv178tpFu/XcEYG4HxoJ58Vt1tWzWqta454NSzUyRzx5p7ggpxMcyyX3FbFsCkDwlGL9tkoZBfw1xUm3R/13+kG/r2Dzrp+GIqBdU7bhcQv7OcWekEiar5lbHEZXkslOENc2lqXafWENq/Us0/Efx3t+2Q3n20zHp238STC3US/msp3XbrzB6wzN4k7+uf/ASid53lS4RCkr3z7jujHhRcGlg/0g3cDx+QCoJSOmLkKP1rH4EK3+vui+8VhJH0WrT0xgeInS2y9RgIDqfcrQtB/zuHOiKwpbOW/CPJZOh1Iv+jPIdeA/;yps4R3OB6xiI5R+x1vvt8A=="
+secured: "Z2tq2lvW1fnQR7T1kSk0Rxacunw6Bn8SH5CkJ2IcIlSd9DaYSK5LDKSm/FrYJoC0Cb4TDhstLnmmv6QTj/KVCzoGt099dUurPai7OJcSXtzM23vQ2B7MNIscQ+Nbtq6Sp+dXJOugJgOUayIcAcT0TC229Ct2fcnfKUhZV+ZNWcwqGRHCSk61ffGGtMNeUCBqXRZTD67iuMCtkVLGDEx81aMKaNmN2NyAruZl5FvpevL+9x5Kj8wFj0wosh5kecr5EnKia7L5Qpi/dRsLorj9t7t1edNtxCujfq3OS93b/EhxlCzAJbcZMSLfkB5qvUH7;4S5s/ZGC/cuGAgSPLtfDUA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-dri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -125,6 +125,19 @@ related:
       - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
         width: 1140
         height: 712
+  - title: "Federal Policymakers to Draft Self-Driving Vehicles Bill"
+    excerpt: "WASHINGTON — Policymakers in the U.S. House of Representatives are aiming to draft a bipartisan measure that would guarantee the deployment of life-saving technologies in self-driving vehicles, the chairman of a key committee said Feb. 11. “We can ..."
+    publishedDateTime: 2020-02-11T22:37:00Z
+    webUrl: "https://www.ttnews.com/articles/federal-policymakers-draft-self-driving-vehicles-bill"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/pallone.jpg?itok=zhaIX2_q"
+        width: 470
+        height: 246
 
 secured: "kON6uOXhIIymvfXGDAJiV3g1Fv4bvuZCqND1IusGXFys74SWhzSQFEDcKz4QJzdAdEwPY8IiMLh8m5CVLifYJhEZIH9ty0l9PaBWXDrWl7LxkIehdQKn/rerIy4TFOQsuk7OONjBrUcPgIm1e2MXelb9ly2JqucM5g8JDEkzUACWScy358VPEQGF1izFCpI2PtVRE/uFWGOc6nwzRW4WrHmarLW2QXl0l+eZ+HbIgdtxyLykTcntscf9M0QZkDhgZDZTQZQoL4iGZPlBDu4AWRe4BLi4LUkuLkABbM40B04He6UHo7CDQI+sciNdf8vtFhEakQFAM9tov9pcDYUw709M5pv3T9dmlXP/ocQKMsnOOchj5iGb2CFs4GLdqNAk7cFp8DKoGFsR3/VTyym9RqfhF0ABrO9Zr5uSajD3XM9TZMRGAGim3oyb+zhKDOucaZhj22hlDRqotDma3V+ai8jMxKmZAGs+nfsTiwEvwB4=;pJRgpZOZJO+xAA9WeZd7UA=="
 ---
