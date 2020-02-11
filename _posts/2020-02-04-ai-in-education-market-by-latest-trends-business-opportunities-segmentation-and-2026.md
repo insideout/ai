@@ -51,6 +51,17 @@ related:
       - url: "https://cdn.androidheadlines.com/wp-content/uploads/2020/02/Trading-analysis-forex-chart-image-1.jpg"
         width: 910
         height: 607
+  - title: "Uber Creates Uber Money Team In India With FinTech Focus"
+    excerpt: "The Uber Money team will be geared toward putting into place new payment methods, harnessing smart routing technologies for payment gateways, using Uber artificial intelligence (AI) models for intelligent risk decisions ... “The Uber Hyderabad Tech Centre has the best in class fintech talent specializing in risk, payments, financial reporting ..."
+    publishedDateTime: 2020-02-11T18:02:00Z
+    webUrl: "https://www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/"
+    ampWebUrl: "https://www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
   - title: "Just AI, a conversational AI solutions provider, receives investment from fintech and telecom companies"
     excerpt: "London, UK: Just AI, a Conversational AI technologies developer and solutions provider, received funding from two strategic investors. The first one is MTS PJSC (NYSE: MBT, MOEX: MTSS) - one of the leading mobile network operators in Russia, Ukraine, Armenia and Belarus with over 106.5 million subscribers. The second investor is Sovcombank PJSC ..."
     publishedDateTime: 2020-02-06T09:44:00Z

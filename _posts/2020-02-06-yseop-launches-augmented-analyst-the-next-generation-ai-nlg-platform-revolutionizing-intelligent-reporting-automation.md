@@ -24,43 +24,21 @@ images:
     title: "Yseop Launches Augmented Analyst, the Next-Generation AI NLG Platform Revolutionizing Intelligent Reporting Automation"
 
 related:
-  - title: "Unpacking The Differences Between Automation And AI In The Enterprise"
-    excerpt: "As enterprises strategize the incorporation of automation and AI-driven applications in their technology ecosystems, it’s critical to clarify the distinctions and understand the unique role each technology plays in digital transformation initiatives."
-    publishedDateTime: 2020-02-11T12:56:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/11/unpacking-the-differences-between-automation-and-ai-in-the-enterprise/amp/"
+  - title: "AI And Automation: Together Forever?"
+    excerpt: "AI and automation are particularly intertwined in robotics, supplying workforce-enhancing solutions that not only complete repetitive tasks but also support and improve decision-making processes."
+    publishedDateTime: 2020-02-11T18:03:00Z
+    webUrl: "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/"
+    ampWebUrl: "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/167890572/960x0.jpg?fit=scale"
-        width: 711
-        height: 474
-  - title: "Idaptive is taking machine learning for authentication and applying it to authorization"
-    excerpt: "Just before the holidays, I had a conversation with Idaptive to learn about the next phase of their user behavior analytics strategy. Essentially, they’re taking machine learning capabilities used to authenticate uses, and applying them to authorization decisions. These capabilities are part of Idaptive’s “Next-Gen Access Cloud” IDaaS ..."
-    publishedDateTime: 2020-02-10T21:59:00Z
-    webUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization"
-    ampWebUrl: "https://www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
-    cdnAmpWebUrl: "https://www-brianmadden-com.cdn.ampproject.org/c/s/www.brianmadden.com/opinion/idaptive-using-machine-learning-for-authorization?amp=1"
-    type: article
-    provider:
-      name: Brian Madden
-      domain: brianmadden.com
-    quality: 31
-  - title: "Yseop Announces Augmented Analyst, the Next-Generation AI NLG Platform Featuring the Most Advanced Intelligent Automation ..."
-    excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels of user-adoption ..."
-    publishedDateTime: 2020-02-06T09:07:00Z
-    webUrl: "https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4"
-    ampWebUrl: "https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
-    cdnAmpWebUrl: "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
-    type: article
-    provider:
-      name: Calgary Herald
-      domain: calgaryherald.com
-    quality: 12
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42e21e3f2df80006e3c68f%2F0x0.jpg"
+        width: 1200
+        height: 801
 
 secured: "fHLZp7XCcKs+5M/1d5f7CbzfO45hGhO6wt41ynJBMiwvNStyYjxZwcrWV1IX5ThfLDl7AHYwG4qDmz1epOFsVjfRLGTMnZSJv80hDTcZ/A+0K+4BVLQVVDqTea1+aNchvP6Xa5T9MxbBxFaTJ728yO4GudLVKbPOE+wgfglUdsOQLgf6tcUxrUWvl6oHcSDbITWCdq/RfmhgCOAhYRoCj3dAczFoF9lsCxtZ05MPkWwXEtKwRyNqInkHObjrXkCMWokPz7eJ9ScUV0r6xf+0WBsk6PJcwSM4+DhbRAbg9ukknhFgJHwy1TM9KG7yPDWf26AxVThTjf0uVi+pfwPpriHsf27VBUlHFm28eKfSFVOHvawlI9Vf+vHneqwC3gTw+6Z6ZgX7CdqyPaoGbMajbj9+4zd9TttoDW3BGzsw3Qwp8HALrINDzJykXYZgc2bKzXJdSpIBLQP3JKYjUjCwYyxrlvj1FcRx1azsb7KlRFY=;6dQsjIeuWqDYsQDgygSizg=="
 ---

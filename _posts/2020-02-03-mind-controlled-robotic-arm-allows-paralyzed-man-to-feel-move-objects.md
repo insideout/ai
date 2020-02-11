@@ -8,7 +8,7 @@ ampWebUrl: "https://pittsburgh.cbslocal.com/video/3669495-mind-controlled-roboti
 cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/amp/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,17 @@ provider:
 topics:
   - AI
   - AI in Robotics
+
+related:
+  - title: "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm"
+    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
+    publishedDateTime: 2020-02-09T00:00:00Z
+    webUrl: "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 57
 
 secured: "BYVf4zRLc7TSe8Fz/q2CND/6bnoHpK1mWic/PQhcv4F5VmEbYgpDqzX6boA5I5AmZpgbITdeSCqokOo7/mci5YIPt4NIY2NsMjDCyR/rHb5g/2GQ++bejWwfxFSHac9zZwr4gJF+3dPMAgiw1Pzjl3cB/l5qqRKZMc9gDexf4tfwqr7H9fceE4jJFo/KO2o6+IRrg9zlv7lwt2cCq+f6K8EYPN8rhDcwsHBrqKzIxL1uC0L5NwzxPL2IsGACXZJ3BtvfhB7zxogmKhcS+b1DQntONu3Lkx63nppAGleMCog8YPrtMJ6u+CIFjv/5FcEg;E4WZuMF06vhYLNnZ7oupwA=="
 ---

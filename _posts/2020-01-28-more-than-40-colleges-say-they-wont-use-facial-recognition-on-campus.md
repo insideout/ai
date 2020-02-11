@@ -488,21 +488,6 @@ related:
       - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2020/01/Screen-Shot-2020-01-28-at-12.57.07-PM.png"
         width: 685
         height: 438
-  - title: "Meadowhall facial recognition scheme troubles watchdog"
-    excerpt: "Police involvement in a private landlord's facial recognition trial has led a regulator to call for government intervention. BBC Radio 4's File on 4 has learned that South Yorkshire Police shared three photos of serious offenders and one of a vulnerable missing person with Sheffield's Meadowhall shopping centre. It follows similar controversial ..."
-    publishedDateTime: 2020-01-28T01:04:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-51268093"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51268093"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51268093"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15CEF/production/_110672398_facialrecognitiongetty.jpg"
-        width: 1024
-        height: 576
   - title: "Wasp’s facial recognition ability offers lessons in evolution"
     excerpt: "Through its analysis, the team found a strong and rapid selection by genes linked to insect vision, learning and memory, all crucial to facial recognition. They believe this took place in just the last few thousand years. Meanwhile, the two close relatives of the Northern paper wasp exhibited no strong patterns of genetic selection for learning ..."
     publishedDateTime: 2020-01-28T23:26:00Z

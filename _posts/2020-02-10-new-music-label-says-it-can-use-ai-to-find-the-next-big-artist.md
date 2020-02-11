@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/2020/02/10/snafu-records-ai-music-label/"
 ampWebUrl: "https://www.engadget.com/amp/2020/02/10/snafu-records-ai-music-label/"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/10/snafu-records-ai-music-label/"
 type: article
-quality: 87
-heat: 87
+quality: 187
+heat: 187
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 350
     title: "New music label says it can use AI to find the next big artist"
 
-secured: "cO8ZpOqaRWBp8N385QyJ0r85+8lBAOZrB5NYchvOTICAW/7iGMuTvkDuEt6QAVfj4JAcELsdNbDVrIi5rRRcfoqrcR423ooZYr5t8kAkIbNFyGs0cCTgj+UjL41fMRDPB68zuaXYSw2swzIgR8f7tPuKgYFgc+LqFXKrw/f3zkDQo5uManoIPE18HB/AGdPZ7+3MnnWk612yFMuIuYSW1QJpSFSxt/VZxKtl/LmQsvOQ7PhBa+lCE6ZNPttHq0cAJVucan3+f/hEOu5LB1rB0mu2uiW/mzaFN0banrECcoCAoF3uCM2dwPhL0QmscjCKqO90376c1YtaaxCmv1CJtUnmibwWP4b0RVpjZ3zWjlPXsaBdtiYpJTudvNlqvL4Gg81bdZVCme5f01wkgyuUWPU9kXauiS7/oQL56nEBcfd0wEiZUlde0nSkzsaFZi/TZftUaRetl6L6haQbHQPqyCUk0TXhyJLR/nNMuMoD9L0=;JPbLmZxzpXU75iVfIpu4Fw=="
+secured: "EuJFulA0XQnwgnoR2ilL+T+eNOMhJMK4GxMk8gmoWRH26lYFr5XSR7jncyfTD3wiuaedJu5mCXP1upiyniAEHWk3ugFmsHfteK+SBK/MpCNMCYMqPZYRk0whQlyhOtEJ2NaJ0Z7svUA4d6sWtHA9Ek8gYhCL1334yzliFVShFO3WIKRnXqJH8ug7KUNSib3n/gE/PAX4Skw9pr7vp4mbuKWgHJ5Ic8nbwpgt/fd07edtqspnC4bLTV8Ol2/+rIGqD3ShRLjr4pIEHPtNcTuk6YTL0suav087ee9h3xkugj7KPYM63d0RkPS3A0WGdEyEijVYvV9BhoccLM+NPL5Yxpt1H9tGN+fOJRM22XTrdWQ6dWA1IaP7hwMnoTs1KYt6hZldQLvLd7JgG5G7b5LiT/xF9fDHMnA+1Geovk7P3EFy+/5qHmwh+DPZKQLgTTT/Tr2N5ncqm4GE4OsH2QnMsEt49ReezG67qSFR6yO1XGMGbCQ7xh3Eg8ogHBOvxsli;cIbYz9YQczuV9vbWp+xBww=="
 ---
 

@@ -19,36 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "White House’s proposed budget would increase investments in AI and quantum computing"
-    excerpt: "The White House’s proposed budget for fiscal year 2021 includes sizable increases in federal funding for AI and quantum computing projects. All told, the overall increase in federal R&D funding is 6% compared to fiscal year 2020, reaching $142.2 billion. Although much of the funding is aimed at R&D and infrastructure investments like $25 ..."
-    publishedDateTime: 2020-02-10T22:01:00Z
-    webUrl: "https://venturebeat.com/2020/02/10/white-houses-proposed-budget-would-increase-investments-ai-and-quantum-computing/"
-    ampWebUrl: "https://venturebeat.com/2020/02/10/white-houses-proposed-budget-would-increase-investments-ai-and-quantum-computing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/white-houses-proposed-budget-would-increase-investments-ai-and-quantum-computing/amp/"
+  - title: "The White House wants to spend hundreds of millions more on AI research"
+    excerpt: "The news: The White House is pumping hundreds of millions more dollars into artificial intelligence research. In budget plans announced on Monday, the administration bumped funding for AI research at the Defense Advanced Research Projects Agency (DARPA) from $50 million to $249 million and at the National Science Foundation from $500 million ..."
+    publishedDateTime: 2020-02-11T12:34:00Z
+    webUrl: "https://www.technologyreview.com/f/615174/the-white-house-will-spend-hundreds-of-millions-more-on-ai-research/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 137
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2015/10/white-house.png?fit=1438%2C756&strip=all"
-        width: 1438
-        height: 756
-  - title: "Trump budget proposal boosts funding for artificial intelligence, quantum computing"
-    excerpt: "If approved, the 2021 financial year budget would double non-defense AI spending from roughly $973 million to almost $2 billion. It would also significantly boost quantum information science ..."
-    publishedDateTime: 2020-02-10T22:54:00Z
-    webUrl: "https://thehill.com/policy/technology/482402-trump-budget-proposal-boosts-funding-for-artificial-intelligence-quantum"
-    ampWebUrl: "https://thehill.com/policy/technology/482402-trump-budget-proposal-boosts-funding-for-artificial-intelligence-quantum?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/482402-trump-budget-proposal-boosts-funding-for-artificial-intelligence-quantum?amp"
+      - url: "https://cdn.technologyreview.com/i/images/david-everett-strickler-igcbfrmd11i-unsplash.jpg?sw=1200&cx=0&cy=0&cw=3000&ch=1688"
+        width: 1200
+        height: 675
+  - title: "White House reportedly aims to double AI research budget to $2B"
+    excerpt: "The White House is pushing to dedicate an additional billion dollars to fund artificial intelligence research, effectively doubling the budget for that purpose ... applications that may grow to become the next globe-spanning monopoly, a la Google or Facebook — which themselves, as quasi-sovereign powers, invest heavily in the field for ..."
+    publishedDateTime: 2020-02-07T22:57:00Z
+    webUrl: "https://techcrunch.com/2020/02/07/white-house-reportedly-aims-to-double-ai-research-budget-to-2b/"
+    ampWebUrl: "https://techcrunch.com/2020/02/07/white-house-reportedly-aims-to-double-ai-research-budget-to-2b/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/07/white-house-reportedly-aims-to-double-ai-research-budget-to-2b/amp/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 51
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://thehill.com/sites/default/files/artificialintelligence_82118getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1139876920.jpg?w=1024"
+        width: 1024
+        height: 664
+  - title: "Trump admin wants funding doubled to make US an AI powerhouse"
+    excerpt: "FACEBOOK'S FACIAL-RECOGNITION SETTLEMENT AMOUNT BREAKS RECORD The White ... The budget proposal on Monday will include a 70% increase for National Science Foundation (NSF) for AI-related grants and interdisciplinary research institutes, rising to more than $850 million, sources said, as well as a significant jump in funding at NSF for quantum ..."
+    publishedDateTime: 2020-02-08T00:57:00Z
+    webUrl: "https://www.foxbusiness.com/markets/trump-admin-wants-funding-doubled-to-make-us-an-ai-powerhouse"
+    ampWebUrl: "https://www.foxbusiness.com/markets/trump-admin-wants-funding-doubled-to-make-us-an-ai-powerhouse.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/trump-admin-wants-funding-doubled-to-make-us-an-ai-powerhouse.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/1906/854081161001_6129875769001_6129874072001-vs.jpg"
+        width: 1280
+        height: 720
 
 secured: "6DoZvZLW5fDbVAafyT9suCtA2bU3Tz3oSIH0z04DUnSTXkpKulgTOuOF7Hn8MSOkKcmKcxjrHVEWGpsySfbgscwXiD2jRVK5B0jqytR7kaYRHHkVoAD7k274oY5ofPdzebKYxdY1dSi6RqO7OpZPt3lwRq7hCgzs4XuJC/qnKVwetFtAQic7skthUW6BvynSAflKyD9t0PWCzPBQdEui5StWVsMPe7CIRKzUB0zJpYaZfuOtW5qS/666dYgEXoq/sTL8ryZIQYViDDo3vli8rZBf+166SnTfSGgM5+i+1+z3xTMo6laIulzUV1FgtjxBSRKFSdo4Tz87GVjJNwslC2RCZ8i6yRkI4+lzMw/uHsxx2i/We7eA+izBokS9IhNAqpjseI0Vr8IzEuUJL6xOhBRjjAXSUrefA0Y2Zg1zLQgc5rUTVB94lYTYfTkDYKlhTNPPAQfHhmBEJJANYNqfct5y0EDbxJILU0NmICWZFkQ=;uiVbZJ8ncz7HJe61SZ5k/A=="
 ---

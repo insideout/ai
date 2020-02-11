@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/10/white-houses-proposed-budget-woul
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/white-houses-proposed-budget-would-increase-investments-ai-and-quantum-computing/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
       - url: "https://thehill.com/sites/default/files/artificialintelligence_82118getty.jpg"
         width: 980
         height: 551
-  - title: "White House earmarks new money for AI and quantum computing"
-    excerpt: "The funding, part of the Trump administration’s $4.8 trillion budget proposal, would direct more money for AI research to the Defense Department and the National Science Foundation. The administration also wants to spend $25 million on what it calls a national “quantum internet,” a network of machines designed to make it much harder to ..."
-    publishedDateTime: 2020-02-10T23:56:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
 
 secured: "2CCEtAPVU98SuZLW6Ns9ivVL1x3RKPS/YJzrzMAjAs8aP276tcJW3jBz2OZpG4qKnHEEI2YEFQXL9wxzboNnm+bI9Y+QjQVNTpQeixtm3O7Zm/0Wbq+v1SdcaQJY5Go+lJ54tbS9gVJtyThjK9Bquk7uENR9egHeanfzdIYpORDZ7rrsWC4Ng3IFy6hOuDThVje4A2r0Bj9cV/2RD0Jv8CYPKExz28TDaXbCO/zUj8lK4m70xSkIcvOOwB+8kPoPtMyUcyAJ+GFZjw9MW9O8QUL9cEOsHtnx4TZ2xAbuLzoLPg11e4m0jq+VnfchvNq/sNR9TJZzM/G+c76d+YCtIS3iILzc1grYoVeo5NNnyxuXJzCF4im6J1QOHq2NyKdr2oBcsyYdaNgqRhf6SJUGbE5Lkqe16+2sUGBMXfdkjSKMaTCjRB9M3hCLJDD/B8YrzFKaiUFzm4bugY4jYnu+fIxlK9oZ93XardEfbPVqIrg=;FWAHs78Ye5IYpFo7ePBloA=="
 ---

@@ -1,13 +1,11 @@
 ---
 category: news
 title: "AI can help cancer patients start radiation therapy sooner"
-excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans."
+excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait ..."
 publishedDateTime: 2020-01-28T02:41:00Z
 webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
-    width: 620
-    height: 480
-    title: "AI can help cancer patients start radiation therapy sooner"
 
 related:
   - title: "AI can Boost Radiation Therapy for Cancer Patients"
@@ -80,6 +72,6 @@ related:
       domain: theiet.org
     quality: 34
 
-secured: "zHOm0GpkZMFXE4M2js1zcQrotnGQR/md7FOC7Cq/dlBiEN4pbk8B/rmLYdq6eVkOSUm7zF0v62MOFntm/a0hvprTOPg0dtNVBEHOtS7YJwXqVsOMYWhGNroVuCK2Z8Gr3kWCMaVHXxvxPWsAx/EkT91KdF+F67fBw0g0Em4D1XmEmnFeKE83zTMqqAd+LTkyrc3XEfamjou8A6Ag2uTBn3TD4pYMQu5eXN1egfghnZ8vanVtIjXbrmee1S72885SK1GMS4qUw00XlsW+N8e1t1bn40Va0jsudp1M0CCAeu+sy7EJ0tJDfci/sGeM4z8MZmVei9NYIIVWNRtiALaB/XgS2kAOVnS9eIKHMXX0YB/HQ4a91MBwip+jY8/l7Z0uoiMtJXgROcW89n7Hmavv4c3tGD5n/WzyHR1xJuGoxGuWQPRS+fLlUMAG8No1j9bR/oT8nYKCtAlnz7/79EKn42sPiEYt1M8GgYH5YF5WdY8=;TyiAWXuYHM1+J/2KOVKAKA=="
+secured: "2IIxJYgBAHHeBVZvadw59wOPJC05jnowXbN20piwUErhikD+3TUIQ88oUEjF6vn2O02CjGpScEc11AI9MHYURTQw8b95Q3fV44GmKR2g2psCI5Sar0o7+H4C7RYSCfFUNL0qtTg55IIDz6bGxA5ISWZ6frwiah46Xj5ZJ6OSV+TG/FZXQjz4PUsQzmHbFmCjjhtePmvpFbinv45diYz/ty0BJsjouZhwGZkaX7fiFVycqqz6kc2y1l4IGRxJ4IYwGJEvLBMRFToZbKeEPa3KwI17WfdA+H/Kc2F8+mQyDTTtA3+VbtmqM1Zu+QsVz6K/qhi8WKPYZRvhMSCRBOt0FStJxNFKzed7Cp0HBnip06cGpPfO0JjcWjWDuigs+ZA7qfpxks/Q8SEKwSRTX0jazNrfUTIdBjiXDXOVF3rbA2uVXg20UjVVDZ2Uhb6af+bQaBwN2hXx/ij/tU9YqcjMXeIRY9l0yEfGY+kly8eKUmc=;DwztR+LWw8mP9qDctTApRQ=="
 ---
 

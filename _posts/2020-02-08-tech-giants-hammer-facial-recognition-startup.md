@@ -24,6 +24,21 @@ images:
     title: "Tech giants hammer facial recognition startup"
 
 related:
+  - title: "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook"
+    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and asked Clearview to remove it last month. Clearview AI, the facial ..."
+    publishedDateTime: 2020-02-11T02:44:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 180
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
+        width: 640
+        height: 440
   - title: "Clearview AI Wants To Sell Its Facial Recognition Software To Authoritarian Regimes Around The World"
     excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 5, 2020, at 6:09 p.m. ET As legal pressures and US lawmaker scrutiny mounts, Clearview AI, the facial recognition company that claims to have a database of more than 3 billion photos scraped from websites and social media, is looking to grow around the world. A document ..."
     publishedDateTime: 2020-02-05T23:16:00Z
@@ -39,118 +54,86 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/17/campaign_images/buzzfeed-prod-web-06/these-senators-want-homeland-security-to-pause-it-2-2613-1552427904-0_dblbig.jpg"
         width: 625
         height: 415
-  - title: "Clearview AI is looking to expand globally, report says"
-    excerpt: "The facial recognition company reportedly wants to sell its app to law enforcement in 22 more countries. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is reportedly eyeing global expansion. It wants to sell its services to law enforcement in 22 more countries ..."
-    publishedDateTime: 2020-02-06T02:17:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-reportedly-looking-to-expand-globally/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
+  - title: "EU backs away from proposed five-year facial recognition ban"
+    excerpt: "Instead, it will recommend that member states assess the technology themselves. The European Union won't issue a ban on facial recognition tech, as it once proposed, the Financial Times reports. In a previous draft of a paper on artificial intelligence, the European Commission suggested a five-year moratorium on facial recognition, so that the ..."
+    publishedDateTime: 2020-02-11T15:49:00Z
+    webUrl: "https://www.engadget.com/2020/02/11/european-commission-facial-recognition-guidelines/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/g3NdohYSdrzYH4i2iNFOSc9gHbQ=/756x567/2020/02/06/8599565c-e194-4d37-9ab7-56f3f399d317/facial-recognition.jpg"
-        width: 756
-        height: 567
-  - title: "Clearview AI reportedly looking to expand globally"
-    excerpt: "Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is reportedly eyeing global expansion. It wants to sell its services to law enforcement in 22 more countries, BuzzFeed News said Wednesday, citing a Clearview AI document that was reportedly part of a November 2019 ..."
-    publishedDateTime: 2020-02-06T01:27:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-reportedly-looking-to-expand-globally/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/"
+      name: Engadget
+      domain: engadget.com
+    quality: 49
+  - title: "Miami, LA Firms Sue Google Over Facial Recognition Photo Scans"
+    excerpt: "Law firms in Miami and Los Angeles claim in a class action that the Google Photos service uses facial recognition technology that violates an Illinois biometric privacy law with stiff statutory penalties. The lawsuit filed in U.S. District Court for the Northern District of California claims Google failed to get the consent or written release ..."
+    publishedDateTime: 2020-02-07T21:16:00Z
+    webUrl: "https://www.law.com/dailybusinessreview/2020/02/07/google-hit-with-class-action-under-illinois-biometric-privacy-law-over-facial-recognition-392-82075/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/g3NdohYSdrzYH4i2iNFOSc9gHbQ=/756x567/2020/02/06/8599565c-e194-4d37-9ab7-56f3f399d317/facial-recognition.jpg"
-        width: 756
-        height: 567
-  - title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
-    excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
-    publishedDateTime: 2020-02-07T18:22:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12/"
-    ampWebUrl: "https://amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
-    cdnAmpWebUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-  - title: "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook"
-    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and asked Clearview to remove it last month. Clearview AI, the facial ..."
-    publishedDateTime: 2020-02-11T02:44:00Z
-    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 80
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
-        width: 640
-        height: 440
-  - title: "Clearview AI Tried To Mimic An ACLU Test To Make Itself More Legitimate To Cops. The ACLU Said That’s “Absurd.”"
-    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and asked Clearview to remove it last month. Clearview AI, the facial ..."
-    publishedDateTime: 2020-02-10T22:19:00Z
-    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 69
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
-        width: 640
-        height: 440
-  - title: "Facial recognition software is a powerful tool to help cops do their job — don’t ban it"
-    excerpt: "Using software to scan Facebook photos is not a major privacy issue. If technology can keep us safe, it should be used. Of all the ways that our data and likeness are being captured, the Chicago Police Department’s use of facial recognition software,"
-    publishedDateTime: 2020-02-09T07:00:00Z
-    webUrl: "https://chicago.suntimes.com/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/2/9/21128545/chicago-police-facial-recognition-software-solving-crime-suntimes-letters"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 51
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/SJDNyFPKND1oloaCAHgrhYqlrzE=/0x0:5689x3000/1400x1050/filters:focal(4044x1028:4954x1938):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66279860/edita_facial.0.jpg"
-        width: 1400
-        height: 1050
-  - title: "WeWork wants facial recognition biometrics class action dismissed"
-    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
-    publishedDateTime: 2020-02-07T03:36:00Z
-    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
-    type: article
-    provider:
-      name: Cook County Record
-      domain: cookcountyrecord.com
+      name: Law
+      domain: law.com
     quality: 39
     images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
-        width: 1280
-        height: 640
-  - title: "Internet giants reject controversial facial-recognition start-up"
-    excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
-    publishedDateTime: 2020-02-06T12:46:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/02/internet-giants-reject-controversial-facial-recognition-start-up/"
+      - url: "https://images.law.com/contrib/content/uploads/sites/392/2020/02/Google-Headquarters-Shutterstock.com_.jpg"
+        width: 620
+        height: 372
+  - title: "Artificial Intelligence and Facial Recognition Could Change How Vegas Casinos Work"
+    excerpt: "The applications of AI into casinos and poker online could be massive. However, most industry experts agree that there is more value in incorporating facial recognition into the overall customer experience. For example, a facial recognition system can easily identify customers as they come in. Facial recognition tech installed on slot machines ..."
+    publishedDateTime: 2020-02-11T16:13:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2020/02/11/444432-artificial-intelligence-facial-recognition-could-change-how-vegas.htm"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 4
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
+  - title: "Venmo, YouTube and Twitter demand company stop ‘scraping’ photos for facial recognition work with police"
+    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part … This item is available in full to subscribers."
+    publishedDateTime: 2020-02-06T15:54:00Z
+    webUrl: "https://romesentinel.com/stories/venmo-youtube-and-twitter-demand-company-stop-scraping-photos-for-facial-recognition-work,91635"
+    type: article
+    provider:
+      name: Rome Sentinel
+      domain: romesentinel.com
+    quality: 22
+    images:
+      - url: "https://romesentinel.com/images/og-images/og-rome.png"
+        width: 600
+        height: 315
+  - title: "Tech company develops facial recognition camera for the STEM classroom"
+    excerpt: "An electronics company has developed an artificial intelligence (AI)-powered, facial recognition camera exclusively for the science, technology, engineering and mathematics (STEM) classroom. Dubbed HuskyLens, the camera developed by DFRobot is an easy-to-use camera designed to teach STEM students about facial biometrics and object recognition ..."
+    publishedDateTime: 2020-02-06T17:21:00Z
+    webUrl: "https://insights.globalspec.com/article/13468/tech-company-develops-facial-recognition-camera-for-the-stem-classroom"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
+  - title: "London police officially deploy facial recognition cameras"
+    excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in Stratford ..."
+    publishedDateTime: 2020-02-11T07:40:00Z
+    webUrl: "https://nypost.com/2020/02/11/london-police-officially-deploy-facial-recognition-cameras/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 19
+  - title: "Illinois privacy law leads to $550M Facebook settlement over facial recognition"
+    excerpt: "CHICAGO — Adam Pezen, Carlo Licata and Nimesh Patel are among millions of people who have been tagged in Facebook photos at some point in the past decade, sometimes at the suggestion of an automated tagging feature powered by facial recognition technology. It was their Illinois addresses, though, that put the trio’s names atop a lawsuit ..."
+    publishedDateTime: 2020-02-09T20:40:00Z
+    webUrl: "https://www.bostonherald.com/2020/02/09/illinois-privacy-law-leads-to-550m-facebook-settlement-over-facial-recognition/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 15
+  - title: "Video: American Civil Liberties Union criticizes facial-recognition company using people?s photos without permission"
+    excerpt: "One person died and more than 150 people were injured Wednesday when a Pegasus Airlines plane landing at Istanbul’s Sabiha Gokcen Airport skidded off the runway and crashed into a field, according to multiple reports. Istanbul Gov. Ali Yerlikaya said the ..."
+    publishedDateTime: 2020-02-06T04:38:00Z
+    webUrl: "https://www.news965.com/news/video-american-civil-liberties-union-criticizes-facial-recognition-company-using-people-photos-without-permission/zxDuScv4SVMKOi7HIXGBBJ/"
+    type: article
+    provider:
+      name: News 96.5 - WDBO
+      domain: news965.com
+    quality: 0
 
 secured: "HOHHnqzGGST6moYFfi557/O3U4qqmTE0mE96yNGQvva1OF5VGuMDzkiSJj26Tf2XKHdbIb69KV9IfkqdkIe+ZDIvApZWHENwWkJnAzdpDKlOSvGqNFMI7GQwGljaZotUZu1wqlrnbxkbbsnk5RZ6vXf3boXpn4BLLlPnQaaYD8pv+TmDMMzsYqdFw3lWh0rnmI7QmNHGwDNC8Xlmj0W+HWJZInygSTAX6tA74HS+Iy/aeubZhRBrPV2tEGatmChFbhqhiuCAKr3ye5qdj4rhtqrEWlGzv2h4sgS1mJSMFknxhJU6M0JlKJsq8Uah2YtB;Wup7ELRZJ3RMVpIWlU+Vcg=="
 ---

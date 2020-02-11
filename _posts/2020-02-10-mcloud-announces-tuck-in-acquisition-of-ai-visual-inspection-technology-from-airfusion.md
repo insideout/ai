@@ -50,6 +50,32 @@ related:
       - url: "https://miro.medium.com/max/1200/1*C6Z6i1_2EJn13jVEsAOkRQ.png"
         width: 1200
         height: 683
+  - title: "WeWork wants facial recognition biometrics class action dismissed"
+    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
+    publishedDateTime: 2020-02-07T03:36:00Z
+    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
+    type: article
+    provider:
+      name: Cook County Record
+      domain: cookcountyrecord.com
+    quality: 39
+    images:
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
+        width: 1280
+        height: 640
+  - title: "Despite public concerns, facial recognition gets traction in Congress"
+    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs' scope and application. Some in Congress are calling for a moratorium on the government's use of the technology, but programs used by the Department ..."
+    publishedDateTime: 2020-02-10T01:59:00Z
+    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx?admgarea=TC_Agencies"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
+    images:
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
+        width: 760
+        height: 368
   - title: "Efficient Model Selection for Deep Neural Networks on Massively Parallel Processing Databases"
     excerpt: "In this session we will present an efficient way to train many deep learning model configurations at the same time with Greenplum, a free and open source massively parallel database based on PostgreSQL. The implementation involves distributing data to the workers that have GPUs available and hopping model state between those workers ..."
     publishedDateTime: 2020-02-04T15:28:00Z
@@ -154,6 +180,15 @@ related:
     provider:
       name: Autoblog
       domain: autoblog.com
+    quality: 0
+  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
+    excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling,"
+    publishedDateTime: 2020-02-11T11:18:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/11/1982878/0/en/Emotion-Detection-Recognition-Markets-Forecast-to-2024-Rising-Need-for-Socially-Intelligent-Artificial-Agents.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 0
 
 secured: "I11K95Fg2zxcat1VJed0lh7LBw2njDxhgGqgyZhiiX0JAUrr4v2scUdLkVvIqBmivE+oTgYhZRcWmeN70pc5PMUkJtyL6DO8qwbx3k8YWcUk5llcNxIuGKpQ0wuprwPjD10J/4cXtRlxbPotYHdNm+v/YVOCGeiaB4vZh7YR73SuBNUpgCmzRl+4I/JV96Y9OjJjyAtDXHCBOZUaIax4TzR8bid9I4i6Sx0UHhL1/8tb7gpzDrG7Tq3Ml72dKiHsBucxzORcuPqeGkL0DVEszH2e4nGa6dtxLb2xbC/UzoqgAp4hNfAl83RQGfgS14Aa;wcAqjt4odmRkQWl0fOpPtg=="

@@ -43,17 +43,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 37
-  - title: "IIT-Delhi startup launches DIY artificial intelligence kits for school students"
-    excerpt: "NEW DELHI: An IIT-Delhi startup has come up with Do-IT-Yourself (DIY) educational kits for school students to learn the basics of artificial intelligence (AI). The kit includes many technical novelties such as AI computing-engine, friendly AI training or inference applications and real-world AI actuation circuit boards. According to officials ..."
-    publishedDateTime: 2020-01-28T02:43:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/iit-delhi-startup-launches-diy-artificial-intelligence-kits-for-school-students/73683906"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/iit-delhi-startup-launches-diy-artificial-intelligence-kits-for-school-students/73683906"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/iit-delhi-startup-launches-diy-artificial-intelligence-kits-for-school-students/73683906"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 33
 
 secured: "e388JMs+hzfzjAaEhy0Kp/eCaIvmiqn046ZJ92mT9Dxs+xmjswHgmWAMG1qkRWpsDKYytuMhoWCsS7/sMIJGFvxM2FXr9VxstTLIfQkqFfeGp0qGr+0WXZVjcMVdZ1wo8XqhNwUKb8x46LBhFYRTcaYOVFU8SeSE9H8Aed39SrCB2RgN+t9rR3B6B72osJf1JLPmT9QK0eWFFhtg4Fz4GDHwYpEVTQ91Ozfw8cBAtQtOkz9j/pT5vCLHJilmxwuKDaVTBZa09DeRWF4osoXnRKp+koJRe0jFFqOhpjO9ATfFFlyZJwUusjAuzEfRgu7g+p9ny6/Asp38XQCgCLT5DTwrtmqO8NgclU9U0x/C1kvXNOHwqtYCD2DqNzW37xHPBDop2aPaQz1Y61CxuFjJjCrEk1ZUwd9EOv+SvdoWCfHjk1VHhUKQHzc9p+DI/DgkJvnrXZ0Z4ZYuqYvaTRE28L1hzBAgBk0anOYtjQo7G2U=;9wpp2oKTwBKR8HJkTMTbeQ=="
 ---

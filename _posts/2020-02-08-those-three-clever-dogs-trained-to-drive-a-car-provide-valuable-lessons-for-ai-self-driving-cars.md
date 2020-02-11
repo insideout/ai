@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/08/those-three-cleve
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/08/those-three-clever-dogs-trained-to-drive-a-car-provide-valuable-lessons-for-ai-self-driving-cars/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       - url: "https://techaeris.com/wp-content/uploads/2018/02/Uber-Self-Driving-Car-FI-1000x543.jpg"
         width: 1000
         height: 543
+  - title: "Will Self-Driving Cars Increase Or Decrease Drunk Driving?"
+    excerpt: "Sobriety checkpoints are also useful, though they aren't as effective as they should be. Some industry experts have started to explore the idea of self-driving cars as a solution to drunk driving. Will these autonomous vehicles be the solution we're looking for? Will Autonomous Vehicles Help? Will self-driving cars reduce the number of drunk ..."
+    publishedDateTime: 2020-02-11T19:56:00Z
+    webUrl: "https://www.i4u.com/2020/02/133109/will-self-driving-cars-increase-or-decrease-drunk-driving"
+    type: article
+    provider:
+      name: i4u.com
+      domain: i4u.com
+    quality: 4
 
 secured: "ckFPePyyiAyqfT2gC4h22v4ByJTqd8jautpSTGUbmbNfqHSazTNpAuEd+dnOB/EnFu59JN4RAPcFCdWoHpq4tWPyxyXsGcefOwKWBzQ46C8IWdTMOjFtuHs3dqDcqh2IJc2ny8s8vEvdhDIhYVV/h1t0jtUc7iMMDz6YDdg51T5BZMr4rzZdE/VWdpT9tin2sSv0OoOotD7OQxGxujYpbhuADJiB6BDfeIcivx+SmQt+oCFhj9Ej1CAvMdMNbPjyGSg8QgYgGd01JteoVzDKI51AKCvMKs6Tfbixe82aGdm/IkwEuPmKkz5gutKffTAShmXT/zAthDZQLHWya8k7gdd6yf5r3Z40q61h3T00h7c4NXN6RXRPpnU9J041cpS2vQtGY+S0vccOT3ENksxNXiOI+0QmrVeWxNolL+arONaarbBtRQqiDQSk1HwXSW9/0uLHx41JIFOXEmtXIBDftak6rlzUK/BIi8X6zvGBWtY=;Wa1A8gExTHuZxwVKwLgNgw=="
 ---

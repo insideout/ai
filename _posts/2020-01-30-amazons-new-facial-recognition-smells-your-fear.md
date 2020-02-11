@@ -490,21 +490,6 @@ related:
       - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2020/01/Screen-Shot-2020-01-28-at-12.57.07-PM.png"
         width: 685
         height: 438
-  - title: "Meadowhall facial recognition scheme troubles watchdog"
-    excerpt: "Police involvement in a private landlord's facial recognition trial has led a regulator to call for government intervention. BBC Radio 4's File on 4 has learned that South Yorkshire Police shared three photos of serious offenders and one of a vulnerable missing person with Sheffield's Meadowhall shopping centre. It follows similar controversial ..."
-    publishedDateTime: 2020-01-28T01:04:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-51268093"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51268093"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51268093"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15CEF/production/_110672398_facialrecognitiongetty.jpg"
-        width: 1024
-        height: 576
   - title: "More than 40 colleges say they won’t use facial recognition on campus"
     excerpt: "More than 40 colleges have said they have no intention to use facial recognition technology on their campuses amid a push from digital rights group Fight for the Future and Students for Sensible Drug Policy. The two groups launched a campaign earlier this month to ask colleges in the United States about their policies surrounding the use of the ..."
     publishedDateTime: 2020-01-28T13:32:00Z

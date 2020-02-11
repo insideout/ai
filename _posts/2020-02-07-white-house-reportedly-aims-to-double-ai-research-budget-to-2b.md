@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/02/07/white-house-reportedly-aims-to-dou
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/07/white-house-reportedly-aims-to-double-ai-research-budget-to-2b/amp/"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -38,11 +38,37 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 37
+    quality: 137
     images:
       - url: "https://cdn.technologyreview.com/i/images/david-everett-strickler-igcbfrmd11i-unsplash.jpg?sw=1200&cx=0&cy=0&cw=3000&ch=1688"
         width: 1200
         height: 675
+  - title: "Trump admin wants funding doubled to make US an AI powerhouse"
+    excerpt: "FACEBOOK'S FACIAL-RECOGNITION SETTLEMENT AMOUNT BREAKS RECORD The White ... The budget proposal on Monday will include a 70% increase for National Science Foundation (NSF) for AI-related grants and interdisciplinary research institutes, rising to more than $850 million, sources said, as well as a significant jump in funding at NSF for quantum ..."
+    publishedDateTime: 2020-02-08T00:57:00Z
+    webUrl: "https://www.foxbusiness.com/markets/trump-admin-wants-funding-doubled-to-make-us-an-ai-powerhouse"
+    ampWebUrl: "https://www.foxbusiness.com/markets/trump-admin-wants-funding-doubled-to-make-us-an-ai-powerhouse.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/trump-admin-wants-funding-doubled-to-make-us-an-ai-powerhouse.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/1906/854081161001_6129875769001_6129874072001-vs.jpg"
+        width: 1280
+        height: 720
+  - title: "White House earmarks new money for AI and quantum computing"
+    excerpt: "The funding, part of the Trump administration’s $4.8 trillion budget proposal, would direct more money for AI research to the Defense Department and the National Science Foundation. The administration also wants to spend $25 million on what it calls a national “quantum internet,” a network of machines designed to make it much harder to ..."
+    publishedDateTime: 2020-02-10T23:56:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "3LdMtrbsVtMMwNT7l0PzAnU7tEsdnrEH6zR6FhRvuquw0Ex6XNcZIMrw6Znyx9aqbMtchHnZquvWevd7131+vD6JQsZrLzmayxgA+4ZSZtGJ0kcvLqy/nkXAKz6AQjjoeiA5kM1iWFOnSLF5zAEx+w+7N96FkKmW2+x8VADOwjVP5ItVFzSpnIKlEtMEPMqbg1AyMDmLYZL2U8KP5JuLjlmStwQ6AFmEHYGLsbCPhr7BSTWWKMSM7gedjp5ujaDpqNAA/hgxOeLXGiuBxkYB0Mx9i7BZr9Now7E2tq2yYNP8meqHzNaHSxZuKnDNEaQ7VPC/kGO7nPQuqDjYz7M0kYoNL1cJCMfXVQ24e2P2QHtc+s0Ti7bRuvUobHJ32TXAa73whvTikEfgx3jag/WzWvonG9mON5FpsfGOD95iNgl6Rq4mwPh+GDz/nniKYXlw+N83W2hjZUb11hCvSxsIqS4+PYiGG3+s9pdrpBrfMEE=;EqPOjyUlOX54DjKwECZaPw=="
 ---

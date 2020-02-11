@@ -52,6 +52,15 @@ related:
       - url: "https://techaeris.com/wp-content/uploads/2018/02/Uber-Self-Driving-Car-FI-1000x543.jpg"
         width: 1000
         height: 543
+  - title: "Will Self-Driving Cars Increase Or Decrease Drunk Driving?"
+    excerpt: "Sobriety checkpoints are also useful, though they aren't as effective as they should be. Some industry experts have started to explore the idea of self-driving cars as a solution to drunk driving. Will these autonomous vehicles be the solution we're looking for? Will Autonomous Vehicles Help? Will self-driving cars reduce the number of drunk ..."
+    publishedDateTime: 2020-02-11T19:56:00Z
+    webUrl: "https://www.i4u.com/2020/02/133109/will-self-driving-cars-increase-or-decrease-drunk-driving"
+    type: article
+    provider:
+      name: i4u.com
+      domain: i4u.com
+    quality: 4
 
 secured: "qwFmLuirgMpmkbiRcTzS/oXs5TqI2PQBM/0QJfnVJdYoo8w8PXwKG67ggCbn86i9XCc9WJhiPZsvOog8lbdkeQc+pBVdcoDh/z7ZaSpEVxCMAzRN4YJFpqqv7n5xqR5LIfAX3QScsRHPuStfWzQV7h5+Gr1jwJY3OrXjT1lUxLZgXJroZU209w7B7zqZzw+4i91wY2+uCv9Qr7zhLLZKC6pgykEa3/9aRdFYyiYK7vRC3ssRlAjZwZhXACMNGT3mC5IlrMdt9AMjdpi6UbTuY9bUYyYydd0cL2KS5dsMhao0oB7CC3Nf16AMBKt1feqaoHsL0dnxnvYt5gaHAniTPFduaOpGnegYcqlDYfrNZf/FE6MQlYO5IEagSnneEuZoW2ZSgb8fJ9aGhjrd1GZTZq4kJn8ZJbGKWkxg0Bn9NhSz7SIRUqGysiRq7lZT2RH143Ya9YzaYFHpHp2OgZz+na5JzPMV8sip6j9gS5idsGQ=;G8bFcBwmC7UR6kERfiPgsQ=="
 ---

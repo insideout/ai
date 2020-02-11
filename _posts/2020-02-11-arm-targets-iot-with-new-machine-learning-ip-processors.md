@@ -8,8 +8,8 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/devices-home-banner
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mobile World Live
@@ -39,6 +39,19 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
+  - title: "ARM’s Micro Neural Processing Unit, The Ethos-U55"
+    excerpt: "Join The Register as they delve into these two chips as well as the larger Ethos-N77 processor. Deep-learning systems destined for these low-end microNPU-powered devices can be developed in any framework as long as it is eventually exported as a TensorFlow Lite or PyTorch Mobile model."
+    publishedDateTime: 2020-02-11T18:41:00Z
+    webUrl: "https://pcper.com/2020/02/arms-micro-neural-processing-unit-the-ethos-u55/"
+    type: article
+    provider:
+      name: pcper.com
+      domain: pcper.com
+    quality: 24
+    images:
+      - url: "https://pcper.com/wp-content/uploads/2020/02/arm-ethos-n-block-diagrampng-640x480.png"
+        width: 460
+        height: 479
 
 secured: "940d3j1sr6MVwjygMvDok4L0e+8dfJYXErU1icLlzBEJ9Qg0EDTXzGWD7awzYyZDSvk6pBSrSmaRA/zcFh2qC/2BMeyTvz1ASWAUYnRhm9Xtnimiq6hdpkgEvCtjs0Dxf06nQ/L3IKT3gqCV3YiCymGKqr29zUYC9XGRGy8o/pgDnQYI7mBU1MqDeSHNyelLuVQraqlxyKW4RnI1qP2UD4o7ClFDF9B+t7OIaA31SFPD3SAjkcbHPP4gcl3g4q+BLCfDqTinM2+Eu0KssCEofrH7V9oES6H4DwTRfL9/tLbyPCmNA5Rbv8ZYZJlWJuo1TdH8zsIiX9v37wz6fvaLXmprQci7MbjFv8+H1ARAFL56IXZsRdpheVVzDpo43/SCdAU05FCiUUyIBqtxyDcnm9ErdPawMcoynwGeSu9WoVfQX4Wpx34OAU2xewBEm/VGLy6NpGzhvnAPUX4k/TVvivNAIZ1POQcW92slwgtzgm0=;S+cPp3ENwQiUgQmhffcN8g=="
 ---

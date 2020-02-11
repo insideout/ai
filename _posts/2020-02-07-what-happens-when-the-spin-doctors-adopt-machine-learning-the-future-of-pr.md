@@ -44,21 +44,6 @@ related:
       - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
         width: 1200
         height: 799
-  - title: "How AI is powering the Future of Work: key considerations for business and tech leaders"
-    excerpt: "Business executives are now needed to deeply understand the potential of AI and translate it into a viable roadmap for their business ... Machine Learning (ML), deep learning, Natural Language Processing (NLP), and other AI-related concepts. On a broader scale, we also need universities and colleges to improve the existing knowledge base ..."
-    publishedDateTime: 2020-02-10T14:25:00Z
-    webUrl: "https://yourstory.com/2020/02/ai-transformation-future-work-business-tech-leaders"
-    ampWebUrl: "https://yourstory.com/2020/02/ai-transformation-future-work-business-tech-leaders/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/ai-transformation-future-work-business-tech-leaders/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 51
-    images:
-      - url: "https://images.yourstory.com/cs/2/01f48b20d5e911e899be731e1ddbc52d/Future-of-work---AI-1581331299715.png?fm=png&auto=format"
-        width: 800
-        height: 400
   - title: "Making Kynisys: how we're building the future of AI"
     excerpt: "The company is world-renowned for its GPU IP and more recently neural network accelerators and ray tracing and I ... After the initial learning-shock, I started to see how edge AI and inference on the edge is most likely going to be the future. The benefits of edge AI are about to make the world smarter: it provides speed, efficient data ..."
     publishedDateTime: 2020-02-05T07:08:00Z

@@ -17,17 +17,6 @@ topics:
   - AI
   - AI in Finance
 
-related:
-  - title: "Regulators Begin to Accept Machine Learning to Improve AML, But There Are Major Issues"
-    excerpt: "In her address entitled “What Are We Learning about Artificial Intelligence in Financial Services?”, she told delegates she is optimistic about the potential for AI and machine learning in particular, but guarded on how new machine learning models can be audited. Dr. Brainard’s well informed speech begins, “Modern machine learning appli ..."
-    publishedDateTime: 2020-01-27T18:03:00Z
-    webUrl: "https://www.paymentsjournal.com/regulators-begin-to-accept-machine-learning-to-improve-aml-but-there-are-major-issues/"
-    type: article
-    provider:
-      name: PaymentsJournal
-      domain: paymentsjournal.com
-    quality: 0
-
-secured: "me0PeWtVQflNimWq+WqBjjFgNMrkNasMd3mpYT0Hr1FSOP1LhQaaw5LFEEUtAPjOGizb793m3+avQJUPQgzKyerebA2OuGWTEQgwlI6KpwlXA9HwIiLSzrHEW/2Ci/7DZ4WTeoq2LI1yFWK1HxZdaZsuWDtPo1JLS/143yJBvfQvO2cg19d2eXXJ1serdQwXGMLlknK8uEE/QqZoudwEe0VTIldGDuxewcJ5Rkh2VC4DZdnt98fRuEpKMZfVKQ5ZYqM1FZfzAEYuxr8EdtzGyQaCBLGUvOhnCcYdj3Fa/rPp7KMZLcs8+VzAAL6BrMps;VZE/jb7JKWrLwCbhJKnllQ=="
+secured: "67IOwt644CGP4ff8RSOhUcrcnnMGJj7+YP4dGdlv4KZ47z68H+/bqV0IN4VUHwomxW+koGTEfF9HnUObx9qK0eQ3AY70Yc/D9+TDwk15Ht4EQaTQnzDPBtzHmkkWPCzhRBhSrRQVgQfDUpC1Y3R+8ZRysnS8eJYE3l98N7oxDna1rCgHi54h8KKlQ94qbgwxvR0Qoc59H311cfrPJyoSOsZPr4UYfAUU10tGegkX29SVkJI+DQA613s3C6JfGKg+Gc7xZ5lOV9+usbVd9/UOQ+OKUX/KkXSneagtRejacSOSVxXcwlaxuqpizmQso+c9;GfPH2TFUn59Zkir1KnTw5w=="
 ---
 

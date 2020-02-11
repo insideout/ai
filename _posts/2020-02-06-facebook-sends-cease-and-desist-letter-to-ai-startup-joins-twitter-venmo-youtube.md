@@ -244,19 +244,6 @@ related:
       - url: "https://petapixel.com/assets/uploads/2020/02/cuttingedgetech.jpg"
         width: 1600
         height: 840
-  - title: "Venmo, YouTube and Twitter demand company stop ‘scraping’ photos for facial recognition work with police"
-    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part … This item is available in full to subscribers."
-    publishedDateTime: 2020-02-06T15:54:00Z
-    webUrl: "https://romesentinel.com/stories/venmo-youtube-and-twitter-demand-company-stop-scraping-photos-for-facial-recognition-work,91635"
-    type: article
-    provider:
-      name: Rome Sentinel
-      domain: romesentinel.com
-    quality: 22
-    images:
-      - url: "https://romesentinel.com/images/og-images/og-rome.png"
-        width: 600
-        height: 315
 
 secured: "ZZjC0hvD3H44sZScTBznuKwFLchP8VX5vkO2puETQM5Yzw4CafuDU3PwR/ycCo1aOnzue+C/dz9PBI2O9nYgXtwdF/8mm6iyZLCUCsJLlESQ7M2MmOcM3GZ4YI/zRkx9OKhiPcD/F+3iS7hny+UDJFj+dFsiA5vSUt9p2xzS5bbEKPqn6hb+CjVdO2R4sFou5lT5jK7ZU2O1B+jGidrd3cFyoszno6P7V1wVfbbTEFTrRxqpriRcuPfeBxV9EKYuNVYupW2Ocae62tXYqaaXlD2O4PLqBPBqZnrPp8d+qcqwin5L0adx3BRgzHllqArZuhVOvVQ8Y0wuJKzvRCdJlwqXZcVbFORkK+OVIPQYvx0wd2N7K4ZOr6fb6ej39UIZPuBBVbUXLLyqvUExUjEA4fzrWOFG3GjMEqWvnC7A67dyS81Tsw4kxKMZsY7KlLSKIAbS9+Y8su98EEXGeJgdgIH+8czLwlpL5lJVx/bQpF4=;x6mAbUS7E6ToqWxkckMnBQ=="
 ---

@@ -40,17 +40,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2015/10/white-house.png?fit=1438%2C756&strip=all"
         width: 1438
         height: 756
-  - title: "White House earmarks new money for AI and quantum computing"
-    excerpt: "The funding, part of the Trump administration’s $4.8 trillion budget proposal, would direct more money for AI research to the Defense Department and the National Science Foundation. The administration also wants to spend $25 million on what it calls a national “quantum internet,” a network of machines designed to make it much harder to ..."
-    publishedDateTime: 2020-02-10T23:56:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
 
 secured: "KWu4ofd0vdDmYvl029uc8PgDWf2hQjeEBsJfZzvMIh4Z/ObK0/qIWrjZpqu90Y/UomOJ86UrWVev+FK3g5WOlLmrP3fIqCAo+W/ZExmHwMWAHpzg0w/HPJaF3ydGbXiaYIrZ97Ds0naZPkqsgDDbKN65aeRlgiWHj2sxqy/6JD5MTQJxiXaoaezYRkOICB0/IPX8tp4b4syA63G54s82PF1CQOYkcr2I1NWzhbP5PQAYbVaNpXia94Jy6HrWcuZQ5I5okF3wTmAVxPNQ4FRf3RkXuc1EWiWOwK360N+z5YmA6jdkZw6YkruqQU5nFI951RZZs/30QM14mx+ObmG5VibSJ5CEbUDu6D4OduhwUAb3kl9NC5osH9WKNNDiDuihGn6SM8fIsk/iVeCl+7Wg4VQO6GVduRiCAFgkD5Hn87bD1C59AmIJIt8qpK4r0B3nQqlmTOXhBJzxvI/NEBRImAJ+9nr6A6ahtiLxNOe7N0c=;jWyQkSbZJWrhWpKfsLL3HQ=="
 ---

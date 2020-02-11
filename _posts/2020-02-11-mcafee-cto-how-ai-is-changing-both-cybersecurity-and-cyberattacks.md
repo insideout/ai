@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-bot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     title: "McAfee CTO: How AI is changing both cybersecurity and cyberattacks"
 
 related:
+  - title: "AI can be an ally in cybersecurity"
+    excerpt: "Fears surrounding AI and cybersecurity reflect very real risks. AI-powered malware isn’t a threat we need to worry about right now, but attackers have become adept at manipulating AI systems to their own advantage, essentially turning them against users. Widespread manipulation of the algorithms used on social media is already causing ..."
+    publishedDateTime: 2020-02-11T17:08:00Z
+    webUrl: "https://venturebeat.com/2020/02/11/ai-can-be-an-ally-in-cybersecurity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Adversarial artificial intelligence winning the cyber security battle"
     excerpt: "Artificial intelligence (AI) has come a long way since its humble beginnings. Once thought to be a technology that would struggle to find its place in the real world, it is now all around us. It’s in our phones, our cars, and our homes. It can influence the ads we see, the purchases we make and the television we watch. It’s also fast ..."
     publishedDateTime: 2020-02-06T09:43:00Z
@@ -53,6 +62,6 @@ related:
       domain: securityintelligence.com
     quality: 17
 
-secured: "S7rYbSTbC/t3YSOnNWdOajqpefhTvwr4mdLcYUlBiRG+5sr6uPzqLddDCARGd47HXIPgAywc9MFlXjxGli2jzJowe2uyhD5xAf0MbQLZP+6nvaRemnrDxOUjnFrZTlJqxsK2CMxYJ1v/wBnLVqVoR0oMJLIAK78Jv2pQvDOJ7fOXbolJGgDGurwTL9DhsrmOsuyFDeg3sj9MQBfrZ+fm5i4Sr9MQUhBJzpCmeMrwjEDWT/ArePUmtRG4OK2liDameOriS2Gc3+SNJGd+9FI6O59XnGv7pmpmGTzLg4ce/9y9N2zGZJwnLKxsKfIF2MQW;QblGl/LUrIe1OqwUh+Bk9w=="
+secured: "Jdc/kzJMgG5zptBYvtXhL+kHcX3z1SnpYYrZd/wJ56PfkQL10Lsa7aftf8055pjqFVRYclStwtTPMUH4Anal/9CSC2lh9oEFYWM6cWX6iDGuttawc7B1NXZrAYDvQVLdcLzKt5EBe2ftLghPXazv9JVK/Q4pzHYEQEEEbQmFHu0oP0reFA/5U3zYL3ADA88NvMm6X0V119p9zyoQ5fxPefaxYLEeF4ge7EvXTtzZGXqnus1mYaId9Xux7Uzo2LZFLl5bYt/7MAF8FQUGcsrkh2s9ZdZR9gBGkdlgAdka5KJ/UTxszkFSkIGoNSyCjWkt8ACyFTCC5NpZkxmvYsglOyAA4F5DTz6z4PfxLQWKqJKPvbqcVYM3zBRpDC9SuzpOCf2e0OZZHVQ2EnuBRB4K5mNYQ+DAbsnidKw1Eo+HHi2u8QPmYVpy1RDPiVSBMilO1C+nnIX8FL9UlQNgX7JIqqYNQgENSOHJsygTBueJfLk=;fke73GYppH8mDTBe7EPnCQ=="
 ---
 

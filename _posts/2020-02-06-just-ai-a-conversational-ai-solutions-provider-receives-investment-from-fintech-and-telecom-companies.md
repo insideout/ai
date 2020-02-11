@@ -57,6 +57,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+  - title: "Uber Creates Uber Money Team In India With FinTech Focus"
+    excerpt: "The Uber Money team will be geared toward putting into place new payment methods, harnessing smart routing technologies for payment gateways, using Uber artificial intelligence (AI) models for intelligent risk decisions ... “The Uber Hyderabad Tech Centre has the best in class fintech talent specializing in risk, payments, financial reporting ..."
+    publishedDateTime: 2020-02-11T18:02:00Z
+    webUrl: "https://www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/"
+    ampWebUrl: "https://www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2020/uber-creates-uber-money-team-in-india-with-payments-focus/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
 
 secured: "ssXeXNIeaa569fPE1SSZmBZKxHDHiyplxifOzUhTsgUomL2htdCSxd0I9kNzqX1ooY5mpIPJ/TbdqZ46Vp9E02ool+/ktNgInVaP2vAnsWImeygTNBDOVTiohaGlACV3+qjKS0vyvlDGFpmkxKxFD7+Df78cPLUOm6PJlik7C74+ZuZeTLEy5YeZwi4f9UuAJ+UEo3HuZvSy1em9M1vejt6/PIDBnA5xuAT4JfSPKQmkXgR38y4yH0USe+HmZubMqmWtEcxtvR8NMFBiUpKMovSf/sv2tIcHCX6Hyb3KFdbxTeF0tXtAwERiGjT9/Nfs;VhEYuGGZZQ8YHC+UCQxJxA=="
 ---

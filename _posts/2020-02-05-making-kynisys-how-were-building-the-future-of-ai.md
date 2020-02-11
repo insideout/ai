@@ -44,21 +44,6 @@ related:
       - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
         width: 1200
         height: 799
-  - title: "How AI is powering the Future of Work: key considerations for business and tech leaders"
-    excerpt: "Business executives are now needed to deeply understand the potential of AI and translate it into a viable roadmap for their business ... Machine Learning (ML), deep learning, Natural Language Processing (NLP), and other AI-related concepts. On a broader scale, we also need universities and colleges to improve the existing knowledge base ..."
-    publishedDateTime: 2020-02-10T14:25:00Z
-    webUrl: "https://yourstory.com/2020/02/ai-transformation-future-work-business-tech-leaders"
-    ampWebUrl: "https://yourstory.com/2020/02/ai-transformation-future-work-business-tech-leaders/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/ai-transformation-future-work-business-tech-leaders/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 51
-    images:
-      - url: "https://images.yourstory.com/cs/2/01f48b20d5e911e899be731e1ddbc52d/Future-of-work---AI-1581331299715.png?fm=png&auto=format"
-        width: 800
-        height: 400
   - title: "What Happens When the Spin Doctors Adopt Machine Learning? The Future of PR"
     excerpt: "In this special guest feature, Michael Burke, Director of Science & Technology at MSR Communications, takes a look at the state of the PR industry and its growing relationship with data science and machine learning technology. Machine learning may not replace the art of PR anytime soon, but there are countless areas where machine learning can ..."
     publishedDateTime: 2020-02-07T06:25:00Z

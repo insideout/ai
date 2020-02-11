@@ -39,15 +39,28 @@ related:
       - url: "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg"
         width: 792
         height: 528
-  - title: "EU backs away from proposed five-year facial recognition ban"
-    excerpt: "Instead, it will recommend that member states assess the technology themselves. The European Union won't issue a ban on facial recognition tech, as it once proposed, the Financial Times reports. In a previous draft of a paper on artificial intelligence, the European Commission suggested a five-year moratorium on facial recognition, so that the ..."
-    publishedDateTime: 2020-02-11T15:49:00Z
-    webUrl: "https://www.engadget.com/2020/02/11/european-commission-facial-recognition-guidelines/"
+  - title: "European Parliament says no intention to deploy biometric facial recognition for MEP security"
+    excerpt: "The European parliament insists it will not roll out biometric facial recognition technology for access control in monitoring within parliament, after information leaked hinting the institution was looking into using it for security purposes, writes The Guardian. The Guardian further states that it reviewed an intranet page titled “artificial ..."
+    publishedDateTime: 2020-02-06T20:54:00Z
+    webUrl: "https://www.biometricupdate.com/202002/european-parliament-says-no-intention-to-deploy-biometric-facial-recognition-for-mep-security"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 49
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+  - title: "Internet giants reject controversial facial-recognition start-up"
+    excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
+    publishedDateTime: 2020-02-06T12:46:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/02/internet-giants-reject-controversial-facial-recognition-start-up/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 4
 
 secured: "Zth9SsTcZhbXWnLh4V/x1mc87zgezgbAW8w+UU1xwh/Z2KEDSxutHwyJqvp+34J/yON1M9r9eBQwwQdyIC0a21kJNwsUV8lDzLaFcevGree2H6MtvpMUfFBmEWCV816IEF70M/rXITnsFZ32OTqP21jEf96KDrZBE2G9tJ/oQ3/XdfRVYsOZJ+FV6eQmvMoJIIyXl45gF8CUl8ulJTj2gCeP8vaIjpkf28ML0y0mExpT3MK83XtnqdW+0lNJfOvl1pFuhQ0j60eXkJIJMJoCd8O/fOf4JgqJvQ7hEZjSWydxKPAakQt9VR94iFKv/w1irG0DXOUbNx64KIpLg/wAu788tcfQXi/3ZQLFyTK+UUJ5nG+cPwtHXbnk5FhJEY8Uu/V5STuM2Yx4gNqX7I3pyJzVRx2hqm0BK2QH0f2SivNZoEv0pBzLLLe5g0U1H8RIx1CCdcpbyrKXcgXPN0s8pga1omU2VJ0feVRZBk8FdFg=;1h18AI6dPNbWA/6TllmN9A=="
 ---

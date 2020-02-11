@@ -24,242 +24,116 @@ images:
     title: "Venmo, YouTube and Twitter demand company stop ‘scraping’ photos for facial recognition work with police"
 
 related:
-  - title: "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites"
-    excerpt: "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ..."
-    publishedDateTime: 2020-02-06T02:09:00Z
-    webUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/"
-    ampWebUrl: "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
-    cdnAmpWebUrl: "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/"
+  - title: "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook"
+    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and asked Clearview to remove it last month. Clearview AI, the facial ..."
+    publishedDateTime: 2020-02-11T02:44:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
     type: article
     provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 157
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 180
     images:
-      - url: "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452"
-        width: 800
-        height: 452
-  - title: "Facebook buys startup using AI vision to find your location (updated)"
-    excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
-    publishedDateTime: 2020-02-08T17:28:00Z
-    webUrl: "https://www.engadget.com/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F7a46c7b0-4a8b-11ea-bbbf-1c3d171afeaf%26client%3Da1acac3e1b3290917d92%26signature%3D2d974150179ef44b8290709e15088aefd3cda7fc&client=amp-blogside-v2&signature=f00fad49113cfed9099a2e85502dd4e6422c103b"
-        width: 600
-        height: 350
-  - title: "Facebook buys startup using AI vision to find your location"
-    excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
-    publishedDateTime: 2020-02-08T17:28:00Z
-    webUrl: "https://www.engadget.com/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F7a46c7b0-4a8b-11ea-bbbf-1c3d171afeaf%26client%3Da1acac3e1b3290917d92%26signature%3D2d974150179ef44b8290709e15088aefd3cda7fc&client=amp-blogside-v2&signature=f00fad49113cfed9099a2e85502dd4e6422c103b"
-        width: 600
-        height: 350
-  - title: "Facebook and Venmo demand Clearview AI stops scraping their data"
-    excerpt: "The facial recognition startup is using photos from the internet to build its database. Following Google and Twitter, Facebook has become the latest company to take legal action against controversial facial recognition startup Clearview AI. According to Buzzfeed News, the company sent a cease-and-desist letter to Clearview sometime this week ..."
-    publishedDateTime: 2020-02-06T14:48:00Z
-    webUrl: "https://www.engadget.com/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-12%252F817d5be0-2b17-11ea-bf2f-87fbf2b24155%26client%3Da1acac3e1b3290917d92%26signature%3Db14f51401056407d35d55f5f6c2b29b8f6862048&client=amp-blogside-v2&signature=d27d50c6ff2fff8a8b1438ffab389237e0ebdc55"
-        width: 600
-        height: 350
-  - title: "Facebook, Twitter, YouTube, Venmo demand AI startup must stop scraping faces from sites"
-    excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police."
-    publishedDateTime: 2020-02-06T02:16:00Z
-    webUrl: "https://www.marketwatch.com/story/facebook-twitter-youtube-venmo-demand-ai-startup-must-stop-scraping-faces-from-sites-2020-02-05"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/1E9F512E-488E-11EA-8EAD-08678493A360"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/1E9F512E-488E-11EA-8EAD-08678493A360"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-HW845_Facebo_ZH_20191212141837.jpg"
-        width: 890
-        height: 501
-  - title: "YouTube, Venmo demand AI firm stop taking facial data from sites"
-    excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
-    publishedDateTime: 2020-02-05T23:47:00Z
-    webUrl: "https://www.pbs.org/newshour/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites?ref=hvper.com"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/economy/youtube-venmo-ai-firm-must-stop-scraping-faces-from-sites"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 57
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/09/2019-09-04T134827Z_154642363_RC1C71B03BD0_RTRMADP_3_GOOGLE-FTC-1024x660.jpg"
-        width: 1024
-        height: 660
-  - title: "YouTube demands face recognition firm stop harvesting videos"
-    excerpt: "NEW YORK — YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny ..."
-    publishedDateTime: 2020-02-05T19:53:00Z
-    webUrl: "https://www.pressherald.com/2020/02/05/youtube-demands-face-recognition-firm-stop-harvesting-videos/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/multifiles.pressherald.com/uploads/sites/10/2020/02/Clearview-YouTube-Facial_Recognition_21500.jpg?fit=1000%2C667&#038;ssl=1"
-        width: 1000
-        height: 667
-  - title: "YouTube: Face recognition firm must stop harvesting videos"
-    excerpt: "NEW YORK -- YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following ..."
-    publishedDateTime: 2020-02-05T19:49:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/youtube-face-recognition-firm-stop-harvesting-videos-68781106"
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
-    quality: 39
-    images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
-        width: 992
-        height: 558
-  - title: "YouTube: Face recognition firm must stop harvesting videos"
-    excerpt: "YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI."
-    publishedDateTime: 2020-02-06T03:38:00Z
-    webUrl: "https://www.sfgate.com/business/technology/article/YouTube-Face-recognition-firm-must-stop-15032752.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/10/33/24/18986281/9/rawImage.jpg"
-        width: 2048
-        height: 1365
-  - title: "YouTube, Venmo: AI firm must stop scraping faces from sites"
-    excerpt: "The Google-owned video service said Wednesday, Feb. 5, 2020 that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and ..."
-    publishedDateTime: 2020-02-05T22:43:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article239997893.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article239997893.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article239997893.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 37
-  - title: "YouTube, Venmo tell Clearview AI to stop scraping sites"
-    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does routinely as part of its work with police. Venmo said Wednesday that it is sending a cease-and-desist letter to New York’s Clearview AI. The small firm ..."
-    publishedDateTime: 2020-02-05T23:52:00Z
-    webUrl: "https://www.sfchronicle.com/business/article/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
-    ampWebUrl: "https://www.sfchronicle.com/business/amp/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/YouTube-Venmo-tell-Clearview-AI-to-stop-scraping-15033473.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 37
-  - title: "Facebook orders creepy AI firm to stop scraping your Instagram photos"
-    excerpt: "Facebook has told Clearview AI, the controversial face-recognition service that works with law enforcement agencies around the country, to stop using images from its networks, the company confirmed Wednesday. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using ..."
-    publishedDateTime: 2020-02-06T15:15:00Z
-    webUrl: "https://www.fastcompany.com/90461077/facebook-joins-fellow-tech-companies-in-publicly-opposing-a-controversial-face-recognition-firm?partner=rss"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-facebook-joins-others-in-contesting-face-recognition-firmand8217s-scraping.jpg"
-        width: 1280
-        height: 720
-  - title: "Google demands startup Clearview AI stop scraping photos"
-    excerpt: "Google LLC-owned YouTube Wednesday said it has sent a cease-and-desist letter to Clearview AI, telling the startup that it can no longer scrape videos from its platform. Clearview AI came under scrutiny this year after reports that it had been scraping videos of people on social media platforms and then adding faces to its database."
-    publishedDateTime: 2020-02-06T05:46:00Z
-    webUrl: "https://siliconangle.com/2020/02/05/google-demands-startup-clearview-ai-stop-scraping-photos/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/431443767_3f9ec027b9_c.jpg"
-        width: 800
-        height: 400
-  - title: "YouTube, Venmo: AI firm must stop scraping faces from sites"
-    excerpt: "Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny following investigative reports in January by the New York Times and Buzzfeed detailing its work with law enforcement agencies and its practice of scraping social media and other internet platforms for images."
-    publishedDateTime: 2020-02-06T04:08:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/youtube-face-recognition-firm-stop-harvesting-videos-68781053"
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_307e037c5fa44bc9a22f5a276afaa514_16x9_992.jpg"
-        width: 992
-        height: 558
-  - title: "YouTube, Venmo: Artificial intelligence firm must stop scraping faces from sites"
-    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn ..."
-    publishedDateTime: 2020-02-05T22:18:00Z
-    webUrl: "https://triblive.com/business/technology/youtube-venmo-artificial-intelligence-firm-must-stop-scraping-faces-from-sites/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 32
-    images:
-      - url: "https://triblive.com/wp-content/uploads/2020/02/2283945_web1_2283945-307e037c5fa44bc9a22f5a276afaa514.jpg"
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
         width: 640
-        height: 427
-  - title: "AI company must stop scraping user images from social media sites, top tech firms say"
-    excerpt: "Payment service Venmo joined YouTube and Twitter on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Venmo said Wednesday it is sending a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn ..."
-    publishedDateTime: 2020-02-05T22:56:00Z
-    webUrl: "https://globalnews.ca/news/6512311/clearview-ai-tech-firms-social-media/"
-    ampWebUrl: "https://globalnews.ca/news/6512311/clearview-ai-tech-firms-social-media/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6512311/clearview-ai-tech-firms-social-media/amp/"
+        height: 440
+  - title: "Clearview AI Wants To Sell Its Facial Recognition Software To Authoritarian Regimes Around The World"
+    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 5, 2020, at 6:09 p.m. ET As legal pressures and US lawmaker scrutiny mounts, Clearview AI, the facial recognition company that claims to have a database of more than 3 billion photos scraped from websites and social media, is looking to grow around the world. A document ..."
+    publishedDateTime: 2020-02-05T23:16:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-authoritarian-regimes-22"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-authoritarian-regimes-22"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-authoritarian-regimes-22"
     type: article
     provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 30
-  - title: "Facebook and Google Demand Startup Stop Scraping Photos for Face DB"
-    excerpt: "Facebook and Google have both sent cease-and-desist letters to Clearview AI demanding that the facial recognition startup stop scraping photos and videos to build up its face database. Clearview AI develops software that matches people’s portrait photos to their online photos with 99.6% accuracy, and the powerful tool is reportedly being used ..."
-    publishedDateTime: 2020-02-06T18:06:00Z
-    webUrl: "https://petapixel.com/2020/02/06/facebook-and-google-demand-startup-stop-scraping-photos-for-face-db/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 22
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 89
     images:
-      - url: "https://petapixel.com/assets/uploads/2020/02/cuttingedgetech.jpg"
-        width: 1600
-        height: 840
-  - title: "Facebook Sends Cease And Desist Letter To AI Startup, Joins Twitter, Venmo, YouTube"
-    excerpt: "Facebook Inc. (NASDAQ: FB) has joined other social media giants and has sent Clearview AI a cease and desist letter to stop using user images to identify them"
-    publishedDateTime: 2020-02-06T10:16:00Z
-    webUrl: "https://www.benzinga.com/news/20/02/15266220/facebook-sends-cease-and-desist-letter-to-ai-startup-joins-twitter-venmo-youtube"
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/17/campaign_images/buzzfeed-prod-web-06/these-senators-want-homeland-security-to-pause-it-2-2613-1552427904-0_dblbig.jpg"
+        width: 625
+        height: 415
+  - title: "EU backs away from proposed five-year facial recognition ban"
+    excerpt: "Instead, it will recommend that member states assess the technology themselves. The European Union won't issue a ban on facial recognition tech, as it once proposed, the Financial Times reports. In a previous draft of a paper on artificial intelligence, the European Commission suggested a five-year moratorium on facial recognition, so that the ..."
+    publishedDateTime: 2020-02-11T15:49:00Z
+    webUrl: "https://www.engadget.com/2020/02/11/european-commission-facial-recognition-guidelines/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
+      name: Engadget
+      domain: engadget.com
+    quality: 49
+  - title: "Miami, LA Firms Sue Google Over Facial Recognition Photo Scans"
+    excerpt: "Law firms in Miami and Los Angeles claim in a class action that the Google Photos service uses facial recognition technology that violates an Illinois biometric privacy law with stiff statutory penalties. The lawsuit filed in U.S. District Court for the Northern District of California claims Google failed to get the consent or written release ..."
+    publishedDateTime: 2020-02-07T21:16:00Z
+    webUrl: "https://www.law.com/dailybusinessreview/2020/02/07/google-hit-with-class-action-under-illinois-biometric-privacy-law-over-facial-recognition-392-82075/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/392/2020/02/Google-Headquarters-Shutterstock.com_.jpg"
+        width: 620
+        height: 372
+  - title: "Tech giants hammer facial recognition startup"
+    excerpt: "Facebook, YouTube, Twitter, Venmo and Linkedin have sent Clearview AI cease-and-desist letters in the wake of a blockbuster report that the facial recognition startup has scraped billions of people's faces from their websites, the New York Times reports."
+    publishedDateTime: 2020-02-08T21:15:00Z
+    webUrl: "https://www.axios.com/clearview-tech-giant-facial-recognition-startup-0961b589-2462-46cf-9ee4-dbcfd5266049.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://static.axios.com/img/axios-icon.png"
+        width: 400
+        height: 400
+  - title: "Artificial Intelligence and Facial Recognition Could Change How Vegas Casinos Work"
+    excerpt: "The applications of AI into casinos and poker online could be massive. However, most industry experts agree that there is more value in incorporating facial recognition into the overall customer experience. For example, a facial recognition system can easily identify customers as they come in. Facial recognition tech installed on slot machines ..."
+    publishedDateTime: 2020-02-11T16:13:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2020/02/11/444432-artificial-intelligence-facial-recognition-could-change-how-vegas.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
+  - title: "Tech company develops facial recognition camera for the STEM classroom"
+    excerpt: "An electronics company has developed an artificial intelligence (AI)-powered, facial recognition camera exclusively for the science, technology, engineering and mathematics (STEM) classroom. Dubbed HuskyLens, the camera developed by DFRobot is an easy-to-use camera designed to teach STEM students about facial biometrics and object recognition ..."
+    publishedDateTime: 2020-02-06T17:21:00Z
+    webUrl: "https://insights.globalspec.com/article/13468/tech-company-develops-facial-recognition-camera-for-the-stem-classroom"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
+  - title: "London police officially deploy facial recognition cameras"
+    excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in Stratford ..."
+    publishedDateTime: 2020-02-11T07:40:00Z
+    webUrl: "https://nypost.com/2020/02/11/london-police-officially-deploy-facial-recognition-cameras/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 19
+  - title: "Illinois privacy law leads to $550M Facebook settlement over facial recognition"
+    excerpt: "CHICAGO — Adam Pezen, Carlo Licata and Nimesh Patel are among millions of people who have been tagged in Facebook photos at some point in the past decade, sometimes at the suggestion of an automated tagging feature powered by facial recognition technology. It was their Illinois addresses, though, that put the trio’s names atop a lawsuit ..."
+    publishedDateTime: 2020-02-09T20:40:00Z
+    webUrl: "https://www.bostonherald.com/2020/02/09/illinois-privacy-law-leads-to-550m-facebook-settlement-over-facial-recognition/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 15
+  - title: "Video: American Civil Liberties Union criticizes facial-recognition company using people?s photos without permission"
+    excerpt: "One person died and more than 150 people were injured Wednesday when a Pegasus Airlines plane landing at Istanbul’s Sabiha Gokcen Airport skidded off the runway and crashed into a field, according to multiple reports. Istanbul Gov. Ali Yerlikaya said the ..."
+    publishedDateTime: 2020-02-06T04:38:00Z
+    webUrl: "https://www.news965.com/news/video-american-civil-liberties-union-criticizes-facial-recognition-company-using-people-photos-without-permission/zxDuScv4SVMKOi7HIXGBBJ/"
+    type: article
+    provider:
+      name: News 96.5 - WDBO
+      domain: news965.com
+    quality: 0
 
 secured: "pvU8M1iNjvAtebZoNwPfdMJ718tXi9seW0qwUr/cO8SFuJpZtLSEzBIy0s8CY8woCiywWDYU6VQ1LVvcDqpyiFP9WvsI9eMI8NJHFQhfSZ30TyOGKVgMGxDN7yraTPkRD66SmVcJF55IJoJ2ekyPa1yf8jEvsRcPlN5hMBT1JXb1oKR47grMiXJVjo7wWJ78EMsBVNP3XWBMYDSrGrlUA+qJb1igtoAI6GGe0juhvUPnsl/dwLw1HJj9Era7ggvjj0HFsL+9S6yAq62twfwx3eTrcP/OSZrXHdG4s3zIQf+a8MTTHVQRVBYRk+tWMcNc;PTfPHA/AiuLIfzG/tRWnTw=="
 ---

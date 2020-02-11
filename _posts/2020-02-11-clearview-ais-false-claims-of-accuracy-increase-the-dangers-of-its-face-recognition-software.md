@@ -260,6 +260,36 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 61
+  - title: "Concerns Surround Facial Recognition App in Florida"
+    excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
+    publishedDateTime: 2020-02-11T20:41:00Z
+    webUrl: "https://www.govtech.com/news/Concerns-Surround-Facial-Recognition-App-in-Florida.html"
+    ampWebUrl: "https://www.govtech.com/news/Concerns-Surround-Facial-Recognition-App-in-Florida.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Concerns-Surround-Facial-Recognition-App-in-Florida.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1236897664.jpg"
+        width: 1119
+        height: 630
+  - title: "Raleigh police abruptly end use of controversial facial recognition tech"
+    excerpt: "Raleigh, N.C. — The Raleigh Police Department has halted the use of a facial recognition app that appears to violate the agency's own internal policies, six months after it paid a tech startup for the service. The department paid $2,500 in August for several accounts with year-long access to Clearview AI, which has drawn widespread criticism ..."
+    publishedDateTime: 2020-02-11T18:11:00Z
+    webUrl: "https://www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/"
+    ampWebUrl: "https://www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/raleigh-police-abruptly-end-use-of-controversial-facial-recognition-tech/18933545/?version=amp"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 58
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/local/2020/02/10/18945112/clearview_cap-DMID1-5lstc1qbi-1920x1080.jpg"
+        width: 1920
+        height: 1080
   - title: "Florida cops use this facial recognition tech that could be pulling your pics"
     excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
     publishedDateTime: 2020-02-11T10:08:00Z
@@ -396,6 +426,6 @@ related:
       domain: dailymail.co.uk
     quality: 9
 
-secured: "4vaT6govHXJkN99DAla5+jV976YjQRnLQZ1s5ec+ZzeS7lKC34ObnJo9SxTJ658DG2ZtJlnbLng+hE3Xr5pt8gW9EaIvcvGldMZEqBlxvXd5i5mdCfpUCmnr/PtXJy81Xig46HCk7DyzCywxfDwIvvJagdoRVThwIq1aQ+RWIL+/4WLe2vr11i7pRet2LpHRNa7z0OW60HmvQph7gcZHVRtTowhzRiE9UXsmiv+2qFUbJef2WO/TcecKcfJkcwyokQOIW51v27E2p3smuDGpfIvWpp9VB7xb/xEc4jZdovp9/rjErMRjxD0s2b9H8Yx9;k13lTmJtFyOf+sTkhpevSw=="
+secured: "iMRu1JcYEic47lqWvuS53l+xI7QPNfu6NabP0iLjI9lo5jfgiM6rEk7LBXyI09AqbamG3bd/8UO2zkn4Zd755FTuMt8p51maqXF/oPLMPfqyL+w3Jn/SJeVUKFDC7RbYHgGF7ADqjzBUj1Ky8ZyUbdZRg6jwHumY3g4dnJskpWd/yIgAJGzB3EZ/wKu2qL3YIWu/ZjoT9uc+uVcIN3q3wXIWWpZQpYvqDG61BJGcxZNxJjSnZhKNHBtjiS1AJs67yYnKeymHFbeAcJgHQYE2xZw+ydUsL8euddpuUN5WCzlMLD9gYpDzH+5XMuVCoWvZ4f3ZmOXEPpZtFQtabQZmUMEWSAxxxo0TKFGVav4rsRuIf/YL+DabvmZX0x79vjcX+5MVdRY+k/CmZgzNyOO1KGe6KzWPaB9KMct/Olg1DHT2QHdY/Fq/Pl6/R5LqTL/M+3/l/FGIakg/oMAYPG8h5agv/+1BhKlUVBBVyiqMCr8=;kUYFkfRK8Ldq8sp/OPED2A=="
 ---
 
