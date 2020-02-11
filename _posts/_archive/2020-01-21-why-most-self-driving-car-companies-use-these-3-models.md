@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Why most self-driving car companies use these 3 models"
 
 related:
-  - title: "Apple's self-driving car system could use voice, gesture guidance"
-    excerpt: "Interacting with a future self-driving car could be a lot like working with some future interpretation of Apple iOS with voice, gesture and touch-enabled commands at your disposal. It's the overarching view gathered after reading through an Apple patent application filed last August and published last week for a self-driving car voice and ..."
-    publishedDateTime: 2020-01-27T20:49:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-system-voice-gesture-guidance/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-system-voice-gesture-guidance/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
-        width: 1200
-        height: 630
   - title: "The road ahead for AV in the age of self-driving cars"
     excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
     publishedDateTime: 2020-01-28T10:25:00Z
@@ -55,6 +40,6 @@ related:
         width: 620
         height: 330
 
-secured: "oWY3tXaKj3CivhNP/eVZAFJEfOlxWK4G06jdDL3JsUR/zBkPVf2wSD4rRtnp3QfoX78rn0qnDRS/Kodv5GNDP5DoP6EvzVctIq2A0nShYN2/ux9Qy9TQ5VeTgG1Zgn64Jf4r6hLX31wOHoxtr6kNRvPeU0TyB1ZyDmt/M52R10FahoUiEnja+ycwu00BE9F0iUUwSKTlwREch6uWsSVDuoiE8cxUTYssZpwTNeeMnC+UGRM0/eIWjmLiVgwg2P4Db6KffROLpPEz9wrPNx9SJAUk+ggd4QZYpfD3WaiYSIVe5GYz1YjvykrR4bEvsZMc;VOjhU1Rd/kwD8+47plvKAg=="
+secured: "CT5ySHFmmF4TlMu1RCXRiW6EYoNCb6Hw1PfDdjiAMv92IvQDmfjqOQwPMm0IUkLNyxK+4Y1Ca3iV+ZHcqbsk9FKd8pc7RFIQRa7KTl0j2tIVlv2CqkvsEhrfTRDYAHsno0w/bAeLWFPXCjIaaZ+5YmRRPdMiAjT1gj4fq/0g2OMy2QKdgPkS3x7zjSqMEriRJvemtlzqnJL/nadTCKbA3N49VOVpeYYhmydu6tU8jc3AzAdkCuNtq3pJN/I5R2cXoj7rsxLv42Dx5uXyDzc5vImI+Y5Re7TxSvit/qY5R0FEvc98JM33m+1yE0LXcBk+;pzzByF95nz3A+qxuvof4aA=="
 ---
 

@@ -52,16 +52,7 @@ related:
       - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
         width: 620
         height: 500
-  - title: "Speech and Voice Recognition Market"
-    excerpt: "and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition ..."
-    publishedDateTime: 2020-01-16T03:17:00Z
-    webUrl: "https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
-secured: "JgKo3kAbahv0DIJTSLCrN/jjDTGcw4sLOUCXNm8j348sCbENqvHYW54AYb5yNWiP6LvxgRUFmtHvP05rpl70yVqM08WtMy1iOQQE0ldO5AVrVWQWUcGISD+FuvNewKhnMsP4DEYyozfYFRKYgwFLnW9T7fVYc0N4Xm0AL1vkkHAu6tARY8ERRUidlZMow9sLYy28OMvX0LHeDvbPYNJ83VtA01/8wfu9ySBM6lgSY/L8lMGduQANAU0LV3ApuzAfy773lFIceoV7PIosnHY8nBNPVOF+yogekhkDPI+EzVc60CzSF+bdbyMjwIPybTJf;EcmFfMSOeLHEEiMHbddw0w=="
+secured: "h/2WT5mPuoKd1z9sZYAcmPaxQUOpHIO9iPBm1uxgkAeu6y12syjtnha1Bz88uB3jBubF1df/7QavTDfXE4J7+npcmspsq7htSJIDkCAp+LI2YVlK0s/51U7+Fh1klIpSM86nH9W8NjAUGQGwz4QKJh0ZFWt5rOFo239sfFc/jMV7gjTQgdpLmoSh6/VI/zZRdwEuWpqJg7B7J4GHHiqlDZoVW1oasKrcYkDlPY0OQ1lsx6i2ql03XsRWlKRdPIxEuKGZkWO+ERGI7R9iyw05enpY1mvMgweiIZBsNGZDvzVn487ZsGaz982DHNDAaQGu;Yu2lcn0Ss29On4LvpSOAOA=="
 ---
 

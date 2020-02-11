@@ -23,6 +23,6 @@ images:
     height: 400
     title: "TensorFlow 2.1.0 adds experimental features and breaking changes"
 
-secured: "SRIeKS7dtONhpKNakMB/uqeEpN0Juh+jkg0IZdU8ja5cyX1H1cpwGQXnjAmJ5FzX96DlpYi9YcOIJL3seFjdkuaeg7jkvfsWvSa8m2PsGxDv+SZsdn01jKx6mspluoEIXEklLBiJGylPVqcLOXFZ+XkcVWUg6Kxx+CtyUtYL4fMHxE/SQ7qA1RjiVsYXXcBz6NbDiTd4HxJMxJYEpx4rGiEM8ADEA0nthM+PKF9kz55HEnYGDXizZRoTVc4SBP3WBa874AJBqRNsi52orLb11H9JBN5r8Tnu4+SyObj03CPPVvtrEJWUyloxeBhWAr86;KqyvkKXZvI7OPKyjBPvc9A=="
+secured: "1u5/0+k4VSs3tulaVXWbdLg77zSw6ImZV197pu/c81W1fk3xr0VK+VycSMvbpuVhGNrlBxIYzZWxRZv6lTCy44GP0/7Gs5Mb5woE/Rt651Wb+byTSE3bZRI9XlhbePf8lpKVGi7A5cgWqW+QXmj6cBS5LutTbL/0UCz+TqC6LSU2T7MzXyRzpGejCLnNgQSbpRvcpdWAZ1USXy8REZM+IZ82oBpG72nQDVfZCybeQA1r7X5RQ7osOFIf7Q+4Lkl0Hq69ks2+/qJ3pHe/K/G0igjHIotzVfYh59eO+Jv/iFfGx1n9rICPT0t2eGezvKJT;wLoF5F/P3f2lsxgejj75YQ=="
 ---
 

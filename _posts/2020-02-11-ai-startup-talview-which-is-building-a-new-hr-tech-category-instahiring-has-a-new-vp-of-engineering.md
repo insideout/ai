@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AI Startup Talview Which is Building a New HR Tech Category 'Instahiring' has a New VP of Engineering"
-excerpt: "BANGALORE, India, Feb. 11, 2020 /PRNewswire/ -- AI Recruitment startup Talview announced a new addition to its executive team to guide the company's next generation Instahiring Experience platform. Parimal Bajpai has joined as VP of Engineering to help scale Talview's platform as a recruitment automation and Instahiring solution. Talview's ..."
-publishedDateTime: 2020-02-11T09:57:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-ai-startup-talview-which-building-new-hr-tech-/2020/02/11/9095333.htm"
+excerpt: "/PRNewswire/ -- AI Recruitment startup Talview announced a new addition to its executive team to guide the company's next generation Instahiring"
+publishedDateTime: 2020-02-11T12:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/ai-startup-talview-which-is-building-a-new-hr-tech-category-instahiring-has-a-new-vp-of-engineering-301002667.html"
 type: article
-quality: 2
-heat: 2
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "jOi85dPGgV8RCDpwHdSj31uwZownotJXI2/3YLsw7wNcnbTXjNdlsxZ0Q5vFu8ZhZS5NI11mjaED8eKLqW/6Y8fHsrawcqbE2NPFyvHMo5mHrse2FOK4MVeJaVdVJYTuHoQje1SbnX7huyabAc5V1YlfUynrlTJlOKGcszhEttjbw6O33UqEguL58EeHlF311d6RYGzLdN2tYu+voTCv4HSd2ekaxudtAdsT2mzzSGxRrDu9gvrfzh1aDThjLDIMyikizuxCngitJtqLaZukJ/ezAGEoAjzQh87nnCU/GxBeiKPmgRzTpW6TuZidl0sI;pQTNqWZdxGOvQUYAS+G1xw=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "AI Startup Talview Which is Building a New HR Tech Category 'Instahiring' has a New VP of Engineering"
+
+secured: "DDIxLpj6bgkVftcVp4pi38Kk/vISnxZwxOai36OAMbJGTCDx9yW/Ddl5HJ1qh51NBlhX3VMnSjYE0lTR+KlKm4bJflco210rgvPaeOGCQc8S1BymMletMra3J2uD+U/DiEfl3IsoWeFbGDLWGXVdB6AuuKpVJe+g9nrbE14Vm7BAL4qTl0CHLy/NqV4WfkxYH63vUMos4d3oczUKeGq3Tn14F64nI90PLkzeW8AAJKjwPzj1LczfPPcs+oGqkIyioCN0KcIwIOO9+1/5KITHvteCBh+GpN/sZa5eU3zyuFbicXCr0gAY2+MjAgJv9DeE;uALMgm1Saxmqx3852YPAtA=="
 ---
 

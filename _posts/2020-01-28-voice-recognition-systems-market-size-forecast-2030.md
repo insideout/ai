@@ -18,19 +18,17 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "ID R&D Optimizes Voice Recognition Platform with Latest IDVoice Update"
-    excerpt: "ID R&D has drastically reduced the computational footprint of its flagship voice recognition platform. The newly released IDVoice v2.11 lowers the size of the biometric engine from 40MB to less than 1MB, making the SDK much easier to install on a wide variety of edge and IoT devices. This is a companion discussion topic for the original entry ..."
-    publishedDateTime: 2020-01-27T20:19:00Z
-    webUrl: "https://businesscomputingworld.co.uk/t/id-r-d-optimizes-voice-recognition-platform-with-latest-idvoice-update/246234"
+  - title: "Vision Sensor Market is Forecasted to Hit $9.2 Billion by 2030: P&S Intelligence"
+    excerpt: "Vision Sensor Market Research Report: By Type (Monochrome, Color), Application (Inspection, Gauging, Code Reading, Localization), Industry (Automotive, Food &"
+    publishedDateTime: 2020-01-28T06:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/g15195351/vision-sensor-market-is-forecasted-to-hit-9-2-billion-by-2030-p-s-intelligence"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15195351"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15195351"
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 24
-    images:
-      - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
-        width: 512
-        height: 512
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "OkDtFiU4L21NKMz65aK9LKo3M1mxgM6BFvWS9WUpiauOYnMvrtcmjQUFMTShFYQrvDKlWE0mjZUXS+zk0vbU+WtBFhJ5/hzB+dfcMq47V4oTAQhEVFJupI+3I1DxmiLUbLEBSF3cs8BHsQHLSakxv30ScZCoviSBZesU/nZ6v0wift3bLBlEWcyFjGKQTjpZjgEZVxSj+Xsd3yeYO69iKckbnf7RXEIiesxYCyuGmvQ1I72ae4dnn3SVAdteogRt11Tr50SZBV+fT/AFlmmbPHjrPhJW7GGoFGTw5QS/hej9OUfb0pdrQ44ivtQuDrUi;xupYGAUnFuF3fG7hOPxQmA=="
 ---

@@ -1,8 +1,8 @@
 ---
 category: news
 title: "An Open Source Alternative to AWS SageMaker"
-excerpt: "“There’s the theoretical data science side, where people talk about neural networks and hidden layers and back propagation and PyTorch and Tensorflow. And then you have the actual system side of things, which is Kubernetes and Docker and Nvidia and running on GPUs and dealing with S3 and different AWS services. Both sides of the data ..."
-publishedDateTime: 2020-01-27T20:46:00Z
+excerpt: "But when it comes to putting those algorithms into production for inference, outside of AWS’s popular SageMaker, there’s not a lot to choose from. Now a startup called Cortex Labs is looking to seize the opportunity with an open source tool designed to ..."
+publishedDateTime: 2020-01-27T20:44:00Z
 webUrl: "https://www.datanami.com/2020/01/27/an-open-source-alternative-to-aws-sagemaker/"
 type: article
 quality: 56
@@ -15,8 +15,8 @@ provider:
 
 topics:
   - AI
-  - Google AI
   - AWS AI
+  - Google AI
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/chip_shutterstock_Robert-Lucian-Crusitu.jpg"
@@ -24,6 +24,6 @@ images:
     height: 771
     title: "An Open Source Alternative to AWS SageMaker"
 
-secured: "Uf/z4vJ6f5NxpWTywbFfQjFTK3VqduxdxTiW511g1F3JssaJ6CaIXSTJ87DJ2fhiNX3ovoJJ4zPnV9W8iwrxkFyjUIvNmlraWObWxSgdwxxHixfc2IRiPwGoDv47v7GY5QWoi5K4X3bJE7g/AFAG9o9A0WKnWY2A0YXvAj94tA7lzgv3Yp7ANpZzCiHFKRifNANDzoJFGUO8VvK0rwvuuPmf20XukGzDZ97dB9Wf1VeOuyxg3mxPTqnJeyq6KV4wjdyudwInEaFh7uEZqdWFOD1aJnAEuNvQkAJ+eD7spm9QqaT54jehpboPC6jZOOinjytYwpd2rZG+owLXlUPYb3jGeWtLrKeBVUikSPdlmLnGIuOHOAusmHaH728n4+dpJJv14eUkfxd2bLHiO/G08LIngFZMv4PjZMS6ORghVoGLBXIGLd66wHvFfXei6yx2RnUhFV2Xpm+ziuKE33grJWoPtWwJVt+GmR2qw5OV3bw=;gdqnIbwjuNpzySDQBAKBDQ=="
+secured: "4swGGVxWY69wU5r4KQMvh1ZR+w6COCvR08OFAkMBCD17DGGGIDcg5bd4QAZimIqc8w49qw/Z+02Z/hpmDXpzgqPPTwkkPzLA/ka3zjzam7Yv/uOtcN966Xwsu7RYj3X1FP8ylMJmNxxAUlocLFffuCACMscK2BWbavMcopmM9Gzb6imYhwrlXHpLZDlH5som42sXo5ZgJJvtVPl8pa3BkueAYO28gcqtSXjel2CHXy8Vt4Toxw6rYJy3Cz2X0X8YSupzdje/CpQIJ9N6rChCgWQf4m/MjJO/WYVKS/DZpVn/5mZrro/wYNqi/Nlm1r5L;545hPy1USEPD5TBt5FQppA=="
 ---
 

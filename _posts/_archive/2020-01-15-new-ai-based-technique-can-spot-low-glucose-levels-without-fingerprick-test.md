@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-l
 cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,23 +25,6 @@ images:
     height: 365
     title: "New AI-based technique can spot low-glucose levels without fingerprick test"
 
-related:
-  - title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
-    excerpt: "Using artificial intelligence (AI), detecting low glucose ... Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments ..."
-    publishedDateTime: 2020-01-14T13:07:00Z
-    webUrl: "https://www.medindia.net/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 53
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg"
-        width: 1200
-        height: 1000
-
-secured: "kruCl7vj6SJJWATv3t1Nu7EmWhd6IEr7anPW9vPALy3dA7jeIN6XQUrTzMyqdwpB0mTg9qSxS2jOzXhMH27/7oM2/q8l60p20bVZAT+SWggiwM6iKPKfqyIToH2coGhsEI7D37QQi4kt/pC9Sn2tKHCGR6lzs+LlQEfAF+8LeXxgJEYDUgRBaq8mZnxCGrnJem7af0J2PrxTy0K2WeLhTEkP4XgbuiMswF75nybFNr/xaBAUQX6/FKhtzoUhLkckQpUXaEgmiv0U6o3jD94hgRgtfSsQ/YLvyGXNnKLI3z/Tpg9X7FsBOSoYyNMSYKR9;/G5SBXIjfXhBfhiuw2nRPw=="
+secured: "iEBhyPBxKtErBkF9epwZmfiYRkaSbYeJwDsCHU6Ky93NU/6woMsuw6kBb+YorR2FP+kc0ibJrR2iUOc/iZXkMCwW4NLcDun6NBpWBLXGx6bj/pcqlJgnlr45a6QMQ7D1NFOP0vcnpXjJLFb1daWNJYQpA95F478PMnsmbF/l2Szy9IbkR+9yRtQbQ8TrEA3YYLAMv6tEvvibjNCCWfI8UhhMxYONzKbsJ8zTnRgV4uG5Kpbp1cP/Nxqx/ueywaKeD5j/M39EQOV1ULZw655APt2U/tLmRkwmcMtoQHMwEH+/ufkHYKxbFjxjvbaCgxQN;+C0/LMtB+l1WmG/ucVwD7A=="
 ---
 

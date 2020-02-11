@@ -25,6 +25,6 @@ images:
     height: 300
     title: "Software detects backdoor attacks on facial recognition"
 
-secured: "DyCGg94ay4r75Qd6Rbx/qWHcfuGl10l/kMzB1wPLBaSCE4uJMEitfbftSmeA7s/1pfDPqNuTk4wWY0mdGanZtQpB7gYbGNk2XXxe7ZbbxFz3cAKDo05TD6J7oAc0dHCbN3QhZjrsFpOqjFxTH7CZAfEpQdKbOikeqT/76ZL22oVNZZQd7+ijU3pHlw/uhipYap6TFkUseBf+TLD3ijSAMGuwwskik5zxL7ChveoAlkRGqFn+p03FzIckPY1wCXZeKqPg31ydnUu6UVd84jjeCl3KemJAAXwi8Akqtn/oTRXUArw6dXiqujZldFSsbwYm;cr/CxzUjdg70/U0xdohX9Q=="
+secured: "J9Homn1aO9uiOyrSKHb92JkDzxcB+7huPEqjL7vNuTKu0vH1Mmc3Y24ERYAgXgk4IATJlrdyC31uauLpbKDOKgMtTHuIZ6PK20ZWsYIp5IDeCukkmItM9snZ0RoKgEYhYEjsy+fHEHhkyXnCtS2TxpMgdbiwMhIVNvvGYP4ShaOKDRRKzeEZuqpKB6hcP4gSaDofsQuS+nDx91idO+7quO+m/3OceNjCaVjE8CMMNcXaHZpkcc5nDEF2WJfcWdUxArmIhDOUPhsWkSBpHreenp/nHUK+v00fURn0xpmQaozYsl5mJ5vbEuBw2wxwdHrO;zCfGQuCX/JTjThIRYnmvyw=="
 ---
 

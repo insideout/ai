@@ -33,15 +33,6 @@ related:
       - url: "https://media.bizj.us/view/img/11122187/coney-002*600xx4912-3280-0-589.jpg"
         width: 600
         height: 400
-  - title: "Tech company develops facial recognition camera for the STEM classroom"
-    excerpt: "An electronics company has developed an artificial intelligence (AI)-powered, facial recognition camera exclusively for the science, technology, engineering and mathematics (STEM) classroom. Dubbed HuskyLens, the camera developed by DFRobot is an easy-to-use camera designed to teach STEM students about facial biometrics and object recognition ..."
-    publishedDateTime: 2020-02-06T17:21:00Z
-    webUrl: "https://insights.globalspec.com/article/13468/tech-company-develops-facial-recognition-camera-for-the-stem-classroom"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "IedZFX1yGBlfzeWew4aDFV9sSANKHLAqsgz6jD7+D6bGxBHDxzKMRCkYC/6H+y4gbkUkk26E+mURgXW0wuQf725AjPJtzmhFFWKHyjFPwZkE671afQAsxPh4qhAEXGhw9P0e1ECx6Ts9TSaWsqG/kU548eLlq+hiYM+XXzK9Tags6Ukv7Zl/tqADcb704bwfW4YmNz/QjGDjYliDSOszapkUVm2G06vfC1it6Vuy//EwcjtA1hVRB3TmaHwWRcDY4WMl+kRtR2dUHF6dTR8wdZYILV81uyjWv9xbqYgdjMmRsXK9bbJtxzB+jmo23x3S;2KTMw/5l70aPF0zoK0I2pg=="
 ---
