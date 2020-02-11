@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-03T09:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis-2020-02-03"
 type: article
 quality: 62
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -59,19 +59,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
-  - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
-    excerpt: "This technology is used in industry verticals, such as manufacturing, supply chain, and others. Development of artificial intelligence-empowered chips, robots, and others in manufacturing help enhance the overall production line, and thus, has significantly increased the adoption of artificial intelligence in the manufacturing sector."
-    publishedDateTime: 2020-01-27T13:01:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/37937/artificial-intelligence-in-manufacturing-market/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 15
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
 
 secured: "eAB/iwElO/6NV9IJH6xo60EnMf0qD3U4+S+uddXe6Di59P+TzrZZ/JpptoQKrtUiog8u2WKGaCiBmkPlqZnP7Q7Ydlcw2NHh+LPaYnV8y+ryp9Bn8EBrNO5Q0oAavczCedpGcwPRQxiDMwqKJ34yNEljyLpUt4sZFml93YEwVON/PbJ/oPzs2gKz8O4mHFNrv1oMu+CM//EGnmlQHsWeTRr9U81+MUVO+KWhjIz0M7lY/BB0l64gFIannKtarSUUoh0xWNYE533q9hi2ehuUg0Y4E7E9WE9+OtkAeJaJNFkmbPllyUnvXQfK0cjWoA3f;eJTbLSFJ1OmsQMWTDdw8Og=="
 ---

@@ -59,19 +59,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
-  - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
-    excerpt: "This technology is used in industry verticals, such as manufacturing, supply chain, and others. Development of artificial intelligence-empowered chips, robots, and others in manufacturing help enhance the overall production line, and thus, has significantly increased the adoption of artificial intelligence in the manufacturing sector."
-    publishedDateTime: 2020-01-27T13:01:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/37937/artificial-intelligence-in-manufacturing-market/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 15
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
 
 secured: "9O5PMgOtT2iIemkK8Fxq1KIsct90JtJhz2VKk6LZA1ITrNpcpIjNgRBQHW0aOHf1f1cK+hQ4WCE9YfRqFPyKiTz3Dya4lh/aM1dW3ShqZCJW99W82bTSEdfLf6qATI6iHmPetI7f+S99QQSx3dGJ30DEvUQAbf1GbgVspfbJHKAW2557QiTxer6ta5x0rEpc5NUVpzhY5YLnWE49XjY2tuzIIjuo3F5dD+tg66k+QGW9bc6deXGQ0EoG5qv3rbQhTe45lkf9AoO1E8ddR8dfKwUtfzs55ZkJxQq1kayW7nKgpmRnjxRcs5bcOrDLmXgK;eRCikKFHg8z/PU2HTE7M9A=="
 ---

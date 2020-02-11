@@ -36,7 +36,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 88
+    quality: 90
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/halftone-maze.png?w=1024"
         width: 1024

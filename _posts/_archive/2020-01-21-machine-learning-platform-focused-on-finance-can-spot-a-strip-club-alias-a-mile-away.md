@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
-excerpt: "AppZen's expanded platform combines natural language processing, computer vision, and a data augmentation engine to give the machine the ability to build context around all financial information ... not paying for goods and services that fall outside ..."
+excerpt: "AppZen's expanded platform combines natural language processing, computer vision, and a data augmentation engine to give the machine the ability to build context around all financial information ... and expenses to make sure companies are not paying for goods and services that fall outside company policies. Kale said the process is the ..."
 publishedDateTime: 2020-01-21T17:20:00Z
 webUrl: "https://www.techrepublic.com/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-platform-focused-on-finance-can-spot-a-strip-club-alias-a-mile-away/"
@@ -29,6 +29,6 @@ images:
     height: 907
     title: "Machine learning platform focused on finance can spot a strip club alias a mile away"
 
-secured: "xSjKmk1O87HGQfIAEu76w8uNu4mpemLF5mKkYu/IH6mm50fiYizUm/NMhToD6OxbJ8rDK7SbI8ultvbdpI9kT2iqz6IcyFsMtaJoiZiWNTZran3auBV46u4W6p15CEB458zkXOGsJkkragLRIrTHpZVJvwGlvogCCvmaKJMm/kJeRQ39HHdxfjt7sWcnZvfVHAENLqNC1N4CFV96h6YSeREwkE29rq8vtnv+hCkVDX27mxb/YR0OBzMF0GFgDCscTP1xbxt/n6n6BfR79xTNTmdVNKAboWno0HnpA7UZsmDdHbjIOMUBcwA8DNdJp+MV;fG/FWulxoylUk9jm1hKe5A=="
+secured: "cdtlIwzj49v5CYZUU8ButvvDjXzxjBvZBaCp9RYu09vjb4d1gdS5ahz4uOatF1BKYRKbNM3CugAJOOqJuDgIH/5UwK6R7e6b00SaV8SQtNCnpUJML2LbwKnoxiGefyaw4nR37En+f54k25hUC1b5wWT5xcY3r5lWTxcx4qRYPomViEazoQc9I2lUjJelb2pVQOkEJpDV0b7DT9qb6ft8MsnOBBND9Jyjh1oMahBv2sE7GSftVzK89MGgFL4eLOdLqeR3SW0f4IhubFbmhUmJWhsDJeViSYoXORm1Zp7ytpr0ICVDYG94EE1m4zPyvJLa;iSyTZK9rlYk5Kjfh6Sw52g=="
 ---
 

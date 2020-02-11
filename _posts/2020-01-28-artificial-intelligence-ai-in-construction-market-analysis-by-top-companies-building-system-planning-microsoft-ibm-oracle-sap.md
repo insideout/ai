@@ -53,6 +53,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Construction Market Garner US$ 2.1 Bn by 2026"
+    excerpt: "/PRNewswire/ -- The Global Artificial Intelligence in Construction Market size is expected to garner around US$ 2.1 billion by 2026. The Global"
+    publishedDateTime: 2020-01-29T14:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-construction-market-garner-us-2-1-bn-by-2026--300995275.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
 
 secured: "jLw73PgBdlp1YULKbbETNWjGopiZMTy3FBPXLOms3PsnC8gu8xM4ss3jwlzg7+0QUZFlo8GaBMxMt4cbR0tHkqikVRExy612hYgZp3UKm43VBoxdj6agkCMKFB+115t9j7ak3NExSrskOESMEsnzxUmWa2aHI36lHeRkV4BDf1pd6+uFS6RljbfILqNHa8tgeg+5vRvw43nO1yMquCieSVT3thugfJGuSCuxNVhyhx7slwY8ssYPpqvWQhuR73zFlZGXJbqb+DELbFSy+ksmuRc+jAGB2etk/pnhpozMoZzK2CLiPoyD0aNnZ0qZrAiq;oHCElLajayJtFBMVFKvkYw=="
 ---

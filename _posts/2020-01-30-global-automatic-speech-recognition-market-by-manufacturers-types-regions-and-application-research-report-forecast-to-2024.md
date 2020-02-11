@@ -57,19 +57,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 27
-  - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
-    excerpt: "This technology is used in industry verticals, such as manufacturing, supply chain, and others. Development of artificial intelligence-empowered chips, robots, and others in manufacturing help enhance the overall production line, and thus, has significantly increased the adoption of artificial intelligence in the manufacturing sector."
-    publishedDateTime: 2020-01-27T13:01:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/37937/artificial-intelligence-in-manufacturing-market/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 15
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
 
 secured: "1Em2u7iQMslbaWtR2LELJxOQQioGSPi5QF5J0cE+2/N0CcCAbAoDHfEAR55nDDweuNgFnV61mT4AeklgUsjkKIJBliU2uFvLabts1isGUL2eCjaolIEy3DXwUUVEKT7d85TQv5Ga4q0xGT289UE/pc3UNLV+0J1FLrfu7wMykyRnfTevTdCsuVYuKEUrwgcoX4J8ry7fFLaCuxs80rVE2RJ55AREsgPQQH2ZyQCBUugitOaV7tMh0hrSfgoJ6s6b04gMFLBTFgOG++RGLoh5G6ds3ZECUIsqWs/hegENPIbvzf7P5WrpLvZNcJDvB/1+;Hw/3BShz2b/O//h8r2rUNA=="
 ---

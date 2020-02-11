@@ -18,28 +18,41 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Deep Learning Market Size Worth US$ 56,427.2 Mn By 2026"
-    excerpt: "LOS ANGELES, Jan. 27, 2020 (GLOBE NEWSWIRE) -- The global deep learning market is expected to grow at a CAGR of around 51.1% over the forecast period 2019 to 2026 and reach the market value of over US$ 56,"
-    publishedDateTime: 2020-01-27T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-worth-us-564272-mn-by-2026-2020-01-27"
+  - title: "Artificial Intelligence In Construction Market - Big Changes to Have Big Impact"
+    excerpt: "The Exploration study offers in-depth assessment of Artificial Intelligence In Construction Market and helps market participants to gain strong insights of the industry to make valuable decision. The study highlights assessment of the market by giving lot of focus on futuristic trend,"
+    publishedDateTime: 2020-01-30T09:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market---big-changes-to-have-big-impact-2020-01-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Voice Assistant Market is Set to Reach USD 5,843.8 million by 2024, Observing a CAGR of 27.7% during 2019-2024: VynZ Research"
-    excerpt: "NEW YORK, Jan. 28, 2020 (GLOBE NEWSWIRE) -- The global voice assistant market is expected to grow at a CAGR of 27.7% during the forecast period with its market size predicted to reach USD 5,843.8 million by 2024."
-    publishedDateTime: 2020-01-28T16:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-assistant-market-is-set-to-reach-usd-58438-million-by-2024-observing-a-cagr-of-277-during-2019-2024-vynz-research-2020-01-28-121843838"
+  - title: "Artificial Intelligence (AI) in Construction Market Analysis by Top Companies | Building System Planning, Microsoft, IBM, Oracle, SAP"
+    excerpt: "New Jersey, United States, - The report on the Artificial Intelligence (AI) in Construction Market is a compilation of intelligent, broad research studies that will help players and stakeholders to make informed business decisions in future."
+    publishedDateTime: 2020-01-28T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-analysis-by-top-companies-building-system-planning-microsoft-ibm-oracle-sap-2020-01-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 23
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Construction Market 2020 Strategic Assessment - IBM, Microsoft, Oracle, SAP, Autodesk"
+    excerpt: "The Artificial Intelligence In Construction Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
+    publishedDateTime: 2020-02-03T10:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2020-strategic-assessment---ibm-microsoft-oracle-sap-autodesk-2020-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

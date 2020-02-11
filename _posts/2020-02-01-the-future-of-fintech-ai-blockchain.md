@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-01T03:19:00Z
 webUrl: "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     title: "The Future of Fintech: AI & Blockchain"
 
 related:
-  - title: "How experts are using artificial intelligence to shape the future of fashion"
-    excerpt: "Digital supermodels, virtual trial rooms and analytics could possibly change the way we shop in the future. In the age of artificial intelligence, analytics and big data—which collectively translate unstructured data to meaningful solutions, trends and patterns—how does the fashion industry keep up? For instance, excess stock arises from ..."
-    publishedDateTime: 2020-01-27T13:05:00Z
-    webUrl: "https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion"
-    ampWebUrl: "https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp"
-    cdnAmpWebUrl: "https://www-vogue-in.cdn.ampproject.org/c/s/www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp"
-    type: article
-    provider:
-      name: Vogue India
-      domain: vogue.in
-    quality: 54
-    images:
-      - url: "https://assets.vogue.in/photos/5e2ed96a3af48200081e835e/16:9/w_1920,c_limit/f.jpg"
-        width: 656
-        height: 369
   - title: "DeepMind, artificial intelligence and the future of the NHS"
     excerpt: "One morning a few weeks ago Stephen Foot, a warehouseman from Enfield, woke up in a London hospital to discover the unlikely harbinger of a coming medical revolution. This Ghost of Healthcare to ..."
     publishedDateTime: 2020-01-28T00:00:00Z

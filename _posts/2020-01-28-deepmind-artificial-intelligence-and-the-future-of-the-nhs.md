@@ -37,21 +37,6 @@ related:
       - url: "https://static.businessinsider.com/image/5e305ac224306a476129d512"
         width: 400
         height: 224
-  - title: "How experts are using artificial intelligence to shape the future of fashion"
-    excerpt: "Digital supermodels, virtual trial rooms and analytics could possibly change the way we shop in the future. In the age of artificial intelligence, analytics and big data—which collectively translate unstructured data to meaningful solutions, trends and patterns—how does the fashion industry keep up? For instance, excess stock arises from ..."
-    publishedDateTime: 2020-01-27T13:05:00Z
-    webUrl: "https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion"
-    ampWebUrl: "https://www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp"
-    cdnAmpWebUrl: "https://www-vogue-in.cdn.ampproject.org/c/s/www.vogue.in/fashion/content/how-artificial-intelligence-ai-can-shape-future-of-fashion?amp"
-    type: article
-    provider:
-      name: Vogue India
-      domain: vogue.in
-    quality: 54
-    images:
-      - url: "https://assets.vogue.in/photos/5e2ed96a3af48200081e835e/16:9/w_1920,c_limit/f.jpg"
-        width: 656
-        height: 369
   - title: "Reckoon's Blockchain & AI Enabled Solution is Shaping the Future of the Retail Industry"
     excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
     publishedDateTime: 2020-02-04T17:39:00Z

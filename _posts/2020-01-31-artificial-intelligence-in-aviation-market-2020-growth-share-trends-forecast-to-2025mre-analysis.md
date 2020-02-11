@@ -118,19 +118,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Computer Vision in Healthcare Market 2020 Analysis Research and Development Forecast by 2025"
-    excerpt: "New York, January 27, 2020: Market Research Engine has published a new report titled as \"Computer Vision in Healthcare Market Size by Product & Service (Software, Hardware, Networks), By Application (Medical Imaging & Diagnostics,"
-    publishedDateTime: 2020-01-27T12:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-2020-analysis-research-and-development-forecast-by-2025-2020-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) in Cyber Security Market - Global Industry Analysis by Size Share Growth Trends and Forecast 2020 - 2025"
     excerpt: "Global Artificial Intelligence (AI) in Cyber Security Market is expanding at a healthy CAGR between 2020-2025. On the basis of component, the segment is expected to emerge as the leading one in the forecast period."
     publishedDateTime: 2020-01-31T12:40:00Z

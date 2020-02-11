@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-30T09:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market---big-changes-to-have-big-impact-2020-01-30"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Construction Market Garner US$ 2.1 Bn by 2026"
+    excerpt: "/PRNewswire/ -- The Global Artificial Intelligence in Construction Market size is expected to garner around US$ 2.1 billion by 2026. The Global"
+    publishedDateTime: 2020-01-29T14:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-construction-market-garner-us-2-1-bn-by-2026--300995275.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
 
 secured: "+Bfg5UjqjYG/k9TNBZgDsLdRaPI6PsZN4zTW5pYxmF7Yu49/fZvbbYixro8QHflDbzJOBMhQ+/xF7XytrWEaWip019B5VIQRDc+nLu9gQD4aTEtyKaKSEnJ2CHpirEMvas9uglOxrj+00dVKPb0rspjlRGsmlRDre+ey7/UFBcTynmp0p63mu8uv1+XZnS6TA6rdnJNj1ZrP6YvYSbKzW5cRWFhxVRoSLTj0QwI7t4Occ8mFDsyF2KdxgT0nnPHWvGItiQuOY6Q3Zkk05gYuLKhAA36cJB0crZ+YYH386XMd+gPhVElzw6nFt/hj9EXX;FZIQ0/zkBCBDvLO52Dx8sg=="
 ---

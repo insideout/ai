@@ -29,6 +29,6 @@ images:
     height: 387
     title: "Lessons from a logistics tech veteran: Robots aren’t taking over and put engineers close to the customer"
 
-secured: "RdV/eCPXz3fFfMktajsdFjB/x+7eZqgP0Sv28oYM8h0+RpEBW41Q1Lhy0ua4jzSCsles3PHgEqNWSvbjMd31PLogm99IDSWD+cXfTcpHEjuDNcACJJ0+6Sg7wnKtbdVhVodfGuR/kQiFq1GF9y+atMRP5HQassSpF6TfoAci/yQO8D0hFQBq+TcAxhCjfOyVKIrmnWOUZtv/0hI91CHZKfu0pJ30CGIn/jYx9MCSpUdLzoRzQNe1rL7RH4ybvFgniYOLF2o8hSTFOS58aYCDZYJUPnWQy1t4qGpO+V7PJ8DGHmOIxPGtOsuTnPxojtjhMOGwhepL17tIdItvJAnluxVPu1hC8dU6eSFSs6rXNClxT7Zy3O240r60TiJ9V0gpw+laU9QV/kXfrI8zleKMe+BgqRTDnQYJqvtKaziXrZ7vL5PNPuDdQH2/FH8Z979I3c6mgTT0OxmLnj24TH1v0vMKrZKrC/xxfWUOLXJS8rk=;ZFNu+4FOWIKOyOisj35huQ=="
+secured: "XoTzr0uR581Tt+CQ62nSd+jhsHt35T7x/frGZREfadJp/IO/mvleoBUkZdKvLhIPkHp8+gK/96EoivQ6HLFMG8RkeAPXJqN/oTyWdVNppdE7ZO7X0sjP9gA/wCoFedytGV3Qpe7k7nJNQ8TptY0redF3LpTBpF5wM7H+fIjVckG4sHZ1I3cvx85OFKSmwwy93/MBec0wyHgXfc3VklLHutC4LIxc+QtPzb2S/QYTvxRK4Zi7KlaDT0N/m/uuvcmuQcCifZ+yDsjO5hesCc4mvdywOA1gBUyKsRLYcqvisWxB3oUOiScdW+cum+9ku66GK67nDO5IUUDohWmxIwGIKW9klqIL/jFbe8OR+21B3r+f2L5wFg001XKiMeEScaOD6SrRsGS+NTo6ARx98ovVX5ayeL+kfgZhUOgb2vTNjrM2AF/h/fPXkhfmEiFqcuDG7SoT+Ta3rBz8AgH+RwsUHbPgMfIMGxmzSfNOcZhBQ9s=;fte2X8RAtFFUWEVCpKMnFw=="
 ---
 

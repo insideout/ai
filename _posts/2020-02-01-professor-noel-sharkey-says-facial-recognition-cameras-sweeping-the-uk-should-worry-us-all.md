@@ -100,7 +100,7 @@ related:
         width: 1200
         height: 630
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. Backdoors into facial recognition platforms, specifically ..."
+    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
     publishedDateTime: 2020-01-27T09:55:00Z
     webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
@@ -492,21 +492,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/01/22/24181098-0-image-a-3_1580595792964.jpg"
         width: 636
         height: 382
-  - title: "Facebook denies nosing around facial recognition tech"
-    excerpt: "Facebook responded to speculation it was developing its own facial recognition software for its Messenger app, stating reports were innaccurate and it would instead use on-device systems to handle provision of security. In a Twitter post, Facebook’s EMEA communications manager Alexandru Voica explained the company was not looking to develop a ..."
-    publishedDateTime: 2020-01-27T12:37:00Z
-    webUrl: "https://www.mobileworldlive.com/apps/news-apps/facebook-denies-nosing-around-facial-recognition-tech/"
-    ampWebUrl: "https://www.mobileworldlive.com/apps/news-apps/facebook-denies-nosing-around-facial-recognition-tech/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/apps/news-apps/facebook-denies-nosing-around-facial-recognition-tech/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2018/06/Facebook-650.png?fit=650%2C355&ssl=1"
-        width: 650
-        height: 355
   - title: "Ban Facial Recognition on College Campuses, Activists Say"
     excerpt: "A campaign to ban facial recognition on college campuses has just been launched by the non-profit organizations Fight for the Future and Students for Sensible Drug Policy. Facial recognition technology is already being deployed in some public school systems, so the organizers want to get ahead of the spread of pervasive surveillance to higher ..."
     publishedDateTime: 2020-01-28T21:20:00Z

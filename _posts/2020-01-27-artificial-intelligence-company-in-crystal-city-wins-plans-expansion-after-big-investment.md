@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-27T17:04:00Z
 webUrl: "https://www.arlnow.com/2020/01/27/artificial-intelligence-company-in-crystal-city-wins-big-investment/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -21,21 +21,6 @@ images:
     width: 744
     height: 542
     title: "Artificial Intelligence Company in Crystal City Wins Plans Expansion After Big Investment"
-
-related:
-  - title: "Axel Maier joins welath investment AI startup MDOTM"
-    excerpt: "His knowledge of the asset management industry will be key in speeding up the international expansion of the Fintech company, which - after the 2018 series A funding - managed a rapid expansion in Europe thanks to its cutting-edge investment solutions that use AI to adapt to the financial markets’ complexity and to the customization needs of ..."
-    publishedDateTime: 2020-01-27T12:22:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81256/axel-maier-joins-welath-investment-ai-startup-mdotm"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
 
 secured: "2gHDwYNjgZpvlCd+EW0mQEEihvdNQ6jCQYVTD+b+/Prlz6w+b3jJS21ILHE1mgkngi4BeBCDseOqk8fL2yTZp6aRddJnePkjOTichpYcY7iWcIYB5mxzCA6c4XP5QYgwn0QSvQYChRF2AdZy+erYBf0H4uhYWLSCp8Cbt0e4TLnxVNUkhMQHf/KVqiDdkqqMUIVYprjNV7lEw2wyBfmoxBw7i+oB9eG7/ysmjBtIpe6M1W68Vjd3myHEWeEXcy4seMZTGVwVuwaSAu3RsBp4piQWmZXnP3JyiO1SHNyz737lODMxm25ljMukqVbhdmG4O13Wy1TTy6uI52Yy93+DSUTNJ8zrTUHGk2JGR44lA3GJ4rTL0HZmSjBxdc5ntyqLS+TVb/t7m+HbaVQhDNrBE6IeUyhqnTDwFCBof0JRmKaoOUIU9F+f+m2HhobeH1QGdksrBTn8TmDmjm3Ao1hbLcC0iIK56Wi+mYz61p/ltQ4=;D7BDXNbzyA1ibaqefg3iAw=="
 ---
