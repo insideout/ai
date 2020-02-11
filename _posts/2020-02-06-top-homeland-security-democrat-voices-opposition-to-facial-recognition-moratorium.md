@@ -8,7 +8,7 @@ ampWebUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-d
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,62 +26,6 @@ images:
     title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
 
 related:
-  - title: "Facial recognition: 'No justification' for Police Scotland to use technology"
-    excerpt: "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ..."
-    publishedDateTime: 2020-02-11T00:06:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-scotland-51449166"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-scotland-51449166"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-scotland-51449166"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 56
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg"
-        width: 1024
-        height: 576
-  - title: "Police use of facial recognition ‘unjustifiable’, says Scottish Justice Committee"
-    excerpt: "There is no “justifiable basis” for Police Scotland to invest in and use live facial recognition (LFR) technology, a Scottish parliamentary committee has ruled, citing human rights and data protection concerns. The Scottish Parliament’s Justice Sub-Committee on Policing said in a report published today (11 February) that Police Scotland ..."
-    publishedDateTime: 2020-02-11T00:43:00Z
-    webUrl: "https://www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee"
-    ampWebUrl: "https://www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478173/Police-use-of-facial-recognition-unjustifiable-says-Scottish-Justice-Committee?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
-        width: 1200
-        height: 400
-  - title: "Facial Recognition Technology Uses at Homeland Security Department"
-    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
-    publishedDateTime: 2020-02-07T12:41:00Z
-    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 39
-    images:
-      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
-        width: 1200
-        height: 630
-  - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
-    excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
-    publishedDateTime: 2020-02-11T05:28:00Z
-    webUrl: "https://www.heraldscotland.com/news/18225186.police-warned-not-adopt-unjustifiable-live-facial-recognition-technology/"
-    type: article
-    provider:
-      name: heraldscotland.com
-      domain: heraldscotland.com
-    quality: 36
-    images:
-      - url: "https://www.heraldscotland.com/resources/images/10955630/"
-        width: 800
-        height: 600
   - title: "Facial-recognition tech questioned, defended at House committee hearing"
     excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
     publishedDateTime: 2020-02-07T20:31:00Z
@@ -95,15 +39,6 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
         width: 700
         height: 379
-  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
-    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
-    publishedDateTime: 2020-02-08T04:26:00Z
-    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 13
 
 secured: "QwRc93S81mY2FZKHYaSa7wmE/IrqSTvaFPEm1M4rKg5W1gQC5+4ajDAf3Jzngjuu3WoTfSIna+PT3W51+R7v7BPvZ75EfFvF1+9oAigZ1V452YC1wNRizy4IvQ8z6IgruXv95hNqUwQ+PJPEM1fUnszwLcPqMjNs14P6seuYmQZrve0HEovJ53haWALtGSvN6HFJCOWLhQUgGgOpkw1sgXbWaPYykbwfCqsM8q+YP6OhN/diLYrMlR9nKbTHAq9p4al9kRy3oGqv1x3YbFe8LkRJ1LEmUrxnAf7Wegr1AkOf1uk9Xn0IHxBTkz2JzeAxwVn6aI5yImNpUiW+xLi5GZ0PZPMak9Cxbv138N1YVpp4NXCcLan3bXZeEDqVwN9NQHkZI/xIOm7h8x7iXZVayyXDlWZXDHfUVR6kp1RI9bfIGUPweJu4Etv9jXxhgG7CrU3baWLGturbgg/Lp+mGZKPLVdd95HVkLWNwqNAt+kA=;u1GFH17K2PVIzWwrzYQHqQ=="
 ---

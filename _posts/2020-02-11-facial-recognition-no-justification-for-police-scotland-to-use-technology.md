@@ -8,8 +8,8 @@ ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-scotland-51449166"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-scotland-51449166"
 type: article
 quality: 56
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -26,21 +26,21 @@ images:
     title: "Facial recognition: 'No justification' for Police Scotland to use technology"
 
 related:
-  - title: "Top Homeland Security Democrat voices opposition to facial recognition moratorium"
-    excerpt: "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr"
-    publishedDateTime: 2020-02-06T19:08:00Z
-    webUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition"
-    ampWebUrl: "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp"
+  - title: "Current facial recognition technology ‘is not fit for purpose’, say MSPs"
+    excerpt: "Current facial recognition technology is not fit for purpose and Police Scotland should not invest in it until major concerns are resolved, according to a damning report published today by MSPs. Holyrood’s justice sub-committee on policing has told the force that before introducing the technology, it has to “demonstrate the legal basis ..."
+    publishedDateTime: 2020-02-11T06:04:00Z
+    webUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675"
+    ampWebUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
+    cdnAmpWebUrl: "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 54
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 58
     images:
-      - url: "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg"
+        width: 445
+        height: 600
   - title: "Police use of facial recognition ‘unjustifiable’, says Scottish Justice Committee"
     excerpt: "There is no “justifiable basis” for Police Scotland to invest in and use live facial recognition (LFR) technology, a Scottish parliamentary committee has ruled, citing human rights and data protection concerns. The Scottish Parliament’s Justice Sub-Committee on Policing said in a report published today (11 February) that Police Scotland ..."
     publishedDateTime: 2020-02-11T00:43:00Z
@@ -82,19 +82,6 @@ related:
       - url: "https://www.heraldscotland.com/resources/images/10955630/"
         width: 800
         height: 600
-  - title: "Facial-recognition tech questioned, defended at House committee hearing"
-    excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
-    publishedDateTime: 2020-02-07T20:31:00Z
-    webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
-        width: 700
-        height: 379
   - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
     excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
     publishedDateTime: 2020-02-08T04:26:00Z

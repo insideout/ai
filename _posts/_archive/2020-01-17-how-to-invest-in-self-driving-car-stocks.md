@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "Why most self-driving car companies use these 3 models"
-    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ..."
+    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
     publishedDateTime: 2020-01-21T20:54:00Z
     webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
     ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
@@ -54,7 +54,20 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
         width: 1200
         height: 630
+  - title: "The road ahead for AV in the age of self-driving cars"
+    excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
+    publishedDateTime: 2020-01-28T10:25:00Z
+    webUrl: "https://www.avinteractive.com/features/blogs/road-ahead-av-self-driving-cars-28-01-2020/"
+    type: article
+    provider:
+      name: avinteractive.com
+      domain: avinteractive.com
+    quality: 24
+    images:
+      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
+        width: 620
+        height: 330
 
-secured: "GJtA1AUexZvH5VCdXO5jRrRWfQedXFDwLU1CyijpltLnHHrhhUrlsSrqIkU5OlPvtBIgzbbIGIbepINaGWxqEl1TMv7/LAv8TgTiBYu5stuzlxXWCy2I7EkcTyxKCikCWHg5rcuglwq6BEBPq/DqbbTE1xkQSBdeqLFwjwKCSFx2YUb+CzB9ZQyV24s1Qo5HW97se/kJQRt/Fv64n3t+Vls0QeOqitok0qQp8Cza/ft4ylvzpVwCrXu0Di//a8tPuYgllq5RlXKAVQgWRt+kSw1RSfFssMzZWWTAHoizt1471wWqRuYeyPMr6EwGpVtW;PMoZyW1pXMIfeDS8lKXR3w=="
+secured: "D0xn/iveAsonfUZVJVyLzJZnqok4ObaPX3OY6EBw60SvdP20bdVE8pMsu/1p/KBSlRfmEFifvjHRmKHfYceVDbr17ZSwAin0/qrDxq2mpMfMNMsteIsRJ1EPrbyL90lUC/iYeMZT4UlV9m8YRxkZ58XHMzGcSpjR3YjUoAG84qZgluRJZJn/9f3a1of9U+OG8Yb819F7xwZYyP/krdiyHuW9czw4bu7RwJslw3bVr39qa21K2hewi/KAlJgDPyDh45vKI5Gue54bOXaL/rTE/wwJfpgNoE8YqR4B1xyiR9QdsoE0eji0RK0nWAp8R5Zp;1eQBIxUmdRZup3HDqqmUfg=="
 ---
 

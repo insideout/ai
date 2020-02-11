@@ -2,96 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-07-uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models.md",
-      "title": "Uber open-sources Manifold, a visual tool for debugging AI models",
-      "excerpt": "Early last year, it debuted Ludwig, an open source toolbox built on top of Google’s TensorFlow framework that allows users to train and test AI models without having to write code. And in February 2019, it launched the Autonomous Visualization System (AVS), a standalone web-based technology for understanding and sharing autonomous systems data.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/07/uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/07/uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models/amp/",
-      "publishedDateTime": "2020-01-07T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/IMG_20191125_121819-e1578420233574.jpg?fit=1230%2C600&strip=all",
-          "width": 1230,
-          "height": 600,
-          "title": "Uber open-sources Manifold, a visual tool for debugging AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-07-waymo-self-driving-vehicles-cover-20-million-miles-on-public-roads.md",
-      "title": "Waymo self-driving vehicles cover 20 million miles on public roads",
-      "excerpt": "(Reuters) - Waymo, the self-driving unit of Alphabet Inc (GOOGL.O), said its vehicles had covered more than 20 million miles (32.2 million km) on public roads since its creation in 2009.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-autonomous-waymo-idUSKBN1Z61RX",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1Z61RX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z61RX",
-      "publishedDateTime": "2020-01-07T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200107&t=2&i=1473349659&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0617G",
-          "width": 817,
-          "height": 545,
-          "title": "Waymo self-driving vehicles cover 20 million miles on public roads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-07-waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads.md",
       "title": "Waymo’s autonomous cars have driven 20 million miles on public roads",
       "excerpt": "The updated metric puts Waymo far ahead of rivals like Yandex and Baidu, whose cars had driven ... In late 2017, the cofounder of Cruise, GM’s self-driving unit, told investors it was on the ...",
@@ -2169,6 +2079,88 @@
         "AI",
         "Machine Learning",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-12-brazil-is-emerging-as-a-world-class-ai-innovation-hub.md",
+      "title": "Brazil is emerging as a world-class AI innovation hub",
+      "excerpt": "After the U.S., Brazil has the largest number of social media users on Facebook, Twitter ... and the private sector boosting investment in AI research, that skills gap will begin to close.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/amp/",
+      "publishedDateTime": "2020-01-12T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/08/untitled-design11.jpg?fit=1200%2C850&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": "Brazil is emerging as a world-class AI innovation hub",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-12-capillary-technologies-achieves-aws-retail-competency-status.md",
+      "title": "Capillary Technologies achieves AWS retail competency status",
+      "excerpt": "Boosting Innovation: Capillary has also used Amazon Rekognition to drive an effective customer engagement solution powered by smart IoT sensors deployed in the stores. The technology captures information about visitors such as how much time they spend in a ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Capillary_Technologies_achieves_AWS_retail_competency_status-ZAWYA20200112060923/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/",
+      "publishedDateTime": "2020-01-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Capillary Technologies achieves AWS retail competency status",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

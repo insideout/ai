@@ -1,44 +1,31 @@
 ---
 category: news
-title: "Facial Recognition Technology Uses at Homeland Security Department"
-excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
-publishedDateTime: 2020-02-07T12:41:00Z
-webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
+title: "Current facial recognition technology ‘is not fit for purpose’, say MSPs"
+excerpt: "Current facial recognition technology is not fit for purpose and Police Scotland should not invest in it until major concerns are resolved, according to a damning report published today by MSPs. Holyrood’s justice sub-committee on policing has told the force that before introducing the technology, it has to “demonstrate the legal basis ..."
+publishedDateTime: 2020-02-11T06:04:00Z
+webUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675"
+ampWebUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
+cdnAmpWebUrl: "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 58
+heat: 108
+published: true
 
 provider:
-  name: C-SPAN
-  domain: c-span.org
+  name: The Scotsman
+  domain: scotsman.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
-    width: 1200
-    height: 630
-    title: "Facial Recognition Technology Uses at Homeland Security Department"
+  - url: "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg"
+    width: 445
+    height: 600
+    title: "Current facial recognition technology ‘is not fit for purpose’, say MSPs"
 
 related:
-  - title: "Current facial recognition technology ‘is not fit for purpose’, say MSPs"
-    excerpt: "Current facial recognition technology is not fit for purpose and Police Scotland should not invest in it until major concerns are resolved, according to a damning report published today by MSPs. Holyrood’s justice sub-committee on policing has told the force that before introducing the technology, it has to “demonstrate the legal basis ..."
-    publishedDateTime: 2020-02-11T06:04:00Z
-    webUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675"
-    ampWebUrl: "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
-    cdnAmpWebUrl: "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp"
-    type: article
-    provider:
-      name: The Scotsman
-      domain: scotsman.com
-    quality: 58
-    images:
-      - url: "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg"
-        width: 445
-        height: 600
   - title: "Facial recognition: 'No justification' for Police Scotland to use technology"
     excerpt: "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ..."
     publishedDateTime: 2020-02-11T00:06:00Z
@@ -69,6 +56,19 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
         width: 1200
         height: 400
+  - title: "Facial Recognition Technology Uses at Homeland Security Department"
+    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
+    publishedDateTime: 2020-02-07T12:41:00Z
+    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 39
+    images:
+      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+        width: 1200
+        height: 630
   - title: "Police warned not to adopt ‘unjustifiable’ live facial recognition technology"
     excerpt: "MSPs have warned Police Scotland not to use live facial recognition software as it is “not fit” for purpose and would be a “radical departure” from policing by consent. In a scathing report, Holyrood’s policing committee said the current technology discriminated against women and ethnic minorities and would be “unjustifiable”."
     publishedDateTime: 2020-02-11T05:28:00Z
@@ -92,6 +92,6 @@ related:
       domain: cbslocal.com
     quality: 13
 
-secured: "6no2DUhWzrZ+KvYrL4ixqYGsd+iuz/at9j2NnNN3vxpMseOkGy2BaxUO70Wg60mJPK6V1V0GJBaN6oFZLXXUizfWgpmjYp+rPqwnjSwi4QUPNLs5D7hIkzUlw0m0SccEmxrObLoJZvhCxBW7cpoyCgUTkKq5cAXYFXfKFWpllNjElid7l2+qqY9pUnbe8qIbb5JE32emZuvLTAr+0ZCEnHdLjZWln6Kl0DJc/OrdYrmq+hJCcFGU5gI3B1bPMwP/EoVsMIbYZMjSZ8DDpH25BUEhqeDe84p1NkH5+jR3nUXMpTCHb69xSsKhZeKmuD9n;DyaWAzHhrX2r4NDD1aMwrw=="
+secured: "N7GZG2K9pzTNw2NhsHKOJHQnqh3HWkKMURassN7yyVSbADOIfxMzN+6EPoTE86jXldH9g6iqDEKE0rN0dG0r1eEQKLlA/qOH/YZLSos6BXCo3sZeaQSghNALidwCNKDB8BYqbLWy7lk62fHO5crKwRYTh4jWAC66DEnM6PUm+/WEAum3ZXHR/acPuV3Z5J4ZZA2SaCJwJczqlII+H50ddtxxFd7ppLdXq2KRTjNWMosq33E+QC9I+0F0/lHtm2MxRIfmIKfT/1DGeReEm3TYYVcoo0qXML/Cp7bc0aOGPCbmzrWluTvQWMlwjekicdno;+bz7kKhZcC3gMzyBiczUgg=="
 ---
 

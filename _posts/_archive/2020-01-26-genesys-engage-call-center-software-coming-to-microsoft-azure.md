@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Genesys Engage call center software coming to Microsoft Azure"
-excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services ![|320x210](upload://l8VPxe2KNadH6qDHIMwvoo2OX3S.png)Genesys is a leading provider of call center solutions. The company delivers more than 70 billion customer interactions per year for ..."
+excerpt: "Microsoft and Genesys expanded their partnership to provide a new cloud service for contact centers. Genesys Engage running on Microsoft Azure is targeted for release in late 2020. The companies are also exploring and developing new integrations for ..."
 publishedDateTime: 2020-01-26T21:00:00Z
 webUrl: "https://businesscomputingworld.co.uk/t/genesys-engage-call-center-software-coming-to-microsoft-azure/245116"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: BCW
@@ -18,44 +18,43 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://1.bp.blogspot.com/-sJ7oVXUz6SE/Xi3usdsbGxI/AAAAAAAE7-M/EI39dzDHGFwAn0sPbihPs_uxBJJMQwcTgCLcBGAsYHQ/s320/satyanadella-tonybates.png"
-    width: 320
-    height: 210
+  - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/a6d53e94e9f8761fe3f1a9d04fd72da9136602de.jpeg"
+    width: 500
+    height: 500
     title: "Genesys Engage call center software coming to Microsoft Azure"
 
 related:
-  - title: "Microsoft Investigator fellows accelerate scientific and teaching impact with Azure cloud computing"
-    excerpt: "“In particular in the area of computational behavioral phenotyping, where the machine learning and computer vision challenges are very significant and not smaller than the privacy ones, combining our expertise and data with Microsoft’s capabilities in Azure and beyond are a perfect match.” Alexander Szalay is a Bloomberg Distinguished ..."
-    publishedDateTime: 2020-01-28T17:16:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/microsoft-investigator-fellows-accelerate-scientific-and-teaching-impact-with-azure-cloud-computing/"
+  - title: "2 major security flaws detected in Microsoft Azure Cloud: Know what they are"
+    excerpt: "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ..."
+    publishedDateTime: 2020-01-30T13:27:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 40
+      name: India TV
+      domain: indiatvnews.com
+    quality: 71
     images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/01/MSR_Investigator_Fellowship_1400x788-1_new.png"
-        width: 1400
-        height: 789
-  - title: "Microsoft Sees Azure Sales Surge 62 Percent"
-    excerpt: "“we are seeing rapid adoption across a comprehensive portfolio of AI tools, infrastructure and services.” He said that there are 6 billion transactions on Azure Cognitive services each month, 7 billion documents processed daily with Azure cognitive search. There are a further 2 billion predictions a month using Azure machine learning ..."
-    publishedDateTime: 2020-01-30T04:21:00Z
-    webUrl: "https://www.pymnts.com/earnings/2020/microsoft-sees-azure-sales-surge-62-percent/"
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/01/satya-nadella-1580390767.jpg"
+        width: 1200
+        height: 675
+  - title: "Microsoft earnings get a lift from Windows 7 extended security"
+    excerpt: "“This quarter, we expanded our portfolio of edge appliances. Azure Stack Edge brings rapid machine learning inferencing closer to where data is generated and the new ruggedised Azure Stack form factors provide cloud capabilities in even the harshest of conditions, like disaster response.” The company reported a wider range in revenue of ..."
+    publishedDateTime: 2020-01-30T13:09:00Z
+    webUrl: "https://www.computerweekly.com/news/252477573/Microsoft-earnings-get-a-lift-from-Windows-7-extended-security"
+    ampWebUrl: "https://www.computerweekly.com/news/252477573/Microsoft-earnings-get-a-lift-from-Windows-7-extended-security?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252477573/Microsoft-earnings-get-a-lift-from-Windows-7-extended-security?amp=1"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 34
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
-    excerpt: "The companies are also exploring and developing new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers. More information will be ..."
-    publishedDateTime: 2020-01-23T14:37:00Z
-    webUrl: "https://news.microsoft.com/2020/01/23/microsoft-and-genesys-expand-partnership-to-help-enterprises-seize-the-power-of-the-cloud-for-better-customer-experiences/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 0
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/searchWinDevelopment/app_development/windevelopment_article_002.jpg"
+        width: 1200
+        height: 400
 
-secured: "u3dMw72kaISbrxZjzsqhQTxInYviFBTPYElokRWyGy9hOYzML6kh05FUZTUkPRrmIInstg506yWfMz2n3W+SRwoEuEg6KNP4Y42vNnqeTLwBV4ZaeYrrtEzh2zoW+ZpeJ2Y53eNmrDcRcMckxgrcBSw1ie9Kco6mDzwsucIhHGUBxSacQIyJTSVnHcTeE80OuZ8CRo1OB/62feJrGynJ9cnv/WD913PxF2exQLYqZ4ElbiU9HxwYmaSR9Uq7fPDqYxY7J/fclzTErs8mQFbaban04M28W+SubGFK4bUgk0Fbw407BeoX+ZtWeYIBGJ9gSRaiwu8Os9dbbKmLQwG4DA2jhymrsS9BLEUSLufe3Fmi/JGDPWXb7g4bDA53xtvZZF6m2X1wyIX0JNRj7GN64SAzwt7OUL0BHWj4cK5/Rhu1tKVXUqCJO6uOA20XQRShs1LCax3GrHG/bLO1CHIeHyS23iKqnxn2mtOTEUbc7yY=;AeWvoCUdzf20MS4k5IZS2Q=="
+secured: "12J8voolP0pynsfqjyVPRnnqbGROn3gjorZ+kmH/Q/+AAlbd0PQUwjIv2FUVJEzKnQK9qXZyKf54CY8Y7MX47dcDh++uP6DJ6C9nMsiV5ovZmVKtuV12HfdmBwU+xSKZ05qiHOj2x0JjfePF0mV4vendtnlxiOKVFj6T9TxxCXvpk6n/ajgg9uAg+b3TlIBidpSKVFTcoFddQhvy32+Ar5LMgokMgf5sKSw5S5WXCM5HDSlqXUAZntnv3ae1aisOpJsBl4cy70X7L1jP/OTeemkKHnX44q9GZIpeSquE/3W/3KGsgS/Ogc8uACPTm1Ds;+BI0QpshgVkdfm3+UEGzZw=="
 ---
 

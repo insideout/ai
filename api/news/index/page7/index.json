@@ -2,96 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-09-artificial-intelligence-is-not-ready-for-the-intricacies-of-radiology.md",
-      "title": "Artificial Intelligence Is Not Ready For The Intricacies Of Radiology",
-      "excerpt": "The use of radiology in clinical medicine is exponentially growing. Many issues need to be resolved prior to integrating artificial intelligence into this field.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/saibala/2020/02/03/artificial-intelligence-is-not-ready-for-the-intricacies-of-radiology/",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2020/02/03/artificial-intelligence-is-not-ready-for-the-intricacies-of-radiology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2020/02/03/artificial-intelligence-is-not-ready-for-the-intricacies-of-radiology/amp/",
-      "publishedDateTime": "2020-02-09T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F453008535%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4495%26cropY1%3D695%26cropY2%3D3223",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial Intelligence Is Not Ready For The Intricacies Of Radiology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-09-artificial-intelligence-solutions-market-value-estimation-to-expand-from-2020-to-2029.md",
-      "title": "Artificial Intelligence Solutions Market Value Estimation to Expand From 2020 to 2029",
-      "excerpt": "A recent market research analysis titled, Artificial Intelligence Solutions Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence Solutions market covering industry surroundings,",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-value-estimation-to-expand-from-2020-to-2029-2020-02-09",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-09T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Solutions Market Value Estimation to Expand From 2020 to 2029",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/2020-02-09-kuwait-launches-robotics-ai-festival.md",
       "title": "Kuwait launches Robotics, AI Festival",
       "excerpt": "Kuwait launched on Sunday the Robotics and Artificial Intelligence (AI) Festival to promote the scientific awareness in Kuwait. At the opening ceremony, Salam Al-Ablani, scientific culture director of the Kuwait Foundation for Advancement of Science (KFAS), said that the festival aims at boosting the scientific culture in smart industries and ...",
@@ -2030,30 +1940,30 @@
       ]
     },
     {
-      "path": "_posts/2020-02-11-facial-recognition-no-justification-for-police-scotland-to-use-technology.md",
-      "title": "Facial recognition: 'No justification' for Police Scotland to use technology",
-      "excerpt": "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ...",
-      "heat": 116,
+      "path": "_posts/2020-02-11-current-facial-recognition-technology-is-not-fit-for-purpose-say-msps.md",
+      "title": "Current facial recognition technology ‘is not fit for purpose’, say MSPs",
+      "excerpt": "Current facial recognition technology is not fit for purpose and Police Scotland should not invest in it until major concerns are resolved, according to a damning report published today by MSPs. Holyrood’s justice sub-committee on policing has told the force that before introducing the technology, it has to “demonstrate the legal basis ...",
+      "heat": 108,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.bbc.co.uk/news/uk-scotland-51449166",
-      "ampWebUrl": "https://www.bbc.co.uk/news/amp/uk-scotland-51449166",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-scotland-51449166",
-      "publishedDateTime": "2020-02-10T16:06:00-08:00",
+      "webUrl": "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675",
+      "ampWebUrl": "https://www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp",
+      "cdnAmpWebUrl": "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/current-facial-recognition-technology-is-not-fit-for-purpose-say-msps-1-5088675/amp",
+      "publishedDateTime": "2020-02-10T22:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
+        "name": "The Scotsman",
+        "domain": "scotsman.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Facial recognition: 'No justification' for Police Scotland to use technology",
+          "url": "https://images-e.jpimedia.uk/imagefetch/f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5088674.1581371886!/image/image.jpg",
+          "width": 445,
+          "height": 600,
+          "title": "Current facial recognition technology ‘is not fit for purpose’, say MSPs",
           "attribution": null
         }
       ],
@@ -2199,6 +2109,78 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2013-07-04-from-chess-to-ping-pong-how-pegasystems-is-capturing-the-fortune-500.md",
+      "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
+      "excerpt": "And Cisco is using the technology to centralise its business processes in a company-wide rules engine that will help it respond ... and refine and develop them until they meet the needs of the ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500",
+      "ampWebUrl": "https://www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500?amp=1",
+      "publishedDateTime": "2013-07-04T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/rms/editorial/Alan-Pegasystems.jpg",
+          "width": 580,
+          "height": 387,
+          "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2015-02-17-meet-the-new-face-detection-algorithm-that-will-change-image-search.md",
+      "title": "Meet the new face-detection algorithm that will change image search",
+      "excerpt": "Current facial-recognition technology is based primarily on the work of Paul Viola and Michael Jones, who achieved a major breakthrough in 2001 when they developed an algorithm that could detect ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/",
+      "ampWebUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
+      "publishedDateTime": "2015-02-17T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/7da/6e/fc3aa93d4cf68ff5406f291efcd81b08-1022x512.jpg",
+          "width": 1022,
+          "height": 512,
+          "title": "Meet the new face-detection algorithm that will change image search",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

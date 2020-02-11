@@ -3,19 +3,25 @@ category: news
 title: "Image Recognition Market to Register Unwavering Growth During to 2025 | IBM, Imagga Technologies, AWS"
 excerpt: "It uses a technology that detects places, people, items, buildings, logos, and various variables in image with the help of artificial intelligence. Companies are using huge digital data to bring better and niftier facilities to customers. Image recognition is used to perform several machine-based visual tasks, which include performing image ..."
 publishedDateTime: 2020-02-03T12:24:00Z
-webUrl: "https://www.arnnet.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
+webUrl: "https://www.cmo.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+    width: 600
+    height: 246
+    title: "Image Recognition Market to Register Unwavering Growth During to 2025 | IBM, Imagga Technologies, AWS"
 
 related:
   - title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
@@ -146,6 +152,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "sDHBY6aUq2tuyeXwLmvIRj/xt8gciZIRtMMvoziGoIGmIcivy902qzOaGT2u3JFaLCFCNhkfBqsxyFY6t3FMNYOtrN0tBMPRtSdKiAPxUWpd9T9GYguk6BcYUlNn7Jv3KMKh+jzCPWA8iHidwaDgi60w+rZsCIp82GsAhf7gQJ6ixngGTLazSSlQLcGZ7y/5nuNG/g2NJHUJaMqU/hjWTx/mLPG+zPEiM1Hl8LQcFPIGnEcspwe54CKhXNU0S2ckWxNiqyeRcPGItYeWGHpcP9c7OoCdjck+KvAxsCjWJWzfigBCt81ObVHUqa2pEJLK;BiEZg2O7wcgwZ+Z4LZicVQ=="
+secured: "sfNeHs/H69XhnHHU8BHbhWrwgkMYJGXYUFtLzNCvJC1/T00W94pMyJLkII6z02RieQTEoj/YIHM4PGJkawNudMAPXgritdcTifEe+8Mbrj65gOfbvYeUXTnVezjjj5813jFVDVdaivEfbP49mSYJNq6L+UoqdFmseaRLeIRC0uXE4eqrVsnKJXJBNfyN+EZQxHeK6lQTevfWungMhr4vHrqAmeVwuUSP1VVCMrql4mhwmrHSBD3tr32dMQsdEZP6LJkJ+euueEgS7s5xldLfDdgUR9sej/B49GMhNetFM46443Y669yVAC/hgZOUFDf5;jGoYAwTUWYbdPJBXcZ3Lbg=="
 ---
 

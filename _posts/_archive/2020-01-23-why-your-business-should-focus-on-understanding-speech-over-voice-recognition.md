@@ -29,6 +29,6 @@ images:
     height: 417
     title: "Why your business should focus on understanding speech over voice recognition"
 
-secured: "50PJ9Ubften32YjdYSRxU/zt/OWYov5/gYcxlDO0p016so8I++TTx/15Tmwqnf52Si2ssTLJpYw7lywolwVM0YXAEYrOla2KZyllY3It7PPVSZ1tQB9i9lv7CrkF/5YP/tid9MFAy9I4iWpnqWqC22dCOom6MdjYfkuEA7l899QCDHnlGaq8cHTkQIrPClt9Q2s2zPBoGCPwClGCK6Z4g3FQ4lAMbxnKp9BYb7w+d/DYbyYZNuwURCtFZkCn7oP2zFkq36tk+1z6D8y0qyj7MkvTroyDAHkTrpI0yKWV22cKbYiapikRi9a3qBI3HPnA;acAPTebDRnmjdfyvDPKB5g=="
+secured: "uzIwjkZ1CVIjir4RGruDaWzuOkYmqr3AbBWGhW4ctw4t/wbxwCbsPlJmOZEa+Fy1liYhhPtd99IDfz7k2344AgJuvOkCPXldsxUhj/7uUiS9OpCfd3QxCurgWyX84WAUY8gwNQ8RllmhqU1rhU51DqqA3BZ2nR/oa5ZGDtPEus5PW9+q8UK+9u/4JXd2HWkNd2/NwHTFXeGSMXaCYvNhiRuugC2LdKUKKh9wurLDYwSCZpi6E2A+I5dp5i8HEDWddsoUgeTYuoSRvIGUYY4xJK9DMWa8oVQnrGAQgaskhSy/hyWdPUcyVaJLQlYhvCas;7V0JU+/jqrLFaU2kT5lFig=="
 ---
 

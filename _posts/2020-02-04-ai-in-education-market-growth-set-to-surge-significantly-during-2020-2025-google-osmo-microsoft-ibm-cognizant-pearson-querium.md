@@ -117,12 +117,16 @@ related:
   - title: "Image Recognition Market to Register Unwavering Growth During to 2025 | IBM, Imagga Technologies, AWS"
     excerpt: "It uses a technology that detects places, people, items, buildings, logos, and various variables in image with the help of artificial intelligence. Companies are using huge digital data to bring better and niftier facilities to customers. Image recognition is used to perform several machine-based visual tasks, which include performing image ..."
     publishedDateTime: 2020-02-03T12:24:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
+    webUrl: "https://www.cmo.com.au/mediareleases/38158/image-recognition-market-to-register-unwavering/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 4
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 24
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
   - title: "Artificial Intelligence as a Service Market to Drive Amazing Growth by 2025 | IBM Corp., Google, Amazon Web services"
     excerpt: "Zion Market Research published a new 110+ pages industry research \"Global Artificial Intelligence As A Service Market Is Set For A Rapid Growth And Is Expected To Reach Around USD 14.71 Billion Globally by 2024\" is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term ..."
     publishedDateTime: 2020-01-28T06:47:00Z

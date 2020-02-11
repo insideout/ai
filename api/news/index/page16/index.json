@@ -2,87 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-21-the-brain-predicts-reward-like-an-ai-says-new-deepmind-research.md",
-      "title": "The Brain Predicts Reward Like an AI, Says New DeepMind Research",
-      "excerpt": "If DeepMind’s new bombshell paper in Nature is any indication, a common approach in AI, one that’s led to humanity’s defeat in the game of Go against machines, may have the answer. We all subconsciously learn complex behaviors in response to positive ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/",
-      "ampWebUrl": "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/",
-      "publishedDateTime": "2020-01-21T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/01/brain-1787622_1280-dopaminergic-neurons-reward.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": "The Brain Predicts Reward Like an AI, Says New DeepMind Research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-the-legal-industry-finds-ways-to-leverage-ai.md",
-      "title": "The legal industry finds ways to leverage AI",
-      "excerpt": "How far are we from seeing \"robot judges\"? ZDNet's Stephanie Condon discusses with Karen Roby. Read more: https://zd.net/3auO0jl",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/the-legal-industry-finds-ways-to-leverage-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/20/4ae4c042-fca1-4511-9ed4-a9ca543376fd/thumbnail/770x578/505afafec347bbd770275c37d22c5782/20200120-steph-karen-judges.png",
-          "width": 770,
-          "height": 578,
-          "title": "The legal industry finds ways to leverage AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-21-us-spends-45m-on-heat-based-facial-recognition-that-works-at-1600ft.md",
       "title": "US spends $4.5m on heat-based facial recognition that works at 1,600ft",
       "excerpt": "According to a couple of new contracts posted on the federal spending database, the United States military is cashing in on developing a new form of facial recognition technology. If you assumed that the US military was already using facial recognition technology on the battlefield, then you would have been right. The current use of facial ...",
@@ -204,7 +123,7 @@
       "path": "_posts/_archive/2020-01-21-why-most-self-driving-car-companies-use-these-3-models.md",
       "title": "Why most self-driving car companies use these 3 models",
       "excerpt": "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge.",
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://mashable.com/article/self-driving-cars-most-common-vehicles/",
@@ -2109,6 +2028,95 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo.md",
+      "title": "AI Startup Eightfold Hires First Finance Chief As it Eyes Expansion, Potential IPO",
+      "excerpt": "The Mountain View, Calif.-based startup last week named Celia Poon as its finance chief.",
+      "heat": 181,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520",
+      "publishedDateTime": "2020-01-22T19:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-146435/social",
+          "width": 1280,
+          "height": 640,
+          "title": "AI Startup Eightfold Hires First Finance Chief As it Eyes Expansion, Potential IPO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing.md",
+      "title": "Amazon explores a way to preserve privacy in natural language processing",
+      "excerpt": "The team analyzed the privacy implications of different choices of epsilon value in the context of natural language processing, where word embeddings — mappings from the space of words into a vector (i.e., the space of real numbers) — often depend on the frequency with which words co-occur with each other. This presents a challenge where ...",
+      "heat": 188,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/",
+      "publishedDateTime": "2020-01-23T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon explores a way to preserve privacy in natural language processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

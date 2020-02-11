@@ -30,19 +30,6 @@ images:
     title: "Object Recognition Is The Answer, Here’s Why"
 
 related:
-  - title: "Top 7 Usecases for Touchscreen Object Recognition"
-    excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of ..."
-    publishedDateTime: 2020-01-27T13:27:00Z
-    webUrl: "https://www.digitalsignagetoday.com/whitepapers/top-7-usecases-for-touchscreen-object-recognition/"
-    type: article
-    provider:
-      name: Digital Signage
-      domain: digitalsignagetoday.com
-    quality: 39
-    images:
-      - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png"
-        width: 1200
-        height: 630
   - title: "Army is finding ways to thwart hackers using images to mess with object recognition"
     excerpt: "Teaching a computer to categorize things like a human is no easy task, it’s harder though when an adversary is messing with the data. The Army wants to use facial and object recognition software to speed up its decision making and bring analyzed data to the warfighter so they can make informed, split-second decisions. The problem is that ..."
     publishedDateTime: 2020-01-28T22:30:00Z
@@ -56,6 +43,15 @@ related:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2018/10/military-cyber-talent-e1580247727182.jpg"
         width: 1200
         height: 798
+  - title: "Top 7 Usecases for Touchscreen Object Recognition"
+    excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of ..."
+    publishedDateTime: 2020-01-27T14:40:00Z
+    webUrl: "https://www.digitalsignagetoday.com/whitepapers/top-7-usecases-for-touchscreen-object-recognition/"
+    type: article
+    provider:
+      name: Digital Signage
+      domain: digitalsignagetoday.com
+    quality: 19
 
 secured: "Xr3xevH+qhOIdKBIadl5HptKaQNKuomUQ0Qq5kESDc0Yp3odO5MI3gQakQ6oWQpW/08STCEiwJtWN2rnLKVljpqWxlCYKijI+h61nn2ECDQ5aP7bHZjpdsDd//+iafGiZl+NvYHEisjwDEHqISUswlDfX/A7D78jkUroZBWE9uXJLgEs/HDDX3jhe6xvdn0UKcFtCmLgZjZSftbP0L7AIPTWTixYyC4zlv5QAumyNsnF5/6MnuiQ+HhyeAWUeN77IyoHXgAkuGMiszVj50U4x36cxnRjnuRPbqBSdfoV4O1tqWluwQ9N44Ps1xlg+Wg9j+pSR3uAodXPvuGiv0pW2YabpX/ZOx6Q/e17mCPSemuH2tLAgOjcoUfMyiDpSXmtrbCAlOq2LCuBHrcrs3JJQJjFN6AAz4DK1pZKyCkNRfbeslpbILwve4t04uRf355XH0oCj7V/jhGlz5Rdu99g48mM3p8dRsP2Bm0uiW4NfzQ=;NrfiN8VzmHOzBVmmlzFZvg=="
 ---

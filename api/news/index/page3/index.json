@@ -2,97 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-01-30-darpa-deploys-swarms-of-autonomous-robots-to-carry-out-urban-raid.md",
-      "title": "DARPA Deploys Swarms of Autonomous Robots to Carry Out Urban Raid",
-      "excerpt": "In the not-so-distant future, hundreds of unmanned drones and on-the-ground rovers could swoop into an area of interest and spew crucial data to human military operators, researchers say.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834",
-      "ampWebUrl": "https://www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/darpa-drone-autonomous-robots-military-urban-raid-1484834?amp=1",
-      "publishedDateTime": "2020-01-30T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1563786/darpa-drone-swarm.png",
-          "width": 1695,
-          "height": 1115,
-          "title": "DARPA Deploys Swarms of Autonomous Robots to Carry Out Urban Raid",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-30-deepminds-memo-ai-solves-novel-reasoning-tasks-with-less-compute.md",
-      "title": "DeepMind’s MEMO AI solves novel reasoning tasks with less compute",
-      "excerpt": "Can AI capture the essence of reasoning — that is, the appreciation of distant relationships among elements distributed across multiple facts or memories? Alphabet subsidiary DeepMind sought to find out in a study published on the preprint server Arxiv.org, which proposes an architecture — MEMO — with the capacity to reason over long ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/30/deepminds-memo-ai-solves-novel-reasoning-tasks-with-less-compute/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/30/deepminds-memo-ai-solves-novel-reasoning-tasks-with-less-compute/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/deepminds-memo-ai-solves-novel-reasoning-tasks-with-less-compute/amp/",
-      "publishedDateTime": "2020-01-30T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DeepMind’s MEMO AI solves novel reasoning tasks with less compute",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-30-drug-designed-by-ai-to-enter-human-trials-for-first-time.md",
       "title": "Drug designed by AI to enter human trials for first time",
       "excerpt": "Exscientia's system automatically analyses patients' genetic data and finds molecules that could be used in new medication Credit: Andriy Onufriyenko The first drug designed entirely using artificial intelligence is entering clinical human trials ... Rock Health for The Financial Times earlier this month suggested that AI, machine learning ...",
@@ -2123,6 +2032,96 @@
       "topics": [
         "AI",
         "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-02-first-drug-developed-using-machine-learning-enters-clinical-trials.md",
+      "title": "First drug developed using machine learning enters clinical trials",
+      "excerpt": "What just happened? Of all the domains where machine learning is expected to be revolutionary, medicine is perhaps the most universal. In a major new milestone, a drug developed using machine learning is about to enter human trials. Before a new medicine ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html",
+      "publishedDateTime": "2020-02-02T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/04/2019-04-08-ts3_thumbs-e3c.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "First drug developed using machine learning enters clinical trials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-02-intel-is-sacrificing-previous-ai-acquisitions-for-habana.md",
+      "title": "Intel is sacrificing previous AI acquisitions for Habana",
+      "excerpt": "The big picture: Intel is keen to break new ground in the AI space, but playing hard and fast often results in casualties. Today that’s Nervana, an AI chip startup that Intel acquired in 2016 for roundabouts $400 million. Existing agreements will be honored, but from now on, all AI research efforts will be directed by Habana Labs. Intel ...",
+      "heat": 209,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
+      "publishedDateTime": "2020-02-02T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-02-ts3_thumbs-dcf.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "Intel is sacrificing previous AI acquisitions for Habana",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "AI Hardware"
       ]
     }
