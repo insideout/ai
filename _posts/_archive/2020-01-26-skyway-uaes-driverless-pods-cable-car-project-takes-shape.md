@@ -1,8 +1,8 @@
 ---
 category: news
 title: "SkyWay: UAE's driverless pods, cable car project takes shape"
-excerpt: "The unicars, which run on batteries and a “dynamo system”, also have artificial intelligence capabilities that ensure the safety of passengers. The unicars are able to autonomously detect a problem, can “talk” to each other, and find solutions to rectify a problem. “For instance, if one of the driverless pods stops midway on the ..."
-publishedDateTime: 2020-01-26T07:51:00Z
+excerpt: "Driverless pods on cable cars could soon be the answer ... The unicars, which run on batteries and a “dynamo system”, also have artificial intelligence capabilities that ensure the safety of passengers. The unicars are able to autonomously detect ..."
+publishedDateTime: 2020-01-26T07:49:00Z
 webUrl: "https://www.arabianbusiness.com/construction/438559-skyway-uaes-driverless-pods-cable-car-project-takes-shape"
 ampWebUrl: "https://amp.arabianbusiness.com/amp/article_listing/aben/construction/438559-skyway-uaes-driverless-pods-cable-car-project-takes-shape"
 cdnAmpWebUrl: "https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/construction/438559-skyway-uaes-driverless-pods-cable-car-project-takes-shape"
@@ -20,11 +20,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.arabianbusiness.com/sites/default/files/styles/fb_share_style_image/public/images/2019/10/27/SkyWay-Sharjah-SRTIP-2.jpg?itok=A1RGaQt8"
+  - url: "https://www.arabianbusiness.com/public/images/2019/10/27/SkyWay-Sharjah-SRTIP-2.jpg"
     width: 1200
-    height: 630
+    height: 825
     title: "SkyWay: UAE's driverless pods, cable car project takes shape"
 
-secured: "cWm0wVu1hVIvaRVtG1n4FGUA9Qyo3M9mC+l/ttA8h8NwqildfeNwmEfz1w0N2owCQ5Q6KXfl5BG1EVFo2AUDPti6Cv++808dVaZ4PhozINosZxWJt8ow2RNM01DOjezZoQ8TMG8n+NCXA1+NQVKADltoMeDW3O47qgInaRsAZ5COGCsOL7eIezCRPbPA8XBWvqHtf+CJlNVbzwW/fM9YuMMTTaPLmntm5C8F0zUd0D3LGg3VVn0RA27yiMqZjHJijKWvjQoVyiK6nSS6PSQkvv0qW+zeanGIKoSLUXn8RcUnbi9Ns12o+rt5HOMvT1gfSJHRQ2vqEogzG+M2zGHwA51N7NPEH8ooGUl67pJe1qNuBDFAvHIUl5wQHeLReKrUuowjoGHq6rHruBLtx3VpNPuX/r/TB5I7VNspsq1vaf6PzOM/Tt9nKhQ1ifKsiqPP0yEMzERLU/Tz4VouB2DqV2Etp+KbqiXKp4Yr/ivJ+5M=;NuACRdGrzFadHoIE6Abm3A=="
+secured: "8pypG1n54Scl0G3xYj+BoSxIg0TZryZ0urmUmaaPdWBwzS6+WGM92l4yvyb2e0PN/XkSAmWRbqe+336WqyzU+sEFFCj8ClKY82x3hetUfOPiuY75BuHKQpu6hZqCa/9dMybQ0zdveVBon7TuirHLA8ZGBg09GRuG8Tt8Rm8zkvn8JnqUcJkVmuEfKtvl4YZKa8D+EybXX29pNyjKr3q5yE2dSG2hkiWs8EYIFZBpN3pf/nLR27bXVARjjnMtK/cYXpWtj4Q4dLrgVO5OGNlD8y4aAxxBXHbC8MieZwkuw/CFnST84vZh2ehCM9okj70c;LCtVJd5WKeZhJVMpmN1JNQ=="
 ---
 

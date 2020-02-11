@@ -64,6 +64,19 @@ related:
       - url: "https://www.housingwire.com/wp-content/uploads/2020/01/F1-header.png"
         width: 1010
         height: 599
+  - title: "The road ahead for AV in the age of self-driving cars"
+    excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
+    publishedDateTime: 2020-01-28T10:25:00Z
+    webUrl: "https://www.avinteractive.com/features/blogs/road-ahead-av-self-driving-cars-28-01-2020/"
+    type: article
+    provider:
+      name: avinteractive.com
+      domain: avinteractive.com
+    quality: 24
+    images:
+      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
+        width: 620
+        height: 330
   - title: "Avaloq shares insights on AI, robotics & automation, and its role in the future of financial services"
     excerpt: "According to new industry research by Avaloq, a Swiss FinTech, additional key developments include the increasing use of more ... But it is clear that even bigger changes are arriving, particularly with regards to AI, robotics and automation, which combined with design thinking methodology will enhance the overall customer experience."
     publishedDateTime: 2020-01-30T16:01:00Z

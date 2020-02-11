@@ -1,12 +1,12 @@
 ---
 category: news
 title: "H2O.ai Empowers MarketAxess to Innovate and Inform Trading Strategies"
-excerpt: "H2O also has an industry leading AutoML functionality that automatically runs through all the algorithms and their hyperparameters to produce a leaderboard of the best models. The H2O platform is extensively used in industries such as financial services that require the machine learning at scale. About H2O.ai H2O.ai is an open source leader in ..."
+excerpt: "H2O also has an industry leading AutoML functionality that automatically runs through all the algorithms and their hyperparameters to produce a leaderboard of the best models. The H2O platform is extensively used in industries such as financial services ..."
 publishedDateTime: 2020-01-26T23:16:00Z
 webUrl: "https://www.businesswire.com/news/home/20200126005001/en/H2O.ai-Empowers-MarketAxess-Innovate-Inform-Trading-Strategies"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: "https://mms.businesswire.com/media/20200126005001/en/767274/23/logo.jpg"
+    width: 1200
+    height: 627
+    title: "H2O.ai Empowers MarketAxess to Innovate and Inform Trading Strategies"
 
 related:
   - title: "H2O.ai powers MarketAxess’ algorithmic pricing engine"
@@ -31,7 +37,18 @@ related:
       - url: "https://32thcv3s4g2f4bru3o3jkumf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/h2o.jpg"
         width: 300
         height: 300
+  - title: "Itiviti Partners With AI Innovator Imandra to Integrate Machine Learning Into Client Onboarding and Testing Tools"
+    excerpt: "NEW YORK, Jan. 30, 2020 /PRNewswire/ -- Itiviti, a leading technology, and service provider to financial institutions worldwide, has signed an exclusive partnership agreement with Imandra Inc., the AI pioneer behind the Imandra automated reasoning engine."
+    publishedDateTime: 2020-01-30T07:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/01/n15215015/itiviti-partners-with-ai-innovator-imandra-to-integrate-machine-learning-into-client-onboarding-an"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15215015"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15215015"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
 
-secured: "k3cuFFZvyavyBQiet/ufXk2mLDV6FvsLwiiOayXr+HQtQHIah2DiVyGgN7Bi9nlMIYi86zxVxB0QYwWCgaN3yrLvoR+UXRS5Hs71CNwNBLcaVhggtckIA87L5z+AgnR2Lmwl0Q8yKmTzKlBuNIT6KMLi1yo60gz7w5zCvIiRu2hg2+oogARE32IdBXH3d5GyZjPMF2ZvTmDP8f4GEV7U8EWJjp0ONv6VJCvtmq/RvNROsrq9mcSeNKYh+vGIETSh4UjfCvz+1ZBCwzRQiHQ3RE6kddFG5s0IiRnkMw/4pjobpHva5ys9hSfUN94yTmzs7TdX21Jb4o4FtGVmNtwsIaTlYZ3tMe0n+JAmzDbCPoTYNX8G8xRSdIwNpfdjzQDtbSrLht4P9hoByXKH9vHg3lkZJJ5/uMV7dyb48JuPbmy86kPN9MTTzTVq3V+y3xslF1ZFiZYJBtc/AKp0dmrwSdJXZ1se8K90Vh+ipVqlSww=;u4MonawxwZyqWN2v9MLRAA=="
+secured: "XZ3e8L0KT4m/NrckcK8JefWpjyoYd7JTyzeOWeaEOK0HVpCRddpyumAsh8O4IdDSdJlilaEk9f1grnqcZTlnmqazJ6LITXczVT0H6aT+/8RPLh8R5jDsPNqHhcSXKPLLV2UZX63ENYrovL6HcL7nE5z71tjmnzrGr2gXsTB6Tp/oc52nbN0v0iMaatxP+4DTwHZW+ZMxQ1/K8c4Fhqa5yIlghyFiV0SdFy92mP6dSag3X4q97qFIVwsE8NLHG93DuyM7UVJCfLpYDdeY3KVd0Y5fvMCqiVIsBDFCOpfhkLDuo+a/kreh3bvk9pDauPOE;ixt2s9xcQzG/paRrwbTXJA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-29T13:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/case-study-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-2025-2020-01-29"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     title: "Case Study: Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2020-2025"
 
 related:
-  - title: "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-01-27T11:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027-2020-01-27-7197455"
+  - title: "Artificial Intelligence in Life Sciences Market to Flourish With An Impressive CAGR BY 2020-2025 : IBM Corporation, NuMedii Inc"
+    excerpt: "Artificial Intelligence in Life Sciences Market Report has newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques."
+    publishedDateTime: 2020-02-04T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-to-flourish-with-an-impressive-cagr-by-2020-2025-ibm-corporation-numedii-inc-2020-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

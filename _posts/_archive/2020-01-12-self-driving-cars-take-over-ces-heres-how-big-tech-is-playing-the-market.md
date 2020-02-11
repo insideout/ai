@@ -29,6 +29,6 @@ images:
     height: 1219
     title: "Self-driving cars take over CES: Here's how big tech is playing the market"
 
-secured: "Qc9BaOIKGUaEHhCnDWxaW0Z+HkXlp0owsjLWzLZT/9Gqr2EQ9CXh809I6V0Vle5mSuBI1tPyyjvyr0ADm4/i5oEzDf7rnqAhJAym8snY087LTxi3nVaMJySNAAsabUUfn5Wyk+knmuK3idqZaY7i43jKd9/xTGEZkmWwudbu93z9x+TMdu7MEQeojkcBxW0JIGG+2kTMFS3Jju6qXbnEN5eXESD8RkvTriWE2iX/QobUBiDXb48TKN9E7DN/fUJQiK5IaDZLAzZbbtq+ODSa7T0nG2gcjRVyeOyGAjAs6r8LSIcQJYgNszDK7vKal41Z;ryHVF6vEe6lT2hi237LyYg=="
+secured: "+4+licRxHB7Xtx5zpCXnHra2wZtdfKZdgtmxuc9meh7D+imHkCC04tBUsTF5rWxJQQr4Xz8OL/anFIpp1sauO9CksOE2Jdw5PjujIUxRdTILOTmKiQBn4k8b2eVgFz4/uXhDErVleSLckU3d7Q6+viVtFBimkw9tozhPp5xudLjHblwWRFQxwj8vltPFXHdbXLEz3a8Lj9F1XhUJt7sO/w3Qv88T9SLipn8lXvirG5dRxsR5TPDNUN+5/Kn2WGj3Zp8H56eDtr7+Y5KTiFaGLJqYmZdp4YdvbIH/qVzyXdrxeqqE9y/0Wbdtk9CS7vWQ;HwVq7Ym0WHbA9XiItJ0C/A=="
 ---
 

@@ -506,21 +506,6 @@ related:
       - url: "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2018/06/Facebook-650.png?fit=650%2C355&ssl=1"
         width: 650
         height: 355
-  - title: "Political Cartoon: Facial recognition doesn’t fly"
-    excerpt: "In our attempt to catch up with the advances police state technology, Philadelphia International Airport has begun experimenting with facial recognition technology. Soon Philadelphia, too, can help airlines, police, and any federal agency that wants to mess around with our lives to compile a data base to keep track of every previously free ..."
-    publishedDateTime: 2020-01-27T10:07:00Z
-    webUrl: "https://www.inquirer.com/opinion/cartoons/airline-facial-recognition-privacy-police-state-20200127.html"
-    ampWebUrl: "https://www.inquirer.com/opinion/cartoons/airline-facial-recognition-privacy-police-state-20200127.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/cartoons/airline-facial-recognition-privacy-police-state-20200127.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 59
-    images:
-      - url: "https://www.inquirer.com/resizer/8Y9p5OBYNaTZeZsKjcmSVjJLI5M=/1200x0/center/middle/www.inquirer.com/resizer/ZredMOWFeZ_6GGKBI3QfD4Rzyn4=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/3LDY36LFVJAZPBQV26RVIOJXVM.tif"
-        width: 1200
-        height: 820
   - title: "Ban Facial Recognition on College Campuses, Activists Say"
     excerpt: "A campaign to ban facial recognition on college campuses has just been launched by the non-profit organizations Fight for the Future and Students for Sensible Drug Policy. Facial recognition technology is already being deployed in some public school systems, so the organizers want to get ahead of the spread of pervasive surveillance to higher ..."
     publishedDateTime: 2020-01-28T21:20:00Z

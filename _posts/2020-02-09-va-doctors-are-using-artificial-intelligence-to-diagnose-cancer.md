@@ -5,8 +5,8 @@ excerpt: "“The potential of these technologies to improve health care delivery
 publishedDateTime: 2020-02-09T04:12:00Z
 webUrl: "https://www.armytimes.com/off-duty/military-culture/2020/02/09/va-doctors-are-using-artificial-intelligence-to-diagnose-cancer/"
 type: article
-quality: 41
-heat: 41
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
   - AI Ethics
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 630
     title: "VA doctors are using artificial intelligence to diagnose cancer"
 
-secured: "IZlhIb4BxANuPJqMH1P47jTaR6/43hPqHCpwt+V1SfA4hzRnM09/MjnBqRi0H0Q/bXXLg1cBTV4O39xDEURahwjS+ti1q9lhJBavLwseStvbJdY6KOqp41RqBMZAXW6i2tb0kBU1Eb1gkZ05I0MIYk8KLRxVpWaOi4rVJiJs8lHsAvhS+EaJ0+4fCLqtYK57ndEGVRV8GDQoCS1NOm6ZdpT4rpNrfy9n20too8HTxFlYLmsp4Yq7Z4VujN1/LTVzFvgEdp8AcubmbNL57t2ZKe1pVU0ZX7/xr0XgqVQXlKlhqVSWJ/Ol048bYgjx/J4UVxaCd3gkYlc4nAQRO4xC/MVxBCwyFeSAls3L5c/FvfFtuYnQZ6ErhuH6XK89ozbXoRO7ldCzcu9Czd6zVZRfW1k+779n/d0OIi90D6jH3u4XuJLpJoWLFlvogmHyr9bHrBuS0B3flFo0hjsl7UcYE7AdrR8yYN7PYNttA92Ns2k=;IN3uKTxxDo2Lyx5BK6eZOA=="
+secured: "/agQHMjWevIBPytyBiFM79GbPmNP+9y5QqiDH5Nl8CUW4F+2ciIJ6rWi5FENqXOfPX94ScvLRqBI5TJzX0pBMfYzppzd++XtUDh2+Hd46jBBQj8VaNlLNXPCPmUeDiZTGXyWdypIXTn9F1dBkOtGtPGIh/vVBSUcyOdO4U0YivtbwgQx8OvRbPjMePd3Xw4UhkSGuCWuLFm6jtHlVjunVaAUIvm9FuNlPOUnlsyrX6AT77cqS0OfUJGTOY+5jywcaXrx0nv5j4o/K6g2jq2wjUdjMLVTfzHoI5Ke1myvWmTGqZBTS9UzhzUMb2GWk1cX;5PaR3cujcOnTzhrFkq4Q0Q=="
 ---
 

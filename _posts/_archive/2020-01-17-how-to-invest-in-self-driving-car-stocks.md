@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "Why most self-driving car companies use these 3 models"
-    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
+    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ..."
     publishedDateTime: 2020-01-21T20:54:00Z
     webUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles/"
     ampWebUrl: "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp"
@@ -54,59 +54,7 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/8MiHQiTd2c8CR_4PW7ljrKRsphk=/2020/01/27/31add3ed-c960-4a44-98c6-8db7132f4a2f/ogi-apple.jpg"
         width: 1200
         height: 630
-  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious"
-    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps."
-    publishedDateTime: 2020-01-25T14:44:00Z
-    webUrl: "https://www.businessinsider.com/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/5e2b295d62fa8135ad7599e8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "The CEO of Mobileye explains why self-driving cars can't be too cautious (INTC)"
-    excerpt: "Acquired by Intel in 2017, Mobileye is developing software and hardware for self-driving cars, including computer chips and maps. Mobileye CEO Amnon Shashua told Business Insider that autonomous vehicles (AVs) can't be too cautious. If AVs take too long to get to their destinations, people won't want to ride in them, Shashua said. To increase ..."
-    publishedDateTime: 2020-01-25T13:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mobileye-ceo-self-driving-cars-cant-be-too-cautious-2020-1-1028844526"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://images.markets.businessinsider.com/image/5e2b293624306a2d955068f4-2333/mobileye-2020-ces-shashua-5.jpg"
-        width: 1024
-        height: 768
-  - title: "Test shows promise of self-driving cars for transit"
-    excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
-    publishedDateTime: 2020-01-25T19:00:00Z
-    webUrl: "https://www.limaohio.com/top-stories/393877/test-shows-promise-of-self-driving-cars-for-transit"
-    type: article
-    provider:
-      name: The Lima News
-      domain: limaohio.com
-    quality: 24
-    images:
-      - url: "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_SelfDriving1.jpg"
-        width: 640
-        height: 431
-  - title: "The road ahead for AV in the age of self-driving cars"
-    excerpt: "Once vehicles become truly autonomous, travelling by car will become a much more passive experience. And while today we’re grappling with the negative effects of cellphone-related distracted driving, self-driving cars of the future will most likely be using technology for the specific intent of distracting passengers…keeping them ..."
-    publishedDateTime: 2020-01-28T10:25:00Z
-    webUrl: "https://www.avinteractive.com/features/blogs/road-ahead-av-self-driving-cars-28-01-2020/"
-    type: article
-    provider:
-      name: avinteractive.com
-      domain: avinteractive.com
-    quality: 24
-    images:
-      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2020/01/Jeff-Hastings-CEO-BrightSign_large_NEW.jpg"
-        width: 620
-        height: 330
 
-secured: "7c/H1yjEVKvqGHjkvVpt5X6f/26+oaB6T8VG8aoZi29r63bAnbqkEEoX57oiJLMsfFLTn8Z+NshexQFewqf3NWAW+99b16TKS+zRpMxR+WjHwdHN0Dw+IqeoP+4gvA3Ua0yYx/oYUBee5YzfIrGwbQC8fSFsdH47No/GTWXNmb/MwMl7J7V1cl4M5rULvAeyLRN7nYx/mIPM1D0U52eh8vWgOe8UFHXCidgxBF54TW5xCnlvMLfuIAO4JCTG2PWgcijDFxHJMY6Vl+TxGhMK9g+CO8HUDWXVy6MEa2WzJNYgjz9s2D7EOhFvdn4klASA;E4Hr+3+6EESbiM+k/uNaAg=="
+secured: "GJtA1AUexZvH5VCdXO5jRrRWfQedXFDwLU1CyijpltLnHHrhhUrlsSrqIkU5OlPvtBIgzbbIGIbepINaGWxqEl1TMv7/LAv8TgTiBYu5stuzlxXWCy2I7EkcTyxKCikCWHg5rcuglwq6BEBPq/DqbbTE1xkQSBdeqLFwjwKCSFx2YUb+CzB9ZQyV24s1Qo5HW97se/kJQRt/Fv64n3t+Vls0QeOqitok0qQp8Cza/ft4ylvzpVwCrXu0Di//a8tPuYgllq5RlXKAVQgWRt+kSw1RSfFssMzZWWTAHoizt1471wWqRuYeyPMr6EwGpVtW;PMoZyW1pXMIfeDS8lKXR3w=="
 ---
 
