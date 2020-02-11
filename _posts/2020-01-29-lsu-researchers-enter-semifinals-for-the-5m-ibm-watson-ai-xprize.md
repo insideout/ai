@@ -37,19 +37,6 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2020/01/IBM-AI-XPRIZE-logo.jpg"
         width: 1440
         height: 650
-  - title: "Aifred Health sole Canadian team among 10 semi-finalists of global IBM Watson competition"
-    excerpt: "Montreal-based Aifred Health has been named one of the top 10 semi-finalists of the global IBM Watson AI XPrize. The startup is the final Canadian team remaining in the multi-year competition. “We have the chance to show the world what we can do.” “Being in this competition up until this level, and being a team that started with the ..."
-    publishedDateTime: 2020-01-27T16:48:00Z
-    webUrl: "https://betakit.com/aifred-health-sole-canadian-team-among-10-semi-finalists-of-global-ibm-watson-competition/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 45
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2020/01/Aifred-1024x768.jpeg"
-        width: 1024
-        height: 768
 
 secured: "e3H4NGMZH48VhX+21YvsOJMMEMDQt4j+4KgRUMnP53zpkVU7jfOzGKqKPfR4iB2WJf0fl8TQNXrlPGK5b1v+MlAtB42KG6kCWbRbi0ETy+wkr8Ovjzmni1QH8i8kGWcWJiDPM4sC5SobqRII/4CnluCI24jCPyWVCNuHNxi04b8FX+jClqpPCHBrU4QcSFfsGy8abMjV5Ei9O89IqFZYrfi5KdfKjxXjprMsS/A0thckzskuDUJY7m8m0fA+w661gmJ9aQNKjTDxpRMEREvUfZqXDUiTBPj2exJB2IctAncaxcDjEKv325UcOQ4i0UwjoPLvYSRbTbxfpNtMdWghhNxC+BQdoP/MOe98GixGiqad6dNLcJaOJvgAiPEhasdmGXxB9wICRPDSGPFWnqz7FUdwH1D1DV2//MoQgg6wRUjlgHfwkcsCv3U7+LLn2tkolbZNwwUXOfHSqhYjrycqpXVQMiZ3rgiuptszDu0OfJo=;Fe7Ay2jWkDJH1n/rnvDBEw=="
 ---

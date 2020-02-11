@@ -51,19 +51,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg"
         width: 400
         height: 300
-  - title: "Is seeing still believing in the age of AI?"
-    excerpt: "Leigh Dow is the CEO of 48 West Agency. Have a marketing challenge you need to solve? Contact her at leigh@48westagency.com. Digital reputation management means staying up to date even as things are constantly changing,"
-    publishedDateTime: 2020-01-27T16:19:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2020/01/27/is-seeing-still-believing-in-the-age-of-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
-    images:
-      - url: "https://s3.amazonaws.com/acbj-community-wpengine-prod/uploads/2020/01/GettyImages-691048293.jpg"
-        width: 509
-        height: 339
   - title: "Avaloq shares insights on AI, robotics & automation, and its role in the future of financial services"
     excerpt: "According to new industry research by Avaloq, a Swiss FinTech, additional key developments include the increasing use of more ... But it is clear that even bigger changes are arriving, particularly with regards to AI, robotics and automation, which combined with design thinking methodology will enhance the overall customer experience."
     publishedDateTime: 2020-01-30T16:01:00Z

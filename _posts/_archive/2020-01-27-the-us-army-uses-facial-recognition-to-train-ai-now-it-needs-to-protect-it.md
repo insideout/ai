@@ -1181,19 +1181,6 @@ related:
       - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
         width: 512
         height: 512
-  - title: "London Police push forward with controversial facial recognition tech"
-    excerpt: "The London Metropolitan Police Service has announced it will begin the operational use of Live Facial Recognition (LFR) technology, despite there still being many critics and concerns. The technology itself has come under criticism not only for poor ..."
-    publishedDateTime: 2020-01-27T16:26:00Z
-    webUrl: "https://telecoms.com/502056/london-police-push-forward-with-controversial-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
-    images:
-      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
-        width: 300
-        height: 250
   - title: "Privacy Groups Urge Suspension of Federal Facial Recognition use"
     excerpt: "A group of privacy and civil liberties groups wrote a letter to the Privacy and Civil Liberties Board (PCLOB) urging the board to demand that the President and Secretary of Homeland Security suspend the use of facial recognition systems by Federal agencies. The Consumer Federation of America, Electronic Frontier Foundation, and Electronic ..."
     publishedDateTime: 2020-01-27T17:19:00Z
@@ -1695,6 +1682,6 @@ related:
       domain: masslive.com
     quality: 0
 
-secured: "tShY6aKbSmetK6rjqCB+ow/5MHRJAfpxruPBqkWSqDxZfxTPebniudeIqHHfaUkDyzKXqQL7efoDoZyJX2Hx1cq5XaCyCIu7eH/uIB9EdmhtT/oYMugXX7pGGZY8CU1ub8WPk4axj8ycdJZQR/mQWE7pDXxSmQNKwC3UiCq7CY8BhVt0M7oYMfTE69+36BSs96aGUTx7t9RUqaCTNo3yhBrdcWvXe+QWUsrXvUlrbH1MQo7U7Jhp7gl+T4ug9VodHUB72NxshuAXreE9czV5Beij0JDjFF4b6R7yASsEca8sYV/a6C5w1fLgBfWWO9s+nHrsw+HnhzxWMO/dqqDVjNnHpMCshe/FDeKswFjMb3jSLOTqS9Ogj+fZ8iofaNlzW1Q2gNh/sVV8o0IuV0t7qN2QRJNZk0bTbIynybPE7pHUPY0m3Kj3A+P698Z0KhMUuRALr/qUX1nGTSXfZDIlyyj8ymc0w+RFy3DMuq0LxRs=;ebfzebElWkHaNOlZ0RRVSA=="
+secured: "EvjPcEvwK+0vDhWk0DtozrDCxjkRCiw8vylh5R9IrQn6ZCLhq75arxREK7NnND2Jm5AXLWNRmvPY/60HeJyaLytAJ1PDA0GVtD+1ertXtkrrZJ1XEs5iI2Pw9FbqMu7o4XDXMasdceE62x0Hzj576ApelN0t5VZ88SYty4k46S3AL4o+xn5vSZBbFASWn2HL/aDiAkIP18GjU+cdh5x2EmiItlVD6qEtmmBPqD6q0zOKBfZe0stmR4I7NQW2NQ6aV4gwGmz6HjEMtcAkqxCV9LMj++p08U8g4SycL9F8Jc/HEVZ0oh0vfDxVMoZ/riXXIMQc0Iax2UBeVUnrWAeOv5O1m/eiRUJXps39xRbkkBCkiuaBOvpsHll1zdLeZ/eIS0h5z87DaixfJyweUmBPmmTPwJB7Fpllx1BczH/1zcE1fSCmW0Ql3cIrIgI0WqUx4pRzbd2SXqAfunT3TYThw5JLQyHojqIAo9yOXPYntrk=;fzPXhDqulHUlWim6pSiw3w=="
 ---
 

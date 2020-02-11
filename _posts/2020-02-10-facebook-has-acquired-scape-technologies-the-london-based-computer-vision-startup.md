@@ -75,6 +75,15 @@ related:
       - url: "https://images.tweaktown.com/news/7/0/70457_01_facebook-sends-cease-and-desist-to-facial-recognition-startup-clearvie.png"
         width: 620
         height: 343
+  - title: "Facebook acquires UK machine learning AI start-up Deeptide"
+    excerpt: "A regulatory filing at Companies House shows that Facebook now controls 75 percent or more of shares in Deeptide, which controls Atlas ML, the company behind the 'Papers with Code' resource for machine learning. According to unnamed sources from London's ..."
+    publishedDateTime: 2020-02-11T10:11:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-acquires-uk-machine-learning-ai-start-up-deeptide--1326126"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "8FCF5sGoSMUkfhPFxZyzAf/0OAik3lN8xpeolVZHEjrkrk7D0dshyk9eWU0LbeiMvrmEhrtPJcMo8u+/8ksb0L79LAA1SxUW9xkyuk2mO3q4UvHVDrn5dhlE5atlP41VXAR45XoGVuQ+8WGhQ5x5tQ59fx0omVtQrfZ8iBZBxQutYZwH11+HFsVcLF44lzyan9wSG+vn3zYHuqGRhhb81lTtd6+ZwuW3msHHolnGMmqDEklvsx4YpIsiGvz241HOKI3KsonRXTAxBfD023Mlw4zFKdCVCVZgYl8brw3q/JykQmiM630cYFocytiG+CLNRyiGaJZ3jKUOaeCO31vmy8ZLq0AMZ+E9DuPsZn/lYvuG26uryjMGZ7DuoTbnCqSqoaLxeDHJXjMAs+k5p2Ae6n9tEH+1/fOS4ocrrtu8yaupTzIx1kel81hbH92mutgp8bEGZYtnEFIlVKIVZRCXYPmWTwPuzeZIABAYugJPDGg=;Dy69JA38tAaUsL2rzKq4Gg=="
 ---

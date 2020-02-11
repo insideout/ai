@@ -84,21 +84,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg"
         width: 1200
         height: 675
-  - title: "A.I.-powered voice transcription app Otter raises $10M, including from new strategic investor NTT DOCOMO"
-    excerpt: "“There is a large business market opportunity for Otter.ai and DOCOMO’s translation service.” DOCOMO is also featuring Otter during demonstrations at DOCOMO Open House 2020 taking place in the Tokyo Big Sight exhibition complex January 23 and 24, 2020. Here, Otter will transcribe the English-language presentations in real-time which will ..."
-    publishedDateTime: 2020-01-27T15:31:00Z
-    webUrl: "https://techcrunch.com/2020/01/27/a-i-powered-voice-transcription-app-otter-raises-10m-including-from-new-strategic-investor-ntt-docomo/"
-    ampWebUrl: "https://techcrunch.com/2020/01/27/a-i-powered-voice-transcription-app-otter-raises-10m-including-from-new-strategic-investor-ntt-docomo/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/a-i-powered-voice-transcription-app-otter-raises-10m-including-from-new-strategic-investor-ntt-docomo/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/12/otter.png?w=1024"
-        width: 1024
-        height: 569
   - title: "Google Translate will soon transcribe recordings in other languages"
     excerpt: "... audio in one language and get live transcription in another language. Initially, it will only work with live recordings — not pre-recorded audio files — and rely on cloud-based AI. Google also said it’ll launch the feature first on Android. New from Google Translate: a transcription feature that can translate and transcribe speech in ..."
     publishedDateTime: 2020-01-29T08:41:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T14:03:00Z
 webUrl: "https://www.therobotreport.com/ibm-watson-ai-xprize-announces-10-semifinalist-teams/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -38,19 +38,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/xprize_lsu_sitevisit-300x214.jpg"
         width: 300
         height: 214
-  - title: "Aifred Health sole Canadian team among 10 semi-finalists of global IBM Watson competition"
-    excerpt: "Montreal-based Aifred Health has been named one of the top 10 semi-finalists of the global IBM Watson AI XPrize. The startup is the final Canadian team remaining in the multi-year competition. “We have the chance to show the world what we can do.” “Being in this competition up until this level, and being a team that started with the ..."
-    publishedDateTime: 2020-01-27T16:48:00Z
-    webUrl: "https://betakit.com/aifred-health-sole-canadian-team-among-10-semi-finalists-of-global-ibm-watson-competition/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 45
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2020/01/Aifred-1024x768.jpeg"
-        width: 1024
-        height: 768
 
 secured: "tKkDHZ6B1uTKpLTCw2UC7L7ej2VKPDBn1eXimI7r8Li1uVLpQnbEdakF/nbyWTKWO4XqBXrVZkJetkALePsUbI4jxOUq8ZApex1EBfBXrGkX5b96C9Rpos+xBGc+tSRSSAUGajQLNLWTPBT+Nch5CbZULIViXUWEWf+UimTeC8U6fXtowPSJEkG72iE2a4Fn+9AR3gJp2Vb6f3TMv9hfAAZi7lZscEHUkeQE7y9AexnJdsrrhEJdEc9MXyV7yEIElnrpdWtX/4kFVxSYSrGIyS3a+HZ1PMX3PTgi0zLQKg69Tqcd4nViDvg+m7/4if7Sv9pj6jxPw3XZaAb/rcIar9pGDUS+wO5pCmePlAP+Zc3YtPS3kIOMbHy1QeJR/l2Cg0j61GYRYE2d7LEj/d05j93OwCPON//tAmVKcgh5utV+uTRhNELaB82BCkKAtq66FTQ6iwnF6p5AATf8dLLJLQd74fqwV5akoOMVgnNBYvk=;qsG+FpgOHdaPS0lYp/JXuw=="
 ---

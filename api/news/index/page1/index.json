@@ -46,94 +46,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-27-an-ai-virus-warning-system-mac-malware-and-more-news.md",
-      "title": "An AI Virus Warning System, Mac Malware, and More News",
-      "excerpt": "The platform, called BlueDot, uses an AI-driven algorithm that scours foreign-language news reports, animal and plant disease networks, and official proclamations to give its clients advance warning to avoid danger zones like Wuhan if possible. The sneaky ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/wuhan-coronavirus-ai-mac-malware-shlayer-trojan/",
-      "ampWebUrl": "https://www.wired.com/story/wuhan-coronavirus-ai-mac-malware-shlayer-trojan/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/wuhan-coronavirus-ai-mac-malware-shlayer-trojan/amp",
-      "publishedDateTime": "2020-01-27T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e2f670665c5340008a008d5/master/pass/Science_techintwo-1196094969.jpg",
-          "width": 2300,
-          "height": 1533,
-          "title": "An AI Virus Warning System, Mac Malware, and More News",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-apples-200m-acquisition-of-xnorai-a-snapshot-into-our-ai-on-the-edge-future-via-your-iphone.md",
-      "title": "Apple's $200M acquisition of Xnor.ai: A snapshot into our AI-on-the-edge future via your iPhone",
-      "excerpt": "Fast-forward to today, and only the almighty camera receives attention. Apple's acquisition of Xnor.ai is the latest move in the battle for phone photo supremacy, and AI-on-the-edge is the weapon of choice. What is Xnor.ai, and why does Apple want it? Xnor.ai's technology enables you to run deep learning models on edge devices, which ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/apples-200m-acquisition-of-xnor-ai-a-snapshot-into-our-ai-on-the-edge-future-via-your-iphone/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apples-200m-acquisition-of-xnor-ai-a-snapshot-into-our-ai-on-the-edge-future-via-your-iphone/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apples-200m-acquisition-of-xnor-ai-a-snapshot-into-our-ai-on-the-edge-future-via-your-iphone/",
-      "publishedDateTime": "2020-01-27T09:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/21/575f455b-55e2-4575-996b-0489aa1f6eea/thumbnail/1200x675/f29dd75290e47f1228abef7be6666964/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Apple's $200M acquisition of Xnor.ai: A snapshot into our AI-on-the-edge future via your iPhone",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-27-apples-self-driving-car-system-could-use-voice-gesture-guidance.md",
       "title": "Apple's self-driving car system could use voice, gesture guidance",
       "excerpt": "Interacting with a future self-driving car could be a lot like working with some future interpretation of Apple iOS with voice, gesture and touch-enabled commands at your disposal. It's the overarching view gathered after reading through an Apple patent application filed last August and published last week for a self-driving car voice and ...",
@@ -176,95 +88,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-bzigo-uses-ai-and-lasers-to-locate-mosquitoes-in-your-home.md",
-      "title": "Bzigo Uses AI And Lasers To Locate Mosquitoes In Your Home",
-      "excerpt": "It can detect mosquitoes within seconds of when they enter a room, at a distance of up to 8 meters (26 feet), even in the dark. Once detected, the system trains a laser pointer on the bug and sends a smartphone notification to the system owner.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/01/27/bzigo-uses-ai-and-lasers-to-locate-mosquitoes-in-your-home/",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2020/01/27/bzigo-uses-ai-and-lasers-to-locate-mosquitoes-in-your-home/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/01/27/bzigo-uses-ai-and-lasers-to-locate-mosquitoes-in-your-home/amp/",
-      "publishedDateTime": "2020-01-27T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2f20f18b6cf300071d10bd%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Bzigo Uses AI And Lasers To Locate Mosquitoes In Your Home",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-googles-ai-proves-better-at-detecting-breast-cancer-than-doctors.md",
-      "title": "Google's AI Proves Better at Detecting Breast Cancer Than Doctors",
-      "excerpt": "In a Google-funded study, a team of independent researchers from various hospitals and universities, researchers from Google Health, and engineers from DeepMind (a Google-owned UK-based AI company) compared analyses of nearly 29,000 mammograms from UK and U.S.-sourced datasets. The study reports that they found 9.7% and 2.7% reductions in false ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871",
-      "ampWebUrl": "https://gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-ai-proves-better-at-detecting-breast-cancer-tha-1840773871/amp",
-      "publishedDateTime": "2020-01-27T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--_hVs12nR--/c_scale,f_auto,fl_progressive,q_80,w_800/qekkgajclhpxym2z6td1.png",
-          "width": 800,
-          "height": 448,
-          "title": "Google's AI Proves Better at Detecting Breast Cancer Than Doctors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     },
     {
@@ -315,94 +138,6 @@
       ]
     },
     {
-      "path": "_posts/2020-01-27-ibm-uses-ai-to-predict-progress-of-huntingtons-disease-symptoms.md",
-      "title": "IBM uses AI to predict progress of Huntington's disease symptoms",
-      "excerpt": "It could help with patient care and, hopefully, treatment. IBM is using its AI-based health prediction skills to help tackle the challenge of Huntington's disease. The tech firm has teamed up with CHDI Foundation on an artificial intelligence model that can predict when patients will experience Huntington's symptoms and, crucially, determine ...",
-      "heat": 217,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/27/ibm-ai-predicts-huntingtons-disease-symptoms/",
-      "publishedDateTime": "2020-01-27T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5650%252C3993%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1131%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252Fbb8db680-412a-11ea-af7c-8cd9ae0fdc0c%26client%3Da1acac3e1b3290917d92%26signature%3Dc206e2ec62c0d6552fd703fc0d803d344403e1cb&client=amp-blogside-v2&signature=6f5b99c9084bd61fc8e4b93c1e3b30dbf4c3f5dd",
-          "width": 600,
-          "height": 350,
-          "title": "IBM uses AI to predict progress of Huntington's disease symptoms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-software-developers-can-create-better-programs-with-ai.md",
-      "title": "Software developers can create better programs with AI",
-      "excerpt": "And despite the best efforts of programmers and other pros, finished applications can be hampered by bugs. One factor that can alleviate some of these obstacles is artificial intelligence (AI), according to a new report from Deloitte. SEE: Managing AI and ML in the enterprise 2019: Tech leaders expect more difficulty than previous IT projects ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/software-developers-can-create-better-programs-with-ai/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/software-developers-can-create-better-programs-with-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/software-developers-can-create-better-programs-with-ai/",
-      "publishedDateTime": "2020-01-27T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/04/09/a33f1b50-d50c-49b6-982d-0a7075fb78e8/resize/1200x/cd334e92d3b4e6c98d332bc696ea00b2/istock-904420104-1.jpg",
-          "width": 1200,
-          "height": 771,
-          "title": "Software developers can create better programs with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-01-27-university-of-michigan-showcases-new-ai-ethics-center.md",
       "title": "University of Michigan Showcases New AI Ethics Center",
       "excerpt": "(TNS) — Researchers at the University of Michigan have been exploring the need to set ethics standards and policies when it comes to the use of artificial intelligence, and they now have their own place to do so. The university has created a new Center of Ethics, Society and Computing (ESC) that will focus on AI, data usage, augmented and ...",
@@ -437,51 +172,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-01-27-why-apple-and-microsoft-are-moving-ai-to-the-edge.md",
-      "title": "Why Apple And Microsoft Are Moving AI To The Edge",
-      "excerpt": "in the cloud, just as there will be more reasons to put AI at the edge. In this post, I explore what that means and how Apple and Microsoft are moving AI to the edge.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/mohanbirsawhney/2020/01/27/why-apple-and-microsoft-are-moving-ai-to-the-edge/",
-      "ampWebUrl": "https://www.forbes.com/sites/mohanbirsawhney/2020/01/27/why-apple-and-microsoft-are-moving-ai-to-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mohanbirsawhney/2020/01/27/why-apple-and-microsoft-are-moving-ai-to-the-edge/amp/",
-      "publishedDateTime": "2020-01-27T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2f1e5cf133f400076acb0b%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": "Why Apple And Microsoft Are Moving AI To The Edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1001,7 +691,7 @@
       "path": "_posts/2020-01-28-general-motors-to-build-cruise-origin-electric-self-driving-shuttle-electric-trucks-in-detroit.md",
       "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
       "excerpt": "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ...",
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit",
@@ -1091,7 +781,7 @@
       "path": "_posts/2020-01-28-google-translate-will-transcribe-translations-in-real-time-on-android.md",
       "title": "Google Translate will transcribe translations in real time on Android",
       "excerpt": "The feature will likely require an internet connection at launch, Google says, which means it will differ from the AI-based and on-device translation features that are in Google Translate today. The company says this is because real-time multilingual transcription is more complicated than simply translating written text from one language to ...",
-      "heat": 264,
+      "heat": 254,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new",
@@ -1180,7 +870,7 @@
       "path": "_posts/2020-01-28-ibm-watson-ai-xprize-announces-10-semifinalist-teams.md",
       "title": "IBM Watson AI XPRIZE announces 10 semifinalist teams",
       "excerpt": "The XPRIZE Foundation, which designs and runs competitions to “solve humanity’s grand challenges,” has announced the 10 semifinalist teams advancing in the IBM Watson AI XPRIZE. The four-competition is intended to demonstrate how people can collaborate with artificial intelligence to tackle pressing global problems. Sponsored by IBM ...",
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.therobotreport.com/ibm-watson-ai-xprize-announces-10-semifinalist-teams/",
@@ -1738,7 +1428,7 @@
       "path": "_posts/2020-01-28-the-evolving-shape-of-risk-facing-financial-services-in-2020.md",
       "title": "The Evolving Shape Of Risk Facing Financial Services In 2020",
       "excerpt": "For financial services executives, the risk environment is becoming more complex and this is compounded by the use of new technologies, including AI, blockchain and RPA. Only a small percentage of risk managers are fully capable of assessing the risks of these technologies within their businesses.",
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/steveculp/2020/01/28/the-evolving-shape-of-risk-facing-financial-services-in-2020/",
@@ -2031,6 +1721,51 @@
       ]
     },
     {
+      "path": "_posts/2020-01-29-48-hours-left-on-early-bird-pricing-to-tc-sessions-robotics-ai-2020.md",
+      "title": "48 hours left on early-bird pricing to TC Sessions: Robotics + AI 2020",
+      "excerpt": "Just two days stand between you and serious savings on tickets to TC Sessions: Robotics+AI 2020. This annual day-long event draws the most innovative and visionary technologists, researchers and investors from two game-changing industries — last year we hosted 1,500 attendees. Make a smart investment. Buy an early-bird ticket before prices go ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/29/48-hours-left-on-early-bird-pricing-to-tc-sessions-robotics-ai-2020/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/29/48-hours-left-on-early-bird-pricing-to-tc-sessions-robotics-ai-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/48-hours-left-on-early-bird-pricing-to-tc-sessions-robotics-ai-2020/amp/",
+      "publishedDateTime": "2020-01-29T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/2days_robotics_countdown.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "48 hours left on early-bird pricing to TC Sessions: Robotics + AI 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/2020-01-29-7-observations-about-ai-in-2019.md",
       "title": "7 Observations About AI In 2019",
       "excerpt": "Turing Award for Deep Learning, NLP becomes the New New Thing, and other highlights of the search for intelligence in 2019",
@@ -2163,6 +1898,259 @@
       "topics": [
         "AI",
         "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-29-amazon-comprehend-now-supports-multi-label-custom-classification.md",
+      "title": "Amazon Comprehend now supports multi-label custom classification",
+      "excerpt": "Amazon Comprehend is a fully managed natural language processing (NLP) service that enables text analytics to extract insights from the content of documents. Amazon Comprehend supports custom classification and enables you to build custom classifiers that are specific to your requirements, without the",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-now-supports-multi-label-custom-classification/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-29T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/15/comprehend-multi-label-classification-1.gif",
+          "width": 1000,
+          "height": 420,
+          "title": "Amazon Comprehend now supports multi-label custom classification",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-29-amazon-made-rekognition-software-now-able-to-detect-fear.md",
+      "title": "Amazon-made Rekognition software now able to detect fear",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
+      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "publishedDateTime": "2020-01-29T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU=",
+          "width": 1200,
+          "height": 630,
+          "title": "Amazon-made Rekognition software now able to detect fear",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-29-apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment.md",
+      "title": "Apple researchers train AI drivers to merge lanes in a simulated environment",
+      "excerpt": "Apple has yet to openly discuss its self-driving vehicle research, but it’s a poorly-kept industry secret. Around 5,000 employees — including a portion of those previously employed by Drive.ai, an autonomous car startup Apple acquired last year — are said to be involved with code-name Project Titan, a joint effort with Volkswagen to ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/29/apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/29/apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment/amp/",
+      "publishedDateTime": "2020-01-29T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/e62e501f-87df-4bf1-bf6d-a4a1c366fb43-e1580318068496.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Apple researchers train AI drivers to merge lanes in a simulated environment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-29-artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis.md",
+      "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
+      "excerpt": "New York, January 29, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
+      "heat": 393,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-29",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-29-assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations.md",
+      "title": "Assessing Google CEO Sundar Pichai's call for fair AI regulations",
+      "excerpt": "Google CEO Sundar Pichai and other AI researchers say limited regulation is needed to protect people from irresponsible use cases. Google CEO Sundar Pichai and other executives working on artificial intelligence are now calling for limited government regulation as the European Union mulls potential five-year bans of facial recognition software.",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/",
+      "publishedDateTime": "2020-01-29T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Assessing Google CEO Sundar Pichai's call for fair AI regulations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-01-29-burger-flipping-robot-now-stands-on-its-head.md",
+      "title": "Burger flipping robot now stands on its head",
+      "excerpt": "Flippy is a lightweight industrial robotic arm with a spatula for an end effector bundled with a sensor suite and smart AI that helps it get better the more it cooks ... This month, Zume, previously the hottest fast food automation startup on the block with a valuation in the billions as of late 2019, announced it was changing focus from ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/burger-flipping-robot-now-stands-on-its-head/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/burger-flipping-robot-now-stands-on-its-head/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/burger-flipping-robot-now-stands-on-its-head/",
+      "publishedDateTime": "2020-01-29T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "AI in Robotics"
       ]
     }

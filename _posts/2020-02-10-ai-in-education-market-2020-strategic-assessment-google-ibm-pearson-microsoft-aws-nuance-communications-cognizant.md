@@ -54,6 +54,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Statistical Natural Language Processing Market Trend, Technology Innovations and Growth Prediction 2020"
+    excerpt: "The QyMarketResearchStore has published the obtainability of a new statistical data to its repository titled as, Statistical Natural Language ProcessingMarket. The report provides useful insights into a wide range of business aspects such as pillars,"
+    publishedDateTime: 2020-02-11T07:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-trend-technology-innovations-and-growth-prediction-2020-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
 
 secured: "Xvv9M/lPqIRWSizTwZ7KAWAp0dpPiGbLLoLsRinW0i14GLuHEyCLyum5XEG1DcG63Z09nFngnt9zYvr9aj/01SwZhR407/YajlD+Mv20mzDH1O9bHQalK4w5T8D2lO1rrbhgQyWQfm9Ho1X0DAP5gyT+MKjSNDiDMkgSuTffoW+gXDqZ9OF1RSxKU8B82mrupQAxz/O4/mOrOgkQ+3+yhGVDW4FVJtOgG0F7CLN7F1UVXDN+NxB3uq3xZyqTGqT6XtzbEvRRZR2FYrouqY2E0g5Wyjy7HlTgTQRj+Mv2dcpQIdlVoUCAJgdDJ6WQREwq;bL8aS2QIhdinWmpZWdp7Vg=="
 ---

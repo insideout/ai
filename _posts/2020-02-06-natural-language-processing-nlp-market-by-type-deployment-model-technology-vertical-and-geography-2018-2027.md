@@ -31,6 +31,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "machine learning as a service (MLaaS) market 2020 Outlook On a verge to Create Booming Growth Cycle?"
+    excerpt: "This machine learning as a service (MLaaS) market report is structured with the thorough ... Others), Organization Size (Small & Medium Enterprises, Large Enterprises), End User (Education, Banking & Financial Services, Insurance, Automation & Transportation, Healthcare, Defense, Retail, E-Commerce, Media & Entertainment, Telecom, Government ..."
+    publishedDateTime: 2020-02-11T10:41:00Z
+    webUrl: "https://www.openpr.com/news/1927358/machine-learning-as-a-service-mlaas-market-2020-outlook-on"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "9Z7S+n2keaWHMv/E769I2UXrQmKNNnZFVnn5who7N1da/OfsbMLKcO8wrrMDLivpPkIIgPhp05T7DGChdtjzWZEIzvx4rqR9e1g0wH/RMLieG0ey72irKkvSJOO5wJ5cr3No4s0YAiHvPIQbgLiTyvQwVvtMA0cd+bVoA8zl+mZqSj2MruwoUM9rPZX+saVYfErgss77/QrTTU0JrNbgr6UKbVpmUTBWlEF5u7hDpqIBmpILKVcRBfSs2gPvfWKbN4W7WkrzeHovoRFspx4YKZbNalRVRnVGtmh+PUDlthuZmRbCpljGmGKuomGxm62Q;5HovaUfiSbB9pq3dsJKZ4g=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-09T10:26:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-value-estimation-to-expand-from-2020-to-2029-2020-02-09"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Statistical Natural Language Processing Market Trend, Technology Innovations and Growth Prediction 2020"
+    excerpt: "The QyMarketResearchStore has published the obtainability of a new statistical data to its repository titled as, Statistical Natural Language ProcessingMarket. The report provides useful insights into a wide range of business aspects such as pillars,"
+    publishedDateTime: 2020-02-11T07:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-trend-technology-innovations-and-growth-prediction-2020-2020-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
 
 secured: "wWmwSgJAyf3EcwGIVJLOudFwqmHY0cZJQRXOirdl5u9kO2nT28oilxiQKRj92b+24I34MyCwES8g7c822IEXavtmKMw7N02Fy7YmFP25HFGhnLTlagqZwqxC7aRiOMkztVtEf51JXgacV33Rz/gFHDvYB01JMB2rb2X1PmA9hYNWsNBEYOwtxqqflMk/WVxELpxVcxIfVzbcIy1lJfWbPfmkqGDRlmudJai4053z/AeVj78WCqLt2wJmTSlxY7a1WK2foFDI9SFeeshG0nGKcJOtnoaQA4vldAKXtvcY5d4ClJVJmMuRqi95LxLkJwcK;eHGnDDVxZfc/yCZc7PaxRQ=="
 ---

@@ -1179,19 +1179,6 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GNXD2DF67BAWFK25T7SGYLMFAY.jpg"
         width: 2127
         height: 2072
-  - title: "London Police push forward with controversial facial recognition tech"
-    excerpt: "The London Metropolitan Police Service has announced it will begin the operational use of Live Facial Recognition (LFR) technology, despite there still being many critics and concerns. The technology itself has come under criticism not only for poor ..."
-    publishedDateTime: 2020-01-27T16:26:00Z
-    webUrl: "https://telecoms.com/502056/london-police-push-forward-with-controversial-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
-    images:
-      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
-        width: 300
-        height: 250
   - title: "Privacy Groups Urge Suspension of Federal Facial Recognition use"
     excerpt: "A group of privacy and civil liberties groups wrote a letter to the Privacy and Civil Liberties Board (PCLOB) urging the board to demand that the President and Secretary of Homeland Security suspend the use of facial recognition systems by Federal agencies. The Consumer Federation of America, Electronic Frontier Foundation, and Electronic ..."
     publishedDateTime: 2020-01-27T17:19:00Z

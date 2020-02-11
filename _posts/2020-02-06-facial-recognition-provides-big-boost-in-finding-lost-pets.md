@@ -39,19 +39,6 @@ related:
       - url: "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg"
         width: 792
         height: 528
-  - title: "European Parliament says no intention to deploy biometric facial recognition for MEP security"
-    excerpt: "The European parliament insists it will not roll out biometric facial recognition technology for access control in monitoring within parliament, after information leaked hinting the institution was looking into using it for security purposes, writes The Guardian. The Guardian further states that it reviewed an intranet page titled “artificial ..."
-    publishedDateTime: 2020-02-06T20:54:00Z
-    webUrl: "https://www.biometricupdate.com/202002/european-parliament-says-no-intention-to-deploy-biometric-facial-recognition-for-mep-security"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
 
 secured: "Zth9SsTcZhbXWnLh4V/x1mc87zgezgbAW8w+UU1xwh/Z2KEDSxutHwyJqvp+34J/yON1M9r9eBQwwQdyIC0a21kJNwsUV8lDzLaFcevGree2H6MtvpMUfFBmEWCV816IEF70M/rXITnsFZ32OTqP21jEf96KDrZBE2G9tJ/oQ3/XdfRVYsOZJ+FV6eQmvMoJIIyXl45gF8CUl8ulJTj2gCeP8vaIjpkf28ML0y0mExpT3MK83XtnqdW+0lNJfOvl1pFuhQ0j60eXkJIJMJoCd8O/fOf4JgqJvQ7hEZjSWydxKPAakQt9VR94iFKv/w1irG0DXOUbNx64KIpLg/wAu788tcfQXi/3ZQLFyTK+UUJ5nG+cPwtHXbnk5FhJEY8Uu/V5STuM2Yx4gNqX7I3pyJzVRx2hqm0BK2QH0f2SivNZoEv0pBzLLLe5g0U1H8RIx1CCdcpbyrKXcgXPN0s8pga1omU2VJ0feVRZBk8FdFg=;1h18AI6dPNbWA/6TllmN9A=="
 ---

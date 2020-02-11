@@ -2,26 +2,24 @@
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
-publishedDateTime: 2020-02-04T10:24:00Z
-webUrl: "https://apnews.com/Business Wire/6cc89506c97d469ba190f5fea31af2a0"
+publishedDateTime: 2020-02-04T09:00:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/reply-european-central-bank-explores-the-possibilities-of-machine-learning-with-a-coding-marathon-organised-by-reply-1028870934"
 type: article
-quality: 16
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Finance
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 
 related:
   - title: "European Central Bank Partners with Digital Innovation Platform Reply to Offer AI and Machine Learning Coding Marathon"
@@ -53,6 +51,6 @@ related:
         width: 914
         height: 611
 
-secured: "iyztQde9bdUp9oN6j7qThcHGfFqKzyAOs3V62AsK3HRgdr69yjIHMyoXXHrB2tP3Dww/eSkDVBtPF/DTPIsg0cMRwbKkFOW1+Srtlw49b4EjkB2s6htAEPMe40XG1ZxvE80J1/vqYmv/a0VFjtPdCVXVGorYz0rP6pkXFrLeUhC7FPb+LjD8F10/EJkfV2dWGvpUfNQZHutFcLk8aK0cy3v3RUSrDDcIYMn3e4ka6lDZCVR5VTo0KvJJ/SFX/RbI5GzNiO/bdJdUoLKtP+XzBT0CMZ9CTjVJcSG3QlS6UF35zSpIWYeSgdKVAerCg8or;PKwbSu0jkfxQ+ZmVZQbw3w=="
+secured: "My0U5G09B5b1qv5cNbvdFN3ZXn3sC1qpc2Q7Xjm8ypClwGou/QFDVcQk/NL0ekd4ryJ1OCh+guvWbHBKdaTJF9YnHjemC131/+pr38hKzS3Sz9EUo5iqFBOvuyBpynP77t24naghwySqxkVLHgAo85wJbBRa75sUi112tlMJGntgwGfG0pAsR7hdML6JlKS45NyxXGgFMhI4jacJFhUI5ucNHN0yw0xHkisKQXxPx7rdDDJ5xmMRYp2LQOGiolx9HBlwdrji/vyEPcK6/I2ymt5hCfyPo0V67guYpvd75KE5hAi54pIX/kGzMsYig6H5;qtWOaxa7fn5Wy0U+G3zICQ=="
 ---
 

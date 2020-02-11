@@ -175,6 +175,19 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
+  - title: "U.S. Lawmakers to Hear Calls for Requiring New Safeguards for Self-Driving Cars"
+    excerpt: "A U.S. House panel on Tuesday will hear calls for requiring new safeguards as part of any effort to speed the adoption of self-driving cars on U.S. roads."
+    publishedDateTime: 2020-02-11T10:14:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/02/11/technology/11reuters-autos-autonomous-congress.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 50
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
   - title: "Self-driving shuttles tested in Linden"
     excerpt: "Self-driving shuttles began traversing the streets of Linden on Wednesday, and community leaders and residents hope the pilot program will show the need for continuing such service. The two 12-passenger shuttles — one blue and green, the other rainbow-colored — began serving the public at 3:30 p.m. The free Linden LEAP — for Linden ..."
     publishedDateTime: 2020-02-05T21:13:00Z

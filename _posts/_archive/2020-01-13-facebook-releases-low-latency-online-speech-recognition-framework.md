@@ -22,6 +22,19 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
+    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
+    publishedDateTime: 2020-01-13T11:55:00Z
+    webUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
+    type: article
+    provider:
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 36
+    images:
+      - url: "http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png"
+        width: 620
+        height: 500
   - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
     excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the ..."
     publishedDateTime: 2020-01-16T00:00:00Z
@@ -31,16 +44,7 @@ related:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
     quality: 34
-  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
-    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any ..."
-    publishedDateTime: 2020-01-13T11:55:00Z
-    webUrl: "https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api"
-    type: article
-    provider:
-      name: Pepsi
-      domain: mobilemarketingmagazine.com
-    quality: 16
 
-secured: "ONhTVT26GPohLe04jRyeScnp7SzUk4/zXcVIRcjIip2Xyc6HuoogumecNpGBVphhkSktJNGjY3dPxYOI4C4WF3Nb3LzcM7ldiYuQzqws9RkQkei+2axU/ecplasGSOfx4dTArgFO1bsGGy7utjQAKAuNLWLVNUnixa+uWjdf6XtnJQ6dnuW0XiW0txwvgp1jabjSeFF/apa3I/zHSht4uwYCg878Ksf9YT+rRPfUtgOGNIaxPxlepHBSKVo0GPzmKlTGfBp6A02aT7JY83MBWcZEYA9d2DP6DosIjr7bCHxUay3EcjiFFaGvW1YjM8Bc;d/slnswCXllR3xAhvscSgQ=="
+secured: "QgUDhScbwhpILrcMjn5+3ANw4EGg6ifIzibmzKwNFvrxV7SmBMqRB3ARX0I1Ha2GJ4Z26dkiZKRBN8b61yj6lPrtRqyTOdMLU5ZHKdqKxq6ogxsS5O+qVBraGacy0xxO+L/mDfpbbBIb7Fz0e4prVPTqxrIEHWpUXb3A2Pf5zmxIiUte6hCwsgGmNFnOLbRPsLneDvP1EEie4krol0sp1zVWewHJBoaQlMP1Mhjfmf6COi5aQMmzsdsmTGbJtK3kQfu3+O2j/HSjeNyRut7/PImehIBlJgU5wQQZ2ANXoQVkSkwLoTAynGp/BqtX1Xyx;G8vZ+/5jb+9iMzIgqLb6Bw=="
 ---
 

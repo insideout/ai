@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/"
 type: article
 quality: 90
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
       - url: "https://images.tweaktown.com/news/7/0/70457_01_facebook-sends-cease-and-desist-to-facial-recognition-startup-clearvie.png"
         width: 620
         height: 343
+  - title: "Facebook acquires UK machine learning AI start-up Deeptide"
+    excerpt: "A regulatory filing at Companies House shows that Facebook now controls 75 percent or more of shares in Deeptide, which controls Atlas ML, the company behind the 'Papers with Code' resource for machine learning. According to unnamed sources from London's ..."
+    publishedDateTime: 2020-02-11T10:11:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-acquires-uk-machine-learning-ai-start-up-deeptide--1326126"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "mNSR44mzfnTWPHAFEHitgBH2ws2NcFjjEUXO1aNYu9IqtyAWfR5QcQhJZxiTLGWxvfkIoyD5p/pYbsCPyYLlQCc7r3b+HBQuM0qOZyDzNItYMWgdFLhfSm8gneTo3WX70ktl2s35zCHXHPJefTsqaOJs+WtgjaOF1BD64DSZP2j7MyhsM66LxuyKnoKXGMgy96J0THZ0ArMKevPV4FZCSKV4FhSl/Qn/P6UZu8+wYAMuN2tLKf2l2QioU3azEMMvn+VEXnP0Tep6Sz+ja4RG36ABW5Ju0eb90rbTE6ObqhSDsmpFeqsCuhgl4NEsmc/eYBZ2kgZ0a2wbOPx7Mg/CV4jIOnX3IAVZqTa7RXuTvr3arhYi7UkMC+pVnxdfxSMopwA8YwdwPTWCjtqOIt8Xh7cAO4IWyTD5KihETWH8bFI9YSoN7AZlzpaVus7601GeylfluwO8ihShzF+FJVEMKTEp4TszdDDXqa6p2LOgLh8=;kThe9GEIdMXletphpI261g=="
 ---

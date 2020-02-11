@@ -54,6 +54,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/segars-2-e1580937121468.jpg?fit=1203%2C600&strip=all"
         width: 1203
         height: 600
+  - title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
+    excerpt: "Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which basically means processing on a device without a cloud connection, The Verge reports. The ARM Cortex-M55 promises up to 15x ..."
+    publishedDateTime: 2020-02-11T10:26:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices/videoshow/74081733.cms"
+    ampWebUrl: "https://m.timesofindia.com/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices/amp_videoshow/74081733.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices/amp_videoshow/74081733.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 70
+    images:
+      - url: "https://static.toiimg.com/photo/msid-74081733/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.jpg"
+        width: 1600
+        height: 900
   - title: "Arm Ltd to launch new AI chip for small devices"
     excerpt: "Chips with the technology will hit the market in 2021 and aim to carry out the special kinds of math needed by artificial intelligence (AI) software that can detect vibrations or pick out spoken keywords from a user. The chips are designed to function with very low amounts of electricity. That allows devices such as sensors to last for years at ..."
     publishedDateTime: 2020-02-10T20:16:00Z

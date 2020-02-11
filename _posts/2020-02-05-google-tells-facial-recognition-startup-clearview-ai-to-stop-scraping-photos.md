@@ -232,6 +232,21 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/05/17/24354446-0-image-a-59_1580923631236.jpg"
         width: 636
         height: 382
+  - title: "Florida cops use this facial recognition tech that could be pulling your pics"
+    excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
+    publishedDateTime: 2020-02-11T10:08:00Z
+    webUrl: "https://www.tampabay.com/florida-politics/buzz/2020/02/11/florida-cops-use-this-facial-recognition-tech-that-could-be-pulling-your-pics/"
+    ampWebUrl: "https://www.tampabay.com/florida-politics/buzz/2020/02/11/florida-cops-use-this-facial-recognition-tech-that-could-be-pulling-your-pics/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/florida-politics/buzz/2020/02/11/florida-cops-use-this-facial-recognition-tech-that-could-be-pulling-your-pics/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 56
+    images:
+      - url: "https://www.tampabay.com/resizer/Ad0jNQXVyDvwAuA5wrBJPTi-8v8=/800x450/smart/arc-anglerfish-arc2-prod-tbt.s3.amazonaws.com/public/MNOYRNOZY5HFDLXUNY5ON7YO5A.jpg"
+        width: 800
+        height: 450
   - title: "Mitek claims spoof-proof breakthrough in facial recognition"
     excerpt: "As the industry-first provider of Liveness Detection, Mitek is extending its technology to offer virtually spoof-proof facial comparison across all digital channels (native and web) - through one simple selfie. There are no additional steps for the consumer. Mitek’s extended Liveness Detection provides customers with additional security ..."
     publishedDateTime: 2020-02-10T14:47:00Z

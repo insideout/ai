@@ -243,6 +243,21 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 61
+  - title: "Florida cops use this facial recognition tech that could be pulling your pics"
+    excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
+    publishedDateTime: 2020-02-11T10:08:00Z
+    webUrl: "https://www.tampabay.com/florida-politics/buzz/2020/02/11/florida-cops-use-this-facial-recognition-tech-that-could-be-pulling-your-pics/"
+    ampWebUrl: "https://www.tampabay.com/florida-politics/buzz/2020/02/11/florida-cops-use-this-facial-recognition-tech-that-could-be-pulling-your-pics/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/florida-politics/buzz/2020/02/11/florida-cops-use-this-facial-recognition-tech-that-could-be-pulling-your-pics/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 56
+    images:
+      - url: "https://www.tampabay.com/resizer/Ad0jNQXVyDvwAuA5wrBJPTi-8v8=/800x450/smart/arc-anglerfish-arc2-prod-tbt.s3.amazonaws.com/public/MNOYRNOZY5HFDLXUNY5ON7YO5A.jpg"
+        width: 800
+        height: 450
   - title: "Google and YouTube want Clearview AI to stop scraping images and video for facial recognition database"
     excerpt: "Facebook told CBS News that it, too, is reviewing the company's controversial practices, but so far hasn't made any decision on what to do about it. The social giant is on thin ice when it comes to facial recognition, after being brought to court for silently doing it in the background using photos uploaded by its users."
     publishedDateTime: 2020-02-06T11:51:00Z

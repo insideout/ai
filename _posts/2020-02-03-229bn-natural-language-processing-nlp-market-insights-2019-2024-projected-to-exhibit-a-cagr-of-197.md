@@ -1,17 +1,17 @@
 ---
 category: news
 title: "$22.9Bn Natural Language Processing (NLP) Market Insights, 2019-2024: Projected to Exhibit a CAGR of 19.7%"
-excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component,"
-publishedDateTime: 2020-02-03T11:44:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978601/0/en/22-9Bn-Natural-Language-Processing-NLP-Market-Insights-2019-2024-Projected-to-Exhibit-a-CAGR-of-19-7.html"
+excerpt: "Dublin, Feb. 03, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing Market Research Report: By Type, Deployment Type, Component, Application, Industry -"
+publishedDateTime: 2020-02-03T10:44:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15234779/22-9bn-natural-language-processing-nlp-market-insights-2019-2024-projected-to-exhibit-a-cagr-of-19"
 type: article
 quality: 1
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -105,6 +105,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "AdMPcCXeJS6hKjkdHsVIAtl7tSZdSKjnOBzactCx70EhB6/+SrX56fDuCpakdGudqRMPpGpM5MJJlYZQ/EJIu/5XIbwrYojskL7kPsgRfyPr27bT4nA244tqBfUfcyQklbLxHxUc4H5jzfI2KjwDaJAP9GpxSfM2KFLAvnoBKyVmj6pFP9UvTvQDwGRIDGibK+el1s9C7z6tiAGcMc6iTEJgYBuQV2jc8qgrGDjkAEh3gVl4O7V6ICn0kyILEx4wExOnCw7xHbKP76Vii4B84rQtZwbVYP8oS/a7C6Gc44DY8jAGzpN32U+5Jpsz5nTa;t8cuFCYe5u80JAXy77MNag=="
+secured: "z+fd9jSof3tCSaZOBzqf1Pj/lCtakXpQkY7anejDqRWHLKDTFCNR5GjQu2N/OjOLZiHVV5rX1Cv86QYvWZUGW4VCSMVPIC0V5D5UkH83O5Yo9s+1cEeksRi83bLu8gsSFkgU8mYlgCi/Fi0ussmX9bzhgvXfPeoCLoxvXTRpyLaT/Lgg5KF1Pue7qsc7+rQFl/AoBgWQhagRizwdYRSSmOcCAfSf9a0PLwbb7RjP8tWoB+X1hEZ0IE+XGf3X3a3NRKbjiM6S/NSYgAq6Ttt5MQSrFE8mRSBERADmPkSdpY7hESzP7JFA0Zd0f013VwIC;sfUS1zAnT1mgyybHLZSxLw=="
 ---
 

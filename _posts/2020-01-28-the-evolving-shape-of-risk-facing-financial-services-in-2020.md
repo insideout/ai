@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/steveculp/2020/01/28/the-evolving-shape
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveculp/2020/01/28/the-evolving-shape-of-risk-facing-financial-services-in-2020/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg"
         width: 400
         height: 300
-  - title: "Is seeing still believing in the age of AI?"
-    excerpt: "Leigh Dow is the CEO of 48 West Agency. Have a marketing challenge you need to solve? Contact her at leigh@48westagency.com. Digital reputation management means staying up to date even as things are constantly changing,"
-    publishedDateTime: 2020-01-27T16:19:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2020/01/27/is-seeing-still-believing-in-the-age-of-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
-    images:
-      - url: "https://s3.amazonaws.com/acbj-community-wpengine-prod/uploads/2020/01/GettyImages-691048293.jpg"
-        width: 509
-        height: 339
   - title: "Coming soon: The promise of artificial intelligence in servicing"
     excerpt: "When loans transfer to servicing, the smooth digital process is suddenly transformed into a rough, paper-heavy and confusing process. But AI is slowly starting to change that."
     publishedDateTime: 2020-02-03T05:12:00Z

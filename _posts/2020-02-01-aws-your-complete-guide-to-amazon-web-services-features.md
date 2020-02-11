@@ -29,6 +29,6 @@ images:
     height: 450
     title: "AWS: Your complete guide to Amazon Web Services & features"
 
-secured: "7lR48MD29cB7nzRAejl92RIEmmZCIyPQ3zqzmfJTOAlWRK8jUKUEpP/LybHiqz66LnywtwUkhefjP70QOzye9Od+LvRqkI3pf1N5AVYIr6YLOK+th9/p7WmmAkEqFQQsAvyfAgzWYp6/WcJ2P+r6TUCmg9LwbGVEe9by46QU68ms/N+q1XE7vUhnRNBHXhit9gEP1xciGkQ0wAAoBQX/llFC20jjxGpahT0OdJgYfpB7uMb786dqVpSHl5Arnykz3EZY78T+o4bndO1VtrLtsyiU+reslbz/0BJFPlNTV2KN4RBJECYipANR/s8cypBA;kYsP8yHDmbrLCNAJal4pTw=="
+secured: "ZOEI0n1FuUePsCH27vLBYbOa06Bb4SFiSFNmNjYLAS2nPl/f520aYb6Ja/eOV9pGbd7fpHNXKcQOH3G7D4BeuG77W3n6qYOaEQSOaUXiCuVRx2ib8BRyBApmUqW9esHLmRYaZ2FVBVxKmpI/ZTe1d9hjk1W5z9KYOgInPR2CBSRmCVEdzEe+Oho1SFYCYa0uK51Y8TVexV/DoFEIdl+Tz2bR7TXFnTJbsR/22L1bDZtWqIEqqz+IdfHSZ56wc/TGUS304J301K6pB9FsqDAtPtSzjAnJdmYnkxJlVhH5WwjenycVLJQa+Y4cTI4p9Lew;iM5Oz7iniV4t/P/frp+7+g=="
 ---
 

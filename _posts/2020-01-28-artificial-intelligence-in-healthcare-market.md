@@ -46,15 +46,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/01/31/534695.jpg"
         width: 1240
         height: 936
-  - title: "Artificial Intelligence (AI) in Healthcare Market"
-    excerpt: "A new research document is added in HTF MI database of 50 pages, titled as 'Artificial Intelligence (AI) in Healthcare Market in India (2018-2023)' with detailed analysis, Competitive landscape, forecast and strategies. The study covers geographic analysis that includes regions like North America, Europe, Asia Pacific, Latin America ..."
-    publishedDateTime: 2020-01-27T17:03:00Z
-    webUrl: "https://www.openpr.com/news/1909861/artificial-intelligence-ai-in-healthcare-market-next-big"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
   - title: "Artificial Intelligence in Healthcare"
     excerpt: "WMR published report on Artificial Intelligence in Healthcare Market 2027: Delivering key insights and providing a competitive advantage to clients through a detailed report. Artificial Intelligence in Healthcare Industry Size, Market Share Value, Competitors Research, Industry Outlook as well Analysis covers various factors like Regional ..."
     publishedDateTime: 2020-01-30T10:45:00Z

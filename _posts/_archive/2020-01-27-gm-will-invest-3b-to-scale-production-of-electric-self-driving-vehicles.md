@@ -69,21 +69,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/plP6WIWUE6s5XsYSHU4OYd_Lem0=/0x0:600x396/1400x1050/filters:focal(252x150:348x246):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66206932/700378499.0.jpg"
         width: 600
         height: 396
-  - title: "GM to invest $2.2B in Detroit to build electric and self-driving vehicles"
-    excerpt: "DETROIT—General Motors is spending $2.2 billion (U.S.) to refurbish an underused Detroit factory so it can build a series of electric and self-driving vehicles, eventually employing 2,000 people. GM said in a statement Monday that the factory will start ..."
-    publishedDateTime: 2020-01-27T15:52:00Z
-    webUrl: "https://www.thestar.com/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles.html"
-    ampWebUrl: "https://www.thestar.com/amp/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 43
-    images:
-      - url: "https://images.thestar.com/ubGicgxAN7XcYMEtjqYlMEzp11w=/1200x800/smart/filters:cb(1580139692061)/https://www.thestar.com/content/dam/thestar/business/2020/01/27/gm-to-invest-22b-in-detroit-to-build-electric-and-self-driving-vehicles/gm.jpg"
-        width: 1200
-        height: 800
 
 secured: "hnLE8/OpgbYVd2KesKgpxL+p8Zj+8UtSCj87F3wZRdnAHvdKvZ35QNqGmEyATFDNhfB5CkQtoyWorxEYjnmn5/2XwlTVaZfjRoVtadi/iACmvS62c37NsWTqpD9EW5R6dy5Dk9LV2DjiePaMxkqnjyKmkNVzWrWGm9aNPnfBh7oGe2Xx2BIrfuTDphYZlpB3ZWTRv32dSN/M03bdsy7vq1esYUWbKiLnb4LRNE4844M5MwN0tMdhbivWZP08VreJfdG7K2AwfnIWzLBtFvAgoJIwp0JJszmygMez3z0ikg+UXGUafew2VP1QMP+IU+xQuJKaRNjPJHe4Pn5PVz0VMHPdMrHJGv+x1VxS+VZcNJ2hRV9N59MxQKdhSvqsfl+6/dvhCjivF+2kMzmKKy/G6vYGdHNkBQUzx3iZEDLvCR/ASz3BPlx8HzX4nHaI44boNPQG+Ni2KoYbgEp9nfhxmAqtBTTXPnvZ0qrCStTCqMk=;Ww7TlTboo+MgXYxkWXhY/g=="
 ---

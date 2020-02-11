@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/01/29/48-hours-left-on-early-bird-pricin
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/48-hours-left-on-early-bird-pricing-to-tc-sessions-robotics-ai-2020/amp/"
 type: article
 quality: 119
-heat: -1
-published: false
+heat: 169
+published: true
 
 provider:
   name: TechCrunch
@@ -30,21 +30,6 @@ images:
     title: "48 hours left on early-bird pricing to TC Sessions: Robotics + AI 2020"
 
 related:
-  - title: "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020"
-    excerpt: "There’s plenty more waiting for you, including the finalists of our first Pitch Night. This group of intrepid robotics and AI startup founders made the cut (10 teams will pitch the night before the conference at a private event). The finalists will pitch again at the conference from the Main Stage. Think your startup has what it takes to ..."
-    publishedDateTime: 2020-01-27T15:33:00Z
-    webUrl: "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/"
-    ampWebUrl: "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 121
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/robotics_countdown_4.png?w=1024"
-        width: 1024
-        height: 562
   - title: "One day left for early-bird tickets to TC Sessions: Robotics + AI 2020"
     excerpt: "So if you love robots and machine learning, why spend more on your ticket to TC Sessions: Robotics + AI 2020? Prices go up on January 31, which means you have just one day left to buy an early-bird ticket. You’ll save a tidy $150 in the process. Sweet! On March 3, roughly 1,500 attendees will spend the day delving into the future of robots ..."
     publishedDateTime: 2020-01-30T17:10:00Z
@@ -90,6 +75,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/lastday_countdown.png?w=1024"
         width: 1024
         height: 562
+  - title: "Stanford’s Doggo quadrupedal robot and siblings Pupper and Woofer are coming to TC Sessions: Robotics+AI"
+    excerpt: "Doggo’s creators will bring the diminutive robot, plus its smaller and larger siblings Pupper and Woofer, to TC Sessions: Robotics+AI on March 3. P.S. Early bird ticket sales end this Friday – book your tickets today and save $150. We first heard of Doggo last year when the Stanford Robotics Club showed off the highly capable design ..."
+    publishedDateTime: 2020-01-29T21:05:00Z
+    webUrl: "https://techcrunch.com/2020/01/29/stanfords-doggo-quadrupedal-robot-and-siblings-pupper-and-woofer-are-coming-to-tc-sessions-roboticsai/"
+    ampWebUrl: "https://techcrunch.com/2020/01/29/stanfords-doggo-quadrupedal-robot-and-siblings-pupper-and-woofer-are-coming-to-tc-sessions-roboticsai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/stanfords-doggo-quadrupedal-robot-and-siblings-pupper-and-woofer-are-coming-to-tc-sessions-roboticsai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 70
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/doggo_pupper.jpg?w=1024"
+        width: 1024
+        height: 484
   - title: "Stanford’s Doggo quadrupedal robot and siblings Pupper and Woofer are coming to TC Sessions: Robotics + AI"
     excerpt: "Doggo’s creators will bring the diminutive robot, plus its smaller and larger siblings Pupper and Woofer, to TC Sessions: Robotics + AI on March 3. P.S. Early-bird ticket sales end this Friday — book your tickets today and save $150. We first heard of Doggo last year when the Stanford Robotics Club showed off the highly capable design ..."
     publishedDateTime: 2020-01-30T18:32:00Z

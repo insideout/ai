@@ -1192,19 +1192,6 @@ related:
       - url: "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg"
         width: 512
         height: 512
-  - title: "London Police push forward with controversial facial recognition tech"
-    excerpt: "The London Metropolitan Police Service has announced it will begin the operational use of Live Facial Recognition (LFR) technology, despite there still being many critics and concerns. The technology itself has come under criticism not only for poor ..."
-    publishedDateTime: 2020-01-27T16:26:00Z
-    webUrl: "https://telecoms.com/502056/london-police-push-forward-with-controversial-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
-    images:
-      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
-        width: 300
-        height: 250
   - title: "EU Considers Ban on Use of Facial Recognition Technology"
     excerpt: "The European Union is considering a temporary ban on the use of facial recognition technology because of data privacy concerns. Next month Margrethe Vestager, the European commissioner for digital policy and antitrust, will publish a paper setting out the EU’s plans for regulating artificial intelligence over the next five years. This paper ..."
     publishedDateTime: 2020-01-28T23:34:00Z

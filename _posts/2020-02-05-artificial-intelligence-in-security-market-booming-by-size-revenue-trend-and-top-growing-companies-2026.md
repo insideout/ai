@@ -92,6 +92,15 @@ related:
       - url: "https://www.accesswire.com/users/newswire/images/575314/1.png"
         width: 1760
         height: 786
+  - title: "Installed Base of Machine Vision Systems in Industrial Manufacturing to Reach Near 100 Million By 2025"
+    excerpt: "Machine vision is a mature technology with established incumbents. However, significant advancements in chipsets, software, and standards are bringing deep learning innovation into the machine vision sector. According to a recent analysis by global tech market advisory firm ABI Research, total shipments for machine vision sensors and cameras ..."
+    publishedDateTime: 2020-02-11T10:29:00Z
+    webUrl: "https://www.abiresearch.com/press/installed-base-machine-vision-systems-industrial-manufacturing-reach-near-100-million-2025/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 0
 
 secured: "NYO5YedD+iXm6H2mGezqRcdJKgPcF3kBCCDy7I6LpDol5o/w2WLT7z5M75DxCFM9FeyPdkDupJCmvVWaraAhUpeN/8dCS2xoxcXsYM7Ag+KaZv4ySa92q8jSqshkK6s6wh1vjA2dfdy+nM3GUS6ns71czWWUY5UGr2TlwGNnWKUKHL5nRQL/II7FE6nXMBcM7njl5zwCVgmGc2mB3Ah5suhCdaTVvD1UPi72NDC5lvjKC216W3Kz+cWPW+oG6QSux1pDwmtSB4Jffu0S25wD7G/61LJrQFw0Obg1DosURiE50U7Di1sOhe3PDXVERt0W;h10978PWdWsgM/UgoERqjg=="
 ---
